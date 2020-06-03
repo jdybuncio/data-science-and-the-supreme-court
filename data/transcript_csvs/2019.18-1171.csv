@@ -1,0 +1,336 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2019.18-1171,0,15086,john_g_roberts_jr,scotus_justice,0.195,11.085,"We'll hear argument first this morning in Case 18-1171, Comcast Corporation versus the National Association of African American-Owned Media. Mr. Estrada."
+2019.18-1171,0,35754,miguel_a_estrada,,11.085,37.995,"Mr. Chief Justice, and may it please the Court: The Ninth Circuit held in this case that a plaintiff may succeed on a Section 1981 claim merely by showing that race was a factor that was considered in the defendant's decision-making, even if the decision would have made and was made for entirely appropriate business reasons having nothing to do with race. Solely on this basis, the Ninth Circuit saved the Plaintiff's third complaint from dismissal."
+2019.18-1171,0,15086,john_g_roberts_jr,scotus_justice,141.2,147.17,"Counsel, I wonder if the distinction they're fighting over is -- is somewhat academic."
+2019.18-1171,0,35754,miguel_a_estrada,,195.35,235.575,"Well, all complaints are different, Mr. Chief Justice, and I don't rule out, you know, the possibility that a complaint may allege such an expression of animus that it could actually imply that the animus continued until the end, such that it -- the complaint does allege but-for causation. Now the Plaintiffs, from the motion to dismiss in this case to the Ninth Circuit, have stuck their case on the proposition that they are alleging that race was a motivating factor and a motivating factor only, and they were not prepared to prove but-for causation. And, you know, we contend that that is wrong under Gross and Nassar."
+2019.18-1171,0,15094,elena_kagan,scotus_justice,287.12,296.285,"Mr. Estrada, you said that the Respondents here continue to say that they don't have to prove but-for causation."
+2019.18-1171,0,35754,miguel_a_estrada,,308.02,308.16,Forty-nine.
+2019.18-1171,0,15094,elena_kagan,scotus_justice,308.16,309.41,-- or 49 --
+2019.18-1171,0,35754,miguel_a_estrada,,309.41,310.395,Right.
+2019.18-1171,0,15094,elena_kagan,scotus_justice,310.395,313.745,"-- of the Respondents' brief, they seem to say the opposite."
+2019.18-1171,0,35754,miguel_a_estrada,,317.3,318.17,"The Kaz case, right."
+2019.18-1171,0,15094,elena_kagan,scotus_justice,318.17,323.61,"-- that, in fact, they are going to have to prove but-for causation at the end."
+2019.18-1171,0,35754,miguel_a_estrada,,329.49,329.985,I --
+2019.18-1171,0,15094,elena_kagan,scotus_justice,329.985,350.13,"And if -- if -- if -- if we take it that way, I mean, Mr. Chemerinsky can say what he wants to say about that, but let's just assume that that's true, that they are going to have to plead but-for -- excuse me, that they're going to have to prove but-for causation at the end; that is the ultimate standard in the case. But this is a complaint."
+2019.18-1171,0,35754,miguel_a_estrada,,367.405,371.14,"Well, I think -- you know, I have two answers to that."
+2019.18-1171,0,15094,elena_kagan,scotus_justice,385.82,398.06,"Yeah, so I take that point, and I would think that if -- if my assumption holds, which is that the Respondents do have to prove this at the end, then you would have to say that the Ninth Circuit is wrong. But you would still have --"
+2019.18-1171,0,35754,miguel_a_estrada,,398.06,398.59,That would not be novel.
+2019.18-1171,0,15094,elena_kagan,scotus_justice,398.59,400.85,-- the question of whether the complaint is sufficient.
+2019.18-1171,0,35754,miguel_a_estrada,,400.85,401.3,Yes.
+2019.18-1171,0,15094,elena_kagan,scotus_justice,434.08,447.69,"Yes, so they could be saying that -- and I guess this is another thing for Mr. Chemerinsky to be thinking about -- they could be saying that, that this is essentially an attempt to shift the burden of but-for causation onto you. But they don't have to be saying that."
+2019.18-1171,0,35754,miguel_a_estrada,,447.69,447.91,If I --
+2019.18-1171,0,15094,elena_kagan,scotus_justice,447.91,449.195,"Excuse me, Mr. Estrada."
+2019.18-1171,0,35754,miguel_a_estrada,,485.54,499.92,"Well, the -- now the -- the -- the answer to -- you know, the bottom line answer to, I think, the theory that underlies all of your questions is that -- the answer to your question is actually controlled by Rule 8, Twombly and Iqbal."
+2019.18-1171,0,62836,neil_gorsuch,scotus_justice,534.59,535.44,"Well, Mr. Estrada, though --"
+2019.18-1171,0,15094,elena_kagan,scotus_justice,535.44,535.5,If --
+2019.18-1171,0,15068,samuel_a_alito_jr,scotus_justice,535.5,535.68,Can I --
+2019.18-1171,0,62836,neil_gorsuch,scotus_justice,535.68,537.38,-- isn't it -- isn't it -- I'm -- I'm sorry.
+2019.18-1171,0,15068,samuel_a_alito_jr,scotus_justice,537.38,537.855,"No, go ahead."
+2019.18-1171,0,62836,neil_gorsuch,scotus_justice,537.855,553.055,"Isn't it perfectly common when -- when -- when you're alleging a mental state of an opposing party and you have yet to have discovery to allege on information and belief mental states, and isn't that the simple solution here?"
+2019.18-1171,0,35754,miguel_a_estrada,,553.055,555.68,"Well, yes and no, Justice Gorsuch."
+2019.18-1171,0,62836,neil_gorsuch,scotus_justice,564.0,564.71,You have to have a good faith --
+2019.18-1171,0,35754,miguel_a_estrada,,564.71,565.3,-- facts from which --
+2019.18-1171,0,62836,neil_gorsuch,scotus_justice,565.3,576.31,"-- right, right, but positing Justice Kagan's facts, there's a statement and you have some factual circumstances that might lead to that inference."
+2019.18-1171,0,35754,miguel_a_estrada,,576.31,576.68,"Yes, yes."
+2019.18-1171,0,62836,neil_gorsuch,scotus_justice,576.68,579.12,Then you would -- you would plead that mental state.
+2019.18-1171,0,35754,miguel_a_estrada,,579.12,587.99,"And if you plead the factual circumstances that plausibly give rise to the inference, then you would have a case that -- that possibly complies with Twombly and Iqbal."
+2019.18-1171,0,15131,sonia_sotomayor,scotus_justice,587.99,589.325,"Well, but isn't that the point --"
+2019.18-1171,0,15094,elena_kagan,scotus_justice,589.325,589.95,Maybe.
+2019.18-1171,0,35754,miguel_a_estrada,,602.305,603.57,"Versus Sorema, yes."
+2019.18-1171,0,15094,elena_kagan,scotus_justice,603.57,609.23,Which -- which -- which Twombly said we're thinking about that case and that case is still good law.
+2019.18-1171,0,35754,miguel_a_estrada,,617.0,617.34,Uh-huh.
+2019.18-1171,0,15094,elena_kagan,scotus_justice,617.34,618.97,-- with the prima facie case.
+2019.18-1171,0,35754,miguel_a_estrada,,634.145,670.38,"With all due respect, Justice Kagan, I think that that is not a fully accurate characterization of the case or of how Iqbal actually distinguished it. What was happening in the Sorema case -- let's call it that to make our lives easier -- is that the Second Circuit had ruled that the complaint was deficient because the plaintiff had pled -- had failed to allege the McDonnell Douglas framework in the complaint. Now the Court overturned that ruling, pointing out that the McDonnell Douglas framework is an evidentiary framework that a plaintiff may choose to use at a trial, not a pleading framework."
+2019.18-1171,0,15131,sonia_sotomayor,scotus_justice,710.465,728.065,"But I'm not sure -- I go back to the Chief Justice's initial point, which is, if I come forward and show that race was a motivating factor, it can also be the but-for."
+2019.18-1171,0,35754,miguel_a_estrada,,759.235,759.415,Well --
+2019.18-1171,0,15131,sonia_sotomayor,scotus_justice,759.415,773.13,What you seem to be suggesting is that they're required to anticipate every potentially independent reason you may have had without really knowing it --
+2019.18-1171,0,35754,miguel_a_estrada,,773.13,773.74,Well --
+2019.18-1171,0,15131,sonia_sotomayor,scotus_justice,773.74,775.4,-- and disproving it in the complaint.
+2019.18-1171,0,35754,miguel_a_estrada,,776.16,780.285,"No, actually, I -- I have said nothing to -- to that effect, Justice Sotomayor."
+2019.18-1171,0,15131,sonia_sotomayor,scotus_justice,791.62,804.975,The problem is that the Ninth Circuit -- neither the Ninth Circuit and even the government admits that it didn't look at this complaint through the lens that would be provided if we find but-for causation.
+2019.18-1171,0,35754,miguel_a_estrada,,804.975,805.65,Correct.
+2019.18-1171,0,15131,sonia_sotomayor,scotus_justice,814.39,814.93,Not us.
+2019.18-1171,0,35754,miguel_a_estrada,,815.905,817.34,"Well, somebody."
+2019.18-1171,0,15068,samuel_a_alito_jr,scotus_justice,848.39,848.9,But if the --
+2019.18-1171,0,17766,brett_m_kavanaugh,scotus_justice,848.9,849.35,There are a lot of --
+2019.18-1171,0,15068,samuel_a_alito_jr,scotus_justice,849.35,885.205,"-- Mr. Estrada, if the -- if the Respondents now agree that in the end the burden of -- the -- the -- the substantive standard is but-for, is there a dispute about that issue before us, or is the only question before us whether enough facts were pled under 12(b)(6) and Iqbal and Twombly, which is what this seems to have devolved into and is, therefore, not the big issue that has been portrayed?"
+2019.18-1171,0,35754,miguel_a_estrada,,885.205,895.04,"Well, I think that for -- they would further have to agree that what they mean is but-for causation, and they bear the burden of persuasion like on all elements."
+2019.18-1171,0,15068,samuel_a_alito_jr,scotus_justice,895.04,900.44,"So the disagreement then would be, you know, if the evidence is exactly in equipoise, which way does it go --"
+2019.18-1171,0,35754,miguel_a_estrada,,900.44,901.36,"No, I think they --"
+2019.18-1171,0,15068,samuel_a_alito_jr,scotus_justice,901.36,902.78,-- that's what it would be?
+2019.18-1171,0,35754,miguel_a_estrada,,902.78,911.92,"-- no, I think what they mean to say in accepting the CAS standard is but-for in the sense that they accept the PriceWaterhouse plurality opinion."
+2019.18-1171,0,15068,samuel_a_alito_jr,scotus_justice,915.445,915.74,Okay.
+2019.18-1171,0,35754,miguel_a_estrada,,920.34,923.71,"The burden of persuasion, Your Honor, because, under the --"
+2019.18-1171,0,15068,samuel_a_alito_jr,scotus_justice,923.71,923.86,Yeah.
+2019.18-1171,0,35754,miguel_a_estrada,,923.86,930.33,"-- plurality in -- in PriceWaterhouse, you know, the burden of persuasion, even if it is but-for, shifts to the defendant."
+2019.18-1171,0,15068,samuel_a_alito_jr,scotus_justice,930.33,932.34,"Right, but it's but-for by a preponderance."
+2019.18-1171,0,35754,miguel_a_estrada,,933.96,934.61,"Correct, but I --"
+2019.18-1171,0,15068,samuel_a_alito_jr,scotus_justice,934.61,935.01,-- who has that burden.
+2019.18-1171,0,35754,miguel_a_estrada,,935.01,941.41,"-- think what's really going on is that the Respondents are really arguing PriceWaterhouse, as they did expressly in both courts below."
+2019.18-1171,0,15068,samuel_a_alito_jr,scotus_justice,956.7,956.99,"Yeah, well, I --"
+2019.18-1171,0,17766,brett_m_kavanaugh,scotus_justice,956.99,957.26,But if you're --
+2019.18-1171,0,15068,samuel_a_alito_jr,scotus_justice,957.26,992.42,"-- don't know why the Ninth Circuit did what it did here and I don't know why the Respondents have argued the case the way they did here. But, if -- if you look at the recitation of facts on pages 3 to 5 of the Respondents' brief, could you say that those are insufficient to raise in a -- if pled, those would be insufficient to raise -- to satisfy the pleading standard even if the burden of persuasion is but-for causation? Comcast told Entertainment Studios its channels are good enough."
+2019.18-1171,0,35754,miguel_a_estrada,,1005.235,1007.67,"Yes, we do say that that's enough."
+2019.18-1171,0,15086,john_g_roberts_jr,scotus_justice,1034.92,1035.145,Sure.
+2019.18-1171,0,35754,miguel_a_estrada,,1035.145,1047.745,"-- that they're currently carried by AT&T and DirecTV, which is -- which are now one company. Now it should be perfectly clear to everybody in this courtroom that that's an allegation that they were only able to make in the third complaint in this case."
+2019.18-1171,0,15086,john_g_roberts_jr,scotus_justice,1058.925,1059.985,"Thank you, counsel."
+2019.18-1171,0,35754,miguel_a_estrada,,1059.985,1066.61499985,Thank you.
+2019.18-1171,0,15086,john_g_roberts_jr,scotus_justice,1066.61499985,1072.91,Ms. Ratner.
+2019.18-1171,1,63108,morgan_l_ratner,,1072.91,1115.745,"Mr. Chief Justice, and may it please the Court: The court of appeals found that a plaintiff can prevail under Section 1981 if race played any role in a decision not to contract, even if it was not a but-for cause. That's wrong under this Court's decisions in Gross and Nassar, and nobody defends that test as the ultimate standard for causation under Section 1981. Instead -- and I think this gets to Justice Kagan's line of questions -- Respondents invoke burden-shifting to argue that at the pleading stage, motivating factor -- a motivating factor can be enough. That might have been true under PriceWaterhouse burden-shifting, but PriceWaterhouse no longer controls."
+2019.18-1171,1,15131,sonia_sotomayor,scotus_justice,1151.98,1181.51,"Can I take you back to the basic structure? Mr. Chemerinsky can speak for himself as to what burdens he's accepting or not, okay? But I'm looking at the statute, and I don't see any of the but-for language, ""because of"" or any of the other that we have interpreted in any other statute. What I see is a statute that says all citizens must have the same right."
+2019.18-1171,1,63108,morgan_l_ratner,,1240.48,1240.88,So --
+2019.18-1171,1,15131,sonia_sotomayor,scotus_justice,1240.88,1242.855,-- why is that not actionable?
+2019.18-1171,1,63108,morgan_l_ratner,,1242.855,1245.64,"So let me give you three responses, Justice Sotomayor."
+2019.18-1171,1,15131,sonia_sotomayor,scotus_justice,1261.74,1262.73,Except the dictionary --
+2019.18-1171,1,63108,morgan_l_ratner,,1262.73,1263.14,But even if that's --
+2019.18-1171,1,15131,sonia_sotomayor,scotus_justice,1263.14,1269.155,"-- the dictionary says definition of making is just ""the process of being made."""
+2019.18-1171,1,63108,morgan_l_ratner,,1269.155,1269.54,Yeah.
+2019.18-1171,1,15131,sonia_sotomayor,scotus_justice,1269.54,1270.75,So it's the process.
+2019.18-1171,1,63108,morgan_l_ratner,,1276.435,1279.76,"So I'm happy to address the making point, but let me just --"
+2019.18-1171,1,15131,sonia_sotomayor,scotus_justice,1279.76,1280.11,But I want to --
+2019.18-1171,1,63108,morgan_l_ratner,,1280.11,1280.59,-- underscore the --
+2019.18-1171,1,15131,sonia_sotomayor,scotus_justice,1280.59,1301.3,"-- but I want to go back to the broader point, which is how can you say that you have the same right and that we're eliminating all vestiges of discrimination if we are not using motivating factor but are using a but-for standard?"
+2019.18-1171,1,63108,morgan_l_ratner,,1301.3,1303.615,"Justice Sotomayor, there's a lot baked in there."
+2019.18-1171,1,15139,stephen_g_breyer,scotus_justice,1342.18,1371.46,"I -- I -- I -- unfortunately, I -- I'm stuck back at the Chief Justice's question and I think what Justice Gorsuch was elaborating on that, that -- as I understand their questions, but -- but, anyway, my question is I don't understand; if we're talking about pleadings, what's the difference? I mean, you know, they have some evidence, and the evidence is, on information and belief, we think that the Defendant here used race improperly to deny us the contract."
+2019.18-1171,1,63108,morgan_l_ratner,,1377.56,1377.75,I --
+2019.18-1171,1,15139,stephen_g_breyer,scotus_justice,1377.75,1386.21,"I can understand it making a difference later when you decide who has the burden of proof, because, at that point, you know, the Defendant maybe should have the whole burden of proof."
+2019.18-1171,1,63108,morgan_l_ratner,,1389.39,1390.02,The --
+2019.18-1171,1,15139,stephen_g_breyer,scotus_justice,1390.02,1394.78,"Or maybe you should say you split it, production versus -- but we're not apparently arguing about that."
+2019.18-1171,1,63108,morgan_l_ratner,,1407.61,1411.4,"Yeah, Justice Breyer, I think it's often going to make a difference later down the line --"
+2019.18-1171,1,15139,stephen_g_breyer,scotus_justice,1411.4,1412.11,"Yes, later down --"
+2019.18-1171,1,63108,morgan_l_ratner,,1412.11,1413.04,-- when it's important to get the standard.
+2019.18-1171,1,15139,stephen_g_breyer,scotus_justice,1413.04,1413.26,-- the line.
+2019.18-1171,1,63108,morgan_l_ratner,,1414.02,1415.29,And let me give you a -- let me give you a hypothetical.
+2019.18-1171,1,15139,stephen_g_breyer,scotus_justice,1450.25,1450.46,"No, then it --"
+2019.18-1171,1,63108,morgan_l_ratner,,1450.46,1450.9,-- be explained about --
+2019.18-1171,1,15139,stephen_g_breyer,scotus_justice,1450.9,1452.04,-- wasn't a motivating factor.
+2019.18-1171,1,63108,morgan_l_ratner,,1456.8,1469.3,"So I think the core difference, and -- and you see that in the court of appeals' decision, is the idea that race could have been some sort of consideration, but a consideration that had no ultimate effect on the result."
+2019.18-1171,1,15139,stephen_g_breyer,scotus_justice,1469.3,1469.71,"Well, if it's a --"
+2019.18-1171,1,63108,morgan_l_ratner,,1469.71,1469.99,And that's --
+2019.18-1171,1,15139,stephen_g_breyer,scotus_justice,1469.99,1474.4,"-- consideration, it's true it wouldn't be a consideration where the applicant was a white person."
+2019.18-1171,1,63108,morgan_l_ratner,,1490.96,1491.49,If it --
+2019.18-1171,1,15139,stephen_g_breyer,scotus_justice,1491.49,1492.59,-- on both those points.
+2019.18-1171,1,63108,morgan_l_ratner,,1492.59,1497.39,"-- if it really does make a difference, then you have but-for causation. But-for cause does not mean sole cause."
+2019.18-1171,1,15139,stephen_g_breyer,scotus_justice,1497.39,1498.38,Even though it says alike --
+2019.18-1171,1,63108,morgan_l_ratner,,1498.38,1498.65,It means --
+2019.18-1171,1,15139,stephen_g_breyer,scotus_justice,1498.65,1502.84,-- and even though a black person and a white person -- even though a white person wouldn't be treated --
+2019.18-1171,1,63108,morgan_l_ratner,,1502.84,1502.94,Okay.
+2019.18-1171,1,15139,stephen_g_breyer,scotus_justice,1502.94,1504.38,"-- that way because, of course, he couldn't be."
+2019.18-1171,1,63108,morgan_l_ratner,,1504.38,1510.375,"On that separate question, the statute does not say everybody is to be treated alike for all purposes."
+2019.18-1171,1,15068,samuel_a_alito_jr,scotus_justice,1527.92,1528.17,"Well, I think --"
+2019.18-1171,1,15094,elena_kagan,scotus_justice,1528.17,1528.57,Can I take you --
+2019.18-1171,1,15068,samuel_a_alito_jr,scotus_justice,1528.57,1540.84,"-- what you're -- what you're saying is that this makes a difference at the pleading stage in those rare cases, if they exist at all, where the complaint goes out of its way to refute itself."
+2019.18-1171,1,63108,morgan_l_ratner,,1540.84,1542.52,I -- I think that is very true.
+2019.18-1171,1,17766,brett_m_kavanaugh,scotus_justice,1560.54,1568.315,"You agree in this case that we should vacate, therefore, and remand and not resolve the issue here?"
+2019.18-1171,1,63108,morgan_l_ratner,,1568.315,1573.415,We don't have a position on whether this particular complaint satisfies Twombly and Iqbal.
+2019.18-1171,1,17766,brett_m_kavanaugh,scotus_justice,1578.68,1579.4,You agree that it's --
+2019.18-1171,1,63108,morgan_l_ratner,,1579.4,1580.035,-- stopping the Court? No.
+2019.18-1171,1,17766,brett_m_kavanaugh,scotus_justice,1580.035,1580.61,Excuse me.
+2019.18-1171,1,63108,morgan_l_ratner,,1589.275,1594.46,"You know, I -- I don't want to get into the particulars of this complaint because we don't have a view on it."
+2019.18-1171,1,15094,elena_kagan,scotus_justice,1603.52,1603.94,"Well, in general --"
+2019.18-1171,1,63108,morgan_l_ratner,,1603.94,1604.94,-- was behind the district court's thinking.
+2019.18-1171,1,15094,elena_kagan,scotus_justice,1604.94,1610.02,-- what would you say a complaint has to do in order to survive a 12(b)(6) motion in this area?
+2019.18-1171,1,63108,morgan_l_ratner,,1610.02,1619.725,"A complaint has to do exactly the same things that a complaint needs to do under the Age Act, under the ADEA, under Title VII retaliation claims."
+2019.18-1171,1,15131,sonia_sotomayor,scotus_justice,1631.79,1647.92,"Are you endorsing the McDonnell Douglas burden-shifting -- not burden-shifting, but the burden remains with the plaintiff, but the -- the production with the defendant to set forth the reasons why?"
+2019.18-1171,1,63108,morgan_l_ratner,,1647.92,1656.26,So the Court said in Patterson that McDonnell Douglas applies in 1981 cases at least in the employment context.
+2019.18-1171,1,15131,sonia_sotomayor,scotus_justice,1660.34,1660.49,So --
+2019.18-1171,1,63108,morgan_l_ratner,,1660.49,1660.94,-- but for purposes --
+2019.18-1171,1,15131,sonia_sotomayor,scotus_justice,1660.94,1662.46,-- should we address that issue?
+2019.18-1171,1,63108,morgan_l_ratner,,1662.46,1663.17,I don't think so.
+2019.18-1171,1,15131,sonia_sotomayor,scotus_justice,1670.84,1678.96,"Not for the pleading stage, but we did grant -- the question presented was whether -- what the standard was."
+2019.18-1171,1,15086,john_g_roberts_jr,scotus_justice,1678.96,1679.43,Yes.
+2019.18-1171,1,63108,morgan_l_ratner,,1679.43,1683.5,May I respond? McDonnell Douglas does not change the standard.
+2019.18-1171,1,15086,john_g_roberts_jr,scotus_justice,1689.605,1695.9,"Thank you, counsel. Mr. Chemerinsky."
+2019.18-1171,2,22098,erwin_chemerinsky,,1695.9,1701.52,"Good morning, Mr. Chief Justice, and may it please the Court: Statutory language matters."
+2019.18-1171,2,15068,samuel_a_alito_jr,scotus_justice,1825.275,1832.94,"At the end of the day -- at the end of the day, what is the burden of persuasion in this case, in a case like this?"
+2019.18-1171,2,22098,erwin_chemerinsky,,1832.94,1857.88,"Your Honor, this Court has never reached that question, and it's not presented here on the pleadings. Ultimately, the question would be, does the burden of persuasion shift, as under Section 703M, or does it remain with the plaintiffs at all times? We think that implicitly, by, in Patterson versus McLean, adopting the McDonnell Douglas/Burdine framework, it would say the burden of production shifts, but the burden of persuasion is always --"
+2019.18-1171,2,15094,elena_kagan,scotus_justice,1857.88,1858.16,The burden of --
+2019.18-1171,2,22098,erwin_chemerinsky,,1858.16,1858.49,-- with the plaintiff.
+2019.18-1171,2,15094,elena_kagan,scotus_justice,1858.49,1870.17999995,"-- persuasion as to what, Mr. Chemerinsky? Are -- are -- are -- what is your view as -- in -- in the last analysis, ultimately, does but-for causation have to be shown?"
+2019.18-1171,2,22098,erwin_chemerinsky,,1870.17999995,1883.38,"In the end, Your Honor, I believe that this Court's adoption in Patterson versus McLean of the McDonnell Douglas burden-shifting framework does indicate that the burden of persuasion in the end would rest with the plaintiff."
+2019.18-1171,2,15094,elena_kagan,scotus_justice,1883.38,1885.89,But -- but burden of persuasion as to what issue?
+2019.18-1171,2,22098,erwin_chemerinsky,,1885.89,1891.09,The burden of persuasion in terms of showing that the contract would not have been issued but for race.
+2019.18-1171,2,15068,samuel_a_alito_jr,scotus_justice,1891.09,1891.29,Okay.
+2019.18-1171,2,22098,erwin_chemerinsky,,1891.43,1894.88,"But that's very different, of course, Your Honor, as compares to what has to be pled."
+2019.18-1171,2,15068,samuel_a_alito_jr,scotus_justice,1894.88,1897.63,"Yeah, so -- so this is just a pleading case."
+2019.18-1171,2,22098,erwin_chemerinsky,,1905.17,1906.64,"That's exactly right, Your Honor."
+2019.18-1171,2,17766,brett_m_kavanaugh,scotus_justice,1919.24,1919.37,You're --
+2019.18-1171,2,22098,erwin_chemerinsky,,1919.37,1919.805,-- factor.
+2019.18-1171,2,17766,brett_m_kavanaugh,scotus_justice,1919.805,1922.185,-- you're not agreeing with the Ninth Circuit then?
+2019.18-1171,2,22098,erwin_chemerinsky,,1922.185,1924.47,"No, Your Honor, I am agreeing with the Ninth Circuit."
+2019.18-1171,2,17766,brett_m_kavanaugh,scotus_justice,1924.47,1925.705,Not -- not with their test.
+2019.18-1171,2,22098,erwin_chemerinsky,,1925.705,1944.26,"Well, remember, in this case, all the Ninth Circuit focused on was pleading, and that's all the Ninth Circuit should focus on because this is on a motion to dismiss. Now I do think there's an issue down the road that could be faced, is at the very end who has the burden of persuasion? Here, I think Patterson versus McLean --"
+2019.18-1171,2,17766,brett_m_kavanaugh,scotus_justice,1944.26,1950.91,"You just said, I thought, to Justice Kagan, that the Plaintiff would have the burden of persuasion at the end of showing but-for causation."
+2019.18-1171,2,22098,erwin_chemerinsky,,1951.975,1952.82,"No, you didn't, Your Honor."
+2019.18-1171,2,15131,sonia_sotomayor,scotus_justice,1971.08,1981.38,"So all you're arguing, I think, is if you plead motivating factor, that that's enough to survive at a pleading stage?"
+2019.18-1171,2,22098,erwin_chemerinsky,,1981.38,1981.95,Exactly.
+2019.18-1171,2,15131,sonia_sotomayor,scotus_justice,1981.95,1991.475,"But you accept that as a -- as a matter of burden at trial or in summary judgment, you do have to prove but-for causation?"
+2019.18-1171,2,22098,erwin_chemerinsky,,1991.475,1995.65,"That's what this Court, I think, implied in Patterson versus McLean by adopting the --"
+2019.18-1171,2,15131,sonia_sotomayor,scotus_justice,1995.65,1996.18,So what do you do --
+2019.18-1171,2,22098,erwin_chemerinsky,,1996.18,1997.0,-- McDonnell Douglas burden-shifting framework.
+2019.18-1171,2,15131,sonia_sotomayor,scotus_justice,1997.0,2007.48,"-- so what do you do with the extreme example that the assistant solicitor general raised? You know, you're black, but -- and you're not a lawyer."
+2019.18-1171,2,22098,erwin_chemerinsky,,2018.775,2027.94,"I assume in that instance that there's not sufficient allegations, even under Swiekiewicz versus Sorema. But, Justice Sotomayor, imagine a different example."
+2019.18-1171,2,15131,sonia_sotomayor,scotus_justice,2056.5,2057.24,You -- you would --
+2019.18-1171,2,15094,elena_kagan,scotus_justice,2057.24,2058.44,Mr. Chemerinsky --
+2019.18-1171,2,15086,john_g_roberts_jr,scotus_justice,2058.44,2079.91,"If you asked -- if I understand your answer to Justice Sotomayor's question about Ms. Ratner's hypothetical, why is it that that fails under your view at the pleading stage? They would say, well, based on whatever the racial indication is in the letter, that that may have been a motivating factor."
+2019.18-1171,2,22098,erwin_chemerinsky,,2079.91,2084.79,"If the complaint alleges that race is a motivating factor, then that is sufficient in order to state a claim."
+2019.18-1171,2,15086,john_g_roberts_jr,scotus_justice,2084.79,2088.75,"Even if it also -- even if, as in the hypothetical, the person's not a lawyer?"
+2019.18-1171,2,22098,erwin_chemerinsky,,2088.75,2094.67,"Well, the reason I answered Justice Sotomayor that way is it has to be plausible that the plaintiff can recover."
+2019.18-1171,2,15086,john_g_roberts_jr,scotus_justice,2101.36,2101.54,What -- what --
+2019.18-1171,2,22098,erwin_chemerinsky,,2101.54,2102.13,-- Iqbal and Twombly.
+2019.18-1171,2,15086,john_g_roberts_jr,scotus_justice,2102.13,2106.035,-- what element of the cause of action would be absent in that hypothetical?
+2019.18-1171,2,22098,erwin_chemerinsky,,2106.035,2114.7,"I think the question is, is it plausible that the plaintiff was discriminated against on account of race. In the hypothetical that's given -- please, Justice --"
+2019.18-1171,2,15086,john_g_roberts_jr,scotus_justice,2114.7,2133.92,"No, I was just going to say, even though a -- a -- a white person would not have had that discriminatory -- in other words, been denied an equal -- they're not treated the same, which is your theory, but they're treated differently on the account of race because one was the subject of a racially discriminatory conduct -- comment and the other wasn't."
+2019.18-1171,2,22098,erwin_chemerinsky,,2133.92,2134.73,"You're right, Your Honor."
+2019.18-1171,2,15139,stephen_g_breyer,scotus_justice,2144.29,2153.325,"Why doesn't it -- why doesn't it also fit the but-for test? I mean, you know, if he hadn't been black, they would have rented it to him."
+2019.18-1171,2,22098,erwin_chemerinsky,,2153.325,2154.16,"Well, but, Your Honor --"
+2019.18-1171,2,15139,stephen_g_breyer,scotus_justice,2154.16,2163.26,"Well, then why on those same facts can't you put your bottom line, and, therefore, but-for the racial discrimination? What's the difference?"
+2019.18-1171,2,22098,erwin_chemerinsky,,2163.26,2164.15,Go back to the hypothetical.
+2019.18-1171,2,15139,stephen_g_breyer,scotus_justice,2164.15,2166.32,I can't get the difference between motivating factor and but-for.
+2019.18-1171,2,22098,erwin_chemerinsky,,2166.32,2168.87,"But there's an enormous difference, which is why --"
+2019.18-1171,2,15139,stephen_g_breyer,scotus_justice,2168.87,2168.97,What?
+2019.18-1171,2,22098,erwin_chemerinsky,,2168.97,2171.39,-- this Court has so often said motivating factor.
+2019.18-1171,2,15139,stephen_g_breyer,scotus_justice,2174.53,2174.63,Yeah.
+2019.18-1171,2,22098,erwin_chemerinsky,,2174.865,2181.745,A hotel says to an individual that we're not renting a room to you because we have no rooms and because you're black.
+2019.18-1171,2,15139,stephen_g_breyer,scotus_justice,2181.745,2182.02,Right.
+2019.18-1171,2,22098,erwin_chemerinsky,,2182.02,2185.42,That doesn't allege that race was a but-for cause.
+2019.18-1171,2,15139,stephen_g_breyer,scotus_justice,2185.42,2190.145,"No, but it does allege the famous tort case that every student studies, the two hunters."
+2019.18-1171,2,22098,erwin_chemerinsky,,2190.77,2191.93,Summers versus Tice.
+2019.18-1171,2,15139,stephen_g_breyer,scotus_justice,2191.93,2193.905,The two -- correct. Thank you.
+2019.18-1171,2,62836,neil_gorsuch,scotus_justice,2193.905,2194.61,They're both --
+2019.18-1171,2,15139,stephen_g_breyer,scotus_justice,2194.61,2195.33,Excellent.
+2019.18-1171,2,15139,stephen_g_breyer,scotus_justice,2197.24,2209.2,"But in -- in -- in -- in that -- in that case, you had two hunters and they both shot the person, either would have been sufficient. Now no tort professor ever said that that doesn't meet the but-for case -- test."
+2019.18-1171,2,22098,erwin_chemerinsky,,2218.7,2234.285,"But, Your Honor, this Court has so frequently drawn a distinction between motivating factor and but-for causation because it matters so much. It is much harder to allege and prove but-for causation than to allege that race is a motivating factor."
+2019.18-1171,2,62836,neil_gorsuch,scotus_justice,2237.22,2239.71,But could you answer -- could you answer Justice Breyer's question?
+2019.18-1171,2,22098,erwin_chemerinsky,,2239.71,2240.065,Sure.
+2019.18-1171,2,62836,neil_gorsuch,scotus_justice,2240.065,2245.48,Wouldn't the very hypothetical you've given us satisfy the but-for test?
+2019.18-1171,2,22098,erwin_chemerinsky,,2245.48,2247.37,"No, Your Honor, because the position that --"
+2019.18-1171,2,62836,neil_gorsuch,scotus_justice,2247.37,2249.0,You disagree with the case? Was it Tice?
+2019.18-1171,2,22098,erwin_chemerinsky,,2249.0,2250.99,"No, I don't disagree with Summers versus Tice."
+2019.18-1171,2,62836,neil_gorsuch,scotus_justice,2250.99,2251.32,All right.
+2019.18-1171,2,22098,erwin_chemerinsky,,2254.3,2263.38,"Your Honor, the position that opposing counsel has taken is that the complaint has to deny all alternative explanations."
+2019.18-1171,2,62836,neil_gorsuch,scotus_justice,2263.38,2267.93,"No, no, that's not the position, at least as being explored by Justice Breyer."
+2019.18-1171,2,22098,erwin_chemerinsky,,2288.495,2290.43,"I would hope it would, but that's not how --"
+2019.18-1171,2,62836,neil_gorsuch,scotus_justice,2290.43,2290.63,Okay.
+2019.18-1171,2,22098,erwin_chemerinsky,,2290.63,2292.61,-- this Court has often used the phrase but-for causation.
+2019.18-1171,2,62836,neil_gorsuch,scotus_justice,2292.61,2292.8,All right.
+2019.18-1171,2,15139,stephen_g_breyer,scotus_justice,2292.8,2324.935,"Would it be all right to explain? Suppose the opinion said, look, it's the defendant who knows what's in his mind. How can you expect a plaintiff normally to know everything in the defendant's mind? How could you? And so all he has to do is allege on information and belief that he thinks that this racial part of it was motivating and -- and -- and now say call that motivating or call it but-for. But he has to believe that."
+2019.18-1171,2,22098,erwin_chemerinsky,,2331.225,2331.74,Well --
+2019.18-1171,2,15139,stephen_g_breyer,scotus_justice,2331.74,2332.48,No? Yes?
+2019.18-1171,2,22098,erwin_chemerinsky,,2332.48,2340.56,"-- Your Honor, yes. I mean, I think that if the -- if the answer is this complaint goes forward either way, and the Ninth Circuit was correct, I will accept that answer, of course."
+2019.18-1171,2,15094,elena_kagan,scotus_justice,2340.56,2341.15,"Well, Mr. Chereminsky -- (Laughter.)"
+2019.18-1171,2,62836,neil_gorsuch,scotus_justice,2341.15,2342.44,So you just don't --
+2019.18-1171,2,22098,erwin_chemerinsky,,2342.44,2343.39,So I'm not going to --
+2019.18-1171,2,62836,neil_gorsuch,scotus_justice,2343.39,2345.66,The legal rule doesn't matter.
+2019.18-1171,2,15094,elena_kagan,scotus_justice,2346.25,2346.45,Mr. Chereminsky --
+2019.18-1171,2,22098,erwin_chemerinsky,,2346.45,2351.01,I want the law to be clear that motivating factor is sufficient because I think often but-for is very difficult.
+2019.18-1171,2,62836,neil_gorsuch,scotus_justice,2351.01,2364.1,"All right, but on that, wouldn't it be unusual for us to say that the test for the pleading stage is motivating factor, but the test at the trial or at summary judgment is but-for?"
+2019.18-1171,2,22098,erwin_chemerinsky,,2364.1,2365.6,"Emphatically, no, Your Honor."
+2019.18-1171,2,62836,neil_gorsuch,scotus_justice,2365.87,2367.32,Why -- why wouldn't that be a little unusual?
+2019.18-1171,2,22098,erwin_chemerinsky,,2367.32,2371.27,Because this Court in so many contexts has ultimately said it's but-for --
+2019.18-1171,2,62836,neil_gorsuch,scotus_justice,2371.27,2371.475,No.
+2019.18-1171,2,22098,erwin_chemerinsky,,2372.04,2374.06,"-- but, at the pleading stage, only motivating factor."
+2019.18-1171,2,62836,neil_gorsuch,scotus_justice,2374.06,2378.245,-- we -- we've said in PriceWaterhouse it's motivating factor throughout.
+2019.18-1171,2,22098,erwin_chemerinsky,,2394.32,2394.71,"No, Your Honor."
+2019.18-1171,2,62836,neil_gorsuch,scotus_justice,2394.71,2395.47,-- and context.
+2019.18-1171,2,22098,erwin_chemerinsky,,2395.47,2404.59,"First, Swierkiewicz versus Sorema specifically says, and it was a unanimous decision of the Court, that plaintiffs do not need to plead a prima facie case. Second, in every area --"
+2019.18-1171,2,62836,neil_gorsuch,scotus_justice,2404.59,2404.7,Well --
+2019.18-1171,2,22098,erwin_chemerinsky,,2404.7,2405.94,-- where this Court --
+2019.18-1171,2,62836,neil_gorsuch,scotus_justice,2405.94,2418.83,"-- we can disagree over what Swierkiewicz said, but -- but isn't -- isn't it the -- wouldn't it be a little unusual for us to apply different legal standards at different stages of the same case?"
+2019.18-1171,2,22098,erwin_chemerinsky,,2418.83,2434.16,"No, Your Honor. Take constitutional cases like Mt. Healthy versus Doyle and Village of Arlington Heights. All that's required at the pleading stage is motivating factor, though, in the very end, it would be but-for causation. This is true under McDonnell Douglas and Burdine as well."
+2019.18-1171,2,62836,neil_gorsuch,scotus_justice,2438.55,2439.17,On McDonnell Douglas --
+2019.18-1171,2,15068,samuel_a_alito_jr,scotus_justice,2439.17,2439.53,But what if the --
+2019.18-1171,2,62836,neil_gorsuch,scotus_justice,2439.53,2439.985,I'm sorry.
+2019.18-1171,2,15068,samuel_a_alito_jr,scotus_justice,2439.985,2455.61,"What if the complaint alleges this was not the but-for cause of the adverse action against me, but it was a motivating factor? Would that be sufficient to go forward?"
+2019.18-1171,2,22098,erwin_chemerinsky,,2455.61,2457.71,"Yes, if I understand your hypothetical."
+2019.18-1171,2,15068,samuel_a_alito_jr,scotus_justice,2461.01,2475.57500005,"Even if -- even if it concedes -- even if the plaintiff concedes in the complaint that it wasn't a but-for cause? And even if but-for cause is the standard at the end of the day, the case should be permitted to go forward toward its inevitable doom?"
+2019.18-1171,2,22098,erwin_chemerinsky,,2475.57500005,2483.01,"But, Your Honor, the whole point of the burden-shifting framework is to be able to establish what was the actual cause."
+2019.18-1171,2,15094,elena_kagan,scotus_justice,2494.05,2507.165,"Well, that's right, but that seems very different from saying you have to allege a motivating cause. I mean, it's true that you cannot expect the plaintiff to negate everything else that might be in the defendant's mind."
+2019.18-1171,2,22098,erwin_chemerinsky,,2537.765,2539.65,"I think they should be, Justice Kagan."
+2019.18-1171,2,17766,brett_m_kavanaugh,scotus_justice,2552.96,2553.08,If we --
+2019.18-1171,2,15094,elena_kagan,scotus_justice,2553.08,2582.41,"But then, Mr. Chemerinsky, it -- don't you think that the Ninth Circuit has to be reversed? I mean, I'm just going to read you a sentence from the Ninth Circuit which seems to say something very different. It says, ""even if racial animus was not the but-for cause of a defendant's refusal to contract, a plaintiff can still prevail"" -- prevail, not like satisfy the pleading standard -- ""prevail if she demonstrates that discriminatory intent was a factor in that decision."" So, I mean, that seems wrong, right?"
+2019.18-1171,2,22098,erwin_chemerinsky,,2582.41,2585.44,But it wasn't the issue before the Ninth Circuit.
+2019.18-1171,2,62836,neil_gorsuch,scotus_justice,2591.955,2592.84,Can we just have an answer --
+2019.18-1171,2,17766,brett_m_kavanaugh,scotus_justice,2592.84,2593.21,If we -- if we --
+2019.18-1171,2,62836,neil_gorsuch,scotus_justice,2593.21,2594.07,-- to Justice Kagan's question --
+2019.18-1171,2,22098,erwin_chemerinsky,,2594.07,2594.25,I'm sorry.
+2019.18-1171,2,62836,neil_gorsuch,scotus_justice,2594.25,2596.655,-- before you proceed on to page whatever it is?
+2019.18-1171,2,22098,erwin_chemerinsky,,2596.655,2597.065,Sure.
+2019.18-1171,2,62836,neil_gorsuch,scotus_justice,2597.065,2604.54,"I -- I just -- I'd be grateful to know, doesn't -- don't you agree that the Ninth Circuit was wrong?"
+2019.18-1171,2,22098,erwin_chemerinsky,,2604.54,2609.37,What I was saying is in terms of the statement of whether or not in order to prevail.
+2019.18-1171,2,62836,neil_gorsuch,scotus_justice,2612.4,2613.03,I understand that.
+2019.18-1171,2,22098,erwin_chemerinsky,,2613.03,2613.44,-- or this Court.
+2019.18-1171,2,62836,neil_gorsuch,scotus_justice,2613.44,2614.13,I understand that.
+2019.18-1171,2,22098,erwin_chemerinsky,,2614.13,2614.76,"But I would say, Your Honor --"
+2019.18-1171,2,62836,neil_gorsuch,scotus_justice,2614.76,2618.23,"Would -- would you agree the Ninth Circuit was wrong, though?"
+2019.18-1171,2,22098,erwin_chemerinsky,,2618.23,2622.425,"Well, what I would say is what I said to Justice Kagan's initial question."
+2019.18-1171,2,62836,neil_gorsuch,scotus_justice,2627.38,2628.28,I've got it.
+2019.18-1171,2,22098,erwin_chemerinsky,,2629.455,2630.005,I'm sorry.
+2019.18-1171,2,17766,brett_m_kavanaugh,scotus_justice,2630.005,2648.86,"If we -- if we -- if we write an opinion -- if we write an opinion that says in 1981 cases, the plaintiff has the ultimate burden of persuasion to prove that race was a but-for cause of the decision, we vacate and remand for the Ninth Circuit to analyze the complaint, what is wrong with that decision?"
+2019.18-1171,2,22098,erwin_chemerinsky,,2648.86,2651.635,"Well, because it's not the issue before this Court, Your Honor."
+2019.18-1171,2,17766,brett_m_kavanaugh,scotus_justice,2651.635,2670.945,"Well, isn't it the issue given what Justice Kagan just read from the Ninth Circuit's decision, which influenced how the Ninth Circuit assessed the complaint? If we articulate the right standard and then vacate for them to analyze the complaint under the right standard, wouldn't that be the -- the better way to go?"
+2019.18-1171,2,22098,erwin_chemerinsky,,2670.945,2676.47,But the right standard for the complaint is to allege that race was a motivating factor.
+2019.18-1171,2,17766,brett_m_kavanaugh,scotus_justice,2688.12,2688.88,"Well, we wouldn't be saying --"
+2019.18-1171,2,22098,erwin_chemerinsky,,2688.88,2689.66,-- of the supplement to the complaint.
+2019.18-1171,2,17766,brett_m_kavanaugh,scotus_justice,2689.66,2696.29,-- we wouldn't be saying anything about the pleading stage under the hypothetical opinion I just articulated.
+2019.18-1171,2,22098,erwin_chemerinsky,,2707.0,2707.445,Sure.
+2019.18-1171,2,15139,stephen_g_breyer,scotus_justice,2726.14,2727.15,Sure -- I'm not sure --
+2019.18-1171,2,15086,john_g_roberts_jr,scotus_justice,2727.15,2727.81,Is the burden of --
+2019.18-1171,2,15139,stephen_g_breyer,scotus_justice,2727.81,2731.6,"-- look, now at least I've got in my head what I -- God."
+2019.18-1171,2,22098,erwin_chemerinsky,,2791.485,2800.01,"Your Honor, because this Court has said we don't want to determine at the pleading stage what was the actual cause. That's a question of fact for the jury."
+2019.18-1171,2,15139,stephen_g_breyer,scotus_justice,2800.01,2804.41,"But do you think you do win or not? I mean, you know, the two hunters, they win."
+2019.18-1171,2,22098,erwin_chemerinsky,,2805.775,2818.62,"If at the end the plaintiff concedes that he or she would have never gotten the contract anyway, I believe, at the end, under the standard adopted in Patterson versus McLean, the plaintiff would not prevail."
+2019.18-1171,2,15086,john_g_roberts_jr,scotus_justice,2818.62,2818.92,So the --
+2019.18-1171,2,22098,erwin_chemerinsky,,2818.92,2819.795,But that doesn't --
+2019.18-1171,2,15086,john_g_roberts_jr,scotus_justice,2819.795,2820.34,I'm sorry.
+2019.18-1171,2,22098,erwin_chemerinsky,,2820.65,2825.56,I was going to say but that doesn't tell us what's required at the pleading stage or at the prima facie case stage.
+2019.18-1171,2,15131,sonia_sotomayor,scotus_justice,2825.56,2826.01,"Well, why don't you --"
+2019.18-1171,2,15086,john_g_roberts_jr,scotus_justice,2826.01,2826.89,"Well, we're talking about --"
+2019.18-1171,2,15131,sonia_sotomayor,scotus_justice,2826.89,2827.11,I'm sorry.
+2019.18-1171,2,15086,john_g_roberts_jr,scotus_justice,2827.11,2829.06,-- what is or is not before us.
+2019.18-1171,2,22098,erwin_chemerinsky,,2834.765,2835.72,Yes.
+2019.18-1171,2,15086,john_g_roberts_jr,scotus_justice,2835.72,2838.25,"Well, that's not in the question presented either."
+2019.18-1171,2,22098,erwin_chemerinsky,,2838.25,2839.38,"That's correct, Your Honor."
+2019.18-1171,2,15131,sonia_sotomayor,scotus_justice,2849.35,2849.66,I -- I --
+2019.18-1171,2,22098,erwin_chemerinsky,,2849.66,2852.67,"-- only issue before you, because this case is on a motion to dismiss the pleadings --"
+2019.18-1171,2,15131,sonia_sotomayor,scotus_justice,2852.67,2853.19,Mr. Chemerinsky --
+2019.18-1171,2,22098,erwin_chemerinsky,,2853.19,2853.45,Yes.
+2019.18-1171,2,15131,sonia_sotomayor,scotus_justice,2853.45,2884.405,"-- the worst thing we could possibly do is to try to describe a pleading standard on the basis of McDonnell Douglas or PriceWaterhouse, which were trial burdens or summary judgment burdens. Why isn't it simple enough to say you -- from the allegation, it's a reasonable conclusion that race was a -- was -- was the but-for -- was the reason for the denial of a contract?"
+2019.18-1171,2,22098,erwin_chemerinsky,,2884.405,2885.61,"Exactly, Your Honor."
+2019.18-1171,2,15131,sonia_sotomayor,scotus_justice,2885.61,2885.84,So -- and in --
+2019.18-1171,2,22098,erwin_chemerinsky,,2885.84,2887.67,That's all you need to say in this case.
+2019.18-1171,2,15131,sonia_sotomayor,scotus_justice,2887.67,2896.0,"And I don't disagree with you, potentially, that in most circumstances, you prove a -- you prove a motivating factor, that'll be enough."
+2019.18-1171,2,22098,erwin_chemerinsky,,2898.32,2899.25,And I completely agree.
+2019.18-1171,2,15086,john_g_roberts_jr,scotus_justice,2899.25,2904.15,I hesitate to say some thing is the worst thing we could do. (Laughter.)
+2019.18-1171,2,15086,john_g_roberts_jr,scotus_justice,2904.15,2904.24,But --
+2019.18-1171,2,15131,sonia_sotomayor,scotus_justice,2904.24,2906.16,"No, you're right. We've done a lot worse. (Laughter.)"
+2019.18-1171,2,15086,john_g_roberts_jr,scotus_justice,2906.16,2917.915,"But -- but if -- if it is a reasonable conclusion based on what you've pled, why have you so strenuously resisted alleging but cause -- but-for causation?"
+2019.18-1171,2,22098,erwin_chemerinsky,,2917.915,2933.27,"Your Honor, because we live in a world of multiple causes, and we believe that all that's required by the plain language of the statute or by Congress's broad remedial intent is that race be a motivating factor. We do actually allege but-for causation in the complaint."
+2019.18-1171,2,15094,elena_kagan,scotus_justice,2966.46,2993.43,"Mr. Chemerinsky, it just strike -- strikes me as confusing to throw in a different causal standard for the pleading stage as opposed to the ultimate stage, as opposed to saying, look, at the pleading stage, we understand that not everybody's going to know everything, so we're going to not require too much in the way of -- of -- of -- of proof. I mean, you're suggesting that but-for cause is sole cause."
+2019.18-1171,2,22098,erwin_chemerinsky,,3028.0,3029.715,"I disagree, Justice Kagan."
+2019.18-1171,2,17766,brett_m_kavanaugh,scotus_justice,3065.435,3066.72,But these -- the --
+2019.18-1171,2,22098,erwin_chemerinsky,,3066.72,3067.605,-- is so difficult.
+2019.18-1171,2,17766,brett_m_kavanaugh,scotus_justice,3067.605,3095.3,"-- I'm sorry -- these cases, as you know, are not usually thrown out at the motion to dismiss stage and usually you have the ultimate legal test in mind, and you just look at the facts alleged in the complaint to see, as Justice Sotomayor rightly said, whether there's a way you could plausibly infer from those facts that it would ultimately meet the test for 1981 or for discrimination. And this is a helpful question for you."
+2019.18-1171,2,22098,erwin_chemerinsky,,3098.975,3099.88,Yes.
+2019.18-1171,2,17766,brett_m_kavanaugh,scotus_justice,3099.88,3102.07,"Yeah, I believe. (Laughter.)"
+2019.18-1171,2,17766,brett_m_kavanaugh,scotus_justice,3102.07,3102.475,Yeah.
+2019.18-1171,2,22098,erwin_chemerinsky,,3123.035,3123.53,Your Honor --
+2019.18-1171,2,17766,brett_m_kavanaugh,scotus_justice,3123.53,3126.4,"-- as long as it passes, you know, a pretty low bar."
+2019.18-1171,2,22098,erwin_chemerinsky,,3126.4,3128.22,And that's exactly right.
+2019.18-1171,2,17766,brett_m_kavanaugh,scotus_justice,3140.38,3140.75,"Well, but --"
+2019.18-1171,2,22098,erwin_chemerinsky,,3140.75,3141.65,"And at the top of page 3, it --"
+2019.18-1171,2,17766,brett_m_kavanaugh,scotus_justice,3141.65,3141.99,-- the problem --
+2019.18-1171,2,22098,erwin_chemerinsky,,3141.99,3142.77,-- then says that's not --
+2019.18-1171,2,17766,brett_m_kavanaugh,scotus_justice,3142.77,3152.33,"-- the problem -- and I'm repeating myself, but the problem is that they were assessing that arguably, as Justice Kagan pointed out, with the wrong test in mind."
+2019.18-1171,2,22098,erwin_chemerinsky,,3159.225,3179.75,"But I think all this Court needs to say then is that the Ninth Circuit is correct in saying at the pleading stage, motivating factor is sufficient, and perhaps you want to remand to assess whether or not they applied the standard. Though I think, again, if you look at the top of page 3 of the opinion in this case, that's exactly what they did, was say there's plausible allegations here that race was a motivating factor."
+2019.18-1171,2,15086,john_g_roberts_jr,scotus_justice,3179.75,3185.13,But -- but you've told me that we don't even have to do that because you say that you did plead but-for cause.
+2019.18-1171,2,22098,erwin_chemerinsky,,3185.13,3189.775,"Yes, Your Honor, we did plead but-for causation, but we do not believe that it's a requirement."
+2019.18-1171,2,15086,john_g_roberts_jr,scotus_justice,3193.78,3210.685,"Well, that sounds like an advisory opinion for me saying, well, you know, they're not arguing that but-for cause is required, but they alleged it anyway, but we're supposed to forget about that and -- and instead address this very slippery question which isn't even presented under your argument today."
+2019.18-1171,2,22098,erwin_chemerinsky,,3210.685,3212.13,"Yeah, I agree with that."
+2019.18-1171,2,15068,samuel_a_alito_jr,scotus_justice,3244.315,3272.95,"I know you didn't draft the complaint, but the complaint goes on and on and on with a lot of facts, including an allegation that Comcast entered into a racist conspiracy with the NAACP, the National Union League, Al Sharpton, and the National Action Network. And do you think that had any effect on what the district court did here in granting dismissal under 12(b)(6)?"
+2019.18-1171,2,22098,erwin_chemerinsky,,3272.95,3276.81,"It shouldn't, Your Honor, because it's not in the second amended complaint."
+2019.18-1171,2,15086,john_g_roberts_jr,scotus_justice,3322.23,3329.595,But also enough to allege that the NAACP and the National Urban League and the other individuals were in on the conspiracy?
+2019.18-1171,2,22098,erwin_chemerinsky,,3329.595,3332.3,"Your Honor, that is not in the second amended complaint."
+2019.18-1171,2,15086,john_g_roberts_jr,scotus_justice,3375.295,3378.615,"Thank you, counsel. Mr. Estrada, three minutes remaining."
+2019.18-1171,3,35754,miguel_a_estrada,,3378.615,3433.095,"Yes, thank you, Mr. Chief Justice. Let me start with the last question that was asked and the answer given by counsel. I would refer the Court to the -- to the Pet. App. starting at page 54A and paragraph 59, which is the second amended complaint, which is the current complaint at issue, where the current complaint continues to allege that white-owned media and Comcast in particular works hand in glove with the federal government to execute this racist conspiracy. I would further refer the Court to paragraph 64 -- 62, 64, and 65, which are on the pages following, in which the current complaint goes on to allege that we paid off the signatories to the memorandums of understanding. It doesn't name them by name, but those were incorporated by reference and the district court took judicial notice of the MAU. And, obviously, the signatories are named."
+2019.18-1171,3,15086,john_g_roberts_jr,scotus_justice,3567.555,3568.44,"Thank you, counsel."

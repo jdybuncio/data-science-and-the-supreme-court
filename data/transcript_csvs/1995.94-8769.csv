@@ -1,0 +1,350 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1995.94-8769,0,15141,william_h_rehnquist,scotus_justice,0.0,9.196,"We'll hear argument now in Number 94-8769, Tommy L. Rutledge v. United States."
+1995.94-8769,0,17831,barry_levenstam,,10.578,12.699,"Mr. Chief Justice, and may it please the Court:"
+1995.94-8769,0,15113,anthony_m_kennedy,scotus_justice,36.985,47.003,"Is it the Double Jeopardy Clause in the constitutional sense, or simply a concept that's somewhat like Double Jeopardy when we're interpreting congressional intent?"
+1995.94-8769,0,17831,barry_levenstam,,47.003,55.928,The Court's analysis has incorporated the Double Jeopardy Clause of the Constitution historically.
+1995.94-8769,0,15113,anthony_m_kennedy,scotus_justice,63.582,77.844,"But do all parties concede, or at least do you agree that if Congress wanted multiple or cumulative punishments set for the two crimes, that they could constitutionally enact a provision that would secure that objective?"
+1995.94-8769,0,17831,barry_levenstam,,77.844,78.402,"Yes, Your Honor."
+1995.94-8769,0,15113,anthony_m_kennedy,scotus_justice,84.497,89.221,"So then we're really talking about what Congress intended, rather than double jeopardy, are we not?"
+1995.94-8769,0,17831,barry_levenstam,,89.221,96.825,"Well, the... what Congress intended in the multiple punishments context defines the parameters of the double jeopardy protection."
+1995.94-8769,0,15141,william_h_rehnquist,scotus_justice,96.825,108.091,"Which really means there isn't any constitutional question involved, if Congress can provide whatever it wants, and double jeopardy accordingly recedes whatever Congress has provided."
+1995.94-8769,0,17831,barry_levenstam,,108.091,114.206,"Well, double jeopardy does not impose limitations on Congress, it's true."
+1995.94-8769,0,15084,ruth_bader_ginsburg,scotus_justice,146.296,150.34,But then if we're concerned with Congress' intent--
+1995.94-8769,0,17831,barry_levenstam,,150.34,150.991,Yes.
+1995.94-8769,0,15084,ruth_bader_ginsburg,scotus_justice,150.991,166.249,"--as you agree, then why would Congress intend to put the prosecutor at risk of having no conviction... let's say the CCE conviction gets wiped out on appeal... if the conspiracy conviction has not been entered?"
+1995.94-8769,0,17831,barry_levenstam,,169.732,174.086,"I don't think you should attribute such a will to Congress, and I don't believe that that is what would happen."
+1995.94-8769,0,15084,ruth_bader_ginsburg,scotus_justice,266.497,270.969,How would that work if there is no judgment entered on the conspiracy count?
+1995.94-8769,0,17831,barry_levenstam,,270.969,290.601,"Well, there would be a final judgment entered in the case, and in the line on the judgment form it would say, jury verdict vacated with respect to the conspiracy, and then the court, the appellate court could simply reverse the vacation of that, and remand to the district court."
+1995.94-8769,0,15141,william_h_rehnquist,scotus_justice,290.601,295.515,"The Government would have to appeal that, though, to get the vacatur reversed, wouldn't it?"
+1995.94-8769,0,17831,barry_levenstam,,297.846,299.817,"Well, the defendant won't say that."
+1995.94-8769,0,15084,ruth_bader_ginsburg,scotus_justice,308.863,317.729,"Well, merge... you've just used a word that the Second Circuit... what you describe seems to be what the Second Circuit's position is, and yet in your brief you reject that."
+1995.94-8769,0,17831,barry_levenstam,,317.729,336.432,"--Well, I reject that because the Second Circuit's approach involves entering judgments of conviction on two counts when we believe under the Ball decision that judgments of conviction should be entered under only one of the counts."
+1995.94-8769,0,15084,ruth_bader_ginsburg,scotus_justice,342.265,360.698,But isn't this all just formalism if your end result is that the court on appeal could reinstate the verdict on the conspiracy count in the event that the CCE conviction were reversed on a ground peculiar to that charge?
+1995.94-8769,0,17831,barry_levenstam,,360.698,393.517,"Perhaps it may appear to be formalism from the standpoint of the court, but from the standpoint of the defendant who has a double jeopardy interest here, he will have stood trial in public, perhaps in his community, and under the Second Circuit means of addressing this issue, he will have the additional stigma which the Court mentioned in Ball of having two judgments of conviction entered, really upon one offense."
+1995.94-8769,0,15049,antonin_scalia,scotus_justice,393.517,393.978,Why is--
+1995.94-8769,0,17831,barry_levenstam,,399.243,400.372,Yes.
+1995.94-8769,0,15049,antonin_scalia,scotus_justice,400.372,406.036,He's walking around in the community with two convictions instead of one conviction and a conviction plus vacatur.
+1995.94-8769,0,17831,barry_levenstam,,407.839,408.329,Right.
+1995.94-8769,0,15049,antonin_scalia,scotus_justice,408.558,409.459,And that's not formalism.
+1995.94-8769,0,17831,barry_levenstam,,409.459,410.27,--No.
+1995.94-8769,0,15042,david_h_souter,scotus_justice,410.27,419.376,"Why is there any additional stigma when the second offense is essentially a lesser included... I mean, he's already got all the stigma he can get from the first one."
+1995.94-8769,0,17831,barry_levenstam,,423.147,427.431,"No, Your Honor, we don't think so."
+1995.94-8769,0,15042,david_h_souter,scotus_justice,427.84,428.632,"No, but why not?"
+1995.94-8769,0,17831,barry_levenstam,,428.632,429.431,--Because--
+1995.94-8769,0,15042,david_h_souter,scotus_justice,429.431,435.214,What do they know about him as a result of the second conviction that they don't know about him as a result of the first?
+1995.94-8769,0,17831,barry_levenstam,,435.214,470.727,"--That he's been convicted on two significant drug offenses, which are in fact one and the same, that he has received two life sentences, and the newspaper reports at the time of the sentencing noted the number, the conviction total with respect to my client, and it seems to me, although I've been involved in the legal system nearly 20 years now, that for people who are not, when they read the papers and see that someone has received not one but two life sentences, they glean from that that he committed not one but two exceptionally heinous crimes, and under a--"
+1995.94-8769,0,15042,david_h_souter,scotus_justice,470.727,471.669,And he... I'm sorry.
+1995.94-8769,0,17831,barry_levenstam,,471.669,472.22,--I'm sorry.
+1995.94-8769,0,15042,david_h_souter,scotus_justice,472.22,472.57,"No, go ahead."
+1995.94-8769,0,17831,barry_levenstam,,472.57,480.024,"I was simply going to say, under Congress' definition, based on our position, there has been only one offense here."
+1995.94-8769,0,15113,anthony_m_kennedy,scotus_justice,486.248,499.016,"A district court order that the lesser offense be simply suspended, he would suspend entering judgment, I don't think that would work, because then you couldn't have both appeals."
+1995.94-8769,0,17831,barry_levenstam,,499.016,512.924,"My concern with the suspension, and why I respectfully suggest that the vacatur is a more satisfactory solution, is because suspending the count sort of leaves it out somewhere in Never Never Land."
+1995.94-8769,0,15113,anthony_m_kennedy,scotus_justice,512.924,514.347,Sort of like a springing use.
+1995.94-8769,0,17831,barry_levenstam,,514.347,517.929,Something I never really understood in law school myself.
+1995.94-8769,0,15049,antonin_scalia,scotus_justice,518.28,519.682,"Well, what do we do in the present case?"
+1995.94-8769,0,17831,barry_levenstam,,519.682,528.498,Our request with respect to this would be that you remand to the district court with the direction that one of the two convictions be vacated.
+1995.94-8769,0,15049,antonin_scalia,scotus_justice,528.498,529.667,Be vacated.
+1995.94-8769,0,17831,barry_levenstam,,532.279,535.991,That would be up to the district court.
+1995.94-8769,0,15139,stephen_g_breyer,scotus_justice,535.991,537.962,"But what... I mean, how is it supposed to work?"
+1995.94-8769,0,17831,barry_levenstam,,581.433,582.592,"Well, both--"
+1995.94-8769,0,15139,stephen_g_breyer,scotus_justice,582.592,585.874,--and the collateral consequences will take care of themselves.
+1995.94-8769,0,17831,barry_levenstam,,591.22,595.043,"--But... that might be the simplest approach, but I--"
+1995.94-8769,0,15139,stephen_g_breyer,scotus_justice,595.043,595.804,"All right, so now what is your approach?"
+1995.94-8769,0,17831,barry_levenstam,,596.756,604.39,"--My approach, which is suggested, I believe, by Ball, is that the district court exercise its discretion."
+1995.94-8769,0,15139,stephen_g_breyer,scotus_justice,604.39,605.171,--But you say that.
+1995.94-8769,0,17831,barry_levenstam,,612.525,616.628,In the normal course I believe you would enter judgment on the greater offense--
+1995.94-8769,0,15139,stephen_g_breyer,scotus_justice,616.628,617.129,All right.
+1995.94-8769,0,17831,barry_levenstam,,617.129,618.388,--and vacate the lesser included.
+1995.94-8769,0,15139,stephen_g_breyer,scotus_justice,618.388,625.834,"Fine, so I'd enter judgment, 848 convicted, okay, and I enter judgment on 846, I say, strike it out."
+1995.94-8769,0,17831,barry_levenstam,,627.675,628.025,No.
+1995.94-8769,0,15139,stephen_g_breyer,scotus_justice,628.025,629.868,"I just cross it out, okay."
+1995.94-8769,0,17831,barry_levenstam,,638.712,649.881,"Well, the appellate court then would say that because the Government did not satisfy the requirements to establish a CCE, and there is no CCE conviction--"
+1995.94-8769,0,15139,stephen_g_breyer,scotus_justice,649.881,650.59,Right.
+1995.94-8769,0,17831,barry_levenstam,,650.59,653.221,--the vacatur entered on the conspiracy conviction--
+1995.94-8769,0,15084,ruth_bader_ginsburg,scotus_justice,653.221,653.892,There was no vacatur.
+1995.94-8769,0,17831,barry_levenstam,,661.107,662.977,--And vacate the jury's verdict on the other.
+1995.94-8769,0,15084,ruth_bader_ginsburg,scotus_justice,662.977,665.739,You don't vacate it... the jury's verdict.
+1995.94-8769,0,17831,barry_levenstam,,667.402,675.437,"Well, I believe the jury's verdict is, as a matter of course, entered on the docket, and the docket entry would then be vacated."
+1995.94-8769,0,15139,stephen_g_breyer,scotus_justice,675.437,678.509,"Right, so now what's supposed to happen, in your opinion?"
+1995.94-8769,0,17831,barry_levenstam,,678.509,694.05,"Then the court of appeals can say the decision, given that there is no longer a conviction under the continuing criminal enterprise statute, there is no longer a double jeopardy bar, and so we reverse the vacatur order, and we remand to the--"
+1995.94-8769,0,15139,stephen_g_breyer,scotus_justice,694.05,698.224,"We reverse the... in other words, the Government had to file a piece of paper called cross-appeal?"
+1995.94-8769,0,17831,barry_levenstam,,698.224,699.345,--Well--
+1995.94-8769,0,15139,stephen_g_breyer,scotus_justice,699.345,700.095,Because you won't care.
+1995.94-8769,0,17831,barry_levenstam,,711.014,714.217,"--I don't believe that would be necessary, but--"
+1995.94-8769,0,15139,stephen_g_breyer,scotus_justice,714.217,717.898,"All right, what if... no, but I want to know what's supposed to happen, so let me leave you alone and you'll tell me."
+1995.94-8769,0,17831,barry_levenstam,,717.898,718.458,--Okay.
+1995.94-8769,0,15139,stephen_g_breyer,scotus_justice,718.458,718.779,All right.
+1995.94-8769,0,17831,barry_levenstam,,718.779,734.819,"I don't believe that because, typically, from a final judgment order, all orders entered in the case are brought before the court of appeals, I don't believe that the Government would have to file a notice of appeal."
+1995.94-8769,0,15139,stephen_g_breyer,scotus_justice,734.819,744.964,"I'm now an appellate court judge, and I've just reversed the 848 conviction because of the lack of that final element, and now I say to you, now please tell me, what do I do now?"
+1995.94-8769,0,17831,barry_levenstam,,746.787,774.376,"Well, the vacatur is no longer valid because there's no longer a double jeopardy bar to the entry of a judgment of conviction on the conspiracy, the lesser included, and so you reverse the vacatur and you remand to the district court with instructions to enter judgment, assuming that there is no prejudice, say, here as a result of the--"
+1995.94-8769,0,15139,stephen_g_breyer,scotus_justice,774.376,775.658,And they don't have to have appealed.
+1995.94-8769,0,17831,barry_levenstam,,775.658,776.877,--They don't have to have--
+1995.94-8769,0,15141,william_h_rehnquist,scotus_justice,776.877,777.158,But--
+1995.94-8769,0,17831,barry_levenstam,,777.158,778.71,--They do have the authority to do that.
+1995.94-8769,0,15141,william_h_rehnquist,scotus_justice,778.71,785.104,"--But then does your client appeal again from the second judgment, so that can be reviewed for possible error?"
+1995.94-8769,0,17831,barry_levenstam,,785.104,804.919,"The... in the typical case, and this has happened, in 25 years, so infrequently that it's... that it... there aren't a lot of examples to cite to, but in the typical case, the only thing that the district court would do would be to enter judgment and then issue a sentence and the only question really left for appeal would be the propriety of the sentence."
+1995.94-8769,0,15141,william_h_rehnquist,scotus_justice,804.919,815.144,"Well, but doesn't... wouldn't your client have a right to claim some sort of error, perhaps in the instructions, in the case of the judgment that's now been entered against him?"
+1995.94-8769,0,17831,barry_levenstam,,818.156,820.947,I believe we... yes.
+1995.94-8769,0,15042,david_h_souter,scotus_justice,824.561,828.684,"Yes, but the... not all of the errors might have been the basis for the decision."
+1995.94-8769,0,17831,barry_levenstam,,859.143,861.706,"Well, I don't think it's that complicated, because you have to--"
+1995.94-8769,0,15042,david_h_souter,scotus_justice,861.706,866.638,"Well, no, but just tell me, why won't you... I mean, you're not going to concede that on behalf of your client--"
+1995.94-8769,0,17831,barry_levenstam,,866.638,867.059,"--Oh, no."
+1995.94-8769,0,15042,david_h_souter,scotus_justice,867.059,879.068,"--and if, in fact, it was not reached by the appellate court as the grounds of its decision in the first appeal, you're going to want to reach it in the second one, because if you do, your client will walk, so of course you're going to want to appeal it, aren't you?"
+1995.94-8769,0,17831,barry_levenstam,,879.068,885.362,"Well, that's true, but I will want to appeal because the conspiracy claim is a true, lesser-included offense."
+1995.94-8769,0,15042,david_h_souter,scotus_justice,889.487,896.05,"And you will raise every issue, but in my example the appellate court says, we find one ground of error."
+1995.94-8769,0,17831,barry_levenstam,,915.522,918.053,"--Yes, although I would say--"
+1995.94-8769,0,15042,david_h_souter,scotus_justice,918.053,923.497,"So there will be... I mean, we've got to assume that the price to be paid here is a second appeal."
+1995.94-8769,0,17831,barry_levenstam,,923.497,925.85,"--Well, yes."
+1995.94-8769,0,15084,ruth_bader_ginsburg,scotus_justice,933.183,933.854,But what sense does it make?
+1995.94-8769,0,17831,barry_levenstam,,955.139,966.106,"--Well, again, I guess I don't agree with the underlying premise that there are no collateral consequences, because Ball clearly recognized the social stigma--"
+1995.94-8769,0,15042,david_h_souter,scotus_justice,966.106,969.308,"But if you lose on the stigma point, there are none, isn't that fair to say?"
+1995.94-8769,0,17831,barry_levenstam,,979.843,995.565,"--Justice Souter, you're absolutely correct with respect to a situation other than the one that is in our case, where the Seventh Circuit has affirmed concurrent sentences... concurrent judgments, separate judgments and separate concurrent sentences."
+1995.94-8769,0,15084,ruth_bader_ginsburg,scotus_justice,1017.259,1042.656,"But if it's so that under that Seventh Circuit judgment there is no greater exposure to recidivist charges because under the guidelines they would be treated the same as if there'd been only a CCE conviction, so that there is no recidivist consequence, then under the Seventh Circuit decision, when there's no longer a prison term, the only consequence is the extra stigma."
+1995.94-8769,0,17831,barry_levenstam,,1042.656,1044.445,"--No, I disagree."
+1995.94-8769,0,15042,david_h_souter,scotus_justice,1044.445,1045.446,Fifty dollars.
+1995.94-8769,0,17831,barry_levenstam,,1045.446,1046.93,Excuse me?
+1995.94-8769,0,15042,david_h_souter,scotus_justice,1046.93,1047.729,Fifty dollars.
+1995.94-8769,0,17831,barry_levenstam,,1047.729,1057.025,"Well, there is... yes, there is the assessment of $50, there is in addition... there are certainly other collateral consequences that may adhere."
+1995.94-8769,0,15092,sandra_day_oconnor,scotus_justice,1067.112,1071.644,Or a three-strikes-and-you're-out law in a State.
+1995.94-8769,0,17831,barry_levenstam,,1071.644,1072.375,--Yes.
+1995.94-8769,0,15092,sandra_day_oconnor,scotus_justice,1072.375,1078.6,"I assume if there are two convictions, rather than a merged one it would count for two, is that right?"
+1995.94-8769,0,17831,barry_levenstam,,1078.6,1079.969,"Yes, that is also a possibility."
+1995.94-8769,0,15084,ruth_bader_ginsburg,scotus_justice,1080.66,1082.853,Can you raise that in connection with your client?
+1995.94-8769,0,17831,barry_levenstam,,1084.604,1090.197,"--Well, depending on whether you count both, it would be five or six in this case."
+1995.94-8769,0,15084,ruth_bader_ginsburg,scotus_justice,1090.197,1093.389,"And there were, indeed, three life sentences, were there not?"
+1995.94-8769,0,17831,barry_levenstam,,1093.389,1094.07,Yes.
+1995.94-8769,0,15084,ruth_bader_ginsburg,scotus_justice,1094.07,1108.87,"So does... the way this particular case is decided, does it have any practical consequences, given that your client has not two, but three life sentences at the moment?"
+1995.94-8769,0,17831,barry_levenstam,,1108.87,1113.481,"Well, I think the answer to that, Justice Ginsburg, is that I don't know."
+1995.94-8769,0,15060,john_paul_stevens,scotus_justice,1118.725,1121.786,May I ask kind of a basic question that will reveal my ignorance?
+1995.94-8769,0,17831,barry_levenstam,,1129.534,1136.406,"Well, generally in the State courts, at least in Illinois, charges aren't made on a separate basis."
+1995.94-8769,0,15060,john_paul_stevens,scotus_justice,1147.175,1152.308,"Supposing you do have jury instructions for a greater and a lesser included offense in the same case, what does the judge do?"
+1995.94-8769,0,17831,barry_levenstam,,1154.518,1162.245,"I think the jury... I believe that the jury, at least in my State, is instructed to do one or the other, so the problem does not come up."
+1995.94-8769,0,15060,john_paul_stevens,scotus_justice,1162.245,1166.486,"--Well, why wouldn't the proper solution here be the same, have him do one or the other?"
+1995.94-8769,0,17831,barry_levenstam,,1166.486,1177.155,"Well, it would make sense to me, but I believe that the Ball case said that a jury verdict, that you can bring back... return a jury verdict on both."
+1995.94-8769,0,15060,john_paul_stevens,scotus_justice,1177.155,1186.458,"I mean, it seems sort of strange to have a very special rule with lesser included offenses in the Federal court that's different from what's applied all over the country in State courts."
+1995.94-8769,0,17831,barry_levenstam,,1186.458,1187.87,"Well, I don't--"
+1995.94-8769,0,15113,anthony_m_kennedy,scotus_justice,1187.87,1188.541,But... but--
+1995.94-8769,0,17831,barry_levenstam,,1188.541,1194.075,"--I don't disagree that this creates the problem, is the situation of the Government charging both the lesser and the greater."
+1995.94-8769,0,15113,anthony_m_kennedy,scotus_justice,1194.075,1195.775,--But is this a lesser included offense case?
+1995.94-8769,0,17831,barry_levenstam,,1197.647,1198.767,Yes.
+1995.94-8769,0,15113,anthony_m_kennedy,scotus_justice,1198.767,1202.2,I thought the position was that there were two different acts.
+1995.94-8769,0,17831,barry_levenstam,,1205.472,1206.373,"Well, but--"
+1995.94-8769,0,15113,anthony_m_kennedy,scotus_justice,1206.373,1210.067,It's not necessary... the only reason it's lesser included is because there's a lesser punishment--
+1995.94-8769,0,17831,barry_levenstam,,1210.067,1211.857,"--No, Your Honor--"
+1995.94-8769,0,15113,anthony_m_kennedy,scotus_justice,1211.857,1214.288,--Not a lesser... not a--
+1995.94-8769,0,17831,barry_levenstam,,1214.288,1240.525,"--The... I think it's important to point out that every continuing criminal enterprise will have embedded within it a conspiracy, because one of the statutory elements, without looking to the facts of the case or anything, a pure Blackburger analysis, is in concert, the conduct has to be in concert, and so there will always be a conspiracy buried in a continuing criminal enterprise."
+1995.94-8769,0,15113,anthony_m_kennedy,scotus_justice,1240.525,1248.242,"--Well, yes, but we've conceded at the outset... I thought we conceded that they could be punished separately and cumulatively if Congress so intended."
+1995.94-8769,0,17831,barry_levenstam,,1248.242,1249.921,"That's true, and our position--"
+1995.94-8769,0,15113,anthony_m_kennedy,scotus_justice,1249.921,1253.314,And that is not a paradigmatic lesser included offense.
+1995.94-8769,0,17831,barry_levenstam,,1253.314,1255.896,"--I'm sorry, I didn't hear the last thing you said."
+1995.94-8769,0,15113,anthony_m_kennedy,scotus_justice,1255.896,1261.398,In that situation you do not have a paradigmatic lesser included offense.
+1995.94-8769,0,17831,barry_levenstam,,1261.398,1268.994,"That's true, but Congress did not intend for pyramiding sentences here."
+1995.94-8769,0,15060,john_paul_stevens,scotus_justice,1274.148,1277.91,"Well, but wouldn't you agree that Congress could pyramid sentences with lesser included and greater offenses?"
+1995.94-8769,0,17831,barry_levenstam,,1277.91,1278.799,--Yes.
+1995.94-8769,0,15060,john_paul_stevens,scotus_justice,1278.799,1279.21,Sure.
+1995.94-8769,0,17831,barry_levenstam,,1283.194,1284.393,A para--
+1995.94-8769,0,15060,john_paul_stevens,scotus_justice,1284.914,1288.466,--A case of... a conspiracy is always a lesser included offense of the CCE.
+1995.94-8769,0,17831,barry_levenstam,,1288.466,1295.032,"Well, I guess in my waning moments perhaps I sort of leapfrogged to an issue I was hoping to get to address, which is Congress' intent."
+1995.94-8769,0,15049,antonin_scalia,scotus_justice,1295.032,1296.133,"Well, before you do that--"
+1995.94-8769,0,17831,barry_levenstam,,1296.133,1296.601,Yes.
+1995.94-8769,0,15049,antonin_scalia,scotus_justice,1297.342,1298.884,--I don't understand what you said about the State case.
+1995.94-8769,0,17831,barry_levenstam,,1318.306,1330.054,My understanding is that... and I have seen cases in which there were reversals in remand for trial on the lesser included.
+1995.94-8769,0,15049,antonin_scalia,scotus_justice,1330.054,1334.526,"Oh, before retrial, I'm sure... he can be retried."
+1995.94-8769,0,17831,barry_levenstam,,1334.526,1334.866,Yes.
+1995.94-8769,0,15049,antonin_scalia,scotus_justice,1334.866,1343.892,"But why wouldn't it be better to submit both to the jury so that if the one conviction is reversed, the other one would stand, as your argument would be the case here?"
+1995.94-8769,0,17831,barry_levenstam,,1343.892,1347.484,"To be honest with you, I don't know."
+1995.94-8769,0,15049,antonin_scalia,scotus_justice,1347.484,1347.805,Okay.
+1995.94-8769,0,17831,barry_levenstam,,1347.805,1349.435,It's not how the Illinois law has evolved.
+1995.94-8769,0,15113,anthony_m_kennedy,scotus_justice,1349.435,1356.021,"In the State court case you hypothesized, that you explained, the jury returns a verdict on only one of the two charges, not both."
+1995.94-8769,0,17831,barry_levenstam,,1356.021,1356.682,Yes.
+1995.94-8769,0,15113,anthony_m_kennedy,scotus_justice,1356.682,1360.835,"But here they do both, so that's different from the standard lesser included offense, now."
+1995.94-8769,0,17831,barry_levenstam,,1368.57,1375.224,The same was true with respect to the... I... with respect to the two firearms statutes involved.
+1995.94-8769,0,15084,ruth_bader_ginsburg,scotus_justice,1455.037,1458.786,In... Ball you say was lesser included?
+1995.94-8769,0,17831,barry_levenstam,,1466.653,1483.454,"Because in order to receive you have to possess, but in order to possess, you do not have to receive, and the... Chief Justice Burger in writing that case noted in a footnote that one way of doing that would be to... for the person who possesses the gun to manufacture it."
+1995.94-8769,0,15139,stephen_g_breyer,scotus_justice,1515.705,1522.33,What actually is your objection to what I take is the SG's position on our piece of paper called judgment in the district court?
+1995.94-8769,0,17831,barry_levenstam,,1564.388,1570.342,"I... well, I would certainly prefer it to the approach taken by the Seventh Circuit in this case, okay."
+1995.94-8769,0,15139,stephen_g_breyer,scotus_justice,1570.342,1570.67,That's true.
+1995.94-8769,0,17831,barry_levenstam,,1570.67,1582.32,"Beyond that, I still believe, as I started out the morning, that the vacatur approach is better because that way there is no question but that there is only one conviction for one offense."
+1995.94-8769,0,15141,william_h_rehnquist,scotus_justice,1587.542,1589.112,"Very well, Mr. Levenstam."
+1995.94-8769,1,30335,james_a_feldman,,1590.854,1599.109,"Mr. Chief Justice, and may it please the Court:"
+1995.94-8769,1,15060,john_paul_stevens,scotus_justice,1634.252,1642.187,"Mr. Feldman, is that any different from any normal lesser included offense situation in which the Government gets the verdict on the greater offense and the defendant appeals and has it set aside?"
+1995.94-8769,1,30335,james_a_feldman,,1644.61,1646.601,"--I... well, actually, I guess I have two answers to that."
+1995.94-8769,1,15113,anthony_m_kennedy,scotus_justice,1676.491,1680.311,Do you have at hand authority that I could look at?
+1995.94-8769,1,30335,james_a_feldman,,1680.311,1681.233,Yes.
+1995.94-8769,1,15113,anthony_m_kennedy,scotus_justice,1691.23,1691.871,"Oh, Tinder."
+1995.94-8769,1,30335,james_a_feldman,,1691.871,1700.965,"Actually, a commonly cited case from the D.C. Circuit that lays that out is Allison v. United States at 409 F. 2d 445."
+1995.94-8769,1,15060,john_paul_stevens,scotus_justice,1709.79,1714.555,"Well, if that's the general rule, why wouldn't that rule apply here?"
+1995.94-8769,1,30335,james_a_feldman,,1714.555,1715.935,"Well, in--"
+1995.94-8769,1,15060,john_paul_stevens,scotus_justice,1715.935,1717.617,Just enter judgment on the greater offense.
+1995.94-8769,1,30335,james_a_feldman,,1717.617,1729.135,"--Well, that ordinarily is what happened when... is what the normal Federal practice is where, as I said where separate offenses are defined in distinct sections of a single statute with aggravating factors."
+1995.94-8769,1,15060,john_paul_stevens,scotus_justice,1729.135,1730.445,Let me back up just a second.
+1995.94-8769,1,30335,james_a_feldman,,1737.27,1738.972,We're willing to assume that for purposes of this case.
+1995.94-8769,1,15060,john_paul_stevens,scotus_justice,1739.771,1740.062,Then--
+1995.94-8769,1,30335,james_a_feldman,,1740.062,1742.583,"--for the Court's decisions, we don't agree with that proposition."
+1995.94-8769,1,15060,john_paul_stevens,scotus_justice,1742.583,1748.295,"--But if that were true, then why wouldn't... shouldn't this be treated just like any other lesser included offense situation?"
+1995.94-8769,1,30335,james_a_feldman,,1748.295,1754.009,"Well, it's not the way it's ordinarily done when the statutes... where statutes have as complex a relationship as the two statutes--"
+1995.94-8769,1,15060,john_paul_stevens,scotus_justice,1754.009,1755.962,"No, but maybe it would simplify things to do it that way."
+1995.94-8769,1,30335,james_a_feldman,,1759.175,1759.606,"--Right, well--"
+1995.94-8769,1,15060,john_paul_stevens,scotus_justice,1759.606,1760.314,--with these two statutes--
+1995.94-8769,1,30335,james_a_feldman,,1760.314,1760.714,--The basic--
+1995.94-8769,1,15060,john_paul_stevens,scotus_justice,1760.714,1765.519,"--But if we made it clear that one is a lesser included of the other, wouldn't that solve everything?"
+1995.94-8769,1,30335,james_a_feldman,,1765.519,1770.502,"--Well, that... it would be one way of addressing the problem, I'd agree with that."
+1995.94-8769,1,15060,john_paul_stevens,scotus_justice,1770.502,1771.363,What would be wrong with it?
+1995.94-8769,1,30335,james_a_feldman,,1774.974,1789.573,"The basis of the normal way of treating things, as you mentioned, is that it's assumed that when Congress puts aggravating factors of a given offense in this particular statute, that Congress only wants one conviction, and in fact the way it's normally submitted to the jury."
+1995.94-8769,1,15060,john_paul_stevens,scotus_justice,1803.424,1821.025,"But the reason it hasn't been done here is, there's been a debate of very realistic arguments on both sides as to whether these are, in fact, entirely separate offenses, what did Congress intend, that if we assume what everybody's been assuming in the argument up to now, that you lose on that issue, then wouldn't it make sense to just put it in the same pattern?"
+1995.94-8769,1,30335,james_a_feldman,,1823.456,1848.351,"--Well, I mean, I don't think so, because I think that the question is what Congress intended, and where Congress defined statutes in two distinct sections of statutes, and moreover, where it takes an offense like CCE, which is really dramatically different from an underlying conspiracy, which involves the defendant obtaining substantial income, acting in concert with five or more people, and committing a series of violations, when it takes that kind of statute--"
+1995.94-8769,1,15060,john_paul_stevens,scotus_justice,1848.351,1851.794,"--Yes, because that's just like a murder is more serious than an assault, too."
+1995.94-8769,1,30335,james_a_feldman,,1851.794,1860.49,"--It's true, and Congress could... could, if Congress' intent were not to... were to treat murder and assault the same way, then that would be a reasonable way--"
+1995.94-8769,1,15060,john_paul_stevens,scotus_justice,1860.49,1869.525,"Isn't it first up to us to decide what Congress' intent was, and if we agree with you, why, then they're totally separate, but if we disagree with you, then why does it make any difference that they're in separate statutes rather than in one?"
+1995.94-8769,1,30335,james_a_feldman,,1869.525,1871.648,--If--
+1995.94-8769,1,15060,john_paul_stevens,scotus_justice,1871.648,1877.83,"You see, if we agree with you that Congress intended two separate proceedings entirely, then you win, period."
+1995.94-8769,1,30335,james_a_feldman,,1888.169,1906.501,"--If it were... if they were treated like normal lesser included offenses, and if it were made clear that the procedure whereby you... if the greater one were reversed that the court could just enter judgment on the lesser one, so long as the reason for the reversal didn't cast any doubt on the jury's finding of guilty of the lesser one, I mean, that would--"
+1995.94-8769,1,15092,sandra_day_oconnor,scotus_justice,1906.501,1911.082,"Well, what did this Court say in Ball that sheds light on this, do you think?"
+1995.94-8769,1,30335,james_a_feldman,,1911.082,1914.384,"--I think the Ball court had two holdings, both of which we agree with."
+1995.94-8769,1,15092,sandra_day_oconnor,scotus_justice,1930.935,1937.78,"Did Ball indicate that the conspiracy is a lesser included offense of CCE, in your view?"
+1995.94-8769,1,30335,james_a_feldman,,1937.78,1938.161,No.
+1995.94-8769,1,15092,sandra_day_oconnor,scotus_justice,1947.848,1948.987,"Oh, that's right."
+1995.94-8769,1,30335,james_a_feldman,,1948.987,1949.608,--of a firearm by a felon--
+1995.94-8769,1,15092,sandra_day_oconnor,scotus_justice,1949.608,1950.169,Right.
+1995.94-8769,1,30335,james_a_feldman,,1950.169,1955.511,"--were essentially to be treated as directed at a single evil and as the same offense, and again, that--"
+1995.94-8769,1,15092,sandra_day_oconnor,scotus_justice,1955.511,1957.244,Was it Jeffers where we discussed--
+1995.94-8769,1,30335,james_a_feldman,,1957.244,1959.826,--Yes.
+1995.94-8769,1,15092,sandra_day_oconnor,scotus_justice,1961.466,1961.977,"--Yes, right."
+1995.94-8769,1,30335,james_a_feldman,,1961.977,1962.778,--CCE and conspiracy.
+1995.94-8769,1,15092,sandra_day_oconnor,scotus_justice,1962.778,1963.159,Right.
+1995.94-8769,1,30335,james_a_feldman,,1963.159,1971.427,The plurality in that case stated that Congress didn't intend a greater prison term to be imposed or a greater fine.
+1995.94-8769,1,15092,sandra_day_oconnor,scotus_justice,1976.339,1982.603,And the plurality in Jeffers assumed without deciding that there was a lesser included offense.
+1995.94-8769,1,30335,james_a_feldman,,1982.603,1996.982,"That's correct, but they still went on, and we're basic... we are submitting this case to the Court, and willing to accept the same assumption that the Court adopted in Jeffers, and that is, we can assume they are a greater and lesser included offense, but there still remains the question of what Congress intended."
+1995.94-8769,1,15092,sandra_day_oconnor,scotus_justice,2018.017,2023.64,--we should decide whether this is a lesser included offense or not.
+1995.94-8769,1,30335,james_a_feldman,,2023.64,2025.41,The Court could decide that in this case.
+1995.94-8769,1,15060,john_paul_stevens,scotus_justice,2093.114,2095.056,"No, but in that case that you give, you wouldn't have a conspiracy indictment."
+1995.94-8769,1,30335,james_a_feldman,,2095.056,2096.335,Right.
+1995.94-8769,1,15060,john_paul_stevens,scotus_justice,2097.247,2097.678,Sure.
+1995.94-8769,1,30335,james_a_feldman,,2098.569,2099.028,"--In that case, you wouldn't."
+1995.94-8769,1,15060,john_paul_stevens,scotus_justice,2099.028,2101.672,--Every assault isn't a lesser included offense of every murder.
+1995.94-8769,1,30335,james_a_feldman,,2103.152,2104.364,"That's correct, and in that case--"
+1995.94-8769,1,15060,john_paul_stevens,scotus_justice,2104.364,2108.274,"But if the conspiracy is an element of the CCE, then it's always a lesser included offense."
+1995.94-8769,1,30335,james_a_feldman,,2108.274,2111.366,"--No, I don't think that's the analysis to--"
+1995.94-8769,1,15060,john_paul_stevens,scotus_justice,2111.366,2113.309,Your example doesn't disagree with that.
+1995.94-8769,1,30335,james_a_feldman,,2113.309,2115.169,"--No, I don't think that's right."
+1995.94-8769,1,15060,john_paul_stevens,scotus_justice,2134.333,2146.011,"But we deal with cases in which... the only cases we're concerned with are those in which the government has made both a conspiracy charge and a CCE charge, so it doesn't help the analysis to hypothesize CCE cases that don't involve conspiracy."
+1995.94-8769,1,30335,james_a_feldman,,2146.011,2150.142,--I think I agree with you in the following sense.
+1995.94-8769,1,15049,antonin_scalia,scotus_justice,2159.849,2166.293,"How could we resolve Jeffers the way we did against the Government and not reach this issue, as you say?"
+1995.94-8769,1,30335,james_a_feldman,,2166.293,2174.209,Because Congress... because the Court in Jeffers held that in any event what you have to do is look at Congress' intent with respect to--
+1995.94-8769,1,15049,antonin_scalia,scotus_justice,2174.209,2180.563,"Well, isn't it very relevant to Congress' intent whether the two... whether one crime is a lesser included offense or not?"
+1995.94-8769,1,30335,james_a_feldman,,2180.563,2196.591,"--I think actually in many cases it is, although the Court frequently, when it deals with that question, looks not only at what... at the relation of lesser... and greater included offenses, but also looks at what... the direct indications of what Congress, how Congress intended--"
+1995.94-8769,1,15049,antonin_scalia,scotus_justice,2196.591,2199.115,Did we say in Jeffers that we were not reaching this question?
+1995.94-8769,1,30335,james_a_feldman,,2199.115,2199.373,--Yes.
+1995.94-8769,1,15049,antonin_scalia,scotus_justice,2220.809,2225.473,"It seems to me it's a very, very fine congressional intent you're asking us to posit."
+1995.94-8769,1,30335,james_a_feldman,,2265.497,2266.589,"--Well, I think--"
+1995.94-8769,1,15049,antonin_scalia,scotus_justice,2266.589,2268.64,"It's a real difficult task, don't you think?"
+1995.94-8769,1,30335,james_a_feldman,,2268.64,2272.142,"--Well, that is what the Court... I think that's what the Court did in Ball."
+1995.94-8769,1,15049,antonin_scalia,scotus_justice,2276.864,2278.347,"Well, I think the one goes with the other."
+1995.94-8769,1,30335,james_a_feldman,,2292.886,2294.426,"--Well, I think to be fair, it's also--"
+1995.94-8769,1,15049,antonin_scalia,scotus_justice,2294.426,2295.959,--I guess there are even more than three categories.
+1995.94-8769,1,30335,james_a_feldman,,2303.413,2311.139,"--Well, I mean, I think as a logical matter it's possible Congress could have had any kind of intent with respect to punishment, because the Constitution doesn't impose limits in that respect."
+1995.94-8769,1,15049,antonin_scalia,scotus_justice,2311.139,2312.407,Life is too short.
+1995.94-8769,1,30335,james_a_feldman,,2322.134,2328.039,"Well, as a practical matter, the notion of punishment that's involved here is a fairly involved, refined notion of punishment."
+1995.94-8769,1,15141,william_h_rehnquist,scotus_justice,2374.799,2379.702,What's the source of this refined concept of punishment that you were just talking about?
+1995.94-8769,1,30335,james_a_feldman,,2382.643,2384.776,The only case that I'm aware of is Ball.
+1995.94-8769,1,15141,william_h_rehnquist,scotus_justice,2387.298,2389.569,"It isn't entirely consistent with some of our other cases, is it?"
+1995.94-8769,1,30335,james_a_feldman,,2389.569,2392.52,Ball was... is in some tension with a number of cases.
+1995.94-8769,1,15141,william_h_rehnquist,scotus_justice,2392.52,2392.891,Yes.
+1995.94-8769,1,30335,james_a_feldman,,2392.891,2400.625,"But the... Ball had a fairly unique circumstance, which was, you had two statutes of receiving and possessing a firearm by a felon."
+1995.94-8769,1,15084,ruth_bader_ginsburg,scotus_justice,2419.879,2439.841,"But Mr. Feldman, Chief Justice Burger said, twice in that opinion said the criminal conviction itself, and not just the sentence, is punishment, and he stated that... I'm sure you're familiar with the decision... twice as a perfectly general proposition not tied to this peculiar receipt possession."
+1995.94-8769,1,30335,james_a_feldman,,2439.841,2447.816,"I agree, and again we don't disagree, or we're not asking the Court to... our position doesn't require disagreeing with that holding."
+1995.94-8769,1,15084,ruth_bader_ginsburg,scotus_justice,2489.753,2497.898,"But if the Tinder case that you cited, if that's the model, then the Government is protected against what you said at the outset of your argument was your real concern."
+1995.94-8769,1,30335,james_a_feldman,,2497.898,2498.729,--That's correct.
+1995.94-8769,1,15084,ruth_bader_ginsburg,scotus_justice,2498.729,2500.951,That you'd be stuck without any conviction.
+1995.94-8769,1,30335,james_a_feldman,,2500.951,2501.692,That's correct.
+1995.94-8769,1,15113,anthony_m_kennedy,scotus_justice,2501.943,2518.963,"I'm not sure that's so, because in Tinder what happened... I've just read it... the court gave a sentence that was in excess of the authorized sentence unless they showed that the value of the items stolen from the mail had been more than $5,000."
+1995.94-8769,1,30335,james_a_feldman,,2534.363,2535.024,"--Well, I--"
+1995.94-8769,1,15113,anthony_m_kennedy,scotus_justice,2535.024,2536.333,The offense was the same offense.
+1995.94-8769,1,30335,james_a_feldman,,2536.333,2564.022,"--The way Tinder has been read by the lower courts, and the Court didn't... this Court did not discuss this issue in any detail, as you know, but the way it's been read by the lower courts as whereas the greater offense required proof of over, whatever it was, over $5,000 of merchandise stolen, and that was an element of the greater offense, there was a... that was a felony, there was also a misdemeanor offense that didn't require proof of that element, and therefore the relationship between the two offenses was a greater and lesser included offense."
+1995.94-8769,1,15141,william_h_rehnquist,scotus_justice,2575.941,2582.646,"A lot of that has to be implied from Tinder, doesn't it, since it really goes from a long recitation of the facts to saying, reversed."
+1995.94-8769,1,30335,james_a_feldman,,2582.646,2588.59,"That's correct, but it's... the disposition of... it's not just reversed, it's also the disposition of the case, which was entry--"
+1995.94-8769,1,15141,william_h_rehnquist,scotus_justice,2588.59,2588.92,Yes.
+1995.94-8769,1,30335,james_a_feldman,,2588.92,2591.211,"--of judgment on the misdemeanor, but I agree."
+1995.94-8769,1,15092,sandra_day_oconnor,scotus_justice,2632.929,2639.801,"Mr. Feldman, what light do you think that Garrett v. The United States sheds on this problem?"
+1995.94-8769,1,30335,james_a_feldman,,2645.985,2658.384,"That's correct, and the Court stated that the relationship between those two offenses is a very complex relationship, and it cannot be simply analogized to the greater... that of greater and lesser included offenses."
+1995.94-8769,1,15049,antonin_scalia,scotus_justice,2726.899,2733.514,"You think it's a lesser punishment to say I was... I have two convictions of two crimes, than to say I have one conviction of two crimes?"
+1995.94-8769,1,30335,james_a_feldman,,2745.202,2758.429,"--I don't think so, because I think that Ball was concerned not just with the very abstract question of counting of crimes, but the possible consequences that could flow to the defendant from two convictions, and those consequences can't flow."
+1995.94-8769,1,15049,antonin_scalia,scotus_justice,2772.979,2776.421,"You think it's stigmatically neutral, is that it?"
+1995.94-8769,1,30335,james_a_feldman,,2776.421,2785.217,"Yes, I guess I would think it's stigmatically neutral, I think, and particularly in the context of these statutes, where the CCE offense is really one of the most serious ones in the Federal criminal law."
+1995.94-8769,1,15139,stephen_g_breyer,scotus_justice,2794.694,2798.347,"Could you help me with something very, very basic?"
+1995.94-8769,1,30335,james_a_feldman,,2828.475,2831.637,It's... the latter is the ordinary way of doing it.
+1995.94-8769,1,15139,stephen_g_breyer,scotus_justice,2832.318,2833.72,The latter is the ordinary way.
+1995.94-8769,1,30335,james_a_feldman,,2833.72,2835.109,--Where the two bear the simple--
+1995.94-8769,1,15139,stephen_g_breyer,scotus_justice,2835.109,2843.333,"So ordinarily, the basic Hornbook thing is that you'll end up with one conviction, and if that conviction is reversed on appeal, you'll have to have a new trial."
+1995.94-8769,1,30335,james_a_feldman,,2843.333,2844.836,"--No, I don't think that's correct."
+1995.94-8769,1,15139,stephen_g_breyer,scotus_justice,2845.617,2846.596,If that's--
+1995.94-8769,1,30335,james_a_feldman,,2846.596,2849.378,"--Well, it depends, but if the conviction is for the greater offense--"
+1995.94-8769,1,15139,stephen_g_breyer,scotus_justice,2849.378,2851.271,"--Yes, they convict for the greater offense."
+1995.94-8769,1,30335,james_a_feldman,,2851.271,2854.092,--and if he's convicted for a reason that's unrelated to the lesser offense--
+1995.94-8769,1,15139,stephen_g_breyer,scotus_justice,2854.092,2854.583,"Yes, that's right."
+1995.94-8769,1,30335,james_a_feldman,,2854.583,2856.383,--Then you can just enter a conviction on the lesser offense.
+1995.94-8769,1,15139,stephen_g_breyer,scotus_justice,2856.383,2858.584,How could you if the jury never came in with a conviction?
+1995.94-8769,1,30335,james_a_feldman,,2858.584,2859.456,I beg your pardon?
+1995.94-8769,1,15139,stephen_g_breyer,scotus_justice,2859.456,2859.816,Sorry.
+1995.94-8769,1,30335,james_a_feldman,,2870.012,2870.673,Right.
+1995.94-8769,1,15139,stephen_g_breyer,scotus_justice,2871.123,2871.754,--It's just lesser included.
+1995.94-8769,1,30335,james_a_feldman,,2871.754,2872.265,--That's correct.
+1995.94-8769,1,15139,stephen_g_breyer,scotus_justice,2872.265,2875.796,"And now they do convict of B. On appeal, reversed."
+1995.94-8769,1,30335,james_a_feldman,,2877.789,2878.987,"No, I don't think that that's correct."
+1995.94-8769,1,15139,stephen_g_breyer,scotus_justice,2889.065,2889.535,"I see, okay."
+1995.94-8769,1,30335,james_a_feldman,,2889.535,2891.325,The jury has found the defendant guilty of all of the elements--
+1995.94-8769,1,15139,stephen_g_breyer,scotus_justice,2891.325,2891.586,All right.
+1995.94-8769,1,30335,james_a_feldman,,2914.532,2924.058,"--The Government's... I would say our primary interest in this case is making sure that whatever mechanism is involved, the defendant, who has committed both the 846 and 848 offenses--"
+1995.94-8769,1,15139,stephen_g_breyer,scotus_justice,2924.058,2924.398,--Yes.
+1995.94-8769,1,30335,james_a_feldman,,2924.398,2933.214,"--gets... and can't, through some fluke on collateral attack or appeal, by getting one of those overturned, for a reason unrelated to the other, doesn't therefore end up scott-free."
+1995.94-8769,1,15139,stephen_g_breyer,scotus_justice,2933.214,2935.775,You've just explained to me how that's impossible.
+1995.94-8769,1,30335,james_a_feldman,,2937.408,2951.436,"In the normal... the normal course, in the normal course or a statute that defines greater and lesser degrees of a single offense, committing an offense and then committing the same offense with a gun, or something like that, I think that that's the way Congress intended things to work."
+1995.94-8769,1,15139,stephen_g_breyer,scotus_justice,2955.19,2957.41,--But that's a legal argument.
+1995.94-8769,1,30335,james_a_feldman,,2976.651,2978.274,"--I think, actually, yes."
+1995.94-8769,1,15139,stephen_g_breyer,scotus_justice,2982.556,2983.026,Yes.
+1995.94-8769,1,30335,james_a_feldman,,2983.026,2985.4,--That would protect the interest that the Government is seeking here.
+1995.94-8769,1,15139,stephen_g_breyer,scotus_justice,2985.4,2990.812,"So then what we should say, in your view, is almost, I think, identical to what your opponent told us."
+1995.94-8769,1,30335,james_a_feldman,,2999.598,3002.37,We do... well... we do disagree that it is a lesser included--
+1995.94-8769,1,15042,david_h_souter,scotus_justice,3002.37,3006.25,"No, but if we say that it's a lesser included offense, you get everything you want, don't you?"
+1995.94-8769,1,30335,james_a_feldman,,3006.25,3012.665,"--If it's clear that that procedure would work, at least in terms of our... again, I don't think this is what Congress intended here, but in terms of our interest--"
+1995.94-8769,1,15042,david_h_souter,scotus_justice,3012.665,3024.834,"No, but let's... all right, let's assume we'll commit that error, and we'll say that Congress did intend these to be treated as greater and lesser included, then there's nothing else that you're worried about, is there?"
+1995.94-8769,1,30335,james_a_feldman,,3026.616,3037.332,"--So long as it was clear, again, that the defendant who somehow managed to get the CCE conviction overturned on direct or on collateral attack, the judgment could still be entered on the lesser... on the conspiracy offense."
+1995.94-8769,1,15042,david_h_souter,scotus_justice,3037.332,3038.472,"--Well, I think that was Justice Breyer's--"
+1995.94-8769,1,30335,james_a_feldman,,3038.472,3041.447,"Right, so... and I just want to be sure that that is our primary interest."
+1995.94-8769,1,15084,ruth_bader_ginsburg,scotus_justice,3046.498,3047.049,--And you recognize--
+1995.94-8769,1,30335,james_a_feldman,,3047.617,3053.361,"But for the reasons I said before, I really do want to add that we don't view them as greater or lesser included offenses, and in our view--"
+1995.94-8769,1,15060,john_paul_stevens,scotus_justice,3053.361,3061.378,"--No, but you're basically making the argument that Justice White accepted in Jeffers now, and eight members of the Court made the assumption to the contrary."
+1995.94-8769,1,30335,james_a_feldman,,3068.061,3073.667,"--Well, you... I think actually you'd have four... there were four members of the Court who I think accepted the assumption."
+1995.94-8769,1,15060,john_paul_stevens,scotus_justice,3084.864,3092.268,"No, but if Justice White was right, his is a much simply disposition of the case than the rather convoluted position of the majority."
+1995.94-8769,1,30335,james_a_feldman,,3092.268,3098.732,"Well, I think that the four... the plurality of the Court in that case was... it's true they didn't accept Justice White's view."
+1995.94-8769,1,15141,william_h_rehnquist,scotus_justice,3101.744,3102.425,But all of this is--
+1995.94-8769,1,30335,james_a_feldman,,3112.771,3113.292,Right.
+1995.94-8769,1,15113,anthony_m_kennedy,scotus_justice,3122.709,3145.031,"But if we were to decide the case that way, we would have... in order to reach this happy result that's been suggested to you, I think we would have to confirm the correctness of the D.C. Circuit's opinion in the Allison case, which said that without a jury verdict on the lesser included offense, the Court could order a judgment on that defense, and that that seems--"
+1995.94-8769,1,30335,james_a_feldman,,3145.031,3145.412,--That's correct.
+1995.94-8769,1,15113,anthony_m_kennedy,scotus_justice,3145.412,3147.295,--to me to be something we have not yet decided.
+1995.94-8769,1,30335,james_a_feldman,,3147.295,3153.299,"Again, I do... it has been taken to be... and I've been cautious in how I word this throughout."
+1995.94-8769,1,15141,william_h_rehnquist,scotus_justice,3161.494,3173.492,To say that the court of appeals enters judgment in the court of appeals on an offense which the defendant was not convicted of by the jury because the jury very likely would have convicted him on--
+1995.94-8769,1,30335,james_a_feldman,,3173.492,3174.614,--It's really more than that.
+1995.94-8769,1,15042,david_h_souter,scotus_justice,3200.44,3230.339,"--Mr. Feldman, if we don't make what you regard as the error of treating this... these two offenses as greater and lesser, then, in fact, there would, I suppose be a further stigmatic element quite apart from the $50 in the conviction for conspiracy, since that need not be on your view assumed under CCC, and so if we read the law right, why shouldn't you lose just on straightforward analysis of cumulative effect?"
+1995.94-8769,1,30335,james_a_feldman,,3230.339,3245.32,I guess this Court has never gone so far as to hold that that level of effect really constitutes a punishment that in any real sense should determine to guide the analysis or in particular should stand in the way of reaching what I think is a logical Seventh Circuit--
+1995.94-8769,1,15042,david_h_souter,scotus_justice,3245.32,3245.73,I see.
+1995.94-8769,1,30335,james_a_feldman,,3245.73,3246.081,--result here.
+1995.94-8769,1,15084,ruth_bader_ginsburg,scotus_justice,3246.081,3246.471,Let me--
+1995.94-8769,1,30335,james_a_feldman,,3247.861,3248.572,I beg your pardon?
+1995.94-8769,1,15084,ruth_bader_ginsburg,scotus_justice,3248.572,3250.194,Ball could be read to say just that.
+1995.94-8769,1,30335,james_a_feldman,,3250.194,3251.024,I--
+1995.94-8769,1,15084,ruth_bader_ginsburg,scotus_justice,3251.024,3252.446,That the very conviction is--
+1995.94-8769,1,30335,james_a_feldman,,3252.446,3253.004,--It said--
+1995.94-8769,1,15084,ruth_bader_ginsburg,scotus_justice,3253.004,3255.908,"--an additional punishment, and one of the reasons is the stigma."
+1995.94-8769,1,30335,james_a_feldman,,3255.908,3284.256,"--Right, but they only... but Ball said that only after going... it said there is some modicum of additional punishment that attaches to... that attaches to a conviction in the circumstance where both... there was both adverse... the possibility of adverse collateral effects and this kind of stigmatic injury, but Ball... but then Ball said that in this case we're only holding that the conviction has to be reversed, and we're only holding that the... and the sentence can't be entered because of the particular relationship between the two statutes here."
+1995.94-8769,1,15141,william_h_rehnquist,scotus_justice,3284.896,3285.407,Thank you.
+1995.94-8769,1,30335,james_a_feldman,,3286.356,3287.067,--Thank you.
+1995.94-8769,1,15141,william_h_rehnquist,scotus_justice,3287.067,3289.439,"Mr. Levenstam, you have 2 minutes remaining."
+1995.94-8769,2,17831,barry_levenstam,,3289.439,3291.081,Thank you.
+1995.94-8769,2,15042,david_h_souter,scotus_justice,3293.462,3297.415,"Mr. Levenstam, may I... I'm sorry, but would you address... I was going to ask Mr. Feldman this."
+1995.94-8769,2,17831,barry_levenstam,,3299.356,3312.472,"--Well, under this Court's per curiam decision in Ray, there really are no longer concurrent sentences in the Federal system, because each judgment of conviction carries with it a separate $50 assessment."
+1995.94-8769,2,15042,david_h_souter,scotus_justice,3312.472,3315.955,"So the $50, at least in your view, is punishment."
+1995.94-8769,2,17831,barry_levenstam,,3320.958,3321.269,Yes.
+1995.94-8769,2,15084,ruth_bader_ginsburg,scotus_justice,3379.308,3382.03,"Mr. Levenstam, what is your position on the Tinder approach?"
+1995.94-8769,2,17831,barry_levenstam,,3391.015,3408.246,"Assuming that you can interject the Morris v. Mathews analysis, which is, if there has been some prejudice to the defendant as a result of the charging of the greater offense, then we would agree with that, with the Tinder approach."
+1995.94-8769,2,15141,william_h_rehnquist,scotus_justice,3409.448,3410.249,"Thank you, Mr. Levenstam."

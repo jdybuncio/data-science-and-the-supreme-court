@@ -1,0 +1,195 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2005.04-433,0,15086,john_g_roberts_jr,scotus_justice,0.0,8.354,"We'll hear argument first this morning in 04-433, Anza v. Ideal Steel Supply Corporation."
+2005.04-433,0,20869,david_c_frederick,,9.405,13.778,"Thank you, Mr. Chief Justice, and may it please the Court:"
+2005.04-433,0,15042,david_h_souter,scotus_justice,162.447,164.481,"Well, isn't there something different here?"
+2005.04-433,0,20869,david_c_frederick,,221.594,223.742,"I don't agree, Justice Souter, and here's why."
+2005.04-433,0,15042,david_h_souter,scotus_justice,245.526,249.366,"Sure, but they suffered the harm because the firm suffered the harm."
+2005.04-433,0,20869,david_c_frederick,,265.837,267.342,That... that's not so.
+2005.04-433,0,15113,anthony_m_kennedy,scotus_justice,326.156,327.883,"Well, why... why is that true?"
+2005.04-433,0,20869,david_c_frederick,,355.998,367.472,--Because this Court rejected a similar theory in section 4 of the Clayton Act context where it held that a specific intent to injure is not sufficient as a pleading matter.
+2005.04-433,0,15084,ruth_bader_ginsburg,scotus_justice,409.067,419.818,"Mr. Frederick, you... you started by saying how difficult this would be to prove, but could the plaintiff piggyback on New York?"
+2005.04-433,0,20869,david_c_frederick,,430.141,433.41,"Well, as the briefs indicate... and we're somewhat outside the record."
+2005.04-433,0,15084,ruth_bader_ginsburg,scotus_justice,463.892,472.377,Do I understand correctly that the complaint has since been amended to assert a Federal income tax shortfall?
+2005.04-433,0,20869,david_c_frederick,,472.377,474.232,"That's correct, Justice Ginsburg."
+2005.04-433,0,15060,john_paul_stevens,scotus_justice,507.081,509.98,"Well, but this is a little more focused than that, I think."
+2005.04-433,0,20869,david_c_frederick,,511.814,531.233,"We have to assume that for purposes of this pleading except insofar as it acknowledges whether or not a legal requirement is satisfied, and I think that the cases of this Court and certainly the commentators have been clear the Court does not need to assume a fact for purposes of a legal conclusion."
+2005.04-433,0,15060,john_paul_stevens,scotus_justice,540.592,548.545,"But do you think it's fair to interpret the Second Circuit as having, in effect, held that every competitor of anybody who cheats on his taxes has a RICO claim?"
+2005.04-433,0,20869,david_c_frederick,,548.545,564.823,"What the Second Circuit held was that if the plaintiff pleads that they were a direct target... and here, other competitors in the market like Colonial, Alimar, Friedel, and Easton Steel, could plead exactly the same thing that they, in fact, were the direct target."
+2005.04-433,0,15086,john_g_roberts_jr,scotus_justice,594.404,602.728,"Mr. Frederick, I understand how your arguments work under section 1962(c), but how... how do they work under 1962(a)?"
+2005.04-433,0,20869,david_c_frederick,,607.704,621.936,"Mr. Chief Justice, the way we get to the proximate cause requirement through Holmes is through 1964(c)'s use of by reason of a violation of 1962."
+2005.04-433,0,15086,john_g_roberts_jr,scotus_justice,644.875,659.019,"But 62(a) gets to the reinvestment of the illicit proceeds in a... in an enterprise, and here you have the opening of the facility right next... not right next door... nearby the other facility."
+2005.04-433,0,20869,david_c_frederick,,665.406,668.634,"They... that's not their allegation, though, in this sense."
+2005.04-433,0,15084,ruth_bader_ginsburg,scotus_justice,722.687,725.115,Is there any impediment to New York suing?
+2005.04-433,0,20869,david_c_frederick,,742.426,765.436,"There are cases that have so held, and I think this Court's decision in Pasquantino, which holds that the tax revenue from a governmental entity can be property within the meaning of the fraud statutes, would support a general notion that a State could, in fact, if it believed that that was necessary to vindicate the law's purposes would be appropriate."
+2005.04-433,0,15084,ruth_bader_ginsburg,scotus_justice,778.906,791.784,"The... the Second Circuit seemed to rely on an earlier case that is much featured in respondent's brief, but I don't recall your dealing with it."
+2005.04-433,0,20869,david_c_frederick,,810.43,823.391,"That, Justice Ginsburg, may give rise to certain legal remedies and certain harms, but we submit would be too indirect for a RICO treble damages claim."
+2005.04-433,0,15068,samuel_a_alito_jr,scotus_justice,844.884,859.377,"Suppose... suppose the company gets a competitive advantage by engaging in the sort of activity that's would be traditionally be associated with organized crime, let's say, extortion or labor offenses."
+2005.04-433,0,20869,david_c_frederick,,866.138,868.425,"--It could, Justice Alito, in this way."
+2005.04-433,0,15049,antonin_scalia,scotus_justice,902.908,904.612,"Well, I don't understand your answer then."
+2005.04-433,0,20869,david_c_frederick,,912.186,912.887,It can--
+2005.04-433,0,15049,antonin_scalia,scotus_justice,912.887,913.631,Why?
+2005.04-433,0,20869,david_c_frederick,,915.878,927.61,"--Because if... depending on the exact facts of how the violence was done, whether or not the injury that is sustained is direct within the Holmes factors--"
+2005.04-433,0,15049,antonin_scalia,scotus_justice,927.61,929.005,"Well, that has nothing to do with violence or not."
+2005.04-433,0,20869,david_c_frederick,,933.52,951.836,"--That's correct, although there is... Justice Scalia, I don't want... I don't think that it should be foreclosed that as your opinion in Holmes and as footnote 20 of the majority opinion in Holmes pointed out, how those proximate cause factors get analyzed with the different predicate acts may vary slightly, but we think--"
+2005.04-433,0,15042,david_h_souter,scotus_justice,951.836,957.903,"Well, may... may I ask you to focus this way, just going one step further than the hypo you've got?"
+2005.04-433,0,20869,david_c_frederick,,988.073,994.866,"--Yes, it would because there is a better defendant A which got extorted for purpose of vindicating the extortion--"
+2005.04-433,0,15042,david_h_souter,scotus_justice,994.866,1003.351,"But... but if that's the case, then... if... if the relationship between the parties is the same, then the presence of violence or nonviolence has nothing to do with your... your position."
+2005.04-433,0,20869,david_c_frederick,,1003.792,1008.124,--It... it does in this extent.
+2005.04-433,0,15060,john_paul_stevens,scotus_justice,1066.661,1067.504,May I ask this?
+2005.04-433,0,20869,david_c_frederick,,1077.353,1077.874,Yes.
+2005.04-433,0,15060,john_paul_stevens,scotus_justice,1077.874,1088.666,And what if the defendant bribed a... an official of the New York revenue department to impose unnecessarily high taxes on the competitor?
+2005.04-433,0,20869,david_c_frederick,,1088.666,1105.307,"That is starting to get more indirect, but I think that that probably would be sufficient to show injury because the State of New York is not suffering any kind of property loss or any other kind of harm other than honest services."
+2005.04-433,0,15060,john_paul_stevens,scotus_justice,1105.307,1117.311,And what if they... what if they somehow or other fraudulently persuaded the revenue agents of the State to impose higher taxes and penalties on the competitor?
+2005.04-433,0,20869,david_c_frederick,,1117.311,1124.164,"I... I don't think that that hypothetical in any substantive way is different from the second one, Justice Stevens."
+2005.04-433,0,15060,john_paul_stevens,scotus_justice,1124.164,1125.879,So you think there would be recovery in that scenario.
+2005.04-433,0,20869,david_c_frederick,,1125.879,1126.109,No.
+2005.04-433,0,15060,john_paul_stevens,scotus_justice,1148.807,1158.416,"Well, supposing we've got a license inspector or somebody every Monday night to go out and... and inspect very heavily the competitor and cause all sorts of nuisance values and so forth."
+2005.04-433,0,20869,david_c_frederick,,1166.45,1174.094,"--Not under... well, I don't think there would be a cause of action by the competitor under RICO because, again, those damages are too indirect."
+2005.04-433,0,15139,stephen_g_breyer,scotus_justice,1189.9,1199.54,"I'm rather surprised at your answers because I was thinking you want to draw a rather clear line between where fraud is at issue, and only fraud."
+2005.04-433,0,20869,david_c_frederick,,1222.126,1230.663,"Well, I think, Justice Breyer, it depends on how the fraud plays out, and... and I would acknowledge that this is a... a somewhat nebulous area when you--"
+2005.04-433,0,15139,stephen_g_breyer,scotus_justice,1230.663,1231.817,"No, no, it's not nebulous."
+2005.04-433,0,20869,david_c_frederick,,1248.216,1262.68,"--The difficulty, Justice Breyer, as... as that series of hypotheticals plays out in the real world is that defendants who have to defend against actions are forced to deal with the truth of pleadings for purposes of 12(b)(6)."
+2005.04-433,0,15139,stephen_g_breyer,scotus_justice,1280.071,1280.101,No.
+2005.04-433,0,20869,david_c_frederick,,1281.496,1292.357,"--But, Justice Breyer, I guess my point is that I think that there... with all candor to the Court, there are some difficulties in handling that as a pleading matter."
+2005.04-433,0,15139,stephen_g_breyer,scotus_justice,1296.84,1297.17,"No, no."
+2005.04-433,0,20869,david_c_frederick,,1297.834,1298.064,But--
+2005.04-433,0,15139,stephen_g_breyer,scotus_justice,1298.455,1299.318,--on... on a--
+2005.04-433,0,20869,david_c_frederick,,1299.318,1309.457,But... but I would submit that the rule as articulated is one that would have some administration issues.
+2005.04-433,0,15086,john_g_roberts_jr,scotus_justice,1329.117,1329.477,But it's not--
+2005.04-433,0,20869,david_c_frederick,,1329.477,1330.602,--the plaintiff asserts a claim.
+2005.04-433,0,15086,john_g_roberts_jr,scotus_justice,1330.602,1337.332,--I think the reason Justice Breyer's test is a little more administrable than you're willing to admit is that it's not a question of motive.
+2005.04-433,0,20869,david_c_frederick,,1361.484,1363.503,"That's correct, Mr. Chief Justice."
+2005.04-433,0,15049,antonin_scalia,scotus_justice,1466.74,1488.898,"I'm... I'm impressed by one of the cases cited in the brief, in which someone causes a person who has a contract with a third party to believe that the third party has repudiated the contract, and thereby gets that person to give the contract to himself."
+2005.04-433,0,20869,david_c_frederick,,1504.334,1506.541,"I do, Justice Scalia, and--"
+2005.04-433,0,15049,antonin_scalia,scotus_justice,1506.541,1507.815,"And yet, he's not defrauded."
+2005.04-433,0,20869,david_c_frederick,,1507.815,1517.233,"--Well, but common law cases have carved out a very narrow exception where there is a relationship between the defrauded party and the entity that is injured."
+2005.04-433,0,15049,antonin_scalia,scotus_justice,1535.017,1535.779,All right.
+2005.04-433,0,20869,david_c_frederick,,1543.834,1547.766,"--Our briefs make that concession clear, I think, Justice Scalia."
+2005.04-433,0,15086,john_g_roberts_jr,scotus_justice,1549.791,1551.625,"Thank you, Mr. Frederick."
+2005.04-433,1,33971,kevin_p_roddy,,1558.979,1562.177,"Mr. Chief Justice, and may it please the Court:"
+2005.04-433,1,15084,ruth_bader_ginsburg,scotus_justice,1626.592,1636.44,Are you for relaying... relating the position of the United States... are you relying on that brief in the Bank of China case that was filed--
+2005.04-433,1,33971,kevin_p_roddy,,1636.44,1637.433,I am.
+2005.04-433,1,15084,ruth_bader_ginsburg,scotus_justice,1641.375,1651.574,--Which... which was kind of said in passing to say that there was no... that the... that the court below was right and we shouldn't take the case.
+2005.04-433,1,33971,kevin_p_roddy,,1651.574,1662.89,"--Your Honor, the... Justice Ginsburg, the Solicitor General filed its amicus brief here 5 months ago when this Court had accepted the case for review."
+2005.04-433,1,15084,ruth_bader_ginsburg,scotus_justice,1690.042,1703.302,Being... is there any other case where the defendant is charged with not paying tax either to the Federal Government or the State?
+2005.04-433,1,33971,kevin_p_roddy,,1704.556,1705.659,Yes.
+2005.04-433,1,15084,ruth_bader_ginsburg,scotus_justice,1705.659,1709.822,--you said they haven't paid tax for this... their income... Federal income tax either.
+2005.04-433,1,33971,kevin_p_roddy,,1723.773,1733.894,"Justice Ginsburg, as you correctly pointed out, Ideal's second amended complaint, which is not before this Court in this proceeding, alleged an income tax scheme."
+2005.04-433,1,15049,antonin_scalia,scotus_justice,1791.166,1794.214,"The customers, employees, and doctors, as I recall."
+2005.04-433,1,33971,kevin_p_roddy,,1794.707,1794.867,--Yes.
+2005.04-433,1,15049,antonin_scalia,scotus_justice,1794.867,1795.528,--not just customers.
+2005.04-433,1,33971,kevin_p_roddy,,1795.528,1796.171,It was.
+2005.04-433,1,15049,antonin_scalia,scotus_justice,1797.265,1804.015,So there is that kind of connection that... that your... your colleague was... was referring to.
+2005.04-433,1,33971,kevin_p_roddy,,1804.015,1804.495,--Yes.
+2005.04-433,1,15084,ruth_bader_ginsburg,scotus_justice,1845.71,1846.311,You're getting away from--
+2005.04-433,1,15049,antonin_scalia,scotus_justice,1846.311,1849.331,"But here... here, the intimidation was... was not directed to your customers."
+2005.04-433,1,33971,kevin_p_roddy,,1867.506,1870.715,"Certainly... certainly, Justice Scalia, there was."
+2005.04-433,1,15049,antonin_scalia,scotus_justice,1870.715,1872.239,What was it?
+2005.04-433,1,33971,kevin_p_roddy,,1872.239,1872.569,In a--
+2005.04-433,1,15049,antonin_scalia,scotus_justice,1872.569,1874.166,I thought they were just cheating the State.
+2005.04-433,1,33971,kevin_p_roddy,,1877.675,1880.947,--These are inappropriate financial inducements.
+2005.04-433,1,15049,antonin_scalia,scotus_justice,1884.908,1887.043,"Oh, that's... that's good, not bad."
+2005.04-433,1,15042,david_h_souter,scotus_justice,1888.167,1895.41,Isn't... isn't the problem with your answer to Justice Scalia and... and a problem which... which is bothering you with your case this?
+2005.04-433,1,33971,kevin_p_roddy,,1999.332,2008.29,"--Justice Souter, respectfully I... I disagree that the two parts of the... that the two parts of the sphere of the scheme can be broken apart like that."
+2005.04-433,1,15084,ruth_bader_ginsburg,scotus_justice,2043.896,2059.35,--Can we go back to the question that I was trying to ask you before with relation to the novelty of this because it involves fraud on the... a government that's a tax assessor and collector?
+2005.04-433,1,33971,kevin_p_roddy,,2086.404,2089.902,"Justice Ginsburg, I don't see that."
+2005.04-433,1,15084,ruth_bader_ginsburg,scotus_justice,2157.471,2159.416,But I wasn't concerned about that problem.
+2005.04-433,1,33971,kevin_p_roddy,,2177.39,2179.357,"--Not as a surrogate, Justice Ginsburg."
+2005.04-433,1,15060,john_paul_stevens,scotus_justice,2184.963,2188.012,"Of course, you are claiming a different amount of damages, entirely different."
+2005.04-433,1,33971,kevin_p_roddy,,2188.012,2188.624,Yes.
+2005.04-433,1,15060,john_paul_stevens,scotus_justice,2188.624,2192.687,But I'd like to ask you supposing there were two competitors in the market instead of just the one--
+2005.04-433,1,33971,kevin_p_roddy,,2192.687,2193.077,Right.
+2005.04-433,1,15060,john_paul_stevens,scotus_justice,2193.077,2201.06,"--and they did it just to get at... at the competitor A and didn't care about B, but B suffered exactly the same harm, would B have a cause of action?"
+2005.04-433,1,33971,kevin_p_roddy,,2201.06,2205.976,"If B could pass through the Holmes wicket of causation, Justice Stevens--"
+2005.04-433,1,15060,john_paul_stevens,scotus_justice,2205.976,2211.563,"Well, he has exactly the same causation as A, but he just didn't happen to be a target in the... in the mind of the defendant."
+2005.04-433,1,33971,kevin_p_roddy,,2211.994,2213.558,--The... the answer... the answer would be yes.
+2005.04-433,1,15060,john_paul_stevens,scotus_justice,2214.813,2216.609,--And it'd be true if there were 20 competitors too?
+2005.04-433,1,33971,kevin_p_roddy,,2216.609,2221.372,--Twenty competitors becomes a bit more difficult to get--
+2005.04-433,1,15060,john_paul_stevens,scotus_justice,2221.372,2222.175,Why?
+2005.04-433,1,33971,kevin_p_roddy,,2222.175,2223.609,--to get them all through the Holmes--
+2005.04-433,1,15060,john_paul_stevens,scotus_justice,2223.609,2227.128,"I imagine the damages would be less, but why would it be any different analytically?"
+2005.04-433,1,33971,kevin_p_roddy,,2227.128,2238.393,"--Analytically on a motion to dismiss, if there were 20, I agree that all should be... if all suffered the exact same competitive injury and the set of factors--"
+2005.04-433,1,15060,john_paul_stevens,scotus_justice,2238.393,2238.873,And then change it one other way.
+2005.04-433,1,33971,kevin_p_roddy,,2250.056,2256.847,"--Assuming that defrauding the landlord, Justice Stevens, involves predicate acts of mail and wire fraud or some other variety--"
+2005.04-433,1,15060,john_paul_stevens,scotus_justice,2256.847,2257.39,"Yes, it did."
+2005.04-433,1,33971,kevin_p_roddy,,2257.39,2258.822,--of... of predicate act--
+2005.04-433,1,15060,john_paul_stevens,scotus_justice,2258.822,2260.206,They're sending out thugs to beat them up or something like that.
+2005.04-433,1,33971,kevin_p_roddy,,2260.206,2260.617,--Yes.
+2005.04-433,1,15068,samuel_a_alito_jr,scotus_justice,2296.212,2299.091,Is there... is there any limit on the number of competitors who would have standing?
+2005.04-433,1,33971,kevin_p_roddy,,2312.171,2315.863,"Justice Alito, we... we don't have those... those facts here."
+2005.04-433,1,15068,samuel_a_alito_jr,scotus_justice,2315.863,2317.858,"Well, I know, but where would the line be drawn?"
+2005.04-433,1,33971,kevin_p_roddy,,2317.858,2331.168,"I don't think it... every... every competitor in the State of New York can sue because, as a practical matter, I... I submit to you that someone who lives in Manhattan is probably not going to go to Queens to buy their cigarettes."
+2005.04-433,1,15086,john_g_roberts_jr,scotus_justice,2332.181,2333.024,But if they're tax free they might.
+2005.04-433,1,33971,kevin_p_roddy,,2337.447,2337.758,--Yes.
+2005.04-433,1,15086,john_g_roberts_jr,scotus_justice,2337.758,2346.966,"--the fraud gives him a competitive advantage not just over the, you know... his... his brother in law's company that he's trying to get at, but over everybody who's in the business."
+2005.04-433,1,33971,kevin_p_roddy,,2346.966,2354.4,"In that factual scenario, yes."
+2005.04-433,1,15139,stephen_g_breyer,scotus_justice,2354.4,2359.623,"I mean, if that's so, then go back for a minute, please, to Justice Souter's question."
+2005.04-433,1,33971,kevin_p_roddy,,2452.805,2453.045,Yes.
+2005.04-433,1,15049,antonin_scalia,scotus_justice,2483.074,2492.805,"Mr. Roddy, I thought that the way you got out of this problem was what your opponent has called careful pleading."
+2005.04-433,1,33971,kevin_p_roddy,,2513.437,2516.626,"They say that's part of the background, Justice Scalia."
+2005.04-433,1,15049,antonin_scalia,scotus_justice,2516.626,2517.078,Okay.
+2005.04-433,1,33971,kevin_p_roddy,,2517.078,2517.809,It's not our position.
+2005.04-433,1,15049,antonin_scalia,scotus_justice,2517.809,2526.326,I thought it was part of your complaint that... that the business here was going after your client in particular.
+2005.04-433,1,33971,kevin_p_roddy,,2526.326,2527.198,"Yes, that is correct."
+2005.04-433,1,15049,antonin_scalia,scotus_justice,2527.198,2534.228,"And other competitors might have been hurt, but... but the whole purpose of it was to get your client."
+2005.04-433,1,33971,kevin_p_roddy,,2540.268,2542.043,That is... that is part of--
+2005.04-433,1,15049,antonin_scalia,scotus_justice,2542.043,2542.866,Are you abandoning it?
+2005.04-433,1,33971,kevin_p_roddy,,2542.866,2543.337,--No.
+2005.04-433,1,15049,antonin_scalia,scotus_justice,2543.337,2544.85,"I mean, if... if you're abandoning it--"
+2005.04-433,1,33971,kevin_p_roddy,,2544.85,2545.604,No.
+2005.04-433,1,15049,antonin_scalia,scotus_justice,2545.604,2546.495,--then you're... then you're in the soup--
+2005.04-433,1,33971,kevin_p_roddy,,2548.039,2548.782,Justice Scalia--
+2005.04-433,1,15049,antonin_scalia,scotus_justice,2548.782,2550.417,"--you know, all the competitors are going to be covered."
+2005.04-433,1,33971,kevin_p_roddy,,2554.068,2554.681,--The complaint--
+2005.04-433,1,15139,stephen_g_breyer,scotus_justice,2568.543,2570.79,So what does that mean?
+2005.04-433,1,33971,kevin_p_roddy,,2575.573,2581.552,"Your Honor, Justice Breyer, they raised the family feud."
+2005.04-433,1,15139,stephen_g_breyer,scotus_justice,2584.991,2585.181,"But, I mean, you see the point."
+2005.04-433,1,15049,antonin_scalia,scotus_justice,2590.878,2591.551,Right.
+2005.04-433,1,15139,stephen_g_breyer,scotus_justice,2591.551,2597.548,"--where people who are interested in making money are prepared to say, look, we want to make the money."
+2005.04-433,1,15049,antonin_scalia,scotus_justice,2611.109,2619.626,"Or, in... in other words, your... your targeted argument doesn't really make sense unless there is a family vendetta."
+2005.04-433,1,33971,kevin_p_roddy,,2622.755,2623.556,Justice--
+2005.04-433,1,15049,antonin_scalia,scotus_justice,2623.556,2630.386,--which of my competitors I'm... I'm hurting unless I have some special reason to get one... to get one... one.
+2005.04-433,1,33971,kevin_p_roddy,,2632.483,2633.748,--Justice Scalia--
+2005.04-433,1,15049,antonin_scalia,scotus_justice,2633.748,2634.339,But maybe it's not.
+2005.04-433,1,33971,kevin_p_roddy,,2634.339,2642.676,"--what is alleged in the amended complaint is that in the Burroughs of Queens and the Bronx, these are the only two competitors."
+2005.04-433,1,15049,antonin_scalia,scotus_justice,2648.552,2649.235,Okay.
+2005.04-433,1,33971,kevin_p_roddy,,2658.933,2660.648,"--Theoretically, yes."
+2005.04-433,1,15049,antonin_scalia,scotus_justice,2660.648,2661.138,Okay.
+2005.04-433,1,33971,kevin_p_roddy,,2662.775,2663.676,Theoretically.
+2005.04-433,1,15084,ruth_bader_ginsburg,scotus_justice,2695.112,2697.117,How about your client's supplier?
+2005.04-433,1,33971,kevin_p_roddy,,2710.378,2722.094,"Justice Ginsburg, I believe that when we begin talking about suppliers and creditors and bankers and employees, creditors, so to speak, they're one step removed."
+2005.04-433,1,15086,john_g_roberts_jr,scotus_justice,2750.358,2753.437,They're'... they're one more step removed.
+2005.04-433,1,33971,kevin_p_roddy,,2770.91,2773.097,Yes.
+2005.04-433,1,15086,john_g_roberts_jr,scotus_justice,2774.048,2777.95,So it doesn't depend on motive or targeting or anything at all.
+2005.04-433,1,33971,kevin_p_roddy,,2781.972,2791.792,"The lower Federal courts after Holmes have used the target concept and the intent concept to... to inform, for lack of a better word, the Holmes analysis."
+2005.04-433,1,15086,john_g_roberts_jr,scotus_justice,2851.962,2854.269,"Well, you've cited the Solicitor General's brief--"
+2005.04-433,1,33971,kevin_p_roddy,,2854.269,2854.45,Yes.
+2005.04-433,1,15086,john_g_roberts_jr,scotus_justice,2854.45,2855.555,--earlier.
+2005.04-433,1,33971,kevin_p_roddy,,2862.375,2865.836,"That... yes, the Solicitor General said that."
+2005.04-433,1,15139,stephen_g_breyer,scotus_justice,2871.17,2881.341,"--Where it would come from would be it would be an alternative way of getting to, say, Justice Souter's test, and it couldn't... I agree with you... depend upon whether these are within the realm of people who are relying."
+2005.04-433,1,33971,kevin_p_roddy,,2887.892,2888.212,Correct.
+2005.04-433,1,15139,stephen_g_breyer,scotus_justice,2888.212,2896.799,"Or suppose you have a fraud where the only party that had relied was the government, in which case you don't need them for civil RICO."
+2005.04-433,1,33971,kevin_p_roddy,,2911.161,2911.471,Right.
+2005.04-433,1,15139,stephen_g_breyer,scotus_justice,2911.471,2912.887,--to put it in what I think of as a strong form.
+2005.04-433,1,33971,kevin_p_roddy,,2912.887,2914.642,I understand.
+2005.04-433,1,15084,ruth_bader_ginsburg,scotus_justice,2941.03,2941.721,What... what is New York relying?
+2005.04-433,1,33971,kevin_p_roddy,,2964.39,2971.1,"Justice Ginsburg, I believe the law is it's either actual reliance or presumptive reliance."
+2005.04-433,1,15049,antonin_scalia,scotus_justice,3059.104,3063.246,"Gee, I... I find that extraordinary that... I claim to have been defrauded by somebody."
+2005.04-433,1,33971,kevin_p_roddy,,3076.025,3086.857,"Under securities fraud, I believe that's different because in this case it's not a... when you're dealing with competitors, you're not dealing with face to face misrepresentations."
+2005.04-433,1,15049,antonin_scalia,scotus_justice,3086.857,3094.332,"Well, I... I'm just talking about what the understood requirements of a fraud action were at common law."
+2005.04-433,1,33971,kevin_p_roddy,,3099.585,3103.719,"At common law, there was a reliance requirement."
+2005.04-433,1,15049,antonin_scalia,scotus_justice,3145.714,3155.342,Why... why do you say mail fraud does... does not have with it the normal common law fraud requirement of reliance?
+2005.04-433,1,33971,kevin_p_roddy,,3155.342,3166.115,"The case... the cases are uniform, including decisions from this Court, that a mail fraud case does not require the element of reliance."
+2005.04-433,1,15139,stephen_g_breyer,scotus_justice,3175.141,3185.572,"The place where it comes from is the idea that if, in fact, you have these monetary crimes, white collar kinds of crimes, money is at issue, and no one is hurt."
+2005.04-433,1,33971,kevin_p_roddy,,3190.608,3190.928,Yes.
+2005.04-433,1,15139,stephen_g_breyer,scotus_justice,3190.928,3191.421,--where no one is hurt.
+2005.04-433,1,33971,kevin_p_roddy,,3219.473,3224.639,"But, Justice Breyer, there has to be a place in the law for the three party scheme."
+2005.04-433,1,15139,stephen_g_breyer,scotus_justice,3224.639,3227.007,"Well, I just tried to say where... where it was."
+2005.04-433,1,33971,kevin_p_roddy,,3233.155,3233.378,Yes.
+2005.04-433,1,15139,stephen_g_breyer,scotus_justice,3233.378,3233.748,The government.
+2005.04-433,1,33971,kevin_p_roddy,,3233.748,3234.239,That's right.
+2005.04-433,1,15139,stephen_g_breyer,scotus_justice,3234.239,3236.145,So what you'd have to say is why that's good enough.
+2005.04-433,1,33971,kevin_p_roddy,,3236.145,3244.259,I think it is good enough because it is... it is a sufficient way to show causation.
+2005.04-433,1,15086,john_g_roberts_jr,scotus_justice,3263.557,3265.372,"Thank you, counsel."
+2005.04-433,2,20869,david_c_frederick,,3267.239,3276.447,I'd like to return to Justice Souter's hypothetical because I think that the point of price competition fits squarely within the Holmes case.
+2005.04-433,2,15086,john_g_roberts_jr,scotus_justice,3468.192,3469.675,"Thank you, Mr. Frederick."

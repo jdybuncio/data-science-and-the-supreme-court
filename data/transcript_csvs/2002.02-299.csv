@@ -1,0 +1,80 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2002.02-299,0,15141,william_h_rehnquist,scotus_justice,0.0,9.788,"We'll hear argument next in Number 02-299, Entergy Louisiana versus Louisiana Public Service Commission."
+2002.02-299,0,20717,david_w_carpenter,,56.659,60.319,"Mr. Chief Justice, and may it please the Court:"
+2002.02-299,0,15141,william_h_rehnquist,scotus_justice,116.825,120.396,What is... what is the source of the rule that this is the sole remedy?
+2002.02-299,0,20717,david_w_carpenter,,120.396,123.405,"--It's the sole remedy under the tariff itself, Your Honor."
+2002.02-299,0,15141,william_h_rehnquist,scotus_justice,123.405,126.222,The... so the tariff itself provides that.
+2002.02-299,0,20717,david_w_carpenter,,126.222,126.684,Yes.
+2002.02-299,0,15141,william_h_rehnquist,scotus_justice,163.339,168.313,Is... is the tariff provision meant to preclude any sort of a judicial remedy?
+2002.02-299,0,20717,david_w_carpenter,,168.313,171.489,"Yes, it would preclude a judicial remedy."
+2002.02-299,0,15049,antonin_scalia,scotus_justice,180.648,187.323,"Well, there would be a judicial remedy if they disagreed with the... with... with FERC's determination."
+2002.02-299,0,20717,david_w_carpenter,,188.799,189.38,"Oh, absolutely, Your Honor."
+2002.02-299,0,15049,antonin_scalia,scotus_justice,189.564,190.791,They just couldn't go straight to the court.
+2002.02-299,0,20717,david_w_carpenter,,190.791,191.013,--Yes.
+2002.02-299,0,15139,stephen_g_breyer,scotus_justice,242.917,243.969,Can I ask?
+2002.02-299,0,20717,david_w_carpenter,,263.591,264.611,"Well, at the time this--"
+2002.02-299,0,15139,stephen_g_breyer,scotus_justice,264.611,267.672,"I mean, if as you say it's only FERC, why didn't they just say from FERC?"
+2002.02-299,0,20717,david_w_carpenter,,267.672,274.099,"--Well, it was... it was fairly prescient because this... this language I think dates from 1953, when there was the Federal Power Commission."
+2002.02-299,0,15139,stephen_g_breyer,scotus_justice,275.351,276.132,"Oh, I see."
+2002.02-299,0,20717,david_w_carpenter,,277.564,283.412,--But the... the key thing here is that it's undisputed that the LPSC can't amend the service agreement.
+2002.02-299,0,15139,stephen_g_breyer,scotus_justice,283.412,283.517,Got you.
+2002.02-299,0,20717,david_w_carpenter,,284.439,284.925,Yes.
+2002.02-299,1,16899,austin_c_schlick,,1009.626,1018.297,"Mr. Chief Justice, and may it please the Court:"
+2002.02-299,1,15060,john_paul_stevens,scotus_justice,1072.741,1079.935,"Well, does that... is that a death sentence, so to speak, if you find that the costs are trapped and unrecoverable?"
+2002.02-299,1,16899,austin_c_schlick,,1083.609,1084.596,"That's correct, Your Honor."
+2002.02-299,1,15060,john_paul_stevens,scotus_justice,1097.213,1099.855,You're... you're not talking about costs... trapped costs generally.
+2002.02-299,1,16899,austin_c_schlick,,1102.408,1102.726,--That's right.
+2002.02-299,1,15042,david_h_souter,scotus_justice,1108.527,1116.331,"So the... the problem is that... not that the costs would be trapped, but that FERC has said it's not trapped."
+2002.02-299,1,16899,austin_c_schlick,,1122.2,1124.866,That is... I... I think that... that--
+2002.02-299,1,15042,david_h_souter,scotus_justice,1124.866,1127.18,So the real point is here FERC has said they can do it.
+2002.02-299,1,16899,austin_c_schlick,,1130.157,1131.401,--There are two points.
+2002.02-299,1,15042,david_h_souter,scotus_justice,1151.575,1151.928,"And that's a FERC question, period."
+2002.02-299,1,16899,austin_c_schlick,,1151.928,1152.07,That's right.
+2002.02-299,1,15141,william_h_rehnquist,scotus_justice,1191.074,1197.789,"Could... could this be characterized as a question of a reasonable interpretation of the tariff, or you couldn't characterize the issue that way?"
+2002.02-299,1,16899,austin_c_schlick,,1197.789,1208.258,"--There... there is a... an interpretation, an underlying question of interpretation, of the tariff, but beyond that, there's the question of whether the resulting charge was just and reasonable."
+2002.02-299,1,15049,antonin_scalia,scotus_justice,1222.756,1222.837,But--
+2002.02-299,1,16899,austin_c_schlick,,1222.837,1225.519,--and that the resulting charge was unjust and unreasonable.
+2002.02-299,1,15049,antonin_scalia,scotus_justice,1225.519,1236.044,"--But what Louisiana is saying, they... they're conceding that FERC has the authority, the exclusive authority, to prescribe what the division would be."
+2002.02-299,1,16899,austin_c_schlick,,1270.349,1280.857,"In the context of what the wholesale charge is or should be, the provision of the act is section 824d and... and 824e."
+2002.02-299,1,15049,antonin_scalia,scotus_justice,1294.835,1299.297,They're not regulating the wholesale rates is what... is the argument that will be made by the State.
+2002.02-299,1,16899,austin_c_schlick,,1309.637,1313.447,"--Justice Scalia, in fact, they were regulating the wholesale charge."
+2002.02-299,1,15049,antonin_scalia,scotus_justice,1332.352,1342.773,"I thought the Court said in Mississippi Power & Light that once FERC sets a wholesale rate, a State may not conclude in setting retail rates that the FERC-approved wholesale rates are unreasonable."
+2002.02-299,1,16899,austin_c_schlick,,1342.773,1344.911,--That... That's correct.
+2002.02-299,1,15049,antonin_scalia,scotus_justice,1345.484,1346.403,"So I guess that's the law, isn't it?"
+2002.02-299,1,16899,austin_c_schlick,,1346.403,1358.192,--the only additional step that need be taken in this... in this case is to determine whether the fact that there is a dispute as to whether or not the FERC rate schedule was violated somehow puts the case within the State's jurisdiction.
+2002.02-299,1,15139,stephen_g_breyer,scotus_justice,1360.458,1363.981,But how is that different from the State determining that a retail rate is unreasonable?
+2002.02-299,1,16899,austin_c_schlick,,1363.981,1365.472,We believe it's precisely the same.
+2002.02-299,1,15139,stephen_g_breyer,scotus_justice,1365.472,1366.972,So then there is nothing extra.
+2002.02-299,1,16899,austin_c_schlick,,1366.972,1369.449,Our... our answer to that question is there is no difference.
+2002.02-299,1,15139,stephen_g_breyer,scotus_justice,1369.449,1371.259,So I have to see what the other side would say.
+2002.02-299,1,16899,austin_c_schlick,,1371.259,1372.136,"That's correct, Justice Breyer."
+2002.02-299,1,15042,david_h_souter,scotus_justice,1372.136,1381.31,I... I take it you agree with Mr. Carpenter that the State can be heard on this issue as an intervenor who may raise the issue before FERC.
+2002.02-299,1,16899,austin_c_schlick,,1381.902,1382.635,Not just as an intervenor.
+2002.02-299,1,15042,david_h_souter,scotus_justice,1386.85,1387.71,I see.
+2002.02-299,1,16899,austin_c_schlick,,1387.71,1388.483,--to FERC.
+2002.02-299,1,15042,david_h_souter,scotus_justice,1389.576,1391.85,"In any case, it can get to FERC if it has a gripe."
+2002.02-299,1,16899,austin_c_schlick,,1391.85,1397.723,--The order 415 proceeding in 1997... that was resolved in 1997... shows exactly how this should happen.
+2002.02-299,1,15042,david_h_souter,scotus_justice,1397.86,1399.91,"No, but the answer to my question is yes, isn't it?"
+2002.02-299,1,16899,austin_c_schlick,,1399.91,1400.878,"--Oh, yes, absolutely."
+2002.02-299,1,15042,david_h_souter,scotus_justice,1400.878,1401.331,That's all I'm... that's all I'm--
+2002.02-299,1,15049,antonin_scalia,scotus_justice,1401.331,1403.88,"--Well, it seems to me it's quite a different question."
+2002.02-299,1,16899,austin_c_schlick,,1432.683,1436.594,"Justice Scalia, the order 415 proceeding shows precisely the problem with that."
+2002.02-299,1,15049,antonin_scalia,scotus_justice,1449.648,1471.967,"Must be a section of the FERC rules or regs or tariffs which says the company may... must... or must pass over to the company that has the higher number of generators a charge equal to the amount, da, da, da, that this particular thing we have before it gives the allocation for."
+2002.02-299,1,16899,austin_c_schlick,,1471.967,1475.125,"Well, the... the rate schedule has been approved--"
+2002.02-299,1,15049,antonin_scalia,scotus_justice,1475.125,1475.298,Yes.
+2002.02-299,1,16899,austin_c_schlick,,1475.298,1475.983,--by FERC and--
+2002.02-299,1,15049,antonin_scalia,scotus_justice,1475.983,1476.324,All right--
+2002.02-299,1,16899,austin_c_schlick,,1476.324,1477.081,--there's a requirement--
+2002.02-299,1,15049,antonin_scalia,scotus_justice,1477.081,1477.415,--it says that in the rate schedule.
+2002.02-299,1,16899,austin_c_schlick,,1477.415,1479.066,--and there's a requirement to the comply with rate schedule.
+2002.02-299,1,15049,antonin_scalia,scotus_justice,1479.066,1481.225,So the rate schedule of FERC says charge a rate--
+2002.02-299,1,16899,austin_c_schlick,,1481.225,1481.987,That's right.
+2002.02-299,1,15049,antonin_scalia,scotus_justice,1481.987,1483.029,--based on this allocation.
+2002.02-299,1,16899,austin_c_schlick,,1483.029,1484.112,That's right.
+2002.02-299,1,15049,antonin_scalia,scotus_justice,1484.112,1484.677,All right.
+2002.02-299,1,16899,austin_c_schlick,,1488.075,1489.99,If the Court has no further questions.
+2002.02-299,1,15049,antonin_scalia,scotus_justice,1489.99,1490.322,I... I do.
+2002.02-299,2,35844,michael_r_fontham,,1530.07,1532.243,Thank you.
+2002.02-299,2,15141,william_h_rehnquist,scotus_justice,1563.738,1566.683,"We're... we're within about 15 feet of you, Mr. Fontham."
+2002.02-299,3,20717,david_w_carpenter,,3327.616,3336.87,"Unless the Court has any further questions, I have nothing else I need to add."
+2002.02-299,3,15141,william_h_rehnquist,scotus_justice,3336.87,3338.074,"Thank you, Mr. Carpenter."

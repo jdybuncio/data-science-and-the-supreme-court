@@ -1,0 +1,259 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2002.01-1107,0,15060,john_paul_stevens,scotus_justice,0.0,4.83,We'll hear argument now in Virginia against Black.
+2002.01-1107,0,45023,william_h_hurd,,11.024,13.086,"Justice Stevens, and may it please the Court:"
+2002.01-1107,0,15092,sandra_day_oconnor,scotus_justice,60.974,75.213,"Mr. Hurd, I... there's one part of the statute that may be troublesome, and that is the prima facie evidence provision."
+2002.01-1107,0,45023,william_h_hurd,,102.5,104.691,"Justice O'Connor, I would like to comment about that."
+2002.01-1107,0,15113,anthony_m_kennedy,scotus_justice,125.413,128.589,--And the jury is instructed accordingly by the judge?
+2002.01-1107,0,45023,william_h_hurd,,128.589,130.241,The jury is not required to accept.
+2002.01-1107,0,15113,anthony_m_kennedy,scotus_justice,131.273,131.729,No.
+2002.01-1107,0,45023,william_h_hurd,,134.451,142.996,"--Where the inference is given, yes, Your Honor, it... it is so instructed, and was so instructed in... in the Black case, though not in the Elliott case."
+2002.01-1107,0,15084,ruth_bader_ginsburg,scotus_justice,142.996,146.505,Do we have the instruction that was given in the Black case?
+2002.01-1107,0,45023,william_h_hurd,,146.505,147.908,"Yes, Justice Ginsburg."
+2002.01-1107,0,15092,sandra_day_oconnor,scotus_justice,156.249,158.106,What page?
+2002.01-1107,0,45023,william_h_hurd,,159.714,161.283,"--Yes, Your Honor."
+2002.01-1107,0,15092,sandra_day_oconnor,scotus_justice,161.283,162.109,And where would that be?
+2002.01-1107,0,45023,william_h_hurd,,162.109,164.051,Instruction number 9 in the joint appendix.
+2002.01-1107,0,15092,sandra_day_oconnor,scotus_justice,173.339,178.79,"Well, maybe you... maybe you should tell us later, and proceed."
+2002.01-1107,0,45023,william_h_hurd,,178.79,180.026,On page 146.
+2002.01-1107,0,15084,ruth_bader_ginsburg,scotus_justice,189.109,195.713,"It didn't say that they... it just said the positive, that they could make such an inference."
+2002.01-1107,0,45023,william_h_hurd,,195.713,197.571,"Yes, Justice Ginsburg."
+2002.01-1107,0,15084,ruth_bader_ginsburg,scotus_justice,207.685,217.683,"In this... in the particular cases before us, what evidence, other than the burning itself, was there to show intimidation?"
+2002.01-1107,0,45023,william_h_hurd,,217.683,232.134,"What we had in the case of... of Barry Black was he heard that... he's from Pennsylvania, and he heard that down in Carroll County, blacks and whites were holding hands on the sidewalk."
+2002.01-1107,0,15113,anthony_m_kennedy,scotus_justice,254.257,266.889,"Now, was that... did that intimidate everyone who drove by in their passenger vehicle or... let's put it this way... racial minorities who drove by in their passenger vehicle?"
+2002.01-1107,0,45023,william_h_hurd,,267.882,274.819,Whether or not there was actual intimidation of minorities who drove by was not clearly established by the record.
+2002.01-1107,0,15113,anthony_m_kennedy,scotus_justice,282.993,291.371,"Yes, but surely they were in no fear of immediate violence, and our... our Brandenburg line of cases says there must be an element of immediacy--"
+2002.01-1107,0,45023,william_h_hurd,,291.371,292.652,Justice Kennedy--
+2002.01-1107,0,15113,anthony_m_kennedy,scotus_justice,292.652,296.451,--before you can punish speech by reason of its content.
+2002.01-1107,0,45023,william_h_hurd,,296.451,305.346,"--Brandenburg was an incitement case, not... not a threat case, although there was a cross-burning in Brandenburg--"
+2002.01-1107,0,15113,anthony_m_kennedy,scotus_justice,305.346,310.94,"Well, then if I... if I have a picture of a burning cross, and I... and I gave it to somebody, that's--"
+2002.01-1107,0,45023,william_h_hurd,,310.94,312.305,"--No, Your Honor."
+2002.01-1107,0,15113,anthony_m_kennedy,scotus_justice,315.377,318.803,--Isn't that because there's an immediacy element to the threat?
+2002.01-1107,0,45023,william_h_hurd,,318.803,329.51,"--Well, we believe, Your Honor, that... that if you read into the... the threat jurisprudence an immediacy element, then... two points I would make."
+2002.01-1107,0,15113,anthony_m_kennedy,scotus_justice,345.303,356.243,"Well, that... that may be... that may be a different... so... so in your view if a burning cross is just put on a hill outside of the city, everybody in the city can be deemed intimidated?"
+2002.01-1107,0,45023,william_h_hurd,,356.243,358.184,"Not necessarily, Your Honor."
+2002.01-1107,0,15113,anthony_m_kennedy,scotus_justice,369.163,374.447,Why doesn't Virginia just have a statute making it a crime to threaten bodily harm that's soon to arrive--
+2002.01-1107,0,45023,william_h_hurd,,374.447,375.069,"--Well, we--"
+2002.01-1107,0,15113,anthony_m_kennedy,scotus_justice,375.069,375.812,--burning cross or not?
+2002.01-1107,0,45023,william_h_hurd,,375.812,383.78,"--We could have such a statute, Your Honor, but the... the availability of other options does not mean the option we have chosen is unconstitutional."
+2002.01-1107,0,15113,anthony_m_kennedy,scotus_justice,383.78,391.499,Do other States have criminal statutes that have the broad-based intimidation prohibition that I've just described?
+2002.01-1107,0,45023,william_h_hurd,,391.499,394.554,"Your Honor, some... some very well may."
+2002.01-1107,0,15113,anthony_m_kennedy,scotus_justice,395.752,397.033,I have not found one.
+2002.01-1107,0,45023,william_h_hurd,,397.033,404.463,"--Respectfully, that... that event would not... would not be the test we believe established by this Court in R.A.V.--"
+2002.01-1107,0,15049,antonin_scalia,scotus_justice,429.56,432.532,I thought the key here is that this is not just speech.
+2002.01-1107,0,45023,william_h_hurd,,441.448,441.448,It is--
+2002.01-1107,0,15049,antonin_scalia,scotus_justice,441.448,450.952,"Surely... surely your State could make it unlawful to brandish... brandish an automatic weapon with the intent of... of intimidating somebody, couldn't it?"
+2002.01-1107,0,45023,william_h_hurd,,450.952,455.194,"--Justice Scalia, we... we have statutes that prohibit brandishing of firearms."
+2002.01-1107,0,15049,antonin_scalia,scotus_justice,458.416,459.159,That's your point.
+2002.01-1107,0,45023,william_h_hurd,,459.159,463.079,It is virtually... it is virtually a... a present offer of force.
+2002.01-1107,0,15113,anthony_m_kennedy,scotus_justice,505.515,512.284,"Well, just to make it clear, anytime in Virginia a burning cross is put near a highway, that is an... a criminal offense."
+2002.01-1107,0,45023,william_h_hurd,,512.284,518.768,"Your Honor, it is a criminal offense to burn a cross with intent to intimidate."
+2002.01-1107,0,15084,ruth_bader_ginsburg,scotus_justice,519.306,520.876,Even on your own property.
+2002.01-1107,0,15113,anthony_m_kennedy,scotus_justice,520.876,522.361,"No, not on your own--"
+2002.01-1107,0,45023,william_h_hurd,,522.361,524.774,--On your own property if it is a... a public place.
+2002.01-1107,0,15113,anthony_m_kennedy,scotus_justice,533.015,541.104,--And intimidate means to cause fear of violence at some unspecified time in the future--
+2002.01-1107,0,45023,william_h_hurd,,541.104,541.493,To... to--
+2002.01-1107,0,15113,anthony_m_kennedy,scotus_justice,541.493,543.25,--from some unspecified people.
+2002.01-1107,0,45023,william_h_hurd,,543.25,545.358,--To instill fear of... of bodily harm.
+2002.01-1107,0,15060,john_paul_stevens,scotus_justice,552.583,557.701,May I ask... may I ask you a question on... about instruction 9 to which you called our attention?
+2002.01-1107,0,45023,william_h_hurd,,569.961,577.641,"--Certainly the jury could, by this instruction, by the burning cross infer... infer guilt."
+2002.01-1107,0,15060,john_paul_stevens,scotus_justice,577.641,588.248,"So that in... in a case in which there was a cross burned out in the middle of a desert somewhere, and that's all that's proved, that would be enough to sustain the conviction."
+2002.01-1107,0,45023,william_h_hurd,,588.248,591.675,That would be enough to... to get you past a motion to strike.
+2002.01-1107,0,15060,john_paul_stevens,scotus_justice,592.13,598.612,"Let's say there's no... the defendant puts in no evidence, just rests on the... on... on just remains mute."
+2002.01-1107,0,45023,william_h_hurd,,601.046,604.39,"--If the instruction were given, he could be convicted."
+2002.01-1107,0,15060,john_paul_stevens,scotus_justice,609.468,610.09,I understand that.
+2002.01-1107,0,45023,william_h_hurd,,620.159,621.002,--He could not.
+2002.01-1107,0,15139,stephen_g_breyer,scotus_justice,635.929,644.186,"In the case of a desert, he's out in the desert, and he's burning the cross for symbolic purposes and nobody else is around."
+2002.01-1107,0,45023,william_h_hurd,,652.897,654.095,"Justice Breyer, absolutely."
+2002.01-1107,0,15049,antonin_scalia,scotus_justice,690.77,697.17,"Well, that... that's fine if you use the term prima facie case, which is what the statute says."
+2002.01-1107,0,45023,william_h_hurd,,715.29,719.088,"The... the... that obviously was not the only instruction given, Justice Scalia."
+2002.01-1107,0,15049,antonin_scalia,scotus_justice,719.088,719.238,I understand.
+2002.01-1107,0,45023,william_h_hurd,,719.238,724.578,There was also instructions given that... that required the prosecution to prove its case beyond a... a reasonable doubt.
+2002.01-1107,0,15049,antonin_scalia,scotus_justice,724.878,732.463,But... but then it goes on to say the burning of a cross is sufficient evidence from which you may infer the... the required intent.
+2002.01-1107,0,45023,william_h_hurd,,732.463,734.981,"--May, but... but need not necessarily."
+2002.01-1107,0,15049,antonin_scalia,scotus_justice,734.981,736.178,"Need... no, not necessarily."
+2002.01-1107,0,45023,william_h_hurd,,748.028,749.021,"Well, the... the jury--"
+2002.01-1107,0,15049,antonin_scalia,scotus_justice,749.021,752.569,It says it's sufficient evidence to find it if... if that's all you--
+2002.01-1107,0,45023,william_h_hurd,,752.569,759.711,"--And Justice Scalia, if there were a problem with that instruction, it would be in our view a... a due process problem, not a First Amendment problem."
+2002.01-1107,0,15139,stephen_g_breyer,scotus_justice,759.711,776.884,"--Well, I thought there would be a First Amendment problem in the unusual hypothetical instance of the desert, where they gave this instruction and the very thirsty jury convicted the person under this instruction."
+2002.01-1107,0,15049,antonin_scalia,scotus_justice,803.717,809.084,"In other words, every due process violation in a First Amendment case is a First Amendment violation."
+2002.01-1107,0,15139,stephen_g_breyer,scotus_justice,809.084,810.57,Not necessarily.
+2002.01-1107,0,15084,ruth_bader_ginsburg,scotus_justice,810.57,811.852,But that's quite a far--
+2002.01-1107,1,35719,michael_r_dreeben,,1092.004,1098.115,"Thank you, Justice Stevens, and may it please the Court:"
+2002.01-1107,1,15092,sandra_day_oconnor,scotus_justice,1117.145,1127.631,"Does it fall under the fighting words notion, or is it a separate category of constitutionally proscribable speech do you suppose?"
+2002.01-1107,1,35719,michael_r_dreeben,,1127.631,1137.003,"Justice O'Connor, our analysis of the intimidation element is that it's akin to a threat to put somebody in bodily harm."
+2002.01-1107,1,15084,ruth_bader_ginsburg,scotus_justice,1138.034,1149.013,"Is it... is it a defense under the statute for someone to prove that they didn't intend to threaten anyone, but just purely to express a viewpoint?"
+2002.01-1107,1,35719,michael_r_dreeben,,1149.013,1167.467,"--Apart from the presumption or prima facie case provision that Your Honor called attention to earlier, the prohibitory language of the statute does not reach cross-burning when it is done solely for the point of expressing a particular view."
+2002.01-1107,1,15084,ruth_bader_ginsburg,scotus_justice,1167.467,1174.276,And how... how do you look at the statute in light of the prima facie evidence provision?
+2002.01-1107,1,35719,michael_r_dreeben,,1174.276,1184.101,"Justice O'Connor, it raises separate issues that are distinct from whether a cross-burning statute can single out that particular activity and prohibit it on the basis of its threatening--"
+2002.01-1107,1,15084,ruth_bader_ginsburg,scotus_justice,1184.101,1188.105,"But that's part of this statute that we have to look at, isn't it?"
+2002.01-1107,1,35719,michael_r_dreeben,,1188.105,1197.105,"--It is, but the Virginia Supreme Court approached the issue by first asking whether the cross-burning provision, insofar as it targeted cross-burning--"
+2002.01-1107,1,15084,ruth_bader_ginsburg,scotus_justice,1197.105,1198.015,Yes.
+2002.01-1107,1,35719,michael_r_dreeben,,1198.015,1204.452,"--ran afoul of this Court's decision in R.A.V., and it only then turned to the prima facie case provision--"
+2002.01-1107,1,15084,ruth_bader_ginsburg,scotus_justice,1204.452,1204.618,Yes.
+2002.01-1107,1,35719,michael_r_dreeben,,1204.618,1207.424,--and concluded that it rendered the statute overbroad.
+2002.01-1107,1,15084,ruth_bader_ginsburg,scotus_justice,1223.278,1225.136,And that was the instruction given here.
+2002.01-1107,1,35719,michael_r_dreeben,,1225.136,1227.652,--That was the instruction given in one of the two cases.
+2002.01-1107,1,15084,ruth_bader_ginsburg,scotus_justice,1229.017,1229.304,Yes.
+2002.01-1107,1,35719,michael_r_dreeben,,1229.304,1238.509,"--whatsoever on the prima facie case provision, and so Elliott's case is somewhat similar... differently situated from... from the Black case."
+2002.01-1107,1,15049,antonin_scalia,scotus_justice,1282.637,1293.139,"Is it... is it unlawful in Virginia to put somebody in fear of bodily harm in some other fashion, not to burn a cross, but to say I'm going to lynch you?"
+2002.01-1107,1,35719,michael_r_dreeben,,1295.435,1311.244,"--Justice Scalia, my understanding of Virginia law is that it has a... a written threats statute which would cover any threat of any kind in writing, but it does not have a general intimidation or threat statute that would reach other means of oral expression."
+2002.01-1107,1,15049,antonin_scalia,scotus_justice,1311.244,1312.813,"It's sort of peculiar, isn't it?"
+2002.01-1107,1,35719,michael_r_dreeben,,1312.813,1329.41,"Well, what Virginia has done is take something which has historically been used as a particularly dangerous means of intimidation because it has so often been followed up by actual violence and establish a prohibition that is limited to that."
+2002.01-1107,1,15113,anthony_m_kennedy,scotus_justice,1346.91,1353.68,"Was... was there a common law of intimidation, a tort... a tort that went beyond assault?"
+2002.01-1107,1,35719,michael_r_dreeben,,1353.68,1359.586,--There is a common law of... of putting somebody in fear of bodily harm through the tort law.
+2002.01-1107,1,15113,anthony_m_kennedy,scotus_justice,1362.641,1366.911,Is there... is there an immediacy component to that as there is with assaults?
+2002.01-1107,1,35719,michael_r_dreeben,,1366.911,1371.558,"--No, there is not, Justice Kennedy, and it's crucial to underscore why that is."
+2002.01-1107,1,15100,clarence_thomas,scotus_justice,1400.165,1406.769,"Mr. Dreeben, aren't you understating the... the effects of... of the burning cross?"
+2002.01-1107,1,35719,michael_r_dreeben,,1409.703,1411.97,1952 originally.
+2002.01-1107,1,15100,clarence_thomas,scotus_justice,1411.97,1430.796,"Now, it's my understanding that we had almost 100 years of lynching and activity in the South by the Knights of Camellia and... and the Ku Klux Klan, and this was a reign of terror and the cross was a symbol of that reign of terror."
+2002.01-1107,1,35719,michael_r_dreeben,,1435.626,1439.796,"Well, I think they're coextensive, Justice Thomas, because it is--"
+2002.01-1107,1,15100,clarence_thomas,scotus_justice,1439.796,1450.199,"Well, my fear is, Mr. Dreeben, that you're actually understating the symbolism on... of and the effect of the cross, the burning cross."
+2002.01-1107,1,35719,michael_r_dreeben,,1479.177,1489.746,"--Well, I don't mean to understate it, and I entirely agree with Your Honor's description of how the cross has been used as an instrument of intimidation against minorities in this country."
+2002.01-1107,1,15100,clarence_thomas,scotus_justice,1494.121,1496.821,"Well, it's... it's actually more than minorities."
+2002.01-1107,1,15100,clarence_thomas,scotus_justice,1496.821,1499.611,There's certain groups.
+2002.01-1107,1,15100,clarence_thomas,scotus_justice,1499.611,1506.548,And I... I just... my fear is that the... there was no other purpose to the cross.
+2002.01-1107,1,35719,michael_r_dreeben,,1512.493,1513.236,--It--
+2002.01-1107,1,15100,clarence_thomas,scotus_justice,1513.236,1515.548,--and to terrorize a population.
+2002.01-1107,1,35719,michael_r_dreeben,,1515.548,1529.211,"--It absolutely was, and for that reason can be legitimately proscribed without fear that the focusing on a cross... burning of a cross with the intent to intimidate would chill protected expression."
+2002.01-1107,1,15042,david_h_souter,scotus_justice,1566.735,1578.873,"So your argument would be the same even if we assumed that the capacity of the cross to convey this message was limited to certain groups, blacks, Catholics, or whatnot."
+2002.01-1107,1,35719,michael_r_dreeben,,1578.873,1585.272,"I would, Justice Souter, and I think it's for the reason that Your Honor pointed out in his concurrence in Hill versus Colorado."
+2002.01-1107,1,15060,john_paul_stevens,scotus_justice,1598.275,1609.088,"But it seems to me from this argument, if the message is as powerful as Justice Thomas suggests it is... and I'm sure he's... he's right about that... why is it necessary to go beyond the message itself?"
+2002.01-1107,1,35719,michael_r_dreeben,,1618.831,1619.757,"Well, that would--"
+2002.01-1107,1,15060,john_paul_stevens,scotus_justice,1619.757,1621.076,Why do you need the intent?
+2002.01-1107,1,35719,michael_r_dreeben,,1621.076,1639.143,"--I think that would raise a much more difficult question because notwithstanding the fact that there is a very powerful linkage in our society such that the State is justified in singling out the cross, it may be that under certain contexts, a particular individual is attempting to express a message rather than attempting to intimidate."
+2002.01-1107,1,15049,antonin_scalia,scotus_justice,1647.893,1651.237,Surely... surely one can burn a cross in the sanctity of one's bedroom.
+2002.01-1107,2,40578,rodney_a_smolla,,1757.785,1760.673,"Justice Stevens, and may it please the Court:"
+2002.01-1107,2,15049,antonin_scalia,scotus_justice,1776.733,1781.729,What... what about the symbol of brandishing an automatic weapon in... in somebody's face?
+2002.01-1107,2,40578,rodney_a_smolla,,1781.729,1783.503,"Justice Scalia, I think--"
+2002.01-1107,2,15049,antonin_scalia,scotus_justice,1783.503,1784.413,You're next.
+2002.01-1107,2,40578,rodney_a_smolla,,1784.413,1796.135,"--I think that a core element of our argument is that there is a fundamental First Amendment difference between brandishing a cross, and brandishing a gun."
+2002.01-1107,2,15042,david_h_souter,scotus_justice,1843.446,1852.939,"But is... isn't the... isn't your argument an argument that would have been sound before the cross, in effect, acquired the history that it has?"
+2002.01-1107,2,40578,rodney_a_smolla,,1880.348,1899.545,"Justice Souter, I think that our argument is that in fact it works the reverse way, that what the cross and the burning cross have acquired as a kind of secondary meaning, somewhat akin to the way that trademarks acquire secondary meaning in intellectual property law, are a multiplicity of messages."
+2002.01-1107,2,15042,david_h_souter,scotus_justice,1912.427,1914.656,"But it... it carries something else, doesn't it?"
+2002.01-1107,2,40578,rodney_a_smolla,,1930.381,1932.239,"--No, Your Honor."
+2002.01-1107,2,15042,david_h_souter,scotus_justice,1953.953,1958.617,"But they don't make... they don't make you scared, and if you start... for your own safety."
+2002.01-1107,2,40578,rodney_a_smolla,,1971.127,1979.755,"Your Honor, the word scared is important in answering your question because it's... it's what we mean by being scared, or what we mean by being intimidated."
+2002.01-1107,2,15042,david_h_souter,scotus_justice,1988.383,1988.383,--Yes.
+2002.01-1107,2,40578,rodney_a_smolla,,1988.383,1989.869,--of being intimidated because I associate it--
+2002.01-1107,2,15042,david_h_souter,scotus_justice,1989.869,1991.167,How about a cross... how about a cross--
+2002.01-1107,2,40578,rodney_a_smolla,,1991.167,1992.841,--But that's not fear of bodily harm.
+2002.01-1107,2,15042,david_h_souter,scotus_justice,1992.841,1994.122,--How about a cross on your lawn?
+2002.01-1107,2,15049,antonin_scalia,scotus_justice,1994.122,1994.205,Yes.
+2002.01-1107,2,40578,rodney_a_smolla,,2007.125,2009.066,"Your Honor, I concede that."
+2002.01-1107,2,15049,antonin_scalia,scotus_justice,2009.604,2012.41,The whole purpose of that is... is to terrorize.
+2002.01-1107,2,40578,rodney_a_smolla,,2012.41,2024.464,"--as... as powerful as that point is... and I totally accept it, and totally accept the history that Justice Thomas has... has recounted, and that the United States recounts in its brief as accurate."
+2002.01-1107,2,15092,sandra_day_oconnor,scotus_justice,2056.748,2063.063,But why isn't this just a regulation of a particularly virulent form of intimidation?
+2002.01-1107,2,40578,rodney_a_smolla,,2066.9,2071.731,"--Your Honor, it is not a particularly virulent form of intimidation."
+2002.01-1107,2,15092,sandra_day_oconnor,scotus_justice,2071.731,2074.786,"Well, it is for the very reasons we've explored this morning."
+2002.01-1107,2,40578,rodney_a_smolla,,2078.873,2089.913,"Because, Justice O'Connor, it is also an especially virulent form of expression on ideas relating to race, religion, politics--"
+2002.01-1107,2,15113,anthony_m_kennedy,scotus_justice,2089.913,2096.312,You were... you were saying that the State can go... doesn't have to have a sterile law on intimidation.
+2002.01-1107,2,40578,rodney_a_smolla,,2099.284,2099.738,--Justice--
+2002.01-1107,2,15113,anthony_m_kennedy,scotus_justice,2099.738,2100.481,--What is this midpoint?
+2002.01-1107,2,40578,rodney_a_smolla,,2100.481,2110.391,"--Justice Kennedy, it is the Wisconsin versus Mitchell bias enhancement-style model where the interest of the State goes beyond just preventing physical crime."
+2002.01-1107,2,15113,anthony_m_kennedy,scotus_justice,2124.691,2128.983,"Well, that was in conjunction with an actual physical assault."
+2002.01-1107,2,40578,rodney_a_smolla,,2128.983,2145.951,"--But... but, Your Honor, in any instance in which the State were operating upon some conduct that it is constitutionally permissible to proscribe, such as a threat, the State could then enhance the penalty."
+2002.01-1107,2,15113,anthony_m_kennedy,scotus_justice,2152.639,2162.753,"Suppose... suppose if you threaten by use of a cross... burning cross, would that be a specific statutory category that allows the penalty be... to be enhanced?"
+2002.01-1107,2,40578,rodney_a_smolla,,2162.753,2164.693,"--Yes, Your Honor, and even more--"
+2002.01-1107,2,15113,anthony_m_kennedy,scotus_justice,2164.693,2173.155,"Well, how can you have a statutory category which enhances the penalty that you can't also use to... to describe the underlying offense?"
+2002.01-1107,2,40578,rodney_a_smolla,,2173.155,2186.818,"--The... the answer to that question, Justice Kennedy, lies in Wisconsin versus Mitchell where this Court held that the mere evidentiary use of speech to prove intent does not implicate the First Amendment."
+2002.01-1107,2,15060,john_paul_stevens,scotus_justice,2191.443,2192.436,"Well, let me ask you this."
+2002.01-1107,2,40578,rodney_a_smolla,,2207.213,2209.647,"--It would not be permissible, Your Honor, and the reason it--"
+2002.01-1107,2,15060,john_paul_stevens,scotus_justice,2209.647,2210.269,And... and it's--
+2002.01-1107,2,40578,rodney_a_smolla,,2210.269,2214.106,--would not be permissible is the cross has acquired this meaning as an ideological symbol.
+2002.01-1107,2,15060,john_paul_stevens,scotus_justice,2214.106,2221.043,--Because it's content-based discrimination within the category of activity that can be entirely proscribed.
+2002.01-1107,2,40578,rodney_a_smolla,,2221.043,2222.036,That is precisely our argument.
+2002.01-1107,2,15060,john_paul_stevens,scotus_justice,2222.036,2226.782,"Now, is there any support for that proposition other than the majority opinion in R.A.V.?"
+2002.01-1107,2,40578,rodney_a_smolla,,2226.782,2243.584,"Your Honor, R.A.V. is the only case that dealt squarely with this puzzle of what happens when you're dealing with a category of speech that you have the right to proscribe, and then you draw gratuitous content or viewpoint-based distinctions within it."
+2002.01-1107,2,15049,antonin_scalia,scotus_justice,2260.136,2261.994,What was involved in R.A.V.?
+2002.01-1107,2,40578,rodney_a_smolla,,2266.275,2270.816,"Well, the... the fact pattern in R.A.V. was identical to one of the fact patterns here."
+2002.01-1107,2,15049,antonin_scalia,scotus_justice,2274.614,2274.798,Yes--
+2002.01-1107,2,40578,rodney_a_smolla,,2274.798,2276.367,"--and burning a cross in the middle of the night, Your Honor."
+2002.01-1107,2,15049,antonin_scalia,scotus_justice,2276.367,2283.88,"--Yes, but what was made a crime was the burning it with a particular motivation, wasn't it?"
+2002.01-1107,2,40578,rodney_a_smolla,,2283.88,2284.912,The... the--
+2002.01-1107,2,15049,antonin_scalia,scotus_justice,2284.912,2286.11,It wasn't the mere act.
+2002.01-1107,2,40578,rodney_a_smolla,,2286.11,2319.175,"--And... and at the core of our argument, Justice Scalia, is the claim that the concept of viewpoint discrimination is, and ought to be broad enough to encompass not only viewpoint discrimination articulated linguistically, the way that it was done in the statute in R.A.V., but also viewpoint discrimination through the singling out of a symbol because symbols acquire meaning in precisely the same way that words acquire meaning."
+2002.01-1107,2,15139,stephen_g_breyer,scotus_justice,2319.175,2321.487,But words... words are even more.
+2002.01-1107,2,40578,rodney_a_smolla,,2324.459,2324.709,"It does, Justice Breyer."
+2002.01-1107,2,15139,stephen_g_breyer,scotus_justice,2324.709,2347.122,"I guess you could have statutes, if the need were great, that forbid you from using certain words with a certain intent like, for example, impersonating somebody or... or counterfeiting, or... I mean, if... I've never heard of a case which said you couldn't have a statute that in... if the circumstances were right, forbid a person to use certain words."
+2002.01-1107,2,40578,rodney_a_smolla,,2347.122,2351.087,"Justice Breyer, the... the First Amendment speaks to this, and... and it's--"
+2002.01-1107,2,15139,stephen_g_breyer,scotus_justice,2351.087,2352.034,You can't have that?
+2002.01-1107,2,40578,rodney_a_smolla,,2353.853,2354.801,--In fact--
+2002.01-1107,2,15139,stephen_g_breyer,scotus_justice,2354.801,2360.828,"--you cannot say I am the President with the intent to confuse people that I'm the President, I mean, that would be unconstitutional."
+2002.01-1107,2,40578,rodney_a_smolla,,2360.828,2366.734,"--The... the normal... the normal legislative process, Justice Breyer, is not to name the words, not to put in the statute if you utter these--"
+2002.01-1107,2,15139,stephen_g_breyer,scotus_justice,2366.734,2367.887,I know that's not normal.
+2002.01-1107,2,40578,rodney_a_smolla,,2368.713,2375.212,"--but to describe... but to describe the conduct that you are attempting to get at, and then various combinations of words may fit into it."
+2002.01-1107,2,15139,stephen_g_breyer,scotus_justice,2381.422,2385.865,--It is a crime to impersonate the Great Seal of the United States--
+2002.01-1107,2,40578,rodney_a_smolla,,2385.865,2386.358,The--
+2002.01-1107,2,15139,stephen_g_breyer,scotus_justice,2386.358,2388.194,--for purposes of obtaining money.
+2002.01-1107,2,40578,rodney_a_smolla,,2390.218,2393.561,"--But... but the... but the... it could, Your Honor, in... in an appropriate circumstance."
+2002.01-1107,2,15049,antonin_scalia,scotus_justice,2393.644,2399.671,"In other words, all it... all it... all you're saying is that heightened scrutiny applies."
+2002.01-1107,2,40578,rodney_a_smolla,,2399.671,2401.036,"--We are certainly saying that, and--"
+2002.01-1107,2,15049,antonin_scalia,scotus_justice,2401.036,2402.272,That's all you're saying.
+2002.01-1107,2,40578,rodney_a_smolla,,2406.896,2408.06,--We... we say that--
+2002.01-1107,2,15049,antonin_scalia,scotus_justice,2408.06,2422.632,"And so the question before us is whether burning a cross is such a terrorizing symbol in American... in American culture that even on the basis of heightened scrutiny, it's okay to proscribe it."
+2002.01-1107,2,40578,rodney_a_smolla,,2423.004,2425.566,--That is a... that is a fair characterization of the question.
+2002.01-1107,2,15092,sandra_day_oconnor,scotus_justice,2436.257,2437.183,"--Well, why shouldn't we apply--"
+2002.01-1107,2,40578,rodney_a_smolla,,2437.183,2437.455,--this Court's been hostile to viewpoint--
+2002.01-1107,2,15092,sandra_day_oconnor,scotus_justice,2437.455,2439.108,--the O'Brien test?
+2002.01-1107,2,40578,rodney_a_smolla,,2442.042,2454.34,"--Your Honor, whether you apply O'Brien or strict scrutiny, it's our submission we win because when you get to the point at which you look at alternatives, there are content-neutral alternatives that work perfectly as well."
+2002.01-1107,2,15139,stephen_g_breyer,scotus_justice,2490.006,2505.033,"So I would think then that if the test suggests that you cannot have a statute which says you cannot use the words, I'll kill you, with an intent to kill somebody or threaten him, then there's something wrong with the test, not that there's something wrong with the statute."
+2002.01-1107,2,40578,rodney_a_smolla,,2505.033,2510.4,"--Your Honor, take the... take the words... take the words, if you do that again, I swear I'll kill you."
+2002.01-1107,2,15139,stephen_g_breyer,scotus_justice,2517.105,2517.105,"--Correct, they might."
+2002.01-1107,2,40578,rodney_a_smolla,,2517.105,2518.386,It might be something a teacher--
+2002.01-1107,2,15139,stephen_g_breyer,scotus_justice,2518.386,2518.924,So what we put in the--
+2002.01-1107,2,40578,rodney_a_smolla,,2518.924,2521.153,"--says to a student, or might be a true objective threat."
+2002.01-1107,2,15139,stephen_g_breyer,scotus_justice,2530.153,2531.518,--fails to do that.
+2002.01-1107,2,15049,antonin_scalia,scotus_justice,2531.518,2532.799,If it's intended to be--
+2002.01-1107,2,40578,rodney_a_smolla,,2534.202,2534.945,"Pardon me, Your Honor?"
+2002.01-1107,2,15049,antonin_scalia,scotus_justice,2534.945,2538.083,"You're saying if it's intended to be a threat, it can proscribed."
+2002.01-1107,2,40578,rodney_a_smolla,,2538.083,2542.004,"If it meets the Watts true threats test, it... it is permissible."
+2002.01-1107,2,15084,ruth_bader_ginsburg,scotus_justice,2554.43,2555.052,Mr.... Mr. Smolla--
+2002.01-1107,2,40578,rodney_a_smolla,,2555.052,2555.878,--perfectly sufficient--
+2002.01-1107,2,15084,ruth_bader_ginsburg,scotus_justice,2555.878,2565.083,"--on the question of perfectly sufficient laws, we have in the appendix to the United States brief several laws."
+2002.01-1107,2,40578,rodney_a_smolla,,2572.142,2573.711,"--Yes, Justice Ginsburg."
+2002.01-1107,2,15092,sandra_day_oconnor,scotus_justice,2616.536,2617.612,But this statute--
+2002.01-1107,2,40578,rodney_a_smolla,,2617.612,2618.56,--you burn a cross at your peril.
+2002.01-1107,2,15092,sandra_day_oconnor,scotus_justice,2618.56,2623.351,--this statute incorporates the intent to intimidate feature.
+2002.01-1107,2,40578,rodney_a_smolla,,2623.351,2633.049,"That is true, Justice O'Connor, but even if it does, the learning of R.A.V., we'd submit, is that that alone does not rest in the statute."
+2002.01-1107,2,15092,sandra_day_oconnor,scotus_justice,2633.049,2633.754,"Well, this--"
+2002.01-1107,2,40578,rodney_a_smolla,,2633.754,2633.92,A law can't be half constitutional.
+2002.01-1107,2,15092,sandra_day_oconnor,scotus_justice,2633.92,2642.649,--this seems to fall within the first exception mentioned in R.A.V.. This does address conduct and with a certain intent.
+2002.01-1107,2,40578,rodney_a_smolla,,2646.84,2672.93,"Your Honor, it's our submission that in fact the two cases are identical, and the reason they don't seem identical perhaps is that it is harder... it is harder... to locate the viewpoint and content discrimination in our minds when we think of the burning cross than when we think of the language of R.A.V., which talked about anger or resentment on the basis of race, color, creed."
+2002.01-1107,2,15139,stephen_g_breyer,scotus_justice,2712.477,2716.36,"Well, I guess what... you have a very interesting point."
+2002.01-1107,2,40578,rodney_a_smolla,,2740.137,2740.303,--That's correct.
+2002.01-1107,2,15139,stephen_g_breyer,scotus_justice,2740.303,2749.508,"So just as it doesn't protect the words, I will kill you, but protects them when used in a play, but not when used as a threat--"
+2002.01-1107,2,40578,rodney_a_smolla,,2749.508,2750.251,That is correct.
+2002.01-1107,2,15139,stephen_g_breyer,scotus_justice,2750.251,2756.362,--so it doesn't protect the burning of the cross when used as a threat--
+2002.01-1107,2,40578,rodney_a_smolla,,2756.362,2756.445,That is correct.
+2002.01-1107,2,15139,stephen_g_breyer,scotus_justice,2756.445,2758.098,--and not as a symbol.
+2002.01-1107,2,40578,rodney_a_smolla,,2758.098,2758.431,That is... that--
+2002.01-1107,2,15139,stephen_g_breyer,scotus_justice,2758.431,2764.208,"And now we have a statute that says you can use it as a symbol, but you can't use it as a threat."
+2002.01-1107,2,40578,rodney_a_smolla,,2767.552,2767.552,--And... and--
+2002.01-1107,2,15139,stephen_g_breyer,scotus_justice,2767.552,2771.267,"Now, if that's the right analysis, then what's your response?"
+2002.01-1107,2,40578,rodney_a_smolla,,2771.267,2783.239,"--Your Honor, that... that everything you said up until the very end--"
+2002.01-1107,2,15049,antonin_scalia,scotus_justice,2841.323,2852.014,"No, it isn't, so long as the Klan doesn't do it in... in sight of a public highway, or on somebody else's property, there's not a chance that this statute would apply to them."
+2002.01-1107,2,40578,rodney_a_smolla,,2852.014,2852.879,"Your Honor, but the--"
+2002.01-1107,2,15049,antonin_scalia,scotus_justice,2852.879,2854.737,They have to do in sight of a public highway?
+2002.01-1107,2,40578,rodney_a_smolla,,2854.737,2858.823,--The... the... all the statute requires is that it be visible to others.
+2002.01-1107,2,15139,stephen_g_breyer,scotus_justice,2895.127,2901.071,I want you just to address... but it's hard for you because you have clients with different interests here perhaps.
+2002.01-1107,2,40578,rodney_a_smolla,,2946.988,2948.337,"And I accept that, Your Honor."
+2002.01-1107,2,15139,stephen_g_breyer,scotus_justice,2948.337,2957.169,"--if all that's true, then I guess that the... the prima facie presumption here is no different."
+2002.01-1107,2,40578,rodney_a_smolla,,2966.291,2976.322,"There's a world of difference, Your Honor, and the difference is that the words, I will kill you, are words of threat that have no additional emanations."
+2002.01-1107,2,15084,ruth_bader_ginsburg,scotus_justice,3042.125,3042.951,--Mr. Smolla--
+2002.01-1107,2,40578,rodney_a_smolla,,3042.951,3043.778,--what the person is trying to do.
+2002.01-1107,2,15084,ruth_bader_ginsburg,scotus_justice,3043.778,3048.812,"--there's a huge difference between a flag and a burning cross, and it's been pointed out in the briefs."
+2002.01-1107,2,15084,ruth_bader_ginsburg,scotus_justice,3058.843,3060.967,It's the symbol of government.
+2002.01-1107,2,15084,ruth_bader_ginsburg,scotus_justice,3060.967,3065.037,But the cross is not attacking the government.
+2002.01-1107,2,40578,rodney_a_smolla,,3085.237,3089.474,"Justice Ginsburg, I only partially accept that... that dichotomy."
+2002.01-1107,2,15060,john_paul_stevens,scotus_justice,3140.166,3149.25,"Mr. Smolla, I would... I would like to take exception to your suggestion in response to Justice Breyer that the words, I will kill you, always have a threatening meaning."
+2002.01-1107,2,40578,rodney_a_smolla,,3149.25,3149.705,"--They may not, Justice Stevens."
+2002.01-1107,2,15060,john_paul_stevens,scotus_justice,3149.705,3154.451,I think they're often used in casual conversation without any such threatening meaning at all.
+2002.01-1107,2,40578,rodney_a_smolla,,3154.451,3156.559,"Justice Stevens, I accept that."
+2002.01-1107,2,15139,stephen_g_breyer,scotus_justice,3187.206,3210.695,"Your argument is not the same with... I mean, it's an... your argument, I take it, is that if you actually have a statute that criminalizes the use of particular words, or... or the burning of a... of a symbol, even if you qualify that by saying you... it's criminal to use them for certain purposes, you've monopolized those words because people who are using them from different purposes will be afraid to use them."
+2002.01-1107,2,40578,rodney_a_smolla,,3210.695,3211.605,--And chilled--
+2002.01-1107,2,15139,stephen_g_breyer,scotus_justice,3211.605,3215.692,And then they can't express what they want even though that expression is not to hurt someone.
+2002.01-1107,2,40578,rodney_a_smolla,,3215.692,3217.55,"--And not merely monopolize, Justice Breyer, but--"
+2002.01-1107,2,15139,stephen_g_breyer,scotus_justice,3217.55,3217.716,"That's right, yes."
+2002.01-1107,2,40578,rodney_a_smolla,,3217.716,3222.424,--But chilled the use of that combination of words or chilled the use of that symbol--
+2002.01-1107,3,45023,william_h_hurd,,3576.1,3577.753,Very briefly.
+2002.01-1107,3,15060,john_paul_stevens,scotus_justice,3691.575,3692.924,"Thank you, Mr. Hurd."

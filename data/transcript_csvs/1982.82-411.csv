@@ -1,0 +1,58 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1982.82-411,0,15073,warren_e_burger,scotus_justice,0.0,7.854,We'll hear arguments next in Newport News Shipbuilding against the Equal Employment Opportunity Commission.
+1982.82-411,0,16354,andrew_m_kramer,,49.805,52.355,"Mr. Chief Justice, and may it please the Court:"
+1982.82-411,0,15092,sandra_day_oconnor,scotus_justice,333.132,334.162,Mr. Kramer--
+1982.82-411,0,16354,andrew_m_kramer,,334.162,335.334,"Yes, Justice O'Connor."
+1982.82-411,0,15092,sandra_day_oconnor,scotus_justice,335.334,345.362,"--On your argument you're asking us to... to look back at the provisions of Title VII, basically, to see the answer to this inquiry."
+1982.82-411,0,16354,andrew_m_kramer,,362.573,365.353,"Well, I think that would be--"
+1982.82-411,0,15092,sandra_day_oconnor,scotus_justice,365.353,367.352,Is that a Title VII violation?
+1982.82-411,0,16354,andrew_m_kramer,,367.352,370.194,"--I think that's a Title VII sex discrimination claim, Your Honor."
+1982.82-411,0,15092,sandra_day_oconnor,scotus_justice,377.192,381.033,"Well, if that's so, then how does this case differ?"
+1982.82-411,0,16354,andrew_m_kramer,,386.968,402.025,"--Because the Government says that on its face, Your Honor, in this case we are required to provide, even where we provide spousal benefits to the spouses of males... males and females, that we have an additional affirmative obligation."
+1982.82-411,0,15045,harry_a_blackmun,scotus_justice,756.428,761.879,Does that mean that job applicants are not covered?
+1982.82-411,0,16354,andrew_m_kramer,,761.879,765.847,"Under that reading it would be, Your Honor."
+1982.82-411,0,15045,harry_a_blackmun,scotus_justice,765.847,767.377,Is that your... is that your reading?
+1982.82-411,0,16354,andrew_m_kramer,,767.377,768.08,"It's not our position, no."
+1982.82-411,0,15045,harry_a_blackmun,scotus_justice,776.544,784.291,I thought your emphatic reliance on this meant women employees only and not applicants.
+1982.82-411,0,16354,andrew_m_kramer,,784.291,789.57,"Well, our emphatic reliance is because I think it's a pretty direct quote on the issue."
+1982.82-411,0,15060,john_paul_stevens,scotus_justice,960.112,961.923,"Mr. Kramer, may I interrupt you with one question?"
+1982.82-411,0,16354,andrew_m_kramer,,961.923,962.735,"Yes, Justice Stevens."
+1982.82-411,0,15060,john_paul_stevens,scotus_justice,962.735,979.008,"In view of the legislative history of the Pregnancy Disability Act, to what extent is it proper... and I'm not sure one way or another on this... but to what extent do you think it's proper to rely on the Gilbert case as authority, because they expressly said they thought Gilbert had misread the statute."
+1982.82-411,0,16354,andrew_m_kramer,,979.008,1000.595,"To me, Your Honor, I think it's proper to read Gilbert from the standpoint of saying that there is still a burden... that pregnancy per se with respect to dependents we're talking about, is not a per se classification, and that there must be a showing that in fact discrimination occurred."
+1982.82-411,0,15060,john_paul_stevens,scotus_justice,1028.068,1036.595,"Well, to the extent that there's a conflict between Justice Brennan's opinion and Justice Rehnquist's in Gilbert, which should we follow in this case?"
+1982.82-411,0,16354,andrew_m_kramer,,1036.595,1051.856,"Well, I would say Justice Rehnquist, because it seems to me the portions of Justice Brennan's opinion which were followed, just as your dissent in Gilbert was followed, was followed for the policy reason that working women were the ones being disadvantaged."
+1982.82-411,0,15060,john_paul_stevens,scotus_justice,1079.999,1090.979,"Well... well, I understand... I understand... I understand the argument, but it presents a very interesting problem of statutory interpretation where you have Congress... we have a decided case interpreting Title VII, and Congress said they disagreed with it."
+1982.82-411,0,16354,andrew_m_kramer,,1094.461,1095.725,"I think, Your Honor--"
+1982.82-411,0,15060,john_paul_stevens,scotus_justice,1095.725,1096.178,--And unusual problem.
+1982.82-411,0,16354,andrew_m_kramer,,1096.178,1097.148,"--Yes, it is."
+1982.82-411,0,15073,warren_e_burger,scotus_justice,1413.505,1422.517,Mrs. Shapiro.
+1982.82-411,1,28176,harriet_s_shapiro,,1422.517,1426.813,"Mr. Chief Justice, and may it please the Court:"
+1982.82-411,1,15092,sandra_day_oconnor,scotus_justice,1505.53,1512.403,So even without the Pregnancy Disability Act you take the position that it's covered under Title VII?
+1982.82-411,1,28176,harriet_s_shapiro,,1512.403,1525.537,"--Well, only if the discrimination based on sex is discrimination based on... I mean discrimination based on pregnancy is discrimination based on sex."
+1982.82-411,1,15060,john_paul_stevens,scotus_justice,1920.658,1922.69,If that was the... if that was... excuse me for interrupting you.
+1982.82-411,1,28176,harriet_s_shapiro,,1930.732,1939.433,"Well, they... they... I certainly don't contend they spoke with absolute clarity."
+1982.82-411,1,15060,john_paul_stevens,scotus_justice,1978.12,1980.277,Rather than existing today when we're speaking.
+1982.82-411,1,28176,harriet_s_shapiro,,1980.277,1980.994,That's right.
+1982.82-411,1,15073,warren_e_burger,scotus_justice,2445.856,2449.62,"Do you have anything further, Mr. Kramer?"
+1982.82-411,2,16354,andrew_m_kramer,,2449.62,2450.573,"Just a few points, Your Honor."
+1982.82-411,2,15060,john_paul_stevens,scotus_justice,2471.251,2472.97,"Mr. Kramer, this argument puzzles me."
+1982.82-411,2,16354,andrew_m_kramer,,2478.484,2479.297,"Well, first of all--"
+1982.82-411,2,15060,john_paul_stevens,scotus_justice,2479.297,2482.045,Because they know... you know what... your client knows what it's doing.
+1982.82-411,2,16354,andrew_m_kramer,,2482.045,2490.667,"--Our client knows what it's doing, but as said in cases like Pullman v. Swint, there has to be motive or proof."
+1982.82-411,2,15060,john_paul_stevens,scotus_justice,2500.211,2503.74,"Well, the statute wouldn't have prohibited you from... from changing both sides of the plan."
+1982.82-411,2,16354,andrew_m_kramer,,2503.74,2504.115,--No.
+1982.82-411,2,15060,john_paul_stevens,scotus_justice,2505.099,2506.521,And you know exactly what you did.
+1982.82-411,2,16354,andrew_m_kramer,,2511.674,2519.326,"--Going to the question, though, you raised both of myself and counsel for the Government about essentially the impact of Gilbert, I would just like to leave one point."
+1982.82-411,2,15071,byron_r_white,scotus_justice,2556.873,2566.714,"Well, I take it your argument is that... that the... discrimination has to be against an employee on account of his or her sex."
+1982.82-411,2,16354,andrew_m_kramer,,2566.714,2568.167,"That's right, Your Honor."
+1982.82-411,2,15071,byron_r_white,scotus_justice,2568.167,2572.962,Not on the sex of somebody who... for whom he or she is responsible.
+1982.82-411,2,16354,andrew_m_kramer,,2572.962,2573.649,That's right.
+1982.82-411,2,15071,byron_r_white,scotus_justice,2584.003,2598.169,"But even if this isn't discrimination against the employee based on his or her sex, based on his sex, it is a discrimination based on sex."
+1982.82-411,2,16354,andrew_m_kramer,,2598.169,2600.528,"Not to me, Your Honor, and I guess that's--"
+1982.82-411,2,15071,byron_r_white,scotus_justice,2600.528,2600.763,Well--
+1982.82-411,2,16354,andrew_m_kramer,,2600.763,2601.824,--That's... that's our problem.
+1982.82-411,2,15071,byron_r_white,scotus_justice,2601.824,2605.432,"--I know, but that's a... that's... that would be still another argument."
+1982.82-411,2,16354,andrew_m_kramer,,2605.432,2605.963,Yes.
+1982.82-411,2,15092,sandra_day_oconnor,scotus_justice,2710.671,2726.711,"Well, certainly the language in the Senate report that says it's intended to treat pregnancy, discrimination on account of pregnancy like any other discrimination on account of sex goes against you."
+1982.82-411,2,16354,andrew_m_kramer,,2726.711,2736.333,"--It goes against us if it was looked in isolation, I would submit, Justice O'Connor, to the purposes behind that particular statute."
+1982.82-411,2,15073,warren_e_burger,scotus_justice,2799.884,2802.025,"Thank you, counsel."

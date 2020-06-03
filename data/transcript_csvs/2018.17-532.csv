@@ -1,0 +1,237 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2018.17-532,0,15086,john_g_roberts_jr,scotus_justice,0.0,8.52,"We'll hear argument first this morning in Case 17-532, Herrera versus Wyoming. Mr. Hicks."
+2018.17-532,0,63070,george_w_hicks_jr_,,8.52,22.24,"Thank you, Mr. Chief Justice, and may it please the Court: In 1868, the Crow Tribe of Indians agreed to cede to the United States 30 million acres of its aboriginal land and move to a reservation."
+2018.17-532,0,62836,neil_gorsuch,scotus_justice,108.72,108.92,But --
+2018.17-532,0,63070,george_w_hicks_jr_,,108.92,109.88,-- to its belief that states --
+2018.17-532,0,15068,samuel_a_alito_jr,scotus_justice,109.88,128.96,"Even if you were right about Race Horse, why isn't your client bound by the judgment of the Tenth Circuit in Repsis and, in particular, its disposition of the question whether the land is occupied?"
+2018.17-532,0,63070,george_w_hicks_jr_,,128.96,141.6,"Justice Alito, a few responses for that. First of all, the -- the issue of whether the Tenth Circuit's alternative determination has preclusive effect was not pressed or passed on below."
+2018.17-532,0,15068,samuel_a_alito_jr,scotus_justice,154.72,160.64,So that -- that would be available to the state to argue on remand if you were to prevail on the other issues?
+2018.17-532,0,63070,george_w_hicks_jr_,,160.64,170.28,"Well, I think that the -- the state has likely forfeited that as a matter of state law, but I also think that there are other reasons why an exception to preclusion would not apply."
+2018.17-532,0,15068,samuel_a_alito_jr,scotus_justice,170.8,172.56,What's your best reason?
+2018.17-532,0,63070,george_w_hicks_jr_,,172.56,181.64,"Primarily, it's that the tribe did not have a full and fair opportunity to litigate this issue in Repsis because it was not raised in the Repsis district court."
+2018.17-532,0,15068,samuel_a_alito_jr,scotus_justice,192.8,194.4,"Well, those are several reasons."
+2018.17-532,0,63070,george_w_hicks_jr_,,199.6,208.08,"Well, I think that there was not the full and fair opportunity to litigate that question that this Court requires before it gives preclusive effect."
+2018.17-532,0,15068,samuel_a_alito_jr,scotus_justice,208.08,213.8,Why -- why not? Why not in the Tenth Circuit? Why didn't they have a fair and -- a full and fair opportunity in the Tenth Circuit?
+2018.17-532,0,63070,george_w_hicks_jr_,,213.8,215.16,"Well, to begin with, I don't know if the full --"
+2018.17-532,0,15068,samuel_a_alito_jr,scotus_justice,215.16,221.0,They didn't allow briefs? They didn't allow arguments? They didn't want to listen to anything that -- that the tribe had to say?
+2018.17-532,0,63070,george_w_hicks_jr_,,221.0,254.56,"Well, primarily because this particular argument, that the creation of the national forest in and of itself rendered the entire land occupied so that the treaty right was terminated, was, I believe, one page of Wyoming's response brief in -- on an issue that was never raised in the district court. And so the only thing that the tribe had to respond to that was limited space in a reply brief where it had to respond to all of the other arguments that Wyoming had made, principally on the issue that the district court had actually addressed."
+2018.17-532,0,15131,sonia_sotomayor,scotus_justice,254.56,254.92,Could you --
+2018.17-532,0,15094,elena_kagan,scotus_justice,254.92,260.08,"Mr. Hicks, are -- are you asking us to decide that issue, or are you asking us to remand on that issue?"
+2018.17-532,0,63070,george_w_hicks_jr_,,260.08,280.72,"I think there are several reasons why you can decide that there was no preclusive effect to the Tenth Circuit's determination, among them, that it was forfeited; among them, that it was not a full and fair opportunity so that it qualifies for that exception, but also that that particular determination in the first instance was not subject to the plenary appellate review this Court requires."
+2018.17-532,0,15094,elena_kagan,scotus_justice,280.72,294.76,"If -- if -- if your primary argument is that it was forfeited, and I think you -- you have some good grounds for thinking that, but given that that is a state law matter, why wouldn't we remand to the Wyoming courts to decide that forfeiture question?"
+2018.17-532,0,63070,george_w_hicks_jr_,,294.76,304.96,"Well, because I think typically what this Court does when a -- an issue has not been raised or pressed on below is it -- is it doesn't allow the consideration of it here."
+2018.17-532,0,15131,sonia_sotomayor,scotus_justice,319.8,321.36,I'm a little confused.
+2018.17-532,0,63070,george_w_hicks_jr_,,334.68,340.0,"That -- it is that the tribe did not have the required full and fair opportunity, among the reasons, in the Tenth Circuit."
+2018.17-532,0,15131,sonia_sotomayor,scotus_justice,340.0,340.2,All right.
+2018.17-532,0,63070,george_w_hicks_jr_,,344.52,345.28,"No, they did not, Your Honor."
+2018.17-532,0,15131,sonia_sotomayor,scotus_justice,345.28,345.48,Oh.
+2018.17-532,0,63070,george_w_hicks_jr_,,345.48,346.76,There was no further briefing in --
+2018.17-532,0,15131,sonia_sotomayor,scotus_justice,346.76,347.0,In the --
+2018.17-532,0,63070,george_w_hicks_jr_,,347.0,348.96,You're thinking of the decision below --
+2018.17-532,0,15131,sonia_sotomayor,scotus_justice,348.96,349.88,Right.
+2018.17-532,0,63070,george_w_hicks_jr_,,349.88,354.32,-- and the Wyoming state courts asked for supplemental briefing on whether there was issue preclusion.
+2018.17-532,0,15131,sonia_sotomayor,scotus_justice,354.32,354.48,"Oh, okay."
+2018.17-532,0,63070,george_w_hicks_jr_,,354.48,365.08,"And in response, the State of Wyoming in this case did not ever raise this as a ground for why there should be preclusive effect given to anything in the Repsis litigation."
+2018.17-532,0,15068,samuel_a_alito_jr,scotus_justice,365.08,373.0,"Well, I'll tell you what troubles me about your position here and your argument that we should decide these issue preclusion questions."
+2018.17-532,0,63070,george_w_hicks_jr_,,390.72,397.88,"Well, Justice Alito, I think those are actually good reasons to find that there are -- you can apply the well-established exceptions."
+2018.17-532,0,15068,samuel_a_alito_jr,scotus_justice,399.2,401.88,"Well, I don't know that they are well -- I don't know that they are well established."
+2018.17-532,0,63070,george_w_hicks_jr_,,412.68,414.4,"No, Your -- Your Honor, that is incorrect."
+2018.17-532,0,15068,samuel_a_alito_jr,scotus_justice,421.56,423.68,"Well, we haven't accepted it, have we?"
+2018.17-532,0,63070,george_w_hicks_jr_,,423.68,435.12,"No, this Court has not addressed it, but it actually goes part and parcel with what this Court has said about the -- the critical importance of giving plenary -- plenary appellate review to determinations. That is the premise --"
+2018.17-532,0,15068,samuel_a_alito_jr,scotus_justice,435.12,444.96,"I mean, it seems to me like a significant question, and I was underwhelmed by the reasons given in the comment to the provision of the Restatement on this question."
+2018.17-532,0,63070,george_w_hicks_jr_,,444.96,446.96,"Well, I think that -- first of all, I don't --"
+2018.17-532,0,15068,samuel_a_alito_jr,scotus_justice,446.96,475.12,"The first reason they give is that when -- when a court says our judgment, right, is based on two alternative grounds, and either one is independently sufficient, that shouldn't have -- that shouldn't have res judicata -- that shouldn't have issue preclusion effect because, really, the -- the court may not have seriously -- the court may not have been accurate in saying each one is independently sufficient. Do you find that to -- do you find that to be a particularly strong argument?"
+2018.17-532,0,63070,george_w_hicks_jr_,,475.12,478.6,"Well, I think that it's a -- it's an exception that applies in narrow circumstances."
+2018.17-532,0,62836,neil_gorsuch,scotus_justice,521.44,522.96,"Counsel -- counsel, I'll spot you that."
+2018.17-532,0,63070,george_w_hicks_jr_,,560.08,562.8,"Well, Justice Gorsuch, I -- I don't think you need to get into that."
+2018.17-532,0,62836,neil_gorsuch,scotus_justice,567.44,569.04,Let's do that then. Tell us about that.
+2018.17-532,0,63070,george_w_hicks_jr_,,569.04,582.36,"I -- I -- I would be happy to do that, because, you know, if you go back to this Court's decision in Mille Lacs and you look at the reasoning that this Court put forward for the -- for what constitutes termination of Indian treaty rights --"
+2018.17-532,0,17766,brett_m_kavanaugh,scotus_justice,582.36,604.72,"But in that -- in that decision, we did not overrule Race Horse. We said that Race Horse meant that statehood did not automatically terminate the prior treaty right, automatically, but that certain language in the Race Horse treaty was still sufficient to terminate the treaty right."
+2018.17-532,0,63070,george_w_hicks_jr_,,621.28,634.36,"Justice Kavanaugh, I -- I don't think you expressly overruled the outcome in Race Horse, but I think that you did reject all the legal reasoning that led to the Race Horse results. I mean, you rejected the equal footing doctrine holding."
+2018.17-532,0,17766,brett_m_kavanaugh,scotus_justice,640.32,641.68,But -- but we -- sorry to interrupt.
+2018.17-532,0,63070,george_w_hicks_jr_,,661.64,663.92,"I think you concluded that in Race Horse, but --"
+2018.17-532,0,17766,brett_m_kavanaugh,scotus_justice,663.92,670.08,"And that's preserved, explicitly preserved, on page 207 of the Mille Lacs opinion."
+2018.17-532,0,63070,george_w_hicks_jr_,,691.52,699.04,"A couple of responses. First of all, I don't know that you would be applying the results of a prior case. I think you apply your reasoning."
+2018.17-532,0,17766,brett_m_kavanaugh,scotus_justice,716.44,729.32,"But -- but we said that there were -- we said unlike the treaty at issue in Race Horse, right, and then we said there was a clearly contemplated event in Race Horse, unlike in -- in the Mille Lacs treaty --"
+2018.17-532,0,63070,george_w_hicks_jr_,,729.32,729.52,That --
+2018.17-532,0,17766,brett_m_kavanaugh,scotus_justice,729.52,739.96,"-- and the clearly contemplated event was the language said hunting on the unoccupied lands of the United States, that that was terminated by statehood, right?"
+2018.17-532,0,63070,george_w_hicks_jr_,,739.96,745.8,"No, I don't actually think that you actually went on and said that that particular language was terminated by statehood."
+2018.17-532,0,17766,brett_m_kavanaugh,scotus_justice,764.8,765.12,Do you think --
+2018.17-532,0,15094,elena_kagan,scotus_justice,765.12,765.6,"So, Mister --"
+2018.17-532,0,17766,brett_m_kavanaugh,scotus_justice,765.6,769.24,"-- Race Horse is overruled or not, the result in Race Horse?"
+2018.17-532,0,63070,george_w_hicks_jr_,,769.24,773.8,I think that you did not expressly in haec verba overrule the decision -- the outcome.
+2018.17-532,0,17766,brett_m_kavanaugh,scotus_justice,773.8,777.76,You think it's still good law as to the tribe at issue in Race Horse?
+2018.17-532,0,63070,george_w_hicks_jr_,,777.76,784.84,"I think that if -- if the tribe in Race Horse were here, I think that it would have to be arguing that you explicitly overruled it."
+2018.17-532,0,15131,sonia_sotomayor,scotus_justice,787.4,790.52,Why not? Go back to Judge Kavanaugh's question.
+2018.17-532,0,63070,george_w_hicks_jr_,,800.92,823.8,"Well, I think -- I think that you simply need to apply the reasoning that you set forth, the new reasoning in Mille Lacs, to this Crow Tribe treaty, which has never been before the Court. And now, if that creates, you know, a bit of a situation where you've got, you know, the -- the Shoshone-Bannock treaty that was interpreted using old reasoning having the right terminated and, you know, having a --"
+2018.17-532,0,15131,sonia_sotomayor,scotus_justice,823.8,850.52,"You know, Justice -- Chief Justice Rehnquist -- I don't know if he was Chief back then -- said that we had -- that the majority had effectively overruled Race Horse, and so have commentators. So should we just say it? And you still haven't told me what factually is different between the two treaty provisions --"
+2018.17-532,0,63070,george_w_hicks_jr_,,850.52,851.12,"Well, I can --"
+2018.17-532,0,15131,sonia_sotomayor,scotus_justice,851.12,865.6,"-- that would distinguish them sufficient for us to say we're applying the new logic and this treaty provision fits that new logic, plus it's different from Race Horse, why? You haven't filled in that blank."
+2018.17-532,0,63070,george_w_hicks_jr_,,865.6,866.0,Sure.
+2018.17-532,0,17766,brett_m_kavanaugh,scotus_justice,913.28,925.28,"What's different about the Crow treaty, which is 1868, and the Shoshone treaty, 1868, in terms of the negotiations or the intent? The language is exactly the same."
+2018.17-532,0,63070,george_w_hicks_jr_,,927.4,941.16,"Well, we don't know much about the negotiations or the history of the Shoshone-Bannock treaty because that really wasn't addressed much in the Race Horse decision, but there are -- there are material distinctions between the history in the way that these treaties came about. For example --"
+2018.17-532,0,17766,brett_m_kavanaugh,scotus_justice,941.16,942.52,These two treaties?
+2018.17-532,0,63070,george_w_hicks_jr_,,942.52,951.56,"For the -- the -- the Race Horse treaty, the Shoshone-Bannock treaty, and the Crow Tribe treaty. The Shoshone-Bannock were on the complete other side of Wyoming."
+2018.17-532,0,17766,brett_m_kavanaugh,scotus_justice,974.96,977.72,But you haven't pointed to anything really specific.
+2018.17-532,0,63070,george_w_hicks_jr_,,1000.8,1008.08,"Justice Kavanaugh, I think that if -- if there are different results there, I think that's a consequence of the new reasoning that you set out in Mille Lacs."
+2018.17-532,0,17766,brett_m_kavanaugh,scotus_justice,1010.64,1011.44,But that would have been -- sorry to interrupt.
+2018.17-532,0,63070,george_w_hicks_jr_,,1024.44,1035.84,"Well, I certainly think that if it gives you heartburn to have two different results because you're applying your latest legal reasoning, I think you can take the extra step. You did so in the Limbach case that we -- that we cited, in the Sunnen case."
+2018.17-532,0,15086,john_g_roberts_jr,scotus_justice,1048.48,1059.56,"Well, how much are you going to have to unwind if you apply -- you no longer believe that statehood eliminated the treaty provisions in Race Horse?"
+2018.17-532,0,63070,george_w_hicks_jr_,,1059.56,1072.32,"Nothing, Your Honor, because there's -- there's no other state that has to -- that is operating under this. There's no other state aside from Wyoming that has been free of recognizing Indian treaty rights. So that's not a consideration."
+2018.17-532,0,15086,john_g_roberts_jr,scotus_justice,1082.2,1088.92,"Well, you'd still have the result that concerns Justice Kavanaugh, that under the exact same language, the two different tribes are going to be treated differently."
+2018.17-532,0,63070,george_w_hicks_jr_,,1088.92,1098.24,"But I think that's a consequence of the Mille Lacs reasoning, which is your most recent controlling precedent on interpreting the termination of Indian treaty rights. If I can reserve my time, please."
+2018.17-532,0,15086,john_g_roberts_jr,scotus_justice,1098.24,1106.24,"Thank you, counsel. Mr. Liu."
+2018.17-532,1,62593,frederick_liu,,1106.24,1115.4,"Mr. Chief Justice, and may it please the Court: If the principles of Mille Lacs apply here, I don't think there can be much doubt about the outcome."
+2018.17-532,1,62836,neil_gorsuch,scotus_justice,1117.2,1121.16,What do you say to the suggestion that we just be done with Race Horse and overrule it?
+2018.17-532,1,62593,frederick_liu,,1121.16,1124.32,The government would be fine with that.
+2018.17-532,1,15131,sonia_sotomayor,scotus_justice,1152.32,1155.28,Would you please stop talking in generalities?
+2018.17-532,1,62593,frederick_liu,,1155.28,1155.84,"Oh, sure."
+2018.17-532,1,15131,sonia_sotomayor,scotus_justice,1155.84,1161.8,Give me a specific in which way are the two tribes or their history different?
+2018.17-532,1,62593,frederick_liu,,1161.8,1169.32,"Well, Your Honor, to be frank, I -- I don't think there -- the government isn't going to be able to point to a difference in the history."
+2018.17-532,1,15094,elena_kagan,scotus_justice,1202.4,1205.64,Why do you think Race Horse wasn't over -- overruled?
+2018.17-532,1,62593,frederick_liu,,1205.64,1212.2,"I think for the simple reason, Justice Kagan, that the Race Horse treaty just wasn't before the Court in Mille Lacs and --"
+2018.17-532,1,15094,elena_kagan,scotus_justice,1212.2,1213.96,"Well, but it does try to distinguish it."
+2018.17-532,1,15094,elena_kagan,scotus_justice,1220.76,1222.08,But it does try to distinguish it.
+2018.17-532,1,62593,frederick_liu,,1252.04,1253.36,"I think you're right, Justice Kagan."
+2018.17-532,1,15086,john_g_roberts_jr,scotus_justice,1324.36,1330.72,"Counsel, you are -- for the government, you are walking a really thin tightrope here."
+2018.17-532,1,62593,frederick_liu,,1357.64,1360.76,"I -- I think that's right, Mr. Chief Justice."
+2018.17-532,1,15086,john_g_roberts_jr,scotus_justice,1370.44,1371.4,Has been settled?
+2018.17-532,1,62593,frederick_liu,,1371.4,1372.08,It can be settled --
+2018.17-532,1,15086,john_g_roberts_jr,scotus_justice,1372.08,1376.16,The whole point of Bighorn is that you don't want that land settled.
+2018.17-532,1,62593,frederick_liu,,1376.16,1377.72,And -- and -- and that -- that's true.
+2018.17-532,1,15086,john_g_roberts_jr,scotus_justice,1398.76,1408.36,"Well, how much is enough? I mean, if you have the little -- you know, a little shed for the ranger, does that allow you to say, well, these, you know, 100,000 acres are occupied?"
+2018.17-532,1,62593,frederick_liu,,1408.36,1413.52,"No, we wouldn't -- we wouldn't say that -- that putting a shed in one place occupies that much land."
+2018.17-532,1,15086,john_g_roberts_jr,scotus_justice,1425.44,1430.08,So you occupy the land if nobody can fire a gun in it?
+2018.17-532,1,62593,frederick_liu,,1430.08,1437.88,"No, it's -- it's 150 yards around a -- a campsite, a building, a residence, or other occupied area."
+2018.17-532,1,15086,john_g_roberts_jr,scotus_justice,1446.4,1453.4,"Just so I understand, so at 151 yards, Mr. Herrera could take an elk?"
+2018.17-532,1,62593,frederick_liu,,1453.4,1461.84,"At a hundred and -- correct. I mean, there has to be some line that we draw between land that's occupied and unoccupied."
+2018.17-532,1,62836,neil_gorsuch,scotus_justice,1473.16,1481.44,"Counsel, along those lines, you asked for remand for an evidentiary exploration of whether the land here was occupied."
+2018.17-532,1,62593,frederick_liu,,1493.16,1493.72,Right.
+2018.17-532,1,62836,neil_gorsuch,scotus_justice,1493.72,1495.24,Seems there's some tension there to me.
+2018.17-532,1,62593,frederick_liu,,1506.96,1528.04,"I -- I -- I think -- I think the district court -- I think the state trial court in this case, to be more precise, did -- was open to having an evidentiary hearing from the get-go, and it was only after the state trial court determined that the issue could be resolved as a matter of law that that evidentiary hearing was canceled."
+2018.17-532,1,62836,neil_gorsuch,scotus_justice,1528.04,1532.52,"So, fine, we -- we could remand it back, but do we need to say anything about this at all?"
+2018.17-532,1,62593,frederick_liu,,1532.52,1533.44,"Oh, not at all."
+2018.17-532,1,62836,neil_gorsuch,scotus_justice,1539.36,1539.6,All right.
+2018.17-532,1,62593,frederick_liu,,1543.04,1543.24,Sure.
+2018.17-532,1,62836,neil_gorsuch,scotus_justice,1543.24,1547.76,The government says that the state retains some conservation easement here.
+2018.17-532,1,62593,frederick_liu,,1547.76,1547.92,Right.
+2018.17-532,1,62836,neil_gorsuch,scotus_justice,1547.92,1562.28,"That -- I don't know where it comes from, but you -- you tell us that such a thing exists. At the same time, though, the treaty says that -- that the tribe is allowed to hunt on the land until the game are gone --"
+2018.17-532,1,62593,frederick_liu,,1562.28,1563.04,Right.
+2018.17-532,1,62836,neil_gorsuch,scotus_justice,1563.04,1566.68,-- which seems to suggest that the white man can eliminate all the game.
+2018.17-532,1,62593,frederick_liu,,1571.72,1577.0,I -- I think it goes back to the basis of the conservation necessity doctrine.
+2018.17-532,1,62836,neil_gorsuch,scotus_justice,1582.52,1585.12,"I don't understand that, if the treaty were silent about the game."
+2018.17-532,1,62593,frederick_liu,,1585.12,1585.68,Yeah.
+2018.17-532,1,62836,neil_gorsuch,scotus_justice,1585.68,1593.2,"But the treaty is express, and it contemplates no conservation. It contemplates the complete elimination of the game by the white man."
+2018.17-532,1,62593,frederick_liu,,1593.2,1593.8,Yeah.
+2018.17-532,1,62836,neil_gorsuch,scotus_justice,1593.8,1599.28,"So, if the white man gets to eliminate the game, again, counsel for the government, how come the Indian may not?"
+2018.17-532,1,62593,frederick_liu,,1599.28,1611.56,I -- I think it just goes back to the fact that these treaties are -- are more or less written against the backdrop of states being able to exercise some conservation authority because the right is not exclusive.
+2018.17-532,1,15131,sonia_sotomayor,scotus_justice,1611.56,1612.12,I'm sorry.
+2018.17-532,1,62593,frederick_liu,,1612.28,1614.8,"But that issue hasn't been raised, and it could be addressed on remand."
+2018.17-532,1,62836,neil_gorsuch,scotus_justice,1614.8,1615.6,We don't need to address that.
+2018.17-532,1,62593,frederick_liu,,1615.6,1616.48,You don't need to address it.
+2018.17-532,1,15131,sonia_sotomayor,scotus_justice,1616.48,1617.4,This killing was on --
+2018.17-532,1,15068,samuel_a_alito_jr,scotus_justice,1617.4,1617.88,When you say that --
+2018.17-532,1,15131,sonia_sotomayor,scotus_justice,1617.88,1620.28,"-- this killing was on federal land, correct?"
+2018.17-532,1,62593,frederick_liu,,1620.28,1622.48,Correct.
+2018.17-532,1,15131,sonia_sotomayor,scotus_justice,1622.48,1628.84,"In all state -- in all federal parks, state regulations apply?"
+2018.17-532,1,62593,frederick_liu,,1628.84,1631.04,It depends on the type of federal land.
+2018.17-532,1,15131,sonia_sotomayor,scotus_justice,1641.04,1641.16,Okay.
+2018.17-532,1,62593,frederick_liu,,1642.04,1645.28,It's a forest-by-forest and land-by-land determination.
+2018.17-532,1,15131,sonia_sotomayor,scotus_justice,1645.28,1645.6,All right.
+2018.17-532,1,15068,samuel_a_alito_jr,scotus_justice,1645.6,1651.92,"When you say we don't have to deal with the issue of whether it's occupied, are you talking about the issue preclusion issue?"
+2018.17-532,1,62593,frederick_liu,,1651.92,1653.64,No.
+2018.17-532,1,15086,john_g_roberts_jr,scotus_justice,1712.72,1721.68,"Thank you, counsel. Mr. Knepper."
+2018.17-532,2,63071,john_g_knepper,,1721.68,1801.44,"Mr. Chief Justice, and may it please the Court: Mr. Herrera's claims are identical to those presented 25 years ago by his sovereign on his behalf in the case Crow Tribe v. Repsis. Nothing since Repsis, including the decision by this Court in Mille Lacs, merits a -- an exception to this Court's repeated command that, once the appeals are over, a final judgment binds the parties and they may not renew the same dispute in another forum. Repsis ruled that this particular treaty right had expired, and this Court should not on collateral review allow it to spring back, especially as, when you look at the decision in Mille Lacs, Mille Lacs went out of its way not to overrule the result in Race Horse. Much of -- much of the -- the argument over preclusion, Your Honor, has to do with whether there has been a change in intervening law, and this case is particularly ill-suited to find such a change. The treaty text has not changed. There are no essential facts that have changed, because, when one looks at the underlying case brought by the Crow Tribe, in the complaints and the Joint Appendix, it was brought at the broadest possible level of abstraction."
+2018.17-532,2,15139,stephen_g_breyer,scotus_justice,1801.44,1812.92,"Maybe I'm not understanding this correctly because it's complicated, but I thought there are two separate issues in respect to issue preclusion. One has to do with Repsis."
+2018.17-532,2,63071,john_g_knepper,,1913.04,1914.12,Okay.
+2018.17-532,2,15094,elena_kagan,scotus_justice,1976.6,1978.8,"But, Mr. Knepper, I -- I think this isn't just any change."
+2018.17-532,2,63071,john_g_knepper,,2017.4,2022.44,"Your Honor, the court did not overrule the approach to treaty interpretation."
+2018.17-532,2,15094,elena_kagan,scotus_justice,2042.64,2050.92,"Well, just to make this more concrete, I mean, as I understand it, Race Horse essentially said that these treaty rights expired upon statehood."
+2018.17-532,2,63071,john_g_knepper,,2062.0,2074.24,"Well, Your Honor, there's -- there's -- there's one subtlety, I think, from the 19th Century law to the 20th Century law that's being overlooked here, and that is this Court's decision in Lone Wolf v. Hitchcock."
+2018.17-532,2,17766,brett_m_kavanaugh,scotus_justice,2126.96,2153.48,"The oddity is that, as Justice Kagan says, in Mille Lacs, we say that the holding of Race Horse or the reasoning that statehood automatically terminates treaty rights for off-reservation activity, that's no longer good, and then, on the alternative holding, as we characterized it from Rate -- Race Horse, we say that language, the precar -- temporary and precarious, that language is also no good."
+2018.17-532,2,63071,john_g_knepper,,2170.88,2189.48,"I think, Your Honor, the rule preserved by Mille Lacs is that the treaty language that was present in Race Horse, which is identical to the treaty language in the Crow -- the treaty with the Crows, expresses an intent by the parties that the off-reservation hunting right would terminate at statehood."
+2018.17-532,2,15139,stephen_g_breyer,scotus_justice,2189.48,2199.12,"Well, you have this language right here in Mille Lacs: Treaty rights are not impliedly terminated upon statehood."
+2018.17-532,2,63071,john_g_knepper,,2231.48,2231.88,Your Honor --
+2018.17-532,2,15139,stephen_g_breyer,scotus_justice,2231.88,2235.64,-- I don't see how you can get more opposite.
+2018.17-532,2,63071,john_g_knepper,,2235.96,2288.84,"-- Your Honor, I think there are -- there -- the critical question -- and this sort of goes to what the text of Article IV speaks of, which was, you know -- and -- and I may refer to Race Horse several times, not just because it's binding precedent but also because it's the clearest evidence that we have before us of what 19th Century thinkers thought the language meant. In other words, it -- it has a -- it has a historical value as well, all of these decisions were made during the 19th Century. And -- and the Court in that case looked at the treaty text and said: ""Unoccupied lands,"" that could be construed broadly, it could be construed narrowly, but when construed in pari materia with the language of borders of the hunting districts, it applies only to lands of such a character as would be embodied in hunting districts."
+2018.17-532,2,15131,sonia_sotomayor,scotus_justice,2291.0,2291.6,All right.
+2018.17-532,2,63071,john_g_knepper,,2313.16,2314.96,"Your Honor, I -- that's --"
+2018.17-532,2,15131,sonia_sotomayor,scotus_justice,2314.96,2316.72,Unoccupied and people went hunting.
+2018.17-532,2,63071,john_g_knepper,,2316.72,2336.72,"Well, Your Honor, that's where the Race Horse Court's evaluation of the history at that time is so important because the Race Horse Court looked at Yellowstone National Park, and what the Race Horse Court said was Yellowstone National Park was created almost immediately after the treaty with the Crows was signed."
+2018.17-532,2,62836,neil_gorsuch,scotus_justice,2384.8,2385.2,Can I -- can we just --
+2018.17-532,2,15086,john_g_roberts_jr,scotus_justice,2385.2,2385.68,"Well, I know --"
+2018.17-532,2,62836,neil_gorsuch,scotus_justice,2385.68,2387.16,"Oh, I'm sorry."
+2018.17-532,2,15086,john_g_roberts_jr,scotus_justice,2387.16,2405.16,"I know that when we're interpreting a treaty, we look at the background and circumstances in interpreting the language, and -- but your argument's a pretty stark distinction, occupied doesn't really have anything to do with hunting."
+2018.17-532,2,63071,john_g_knepper,,2425.2,2435.4,"Your Honor, I -- I think that the precise question is what did they mean by ""occupied"" and what -- what -- what was land -- what did land have to look like in --"
+2018.17-532,2,15086,john_g_roberts_jr,scotus_justice,2435.4,2442.84,"Yeah, but your argument is, you know, what did they mean by ""cow"" and you're saying they meant ""horse."" They're two totally different concepts."
+2018.17-532,2,63071,john_g_knepper,,2442.84,2448.72,"I -- I'm not -- I'm not sure that's what the State's argument is, but -- (Laughter.)"
+2018.17-532,2,15086,john_g_roberts_jr,scotus_justice,2448.72,2450.08,I'm sure it's not.
+2018.17-532,2,63071,john_g_knepper,,2450.08,2500.68,"But -- but I -- I think -- I think there are -- there are -- you know, you can envision, for example, a piece of private land where there is no -- there are no structures, and in that piece of private land, I think there's no question Mille Lacs affirms this, that there would be no right to hunt on that piece of private land, even though it looks like nothing, it looks like a vast expanse of nothing. And so then the question is, when the government has a specific purpose for which it reserves land, and the government has done so and did so throughout the 19th Century in terms of military reservations for forts, which is a larger portion of land than just the fort itself, as well as public reservations, which would be either the national forest or the national parks, the government has said not -- not that this land is unoccupied but, rather, we occupy this land."
+2018.17-532,2,62836,neil_gorsuch,scotus_justice,2562.8,2564.76,"Counsel, can we return to --"
+2018.17-532,2,63071,john_g_knepper,,2564.76,2565.08,Sure.
+2018.17-532,2,62836,neil_gorsuch,scotus_justice,2565.08,2605.2,"-- an area where we might at least be able to nail down some agreement between the parties? And that is your argument rests largely on issue preclusion. And you made an impassioned defense of Race Horse and an excellent one, but what -- what kind of change in law is sufficient to render issue preclusion inapplicable? Is it a substantial change in the law? Is that the test you'd have this Court use? Is it a change in the law? Would you require a formal overruling in so many words? What is -- what is the State's understanding of the appropriate test?"
+2018.17-532,2,63071,john_g_knepper,,2605.2,2614.56,"Your -- Your Honor, from the State's perspective, that entire concept gives us a great deal of pause."
+2018.17-532,2,62836,neil_gorsuch,scotus_justice,2614.56,2616.92,"Well, you are the one who's invoked it, though."
+2018.17-532,2,63071,john_g_knepper,,2625.44,2625.64,Sure.
+2018.17-532,2,62836,neil_gorsuch,scotus_justice,2625.64,2627.64,-- what standard you'd have us apply.
+2018.17-532,2,63071,john_g_knepper,,2627.64,2639.6,"Your -- Your Honor, I think the -- from the State's perspective, it needs to be a -- both a major doctrinal shift --"
+2018.17-532,2,62836,neil_gorsuch,scotus_justice,2639.6,2640.24,Okay.
+2018.17-532,2,63071,john_g_knepper,,2642.92,2644.12,Right.
+2018.17-532,2,17766,brett_m_kavanaugh,scotus_justice,2647.72,2649.76,Is that it? (Laughter.)
+2018.17-532,2,17766,brett_m_kavanaugh,scotus_justice,2649.76,2654.12,"You were -- you sound like you were mid-sentence to me, but -- (Laughter.)"
+2018.17-532,2,63071,john_g_knepper,,2654.12,2674.08,"Well, Your Honor, I wanted to explain one of the reasons why the State is so concerned about this concept of change in law, especially in the context of Indian treaties and jurisdictional questions, because I think the greatest reason for caution here is we have two eternal sovereigns."
+2018.17-532,2,15139,stephen_g_breyer,scotus_justice,2707.84,2719.36,"But what you have is, look, Race Horse, it says, your side, for two or three reasons, reason 1, the equal footing doctrine."
+2018.17-532,2,63071,john_g_knepper,,2837.8,2838.4,Thanks.
+2018.17-532,2,63071,john_g_knepper,,2839.92,2846.64,"I -- there -- there are -- the question for -- for this Court, of course, is not just Race Horse but what Repsis says, Your Honor."
+2018.17-532,2,15131,sonia_sotomayor,scotus_justice,2899.72,2906.24,So tell me what in the treaty says it automatically terminates.
+2018.17-532,2,63071,john_g_knepper,,2920.4,2922.52,The -- the --
+2018.17-532,2,15131,sonia_sotomayor,scotus_justice,2922.52,2926.48,Where -- where in -- just point me to something in the treaty language --
+2018.17-532,2,63071,john_g_knepper,,2926.48,2926.88,Sure.
+2018.17-532,2,15131,sonia_sotomayor,scotus_justice,2926.88,2927.88,-- that -- that gives you --
+2018.17-532,2,63071,john_g_knepper,,2927.88,2949.88,"Your Honor, the -- the decision rests on the conclusion that unoccupied lands must be of the character of the lands denominated as hunting districts, and that hunting districts were a specific kind of land understood, and that upon settlement, and, you know, there's a -- there's a process, but culminating in statehood."
+2018.17-532,2,15131,sonia_sotomayor,scotus_justice,2949.88,2953.16,Who gave -- whose settlement? Who -- tell me the settlement history.
+2018.17-532,2,63071,john_g_knepper,,2953.16,2954.84,Non -- non-Indian settlement.
+2018.17-532,2,15131,sonia_sotomayor,scotus_justice,2954.84,2955.48,All right.
+2018.17-532,2,63071,john_g_knepper,,2960.8,2962.44,It wasn't so much grants.
+2018.17-532,2,15131,sonia_sotomayor,scotus_justice,2972.92,2974.6,Who ran the General Land Office?
+2018.17-532,2,63071,john_g_knepper,,2974.6,2975.4,The United States.
+2018.17-532,2,15131,sonia_sotomayor,scotus_justice,2975.4,2976.96,Okay.
+2018.17-532,2,63071,john_g_knepper,,2988.08,3005.84,"I think that if what you're asking is are there unoccupied lands within the meaning of the treaty anymore within the State of Wyoming, that's -- that's what the decision both in Race Horse and in -- and in Repsis concluded, that those -- those lands -- those lands have disappeared."
+2018.17-532,2,17766,brett_m_kavanaugh,scotus_justice,3007.96,3023.08,"Can I ask about the practical consequences of the decision? Because, as Justice Gorsuch said to the opposing counsel, there is still preserved in the cases a right in the state to regulate in the interest of conservation."
+2018.17-532,2,63071,john_g_knepper,,3043.8,3077.24,"Your Honor, conservation necessity is not a middle ground from the state's perspective, and the chief reason is because the law enforcement officers who act don't know whether they have jurisdiction until after they have done so. So -- so -- so, in other words, we have -- we have an officer out enforcing law in either an area or in a certain -- in a certain circumstance, and the question is he -- he or she acts and then only after a period of litigation does he actually find out that he had the authority to do so."
+2018.17-532,2,62836,neil_gorsuch,scotus_justice,3077.24,3112.0,"I don't -- I don't follow that, because if -- if we were to adopt that -- approve of the conservation principle that the government urges and the American Congress does too, you would have your game wardens out and about ensuring that people are not hunting during off-season, for example. And if they're allowed to go on the forest land by agreement with the United States, why then how would there be any ambiguity about their capacity to issue citations? I'm just not clear about how litigation would be required to resolve that."
+2018.17-532,2,63071,john_g_knepper,,3112.0,3124.92,"Your Honor, leaving aside the question of whether there's agreement with the United States, right, that obviously solves all problems. But assuming that there's not agreement with the United States, we're solely acting as a -- as a matter of state power, not really --"
+2018.17-532,2,62836,neil_gorsuch,scotus_justice,3124.92,3131.52,"Well, that's a problem you have without respect to this case, right? I mean, either the government allows you to do that or it doesn't allow you to do that."
+2018.17-532,2,63071,john_g_knepper,,3134.2,3137.2,"Well, the Congress in this case has given the state the authority to act."
+2018.17-532,2,62836,neil_gorsuch,scotus_justice,3137.2,3137.36,Right.
+2018.17-532,2,63071,john_g_knepper,,3145.08,3155.92,"The current -- the current vision of conservation necessity, which has not admittedly been decided by this Court in any time -- any time recently, is sort of -- is a reverse preemption doctrine."
+2018.17-532,2,17766,brett_m_kavanaugh,scotus_justice,3176.08,3186.32,"But is it just a timing issue then, because -- or is there some gap between what you want to regulate and what you can regulate under the conservation interest?"
+2018.17-532,2,63071,john_g_knepper,,3186.32,3189.28,"Your Honor, there are significant gaps."
+2018.17-532,2,17766,brett_m_kavanaugh,scotus_justice,3189.48,3189.76,Okay.
+2018.17-532,2,63071,john_g_knepper,,3193.88,3195.92,"The most important, Your Honor, is safety."
+2018.17-532,2,15086,john_g_roberts_jr,scotus_justice,3274.0,3277.56,But isn't that covered by conservation?
+2018.17-532,2,63071,john_g_knepper,,3277.56,3287.6,"Your Honor, I don't -- I mean, conservation necessity to my sense has always been about ensuring that the game exists and -- and preventing its extermination, not the sort of --"
+2018.17-532,2,15086,john_g_roberts_jr,scotus_justice,3287.6,3290.6,Doesn't -- doesn't disease interfere with that?
+2018.17-532,2,63071,john_g_knepper,,3290.6,3292.2,"In some cases, it can, Your Honor."
+2018.17-532,2,15139,stephen_g_breyer,scotus_justice,3302.16,3316.16,"Well, in -- in many other Indian cases, the language has been used that ordinary regulation is not foreclosed, which sometimes is elaborated health, safety, environment, for example."
+2018.17-532,2,63071,john_g_knepper,,3321.08,3325.36,"Your Honor, I -- I -- if -- if that -- if that were the theory, and that the theory were that --"
+2018.17-532,2,15139,stephen_g_breyer,scotus_justice,3325.36,3327.4,It's the theory in all the Yakama cases.
+2018.17-532,2,63071,john_g_knepper,,3329.12,3353.28,"You know, from -- from the State's perspective, what we're -- what we're looking at is the sort of extensive litigation that we have not yet engaged in, but also what the United States suggests in its brief as sort of the approach that it would take to conservation necessity, which suggests, for example, that -- that different levels of mule deer population or elk population on a year-by-year basis would affect the interests of the state in conservation."
+2018.17-532,2,17766,brett_m_kavanaugh,scotus_justice,3353.28,3360.0,"But, if safety were added, as Justice Breyer said, that solves the primary problem you identified, right?"
+2018.17-532,2,63071,john_g_knepper,,3360.0,3362.68,It -- it certainly solves -- solves at least one of them.
+2018.17-532,2,15131,sonia_sotomayor,scotus_justice,3364.36,3373.76,"We're forgetting the other side in this discussion, because the tribe has a subsistence right."
+2018.17-532,2,63071,john_g_knepper,,3411.76,3417.04,"Your Honor, that's why the State has been so accepting."
+2018.17-532,2,15131,sonia_sotomayor,scotus_justice,3474.24,3475.04,It won't --
+2018.17-532,2,15068,samuel_a_alito_jr,scotus_justice,3475.04,3481.6,"On the land in question here, what is the extent of the federal government's regulatory authority and where does it come from?"
+2018.17-532,2,63071,john_g_knepper,,3481.6,3486.64,The -- the federal government's regulatory authority comes from the Organic Act that created the national forests.
+2018.17-532,2,15068,samuel_a_alito_jr,scotus_justice,3500.56,3505.92,Does the government think that that abrogated the or that limited the treaty right?
+2018.17-532,2,63071,john_g_knepper,,3505.92,3509.36,The government's perspective is that it did not.
+2018.17-532,2,15068,samuel_a_alito_jr,scotus_justice,3512.72,3518.0,"Well, then -- then how can the government -- I mean, the government is just as bound by the -- by the -- is bound by the treaty."
+2018.17-532,2,63071,john_g_knepper,,3521.0,3524.64,"The government entered into the treaty, yes."
+2018.17-532,2,15068,samuel_a_alito_jr,scotus_justice,3524.64,3531.48,So doesn't there have to be a statute that would limit the hunting right that was conferred by the treaty?
+2018.17-532,2,63071,john_g_knepper,,3531.48,3532.68,"Your Honor, may I respond?"
+2018.17-532,2,15086,john_g_roberts_jr,scotus_justice,3532.68,3534.24,Sure.
+2018.17-532,2,63071,john_g_knepper,,3534.24,3554.96,"All of these actions took place, Your Honor, before statutes could repeal Indian treaty language, all -- including the enactment of the organic statute. So, from the State's perspective, all of them represent not repeal of the hunting right but, rather, the federal government's occupation within the meaning of the hunting right."
+2018.17-532,2,15086,john_g_roberts_jr,scotus_justice,3554.96,3559.88,"Thank you, counsel. Mr. Hicks, two minutes."
+2018.17-532,3,63070,george_w_hicks_jr_,,3559.88,3561.24,"Thank you, Mr. Chief Justice."
+2018.17-532,3,15086,john_g_roberts_jr,scotus_justice,3682.84,3683.92,"Thank you, counsel."

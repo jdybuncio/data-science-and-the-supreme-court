@@ -1,0 +1,190 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2012.11-820,0,15086,john_g_roberts_jr,scotus_justice,0.0,7.42,"We'll hear argument first this morning in Case 11-820, Roselva Chaidez v. United States."
+2012.11-820,0,30283,jeffrey_l_fisher,,8.587,11.272,"Mr. Chief Justice, and may it please the Court:"
+2012.11-820,0,15086,john_g_roberts_jr,scotus_justice,47.981,51.033,"It's a surprise to the, what, ten courts of appeals who came out the other way?"
+2012.11-820,0,30283,jeffrey_l_fisher,,51.033,53.885,"--No, I don't think so, Your Honor."
+2012.11-820,0,15086,john_g_roberts_jr,scotus_justice,100.845,106.297,So maybe it was -- maybe it was a surprise to the members of this Court that disagreed with that--
+2012.11-820,0,30283,jeffrey_l_fisher,,106.297,106.666,--No--
+2012.11-820,0,15086,john_g_roberts_jr,scotus_justice,106.666,107.999,--with the ruling in Padilla.
+2012.11-820,0,30283,jeffrey_l_fisher,,107.999,117.789,"--Well, obviously, there was a dissent in Padilla, but this Court has held before that new applications of Strickland did not constitute a new rule, even though there were dissents."
+2012.11-820,0,15084,ruth_bader_ginsburg,scotus_justice,117.789,118.391,Mr. Fisher--
+2012.11-820,0,30283,jeffrey_l_fisher,,118.391,118.791,In Williams--
+2012.11-820,0,15084,ruth_bader_ginsburg,scotus_justice,118.791,149.493,"--what -- what about the argument that Strickland doesn't come into play unless the Sixth Amendment includes the collateral consequences in counsel's obligation to defend a defendant in a criminal case under the argument that up to -- up to Padilla, only advice relevant to guilt or innocence and sentencing was required, not collateral consequences?"
+2012.11-820,0,30283,jeffrey_l_fisher,,149.493,154.98,"--Well, that was obviously the argument that the State of Kentucky made in that case, and this Court dealt with it in part two of Padilla."
+2012.11-820,0,15084,ruth_bader_ginsburg,scotus_justice,169.574,177.613,"So it's also a question if -- if conviction meant loss of a professional license, that would be an open question?"
+2012.11-820,0,30283,jeffrey_l_fisher,,177.613,180.213,--I think -- I think that's an open question after Padilla.
+2012.11-820,0,15049,antonin_scalia,scotus_justice,202.128,202.495,"Well, it's always the case."
+2012.11-820,0,30283,jeffrey_l_fisher,,217.071,217.921,Of course not.
+2012.11-820,0,15094,elena_kagan,scotus_justice,233.197,236.366,"Well, Mr. Fisher, think about this in an AEDPA context."
+2012.11-820,0,30283,jeffrey_l_fisher,,266.987,275.426,"--I think you -- you may well find that, Justice Kagan, but the reason why is because you'd find that there was not an unreasonable application of preexisting law."
+2012.11-820,0,15049,antonin_scalia,scotus_justice,299.459,300.642,Why pick on Strickland?
+2012.11-820,0,30283,jeffrey_l_fisher,,319.02,328.311,"--Well, I think the best response is what this Court said in Williams, which is Strickland provides sufficient guidance to resolve virtually every ineffective assistance claim."
+2012.11-820,0,15084,ruth_bader_ginsburg,scotus_justice,333.246,351.491,"Is there any -- Mr. Fisher, is there any application, application of Strickland, that would qualify as a new rule, any application at all, or is just Strickland never a new rule?"
+2012.11-820,0,30283,jeffrey_l_fisher,,351.491,355.211,"--I think so long as you simply applied Strickland, you wouldn't create a new rule."
+2012.11-820,0,15113,anthony_m_kennedy,scotus_justice,361.699,390.818,"Well, suppose that a really skilled attorney, after negotiating a plea bargain, or even representing a client at trial but then losing, is very skilled in ensuring that the defendant can go into the general population, not into solitary confinement; but also a skilled trial attorney, he's just not very good at that, so the defendant goes to solitary."
+2012.11-820,0,30283,jeffrey_l_fisher,,417.952,425.022,"Justice Kennedy, it wouldn't be enough to have a later evolution of prevailing norms because Strickland is a backward-looking device."
+2012.11-820,0,15113,anthony_m_kennedy,scotus_justice,425.022,435.247,"So that there are then, in answer to Justice Ginsburg's question, some cases in which there could be a new rule of ineffective assistance of counsel under Strickland?"
+2012.11-820,0,30283,jeffrey_l_fisher,,435.247,440.567,"Well, I think the answer to that question is yes, and, as I said, something like a scenario where this Court--"
+2012.11-820,0,15113,anthony_m_kennedy,scotus_justice,440.567,442.717,"Well, I don't understand how that works with my hypothetical."
+2012.11-820,0,30283,jeffrey_l_fisher,,442.717,444.603,"--Well, let me -- let me try to work with your hypothetical."
+2012.11-820,0,15049,antonin_scalia,scotus_justice,479.776,493.619,"The only new law is not a new pronouncement which nobody had ever thought of before, but only a pronouncement that rests upon an evolution of mores; is that it?"
+2012.11-820,0,30283,jeffrey_l_fisher,,493.619,495.619,"No, I think what I'm trying to say is--"
+2012.11-820,0,15049,antonin_scalia,scotus_justice,495.619,496.738,That's what I thought you said.
+2012.11-820,0,30283,jeffrey_l_fisher,,496.738,501.023,"--Strickland -- Strickland sets up a two-part test, and we're only talking about the first part, which is attorney performance."
+2012.11-820,0,15094,elena_kagan,scotus_justice,514.7,519.067,"Mr. Fisher, it would seem to me that this case presents a kind of threshold question."
+2012.11-820,0,30283,jeffrey_l_fisher,,548.354,552.389,"--Well, let me give you two answers to that, because I think that's the Government's main argument here."
+2012.11-820,0,15139,stephen_g_breyer,scotus_justice,584.527,584.977,How many had?
+2012.11-820,0,30283,jeffrey_l_fisher,,584.977,586.612,--Pardon me?
+2012.11-820,0,15139,stephen_g_breyer,scotus_justice,615.393,586.612,How many had?
+2012.11-820,0,30283,jeffrey_l_fisher,,621.814,626.451,Only three Federal circuits have had a ruling like that after the 1996 act--
+2012.11-820,0,15139,stephen_g_breyer,scotus_justice,626.451,627.035,"Well, there aren't that many."
+2012.11-820,0,30283,jeffrey_l_fisher,,629.486,638.758,"--Well, if I can finish my answer, only three had rulings like that after the 1996 act, and all three of those relied on pre-'96 act rulings."
+2012.11-820,0,15094,elena_kagan,scotus_justice,661.374,666.41,"Well, but even before the 1996 act, deportation -- there were deportation consequences."
+2012.11-820,0,30283,jeffrey_l_fisher,,679.169,689.858,"--That may well be true, Justice Kagan, but I'm saying in the '96 act, as this Court said in Padilla, whatever prevail -- whatever doubt there may have been about prevailing professional norms crystallized at that time because of the severity."
+2012.11-820,0,15068,samuel_a_alito_jr,scotus_justice,724.631,739.558,"If a court -- if this Court were to decide in a future case that effective assistance of counsel requires an attorney to advise the client of all collateral consequences, potential loss of a professional license, etc."
+2012.11-820,0,30283,jeffrey_l_fisher,,743.093,745.795,"I think it would -- I doubt it, Justice Alito."
+2012.11-820,0,15049,antonin_scalia,scotus_justice,772.195,785.189,"Mr. Fisher, I suppose you are right, I'm sure you're right that the mere fact that there was a dissent in the case that adopted the rule does not necessarily make it a new rule."
+2012.11-820,0,30283,jeffrey_l_fisher,,794.96,799.531,"That's a tricky question to answer, Justice Scalia."
+2012.11-820,0,15049,antonin_scalia,scotus_justice,799.531,803.066,"Well, I think it's an easy question to answer."
+2012.11-820,0,30283,jeffrey_l_fisher,,803.066,806.952,"Well, I think I could answer it one of two ways."
+2012.11-820,0,15049,antonin_scalia,scotus_justice,817.16,817.56,That's fair.
+2012.11-820,0,30283,jeffrey_l_fisher,,819.026,828.449,"--Well, I think that the way the dissent put it was -- is that advice is now required beyond criminal cases and criminal jeopardy."
+2012.11-820,0,15113,anthony_m_kennedy,scotus_justice,843.108,857.135,"Well, it just seems to me that the predicate question we decided in Padilla was that Strickland applies to matters not within the control of the trial judge."
+2012.11-820,0,30283,jeffrey_l_fisher,,865.224,869.426,"--Well, it had to be more than that, Justice Kennedy, because, of course, there is lots of--"
+2012.11-820,0,15113,anthony_m_kennedy,scotus_justice,869.426,870.295,"No, this is--"
+2012.11-820,0,30283,jeffrey_l_fisher,,870.295,871.095,--ineffective assistance cases--
+2012.11-820,0,15113,anthony_m_kennedy,scotus_justice,871.095,871.76,--a predicate question.
+2012.11-820,0,30283,jeffrey_l_fisher,,871.76,872.427,"--Well, no, no."
+2012.11-820,0,15086,john_g_roberts_jr,scotus_justice,912.538,916.256,"I think you've been -- you've been asked this, and I'm not sure I got your answer."
+2012.11-820,0,30283,jeffrey_l_fisher,,926.547,934.718,"Well, some sort of consequences that -- that prevailing norms didn't require a lawyer to advise his client on."
+2012.11-820,0,15084,ruth_bader_ginsburg,scotus_justice,944.926,965.089,"You answered that question when I asked it, you said that removal of a professional license would not fall under -- wouldn't -- would be at least an open question."
+2012.11-820,0,30283,jeffrey_l_fisher,,965.089,969.291,It -- I think it would be an open question as to how Strickland would apply.
+2012.11-820,0,15086,john_g_roberts_jr,scotus_justice,969.291,970.191,If you had--
+2012.11-820,0,30283,jeffrey_l_fisher,,970.191,973.176,I simply don't know what the prevailing professional norms are in that situation.
+2012.11-820,0,15086,john_g_roberts_jr,scotus_justice,973.176,979.247,"--If you had that case, what would you rely on in arguing in favor of the habeas petition?"
+2012.11-820,0,30283,jeffrey_l_fisher,,979.247,980.266,"Well, I would start with--"
+2012.11-820,0,15086,john_g_roberts_jr,scotus_justice,980.266,983.468,"You would start with Strickland, and you would talk with -- Padilla, right?"
+2012.11-820,0,30283,jeffrey_l_fisher,,983.468,984.768,"--Yes, that's what I would do."
+2012.11-820,0,15113,anthony_m_kennedy,scotus_justice,1001.445,1011.201,"Do you want us to write this opinion in support of your position, and to begin by saying, prevailing professional norms do not change?"
+2012.11-820,0,30283,jeffrey_l_fisher,,1011.201,1014.07,"--No, no, Justice Kennedy."
+2012.11-820,0,15113,anthony_m_kennedy,scotus_justice,1014.07,1024.211,"It seems to me that you're -- that the defense bar generally would want to say that prevailing professional norms change, but that -- that hurts you in this case."
+2012.11-820,0,30283,jeffrey_l_fisher,,1024.211,1025.778,"No, I don't think it does, Justice Kennedy."
+2012.11-820,0,15113,anthony_m_kennedy,scotus_justice,1043.672,1056.849,"I notice -- I'm not sure it was cited in the brief, but the ABA comment in 1999 said, now the ABA standard applies to professional standards, and that goes beyond the constitutional minimum."
+2012.11-820,0,30283,jeffrey_l_fisher,,1059.551,1061.818,"Well, I'm not sure that's what the ABA said."
+2012.11-820,0,15113,anthony_m_kennedy,scotus_justice,1067.205,1077.095,"It said, it should be stated that these standards do more than enforce the constitutional minimum."
+2012.11-820,0,30283,jeffrey_l_fisher,,1077.095,1079.795,"Well, I think there may be elements of the standards that did."
+2012.11-820,0,15113,anthony_m_kennedy,scotus_justice,1085.666,1093.039,"Well, I'm talking about the -- I'm talking about the ABA here, if you want to give some other authority; but, I say that, it seems to me, does not help you."
+2012.11-820,0,30283,jeffrey_l_fisher,,1093.039,1101.545,"--Well, then I'll rely on just the overall body of professional norms, which is what this Court looked to in Padilla and what it's always said it has to look to under Strickland cases."
+2012.11-820,0,15094,elena_kagan,scotus_justice,1140.42,1141.603,"Mr. Fisher, before you get to the reasons--"
+2012.11-820,0,30283,jeffrey_l_fisher,,1141.603,1142.038,--Yeah.
+2012.11-820,0,15094,elena_kagan,scotus_justice,1142.038,1144.155,--the government says that you forfeited this argument.
+2012.11-820,0,30283,jeffrey_l_fisher,,1145.155,1146.305,Sure.
+2012.11-820,0,15094,elena_kagan,scotus_justice,1180.978,1184.196,But you haven't presented this argument to any court before; is that right?
+2012.11-820,0,30283,jeffrey_l_fisher,,1184.196,1193.986,"--We made the argument in an en banc petition to the Seventh Circuit, which we couldn't make it to a panel because Seventh Circuit law had already held that Teague applied in this context."
+2012.11-820,0,15068,samuel_a_alito_jr,scotus_justice,1193.986,1198.706,"Is it relevant that this is a coram nobis proceeding, rather than a habeas proceeding?"
+2012.11-820,0,30283,jeffrey_l_fisher,,1198.706,1199.306,No.
+2012.11-820,0,15068,samuel_a_alito_jr,scotus_justice,1228.559,1243.402,"On that question, before you -- not in relation to the Massaro argument, but in relation to the Teague argument, you think the rule in coram nobis is the same, that the Teague rule applies fully in coram nobis in the same way that it applies in habeas?"
+2012.11-820,0,30283,jeffrey_l_fisher,,1243.402,1246.87,"--Well, that's the way the whole case has been litigated, and I think that's a fair assumption."
+2012.11-820,0,15068,samuel_a_alito_jr,scotus_justice,1249.138,1249.872,Have we ever held that?
+2012.11-820,0,30283,jeffrey_l_fisher,,1249.872,1250.674,"--No, you haven't."
+2012.11-820,0,15068,samuel_a_alito_jr,scotus_justice,1263.398,1272.588,"Well, yes, I understand that, but the consequences of a retroactive application in coram nobis are more severe than they are in habeas, aren't they, because of the lack of a statute of limitations?"
+2012.11-820,0,30283,jeffrey_l_fisher,,1272.588,1276.623,More severe in the sense -- I'm not sure I understand in what sense.
+2012.11-820,0,15068,samuel_a_alito_jr,scotus_justice,1276.623,1285.146,"You -- well, in -- under -- under the current Federal habeas statute, you have a rather short statute of limitations to file the habeas petition."
+2012.11-820,0,30283,jeffrey_l_fisher,,1296.203,1298.921,"I'm not sure they -- I'm not sure they could, Justice Alito."
+2012.11-820,0,15068,samuel_a_alito_jr,scotus_justice,1328.574,1336.946,"What if someone -- if there is an attempt to -- a notice of removal for someone based on a conviction that occurred a long time ago, then that would be--"
+2012.11-820,0,30283,jeffrey_l_fisher,,1336.946,1340.065,"--You could -- you could have a time lag, but there is two things to remember."
+2012.11-820,0,15084,ruth_bader_ginsburg,scotus_justice,1368.584,1369.151,Mr. Fisher--
+2012.11-820,0,30283,jeffrey_l_fisher,,1369.151,1369.617,And so that's--
+2012.11-820,0,15084,ruth_bader_ginsburg,scotus_justice,1369.617,1391.165,"--Mr. Fisher, are you -- you're not making any argument that Teague is inapplicable because this -- the underlying conviction here is a Federal conviction, not a state conviction, and Teague emphasized comity to the states; you're not making that argument?"
+2012.11-820,0,30283,jeffrey_l_fisher,,1391.165,1394.45,"--No, I think you could hold that, and that is -- that is within our argument."
+2012.11-820,0,15113,anthony_m_kennedy,scotus_justice,1418.632,1437.729,"Well, except -- except that -- and I'm interrupting, in a sense, but it's on the same track -- except that it seems to me that Teague does serve the interest of repose, quite apart from interference with a Federal proceeding, and that interest is surely sacrificed by the holding you wish us to make here."
+2012.11-820,0,30283,jeffrey_l_fisher,,1437.729,1441.031,"--Well, Justice Kennedy, I'm glad you asked because that was what I was going to say."
+2012.11-820,0,15131,sonia_sotomayor,scotus_justice,1476.687,1486.745,"Mr. Fisher, I'm concerned that creating exceptions to exceptions in Teague is just a throwback to Linkletter standard--"
+2012.11-820,0,30283,jeffrey_l_fisher,,1486.745,1487.712,Well--
+2012.11-820,0,15131,sonia_sotomayor,scotus_justice,1487.712,1494.665,"--where we're making choices among situations and saying, these will be retroactive, these won't."
+2012.11-820,0,30283,jeffrey_l_fisher,,1494.665,1495.517,--Yes.
+2012.11-820,0,15131,sonia_sotomayor,scotus_justice,1495.517,1500.152,Answer that concern on my part.
+2012.11-820,0,30283,jeffrey_l_fisher,,1500.152,1500.686,Yeah.
+2012.11-820,0,15131,sonia_sotomayor,scotus_justice,1500.686,1504.706,And then answer -- the next step is the Martinez type case--
+2012.11-820,0,30283,jeffrey_l_fisher,,1504.706,1505.356,Yeah.
+2012.11-820,0,15131,sonia_sotomayor,scotus_justice,1505.356,1516.431,--which is what happens with state reviews that are -- that channel IAC claims to their habeas processes.
+2012.11-820,0,30283,jeffrey_l_fisher,,1518.731,1518.964,Okay.
+2012.11-820,0,15113,anthony_m_kennedy,scotus_justice,1607.755,1615.278,Perhaps on rebuttal -- I recognize the white light's on -- you could address what is -- what is the standard you want me to apply to determine retroactivity?
+2012.11-820,0,30283,jeffrey_l_fisher,,1639.143,1654.903,"Justice Kennedy, what I would like to do, and I am happy to elaborate, if the formulation as I think you yourself put it in Wright v. West, which is that a rule that is, that is applied to a new set of facts does not create a new rule; but if you advance the law in some way you do create a new rule."
+2012.11-820,0,15086,john_g_roberts_jr,scotus_justice,1677.518,1678.484,"Thank you, counsel."
+2012.11-820,1,35719,michael_r_dreeben,,1681.57,1684.188,"Mr. Chief Justice, and may it please the Court:"
+2012.11-820,1,15131,sonia_sotomayor,scotus_justice,1691.278,1698.182,"Do you think that's true with respect to both components of the advice, the omission and commission?"
+2012.11-820,1,35719,michael_r_dreeben,,1722.297,1729.467,"--Well, Justice Sotomayor, this Court in Padilla didn't distinguish between misadvice and omissions to give advice."
+2012.11-820,1,15131,sonia_sotomayor,scotus_justice,1731.436,1733.938,"At least one of our concurrences did, or talked to."
+2012.11-820,1,35719,michael_r_dreeben,,1745.246,1756.101,"--As for -- as for Padilla's rationale, the answer is yes, but there is a rationale that governed, in our view, misadvice claims that existed before Padilla."
+2012.11-820,1,15131,sonia_sotomayor,scotus_justice,1819.127,1819.577,I'm not sure.
+2012.11-820,1,35719,michael_r_dreeben,,1826.131,1831.369,--It's a different professional norm and it's a different aspect of the Sixth Amendment right.
+2012.11-820,1,15131,sonia_sotomayor,scotus_justice,1899.746,1925.48,"Could you tell me where -- my colleagues were asking about hypothetical future cases -- I'm asking, do you think that every evolving professional norm, no matter how well established it becomes, would never be subject to the Teague rule because -- would always be a retroactive application or a new rule?"
+2012.11-820,1,35719,michael_r_dreeben,,1925.48,1927.263,"No, Justice Sotomayor."
+2012.11-820,1,15131,sonia_sotomayor,scotus_justice,1927.263,1934.169,Are we frozen in time to whatever the professional standards are that exist today that the Court has recognized so far?
+2012.11-820,1,35719,michael_r_dreeben,,1934.169,1935.602,"No, Justice Sotomayor."
+2012.11-820,1,15049,antonin_scalia,scotus_justice,1976.429,1977.948,What's -- what's the sense of that?
+2012.11-820,1,35719,michael_r_dreeben,,2002.73,2010.169,"No, I say no, Justice Scalia, because professional norms are judged as of the time of the attorney's action."
+2012.11-820,1,15049,antonin_scalia,scotus_justice,2018.323,2020.858,--Is that what your opponent contends as well?
+2012.11-820,1,35719,michael_r_dreeben,,2020.858,2032.583,"I think you probably should ask my opponent what he contends, but Strickland is fairly clear that professional norms at the time of the attorney's action are what govern."
+2012.11-820,1,15139,stephen_g_breyer,scotus_justice,2032.583,2036.135,"All right, so given the ABA and everything else, why doesn't that apply here?"
+2012.11-820,1,35719,michael_r_dreeben,,2036.135,2040.688,"Well, the ABA doesn't state this Court's interpretation of the Sixth Amendment."
+2012.11-820,1,15139,stephen_g_breyer,scotus_justice,2043.49,2068.339,"No, but I mean if the general rule is that Strickland evolves to pick up changing professional norms, and that -- you looked at 30 cases and that's what you get out of them -- and then it turns out that at the time this case began, there was such a professional norm; and all that happened in Padilla is that the Court following its general practice said apply that professional norm; then why doesn't the other side win?"
+2012.11-820,1,35719,michael_r_dreeben,,2068.339,2072.677,"--Well, first of all, Justice Breyer, that's not what the Court did in Padilla."
+2012.11-820,1,15139,stephen_g_breyer,scotus_justice,2097.025,2103.679,"That, of course, is true, but the professional norm had evolved by the time of the proceeding here that they would."
+2012.11-820,1,35719,michael_r_dreeben,,2103.679,2106.048,That was not the basis of the Court's decision.
+2012.11-820,1,15139,stephen_g_breyer,scotus_justice,2106.431,2118.356,"No, but -- in the other -- in the other, by the way, in the other 29 cases, did the court specifically say in each of those 29 cases that the basis of our decision is that the professional norm has evolved and we apply the new professional norm as of the time?"
+2012.11-820,1,35719,michael_r_dreeben,,2118.356,2125.794,"--Most of the cases involved well-settled duties, like the duty to investigate, applied to particular sets of facts."
+2012.11-820,1,15113,anthony_m_kennedy,scotus_justice,2184.333,2191.07,"Well, as I recall, correct me if I'm wrong, one of the principal sources the Court cited in Padilla was common sense."
+2012.11-820,1,35719,michael_r_dreeben,,2191.07,2193.689,Yes.
+2012.11-820,1,15113,anthony_m_kennedy,scotus_justice,2193.689,2195.172,Does common sense change?
+2012.11-820,1,35719,michael_r_dreeben,,2195.172,2198.141,Common sense may evolve--
+2012.11-820,1,15113,anthony_m_kennedy,scotus_justice,2198.141,2201.276,"I mean, Tom Paine wrote about it, so, you know, since its original."
+2012.11-820,1,35719,michael_r_dreeben,,2201.276,2217.054,"--Justice Kennedy, I think the Court relied on the idea that any lawyer worth his salt would inform a defendant about a particularly important consequence, a momentous consequence of pleading guilty."
+2012.11-820,1,15084,ruth_bader_ginsburg,scotus_justice,2276.593,2282.08,"Mr. Dreeben, Padilla itself was a collateral proceeding."
+2012.11-820,1,35719,michael_r_dreeben,,2294.637,2306.129,"No, Justice Ginsburg, because this Court held in Danforth v. Minnesota that Teague is an interpretation of the Federal habeas statute."
+2012.11-820,1,15084,ruth_bader_ginsburg,scotus_justice,2312.116,2315.468,"But this Court is a Federal court, so--"
+2012.11-820,1,35719,michael_r_dreeben,,2315.468,2316.051,"Well, this--"
+2012.11-820,1,15084,ruth_bader_ginsburg,scotus_justice,2316.051,2348.356,"--if your concern of Teague is comity, concern about the states running their own system, I understand the different -- the state collateral and the Federal collateral view; but, if the idea of Teague is we don't want the Federal court to come in there and overlook what the state court did, why wouldn't that apply to this court reviewing a state court decision as much as it would apply to a Federal district court at a hearing habeas from a state conviction?"
+2012.11-820,1,35719,michael_r_dreeben,,2348.356,2354.676,"--Well, Danforth made clear that states have discretion whether to adopt Teague-like rules."
+2012.11-820,1,15084,ruth_bader_ginsburg,scotus_justice,2365.817,2367.952,"Well, do we know that that's true in Kentucky?"
+2012.11-820,1,35719,michael_r_dreeben,,2367.952,2373.923,"I think Kentucky does have a Teague-type rule, but the Kentucky Supreme Court decided the issue on the merits."
+2012.11-820,1,15084,ruth_bader_ginsburg,scotus_justice,2388.866,2391.385,And this Court could not have raised it on its own?
+2012.11-820,1,35719,michael_r_dreeben,,2391.385,2392.351,"--Could have, but didn't."
+2012.11-820,1,15113,anthony_m_kennedy,scotus_justice,2425.503,2428.955,What is -- what is the standard that you wish us to apply?
+2012.11-820,1,35719,michael_r_dreeben,,2447.951,2451.153,"Justice Kennedy, my test is not a new rule."
+2012.11-820,1,15113,anthony_m_kennedy,scotus_justice,2464.913,2466.947,That's a little bit like the AEDPA standard.
+2012.11-820,1,35719,michael_r_dreeben,,2466.947,2468.132,It's similar.
+2012.11-820,1,15084,ruth_bader_ginsburg,scotus_justice,2516.029,2520.814,Have we applied -- have we applied Teague to Federal convictions before?
+2012.11-820,1,35719,michael_r_dreeben,,2520.814,2534.573,"--This Court has not, except in the sense that in Bousley v. United States, the Court ran through a Teague analysis before holding that a substantive interpretation of a Federal statute is not captured by Teague."
+2012.11-820,1,15084,ruth_bader_ginsburg,scotus_justice,2540.394,2540.794,It hasn't.
+2012.11-820,1,35719,michael_r_dreeben,,2555.321,2565.778,"True, Justice Ginsburg, but this Court has also recognized that Federal courts have an interest in the finality of Federal convictions that's every bit as strong as state courts."
+2012.11-820,1,15113,anthony_m_kennedy,scotus_justice,2576.717,2588.775,"But the second part of my question that you were about to answer was whether or not it's dictated by precedent, and in this case, it was not dictated by precedent because it applied to collateral consequences; or, what's the because?"
+2012.11-820,1,35719,michael_r_dreeben,,2588.775,2590.227,"Well, there are two becauses."
+2012.11-820,1,15131,sonia_sotomayor,scotus_justice,2625.317,2628.935,So unanimous error makes right?
+2012.11-820,1,35719,michael_r_dreeben,,2662.942,2666.56,I would not suggest that the Court adopt a mechanical approach.
+2012.11-820,1,15139,stephen_g_breyer,scotus_justice,2742.727,2745.512,Can you go back for a second to Justice Ginsburg's question?
+2012.11-820,1,35719,michael_r_dreeben,,2758.904,2759.504,--Correct.
+2012.11-820,1,15139,stephen_g_breyer,scotus_justice,2759.504,2760.204,Right.
+2012.11-820,1,35719,michael_r_dreeben,,2796.993,2808.485,"Justice Breyer, let me give you a merits answer to that question, and then an answer on why I do not think Petitioner has fairly preserved or presented that issue to this Court."
+2012.11-820,1,15084,ruth_bader_ginsburg,scotus_justice,2881.399,2884.985,It was -- it was approved by the Judicial Conference in September.
+2012.11-820,1,35719,michael_r_dreeben,,2884.985,2890.622,"--I will accept that, if that's correct, Justice Ginsburg."
+2012.11-820,1,15139,stephen_g_breyer,scotus_justice,2922.093,2929.097,"You could say that, you could say that same thing precisely about the cases on direct review which have not been completed."
+2012.11-820,1,35719,michael_r_dreeben,,2960.635,2961.385,--Yes.
+2012.11-820,1,15139,stephen_g_breyer,scotus_justice,2961.735,2967.472,"And so all those -- those are the -- when you look at the functional factors, it looks quite similar to me and I'm trying to--"
+2012.11-820,1,35719,michael_r_dreeben,,2967.472,2974.043,"--I don't think that it's quite identical, Justice Breyer, but there are additional considerations that are at stake here, too."
+2012.11-820,1,15131,sonia_sotomayor,scotus_justice,3065.016,3066.699,We -- we're seeming to go backwards.
+2012.11-820,1,35719,michael_r_dreeben,,3083.577,3088.631,--It's not a preferred process for ineffectiveness claims generally.
+2012.11-820,1,15094,elena_kagan,scotus_justice,3137.295,3157.458,"Mr. Dreeben, if Justice Breyer were right, that there should be sort of one run -- run up the flagpole and that Teague doesn't kick in until that one run up the flagpole and here because of Massaro the one run should include collateral review of IAC claims, if that's right, what are the costs of that?"
+2012.11-820,1,35719,michael_r_dreeben,,3166.214,3178.939,"It could be something more than that, because if the Court announces a new rule and makes it retroactive to a case on collateral review, (f)(3) of the statute of limitations provision gives the defendant another 1 year."
+2012.11-820,1,15084,ruth_bader_ginsburg,scotus_justice,3336.991,3365.26,"Although you said you recognize that we have not had a Teague case involving a Federal conviction, I mean, there is lots of language in Teague cases about the Federal courts not interfering with state courts, that Teague was intended to minimize Federal intrusion into state criminal proceedings, to limit the authority of the Federal courts to overturn state convictions."
+2012.11-820,1,35719,michael_r_dreeben,,3369.962,3373.949,"True, but Petitioner is not pressing that basis on this Court."
+2012.11-820,1,15086,john_g_roberts_jr,scotus_justice,3483.92,3487.955,"Thank you, counsel."
+2012.11-820,2,30283,jeffrey_l_fisher,,3490.924,3492.359,Thank you.
+2012.11-820,2,15131,sonia_sotomayor,scotus_justice,3626.613,3628.413,"Mr. Fisher, can I go back to one of your points?"
+2012.11-820,2,30283,jeffrey_l_fisher,,3632.433,3633.167,Yes.
+2012.11-820,2,15131,sonia_sotomayor,scotus_justice,3633.167,3636.302,I'm not sure about the floodgates for the following reason.
+2012.11-820,2,30283,jeffrey_l_fisher,,3659.084,3660.184,"No, it's not, Justice Sotomayor."
+2012.11-820,2,15086,john_g_roberts_jr,scotus_justice,3677.793,3678.495,"Thank you, counsel."
+2012.11-820,2,30283,jeffrey_l_fisher,,3678.495,3679.512,And so all of those claims would have to be brought.
+2012.11-820,2,15086,john_g_roberts_jr,scotus_justice,3680.112,3680.812,The case is submitted.

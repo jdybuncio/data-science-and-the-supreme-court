@@ -1,0 +1,174 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1993.92-1812,0,15141,william_h_rehnquist,scotus_justice,0.0,8.17,"We'll hear argument now in Number 92-1812, the United States v. Pedro Alvarez-Sanchez."
+1993.92-1812,0,35754,miguel_a_estrada,,9.353,12.372,"Thank you, Mr. Chief Justice, and may it please the Court:"
+1993.92-1812,0,15113,anthony_m_kennedy,scotus_justice,71.61,79.516,"And there's nothing in the record, I take it, to indicate that the State officers deliberately delayed in calling the Federal people into the case."
+1993.92-1812,0,35754,miguel_a_estrada,,79.516,102.446,"--There's nothing in the record to indicate that they were doing this any later than... any other way that they would otherwise have done, Justice Kennedy, and there is no indication at all that anyone waited over the weekend for any other reason than the fact that it was the weekend."
+1993.92-1812,0,15141,william_h_rehnquist,scotus_justice,188.052,191.622,How did the Ninth Circuit majority deal with subsection (a)?
+1993.92-1812,0,35754,miguel_a_estrada,,191.622,230.498,"The Ninth Circuit indicated that it had to, in effect, carve an exception to subsection (a) in order to give meaning to the negative implication from subsection (c), and in light of its conclusion that any confession that falls outside of the 6-hour safe harbor may be suppressed because of delay, the Court then went on to hold that the confession in this case fell outside of the 6-hour safe harbor because it was given more than 6 hours after the arrest by the California authorities on Friday, rather than by the Federal authorities on Monday."
+1993.92-1812,0,15092,sandra_day_oconnor,scotus_justice,248.042,268.106,"Mr. Estrada, if we were to decide that the arrest or detention that starts the time clock running is really only one involving Federal officials, then does that end the case?"
+1993.92-1812,0,35754,miguel_a_estrada,,272.824,274.859,"That is right, Your Honor."
+1993.92-1812,0,15092,sandra_day_oconnor,scotus_justice,291.286,305.196,"Now, do you concede that the language, any law enforcement agency, can indeed refer to State agencies in the event they are acting on behalf of the Federal Government--"
+1993.92-1812,0,35754,miguel_a_estrada,,305.196,306.415,"Yes, we do, Your Honor."
+1993.92-1812,0,15092,sandra_day_oconnor,scotus_justice,306.415,306.765,--in making a Federal arrest?
+1993.92-1812,0,35754,miguel_a_estrada,,306.765,329.094,"We concede that there are many circumstances in which State officers will enforce Federal law under any set of circumstances, and in circumstances when State officers are taking someone into custody for a Federal crime, for example, or are acting for the Federal agents rather than to enforce the State's own laws."
+1993.92-1812,0,15092,sandra_day_oconnor,scotus_justice,329.094,337.017,But the arrest that triggers it has to be one that gives rise to the need to take someone to a Federal magistrate--
+1993.92-1812,0,35754,miguel_a_estrada,,337.017,337.85,That is right.
+1993.92-1812,0,15092,sandra_day_oconnor,scotus_justice,337.85,338.434,--is that your position?
+1993.92-1812,0,35754,miguel_a_estrada,,338.434,354.912,"The gist of our claim, of our view in this case is that subsection (c) is directed to a period of delay between the defendant's being taken into custody for a Federal offense and his being taken in front of a Federal magistrate under Rule 5(a)."
+1993.92-1812,0,15049,antonin_scalia,scotus_justice,371.44,385.515,The trouble is that that limitation would not allow in... would not make the rule apply when the State officers are acting as the cat's paw for the Federal officers.
+1993.92-1812,0,35754,miguel_a_estrada,,404.762,424.14,"I agree that the... that subsection (c) would not apply in those circumstances, and the reason for that would be that in the circumstances that you have described, Justice Scalia, the State officers would not in fact be acting as a cat's paw for the Federal agents."
+1993.92-1812,0,15049,antonin_scalia,scotus_justice,433.931,434.231,"--Well, not merely."
+1993.92-1812,0,35754,miguel_a_estrada,,444.387,445.156,--If--
+1993.92-1812,0,15049,antonin_scalia,scotus_justice,445.156,446.972,--but the arrest is for a State crime.
+1993.92-1812,0,35754,miguel_a_estrada,,446.972,449.873,"--Well, if it is a bona fide State arrest--"
+1993.92-1812,0,15049,antonin_scalia,scotus_justice,449.873,450.44,Right.
+1993.92-1812,0,35754,miguel_a_estrada,,450.44,478.293,"--and there are questions of mixed motive everywhere in the law, but if in fact when you deal with it on those terms you find that there was in fact a bona fide crime, and a bona fide State arrest, I would agree with you, and I think that that is in fact a desirable result, because one of the things that we want to do as a policy matter is to encourage cooperation between law enforcement officers in States with the Federal Government."
+1993.92-1812,0,15084,ruth_bader_ginsburg,scotus_justice,561.697,566.518,"Can you give us an example of what, in your estimation, would be a cat's paw case?"
+1993.92-1812,0,35754,miguel_a_estrada,,566.518,567.301,--Sure.
+1993.92-1812,0,15084,ruth_bader_ginsburg,scotus_justice,567.301,568.968,It isn't the one that Justice Scalia gave.
+1993.92-1812,0,35754,miguel_a_estrada,,568.968,569.402,No.
+1993.92-1812,0,15141,william_h_rehnquist,scotus_justice,630.025,638.131,"That would be a fairly rare situation, would it not, that the State police arrest someone when there's no basis under State law for arresting them?"
+1993.92-1812,0,35754,miguel_a_estrada,,638.131,640.649,"We hoped that that would be so, Mr. Chief Justice."
+1993.92-1812,0,15042,david_h_souter,scotus_justice,681.124,683.91,"Mr. Estrada, I should know the answer to this question, but I don't."
+1993.92-1812,0,35754,miguel_a_estrada,,699.771,700.171,Yes.
+1993.92-1812,0,15042,david_h_souter,scotus_justice,701.171,709.21,"So on your test, there would still be a State interest, I take it, if they made that kind of an arrest and said, you know, we're just going to hold him for the Feds."
+1993.92-1812,0,35754,miguel_a_estrada,,709.21,720.518,"--Yes, but in that case the clock would start ticking from the point when they took it upon themselves solely to enforce Federal law, and we're not asking that--"
+1993.92-1812,0,15042,david_h_souter,scotus_justice,720.518,727.439,"So there's a case in which it wouldn't be a... I guess it wouldn't be the classic cat's paw, but the clock would still start running at the moment of the arrest."
+1993.92-1812,0,35754,miguel_a_estrada,,727.439,727.889,--Sure.
+1993.92-1812,0,15049,antonin_scalia,scotus_justice,800.218,804.704,Does he take them... you say he takes them to a judge's... he's arrested... he's a State officer.
+1993.92-1812,0,35754,miguel_a_estrada,,804.704,805.321,Yes.
+1993.92-1812,0,15049,antonin_scalia,scotus_justice,805.321,806.64,He's arrested him for a Federal crime.
+1993.92-1812,0,35754,miguel_a_estrada,,808.023,808.64,Yes.
+1993.92-1812,0,15049,antonin_scalia,scotus_justice,846.615,852.085,"Does this happen, you have State officers coming before Federal magistrates regularly?"
+1993.92-1812,0,35754,miguel_a_estrada,,852.085,852.735,Sometimes.
+1993.92-1812,0,15049,antonin_scalia,scotus_justice,872.583,876.135,What if a State officer arrests somebody for both State and Federal offenses?
+1993.92-1812,0,35754,miguel_a_estrada,,881.939,915.612,"Well, I think, under our view, if he takes someone into custody for a State offense, his duty is to his employer, and he does that first, and anyone who then wants to go in and charge the person with a Federal offense would have to take... to go into the State's domain, as it were, take him into custody, and take him to a Federal judge, but we would not consider that a Federal arrest, even though it is a mixed motive type situation."
+1993.92-1812,0,15060,john_paul_stevens,scotus_justice,943.762,946.881,May I ask you a question?
+1993.92-1812,0,35754,miguel_a_estrada,,954.17,955.52,"I would think so, Justice Stevens."
+1993.92-1812,0,15060,john_paul_stevens,scotus_justice,955.52,964.093,"But in the rule... in 18 U.S.C. 3501(c), when it refers to custody of any law enforcement officer, you think that means just Federal officer?"
+1993.92-1812,0,35754,miguel_a_estrada,,964.093,964.959,No.
+1993.92-1812,0,15060,john_paul_stevens,scotus_justice,969.329,970.012,"Oh, I see."
+1993.92-1812,0,35754,miguel_a_estrada,,970.012,973.798,"--But because of the context, only when acting to enforce Federal law."
+1993.92-1812,0,15060,john_paul_stevens,scotus_justice,973.798,974.733,I see.
+1993.92-1812,0,35754,miguel_a_estrada,,974.733,987.208,"Our point is that if a State officer undertakes to take someone into custody for a Federal crime, he is enforcing State law, and he falls under the terms of subsection (c) and starts the 6-hour clock running."
+1993.92-1812,0,15113,anthony_m_kennedy,scotus_justice,1087.923,1088.64,If a confession--
+1993.92-1812,0,35754,miguel_a_estrada,,1096.929,1097.762,Yes.
+1993.92-1812,0,15049,antonin_scalia,scotus_justice,1131.268,1132.568,"Well, it really doesn't say that."
+1993.92-1812,0,35754,miguel_a_estrada,,1142.558,1143.243,Well--
+1993.92-1812,0,15049,antonin_scalia,scotus_justice,1143.243,1151.766,And the confession isn't voluntary if one of the problems with it is that there was too much time elapsing between arrest and arraignment.
+1993.92-1812,0,35754,miguel_a_estrada,,1157.401,1164.74,"--There is no seamless way of construing this statute, Justice Scalia, and we recognize that."
+1993.92-1812,0,15049,antonin_scalia,scotus_justice,1183.135,1183.535,Or otherwise--
+1993.92-1812,0,35754,miguel_a_estrada,,1183.535,1210.619,"--Which I think is consistent with what Congress was trying to get at, and in that connection I should point out that the clause, if it is voluntary, was in the bill that came out of committee and went onto the floor, so that to the extent that every party in front of the court concedes that that bill was designed to do away with the McNabb-Mallory rule for good--"
+1993.92-1812,0,15049,antonin_scalia,scotus_justice,1210.619,1212.487,"--Look at Justice Stevens when you say this, Mr. Estrada, would you?"
+1993.92-1812,0,35754,miguel_a_estrada,,1212.487,1212.87,--is that--
+1993.92-1812,0,15049,antonin_scalia,scotus_justice,1212.87,1215.089,Don't look at me when you're talking about--
+1993.92-1812,0,35754,miguel_a_estrada,,1215.089,1220.493,"--Well, Justice Scalia, you asked me the last question, and I'm hoping that he won't ask any."
+1993.92-1812,0,15060,john_paul_stevens,scotus_justice,1421.907,1435.667,"--I just want to... perhaps you did cover this with Justice O'Connor, but you... really in your cert petition you raised one question, which was the question about the State custody, as I understand it, and it is your position if we answer that question in your favor we don't reach this rather tricky question."
+1993.92-1812,0,35754,miguel_a_estrada,,1435.667,1436.251,That is right.
+1993.92-1812,0,15060,john_paul_stevens,scotus_justice,1436.251,1436.651,Yes.
+1993.92-1812,0,35754,miguel_a_estrada,,1436.651,1437.767,"Thank you, Justices."
+1993.92-1812,0,15141,william_h_rehnquist,scotus_justice,1437.767,1439.103,"Thank you, Mr. Estrada."
+1993.92-1812,1,18976,carlton_f_gunn,,1440.236,1444.007,"Thank you, Mr. Chief Justice, and may it please the Court:"
+1993.92-1812,1,15042,david_h_souter,scotus_justice,1488.952,1490.186,Because you have a legal mind.
+1993.92-1812,1,18976,carlton_f_gunn,,1491.988,1499.324,"But you have a legal mind, Your Honor, I think that's focusing on the impact of certain circumstances on this defendant in that case."
+1993.92-1812,1,15049,antonin_scalia,scotus_justice,1512.734,1514.201,"Well, how do you read section (c)?"
+1993.92-1812,1,18976,carlton_f_gunn,,1518.888,1520.638,"--Well, no, I think it does do something, Your Honor."
+1993.92-1812,1,15141,william_h_rehnquist,scotus_justice,1578.459,1579.526,Mr. Gunn--
+1993.92-1812,1,18976,carlton_f_gunn,,1579.526,1580.128,"--Yes, Your Honor."
+1993.92-1812,1,15141,william_h_rehnquist,scotus_justice,1580.128,1584.847,--you say the Government does violence to subsection (c) in its interpretation.
+1993.92-1812,1,18976,carlton_f_gunn,,1588.984,1596.821,You have to read an excep... you have to read subsection (c) as a specific statute that controls over and creates an exception to the general in subsection (a).
+1993.92-1812,1,15141,william_h_rehnquist,scotus_justice,1613.533,1619.353,"Well, I don't think 3501 was intended to cover the entire waterfront."
+1993.92-1812,1,18976,carlton_f_gunn,,1623.555,1640.017,"Correct, but by its literal language, Your Honor, especially given the broad definition of confession in subsection (e), it does cover the waterfront any time there's a confession, and my point is that you have to concede that its literal language is limited by the rules of evidence, for example."
+1993.92-1812,1,15141,william_h_rehnquist,scotus_justice,1646.088,1657.378,"Well, I think you have some difficulty with that point, when you have a statute that's addressed to the McNabb-Mallory rule and it's talking about admissibility for delay under various circuits."
+1993.92-1812,1,18976,carlton_f_gunn,,1678.209,1687.231,We're having to treat subsection (c) as a more specific statute that creates a limitation to the general in subsection (a).
+1993.92-1812,1,15141,william_h_rehnquist,scotus_justice,1728.158,1737.098,Would your construction require the exclusion of any statements that would have been admissible under the McNabb-Mallory doctrine?
+1993.92-1812,1,18976,carlton_f_gunn,,1737.098,1744.584,"Not as to the issue of delay versus voluntariness, Your Honor."
+1993.92-1812,1,15084,ruth_bader_ginsburg,scotus_justice,1790.398,1793.417,Where is the concession in the reply brief?
+1993.92-1812,1,18976,carlton_f_gunn,,1793.417,1797.219,"Your Honor, I believe it's on page 2 of the reply brief."
+1993.92-1812,1,15060,john_paul_stevens,scotus_justice,1866.565,1867.948,Let me just pause after your first hypothetical.
+1993.92-1812,1,18976,carlton_f_gunn,,1872.369,1879.79,"Well, what I heard him say, Your Honor, and I may have heard him wrong, I heard him say if it was on both a State offense and a Federal offense that then it would be State's."
+1993.92-1812,1,15060,john_paul_stevens,scotus_justice,1879.79,1880.892,"Oh, I misunderstood."
+1993.92-1812,1,18976,carlton_f_gunn,,1880.892,1883.592,But that's not crystal clear to me that that's the way it should be.
+1993.92-1812,1,15141,william_h_rehnquist,scotus_justice,1896.818,1899.204,I would think that would be rather clear.
+1993.92-1812,1,18976,carlton_f_gunn,,1907.107,1916.315,"What if the standard practice in that district and his plan is to let the FBI take the man to Federal court, and the first thing he's going to do when he gets to the police station is call the FBI?"
+1993.92-1812,1,15141,william_h_rehnquist,scotus_justice,1917.665,1920.95,"Well, you call those line-drawing problems, or they're evidentiary problems."
+1993.92-1812,1,18976,carlton_f_gunn,,1923.552,1927.854,"--Well, I mean, then, the example I... he takes him to the police station."
+1993.92-1812,1,15049,antonin_scalia,scotus_justice,1960.575,1971.866,"No, but it goes on to say it shall not be inadmissible because of delay in bringing such person before a magistrate or other officer empowered to commit persons charged with offenses against laws of the United States."
+1993.92-1812,1,18976,carlton_f_gunn,,1971.866,1972.666,"--Correct, Your Honor."
+1993.92-1812,1,15049,antonin_scalia,scotus_justice,1972.666,1976.52,"It makes no sense, unless you're talking about a Federal offense."
+1993.92-1812,1,18976,carlton_f_gunn,,1976.52,1979.639,"In its reply brief, the Government focuses on that word ""delay"", Your Honor."
+1993.92-1812,1,15049,antonin_scalia,scotus_justice,2006.372,2014.978,And that would violate this provision even if he took the individual before a State magistrate promptly?
+1993.92-1812,1,18976,carlton_f_gunn,,2014.978,2018.864,"--Well, Your Honor, then the question that arises... I think that's a difficult question."
+1993.92-1812,1,15049,antonin_scalia,scotus_justice,2018.864,2020.466,"Oh, it's not at all, not the way you interpret it."
+1993.92-1812,1,18976,carlton_f_gunn,,2020.466,2027.636,"Well, one way it poses a difficult policy problem, but I don't think the statute necessarily demands that, Your Honor."
+1993.92-1812,1,15141,william_h_rehnquist,scotus_justice,2062.809,2067.928,What would be the policy virtue of that?
+1993.92-1812,1,18976,carlton_f_gunn,,2078.553,2082.02,"I think, Your Honor, that that's not the sole purpose of the law."
+1993.92-1812,1,15141,william_h_rehnquist,scotus_justice,2136.341,2149.832,"If we go back to I guess what is called the legislative history of 5(a), it appears that it wasn't in the interest of suspects at all, it was to prevent marshalls from piling up mileage by taking someone to a distant magistrate."
+1993.92-1812,1,18976,carlton_f_gunn,,2149.832,2155.319,"Well, Your Honor, that's not what the legislative history of 3501 I don't think shows 3501 was for."
+1993.92-1812,1,15141,william_h_rehnquist,scotus_justice,2168.543,2168.812,Well.
+1993.92-1812,1,18976,carlton_f_gunn,,2171.162,2175.382,"--I'm really focusing more on 18 U.S.C. 3501, Your Honor."
+1993.92-1812,1,15141,william_h_rehnquist,scotus_justice,2175.382,2182.97,"And whereabouts is the language that we're talking about, about taking before a Federal officer?"
+1993.92-1812,1,18976,carlton_f_gunn,,2182.97,2192.528,"Your Honor, in 3501(c) the language I've been focusing on begins on the fifth line, or the end of the fourth line."
+1993.92-1812,1,15141,william_h_rehnquist,scotus_justice,2201.284,2204.235,Where is that in one of the briefs?
+1993.92-1812,1,18976,carlton_f_gunn,,2204.235,2204.685,"--I'm sorry, Your Honor."
+1993.92-1812,1,15141,william_h_rehnquist,scotus_justice,2206.401,2207.437,Thank you.
+1993.92-1812,1,18976,carlton_f_gunn,,2207.437,2208.103,That is the statute.
+1993.92-1812,1,15092,sandra_day_oconnor,scotus_justice,2228.434,2237.207,"Well, I would think you'd have to focus on what it is that triggers the operation of the statute, to wit, an arrest for an offense that requires presentation--"
+1993.92-1812,1,18976,carlton_f_gunn,,2237.207,2237.773,--You're right.
+1993.92-1812,1,15092,sandra_day_oconnor,scotus_justice,2238.59,2239.207,--before the magistrate.
+1993.92-1812,1,18976,carlton_f_gunn,,2239.207,2239.992,--it's the phrase
+1993.92-1812,1,15141,william_h_rehnquist,scotus_justice,2298.511,2317.842,"Then how would your interpretation of the rule resolve the question where the State officer arrests on a State law bankrupt... bank robbery charge, excuse me, but there's also a possible Federal bankruptcy charge that could be brought... Federal bank robbery charge."
+1993.92-1812,1,18976,carlton_f_gunn,,2317.842,2327.697,"I think, Your Honor, in that case it would depend on whether he's arraigned on the bank... Federal bank robbery charge, or whether he's arraigned on the State robbery charge."
+1993.92-1812,1,15141,william_h_rehnquist,scotus_justice,2327.697,2329.732,"Well, what if he's arraigned on both of them."
+1993.92-1812,1,18976,carlton_f_gunn,,2329.732,2334.786,"Well, then, Your Honor, I think you get a difficult question, and it depends on how you construe the word ""delay""."
+1993.92-1812,1,15141,william_h_rehnquist,scotus_justice,2334.786,2340.607,"So your solution really doesn't avoid the evidentiary problems or the line drawing, does it?"
+1993.92-1812,1,18976,carlton_f_gunn,,2340.607,2342.69,"I think it does, Your Honor, because--"
+1993.92-1812,1,15141,william_h_rehnquist,scotus_justice,2342.69,2346.511,"Oh, I thought you just said that this was a difficult question under your solution."
+1993.92-1812,1,18976,carlton_f_gunn,,2346.511,2350.146,"--It's a difficult question of interpreting the statute, not a difficult question on the facts."
+1993.92-1812,1,15141,william_h_rehnquist,scotus_justice,2377.047,2385.736,"Well, you may have a statutory argument on your side, but I certainly don't think that your solution commends itself by reason of its simplicity."
+1993.92-1812,1,18976,carlton_f_gunn,,2385.736,2391.64,"Well, Your Honor, there's three possible situations that would arise factually."
+1993.92-1812,1,15141,william_h_rehnquist,scotus_justice,2415.005,2432.617,"Well, what if the State officers detain someone... arrest someone, detain him for 12 hours, 16, and decide there isn't enough evidence here to bring him in on the State charge because one element of the State crime we can't prove, but it's not so with the Federal crime, so let's get the Feds over here?"
+1993.92-1812,1,18976,carlton_f_gunn,,2436.336,2437.086,Correct.
+1993.92-1812,1,15141,william_h_rehnquist,scotus_justice,2437.086,2442.156,"Under your rule, State custody there is charged against the Federal?"
+1993.92-1812,1,18976,carlton_f_gunn,,2442.156,2444.858,"I would say so, Your Honor."
+1993.92-1812,1,15141,william_h_rehnquist,scotus_justice,2458.684,2462.903,So they would be interrogated as to whether they envisioned the Federal charges or not?
+1993.92-1812,1,18976,carlton_f_gunn,,2462.903,2468.057,"--Maybe, but I think that would arise in only very rare occasions, Your Honor."
+1993.92-1812,1,15113,anthony_m_kennedy,scotus_justice,2513.302,2518.806,But they booked the defendant on the State charge only.
+1993.92-1812,1,18976,carlton_f_gunn,,2518.806,2523.377,The record... their... the only record... well--
+1993.92-1812,1,15113,anthony_m_kennedy,scotus_justice,2523.377,2524.394,Or am I incorrect about that?
+1993.92-1812,1,18976,carlton_f_gunn,,2524.394,2526.662,--That's what the detective says in his declaration.
+1993.92-1812,1,15113,anthony_m_kennedy,scotus_justice,2541.355,2544.457,Is there a booking sheet or something in the appendix there?
+1993.92-1812,1,18976,carlton_f_gunn,,2544.457,2545.623,"I don't believe so, Your Honor."
+1993.92-1812,1,15113,anthony_m_kennedy,scotus_justice,2564.454,2570.44,"Well, I assume any officer knows why he is holding a defendant, a suspect."
+1993.92-1812,1,18976,carlton_f_gunn,,2570.44,2572.19,"--Well, he may be--"
+1993.92-1812,1,15113,anthony_m_kennedy,scotus_justice,2572.19,2573.642,He's being held on a charge.
+1993.92-1812,1,18976,carlton_f_gunn,,2573.642,2589.086,"--Correct, but he may be holding a suspect, Your Honor, only because that's their way of being able to hold him until the Secret Service can come and decide if they want to take him, which was in fact what the detective in charge said his plan and intent was in this case."
+1993.92-1812,1,15060,john_paul_stevens,scotus_justice,2632.598,2650.393,"May I give you a hypothetical and see what... what if a State officer arrests a man in possession of a stolen car, and after he's in State custody they plan to prosecute him for the State offense."
+1993.92-1812,1,18976,carlton_f_gunn,,2669.538,2676.525,"Your Honor, I think that's a difficult question that I was suggesting to Justice Rehnquist this Court could resolve but doesn't have to on the facts of this case."
+1993.92-1812,1,15060,john_paul_stevens,scotus_justice,2701.573,2709.596,Plus the decision of the Federal Government not to make up its mind about what to do with him until... they've no hurry on it and no pressure.
+1993.92-1812,1,18976,carlton_f_gunn,,2714.317,2720.304,"Correct, but at least in part the delay is from the State court system--"
+1993.92-1812,1,15060,john_paul_stevens,scotus_justice,2720.304,2720.704,Yes.
+1993.92-1812,1,18976,carlton_f_gunn,,2720.704,2736.33,"--and State prosecutors deciding to pursue the charges and needing to have the defendant there for the trial, et cetera, and once he's been arraigned in State court, then he's no longer in a state of nonarraigned custody, so to speak, which--"
+1993.92-1812,1,15060,john_paul_stevens,scotus_justice,2736.33,2742.65,"But do you think delay in bringing such a person before a magistrate or other officer can include delay in bringing him before the State magistrate, is that it?"
+1993.92-1812,1,18976,carlton_f_gunn,,2752.775,2753.292,"--All right, Your Honor."
+1993.92-1812,1,15060,john_paul_stevens,scotus_justice,2801.939,2806.343,"So you're adding some words to the statute, too."
+1993.92-1812,1,18976,carlton_f_gunn,,2806.343,2810.029,"Well, Your Honor, I don't think there's any way to take this--"
+1993.92-1812,1,15060,john_paul_stevens,scotus_justice,2810.029,2811.814,"We don't know what delay means, is one part of the problem."
+1993.92-1812,1,18976,carlton_f_gunn,,2811.814,2822.102,"--To... I mean, the easiest way, the plain language approach, Your Honor, would be to say, that's delay, and the statute prohibits... remember the costs here are not that great."
+1993.92-1812,1,15141,william_h_rehnquist,scotus_justice,2902.221,2904.923,Did the Ninth Circuit rely on that at all?
+1993.92-1812,1,18976,carlton_f_gunn,,2904.923,2908.125,"No, Your Honor."
+1993.92-1812,1,15060,john_paul_stevens,scotus_justice,3014.562,3038.343,"Isn't it true, though, that there may be a fair number of cases in which a person is in State custody and there may be something like counterfeit money or possession of a weapon or something that might justify a Federal prosecution but also might not, in which it would be reasonable to say, well, the FBI or Treasury ought to go over and interview the fellow, take a statement from him, and then decide what to do without having done the interview."
+1993.92-1812,1,18976,carlton_f_gunn,,3045.683,3049.568,"And assuming you... yes, assuming you'd want to interview him before arraignment."
+1993.92-1812,1,15060,john_paul_stevens,scotus_justice,3053.622,3066.762,"Normally you'd catch someone like... I mean, I can understand a routine procedure which would involve a prompt interview to get out the facts, whatever the Federal interest is, and not necessarily have an overriding interest in immediate prosecution."
+1993.92-1812,1,18976,carlton_f_gunn,,3069.631,3078.67,"--It is, Your Honor, but the statute... what it does is, it gives the State officers an incentive to avoid that situation by calling the Federal officers promptly."
+1993.92-1812,1,15084,ruth_bader_ginsburg,scotus_justice,3120.247,3125.901,"So you say the primary addressee of this 310... whatever it is, is really the State officer--"
+1993.92-1812,1,18976,carlton_f_gunn,,3125.901,3126.535,The primary--
+1993.92-1812,1,15084,ruth_bader_ginsburg,scotus_justice,3126.535,3127.087,--and might not be--
+1993.92-1812,1,18976,carlton_f_gunn,,3127.087,3127.553,--I'm sorry.
+1993.92-1812,1,15084,ruth_bader_ginsburg,scotus_justice,3127.553,3141.411,"--What you're saying is that this... your reading of the statute puts pressure on the State officer to contact the Federal officer promptly, and yet this is a code directed to Federal officers, not State officers."
+1993.92-1812,1,18976,carlton_f_gunn,,3141.411,3148.416,"It's a code directed I think, Your Honor, to the Federal courts, and the way Federal courts are to use evidence in their courts."
+1993.92-1812,1,15141,william_h_rehnquist,scotus_justice,3163.276,3164.56,"Thank you, Mr. Gunn."
+1993.92-1812,1,18976,carlton_f_gunn,,3164.56,3165.31,"Thank you, Your Honor."
+1993.92-1812,1,15141,william_h_rehnquist,scotus_justice,3165.31,3167.712,"Mr. Estrada, you have 4 minutes remaining."
+1993.92-1812,2,35754,miguel_a_estrada,,3167.712,3176.234,"Thank you, Mr. Chief Justice."
+1993.92-1812,2,15141,william_h_rehnquist,scotus_justice,3295.513,3296.947,"Thank you, Mr. Estrada."

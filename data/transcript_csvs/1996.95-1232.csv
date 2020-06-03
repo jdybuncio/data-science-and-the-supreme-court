@@ -1,0 +1,56 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1996.95-1232,0,15141,william_h_rehnquist,scotus_justice,0.0,9.347,"We'll hear argument next in Number 95-1232, General Motors Corporation v. Roger W. Tracy."
+1996.95-1232,0,42609,timothy_b_dyk,,25.699,25.839,Mr. Chief Justice and may it please the Court:
+1996.95-1232,0,15141,william_h_rehnquist,scotus_justice,61.943,68.419,"When you say discriminate, Mr. Dyk, you suggest that these two entities should be treated as equals."
+1996.95-1232,0,42609,timothy_b_dyk,,68.419,69.217,"--Well, I--"
+1996.95-1232,0,15141,william_h_rehnquist,scotus_justice,69.217,71.507,That there aren't really any factors that distinguish them.
+1996.95-1232,0,42609,timothy_b_dyk,,71.507,74.84,"--There are no factors that distinguish them in our view, Mr. Chief Justice."
+1996.95-1232,0,15092,sandra_day_oconnor,scotus_justice,90.501,93.794,"Well, but isn't it a public utility that we're talking about?"
+1996.95-1232,0,42609,timothy_b_dyk,,93.794,99.768,"--Justice O'Connor, it is a public utility, but the sales by the public utility are not regulated sales."
+1996.95-1232,0,15092,sandra_day_oconnor,scotus_justice,99.768,111.384,"Well, I'm very concerned about your theory, frankly, because it seems to me that your theory would really eviscerate public regulation of public utilities."
+1996.95-1232,0,42609,timothy_b_dyk,,111.384,113.355,"Well, I don't think so, Justice O'Connor."
+1996.95-1232,0,15092,sandra_day_oconnor,scotus_justice,155.343,162.379,But I assume that the overall rate the utility can earn is limited by regulation.
+1996.95-1232,0,42609,timothy_b_dyk,,162.379,163.478,"--Not in these sales, Justice O'Connor."
+1996.95-1232,0,15113,anthony_m_kennedy,scotus_justice,184.161,202.844,"Was this a new statute, Mr. Dyk, or was... the statutory permission for the utilities to do unregulated sales, was that statute in effect during the tax period here in question?"
+1996.95-1232,0,42609,timothy_b_dyk,,202.844,205.136,--It wasn't a statute during the tax period in question.
+1996.95-1232,0,15113,anthony_m_kennedy,scotus_justice,246.212,261.433,"Suppose the unregulated sales were subject to the sales tax so that there would be equivalence between the utility's unregulated sales and the interstate sales, would your case then go away, or would you still argue that there's discrimination?"
+1996.95-1232,0,42609,timothy_b_dyk,,261.433,262.294,I still... I would--
+1996.95-1232,0,15113,anthony_m_kennedy,scotus_justice,262.294,263.974,I take it your theory is that there's still discrimination.
+1996.95-1232,0,42609,timothy_b_dyk,,263.974,291.743,"--I think that... that is not this case, but there is still discrimination involved, because the public utilities are allowed, under an Ohio law, to file volume discount tariffs and things of that sort which allow them to compete even under the tariffs, and this October 1987 order of the public utilities commission which I mentioned shows on its face that Northeast Gas in that particular case was able to compete and actually offer a lower price pursuant to these tariffs."
+1996.95-1232,0,15141,william_h_rehnquist,scotus_justice,291.743,297.286,"But public utilities have a number of other burdens on them, do they not, particularly serving retail customers."
+1996.95-1232,0,42609,timothy_b_dyk,,304.562,320.992,"They may, Mr. Chief Justice, but they also engage in this unregulated business, and the fact that they are a favored local industry, that the State wishes to protect theme, has not in this Court's other Commerce Clause cases been a sufficient basis for discrimination."
+1996.95-1232,0,15141,william_h_rehnquist,scotus_justice,320.992,324.814,"But don't you have to look at their entire business, and not just the part that you single out?"
+1996.95-1232,0,42609,timothy_b_dyk,,324.814,327.716,"I don't think so, Mr. Chief Justice."
+1996.95-1232,0,15049,antonin_scalia,scotus_justice,359.887,383.834,"Mr. Dyk, when you say that these nontariff sales are not part of its regular business, is it also the case that for purposes of determining what their allowable rate of return will be, the profits they make from these sales are not considered, it's just the separate... they can make as much money as they want from these nonregulated sales, and it will not be considered in fixing their tariffs for the next year."
+1996.95-1232,0,42609,timothy_b_dyk,,383.834,385.093,"That is my understanding, Justice Scalia--"
+1996.95-1232,1,33001,jeffrey_s_sutton,,1443.976,1452.431,"Thank you, Mr. Chief Justice, may it please the Court:"
+1996.95-1232,1,15092,sandra_day_oconnor,scotus_justice,1520.656,1528.973,"Well, do we have to take this case on the basis that we assume they were tariff-regulated sales?"
+1996.95-1232,1,33001,jeffrey_s_sutton,,1528.973,1544.652,"--Your Honor, yes, I think you do, but I can make another point, and that is that even if they were nontariff sales, let's say the record actually did support their argument, they've got another hurdle to clear, and that's that Ohio has a doctrine called the dual capacity doctrine."
+1996.95-1232,1,15141,william_h_rehnquist,scotus_justice,1604.753,1607.083,This is a decision of the supreme court of Ohio?
+1996.95-1232,1,33001,jeffrey_s_sutton,,1607.083,1609.254,"The Carnegie decision, Your Honor, is not."
+1996.95-1232,1,15084,ruth_bader_ginsburg,scotus_justice,1624.384,1636.232,Was that the decision that said an out-of-State public utility regulated by some other State but not Ohio remains a public utility even though it's acting as a marketer in Ohio?
+1996.95-1232,1,33001,jeffrey_s_sutton,,1636.232,1638.624,"Your Honor, that is the decision."
+1996.95-1232,1,15084,ruth_bader_ginsburg,scotus_justice,1638.624,1643.158,And is... are you adhering to that decision?
+1996.95-1232,1,33001,jeffrey_s_sutton,,1652.764,1659.477,"Your Honor, the candid answer is the Ohio supreme court and the Ohio courts are wrestling with that issue right now."
+1996.95-1232,1,15113,anthony_m_kennedy,scotus_justice,1700.035,1703.966,"--Well, to the extent the case is as you first described it, it's... and I was listening to it."
+1996.95-1232,1,33001,jeffrey_s_sutton,,1716.745,1719.878,"Your Honor, that's not true, and if I said that, I misspoke."
+1996.95-1232,1,15113,anthony_m_kennedy,scotus_justice,1721.167,1722.049,You didn't say that.
+1996.95-1232,1,33001,jeffrey_s_sutton,,1724.309,1727.03,"--Well, I mis... would it be, I implied, you inferred."
+1996.95-1232,1,15084,ruth_bader_ginsburg,scotus_justice,1744.404,1751.787,"--Well, it may be the next case, but can you tell me under the new law, are the unregulated sales exempt from sales tax?"
+1996.95-1232,1,33001,jeffrey_s_sutton,,1751.787,1753.818,"--Your Honor, the new law does not address that."
+1996.95-1232,1,15084,ruth_bader_ginsburg,scotus_justice,1753.818,1758.062,"Well, either they're... they have an exemption under current law."
+1996.95-1232,1,33001,jeffrey_s_sutton,,1761.425,1766.317,"Your Honor, what I'm saying is, the new law went into effect a month ago."
+1996.95-1232,1,15060,john_paul_stevens,scotus_justice,1777.373,1785.551,"Yes, but until that law of a month or so ago, during the period developed in this lawsuit, if the utility made unregulated sales, they were exempt from tax."
+1996.95-1232,1,33001,jeffrey_s_sutton,,1788.092,1789.031,--Your Honor--
+1996.95-1232,1,15060,john_paul_stevens,scotus_justice,1789.031,1789.582,If they made any.
+1996.95-1232,1,33001,jeffrey_s_sutton,,1789.582,1792.875,"--Your Honor, it's not entirely clear."
+1996.95-1232,1,15049,antonin_scalia,scotus_justice,1835.182,1854.484,"Mr. Sutton, did you want us to decide this case on your assumption, or would you be content with a narrow decision that says, at least since we don't know in this case that any nontariff sales are exempted from the tax, it's certainly okay to exempt tariff sales from the tax, it's certainly okay to exempt tariff sales from the tax, and that's all we have to decide?"
+1996.95-1232,1,33001,jeffrey_s_sutton,,1854.484,1855.646,"Your Honor, that's correct."
+1996.95-1232,1,15049,antonin_scalia,scotus_justice,1857.436,1858.798,"You'll... what's correct, that you'll take the latter?"
+1996.95-1232,1,33001,jeffrey_s_sutton,,1858.798,1860.678,"--Absolutely, Your Honor."
+1996.95-1232,1,15049,antonin_scalia,scotus_justice,1860.678,1861.249,Take the latter and run.
+1996.95-1232,1,33001,jeffrey_s_sutton,,1861.249,1862.741,"Absolutely, which is precisely the way the--"
+1996.95-1232,2,42609,timothy_b_dyk,,3140.857,3157.498,"Just very briefly, Mr. Chief Justice, Mr. Sutton suggests that he's not sure, but maybe these unregulated sales by public utilities would not be taxed, would not be exempt."
+1996.95-1232,2,15113,anthony_m_kennedy,scotus_justice,3211.723,3229.203,"What's your best case that we look to of congressional policy in determining whether or not there's a violation of the dormant Commerce Clause, some of the rubbish cases, or... I can't think of a Commerce Clause case where we specifically really rely on the congressional policy."
+1996.95-1232,2,42609,timothy_b_dyk,,3229.203,3243.625,"I can't remember one either, Justice Kennedy, but suggest that this might be an appropriate instance in which to rely on that policy as illuminating the meaning of the Commerce Clause, but we think we don't need that."
+1996.95-1232,2,15141,william_h_rehnquist,scotus_justice,3250.96,3252.282,"Thank you, Mr. Dyk."

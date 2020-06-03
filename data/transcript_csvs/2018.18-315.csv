@@ -1,0 +1,164 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2018.18-315,0,15086,john_g_roberts_jr,scotus_justice,0.0,10.04,"We'll hear argument this morning in Case 18-315, Cochise Consultancy versus the United States, ex rel. Billy Joe Hunt. Mr. Boutrous."
+2018.18-315,0,42418,theodore_j_boutrous_jr,,10.04,42.92,"Mr. Chief Justice, and may it please the Court: The Eleventh Circuit held that a relator who waited seven years to file suit after witnessing an alleged fraud against the United States Government was entitled to rely on the equitable tolling principle, the discovery rule, that is established by Section 3731(b)(2) of the False Claims Act, even though the government declined to intervene in the suit. Under this approach, a relator could conceal from the United States and could wait to sue for a decade and still take advantage of the principle of equitable tolling."
+2018.18-315,0,15084,ruth_bader_ginsburg,scotus_justice,98.2,120.2,"Isn't the United States in some sense a party even if it hasn't intervened? After all, it's going to get the lion's share of the recovery, and, if I understand correctly, it -- the suit can't be dismissed without notice and -- and approval by the United States."
+2018.18-315,0,42418,theodore_j_boutrous_jr,,120.2,123.96,"The government does have certain rights, Your Honor, when it does not intervene, but it is not a party."
+2018.18-315,0,62836,neil_gorsuch,scotus_justice,180.2,191.12,"Mr. Boutrous, I understand your argument that a non-intervention case is not a civil action under Section 3730 for purposes of (b)(2)."
+2018.18-315,0,42418,theodore_j_boutrous_jr,,219.24,224.0,"Yeah, I don't think it's -- it's difficult at all, Your Honor, and in -- in Graham, the Court said that --"
+2018.18-315,0,62836,neil_gorsuch,scotus_justice,224.0,226.68,But Graham -- let -- let -- sorry to interrupt you there.
+2018.18-315,0,42418,theodore_j_boutrous_jr,,226.68,227.0,Yes.
+2018.18-315,0,62836,neil_gorsuch,scotus_justice,227.0,231.28,But I just put my cards on the table so you can -- you can play them as you wish.
+2018.18-315,0,42418,theodore_j_boutrous_jr,,256.44,260.12,"Well, actually, Your Honor, in Graham, that exact issue was presented."
+2018.18-315,0,62836,neil_gorsuch,scotus_justice,335.64,352.16,"But just so I understand your argument, and we can -- we can put it in a nutshell and then you can move on, you read that language, a civil action under 3730, to mean cases where there's no intervention when we come to (b)(1) but not (b)(2), is that right?"
+2018.18-315,0,42418,theodore_j_boutrous_jr,,352.16,356.4,"In -- in (b)(2), we read it to mean there -- yes, that's correct, Your Honor."
+2018.18-315,0,62836,neil_gorsuch,scotus_justice,356.4,356.48,Yeah.
+2018.18-315,0,42418,theodore_j_boutrous_jr,,356.48,358.64,That there must be intervention under (b)(2).
+2018.18-315,0,62836,neil_gorsuch,scotus_justice,359.36,363.0,So -- so the United States is a party for purposes of (b)(1) but not (b)(2) --
+2018.18-315,0,42418,theodore_j_boutrous_jr,,363.0,364.08,It -- (b) --
+2018.18-315,0,62836,neil_gorsuch,scotus_justice,364.08,364.96,-- put differently?
+2018.18-315,0,42418,theodore_j_boutrous_jr,,364.96,369.76,-- (b) -- (b)(1) does not refer -- does not distinguish between the United States and the relator.
+2018.18-315,0,62836,neil_gorsuch,scotus_justice,369.76,370.0,Right.
+2018.18-315,0,42418,theodore_j_boutrous_jr,,370.0,371.0,(b)(2) does.
+2018.18-315,0,15094,elena_kagan,scotus_justice,381.12,388.44,"Does -- does that mean, Mr. Boutrous, that the statute of limitations can change in the middle of the lawsuit if the government decides to intervene?"
+2018.18-315,0,42418,theodore_j_boutrous_jr,,388.44,390.52,"It doesn't change, Your Honor."
+2018.18-315,0,15131,sonia_sotomayor,scotus_justice,457.12,512.44,"But you see, the problem I have is that I know that it appears to give the relator more of a statute of limitations than the government, but, if you look at this statute more broadly, which is that its purpose is to ensure that when some fraud has occurred against the U.S., that there is recovery for the United States, and the qui tam actions, whether it's the relator or the U.S. prosecuting it, the recovery in bulk, as Justice Ginsburg mentioned, goes to the government. So there is a purpose to this and one that makes logical sense, which is why should it matter that it's the government's knowledge that is at issue when it's the government who stands to benefit from a longer statute of limitations?"
+2018.18-315,0,42418,theodore_j_boutrous_jr,,512.44,516.08,"Well, the -- Your Honor, the government would benefit from the longer statute of limitations."
+2018.18-315,0,15131,sonia_sotomayor,scotus_justice,517.48,535.04,"No, but you're forcing it to do something that the statute clearly doesn't want to force the government to do, which is you're forcing it to step into the shoes of the relator, but the statute clearly gives the government the option not to. And you're saying read this in a way that forces the government to do it."
+2018.18-315,0,42418,theodore_j_boutrous_jr,,535.04,536.72,"Well, it wouldn't be forced, Your Honor."
+2018.18-315,0,15131,sonia_sotomayor,scotus_justice,578.76,598.08,"Well, no longer, because, in 1996, Congress made one of the factors relevant to how much a relator recovers whether they were dilatory in bringing the action. I know that has little to do with the original interpretation, but that's not a consequence today."
+2018.18-315,0,42418,theodore_j_boutrous_jr,,598.08,598.4,But --
+2018.18-315,0,15131,sonia_sotomayor,scotus_justice,598.4,600.28,There's still a direct incentive.
+2018.18-315,0,42418,theodore_j_boutrous_jr,,600.28,601.4,-- it can have an effect.
+2018.18-315,0,15086,john_g_roberts_jr,scotus_justice,624.48,632.52,"Well, that's -- that's really more of an academic concern. The relators, for example, they know if they don't move promptly, another relator might preempt them."
+2018.18-315,0,42418,theodore_j_boutrous_jr,,646.96,650.96,"Well, Your Honor, that -- this case proves the opposite."
+2018.18-315,0,15084,ruth_bader_ginsburg,scotus_justice,681.68,685.72,But you just -- you just -- you prefaced this by saying if the claim is baseless.
+2018.18-315,0,42418,theodore_j_boutrous_jr,,688.88,704.16,"Well, but -- but, Your Honor, these False Claims Act, I think the amicus briefs demonstrate, they do present a problem potentially of abuse, and -- and throughout history, qui tam actions have created such problems."
+2018.18-315,0,17766,brett_m_kavanaugh,scotus_justice,713.72,713.92,You're --
+2018.18-315,0,42418,theodore_j_boutrous_jr,,713.92,720.64,"But the point is, even if the incentives are -- there are incentives there, this is another thing that a relator could consider."
+2018.18-315,0,17766,brett_m_kavanaugh,scotus_justice,727.64,733.44,You're not arguing that it would be absurd to read it as Respondent and the Solicitor General read it?
+2018.18-315,0,42418,theodore_j_boutrous_jr,,733.44,733.88,We are not.
+2018.18-315,0,17766,brett_m_kavanaugh,scotus_justice,737.0,742.76,"Counterintuitive, Congress likely did not mean what it said, it seems to be what you're suggesting?"
+2018.18-315,0,42418,theodore_j_boutrous_jr,,742.76,743.68,"No, Your Honor."
+2018.18-315,0,15084,ruth_bader_ginsburg,scotus_justice,751.76,753.4,Except it didn't say that.
+2018.18-315,0,42418,theodore_j_boutrous_jr,,772.36,777.4,"Justice Ginsburg, I think we crossed that bridge in Graham, the fact that -- that that language --"
+2018.18-315,0,15084,ruth_bader_ginsburg,scotus_justice,777.4,782.52,But Graham was -- Graham was a retaliation claim.
+2018.18-315,0,42418,theodore_j_boutrous_jr,,813.16,815.04,That was one aspect of Graham.
+2018.18-315,0,17766,brett_m_kavanaugh,scotus_justice,861.96,866.44,Why is this imprecise? It seems very clear.
+2018.18-315,0,42418,theodore_j_boutrous_jr,,876.0,891.04,"Well, Your Honor, I think that, one, we have to -- it's -- it's -- it's -- you can only interpret the statute by understanding or viewing the language ""action under Section 3730"" as appearing in both provisions. It really does."
+2018.18-315,0,62836,neil_gorsuch,scotus_justice,923.08,924.8,Let's talk about common sense.
+2018.18-315,0,17766,brett_m_kavanaugh,scotus_justice,924.8,925.8,What do you do --
+2018.18-315,0,62836,neil_gorsuch,scotus_justice,925.8,926.84,"Oh, I'm sorry."
+2018.18-315,0,17766,brett_m_kavanaugh,scotus_justice,926.84,927.92,Go ahead.
+2018.18-315,0,62836,neil_gorsuch,scotus_justice,927.92,928.64,"No, please."
+2018.18-315,0,17766,brett_m_kavanaugh,scotus_justice,928.64,930.24,Go ahead. (Laughter.)
+2018.18-315,0,62836,neil_gorsuch,scotus_justice,930.24,930.48,All right.
+2018.18-315,0,62836,neil_gorsuch,scotus_justice,933.32,984.16,"This common sense we keep coming back to, I -- I guess I'm struggling to get my head around it. Congress, you suggest, wants to encourage relators to act quickly, but it has a number of other tools for ensuring that, as the Chief Justice pointed out. And, in any event, it really boils down to these last three years, seven through ten, and whether Congress would have thought that we want relators to -- we want to outsource work to relators years one through six, but not seven through ten, for the reasons that we want to encourage relators to act quickly. But couldn't a rational Congress think, well, we want to outsource the work to relators seven through ten as well, and why is that absurd or unlikely or why does that defy common sense? I guess I'm just struggling to understand that argument."
+2018.18-315,0,42418,theodore_j_boutrous_jr,,984.16,1008.84,"Because, Your Honor, first, six years is a long time for a statute of limitations for fraud, number one. Number two, we're talking about equitable tolling that is pegged on diligence and that the -- that the party who is bringing the case acted diligently. As the Court said in Credit Suisse, it's inequitable to continue to toll a statute of limitations once the plaintiff knows there's been an injury and they have a claim."
+2018.18-315,0,15068,samuel_a_alito_jr,scotus_justice,1027.68,1057.64,"Well, Congress -- Congress certainly could have wanted to give relators ten years to file suit, but that's not really the question. The question is did they want relators to file suit between years seven and ten in those cases where, A, the government didn't know about the fraud until year seven and the government chooses not to bring the case on its own."
+2018.18-315,0,42418,theodore_j_boutrous_jr,,1057.64,1059.44,Correct.
+2018.18-315,0,15068,samuel_a_alito_jr,scotus_justice,1080.6,1090.72,"I mean, this is a -- this is an interesting case because it really does create a statutory interpretation dilemma. This is a -- a terribly-drafted statute."
+2018.18-315,0,15068,samuel_a_alito_jr,scotus_justice,1100.8,1125.0,But you have a real -- you have a real problem in trying to fit this into the statutory text. The other side I think has a real problem if they want to argue that this -- their argument makes that Congress really -- anybody in Congress really intended the result that they -- that they're advocating. So what's your best shot at fitting this into the statutory text?
+2018.18-315,0,42418,theodore_j_boutrous_jr,,1125.0,1152.28,"My best shot, Your Honor, is that the -- the -- the language ""action under Section 3730"" is incorporated into Section 3731(b)(2), and that provision is triggered when -- when the official who is charged with responsibility to file a timely action had knowledge and they must do so within three years. And that's what the Fourth Circuit said in Sanders."
+2018.18-315,0,15086,john_g_roberts_jr,scotus_justice,1196.0,1197.08,"Well, but, I mean, this --"
+2018.18-315,0,42418,theodore_j_boutrous_jr,,1197.08,1197.84,We think our --
+2018.18-315,0,15086,john_g_roberts_jr,scotus_justice,1197.84,1211.16,"These types of actions are exceptional in many -- many ways, but the -- the concerns you raise about delay and all that, aren't -- aren't they at least significantly addressed with the ten-year statute of repose?"
+2018.18-315,0,42418,theodore_j_boutrous_jr,,1211.16,1211.92,"No, Your Honor."
+2018.18-315,0,15086,john_g_roberts_jr,scotus_justice,1248.88,1253.32,"Well, we have quite a few cases that started, you know, ten years ago."
+2018.18-315,0,42418,theodore_j_boutrous_jr,,1253.32,1256.16,But they weren't filed at the ten-year mark.
+2018.18-315,0,17766,brett_m_kavanaugh,scotus_justice,1299.48,1319.6,"Well, the state -- the states have an amicus brief that says no -- no state has a statute of limitations that explicitly adopts the rules reflected in -- the rule reflected in Petitioners' tortured interpretation of the FCA; it is Petitioners' proposed rule, not the FCA's plain meaning, that is absurd. So that is from 20 states."
+2018.18-315,0,42418,theodore_j_boutrous_jr,,1322.0,1326.88,Their assessment really has no bearing on what Congress intended in 1986.
+2018.18-315,0,17766,brett_m_kavanaugh,scotus_justice,1327.76,1338.0,"But their assessment does have some bearing on how we think about how it fits into the overall context of these kinds of cases, and that's been really the thrust of your argument, I think."
+2018.18-315,0,42418,theodore_j_boutrous_jr,,1338.0,1358.6,"Well, I -- I -- I think that the -- that it does not have any bearing. I think it's incorrect because, again, I go back to the point that it's -- it's not equitable, it's not fair, it's -- it's contrary to the purposes of the False Claims Act, which are meant to incentivize in all ways relators coming forward."
+2018.18-315,0,15094,elena_kagan,scotus_justice,1379.64,1391.0,"It seems to me that, you know, this statute reflects a Congress that just decided that it did not want the government's decision whether to intervene to affect the statute of limitations."
+2018.18-315,0,42418,theodore_j_boutrous_jr,,1427.28,1434.2,"Theoretically, Congress could have thought through that carefully, Your Honor, and gone through that analysis, but there's no indication that it did."
+2018.18-315,0,15094,elena_kagan,scotus_justice,1434.2,1438.92,"Well, the indication is that they wrote a provision where nothing turns on intervention."
+2018.18-315,0,42418,theodore_j_boutrous_jr,,1438.92,1449.4,"Well, Your Honor, I would respectfully submit that it's ambiguous. It's not clear, because the Congress used the language ""action under Section 3730"" imprecisely --"
+2018.18-315,0,17766,brett_m_kavanaugh,scotus_justice,1449.4,1449.88,What --
+2018.18-315,0,42418,theodore_j_boutrous_jr,,1449.88,1453.6,-- to sometimes refer to subsets of -- of those claims.
+2018.18-315,0,15068,samuel_a_alito_jr,scotus_justice,1456.92,1464.08,"Well, why do you -- why do you argue that (b)(2) applies when the government intervenes? Why don't you just argue that (b)(2) applies only when the government itself brings suit?"
+2018.18-315,0,42418,theodore_j_boutrous_jr,,1464.08,1468.12,"That -- that would be another way to look at it, Your Honor."
+2018.18-315,0,17766,brett_m_kavanaugh,scotus_justice,1503.4,1508.52,Where -- where is the ambiguity? I'm not seeing ambiguity. Where exactly is the phrase that you think is ambiguous?
+2018.18-315,0,42418,theodore_j_boutrous_jr,,1508.52,1510.8,"Well, it's -- it's a combination of things, Your Honor."
+2018.18-315,0,17766,brett_m_kavanaugh,scotus_justice,1550.2,1559.24,"If it's -- if it's not ambiguous, then I don't think there is a statutory interpretation canon any longer that says we can conclude that Congress didn't mean what it said."
+2018.18-315,0,42418,theodore_j_boutrous_jr,,1568.84,1584.28,"There is, Your Honor. The Court's decision in Barnhart, which Respondents cite in their brief at page 20, says that if the text is -- if the -- the inquiry ceases if the statutory language is unambiguous and the statutory scheme is coherent and consistent."
+2018.18-315,0,15086,john_g_roberts_jr,scotus_justice,1594.8,1596.92,"Thank you, counsel. Mr. Mayfield."
+2018.18-315,1,63109,earl_n_mayfield_iii,,1596.92,1610.36,"Mr. Chief Justice, may it please the Court: Section 31 -- 3731(b) is an event-based statute of limitations that makes no distinction as to the party to whom it applies."
+2018.18-315,1,62836,neil_gorsuch,scotus_justice,1676.88,1683.8,"Well, counsel, your argument would have a lot more appeal if we didn't have Graham County knocking around out there."
+2018.18-315,1,63109,earl_n_mayfield_iii,,1690.92,1691.24,"Yes, Your Honor."
+2018.18-315,1,62836,neil_gorsuch,scotus_justice,1691.24,1693.52,"But, in Graham County, we held it didn't mean what it seems to mean."
+2018.18-315,1,63109,earl_n_mayfield_iii,,1702.0,1719.04,"Yes, Justice Gorsuch. In Graham County, we had the anomalous situation where Congress simply forgot to provide an applicable statute of limitations to the retaliation provision that it had added in 1986. If one reads part (b)(1) and part (b)(2), both of those refer by their terms to false claims."
+2018.18-315,1,15086,john_g_roberts_jr,scotus_justice,1828.36,1834.4,"Your friend relied on the, if I'm remembering right, the United Air Regulatory case."
+2018.18-315,1,63109,earl_n_mayfield_iii,,1834.4,1834.92,"Yes, Your Honor."
+2018.18-315,1,15086,john_g_roberts_jr,scotus_justice,1834.92,1837.52,How do you distinguish that?
+2018.18-315,1,63109,earl_n_mayfield_iii,,1837.52,1845.8,"Your Honor, in this case, we have a mechanism by which the Department always screens the cases."
+2018.18-315,1,15068,samuel_a_alito_jr,scotus_justice,1910.48,1911.96,I think Congress could have done a lot of things.
+2018.18-315,1,63109,earl_n_mayfield_iii,,1949.56,1955.0,"Well, Your Honor, in all cases, the tolling provision would act to a defendant's benefit."
+2018.18-315,1,15068,samuel_a_alito_jr,scotus_justice,1991.96,1996.64,"Well, the government could always bring this within ten years, could it not?"
+2018.18-315,1,63109,earl_n_mayfield_iii,,1996.64,2000.64,"It would depend, Your Honor, on the tolling provision."
+2018.18-315,1,15068,samuel_a_alito_jr,scotus_justice,2011.4,2011.92,Right.
+2018.18-315,1,63109,earl_n_mayfield_iii,,2018.68,2033.96,"Well, the reason, Your Honor, it's -- it's both to spur the Department, the '86 amendments make clear that the Department said it wanted more time because these frauds were often hidden. But it also put an outer limit on it. Congress could have said five years or ten years for the tolling provision."
+2018.18-315,1,15068,samuel_a_alito_jr,scotus_justice,2044.84,2047.16,"Yeah, well, then you have a discovery rule for the relator."
+2018.18-315,1,63109,earl_n_mayfield_iii,,2047.16,2049.8,"Which Congress elected not to do, Justice Alito."
+2018.18-315,1,15068,samuel_a_alito_jr,scotus_justice,2049.8,2050.36,Right.
+2018.18-315,1,63109,earl_n_mayfield_iii,,2051.24,2054.32,"And so the question is why would that be rational, and the reason it would be --"
+2018.18-315,1,15068,samuel_a_alito_jr,scotus_justice,2054.32,2054.4,Yeah.
+2018.18-315,1,63109,earl_n_mayfield_iii,,2055.52,2064.76,"The reason it would be rational, Your Honor, is because the government ultimately benefits from the relator's action. If there is no knowledge issue and the relator is timely, he brings a suit, the government gets the money."
+2018.18-315,1,15068,samuel_a_alito_jr,scotus_justice,2064.76,2085.48,"Yeah, I understand the government benefits, but that would argue in favor of a ten-year statute of limitations. If the government chooses not to bring suit, why does it matter whether the government knew about this fraud before year seven or didn't know about the year -- about it before year seven? That's what I'm trying to get at."
+2018.18-315,1,63109,earl_n_mayfield_iii,,2085.48,2089.68,"I think Congress created a balancing to protect defendants, Justice Alito."
+2018.18-315,1,15068,samuel_a_alito_jr,scotus_justice,2155.64,2159.24,Why didn't your client bring it to the government's attention sooner?
+2018.18-315,1,63109,earl_n_mayfield_iii,,2159.24,2163.04,"It's not in the record, Your Honor, but my client was -- first, he was serving in Iraq."
+2018.18-315,1,15131,sonia_sotomayor,scotus_justice,2175.76,2187.28,"So what inducement is there -- I'm taking that you're agreeing with the United States that officials of the United States, you believe, also are just the Department of Justice official."
+2018.18-315,1,63109,earl_n_mayfield_iii,,2187.28,2188.08,"That is correct, Your Honor."
+2018.18-315,1,15131,sonia_sotomayor,scotus_justice,2188.08,2193.16,It's sort of interesting that this statute doesn't define who officials are.
+2018.18-315,1,63109,earl_n_mayfield_iii,,2215.24,2216.6,"Well, ultimately, it was, Your Honor."
+2018.18-315,1,15131,sonia_sotomayor,scotus_justice,2256.2,2267.92,"So why didn't Congress reference that? Why didn't they, instead of just saying official of the United States, say official designated under the subsection you just mentioned?"
+2018.18-315,1,63109,earl_n_mayfield_iii,,2267.92,2268.84,"We don't know, Your Honor."
+2018.18-315,1,15131,sonia_sotomayor,scotus_justice,2271.04,2273.72,Other than Justice Alito's point that it's poorly written.
+2018.18-315,1,63109,earl_n_mayfield_iii,,2273.72,2281.96,"I think that -- I think that's fair, Your Honor, it is poorly written, which is why there are the plenary -- or, rather, plethora of these cases coming to the court. But they did borrow that."
+2018.18-315,1,15068,samuel_a_alito_jr,scotus_justice,2325.96,2348.4,"And what happens if a relator brings a suit, the government chooses not to intervene, but then, as the suit goes on, the -- the -- it -- it appears that the relator is not fulfilling -- is not litigating the case in a -- in a diligent way? What can the government do at that point?"
+2018.18-315,1,63109,earl_n_mayfield_iii,,2348.4,2372.08,"Justice Alito, the statute specifically provides for that because, at any time, the Department of Justice can dismiss the False Claims Act suit or, in the alternative, which also happens, it can take it over. It can do a -- there are -- although it does not happen frequently, there are occasions where the Department looks at a suit that's been in the system for some years and says: You know what, we will -- we will take that over after all."
+2018.18-315,1,15068,samuel_a_alito_jr,scotus_justice,2372.08,2378.72,So the -- the relator does have some responsibilities with respect to the prosecution of the suit in the name of the United States?
+2018.18-315,1,63109,earl_n_mayfield_iii,,2378.72,2381.76,Only with respect to his relationship to the Department.
+2018.18-315,1,15068,samuel_a_alito_jr,scotus_justice,2389.64,2391.08,"No, no, that's not my point."
+2018.18-315,1,63109,earl_n_mayfield_iii,,2393.4,2393.72,That's correct.
+2018.18-315,1,15068,samuel_a_alito_jr,scotus_justice,2393.72,2397.04,"The relator is, in effect, representing the United States."
+2018.18-315,1,63109,earl_n_mayfield_iii,,2406.2,2413.6,"The government always has the ultimate ability to take over the case, Justice Alito."
+2018.18-315,1,15068,samuel_a_alito_jr,scotus_justice,2416.68,2416.84,Yeah.
+2018.18-315,1,63109,earl_n_mayfield_iii,,2428.12,2456.24,"Because under no circumstances could the relator, who has taken no oath to the Constitution, is not employed in any way by the government, and is not answerable to the government during the course of the litigation in terms of if he decides to take witness A or to ask for specific documents, he's not carrying out a government policy, to differentiate from Dixson, which the Petitioners relied on. In that case, you had individuals who, by contract, were dispensing federal housing funds."
+2018.18-315,1,15068,samuel_a_alito_jr,scotus_justice,2456.24,2456.36,Yeah.
+2018.18-315,1,63109,earl_n_mayfield_iii,,2460.56,2479.88,"Not at all, Your Honor. It's just simply the degree to which the assignment gives the -- the government's agent in this case free reign. The ultimate outcome of the case, whether or not it's dismissed, intervened, or settled, is always up to the government."
+2018.18-315,1,15094,elena_kagan,scotus_justice,2518.92,2561.32,"Mr. Mayfield, am -- am I right that in certain circumstances this statute actually gives the relator a longer statute of limitations than the government has? In other words, take a case where the government finds out on day one about a fraud. The government, as I read the statute, then has six years. But, if the relator finds out on day one about a fraud and thinks it's the kind of fraud that the government or any -- nobody else will ever find out about, then that relator can sit on his rights for ten years, so the relator actually gets four more years than the government itself does. Is that right? And if it's right, why on earth does it make any sense?"
+2018.18-315,1,63109,earl_n_mayfield_iii,,2561.32,2568.44,"It's a -- it's a hypothetical that's not likely to happen in the real world, Justice Kagan, but it is hypothetically right."
+2018.18-315,1,15086,john_g_roberts_jr,scotus_justice,2587.12,2590.48,"Well, I suppose the -- I suppose the government can also find a relator, right?"
+2018.18-315,1,63109,earl_n_mayfield_iii,,2590.48,2592.56,"It could if it were that diligent, Your Honor."
+2018.18-315,1,15086,john_g_roberts_jr,scotus_justice,2592.56,2595.52,"I mean, short -- just short of year ten?"
+2018.18-315,1,63109,earl_n_mayfield_iii,,2595.52,2598.44,"If it -- if it were so inclined, it could, Your Honor."
+2018.18-315,1,15086,john_g_roberts_jr,scotus_justice,2631.64,2645.32,"Well, that's -- I don't know if that's more or less academic than your friend's hypothetical, but it certainly is academic that the United States would allow fraud to be continued to practice for, you know, nine years and 300 days or whatever."
+2018.18-315,1,63109,earl_n_mayfield_iii,,2645.32,2648.96,"Well, Mr. Chief Justice, it's actually probably more likely, but the reason would be different."
+2018.18-315,1,15086,john_g_roberts_jr,scotus_justice,2779.72,2787.32,"Thank you, counsel. Mr. Guarnieri."
+2018.18-315,2,63110,matthew_guarnieri,,2787.32,2796.32,"Mr. Chief Justice, and may it please the Court: I'd like to begin by addressing a question that Justice Kagan posed to Mr. Mayfield."
+2018.18-315,2,15068,samuel_a_alito_jr,scotus_justice,2834.44,2839.04,What's the textual basis for that?
+2018.18-315,2,63110,matthew_guarnieri,,2839.04,2876.48,"Both paragraphs 2 -- paragraph (b)(2) and paragraph (b)(1) both apply to a civil action under Section 3730. So, in any case, a court -- the tolling rules will be identical, whether or not the United States initiates the suit, the United States intervenes in a suit initiated by a relator, or the United States elects not to intervene in a suit initiated by a relator. The statute itself draws no distinction between those three categories of cases, and, therefore, we think the tolling rule and the six-year limitations period in (b)(1) will operate in the same way in all of those suits."
+2018.18-315,2,15094,elena_kagan,scotus_justice,2876.48,2880.4,"Yeah, I guess my hypothetical was a slightly different one."
+2018.18-315,2,63110,matthew_guarnieri,,2887.68,2888.08,That's correct.
+2018.18-315,2,15094,elena_kagan,scotus_justice,2888.08,2892.72,"But then I changed the case, essentially, and said, well, now we're dealing with a different case."
+2018.18-315,2,63110,matthew_guarnieri,,2906.72,2907.68,That's correct.
+2018.18-315,2,15068,samuel_a_alito_jr,scotus_justice,3051.2,3060.72,"Now, if the government decides it doesn't want to intervene, what difference does it make whether it knew about this fraud or not? That's what I just can't understand."
+2018.18-315,2,63110,matthew_guarnieri,,3060.72,3068.76,Congress chose to make the tolling rule applicable based on the knowledge of the United States.
+2018.18-315,2,15068,samuel_a_alito_jr,scotus_justice,3089.44,3089.64,"Well, it --"
+2018.18-315,2,63110,matthew_guarnieri,,3089.64,3090.28,-- and the structure --
+2018.18-315,2,15068,samuel_a_alito_jr,scotus_justice,3090.28,3101.68,-- deprives them of the assistance of a relator during those years if the government knew about this on day one. That really doesn't answer my question.
+2018.18-315,2,63110,matthew_guarnieri,,3101.68,3104.0,If the government knows about the fraud on day one --
+2018.18-315,2,15068,samuel_a_alito_jr,scotus_justice,3104.0,3104.36,Right.
+2018.18-315,2,63110,matthew_guarnieri,,3104.36,3110.16,-- Congress made a reasonable decision that the tolling period would extend only three years from that point in time.
+2018.18-315,2,15086,john_g_roberts_jr,scotus_justice,3139.48,3144.56,"Thank you, counsel. Three minutes, Mr. Boutrous."
+2018.18-315,3,42418,theodore_j_boutrous_jr,,3144.56,3148.68,"Thank you, Your Honor. I will -- I will begin with the last point that the United States has made."
+2018.18-315,3,15131,sonia_sotomayor,scotus_justice,3285.6,3286.56,The use of the word --
+2018.18-315,3,42418,theodore_j_boutrous_jr,,3286.56,3287.44,-- the prosecutor.
+2018.18-315,3,15131,sonia_sotomayor,scotus_justice,3287.44,3290.28,"-- ""officer"" is very different than a ""representative."""
+2018.18-315,3,42418,theodore_j_boutrous_jr,,3290.28,3291.08,It -- it actually --
+2018.18-315,3,15131,sonia_sotomayor,scotus_justice,3291.08,3305.12,"Or even ""agent."" Those are substantially different concepts. And so I do think the word ""official"" sounds -- means what it sounds like, an official and not a representative."
+2018.18-315,3,42418,theodore_j_boutrous_jr,,3305.12,3337.56,"Well, Your Honor, I would point to this Court's decision two years before the 1986 amendments in -- in United States versus Dixson, a criminal case where the Court held that the -- the words ""public officials"" under the federal bribery statute encompassed private corporate officers who were performing public responsibilities. And, here, it's -- it's not fair to say that the government -- that the relator is just on his own, the government does -- doesn't intervene, and then argue that our rule is wrong because the relator is doing this important work for the government."
+2018.18-315,3,15084,ruth_bader_ginsburg,scotus_justice,3340.08,3344.16,"""Agent"" is a different word than ""official."""
+2018.18-315,3,42418,theodore_j_boutrous_jr,,3344.16,3345.6,"But -- it -- it is, Your Honor."
+2018.18-315,3,15086,john_g_roberts_jr,scotus_justice,3353.28,0.0,"Thank you, counsel. The case is submitted."

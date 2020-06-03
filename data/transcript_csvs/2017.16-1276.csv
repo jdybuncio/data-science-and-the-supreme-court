@@ -1,0 +1,173 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2017.16-1276,0,15086,john_g_roberts_jr,scotus_justice,0.0,7.76,"We'll hear argument next in Case 16-1276, Digital Realty Trust versus Somers. Mr. Shanmugam."
+2017.16-1276,0,33978,kannon_k_shanmugam,,7.76,42.56,"Thank you, Mr. Chief Justice, and may it please the Court: The Dodd-Frank Act provides incentives to and protections for whistleblowers; that is, individuals who have reported securities law violations to the SEC. The question presented in this case is whether the statutory definition of whistleblower applies to the subsection of the statute that protects whistleblowers from retaliation for engaging in certain types of conduct. The answer to that question is yes. By its plain terms, the statutory definition applies to the entirety of the section, including the anti-retaliation provision."
+2017.16-1276,0,15084,ruth_bader_ginsburg,scotus_justice,157.0,166.32,What about employees who must report internally before they can report to the SEC?
+2017.16-1276,0,33978,kannon_k_shanmugam,,166.32,186.36,"So, Justice Ginsburg, where an employee reports internally and then suffers an adverse action in the immediate aftermath of doing so, the Sarbanes-Oxley Act will provide protection. In our view, the Dodd-Frank Act's anti-retaliation provision only applies to individuals who report to the SEC."
+2017.16-1276,0,15131,sonia_sotomayor,scotus_justice,300.12,342.04,"So can you please tell me, under your reading, what we make of subdivision (h)(1)(A)(ii)? It protects from discrimination an employee who's been fired for initiating, testifying in, or assisting in any investigation or judicial or administrative action of the Commission. Under what law is the employee who's called by the SEC after another employee reports the violation and assists the SEC in its investigation, under your reading, that employee is not protected?"
+2017.16-1276,0,33978,kannon_k_shanmugam,,342.04,342.32,So --
+2017.16-1276,0,15131,sonia_sotomayor,scotus_justice,342.32,349.0,And I -- and I don't know that that employee is protected under the Sarbanes-Oxley provision either.
+2017.16-1276,0,33978,kannon_k_shanmugam,,355.6,393.2,"So, Justice Sotomayor, I think you point up the reason why we actually think that our interpretation must be correct, and that is because the first and the second clauses in subsection (h)(1)(A) actually were already in the statute at the time that Congress made the judgment, to which I adverted a couple minutes ago, to replace the broader term ""employees, contractors, or agents"" with the narrower term ""whistleblower."" Now, it may very well be that an individual in your circumstance is not covered by the Sarbanes-Oxley Act, but the critical point is --"
+2017.16-1276,0,15131,sonia_sotomayor,scotus_justice,393.2,395.08,And they wouldn't be covered by this act either?
+2017.16-1276,0,33978,kannon_k_shanmugam,,395.08,395.4,They wouldn't.
+2017.16-1276,0,15131,sonia_sotomayor,scotus_justice,453.84,463.64,"Well, the SC -- SEC has always been arguing -- they'll speak for themselves, but they've always been arguing that ""whistleblower"" should be given a natural reading."
+2017.16-1276,0,33978,kannon_k_shanmugam,,493.8,494.96,They would not be --
+2017.16-1276,0,15131,sonia_sotomayor,scotus_justice,494.96,495.92,To read it the government's way?
+2017.16-1276,0,33978,kannon_k_shanmugam,,495.92,498.76,"They would not be so rendered, Justice Sotomayor, and let me address that."
+2017.16-1276,0,15094,elena_kagan,scotus_justice,553.08,584.56,"But isn't that disjunction quite odd? Right? A typical anti-retaliation provision, you would think, well, if I report internally and I'm fired for it, then I get my protection. But here you're saying they don't get protection, except if they do something completely unrelated, they might have made a report to the SEC about a completely different topic, they might have made it 10 years earlier, and that's going to give them protection even though they haven't been fired for anything remotely to do with that."
+2017.16-1276,0,33978,kannon_k_shanmugam,,584.56,587.64,"So, Justice Kagan, let me explain why I think that makes sense."
+2017.16-1276,0,15094,elena_kagan,scotus_justice,678.0,681.52,But if I could just -- I guess I just don't understand what the theory is.
+2017.16-1276,0,33978,kannon_k_shanmugam,,703.72,748.6,"So Congress was trying to create incentives for reporting to the SEC, and it did so by providing a carrot in the form of the incentives in the award provisions and a stick in the form of the anti-retaliation provision in cases where that employee, employee number 2, suffers retaliation, and, again, really without regard to whether the retaliation was because the employer happened to find out about the SEC report specifically and retaliated on that basis. But you do raise the question of this purported anomaly because you could potentially have a case in which the employee makes a report to the SEC and then reports some entirely unconnected conduct internally."
+2017.16-1276,0,15139,stephen_g_breyer,scotus_justice,848.4,880.92,"A question I would have for both sides really is, what do you think, is there any -- could the SEC here promulgate a regulation that would define the manner of reporting to the SEC, which manner would include the class of cases where the report or the information goes to an audit committee under circumstances such that, were the audit committee and others to do nothing about it, it would likely end up at the SEC's window?"
+2017.16-1276,0,33978,kannon_k_shanmugam,,880.92,883.8,So I don't think that the SEC could do that.
+2017.16-1276,0,15139,stephen_g_breyer,scotus_justice,883.8,884.2,Why not?
+2017.16-1276,0,33978,kannon_k_shanmugam,,884.2,890.72,Our core submission is that the SEC cannot dispense with the statutory requirement of reporting to the SEC.
+2017.16-1276,0,15139,stephen_g_breyer,scotus_justice,890.8,891.52,It doesn't.
+2017.16-1276,0,33978,kannon_k_shanmugam,,914.84,915.24,I don't think --
+2017.16-1276,0,15139,stephen_g_breyer,scotus_justice,915.24,923.0,"And it might not physically get there, but, nonetheless, this is a class of cases where quite likely it will get to the SEC."
+2017.16-1276,0,33978,kannon_k_shanmugam,,923.76,925.16,"Justice Breyer, I think it has to get there."
+2017.16-1276,0,15139,stephen_g_breyer,scotus_justice,926.12,927.72,You mean it actually has to get there?
+2017.16-1276,0,33978,kannon_k_shanmugam,,927.72,928.88,I -- I -- I think that the whistleblower --
+2017.16-1276,0,15139,stephen_g_breyer,scotus_justice,928.88,934.04,"So, if they're caught on the way because they don't get there because there's a snowstorm, doesn't count?"
+2017.16-1276,0,33978,kannon_k_shanmugam,,934.04,957.96,"Under the statutory language, and this is in the definition in subsection (a)(6), the whistleblower has to provide information to the Commission. Now, you're right that it goes on to say, ""in a manner, established by rule or regulation, by the Commission,"" and I would submit, Justice Breyer, that the Commission does have broad authority to issue a regulation concerning how that information has to be provided."
+2017.16-1276,0,15084,ruth_bader_ginsburg,scotus_justice,1012.2,1015.36,But aren't there comments to that effect?
+2017.16-1276,0,33978,kannon_k_shanmugam,,1015.36,1089.8,"There were three comments out of the 240 or so that seemed to suggest that the Commission might want to do that. But I don't think that the mere fact that there were a small number of comments that suggested that is an indication that interested parties as a whole were on notice that this issue was potentially in play. There were certainly some who thought that that would be desirable, but there is nothing in the notice of proposed rule-making, and to the extent that Respondent and the government cites some language that suggests that the Commission was considering broadening the application of the anti-retaliation provision and inviting comments to that effect, the very previous sentence in the notice of proposed rule-making indicates that the Commission intended to retain the requirement of reporting to the SEC. So, again, there was no notice, until such a time as the Commission came out with its final rule and converted the one statutory definition of whistleblower into two. And I think that there can be no better evidence of how nakedly atextual Respondent and the government's interpretation is than the final rule itself, which contains these two separate definitions, the one for purposes of the award provisions, and the other for purposes of the --"
+2017.16-1276,0,15139,stephen_g_breyer,scotus_justice,1089.8,1120.48,"Some law on this -- see, I don't know quite -- just as you put your finger on something I -- I don't know what to do with. I thought the argument made below was a plausible argument, that they have made a rule like the one I was just suggesting, and then you come back and say: Well, the rule-making proceeding was no good, they didn't tell anybody they were going to do this, and this is way beyond, dah-dah-dah. And then they say: But you should have raised this earlier."
+2017.16-1276,0,33978,kannon_k_shanmugam,,1138.44,1138.76,Sure.
+2017.16-1276,0,15139,stephen_g_breyer,scotus_justice,1144.04,1145.32,"You don't have to, if you don't want."
+2017.16-1276,0,33978,kannon_k_shanmugam,,1146.32,1148.48,"Well, let me address your question first."
+2017.16-1276,0,15086,john_g_roberts_jr,scotus_justice,1365.36,1369.28,"Thank you, counsel. Mr. Geyser."
+2017.16-1276,1,62794,daniel_l_geyser,,1369.28,1397.08,"Thank you, Mr. Chief Justice, and may it please the Court: The true elephant in the mouse hole here would be using the indirect use of the word whistleblower in subsection (h) to limit what is otherwise a broad and sweeping clause that aligns Dodd-Frank's amendment with the modern trend of major whistleblowing legislation. Now, to start with Justice Kagan's point, it is -- actually, it is exactly true that Petitioner's reading does create a serious anomaly."
+2017.16-1276,1,15139,stephen_g_breyer,scotus_justice,1440.96,1444.32,"Yeah, but he's protected under Sarbanes-Oxley, isn't he?"
+2017.16-1276,1,62794,daniel_l_geyser,,1444.32,1445.4,"Yes, Your Honor."
+2017.16-1276,1,15139,stephen_g_breyer,scotus_justice,1445.4,1451.6,So in all the differences that he has maybe a shorter statute of limitations and you have to go through an exhaustion procedure.
+2017.16-1276,1,62794,daniel_l_geyser,,1466.8,1469.08,"It is highly anomalous, Your Honor."
+2017.16-1276,1,15139,stephen_g_breyer,scotus_justice,1475.68,1476.16,It does.
+2017.16-1276,1,62794,daniel_l_geyser,,1480.24,1481.24,"Well, it reports --"
+2017.16-1276,1,15139,stephen_g_breyer,scotus_justice,1481.24,1483.56,And strengthens it just means you don't have to exhaust.
+2017.16-1276,1,62794,daniel_l_geyser,,1484.76,1492.76,But -- but it would strengthen it in a way that would not protect people who occasionally do report to the SEC and protect people who later don't report to the SEC.
+2017.16-1276,1,15131,sonia_sotomayor,scotus_justice,1506.6,1512.72,"I'm sorry, the -- the employer is rarely knowledgeable about the SEC filing."
+2017.16-1276,1,62794,daniel_l_geyser,,1516.88,1518.36,That -- that's -- exactly right.
+2017.16-1276,1,15131,sonia_sotomayor,scotus_justice,1518.36,1527.76,"So virtually always an employer is going to fire someone because of internal reporting, not because of SEC reporting."
+2017.16-1276,1,62794,daniel_l_geyser,,1527.76,1534.2,"That -- that's right, Your Honor, but what that really shows is that this is a highly unusual form of an anti-retaliation statute."
+2017.16-1276,1,15084,ruth_bader_ginsburg,scotus_justice,1568.44,1575.56,What about this case? Did -- did Somers avail himself of Sarbanes-Oxley or just Dodd-Frank?
+2017.16-1276,1,62794,daniel_l_geyser,,1575.56,1576.52,"Only Dodd-Frank, Your Honor."
+2017.16-1276,1,62836,neil_gorsuch,scotus_justice,1603.2,1608.4,"Well, I -- I'm just stuck on the plain language here, and maybe you can get me unstuck, but --"
+2017.16-1276,1,62794,daniel_l_geyser,,1608.4,1609.0,Sure.
+2017.16-1276,1,62836,neil_gorsuch,scotus_justice,1609.0,1626.68,"-- how much clearer could Congress have been than to say in this section the following definitions shall apply, and whistleblower is defined as including a report to the Commission. What else would you have had Congress do if it had wanted to achieve that which your opponent says it achieved?"
+2017.16-1276,1,62794,daniel_l_geyser,,1626.68,1631.28,"Your Honor, this Court doesn't read language like that in isolation. It has to read it against a backdrop of --"
+2017.16-1276,1,62836,neil_gorsuch,scotus_justice,1631.28,1634.48,I'm asking what -- what would you have had Congress do?
+2017.16-1276,1,62794,daniel_l_geyser,,1634.48,1645.6,"Well, I think in this -- what they could have done, and given all the anomalies that this would produce and how -- and how contrary this is to the modern trend of legislation, they'd have to be a lot clearer than they were here, but let me give you --"
+2017.16-1276,1,62836,neil_gorsuch,scotus_justice,1645.6,1649.32,"Clearer than in this section, the following definitions shall apply?"
+2017.16-1276,1,62794,daniel_l_geyser,,1649.32,1649.72,Just as --
+2017.16-1276,1,62836,neil_gorsuch,scotus_justice,1649.72,1651.6,How much clearer could they have possibly been?
+2017.16-1276,1,62794,daniel_l_geyser,,1651.6,1656.12,"That -- that is the same language in Utility Air where the definition of ""air pollutant"" was in this chapter."
+2017.16-1276,1,62836,neil_gorsuch,scotus_justice,1658.72,1661.72,"So ""shall"" just means maybe; sometimes?"
+2017.16-1276,1,62794,daniel_l_geyser,,1661.72,1662.4,Not at all.
+2017.16-1276,1,62836,neil_gorsuch,scotus_justice,1687.64,1687.96,So -- so --
+2017.16-1276,1,15086,john_g_roberts_jr,scotus_justice,1687.96,1700.24,"Well, but -- this case, Utility Air, the difficulty of applying the defined term in that case strikes me as so -- so much more insurmountable than in this case."
+2017.16-1276,1,62794,daniel_l_geyser,,1700.24,1714.08,"I think it could be more or less, Your Honor, but I think the important point here is that having an incentive to skip over internal reporting would be disastrous to the modern scheme of securities regulation, which turns on internal reporting. Under my friend's view --"
+2017.16-1276,1,15139,stephen_g_breyer,scotus_justice,1714.08,1714.48,"Well, yeah."
+2017.16-1276,1,15086,john_g_roberts_jr,scotus_justice,1716.16,1717.12,That's okay.
+2017.16-1276,1,15139,stephen_g_breyer,scotus_justice,1717.12,1718.96,That's exactly what's bothering me.
+2017.16-1276,1,62794,daniel_l_geyser,,1791.6,1791.84,Sure.
+2017.16-1276,1,15131,sonia_sotomayor,scotus_justice,1835.44,1852.32,"Is every employee obligated by law to report a violation or is it only certain employees, lawyers and accountants and others who are affirmatively obligated to report?"
+2017.16-1276,1,62794,daniel_l_geyser,,1852.32,1858.28,The -- it's some employees like lawyers and auditors do have the affirmative obligation.
+2017.16-1276,1,15131,sonia_sotomayor,scotus_justice,1865.84,1866.2,All right.
+2017.16-1276,1,62794,daniel_l_geyser,,1893.96,1902.04,"Because Congress saw examples, and they saw this in Enron, where people were deterred from fulfilling those roles and disclosing the information in whistleblowing because they didn't want to be terminated."
+2017.16-1276,1,15131,sonia_sotomayor,scotus_justice,1903.72,1904.96,"Well, that was Sarbanes-Oxley."
+2017.16-1276,1,62794,daniel_l_geyser,,1904.96,1906.52,And -- and Dodd-Frank --
+2017.16-1276,1,15131,sonia_sotomayor,scotus_justice,1906.52,1913.8,And that's the statute Congress provided to incentivize them to do what they were legally obligated to do.
+2017.16-1276,1,62794,daniel_l_geyser,,1913.8,1914.0,Sure.
+2017.16-1276,1,15131,sonia_sotomayor,scotus_justice,1923.36,1934.96,"Well, I see Dodd-Frank as -- as expanding the category of people, not limiting or -- or expanding it to include people who are already included."
+2017.16-1276,1,62794,daniel_l_geyser,,1934.96,1942.84,"Well, it -- it does expand people in some situations like with self-regulatory organizations who aren't covered under Sarbanes-Oxley."
+2017.16-1276,1,62836,neil_gorsuch,scotus_justice,1980.36,1983.6,I'd like to talk about that notice and comment period for just a moment.
+2017.16-1276,1,62794,daniel_l_geyser,,2048.92,2049.2,Sure.
+2017.16-1276,1,62836,neil_gorsuch,scotus_justice,2049.2,2051.52,That just doesn't quite hold together for me.
+2017.16-1276,1,62794,daniel_l_geyser,,2051.52,2053.16,Let me try to break it down into a number of steps.
+2017.16-1276,1,62836,neil_gorsuch,scotus_justice,2072.76,2076.12,"It said to the Commission, for reports to the Commission, that language is in there, too, right?"
+2017.16-1276,1,62794,daniel_l_geyser,,2076.12,2079.56,"Well, that -- that language is in the initial -- in the initial rule."
+2017.16-1276,1,62836,neil_gorsuch,scotus_justice,2079.56,2079.72,Yeah.
+2017.16-1276,1,62794,daniel_l_geyser,,2079.72,2093.28,"It also suggested, though, that you could qualify under the whistleblower protections without satisfying all the manners of reporting to the Commission. So I think there actually was some ambiguity there. And, again, the SEC specifically requested comments on that exact issue."
+2017.16-1276,1,62836,neil_gorsuch,scotus_justice,2121.76,2128.64,"Well, if it's not -- if it's not -- if it's not fairly put to the notice, is it any surprise that many people don't comment on it?"
+2017.16-1276,1,62794,daniel_l_geyser,,2128.64,2134.32,"Well, Your Honor, we disagree that it wasn't fairly put to the notice because they specifically requested comments on exactly this topic."
+2017.16-1276,1,62836,neil_gorsuch,scotus_justice,2161.24,2162.24,"I'm looking at the notice, though."
+2017.16-1276,1,62794,daniel_l_geyser,,2166.68,2168.76,And -- and the language that precedes paragraph 42.
+2017.16-1276,1,62836,neil_gorsuch,scotus_justice,2168.76,2181.52,"Yeah, it's -- should -- should the anti-retaliation protections, yada, yada, yada, apply broadly to any person who provides information to the Commission concerning a potential violation, right?"
+2017.16-1276,1,62794,daniel_l_geyser,,2181.52,2184.0,"Your Honor, but, again, it's should we broaden it, should we change it."
+2017.16-1276,1,62836,neil_gorsuch,scotus_justice,2184.0,2186.8,"To the Commission, yeah, but to the Commission, right?"
+2017.16-1276,1,62794,daniel_l_geyser,,2186.8,2197.24,"Your Honor, part -- part of the logical outgrowth test, which -- which I think this Court has -- has effectively endorsed, but I think there's some lack of clarity there, too, it doesn't require that the exact proposal be endorsed."
+2017.16-1276,1,15139,stephen_g_breyer,scotus_justice,2197.24,2218.6,"No, but his point really, I think, is that notice which says we're going to include who counts as providing information to the Commission does not put people on notice that they are including -- going to apply it to people who don't provide information to the Commission. I mean, that's English, I would think. Now, that's the question."
+2017.16-1276,1,62794,daniel_l_geyser,,2232.2,2237.88,"Your -- Your Honor, the -- I think the argument that was accepted by the Ninth Circuit below didn't suggest that the SEC was saying that if --"
+2017.16-1276,1,15139,stephen_g_breyer,scotus_justice,2237.88,2253.96,"No, no, but I mean I asked that -- first, I want you to answer Justice Gorsuch's question. Second, I just wonder separately whether I am just bound by what seems to be your concession, I guess I am, that the argument below is abandoned."
+2017.16-1276,1,62794,daniel_l_geyser,,2253.96,2257.8,"Your Honor, I think that you can affirm on any ground that's present in the record."
+2017.16-1276,1,62794,daniel_l_geyser,,2262.96,2268.92,"Justice Gorsuch, I think that -- I think, again, that the logical outgrowth test would assume that in a proceeding --"
+2017.16-1276,1,62836,neil_gorsuch,scotus_justice,2268.92,2289.24,"But the logical outgrowth test, is -- is it anticipated that something is going to follow? Is it reasonable notice? And, again, what's reasonable about saying X and then doing not X or the opposite of X, and then doing it in an ipsi dixit, one-line sentence, that's unreasoned and wouldn't normally get much deference from us in the first place."
+2017.16-1276,1,62794,daniel_l_geyser,,2289.24,2289.4,The --
+2017.16-1276,1,62836,neil_gorsuch,scotus_justice,2289.4,2290.72,How does all that get you Chevron?
+2017.16-1276,1,62794,daniel_l_geyser,,2290.72,2360.04,"The -- the key issue in the proceeding was how do you deal with the interaction between internal reporting and preserving internal compliance mechanisms and -- and the anti-retaliation provision and making sure that the award provision -- program makes sense. So I think the -- the interaction of those things suggests that, while corporations thought we need to preserve internal compliance, so we need to make sure that people first report internally and give corporations a chance to fix the problem, that the necessary counterpart to that is people have to be protected when they internally report. It doesn't make any sense to say that people have to engage in internal reporting, yet they're unprotected when they do that. I'd like to get to -- to the (a)(6). Again, the definition section does not end by saying the report has to go to the Commission. It says, ""in a manner established by rule or regulation by the Commission."" And I think that's important because Congress realized that the Commission needed to -- to prevent the situation where the SEC has a big enforcement award and everyone comes out of the woodwork and they all claim an entitlement to part of that award. The manner established by the Commission ensures that there is a -- a simple, easy way to track exactly who's eligible for award and who is not."
+2017.16-1276,1,15084,ruth_bader_ginsburg,scotus_justice,2378.24,2384.96,May I just ask whether Somers -- was there any reason he didn't report to the SEC?
+2017.16-1276,1,62794,daniel_l_geyser,,2384.96,2389.04,He -- I think it just simply did not occur to him at the time.
+2017.16-1276,1,15086,john_g_roberts_jr,scotus_justice,2479.0,2492.04,"Thank you, counsel. Mr. Michel. ORAL ARGUMENT of CHRISTOPHER G. MICHEL"
+2017.16-1276,2,62926,christopher_g_michel,,2492.04,2514.64,"Mr. Chief Justice, and may it please the Court: The statutory definition of whistleblower is tailor-made for the awards program, but it does not fit in the retaliation programs. Giving the term its ordinary meaning in the retaliation context would harmonize the statute and avoid the anomalies that would result from woodenly applying the statutory definition. Some of those anomalies have been discussed already by the Court."
+2017.16-1276,2,15094,elena_kagan,scotus_justice,2540.36,2543.68,"So, Mr. Michel, I do think that that's a real anomaly."
+2017.16-1276,2,62926,christopher_g_michel,,2586.2,2595.36,"So, Justice Kagan, I'd direct you to the Lawson versus Suwannee Fruit case, which I think is often cited as -- as a canonical case on statutory definitions."
+2017.16-1276,2,15068,samuel_a_alito_jr,scotus_justice,2653.76,2658.12,Now this sort of thing will come up in other cases in which the government is involved.
+2017.16-1276,2,62926,christopher_g_michel,,2682.68,2696.16,"I -- I think, you know, if you look at Suwannee Fruit, for example, the Court talked about incongruities, it talked about undermining the purpose of the statute. If you look at the -- the Public Utilities case, the Court talks about undermining the purpose of the statute."
+2017.16-1276,2,15084,ruth_bader_ginsburg,scotus_justice,2696.16,2712.92,"I thought -- I thought the stock phrase was absurd, that you -- if the statute gives a definition, you follow the definition in the statute unless it would lead, not merely to an anomaly, but to an absurd result."
+2017.16-1276,2,62926,christopher_g_michel,,2712.92,2718.16,"Justice Ginsburg, I -- I don't think that -- with respect, I don't think that's the standard the -- the Court has applied."
+2017.16-1276,2,62836,neil_gorsuch,scotus_justice,2722.68,2736.52,"And you'd -- and you'd agree you don't have an absurdity here. I mean, the government concedes that subsection (iii) would cover a subset of cases -- maybe not as much as -- as the government would like, but -- but it's not an absurd reading, right?"
+2017.16-1276,2,62926,christopher_g_michel,,2736.52,2738.12,We're not arguing that it's absurd.
+2017.16-1276,2,15086,john_g_roberts_jr,scotus_justice,2746.2,2748.04,"Well, but, I mean, it's not just that it's not absurd."
+2017.16-1276,2,62926,christopher_g_michel,,2770.28,2776.72,"I agree, Mr. Chief Justice, but I think it's a pretty big mess that -- that the Petitioner's reading is -- is making here."
+2017.16-1276,2,62836,neil_gorsuch,scotus_justice,2789.64,2808.72,"Well, counsel, you might have an argument there if there weren't Sarbanes-Oxley as the backdrop, but there is. And so the Chief Justice's point and Justice Breyer's point is that if it were to make a hash of the entire statute, and there'd be meaning -- no meaning at all, maybe, maybe, but you don't -- you don't -- you don't even allege that here."
+2017.16-1276,2,62926,christopher_g_michel,,2808.72,2818.4,"Well, let me try two responses, Justice Gorsuch. First of all, I think it's quite clear that what Congress was trying to do in Dodd-Frank was bolster the remedies that were available under Sarbanes-Oxley."
+2017.16-1276,2,62836,neil_gorsuch,scotus_justice,2818.96,2820.52,But -- but we don't follow what they're trying to do.
+2017.16-1276,2,62926,christopher_g_michel,,2822.16,2822.76,"Well, they did --"
+2017.16-1276,2,62836,neil_gorsuch,scotus_justice,2822.76,2823.6,You'd agree with me on that?
+2017.16-1276,2,62926,christopher_g_michel,,2823.6,2824.12,Absolutely.
+2017.16-1276,2,62836,neil_gorsuch,scotus_justice,2824.12,2824.72,All right.
+2017.16-1276,2,62926,christopher_g_michel,,2824.72,2829.04,And what they did do was change the statute of limitations from six months to six years.
+2017.16-1276,2,62836,neil_gorsuch,scotus_justice,2831.4,2866.8,"Do you want to comment on the notice and -- and rule-making procedures here and its reference to how much deference we owe? And I -- I, again, I'm just stuck with the absence of any fair notice, an ipse dixit decision, without any reasons that wouldn't normally pass muster under the APA; and then we have two circuit courts that nonetheless thought that it was appropriate to defer to that, which seems to me allowing an agency to swallow a large amount of legislative power and judicial power in the process, giving up our opportunity to -- to -- to interpret the law as it is."
+2017.16-1276,2,62926,christopher_g_michel,,2866.8,2871.6,"So I just -- I -- I'll start with a small correction, which is the court of appeals in this case actually primarily --"
+2017.16-1276,2,62836,neil_gorsuch,scotus_justice,2871.6,2872.32,Did both --
+2017.16-1276,2,62926,christopher_g_michel,,2872.32,2873.12,-- interpreted the statute.
+2017.16-1276,2,62836,neil_gorsuch,scotus_justice,2873.12,2873.28,Did both.
+2017.16-1276,2,62926,christopher_g_michel,,2875.96,2876.08,Yes.
+2017.16-1276,2,62836,neil_gorsuch,scotus_justice,2876.08,2877.28,So here we are.
+2017.16-1276,2,62926,christopher_g_michel,,2877.28,2878.44,That -- that's right.
+2017.16-1276,2,62836,neil_gorsuch,scotus_justice,2884.72,2886.24,It's not making an invalidity argument.
+2017.16-1276,2,62926,christopher_g_michel,,2890.4,2890.72,It's true.
+2017.16-1276,2,62836,neil_gorsuch,scotus_justice,2892.48,2892.72,Good.
+2017.16-1276,2,62926,christopher_g_michel,,2892.72,2893.52,But as -- as -- as --
+2017.16-1276,2,62836,neil_gorsuch,scotus_justice,2893.52,2894.2,Please.
+2017.16-1276,2,62926,christopher_g_michel,,2894.2,2901.0,"-- you're -- you know, reading from the notice of proposed rule-making, I do want to point out that it's the Supreme Court that is doing this in the first instance."
+2017.16-1276,2,62836,neil_gorsuch,scotus_justice,2930.68,2936.2,"""Who provides information to the Commission."" Right? That's kind of an important little phrase there."
+2017.16-1276,2,62926,christopher_g_michel,,2936.2,2936.52,Right.
+2017.16-1276,2,62836,neil_gorsuch,scotus_justice,2937.6,2938.28,Right.
+2017.16-1276,2,62926,christopher_g_michel,,2938.28,2941.64,And -- and I'm not saying that it couldn't have been written more clearly.
+2017.16-1276,2,62836,neil_gorsuch,scotus_justice,2942.76,2944.64,I think it was written very clearly.
+2017.16-1276,2,62926,christopher_g_michel,,2944.64,2963.8,"Well, I think if you look actually, Justice Gorsuch, at the -- at the Long Island Care case, which I think is -- is probably this Court's leading case on the logical outgrowth test, it -- it ultimately says that, you know, proposing X and getting not X is enough to satisfy the logical outgrowth. Now, maybe that's not logical, but that is the -- you know, the Court's precedent in this area."
+2017.16-1276,2,15131,sonia_sotomayor,scotus_justice,2967.0,2971.24,"Bottom line, are you -- how much are you relying on just Chevron deference here?"
+2017.16-1276,2,62926,christopher_g_michel,,2971.24,2973.12,That -- that's not even our principal argument.
+2017.16-1276,2,62836,neil_gorsuch,scotus_justice,2992.16,3000.04,"Would -- would you agree, though, that a notice-and-comment rule-making that didn't provide fair notice shouldn't be deferred to?"
+2017.16-1276,2,62926,christopher_g_michel,,3000.04,3011.04,"I -- this -- I think Encino is some support for that, although this Court has never taken the additional step of saying that the -- a failure to meet the logical outgrowth test as distinguished from the inadequate explanation --"
+2017.16-1276,2,62836,neil_gorsuch,scotus_justice,3011.04,3019.6,"Well, just hypothetically, let's say whatever your logical outgrowth test is fails to meet that, okay? No notice, no adequate procedures."
+2017.16-1276,2,62926,christopher_g_michel,,3022.6,3029.56,"Again, I think there's a lot of, you know, preliminary questions you'd have to answer about timing and -- and everything else, but in -- in a properly --"
+2017.16-1276,2,62836,neil_gorsuch,scotus_justice,3029.56,3030.52,Let's get to the merits.
+2017.16-1276,2,62926,christopher_g_michel,,3030.52,3034.4,"I think in a properly presented challenge, that -- that you wouldn't be able to defer to that."
+2017.16-1276,2,62836,neil_gorsuch,scotus_justice,3035.4,3036.12,You would not -- you would not be able to defer to that?
+2017.16-1276,2,62926,christopher_g_michel,,3036.12,3036.72,Correct.
+2017.16-1276,2,62836,neil_gorsuch,scotus_justice,3036.72,3036.92,All right.
+2017.16-1276,2,62926,christopher_g_michel,,3036.92,3040.52,But -- but I don't think this -- that's this case for a lot of the reasons that we have discussed.
+2017.16-1276,2,15139,stephen_g_breyer,scotus_justice,3040.52,3075.52,"Are you wary of the government conceding that point? I would be wary of that because I don't know what implications it has for other cases where, in fact, you start chipping away in an unforeseen way, I mean maybe -- I can think of a lot of reasons for not deferring to the rule here. Among others, it doesn't refer to manner. There's nothing in there about manner that I could find. I could think of reasons, but I -- I'm just saying I -- that is not necessarily what you just said, a -- a lifetime concession on the part of the government, is it?"
+2017.16-1276,2,62926,christopher_g_michel,,3075.52,3077.16,"No, it is not. (Laughter.)"
+2017.16-1276,2,62926,christopher_g_michel,,3077.16,3091.04,"I -- I do want to try to get back to the point about internal whistleblowing and internal reporting, which I think is something that there's a unity of interest from employees, employers, and the Commission."
+2017.16-1276,2,15131,sonia_sotomayor,scotus_justice,3092.56,3096.04,So why don't you give an award for that?
+2017.16-1276,2,62926,christopher_g_michel,,3096.04,3098.24,"May I answer, Mr. Chief Justice?"
+2017.16-1276,2,15086,john_g_roberts_jr,scotus_justice,3098.24,3099.72,Certainly.
+2017.16-1276,2,62926,christopher_g_michel,,3099.72,3108.28,We do actually give an award for people who report internally if the -- if the company then reports to the Commission and the person then reports within 120 days.
+2017.16-1276,2,15131,sonia_sotomayor,scotus_justice,3109.6,3112.44,You only give it if they report to the SEC?
+2017.16-1276,2,62926,christopher_g_michel,,3112.44,3115.8,"They have to ultimately report to the SEC within 120 days. Thank you, Mr. Chief Justice."
+2017.16-1276,2,15086,john_g_roberts_jr,scotus_justice,3115.8,3118.76,"Thank you, counsel. Mr. Shanmugam, seven minutes."
+2017.16-1276,3,33978,kannon_k_shanmugam,,3118.76,3121.12,Just two quick points on rebuttal.
+2017.16-1276,3,15086,john_g_roberts_jr,scotus_justice,3346.84,3348.2,"Thank you, counsel."

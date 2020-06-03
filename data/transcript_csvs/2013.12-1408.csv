@@ -1,0 +1,110 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2013.12-1408,0,15086,john_g_roberts_jr,scotus_justice,0.0,4.702,"We will hear argument next in Case 12-1408, United States v. Quality Stores."
+2013.12-1408,0,22289,eric_j_feigin,,7.029,9.731,"Thank you, Mr. Chief Justice, and may it please the Court:"
+2013.12-1408,0,15084,ruth_bader_ginsburg,scotus_justice,127.464,139.679,"Well, don't we have a decision that says that the -- the term FICA purposes and income tax?"
+2013.12-1408,0,22289,eric_j_feigin,,139.679,141.898,"--Well, two points about that, Your Honor."
+2013.12-1408,0,15113,anthony_m_kennedy,scotus_justice,333.429,345.325,"Either then or now, were the supplemental unemployment benefit payments subject to FICA withholding or are they now exempt under the present--"
+2013.12-1408,0,22289,eric_j_feigin,,345.325,352.638,"--So supplemental unemployment benefits, as defined by the IRS in its revenue rulings, were subject neither to withholding nor to taxation under FICA."
+2013.12-1408,0,15113,anthony_m_kennedy,scotus_justice,352.638,355.06,--And after (o) was passed?
+2013.12-1408,0,22289,eric_j_feigin,,355.06,357.34,"After (o) was passed, those wages--"
+2013.12-1408,0,15113,anthony_m_kennedy,scotus_justice,357.34,360.339,It's obviously subject to Federal income tax withholding.
+2013.12-1408,0,22289,eric_j_feigin,,361.634,363.822,--They still were not subject to FICA tax.
+2013.12-1408,0,15113,anthony_m_kennedy,scotus_justice,363.822,364.384,Okay.
+2013.12-1408,0,22289,eric_j_feigin,,365.384,368.101,"That's still true now under the current revenue ruling, Your Honor."
+2013.12-1408,0,15086,john_g_roberts_jr,scotus_justice,368.101,370.382,Why -- I might have missed a step here.
+2013.12-1408,0,22289,eric_j_feigin,,375.88,380.174,"Well, they were still considered to be income under the revenue rulings."
+2013.12-1408,0,15084,ruth_bader_ginsburg,scotus_justice,401.384,405.118,I have a question about the effect of the government's position.
+2013.12-1408,0,22289,eric_j_feigin,,432.622,440.666,"--Your Honor, if the Court adopts the government's position in this case, there's not going to be any change in the States because the government's position is the status quo."
+2013.12-1408,0,15113,anthony_m_kennedy,scotus_justice,471.199,479.697,"Is it ever to the long-term advantage to the employee to have FICA withholding, so that the employee's account is greater and the benefits are greater?"
+2013.12-1408,0,22289,eric_j_feigin,,479.697,492.873,"So for -- certain employees may want that -- certain payments to count as wages because the definition of FICA purposes is identical to the definition of ""wages"" under the Social Security Act."
+2013.12-1408,0,15068,samuel_a_alito_jr,scotus_justice,522.85,526.536,What if the payments were not keyed to the length of service and to salary?
+2013.12-1408,0,22289,eric_j_feigin,,529.519,536.454,"--We still think that would meet the basic definition of FICA, Your Honor, and would still count as wages and be taxable under FICA."
+2013.12-1408,0,15068,samuel_a_alito_jr,scotus_justice,555.821,565.629,"Well, in the Coffy case, the Court drew a distinction between compensation for services and payments that are contingent on the employee's being thrown out of work."
+2013.12-1408,0,22289,eric_j_feigin,,567.55,576.797,"So Coffy was addressing not FICA, but a statute that dealt with veterans' rights returning to work after a period of military service."
+2013.12-1408,0,15086,john_g_roberts_jr,scotus_justice,701.153,702.465,"Thank you, counsel."
+2013.12-1408,1,46807,robert_s_hertzberg,,710.242,713.117,"Mr. Chief Justice, and may it please the Court:"
+2013.12-1408,1,15049,antonin_scalia,scotus_justice,734.25,736.25,"What are you saying, SUB payments> [""]?"
+2013.12-1408,1,46807,robert_s_hertzberg,,736.25,738.795,--Supplemental unemployment benefits.
+2013.12-1408,1,15049,antonin_scalia,scotus_justice,738.795,741.387,I'm not hip.
+2013.12-1408,1,46807,robert_s_hertzberg,,741.387,757.053,The Government says they are now wages if they meet the definition as they particularly see it in a particular revenue ruling that they issue at some point in time; and that's where the dispute lies.
+2013.12-1408,1,15131,sonia_sotomayor,scotus_justice,817.153,824.62,Can you win at all if I think their regulation is irrational and contrary to the statute?
+2013.12-1408,1,46807,robert_s_hertzberg,,824.62,825.185,Yes.
+2013.12-1408,1,15131,sonia_sotomayor,scotus_justice,825.185,827.025,"I know that's not before us, but--"
+2013.12-1408,1,46807,robert_s_hertzberg,,827.025,828.038,Yes.
+2013.12-1408,1,15131,sonia_sotomayor,scotus_justice,828.038,833.537,"--how do you win, assuming I just say I don't pay any attention to the regulation?"
+2013.12-1408,1,46807,robert_s_hertzberg,,833.537,839.316,"Your Honor, it's our position that the statute is clear."
+2013.12-1408,1,15131,sonia_sotomayor,scotus_justice,857.355,860.228,Isn't it easier to withhold taxes on both?
+2013.12-1408,1,46807,robert_s_hertzberg,,860.228,861.368,--Pardon me?
+2013.12-1408,1,15131,sonia_sotomayor,scotus_justice,861.368,863.993,Isn't it easier to withhold taxes on both?
+2013.12-1408,1,46807,robert_s_hertzberg,,863.993,868.757,"Well, what they are withholding on the withholding is income taxes."
+2013.12-1408,1,15084,ruth_bader_ginsburg,scotus_justice,884.547,897.26,"If it is treated for income tax purposes as wages, why shouldn't it be treated for FICA tax purposes?"
+2013.12-1408,1,46807,robert_s_hertzberg,,897.26,898.245,--Your Honor--
+2013.12-1408,1,15084,ruth_bader_ginsburg,scotus_justice,898.245,906.992,What your are saying is on the income side they are treated as wages; on the FICA side they're not treated as wages.
+2013.12-1408,1,46807,robert_s_hertzberg,,906.992,917.472,"--Your Honor, supplemental unemployment benefits are provided to an individual to provide a safety net when they lose their job, to cover them during the period while they seek new employment."
+2013.12-1408,1,15049,antonin_scalia,scotus_justice,935.868,938.884,"Why are they giving them the money, just out of love?"
+2013.12-1408,1,46807,robert_s_hertzberg,,951.427,952.957,"No, what they're doing is they're--"
+2013.12-1408,1,15049,antonin_scalia,scotus_justice,952.957,955.034,"No, they are -- they are just being generous?"
+2013.12-1408,1,46807,robert_s_hertzberg,,955.034,961.563,--They are putting in place a plan in order to protect the employee in the event of a layoff or a plant closing.
+2013.12-1408,1,15049,antonin_scalia,scotus_justice,961.563,962.907,Why don't they do that for me?
+2013.12-1408,1,46807,robert_s_hertzberg,,962.907,965.249,"I don't know, Your Honor."
+2013.12-1408,1,15084,ruth_bader_ginsburg,scotus_justice,965.249,976.325,"There are some severance payments that do count for FICA purposes, isn't that so?"
+2013.12-1408,1,46807,robert_s_hertzberg,,976.325,990.739,"Your Honor, FICA purposes; but we believe the definition is different for supplemental unemployment benefits."
+2013.12-1408,1,15068,samuel_a_alito_jr,scotus_justice,1010.779,1016.559,What if Section 3402(o) did not exist?
+2013.12-1408,1,46807,robert_s_hertzberg,,1022.729,1023.284,No.
+2013.12-1408,1,15068,samuel_a_alito_jr,scotus_justice,1023.54,1024.512,And why not?
+2013.12-1408,1,46807,robert_s_hertzberg,,1024.512,1035.572,"--The reason is that because, if you look at how they are treated, even the Government acknowledges that some supplemental unemployment benefits are now wages."
+2013.12-1408,1,15139,stephen_g_breyer,scotus_justice,1118.506,1124.832,"It is, but it -- really, if you have anything -- the definition is very broad."
+2013.12-1408,1,46807,robert_s_hertzberg,,1174.608,1175.844,"Well, if SUB--"
+2013.12-1408,1,15139,stephen_g_breyer,scotus_justice,1175.844,1178.419,We could also look at it as they didn't have to pass it.
+2013.12-1408,1,46807,robert_s_hertzberg,,1179.434,1185.313,"--If SUB pay was wages, there would have been no need to pass 3402."
+2013.12-1408,1,15139,stephen_g_breyer,scotus_justice,1185.313,1189.103,"Well, no, there would have been a need, if different people think different things."
+2013.12-1408,1,46807,robert_s_hertzberg,,1190.665,1191.837,Well--
+2013.12-1408,1,15139,stephen_g_breyer,scotus_justice,1191.837,1192.835,"I mean, Congress does that quite a lot."
+2013.12-1408,1,46807,robert_s_hertzberg,,1204.284,1204.94,--Well--
+2013.12-1408,1,15139,stephen_g_breyer,scotus_justice,1204.94,1206.346,And maybe -- could we say that?
+2013.12-1408,1,46807,robert_s_hertzberg,,1219.48,1225.877,"--I don't think you can, based upon when you look at what the statute says, 3402(o)."
+2013.12-1408,1,15084,ruth_bader_ginsburg,scotus_justice,1280.987,1298.277,"Could you review again, what is -- what is the relevant distinction between dismissal payments that are subject to FICA and payments that are not?"
+2013.12-1408,1,46807,robert_s_hertzberg,,1298.277,1301.869,"Your Honor, dismissal payments are involuntary termination."
+2013.12-1408,1,15084,ruth_bader_ginsburg,scotus_justice,1301.869,1303.508,It has to be involuntary?
+2013.12-1408,1,46807,robert_s_hertzberg,,1303.508,1303.78,Yes.
+2013.12-1408,1,15084,ruth_bader_ginsburg,scotus_justice,1308.289,1309.758,And SUB payments are all voluntary?
+2013.12-1408,1,46807,robert_s_hertzberg,,1309.758,1312.757,All involuntary terminations.
+2013.12-1408,1,15084,ruth_bader_ginsburg,scotus_justice,1315.599,1320.988,"You -- well, you told me that the dismissal payments are involuntary."
+2013.12-1408,1,46807,robert_s_hertzberg,,1327.938,1334.294,"No, they're -- they're involuntary payments, also, or based upon involuntary termination."
+2013.12-1408,1,15139,stephen_g_breyer,scotus_justice,1364.331,1377.246,"I'll take it that you're right, that Congress that passed the withholding statute thought it fell outside of the definition of wages, but they were wrong."
+2013.12-1408,1,46807,robert_s_hertzberg,,1398.44,1400.534,"You should give it, Your Honor, a lot of weight."
+2013.12-1408,1,15139,stephen_g_breyer,scotus_justice,1427.537,1432.146,"Well, yes."
+2013.12-1408,1,46807,robert_s_hertzberg,,1442.876,1448.296,"But what the important aspect is, is that it's not remuneration for services."
+2013.12-1408,1,15068,samuel_a_alito_jr,scotus_justice,1513.051,1530.715,"Well, the government explains 3402(o) on the ground that there had been prior admin -- IRS administrative decisions exempting certain types of SUB payments from the definition of wages."
+2013.12-1408,1,46807,robert_s_hertzberg,,1552.722,1554.44,Because I think the language is clear.
+2013.12-1408,1,15049,antonin_scalia,scotus_justice,1591.347,1597.36,"Was the earlier statute definition of wages for tax purposes, was that reenacted at the same time?"
+2013.12-1408,1,46807,robert_s_hertzberg,,1597.36,1599.437,"Yes, in 1986."
+2013.12-1408,1,15049,antonin_scalia,scotus_justice,1599.437,1610.965,"So you really have -- you call into play the principle that you should interpret a statute to make sense and not interpret any provision to be superfluous, right?"
+2013.12-1408,1,46807,robert_s_hertzberg,,1610.965,1611.746,"Correct, Your Honor."
+2013.12-1408,1,15049,antonin_scalia,scotus_justice,1611.746,1616.976,And you say that the government's interpretation renders it superfluous.
+2013.12-1408,1,46807,robert_s_hertzberg,,1616.976,1618.351,"Absolutely, Your Honor."
+2013.12-1408,1,15049,antonin_scalia,scotus_justice,1618.351,1620.226,We'll ask him about that.
+2013.12-1408,1,46807,robert_s_hertzberg,,1620.226,1622.958,Thank you.
+2013.12-1408,1,15086,john_g_roberts_jr,scotus_justice,1622.958,1624.364,"Thank you, counsel."
+2013.12-1408,2,22289,eric_j_feigin,,1626.63,1635.251,"Thank you, Mr. Chief Justice, and may it please the Court:"
+2013.12-1408,2,15131,sonia_sotomayor,scotus_justice,1676.062,1679.264,You were touching at what I was thinking.
+2013.12-1408,2,22289,eric_j_feigin,,1685.481,1691.635,"So, Your Honor, we acknowledge that the revenue rulings are not consistent with the statutory text of FICA."
+2013.12-1408,2,15049,antonin_scalia,scotus_justice,1731.518,1742.473,"You have to acknowledge, though, that if you read -- if you read the two sections of the statute together, the one seems to be unnecessary."
+2013.12-1408,2,22289,eric_j_feigin,,1742.473,1743.523,"Well, a couple points on that, Your Honor."
+2013.12-1408,2,15049,antonin_scalia,scotus_justice,1743.523,1751.268,"""Wages"" means all remuneration, including cash value of all remuneration, including benefits."
+2013.12-1408,2,22289,eric_j_feigin,,1766.903,1769.901,"Well, first, just to pick up on the textual point--"
+2013.12-1408,2,15049,antonin_scalia,scotus_justice,1769.901,1773.259,"I mean, there would have been a way to fix the revenue rulings without doing it this way."
+2013.12-1408,2,22289,eric_j_feigin,,1778.258,1784.255,"--Well, first of all, Your Honor, just to pick up on the textual point that Justice Alito, I think, was adverting to earlier."
+2013.12-1408,2,15049,antonin_scalia,scotus_justice,1809.902,1818.023,"Yes, unless it was in a section that said how to treat men who are not 6 feet tall."
+2013.12-1408,2,22289,eric_j_feigin,,1824.02,1825.473,"Well, your Honor, it says--"
+2013.12-1408,2,15049,antonin_scalia,scotus_justice,1825.473,1828.549,"I mean, it -- it clearly suggests that these are not wages."
+2013.12-1408,2,22289,eric_j_feigin,,1828.549,1832.361,"--Well, first of all, Your Honor, it says, ""certain payments other than wages""."
+2013.12-1408,2,15049,antonin_scalia,scotus_justice,1837.092,1837.92,Right.
+2013.12-1408,2,22289,eric_j_feigin,,1837.92,1861.036,"And that actually has some significance in that it allows the employer to treat these as wages paid during the employer's normal payroll period, so the withholding can be performed in the same way that the employee would have withheld for normal payroll period payment and avoids the need to apply the rules that would govern in circumstances where payments are made outside of a payroll period."
+2013.12-1408,2,15084,ruth_bader_ginsburg,scotus_justice,2218.329,2228.654,"How about that we should just ignore their revenue rulings, including the current one, and just deal with the statute?"
+2013.12-1408,2,22289,eric_j_feigin,,2230.762,2242.727,"Well, the revenue rulings aren't directly at issue in this case, Your Honor, because all the revenue rulings do is specify that certain payments -- not the type of payments that are issued in this case -- are not wages."
+2013.12-1408,2,15086,john_g_roberts_jr,scotus_justice,2259.735,2277.509,"Well, I think part of the -- the point is that the broad, capacious definition of IRS since they are carving things out, maybe not willy-nilly, but at least they don't seem that it's as broad as you do -- they don't seem to think that it's as broad as you do."
+2013.12-1408,2,22289,eric_j_feigin,,2277.509,2280.179,"Well, two points to that, Your Honor."
+2013.12-1408,2,15084,ruth_bader_ginsburg,scotus_justice,2323.943,2332.019,And then what happens to the State compensation schemes which the revenue rulings seem to have been trying to accommodate?
+2013.12-1408,2,22289,eric_j_feigin,,2332.019,2358.836,"So if this Court were to conclude that the Government is correct on a -- as a statutory matter, but we're to make clear that revenue -- the current revenue ruling, Revenue Ruling 90-72 was invalid, that might have some effect on individuals' eligibility for unemployment benefits under State law in those States that incorporate the Federal definition of wages as part of the calculation for eligibility for State unemployment benefits."
+2013.12-1408,2,15086,john_g_roberts_jr,scotus_justice,2371.236,2372.764,"Thank you, counsel."

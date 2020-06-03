@@ -1,0 +1,377 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2005.04-928,0,15086,john_g_roberts_jr,scotus_justice,0.0,4.719,We'll hear argument first this morning in Oregon versus Guzek.
+2005.04-928,0,36859,mary_h_williams,,6.36,9.111,"Mr. Chief Justice, and may it please the Court--"
+2005.04-928,0,15139,stephen_g_breyer,scotus_justice,38.633,39.43,Can you--
+2005.04-928,0,15092,sandra_day_oconnor,scotus_justice,39.43,39.665,Is it--
+2005.04-928,0,15139,stephen_g_breyer,scotus_justice,39.665,40.383,--Can you--
+2005.04-928,0,15092,sandra_day_oconnor,scotus_justice,40.383,47.229,--possible that the Supreme Court of Oregon misapprehended some of the facts in this case?
+2005.04-928,0,36859,mary_h_williams,,47.229,54.215,"Justice O'Connor, it is possible that the Supreme Court was not aware that defendant's mother had testified in the--"
+2005.04-928,0,15092,sandra_day_oconnor,scotus_justice,54.215,54.497,Right.
+2005.04-928,0,36859,mary_h_williams,,54.497,64.921,"--guilt phase, and that's because defendant did not raise that issue in the trial court, did not move to have her alibi testimony admitted under the State statute that would have caused the Court to address her prior--"
+2005.04-928,0,15092,sandra_day_oconnor,scotus_justice,64.921,65.311,Do we--
+2005.04-928,0,36859,mary_h_williams,,65.311,65.983,--testimony.
+2005.04-928,0,15092,sandra_day_oconnor,scotus_justice,65.983,69.999,"--need to vacate the judgment and remand for that, or--"
+2005.04-928,0,36859,mary_h_williams,,69.999,70.218,No--
+2005.04-928,0,15092,sandra_day_oconnor,scotus_justice,70.218,71.547,--do we just go ahead and--
+2005.04-928,0,36859,mary_h_williams,,71.547,88.207,"--No, Justice O'Connor, I don't believe that there needs to be any change in the posture of the case in order... in order for the Court to address the Federal issue, and that's because the significance of the Oregon Supreme Court ruling doesn't turn on whether someone's testimony was admitted in the guilt phase, or not."
+2005.04-928,0,15092,sandra_day_oconnor,scotus_justice,88.207,100.209,"--Well, under Oregon law, is it possible that some of the mother's testimony would be otherwise admissible at the penalty stage?"
+2005.04-928,0,36859,mary_h_williams,,100.209,124.48,"Under Oregon law, under the majority's holding in this case and the way they dealt with the grandfather's prior testimony, on remand defendant could have the mother's transcript from the guilt phase read, but what would be different about it under the Oregon Supreme Court holding, and what we're asking the Court to address, is what they can do with that alibi testimony, no matter what form it comes in."
+2005.04-928,0,15113,anthony_m_kennedy,scotus_justice,127.387,130.966,"Well, I... may... I want you, perhaps, to elaborate on that, as well."
+2005.04-928,0,36859,mary_h_williams,,142.265,143.655,I am not sure.
+2005.04-928,0,15113,anthony_m_kennedy,scotus_justice,144.202,144.827,We're not sure--
+2005.04-928,0,36859,mary_h_williams,,144.827,145.405,--Oregon Supreme--
+2005.04-928,0,15113,anthony_m_kennedy,scotus_justice,145.405,145.375,--all right.
+2005.04-928,0,36859,mary_h_williams,,145.375,148.782,"--Court holding, they would certainly be free to introduce her live testimony."
+2005.04-928,0,15139,stephen_g_breyer,scotus_justice,199.621,212.468,"--Well, can't you under... look, first imagine that they don't want to introduce one word from the mother's mouth that isn't already in that transcript."
+2005.04-928,0,36859,mary_h_williams,,251.507,270.606,"Justice Breyer, you are correct on the first part, but not on the second part, and that's because Oregon Supreme Court unanimously has construed Oregon's law on mitigation to say that what the Oregon Legislature intended was to have as mitigation only those pieces that are required by the eighth amendment."
+2005.04-928,0,15139,stephen_g_breyer,scotus_justice,270.606,270.981,All right.
+2005.04-928,0,36859,mary_h_williams,,296.627,297.923,"That would be correct, Your Honor, that--"
+2005.04-928,0,15139,stephen_g_breyer,scotus_justice,297.923,298.83,"Yes, all right."
+2005.04-928,0,36859,mary_h_williams,,298.83,299.534,--unless the eighth amendment--
+2005.04-928,0,15139,stephen_g_breyer,scotus_justice,299.534,314.958,"And did the court say, here... the Oregon court, in this case... one, ""You can introduce evidence"", which it seems to have been mistaken about, about not being there, but that, second, the Federal Constitution gives you the right to argue the residual doubt?"
+2005.04-928,0,36859,mary_h_williams,,314.958,316.63,"--Yes, Your Honor."
+2005.04-928,0,15139,stephen_g_breyer,scotus_justice,348.622,349.028,Ah.
+2005.04-928,0,36859,mary_h_williams,,369.626,370.173,Yes.
+2005.04-928,0,15139,stephen_g_breyer,scotus_justice,370.173,371.142,--It's the same jury.
+2005.04-928,0,36859,mary_h_williams,,397.148,397.601,About the argument.
+2005.04-928,0,15113,anthony_m_kennedy,scotus_justice,414.229,414.839,You want--
+2005.04-928,0,36859,mary_h_williams,,414.839,415.323,--required to be--
+2005.04-928,0,15113,anthony_m_kennedy,scotus_justice,415.323,417.261,--You want us to hold that.
+2005.04-928,0,36859,mary_h_williams,,439.422,451.69,"--Yes, Your Honor, I... our position is that the eighth amendment does not require that as a mitigating factor, that that is not one of the circumstances of the offense, certainly not... it doesn't go to the defendant's character or background."
+2005.04-928,0,15049,antonin_scalia,scotus_justice,451.69,457.645,"Ms. Williams, I don't... I don't understand all of this discussion about what the... whether the State law would have produced the same result, or not."
+2005.04-928,0,36859,mary_h_williams,,475.07,476.571,"No, Justice Scalia."
+2005.04-928,0,15049,antonin_scalia,scotus_justice,477.009,478.024,"And we've said just the opposite, haven't we?"
+2005.04-928,0,36859,mary_h_williams,,478.024,478.727,"--Yes, Justice Scalia."
+2005.04-928,0,15139,stephen_g_breyer,scotus_justice,478.727,480.9,"Well, that isn't the thrust of my question, of course."
+2005.04-928,0,36859,mary_h_williams,,493.028,493.309,Yes.
+2005.04-928,0,15139,stephen_g_breyer,scotus_justice,493.309,494.731,--section I'm referring to.
+2005.04-928,0,36859,mary_h_williams,,512.438,523.034,"And, Justice Breyer, I think the primary reason that the State is concerned with it is because of the broad holding that the Oregon Supreme Court has announced under... about what eight amendment requires."
+2005.04-928,0,15086,john_g_roberts_jr,scotus_justice,537.584,538.068,But there's no--
+2005.04-928,0,36859,mary_h_williams,,538.068,538.537,--be permitted--
+2005.04-928,0,15086,john_g_roberts_jr,scotus_justice,538.537,545.023,"--reason that the defendant couldn't introduce other evidence in his resentencing trial, is there?"
+2005.04-928,0,36859,mary_h_williams,,545.023,546.633,--Under the--
+2005.04-928,0,15086,john_g_roberts_jr,scotus_justice,546.633,547.696,"I mean, if he has other... he says,"
+2005.04-928,0,36859,mary_h_williams,,557.792,559.089,"--That's correct, Mr. Chief Justice."
+2005.04-928,0,15113,anthony_m_kennedy,scotus_justice,581.969,582.766,Let me--
+2005.04-928,0,15060,john_paul_stevens,scotus_justice,582.766,583.485,But what do we do with the case--
+2005.04-928,0,15113,anthony_m_kennedy,scotus_justice,583.485,584.22,--ask you--
+2005.04-928,0,15060,john_paul_stevens,scotus_justice,584.22,590.736,"--if your opponent acknowledges that... or stipulates, in effect, that he's not going to put anything in except what's already in the transcripts?"
+2005.04-928,0,36859,mary_h_williams,,592.002,593.847,"--I think you still have a case, Justice Stevens--"
+2005.04-928,0,15060,john_paul_stevens,scotus_justice,593.847,594.284,Is it--
+2005.04-928,0,36859,mary_h_williams,,594.284,594.988,--because--
+2005.04-928,0,15060,john_paul_stevens,scotus_justice,594.988,595.644,--about the right to argue?
+2005.04-928,0,36859,mary_h_williams,,595.956,599.035,--It's about the right to argue and what the jury is told to do with that.
+2005.04-928,0,15060,john_paul_stevens,scotus_justice,608.005,608.74,Yes.
+2005.04-928,0,36859,mary_h_williams,,609.224,609.865,--may not be willing to--
+2005.04-928,0,15060,john_paul_stevens,scotus_justice,609.865,612.428,--jurisdiction is limited to reviewing a final judgment in this case.
+2005.04-928,0,36859,mary_h_williams,,612.428,612.803,--Yes.
+2005.04-928,0,15060,john_paul_stevens,scotus_justice,612.803,618.68,"We can't give an advisory opinion which would tell you what to do in other cases, which... if that's all it does."
+2005.04-928,0,36859,mary_h_williams,,618.68,625.932,"But I do not believe that a party can force the Court into that position by stipulating that, although the State Supreme Court holding permits it--"
+2005.04-928,0,15060,john_paul_stevens,scotus_justice,625.932,627.042,But would they're--
+2005.04-928,0,36859,mary_h_williams,,627.042,627.401,--to do much more--
+2005.04-928,0,15060,john_paul_stevens,scotus_justice,627.401,631.058,--they would be giving up the right that you claim you don't want them to have.
+2005.04-928,0,36859,mary_h_williams,,631.058,635.918,--But they would give it up in a way that would basically lock the State into a box.
+2005.04-928,0,15060,john_paul_stevens,scotus_justice,636.449,637.246,For other cases--
+2005.04-928,0,36859,mary_h_williams,,637.246,637.84,"--review here, we couldn't get--"
+2005.04-928,0,15060,john_paul_stevens,scotus_justice,637.84,638.372,--but not for this case.
+2005.04-928,0,36859,mary_h_williams,,638.372,638.762,--review.
+2005.04-928,0,15060,john_paul_stevens,scotus_justice,639.778,641.153,Yes.
+2005.04-928,0,36859,mary_h_williams,,641.153,641.966,--that's correct.
+2005.04-928,0,15060,john_paul_stevens,scotus_justice,641.966,647.171,That's why I'm concerned that perhaps we're being confronted with a request for an advisory opinion.
+2005.04-928,0,36859,mary_h_williams,,655.5,671.629,"But I think their stipulation would have to have two parts... one, that they wouldn't put anything else in that wasn't presented in the guilt phase; and, two, that they wouldn't argue that, based on that evidence, the jury should consider doubts about the defendant's guilt in deciding what the appropriate sentence is."
+2005.04-928,0,15060,john_paul_stevens,scotus_justice,671.629,683.741,"We may... we may not have held they have a constitutional right to make that argument, but do you... do you think that the State... that you did... you don't think they could even make the argument as a matter of State procedure or anything at all?"
+2005.04-928,0,36859,mary_h_williams,,683.741,686.21,"Not on the mitigation question, Your Honor."
+2005.04-928,0,15139,stephen_g_breyer,scotus_justice,711.325,711.794,"Well, why is--"
+2005.04-928,0,36859,mary_h_williams,,711.794,712.185,--construed the statute--
+2005.04-928,0,15139,stephen_g_breyer,scotus_justice,712.185,717.186,--What about Oregon revised stat 163.150?
+2005.04-928,0,36859,mary_h_williams,,751.146,756.944,"--Justice Breyer, I'd point you to the... an earlier part of that same section of the statute that says,"
+2005.04-928,0,15139,stephen_g_breyer,scotus_justice,765.556,766.978,But that's a different provision.
+2005.04-928,0,36859,mary_h_williams,,799.719,812.566,"--There... it does serve a different purpose, Your Honor, and that is that... when you read the entire section, what it... what it does is, it says that, first of all, parties may present additional evidence, if it's relevant."
+2005.04-928,0,15049,antonin_scalia,scotus_justice,826.914,843.713,"I suppose that if that provision weren't there, the court would have to decide, item of evidence by item of evidence, which pieces, that the jury has already heard, were relevant to the penalty, and not to the guilt."
+2005.04-928,0,36859,mary_h_williams,,861.108,873.126,"--Justice Scalia, what it does is, it allows the jury to know that just because something hasn't been re presented to them in the penalty phase, but came in, in the guilt phase, it's open for their consideration."
+2005.04-928,0,15084,ruth_bader_ginsburg,scotus_justice,873.126,874.017,Without any clue--
+2005.04-928,0,36859,mary_h_williams,,874.017,874.704,What it doesn't do--
+2005.04-928,0,15084,ruth_bader_ginsburg,scotus_justice,874.704,877.549,--without any clue whether there's a relevance test?
+2005.04-928,0,36859,mary_h_williams,,909.321,916.057,"--And, Justice Ginsburg, other jury instructions will inform the jury how to use what evidence."
+2005.04-928,0,15049,antonin_scalia,scotus_justice,923.481,925.841,"That isn't the basis on which the court decided this case, is it?"
+2005.04-928,0,36859,mary_h_williams,,925.841,926.279,"No, sir."
+2005.04-928,0,15049,antonin_scalia,scotus_justice,926.279,932.186,What we're saying here is that this is a possible basis on which the Oregon Supreme Court might have decided this case.
+2005.04-928,0,36859,mary_h_williams,,943.563,944.282,"Yes, Your Honor."
+2005.04-928,0,15049,antonin_scalia,scotus_justice,944.282,944.719,--And--
+2005.04-928,0,15084,ruth_bader_ginsburg,scotus_justice,944.719,963.099,"No, I wasn't suggesting anything other than what Justice Scalia said, but I was just curious about this statute that tells the jury, ""You can consider everything"", and gives them no guidance, because some of it might be quite inappropriate for them to consider."
+2005.04-928,0,36859,mary_h_williams,,963.099,973.382,"And the guidance does come from the other instructions that tell the jury what the specific questions are that they must answer in the penalty phase, and what they take into account in answering those questions."
+2005.04-928,0,15042,david_h_souter,scotus_justice,973.382,973.695,But--
+2005.04-928,0,15049,antonin_scalia,scotus_justice,973.695,987.526,--What has our constitutional law regarding the requirement of allowing the jury to consider all mitigating factors... the requirement that they have to be allowed to be take into account of that... what guidance has that provided?
+2005.04-928,0,36859,mary_h_williams,,993.121,994.699,In... it has.
+2005.04-928,0,15049,antonin_scalia,scotus_justice,1003.763,1013.328,"Apart from that, apart from the fact of whether the person's guilty or not, have we specified what factors the jury can take into account by way of mitigation?"
+2005.04-928,0,36859,mary_h_williams,,1013.328,1019.61,There are some factors that the Court has described as being required as appropriate for mitigation.
+2005.04-928,0,15049,antonin_scalia,scotus_justice,1023.127,1035.833,"Don't you think that if a State listed specific factors that could be taken into account, and no others, that there would be considerable doubt whether this Court would allow such a statute to stand?"
+2005.04-928,0,36859,mary_h_williams,,1035.833,1054.697,"--I think certainly with respect to the background and character of the defendant, but the question here would be a fairly limited restriction to say that circumstances of the offense presume that the offense has occurred and that the defendant is guilty; and so, evidence inconsistent with that guilt is not a circumstance of the offense."
+2005.04-928,0,15086,john_g_roberts_jr,scotus_justice,1057.354,1058.76,"Thank you, Ms. Williams."
+2005.04-928,1,33978,kannon_k_shanmugam,,1065.246,1068.746,"Thank you, Mr. Chief Justice, and may it please the Court--"
+2005.04-928,1,15086,john_g_roberts_jr,scotus_justice,1077.279,1081.936,"Do you have any view on whether this question is properly before us, given the Oregon statutes?"
+2005.04-928,1,33978,kannon_k_shanmugam,,1081.936,1086.282,"--Mr. Chief Justice, our view is that this Court certainly could reach the constitutional question presented."
+2005.04-928,1,15042,david_h_souter,scotus_justice,1117.633,1118.07,But--
+2005.04-928,1,33978,kannon_k_shanmugam,,1118.07,1118.492,And the--
+2005.04-928,1,15042,david_h_souter,scotus_justice,1118.492,1139.339,"--But, based on what you have just said, which was my understanding, too, assuming the Oregon Supreme Court made the assumption that the mother's testimony had not been admitted at prior trial, the only thing that the Oregon Supreme Court was ruling on was the admissibility of new testimony, and the use to which new testimony could be put, right?"
+2005.04-928,1,33978,kannon_k_shanmugam,,1139.339,1141.887,"--Well, that is correct, Justice Souter."
+2005.04-928,1,15042,david_h_souter,scotus_justice,1141.887,1142.512,So that if the--
+2005.04-928,1,33978,kannon_k_shanmugam,,1142.512,1142.949,I do think--
+2005.04-928,1,15042,david_h_souter,scotus_justice,1142.949,1144.106,"--if the other side says,"
+2005.04-928,1,33978,kannon_k_shanmugam,,1151.281,1165.205,"--Well, I think that we would agree with the State of Oregon that a necessary implication of the Oregon Supreme Court's holding, albeit unstated, was that a defendant is constitutionally entitled to argue residual doubt, as well as to present evidence of residual doubt."
+2005.04-928,1,15042,david_h_souter,scotus_justice,1190.632,1191.117,"Oh, we--"
+2005.04-928,1,33978,kannon_k_shanmugam,,1191.117,1191.507,--an instruction--
+2005.04-928,1,15042,david_h_souter,scotus_justice,1191.507,1197.259,"--have not, but it's possible for, it seems to me... for all we know, it's possible that Oregon could say,"
+2005.04-928,1,33978,kannon_k_shanmugam,,1240.362,1253.599,"--Well, I think that that is true, to some extent, Justice Souter, but I do think that... at least with regard to the question of what factors are relevant to the ultimate determination, that is governed by a quite different statutory provision."
+2005.04-928,1,15113,anthony_m_kennedy,scotus_justice,1262.835,1263.398,"Well, on that--"
+2005.04-928,1,33978,kannon_k_shanmugam,,1263.398,1263.976,And I would further note--
+2005.04-928,1,15113,anthony_m_kennedy,scotus_justice,1263.976,1271.993,"--on that substantive point, it does seem... I assume a Governor could take this into account in clemency?"
+2005.04-928,1,33978,kannon_k_shanmugam,,1271.993,1272.712,"--Yes, certainly."
+2005.04-928,1,15113,anthony_m_kennedy,scotus_justice,1272.712,1277.964,And I suppose the Governors can do more than juries can.
+2005.04-928,1,33978,kannon_k_shanmugam,,1296.139,1320.269,"Well, acceptance of responsibility may present different issues, but we would submit that the fundamental problem with the constitutional rule that the Oregon Supreme Court did expressly adopt is that it would effectively allow jurors, at their discretion, to apply what is a higher standard of proof at capital sentencing than the reasonable doubt standard, which, after all, is the standard that applies in all other criminal contexts."
+2005.04-928,1,15113,anthony_m_kennedy,scotus_justice,1320.269,1324.662,"Well, no, the evidence goes to explain why the defendant is taking the position that he does."
+2005.04-928,1,33978,kannon_k_shanmugam,,1329.521,1330.818,"Well, the jury did--"
+2005.04-928,1,15113,anthony_m_kennedy,scotus_justice,1330.818,1336.289,"--at least it explains his attitude, his demeanor, his refusal to accept responsibility."
+2005.04-928,1,33978,kannon_k_shanmugam,,1337.445,1344.79,"--Well, the jury did determine, at the guilt phase, that the defendant was guilty beyond a reasonable doubt."
+2005.04-928,1,15113,anthony_m_kennedy,scotus_justice,1382.173,1393.003,"Well, it would follow from that, that if a State wanted to exclude the defense evidence on alibi from a sentencing jury's consideration... let's assume it's a new... a new sentencing jury... they could do that."
+2005.04-928,1,33978,kannon_k_shanmugam,,1393.003,1395.176,"--Well, we believe that that would be permissible."
+2005.04-928,1,15060,john_paul_stevens,scotus_justice,1427.933,1428.542,"Of course, that's true--"
+2005.04-928,1,33978,kannon_k_shanmugam,,1428.542,1429.089,--of the offense.
+2005.04-928,1,15060,john_paul_stevens,scotus_justice,1429.089,1429.997,--with respect to putting in new evidence.
+2005.04-928,1,33978,kannon_k_shanmugam,,1441.984,1442.343,I think--
+2005.04-928,1,15060,john_paul_stevens,scotus_justice,1442.343,1442.78,--from happening.
+2005.04-928,1,33978,kannon_k_shanmugam,,1442.78,1444.657,"--as a practical matter, it may be very difficult to--"
+2005.04-928,1,15060,john_paul_stevens,scotus_justice,1444.657,1444.938,Yes.
+2005.04-928,1,33978,kannon_k_shanmugam,,1444.938,1445.328,--prevent it.
+2005.04-928,1,15084,ruth_bader_ginsburg,scotus_justice,1463.583,1470.881,"But there's... used on the other side and as a policy model, the model penal code, I think, says it's okay."
+2005.04-928,1,33978,kannon_k_shanmugam,,1474.96,1477.554,"Justice Ginsburg, the model penal code does say that."
+2005.04-928,1,15049,antonin_scalia,scotus_justice,1493.151,1493.401,When you--
+2005.04-928,1,15084,ruth_bader_ginsburg,scotus_justice,1493.401,1494.604,But there are a number of States that do--
+2005.04-928,1,33978,kannon_k_shanmugam,,1494.604,1499.496,"--To be sure, there are courts in several States... I think we identified seven in our brief--"
+2005.04-928,1,15084,ruth_bader_ginsburg,scotus_justice,1499.496,1499.981,--Your--
+2005.04-928,1,33978,kannon_k_shanmugam,,1499.981,1500.262,--that have--
+2005.04-928,1,15084,ruth_bader_ginsburg,scotus_justice,1500.262,1500.668,--position is--
+2005.04-928,1,33978,kannon_k_shanmugam,,1500.668,1500.965,--recognized--
+2005.04-928,1,15084,ruth_bader_ginsburg,scotus_justice,1500.965,1504.763,"--that it's up to the States, I take it, but it's not compelled by the eighth amendment."
+2005.04-928,1,33978,kannon_k_shanmugam,,1504.763,1515.39,"--That's exactly right, Justice Ginsburg, just as it would be up to the States, at their discretion, to decide to simply adopt a higher standard of proof across the board in capital cases."
+2005.04-928,1,15049,antonin_scalia,scotus_justice,1539.848,1547.132,"--So, you think... you think the Oregon Supreme Court might well come out that way, if it wished, although not resting on the eighth amendment?"
+2005.04-928,1,33978,kannon_k_shanmugam,,1547.132,1552.445,"Might come out that way with regard to the right of a defendant to, say, argue residual doubt?"
+2005.04-928,1,15049,antonin_scalia,scotus_justice,1552.445,1552.695,Yes.
+2005.04-928,1,33978,kannon_k_shanmugam,,1552.695,1556.102,"Well, there's no indication of that on the face of the opinion."
+2005.04-928,1,15086,john_g_roberts_jr,scotus_justice,1585.139,1585.921,"Thank you, Counsel."
+2005.04-928,2,40763,richard_l_wolf,,1588.359,1589.047,Thank you.
+2005.04-928,2,15086,john_g_roberts_jr,scotus_justice,1610.208,1611.036,"Well, but that doesn't matter."
+2005.04-928,2,40763,richard_l_wolf,,1620.772,1634.321,"--Well, with all due respect, Mr. Chief Justice, if Mr. Guzek does not intend to rely upon the eighth amendment, I think that this would moot the case and that the... this Court could then vacate that portion of the Oregon Supreme Court's opinion."
+2005.04-928,2,15086,john_g_roberts_jr,scotus_justice,1634.321,1641.12,"You argue in... an eighth amendment case in the Supreme Court, you win on the eighth amendment, then you leave the courthouse and say,"
+2005.04-928,2,40763,richard_l_wolf,,1643.793,1644.277,Well--
+2005.04-928,2,15086,john_g_roberts_jr,scotus_justice,1644.277,1651.779,"It's still a decision, binding in this case, giving you the right to admit any evidence on residual doubt in the retrial."
+2005.04-928,2,40763,richard_l_wolf,,1651.779,1654.139,"--Well, I respectfully disagree."
+2005.04-928,2,15086,john_g_roberts_jr,scotus_justice,1671.455,1676.691,"But you don't question, or doubt, that the State Supreme Court decision was based on the eighth amendment."
+2005.04-928,2,40763,richard_l_wolf,,1676.691,1677.347,That's correct.
+2005.04-928,2,15086,john_g_roberts_jr,scotus_justice,1677.347,1677.988,Okay.
+2005.04-928,2,15049,antonin_scalia,scotus_justice,1677.988,1694.241,"So, if we vacate it and the case is remanded on that ground, I assume it's still open for you to point out to the Oregon Supreme Court that they were in error about the... about the status of the testimony that you tried to get in, and have it admitted on that ground."
+2005.04-928,2,40763,richard_l_wolf,,1697.726,1698.117,That--
+2005.04-928,2,15049,antonin_scalia,scotus_justice,1698.117,1699.57,"--as you express it, ""mooting the case""?"
+2005.04-928,2,40763,richard_l_wolf,,1699.57,1706.26,"--Well, that... we believe that we are entitled to present it under State law, and we think that is the resolution."
+2005.04-928,2,15049,antonin_scalia,scotus_justice,1706.26,1736.141,"Of course, that... there would still remain... whether you mooted the case, or whether we vacated and then it was left to the Oregon Supreme Court whether to let this evidence in... there would still remain the question of what kind of an instruction the jury can be given regarding the consideration of this evidence for purposes not of determining whether a guilty person should not be given the death penalty, but, rather, for purpose of considering whether the guilt is clear enough."
+2005.04-928,2,40763,richard_l_wolf,,1738.876,1741.22,"Well, not necessarily."
+2005.04-928,2,15049,antonin_scalia,scotus_justice,1741.657,1742.237,Why wouldn't it?
+2005.04-928,2,40763,richard_l_wolf,,1742.237,1759.865,"--Well, I think, under Oregon law, we are entitled to put on... well, first we have to distinguish between these unitary juries and these retrial juries, because, of course, the retrial jury has not heard the evidence from the guilt/innocence phase, from the original trial."
+2005.04-928,2,15049,antonin_scalia,scotus_justice,1773.258,1775.415,"No, I understand, but what are you... what are you going to argue to that jury?"
+2005.04-928,2,40763,richard_l_wolf,,1786.933,1789.121,"Well, that's a potential argument."
+2005.04-928,2,15049,antonin_scalia,scotus_justice,1789.121,1795.919,"And the Oregon Supreme Court says you can make that argument, because the eighth amendment requires you to be able to make that argument."
+2005.04-928,2,40763,richard_l_wolf,,1795.919,1797.044,But we think--
+2005.04-928,2,15049,antonin_scalia,scotus_justice,1797.044,1797.874,"--And what the State says is,"
+2005.04-928,2,40763,richard_l_wolf,,1803.75,1809.485,"Well, we think we're entitled to make it, under Oregon law, in a... regardless of whether we're entitled to make it under--"
+2005.04-928,2,15049,antonin_scalia,scotus_justice,1809.485,1809.782,What the--
+2005.04-928,2,40763,richard_l_wolf,,1809.782,1810.204,--eighth amendment.
+2005.04-928,2,15049,antonin_scalia,scotus_justice,1810.204,1810.845,"--No, no, no."
+2005.04-928,2,40763,richard_l_wolf,,1824.957,1836.975,"I disagree, Justice Scalia, because the court has said that this evidence, regardless... with respect to the grandfather... regardless of its substance, is to be admitted."
+2005.04-928,2,15092,sandra_day_oconnor,scotus_justice,1841.117,1841.742,But considered--
+2005.04-928,2,40763,richard_l_wolf,,1841.742,1842.148,--which Justice Breyer--
+2005.04-928,2,15092,sandra_day_oconnor,scotus_justice,1842.148,1842.601,--for what?
+2005.04-928,2,40763,richard_l_wolf,,1848.977,1849.446,--Correct.
+2005.04-928,2,15092,sandra_day_oconnor,scotus_justice,1849.446,1854.869,"And I don't see how it's relevant to go in at sentencing and say,"
+2005.04-928,2,40763,richard_l_wolf,,1863.7,1864.294,The--
+2005.04-928,2,15092,sandra_day_oconnor,scotus_justice,1864.294,1867.279,You... I don't see how that's open to argument.
+2005.04-928,2,40763,richard_l_wolf,,1889.376,1892.097,"--Well, first of all, we never did argue doubt."
+2005.04-928,2,15049,antonin_scalia,scotus_justice,1963.377,1964.143,In the penalty phase.
+2005.04-928,2,40763,richard_l_wolf,,1964.143,1964.424,Correct.
+2005.04-928,2,15049,antonin_scalia,scotus_justice,1964.424,1964.971,In the penalty phase?
+2005.04-928,2,40763,richard_l_wolf,,1964.971,1965.581,It has not--
+2005.04-928,2,15049,antonin_scalia,scotus_justice,1965.581,1966.753,Hasn't he already been found in the guilt phase?
+2005.04-928,2,40763,richard_l_wolf,,1966.753,1967.159,--No.
+2005.04-928,2,15049,antonin_scalia,scotus_justice,1969.409,1969.754,You--
+2005.04-928,2,40763,richard_l_wolf,,1969.754,1970.238,--questions.
+2005.04-928,2,15049,antonin_scalia,scotus_justice,1970.238,1974.035,--You can be found guilty of murder when you didn't intend to kill?
+2005.04-928,2,40763,richard_l_wolf,,1974.035,1976.349,"No, you must be found guilty of intentional murder."
+2005.04-928,2,15049,antonin_scalia,scotus_justice,2006.856,2014.201,"It seems to me to be very strange, because I think our cases require that for death eligibility, and--"
+2005.04-928,2,40763,richard_l_wolf,,2014.201,2020.921,"--Well, I don't disagree with you, Your Honor, and... however, our petition in this matter was not granted."
+2005.04-928,2,15060,john_paul_stevens,scotus_justice,2027.344,2029.485,"I have two questions, if I may."
+2005.04-928,2,40763,richard_l_wolf,,2055.96,2058.57,"--Well, first of all--"
+2005.04-928,2,15060,john_paul_stevens,scotus_justice,2058.57,2063.603,"Because I got the impression, from your motion to dismiss the writ as improvidently granted, that you did not."
+2005.04-928,2,40763,richard_l_wolf,,2067.447,2070.728,"--Well, we believe that we are entitled to... clearly, under the--"
+2005.04-928,2,15060,john_paul_stevens,scotus_justice,2070.728,2071.087,To--
+2005.04-928,2,40763,richard_l_wolf,,2071.087,2071.885,"--statute, to--"
+2005.04-928,2,15060,john_paul_stevens,scotus_justice,2071.885,2072.213,--To put in--
+2005.04-928,2,40763,richard_l_wolf,,2072.213,2073.369,--put on the live testimony of the... of the--
+2005.04-928,2,15060,john_paul_stevens,scotus_justice,2073.369,2073.9,"--Oh, okay."
+2005.04-928,2,40763,richard_l_wolf,,2073.9,2074.525,--of the mother.
+2005.04-928,2,15042,david_h_souter,scotus_justice,2074.525,2074.886,But is that--
+2005.04-928,2,40763,richard_l_wolf,,2074.886,2075.355,The statute--
+2005.04-928,2,15060,john_paul_stevens,scotus_justice,2075.355,2076.806,"So, there definitely is a case before us, then."
+2005.04-928,2,40763,richard_l_wolf,,2076.806,2078.136,--Well--
+2005.04-928,2,15042,david_h_souter,scotus_justice,2078.136,2079.496,"--Well, do you intend to--"
+2005.04-928,2,15060,john_paul_stevens,scotus_justice,2079.496,2083.248,"Then there was really no basis for your motion to dismiss the writ as improvidently granted, if that's true."
+2005.04-928,2,40763,richard_l_wolf,,2083.248,2093.812,"--Well, perhaps not as improvidently granted, but if there is... if the evidence comes in, under Oregon law, and we are disavowing any reliance on the--"
+2005.04-928,2,15139,stephen_g_breyer,scotus_justice,2093.812,2094.187,But under--
+2005.04-928,2,40763,richard_l_wolf,,2094.187,2094.719,--eighth amendment--
+2005.04-928,2,15139,stephen_g_breyer,scotus_justice,2094.719,2099.188,"--Oregon law, what is not clear is... you want to put the mother on the stand."
+2005.04-928,2,40763,richard_l_wolf,,2099.188,2099.672,--Right.
+2005.04-928,2,15139,stephen_g_breyer,scotus_justice,2099.672,2104.533,"Now, do you want to go into anything at all that wasn't raised at the trial?"
+2005.04-928,2,40763,richard_l_wolf,,2104.533,2107.095,Well--
+2005.04-928,2,15139,stephen_g_breyer,scotus_justice,2107.095,2107.987,"I mean, that--"
+2005.04-928,2,40763,richard_l_wolf,,2107.987,2114.707,"--for us to go into anything that wasn't raised in the original trial, that would have to be otherwise relevant."
+2005.04-928,2,15139,stephen_g_breyer,scotus_justice,2114.707,2115.02,--That's right.
+2005.04-928,2,40763,richard_l_wolf,,2116.239,2117.427,"And so, for example, if--"
+2005.04-928,2,15139,stephen_g_breyer,scotus_justice,2117.427,2118.068,--that's why I want to know that.
+2005.04-928,2,40763,richard_l_wolf,,2119.052,2119.396,--if mom--
+2005.04-928,2,15139,stephen_g_breyer,scotus_justice,2119.396,2128.757,"Look, you only get to go into something if it was not otherwise... if it is otherwise relevant; and, therefore, if you want to."
+2005.04-928,2,40763,richard_l_wolf,,2163.468,2168.031,"--Well, no."
+2005.04-928,2,15139,stephen_g_breyer,scotus_justice,2168.031,2168.859,Okay.
+2005.04-928,2,15113,anthony_m_kennedy,scotus_justice,2168.859,2175.08,"I don't understand that answer, in light of the previous discussion about the deliberate... deliberately."
+2005.04-928,2,40763,richard_l_wolf,,2175.08,2179.862,"Well, the deliberateness, Your Honor... to this--"
+2005.04-928,2,15113,anthony_m_kennedy,scotus_justice,2179.862,2192.99,"Did the Oregon courts take the position that, in the sentencing phase, the ""deliberately"" requirement must be judged just by what was then introduced in the guilt phase?"
+2005.04-928,2,40763,richard_l_wolf,,2192.99,2197.475,"--No, it... it's... additional evidence can be put on."
+2005.04-928,2,15113,anthony_m_kennedy,scotus_justice,2197.475,2197.897,But I thought--
+2005.04-928,2,15049,antonin_scalia,scotus_justice,2197.897,2206.164,"--So, you told us that additional evidence on deliberation can be put in the... in the sentencing phase."
+2005.04-928,2,40763,richard_l_wolf,,2208.806,2218.213,"Well, I guess it depends on the nature of... if it is to impeach the codefendant's testimony, if that's deemed to be additional--"
+2005.04-928,2,15139,stephen_g_breyer,scotus_justice,2218.213,2218.37,All right.
+2005.04-928,2,40763,richard_l_wolf,,2245.814,2248.283,--Well--
+2005.04-928,2,15049,antonin_scalia,scotus_justice,2248.283,2250.846,"I would pass, if I were you."
+2005.04-928,2,15139,stephen_g_breyer,scotus_justice,2250.846,2251.471,[Laughter]
+2005.04-928,2,40763,richard_l_wolf,,2251.471,2253.503,"--Well, I didn't--"
+2005.04-928,2,15139,stephen_g_breyer,scotus_justice,2253.503,2257.91,"No, if you pass... if you pass, I will think you do."
+2005.04-928,2,40763,richard_l_wolf,,2267.038,2281.102,"--Well, as a matter of Oregon law, we think we can... we could put mom on, she could testify verbatim from her original trial, and she could be asked, or she could say,"
+2005.04-928,2,15139,stephen_g_breyer,scotus_justice,2283.541,2286.432,"Now, I'm not being tricky about it."
+2005.04-928,2,40763,richard_l_wolf,,2295.637,2299.779,"Well, the... it... I'd ask--"
+2005.04-928,2,15139,stephen_g_breyer,scotus_justice,2299.779,2301.733,"I really would like an answer, if possible."
+2005.04-928,2,40763,richard_l_wolf,,2301.733,2315.298,"--Well, it... the answer, Your Honor, is, I'd ask the Court to look to page 3 of our brief, where the statute is set forth, and look carefully at the way that statute is worded, which says,"
+2005.04-928,2,15139,stephen_g_breyer,scotus_justice,2326.597,2326.956,Right.
+2005.04-928,2,40763,richard_l_wolf,,2336.802,2337.897,No--
+2005.04-928,2,15139,stephen_g_breyer,scotus_justice,2337.897,2345.57,"That is what I am focusing on, and I want to know if you want to go into ""otherwise relevant"", for that reason."
+2005.04-928,2,40763,richard_l_wolf,,2345.57,2352.415,"--Well, with all respect, the Oregon Supreme Court did not say residual doubt was admissible."
+2005.04-928,2,15086,john_g_roberts_jr,scotus_justice,2360.995,2366.966,"It said that your alibi defense, that had been rejected by the prior jury, was relevant under the eighth amendment."
+2005.04-928,2,40763,richard_l_wolf,,2366.966,2368.543,--It did say that.
+2005.04-928,2,15086,john_g_roberts_jr,scotus_justice,2368.543,2369.481,Okay.
+2005.04-928,2,40763,richard_l_wolf,,2369.481,2372.091,But it's relevant to this idea of deliberation.
+2005.04-928,2,15086,john_g_roberts_jr,scotus_justice,2386.656,2386.969,That--
+2005.04-928,2,40763,richard_l_wolf,,2386.969,2387.703,--of deliberation--
+2005.04-928,2,15086,john_g_roberts_jr,scotus_justice,2387.703,2388.454,--that brings up a question I have.
+2005.04-928,2,40763,richard_l_wolf,,2415.803,2417.507,--It could be.
+2005.04-928,2,15049,antonin_scalia,scotus_justice,2421.899,2422.586,They used to have--
+2005.04-928,2,40763,richard_l_wolf,,2422.586,2423.383,--in the sense that--
+2005.04-928,2,15049,antonin_scalia,scotus_justice,2423.383,2423.695,--two trials.
+2005.04-928,2,40763,richard_l_wolf,,2431.76,2432.057,--Right.
+2005.04-928,2,15049,antonin_scalia,scotus_justice,2432.057,2434.089,--now you want to relitigate the same matter.
+2005.04-928,2,40763,richard_l_wolf,,2434.293,2435.402,Not--
+2005.04-928,2,15049,antonin_scalia,scotus_justice,2435.402,2435.731,--I don't--
+2005.04-928,2,40763,richard_l_wolf,,2435.731,2436.512,--not that the same matter.
+2005.04-928,2,15049,antonin_scalia,scotus_justice,2436.512,2445.232,"--And on the basis that the Constitution requires you to be able to relitigate the same matter two times in the same criminal proceeding, that doesn't seem, to me, right."
+2005.04-928,2,40763,richard_l_wolf,,2445.232,2455.172,"Well, but the... but the factual... there are factual determinations to be made in the sentencing proceeding that are a continuation of the original trial."
+2005.04-928,2,15139,stephen_g_breyer,scotus_justice,2455.172,2455.749,Okay.
+2005.04-928,2,40763,richard_l_wolf,,2456.655,2457.001,Okay.
+2005.04-928,2,15139,stephen_g_breyer,scotus_justice,2457.001,2457.392,--issue.
+2005.04-928,2,40763,richard_l_wolf,,2462.111,2462.908,Right.
+2005.04-928,2,15139,stephen_g_breyer,scotus_justice,2462.908,2464.205,"And what the State Court says,"
+2005.04-928,2,40763,richard_l_wolf,,2470.284,2470.831,Right.
+2005.04-928,2,15139,stephen_g_breyer,scotus_justice,2470.831,2471.316,--Okay?
+2005.04-928,2,40763,richard_l_wolf,,2474.739,2475.067,Right.
+2005.04-928,2,15139,stephen_g_breyer,scotus_justice,2475.067,2476.098,Okay?
+2005.04-928,2,40763,richard_l_wolf,,2502.573,2503.323,"Well, if--"
+2005.04-928,2,15139,stephen_g_breyer,scotus_justice,2503.323,2507.542,"Now, my goodness, if you had real evidence of an alibi, why didn't you put it in the first time?"
+2005.04-928,2,40763,richard_l_wolf,,2524.234,2535.517,"--Well, we did put it in the first time in this case, and we don't necessarily need to rely on the eighth amendment, we believe, to put it in, if--"
+2005.04-928,2,15139,stephen_g_breyer,scotus_justice,2535.517,2536.361,"No, I'm agreeing with you--"
+2005.04-928,2,40763,richard_l_wolf,,2536.361,2536.939,--Right.
+2005.04-928,2,15139,stephen_g_breyer,scotus_justice,2536.939,2541.815,--insofar as you have a right to put in what you've put in the first time.
+2005.04-928,2,40763,richard_l_wolf,,2541.815,2542.096,Right.
+2005.04-928,2,15139,stephen_g_breyer,scotus_justice,2542.096,2544.3,I agree with you on that one.
+2005.04-928,2,40763,richard_l_wolf,,2550.051,2550.332,Well--
+2005.04-928,2,15139,stephen_g_breyer,scotus_justice,2550.332,2550.88,--want to do more.
+2005.04-928,2,40763,richard_l_wolf,,2550.88,2551.255,--If--
+2005.04-928,2,15139,stephen_g_breyer,scotus_justice,2551.255,2554.585,"And, in the ""more"" part, where does the Constitution protect you?"
+2005.04-928,2,40763,richard_l_wolf,,2559.476,2571.04,--The Constitution protects us in the sense that it allows us to rebut and respond and reply to evidence offered by the State in aggravation of a sentence of death.
+2005.04-928,2,15084,ruth_bader_ginsburg,scotus_justice,2579.385,2579.792,And your--
+2005.04-928,2,40763,richard_l_wolf,,2579.792,2580.308,And--
+2005.04-928,2,15084,ruth_bader_ginsburg,scotus_justice,2580.308,2581.527,--response is that he wasn't there.
+2005.04-928,2,40763,richard_l_wolf,,2595.015,2597.171,"--Well, but it's also a question of,"
+2005.04-928,2,15049,antonin_scalia,scotus_justice,2606.377,2610.346,"I thought... well, I guess it... I guess it depends on what you mean by an ""alibi""."
+2005.04-928,2,40763,richard_l_wolf,,2620.239,2621.708,"--I think ""alibi"" means,"
+2005.04-928,2,15092,sandra_day_oconnor,scotus_justice,2626.475,2627.022,But it sounds--
+2005.04-928,2,40763,richard_l_wolf,,2627.022,2627.522,--has considered--
+2005.04-928,2,15092,sandra_day_oconnor,scotus_justice,2627.522,2631.804,--like you're trying to relitigate that question at the sentencing hearing.
+2005.04-928,2,40763,richard_l_wolf,,2636.555,2637.649,--No.
+2005.04-928,2,15092,sandra_day_oconnor,scotus_justice,2637.649,2645.931,"So, to the extent the Oregon Supreme Court thought that, and rested its holding on that, we ought to reject it out of hand."
+2005.04-928,2,40763,richard_l_wolf,,2645.931,2656.059,"Well, but our statute requires the jury, in the sentencing phase, to make these additional factual determinations about the offense."
+2005.04-928,2,15092,sandra_day_oconnor,scotus_justice,2656.059,2667.312,"Well, that's up to the court, on remand, but it ought to be straightened out that the eighth amendment does not require relitigation of where the defendant was at the time of the murder."
+2005.04-928,2,40763,richard_l_wolf,,2672.188,2684.909,"Of guilt, but not necessarily of the... but if the evidence of deliberation occurred at other events in the chain of events, than the alibi is relevant to the sentencing question the jury must decide."
+2005.04-928,2,15084,ruth_bader_ginsburg,scotus_justice,2697.584,2699.865,Can you put it... make it concrete for this case?
+2005.04-928,2,40763,richard_l_wolf,,2713.493,2742.078,"Well, there was... there was a timeframe of... there was evidence that they... the codefendants testified that the... the three of them planned to do another burglary of a different house, and then... the codefendants' timeframes are rather fuzzy, but then they went back, at some point, to the defendant's father... house to obtain weapons, and then went on to the ultimate victim's house."
+2005.04-928,2,15084,ruth_bader_ginsburg,scotus_justice,2754.862,2758.394,I still don't... I still don't understand.
+2005.04-928,2,40763,richard_l_wolf,,2782.181,2785.165,"--Well, it was a much longer timeframe than that."
+2005.04-928,2,15086,john_g_roberts_jr,scotus_justice,2808.749,2810.248,You want to put that in?
+2005.04-928,2,40763,richard_l_wolf,,2810.248,2811.531,--Yes.
+2005.04-928,2,15086,john_g_roberts_jr,scotus_justice,2816.141,2821.282,Any new... any new evidence relevant to alibi or degree of guilt.
+2005.04-928,2,40763,richard_l_wolf,,2821.282,2824.877,"--Not to... no, I wouldn't characterize it as to alibi."
+2005.04-928,2,15086,john_g_roberts_jr,scotus_justice,2831.894,2836.833,And you... and you want to retain the right to put in whatever evidence is relevant on those questions.
+2005.04-928,2,40763,richard_l_wolf,,2836.833,2838.051,--Absolutely.
+2005.04-928,2,15086,john_g_roberts_jr,scotus_justice,2838.051,2845.585,"Well, then what was all the discussion about the mother's having... then, when you go back, you can put on anything, whether it was presented before, or not, right?"
+2005.04-928,2,40763,richard_l_wolf,,2849.867,2856.759,"Well, whether it's required under the eighth amendment, or not, is for you to decide, obviously, but we think--"
+2005.04-928,2,15086,john_g_roberts_jr,scotus_justice,2856.759,2857.54,Okay.
+2005.04-928,2,40763,richard_l_wolf,,2857.54,2861.947,--that it's whether or not Oregon law also requires it.
+2005.04-928,2,15084,ruth_bader_ginsburg,scotus_justice,2917.35,2931.196,"Whatever Oregon law might say, or not say, it appears that this Supreme... Oregon Supreme Court was acting under what it thought was the compulsion of the eighth amendment."
+2005.04-928,2,40763,richard_l_wolf,,2941.668,2943.012,Correct.
+2005.04-928,2,15084,ruth_bader_ginsburg,scotus_justice,2943.012,2956.452,But it does seem that this court was operating on the assumption that the eighth amendment required it to let in this alibi and other evidence.
+2005.04-928,2,40763,richard_l_wolf,,2956.452,2968.485,"And we think... we agree that the Oregon Supreme Court went farther than it needed to in this case in order to decide the issue, because, under Oregon law, mom testified--"
+2005.04-928,2,15060,john_paul_stevens,scotus_justice,2968.485,2974.144,"But, you know, we're being asked to decide whether Oregon Supreme Court correctly interpreted the Federal Constitution."
+2005.04-928,2,40763,richard_l_wolf,,2980.177,2980.661,--Uh huh.
+2005.04-928,2,15060,john_paul_stevens,scotus_justice,2980.661,2985.662,But are you going to make any argument in support of the decision made by the Oregon Supreme Court?
+2005.04-928,2,40763,richard_l_wolf,,2985.662,2994.117,"No, not as long as the State of Oregon agrees that this statute operates in an evenhanded fashion."
+2005.04-928,2,15092,sandra_day_oconnor,scotus_justice,3001.978,3002.478,"Well, this is--"
+2005.04-928,2,15060,john_paul_stevens,scotus_justice,3002.478,3002.806,Well--
+2005.04-928,2,15092,sandra_day_oconnor,scotus_justice,3002.806,3003.228,--so odd.
+2005.04-928,2,40763,richard_l_wolf,,3011.542,3012.887,Well--
+2005.04-928,2,15092,sandra_day_oconnor,scotus_justice,3012.887,3015.434,"I mean, you don't seem to be doing that."
+2005.04-928,2,40763,richard_l_wolf,,3015.434,3017.981,"--Well, Your Honor, on the merits, we--"
+2005.04-928,2,15092,sandra_day_oconnor,scotus_justice,3017.981,3019.31,It's very strange.
+2005.04-928,2,40763,richard_l_wolf,,3019.31,3028.062,"--Well, we think that the... that the Oregon Supreme Court decision was correct in... on the... on the eighth amendment."
+2005.04-928,2,15139,stephen_g_breyer,scotus_justice,3047.363,3058.521,"What about... what about... for example, the single most important feature leading juries to recommend against death, apparently, from the studies, is their residual doubt."
+2005.04-928,2,40763,richard_l_wolf,,3097.827,3108.611,"Well, we think that if... by directing that the jury consider all evidence in both phases of the trial, it must be relevant."
+2005.04-928,2,15042,david_h_souter,scotus_justice,3148.462,3159.731,"--Mr. Wolf, in view of the direction this discussion is going in, I want to go back to something that I really think we all thought we had passed but I would like to go back and get clear on."
+2005.04-928,2,40763,richard_l_wolf,,3194.785,3197.223,"--Well, we would intend to call her."
+2005.04-928,2,15042,david_h_souter,scotus_justice,3197.223,3198.974,You do intend to call her.
+2005.04-928,2,40763,richard_l_wolf,,3198.974,3200.131,Because we think it's important--
+2005.04-928,2,15042,david_h_souter,scotus_justice,3200.131,3201.381,"No, I'm not asking why."
+2005.04-928,2,40763,richard_l_wolf,,3208.835,3209.524,--Yes.
+2005.04-928,2,15042,david_h_souter,scotus_justice,3209.524,3209.883,Okay.
+2005.04-928,2,40763,richard_l_wolf,,3209.883,3222.447,"And I'd like to answer the reason for that, because we think the jury is entitled to see her demeanor and gauge, based on how she testifies, how believable she is."
+2005.04-928,2,15060,john_paul_stevens,scotus_justice,3253.704,3254.705,"--Mr. Wolf, I--"
+2005.04-928,2,40763,richard_l_wolf,,3254.705,3256.048,--in which case--
+2005.04-928,2,15060,john_paul_stevens,scotus_justice,3256.048,3256.783,--I had misunderstood something.
+2005.04-928,2,40763,richard_l_wolf,,3260.018,3260.284,--No.
+2005.04-928,2,15060,john_paul_stevens,scotus_justice,3260.643,3263.598,"--Why... because you mentioned, earlier, about the defect in the trial."
+2005.04-928,2,40763,richard_l_wolf,,3263.598,3268.27,"--The convictions... well, the defect was in the penalty phase."
+2005.04-928,2,15060,john_paul_stevens,scotus_justice,3268.27,3268.926,"Oh, okay."
+2005.04-928,2,40763,richard_l_wolf,,3268.926,3270.052,"And so, the convictions are affirmed."
+2005.04-928,2,15086,john_g_roberts_jr,scotus_justice,3393.188,3393.939,"Thank you, Counsel."
+2005.04-928,2,15049,antonin_scalia,scotus_justice,3396.486,3399.08,"General Williams, I have one question."
+2005.04-928,3,36859,mary_h_williams,,3431.478,3435.15,"Justice Scalia, we copied from text those... on those special issues."
+2005.04-928,3,15049,antonin_scalia,scotus_justice,3446.496,3447.371,"Plus, okay."
+2005.04-928,3,36859,mary_h_williams,,3447.371,3447.996,It's from an additional--
+2005.04-928,3,15049,antonin_scalia,scotus_justice,3447.996,3448.277,--I gotcha.
+2005.04-928,3,36859,mary_h_williams,,3448.277,3454.904,"--finding, beyond intentional, that the State has to then establish in the penalty phase."
+2005.04-928,3,15139,stephen_g_breyer,scotus_justice,3500.664,3504.931,"Is the 2:16 a.m. alarm clock in the original trial, or not?"
+2005.04-928,3,36859,mary_h_williams,,3504.931,3508.229,--The mother's testimony about the time from--
+2005.04-928,3,15139,stephen_g_breyer,scotus_justice,3508.229,3508.619,Yes.
+2005.04-928,3,36859,mary_h_williams,,3508.619,3511.463,--2:10 a.m. to 4:20 is in the guilt phase of the trial.
+2005.04-928,3,15086,john_g_roberts_jr,scotus_justice,3553.785,3557.785,"Thank you, Ms. Williams. The case is submitted."

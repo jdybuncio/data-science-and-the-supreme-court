@@ -1,0 +1,192 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1998.98-5864,0,15141,william_h_rehnquist,scotus_justice,0.0,9.036,"We'll hear argument next in Number 98-5864, Tommy David Strickler v. Fred W. Greene."
+1998.98-5864,0,35754,miguel_a_estrada,,58.09,62.1,"Thank you, Mr. Chief Justice, and may it please the Court:"
+1998.98-5864,0,15141,william_h_rehnquist,scotus_justice,113.655,118.87,"Your second point would cover both default and prejudice, then, I take it."
+1998.98-5864,0,35754,miguel_a_estrada,,118.87,119.589,"Yes, it would."
+1998.98-5864,0,15049,antonin_scalia,scotus_justice,126.675,128.465,I'm not sure what you mean by your second point.
+1998.98-5864,0,35754,miguel_a_estrada,,133.4,143.906,"We... yes, in this case, Justice Scalia, and what I mean by that is this."
+1998.98-5864,0,15049,antonin_scalia,scotus_justice,167.992,170.213,"Of cause, well, let me ask you about cause here."
+1998.98-5864,0,35754,miguel_a_estrada,,181.58,187.045,"It was discovered, Justice Scalia, by sheer happenstance."
+1998.98-5864,0,15049,antonin_scalia,scotus_justice,237.849,240.919,Couldn't that have been obtained before the filing of the State habeas?
+1998.98-5864,0,35754,miguel_a_estrada,,240.919,241.4,Well--
+1998.98-5864,0,15049,antonin_scalia,scotus_justice,241.4,242.341,The same thing?
+1998.98-5864,0,35754,miguel_a_estrada,,242.341,244.962,"--No, Justice Scalia."
+1998.98-5864,0,15049,antonin_scalia,scotus_justice,264.487,267.797,Wasn't one of the claims in the State habeas precisely a Brady violation?
+1998.98-5864,0,35754,miguel_a_estrada,,268.608,274.001,"No, Justice Scalia, with all due respect, that is not actually correct."
+1998.98-5864,0,15049,antonin_scalia,scotus_justice,274.622,275.704,"With respect, I'm asking a question."
+1998.98-5864,0,35754,miguel_a_estrada,,276.131,276.662,--Well--
+1998.98-5864,0,15113,anthony_m_kennedy,scotus_justice,276.662,282.205,--Wasn't it part of the inadequate assistance of counsel claim that was made at one time in State habeas?
+1998.98-5864,0,35754,miguel_a_estrada,,298.398,300.208,"--Justice Kennedy, no."
+1998.98-5864,0,15049,antonin_scalia,scotus_justice,357.316,361.859,And one of those things you say was that he did not pursue a Brady violation.
+1998.98-5864,0,35754,miguel_a_estrada,,361.859,362.549,"Yes, Justice Scalia."
+1998.98-5864,0,15049,antonin_scalia,scotus_justice,362.549,369.273,"So he was on notice at that point that the Brady violation issue should have been pursued, and yet he did not pursue it."
+1998.98-5864,0,35754,miguel_a_estrada,,369.273,369.744,No.
+1998.98-5864,0,15141,william_h_rehnquist,scotus_justice,378.28,379.359,"Okay, but if he had failed--"
+1998.98-5864,0,35754,miguel_a_estrada,,389.167,396.643,"--Mr. Chief Justice, that is the legal theory under which one would usually plead an ineffective assistance claim."
+1998.98-5864,0,15042,david_h_souter,scotus_justice,430.434,453.537,"But in any case, I think it's also your argument that, even assuming that they would sensibly have thought at least of a Brady claim, there would still have been cause here, because, consistently throughout the litigation, the Commonwealth of Virginia had taken the position that in fact they had an open file and therefore that, after all, would be cause not to pursue the claim any further than you went."
+1998.98-5864,0,35754,miguel_a_estrada,,453.537,460.823,"Yes, Justice Souter, and in addition there is an additional factor that bears on the issue that was raised by Justice Scalia here."
+1998.98-5864,0,15113,anthony_m_kennedy,scotus_justice,482.078,497.336,"Well, leaving Brady aside, and correct me if I'm wrong, leaving Brady aside, my understanding is that Virginia does not have in its open file or in its prosecutor's file investigative reports such as Claytor's, correct?"
+1998.98-5864,0,35754,miguel_a_estrada,,497.336,502.431,"That is actually not accurate, Justice Kennedy."
+1998.98-5864,0,15113,anthony_m_kennedy,scotus_justice,503.333,511.648,"Well, but I had thought part of your submission was that you couldn't get these reports under Virginia rule because they're investigative reports that are not disclosable."
+1998.98-5864,0,35754,miguel_a_estrada,,511.648,512.717,--Once--
+1998.98-5864,0,15113,anthony_m_kennedy,scotus_justice,512.717,513.488,Absent Brady.
+1998.98-5864,0,35754,miguel_a_estrada,,513.488,519.982,"--Once the State had made a judgment that they were not covered by Brady, we could not go into a court because it would be deemed privileged."
+1998.98-5864,0,15113,anthony_m_kennedy,scotus_justice,540.476,543.277,"Well, but then you're making Brady more or less self executing."
+1998.98-5864,0,35754,miguel_a_estrada,,545.618,574.537,"--Justice Kennedy, given that this Court held in the Amadeo case that concealment is always cause if it is established, and given that it is an element of the Brady claim that there would be withholding of the evidence, it would ordinarily be the case that if you have a Brady claim in which you are able to make out the elements of the claim, you would almost be there on the issue of cause."
+1998.98-5864,0,15141,william_h_rehnquist,scotus_justice,574.537,578.3,"Concealment suggests something affirmative though, does it not?"
+1998.98-5864,0,35754,miguel_a_estrada,,578.3,582.434,"Concealment suggests, indeed, something affirmative, and--"
+1998.98-5864,0,15141,william_h_rehnquist,scotus_justice,582.434,586.345,"Not just a failure to disclose, but an effort to actually hide."
+1998.98-5864,0,35754,miguel_a_estrada,,586.345,593.231,"--Well, it is a failure to disclose and at least coupled with a representation that everything had been turned over."
+1998.98-5864,0,15092,sandra_day_oconnor,scotus_justice,593.231,594.663,And I take it that's--
+1998.98-5864,0,35754,miguel_a_estrada,,607.729,608.92,"Yes, we do, Justice O'Connor."
+1998.98-5864,0,15049,antonin_scalia,scotus_justice,608.92,609.812,You do not at the trial.
+1998.98-5864,0,35754,miguel_a_estrada,,618.859,619.667,"No, but--"
+1998.98-5864,0,15049,antonin_scalia,scotus_justice,619.667,631.625,You... that statement is only made in the middle of the State habeas proceeding and therefore cannot explain your failure to do anything at the commencement of the State habeas proceedings.
+1998.98-5864,0,35754,miguel_a_estrada,,637.508,639.979,"--Justice Scalia, that is not so for two reasons."
+1998.98-5864,0,15113,anthony_m_kennedy,scotus_justice,665.038,667.389,But prosecutors always say they comply with Brady.
+1998.98-5864,0,35754,miguel_a_estrada,,676.726,680.048,"--Well, Justice Kennedy, two points."
+1998.98-5864,0,15049,antonin_scalia,scotus_justice,764.251,767.884,That says nothing more than what Justice Kennedy says.
+1998.98-5864,0,35754,miguel_a_estrada,,790.92,815.636,"Justice Scalia, I think it is not quite the same thing, because failure to disclose the exculpatory evidence under the Brady case law without a request and without a representation of any sort, implied or expressed, is a completed Brady violation if the materials are exculpatory and material, if they're important enough."
+1998.98-5864,0,15084,ruth_bader_ginsburg,scotus_justice,845.255,849.759,"May I ask you something about a procedural course, even before you get into all of this?"
+1998.98-5864,0,35754,miguel_a_estrada,,892.288,896.389,"--Two... two issues, Justice Ginsburg."
+1998.98-5864,0,15049,antonin_scalia,scotus_justice,971.149,977.213,"Whenever you ask for the court's help, you implicitly ask for whatever you should have asked for, is that the principle you want us to accept?"
+1998.98-5864,0,35754,miguel_a_estrada,,977.213,977.434,No.
+1998.98-5864,0,15049,antonin_scalia,scotus_justice,978.482,986.319,You should have asked for these... for the documents that related to your client that were the documents of the investigation.
+1998.98-5864,0,35754,miguel_a_estrada,,998.785,999.246,--Well--
+1998.98-5864,0,15049,antonin_scalia,scotus_justice,999.246,1001.129,"Not just say, give us help for whatever we need."
+1998.98-5864,0,35754,miguel_a_estrada,,1001.129,1010.523,"--Well, that's... but this is highly germane to the questions that Justice Ginsburg asked, because that was exactly the motion if... if one was made in Federal court."
+1998.98-5864,0,15084,ruth_bader_ginsburg,scotus_justice,1030.318,1037.2,"And it had nothing to do with Brady or not specifically to do with... it was just a total, sweeping, discover anything about this case--"
+1998.98-5864,0,35754,miguel_a_estrada,,1037.2,1037.491,Yes.
+1998.98-5864,0,15084,ruth_bader_ginsburg,scotus_justice,1037.491,1038.412,--psychiatric evidence--
+1998.98-5864,0,35754,miguel_a_estrada,,1038.412,1050.22,"And as it happens the Fourth Circuit since then has ruled that this sort of ex parte discovery may not be conducted, so this is something that could not arise in the Fourth Circuit in the present day."
+1998.98-5864,0,15092,sandra_day_oconnor,scotus_justice,1059.897,1070.303,"--Mr. Estrada, the State seems to suggest that the petitioner's lawyers knew of the witness Stoltzfus' materials at the time of the trial."
+1998.98-5864,0,35754,miguel_a_estrada,,1074.847,1076.166,One of their claims.
+1998.98-5864,0,15092,sandra_day_oconnor,scotus_justice,1076.166,1077.007,--one of their claims.
+1998.98-5864,0,35754,miguel_a_estrada,,1077.007,1080.229,And they have several variants of that.
+1998.98-5864,0,15092,sandra_day_oconnor,scotus_justice,1080.229,1089.125,"What we're really talking about here are a series of statements made over a period of time by the witness Stoltzfus, right?"
+1998.98-5864,0,35754,miguel_a_estrada,,1089.125,1092.678,"Mm hmm, and we did not have those statements."
+1998.98-5864,0,15092,sandra_day_oconnor,scotus_justice,1093.888,1095.24,"You had some of them, three of them?"
+1998.98-5864,0,35754,miguel_a_estrada,,1095.24,1104.454,"--It is conceded for present purposes in this Court, and because of the posture of the case at summary judgment, that we will assume we had three of them."
+1998.98-5864,0,15092,sandra_day_oconnor,scotus_justice,1104.454,1107.356,And we take the case on that assumption.
+1998.98-5864,0,35754,miguel_a_estrada,,1107.356,1110.979,"And you take the case on that assumption, at least for ruling--"
+1998.98-5864,0,15092,sandra_day_oconnor,scotus_justice,1110.979,1113.84,And so how do you respond to their assertion that you had them all?
+1998.98-5864,0,35754,miguel_a_estrada,,1113.84,1139.429,"--I... their claim is based on a one paragraph affidavit by one of the counsel for Mr. Strickler, Mr. Roberts, who asserts in fact that he does not recall ever seeing any of these documents, but that he does recall some unspecified information that is reflected in them that led him to think that her story had gotten better over time."
+1998.98-5864,0,15049,antonin_scalia,scotus_justice,1170.198,1172.709,"But that isn't the point, whether you had the other five documents."
+1998.98-5864,0,35754,miguel_a_estrada,,1194.183,1198.346,"Justice Scalia, there are two answers to that."
+1998.98-5864,0,15049,antonin_scalia,scotus_justice,1215.268,1219.031,"True, but that isn't the issue, whether he could have confronted the witness."
+1998.98-5864,0,35754,miguel_a_estrada,,1227.394,1246.376,"--Justice Scalia, the answer to that is no, because if all you thought was that she had had interviews with the detective, or she had met with the prosecutor, that did not give you any notice that she had made inconsistent statement, much less, did she give you notice."
+1998.98-5864,0,15042,david_h_souter,scotus_justice,1246.376,1255.102,"In other words, you have three documents that you're conceding for the sake of argument here would have put you on notice, in effect, of just what you would have suspected at the trial, and that is should she talked with the--"
+1998.98-5864,0,35754,miguel_a_estrada,,1255.102,1277.618,"That's correct, and I will point out that we sent an investigator to talk with Ms. Stoltzfus in advance of the trial, and his affidavit is in the record, and she inquired on whose behalf he was there for, was told that it was on behalf of Strickler, and she said, have a good day, goodbye."
+1998.98-5864,0,15042,david_h_souter,scotus_justice,1288.495,1289.076,"--Well, I--"
+1998.98-5864,0,35754,miguel_a_estrada,,1289.076,1289.897,--that everything was all right.
+1998.98-5864,0,15042,david_h_souter,scotus_justice,1289.897,1296.76,"--Well, may I take you back to one other representation, because we were on the State habeas, and then we got off it, and there's just one thing I want to make sure I'm clear on."
+1998.98-5864,0,35754,miguel_a_estrada,,1308.166,1309.257,"That is correct, Justice Souter."
+1998.98-5864,0,15042,david_h_souter,scotus_justice,1309.257,1321.236,"You were asked... I don't remember whether it was by the court or put on as, it were, on the spot by the State in saying, do you have any specific reason to believe, or any evidence that you were in fact prejudiced."
+1998.98-5864,0,35754,miguel_a_estrada,,1321.236,1321.776,Uh huh.
+1998.98-5864,0,15042,david_h_souter,scotus_justice,1321.776,1328.081,"And your response to the court was, no, that's why we want discovery."
+1998.98-5864,0,35754,miguel_a_estrada,,1328.081,1330.412,That's why we want expert assistance.
+1998.98-5864,0,15042,david_h_souter,scotus_justice,1330.412,1332.034,"Okay, expert assistance."
+1998.98-5864,0,35754,miguel_a_estrada,,1350.464,1352.705,"That is right, and in fact--"
+1998.98-5864,0,15042,david_h_souter,scotus_justice,1352.705,1353.166,Do you--
+1998.98-5864,0,35754,miguel_a_estrada,,1353.166,1354.378,--they were worse than being mute.
+1998.98-5864,0,15042,david_h_souter,scotus_justice,1354.378,1355.357,--What did they say?
+1998.98-5864,0,35754,miguel_a_estrada,,1355.357,1363.635,"By that time, they had already made the representation in the motion to dismiss that is at page 212 and 213 of the joint appendix, which is--"
+1998.98-5864,0,15042,david_h_souter,scotus_justice,1363.635,1364.884,The open file representation?
+1998.98-5864,0,35754,miguel_a_estrada,,1364.884,1368.487,"--you know, from the outset of the trial we complied with Brady through the open file."
+1998.98-5864,0,15042,david_h_souter,scotus_justice,1368.487,1368.808,Okay.
+1998.98-5864,0,35754,miguel_a_estrada,,1368.808,1385.669,"And after we pointed out that we in effect did not have a basis for claiming harm from the various items that we claimed, and that is at page 234 of the J.A., paragraphs 2 and 3, the State did better than standing mute."
+1998.98-5864,0,15141,william_h_rehnquist,scotus_justice,1403.011,1406.902,"Respondent agrees with what, that Strickler concedes something?"
+1998.98-5864,0,35754,miguel_a_estrada,,1406.902,1412.235,"--That we had no factual support for the claims that we had made, for the claims of harm."
+1998.98-5864,0,15084,ruth_bader_ginsburg,scotus_justice,1442.155,1442.846,"Well, can we get down to the harm?"
+1998.98-5864,0,35754,miguel_a_estrada,,1471.063,1471.444,--Uh huh.
+1998.98-5864,0,15084,ruth_bader_ginsburg,scotus_justice,1471.444,1482.992,"--And as I understand it, although you've used the word concealment, there's no suggestion here that it was anything but some kind of negligence involved that these weren't turned over."
+1998.98-5864,0,35754,miguel_a_estrada,,1482.992,1515.592,"Let me take the last question first, Justice Ginsburg, because under the Brady doctrine the good faith and the bad faith of the prosecutor is irrelevant, and under Kyles, they had an affirmative duty to seek out law enforcement agents who may have had involvement in the investigation to ensure that they had discharged their constitutional duties, so it is not as though the fact that if in good faith they did not have the documents answers the question of whether there was a Brady violation."
+1998.98-5864,0,15084,ruth_bader_ginsburg,scotus_justice,1516.223,1521.376,"I didn't think that, but I'd really like you to concentrate on the prejudice for this reason."
+1998.98-5864,0,35754,miguel_a_estrada,,1550.916,1555.159,"--Well, that is not, in fact, our theory, Justice Ginsburg."
+1998.98-5864,0,15141,william_h_rehnquist,scotus_justice,1578.494,1582.277,"But they went on abduction as well as armed robbery, did they not?"
+1998.98-5864,0,35754,miguel_a_estrada,,1582.277,1586.509,"--That is right, Mr. Chief Justice, but this was a general verdict."
+1998.98-5864,0,15141,william_h_rehnquist,scotus_justice,1601.178,1605.282,But clearly you're not contending your client was not implicated in this killing.
+1998.98-5864,0,35754,miguel_a_estrada,,1605.282,1606.852,We have--
+1998.98-5864,0,15141,william_h_rehnquist,scotus_justice,1606.852,1611.056,"You would be on very shaky ground, I would think, in view of the evidence, if you did."
+1998.98-5864,0,35754,miguel_a_estrada,,1611.056,1623.755,"--Well, I do not think that that is correct, Mr. Chief Justice, because I think you are implicitly giving way to the testimony of Donna Tudor, who a jury would be entitled to find is entitled to no credence."
+1998.98-5864,0,15141,william_h_rehnquist,scotus_justice,1623.755,1629.379,"Well, if Stoltzfus had not testified, are you saying there wouldn't have been enough evidence to go to the jury?"
+1998.98-5864,0,35754,miguel_a_estrada,,1629.379,1639.734,"That is not a... that is not the same question you asked earlier, because in asking the question you just asked, I must assume that the evidence is truthful."
+1998.98-5864,0,15139,stephen_g_breyer,scotus_justice,1641.855,1643.998,"I have one question, just on this line."
+1998.98-5864,0,35754,miguel_a_estrada,,1653.833,1656.557,"--The prejudice, as--"
+1998.98-5864,0,15139,stephen_g_breyer,scotus_justice,1656.557,1658.958,You have to show cause and prejudice.
+1998.98-5864,0,35754,miguel_a_estrada,,1658.958,1659.438,--We were--
+1998.98-5864,0,15139,stephen_g_breyer,scotus_justice,1659.438,1661.64,It's the same question you began to answer to the Chief.
+1998.98-5864,0,35754,miguel_a_estrada,,1661.64,1661.99,--We were--
+1998.98-5864,0,15139,stephen_g_breyer,scotus_justice,1661.99,1669.353,"And I'd like to know precisely what, in your opinion, does the prejudice... because the circuit said there is no prejudice."
+1998.98-5864,0,35754,miguel_a_estrada,,1677.858,1687.455,--The prejudice is that a jury of 12 citizens can sleep very soundly at night thinking that they sent somebody to death on the word of a perfectly reliable witness.
+1998.98-5864,0,15139,stephen_g_breyer,scotus_justice,1687.455,1690.127,"No, look, she... I want to be more precise than that."
+1998.98-5864,0,35754,miguel_a_estrada,,1700.265,1701.684,We would have--
+1998.98-5864,0,15139,stephen_g_breyer,scotus_justice,1701.684,1701.874,Fine.
+1998.98-5864,0,35754,miguel_a_estrada,,1714.694,1726.351,"--That is not true, Justice Breyer, because there were in effect two other witnesses, one of them is Donna Tudor, and she has terribly incriminating things to say, which, for the reasons I pointed out in the brief, should be discounted."
+1998.98-5864,0,15139,stephen_g_breyer,scotus_justice,1740.41,1764.425,"So what I should do to satisfy myself is read through the record, and if I think there is sufficient evidence, leaving Ms. Stoltzfus aside, and discounting Ms. Tudor, if I think nonetheless there is sufficient evidence so I have no doubt, or virtually no doubt that your client was at the place where this woman was killed, and participated in a kidnapping, I should then reject your argument?"
+1998.98-5864,0,35754,miguel_a_estrada,,1764.425,1765.286,--That is not true.
+1998.98-5864,0,15139,stephen_g_breyer,scotus_justice,1765.286,1765.687,Okay.
+1998.98-5864,0,35754,miguel_a_estrada,,1766.296,1775.262,"Because under Kyles the prejudice test, which is the same as the Bagley materiality test, is not a sufficiency of the evidence test."
+1998.98-5864,0,15139,stephen_g_breyer,scotus_justice,1795.257,1796.476,You left out Virginia Smith.
+1998.98-5864,0,35754,miguel_a_estrada,,1804.03,1805.643,--The prejudice comes from--
+1998.98-5864,1,38275,pamela_a_rumpz,,1817.57,1830.479,"Mr. Chief Justice, and may it please the Court:"
+1998.98-5864,1,15092,sandra_day_oconnor,scotus_justice,1845.47,1863.272,"Well now, if we accept the argument that the State represented all along that everything that complied with Brady was in the open file, then does it matter that he didn't seek discovery?"
+1998.98-5864,1,38275,pamela_a_rumpz,,1863.272,1870.234,"If you accept that what the State did was misrepresentation, and if you accept--"
+1998.98-5864,1,15092,sandra_day_oconnor,scotus_justice,1870.234,1875.317,"No, representation that everything complying with Brady was in the open file."
+1998.98-5864,1,38275,pamela_a_rumpz,,1875.317,1875.517,--All right.
+1998.98-5864,1,15113,anthony_m_kennedy,scotus_justice,1918.967,1920.007,But it seems to me--
+1998.98-5864,1,38275,pamela_a_rumpz,,1922.277,1926.19,In my view at the time of the representation in State habeas?
+1998.98-5864,1,15113,anthony_m_kennedy,scotus_justice,1926.19,1929.874,"No, when he filed the State collateral... the habeas in the State collateral proceeding."
+1998.98-5864,1,38275,pamela_a_rumpz,,1929.874,1930.945,Absolutely.
+1998.98-5864,1,15113,anthony_m_kennedy,scotus_justice,1933.287,1935.418,What was the ground for the Brady motion at that time?
+1998.98-5864,1,38275,pamela_a_rumpz,,1935.418,1954.31,"--First of all, as someone here pointed out earlier this morning, an ineffective assistance of counsel claim for failure to seek Brady motion was made in the State habeas petition, thereby alerting the State post conviction counsel, or giving rise to an inference that this ought to be something that should have been looked into."
+1998.98-5864,1,15113,anthony_m_kennedy,scotus_justice,1955.039,1969.491,"Well, to... to succeed on the Brady, on a motion to have Brady discovery in the State collateral proceeding, do you not have to show some reason to believe that Brady material was withheld?"
+1998.98-5864,1,38275,pamela_a_rumpz,,1969.491,1969.919,--You have--
+1998.98-5864,1,15113,anthony_m_kennedy,scotus_justice,1969.919,1970.69,Or am I wrong about that?
+1998.98-5864,1,38275,pamela_a_rumpz,,1970.69,1970.94,--No.
+1998.98-5864,1,15113,anthony_m_kennedy,scotus_justice,1996.195,1997.096,"No, but as I under--"
+1998.98-5864,1,38275,pamela_a_rumpz,,2004.931,2023.174,"--As the Fourth Circuit noted in its opinion, the fact that Ann Stoltzfus had testified during cross examination that she had spoken with Detective Claytor a number of times certainly should have alerted a reasonable, diligent State habeas lawyer that they needed to investigate further into what she might have said."
+1998.98-5864,1,15113,anthony_m_kennedy,scotus_justice,2023.174,2028.917,"Well, but don't you have to show that there's cause for a Brady viol... don't you have to show that there's reason to know that she might have changed her story?"
+1998.98-5864,1,38275,pamela_a_rumpz,,2028.917,2044.288,"Yes, and that that representation, coupled with the fact that prior to trial, the Sunday before trial began, Ms. Stoltzfus gave a detailed interview to the Roanoke Times newspaper."
+1998.98-5864,1,15060,john_paul_stevens,scotus_justice,2078.07,2096.513,"But may I just ask on that point, at the... in your motion to dismiss at the commencement of the State collateral proceeding, you represented, or the State did, given that counsel were voluntarily given full disclosure of everything known to the Government, there was no need for a formal motion."
+1998.98-5864,1,38275,pamela_a_rumpz,,2102.716,2109.35,"--The position is... well, that is the statement that was made."
+1998.98-5864,1,15060,john_paul_stevens,scotus_justice,2109.35,2112.302,So that was the position of the State of Virginia at that time.
+1998.98-5864,1,38275,pamela_a_rumpz,,2112.302,2120.056,"I don't think that can be taken, first of all, as an unequivocal statement for a number of reasons."
+1998.98-5864,1,15042,david_h_souter,scotus_justice,2120.507,2121.599,"Well, you said known to the Government."
+1998.98-5864,1,38275,pamela_a_rumpz,,2163.916,2169.21,"--It may be a natural reading, but interestingly enough it was not the reading by either of the parties in this case."
+1998.98-5864,1,15042,david_h_souter,scotus_justice,2173.762,2184.26,"Well, it may not have been intended by the warden, but isn't that a proper basis upon which defense counsel could have understood it and, if so, why in the world is that not adequate cause for going no further?"
+1998.98-5864,1,38275,pamela_a_rumpz,,2184.26,2199.31,"--Well, all right, assuming that this is... that is exactly how counsel could have understood it, as an unequivocal admission that there were no further Brady motion, the reason why it can't operate as cause in this case is very simple."
+1998.98-5864,1,15042,david_h_souter,scotus_justice,2209.295,2218.622,"Well, it raised a claim of ineffective assistance predicated upon the failure to make a Brady motion."
+1998.98-5864,1,38275,pamela_a_rumpz,,2251.553,2252.763,"Well, I have to disagree."
+1998.98-5864,1,15042,david_h_souter,scotus_justice,2261.869,2263.592,"All right, then let me ask you this."
+1998.98-5864,1,38275,pamela_a_rumpz,,2263.592,2263.872,--a distinct claim.
+1998.98-5864,1,15042,david_h_souter,scotus_justice,2263.872,2264.723,Let me ask you this.
+1998.98-5864,1,38275,pamela_a_rumpz,,2299.345,2305.169,I guess I'm not following you.
+1998.98-5864,1,15042,david_h_souter,scotus_justice,2305.169,2306.489,"My question is, would you have conceded error."
+1998.98-5864,1,38275,pamela_a_rumpz,,2309.722,2310.683,"Well, I think that's true."
+1998.98-5864,1,15042,david_h_souter,scotus_justice,2310.683,2313.554,"You would have said, look, they've only gone half way on the ineffective assistance point."
+1998.98-5864,1,38275,pamela_a_rumpz,,2352.55,2363.156,And if they had made the required good cause threshold showing in State court they would have or could have been entitled to have their claim decided in the Federal courts.
+1998.98-5864,1,15042,david_h_souter,scotus_justice,2363.156,2363.386,"Well, sure."
+1998.98-5864,1,38275,pamela_a_rumpz,,2364.097,2364.377,But they didn't.
+1998.98-5864,1,15141,william_h_rehnquist,scotus_justice,2364.377,2376.834,"--I notice that the opinion of the supreme court of Virginia in the State habeas proceeding came down in January 1995, which I think was somewhat before our decision in the Kyles case."
+1998.98-5864,1,38275,pamela_a_rumpz,,2383.439,2386.281,In the State post conviction proceedings?
+1998.98-5864,1,15141,william_h_rehnquist,scotus_justice,2386.281,2386.491,Yes.
+1998.98-5864,1,38275,pamela_a_rumpz,,2386.491,2387.483,"Yes, I do."
+1998.98-5864,1,15060,john_paul_stevens,scotus_justice,2401.912,2402.262,Thank you.
+1998.98-5864,1,38275,pamela_a_rumpz,,2437.074,2440.777,I think I do.
+1998.98-5864,1,15060,john_paul_stevens,scotus_justice,2440.777,2450.164,"You earlier said to me, well, they were on notice that there was... might well have been a Brady claim because the newspaper stories indicated that this wouldn't have... may not have been reliable, a lot of other stuff."
+1998.98-5864,1,38275,pamela_a_rumpz,,2459.44,2466.293,The State took the position that everything they were entitled to... I guess the question assumes that--
+1998.98-5864,1,15049,antonin_scalia,scotus_justice,2466.293,2467.155,Maybe the State was lying.
+1998.98-5864,1,38275,pamela_a_rumpz,,2470.097,2474.03,"--Well, I'd like to take that position."
+1998.98-5864,1,15049,antonin_scalia,scotus_justice,2474.03,2475.6,"I mean, I know you'd like to, but is that essential to your case?"
+1998.98-5864,1,38275,pamela_a_rumpz,,2479.082,2482.735,"In this case, no, it definitely would not."
+1998.98-5864,1,15060,john_paul_stevens,scotus_justice,2501.507,2501.857,But is said--
+1998.98-5864,1,38275,pamela_a_rumpz,,2517.647,2520.739,--Did the State habeas lawyers--
+1998.98-5864,1,15060,john_paul_stevens,scotus_justice,2520.739,2520.91,Yes.
+1998.98-5864,1,38275,pamela_a_rumpz,,2520.91,2521.949,--representing the Commonwealth know?
+1998.98-5864,1,15060,john_paul_stevens,scotus_justice,2526.813,2530.204,"And don't you also think, no, that the prosecutor didn't know at the time of trial?"
+1998.98-5864,1,38275,pamela_a_rumpz,,2530.204,2533.947,The prosecutor didn't know of the five documents at the time of trial.
+1998.98-5864,1,15060,john_paul_stevens,scotus_justice,2539.39,2543.023,"And do you also agree that if he had known of them, he would have had a duty to turn them over?"
+1998.98-5864,1,38275,pamela_a_rumpz,,2543.023,2543.965,Absolutely not.
+1998.98-5864,1,15060,john_paul_stevens,scotus_justice,2543.965,2545.274,You don't agree with that?
+1998.98-5864,1,38275,pamela_a_rumpz,,2545.274,2545.565,No.

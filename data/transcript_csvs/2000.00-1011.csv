@@ -1,0 +1,234 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2000.00-1011,0,15141,william_h_rehnquist,scotus_justice,0.0,11.767,"We'll hear argument now in Number 00-1011, Deboris Calcano-Martinez v. The Immigration and Naturalization Service."
+2000.00-1011,0,34513,lucas_guttentag,,12.982,15.854,"Mr. Chief Justice, and may it please the Court:"
+2000.00-1011,0,15049,antonin_scalia,scotus_justice,62.044,66.768,You say the legal validity of his deportation is at issue.
+2000.00-1011,0,34513,lucas_guttentag,,74.387,75.418,Your Honor...
+2000.00-1011,0,15049,antonin_scalia,scotus_justice,75.418,81.362,"As I understood it, it is conceded that he met the qualifications for deportation."
+2000.00-1011,0,34513,lucas_guttentag,,81.362,94.448,"He is...  our clients are subject to the deportability grounds, but they are not subject to deportation without an adjudication of the application for discretionary relief."
+2000.00-1011,0,15049,antonin_scalia,scotus_justice,96.472,112.652,"What you're complaining about is that the Attorney General did not accord them discretionary relief, but all of your grounds for asserting that you're not deportable you had an opportunity to challenge in court, didn't you?"
+2000.00-1011,0,34513,lucas_guttentag,,112.652,119.301,"Well, Your Honor, the question is whether the final order of deportation was properly entered and, under this Court's case law..."
+2000.00-1011,0,15049,antonin_scalia,scotus_justice,119.301,125.739,It was properly entered if all of the qualifications for deportation existed.
+2000.00-1011,0,34513,lucas_guttentag,,133.252,136.43,"No, Your Honor, we disagree with that, respectfully."
+2000.00-1011,0,15141,william_h_rehnquist,scotus_justice,150.259,154.057,"What is your authority for that proposition, Mr. Guttentag, your case authority?"
+2000.00-1011,0,34513,lucas_guttentag,,154.057,160.661,"The Chadha case, Your Honor, the Foti case, all said that the final order of deportation is contingent on..."
+2000.00-1011,0,15141,william_h_rehnquist,scotus_justice,160.661,164.831,"But that was not talking about the Attorney General's discretion, was it?"
+2000.00-1011,0,34513,lucas_guttentag,,164.831,166.112,Yes.
+2000.00-1011,0,15141,william_h_rehnquist,scotus_justice,179.115,182.792,"Well, that was before the IIRIRA, or however you pronounce it."
+2000.00-1011,0,34513,lucas_guttentag,,182.792,186.629,"Yes, but the IIRIRA has not changed that element, Your Honor."
+2000.00-1011,0,15141,william_h_rehnquist,scotus_justice,201.489,204.007,And you concede those have been met here?
+2000.00-1011,0,34513,lucas_guttentag,,204.007,205.493,"We do concede that, Your Honor."
+2000.00-1011,0,15049,antonin_scalia,scotus_justice,211.366,221.84,"And also that all of those grounds can be challenged in court, that IIRIRA does not prevent judicial review of all of those grounds of deportation, right?"
+2000.00-1011,0,34513,lucas_guttentag,,221.84,224.812,"Well, that's a construction of the statute, Your Honor, that the Government's offered."
+2000.00-1011,0,15060,john_paul_stevens,scotus_justice,236.208,246.526,Could I just interrupt you with one quick...  do you concede that a conviction prior to the date of the enactment of the statute is proper ground for deportation without having an opportunity for discretionary review?
+2000.00-1011,0,34513,lucas_guttentag,,246.526,253.048,"Well, the conviction itself is a basis for triggering the grounds of deportability."
+2000.00-1011,0,15060,john_paul_stevens,scotus_justice,253.048,260.478,"Well, I understand, but are you conceding convictions prior to the enactment of the statute have the same legal effect as convictions after the enactment of the statute?"
+2000.00-1011,0,34513,lucas_guttentag,,260.478,262.79,"Not for purposes of discretionary relief, Your Honor."
+2000.00-1011,0,15042,david_h_souter,scotus_justice,265.308,277.362,"But your claim is that you are entitled to an adjudication at the administrative level, ultimately by the Attorney General, under a statute that contains this discretion."
+2000.00-1011,0,34513,lucas_guttentag,,279.054,279.797,Yes.
+2000.00-1011,0,15042,david_h_souter,scotus_justice,280.79,282.026,Now...  okay.
+2000.00-1011,0,34513,lucas_guttentag,,300.768,301.761,"No, we do not, Your Honor."
+2000.00-1011,0,15141,william_h_rehnquist,scotus_justice,301.761,302.049,Okay.
+2000.00-1011,0,34513,lucas_guttentag,,302.049,308.736,Our claim is that the question of legal eligibility to apply for the discretionary relief is reviewable.
+2000.00-1011,0,15084,ruth_bader_ginsburg,scotus_justice,309.729,335.364,"Mr. Guttentag, may I just add a post script on that question to...  suppose the Attorney General were to say, in light of AEDPA, and however you pronounce the other statute, I have decided that henceforth I will exercise my discretion never to be gracious, and I will simply deny these applications."
+2000.00-1011,0,34513,lucas_guttentag,,348.45,357.655,"Your Honor, we believe that the question of a categorical denial raises a different issue, and whether that's permissible or not, raises a distinct question."
+2000.00-1011,0,15113,anthony_m_kennedy,scotus_justice,391.835,398.4,Suppose there's a case in which it's conceded that the Attorney General has discretionary authority.
+2000.00-1011,0,34513,lucas_guttentag,,414.126,415.612,"No, there's not, Your Honor."
+2000.00-1011,0,15113,anthony_m_kennedy,scotus_justice,415.612,420.813,"Why do you concede there's a final order of deportation here, or do you?"
+2000.00-1011,0,34513,lucas_guttentag,,420.813,421.722,"Well, we do not..."
+2000.00-1011,0,15113,anthony_m_kennedy,scotus_justice,421.722,425.726,Because it seems to me that may be important under the interpretation of the statute.
+2000.00-1011,0,34513,lucas_guttentag,,445.333,449.875,"Well, we certainly agree that there's not a legally valid final order of deportation."
+2000.00-1011,0,15113,anthony_m_kennedy,scotus_justice,460.239,467.502,"Well, do you think there's a final order under the statute, 1252?"
+2000.00-1011,0,34513,lucas_guttentag,,467.502,481.454,"The (a)(2)...  well, we believe there's a final order for purposes of seeking judicial review of the BIA's decision."
+2000.00-1011,0,15113,anthony_m_kennedy,scotus_justice,489.218,494.252,Do you think this is a final order of removal against an alien who is removable?
+2000.00-1011,0,34513,lucas_guttentag,,494.252,504.117,"Well, Your Honor, we believe that the statute, the (a)(2)(C) does not apply to bar review of this claim."
+2000.00-1011,0,15113,anthony_m_kennedy,scotus_justice,532.602,543.492,"Well, I'm just...  in just looking at this statute, it seems to me that the Attorney General does not give much force to the phrase, who is removable."
+2000.00-1011,0,34513,lucas_guttentag,,543.492,544.862,"Right, and that is an..."
+2000.00-1011,0,15113,anthony_m_kennedy,scotus_justice,544.862,561.414,"It makes for an awkward statute, frankly, if you take it out, but it's...  I thought that your argument might be that this...  your client is not an alien who is removable under a final order."
+2000.00-1011,0,34513,lucas_guttentag,,561.414,572.809,"We would certainly accept that interpretation, Your Honor, if removable is not the term that normally appears in the Immigration Act, because the technical term would be deportable."
+2000.00-1011,0,15113,anthony_m_kennedy,scotus_justice,572.809,583.583,"But you're saying that because removable means a person who is potentially deportable, that your client is removable?"
+2000.00-1011,0,34513,lucas_guttentag,,583.583,583.816,No.
+2000.00-1011,0,15113,anthony_m_kennedy,scotus_justice,596.958,622.1,"Well, I'm asking if you could make the argument that your client is not removable because the statute does not prevent discretion being exercised as to him, you've asked for discretion, it hasn't been exercised, so there is no final order against an alien who is removable."
+2000.00-1011,0,34513,lucas_guttentag,,622.1,623.836,We would certainly accept that interpretation.
+2000.00-1011,0,15049,antonin_scalia,scotus_justice,623.836,624.784,But you didn't...  you don't...
+2000.00-1011,0,15113,anthony_m_kennedy,scotus_justice,625.898,628.006,But did you argue...  you don't argue that?
+2000.00-1011,0,34513,lucas_guttentag,,628.006,649.675,We've argued principally that the term review does not preclude the scope of inquiry that's traditionally be encompassed by habeas corpus because of the constitutional problems that would be raised by barring all review.
+2000.00-1011,0,15113,anthony_m_kennedy,scotus_justice,650.668,670.813,"Well, under my submission, and frankly I don't think this works, because the statute is pretty awkward and because of what you've already said about removal, but under...  if there was some merit to this interpretation and it could be adopted to avoid the constitutional problem, then the review wouldn't even be by habeas, it would be just under the review mechanisms of the statute."
+2000.00-1011,0,34513,lucas_guttentag,,670.813,671.306,And we...
+2000.00-1011,0,15113,anthony_m_kennedy,scotus_justice,671.306,673.414,You don't seem to be too happy with that.
+2000.00-1011,0,34513,lucas_guttentag,,673.414,675.893,"No, we absolutely will accept that, Your Honor..."
+2000.00-1011,0,15049,antonin_scalia,scotus_justice,675.893,676.181,Well...
+2000.00-1011,0,34513,lucas_guttentag,,676.181,688.979,"because we believe that there can be review in the court of appeals, and that if the term removable means only a properly entered final order of removable...  removal, then our clients are not removable."
+2000.00-1011,0,15049,antonin_scalia,scotus_justice,688.979,689.722,Mr. Guttentag...
+2000.00-1011,0,34513,lucas_guttentag,,689.722,690.548,They are subject to...
+2000.00-1011,0,15049,antonin_scalia,scotus_justice,690.548,701.777,"May I suggest that the reason you didn't make that argument is that it's not a very good one, because there is more than one section which excludes the judicial review that you're seeking."
+2000.00-1011,0,34513,lucas_guttentag,,739.196,750.053,"But Your Honor, we don't...  that language does not preclude review of our claim, because what 242(g) does is place all review in the court of appeals, and we agree that review can be in the court of appeals."
+2000.00-1011,0,15141,william_h_rehnquist,scotus_justice,763.799,766.771,"Well, do you say there's also then habeas review in the district court?"
+2000.00-1011,0,34513,lucas_guttentag,,766.771,767.431,"No, Your Honor."
+2000.00-1011,0,15139,stephen_g_breyer,scotus_justice,777.341,778.084,Well...
+2000.00-1011,0,34513,lucas_guttentag,,778.084,779.032,We recognize that the...
+2000.00-1011,0,15141,william_h_rehnquist,scotus_justice,779.032,787.122,"Under what...  but not under habeas, you just said, as I understood."
+2000.00-1011,0,34513,lucas_guttentag,,792.323,795.767,We believe that district court review in the...  excuse me.
+2000.00-1011,0,15141,william_h_rehnquist,scotus_justice,810.528,814.409,"Well then, you don't agree with the Second Circuit's decision here."
+2000.00-1011,0,34513,lucas_guttentag,,814.409,823.531,We...  the Second Circuit held that there was district court habeas corpus jurisdiction because it first concluded that there was no review possible in the court of appeals.
+2000.00-1011,0,15141,william_h_rehnquist,scotus_justice,838.642,842.644,"Well, what do you think the term, removable, in (a)(2)(C) means?"
+2000.00-1011,0,34513,lucas_guttentag,,842.644,853.214,"Your Honor, I think the term is ambiguous, because it is not the term, deportable, which is what the immigration statute uses to determine what...  to say that someone is subject to deportation."
+2000.00-1011,0,15141,william_h_rehnquist,scotus_justice,857.234,859.108,So what do you...  what do you...  how do you interpret it?
+2000.00-1011,0,34513,lucas_guttentag,,859.108,871.602,"Your Honor, we believe it means that someone who could be removable, but is not subject to final order of removal, so therefore the statute would not apply to that individual."
+2000.00-1011,0,15141,william_h_rehnquist,scotus_justice,879.237,886.667,Was it adopted just in connection with this provision that provided an alien who was convicted of a felony should be deported?
+2000.00-1011,0,34513,lucas_guttentag,,886.667,888.442,I believe it appears in other places in the Act.
+2000.00-1011,0,15049,antonin_scalia,scotus_justice,892.778,917.503,"Let me ask this, if who is removable, if that embraces the requirement that the Attorney General first have exercised his discretion, why doesn't it also, under that kind of a reading, embrace the requirement that he actually committed a criminal offense covered in section 1182(a)(2)?"
+2000.00-1011,0,34513,lucas_guttentag,,948.422,959.651,"Well, we don't believe it does, Your Honor, but the critical question is whether this claim must be reviewed in some court, and we believe that the answer to that question is clear."
+2000.00-1011,0,15049,antonin_scalia,scotus_justice,959.651,983.139,"That's your constitutional argument, but we're trying to discuss first a proposed statutory argument which would avoid our reaching that, and I'm suggesting that if you read who is removable to embrace...  to make a person unremovable where anything that should have been done has not been done, you open up the whole prior proceedings."
+2000.00-1011,0,34513,lucas_guttentag,,983.139,996.226,"Well, but I believe it's possible to read it, Your Honor, providing a properly entered final order of removal, and that would include the proper, legally authorized exercise of discretionary relief, that if the statute entitles..."
+2000.00-1011,0,15092,sandra_day_oconnor,scotus_justice,996.226,1006.629,"But, of course, the discretionary relief provision was changed, too, wasn't it, and doesn't afford it now for people convicted of this type of crime."
+2000.00-1011,0,34513,lucas_guttentag,,1006.629,1017.691,"Right, but our contention on the merits, Your Honor, is that our clients are eligible for the discretionary relief as it existed at the time of the preenactment event."
+2000.00-1011,0,15113,anthony_m_kennedy,scotus_justice,1041.923,1055.586,"Getting back to the statute, and Justice Scalia's question, the question was, well, suppose he hadn't committed a criminal offense, would that be grounds for saying that the statute doesn't apply?"
+2000.00-1011,0,34513,lucas_guttentag,,1058.392,1059.506,"Right, and that..."
+2000.00-1011,0,15113,anthony_m_kennedy,scotus_justice,1059.506,1061.158,in the habeas portion of the case.
+2000.00-1011,0,34513,lucas_guttentag,,1061.158,1072.675,"Yes, and that whether or not the person actually committed the offense is a question of whether they fit within one of the enumerated categories that are set forth in the statute, and I believe the Government does concede that."
+2000.00-1011,0,15141,william_h_rehnquist,scotus_justice,1072.675,1074.822,"Well, are you saying you could go behind a judgment of conviction?"
+2000.00-1011,0,34513,lucas_guttentag,,1074.822,1076.103,"No, absolutely not, Your Honor."
+2000.00-1011,0,15042,david_h_souter,scotus_justice,1122.748,1140.088,"But the one difference, then, that has been made, that as I understand it that you concede, is that on your view, once it is determined that the Attorney General did apply the statute that authorizes discretion, that would be the end of the review."
+2000.00-1011,0,34513,lucas_guttentag,,1149.126,1150.035,"Yes, we do, Your Honor."
+2000.00-1011,0,15139,stephen_g_breyer,scotus_justice,1150.035,1150.778,Okay.
+2000.00-1011,0,34513,lucas_guttentag,,1150.778,1159.407,We believe that Congress did significantly restrict the scope of judicial review of final orders issued against so-called criminal aliens.
+2000.00-1011,0,15113,anthony_m_kennedy,scotus_justice,1245.804,1256.289,"Again, does that mean there is no final order here, or is it a contingent final order, because this is very important for the statutory argument."
+2000.00-1011,0,34513,lucas_guttentag,,1256.289,1270.945,"Your Honor, if there is no legally issued adjudication, then I suppose it's accurate to say there's no legally valid order, and so therefore there isn't a final order."
+2000.00-1011,0,15113,anthony_m_kennedy,scotus_justice,1270.945,1275.941,"But that...  but then Justice Souter's question is, suppose the discretion was just abused."
+2000.00-1011,0,34513,lucas_guttentag,,1275.941,1277.306,"Well, we don't..."
+2000.00-1011,0,15113,anthony_m_kennedy,scotus_justice,1277.306,1278.436,Would there then be a final order?
+2000.00-1011,0,34513,lucas_guttentag,,1278.436,1289.127,"It depends on if the final order is a question of a piece of paper that the Board of Immigration Appeals issues, in which case there is a final order, or whether the...  there's a legally valid final order..."
+2000.00-1011,0,15042,david_h_souter,scotus_justice,1289.127,1290.142,"Well, I think you're..."
+2000.00-1011,0,15141,william_h_rehnquist,scotus_justice,1290.142,1295.732,Don't you need a final order to go to the court of appeals in the first place?
+2000.00-1011,0,34513,lucas_guttentag,,1295.732,1296.253,"Yes, Your Honor."
+2000.00-1011,0,15042,david_h_souter,scotus_justice,1305.641,1321.888,"So you've got a final order for purposes of seeking review, but if you get the review, you say, well, it is not a valid final order because it was entered without application of the authority to grant discretion."
+2000.00-1011,0,34513,lucas_guttentag,,1321.888,1322.752,"That's correct, Your Honor."
+2000.00-1011,0,15042,david_h_souter,scotus_justice,1322.752,1323.224,Yes.
+2000.00-1011,0,34513,lucas_guttentag,,1323.224,1330.72,That's exactly our...  and the question of eligibility for relief is entirely distinct from the exercise of discretion.
+2000.00-1011,0,15141,william_h_rehnquist,scotus_justice,1339.804,1351.071,"If this is a final order, as you're talking about, 1252 says no court shall have jurisdiction to review any final order of this sort."
+2000.00-1011,0,34513,lucas_guttentag,,1354.886,1358.38,"No, Your Honor, we're not, and we're certainly not intending to."
+2000.00-1011,0,15141,william_h_rehnquist,scotus_justice,1385.584,1390.618,So you're got three different ambiguities in one sentence that you've focused on?
+2000.00-1011,0,34513,lucas_guttentag,,1390.618,1392.021,We think there are many ambiguities.
+2000.00-1011,0,15049,antonin_scalia,scotus_justice,1466.036,1470.207,Did Accardi say that review was constitutionally required?
+2000.00-1011,0,34513,lucas_guttentag,,1470.207,1473.262,Accardi exercised review.
+2000.00-1011,0,15049,antonin_scalia,scotus_justice,1473.262,1474.172,I understand that...
+2000.00-1011,0,34513,lucas_guttentag,,1474.172,1474.831,It did not...
+2000.00-1011,0,15049,antonin_scalia,scotus_justice,1474.831,1488.661,"And I don't know the basis on which it exercised jurisdiction, and our cases are clear that cases which do not address the jurisdictional question are not authority for the existence of jurisdiction."
+2000.00-1011,0,34513,lucas_guttentag,,1491.883,1492.088,I...
+2000.00-1011,0,15049,antonin_scalia,scotus_justice,1492.088,1494.855,but it certainly didn't say that there had been a constitutional violation.
+2000.00-1011,0,34513,lucas_guttentag,,1494.855,1499.89,"I think, Your Honor...  it did not specifically say that, but I think there's two points that are important."
+2000.00-1011,0,15049,antonin_scalia,scotus_justice,1511.118,1512.604,Did Accardi cite Heikkila?
+2000.00-1011,0,34513,lucas_guttentag,,1512.604,1514.833,"I don't believe it did, Your Honor."
+2000.00-1011,0,15049,antonin_scalia,scotus_justice,1514.833,1515.289,It didn't.
+2000.00-1011,0,34513,lucas_guttentag,,1517.64,1518.344,But may I point out...
+2000.00-1011,0,15049,antonin_scalia,scotus_justice,1518.344,1519.996,took jurisdiction.
+2000.00-1011,0,34513,lucas_guttentag,,1519.996,1542.493,"May I point out what the dissent said in Accardi, Your Honor, which is that it specifically objected to the Court's exercise of jurisdiction on the ground that habeas corpus did not encompass the claim raised in that case, and it objected to the exercise of jurisdiction on precisely the same grounds that the Government argues here, that a person is deportable, that it concerns discretionary relief."
+2000.00-1011,0,15141,william_h_rehnquist,scotus_justice,1591.412,1593.474,"Very well, Mr. Guttentag."
+2000.00-1011,1,22617,edwin_s_kneedler,,1595.331,1600.039,"Mr. Chief Justice, and may it please the Court:"
+2000.00-1011,1,15113,anthony_m_kennedy,scotus_justice,1715.703,1723.877,"Could you just remind me, what happens if a collateral attack is underway and the Justice Department institutes deportation proceedings?"
+2000.00-1011,1,22617,edwin_s_kneedler,,1723.877,1732.959,"Unless and until the criminal conviction was set aside, it would be a conviction on which the removal order could be based."
+2000.00-1011,1,15113,anthony_m_kennedy,scotus_justice,1732.959,1746.994,"Suppose there were a very strong showing of deficiency in the conviction, a Brady violation, Gideon violation, would the collateral review court have the authority to stay the deportation?"
+2000.00-1011,1,22617,edwin_s_kneedler,,1746.994,1753.849,"I wouldn't think that would be true, but I think typically what would happen is the immigration judge would stay the removal proceedings."
+2000.00-1011,1,15113,anthony_m_kennedy,scotus_justice,1758.018,1758.573,Suppose it didn't.
+2000.00-1011,1,22617,edwin_s_kneedler,,1760.452,1768.626,"There would be, I think, probably...  I'm not certain about that, but there may be access to the court to stay the removal."
+2000.00-1011,1,15113,anthony_m_kennedy,scotus_justice,1771.598,1774.199,"To which court, the collateral review court in the criminal proceeding?"
+2000.00-1011,1,22617,edwin_s_kneedler,,1774.199,1780.68,"No, I meant the...  I meant the review in the immigration proceedings going to the court of appeals."
+2000.00-1011,1,15113,anthony_m_kennedy,scotus_justice,1782.416,1784.19,"Oh, but I thought there was no review..."
+2000.00-1011,1,22617,edwin_s_kneedler,,1784.19,1784.933,Right.
+2000.00-1011,1,15113,anthony_m_kennedy,scotus_justice,1843.095,1846.439,Mr. Kneedler...
+2000.00-1011,1,22617,edwin_s_kneedler,,1846.439,1847.553,seek a stay of removal in that way.
+2000.00-1011,1,15060,john_paul_stevens,scotus_justice,1847.553,1857.584,"this suggestion, because Justice Kennedy poses a case that, you know, right on the brink of deciding that he's going to have his earlier conviction set aside."
+2000.00-1011,1,22617,edwin_s_kneedler,,1868.98,1869.384,Sure.
+2000.00-1011,1,15060,john_paul_stevens,scotus_justice,1872.817,1873.521,I see.
+2000.00-1011,1,22617,edwin_s_kneedler,,1873.521,1874.143,thought I was giving.
+2000.00-1011,1,15141,william_h_rehnquist,scotus_justice,1897.715,1911.545,"Well, what if the alien has already had a couple of habeas petitions challenging his criminal conviction, which have decided against him, he now gets a final order, and he says, well, I just filed a third habeas application?"
+2000.00-1011,1,22617,edwin_s_kneedler,,1911.545,1918.725,"The court of appeals would not be required to issue a stay of removal, but if it was the first...  I was just addressing the question of power, not whether it should be..."
+2000.00-1011,1,15141,william_h_rehnquist,scotus_justice,1918.725,1926.777,"Well, yes, but ordinarily you don't need a habeas review or collateral review to establish the validity of a conviction."
+2000.00-1011,1,22617,edwin_s_kneedler,,1926.777,1927.199,That is...
+2000.00-1011,1,15141,william_h_rehnquist,scotus_justice,1927.199,1931.607,"That's done on direct review, and when that judgment becomes final, the conviction is..."
+2000.00-1011,1,22617,edwin_s_kneedler,,1931.607,1934.867,"Right, no, absolutely, and I think as a general rule there would be no question."
+2000.00-1011,1,15113,anthony_m_kennedy,scotus_justice,1938.582,1950.471,"Well, if the court of appeals has authority to stay the removal in that case, why doesn't it have the authority to stay the removal here, when it says, I'm in a class of persons to whom this statute simply doesn't apply?"
+2000.00-1011,1,22617,edwin_s_kneedler,,1950.471,1954.064,There's a fundamental difference between the case I think you were positing and this one.
+2000.00-1011,1,15049,antonin_scalia,scotus_justice,1975.363,1978.418,They don't concede that they're removable any more.
+2000.00-1011,1,22617,edwin_s_kneedler,,1988.616,1989.275,Well...
+2000.00-1011,1,15049,antonin_scalia,scotus_justice,1989.275,1994.272,That they are not removable within the meaning of that statute because the last step hasn't been taken?
+2000.00-1011,1,22617,edwin_s_kneedler,,1994.272,1996.872,"Well, the last step was taken."
+2000.00-1011,1,15042,david_h_souter,scotus_justice,1999.511,2006.365,"No, but they're saying the last step is the exercise...  they're saying, the statute that invests him with discretion still applies to my case."
+2000.00-1011,1,15139,stephen_g_breyer,scotus_justice,2015.819,2017.677,That's what they mean by the last step.
+2000.00-1011,1,22617,edwin_s_kneedler,,2017.677,2017.943,Right.
+2000.00-1011,1,15113,anthony_m_kennedy,scotus_justice,2042.53,2047.936,But under your reading the statute is the same as if who is removable isn't even there.
+2000.00-1011,1,22617,edwin_s_kneedler,,2054.829,2058.793,"Well, I think this would only..."
+2000.00-1011,1,15113,anthony_m_kennedy,scotus_justice,2058.793,2064.283,"Because your position is, there's a final order of removal against an alien by reason of having committed a criminal offense."
+2000.00-1011,1,22617,edwin_s_kneedler,,2070.681,2081.251,"Well, it's identifying the subset of aliens against whom a final order has been entered, to whom this preclusion of review applies, and it's..."
+2000.00-1011,1,15042,david_h_souter,scotus_justice,2081.251,2086.907,"Oh, but the statute identifies them by reference to what may be done to them."
+2000.00-1011,1,22617,edwin_s_kneedler,,2123.604,2130.497,"Well, this was a preclusion of review that was obviously intended to accomplish something, and petitioners..."
+2000.00-1011,1,15042,david_h_souter,scotus_justice,2130.497,2138.299,"And their answer is, what it accomplished is, no more review of the exercise of discretion when the discretion is exercised."
+2000.00-1011,1,22617,edwin_s_kneedler,,2138.299,2140.694,That is not governed by paragraph (C).
+2000.00-1011,1,15139,stephen_g_breyer,scotus_justice,2188.082,2201.623,"What Justice Kennedy started out with, I thought, was that their claim here is, there is a section of a new statute, and that section doesn't apply, because it isn't retroactive."
+2000.00-1011,1,22617,edwin_s_kneedler,,2258.382,2258.837,Because they...
+2000.00-1011,1,15139,stephen_g_breyer,scotus_justice,2258.837,2268.663,"and I want to know what is different about a claim, there is no jurisdiction because this whole section of the new statute simply doesn't apply."
+2000.00-1011,1,22617,edwin_s_kneedler,,2268.663,2275.555,"Well, The Attorney General certainly has jurisdiction to decide whether to grant discretionary relief."
+2000.00-1011,1,15084,ruth_bader_ginsburg,scotus_justice,2312.42,2315.021,And that includes saying you didn't intend us to have discretion?
+2000.00-1011,1,22617,edwin_s_kneedler,,2332.277,2350.686,"No, what Congress has done is vest in the Attorney General of the United States the responsibility for interpreting and administering the immigration laws, and in section 1103, that this Court relied upon in the Ageri-Ageri case, this Court said that the Attorney General's interpretation of the immigration laws is controlling."
+2000.00-1011,1,15092,sandra_day_oconnor,scotus_justice,2368.148,2391.432,"But this claim comes very close to being covered by the combination of the Heikkila and Accardi cases, which together indicate that the Constitution requires some kind of judicial review over a claim that an executive actor unlawfully failed to exercise any discretion."
+2000.00-1011,1,22617,edwin_s_kneedler,,2391.432,2399.439,"Well, in Accardi, as Justice Scalia pointed out, it's difficult to figure out exactly on what basis jurisdiction was exercised in Accardi."
+2000.00-1011,1,15092,sandra_day_oconnor,scotus_justice,2400.72,2411.66,"True, it didn't spell it out, but if you look at Heikkila and Accardi together, there's some indication of support for the position of your opposing counsel."
+2000.00-1011,1,22617,edwin_s_kneedler,,2411.66,2418.636,"Well, one thing to bear in mind is that the petitioner in Accardi argued the case in terms of a due process violation."
+2000.00-1011,1,15139,stephen_g_breyer,scotus_justice,2583.015,2591.81,"But there are five, five instances in this case in which, despite the language, you think Congress has decided to permit the very review that the language seems to forbid."
+2000.00-1011,1,22617,edwin_s_kneedler,,2591.81,2602.174,"Well, but in this respect, what...  with respect to whether the person is an alien, and with respect to whether he is removable..."
+2000.00-1011,1,15139,stephen_g_breyer,scotus_justice,2602.174,2602.75,Yes.
+2000.00-1011,1,22617,edwin_s_kneedler,,2602.75,2604.032,by reason of having committed an offense.
+2000.00-1011,1,15139,stephen_g_breyer,scotus_justice,2609.726,2617.778,"Fine, then why wouldn't they also have to decide the question of whether they have jurisdiction at all because this major section of the new statute just doesn't apply?"
+2000.00-1011,1,22617,edwin_s_kneedler,,2617.778,2624.875,"For the reasons that I said, that...  for the reason that I said, is that the Act does not require that."
+2000.00-1011,1,15084,ruth_bader_ginsburg,scotus_justice,2631.934,2646.506,"If she...  he exercised his discretion in a totally arbitrary way to say, admitting people, setting grace on people of one race or one religion, even so, that's just not reviewable?"
+2000.00-1011,1,22617,edwin_s_kneedler,,2646.506,2652.368,"Well, whether or not there would be...  whether or not there would be a review of a constitutional claim we think would be a different matter."
+2000.00-1011,1,15084,ruth_bader_ginsburg,scotus_justice,2668.359,2673.423,What about the argument that Congress never gave the Attorney General such authority?
+2000.00-1011,1,22617,edwin_s_kneedler,,2679.217,2697.571,"Well, the...  all the Act says is that the Attorney General may admit an alien and, with that sort of discretionary grant of authority, this Court has said in cases like Jay v. Boyd, and maybe five terms ago, I think it was, in the Yang case, that that is like the power of pardon."
+2000.00-1011,1,15084,ruth_bader_ginsburg,scotus_justice,2714.29,2731.38,"But is the concept of abuse of discretion...  his authority to exercise discretion, there's lots of discretion in Federal agencies, but there's also a concept of abuse of discretion, and you seem to be saying no, there isn't."
+2000.00-1011,1,22617,edwin_s_kneedler,,2731.38,2741.205,"Well, not every situation in which someone, an administrative officer has been afforded a right to exercise discretion, is there judicial review of that."
+2000.00-1011,1,15049,antonin_scalia,scotus_justice,2759.494,2762.095,"The refusal to grant a pardon, since you're analogizing this..."
+2000.00-1011,1,22617,edwin_s_kneedler,,2762.095,2762.432,Yes.
+2000.00-1011,1,15060,john_paul_stevens,scotus_justice,2821.143,2822.918,"May I just interrupt you, Mr. Kneedler, with this question."
+2000.00-1011,1,22617,edwin_s_kneedler,,2847.166,2857.756,"That is true, because again, what Congress has done has granted a discretionary authority to the Attorney General to decide whether to dispense with removal or not, and let me..."
+2000.00-1011,1,15042,david_h_souter,scotus_justice,2857.756,2874.68,"What you are doing when you say that, it seems to me, is reading the words of the statute that says, removable by virtue of the criminal convictions and so on, to mean not removable, but to mean ordered removed by the Attorney General."
+2000.00-1011,1,22617,edwin_s_kneedler,,2896.766,2901.308,"Well, again, going back to the language of paragraph (c), there are two different clauses."
+2000.00-1011,1,15042,david_h_souter,scotus_justice,2918.231,2919.8,"No, but that's...  no, but that's the question in the case."
+2000.00-1011,1,22617,edwin_s_kneedler,,2919.8,2920.338,"No, the question..."
+2000.00-1011,1,15042,david_h_souter,scotus_justice,2920.338,2929.42,"Is it doing anything other than identifying the kind of order by the Attorney General, or is it doing something more?"
+2000.00-1011,1,15113,anthony_m_kennedy,scotus_justice,2941.309,2941.848,That's...
+2000.00-1011,1,22617,edwin_s_kneedler,,2941.848,2942.258,"Well, I..."
+2000.00-1011,1,15042,david_h_souter,scotus_justice,2942.258,2943.001,That's the issue in the case.
+2000.00-1011,1,22617,edwin_s_kneedler,,2943.001,2947.459,"Well, but again, I...  removable does not stand alone."
+2000.00-1011,1,15042,david_h_souter,scotus_justice,3003.93,3007.895,"Well, the term requires two things."
+2000.00-1011,1,22617,edwin_s_kneedler,,3019.905,3020.277,But a...
+2000.00-1011,1,15042,david_h_souter,scotus_justice,3020.277,3026.676,"and they're saying...  they're not challenging the ground that says, I'm an alien, or the ground that says, I have a conviction."
+2000.00-1011,1,22617,edwin_s_kneedler,,3039.596,3048.595,"But the paragraph (c) goes on to identify the specific statutory provisions that it is referring to, and they are all substantive grounds of removal."
+2000.00-1011,1,15049,antonin_scalia,scotus_justice,3049.271,3052.682,Nobody is removable by reason of that alone.
+2000.00-1011,1,22617,edwin_s_kneedler,,3073.858,3076.376,That's true.
+2000.00-1011,1,15042,david_h_souter,scotus_justice,3087.233,3097.058,"So if Congress wanted to make that point, clearly, Congress would have said, anybody who is ordered removed by reason of being an alien with a criminal conviction."
+2000.00-1011,1,22617,edwin_s_kneedler,,3098.794,3111.547,"But it separately addresses that in the preceding line by saying, review of a final order, and then it's which final order, so I think it's already...  I think Congress has already spoken to that question."
+2000.00-1011,1,15084,ruth_bader_ginsburg,scotus_justice,3112.373,3133.467,"Mr. Kneedler, may I ask you just to clarify what you...  you say there are a number of categories where there is court review before the person is removed, and one of them is a substantial constitutional challenge to an aggravated felony, removal order."
+2000.00-1011,1,22617,edwin_s_kneedler,,3140.033,3173.591,"Well, I suppose there could be...  we don't think it would fail, but I mean...  we don't think it would succeed, but if there were some argument that it would be constitutionally impermissible to apply a ground of deportation to conduct that arose before the statute was passed, or that there was some sort of equal protection violation in singling out one ground of removal over another in providing a ground for removal, that could be a constitutional challenge to the statute under which the person is being ordered removed."
+2000.00-1011,1,15060,john_paul_stevens,scotus_justice,3173.591,3183.705,"If you concede that, why couldn't the litigants in this case say, we make that constitutional argument and, secondly, we say you should construe the statute to avoid that constitutional question, so now we're in court..."
+2000.00-1011,1,22617,edwin_s_kneedler,,3183.705,3186.101,They have not made a constitutional...
+2000.00-1011,1,15060,john_paul_stevens,scotus_justice,3186.101,3187.792,"But if they did that, do you think we could then decide the question?"
+2000.00-1011,1,22617,edwin_s_kneedler,,3187.792,3189.073,We...  I think not.
+2000.00-1011,1,15060,john_paul_stevens,scotus_justice,3224.284,3233.943,"Yes, but that's all perfectly clear with respect to convictions after the statute is passed, but the problem is, it's not quite as clear, as least, as to convictions before the statute was passed, and that's why we have the problem."
+2000.00-1011,1,22617,edwin_s_kneedler,,3233.943,3245.915,"It is, but it wouldn't be at all surprising that in the climate in which Congress acted, what Congress wanted to do was to vest the final determination on questions such as that in the Attorney General."
+2000.00-1011,1,15113,anthony_m_kennedy,scotus_justice,3268.495,3270.435,"Well, I have some question about that."
+2000.00-1011,1,22617,edwin_s_kneedler,,3270.435,3273.119,"Well, this Court held in the Lopez case..."
+2000.00-1011,1,15113,anthony_m_kennedy,scotus_justice,3273.119,3290.292,"I thought the Chennary case, which I never fully understood, says that if the exercise of discretion is committed to an official, the official must exercise that discretion in some instances."
+2000.00-1011,1,22617,edwin_s_kneedler,,3290.292,3312.954,"Well, this is a statute...  again, looking at the statute, in which Congress has given the power to the Attorney General, but unlike, for example, the asylum provision, the asylum provision says in section 208, the Attorney General shall establish a procedure for aliens to file applications for asylum, meaning that the Attorney General has to at least be in a position to receive an application and do something with it."
+2000.00-1011,1,15084,ruth_bader_ginsburg,scotus_justice,3366.553,3384.946,"Well, what was wrong with the court of appeals saying, if there's nothing else, there's always the general habeas, unless Congress says specifically...  mentioning the statutory provision by number or name."
+2000.00-1011,1,22617,edwin_s_kneedler,,3388.95,3399.518,"Well, there's no requirement that Congress, in order to channel all review to a court of appeals, has to specifically mention 2241, but..."
+2000.00-1011,1,15084,ruth_bader_ginsburg,scotus_justice,3399.518,3413.47,"Yes, but the answer...  the Second Circuit was saying, we accept what the Government tells us, there's no review in the court of appeals, but Congress has not deleted the general habeas authority."
+2000.00-1011,1,22617,edwin_s_kneedler,,3413.47,3427.399,"Congress did two things before IIRIRA was enacted in section 401(e), in a provision called, Elimination of Habeas Corpus, Congress repealed the prior provision for habeas corpus relief and secondly, in the provision enacted here, it channeled all review to the courts of appeals."
+2000.00-1011,1,15141,william_h_rehnquist,scotus_justice,3427.399,3428.702,"Thank you, Mr. Kneedler."
+2000.00-1011,2,34513,lucas_guttentag,,3431.757,3433.41,Thank you.
+2000.00-1011,2,15113,anthony_m_kennedy,scotus_justice,3448.864,3453.017,"Can you give me some authority for that proposition, either under the statute, or under our cases?"
+2000.00-1011,2,34513,lucas_guttentag,,3453.017,3455.618,"The Chadha case stands for that proposition, Your Honor."
+2000.00-1011,2,15049,antonin_scalia,scotus_justice,3458.052,3484.802,"The Government says that those cases came out that way simply because the Attorney General had, as a discretionary matter, decided to determine the discretionary element together with the merits determination, so as a matter of fact, it happened to have been preceding the order of deportation, but that there was no legal requirement that that be the case."
+2000.00-1011,2,34513,lucas_guttentag,,3484.802,3487.94,"There continues to be the case that the regulations require that, Your Honor."
+2000.00-1011,2,15049,antonin_scalia,scotus_justice,3505.978,3507.919,"Do you have a regulation number for that, or..."
+2000.00-1011,2,34513,lucas_guttentag,,3507.919,3546.268,"It's 212...  it was 212e(b)(2), I believe, and it's currently also the regulation governing the current version of that, which is the cancellation of removal, and I'd be happy to provide it at the next case, if that's...  that that final order...  and I don't believe the Government would actually contend that under the statute as it's currently implemented, and as it has been since 1917, and under the regulations that govern, that a final order could be entered with the immigration judge or the Board of Immigration Appeals and the Attorney General simply say, I refuse to adjudicate your application for relief."
+2000.00-1011,2,15141,william_h_rehnquist,scotus_justice,3657.93,3659.87,"Thank you, Mr. Guttentag."

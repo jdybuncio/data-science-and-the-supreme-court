@@ -1,0 +1,220 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2016.16-6219,0,15086,john_g_roberts_jr,scotus_justice,0.0,6.665,"We'll hear argument next in Case 16-6219, Davila v. Davis. Mr. Kretzer."
+2016.16-6219,0,62833,seth_kretzer,,6.665,30.5,"Mr. Chief Justice, and may it please the Court: The nature and logic of Martinez naturally applies to claims of ineffective assistance of appellate counsel, just as it does to claims of ineffective assistance of trial counsel. Erick Davila faces execution despite having been convicted pursuant to erroneous jury instructions that vitiated his only viable defense."
+2016.16-6219,0,15131,sonia_sotomayor,scotus_justice,39.06,39.655,But I have --
+2016.16-6219,0,62833,seth_kretzer,,39.655,40.61,-- not the jury instructions.
+2016.16-6219,0,15131,sonia_sotomayor,scotus_justice,40.61,70.975,"May I ask you, when do you believe that counsel below objected? And your brief seems to assume he did, but as I read the transcript, I can't find where he objected clearly. Assuming he didn't object clearly, can you say under any circumstance that appellate counsel was ineffective for choosing the route he did?"
+2016.16-6219,0,62833,seth_kretzer,,70.975,71.91,"Yes, Your --"
+2016.16-6219,0,15131,sonia_sotomayor,scotus_justice,71.91,82.12,"Given plain error review, if there was no objection, wasn't the sufficiency of the evidence the best way to approach a forfeited error?"
+2016.16-6219,0,62833,seth_kretzer,,82.12,86.69,"Well, as an initial matter, it must be remembered that plain error is not the standard in Texas."
+2016.16-6219,0,15131,sonia_sotomayor,scotus_justice,104.13,107.39,He objected to the sequence of what the judge was saying.
+2016.16-6219,0,62833,seth_kretzer,,116.72,117.03,Yes.
+2016.16-6219,0,15131,sonia_sotomayor,scotus_justice,117.03,118.11,-- if my memory is correct.
+2016.16-6219,0,62833,seth_kretzer,,118.11,118.47,Yes.
+2016.16-6219,0,15131,sonia_sotomayor,scotus_justice,118.47,123.03,He didn't -- I don't see any discussion of the Roberts transferred intent.
+2016.16-6219,0,62833,seth_kretzer,,128.995,132.06,"Oh, no, he did not say, then please do give the new one."
+2016.16-6219,0,62836,neil_gorsuch,scotus_justice,144.865,145.95,"But, counsel --"
+2016.16-6219,0,62833,seth_kretzer,,145.95,147.115,And it must be remembered -- oh --
+2016.16-6219,0,62836,neil_gorsuch,scotus_justice,147.115,170.71,"Sorry, counsel. Just to follow up on Justice Sotomayor's point, I think you argued at page 228 of the Joint Appendix that trial counsel's objection was not sufficient to cover the charging error, and I think that the Federal district court on habeas found the same thing on page 366. And so that raises, to my mind, a question whether Martinez applies here."
+2016.16-6219,0,62833,seth_kretzer,,190.485,218.33,"Yes, absolutely. The reason this could not have been couched as a Martinez ineffective assistance of trial claim in Federal habeas is, even if the objection had not been proper to preserve the issue in the Texas State court, and then in the court of criminal appeals, there's still no way that the direct appellate attorney argued the issue either way. In other words, what should have happened, the conforming, constitutionally sufficient direct appellate brief should have argued jury instructional error."
+2016.16-6219,0,15086,john_g_roberts_jr,scotus_justice,237.57,246.415,"One -- one thing a good appellate lawyer will do is pare down the issues that are presented on appeal, even if they think that some of those issues have merit."
+2016.16-6219,0,62833,seth_kretzer,,304.08,305.235,"No, it will not."
+2016.16-6219,0,15084,ruth_bader_ginsburg,scotus_justice,346.7,378.86,"But in this actual case, didn't the district court hold that the ineffective assistance of appellate counsel argument, on the merits, it was insubstantial? And if -- if it was insubstantial, then we didn't -- we don't even have to get to the question you would like to present to us. Wasn't it an alternative holding that, in any case, this objection to the instruction was insubstantial?"
+2016.16-6219,0,62833,seth_kretzer,,378.86,379.41,Yes.
+2016.16-6219,0,15084,ruth_bader_ginsburg,scotus_justice,405.0,405.48,You're not in Missouri --
+2016.16-6219,0,15113,anthony_m_kennedy,scotus_justice,405.48,432.195,"Well, on the -- on the issue of whether or not Martinez should be extended to alleged inadequate assistance of counsel on appeal, what is the test that I'm supposed to apply? The -- the practicality of this? The consequences? The private interests of the prisoners and the public interest in finality -- is that what I'm supposed -- is there some test you want me to apply?"
+2016.16-6219,0,62833,seth_kretzer,,432.195,432.91,Oh --
+2016.16-6219,0,15113,anthony_m_kennedy,scotus_justice,432.91,458.9,"And when this test is applied, I -- I have -- have to say, it was somewhat stunning to me to read at page 15 of your brief that one study indicates that although 81 percent of habeas petitions in capital cases raise a claim of ineffective assistance of counsel, only 31 percent alleged ineffective assistance of appellate counsel, that's a third of the cases."
+2016.16-6219,0,62833,seth_kretzer,,460.895,467.86,"Well, to answer your question, no, the test that we -- the standard we would ask you to apply is the same that was in Martinez."
+2016.16-6219,0,15113,anthony_m_kennedy,scotus_justice,488.645,501.84,"No, but my question was, was the systemic one, is -- is what are the systemic standards I look to, to see whether or not we should extend Martinez to this kind of case?"
+2016.16-6219,0,62833,seth_kretzer,,501.84,502.655,"Oh, yes."
+2016.16-6219,0,15113,anthony_m_kennedy,scotus_justice,502.655,505.64,And then what guidance do I have? It looked like Mathews v. Eldridge.
+2016.16-6219,0,62833,seth_kretzer,,508.14,530.745,"Well, yes, in Martinez, this Court particularly created an equitable rule in the exercise of this Court's discretion saying that there would be an exception as it were to cause and the cause and prejudice inquiry, because otherwise you would have petitioners who would never have any forum in which this ineffective assistance claim could be litigated. The door has been opened in Martinez now for over 5 years."
+2016.16-6219,0,15086,john_g_roberts_jr,scotus_justice,535.67,545.945,"One -- one significant distinction, of course, is that these claims of appellate assistance -- ineffective appellate assistance of counsel, under the logic can be raised in every State."
+2016.16-6219,0,62833,seth_kretzer,,570.719,591.71,"In Martinez, what Arizona had done was said as a statutory matter, you cannot raise an ineffective assistance contention in the direct appeal. Instead it was deliberately channeled over to habeas. There's a reason that in a claim like Mr. Davila's that the initial review collateral opportunity to challenge the claim of ineffective contention is State habeas, and that is because it is impossible, physically impossible --"
+2016.16-6219,0,15086,john_g_roberts_jr,scotus_justice,591.71,594.53,I -- I've got -- I've got to -- do -- for them to raise the appellate --
+2016.16-6219,0,62833,seth_kretzer,,594.53,595.23,"Yes, themselves --"
+2016.16-6219,0,15086,john_g_roberts_jr,scotus_justice,595.23,607.075,"I'm sorry to cut you off, but I -- I understand that, but that's going to be true in every State, right? It's going to be -- you're going to have the same difficulty of raising ineffectiveness of appellate counsel on direct review in every -- every State."
+2016.16-6219,0,62833,seth_kretzer,,607.075,608.65,"Yes, that would be a uniform impossible --"
+2016.16-6219,0,15086,john_g_roberts_jr,scotus_justice,608.65,608.71,Yeah.
+2016.16-6219,0,62833,seth_kretzer,,620.7,622.75,I would ask the Court to look at the vantage point.
+2016.16-6219,0,15131,sonia_sotomayor,scotus_justice,637.26,640.925,"Counsel, you're not dealing with the question asked."
+2016.16-6219,0,62833,seth_kretzer,,640.925,641.27,Okay.
+2016.16-6219,0,15131,sonia_sotomayor,scotus_justice,641.27,646.125,All right? The question asked has to do with the burden on the courts.
+2016.16-6219,0,62833,seth_kretzer,,683.865,685.2,We don't think so.
+2016.16-6219,0,15131,sonia_sotomayor,scotus_justice,685.625,688.66,And you haven't articulated the reasons you don't think so.
+2016.16-6219,0,62833,seth_kretzer,,688.66,688.78,Yes.
+2016.16-6219,0,15131,sonia_sotomayor,scotus_justice,689.14,704.0,"I could start with how many post-conviction ineffective assistance of appellate counsel cases, the 31 percent that Justice Kennedy was pointing to, in how many of those is relief granted?"
+2016.16-6219,0,62833,seth_kretzer,,704.0,707.9,"If any, a very minute number, because it is so --"
+2016.16-6219,0,15131,sonia_sotomayor,scotus_justice,707.9,708.27,Infinitesimally small.
+2016.16-6219,0,62833,seth_kretzer,,708.27,708.53,Yes.
+2016.16-6219,0,15086,john_g_roberts_jr,scotus_justice,708.53,710.55,Are there hearings in those cases --
+2016.16-6219,0,62833,seth_kretzer,,710.55,711.42,For --
+2016.16-6219,0,15086,john_g_roberts_jr,scotus_justice,711.42,717.47,-- cranting the necessity for the court to evaluate the claims before they decide not to grant the -- the allegation --
+2016.16-6219,0,62833,seth_kretzer,,717.47,728.05,"No, very rarely are there actually Strickland hearings on 2254 in Federal district court, for the reason that it's very hard to, one, show a substantial claim, and then, two, to reach through the --"
+2016.16-6219,0,15086,john_g_roberts_jr,scotus_justice,728.05,733.51,"The court presumably has to read the -- the filings in the case to decide that the claim is not substantial, correct?"
+2016.16-6219,0,62833,seth_kretzer,,733.51,735.0,"Yes, it would be necessary for the court --"
+2016.16-6219,0,15086,john_g_roberts_jr,scotus_justice,735.0,742.54,"So -- so the number that are granted really isn't the consideration we're looking to, is it? It's the number that are going to force the courts to review them."
+2016.16-6219,0,62833,seth_kretzer,,742.54,777.82,"Well, I think if one accepts that for now, 4 or 5 years Martinez has been the law and -- and a number of these claims have been made, at most there might be, in a small subset of those, a very small number of additional ineffective assistance of appellate counsel claims made because it is so hard for a petitioner to formulate such a claim. For a Petitioner such as Mr. Davila, to have raised a claim like this on his own, of course, Martinez talked a lot about the importance of having an effective assistance of counsel to vindicate an underlying ineffectiveness contention, Mr. Davila would have had to have been familiar with the jury charge, he would have had have been -- with the Texas law --"
+2016.16-6219,0,15086,john_g_roberts_jr,scotus_justice,777.82,804.03,"Well, I mean, are you saying it would have been hard to formulate? Are you suggesting that someone facing this sentence that Mr. Davila is facing would say, well, let's not do that, let's not raise an ineffective assistance of appellate counsel or somewhere and said, because it's just too hard to formulate that claim? These are situations where the defendant is facing capital punishment where they are going to raise every possible claim they can, and I don't know why it would be terribly different for defendants facing life in prison or further sentences."
+2016.16-6219,0,62833,seth_kretzer,,804.03,814.025,"Well, the -- as I said, there's a very difference between raising every possible claim that they could versus a lawyer's obligation to raise meritorious, not raise frivolous claims."
+2016.16-6219,0,15068,samuel_a_alito_jr,scotus_justice,831.13,838.79,What concerns me about your position is that it seems to blast an enormous hole in the doctrine of procedural default.
+2016.16-6219,0,62833,seth_kretzer,,943.015,966.315,It would be very difficult -- the situation is not simply -- the task for the Federal habeas petitioner is not to simply aggregate every objected to or unobjected to evidentiary error or any downline error and simply present all of those in the Federal habeas petition. What they would then have to do is also find some authority from the State court of appeals saying that this type of error or constellation of errors would constitute a reversible error.
+2016.16-6219,0,15068,samuel_a_alito_jr,scotus_justice,966.315,973.995,"Well, they'd have to find something that they can argue in the Federal habeas was an error, but procedural default would be out the window."
+2016.16-6219,0,62833,seth_kretzer,,973.995,984.53,"Well, yes, but, again, it's not enough to simply say these were the trial errors. One would have to say that these were trial errors and here's some reason why the reviewing court of appeals would have held differently."
+2016.16-6219,0,15068,samuel_a_alito_jr,scotus_justice,985.46,985.75,Right.
+2016.16-6219,0,62833,seth_kretzer,,997.75,1004.07,Our argument would simply be it's one thing to make a -- state this error or that error happened at the trial.
+2016.16-6219,0,15139,stephen_g_breyer,scotus_justice,1025.77,1044.86,"Say, so what -- you started to say this, but I guess Martinez itself, one of the concerns was that any mistake that the trial -- that the trial attorney makes -- and normally, by the way, you -- you don't make ineffective assistance counsel claims on direct appeal, I don't think."
+2016.16-6219,0,62833,seth_kretzer,,1081.595,1093.42,"We don't think there had been -- there may have been additional -- Martinez and now Martinez-Trevino claims that had been made in Federal petitions, but not an increase in the number or appreciable increase in the number of Federal petition --"
+2016.16-6219,0,15139,stephen_g_breyer,scotus_justice,1093.42,1099.83,"What I -- I asked you really, is there any empirical information? Because, of course, I think you probably think no."
+2016.16-6219,0,62833,seth_kretzer,,1112.39,1112.71,Yes.
+2016.16-6219,0,15068,samuel_a_alito_jr,scotus_justice,1147.79,1158.2,"But Martinez concerned ineffective assistance of counsel in a limited number of States, and Trevino arguably extended it to a few additional States."
+2016.16-6219,0,62833,seth_kretzer,,1172.64,1173.18,No.
+2016.16-6219,0,15068,samuel_a_alito_jr,scotus_justice,1192.01,1192.28,Yeah.
+2016.16-6219,0,62833,seth_kretzer,,1223.145,1241.3,"I would say that, again, the only -- if Martinez is the rule and those -- Martinez claims were about ineffective assistance of trial counsel now, have been made for at least five years. There is not, as Justice Breyer said, a large number of claims made contending ineffective assistance of appellate counsel."
+2016.16-6219,0,15139,stephen_g_breyer,scotus_justice,1245.025,1266.08,"I don't think that's -- I think, as I'm gathering Justice Alito's point -- and I think it's an -- you know, it's an interesting point and important, what is ineffective assistance of appellate counsel? I mean, I understand somewhat ineffective assistance of trial counsel, but it can't just be an ordinary mistake."
+2016.16-6219,0,62833,seth_kretzer,,1267.895,1268.34,Yes.
+2016.16-6219,0,15139,stephen_g_breyer,scotus_justice,1268.34,1289.25,"Now, is ineffective assistance of appellate counsel the same, or is an appellate counsel ineffective whenever the appellate counsel fails to present a claim that the trial judge made a mistake in the trial?"
+2016.16-6219,0,62833,seth_kretzer,,1289.25,1297.92,The Strickland standard for ineffective assistance is the same for contentions of ineffective assistance of trial counsel and ineffective assistance of appellate counsel.
+2016.16-6219,0,15139,stephen_g_breyer,scotus_justice,1297.92,1319.85,"So it's very hard to see when it would be ineffective assistance when there wasn't also ineffective assistance of trial counsel. What is such a case? I mean, I'm just probably missing it, but what -- what is a case where -- where there's ineffective assistance of appellate counsel, but not ineffective assistance of trial counsel? What is that case?"
+2016.16-6219,0,62833,seth_kretzer,,1319.85,1320.05,Yes.
+2016.16-6219,0,15139,stephen_g_breyer,scotus_justice,1330.05,1339.26,"So then why didn't the trial counsel -- this -- I can see that this was a very important matter for this particular defendant, but then why wasn't the trial counsel ineffective?"
+2016.16-6219,0,62833,seth_kretzer,,1339.26,1345.975,"Well, again, the trial counsel did formulate -- maybe not the best calibrated -- but did formulate an objection."
+2016.16-6219,0,15139,stephen_g_breyer,scotus_justice,1364.3,1373.635,"Well, what about saying this: Suppose we said, yes, there is -- it's the same situation, you know, you have ineffective assistance -- you have ineffective appellate counsel."
+2016.16-6219,0,62833,seth_kretzer,,1407.255,1417.31,I think the problem is that the question here is not a Strickland determination as to the direct appellate attorney in this case.
+2016.16-6219,0,62836,neil_gorsuch,scotus_justice,1436.955,1441.72,"Counsel, we spent a lot of time talking about Martinez, but one case we haven't discussed is Coleman."
+2016.16-6219,0,62833,seth_kretzer,,1441.72,1442.295,Yes.
+2016.16-6219,0,62836,neil_gorsuch,scotus_justice,1442.295,1453.125,And Coleman sets out the general rule that ineffective assistance by counsel in collateral review does not suffice to establish cause for purposes of Federal habeas.
+2016.16-6219,0,62833,seth_kretzer,,1490.82,1491.08,Yes.
+2016.16-6219,0,15084,ruth_bader_ginsburg,scotus_justice,1556.55,1562.8,If I may ask one question about your -- your bottom line.
+2016.16-6219,0,62833,seth_kretzer,,1575.71,1576.0,Yes.
+2016.16-6219,0,15084,ruth_bader_ginsburg,scotus_justice,1576.0,1588.395,"Why a new trial? Why isn't the consequence of ineffective assistance of appellate counsel not a new trial of the case, but just a new State court appeal?"
+2016.16-6219,0,62833,seth_kretzer,,1588.395,1589.34,"Oh, yes."
+2016.16-6219,0,15086,john_g_roberts_jr,scotus_justice,1616.35,1625.555,"Thank you, counsel. Mr. Keller."
+2016.16-6219,1,56070,scott_a_keller,,1625.555,1639.08,"Thank you, Mr. Chief Justice, and may it please the Court: Extending Martinez to appellate-IAC claims will have a huge systemic cost by opening up the entire trial and everything that happened at trial to Federal habeas review."
+2016.16-6219,1,15131,sonia_sotomayor,scotus_justice,1650.28,1679.46,"Ah, but does that -- does that mean that we don't remedy that? Assuming -- because, I agree -- Justice Breyer pointed out, and others have, the number of cases are going to be tiny. And as with all cases, there's an initial uptick of claims until people settle down and realize that it's a small number that are viable, and that happens pretty quickly."
+2016.16-6219,1,56070,scott_a_keller,,1686.845,1690.46,"Well, this is why Coleman is still the rule."
+2016.16-6219,1,15131,sonia_sotomayor,scotus_justice,1696.08,1712.0,"You mean the substantial claim of IAC? This is -- no one is going to be looking at an ineffective-assistance-of-appellate-counsel claim, assuming one is viable, unless there's a substantial claim, and no one will otherwise look at it."
+2016.16-6219,1,56070,scott_a_keller,,1712.0,1725.71,"Well, and here, the question is -- the relevant appellate IAC claims to look at here are those where the claim was raised in trial court, and the trial court did, in fact, adjudicate, decide the issue."
+2016.16-6219,1,15113,anthony_m_kennedy,scotus_justice,1730.28,1730.5,Yes.
+2016.16-6219,1,56070,scott_a_keller,,1754.83,1762.195,"Justice Kennedy, and when -- here, there -- there's no dispute that trial counsel was effective."
+2016.16-6219,1,15113,anthony_m_kennedy,scotus_justice,1797.23,1814.445,Could you address my question to the Petitioner's counsel? What is the standard of -- we're supposed to follow in deciding this case? Our view of the systemic consequences? And -- and what is -- what -- what is the case authority that gives us instruction in that regard?
+2016.16-6219,1,56070,scott_a_keller,,1814.445,1822.88,Martinez itself recognized that what it was doing creating the narrow exception from Coleman was that was an equitable judgment.
+2016.16-6219,1,15131,sonia_sotomayor,scotus_justice,1844.54,1847.205,So let's go through the three pillars here.
+2016.16-6219,1,15094,elena_kagan,scotus_justice,1889.035,1892.7,"Could you respond to that first? Is that okay, Justice Sotomayor?"
+2016.16-6219,1,15131,sonia_sotomayor,scotus_justice,1892.7,1893.19,Yes.
+2016.16-6219,1,15094,elena_kagan,scotus_justice,1893.19,1905.335,"Because -- because there is -- there's no right -- there's no need to have an appellate process, but once the State has given an appellate process, there is a right to have effective assistance of counsel on appeal."
+2016.16-6219,1,56070,scott_a_keller,,1908.805,1917.0,"Every appellate IAC claim is necessarily going to, though, be based on an underlying issue of an alleged trial error."
+2016.16-6219,1,15131,sonia_sotomayor,scotus_justice,1938.01,1938.96,I'm sorry.
+2016.16-6219,1,56070,scott_a_keller,,1951.405,1952.49,That's correct.
+2016.16-6219,1,15131,sonia_sotomayor,scotus_justice,1962.43,1967.745,"Not just error, but error likely to result in a different outcome."
+2016.16-6219,1,56070,scott_a_keller,,1967.745,1968.34,Yes.
+2016.16-6219,1,15131,sonia_sotomayor,scotus_justice,1975.83,1985.62,"But we already know that even under plain-error review, because we've done it in -- in a number of different cases, that trial courts err."
+2016.16-6219,1,56070,scott_a_keller,,1985.62,1989.3,"But if -- if the Court were reviewing this under plain error, though --"
+2016.16-6219,1,15131,sonia_sotomayor,scotus_justice,1989.3,2000.224,"The question is, did appellate counsel err in failing to raise something that might ultimately go to the Supreme Court, as has happened."
+2016.16-6219,1,56070,scott_a_keller,,2000.224,2010.225,"The Martinez trial IAC gateway, though, that already exists, would cover any claim that was not, in fact, preserved in the trial court."
+2016.16-6219,1,15131,sonia_sotomayor,scotus_justice,2021.77,2028.15,"They have ruled on -- they've ruled on a question of error below, but not a question of appellate counsel error."
+2016.16-6219,1,56070,scott_a_keller,,2028.15,2028.87,That -- that's right.
+2016.16-6219,1,15139,stephen_g_breyer,scotus_justice,2064.93,2066.95,The same question that I had before.
+2016.16-6219,1,56070,scott_a_keller,,2099.77,2100.94,The answer is yes.
+2016.16-6219,1,15139,stephen_g_breyer,scotus_justice,2102.35,2102.49,Where?
+2016.16-6219,1,56070,scott_a_keller,,2102.49,2113.57,"-- Martinez has been cited 3,800 times in Federal cases since it was decided, and I would also point the Court to the amicus brief for the Criminal Justice Legal Foundation at page 20."
+2016.16-6219,1,15139,stephen_g_breyer,scotus_justice,2130.605,2130.84,Yeah --
+2016.16-6219,1,15131,sonia_sotomayor,scotus_justice,2130.84,2132.265,How many were granted?
+2016.16-6219,1,56070,scott_a_keller,,2132.265,2133.415,None.
+2016.16-6219,1,15139,stephen_g_breyer,scotus_justice,2156.83,2166.205,"Is it fair to say several hundred a year have come up under Martinez out of -- out of, roughly, how many habeas petitions? Out of fifty thousand? I don't know."
+2016.16-6219,1,56070,scott_a_keller,,2168.13,2169.44,I do not have those statistics.
+2016.16-6219,1,15139,stephen_g_breyer,scotus_justice,2169.44,2169.67,All right.
+2016.16-6219,1,56070,scott_a_keller,,2218.25,2228.04,"Well, I'm not sure more actual petitions would be filed, but the courts will certainly see a massive uptick in Federal habeas review of appellate IAC claims."
+2016.16-6219,1,15086,john_g_roberts_jr,scotus_justice,2253.005,2258.09,"Would this apply in -- wouldn't -- I mean, this would apply in every State, right?"
+2016.16-6219,1,56070,scott_a_keller,,2258.09,2258.55,Yes.
+2016.16-6219,1,15086,john_g_roberts_jr,scotus_justice,2258.55,2261.03,"Not just States where Martinez and Trevino apply, right?"
+2016.16-6219,1,56070,scott_a_keller,,2261.03,2261.42,That's right.
+2016.16-6219,1,15086,john_g_roberts_jr,scotus_justice,2261.42,2269.02,And wouldn't that be pertinent in assessing the significance of the number of times this issue is going to be raised?
+2016.16-6219,1,56070,scott_a_keller,,2269.02,2269.88,It absolutely would.
+2016.16-6219,1,15086,john_g_roberts_jr,scotus_justice,2269.88,2271.865,If it's going to be raised in 50 States rather than two?
+2016.16-6219,1,56070,scott_a_keller,,2271.865,2272.33,It would.
+2016.16-6219,1,15139,stephen_g_breyer,scotus_justice,2281.7,2309.28,"Well, yes, that's true, but how many are in the other? How many -- what's the number in the other? What is the -- what is the number? I mean, the norm, I thought, was that you raise an ineffective-assistance-counsel claim in the collateral proceeding. So how many States, actually, does Martinez not apply to? Do you know that? I -- I doubt that it's, you know, a small number, but I'm pretty certain it isn't every State. Do we have any idea here?"
+2016.16-6219,1,56070,scott_a_keller,,2309.28,2330.43,"At page 33 of our brief, I don't have the precise number, but we do cite various cases that show that Massachusetts, Wisconsin, Ohio, Oklahoma, the Martinez Rule does not apply, because, effectively, what happens there is the proceedings are stayed so that the trial-IAC claim can be raised at that time and not --"
+2016.16-6219,1,15094,elena_kagan,scotus_justice,2330.43,2332.615,But in -- in most States it does apply; isn't that right?
+2016.16-6219,1,56070,scott_a_keller,,2332.615,2333.17,Correct.
+2016.16-6219,1,15094,elena_kagan,scotus_justice,2333.17,2333.41,Yeah.
+2016.16-6219,1,56070,scott_a_keller,,2363.64,2365.96,Combined with the unique right to trial counsel --
+2016.16-6219,1,15094,elena_kagan,scotus_justice,2365.96,2366.11,Yeah --
+2016.16-6219,1,56070,scott_a_keller,,2366.11,2367.42,-- and the -- and the -- and the significant --
+2016.16-6219,1,15094,elena_kagan,scotus_justice,2367.42,2367.51,Okay.
+2016.16-6219,1,56070,scott_a_keller,,2367.51,2368.43,-- systemic costs.
+2016.16-6219,1,15094,elena_kagan,scotus_justice,2368.43,2368.62,Okay.
+2016.16-6219,1,56070,scott_a_keller,,2418.685,2426.22,But Martinez focused on the fact that there was a particular trial error and a particular type of trial error that was not being able to be raised.
+2016.16-6219,1,15094,elena_kagan,scotus_justice,2428.46,2429.03,I think if you read --
+2016.16-6219,1,56070,scott_a_keller,,2429.03,2429.61,-- on that trial error.
+2016.16-6219,1,15094,elena_kagan,scotus_justice,2429.61,2434.76,"-- Martinez, Martinez basically does not talk at all about the underlying error."
+2016.16-6219,1,56070,scott_a_keller,,2470.95,2471.36,But in --
+2016.16-6219,1,15094,elena_kagan,scotus_justice,2471.36,2472.46,-- just on a different level.
+2016.16-6219,1,56070,scott_a_keller,,2472.46,2475.735,"But in Martinez, the ineffective assistance claim was a trial error."
+2016.16-6219,1,15094,elena_kagan,scotus_justice,2477.11,2478.79,But here -- but here it's an appellate error.
+2016.16-6219,1,15084,ruth_bader_ginsburg,scotus_justice,2478.79,2487.195,But one thing that's the same is that the State habeas would be the first opportunity to raise this.
+2016.16-6219,1,56070,scott_a_keller,,2530.375,2532.24,He was wrong in this instance.
+2016.16-6219,1,15094,elena_kagan,scotus_justice,2551.71,2552.52,"But, again --"
+2016.16-6219,1,56070,scott_a_keller,,2552.52,2553.03,-- litigation --
+2016.16-6219,1,15094,elena_kagan,scotus_justice,2553.03,2553.75,"-- General, you're sort of --"
+2016.16-6219,1,56070,scott_a_keller,,2553.75,2554.02,-- at some point.
+2016.16-6219,1,15094,elena_kagan,scotus_justice,2554.02,2556.775,-- redefining it so that it fits your position.
+2016.16-6219,1,56070,scott_a_keller,,2591.755,2597.46,"But under that reasoning, it would be -- the right to counsel necessarily has to end at some point."
+2016.16-6219,1,15094,elena_kagan,scotus_justice,2602.64,2604.29,"It -- it ends, I think -- you're exactly right."
+2016.16-6219,1,56070,scott_a_keller,,2621.18,2623.43,That's right as a constitutional matter.
+2016.16-6219,1,15094,elena_kagan,scotus_justice,2647.695,2647.97,Yes.
+2016.16-6219,1,56070,scott_a_keller,,2672.09,2678.14,But the difference is it's not your only shot because the claim is going to be about an underlying alleged trial error.
+2016.16-6219,1,15094,elena_kagan,scotus_justice,2680.16,2681.03,But this claim --
+2016.16-6219,1,56070,scott_a_keller,,2681.03,2681.66,-- you're going to have --
+2016.16-6219,1,15094,elena_kagan,scotus_justice,2681.66,2684.175,-- is not about the underlying trial error.
+2016.16-6219,1,56070,scott_a_keller,,2696.125,2705.94,"But, Justice Kagan, at root here, the issue is a supplemental jury instruction which was not preserved, which was correct, and there would have been no prejudice from in any event."
+2016.16-6219,1,15094,elena_kagan,scotus_justice,2749.71,2761.145,"But, General, that assumes that a -- that some court is going to say, if there was a trial error that we can see out there, then there was ineffective assistance of appellate counsel."
+2016.16-6219,1,56070,scott_a_keller,,2781.57,2799.92,"And, Justice Kagan, precisely because it's going to be rare, that it's going to be an infinitesimally small number of cases are going to be meritorious, that has to be weighed under Martinez's equitable calculus against the huge systemic cost of opening up the entire trial on Federal habeas review to every little State law objection and evidentiary objection."
+2016.16-6219,1,15068,samuel_a_alito_jr,scotus_justice,2801.45,2820.285,"Why will it be a small thing? If you can identify looking back that there was an objection that should have been granted, and it might have -- might have led to a different result at trial but it wasn't raised on direct appeal, then there's going to be ineffective assistance of -- of appellate counsel."
+2016.16-6219,1,56070,scott_a_keller,,2820.285,2823.38,"Exactly, Justice Alito, and that's why it will collapse. Also, too --"
+2016.16-6219,1,15131,sonia_sotomayor,scotus_justice,2823.38,2823.83,I'm sorry.
+2016.16-6219,1,56070,scott_a_keller,,2833.43,2834.46,Well --
+2016.16-6219,1,15131,sonia_sotomayor,scotus_justice,2834.46,2841.065,"There's -- the appellate review is on the basis of the record as it exists, not on one that should have existed."
+2016.16-6219,1,56070,scott_a_keller,,2841.065,2855.175,"Yes, but it's going to collapse into an analysis of what was the alleged trial error, because that would be what appellate counsel should have been trying to raise in that situation. Also, if I can back out, what we're talking about here is not just success on the merits of the claim."
+2016.16-6219,1,15139,stephen_g_breyer,scotus_justice,2874.78,2887.16,"Well, you'd have to show, wouldn't you, that -- that the -- any reasonable lawyer would have raised this -- would have won this claim and made a difference -- raised it, won it, and it would have made a difference."
+2016.16-6219,1,56070,scott_a_keller,,2887.16,2888.74,"You'd have to show that, but this case --"
+2016.16-6219,1,15139,stephen_g_breyer,scotus_justice,2888.74,2896.065,"Yeah, but that's not that easy to show, just as it's not that easy to show in a -- in the -- in the same situation in the trial."
+2016.16-6219,1,56070,scott_a_keller,,2896.065,2898.46,But that's analyzing whether the claim would succeed.
+2016.16-6219,1,15139,stephen_g_breyer,scotus_justice,2898.84,2898.93,No --
+2016.16-6219,1,56070,scott_a_keller,,2898.93,2900.03,-- on court --
+2016.16-6219,1,15139,stephen_g_breyer,scotus_justice,2900.03,2904.23,"I -- I accept that, and people raise all kinds of things in habeas."
+2016.16-6219,1,56070,scott_a_keller,,2916.49,2935.52,"And -- and they're going to be even busier and it's going to divert their attention from claims that would otherwise be meritorious. Extending an exception like this to an acknowledged set of claims that have an infinitesimally small chance of merit, that is not a good use of judicial resources. That's not why the writ of habeas corpus exists."
+2016.16-6219,1,15139,stephen_g_breyer,scotus_justice,2948.89,2950.42,The other side has been brought out.
+2016.16-6219,1,15113,anthony_m_kennedy,scotus_justice,2974.375,2977.46,Or you could bring it on State collateral.
+2016.16-6219,1,56070,scott_a_keller,,2977.46,2978.68,You absolutely -- you could bring it as is --
+2016.16-6219,1,15139,stephen_g_breyer,scotus_justice,2978.68,2990.21,"He has to have -- he has to have failed to do that, and -- or at least the State collateral review has to also have been inadequate."
+2016.16-6219,1,56070,scott_a_keller,,3030.835,3031.74,"Well, first of all --"
+2016.16-6219,1,15139,stephen_g_breyer,scotus_justice,3031.74,3033.96,He wasn't for it. (Laughter.)
+2016.16-6219,1,56070,scott_a_keller,,3033.96,3042.855,"First of all, the miscarriage of justice -- actually in this instance, exception to overcome procedural default -- already exists."
+2016.16-6219,1,15139,stephen_g_breyer,scotus_justice,3048.625,3050.94,Where -- where does it exist?
+2016.16-6219,1,56070,scott_a_keller,,3050.94,3055.1,McQuiggin v. Perkins. The -- you can overcome a procedural default for a miscarriage of justice.
+2016.16-6219,1,15139,stephen_g_breyer,scotus_justice,3074.84,3077.14,Actual innocence means he was actually innocent.
+2016.16-6219,1,56070,scott_a_keller,,3077.14,3079.71,Well -- or actually innocent of the death penalty.
+2016.16-6219,1,15139,stephen_g_breyer,scotus_justice,3079.71,3080.14,Yeah.
+2016.16-6219,1,56070,scott_a_keller,,3080.14,3082.42,And that would be another way that that type of claim --
+2016.16-6219,1,15131,sonia_sotomayor,scotus_justice,3082.42,3085.31,"Well, that's an interesting open question."
+2016.16-6219,1,56070,scott_a_keller,,3085.31,3088.175,For a different day. (Laughter.)
+2016.16-6219,1,56070,scott_a_keller,,3088.175,3101.84,But the question before the Court today is whether to extend the narrow exception for trial IAC claims when the court has recognized that the trial is the main event; appeals are not central due to determination of innocence or guilt.
+2016.16-6219,1,15094,elena_kagan,scotus_justice,3113.635,3126.78,"General, could I just -- I guess I got a little bit confused in your exchange with Justice Alito, because you had been pressing this is just going to be an infinitesimally small -- infinitesimally small, I think that that was your phrase."
+2016.16-6219,1,56070,scott_a_keller,,3134.67,3141.465,"The answer is, there's going to be an infinitesimally small number of claims that are actually successful, meritorious at the end of the day."
+2016.16-6219,1,15094,elena_kagan,scotus_justice,3147.4,3147.83,Right.
+2016.16-6219,1,56070,scott_a_keller,,3196.895,3204.61,"You'd still have the actual-innocence exception, and also Martinez reaffirmed the general rule of Coleman."
+2016.16-6219,1,15094,elena_kagan,scotus_justice,3224.96,3231.475,It did reaffirm the general rule of Coleman except to the extent that this was your only shot.
+2016.16-6219,1,56070,scott_a_keller,,3240.25,3243.9,"To raise that particular claim, but that particular claim --"
+2016.16-6219,1,15094,elena_kagan,scotus_justice,3243.9,3244.93,That's all we're dealing with here.
+2016.16-6219,1,56070,scott_a_keller,,3244.93,3248.855,But it will be predicated on an underlying trial issue. And that's the difference.
+2016.16-6219,1,15086,john_g_roberts_jr,scotus_justice,3292.39,3296.249,"Thank you, counsel. Mr. Kretzer, three minutes."
+2016.16-6219,2,62833,seth_kretzer,,3296.249,3313.97,"The point at which my friend elicited a little bit of laughter in the courtroom is when he talked about whether or not actual innocence would apply to actual innocence of the death penalty, and he said that would be an issue for a future day. I think it bears to note that the error in this case, in Mr. Davila's case, was a guilt/innocence phase error."
+2016.16-6219,2,62836,neil_gorsuch,scotus_justice,3326.235,3326.59,Counsel --
+2016.16-6219,2,62833,seth_kretzer,,3326.59,3327.7,This was the critical issue in the case.
+2016.16-6219,2,62836,neil_gorsuch,scotus_justice,3327.7,3353.255,"-- I don't know whether we'd create a couple of strange incentives if -- if we went down your road. If procedural default by State habeas counsel, ineffective assistance of appellate counsel is cause, I can see a world in which State habeas counsel might have an incentive not to raise it, you know, might actually be ineffective assistance of State habeas counsel to raise the issue, because Federal habeas may be more forgiving."
+2016.16-6219,2,62833,seth_kretzer,,3389.71,3401.73,Any State habeas attorney who would deliberately fault a claim from State habeas because they think they could get an ultimately more favorable meritorious review in Federal court would necessarily be violating any number of rules of professional conduct.
+2016.16-6219,2,62836,neil_gorsuch,scotus_justice,3403.09,3410.275,"Why? Why? If it's -- if it's -- if it's the effective best strategy for your client, I would think that's exactly what you'd do."
+2016.16-6219,2,62833,seth_kretzer,,3410.275,3418.345,"Well, as an initial matter, one would necessarily be perpetrating ineffective assistance on their own by deliberately defaulting a claim from State habeas."
+2016.16-6219,2,15086,john_g_roberts_jr,scotus_justice,3498.015,0.0,"Thank you, counsel. The case is submitted."

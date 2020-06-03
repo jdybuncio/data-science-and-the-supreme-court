@@ -1,0 +1,219 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2000.99-1977,0,15141,william_h_rehnquist,scotus_justice,0.0,3.344,We'll hear argument now in number 99-1977.
+2000.99-1977,0,37772,paul_d_clement,,6.399,9.083,"Mr. Chief Justice, and may it please the Court:"
+2000.99-1977,0,15113,anthony_m_kennedy,scotus_justice,88.05,90.834,Could you tell me how the test works?
+2000.99-1977,0,37772,paul_d_clement,,105.678,118.31,"Well in many cases, once the case is... the issue of qualified immunity is brought before the judge, the judge can rule on whether there's a qualified immunity protection in the case and there'll be no issue that needs to go to the jury in that case."
+2000.99-1977,0,15113,anthony_m_kennedy,scotus_justice,118.31,128.794,"Now suppose he overrules the qualified immunity defense, does the jury then determine both qualified immunity and, in this case, whether or not the force was reasonable?"
+2000.99-1977,0,37772,paul_d_clement,,128.794,131.479,It would depend on the circumstances of the case.
+2000.99-1977,0,15113,anthony_m_kennedy,scotus_justice,142.641,144.399,"In other words, a bifurcated trial."
+2000.99-1977,0,37772,paul_d_clement,,144.399,149.312,Well that may actually end up being the only issue that jury really needs to focus on.
+2000.99-1977,0,15113,anthony_m_kennedy,scotus_justice,172.263,182.377,"I mean the reason I'm asking is that, if the jury hears both questions, I want to know what the instructions sound like, and whether or not the jury can make this distinction."
+2000.99-1977,0,37772,paul_d_clement,,182.377,200.953,"In many cases, I think the jury will not really, if there's no liability... I'm sorry, if there's no issue about injunctive relief, it may just be a situation where the court can simply decide what the clearly-established law is and instruct the jury on that clearly-established law and then the jury can make its determination."
+2000.99-1977,0,15042,david_h_souter,scotus_justice,259.281,277.691,"So you're saying the only situation in which the two increase in effect will be exactly the same, is the situation in which the general standard has, by course of judicial decision, been reduced down to a kind of pinpoint specific rule for certain cases, e.g., hog-tie cases."
+2000.99-1977,0,37772,paul_d_clement,,299.96,300.892,I disagree.
+2000.99-1977,0,15042,david_h_souter,scotus_justice,309.148,330.614,"Oh, I'm not saying that there is a requirement, but I'm saying that, if in fact the previous case law has got to the pinpoint stage and the facts claimed by way of defense precisely fall within that pinpoint, then the two increase will not be different, but that's the only case I take in which that will be true on your view."
+2000.99-1977,0,37772,paul_d_clement,,330.614,334.495,--I'm not sure if that's the only case where that's going to be true.
+2000.99-1977,0,15084,ruth_bader_ginsburg,scotus_justice,348.779,363.102,"Mr. Clement, it might help if you gave us, what would be the... suppose the judge thinks, I don't want to decide the qualified immunity myself because I think there's some fact questions involved about what happened here."
+2000.99-1977,0,37772,paul_d_clement,,379.986,405.993,"I think the judge in this case would charge by using the language from this Court's previous qualified immunity opinions, language from cases like Malley and Hunter against Bryant and would charge the jury with finding... in order to find liability in this case, the jury would have to find that the individual officer exhibited... either was plainly incompetent or exercised judgment that was outside the range of professional judgment."
+2000.99-1977,0,15141,william_h_rehnquist,scotus_justice,434.311,440.727,But the whole thing is going to be submitted to the jury at one time I take it in a series of instruction.
+2000.99-1977,0,37772,paul_d_clement,,448.057,465.973,"--All I meant by that is that since there will be no liability imposed in the ordinary case without a finding that the officer's not entitled to qualified immunity, it'll be the qualified immunity question that will really be the ultimate focus of the jury's attention because that'll determine whether or not they find sufficient cause to award damages."
+2000.99-1977,0,15141,william_h_rehnquist,scotus_justice,465.973,475.921,"But if... then the jury, if a jury decides that there is not qualified immunity then they have to go further, do they not?"
+2000.99-1977,0,37772,paul_d_clement,,475.921,478.166,I don't believe so.
+2000.99-1977,0,15113,anthony_m_kennedy,scotus_justice,491.995,495.339,But that is what Justice Ginsburg was asking and what I was asking.
+2000.99-1977,0,37772,paul_d_clement,,505.082,505.62,"No, all I'm saying is that in the ordinary case--"
+2000.99-1977,0,15113,anthony_m_kennedy,scotus_justice,505.62,510.299,That's the trouble I'm having and I think was at the root of Justice Ginsburg's question as well.
+2000.99-1977,0,37772,paul_d_clement,,510.299,511.026,--I'm sorry.
+2000.99-1977,0,15049,antonin_scalia,scotus_justice,548.261,558.458,"Mr. Clement, in those situations where there are factual controversies, both questions will have to be submitted to the jury, won't they?"
+2000.99-1977,0,37772,paul_d_clement,,592.267,595.156,I think both questions certainly could go to the jury.
+2000.99-1977,0,15049,antonin_scalia,scotus_justice,624.877,638.252,"I see what you mean. You really don't have to determine the question of whether it violated the Fourth Amendment so long as you determine that, even it did, this didn't go beyond what a reasonable officer might have thought was okay."
+2000.99-1977,0,37772,paul_d_clement,,638.252,638.335,That's right.
+2000.99-1977,0,15141,william_h_rehnquist,scotus_justice,640.443,643.702,"Justice Scalia may see what you mean, but I'm not sure I do."
+2000.99-1977,0,37772,paul_d_clement,,658.109,668.057,--I guess what I'm envisioning is that the jury would first be instructed on what the law is of excessive force based largely on this Court's decision in Graham against Connor.
+2000.99-1977,0,15141,william_h_rehnquist,scotus_justice,677.595,683.0,Can you give my just a quick sample instruction rather than this kind of theoretical description?
+2000.99-1977,0,37772,paul_d_clement,,683.0,683.166,Sure.
+2000.99-1977,0,15141,william_h_rehnquist,scotus_justice,708.224,709.793,And that's the Fourth Amendment question?
+2000.99-1977,0,37772,paul_d_clement,,709.793,719.535,"No, that's the qualified immunity question because that's what makes the difference between whether the jury in a specific case imposes damages or doesn't impose damages."
+2000.99-1977,0,15141,william_h_rehnquist,scotus_justice,719.535,724.902,"Tell me then, what is the difference between the Fourth Amendment question and the qualified immunity question?"
+2000.99-1977,0,37772,paul_d_clement,,724.902,734.107,"The difference is... well there's a couple of ways of expressing it, one way to express it is that the Fourth Amendment test looks only at the conduct and asks whether the force used was unreasonable."
+2000.99-1977,0,15092,sandra_day_oconnor,scotus_justice,754.169,763.086,"Let me ask, in the context of this very case, the officer sought summary judgment on the qualified immunity issue."
+2000.99-1977,0,37772,paul_d_clement,,763.59,764.489,That's correct.
+2000.99-1977,0,15092,sandra_day_oconnor,scotus_justice,764.489,766.801,"Before it had ever gone to trial, to a jury?"
+2000.99-1977,0,37772,paul_d_clement,,766.801,767.627,That's correct.
+2000.99-1977,0,15092,sandra_day_oconnor,scotus_justice,767.627,769.773,And the Court denied it.
+2000.99-1977,0,37772,paul_d_clement,,769.773,771.548,That's also correct.
+2000.99-1977,0,15092,sandra_day_oconnor,scotus_justice,771.548,778.318,"So in this case, then did that question go to the jury, the qualified immunity issue?"
+2000.99-1977,0,37772,paul_d_clement,,778.318,781.207,"No, I mean... and I think that raises two important points."
+2000.99-1977,0,15092,sandra_day_oconnor,scotus_justice,797.061,799.29,"But, just tell me, what went to the jury?"
+2000.99-1977,0,37772,paul_d_clement,,799.29,799.745,--Nothing.
+2000.99-1977,0,15092,sandra_day_oconnor,scotus_justice,799.745,801.23,In this case?
+2000.99-1977,0,37772,paul_d_clement,,801.23,803.997,"Nothing went to the jury, which is the second point, which is this would be a particularly poor vehicle--"
+2000.99-1977,0,15092,sandra_day_oconnor,scotus_justice,803.997,804.302,All right.
+2000.99-1977,0,37772,paul_d_clement,,814.705,815.514,--That's exactly right.
+2000.99-1977,0,15092,sandra_day_oconnor,scotus_justice,815.514,819.6,And so we don't get beyond all these other things.
+2000.99-1977,0,37772,paul_d_clement,,824.513,825.711,That's exactly right.
+2000.99-1977,0,15092,sandra_day_oconnor,scotus_justice,825.711,836.535,Now was there a factual component to that issue that makes it impossible for the trial judge to determine or could there be?
+2000.99-1977,0,37772,paul_d_clement,,836.535,838.054,Certainly not in our view.
+2000.99-1977,0,15139,stephen_g_breyer,scotus_justice,857.001,858.487,It's that last bit.
+2000.99-1977,0,37772,paul_d_clement,,920.448,921.191,"With all respect, I--"
+2000.99-1977,0,15139,stephen_g_breyer,scotus_justice,921.191,924.246,"Now so give me an example as a test, as a test."
+2000.99-1977,0,37772,paul_d_clement,,924.246,936.506,"--First of all, an example would be in the Tenth Circuit situation where the court finds in the same case that the hog-tie restraint when applied to someone who's exhibited signs of diminished capacity is unreasonable."
+2000.99-1977,0,15139,stephen_g_breyer,scotus_justice,936.506,946.62,"It is unreasonable, i.e., an officer, an officer they are saying, a police officer, should have know that that force was excessive."
+2000.99-1977,0,37772,paul_d_clement,,946.62,951.616,"No, the should have known aspect of the test is precisely what qualified immunity adds."
+2000.99-1977,0,15139,stephen_g_breyer,scotus_justice,951.616,955.331,"Oh, I didn't understand the substantive test."
+2000.99-1977,0,37772,paul_d_clement,,969.82,975.848,The substantive test is whether or not the use of force under the circumstances was unreasonable.
+2000.99-1977,0,15139,stephen_g_breyer,scotus_justice,976.014,986.705,"And if a reasonable officer, if a reasonable officer, looking at the situation would have thought it was not unreasonable, then is it excessive?"
+2000.99-1977,0,37772,paul_d_clement,,986.705,995.539,--The reasonableness test is taken from the perspective of the reasonable officer and it grants the officer deference and allows for reasonable mistakes of fact.
+2000.99-1977,0,15042,david_h_souter,scotus_justice,1038.446,1061.381,"That simply means I think that, if you have a very general... if your Fourth Amendment standard has never been rendered anything but general in formulation, then there is a greater possibility, there is a possibility for disagreement about the application of that standard to specific fact circumstances."
+2000.99-1977,0,37772,paul_d_clement,,1117.026,1123.796,"That is the relationship, but I would hesitate to add that it's not limited to the jury situation and I think that same difference allows the Court--"
+2000.99-1977,0,15042,david_h_souter,scotus_justice,1123.796,1124.539,"I'm sure, I'm sure."
+2000.99-1977,0,37772,paul_d_clement,,1125.282,1145.427,"--And we submit this is an appropriate case to resolve even before the jury that the facts and circumstances of this case, even if they constitute a Fourth Amendment violation, which I think is a reasonable question under the facts of this case, they nonetheless were not so clearly established that the officer was on notice and qualified immunity is appropriate."
+2000.99-1977,0,15049,antonin_scalia,scotus_justice,1145.427,1152.857,You'd have to say that you think there's a reasonable question whether they constitute a Fourth Amendment violation in this case.
+2000.99-1977,0,37772,paul_d_clement,,1158.885,1160.521,I think that's right.
+2000.99-1977,0,15060,john_paul_stevens,scotus_justice,1183.86,1188.978,"May I ask you a yes or no question, to make sure I understand your response to the Chief Justice earlier."
+2000.99-1977,0,37772,paul_d_clement,,1208.297,1210.155,--It would depend on the circumstances.
+2000.99-1977,0,15060,john_paul_stevens,scotus_justice,1210.155,1210.526,In this case.
+2000.99-1977,0,37772,paul_d_clement,,1210.526,1211.269,I wish I could give you a clean answer.
+2000.99-1977,0,15060,john_paul_stevens,scotus_justice,1211.269,1212.384,This very case.
+2000.99-1977,0,37772,paul_d_clement,,1212.384,1216.925,"In this very case, it's a little hard to apply those principles."
+2000.99-1977,0,15060,john_paul_stevens,scotus_justice,1221.838,1223.778,I don't want to talk about the Tenth Circuit case.
+2000.99-1977,0,37772,paul_d_clement,,1224.893,1231.58,"--Well in this case, it's a little hard to understand what the Ninth Circuit's reasoning was why there was a violation here."
+2000.99-1977,0,15060,john_paul_stevens,scotus_justice,1231.58,1244.583,"My question is, assuming there's a question of fact that would decide the qualified immunity issue in this very case, which officer pushed him in the truck or something like and you have to have jury trial on the qualified immunity issue."
+2000.99-1977,0,37772,paul_d_clement,,1250.322,1258.041,"I think they would be instructed on both, but I think they would ultimately only be asked to decide the ultimate qualified immunity test because there's really--"
+2000.99-1977,0,15060,john_paul_stevens,scotus_justice,1258.041,1260.559,They're given an instruction on an issue they're not asked to decide?
+2000.99-1977,0,37772,paul_d_clement,,1260.559,1261.756,--I think that's right.
+2000.99-1977,0,15141,william_h_rehnquist,scotus_justice,1282.561,1298.825,"Mr. Clement, your... you raise... the Government raises two questions in its petition for certiorari and the second one is did the Court of Appeals err in concluding on the basis facts noted that the defendant's use of force in arresting this particular plaintiff, are you going to get to that?"
+2000.99-1977,0,37772,paul_d_clement,,1298.825,1300.106,--I'll get to that right now.
+2000.99-1977,0,15092,sandra_day_oconnor,scotus_justice,1346.462,1356.205,Would you mind walking us through how you think this Court should resolve this case?
+2000.99-1977,0,37772,paul_d_clement,,1366.03,1367.144,Absolutely.
+2000.99-1977,0,15139,stephen_g_breyer,scotus_justice,1411.81,1436.041,"I'd like to go back to Justice O'Connor's question because I'm trying slowly to write down what you think the steps are and what I have written down is I have three basic steps for a judge in an appellate court hearing this, say as it was or before the trial or a trial judge."
+2000.99-1977,0,37772,paul_d_clement,,1456.763,1459.53,I would stop you there.
+2000.99-1977,0,15139,stephen_g_breyer,scotus_justice,1468.818,1473.648,Now is there a difference between what you just said and what I just said?
+2000.99-1977,0,37772,paul_d_clement,,1493.05,1496.188,--That's a fine statement of the qualified immunity standard.
+2000.99-1977,0,15139,stephen_g_breyer,scotus_justice,1496.188,1497.22,Good.
+2000.99-1977,0,37772,paul_d_clement,,1497.22,1502.587,What I was focusing on though is that I think if you really want to address the order that the judge should address the issue.
+2000.99-1977,0,15139,stephen_g_breyer,scotus_justice,1508.243,1510.555,"No, but I'm trying to write down."
+2000.99-1977,0,37772,paul_d_clement,,1543.703,1546.592,--Unless the underlying facts are in dispute.
+2000.99-1977,0,15139,stephen_g_breyer,scotus_justice,1546.592,1546.881,"No, no."
+2000.99-1977,0,37772,paul_d_clement,,1551.505,1552.043,"Yeah, that's right."
+2000.99-1977,0,15139,stephen_g_breyer,scotus_justice,1552.803,1555.032,So now I've proposed the right three steps.
+2000.99-1977,0,37772,paul_d_clement,,1566.366,1582.796,"--Yeah, and all I want to emphasize is I think that misses the Fourth Amendment step that this Court has said has to proceed the qualified immunity test and it's helpful to establish what the qualified immunity violation is because that's helpful in identifying whether or not the officers had fair notice that that Fourth Amendment principle actually applied."
+2000.99-1977,0,15141,william_h_rehnquist,scotus_justice,1582.796,1583.91,"Very well, Mr. Clement."
+2000.99-1977,1,29133,john_k_boyd,,1586.223,1609.917,"Mr. Chief Justice, may it please the Court:"
+2000.99-1977,1,15049,antonin_scalia,scotus_justice,1710.715,1716.543,"Well, wait, additional... I mean you're describing Graham as though it's just a matrix."
+2000.99-1977,1,29133,john_k_boyd,,1741.99,1749.132,"What it does do, Justice Scalia, is it gives a buffer for the trial court judge to get rid of an insubstantial case."
+2000.99-1977,1,15049,antonin_scalia,scotus_justice,1749.67,1752.187,"Gives you factors, that's all it gives you."
+2000.99-1977,1,29133,john_k_boyd,,1761.187,1783.933,"--I can tell you that in practice it gives the trial court judges the language that they need to be able to eliminate these insubstantial claims, the claims that are made by someone who's engaged in a serious crime like a rape or an armed robbery who then comes around and says, oh, you shouldn't have shot me and then those cases can easily be moved by the client--"
+2000.99-1977,1,15092,sandra_day_oconnor,scotus_justice,1783.933,1785.957,"Well, what should we do here?"
+2000.99-1977,1,29133,john_k_boyd,,1787.443,1787.443,--Right.
+2000.99-1977,1,15092,sandra_day_oconnor,scotus_justice,1787.443,1791.63,"There's a videotape here of what happened, is there not?"
+2000.99-1977,1,29133,john_k_boyd,,1791.63,1792.439,"Right, so let's--"
+2000.99-1977,1,15092,sandra_day_oconnor,scotus_justice,1792.439,1794.213,You want us to look at the videotape?
+2000.99-1977,1,29133,john_k_boyd,,1794.213,1795.616,"--Yes, Your Honor."
+2000.99-1977,1,15092,sandra_day_oconnor,scotus_justice,1795.616,1800.901,What if we look at the videotape and think that is not excessive force?
+2000.99-1977,1,29133,john_k_boyd,,1800.901,1802.841,I would be shocked.
+2000.99-1977,1,15092,sandra_day_oconnor,scotus_justice,1802.841,1803.956,Would you?
+2000.99-1977,1,15141,william_h_rehnquist,scotus_justice,1804.782,1806.268,That's what I thought too.
+2000.99-1977,1,15139,stephen_g_breyer,scotus_justice,1806.268,1812.378,"I looked at it as well and I think we're only talking about the person on the left, Mr. Saucier, who didn't even push him."
+2000.99-1977,1,29133,john_k_boyd,,1821.666,1848.787,"The testimony that was given by both Parker and Saucier was they both put Dr. Katz into the back of that van and it's the... the part of it is that if indeed that Dr. Katz was resisting then, yes, that was a fair amount of force to use, but that's the question that has to go back to the trial court here too, is that Dr. Katz said that he was not resisting and when you do look at that video you can see that he was not."
+2000.99-1977,1,15139,stephen_g_breyer,scotus_justice,1848.787,1853.617,"Yes I agree, but I didn't see any force at all used by Mr. Saucier."
+2000.99-1977,1,29133,john_k_boyd,,1863.565,1873.596,"Your Honor, according to the testimony of Mr. Saucier there was resistance and so they had to put their heads up to figure out what to do."
+2000.99-1977,1,15139,stephen_g_breyer,scotus_justice,1873.596,1879.706,"Yeah, he probably was talking about Parker giving him a little push, but is there anything else you want to say?"
+2000.99-1977,1,29133,john_k_boyd,,1891.101,1899.357,"I think that what I would ask you to look for is what was seen by Judge Jensen and also Judge Thompson writing for a unanimous court, affirming--"
+2000.99-1977,1,15141,william_h_rehnquist,scotus_justice,1899.357,1902.041,Did they look at a different video?
+2000.99-1977,1,29133,john_k_boyd,,1902.041,1903.238,"--No, Your Honor."
+2000.99-1977,1,15092,sandra_day_oconnor,scotus_justice,1905.096,1909.016,"No, it really didn't show that the person on the left did anything."
+2000.99-1977,1,29133,john_k_boyd,,1914.976,1924.248,"--Your Honor, because the reason we're here is that you can tell that there is a gratuitous use of force by both of them."
+2000.99-1977,1,15092,sandra_day_oconnor,scotus_justice,1925.529,1930.73,But I saw no force by the man on the left insofar as the van was concerned.
+2000.99-1977,1,29133,john_k_boyd,,1930.73,1937.584,--But they both engaged in the conduct together and that is their own testimony in their depositions.
+2000.99-1977,1,15113,anthony_m_kennedy,scotus_justice,1937.584,1945.18,"Well, I did not look at the videotape because I thought we were talking about the standards we have to use and the videotape was just irrelevant."
+2000.99-1977,1,15049,antonin_scalia,scotus_justice,1945.18,1945.436,Me too.
+2000.99-1977,1,29133,john_k_boyd,,1948.235,1953.891,"Yeah, and I... I actually think the most important thing... I don't think that the facts can be resolved here."
+2000.99-1977,1,15113,anthony_m_kennedy,scotus_justice,1990.011,2001.9,"Well, just at the pretrial stage, it does seem to me that there's a role for the court that's special in the context of qualified immunity."
+2000.99-1977,1,29133,john_k_boyd,,2023.531,2036.245,"At the summary judgment level, yes, there are two inquiries that are being made both on the qualified immunity and on the Fourth Amendment and they are intertwined and they're being made by the trial judge at that point."
+2000.99-1977,1,15049,antonin_scalia,scotus_justice,2051.106,2057.998,What do you do about the hog-tie example that the Government came forward with?
+2000.99-1977,1,29133,john_k_boyd,,2102.004,2103.49,"No, he is not, Your Honor."
+2000.99-1977,1,15049,antonin_scalia,scotus_justice,2108.403,2110.649,"Well, I don't think there's any dispute here then."
+2000.99-1977,1,29133,john_k_boyd,,2116.576,2130.322,"Well, except that where we depart is, and when you look at pages 5 and 15 of their reply brief, you see that they're asking for an additional margin of protection and that's why... what's surprising is that when the Government--"
+2000.99-1977,1,15042,david_h_souter,scotus_justice,2130.322,2132.18,Would you... what's the additional margin?
+2000.99-1977,1,29133,john_k_boyd,,2132.18,2148.898,"--The additional margin is that typically as in the McNair case what they attempt to do is that after the jury has returned a verdict, and I've seen this happen in the Northern District as well in a case that we won just a year ago, after the verdict comes back then the--"
+2000.99-1977,1,15042,david_h_souter,scotus_justice,2148.898,2150.013,What does the verdict say?
+2000.99-1977,1,29133,john_k_boyd,,2152.325,2157.238,--The verdict is in favor of the plaintiffs after the instructions have been given.
+2000.99-1977,1,15042,david_h_souter,scotus_justice,2157.238,2159.095,Including qualified immunity?
+2000.99-1977,1,29133,john_k_boyd,,2159.095,2159.55,Yes... no during--
+2000.99-1977,1,15042,david_h_souter,scotus_justice,2159.55,2162.976,So the jury has made a qualified immunity finding.
+2000.99-1977,1,29133,john_k_boyd,,2162.976,2170.407,"--No, the jury typically under Hunter in this Court, it's been directed that the court makes the qualified immunity."
+2000.99-1977,1,15042,david_h_souter,scotus_justice,2170.407,2175.608,"Okay, so the jury has simply determined whether there is or is not, yes or no, a Fourth Amendment violation?"
+2000.99-1977,1,29133,john_k_boyd,,2175.608,2176.639,"Correct, Your Honor."
+2000.99-1977,1,15042,david_h_souter,scotus_justice,2176.639,2178.125,"Comes back and says, yes there is."
+2000.99-1977,1,29133,john_k_boyd,,2178.125,2178.786,Correct.
+2000.99-1977,1,15042,david_h_souter,scotus_justice,2178.786,2180.066,"Now, what happens next?"
+2000.99-1977,1,29133,john_k_boyd,,2180.066,2190.014,"The Government lawyer jumps up and says, thank you, ladies and gentlemen for coming in, but now, Your Honor, I want you to second guess, I want you to reassess this case."
+2000.99-1977,1,15042,david_h_souter,scotus_justice,2197.073,2218.044,"I thought that what he was asking the judge to do is to determine, based on prior precedent, whether the jury's verdict in this case was sufficiently obvious that the officer should have known that the jury would come to the conclusion it came to."
+2000.99-1977,1,15092,sandra_day_oconnor,scotus_justice,2236.703,2238.56,"Oh, I thought we were talking about this case."
+2000.99-1977,1,29133,john_k_boyd,,2238.56,2240.046,"--No, Your Honor."
+2000.99-1977,1,15042,david_h_souter,scotus_justice,2260.729,2290.656,"And I am suggesting to you that what I think the defense is asking for is not second guessing on whether the jury was right or wrong about whether in its judgment there was a Fourth Amendment violation, but whether the officers should have anticipated, on the basis of prior precedent, that the jury would come out the way it did and if the officer should reasonably have anticipated that, then there's no qualified immunity."
+2000.99-1977,1,29133,john_k_boyd,,2297.509,2304.568,"--It's unclear what they're asking for, Your Honor, and what they've said before is that it should be the court that makes the decision."
+2000.99-1977,1,15042,david_h_souter,scotus_justice,2318.026,2318.769,All right.
+2000.99-1977,1,29133,john_k_boyd,,2341.349,2356.953,It's asking for... that... it really is a procedural secondary review of the decision to be made by the jury or they're asking for a second set of jury instructions.
+2000.99-1977,1,15092,sandra_day_oconnor,scotus_justice,2356.953,2358.81,"See, I don't understand that at all."
+2000.99-1977,1,29133,john_k_boyd,,2378.584,2391.587,"Your Honor, I think this may answer Justice Souter's question as well, but what we heard from my brother was that the instruction on the issue of Graham is not even necessary for them to decide."
+2000.99-1977,1,15049,antonin_scalia,scotus_justice,2430.763,2437.367,"Whether he could reasonably believe that he could act in a fashion, which has later been found to be unreasonable."
+2000.99-1977,1,29133,john_k_boyd,,2464.671,2483.147,"And do you know when they go over the line, and I know this from representing them, the instructions that you use in closing are the ones that are based on Graham saying a mistake's not enough, no 20/20 hindsight, you don't have to use the least amount of force necessary, that this is a severe crime, the guy was armed and dangerous."
+2000.99-1977,1,15141,william_h_rehnquist,scotus_justice,2485.476,2489.729,"Well, there have been a lot of questions from the bench about jury instructions."
+2000.99-1977,1,29133,john_k_boyd,,2507.396,2507.933,Yes.
+2000.99-1977,1,15141,william_h_rehnquist,scotus_justice,2507.933,2514.909,"Therefore, if you're... if we're simply talking about this particular decision, we don't get to any jury instructions at all."
+2000.99-1977,1,29133,john_k_boyd,,2514.909,2542.113,"No, the only... the concern though, is that whatever you establish as the summary judgment standard gets carried over to the directed verdict and that's why the decisions that have been made by the Sixth, Seventh, Ninth and D.C. Circuits are so solid is because they take Anderson and Graham and apply them together and that the big mess arises when you try to then put an additional boost on qualified immunity."
+2000.99-1977,1,15141,william_h_rehnquist,scotus_justice,2542.113,2554.373,"Okay, but on this particular record, the Vice President is speaking, this guy gets up to the front, raises a banner and he's taken out and put in a van."
+2000.99-1977,1,29133,john_k_boyd,,2556.148,2562.752,The part that's unreasonable is the way that he was put into that van if he was not resisting arrest.
+2000.99-1977,1,15141,william_h_rehnquist,scotus_justice,2563.207,2565.353,He was simply pushed?
+2000.99-1977,1,29133,john_k_boyd,,2567.376,2573.503,"The way that he was pushed by those officers, I think if you were to show it to the people in this room--"
+2000.99-1977,1,15092,sandra_day_oconnor,scotus_justice,2573.503,2575.178,"Excuse me, one officer."
+2000.99-1977,1,15141,william_h_rehnquist,scotus_justice,2575.178,2575.549,Yeah.
+2000.99-1977,1,15042,david_h_souter,scotus_justice,2575.549,2576.004,Yeah.
+2000.99-1977,1,29133,john_k_boyd,,2576.004,2582.691,"--Well, Your Honor, the testimony of both officers is that they both engaged in that conduct together."
+2000.99-1977,1,15092,sandra_day_oconnor,scotus_justice,2582.691,2588.636,"Well, I thought you told us we could look at the videotape, that that was correct."
+2000.99-1977,1,29133,john_k_boyd,,2593.177,2595.694,"Well, this is why you have a disputed issue of fact."
+2000.99-1977,1,15092,sandra_day_oconnor,scotus_justice,2606.386,2608.326,"Why don't we assume that, as a fact."
+2000.99-1977,1,29133,john_k_boyd,,2608.326,2612.33,--Because that would be for the jury.
+2000.99-1977,1,15092,sandra_day_oconnor,scotus_justice,2613.899,2628.017,But in deciding summary judgment on the qualified immunity issue I would assume we would assume he wasn't resisting and then go ahead and resolve the issue.
+2000.99-1977,1,29133,john_k_boyd,,2628.017,2640.937,"--Well, both Judge Jensen, who made his career as a prosecutor and Judge Thompson, who's also a conservative, seasoned judge, felt that there is a question of fact that needed to go to the jury."
+2000.99-1977,1,15141,william_h_rehnquist,scotus_justice,2640.937,2644.364,Does that mean that we couldn't find differently?
+2000.99-1977,1,29133,john_k_boyd,,2644.364,2651.506,"Of course, Your Honor, you are the Supreme Court."
+2000.99-1977,1,15139,stephen_g_breyer,scotus_justice,2651.506,2655.387,And also I assume they are very good judges.
+2000.99-1977,1,29133,john_k_boyd,,2718.462,2730.434,"I think that's very close, but in practice the point that I really want to have understood by this Court that the Ninth Circuit standard is that qualified immunity is alive and well in the Ninth Circuit."
+2000.99-1977,1,15049,antonin_scalia,scotus_justice,2730.434,2738.896,But the Ninth Circuit said that Anderson doesn't apply with respect to excessive force and I would like to know why that is correct?
+2000.99-1977,1,29133,john_k_boyd,,2791.307,2798.588,But Anderson does apply except it applies at the same level as the Fourth Amendment.
+2000.99-1977,1,15042,david_h_souter,scotus_justice,2817.246,2823.274,"Mr. Boyd, I think you answered Justice Scalia's question a second ago and I wanted to come back to it."
+2000.99-1977,1,29133,john_k_boyd,,2880.653,2881.685,Exactly.
+2000.99-1977,1,15042,david_h_souter,scotus_justice,2881.685,2882.139,Okay.
+2000.99-1977,1,15139,stephen_g_breyer,scotus_justice,2882.139,2888.001,If that's right then you say Anderson... Anderson doesn't... it's not so that Anderson doesn't apply.
+2000.99-1977,1,29133,john_k_boyd,,2890.601,2891.633,Exactly.
+2000.99-1977,1,15139,stephen_g_breyer,scotus_justice,2891.633,2903.976,"First thing you ask is the Anderson test and if the answer to that question is the plaintiff flunks, he's not only flunked the qualified immunity test, he's also flunked the substantive test."
+2000.99-1977,1,29133,john_k_boyd,,2903.976,2904.364,Exactly.
+2000.99-1977,1,15049,antonin_scalia,scotus_justice,2904.364,2909.632,"Well that's fine, but that still leaves me the question of why you don't get the same if you consider that a double benefit?"
+2000.99-1977,1,29133,john_k_boyd,,2957.763,2982.755,"Your Honor, the difference is, here we have Graham subsequent to Anderson and also I think as Justice Souter pointed out that... that... here, and I think this also part of the crux of it with the excessive force, is that you're dealing with the actual physical contact the police come into effect with people."
+2000.99-1977,1,15049,antonin_scalia,scotus_justice,2987.651,2988.394,They haven't.
+2000.99-1977,1,29133,john_k_boyd,,3001.026,3014.029,"--And the two together, Graham and Anderson, are being used in order to provide the police officers the insulation that they need to be able to carry on their duties without being unduly timid in the process."
+2000.99-1977,1,15084,ruth_bader_ginsburg,scotus_justice,3014.029,3024.432,"Mr. Boyd, may I ask you to tell me your view on something that Mr. Clement brought up and I thought in bringing it up he was trying to make this case a little bit like the hog-tie case."
+2000.99-1977,1,29133,john_k_boyd,,3055.435,3057.664,"No, it is not, Your Honor."
+2000.99-1977,1,15141,william_h_rehnquist,scotus_justice,3088.872,3095.288,But that doesn't really answer the legal point that Justice Souter and Justice Scalia have asked you about.
+2000.99-1977,1,29133,john_k_boyd,,3111.823,3119.996,"I think primarily, Your Honor, because with unreasonable force you're dealing with an area where they're in direct physical contact with the people."
+2000.99-1977,1,15141,william_h_rehnquist,scotus_justice,3119.996,3124.166,But why should that make a difference for Fourth Amendment purposes?
+2000.99-1977,1,29133,john_k_boyd,,3124.166,3126.124,Because of the nature of it.
+2000.99-1977,1,15049,antonin_scalia,scotus_justice,3167.24,3176.611,"But, you know, without Graham we have the legacy of several centuries of probable cause law, which gives the policeman the benefit of the doubt."
+2000.99-1977,1,29133,john_k_boyd,,3219.94,3227.221,"No, it's not that Anderson is wrong it's that Anderson has been incorporated into the Ninth Circuit standard and Anderson is alive and well."
+2000.99-1977,1,15060,john_paul_stevens,scotus_justice,3270.028,3279.11,"May I ask you a question based on your experience of these cases, how often does the issue of qualified immunity actually go to the jury, in your view?"
+2000.99-1977,1,29133,john_k_boyd,,3279.11,3289.058,"--Almost every time, based upon the uncertainty now that exists in this area and this is where the Court in its opinion really needs to come out and--"
+2000.99-1977,1,15060,john_paul_stevens,scotus_justice,3289.058,3291.205,You say in almost every case it goes to the jury?
+2000.99-1977,1,29133,john_k_boyd,,3291.205,3293.888,"--Well, it depends."
+2000.99-1977,1,15141,william_h_rehnquist,scotus_justice,3374.136,3374.962,"Thank you, Mr. Boyd."
+2000.99-1977,2,37772,paul_d_clement,,3380.164,3381.816,"Thank you, Mr. Chief Justice."
+2000.99-1977,2,15113,anthony_m_kennedy,scotus_justice,3482.332,3497.647,It seems to me that what you're asking is to say that the police officer is entitled to know in every case precisely what he must do and I'm not sure either under qualified immunity and then certainly under general Fourth Amendment principles we can do that.
+2000.99-1977,2,37772,paul_d_clement,,3497.647,3500.787,"I don't think that's what we're asking, with all due respect Justice Kennedy."
+2000.99-1977,2,15139,stephen_g_breyer,scotus_justice,3537.789,3538.276,All right.
+2000.99-1977,2,37772,paul_d_clement,,3560.989,3561.815,And that's why I want to insist--
+2000.99-1977,2,15139,stephen_g_breyer,scotus_justice,3561.815,3564.333,Is that the part you're disagreeing with?
+2000.99-1977,2,37772,paul_d_clement,,3565.447,3565.985,--Absolutely.
+2000.99-1977,2,15042,david_h_souter,scotus_justice,3573.249,3575.273,"Only reasonable mistakes of fact, is that your point?"
+2000.99-1977,2,37772,paul_d_clement,,3575.273,3588.936,"That's exactly right, because if it were otherwise then the very fact that prior law didn't put an officer on notice and there was unclarity would itself mean that the conduct was lawful and then there'd be no mechanism for the law to provide clarity in the Fourth Amendment context."
+2000.99-1977,2,15141,william_h_rehnquist,scotus_justice,3604.085,3604.828,Thank you.

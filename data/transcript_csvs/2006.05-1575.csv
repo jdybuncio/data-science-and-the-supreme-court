@@ -1,0 +1,170 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2006.05-1575,0,15086,john_g_roberts_jr,scotus_justice,0.0,1.5,We'll hear argument--
+2006.05-1575,0,33800,kent_e_cattani,,12.891,26.9,"Mr. Chief Justice, and may it please the Court:"
+2006.05-1575,0,15060,john_paul_stevens,scotus_justice,80.385,81.752,May I ask about the first one?
+2006.05-1575,0,33800,kent_e_cattani,,86.372,89.474,"--It would require that it would be knowing and voluntary, yes."
+2006.05-1575,0,15060,john_paul_stevens,scotus_justice,89.474,98.364,"So if the record showed that he didn't get, there wasn't a procedure followed to voluntarily waive those Constitutional rights, wouldn't the district court be able to reexamine that?"
+2006.05-1575,0,33800,kent_e_cattani,,98.364,103.9,"Well, there's no colloquy requirement for a defendant to waive presentation of mitigation."
+2006.05-1575,0,15049,antonin_scalia,scotus_justice,129.598,143.525,"How would he make such a claim in this case where in open court he was asked by the judge, right, with nobody twisting his arm, whether it was the case that he did not want any mitigating evidence introduced?"
+2006.05-1575,0,33800,kent_e_cattani,,146.477,147.177,"I agree, Your Honor."
+2006.05-1575,0,15113,anthony_m_kennedy,scotus_justice,155.35,160.57,"Well, I don't know if you got to the third point you were going to make."
+2006.05-1575,0,33800,kent_e_cattani,,206.635,218.693,"Yes, I did, Your Honor, and I think the reason for that is, in our view an evidentiary hearing is not necessary because the factual finding by the State court obviates the need for one."
+2006.05-1575,0,15113,anthony_m_kennedy,scotus_justice,237.154,242.308,"In your view, what is the standard for when the district court may hold an evidentiary hearing?"
+2006.05-1575,0,33800,kent_e_cattani,,244.991,256.449,A district... the district court can order an evidentiary hearing if the defendant has been denied an opportunity to develop relevant facts necessary to resolve a colorable claim in State court.
+2006.05-1575,0,15113,anthony_m_kennedy,scotus_justice,261.769,265.572,That's the only time the district court can hold a hearing?
+2006.05-1575,0,33800,kent_e_cattani,,265.572,270.125,"--Well, it has to be through no fault of his own and if the facts were not developed in State court."
+2006.05-1575,0,15113,anthony_m_kennedy,scotus_justice,278.231,281.266,"Yes, but it seems that if he doesn't do that, then that's a bar."
+2006.05-1575,0,33800,kent_e_cattani,,286.318,287.42,"--Well, but that's the point here."
+2006.05-1575,0,15042,david_h_souter,scotus_justice,320.141,323.593,"No, but isn't that the problem in your argument?"
+2006.05-1575,0,33800,kent_e_cattani,,408.549,412.334,Simply the AEDPA 2254(e).
+2006.05-1575,0,15086,john_g_roberts_jr,scotus_justice,420.69,426.159,"Justice Souter's question highlights an ambiguity in this Ninth Circuit opinion, for me anyway."
+2006.05-1575,0,33800,kent_e_cattani,,439.401,444.888,--It seems to me the hearing is directed at presenting all of the mitigation evidence that he now wants to present.
+2006.05-1575,0,15042,david_h_souter,scotus_justice,444.888,446.388,Doesn't it have to go to both?
+2006.05-1575,0,33800,kent_e_cattani,,473.991,475.441,"I would agree with that, but Your Honor--"
+2006.05-1575,0,15049,antonin_scalia,scotus_justice,475.441,475.907,I wouldn't agree with it.
+2006.05-1575,0,33800,kent_e_cattani,,493.469,494.821,--Yes.
+2006.05-1575,0,15049,antonin_scalia,scotus_justice,494.821,495.488,Isn't that so?
+2006.05-1575,0,33800,kent_e_cattani,,508.263,509.414,"That's correct, Your Honor."
+2006.05-1575,0,15049,antonin_scalia,scotus_justice,509.414,514.9,So it wasn't remanding for a hearing on whether he had waived mitigating evidence.
+2006.05-1575,0,33800,kent_e_cattani,,524.006,531.444,I don't know that it's completely clear as to what the Ninth Circuit is saying can be developed and how that evidence can be used.
+2006.05-1575,0,15049,antonin_scalia,scotus_justice,531.444,537.815,"Well, it's clear at least that they disagreed with the finding of the district court that there had been a waiver, no?"
+2006.05-1575,0,33800,kent_e_cattani,,537.815,539.267,"That's right, Your Honor, and I think--"
+2006.05-1575,0,15042,david_h_souter,scotus_justice,539.267,544.052,So it's clear that they disagreed that the finding was necessarily dispositive.
+2006.05-1575,0,33800,kent_e_cattani,,571.838,579.225,--The Ninth Circuit ordered an evidentiary hearing to allow him to develop whatever mitigation he's proffered in Federal court.
+2006.05-1575,0,15042,david_h_souter,scotus_justice,579.225,579.625,Right.
+2006.05-1575,0,33800,kent_e_cattani,,622.854,628.492,"Well, the Ninth Circuit clearly held that the State court's determination of the facts was unreasonable."
+2006.05-1575,0,15113,anthony_m_kennedy,scotus_justice,636.763,647.036,"Well, on the waiver point, let's assume that this case had not come in... come here, and you had gone back to the district court pursuant to the order of the Ninth Circuit."
+2006.05-1575,0,33800,kent_e_cattani,,660.546,661.179,Yes.
+2006.05-1575,0,15113,anthony_m_kennedy,scotus_justice,661.179,669.433,"And the district court would say I now have a more full, factual record, and I make the finding that there was knowing waiver, or there wasn't."
+2006.05-1575,0,33800,kent_e_cattani,,669.433,683.108,"Yes, but the point we've tried to make is that he was allowed an opportunity to develop his claim about whether his... whether he made that statement and whether he intended to instruct his attorney not to present any mitigating evidence."
+2006.05-1575,0,15068,samuel_a_alito_jr,scotus_justice,702.137,719.532,"Well, how could the district court on remand find that there was a valid waiver when the Ninth Circuit says on A-17, the appendix to the petition, for all the foregoing reasons, Landrigan has not waived the right to assert a claim for ineffective assistance of counsel?"
+2006.05-1575,0,33800,kent_e_cattani,,719.532,719.999,I think you're correct.
+2006.05-1575,0,15049,antonin_scalia,scotus_justice,729.573,731.256,And it has not waived.
+2006.05-1575,0,33800,kent_e_cattani,,745.283,746.116,"Well, I--"
+2006.05-1575,0,15049,antonin_scalia,scotus_justice,746.116,749.82,The district court has to accept that he hasn't waived.
+2006.05-1575,0,15060,john_paul_stevens,scotus_justice,758.324,759.759,Let me ask this question.
+2006.05-1575,0,33800,kent_e_cattani,,791.997,803.288,"--I think it's clearly enough simply to say that, as I indicated, even if it had just been an avowal by the attorney that this defendant has instructed me not to present mitigating evidence, that that would be enough."
+2006.05-1575,0,15060,john_paul_stevens,scotus_justice,803.288,811.458,"Is that a sufficient waiver without inquiring as to whether it was a knowing and intelligent waiver, that he knew what he could put in, and so forth and so on?"
+2006.05-1575,0,33800,kent_e_cattani,,811.458,812.31,"Yes, it is, Your Honor."
+2006.05-1575,0,15042,david_h_souter,scotus_justice,874.568,878.786,"Isn't there something that, isn't he saying implicitly Justice Souter implicitly"
+2006.05-1575,0,33800,kent_e_cattani,,901.635,906.67,--It's clear he is saying that I would have permitted one type of mitigating evidence.
+2006.05-1575,0,15042,david_h_souter,scotus_justice,906.67,915.126,"But that's the same thing, isn't that the same, a way of saying that to that extent my waiver was not knowing?"
+2006.05-1575,0,33800,kent_e_cattani,,915.126,920.347,"He, he's raised to it that extent as to that particular piece of mitigation."
+2006.05-1575,0,15042,david_h_souter,scotus_justice,926.083,940.074,"And he's saying if you will give me a hearing, district court, I will try to demonstrate to you why, why the State court's finding on that point was unreasonable."
+2006.05-1575,0,33800,kent_e_cattani,,967.993,978.449,"He is, Your Honor, but I would suggest that there is no further evidence that was presented that he was attempting to present in State court regarding whether his waiver was knowing or voluntary."
+2006.05-1575,0,15042,david_h_souter,scotus_justice,978.449,979.301,How would... how do we know that?
+2006.05-1575,0,33800,kent_e_cattani,,979.301,979.968,How do we know we know that?
+2006.05-1575,0,15042,david_h_souter,scotus_justice,997.512,1004.749,"But you, I don't think you mean this, but you're not arguing that he just omitted the magic words not knowing and voluntary?"
+2006.05-1575,0,33800,kent_e_cattani,,1004.749,1006.635,"--I don't think, I don't think he just omitted them."
+2006.05-1575,0,15042,david_h_souter,scotus_justice,1008.82,1023.061,"No, but, I thought a second ago you... you admitted that to a degree he was, because he is saying implicitly if I had known about this kind of mitigating evidence, I wouldn't have waived."
+2006.05-1575,0,33800,kent_e_cattani,,1028.031,1032.352,He raised that as to that one aspect of mitigation.
+2006.05-1575,0,15042,david_h_souter,scotus_justice,1040.189,1043.124,"Look, it would have been a better affidavit, it would have been better pleading."
+2006.05-1575,0,33800,kent_e_cattani,,1065.924,1076.714,"Well, I think the issue was resolved by the State court's factual determination that Landrigan was not credible even in making that assertion that I would have allowed presentation of genetic predisposition of violence."
+2006.05-1575,0,15042,david_h_souter,scotus_justice,1076.714,1083.468,"And he says in the district, he says in the district court: I want a hearing to show that I was credible."
+2006.05-1575,0,33800,kent_e_cattani,,1093.391,1099.295,I would just suggest that there is no further evidence other than putting Landrigan on the stand to say--
+2006.05-1575,0,15042,david_h_souter,scotus_justice,1099.295,1100.663,"Well, that's pretty good evidence, isn't it?"
+2006.05-1575,0,33800,kent_e_cattani,,1104.349,1112.887,"--Well, I don't think there was any need for an, for the trial court to put Landrigan on the stand having already presided over Landrigan's trial and sentencing."
+2006.05-1575,0,15086,john_g_roberts_jr,scotus_justice,1112.887,1117.756,"If he wants, if he wants a hearing on that, we'd have to reverse the Ninth Circuit, right?"
+2006.05-1575,0,33800,kent_e_cattani,,1120.708,1121.158,That's right.
+2006.05-1575,0,15086,john_g_roberts_jr,scotus_justice,1121.158,1121.974,--this claim?
+2006.05-1575,0,33800,kent_e_cattani,,1121.974,1122.924,That's right.
+2006.05-1575,0,15086,john_g_roberts_jr,scotus_justice,1122.924,1128.559,The part of the opinion that Justice Alito quoted on page A-17.
+2006.05-1575,0,33800,kent_e_cattani,,1128.559,1129.344,"That, that's right, Your Honor."
+2006.05-1575,0,15139,stephen_g_breyer,scotus_justice,1160.113,1171.838,"Even if it is incorrect, if we... we don't know precisely what he meant by the words he said, why doesn't that argue even more strongly for a hearing?"
+2006.05-1575,0,33800,kent_e_cattani,,1228.491,1240.049,"Well, the problem with, that Your Honor, is that he didn't ask for, for a hearing to present testimony from, for example, his biological mother and his ex-wife, who would have presented the very evidence--"
+2006.05-1575,0,15139,stephen_g_breyer,scotus_justice,1240.049,1241.667,In State court he didn't.
+2006.05-1575,0,33800,kent_e_cattani,,1241.667,1242.584,--In State court in the--
+2006.05-1575,0,15139,stephen_g_breyer,scotus_justice,1242.584,1250.357,"Well, I mean, is the requirement such that when you ask for a hearing in a State court on a general matter,"
+2006.05-1575,0,33800,kent_e_cattani,,1272.12,1278.84,"--Well, there is a requirement in State court that you plead with specificity what type of claims you're raising in a post-conviction--"
+2006.05-1575,0,15139,stephen_g_breyer,scotus_justice,1278.84,1281.476,Didn't he say my claim is ineffective assistance?
+2006.05-1575,0,33800,kent_e_cattani,,1281.476,1282.276,--Ineffective assistance--
+2006.05-1575,0,15139,stephen_g_breyer,scotus_justice,1282.276,1282.661,Yeah.
+2006.05-1575,0,33800,kent_e_cattani,,1301.206,1310.728,"--Well, his argument at State court was not that he didn't investigate that; his argument in the post-conviction proceeding was he could have presented that through some other witnesses."
+2006.05-1575,0,15086,john_g_roberts_jr,scotus_justice,1313.597,1317.482,That's not what I understood his argument that he wants to raise to be.
+2006.05-1575,0,15049,antonin_scalia,scotus_justice,1331.975,1333.777,The criminal gene argument.
+2006.05-1575,0,15086,john_g_roberts_jr,scotus_justice,1333.777,1341.533,That... which is certainly an ambiguous argument to present in mitigation at a sentencing hearing.
+2006.05-1575,0,33800,kent_e_cattani,,1341.533,1341.9,--Certainly.
+2006.05-1575,0,15049,antonin_scalia,scotus_justice,1369.35,1373.838,I thought all that evidence was basically before the district court anyway.
+2006.05-1575,0,33800,kent_e_cattani,,1376.721,1380.158,"Yes, Your Honor and the trial court knew about it when it made its ruling."
+2006.05-1575,0,15042,david_h_souter,scotus_justice,1380.158,1386.646,"Well, the district court had a proffer, but the district court but had not heard witnesses, it had not heard evidence."
+2006.05-1575,0,33800,kent_e_cattani,,1386.646,1392.732,"But, but the focus here is on the reasonableness of the State court's factual finding."
+2006.05-1575,0,15042,david_h_souter,scotus_justice,1392.732,1400.905,"Sure, but the reasonableness of factual findings depends on what the evidence is that can go in on the issue of reasonableness."
+2006.05-1575,0,33800,kent_e_cattani,,1429.622,1439.196,I don't necessarily disagree except that we're... the focus has to be on what the claim was that was raised in the State post-conviction proceeding; and--
+2006.05-1575,0,15042,david_h_souter,scotus_justice,1439.196,1452.438,"The only thing, but the... the... I guess on that point, my only, my only reason for raising this with you is on that point, it's not enough to say well, the district court assumed this."
+2006.05-1575,0,33800,kent_e_cattani,,1461.36,1474.786,"--Except in this case we certainly had the trial court that presided over the sentencing and had seen Landrigan in person and was uniquely qualified to make a credibility assessment regarding the points that Landrigan made in his affidavit, that"
+2006.05-1575,0,15060,john_paul_stevens,scotus_justice,1477.821,1481.44,May I ask what might be an awfully elementary and stupid question?
+2006.05-1575,0,33800,kent_e_cattani,,1519.612,1522.398,"There, there's not a specific colloquy that goes through--"
+2006.05-1575,0,15060,john_paul_stevens,scotus_justice,1522.398,1526.1,"Then it is, as a matter of law, an ineffective waiver."
+2006.05-1575,0,33800,kent_e_cattani,,1537.157,1542.727,"--Well, first, there's no authority that I'm aware of that would require any type of a specific colloquy."
+2006.05-1575,0,15049,antonin_scalia,scotus_justice,1543.694,1544.846,It's new to me also.
+2006.05-1575,0,33800,kent_e_cattani,,1545.979,1547.731,--And I think that would be--
+2006.05-1575,0,15060,john_paul_stevens,scotus_justice,1547.731,1554.052,"But why should it be, why should there be a less complete colloquy for this kind of waiver than a guilty plea itself?"
+2006.05-1575,0,33800,kent_e_cattani,,1558.856,1570.997,"--Well, I think the reason there's no need for one is because a defendant can come in and if he really believes that his waiver was not knowing and voluntary, he has an opportunity to pursue that type of claim in a post-conviction proceeding."
+2006.05-1575,0,15049,antonin_scalia,scotus_justice,1576.817,1587.856,"Some kind of waivers, like waiver to the right to counsel, we do indeed require a colloquy, because a defendant is not likely to know what consequences of foregoing counsel are."
+2006.05-1575,0,33800,kent_e_cattani,,1607.687,1608.587,"--I would agree, Your Honor."
+2006.05-1575,0,15113,anthony_m_kennedy,scotus_justice,1609.139,1612.741,But doesn't that assume that the defendant know what mitigating evidence is?
+2006.05-1575,0,33800,kent_e_cattani,,1625.481,1629.95,"--I think that type of argument was belied by what, what happened at the time of sentencing."
+2006.05-1575,0,15049,antonin_scalia,scotus_justice,1629.95,1652.316,"Well, unless the argument is, and maybe this is what the other side its going to argue, that... that when you make waiver of all mitigating evidence, knowing as any person knows who's reached that far in the criminal process what mitigating evidence is, you must know, in fact, all of the elements of mitigation that could have been introduced."
+2006.05-1575,0,33800,kent_e_cattani,,1682.318,1683.185,"Well, I agree, Your Honor."
+2006.05-1575,0,15042,david_h_souter,scotus_justice,1693.293,1707.968,"And so are you, are you in effect then saying that the waiver does not need to be a knowing waiver in the sense that it needs to be based upon an appreciation of all the possible mitigation evidence that in this case might come in?"
+2006.05-1575,0,33800,kent_e_cattani,,1710.754,1715.389,I think a defendant needs to understand the nature... the basic nature and concept of mitigation.
+2006.05-1575,0,15042,david_h_souter,scotus_justice,1716.574,1717.991,"Well, you're not answering my question."
+2006.05-1575,0,33800,kent_e_cattani,,1728.466,1733.434,--It does have to... it does not have to be knowing as to every conceivable aspect of mitigation.
+2006.05-1575,0,15042,david_h_souter,scotus_justice,1733.434,1748.777,"And it will nonetheless kind him if he comes in later and says look, I accept the fact that it's my burden to show at this point that my waiver was not a knowing one, and that there us mitigating evidence that I would have let in?"
+2006.05-1575,0,33800,kent_e_cattani,,1754.783,1757.116,"He is bound by that, Your Honor."
+2006.05-1575,0,15042,david_h_souter,scotus_justice,1757.985,1759.335,So... so the answer to my question is yes?
+2006.05-1575,0,33800,kent_e_cattani,,1759.335,1759.668,--Yes.
+2006.05-1575,0,15042,david_h_souter,scotus_justice,1759.668,1762.87,"As a matter of law, he cannot do what he is trying to do here?"
+2006.05-1575,0,33800,kent_e_cattani,,1762.87,1763.336,Yes.
+2006.05-1575,0,15042,david_h_souter,scotus_justice,1763.336,1763.72,Okay.
+2006.05-1575,0,33800,kent_e_cattani,,1763.72,1774.142,"And Your Honor, l think here we have a situation where the defendant is now trying to proffer evidence that is inconsistent with what counsel was trying to present at the time of sentencing."
+2006.05-1575,0,15084,ruth_bader_ginsburg,scotus_justice,1774.142,1787.616,"But you are... what you are saying is that it was sufficient when he said, I don't want my lawyer to introduce mitigating evidence, and the trial court said, do you know what that means, and he said yes?"
+2006.05-1575,0,33800,kent_e_cattani,,1787.616,1788.216,Yes.
+2006.05-1575,0,15084,ruth_bader_ginsburg,scotus_justice,1788.216,1794.805,"That doesn't have to be fleshed out at all, unlike a Rule 11 colloquy."
+2006.05-1575,0,33800,kent_e_cattani,,1802.959,1804.427,"I think that is sufficient, Your Honor."
+2006.05-1575,0,15086,john_g_roberts_jr,scotus_justice,1831.079,1832.795,"Thank you, counsel."
+2006.05-1575,1,21656,donald_b_verrilli_jr,,1836.298,1846.654,"Thank you, Mr. Chief Justice, and may it please the Court:"
+2006.05-1575,1,15049,antonin_scalia,scotus_justice,1965.844,1966.244,Excuse me.
+2006.05-1575,1,21656,donald_b_verrilli_jr,,1970.031,1971.098,--I may have the wrong page.
+2006.05-1575,1,15049,antonin_scalia,scotus_justice,1971.098,1973.233,"Well, that's rather important, don't you think?"
+2006.05-1575,1,21656,donald_b_verrilli_jr,,1973.233,1973.633,I'm sorry.
+2006.05-1575,1,15049,antonin_scalia,scotus_justice,2005.787,2007.954,Is that effective?
+2006.05-1575,1,21656,donald_b_verrilli_jr,,2012.108,2013.391,"--Well, it doesn't have to, but, Your Honor--"
+2006.05-1575,1,15049,antonin_scalia,scotus_justice,2013.391,2018.345,Isn't it your obligation to raise it in your original motion rather than in a motion for rehearing?
+2006.05-1575,1,21656,donald_b_verrilli_jr,,2018.345,2027.118,"--Well, there's no... but the point is that's not... when we took this to the Arizona Supreme Court that's not an argument that the State made in opposition to our raising Johnson against Zerbst."
+2006.05-1575,1,15086,john_g_roberts_jr,scotus_justice,2074.681,2084.906,And is it just an evidentiary hearing on his biological pre determination to commit violent crime or an evidentiary hearing on the waiver question?
+2006.05-1575,1,21656,donald_b_verrilli_jr,,2084.906,2086.356,"On both, Your Honor."
+2006.05-1575,1,15086,john_g_roberts_jr,scotus_justice,2086.356,2091.06,"Well, why did... the court on page A-17 ruled that there was no waiver."
+2006.05-1575,1,21656,donald_b_verrilli_jr,,2093.844,2096.897,"Let me move to that if I could, because I do think that's significant."
+2006.05-1575,1,15049,antonin_scalia,scotus_justice,2136.922,2142.926,But that wasn't your assertion even in this motion for a hearing.
+2006.05-1575,1,21656,donald_b_verrilli_jr,,2166.441,2169.51,"We're trying to establish there, Your Honor--"
+2006.05-1575,1,15049,antonin_scalia,scotus_justice,2169.51,2177.999,"But that was a factual matter best, best disposed of by the judge who was present at the time."
+2006.05-1575,1,21656,donald_b_verrilli_jr,,2193.343,2199.346,"--Your Honor, I want to respond directly to Your Honor's question, if you'll just permit me one more thought about the Ninth Circuit and I'll turn right back to that."
+2006.05-1575,1,15049,antonin_scalia,scotus_justice,2199.346,2199.948,Okay.
+2006.05-1575,1,21656,donald_b_verrilli_jr,,2199.948,2214.958,"So in other words, we are making a more modest request for relief here which, is affirmance of the judgment sending back for an evidentiary hearing, but with a recognition that the evidentiary hearing ought to deal with the issue of waiver, which should be understood to be left open."
+2006.05-1575,1,15049,antonin_scalia,scotus_justice,2325.945,2328.047,"This is belt and suspenders, that's all."
+2006.05-1575,1,21656,donald_b_verrilli_jr,,2339.189,2339.739,I respectfully--
+2006.05-1575,1,15049,antonin_scalia,scotus_justice,2339.739,2351.747,"--because he wasn't bringing in at this point the biological... by the way, biological proclivity to violence is a mitigating factor rather than an aggravating factor?"
+2006.05-1575,1,21656,donald_b_verrilli_jr,,2351.747,2354.549,--Let me address your second question first and then your first question.
+2006.05-1575,1,15086,john_g_roberts_jr,scotus_justice,2382.366,2394.257,"Well, but the prior paragraph says it's because of the history of his biological grandfather, biological brother, and biological child."
+2006.05-1575,1,21656,donald_b_verrilli_jr,,2398.311,2412.903,"But one other thing it does that's very significant, Mr. Chief Justice, is it also says that these witnesses can attest to the use of alcohol and drugs by the biological mother when Landrigan was in utero."
+2006.05-1575,1,15086,john_g_roberts_jr,scotus_justice,2412.903,2413.72,"--Well, but he knew about that."
+2006.05-1575,1,21656,donald_b_verrilli_jr,,2421.843,2445.874,"Yes, but what he's saying that he would have agreed to, it seems to me the only fair reading in this affidavit, which again I don't think fairly defines the full scope of what he's allowed to proceed with under Arizona procedure, but with respect to this affidavit he's saying, well, if you had had an expert who could have come in and given testimony about fetal alcohol syndrome and the organic brain damage and other impairments that it causes, I would have cooperated with that."
+2006.05-1575,1,15086,john_g_roberts_jr,scotus_justice,2450.742,2458.182,How could that be helpful to him if he doesn't allow his biological mother to testify about drug and alcohol abuse?
+2006.05-1575,1,21656,donald_b_verrilli_jr,,2461.384,2464.936,--Because all the biological mother would have had to do was to give that information to the expert.
+2006.05-1575,1,15086,john_g_roberts_jr,scotus_justice,2498.823,2510.448,"--The defendant would have been happy to have his biological mother talk with the expert, but was unwilling to have his biological mother say the same thing in court?"
+2006.05-1575,1,21656,donald_b_verrilli_jr,,2510.448,2513.083,"Sure, and I don't think there's anything unreasonable about that."
+2006.05-1575,1,15049,antonin_scalia,scotus_justice,2514.769,2515.769,I don't understand.
+2006.05-1575,1,21656,donald_b_verrilli_jr,,2525.341,2535.348,"--If I... whatever else happened, the trial judge here considered this evidence of mitigation and did a weighing."
+2006.05-1575,1,15086,john_g_roberts_jr,scotus_justice,2570.438,2585.881,"Counsel, do you think it's possible to have a valid waiver of the presentation of mitigating evidence or is it always possible that some additional evidence would come up and you say, what if I had known that, I wouldn't have waived it?"
+2006.05-1575,1,21656,donald_b_verrilli_jr,,2585.881,2588.233,--I don't think there's a yes or no answer to that question.
+2006.05-1575,1,15086,john_g_roberts_jr,scotus_justice,2588.633,2591.702,You can't give a yes answer to whether it's ever possible.
+2006.05-1575,1,21656,donald_b_verrilli_jr,,2591.702,2592.152,--Yes.
+2006.05-1575,1,15086,john_g_roberts_jr,scotus_justice,2593.721,2594.087,Okay.
+2006.05-1575,1,21656,donald_b_verrilli_jr,,2594.087,2606.695,"But I think I don't... I want to make sure I don't leave any implication that the rule we're asking for here is going to open the door to lots of claims, because I don't think it does for two sets of reasons."
+2006.05-1575,1,15084,ruth_bader_ginsburg,scotus_justice,2632.496,2637.214,"Could you do it concretely, Mr. Verrilli, for this case."
+2006.05-1575,1,21656,donald_b_verrilli_jr,,2665.65,2676.208,"--I think that's important, and hopefully it will help explain why we think that this is a narrow... that the rule we're asking for here is a narrow one, and it's not going to open the door to lots of claims."
+2006.05-1575,1,15086,john_g_roberts_jr,scotus_justice,2687.831,2689.765,"Well, he certainly understood that."
+2006.05-1575,1,21656,donald_b_verrilli_jr,,2697.871,2702.858,--And he needs to be assisted by competent counsel.
+2006.05-1575,1,15086,john_g_roberts_jr,scotus_justice,2736.662,2740.864,Why isn't the type of documentation that would be sufficient?
+2006.05-1575,1,21656,donald_b_verrilli_jr,,2745.951,2753.541,"--Well, because I think there isn't clarity at all that he understands what mitigating evidence is, what the full scope of it is and how it could--"

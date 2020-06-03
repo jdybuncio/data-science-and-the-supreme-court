@@ -1,0 +1,120 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2008.07-1437,0,15086,john_g_roberts_jr,scotus_justice,0.0,10.291,"We'll hear argument next in Case 07-1437, Carlsbad Technology v. HIF Bio, Inc.."
+2008.07-1437,0,25994,glenn_w_rhodes,,11.243,33.887,"Mr. Chief Justice, and may it please the Court: The single issue presented in this case is whether the bar to review under 1447(d) is applicable to a district court's discretionary decision to decline the exercise of supplemental jurisdiction."
+2008.07-1437,0,15084,ruth_bader_ginsburg,scotus_justice,239.617,254.377,"Isn't there something odd about saying if it's really fundamental like the presence or absence of subject matter jurisdiction, that is not reviewable?"
+2008.07-1437,0,25994,glenn_w_rhodes,,272.854,289.133,"Justice Ginsburg, I agree with that, because if the court does say that I am remanding this because, either rightly or wrongly, I lack subject matter jurisdiction, then that would fall squarely within 1447(c) and (d)."
+2008.07-1437,0,15084,ruth_bader_ginsburg,scotus_justice,289.133,300.691,"Though that could be a very grave error and yet, on a matter of discretion, that that would be reviewable."
+2008.07-1437,0,25994,glenn_w_rhodes,,341.483,346.637,"I agree with you, Justice Ginsburg, that that seems rather confusing."
+2008.07-1437,0,15084,ruth_bader_ginsburg,scotus_justice,495.685,512.896,"But wouldn't it be -- I mean, here the district judge said: I got rid of the RICO claim; all that's left are State law claims, and there's no Federal interest in this case anymore."
+2008.07-1437,0,25994,glenn_w_rhodes,,560.71,575.82,"I'm not sure about the number of -- percentage of cases that -- that there is going to be a decision by the appellate court to say we shouldn't interfere in that, Justice Ginsburg."
+2008.07-1437,0,15084,ruth_bader_ginsburg,scotus_justice,575.82,594.681,"But wouldn't you -- as a practical judgment, the Federal claim is gone, there is pendent jurisdiction -- or it's now supplemental jurisdiction -- over the State claim, but the district court is told by Congress: It's your call; it's a matter of discretion."
+2008.07-1437,0,25994,glenn_w_rhodes,,620.416,652.22,"I think, Justice Ginsburg, I can give you an answer to that because there is a recent case that's in our brief, the Brookshire case from the Fifth Circuit, where the district court exercised jurisdiction over Federal and supplemental claims, and did that for quite a while and ruled on a number of dispositive motions; and then basically on the eve of trial, after resolving the Federal claim, remanded it back to State court."
+2008.07-1437,0,15084,ruth_bader_ginsburg,scotus_justice,677.251,687.976,"But that -- because you'd would have to retread the same ground in the State court that had already been covered in the Federal court, but that's not the kind of case that was presented here."
+2008.07-1437,0,25994,glenn_w_rhodes,,721.079,723.198,That is true.
+2008.07-1437,0,15084,ruth_bader_ginsburg,scotus_justice,779.867,784.188,Could you explain why that is a Federal question?
+2008.07-1437,0,25994,glenn_w_rhodes,,814.29,848.011,"It became a Federal question because in our view it arose under the patent laws because when they filed their complaint, even though they couched it in terms of purely State law claims, they did allege that we had falsely claimed to be the inventors; and the basis for that claim that we falsely claimed to be the inventors was the oath and declaration that was filed in connection with our patent applications at the U.S. Patent and Trademark Office."
+2008.07-1437,0,15060,john_paul_stevens,scotus_justice,879.833,887.154,May I just ask one sort of a preliminary question?
+2008.07-1437,0,25994,glenn_w_rhodes,,898.994,900.563,Yes.
+2008.07-1437,0,15060,john_paul_stevens,scotus_justice,905.217,907.0,What really prevents us--
+2008.07-1437,0,25994,glenn_w_rhodes,,907.0,907.917,--seems to be what it says.
+2008.07-1437,0,15060,john_paul_stevens,scotus_justice,907.917,909.169,--from reaching that decision in this case?
+2008.07-1437,0,25994,glenn_w_rhodes,,921.91,936.152,"That would be going against the rule that was set out in Thermtron, that 1447(d) was limited to only the specified grounds of 1447(c), which are lack of--"
+2008.07-1437,0,15060,john_paul_stevens,scotus_justice,936.152,936.552,I understand.
+2008.07-1437,0,25994,glenn_w_rhodes,,943.473,980.265,"--I'm not sure that would be a simple solution to this case, Justice Stevens, and the reason for that is that if we -- if the Court decides to do that, then we return to those areas where total chaos could really break out, and the reason for that is that we would be in a situation where district courts can -- can dress up in language that is lack of subject matter jurisdiction and remand cases, knowing that there is not going to be any review."
+2008.07-1437,0,15060,john_paul_stevens,scotus_justice,980.265,981.648,"No, no."
+2008.07-1437,0,15084,ruth_bader_ginsburg,scotus_justice,995.608,997.893,But the--
+2008.07-1437,0,15086,john_g_roberts_jr,scotus_justice,997.893,999.679,There'd be no need to dress up anything.
+2008.07-1437,0,25994,glenn_w_rhodes,,1004.964,1012.252,"If we were to read 1447(d), just plainly on its face without--"
+2008.07-1437,0,15084,ruth_bader_ginsburg,scotus_justice,1012.252,1014.771,--How could we do that in light of Thermtron?
+2008.07-1437,0,25994,glenn_w_rhodes,,1107.447,1116.969,"--That is the exact holding of Thermtron, that they were not going to construe that so woodenly to allow a district court to abdicate its mandatory jurisdiction."
+2008.07-1437,0,15086,john_g_roberts_jr,scotus_justice,1116.969,1119.588,"Well, ""woodenly"" is a bit much."
+2008.07-1437,0,25994,glenn_w_rhodes,,1131.812,1135.68,"Mr. Chief Justice, it could, but--"
+2008.07-1437,0,15086,john_g_roberts_jr,scotus_justice,1135.68,1149.524,"I think it would solve the problem Justice Ginsburg pointed out earlier, that this way you don't get to appeal big things like no subject matter jurisdiction, but you do get to appeal picayune things."
+2008.07-1437,0,25994,glenn_w_rhodes,,1149.524,1154.928,"--Again, I'm not sure how we would divide those up between big things and picayune things."
+2008.07-1437,0,15084,ruth_bader_ginsburg,scotus_justice,1222.136,1229.992,"Well, the only -- one clear way to do it would be to overrule Thermtron, but neither party has asked for that."
+2008.07-1437,0,25994,glenn_w_rhodes,,1233.278,1235.48,"That's correct, Justice Ginsburg."
+2008.07-1437,0,15060,john_paul_stevens,scotus_justice,1235.48,1237.113,You just have to distinguish Thermtron.
+2008.07-1437,0,25994,glenn_w_rhodes,,1249.221,1249.99,And yet--
+2008.07-1437,0,15060,john_paul_stevens,scotus_justice,1249.99,1252.29,And this is not -- that's not involved here.
+2008.07-1437,0,15084,ruth_bader_ginsburg,scotus_justice,1252.29,1263.23,"But your concern is what was the Court's reasoning, and you could apply the Court's reasoning, its interpretation of 1447."
+2008.07-1437,0,15049,antonin_scalia,scotus_justice,1263.23,1266.849,"You have to get rid of Quackenbush, too, don't you?"
+2008.07-1437,0,25994,glenn_w_rhodes,,1266.849,1268.801,"--Yes, Quackenbush is a--"
+2008.07-1437,0,15049,antonin_scalia,scotus_justice,1268.801,1269.967,"Throw that overboard, too?"
+2008.07-1437,0,25994,glenn_w_rhodes,,1269.967,1295.268,"--We would have to overthrow that as well, and the reason for that is because Quackenbush was a remand based upon abstention -- abstention-based remand under Burford, and in that case, this Court found that abstention-based remands did not fall within either prong of 1447(c)."
+2008.07-1437,0,15086,john_g_roberts_jr,scotus_justice,1302.022,1306.409,You thought the Respondents asked us to overrule Thermtron.
+2008.07-1437,0,25994,glenn_w_rhodes,,1312.563,1328.99,"Yes, we did say that, and I'm not sure that they -- they expressly said you should overrule Thermtron, but the strong suggestion in their brief was perhaps you should."
+2008.07-1437,0,15068,samuel_a_alito_jr,scotus_justice,1328.99,1342.582,"Well, isn't it -- isn't it also the case that Congress has amended the relevant provisions of 1447 since Thermtron and they have not seen fit to overrule or change those provisions?"
+2008.07-1437,0,25994,glenn_w_rhodes,,1342.582,1360.561,"Given the fact that Congress has twice amended 1447(c) after Thermtron, it seems that they have actually ratified this Court's statutory construction under Thermtron, and have agreed to it--"
+2008.07-1437,0,15086,john_g_roberts_jr,scotus_justice,1360.561,1362.079,So this gets a lot of attention across the street?
+2008.07-1437,0,25994,glenn_w_rhodes,,1375.803,1384.742,"--No, Mr. Chief Justice, if they wanted to get rid of Thermtron they could have done it in a very direct way."
+2008.07-1437,0,15049,antonin_scalia,scotus_justice,1384.742,1387.611,"Well, that's right, but what if we want to get rid of it?"
+2008.07-1437,0,25994,glenn_w_rhodes,,1389.23,1399.836,"I can't suggest what the Court might finally decide other than to say that -- that, again, the circuit courts of appeal have uniformly applied this."
+2008.07-1437,0,15086,john_g_roberts_jr,scotus_justice,1400.871,1403.09,"Well, they don't have a choice, right?"
+2008.07-1437,0,25994,glenn_w_rhodes,,1411.277,1434.975,"--Actually, Mr. Chief Justice, that was going to be my next point, about the Federal Circuit, but -- it does, again, provide a workable framework for dealing with these issues, and it seems to be a very large departure to go back and wipe out the last 30 years of case law that has been developed to handle these issues."
+2008.07-1437,0,15060,john_paul_stevens,scotus_justice,1444.414,1460.857,"Let me just make one comment on the large departure: Would it be a large departure if we just said, in the very narrow category of cases where there has been a remand on the basis of -- the district judge doesn't want to exercise supplementary jurisdiction over State law claims, that's not appealable, period?"
+2008.07-1437,0,25994,glenn_w_rhodes,,1465.077,1494.477,"Well, Mr. Chief Justice -- sorry -- Justice Stevens, that would be an exception under Thermtron that doesn't seem to be called for because the way it's been interpreted, it has to be -- and the way even the amendments in '88 and again in '96 -- it's only barred if it's for a lack of subject matter jurisdiction, and plainly here a discretionary remand is not for that basis."
+2008.07-1437,0,15060,john_paul_stevens,scotus_justice,1494.477,1502.25,"They're not amendments of subsection (d), and subsection (d) is what has the language that really reads right on this case."
+2008.07-1437,0,25994,glenn_w_rhodes,,1502.25,1533.387,"Well, I think the other -- the other problem with that is the whole doctrine of -- of supplemental jurisdiction that was first laid out in Carnegie-Mellon and United Mine Workers, where the difference between remands under 1367(c) seem not to overlap with the remands under 1447(d) and 1441."
+2008.07-1437,0,15086,john_g_roberts_jr,scotus_justice,1547.195,1549.481,"Thank you, counsel."
+2008.07-1437,1,42342,theodore_s_allison,,1554.801,1586.57,"Mr. Chief Justice, and may it please the Court: Let me begin with Petitioner's counsel's last remark, and that is that we don't know what the consequences would be, except that we do know that by applying the review bar to supplemental jurisdiction remands, it would bring us closer to achieving the purpose that has been expressed in the statutes of Congress since 1887."
+2008.07-1437,1,15084,ruth_bader_ginsburg,scotus_justice,1624.795,1629.349,"But that was a dissenting opinion, and that was how many years ago?"
+2008.07-1437,1,42342,theodore_s_allison,,1630.999,1646.675,"Justice Ginsburg, it -- it was a dissenting opinion, and it was in 1976, and we certainly would not cite it as authoritative except for our confidence in Justice Rehnquist's review of the law as it existed at that time."
+2008.07-1437,1,15084,ruth_bader_ginsburg,scotus_justice,1646.675,1671.057,"But you have a majority rationale that says, although 1447(d) reads in absolute terms, in fact the only remands that it -- that it covers are those based on a defect in the removal or lack of subject matter jurisdiction."
+2008.07-1437,1,42342,theodore_s_allison,,1713.967,1716.002,"That is -- that is correct, Justice Ginsburg."
+2008.07-1437,1,15042,david_h_souter,scotus_justice,1797.287,1798.739,Okay.
+2008.07-1437,1,42342,theodore_s_allison,,1825.223,1831.21,"It's -- it's an essential question, Justice Souter."
+2008.07-1437,1,15042,david_h_souter,scotus_justice,1899.02,1903.121,We did -- we did not disavow the relationship between (c) and (d).
+2008.07-1437,1,42342,theodore_s_allison,,1903.121,1905.839,"Indeed, the Court did not."
+2008.07-1437,1,15084,ruth_bader_ginsburg,scotus_justice,1936.259,1940.329,What in addition to the civil rights provision?
+2008.07-1437,1,42342,theodore_s_allison,,1940.329,1959.391,"Well, indeed in Things Remembered, the Court was considering whether a 1447 -- whether 1447's review bar applied to a remand under 1452."
+2008.07-1437,1,15084,ruth_bader_ginsburg,scotus_justice,1994.797,2000.801,Then that's a specific statute that would prevail over the general provision.
+2008.07-1437,1,42342,theodore_s_allison,,2000.801,2014.295,"--It's a little bit -- Justice Ginsburg, a little bit different than the Court's decision in Osborn, in which the much more specific Westfall Act Provision was held to prevail over 1447."
+2008.07-1437,1,15084,ruth_bader_ginsburg,scotus_justice,2069.714,2084.557,"But Things Remembered, I think, was raised very carefully, just to say that the question that's before the Court now has not been decided before, the precise question here--"
+2008.07-1437,1,42342,theodore_s_allison,,2084.557,2085.307,Yes.
+2008.07-1437,1,15084,ruth_bader_ginsburg,scotus_justice,2085.307,2089.526,--of discretionary remand?
+2008.07-1437,1,42342,theodore_s_allison,,2089.526,2090.128,That is--
+2008.07-1437,1,15084,ruth_bader_ginsburg,scotus_justice,2090.128,2096.199,"So I think -- I looked again at Things Remembered, and it turned out to be just as I remembered it ----"
+2008.07-1437,1,42342,theodore_s_allison,,2117.612,2125.432,"--That is true, and that is what the Federal Circuit said -- meant when it said that Powerex made the question precedential."
+2008.07-1437,1,15060,john_paul_stevens,scotus_justice,2198.758,2204.579,"Yes, but your opponent's argument is that the -- the claims that remain do include a Federal claim."
+2008.07-1437,1,42342,theodore_s_allison,,2204.579,2206.345,"--That's true, Justice Stevens."
+2008.07-1437,1,15060,john_paul_stevens,scotus_justice,2239.547,2241.899,What about the ruling on the RICO claim itself?
+2008.07-1437,1,42342,theodore_s_allison,,2244.601,2245.134,Yes.
+2008.07-1437,1,15084,ruth_bader_ginsburg,scotus_justice,2272.102,2275.971,Where did the -- maybe the district judge didn't say that.
+2008.07-1437,1,42342,theodore_s_allison,,2297.069,2297.819,--Yes.
+2008.07-1437,1,15084,ruth_bader_ginsburg,scotus_justice,2297.819,2303.473,"--and you have power, but it's up to you to exercise it or not."
+2008.07-1437,1,42342,theodore_s_allison,,2303.473,2324.903,"Justice Ginsburg, that's why we didn't -- we didn't press that point because I think -- I think that even we can see that the court exercised its jurisdiction to decide and dismiss the RICO claim, although it's reminiscent of -- of -- of the decision in Kircher--"
+2008.07-1437,1,15084,ruth_bader_ginsburg,scotus_justice,2324.903,2328.105,It -- it wasn't a discretionary decision about RICO.
+2008.07-1437,1,42342,theodore_s_allison,,2333.407,2334.092,--Right.
+2008.07-1437,1,15084,ruth_bader_ginsburg,scotus_justice,2334.092,2358.707,"What the district court has jurisdiction over are the supplemental claims, which it can choose not to exercise, but it can say, ""I don't have jurisdiction"", because Congress has given supplemental jurisdiction but then left it to the court to remand on stated conditions."
+2008.07-1437,1,42342,theodore_s_allison,,2376.586,2393.131,"Well, Justice Ginsburg, I have made every effort not to conflate those two -- those two concepts, and in fact we did say that when -- when a court acquires supplemental jurisdiction in a case, that that is a species of subject matter jurisdiction."
+2008.07-1437,1,15086,john_g_roberts_jr,scotus_justice,2450.9,2457.204,"So your idea is there is jurisdiction, but when the Federal claims fall out, then there's no jurisdiction?"
+2008.07-1437,1,42342,theodore_s_allison,,2457.204,2458.406,"--Yes, Mr. Chief Justice."
+2008.07-1437,1,15086,john_g_roberts_jr,scotus_justice,2458.406,2475.702,"Okay, but that seems to me to echo the fundamental misperception that if you have Federal jurisdiction based on a particular event -- let's say, if you're dumping chemicals in the water, that gives you a Federal cause of action; you have Federal jurisdiction; there's a trial."
+2008.07-1437,1,42342,theodore_s_allison,,2489.509,2492.461,There was -- there was indeed jurisdiction.
+2008.07-1437,1,15084,ruth_bader_ginsburg,scotus_justice,2544.762,2569.727,"But then -- then what you are doing is that you are using the label ""subject matter jurisdiction"" in a way that seems to me, that is, there are many categories that could be ambiguous at the edges, but not subject matter jurisdiction."
+2008.07-1437,1,42342,theodore_s_allison,,2605.15,2609.371,It is -- it is a difficult -- a difficult conundrum.
+2008.07-1437,1,15084,ruth_bader_ginsburg,scotus_justice,2626.583,2629.118,"Yes, but not subject matter jurisdiction."
+2008.07-1437,1,42342,theodore_s_allison,,2649.615,2658.369,"--That -- that is correct, but that's the same -- that is the nature -- that's the nature of the problems that the Court confronted in Kircher and Powerex."
+2008.07-1437,1,15084,ruth_bader_ginsburg,scotus_justice,2696.929,2698.929,Why is it only technical?
+2008.07-1437,1,42342,theodore_s_allison,,2717.843,2739.923,"--In its -- certainly, in its, I think -- in its -- in its textbook sense, that is what subject matter -- when the world is divided between subject matter and personal and then the third, territorial, which I think is a relation -- has a relation to personal -- when the world is divided along those lines, then subject matter takes on the broadest possible meaning, but we have conflicting broad policies."
+2008.07-1437,1,15084,ruth_bader_ginsburg,scotus_justice,2815.589,2839.622,"You -- you put it in terms in your brief -- if I understood your position correctly -- yes, there is subject matter jurisdiction over supplemental claims, but once the district court chooses not to exercise that jurisdiction, it -- and these were the words you used -- ""it divests itself of jurisdiction""."
+2008.07-1437,1,42342,theodore_s_allison,,2839.622,2841.574,Yes.
+2008.07-1437,1,15068,samuel_a_alito_jr,scotus_justice,2865.439,2867.439,What if the court changes its mind?
+2008.07-1437,1,42342,theodore_s_allison,,2871.843,2889.971,"--Well, Justice Alito, the question of whether it changes its mind I think is intricately bound up in this question of reviewability because the cases that we found that -- that talked about reconsideration talked about reconsideration only because there was the potential for review of these orders."
+2008.07-1437,1,15084,ruth_bader_ginsburg,scotus_justice,2922.207,2923.026,The discretionary--
+2008.07-1437,1,15042,david_h_souter,scotus_justice,2923.026,2923.676,But your--
+2008.07-1437,1,15084,ruth_bader_ginsburg,scotus_justice,2923.676,2928.346,--The discretionary decision is that it chooses not to hear the case.
+2008.07-1437,1,42342,theodore_s_allison,,2946.141,2962.234,"--And I think -- I think that the -- again, the purpose of the review bar as it's been expressed for over a hundred years has been to trust district judges to make these decisions and then get the case where it needs to be to be resolved on its merits."
+2008.07-1437,1,15042,david_h_souter,scotus_justice,2976.993,2987.468,--You -- you think that choosing not to hear is distinguishable from a decision that it is inappropriate to hear?
+2008.07-1437,1,42342,theodore_s_allison,,2987.468,2992.336,I -- I meant only to suggest that it is not a -- it is not a choice.
+2008.07-1437,1,15084,ruth_bader_ginsburg,scotus_justice,3021.289,3037.984,"Well, that would argue for a highly deferential standard of review, respecting the district judge's determination that it's not what -- it hasn't invested any time in these questions, and it shouldn't because they are purely State-law questions."
+2008.07-1437,1,42342,theodore_s_allison,,3069.336,3082.43,"I believe -- well -- and -- and this is a mechanical argument, but I believe that when the court makes the decision and then -- and then executes the remand, that that is divesting itself of jurisdiction."
+2008.07-1437,1,15042,david_h_souter,scotus_justice,3085.382,3097.439,"But even -- even on your analysis it seems to me that the -- the cart is before the horse, because it is -- it is not remanding because it does not have jurisdiction."
+2008.07-1437,1,42342,theodore_s_allison,,3129.411,3136.497,"It is simply a question, I think, of -- of the choice of the word ""divest"" and what that means."
+2008.07-1437,1,15086,john_g_roberts_jr,scotus_justice,3283.391,3284.91,"Thank you, counsel,--"
+2008.07-1437,1,42342,theodore_s_allison,,3284.91,3285.56,--I will stop now.
+2008.07-1437,1,15086,john_g_roberts_jr,scotus_justice,3286.127,3286.91,--Thank you.
+2008.07-1437,2,25994,glenn_w_rhodes,,3290.647,3296.8,I just had a few quick points that I'd like to bring up.
+2008.07-1437,2,15086,john_g_roberts_jr,scotus_justice,3358.522,3372.515,"I suppose, though, if it would be an abuse of discretion for the district court to retain jurisdiction, then maybe there is -- there never was jurisdiction, right?"
+2008.07-1437,2,25994,glenn_w_rhodes,,3384.906,3406.438,"My response to that, Mr. Chief Justice, is that until a court decides that it was an abuse of discretion, the district court had jurisdiction under 1367(c) to either exercise that power or not exercise that power."
+2008.07-1437,2,15086,john_g_roberts_jr,scotus_justice,3416.044,3416.944,"Thank you, counsel."

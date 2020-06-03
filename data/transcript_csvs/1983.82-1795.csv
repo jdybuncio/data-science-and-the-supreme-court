@@ -1,0 +1,43 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1983.82-1795,0,15073,warren_e_burger,scotus_justice,0.0,7.004,We will hear arguments next in Capital Cities Cable against Richard A. Crisp.
+1983.82-1795,0,17990,brent_n_rushforth,,19.895,35.839,"Mr. Chief Justice, and may it please the Court, this case presents a challenge to Oklahoma's requirement that cable TV operators delete wine advertising from programming they bring into the state of Oklahoma."
+1983.82-1795,0,15140,william_j_brennan_jr,scotus_justice,79.516,80.952,What is the technical difficulty?
+1983.82-1795,0,17990,brent_n_rushforth,,80.952,95.295,"--The technical difficulty, Justice Brennan, is that the cable TV operators get no notice regarding the time or content of the advertising signals in their programming."
+1983.82-1795,0,15092,sandra_day_oconnor,scotus_justice,108.352,120.243,"Well, if network television producers can give advance notice, why can't the producers of the cable broadcast do the same?"
+1983.82-1795,0,17990,brent_n_rushforth,,120.243,127.516,"There is a very marked difference, your honor, between cable TV operators and broadcasters."
+1983.82-1795,0,15092,sandra_day_oconnor,scotus_justice,156.868,170.176,"Is there any technical reason, I guess I am asking, why the producers of the cable broadcast couldn't do the same for their... for the stations that use their broadcasts?"
+1983.82-1795,0,17990,brent_n_rushforth,,170.176,182.668,"--By not receiving notice, Your Honor, the cable TV operator would be required to station one employee at some monitor for each signal coming in to the cable TV operator."
+1983.82-1795,0,15092,sandra_day_oconnor,scotus_justice,185.036,192.458,"Is there any technical reason why the cablecasters couldn't furnish that information to you, to your client?"
+1983.82-1795,0,17990,brent_n_rushforth,,192.458,195.743,"--There is no technical reason why they could not furnish the information, Your Honor."
+1983.82-1795,0,15092,sandra_day_oconnor,scotus_justice,223.06,226.612,There is no encoding mechanism that could be employed?
+1983.82-1795,0,17990,brent_n_rushforth,,226.612,229.047,"Your Honor, the technology is simply not there."
+1983.82-1795,0,15092,sandra_day_oconnor,scotus_justice,249.793,258.28,Does the cable operator have to participate in the compulsory licensing system provided by the Copyright Act?
+1983.82-1795,0,17990,brent_n_rushforth,,259.649,280.646,"Well, if the cable TV operator wishes to carry programs from television stations, then as Congress found, the only feasible way for the cable TV operator to do that is to participate in the compulsory licensing scheme."
+1983.82-1795,0,15073,warren_e_burger,scotus_justice,339.034,341.22,"They could exclude it, could they not?"
+1983.82-1795,0,17990,brent_n_rushforth,,341.22,342.836,"They could exclude it, but they do not."
+1983.82-1795,0,15073,warren_e_burger,scotus_justice,342.836,344.755,Could they exclude all advertising?
+1983.82-1795,0,17990,brent_n_rushforth,,344.755,346.855,"Your Honor, we don't believe so."
+1983.82-1795,0,15073,warren_e_burger,scotus_justice,365.834,368.62,Could they exclude all cable operations?
+1983.82-1795,0,17990,brent_n_rushforth,,368.62,373.905,"Well, we believe... no, they could not, Your Honor."
+1983.82-1795,1,35623,michael_w_mc_connell,,1347.882,1366.544,"Mr. Chief Justice, and may it please the Court, the Federal Communcations Commission has regulated the cable television industry since the mid-1960's."
+1983.82-1795,1,15073,warren_e_burger,scotus_justice,1435.124,1436.79,What about cigarette advertising?
+1983.82-1795,1,35623,michael_w_mc_connell,,1441.794,1442.994,By Congress.
+1983.82-1795,1,15073,warren_e_burger,scotus_justice,1442.994,1449.682,"Well, by Congress, and the Commission oversees that, monitors that."
+1983.82-1795,1,35623,michael_w_mc_connell,,1449.682,1461.089,"Because those advertisements do not appear on any broadcast stations, cable operators have no problem deleting them, because they are not there in the first instance."
+1983.82-1795,1,15073,warren_e_burger,scotus_justice,1461.089,1461.605,Oh.
+1983.82-1795,1,35623,michael_w_mc_connell,,1491.294,1506.053,"Mr. Chief Justice, so long as the broadcasters and cablecasters then move to institute cigarette advertising, I believe that that would be preempted for precisely the same reasons that this ban is preempted."
+1983.82-1795,1,15092,sandra_day_oconnor,scotus_justice,1508.569,1514.723,"Mr. McConnell, what are the reasons for the non-deletion requirements of the FCC rules?"
+1983.82-1795,1,35623,michael_w_mc_connell,,1514.723,1516.223,--The reasons are two.
+1983.82-1795,1,15141,william_h_rehnquist,scotus_justice,1636.335,1644.608,"Well, Mr. McConnell, the FCC doesn't protect broadcasters in the Oklahoma situation, does it?"
+1983.82-1795,1,35623,michael_w_mc_connell,,1652.445,1653.961,"That is correct, Your Honor."
+1983.82-1795,1,15092,sandra_day_oconnor,scotus_justice,1700.942,1715.935,"Mr. McConnell, in making the preemption analysis, do you think that the Court has to do the Midcal type of balancing because of the Twenty-First Amendment?"
+1983.82-1795,1,35623,michael_w_mc_connell,,1715.935,1717.637,"No, Justice C'Connor."
+1983.82-1795,1,15071,byron_r_white,scotus_justice,1876.356,1899.788,"Do you think the federal law then preempts a TV station just outside the borders of Oklahoma from broadcasting liquor advertisements into Oklahoma, advertising the sale of liquor and urging Oklahomans to come across the border and buy liquor, or not?"
+1983.82-1795,1,35623,michael_w_mc_connell,,1899.788,1907.911,"--Is your question, does the Oklahoma law forbid, say, a Kansas station from broadcasting?"
+1983.82-1795,1,15071,byron_r_white,scotus_justice,1908.711,1910.179,"No, I thought I asked whether the federal law preempted--"
+1983.82-1795,1,35623,michael_w_mc_connell,,1910.179,1917.35,The federal law does not preempt any restrictions upon advertising by broadcasters.
+1983.82-1795,1,15071,byron_r_white,scotus_justice,1917.35,1931.192,--But you think it would preempt any Oklahoma rule forbidding cablecasters to carry such an advertisement?
+1983.82-1795,1,35623,michael_w_mc_connell,,1931.192,1937.513,"That's right, Your Honor, because they are not originating the programming."
+1983.82-1795,1,15073,warren_e_burger,scotus_justice,1943.734,1946.769,How does that go to the fundamental question that Justice White put to you?
+1983.82-1795,1,35623,michael_w_mc_connell,,1951.221,1967.765,The technical problem is merely one of two important considerations that the Commission and Congress considered in adopting a scheme which depends upon a non-deletion requirement.
+1983.82-1795,2,39066,robert_l_mc_donald,,2139.958,2164.391,"Mr. Chief Justice, may it please the Court, the issue before the Court today is whether the state of Oklahoma may prohibit the advertising of liquor in Oklahoma by the television medium coming into the homes of the citizens of the state of Oklahoma."

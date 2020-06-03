@@ -1,0 +1,66 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2003.02-1080,0,15141,william_h_rehnquist,scotus_justice,0.0,8.423,"We'll hear argument now in No. 02-1080, the General Dynamics Land Systems, Inc. v. Dennis Cline."
+2003.02-1080,1,35552,mark_w_biggerman,,1566.85,1576.099,"Mr. Chief Justice, and may it please the Court:"
+2003.02-1080,1,15084,ruth_bader_ginsburg,scotus_justice,1608.46,1614.654,"Mr. Biggerman, how do you deal with the relaxed physical tests for, say, 50 or over?"
+2003.02-1080,1,35552,mark_w_biggerman,,1642.163,1648.956,"Your Honor, those are encompassed in affirmative defenses."
+2003.02-1080,1,15084,ruth_bader_ginsburg,scotus_justice,1654.407,1657.584,"So is your answer yes, that would be discrimination?"
+2003.02-1080,1,35552,mark_w_biggerman,,1668.73,1673.355,That would be prohibited subject to an affirmative defense.
+2003.02-1080,1,15084,ruth_bader_ginsburg,scotus_justice,1673.355,1674.857,What would the affirmative defense be?
+2003.02-1080,1,35552,mark_w_biggerman,,1674.857,1681.461,"For example, a bona fide occupational qualification."
+2003.02-1080,1,15084,ruth_bader_ginsburg,scotus_justice,1681.461,1684.25,Why in the world would that be a BFOQ?
+2003.02-1080,1,15049,antonin_scalia,scotus_justice,1708.444,1722.023,"So what happens is that a piece of legislation that everybody thought was meant to aid older workers, especially those towards the end of their working careers, ends up harming them."
+2003.02-1080,1,35552,mark_w_biggerman,,1736.512,1748.195,"Your Honor, we...  we...  we submit that Congress set forth specific examples as to when there are exceptions that can be made."
+2003.02-1080,1,15084,ruth_bader_ginsburg,scotus_justice,1748.195,1749.97,But do you have...  the exceptions are in the statute.
+2003.02-1080,1,35552,mark_w_biggerman,,1773.997,1785.143,"Your Honor, what would give the employer an affirmative defense to have, as you said, a more...  to permit...  if you could repeat the example?"
+2003.02-1080,1,15084,ruth_bader_ginsburg,scotus_justice,1785.143,1800.004,"To make special accommodations to older workers, no physical fitness test, shorter hours, flex-time, and that's not available to people who are under 55, say."
+2003.02-1080,1,35552,mark_w_biggerman,,1800.004,1805.66,"Well, I...  I think that...  let me expand a little on my answer."
+2003.02-1080,1,15092,sandra_day_oconnor,scotus_justice,1822.295,1845.579,"But what about all the sections in ERISA and in the Internal Revenue Code that allow various provisions for benefit plans, for retirement, and for stock option exercise and so forth that are going to be at odds with your interpretation."
+2003.02-1080,1,35552,mark_w_biggerman,,1845.579,1847.27,Your Honor...
+2003.02-1080,1,15092,sandra_day_oconnor,scotus_justice,1847.27,1856.353,"I mean, there are a whole array of laws that will be directly affected if the Sixth Circuit view is affirmed."
+2003.02-1080,1,35552,mark_w_biggerman,,1862.381,1876.127,"I don't think that the ADEA conflicts with those provisions because a cause of action, unlike in this case, 12(b)(6), this case should not have been dismissed, it should have been allowed to go forward."
+2003.02-1080,1,15139,stephen_g_breyer,scotus_justice,1884.422,1894.081,"One thing...  I see that point...  that one thing that everybody, I think, is saying in one form or another, is one thing that isn't covered in 2 is hiring and firing people."
+2003.02-1080,1,35552,mark_w_biggerman,,1967.809,1983.95,"Your Honor, I would...  I would analogize that to this Court's decision in McDonald v. Santa Fe, when, prior to that in McDonnell Douglas, this Court said...  set forth the first prima facie requirement as requiring a minority under Title VII."
+2003.02-1080,1,15113,anthony_m_kennedy,scotus_justice,1992.579,2000.669,"Well, that...  that brings me back to the answer you gave to Justice Ginsburg's question and it was again reflected in Justice Breyer's."
+2003.02-1080,1,35552,mark_w_biggerman,,2030.39,2037.012,"Your Honor, I must...  I must humbly confess that I don't have a grasp of the entire statute in every situation in every regulation."
+2003.02-1080,1,15049,antonin_scalia,scotus_justice,2053.88,2070.226,"Now, I...  I have to tell you that...  that as currently advised, that seems to me so fanciful a version of what Congress intended that I would not interpret the statute that way."
+2003.02-1080,1,35552,mark_w_biggerman,,2095.406,2098.667,"Your Honor, I definitely think that deference is..."
+2003.02-1080,1,15049,antonin_scalia,scotus_justice,2098.667,2100.07,What are you relying on?
+2003.02-1080,1,35552,mark_w_biggerman,,2102.465,2106.469,1625.2 of the interpretive guideline.
+2003.02-1080,1,15049,antonin_scalia,scotus_justice,2107.872,2108.426,Yes.
+2003.02-1080,1,35552,mark_w_biggerman,,2108.426,2123.453,"Yes, which was also supported by the agency adjudication in the 1997 adjudication, which was confirmed by the entire commission, which is the only..."
+2003.02-1080,1,15049,antonin_scalia,scotus_justice,2123.453,2129.853,Do...  do you agree with the description of the other side that that was not promulgated by notice and comment rule-making?
+2003.02-1080,1,35552,mark_w_biggerman,,2129.853,2133.651,It was my understanding that the EEOC promulgated it by notice and comment.
+2003.02-1080,1,15139,stephen_g_breyer,scotus_justice,2133.651,2148.14,"Yes, but they said that they did it simply to go along with the Carter administration's request or requirement that even interpretive rules be promulgated by notice and comment rule-making even though the ADA does not require that."
+2003.02-1080,1,35552,mark_w_biggerman,,2151.855,2154.456,It's...  it's my understanding that that is accurate.
+2003.02-1080,1,15139,stephen_g_breyer,scotus_justice,2154.456,2154.539,All right.
+2003.02-1080,1,15139,stephen_g_breyer,scotus_justice,2154.539,2177.862,"If that is accurate, why would Congress have intended, and the relevant pages of Mead use the word Congress in one paragraph five times to try to figure out what Congress wanted in this respect, why would Congress have wanted the courts to defer to this kind of interpretive regulation, which if it's taken seriously would destroy Congress' own ends?"
+2003.02-1080,1,35552,mark_w_biggerman,,2180.357,2181.288,It is.
+2003.02-1080,1,15139,stephen_g_breyer,scotus_justice,2181.288,2185.087,I'm putting it...  I'm overstating these slightly because I want to elicit clear answers from you.
+2003.02-1080,1,35552,mark_w_biggerman,,2185.087,2193.526,I...  I...  it's not my belief that this goes against Congress' intentions.
+2003.02-1080,1,15060,john_paul_stevens,scotus_justice,2219.145,2222.61,"Mr. Biggerman, may I ask you two questions?"
+2003.02-1080,1,35552,mark_w_biggerman,,2225.749,2228.555,The ADEA?
+2003.02-1080,1,15060,john_paul_stevens,scotus_justice,2228.555,2229.381,Yes.
+2003.02-1080,2,37772,paul_d_clement,,2695.499,2704.52,"Mr. Chief Justice, and may it please the Court:"
+2003.02-1080,2,15060,john_paul_stevens,scotus_justice,2717.235,2724.582,"Mr. Clement, now, Justice Ginsburg gave some examples of employment practices that favor older persons, for which I don't think there's an affirmative defense."
+2003.02-1080,2,37772,paul_d_clement,,2725.947,2743.158,"There's no affirmative defense in the statute, Justice Stevens, and let me address those hypotheticals, because I think these seemingly benevolent instances of using age may be beguiling, but I think in reality even those benevolent uses of age implicate the interests and concerns of the Age Act."
+2003.02-1080,2,15084,ruth_bader_ginsburg,scotus_justice,2764.396,2771.083,Let's take the hours because you certainly couldn't use that claim that that...  that maybe you didn't need this test.
+2003.02-1080,2,37772,paul_d_clement,,2794.239,2805.839,"Justice Ginsburg, it seems to me that stereotypes that older workers are going to be more strained and can't work as hard and need time off are precisely the stereotypes the Act is designed to prohibit."
+2003.02-1080,2,15084,ruth_bader_ginsburg,scotus_justice,2806.954,2823.179,"Well then, how...  how in the world could the agency then adopt 1625.2(b) that allows increased benefits to older workers if the employer can show that those older people have more problems?"
+2003.02-1080,2,37772,paul_d_clement,,2823.179,2845.22,"Justice Ginsburg, 1625.2(b) is limited to benefits, and Charles Shaner, who's the general counsel of the EEOC at the time that the Older Worker Benefit Protection Act was passed, explained that the statutory affirmative defense that would be implicated here on remand, 623(f)(2)(B)(i), is a simplification of that regulatory defense."
+2003.02-1080,2,15060,john_paul_stevens,scotus_justice,2870.816,2872.841,"Now, Mr. Clement, just...  I want to be sure I have an answer to my question."
+2003.02-1080,2,37772,paul_d_clement,,2884.374,2885.927,I...  I think that's right.
+2003.02-1080,2,37772,paul_d_clement,,2898.354,2898.742,Why not?
+2003.02-1080,2,37772,paul_d_clement,,2898.742,2917.507,"Let me also say that the statute specifically gives the EEOC, in 29 U.S.C. 628, the regulatory authority to make exemptions, and I think if there are specific concerns with particular practices that seem benevolent and are benevolent, then the EEOC can make a regulatory exemption."
+2003.02-1080,2,15049,antonin_scalia,scotus_justice,2920.208,2920.934,Where...  where is that authority?
+2003.02-1080,2,37772,paul_d_clement,,2920.934,2923.534,29 U.S.C. 628.
+2003.02-1080,2,15113,anthony_m_kennedy,scotus_justice,2936.992,2950.738,"Well...  well if...  if your submission is that stereotypes are...  are deplored and prohibited by the Act, how could the EEOC make an exemption to the contrary?"
+2003.02-1080,2,37772,paul_d_clement,,2950.738,2958.996,"Well, I think, as I said, if...  I think that...  that the Act is perfectly consistent with the idea that these stereotypes should play no role."
+2003.02-1080,2,15139,stephen_g_breyer,scotus_justice,2981.946,2990.491,"So then in any instance in which the employer quite honestly is moved by some human feeling that is related to an older person, that the Act would rule out?"
+2003.02-1080,2,37772,paul_d_clement,,2990.491,2992.903,"I...  I think that's right, Justice Breyer, but what's..."
+2003.02-1080,2,15139,stephen_g_breyer,scotus_justice,2992.903,2993.341,All right.
+2003.02-1080,2,37772,paul_d_clement,,3005.434,3007.459,"Two responses, Justice Breyer."
+2003.02-1080,2,15139,stephen_g_breyer,scotus_justice,3007.952,3008.656,Helps other people.
+2003.02-1080,2,37772,paul_d_clement,,3008.656,3025.292,"First, I think that the natural human instinct to favor an older worker would be to cut a break to a worker who's been with the company many years, and if that's what an employer wants to do, it's perfectly free under the Age Act to say, if you've been with us 30 years or 20 years, we're going to cut you a break."
+2003.02-1080,2,15139,stephen_g_breyer,scotus_justice,3035.695,3037.803,"I thought that was ambiguous, somewhat ambiguous."
+2003.02-1080,2,37772,paul_d_clement,,3037.803,3040.691,"Well, the colloquy is not at all ambiguous."
+2003.02-1080,2,15049,antonin_scalia,scotus_justice,3040.691,3041.639,Who...  who heard that colloquy?

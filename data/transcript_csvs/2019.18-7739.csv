@@ -1,0 +1,132 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2019.18-7739,0,15086,john_g_roberts_jr,scotus_justice,0.21,8.435,"We'll hear argument next in Case 18-7739, Holguin-Hernandez versus United States. Ms. Turner."
+2019.18-7739,0,63201,kendall_turner,,8.435,16.57,"Thank you, Mr. Chief Justice, and may it please the Court: Rule 51 tells parties to criminal proceedings how to preserve claims of error for appeal."
+2019.18-7739,0,15068,samuel_a_alito_jr,scotus_justice,134.67,135.51,"Well, I'll ask --"
+2019.18-7739,0,15084,ruth_bader_ginsburg,scotus_justice,135.51,136.18,The defense said --
+2019.18-7739,0,15068,samuel_a_alito_jr,scotus_justice,136.18,136.935,-- I'll ask --
+2019.18-7739,0,15084,ruth_bader_ginsburg,scotus_justice,136.935,146.9,Counsel -- counsel argued for the preferred -- the defendant's preferred sentence.
+2019.18-7739,0,63201,kendall_turner,,153.47,157.04,"That's correct, Justice Ginsburg."
+2019.18-7739,0,15086,john_g_roberts_jr,scotus_justice,231.28,277.51,"But, I mean, let's say the -- the defendant says I think my sentence should be, you know, two years, and the district court says in its decision: Well, I think I'm going to sentence you to two years and six months because I think you've, you know, misunderstood this particular provision about, you know, history or deterrence or -- or whichever. And is the district court supposed to appreciate, and the court of appeals, if the defendant does nothing else, that he thinks it's substantively unreasonable for the district court to have added those six months, for a reason that the -- may not even have been addressed by the defendant in his submission?"
+2019.18-7739,0,63201,kendall_turner,,277.51,279.51,"So two points, Your Honor."
+2019.18-7739,0,15086,john_g_roberts_jr,scotus_justice,293.085,301.45,"Well, but -- but I don't know how the district court knows that if you don't require an objection after the district court has explained why he's adding the six months."
+2019.18-7739,0,63201,kendall_turner,,314.835,363.265,"So, again, we think the better view of Section 3553(a) is that it really instructs the district court to identify a particular sentence, and so, by identifying a particular sentence, the defendant necessarily communicates that other sentences -- that he doesn't agree with other sentences. And while it's true that a defendant might not have identified every factor in Section 3553(a) in requesting a particular sentence -- you know, there are only five, I think -- and district courts and defense attorneys are familiar with those factors and there's no need to specifically run through them. Similarly, in other contexts, other areas of the law, there's no need to -- for -- to -- example, when someone -- when a district court makes a evidentiary ruling that a party disagrees with, the party doesn't have to say this is an abuse of discretion, even if the district court identifies reasons --"
+2019.18-7739,0,15086,john_g_roberts_jr,scotus_justice,363.265,366.27,"Yeah, but, I mean, it could end up to particularly odd results."
+2019.18-7739,0,63201,kendall_turner,,381.53,386.25,"In this -- in this hypothetical, the party is raising different arguments on appeal, is that --"
+2019.18-7739,0,15086,john_g_roberts_jr,scotus_justice,386.25,391.27,"Well, the whole point, I -- I guess, of a post-decision objection --"
+2019.18-7739,0,63201,kendall_turner,,391.27,391.59,Yes.
+2019.18-7739,0,15086,john_g_roberts_jr,scotus_justice,391.59,397.11,-- is that it puts people on notice as to what the defendant is objecting to.
+2019.18-7739,0,63201,kendall_turner,,422.29,425.06,"But, again, that is just the appellate standard of review."
+2019.18-7739,0,15068,samuel_a_alito_jr,scotus_justice,437.44,453.265,"Do you think that under the so-called parsimony principle, there is one precise sentence in every case that serves all the interests of sentencing but doesn't do so to an excessive extent?"
+2019.18-7739,0,63201,kendall_turner,,453.265,459.11,"That is the district court's task, is to find the sentence the district court determines is sufficient but not --"
+2019.18-7739,0,15068,samuel_a_alito_jr,scotus_justice,459.11,470.575,"And there's just one. So it's -- let's say it's 11 months, that is the -- that is the sentence called for by the Sentencing Reform Act, not 10, not 12."
+2019.18-7739,0,63201,kendall_turner,,471.365,475.12,So it's not that there is some Platonically correct sentence.
+2019.18-7739,0,15068,samuel_a_alito_jr,scotus_justice,491.24,517.16,"Well, if that -- if it is not the case that there -- the parsimony principle identifies one particular, precise sentence that is the correct sentence, then saying -- then for defense counsel to say 11 -- I -- I -- I urge you to sentence my client to no more than 11 months, that's different from saying that a -- a sentence of 12 months would be outside the range of reasonableness --"
+2019.18-7739,0,63201,kendall_turner,,517.16,518.71,"Again, Your Honor, it --"
+2019.18-7739,0,15068,samuel_a_alito_jr,scotus_justice,518.71,520.86,-- which is what would have to be shown on appeal.
+2019.18-7739,0,63201,kendall_turner,,520.86,536.9,"-- it -- you know, it is sort of a different argument on appeal, but it is no different than, again, if you were on appeal and you had to argue that the district court's ruling was an abuse of discretion, you -- you don't have to make that abuse of discretion argument in district court, even though that is how you would have to frame your argument on appeal."
+2019.18-7739,0,15068,samuel_a_alito_jr,scotus_justice,541.685,542.04,What if --
+2019.18-7739,0,15131,sonia_sotomayor,scotus_justice,542.04,543.07,Ms. Kendall -- I'm sorry.
+2019.18-7739,0,15068,samuel_a_alito_jr,scotus_justice,543.07,559.53,"What if defense -- just along the same lines very quickly. What if defense counsel says, look, I understand that the -- the guidelines range is 10 to 12 months and I -- and I know that that's presumptively reasonable and I'm not going to argue with that, but I urge you to sentence my client to no more than 10."
+2019.18-7739,0,63201,kendall_turner,,568.645,574.67,If the defense counsel has said -- has said that 10 to 12 would be acceptable or if he's only asked for 10?
+2019.18-7739,0,15068,samuel_a_alito_jr,scotus_justice,574.67,581.345,"He says, I understand that's the range and that's a reasonable range, but I think the appropriate sentence here is 10."
+2019.18-7739,0,63201,kendall_turner,,581.345,614.51,"So, if -- if the defense counsel simply identified the guidelines range and then asked for a particular sentence, then, yes, I think that defense counsel could argue on appeal that 11 months was substantively unreasonable. However, if a district court -- or if a defense counsel said something like, anything in the 10 to 12 months range is fine with us and we think that's -- you can do that, in that case, arguably, he has not preserved an objection to an 11-month sentence, but it -- you know, it would depend on the context of what exactly defense counsel had said. And there's no reason to craft unique rules in this context."
+2019.18-7739,0,15131,sonia_sotomayor,scotus_justice,614.51,693.415,"Ms. Kendall, the amici seems in my mind to be arguing not differently than you are, that you don't need to make necessarily an objection after the fact in all circumstances. He seems to be arguing that the circumstances, though, in which you don't have to renew afterward are those where you lay forth the reasons for why you want something, and so that you merely saying, I think 10 months is enough is not enough, that that doesn't put the district court on notice of the reasons you think 10 months are enough. And so that he's basically, I think, he'll speak for himself, obviously, but assuming his argument in my question, that you need to put the district court on some sort of notice what the basis is for you believing that 10 or 12 or 11 months is the right number, and that if you don't do that, then you do need to -- you haven't preserved your objection adequately. How do you address that argument?"
+2019.18-7739,0,63201,kendall_turner,,693.415,707.82,"So, as a -- just as a first point and a practical matter, it is vanishingly rare that a defense attorney will have not filed objections to the PSR and will simply stand up and say, Section 3553(a) requires a shorter sentence and sit down."
+2019.18-7739,0,15131,sonia_sotomayor,scotus_justice,707.82,708.91,I -- I agree with you.
+2019.18-7739,0,63201,kendall_turner,,721.135,721.68,So --
+2019.18-7739,0,15131,sonia_sotomayor,scotus_justice,721.68,731.67,-- to make a judgment as to whether or not the objection was adequately preserved when it wasn't restated at the end? I'm sorry.
+2019.18-7739,0,63201,kendall_turner,,731.67,741.43,Thank you. The Court's simply applying the same fair notice standard that it applies in every other context to determine whether a factual -- an argument is preserved.
+2019.18-7739,0,15086,john_g_roberts_jr,scotus_justice,769.16,778.425,"Thank you, counsel. Ms. Ratner."
+2019.18-7739,1,63108,morgan_l_ratner,,778.425,788.76,"Mr. Chief Justice, and may it please the Court: I want to be very clear about what is and is not preserved when a defendant argues for a lower sentence than he receives."
+2019.18-7739,1,17766,brett_m_kavanaugh,scotus_justice,843.06,852.62,"On your -- on your first two points, in my experience, a substantive unreasonableness claim is almost always coupled with a procedural failure to explain claim."
+2019.18-7739,1,63108,morgan_l_ratner,,862.38999995,864.245,So let me make this very clear.
+2019.18-7739,1,15068,samuel_a_alito_jr,scotus_justice,947.73,973.93,"On your -- on your third point about providing the ground for the -- the -- the claim on -- on appeal, by that, do you mean just a citation to the -- a general category of -- of sentencing consideration, or do you mean a specific argument or pointing out specific facts? What do you mean?"
+2019.18-7739,1,63108,morgan_l_ratner,,973.93,1012.18,"We mean that the circumstances that the defendant feels are important under Section 3553(a) in order to entitle him to the lower sentence he's asking for. And so, to -- to give a simple hypothetical, a defendant who is in the district court and says: I deserve a below-guidelines sentence because of my family background and mitigating circumstances in my family history, has not preserved a claim for appeal that he deserves a below-guidelines sentence because of his reduced role in the offense. That hasn't fairly put the district court on notice of the substance of his claim, and so that can't be thought of as having sufficiently preserved the --"
+2019.18-7739,1,17766,brett_m_kavanaugh,scotus_justice,1012.18,1012.35,But how --
+2019.18-7739,1,15094,elena_kagan,scotus_justice,1012.35,1021.57,"I take it that you're not suggesting that one of those grounds has to be specifically linked to a statutory factor, is that correct?"
+2019.18-7739,1,63108,morgan_l_ratner,,1021.57,1026.41,"We aren't -- again, the overarching question is going to be an issue of fair notice."
+2019.18-7739,1,15131,sonia_sotomayor,scotus_justice,1055.265,1056.1,How do we write --
+2019.18-7739,1,17766,brett_m_kavanaugh,scotus_justice,1056.1,1056.445,In your --
+2019.18-7739,1,15131,sonia_sotomayor,scotus_justice,1056.445,1056.985,I'm sorry.
+2019.18-7739,1,17766,brett_m_kavanaugh,scotus_justice,1056.985,1057.925,Go ahead.
+2019.18-7739,1,15131,sonia_sotomayor,scotus_justice,1057.925,1091.01,"How do we write this opinion? Do we need to get into all of this? Are you asking us to give a sort of bible, this preserves enough, that doesn't preserve enough? Is it adequate for us just to say it's too absolute a rule to require a specific objection under all circumstances so long as a defendant has given us a fair -- given the district court notice of its grounds for a particular different sentence than given, that that's enough?"
+2019.18-7739,1,63108,morgan_l_ratner,,1091.01,1101.6,"So, Justice Sotomayor, I think that you could write an opinion that says the Fifth Circuit's rule is wrong; it's too absolute a rule in requiring a post hoc objection."
+2019.18-7739,1,15131,sonia_sotomayor,scotus_justice,1107.26,1109.35,"For you, obviously, but --"
+2019.18-7739,1,63108,morgan_l_ratner,,1109.35,1116.695,"Well, I -- Justice Sotomayor, the reason that I'm saying that is that I think the courts of appeals have largely got these questions correct."
+2019.18-7739,1,17766,brett_m_kavanaugh,scotus_justice,1157.9,1167.89,"Back to your hypothetical with Justice Alito, I'm not sure how appellate courts are supposed to do this because it's not that it's not preserved; it's that it's reviewed under plain error."
+2019.18-7739,1,63108,morgan_l_ratner,,1200.905,1209.14,"Well, I think, in practice, it hasn't been that complicated, Justice Kavanaugh, and courts -- again, this is the rule that we think is in play in --"
+2019.18-7739,1,17766,brett_m_kavanaugh,scotus_justice,1209.14,1209.98,"Well, I think that supports --"
+2019.18-7739,1,63108,morgan_l_ratner,,1209.98,1210.865,-- most of the courts of appeals.
+2019.18-7739,1,17766,brett_m_kavanaugh,scotus_justice,1211.245,1211.92,Keep going.
+2019.18-7739,1,63108,morgan_l_ratner,,1211.92,1215.58,The way that that shakes out is usually one of two ways.
+2019.18-7739,1,17766,brett_m_kavanaugh,scotus_justice,1252.58,1259.615,Would -- can you imagine a sentence that's substantively unreasonable but not plain error?
+2019.18-7739,1,63108,morgan_l_ratner,,1259.615,1265.07,"Yes, we do think that there is a small sliver of daylight between these standards."
+2019.18-7739,1,17766,brett_m_kavanaugh,scotus_justice,1265.17,1266.25,It's extremely small?
+2019.18-7739,1,63108,morgan_l_ratner,,1266.25,1267.87,It is very small.
+2019.18-7739,1,15086,john_g_roberts_jr,scotus_justice,1340.19,1346.16,"Thank you, counsel. Mr. Allen."
+2019.18-7739,2,63202,k_winn_allen,,1346.16,1356.255,"Thank you, Mr. Chief Justice, and may it please the Court: The question in this case is what a party must do in the district court to preserve a substantive reasonableness argument for appeal."
+2019.18-7739,2,17766,brett_m_kavanaugh,scotus_justice,1495.56,1513.98,"I think one of the strongest things Ms. Turner said, in addition to her legal arguments, was that, in practice, this never produces a different result because the judge, presumably, has already -- and in reality, has already thought about what is the reasonable sentence."
+2019.18-7739,2,63202,k_winn_allen,,1521.815,1523.91,"A couple responses to that, Justice Kavanaugh."
+2019.18-7739,2,17766,brett_m_kavanaugh,scotus_justice,1613.98,1626.665,"In the case -- in the hypo you raised, the counsel almost always raise a procedural failure to explain. Objection -- in your hypo -- Judge, you haven't explained that sufficiently."
+2019.18-7739,2,63202,k_winn_allen,,1627.46,1628.125,Correct.
+2019.18-7739,2,17766,brett_m_kavanaugh,scotus_justice,1654.79,1657.065,"Well, they mostly get funneled into procedural."
+2019.18-7739,2,63202,k_winn_allen,,1657.065,1723.475,"A lot of times they do. And, you know, as -- as this Court said very clearly in Gall, you know, failure to adequately explain a chosen sentence is a procedural problem that I think everybody standing up here arguing today agrees that if you think a district court has not adequately explained its chosen sentence, a party should object to that in the district court and give the district court judge an opportunity to correct it. Well, if that's not true -- if that's true, I guess it's hard for me to see why a party shouldn't also object if they disagree with some of the reasoning the district court gave and that reasoning hadn't been discussed previously in sentencing. In that circumstance, it would seem to serve the purposes of Rule 51 to have a rule that asks the parties to apprise the court of -- of the -- that the court has used reasoning or rationales that the parties disagree with, that it believes are incorrect, that it believes are impermissible and have the court -- have the parties engage with the court on that to give the district court an opportunity to address that in the first instance, such that the court of appeals aren't having to address it for the first time on appeal. I do think, in thinking about this, the jury instruction analogy is somewhat helpful, and I would concede that the jury instructions are governed by a specific rule, the Federal Rules of Criminal Procedure, Rule 30."
+2019.18-7739,2,15086,john_g_roberts_jr,scotus_justice,1754.28,1762.785,"Is that -- is that the standard, so excessive and so extreme? I mean, the argument really is simply that it doesn't comply with the factors in 3553, right?"
+2019.18-7739,2,63202,k_winn_allen,,1762.785,1767.41,"That is the -- you know, that's the -- the argument on appeal -- the excessive or extreme is my shorthand."
+2019.18-7739,2,15094,elena_kagan,scotus_justice,1807.0,1818.36,"But, Mr. Allen, in saying what you just did, are you suggesting that substantive reasonableness is the standard that a district court should use in -- in assessing what the proper punishment is?"
+2019.18-7739,2,63202,k_winn_allen,,1818.36,1820.49,"I don't think so, Justice Kagan."
+2019.18-7739,2,15094,elena_kagan,scotus_justice,1871.05,1874.09,That doesn't seem to be what the question presented is.
+2019.18-7739,2,63202,k_winn_allen,,1911.645,1915.86,So I don't think that's actually what the Fifth Circuit's doing in practice.
+2019.18-7739,2,15094,elena_kagan,scotus_justice,1936.29,1946.1,"If the Fifth Circuit had the rule that I'm suggesting the Fifth Circuit has and that you're saying it doesn't have, the -- if the Fifth Circuit had that rule, would it be a violation of the rules?"
+2019.18-7739,2,63202,k_winn_allen,,1946.1,1952.73,I -- I -- I don't think that would be the best reading of Rule 51 and that's not the -- the approach we've put to the Court.
+2019.18-7739,2,15094,elena_kagan,scotus_justice,1955.71,1956.73,I hate to press that a little bit --
+2019.18-7739,2,63202,k_winn_allen,,1956.73,1957.095,"No, go ahead."
+2019.18-7739,2,15094,elena_kagan,scotus_justice,1957.095,1959.25,-- but not the best reading of Rule 51?
+2019.18-7739,2,63202,k_winn_allen,,1959.25,1959.87,It -- it -- it --
+2019.18-7739,2,15094,elena_kagan,scotus_justice,1959.87,1960.15,Is that --
+2019.18-7739,2,63202,k_winn_allen,,1960.15,1961.38,-- it would be an incorrect reading of Rule 51 --
+2019.18-7739,2,15094,elena_kagan,scotus_justice,1961.38,1962.09,Okay.
+2019.18-7739,2,63202,k_winn_allen,,1962.09,1963.485,-- to answer the question directly.
+2019.18-7739,2,15086,john_g_roberts_jr,scotus_justice,1991.5,1993.75,"Well, and maybe not even then."
+2019.18-7739,2,63202,k_winn_allen,,2022.17,2024.24,"So two responses to that, Mr. Chief Justice."
+2019.18-7739,2,15086,john_g_roberts_jr,scotus_justice,2041.84,2045.52,"Well, yeah, but I'm not trying -- I don't mean think of every argument you have."
+2019.18-7739,2,63202,k_winn_allen,,2058.985,2059.76,Perhaps.
+2019.18-7739,2,17766,brett_m_kavanaugh,scotus_justice,2111.77,2119.485,"Most of the grounds will have been identified in the sentencing memos after the PSR and at the sentencing hearing, presumably."
+2019.18-7739,2,63202,k_winn_allen,,2125.17,2126.875,I don't think you have to raise anything again.
+2019.18-7739,2,17766,brett_m_kavanaugh,scotus_justice,2148.02,2152.795,Do you think there's a lot of daylight between your position and what the government has been saying?
+2019.18-7739,2,63202,k_winn_allen,,2152.795,2156.63,The only daylight I see is in the first part of my rule.
+2019.18-7739,2,15094,elena_kagan,scotus_justice,2178.59,2178.82,So if --
+2019.18-7739,2,17766,brett_m_kavanaugh,scotus_justice,2178.82,2179.2,And you --
+2019.18-7739,2,15094,elena_kagan,scotus_justice,2179.2,2179.645,Please.
+2019.18-7739,2,17766,brett_m_kavanaugh,scotus_justice,2179.645,2180.215,Go ahead.
+2019.18-7739,2,15094,elena_kagan,scotus_justice,2180.215,2180.815,"No, go ahead."
+2019.18-7739,2,17766,brett_m_kavanaugh,scotus_justice,2180.815,2182.29,Go ahead.
+2019.18-7739,2,15094,elena_kagan,scotus_justice,2182.29,2199.34,"This outside the range, where -- where do you think that that comes from? Because it seems to me that that comes from the reasonableness, the substantive reasonableness standard, which is an appellate standard. 3553, which is the statute that's directed to the trial judge, doesn't talk about ranges."
+2019.18-7739,2,63202,k_winn_allen,,2222.12,2254.71,"Well, so the way I read this Court's decisions in Rita, Booker, and Gall, that they all emphasize the extraordinary amount of discretion that courts of -- that district courts have in sentencing. And I guess, Justice Kagan, I have trouble envisioning, kind of imagining what that discretion is if it's not discretion to pick amongst a number of sentence all -- sentences, all of which are sufficient but not greater than necessary to serve the sentencing purposes. I think those decisions seem to recognize that you could have the same defendant convicted of the same crime presented to three different district court judges, all of whom --"
+2019.18-7739,2,15094,elena_kagan,scotus_justice,2254.71,2254.95,Let me give --
+2019.18-7739,2,63202,k_winn_allen,,2254.95,2255.54,-- reach different sentences.
+2019.18-7739,2,15094,elena_kagan,scotus_justice,2255.54,2258.93,"-- you an example from a different context, and it's much like the one that Ms. Turner gave."
+2019.18-7739,2,63202,k_winn_allen,,2299.56,2301.02,So I -- I -- I want to be very clear.
+2019.18-7739,2,15094,elena_kagan,scotus_justice,2333.72,2348.975,"But there are many examples where that might occur, you know, you ask the trial court to do something, it says no. And then, in all these non-sentencing contexts, do you have to say, you know, Your Honor, not only is that not what I asked you to do, but it's also an abuse of discretion?"
+2019.18-7739,2,63202,k_winn_allen,,2348.975,2351.4,"The short answer is no, I don't think so in those other contexts."
+2019.18-7739,2,17766,brett_m_kavanaugh,scotus_justice,2398.08,2404.895,"Even -- under the Fifth Circuit's rule, even if you don't object, it's going to be reviewed for plain error on appeal."
+2019.18-7739,2,63202,k_winn_allen,,2421.2,2421.67,Yeah.
+2019.18-7739,2,17766,brett_m_kavanaugh,scotus_justice,2421.67,2430.73,"And that sounds -- and that's the common reaction that -- to a sentence that is found substantively unreasonable, and that sounds like plain error."
+2019.18-7739,2,63202,k_winn_allen,,2430.73,2432.16,I agree with Ms. Ratner on this.
+2019.18-7739,2,17766,brett_m_kavanaugh,scotus_justice,2443.37,2447.11,It's exceedingly rare for an appellate court to find a sentence substantively unreasonable.
+2019.18-7739,2,63202,k_winn_allen,,2447.11,2448.93,"It's exceedingly rare. Yes, Justice Kavanaugh."
+2019.18-7739,2,17766,brett_m_kavanaugh,scotus_justice,2462.34,2462.535,Yeah.
+2019.18-7739,2,63202,k_winn_allen,,2462.535,2464.29,-- but I don't think the Court should prejudge that.
+2019.18-7739,2,15086,john_g_roberts_jr,scotus_justice,2465.64,2475.05,"By substantively unreasonable, you mean nothing more than an erroneous application of the 3553 standards, right?"
+2019.18-7739,2,63202,k_winn_allen,,2475.05,2484.04,"Well, correct, Mr. Chief Justice, although it would have to be so erroneous that it falls outside the range of substantial discretion that we understand district courts to have at sentencing."
+2019.18-7739,2,17766,brett_m_kavanaugh,scotus_justice,2485.07,2486.06,And the way it's --
+2019.18-7739,2,63202,k_winn_allen,,2486.06,2486.49,It's very wrong.
+2019.18-7739,2,17766,brett_m_kavanaugh,scotus_justice,2486.49,2492.535,-- the way it's articulated in many of the appellate courts is very deferentially articulated.
+2019.18-7739,2,63202,k_winn_allen,,2492.535,2496.68,"That's correct, Justice Kavanaugh. There's one question you asked that -- that I did want to address."
+2019.18-7739,2,15086,john_g_roberts_jr,scotus_justice,2658.125,2660.9,"Thank you, counsel. Two minutes, Ms. Ratner."
+2019.18-7739,3,63201,kendall_turner,,2665.06,2672.6,"Thank you, Mr. Chief Justice. The amicus's test is trying to fix a problem that does not exist."
+2019.18-7739,3,15131,sonia_sotomayor,scotus_justice,2739.24,2744.525,Where do you disagree with the government? Where do you disagree with the government?
+2019.18-7739,3,63201,kendall_turner,,2744.525,2749.28,"The -- well, I think the government's position and our position is -- are very close."
+2019.18-7739,3,15131,sonia_sotomayor,scotus_justice,2750.2,2752.01,Where is the window where it's not?
+2019.18-7739,3,63201,kendall_turner,,2752.01,2757.56,"Where we might disagree is about when arguments are preserved, when a district court has fair notice."
+2019.18-7739,3,15086,john_g_roberts_jr,scotus_justice,2813.005,2821.53,"Thank you, counsel. Mr. Allen, this Court appointed you to brief and argue this case as an amicus curiae in support of the judgment below."

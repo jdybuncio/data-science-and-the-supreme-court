@@ -1,0 +1,136 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2010.09-658,0,15086,john_g_roberts_jr,scotus_justice,0.0,13.462,"We will hear argument next this morning in Case 09-658, Premo v. Moore."
+2010.09-658,0,31312,john_r_kroger,,14.117,17.993,"Mr. Chief Justice, and may it please the Court:"
+2010.09-658,0,15084,ruth_bader_ginsburg,scotus_justice,65.286,89.541,"But isn't -- isn't Fulminante relevant as -- just for the proposition that a defendant's own confession carries heavy weight, leaving the rest of it -- the statement that -- in Fulminante that when a defendant confesses to the crime, that carries heavy weight?"
+2010.09-658,0,31312,john_r_kroger,,89.541,97.223,"Yes, Your Honor, I think it's relevant to that extent, that a confession from a defendant is significant evidence."
+2010.09-658,0,15131,sonia_sotomayor,scotus_justice,128.742,144.018,"Is it -- if I am understanding your argument, it is that the Court erred in assuming that if the confession had been suppressed -- which you're not arguing for or against."
+2010.09-658,0,31312,john_r_kroger,,161.573,180.364,"Your Honor, we're -- we are suggesting that the court was wrong both in stating Fulminante provided the standard of review, as well as holding that you can, in effect, assume prejudice simply because defense counsel failed to file a motion which defense counsel believed was not--"
+2010.09-658,0,15131,sonia_sotomayor,scotus_justice,180.364,186.564,"So it's another way of saying what I said, which is, no defendant should plead guilty if it's a suppressible confession?"
+2010.09-658,0,31312,john_r_kroger,,186.564,186.767,"--That is correct, Your Honor."
+2010.09-658,0,15131,sonia_sotomayor,scotus_justice,188.171,188.67,All right.
+2010.09-658,0,31312,john_r_kroger,,201.838,208.71,"As -- as Your Honor noted, that is a much higher standard than we have to meet under Hill v. Lockhart."
+2010.09-658,0,15131,sonia_sotomayor,scotus_justice,249.909,252.452,--Were those higher than the minimum he pled to?
+2010.09-658,0,31312,john_r_kroger,,254.701,260.434,"--No, Your Honor, but they could have been run consecutive rather than concurrent."
+2010.09-658,0,15084,ruth_bader_ginsburg,scotus_justice,457.024,473.143,"What about Judge Berzon's test, that seems to be simple and a matter of common sense, that if you get rid of the confession, then you have a better chance of getting a good deal in the plea bargain?"
+2010.09-658,0,31312,john_r_kroger,,489.105,500.492,"Your Honor, I would say two things: First, the test which is proposed by Judge Berzon in the concurrence has never been recognized or promulgated by this Court."
+2010.09-658,0,15139,stephen_g_breyer,scotus_justice,572.084,572.661,"But you have to, don't you?"
+2010.09-658,0,31312,john_r_kroger,,595.852,597.63,Your Honor--
+2010.09-658,0,15139,stephen_g_breyer,scotus_justice,597.63,601.284,It can't be the State always wins and it can't be the defendant always wins.
+2010.09-658,0,31312,john_r_kroger,,603.561,628.252,"--I think the alternative, Your Honor, is application of Hill v. Lockhart, which looks not at speculation about how this could or could not have affected the plea bargaining process, but looks very concretely at the defendant's pretrial decision-making process and examines the record to determine why the defendant pled guilty and whether they can prove with a reasonable probability that he would not have pled guilty--"
+2010.09-658,0,15139,stephen_g_breyer,scotus_justice,628.252,631.314,"Oh, but that is -- isn't that -- sorry, maybe we are just quibbling."
+2010.09-658,0,31312,john_r_kroger,,639.264,649.993,"--I -- I think the difference, Your Honor, is that when you are applying Hill v. Lockhart, you almost always have at least three very concrete pieces evidence to show the defendant's state of mind."
+2010.09-658,0,15131,sonia_sotomayor,scotus_justice,703.939,729.243,"Without any confession -- forget about the brother or the girlfriend -- assume that there had been no confession, wouldn't it have been a fair conclusion to draw that without any confession whatsoever that the plea bargaining strength of the defendant in this case would have been appreciably higher and that the prosecutor would have had to offer something--"
+2010.09-658,0,31312,john_r_kroger,,729.243,732.335,"--Your Honor, if none of -- none of the three confessions--"
+2010.09-658,0,15131,sonia_sotomayor,scotus_justice,732.335,733.162,--None of the three--
+2010.09-658,0,31312,john_r_kroger,,745.731,753.306,"--Your Honor, I still think taking, recommending a guilty plea and taking of a guilty plea would be a rational response to the remaining evidence."
+2010.09-658,0,15084,ruth_bader_ginsburg,scotus_justice,832.601,852.702,"Mr. Kroger, from -- General Kroger -- from everything you said, and I take it -- from your brief, too, that you are not urging the -- that -- that counsel's assistance was adequate?"
+2010.09-658,0,31312,john_r_kroger,,863.855,864.869,"No, Your Honor."
+2010.09-658,0,15139,stephen_g_breyer,scotus_justice,1005.625,1010.593,"If -- if he had gone to trial, what's the sentence -- what's the range of sentence he could have gotten?"
+2010.09-658,0,31312,john_r_kroger,,1010.593,1039.535,"--Your Honor, if he had gone to trial on the charges that were pending, and these -- these were not charges from the grand jury, he would have faced at least the mandatory minimum of 25 years that he pled guilty to, plus the potential of additional -- an additional sentence both on that charge perhaps as high as life, given the two other potential mandatory minimum sentences of -- of kidnapping and assault that could be brought."
+2010.09-658,0,15139,stephen_g_breyer,scotus_justice,1039.535,1044.936,"And if they had gone back to the grand jury, as the prosecutor I guess could have done, it could have gone to the grand jury?"
+2010.09-658,0,31312,john_r_kroger,,1044.936,1048.013,"This case pled guilty before, Your Honor, yes."
+2010.09-658,0,15139,stephen_g_breyer,scotus_justice,1048.235,1049.109,It could have gone to the grand jury.
+2010.09-658,0,31312,john_r_kroger,,1051.077,1052.528,"--It could have been a capital case, Your Honor."
+2010.09-658,0,15084,ruth_bader_ginsburg,scotus_justice,1092.233,1121.172,"What about his argument that his failure -- the Defendant in the case arising out of this episode, if Salyer did go to trial and he ended up getting that exact same sentence that this Defendant did?"
+2010.09-658,0,31312,john_r_kroger,,1121.172,1121.815,"Yes, Your Honor."
+2010.09-658,0,15113,anthony_m_kennedy,scotus_justice,1197.531,1207.463,It's a little hard when we take away the finding that the confession was admissible.
+2010.09-658,0,31312,john_r_kroger,,1210.056,1212.79,"Your Honor, even if you--"
+2010.09-658,0,15113,anthony_m_kennedy,scotus_justice,1212.79,1223.456,"I'm not quite sure what to do with the State court's case, assuming we have to presume, because of the posture of the case, that the confession was inadmissible."
+2010.09-658,0,31312,john_r_kroger,,1223.456,1226.33,"--Your Honor, I would say two things with respect to that."
+2010.09-658,0,15086,john_g_roberts_jr,scotus_justice,1311.172,1312.048,"Thank you, counsel."
+2010.09-658,1,42217,steven_t_wax,,1317.936,1320.666,"Mr. Chief Justice, and may it please the Court:"
+2010.09-658,1,15131,sonia_sotomayor,scotus_justice,1351.48,1356.445,I am having a little bit of trouble here with your argument for the following reasons.
+2010.09-658,1,42217,steven_t_wax,,1407.548,1416.672,"Well, Your Honor, we believe that the case is not as the State would have it, a strong case in the absence of this confession."
+2010.09-658,1,15068,samuel_a_alito_jr,scotus_justice,1444.114,1461.915,"What does your office do in this situation, all right, a client is indicted in Federal court and you anticipate that there are all sorts of motions that you might make if this case is going to trial, but at an early point the prosecution offers you what looks like a really good plea bargain."
+2010.09-658,1,42217,steven_t_wax,,1485.909,1491.797,"Your Honor, the answer is certainly no, we do not litigate all of the motions."
+2010.09-658,1,15068,samuel_a_alito_jr,scotus_justice,1491.797,1515.459,"So if you take the deal, then you want it later to be open to the Defendant if he's not, you know, after the Defendant has spent some time in jail, he's not too happy with the deal any more, he can now come back and say, well, the Federal public defender's office was ineffective because they could have moved to suppress my confession and the illegal search, et cetera, et cetera, et cetera, that is all open for relitigation years later?"
+2010.09-658,1,42217,steven_t_wax,,1515.459,1516.458,"No, Your Honor."
+2010.09-658,1,15068,samuel_a_alito_jr,scotus_justice,1516.458,1516.879,No?
+2010.09-658,1,42217,steven_t_wax,,1516.879,1526.939,And the issue here is not as we have attempted to articulate in our brief solely and in the abstract the failure to file the motion.
+2010.09-658,1,15131,sonia_sotomayor,scotus_justice,1568.356,1569.183,What would have been the defense?
+2010.09-658,1,42217,steven_t_wax,,1569.183,1570.294,"Excuse me, Your Honor."
+2010.09-658,1,15131,sonia_sotomayor,scotus_justice,1570.294,1574.604,What would have been the defense absent the confession?
+2010.09-658,1,42217,steven_t_wax,,1581.945,1592.751,"Your Honor, he would have been able to defend this case first by articulating the Government's obligation to prove his guilt beyond a reasonable doubt."
+2010.09-658,1,15131,sonia_sotomayor,scotus_justice,1608.088,1616.726,What motive would his brother have had to put him at the scene of this shooting as the accidental killer?
+2010.09-658,1,42217,steven_t_wax,,1624.254,1626.427,--The brother is a police informant.
+2010.09-658,1,15131,sonia_sotomayor,scotus_justice,1629.223,1632.316,His brother had no pending charges against him at the time.
+2010.09-658,1,42217,steven_t_wax,,1632.316,1637.42,"That is true, Your Honor, but the police had used them as their agent."
+2010.09-658,1,15131,sonia_sotomayor,scotus_justice,1637.42,1650.76,"So what does that have to do with what interest does his brother have when he has no pending charges against him at the time, he's going to use this as a future chip in case he does something wrong?"
+2010.09-658,1,42217,steven_t_wax,,1650.76,1652.398,"Your Honor, the point is that he--"
+2010.09-658,1,15131,sonia_sotomayor,scotus_justice,1652.398,1654.898,To put his brother into jail for 25 years?
+2010.09-658,1,42217,steven_t_wax,,1656.899,1668.831,"--If he were to appear and testify, which is one of the points that I believe the Ninth Circuit properly pointed out, that Mr. Moore knowing his brother might have had every confidence--"
+2010.09-658,1,15139,stephen_g_breyer,scotus_justice,1668.831,1669.174,Might.
+2010.09-658,1,42217,steven_t_wax,,1706.192,1712.423,"--Your Honor, I will respond to the second part but I believe there is a premise in which you said, that we reject."
+2010.09-658,1,15139,stephen_g_breyer,scotus_justice,1717.325,1720.48,There is no -- there is no State court finding that this was not prejudicial?
+2010.09-658,1,42217,steven_t_wax,,1720.48,1724.605,--The court never reached the Hill question.
+2010.09-658,1,15139,stephen_g_breyer,scotus_justice,1724.605,1725.4,I'm not talking about Hill.
+2010.09-658,1,42217,steven_t_wax,,1740.27,1740.769,The State--
+2010.09-658,1,15139,stephen_g_breyer,scotus_justice,1740.769,1746.189,"Now I haven't read this very thoroughly, so -- so you -- yet -- so you tell me if I'm wrong about that."
+2010.09-658,1,42217,steven_t_wax,,1746.189,1754.81,"--At pages 205 and 206 in the appendix in the findings of fact and conclusions of law, there are 11 findings of fact."
+2010.09-658,1,15139,stephen_g_breyer,scotus_justice,1778.598,1780.829,Doesn't Strickland require that it be prejudicial?
+2010.09-658,1,42217,steven_t_wax,,1780.829,1782.111,"Yes, of course."
+2010.09-658,1,15139,stephen_g_breyer,scotus_justice,1789.465,1805.41,"If I assume that the word ""fruitless"" and the reference to Strickland were a finding, that this is not prejudicial -- if I assume that for the sake of argument for the moment, what is it that you can show that shows it was prejudicial?"
+2010.09-658,1,42217,steven_t_wax,,1805.41,1806.549,"Your Honor, I think--"
+2010.09-658,1,15139,stephen_g_breyer,scotus_justice,1806.549,1809.345,That was the same question I think Justice -- Justice Sotomayor started with.
+2010.09-658,1,42217,steven_t_wax,,1809.345,1823.326,"--Your Honor, there is no question that the evidence with respect to the strength of the State's case includes the facts that the attorney general has identified."
+2010.09-658,1,15131,sonia_sotomayor,scotus_justice,1842.144,1843.564,Impeachable how?
+2010.09-658,1,42217,steven_t_wax,,1861.058,1864.928,"--Your Honor, I cannot point in the record to a motive."
+2010.09-658,1,15068,samuel_a_alito_jr,scotus_justice,1900.727,1905.21,"Even without his testimony, isn't there a very strong case of kidnapping?"
+2010.09-658,1,42217,steven_t_wax,,1909.64,1922.872,"The defense to the kidnapping charge in the absence of the confessions could well have been a mere presence defense, that Mr. Moore did not participate in the kidnapping."
+2010.09-658,1,15068,samuel_a_alito_jr,scotus_justice,1927.7,1932.617,He didn't -- that he didn't go to the -- to the victim's RV with the other men?
+2010.09-658,1,42217,steven_t_wax,,1933.977,1938.598,He could certainly have argued that he did not participate in the kidnapping.
+2010.09-658,1,15084,ruth_bader_ginsburg,scotus_justice,1958.311,1959.293,On this--
+2010.09-658,1,42217,steven_t_wax,,1959.293,1960.249,And on that there are highly--
+2010.09-658,1,15084,ruth_bader_ginsburg,scotus_justice,1960.249,1975.414,"--Mr. Wax, just to clear out some of the underbrush, the Ninth Circuit did say that Fulminante was really established law controlling this case."
+2010.09-658,1,42217,steven_t_wax,,1979.739,1980.754,--That is correct.
+2010.09-658,1,15139,stephen_g_breyer,scotus_justice,1984.828,1985.312,Okay.
+2010.09-658,1,42217,steven_t_wax,,2013.817,2014.659,"Yes, Your Honor."
+2010.09-658,1,15139,stephen_g_breyer,scotus_justice,2014.659,2015.127,I don't want to miss anything.
+2010.09-658,1,42217,steven_t_wax,,2015.127,2015.424,"Yes, Your Honor."
+2010.09-658,1,15131,sonia_sotomayor,scotus_justice,2066.246,2089.175,"And a competent -- and a competent counsel is supposed to accept their irrational client, who doesn't want to understand the law, and let him risk getting an aggravated felony charge brought against him, or a capital murder charge brought against him, and not -- and just go ahead?"
+2010.09-658,1,42217,steven_t_wax,,2101.123,2101.138,Your Honor--
+2010.09-658,1,15131,sonia_sotomayor,scotus_justice,2101.138,2120.238,"That's really what you are saying, that a competent attorney would not recommend to his client take the plea, and that his client wouldn't ultimately accept the plea, because the objective reality is his upside horrible and his downside is almost a given."
+2010.09-658,1,42217,steven_t_wax,,2120.238,2124.956,"--Your Honor, a competent counsel might advise his counsel to accept a plea."
+2010.09-658,1,15049,antonin_scalia,scotus_justice,2150.694,2160.208,"Yes, but Judge Reinhardt and the court of appeals did not in fact apply the test of Hill, which you are asserting."
+2010.09-658,1,42217,steven_t_wax,,2177.605,2178.84,Your Honor--
+2010.09-658,1,15049,antonin_scalia,scotus_justice,2178.84,2181.043,But it's not the test that -- that Hill prescribed.
+2010.09-658,1,42217,steven_t_wax,,2181.043,2190.882,--I am not advocating for the test articulated by Judge Berzon; I believe that it is a sound approach but it is not what we are advocating for here.
+2010.09-658,1,15084,ruth_bader_ginsburg,scotus_justice,2197.644,2198.58,Did he say that?
+2010.09-658,1,42217,steven_t_wax,,2210.469,2214.778,There is -- there is no direct statement to that effect.
+2010.09-658,1,15139,stephen_g_breyer,scotus_justice,2265.616,2266.739,That is an irrelevant question.
+2010.09-658,1,42217,steven_t_wax,,2302.303,2304.927,"--Your Honor, I am not suggesting that the--"
+2010.09-658,1,15139,stephen_g_breyer,scotus_justice,2304.927,2306.83,What do you actually think about this?
+2010.09-658,1,42217,steven_t_wax,,2306.83,2310.363,--I believe that Mr. Moore was making a reasoned judgment.
+2010.09-658,1,15084,ruth_bader_ginsburg,scotus_justice,2338.256,2350.11,I think you -- I think General Kroger brought up that Moore carried the gun.
+2010.09-658,1,42217,steven_t_wax,,2357.028,2364.87,"--Your Honor, the gun is brought to the scene -- and this is in the record -- by the codefendant, Lonnie Woolhiser."
+2010.09-658,1,15068,samuel_a_alito_jr,scotus_justice,2421.19,2421.565,Excuse me.
+2010.09-658,1,42217,steven_t_wax,,2423.218,2427.028,--Pages 227 and 228 in the appendix.
+2010.09-658,1,15139,stephen_g_breyer,scotus_justice,2438.29,2439.288,They believe it.
+2010.09-658,1,42217,steven_t_wax,,2443.161,2456.142,"--If he goes to trial, the likelihood, first, of a death penalty needs to be put off the table."
+2010.09-658,1,15139,stephen_g_breyer,scotus_justice,2456.142,2456.719,No.
+2010.09-658,1,42217,steven_t_wax,,2469.245,2475.945,"If he is convicted solely of the kidnapping, if he is convicted of an assault, he can receive a lighter sentence."
+2010.09-658,1,15139,stephen_g_breyer,scotus_justice,2479.006,2480.694,Isn't kidnapping a felony?
+2010.09-658,1,42217,steven_t_wax,,2480.694,2481.598,--Yes.
+2010.09-658,1,15139,stephen_g_breyer,scotus_justice,2482.176,2491.266,"Well, then, if he is kidnapped -- if he is convicted of the kidnapping and there was an accidental murder that took place, I believe that that would be felony murder."
+2010.09-658,1,42217,steven_t_wax,,2491.266,2495.095,"--If the jury finds him guilty of that, his sentence will--"
+2010.09-658,1,15139,stephen_g_breyer,scotus_justice,2495.095,2495.516,Yes.
+2010.09-658,1,42217,steven_t_wax,,2497.092,2499.045,--Mere presence.
+2010.09-658,1,15131,sonia_sotomayor,scotus_justice,2502.793,2507.012,But four witnesses put him at the scene to kidnap this guy and scare him to death.
+2010.09-658,1,42217,steven_t_wax,,2507.324,2511.696,"--Well, Your Honor, the record shows there was one witness who put him at the scene."
+2010.09-658,1,15049,antonin_scalia,scotus_justice,2536.153,2557.02,"Mr. Wax, as far as the confession is concerned and its excludability, what effect do you think we ought to give to this passage in the -- in the defendant's agreement to the plea:"
+2010.09-658,1,42217,steven_t_wax,,2584.149,2591.913,"I believe you should give no credit to that, because that statement by Mr. Moore is based on the incorrect advice of his attorney."
+2010.09-658,1,15049,antonin_scalia,scotus_justice,2596.924,2597.096,"Well, wait."
+2010.09-658,1,42217,steven_t_wax,,2613.696,2621.928,"--Your Honor, he had previously been told by his attorney that they were not."
+2010.09-658,1,15049,antonin_scalia,scotus_justice,2643.559,2646.885,"Well, boilerplate -- I mean, the man signed it."
+2010.09-658,1,42217,steven_t_wax,,2664.627,2672.251,"Your Honor, what Mr. Moore has said is: I enter this plea on the advice of my attorney."
+2010.09-658,1,15068,samuel_a_alito_jr,scotus_justice,2713.703,2715.048,Could I just clarify something?
+2010.09-658,1,42217,steven_t_wax,,2731.664,2735.711,He affirmatively states that there was no intent to kill.
+2010.09-658,1,15068,samuel_a_alito_jr,scotus_justice,2735.711,2736.039,Where is that?
+2010.09-658,1,42217,steven_t_wax,,2736.257,2743.051,"I believe it's on page 228, where he comes back in and says one more thing."
+2010.09-658,1,15068,samuel_a_alito_jr,scotus_justice,2759.466,2763.542,--You read that as a -- as a claim that there was no intent to kill?
+2010.09-658,1,42217,steven_t_wax,,2763.542,2765.024,"--Yes, sir."
+2010.09-658,1,15068,samuel_a_alito_jr,scotus_justice,2792.437,2797.058,"I have to say, I think that's a very aggressive reading of what was said here."
+2010.09-658,1,42217,steven_t_wax,,2821.095,2826.047,"--Well, I believe, Your Honor, that is the portion to the record to which I am referring at page 228."
+2010.09-658,1,15086,john_g_roberts_jr,scotus_justice,2874.09,2875.357,"Thank you, counsel."
+2010.09-658,2,31312,john_r_kroger,,2878.277,2884.149,"Mr. Chief Justice, and may it please the Court:"
+2010.09-658,2,15086,john_g_roberts_jr,scotus_justice,2917.573,2920.68,"Thank you, counsel."

@@ -1,0 +1,241 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2015.14-916,0,15086,john_g_roberts_jr,scotus_justice,0.0,8.53,"We'll hear argument first this morning in Case No. 14-916, Kingdomware Technologies v. United States. Mr. Saunders."
+2015.14-916,0,56162,thomas_g_saunders,,8.53,37.15,"Mr. Chief Justice, and may it please the Court: By its plain terms, the 2006 Veterans Act requires the VA to consider veterans first under the Rule of Two before awarding contracts to other suppliers. That mandate, which applies only to the VA and reflects the agency's unique obligation to veterans, contains no exception for the contracts formed when the VA makes awards under the Federal Supply Schedule."
+2015.14-916,0,15068,samuel_a_alito_jr,scotus_justice,55.27,64.93,"Before you get too deeply into the merits of the case, could you just tell us what relief you could get at this point that's consistent with the Tucker Act?"
+2015.14-916,0,56162,thomas_g_saunders,,64.93,80.44,"We're seeking a declaratory judgment that, with respect to these particular procurements, the VA erred in failing to conduct market research and -- and to apply the Rule of Two before going straight to the FSS."
+2015.14-916,0,15084,ruth_bader_ginsburg,scotus_justice,80.44,87.82,"On the ground that this is capable of repetition yet evasive of review, is that your -- your answer to the mootness?"
+2015.14-916,0,56162,thomas_g_saunders,,87.82,88.96,Absolutely.
+2015.14-916,0,15113,anthony_m_kennedy,scotus_justice,103.33,105.44,What was the amount of this contract?
+2015.14-916,0,56162,thomas_g_saunders,,105.44,109.97,"This contract was for a base amount of $33,000."
+2015.14-916,0,15068,samuel_a_alito_jr,scotus_justice,109.97,126.035,Isn't it strange to get a declaratory judgment that something unlawful occurred in the past but that no other relief is available for this past violation of the law?
+2015.14-916,0,56162,thomas_g_saunders,,126.035,138.27,"Well, no other relief is available solely because of the passage of time it has taken for this case to work its way up to this Court. And that's why the doctrine of capable of repetition yet evading a view -- review is --"
+2015.14-916,0,15068,samuel_a_alito_jr,scotus_justice,138.27,142.21,What -- what I'm getting at is: What good would such a declaratory judgment do?
+2015.14-916,0,56162,thomas_g_saunders,,142.21,159.515,"Well, once -- once the legal rights, once the meaning of 8127(d) is established in this case by that declaratory judgment, then going forward, you would expect that the VA will comply with this Court's interpretation of the law."
+2015.14-916,0,15131,sonia_sotomayor,scotus_justice,168.295,178.965,"You did -- your client stipulated away the cost that it would have been entitled to after winning before the GAO, correct?"
+2015.14-916,0,56162,thomas_g_saunders,,178.965,179.67,The --
+2015.14-916,0,15131,sonia_sotomayor,scotus_justice,179.67,184.595,"So there was relief. You just gave it away, essentially."
+2015.14-916,0,56162,thomas_g_saunders,,184.595,199.495,"Well, the -- the Tucker Act doesn't allow for the protest costs, and so the -- the relevant costs that might have been allowed would be bid preparation costs. But the very point of this case is there wasn't an opportunity to bid."
+2015.14-916,0,15131,sonia_sotomayor,scotus_justice,234.27,241.93,Your client is still an FSS vendor and is still competing for contact -- contracts that the --
+2015.14-916,0,56162,thomas_g_saunders,,241.93,242.36,Yes.
+2015.14-916,0,15131,sonia_sotomayor,scotus_justice,242.36,242.46,Okay.
+2015.14-916,0,56162,thomas_g_saunders,,242.46,256.995,"And -- and our client -- he's listed it in the FSS, but most importantly for this case is a service-disabled veteran-owned small business and continues to be listed in the VA's database, which limits the eligibility for the Rule of Two here."
+2015.14-916,0,15131,sonia_sotomayor,scotus_justice,256.995,267.045,"The government takes the position that if we rule in your favor, that means that we're doing away with, effectively, the FSS. Is that your view?"
+2015.14-916,0,56162,thomas_g_saunders,,267.045,267.42,No.
+2015.14-916,0,15131,sonia_sotomayor,scotus_justice,320.25,328.96,Can it tell from that database whether or not a particular vendor is a veteran or a disabled veteran?
+2015.14-916,0,56162,thomas_g_saunders,,328.96,329.87,"Oh, absolutely."
+2015.14-916,0,15131,sonia_sotomayor,scotus_justice,352.07,353.33,"Well, there's two databases."
+2015.14-916,0,56162,thomas_g_saunders,,358.18,361.93,"No, we're talk -- we're talking about a separate VA-specific database."
+2015.14-916,0,15131,sonia_sotomayor,scotus_justice,378.34,382.805,Which -- and then you are wanting to do away with the FSS?
+2015.14-916,0,56162,thomas_g_saunders,,382.805,384.02,"No, not at all."
+2015.14-916,0,15131,sonia_sotomayor,scotus_justice,384.19,388.57,So they go through the FSS and find the veteran-owned businesses?
+2015.14-916,0,56162,thomas_g_saunders,,388.57,397.2,"Not -- not under this mandate, because the -- the mandate here in the law is tied to the VA's database."
+2015.14-916,0,15084,ruth_bader_ginsburg,scotus_justice,403.43,414.36,"Mr. Saunders, I think that Justice Sotomayor's question is asking you to address what happens if there's than urgent need."
+2015.14-916,0,56162,thomas_g_saunders,,425.025,435.515,"Well, two things: Number one, the Rule of Two only applies when you have both fair and reasonable price and best value to the United States."
+2015.14-916,0,15086,john_g_roberts_jr,scotus_justice,444.44,469.15,"Well, but that strikes me as a -- a very thin protection. Are -- these terms imply a lot of discretion: What's fair? What's reasonable? What's best value? The idea that that's going to operate as a significant restraint on the requirement that the VA locate veteran businesses seems a real stretch to me."
+2015.14-916,0,56162,thomas_g_saunders,,469.15,473.89,But -- but the process here -- I mean -- take you through the process of applying the Rule of Two.
+2015.14-916,0,15094,elena_kagan,scotus_justice,482.41,496.765,"How is it apparent that a particular veteran's business can perform a particular contract? I mean, what in the database shows you, yes, this veteran's small business is capable of performing this contract in a reasonably effective way?"
+2015.14-916,0,56162,thomas_g_saunders,,496.765,516.57,"The -- because the database has the North American Industry Classification System codes, which are actually the same codes that correspond to what's in the FSS. And to the extent there is additional information that's needed, it's very easy to contact the veterans in those -- that database."
+2015.14-916,0,15086,john_g_roberts_jr,scotus_justice,516.57,519.11,"Counsel, could you get back to your answer to my question?"
+2015.14-916,0,56162,thomas_g_saunders,,519.11,519.48,Oh.
+2015.14-916,0,15084,ruth_bader_ginsburg,scotus_justice,645.72,646.45,When is it -- what's it --
+2015.14-916,0,15113,anthony_m_kennedy,scotus_justice,646.45,657.855,"And I suppose there is some system for the government to check to see whether or not this person really has been offering this good, has -- has a track record, because that goes with the fair and reasonable price?"
+2015.14-916,0,56162,thomas_g_saunders,,657.855,659.12,"Yes, absolutely."
+2015.14-916,0,15139,stephen_g_breyer,scotus_justice,689.82,690.42,This is a case --
+2015.14-916,0,15084,ruth_bader_ginsburg,scotus_justice,690.42,699.47,You mentioned the best value to the United States is one of the qualifications. I understand fair and reasonable price.
+2015.14-916,0,56162,thomas_g_saunders,,705.9,708.6,"Well, best value is designed to go beyond price."
+2015.14-916,0,15086,john_g_roberts_jr,scotus_justice,720.97,724.96,"Well, the sort of thing that there will be an awful lot of litigation about, don't you think?"
+2015.14-916,0,56162,thomas_g_saunders,,724.96,736.35,"Against a framework that has been recognized, the discretion -- you know, there's litigation within an APA framework in terms of arbitrary and capricious review."
+2015.14-916,0,15086,john_g_roberts_jr,scotus_justice,736.35,746.31,"Well, you're putting a lot more weight on that -- excuse me -- on that provision if you prevail on your statutory interpretation argument."
+2015.14-916,0,56162,thomas_g_saunders,,767.425,784.785,"I -- given the -- the standards for making that out, I don't think that you would see rampant litigation in this area in terms of the -- the squishiness of the time cuts in favor of the government in that sense there."
+2015.14-916,0,15113,anthony_m_kennedy,scotus_justice,784.785,810.945,"How do -- how do we know how to evaluate your answer or the government's position if the government comes and says, oh, this is just unworkable, it's going to be difficult if we've never been involved in government contracting? Are there findings? Are there -- are there writings in law reviews or what -- what do we look to, to determine the empirical basis for your argument, or the lack of empirical basis for your argument?"
+2015.14-916,0,56162,thomas_g_saunders,,810.945,812.46,I think it's looking to --
+2015.14-916,0,15113,anthony_m_kennedy,scotus_justice,812.46,814.4,Based on what we think is going to happen?
+2015.14-916,0,56162,thomas_g_saunders,,814.4,815.14,"Well, no."
+2015.14-916,0,15084,ruth_bader_ginsburg,scotus_justice,832.79,845.215,"But there is no empirical evidence because this is -- this is a new kind of provision, this mandatory set-aside; isn't that true? So we don't have any -- any logic."
+2015.14-916,0,56162,thomas_g_saunders,,847.265,856.81,We -- we don't have direct experience with the mandatory provision like this because it's been resisted for a decade and hasn't gone --
+2015.14-916,0,15131,sonia_sotomayor,scotus_justice,856.81,858.935,Hasn't the SBA been using it?
+2015.14-916,0,56162,thomas_g_saunders,,858.935,870.925,"Well, under the Small Business Act, there were agencies that were doing set-asides, and then it was made explicit that they could do set-asides within the FSS."
+2015.14-916,0,15131,sonia_sotomayor,scotus_justice,915.61,919.08,But you're not talking about just the small value contracts.
+2015.14-916,0,56162,thomas_g_saunders,,931.225,937.47,"Well, for the -- for the big ones, the FSS itself is already complicated."
+2015.14-916,0,15139,stephen_g_breyer,scotus_justice,999.59,1005.58,That's why I wondered -- I'm not certain how this works -- that I read the statute.
+2015.14-916,0,56162,thomas_g_saunders,,1042.27,1043.86,"No, not -- not at all."
+2015.14-916,0,15139,stephen_g_breyer,scotus_justice,1043.86,1045.975,What wouldn't? That's what I want you to address.
+2015.14-916,0,56162,thomas_g_saunders,,1045.975,1053.51,"The vast -- for the -- given the limited number of veteran-owned small businesses that are out there, and --"
+2015.14-916,0,15139,stephen_g_breyer,scotus_justice,1053.51,1054.41,How many are there?
+2015.14-916,0,56162,thomas_g_saunders,,1054.41,1062.76,"When -- when Congress was going through the legislative history here, it was hearing that maybe 15 percent of businesses."
+2015.14-916,0,15139,stephen_g_breyer,scotus_justice,1063.18,1071.55,"It may be 15 percent of businesses, but the question is what does the Department of Veterans Affairs buy? And my guess is they buy lots of stuff."
+2015.14-916,0,56162,thomas_g_saunders,,1108.415,1113.4,"First, the -- the fair and reasonable price and best value requirement --"
+2015.14-916,0,15139,stephen_g_breyer,scotus_justice,1113.4,1117.47,"No, no, I understand that. I said they have certain qualifications, of course."
+2015.14-916,0,56162,thomas_g_saunders,,1133.51,1144.13,"You're wrong in terms of the -- the natural cap on the limit of businesses that are out there, but where there is a veteran-owned small business that can perform the requirement --"
+2015.14-916,0,15139,stephen_g_breyer,scotus_justice,1144.13,1145.66,I'm not saying they can't perform.
+2015.14-916,0,56162,thomas_g_saunders,,1145.66,1145.83,"No, no."
+2015.14-916,0,15139,stephen_g_breyer,scotus_justice,1146.37,1149.28,I want you to address what you're calling this natural cap.
+2015.14-916,0,56162,thomas_g_saunders,,1179.075,1189.02,"It's -- it is everything, all the contracts for which there is a veteran-owned small business that can supply --"
+2015.14-916,0,15139,stephen_g_breyer,scotus_justice,1189.02,1201.635,"Are you saying Congress want -- just wanted everything that veterans can supply to be supplied by veterans? And if I say, is that everything, it's not 90 -- it's not a hundred percent, probably not 99 percent, but it might be 80 percent."
+2015.14-916,0,56162,thomas_g_saunders,,1207.715,1214.11,When I win I don't think we're going to be talking about numbers that high. Congress in the legislative history was talking about 15 percent of the --
+2015.14-916,0,15113,anthony_m_kennedy,scotus_justice,1214.11,1215.9,I thought your answer would be a hundred percent.
+2015.14-916,0,56162,thomas_g_saunders,,1215.9,1218.21,I'm just saying as a practical matter.
+2015.14-916,0,15131,sonia_sotomayor,scotus_justice,1219.51,1219.69,What's the --
+2015.14-916,0,15113,anthony_m_kennedy,scotus_justice,1219.69,1225.82,What is your answer to Justice Breyer? A hundred percent provided the statutory requirements are satisfied?
+2015.14-916,0,56162,thomas_g_saunders,,1225.82,1226.9,Yes; that is correct.
+2015.14-916,0,15113,anthony_m_kennedy,scotus_justice,1228.61,1233.065,And we know how many businesses there are because they registered under a special procedure.
+2015.14-916,0,56162,thomas_g_saunders,,1233.065,1233.63,Right.
+2015.14-916,0,15094,elena_kagan,scotus_justice,1240.12,1262.695,"Well, what Justice -- what -- Justice Breyer raised a question about the way this statute is worded because it says, ""For purposes of meeting the goals."" And the goals are very low; the goals are 3 percent. So it seems odd for a statute to say for persons of meeting a 3-percent goal, you should do the following, which will lead to 90 percent."
+2015.14-916,0,56162,thomas_g_saunders,,1262.695,1264.42,"Well, a few points, Justice Kagan."
+2015.14-916,0,15094,elena_kagan,scotus_justice,1276.035,1276.87,How high?
+2015.14-916,0,56162,thomas_g_saunders,,1276.87,1280.88,It doesn't -- it doesn't require the specific number.
+2015.14-916,0,15094,elena_kagan,scotus_justice,1285.31,1286.54,That could be four percent.
+2015.14-916,0,56162,thomas_g_saunders,,1286.54,1303.75,"It -- it could be, but we're talking about a period in time when there have been goals since 1999, discretionary authority since 2003. And as of 2005, the government's progress towards its 3-percent goal was .6, six-tenths of 1 percent."
+2015.14-916,0,15094,elena_kagan,scotus_justice,1303.75,1307.03,"No, it sounds like the government did very badly in meeting its goals."
+2015.14-916,0,56162,thomas_g_saunders,,1331.745,1334.51,"Well, where there is a veteran that's eligible."
+2015.14-916,0,15086,john_g_roberts_jr,scotus_justice,1373.11,1400.575,"You -- you mentioned that the -- you've mentioned several times, I think, that there has to be a veterans -- veteran-owned business that's eligible as -- as -- but don't you think there will be a lot more veteran-owned businesses if you prevail? In other words, if everything is open to the preference, as long as there is, you know, two that get the preference, don't you think a lot more veterans -- won't it make a lot more sense for them to go into business rather than some other line of work?"
+2015.14-916,0,56162,thomas_g_saunders,,1400.575,1401.74,It may well be.
+2015.14-916,0,15086,john_g_roberts_jr,scotus_justice,1404.445,1413.265,"Well, you shouldn't be telling us that the limitation is that there's only so many veteran-owned businesses, because if you prevail, there will be many times that."
+2015.14-916,0,56162,thomas_g_saunders,,1413.265,1414.35,Yeah.
+2015.14-916,0,15139,stephen_g_breyer,scotus_justice,1428.18,1431.62,I see many good things. People would enlist in the Armed Forces.
+2015.14-916,0,56162,thomas_g_saunders,,1486.729,1487.35,But --
+2015.14-916,0,15139,stephen_g_breyer,scotus_justice,1487.35,1488.44,-- and then -- the same --
+2015.14-916,0,56162,thomas_g_saunders,,1488.44,1496.37,The government has given that up because the stated purpose of setting those goals was to increase contracting opportunities.
+2015.14-916,0,15086,john_g_roberts_jr,scotus_justice,1577.59,1591.335,"Thank you, counsel. Mr. Tripp."
+2015.14-916,1,56164,zachary_d_tripp,,1591.335,1599.19,"Mr. Chief Justice, and may it please the Court: The mandate here applies when the VA awards wholly new contracts, not when it places orders under old ones."
+2015.14-916,1,15084,ruth_bader_ginsburg,scotus_justice,1599.19,1610.16,"Mr. Tripp, would you preliminarily explain why the government walked away from what was a winning position in the Federal circuit? I mean, it's really odd."
+2015.14-916,1,56164,zachary_d_tripp,,1619.025,1626.215,"I just -- about the Federal circuit's position, we think the Federal circuit's rationale is right, so far as it goes, but that it's incomplete."
+2015.14-916,1,15068,samuel_a_alito_jr,scotus_justice,1677.3,1684.21,Your answer to Justice Ginsburg is that the Federal circuit was actually right even though you disagree with its reasoning.
+2015.14-916,1,56164,zachary_d_tripp,,1693.67,1697.11,But it's not only that the VA regulations don't say anything about goals.
+2015.14-916,1,15131,sonia_sotomayor,scotus_justice,1738.81,1739.13,I don't quite --
+2015.14-916,1,56164,zachary_d_tripp,,1739.13,1746.61,And so the argument we're advancing here is foursquare with the way our regulations actually work and what our practices have been on the ground since 2009.
+2015.14-916,1,15131,sonia_sotomayor,scotus_justice,1746.61,1751.72,So why is it that you call these order -- order contracts? I look at --
+2015.14-916,1,56164,zachary_d_tripp,,1751.72,1752.12,Pardon?
+2015.14-916,1,15131,sonia_sotomayor,scotus_justice,1752.12,1760.92,"I look at your history, and you, yourself, the government itself, calls these orders order contracts."
+2015.14-916,1,56164,zachary_d_tripp,,1760.92,1764.88,"An order is a kind of contract, you know, under the --"
+2015.14-916,1,15131,sonia_sotomayor,scotus_justice,1764.88,1765.57,It's not a kind.
+2015.14-916,1,56164,zachary_d_tripp,,1766.745,1767.28,Yeah.
+2015.14-916,1,15131,sonia_sotomayor,scotus_justice,1768.59,1775.14,"So tell me what kind of contract do you have, absent the order with the FSS vendor?"
+2015.14-916,1,56164,zachary_d_tripp,,1775.14,1786.905,"Oh, under the FSS, there's already a government contract between the United States and the vendor to supply an indefinite quantity of -- of a certain category of products or services."
+2015.14-916,1,15131,sonia_sotomayor,scotus_justice,1790.15,1799.67,How difficult is it for you to take the database that you have with respect to what are veteran-owned businesses.
+2015.14-916,1,56164,zachary_d_tripp,,1813.97,1814.71,It -- it --
+2015.14-916,1,15131,sonia_sotomayor,scotus_justice,1814.71,1822.06,"If there's no veteran that matches the FSS list, then you go to the FSS. What's the problem with that --"
+2015.14-916,1,56164,zachary_d_tripp,,1822.06,1833.305,If I could take a step back and explain why this is so important to the VA. The thing that we're most troubled by is that Petitioner's position would block us from being able to place orders under preexisting contracts.
+2015.14-916,1,15131,sonia_sotomayor,scotus_justice,1834.92,1834.98,No.
+2015.14-916,1,56164,zachary_d_tripp,,1861.51,1861.96,All right.
+2015.14-916,1,15131,sonia_sotomayor,scotus_justice,1869.33,1869.57,Exactly.
+2015.14-916,1,56164,zachary_d_tripp,,1869.85,1872.405,-- the first point about that is that Petitioner would lose.
+2015.14-916,1,15131,sonia_sotomayor,scotus_justice,1874.03,1877.09,I don't care about the merits of whether it wins or loses.
+2015.14-916,1,56164,zachary_d_tripp,,1883.625,1883.75,Yeah.
+2015.14-916,1,15131,sonia_sotomayor,scotus_justice,1899.7,1900.26,I don't -- I don't --
+2015.14-916,1,56164,zachary_d_tripp,,1900.26,1902.145,"You know, this is very important to us."
+2015.14-916,1,15131,sonia_sotomayor,scotus_justice,1915.18,1920.53,Except the FBA has interpreted this contrary to you; so has the GAO.
+2015.14-916,1,56164,zachary_d_tripp,,1920.53,1932.065,"The FBA -- the FBA took that position, and the FAR counsel, which represents the entire procurement policy of a broad, pan-executive branch procurement agency, rejected it."
+2015.14-916,1,15094,elena_kagan,scotus_justice,1936.44,1938.19,"Mr. Tripp, I guess I'm not sure I understand."
+2015.14-916,1,56164,zachary_d_tripp,,1968.895,1975.97,"Well, I -- I think the basic problem with that is if you take that sort of -- just like sort of a 1L understanding of contract and -- and blow it through --"
+2015.14-916,1,15094,elena_kagan,scotus_justice,1975.97,1978.27,"Well, it's your own understanding of contract."
+2015.14-916,1,56164,zachary_d_tripp,,1979.03,1979.31,"No, no."
+2015.14-916,1,15094,elena_kagan,scotus_justice,1979.31,1979.78,-- contract.
+2015.14-916,1,56164,zachary_d_tripp,,1979.78,1989.88,"But -- but the problem is that there's many Federal procurement statutes that apply when the -- when the Federal government, quote, ""awards contracts."" That's what five prior small business contracting preference statutes say."
+2015.14-916,1,15094,elena_kagan,scotus_justice,1999.03,2002.11,"But as I understand it, all of those contracts have a ""may"" in there."
+2015.14-916,1,56164,zachary_d_tripp,,2002.11,2002.25,No.
+2015.14-916,1,15094,elena_kagan,scotus_justice,2002.25,2003.77,Or almost all of them do.
+2015.14-916,1,56164,zachary_d_tripp,,2003.77,2007.81,"Well, one of them has always had a ""shall."" One had ""shall for 13 years."" But if I could get to another --"
+2015.14-916,1,15094,elena_kagan,scotus_justice,2007.81,2016.435,"Yeah, but -- but most of them have a ""may."" But here you have -- and -- and the ""shall""s, the one or two that there are, have really never been adjudicated by -- certainly by this Court."
+2015.14-916,1,56164,zachary_d_tripp,,2016.435,2016.85,Right.
+2015.14-916,1,15094,elena_kagan,scotus_justice,2016.85,2019.0,"So the question is, well, there we are."
+2015.14-916,1,56164,zachary_d_tripp,,2035.2,2049.095,"Well, so a couple points. The -- the very basic statutes that govern sealed bidding and negotiated bidding, the most heavyweight procedures for awarding a new contract, they both say that the government shall award a contract under those procedures."
+2015.14-916,1,15131,sonia_sotomayor,scotus_justice,2063.97,2066.58,But I don't understand your policy argument.
+2015.14-916,1,56164,zachary_d_tripp,,2078.715,2082.51,"Well, I mean, we often do. We're -- we're currently --"
+2015.14-916,1,15131,sonia_sotomayor,scotus_justice,2082.51,2083.49,This year --
+2015.14-916,1,56164,zachary_d_tripp,,2083.49,2088.67,We're currently exceeding our goals on -- if you look only at our FSS spending at --
+2015.14-916,1,15113,anthony_m_kennedy,scotus_justice,2088.67,2092.08,"But the question -- I think the question is, it's -- it's a matter of just --"
+2015.14-916,1,56164,zachary_d_tripp,,2092.08,2092.21,Yeah.
+2015.14-916,1,15113,anthony_m_kennedy,scotus_justice,2092.21,2095.255,-- pushing a second button on the computer.
+2015.14-916,1,56164,zachary_d_tripp,,2095.255,2096.03,"No, it's not."
+2015.14-916,1,15113,anthony_m_kennedy,scotus_justice,2096.41,2108.265,"First of all, I want to see what -- what's the FSS -- FSS, and then I want to see if there are any veterans-owned businesses that provide that service or that product on the FSS."
+2015.14-916,1,56164,zachary_d_tripp,,2110.41,2110.93,Yeah.
+2015.14-916,1,15086,john_g_roberts_jr,scotus_justice,2156.27,2162.58,"Well, in every case there has to be -- we're dealing with small -- veteran-owned small businesses."
+2015.14-916,1,56164,zachary_d_tripp,,2170.925,2173.88,"I guess I -- I don't know about ultrasound machines, but we've bought things like --"
+2015.14-916,1,15086,john_g_roberts_jr,scotus_justice,2173.88,2189.11,"There are expensive, big things that you expect you have to be a big company to provide, like an ultrasound machine, or you mentioned stents. Now maybe if they're commodities, then to provide fair price and best value, it also would help to be a big business as opposed to a small business."
+2015.14-916,1,56164,zachary_d_tripp,,2196.065,2197.2,"No, but we do a lot of --"
+2015.14-916,1,15086,john_g_roberts_jr,scotus_justice,2197.2,2197.86,-- pharmaceutical company.
+2015.14-916,1,56164,zachary_d_tripp,,2197.86,2208.52,"I mean, 13 percent of our FSS dollars go to small businesses, and a lot of it are for things like professional staffing, right? So we hire temporary nurses and psychiatrists, cardiologists, things like that, through --"
+2015.14-916,1,15086,john_g_roberts_jr,scotus_justice,2208.52,2210.68,13 percent of your acquisitions?
+2015.14-916,1,56164,zachary_d_tripp,,2210.68,2213.54,"Of our FSS -- when we're spending on the FSS, 13 --"
+2015.14-916,1,15086,john_g_roberts_jr,scotus_justice,2213.54,2213.69,Okay.
+2015.14-916,1,56164,zachary_d_tripp,,2221.46,2222.72,Our concern isn't placing an order.
+2015.14-916,1,15139,stephen_g_breyer,scotus_justice,2247.59,2281.0,"Is this the case? Do I understand this? Am I -- there are three parts to this. Question one in my mind, is it the case that they lose because the agency does not have to apply veterans only where they way exceeded their goal? The answer to that in the opinion would say, we do not reach that question for there are no regulations that suggest that the agency has tried to take that approach."
+2015.14-916,1,56164,zachary_d_tripp,,2282.395,2285.26,That has tried to take the approach of saying that we drop it if we're way over --
+2015.14-916,1,15113,anthony_m_kennedy,scotus_justice,2285.26,2285.805,Correct.
+2015.14-916,1,56164,zachary_d_tripp,,2285.805,2286.71,"Yeah, right."
+2015.14-916,1,15139,stephen_g_breyer,scotus_justice,2286.94,2287.13,All right.
+2015.14-916,1,56164,zachary_d_tripp,,2341.215,2341.945,Yes.
+2015.14-916,1,15139,stephen_g_breyer,scotus_justice,2341.945,2350.54,"So, therefore, it is that contract, not the contract within the contract that they're talking about."
+2015.14-916,1,56164,zachary_d_tripp,,2380.205,2380.8,I think that's --
+2015.14-916,1,15139,stephen_g_breyer,scotus_justice,2380.8,2385.835,"And don't just say it is because you think I'd agree with it, please. (Laughter.)"
+2015.14-916,1,56164,zachary_d_tripp,,2385.835,2388.965,I -- I don't think that's exactly what we're trying to say.
+2015.14-916,1,15139,stephen_g_breyer,scotus_justice,2392.17,2392.46,All right.
+2015.14-916,1,56164,zachary_d_tripp,,2408.02,2451.03,"We're saying that when we place an order under a preexisting contract, that that is not awarding a new -- awarding a contract within the meaning of these procurement statutes. There have been -- I -- I really do want to emphasize the historical context that's built up over decades about the understanding of this phrase, ""throughout Federal procurement law,"" right? There's five prior statutes on exactly this same subject, and every one of them has been interpreted by the FAR to be categorically inapplicable when placing orders under preexisting contracts. And the -- one of the things that's very troubling about their position is that if you say, well, we want to read a lot into this special provision, 8127(d), it was intended to help veterans, but there's nothing special about the language."
+2015.14-916,1,15084,ruth_bader_ginsburg,scotus_justice,2480.35,2485.355,"Mr. Tripp, this is an -- an overarching problem."
+2015.14-916,1,56164,zachary_d_tripp,,2521.06,2521.59,Right.
+2015.14-916,1,15084,ruth_bader_ginsburg,scotus_justice,2521.59,2523.235,-- other judges have thought about it.
+2015.14-916,1,56164,zachary_d_tripp,,2523.235,2525.71,"Yes, I -- and I -- I totally understand that concern."
+2015.14-916,1,15086,john_g_roberts_jr,scotus_justice,2549.62,2549.95,Consider --
+2015.14-916,1,56164,zachary_d_tripp,,2549.95,2551.02,-- we -- we recognize that.
+2015.14-916,1,15086,john_g_roberts_jr,scotus_justice,2551.02,2553.315,"Consider the argument, or consider mootness?"
+2015.14-916,1,56164,zachary_d_tripp,,2553.315,2557.374,Consider both.
+2015.14-916,1,15113,anthony_m_kennedy,scotus_justice,2560.84,2571.07,What -- what factors does the secretary look to when the secretary sets goals? Because I'm going back to the argument about for purposes of meeting the goals.
+2015.14-916,1,56164,zachary_d_tripp,,2571.07,2571.88,"I mean, the --"
+2015.14-916,1,15113,anthony_m_kennedy,scotus_justice,2571.88,2577.71,What -- what -- what standards does the Congress impose on the secretary when the secretary sets the goals?
+2015.14-916,1,56164,zachary_d_tripp,,2577.71,2583.61,"It -- it -- the goals are committed to his discretion, except for that the goal -- the minimum goal needs to be at least 3 percent."
+2015.14-916,1,15113,anthony_m_kennedy,scotus_justice,2589.97,2590.41,What does he --
+2015.14-916,1,56164,zachary_d_tripp,,2590.41,2591.12,-- the night-and-day impact.
+2015.14-916,1,15113,anthony_m_kennedy,scotus_justice,2591.12,2597.185,"What does he consider in deciding whether to go 5, 10, 15? The risk of litigation? The higher the goal is? Or --"
+2015.14-916,1,56164,zachary_d_tripp,,2597.185,2610.6,"No, I -- no, I think -- I guess, I -- I would -- I would have to -- to speculate on that, but I think it's more the sort of practical reality of what seems like a -- a goal, something that we could push forward that's attainable, but -- but not unrealistic."
+2015.14-916,1,15113,anthony_m_kennedy,scotus_justice,2610.97,2619.88,"Well, if the discretion is that broad, then it seems to me that maybe the Federal circuit was wrong, that these goals are simply aspirational."
+2015.14-916,1,56164,zachary_d_tripp,,2623.865,2634.205,"Well, they have a huge impact on the way that we actually procure, right? This has had -- I mean, the statute -- before the statute was enacted, we were falling short of even the 3 percent goal."
+2015.14-916,1,15086,john_g_roberts_jr,scotus_justice,2668.425,2673.205,"When -- I'm sorry. When you say you're crushing the goals, that means you're meeting them? (Laughter.)"
+2015.14-916,1,56164,zachary_d_tripp,,2673.205,2675.535,We're -- sorry.
+2015.14-916,1,15131,sonia_sotomayor,scotus_justice,2703.15,2703.69,Could you please --
+2015.14-916,1,15068,samuel_a_alito_jr,scotus_justice,2703.69,2704.45,Could you explain --
+2015.14-916,1,15131,sonia_sotomayor,scotus_justice,2704.45,2705.45,-- explain to me --
+2015.14-916,1,15068,samuel_a_alito_jr,scotus_justice,2705.45,2720.75,"Could you -- could you explain why the FS -- use of the FSS was important with respect to this particular contract? You provide examples of the VA's ordering standard commodities like a stent, or pencils, or something like that."
+2015.14-916,1,56164,zachary_d_tripp,,2729.2,2729.64,Yes.
+2015.14-916,1,15068,samuel_a_alito_jr,scotus_justice,2729.64,2741.13,-- what you did was to solicit a quote from a single contractor. So how does that fit in with the arguments you're making about the need to use the FSS?
+2015.14-916,1,56164,zachary_d_tripp,,2741.13,2743.0,It -- it sort of -- two things about this.
+2015.14-916,1,15094,elena_kagan,scotus_justice,2811.525,2818.785,One of the amicus briefs suggests that the VA is now doing increasingly complex procurements by way of the FSS.
+2015.14-916,1,56164,zachary_d_tripp,,2830.825,2839.83,"I -- I -- I -- well, first, I want to emphasize that the VA's primary use of this, again -- this is not -- I'm not talking about staples and paperclips."
+2015.14-916,1,15094,elena_kagan,scotus_justice,2920.43,2931.33,"Mr. Tripp, can -- can I ask, what effect would this statute really have on your view? As I understand it, the government does have to use the Rule of Two on all open-market purchases; is that right?"
+2015.14-916,1,56164,zachary_d_tripp,,2931.33,2933.92,"Under the statute, our regulations implemented it, yes."
+2015.14-916,1,15094,elena_kagan,scotus_justice,2933.92,2939.5,"Above, like, a very low threshold? Is it 3,500, something like that?"
+2015.14-916,1,56164,zachary_d_tripp,,2939.5,2939.6,Yes.
+2015.14-916,1,15094,elena_kagan,scotus_justice,2940.01,2951.21,"So -- so if you're right, what did this statute actually accomplish? In other words, you already have to use the Rule of Two for open-market purchases, or almost all of them."
+2015.14-916,1,56164,zachary_d_tripp,,2951.21,2952.015,"Oh, right."
+2015.14-916,1,15094,elena_kagan,scotus_justice,2952.015,2953.755,What does the statute do?
+2015.14-916,1,56164,zachary_d_tripp,,2953.755,2954.08,Yes.
+2015.14-916,1,15113,anthony_m_kennedy,scotus_justice,2976.975,2977.15,Who --
+2015.14-916,1,56164,zachary_d_tripp,,2977.15,2995.62,"Only in our -- who are verified as veteran-owned in our database. So this is a far more powerful preference than the -- than -- than the ordinary preference in -- in the FAR, or even when you take that and you couple it with section 8128, which they mention in the brief, which gets at, again, just sort of putting a -- a bit of a thumb on the scale."
+2015.14-916,1,15131,sonia_sotomayor,scotus_justice,3021.61,3029.63,And you still haven't answered my question fully. If we limit that to preexisting orders where there is two or more veterans --
+2015.14-916,1,56164,zachary_d_tripp,,3029.63,3029.85,Yes.
+2015.14-916,1,15131,sonia_sotomayor,scotus_justice,3030.35,3033.07,-- on the same practical consequences.
+2015.14-916,1,56164,zachary_d_tripp,,3033.07,3035.46,The -- the practical consequences are much narrower.
+2015.14-916,1,15131,sonia_sotomayor,scotus_justice,3041.44,3042.81,Like we limit everything else.
+2015.14-916,1,56164,zachary_d_tripp,,3047.065,3048.18,Are -- are they --
+2015.14-916,1,15131,sonia_sotomayor,scotus_justice,3048.18,3050.25,"Right now, there are no statutes like that."
+2015.14-916,1,56164,zachary_d_tripp,,3050.25,3050.54,"No, no, no."
+2015.14-916,1,15131,sonia_sotomayor,scotus_justice,3060.39,3064.36,The Small Business Administration has read it the way Kingdomware --
+2015.14-916,1,56164,zachary_d_tripp,,3064.36,3071.9,"No, that -- but that was decisively rejected by the FAR counsel, the government-wide body that considered this."
+2015.14-916,1,15113,anthony_m_kennedy,scotus_justice,3095.425,3102.12,Do -- do you know what proportion of the VA's annual purchases are under the FSS?
+2015.14-916,1,56164,zachary_d_tripp,,3102.12,3104.73,By dollar?
+2015.14-916,1,15113,anthony_m_kennedy,scotus_justice,3104.73,3105.61,Yes.
+2015.14-916,1,56164,zachary_d_tripp,,3106.73,3108.01,I think it's about 20 percent.
+2015.14-916,1,56164,zachary_d_tripp,,3108.01,3109.9,"About 20 percent, yes."
+2015.14-916,1,15084,ruth_bader_ginsburg,scotus_justice,3109.9,3113.49,What was the 60 percent? There was a 60 percent figure.
+2015.14-916,1,56164,zachary_d_tripp,,3113.49,3115.86,The -- the 60 percent is by transaction volume.
+2015.14-916,1,15113,anthony_m_kennedy,scotus_justice,3121.62,3121.91,I see.
+2015.14-916,1,15094,elena_kagan,scotus_justice,3121.91,3126.2,"What are the kinds of things that aren't done under the FSS? Like, what's the remaining 80?"
+2015.14-916,1,56164,zachary_d_tripp,,3126.2,3130.07,"Well, you know, a big part of that are orders that we do under other contracts."
+2015.14-916,1,15086,john_g_roberts_jr,scotus_justice,3141.04,3149.32,"Well, how -- do you know how many veteran-owned businesses would be able to offer the best value on pharmaceuticals to the VA?"
+2015.14-916,1,56164,zachary_d_tripp,,3149.32,3149.97,No.
+2015.14-916,1,15086,john_g_roberts_jr,scotus_justice,3191.545,3196.06,"Thank you, counsel. Mr. Saunders, four minutes."
+2015.14-916,2,56162,thomas_g_saunders,,3196.06,3198.14,Thank you.
+2015.14-916,2,56162,thomas_g_saunders,,3198.14,3216.8,"Thank you. This case should begin and end for this Court with the concession that in the ordinary sense of the term, an order under the FSS is a contract. Congress chose sweeping language here in acting its mandate, and that language encompasses FSS orders."
+2015.14-916,2,15113,anthony_m_kennedy,scotus_justice,3429.17,3437.805,What response do you have to judge -- Justice Ginsburg's question that really you're making us a court of first impression here? Shouldn't we send this back?
+2015.14-916,2,56162,thomas_g_saunders,,3437.805,3443.845,"I don't think we should because the meaning of ""contract,"" this is a straight-up question of law."
+2015.14-916,2,15086,john_g_roberts_jr,scotus_justice,3461.694,0.0,"Thank you, counsel. The case is submitted."

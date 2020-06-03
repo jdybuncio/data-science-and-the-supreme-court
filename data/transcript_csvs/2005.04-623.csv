@@ -1,0 +1,334 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2005.04-623,0,15086,john_g_roberts_jr,scotus_justice,0.0,6.067,The Court will now hear argument in Gonzales v. Oregon.
+2005.04-623,0,37772,paul_d_clement,,7.12,10.679,"Thank you, Mr. Chief Justice, and may it please the Court--"
+2005.04-623,0,15060,john_paul_stevens,scotus_justice,33.909,33.909,"May I ask, what Federal law does it violate?"
+2005.04-623,0,37772,paul_d_clement,,33.909,37.478,It violated the Controlled Substances Act.
+2005.04-623,0,15092,sandra_day_oconnor,scotus_justice,49.835,61.378,"Well, now, would that be true also for any doctor who provided the substances to furnish an execution of a convicted death penalty convict?"
+2005.04-623,0,37772,paul_d_clement,,61.378,66.544,"No, Justice O'Connor, the death penalty situation, lethal injection, is different, for a number of reasons."
+2005.04-623,0,15092,sandra_day_oconnor,scotus_justice,73.725,76.413,"But, otherwise, it would be the same reasoning--"
+2005.04-623,0,37772,paul_d_clement,,76.413,86.352,"I don't think it would, Justice O'Connor, at least not since 1994, because in 1994 Congress passed a statute that I think is best read as ratifying the practice of lethal injection."
+2005.04-623,0,15092,sandra_day_oconnor,scotus_justice,105.987,107.151,--But would it be open--
+2005.04-623,0,37772,paul_d_clement,,107.151,105.987,--a ratification--
+2005.04-623,0,15092,sandra_day_oconnor,scotus_justice,105.987,115.776,"--to the Attorney General to pass a regulation like this one, and all of a sudden apply it... some new Attorney General, who had a very different view of the death penalty?"
+2005.04-623,0,37772,paul_d_clement,,115.776,126.85,"--No, I don't think so, Justice O'Connor, and I think the reason is, at a minimum, 18 U.S.C. 3596, because I think that would now stand as an obstacle to that type of regulatory impression--"
+2005.04-623,0,15042,david_h_souter,scotus_justice,126.85,126.85,Does the--
+2005.04-623,0,15092,sandra_day_oconnor,scotus_justice,126.85,129.739,"Well, not if it just refers back to the States, would it?"
+2005.04-623,0,37772,paul_d_clement,,129.739,135.555,"--No, but this is a provision that dictates how the Federal Government shall do its executions."
+2005.04-623,0,15042,david_h_souter,scotus_justice,141.031,145.864,--Does the statute... does the Federal statute specifically authorize doctors to do this?
+2005.04-623,0,37772,paul_d_clement,,152.103,160.076,"--Well, the statute itself says that the Federal Government shall use the method in the State in which the sentencing court sits, the Federal sentencing court."
+2005.04-623,0,15042,david_h_souter,scotus_justice,160.076,161.741,"No, but the method may simply be lethal injection."
+2005.04-623,0,37772,paul_d_clement,,186.926,195.28,"And again, Justice Souter, I think the best reading is, that is now foreclosed... that interpretation would be foreclosed by Congress's action in 1994."
+2005.04-623,0,15042,david_h_souter,scotus_justice,197.184,205.779,"But I take it Congress did not refer specifically to... or did not include a specific authorization of doctors, so that we'd have to do a little construction to get to your point."
+2005.04-623,0,37772,paul_d_clement,,205.779,220.754,"--I think we would have to do a little construction, in fairness, but I do think... I mean, and there also are some differences, because, for example, as I understand the practice in most States, doctors actually aren't exactly involved in the specific process of administering the lethal injection."
+2005.04-623,0,15139,stephen_g_breyer,scotus_justice,239.918,270.318,"In your view, were it not for the statute, the Federal statute, your view of the Attorney General's authority is... leaving that statute aside, if it weren't there... the Attorney General, should we have an Attorney General who is opposed to the death penalty, could, in fact, regulate or stop Federal... State death penalties, through this same mechanism, by saying that no physician can be registered insofar as he engages in that."
+2005.04-623,0,37772,paul_d_clement,,270.318,276.015,"--Justice Breyer, I haven't thoroughly considered the issue, precisely because I do think the '94 statute stands as an obstacle."
+2005.04-623,0,15049,antonin_scalia,scotus_justice,282.252,282.662,"At most, it--"
+2005.04-623,0,37772,paul_d_clement,,282.662,282.913,--would allow for--
+2005.04-623,0,15049,antonin_scalia,scotus_justice,282.913,292.409,"--at most, it would allow him to prosecute, or to move for the discertification of doctors who engage in that practice."
+2005.04-623,0,37772,paul_d_clement,,295.548,296.92,--I think that's right.
+2005.04-623,0,15139,stephen_g_breyer,scotus_justice,301.663,315.524,"Well, what we're getting... at least what I'm getting at was this is, I would probably have read the statute to say that the drug statute, which is trying to stop drug addiction and heroin and... has nothing to do with the death penalty."
+2005.04-623,0,37772,paul_d_clement,,334.686,336.34,"Well, several points, Justice Breyer."
+2005.04-623,0,15084,ruth_bader_ginsburg,scotus_justice,388.395,389.299,May I comment--
+2005.04-623,0,37772,paul_d_clement,,389.299,391.604,"So, in that sense, I think it's very different than the Brown and Williamson case."
+2005.04-623,0,15084,ruth_bader_ginsburg,scotus_justice,392.645,393.509,--May I--
+2005.04-623,0,37772,paul_d_clement,,393.509,393.979,--as to what Congress--
+2005.04-623,0,15084,ruth_bader_ginsburg,scotus_justice,393.979,399.293,--may I ask you about the position this Court took in Glucksberg?
+2005.04-623,0,37772,paul_d_clement,,453.15,455.876,"--With respect, Justice Ginsburg, I don't think so."
+2005.04-623,0,15042,david_h_souter,scotus_justice,479.732,480.483,"Well, they say--"
+2005.04-623,0,37772,paul_d_clement,,480.483,480.483,--which is--
+2005.04-623,0,15042,david_h_souter,scotus_justice,480.483,489.418,"--that, in practical terms, that is exactly what it does, because the only way they can administer their law sensibly is by using these kinds of drugs, scheduled drugs."
+2005.04-623,0,37772,paul_d_clement,,489.418,492.817,"--Well, Justice Souter, we don't have a factual record on that question."
+2005.04-623,0,15042,david_h_souter,scotus_justice,510.49,511.301,"Well, did he use--"
+2005.04-623,0,37772,paul_d_clement,,511.301,511.501,--at the time--
+2005.04-623,0,15042,david_h_souter,scotus_justice,511.501,513.186,--did he use a controlled substance?
+2005.04-623,0,37772,paul_d_clement,,513.186,513.626,--He did not.
+2005.04-623,0,15084,ruth_bader_ginsburg,scotus_justice,525.469,542.388,"But we're told that the... those methods are less gentle to the patient, the methods that the State of Oregon has authorized its physicians to prescribe."
+2005.04-623,0,37772,paul_d_clement,,551.236,555.236,"Justice Ginsburg, we operate without a factual record on that point."
+2005.04-623,0,15060,john_paul_stevens,scotus_justice,568.834,569.668,General Clement--
+2005.04-623,0,37772,paul_d_clement,,569.668,584.159,"But I guess my point would be, even if we take it as true that controlled substances are the most efficient way to do this, I take it as a given that if Oregon doctors decided that a schedule 1 substance was the most effective way to administer a lethal overdose--"
+2005.04-623,0,15084,ruth_bader_ginsburg,scotus_justice,584.159,585.103,But Congress--
+2005.04-623,0,37772,paul_d_clement,,585.103,585.103,--after this Court's--
+2005.04-623,0,15084,ruth_bader_ginsburg,scotus_justice,585.103,585.864,--Congress spoke--
+2005.04-623,0,37772,paul_d_clement,,585.864,585.985,--decision in Raich--
+2005.04-623,0,15084,ruth_bader_ginsburg,scotus_justice,585.985,592.052,"--Congress spoke about section... schedule 1 drugs, and that's what's lacking here."
+2005.04-623,0,37772,paul_d_clement,,600.216,605.17,--I agree there is that difference between schedule 1 and schedule 2 substances.
+2005.04-623,0,15060,john_paul_stevens,scotus_justice,609.812,617.094,"--General Clement, before you go there, I want to question you about your distinction between Dr. Kevorkian and a doctor who uses controlled substances."
+2005.04-623,0,37772,paul_d_clement,,628.368,629.812,"Justice Stevens, I don't think he could."
+2005.04-623,0,15060,john_paul_stevens,scotus_justice,634.856,635.066,"Well, he--"
+2005.04-623,0,37772,paul_d_clement,,635.066,636.468,--OLC opinion are patently--
+2005.04-623,0,15060,john_paul_stevens,scotus_justice,636.468,636.941,--he can rely--
+2005.04-623,0,37772,paul_d_clement,,636.941,637.764,--clear on that.
+2005.04-623,0,15060,john_paul_stevens,scotus_justice,637.764,641.976,"--on things like prior convictions, other things unrelated to a specific transaction."
+2005.04-623,0,37772,paul_d_clement,,653.94,664.289,"Well, Justice Stevens, the reason I would say that it wouldn't is, I think you have to read this regulation against a backdrop that for 90 years the Federal Government has been involved in the regulation of controlled substances."
+2005.04-623,0,15060,john_paul_stevens,scotus_justice,667.778,674.155,"But the Attorney General's directive, if I remember it, does not identify any particular controlled substance."
+2005.04-623,0,37772,paul_d_clement,,677.834,681.723,--The... I'm not sure if you're referring to the statute or the regulation.
+2005.04-623,0,15060,john_paul_stevens,scotus_justice,683.067,683.147,Neither one.
+2005.04-623,0,37772,paul_d_clement,,689.014,691.49,"--I think that's fair, Justice Stevens."
+2005.04-623,0,15113,anthony_m_kennedy,scotus_justice,713.334,714.438,"Well, for me--"
+2005.04-623,0,37772,paul_d_clement,,714.438,714.638,--of medicine.
+2005.04-623,0,15113,anthony_m_kennedy,scotus_justice,714.638,716.002,"--for me, the case turns on the statute."
+2005.04-623,0,37772,paul_d_clement,,752.046,779.197,"Well, I don't think that would be an odd regime. I think if, for example, Oregon made a radically different judgment and said that in Oregon it was going to be permissible to have treatment or detoxification programs that involve the administration of radically larger quantities of controlled substances than had been recognized in any other State, I think, under the authority of cases like Moore, the Attorney General can make a judgment... now, that's not a legitimate medical purpose, that's--"
+2005.04-623,0,15113,anthony_m_kennedy,scotus_justice,779.197,779.197,"Well, that's--"
+2005.04-623,0,37772,paul_d_clement,,779.197,779.808,--an abuse.
+2005.04-623,0,15113,anthony_m_kennedy,scotus_justice,779.808,783.107,--that's... that's a... the slipper slope argument that I wanted to explore a bit.
+2005.04-623,0,37772,paul_d_clement,,802.044,804.169,"I think there could be, Justice Kennedy."
+2005.04-623,0,15113,anthony_m_kennedy,scotus_justice,848.118,848.942,But part--
+2005.04-623,0,37772,paul_d_clement,,848.942,849.903,--to really undermine the regime.
+2005.04-623,0,15113,anthony_m_kennedy,scotus_justice,849.903,863.581,"--part of the regime referred to under the statute... and it's 801(a) implementing the convention on psychotropic drugs... and there, the implementation incorporates the treaty... but it says that,"
+2005.04-623,0,37772,paul_d_clement,,871.634,894.893,"Well, Justice Kennedy, it is perfectly true that there are places in the statute where medical or scientific decisions are expressly given to the Secretary of Health and Human Services and not the Attorney General, but it is equally true that there are places in the Controlled Substances Act where medical determinations or public health determinations are given expressly to the Attorney General and not the Secretary of Health and Human Services."
+2005.04-623,0,15092,sandra_day_oconnor,scotus_justice,906.888,915.01,"Well, certainly the practice of medicine by physicians is an area traditionally regulated by the States, is it not?"
+2005.04-623,0,37772,paul_d_clement,,915.01,917.195,"--It absolutely is, Justice O'Connor, but--"
+2005.04-623,0,15092,sandra_day_oconnor,scotus_justice,917.195,930.573,"And there is nothing express in the statute suggesting that it's designed to put in the hands of the Federal Government or the Attorney General the regulation of the practice of medicine, is there?"
+2005.04-623,0,37772,paul_d_clement,,930.573,936.67,"--Justice O'Connor, there's nothing that says we want to take over the regulation of medicine, but it's crystal clear--"
+2005.04-623,0,15092,sandra_day_oconnor,scotus_justice,936.67,943.5,"Well, and there were two attempts, were there not, to get legislation passed to do this expressly in Congress, and they failed?"
+2005.04-623,0,37772,paul_d_clement,,943.5,947.692,"--Well, yes, but I think this Court is always hesitant to draw inferences from--"
+2005.04-623,0,15092,sandra_day_oconnor,scotus_justice,947.692,947.772,Yes.
+2005.04-623,0,37772,paul_d_clement,,947.772,949.116,--failed legislative efforts.
+2005.04-623,0,15092,sandra_day_oconnor,scotus_justice,949.757,950.038,Yes.
+2005.04-623,0,37772,paul_d_clement,,950.038,954.811,"--the Attorney General had not adopted this interpretation, it may be that this Congress would have passed those initiatives--"
+2005.04-623,0,15092,sandra_day_oconnor,scotus_justice,954.811,954.973,And a prior Attorney General had a different interpretation.
+2005.04-623,0,37772,paul_d_clement,,954.973,962.234,--And the prior administer of the DEA before that had our position.
+2005.04-623,0,15092,sandra_day_oconnor,scotus_justice,980.825,981.286,"Yeah, but--"
+2005.04-623,0,37772,paul_d_clement,,981.286,981.286,--since the very--
+2005.04-623,0,15092,sandra_day_oconnor,scotus_justice,981.286,988.206,"--are these... are these drugs classified as illegal, for all purposes?"
+2005.04-623,0,37772,paul_d_clement,,988.206,988.607,--Not for all--
+2005.04-623,0,15092,sandra_day_oconnor,scotus_justice,988.607,988.837,No.
+2005.04-623,0,37772,paul_d_clement,,988.837,991.775,"--purposes, but they are highly classified, highly controlled substances."
+2005.04-623,0,15092,sandra_day_oconnor,scotus_justice,1021.411,1021.571,"Yeah, but it's a--"
+2005.04-623,0,37772,paul_d_clement,,1021.571,1021.411,--Harrison Act.
+2005.04-623,0,15092,sandra_day_oconnor,scotus_justice,1021.702,1021.411,"--it's a different thing to regulate by saying,"
+2005.04-623,0,37772,paul_d_clement,,1043.564,1047.263,"Justice O'Connor, I can't tell you there isn't a difference between the treatment of schedule 1 substances--"
+2005.04-623,0,15092,sandra_day_oconnor,scotus_justice,1047.263,1047.263,Yeah.
+2005.04-623,0,37772,paul_d_clement,,1047.263,1058.907,"--that are just verboten for all purposes and schedule 2 substances, but the regulation of Federal controlled substances in the Harrison Act has always focused on drugs that have some lawful medical uses but are--"
+2005.04-623,0,15086,john_g_roberts_jr,scotus_justice,1058.907,1060.001,What--
+2005.04-623,0,37772,paul_d_clement,,1060.001,1060.802,--also susceptible to abuse.
+2005.04-623,0,15086,john_g_roberts_jr,scotus_justice,1060.802,1071.462,"--what is the closest analog you have, outside of the present case, where the Attorney General's enforcement activity has impinged upon what the State has recognized as medical practice?"
+2005.04-623,0,37772,paul_d_clement,,1071.462,1076.908,"Well, I think I would... I mean, I... I guess I would do two answers to that, Mr.--"
+2005.04-623,0,15086,john_g_roberts_jr,scotus_justice,1107.817,1108.057,"Well, that's the FDA."
+2005.04-623,0,37772,paul_d_clement,,1110.605,1129.802,"--Well, then I think I would... I mean, I... I'm not sure I can point to a decision by the Attorney General, but I think it's... in the structure of this Act... obviously the schedule 1 treatment of marijuana that this Court had before it in the Raich case, involved a situation where the Act clearly displaced the medical judgments of California and nine other States--"
+2005.04-623,0,15042,david_h_souter,scotus_justice,1129.802,1130.003,"No, but--"
+2005.04-623,0,37772,paul_d_clement,,1130.003,1130.927,--who recognized--
+2005.04-623,0,15042,david_h_souter,scotus_justice,1130.927,1132.139,--that was a clear act of Congress.
+2005.04-623,0,37772,paul_d_clement,,1203.711,1210.741,"--Well, Justice Souter, I think you have to look at the regulation of drug abuse and ask, To what end was Congress regulating these substances?"
+2005.04-623,0,15042,david_h_souter,scotus_justice,1210.741,1221.16,"Well, and I... as I said, it seems to me that your 91 years of history say that the end that Congress had in mind was to stop drug pushing and stop conventional drug abuse."
+2005.04-623,0,37772,paul_d_clement,,1231.621,1245.169,"Well, Justice Souter, what I would say is, what Congress had in mind in enacting these substances is, they were concerned about drug abuse, not for its own sake, but for the debilitating effect it has on people's lives, for its tendency to destroy lives."
+2005.04-623,0,15042,david_h_souter,scotus_justice,1271.918,1276.04,Suicide is a result of the kind of dementia that comes from drug abuse.
+2005.04-623,0,37772,paul_d_clement,,1283.481,1285.686,"--Well, Congress didn't specify, one way or another."
+2005.04-623,0,15060,john_paul_stevens,scotus_justice,1306.327,1309.436,"General, then may I just ask this question?"
+2005.04-623,0,37772,paul_d_clement,,1345.483,1361.671,"--Well, Justice Stevens, I mean, I... first of all, I would say, as it compared to Raich, I would almost think this is an a fortiori case, as it affects commerce, because, unlike Raich, which, of course, were untraditional noncommercial transactions, the transactions at issue here are standard commercial transactions that are--"
+2005.04-623,0,15060,john_paul_stevens,scotus_justice,1361.671,1362.643,But are they--
+2005.04-623,0,37772,paul_d_clement,,1362.643,1362.823,--well within--
+2005.04-623,0,15060,john_paul_stevens,scotus_justice,1362.823,1368.419,"--are they transactions that have any impact on any market, any commercial market, that Congress ever mentioned?"
+2005.04-623,0,37772,paul_d_clement,,1368.419,1369.661,--I think they do.
+2005.04-623,0,15139,stephen_g_breyer,scotus_justice,1437.17,1442.596,"Why were... you were going to say, at one point... why was Congress concerned about overdoses of narcotics and so forth?"
+2005.04-623,0,37772,paul_d_clement,,1442.866,1452.695,"I think they were concerned with it part and parcel of... because, I mean, I think of the things that Congress does when it regulates is, it regulates to protect life, to protect health and safety--"
+2005.04-623,0,15139,stephen_g_breyer,scotus_justice,1452.695,1456.524,"But, I mean, there was a reason, wasn't there, that they're worried about people taking narcotics?"
+2005.04-623,0,37772,paul_d_clement,,1456.524,1457.998,"--I mean, sure--"
+2005.04-623,0,15139,stephen_g_breyer,scotus_justice,1457.998,1458.198,Right.
+2005.04-623,0,37772,paul_d_clement,,1458.198,1458.539,--there are.
+2005.04-623,0,15139,stephen_g_breyer,scotus_justice,1458.99,1459.523,Right.
+2005.04-623,0,37772,paul_d_clement,,1459.713,1460.394,And they're worried about the impact--
+2005.04-623,0,15139,stephen_g_breyer,scotus_justice,1460.394,1462.441,--I would have thought it was narcotics addiction.
+2005.04-623,0,37772,paul_d_clement,,1462.441,1464.596,"--Well, I think it is, but, again, I think--"
+2005.04-623,0,15139,stephen_g_breyer,scotus_justice,1464.596,1464.766,All right.
+2005.04-623,0,37772,paul_d_clement,,1465.87,1467.004,--But not solely.
+2005.04-623,0,15139,stephen_g_breyer,scotus_justice,1467.004,1467.524,--and I would have thought that was it--
+2005.04-623,0,37772,paul_d_clement,,1467.524,1468.418,"No, not solely."
+2005.04-623,0,15139,stephen_g_breyer,scotus_justice,1468.418,1468.578,--All right.
+2005.04-623,0,37772,paul_d_clement,,1475.073,1474.64,Not solely.
+2005.04-623,0,15139,stephen_g_breyer,scotus_justice,1482.794,1483.405,Right.
+2005.04-623,0,37772,paul_d_clement,,1483.405,1484.176,--to destroy lives--
+2005.04-623,0,15139,stephen_g_breyer,scotus_justice,1484.176,1484.376,Yes.
+2005.04-623,0,37772,paul_d_clement,,1486.161,1488.536,"--Well, no, I don't think that's right, Justice Breyer."
+2005.04-623,0,15139,stephen_g_breyer,scotus_justice,1488.536,1488.919,--No?
+2005.04-623,0,37772,paul_d_clement,,1488.919,1495.94,I think there are a number of instances where the abuse that is being... that Congress is concerned with is not solely the addictive abuse.
+2005.04-623,0,15042,david_h_souter,scotus_justice,1520.28,1540.318,"Yeah, but even in your example, the concern of Congress is with the use of the drug to hurt people who do not understand that they're going to be hurt, and don't want to be hurt, and perhaps, in your example, the use of the drug to facilitate the violation of the law, that seems to me worlds away from what we're talking about here."
+2005.04-623,0,37772,paul_d_clement,,1540.318,1547.438,"Well, Justice Souter, I would simply say that the Controlled Substances Act, if you look at it, is a very paternalistic piece of legislation."
+2005.04-623,0,15086,john_g_roberts_jr,scotus_justice,1552.431,1554.528,"Thank you, General Clement."
+2005.04-623,1,38560,robert_moorehead_atkinson,,1556.012,1561.628,"Mr. Chief Justice, and may it please the Court--"
+2005.04-623,1,15092,sandra_day_oconnor,scotus_justice,1570.554,1572.681,"Would you speak up just a little, please?"
+2005.04-623,1,38560,robert_moorehead_atkinson,,1572.681,1573.683,"--I'm sorry, Your Honor, I will."
+2005.04-623,1,15049,antonin_scalia,scotus_justice,1573.683,1575.327,Maybe elevate your... the microphone.
+2005.04-623,1,15092,sandra_day_oconnor,scotus_justice,1575.327,1577.052,Maybe you could raise the podium.
+2005.04-623,1,15049,antonin_scalia,scotus_justice,1577.052,1577.313,You're too tall. [Laughter]
+2005.04-623,1,38560,robert_moorehead_atkinson,,1577.313,1580.471,"I'll work on that, Your Honor."
+2005.04-623,1,15084,ruth_bader_ginsburg,scotus_justice,1580.471,1580.571,Raise it up.
+2005.04-623,1,15092,sandra_day_oconnor,scotus_justice,1580.571,1584.581,"No, that... the crank will raise it, if you... no, the other way around."
+2005.04-623,1,38560,robert_moorehead_atkinson,,1588.201,1588.873,"Yes, Your Honor."
+2005.04-623,1,15086,john_g_roberts_jr,scotus_justice,1599.363,1604.016,"--Well, the relationship between the States and the Federal Government has changed a little since Gibbons versus Ogden."
+2005.04-623,1,38560,robert_moorehead_atkinson,,1604.077,1606.291,"--That's certainly true, Your Honor."
+2005.04-623,1,15086,john_g_roberts_jr,scotus_justice,1623.471,1633.069,"Well, that begs the question... if you had said ""this specific subject"", the regulation of controlled substances, your answer would have come out the other way, which is kind of what the case is about."
+2005.04-623,1,38560,robert_moorehead_atkinson,,1633.069,1633.831,I agree.
+2005.04-623,1,15139,stephen_g_breyer,scotus_justice,1653.259,1655.795,"Yes, because, I mean, wouldn't... suppose that some State said that,"
+2005.04-623,1,38560,robert_moorehead_atkinson,,1663.188,1669.637,"--Your Honor, there are a number of limits clear in the Controlled Substances Act."
+2005.04-623,1,15139,stephen_g_breyer,scotus_justice,1683.387,1683.588,No matter what?
+2005.04-623,1,38560,robert_moorehead_atkinson,,1709.771,1712.339,"Certainly, the State could stop it, yes."
+2005.04-623,1,15139,stephen_g_breyer,scotus_justice,1712.87,1712.87,No.
+2005.04-623,1,15049,antonin_scalia,scotus_justice,1712.87,1713.571,"No, it didn't ""stop it""--"
+2005.04-623,1,38560,robert_moorehead_atkinson,,1713.571,1713.791,--But that--
+2005.04-623,1,15049,antonin_scalia,scotus_justice,1713.791,1715.206,--but could the State allow it?
+2005.04-623,1,38560,robert_moorehead_atkinson,,1715.206,1715.646,--Yes.
+2005.04-623,1,15049,antonin_scalia,scotus_justice,1715.646,1719.345,"And if the State allowed it, the Federal Government would have to allow the drugs to be used for that purpose--"
+2005.04-623,1,38560,robert_moorehead_atkinson,,1719.345,1719.869,Well--
+2005.04-623,1,15049,antonin_scalia,scotus_justice,1719.869,1720.029,--you're saying.
+2005.04-623,1,38560,robert_moorehead_atkinson,,1720.029,1723.057,--there are a number of limits in the text of the Act itself.
+2005.04-623,1,15049,antonin_scalia,scotus_justice,1736.785,1758.911,"I would have thought that at the time this legislation was enacted, it would have been as unthinkable for a State to allow drugs to be used... to be prescribed by a doctor to kill a patient as it would be for drugs to be subscribed by a doctor to make the patient feel better."
+2005.04-623,1,38560,robert_moorehead_atkinson,,1758.911,1760.776,"Your Honor, many drugs--"
+2005.04-623,1,15049,antonin_scalia,scotus_justice,1760.776,1770.584,"I mean, I think that assisted suicide would have been as unthinkable at the time this was enacted as prescribing cocaine just for recreational use."
+2005.04-623,1,38560,robert_moorehead_atkinson,,1770.584,1780.573,--We don't suggest that Congress had physician assisted dying specifically in mind at the time that it enacted the Controlled Substances Act.
+2005.04-623,1,15084,ruth_bader_ginsburg,scotus_justice,1791.293,1800.852,"But you agree... you... in answer to Justice Breyer's question, he mentioned a drug that was a schedule 1 drug, morphine."
+2005.04-623,1,38560,robert_moorehead_atkinson,,1803.178,1803.628,I'm sorry--
+2005.04-623,1,15084,ruth_bader_ginsburg,scotus_justice,1803.628,1803.628,--perhaps it isn't--
+2005.04-623,1,38560,robert_moorehead_atkinson,,1803.628,1805.884,"--I think it is a schedule 2 drug, Your Honor."
+2005.04-623,1,15084,ruth_bader_ginsburg,scotus_justice,1805.884,1806.435,--It's schedule 2 drug.
+2005.04-623,1,38560,robert_moorehead_atkinson,,1806.435,1806.955,Yes.
+2005.04-623,1,15084,ruth_bader_ginsburg,scotus_justice,1814.096,1819.66,"But are you saying that if the doctor is using it, saying,"
+2005.04-623,1,38560,robert_moorehead_atkinson,,1831.073,1832.878,"I don't think so, Your Honor."
+2005.04-623,1,15084,ruth_bader_ginsburg,scotus_justice,1842.967,1850.117,"But I thought the idea of Moore was, if you're using this, the doctor is prescribing the drug as a pusher."
+2005.04-623,1,38560,robert_moorehead_atkinson,,1850.117,1851.599,--That's correct.
+2005.04-623,1,15086,john_g_roberts_jr,scotus_justice,1852.916,1869.475,"Well, but let's... but the supposition is that the State legal judgment is that that's the wrong characterization, that it's legitimate medical practice to make patients feel better, and morphine does that; and so, the State can allow them to prescribe morphine to make people feel better."
+2005.04-623,1,38560,robert_moorehead_atkinson,,1872.875,1873.799,--Yes.
+2005.04-623,1,15086,john_g_roberts_jr,scotus_justice,1873.799,1875.353,That could not... that's not prohibited under the Controlled--
+2005.04-623,1,38560,robert_moorehead_atkinson,,1875.353,1875.854,That is--
+2005.04-623,1,15086,john_g_roberts_jr,scotus_justice,1875.854,1875.854,--Substances Act.
+2005.04-623,1,38560,robert_moorehead_atkinson,,1875.854,1885.742,--that is not prohibited under the Controlled Substances Act if the doctor was acting consistent with the specific terms of the Act and the specific terms of the State statutes.
+2005.04-623,1,15092,sandra_day_oconnor,scotus_justice,1885.742,1902.671,And you say the Attorney General of the United States could not deem it to be drug abuse under the Act if a State allowed that for recreational use or to cure depression or... How about steroids for bodybuilders +/?
+2005.04-623,1,38560,robert_moorehead_atkinson,,1910.123,1922.943,"As the term U.S. Attorney General is authorized to make, and required to make."
+2005.04-623,1,15092,sandra_day_oconnor,scotus_justice,1927.393,1930.391,"Well, I don't know that I understand your answer."
+2005.04-623,1,38560,robert_moorehead_atkinson,,1950.66,1955.573,--Not if it is permitted by... and regulated by State law.
+2005.04-623,1,15139,stephen_g_breyer,scotus_justice,1955.573,1961.197,"Suppose I disagreed with you about that, then would you lose the case?"
+2005.04-623,1,38560,robert_moorehead_atkinson,,1961.197,1963.445,"I would certainly lose ground, Your Honor."
+2005.04-623,1,15139,stephen_g_breyer,scotus_justice,1963.747,1975.241,"I'm asking, if I disagreed with you that I thought... we take the facts of Moore, where he's a drug pusher, the doctor, and, for some unknown reason, the State says,"
+2005.04-623,1,38560,robert_moorehead_atkinson,,1997.745,2010.051,"Well, first of all, we don't think, Justice Breyer, that what the U.S. Attorney General is attempting to do here is reasonable within the scope of whatever authority he has."
+2005.04-623,1,15086,john_g_roberts_jr,scotus_justice,2038.864,2043.577,What does that do to the effectiveness of regulation under the Controlled Substances Act?
+2005.04-623,1,38560,robert_moorehead_atkinson,,2057.176,2059.542,"I don't believe it does, Mr.--"
+2005.04-623,1,15086,john_g_roberts_jr,scotus_justice,2075.739,2075.739,"Well, that may or--"
+2005.04-623,1,38560,robert_moorehead_atkinson,,2075.739,2075.911,--of the States.
+2005.04-623,1,15086,john_g_roberts_jr,scotus_justice,2075.911,2076.411,--may not be true.
+2005.04-623,1,38560,robert_moorehead_atkinson,,2090.871,2103.639,"Well, I don't think the Federal Government is supposed to enforce that prohibition if the prohibition... if we're dealing with a schedule 2, 3, or 4 or 5 substance."
+2005.04-623,1,15086,john_g_roberts_jr,scotus_justice,2123.708,2126.304,I'm trying to get at the specific enforcement point.
+2005.04-623,1,38560,robert_moorehead_atkinson,,2130.796,2131.297,Yes.
+2005.04-623,1,15086,john_g_roberts_jr,scotus_justice,2131.297,2137.333,"--recreational purposes, how is the Federal Government supposed to enforce the prohibition on that elsewhere?"
+2005.04-623,1,38560,robert_moorehead_atkinson,,2137.333,2145.135,"Well, there is no... well, the Congress can prescribe... can enforce it in any State in which it is not authorized by State law."
+2005.04-623,1,15042,david_h_souter,scotus_justice,2154.985,2165.855,"But are you saying, in response to the Chief Justice's question, that, in fact, Congress, itself, could not explicitly pass a statute that says,"
+2005.04-623,1,38560,robert_moorehead_atkinson,,2172.563,2174.067,"Not at all, Justice Souter."
+2005.04-623,1,15042,david_h_souter,scotus_justice,2174.067,2174.099,--All right.
+2005.04-623,1,38560,robert_moorehead_atkinson,,2174.79,2175.261,"No, not--"
+2005.04-623,1,15042,david_h_souter,scotus_justice,2175.261,2175.371,--constitutional--
+2005.04-623,1,38560,robert_moorehead_atkinson,,2175.371,2175.551,--at all.
+2005.04-623,1,15042,david_h_souter,scotus_justice,2175.551,2175.691,--argument.
+2005.04-623,1,38560,robert_moorehead_atkinson,,2178.137,2179.844,We're sticking to the statutory argument.
+2005.04-623,1,15042,david_h_souter,scotus_justice,2179.844,2180.014,Okay.
+2005.04-623,1,15049,antonin_scalia,scotus_justice,2180.014,2186.301,"Which comes down to an argument that ""accepted medical practice"" means accepted medical practice State by State--"
+2005.04-623,1,38560,robert_moorehead_atkinson,,2186.301,2187.676,That's correct.
+2005.04-623,1,15049,antonin_scalia,scotus_justice,2187.676,2207.344,"--rather than on some uniform basis. Do you have any other area, regarding the enforcement of this Act, where the drug is allowed, or not allowed, to be used on the basis of divergent views of medical practice by divergent States?"
+2005.04-623,1,38560,robert_moorehead_atkinson,,2207.344,2211.165,There are any number of areas in which--
+2005.04-623,1,15049,antonin_scalia,scotus_justice,2211.165,2211.376,Such as?
+2005.04-623,1,38560,robert_moorehead_atkinson,,2211.376,2212.187,--States diverge.
+2005.04-623,1,15049,antonin_scalia,scotus_justice,2219.879,2220.62,In palliative care?
+2005.04-623,1,38560,robert_moorehead_atkinson,,2231.432,2241.312,"--In some States, a prescription would violate State law; and in other cases, in other States, that same prescription would not."
+2005.04-623,1,15049,antonin_scalia,scotus_justice,2241.312,2244.19,Would it violate the Federal law in those other States?
+2005.04-623,1,38560,robert_moorehead_atkinson,,2244.19,2252.425,"It would if the... if the prescription violated the State law, the U.S. Attorney General could take action against the physician."
+2005.04-623,1,15049,antonin_scalia,scotus_justice,2252.425,2252.855,Oh.
+2005.04-623,1,38560,robert_moorehead_atkinson,,2266.103,2267.468,"That's exactly correct, Justice--"
+2005.04-623,1,15049,antonin_scalia,scotus_justice,2267.468,2275.582,"Does this have to be reflected in the State medical board determinations, or just in what the... what the doctors in that region tend to think is a good idea?"
+2005.04-623,1,38560,robert_moorehead_atkinson,,2275.582,2286.826,"--Your Honor, what we believe is that what Congress did in enacting the Controlled Substances Act was leave those decisions to the States to enforce according to their traditional methods."
+2005.04-623,1,15049,antonin_scalia,scotus_justice,2296.465,2304.197,Any cases that you can think of where the same prescription has been held okay in one State and not okay in another State?
+2005.04-623,1,38560,robert_moorehead_atkinson,,2304.197,2314.817,"Your Honor, we're not aware of any cases in which the U.S. Attorney General has ever attempted to deregister or to prosecute a doctor who was acting in accordance with State law."
+2005.04-623,1,15060,john_paul_stevens,scotus_justice,2331.066,2331.066,"Yes, but the--"
+2005.04-623,1,38560,robert_moorehead_atkinson,,2331.066,2332.528,--of the Controlled Substances Act.
+2005.04-623,1,15060,john_paul_stevens,scotus_justice,2332.528,2337.143,"--statute goes beyond the State law, the five factors, you know, on the... justify the--"
+2005.04-623,1,38560,robert_moorehead_atkinson,,2337.143,2332.528,Yes.
+2005.04-623,1,15060,john_paul_stevens,scotus_justice,2337.334,2332.528,--revocation.
+2005.04-623,1,38560,robert_moorehead_atkinson,,2350.379,2358.863,"Justice Stevens, we think that the best reading of the five factors is that they continue to respect State laws."
+2005.04-623,1,15086,john_g_roberts_jr,scotus_justice,2410.13,2417.611,"Well, what do you do with regulation 1306, which... the one that, of course, talks about ""legitimate medical purpose""?"
+2005.04-623,1,38560,robert_moorehead_atkinson,,2427.376,2431.849,"Well, we think there's... there are two answers to that, Chief... Mr. Chief Justice."
+2005.04-623,1,15086,john_g_roberts_jr,scotus_justice,2484.886,2486.632,You had a--
+2005.04-623,1,15049,antonin_scalia,scotus_justice,2486.632,2487.113,The--
+2005.04-623,1,15086,john_g_roberts_jr,scotus_justice,2487.113,2487.804,--second answer?
+2005.04-623,1,38560,robert_moorehead_atkinson,,2487.804,2488.497,Excuse me?
+2005.04-623,1,15086,john_g_roberts_jr,scotus_justice,2488.497,2489.058,I'm sorry.
+2005.04-623,1,38560,robert_moorehead_atkinson,,2490.131,2491.473,That's all right.
+2005.04-623,1,15049,antonin_scalia,scotus_justice,2488.497,2503.479,"--Mr. Atkinson, you've spent most of your time talking about the statute and the regulations."
+2005.04-623,1,38560,robert_moorehead_atkinson,,2509.957,2512.052,"We do, Your Honor."
+2005.04-623,1,15049,antonin_scalia,scotus_justice,2536.672,2539.017,But why would it raise a significant constitutional question?
+2005.04-623,1,38560,robert_moorehead_atkinson,,2575.089,2576.894,"No, I wouldn't say that--"
+2005.04-623,1,15049,antonin_scalia,scotus_justice,2576.894,2583.984,"So, are those... are those entries of the Federal Government into the regulation of drinking age, are they unconstitutional--"
+2005.04-623,1,38560,robert_moorehead_atkinson,,2583.984,2585.115,"--No, Justice Scalia."
+2005.04-623,1,15049,antonin_scalia,scotus_justice,2585.115,2587.273,--or do they raise serious constitutional questions?
+2005.04-623,1,38560,robert_moorehead_atkinson,,2587.273,2588.256,"No, they don't, Justice Scalia."
+2005.04-623,1,15049,antonin_scalia,scotus_justice,2588.256,2588.787,"Well, why does this one?"
+2005.04-623,1,38560,robert_moorehead_atkinson,,2589.701,2597.956,"The difference here is simply that there... the amounts, as was suggested earlier, are so minute that there cannot be any significant effect on interstate commerce."
+2005.04-623,1,15049,antonin_scalia,scotus_justice,2613.21,2618.244,"--Well, if ten States adopted assisted suicide, it might be a different... a different--"
+2005.04-623,1,38560,robert_moorehead_atkinson,,2618.244,2618.666,--Once again--
+2005.04-623,1,15049,antonin_scalia,scotus_justice,2618.666,2619.167,--constitutional--
+2005.04-623,1,38560,robert_moorehead_atkinson,,2619.167,2619.638,"--Your Honor, in--"
+2005.04-623,1,15049,antonin_scalia,scotus_justice,2619.638,2618.244,--question.
+2005.04-623,1,38560,robert_moorehead_atkinson,,2618.244,2625.425,"--in Oregon's experience, we have a small number of people, most of whom consume the drug."
+2005.04-623,1,15139,stephen_g_breyer,scotus_justice,2631.724,2635.013,Would you spend a minute--
+2005.04-623,1,15113,anthony_m_kennedy,scotus_justice,2635.013,2649.905,The statute gives the Attorney General authority to promulgate regulations for the dispensing of drug... 821... and that seems to me to describe precisely what the Attorney General has done here.
+2005.04-623,1,38560,robert_moorehead_atkinson,,2649.905,2654.519,"I can't disagree with that, Justice Kennedy."
+2005.04-623,1,15113,anthony_m_kennedy,scotus_justice,2696.991,2697.702,"Well, it seems to me--"
+2005.04-623,1,38560,robert_moorehead_atkinson,,2697.702,2697.933,--schedule 1.
+2005.04-623,1,15113,anthony_m_kennedy,scotus_justice,2697.933,2705.033,--very odd to have a regulation on dispensing that takes no account of the purpose for which the drug is being used.
+2005.04-623,1,38560,robert_moorehead_atkinson,,2705.033,2721.853,"Well, we think it's somewhat odder, frankly, Justice Kennedy, to suggest that Congress intended to authorize a single unelected Federal official to decide, in his sole and apparently unreviewable discretion, that this medical practice, of which he disapproves, may not be--"
+2005.04-623,1,15113,anthony_m_kennedy,scotus_justice,2721.853,2722.704,"Well, but I give--"
+2005.04-623,1,38560,robert_moorehead_atkinson,,2722.704,2722.855,--followed.
+2005.04-623,1,15113,anthony_m_kennedy,scotus_justice,2722.855,2726.014,"--you a statutory reference, and then you tell me about something else."
+2005.04-623,1,38560,robert_moorehead_atkinson,,2726.014,2748.921,"Well, no, I... we agree that he gets to authorize regulations on dispensation... to require, for example, that there be prescriptions before it be dispensed, that physicians shall follow certain rules and regulations before they dispense, and those are the kinds of things on which we agree he has the authority to engage in rulemaking and to... and to promulgate uniform--"
+2005.04-623,1,15139,stephen_g_breyer,scotus_justice,2748.921,2754.114,"--I'm sorry, on that, I didn't think that the reg was defining the word ""dispense""."
+2005.04-623,1,38560,robert_moorehead_atkinson,,2803.69,2805.104,"--No, I think that's absolutely right."
+2005.04-623,1,15139,stephen_g_breyer,scotus_justice,2813.999,2825.373,"On the matter of policy, I would... since... if you... if you've said basically what you want to say in your argument, I would appreciate your devoting a minute to an assumption which you don't want to agree with."
+2005.04-623,1,38560,robert_moorehead_atkinson,,2853.336,2854.992,It could.
+2005.04-623,1,15139,stephen_g_breyer,scotus_justice,2854.992,2860.868,"Now, suppose I think that the AG does have the power to stop Congress from gutting the Act."
+2005.04-623,1,38560,robert_moorehead_atkinson,,2869.494,2869.925,No.
+2005.04-623,1,15139,stephen_g_breyer,scotus_justice,2869.925,2871.369,"And if not, why not?"
+2005.04-623,1,38560,robert_moorehead_atkinson,,2871.369,2875.801,"There are at least two reasons for that, Justice Breyer."
+2005.04-623,1,15139,stephen_g_breyer,scotus_justice,2879.471,2885.198,"Suppose, on the commerce clause question, I... on assumption, I don't agree with you, either... then do I have to decide?"
+2005.04-623,1,38560,robert_moorehead_atkinson,,2885.508,2888.889,--I'm starting to be backed into a corner.
+2005.04-623,1,15049,antonin_scalia,scotus_justice,2909.322,2909.532,I would--
+2005.04-623,1,15139,stephen_g_breyer,scotus_justice,2909.532,2925.91,"Far be it from me to suggest an argument that you don't want to make, but, I mean, I've found it different, in life and law, when you pass a rule in a State that guts an Act, from when you pass the rule in a State that doesn't seem to have much to do with the purpose of the Act."
+2005.04-623,1,38560,robert_moorehead_atkinson,,2925.91,2929.419,"Well, I certainly would not disagree with that in--"
+2005.04-623,1,15049,antonin_scalia,scotus_justice,2929.419,2929.89,"--Yes, you would."
+2005.04-623,1,38560,robert_moorehead_atkinson,,2952.216,2952.959,--That is correct.
+2005.04-623,1,15049,antonin_scalia,scotus_justice,2952.959,2957.021,But the Act does not refer to any overall Federal accepted medical practice.
+2005.04-623,1,38560,robert_moorehead_atkinson,,2973.488,2979.663,"I wasn't anxious to accept it, Justice Scalia, but I--"
+2005.04-623,1,15084,ruth_bader_ginsburg,scotus_justice,2989.742,3000.203,"May I ask you, in... Mr. Atkinson, in response to the question you were just asked, you said there were procedural problems, no notice in comment."
+2005.04-623,1,38560,robert_moorehead_atkinson,,3002.921,3003.742,--That's--
+2005.04-623,1,15084,ruth_bader_ginsburg,scotus_justice,3003.742,3004.676,"How about the ""who""?"
+2005.04-623,1,38560,robert_moorehead_atkinson,,3028.112,3045.385,"--Justice Ginsburg, I can't answer that question in specific respect to this case, because there is no authority in the Controlled Substances Act for anyone to do what has been done here... that is, to focus on the specific medical practice and say, ""No controlled substance""--"
+2005.04-623,1,15084,ruth_bader_ginsburg,scotus_justice,3045.385,3046.206,But you made--
+2005.04-623,1,38560,robert_moorehead_atkinson,,3046.206,3046.206,"--""# can be used for""--"
+2005.04-623,1,15084,ruth_bader_ginsburg,scotus_justice,3046.206,3052.233,"--you made a point earlier that the Attorney General has never done this before, has never said,"
+2005.04-623,1,38560,robert_moorehead_atkinson,,3066.104,3066.658,--That's correct.
+2005.04-623,1,15084,ruth_bader_ginsburg,scotus_justice,3066.658,3067.429,--use a drug.
+2005.04-623,1,38560,robert_moorehead_atkinson,,3072.843,3073.126,Yes.
+2005.04-623,1,15084,ruth_bader_ginsburg,scotus_justice,3106.612,3112.319,"Who... the consultation, you said, was not with HHS, and it wasn't with Oregon?"
+2005.04-623,1,38560,robert_moorehead_atkinson,,3116.59,3121.012,"To the best of our knowledge, it was solely done within the Department of Justice."
+2005.04-623,1,15060,john_paul_stevens,scotus_justice,3121.012,3133.77,May ask this question concerning the... Justice Scalia's suggestion that you're insisting the States would have the authority to act independently of a congressional prohibition against the use of a substance to make people happy and so forth.
+2005.04-623,1,38560,robert_moorehead_atkinson,,3140.018,3141.994,"That's exactly right, Justice Stevens."
+2005.04-623,1,15060,john_paul_stevens,scotus_justice,3141.994,3146.367,"Which is the opposite of the case that Justice Scalia point, where the Congress has spoken to the issue."
+2005.04-623,1,38560,robert_moorehead_atkinson,,3146.367,3150.939,"And there are circumstances in which it has, and those in which it has not."
+2005.04-623,1,15086,john_g_roberts_jr,scotus_justice,3180.392,3187.672,"Well, but in 1971 Congress didn't assume the States were going to pass legislation for use of drugs to assist with suicide, either."
+2005.04-623,1,38560,robert_moorehead_atkinson,,3187.672,3190.358,"--No, that's certainly true, Mr. Chief Justice."
+2005.04-623,1,15049,antonin_scalia,scotus_justice,3214.899,3221.016,These are all different manners of assisting people to stay alive or assisting people to feel better.
+2005.04-623,1,38560,robert_moorehead_atkinson,,3228.587,3231.766,"--Justice Scalia, I have to disagree."
+2005.04-623,1,15049,antonin_scalia,scotus_justice,3252.495,3252.786,I don't deny that.
+2005.04-623,1,38560,robert_moorehead_atkinson,,3272.775,3287.639,"--I don't think that it would have occurred to them either, Justice Scalia, but I do think what occurred to them was that that was a matter that, like any other matter dealing with the regulation of medical practice, the States could be trusted to act responsibly."
+2005.04-623,1,15042,david_h_souter,scotus_justice,3293.856,3329.492,"But I take it you would agree that, in effect, all you need to win on the statutory argument is for us to accept the premise that Congress may very well have intended to interfere with the practice of medicine and to authorize the Attorney General to do it, insofar as the practice of medicine would have gutted the statute... e.g., doctors who prescribe recreational drugs, doctors who, in effect, cater to pushers... but that Congress did not intend to go any further than that in authorizing interference with the practice of medicine."
+2005.04-623,1,38560,robert_moorehead_atkinson,,3335.298,3337.042,That's absolutely true.
+2005.04-623,1,15042,david_h_souter,scotus_justice,3337.042,3337.262,Okay.
+2005.04-623,1,38560,robert_moorehead_atkinson,,3337.262,3353.661,"That's absolutely true, Justice Souter. But... this case is obviously about statutory construction, but it's about statutory construction in a very special area, and that is the area of federalism, of the relationship between the sovereign States and the Federal Government."
+2005.04-623,1,15086,john_g_roberts_jr,scotus_justice,3364.352,3365.155,"Thank you, Counsel."
+2005.04-623,2,37772,paul_d_clement,,3370.669,3373.73,"Mr. Chief Justice, and may it please the Court--"
+2005.04-623,2,15049,antonin_scalia,scotus_justice,3428.4,3431.349,But what about gutting? Never mind Mr. Atkinson's argument.
+2005.04-623,2,37772,paul_d_clement,,3432.672,3442.722,"Well, it's an odd statutory... I mean, I'm not familiar with the... with the principle that the Federal authority only extends to prevent that which would gut the statute, and no further."
+2005.04-623,2,15086,john_g_roberts_jr,scotus_justice,3460.886,3462.4,At the time--
+2005.04-623,2,37772,paul_d_clement,,3462.4,3462.59,--controlled substances.
+2005.04-623,2,15086,john_g_roberts_jr,scotus_justice,3462.59,3472.308,"--at the time this statute was passed to deal with lax State treatment of opium, was opium regulated as part of medical practice in any of the States?"
+2005.04-623,2,37772,paul_d_clement,,3472.308,3474.052,"It was, Mr. Chief Justice."
+2005.04-623,2,15113,anthony_m_kennedy,scotus_justice,3498.01,3501.269,"Was the impact profound because they were in what's now schedule 1, that they were just prohibited?"
+2005.04-623,2,37772,paul_d_clement,,3504.74,3505.271,They were.
+2005.04-623,2,15060,john_paul_stevens,scotus_justice,3519.784,3531.878,"May I ask you this question? If the Attorney General determined that acupuncture was conduct that threatened the public health and safety, could he delicense, or revoke, the license of doctors who engaged in acupuncture?"
+2005.04-623,2,37772,paul_d_clement,,3531.878,3533.444,"I don't think so, Justice Stevens."
+2005.04-623,2,15086,john_g_roberts_jr,scotus_justice,3633.982,3634.273,"Thank you, General Clement."

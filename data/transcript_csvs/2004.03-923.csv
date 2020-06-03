@@ -1,0 +1,293 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2004.03-923,0,15060,john_paul_stevens,scotus_justice,0.0,5.739,We will now hear argument in Illinois against Caballes.
+2004.03-923,0,34819,lisa_madigan,,6.937,11.107,"Thank you, Justice Stevens, and may it please the Court:"
+2004.03-923,0,15042,david_h_souter,scotus_justice,30.881,34.884,"Well, we've held that it's certainly not a... a full-blown search."
+2004.03-923,0,34819,lisa_madigan,,65.803,83.059,"Well, this Court made clear in Arizona v. Hicks that it did not want to go down the road of creating something known as a quasi-search so that courts and police officers would be in the position of trying to determine whether or not something was a search or not."
+2004.03-923,0,15042,david_h_souter,scotus_justice,83.059,121.985,"Oh, I... I can... I can just imagine the problems, but I mean, what... I think what's... what the... what's bothering me about the case is that if we persist in... in saying that... that it's... that it's an either and or question with no question with no possible gradation, then I assume nothing prevents the police from taking the dogs through every municipal garage in the United States and I suppose there's nothing that prevents the police from taking the dogs up to any homeowner's door, ringing the bell, and seeing if the dog gets a sniff of something when the door is opened."
+2004.03-923,0,34819,lisa_madigan,,137.672,165.082,"Well, I would start with the reality that dog sniffs by their very nature, as this Court recognized in both Place and Edmond, are very unique both in terms of the manner in which the sniff is conducted, as well as the content of... of the information that the sniff reveals, so that a dog sniff is only going to be able to reveal the presence or absence of contraband."
+2004.03-923,0,15084,ruth_bader_ginsburg,scotus_justice,171.936,176.394,Does that imply that your answer is yes to the question?
+2004.03-923,0,34819,lisa_madigan,,190.633,191.627,Yes.
+2004.03-923,0,15049,antonin_scalia,scotus_justice,235.466,236.042,But they are used.
+2004.03-923,0,34819,lisa_madigan,,248.302,249.5,"Yes, they are."
+2004.03-923,0,15049,antonin_scalia,scotus_justice,249.5,251.275,And the republic seems to have survived.
+2004.03-923,0,34819,lisa_madigan,,251.275,252.844,I agree.
+2004.03-923,0,15084,ruth_bader_ginsburg,scotus_justice,252.844,258.788,"One could characterize those episodes under the, quote, special needs doctrine."
+2004.03-923,0,15049,antonin_scalia,scotus_justice,271.42,273.072,No.
+2004.03-923,0,34819,lisa_madigan,,294.044,302.422,"In the present case, Mr. Caballes was traveling from Las Vegas, Nevada apparently on his way to Chicago, Illinois."
+2004.03-923,0,15060,john_paul_stevens,scotus_justice,312.659,314.6,"May I interrupt, General Madigan?"
+2004.03-923,0,34819,lisa_madigan,,314.6,315.055,--You may.
+2004.03-923,0,15060,john_paul_stevens,scotus_justice,315.055,323.161,He was pulled over for speeding at 71 miles an hour in a 65 mile an hour zone on I-80.
+2004.03-923,0,34819,lisa_madigan,,323.766,325.003,"Yes, that is correct, Justice Stevens."
+2004.03-923,0,15060,john_paul_stevens,scotus_justice,325.003,327.686,Did they know in advance that he was someone to look for?
+2004.03-923,0,15049,antonin_scalia,scotus_justice,335.405,337.634,Inadvertently.
+2004.03-923,0,34819,lisa_madigan,,338.339,342.258,We always like to have you in Illinois.
+2004.03-923,0,15060,john_paul_stevens,scotus_justice,361.04,362.859,Does the record tell us what time of day it was?
+2004.03-923,0,34819,lisa_madigan,,362.859,363.352,Yes.
+2004.03-923,0,15060,john_paul_stevens,scotus_justice,365.831,367.606,Thank you.
+2004.03-923,0,15113,anthony_m_kennedy,scotus_justice,367.606,379.866,"You... you answered one of the earlier questions about the possible intrusiveness of dogs everywhere by saying, well, you don't have a privacy interest in contraband, but that's never true."
+2004.03-923,0,34819,lisa_madigan,,389.237,395.841,"--You do not have a privacy interest in contraband, as this Court has recognized in the Jacobsen case."
+2004.03-923,0,15113,anthony_m_kennedy,scotus_justice,395.841,399.556,"Yes, but you have a privacy interest in your person and in your place, and that's what we're talking about."
+2004.03-923,0,34819,lisa_madigan,,401.99,409.338,"Well, there is a distinction that's made in terms of Fourth Amendment protections that are given to homes and people versus cars."
+2004.03-923,0,15113,anthony_m_kennedy,scotus_justice,418.132,422.013,But that's because of the nature of the place being searched not because of the nature of what you're searching for.
+2004.03-923,0,34819,lisa_madigan,,422.013,424.037,Correct.
+2004.03-923,0,15049,antonin_scalia,scotus_justice,424.037,424.78,Not necessarily.
+2004.03-923,0,15113,anthony_m_kennedy,scotus_justice,424.78,431.8,"So it just can't be that... so the fact that you don't have a privacy interest in contraband, it doesn't seem to me... I... I don't think you need that argument."
+2004.03-923,0,15049,antonin_scalia,scotus_justice,431.8,433.779,I think you should use it.
+2004.03-923,0,34819,lisa_madigan,,434.606,437.412,I... I plan on continuing to use it.
+2004.03-923,0,15049,antonin_scalia,scotus_justice,437.412,459.869,"Why... why do you... are you sure that Kyllo, you know, the... the imaging case, would have come out the same way if the only thing... the only thing... that the imaging could pick out is not any of the other private activities in the home, but the only thing it could possibly discern is a dead body with a knife through the heart?"
+2004.03-923,0,34819,lisa_madigan,,463.297,465.321,I would hope the case would come out differently than--
+2004.03-923,0,15092,sandra_day_oconnor,scotus_justice,465.321,467.262,"Well, what--"
+2004.03-923,0,15113,anthony_m_kennedy,scotus_justice,467.262,470.689,Do you have any authority for that other than Justice Scalia's speculation about how this--
+2004.03-923,0,15092,sandra_day_oconnor,scotus_justice,472.835,489.719,"--What about a house and... and the use of a dog to sniff around a door access or a house just because the police think, you know, it's possible this is somebody growing marijuana in the basement or something?"
+2004.03-923,0,34819,lisa_madigan,,491.782,498.098,"--I would argue that, yes, it is all right to walk a dog around a house, but then as Justice--"
+2004.03-923,0,15092,sandra_day_oconnor,scotus_justice,498.098,502.928,How do you... how do you reconcile that with the heat sensor case then?
+2004.03-923,0,34819,lisa_madigan,,502.928,511.267,--The thermal imager that was used in the Kyllo case was able to reveal intimate details of the house.
+2004.03-923,0,15060,john_paul_stevens,scotus_justice,523.155,530.009,"What if the dogs get a little more sophisticated in the future and can also smell a certain kind of perfume, something like that?"
+2004.03-923,0,34819,lisa_madigan,,532.322,540.617,"--Well, then you would end up in a situation as to whether or not an officer had probable cause when a dog, in fact, alerted."
+2004.03-923,0,15060,john_paul_stevens,scotus_justice,546.069,552.506,"And how would you know whether the... the dog... I don't think the dog alerts, as I'm alerting, for one reason or another."
+2004.03-923,0,34819,lisa_madigan,,553.871,556.1,"--Well, they're very well trained dogs."
+2004.03-923,0,15060,john_paul_stevens,scotus_justice,566.335,575.334,I just learned this morning that some very well trained dogs that are trained to alert for explosives will also alert for certain kinds of rubber in a tire.
+2004.03-923,0,34819,lisa_madigan,,586.397,612.032,"One of the things that does take place during the training of these narcotics-detection dogs is to make sure that they are not alerting to things that are not narcotics or... I don't know exactly how the explosive training is conducted because we don't train our dogs in Illinois for explosives, but they purposely train them on narcotics not to alert to plastic wrap that is frequently the container used for narcotics, not--"
+2004.03-923,0,15060,john_paul_stevens,scotus_justice,612.032,619.545,So you would agree the analysis would be different if there could be an innocent cause of the alert as well as the contraband being the cause of the alert.
+2004.03-923,0,34819,lisa_madigan,,619.545,621.941,--It depends.
+2004.03-923,0,15049,antonin_scalia,scotus_justice,630.979,634.695,Or if that happened a large percentage of the time.
+2004.03-923,0,34819,lisa_madigan,,656.986,664.954,"Well, it would actually go to whether or not that dog provided... that dog's alert provided probable cause to conduct a search."
+2004.03-923,0,15113,anthony_m_kennedy,scotus_justice,664.954,667.433,"Well, do we... we don't have the probable cause question before us, do we?"
+2004.03-923,0,34819,lisa_madigan,,667.433,670.527,You do not have the probable cause question before you.
+2004.03-923,0,15139,stephen_g_breyer,scotus_justice,680.186,684.067,What again in your view is the best distinction from Kyllo?
+2004.03-923,0,34819,lisa_madigan,,684.067,685.842,Two things.
+2004.03-923,0,15092,sandra_day_oconnor,scotus_justice,692.158,692.901,Like what?
+2004.03-923,0,15049,antonin_scalia,scotus_justice,694.015,694.759,--Yes.
+2004.03-923,0,34819,lisa_madigan,,694.759,702.561,"--There was some disagreement on the Court about exactly what it revealed, but in terms of intimate details, it then allowed somebody--"
+2004.03-923,0,15092,sandra_day_oconnor,scotus_justice,702.561,702.894,Excuse me.
+2004.03-923,0,34819,lisa_madigan,,706.998,717.505,"--Because it could measure heat, it could also potentially determine when somebody was taking a bath, taking a sauna, and doing other intimate things in the house."
+2004.03-923,0,15084,ruth_bader_ginsburg,scotus_justice,717.505,721.47,I think there was a reference to my lady's bath in the opinion.
+2004.03-923,0,15049,antonin_scalia,scotus_justice,721.47,723.616,"A nice turn of phrase, as I recall."
+2004.03-923,0,15139,stephen_g_breyer,scotus_justice,724.109,726.504,What was... and what was the second?
+2004.03-923,0,34819,lisa_madigan,,726.504,736.741,"The second one would be the distinction between houses and cars and the protections that houses are given under the Fourth Amendment, which are far greater than the protections that people have in their cars."
+2004.03-923,0,15113,anthony_m_kennedy,scotus_justice,736.741,739.22,"Well, so you think if this were a house, that the Kyllo case would apply?"
+2004.03-923,0,34819,lisa_madigan,,739.22,746.855,"If this were a house in the situation, it would certainly bring out the tension between Kyllo and Place--"
+2004.03-923,0,15049,antonin_scalia,scotus_justice,746.855,770.344,"Wasn't there... didn't Kyllo... wasn't what... what the Court was worried about in Kyllo not just the relatively crude heat imaging that existed in the case before it, but the prospect of more and more sophisticated heat imaging which... which we had evidence was already in development that would enable you to see people moving around a room?"
+2004.03-923,0,15060,john_paul_stevens,scotus_justice,784.107,798.662,"Well, but you would argue that the same rationale should apply if, instead of using dogs, you had some sophisticated device that would buzz or ring a bell or something whenever the odor of... of narcotics was present, wouldn't you?"
+2004.03-923,0,34819,lisa_madigan,,798.662,800.065,--I would argue that.
+2004.03-923,0,15060,john_paul_stevens,scotus_justice,813.894,818.519,There's nothing magical about the fact that it's an animal rather than a sophisticated device.
+2004.03-923,0,34819,lisa_madigan,,823.143,824.342,--You are correct.
+2004.03-923,0,15042,david_h_souter,scotus_justice,824.342,834.084,"In... in discussing the... the answer to the... the Kyllo issue, you... you place an emphasis on the protection given to a house."
+2004.03-923,0,34819,lisa_madigan,,849.81,851.091,I would--
+2004.03-923,0,15042,david_h_souter,scotus_justice,851.091,854.928,--without there being a search and hence no Fourth Amendment concern?
+2004.03-923,0,34819,lisa_madigan,,854.928,871.275,"--Yes, Justice Souter, I would say that that is possible because the sniff itself is not a search and it only reveals the presence or absence of contraband, which is something that the individual does not have privacy expectations--"
+2004.03-923,0,15042,david_h_souter,scotus_justice,871.275,871.608,Okay.
+2004.03-923,0,34819,lisa_madigan,,874.497,880.274,--There is potentially significance in the house because the--
+2004.03-923,0,15042,david_h_souter,scotus_justice,880.274,881.183,"Well, when does... when does it occur?"
+2004.03-923,0,34819,lisa_madigan,,901.95,911.693,--This Court's precedents have shown us that in fact Fourth Amendment protections are higher in the home than they are in the car.
+2004.03-923,0,15042,david_h_souter,scotus_justice,911.693,923.498,"Oh, I realize that, but it seems to me your basic argument, if I understand it, is there is simply no search here, and because there is no search here, it doesn't matter whether you're dealing with a house or a parking lot or a car on the road."
+2004.03-923,0,34819,lisa_madigan,,937.327,940.011,"Justice Souter, that is absolutely correct."
+2004.03-923,0,15084,ruth_bader_ginsburg,scotus_justice,952.727,965.563,You said there's no disturbance of one's privacy and so that distinguishes the dog sniff from some other governmental intrusions.
+2004.03-923,0,34819,lisa_madigan,,987.732,1004.861,"There are in this country millions of dogs, many of the types of dogs that are used by narcotics detection teams, such as Labrador retrievers and shepherds, are identical to the pets that people own."
+2004.03-923,0,15060,john_paul_stevens,scotus_justice,1025.173,1025.545,"Yes, you may save your time."
+2004.03-923,0,34819,lisa_madigan,,1025.545,1025.999,Thank you.
+2004.03-923,0,15060,john_paul_stevens,scotus_justice,1025.999,1034.461,Mr. Wray.
+2004.03-923,1,20412,christopher_a_wray,,1034.461,1037.598,"Justice Stevens, and may it please the Court:"
+2004.03-923,1,15049,antonin_scalia,scotus_justice,1056.918,1067.981,Do you agree with... with General Madigan that it doesn't make any difference whether the... the dog is a... is a mechanical instrument or not?
+2004.03-923,1,20412,christopher_a_wray,,1136.257,1137.993,That's correct.
+2004.03-923,1,15049,antonin_scalia,scotus_justice,1137.993,1145.773,It seems to me you shouldn't... you shouldn't assume that... that the fact that this is a canine makes no difference.
+2004.03-923,1,15060,john_paul_stevens,scotus_justice,1145.773,1151.534,Are you going to rely on the fact that dogs were trained to do this sort of thing back in the 18th century?
+2004.03-923,1,20412,christopher_a_wray,,1151.534,1156.652,"I'm going to rely on... on three distinctions between this case and Kyllo, Justice Stevens."
+2004.03-923,1,15060,john_paul_stevens,scotus_justice,1173.249,1174.939,It was potentially revealed.
+2004.03-923,1,20412,christopher_a_wray,,1177.418,1193.143,"--As... as General Madigan referenced, there is obviously some disagreement within the Court on that issue, but the... the fact was that the technology in Kyllo revealed information about heat in the house which could be thought to reveal intimate details about the house."
+2004.03-923,1,15060,john_paul_stevens,scotus_justice,1207.139,1208.132,But not in 1790.
+2004.03-923,1,20412,christopher_a_wray,,1208.132,1210.937,--Not--
+2004.03-923,1,15113,anthony_m_kennedy,scotus_justice,1210.937,1211.597,Did you come here--
+2004.03-923,1,15049,antonin_scalia,scotus_justice,1211.597,1212.219,"You don't know that, do you?"
+2004.03-923,1,15113,anthony_m_kennedy,scotus_justice,1212.219,1215.645,--Did you come here having researched all about dogs in 1790?
+2004.03-923,1,20412,christopher_a_wray,,1216.221,1221.256,"--Justice Kennedy, I cannot, I regret to say, tell you what dogs were doing in 1790."
+2004.03-923,1,15060,john_paul_stevens,scotus_justice,1245.905,1250.985,But do you really think this would be a different case if the officer had a device that did exactly what the dog... dog did?
+2004.03-923,1,20412,christopher_a_wray,,1250.985,1257.551,"We... our position would still be, Justice Stevens, that as long as the device only revealed, as this does--"
+2004.03-923,1,15060,john_paul_stevens,scotus_justice,1257.551,1258.294,I would think you'd take--
+2004.03-923,1,20412,christopher_a_wray,,1258.294,1260.978,"--the absence or presence of contraband, it would still be constitutional."
+2004.03-923,1,15042,david_h_souter,scotus_justice,1260.978,1266.839,"Why do you rely on the... in... in distinguishing Kyllo, why do you rely on the house if there's no search?"
+2004.03-923,1,20412,christopher_a_wray,,1273.155,1275.095,"We don't believe we have to rely on it, Justice Souter."
+2004.03-923,1,15049,antonin_scalia,scotus_justice,1287.356,1289.835,But that didn't go to whether it was a search or seizure.
+2004.03-923,1,20412,christopher_a_wray,,1300.154,1302.671,"--Yes, Justice Scalia, that's correct."
+2004.03-923,1,15042,david_h_souter,scotus_justice,1302.671,1307.79,But... but your... is... is it... I understand it to be your position that there simply is no search here.
+2004.03-923,1,20412,christopher_a_wray,,1308.244,1309.83,"That is correct, Justice Souter."
+2004.03-923,1,15042,david_h_souter,scotus_justice,1309.83,1310.906,Because it's a dog sniff.
+2004.03-923,1,20412,christopher_a_wray,,1310.906,1328.943,"We would... we would submit this is not a search because, as this Court recognized in both Place and Edmond... and the Jacobsen case is also significant because the Court said that the reason this is not a search, there using the dog sniff by analogy, is because it compromises no legitimate privacy interest."
+2004.03-923,1,15042,david_h_souter,scotus_justice,1359.697,1360.113,All right.
+2004.03-923,1,20412,christopher_a_wray,,1378.151,1387.827,"Well, there would be a question as to whether the officer, the human officer, that is, could be on private property... I take it from your hypothetical, Justice Souter... in the first place."
+2004.03-923,1,15042,david_h_souter,scotus_justice,1388.47,1397.675,"Well, I mean, the Fourth Amendment analysis after Katz doesn't... doesn't depend on trespass, and... and you have said up to this point that there is no search."
+2004.03-923,1,20412,christopher_a_wray,,1431.362,1435.281,--Our position would be... the answer to that question is yes.
+2004.03-923,1,15049,antonin_scalia,scotus_justice,1438.809,1455.799,"Of course, we could separate the home from the... from what happened here and still validate the search here if we held that it was a search, but was a reasonable one since all you find is that the person was carrying contraband."
+2004.03-923,1,20412,christopher_a_wray,,1469.75,1471.858,"I think you could, Justice Scalia."
+2004.03-923,1,15092,sandra_day_oconnor,scotus_justice,1473.094,1498.319,"On the other hand, if it were a drug-selling neighborhood or around a park where drugs are frequently sold, would it be legitimate in your view for the police to take drug-sniffing dogs and walk around the public street where cars are parked around that known drug-selling area and see if they could sniff out some contraband in the cars?"
+2004.03-923,1,20412,christopher_a_wray,,1498.979,1501.329,"--We believe it would be okay, Justice O'Connor."
+2004.03-923,1,15092,sandra_day_oconnor,scotus_justice,1508.471,1510.207,I'm... I'm assuming parked cars.
+2004.03-923,1,20412,christopher_a_wray,,1515.037,1520.155,"--In that instance, we believe that would be acceptable under the Fourth Amendment."
+2004.03-923,1,15113,anthony_m_kennedy,scotus_justice,1520.155,1532.165,So you... you give no significance to the fact that this dog sniff was in the course of a lawful stop where the citizen's rights had already been curtailed to a significant extent?
+2004.03-923,1,20412,christopher_a_wray,,1532.165,1560.195,"We believe, Justice Kennedy, that the... that that context here makes this an even easier case under the Fourth Amendment, that is, the dog sniff not being a search compromising no legitimate privacy interests during the course of a lawful probable cause stop, which we know from Atwater... the officer could have simply placed the woman under full custodial arrest and taken her down to jail... was not an activity that transformed the seizure into an unlawful one."
+2004.03-923,1,15084,ruth_bader_ginsburg,scotus_justice,1620.215,1633.097,"Are there... are there any manuals for law enforcement officers with respect to the time and place of using dogs, or it's just open season?"
+2004.03-923,1,20412,christopher_a_wray,,1633.097,1638.791,"Justice Ginsburg, there is extensive training of law enforcement to use dogs."
+2004.03-923,1,15084,ruth_bader_ginsburg,scotus_justice,1641.27,1644.614,I don't mean the training to make the dog alert properly.
+2004.03-923,1,20412,christopher_a_wray,,1649.609,1656.957,"--Justice Ginsburg, each agency has different policies about when they use dogs and what purpose they're trained for."
+2004.03-923,1,15060,john_paul_stevens,scotus_justice,1664.637,1666.761,"--Thank you, Mr. Wray."
+2004.03-923,1,20412,christopher_a_wray,,1666.761,1667.321,Thank you.
+2004.03-923,1,15060,john_paul_stevens,scotus_justice,1667.321,1672.893,Mr. Meczyk.
+2004.03-923,2,39889,ralph_e_meczyk,,1672.893,1675.661,"Justice Stevens, and may it please the Court:"
+2004.03-923,2,15049,antonin_scalia,scotus_justice,1710.788,1712.357,Why... why do you say that?
+2004.03-923,2,39889,ralph_e_meczyk,,1737.621,1741.519,Any observation I think--
+2004.03-923,2,15049,antonin_scalia,scotus_justice,1741.519,1744.187,Is there no difference between an investigation and a search?
+2004.03-923,2,39889,ralph_e_meczyk,,1744.187,1749.881,--There is in this case... see if I understand you correctly.
+2004.03-923,2,15049,antonin_scalia,scotus_justice,1749.881,1751.079,No.
+2004.03-923,2,39889,ralph_e_meczyk,,1758.221,1758.964,Well--
+2004.03-923,2,15049,antonin_scalia,scotus_justice,1758.964,1759.874,But that's not so.
+2004.03-923,2,39889,ralph_e_meczyk,,1762.307,1764.62,"--Well, to... see if I understand your question correctly."
+2004.03-923,2,15139,stephen_g_breyer,scotus_justice,1778.821,1779.276,"Yes, but that isn't the--"
+2004.03-923,2,15113,anthony_m_kennedy,scotus_justice,1779.276,1783.074,What about a policeman who smells marijuana coming out of a car or a residence.
+2004.03-923,2,39889,ralph_e_meczyk,,1785.841,1792.983,"The only way I can analogize that, Justice Kennedy, is that it... that is akin to a plain smell or plain view."
+2004.03-923,2,15139,stephen_g_breyer,scotus_justice,1792.983,1793.477,--All right.
+2004.03-923,2,39889,ralph_e_meczyk,,1802.493,1803.402,I don't--
+2004.03-923,2,15139,stephen_g_breyer,scotus_justice,1803.402,1803.735,Okay?
+2004.03-923,2,39889,ralph_e_meczyk,,1839.977,1843.321,--But this is with a specific investigative tool.
+2004.03-923,2,15139,stephen_g_breyer,scotus_justice,1843.321,1848.688,"Well, it's a specific investigative tool when I put on my glasses to look through a window."
+2004.03-923,2,39889,ralph_e_meczyk,,1848.688,1849.431,"Well, this is--"
+2004.03-923,2,15139,stephen_g_breyer,scotus_justice,1849.431,1869.427,"I don't see why it has to... why that matters if in fact all... if you go into a car, a police car, and you have... drive through the neighborhood and look around, you are using a specific investigative tool, the police car, to look around and find out what's going on."
+2004.03-923,2,39889,ralph_e_meczyk,,1869.427,1875.522,"--This is a far more... most respectfully, this is a far more sophisticated investigative tool."
+2004.03-923,2,15139,stephen_g_breyer,scotus_justice,1875.522,1878.744,What I'm trying to get to is in my own mind it's not a question of the tools.
+2004.03-923,2,39889,ralph_e_meczyk,,1881.921,1885.719,Then maybe I can see if I could answer your question.
+2004.03-923,2,15113,anthony_m_kennedy,scotus_justice,1900.497,1901.695,But that never--
+2004.03-923,2,15092,sandra_day_oconnor,scotus_justice,1901.695,1907.063,"Yes, but both Place and Edmond, opinions from this Court, said sniffs are not searches."
+2004.03-923,2,39889,ralph_e_meczyk,,1907.063,1907.639,"--Well, I--"
+2004.03-923,2,15092,sandra_day_oconnor,scotus_justice,1907.639,1908.837,Do you want us to reverse that?
+2004.03-923,2,39889,ralph_e_meczyk,,1908.837,1913.378,"--Justice O'Connor, I do not... I do not want you to reverse Place."
+2004.03-923,2,15092,sandra_day_oconnor,scotus_justice,1914.576,1917.631,"Well, and Edmond also said it's not a search."
+2004.03-923,2,39889,ralph_e_meczyk,,1917.631,1918.54,"--Well, there were--"
+2004.03-923,2,15092,sandra_day_oconnor,scotus_justice,1918.54,1923.248,It was the stop of the cars in that case that caused the result.
+2004.03-923,2,39889,ralph_e_meczyk,,1923.248,1927.622,--The way I understand Place it was contextually limited.
+2004.03-923,2,15092,sandra_day_oconnor,scotus_justice,1945.501,1945.806,"Well, fine."
+2004.03-923,2,39889,ralph_e_meczyk,,1951.733,1952.659,"--Well, I... I--"
+2004.03-923,2,15092,sandra_day_oconnor,scotus_justice,1952.659,1954.705,So you want us to say something else here.
+2004.03-923,2,39889,ralph_e_meczyk,,1954.705,1958.67,"--Well, I think that first in... in that case, in Place, the... the Court--"
+2004.03-923,2,15092,sandra_day_oconnor,scotus_justice,1958.67,1961.187,The context here was a legitimate traffic stop.
+2004.03-923,2,39889,ralph_e_meczyk,,1961.187,1969.36,"--But it was... unlike Place, the legitimate traffic stop here was completely unrelated to the purpose of the dog sniff."
+2004.03-923,2,15092,sandra_day_oconnor,scotus_justice,1970.846,1972.583,The dog sniff is not a search.
+2004.03-923,2,39889,ralph_e_meczyk,,1973.985,1985.79,"--Well, again, I would again respectfully assert that the dog sniff is a search and the way Place was decided, first, the decision had to be made, in the context of... of that case, what was worse."
+2004.03-923,2,15092,sandra_day_oconnor,scotus_justice,2000.529,2003.213,This... the trunk of the car didn't have to be opened here.
+2004.03-923,2,39889,ralph_e_meczyk,,2003.213,2004.494,"--I'm sorry, Your Honor."
+2004.03-923,2,15092,sandra_day_oconnor,scotus_justice,2004.494,2007.838,The trunk of the vehicle did not have to be opened here.
+2004.03-923,2,39889,ralph_e_meczyk,,2015.64,2029.302,"Again, in this context, unlike in Place, there was absolutely no relationship between the... the dog sniff and the dog sniff of Caballes' trunk and the sniff of the luggage that was placed at LaGuardia Airport in Place."
+2004.03-923,2,15049,antonin_scalia,scotus_justice,2031.365,2034.503,Suppose a policeman follows me around.
+2004.03-923,2,39889,ralph_e_meczyk,,2051.222,2052.13,--It's not a search.
+2004.03-923,2,15049,antonin_scalia,scotus_justice,2052.13,2059.19,"And maybe... maybe I'd have a harassment action against him if he does it, you know, blatantly."
+2004.03-923,2,39889,ralph_e_meczyk,,2060.304,2060.759,It is not a search.
+2004.03-923,2,15049,antonin_scalia,scotus_justice,2061.685,2062.161,Okay.
+2004.03-923,2,39889,ralph_e_meczyk,,2067.696,2068.438,--Well--
+2004.03-923,2,15049,antonin_scalia,scotus_justice,2068.438,2070.175,The fact that you find out something?
+2004.03-923,2,39889,ralph_e_meczyk,,2070.175,2077.355,--I think here the most distinctive point here is that Caballes had already been stopped unlike the hypothetical that you just presented to me.
+2004.03-923,2,15049,antonin_scalia,scotus_justice,2088.212,2090.32,You think it would be better if he hadn't been stopped?
+2004.03-923,2,39889,ralph_e_meczyk,,2101.959,2103.323,--I think--
+2004.03-923,2,15049,antonin_scalia,scotus_justice,2103.323,2104.742,--for allowing it than... than yours?
+2004.03-923,2,39889,ralph_e_meczyk,,2104.742,2110.01,"--Even in that case, even in a hypothetical where they used the dog for a toll booth, I have a problem with that."
+2004.03-923,2,15084,ruth_bader_ginsburg,scotus_justice,2131.392,2134.614,"Well, they said it's to find out if there's any contraband."
+2004.03-923,2,39889,ralph_e_meczyk,,2134.614,2135.85,"--I'm sorry, Your Honor."
+2004.03-923,2,15084,ruth_bader_ginsburg,scotus_justice,2135.85,2146.874,The answer was they are at liberty... the police are at liberty to use dogs to find contraband.
+2004.03-923,2,39889,ralph_e_meczyk,,2163.714,2166.853,"Well, I... I strongly differ."
+2004.03-923,2,15092,sandra_day_oconnor,scotus_justice,2170.318,2177.377,"Well, does it matter if, for instance, in today's world on Capitol Hill we're concerned about terrorist attacks."
+2004.03-923,2,39889,ralph_e_meczyk,,2189.144,2191.085,"--Justice O'Connor, it depends on the purpose."
+2004.03-923,2,15092,sandra_day_oconnor,scotus_justice,2191.085,2192.821,"Yes or no, in your view."
+2004.03-923,2,39889,ralph_e_meczyk,,2198.698,2199.918,The answer is yes.
+2004.03-923,2,15092,sandra_day_oconnor,scotus_justice,2201.404,2202.109,Wherever it is.
+2004.03-923,2,39889,ralph_e_meczyk,,2202.109,2205.574,Wherever it is because I look at it as a public safety exception.
+2004.03-923,2,15139,stephen_g_breyer,scotus_justice,2224.317,2229.025,I still want to go back to my question because I think you may have an answer to it and I want to focus you--
+2004.03-923,2,39889,ralph_e_meczyk,,2229.025,2229.768,"--I'm struggling, yes."
+2004.03-923,2,15139,stephen_g_breyer,scotus_justice,2229.768,2231.087,--I want to focus you on the question.
+2004.03-923,2,39889,ralph_e_meczyk,,2272.78,2275.587,It invades a public... I'm sorry.
+2004.03-923,2,15060,john_paul_stevens,scotus_justice,2292.016,2295.527,"Yes, but you don't respond to one point in Place, if I remember correctly."
+2004.03-923,2,39889,ralph_e_meczyk,,2307.044,2325.742,"Well, it is... it's true that one does not have an expectation of privacy in contraband, but by the same token, I have an expectation or Mr. Caballes had an expectation of... of privacy of what's inside that closed trunk, his car."
+2004.03-923,2,15084,ruth_bader_ginsburg,scotus_justice,2338.745,2343.453,There was something you said in... in your brief that I thought was unclear.
+2004.03-923,2,39889,ralph_e_meczyk,,2346.63,2347.373,Of course.
+2004.03-923,2,15084,ruth_bader_ginsburg,scotus_justice,2347.373,2363.803,"--if Officer Gillette, the one who did the arrest for speeding, had a dog in the back of his car, instead of having the second officer come with the dog, would it have been permissible?"
+2004.03-923,2,39889,ralph_e_meczyk,,2370.036,2382.296,"First of all, Justice Ginsburg, my recollection is that Trooper Gillette, who was the officer who stopped Caballes, did not have a... a dog in the car."
+2004.03-923,2,15084,ruth_bader_ginsburg,scotus_justice,2382.296,2385.722,"No, he didn't, but I'm asking you to imagine that he did."
+2004.03-923,2,39889,ralph_e_meczyk,,2385.722,2386.111,I see.
+2004.03-923,2,15084,ruth_bader_ginsburg,scotus_justice,2410.902,2411.068,No.
+2004.03-923,2,39889,ralph_e_meczyk,,2418.294,2420.595,Okay.
+2004.03-923,2,15084,ruth_bader_ginsburg,scotus_justice,2420.595,2430.133,This is very... make no other changes except that Gillette has the dog and Gillette with the dog go to Mr. Caballes' car.
+2004.03-923,2,39889,ralph_e_meczyk,,2430.133,2438.594,"My understanding of the way this works, Justice Ginsburg, is that he just couldn't go up to the car without... and the dog would alert."
+2004.03-923,2,15049,antonin_scalia,scotus_justice,2448.253,2448.83,He does that.
+2004.03-923,2,39889,ralph_e_meczyk,,2448.83,2449.452,He does that.
+2004.03-923,2,15049,antonin_scalia,scotus_justice,2449.452,2450.4,"Yes, in this case."
+2004.03-923,2,39889,ralph_e_meczyk,,2450.4,2451.31,He does that.
+2004.03-923,2,15049,antonin_scalia,scotus_justice,2451.31,2451.803,Right.
+2004.03-923,2,39889,ralph_e_meczyk,,2451.803,2452.629,To cue the dog.
+2004.03-923,2,15049,antonin_scalia,scotus_justice,2455.868,2456.172,Right.
+2004.03-923,2,39889,ralph_e_meczyk,,2456.172,2458.113,To trigger something in the... in the canine brain.
+2004.03-923,2,15049,antonin_scalia,scotus_justice,2458.113,2458.568,Right.
+2004.03-923,2,15084,ruth_bader_ginsburg,scotus_justice,2458.568,2459.561,But you... I'm--
+2004.03-923,2,15049,antonin_scalia,scotus_justice,2459.561,2459.894,Would it be bad?
+2004.03-923,2,39889,ralph_e_meczyk,,2461.63,2463.859,"It wouldn't be bad that's what... well, yes."
+2004.03-923,2,15084,ruth_bader_ginsburg,scotus_justice,2468.029,2484.126,"--But I'm... I'm trying to understand what you meant in your brief when you said if the dog had been in Gillette's car when Gillette stopped Caballes, the situation would have been different."
+2004.03-923,2,39889,ralph_e_meczyk,,2484.126,2492.549,"I... I think what I meant there... there would have been... it would have been purely happenstance, almost like plain view."
+2004.03-923,2,15084,ruth_bader_ginsburg,scotus_justice,2525.121,2535.152,So then it really makes no difference whether it was Gillette who had the dog in his car or whether the dispatcher called another officer who had the dog.
+2004.03-923,2,39889,ralph_e_meczyk,,2535.152,2536.228,"That is correct, Your Honor."
+2004.03-923,2,15084,ruth_bader_ginsburg,scotus_justice,2536.228,2539.572,It doesn't... so you're retracting that.
+2004.03-923,2,39889,ralph_e_meczyk,,2566.526,2568.383,Yes.
+2004.03-923,2,15084,ruth_bader_ginsburg,scotus_justice,2586.422,2587.044,But he could have.
+2004.03-923,2,39889,ralph_e_meczyk,,2588.446,2589.189,"--He could have, but he didn't."
+2004.03-923,2,15084,ruth_bader_ginsburg,scotus_justice,2589.189,2589.932,--is... is--
+2004.03-923,2,39889,ralph_e_meczyk,,2589.932,2591.584,He didn't.
+2004.03-923,2,15042,david_h_souter,scotus_justice,2628.67,2640.709,"No, but the... the difficulty that I have with that argument is take the... take the case of... of the arrestable offense in which it is undoubtedly the case that although the police don't normally arrest, they... they can."
+2004.03-923,2,39889,ralph_e_meczyk,,2687.642,2695.898,"To me, once a person is told that he is not going to be under arrest, it changes the whole complexion of the case."
+2004.03-923,2,15084,ruth_bader_ginsburg,scotus_justice,2703.595,2704.793,--Could the officer change his mind?
+2004.03-923,2,39889,ralph_e_meczyk,,2725.476,2734.309,"--It's a difficult question, but I have to look at what... I think reasonableness is judged."
+2004.03-923,2,15049,antonin_scalia,scotus_justice,2747.312,2769.482,"Mr. Meczyk, I assume that your answer to whether it's lawful to have a... a dog at a bus depot just to sniff the bags of people who were coming off, without stopping them, but just... just to have the dogs there, that's unlawful."
+2004.03-923,2,39889,ralph_e_meczyk,,2769.482,2773.03,It depends--
+2004.03-923,2,15049,antonin_scalia,scotus_justice,2773.03,2776.374,"For narcotics, not for bombs, not for... just... just for narcotics."
+2004.03-923,2,39889,ralph_e_meczyk,,2782.873,2789.089,"--It's a little less problematic to me, Justice Scalia, than the type of stop I'm talking about here."
+2004.03-923,2,15049,antonin_scalia,scotus_justice,2789.089,2789.56,Why?
+2004.03-923,2,39889,ralph_e_meczyk,,2789.56,2791.501,It's a little less problematic.
+2004.03-923,2,15049,antonin_scalia,scotus_justice,2795.504,2796.785,"Well, so is the road, for Pete's sake."
+2004.03-923,2,39889,ralph_e_meczyk,,2796.785,2800.666,"--I know, but... but here I think there's a lesser expectation of privacy."
+2004.03-923,2,15049,antonin_scalia,scotus_justice,2811.357,2811.812,Right.
+2004.03-923,2,39889,ralph_e_meczyk,,2811.812,2812.639,--unlike the case--
+2004.03-923,2,15049,antonin_scalia,scotus_justice,2812.639,2813.132,Right.
+2004.03-923,2,39889,ralph_e_meczyk,,2813.132,2817.18,"--unlike the case in... in Place, that that to me is still a search."
+2004.03-923,2,15049,antonin_scalia,scotus_justice,2817.552,2817.885,Okay.
+2004.03-923,2,39889,ralph_e_meczyk,,2819.288,2820.031,--And I am saying it.
+2004.03-923,2,15139,stephen_g_breyer,scotus_justice,2820.031,2822.798,"Yes, but that isn't... I take it you don't--"
+2004.03-923,2,39889,ralph_e_meczyk,,2822.798,2823.624,Sorry it took me so long.
+2004.03-923,2,15139,stephen_g_breyer,scotus_justice,2823.624,2828.082,--Is there anything wrong with the policeman himself taking a sniff?
+2004.03-923,2,39889,ralph_e_meczyk,,2828.082,2830.106,It goes back to--
+2004.03-923,2,15139,stephen_g_breyer,scotus_justice,2830.106,2831.925,It's the great Limburger cheese robbery.
+2004.03-923,2,39889,ralph_e_meczyk,,2836.422,2839.105,--There's nothing wrong if he can detect Limburger cheese.
+2004.03-923,2,15139,stephen_g_breyer,scotus_justice,2840.675,2841.213,All right.
+2004.03-923,2,39889,ralph_e_meczyk,,2841.213,2842.122,As awful as that--
+2004.03-923,2,15139,stephen_g_breyer,scotus_justice,2842.122,2842.699,So plain--
+2004.03-923,2,39889,ralph_e_meczyk,,2842.699,2843.814,--As awful as it might be--
+2004.03-923,2,15139,stephen_g_breyer,scotus_justice,2843.814,2844.185,--All right.
+2004.03-923,2,39889,ralph_e_meczyk,,2890.753,2891.329,--I guess you--
+2004.03-923,2,15139,stephen_g_breyer,scotus_justice,2891.329,2895.21,"--I mean, I'm not saying you couldn't draw that line, but I'm saying it's pretty tough I think."
+2004.03-923,2,39889,ralph_e_meczyk,,2895.21,2897.523,--I guess you're telling me I'm... I'm the underdog in this case.
+2004.03-923,2,15139,stephen_g_breyer,scotus_justice,2897.523,2898.182,"Well, I don't know."
+2004.03-923,2,39889,ralph_e_meczyk,,2901.71,2902.081,It is--
+2004.03-923,2,15139,stephen_g_breyer,scotus_justice,2902.081,2904.31,"--And you're going to draw the... well, I don't want you to repeat yourself necessarily."
+2004.03-923,2,39889,ralph_e_meczyk,,2904.31,2904.476,--No.
+2004.03-923,2,15084,ruth_bader_ginsburg,scotus_justice,2904.809,2923.302,"But you had already drawn the line at a different place than Justice Breyer suggested because in response to Justice Scalia, you said if it... if it were going into the bus terminal just to sniff for narcotics, unlike explosives, it would be an impermissible search."
+2004.03-923,2,39889,ralph_e_meczyk,,2923.302,2923.924,"--Yes, correct, Justice--"
+2004.03-923,2,15084,ruth_bader_ginsburg,scotus_justice,2923.924,2924.417,That would be--
+2004.03-923,2,39889,ralph_e_meczyk,,2924.417,2925.614,"--That is correct, Justice Ginsburg."
+2004.03-923,2,15042,david_h_souter,scotus_justice,2927.35,2931.353,"But... but is... why... why don't you simply say, look... have a very simple line."
+2004.03-923,2,39889,ralph_e_meczyk,,2938.617,2944.561,--I would agree with that if I use an... if... if you're referring to an Atwater type scenario.
+2004.03-923,2,15042,david_h_souter,scotus_justice,2964.624,2970.279,But what... what is the answer to the reasonable expectation to privacy question in that case?
+2004.03-923,2,39889,ralph_e_meczyk,,2985.429,2998.227,"I... I think that when the officer does a full-blown arrest, as was envisioned in Atwater, you know that you... the person knows that he or she does not have a reasonable expectation of privacy."
+2004.03-923,2,15042,david_h_souter,scotus_justice,2998.227,3004.709,But you're saying that the... the reasonable expectation of privacy depends upon the officer's discretionary judgment whether or not to arrest.
+2004.03-923,2,39889,ralph_e_meczyk,,3006.855,3010.942,"Essentially yes, because I think that the officer takes a physical action."
+2004.03-923,2,15049,antonin_scalia,scotus_justice,3074.926,3082.811,"I mean, I think it's worse if... if you're subjected to it without having committed any violation at all."
+2004.03-923,2,39889,ralph_e_meczyk,,3100.272,3101.098,"--No, Justice Scalia--"
+2004.03-923,2,15049,antonin_scalia,scotus_justice,3101.098,3102.75,This isn't a public safety matter.
+2004.03-923,2,39889,ralph_e_meczyk,,3109.437,3115.549,"--That... in that situation, when you enter the country... and this Court has said many times again... it's a border search."
+2004.03-923,2,15049,antonin_scalia,scotus_justice,3130.82,3131.646,Okay.
+2004.03-923,2,39889,ralph_e_meczyk,,3133.132,3136.354,A bus station here inside the United States is different I think.
+2004.03-923,2,15060,john_paul_stevens,scotus_justice,3180.026,3181.346,"Thank you, Mr. Meczyk."
+2004.03-923,3,34819,lisa_madigan,,3185.887,3188.034,"Thank you, Justice Stevens."
+2004.03-923,3,15060,john_paul_stevens,scotus_justice,3300.565,3302.09,"Thank you, General Madigan."
+2004.03-923,3,34819,lisa_madigan,,3303.742,3304.319,Thank you.

@@ -1,0 +1,277 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2017.16-1495,0,15086,john_g_roberts_jr,scotus_justice,0.0,8.12,"We'll hear argument next in Case 16-1495, the City of Hays versus Vogt. Mr. Heytens."
+2017.16-1495,0,42810,toby_j_heytens,,8.12,15.32,"Mr. Chief Justice, and may it please the Court: The decision below should be reversed for two independent reasons."
+2017.16-1495,0,15084,ruth_bader_ginsburg,scotus_justice,49.96,51.12,Mr. Heytens --
+2017.16-1495,0,15113,anthony_m_kennedy,scotus_justice,51.12,53.68,"Your -- your first statement, I -- was very well stated."
+2017.16-1495,0,42810,toby_j_heytens,,59.88,70.6,That the Self-Incrimination Clause can only be violated during a proceeding where the person whose statements are at issue is being used to adjudicate that person's guilt or punishment for purposes of criminal liability.
+2017.16-1495,0,15084,ruth_bader_ginsburg,scotus_justice,71.52,72.88,It has to be at trial.
+2017.16-1495,0,42810,toby_j_heytens,,120.64,137.8,"I don't think that's -- that's right, Justice Ginsburg, and I think the reason for that is that it's critical to distinguish between two issues. The first issue is when can the privilege against self-incrimination be invoked, and the second is when the Self-Incrimination Clause can actually be -- can actually be violated. So let me give you an example."
+2017.16-1495,0,15084,ruth_bader_ginsburg,scotus_justice,175.36,196.36,"So, Mr. Heytens, then if this -- this defendant, based on what you just said, could refuse to answer the question if it had been put to him at the probable cause hearing, say tell us about that episode when you -- you retained the knife, he could say: I won't because that might incriminate me, he could raise the privilege."
+2017.16-1495,0,42810,toby_j_heytens,,196.36,198.16,Absolutely.
+2017.16-1495,0,15084,ruth_bader_ginsburg,scotus_justice,198.16,208.64,"But he can't object if prior testimony, a -- a prior statement to that effect, is introduced at the probable cause hearing."
+2017.16-1495,0,42810,toby_j_heytens,,225.92,228.48,"I -- I understand the -- the apparent anomaly, Justice Ginsburg."
+2017.16-1495,0,15139,stephen_g_breyer,scotus_justice,256.0,258.56,What about a grand jury proceeding?
+2017.16-1495,0,42810,toby_j_heytens,,258.56,260.12,"Can it be asserted? Absolutely, Justice Breyer."
+2017.16-1495,0,15139,stephen_g_breyer,scotus_justice,260.12,262.32,"No, can it be prevented?"
+2017.16-1495,0,42810,toby_j_heytens,,262.32,264.84,"Our -- Justice Breyer, our understanding -- the -- can what --"
+2017.16-1495,0,15139,stephen_g_breyer,scotus_justice,264.84,284.88,"I mean, I -- I've come across Supreme Court cases which refer to a grand jury proceeding as part of a criminal case, and you cannot introduce it in a criminal case. So what I wondered and seemed to be missing is that I haven't found anything that says, you know, you can't attack the grand jury proceeding later, but that's different."
+2017.16-1495,0,42810,toby_j_heytens,,285.28,285.84,So --
+2017.16-1495,0,15139,stephen_g_breyer,scotus_justice,285.84,301.96,"-- so somebody finds a way, gets an order from a judge, he says I don't want these pieces of paper introduced, they were taken from me in violation of my Fifth Amendment right not to be a witness, and I don't want them brought before the grand jury. I'm rather surprised that that's never come up."
+2017.16-1495,0,42810,toby_j_heytens,,301.96,304.36,"Well -- well, Justice Breyer, I think it has come up."
+2017.16-1495,0,15139,stephen_g_breyer,scotus_justice,305.28,313.0,"And -- then where are the cases that say that even though the person objected, you can introduce it to the grand jury? I can't find any."
+2017.16-1495,0,42810,toby_j_heytens,,317.2,317.64,Right.
+2017.16-1495,0,15094,elena_kagan,scotus_justice,347.04,353.24,"Mr. Heytens, you also agree now, don't you, that the probable cause hearing is part of the criminal case? That's not at issue here?"
+2017.16-1495,0,42810,toby_j_heytens,,353.24,354.48,"We agree with that, yes."
+2017.16-1495,0,15094,elena_kagan,scotus_justice,354.48,354.88,Okay.
+2017.16-1495,0,42810,toby_j_heytens,,385.92,391.12,"I understand that if you were looking simply at the language, that is a more than plausible interpretation, but I don't think that's the --"
+2017.16-1495,0,15094,elena_kagan,scotus_justice,391.12,392.52,"Kind of the obvious interpretation, right?"
+2017.16-1495,0,42810,toby_j_heytens,,392.52,392.72,Right.
+2017.16-1495,0,15094,elena_kagan,scotus_justice,419.4,426.72,"Well, I don't think Estelle is -- is inconsistent with that because what the Court in Estelle said was that this is actually a neutral determination."
+2017.16-1495,0,42810,toby_j_heytens,,446.48,446.68,Sure.
+2017.16-1495,0,15094,elena_kagan,scotus_justice,455.36,455.68,Yes.
+2017.16-1495,0,42810,toby_j_heytens,,481.52,502.64,"We agree with that, Justice Kagan, but I think the anomaly actually goes deeper than that for -- for two reasons. One is that, under Kansas law -- under Kansas law, this probable cause hearing is an express statutory substitute for proceeding by a grand jury. And so we think it would be a little bit strange to say that you have rights at the substitute proceeding that you only have by virtue of state law but --"
+2017.16-1495,0,15131,sonia_sotomayor,scotus_justice,502.64,512.48,"I'm sorry, how -- how is it the same? You -- it's not the same. In a grand jury, there's no adversarial pursuit."
+2017.16-1495,0,42810,toby_j_heytens,,523.56,527.36,"Well, I -- I agree that the procedures aren't the same, certainly, Justice Sotomayor."
+2017.16-1495,0,15139,stephen_g_breyer,scotus_justice,640.08,646.8,"Well, I don't -- so back to my first question, I don't know what the answer is in a grand jury proceeding."
+2017.16-1495,0,42810,toby_j_heytens,,671.36,672.28,Justice Breyer --
+2017.16-1495,0,15139,stephen_g_breyer,scotus_justice,672.28,677.76,"So I do think perhaps they should be treated alike, but I don't know what alike is."
+2017.16-1495,0,42810,toby_j_heytens,,677.76,685.84,"Well -- well, Justice Breyer, I think all the reasons that the Court has said that you can't collaterally attack an indictment would also argue in saying that you can't file a 1983 action."
+2017.16-1495,0,15139,stephen_g_breyer,scotus_justice,685.84,686.12,Why?
+2017.16-1495,0,42810,toby_j_heytens,,686.12,686.56,"Well, because --"
+2017.16-1495,0,15139,stephen_g_breyer,scotus_justice,686.56,687.12,I don't know.
+2017.16-1495,0,42810,toby_j_heytens,,692.8,692.92,Sure.
+2017.16-1495,0,15139,stephen_g_breyer,scotus_justice,692.92,694.56,And I assume you've looked it up.
+2017.16-1495,0,42810,toby_j_heytens,,694.56,710.16,"I have, Justice Breyer. And -- is -- the reasons this Court gave in its most recent decision on the grand -- the collateral attack on the grand jury, the Court said: Well, if you had a right to challenge the evidence that was introduced before you -- before -- against you at a grand jury, you would have a right to discovery."
+2017.16-1495,0,15139,stephen_g_breyer,scotus_justice,712.16,712.76,"Yeah, all right."
+2017.16-1495,0,15086,john_g_roberts_jr,scotus_justice,713.12,713.28,Who would --
+2017.16-1495,0,15139,stephen_g_breyer,scotus_justice,713.28,733.04,"So -- so we have an instance where there is a committee investigating Mr. Smith and Mr. Smith takes the Fifth Amendment 90 -- 94 times and then they compel him to give all kinds of statements and then there's a grand jury and he goes to the judge and says: Judge, keep those statements out."
+2017.16-1495,0,42810,toby_j_heytens,,733.04,733.24,I --
+2017.16-1495,0,15139,stephen_g_breyer,scotus_justice,733.24,734.52,And Mr. --
+2017.16-1495,0,42810,toby_j_heytens,,734.52,736.24,-- I understand why Mr. Smith might want to do that.
+2017.16-1495,0,15139,stephen_g_breyer,scotus_justice,736.24,737.12,Yeah.
+2017.16-1495,0,42810,toby_j_heytens,,737.12,737.92,But I -- but I guess just --
+2017.16-1495,0,15139,stephen_g_breyer,scotus_justice,737.92,738.72,And I understand that.
+2017.16-1495,0,42810,toby_j_heytens,,741.44,742.0,So --
+2017.16-1495,0,15139,stephen_g_breyer,scotus_justice,742.0,743.72,And there we are. Keep them out.
+2017.16-1495,0,42810,toby_j_heytens,,756.0,758.04,"Well -- well, Justice Breyer, I -- I'd say two things on that."
+2017.16-1495,0,15131,sonia_sotomayor,scotus_justice,832.52,833.2,"I'm -- I'm sorry, can we --"
+2017.16-1495,0,15068,samuel_a_alito_jr,scotus_justice,833.2,834.08,Mr. Heytens --
+2017.16-1495,0,15131,sonia_sotomayor,scotus_justice,834.08,853.04,Can we step back a second? Your brief notes that the Respondent did not file a motion to suppress his statements or object at the probable cause hearing to their admission. Isn't that a waiver?
+2017.16-1495,0,42810,toby_j_heytens,,853.04,856.8,"Justice, I want to be careful, Justice Sotomayor, about what is and is not in the record."
+2017.16-1495,0,15131,sonia_sotomayor,scotus_justice,863.48,864.84,"Well, you've seen the record."
+2017.16-1495,0,42810,toby_j_heytens,,864.84,867.6,"And based on my review of the transcript, I do not -- it's not in --"
+2017.16-1495,0,15131,sonia_sotomayor,scotus_justice,867.6,868.12,So --
+2017.16-1495,0,42810,toby_j_heytens,,868.12,873.08,"It's not in the record, but I understand -- my understanding from the hearing is that he did not file such a motion."
+2017.16-1495,0,15131,sonia_sotomayor,scotus_justice,873.08,892.76,"And wouldn't a ruling by us against you just mean that defendants -- whether it's within 48 hours at a hearing that's being held or a probable cause hearing, et cetera, wouldn't we be putting the onus on defendants to raise a valid objection if they have one then?"
+2017.16-1495,0,42810,toby_j_heytens,,892.76,900.24,"Justice Sotomayor, I -- I would certainly say if the Court were to rule against us, I would urge that you make clear that any such right requires a timely objection on --"
+2017.16-1495,0,15131,sonia_sotomayor,scotus_justice,900.24,904.0,"Well, that's a matter of -- of -- of law."
+2017.16-1495,0,42810,toby_j_heytens,,909.64,911.52,"That's certainly generally true, Justice Sotomayor, yes."
+2017.16-1495,0,15068,samuel_a_alito_jr,scotus_justice,912.04,931.96,Are you familiar with any cases -- I don't know what the states say about this -- but in federal law that allow a person who thinks that he or she may be under investigation by a grand jury to go to a federal judge and file a motion in limine regarding the evidence that may be presented to the grand jury?
+2017.16-1495,0,42810,toby_j_heytens,,931.96,932.88,"I am not, Justice Alito."
+2017.16-1495,0,15068,samuel_a_alito_jr,scotus_justice,932.88,934.24,"This would be revolutionary, wouldn't it?"
+2017.16-1495,0,42810,toby_j_heytens,,934.24,940.0,"I -- I would agree with that, Justice Alito. If there are no further questions, I'd like to reserve."
+2017.16-1495,0,15086,john_g_roberts_jr,scotus_justice,940.0,951.76,"Thank you, counsel. Ms. Prelogar."
+2017.16-1495,1,62747,elizabeth_b_prelogar,,951.76,961.88,"Mr. Chief Justice, and may it please the Court: The Self-Incrimination Clause prohibits using a defendant's compelled statement to adjudicate his criminal responsibility."
+2017.16-1495,1,15094,elena_kagan,scotus_justice,976.12,991.0,"Ms. -- Ms. Prelogar, I -- I guess that would mean as a conceptual matter, even if not as a practical matter, but as a conceptual matter, that the government could force somebody to testify against himself in such a proceeding?"
+2017.16-1495,1,62747,elizabeth_b_prelogar,,991.0,1007.84,"Well, to be clear, Justice Kagan, we think that a defendant in that situation would still -- would still have a valid privilege against self-incrimination because he could reasonably fear that anything he says in that probable cause hearing could then be used against him at the ensuing trial to prove his guilt. So a defendant could invoke his privilege to prevent that testimony."
+2017.16-1495,1,15094,elena_kagan,scotus_justice,1013.36,1013.52,Yeah.
+2017.16-1495,1,62747,elizabeth_b_prelogar,,1028.0,1029.48,Only by granting that immunity and --
+2017.16-1495,1,15094,elena_kagan,scotus_justice,1029.48,1029.72,Right.
+2017.16-1495,1,62747,elizabeth_b_prelogar,,1029.72,1034.56,"-- as this Court has recognized in the immunity cases, by then conveying on the defendant and conferring on him that --"
+2017.16-1495,1,15094,elena_kagan,scotus_justice,1034.56,1046.84,"How about this? How about if he didn't testify? Could -- could the government draw an inference against him for failing to testify, as the government could, for example, in a civil case?"
+2017.16-1495,1,62747,elizabeth_b_prelogar,,1046.84,1058.52,"I think that the government could draw the adverse inference, but I think the inference would only matter if the government had already come forward with sufficient evidence to show that you would expect the defendant to respond to that and to speak at that hearing."
+2017.16-1495,1,15094,elena_kagan,scotus_justice,1067.44,1078.8,"Yeah, I guess my questions are just that it seems odd for something that is understood to be a part of the criminal case, I don't -- I -- I -- I take it that you have no continuing objection to that view either --"
+2017.16-1495,1,62747,elizabeth_b_prelogar,,1078.8,1079.4,That's right.
+2017.16-1495,1,15094,elena_kagan,scotus_justice,1080.08,1102.2,"So, you know, it just seems odd for something that is -- is clearly part of a criminal case to say: Yes, the government can draw an adverse inference, but don't worry, we won't, it will never come up; and, yes, the government could force him to testify against himself, but don't worry, we would have to give him immunity and we -- and we wouldn't want to do that. It just seems conceptually a difficult position."
+2017.16-1495,1,62747,elizabeth_b_prelogar,,1102.2,1125.16,"Well, I think that the reason we think that that is so and that those things are permissible is because the consequence of that probable cause hearing is simply an interim step in the criminal procedure that will -- that will then go on to the criminal trial. And I think that in the context of that proceeding, where the defendant's not exposed to the risk that those statements are going to be used for the really consequential things, for guilt and punishment, he hasn't functioned as a witness against himself --"
+2017.16-1495,1,15131,sonia_sotomayor,scotus_justice,1125.16,1131.4,"I'm sorry, if you -- if you don't win at the probable cause hearing, that ends the case."
+2017.16-1495,1,62747,elizabeth_b_prelogar,,1143.04,1143.64,That's --
+2017.16-1495,1,15131,sonia_sotomayor,scotus_justice,1143.64,1145.96,Because it ends the case.
+2017.16-1495,1,62747,elizabeth_b_prelogar,,1145.96,1146.44,That's true --
+2017.16-1495,1,15131,sonia_sotomayor,scotus_justice,1146.44,1146.88,It can end it.
+2017.16-1495,1,62747,elizabeth_b_prelogar,,1146.88,1152.72,"-- Justice Sotomayor, but I think what the Self-Incrimination Clause focuses on are -- is what the defendant's exposure is."
+2017.16-1495,1,15131,sonia_sotomayor,scotus_justice,1159.32,1164.96,But it increases the possibility of his being found guilty and punishment imposed?
+2017.16-1495,1,62747,elizabeth_b_prelogar,,1164.96,1170.48,I think that that can't be the test because it would be inconsistent with this Court's decision in Estelle versus Smith.
+2017.16-1495,1,15139,stephen_g_breyer,scotus_justice,1178.0,1190.04,"What -- what about other things? I mean, how does it work? I've -- I've not conducted grand juries, some of my colleagues have, but, I mean, I can imagine all kinds of unconstitutionally seized evidence. It could violate the Fourth Amendment."
+2017.16-1495,1,62747,elizabeth_b_prelogar,,1205.08,1208.44,"Well, that's what this Court has held in cases like Lawn and Calandra, that a defendant --"
+2017.16-1495,1,15139,stephen_g_breyer,scotus_justice,1208.44,1216.24,"Then does that happen all the time, that in grand juries they introduce coerced confessions, they introduce -- this comes as a surprise to me."
+2017.16-1495,1,62747,elizabeth_b_prelogar,,1216.24,1217.16,"Well, I think --"
+2017.16-1495,1,15139,stephen_g_breyer,scotus_justice,1217.16,1219.16,"I mean, you have the experience."
+2017.16-1495,1,62747,elizabeth_b_prelogar,,1219.16,1219.52,I -- I --
+2017.16-1495,1,15139,stephen_g_breyer,scotus_justice,1219.52,1231.8,"They introduce illegally seized evidence, they introduce all this constitutionally impermissible evidence."
+2017.16-1495,1,62747,elizabeth_b_prelogar,,1231.8,1237.72,"Well, the issue, Justice Breyer, is I think that oftentimes it won't be apparent from the outset that the evidence was obtained in -- in violation of the Constitution."
+2017.16-1495,1,15139,stephen_g_breyer,scotus_justice,1237.72,1239.04,I just want to know what happens.
+2017.16-1495,1,62747,elizabeth_b_prelogar,,1243.68,1244.0,I can tell you --
+2017.16-1495,1,15139,stephen_g_breyer,scotus_justice,1244.0,1245.84,And it seems like an important point.
+2017.16-1495,1,62747,elizabeth_b_prelogar,,1245.84,1260.6,"I can tell you that at pretrial probable cause hearings, both under the federal rule, this is Rule 5.1, and in the majority of state jurisdictions, defendants are prohibited by rule from challenging the admission of evidence on grounds that it was unlawfully acquired. Now that doesn't mean that they lack a remedy."
+2017.16-1495,1,15094,elena_kagan,scotus_justice,1304.64,1308.4,"Ms. Prelogar, suppose we rule against you on this issue."
+2017.16-1495,1,62747,elizabeth_b_prelogar,,1315.68,1348.4,"I think it would depend on the basis on which this Court ruled against us. Now I understand that Respondent has suggested some ways to narrow what I understand to be the Tenth Circuit's rule in this case where, as I read the Tenth Circuit's opinion, once you're in the criminal case, all proceedings are covered. And Respondent identifies some limiting constructions that I think would limit the number of procedures to which the rule would apply, looking at things like what is the legal issue being resolved in the case and what is the potential consequence. So, in that sense, I think that the Court could write an opinion that narrows down on the probable cause hearing that was at issue here."
+2017.16-1495,1,15094,elena_kagan,scotus_justice,1350.44,1376.44,"And how about -- Mr. Heytens spent some time talking about Gerstein hearings. Do you think that this is the same -- identical to Gerstein hearings so that whatever we did here we would have to do there, or do you think a distinction can be drawn between the two? In other words, if you -- if we rule against you, will the government come back the next time and say, Ah, we lose now, or will you have a good argument to make?"
+2017.16-1495,1,62747,elizabeth_b_prelogar,,1376.44,1378.6,"I'm -- I'm sure we would not lose, or hopefully not."
+2017.16-1495,1,15084,ruth_bader_ginsburg,scotus_justice,1405.12,1408.6,"Here, it is to -- it is to determine whether there's enough evidence to go to trial."
+2017.16-1495,1,62747,elizabeth_b_prelogar,,1422.04,1426.96,"Well, I think, again, Justice Ginsburg, this goes back to the lesser consequences of a probable cause hearing."
+2017.16-1495,1,15084,ruth_bader_ginsburg,scotus_justice,1434.16,1440.48,"But how can you use, to determine whether there's enough evidence to go to trial, evidence that can't come in at trial?"
+2017.16-1495,1,62747,elizabeth_b_prelogar,,1440.48,1450.08,"And again, I think that that's not anomalous when you look at how these proceedings generally operate with the admission of hearsay, for example, with the admission of evidence that might later be determined to have violated the Fourth Amendment."
+2017.16-1495,1,15086,john_g_roberts_jr,scotus_justice,1450.08,1461.36,"I suppose you don't know at the probable cause hearing whether it's going to be admissible or not because you may not have the defendant's argument, the defendant's side of the case. I mean, that's the whole point about the grand jury proceedings."
+2017.16-1495,1,62747,elizabeth_b_prelogar,,1461.36,1461.88,Exactly.
+2017.16-1495,1,15131,sonia_sotomayor,scotus_justice,1486.56,1487.32,Only if it's raised.
+2017.16-1495,1,62747,elizabeth_b_prelogar,,1489.28,1505.4,"Well, Justice Sotomayor, I think that that shows that there are complicated questions about what a defendant would then have to do to preserve an argument. And -- and this Court has earlier -- in earlier cases observed that a lot of times at the outset of a case the suppression question might be complicated and fact-intensive."
+2017.16-1495,1,15131,sonia_sotomayor,scotus_justice,1509.72,1515.56,There's a lot of jurisdictions who already give defendants those rights to do it right at the beginning of the case.
+2017.16-1495,1,62747,elizabeth_b_prelogar,,1522.2,1527.92,"Well, there's certainly a lot of variants in how state jurisdictions handle this issue, but I think the -- the problem --"
+2017.16-1495,1,15131,sonia_sotomayor,scotus_justice,1527.92,1533.92,Very few of them seem gummed up in the way that you're anticipating this will create a problem.
+2017.16-1495,1,62747,elizabeth_b_prelogar,,1533.92,1558.84,"Well, that's, I think, because, as -- as we read the criminal cases, that this issue hasn't largely arisen, and there hasn't been a requirement that courts adjudicate suppression questions in the sequencing of preliminary proceedings before they resolve other issues in the case. If this Court were to instead adopt a broader rule and find that any use in any proceeding in a criminal case could violate the Fifth Amendment, then I expect that it would require substantial changes to the criminal process."
+2017.16-1495,1,15086,john_g_roberts_jr,scotus_justice,1558.84,1567.64,"Thank you, counsel. Ms. Corkran."
+2017.16-1495,2,62959,kelsi_b_corkran,,1567.64,1584.56,"Mr. Chief Justice, and may it please the Court: Our test for a violation of the Self-Incrimination Clause is the one this Court has always applied: A compelled testimonial incriminating statement cannot be used in a criminal case. That test has four requirements."
+2017.16-1495,2,15113,anthony_m_kennedy,scotus_justice,1643.72,1656.36,"Well, you seem to assume that in a probable cause hearing the state has gathered all of its evidence, that it's -- that it's done all of its investigation, that it has all of its witnesses in order, but that's just not the way probable cause hearings work."
+2017.16-1495,2,62959,kelsi_b_corkran,,1656.36,1659.88,"No, certainly not. Probable cause is a very low bar."
+2017.16-1495,2,15113,anthony_m_kennedy,scotus_justice,1681.76,1687.92,"No, but -- but the point is the government might not have readily available the evidence that it ultimately will use."
+2017.16-1495,2,62959,kelsi_b_corkran,,1687.92,1719.76,"Yes, but once we're at the point where we have this adversarial courtroom proceeding, which is the last step before moving to trial, if all the government has at that point to prove probable cause is the defendant's compelled statement, then it makes enormous sense to figure out at that stage whether that statement is admissible or not for the reason Justice Ginsburg pointed out earlier, which is 95 percent of the time this hearing is the whole ball game. Once the prosecution gets its probable cause determination, the vast majority of defendants will choose to plead instead of --"
+2017.16-1495,2,15068,samuel_a_alito_jr,scotus_justice,1719.76,1720.48,"Well, that's very --"
+2017.16-1495,2,15086,john_g_roberts_jr,scotus_justice,1720.48,1728.04,"Well, right. But the plea will -- the content of the plea agreement will be affected by whether or not the statements are going to be admissible at trial."
+2017.16-1495,2,62959,kelsi_b_corkran,,1732.72,1732.92,Yes.
+2017.16-1495,2,15086,john_g_roberts_jr,scotus_justice,1748.64,1750.04,"Well, I don't know that that's true."
+2017.16-1495,2,62959,kelsi_b_corkran,,1764.4,1765.0,Yeah.
+2017.16-1495,2,15139,stephen_g_breyer,scotus_justice,1782.16,1801.48,"For -- for reasons that are my own problem, I suddenly see now for the first time that if you win here, if you win, this is a major change because it's pretty hard to see how you can say you can attack the preliminary hearing and you cannot attack the grand jury, and you cannot attack the Estelle hearing or all these different hearings --"
+2017.16-1495,2,62959,kelsi_b_corkran,,1801.48,1801.68,Yeah.
+2017.16-1495,2,15139,stephen_g_breyer,scotus_justice,1801.68,1815.44,"-- that they've been talking about, so suddenly, whereas you previously haven't done it for whatever set of historical reasons, this will suddenly be subject to a lot of attacks. So that makes me pretty careful."
+2017.16-1495,2,62959,kelsi_b_corkran,,1815.44,1815.88,Yeah.
+2017.16-1495,2,15139,stephen_g_breyer,scotus_justice,1815.88,1863.32,"And for that reason, I looked up whether you objected, because I do not see how the magistrate running the -- the preliminary hearing can know what to do unless somebody tells him that these statements were taken in violation of the Fifth Amendment. One, I don't see where you ever did tell the magistrate that. Two, looking at the transcript of the preliminary hearing, I couldn't find any instance where any of the compelled statements were introduced into the preliminary hearing. So what I would like you to do is to tell me what pages to look at in the preliminary transcript, which I have here, which will show that you did object or at least that some of the compelled statements were used."
+2017.16-1495,2,62959,kelsi_b_corkran,,1863.32,1865.36,"So none of this is in the record, and the reason it's not --"
+2017.16-1495,2,15139,stephen_g_breyer,scotus_justice,1865.36,1867.2,It may not be in the record.
+2017.16-1495,2,62959,kelsi_b_corkran,,1867.2,1867.44,Yeah.
+2017.16-1495,2,15139,stephen_g_breyer,scotus_justice,1867.84,1869.28,But if it's not in the --
+2017.16-1495,2,15086,john_g_roberts_jr,scotus_justice,1869.28,1871.0,"But that's an important point, isn't it?"
+2017.16-1495,2,62959,kelsi_b_corkran,,1871.0,1871.32,Yes.
+2017.16-1495,2,15139,stephen_g_breyer,scotus_justice,1871.32,1872.92,"Of course, it's an important point."
+2017.16-1495,2,62959,kelsi_b_corkran,,1872.92,1873.36,But -- (Laughter.)
+2017.16-1495,2,62959,kelsi_b_corkran,,1873.36,1873.72,But the --
+2017.16-1495,2,15086,john_g_roberts_jr,scotus_justice,1873.72,1881.44,"Well, before we start having an -- an extended exchange about material and something that's not in the record, I -- well, I guess I would just like to point out that it's not in the record."
+2017.16-1495,2,62959,kelsi_b_corkran,,1886.92,1887.2,But the --
+2017.16-1495,2,15086,john_g_roberts_jr,scotus_justice,1887.2,1896.0,How do we know that it's been adequately -- had a chance for people to object to it and all that? It's -- it's not just a passing comment that it's not in the record.
+2017.16-1495,2,15139,stephen_g_breyer,scotus_justice,1896.0,1903.16,Nor -- nor is actually mine a passing comment because Article III of the Constitution says we are to take real cases and controversies.
+2017.16-1495,2,62959,kelsi_b_corkran,,1903.16,1903.68,Yeah.
+2017.16-1495,2,15139,stephen_g_breyer,scotus_justice,1903.68,1929.2,"And to decide a major matter where, in fact, going from what is in the record to an earlier stage of this and discovering if it's true, that there was no instance about which you are complaining, in my mind raises the question as to whether this is, in fact, an appropriate case or controversy for the Court to take."
+2017.16-1495,2,15086,john_g_roberts_jr,scotus_justice,1929.2,1932.96,And we're supposed to decide whether the cases are controversies according to law.
+2017.16-1495,2,62959,kelsi_b_corkran,,1942.24,1942.44,So --
+2017.16-1495,2,15086,john_g_roberts_jr,scotus_justice,1942.44,1943.16,-- go ahead and answer it.
+2017.16-1495,2,62959,kelsi_b_corkran,,1943.16,1943.4,Yeah.
+2017.16-1495,2,15086,john_g_roberts_jr,scotus_justice,1943.4,1944.68,It's a question that you've been presented with.
+2017.16-1495,2,15139,stephen_g_breyer,scotus_justice,1946.44,1947.44,You don't have to answer it.
+2017.16-1495,2,62959,kelsi_b_corkran,,1947.56,1947.72,I --
+2017.16-1495,2,15086,john_g_roberts_jr,scotus_justice,1947.72,1948.16,"No, no, feel free."
+2017.16-1495,2,62959,kelsi_b_corkran,,1952.6,1952.8,Yeah.
+2017.16-1495,2,15068,samuel_a_alito_jr,scotus_justice,1982.68,1985.36,"Well, this is a very -- this is a very odd case."
+2017.16-1495,2,62959,kelsi_b_corkran,,2010.12,2010.52,No.
+2017.16-1495,2,15068,samuel_a_alito_jr,scotus_justice,2014.72,2016.8,Then why are you suing the city?
+2017.16-1495,2,62959,kelsi_b_corkran,,2016.8,2024.12,So Section 1983 establishes liability for causing the deprivation of a constitutional right.
+2017.16-1495,2,15068,samuel_a_alito_jr,scotus_justice,2031.72,2032.84,I understand that.
+2017.16-1495,2,62959,kelsi_b_corkran,,2032.84,2033.16,Yeah.
+2017.16-1495,2,15068,samuel_a_alito_jr,scotus_justice,2033.16,2038.4,I'm just trying to understand this seems like a very odd case and I'm just trying to understand what's really involved.
+2017.16-1495,2,62959,kelsi_b_corkran,,2040.12,2040.48,Yeah.
+2017.16-1495,2,15068,samuel_a_alito_jr,scotus_justice,2040.48,2042.12,-- I don't understand.
+2017.16-1495,2,62959,kelsi_b_corkran,,2042.12,2042.76,So -- so I'll say --
+2017.16-1495,2,15068,samuel_a_alito_jr,scotus_justice,2042.76,2047.56,How did they cause the -- the -- what will your theory be as to how they caused this prosecution?
+2017.16-1495,2,62959,kelsi_b_corkran,,2047.56,2047.76,Yeah.
+2017.16-1495,2,15131,sonia_sotomayor,scotus_justice,2102.88,2123.4,"Counsel, just so we're clear, the -- I think the concurring opinion in this case did a very good job of pointing out that all of the questions that are being asked, both by Justice Alito and by Justice Breyer, there is a substantial question about whether any of these statements were compelled."
+2017.16-1495,2,62959,kelsi_b_corkran,,2123.4,2123.96,Yeah.
+2017.16-1495,2,15131,sonia_sotomayor,scotus_justice,2123.96,2129.32,There is a substantial question about whether there was an objection or not.
+2017.16-1495,2,62959,kelsi_b_corkran,,2134.28,2134.4,Yeah.
+2017.16-1495,2,62959,kelsi_b_corkran,,2149.56,2150.64,So -- so going back to the --
+2017.16-1495,2,15086,john_g_roberts_jr,scotus_justice,2150.64,2151.12,Yeah.
+2017.16-1495,2,62959,kelsi_b_corkran,,2151.48,2151.8,Yeah.
+2017.16-1495,2,15131,sonia_sotomayor,scotus_justice,2155.32,2156.64,Could I just go back?
+2017.16-1495,2,62959,kelsi_b_corkran,,2156.64,2157.16,Yeah.
+2017.16-1495,2,15131,sonia_sotomayor,scotus_justice,2157.16,2159.84,There is a circuit split on this.
+2017.16-1495,2,62959,kelsi_b_corkran,,2173.2,2174.24,Yeah.
+2017.16-1495,2,15131,sonia_sotomayor,scotus_justice,2174.24,2177.0,Do you know whether the works have been gummed up in those circuits?
+2017.16-1495,2,62959,kelsi_b_corkran,,2177.0,2179.0,There is no evidence they've been gummed up.
+2017.16-1495,2,15068,samuel_a_alito_jr,scotus_justice,2212.68,2216.24,"Well, unless you can distinguish this from the grand jury --"
+2017.16-1495,2,62959,kelsi_b_corkran,,2216.24,2216.48,Yeah.
+2017.16-1495,2,15068,samuel_a_alito_jr,scotus_justice,2216.48,2226.72,-- it's -- the issue has enormous implications for the reasons that were brought out by Justice Breyer's questions. So how could you distinguish this from the grand jury?
+2017.16-1495,2,62959,kelsi_b_corkran,,2226.72,2227.0,Yeah.
+2017.16-1495,2,15094,elena_kagan,scotus_justice,2287.56,2300.36,"Ms. Corkran, suppose that I just did not want to go into the grand jury business, mostly because I think that there is this very long tradition of not cracking them open unless we have to."
+2017.16-1495,2,62959,kelsi_b_corkran,,2300.36,2300.84,Yes.
+2017.16-1495,2,15094,elena_kagan,scotus_justice,2300.84,2318.4,"And, you know, it might be that there is the same right in the grand jury context, but we've just decided in a wide variety of ways that that right does not get remedied in the same way, as easily, as quickly, as anything, as in other contexts. Would it be -- wouldn't that be correct?"
+2017.16-1495,2,62959,kelsi_b_corkran,,2318.4,2324.08,"Yes, that's fine and -- and that's as far as we went in our -- our briefing because, again, this is such a complicated question."
+2017.16-1495,2,15068,samuel_a_alito_jr,scotus_justice,2406.04,2411.56,"Well, what is your test for determining whether a proceeding is part of the criminal case for these purposes?"
+2017.16-1495,2,62959,kelsi_b_corkran,,2411.56,2421.12,So I would look to the -- the Court's definition of criminal prosecution in Rothgery because we know that a criminal case is at least as broad as a criminal prosecution.
+2017.16-1495,2,15131,sonia_sotomayor,scotus_justice,2434.04,2436.56,How do you distinguish Estelle?
+2017.16-1495,2,15068,samuel_a_alito_jr,scotus_justice,2436.56,2436.92,Does it --
+2017.16-1495,2,62959,kelsi_b_corkran,,2436.92,2440.16,So -- so Estelle was a case about competency.
+2017.16-1495,2,15068,samuel_a_alito_jr,scotus_justice,2511.4,2518.24,"But your answer is, though, but in general, then, the -- the clause does not apply or does apply in a competency hearing?"
+2017.16-1495,2,62959,kelsi_b_corkran,,2518.24,2519.2,So the clause --
+2017.16-1495,2,15068,samuel_a_alito_jr,scotus_justice,2519.2,2527.52,The evidence -- evidence obtained in violation of the -- the privilege would be admissible in a competency hearing or not?
+2017.16-1495,2,62959,kelsi_b_corkran,,2527.52,2527.72,Yeah.
+2017.16-1495,2,15068,samuel_a_alito_jr,scotus_justice,2559.6,2561.56,So what about a Gerstein hearing and a bail hearing?
+2017.16-1495,2,62959,kelsi_b_corkran,,2561.56,2562.12,Yeah.
+2017.16-1495,2,15068,samuel_a_alito_jr,scotus_justice,2582.16,2591.68,But I thought you said that the -- that the criminal case begins when the -- when the defendant is -- appears in court and is called upon to answer the charges.
+2017.16-1495,2,62959,kelsi_b_corkran,,2591.68,2592.36,Yes.
+2017.16-1495,2,15068,samuel_a_alito_jr,scotus_justice,2593.88,2595.52,That's not -- a Gerstein doesn't satisfy that?
+2017.16-1495,2,62959,kelsi_b_corkran,,2595.52,2604.64,"No, the point of a -- well, it depends on whether -- when you would have the Gerstein hearing, but the Gerstein hearing that's contemplated by Gerstein is this hearing within 48 hours of arrest --"
+2017.16-1495,2,15068,samuel_a_alito_jr,scotus_justice,2604.64,2604.84,Yeah.
+2017.16-1495,2,62959,kelsi_b_corkran,,2604.84,2619.68,"-- where the purpose is to get the arrest warrant after the fact. There's no reason that the Fifth Amendment requirements would apply to that hearing when the Sixth Amendment requirements don't. It's -- it's -- to the extent that it's happening at the same time of the -- as the criminal case, it's -- it's happening in parallel."
+2017.16-1495,2,15068,samuel_a_alito_jr,scotus_justice,2619.68,2627.24,"Wouldn't it -- in a criminal -- in a federal case, if there's a complaint, wouldn't it begin at the time of the filing of the complaint? Wouldn't that be the beginning of the criminal case?"
+2017.16-1495,2,62959,kelsi_b_corkran,,2627.24,2627.68,Yeah.
+2017.16-1495,2,15068,samuel_a_alito_jr,scotus_justice,2664.32,2666.32,I'm just not -- I'm not following your answer.
+2017.16-1495,2,62959,kelsi_b_corkran,,2666.32,2666.88,Yeah.
+2017.16-1495,2,15068,samuel_a_alito_jr,scotus_justice,2666.88,2674.84,"In a federal case, when a complaint is filed, is that not the beginning of the criminal case, in your view, so that everything that happens after that is part of the criminal case?"
+2017.16-1495,2,62959,kelsi_b_corkran,,2674.84,2676.4,"Yes, that's right."
+2017.16-1495,2,15068,samuel_a_alito_jr,scotus_justice,2676.4,2680.68,"First appearance -- the initial appearance in court, that's part of the -- the criminal case."
+2017.16-1495,2,62959,kelsi_b_corkran,,2689.2,2689.52,Yes.
+2017.16-1495,2,15094,elena_kagan,scotus_justice,2709.92,2710.16,Right.
+2017.16-1495,2,62959,kelsi_b_corkran,,2720.84,2721.8,"Yes, exactly."
+2017.16-1495,2,15094,elena_kagan,scotus_justice,2721.8,2726.48,"And in that proceeding, you would say that the privilege does not apply --"
+2017.16-1495,2,62959,kelsi_b_corkran,,2726.48,2726.76,Yes.
+2017.16-1495,2,15094,elena_kagan,scotus_justice,2727.48,2729.56,-- because the criminal case had not yet commenced --
+2017.16-1495,2,62959,kelsi_b_corkran,,2729.56,2730.04,"Yeah, it's not --"
+2017.16-1495,2,15094,elena_kagan,scotus_justice,2730.04,2731.56,"-- before the arrest has been made, is that correct?"
+2017.16-1495,2,62959,kelsi_b_corkran,,2731.56,2731.88,Right.
+2017.16-1495,2,15139,stephen_g_breyer,scotus_justice,2748.96,2755.6,"Is -- is it possible to ask, does -- is this a -- this is a 1983 case?"
+2017.16-1495,2,62959,kelsi_b_corkran,,2755.6,2755.76,Yes.
+2017.16-1495,2,15139,stephen_g_breyer,scotus_justice,2755.76,2782.68,"Could we say, in your opinion, before a plaintiff in a 1983 case can bring a claim, that the preliminary hearing consider -- considered matters that were taken in violation of the Fifth Amendment, they must allege in their complaint that they objected before the hearing, for otherwise the magistrate would have no idea what he is supposed to do?"
+2017.16-1495,2,62959,kelsi_b_corkran,,2782.68,2785.6,So Petitioner has not asked this Court to interpret Section 1983.
+2017.16-1495,2,15139,stephen_g_breyer,scotus_justice,2785.6,2786.88,I know they haven't. I'm asking.
+2017.16-1495,2,62959,kelsi_b_corkran,,2786.88,2787.24,Yeah.
+2017.16-1495,2,15139,stephen_g_breyer,scotus_justice,2799.24,2812.04,"Well, then what is the answer to this? There are many, many ways in which a -- a statement by an individual could violate the -- incrimination."
+2017.16-1495,2,62959,kelsi_b_corkran,,2819.24,2820.28,Yeah.
+2017.16-1495,2,15139,stephen_g_breyer,scotus_justice,2820.28,2825.32,-- and they don't know that he considers that to be a violation of the Fifth Amendment.
+2017.16-1495,2,62959,kelsi_b_corkran,,2825.32,2827.0,"Well, but the --"
+2017.16-1495,2,15139,stephen_g_breyer,scotus_justice,2827.0,2851.04,"Then those statements go to court in a preliminary hearing, and the magistrate doesn't know that the person considers them to be a violation of the Fifth Amendment. What are the magistrates and the police department supposed to do? They're not necessarily conversant with all the facts of the case, if no one objects."
+2017.16-1495,2,62959,kelsi_b_corkran,,2851.04,2851.48,Yeah.
+2017.16-1495,2,15086,john_g_roberts_jr,scotus_justice,2930.68,2932.08,I don't understand.
+2017.16-1495,2,62959,kelsi_b_corkran,,2940.12,2940.32,Yes.
+2017.16-1495,2,15086,john_g_roberts_jr,scotus_justice,2955.32,2967.84,"Well, so if the person says -- you know, they say you've got to tell me what happened or you'll be fired, and the person says, you know, I buried the body here, he's not supposed to tell anybody?"
+2017.16-1495,2,62959,kelsi_b_corkran,,2967.84,2973.68,"Well, if he was asking that question as part of an administrative investigation --"
+2017.16-1495,2,15086,john_g_roberts_jr,scotus_justice,2973.68,2973.92,Yeah.
+2017.16-1495,2,62959,kelsi_b_corkran,,2973.92,2978.68,"-- then -- then, yes, you can't use that statement. Now there could be an independent criminal investigation --"
+2017.16-1495,2,15086,john_g_roberts_jr,scotus_justice,2978.68,2980.32,I just want to make sure I understand.
+2017.16-1495,2,62959,kelsi_b_corkran,,2992.52,2998.32,So you're talking about a government employer making that inquiry of an employee as part of an administrative investigation --
+2017.16-1495,2,15086,john_g_roberts_jr,scotus_justice,2998.32,2998.68,Yes.
+2017.16-1495,2,62959,kelsi_b_corkran,,2998.68,3006.44,"-- or is the government -- so, under those circumstances, once the government gives the grant of immunity, no, that cannot be used."
+2017.16-1495,2,15086,john_g_roberts_jr,scotus_justice,3010.2,3011.44,There's no grant of immunity.
+2017.16-1495,2,62959,kelsi_b_corkran,,3016.24,3017.4,Yes.
+2017.16-1495,2,15086,john_g_roberts_jr,scotus_justice,3020.64,3022.64,For the purposes of an ongoing investigation?
+2017.16-1495,2,62959,kelsi_b_corkran,,3022.64,3022.96,Yeah.
+2017.16-1495,2,15113,anthony_m_kennedy,scotus_justice,3052.44,3061.84,"So, if the employer requires a statement to be made and the employee says that a crime was committed, the employer cannot tell the Police Department?"
+2017.16-1495,2,62959,kelsi_b_corkran,,3061.84,3064.48,"Yes, that's been the rule since Garrity and -- and Kastigar."
+2017.16-1495,2,15131,sonia_sotomayor,scotus_justice,3099.16,3118.6,"This is such an odd case because I'm not quite sure that there was a compelled statement at all, if the facts as I've read them -- and I know they're not in the record and I know what the Chief says -- but, first of all, no employer -- his employer didn't compel these statements."
+2017.16-1495,2,62959,kelsi_b_corkran,,3121.92,3123.64,"That was true for the first statement, yeah."
+2017.16-1495,2,15131,sonia_sotomayor,scotus_justice,3123.64,3124.12,All right.
+2017.16-1495,2,62959,kelsi_b_corkran,,3127.64,3129.16,"No, sorry."
+2017.16-1495,2,15131,sonia_sotomayor,scotus_justice,3156.64,3159.88,"Well, I had a -- but that's what's going to be litigated below."
+2017.16-1495,2,62959,kelsi_b_corkran,,3159.88,3160.28,Yes.
+2017.16-1495,2,15131,sonia_sotomayor,scotus_justice,3160.28,3166.48,I thought he had announced his resignation before there was a request for additional --
+2017.16-1495,2,62959,kelsi_b_corkran,,3166.48,3166.56,Yeah.
+2017.16-1495,2,15131,sonia_sotomayor,scotus_justice,3171.24,3173.04,That -- I'll take it.
+2017.16-1495,2,62959,kelsi_b_corkran,,3173.04,3173.04,Okay.
+2017.16-1495,2,15131,sonia_sotomayor,scotus_justice,3173.04,3174.28,But it's still an odd case.
+2017.16-1495,2,62959,kelsi_b_corkran,,3174.28,3174.56,It is.
+2017.16-1495,2,15068,samuel_a_alito_jr,scotus_justice,3184.76,3206.8,"If this case -- if this case goes to trial, you will prove that the officer suffered damage as a result of the probable cause hearing or as a result of having been -- as a result of the admission that he made under alleged -- allegedly under compulsion by the city?"
+2017.16-1495,2,62959,kelsi_b_corkran,,3206.8,3215.72,"So it would be the use of the statement in the probable cause hearing. The complaint alleges emotional damages, reputational damage, loss of income."
+2017.16-1495,2,15068,samuel_a_alito_jr,scotus_justice,3220.44,3228.16,"Yeah, but you -- you will prove that the reason why he didn't get the job with the other police department was the probable cause hearing and not the statement that he made?"
+2017.16-1495,2,62959,kelsi_b_corkran,,3228.16,3230.44,"No, that would be inconsistent with the complaint."
+2017.16-1495,2,15131,sonia_sotomayor,scotus_justice,3239.52,3241.76,That has nothing to do with the probable cause hearing.
+2017.16-1495,2,62959,kelsi_b_corkran,,3248.16,3253.76,"Yeah, I would just say, on this record, Petitioner has not challenged the adequacy of those allegations."
+2017.16-1495,2,15086,john_g_roberts_jr,scotus_justice,3304.36,3307.0,"Thank you, counsel. Four minutes, Mr. Heytens."
+2017.16-1495,3,42810,toby_j_heytens,,3307.0,3385.72,"I'd just like to make three quick points in rebuttal: One in response to Justice Kagan's point about the apparent oddity with regard to this particular proceeding, one about suppression hearings, and one about Garrity. So, in response to Justice Kagan's questions about the oddity of this particular type of hearing, I think beyond the fact that the Supreme Court of Kansas has held that the purpose of this hearing is not to adjudicate guilt or punishment, I think an even more important indication of that is that, under Kansas law, nothing that happened at this hearing could conclusively resolve Officer Vogt's guilt or innocence one way or the other. And the way -- the reason that we know that is because the Supreme Court has specifically held that the dismissal of charges after a probable cause hearing is not preclusive of, and without prejudice to, the state's ability to reinitiate the exact same criminal prosecution. Which is the same rule for grand injures, right? The Court has said that just because a grand jury refuses to return an indictment does not mean that the prosecution cannot ask another grand jury to return an indictment. And, in fact, the Supreme Court of Kansas has reversed trial courts who have dismissed the probable cause hearing on the theory that the government will not be able to carry its proof beyond a reasonable doubt burden at trial because, they've said, that's not the purpose of this hearing."
+2017.16-1495,3,15086,john_g_roberts_jr,scotus_justice,3502.64,3503.76,"Thank you, counsel."

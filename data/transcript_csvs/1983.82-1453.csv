@@ -1,0 +1,50 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1983.82-1453,0,15073,warren_e_burger,scotus_justice,0.0,54.818,"Mr. Fredericks, I think you may proceed whenever you are ready."
+1983.82-1453,0,17630,barry_i_fredericks,,54.818,57.853,"Thank you, Mr. Chief Justice, and may it please the Court:"
+1983.82-1453,0,15073,warren_e_burger,scotus_justice,103.983,114.256,"Where would your argument take you if when the amended return was offered, tendered, the Commissioner refused to accept it?"
+1983.82-1453,0,17630,barry_i_fredericks,,114.256,138.139,"I think, Your Honor, under that point the government could argue that there was no amended return filed and I think that we would be in a very difficult position to start the running of the amended return, the government could then say the amended return is not filed."
+1983.82-1453,0,15073,warren_e_burger,scotus_justice,155.266,162.606,"Do you think that barred them from taking any other position, is that your point?"
+1983.82-1453,0,17630,barry_i_fredericks,,162.606,163.356,Well--
+1983.82-1453,0,15073,warren_e_burger,scotus_justice,163.356,165.072,+ By taking the ammended return.
+1983.82-1453,0,17630,barry_i_fredericks,,165.072,199.129,--I think that the issue of the ammended return is one that the government presses which i have always thought has been a question of an ostrich type argument in so far as they can deny the existence of an ammended return except that the Internal Revenue Code at length refers to ammended returns and is a practice that has been going on for some time and has been recognized by the courts and in many cases has been used by the government in connection with their criminal prosecutions of the people who have been filing fraudulent tax returns in the first instance.
+1983.82-1453,0,15092,sandra_day_oconnor,scotus_justice,279.731,284.301,"Well, Mr. Fredericks, the language of the two subsections is different."
+1983.82-1453,0,17630,barry_i_fredericks,,284.301,285.768,I respectfully--
+1983.82-1453,0,15092,sandra_day_oconnor,scotus_justice,285.768,295.241,"In the case of the original non-filing of a return, the section says within three years after the return is filed."
+1983.82-1453,0,17630,barry_i_fredericks,,298.561,299.161,--No.
+1983.82-1453,0,15092,sandra_day_oconnor,scotus_justice,313.154,327.914,"Well, the language in 6501(a) does say that the tax will be assessed within three years after the return is filed, does it not?"
+1983.82-1453,0,17630,barry_i_fredericks,,327.914,328.164,--That is correct.
+1983.82-1453,0,15092,sandra_day_oconnor,scotus_justice,328.164,337.686,"And that language would then apply where there is originally no return filed, but later one is filed."
+1983.82-1453,1,16461,albert_g_lauber_jr,,354.564,363.587,"Well, I don't believe you... the language in 6501(c)(1) and (3) are identical."
+1983.82-1453,1,15092,sandra_day_oconnor,scotus_justice,365.753,0.0,Right.
+1983.82-1453,2,17630,barry_i_fredericks,,366.622,369.324,--is the initial language in the first section as to the statute of limitations.
+1983.82-1453,2,15092,sandra_day_oconnor,scotus_justice,369.324,370.107,That is right.
+1983.82-1453,2,17630,barry_i_fredericks,,370.107,386.434,"And, I would suggest, Your Honor, that one must go back to 1918 when the statute was first enacted and at that time Congress provided a five-year statute of limitations and an exemption in the case of filing a fraudulent tax return."
+1983.82-1453,2,15141,william_h_rehnquist,scotus_justice,463.703,466.655,By failing to fraudulently file a tax return?
+1983.82-1453,2,17630,barry_i_fredericks,,466.655,470.523,"--Well, that is what the facts were in Bennett."
+1983.82-1453,2,15141,william_h_rehnquist,scotus_justice,476.761,483.165,Isn't there a difference between failing to fraudulently file and fraudulently failing to file?
+1983.82-1453,2,17630,barry_i_fredericks,,490.603,491.203,"No, no, I am sorry."
+1983.82-1453,2,15141,william_h_rehnquist,scotus_justice,491.203,493.638,"--that you had planned to file a fraudulent report, but you didn't."
+1983.82-1453,2,17630,barry_i_fredericks,,493.638,495.738,I am sorry.
+1983.82-1453,2,15092,sandra_day_oconnor,scotus_justice,514.867,528.393,"Well, now, if a taxpayer simply negligently, not fraudulently, failed to include more than 25 percent of the income, then there is a six-year statute of limitations, right?"
+1983.82-1453,2,17630,barry_i_fredericks,,528.393,535.296,"--Which begins to run from the day that return is filed irrespective of whatever transpires, that is correct."
+1983.82-1453,2,15092,sandra_day_oconnor,scotus_justice,535.296,544.636,"But, under you theory, you would be better off if you had a fraudulently intent than a negligent intent because then it would just be a three-year statute of limitations."
+1983.82-1453,2,17630,barry_i_fredericks,,544.636,552.742,"That is not true at all, because if you filed and it was fraudulent you have two other things, three things that have to come into play."
+1983.82-1453,2,15092,sandra_day_oconnor,scotus_justice,606.96,621.802,"But, that difference and the fact that the Congress treated the negligent omission differently does give some meaning to the language that I referred to early."
+1983.82-1453,2,17630,barry_i_fredericks,,627.64,628.908,I suggest not for this reason.
+1983.82-1453,2,15060,john_paul_stevens,scotus_justice,662.813,667.967,"Mr. Fredericks, can I ask on that point, what is the law with respect to this situation?"
+1983.82-1453,2,17630,barry_i_fredericks,,678.675,681.458,The statute of limitations on that is six years.
+1983.82-1453,2,15060,john_paul_stevens,scotus_justice,681.458,682.474,Still six years.
+1983.82-1453,2,17630,barry_i_fredericks,,682.474,690.48,"The Court's ruling is that since it is a running statute that no act, be it either--"
+1983.82-1453,2,15060,john_paul_stevens,scotus_justice,690.48,693.014,Those holdings are somewhat inconsistent with your position then.
+1983.82-1453,2,17630,barry_i_fredericks,,693.014,693.599,--I think not.
+1983.82-1453,2,15141,william_h_rehnquist,scotus_justice,825.834,836.124,"Of course, if that is the rule, Mr. Fredericks, I suppose the taxpayer has it within his control to avoid that abuse by simply not filing an amended return after he has filed a fraudulent return."
+1983.82-1453,2,17630,barry_i_fredericks,,836.124,842.695,"--Well, by not filing the amended and taking the risk of non-disclosure."
+1983.82-1453,2,15141,william_h_rehnquist,scotus_justice,845.58,846.314,Yes.
+1983.82-1453,2,17630,barry_i_fredericks,,849.718,851.968,"Well, that comes another way around."
+1983.82-1453,2,15141,william_h_rehnquist,scotus_justice,894.747,901.067,"Well, that is true of almost anybody who commits fraud in all of the variety of ways that fraud is prohibited, isn't it?"
+1983.82-1453,2,17630,barry_i_fredericks,,910.272,912.291,Only if the government discovers you.
+1983.82-1453,3,16461,albert_g_lauber_jr,,1170.507,0.0,"Mr. Chief Justice, and may it please the Court:"
+1983.82-1453,4,17630,barry_i_fredericks,,1170.507,1170.507,"Yes, I do, very briefly, Your Honor."
+1983.82-1453,4,15073,warren_e_burger,scotus_justice,1170.507,0.0,You have four minutes remaining.
+1983.82-1453,4,17630,barry_i_fredericks,,1170.507,0.0,I would like to just respond to one question that Justice White asked about the imposition of the fraud penalty and I read from the government's Revenue ruling that I referred to earlier.
+1983.82-1453,5,42580,the_clerk,,1170.507,0.0,The Honorable Court is now adjourned until tomorrow at 10:00.

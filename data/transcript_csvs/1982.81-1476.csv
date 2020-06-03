@@ -1,0 +1,250 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1982.81-1476,0,15073,warren_e_burger,scotus_justice,0.0,6.887,We will hear arguments next in United States against Rodgers.
+1982.81-1476,0,25538,george_w_jones,,87.463,93.117,No.
+1982.81-1476,0,15073,warren_e_burger,scotus_justice,93.117,95.803,"Mr. Jones, I think you may proceed whenever you are ready."
+1982.81-1476,0,25538,george_w_jones,,95.803,117.06,"Mr. Chief Justice, and may it please the Court, broadly stated, the controlling issue in these cases is whether the homestead rights of a delinquent taxpayer's spouse preclude enforcement of a federal tax lien against the delinquent taxpayer's interest in the homestead property."
+1982.81-1476,0,15045,harry_a_blackmun,scotus_justice,442.083,445.332,Let me get the government's position straight.
+1982.81-1476,0,25538,george_w_jones,,469.746,510.73,"--Our position is that Congress has authorized the Attorney General to file suit against any property in which the delinquent taxpayer has an interest, and our position is that there may be circumstances, not present here, in which it would be appropriate to sell only the delinquent taxpayer's interest, but where that can't be done, the government is entitled to sell the entire property with division of the proceeds as the means of accommodating the interest of any other parties who have interest."
+1982.81-1476,0,15045,harry_a_blackmun,scotus_justice,510.73,522.849,"So that here you would, in effect, sell the homestead under Mrs. Rodgers, who continued to occupy it, and who under state law had the right to occupy it for the balance of her lifetime."
+1982.81-1476,0,25538,george_w_jones,,528.298,534.891,That's essentially correct.
+1982.81-1476,0,15045,harry_a_blackmun,scotus_justice,534.891,536.358,"Well, essentially?"
+1982.81-1476,0,25538,george_w_jones,,537.422,538.998,That is absolutely correct.
+1982.81-1476,0,15045,harry_a_blackmun,scotus_justice,538.998,540.999,"Now, then, let me ask you this."
+1982.81-1476,0,25538,george_w_jones,,559.256,570.627,"Well, I am not clear that the mortgagee's interest in your property would be sufficient for the government's tax lien to attach."
+1982.81-1476,0,15045,harry_a_blackmun,scotus_justice,570.627,572.296,"Well, it is an interest in property."
+1982.81-1476,0,25538,george_w_jones,,574.811,586.292,"Well, if it is, Congress has said that under Section 7403, the government may proceed against any property in which the taxpayer has an interest or in which the government has a lien."
+1982.81-1476,0,15045,harry_a_blackmun,scotus_justice,614.438,629.853,"Well, I am just suggesting that I think the ultimate... your argument taken to the ultimate conclusion means that they can sell my property in order to foreclose the lien on the mortgagee's property."
+1982.81-1476,0,25538,george_w_jones,,647.236,662.168,"Well, the easement might be marketable independent of the property, and it might be permissible to attempt to sell the easement without selling your property as well."
+1982.81-1476,0,15092,sandra_day_oconnor,scotus_justice,662.168,669.179,"Well, isn't that in fact what the government does, is sell the interest of their holding of the easement?"
+1982.81-1476,0,25538,george_w_jones,,669.179,677.505,"Where that is possible, where there is a separate market for the property, the government may indeed decide to proceed in that manner."
+1982.81-1476,0,15092,sandra_day_oconnor,scotus_justice,677.505,697.338,"Why can't the government in this case sell Mr. Rodgers' interest, Mr. Rodgers' estate's interest in the homestead, which is basically an interest that will become possessory after Mrs. Rodgers either dies or gives up the homestead?"
+1982.81-1476,0,25538,george_w_jones,,697.338,703.959,The reason is that there is no separate market for Mr. Rodgers' fractional interest--
+1982.81-1476,0,15092,sandra_day_oconnor,scotus_justice,703.959,704.384,"Well, how do you know that?"
+1982.81-1476,0,25538,george_w_jones,,714.364,721.453,"--Well, I said there is no separate market for a fractional interest of the sort involved in this case."
+1982.81-1476,0,15045,harry_a_blackmun,scotus_justice,722.813,728.592,"You just told me that that is not the government's position, that you want the whole bundle of was."
+1982.81-1476,0,25538,george_w_jones,,732.824,757.612,"--Well, this case is quite different from the hypotheticals you posed, because under Texas law community property under the joint control of both spouses is subject to the claims of creditors of either spouse for debts incurred during the marriage, and therefore our position is that Mrs. Rodgers isn't entitled to any part of the proceeds in this case."
+1982.81-1476,0,15045,harry_a_blackmun,scotus_justice,757.612,765.592,"Well, under Texas law, Mr. Rodgers, while he lived, could not sell that homestead."
+1982.81-1476,0,25538,george_w_jones,,766.437,769.639,"That's correct, without Mrs. Rodgers' consent."
+1982.81-1476,0,15045,harry_a_blackmun,scotus_justice,769.639,770.122,Consent.
+1982.81-1476,0,25538,george_w_jones,,778.182,786.925,"Because in enforcing its lien, the government doesn't simply step into the shoes of the delinquent taxpayer."
+1982.81-1476,0,15045,harry_a_blackmun,scotus_justice,786.925,789.269,"Well, then again I say, the government wants the whole hog."
+1982.81-1476,0,25538,george_w_jones,,797.563,804.859,"Justice Blackmun, the government's position is only that Congress decides what property is exempt from levy."
+1982.81-1476,0,15141,william_h_rehnquist,scotus_justice,815.462,821.039,"You say that the government, though, doesn't simply stand in the shoes of Mr. Rodgers."
+1982.81-1476,0,25538,george_w_jones,,822.508,827.535,The government is entitled to the rights Congress has provided.
+1982.81-1476,0,15141,william_h_rehnquist,scotus_justice,829.66,836.219,"What rights has Congress provided other than the rights that belonged to Mr. Rodgers, against whom the lien--"
+1982.81-1476,0,25538,george_w_jones,,836.219,856.742,"--Well, Congress created a lien on the property for the payment of the taxes, and under Section 7403, the government is entitled to enforce that lien by forcing sale of the property and division of the proceeds in accordance with the respective interests of any other parties who have claims against the property."
+1982.81-1476,0,15045,harry_a_blackmun,scotus_justice,856.742,858.508,"--What is your definition of the word ""property""?"
+1982.81-1476,0,25538,george_w_jones,,863.176,866.503,"Well, state law defines--"
+1982.81-1476,0,15045,harry_a_blackmun,scotus_justice,866.503,871.548,"Apart from state law, what is your definition of the word ""property"" in the federal statute?"
+1982.81-1476,0,25538,george_w_jones,,877.079,880.156,--I am not sure I understand the question.
+1982.81-1476,0,15141,william_h_rehnquist,scotus_justice,940.754,956.06,"What if you have A and B, tenants in common under state law, not related by marriage or otherwise, and the law of the state is that one tenant in common cannot force another tenant in common to sell the property."
+1982.81-1476,0,25538,george_w_jones,,977.379,994.091,"If there were a separate market for A's half of the property, then there wouldn't be any need to sell both interests, but if there wasn't, the government would be entitled to have the entire property sold and division of the proceeds in accordance with the interests of A and B."
+1982.81-1476,0,15141,william_h_rehnquist,scotus_justice,994.091,999.091,"So it is almost a separate inquiry in each one of these cases whether there is a separate market, as you put it?"
+1982.81-1476,0,25538,george_w_jones,,1003.681,1022.89,"No, the focus of the 1936 amendments was on providing... amendments to Section 7403 was on providing an effective remedy for foreclosure against personal property, and Congress--"
+1982.81-1476,0,15060,john_paul_stevens,scotus_justice,1022.89,1024.076,Can I interrupt you?
+1982.81-1476,0,25538,george_w_jones,,1060.891,1064.576,"--Well, I don't know how many cases."
+1982.81-1476,0,15060,john_paul_stevens,scotus_justice,1104.577,1105.419,Let me change my question just a bit.
+1982.81-1476,0,25538,george_w_jones,,1107.011,1107.373,--Right.
+1982.81-1476,0,15060,john_paul_stevens,scotus_justice,1107.373,1108.808,Which we didn't review.
+1982.81-1476,0,25538,george_w_jones,,1140.733,1153.274,"It is somewhat difficult to answer that question, because the rights of a lienholder would be, except for the federal government, would be determined by state law, and that would depend of the law of the particular state in which the lien is asserted."
+1982.81-1476,0,15060,john_paul_stevens,scotus_justice,1153.274,1154.385,I just wanted to give you a broader range.
+1982.81-1476,0,25538,george_w_jones,,1158.288,1182.763,"I am not aware of any circumstances where the question has come up, but it is fairly well established that state exemptions don't provide any obstacle to the government's attempts to enforce its tax liens."
+1982.81-1476,0,15045,harry_a_blackmun,scotus_justice,1216.031,1219.816,That brings me back to my easement hypothetical.
+1982.81-1476,0,25538,george_w_jones,,1219.816,1249.685,"Well, for an easement, there... an easement, as I remember from law school, may well be of value to individuals other than the person holding it, and they are transferrable, unless there is a limitation in the document granting the easement, and it may well be that an easement can be sold without interfering with your interest in the property at all."
+1982.81-1476,0,15045,harry_a_blackmun,scotus_justice,1249.685,1250.351,And if it can't?
+1982.81-1476,0,25538,george_w_jones,,1250.351,1253.693,And if it can't--
+1982.81-1476,0,15045,harry_a_blackmun,scotus_justice,1253.693,1255.237,You are driven right back to Justice Rehnquist's inquiry.
+1982.81-1476,0,25538,george_w_jones,,1260.707,1261.493,--That's right.
+1982.81-1476,0,15071,byron_r_white,scotus_justice,1261.493,1263.409,Which may not be very much.
+1982.81-1476,0,25538,george_w_jones,,1265.528,1266.895,That is absolutely right.
+1982.81-1476,0,15071,byron_r_white,scotus_justice,1266.895,1268.647,But you probably wouldn't be selling the property anyway.
+1982.81-1476,0,25538,george_w_jones,,1268.647,1271.599,"True, and all of those factors are--"
+1982.81-1476,0,15092,sandra_day_oconnor,scotus_justice,1271.599,1283.907,"Well, if you can't keep any more than the value of the easement in the Rodgers case, you couldn't keep any more then than the value of Mr. Rodgers' estate's interest."
+1982.81-1476,0,25538,george_w_jones,,1283.907,1284.79,--That is--
+1982.81-1476,0,15092,sandra_day_oconnor,scotus_justice,1284.79,1287.786,Which you have asserted is very small.
+1982.81-1476,0,25538,george_w_jones,,1287.786,1310.071,"--No, there is a difference, I think, between saying that a property... that a particular fractional interest is unmarketable because no one would be willing to buy it and saying that the taxpayer's interest is without value."
+1982.81-1476,0,15045,harry_a_blackmun,scotus_justice,1429.196,1430.081,Are you speaking of the Folsom case?
+1982.81-1476,0,25538,george_w_jones,,1430.081,1430.964,--Excuse me?
+1982.81-1476,0,15045,harry_a_blackmun,scotus_justice,1430.964,1432.564,Are you speaking of the Folsom case?
+1982.81-1476,0,25538,george_w_jones,,1432.564,1433.116,Yes.
+1982.81-1476,0,15045,harry_a_blackmun,scotus_justice,1433.116,1435.133,"Of course, the Folsom case isn't before us."
+1982.81-1476,0,25538,george_w_jones,,1435.133,1438.752,"That's right, but in this case the court of appeals--"
+1982.81-1476,0,15045,harry_a_blackmun,scotus_justice,1438.752,1441.52,It may well be wrong if it had come here.
+1982.81-1476,0,25538,george_w_jones,,1441.52,1449.024,"--And in this case, the court of appeals adopted the exact... exactly the same reasoning, and applied it in this case."
+1982.81-1476,0,15045,harry_a_blackmun,scotus_justice,1449.024,1450.376,Except you have different facts.
+1982.81-1476,0,25538,george_w_jones,,1458.796,1459.581,That's right.
+1982.81-1476,0,15071,byron_r_white,scotus_justice,1561.07,1564.848,The question here isn't whether the lien is good.
+1982.81-1476,0,25538,george_w_jones,,1567.753,1569.348,--Whether it is enforceable.
+1982.81-1476,0,15071,byron_r_white,scotus_justice,1570.05,1571.052,"No, no, not whether."
+1982.81-1476,0,25538,george_w_jones,,1586.576,1587.45,--Well--
+1982.81-1476,0,15071,byron_r_white,scotus_justice,1587.45,1590.792,"And if she wants to sell it, the lien will have to be satisfied."
+1982.81-1476,0,25538,george_w_jones,,1590.792,1593.182,--It is not clear that that is true but--
+1982.81-1476,0,15071,byron_r_white,scotus_justice,1593.182,1594.995,Why isn't that true?
+1982.81-1476,0,25538,george_w_jones,,1594.995,1595.744,"--Well, there's--"
+1982.81-1476,0,15071,byron_r_white,scotus_justice,1595.744,1598.305,Is anybody suggesting that the lien is invalid here?
+1982.81-1476,0,25538,george_w_jones,,1605.301,1606.833,"--Well, whatever that is, but--"
+1982.81-1476,0,15071,byron_r_white,scotus_justice,1606.833,1608.737,"Well, that is all you can get anyway."
+1982.81-1476,0,25538,george_w_jones,,1608.737,1610.456,--That's right.
+1982.81-1476,0,15071,byron_r_white,scotus_justice,1640.479,1653.621,"It would attach to the entire property, but you... if you were allowed to foreclose this lien, all you would get to satisfy your lien is the value of his interest in the property."
+1982.81-1476,0,25538,george_w_jones,,1653.621,1686.192,"--That's right, and although the court of appeals purported to leave open the possibility that at some point the government might be allowed to enforce its lien, there is no guarantee that the value of the liens won't be substantially eroded in the meantime, and furthermore, the liens might be lost altogether, either because the government fails to keep track of this woman, the taxpayers' spouses, or fails to keep track of the proceeds of any disposition of the properties."
+1982.81-1476,0,15071,byron_r_white,scotus_justice,1686.192,1706.957,"Well, if you filed... if you actually recorded your lien, anybody who is going to buy that property is not going to... they are either going to pay a lesser price if the property is going to be subject to the lien, or they are going to insist on its being satisfied so they can get clear title."
+1982.81-1476,0,25538,george_w_jones,,1706.957,1724.7,"That is true, but it is not quite clear how... which of those alternatives would be pursued, and whether the government would ever be paid without reasserting its rights."
+1982.81-1476,0,15092,sandra_day_oconnor,scotus_justice,1751.486,1760.508,Does the homestead interest attach in Texas law to the property acquired in substitution for the original homestead property?
+1982.81-1476,0,25538,george_w_jones,,1764.926,1766.969,"That is what the court of appeals said, and--"
+1982.81-1476,0,15092,sandra_day_oconnor,scotus_justice,1766.969,1769.703,What is your view of Texas law on that point?
+1982.81-1476,0,25538,george_w_jones,,1769.703,1776.858,"--I have no basis for disagreeing with that assertion by the court of appeals, and that is not a question... that is no anything to question--"
+1982.81-1476,0,15071,byron_r_white,scotus_justice,1776.858,1784.011,"Well, the court of appeals didn't rule that if there was a substitution, that your lien would have to attach to the substituted property."
+1982.81-1476,0,25538,george_w_jones,,1790.475,1798.365,"--That's right, and that's why I was not quite as sanguine about the possibilities of the government collecting upon the sale."
+1982.81-1476,0,15060,john_paul_stevens,scotus_justice,1816.392,1827.164,"Mr. Jones, suppose the taxpayer had the fee interest in a piece of property, and he gave his wife or someone else a life estate in the property, and thereafter the lien attached."
+1982.81-1476,0,25538,george_w_jones,,1829.116,1835.937,For purposes of selling the property?
+1982.81-1476,0,15060,john_paul_stevens,scotus_justice,1835.937,1837.806,Correct.
+1982.81-1476,0,25538,george_w_jones,,1837.806,1843.293,I think so.
+1982.81-1476,0,15060,john_paul_stevens,scotus_justice,1843.293,1845.576,You think you could evict the life tenant?
+1982.81-1476,0,25538,george_w_jones,,1845.576,1849.864,Subject to division of the proceeds for whatever value the life estate would have had.
+1982.81-1476,0,15060,john_paul_stevens,scotus_justice,1849.864,1855.165,Even though the fee owner could not have evicted the life tenant.
+1982.81-1476,0,25538,george_w_jones,,1855.165,1855.85,That's right.
+1982.81-1476,0,15060,john_paul_stevens,scotus_justice,1855.85,1860.552,I imagine you had a little difficulty finding any cases that hold that.
+1982.81-1476,0,25538,george_w_jones,,1860.552,1867.22,"Well, Congress has provided for the means--"
+1982.81-1476,0,15060,john_paul_stevens,scotus_justice,1867.22,1867.688,I understand.
+1982.81-1476,0,25538,george_w_jones,,1867.688,1871.091,--of accommodating the interests of any people who have interest in the property other than the taxpayer.
+1982.81-1476,0,15071,byron_r_white,scotus_justice,1871.091,1875.395,"This is a life estate case, isn't it?"
+1982.81-1476,0,25538,george_w_jones,,1884.417,1887.821,"It is not precisely a life estate case, because--"
+1982.81-1476,0,15071,byron_r_white,scotus_justice,1887.821,1894.689,"Well, I know it isn't precisely, but she has an interest during her lifetime that her heirs will not have."
+1982.81-1476,0,25538,george_w_jones,,1894.689,1899.843,"--Right, for so long as she chooses to use it, and she could move and abandon it."
+1982.81-1476,0,15060,john_paul_stevens,scotus_justice,1899.843,1906.664,"She has both a life estate and a 50 percent interest in the remainder, whereas in my case she didn't even have the 50 percent interest in the remainder, is the only difference."
+1982.81-1476,0,25538,george_w_jones,,1906.664,1915.926,"Well, in order to maintain her life estate in the property, she has to continue to occupy the property."
+1982.81-1476,1,44574,william_d_elliott,,1922.674,1933.231,"Mr. Chief Justice, and may it please the Court, in this case, the government takes the awesome position that the property of one may be used to satisfy the tax liability of another."
+1982.81-1476,1,15071,byron_r_white,scotus_justice,2029.24,2036.91,"That is an interest over and above a half-interest in the property, as Justice Stevens indicated."
+1982.81-1476,1,44574,william_d_elliott,,2036.91,2038.179,"Yes, it is, Justice White."
+1982.81-1476,1,15092,sandra_day_oconnor,scotus_justice,2062.46,2071.483,"Now, under Texas law, I suppose the survivor needn't even live on the homestead in order to preserve it, but could rent it out to others."
+1982.81-1476,1,44574,william_d_elliott,,2071.483,2072.333,That is correct.
+1982.81-1476,1,15092,sandra_day_oconnor,scotus_justice,2073.602,2075.537,And still maintain the homestead.
+1982.81-1476,1,44574,william_d_elliott,,2075.537,2076.285,--That is correct.
+1982.81-1476,1,15092,sandra_day_oconnor,scotus_justice,2080.879,2083.004,What if it is sold?
+1982.81-1476,1,44574,william_d_elliott,,2083.004,2084.268,It is abandoned.
+1982.81-1476,1,15092,sandra_day_oconnor,scotus_justice,2084.268,2086.97,"That is an abandonment, if it is sold?"
+1982.81-1476,1,44574,william_d_elliott,,2086.97,2087.345,Yes.
+1982.81-1476,1,15092,sandra_day_oconnor,scotus_justice,2094.766,2096.649,"And if there is a divorce, it is terminated."
+1982.81-1476,1,44574,william_d_elliott,,2097.801,2137.259,"--Yes, but the terms of the property settlement agreement have a bearing on it, and each spouse... for example, in the Woods case, the Texas Supreme Court, the Texas Supreme Court there held that each spouse has an indivisible, individual, both, property right in this homestead, and in that case the husband was claiming that even though he had had a divorce, and even though his children had left the home, he was still entitled as a spouse of the marriage to continue in that homestead for as long as he lived, and the Texas Supreme Court in 1929 said, yes, clearly, this property right, this homestead right is his."
+1982.81-1476,1,15071,byron_r_white,scotus_justice,2151.376,2154.171,How do you distinguish the joint tenancy?
+1982.81-1476,1,44574,william_d_elliott,,2154.171,2156.655,"Right of possession, Justice White."
+1982.81-1476,1,15071,byron_r_white,scotus_justice,2198.778,2206.713,"Is that the same with undivided interests, other undivided interests in property?"
+1982.81-1476,1,44574,william_d_elliott,,2206.713,2208.37,"Yes, sir."
+1982.81-1476,1,15071,byron_r_white,scotus_justice,2208.37,2210.164,Tenants in common?
+1982.81-1476,1,44574,william_d_elliott,,2210.164,2211.038,"Yes, sir."
+1982.81-1476,1,15071,byron_r_white,scotus_justice,2211.038,2217.961,And you say it is the peculiarities of Texas homestead law.
+1982.81-1476,1,44574,william_d_elliott,,2241.176,2245.564,"Who would be the taxpayer, Your Honor?"
+1982.81-1476,1,15071,byron_r_white,scotus_justice,2245.564,2249.826,"Well, the taxpayer... the joint tenant dies when he is a taxpayer."
+1982.81-1476,1,44574,william_d_elliott,,2251.838,2264.192,"Then Section 7403(c) would entitle the district court to have the equitable discretion to compel foreclosure or not, as it chooses to do so."
+1982.81-1476,1,15071,byron_r_white,scotus_justice,2264.192,2266.567,"Well, the taxpayer no longer has a right to possess."
+1982.81-1476,1,44574,william_d_elliott,,2266.567,2267.632,His heirs would.
+1982.81-1476,1,15092,sandra_day_oconnor,scotus_justice,2267.632,2272.205,"Under a joint tenancy, with right of survivorship?"
+1982.81-1476,1,44574,william_d_elliott,,2272.689,2274.704,"I didn't understand you to say right of survivorship, Your Honor."
+1982.81-1476,1,15071,byron_r_white,scotus_justice,2276.861,2279.482,"Well, I say a joint tenancy with a right of survivorship then."
+1982.81-1476,1,44574,william_d_elliott,,2279.482,2285.42,"In that situation, that interest expires and the survivor takes the property."
+1982.81-1476,1,15071,byron_r_white,scotus_justice,2285.42,2286.715,"Yes, but it was subject to a lien."
+1982.81-1476,1,44574,william_d_elliott,,2286.715,2288.166,That's true.
+1982.81-1476,1,15071,byron_r_white,scotus_justice,2288.166,2290.26,"You wouldn't say that the lien is destroyed, would you?"
+1982.81-1476,1,44574,william_d_elliott,,2290.26,2293.056,"No, but the underlying property that supports--"
+1982.81-1476,1,15071,byron_r_white,scotus_justice,2293.056,2302.13,So you say your rationale is going to support... you get the same result in joint tenancy with a right of survivorship as you will in this case.
+1982.81-1476,1,44574,william_d_elliott,,2302.13,2306.194,"--That's right, Your Honor, and we would also have the same result in a tenancy by the entirety."
+1982.81-1476,1,15071,byron_r_white,scotus_justice,2306.194,2310.924,"Well, then there is a conflict among the circuits."
+1982.81-1476,1,44574,william_d_elliott,,2310.924,2312.346,"Yes, there is, Your Honor."
+1982.81-1476,1,15071,byron_r_white,scotus_justice,2321.514,2331.104,"Well, most joint tenancies are with right of survivorship, and so you are really talking about that category of cases, too, as well as homesteads."
+1982.81-1476,1,44574,william_d_elliott,,2331.104,2332.699,"Yes, Your Honor, it would be included within that category."
+1982.81-1476,1,15071,byron_r_white,scotus_justice,2332.699,2333.775,And tenants of entirety?
+1982.81-1476,1,44574,william_d_elliott,,2333.775,2334.586,"Yes, Your Honor."
+1982.81-1476,1,15060,john_paul_stevens,scotus_justice,2334.586,2335.491,Mr. Elliott--
+1982.81-1476,1,44574,william_d_elliott,,2347.38,2357.218,"As I understand property law in other states other than Texas, a tenant in common would have the right to compel partition because he has the right to possess."
+1982.81-1476,1,15060,john_paul_stevens,scotus_justice,2357.218,2358.341,"Well, that is true of joint tenancy, too, isn't it?"
+1982.81-1476,1,44574,william_d_elliott,,2358.341,2361.371,"But with the right of survivorship, I am not sure that is the law, Your Honor."
+1982.81-1476,1,15060,john_paul_stevens,scotus_justice,2367.65,2369.776,How about before the death of the taxpayer?
+1982.81-1476,1,44574,william_d_elliott,,2376.9,2395.749,"--We don't have Texas law that is as active in the survivorship area as other states, so I am speaking without a great familiarity with the total command of the survivorship rule, but I understand it to be that neither spouse can sell the property because of the survivorship feature without the consent of the other."
+1982.81-1476,1,15060,john_paul_stevens,scotus_justice,2395.749,2397.827,Or without a partition proceeding?
+1982.81-1476,1,44574,william_d_elliott,,2397.827,2399.996,"If it is jointly agreed to, Your Honor, yes."
+1982.81-1476,1,15060,john_paul_stevens,scotus_justice,2399.996,2402.652,It has to be jointly agreed to in a joint tenancy situation?
+1982.81-1476,1,44574,william_d_elliott,,2402.652,2405.728,"With right of survivorship, I understand that to be the case."
+1982.81-1476,1,15071,byron_r_white,scotus_justice,2422.423,2425.395,"I understand the homestead, but--"
+1982.81-1476,1,44574,william_d_elliott,,2425.395,2447.511,"--This Court has said, Aquilino, and Durham Lumber Company, and Busse, authored by Justice Brennan, that this Court must examine the rights defined by the states that the taxpayer has in the property, and only then will we attach consequences federally defined to those state interests."
+1982.81-1476,1,15092,sandra_day_oconnor,scotus_justice,2535.687,2549.417,"--Why couldn't, under your theory, the government at least try to market the non-possessory interest of the taxpayer, sell it and use the proceeds of that sale to satisfy its lien?"
+1982.81-1476,1,44574,william_d_elliott,,2549.417,2550.587,"They could, Your Honor."
+1982.81-1476,1,15071,byron_r_white,scotus_justice,2560.725,2569.082,"Well, you don't suggest at all that... nothing in your position would indicate that the lien is invalid?"
+1982.81-1476,1,44574,william_d_elliott,,2569.082,2570.923,"Oh, not at all, Your Honor."
+1982.81-1476,1,15071,byron_r_white,scotus_justice,2570.923,2572.97,Or that it would ever become invalid?
+1982.81-1476,1,44574,william_d_elliott,,2572.97,2578.013,"The lien attaches to his interest in the underlying homestead, which is--"
+1982.81-1476,1,15071,byron_r_white,scotus_justice,2578.013,2581.217,And it is going to be collectable no later that the end of her life.
+1982.81-1476,1,44574,william_d_elliott,,2581.217,2584.715,"--She is 70 years old, and it will be, you know, her life expectancy is soon."
+1982.81-1476,1,15071,byron_r_white,scotus_justice,2584.715,2586.887,"Or when she sells it, You say that--"
+1982.81-1476,1,44574,william_d_elliott,,2586.887,2588.759,"Or abandons it, Your Honor."
+1982.81-1476,1,15071,byron_r_white,scotus_justice,2588.759,2589.492,--Or abandons it.
+1982.81-1476,1,44574,william_d_elliott,,2589.492,2595.789,"She could swap homestead, to answer your question, Justice O'Connor, and would lose the protection we are seeking here."
+1982.81-1476,1,15071,byron_r_white,scotus_justice,2595.789,2597.006,If she swapped.
+1982.81-1476,1,44574,william_d_elliott,,2597.006,2597.833,"Yes, Your Honor."
+1982.81-1476,1,15071,byron_r_white,scotus_justice,2599.256,2603.097,But she would have a homestead in the substitute property?
+1982.81-1476,1,44574,william_d_elliott,,2603.097,2604.173,--That's exactly right.
+1982.81-1476,1,15071,byron_r_white,scotus_justice,2604.173,2606.798,But it wouldn't be protected against this lien.
+1982.81-1476,1,44574,william_d_elliott,,2606.798,2614.578,"That's right, because her second homestead would not have arisen prior to the attachment and assessment of the tax."
+1982.81-1476,1,15073,warren_e_burger,scotus_justice,2619.542,2627.931,And you are saying that there is nothing here that will defeat the federal government's right to collect the tax.
+1982.81-1476,1,44574,william_d_elliott,,2633.21,2636.049,"That is precisely what we are saying, Your Honor, Mr. Chief Justice."
+1982.81-1476,1,15073,warren_e_burger,scotus_justice,2636.049,2642.674,What is the interest these days on federal delinquent taxes?
+1982.81-1476,1,44574,william_d_elliott,,2642.674,2645.72,"I think they just lowered it to 16 percent, Your Honor."
+1982.81-1476,1,15060,john_paul_stevens,scotus_justice,2649.405,2653.527,"Mr. Elliott, what about Mr. Rodgers, the second husband here?"
+1982.81-1476,1,44574,william_d_elliott,,2655.729,2658.931,"He does, but it is subject to this federal tax lien, Your Honor."
+1982.81-1476,1,15060,john_paul_stevens,scotus_justice,2658.931,2659.902,Subject to the lien.
+1982.81-1476,1,44574,william_d_elliott,,2659.902,2659.993,"Yes, sir."
+1982.81-1476,1,15071,byron_r_white,scotus_justice,2738.343,2742.73,"Well, let's go back to the joint tenancy with right of survivorship."
+1982.81-1476,1,44574,william_d_elliott,,2750.551,2751.909,"Yes, Your Honor."
+1982.81-1476,1,15071,byron_r_white,scotus_justice,2753.141,2757.609,Suppose both joint tenants are alive.
+1982.81-1476,1,44574,william_d_elliott,,2766.715,2767.744,No.
+1982.81-1476,1,15071,byron_r_white,scotus_justice,2767.744,2781.006,"So you are talking about not only where a joint tenant is deceased, but at any time there is a joint tenancy with right of survivorship, the government may not foreclose on the property."
+1982.81-1476,1,44574,william_d_elliott,,2781.006,2785.658,"That's correct, because the underlying property interest, Justice White, expires."
+1982.81-1476,1,15071,byron_r_white,scotus_justice,2789.426,2802.686,"Well, certainly there are a lot of... there are plenty of cases, aren't there, or maybe not so many, that so permit the government to foreclose during the lifetime of one of the joint tenants."
+1982.81-1476,1,44574,william_d_elliott,,2802.686,2815.494,Section 7403 (c) gives the district court the power compel foreclose in those cases where the taxpayer and the non-taxpayer share an interest in the property.
+1982.81-1476,1,15071,byron_r_white,scotus_justice,2823.365,2826.691,"Well, talk about the joint tenancy."
+1982.81-1476,1,44574,william_d_elliott,,2836.171,2848.056,"--It would be our view that if under state law first spouse to die's interest in the property expired and extinguished and became defeasible on his death, then no, because his property--"
+1982.81-1476,1,15071,byron_r_white,scotus_justice,2848.056,2849.741,"All right, but how about during his lifetime?"
+1982.81-1476,1,44574,william_d_elliott,,2852.896,2859.396,"--Yes, they would be empowered to foreclose, Your Honor."
+1982.81-1476,1,15071,byron_r_white,scotus_justice,2859.396,2865.004,Even though the joint tenant who owes the taxes could not force a sale of the sale of the property?
+1982.81-1476,1,44574,william_d_elliott,,2865.004,2869.189,"Yes, but the interest of the government would also expire on the death of the taxpayer."
+1982.81-1476,1,15073,warren_e_burger,scotus_justice,2896.722,2909.688,"What if a fee owner conveys property to the Ford Foundation or through his local church, reserving a life estate in himself, and then incurs the tax liability."
+1982.81-1476,1,44574,william_d_elliott,,2933.92,2965.958,"The scope of Section 7403(c), Your Honor, does not make clear to me that the government would take any more than what life estate owner had, and what the life estate owner had was merely possession and the normal right and duties attributable to the life estate tenant during his lifetime, and since the Ford Foundation in your case was the transferee of the property before the time the tax lien a rose, I would say that all that the government gets in that case is what the life estate owner had, and expires at this death."
+1982.81-1476,1,15073,warren_e_burger,scotus_justice,2965.958,2968.243,Now let me change the hypothetical.
+1982.81-1476,1,44574,william_d_elliott,,2980.254,2997.996,"I don't believe, Your honor, that the identity of the transferee makes any difference, except in those instances where under state law the transferor father might have some possibility of reversion after the children expired, which of course is theoretically possible."
+1982.81-1476,1,15045,harry_a_blackmun,scotus_justice,3009.379,3014.738,"May I go back to Justice White's question, because I didn't understand your answer."
+1982.81-1476,1,44574,william_d_elliott,,3034.324,3037.993,"No, Your Honor, but right of survivorship in Texas is not common."
+1982.81-1476,1,15045,harry_a_blackmun,scotus_justice,3043.055,3047.941,"If the government did move in, isn't the joint tenancy thereupon destroyed?"
+1982.81-1476,1,44574,william_d_elliott,,3047.941,3052.894,"--Yes, in the absence of a right of survivorship, I think it is important to distinguish the two."
+1982.81-1476,1,15045,harry_a_blackmun,scotus_justice,3068.231,3069.81,"Well, again I am confused by your terms."
+1982.81-1476,1,44574,william_d_elliott,,3074.399,3077.07,--I call it a tenancy in common.
+1982.81-1476,1,15045,harry_a_blackmun,scotus_justice,3077.07,3077.538,Of course.
+1982.81-1476,1,44574,william_d_elliott,,3081.13,3093.354,"Then in that in instance I would say that the government does not get any more than the taxpayer had, and his interest expires on his death, and absent a possibility of reversion."
+1982.81-1476,1,15045,harry_a_blackmun,scotus_justice,3093.354,3094.754,"Well, we are not talking about his death."
+1982.81-1476,1,44574,william_d_elliott,,3097.375,3099.016,Then the government can take his interest.
+1982.81-1476,1,15071,byron_r_white,scotus_justice,3107.233,3115.838,"Well, you are now suggesting that if one joint tenant who owes the taxes dies, the government lien ends."
+1982.81-1476,1,44574,william_d_elliott,,3129.316,3135.032,"I am suggesting, to clarify, Justice White, that his underlying property interest expires."
+1982.81-1476,1,15071,byron_r_white,scotus_justice,3140.749,3145.059,"Well, when he is dead, he doesn't have any property interest, you say."
+1982.81-1476,1,44574,william_d_elliott,,3145.059,3147.105,"In that particular property, that is correct."
+1982.81-1476,1,15071,byron_r_white,scotus_justice,3147.105,3149.262,"Well, then, the lien expires."
+1982.81-1476,1,44574,william_d_elliott,,3149.262,3151.715,"Insofar as that property is concerned, yes, Your Honor."
+1982.81-1476,1,15071,byron_r_white,scotus_justice,3151.715,3153.839,"Well, that is the only property that it attached to."
+1982.81-1476,1,44574,william_d_elliott,,3161.818,3162.991,"Yes, Your Honor."
+1982.81-1476,1,15045,harry_a_blackmun,scotus_justice,3165.066,3168.611,Unless it has foreclosed during his lifetime.
+1982.81-1476,1,44574,william_d_elliott,,3168.611,3169.425,That is correct.
+1982.81-1476,1,15071,byron_r_white,scotus_justice,3169.425,3171.582,You've got a hard row to hoe there.
+1982.81-1476,1,15073,warren_e_burger,scotus_justice,3171.582,3183.515,Mr. Elliott.
+1982.81-1476,2,34387,l_lynn_elliott,,3183.515,3190.713,"Mr. Chief Justice, and it may it please the members of the Court, I had announced I had a voice problem."
+1982.81-1476,2,15060,john_paul_stevens,scotus_justice,3196.242,3197.6,Yes.
+1982.81-1476,2,34387,l_lynn_elliott,,3197.6,3198.773,All right.
+1982.81-1476,2,15073,warren_e_burger,scotus_justice,3198.773,3199.693,Barely.
+1982.81-1476,2,34387,l_lynn_elliott,,3199.693,3200.2,"I will try very hard, sir."
+1982.81-1476,2,15092,sandra_day_oconnor,scotus_justice,3264.481,3265.826,Mr. Elliott--
+1982.81-1476,2,34387,l_lynn_elliott,,3265.826,3266.715,"--Yes, Your Honor."
+1982.81-1476,2,15092,sandra_day_oconnor,scotus_justice,3266.715,3274.944,"--your predecessor, Mr. William Elliott, indicated that under Texas law the homestead terminates on the divorce."
+1982.81-1476,2,34387,l_lynn_elliott,,3287.344,3309.397,"Your Honor, specifically, by constitutional amendment, a single person in Texas was given the same homestead right as a married person, and to say that Mrs. Ingram's homestead rights ceased on her divorce is an inaccurate statement with regard to the law in Texas."
+1982.81-1476,2,15092,sandra_day_oconnor,scotus_justice,3311.225,3315.3,So you disagree with Mr. William Elliott on that point?
+1982.81-1476,2,34387,l_lynn_elliott,,3315.3,3320.389,"If that's what he said, I would disagree, Your Honor, yes."
+1982.81-1476,2,15073,warren_e_burger,scotus_justice,3437.22,3438.687,We will resume there at 1:00 o'clock.
+1982.81-1476,2,34387,l_lynn_elliott,,3458.133,3460.116,"Thank you, Your Honor, Mr. Chief Justice."
+1982.81-1476,2,15071,byron_r_white,scotus_justice,3624.024,3625.712,A 500 ball player.
+1982.81-1476,2,34387,l_lynn_elliott,,3625.712,3626.476,Yes.
+1982.81-1476,2,15073,warren_e_burger,scotus_justice,3718.915,3721.63,"Thank you, gentlemen."

@@ -1,0 +1,138 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2006.05-1541,0,15086,john_g_roberts_jr,scotus_justice,0.0,9.106,"We'll hear argument first this morning in case 05-1541, EC Term of Years Trust vs. United States."
+2006.05-1541,0,23538,francis_s_ainsa_jr,,10.339,13.724,Mr. Chief Justice and may it please the Court:
+2006.05-1541,0,15084,ruth_bader_ginsburg,scotus_justice,52.949,64.406,And why did the court point out twice in Williams that section 7426 was not available?
+2006.05-1541,0,23538,francis_s_ainsa_jr,,64.406,73.262,"--Justice Ginsburg, section 7426 was not available in the case of Mrs. Williams, but--"
+2006.05-1541,0,15084,ruth_bader_ginsburg,scotus_justice,73.262,74.631,Because there was no levy.
+2006.05-1541,0,23538,francis_s_ainsa_jr,,75.931,80.368,"--It was a lien case, and of course, 7426 involves a levy."
+2006.05-1541,0,15084,ruth_bader_ginsburg,scotus_justice,118.077,131.801,"But when Congress provides a special remedy for a particular class of persons, that special remedy usually excludes a more general provision."
+2006.05-1541,0,23538,francis_s_ainsa_jr,,131.801,141.942,"Justice Ginsburg, in the case of 7426, Congress never made that remedy expressly exclusive."
+2006.05-1541,0,15113,anthony_m_kennedy,scotus_justice,183.702,192.291,The Government does cite the principle that when there's a specific statutory scheme that controls over a more general one.
+2006.05-1541,0,23538,francis_s_ainsa_jr,,201.314,207.218,"Justice Kennedy, I don't believe that's been applied in the tax code, but I can answer your question, I think, by saying this."
+2006.05-1541,0,15049,antonin_scalia,scotus_justice,243.808,251.664,"In the law, we don't... we certainly don't want to deprive any statutory provision of its whole purpose and effect."
+2006.05-1541,0,23538,francis_s_ainsa_jr,,279.747,285.135,"Justice Scalia, 7426 has four different components."
+2006.05-1541,0,15060,john_paul_stevens,scotus_justice,340.055,341.988,But isn't there this difference between the two.
+2006.05-1541,0,23538,francis_s_ainsa_jr,,347.708,348.41,"--Your Honor, I'm sorry."
+2006.05-1541,0,15060,john_paul_stevens,scotus_justice,349.593,353.179,"You're not challenging the amount of the assessed tax, are you?"
+2006.05-1541,0,23538,francis_s_ainsa_jr,,356.747,360.985,Petitioner is not challenging the underlying assessment against the taxpayer.
+2006.05-1541,0,15060,john_paul_stevens,scotus_justice,360.985,371.074,"And isn't that the basic difference between the two statutes, that one of them deals with a fight about how much money the taxpayer owes, and the other one deals with the method of collection."
+2006.05-1541,0,23538,francis_s_ainsa_jr,,371.074,380.597,"7426 clearly prevents a person from contesting the underlying assessment, whereas in 1346, that is possible."
+2006.05-1541,0,15060,john_paul_stevens,scotus_justice,391.154,410.568,"But it does seem to me if you think of the two statutes as performing rather separate functions, one primarily focused at the method of collection, the other the amount of tax, makes quite good sense to have different statute of limitations for the two, because there is an interest in the prompt resolution of the former issue that doesn't apply to the latter."
+2006.05-1541,0,23538,francis_s_ainsa_jr,,410.568,423.209,"Justice Stevens, there is certainly... Government has demonstrated by... or Congress has demonstrated by passing 7426, that there is an interest in a shorter statute of limitations in certain cases."
+2006.05-1541,0,15113,anthony_m_kennedy,scotus_justice,451.978,460.049,"Well, I suppose... tell me if I'm wrong, or the Government can tell me if I'm wrong... but there is this difference also that in a refund suit, you have to pay the money."
+2006.05-1541,0,23538,francis_s_ainsa_jr,,463.453,464.536,That is correct.
+2006.05-1541,0,15113,anthony_m_kennedy,scotus_justice,464.536,480.812,"Incidentally, I'm just curious, if the underlying assessment... if you wished to have challenged the underlying assessment, it's for a million dollars, can you pay $100,000 and then bring the refund suit in order to test the validity of the tax, or do you have to pay the whole amount?"
+2006.05-1541,0,23538,francis_s_ainsa_jr,,480.812,483.18,The whole amount.
+2006.05-1541,0,15086,john_g_roberts_jr,scotus_justice,483.18,488.151,What about the underlying principle that waivers of sovereign immunity are strictly construed.
+2006.05-1541,0,23538,francis_s_ainsa_jr,,502.661,519.539,"Mr. Chief Justice, when I read the opinion in United States vs. Williams, the Nordic case was brought up by the dissent in that case, that there must be an absolutely unequivocal waiver of sovereign immunity in order to allow a particular suit against the United States."
+2006.05-1541,0,15084,ruth_bader_ginsburg,scotus_justice,538.382,545.069,The court took care to point out why those were not realistic remedies.
+2006.05-1541,0,23538,francis_s_ainsa_jr,,550.307,556.96,"--Justice Ginsburg, there is another remedy, which is certainly governed by a much shorter statute of limitations."
+2006.05-1541,0,15113,anthony_m_kennedy,scotus_justice,585.63,589.082,"Well, your argument is probably based on the statute."
+2006.05-1541,0,23538,francis_s_ainsa_jr,,599.472,613.546,"Justice Kennedy, as I read the holding in United States vs. Williams, the Court found that there was an unequivocal waiver of sovereign immunity in section 1346."
+2006.05-1541,0,15084,ruth_bader_ginsburg,scotus_justice,630.407,641.049,"It was a determination that the word taxpayer encompassed someone who had, in fact, paid the tax."
+2006.05-1541,0,23538,francis_s_ainsa_jr,,669.132,676.02,"Justice Ginsburg, I believe that both Mrs. Williams and the trust are in the same position."
+2006.05-1541,0,15084,ruth_bader_ginsburg,scotus_justice,686.178,695.267,"Well, the whole case was about whether she indeed qualified as a taxpayer, having voluntarily paid the tax."
+2006.05-1541,0,23538,francis_s_ainsa_jr,,695.267,705.389,"--In this case, the levy was an involuntary act on the part of the Government to take the money from EC Trust, from the deposit that was put up."
+2006.05-1541,0,15084,ruth_bader_ginsburg,scotus_justice,705.389,705.824,Yes.
+2006.05-1541,0,23538,francis_s_ainsa_jr,,718.982,724.786,"Justice Ginsburg, the situation in Williams, however, involved the tax lien."
+2006.05-1541,0,15139,stephen_g_breyer,scotus_justice,739.213,758.59,"Why isn't the obvious difference... I may have missed this... but you say, in the case, a taxpayer owed some money and the Government via a lien took property from a different person who then had to pay the tax who then had to get rid of the lien and wanted it back."
+2006.05-1541,0,23538,francis_s_ainsa_jr,,784.341,793.347,"Justice Breyer, the answer is because 1346 also permits a third party to bring a refund action."
+2006.05-1541,0,15139,stephen_g_breyer,scotus_justice,803.655,809.892,Encompasses a lien for a refund action in the case where you took the property via a lien.
+2006.05-1541,0,23538,francis_s_ainsa_jr,,823.2,829.453,My answer to that is there is no substantive distinction between a levy and a lien.
+2006.05-1541,0,15139,stephen_g_breyer,scotus_justice,878.619,898.414,"If your interpretation is correct then are there many such cases where the Government takes property via a levy and the person who wants to sue would get worried about nine months, because obviously he would think I can sue under a... kind of thing."
+2006.05-1541,0,23538,francis_s_ainsa_jr,,903.418,905.186,No.
+2006.05-1541,0,15139,stephen_g_breyer,scotus_justice,905.186,911.923,"In other words, are... in your interpretation, does the nine-month statute become meaningless?"
+2006.05-1541,0,23538,francis_s_ainsa_jr,,911.923,926.933,"It, it does not become meaningless because 7426 offers certain remedies that are clearly post deprivation such as filing for an injunction to stop the levy, filing for an injunction to stop a foreclosure."
+2006.05-1541,0,15084,ruth_bader_ginsburg,scotus_justice,938.241,944.678,But you just... you just pointed to situations where one to expect action to be taken promptly.
+2006.05-1541,0,23538,francis_s_ainsa_jr,,989.256,999.046,"Justice Ginsburg, if I understand your question you're really talking about the underlying policy of a short statute of limitations driving certain types of--"
+2006.05-1541,0,15084,ruth_bader_ginsburg,scotus_justice,999.046,1014.408,That's why the code has that nine-month period instead of the two-year or in fact four-years because you have to go to the administrative process first.
+2006.05-1541,0,23538,francis_s_ainsa_jr,,1018.96,1047.777,"--But I can say to you that with some degree, I think, of sound legal argument, that once 1346 was found to have unequivocally waived sovereign immunity for third party refund actions in the context of a lien it should also follow that it waived sovereign immunity for levies because there is no fundamental legal difference between the manner in which the money is extracted from the third party."
+2006.05-1541,0,15060,john_paul_stevens,scotus_justice,1060.37,1068.691,It doesn't seem to me that the fact that there is a waiver of sovereign immunity with regard to levies answers the statute of limitations question.
+2006.05-1541,0,23538,francis_s_ainsa_jr,,1075.212,1088.937,"Justice Stevens, the... the issue of the statute of limitations I believe is dependent upon whether or not 1346 provides for remaining a viable method of seeking a refund."
+2006.05-1541,0,15113,anthony_m_kennedy,scotus_justice,1122.61,1132.466,"Getting back to my earlier question, if there is a million-dollar tax liability, and there is a levy on the bank account for $100,000, do you have to pay the extra 900,000 before can you bring--"
+2006.05-1541,0,23538,francis_s_ainsa_jr,,1133.866,1135.201,"Yes, Your Honor."
+2006.05-1541,0,15113,anthony_m_kennedy,scotus_justice,1135.201,1137.453,"So that's, that's also a difference."
+2006.05-1541,0,23538,francis_s_ainsa_jr,,1137.453,1137.837,Yes.
+2006.05-1541,0,15049,antonin_scalia,scotus_justice,1144.157,1157.714,"What if the amount wasn't paid and what if your client just sat back and the, the assets, or let's say some real estate were, were seized by the Government."
+2006.05-1541,0,23538,francis_s_ainsa_jr,,1167.522,1189.52,"1346 in my view would not apply to that situation, in that if property was seized and used to, under a tax lien, if that was seized and the Government proceeded to sell, then the third party, Petitioner, would have to file for an injunction to stop the foreclosure sale under 7426."
+2006.05-1541,0,15049,antonin_scalia,scotus_justice,1189.52,1199.959,"And that's the, it seems to me the principal problem that the Government was facing and justified the short statute, wasn't it?"
+2006.05-1541,0,23538,francis_s_ainsa_jr,,1219.437,1219.971,Justice Scalia--
+2006.05-1541,0,15049,antonin_scalia,scotus_justice,1219.971,1221.422,I'm helping you.
+2006.05-1541,0,23538,francis_s_ainsa_jr,,1221.422,1228.042,--There is no harm in proceeding under 1346 once the money is paid because you're dealing with a simple refund action.
+2006.05-1541,0,15086,john_g_roberts_jr,scotus_justice,1236.148,1243.802,"Well, but there may be situations where the Government, having levied, doesn't feel the need to pursued other remedies available to it."
+2006.05-1541,0,23538,francis_s_ainsa_jr,,1267.067,1283.343,"Mr. Chief Justice, there is rationale for having a short statute, but once again I point out that you have two statutory schemes which appear to be able to be harmonized and coexist together."
+2006.05-1541,0,15139,stephen_g_breyer,scotus_justice,1305.942,1314.881,"The... the, the statute that you point to talks about taking a civil action against the United States."
+2006.05-1541,0,23538,francis_s_ainsa_jr,,1318.583,1320.733,7426.
+2006.05-1541,0,15139,stephen_g_breyer,scotus_justice,1320.733,1323.485,It doesn't say an injunctive action.
+2006.05-1541,0,23538,francis_s_ainsa_jr,,1355.806,1356.441,Okay.
+2006.05-1541,0,15139,stephen_g_breyer,scotus_justice,1356.441,1360.176,I won't say you've made it meaningless but you have eviscerated it.
+2006.05-1541,0,23538,francis_s_ainsa_jr,,1362.195,1364.595,"Justice Breyer, it is fair."
+2006.05-1541,0,15139,stephen_g_breyer,scotus_justice,1369.532,1374.45,"I mean, is my characterization fair?"
+2006.05-1541,0,23538,francis_s_ainsa_jr,,1378.554,1400.051,"--In the Williams case, the very same argument was raised, that 7426 would be rendered meaningless if, and other, the quiet title action and other actions would be rendered meanings less if 1346 was construed to allow Mrs. Williams to have a third party action."
+2006.05-1541,0,15139,stephen_g_breyer,scotus_justice,1400.051,1401.101,Why would it have?
+2006.05-1541,0,23538,francis_s_ainsa_jr,,1405.871,1416.763,"The Government contended that Mrs. Williams had remedies available to her, certainly not a levy, because there was no levy, but the Government was contending she could have sought relief under the Quiet Title Act."
+2006.05-1541,0,15084,ruth_bader_ginsburg,scotus_justice,1418.629,1426.952,And the Government... and the opinion points out that if she had gone the quiet title route she would have lost the advantageous... she would have had to make.
+2006.05-1541,0,23538,francis_s_ainsa_jr,,1436.907,1441.544,"--Justice Ginsburg, I, I know you've found that in the opinion."
+2006.05-1541,0,15084,ruth_bader_ginsburg,scotus_justice,1463.975,1479.336,"And the, and the opinion suggests... not merely suggests, determines... that those other remedies, unlike 7426 in cases where it applies, were ineffective."
+2006.05-1541,0,23538,francis_s_ainsa_jr,,1484.823,1493.596,--The other remedies I understand were determined to be not meaningful in the opinion of the Court.
+2006.05-1541,0,15086,john_g_roberts_jr,scotus_justice,1522.663,1523.365,"Thank you, Counsel."
+2006.05-1541,1,21224,deanne_e_maynard,,1530.269,1532.654,"Mr. Chief Justice, and may it please the Court."
+2006.05-1541,1,15113,anthony_m_kennedy,scotus_justice,1545.196,1548.898,Do you have a citation for that as would apply to the Internal Revenue code?
+2006.05-1541,1,21224,deanne_e_maynard,,1548.898,1549.766,"Yes, Your Honor."
+2006.05-1541,1,15049,antonin_scalia,scotus_justice,1574.965,1582.154,"Was, was the more specific statute there enacted after the more general statute?"
+2006.05-1541,1,21224,deanne_e_maynard,,1582.154,1584.654,"Both of those statutes, it's been a long time, Your Honor."
+2006.05-1541,1,15049,antonin_scalia,scotus_justice,1586.606,1597.514,"The reason I ask is we... we do have a principle which I think is a sound one, that repeals by implication are not fatal."
+2006.05-1541,1,21224,deanne_e_maynard,,1623.481,1631.051,"--I'm not sure if they answer that precise question, but--"
+2006.05-1541,1,15049,antonin_scalia,scotus_justice,1631.051,1631.518,"Well, I guess--"
+2006.05-1541,1,21224,deanne_e_maynard,,1631.518,1642.974,"--the implied repeal analysis is not the proper analysis to apply here, because the proper principle is that the specific remedy forecloses resort to the more general remedy, when two things are true."
+2006.05-1541,1,15049,antonin_scalia,scotus_justice,1642.974,1647.111,"--Well, that's certainly true when the two are enacted at the same time, obviously."
+2006.05-1541,1,21224,deanne_e_maynard,,1661.335,1676.111,"In... in this Court's case, if I can answer your, the principle of your question, Your Honor, which is that the replied repeal doctrine is not the proper analysis here because the specific controls the general."
+2006.05-1541,1,15068,samuel_a_alito_jr,scotus_justice,1676.111,1685.736,"If 7426 had not been enacted, wouldn't this case have fallen within 1346 as interpreted by Williams."
+2006.05-1541,1,21224,deanne_e_maynard,,1685.736,1689.688,"Well, we would certainly have a more difficult argument here if that were the case, Your Honor."
+2006.05-1541,1,15068,samuel_a_alito_jr,scotus_justice,1715.069,1724.075,What could you point to in the language of 1346 that would take this case outside of 1346 as interpreted in Williams?
+2006.05-1541,1,21224,deanne_e_maynard,,1724.075,1730.896,"--That would be a difficult argument to make, that it doesn't fall within the erroneously or illegally collected tax."
+2006.05-1541,1,15068,samuel_a_alito_jr,scotus_justice,1741.871,1756.313,But if this case would have fallen within 1346 as interpreted by Williams until... then you must be arguing that 1346 was in part impliedly repealed when 7426 was enacted.
+2006.05-1541,1,21224,deanne_e_maynard,,1756.313,1757.582,"One can look at it that way, Your Honor."
+2006.05-1541,1,15113,anthony_m_kennedy,scotus_justice,1777.21,1779.246,"I don't, I don't see how you can say there's frustration."
+2006.05-1541,1,21224,deanne_e_maynard,,1811.467,1826.227,"Well, they are two very different schemes, Your Honor, and one is for the situation that Petitioner faces, which is a third party whose property is levied upon to collect the taxes of another, and it has its own venue provisions, its own jurisdictional provisions, its own short statute of limitations."
+2006.05-1541,1,15113,anthony_m_kennedy,scotus_justice,1827.143,1829.095,"Of course, because the Government doesn't have the money."
+2006.05-1541,1,21224,deanne_e_maynard,,1831.062,1831.83,"--No, no, Your Honor."
+2006.05-1541,1,15113,anthony_m_kennedy,scotus_justice,1834.665,1838.117,"Often does, but not necessarily, and doesn't have to have all the amount."
+2006.05-1541,1,21224,deanne_e_maynard,,1838.117,1862.233,"Not... I think, Your Honor, the Flora requirement, which is a judicially interpretation on the refund statute which requires you, a taxpayer to pay all of its tax liability for a given year before it can bring a refund statute challenge, actually supports our argument here because it shows how complicated it would be to apply that scheme when you're talking about a party who doesn't owe the tax."
+2006.05-1541,1,15049,antonin_scalia,scotus_justice,1993.284,1995.367,--Pre-Williams you're talking about?
+2006.05-1541,1,21224,deanne_e_maynard,,1995.367,1997.436,"--Yes, in 1966, Your Honor."
+2006.05-1541,1,15068,samuel_a_alito_jr,scotus_justice,2014.28,2015.764,Why does that make your argument stronger?
+2006.05-1541,1,21224,deanne_e_maynard,,2023.803,2030.057,"--Well, the cases say it matters what the Congress saw at the time it passed the statute in Brown and Block."
+2006.05-1541,1,15049,antonin_scalia,scotus_justice,2059.389,2064.71,"Did you make that argument, did the Government make that argument, in Williams?"
+2006.05-1541,1,21224,deanne_e_maynard,,2064.71,2065.646,--Did we make the argument in Williams?
+2006.05-1541,1,15049,antonin_scalia,scotus_justice,2065.646,2074.835,"Yes, that... that Congress had enacted another statute which presumes that there is no cause of action under 1346?"
+2006.05-1541,1,21224,deanne_e_maynard,,2074.835,2083.358,"Well, the Government conceded in Williams that 7426 was not available to Ms. Williams there because she had only been subjected to a lien, not a levy."
+2006.05-1541,1,15049,antonin_scalia,scotus_justice,2091.594,2112.794,"Yes, but even if it wasn't available to her, the fact that there was another statute the whole premise for which is the unavailability of a remedy under 1346, it seems to me that would have, that would have strengthened the Government's case in Williams."
+2006.05-1541,1,21224,deanne_e_maynard,,2112.794,2117.246,"--Well, we did point to the statute, Your Honor, and suggest that the Congress had made it available."
+2006.05-1541,1,15139,stephen_g_breyer,scotus_justice,2144.995,2147.197,It looks like it's the same in the Kreider case.
+2006.05-1541,1,21224,deanne_e_maynard,,2159.505,2160.239,"That's right, Your Honor."
+2006.05-1541,1,15139,stephen_g_breyer,scotus_justice,2160.239,2165.909,And in the prior case it seems to be a specific statute that was enacted in 1926.
+2006.05-1541,1,21224,deanne_e_maynard,,2170.397,2171.33,"Bless them, Your Honor."
+2006.05-1541,1,15139,stephen_g_breyer,scotus_justice,2172.747,2182.537,"And it was the 1926 code and it concerned 1926 income, so it must have been brought, the suit, fairly close to when that was enacted."
+2006.05-1541,1,21224,deanne_e_maynard,,2194.095,2195.112,I believe it had been.
+2006.05-1541,1,15086,john_g_roberts_jr,scotus_justice,2228.733,2235.589,"So why was it so hard for them to say that this is an exclusive remedy, as they have done in other situations?"
+2006.05-1541,1,21224,deanne_e_maynard,,2235.589,2240.557,"As I indicated, Your Honor, at the time there was no authoritative pronouncement."
+2006.05-1541,1,15086,john_g_roberts_jr,scotus_justice,2241.993,2243.993,That's even all the more reason for them to say.
+2006.05-1541,1,21224,deanne_e_maynard,,2248.98,2267.691,"--Well, the remedies that have been allowed by the courts, Your Honor... and we believe, in the absence of any appropriate waiver... but the actions that have been allowed have been allowed against IRS officials, and Congress did expressly replace those, on 12a, in 7426(d):"
+2006.05-1541,1,15086,john_g_roberts_jr,scotus_justice,2271.945,2281.284,"Well, again that suggests that they know how to spell out exclusivity when they have it in mind, and they didn't do it with respect to the availability of an action under 1346."
+2006.05-1541,1,21224,deanne_e_maynard,,2281.284,2282.903,"That's true, Your Honor."
+2006.05-1541,1,15086,john_g_roberts_jr,scotus_justice,2300.447,2303.983,"So the Williams decision came like a bolt out of the blue, then?"
+2006.05-1541,1,21224,deanne_e_maynard,,2303.983,2307.435,"--Well, that's probably how the Government viewed it, Your Honor."
+2006.05-1541,1,15086,john_g_roberts_jr,scotus_justice,2388.487,2389.672,Mr. Hungar has a further question.
+2006.05-1541,1,21224,deanne_e_maynard,,2389.672,2390.639,I beg your pardon?
+2006.05-1541,1,15086,john_g_roberts_jr,scotus_justice,2390.639,2392.707,Mr. Hungar has a further question.
+2006.05-1541,1,21224,deanne_e_maynard,,2395.243,2402.813,"He wants me to point out to the Court that, in addition to... it's always nice to have help."
+2006.05-1541,1,15049,antonin_scalia,scotus_justice,2423.226,2424.595,I forgot about that footnote.
+2006.05-1541,1,21224,deanne_e_maynard,,2428.047,2431.082,Mr. Hungar might have questioned your memory.
+2006.05-1541,1,15086,john_g_roberts_jr,scotus_justice,2434.368,2436.07,"Thank you, counsel."
+2006.05-1541,2,23538,francis_s_ainsa_jr,,2441.522,2449.294,The Government argues that A.S. Kreider has relevance to this case and I will submit to the Court that it does not.
+2006.05-1541,2,15113,anthony_m_kennedy,scotus_justice,2484.134,2488.503,And both statutes in Kreider I take it applied to the refund suit?
+2006.05-1541,2,23538,francis_s_ainsa_jr,,2488.503,2488.969,Yes.
+2006.05-1541,2,15113,anthony_m_kennedy,scotus_justice,2488.969,2493.657,So there were two statutes bearing on the same remedy.
+2006.05-1541,2,23538,francis_s_ainsa_jr,,2493.657,2496.109,Two statutes bearing on the same remedy.
+2006.05-1541,2,15086,john_g_roberts_jr,scotus_justice,2650.089,2651.356,"Thank you, Mr. Ainsa."

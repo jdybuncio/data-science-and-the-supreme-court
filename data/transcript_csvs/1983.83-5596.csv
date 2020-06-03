@@ -1,0 +1,166 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1983.83-5596,0,15073,warren_e_burger,scotus_justice,0.0,73.179,"Mr. Barnard, I think you may proceed when you're ready."
+1983.83-5596,0,18449,craig_s_barnard,,73.179,78.75,"Mr. Chief Justice, and may it please the Court."
+1983.83-5596,0,15073,warren_e_burger,scotus_justice,147.077,159.035,"Well, when you say the judge was not privy, the judge was there when the penalty jury took place, was he not?"
+1983.83-5596,0,18449,craig_s_barnard,,159.035,165.641,"--My point was simply that the judge was not a part of the guilt deliberations, and that--"
+1983.83-5596,0,15073,warren_e_burger,scotus_justice,165.641,168.676,"Well, of course, the judge never is, is he?"
+1983.83-5596,0,18449,craig_s_barnard,,168.676,169.943,--That's correct.
+1983.83-5596,0,15073,warren_e_burger,scotus_justice,169.943,175.163,And the jury... I see your point.
+1983.83-5596,0,18449,craig_s_barnard,,175.163,180.817,"Well, there are dual constraints on the power of the jury's decisionmaking here."
+1983.83-5596,0,15073,warren_e_burger,scotus_justice,211.086,219.573,"If you prevail in this case, counsel, what's the consequence of your prevailing?"
+1983.83-5596,0,18449,craig_s_barnard,,221.358,227.095,I believe a new trial is appropriate under Beck.
+1983.83-5596,0,15073,warren_e_burger,scotus_justice,227.095,229.563,On the imposition of a life sentence.
+1983.83-5596,0,18449,craig_s_barnard,,230.813,238.919,"The imposition of a life sentence, I believe, would be at least how far the relief had to go."
+1983.83-5596,0,15060,john_paul_stevens,scotus_justice,256.615,260.483,"--Mr. Barnard, you're arguing two quite separate points, though, aren't you?"
+1983.83-5596,0,18449,craig_s_barnard,,270.207,270.84,That's correct.
+1983.83-5596,0,15060,john_paul_stevens,scotus_justice,270.84,273.076,"As to the latter, you wouldn't want to get a new trial, would you?"
+1983.83-5596,0,18449,craig_s_barnard,,273.076,274.226,No.
+1983.83-5596,0,15045,harry_a_blackmun,scotus_justice,371.406,373.156,"And what was the result in Keeble, do you know?"
+1983.83-5596,0,18449,craig_s_barnard,,373.156,376.025,--I do not know.
+1983.83-5596,0,15045,harry_a_blackmun,scotus_justice,379.077,390.8,"I suppose the inference is that the Federal Court, despite the lack of jurisdiction, could find him guilty, try him and find him guilty of the lesser included facts."
+1983.83-5596,0,18449,craig_s_barnard,,395.621,397.723,I do not know that.
+1983.83-5596,0,15045,harry_a_blackmun,scotus_justice,409.031,419.47,"I take it here, there was no request for lesser included offense instructions, in your case?"
+1983.83-5596,0,18449,craig_s_barnard,,419.47,424.291,"Well, they never got to the point of the request, because the statute of limitations had run."
+1983.83-5596,0,15141,william_h_rehnquist,scotus_justice,430.111,435.515,"But you're now saying that there should have been such an instruction, I take it."
+1983.83-5596,0,18449,craig_s_barnard,,435.515,436.331,Yes.
+1983.83-5596,0,15141,william_h_rehnquist,scotus_justice,436.331,450.006,"And would you have had the judge charge the jury on the elements of the offense, and also tell the jury that the statute of limitations had run, and that no judgment could be entered on the verdict if they returned a verdict of that kind?"
+1983.83-5596,0,18449,craig_s_barnard,,450.006,457.695,"No, I don't believe it would, because the situation would be the same result as Beck."
+1983.83-5596,0,15141,william_h_rehnquist,scotus_justice,457.695,469.752,"Then you'd have the judge charge the jury, and give the jury the impression that the defendant could be sentenced if they returned a verdict on the lesser included offense, even though, in fact, the defendant couldn't be sentenced."
+1983.83-5596,0,18449,craig_s_barnard,,469.752,478.425,"Well, the jury would be doing precisely what the jury is doing, what it is supposed to do... excuse me."
+1983.83-5596,0,15141,william_h_rehnquist,scotus_justice,505.093,537.964,"Well, but if the theory of a lesser included offense charge is that the jury may be willing, in a doubtful case, may be willing to find someone guilty of a lesser included offense rather than a greater offense, if they think they have that option, rather than just the option between acquitting and finding guilty of the greater offense, isn't it a little inconsistent to give the jury the impression that they can return a verdict of guilty on this lesser offense, and that there will be punishment for it when, in fact, there can't be any?"
+1983.83-5596,0,18449,craig_s_barnard,,537.964,568.25,"My answer is that I believe that it would not mislead the jury to instruct on the lesser offenses, because if the jury were instructed on the offense... the lesser offenses... determined, as juries do, what offense has been committed, and if it was the lesser offense, it would be doing precisely what a jury should be doing."
+1983.83-5596,0,15045,harry_a_blackmun,scotus_justice,598.953,601.572,And another of which is to indict sooner than it did.
+1983.83-5596,0,18449,craig_s_barnard,,601.572,602.755,Indict sooner.
+1983.83-5596,0,15045,harry_a_blackmun,scotus_justice,603.555,610.845,"Certainly, if the statute weren't present, your client would have been entitled, I take it, to the lesser included offense instructions."
+1983.83-5596,0,18449,craig_s_barnard,,610.845,611.311,--Yes.
+1983.83-5596,0,15073,warren_e_burger,scotus_justice,613.63,618.182,Was he asked to waive the statute of limitations?
+1983.83-5596,0,18449,craig_s_barnard,,618.182,619.034,Yes.
+1983.83-5596,0,15092,sandra_day_oconnor,scotus_justice,624.938,636.912,Is there any role in Florida for the jury to make determinations in connection with the statute of limitations defense or point?
+1983.83-5596,0,18449,craig_s_barnard,,636.912,637.978,Yes.
+1983.83-5596,0,15092,sandra_day_oconnor,scotus_justice,650.953,654.707,Is that only if there's a factual dispute in connection with it?
+1983.83-5596,0,18449,craig_s_barnard,,661.028,685.576,"--If, for example, the statute of limitations... the offense was alleged to have occurred over a period, before the end of the statute and the period ended after the statute... what would be submitted to the jury would be just the period that fell within the statute as the charge on the offense."
+1983.83-5596,0,15092,sandra_day_oconnor,scotus_justice,691.48,696.534,"But the court itself would determine, as a matter of law, whether the statute had run."
+1983.83-5596,0,18449,craig_s_barnard,,697.567,700.503,"--The court could determine it separately, yes."
+1983.83-5596,0,15073,warren_e_burger,scotus_justice,716.179,728.338,"Are you suggesting that there is any possibility that if this instruction had been given and the verdicts had been returned on the lesser included offense or offenses, that he could have been sentenced on them?"
+1983.83-5596,0,18449,craig_s_barnard,,728.338,731.29,Not on the record that we have now.
+1983.83-5596,0,15073,warren_e_burger,scotus_justice,731.29,732.557,"No, of course not."
+1983.83-5596,0,18449,craig_s_barnard,,732.557,737.611,But maybe the record... maybe there is something that we don't know.
+1983.83-5596,0,15073,warren_e_burger,scotus_justice,737.611,745.698,"Well, the statute of limitations had either run or it hadn't, and that was not difficult to determine with the aid of a calendar, was it?"
+1983.83-5596,0,18449,craig_s_barnard,,745.698,754.121,"Well, it can be told by certain things, none of which are a matter of record here, and I don't want to suggest to the Court that they are."
+1983.83-5596,0,15071,byron_r_white,scotus_justice,758.024,769.147,"In Florida, suppose the instruction had been given and the jury had found guilt of a lesser included offense."
+1983.83-5596,0,18449,craig_s_barnard,,776.903,777.636,No.
+1983.83-5596,0,15071,byron_r_white,scotus_justice,781.64,783.923,Who does?
+1983.83-5596,0,18449,craig_s_barnard,,784.675,788.477,"Less than capital, yes, the judge sentences."
+1983.83-5596,0,15060,john_paul_stevens,scotus_justice,850.182,855.253,Does the record tell us what the vote of the jury was on the life sentence?
+1983.83-5596,0,18449,craig_s_barnard,,855.253,857.871,--I cannot tell you the vote.
+1983.83-5596,0,15073,warren_e_burger,scotus_justice,860.49,875.5,"Well, under Florida law, would it be lawful, would it be possible to know, unless the jury foreman reported it affirmatively to the judge?"
+1983.83-5596,0,18449,craig_s_barnard,,875.5,877.717,It is--
+1983.83-5596,0,15073,warren_e_burger,scotus_justice,877.717,886.974,"Ordinarily, a judge instructs the jury foreman not to disclose the exact vote."
+1983.83-5596,0,18449,craig_s_barnard,,886.974,888.124,--That's correct.
+1983.83-5596,0,15060,john_paul_stevens,scotus_justice,902.817,912.506,"Let me ask just one other question, because I don't remember."
+1983.83-5596,0,18449,craig_s_barnard,,919.861,923.647,The jury was instructed that it was a majority.
+1983.83-5596,0,15060,john_paul_stevens,scotus_justice,934.871,937.721,"At that time, it took 7 for life, at least."
+1983.83-5596,0,18449,craig_s_barnard,,937.721,938.206,--Right.
+1983.83-5596,0,15045,harry_a_blackmun,scotus_justice,966.89,975.246,"Mr. Barnard, are you making any claim that the State purposefully delayed this case until the statute of limitations had run on the lesser offenses?"
+1983.83-5596,0,18449,craig_s_barnard,,975.246,985.887,"We are making a claim, not as to intent so much, as to the possibility of intent."
+1983.83-5596,0,15045,harry_a_blackmun,scotus_justice,988.839,990.839,Would your case be different if you could prove that?
+1983.83-5596,0,18449,craig_s_barnard,,993.224,1000.647,--I just don't know.
+1983.83-5596,0,15060,john_paul_stevens,scotus_justice,1011.852,1013.954,Why would it be any stronger?
+1983.83-5596,0,18449,craig_s_barnard,,1018.708,1021.893,"--Could, but that's a penalty."
+1983.83-5596,0,15060,john_paul_stevens,scotus_justice,1023.493,1026.428,It just cancels out the delay is all it does.
+1983.83-5596,0,18449,craig_s_barnard,,1039.188,1042.64,--I think I understand that.
+1983.83-5596,0,15073,warren_e_burger,scotus_justice,1115.736,1135.499,"When the state legislature, as apparently the Florida State Legislature has done, gives the judge that power, are they not saying in so many words that the jury is permitted to make a recommendation to the judge for whatever use the judge wants to make of that recommendation."
+1983.83-5596,0,18449,craig_s_barnard,,1136.649,1140.719,"Well, to answer that two ways."
+1983.83-5596,0,15073,warren_e_burger,scotus_justice,1144.371,1147.29,Isn't that the effect of it?
+1983.83-5596,0,18449,craig_s_barnard,,1147.29,1158.163,"--It may be the effect of it, but the essential question that we're presenting is whether that's appropriate for the Court, constitutional for the legislature to do."
+1983.83-5596,0,15073,warren_e_burger,scotus_justice,1161.217,1178.159,"Well, what if the legislature had, in so many words, expressly said the jury, at its option, may recommend to the judge the sentence to be given, but the judge shall have sole and final power?"
+1983.83-5596,0,18449,craig_s_barnard,,1180.844,1187.682,"Under the arguments that we're presenting, yes, I would have a problem with that statute."
+1983.83-5596,0,15071,byron_r_white,scotus_justice,1205.41,1223.89,I take it your position is that a judge should never be entitled to sentence anybody to death: that the jury in a death case... it always has to be the jury that is given the sentencing authority.
+1983.83-5596,0,18449,craig_s_barnard,,1226.409,1240.15,"--Our position probably will boil down to that, but the question that we have before the Court is whether, if there is a jury, may the judge overrule it."
+1983.83-5596,0,15071,byron_r_white,scotus_justice,1240.15,1249.489,"I know that's the question, but your submission really is that the judge should not be able to sentence a person to death."
+1983.83-5596,0,18449,craig_s_barnard,,1249.489,1251.724,"Well, yes."
+1983.83-5596,0,15045,harry_a_blackmun,scotus_justice,1263.582,1273.973,"Of course, as you know, jury sentencing is not the uniform rule of this nation of ours."
+1983.83-5596,0,18449,craig_s_barnard,,1276.842,1281.46,"Yes, but I think we need to examine that a little."
+1983.83-5596,0,15045,harry_a_blackmun,scotus_justice,1298.021,1303.909,"Your theory would outlaw judge sentencing in all crimes, wouldn't it?"
+1983.83-5596,0,18449,craig_s_barnard,,1303.909,1306.694,--In all crimes?
+1983.83-5596,0,15141,william_h_rehnquist,scotus_justice,1335.011,1351.74,"Is your argument, Mr. Barnard, that for a special theory in capital cases, that the jury is a more reliable sentencer, or that you have to have perhaps both a judge and jury agree?"
+1983.83-5596,0,18449,craig_s_barnard,,1355.692,1356.294,Yes.
+1983.83-5596,0,15141,william_h_rehnquist,scotus_justice,1367.75,1380.659,"What if Florida set up a system that just said the jury shall find on the question of guilt and innocence, and then will have another trial, and that will all be before a judge on whether the death penalty should be imposed?"
+1983.83-5596,0,18449,craig_s_barnard,,1383.277,1386.479,That there was no jury at all involved?
+1983.83-5596,0,15141,william_h_rehnquist,scotus_justice,1386.479,1393.3,"Well, that the jury found the person guilty of first degree murder or capital homicide whatever the state called it."
+1983.83-5596,0,18449,craig_s_barnard,,1398.054,1408.91,"The sentencing decision, under our Eighth Amendment analysis and Sixth Amendment analysis, would have to be by a jury."
+1983.83-5596,0,15141,william_h_rehnquist,scotus_justice,1408.91,1417.082,"So it's the jury factor, and not the kind of two bites at the apple factor you're arguing for."
+1983.83-5596,0,18449,craig_s_barnard,,1420.134,1430.592,"We're arguing, in the alternative, of course, that Bullington at the very least says that a judge could overrule a jury if there is a jury involved."
+1983.83-5596,0,15141,william_h_rehnquist,scotus_justice,1430.592,1434.727,"Well, I thought Bullington was just describing the Missouri procedure."
+1983.83-5596,0,18449,craig_s_barnard,,1442.583,1443.4,No.
+1983.83-5596,0,15141,william_h_rehnquist,scotus_justice,1458.675,1469.633,"Yes, but what if a jury didn't return anything except the verdict on whether the person was guilty of the offense, and then the sentencing was turned over to a judge?"
+1983.83-5596,0,18449,craig_s_barnard,,1471.252,1473.502,That's correct.
+1983.83-5596,0,15092,sandra_day_oconnor,scotus_justice,1473.502,1487.726,"You are aware that a number of states do that precise thing, and have a judge determine the sentence in a capital case at a separate hearing, with no jury determination."
+1983.83-5596,0,18449,craig_s_barnard,,1487.726,1488.595,Yes.
+1983.83-5596,0,15092,sandra_day_oconnor,scotus_justice,1489.112,1493.73,And it's your position that all those states are operating under unconstitutional procedures.
+1983.83-5596,0,18449,craig_s_barnard,,1493.73,1498.133,--There are four states currently.
+1983.83-5596,0,15060,john_paul_stevens,scotus_justice,1522.149,1525.118,You said there are four states with a jury... with an override provision?
+1983.83-5596,0,18449,craig_s_barnard,,1525.118,1528.153,"Not with... oh, I'm sorry."
+1983.83-5596,0,15060,john_paul_stevens,scotus_justice,1531.505,1532.624,There are four states.
+1983.83-5596,0,18449,craig_s_barnard,,1535.576,1536.209,Three.
+1983.83-5596,0,15060,john_paul_stevens,scotus_justice,1536.209,1544.348,"So there are a total of seven states in which the jury does not actually make the decision, or is there a double-counting in there?"
+1983.83-5596,0,18449,craig_s_barnard,,1544.348,1545.464,No.
+1983.83-5596,0,15060,john_paul_stevens,scotus_justice,1551.002,1554.954,"And of those 31, in how many must the jury be unanimous?"
+1983.83-5596,0,18449,craig_s_barnard,,1554.954,1559.006,I have it in our appendix here.
+1983.83-5596,0,15060,john_paul_stevens,scotus_justice,1559.006,1560.524,"Well, never mind."
+1983.83-5596,0,18449,craig_s_barnard,,1562.476,1563.026,The number is there.
+1983.83-5596,0,15060,john_paul_stevens,scotus_justice,1566.595,1568.13,What's your basic theory?
+1983.83-5596,0,18449,craig_s_barnard,,1577.32,1581.687,"At bottom, it's because of the uniqueness of the death sentencing decision."
+1983.83-5596,0,15060,john_paul_stevens,scotus_justice,1581.687,1588.091,"Does it have anything to do with the different theories of punishment that are at stake in the death case, as opposed to other cases?"
+1983.83-5596,0,18449,craig_s_barnard,,1597.713,1608.255,I am enthusiastic about our argument.
+1983.83-5596,0,15073,warren_e_burger,scotus_justice,1692.675,1694.527,"Well, it isn't just retribution."
+1983.83-5596,0,18449,craig_s_barnard,,1700.265,1708.87,Deterrence is relevant for a legislature when it is deciding whether to pass a statute or not.
+1983.83-5596,0,15071,byron_r_white,scotus_justice,1725.713,1741.175,"Well, I suppose the irony of your position, if you really mean it, is that a judge would never have a role in whether or not to impose a death penalty, and if the jury imposed the death penalty, he could not override that decision."
+1983.83-5596,0,18449,craig_s_barnard,,1741.175,1745.543,"No, I don't think that's the result, any more than it would be the result in an acquittal."
+1983.83-5596,0,15071,byron_r_white,scotus_justice,1745.543,1750.03,"Well, you say that the jury is the sole sentencer under the Eighth Amendment."
+1983.83-5596,0,18449,craig_s_barnard,,1752.563,1759.636,"Well, the analogy is to trial and guilt."
+1983.83-5596,0,15073,warren_e_burger,scotus_justice,1765.373,1770.075,"Well, are arguing that a judge should have the power to overrule the jury only one way?"
+1983.83-5596,0,18449,craig_s_barnard,,1772.611,1775.313,--I don't think I could argue that.
+1983.83-5596,0,15073,warren_e_burger,scotus_justice,1792.274,1793.524,Very well.
+1983.83-5596,1,36264,mark_c_menser,,1798.178,1801.63,"Mr. Chief Justice, may it please the Court."
+1983.83-5596,1,15060,john_paul_stevens,scotus_justice,1983.03,1989.017,"But, General Menser, isn't it true that all those things could have been presented to the jury at the first hearing?"
+1983.83-5596,1,36264,mark_c_menser,,1989.017,1989.584,Yes.
+1983.83-5596,1,15060,john_paul_stevens,scotus_justice,1993.255,1998.39,But did the prosecutor try to submit those to the jury?
+1983.83-5596,1,36264,mark_c_menser,,1998.39,1998.992,"No, he did not."
+1983.83-5596,1,15060,john_paul_stevens,scotus_justice,1998.992,2002.027,"So I mean, isn't this sort of the other side of the coin on the first point?"
+1983.83-5596,1,36264,mark_c_menser,,2005.896,2010.717,"No, because in this particular case, the trial judge had ruled, at least as to the--"
+1983.83-5596,1,15060,john_paul_stevens,scotus_justice,2010.717,2012.9,But ruled erroneously as a matter of Florida law.
+1983.83-5596,1,36264,mark_c_menser,,2012.9,2013.5,--Correct.
+1983.83-5596,1,15060,john_paul_stevens,scotus_justice,2021.088,2022.69,But he was wrong.
+1983.83-5596,1,36264,mark_c_menser,,2022.69,2023.574,--So he was wrong.
+1983.83-5596,1,15060,john_paul_stevens,scotus_justice,2023.574,2026.409,So it seems to me you kind of want it both ways.
+1983.83-5596,1,36264,mark_c_menser,,2044.318,2051.174,"When I presented this argument, in the context of it, it's why there was a Gardner remand, not necessarily what was fair."
+1983.83-5596,1,15060,john_paul_stevens,scotus_justice,2072.521,2075.123,"Well, he was sentenced to death in that proceeding also."
+1983.83-5596,1,36264,mark_c_menser,,2075.123,2077.741,"But that set aside and remanded, pursuant to Gardner."
+1983.83-5596,1,15060,john_paul_stevens,scotus_justice,2084.395,2088.281,The net result is that the trial judge overruled the jury twice.
+1983.83-5596,1,36264,mark_c_menser,,2096.552,2099.904,--We don't know that the jury... what the jury would have done in the second sentencing.
+1983.83-5596,1,15060,john_paul_stevens,scotus_justice,2099.904,2102.19,"Well, you can't blame the defendant for that, can you?"
+1983.83-5596,1,36264,mark_c_menser,,2102.19,2105.308,"No, but I can give the judge one, but I won't hang two on him."
+1983.83-5596,1,15060,john_paul_stevens,scotus_justice,2107.177,2107.744,All right.
+1983.83-5596,1,36264,mark_c_menser,,2113.664,2117.533,"Well, no, we don't; because, quite frankly, the jury doesn't sentence the man anyway."
+1983.83-5596,1,15071,byron_r_white,scotus_justice,2156.455,2174.167,"Well, your opposition says that a jury do the sentencing in this case, and if Florida purports to put the decision in the hands of a judge, it's wrong, it's not complying with the Constitution."
+1983.83-5596,1,36264,mark_c_menser,,2175.369,2179.004,"Well, Mr. Justice White, we have 200 men on death row."
+1983.83-5596,1,15060,john_paul_stevens,scotus_justice,2221.398,2223.016,May I inquire?
+1983.83-5596,1,36264,mark_c_menser,,2235.407,2237.74,"That, I don't know."
+1983.83-5596,1,15060,john_paul_stevens,scotus_justice,2251.933,2256.154,"So, in effect, the way it seems to work out is if the jury recommends death, it's going to be death."
+1983.83-5596,1,36264,mark_c_menser,,2261.523,2262.14,No.
+1983.83-5596,1,15141,william_h_rehnquist,scotus_justice,2279.686,2287.256,"Those statistics you were citing were just from the people on Death Row who, I suppose, by definition, end up with a death sentence."
+1983.83-5596,1,36264,mark_c_menser,,2287.256,2287.973,Correct.
+1983.83-5596,1,15060,john_paul_stevens,scotus_justice,2295.529,2308.853,"Well, let me ask you this question about it, because I am somewhat interested in the question whether it's appropriate to impose a death sentence when the jury has apparently unanimously recommended life, which is fair to infer, I think, from the promptness with which they acted here."
+1983.83-5596,1,36264,mark_c_menser,,2314.04,2318.644,"Well, we do know that no one who's received it has ever broken the law again."
+1983.83-5596,1,15060,john_paul_stevens,scotus_justice,2334.487,2342.593,"But they would not be protected by incarceration for life, without possibility of parole, for example."
+1983.83-5596,1,36264,mark_c_menser,,2342.593,2348.144,"No, because the murders go on in prison, and there is a real and present danger to prison guards and other inmates."
+1983.83-5596,1,15060,john_paul_stevens,scotus_justice,2384.669,2387.704,You don't think retribution is a significant factor in Florida's scheme?
+1983.83-5596,1,36264,mark_c_menser,,2387.704,2393.608,I don't... I don't really see how.
+1983.83-5596,1,15073,warren_e_burger,scotus_justice,2442.506,2464.538,"This is why some penologists have said that the death sentence should be imposed for prisoners, life prisoners who commit a murder within the prison or in the process of escape... limiting the death sentence to that narrow category, because there is no other deterrence on them."
+1983.83-5596,1,36264,mark_c_menser,,2464.538,2466.839,That could be.
+1983.83-5596,1,15045,harry_a_blackmun,scotus_justice,2470.707,2476.159,Do you have any comment as to why the indictment here was delayed?
+1983.83-5596,1,36264,mark_c_menser,,2476.159,2484.396,"Your Honor, the bodies were discovered by some strangers in 1975."
+1983.83-5596,1,15073,warren_e_burger,scotus_justice,2557.691,2559.376,Very well.
+1983.83-5596,2,18449,craig_s_barnard,,2565.613,2570.934,"Very briefly, just to clear up some facts."
+1983.83-5596,2,15073,warren_e_burger,scotus_justice,2676.12,2676.87,"Thank you, gentlemen."

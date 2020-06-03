@@ -1,0 +1,182 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1991.90-1361,0,15141,william_h_rehnquist,scotus_justice,0.0,10.539,The spectators are admonished not to talk.
+1991.90-1361,0,33864,kent_l_jones,,71.396,75.28,"Mr. Chief Justice, and may it please the Court:"
+1991.90-1361,0,15092,sandra_day_oconnor,scotus_justice,167.952,182.872,"Mr. Jones, would you explain to me whether the Government thinks two income tax returns should be filed for this period, one by the trustee and one by the debtor?"
+1991.90-1361,0,33864,kent_l_jones,,182.872,191.299,--The trustee should file returns for the individual debtor's estate and for the corporate estate.
+1991.90-1361,0,15092,sandra_day_oconnor,scotus_justice,191.299,196.843,And should the individual debtor also file an income tax return for the same period?
+1991.90-1361,0,33864,kent_l_jones,,196.843,200.924,"I assume so, but that would be completely outside the scope of this case."
+1991.90-1361,0,15092,sandra_day_oconnor,scotus_justice,211.542,217.076,And would he have to show any of this transaction on his personal income tax?
+1991.90-1361,0,33864,kent_l_jones,,217.076,217.577,--No.
+1991.90-1361,0,15092,sandra_day_oconnor,scotus_justice,240.11,243.042,"Yes, but of course the bankruptcy estate part had ended."
+1991.90-1361,0,33864,kent_l_jones,,247.704,251.397,"--No, it's... that is in fact one of the critical issues."
+1991.90-1361,0,15092,sandra_day_oconnor,scotus_justice,255.451,256.232,"Well, the normal bankruptcy estate is over."
+1991.90-1361,0,33864,kent_l_jones,,261.184,274.351,"We have a trustee appointed by reorganization plan to liquidate the debtors' assets, but the estate continues because the assets have not been returned to the debtor under 1141(b) of the Bankruptcy Code."
+1991.90-1361,0,15092,sandra_day_oconnor,scotus_justice,274.351,284.619,And you take the position that the trustee and only the trustee in liquidation is obliged to file the income tax return for the period in question.
+1991.90-1361,0,33864,kent_l_jones,,284.619,288.803,"Yes, both for the corporation and separately for the individual estate."
+1991.90-1361,0,15113,anthony_m_kennedy,scotus_justice,288.803,292.604,I just want to make sure I understood the answers.
+1991.90-1361,0,33864,kent_l_jones,,300.231,306.355,We have a corporation named Holywell which has several consolidated subsidiaries--
+1991.90-1361,0,15113,anthony_m_kennedy,scotus_justice,306.355,307.113,Yes.
+1991.90-1361,0,33864,kent_l_jones,,307.113,311.827,"--All of which should file one return, and the trustee under 6012(b) is to file that return."
+1991.90-1361,0,15113,anthony_m_kennedy,scotus_justice,320.393,328.969,"Are there other areas in the tax law where there... well, let me preface the question."
+1991.90-1361,0,33864,kent_l_jones,,333.831,342.616,"Under section 1399 of the Internal Revenue Code, a corporation is treated differently from an individual when it goes into bankruptcy."
+1991.90-1361,0,15092,sandra_day_oconnor,scotus_justice,371.357,384.855,"Mr. Jones, the Government is relying only on section 6012, but the other petitioners rely on two other sections as well."
+1991.90-1361,0,33864,kent_l_jones,,390.038,417.126,"Well, as I will attempt to explain in more detail later on, 3713 of title 31 is called the absolute priority statute, and we agree with the debtors that it is a safety net, if you will, that if the trustee is not subject to reporting and paying taxes under 6012(b), he would be required to pay taxes under the absolute priority statute."
+1991.90-1361,0,15049,antonin_scalia,scotus_justice,513.467,530.39,"You say comfortably, except you really are requiring that the language trustee in a case under title 11 be applied to a situation in which the case under title 11 is completed."
+1991.90-1361,0,33864,kent_l_jones,,530.39,535.543,"--Well, we don't agree, and nor is there any authority that this case is completed."
+1991.90-1361,0,15049,antonin_scalia,scotus_justice,623.591,634.918,"Well, Mr. Jones, I guess you don't have to rely on whether this is a trustee in a case under title 11 if he's an assignee."
+1991.90-1361,0,33864,kent_l_jones,,634.918,636.34,"Well, that's correct."
+1991.90-1361,0,15060,john_paul_stevens,scotus_justice,737.656,740.218,"Mr. Jones, can I ask you a question?"
+1991.90-1361,0,33864,kent_l_jones,,750.323,755.479,"Well, I think that all creditors will be affected by the disposition, because--"
+1991.90-1361,0,15060,john_paul_stevens,scotus_justice,755.479,758.837,"If this money has to go to you, it has to come out of the pockets of the general creditors, doesn't it?"
+1991.90-1361,0,33864,kent_l_jones,,758.837,765.102,"--Well, the trustee... it's our understanding the trustee has a large amount of money still in his possession."
+1991.90-1361,0,15060,john_paul_stevens,scotus_justice,765.102,769.456,Has anyone representing the interests of the general creditors filed a brief in this case?
+1991.90-1361,0,33864,kent_l_jones,,769.456,770.195,Not that I'm aware of.
+1991.90-1361,0,15071,byron_r_white,scotus_justice,773.748,776.219,"Well, was there any money for general creditors, or just secured creditors?"
+1991.90-1361,0,33864,kent_l_jones,,776.219,783.095,"According to the record, all the creditors were paid 100 percent on the dollar, except the United States, which received nothing."
+1991.90-1361,0,15060,john_paul_stevens,scotus_justice,783.095,784.487,"Mr. Jones, may--"
+1991.90-1361,0,33864,kent_l_jones,,789.289,796.144,"I'm really not certain, Your Honor, what the financial ramifications of that would be."
+1991.90-1361,0,15071,byron_r_white,scotus_justice,796.144,796.895,I see.
+1991.90-1361,0,33864,kent_l_jones,,796.895,800.135,My assumption would be that somebody would have to return some money.
+1991.90-1361,0,15071,byron_r_white,scotus_justice,843.963,846.895,"Well, he eventually brought this suit though, didn't he?"
+1991.90-1361,0,33864,kent_l_jones,,846.895,848.257,--He eventually brought this suit.
+1991.90-1361,0,15071,byron_r_white,scotus_justice,848.257,849.179,He should have done it earlier.
+1991.90-1361,0,33864,kent_l_jones,,849.179,864.649,"He waited 2 years, he distributed a lot of money, and when he brought this suit he said either I'm not liable for taxes, or if I am liable the Bank of New York should pay me because they defrauded me and the estate by proposing a plan that didn't provide for these taxes."
+1991.90-1361,0,15141,william_h_rehnquist,scotus_justice,1278.318,1280.2,"Very well, Mr. Jones."
+1991.90-1361,1,28186,herbert_stettin,,1281.78,1284.882,"Mr. Chief Justice, and may it please the Court:"
+1991.90-1361,1,15060,john_paul_stevens,scotus_justice,1371.57,1374.721,But is it not possible that they will be unpaid?
+1991.90-1361,1,28186,herbert_stettin,,1374.721,1382.886,"--Oh, yes, there is a distinct possibility if this is undone, and the bankruptcy court, district court, and Eleventh Circuit made this point."
+1991.90-1361,1,15141,william_h_rehnquist,scotus_justice,1406.182,1412.045,"But that, I take it, does not bear on the proper decision of the point involved in this case."
+1991.90-1361,1,28186,herbert_stettin,,1412.045,1414.446,"--To an extent it does, in that--"
+1991.90-1361,1,15141,william_h_rehnquist,scotus_justice,1414.446,1422.951,What doctrine would prevail that would cause the general creditors to prevail there where they would not otherwise?
+1991.90-1361,1,28186,herbert_stettin,,1422.951,1432.268,--There is no general doctrine that would cause the general creditors to prevail over the Government if the Government were in fact entitled to priority and right of payment of these taxes.
+1991.90-1361,1,15141,william_h_rehnquist,scotus_justice,1432.268,1446.818,"Well, so really, then, we're not talking about a situation where if the Government had moved before all the payoffs and the plan was completed it might have prevailed but now it's too late for it to prevail."
+1991.90-1361,1,28186,herbert_stettin,,1455.433,1460.317,"Clearly, there are methods by which a plan can be undone, to use your phrase."
+1991.90-1361,1,15141,william_h_rehnquist,scotus_justice,1471.084,1484.114,"But am I right in thinking that you agree, or tell me if I am not right, that the fact that the plan has been consummated, as opposed to if it were just incipient, does not bear on how this case should be disposed of?"
+1991.90-1361,1,28186,herbert_stettin,,1484.114,1489.517,--You are correct if section 6012(b) does apply to this liquidating trustee.
+1991.90-1361,1,15141,william_h_rehnquist,scotus_justice,1489.517,1495.07,So the fact that the plan has been consummated doesn't change the applicable law.
+1991.90-1361,1,28186,herbert_stettin,,1495.07,1499.572,"If 6012(b) applies, it does not change the applicable law."
+1991.90-1361,1,15060,john_paul_stevens,scotus_justice,1558.37,1562.504,"No, but Mr. Stettin, assume they had acted with due diligence, as you claim, then what would have happened."
+1991.90-1361,1,28186,herbert_stettin,,1562.504,1564.664,--Several things would have happened.
+1991.90-1361,1,15060,john_paul_stevens,scotus_justice,1587.411,1590.413,You're saying that should have been obvious to the Government but not to the bank or to the debtor.
+1991.90-1361,1,28186,herbert_stettin,,1590.413,1592.133,It should have been obvious to everyone.
+1991.90-1361,1,15060,john_paul_stevens,scotus_justice,1620.31,1624.854,"No, but I'm still asking you, supposing they had acted with due diligence, what would have happened?"
+1991.90-1361,1,28186,herbert_stettin,,1624.854,1634.231,--The plan would not have been confirmable because one of the requirements under section 1129 is that the plan be shown to be capable of successfully being carried out.
+1991.90-1361,1,15060,john_paul_stevens,scotus_justice,1634.231,1643.648,"And you're suggesting the Government should be solely responsible for the failure to discern an obvious defect in the plan, even though neither the bank nor the debtor recognized the same defect."
+1991.90-1361,1,28186,herbert_stettin,,1643.648,1646.56,Whether it was--
+1991.90-1361,1,15060,john_paul_stevens,scotus_justice,1646.56,1647.939,Why didn't the trustee recognize the defect?
+1991.90-1361,1,28186,herbert_stettin,,1652.831,1653.612,--Yes.
+1991.90-1361,1,15060,john_paul_stevens,scotus_justice,1656.584,1658.206,"I understand, but he did have expensive counsel."
+1991.90-1361,1,28186,herbert_stettin,,1658.206,1664.639,"Without question, the expenses in this case were significant for all parties, including counsel for the--"
+1991.90-1361,1,15060,john_paul_stevens,scotus_justice,1664.639,1671.585,And why is it that the Government is fully responsible for an error that a lot of other high-priced lawyers should obviously have detected?
+1991.90-1361,1,28186,herbert_stettin,,1671.585,1676.516,--The Government had the opportunity and did not take advantage of it.
+1991.90-1361,1,15060,john_paul_stevens,scotus_justice,1749.106,1752.548,"Well, did the trustee violate any term of the plan when he initiated this litigation?"
+1991.90-1361,1,28186,herbert_stettin,,1752.548,1753.647,No.
+1991.90-1361,1,15060,john_paul_stevens,scotus_justice,1753.647,1757.21,Would he have lawfully initiated this litigation the day after he was appointed?
+1991.90-1361,1,28186,herbert_stettin,,1757.21,1764.555,"He could legally have done that, except that it would not have allowed him to carry out the terms of the plan within the time required under the terms of the plan."
+1991.90-1361,1,15060,john_paul_stevens,scotus_justice,1764.555,1766.356,"Well, he's not going to be able to do that anyway."
+1991.90-1361,1,28186,herbert_stettin,,1766.356,1775.332,"Well, he did carry out the terms of the plan to the extent of taking the money from the bank and paying it to the creditors whom the plan obligated him to pay."
+1991.90-1361,1,15060,john_paul_stevens,scotus_justice,1936.637,1944.964,Do grantor trusts have a reporting or disclosure obligation as opposed to a filing obligation?
+1991.90-1361,1,28186,herbert_stettin,,1944.964,1961.004,"If it had any obligation at all, Justice Kennedy, it had a disclosure... like a partnership return being filed just for informational purposes, but it had no obligation to pay tax, and clearly no return filing obligation under 6012 as contended by the Government."
+1991.90-1361,1,15141,william_h_rehnquist,scotus_justice,1995.368,2010.707,"Well, Mr. Stettin, who did the... in the view of the participants in this plan, who was going to pay the tax liability that obviously was owed by somebody for the preconfirmation activities?"
+1991.90-1361,1,28186,herbert_stettin,,2010.707,2014.068,The plan is entirely silent on that issue.
+1991.90-1361,1,15141,william_h_rehnquist,scotus_justice,2041.858,2048.291,"Why did that not occur, because there was no... nothing went back to the debtors?"
+1991.90-1361,1,28186,herbert_stettin,,2048.291,2057.257,This case is not closed 5 years and a couple of months after confirmation because of the incredible volume of appeals.
+1991.90-1361,1,15060,john_paul_stevens,scotus_justice,2124.172,2132.796,"Do you have any cases, just to follow Mr. Jones' last point, in which a grantor trust was created by a debtor in possession?"
+1991.90-1361,1,28186,herbert_stettin,,2132.796,2137.911,--The one case which both briefs discuss is In re Sonner.
+1991.90-1361,1,15060,john_paul_stevens,scotus_justice,2154.081,2155.801,Is this the decision of the bankruptcy court?
+1991.90-1361,1,28186,herbert_stettin,,2155.801,2156.262,It is.
+1991.90-1361,1,15060,john_paul_stevens,scotus_justice,2156.262,2157.504,That's the only authority you've got.
+1991.90-1361,1,28186,herbert_stettin,,2157.504,2160.757,"That's the only one that directly addresses the issue, as I understand it, from both briefs."
+1991.90-1361,1,15092,sandra_day_oconnor,scotus_justice,2224.466,2226.188,"Now, I suppose he could be an assignee."
+1991.90-1361,1,28186,herbert_stettin,,2226.188,2242.809,"--We think not, and the reason we think not is because the 6012 statute and every one of the predecessors, going as far back as Mr. Jones has mentioned, has never applied 6012(b) to someone who did not have control over a debtor or a debtor's property."
+1991.90-1361,1,15092,sandra_day_oconnor,scotus_justice,2246.102,2249.214,Does it fit within the regulations definition of assignee?
+1991.90-1361,1,28186,herbert_stettin,,2249.214,2256.567,"I believe that the regulations the Government mentions are under another tax statute, and they are not the regulations under this statute."
+1991.90-1361,1,15092,sandra_day_oconnor,scotus_justice,2257.658,2262.5,"Well, do you think the ordinary meaning of the term could scoop up this trustee?"
+1991.90-1361,1,28186,herbert_stettin,,2262.5,2263.902,--The Government has argued that.
+1991.90-1361,1,15092,sandra_day_oconnor,scotus_justice,2280.534,2285.408,"Well, I suppose just to be absolutely sure the Government gets its taxes one way or another."
+1991.90-1361,1,28186,herbert_stettin,,2285.408,2302.348,"--Clearly, if Congress intended that the Government get its taxes when you've got an insolvent debtor who has got property in the hands of a third person, all you'd say... all you'd need to say is that any person who holds possession or title or control... any person, without describing what they are."
+1991.90-1361,1,15113,anthony_m_kennedy,scotus_justice,2305.831,2315.926,"Well, could you give us an example of a case where the assignee clause of (b)(3) would come into play in a Chapter 11 type proceeding?"
+1991.90-1361,1,28186,herbert_stettin,,2315.926,2316.517,"--Oh, surely."
+1991.90-1361,1,15113,anthony_m_kennedy,scotus_justice,2330.866,2333.056,"But... no, I want a definition of an assignee."
+1991.90-1361,1,28186,herbert_stettin,,2336.689,2345.054,"He is an assignee technically, because by operation of law all of the property of the prepetition debtor is transferred to him."
+1991.90-1361,1,15113,anthony_m_kennedy,scotus_justice,2345.054,2346.386,I see.
+1991.90-1361,1,28186,herbert_stettin,,2348.988,2354.491,"That's certainly one instance of an assignee, but I would agree with you, why would you have to use separate words for it if you intended it that way?"
+1991.90-1361,1,15045,harry_a_blackmun,scotus_justice,2354.491,2360.826,"Mr. Stettin, why didn't the bank's plan provide something about the payment of taxes?"
+1991.90-1361,1,28186,herbert_stettin,,2360.826,2368.313,I believe it was because it was intended that the plan would be consummated substantially within a very short period of time.
+1991.90-1361,1,15045,harry_a_blackmun,scotus_justice,2378.347,2380.407,The other plan submitted did cover taxes.
+1991.90-1361,1,28186,herbert_stettin,,2380.407,2381.198,No.
+1991.90-1361,1,15045,harry_a_blackmun,scotus_justice,2405.366,2410.248,"But normally these plans do make some reference to the payment of taxes, do they not?"
+1991.90-1361,1,28186,herbert_stettin,,2410.248,2410.839,They should.
+1991.90-1361,1,15049,antonin_scalia,scotus_justice,2434.464,2439.207,"Before you go on, have you finished your discussion of assignee?"
+1991.90-1361,1,28186,herbert_stettin,,2442.108,2442.559,"--No, I have not."
+1991.90-1361,1,15049,antonin_scalia,scotus_justice,2443.11,2445.13,I'm partial to dictionaries myself.
+1991.90-1361,1,28186,herbert_stettin,,2449.565,2453.909,Because it would cover people clearly not intended to be covered as assignees.
+1991.90-1361,1,15113,anthony_m_kennedy,scotus_justice,2553.792,2557.493,"Well, if 3713 does not apply, what does apply?"
+1991.90-1361,1,28186,herbert_stettin,,2557.493,2568.282,"The bankruptcy code itself provides the preference to the Government in the payment of taxes due, and it clearly says that, and Mr. Jones cited you the statute... 503, I believe it is."
+1991.90-1361,1,15113,anthony_m_kennedy,scotus_justice,2569.501,2570.453,Isn't that 507?
+1991.90-1361,1,28186,herbert_stettin,,2570.453,2572.274,--I believe it's 507.
+1991.90-1361,1,15141,william_h_rehnquist,scotus_justice,2573.095,2579.608,"Wasn't a similar argument to that rejected in the Key case, a similar argument to the one you're making now?"
+1991.90-1361,1,28186,herbert_stettin,,2579.608,2581.51,"I'm sorry, I don't understand."
+1991.90-1361,1,15141,william_h_rehnquist,scotus_justice,2582.74,2593.148,"Well, that the bankruptcy code supplied the tax consequences rather than what was then section 3466 at the time of the Key case."
+1991.90-1361,1,28186,herbert_stettin,,2593.148,2598.411,--I must confess to you that I'm not familiar enough with the facts in Key to be able to respond accurately.
+1991.90-1361,1,15049,antonin_scalia,scotus_justice,2657.409,2658.621,Excuse me.
+1991.90-1361,1,28186,herbert_stettin,,2666.616,2672.46,--And because rule 2002(j) requires that notice be given to the Internal Revenue Service.
+1991.90-1361,1,15049,antonin_scalia,scotus_justice,2672.46,2673.191,Okay.
+1991.90-1361,1,28186,herbert_stettin,,2675.822,2676.523,"But they were in this case, as you point out."
+1991.90-1361,1,15049,antonin_scalia,scotus_justice,2676.523,2681.806,"--Yes, all right, and they would have gotten the same notice of the proposed plan."
+1991.90-1361,1,28186,herbert_stettin,,2681.806,2686.029,"Yes, absolutely, without any qualification."
+1991.90-1361,1,15049,antonin_scalia,scotus_justice,2753.263,2760.447,What is your definition of assignee?
+1991.90-1361,1,28186,herbert_stettin,,2760.447,2772.425,"An assignee is someone who is in control of the debtor, who has hands-on ability to determine what its obligations and rights are and to control it."
+1991.90-1361,1,15060,john_paul_stevens,scotus_justice,2794.621,2801.494,"But may I ask, you say he must be... have, in effect, management control of the property, but the statute doesn't say that."
+1991.90-1361,1,28186,herbert_stettin,,2808.869,2810.539,"Justice Stevens, you are correct."
+1991.90-1361,1,15060,john_paul_stevens,scotus_justice,2811.24,2815.932,And where do we find the legal basis for your suggestion that a different standard should apply to assignees?
+1991.90-1361,1,28186,herbert_stettin,,2815.932,2819.555,--In the line of cases that have in fact applied 6012(b).
+1991.90-1361,1,15060,john_paul_stevens,scotus_justice,2824.718,2826.6,And held that assignees were liable.
+1991.90-1361,1,28186,herbert_stettin,,2829.894,2833.817,On a scale basis I can't tell you how many did and did not.
+1991.90-1361,1,15060,john_paul_stevens,scotus_justice,2846.987,2855.081,"Well, that may be well be, but that doesn't necessarily mean that something beyond the statutory standard is required in order to qualify as an assignee, because it also doesn't say order of court."
+1991.90-1361,1,28186,herbert_stettin,,2858.974,2864.118,"It is, and if they had in fact intended that it cover every single instance... and there are cases that say it does not."
+1991.90-1361,1,15060,john_paul_stevens,scotus_justice,2868.36,2872.994,"Oh, I understand your grantor trust, but this is a case where the bankruptcy proceeding is still alive."
+1991.90-1361,1,28186,herbert_stettin,,2875.514,2876.546,The case is still open.
+1991.90-1361,1,15060,john_paul_stevens,scotus_justice,2878.067,2878.727,Yes.
+1991.90-1361,1,28186,herbert_stettin,,2879.589,2880.17,"Yes, sir."
+1991.90-1361,1,15060,john_paul_stevens,scotus_justice,2913.809,2922.025,"Well, yes, but you needed lawyers and tax advisors and accountants, and you were going to spend a lot of money for your professional assistance, your trustee was."
+1991.90-1361,1,28186,herbert_stettin,,2925.828,2926.239,No.
+1991.90-1361,1,15060,john_paul_stevens,scotus_justice,2938.937,2940.687,What kind of compensation did this trustee get?
+1991.90-1361,1,28186,herbert_stettin,,2940.687,2951.735,"--He has received a total in compensation of, I believe... I could be off by a little bit... of about $140,000 for services since October of 1985."
+1991.90-1361,1,15060,john_paul_stevens,scotus_justice,2951.735,2954.977,"Not exactly a bargain assignment, I guess."
+1991.90-1361,1,28186,herbert_stettin,,2954.977,2961.282,"He probably regrets having been lured into this, but that's another question for another day."
+1991.90-1361,1,15113,anthony_m_kennedy,scotus_justice,3024.172,3029.376,Why don't we look to the terms of the plan to see what his duties are?
+1991.90-1361,1,28186,herbert_stettin,,3029.376,3031.586,"--You can, except--"
+1991.90-1361,1,15113,anthony_m_kennedy,scotus_justice,3031.586,3035.8,Why don't we look to just see what duties he performed as opposed to the capacity in which he was appointed?
+1991.90-1361,1,28186,herbert_stettin,,3035.8,3043.464,--The answer I give you is because otherwise every single case would be fact-driven.
+1991.90-1361,1,15113,anthony_m_kennedy,scotus_justice,3045.716,3046.567,I think just the opposite.
+1991.90-1361,1,28186,herbert_stettin,,3059.355,3065.699,--I agree with you that the plan circumscribes what his responsibilities are.
+1991.90-1361,1,15141,william_h_rehnquist,scotus_justice,3084.031,3086.294,"Yes, but please wind it up."
+1991.90-1361,1,28186,herbert_stettin,,3086.294,3086.795,I will do it quickly.
+1991.90-1361,1,15141,william_h_rehnquist,scotus_justice,3103.674,3104.836,"Thank you, Mr. Stettin."
+1991.90-1361,1,28186,herbert_stettin,,3104.836,3105.286,"Thank you, sir."
+1991.90-1361,1,15141,william_h_rehnquist,scotus_justice,3105.286,3108.388,"Mr. Jones, you have 9 minutes remaining."
+1991.90-1361,2,33864,kent_l_jones,,3108.388,3123.359,"In the trustee's argument, what was omitted was the objective of Congress in enacting these statutes, which was to ensure that insolvents' income doesn't escape taxation."
+1991.90-1361,2,15049,antonin_scalia,scotus_justice,3140.83,3147.124,"Well, but Congress can never make you collect taxes you don't show up to collect."
+1991.90-1361,2,33864,kent_l_jones,,3168.638,3175.371,"--Well, there's been no suggestion by any court that the Government is estopped or barred by any bankruptcy code provision."
+1991.90-1361,2,15049,antonin_scalia,scotus_justice,3183.616,3188.662,"No, I'm not making an estoppel argument, but I'm saying the system makes sense."
+1991.90-1361,2,33864,kent_l_jones,,3196.967,3202.99,There was nothing that the Government should have done that it needed to do that wasn't performed in this case.
+1991.90-1361,2,15060,john_paul_stevens,scotus_justice,3243.016,3246.978,"The obligation to pay the taxes you're describing is a statutory obligation, not one created by the plan."
+1991.90-1361,2,33864,kent_l_jones,,3246.978,3249.279,--It is a statutory obligation.
+1991.90-1361,2,15060,john_paul_stevens,scotus_justice,3253.644,3258.335,What paragraph of the trust gives this obligation... places obligation on the trustee?
+1991.90-1361,2,33864,kent_l_jones,,3258.335,3262.189,I believe it's on page 44 of the joint appendix.
+1991.90-1361,2,15060,john_paul_stevens,scotus_justice,3273.807,3278.96,You say this particular tax obligation is something that was incurred by the trustee in administering the trust.
+1991.90-1361,2,33864,kent_l_jones,,3278.96,3279.491,--Absolutely.
+1991.90-1361,2,15060,john_paul_stevens,scotus_justice,3319.165,3322.778,But Class 1 claims are defined as those which have been approved by the bankruptcy court.
+1991.90-1361,2,33864,kent_l_jones,,3322.778,3323.639,"--No, sir."
+1991.90-1361,2,15060,john_paul_stevens,scotus_justice,3329.062,3335.275,"Administrative claims as the same are allowed and ordered by the court, is what it says on page 38, and this one was not allowed or ordered by the court."
+1991.90-1361,2,33864,kent_l_jones,,3335.275,3338.098,--It hasn't been allowed or ordered because he hasn't submitted it.
+1991.90-1361,2,15060,john_paul_stevens,scotus_justice,3338.098,3343.14,"Well, I know, but it still doesn't fit within the plain language of the plan, is what I'm suggesting."
+1991.90-1361,2,33864,kent_l_jones,,3343.14,3353.739,"Well, all I was suggesting was if he had implemented the plan as he should have, he would have submitted this for the court for approval, it would have been approved, it would have been a Class 1 claim under the plan, and it would have been paid."
+1991.90-1361,2,15092,sandra_day_oconnor,scotus_justice,3353.739,3362.845,"Mr. Jones, now the liquidating trust is not a separate taxable entity, I gather."
+1991.90-1361,2,33864,kent_l_jones,,3362.845,3368.96,"For the individual estate, it certainly is."
+1991.90-1361,2,15092,sandra_day_oconnor,scotus_justice,3451.523,3475.748,"Mr. Jones, would you tell me what you respond to the argument made by your colleague to the effect that you can't take the dictionary definition of assignee in 6012(b)(3) because if you do any purchaser of the assets will be an assignee?"
+1991.90-1361,2,33864,kent_l_jones,,3475.748,3496.193,"Well, we would rely on the regulatory definition, which we do think focuses on what the statute is intended to guard against, and that is that an assignee who obtains possession of the assets of the debtor for the purpose of paying the debtor's debts, we think that's the kind of assignee that the statute reaches."
+1991.90-1361,2,15049,antonin_scalia,scotus_justice,3497.944,3502.177,So you also don't argue for the dictionary definition.
+1991.90-1361,2,33864,kent_l_jones,,3502.177,3509.441,"Well, I think that... only for the part of it that involves an assignment, and there was an assignment here to the trustee."
+1991.90-1361,2,15141,william_h_rehnquist,scotus_justice,3585.459,3587.633,"Thank you, Mr. Jones."

@@ -1,0 +1,288 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2001.00-9285,0,15141,william_h_rehnquist,scotus_justice,10.139,11.238,Mr. Wagner.
+2001.00-9285,0,40773,robert_j_wagner,,11.238,26.992,"Mr. Chief Justice, and may it please the Court: On April 3rd of 1992, Judge Foster dismissed criminal charges against Timothy Hall."
+2001.00-9285,0,15139,stephen_g_breyer,scotus_justice,79.35,84.459,"In the U.S.... in the Public Defender's Office, couldn't this situation arise fairly frequently?"
+2001.00-9285,0,40773,robert_j_wagner,,91.819,93.638,"Yes, it could."
+2001.00-9285,0,15139,stephen_g_breyer,scotus_justice,93.638,93.995,All right.
+2001.00-9285,0,40773,robert_j_wagner,,116.352,133.499,"Well, the rule that's in place here, the rule from Holloway v. Arkansas, the rule from Cuyler v. Sullivan, the rule from Wood v. Georgia, is an appropriate rule, and it's appropriate because it requires that the trial judge or the... or the judge in the case knows or reasonably should know that there is, in fact, a particular conflict."
+2001.00-9285,0,15084,ruth_bader_ginsburg,scotus_justice,133.654,140.432,"But, Mr. Wagner, what difference should it make from the point of view of the defendant whether the judge knew or the judge didn't know?"
+2001.00-9285,0,40773,robert_j_wagner,,156.267,170.219,"--Well, in Holloway v. Arkansas, this Court announced a rule which if a defense attorney presents to the court an objection on the basis of a conflict of interest, and the court fails to inquire into that conflict, then prejudice is presumed."
+2001.00-9285,0,15139,stephen_g_breyer,scotus_justice,176.635,183.755,"But I was asking you what the rule should be, not the rule... I probably wasn't specific enough."
+2001.00-9285,0,40773,robert_j_wagner,,205.184,211.382,"Well, the rule should be, first of all, if the... if the court knows or reasonably should know--"
+2001.00-9285,0,15139,stephen_g_breyer,scotus_justice,211.382,213.195,Forget whether the court knows or doesn't know.
+2001.00-9285,0,40773,robert_j_wagner,,213.195,214.571,--Then it should be if there's an actual--
+2001.00-9285,0,15139,stephen_g_breyer,scotus_justice,214.571,214.875,I want to know what the rule should be.
+2001.00-9285,0,40773,robert_j_wagner,,214.875,217.888,"--If there's an actual conflict, Your Honor, as opposed to a particular--"
+2001.00-9285,0,15139,stephen_g_breyer,scotus_justice,217.888,219.36,That doesn't help me.
+2001.00-9285,0,40773,robert_j_wagner,,231.558,243.488,"--If the... the attorney is compelled to refrain from doing something because of his ethical obligations to the victim, if there's that compulsion by that defense attorney where he can't do certain things for his--"
+2001.00-9285,0,15139,stephen_g_breyer,scotus_justice,243.488,243.766,Fine.
+2001.00-9285,0,40773,robert_j_wagner,,269.771,285.622,"--Well, and if... if the... the judge in this case had conducted that inquiry properly and had determined whether or not Mr. Saunders had that... that... the compulsion to refrain from doing something on behalf of Mr. Mickens, then in fact that would have been cured right away and we wouldn't--"
+2001.00-9285,0,15139,stephen_g_breyer,scotus_justice,285.622,285.979,Fine.
+2001.00-9285,0,40773,robert_j_wagner,,288.982,292.758,--Send it back and tell him to... to do the inquiry?
+2001.00-9285,0,15139,stephen_g_breyer,scotus_justice,292.758,296.155,"Say where there's that prejudice, you lose; if there isn't that prejudice, you don't."
+2001.00-9285,0,40773,robert_j_wagner,,296.155,301.942,"Well, because this Court has... has provided that there's a fundamental right to conflict-free representation."
+2001.00-9285,0,15141,william_h_rehnquist,scotus_justice,301.942,308.006,Didn't... didn't the district court find against you on the... on the point of whether there was an adverse effect?
+2001.00-9285,0,40773,robert_j_wagner,,308.006,309.808,"They did in fact, Your Honor."
+2001.00-9285,0,15141,william_h_rehnquist,scotus_justice,315.195,320.784,"The question before the Court is whether, in addition to a Sixth Amendment violation, you have to show an adverse effect."
+2001.00-9285,0,40773,robert_j_wagner,,320.784,322.054,--That's right.
+2001.00-9285,0,15113,anthony_m_kennedy,scotus_justice,331.547,345.078,"But your answer to Justice Breyer... correct me if I'm wrong... was that there had to be some, at least strong possibility of adverse effect in the instance where he represented the victim years before."
+2001.00-9285,0,40773,robert_j_wagner,,345.078,349.408,And that's exactly what distinguishes actual conflict from adverse effect.
+2001.00-9285,0,15113,anthony_m_kennedy,scotus_justice,357.894,362.763,"Well, but here it seems to me that two inquiries tend to become conflated in a case like this."
+2001.00-9285,0,40773,robert_j_wagner,,365.334,367.547,"--Well, I would suggest--"
+2001.00-9285,0,15113,anthony_m_kennedy,scotus_justice,367.547,376.555,And... and that's quite different from a case where there's multiple representation over the defendant's... over the counsel's objection.
+2001.00-9285,0,40773,robert_j_wagner,,420.203,430.283,"--Your Honor, I would suggest, though, that the key issue here is in the trial court's duty to... to inquire into a conflict that it knew or reasonably should have known."
+2001.00-9285,0,15141,william_h_rehnquist,scotus_justice,432.224,440.742,"Yes, but Holloway and Cuyler were both multiple representation cases where the trial court could see the whole thing right before him at that time."
+2001.00-9285,0,40773,robert_j_wagner,,443.643,444.8,"Your Honor, I agree."
+2001.00-9285,0,15060,john_paul_stevens,scotus_justice,462.224,474.64,"May I ask if... if in your view would everything have been satisfactory, as a constitutional law matter, if the judge had said, go ask your client if the client has any objection, and the client had said, no, I have no objection?"
+2001.00-9285,0,40773,robert_j_wagner,,475.84,481.024,"Well, I believe that the court should have indulged in some inquiry of the client himself."
+2001.00-9285,0,15049,antonin_scalia,scotus_justice,487.755,488.55,Excuse me.
+2001.00-9285,0,40773,robert_j_wagner,,534.608,546.107,"--Well, it is that, but there's also ethical consideration 4-5 of the Virginia Code of Professional Responsibility which states that anything obtained by Mr. Saunders through his representation of Hall could not be used to Hall's disadvantage."
+2001.00-9285,0,15049,antonin_scalia,scotus_justice,546.107,548.224,"That's fine, but that doesn't show a conflict."
+2001.00-9285,0,40773,robert_j_wagner,,565.254,572.806,"Well, I believe it has, Your Honor, and it's been established because Mr. Saunders in this case obtained confidential information from Mr. Hall."
+2001.00-9285,0,15084,ruth_bader_ginsburg,scotus_justice,578.987,580.576,Would you... would you say what they were?
+2001.00-9285,0,40773,robert_j_wagner,,610.512,621.616,"First of all, all of this happened in... in juvenile domestic relations court, and under Virginia law, all of those files, all of that information from that case was confidential and couldn't be revealed to the public."
+2001.00-9285,0,15049,antonin_scalia,scotus_justice,639.152,639.446,So what?
+2001.00-9285,0,40773,robert_j_wagner,,650.758,659.622,"--I want to get to that point, and the point is that in death penalty cases, it's absolutely essential that the attorney looks into the background of the client."
+2001.00-9285,0,15141,william_h_rehnquist,scotus_justice,660.272,662.459,You're asking for a special rule in death penalty cases?
+2001.00-9285,0,40773,robert_j_wagner,,662.459,663.675,"--I'm not, Your Honor."
+2001.00-9285,0,15141,william_h_rehnquist,scotus_justice,664.048,666.843,"Well, they why do you... why do you stress the fact this a death penalty case?"
+2001.00-9285,0,40773,robert_j_wagner,,666.843,669.424,"--Well, I also stress the fact that this is a sex case, Judge."
+2001.00-9285,0,15141,william_h_rehnquist,scotus_justice,678.08,680.624,"Well, isn't... wouldn't that be true in most criminal cases?"
+2001.00-9285,0,40773,robert_j_wagner,,680.624,686.496,--It would be true that the... the attorney should look into the... the background of the victim.
+2001.00-9285,0,15042,david_h_souter,scotus_justice,712.411,725.158,"Well, this may not get us very far so far as a general rule is concerned, but isn't your argument, insofar as this case is concerned, pretty much undercut by the fact, number one... let's take an example."
+2001.00-9285,0,40773,robert_j_wagner,,769.504,777.046,"Well, as to the newspaper issue, Your Honor, under ethical consideration 4-4, it doesn't matter where the information is in the public."
+2001.00-9285,0,15042,david_h_souter,scotus_justice,781.467,782.208,But there's no confidence--
+2001.00-9285,0,15049,antonin_scalia,scotus_justice,782.208,783.835,--It's no longer a secret.
+2001.00-9285,0,40773,robert_j_wagner,,786.0,792.048,"Well, because the ethical considerations in the Virginia Code of Professional Responsibility required Mr. Saunders to do that."
+2001.00-9285,0,15049,antonin_scalia,scotus_justice,792.048,794.779,Require somebody to keep a secret that is something that is no longer a secret?
+2001.00-9285,0,40773,robert_j_wagner,,796.107,802.384,"Well, I don't believe that... that an attorney under those circumstances can pursue anything from the confidences and secrets that he--"
+2001.00-9285,0,15042,david_h_souter,scotus_justice,802.384,802.71,All right.
+2001.00-9285,0,15049,antonin_scalia,scotus_justice,803.515,804.39,--He can pursue it from the newspaper.
+2001.00-9285,0,40773,robert_j_wagner,,809.243,814.16,"--I would simply suggest, Your Honor, that that's contrary to what is... is provided in the Virginia Code of Professional Responsibility."
+2001.00-9285,0,15042,david_h_souter,scotus_justice,814.16,814.438,All right.
+2001.00-9285,0,40773,robert_j_wagner,,818.299,819.579,As far as--
+2001.00-9285,0,15042,david_h_souter,scotus_justice,819.579,820.614,And that gets us to co-counsel.
+2001.00-9285,0,40773,robert_j_wagner,,820.614,821.307,"--Absolutely, Your Honor."
+2001.00-9285,0,15042,david_h_souter,scotus_justice,821.307,825.696,Co-counsel wasn't bound by that because co-counsel hadn't represented the victim.
+2001.00-9285,0,40773,robert_j_wagner,,825.696,826.395,That's right.
+2001.00-9285,0,15042,david_h_souter,scotus_justice,841.264,842.459,One apple spoils the whole barrel?
+2001.00-9285,0,40773,robert_j_wagner,,842.96,843.499,I'm sorry?
+2001.00-9285,0,15042,david_h_souter,scotus_justice,843.499,845.819,"--I mean, one bad apple spoils the whole barrel?"
+2001.00-9285,0,40773,robert_j_wagner,,845.819,846.523,That's what we're suggesting.
+2001.00-9285,0,15141,william_h_rehnquist,scotus_justice,850.747,857.595,"Well, is there... is there anything close to that sort of a showing here, that this... the lawyer was trying to sabbotage the defense?"
+2001.00-9285,0,40773,robert_j_wagner,,857.595,858.262,--No.
+2001.00-9285,0,15141,william_h_rehnquist,scotus_justice,858.262,860.176,Then why... why do you make that statement?
+2001.00-9285,0,40773,robert_j_wagner,,860.176,864.539,"Well, because if a rule of law is to be promulgated in this case, I think that needs to be anticipated."
+2001.00-9285,0,15141,william_h_rehnquist,scotus_justice,864.539,874.454,"Well, but you're saying that if... if a person, say, has a team of six lawyers, if there's one with a conflict of interest, the whole case has to be tried over."
+2001.00-9285,0,40773,robert_j_wagner,,874.454,887.83,"If you can show, under Holloway v. Arkansas, under Cuyler v. Sullivan, under Wood v. Georgia, that there was, in fact, either an actual conflict and adverse effect or in the event where the judge failed to inquire into a conflict that that judge--"
+2001.00-9285,0,15113,anthony_m_kennedy,scotus_justice,887.83,891.152,But I thought you were telling us you don't inquire about an adverse effect.
+2001.00-9285,0,40773,robert_j_wagner,,896.966,897.638,--I may have misspoken.
+2001.00-9285,0,15113,anthony_m_kennedy,scotus_justice,897.638,903.142,--I thought you were arguing to us the proposition that it is wrong to inquire into adverse effect.
+2001.00-9285,0,40773,robert_j_wagner,,908.464,909.691,"That... that's right, but in the--"
+2001.00-9285,0,15113,anthony_m_kennedy,scotus_justice,909.691,915.339,So then... so then your argument whether there's an adverse effect is completely contrary to your own proposition.
+2001.00-9285,0,40773,robert_j_wagner,,915.339,916.448,"--I'm sorry, Your Honor."
+2001.00-9285,0,15141,william_h_rehnquist,scotus_justice,939.552,945.798,"This is the... this is the second time, Mr. Wagner, you've referred to an attorney being there to sabbotage the defendant."
+2001.00-9285,0,40773,robert_j_wagner,,949.52,951.899,"--Well, I'm not saying that it fairly frequently happens."
+2001.00-9285,0,15141,william_h_rehnquist,scotus_justice,951.899,956.171,I would think you would be very careful about making a statement like that.
+2001.00-9285,0,40773,robert_j_wagner,,956.171,957.456,"Absolutely, Your Honor."
+2001.00-9285,0,15141,william_h_rehnquist,scotus_justice,957.456,958.71,Then why did you make it?
+2001.00-9285,0,40773,robert_j_wagner,,958.71,961.067,I made it because I think it's a compelling point.
+2001.00-9285,0,15141,william_h_rehnquist,scotus_justice,962.742,965.36,Why is it a compelling point if it hardly ever happens?
+2001.00-9285,0,40773,robert_j_wagner,,965.36,968.955,"Well, it may very well be in this case that Mr. Saunders was trying to sabbotage."
+2001.00-9285,0,15139,stephen_g_breyer,scotus_justice,986.134,986.811,All right.
+2001.00-9285,0,40773,robert_j_wagner,,990.267,993.408,"--Well, there would be if we had--"
+2001.00-9285,0,15139,stephen_g_breyer,scotus_justice,993.408,993.718,All right.
+2001.00-9285,0,40773,robert_j_wagner,,996.4,997.36,--What... what--
+2001.00-9285,0,15139,stephen_g_breyer,scotus_justice,997.36,999.382,"I mean, use... send it back?"
+2001.00-9285,0,40773,robert_j_wagner,,1001.334,1003.691,"--The district court, in fact, found no prejudice, Your Honor."
+2001.00-9285,0,15084,ruth_bader_ginsburg,scotus_justice,1009.931,1012.075,"--Mr. Wagner, may I stop you there?"
+2001.00-9285,0,40773,robert_j_wagner,,1055.974,1057.771,"--I understand, Your Honor."
+2001.00-9285,0,15084,ruth_bader_ginsburg,scotus_justice,1090.187,1108.23,"But if, on the facts of that case, those two are opposite sides of the same coin... there's no... if you show one, then you inevitably show the other... then how can we extract the words of the decision from the fact background against which Justice Powell was writing?"
+2001.00-9285,0,40773,robert_j_wagner,,1108.23,1112.251,I don't believe that you necessarily show one by showing the other.
+2001.00-9285,0,15084,ruth_bader_ginsburg,scotus_justice,1134.192,1137.723,"Well, you are making a nice statement in the abstract."
+2001.00-9285,0,40773,robert_j_wagner,,1154.486,1155.339,--Yes.
+2001.00-9285,0,15084,ruth_bader_ginsburg,scotus_justice,1166.816,1170.272,I thought the Court found nothing because it raised this question on its own.
+2001.00-9285,0,40773,robert_j_wagner,,1171.808,1172.678,I'm sorry.
+2001.00-9285,0,15084,ruth_bader_ginsburg,scotus_justice,1172.678,1175.211,"And we said you find out about this, lower court."
+2001.00-9285,0,40773,robert_j_wagner,,1197.126,1220.646,"Well, again, I would point to the dispositional paragraph and the very language, the precise language of the case of Wood v. Georgia that said, we... you know, if... if the defendant fails to inquire and if the judge knew or reasonably should have known or if the defendant fails to advise the court of a conflict and if the... the court knew or reasonably should have known of a conflict and failed to inquire, all that needs to be shown is an actual conflict, and didn't mention adverse effect."
+2001.00-9285,0,15042,david_h_souter,scotus_justice,1248.752,1253.27,I take it in any case at this point you're not claiming the benefit of the Holloway rule.
+2001.00-9285,0,40773,robert_j_wagner,,1253.27,1255.206,"Well, we are, Your Honor."
+2001.00-9285,0,15042,david_h_souter,scotus_justice,1255.536,1262.843,"Well, but as I... you correct me if I'm wrong, but I thought if... if you had the benefit of the Holloway rule, you wouldn't have to show even an actual conflict."
+2001.00-9285,0,40773,robert_j_wagner,,1262.843,1265.894,"--That's correct, but... but it is the part--"
+2001.00-9285,0,15042,david_h_souter,scotus_justice,1265.894,1268.747,Are you... are you arguing that we should adopt that rule?
+2001.00-9285,0,40773,robert_j_wagner,,1272.288,1272.566,--No.
+2001.00-9285,0,15042,david_h_souter,scotus_justice,1280.208,1280.555,No.
+2001.00-9285,0,40773,robert_j_wagner,,1330.08,1331.259,"We are not, Your Honor."
+2001.00-9285,0,15042,david_h_souter,scotus_justice,1331.259,1331.483,Okay.
+2001.00-9285,0,40773,robert_j_wagner,,1331.483,1340.39,And the reason we're not is because of the component of Holloway v. Arkansas that deals with the defense attorney's advisement of the court of the conflict and... and the importance that that--
+2001.00-9285,0,15042,david_h_souter,scotus_justice,1340.39,1359.12,"So, you're... you're... maybe I... I misunderstood your position when I was running through the briefs, but you're not taking the position that Holloway's counsel's advice to the court should be equated with the court's kind of obligation under the should have known standard that you argue for here."
+2001.00-9285,0,40773,robert_j_wagner,,1360.704,1363.094,--I'm sorry.
+2001.00-9285,0,15042,david_h_souter,scotus_justice,1363.686,1369.76,"I thought in your original argument you were saying, look, in Holloway defense counsel said, there's a problem, judge."
+2001.00-9285,0,40773,robert_j_wagner,,1379.622,1385.899,"--They're equivalent to a certain extent, but the fact that the defense attorney raised it to the court has a certain significance."
+2001.00-9285,0,15060,john_paul_stevens,scotus_justice,1409.12,1412.374,"But, counsel, I'm a little puzzled at this point too."
+2001.00-9285,0,40773,robert_j_wagner,,1418.379,1419.984,"--Well, I believe--"
+2001.00-9285,0,15060,john_paul_stevens,scotus_justice,1419.984,1426.23,"You're not... you're not arguing that a lawyer could have this relationship and keep it secret for 5 years and then come around and say, now set aside the conviction."
+2001.00-9285,0,40773,robert_j_wagner,,1426.23,1436.171,"--Well, Your Honor, we would say that the adverse effect prong would not be required under the circumstances where the judge knew, but we're not conceding that we can't satisfy the adverse effect prong."
+2001.00-9285,0,15060,john_paul_stevens,scotus_justice,1437.12,1443.382,"Well, but we're taking the case on the assumption there's been a hearing and there's been evidence that established an absence of adverse effect."
+2001.00-9285,0,40773,robert_j_wagner,,1445.798,1446.934,That... that's what the district court found.
+2001.00-9285,0,15060,john_paul_stevens,scotus_justice,1446.934,1459.622,"So, I thought the key to your case was the fact that the judge had a duty, when advised or on notice of a potential conflict of interest, of making an inquiry as to find out whether in fact there was such a conflict."
+2001.00-9285,0,40773,robert_j_wagner,,1461.264,1462.358,That... that is the focus of our case.
+2001.00-9285,0,15049,antonin_scalia,scotus_justice,1462.358,1466.4,"Is that... is that your... see, I don't... you... you haven't put it that way."
+2001.00-9285,0,40773,robert_j_wagner,,1484.534,1488.022,"Well, in Cuyler v. Sullivan, it talks to a particular conflict."
+2001.00-9285,0,15049,antonin_scalia,scotus_justice,1488.022,1488.208,No.
+2001.00-9285,0,40773,robert_j_wagner,,1490.267,1490.848,My position is--
+2001.00-9285,0,15060,john_paul_stevens,scotus_justice,1490.848,1492.235,--you look at the question presented--
+2001.00-9285,0,15049,antonin_scalia,scotus_justice,1492.235,1492.896,--No.
+2001.00-9285,0,40773,robert_j_wagner,,1492.896,1494.672,--Knew or should have known of a conflict.
+2001.00-9285,0,15060,john_paul_stevens,scotus_justice,1494.672,1497.291,That's not your question presented by your blue brief.
+2001.00-9285,0,40773,robert_j_wagner,,1501.814,1511.595,"Well, I don't mean to change my position, Your Honor, but a potential conflict in the context of where we have it in the brief would... would essentially equal a particular conflict."
+2001.00-9285,0,15049,antonin_scalia,scotus_justice,1512.486,1514.054,"Well, but... a very different question."
+2001.00-9285,0,40773,robert_j_wagner,,1531.894,1532.512,"--That's true, Your Honor."
+2001.00-9285,0,15049,antonin_scalia,scotus_justice,1535.27,1537.344,"Well, how potential does potential have to be then?"
+2001.00-9285,0,40773,robert_j_wagner,,1537.344,1541.286,"--Potential has to be, as Cuyler describes, a particular conflict."
+2001.00-9285,0,15049,antonin_scalia,scotus_justice,1550.496,1550.694,"No, no."
+2001.00-9285,0,40773,robert_j_wagner,,1551.696,1553.392,That may be conflicting.
+2001.00-9285,0,15049,antonin_scalia,scotus_justice,1567.27,1567.718,20 years ago.
+2001.00-9285,0,40773,robert_j_wagner,,1568.619,1574.224,"--In that case, it's very difficult to... to imagine how the judge would have known of that conflict."
+2001.00-9285,0,15049,antonin_scalia,scotus_justice,1574.518,1575.184,But he knew about it.
+2001.00-9285,0,40773,robert_j_wagner,,1575.184,1585.035,"--If he knew about it, then... then I would suggest that that judge should at least inquire, just take the very... the very reasonable measure, the very simple measure of inquiring into the conflict."
+2001.00-9285,0,15141,william_h_rehnquist,scotus_justice,1594.598,1595.398,"Very well, Mr. Wagner."
+2001.00-9285,1,39532,robert_q_harris,,1597.339,1611.408,"Mr. Chief Justice, may it please the Court: The Fourth Circuit correctly required a showing of adverse effect for Mickens to establish a conflict of interest claim."
+2001.00-9285,1,15060,john_paul_stevens,scotus_justice,1637.52,1639.307,"Well, Holloway doesn't stand for that proposition, does it?"
+2001.00-9285,1,39532,robert_q_harris,,1642.294,1645.846,"Well, Sullivan explicitly--"
+2001.00-9285,1,15060,john_paul_stevens,scotus_justice,1645.846,1646.699,I'm asking you about Holloway.
+2001.00-9285,1,39532,robert_q_harris,,1646.699,1649.782,"--Well, Sullivan explicitly carves out Holloway."
+2001.00-9285,1,15060,john_paul_stevens,scotus_justice,1649.782,1652.198,Do you think Holloway is good law or not?
+2001.00-9285,1,39532,robert_q_harris,,1652.198,1654.811,Holloway is... is not been overruled.
+2001.00-9285,1,15060,john_paul_stevens,scotus_justice,1655.744,1658.624,"Well, that didn't require any showing of adverse effect."
+2001.00-9285,1,39532,robert_q_harris,,1658.624,1675.232,"What the Court said in Holloway is that relying on the representations of counsel that there was a conflict of interest and that he would be unable to examine his multiple clients, the failure to inquire into that was itself error."
+2001.00-9285,1,15060,john_paul_stevens,scotus_justice,1706.982,1708.331,May I ask you this question?
+2001.00-9285,1,39532,robert_q_harris,,1716.646,1723.867,"--The district court found that he should have... under the rules of ethics, he should have advised his client of the fact that he had previously represented Tim Hall."
+2001.00-9285,1,15060,john_paul_stevens,scotus_justice,1723.867,1736.678,"And then the next question I have is do you think... again, not necessarily a matter of constitutional law, but that it would have been good practice for the judge to inquire of the lawyer whether he thought there had been any... any difficulty in the representation?"
+2001.00-9285,1,39532,robert_q_harris,,1736.678,1743.488,"I... I certainly agree that it would have been good practice both for defense counsel and for trial... the trial... well, in this case it wasn't a trial court."
+2001.00-9285,1,15084,ruth_bader_ginsburg,scotus_justice,1759.211,1783.638,"Would you say it was unethical for the lawyer not to have revealed to the court and his client not what is the better practice, but that it was, in fact, a violation of the ethical constraints for the lawyer, knowing that he had represented the victim, not to tell his client so his client could make the choice whether to keep the lawyer or not?"
+2001.00-9285,1,39532,robert_q_harris,,1783.638,1788.512,I cannot make the final call on whether it was ethical or not.
+2001.00-9285,1,15042,david_h_souter,scotus_justice,1819.851,1820.71,In other words--
+2001.00-9285,1,15084,ruth_bader_ginsburg,scotus_justice,1820.71,1823.136,--And I wasn't... I wasn't asking you any question about the Constitution.
+2001.00-9285,1,39532,robert_q_harris,,1826.166,1826.614,I--
+2001.00-9285,1,15084,ruth_bader_ginsburg,scotus_justice,1826.614,1830.806,Does the lawyer have a duty to advise the client of a potential conflict?
+2001.00-9285,1,39532,robert_q_harris,,1830.806,1841.27,"--There is a general duty of counsel to advise his client of any circumstances which the client would want to know, as far as matters that may affect the loyalty of counsel to client."
+2001.00-9285,1,15060,john_paul_stevens,scotus_justice,1849.344,1854.134,May I ask... take it one step further and turn away from the ethics to the Constitution?
+2001.00-9285,1,39532,robert_q_harris,,1870.854,1876.384,"Well, the... I think Holloway I think doesn't make a distinction between the defendant himself or his client."
+2001.00-9285,1,15060,john_paul_stevens,scotus_justice,1881.169,1881.398,No.
+2001.00-9285,1,39532,robert_q_harris,,1895.473,1896.289,No.
+2001.00-9285,1,15049,antonin_scalia,scotus_justice,1913.148,1915.42,What... what if the lawyer says that?
+2001.00-9285,1,39532,robert_q_harris,,1926.561,1927.212,I understand.
+2001.00-9285,1,15049,antonin_scalia,scotus_justice,1927.212,1929.142,"--Justice Stevens, only it's... it's counsel who--"
+2001.00-9285,1,39532,robert_q_harris,,1929.142,1931.516,And the answer is... is essentially the same as well.
+2001.00-9285,1,15113,anthony_m_kennedy,scotus_justice,1953.11,1955.558,"--Well, except in Holloway exactly that happened."
+2001.00-9285,1,39532,robert_q_harris,,1960.79,1961.222,"Well, that's--"
+2001.00-9285,1,15113,anthony_m_kennedy,scotus_justice,1961.222,1967.105,And... and this Court reversed.
+2001.00-9285,1,39532,robert_q_harris,,1987.964,1990.338,--I think that is exactly what Holloway gets to.
+2001.00-9285,1,15113,anthony_m_kennedy,scotus_justice,2000.402,2015.015,"Going back to the earlier questions about the counsel's ethical duty, as you understand it, quite apart from the Constitution, is there a duty of loyalty to the former client or just a duty of maintaining confidentiality?"
+2001.00-9285,1,39532,robert_q_harris,,2015.015,2028.615,"After the close of the representation of a former client, I... I believe that the general duty of loyalty devolves down to that duty of maintaining the confidences of your former client."
+2001.00-9285,1,15139,stephen_g_breyer,scotus_justice,2048.487,2059.031,"The trouble I'm having with the standard is not whether the judge happens to know he should have looked in or shouldn't have looked into it, which were unusual circumstances."
+2001.00-9285,1,39532,robert_q_harris,,2070.103,2071.505,I believe that is--
+2001.00-9285,1,15139,stephen_g_breyer,scotus_justice,2071.505,2073.447,Did the client get effective assistance or not?
+2001.00-9285,1,39532,robert_q_harris,,2073.447,2074.444,--I believe it is.
+2001.00-9285,1,15139,stephen_g_breyer,scotus_justice,2074.444,2084.987,"Now, the difficulty comes up because the lawyer doesn't normally tell him, just like any other ineffective case, and now the judge has to decide what is and what is not ineffective assistance."
+2001.00-9285,1,39532,robert_q_harris,,2110.354,2112.946,"Well, again, Sullivan addresses the very concern."
+2001.00-9285,1,15139,stephen_g_breyer,scotus_justice,2123.687,2132.22,"And what is that... so, that's... it's exactly at the time you say the words actual conflict, that I think have gotten me mixed up in these cases."
+2001.00-9285,1,39532,robert_q_harris,,2132.22,2132.866,"--Well, of course--"
+2001.00-9285,1,15139,stephen_g_breyer,scotus_justice,2132.866,2134.903,"And sometimes they mean one thing, sometimes another."
+2001.00-9285,1,39532,robert_q_harris,,2134.903,2138.146,"--Well, I don't think there's any inconsistency in this Court's cases on--"
+2001.00-9285,1,15139,stephen_g_breyer,scotus_justice,2138.146,2138.647,"No, maybe not."
+2001.00-9285,1,39532,robert_q_harris,,2152.855,2165.09,"--Well, I would take us back to Sullivan because what Sullivan was doing was identifying what the lower courts had already been doing prior to the time of its decision, which was finding something called an actual conflict."
+2001.00-9285,1,15049,antonin_scalia,scotus_justice,2184.29,2186.887,This is what confuses me about this discussion.
+2001.00-9285,1,39532,robert_q_harris,,2206.386,2207.666,"--No, and that's not what I'm arguing."
+2001.00-9285,1,15049,antonin_scalia,scotus_justice,2207.666,2216.247,"I understood it to be the law that no matter how actual and apparent the conflict is, if it had not effect on the trial, there's no foul."
+2001.00-9285,1,39532,robert_q_harris,,2216.247,2224.215,I would argue that it is the adverse effect that makes a potential conflict actual.
+2001.00-9285,1,15049,antonin_scalia,scotus_justice,2224.215,2226.327,Then how do you explain Holloway?
+2001.00-9285,1,39532,robert_q_harris,,2226.327,2236.044,Holloway I think can easily be explained as the... the adverse effect and actual impairment of defense counsel's ability to conduct the representation--
+2001.00-9285,1,15049,antonin_scalia,scotus_justice,2236.044,2236.69,But that... all--
+2001.00-9285,1,39532,robert_q_harris,,2236.69,2238.092,--was provided by his own statement.
+2001.00-9285,1,15049,antonin_scalia,scotus_justice,2238.092,2242.092,--I think all you can say for sure in Holloway was that there was an actual conflict.
+2001.00-9285,1,39532,robert_q_harris,,2247.98,2253.868,"Again, what Sullivan said about Holloway was that Holloway did not find an actual conflict."
+2001.00-9285,1,15042,david_h_souter,scotus_justice,2255.436,2259.676,"Well, there was no finding in the sense that the Court made a formal finding."
+2001.00-9285,1,39532,robert_q_harris,,2282.252,2283.02,"Well, perhaps--"
+2001.00-9285,1,15049,antonin_scalia,scotus_justice,2283.02,2285.415,The conflict is so obvious or the prejudice is so obvious?
+2001.00-9285,1,15042,david_h_souter,scotus_justice,2285.415,2292.071,"Well, the conflict is... is so obvious because it seems to me... and this was going to get to my next... my... my question to you."
+2001.00-9285,1,39532,robert_q_harris,,2368.492,2372.834,"--I substantially agree with that, with the following caveat."
+2001.00-9285,1,15141,william_h_rehnquist,scotus_justice,2399.442,2401.367,"Well, isn't that what Holloway is talking about?"
+2001.00-9285,1,39532,robert_q_harris,,2416.252,2435.074,"--Well, we are giving a great deal of weight to trial counsel's ability to know because he is the only person that has the access to the confidences of multiple clients who will know for certain, or at least with a high degree of certainty, that there is going to be a conflict and that it will affect the representations of the various clients."
+2001.00-9285,1,15042,david_h_souter,scotus_justice,2450.487,2476.658,"If we want... you know, I realize that, but if... if we want to keep the trial judges on their toes... and having been a trial judge, I can tell you that inducements do matter... doesn't it make sense to treat the... the knowledge that the appointing judge has, in a case like this, as being the equivalent of the... of the objection by counsel?"
+2001.00-9285,1,39532,robert_q_harris,,2476.658,2476.988,No.
+2001.00-9285,1,15042,david_h_souter,scotus_justice,2476.988,2478.418,Why... why not equate them?
+2001.00-9285,1,39532,robert_q_harris,,2478.418,2489.991,I think it is... it is fair to say that the trial judge's notice of facts that would cause him to... to perceive a... the language that the Court used was a particular conflict.
+2001.00-9285,1,15042,david_h_souter,scotus_justice,2504.956,2505.26,Okay.
+2001.00-9285,1,39532,robert_q_harris,,2533.127,2534.37,"Well, that is--"
+2001.00-9285,1,15042,david_h_souter,scotus_justice,2534.37,2541.618,On your... on your rule we proceed under the same standards whether or not the trial judge should have known.
+2001.00-9285,1,39532,robert_q_harris,,2543.074,2543.57,--It is not so much my rule.
+2001.00-9285,1,15042,david_h_souter,scotus_justice,2545.308,2555.927,"No, but I mean, regardless of who it belongs to, on the... on the argument that you are making, the... the standards are exactly the same whether the judge should have known or should... need not necessarily--"
+2001.00-9285,1,39532,robert_q_harris,,2555.927,2557.09,As far as ultimately finding--
+2001.00-9285,1,15049,antonin_scalia,scotus_justice,2557.09,2558.423,--But... but the world changes.
+2001.00-9285,1,39532,robert_q_harris,,2563.116,2564.279,--That... that is correct.
+2001.00-9285,1,15049,antonin_scalia,scotus_justice,2564.279,2570.668,"Now, it may mean it may well be that if they don't, nothing happens afterwards, but usually they'll do what we suggest."
+2001.00-9285,1,39532,robert_q_harris,,2571.031,2576.674,"Well, it... it is true that the State judges and Federal judges... lower Federal judges all are sworn to uphold the same Constitution."
+2001.00-9285,1,15042,david_h_souter,scotus_justice,2576.674,2577.82,"It didn't seem to happen here, though, did it?"
+2001.00-9285,1,15060,john_paul_stevens,scotus_justice,2577.82,2588.508,"May I suggest that the... the problem is not the bright line distinction between potential conflict and actual conflict, but rather the serious... the potentially serious character of the conflict."
+2001.00-9285,1,39532,robert_q_harris,,2611.314,2623.063,"I would say to the extent that you make the two relationships, the between representations more connected... and you can certainly do that by virtue of a personal relationship... you inch your way along--"
+2001.00-9285,1,15060,john_paul_stevens,scotus_justice,2623.063,2625.644,It was more likely to be prejudicial would be the point.
+2001.00-9285,1,39532,robert_q_harris,,2638.812,2646.37,--I... I certainly agree that the judge's duty of inquiry is... is presented at a much lesser level than actual prejudice to the defendant.
+2001.00-9285,1,15042,david_h_souter,scotus_justice,2648.604,2648.956,Okay.
+2001.00-9285,1,39532,robert_q_harris,,2658.124,2659.82,"--No, and for a very simple reason."
+2001.00-9285,1,15084,ruth_bader_ginsburg,scotus_justice,2687.847,2691.244,"Why does it... from the defendant's vantage point, why should it make a difference?"
+2001.00-9285,1,39532,robert_q_harris,,2731.308,2753.714,"--Again, that is included within the notion that we have one Sixth Amendment standard for conflicts of interest regardless of whether or not the trial judge was on notice of some facts that could have prompted the inquiry, that we will go beyond that standard in the circumstances such as Holloway where the attorney himself has made it an essential fact of the case that he has identified a conflict and impairment in his case."
+2001.00-9285,1,15084,ruth_bader_ginsburg,scotus_justice,2778.764,2783.042,And what is... what is the test for determining whether there was an impairment?
+2001.00-9285,1,39532,robert_q_harris,,2787.431,2787.756,--No.
+2001.00-9285,1,15084,ruth_bader_ginsburg,scotus_justice,2787.756,2788.46,--or might not have gotten the death penalty.
+2001.00-9285,1,39532,robert_q_harris,,2788.46,2788.882,No.
+2001.00-9285,1,15084,ruth_bader_ginsburg,scotus_justice,2789.207,2790.567,"So, what is... what is the nature of the impairment?"
+2001.00-9285,1,39532,robert_q_harris,,2790.567,2795.335,"--Well, the Court is using the adverse effect to... as a... as a lesser showing of prejudice."
+2001.00-9285,1,15141,william_h_rehnquist,scotus_justice,2810.316,2811.954,"Thank... thank you, Mr. Harris."
+2001.00-9285,2,28554,irving_l_gornstein,,2814.082,2839.356,"Mr. Chief Justice, and may it please the Court: When a district court has reason to know about a potential conflict and fails to initiate inquiry, the Sixth Amendment is violated only when there is a showing of an actual conflict and an adverse effect on the quality of performance."
+2001.00-9285,2,15060,john_paul_stevens,scotus_justice,2863.079,2864.332,"I must interrupt you here, though."
+2001.00-9285,2,28554,irving_l_gornstein,,2868.967,2869.319,--It is not.
+2001.00-9285,2,15060,john_paul_stevens,scotus_justice,2893.746,2896.263,"Well, let me just push that all the way."
+2001.00-9285,2,28554,irving_l_gornstein,,2907.468,2913.527,"--In... in Holloway, if there's no inquiry conducted by the judge, there's automatic reversal."
+2001.00-9285,2,15060,john_paul_stevens,scotus_justice,2913.527,2915.895,The question here is when does the judge have a duty of inquiry.
+2001.00-9285,2,28554,irving_l_gornstein,,2915.895,2916.69,The judge--
+2001.00-9285,2,15060,john_paul_stevens,scotus_justice,2916.69,2920.834,Are you saying he never has a duty of inquiry unless there's going to be actual prejudice?
+2001.00-9285,2,28554,irving_l_gornstein,,2920.834,2921.911,--No.
+2001.00-9285,2,15060,john_paul_stevens,scotus_justice,2933.004,2933.234,All right.
+2001.00-9285,2,28554,irving_l_gornstein,,2942.012,2959.362,"There's a duty of inquiry, but if the duty is not fulfilled and a trial is held and a... there's a conviction and the defendant is seeking to overturn his conviction, at that point the defendant still must show an actual conflict and an adverse effect on the quality of his representation."
+2001.00-9285,2,15113,anthony_m_kennedy,scotus_justice,2959.362,2966.13,We've been trying to find a way to distinguish Holloway from this case.
+2001.00-9285,2,28554,irving_l_gornstein,,2989.613,2991.192,I would say that there would--
+2001.00-9285,2,15113,anthony_m_kennedy,scotus_justice,2991.192,2993.197,--How would... how would you have us deal with Holloway?
+2001.00-9285,2,28554,irving_l_gornstein,,2993.197,3000.296,--I would say that Holloway is a special case where prejudice was presumed conclusively based on two factors.
+2001.00-9285,2,15113,anthony_m_kennedy,scotus_justice,3048.248,3054.029,"Does Wood stand for a similar proposition, or is Wood different?"
+2001.00-9285,2,28554,irving_l_gornstein,,3054.029,3064.083,"Now, Wood is a situation where the Sullivan rule was applied in a case in which there was reason to know a clear possibility of an actual conflict."
+2001.00-9285,2,15113,anthony_m_kennedy,scotus_justice,3087.363,3089.165,Are you saying Wood is an effect case.
+2001.00-9285,2,28554,irving_l_gornstein,,3089.165,3092.456,It is both an actual conflict and effect.
+2001.00-9285,2,15060,john_paul_stevens,scotus_justice,3095.709,3107.757,"So, you're saying in this case if the lawyer had said to the judge, my client doesn't trust me because I... I represented the decedent and he won't be candid with me, then the judge would have had a duty to discharge counsel."
+2001.00-9285,2,28554,irving_l_gornstein,,3107.757,3111.912,--I'm not saying that they... he would have had a duty to discharge counsel.
+2001.00-9285,2,15060,john_paul_stevens,scotus_justice,3112.744,3114.584,Why would that case have been different from Holloway?
+2001.00-9285,2,28554,irving_l_gornstein,,3114.584,3120.936,"--He can... first of all, Holloway is a situation where the lawyer himself is representing that he cannot adequately represent--"
+2001.00-9285,2,15060,john_paul_stevens,scotus_justice,3120.936,3121.219,Correct.
+2001.00-9285,2,28554,irving_l_gornstein,,3123.085,3130.936,"--Well, if he represents that he cannot adequately represent the... the defendant, and then the district court has to conduct an inquiry."
+2001.00-9285,2,15139,stephen_g_breyer,scotus_justice,3145.203,3147.309,No matter how severe the conflict.
+2001.00-9285,2,28554,irving_l_gornstein,,3159.037,3165.827,"After a trial has been held and the defendant is seeking to overturn his conviction, that's correct."
+2001.00-9285,2,15139,stephen_g_breyer,scotus_justice,3165.827,3167.187,"Well, Strickland doesn't say that."
+2001.00-9285,2,28554,irving_l_gornstein,,3173.405,3174.941,"Yes, but Strickland goes on--"
+2001.00-9285,2,15139,stephen_g_breyer,scotus_justice,3174.941,3176.328,Should we change Strickland?
+2001.00-9285,2,28554,irving_l_gornstein,,3176.328,3177.032,--No.
+2001.00-9285,2,15113,anthony_m_kennedy,scotus_justice,3210.696,3219.331,"Suppose the victim were the fiance of the lawyer's niece and the lawyer was very close to the niece, and he says, I can't do this, judge."
+2001.00-9285,2,28554,irving_l_gornstein,,3220.84,3233.869,"Well, then you have a Holloway situation if the... if the defendant... defense counsel is representing that he's operating under a disabling conflict and the judge doesn't conduct an inquiry, then there's automatic reversal at that point."
+2001.00-9285,2,15139,stephen_g_breyer,scotus_justice,3235.261,3243.565,"In the worst case, when the lawyer says nothing, you end up not getting rid of him... I mean, or not... assuming prejudice--"
+2001.00-9285,2,28554,irving_l_gornstein,,3243.565,3244.189,"Well, there's a... there's a--"
+2001.00-9285,2,15139,stephen_g_breyer,scotus_justice,3244.189,3249.587,"--But in the case where he's more honest about it and comes straightforward, then you're going to presume the prejudice."
+2001.00-9285,2,28554,irving_l_gornstein,,3249.587,3273.747,"--But that's because of the reasons for Holloway have to do with the deferring to the contemporaneous representation of a counsel that he is operating under a disabling conflict and that is given deference, together with the fact that when somebody is ordered to... to provide representation over his objection, that a certain amount of prejudice inheres in that."
+2001.00-9285,2,15060,john_paul_stevens,scotus_justice,3290.563,3301.064,"Of course, the irony of the rule is that it gives greater protection when the lawyer is... conceals... unethically conceals a known conflict than when he's candid with the court."
+2001.00-9285,2,28554,irving_l_gornstein,,3301.064,3302.525,--There's a certain amount--
+2001.00-9285,2,15060,john_paul_stevens,scotus_justice,3302.525,3314.136,"And the argument... that's the argument here, that in order to get the higher rate of... of fees for representing a defendant in a capital case, he didn't want it to be known that... that he represented... you know, had this prior--"
+2001.00-9285,2,28554,irving_l_gornstein,,3314.136,3317.053,"--That... that was the argument, but the district court found against the--"
+2001.00-9285,2,15060,john_paul_stevens,scotus_justice,3317.053,3317.997,--I understand that.
+2001.00-9285,2,28554,irving_l_gornstein,,3317.997,3320.669,--against the defendant on both of those points.
+2001.00-9285,2,15141,william_h_rehnquist,scotus_justice,3343.592,3345.181,"Thank you, Mr. Gornstein."
+2001.00-9285,3,40773,robert_j_wagner,,3348.387,3350.931,"Thank you, Your Honor."
+2001.00-9285,3,15141,william_h_rehnquist,scotus_justice,3432.467,3434.041,"Thank you, Mr. Wagner."

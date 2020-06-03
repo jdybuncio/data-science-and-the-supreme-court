@@ -1,0 +1,102 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1988.87-5677,0,15141,william_h_rehnquist,scotus_justice,0.0,9.522,"We'll hear argument next in No. 87-5677, Warren Lee Harris v. Marvin Reed."
+1988.87-5677,0,33758,kimball_r_anderson,,61.539,66.025,"Mr. Chief Justice, and may it please the Court."
+1988.87-5677,0,15141,william_h_rehnquist,scotus_justice,109.535,111.301,Mr. Anderson--
+1988.87-5677,0,33758,kimball_r_anderson,,128.58,137.935,"Well, this Court has said on several occasions that merely noting a procedural default is not the same as actually relying on the procedural default."
+1988.87-5677,0,15141,william_h_rehnquist,scotus_justice,148.843,153.445,"And that is your view, as to how this ought to be handled too?"
+1988.87-5677,0,33758,kimball_r_anderson,,153.445,154.314,Yes.
+1988.87-5677,0,15141,william_h_rehnquist,scotus_justice,172.108,179.095,"So in order to rely on procedural default, the state court opinion must say nothing about the merits of the question?"
+1988.87-5677,0,33758,kimball_r_anderson,,179.095,180.112,"--Oh, no."
+1988.87-5677,0,15141,william_h_rehnquist,scotus_justice,198.859,199.343,Alone.
+1988.87-5677,0,33758,kimball_r_anderson,,201.295,202.028,"--No, not necessarily alone."
+1988.87-5677,0,15071,byron_r_white,scotus_justice,211.15,212.266,--Okay.
+1988.87-5677,0,33758,kimball_r_anderson,,219.756,220.939,"That's correct, Your Honor."
+1988.87-5677,0,15071,byron_r_white,scotus_justice,222.508,222.791,Then what?
+1988.87-5677,0,33758,kimball_r_anderson,,222.791,226.826,"--Well, that's the circumstances that arises occasionally where you have alternative reliance."
+1988.87-5677,0,15071,byron_r_white,scotus_justice,226.826,230.647,"Well, there's no question if they say they are relying on the procedural default."
+1988.87-5677,0,33758,kimball_r_anderson,,230.647,238.301,"And in that instance, habeas... the Sykes test would apply, habeas review would be foreclosed absent cause and prejudice."
+1988.87-5677,0,15071,byron_r_white,scotus_justice,238.301,240.253,"That isn't quite Michigan v. Long, is it?"
+1988.87-5677,0,33758,kimball_r_anderson,,240.253,245.205,"Well, Michigan v. Long, of course, is a direct review case, Your Honor."
+1988.87-5677,0,15071,byron_r_white,scotus_justice,246.324,246.64,I know.
+1988.87-5677,0,33758,kimball_r_anderson,,249.109,253.577,"--That is the rule in Michigan v. Long, Your Honor, as I understand it."
+1988.87-5677,0,15141,william_h_rehnquist,scotus_justice,274.557,287.484,"You mean Caldwell would obtain reversal for you here, because the Illinois Appellate Court did not say anything about procedural default in its opinion?"
+1988.87-5677,0,33758,kimball_r_anderson,,287.484,298.458,"It noted the procedural default, but instead of invoking the default and finding the issue waived, Your Honor, the Court went on to address the merits of Mr. Harris' ineffective assistance of counsel claim."
+1988.87-5677,0,15141,william_h_rehnquist,scotus_justice,298.458,302.41,"Well, how does a court invoke the procedural default in its opinion?"
+1988.87-5677,0,33758,kimball_r_anderson,,302.41,320.788,"Well, any number of ways, but I suggest that the same rules that would govern in Michigan v. Long would govern here, and there the Court has, has said that a simple statement that the Court finds a matter waived or barred because of procedural default would suffice."
+1988.87-5677,0,15071,byron_r_white,scotus_justice,346.189,358.413,"And you say that it ought to be the plain statement by the appellate court, the federal court shouldn't try to imagine whether they relied on it or not?"
+1988.87-5677,0,33758,kimball_r_anderson,,361.532,362.482,I'm sorry?
+1988.87-5677,0,15071,byron_r_white,scotus_justice,362.482,363.565,--[inaudible] the opinion of the appellate court?
+1988.87-5677,0,33758,kimball_r_anderson,,363.565,368.018,"Precisely Your Honor, and for all of the good reasons that were articulated in Michigan v. Long."
+1988.87-5677,0,15049,antonin_scalia,scotus_justice,378.66,389.949,"It makes a lot of sense where you have a written appellate court decision, but what do you do, I mean, a lot of state appellate courts that, that have mandatory appeals don't write full opinions."
+1988.87-5677,0,33758,kimball_r_anderson,,391.551,392.368,--Yes.
+1988.87-5677,1,40488,robert_v_shuff_jr,,1560.859,1572.0,"Mr. Chief Justice, and may it please the Court."
+1988.87-5677,1,15071,byron_r_white,scotus_justice,1640.061,1641.861,"It also would save the Federal courts from some work, I suppose?"
+1988.87-5677,1,40488,robert_v_shuff_jr,,1641.861,1642.377,--Yes.
+1988.87-5677,1,15071,byron_r_white,scotus_justice,1646.048,1653.385,"From going through a useless procedure, which because it may be it goes back to the State Court and they decide it on the State grounds."
+1988.87-5677,1,40488,robert_v_shuff_jr,,1653.385,1656.487,"Your Honor, they could decide it on the State grounds."
+1988.87-5677,1,15060,john_paul_stevens,scotus_justice,1671.831,1662.525,I don't understand that.
+1988.87-5677,1,40488,robert_v_shuff_jr,,1672.366,1673.299,"--Well, it would not."
+1988.87-5677,1,15060,john_paul_stevens,scotus_justice,1673.299,1674.066,It would not?
+1988.87-5677,1,40488,robert_v_shuff_jr,,1674.466,1675.668,But if the--
+1988.87-5677,1,15071,byron_r_white,scotus_justice,1675.668,1680.686,"But if there's ambiguity, you say you should assume that it's a State ground."
+1988.87-5677,1,40488,robert_v_shuff_jr,,1680.686,1681.304,--That's correct.
+1988.87-5677,1,15071,byron_r_white,scotus_justice,1686.506,1688.708,So you never... you never decide the Federal claim?
+1988.87-5677,1,40488,robert_v_shuff_jr,,1688.708,1689.592,--That's correct.
+1988.87-5677,1,15049,antonin_scalia,scotus_justice,1755.603,1774.064,"Mr. Shuff, I'm... I happen to think that the silliest thing to spend a lot of time litigating about, and for judges to have to spend a lot of time inquiring into, is, is whether they have jurisdiction, that the jurisdictional issues ought to be clear."
+1988.87-5677,1,40488,robert_v_shuff_jr,,1800.548,1804.6,"Well, I would submit that it would be ambiguous if it didn't say"
+1988.87-5677,1,15049,antonin_scalia,scotus_justice,1807.201,1815.807,"I don't have anything except a court of appeals, a state court of appeals order that says: affirmed."
+1988.87-5677,1,40488,robert_v_shuff_jr,,1817.343,1830.084,"In that instance, Your Honor, we would suggest that the Court assume that the State followed its rules and if the state followed its rules and procedural default was argued, that it would be a matter of procedural default, and habeas would not lie."
+1988.87-5677,1,15049,antonin_scalia,scotus_justice,1830.084,1832.769,"Well, I'd have to look to see whether procedural default was argued?"
+1988.87-5677,1,40488,robert_v_shuff_jr,,1833.603,1836.721,"Under that circumstances, you might have to make that second inquiry."
+1988.87-5677,1,15049,antonin_scalia,scotus_justice,1836.721,1841.392,"And I'd also have to make a ruling on whether the argument was a right one, I suppose."
+1988.87-5677,1,40488,robert_v_shuff_jr,,1846.41,1847.528,"In some instances, yes."
+1988.87-5677,1,15049,antonin_scalia,scotus_justice,1847.528,1850.23,I don't--
+1988.87-5677,1,40488,robert_v_shuff_jr,,1850.23,1853.016,"In that instance, when it's just ""appeal denied"",--"
+1988.87-5677,1,15049,antonin_scalia,scotus_justice,1853.016,1853.982,--That's going to be a very common instance.
+1988.87-5677,1,40488,robert_v_shuff_jr,,1856.134,1857.501,--Well--
+1988.87-5677,1,15049,antonin_scalia,scotus_justice,1857.501,1859.67,I just don't consider that a very clear line.
+1988.87-5677,1,40488,robert_v_shuff_jr,,1872.994,1883.452,"--Well, it is not a, a useless exercise when you look to some of the ideas such as comity and what the burden is in the habeas on the States."
+1988.87-5677,1,15141,william_h_rehnquist,scotus_justice,1912.221,1917.792,"What, as a practical matter, is the burden to the states of the rule that the Petitioner proposes?"
+1988.87-5677,1,40488,robert_v_shuff_jr,,1917.792,1920.744,"Well, the burden to the State is one that is systemic."
+1988.87-5677,1,15049,antonin_scalia,scotus_justice,1978.663,1980.263,Big deal.
+1988.87-5677,1,40488,robert_v_shuff_jr,,1998.608,1999.858,"--Well, I believe that is the--"
+1988.87-5677,1,15049,antonin_scalia,scotus_justice,1999.858,2001.643,"It's quick and easy, no trouble for everybody."
+1988.87-5677,1,40488,robert_v_shuff_jr,,2001.643,2012.998,"--I believe that is a simple rule, but I don't believe that it serves the interest of comity or Federalism or the finality rules or the main event of trial or any other interests that you have been trying to address."
+1988.87-5677,1,15049,antonin_scalia,scotus_justice,2012.998,2021.271,"Instead of that, you want to have the Federal judges enter into this, this inquiry, for no useful Federal purpose at all, into what the State law of procedural default is."
+1988.87-5677,1,40488,robert_v_shuff_jr,,2021.271,2030.627,"Well, to begin with, to start with the presumption that we followed our rules, and to give our Courts the respect of a co-existing jurisdiction to say that we believe that you followed your rules."
+1988.87-5677,1,15049,antonin_scalia,scotus_justice,2032.162,2037.566,"Why can't they give us some respect, and just, some respect, and just say procedural default when that, when that's what they're relying on?"
+1988.87-5677,1,40488,robert_v_shuff_jr,,2037.566,2039.016,"--That would be ideal if they would all do that, Your Honor."
+1988.87-5677,1,15049,antonin_scalia,scotus_justice,2039.016,2040.435,You see?
+1988.87-5677,1,40488,robert_v_shuff_jr,,2054.841,2056.776,"No, not in Illinois."
+1988.87-5677,1,15141,william_h_rehnquist,scotus_justice,2067.168,2075.588,"Is there anything that concerns you from the point of your representing the State by your opponent's rule, other than the fact that the Court would have to say,"
+1988.87-5677,1,40488,robert_v_shuff_jr,,2084.88,2091.366,"Yes, there is a classic case that I think would mitigate against that, and that's the classic case--"
+1988.87-5677,1,15141,william_h_rehnquist,scotus_justice,2091.366,2091.883,Nullicate against it.
+1988.87-5677,1,40488,robert_v_shuff_jr,,2091.883,2092.5,--I'm sorry.
+1988.87-5677,1,15141,william_h_rehnquist,scotus_justice,2092.5,2093.0,Yes.
+1988.87-5677,1,40488,robert_v_shuff_jr,,2093.0,2119.198,"That's a class where you have a procedural default and you're talking of possibly of something like incompetency of counsel or misconduct of the judiciary, because when you take those through the Illinois system, you're going to go up two different lines: either on direct appeal, where you talk about a plain error, or a, a post conviction proceeding where you're talking about a fundamental fairness."
+1988.87-5677,1,15141,william_h_rehnquist,scotus_justice,2133.125,2134.492,If what court were to throw the--
+1988.87-5677,1,40488,robert_v_shuff_jr,,2134.492,2135.026,The Federal court.
+1988.87-5677,1,15141,william_h_rehnquist,scotus_justice,2138.611,2141.813,--I don't... perhaps I don't understand enough about Illinois law.
+1988.87-5677,1,40488,robert_v_shuff_jr,,2148.3,2148.75,Yes.
+1988.87-5677,1,15141,william_h_rehnquist,scotus_justice,2148.75,2150.916,And--
+1988.87-5677,1,40488,robert_v_shuff_jr,,2150.916,2161.141,"Well, there's a post conviction direct appeal route, okay, and there we have a rule of plain error, okay, which is simply almost a one, a one-step rule."
+1988.87-5677,1,15049,antonin_scalia,scotus_justice,2183.987,2190.91,"--But what difference does that... I think the Chief Justice's question is, is not going to the, to that point, the effect of a habeas decision."
+1988.87-5677,1,40488,robert_v_shuff_jr,,2200.866,2205.087,"There is no impossibility that I could think of, if that was the question."
+1988.87-5677,1,15141,william_h_rehnquist,scotus_justice,2206.153,2209.789,I thought that was the question.
+1988.87-5677,1,40488,robert_v_shuff_jr,,2212.24,2239.058,"Well, the cause and prejudice standard that this Court has set forth provides an adequate safety net for the habeas seeker, so to speak, the Petitioner, in those cases where there would have been a procedural default, and yet a serious Constitutional question could exist."
+1988.87-5677,1,15060,john_paul_stevens,scotus_justice,2305.016,2307.635,"Mr. Shuff, before you sit down, could I ask you a question?"
+1988.87-5677,1,40488,robert_v_shuff_jr,,2307.635,2308.052,Sure.
+1988.87-5677,1,15060,john_paul_stevens,scotus_justice,2308.052,2313.289,"You said there are about 300 habeas cases in Illinois every year, is that the--"
+1988.87-5677,1,40488,robert_v_shuff_jr,,2313.289,2314.974,That's approximately numbered.
+1988.87-5677,1,15060,john_paul_stevens,scotus_justice,2314.974,2318.926,"--How many of those go to hearing, are there evidentiary hearings in them, would you say?"
+1988.87-5677,1,40488,robert_v_shuff_jr,,2322.295,2324.128,I do not know how many go to evidentiary hearing.
+1988.87-5677,2,33758,kimball_r_anderson,,2333.317,2335.686,"Thank you, Mr. Chief Justice."
+1988.87-5677,2,15071,byron_r_white,scotus_justice,2418.507,2428.362,"Well, I take it, I take it then that your position, the state would never be able to, should never be allowed to raise procedural default in the first instance in the Federal habeas court?"
+1988.87-5677,2,33758,kimball_r_anderson,,2428.362,2438.051,"--I'm not, I'm not sure I'm following the gist of your question, Your Honor."
+1988.87-5677,2,15071,byron_r_white,scotus_justice,2438.753,2445.324,"Well, there, no claim of procedural default was ever made in the state courts--"
+1988.87-5677,2,33758,kimball_r_anderson,,2445.324,2446.024,--If--
+1988.87-5677,2,15071,byron_r_white,scotus_justice,2446.024,2453.144,"--and the state court simply decided the Federal issue, and the state comes into the Federal habeas Court saying procedural default."
+1988.87-5677,2,33758,kimball_r_anderson,,2453.144,2464.786,"--Well, I think that... I think that's settled, Your Honor, and that was... that was, that was settled in the County Court of Ulster case, and also--"
+1988.87-5677,2,15071,byron_r_white,scotus_justice,2464.786,2467.987,So the answer is the state may not raise it in the first instance?
+1988.87-5677,2,33758,kimball_r_anderson,,2467.987,2468.522,--That's right.
+1988.87-5677,2,15141,william_h_rehnquist,scotus_justice,2596.038,2597.655,"Thank you, Mr. Anderson."

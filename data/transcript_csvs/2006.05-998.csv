@@ -1,0 +1,245 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2006.05-998,0,15086,john_g_roberts_jr,scotus_justice,0.0,6.32,We'll hear argument first this morning in United States versus Resendiz-Ponce.
+2006.05-998,0,35719,michael_r_dreeben,,8.103,11.039,"Mr. Chief Justice, and may it please the Court:"
+2006.05-998,0,15113,anthony_m_kennedy,scotus_justice,48.581,56.087,"I'm not quite sure if this works, but at the trial before a petit jury there's an opportunity for counsel to object."
+2006.05-998,0,35719,michael_r_dreeben,,64.322,65.792,"That's correct, Justice Kennedy."
+2006.05-998,0,15042,david_h_souter,scotus_justice,118.891,128.514,"Isn't the problem that the motion to quash is going to be made, if counsel is on his toes, is going to be made at the beginning of the trial?"
+2006.05-998,0,35719,michael_r_dreeben,,157.599,164.539,"Well, first of all, Justice Souter, motions like this are typically made long in advance of trial, as this one was."
+2006.05-998,0,15042,david_h_souter,scotus_justice,168.741,170.693,"Well, I'm sure that's right."
+2006.05-998,0,35719,michael_r_dreeben,,173.895,186.285,"Well, I think what it reinforces is that the judge has enough time to look at it and conscientiously attempt to get the law right without the need for the court to apply the heavy hand of automatic reversal."
+2006.05-998,0,15084,ruth_bader_ginsburg,scotus_justice,186.285,198.26,"But you concede that the error would always be harmless if you have a trial before a petit jury, and all of the elements are instructed to be found by the jury?"
+2006.05-998,0,35719,michael_r_dreeben,,198.26,200.212,"Yes, Justice Ginsburg, that is our position."
+2006.05-998,0,15086,john_g_roberts_jr,scotus_justice,200.212,202.645,That doesn't necessarily make sense.
+2006.05-998,0,35719,michael_r_dreeben,,230.481,238.551,"My response, Mr. Chief Justice, is the same response that this Court gave in United States versus Mechanik, where it was confronted with an analogous problem."
+2006.05-998,0,15049,antonin_scalia,scotus_justice,284.966,294.555,"Excuse me, you mean you can never decide this question until after the trial is completed and you see whether the jury convicts beyond a reasonable doubt?"
+2006.05-998,0,35719,michael_r_dreeben,,294.555,303.411,"--No, Justice Scalia, the district court should decide this question in advance of trial when it's properly raised and, if the indictment is defective, dismiss it."
+2006.05-998,0,15084,ruth_bader_ginsburg,scotus_justice,312.566,320.055,Did the U.S. Attorney in this case oppose the motion to quash the indictment?
+2006.05-998,0,35719,michael_r_dreeben,,320.055,320.755,--In this case?
+2006.05-998,0,15084,ruth_bader_ginsburg,scotus_justice,320.755,321.322,Yes.
+2006.05-998,0,35719,michael_r_dreeben,,321.322,321.855,Yes.
+2006.05-998,0,15068,samuel_a_alito_jr,scotus_justice,345.773,348.34,"Mr. Dreeben, this touches on what troubles me about this."
+2006.05-998,0,35719,michael_r_dreeben,,380.761,381.496,Justice Alito--
+2006.05-998,0,15068,samuel_a_alito_jr,scotus_justice,381.496,384.748,And it doesn't seem to me that there's any defect in this indictment.
+2006.05-998,0,35719,michael_r_dreeben,,407.478,423.957,"--We did not challenge in our certiorari petition, which this Court granted, the Ninth Circuit's holding that in order for an attempt to be accomplished there needs to be a substantial step, and in an indictment under section 1326, there needs to be an allegation of what that substantial step is."
+2006.05-998,0,15113,anthony_m_kennedy,scotus_justice,423.957,425.492,I have the same problem.
+2006.05-998,0,35719,michael_r_dreeben,,439.532,441.368,"Well, it is common law--"
+2006.05-998,0,15113,anthony_m_kennedy,scotus_justice,441.368,443.436,He wasn't forced to go over.
+2006.05-998,0,35719,michael_r_dreeben,,446.638,448.205,"--Well, that's certainly the Government's position, Justice Kennedy."
+2006.05-998,0,15113,anthony_m_kennedy,scotus_justice,470.92,471.753,--What would that be here?
+2006.05-998,0,35719,michael_r_dreeben,,479.507,496.968,"The indictment would have to say that he attempted to enter the United States and took a substantial step towards the completion of that crime, to wit he approached the border and came to the guard and presented false identifications to the guard and lied about his intended destination."
+2006.05-998,0,15068,samuel_a_alito_jr,scotus_justice,496.968,518.817,"If you went back to the... if you went back to the very demanding nineteenth century criminal pleading laws, criminal pleading laws, they would say that where you use a legal term that has a well-0established meaning such as attempt, you don't need to spell out the definition of that, of that concept."
+2006.05-998,0,35719,michael_r_dreeben,,533.743,550.436,"Well, Justice Alito, I'm not going to defend what the Ninth Circuit did here, but I will be clear about the following: There is a generic legal issue at stake in this case that we face in the Ninth Circuit and in other courts around the country because indictments are not always written perfectly."
+2006.05-998,0,15139,stephen_g_breyer,scotus_justice,559.978,567.898,"As to the element, I thought that what the Ninth Circuit talked about was overt act."
+2006.05-998,0,35719,michael_r_dreeben,,570.584,571.452,"--They did, Justice Breyer."
+2006.05-998,0,15139,stephen_g_breyer,scotus_justice,571.452,572.036,"Yes, all right."
+2006.05-998,0,35719,michael_r_dreeben,,606.34,606.709,No.
+2006.05-998,0,15139,stephen_g_breyer,scotus_justice,606.709,609.342,I would have thought the answer was no.
+2006.05-998,0,35719,michael_r_dreeben,,647.584,649.15,We didn't really have a lot of choice about it.
+2006.05-998,0,15084,ruth_bader_ginsburg,scotus_justice,665.276,669.145,But you're making the concession only for purposes of this case.
+2006.05-998,0,35719,michael_r_dreeben,,680.552,689.891,"Justice Ginsburg, it's not unusual for this Court to decide a case where the Government does not challenge the underlying constitutional ruling and make some remedial argument."
+2006.05-998,0,15060,john_paul_stevens,scotus_justice,737.453,739.655,"We've done it before, there's no doubt about it."
+2006.05-998,0,35719,michael_r_dreeben,,758.6,764.421,"It may have a different atmosphere, but I don't think that it has any different legal analysis behind it."
+2006.05-998,0,15060,john_paul_stevens,scotus_justice,764.421,768.289,A judge's reaction to a case is often affected by just exactly what's involved.
+2006.05-998,0,35719,michael_r_dreeben,,793.255,801.511,"Well, I think our fundamental submission here is that with respect to the probable cause determination, there is no prejudice because of the petit jury's verdict."
+2006.05-998,0,15139,stephen_g_breyer,scotus_justice,834.231,836.1,Does this come up very often?
+2006.05-998,0,35719,michael_r_dreeben,,873.606,878.177,"Justice Breyer, I think that an empirical perspective might be helpful here."
+2006.05-998,0,15086,john_g_roberts_jr,scotus_justice,951.225,965.818,"Well, it sits to decide whether people should be indicted, and yes, they're supposed to determine whether there's probable cause, but historically a significant role for the grand jury has been not to indict people even though the Government had the evidence to indict them."
+2006.05-998,0,35719,michael_r_dreeben,,965.818,980.494,"Well, I actually do not agree that there's any stronger evidence, Mr. Chief Justice, that grand juries didn't indict when the Government had adequate evidence than there is historical evidence that petit juries did not convict when there's proof beyond a reasonable doubt."
+2006.05-998,0,15042,david_h_souter,scotus_justice,1005.293,1031.093,"The trouble with your a fortiori argument it seems to me is this: If we accept your argument, then whenever a judge is asked to rule on a motion to quash, if the judge is in any doubt, the judge is going to be induced by your rule to deny the motion to quash and wait and see what happens at trial."
+2006.05-998,0,35719,michael_r_dreeben,,1080.174,1085.562,"Well, Justice Souter, experience doesn't show that, in fact, district courts don't grant these motions."
+2006.05-998,0,15042,david_h_souter,scotus_justice,1089.716,1090.782,I'm sure they do grant them.
+2006.05-998,0,35719,michael_r_dreeben,,1103.523,1110.712,"Well, I do think we can assume that Article III judges are a hearty enough species so that they can make up their minds and they can rule."
+2006.05-998,0,15042,david_h_souter,scotus_justice,1123.37,1131.626,And it seems to me that the prejudice to the defendant in the two... as between the two situations simply is not comparable.
+2006.05-998,0,35719,michael_r_dreeben,,1154.908,1166.632,"Well, given that this issue arises only when you have a petit jury verdict of guilty beyond a reasonable doubt, it seems overwhelmingly likely that any grand jury would have found probable cause."
+2006.05-998,0,15084,ruth_bader_ginsburg,scotus_justice,1166.632,1180.039,"Do we know... do we have the grand jury transcripts, so do we know that, in fact, evidence was put before the grand jury that false identifications were presented at the border?"
+2006.05-998,0,35719,michael_r_dreeben,,1180.039,1190.664,"The grand jury transcript is not in this record, Justice Ginsburg, and we do not suggest that the Court adopt a rule in which it reviews the adequacy of the evidentiary showing before the grand jury."
+2006.05-998,0,15068,samuel_a_alito_jr,scotus_justice,1222.799,1224.151,How far would you go with the Mechanik logic?
+2006.05-998,0,35719,michael_r_dreeben,,1251.119,1253.738,"No, I would not go that far, Justice Alito."
+2006.05-998,0,15113,anthony_m_kennedy,scotus_justice,1315.895,1320.78,"So it's just a metaphysical inquiry, when is an indictment not an indictment?"
+2006.05-998,0,35719,michael_r_dreeben,,1328.119,1337.659,"I'm borrowing the language from the Midland Asphalt opinion, but I think that it was a poetic way of putting the point that if you don't have--"
+2006.05-998,0,15113,anthony_m_kennedy,scotus_justice,1337.659,1339.676,"You say poetic, I said metaphysical."
+2006.05-998,0,35719,michael_r_dreeben,,1341.56,1343.295,--When you don't have one.
+2006.05-998,0,15049,antonin_scalia,scotus_justice,1343.295,1345.58,Now why would there be any difference then?
+2006.05-998,0,35719,michael_r_dreeben,,1359.924,1362.54,You could push the logic of that argument that far.
+2006.05-998,0,15049,antonin_scalia,scotus_justice,1362.54,1364.792,"I don't think it's pushing it, I think it's there."
+2006.05-998,0,35719,michael_r_dreeben,,1364.792,1374.082,"Just as in the Neder case, you could say that it would be harmless error if a judge directed a jury verdict when the evidence was overwhelming on all of the elements."
+2006.05-998,0,15139,stephen_g_breyer,scotus_justice,1385.555,1392.645,Doesn't an indictment have as its purpose in part to tell the defendant what crime he's being accused of committing?
+2006.05-998,0,35719,michael_r_dreeben,,1425.366,1427.734,"Well, chances are he did know what crime he was accused of."
+2006.05-998,0,15139,stephen_g_breyer,scotus_justice,1427.734,1428.917,"Well, yes, of course the chances are."
+2006.05-998,0,35719,michael_r_dreeben,,1431.019,1431.902,And we submit--
+2006.05-998,0,15139,stephen_g_breyer,scotus_justice,1431.902,1437.423,"So if he didn't and therefore the indictment was faulty in that respect, then what?"
+2006.05-998,0,35719,michael_r_dreeben,,1450.08,1453.515,"--Well, it isn't quite like that, I hope, Justice Breyer."
+2006.05-998,0,15139,stephen_g_breyer,scotus_justice,1475.381,1483.821,--me until halfway through the trial that it was robbery I was being accused of because they left robbery out of the indictment.
+2006.05-998,0,35719,michael_r_dreeben,,1483.821,1491.74,"Well, what you get are cases where there needs to be an effect on interstate commerce and it's not alleged and then the Government comes up with proof."
+2006.05-998,0,15113,anthony_m_kennedy,scotus_justice,1546.727,1547.611,I'm still not sure of your test.
+2006.05-998,0,35719,michael_r_dreeben,,1558.035,1560.369,"--There are two aspects to our rule, Justice Kennedy."
+2006.05-998,0,15049,antonin_scalia,scotus_justice,1595.541,1601.545,"Mr. Dreeben, if we disagree with you here, could this defendant be retried?"
+2006.05-998,0,35719,michael_r_dreeben,,1603.229,1604.231,"Yes, Justice Scalia."
+2006.05-998,0,15086,john_g_roberts_jr,scotus_justice,1611.618,1612.668,"Thank you, Mr. Dreeben."
+2006.05-998,0,35719,michael_r_dreeben,,1612.668,1614.669,Thank you.
+2006.05-998,0,15086,john_g_roberts_jr,scotus_justice,1614.669,1618.121,Mr. Baggot.
+2006.05-998,1,15620,atmore_baggot,,1618.121,1620.506,"Mr. Chief Justice, if it please the Court:"
+2006.05-998,1,15113,anthony_m_kennedy,scotus_justice,1645.391,1647.324,You could say the same thing about a petit jury.
+2006.05-998,1,15620,atmore_baggot,,1652.192,1656.679,"Absolutely, but the proceedings before a grand jury are secret."
+2006.05-998,1,15139,stephen_g_breyer,scotus_justice,1697.055,1702.374,Suppose... suppose we found out.
+2006.05-998,1,15620,atmore_baggot,,1740.914,1743.016,I believe it would be raised--
+2006.05-998,1,15139,stephen_g_breyer,scotus_justice,1743.016,1743.382,No.
+2006.05-998,1,15620,atmore_baggot,,1744.468,1745.251,"--Oh, can you win."
+2006.05-998,1,15139,stephen_g_breyer,scotus_justice,1745.251,1745.734,Yeah.
+2006.05-998,1,15620,atmore_baggot,,1745.734,1746.551,You can always raise it.
+2006.05-998,1,15139,stephen_g_breyer,scotus_justice,1746.551,1750.388,"I mean, you see, I'm saying is that error?"
+2006.05-998,1,15620,atmore_baggot,,1764.679,1767.164,You're assuming somehow the transcript has been disclosed.
+2006.05-998,1,15139,stephen_g_breyer,scotus_justice,1767.164,1768.166,"Yes, I assume we know that."
+2006.05-998,1,15620,atmore_baggot,,1769.55,1770.952,"The doors are open, they're not closed."
+2006.05-998,1,15139,stephen_g_breyer,scotus_justice,1770.952,1771.485,"Yeah, we know."
+2006.05-998,1,15620,atmore_baggot,,1771.485,1773.987,We know what happened and basically there's zero evidence.
+2006.05-998,1,15139,stephen_g_breyer,scotus_justice,1773.987,1774.37,Yes.
+2006.05-998,1,15620,atmore_baggot,,1775.004,1781.908,"Your Honor, the history of this Court's treatment of grand jury is that they may consider any evidence; they may consider--"
+2006.05-998,1,15139,stephen_g_breyer,scotus_justice,1781.908,1784.276,"Yes, but what is the answer to my question, yes or no?"
+2006.05-998,1,15620,atmore_baggot,,1785.543,1789.412,--I believe in that situation the petit jury's verdict would stand.
+2006.05-998,1,15139,stephen_g_breyer,scotus_justice,1789.412,1789.93,--That's right.
+2006.05-998,1,15620,atmore_baggot,,1791.047,1791.68,The answer is no.
+2006.05-998,1,15139,stephen_g_breyer,scotus_justice,1791.68,1810.325,"And if you can't raise that, which is a major area because there's a harmless error is what it really amounts to, why isn't the same true here where the error is far more likely to be simply technical and make no difference given the adequacy of the evidence?"
+2006.05-998,1,15620,atmore_baggot,,1810.325,1816.331,"Because the Constitution contemplates that the grand jury be independent, that its decision--"
+2006.05-998,1,15139,stephen_g_breyer,scotus_justice,1816.331,1817.831,It does as well in my case.
+2006.05-998,1,15620,atmore_baggot,,1817.831,1824.985,"--not be reviewed, that there's no appeal, there's no review process for what the grand jury did behind its closed doors, whether we--"
+2006.05-998,1,15068,samuel_a_alito_jr,scotus_justice,1826.303,1827.92,What if it's perfectly--
+2006.05-998,1,15620,atmore_baggot,,1827.92,1828.422,Sir?
+2006.05-998,1,15068,samuel_a_alito_jr,scotus_justice,1828.422,1829.089,--I'm sorry.
+2006.05-998,1,15620,atmore_baggot,,1880.504,1890.629,"Your Honor, if there is a clerical error, Rule 36 gives the trial judge the ability, and the power, and the authority to correct an error which is purely clerical."
+2006.05-998,1,15068,samuel_a_alito_jr,scotus_justice,1894.747,1896.449,But what if it comes up on appeal?
+2006.05-998,1,15620,atmore_baggot,,1898.599,1899.135,"Well, I believe--"
+2006.05-998,1,15068,samuel_a_alito_jr,scotus_justice,1899.135,1901.551,Which is exactly in the posture of this case.
+2006.05-998,1,15620,atmore_baggot,,1901.551,1907.155,"--Well, Rule 36 says the court may correct clerical errors at any situation."
+2006.05-998,1,15084,ruth_bader_ginsburg,scotus_justice,1915.995,1933.222,"How do you distinguish the mail... the letter carrier case that Justice Breyer posed, because there you said even though there was no evidence at all of what this person was, if the petit jury found it, that would not be subject to review."
+2006.05-998,1,15049,antonin_scalia,scotus_justice,1944.18,1948.649,I would like to even sharpen Justice Breyer's hypothetical.
+2006.05-998,1,15620,atmore_baggot,,1964.793,1965.21,--The result--
+2006.05-998,1,15049,antonin_scalia,scotus_justice,1965.21,1966.643,Then the trial occurs--
+2006.05-998,1,15620,atmore_baggot,,1966.643,1967.309,--And he's found guilty.
+2006.05-998,1,15049,antonin_scalia,scotus_justice,1967.309,1968.326,--He's convicted.
+2006.05-998,1,15620,atmore_baggot,,1972.797,1974.963,"My position is the conviction would stand, yes, sir."
+2006.05-998,1,15049,antonin_scalia,scotus_justice,1974.963,1978.182,That doesn't seem to me to make a lot of sense.
+2006.05-998,1,15620,atmore_baggot,,1978.182,1981.084,"Well, the grand jury is independent."
+2006.05-998,1,15139,stephen_g_breyer,scotus_justice,2077.928,2080.063,Can't you ask for a bill of particulars?
+2006.05-998,1,15620,atmore_baggot,,2080.063,2081.313,"I could have done that, yes."
+2006.05-998,1,15139,stephen_g_breyer,scotus_justice,2081.313,2082.516,"Well, then you would have had no problem."
+2006.05-998,1,15620,atmore_baggot,,2082.516,2084.766,But bill of particulars are not favored motions.
+2006.05-998,1,15084,ruth_bader_ginsburg,scotus_justice,2091.021,2099.275,"Were you, were you surprised at trial by the evidence that the defendant had submitted two false identifications?"
+2006.05-998,1,15620,atmore_baggot,,2101.81,2110.547,"Your Honor, Justice Ginsburg, I would submit that the prejudice to the defendant at the jury trial, the petit jury, was a slight prejudice."
+2006.05-998,1,15084,ruth_bader_ginsburg,scotus_justice,2115.451,2118.336,"But were you, was there any element of surprise in this trial?"
+2006.05-998,1,15620,atmore_baggot,,2127.675,2130.96,"--No, I knew that, Your Honor."
+2006.05-998,1,15084,ruth_bader_ginsburg,scotus_justice,2130.96,2133.443,So there was no lack of notice; there was no surprise.
+2006.05-998,1,15620,atmore_baggot,,2133.443,2136.531,In our court we have complete discovery.
+2006.05-998,1,15084,ruth_bader_ginsburg,scotus_justice,2154.056,2158.11,"Well, surely submitting false identification could be a overt act."
+2006.05-998,1,15620,atmore_baggot,,2158.11,2159.344,--It could be.
+2006.05-998,1,15084,ruth_bader_ginsburg,scotus_justice,2159.777,2161.762,Is there any doubt about that?
+2006.05-998,1,15620,atmore_baggot,,2161.762,2163.181,--It could be an overt act.
+2006.05-998,1,15084,ruth_bader_ginsburg,scotus_justice,2168.233,2171.435,"Yes, but you knew that... you had the file."
+2006.05-998,1,15620,atmore_baggot,,2175.406,2176.356,--It could have been.
+2006.05-998,1,15042,david_h_souter,scotus_justice,2177.439,2181.643,But your point is not that there was any prejudice here.
+2006.05-998,1,15620,atmore_baggot,,2184.695,2188.546,He was entitled to a grand jury as an independent institutional body.
+2006.05-998,1,15086,john_g_roberts_jr,scotus_justice,2204.156,2220.268,"You don't have any... you're not suggesting to us that the grand jury that indicted him for intentionally attempting to enter the United States at or near San Luis would not have indicted him if the indictment had gone further and said, and he submitted false IDs?"
+2006.05-998,1,15620,atmore_baggot,,2220.268,2225.839,"There are, there certainly are scenarios under which they would have indicted him, yes, sir."
+2006.05-998,1,15068,samuel_a_alito_jr,scotus_justice,2225.839,2244.301,"You think that the... that the indictment had to specify which of the many things that he did, or the several things that he did when he approached the border constituted the overt act that the Ninth Circuit... he walked up to the border and he did a number of things to try to get into the United States."
+2006.05-998,1,15620,atmore_baggot,,2244.301,2244.701,Sure.
+2006.05-998,1,15068,samuel_a_alito_jr,scotus_justice,2244.701,2259.726,"And you think that the indictment has to specify that walking up wasn't a substantial step, but presenting the documents might have been, whether it was walking up, presenting the documents, lying to the agent?"
+2006.05-998,1,15620,atmore_baggot,,2264.964,2271.201,Rule 7(c)(1) of the Rules of Procedure states that the indictment must state the essential facts.
+2006.05-998,1,15139,stephen_g_breyer,scotus_justice,2295.699,2297.685,That's a separate requirement.
+2006.05-998,1,15620,atmore_baggot,,2317.413,2326.836,"Well, Your Honor, based upon your Hamling decision, I believe that's what the Court said, that there must be an allegation of facts under the decision in United States versus--"
+2006.05-998,1,15139,stephen_g_breyer,scotus_justice,2326.836,2327.637,"No, I'm not denying that."
+2006.05-998,1,15620,atmore_baggot,,2360.14,2370.012,"--Well, Your Honor, one of the functions of the grand jury indictment is to provide notice to the accused of the exact offense with which he is charged."
+2006.05-998,1,15084,ruth_bader_ginsburg,scotus_justice,2389.075,2396.413,"Does the Government have to pick one overt act and say that's it, when it introduces evidence of a whole string of them?"
+2006.05-998,1,15620,atmore_baggot,,2396.413,2400.698,"Well, I don't see how we can really address it unless they tell us what they're talking about."
+2006.05-998,1,15113,anthony_m_kennedy,scotus_justice,2407.935,2413.939,"Well, can't you allege that the means by which it was done are unknown, but that it was by one or more of the following?"
+2006.05-998,1,15620,atmore_baggot,,2413.939,2414.808,"Yes, you could."
+2006.05-998,1,15139,stephen_g_breyer,scotus_justice,2419.326,2426.098,"That's exactly what I... I tried to read some treatises on this, and the more I read, the more confused I got."
+2006.05-998,1,15620,atmore_baggot,,2472.894,2476.365,I don't think that's relevant because that's going into excessive detail.
+2006.05-998,1,15139,stephen_g_breyer,scotus_justice,2478.648,2486.387,"If it's excessive detail, the central fact, then why isn't on such and such a date at such and such a time he attempted to?"
+2006.05-998,1,15620,atmore_baggot,,2486.387,2497.361,"--Because he did many things in furtherance of the attempt according to the Government's proof, and we had a right to know, to have notice of the accusation, what is the Government talking about?"
+2006.05-998,1,15139,stephen_g_breyer,scotus_justice,2497.361,2497.779,All right.
+2006.05-998,1,15620,atmore_baggot,,2511.871,2512.654,The essential facts.
+2006.05-998,1,15139,stephen_g_breyer,scotus_justice,2512.654,2517.34,I couldn't find any case in this Court that said that.
+2006.05-998,1,15620,atmore_baggot,,2528.881,2537.57,"But in the Russell case they said that you have to provide the essential facts, what was the nature of the committee hearing, what was the subject--"
+2006.05-998,1,15139,stephen_g_breyer,scotus_justice,2537.57,2537.954,Yeah.
+2006.05-998,1,15113,anthony_m_kennedy,scotus_justice,2542.557,2547.377,"But you come back and you tell Justice Breyer, well, that's because we had no notice."
+2006.05-998,1,15620,atmore_baggot,,2563.221,2567.106,"--Well, it's not an indictment because it did not allege the essential facts."
+2006.05-998,1,15113,anthony_m_kennedy,scotus_justice,2567.106,2570.993,"But that, it seems to me, is your argument, not lack of notice."
+2006.05-998,1,15620,atmore_baggot,,2570.993,2573.962,"Well, it didn't provide a notice of what the essential facts was."
+2006.05-998,1,15060,john_paul_stevens,scotus_justice,2579.932,2581.265,May I ask this question.
+2006.05-998,1,15620,atmore_baggot,,2601.227,2606.981,"--That presents a different legal issue because a variance means they alleged A, they proved B."
+2006.05-998,1,15060,john_paul_stevens,scotus_justice,2609.233,2612.035,Why should the test for judging the two be different?
+2006.05-998,1,15620,atmore_baggot,,2612.035,2615.087,Between a variance--
+2006.05-998,1,15060,john_paul_stevens,scotus_justice,2615.087,2617.439,Between a variance and an omission?
+2006.05-998,1,15620,atmore_baggot,,2617.439,2623.775,"--Well, when you have a variance the question is how much is the variance, how far off is the variance."
+2006.05-998,1,15060,john_paul_stevens,scotus_justice,2623.775,2624.692,"Well, it's clearly different."
+2006.05-998,1,15620,atmore_baggot,,2627.46,2632.114,"Well, he's given notice that he's approaching the border with intent to commit this crime."
+2006.05-998,1,15060,john_paul_stevens,scotus_justice,2632.114,2636.816,"So here you've got notice he made an attempt, but you didn't tell us whether he rode the bicycle or he walked."
+2006.05-998,1,15620,atmore_baggot,,2636.816,2642.137,"But then the question becomes is it material, is the variance material, is it far off from what alleged?"
+2006.05-998,1,15060,john_paul_stevens,scotus_justice,2643.672,2649.576,"See, the problem I'm trying to think through is why should there be a different rule between those two situations."
+2006.05-998,1,15620,atmore_baggot,,2658.932,2669.906,"Well, the prime variance case is Stirone versus United States in the 1960s, where the Court very simply said that where nothing is alleged this cannot be treated as a simple variance."
+2006.05-998,1,15042,david_h_souter,scotus_justice,2669.906,2693.939,"But why isn't your answer to Justice Stevens that in the case in which there is no allegation of an element at all there isn't a sufficient indictment to charge him for anything, whereas in the case of the variance on your theory, as I understand it, there is an indictment and the question is simply whether he was misled by the variance and prejudiced?"
+2006.05-998,1,15620,atmore_baggot,,2693.939,2694.555,Right.
+2006.05-998,1,15042,david_h_souter,scotus_justice,2694.555,2699.593,"So why isn't the answer is in one case there's an indictment, and in the other case there isn't?"
+2006.05-998,1,15620,atmore_baggot,,2699.593,2703.644,"Well, the extent is... it's a question that can't be answered in the abstract."
+2006.05-998,1,15042,david_h_souter,scotus_justice,2705.912,2716.602,"No, but why isn't your answer to him that in the case in which there is a variance you have an indictment; in the case that you're talking about there is none?"
+2006.05-998,1,15620,atmore_baggot,,2731.045,2731.412,Correct.
+2006.05-998,1,15042,david_h_souter,scotus_justice,2731.412,2737.718,"And if that is the nub of your position, then I would have thought your answer to Justice Stevens was what I suggested."
+2006.05-998,1,15620,atmore_baggot,,2742.253,2755.679,"Well, Your Honor, our case is simply that where a material element is omitted the grand jury... something went wrong in the grand jury proceeding, and the only remedy for that is to return it, the case, to the grand jury and let them have a second go--"
+2006.05-998,1,15042,david_h_souter,scotus_justice,2755.679,2760.147,What is the result of what went wrong?
+2006.05-998,1,15620,atmore_baggot,,2767.035,2771.872,--Constitutionally deficient and did not fulfill the requirements of the Fifth Amendment.
+2006.05-998,1,15042,david_h_souter,scotus_justice,2771.872,2776.674,"An insufficient... in other words, there is no indictment charging a crime?"
+2006.05-998,1,15620,atmore_baggot,,2777.207,2785.113,"That's correct, Your Honor, no crime, and the reason for that... I'll go one step further... is because there's no way of knowing whether the Government--"
+2006.05-998,1,15086,john_g_roberts_jr,scotus_justice,2785.113,2785.763,But that's not an element.
+2006.05-998,1,15620,atmore_baggot,,2804.343,2811.663,--Because that is... there must be facts to show what the overt act was.
+2006.05-998,1,15084,ruth_bader_ginsburg,scotus_justice,2823.755,2831.411,"Suppose this indictment charged not an attempt to enter, but unlawful entry."
+2006.05-998,1,15620,atmore_baggot,,2836.897,2838.264,"Well, if it--"
+2006.05-998,1,15084,ruth_bader_ginsburg,scotus_justice,2838.264,2844.651,"It charged, not an attempt, but an unlawful entry."
+2006.05-998,1,15620,atmore_baggot,,2847.103,2849.805,"--No, because that's a general intent crime."
+2006.05-998,1,15068,samuel_a_alito_jr,scotus_justice,2854.424,2858.494,"And the defendant could be convicted of an attempt under such an indictment, could he not?"
+2006.05-998,1,15620,atmore_baggot,,2858.494,2870.369,"Under such an indictment, under this case he could not, because he was under the constant surveillance of the INS at the time and in law that is not a legal indictment, not a legal reentry, an illegal reentry."
+2006.05-998,1,15068,samuel_a_alito_jr,scotus_justice,2887.413,2891.699,"But in that situation, you wouldn't know what the substantial step was, would you?"
+2006.05-998,1,15620,atmore_baggot,,2891.699,2892.549,"No, and--"
+2006.05-998,1,15068,samuel_a_alito_jr,scotus_justice,2892.549,2894.399,The indictment wouldn't tell you what the substantial step was.
+2006.05-998,1,15620,atmore_baggot,,2894.399,2898.453,--And there wouldn't be any need either because it's not a specific intent crime and there's no requirement--
+2006.05-998,1,15068,samuel_a_alito_jr,scotus_justice,2898.453,2906.107,If the defendant was convicted of the lesser included offense of attempt under an indictment charging the completed offense?
+2006.05-998,1,15620,atmore_baggot,,2906.107,2907.725,--Attempt is not a lesser included.
+2006.05-998,1,15049,antonin_scalia,scotus_justice,2925.686,2927.32,"Well, I don't understand that."
+2006.05-998,1,15620,atmore_baggot,,2937.911,2940.28,"Well, it has the same guideline punishment."
+2006.05-998,1,15049,antonin_scalia,scotus_justice,2954.438,2968.28,"What does that mean, if you're tried for illegal entry and the Government doesn't prove the illegal entry because you're under supervision when you get in, the jury could not convict of attempt?"
+2006.05-998,1,15620,atmore_baggot,,2968.28,2970.965,"If he was charged that way, they probably could, yes."
+2006.05-998,1,15049,antonin_scalia,scotus_justice,2975.15,2981.171,"And that would be okay, just charge with attempt without setting forth the overt acts for the attempt?"
+2006.05-998,1,15620,atmore_baggot,,2981.171,2987.058,"Well, they would have to set out the overt act and the essential facts that constitute the overt act."
+2006.05-998,1,15139,stephen_g_breyer,scotus_justice,2987.058,2995.581,"Suppose that it's an assault and the indictment says on such and such a day, at such and such a time, he assaulted the postman, right?"
+2006.05-998,1,15620,atmore_baggot,,3002.784,3003.519,"No, I don't think so."
+2006.05-998,1,15139,stephen_g_breyer,scotus_justice,3003.519,3003.986,No.
+2006.05-998,1,15620,atmore_baggot,,3019.279,3020.996,"Normally, yes, sir."
+2006.05-998,1,15139,stephen_g_breyer,scotus_justice,3020.996,3021.381,"Normally, yes."
+2006.05-998,1,15620,atmore_baggot,,3021.381,3021.831,That's correct.
+2006.05-998,1,15139,stephen_g_breyer,scotus_justice,3032.604,3035.908,Why more than any other word in the statute?
+2006.05-998,1,15620,atmore_baggot,,3038.391,3039.36,"Well, they do and they don't."
+2006.05-998,1,15139,stephen_g_breyer,scotus_justice,3039.36,3041.625,"And they also know what ""assault"" means."
+2006.05-998,1,15620,atmore_baggot,,3056.069,3061.271,"Well, that's why they had an en banc determination, because the judges were in disarray over that question."
+2006.05-998,1,15049,antonin_scalia,scotus_justice,3074.697,3077.666,"Mr. Baggot, could I come back to your answer to my earlier question."
+2006.05-998,1,15620,atmore_baggot,,3087.238,3087.788,"No, sir."
+2006.05-998,1,15049,antonin_scalia,scotus_justice,3087.788,3089.04,Are you sure that's the law?
+2006.05-998,1,15620,atmore_baggot,,3089.04,3092.508,"No, but here under 1326 it's quite different."
+2006.05-998,1,15049,antonin_scalia,scotus_justice,3097.812,3107.335,"As I said in my previous question, every lesser included offense is itself a substantive offense."
+2006.05-998,1,15620,atmore_baggot,,3122.695,3123.195,"Yes, that's correct."
+2006.05-998,1,15049,antonin_scalia,scotus_justice,3123.195,3138.723,"And if that is the case here, then it seems to me he could have been convicted of attempt without ever having had set forth in the indictment the overt act that you demand."
+2006.05-998,1,15620,atmore_baggot,,3138.723,3142.925,"Well, that's a good point."
+2006.05-998,1,15084,ruth_bader_ginsburg,scotus_justice,3152.381,3154.899,But substantive offense is one thing.
+2006.05-998,1,15620,atmore_baggot,,3163.288,3170.942,"--Under this statute, under 1326, that's the ruling of our circuit."
+2006.05-998,1,15086,john_g_roberts_jr,scotus_justice,3214.637,3215.404,"Thank you, Mr. Baggot."
+2006.05-998,1,15620,atmore_baggot,,3215.404,3216.221,"Thank you, sir."
+2006.05-998,1,15086,john_g_roberts_jr,scotus_justice,3216.221,3218.923,"Mr. Dreeben, you have three minutes."
+2006.05-998,2,35719,michael_r_dreeben,,3218.923,3220.891,"Thank you, Mr. Chief Justice."
+2006.05-998,2,15049,antonin_scalia,scotus_justice,3220.891,3227.128,"Mr. Dreeben, is attempt a lesser included offense of the substantive offense of illegal reentry?"
+2006.05-998,2,35719,michael_r_dreeben,,3227.128,3228.746,It's a substantive offense.
+2006.05-998,2,15042,david_h_souter,scotus_justice,3298.725,3311.55,"But Mr. Dreeben, isn't the point that the tremendous cost that you refer to is a tremendous cost that the Government pays by its choice to go to trial, as opposed to going back to the grand jury and making sure that it has an adequate indictment?"
+2006.05-998,2,35719,michael_r_dreeben,,3311.55,3314.519,"Well, the Government is often quite confident that it's correct."
+2006.05-998,2,15113,anthony_m_kennedy,scotus_justice,3370.006,3381.029,"If you concede there was an error, is there anything to prevent us from saying we don't accept that concession, and have you rebrief and argue the question of whether or not an overt act is required?"
+2006.05-998,2,35719,michael_r_dreeben,,3381.029,3394.804,"Well, I hope that if the Court does not choose to decide the question on which it granted certiorari, that it does hold that the Ninth Circuit's substantive rule of law here is incorrect, and that there was nothing wrong with the indictment."
+2006.05-998,2,15113,anthony_m_kennedy,scotus_justice,3394.804,3398.073,But can we do that in the face of your concession without having reargument?
+2006.05-998,2,35719,michael_r_dreeben,,3398.073,3401.958,"Oh, I think this Court can do anything it chooses, regardless of the Government's concession."
+2006.05-998,2,15086,john_g_roberts_jr,scotus_justice,3420.106,3421.072,"Thank you, Mr. Dreeben."
+2006.05-998,2,35719,michael_r_dreeben,,3421.889,3422.506,Thank you.

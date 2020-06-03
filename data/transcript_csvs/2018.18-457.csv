@@ -1,0 +1,329 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2018.18-457,0,15086,john_g_roberts_jr,scotus_justice,0.0,13.64,"We'll hear argument next in Case 18-457, the North Carolina Department of Revenue versus the Kaestner Rice 1992 Family Trust. Mr. Sawchak."
+2018.18-457,0,63117,matthew_w_sawchak,,13.64,24.8,"Mr. Chief Justice, and may it please the Court: This case involves a statute that taxes trust income in proportion to the interests of in-state beneficiaries."
+2018.18-457,0,15084,ruth_bader_ginsburg,scotus_justice,44.2,51.88,You couldn't -- you couldn't tax the beneficiaries on that accumulated income when they haven't received it?
+2018.18-457,0,63117,matthew_w_sawchak,,51.88,55.08,"Well, Your Honor, Stewart might be to the contrary."
+2018.18-457,0,15084,ruth_bader_ginsburg,scotus_justice,72.88,76.36,But North Carolina is not doing that.
+2018.18-457,0,63117,matthew_w_sawchak,,76.36,78.56,North Carolina is taxing the --
+2018.18-457,0,15084,ruth_bader_ginsburg,scotus_justice,78.56,79.24,Yeah.
+2018.18-457,0,63117,matthew_w_sawchak,,79.24,80.88,-- accumulating income.
+2018.18-457,0,15084,ruth_bader_ginsburg,scotus_justice,80.88,93.04,But you want to use the beneficiary's connection with North Carolina to impose a tax on the trust that doesn't have a connection?
+2018.18-457,0,63117,matthew_w_sawchak,,93.04,99.96,"So, Your Honor, the point that connects them is that the beneficiary is part of the trust."
+2018.18-457,0,15131,sonia_sotomayor,scotus_justice,108.2,111.68,Isn't the trust for her and her children?
+2018.18-457,0,63117,matthew_w_sawchak,,111.68,113.72,She is the named beneficiary.
+2018.18-457,0,15131,sonia_sotomayor,scotus_justice,120.56,146.68,"So we've already said in prior cases, and you distinguish them as being inapposite today, that you can't tax the whole trust; you've got to only tax that which the beneficiary is an owner of. So how do we know she's going to receive anything any time? She could leave it for her kids."
+2018.18-457,0,63117,matthew_w_sawchak,,146.68,151.0,"She -- in -- in the event of this case, first of all --"
+2018.18-457,0,15131,sonia_sotomayor,scotus_justice,151.0,154.52,"I mean, the trustee could -- could decide to leave it for the kids."
+2018.18-457,0,63117,matthew_w_sawchak,,154.52,155.72,That's true.
+2018.18-457,0,15131,sonia_sotomayor,scotus_justice,165.52,169.84,"There was a loan, $250,000, after this tax period?"
+2018.18-457,0,63117,matthew_w_sawchak,,169.84,172.64,"Immediately after, there was a loan, but, in addition --"
+2018.18-457,0,15131,sonia_sotomayor,scotus_justice,172.64,188.88,"But it still begs the question, what makes it your right under any circumstance to tax all of the trust income where there's no guarantee that she is going to receive all of it at any point?"
+2018.18-457,0,63117,matthew_w_sawchak,,188.88,191.04,Several points.
+2018.18-457,0,15131,sonia_sotomayor,scotus_justice,199.76,202.92,But the trustee doesn't have to pay for that.
+2018.18-457,0,63117,matthew_w_sawchak,,217.8,227.64,But it is the very fact that those benefits and protections are being extended that enables the trustee to not give distributions.
+2018.18-457,0,15131,sonia_sotomayor,scotus_justice,227.64,229.72,Now he has absolute discretion.
+2018.18-457,0,63117,matthew_w_sawchak,,233.24,243.64,"Under trust law, even what -- what's called sole and absolute discretion is qualified by the need to look out for the needs of the beneficiaries."
+2018.18-457,0,15086,john_g_roberts_jr,scotus_justice,247.8,248.96,I probably should know --
+2018.18-457,0,15068,samuel_a_alito_jr,scotus_justice,248.96,249.36,Could you tax the --
+2018.18-457,0,15086,john_g_roberts_jr,scotus_justice,249.36,254.56,"-- I probably should know this, but where is the trust located? How do you decide that?"
+2018.18-457,0,63117,matthew_w_sawchak,,254.56,256.44,The trust has no --
+2018.18-457,0,15086,john_g_roberts_jr,scotus_justice,256.44,269.64,"I mean, it's just a -- yeah, it's just a contract, right? So if you wanted -- if the home of the trust wanted to tax the -- the same income that you're trying to tax, where -- where would that be?"
+2018.18-457,0,63117,matthew_w_sawchak,,269.64,273.0,So the trust has no situs.
+2018.18-457,0,15086,john_g_roberts_jr,scotus_justice,290.96,300.52,So you would -- you would say there's no state that could say we are the home state of the trust and we're the ones that have the primary claim on the taxation of this income?
+2018.18-457,0,63117,matthew_w_sawchak,,300.52,306.88,"So the -- under trust law, a trust has something called a principal place of administration."
+2018.18-457,0,15139,stephen_g_breyer,scotus_justice,331.68,331.88,All right.
+2018.18-457,0,15086,john_g_roberts_jr,scotus_justice,332.04,332.64,So do you think --
+2018.18-457,0,15139,stephen_g_breyer,scotus_justice,332.64,336.24,"-- don't want to do that, but, look -- sorry, go ahead."
+2018.18-457,0,15086,john_g_roberts_jr,scotus_justice,336.24,337.16,"No, no, go ahead."
+2018.18-457,0,15139,stephen_g_breyer,scotus_justice,337.16,341.16,"Look, the trustee lives in New York, okay? The settlor is in New York."
+2018.18-457,0,63117,matthew_w_sawchak,,397.28,401.64,"I would -- I would point out some additional facts, Your Honor."
+2018.18-457,0,15139,stephen_g_breyer,scotus_justice,405.24,409.36,"Well, is that -- is that -- I'm talking about the law of North Carolina."
+2018.18-457,0,63117,matthew_w_sawchak,,445.8,446.0,So --
+2018.18-457,0,15139,stephen_g_breyer,scotus_justice,446.0,455.84,"Is that how the law works in North Carolina, is what I'm asking. And, of course, I suspect the answer is no, but go ahead. (Laughter.)"
+2018.18-457,0,63117,matthew_w_sawchak,,455.84,466.96,"First of all, this is a case in which 100 percent of the beneficiaries, the current beneficiaries, as the complaint itself says, are North Carolinians."
+2018.18-457,0,15139,stephen_g_breyer,scotus_justice,471.2,475.16,"No, I'm talking about only North Carolinians."
+2018.18-457,0,63117,matthew_w_sawchak,,487.04,487.6,Mm-hmm.
+2018.18-457,0,15139,stephen_g_breyer,scotus_justice,487.6,488.04,Okay.
+2018.18-457,0,63117,matthew_w_sawchak,,508.36,514.08,So the income is defined with reference to the federal definition of income.
+2018.18-457,0,15139,stephen_g_breyer,scotus_justice,528.88,529.24,Okay.
+2018.18-457,0,63117,matthew_w_sawchak,,566.28,572.88,So she's -- the facts are perhaps at some variance with what we're discussing.
+2018.18-457,0,15139,stephen_g_breyer,scotus_justice,573.84,580.6,But is what I said right? That's -- I want to think about this case and I can't think about it unless I get the facts right.
+2018.18-457,0,63117,matthew_w_sawchak,,580.6,581.52,Let me lay out some --
+2018.18-457,0,15139,stephen_g_breyer,scotus_justice,581.52,583.52,So do I have the facts right?
+2018.18-457,0,63117,matthew_w_sawchak,,583.52,587.2,I would lay out some additional facts that might be helpful.
+2018.18-457,0,17766,brett_m_kavanaugh,scotus_justice,587.2,589.2,Isn't it a yes? (Laughter.)
+2018.18-457,0,63117,matthew_w_sawchak,,589.2,592.04,She's currently eligible for distributions.
+2018.18-457,0,17766,brett_m_kavanaugh,scotus_justice,592.04,593.56,He has -- Justice Breyer has the facts right?
+2018.18-457,0,63117,matthew_w_sawchak,,593.56,596.92,I believe you have them right but perhaps not complete --
+2018.18-457,0,15139,stephen_g_breyer,scotus_justice,596.92,597.28,Okay.
+2018.18-457,0,63117,matthew_w_sawchak,,598.2,598.56,-- is what I meant to say.
+2018.18-457,0,15139,stephen_g_breyer,scotus_justice,598.56,600.24,"Good, I got them right so far."
+2018.18-457,0,63117,matthew_w_sawchak,,604.24,611.4,"She's currently eligible for distributions, first of all, during the years in question."
+2018.18-457,0,15068,samuel_a_alito_jr,scotus_justice,632.96,639.72,Now what -- where does that go? So what are her -- what proportion of this constitute her needs?
+2018.18-457,0,63117,matthew_w_sawchak,,639.72,647.28,"North Carolina, the statute is a pro rata statute, according to the interests of the beneficiaries."
+2018.18-457,0,15068,samuel_a_alito_jr,scotus_justice,663.8,665.72,Can you -- could you tax the children?
+2018.18-457,0,63117,matthew_w_sawchak,,665.72,674.52,"They are eligible to receive distributions so -- tax based on the children, Your Honor, or tax them?"
+2018.18-457,0,15068,samuel_a_alito_jr,scotus_justice,674.52,676.96,"Tax -- excuse me, tax them."
+2018.18-457,0,63117,matthew_w_sawchak,,678.6,685.96,So Stewart upholds a property tax levied directly to the beneficiaries.
+2018.18-457,0,17766,brett_m_kavanaugh,scotus_justice,695.12,701.8,"But other states don't do it this way, right? Tennessee, but they're ending the income tax."
+2018.18-457,0,63117,matthew_w_sawchak,,717.28,719.84,"Not quite, Your Honor, in this respect."
+2018.18-457,0,17766,brett_m_kavanaugh,scotus_justice,722.04,729.4,Based on a contingent beneficiary in the state where you tax the trusts or the trustee in another state.
+2018.18-457,0,63117,matthew_w_sawchak,,729.4,730.2,"No, Your Honor."
+2018.18-457,0,15084,ruth_bader_ginsburg,scotus_justice,738.12,748.48,How about how many states use that where the trust is administered to tax the accumulated but undistributed income?
+2018.18-457,0,63117,matthew_w_sawchak,,748.48,757.64,That -- fewer states use the place of administration as a criterion than use the criteria that are being challenged here.
+2018.18-457,0,15084,ruth_bader_ginsburg,scotus_justice,757.64,769.16,But does North Carolina tax a trust that's administered in North Carolina on the accumulated but undistributed income?
+2018.18-457,0,63117,matthew_w_sawchak,,769.16,777.52,"Only in relation to the shares of any in-state beneficiaries. And, Justice Kavanaugh, if I may, I want to follow up on one point."
+2018.18-457,0,15094,elena_kagan,scotus_justice,790.0,804.24,"So how can the trustee change the beneficiary status? What does the trustee have to do if the trustee wants to -- say, you're no longer a beneficiary? When can the trustee say that under this trust?"
+2018.18-457,0,63117,matthew_w_sawchak,,804.24,806.08,I'm not sure that the trustee can do that.
+2018.18-457,0,15094,elena_kagan,scotus_justice,806.08,820.4,"Well, I thought -- I mean, maybe I should know this, but when people say contingent beneficiary, I'm assuming that that means that she might never get the money because the trustee might read her out of the trust."
+2018.18-457,0,63117,matthew_w_sawchak,,820.4,821.64,"Your Honor, no."
+2018.18-457,0,15094,elena_kagan,scotus_justice,835.2,842.08,So what do you understand the contingency to be with respect to this particular trust? What is the contingency?
+2018.18-457,0,63117,matthew_w_sawchak,,842.08,843.04,There is none.
+2018.18-457,0,15094,elena_kagan,scotus_justice,851.36,861.76,"And what -- what, if anything, can happen to make the Kaestner not get that distribution? Or do you think the Kaestners are just going to get that distribution?"
+2018.18-457,0,63117,matthew_w_sawchak,,861.76,867.2,So the Kaestners could have died during the years in question.
+2018.18-457,0,15094,elena_kagan,scotus_justice,872.68,875.48,The trustee cannot change the beneficiaries?
+2018.18-457,0,63117,matthew_w_sawchak,,875.48,876.92,"Correct, Your Honor."
+2018.18-457,0,15094,elena_kagan,scotus_justice,876.92,878.88,Can the settlor change the beneficiaries?
+2018.18-457,0,63117,matthew_w_sawchak,,878.88,881.2,"No, my understanding is not."
+2018.18-457,0,15094,elena_kagan,scotus_justice,881.92,884.68,The beneficiaries are the beneficiaries in your view?
+2018.18-457,0,63117,matthew_w_sawchak,,884.68,885.0,Right.
+2018.18-457,0,15094,elena_kagan,scotus_justice,886.36,891.08,"So, unless they die, they're going to get this money?"
+2018.18-457,0,63117,matthew_w_sawchak,,891.08,895.64,"They are -- they're going to get this money eventually, unless they die, that's right."
+2018.18-457,0,15139,stephen_g_breyer,scotus_justice,896.28,907.72,"In -- in what shares? Is there -- do they get it -- is there a definite share that they now get no matter what in the future, or can the trustee change the shares?"
+2018.18-457,0,63117,matthew_w_sawchak,,907.72,908.12,There's --
+2018.18-457,0,15139,stephen_g_breyer,scotus_justice,908.12,910.0,Or can anyone change the shares?
+2018.18-457,0,63117,matthew_w_sawchak,,910.0,914.04,There's not a recital in the trust agreement of any shares.
+2018.18-457,0,15139,stephen_g_breyer,scotus_justice,914.04,914.44,No.
+2018.18-457,0,63117,matthew_w_sawchak,,933.32,936.04,It is possible that they'll get less or more.
+2018.18-457,0,15139,stephen_g_breyer,scotus_justice,937.6,951.24,"Then how do you know how much of the share of the trust's income in that year, the million dollars, North Carolina should tax?"
+2018.18-457,0,63117,matthew_w_sawchak,,951.24,951.96,Pro rata.
+2018.18-457,0,15139,stephen_g_breyer,scotus_justice,951.96,954.0,"What do you mean, pro rata?"
+2018.18-457,0,63117,matthew_w_sawchak,,954.0,958.24,"If there are five beneficiaries, for example, and two of them are North Carolinians."
+2018.18-457,0,15139,stephen_g_breyer,scotus_justice,958.24,958.8,"Yeah, yeah."
+2018.18-457,0,63117,matthew_w_sawchak,,958.8,961.92,Assuming that the trust instrument doesn't include any division there.
+2018.18-457,0,15139,stephen_g_breyer,scotus_justice,961.92,962.32,"Yeah, yeah."
+2018.18-457,0,63117,matthew_w_sawchak,,962.32,963.12,Forty percent.
+2018.18-457,0,15131,sonia_sotomayor,scotus_justice,963.12,963.56,But then you --
+2018.18-457,0,15139,stephen_g_breyer,scotus_justice,963.56,963.8,Ah.
+2018.18-457,0,63117,matthew_w_sawchak,,982.16,985.72,"That -- Your Honor, I'm not sure where you're getting the 1."
+2018.18-457,0,15139,stephen_g_breyer,scotus_justice,985.72,986.88,Let me make it simpler.
+2018.18-457,0,63117,matthew_w_sawchak,,1017.08,1018.76,You do have those facts right.
+2018.18-457,0,15131,sonia_sotomayor,scotus_justice,1032.76,1066.12,"But you're changing the trust instrument, because you as a state are saying the trust must give them 20 percent each, because, regardless of what the terms of the trust are, I'm going to tax you on that 20 percent even though you might get none, even though you might get more. You're still a trust, you're being charged for 20 percent because you should have given her 20 percent."
+2018.18-457,0,63117,matthew_w_sawchak,,1069.52,1074.72,"That -- you're right, Your Honor, to say there is a -- assuming nothing's in the trust instrument, there would be a full --"
+2018.18-457,0,15131,sonia_sotomayor,scotus_justice,1074.72,1076.84,"No, there is something in the trust instrument here."
+2018.18-457,0,63117,matthew_w_sawchak,,1119.48,1126.72,"That is correct, that nothing else appearing, we make the pro rata. And here's why that's fair."
+2018.18-457,0,15086,john_g_roberts_jr,scotus_justice,1142.24,1144.32,You're not taxing any of those people.
+2018.18-457,0,63117,matthew_w_sawchak,,1146.4,1148.28,We are taxing at the trust level.
+2018.18-457,0,15086,john_g_roberts_jr,scotus_justice,1153.04,1184.28,"What do you do about the problem I understand Justice Breyer's question to be getting at, which is other jurisdictions? Is there a -- an established way of allocating the tax burden? You know, if you have income from two states, they usually, you know, divvy it up according to some formula. In the situation where you get 3 -- $3 goes to North Carolina and the other number goes somewhere else, if those other jurisdictions want to tax the trust on those same funds, is there a mechanism for allocating that?"
+2018.18-457,0,63117,matthew_w_sawchak,,1184.28,1196.76,"There is, Your Honor. Under Section 105-160.4 in North Carolina, which is the credit statute, North Carolina accords a credit for taxes paid to other states, and I should --"
+2018.18-457,0,15084,ruth_bader_ginsburg,scotus_justice,1196.76,1197.84,Does it have to?
+2018.18-457,0,63117,matthew_w_sawchak,,1197.84,1198.2,I'm sorry?
+2018.18-457,0,15084,ruth_bader_ginsburg,scotus_justice,1198.2,1199.84,Does it have to to be constituted --
+2018.18-457,0,63117,matthew_w_sawchak,,1199.84,1211.96,There would come a point where the second element of Quill could become problematic in the absence of a credit. I'd like to point out what the propositions are on the other side --
+2018.18-457,0,15139,stephen_g_breyer,scotus_justice,1211.96,1217.0,"From the Chief's question, I mean, yes, you -- you take if it's other states."
+2018.18-457,0,63117,matthew_w_sawchak,,1229.48,1237.12,"The pro rata would come directly -- in a -- in a situation where, imagine, all 50 states had the same scheme --"
+2018.18-457,0,15139,stephen_g_breyer,scotus_justice,1237.12,1237.2,Uh-huh.
+2018.18-457,0,63117,matthew_w_sawchak,,1237.2,1238.92,"-- obviously, there would be beneficiary --"
+2018.18-457,0,15139,stephen_g_breyer,scotus_justice,1238.92,1241.24,They don't all have the same scheme.
+2018.18-457,0,63117,matthew_w_sawchak,,1258.12,1264.76,"In a situation where -- are you assuming in your question, Your Honor, that distribution -- actual distributions have occurred?"
+2018.18-457,0,15139,stephen_g_breyer,scotus_justice,1264.76,1268.6,Some states take on the basis of actual distributions.
+2018.18-457,0,63117,matthew_w_sawchak,,1285.4,1287.44,They don't meet to figure it out.
+2018.18-457,0,62836,neil_gorsuch,scotus_justice,1401.76,1418.8,"And, counsel, along those lines, if I'm -- if I'm understanding your position correctly, because you think that rule's inequitable, you'd have us overrule Safe Deposit and Brooke, two decisions of this Court that suggest that that's the correct rule, is that right?"
+2018.18-457,0,63117,matthew_w_sawchak,,1418.8,1420.68,"Not overrule them, Your Honor."
+2018.18-457,0,62836,neil_gorsuch,scotus_justice,1421.12,1424.72,"Well, what would you have us do with them if it's not overruling them?"
+2018.18-457,0,63117,matthew_w_sawchak,,1424.72,1432.36,"Two things, Your Honor. First of all, they can be distinguished in terms of being property tax cases versus income tax cases, because this Court --"
+2018.18-457,0,62836,neil_gorsuch,scotus_justice,1432.36,1440.08,Let's say I don't find that distinction particularly significant. It's slicing the baloney a little too thinly. Then what?
+2018.18-457,0,63117,matthew_w_sawchak,,1440.08,1450.0,"Then we would be really within the proposition of the due process part of Quill, where these are decisions that have been superseded by the movement --"
+2018.18-457,0,62836,neil_gorsuch,scotus_justice,1450.0,1450.2,Right.
+2018.18-457,0,63117,matthew_w_sawchak,,1454.76,1461.84,"They've probably, frankly, already been laid aside by other -- by the due process decisions, as this Court's noted in --"
+2018.18-457,0,62836,neil_gorsuch,scotus_justice,1461.84,1465.0,But that's a -- that's a really nice way of saying overrule them. (Laughter.)
+2018.18-457,0,62836,neil_gorsuch,scotus_justice,1465.0,1466.4,Right?
+2018.18-457,0,63117,matthew_w_sawchak,,1466.4,1469.2,They've probably already been --
+2018.18-457,0,62836,neil_gorsuch,scotus_justice,1469.2,1472.36,I've already been overruled; we just haven't said so.
+2018.18-457,0,63117,matthew_w_sawchak,,1472.36,1474.68,"That's probably right, Your Honor, and let me say why that's --"
+2018.18-457,0,62836,neil_gorsuch,scotus_justice,1474.68,1474.92,Okay.
+2018.18-457,0,63117,matthew_w_sawchak,,1478.96,1480.76,In the name of fundamental fairness because --
+2018.18-457,0,62836,neil_gorsuch,scotus_justice,1480.76,1487.24,"And -- and Justice Breyer's problems notwithstanding, that -- that fundamental fairness problem, we shouldn't take into account?"
+2018.18-457,0,63117,matthew_w_sawchak,,1487.24,1494.92,"No, there are criteria, a variety of criteria out there, and every one of them --"
+2018.18-457,0,62836,neil_gorsuch,scotus_justice,1494.92,1500.96,That's more fundamentally fair than the existing rule of this Court that's almost 100 years old?
+2018.18-457,0,63117,matthew_w_sawchak,,1500.96,1505.12,"So query whether that really is the existing rule, first of all. Those are --"
+2018.18-457,0,62836,neil_gorsuch,scotus_justice,1505.12,1508.04,"Well, right, except for the fact that we haven't overruled it, but we really have."
+2018.18-457,0,62836,neil_gorsuch,scotus_justice,1516.48,1523.96,You think it's more fair to overrule them and proceed down the track we've just illuminated with Justice Breyer than to maintain them?
+2018.18-457,0,63117,matthew_w_sawchak,,1523.96,1526.04,"Yes, Your Honor, for several reasons."
+2018.18-457,0,15131,sonia_sotomayor,scotus_justice,1548.92,1552.28,"By the way, may I throw in a third case, Hanson?"
+2018.18-457,0,63117,matthew_w_sawchak,,1552.28,1553.4,"Yes, Your Honor."
+2018.18-457,0,15131,sonia_sotomayor,scotus_justice,1553.4,1569.96,"Hanson, you would be asking us to overrule, because I don't know how you can tax somebody you have no jurisdiction over, especially if they haven't done anything like pay any money over or have no contacts with the person in your state."
+2018.18-457,0,63117,matthew_w_sawchak,,1575.08,1578.56,"Certainly, there's no need to overrule Hanson here for two --"
+2018.18-457,0,15131,sonia_sotomayor,scotus_justice,1578.56,1582.48,Why? So how do you -- the trustee is responsible for paying this tax.
+2018.18-457,0,63117,matthew_w_sawchak,,1585.04,1589.28,"The -- the taxed party is the trust, first of all, not the trustee. Two --"
+2018.18-457,0,15131,sonia_sotomayor,scotus_justice,1589.28,1592.68,So how is the trust in your state?
+2018.18-457,0,63117,matthew_w_sawchak,,1592.68,1593.88,"Pardon me, Your Honor?"
+2018.18-457,0,15131,sonia_sotomayor,scotus_justice,1593.88,1596.68,I thought the trust is represented by the trustee.
+2018.18-457,0,63117,matthew_w_sawchak,,1598.84,1600.48,The -- the trust has its presence --
+2018.18-457,0,15131,sonia_sotomayor,scotus_justice,1600.48,1602.52,It's not being administered in your state.
+2018.18-457,0,63117,matthew_w_sawchak,,1602.52,1607.24,"True, but its true owner, its central figure, is in North Carolina."
+2018.18-457,0,15131,sonia_sotomayor,scotus_justice,1608.04,1610.92,So why didn't we say that in Hanson?
+2018.18-457,0,63117,matthew_w_sawchak,,1610.92,1621.36,"So Hanson, first of all, is a situation where the burden of adjudication, by the way, not taxing, fell on the person of the trustee."
+2018.18-457,0,15131,sonia_sotomayor,scotus_justice,1623.04,1623.96,The same thing here.
+2018.18-457,0,63117,matthew_w_sawchak,,1629.68,1631.32,But it's not the trustee's money.
+2018.18-457,0,15131,sonia_sotomayor,scotus_justice,1632.76,1634.84,It wasn't in Hanson either.
+2018.18-457,0,63117,matthew_w_sawchak,,1634.84,1637.0,Hanson is not a tax case.
+2018.18-457,0,15084,ruth_bader_ginsburg,scotus_justice,1647.36,1657.96,Could North Carolina on that basis impose a property tax on the value of the trust assets because they belong to the beneficiaries?
+2018.18-457,0,63117,matthew_w_sawchak,,1657.96,1659.48,"Yes, Your Honor."
+2018.18-457,0,15084,ruth_bader_ginsburg,scotus_justice,1659.48,1662.88,You could -- you'd impose a tax on all the property in -- in the trust?
+2018.18-457,0,63117,matthew_w_sawchak,,1662.88,1679.68,If there is -- there would be -- let me -- let me revise my answer to say the analysis of property taxes for the most part is more location-based than is the analysis of income tax.
+2018.18-457,0,15084,ruth_bader_ginsburg,scotus_justice,1679.68,1684.0,But you said that the beneficiaries are the true owners.
+2018.18-457,0,63117,matthew_w_sawchak,,1689.08,1696.28,"So there would be an argument for that, certainly, but that's not this case. If I may, I'd like to reserve the balance of my time."
+2018.18-457,0,15086,john_g_roberts_jr,scotus_justice,1696.28,1704.52,I'll afford you additional rebuttal time.
+2018.18-457,0,63117,matthew_w_sawchak,,1704.52,1706.4,"Thank you, Your Honor."
+2018.18-457,0,15086,john_g_roberts_jr,scotus_justice,1706.4,1707.08,Mr. O'Neil.
+2018.18-457,1,63118,david_a_o_neil,,1707.08,1730.16,"Thank you, Mr. Chief Justice, and may it please the Court: I'd actually like to begin where Justice Ginsburg began because I think it highlights one of the key features and critical aspects of this case that the state's position ignores and that dictates the outcome. The first point is this was not really the beneficiary's money during the tax years. She didn't possess it or control it."
+2018.18-457,1,15094,elena_kagan,scotus_justice,1744.84,1747.12,Was it the trustee's money?
+2018.18-457,1,63118,david_a_o_neil,,1747.12,1748.84,It was the trustee's money.
+2018.18-457,1,15094,elena_kagan,scotus_justice,1748.84,1750.6,He couldn't do any of those things.
+2018.18-457,1,63118,david_a_o_neil,,1750.6,1758.8,"He is bound, of course, by a fiduciary duty, but within those broad limits, he does exercise the possession and control that, as this Court has recognized for decades --"
+2018.18-457,1,15094,elena_kagan,scotus_justice,1758.8,1764.88,He possesses it with a fiduciary duty to -- to increase that money for her.
+2018.18-457,1,63118,david_a_o_neil,,1764.88,1772.84,He possesses it and controls it with a duty to act out of loyalty for a group of beneficiaries of which she is part.
+2018.18-457,1,15094,elena_kagan,scotus_justice,1786.92,1789.64,So that she eventually gets to enjoy it.
+2018.18-457,1,63118,david_a_o_neil,,1789.64,1801.2,"One of the fundamental problems of this tax, as the Court noted in its previous questioning, is that it's premised on the prediction that she will receive this money."
+2018.18-457,1,15068,samuel_a_alito_jr,scotus_justice,1815.8,1817.04,So -- so what if the trust --
+2018.18-457,1,15086,john_g_roberts_jr,scotus_justice,1817.04,1821.44,"Well, but they know -- they know what she's getting or has gotten in a particular year."
+2018.18-457,1,63118,david_a_o_neil,,1834.32,1837.4,"She's gotten zero, and that's a critical point for this case."
+2018.18-457,1,15094,elena_kagan,scotus_justice,1846.24,1876.84,"Well, she's seeing a substantial asset of hers increase in value in the bank, and even if she can't touch it right now, she's getting richer and richer because of it, and that's influencing her life choices because she knows she's eventually going to enjoy that money. And if you compare her to -- I mean, where -- who are the three states that could tax this? One is the state where the trustee lives, one is the state where the trust administration is, and one is the state where the beneficiary is."
+2018.18-457,1,63118,david_a_o_neil,,1886.36,1891.44,"Justice Kagan, the premise of the question is that this is a source of wealth for her."
+2018.18-457,1,15094,elena_kagan,scotus_justice,1898.96,1916.28,"Would your position be different if she were -- if -- if the -- if the trustee did not have this discretion as to shares? Suppose that the -- the trust instrument simply said, here are the five beneficiaries."
+2018.18-457,1,63118,david_a_o_neil,,1929.84,1935.0,"If the trust instrument gave her a vested current right to the income, then we wouldn't --"
+2018.18-457,1,15094,elena_kagan,scotus_justice,1935.0,1940.92,"Not a current right. She's going to have to wait until she's whatever years old, 30, 40, whatever."
+2018.18-457,1,63118,david_a_o_neil,,1945.6,1953.6,"No, that -- that case would not be different because it would still be based on the speculative possibility that she will ultimately receive the money."
+2018.18-457,1,15139,stephen_g_breyer,scotus_justice,1953.6,1958.2,"We weren't speculative; that is, imagine it's not."
+2018.18-457,1,63118,david_a_o_neil,,2007.12,2014.24,She is only worth more money that's measured by the accumulation of the trust if she is guaranteed to receive that income.
+2018.18-457,1,15139,stephen_g_breyer,scotus_justice,2014.24,2015.92,"Well, let's imagine she is."
+2018.18-457,1,63118,david_a_o_neil,,2049.88,2051.32,I think it -- it's very difficult --
+2018.18-457,1,15139,stephen_g_breyer,scotus_justice,2051.32,2053.48,How does tax law deal with this?
+2018.18-457,1,63118,david_a_o_neil,,2053.48,2057.92,"Tax law deals with it based on the principle of possession, control, and receipt."
+2018.18-457,1,15094,elena_kagan,scotus_justice,2062.68,2090.16,"But, I mean, just what is the theoretical justification for, say, all -- all of these measures are imperfect. And -- and you can say with respect to any of these states, well, why do they get to tax undistributed income? But what you're saying is that, as between two states, Connecticut and North Carolina, we should put the taxing authority for that undistributed income growth in Connecticut."
+2018.18-457,1,63118,david_a_o_neil,,2106.4,2111.44,"Again, the premise is that she's getting richer, which assumes that she will get --"
+2018.18-457,1,15094,elena_kagan,scotus_justice,2111.44,2114.68,She's definitely getting more richer than the trustee is.
+2018.18-457,1,63118,david_a_o_neil,,2116.84,2132.88,"The only thing we know at time X when this tax is imposed is that the trustee possesses and controls the property. As you pointed out, he has a duty of loyalty, so he can't spend it on himself and he can't give it to his friends. But, within those limits, he is the owner of the property."
+2018.18-457,1,17766,brett_m_kavanaugh,scotus_justice,2136.72,2175.76,"If -- I thought we didn't need to answer the question raised by Justice Kagan's previous hypothetical, and just raised by you, which is, if we did know, in other words, if it were guaranteed or certain, that might or might not be a different case. But this case is one where we don't know based on the nature of the trust contingent or discretionary beneficiary, and for that case, the answer I thought you were arguing should be that the state where the beneficiary resides cannot tax, but we could leave open the question raised by Justice Kagan's hypothetical. Is that not right?"
+2018.18-457,1,63118,david_a_o_neil,,2175.76,2176.8,You -- you could.
+2018.18-457,1,15086,john_g_roberts_jr,scotus_justice,2190.96,2191.52,"Well, but if we leave --"
+2018.18-457,1,15084,ruth_bader_ginsburg,scotus_justice,2191.52,2193.4,Doesn't that require her consent? Isn't that --
+2018.18-457,1,63118,david_a_o_neil,,2193.4,2197.16,"Under New York law, it would not require her consent."
+2018.18-457,1,15084,ruth_bader_ginsburg,scotus_justice,2208.36,2214.8,But if she decided at age 40 she wanted -- she wanted all the property?
+2018.18-457,1,63118,david_a_o_neil,,2214.8,2231.12,"If she decided that, then it would be in the trustee's discretion to decide whether, acting out of loyalty with her, for her, and in good faith, whether her interests were better served by an extension of that trust and a decanting of that property into a new trust."
+2018.18-457,1,17766,brett_m_kavanaugh,scotus_justice,2231.12,2241.2,"What states do something like this? In other words, where it's discretionary or contingent beneficiary and impose the tax where the trust's trustee is in another state?"
+2018.18-457,1,63118,david_a_o_neil,,2241.2,2243.12,"So, Justice Kavanaugh, you are correct about that."
+2018.18-457,1,15131,sonia_sotomayor,scotus_justice,2273.48,2275.24,You're adding differently than I am.
+2018.18-457,1,63118,david_a_o_neil,,2278.4,2280.68,Georgia and North Carolina.
+2018.18-457,1,15131,sonia_sotomayor,scotus_justice,2280.68,2282.32,I thought there were four states.
+2018.18-457,1,63118,david_a_o_neil,,2282.8,2284.16,We believe there are three.
+2018.18-457,1,15131,sonia_sotomayor,scotus_justice,2284.16,2284.84,So just the --
+2018.18-457,1,63118,david_a_o_neil,,2284.84,2285.64,We believe there are three.
+2018.18-457,1,15094,elena_kagan,scotus_justice,2285.64,2289.56,"Mr. O'Neil, do you think that New York can tax this income?"
+2018.18-457,1,63118,david_a_o_neil,,2289.56,2293.92,"For periods of time in which the trust was administered in New York, yes, New York could tax the income."
+2018.18-457,1,15094,elena_kagan,scotus_justice,2293.92,2296.68,So the state of administration can tax the income?
+2018.18-457,1,63118,david_a_o_neil,,2296.68,2297.64,"Yes, Justice Kagan."
+2018.18-457,1,15094,elena_kagan,scotus_justice,2297.64,2299.6,And the state of the trustee can tax the income?
+2018.18-457,1,63118,david_a_o_neil,,2299.6,2300.2,That's correct.
+2018.18-457,1,15094,elena_kagan,scotus_justice,2300.2,2310.16,And the only state that can't tax the income is the state that is providing services to the person who's going to benefit from the income growth?
+2018.18-457,1,63118,david_a_o_neil,,2310.16,2315.4,The state where the beneficiary resides is really no differently situated from any other state.
+2018.18-457,1,15094,elena_kagan,scotus_justice,2328.8,2359.96,"But, meanwhile, it's -- I mean, well, if she moves from state to state to state, then each state for those particular years where she lives in the state can tax it, but eventually she's going -- and I know you say, well, maybe she won't, and -- but you answered my hypothetical, where you said, even if there were no contingency, the state of residency couldn't tax. For these tax years, North Carolina is providing services to a person who and the only person who is going to benefit from the income growth of this trust."
+2018.18-457,1,63118,david_a_o_neil,,2359.96,2362.04,"First, I want --"
+2018.18-457,1,15094,elena_kagan,scotus_justice,2362.04,2363.64,"And, again, nothing's perfect."
+2018.18-457,1,63118,david_a_o_neil,,2372.12,2382.12,"First, I want to make sure I was clear that if there is no contingency, if the beneficiary has an absolute right to the income in a particular year, the state of residence absolutely can tax that."
+2018.18-457,1,15094,elena_kagan,scotus_justice,2382.12,2383.64,I wasn't talking about contingency.
+2018.18-457,1,63118,david_a_o_neil,,2424.12,2446.8,"I think you actually have to look at what benefits are being provided. So during her tax -- the tax years, during the years in which she's living in North Carolina, she is paying income tax on all of the money she actually receives for the benefit of being a North Carolina citizen, just as every other citizen does. Now she is not being taxed on income that she doesn't have, that she can't demand, that she has no right to."
+2018.18-457,1,15094,elena_kagan,scotus_justice,2446.8,2451.8,"Yeah, Mr. O'Neil, if I can say, I mean, suppose she's making $100,000 a year."
+2018.18-457,1,63118,david_a_o_neil,,2464.0,2467.32,"That rationale, though, it's not limited to trusts."
+2018.18-457,1,15068,samuel_a_alito_jr,scotus_justice,2493.56,2500.04,But I thought this case was simpler than your argument seems to be making it.
+2018.18-457,1,63118,david_a_o_neil,,2519.64,2521.72,So that's exactly right. I was -- that's exactly right.
+2018.18-457,1,15084,ruth_bader_ginsburg,scotus_justice,2521.72,2524.8,"What -- what is the uncertainty, other than she has to stay alive?"
+2018.18-457,1,63118,david_a_o_neil,,2524.8,2529.68,She has to stay alive. The assets could be dissipated because of poor investments.
+2018.18-457,1,15084,ruth_bader_ginsburg,scotus_justice,2537.4,2540.56,"I thought she was the first-line beneficiary, the primary beneficiary?"
+2018.18-457,1,63118,david_a_o_neil,,2540.56,2560.16,"She's among a group of primary beneficiaries that at the point in time of the tax years included her and her children. Of course, something could happen to her children, and the money would then need to be devoted to that purpose. But, Justice Ginsburg, even if it is very likely, even if we assume it's very likely that this money will go to her, it is not hers until it goes to her."
+2018.18-457,1,17766,brett_m_kavanaugh,scotus_justice,2571.88,2574.16,She might be in a different state when it goes to her.
+2018.18-457,1,63118,david_a_o_neil,,2576.16,2577.6,She may well live in a different state.
+2018.18-457,1,17766,brett_m_kavanaugh,scotus_justice,2579.12,2584.0,"In other words, when she gets the benefit of the money, if she ever gets the benefit --"
+2018.18-457,1,63118,david_a_o_neil,,2584.0,2584.28,Right.
+2018.18-457,1,17766,brett_m_kavanaugh,scotus_justice,2584.28,2587.76,"-- if the beneficiary ever gets the benefit, they might not live in North Carolina."
+2018.18-457,1,63118,david_a_o_neil,,2587.76,2596.56,"That's exactly right. And if she no longer lives in North Carolina, then North Carolina, with no legitimate basis whatsoever, will have been -- have taken property from the corpus of the trust."
+2018.18-457,1,15086,john_g_roberts_jr,scotus_justice,2596.56,2606.32,You -- do I understand you to say that the trust can be taxed in the years -- by North Carolina in the years when it actually distributes money to the North Carolinian?
+2018.18-457,1,63118,david_a_o_neil,,2606.32,2607.32,That's correct.
+2018.18-457,1,15086,john_g_roberts_jr,scotus_justice,2607.32,2614.64,"Well, but it won't happen that way, because the North Carolina resident is going to be taxed on that money by North Carolina as income."
+2018.18-457,1,63118,david_a_o_neil,,2614.64,2620.64,"So, if the question is can the beneficiary be taxed on the distribution in the year it's actually made, the answer is yes."
+2018.18-457,1,15086,john_g_roberts_jr,scotus_justice,2620.64,2620.84,Sure.
+2018.18-457,1,63118,david_a_o_neil,,2621.12,2623.92,"Can the trust? No, at that point, it won't be trust property."
+2018.18-457,1,17766,brett_m_kavanaugh,scotus_justice,2649.76,2655.16,"And throw-back taxes are -- are permissible, constitutional? You're not challenging those in any way?"
+2018.18-457,1,63118,david_a_o_neil,,2655.16,2655.6,We are not.
+2018.18-457,1,15139,stephen_g_breyer,scotus_justice,2661.92,2687.8,"Are there other instances in tax law where a resident of state B -- state A, is taxed by state A, on the basis of an increase of value of property that is located in state B? In other words, I own some property, a piece of land in New Hampshire or let's say Maine, and I am a resident of Florida or North Carolina."
+2018.18-457,1,63118,david_a_o_neil,,2702.88,2709.28,The state where the -- where the owner lives in that hypothetical could tax on the income received from the property.
+2018.18-457,1,15139,stephen_g_breyer,scotus_justice,2709.28,2711.04,"No, I understand. I'm not asking that."
+2018.18-457,1,63118,david_a_o_neil,,2711.04,2711.28,Yeah.
+2018.18-457,1,15139,stephen_g_breyer,scotus_justice,2711.28,2723.52,I'm asking whether -- to repeat what I said -- a North Carolina resident owns a piece of land in Maine.
+2018.18-457,1,63118,david_a_o_neil,,2735.52,2739.0,If the North Carolina resident has a current right --
+2018.18-457,1,15139,stephen_g_breyer,scotus_justice,2739.0,2745.12,"Well, of course, she has a current right to go up to Maine and sit on her own land."
+2018.18-457,1,63118,david_a_o_neil,,2745.12,2750.56,"Well, under this Court's decision, North Carolina can't tax property that's located in a different state."
+2018.18-457,1,15094,elena_kagan,scotus_justice,2752.0,2753.44,Can't tax real property.
+2018.18-457,1,63118,david_a_o_neil,,2753.44,2755.2,Can't tax real property. So --
+2018.18-457,1,15094,elena_kagan,scotus_justice,2755.2,2757.88,"Right, but suppose somebody owns a stock portfolio."
+2018.18-457,1,63118,david_a_o_neil,,2757.88,2758.68,Yes.
+2018.18-457,1,15094,elena_kagan,scotus_justice,2759.16,2764.68,"Now mostly people -- you know, mostly we wait until somebody sells the stock."
+2018.18-457,1,63118,david_a_o_neil,,2764.68,2765.64,That's correct.
+2018.18-457,1,15094,elena_kagan,scotus_justice,2766.84,2767.56,But we could --
+2018.18-457,1,63118,david_a_o_neil,,2767.56,2768.32,We could impose --
+2018.18-457,1,15094,elena_kagan,scotus_justice,2768.32,2769.6,-- do it otherwise.
+2018.18-457,1,63118,david_a_o_neil,,2769.6,2778.72,A state could enact a wealth tax if the -- if the person that they are taxing has a current vested right to that and it's something that they could sell.
+2018.18-457,1,15131,sonia_sotomayor,scotus_justice,2809.84,2820.8,"I thought in your brief you conceded that if this trust was a demand trust, the beneficiary could say: I want X, that that could be taxed by North Carolina?"
+2018.18-457,1,63118,david_a_o_neil,,2820.8,2823.84,"That's correct, whether she actually receives it or not."
+2018.18-457,1,15131,sonia_sotomayor,scotus_justice,2823.84,2856.76,"So the thing that Justice Kavanaugh and Justice Alito were reserving, and I assume Justice Kagan, was on the question of what happens if she is a guaranteed distributor -- distributee, meaning she can't call it today, but at age 40 or at the end of the trust life, at some point, she's going to be the 100 percent owner or going to be a fixed 10 percent owner, whatever it might be, they're saying we should reserve on that question?"
+2018.18-457,1,63118,david_a_o_neil,,2856.76,2858.6,I think that would be a different case.
+2018.18-457,1,15131,sonia_sotomayor,scotus_justice,2868.88,2869.2,All right.
+2018.18-457,1,63118,david_a_o_neil,,2891.84,2925.96,"If the beneficiary had a vested right in a certain percentage of the trust, then we would treat her as having a current interest in that trust. So I would say they still could not tax her for the income, but that's a situation in which -- that would implicate Justice Breyer's question where, if she has a current right to that, the state could, if it wanted, impose a wealth tax and tax her for that portion of it because that would be money that is in her hands currently and that she could sell, she could promise to someone else. But this trust agreement is critically different in two respects."
+2018.18-457,1,17766,brett_m_kavanaugh,scotus_justice,2990.8,2996.96,"Well, but they're assuming she or people in that position are going to move before that happens."
+2018.18-457,1,63118,david_a_o_neil,,2996.96,2997.56,States have --
+2018.18-457,1,17766,brett_m_kavanaugh,scotus_justice,2997.56,2998.0,To -- to pick up on --
+2018.18-457,1,63118,david_a_o_neil,,2998.0,2998.12,Right.
+2018.18-457,1,17766,brett_m_kavanaugh,scotus_justice,2998.12,2999.2,-- Justice Kagan's point.
+2018.18-457,1,63118,david_a_o_neil,,2999.2,2999.24,Yeah.
+2018.18-457,1,17766,brett_m_kavanaugh,scotus_justice,2999.24,3000.8,"That's -- that's the issue, right?"
+2018.18-457,1,63118,david_a_o_neil,,3000.8,3001.2,"Well, state --"
+2018.18-457,1,17766,brett_m_kavanaugh,scotus_justice,3001.2,3011.72,"The real-world issue is she's not going to be around in North Carolina or -- and I don't want to talk about particular people, but people in this position won't be around in the state because they'll go to Florida or Texas or Nevada."
+2018.18-457,1,63118,david_a_o_neil,,3011.72,3014.52,So states have all the tools they need to address that.
+2018.18-457,1,17766,brett_m_kavanaugh,scotus_justice,3019.44,3023.08,"A sham change, but a lot of people can change residence, as you well know."
+2018.18-457,1,63118,david_a_o_neil,,3026.76,3027.24,Including --
+2018.18-457,1,17766,brett_m_kavanaugh,scotus_justice,3027.24,3029.44,Come to our state. Don't pay the income tax.
+2018.18-457,1,63118,david_a_o_neil,,3029.44,3029.96,Right.
+2018.18-457,1,17766,brett_m_kavanaugh,scotus_justice,3031.84,3033.76,That's what North Carolina's worried about.
+2018.18-457,1,63118,david_a_o_neil,,3033.76,3034.28,Right.
+2018.18-457,1,15139,stephen_g_breyer,scotus_justice,3051.04,3081.04,"Well, the interesting question here -- I guess we don't -- and it's -- this doesn't happen, it hasn't happened that way, except maybe in North Carolina -- no, not even North Carolina. State A decides that its current residents will be taxed on the basis of their wealth, and it includes in wealth increased value of out-of-state property. Now we know, if it's real property, they can't do it."
+2018.18-457,1,63118,david_a_o_neil,,3086.0,3086.16,If --
+2018.18-457,1,15139,stephen_g_breyer,scotus_justice,3086.16,3088.0,"And it could happen, you know."
+2018.18-457,1,63118,david_a_o_neil,,3118.88,3121.4,You -- you have that -- you have that correct.
+2018.18-457,1,15094,elena_kagan,scotus_justice,3139.48,3145.8,"Well, the fiduciary shall pay the tax, but wouldn't the state say that the tax is on the trust itself?"
+2018.18-457,1,63118,david_a_o_neil,,3145.8,3151.6,"The state could say that, but -- but that ignores the practical operation of the tax."
+2018.18-457,1,15086,john_g_roberts_jr,scotus_justice,3178.08,3184.6,Does it matter to the trustee in administration of the trust where the money's going to go?
+2018.18-457,1,63118,david_a_o_neil,,3184.6,3190.44,The trustee has a duty of loyalty to act in the best interests of the trust -- of the trust beneficiaries.
+2018.18-457,1,15086,john_g_roberts_jr,scotus_justice,3190.44,3194.56,"No, but, I mean, let's say one of the children is in North Carolina; the other's in Pennsylvania."
+2018.18-457,1,63118,david_a_o_neil,,3199.48,3200.64,"No, no."
+2018.18-457,1,15094,elena_kagan,scotus_justice,3225.56,3236.12,Could -- could you just say a few words as to what the theoretical justification is for why New York and Connecticut can tax the growth of these assets?
+2018.18-457,1,63118,david_a_o_neil,,3236.12,3259.0,"This Court supplied the theoretical basis for that in the Greenough case, and the basis is that, for -- for tax purposes and for viewing who is the actual owner, control and possession equals ownership. So the state where the trustee owns the property, in this case Connecticut, protects the trustee's ownership of those -- of that property."
+2018.18-457,1,15084,ruth_bader_ginsburg,scotus_justice,3279.96,3285.48,"You say there are two states, the one where the trustee resides and the one where the trust is administered."
+2018.18-457,1,63118,david_a_o_neil,,3285.48,3288.28,"That's correct, Justice Ginsburg."
+2018.18-457,1,15084,ruth_bader_ginsburg,scotus_justice,3289.32,3293.92,Could both impose a tax? And I guess they have credit mechanisms.
+2018.18-457,1,63118,david_a_o_neil,,3293.92,3307.36,"That would be a separate -- that's a separate Commerce Clause problem, whether there are -- there's allocation, whether they're internally inconsistent. I would -- I would point out that, in fact, North Carolina says it provides allocation."
+2018.18-457,1,17766,brett_m_kavanaugh,scotus_justice,3316.84,3328.52,What about your colleague's argument that the precedent which you say would have to be upended here has already been overturned in some fashion or another? Can you respond to that?
+2018.18-457,1,63118,david_a_o_neil,,3328.52,3340.52,"Safe Deposit, Brooke, Guaranty Trust, all turn on the same principle of actual possession and control and look at the reality of the relationships among the trust -- trust participants."
+2018.18-457,1,15086,john_g_roberts_jr,scotus_justice,3434.56,3439.2,"Thank you, counsel. Five minutes, Mr. Sawchak."
+2018.18-457,2,63117,matthew_w_sawchak,,3439.2,3467.84,"Thank you, Your Honor. Just to begin with first principles, this is a due process challenge to a state tax on the proposition that beneficiary contacts, beneficiary residency categorically doesn't count. Now many members of the Court have raised questions about the amount that can be taxed."
+2018.18-457,2,15084,ruth_bader_ginsburg,scotus_justice,3506.24,3511.0,What do you do with Mr. O'Neil's canonical case of Hanson against Denckla?
+2018.18-457,2,63117,matthew_w_sawchak,,3511.0,3514.32,"Two major points I'd make about Hanson, Your Honor."
+2018.18-457,2,15084,ruth_bader_ginsburg,scotus_justice,3526.92,3537.4,What kind of burden was on the trustee? That was a fight between three sisters for the ownership of the settlor's assets.
+2018.18-457,2,63117,matthew_w_sawchak,,3537.4,3538.48,"It was, Your Honor."
+2018.18-457,2,15084,ruth_bader_ginsburg,scotus_justice,3547.32,3555.36,I thought that was just because Florida decided to make the -- the Delaware trustee an indispensable party.
+2018.18-457,2,63117,matthew_w_sawchak,,3555.36,3556.36,That's correct.
+2018.18-457,2,62836,neil_gorsuch,scotus_justice,3617.96,3625.04,"Well, we've never suggested, though, that tax jurisdiction exceeds adjudicative jurisdiction, have we? It's usually the other way around."
+2018.18-457,2,63117,matthew_w_sawchak,,3625.04,3628.8,"So the Court, I don't think, has made a directional statement one way or the other."
+2018.18-457,2,62836,neil_gorsuch,scotus_justice,3629.64,3634.84,Are you aware of a case where we've said that tax jurisdiction is broader than adjudicative jurisdiction?
+2018.18-457,2,63117,matthew_w_sawchak,,3634.84,3635.64,I'm not.
+2018.18-457,2,15086,john_g_roberts_jr,scotus_justice,3713.36,3714.36,"Thank you, counsel."

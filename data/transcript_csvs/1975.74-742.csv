@@ -1,0 +1,98 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1975.74-742,0,15073,warren_e_burger,scotus_justice,0.0,12.168,"We will hear arguments first this morning in 74-742, Foremost-McKesson, Inc. against Provident Securities Co."
+1975.74-742,0,36355,morton_moskin,,15.264,18.709,Mr. Chief Justice and may it please the Court.
+1975.74-742,0,15073,warren_e_burger,scotus_justice,255.293,260.207,You are speaking now of the seven days between the 21st and the 28th?
+1975.74-742,0,36355,morton_moskin,,260.207,268.974,"Yes, Your Honor and we concede that had that liquidating distribution taken place before the 21st there would not be Section 16 (b) liability."
+1975.74-742,0,15045,harry_a_blackmun,scotus_justice,428.883,430.527,What page did you say that was?
+1975.74-742,0,36355,morton_moskin,,430.527,440.981,"That last was an affidavit at page A74, Mr. Dillon Warren’s affidavit."
+1975.74-742,0,15141,william_h_rehnquist,scotus_justice,736.404,739.937,How would that be?
+1975.74-742,0,36355,morton_moskin,,739.937,745.422,"The statute defines directors, officers, and 10% beneficial owners as fiduciaries."
+1975.74-742,0,15141,william_h_rehnquist,scotus_justice,746.12,750.156,You are talking about a director or someone separately defined as --
+1975.74-742,0,36355,morton_moskin,,750.156,754.758,"Yes, Mr. Justice Rehnquist."
+1975.74-742,0,15141,william_h_rehnquist,scotus_justice,754.758,764.92,"Will you say in a factual situation such as ours, are you suggesting that we ought to have a number of case by case analysis of these things?"
+1975.74-742,0,36355,morton_moskin,,764.92,765.631,"I am not, Your Honor."
+1975.74-742,0,15141,william_h_rehnquist,scotus_justice,776.787,779.211,That certainly does not seem what Congress had in mind.
+1975.74-742,0,36355,morton_moskin,,780.654,789.298,I believe you are absolutely correct and I agree with that conclusion.
+1975.74-742,0,15141,william_h_rehnquist,scotus_justice,850.235,857.154,"Of course, if the sale were deferred so that it took place in seven months rather than six, there would be no liability?"
+1975.74-742,0,36355,morton_moskin,,857.154,857.812,That is true.
+1975.74-742,0,15119,lewis_f_powell_jr,scotus_justice,987.722,1001.684,"Mr. Moskin, I suppose you are coming to this, but why do you think the statute through the proviso draws a distinction between a 10% holder and an officer and a director?"
+1975.74-742,0,36355,morton_moskin,,1001.684,1015.435,"I think the statute draws that distinction, Mr. Justice Powell, because there is some difference between a holder of something under 10%, be it 1 or 8 or 9 and the Congress said 10, and a director or officer."
+1975.74-742,0,15119,lewis_f_powell_jr,scotus_justice,1065.614,1068.688,But the statute does make a distinction between --
+1975.74-742,0,36355,morton_moskin,,1068.688,1069.504,Absolutely.
+1975.74-742,0,15119,lewis_f_powell_jr,scotus_justice,1069.504,1073.166,"-- the security holder on the hand, the officer and director on the other?"
+1975.74-742,0,15119,lewis_f_powell_jr,scotus_justice,1108.198,1114.612,"Right, but the basic purpose of the Act is to reach people who have inside information."
+1975.74-742,0,36355,morton_moskin,,1125.395,1127.473,"Well, I would answer that in several ways."
+1975.74-742,0,15073,warren_e_burger,scotus_justice,1192.687,1201.545,Would you have had to have inside information to draw that inference from the cash picture here?
+1975.74-742,0,36355,morton_moskin,,1201.545,1202.363,Would you have had to?
+1975.74-742,0,15073,warren_e_burger,scotus_justice,1210.863,1216.411,But it is certainly an inference which any sophisticated businessman could have drawn?
+1975.74-742,0,36355,morton_moskin,,1216.411,1222.008,If he knew the nature of the assets that were transferred from Provident to Foremost.
+1975.74-742,0,15073,warren_e_burger,scotus_justice,1222.008,1225.434,"That would not be necessarily inside information though, would it?"
+1975.74-742,0,36355,morton_moskin,,1225.434,1227.269,"No, it would not."
+1975.74-742,0,15119,lewis_f_powell_jr,scotus_justice,1227.269,1243.657,"Mr. Moskin, if you were counsel to a corporation that had a 10% stockholder not represented on the Board, would you advise the corporation to make any information available to that 10% stockholder that was not available to all stockholders?"
+1975.74-742,0,36355,morton_moskin,,1243.657,1245.435,"Not at this point in time, Your Honor, I would not."
+1975.74-742,0,15119,lewis_f_powell_jr,scotus_justice,1245.435,1246.69,Not in light of 10 (b) (5)?
+1975.74-742,0,36355,morton_moskin,,1246.69,1261.394,"Not in light, but I would however, and have any number of times advised a client in that position that he had better not sell within six months of that purchase because if he did, it was my opinion and remains my opinion that he would be liable for any profit he realized.."
+1975.74-742,0,15119,lewis_f_powell_jr,scotus_justice,1261.394,1263.958,"That is a different question entirely though, is it not?"
+1975.74-742,0,36355,morton_moskin,,1263.958,1264.907,A different question.
+1975.74-742,0,15119,lewis_f_powell_jr,scotus_justice,1264.907,1268.331,"Right, that is the question before us here?"
+1975.74-742,0,36355,morton_moskin,,1268.331,1268.907,It is indeed.
+1975.74-742,0,15119,lewis_f_powell_jr,scotus_justice,1268.907,1274.138,I see.
+1975.74-742,0,36355,morton_moskin,,1274.138,1281.781,I am not alone in contending that a construction other than the one for which I contend would destroy the effectiveness of the statute.
+1975.74-742,0,15045,harry_a_blackmun,scotus_justice,1285.723,1294.66,"Mr. Moskin, was it not this entire transaction one for the primary benefit of Foremost in its convenience?"
+1975.74-742,0,36355,morton_moskin,,1294.66,1301.389,I think you are alluding to the fact that the negotiations resulted in securities rather than cash being transferred in exchange for the assets.
+1975.74-742,0,15045,harry_a_blackmun,scotus_justice,1333.754,1339.659,"It is a little strange for the fiduciary relationship, however, to run the Foremost, is it not when it is --"
+1975.74-742,0,36355,morton_moskin,,1339.659,1340.915,"No, I think not, Your Honor."
+1975.74-742,0,15045,harry_a_blackmun,scotus_justice,1397.588,1404.693,"Well, I guess I am having the same trouble with some of the others indicated as to the source of the inside information here?"
+1975.74-742,0,36355,morton_moskin,,1404.693,1416.828,Let me say this that all of the history of the cases under the statute says that one presumes the misuse of inside information except in the so-called unorthodox transaction.
+1975.74-742,0,15141,william_h_rehnquist,scotus_justice,1481.209,1486.617,But you are asking us to resolve an ambiguity in the statute.
+1975.74-742,0,36355,morton_moskin,,1504.34,1509.76,"It is not unreasonable, but I am suggesting it is clearly within the statute because it is clearly a purchase and clearly a sale."
+1975.74-742,0,15141,william_h_rehnquist,scotus_justice,1541.489,1550.746,"Okay, but Stella was the other end of the six-month period, was it not?"
+1975.74-742,0,36355,morton_moskin,,1550.746,1552.321,It was the sale.
+1975.74-742,0,15141,william_h_rehnquist,scotus_justice,1552.321,1562.906,"Well, then the reasoning that Judge Kaufman used at any rate was applicable to the other end of the six-months, but you have got an Eighth Circuit case."
+1975.74-742,0,36355,morton_moskin,,1565.867,1568.324,The Second Circuit has decided this question at least three times.
+1975.74-742,0,15141,william_h_rehnquist,scotus_justice,1574.2,1581.61,"What do you have besides a Second and the Eighth Circuit, granted that the Eight Circuit as well as the Second is a very respectable Court?"
+1975.74-742,0,36355,morton_moskin,,1581.61,1584.434,Do I need more?
+1975.74-742,0,15043,potter_stewart,scotus_justice,1584.434,1587.814,"You have this case in the Ninth Circuit and now, is there not a recent Seventh Circuit?"
+1975.74-742,0,36355,morton_moskin,,1587.814,1588.558,"Yes, the Seventh Circuit --"
+1975.74-742,0,15043,potter_stewart,scotus_justice,1588.558,1599.059,"Decision against you, so you do not have this unbroken line of consistent Court of Appeals authority of the kind that was referred to in Mr. Justice Rehnquist’s opinion in Blue Chip, do you?"
+1975.74-742,0,36355,morton_moskin,,1599.059,1600.524,"Well, we did until the Ninth Circuit decision."
+1975.74-742,0,15043,potter_stewart,scotus_justice,1600.524,1601.481,Until recently?
+1975.74-742,0,36355,morton_moskin,,1601.481,1603.249,Yes.
+1975.74-742,0,15119,lewis_f_powell_jr,scotus_justice,1603.249,1610.808,"Mr. Moskin, I know your time is running short, but I am interested in the date of sale question in this case."
+1975.74-742,0,36355,morton_moskin,,1614.493,1616.048,"I will do that now, Your Honor."
+1975.74-742,0,15119,lewis_f_powell_jr,scotus_justice,1665.836,1670.117,"You are really not suggesting that the market out, as you call it, is meaningless, are you?"
+1975.74-742,0,36355,morton_moskin,,1670.117,1675.706,It is meaningless in 99.4% of the cases when underwriting agreements are signed.
+1975.74-742,0,15119,lewis_f_powell_jr,scotus_justice,1675.706,1679.086,You have testified as to your experience and now I will testify as to mine.
+1975.74-742,0,36355,morton_moskin,,1681.798,1687.232,"Well, that is the 0.6% that I was describing, Your Honor.[Laughter]"
+1975.74-742,0,15119,lewis_f_powell_jr,scotus_justice,1687.232,1708.76,"Well, your answer is that although they are valid conditions to the obligation of the underwriters to buy and although the underwriting agreement states that the date of purchase shall be the 28th, that because these conditions are extremely unlikely to happen, nevertheless, the sale occurred on October 21?"
+1975.74-742,0,36355,morton_moskin,,1708.76,1709.843,That is my answer.
+1975.74-742,0,15119,lewis_f_powell_jr,scotus_justice,1709.843,1709.916,Right.
+1975.74-742,0,36355,morton_moskin,,1709.916,1713.703,"And I must say, it was also Judge Wallace’s answer in the Ninth Circuit."
+1975.74-742,0,15073,warren_e_burger,scotus_justice,1770.746,1772.692,Your time is almost up.
+1975.74-742,0,36355,morton_moskin,,1774.963,1777.309,I will do that if I may.
+1975.74-742,0,15073,warren_e_burger,scotus_justice,1807.439,1811.616,"Very well, Mr. Moskin."
+1975.74-742,1,37114,noble_k_gregory,,1813.311,1817.957,Mr. Chief Justice and may it please the Court.
+1975.74-742,1,15043,potter_stewart,scotus_justice,2349.742,2353.385,Who were in fact beneficial owners of Provident?
+1975.74-742,1,37114,noble_k_gregory,,2353.385,2354.99,"Heirs of the Crocker estate, Your Honor."
+1975.74-742,1,15043,potter_stewart,scotus_justice,2354.99,2358.607,Including Mr. Frederick C. Whitman?
+1975.74-742,1,37114,noble_k_gregory,,2358.607,2360.171,I do not recall the name.
+1975.74-742,1,15073,warren_e_burger,scotus_justice,2734.855,2742.566,"When were the conditions met, at what point after October 21?"
+1975.74-742,1,37114,noble_k_gregory,,2742.566,2753.753,"The conditions were inexistent until the actual transfer of the debentures under the underwriting, Your Honor because there was that condition."
+1975.74-742,1,15140,william_j_brennan_jr,scotus_justice,2774.072,2776.282,That was October 24 --
+1975.74-742,1,37114,noble_k_gregory,,2776.282,2777.36,I believe 24 was when --
+1975.74-742,1,15140,william_j_brennan_jr,scotus_justice,2777.36,2782.335,"And that was pursuant to, as I understand it, liquidating resolution of October 13, was it?"
+1975.74-742,1,37114,noble_k_gregory,,2782.335,2783.362,"That is right, Your Honor."
+1975.74-742,1,15140,william_j_brennan_jr,scotus_justice,2783.362,2788.53,"That preceded the actual agreement, the underwriting agreement which was October 21?"
+1975.74-742,1,37114,noble_k_gregory,,2788.53,2789.353,That is correct.
+1975.74-742,1,15140,william_j_brennan_jr,scotus_justice,2789.353,2794.417,"nd then on October 24, the liquidating resolution was executed, is that it?"
+1975.74-742,1,37114,noble_k_gregory,,2794.417,2804.077,"That is correct, and then the sale actually took place on, I believe it was, the 31st."
+1975.74-742,1,15119,lewis_f_powell_jr,scotus_justice,2804.077,2805.531,Mr. Gregory.
+1975.74-742,1,37114,noble_k_gregory,,2805.531,2807.741,"Yes, sir?"
+1975.74-742,1,15119,lewis_f_powell_jr,scotus_justice,2807.741,2811.765,You rely on Kern County.
+1975.74-742,1,37114,noble_k_gregory,,2824.833,2828.846,I would say involuntary in one term.
+1975.74-742,1,15119,lewis_f_powell_jr,scotus_justice,2905.854,2909.391,"It was a result of a negotiation between the parties, was it not?"
+1975.74-742,1,37114,noble_k_gregory,,2909.391,2911.146,"In both cases, Your Honor."
+1975.74-742,1,15119,lewis_f_powell_jr,scotus_justice,2914.97,2917.267,But not the merger in Kern County?
+1975.74-742,1,37114,noble_k_gregory,,2917.267,2918.969,"Not the merger, that is correct."
+1975.74-742,1,15119,lewis_f_powell_jr,scotus_justice,2918.969,2921.003,Alright.
+1975.74-742,1,15073,warren_e_burger,scotus_justice,2921.003,2921.829,"Thank you, Gentlemen."

@@ -1,0 +1,89 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1985.84-1181,0,15073,warren_e_burger,scotus_justice,0.0,53.301,"Mr. Kartagener, I think you may proceed when you're ready."
+1985.84-1181,0,41571,steven_p_kartagener,,53.301,54.118,"Thank you, Your Honor."
+1985.84-1181,0,15045,harry_a_blackmun,scotus_justice,175.93,182.818,"Counsel, did the decision of the court below rest at all upon the New York Constitution?"
+1985.84-1181,0,41571,steven_p_kartagener,,182.818,203.397,"Your Honor, the decision of the court below cited the New York State Constitution once in the first sentence of the opinion, finding that the actions of the police officer violated the Fourth Amendment and the New York State Constitution, which by the way is worded in precisely the same fashion as the Fourth Amendment."
+1985.84-1181,0,15092,sandra_day_oconnor,scotus_justice,259.853,261.036,Mr. Kartagener.
+1985.84-1181,0,41571,steven_p_kartagener,,261.036,261.52,"Yes, Your Honor."
+1985.84-1181,0,15092,sandra_day_oconnor,scotus_justice,261.52,270.641,"May I inquire whether under New York law, New York would have required exclusion of the evidence in question?"
+1985.84-1181,0,41571,steven_p_kartagener,,270.641,276.562,"Well, the New York Court of Appeals said that under the Fourth Amendment, and this is the first case that has gone to the--"
+1985.84-1181,0,15092,sandra_day_oconnor,scotus_justice,276.562,283.283,"I am asking you, as a matter of New York law, because presumably you practice law there and are familiar with it."
+1985.84-1181,0,41571,steven_p_kartagener,,283.283,294.572,"--I would suggest, Your Honor, that New York law would not require the exclusion of evidence, that this is a case of first impression there."
+1985.84-1181,0,15060,john_paul_stevens,scotus_justice,324.61,327.645,Would it have... what about the statutory question?
+1985.84-1181,0,41571,steven_p_kartagener,,335.132,341.12,"--Well, that is done, Your Honor, because that was refuting an argument that we made in our brief."
+1985.84-1181,0,15104,thurgood_marshall,scotus_justice,371.739,376.476,Would you go back... you skipped over... the wording is exactly the same?
+1985.84-1181,0,41571,steven_p_kartagener,,376.476,376.826,Yes.
+1985.84-1181,0,15104,thurgood_marshall,scotus_justice,378.661,384.165,"So, when they're talking about the Fourth Amendment, could they possibly be talking about the New York--"
+1985.84-1181,0,41571,steven_p_kartagener,,384.165,399.324,"--Well, I think that because it is precisely the same wording, it's logical that they might frequently cite the New York counterpart to the search and seizure provisions of the federal Constitution, but I think it's clear that the decision rested largely on federal grounds."
+1985.84-1181,0,15060,john_paul_stevens,scotus_justice,404.395,406.762,--May I just pursue the statutory question one more moment.
+1985.84-1181,0,41571,steven_p_kartagener,,409.53,409.78,--Yes.
+1985.84-1181,0,15060,john_paul_stevens,scotus_justice,409.78,417.1,But what good would it have done to say it authorized it if they had already held that it was constitutionally impermissible for the officer to do that?
+1985.84-1181,0,41571,steven_p_kartagener,,419.802,420.102,No.
+1985.84-1181,0,15060,john_paul_stevens,scotus_justice,648.696,653.266,"In this case did he make any use of the VIN, the officer?"
+1985.84-1181,0,41571,steven_p_kartagener,,653.266,656.368,"Well, the officer tried to look at it, Justice Stevens."
+1985.84-1181,0,15060,john_paul_stevens,scotus_justice,661.871,663.205,What did he do in this case?
+1985.84-1181,0,41571,steven_p_kartagener,,665.473,678.548,"Well, what happened, Justice Stevens, was that as the car was stopped and pulled over for the two traffic infractions, the driver got out of the car and proceeded back to the police car to speak to one of the officers who was standing there, Officer Meyer."
+1985.84-1181,0,15045,harry_a_blackmun,scotus_justice,678.548,681.367,"Is that customary in New York, incidentally?"
+1985.84-1181,0,41571,steven_p_kartagener,,688.173,693.391,"Well, Justice Blackmun, I'll be quite frank about that."
+1985.84-1181,0,15073,warren_e_burger,scotus_justice,801.276,803.395,"We will resume there at 1:00 o'clock, counsel."
+1985.84-1181,0,41571,steven_p_kartagener,,803.395,803.895,"--Yes, Your Honor."
+1985.84-1181,0,15073,warren_e_burger,scotus_justice,816.453,822.439,"You may resume argument, counsel."
+1985.84-1181,0,41571,steven_p_kartagener,,822.439,824.408,"Thank you, Mr. Chief Justice."
+1985.84-1181,0,15060,john_paul_stevens,scotus_justice,901.808,912.783,I would suppose your reasons for wanting to know the VIN number to determine whether maybe it was a stolen vehicle or something might have been increased rather than decreased when you suspected him of other wrongful conduct?
+1985.84-1181,0,41571,steven_p_kartagener,,912.783,918.937,"Well, we do not suggest that he was suspected of any wrongful conduct in the form of a stealing of the car or anything like that."
+1985.84-1181,0,15060,john_paul_stevens,scotus_justice,918.937,920.872,"But then, why do you look at the VIN number?"
+1985.84-1181,0,41571,steven_p_kartagener,,920.872,922.789,You check the VIN number for a number of reasons.
+1985.84-1181,0,15073,warren_e_burger,scotus_justice,940.183,949.641,"Do you suppose that when they got him down to the police station on the possession of the gun charge, that somebody would check out to see whether he was driving a stolen car at that time?"
+1985.84-1181,0,41571,steven_p_kartagener,,949.641,961.616,"Well, certainly we would suggest that under the circumstances, if he is going to be arrested for the weapon, the police have an absolute right to check the VIN number and if it turns out to be stolen that would be an added charge that he was going to face."
+1985.84-1181,0,15073,warren_e_burger,scotus_justice,961.616,975.007,"Do you think there might be some connection between this man's cooperative conduct in getting out of his car and going to the policeman, and the fact that he knew he had a pistol under the seat?"
+1985.84-1181,0,41571,steven_p_kartagener,,975.007,978.476,"Well, I certainly think that is a reasonable inference to draw from the circumstances, Your Honor."
+1985.84-1181,0,15073,warren_e_burger,scotus_justice,995.72,998.372,"That's something for the fact finders, I suppose."
+1985.84-1181,0,41571,steven_p_kartagener,,998.372,1006.978,"Well, the facts found by the lowest court, the Supreme Court, Bronx County, the trial court, it was reasonable suspicion."
+1985.84-1181,0,15104,thurgood_marshall,scotus_justice,1015.667,1020.285,"When an unarmed man walks up to two policemen, you think that's suspicious?"
+1985.84-1181,0,41571,steven_p_kartagener,,1020.285,1020.987,No.
+1985.84-1181,0,15104,thurgood_marshall,scotus_justice,1022.237,1022.987,Do you?
+1985.84-1181,0,41571,steven_p_kartagener,,1022.987,1023.853,--No.
+1985.84-1181,0,15104,thurgood_marshall,scotus_justice,1023.853,1024.769,I didn't think so.
+1985.84-1181,0,41571,steven_p_kartagener,,1024.769,1026.069,I do not.
+1985.84-1181,0,15104,thurgood_marshall,scotus_justice,1034.823,1036.691,It doesn't help me to decide that.
+1985.84-1181,0,41571,steven_p_kartagener,,1036.691,1037.877,"--I'm sorry, Your Honor?"
+1985.84-1181,0,15104,thurgood_marshall,scotus_justice,1037.877,1039.593,It doesn't help me to decide--
+1985.84-1181,0,41571,steven_p_kartagener,,1039.593,1040.693,The fact that he got out and walked--
+1985.84-1181,0,15104,thurgood_marshall,scotus_justice,1040.693,1041.079,--Yes.
+1985.84-1181,0,41571,steven_p_kartagener,,1041.079,1045.281,"--Well, it does in one respect, Your Honor, because I think it helps us in one important respect."
+1985.84-1181,0,15104,thurgood_marshall,scotus_justice,1057.971,1064.86,"How were you worried about this man being armed, when the gun's in the car and he's out of the car?"
+1985.84-1181,0,41571,steven_p_kartagener,,1064.86,1099.581,"Well, that brings us, quite frankly, to a latter portion of our brief which I'd like to answer and that is, if we are going to be dealing with the question of concern about the individual being armed, and I would suggest that doesn't go to the question of whether it's a search or whether it's a reasonable search, but if we address our last argument which is that where police have a right to stop a car initially, may they check the car, perform a visual frisk, for purposes of finding out whether there's a gun, I think that's something that the law would support."
+1985.84-1181,0,15073,warren_e_burger,scotus_justice,1167.076,1173.063,"When they got him down to the station, the man in the car, wouldn't they make a routine inventory?"
+1985.84-1181,0,41571,steven_p_kartagener,,1173.063,1173.563,Absolutely.
+1985.84-1181,0,15073,warren_e_burger,scotus_justice,1173.563,1174.315,Of the contents of the car?
+1985.84-1181,0,41571,steven_p_kartagener,,1174.315,1184.954,"If the car is in fact seized and brought down to the station, they would absolutely under New York law do a routine inventory which under South Dakota v. Opperman would be completely proper under the circumstances."
+1985.84-1181,0,15140,william_j_brennan_jr,scotus_justice,1193.977,1201.749,"Yes, but I gather for this traffic offense, but for the gun in the car they would never have taken the car to the police station?"
+1985.84-1181,0,41571,steven_p_kartagener,,1201.749,1203.851,"That's not entirely clear, Your Honor, for the following reasons."
+1985.84-1181,0,15140,william_j_brennan_jr,scotus_justice,1203.851,1207.32,"Ordinarily, if it's... what was the traffic offense?"
+1985.84-1181,0,41571,steven_p_kartagener,,1207.32,1213.806,"The traffic offenses initially observed, but not all of them, was speeding and driving with a shattered windshield."
+1985.84-1181,0,15140,william_j_brennan_jr,scotus_justice,1213.806,1218.36,"Well, ordinarily don't they just give you a ticket, or have I been lucky?"
+1985.84-1181,0,41571,steven_p_kartagener,,1218.36,1222.246,"Well, I think we've all... perhaps we've all been lucky in that respect, Your Honor."
+1985.84-1181,0,15140,william_j_brennan_jr,scotus_justice,1225.931,1227.8,Is that what usually happens?
+1985.84-1181,0,41571,steven_p_kartagener,,1227.8,1231.768,"I looked for statistics and I could not find any, on what usually happens."
+1985.84-1181,0,15140,william_j_brennan_jr,scotus_justice,1260.121,1262.739,"Did you say he was unlicensed, or he did not have his license?"
+1985.84-1181,0,41571,steven_p_kartagener,,1262.739,1278.483,"--No, I think the record is rather clear, if you look at page 836 of the Joint Appendix, that he was an unlicensed driver and in fact received a summons for being an unlicensed driver, not that he wasn't carrying it on that day but that he was an unlicensed driver, and that was the testimony at the suppression hearing."
+1985.84-1181,1,35631,mark_c_cogan,,1556.061,1558.829,"Thank you, Mr. Chief Justice, and may it please the Court:"
+1985.84-1181,1,15141,william_h_rehnquist,scotus_justice,1649.922,1657.861,"Well, Mr. Cogan, if that were dispositive of the case, why did the New York Court of Appeals write all the rest of the opinion it did on the constitutional issue?"
+1985.84-1181,1,35631,mark_c_cogan,,1657.861,1682.227,"The Court of Appeals addressed both the constitutional issues, state and federal, and the statutory issue, and the mere fact that the Court not only addressed constitutional but also statutory grounds for this search is not dispositive of the question, whether there were in fact adequate and independent state grounds."
+1985.84-1181,1,15141,william_h_rehnquist,scotus_justice,1682.227,1690.665,Does the New York Court of Appeals have any rule that it prefers to avoid constitutional decisions if a decision could be placed on a statutory basis?
+1985.84-1181,1,35631,mark_c_cogan,,1690.665,1701.788,"I don't know of any such policy that has been enunciated in its cases, but quite often state courts will address both statutory and constitutional issues in a single opinion."
+1985.84-1181,1,15060,john_paul_stevens,scotus_justice,1709.794,1719.935,"Mr. Cogan, does New York have a rule that if there's no violation of the Constitution but merely an action in excess of statutory authority, that the exclusionary rule will apply?"
+1985.84-1181,1,35631,mark_c_cogan,,1721.419,1739.996,"--The case that would come to my mind would be People against Marsh, decided more than ten years ago by the Court of Appeals, which was the case where the Court first enunciated the fact that in New York there is no authorization for a search upon an ordinary traffic stop."
+1985.84-1181,1,15060,john_paul_stevens,scotus_justice,1766.231,1770.034,"But you've got violations of both, is what you're saying?"
+1985.84-1181,1,35631,mark_c_cogan,,1780.557,1799.804,"What the Court of Appeals decided was that this was an unlawful search, and it decided that on three different grounds, each of which is an independent ground for decision, and in so holding the Court of Appeals had no choice other than to suppress the evidence."
+1985.84-1181,1,15104,thurgood_marshall,scotus_justice,1799.804,1809.993,"If the Court had said, we do this on the basis of the Constitution and our statute, we wouldn't have this case?"
+1985.84-1181,1,35631,mark_c_cogan,,1809.993,1814.462,"We would maintain that the Court of Appeals did say that, in effect, in its opinion."
+1985.84-1181,1,15104,thurgood_marshall,scotus_justice,1814.462,1816.728,I didn't--
+1985.84-1181,1,35631,mark_c_cogan,,1816.728,1820.532,The Court may not have used those precise words.
+1985.84-1181,1,15104,thurgood_marshall,scotus_justice,1820.532,1823.651,"--Well, did you urge them to rule on the federals?"
+1985.84-1181,1,35631,mark_c_cogan,,1823.651,1833.024,"Throughout the entire litigation of this case in the state courts, the defendant maintained that this search violated his rights under state and federal law."
+1985.84-1181,1,15104,thurgood_marshall,scotus_justice,1833.024,1834.94,And you didn't urge the federal?
+1985.84-1181,1,35631,mark_c_cogan,,1834.94,1837.54,We urged both state and federal law.
+1985.84-1181,1,15104,thurgood_marshall,scotus_justice,1837.54,1839.907,"Well, why didn't you argue just the state?"
+1985.84-1181,1,35631,mark_c_cogan,,1839.907,1848.597,"The answer, Your Honor, Justice Marshall, is that we maintain that the search violated both state and federal law."
+1985.84-1181,2,41571,steven_p_kartagener,,3268.977,3281.968,"Your Honors, if I may be allowed a reply, I think as the questions of this Court have pointed up to some extent, the Respondent brought the police action in this case on himself to some extent."

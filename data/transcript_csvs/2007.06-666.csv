@@ -1,0 +1,232 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2007.06-666,0,15086,john_g_roberts_jr,scotus_justice,0.0,8.216,"We'll hear argument next in Case 06-666, Department of Revenue of Kentucky v. Davis."
+2007.06-666,0,20177,c_christopher_trower,,9.294,29.02,"Mr. Chief Justice, and may it please the Court: Kentucky's tax exemption for municipal bond interest paid by Kentucky and its political subdivisions to Kentucky taxpayers treats all private entities the same, and favors only Kentucky and its political subdivisions."
+2007.06-666,0,15068,samuel_a_alito_jr,scotus_justice,57.696,65.926,"Is what you just said true about conduit bonds, where Kentucky issues bonds to finance private construction?"
+2007.06-666,0,20177,c_christopher_trower,,68.879,71.252,"Yes, it is, Your Honor."
+2007.06-666,0,15068,samuel_a_alito_jr,scotus_justice,123.889,125.293,"That's what you do, isn't it?"
+2007.06-666,0,20177,c_christopher_trower,,125.293,126.059,"Yes, sir."
+2007.06-666,0,15042,david_h_souter,scotus_justice,126.059,131.588,"Doesn't that raise, in effect, sort of a distinction between Carbone and United Haulers?"
+2007.06-666,0,20177,c_christopher_trower,,144.24,147.55,That's correct.
+2007.06-666,0,15042,david_h_souter,scotus_justice,147.55,155.296,"Here the, the immediate beneficiary of the bonds is, in Justice Alito's hypo, is a private entity?"
+2007.06-666,0,20177,c_christopher_trower,,155.296,164.559,"That's correct, that the immediate beneficiary of the bonds or of the loan is a, is a nongovernmental entity."
+2007.06-666,0,15042,david_h_souter,scotus_justice,172.118,175.398,"But... correct me if I'm wrong, just a matter of fact."
+2007.06-666,0,20177,c_christopher_trower,,183.988,186.018,--That is correct.
+2007.06-666,0,15042,david_h_souter,scotus_justice,190.001,205.73,"So don't you have to take... therefore, if you're going to answer Justice Alito as you did, don't you have to take the position that Carbone really is not good law and the Carbone/United Haulers distinction is not a... is simply not a relevant distinction?"
+2007.06-666,0,20177,c_christopher_trower,,214.898,227.018,I thought the distinction that you drew in your dissenting opinion in Carbone between the one entity that has got to get the job done within the jurisdiction is the key distinction in observing United Haulers.
+2007.06-666,0,15068,samuel_a_alito_jr,scotus_justice,227.018,233.282,"Well, as a dissenter in United Haulers, I also don't think it's a good distinction."
+2007.06-666,0,20177,c_christopher_trower,,258.615,259.646,No.
+2007.06-666,0,15084,ruth_bader_ginsburg,scotus_justice,269.22,274.247,"Mr. Trower, were private activity bonds considered at all below?"
+2007.06-666,0,20177,c_christopher_trower,,286.369,287.697,That's exactly--
+2007.06-666,0,15084,ruth_bader_ginsburg,scotus_justice,287.697,288.229,--in the lower courts.
+2007.06-666,0,20177,c_christopher_trower,,288.229,289.351,"--That is exactly right, ma'am."
+2007.06-666,0,15139,stephen_g_breyer,scotus_justice,302.488,313.218,"Suppose that you... and I have the same hypothetical for both you and your brothers on the other side with some adjustment here, because I'm finding the case quite difficult."
+2007.06-666,0,20177,c_christopher_trower,,340.613,340.988,"Yes, sir."
+2007.06-666,0,15139,stephen_g_breyer,scotus_justice,340.988,341.457,All right.
+2007.06-666,0,20177,c_christopher_trower,,380.394,383.58,"The difference is, is twofold."
+2007.06-666,0,15139,stephen_g_breyer,scotus_justice,456.52,459.972,We have consumers in the dairy products that are suffering loss.
+2007.06-666,0,20177,c_christopher_trower,,462.939,463.642,"Yes, sir."
+2007.06-666,0,15139,stephen_g_breyer,scotus_justice,463.642,470.092,"So they are suffering a dollar-for-dollar loss, because their milk becomes more expensive."
+2007.06-666,0,20177,c_christopher_trower,,485.962,486.227,"Yes, sir."
+2007.06-666,0,15139,stephen_g_breyer,scotus_justice,486.227,504.344,"Would it make a difference in the first case if it happened to be some dairy farmers who... there are so few in Massachusetts now, unfortunately, that they all work on State-owned dairy farms that are put up for, you know... does it make a difference?"
+2007.06-666,0,20177,c_christopher_trower,,504.344,504.875,I think it would make a difference.
+2007.06-666,0,15139,stephen_g_breyer,scotus_justice,504.875,505.39,It would make a difference?
+2007.06-666,0,20177,c_christopher_trower,,505.39,508.607,"If a hamburger stand is owned by the State, it's okay under United Haulers."
+2007.06-666,0,15086,john_g_roberts_jr,scotus_justice,524.82,534.957,"We have a different variation here that wasn't present in United Haulers, which, of course, is that Kentucky does compete with other public entities in the municipal bond market."
+2007.06-666,0,20177,c_christopher_trower,,555.196,568.146,"The key distinction in the United Haulers, Mr. Chief Justice, was between an entity with the responsibility for the welfare of the citizens within the jurisdiction versus all other entities."
+2007.06-666,0,15113,anthony_m_kennedy,scotus_justice,712.556,717.898,Suppose a State said that it was unlawful for anyone other than a State resident to purchase the bond?
+2007.06-666,0,20177,c_christopher_trower,,717.898,721.584,--That would be completely constitutional.
+2007.06-666,0,15060,john_paul_stevens,scotus_justice,721.584,732.487,What if... what if the State offered its taxpayers a higher interest rate than purchasers from other States?
+2007.06-666,0,20177,c_christopher_trower,,734.109,739.92,"Yes, sir, that would be totally permissible and would achieve the same result as the exemption that we've got here."
+2007.06-666,0,15068,samuel_a_alito_jr,scotus_justice,741.653,754.771,"How would that achieve the same result if these bonds weren't negotiable and they'd be hard to sell, hard for you to sell, if people who bought them couldn't sell them, and they could sell them to somebody out of State and get the higher interest rate?"
+2007.06-666,0,20177,c_christopher_trower,,754.771,761.674,--I thought the question was if the bonds increased the interest rate and limited the purchasers to Kentucky citizens.
+2007.06-666,0,15068,samuel_a_alito_jr,scotus_justice,761.674,766.313,And these would be bonds that Kentucky citizens could not sell to anyone else?
+2007.06-666,0,20177,c_christopher_trower,,766.313,768.408,They could sell them to anyone else.
+2007.06-666,0,15068,samuel_a_alito_jr,scotus_justice,768.408,770.391,Anyone who wasn't a Kentucky citizen?
+2007.06-666,0,20177,c_christopher_trower,,770.391,774.404,It would be... let me back up.
+2007.06-666,0,15113,anthony_m_kennedy,scotus_justice,813.295,821.84,"Would it be constitutional to say that the holder of the bond must always be a Kentucky resident or, if you sold the bond, it has to be to another Kentucky resident?"
+2007.06-666,0,20177,c_christopher_trower,,821.84,823.575,"Yes, it would be."
+2007.06-666,0,15086,john_g_roberts_jr,scotus_justice,838.849,845.674,"Well, I suppose you could achieve the same result simply by providing you're not going to pay interest to somebody who is not a Kentucky resident."
+2007.06-666,0,20177,c_christopher_trower,,845.674,847.998,"Yes, sir, you could."
+2007.06-666,0,15113,anthony_m_kennedy,scotus_justice,847.998,859.245,"So if New York has a very strong financial community, it can really benefit its citizens by keeping the market in New York bonds for itself, if it chooses?"
+2007.06-666,0,20177,c_christopher_trower,,859.245,860.867,"Yes, it could."
+2007.06-666,0,15113,anthony_m_kennedy,scotus_justice,860.867,863.73,"And your case for that is what, United Haulers?"
+2007.06-666,0,20177,c_christopher_trower,,863.73,874.818,"Yes, sir, as well as an attention... as I was going to earlier, the larger principles that are behind the dormant Commerce Clause jurisprudence of the Court."
+2007.06-666,0,15060,john_paul_stevens,scotus_justice,942.011,943.963,How do you reconcile that with the Bacchus case?
+2007.06-666,0,20177,c_christopher_trower,,943.963,951.88,"--Well, Bacchus was a case which favored the in-State pineapple wine producers--"
+2007.06-666,0,15060,john_paul_stevens,scotus_justice,951.88,952.379,Correct.
+2007.06-666,0,20177,c_christopher_trower,,952.379,953.77,--with a tax.
+2007.06-666,0,15060,john_paul_stevens,scotus_justice,953.77,959.097,"I've always thought it was incorrectly decided, to be honest with you, but it's there."
+2007.06-666,0,20177,c_christopher_trower,,960.19,969.077,"That doesn't surprise me at all, Justice Stevens, because your concurring opinion in Alexandria Scrap said the same thing."
+2007.06-666,0,15086,john_g_roberts_jr,scotus_justice,972.59,977.071,So we have to overrule Bacchus to agree with you?
+2007.06-666,0,20177,c_christopher_trower,,977.976,979.434,"No, sir."
+2007.06-666,0,15086,john_g_roberts_jr,scotus_justice,1007.733,1013.138,Does your argument depend upon the uses to which Kentucky is putting these proceeds?
+2007.06-666,0,20177,c_christopher_trower,,1013.138,1014.308,"No, sir."
+2007.06-666,0,15086,john_g_roberts_jr,scotus_justice,1014.308,1020.005,"Well, I thought it would because you're saying nobody else is responsible for public works in Kentucky and so on."
+2007.06-666,0,20177,c_christopher_trower,,1020.005,1021.338,"I'm sorry, Mr. Chief Justice."
+2007.06-666,0,15086,john_g_roberts_jr,scotus_justice,1024.93,1025.259,No.
+2007.06-666,0,20177,c_christopher_trower,,1026.712,1028.29,"--Yes, sir."
+2007.06-666,0,15086,john_g_roberts_jr,scotus_justice,1028.931,1048.078,"So, if Kentucky had a law that it could only... no out-of-State car dealer could sell cars in Kentucky, that benefited Kentucky car dealers, and then it had a special tax on Kentucky car dealers to fund local hospitals, airports, roads, whatever... that would be all right?"
+2007.06-666,0,20177,c_christopher_trower,,1048.078,1049.766,I don't think that would be all right.
+2007.06-666,0,15086,john_g_roberts_jr,scotus_justice,1052.952,1055.123,So it doesn't matter?
+2007.06-666,0,20177,c_christopher_trower,,1060.825,1069.898,The... it is the... it is the entity which chooses the use to which the proceeds are put that determines the Commerce Clause situation.
+2007.06-666,0,15086,john_g_roberts_jr,scotus_justice,1085.032,1088.78,"Thank you, Mr. Trower."
+2007.06-666,1,25004,g_eric_brunstad_jr,,1099.059,1106.759,"Mr. Chief Justice, and may it please the Court: This is a tax case and that makes a difference."
+2007.06-666,1,15086,john_g_roberts_jr,scotus_justice,1139.433,1140.605,Or United Haulers.
+2007.06-666,1,25004,g_eric_brunstad_jr,,1140.605,1142.088,"It's very different, Your Honor."
+2007.06-666,1,15139,stephen_g_breyer,scotus_justice,1163.595,1168.296,Then of course you win as soon as we say the commodity is the same as milk.
+2007.06-666,1,25004,g_eric_brunstad_jr,,1237.269,1239.484,"Three reasons, Justice Breyer."
+2007.06-666,1,15060,john_paul_stevens,scotus_justice,1262.305,1262.789,Can a State--
+2007.06-666,1,15139,stephen_g_breyer,scotus_justice,1262.789,1266.991,You're arguing... but can a State do this?
+2007.06-666,1,25004,g_eric_brunstad_jr,,1282.766,1283.936,"Certainly, Your Honor."
+2007.06-666,1,15139,stephen_g_breyer,scotus_justice,1291.466,1300.102,"No, no, you're saying if the State owns cement, it can sell 50 percent less to its in-State citizens than out-of-State?"
+2007.06-666,1,25004,g_eric_brunstad_jr,,1300.102,1302.321,--That's what this Court held in Reeves v. Stake.
+2007.06-666,1,15139,stephen_g_breyer,scotus_justice,1302.321,1302.524,Fine.
+2007.06-666,1,25004,g_eric_brunstad_jr,,1310.036,1311.692,"Through a tax, no."
+2007.06-666,1,15139,stephen_g_breyer,scotus_justice,1314.344,1314.847,All right.
+2007.06-666,1,25004,g_eric_brunstad_jr,,1335.619,1342.866,"--There the State is supplying educational services to its citizens, and under the market participant doctrine that would be fine."
+2007.06-666,1,15139,stephen_g_breyer,scotus_justice,1344.257,1354.487,"Well if that's fine, then what they say is we sell you participation in the financing of the project."
+2007.06-666,1,25004,g_eric_brunstad_jr,,1354.487,1356.034,--But that's not what the tax--
+2007.06-666,1,15139,stephen_g_breyer,scotus_justice,1356.034,1358.923,And if you buy... we sell you the participation.
+2007.06-666,1,25004,g_eric_brunstad_jr,,1385.568,1392.347,"--Justice Breyer, that would be a subsidy, and this Court drew the very distinction in the New Energy case as the difference between subsidy and a tax."
+2007.06-666,1,15139,stephen_g_breyer,scotus_justice,1406.34,1408.761,"No, I'm sorry, then I wasn't clear in the hypothetical."
+2007.06-666,1,25004,g_eric_brunstad_jr,,1420.1,1430.753,"But I think... I think there you would look through the form to the substance, and the substance there is we will charge you X amount for tuition and we are giving you part of that back as a rebate."
+2007.06-666,1,15084,ruth_bader_ginsburg,scotus_justice,1434.141,1435.704,Why is it any different from a tax credit?
+2007.06-666,1,25004,g_eric_brunstad_jr,,1435.704,1450.994,"Well here, Your Honor, as the Court made plain... made plain in the Camps case, Camps Newfound/Owatonna, a tax exemption is not the sort of direct State involvement in the market that falls within the market participation doctrine."
+2007.06-666,1,15042,david_h_souter,scotus_justice,1454.462,1457.694,"But in that case, the only thing the State was doing was taxing."
+2007.06-666,1,25004,g_eric_brunstad_jr,,1465.704,1469.704,"No, Your Honor, not in... the part that they are taxing is not their participation part."
+2007.06-666,1,15042,david_h_souter,scotus_justice,1471.296,1473.078,Why do we draw that line?
+2007.06-666,1,25004,g_eric_brunstad_jr,,1490.508,1493.086,"Because, Justice Souter, there is a fundamental difference between the two."
+2007.06-666,1,15042,david_h_souter,scotus_justice,1497.663,1497.913,So what?
+2007.06-666,1,25004,g_eric_brunstad_jr,,1500.021,1503.16,"--But not constitutionally, Justice Souter, and here is why--"
+2007.06-666,1,15042,david_h_souter,scotus_justice,1503.16,1508.065,"Not constitutionally, we have said, in cases in which the State is not acting purely as the regulator."
+2007.06-666,1,25004,g_eric_brunstad_jr,,1518.78,1523.682,"--Because, Justice Souter, here what the State is taxing is the out-of-State commodity."
+2007.06-666,1,15042,david_h_souter,scotus_justice,1535.054,1542.052,"Yes, but it's not taxing an out-of-State commodity in the sense of a commodity which is manufactured or produced out-of-State."
+2007.06-666,1,25004,g_eric_brunstad_jr,,1542.052,1548.643,"--But Your Honor, it's no different than the Boston Stock Exchange case, where we are talking about securities... or in Fulton, Your Honor... shares of stock."
+2007.06-666,1,15042,david_h_souter,scotus_justice,1548.643,1552.734,"In which case the State was not a participant, but the State is here."
+2007.06-666,1,25004,g_eric_brunstad_jr,,1552.734,1561.789,"But the State is using its taxing power to regulate... to regulate interstate commerce, whereas in United Haulers, Chief Justice Roberts, there was no tax."
+2007.06-666,1,15086,john_g_roberts_jr,scotus_justice,1578.611,1579.504,So you want to suggest... I'm sorry.
+2007.06-666,1,15042,david_h_souter,scotus_justice,1579.504,1579.816,No.
+2007.06-666,1,15086,john_g_roberts_jr,scotus_justice,1580.471,1587.779,Are you suggesting that the result in United Haulers would have been different if there were a competing trash processing facility out-of-State?
+2007.06-666,1,25004,g_eric_brunstad_jr,,1587.779,1590.544,"--No, Your Honor, because there again we have a monopoly."
+2007.06-666,1,15086,john_g_roberts_jr,scotus_justice,1613.476,1617.707,"Well, they are not taxing the out-of-State commodity."
+2007.06-666,1,25004,g_eric_brunstad_jr,,1622.407,1629.157,"--I think, Chief Justice Roberts, the analysis that the Court made in the New Energy case is directly on point and addresses this."
+2007.06-666,1,15042,david_h_souter,scotus_justice,1650.148,1653.365,And this situation is somewhere in between the two.
+2007.06-666,1,25004,g_eric_brunstad_jr,,1673.904,1680.385,"--Because Justice Souter, the entire purpose of the dormant Commerce Clause jurisprudence is to protect the integrity of the market."
+2007.06-666,1,15042,david_h_souter,scotus_justice,1688.051,1701.142,And the whole purpose of... of the combined effect of market participant for the... acting for the purpose of providing an essentially governmental service is to give the State a free hand.
+2007.06-666,1,25004,g_eric_brunstad_jr,,1706.032,1713.449,"Because, Justice Souter, what they are doing here is imposing a facially discriminatory tax."
+2007.06-666,1,15042,david_h_souter,scotus_justice,1717.309,1729.008,"But the question is whether it will be treated as we treat a facially discriminatory tax when there is no market participation, there is no State participation for the purpose of providing a fundamental governmental service."
+2007.06-666,1,25004,g_eric_brunstad_jr,,1766.32,1768.101,"In 1919, Your Honor."
+2007.06-666,1,15042,david_h_souter,scotus_justice,1768.101,1775.894,"And we have an enormous market, the effect of interrupting which we really, as a Court, cannot tell very much."
+2007.06-666,1,25004,g_eric_brunstad_jr,,1791.404,1800.431,"Because, Justice Souter, this case represents a classic race to the bottom where the only reason why we have these discriminatory tax laws is because New York started it in 1919."
+2007.06-666,1,15139,stephen_g_breyer,scotus_justice,1810.193,1812.958,"Well, you have a perfectly good remedy in respect to that."
+2007.06-666,1,25004,g_eric_brunstad_jr,,1821.171,1831.075,"--But a compact is precisely, Your Honor, what the dormant commerce clause was designed to prevent... States coming together and trying to create regional compacts or trying to create favored trade deals among themselves."
+2007.06-666,1,15139,stephen_g_breyer,scotus_justice,1831.075,1837.4,"You know, I was only... I was only addressing your point that there was a practical problem."
+2007.06-666,1,25004,g_eric_brunstad_jr,,1846.552,1848.58,Even if they lose this case--
+2007.06-666,1,15139,stephen_g_breyer,scotus_justice,1848.58,1850.519,"Or win the case, whatever."
+2007.06-666,1,25004,g_eric_brunstad_jr,,1850.519,1852.659,"--But Justice Breyer, the whole point--"
+2007.06-666,1,15139,stephen_g_breyer,scotus_justice,1852.659,1853.252,However.
+2007.06-666,1,25004,g_eric_brunstad_jr,,1853.252,1855.69,--I think... I think that the Court's analysis in Quill is on point here.
+2007.06-666,1,15086,john_g_roberts_jr,scotus_justice,1875.994,1879.009,But our approach in the General Motors case was the exact opposite.
+2007.06-666,1,25004,g_eric_brunstad_jr,,1906.092,1917.197,"But, Chief Justice Roberts, the same could have been said for the problem in Granholm, where 26 States had the same no direct shipment problem; or the same problem in Bacchus where 36 States had the same discriminatory alcohol tax laws."
+2007.06-666,1,15086,john_g_roberts_jr,scotus_justice,1917.994,1924.632,"It strikes me as much more fundamental, whether or not a State can issue a tax exemption for its... its bonds."
+2007.06-666,1,25004,g_eric_brunstad_jr,,1936.487,1948.465,"--But, Chief Justice Roberts, Congress is as unlikely to address this problem now that it's so pervasive as it was to address the problem in Granholm, or the problem in Bacchus, or any of those other cases, or the problem in Fulton."
+2007.06-666,1,15139,stephen_g_breyer,scotus_justice,1950.589,1954.697,"That argument cuts against you in context, I think."
+2007.06-666,1,25004,g_eric_brunstad_jr,,1980.812,1981.656,Correct.
+2007.06-666,1,15139,stephen_g_breyer,scotus_justice,1981.656,1988.574,"Or is it on the far side of the garbage collection, even a stronger case for permission under the Commerce Clause?"
+2007.06-666,1,25004,g_eric_brunstad_jr,,1988.574,1990.949,"Justice Breyer, this case is like milk."
+2007.06-666,1,15139,stephen_g_breyer,scotus_justice,1992.995,1994.212,That's where I wanted you to begin.
+2007.06-666,1,25004,g_eric_brunstad_jr,,1994.212,1997.68,"--If you look at... it is... it is, Chief Justice Breyer."
+2007.06-666,1,15086,john_g_roberts_jr,scotus_justice,2013.236,2014.908,But it's not distinct from United Haulers.
+2007.06-666,1,25004,g_eric_brunstad_jr,,2015.985,2017.75,That's true.
+2007.06-666,1,15086,john_g_roberts_jr,scotus_justice,2017.75,2020.485,But the fact that bonds are bonds doesn't seem to me to be very responsive.
+2007.06-666,1,25004,g_eric_brunstad_jr,,2020.485,2027.605,"But the point... two points, Chief Justice Roberts... one is that in United Haulers we did not have a tax on the out-of-State commodity coming in."
+2007.06-666,1,15060,john_paul_stevens,scotus_justice,2032.304,2033.724,--You didn't have a tax on the out-of-State.
+2007.06-666,1,25004,g_eric_brunstad_jr,,2040.319,2045.192,"But, Justice Stevens, that points out how this is a downstream regulation."
+2007.06-666,1,15060,john_paul_stevens,scotus_justice,2109.868,2118.303,"The victims under your approach, as I understand it, are the 49 other States, and all of them seem to support your opponent in the briefs that were filed in this case."
+2007.06-666,1,25004,g_eric_brunstad_jr,,2118.303,2120.522,"True, Justice Stevens, but they don't want to issue refunds."
+2007.06-666,1,15086,john_g_roberts_jr,scotus_justice,2135.937,2144.274,"Your argument that you just presented in response to Justice Stevens' question, I think, relies on the discrimination against the out-of-State issuers."
+2007.06-666,1,25004,g_eric_brunstad_jr,,2144.274,2145.182,Correct.
+2007.06-666,1,15086,john_g_roberts_jr,scotus_justice,2145.182,2147.525,Your clients are not out-of-State issuers.
+2007.06-666,1,25004,g_eric_brunstad_jr,,2147.525,2148.259,That's true.
+2007.06-666,1,15086,john_g_roberts_jr,scotus_justice,2148.259,2151.054,We don't have an overbreadth doctrine under the Commerce Clause.
+2007.06-666,1,25004,g_eric_brunstad_jr,,2157.647,2166.94,"Well, for the same reason that it wouldn't be limited with the... the taxpayer in Fulton or the in-State taxpayer in Bacchus, where they are basically arguing that this affects interstate commerce."
+2007.06-666,1,15086,john_g_roberts_jr,scotus_justice,2174.968,2179.841,So your Kentucky taxpayers can argue about the discrimination against out-of-State bond issuers?
+2007.06-666,1,25004,g_eric_brunstad_jr,,2179.841,2188.023,"They can argue about the discriminatory effects of this law on the marketplace as a whole, because they are participants in the market."
+2007.06-666,1,15086,john_g_roberts_jr,scotus_justice,2209.998,2214.857,How do we know that your clients will be better off regardless of how this case is resolved?
+2007.06-666,1,25004,g_eric_brunstad_jr,,2231.694,2238.708,"--The remedy, Your Honor, would be for the State to decide whether it wants to make all municipal bonds tax-exempt or to make them all taxable."
+2007.06-666,1,15086,john_g_roberts_jr,scotus_justice,2255.623,2261.445,"But whether or not it benefits them, it seems to me, depends on how competitive they are with other States' municipal bonds."
+2007.06-666,1,25004,g_eric_brunstad_jr,,2276.489,2282.206,"--But, Chief Justice Roberts, consider these two critical points: One cardinal principle of investment is diversification."
+2007.06-666,1,15086,john_g_roberts_jr,scotus_justice,2296.106,2303.104,"I mean it... it provides an advantage depending on the level of the State income tax and, I suppose, the level of the exemption."
+2007.06-666,1,25004,g_eric_brunstad_jr,,2307.46,2318.472,"But that simply means that if the State has a very high income tax, say, in California, that's all the more reason, all the more penalty, for people who want to engage in interstate commerce and diversify their portfolios."
+2007.06-666,1,15086,john_g_roberts_jr,scotus_justice,2318.472,2322.219,"And it's less of a problem if it's like Kentucky, which, I assume, has a lower income tax."
+2007.06-666,1,25004,g_eric_brunstad_jr,,2322.219,2330.827,"Kentucky has a lower income tax, but I think on the... on the problem that was raised, what if we... if we affirm in this case, what would the impact be?"
+2007.06-666,1,15113,anthony_m_kennedy,scotus_justice,2388.46,2398.892,I can ask your brother who represents Petitioner... maybe I'd better should... I'd get a better answer from him so far as his position.
+2007.06-666,1,25004,g_eric_brunstad_jr,,2416.199,2418.135,"We actually have that, Justice Kennedy."
+2007.06-666,1,15113,anthony_m_kennedy,scotus_justice,2436.814,2442.25,Do you find that consistent with the vision of the framers for our national market under the Commerce Clause?
+2007.06-666,1,25004,g_eric_brunstad_jr,,2442.25,2444.231,"--Inconsistent, Justice Kennedy."
+2007.06-666,1,15084,ruth_bader_ginsburg,scotus_justice,2460.676,2496.166,"What about the example that was given of a interstate compact, say, to operate a port authority that covers a few States, and the compacters agree that they are not going to tax the income on bonds issued by the port authority, but they are going to tax the income from out-of-State municipal, but it's only the bonds from this port authority."
+2007.06-666,1,25004,g_eric_brunstad_jr,,2500.085,2501.71,"It would, Justice Ginsburg."
+2007.06-666,1,15084,ruth_bader_ginsburg,scotus_justice,2501.71,2506.256,And yet Congress has approved compacts that say just that.
+2007.06-666,1,25004,g_eric_brunstad_jr,,2506.256,2513.518,"But where Congress specifically speaks to permitting a particular practice, then it can't violate the dormant Commerce Clause."
+2007.06-666,1,15086,john_g_roberts_jr,scotus_justice,2546.567,2548.708,"Well, it assumes it's all in the definition of your market."
+2007.06-666,1,25004,g_eric_brunstad_jr,,2568.229,2571.526,"--But, Chief Justice Roberts, here it's easy to tell what the market is."
+2007.06-666,1,15060,john_paul_stevens,scotus_justice,2593.11,2598.03,Is there any evidence in the record as to how much... what percentage of the Kentucky bonds are bought by Kentucky residents?
+2007.06-666,1,25004,g_eric_brunstad_jr,,2598.03,2600.576,"There is no good data on that information, Justice Stevens."
+2007.06-666,1,15060,john_paul_stevens,scotus_justice,2602.841,2604.997,Does it... do we have it for any State?
+2007.06-666,1,25004,g_eric_brunstad_jr,,2604.997,2606.995,"--No, we do not, Justice Stevens."
+2007.06-666,1,15086,john_g_roberts_jr,scotus_justice,2607.589,2616.586,"Well, I thought it was inherent in your argument that most of them... I mean, if you're talking about hoarding capital, it doesn't work very well if a lot of people outside Kentucky are buying these bonds."
+2007.06-666,1,25004,g_eric_brunstad_jr,,2626.393,2641.872,"There is Balkanization, but it's not complete Balkanization, just like the tax in... that Hawaii imposed on the alcohol didn't prevent the sale of fine California chardonnay imported into Hawaii; it just promoted the sale of the locally produced wine."
+2007.06-666,1,15060,john_paul_stevens,scotus_justice,2679.949,2680.981,--not really standardize.
+2007.06-666,1,25004,g_eric_brunstad_jr,,2696.054,2698.162,"And if they choose to do that, that's fine."
+2007.06-666,1,15060,john_paul_stevens,scotus_justice,2698.162,2699.645,And not totally fungible.
+2007.06-666,1,25004,g_eric_brunstad_jr,,2699.645,2704.972,And of course that would not be prevented by having nondiscriminatory taxes.
+2007.06-666,1,15060,john_paul_stevens,scotus_justice,2704.972,2715.685,"No, but it's a fact of the market, it seems to me, that Kentucky bonds are characteristically more attractive to Kentucky citizens than they are to out-of-State citizens."
+2007.06-666,1,25004,g_eric_brunstad_jr,,2715.685,2718.793,"But, Justice Stevens, I think that's an idiosyncratic value, not shared."
+2007.06-666,1,15113,anthony_m_kennedy,scotus_justice,2720.496,2729.04,"I assume there would be a preference to Massachusetts milk for Massachusetts buyers, to Michigan automobiles for Michigan buyers, and the State did not subsidize."
+2007.06-666,1,25004,g_eric_brunstad_jr,,2729.04,2733.241,"--But, Justice Kennedy, that strikes me as the argument that Japan made--"
+2007.06-666,1,15113,anthony_m_kennedy,scotus_justice,2733.241,2733.85,--authorities--
+2007.06-666,1,25004,g_eric_brunstad_jr,,2733.85,2744.189,"--Justice Kennedy, that strikes me as the argument that Japan made when it said: We should keep American made skis out of the Japanese market because Japanese snow is different from American snow."
+2007.06-666,1,15086,john_g_roberts_jr,scotus_justice,2747.032,2754.28,"Well, that's not fair because Kentucky is going to use the proceeds of the bonds to build a hospital, a school that is going to serve Kentucky residents."
+2007.06-666,1,25004,g_eric_brunstad_jr,,2754.28,2754.764,--But--
+2007.06-666,1,15086,john_g_roberts_jr,scotus_justice,2754.764,2763.322,So there's... it's not just emotional attachment to Kentucky that would promote the purchase of those bonds by Kentucky residents.
+2007.06-666,1,25004,g_eric_brunstad_jr,,2770.819,2774.146,"--But, Chief Justice Roberts, every tax serves a public purpose."
+2007.06-666,1,15086,john_g_roberts_jr,scotus_justice,2791.968,2800.588,"There's a very... there's a very big difference between... and it gets to the difference with the Wisconsin cows, which was addressed in United Haulers."
+2007.06-666,1,25004,g_eric_brunstad_jr,,2810.022,2811.757,--But every State does that.
+2007.06-666,1,15086,john_g_roberts_jr,scotus_justice,2825.611,2827.251,"You don't see a dormant Commerce Clause, though."
+2007.06-666,1,25004,g_eric_brunstad_jr,,2829.468,2835.762,--But the... this Court's dormant Commerce Clause precedents are directed to preserving the integrity of markets.
+2007.06-666,1,15084,ruth_bader_ginsburg,scotus_justice,2874.185,2890.989,"The Court, in that old Bonaparte case, it was just kind of very naive because the Court made a decision that didn't... that State A can't create bonds that are going to be exempt from tax in other States, right?"
+2007.06-666,1,25004,g_eric_brunstad_jr,,2890.989,2892.318,"--Not quite, Justice Ginsburg."
+2007.06-666,1,15086,john_g_roberts_jr,scotus_justice,2908.949,2910.061,"Thank you, Mr. Brunstad."
+2007.06-666,2,20177,c_christopher_trower,,2911.701,2932.112,Let's start with the idea that the Kentucky tax penalizes Respondents for participating in interstate commerce.
+2007.06-666,2,15086,john_g_roberts_jr,scotus_justice,2974.284,2977.658,"Well, why do you care, Mr. Trower?"
+2007.06-666,2,20177,c_christopher_trower,,2990.198,2992.747,"It matters tremendously, Your Honor."
+2007.06-666,2,15086,john_g_roberts_jr,scotus_justice,3032.059,3039.79,"Yes, but the State's going to have more money from their income taxes, and if they want to spend it on a project in a particular municipality, they will be free to do that."
+2007.06-666,2,20177,c_christopher_trower,,3039.79,3043.6,"They would be and that's correct, Mr. Chief Justice."
+2007.06-666,2,15068,samuel_a_alito_jr,scotus_justice,3053.08,3067.232,"It seems to me you're making a lot of arguments that, if accepted, would... maybe this isn't true of all of your arguments, but certainly many of them would demonstrate that the Commerce Clause jurisprudence is utterly incoherent."
+2007.06-666,2,20177,c_christopher_trower,,3087.613,3103.061,"Well, all of the cases in which the tax exemption or... or other restrictive law favored in-State private business would be left untouched."
+2007.06-666,2,15113,anthony_m_kennedy,scotus_justice,3126.067,3127.175,--I think that's true.
+2007.06-666,2,20177,c_christopher_trower,,3130.517,3131.095,"--Yes, sir."
+2007.06-666,2,15113,anthony_m_kennedy,scotus_justice,3131.095,3135.251,And I don't think either side can avoid that fact.
+2007.06-666,2,20177,c_christopher_trower,,3170.502,3172.657,"If it's approved by Congress, yes, sir."
+2007.06-666,2,15113,anthony_m_kennedy,scotus_justice,3172.657,3174.625,Suppose it's not.
+2007.06-666,2,20177,c_christopher_trower,,3175.844,3176.516,I think that--
+2007.06-666,2,15113,anthony_m_kennedy,scotus_justice,3176.516,3178.592,--And isn't that exactly what's happening here?
+2007.06-666,2,20177,c_christopher_trower,,3187.245,3193.348,"--You could make that argument, Justice Kennedy."
+2007.06-666,2,15113,anthony_m_kennedy,scotus_justice,3243.115,3250.877,"I suppose any favored legislation favoring local industry helps the State, and the State residents like it."
+2007.06-666,2,20177,c_christopher_trower,,3254.36,3264.152,"--Well, it's... I wouldn't accept that as the reason that the Commerce Clause exists as a check."
+2007.06-666,2,15113,anthony_m_kennedy,scotus_justice,3277.069,3278.851,All politics is local.
+2007.06-666,2,20177,c_christopher_trower,,3294.25,3304.948,--There's no doubt that the law on its face differentially treats two different kinds of bonds or different bonds issued by different States.
+2007.06-666,2,15049,antonin_scalia,scotus_justice,3310.399,3316.038,"Since we are talking here about the negative Commerce Clause, we really should say that's the reason the Commerce Clause doesn't exist."
+2007.06-666,2,20177,c_christopher_trower,,3316.991,3317.444,--That's right.
+2007.06-666,2,15068,samuel_a_alito_jr,scotus_justice,3463.666,3476.895,"Do you want us to... do you want us to hold that if Congress is, quote, unquote, aware of some sort of discrimination that the States are engaging in, that there is, therefore, no dormant Commerce Clause problem?"
+2007.06-666,2,20177,c_christopher_trower,,3476.895,3477.88,No.
+2007.06-666,2,15068,samuel_a_alito_jr,scotus_justice,3522.424,3527.578,What is the difference between that situation and the sort of flow control ordinance that was involved in Carbone?
+2007.06-666,2,20177,c_christopher_trower,,3528.781,3530.622,Yes.
+2007.06-666,2,15068,samuel_a_alito_jr,scotus_justice,3561.361,3567.764,"No, but why wasn't there the same kind of congressional whatever it is, acquiescence, in Carbone that you're claiming there was here?"
+2007.06-666,2,20177,c_christopher_trower,,3567.764,3576.138,--I don't know that there wasn't that same kind of congressional acquiescence.
+2007.06-666,2,15060,john_paul_stevens,scotus_justice,3590.756,3594.644,"We are talking about not just a dormant Commerce Clause, but a dormant Congress."
+2007.06-666,2,15113,anthony_m_kennedy,scotus_justice,3596.941,3602.938,What are... what are examples... what are examples of Federal statutes that have allowed explicit discrimination?
+2007.06-666,2,20177,c_christopher_trower,,3602.938,3608.857,Prudential versus Benjamin.
+2007.06-666,2,15113,anthony_m_kennedy,scotus_justice,3613.012,3614.856,In the insurance industry?
+2007.06-666,2,20177,c_christopher_trower,,3614.856,3618.213,"--Yes, sir, and that's obviously huge as well."
+2007.06-666,2,15086,john_g_roberts_jr,scotus_justice,3623.383,3624.351,"Thank you, Mr. Trower."

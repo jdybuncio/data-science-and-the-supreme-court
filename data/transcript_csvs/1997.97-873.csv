@@ -1,0 +1,160 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1997.97-873,0,15141,william_h_rehnquist,scotus_justice,0.0,8.518,"We'll hear argument now in Number 97-873, United States v. Balsys."
+1997.97-873,0,35719,michael_r_dreeben,,9.57,12.552,"Mr. Chief Justice, and may it please the Court:"
+1997.97-873,0,15141,william_h_rehnquist,scotus_justice,52.972,61.007,"Mr. Dreeben, in the Arndstein case the Court extended the privilege outside of the scope of a criminal trial, didn't it?"
+1997.97-873,0,35719,michael_r_dreeben,,61.007,64.971,"--That is correct, Mr. Chief Justice, in this respect."
+1997.97-873,0,15084,ruth_bader_ginsburg,scotus_justice,97.464,104.498,"Mr. Dreeben, before you proceed further, would you tell me why 18 U.S.C. 1001 isn't in this picture?"
+1997.97-873,0,35719,michael_r_dreeben,,114.124,157.852,"There could be, Justice Ginsburg, if these statements had been made within a period prosecutable under the statute of limitations, but the original statements that respondent made to gain entry to the United States were in 1963, and the general 5-year statute of limitations has long since run on any prosecution for false statements based on that event and, as a result, the witness is not in a position to claim a fear of domestic incrimination based on any contradiction with his prior statements and I think it's conceded in this case that the only claim of self-incrimination is based on what a foreign power might do if it had custody over respondent and instituted a case."
+1997.97-873,0,15049,antonin_scalia,scotus_justice,182.279,182.45,Wait.
+1997.97-873,0,35719,michael_r_dreeben,,193.807,199.76,"--I'm not sure, Justice Scalia, whether I was clear before, so let me try to make it clear."
+1997.97-873,0,15049,antonin_scalia,scotus_justice,199.76,200.01,All right.
+1997.97-873,0,35719,michael_r_dreeben,,200.01,202.662,The case in which the incrimination must take place--
+1997.97-873,0,15049,antonin_scalia,scotus_justice,202.662,202.993,Right.
+1997.97-873,0,35719,michael_r_dreeben,,202.993,207.717,"--must be a criminal case, by which the Fifth Amendment in our view means a Federal criminal case."
+1997.97-873,0,15049,antonin_scalia,scotus_justice,223.429,228.901,"I understand, but I don't understand how you read the phrase, in any criminal case."
+1997.97-873,0,35719,michael_r_dreeben,,240.05,240.448,Yes.
+1997.97-873,0,15049,antonin_scalia,scotus_justice,240.448,241.219,--to testify?
+1997.97-873,0,35719,michael_r_dreeben,,241.219,241.65,Yes.
+1997.97-873,0,15049,antonin_scalia,scotus_justice,258.721,259.161,All right.
+1997.97-873,0,35719,michael_r_dreeben,,259.161,261.765,But you need also to have incrimination.
+1997.97-873,0,15049,antonin_scalia,scotus_justice,277.623,285.518,"And that's the implication in the latter part, to be a witness against himself, and a witness where is what we're debating."
+1997.97-873,0,35719,michael_r_dreeben,,285.518,286.479,That is exactly right.
+1997.97-873,0,15049,antonin_scalia,scotus_justice,382.527,388.04,"But that goes to where the compulsion is, not to where the incrimination is, doesn't it?"
+1997.97-873,0,35719,michael_r_dreeben,,388.04,389.011,"No, Justice Scalia."
+1997.97-873,0,15084,ruth_bader_ginsburg,scotus_justice,425.986,428.508,That was before the Murphy decision.
+1997.97-873,0,35719,michael_r_dreeben,,428.508,429.938,"That is correct, Justice Ginsburg."
+1997.97-873,0,15084,ruth_bader_ginsburg,scotus_justice,429.938,456.365,"And why shouldn't it be that the concern is controlling the conduct of the Federal actor, whether a Federal agent, a police officer... if the amendment is directed against the compulsion, the action that is prohibited is compelling the testimony, why should it matter where the criminal case is instead of who is doing the compelling?"
+1997.97-873,0,35719,michael_r_dreeben,,456.365,481.862,"Well, Justice Ginsburg, it always has mattered where the criminal case is, and once this Court held in Malloy v. Hogan that the Fifth Amendment applied equally to the States and to the Federal Government, this Court in the Murphy decision changed the former Federal rule and held that the Fifth Amendment may now be claimed whether the prosecution that is feared would occur in a State or in the Federal Government."
+1997.97-873,0,15113,anthony_m_kennedy,scotus_justice,533.107,551.328,Is there anything in our cases which would allow the respondent to make the argument that there is an additional protection in the Fifth Amendment Self-Incrimination Clause that it is simply degrading or destructive of the dignity of the person to be required to answer and to confess a crime?
+1997.97-873,0,35719,michael_r_dreeben,,551.328,564.406,"I think that that is one of the components that this Court has identified as a value underlying the Fifth Amendment, but it again relates primarily to a value about how we prosecute individuals in this country."
+1997.97-873,0,15113,anthony_m_kennedy,scotus_justice,570.15,574.354,"Well, but I'm not so sure, and do you get that out of Malloy or Murphy?"
+1997.97-873,0,35719,michael_r_dreeben,,580.959,591.247,"Well, to the extent that one identifies an interest in individual dignity or autonomy, it does not extend so far as to say the Government cannot exert compulsion."
+1997.97-873,0,15113,anthony_m_kennedy,scotus_justice,592.507,594.489,"Of course, because you can have immunity."
+1997.97-873,0,35719,michael_r_dreeben,,594.489,595.398,--That's correct.
+1997.97-873,0,15113,anthony_m_kennedy,scotus_justice,616.051,625.969,"Which leads me to think that there is no freestanding interest in just individual dignity, that it's... the only question is whether or not it can be used by the Government which is going to prosecute him."
+1997.97-873,0,35719,michael_r_dreeben,,625.969,628.463,"--I think that that is exactly right, Justice Kennedy."
+1997.97-873,0,15049,antonin_scalia,scotus_justice,635.03,646.508,"Mr. Dreeben, can the Federal Government compel testimony that would incriminate someone in a State proceeding by giving him immunity from the State prosecution?"
+1997.97-873,0,35719,michael_r_dreeben,,646.508,646.788,--Yes.
+1997.97-873,0,15049,antonin_scalia,scotus_justice,657.547,657.788,In a State proceeding as well.
+1997.97-873,0,35719,michael_r_dreeben,,659.42,668.396,"That I think is settled by the Kastigar decision, by the Murphy decision, by Brown v. Walker, and by Adams v. Maryland."
+1997.97-873,0,15092,sandra_day_oconnor,scotus_justice,673.221,685.629,"Mr. Dreeben, is it possible that the Federal Government, for example in this case the OSI, might want to cooperate with a foreign nation to see the individual prosecuted elsewhere and have a motive to--"
+1997.97-873,0,35719,michael_r_dreeben,,685.629,685.849,Certainly--
+1997.97-873,0,15092,sandra_day_oconnor,scotus_justice,685.849,689.92,--secure the testimony to help the foreign prosecution?
+1997.97-873,0,35719,michael_r_dreeben,,689.92,695.033,"--Well, I think in a case like this the Justice Department has dual interests."
+1997.97-873,0,15092,sandra_day_oconnor,scotus_justice,723.513,728.846,"Well, should that make any difference in our concerns about this case, if it's that kind of a situation?"
+1997.97-873,0,35719,michael_r_dreeben,,728.846,738.503,"I don't think it should make any difference whatsoever, Justice O'Connor, because the underlying question here is not whether it would be fair in a United States prosecution to use this information."
+1997.97-873,0,15049,antonin_scalia,scotus_justice,752.651,754.714,"Do foreign countries scratch our backs, too?"
+1997.97-873,0,35719,michael_r_dreeben,,768.022,769.064,"We don't, Justice Scalia."
+1997.97-873,0,15084,ruth_bader_ginsburg,scotus_justice,799.043,801.006,After the testimony is already taken.
+1997.97-873,0,35719,michael_r_dreeben,,801.006,801.665,"--Right, but it is not the--"
+1997.97-873,0,15084,ruth_bader_ginsburg,scotus_justice,801.665,802.336,After the cat is out of the bag.
+1997.97-873,0,35719,michael_r_dreeben,,802.336,803.989,"--That is true, Justice Ginsburg."
+1997.97-873,0,15084,ruth_bader_ginsburg,scotus_justice,849.65,863.048,"I take it, then, to your argument it makes no difference whether the foreign country is a country that has a comparable privilege, perhaps, or strata, or whether it's a country that's typical of a civil law system that would not?"
+1997.97-873,0,35719,michael_r_dreeben,,863.048,875.376,"It does make no difference, Justice Ginsburg, because again, I think that the fundamental concern of the Fifth Amendment and as applied to the States through the Fourteenth Amendment is how we conduct our criminal prosecutions here."
+1997.97-873,0,15139,stephen_g_breyer,scotus_justice,875.376,876.508,Why is that?
+1997.97-873,0,35719,michael_r_dreeben,,914.916,915.396,It's--
+1997.97-873,0,15139,stephen_g_breyer,scotus_justice,915.396,918.488,"I mean, the Fourteenth Amendment doesn't talk about what Ohio can do."
+1997.97-873,0,35719,michael_r_dreeben,,922.121,928.366,"--It's different because Ohio, unlike Lithuania, is bound by the Fifth Amendment privilege against compelled--"
+1997.97-873,0,15139,stephen_g_breyer,scotus_justice,928.366,930.296,Where does it say that in the Constitution?
+1997.97-873,0,35719,michael_r_dreeben,,943.626,949.028,"--The liberty, I think, in your hypothetical is ultimately freedom from incarceration."
+1997.97-873,0,15060,john_paul_stevens,scotus_justice,969.892,971.474,"Mr. Dreeben, may I just interrupt?"
+1997.97-873,0,35719,michael_r_dreeben,,977.698,978.018,--No.
+1997.97-873,0,15060,john_paul_stevens,scotus_justice,978.018,979.47,It's bound by the Fourteenth Amendment--
+1997.97-873,0,35719,michael_r_dreeben,,979.47,979.701,That's correct.
+1997.97-873,0,15060,john_paul_stevens,scotus_justice,979.701,983.064,"--which has a liberty protection which is somewhat comparable, or is comparable to the Fifth."
+1997.97-873,0,35719,michael_r_dreeben,,983.064,983.464,"Well, I think--"
+1997.97-873,0,15060,john_paul_stevens,scotus_justice,983.464,986.554,But strictly speaking the State is not bound by the Fifth Amendment.
+1997.97-873,0,35719,michael_r_dreeben,,986.554,994.892,"--That is correct, strictly speaking it's not, but the Court in Malloy v. Hogan said, we are going to apply the Fifth Amendment to the States just as we apply it to the Federal Government."
+1997.97-873,0,15113,anthony_m_kennedy,scotus_justice,994.892,1014.463,"And when we say just as we apply it to the Federal Government, there is no case, with reference to the Fourth Amendment search rules, the Fifth Amendment self-incrimination or double jeopardy rules, or the jury trial rules in which the State protection is any greater or any less than is granted to... under the Federal... than is applicable to the Federal Government, is that not correct?"
+1997.97-873,0,35719,michael_r_dreeben,,1014.463,1019.417,"Once the Court has made the decision to extend the right in question to the States through the Fourteenth Amendment, that's correct."
+1997.97-873,0,15113,anthony_m_kennedy,scotus_justice,1019.417,1020.567,They are coterminous in each case.
+1997.97-873,0,35719,michael_r_dreeben,,1020.567,1040.502,"They're coextensive, and the fundamental premise of the Murphy decision is that we do have cooperative federalism in this country when it comes to law enforcement, and it makes very little sense to say that once the States are no longer free to compel testimony under the Federal Constitution, that they may then operate together and achieve results that they couldn't achieve--"
+1997.97-873,0,15139,stephen_g_breyer,scotus_justice,1040.502,1061.146,"Can I ask you about that, because I was just testing out the linguistic argument, that's why I was... Justice Stevens made the point linguistically, but I have a practical question, which is why... how specifically would extension of the protection that you oppose interfere with Government law enforcement efforts?"
+1997.97-873,0,35719,michael_r_dreeben,,1090.754,1102.274,"--The extension of the privilege to foreign prosecutions would seriously interfere with domestic investigations, because we cannot grant immunity from a fear of foreign prosecutions."
+1997.97-873,0,15139,stephen_g_breyer,scotus_justice,1102.274,1103.914,Why don't you just say to the person you wouldn't deport him?
+1997.97-873,0,35719,michael_r_dreeben,,1103.914,1111.089,That has not been considered by most courts an adequate answer to concerns about the Fifth Amendment.
+1997.97-873,0,15139,stephen_g_breyer,scotus_justice,1117.885,1123.057,"But doesn't there have to be a realistic threat of prosecution, and if you say you're not going to deport him, then there's no realistic threat."
+1997.97-873,0,35719,michael_r_dreeben,,1123.057,1140.19,"No, there may well be a realistic threat of prosecution because a foreign country may issue an extradition order to us, so we then have the discretion to say, well, we're not going to comply with the terms of our extradition treaty, but we then have to answer to the world community for our decision not to do that."
+1997.97-873,0,15141,william_h_rehnquist,scotus_justice,1161.184,1167.797,"Well, isn't there considerable administrative difficulty in applying the rule sought by the respondent here?"
+1997.97-873,0,35719,michael_r_dreeben,,1176.303,1180.477,"There are a number of practical implementation questions, Chief Justice Rehnquist, as you raise."
+1997.97-873,0,15141,william_h_rehnquist,scotus_justice,1208.895,1219.463,"Outside of a witness who is a defendant in a criminal trial, you have to show that there is a likelihood of incrimination in the answer."
+1997.97-873,0,35719,michael_r_dreeben,,1224.138,1229.911,"That is certainly true, but the way that the test is applied in the lower courts is not terribly demanding."
+1997.97-873,0,15113,anthony_m_kennedy,scotus_justice,1294.066,1307.643,"Suppose that in this case or a similar case there were three grounds for deportation, each of them fairly substantial, so that you're going... you know you're going to be able to deport this man anyway."
+1997.97-873,0,35719,michael_r_dreeben,,1326.256,1336.334,"As long as the Government has a law that it's seeking to enforce in that circumstance, I don't see any reason why the Fifth Amendment question would change."
+1997.97-873,0,15113,anthony_m_kennedy,scotus_justice,1375.91,1377.412,"Well, the hypothetical I put is a little different."
+1997.97-873,0,35719,michael_r_dreeben,,1385.469,1395.527,"--I... no, that makes no difference, because the ultimate constitutional question is whether the criminal case in which incrimination is feared is a criminal case within the meaning of the Fifth Amendment."
+1997.97-873,0,15060,john_paul_stevens,scotus_justice,1447.869,1453.122,"Of course, the Constitution would have had the same meaning, I suppose, if the Congress had never passed any immunity statutes."
+1997.97-873,0,35719,michael_r_dreeben,,1453.122,1462.489,"The Constitution would have, and it would have meant that immunity statutes would be permissible if a legislature wished to pass them."
+1997.97-873,0,15139,stephen_g_breyer,scotus_justice,1495.11,1504.958,"Yes, but the Second Circuit's suggestion was that the Congress could pass statutes in the extradition and deportation area that are analogous to the immunity statutes in the domestic area."
+1997.97-873,0,35719,michael_r_dreeben,,1508.421,1509.082,No.
+1997.97-873,0,15139,stephen_g_breyer,scotus_justice,1509.082,1509.783,Why not?
+1997.97-873,0,35719,michael_r_dreeben,,1509.783,1509.963,It would do far more--
+1997.97-873,0,15139,stephen_g_breyer,scotus_justice,1509.963,1510.264,Yes.
+1997.97-873,0,35719,michael_r_dreeben,,1510.264,1518.872,"--Justice Breyer, because an immunity statute in this country grants the witness freedom from having his words used against him or the fruits of those words used against him."
+1997.97-873,0,15139,stephen_g_breyer,scotus_justice,1526.747,1530.61,"No, no, but I mean, why couldn't Congress... what's wrong with the Second Circuit's suggestion?"
+1997.97-873,0,35719,michael_r_dreeben,,1530.61,1533.961,Because the Second Circuit's suggestion in effect would grant transactional immunity.
+1997.97-873,0,15141,william_h_rehnquist,scotus_justice,1603.248,1603.929,"Very well, Mr. Dreeben."
+1997.97-873,1,28493,ivars_berzins,,1606.58,1613.106,"Mr. Chief Justice, may it please the Court:"
+1997.97-873,1,15049,antonin_scalia,scotus_justice,1662.096,1675.666,"Mr. Berzins, could the United States constitutionally compel your client to do something which would be criminal under the law of another country?"
+1997.97-873,1,28493,ivars_berzins,,1695.091,1698.081,"Yes, Your Honor, the United States could pass such a law."
+1997.97-873,1,15049,antonin_scalia,scotus_justice,1698.081,1701.003,"Well, this is much less than that, it seems to me."
+1997.97-873,1,28493,ivars_berzins,,1733.825,1744.764,"That is quite so, Your Honor, but I invite you to consider the cruel trilemma that faces the claimant to the privilege."
+1997.97-873,1,15141,william_h_rehnquist,scotus_justice,1749.178,1755.953,"Well, Mr. Berzins, you know, we're bound under stare decisis by the holding of the Murphy case."
+1997.97-873,1,28493,ivars_berzins,,1759.065,1782.17,"Your Honor, Mr. Chief Justice, I submit to you that the Self-Incrimination Clause prohibits compulsion, and that the Framers had in mind precisely the compulsion that is about to be visited upon my client."
+1997.97-873,1,15113,anthony_m_kennedy,scotus_justice,1782.17,1782.28,No.
+1997.97-873,1,28493,ivars_berzins,,1812.553,1821.329,"Your Honor, I submit that the Government is not powerless to help itself if it really wants my client's testimony."
+1997.97-873,1,15113,anthony_m_kennedy,scotus_justice,1831.236,1840.092,"Well, but a U.S. citizen can't ask for immunity in a civil action, which is the immunity you're suggesting that the Government must give your client."
+1997.97-873,1,28493,ivars_berzins,,1840.092,1845.346,"--Your Honor, my client is not asking for immunity."
+1997.97-873,1,15084,ruth_bader_ginsburg,scotus_justice,1858.395,1866.89,"You recognize, don't you, that if he does successfully plead self-incrimination, that could be used."
+1997.97-873,1,28493,ivars_berzins,,1878.661,1881.141,"Yes, Your Honor, that is quite so."
+1997.97-873,1,15084,ruth_bader_ginsburg,scotus_justice,1887.245,1891.55,"I wanted... your client is now 85 years old, is that... is that right?"
+1997.97-873,1,28493,ivars_berzins,,1891.55,1893.48,"He's very old, Your Honor."
+1997.97-873,1,15084,ruth_bader_ginsburg,scotus_justice,1895.623,1897.363,But he's still with us.
+1997.97-873,1,28493,ivars_berzins,,1897.363,1898.395,"Yes, Your Honor."
+1997.97-873,1,15042,david_h_souter,scotus_justice,1975.318,1983.162,"Well, they're not proceeding in a criminal action against him and apparently there's no prospect of that in the United States, isn't that correct?"
+1997.97-873,1,28493,ivars_berzins,,1983.162,1987.824,"Your Honor, the cruel trilemma--"
+1997.97-873,1,15042,david_h_souter,scotus_justice,1987.824,1992.297,"Well, before we get back to the cruel trilemma, I mean, what's the answer to my question?"
+1997.97-873,1,28493,ivars_berzins,,2006.649,2007.427,"--Yes, Your Honor."
+1997.97-873,1,15042,david_h_souter,scotus_justice,2027.041,2028.313,"Well, you say it makes--"
+1997.97-873,1,28493,ivars_berzins,,2028.313,2028.733,It makes no difference to the claimant.
+1997.97-873,1,15042,david_h_souter,scotus_justice,2028.733,2030.215,--You say it makes no difference.
+1997.97-873,1,28493,ivars_berzins,,2099.122,2101.144,"No, Your Honor."
+1997.97-873,1,15042,david_h_souter,scotus_justice,2113.615,2116.046,"Well, that's right."
+1997.97-873,1,28493,ivars_berzins,,2143.103,2159.105,"Yes, Your Honor, I do in the context in which it was given, but I submit to you that Murphy can stand independent of the application of the Fifth Amendment through the Fourteenth Amendment to the States."
+1997.97-873,1,15042,david_h_souter,scotus_justice,2159.105,2168.551,"But if it does, I guess, we've got to read criminal case in a very different way from the way we have read it before."
+1997.97-873,1,28493,ivars_berzins,,2199.633,2228.902,"Your Honor, I submit that the case could come out as I advocate it if the Court adopts the view that the personal liberties component as explained in Murphy is a very important one, and that it cannot be brushed aside merely because the infliction of criminal penalties will take place elsewhere."
+1997.97-873,1,15084,ruth_bader_ginsburg,scotus_justice,2243.602,2256.061,"Mr. Berzins, if the testimony were taken under seal would you have any... would you still object?"
+1997.97-873,1,28493,ivars_berzins,,2256.061,2278.374,"Your Honor, I would, and I would object for the reasons stated by the district court in this case as well as in the Gecas case and, as I recall, the reasons were the sealing order really cannot be made coextensive with the privilege."
+1997.97-873,1,15084,ruth_bader_ginsburg,scotus_justice,2305.074,2326.328,"But once your client is overseas... I don't know what the Lithuanian legal system is, but most systems have at best a muted self-incrimination guarantee compared to ours, so once he's over there the likelihood is that his testimony could be compelled, is that not so?"
+1997.97-873,1,28493,ivars_berzins,,2326.328,2335.433,"Yes, Your Honor, but I submit we ought not be concerned with what the procedural systems are that might compel it."
+1997.97-873,1,15141,william_h_rehnquist,scotus_justice,2427.354,2431.247,"Was this tried as an issue of fact in the district court, Mr. Berzins?"
+1997.97-873,1,28493,ivars_berzins,,2431.247,2446.418,"Mr. Chief Justice, that was extensively handled in the district court, and it was... in each case it is a claimant's burden and it's a heavy one under the Flanigan case in the Second Circuit."
+1997.97-873,1,15141,william_h_rehnquist,scotus_justice,2454.663,2460.287,"Well, if there is a whole litany of things, it seems to me that that would make for administrative difficulties."
+1997.97-873,1,28493,ivars_berzins,,2460.287,2467.04,"But I submit to you that the difficulty is upon the claimant, not upon the courts."
+1997.97-873,1,15141,william_h_rehnquist,scotus_justice,2467.04,2480.642,"Well, but the fact that it may be a hard row for the claimant to hoe doesn't mean that that fact shouldn't be taken into consideration, because it's also going to be something that the district court probably has to spend a fair amount of time on."
+1997.97-873,1,28493,ivars_berzins,,2480.642,2519.758,"Admittedly, the district court may have to spend some time on it, but it's up to the claimant to bring to the district court every last piece of evidence on which he relies and which will establish his claim as being a legitimate claim as distinguished from a fanciful or contrived claim, and that burden is upon the claimant, and once the claimant establishes it, I submit the privilege ought to be permitted to be invoked, because the alternative is the cruel trilemma to which I must again return and urge you to recognize it from the standpoint of the claimant."
+1997.97-873,1,15113,anthony_m_kennedy,scotus_justice,2538.448,2542.821,"Well, if it makes no difference I suppose he can just refuse to answer, and then he can spend his time in jail here."
+1997.97-873,1,28493,ivars_berzins,,2542.821,2548.676,"Well, Your Honor, I think you hit the nail on the head."
+1997.97-873,1,15141,william_h_rehnquist,scotus_justice,2576.573,2597.997,"Well, calling it an individual liberty doesn't make it any... doesn't change the wording of the Fifth Amendment, which is a privilege against self-incrimination, and I think... you know, worldwide, as Justice Ginsburg has suggested, that is not a universal... universally valued as highly as it is in this country."
+1997.97-873,1,28493,ivars_berzins,,2611.796,2640.964,"Yes, Mr. Chief Justice, that is so, but this Court has in a long line of cases since Murphy reiterated this liberty aspect and used very, very strong language in saying that the liberty aspect of the privilege is important."
+1997.97-873,1,15060,john_paul_stevens,scotus_justice,2642.066,2645.228,"Of course, it's a liberty that he has while he's in this country."
+1997.97-873,1,28493,ivars_berzins,,2664.79,2680.291,"--That may very well come to pass, Your Honor, but nevertheless, while he is here, and while he is subject to an Article III court, that Article III court ought not compel him to convict himself out of his own mouth, not here in this country."
+1997.97-873,1,15060,john_paul_stevens,scotus_justice,2684.114,2690.118,"Well, he hasn't convicted himself out of his own mouth in our courts because he hasn't violated any United States criminal statute."
+1997.97-873,1,28493,ivars_berzins,,2698.483,2717.855,"--That is quite so, but the incrimination, the testimony coming out of the claimant's own mouth, that I submit violates the privilege, because he's being compelled here without a grant of immunity."
+1997.97-873,1,15084,ruth_bader_ginsburg,scotus_justice,2744.772,2759.723,"You do acknowledge that it is kind of a superprivilege that he would have because of the absence of the immunity, the absence of the United States' ability to give... to immunize the testimony?"
+1997.97-873,1,28493,ivars_berzins,,2759.723,2770.191,"--Your Honor, characterizing it as a superprivilege, I don't want to join in that characterization."
+1997.97-873,1,15139,stephen_g_breyer,scotus_justice,2799.87,2821.836,"The Government is saying that, imagine ordinary drug dealers who somehow get into this country and if, in fact, it's a drug dealer from New York who's in Ohio, and Ohio wants to compel the testimony, Ohio can simply give use immunity, or... and it's possible that... and that person can't be prosecuted for what flows from that particular testimony."
+1997.97-873,1,28493,ivars_berzins,,2850.879,2869.899,"Your Honor, my response is that obviously there will be cases where the Government will not be able to either grant immunity or get the foreign government to cooperate in granting a pardon, or issuing its own immunity, or whatever."
+1997.97-873,1,15139,stephen_g_breyer,scotus_justice,2882.077,2891.364,"Why will they be few and far between, given, let's say, current international criminal behaviors which, you know, are all over the place?"
+1997.97-873,1,28493,ivars_berzins,,2893.755,2901.201,"Well, Your Honor, I am... I am really prefacing my answer based on the past."
+1997.97-873,1,15139,stephen_g_breyer,scotus_justice,2931.773,2913.77,All right.
+1997.97-873,1,28493,ivars_berzins,,2934.456,2942.65,It seems to me that they would be if they are coextensive with what we would consider equivalent to immunity that can be granted here.
+1997.97-873,1,15139,stephen_g_breyer,scotus_justice,2942.65,2943.662,Mm-hmm.
+1997.97-873,1,28493,ivars_berzins,,2953.499,2960.813,"Your Honor, the obstacles will be practical and diplomatic, but I have a lot of faith in our Government."
+1997.97-873,1,15139,stephen_g_breyer,scotus_justice,2965.427,2971.161,"I don't think you're going to rely on it being a miracle, because that would weaken your case considerably."
+1997.97-873,1,28493,ivars_berzins,,2974.253,2984.431,Is there anything else that I can be of assistance to this Court with?
+1997.97-873,1,15141,william_h_rehnquist,scotus_justice,2984.431,2987.012,"Apparently not, Mr. Berzins."
+1997.97-873,1,28493,ivars_berzins,,2987.491,2988.102,Thank you.
+1997.97-873,1,15141,william_h_rehnquist,scotus_justice,2988.102,2990.482,"Mr. Dreeben, you have 2 minutes remaining."
+1997.97-873,2,35719,michael_r_dreeben,,2990.482,2993.567,"Unless the Court has any questions, the Government waives rebuttal."
+1997.97-873,2,15141,william_h_rehnquist,scotus_justice,2993.567,2995.483,The case is submitted.

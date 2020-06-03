@@ -1,0 +1,256 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1982.81-825,0,15073,warren_e_burger,scotus_justice,0.0,7.09,We will hear arguments next in the Pillsbury Company against Conboy.
+1982.81-825,0,24329,francis_j_mcconnell,,62.302,79.605,"Mr. Chief Justice, may it please the Court, this case involves the scope of protection under the immunity statute."
+1982.81-825,0,15073,warren_e_burger,scotus_justice,298.126,300.235,"You used the phrase ""so testified""."
+1982.81-825,0,24329,francis_j_mcconnell,,302.345,310.057,"--The reference back to the prior question, that you had fixed prices or you exchanged prizes with Dick Herman."
+1982.81-825,0,15073,warren_e_burger,scotus_justice,310.057,320.727,"Well, are we to understand that the examiner was... had the transcript of the grand jury testimony in front of him?"
+1982.81-825,0,24329,francis_j_mcconnell,,320.727,321.055,Yes.
+1982.81-825,0,15073,warren_e_burger,scotus_justice,326.958,334.941,"It's perhaps of some importance whether it was directly from that transcript or whether it was from some other information, is it not?"
+1982.81-825,0,24329,francis_j_mcconnell,,334.941,335.455,"--Excuse me, Your Honor."
+1982.81-825,0,15073,warren_e_burger,scotus_justice,339.515,355.229,"But having copies two weeks before and having copies right in front of you at the time is perhaps... perhaps... different, but you say the examination was conducted with the transcript in the hands of the examiner."
+1982.81-825,0,24329,francis_j_mcconnell,,355.229,357.023,In my hands Your Honor.
+1982.81-825,0,15071,byron_r_white,scotus_justice,357.023,363.945,"But you were asking him... you may have been reading the questions from the grand jury transcript, which I take it you were."
+1982.81-825,0,24329,francis_j_mcconnell,,363.945,364.647,Yes.
+1982.81-825,0,15071,byron_r_white,scotus_justice,364.647,368.363,But you were asking him for his recollection at the time you were examining him.
+1982.81-825,0,24329,francis_j_mcconnell,,368.363,369.615,"Yes, of course."
+1982.81-825,0,15141,william_h_rehnquist,scotus_justice,369.615,371.144,Did he have a copy of the transcript?
+1982.81-825,0,24329,francis_j_mcconnell,,371.144,373.846,He had a copy of the transcript; his lawyer had a copy of the transcript.
+1982.81-825,0,15071,byron_r_white,scotus_justice,373.846,378.658,But you weren't asking him whether that was his recollection then.
+1982.81-825,0,24329,francis_j_mcconnell,,383.545,383.904,That would be the first question.
+1982.81-825,0,15071,byron_r_white,scotus_justice,389.011,396.899,Suppose you hadn't had the transcript at all and had never had it and you asked him this question and he took the Fifth Amendment?
+1982.81-825,0,24329,francis_j_mcconnell,,396.899,398.884,That's a more difficult question.
+1982.81-825,0,15071,byron_r_white,scotus_justice,398.884,399.961,"Well, more difficult."
+1982.81-825,0,24329,francis_j_mcconnell,,405.99,409.893,Not according to the Eighth Circuit in the Borden case.
+1982.81-825,0,15071,byron_r_white,scotus_justice,478.976,483.613,So it really didn't make any difference that you were reading from the transcript?
+1982.81-825,0,24329,francis_j_mcconnell,,483.613,493.081,"Well, if you go as far as the Borden case, it doesn't make any difference, but if you limit yourself to Fleischacker and the panel decision below, it is important that you have the transcript."
+1982.81-825,0,15073,warren_e_burger,scotus_justice,493.081,500.202,"Now along that same line, let me see if I can get clearly what you're saying."
+1982.81-825,0,24329,francis_j_mcconnell,,516.116,518.022,Your Honor--
+1982.81-825,0,15073,warren_e_burger,scotus_justice,518.022,520.428,"That's what you'd be probing for, wouldn't you?"
+1982.81-825,0,24329,francis_j_mcconnell,,520.428,521.208,--Exactly.
+1982.81-825,0,15073,warren_e_burger,scotus_justice,521.208,523.63,Even if you didn't know that he'd ever been before a grand jury.
+1982.81-825,0,24329,francis_j_mcconnell,,523.63,524.847,Exactly.
+1982.81-825,0,15060,john_paul_stevens,scotus_justice,566.158,572.784,"To go beyond that, in the hypothetical the questions would not have been derived from immunized testimony."
+1982.81-825,0,24329,francis_j_mcconnell,,572.784,577.451,"--Well, certainly not my questions."
+1982.81-825,0,15060,john_paul_stevens,scotus_justice,578.578,582.871,"If you didn't know what the immunized testimony was, how could you have been using it?"
+1982.81-825,0,24329,francis_j_mcconnell,,584.447,589.961,"--Here I know what it was and clearly, to the extent I asked question verbatim or closely tracking, it's derived."
+1982.81-825,0,15141,william_h_rehnquist,scotus_justice,629.151,630.789,But it's in a civil action.
+1982.81-825,0,24329,francis_j_mcconnell,,630.789,632.211,It is in a civil action.
+1982.81-825,0,15141,william_h_rehnquist,scotus_justice,632.211,642.564,"And since the grant of protection of the immunity statute is limited to a criminal action, why does the immunity statute have anything to do with a civil action?"
+1982.81-825,0,24329,francis_j_mcconnell,,642.564,663.79,"The Fifth Amendment and the co-extensive use immunity protection protects you against use of that testimony only in a criminal actions, but you can invoke the Fifth Amendment in any action... civil or criminal."
+1982.81-825,0,15141,william_h_rehnquist,scotus_justice,663.79,664.352,Certainly.
+1982.81-825,0,24329,francis_j_mcconnell,,673.444,686.532,Because the respondent's position is that a prosecutor may get hold of this deposition where he has repeated his same immunized grand Jury testimony and use that as a wholly independent source.
+1982.81-825,0,15071,byron_r_white,scotus_justice,686.532,687.924,In a later criminal case.
+1982.81-825,0,24329,francis_j_mcconnell,,687.924,689.406,In a later criminal case.
+1982.81-825,0,15071,byron_r_white,scotus_justice,689.406,702.103,"It is Just as though there never had been any grand jury testimony or anything else and that you have him on the witness stand in a civil case and you ask him a question that may incriminate him in some future criminal case, so he can take the Fifth Amendment."
+1982.81-825,0,24329,francis_j_mcconnell,,702.103,704.353,"That's right, if he doesn't have immunity."
+1982.81-825,0,15104,thurgood_marshall,scotus_justice,704.353,705.258,Yes.
+1982.81-825,0,24329,francis_j_mcconnell,,708.884,711.696,"No, I don't think so, Your Honor."
+1982.81-825,0,15104,thurgood_marshall,scotus_justice,711.696,717.252,"Well, if an objection was made, could it be used in a subsequent criminal case?"
+1982.81-825,0,24329,francis_j_mcconnell,,717.252,718.285,"No, absolutely not."
+1982.81-825,0,15104,thurgood_marshall,scotus_justice,718.285,719.408,So that's--
+1982.81-825,0,24329,francis_j_mcconnell,,719.408,735.311,"The question is could this Court make the determination prospectively that that evidence would be tainted, and we say clearly it could and we also rely on the dicta in Patrick in the Seventh Circuit."
+1982.81-825,0,15104,thurgood_marshall,scotus_justice,735.311,737.9,"--Well, suppose there is no subsequent criminal prosecution?"
+1982.81-825,0,24329,francis_j_mcconnell,,737.9,739.932,I'm sorry.
+1982.81-825,0,15104,thurgood_marshall,scotus_justice,741.211,746.475,"If there is no subsequent criminal prosecution, it couldn't be used."
+1982.81-825,0,24329,francis_j_mcconnell,,746.475,750.118,"If there's no subsequent criminal prosecution, it can't be used."
+1982.81-825,0,15104,thurgood_marshall,scotus_justice,750.118,754.676,But how does the harm come ahead of the criminal prosecution?
+1982.81-825,0,24329,francis_j_mcconnell,,754.676,774.154,Because the question is whether the witness can be compelled to testify over his Fifth Amendment assertion and the Court said... the Court said you can be compelled because you have compete protection because no use can be made of this civil deposition testimony.
+1982.81-825,0,15060,john_paul_stevens,scotus_justice,785.775,797.254,"Following up on Justice Rehnquist's point about the civil action, the interesting thing about the way this arises is that if this man were to answer the questions, he is now arguing that they are not protected."
+1982.81-825,0,24329,francis_j_mcconnell,,804.578,805.452,I would think so.
+1982.81-825,0,15060,john_paul_stevens,scotus_justice,805.452,808.325,So his interests change in the different Proceedings.
+1982.81-825,0,24329,francis_j_mcconnell,,812.479,814.931,Well--
+1982.81-825,0,15141,william_h_rehnquist,scotus_justice,814.931,816.881,"You know, to plaintiffs."
+1982.81-825,0,24329,francis_j_mcconnell,,816.881,820.538,"--Well, we wouldn't have the transcript if the transcript hadn't been released, that's true."
+1982.81-825,0,15141,william_h_rehnquist,scotus_justice,820.538,824.068,"Well, and all you're doing is waking it available to civil plaintiffs really."
+1982.81-825,0,24329,francis_j_mcconnell,,824.068,825.3,I don't think that's true.
+1982.81-825,0,15141,william_h_rehnquist,scotus_justice,825.3,826.614,As a discovery tool.
+1982.81-825,0,24329,francis_j_mcconnell,,826.614,839.918,"Justice Rehnquist, we are not suggesting that the test announced by this Court in Douglas Oil be in any way relaxed."
+1982.81-825,0,15071,byron_r_white,scotus_justice,869.782,876.889,"Well, all you... I suppose the only showing you made is that you wanted some testimony."
+1982.81-825,0,24329,francis_j_mcconnell,,883.465,885.153,"--Well, I don't think it's that simple."
+1982.81-825,0,15071,byron_r_white,scotus_justice,886.261,888.043,What else could you say?
+1982.81-825,0,24329,francis_j_mcconnell,,888.043,916.762,"--Well, the showing that was made before Judge Singleton... and this goes back to January of 1980... was that there had been a massive invocation of the Fifth Amendment and that meaningful discovery had been blocked by reason of the Fifth Amendment assertions in this litigation, and the judge issued a memorandum order."
+1982.81-825,0,15071,byron_r_white,scotus_justice,916.762,925.26,"Well, if we affirm, then you'd never be able to get the grand jury minutes then again on that basis because it wouldn't do you any good to have them."
+1982.81-825,0,24329,francis_j_mcconnell,,929.495,941.365,"If you affirm, whether we have the grand jury minutes or not is not going to do us any good because we can't compel his testimony."
+1982.81-825,0,15071,byron_r_white,scotus_justice,941.365,941.755,Exactly.
+1982.81-825,0,24329,francis_j_mcconnell,,941.755,943.112,That's why I want you to reverse.
+1982.81-825,0,15071,byron_r_white,scotus_justice,943.112,944.597,Exactly.
+1982.81-825,0,24329,francis_j_mcconnell,,971.087,976.004,He would have the protection of the Fifth Amendment in that situation.
+1982.81-825,0,15092,sandra_day_oconnor,scotus_justice,1007.384,1027.985,I suppose we can also have the situation where the testimony is originally elicited at a grand jury investigation and use immunity is granted by the government to the witness and then the witness testifies within the use immunity at the criminal trial and you still have the question of trying to use it in the civil case.
+1982.81-825,0,24329,francis_j_mcconnell,,1032.232,1033.779,Yes.
+1982.81-825,0,15092,sandra_day_oconnor,scotus_justice,1033.779,1036.122,And did that happen here?
+1982.81-825,0,24329,francis_j_mcconnell,,1036.122,1037.058,No.
+1982.81-825,0,15060,john_paul_stevens,scotus_justice,1037.058,1043.072,"Mr. McConnell, in any of these cases that you referred to has the government taken a position on the issue?"
+1982.81-825,0,24329,francis_j_mcconnell,,1046.398,1047.774,"No, they have not."
+1982.81-825,0,15092,sandra_day_oconnor,scotus_justice,1047.774,1058.627,"Could the government come in in the civil proceeding and grant use immunity again, although the government's not involved?"
+1982.81-825,0,24329,francis_j_mcconnell,,1058.627,1062.644,"Well, they could, but they have not, and they have declined to."
+1982.81-825,0,15092,sandra_day_oconnor,scotus_justice,1088.302,1100.66,"As I understand it, the government makes the practice under this use immunity statute of going in every time the witness appears any place and getting another use immunity grant, isn't that right?"
+1982.81-825,0,24329,francis_j_mcconnell,,1100.66,1121.759,"--Well, that's one of the arguments of the respondent, that the fact that the government granted separate immunity both in the interview statement and later when the witness appeared before the grand jury and in the case of witnesses who appeared in the criminal trial, again they granted it."
+1982.81-825,0,15140,william_j_brennan_jr,scotus_justice,1163.134,1177.079,"Well, Mr. McConnell, I gather what you want us to say is the use immunity which he received in connection with the grand jury testimony carries over to this deposition in the civil case."
+1982.81-825,0,24329,francis_j_mcconnell,,1177.079,1178.408,"Yes, provided--"
+1982.81-825,0,15140,william_j_brennan_jr,scotus_justice,1178.408,1189.919,But is there anything at all in the legislative history to suggest that Congress intended that statute to apply to civil as well as criminal cases or appearances before the grand jury?
+1982.81-825,0,24329,francis_j_mcconnell,,1189.919,1204.117,"--I think the legislative history indicates... and this Court's decision in Kastigar indicates... that that statute was to be construed as broadly, as sweepingly as possible."
+1982.81-825,0,15140,william_j_brennan_jr,scotus_justice,1212.845,1216.425,"So you read ""sweeping"" as carrying all through subsequent civil proceedings and such?"
+1982.81-825,0,24329,francis_j_mcconnell,,1216.425,1221.938,So long as the subsequent civil proceedings are confined to the four corners of the--
+1982.81-825,0,15141,william_h_rehnquist,scotus_justice,1221.938,1222.765,Of the transcript.
+1982.81-825,0,24329,francis_j_mcconnell,,1226.341,1228.388,--No.
+1982.81-825,0,15141,william_h_rehnquist,scotus_justice,1230.716,1237.228,"Well, the position you've just taken would weed out that language, wouldn't it?"
+1982.81-825,0,24329,francis_j_mcconnell,,1237.228,1239.961,"--I don't think so, Mr. Justice Rehnquist."
+1982.81-825,0,15141,william_h_rehnquist,scotus_justice,1272.09,1281.023,"That conforms with the language of the statute, but I thought you were trying to apply it here to--"
+1982.81-825,0,24329,francis_j_mcconnell,,1281.023,1282.521,"No, no."
+1982.81-825,0,15071,byron_r_white,scotus_justice,1291.564,1298.579,--Because he has no danger of incriminating himself in some criminal case because this testimony in the civil case won't be admissible.
+1982.81-825,0,24329,francis_j_mcconnell,,1298.579,1299.156,Exactly.
+1982.81-825,0,15071,byron_r_white,scotus_justice,1299.687,1300.545,That's what you're saying.
+1982.81-825,0,24329,francis_j_mcconnell,,1300.545,1301.45,That's what I'm saying.
+1982.81-825,0,15104,thurgood_marshall,scotus_justice,1303.793,1313.07,"What happens if the criminal case judge seals the testimony, the deposition, and refuses to release it?"
+1982.81-825,0,24329,francis_j_mcconnell,,1316.228,1318.413,"Well, I don't know how--"
+1982.81-825,0,15104,thurgood_marshall,scotus_justice,1318.413,1321.972,You don't know how a judge can seal testimony?
+1982.81-825,0,24329,francis_j_mcconnell,,1321.972,1328.753,"--Well, yes, I do not know people get... I mean, a lot of times seals don't do any good."
+1982.81-825,0,15104,thurgood_marshall,scotus_justice,1358.678,1361.364,"Well, how could he get access to sealed testimony?"
+1982.81-825,0,24329,francis_j_mcconnell,,1361.364,1362.862,--I don't think he can.
+1982.81-825,0,15104,thurgood_marshall,scotus_justice,1362.862,1364.489,"Well, then he wouldn't have it."
+1982.81-825,0,24329,francis_j_mcconnell,,1364.489,1365.253,That's it.
+1982.81-825,0,15104,thurgood_marshall,scotus_justice,1366.002,1367.612,"Therefore, he couldn't use it."
+1982.81-825,0,24329,francis_j_mcconnell,,1367.612,1370.221,"--That's right, and maybe--"
+1982.81-825,0,15060,john_paul_stevens,scotus_justice,1370.221,1375.579,"Your point is he might get it from an independent source, in which event he could use it."
+1982.81-825,0,24329,francis_j_mcconnell,,1375.579,1382.215,--In that situation he might be able to get it from an independent source and he could establish his Kastigar burden.
+1982.81-825,0,15104,thurgood_marshall,scotus_justice,1382.215,1395.569,He could use this testimony from the grand jury in a subsequent criminal prosecution in spite of the statute.
+1982.81-825,0,24329,francis_j_mcconnell,,1396.851,1397.553,No.
+1982.81-825,0,15104,thurgood_marshall,scotus_justice,1400.27,1402.501,"Well, that's the way you are."
+1982.81-825,0,24329,francis_j_mcconnell,,1402.501,1405.157,"I don't believe so, Justice Marshall."
+1982.81-825,0,15104,thurgood_marshall,scotus_justice,1437.721,1445.922,My only trouble with you is when you say you can't use the fruit does not say the fruit can't grow.
+1982.81-825,0,24329,francis_j_mcconnell,,1445.922,1450.781,"Well, I think this Court's decision--"
+1982.81-825,0,15104,thurgood_marshall,scotus_justice,1450.781,1452.934,Or the fruit can't exist.
+1982.81-825,0,24329,francis_j_mcconnell,,1457.449,1458.401,"--Exactly, Your Honor."
+1982.81-825,0,15092,sandra_day_oconnor,scotus_justice,1481.407,1523.483,"Mr. McConnell, I think what concerns me most about this... about your position... is that probably the use immunity statute that was passed by Congress was passed by Congress in an effort to help the government lawyers... the prosecutors... to avoid having them lose other means of going after somebody in a criminal case just because of an overbrick of the transactional immunity that has been used."
+1982.81-825,0,24329,francis_j_mcconnell,,1523.483,1523.873,I agree with that.
+1982.81-825,0,15092,sandra_day_oconnor,scotus_justice,1523.873,1531.621,And I doubt if Congress was thinking of benefitting civil litigants when it passed that statute.
+1982.81-825,0,24329,francis_j_mcconnell,,1566.062,1583.492,"Well, the answer to that, I think, is that so long as the deposition examination is confined to the four corners of the grand jury immunized examinations, there is no expansion."
+1982.81-825,0,15092,sandra_day_oconnor,scotus_justice,1583.492,1588.534,"Okay, but how do you do that within the framework of giving cross examination?"
+1982.81-825,0,24329,francis_j_mcconnell,,1592.925,1594.516,I understand.
+1982.81-825,0,15060,john_paul_stevens,scotus_justice,1686.042,1706.424,"No, but I suppose, Mr. McConnell, that in such a cross examination question it would be possible that the cross examiner would bring out information that could not reasonably have been derived from the confines of the original testimony and, therefore, that broadened examination might go beyond the scope of the use immunity."
+1982.81-825,0,24329,francis_j_mcconnell,,1706.424,1713.751,"--Well, if the examination goes beyond the confines and the answer is potentially incriminating--"
+1982.81-825,0,15060,john_paul_stevens,scotus_justice,1713.751,1714.703,Then he would have to claim the Fifth.
+1982.81-825,0,24329,francis_j_mcconnell,,1714.703,1716.278,--Then he would have to claim the Fifth.
+1982.81-825,0,15141,william_h_rehnquist,scotus_justice,1716.278,1730.695,So he's really faced with a choice in the case of every single question that deviates even a little bit from the transcript as to... he'll need a lawyer standing right there beside him to decide whether he should claim the Fifth or not.
+1982.81-825,0,24329,francis_j_mcconnell,,1730.695,1749.767,"I don't think it's that difficult, but we've gotten rulings from the Court in this case before and there's no reason that we couldn't get rulings again, and, as a matter of fact, in this very case, Fleischacker is Second Circuit."
+1982.81-825,0,15141,william_h_rehnquist,scotus_justice,1843.792,1856.271,"In the posture of this case or this type of case, isn't your examination of someone who has appeared before the grand jury generally a cross examination... really, although you are the first to question, it's really an adverse witness."
+1982.81-825,0,24329,francis_j_mcconnell,,1856.271,1857.285,It is.
+1982.81-825,0,15073,warren_e_burger,scotus_justice,1864.955,1868.967,"Well, Mr. Coffield."
+1982.81-825,1,35655,michael_w_coffield,,1868.967,1916.51,"Mr. Chief Justice, may it please the Court, although I am here today on behalf of John Conboy, in fact I think, Your Honors, that really Mr. Conboy is a representative almost in a class sense of many, many deponents and witnesses before not only this antitrust grand jury that started back in 1976 and resulted in one criminal case, one civil class action case, and this opt-out case, but he is representative of witnesses throughout the country in multi-defendant and large investigate cases, and I have represented many of them and, as Mr. McConnell has himself, these depositions have taken all sizes, all forms and all shapes."
+1982.81-825,1,15060,john_paul_stevens,scotus_justice,2239.054,2241.725,The issue really isn't whether another criminal prosecution is possible.
+1982.81-825,1,35655,michael_w_coffield,,2243.098,2243.738,--Right.
+1982.81-825,1,15060,john_paul_stevens,scotus_justice,2243.738,2253.829,"The question is whether the answer ""yes"" in your example would fall within the statutory language of being information directly or indirectly derived from such testimony."
+1982.81-825,1,35655,michael_w_coffield,,2255.062,2256.013,That's right.
+1982.81-825,1,15060,john_paul_stevens,scotus_justice,2256.013,2270.243,"Your submission is that the question that your opponent asked of him was derived from it, but the answer was not even indirectly derived from the grand jury transcript... the information contained in the transcript."
+1982.81-825,1,35655,michael_w_coffield,,2270.243,2279.878,"I would say, Your Honor, that clearly... and I'm trying to give myself the hardest case, clearly... that it is difficult for me to argue that is isn't indirectly, but there are a number of differences."
+1982.81-825,1,15071,byron_r_white,scotus_justice,2279.878,2281.675,Why is it hard to do that?
+1982.81-825,1,35655,michael_w_coffield,,2284.175,2284.597,That's right.
+1982.81-825,1,15071,byron_r_white,scotus_justice,2285.08,2287.673,You are not asking him for what your recollection was then.
+1982.81-825,1,35655,michael_w_coffield,,2292.688,2293.265,And that's not.
+1982.81-825,1,15060,john_paul_stevens,scotus_justice,2296.779,2299.525,"Well, but let's not leave that quite so fast."
+1982.81-825,1,35655,michael_w_coffield,,2308.209,2310.225,"--No, I submit not."
+1982.81-825,1,15060,john_paul_stevens,scotus_justice,2310.225,2318.331,And if you were defending him in a criminal case you would not be willing to argue that that testimony was the fruit of the grand jury testimony?
+1982.81-825,1,35655,michael_w_coffield,,2318.331,2367.906,"Ah, well, as you pointed out before, that's the conundrum and the Catch-22, if you will, that Mr. Conboy's going to be put in unless this Court affirms, because Mr. Conboy in fact, yes, will have to say that he is entitled to his Fifth Amendment right because it's a new source... a new answer, a present recollection of something that happened four years ago... and then, if he is compelled and he does say yes and some prosecutor down the line says but I have an independent source... it's a new yes and it's today's yes... and I'm going to bring an indictment, I'm going to have to turn around, and so does Mr. Conboy, and say well, now, since it is in fact going to be held either to be excluded under the exclusionary rules or it's going to be held to be indirect, I now am going to take your position."
+1982.81-825,1,15060,john_paul_stevens,scotus_justice,2367.906,2369.341,So it's a fruit of the poison tree.
+1982.81-825,1,35655,michael_w_coffield,,2369.341,2369.918,Exactly.
+1982.81-825,1,15060,john_paul_stevens,scotus_justice,2369.918,2379.523,Supposing you had a coerced confession case where Mr. Conroy had been hauled in by the police and subjected to brutality and he gave a transcript that confessed to a crime.
+1982.81-825,1,35655,michael_w_coffield,,2394.33,2396.408,"It is not, because--"
+1982.81-825,1,15060,john_paul_stevens,scotus_justice,2396.408,2398.954,Because it's his present recollection rather than what he testified.
+1982.81-825,1,35655,michael_w_coffield,,2398.954,2412.169,"--It is not only present recollection but the problem with it is that in addition to it being present recollection, the moment you add anything else to my spectrum or to the level of questions--"
+1982.81-825,1,15060,john_paul_stevens,scotus_justice,2412.169,2413.402,It is not an indirect fruit.
+1982.81-825,1,35655,michael_w_coffield,,2413.402,2416.12,--You are in an area where who knows where you are going to stop.
+1982.81-825,1,15141,william_h_rehnquist,scotus_justice,2481.592,2487.325,"But you pose two possible decisions of this Court, but those two aren't the only ones."
+1982.81-825,1,35655,michael_w_coffield,,2491.777,2527.965,"Well, I submit, Your Honor, that if Your Honors come down somewhere in the middle it is fraught with uncertainty and it is fraught with constitutional concern, and the reason it is is because what you would effectively be doing, it seems to me, if you come down anywhere in the middle, is going against cases like Manusk, against cases like Murphy v. Waterfront... against the cases which have said the exclusionary rule remedy is not the same as the constitutional privilege and the statutory immunity that's related to it."
+1982.81-825,1,15071,byron_r_white,scotus_justice,2538.335,2539.398,"Well, what if you just had a rule."
+1982.81-825,1,35655,michael_w_coffield,,2566.168,2571.242,"--Well, I would pick up on Your Honor's statement of that."
+1982.81-825,1,15071,byron_r_white,scotus_justice,2572.057,2574.541,That's the equivalent of your hardest case.
+1982.81-825,1,35655,michael_w_coffield,,2574.541,2590.611,"--That's my hardest case, but it seems to me the problem with that hardest case is that while the courts have made it clear that the immunity does not protect you from perjury, there is a question with respect to whether or not your present recollection on these case-by-case questions is the same."
+1982.81-825,1,15071,byron_r_white,scotus_justice,2590.611,2593.563,"Well, you might be perjuring yourself again because you'd answer--"
+1982.81-825,1,35655,michael_w_coffield,,2593.563,2601.733,"That's right, and he is entitled, I would submit, Your Honor, he is entitled not to perjure himself again and to take the Fifth Amendment with respect to that."
+1982.81-825,1,15071,byron_r_white,scotus_justice,2601.733,2603.979,"--Well, I didn't know immunity protected you against perjury."
+1982.81-825,1,35655,michael_w_coffield,,2603.979,2605.542,It doesn't.
+1982.81-825,1,15141,william_h_rehnquist,scotus_justice,2635.701,2645.87,You say the second testimony the guy has a right to claim the privilege against self-incrimination if the answer would tend to indicate that he perjured himself in an early... the first time.
+1982.81-825,1,35655,michael_w_coffield,,2645.87,2646.478,That's correct.
+1982.81-825,1,15071,byron_r_white,scotus_justice,2646.478,2647.679,Or if he said I refuse... I will not answer to the same jury.
+1982.81-825,1,35655,michael_w_coffield,,2653.334,2666.705,"Well I think if he even says that much then you may have a court that comes down and says, well, you waived at least the concept that your answer would be the same, and now we're going to say that you've waived to the extent that now you have to answer."
+1982.81-825,1,15060,john_paul_stevens,scotus_justice,2714.669,2715.636,You don't represent them.
+1982.81-825,1,35655,michael_w_coffield,,2715.636,2717.278,--I don't represent them.
+1982.81-825,1,15060,john_paul_stevens,scotus_justice,2752.151,2758.542,"Mr. Coffield, the only interest you have in representing a number of these people is protecting your client from criminal prosecution, really."
+1982.81-825,1,35655,michael_w_coffield,,2759.884,2761.069,--That's correct.
+1982.81-825,1,15060,john_paul_stevens,scotus_justice,2761.069,2766.646,"But is it not true... and you did indicate it depends on the proceeding, and I of course recognize you've got to fight each battle as it arises."
+1982.81-825,1,35655,michael_w_coffield,,2780.251,2785.126,"Well, as I indicated earlier, Justice Stevens, I think either way would benefit them."
+1982.81-825,1,15060,john_paul_stevens,scotus_justice,2785.126,2787.232,As long as you know where you stand.
+1982.81-825,1,35655,michael_w_coffield,,2803.055,2804.787,"Well, it would be beneficial--"
+1982.81-825,1,15060,john_paul_stevens,scotus_justice,2804.787,2807.177,In the sense of avoiding future prosecution.
+1982.81-825,1,35655,michael_w_coffield,,2807.177,2820.767,"--Yes, but it would not be as beneficial as the affirmance of the panel below, because once I leave here today and Mr. McConnell and I go back in the trenches, we are out there in a world of prosecutors all over the place making discretionary--"
+1982.81-825,1,15060,john_paul_stevens,scotus_justice,2820.767,2821.36,"Well, let me ask you, let me give you this hypothetical."
+1982.81-825,1,35655,michael_w_coffield,,2842.023,2850.067,"--You bet I would, and that by a Court's ruling that does not affirm this panel below is the Catch-22 that Mr. Conboy's put in."
+1982.81-825,1,15073,warren_e_burger,scotus_justice,2855.391,2858.327,Let me put the question to you that I put to your friend.
+1982.81-825,1,35655,michael_w_coffield,,2866.84,2868.294,Yes.
+1982.81-825,1,15073,warren_e_burger,scotus_justice,2868.294,2872.618,"But if he's an experienced lawyer, as he is, he's going to ask."
+1982.81-825,1,35655,michael_w_coffield,,2876.416,2878.039,"He's going to come pretty close, sure."
+1982.81-825,1,15073,warren_e_burger,scotus_justice,2878.039,2886.162,"Now, then he puts the questions to the witness which very closely track the testimony he gave before the grand jury."
+1982.81-825,1,35655,michael_w_coffield,,2887.956,2889.129,"Well, he does the same thing."
+1982.81-825,1,15141,william_h_rehnquist,scotus_justice,3006.707,3019.794,"That just is a contradiction in terms, because at the point that the privilege is claimed in the civil deposition there isn't yet any use by any future criminal prosecutors."
+1982.81-825,1,35655,michael_w_coffield,,3019.794,3022.964,"--Well, we don't know that, Your Honor."
+1982.81-825,1,15141,william_h_rehnquist,scotus_justice,3022.964,3023.873,"Well, you certainly don't know one way or the other."
+1982.81-825,1,35655,michael_w_coffield,,3023.873,3024.918,We don't know one way or the other.
+1982.81-825,1,15141,william_h_rehnquist,scotus_justice,3051.61,3054.125,What safeguards are put on these grand jury transcripts?
+1982.81-825,1,35655,michael_w_coffield,,3056.531,3081.456,"I would submit, at least in the experience I've had before Judge Singleton... and I think Mr. McConnell would agree with this... that the court there and the court in other cases I've been involved in try very hard, both through security in offices and checkout systems and what have you, to make sure that only the parties, be it the counsel or in certain cases counsel and an expert witness or counsel and one representative of the client... that there is very limited access."
+1982.81-825,1,15104,thurgood_marshall,scotus_justice,3233.018,3241.453,You're not expecting us to give an opinion that will allow antitrust lawyers to give a definitive opinion on anything?
+1982.81-825,1,35655,michael_w_coffield,,3241.453,3242.28,--Yes.
+1982.81-825,1,15104,thurgood_marshall,scotus_justice,3242.28,3243.06,Are you?
+1982.81-825,1,35655,michael_w_coffield,,3243.528,3244.982,"With all due respect, I think you can."
+1982.81-825,1,15104,thurgood_marshall,scotus_justice,3252.072,3253.023,"Why, that proves it."
+1982.81-825,1,35655,michael_w_coffield,,3254.01,3255.258,"Well, that's right."
+1982.81-825,1,15060,john_paul_stevens,scotus_justice,3316.389,3320.699,"Well, is there statutory authority for the Government to give immunity to a witness to testify in a private case?"
+1982.81-825,1,35655,michael_w_coffield,,3320.699,3321.951,--I think there is.
+1982.81-825,1,15060,john_paul_stevens,scotus_justice,3328.089,3330.292,Has that been the subject of litigation?
+1982.81-825,1,35655,michael_w_coffield,,3330.292,3332.663,"--I think it will be, but I don't know that it has been."
+1982.81-825,1,15071,byron_r_white,scotus_justice,3332.663,3334.008,"Well, there may be a lot of applications."
+1982.81-825,1,35655,michael_w_coffield,,3335.194,3343.8,"I don't know of any case that we've studied where, in our research, where the Government, when asked, his gone ahead and done it."
+1982.81-825,1,15071,byron_r_white,scotus_justice,3345.052,3346.159,"They've been asked, yes."
+1982.81-825,1,35655,michael_w_coffield,,3346.159,3348.016,"--The other area, of course, is when--"
+1982.81-825,1,15060,john_paul_stevens,scotus_justice,3348.016,3349.19,It'd be a change in policy.
+1982.81-825,1,35655,michael_w_coffield,,3353.295,3354.001,"--I'm sorry, Your Honor?"
+1982.81-825,1,15060,john_paul_stevens,scotus_justice,3354.001,3360.107,Did the Antitrust Division just hand out information to private litigants as a result of their investigation?
+1982.81-825,1,35655,michael_w_coffield,,3362.089,3370.227,"No, the Government, with respect to the release of grand jury information and so forth, I think the Government has, with all due respect to the Government, been on both sides of that fence."
+1982.81-825,1,15073,warren_e_burger,scotus_justice,3419.033,3425.861,I get a feeling in this colloquy and the one that preceded it that we sometimes meet ourselves coming back.
+1982.81-825,1,35655,michael_w_coffield,,3429.359,3429.843,Okay.
+1982.81-825,1,15073,warren_e_burger,scotus_justice,3429.843,3431.312,Your witness is on the stand.
+1982.81-825,1,35655,michael_w_coffield,,3453.724,3454.772,Right.
+1982.81-825,1,15073,warren_e_burger,scotus_justice,3454.772,3459.082,Judge Singleton orders him to answer under pain of contempt.
+1982.81-825,1,35655,michael_w_coffield,,3459.082,3461.3,As he did.
+1982.81-825,1,15073,warren_e_burger,scotus_justice,3461.3,3462.517,And he answers.
+1982.81-825,1,35655,michael_w_coffield,,3462.517,3463.129,Okay.
+1982.81-825,1,15073,warren_e_burger,scotus_justice,3463.129,3465.079,Is that or is that not immune?
+1982.81-825,1,35655,michael_w_coffield,,3467.095,3470.047,That's my Catch-22.
+1982.81-825,1,15073,warren_e_burger,scotus_justice,3482.993,3484.214,My question is a simpler one.
+1982.81-825,1,35655,michael_w_coffield,,3493.35,3494.036,--I will answer.
+1982.81-825,1,15073,warren_e_burger,scotus_justice,3494.036,3495.616,"--I answer, and then he answers."
+1982.81-825,1,35655,michael_w_coffield,,3495.616,3496.146,Right.
+1982.81-825,1,15073,warren_e_burger,scotus_justice,3496.146,3498.439,Is that or is that not compelled testimony?
+1982.81-825,1,35655,michael_w_coffield,,3498.439,3499.722,"Oh, it certainly is compelled."
+1982.81-825,1,15071,byron_r_white,scotus_justice,3499.722,3501.551,"Well, it would never be admissible in a criminal proceeding."
+1982.81-825,1,35655,michael_w_coffield,,3502.533,3506.187,"Well, I would submit to Your Honor that I'm comfortable when you say that."
+1982.81-825,1,15071,byron_r_white,scotus_justice,3506.187,3507.564,Any more than a compelled confession.
+1982.81-825,1,35655,michael_w_coffield,,3507.564,3509.342,"I am comfortable hearing you say that, Your Honor."
+1982.81-825,1,15073,warren_e_burger,scotus_justice,3531.85,3537.816,"He could solve that by asserting the Fifth Amendment on every question that's put, and go through the same."
+1982.81-825,1,35655,michael_w_coffield,,3540.128,3552.966,"--Well, if the judge sits there, I would submit, Your Honors, and makes a determination on a case by case basis, I might feel more comfortable in terms of what's going to happen with Mr. Conboy's uncertainties."
+1982.81-825,1,15073,warren_e_burger,scotus_justice,3616.738,3619.752,"You have two minutes remaining, Mr. McConnell."
+1982.81-825,2,24329,francis_j_mcconnell,,3619.752,3624.015,"Mr. Chief Justice, members of the Court:"
+1982.81-825,2,15073,warren_e_burger,scotus_justice,3641.773,3645.615,How could the Government give immunity in a private civil suit?
+1982.81-825,2,24329,francis_j_mcconnell,,3645.615,3647.849,--I don't know how they can.
+1982.81-825,2,15073,warren_e_burger,scotus_justice,3647.849,3652.47,"Well, I thought you were challenging their failure to give it."
+1982.81-825,2,24329,francis_j_mcconnell,,3668.356,3668.964,No.
+1982.81-825,2,15073,warren_e_burger,scotus_justice,3674.883,3676.225,I'm not talking about immunized.
+1982.81-825,2,24329,francis_j_mcconnell,,3678.272,3688.174,"Compelled testimony over a Fifth Amendment assertion, the answer, cannot be used against that witness in a subsequent criminal proceeding."
+1982.81-825,2,15071,byron_r_white,scotus_justice,3688.174,3690.08,That doesn't mean you're supposed to compel him.
+1982.81-825,2,24329,francis_j_mcconnell,,3696.094,3696.983,That's right.
+1982.81-825,2,15071,byron_r_white,scotus_justice,3696.983,3701.295,"--Otherwise, the Fifth Amendment privilege would never exist."
+1982.81-825,2,24329,francis_j_mcconnell,,3703.713,3704.091,It is too general a statement.
+1982.81-825,2,15141,william_h_rehnquist,scotus_justice,3704.091,3704.855,It's too general.
+1982.81-825,2,24329,francis_j_mcconnell,,3707.164,3707.277,Exactly.
+1982.81-825,2,15141,william_h_rehnquist,scotus_justice,3707.277,3712.693,"--the Judge overrules it, the witness' answer is compelled; that can be introduced against him in another criminal proceeding."
+1982.81-825,2,24329,francis_j_mcconnell,,3712.693,3713.367,Exactly.
+1982.81-825,2,15073,warren_e_burger,scotus_justice,3755.537,3756.224,"Thank you, gentlemen."

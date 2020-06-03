@@ -1,0 +1,152 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1997.97-147,0,15141,william_h_rehnquist,scotus_justice,0.0,10.118,"We'll hear argument next in Number 97-147, Atlantic Mutual Insurance Company v. Commissioner of Internal Revenue."
+1997.97-147,0,24887,george_r_abramowitz,,16.583,33.252,"Mr. Chief Justice, and may it please the Court--"
+1997.97-147,0,15084,ruth_bader_ginsburg,scotus_justice,91.783,94.013,But isn't that a disputed point?
+1997.97-147,0,24887,george_r_abramowitz,,99.908,112.927,"The... I... it's unclear, actually, Justice Ginsburg, the extent to which the Government disputes the history of the meaning of reserve strengthening in insurance tax law."
+1997.97-147,0,15084,ruth_bader_ginsburg,scotus_justice,128.918,136.554,"Which is what we're talking about here, and they had two witnesses to say in property and casualty, at least, the meaning is not a term of art."
+1997.97-147,0,24887,george_r_abramowitz,,141.047,141.578,--The Government--
+1997.97-147,0,15084,ruth_bader_ginsburg,scotus_justice,141.578,148.634,--I'm just bringing that up to say that it isn't... can't be clear that it is a term of art in the kind of insurance we're talking about.
+1997.97-147,0,24887,george_r_abramowitz,,148.634,172.069,"--In the context of this case it is petitioner's position that the term, reserve strengthening, was a tax term of art, that Congress knew precisely what the term meant when it used it, that in fact the distinction between life insurance and property casualty insurance in this context is really not at all relevant."
+1997.97-147,0,15092,sandra_day_oconnor,scotus_justice,205.25,212.095,"Well, what are the differences in reserve accounting between the life insurance and the property and casualty insurance businesses?"
+1997.97-147,0,24887,george_r_abramowitz,,212.095,215.148,"--Insofar as relevant to this case, Justice O'Connor, there are none."
+1997.97-147,0,15139,stephen_g_breyer,scotus_justice,223.023,223.864,"Well, I thought there was a big difference."
+1997.97-147,0,24887,george_r_abramowitz,,298.202,300.734,"All right, I need to back up just a step, Justice Breyer."
+1997.97-147,0,15113,anthony_m_kennedy,scotus_justice,326.479,344.042,"I think that's very important, and I think we should stay with the format of Justice Breyer's question, but just taking the first part of his question to help us to understand these things, isn't it true that in the life area reserves are usually changed because of methodologies and in the casualty area because of empirical reports that there have been... that there have been losses and so forth?"
+1997.97-147,0,24887,george_r_abramowitz,,355.569,362.232,"--Well, in fact... that is correct, but in fact the comparable... when they make that change in the property casualty area that is the normal reserve increase."
+1997.97-147,0,15113,anthony_m_kennedy,scotus_justice,374.953,390.183,"--So that, as a general matter, reserve changes... other than for the addition of new policies reserve changes are made in the life area because of methodology changes and in the casualty area because of empirical assessments about actual losses."
+1997.97-147,0,24887,george_r_abramowitz,,390.183,400.248,"--No, Justice Kennedy, I think actually I'm disagreeing with that point, because in the life area there are regular, routine, normal reserve changes each and every year, increases in reserves, adjustments to reserves."
+1997.97-147,0,15113,anthony_m_kennedy,scotus_justice,400.248,401.53,For what reasons?
+1997.97-147,0,24887,george_r_abramowitz,,401.53,414.296,"The formula for determining life insurance reserves has to do with determining the present value... the relationship between the present value of future benefits and the present value of future net premiums, and those things really adjust every year."
+1997.97-147,0,15113,anthony_m_kennedy,scotus_justice,416.319,418.089,And those are different than methodology changes.
+1997.97-147,0,24887,george_r_abramowitz,,418.089,443.518,"Exactly, and that's the very important point I'm trying to make, that there is a fundamental comparability and certainly Congress was aware of this, because I want to go back to Justice Breyer's question, that in the normal adjustments to reserves, things that happen without anything extraordinary, anything untoward or mischievous, potentially mischievous, and adjustments to reserves that result from changes in methods and assumptions."
+1997.97-147,0,15042,david_h_souter,scotus_justice,465.661,466.122,Okay.
+1997.97-147,0,24887,george_r_abramowitz,,496.082,500.736,"Actually, it's easier to think about it from the other side, Justice Souter."
+1997.97-147,0,15042,david_h_souter,scotus_justice,530.765,536.469,"Because insurance adjusters call in and they say, you know, there was a big loss, the roof fell in, things like that."
+1997.97-147,0,24887,george_r_abramowitz,,537.579,538.04,That--
+1997.97-147,0,15042,david_h_souter,scotus_justice,538.04,540.541,"--The empirically based adjustments, in other words."
+1997.97-147,0,24887,george_r_abramowitz,,540.541,541.402,"--There is certainly that element, but that is just--"
+1997.97-147,0,15042,david_h_souter,scotus_justice,541.402,542.113,Okay.
+1997.97-147,0,24887,george_r_abramowitz,,543.823,544.314,--No.
+1997.97-147,0,15042,david_h_souter,scotus_justice,545.105,545.954,Okay.
+1997.97-147,0,24887,george_r_abramowitz,,545.954,551.04,"On that element there is not, but that is just one element of a determination of property and casualty reserves."
+1997.97-147,0,15049,antonin_scalia,scotus_justice,583.971,584.822,The formula's not the problem.
+1997.97-147,0,24887,george_r_abramowitz,,591.107,605.637,"Each and every year, life insurance reserves increase as a result... probably the simplest way to put this, of the insured becoming closer to death, or--"
+1997.97-147,0,15042,david_h_souter,scotus_justice,605.637,607.967,"Right, but that's... that's considered in the formula, isn't it?"
+1997.97-147,0,24887,george_r_abramowitz,,629.592,637.427,--I would think those... the kinds that do not reflect implementations of previous methodology are the kind that involve changes in methods and assumptions.
+1997.97-147,0,15139,stephen_g_breyer,scotus_justice,638.398,650.306,"I mean, isn't this the case, that suppose I have an insurance company and I insure people in Jacksonville, Florida, for life insurance, and through some kind of total fluke a terrible disease breaks out, unpredictable, in Florida, not elsewhere."
+1997.97-147,0,24887,george_r_abramowitz,,665.135,671.701,"--I'm not sure... in your example, you simply discovered there was some... I'm sorry, I need to--"
+1997.97-147,0,15139,stephen_g_breyer,scotus_justice,671.701,678.905,"Suddenly you happen to be in a city where your insurance company is, and suddenly a lot more people died there than you'd think."
+1997.97-147,0,24887,george_r_abramowitz,,686.3,693.022,"--I mean, I would think that ultimately that may require a change in methods and assumptions, but many of the things, underlying facts do require that--"
+1997.97-147,0,15139,stephen_g_breyer,scotus_justice,693.022,693.643,--Okay.
+1997.97-147,0,24887,george_r_abramowitz,,699.898,700.589,--There--
+1997.97-147,0,15139,stephen_g_breyer,scotus_justice,700.589,701.771,--that's probably your problem.
+1997.97-147,0,24887,george_r_abramowitz,,701.771,702.98,--There are corrections of errors.
+1997.97-147,0,15084,ruth_bader_ginsburg,scotus_justice,768.794,784.923,"Mr. Abramowitz, if we could go back to the second part of Justice Breyer's question, that is, if one looked only at that Senate report one would say, you win, but the conference report seems to be much more inclusive than what you are now describing to us."
+1997.97-147,0,24887,george_r_abramowitz,,784.923,792.309,"--Justice Ginsburg, the conference report has, for all intents and purposes, the identical carve out from the fresh start rule."
+1997.97-147,0,15060,john_paul_stevens,scotus_justice,849.415,851.188,"Well, am I correct... I just want to be sure about my memory."
+1997.97-147,0,24887,george_r_abramowitz,,854.77,856.5,"--No, Justice Stevens."
+1997.97-147,0,15060,john_paul_stevens,scotus_justice,857.972,859.683,Pardon me again?
+1997.97-147,0,24887,george_r_abramowitz,,862.093,863.035,"Yes, Justice Stevens."
+1997.97-147,0,15060,john_paul_stevens,scotus_justice,863.035,864.056,--in the 1984 statute?
+1997.97-147,0,24887,george_r_abramowitz,,864.056,865.046,"Yes, precisely."
+1997.97-147,0,15060,john_paul_stevens,scotus_justice,865.046,867.367,And it defined it as a change in methodology?
+1997.97-147,0,24887,george_r_abramowitz,,867.367,868.979,"No, it didn't define it."
+1997.97-147,0,15060,john_paul_stevens,scotus_justice,870.799,872.371,--I've got the statutes... the life insurance statute.
+1997.97-147,0,24887,george_r_abramowitz,,873.592,874.122,--Yes.
+1997.97-147,0,15060,john_paul_stevens,scotus_justice,882.848,884.631,"--And did it define the term, reserve strengthening?"
+1997.97-147,0,24887,george_r_abramowitz,,884.631,885.359,"No, it did not."
+1997.97-147,0,15049,antonin_scalia,scotus_justice,906.834,907.715,What was that--
+1997.97-147,0,24887,george_r_abramowitz,,932.312,941.457,--That sentence in 1984 was consistent with the notion that reserve practices were... were... changes in reserve practices involved reserve strengthening.
+1997.97-147,0,15049,antonin_scalia,scotus_justice,941.457,943.318,Changes in methodology.
+1997.97-147,0,24887,george_r_abramowitz,,943.318,944.279,Yes.
+1997.97-147,0,15060,john_paul_stevens,scotus_justice,944.279,947.579,Are those provisions of the 1984 statute quoted in any of the papers before us?
+1997.97-147,0,24887,george_r_abramowitz,,947.579,949.803,"Yes, Justice Stevens, on page--"
+1997.97-147,0,15060,john_paul_stevens,scotus_justice,949.803,951.032,Is it A-51?
+1997.97-147,0,24887,george_r_abramowitz,,951.032,955.416,--A-51 in the petition for certiorari.
+1997.97-147,0,15042,david_h_souter,scotus_justice,955.416,960.979,What was the reason for having a special rule with respect to the '83 contracts?
+1997.97-147,0,24887,george_r_abramowitz,,965.872,969.375,"First off, it's peculiar because it's stated as a negative rule."
+1997.97-147,0,15042,david_h_souter,scotus_justice,980.002,980.521,Right.
+1997.97-147,0,24887,george_r_abramowitz,,980.521,1005.389,"--reserves on, and then what it really related to was reserve strengthening at the end of 1984, that that was consistent with practices at the end of '83, and while I am... I can point to evidence that the sentence, and we have pointed to evidence that the sentence was not intended to define reserve strengthening, there really is no actual evidence as to what particular case Congress had in mind under that rule, but--"
+1997.97-147,0,15042,david_h_souter,scotus_justice,1005.389,1006.488,"All right, then why... what is your answer, then, to this argument."
+1997.97-147,0,24887,george_r_abramowitz,,1053.661,1055.09,"--Well, several things to point out."
+1997.97-147,0,15042,david_h_souter,scotus_justice,1107.804,1121.764,"Well, maybe I don't understand, but I... it seems to me that the companies could be taking those kinds of actions with respect to contracts entered into in any year, and why did they... why did they single out contracts entered into in one particular year?"
+1997.97-147,0,24887,george_r_abramowitz,,1121.764,1130.78,"--Companies could take those actions with respect to contracts and enter into any year and, indeed, those are the very actions that are prescribed by the reserve strengthening rule."
+1997.97-147,0,15042,david_h_souter,scotus_justice,1139.485,1140.256,But we don't know what it is.
+1997.97-147,0,24887,george_r_abramowitz,,1140.256,1155.707,"Congress didn't tell you what it was, but they didn't tell you in the House bill and they really didn't... in 1986, when they got rid of the mid year effective date, in effect, the trigger, which started out in the Senate bill as a March... reserve strengthening after March 1, and the final conference bill modified that treatment."
+1997.97-147,0,15092,sandra_day_oconnor,scotus_justice,1166.766,1179.172,"Mr. Abramowitz, if we apply the Treasury regulation at issue here, does it answer the question of how we deal with this in the property and casualty context?"
+1997.97-147,0,24887,george_r_abramowitz,,1179.172,1181.913,"Well, it provides a rule."
+1997.97-147,1,33864,kent_l_jones,,1564.715,1568.989,"Thank you, Mr. Chief Justice, and may it please the Court--"
+1997.97-147,1,15113,anthony_m_kennedy,scotus_justice,1599.961,1609.685,"Now, I take it there's a reason under your theory of the case that Congress used the term strengthen rather than increase."
+1997.97-147,1,33864,kent_l_jones,,1609.685,1610.846,Yes.
+1997.97-147,1,15113,anthony_m_kennedy,scotus_justice,1610.846,1613.788,And I... tell me if this is right.
+1997.97-147,1,33864,kent_l_jones,,1627.407,1628.198,That's absolutely right.
+1997.97-147,1,15049,antonin_scalia,scotus_justice,1667.464,1677.162,"Mr. Jones, could you tell me, the one thing that puzzles me about this is what is the evil that the statute is directed at on your interpretation of it?"
+1997.97-147,1,33864,kent_l_jones,,1685.285,1686.214,The--
+1997.97-147,1,15049,antonin_scalia,scotus_justice,1686.214,1696.943,"If you're just taking account of verifiable real life occurrences, what... why would the Government not want that to be taken into account?"
+1997.97-147,1,33864,kent_l_jones,,1696.943,1698.553,--I wouldn't want to use the word evil.
+1997.97-147,1,15092,sandra_day_oconnor,scotus_justice,1768.722,1775.556,What kind of deference do you think we owe to a regulation of this kind?
+1997.97-147,1,33864,kent_l_jones,,1775.556,1780.311,"Well, we have taken a position in this case that this is an interpretive regulation."
+1997.97-147,1,15084,ruth_bader_ginsburg,scotus_justice,1801.923,1804.105,And that was a pre Chevron case.
+1997.97-147,1,33864,kent_l_jones,,1804.105,1804.566,--Yes.
+1997.97-147,1,15084,ruth_bader_ginsburg,scotus_justice,1804.566,1806.238,And it's been working okay in the tax area.
+1997.97-147,1,33864,kent_l_jones,,1806.238,1812.372,"Absolutely, and I'm... I'm not familiar of a reason why you shouldn't cite Chevron on this case."
+1997.97-147,1,15049,antonin_scalia,scotus_justice,1815.274,1816.372,You like that other test better.
+1997.97-147,1,33864,kent_l_jones,,1816.372,1831.602,"--You have long applied another test, and I think that other test has... even if it has a different emphasis it has the same conclusion, but I think that there is a particular practical side to the National Muffler Dealers and Correll test."
+1997.97-147,1,15049,antonin_scalia,scotus_justice,1852.387,1854.667,Any other agencies we should treat specially?
+1997.97-147,1,33864,kent_l_jones,,1854.667,1856.52,I'm not representing any other--
+1997.97-147,1,15049,antonin_scalia,scotus_justice,1856.52,1857.929,And have sort of a super Chevron--
+1997.97-147,1,33864,kent_l_jones,,1857.929,1859.672,--I don't really think it's a super Chevron.
+1997.97-147,1,15139,stephen_g_breyer,scotus_justice,1878.434,1880.296,"--It's a variation of Skidmore, possibly."
+1997.97-147,1,33864,kent_l_jones,,1885.439,1888.582,Well... okay.
+1997.97-147,1,15084,ruth_bader_ginsburg,scotus_justice,1899.707,1903.33,Academic writers have said it's Chevron minus.
+1997.97-147,1,33864,kent_l_jones,,1903.33,1904.289,Yes.
+1997.97-147,1,15092,sandra_day_oconnor,scotus_justice,1912.935,1918.631,Can we get the meaning of reserve strengthening from the statute alone?
+1997.97-147,1,33864,kent_l_jones,,1918.631,1918.979,I--
+1997.97-147,1,15092,sandra_day_oconnor,scotus_justice,1918.979,1922.272,Or do we have to look at that regulation to know what it means?
+1997.97-147,1,33864,kent_l_jones,,1922.272,1929.558,--I think you can get the meaning of the statute by the ordinary application of interpretive principles that the Court applies.
+1997.97-147,1,15092,sandra_day_oconnor,scotus_justice,1980.891,1994.61,"Mr. Jones, if your position is the right one here, what differences are there at bottom between the life insurance reserve strengthening and the property and casualty reserve strengthening?"
+1997.97-147,1,33864,kent_l_jones,,1994.61,2005.149,"Well, the '84 act governs the life insurance reserve strengthening provision, and it is limited to changes in reserves caused by changes in the reserve methodologies."
+1997.97-147,1,15141,william_h_rehnquist,scotus_justice,2040.579,2046.264,So for that period of time no increases of reserves qualify for the double deduction.
+1997.97-147,1,33864,kent_l_jones,,2046.264,2053.998,"--For the eighty... in... no reserve strengthening in '86, no reserve increases for existing reserves get the double deduction under the '86 act."
+1997.97-147,1,15113,anthony_m_kennedy,scotus_justice,2055.6,2064.685,"Now, you changed your position on the equivalence of the statutes in your brief to this Court or the lower court, or is that a mischaracterization?"
+1997.97-147,1,33864,kent_l_jones,,2064.685,2067.928,I don't... I don't follow the question.
+1997.97-147,1,15113,anthony_m_kennedy,scotus_justice,2147.088,2156.375,"And you have always interpreted the term to mean the same in the '84 and the '86 act, subject, of course, to the fact that there's a qualification in the '84 act."
+1997.97-147,1,33864,kent_l_jones,,2156.375,2156.906,Yes.
+1997.97-147,1,15113,anthony_m_kennedy,scotus_justice,2197.963,2199.963,"Well, let me just do it one more time."
+1997.97-147,1,33864,kent_l_jones,,2207.91,2209.16,--The only--
+1997.97-147,1,15113,anthony_m_kennedy,scotus_justice,2209.16,2211.761,"Subject, of course, to this special clause that's in the '84 act."
+1997.97-147,1,33864,kent_l_jones,,2211.761,2212.212,--Yes.
+1997.97-147,1,15042,david_h_souter,scotus_justice,2241.721,2244.513,I thought maybe... help me out on this.
+1997.97-147,1,33864,kent_l_jones,,2259.973,2264.447,It may be that that's the effect of the proviso.
+1997.97-147,1,15042,david_h_souter,scotus_justice,2264.447,2264.995,Yes.
+1997.97-147,1,33864,kent_l_jones,,2264.995,2266.307,But I don't think that was the object of it.
+1997.97-147,1,15042,david_h_souter,scotus_justice,2276.335,2277.256,"That's right, yes."
+1997.97-147,1,33864,kent_l_jones,,2277.256,2283.991,"And so it must have meant... if you will, it must have meant something more, and what... it certainly can mean more, and--"
+1997.97-147,1,15042,david_h_souter,scotus_justice,2283.991,2285.403,At least have been capable of meaning more.
+1997.97-147,1,33864,kent_l_jones,,2285.403,2294.19,"--It's certainly capable of meaning more, and in the '86 act, clearly Congress wanted it to mean more to prevent this double deduction from being expanded beyond what they were willing to tolerate."
+1997.97-147,1,15139,stephen_g_breyer,scotus_justice,2294.19,2296.901,I don't know if you can correct my problem with the double deduction.
+1997.97-147,1,33864,kent_l_jones,,2331.733,2332.444,It doesn't.
+1997.97-147,1,15139,stephen_g_breyer,scotus_justice,2332.444,2335.586,"--Why doesn't it grow to 10, and maybe it's not worth going into."
+1997.97-147,1,33864,kent_l_jones,,2335.586,2338.849,You may be thinking of life reserves instead of property and casualty reserves.
+1997.97-147,1,15139,stephen_g_breyer,scotus_justice,2338.849,2348.783,"In property and casualty reserves, you didn't... didn't they discount it, because they wanted to have an amount here in year one such that it would grow to the point where it equaled the amount that they'd have to pay out in year three?"
+1997.97-147,1,33864,kent_l_jones,,2350.395,2351.494,The--
+1997.97-147,1,15139,stephen_g_breyer,scotus_justice,2351.494,2353.337,"And if that was, why didn't it grow?"
+1997.97-147,1,33864,kent_l_jones,,2353.337,2356.57,--The reserve strengthening rule doesn't cover 30--
+1997.97-147,1,15139,stephen_g_breyer,scotus_justice,2356.57,2358.13,"No, it has nothing to do with reserve strengthening."
+1997.97-147,1,33864,kent_l_jones,,2358.13,2358.62,--Okay.
+1997.97-147,1,15139,stephen_g_breyer,scotus_justice,2358.62,2362.373,I'm just trying to figure out this problem of what you call the double deduction in your example in the--
+1997.97-147,1,33864,kent_l_jones,,2362.373,2363.372,All right.
+1997.97-147,1,15139,stephen_g_breyer,scotus_justice,2363.372,2365.085,--Don't bother if it's too complicated.
+1997.97-147,1,33864,kent_l_jones,,2365.085,2366.946,"It is too complicated, but let me try."
+1997.97-147,1,15139,stephen_g_breyer,scotus_justice,2388.5,2391.402,"But then, by the time you got to pay it out the reserves should have equaled 10, not 9."
+1997.97-147,1,33864,kent_l_jones,,2391.402,2394.544,"Well, then you've fully gotten the double deduction over the--"
+1997.97-147,1,15139,stephen_g_breyer,scotus_justice,2394.544,2397.386,"Ah, because... because you mean, you took it a little... as it was growing each year."
+1997.97-147,1,33864,kent_l_jones,,2397.386,2397.877,--That's right.
+1997.97-147,1,15139,stephen_g_breyer,scotus_justice,2397.877,2398.408,Okay.
+1997.97-147,1,33864,kent_l_jones,,2400.538,2410.766,The only other point I think I need to address is the suggestion that the mechanical rule reaches absurd or anomalous results.
+1997.97-147,1,15049,antonin_scalia,scotus_justice,2428.617,2434.101,"You're saying this is all gravy, so taking away any of it can't possibly be unreasonable."
+1997.97-147,1,33864,kent_l_jones,,2434.101,2436.823,"I think that's... well, I think that's exactly right."
+1997.97-147,1,15113,anthony_m_kennedy,scotus_justice,2443.277,2457.206,"In your view, if there's an old policy and an old loss in the casualty area, and it's just discovered, can you increase the reserve for that without strengthening the reserve?"
+1997.97-147,1,33864,kent_l_jones,,2457.206,2458.348,No.
+1997.97-147,2,24887,george_r_abramowitz,,2650.406,2656.61,It would not have been unreasonable for Congress to have not provided the reserve strength... the fresh start rule.
+1997.97-147,2,15141,william_h_rehnquist,scotus_justice,2803.147,2804.629,"Thank you, Mr. Abramowitz."

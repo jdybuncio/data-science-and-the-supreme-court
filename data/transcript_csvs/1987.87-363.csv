@@ -1,0 +1,112 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1987.87-363,0,15141,william_h_rehnquist,scotus_justice,0.0,17.61,"We will hear argument first this morning in Number 87-363, Federal Eenergy Regulatory Commission versus Martin Exploration Management, Number 87-364, Public Service Commission of New York versus Martin Exploration Management Company."
+1987.87-363,0,40639,richard_g_taranto,,20.478,29.685,"Mr. Chief Justice, and may it please the Court, this case concerns the process of deregulation under the Natural Gas Policy Act of 1978."
+1987.87-363,0,15141,william_h_rehnquist,scotus_justice,484.93,497.155,"Mr. Taranto, perhaps I am naive, but if some of this gas is deregulated and some isn't, and the deregulated price is lower, who buys, the stuff at the higher price?"
+1987.87-363,0,40639,richard_g_taranto,,497.155,501.559,--The answer to that question turns on when the contracts were made.
+1987.87-363,0,15141,william_h_rehnquist,scotus_justice,539.232,542.619,But it is not a question just of contract interpretation then.
+1987.87-363,0,40639,richard_g_taranto,,542.619,553.157,"No, the contracts themselves look to the statutory regulatory interpretation in order to determine which clause of the contracts applies."
+1987.87-363,0,15049,antonin_scalia,scotus_justice,564.282,571.536,"Mr. Taranto, would you explain how the circularity problem arises with the Court of Appeals' interpretation?"
+1987.87-363,0,40639,richard_g_taranto,,571.536,587.398,"Well, the contracts as I describe as written say in one clause if the gas is regulated then a certain price applies, or the maximum legal price applies."
+1987.87-363,0,15049,antonin_scalia,scotus_justice,635.042,635.811,They wouldn't.
+1987.87-363,0,40639,richard_g_taranto,,676.452,690.795,"That's right, I think one can get off, and with a renegotiation clause, as the Court of Appeals pointed out, typically where one would get off is at the regulated price, because the producer would have no incentive to renegotiate below the regulated price."
+1987.87-363,0,15113,anthony_m_kennedy,scotus_justice,703.102,739.526,"Counsel, you have really already addressed the argument in part by saying that you think there's nothing in the overall scheme of the Act that indicates Congress wanted the highest price at ail times, but that means, though, that the last clause of the sentence that we're... the section we are looking at is a little bit out of step with the scheme of the Act, doesn't it, because it does say the provision which could result in the highest price shall be applicable, and when one first looks at this case, it looks like there's a policy for the Congress to allow the maximum price."
+1987.87-363,0,40639,richard_g_taranto,,739.526,757.57,I think the policy here is to allow the maximum permissible price set by law with parties free to negotiate under that ceiling according to their bargaining power and market conditions.
+1987.87-363,0,15060,john_paul_stevens,scotus_justice,949.981,955.616,May I ask you one question about the first issue in the case rather than the one you just addressed?
+1987.87-363,0,40639,richard_g_taranto,,958.218,967.157,"No, we rely on Section 121, but in court we rely on it as additional evidence of how 101(b)(5) should be interpreted."
+1987.87-363,0,15060,john_paul_stevens,scotus_justice,974.93,975.58,Thank you.
+1987.87-363,0,40639,richard_g_taranto,,982.619,983.319,"No, we haven't."
+1987.87-363,0,15049,antonin_scalia,scotus_justice,990.022,999.878,"You tell me, on the second issue, the one thing that concerns me about it is, there does seem to be a requirement... well, there is a requirement for determination."
+1987.87-363,0,40639,richard_g_taranto,,1027.314,1038.103,"Well, we think that the option of producer choice of qualification can't be stated quite so broadly as the Court of Appeals did."
+1987.87-363,0,15049,antonin_scalia,scotus_justice,1058.084,1059.203,I see.
+1987.87-363,0,40639,richard_g_taranto,,1059.203,1073.193,"And thereby just diminished the definition so as to exclude precisely the cases that it has provided for deregulation in this manner, but in addition the Commission does have a role in the qualification process."
+1987.87-363,0,15141,william_h_rehnquist,scotus_justice,1117.705,1119.022,"Thank you, Mr. Taranto."
+1987.87-363,1,40555,richard_a_solomon,,1120.824,1173.042,"May it please the Chief Justice, Members of the Court, the petitioners in 364, the Public Service Commission of the State of New York, the Associated Gas Distributors, the Panhandle Eastern Pipeline, and the Tennessee Gas Pipeline, have joined together in their petition here because what we believe the lower court's opinion erroneously has done is to prevent pipelines from the benefits of their bargains as to how gas should be priced under deregulation while at the same time allowing producers to have the benefits of those bargains, and unfairly rasing prices."
+1987.87-363,1,15049,antonin_scalia,scotus_justice,1299.873,1304.277,You're not contending that's unfair.
+1987.87-363,1,40555,richard_a_solomon,,1309.829,1312.514,The take or pay provisions are part of the--
+1987.87-363,1,15049,antonin_scalia,scotus_justice,1312.514,1313.982,You traded that for--
+1987.87-363,1,40555,richard_a_solomon,,1313.982,1314.765,--They are not unfair.
+1987.87-363,1,15049,antonin_scalia,scotus_justice,1314.765,1320.202,"--You traded that for the guaranteed deliverability over; what, some of them are 20-year contracts, aren't they."
+1987.87-363,1,40555,richard_a_solomon,,1320.202,1322.254,"Well, whatever a contract is."
+1987.87-363,1,15049,antonin_scalia,scotus_justice,1343.402,1344.718,But there is nothing unfair about it now.
+1987.87-363,1,40555,richard_a_solomon,,1345.77,1350.722,"--We argue it is unjust and unreasonable, but that's a different issue that has come up in a different court."
+1987.87-363,1,15049,antonin_scalia,scotus_justice,1356.309,1360.946,"You wouldn't want those contracts, that form of contract outlawed, would you?"
+1987.87-363,1,40555,richard_a_solomon,,1360.946,1375.706,"We would perhaps want to have take or pay contracts reduced, and we are so arguing to the Commission, and this was the issue in a case before the Court of Appeals, but that's not what I'm discussing here today."
+1987.87-363,1,15049,antonin_scalia,scotus_justice,1538.377,1547.851,"Mr. Solomon, does it make any difference for purposes of other activities under the Act which of those interpretations... suppose we come out your way."
+1987.87-363,1,40555,richard_a_solomon,,1552.82,1555.772,--Whether you take 121 or whether you take 101 (b)(5)?
+1987.87-363,1,15141,william_h_rehnquist,scotus_justice,1739.938,1742.04,"Mr. Solomon, Mr. Solomon, your time has expired."
+1987.87-363,1,40555,richard_a_solomon,,1742.04,1742.373,--Thank you.
+1987.87-363,1,15141,william_h_rehnquist,scotus_justice,1742.373,1742.69,Thank you.
+1987.87-363,2,29960,jeffrey_s_davidson,,1745.325,1774.511,"Mr. Chief Justice, and may it please the Court, the unanimous Court of Appeals correctly viewed this case as presenting a straightforward issue of statutory construction resolvable from the language of the statute itself as well as from the explanatory materials prepared by the conference committee."
+1987.87-363,2,15141,william_h_rehnquist,scotus_justice,1836.132,1843.053,"Mr. Davidson, you say this case will determine whether the producers will receive the market prices they bargained for."
+1987.87-363,2,29960,jeffrey_s_davidson,,1849.356,1857.962,"--In the contracts that were negotiated here, the prices that were arrived at in the contract are in fact market prices."
+1987.87-363,2,15141,william_h_rehnquist,scotus_justice,1866.818,1870.703,They were the market prices at the time the contract was negotiated?
+1987.87-363,2,29960,jeffrey_s_davidson,,1870.703,1871.305,"Yes, sir."
+1987.87-363,2,15141,william_h_rehnquist,scotus_justice,1871.305,1878.959,But that doesn't mean the market prices will necessarily correspond to the contract prices three or four years after the contract was executed.
+1987.87-363,2,29960,jeffrey_s_davidson,,1878.959,1886.564,It does not mean that market prices negotiated into contracts today will be the same as those prices negotiated in the earlier contracts.
+1987.87-363,2,15141,william_h_rehnquist,scotus_justice,1887.299,1902.424,"Well, it also means if you have a contract for over 20 years what you negotiate as a market price in the beginning of that contract may not be the same price you could go out on the open market and buy four years into the execution of the contract."
+1987.87-363,2,29960,jeffrey_s_davidson,,1902.424,1904.193,That's absolutely correct.
+1987.87-363,2,15141,william_h_rehnquist,scotus_justice,2243.646,2245.764,"Mr. Davidson, let me interrupt you a minute."
+1987.87-363,2,29960,jeffrey_s_davidson,,2248.148,2254.018,By filing an appeal from the Order 406 that FERC entered.
+1987.87-363,2,15141,william_h_rehnquist,scotus_justice,2254.018,2259.238,And what was the occasion for FERC entering Order 406?
+1987.87-363,2,29960,jeffrey_s_davidson,,2259.238,2262.623,"By occasion, sir, I'm not sure what you mean."
+1987.87-363,2,15141,william_h_rehnquist,scotus_justice,2262.623,2268.611,How did... Order 406 was a regulatory order?
+1987.87-363,2,29960,jeffrey_s_davidson,,2268.611,2269.379,"Yes, sir."
+1987.87-363,2,15141,william_h_rehnquist,scotus_justice,2269.379,2276.45,"What I am trying to find out is, why isn't this simply a contract case?"
+1987.87-363,2,29960,jeffrey_s_davidson,,2276.45,2287.591,It is not a contract case in the sense that what FERC is really done by this order is foreordained the result in all of the contract cases that could arise.
+1987.87-363,2,15141,william_h_rehnquist,scotus_justice,2313.825,2316.527,And you have that term in your contract?
+1987.87-363,2,29960,jeffrey_s_davidson,,2316.527,2324.014,--The term in the Martin contract essentially is different from the one that Mr. Taranto gave an example of.
+1987.87-363,2,15141,william_h_rehnquist,scotus_justice,2342.659,2350.181,Why can't you simply sue your customer in court for the price you think is warranted under the contract?
+1987.87-363,2,29960,jeffrey_s_davidson,,2350.181,2362.823,Because FERC has entered an order which says that that properly qualified 107(c)(5) and 108 gas is deemed to be deregulated 102 or 103 gas.
+1987.87-363,2,15141,william_h_rehnquist,scotus_justice,2362.823,2365.275,"Well, what's the significance of that to your contract?"
+1987.87-363,2,29960,jeffrey_s_davidson,,2365.275,2385.938,Because that means that that gas automatically then qualifies under the category and must be considered to be gas sold under a category which is deregulated under the contract and thus is priced according to contract provisions which neither party ever intended to be applied to that kind of special gas.
+1987.87-363,2,15141,william_h_rehnquist,scotus_justice,2388.321,2390.337,But you are not arguing the intent the parties here.
+1987.87-363,2,29960,jeffrey_s_davidson,,2396.725,2400.043,Or just consistent with the statute--
+1987.87-363,2,15141,william_h_rehnquist,scotus_justice,2400.043,2400.645,Yes.
+1987.87-363,2,29960,jeffrey_s_davidson,,2400.645,2401.995,--I think is how I would rephrase it.
+1987.87-363,2,15141,william_h_rehnquist,scotus_justice,2403.597,2405.247,That seems... well.
+1987.87-363,2,29960,jeffrey_s_davidson,,2405.247,2428.728,"The only point in going through the background is, there have been an awful lot of arguments that we've heard, which are again referred to here in the oral argument, about windfall prices and so forth, and really this just comes down to whether or not the producers can obtain the prices they negotiated for this kind of gas in their contracts."
+1987.87-363,2,15060,john_paul_stevens,scotus_justice,2428.728,2429.228,Mr. Davidson--
+1987.87-363,2,29960,jeffrey_s_davidson,,2429.228,2429.894,"Yes, sir."
+1987.87-363,2,15060,john_paul_stevens,scotus_justice,2429.894,2430.611,--let me ask you a question.
+1987.87-363,2,29960,jeffrey_s_davidson,,2447.773,2454.343,"Yes, if the parties had assumed that Section 107(b)(5) gas would be deregulated."
+1987.87-363,2,15060,john_paul_stevens,scotus_justice,2454.343,2459.663,"Yes, if they thought it was possible, they could have said, we'll continue to pay the same price, or some other category."
+1987.87-363,2,29960,jeffrey_s_davidson,,2467.417,2468.35,"No, sir, we--"
+1987.87-363,2,15060,john_paul_stevens,scotus_justice,2468.35,2470.535,So you would have wanted to have the deregulated price.
+1987.87-363,2,29960,jeffrey_s_davidson,,2470.535,2483.444,"--No, sir, there was no provision placed into the contract for what you should do if Section 107(c)(5) gas became deregulated because Section 107(c)(5) gas is never deregulated under the statute."
+1987.87-363,2,15049,antonin_scalia,scotus_justice,2489.432,2502.323,"Statutes are amended, and I think these contracts envision that statutes are amended, and when some of them refer to deregulation of gas, they... you mean, they don't include deregulation by amendment of the statute?"
+1987.87-363,2,29960,jeffrey_s_davidson,,2502.323,2510.012,--I suppose that if Congress would pass an amendment amending the NGPA in a way that provided for deregulation--
+1987.87-363,2,15049,antonin_scalia,scotus_justice,2510.012,2516.0,I am rock bottom certain that that's what they meant and that that's what they do when they enter into these contracts.
+1987.87-363,2,29960,jeffrey_s_davidson,,2524.003,2528.057,"--That is possible, except in this case the NGPA has not been amended."
+1987.87-363,2,15060,john_paul_stevens,scotus_justice,2563.313,2567.448,Does the record contain an example of the text of the contract we're talking about?
+1987.87-363,2,29960,jeffrey_s_davidson,,2567.448,2581.939,"The record doesn't contain an example of any particular contract provisions that I'm aware of, although both of the petitioner's briefs contain references to examples of the kinds of contracts which exist."
+1987.87-363,2,15060,john_paul_stevens,scotus_justice,2581.939,2582.374,The briefs do.
+1987.87-363,2,29960,jeffrey_s_davidson,,2602.102,2611.458,"With the benefit of hindsight, sort of the Monday morning quarterbacking, I suppose you can draft a contract to cover any eventuality."
+1987.87-363,2,15141,william_h_rehnquist,scotus_justice,2680.769,2695.945,"Well, supposing you could show that it was the intent of both parties here that when you said unregulated gas, for example, you meant unregulated gas as you understood it, and regardless of anything FERC ever did about it."
+1987.87-363,2,29960,jeffrey_s_davidson,,2700.231,2721.66,"Well, there will be underlying contract issues that could arise later on after this FERC order, but I think that if FERC's order is effective, which says that as a matter of law this certain kind of gas, which is 107(c)(5) gas, is to be deemed deregulated 102 or 103 gas."
+1987.87-363,2,15141,william_h_rehnquist,scotus_justice,2725.798,2729.766,"Yes, but you won't be saving that if you get into court suing on the contract."
+1987.87-363,2,29960,jeffrey_s_davidson,,2732.535,2739.289,"But the only consequence of that, sir, would be to avoid the contract, and that's not a solution for any producer."
+1987.87-363,2,15141,william_h_rehnquist,scotus_justice,2739.289,2742.241,Why would that void the contract?
+1987.87-363,2,29960,jeffrey_s_davidson,,2742.241,2756.898,"Because what that would do is say that a fundamental premise of the contract was now gone, that certain kinds of gas were no longer in a category which the government now says it must be considered to be in."
+1987.87-363,2,15049,antonin_scalia,scotus_justice,2764.904,2777.83,"Mr. Davidson, could I ask you about the central point of your argument, which... you diverge from FERC in that you want to interpret 101(b)(5) more concretely than they do."
+1987.87-363,2,29960,jeffrey_s_davidson,,2818.688,2819.505,Absolutely.
+1987.87-363,2,15049,antonin_scalia,scotus_justice,2819.505,2821.438,--in view of the whole debaucle that has occurred because of the--
+1987.87-363,2,29960,jeffrey_s_davidson,,2821.438,2821.955,Absolutely.
+1987.87-363,2,15049,antonin_scalia,scotus_justice,2824.123,2832.579,"--So on any interpretation I don't see how you could say, whether you do it concretely or abstractly, that anything but the deregulated price could result in the highest."
+1987.87-363,2,29960,jeffrey_s_davidson,,2832.579,2844.97,"Remember that the way it really works in the real world is that what the parties do is, at the end of every month they total up how much gas was purchased the prior month, and they look at their contract and say, okay, what do you have to pay for it?"
+1987.87-363,2,15060,john_paul_stevens,scotus_justice,2892.367,2894.367,"Mr. Davidson, may I interrupt you?"
+1987.87-363,2,29960,jeffrey_s_davidson,,2908.727,2909.06,Yes.
+1987.87-363,2,15060,john_paul_stevens,scotus_justice,2909.06,2909.493,Okay.
+1987.87-363,2,29960,jeffrey_s_davidson,,2909.493,2910.743,There is no question about that.
+1987.87-363,2,15060,john_paul_stevens,scotus_justice,2978.737,2980.37,"If it's a standoff, you lose."
+1987.87-363,2,29960,jeffrey_s_davidson,,3227.282,3246.344,"--First of all, this is not an agency deference case in our view because the intent of Congress can be determined not only from the language but also in addition from the conference materials, one of which example I just gave and another key one which I will come to in a moment."
+1987.87-363,2,15060,john_paul_stevens,scotus_justice,3406.85,3419.073,You disagree with the government's statement that FERC could have achieved this by simply altering its regulations to say you can't put something in this one category without putting it in the other ones?
+1987.87-363,2,29960,jeffrey_s_davidson,,3419.073,3423.109,"Sir, that argument does not apply to the 108 category."
+1987.87-363,2,15060,john_paul_stevens,scotus_justice,3429.779,3430.313,Right.
+1987.87-363,2,29960,jeffrey_s_davidson,,3430.313,3433.583,--which they have the right to define shall be deemed 102 gas.
+1987.87-363,2,15060,john_paul_stevens,scotus_justice,3433.583,3437.885,Why can they do it in the one situation and not in the other.
+1987.87-363,2,29960,jeffrey_s_davidson,,3437.885,3447.391,Because Congress defined what Section 108 stripper well gas was in the statute but left in Section 107(c)(5) the commission the authority to define--
+1987.87-363,2,15060,john_paul_stevens,scotus_justice,3447.391,3448.177,I see.
+1987.87-363,2,29960,jeffrey_s_davidson,,3448.177,3451.712,"--what Section 107(c)(5) gas is, so there is a distinct difference there."
+1987.87-363,2,15141,william_h_rehnquist,scotus_justice,3557.73,3560.364,"Your time has expired, Mr. Davidson."
+1987.87-363,3,40639,richard_g_taranto,,3564.051,3576.209,"If I could just make one point, the problem in this case arises solely because producers contracted to renegotiate upon deregulation."
+1987.87-363,3,15141,william_h_rehnquist,scotus_justice,3608.163,3610.347,"Thank you, Mr. Taranto."

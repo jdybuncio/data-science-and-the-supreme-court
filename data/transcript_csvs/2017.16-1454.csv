@@ -1,0 +1,244 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2017.16-1454,0,15086,john_g_roberts_jr,scotus_justice,0.0,6.72,"We'll hear argument next in Case 16-1454, Ohio, et al., versus American Express Company."
+2017.16-1454,0,62682,eric_e_murphy,,6.72,7.48,Mr. --
+2017.16-1454,0,15086,john_g_roberts_jr,scotus_justice,7.48,8.56,Mr. Murphy.
+2017.16-1454,0,62682,eric_e_murphy,,8.56,27.52,"Mr. Chief Justice, and may it please the Court: The government met its initial burden to show anticompetitive harm in this case under the rule of reason by proving that American Express's anti-steering provisions have stifled interbrand price competition and raised the prices that all four credit card companies charge merchants."
+2017.16-1454,0,62836,neil_gorsuch,scotus_justice,74.12,77.44,"We're not here to protect competitors, right, Mr. Murphy?"
+2017.16-1454,0,62682,eric_e_murphy,,77.44,78.2,Correct.
+2017.16-1454,0,62836,neil_gorsuch,scotus_justice,78.2,80.24,Or -- or necessarily even merchants.
+2017.16-1454,0,62682,eric_e_murphy,,83.6,84.44,"Correct, although in this --"
+2017.16-1454,0,62836,neil_gorsuch,scotus_justice,84.44,84.76,Okay.
+2017.16-1454,0,62682,eric_e_murphy,,91.4,94.48,I -- I would agree that it's -- there's -- it's ambiguous.
+2017.16-1454,0,62836,neil_gorsuch,scotus_justice,97.24,100.56,"And that's normally what the antitrust laws care about, is deadweight loss."
+2017.16-1454,0,62682,eric_e_murphy,,104.56,106.04,"Correct, although I think the --"
+2017.16-1454,0,62836,neil_gorsuch,scotus_justice,106.04,106.4,Okay.
+2017.16-1454,0,62682,eric_e_murphy,,121.84,124.8,"Absolutely, we have evidence of restricted competition --"
+2017.16-1454,0,62836,neil_gorsuch,scotus_justice,124.8,126.24,What evidence do you have of that?
+2017.16-1454,0,62682,eric_e_murphy,,126.24,126.6,-- that the other --
+2017.16-1454,0,62836,neil_gorsuch,scotus_justice,126.6,126.6,"No, no."
+2017.16-1454,0,62682,eric_e_murphy,,129.6,132.68,"Well, so we don't think that we legally have to meet that, but --"
+2017.16-1454,0,62836,neil_gorsuch,scotus_justice,132.68,134.08,I know you don't. I'm just asking --
+2017.16-1454,0,62682,eric_e_murphy,,134.08,134.68,"So, factually --"
+2017.16-1454,0,62836,neil_gorsuch,scotus_justice,134.68,135.56,-- if you have any evidence of it.
+2017.16-1454,0,62682,eric_e_murphy,,135.56,146.92,"-- factually, the district court held at -- district court -- Petition Appendix pages 166 to 167, that the higher net prices were not offset by higher card --"
+2017.16-1454,0,62836,neil_gorsuch,scotus_justice,146.92,163.2,"Well, you have proof that not all of the increased price that American Express extracts gets to the consumer. That's not my question, however. My question is, do you have any evidence that, on a net basis, consumers pay more? And I don't believe you have."
+2017.16-1454,0,62682,eric_e_murphy,,163.2,167.12,"Well, if we're just talking -- first off, I think merchants are consumers in this context."
+2017.16-1454,0,62836,neil_gorsuch,scotus_justice,167.12,168.72,I'm asking about consumers.
+2017.16-1454,0,62682,eric_e_murphy,,168.72,174.32,"For the cardholder consumers, I think that there is evidence that they have restricted options on that -- that side."
+2017.16-1454,0,62836,neil_gorsuch,scotus_justice,174.32,174.52,But I --
+2017.16-1454,0,15131,sonia_sotomayor,scotus_justice,174.52,192.88,"Isn't that true, given American Express's tying or -- or restriction that no merchant can offer a consumer a 5 or 10 or other discount for using Visa, MasterCard, or Discover, correct?"
+2017.16-1454,0,62682,eric_e_murphy,,192.88,193.88,Absolutely correct.
+2017.16-1454,0,62836,neil_gorsuch,scotus_justice,220.84,246.76,"Isn't that true with every vertical restraint? Anytime I say I'm only going to service Cadillacs at a Cadillac dealership, I can't buy a Volvo at a Cadillac dealership. All vertical restraints have the impact of restricting interbrand competition in that respect, but we learned through painful experience and many, many years that they're generally pro-competitive, right?"
+2017.16-1454,0,62682,eric_e_murphy,,246.76,248.96,So it's not all interbrand restraints.
+2017.16-1454,0,62836,neil_gorsuch,scotus_justice,261.44,261.64,Right.
+2017.16-1454,0,62682,eric_e_murphy,,261.64,269.52,"That's why the Court has suggested, generally speaking, they -- they are problematic if they tie up too many buyers or sellers."
+2017.16-1454,0,15131,sonia_sotomayor,scotus_justice,269.52,284.44,"We have a wonderful amicus brief that explains that when you have exclusive dealing, the competition doesn't become a competition for selling that product but for selling all the competing products, correct?"
+2017.16-1454,0,62682,eric_e_murphy,,284.44,285.2,Correct.
+2017.16-1454,0,15131,sonia_sotomayor,scotus_justice,285.32,297.76,"So that if this car dealership raises its prices too high, other car manufacturers are going to be able to give you a lower price car, perhaps of equal quality, correct?"
+2017.16-1454,0,62682,eric_e_murphy,,297.76,304.68,Absolutely correct. That's why this is so fundamentally different from the manufacturer/distributor restraints that the Court addressed in Leegin.
+2017.16-1454,0,62836,neil_gorsuch,scotus_justice,324.68,330.84,So you'd just have us ignore the fact that Visa and MasterCard have 74 percent of the market?
+2017.16-1454,0,62682,eric_e_murphy,,330.84,331.2,No.
+2017.16-1454,0,62836,neil_gorsuch,scotus_justice,331.56,334.28,Or that they exercise no restraint in this marketplace?
+2017.16-1454,0,62682,eric_e_murphy,,334.28,342.72,I do think that -- that this marketplace is entirely highly concentrated where all the main competitors were using these types of restraints.
+2017.16-1454,0,62836,neil_gorsuch,scotus_justice,344.48,350.36,"That -- that's gone, though, right? I mean, any notion of horizontal agreement in this case is out of the case."
+2017.16-1454,0,62682,eric_e_murphy,,350.36,358.88,"So I agree that there's no -- there's no allegations of horizontal agreement, but there -- there's clear evidence of horizontal effect."
+2017.16-1454,0,15113,anthony_m_kennedy,scotus_justice,377.0,377.48,Can you tell me --
+2017.16-1454,0,62682,eric_e_murphy,,377.48,378.28,-- and to raise --
+2017.16-1454,0,15113,anthony_m_kennedy,scotus_justice,378.28,380.6,"Please, don't let me interrupt, Mr. Murphy."
+2017.16-1454,0,62682,eric_e_murphy,,380.6,387.16,"I was just going to say and to raise the prices that all four credit card companies charge, which I think makes it problematic because it's market-wide."
+2017.16-1454,0,15113,anthony_m_kennedy,scotus_justice,387.16,395.2,Could you -- could you comment on the brief of the antitrust law and economic scholars in favor of Respondents? They said for us to focus on output.
+2017.16-1454,0,62682,eric_e_murphy,,404.56,412.24,"I generally think that output is very significant, but in this case, I think the higher prices go hand in hand with the restricted output."
+2017.16-1454,0,15113,anthony_m_kennedy,scotus_justice,422.76,430.4,"Although their conclusion was that the output -- that this is -- this is a market that's, frankly, phenomenal in terms of its -- of its size."
+2017.16-1454,0,62682,eric_e_murphy,,430.4,441.76,"That's what -- that's what I want to make clear, that we have clear evidence of direct causation that the restraints cause higher merchant prices. With respect to the restraints' effect on output, there is just no evidence one way or the other."
+2017.16-1454,0,15113,anthony_m_kennedy,scotus_justice,452.12,456.32,Does output include premiums or rewards to customers?
+2017.16-1454,0,62682,eric_e_murphy,,456.32,456.64,Yeah.
+2017.16-1454,0,15084,ruth_bader_ginsburg,scotus_justice,485.32,485.44,Do you --
+2017.16-1454,0,62682,eric_e_murphy,,485.44,489.56,And I still think that the -- this Court's vertical restraint -- vertical restraint cases --
+2017.16-1454,0,15131,sonia_sotomayor,scotus_justice,489.56,501.72,"I think Justice Kennedy's question was, given the uniqueness of this market where you don't have proof of greater output, does that make the price increase irrelevant?"
+2017.16-1454,0,62682,eric_e_murphy,,501.72,502.04,"No, I don't --"
+2017.16-1454,0,15131,sonia_sotomayor,scotus_justice,502.04,504.0,I think that that was the nature of his question.
+2017.16-1454,0,62682,eric_e_murphy,,504.0,504.48,I -- I --
+2017.16-1454,0,15131,sonia_sotomayor,scotus_justice,504.48,505.64,He can correct me if I'm wrong.
+2017.16-1454,0,62682,eric_e_murphy,,505.64,523.76,"I don't -- I don't think it does whatsoever, because I think this Court's cases, Catalano, National Professional Society of Engineers, all suggest that a competitor cannot impose a price restraint or restraint on one product attribute in order to channel it to other product attributes."
+2017.16-1454,0,15084,ruth_bader_ginsburg,scotus_justice,545.76,566.4,Could you please comment on the Second Circuit's view that what's involved is a credit card transaction and that includes both services to merchants and services to cardholders and you can't just deal with one and ignore the other.
+2017.16-1454,0,62682,eric_e_murphy,,566.4,573.56,"So I still think that even if under the -- taking the Second Circuit's premise as a given, which is this is just one market, we disagree."
+2017.16-1454,0,15086,john_g_roberts_jr,scotus_justice,712.96,722.24,"Thank you, counsel. Mr. Stewart."
+2017.16-1454,1,36722,malcolm_l_stewart,,722.24,731.6,"Mr. Chief Justice, and may it please the Court: The purpose and effect of Amex's anti-steering rules is to eliminate price competition across an entire market."
+2017.16-1454,1,62836,neil_gorsuch,scotus_justice,802.8,833.04,"Mr. Stewart, what would you say, though, I mean, you -- you argue to us that this is a very unique situation and new -- new to antitrust law, the two-sided market issue, and assuming all that's true -- I'm not sure it is, but taking it as true -- why shouldn't we take Judge Easterbrook's admonition seriously, that judicial errors are a lot harder to correct than an occasional monopoly where you can hope and assume that the market will eventually correct it."
+2017.16-1454,1,36722,malcolm_l_stewart,,853.36,861.0,"Well, we certainly -- I mean, we filed a brief in opposition arguing that the Court shouldn't grant cert because these issues were fairly new."
+2017.16-1454,1,62836,neil_gorsuch,scotus_justice,861.32,862.52,For just these reasons.
+2017.16-1454,1,36722,malcolm_l_stewart,,862.52,870.48,"But I think given that the Court has taken the case, we -- we certainly would take the point that the Court should not speak more broadly than is necessary."
+2017.16-1454,1,15094,elena_kagan,scotus_justice,910.84,924.84,"Mr. Stewart, you admit, as does General Murphy, that at the second stage it's appropriate for the courts to take into account how this all plays out on the cardholder side of the market."
+2017.16-1454,1,36722,malcolm_l_stewart,,924.84,925.72,That's correct.
+2017.16-1454,1,15094,elena_kagan,scotus_justice,925.72,933.24,"If that's the case, why doesn't that enter into the question of how you define the market in the first instance?"
+2017.16-1454,1,36722,malcolm_l_stewart,,933.24,952.64,"Well, I think it's -- it would be hard to determine, for instance, or really conceptually impossible to determine whether Amex had market power in a hypothetical market consisting of both the merchant side and the cardholder side. On the merchant side, Amex competes with three other networks."
+2017.16-1454,1,15113,anthony_m_kennedy,scotus_justice,980.12,995.08,"Does -- does -- does -- does -- does that mean -- I don't want to interrupt this line of questioning -- but does -- does that mean that, at step 1, the value to the cardholders shouldn't be part of the analysis?"
+2017.16-1454,1,36722,malcolm_l_stewart,,995.08,998.8,"I think you would still say has -- yes, competition has been --"
+2017.16-1454,1,15113,anthony_m_kennedy,scotus_justice,998.8,1008.28,"But that's -- that's -- that's a very dangerous step for this Court to take to analyze the market that way, this two-sided market, to say that we're going to at step 1 look at just one side."
+2017.16-1454,1,36722,malcolm_l_stewart,,1010.48,1023.64,"Well, I think it's -- it's kind of inherent in the -- in the three-step approach that the Court has taken to resolving rule of reason cases where first the plaintiff attempts to establish an anticompetitive effect."
+2017.16-1454,1,15139,stephen_g_breyer,scotus_justice,1050.68,1051.76,It's a two-sided market.
+2017.16-1454,1,36722,malcolm_l_stewart,,1113.08,1117.48,"Well, this market is -- and we take the point that's made on -- by some of the briefs on the other side."
+2017.16-1454,1,15139,stephen_g_breyer,scotus_justice,1131.32,1136.76,"We do the same thing, don't we, with nuts and bolts? We give the people nuts and we give them bolts."
+2017.16-1454,1,36722,malcolm_l_stewart,,1136.76,1136.88,But --
+2017.16-1454,1,15139,stephen_g_breyer,scotus_justice,1136.88,1142.32,"And -- and maybe it -- I mean, you know, there are loads of -- there are a lot of products like that."
+2017.16-1454,1,36722,malcolm_l_stewart,,1142.32,1154.24,"I -- I guess what I would say from this standpoint is Mr. Murphy, the federal government, and the Respondents all agree that benefits to cardholders should be considered as part of the antitrust analysis."
+2017.16-1454,1,15139,stephen_g_breyer,scotus_justice,1154.24,1176.0,"Should really? Because -- and you agree with that? For example, we have an agreement among toy manufacturers that we won't sell poisoned toys. That's always been an absolute mystery to put to the class, from Phil Areeda on, because they want to stop the poisoned toys, but you say, hey, that isn't the job of the antitrust law. That's the job of the consumer protection agency."
+2017.16-1454,1,36722,malcolm_l_stewart,,1181.04,1199.4,"No, I -- I take your point, that perhaps I was imprecise when I said benefits to cardholders, because the Court has made clear in different Sherman Act contexts that, in kind of balancing procompetitive and anticompetitive justifications, you're not just looking at anything that could be characterized as beneficial or harmful."
+2017.16-1454,1,15131,sonia_sotomayor,scotus_justice,1217.84,1228.88,"Mr. Stewart, could I just ask you to finish your second response to Justice Gorsuch? You said the market issue was number 1, that was fundamental."
+2017.16-1454,1,36722,malcolm_l_stewart,,1263.76,1266.2,No.
+2017.16-1454,1,62836,neil_gorsuch,scotus_justice,1328.6,1341.96,"And they're free to do that, right? I mean, American Express's agreements don't affect MasterCard or Visa's opportunity to cut their fees, their own fees, or to advertise that American Express's are higher."
+2017.16-1454,1,36722,malcolm_l_stewart,,1356.0,1364.92,"That's exactly right, except that as long as the -- and that -- that is the type of environment that we believe the antitrust laws are intended to encourage."
+2017.16-1454,1,62836,neil_gorsuch,scotus_justice,1365.4,1368.2,"Absent a horizontal agreement, we have that, don't we?"
+2017.16-1454,1,36722,malcolm_l_stewart,,1368.2,1369.28,"Usually, we would."
+2017.16-1454,1,62836,neil_gorsuch,scotus_justice,1378.8,1381.56,"Well, that was part of the case originally, but that's gone now, right?"
+2017.16-1454,1,36722,malcolm_l_stewart,,1381.56,1381.64,No --
+2017.16-1454,1,62836,neil_gorsuch,scotus_justice,1381.64,1385.0,Because those agreements have been dropped by -- by Visa and MasterCard.
+2017.16-1454,1,36722,malcolm_l_stewart,,1389.36,1400.76,"No, even without the Visa and MasterCard having their own anti-steering provisions, so long as American Express imposes the anti-steering rules on the merchants that are part of its network and so long --"
+2017.16-1454,1,62836,neil_gorsuch,scotus_justice,1400.76,1401.12,Right.
+2017.16-1454,1,36722,malcolm_l_stewart,,1410.72,1413.84,Visa and MasterCard could advertise in that respect.
+2017.16-1454,1,62836,neil_gorsuch,scotus_justice,1445.44,1447.52,"So, Mr. Stewart, I'm sorry, I apologize."
+2017.16-1454,1,36722,malcolm_l_stewart,,1461.32,1488.2,"No, it's -- I mean, it's -- it's the -- in your Mercedes and Kia example, it is the difference between Kia saying -- running advertisements and saying buy our cars because they have been produced in a more responsible way and you should contribute to the public good by encouraging these practices, even though you will pay no less for a Kia than for a Mercedes."
+2017.16-1454,1,15131,sonia_sotomayor,scotus_justice,1588.84,1591.96,"I'm sorry, what was the second general principle? I --"
+2017.16-1454,1,36722,malcolm_l_stewart,,1591.96,1612.28,"That is the second general principle, that not only should the court of appeals not have collapsed the two sides of the markets, but that in asking whether the -- indeed, the non-discrimination provisions, the anti-steering rules were beneficial or harmful to consumers, it should have focused specifically on the effects on competition."
+2017.16-1454,1,15131,sonia_sotomayor,scotus_justice,1613.44,1617.16,The court below didn't do step 2 here?
+2017.16-1454,1,36722,malcolm_l_stewart,,1617.16,1618.08,That's correct.
+2017.16-1454,1,15131,sonia_sotomayor,scotus_justice,1618.08,1632.52,"You're saying do we have to accept that it's always -- looking at both sides of the market is always appropriate, or is it only in this case that it might be appropriate, and how would it be appropriate if we looked at it under step 2?"
+2017.16-1454,1,36722,malcolm_l_stewart,,1632.52,1658.04,"I -- I guess I would -- with respect to two-sided platforms generally, I would simply -- I guess the only rule we would urge the Court to adopt is the fact that two interrelated markets are distinct for purposes of the first side of the analysis, the market power inquiry, should not preclude the Court from considering benefits on the other interrelated market at the second stage of the analysis."
+2017.16-1454,1,15086,john_g_roberts_jr,scotus_justice,1658.04,1667.36,"Thank you, counsel. Mr. Chesler."
+2017.16-1454,2,62906,evan_r_chesler,,1667.36,1678.72,"Mr. Chief Justice, and may it please the Court: The district court described competition for credit card transactions as fierce."
+2017.16-1454,2,15131,sonia_sotomayor,scotus_justice,1712.8,1731.2,"Isn't that the essence of competition, to have somebody working against you? I mean, I always thought that that was the essence of competition, that someone will come in and -- and offer the people involved in the transaction something better."
+2017.16-1454,2,62906,evan_r_chesler,,1731.2,1731.76,"Your Honor, that is the --"
+2017.16-1454,2,15131,sonia_sotomayor,scotus_justice,1731.76,1770.4,"Better or that they may not know they want but that they may want. I -- I have to say if I go to a cash register and the merchant says to me, I'll give you a 1 percent discount today if you don't use Amex, I sit there and think to myself, do I need the airplane rewards or the train rewards, or do I want the 1 percent? And I do it -- and I choose differently each time depending on the nature of the transaction. But you -- this anti-steering removes that competition."
+2017.16-1454,2,62906,evan_r_chesler,,1770.4,1775.72,"Your Honor, the product here, we need to start the analysis with the question of what is the product."
+2017.16-1454,2,15131,sonia_sotomayor,scotus_justice,1775.72,1778.72,You haven't told me why it doesn't remove competition.
+2017.16-1454,2,62906,evan_r_chesler,,1778.72,1786.0,"Because, in fact, it enhances competition between the brands, and that's what happened here. The competition between the brands --"
+2017.16-1454,2,15131,sonia_sotomayor,scotus_justice,1786.0,1787.72,But I don't care about the brands.
+2017.16-1454,2,62906,evan_r_chesler,,1792.72,1793.08,"Exactly, Your Honor."
+2017.16-1454,2,15131,sonia_sotomayor,scotus_justice,1793.08,1797.56,I care about whether today I want to pay the 1 percent more or not.
+2017.16-1454,2,62906,evan_r_chesler,,1797.56,1799.04,"And, Your Honor --"
+2017.16-1454,2,15131,sonia_sotomayor,scotus_justice,1799.04,1807.52,And this vertical restraint is stopping horizontal competition.
+2017.16-1454,2,62906,evan_r_chesler,,1807.52,1808.72,"Your Honor, I disagree with that."
+2017.16-1454,2,15131,sonia_sotomayor,scotus_justice,1816.2,1818.12,I don't really care.
+2017.16-1454,2,62906,evan_r_chesler,,1833.6,1843.08,"But what you don't know, Your Honor, in that hypothetical and what the district court found was never proven is what the effect on the other side of the same price is."
+2017.16-1454,2,15131,sonia_sotomayor,scotus_justice,1849.12,1849.2,No.
+2017.16-1454,2,62906,evan_r_chesler,,1851.24,1851.56,Whether you --
+2017.16-1454,2,15131,sonia_sotomayor,scotus_justice,1851.56,1857.28,"No, because if I'm not going to use the rewards, the $99 is still more valuable to me."
+2017.16-1454,2,62906,evan_r_chesler,,1857.28,1860.48,"But, Your Honor, you may want to use the rewards on the next transaction."
+2017.16-1454,2,15131,sonia_sotomayor,scotus_justice,1867.44,1870.24,You're making my choice for me.
+2017.16-1454,2,62906,evan_r_chesler,,1879.16,1880.64,"Your Honor, I think one of --"
+2017.16-1454,2,15131,sonia_sotomayor,scotus_justice,1880.64,1891.0,"Some people, it's hard to believe, but there are credit card users who will never use their reward points. Your system depends on that."
+2017.16-1454,2,62906,evan_r_chesler,,1891.0,1910.12,"And there are -- Your Honor, I agree with you, they may not choose to use the rewards, but when you look at the market -- market aggregated here, the fact is there was no proof at the end of the day of what the price for the product at issue is. The product at issue here are credit card transactions."
+2017.16-1454,2,15139,stephen_g_breyer,scotus_justice,1923.84,1927.6,That's one question. Now I'm beginning to understand this.
+2017.16-1454,2,62906,evan_r_chesler,,2042.76,2044.52,"In general terms, you have, Your Honor."
+2017.16-1454,2,15139,stephen_g_breyer,scotus_justice,2054.56,2055.08,Right.
+2017.16-1454,2,62906,evan_r_chesler,,2055.08,2060.28,"-- were required to respond in kind, and the result is that output has increased."
+2017.16-1454,2,15139,stephen_g_breyer,scotus_justice,2060.28,2061.16,Better for everyone.
+2017.16-1454,2,62906,evan_r_chesler,,2061.16,2061.92,Output has increased.
+2017.16-1454,2,15139,stephen_g_breyer,scotus_justice,2061.92,2104.0,"Just as a person says let me tell the dealer of the car that he has to fix prices with the others, resale price maintenance, because I'll get my new gizmo car through and that'll improve everybody's life. Okay? Now, if that's the form of the argument, then isn't the way I can be a little traditional, say step 1, is there an anticompetitive aspect? Then we go to step 2, what is the justification and does it out-balance, et cetera? Okay. So far we're at step 1, is there an anticompetitive aspect? Well, of course."
+2017.16-1454,2,62906,evan_r_chesler,,2128.08,2133.36,"Because, Your Honor, you must ask that question with respect to the product at issue."
+2017.16-1454,2,15086,john_g_roberts_jr,scotus_justice,2173.04,2173.44,"Well, output --"
+2017.16-1454,2,62906,evan_r_chesler,,2173.44,2175.96,-- so no one can say it was super competitive.
+2017.16-1454,2,15086,john_g_roberts_jr,scotus_justice,2175.96,2192.36,"Output of the product has increased, that has so many factors that go into that besides the nature of the particular product, right? I mean, if the economy grows, then the output of your product, credit card transactions, grows, right?"
+2017.16-1454,2,62906,evan_r_chesler,,2192.36,2210.16,"It could, Your Honor. But the evidence here was that what was driving it was the fierce competition that the district court found between the card providers, which was driven by the rewards that Visa and MasterCard were forced to match because of American Express's rewards. There could be exogenous reasons why output increases."
+2017.16-1454,2,15086,john_g_roberts_jr,scotus_justice,2214.72,2222.64,"When you say the product, what are you talking about? The number of credit card transactions or the dollar volume?"
+2017.16-1454,2,62906,evan_r_chesler,,2222.64,2223.28,Dollar volume.
+2017.16-1454,2,15139,stephen_g_breyer,scotus_justice,2227.24,2250.16,"Then what worries me about that, I have just the same -- look, you -- you both have put your finger, it seems to me, on one of the most, as you know, I think, unless it's changed, one of the most difficult problems in antitrust law: How to define a market. And, by and large, the answer to that differs depending on a lot of different circumstances and what you're up to."
+2017.16-1454,2,62906,evan_r_chesler,,2320.0,2320.96,"I do, Your Honor."
+2017.16-1454,2,15139,stephen_g_breyer,scotus_justice,2331.72,2332.32,Yeah.
+2017.16-1454,2,62906,evan_r_chesler,,2332.32,2338.96,"And you found in your hypothetical, I believe, that there was an anticompetitive effect at the first stage with respect to that product."
+2017.16-1454,2,15139,stephen_g_breyer,scotus_justice,2338.96,2339.36,Uh-huh.
+2017.16-1454,2,62906,evan_r_chesler,,2339.36,2358.64,"And what I'm here to tell you is, with respect to the product at issue here, which is credit card transactions, the government did not prove that there was an anticompetitive effect because output was up, quality was up, and they didn't prove what the price of that product was. So you couldn't possibly conclude that the price was super-competitive."
+2017.16-1454,2,15094,elena_kagan,scotus_justice,2358.64,2359.24,Mr. Chesler --
+2017.16-1454,2,15139,stephen_g_breyer,scotus_justice,2359.24,2362.32,It may have been anticompetitive in one way.
+2017.16-1454,2,15094,elena_kagan,scotus_justice,2363.0,2364.16,Mr. Chelser --
+2017.16-1454,2,15139,stephen_g_breyer,scotus_justice,2364.16,2374.32,"You cannot get through to the dealer -- to the customer, the fact that these different companies, some charge lower, some charge higher prices."
+2017.16-1454,2,62906,evan_r_chesler,,2380.36,2380.88,Which the credit --
+2017.16-1454,2,15139,stephen_g_breyer,scotus_justice,2380.88,2387.16,-- which this prevents you from getting through in terms of information to the person who's going to be buying.
+2017.16-1454,2,62906,evan_r_chesler,,2387.16,2387.8,"Respectfully, Your Honor --"
+2017.16-1454,2,15139,stephen_g_breyer,scotus_justice,2387.8,2388.04,No?
+2017.16-1454,2,62906,evan_r_chesler,,2388.04,2388.52,-- it does not.
+2017.16-1454,2,15139,stephen_g_breyer,scotus_justice,2394.64,2396.2,But the merchant is not.
+2017.16-1454,2,62906,evan_r_chesler,,2417.4,2417.72,If there --
+2017.16-1454,2,15131,sonia_sotomayor,scotus_justice,2417.72,2447.32,"I'm sorry, the -- the advertising mechanism failed completely. Discover tried it and said I'm just leaving money on the table because the restrictions are not just don't tell them the price difference, but don't steer them away from American Express by giving them a better deal in some other way. So you're not talking about a restriction just on what you tell them, but it's a restriction on what you do."
+2017.16-1454,2,62906,evan_r_chesler,,2452.72,2454.36,"No, Your Honor."
+2017.16-1454,2,15131,sonia_sotomayor,scotus_justice,2455.36,2468.28,"I mean, Discover couldn't tell them to -- or as they tried, very hard, to have the merchant agree to try to pass off the price saving to the customer."
+2017.16-1454,2,62906,evan_r_chesler,,2473.4,2478.44,"Your Honor, Discover had 5 percent, give or take, of the market before these provisions were enforced."
+2017.16-1454,2,15094,elena_kagan,scotus_justice,2500.92,2502.52,"I don't think that that's right, Mr. Chesler."
+2017.16-1454,2,62906,evan_r_chesler,,2555.4,2561.16,"Your Honor, in fact, there are many low cost/low reward options on the market today."
+2017.16-1454,2,15094,elena_kagan,scotus_justice,2568.96,2591.12,"Mr. Chesler, if I'm a consumer -- I mean, it might be that I'm very altruistic and I just care about my local coffee shop and the kind of deal that the proprietors are getting, but more to the point, what I really care about is if that local coffee shop can past on -- pass on its decrease in price to me. And that's exactly what the anti-steering provisions prevent."
+2017.16-1454,2,62906,evan_r_chesler,,2607.04,2608.08,"Well, Your Honor, again --"
+2017.16-1454,2,15094,elena_kagan,scotus_justice,2608.08,2610.72,"And this is exactly -- I mean, this is not me making this up."
+2017.16-1454,2,62906,evan_r_chesler,,2636.0,2670.72,"If I may respond, Your Honor. The district court also found that this two-sided market was, as he said, different from virtually all others because here the two sides were inextricably linked and intertwined. And here, Your Honor, I would submit, the product, which is the transaction, is a product that has a cost and a price associated with both of the parties to it, the consumer and the merchant. And under Your Honor's hypothetical, if, in fact, that price is lowered, the merchant cost is lowered, the rewards are lowered, and that's a price increase to the consumer --"
+2017.16-1454,2,15131,sonia_sotomayor,scotus_justice,2670.72,2671.36,"Ah, but we don't know --"
+2017.16-1454,2,62906,evan_r_chesler,,2671.36,2673.32,-- which was never proved on this record.
+2017.16-1454,2,15131,sonia_sotomayor,scotus_justice,2673.32,2678.76,But we don't know that because we don't know -- and American Express is the only one who does know.
+2017.16-1454,2,62906,evan_r_chesler,,2716.4,2732.76,"Your Honor, in fact, as the -- as the court of appeals pointed out, the fact that not every penny of the merchant fee is passed on in rewards to the consumer tells you nothing about the other costs that the card company is incurring. And the government did not prove what those costs are."
+2017.16-1454,2,15131,sonia_sotomayor,scotus_justice,2735.04,2741.44,"Well, isn't that what the rule of reason does by putting this at step 2? The government's never going to know that."
+2017.16-1454,2,62906,evan_r_chesler,,2743.0,2743.76,Well --
+2017.16-1454,2,15131,sonia_sotomayor,scotus_justice,2743.76,2759.04,"If you want to argue procompetitive effects, you show it. It's not up to the government to show on a -- in a different market that there's a benefit that outweighs the price stifling in the main market."
+2017.16-1454,2,62906,evan_r_chesler,,2766.76,2775.84,"Your Honor, it is the -- it is the defendant's obligation or burden to prove procompetitive effects when the plaintiff proves a prima facie case of anticompetitive effect --"
+2017.16-1454,2,62836,neil_gorsuch,scotus_justice,2775.84,2776.32,Mr. Chesler --
+2017.16-1454,2,62906,evan_r_chesler,,2776.32,2777.92,-- with respect to the product at issue.
+2017.16-1454,2,62836,neil_gorsuch,scotus_justice,2777.92,2805.2,"-- with respect to that, and in response to Justice Breyer, we talked about the fact that the agreement does limit the merchant's ability to do certain things and -- and whether that might meet step 1, but I would have thought under -- under Section 1, you might have responded, yes, if there's market power. But market power, absent market power -- an agreement with a merchant to do anything that restricts anything is not in the cognizance of the antitrust laws."
+2017.16-1454,2,62906,evan_r_chesler,,2811.0,2816.64,"Your Honor, I -- I -- I could and should have added that to my answer and it's more than that here."
+2017.16-1454,2,15131,sonia_sotomayor,scotus_justice,2817.56,2825.04,"I thought we had two ways of proving market power, direct and indirect."
+2017.16-1454,2,62906,evan_r_chesler,,2835.4,2837.2,If I may respond.
+2017.16-1454,2,15131,sonia_sotomayor,scotus_justice,2864.52,2870.72,But every competitor raised their price to match American Express's merchant price.
+2017.16-1454,2,62906,evan_r_chesler,,2870.72,2871.12,To fuel --
+2017.16-1454,2,15131,sonia_sotomayor,scotus_justice,2871.12,2882.92,"So this vertical restraint had a complete horizontal effect, so it has market power to control the merchant market."
+2017.16-1454,2,62906,evan_r_chesler,,2882.92,2896.52,"Respectfully, Your Honor, I don't think that's what happened here. The increases by the card companies were, as the district court found, to fuel the intense competition for cardholders, without whom there will be no transactions."
+2017.16-1454,2,15139,stephen_g_breyer,scotus_justice,2906.24,2953.92,"On that point, you know, it looks to me like market power is a gremlin that you are going to throw, if we accept that, throw into the -- into the gears of antitrust law as it has been under Section 1 across the country everywhere. I mean, I thought -- and perhaps there have been changes, but I haven't seen them in this Court -- I thought that if, in fact, three people agree upon their prices, or forget price fixing, three people who are competitors agree that they will have a convention where they will hire Mr. Smith, who will lecture to them about the benefits of all charging the same price, I would have thought you just said that's anticompetitive."
+2017.16-1454,2,62906,evan_r_chesler,,2988.04,2997.84,"Your Honor, if we were talking about a horizontal restraint, which was what your comment was directed at, I would be in complete agreement with you, because the error costs of a horizontal restraint are very low."
+2017.16-1454,2,15139,stephen_g_breyer,scotus_justice,3001.48,3005.64,What's the vertical case? Even Leegin didn't say that.
+2017.16-1454,2,62906,evan_r_chesler,,3008.48,3010.08,"I recall that, Your Honor. (Laughter.)"
+2017.16-1454,2,15139,stephen_g_breyer,scotus_justice,3010.08,3010.84,None the -- nonetheless --
+2017.16-1454,2,62906,evan_r_chesler,,3010.84,3011.48,I recall that.
+2017.16-1454,2,15139,stephen_g_breyer,scotus_justice,3011.48,3015.32,"Nonetheless, I've not seen a Section 1 case."
+2017.16-1454,2,62906,evan_r_chesler,,3031.24,3061.44,"Because, Your Honor, in a vertical restraint, as this Court has said repeatedly over the last 40 years, the error costs are very low, because when a -- when a company, particularly a company without power, imposes a vertical restraint, it is to enhance its ability to compete against other brands. And as Justice Kennedy said in the Brooke case, a price increase in the face of increasing demand tells the trier of fact nothing about whether it's anticompetitive. One needs to determine if excess profits are being extracted, monopoly rents are being extracted."
+2017.16-1454,2,15139,stephen_g_breyer,scotus_justice,3094.32,3097.8,I only have 42 years of teaching antitrust. (Laughter.)
+2017.16-1454,2,15139,stephen_g_breyer,scotus_justice,3097.8,3117.88,"And I would say in that -- in that experience, which is not as good as yours, actually, because you actually have practical experience, but it seems to me there have been a lot of cases where you wouldn't -- you would not see price increases, the main one being Alcoa. I mean, Alcoa, which used to be thought to be the best case ever written in antitrust, Learned Hand."
+2017.16-1454,2,62906,evan_r_chesler,,3119.8,3119.96,But --
+2017.16-1454,2,15139,stephen_g_breyer,scotus_justice,3119.96,3121.48,There it was only market power.
+2017.16-1454,2,62906,evan_r_chesler,,3123.92,3125.52,I was about to say that's a different point.
+2017.16-1454,2,62906,evan_r_chesler,,3128.2,3177.64,"But, Your -- Your Honor, in a vertical restraint case, if output is going up, if costs are going up because they're investing in rewards that are benefitting the consumer, that's the way a competitive market is supposed to act. And all I'm saying to Your Honor is, if the test that this Court articulates is the test that's suggested by the folks to my right, then we are going to have a wave of positives that are false where real competition is taking place because price increases occur for all sorts of reasons, many of which are perfectly benign, which is exactly what happened here with respect to the merchant fees because they were fueling price decreases to the consumers. Every reward, every seat on a plane to Aruba, every ticket to a Billy Joel concert, every cash back reward that's given, is a price discount to the consumer."
+2017.16-1454,2,15131,sonia_sotomayor,scotus_justice,3232.12,3233.84,"Counsel, that's step 2."
+2017.16-1454,2,62906,evan_r_chesler,,3233.84,3234.32,"No, Your Honor."
+2017.16-1454,2,15131,sonia_sotomayor,scotus_justice,3247.6,3248.96,But we've had two-sided markets --
+2017.16-1454,2,15094,elena_kagan,scotus_justice,3248.96,3250.64,"Well, Mr. Chesler, what the --"
+2017.16-1454,2,15131,sonia_sotomayor,scotus_justice,3250.64,3255.52,-- we've had two-sided markets that we've looked at in antitrust law.
+2017.16-1454,2,62906,evan_r_chesler,,3263.2,3265.8,Can we take that one? I'd like to take that one.
+2017.16-1454,2,15131,sonia_sotomayor,scotus_justice,3267.28,3267.72,Picayune.
+2017.16-1454,2,62906,evan_r_chesler,,3267.72,3282.2,"The transaction in that case, again, my -- my request to this Court is always start with the same question: What's the product at issue? The product at issue in Times-Picayune was advertising sales between the advertisers and the newspapers."
+2017.16-1454,2,15131,sonia_sotomayor,scotus_justice,3287.08,3302.96,"Oh, yes, they did, because the number of subscribers affected the price that the advertisers were going to use, and their inducement to use the -- to subsidize both morning and afternoon advertisements."
+2017.16-1454,2,62906,evan_r_chesler,,3302.96,3311.28,And that distinction is exactly why this Court need not decide in this case a rule for all time for every two-sided platform.
+2017.16-1454,2,15094,elena_kagan,scotus_justice,3341.76,3348.2,"Mr. Chesler, I don't -- I don't have 42 years of antitrust experience, teaching or practicing, but --"
+2017.16-1454,2,62906,evan_r_chesler,,3348.2,3350.36,"It just requires a little time, Your Honor."
+2017.16-1454,2,15094,elena_kagan,scotus_justice,3350.36,3353.32,So I just think of this in sort of simple-minded ways.
+2017.16-1454,2,62906,evan_r_chesler,,3409.72,3415.96,"Your Honor, my answer to that is that every one of those findings dealt only with the merchant relationship."
+2017.16-1454,2,15094,elena_kagan,scotus_justice,3459.08,3461.84,"Well, it's the one hand where the government has the burden."
+2017.16-1454,2,62906,evan_r_chesler,,3481.48,3482.08,May I?
+2017.16-1454,2,15086,john_g_roberts_jr,scotus_justice,3482.08,3483.12,Please.
+2017.16-1454,2,62906,evan_r_chesler,,3483.12,3498.56,"You only get to step 2, respectfully, Your Honor, if the government proves that competition for the product has been impaired at step 1. And what I've said over and over again here is the product is the transaction, and none of those findings related to the transaction."
+2017.16-1454,2,15086,john_g_roberts_jr,scotus_justice,3498.56,3499.56,"Thank you, counsel."
+2017.16-1454,2,62906,evan_r_chesler,,3499.56,3500.24,Thank you.
+2017.16-1454,2,15086,john_g_roberts_jr,scotus_justice,3500.24,3504.88,"Mr. Murphy, you have three minutes remaining."
+2017.16-1454,3,62682,eric_e_murphy,,3504.88,3507.2,"Mr. Chief Justice, just a few points in rebuttal."
+2017.16-1454,3,15084,ruth_bader_ginsburg,scotus_justice,3567.16,3567.64,Mr. Murphy --
+2017.16-1454,3,62682,eric_e_murphy,,3567.64,3568.72,-- and that's why the government has --
+2017.16-1454,3,15084,ruth_bader_ginsburg,scotus_justice,3568.72,3583.44,"-- what is -- what is the relief that you're seeking? Are you seeking to say the Second Circuit was wrong in saying you didn't -- the government didn't prove step 1, and now he goes back for a step 2 examination? Is that what you're --"
+2017.16-1454,3,62682,eric_e_murphy,,3583.44,3583.96,Absolutely.
+2017.16-1454,3,62836,neil_gorsuch,scotus_justice,3647.84,3649.04,I -- I just want to pause right there.
+2017.16-1454,3,62682,eric_e_murphy,,3654.2,3654.64,We would --
+2017.16-1454,3,62836,neil_gorsuch,scotus_justice,3654.64,3657.72,"-- but also that it -- market power in some way, shape, or form?"
+2017.16-1454,3,62682,eric_e_murphy,,3657.72,3660.92,So we would readily -- we just disagree on the manner in which it need be shown.
+2017.16-1454,3,62836,neil_gorsuch,scotus_justice,3660.92,3662.52,"Right, but you agree it need be shown?"
+2017.16-1454,3,62682,eric_e_murphy,,3662.52,3662.84,Yes.
+2017.16-1454,3,62836,neil_gorsuch,scotus_justice,3675.24,3675.56,Right --
+2017.16-1454,3,62682,eric_e_murphy,,3675.56,3675.8,-- we have going on here.
+2017.16-1454,3,62836,neil_gorsuch,scotus_justice,3675.8,3679.6,"-- if there were no market power, an agreement would have no anticompetitive effect?"
+2017.16-1454,3,62682,eric_e_murphy,,3679.6,3680.6,Absolutely.
+2017.16-1454,3,15131,sonia_sotomayor,scotus_justice,3693.0,3694.04,This is the Leegin situation.
+2017.16-1454,3,62682,eric_e_murphy,,3700.12,3703.16,It's not like Leegin. Leegin was only a restriction on --
+2017.16-1454,3,15131,sonia_sotomayor,scotus_justice,3703.16,3706.24,"No, not like it, but it was the exception Leegin talked about."
+2017.16-1454,3,62682,eric_e_murphy,,3706.24,3706.96,Absolutely.
+2017.16-1454,3,15086,john_g_roberts_jr,scotus_justice,3709.2,3710.0,"Thank you, counsel."

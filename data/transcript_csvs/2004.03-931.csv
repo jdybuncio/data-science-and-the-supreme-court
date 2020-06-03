@@ -1,0 +1,216 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2004.03-931,0,15060,john_paul_stevens,scotus_justice,0.0,4.458,We'll now hear argument in Florida against Nixon.
+2004.03-931,0,25654,george_s_lemieux,,6.482,13.502,"Justice Stevens, and may it please the Court:"
+2004.03-931,0,15092,sandra_day_oconnor,scotus_justice,74.842,87.556,"Counsel, was... was the attorney's essential concession of guilt sort of the functional equivalent of a guilty plea, do you think?"
+2004.03-931,0,25654,george_s_lemieux,,87.556,89.414,"No, Justice O'Connor, it was not."
+2004.03-931,0,15092,sandra_day_oconnor,scotus_justice,107.041,118.271,"Well, yes, he clearly tried to preserve a role in the sentencing, but we often have guilty pleas and then leave the sentencing to be determined."
+2004.03-931,0,25654,george_s_lemieux,,125.906,132.389,"It was not, Your Honor, because a guilty plea, as this Court talked about in Boykin v. Alabama, gives up rights of the defendant."
+2004.03-931,0,15092,sandra_day_oconnor,scotus_justice,144.36,147.704,Was there any cross examination of witnesses conducted?
+2004.03-931,0,25654,george_s_lemieux,,147.704,149.85,"--There was some cross examination, not a lot."
+2004.03-931,0,15049,antonin_scalia,scotus_justice,166.734,173.671,"There was also an objection to introduction of... of photographs that... that were inflammatory, wasn't there?"
+2004.03-931,0,25654,george_s_lemieux,,173.671,174.702,"Yes, there was, Justice Scalia."
+2004.03-931,0,15049,antonin_scalia,scotus_justice,182.049,189.647,"Those photographs would have infected the... the penalty phase, as well as the guilt phase."
+2004.03-931,0,25654,george_s_lemieux,,191.626,192.702,"Yes, Your Honor, that's correct."
+2004.03-931,0,15049,antonin_scalia,scotus_justice,192.702,192.874,In the guilt phase.
+2004.03-931,0,15113,anthony_m_kennedy,scotus_justice,192.874,195.963,You said Mr. Nixon was... was the client.
+2004.03-931,0,25654,george_s_lemieux,,196.622,200.337,Mr. Nixon was in the courtroom for portions of the trial.
+2004.03-931,0,15113,anthony_m_kennedy,scotus_justice,200.959,210.534,"Was... was he there... and I'll check the record... when the attorney told the jury that... that his client was... was guilty, that he basically was conceding guilt?"
+2004.03-931,0,25654,george_s_lemieux,,210.534,214.971,--Mr. Nixon was not in the courtroom for the opening statement or the closing statement.
+2004.03-931,0,15113,anthony_m_kennedy,scotus_justice,214.971,215.108,But not for the opening statement.
+2004.03-931,0,25654,george_s_lemieux,,215.108,217.016,He was there during some of voir dire.
+2004.03-931,0,15049,antonin_scalia,scotus_justice,240.999,246.821,The other side says that guilt is not as... not as clear as you... as you make it out.
+2004.03-931,0,25654,george_s_lemieux,,250.081,260.855,"Your... Your Honor, none of that evidence has been presented in any of the post-conviction proceedings, and while it's creative, I think it's not before this Court because it's never been entered into evidence."
+2004.03-931,0,15049,antonin_scalia,scotus_justice,261.93,262.963,"Well, it isn't a matter of whether it's before it."
+2004.03-931,0,25654,george_s_lemieux,,279.021,279.643,"It is, Your Honor."
+2004.03-931,0,15049,antonin_scalia,scotus_justice,282.205,285.093,Was... was the latter question ruled upon below?
+2004.03-931,0,25654,george_s_lemieux,,285.093,297.248,"--What the Florida Supreme Court did is they found that since this was the functional equivalent of a guilty plea, if there was not explicit and affirmative consent, that Cronic would apply and a presumption of prejudice would follow."
+2004.03-931,0,15042,david_h_souter,scotus_justice,297.248,297.786,"Okay, but... no."
+2004.03-931,0,15049,antonin_scalia,scotus_justice,298.324,302.411,And never... and never reached the... the inadequate performance of counsel question.
+2004.03-931,0,25654,george_s_lemieux,,302.411,309.098,"The... the only thing that they do say, Your Honor, is that they say that the strategy employed by Mr. Corin may well have been in Mr. Nixon's best interests."
+2004.03-931,0,15042,david_h_souter,scotus_justice,309.098,310.091,"Okay, but they didn't--"
+2004.03-931,0,15084,ruth_bader_ginsburg,scotus_justice,310.091,311.949,"They may, but that wasn't a definitive ruling."
+2004.03-931,0,25654,george_s_lemieux,,328.872,343.899,"Your Honor, there were three hearings in the post-conviction proceedings, and the... the defense, who had the burden in those cases to prove ineffective assistance of counsel only put on Mr. Corin and the State cross examined Mr. Corin and called some other witnesses."
+2004.03-931,0,15042,david_h_souter,scotus_justice,347.864,355.582,"--Well, it... it might be that there would be no justification for further evidence, but there would have to be a Strickland ruling on the merits of the Strickland issue, wouldn't there be?"
+2004.03-931,0,25654,george_s_lemieux,,355.582,358.017,I think that this Court could engage in that.
+2004.03-931,0,15042,david_h_souter,scotus_justice,360.617,363.673,But nobody has explicitly done that yet.
+2004.03-931,0,25654,george_s_lemieux,,364.311,366.706,They have not because the Florida Supreme Court ruled under Cronic.
+2004.03-931,0,15042,david_h_souter,scotus_justice,366.706,367.466,Because of the Cronic point.
+2004.03-931,0,25654,george_s_lemieux,,367.466,368.109,"Yes, Your Honor."
+2004.03-931,0,15049,antonin_scalia,scotus_justice,368.109,370.998,What... what about the courts below the Florida Supreme Court?
+2004.03-931,0,25654,george_s_lemieux,,371.824,372.446,"Yes, Your Honor."
+2004.03-931,0,15060,john_paul_stevens,scotus_justice,398.657,399.733,May I ask--
+2004.03-931,0,15113,anthony_m_kennedy,scotus_justice,399.733,409.326,"Getting back to the practical equivalent of a guilty plea, Brookhart v. Janis do you think goes to the outer margin of what the functional equivalent is?"
+2004.03-931,0,25654,george_s_lemieux,,418.614,419.44,"Sure, sure."
+2004.03-931,0,15113,anthony_m_kennedy,scotus_justice,419.44,421.215,--as... as to whether or not this is the functional equivalent.
+2004.03-931,0,25654,george_s_lemieux,,421.215,428.356,"Your Honor, I think that Brookhart in fact probably supports our position because in Brookhart the situation was factually different."
+2004.03-931,0,15049,antonin_scalia,scotus_justice,505.632,511.577,Do we have any cases involving what... what you describe as tacit consent?
+2004.03-931,0,25654,george_s_lemieux,,511.577,514.921,"In terms of a trial strategy, Your Honor?"
+2004.03-931,0,15049,antonin_scalia,scotus_justice,514.921,517.4,In... in terms of... of pleading guilty.
+2004.03-931,0,25654,george_s_lemieux,,533.663,542.785,"Your Honor, I think you do and I think that Boykin addresses that there has to be a colloquy with a plea of guilty, and that the... the defendant can't tacitly consent to a plea of guilty."
+2004.03-931,0,15084,ruth_bader_ginsburg,scotus_justice,565.326,567.305,What happened to the photographs?
+2004.03-931,0,25654,george_s_lemieux,,575.069,586.215,"--They were admitted over his objection, and that was taken up on direct appeal to the Florida Supreme Court, and the Florida Supreme Court, in Nixon I, did not find that they were inflammatory and found that their introduction was proper."
+2004.03-931,0,15084,ruth_bader_ginsburg,scotus_justice,586.215,587.124,But they were not reintroduced at the sentencing phase.
+2004.03-931,0,25654,george_s_lemieux,,587.124,593.523,They were already in evidence and the State incorporated its evidence from the guilt phase into the sentencing phase.
+2004.03-931,0,15060,john_paul_stevens,scotus_justice,609.992,621.387,--May I ask if... do you think his representation would have been inadequate if he had not discussed the strategy with the client but everything else was exactly the same?
+2004.03-931,0,25654,george_s_lemieux,,621.387,626.339,"It may... it may have been but it would be something that would be evaluated under Strickland, Justice Stevens."
+2004.03-931,0,15060,john_paul_stevens,scotus_justice,626.339,634.141,"Well, why would it be... why would it make any difference under Strickland whether he talked to the client or not if the same... if the same considerations are in play?"
+2004.03-931,0,25654,george_s_lemieux,,639.592,648.137,"I think the only point I would make there is this Court said in Strickland that counsel should consult with their... with their client, with the accused, and that that's an obligation on counsel."
+2004.03-931,0,15042,david_h_souter,scotus_justice,653.726,669.601,Isn't that... isn't that because we... we take the consultation at... at least as an indication that the lawyer was... was adequate in communicating back and forth with the client so that the client could tell him what the lawyer needed to know to defend him?
+2004.03-931,0,25654,george_s_lemieux,,669.601,671.292,"Yes, Justice Souter, I think that's correct."
+2004.03-931,0,15049,antonin_scalia,scotus_justice,677.874,712.16,"But even apart from the competence of the lawyer, whether it shows adequate performance by the lawyer, can't you... can't you divide the Boykin rule, which doesn't relate to the lawyer's competence at all, into three different categories: number one, where there is express consent which is... makes it okay; number two, when there's no consent at all, which is bad; and number three, where there is what... what you call here implicit consent?"
+2004.03-931,0,25654,george_s_lemieux,,714.555,716.125,"Yes, Your Honor, that's correct."
+2004.03-931,0,15084,ruth_bader_ginsburg,scotus_justice,725.346,725.984,In--
+2004.03-931,0,15060,john_paul_stevens,scotus_justice,725.984,728.668,It seems to me rather difficult to... to draw that line.
+2004.03-931,0,25654,george_s_lemieux,,744.188,754.674,"That's correct, Your Honor, but in... I think this Court has held in cases like Jones v. Barnes and Taylor v. Illinois, that questions of strategy are questions that are reserved to the lawyer, and that all--"
+2004.03-931,0,15060,john_paul_stevens,scotus_justice,754.674,759.299,"That's right, and that's why I'm suggesting if it really is a question of strategy, you don't even need implicit consent."
+2004.03-931,0,15049,antonin_scalia,scotus_justice,759.299,759.875,Right.
+2004.03-931,0,15060,john_paul_stevens,scotus_justice,759.875,760.868,And I'm not sure there's a--
+2004.03-931,0,25654,george_s_lemieux,,760.868,761.034,--We--
+2004.03-931,0,15060,john_paul_stevens,scotus_justice,761.034,763.263,"--three-part rule, as Justice Scalia says."
+2004.03-931,0,25654,george_s_lemieux,,764.462,767.146,"--We... we agree with that position, Justice Stevens."
+2004.03-931,0,15049,antonin_scalia,scotus_justice,767.146,790.18,"Well, I... I assume... I assume your response is that if you eliminate from the Boykin rule the possibility of implicit consent, you are forcing the lawyer who believes he has the consent of... of a... an intractable client such as this fellow who... who didn't go into the courtroom, took all his clothes off so they couldn't take him into the courtroom."
+2004.03-931,0,25654,george_s_lemieux,,809.499,812.388,"Your Honor, it's not our position that you should a rule of consent."
+2004.03-931,0,15139,stephen_g_breyer,scotus_justice,817.218,818.127,What... what about a--
+2004.03-931,0,15084,ruth_bader_ginsburg,scotus_justice,818.127,835.672,"--If there were a plea... if it were a plea of guilt, wouldn't this be an academic question because I assume Florida has some counterpart to the rule 11 colloquy where the judge must confront the defendant and ask him a series of questions to elicit his consent?"
+2004.03-931,0,25654,george_s_lemieux,,847.273,858.707,"Your Honor, Florida does have a rule for a guilty plea, but... and now the Florida Supreme Court says there has to be a colloquy for a strategy decision that... where there's a concession, but we disagree with that."
+2004.03-931,0,15084,ruth_bader_ginsburg,scotus_justice,875.341,881.674,"If Florida wanted to adopt that procedure on its own, that wouldn't present a Federal question."
+2004.03-931,0,25654,george_s_lemieux,,895.32,902.09,"Well... well, Justice Ginsburg, they're doing it under these decisions of this Court is the reason why that they've articulated that this has to be done."
+2004.03-931,0,15060,john_paul_stevens,scotus_justice,919.752,921.321,"Yes, but these... let me just understand."
+2004.03-931,0,25654,george_s_lemieux,,925.762,926.34,They are.
+2004.03-931,0,15060,john_paul_stevens,scotus_justice,931.048,936.083,"But only... is it... it's not just when there's the equivalent of the guilty plea, but any major trial strategy--"
+2004.03-931,0,25654,george_s_lemieux,,936.083,938.229,"The lower... Justice, I'm sorry."
+2004.03-931,0,15060,john_paul_stevens,scotus_justice,938.229,949.996,"--Is this... I want to know if the Florida Supreme Court's holding is limited to cases that are the functional equivalent of... of a guilty plea, and... and it's only there that they're requiring the colloquy."
+2004.03-931,0,25654,george_s_lemieux,,949.996,958.457,"It's only there that they've required it, but lower courts now defense counsel are making these arguments that, boy, you know, and the judge is concerned this is a strategy decision."
+2004.03-931,0,15060,john_paul_stevens,scotus_justice,958.457,965.311,"Well, but of course what the lower courts are doing may or may not be right as a matter of Florida law, but that's not before us really."
+2004.03-931,0,25654,george_s_lemieux,,965.311,966.343,It's not before Your Honor.
+2004.03-931,0,15049,antonin_scalia,scotus_justice,966.343,969.436,"Of course, if it were a matter of Florida law, the Florida legislature could change it."
+2004.03-931,0,25654,george_s_lemieux,,969.436,970.551,"Yes, Justice Scalia."
+2004.03-931,0,15049,antonin_scalia,scotus_justice,970.551,972.203,"If it's a matter of Federal law, it can't."
+2004.03-931,0,25654,george_s_lemieux,,972.203,972.946,That's correct.
+2004.03-931,0,15060,john_paul_stevens,scotus_justice,975.752,985.002,Mr. Gornstein.
+2004.03-931,1,28554,irving_l_gornstein,,985.002,989.664,"Justice Stevens, and may it please the Court:"
+2004.03-931,1,15113,anthony_m_kennedy,scotus_justice,1024.05,1032.965,"Do we take it as a given that if he does not consent, in fact, directs his lawyer not to make this concession, that the lawyer is bound to follow?"
+2004.03-931,1,28554,irving_l_gornstein,,1032.965,1035.194,"No, Justice Kennedy."
+2004.03-931,1,15113,anthony_m_kennedy,scotus_justice,1065.637,1076.821,"Does... does that up the ante and the defendant now is in the position to terminate the lawyer, or will the judge say it's... it's too late, I'm not going to grant that motion?"
+2004.03-931,1,28554,irving_l_gornstein,,1076.821,1078.862,"Justice Kennedy, the--"
+2004.03-931,1,15113,anthony_m_kennedy,scotus_justice,1078.862,1079.876,As... as a matter of Federal law.
+2004.03-931,1,28554,irving_l_gornstein,,1079.876,1097.049,"--As... the defendant could go to the... to the judge and his counsel could go to the judge and say, we have had such a breakdown between us on what should be done here, we think alternative counsel should be appointed."
+2004.03-931,1,15042,david_h_souter,scotus_justice,1109.886,1122.146,"But what... what if there's a third possibility and... and the lawyer makes remarks in front of the jury, as... as this lawyer did, in effect, concession kind of remarks, and the defendant stands up and says, hey, I'm not making those concessions?"
+2004.03-931,1,28554,irving_l_gornstein,,1135.604,1146.628,"If I understand your question, Justice Souter, this is a situation where there was no objection initially, the lawyer proceeded to adopt a strategy, and then there was a--"
+2004.03-931,1,15042,david_h_souter,scotus_justice,1146.628,1148.979,"Well, I... actually I... I didn't get into that one way or the other."
+2004.03-931,1,28554,irving_l_gornstein,,1184.439,1190.483,--That... that sounds to me like a case where there ought to be alternative counsel appointed if there has been such a--
+2004.03-931,1,15042,david_h_souter,scotus_justice,1190.483,1193.272,I... I would certainly agree if we get to that point.
+2004.03-931,1,28554,irving_l_gornstein,,1209.331,1218.703,"--Probably not, Justice Souter, that you would analyze that under Strickland and you would find that that's not the reasonable performance of counsel in that circumstance."
+2004.03-931,1,15042,david_h_souter,scotus_justice,1218.703,1218.953,I... I--
+2004.03-931,1,28554,irving_l_gornstein,,1218.953,1225.845,"And so... but the question here really is what do you do not in a case where there's been an objection, because there was no objection here."
+2004.03-931,1,15113,anthony_m_kennedy,scotus_justice,1225.845,1232.078,So a substantial component of reasonableness under Strickland is whether or not you follow the client's instructions?
+2004.03-931,1,28554,irving_l_gornstein,,1232.078,1237.816,"It is one factor that reasonable counsel will take into account, but it is not the only factor."
+2004.03-931,1,15060,john_paul_stevens,scotus_justice,1349.122,1350.964,"Thank you, Mr. Gornstein."
+2004.03-931,2,23318,edward_h_tillinghast,,1355.672,1360.623,"Mr. Justice Stevens, and may it please the Court:"
+2004.03-931,2,15084,ruth_bader_ginsburg,scotus_justice,1403.72,1407.146,"Mr. Tillinghast, may I go back to something you said?"
+2004.03-931,2,23318,edward_h_tillinghast,,1440.128,1445.33,"Justice Ginsburg, part of the issue here is... is the lack of consent."
+2004.03-931,2,15049,antonin_scalia,scotus_justice,1497.015,1497.387,But he--
+2004.03-931,2,15113,anthony_m_kennedy,scotus_justice,1497.387,1503.852,"Well, you... you equate this to a case where the defendant is just accidentally not present."
+2004.03-931,2,23318,edward_h_tillinghast,,1522.378,1528.223,"Well, the... the important issue here is there was not consent."
+2004.03-931,2,15049,antonin_scalia,scotus_justice,1546.427,1558.853,"--I don't agree with your earlier statement that what... what this defendant expected was a contested trial in which, you know, the State's evidence is challenged, blah, blah, blah."
+2004.03-931,2,23318,edward_h_tillinghast,,1585.065,1596.665,"Well, respectfully, Your Honor, I would... I would disagree because that what... what we do have from Mr. Nixon is he stated that... that he had fired his lawyer."
+2004.03-931,2,15049,antonin_scalia,scotus_justice,1616.644,1623.043,I thought he had made those statements about being railroaded before he found out about the lawyer's concession.
+2004.03-931,2,23318,edward_h_tillinghast,,1623.043,1627.873,"Actually the... you're correct, Your Honor."
+2004.03-931,2,15049,antonin_scalia,scotus_justice,1627.873,1628.073,I think that's correct.
+2004.03-931,2,23318,edward_h_tillinghast,,1628.073,1630.556,The... the railroading statements were before the opening statements.
+2004.03-931,2,15042,david_h_souter,scotus_justice,1635.303,1646.82,Let me ask you a question just about what you... what you're assuming when you make the... the statement... prefaced the argument to the effect that there was a complete breakdown of... of the adversary process.
+2004.03-931,2,23318,edward_h_tillinghast,,1656.358,1657.844,"Yes, Your Honor."
+2004.03-931,2,15042,david_h_souter,scotus_justice,1657.844,1658.792,You're dividing it in half.
+2004.03-931,2,23318,edward_h_tillinghast,,1658.792,1659.906,Yes.
+2004.03-931,2,15042,david_h_souter,scotus_justice,1659.906,1661.681,Why is that... why is that legitimate?
+2004.03-931,2,23318,edward_h_tillinghast,,1689.628,1709.79,"If the Court... if the Court was to look at the totality and... as opposed to looking at the guilt phase, what would happen would be that capital cases would have... would end up having a lower standard than a non-capital case because--"
+2004.03-931,2,15042,david_h_souter,scotus_justice,1709.79,1711.259,"Well, they wouldn't end up having lower standards."
+2004.03-931,2,23318,edward_h_tillinghast,,1741.352,1751.3,"--The difficulty here is... is this was the functional equivalent of a guilty plea without consent, and--"
+2004.03-931,2,15092,sandra_day_oconnor,scotus_justice,1751.3,1753.341,"Well, let me ask you this."
+2004.03-931,2,23318,edward_h_tillinghast,,1777.64,1779.907,--Your Honor--
+2004.03-931,2,15092,sandra_day_oconnor,scotus_justice,1779.907,1780.65,Is that possible?
+2004.03-931,2,23318,edward_h_tillinghast,,1780.65,1782.962,--With... with statements in the opening--
+2004.03-931,2,15092,sandra_day_oconnor,scotus_justice,1782.962,1783.872,Is that possible?
+2004.03-931,2,23318,edward_h_tillinghast,,1783.872,1790.31,--Not without the consent of a client with statements like this.
+2004.03-931,2,15092,sandra_day_oconnor,scotus_justice,1790.31,1794.934,"Well, now you're building in something that I didn't ask."
+2004.03-931,2,23318,edward_h_tillinghast,,1811.198,1814.892,There could be circumstances.
+2004.03-931,2,15113,anthony_m_kennedy,scotus_justice,1814.892,1820.736,I don't know why you're so... I thought that the literature was replete with Law Review articles saying that this is the best strategy.
+2004.03-931,2,23318,edward_h_tillinghast,,1829.197,1830.145,"Well, it is the--"
+2004.03-931,2,15113,anthony_m_kennedy,scotus_justice,1830.145,1833.877,"I... I thought this... this was something you'd say, well, of course."
+2004.03-931,2,23318,edward_h_tillinghast,,1833.877,1836.999,--It... it is the factor of the consent.
+2004.03-931,2,15113,anthony_m_kennedy,scotus_justice,1841.64,1852.231,"Well, but what... what about the basic question, that as a matter of trial strategy, it is a recognized, acceptable, sometimes prudent, sometimes wise strategy to concentrate on a sentencing phase?"
+2004.03-931,2,23318,edward_h_tillinghast,,1852.231,1854.422,"--In the general sense, yes."
+2004.03-931,2,15049,antonin_scalia,scotus_justice,1854.422,1885.258,"And there's no difference between a capital case and a regular case insofar as the intelligence of that strategy is concerned because even when there is not a separate penalty phase, it is sometimes in the interest of the defendant to, in effect, throw himself on the mercy of the sentencer, whether that is the jury or the judge, by... by not contesting the... the fact that... that he did the acts charged."
+2004.03-931,2,23318,edward_h_tillinghast,,1889.428,1896.57,"Well, Justice, the... the distinction here is... is it... it wasn't a strategy to not contest the State's case."
+2004.03-931,2,15084,ruth_bader_ginsburg,scotus_justice,1903.174,1919.992,"Not entirely because both in the opening and in closing, the lawyer said to the jury, he did it, but I want you to know from my very opening that this case is about life or death, and that's the ultimate decision you will have to make."
+2004.03-931,2,23318,edward_h_tillinghast,,1939.871,1949.038,"Well, Justice Ginsburg, the issue here is that he did that and he went beyond just saying that he did it."
+2004.03-931,2,15084,ruth_bader_ginsburg,scotus_justice,1956.59,1958.713,"Well, you say without consent."
+2004.03-931,2,23318,edward_h_tillinghast,,2010.915,2029.014,"--I would submit that in this case, because that it is the functional equivalent of a guilty plea, and as this Court has held under Boykin and under Brookhart that you must have voluntary and willing and knowing consent--"
+2004.03-931,2,15092,sandra_day_oconnor,scotus_justice,2029.014,2034.404,"Well, what if we think that's not correct, that it is not the equivalent of a guilty plea?"
+2004.03-931,2,23318,edward_h_tillinghast,,2052.487,2068.107,"--Well, Justice O'Connor, if... if you're... if the Court was to view it as not the functional equivalent, as you've suggested, you could affirm based upon the nature of the statements and finding that there was a complete failure under Cronic."
+2004.03-931,2,15092,sandra_day_oconnor,scotus_justice,2078.054,2090.975,"Well, you said we could affirm if we applied Cronic, but I thought the issue was whether perhaps Strickland applied, and if Strickland applies, I wouldn't think we'd be affirming necessarily."
+2004.03-931,2,23318,edward_h_tillinghast,,2090.975,2093.947,"Well, Strickland is... is respectfully not before the Court."
+2004.03-931,2,15092,sandra_day_oconnor,scotus_justice,2096.715,2102.659,"Well, the... the question of which standard applies I thought was before the Court."
+2004.03-931,2,23318,edward_h_tillinghast,,2115.867,2116.322,--Yes.
+2004.03-931,2,15092,sandra_day_oconnor,scotus_justice,2116.322,2117.065,--one of the questions?
+2004.03-931,2,23318,edward_h_tillinghast,,2117.065,2117.891,Yes.
+2004.03-931,2,15092,sandra_day_oconnor,scotus_justice,2117.891,2118.346,Okay.
+2004.03-931,2,15139,stephen_g_breyer,scotus_justice,2118.968,2126.148,I thought that Boykin and... Boykin and... and Brookhart were about really a somewhat different matter.
+2004.03-931,2,23318,edward_h_tillinghast,,2205.16,2215.684,"I... I think, first, under... under Jones v. Barnes, it's been held by this Court that there are three fundamental things that only the client can do, one of which is to plead guilty."
+2004.03-931,2,15139,stephen_g_breyer,scotus_justice,2249.121,2257.477,This is not a guilty plea and the words... a guilty plea is something accepted by a judge and the judge didn't.
+2004.03-931,2,23318,edward_h_tillinghast,,2296.47,2301.216,"Well, the... the lawyer here did have alternatives."
+2004.03-931,2,15084,ruth_bader_ginsburg,scotus_justice,2377.089,2377.832,Why?
+2004.03-931,2,23318,edward_h_tillinghast,,2409.207,2415.19,"--The difficulty, again... it comes back to the lack of consent."
+2004.03-931,2,15084,ruth_bader_ginsburg,scotus_justice,2418.041,2421.922,"Well, my problem... and I... I'm not sure I understand your answer to it."
+2004.03-931,2,23318,edward_h_tillinghast,,2450.818,2464.731,"In... in... particularly in a capital case, what this Court and all courts would... would want is a reliable record where there had been testing."
+2004.03-931,2,15049,antonin_scalia,scotus_justice,2492.945,2493.975,"Well, that... but that's not a problem."
+2004.03-931,2,23318,edward_h_tillinghast,,2528.71,2539.096,"--He had the alternative of... of having an inquiry with Mr. Nixon, with the court determine whether or not--"
+2004.03-931,2,15049,antonin_scalia,scotus_justice,2539.096,2539.839,And Nixon... okay.
+2004.03-931,2,23318,edward_h_tillinghast,,2550.779,2551.318,--Well--
+2004.03-931,2,15049,antonin_scalia,scotus_justice,2551.318,2557.755,"And... and you say, well, since we don't have an answer, we have to take the course that's going to get this guy executed."
+2004.03-931,2,23318,edward_h_tillinghast,,2559.901,2572.699,"--I would respectfully submit that given the nature of the opening and closing, the words that were used, in... in that kind of a extreme situation, that is a decision that the client should make."
+2004.03-931,2,15042,david_h_souter,scotus_justice,2587.726,2587.826,No.
+2004.03-931,2,23318,edward_h_tillinghast,,2634.637,2657.195,"--The... in... in this situation, it's... it's the nature of what was said and his lack of presence in the courtroom where there was no affirmative defense."
+2004.03-931,2,15060,john_paul_stevens,scotus_justice,2687.993,2694.702,"Mr. Tillinghast, can I ask you if you are familiar with the Loeb/Leopold trial many, many years ago that was conducted by Clarence Darrow?"
+2004.03-931,2,23318,edward_h_tillinghast,,2697.924,2699.903,"Unfortunately, I'm not, Your Honor."
+2004.03-931,2,15060,john_paul_stevens,scotus_justice,2699.903,2703.99,Because he... he applied exactly this strategy and it was one of his great victories.
+2004.03-931,2,23318,edward_h_tillinghast,,2723.02,2745.311,"Well, if... besides the... what we believe was a fundamental... what was a complete failure... excuse me."
+2004.03-931,2,15084,ruth_bader_ginsburg,scotus_justice,2763.599,2766.738,May I ask you a question that I asked the other side?
+2004.03-931,2,23318,edward_h_tillinghast,,2805.309,2817.84,"The... yes, Your Honor."
+2004.03-931,2,15084,ruth_bader_ginsburg,scotus_justice,2817.84,2820.07,That would be... that would be all.
+2004.03-931,2,23318,edward_h_tillinghast,,2831.852,2839.654,"When I say yes, the... what would... what would be left is an entire hearing on the... on the Strickland claims and the motion to vacate."
+2004.03-931,2,15042,david_h_souter,scotus_justice,2844.362,2847.456,Why... why do we need a hearing rather than an examination of the record?
+2004.03-931,2,23318,edward_h_tillinghast,,2848.282,2863.431,"--Because the... the hearings below, when it was sent back down by the Florida Supreme Court, were only on the issue of whether or not there was consent to... to the... what the Florida Supreme Court deemed to be the functional equivalent of a guilty plea."
+2004.03-931,2,15049,antonin_scalia,scotus_justice,2869.458,2871.976,Hadn't there been a hearing on those issues on the way up?
+2004.03-931,2,23318,edward_h_tillinghast,,2871.976,2872.719,No.
+2004.03-931,2,15049,antonin_scalia,scotus_justice,2872.719,2873.441,No?
+2004.03-931,2,23318,edward_h_tillinghast,,2873.441,2874.0,No.
+2004.03-931,2,15049,antonin_scalia,scotus_justice,2874.0,2874.455,Wasn't--
+2004.03-931,2,23318,edward_h_tillinghast,,2874.455,2876.601,It was actually denied by Judge Hall.
+2004.03-931,2,15084,ruth_bader_ginsburg,scotus_justice,2884.653,2887.641,--Why was it denied in the trial court?
+2004.03-931,2,23318,edward_h_tillinghast,,2897.86,2906.86,It was... it was because of the focus of the Florida Supreme Court on... on whether or not there was a consent.
+2004.03-931,2,15049,antonin_scalia,scotus_justice,2906.86,2907.332,--No.
+2004.03-931,2,15042,david_h_souter,scotus_justice,2908.075,2908.225,No.
+2004.03-931,2,15049,antonin_scalia,scotus_justice,2908.63,2910.554,We're talking below on the way up to the Florida Supreme Court.
+2004.03-931,2,23318,edward_h_tillinghast,,2922.814,2922.98,He--
+2004.03-931,2,15049,antonin_scalia,scotus_justice,2922.98,2928.787,I don't know why the Florida Supreme Court should be obliged to remand it in order to give him a second bite at the apple.
+2004.03-931,2,23318,edward_h_tillinghast,,2928.787,2934.497,--It was raised but... but he was not given an opportunity for a hearing on that.
+2004.03-931,2,15042,david_h_souter,scotus_justice,2934.497,2935.983,"Well, was he denied the opportunity?"
+2004.03-931,2,23318,edward_h_tillinghast,,2935.983,2936.521,Yes.
+2004.03-931,2,15042,david_h_souter,scotus_justice,2936.521,2939.66,"Did the... did the judge say, look, we're... we're going to confine it strictly to this one issue?"
+2004.03-931,2,23318,edward_h_tillinghast,,2939.66,2940.236,Yes.
+2004.03-931,2,15042,david_h_souter,scotus_justice,2940.236,2941.434,Okay.
+2004.03-931,2,23318,edward_h_tillinghast,,2941.434,2955.757,"So, in conclusion, Your Honors, we submit that there are two... two approaches to affirming the Florida Supreme Court."
+2004.03-931,2,15060,john_paul_stevens,scotus_justice,3101.271,3102.469,"Thank you, Mr. Tillinghast."
+2004.03-931,3,25654,george_s_lemieux,,3106.594,3107.603,"Thank you, Justice Stevens."
+2004.03-931,3,15049,antonin_scalia,scotus_justice,3211.734,3219.164,"Are you going to get to the point of whether there was, indeed, an opportunity for this defendant to introduce evidence about inadequate performance of counsel?"
+2004.03-931,3,25654,george_s_lemieux,,3219.164,3221.022,"Yes, I am, Your Honor, and I'll get to that right now."
+2004.03-931,3,15042,david_h_souter,scotus_justice,3230.847,3232.25,What... what did the judge... what did judge say?
+2004.03-931,3,25654,george_s_lemieux,,3234.562,3243.107,"--Your Honor, I would point the Court to pages 385 to 390 of the appendix where Judge Smith denies the Strickland claim."
+2004.03-931,3,15060,john_paul_stevens,scotus_justice,3268.636,3272.335,Why should... why should they put in Strickland evidence if they've won under Cronic?
+2004.03-931,3,25654,george_s_lemieux,,3272.335,3275.224,"Well, they had not yet won under Cronic, Your Honor."
+2004.03-931,3,15060,john_paul_stevens,scotus_justice,3276.81,3280.63,I thought it was remanded for an issue... for a hearing on the consent issue after--
+2004.03-931,3,25654,george_s_lemieux,,3280.63,3283.481,This is... there was a hearing before that and a hearing after that.
+2004.03-931,3,15060,john_paul_stevens,scotus_justice,3283.481,3284.224,--I see.
+2004.03-931,3,25654,george_s_lemieux,,3284.224,3294.748,"In conclusion, Your Honor, we believe that the harmony between these two lines of cases works, that the Florida Supreme Court got it wrong, and for that reason, we would request reversal."
+2004.03-931,3,15060,john_paul_stevens,scotus_justice,3295.574,3296.317,Thank you.

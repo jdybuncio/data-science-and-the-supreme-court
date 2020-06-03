@@ -1,0 +1,170 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1992.91-1729,0,15141,william_h_rehnquist,scotus_justice,0.0,10.608,"We'll hear argument first this morning in No. 91-1729, United States v. Texas."
+1992.91-1729,0,42821,thomas_g_hungar,,11.76,15.281,"Thank you, Mr. Chief Justice, and may it please the Court:"
+1992.91-1729,0,15113,anthony_m_kennedy,scotus_justice,158.485,178.207,"If the state had just refused to pay, Mr. Hungar, and the United States had sued the state, which was not the case here, would it have had a choice to proceed under the Federal common law or under the Debt Collection Act, or does the Debt Collection Act not provide some substantial cause of action?"
+1992.91-1729,0,42821,thomas_g_hungar,,178.207,188.605,In this case the United States would not have had the choice to proceed under the Debt Collection Act because the Debt Collection Act's prejudgment interest remedy expressly excludes the states.
+1992.91-1729,0,15113,anthony_m_kennedy,scotus_justice,188.605,193.019,"I mean for the substantive amount owed, for the principal amount owed."
+1992.91-1729,0,42821,thomas_g_hungar,,193.019,196.802,"Well, the Debt Collection Act doesn't create a cause of action."
+1992.91-1729,0,15113,anthony_m_kennedy,scotus_justice,208.82,214.694,"All right, so there's no substantive liability under... substantive cause of action created under the Debt Collection Act?"
+1992.91-1729,0,42821,thomas_g_hungar,,214.694,217.145,"Well, where the... that's correct."
+1992.91-1729,0,15113,anthony_m_kennedy,scotus_justice,217.145,218.225,For the principal sum.
+1992.91-1729,0,42821,thomas_g_hungar,,218.225,219.106,"That's correct, Your Honor."
+1992.91-1729,0,15113,anthony_m_kennedy,scotus_justice,222.148,232.984,Would the... and is that the common law cause of action that the United States would proceed under in this hypothetical case where the United States is initiating the suit?
+1992.91-1729,0,42821,thomas_g_hungar,,239.91,269.319,"Well, if we're referring to the Federal common, the Federal cause of action, which is a different question than the remedy for prejudgment interest in our view, the cause of action... I am sure the United States would have a cause of action that could either be viewed as an implied right of action under the Food Stamp Act or as the more general Federal cause of action for money had and received, which is at issue in the United States against California case."
+1992.91-1729,0,15113,anthony_m_kennedy,scotus_justice,289.031,301.459,"So if in the hypothetical case you had proceeded under the statutory authority to collect the money, the Debt Collection Act is still not applicable insofar as prejudgment interest is concerned?"
+1992.91-1729,0,42821,thomas_g_hungar,,301.459,309.376,"In this context, yes, Your Honor, because this would be an action against a state and states are excluded from the scope of section 3717."
+1992.91-1729,0,15042,david_h_souter,scotus_justice,309.376,317.06,"Mr. Hungar, in cases in which the common law remedy is applied, when does the interest run from?"
+1992.91-1729,0,42821,thomas_g_hungar,,318.442,326.798,"Again, Your Honor, because the common law remedy is flexible and discretionary, that is up to the court."
+1992.91-1729,0,15042,david_h_souter,scotus_justice,326.798,331.448,Could the court assess it as of a date earlier than the date of the complaint?
+1992.91-1729,0,42821,thomas_g_hungar,,331.448,341.466,"We believe it could, Your Honor, but it might, depending on the equities of the particular situation, if there had been some undue delay perhaps then it would be inequitable to impose liability prior to that date."
+1992.91-1729,0,15042,david_h_souter,scotus_justice,353.785,357.886,"Now, there's no discretion under the act, I take it?"
+1992.91-1729,0,42821,thomas_g_hungar,,357.886,359.318,"That's correct, Your Honor."
+1992.91-1729,0,15042,david_h_souter,scotus_justice,366.442,381.502,"So that the State of Texas I take it then in your view is wrong in what it said in its brief on, I think it was on page 12, that what the Government is asking for here in fact is the same interest remedy that it would have had under the act."
+1992.91-1729,0,42821,thomas_g_hungar,,383.735,384.406,"That's exactly right, Your Honor."
+1992.91-1729,0,15042,david_h_souter,scotus_justice,416.706,424.932,Do you see the common law remedy as essentially a discretionary judicial remedy as distinct from something which is implicit in a contractual relationship?
+1992.91-1729,0,42821,thomas_g_hungar,,429.624,441.873,"That's correct, Your Honor, and I think prejudgment, although this case doesn't present that question, I think that prejudgment interest could be available under the common law even beyond a purely contractual relationship if it were appropriate."
+1992.91-1729,0,15092,sandra_day_oconnor,scotus_justice,441.873,445.384,Mr. Hungar... I'm sorry.
+1992.91-1729,0,42821,thomas_g_hungar,,462.425,474.194,"Well, the State has argued in this Court that the plain statement rule announced by this Court in Pennhurst would bar application of prejudgment interest."
+1992.91-1729,0,15092,sandra_day_oconnor,scotus_justice,474.194,488.462,"Well, I think they have also made arguments that go to, that are equitable in nature, I suppose, the fact that the Government's own agent stole food stamps and things of that sort."
+1992.91-1729,0,42821,thomas_g_hungar,,488.462,489.904,"That's correct, Your Honor."
+1992.91-1729,0,15049,antonin_scalia,scotus_justice,513.089,515.821,"Mr. Hungar, before you get to the legislative history--"
+1992.91-1729,0,42821,thomas_g_hungar,,560.3,571.076,"--Well, I'm sure that the private debtors who have now been subjected to section 3717 would disagree with your characterization that section 3717 is fairer than the common law."
+1992.91-1729,0,15049,antonin_scalia,scotus_justice,583.895,584.977,"Well, they think that's fair to the Government."
+1992.91-1729,0,42821,thomas_g_hungar,,584.977,586.606,"That's correct, but the Government--"
+1992.91-1729,0,15049,antonin_scalia,scotus_justice,586.606,589.279,You don't mean Congress passed this not thinking it was fair?
+1992.91-1729,0,42821,thomas_g_hungar,,589.279,612.242,"--Congress was attempting to enhance the Federal Government's abilities to collect debts as against those entities covered by the act, but Congress could well have determined that it would be inappropriate, for example, to impose on state and local governments the delinquency penalties and the processing fees that are mandated by section 3717 in addition to the statutory minimum rate of interest."
+1992.91-1729,0,15049,antonin_scalia,scotus_justice,676.907,680.089,And specifically doesn't address whether a cause of action exists.
+1992.91-1729,0,42821,thomas_g_hungar,,680.089,682.991,"That's... it does not, that's correct, Your Honor."
+1992.91-1729,0,15049,antonin_scalia,scotus_justice,689.236,691.066,"No, I mean for prejudgment interest."
+1992.91-1729,0,42821,thomas_g_hungar,,691.066,693.718,"--As against the states, that's correct."
+1992.91-1729,0,15049,antonin_scalia,scotus_justice,693.718,694.84,As against anybody.
+1992.91-1729,0,42821,thomas_g_hungar,,696.469,716.594,"Well, I'm not sure whether it would be denominated to cause of action, but it certainly mandates that a prejudgment interest remedy in the context of private debtors but does not address the question of the existence or non-existence of a prejudgment interest remedy in the context of state debtors."
+1992.91-1729,0,15113,anthony_m_kennedy,scotus_justice,789.15,806.064,--What is the meaning in 4 C.F.R. 102.13 subparagraph (2) on debts which are not subject to 31 U.S.C. 3717?
+1992.91-1729,0,42821,thomas_g_hungar,,819.932,820.302,"Yes, Your Honor."
+1992.91-1729,0,15113,anthony_m_kennedy,scotus_justice,820.302,821.893,--Is that all it includes?
+1992.91-1729,0,42821,thomas_g_hungar,,821.893,831.429,The section 3701(c) exempts state and local governments and Federal agencies.
+1992.91-1729,0,15113,anthony_m_kennedy,scotus_justice,844.248,855.395,"That's the regulation at 4a of your brief, and I'm just not sure what debts are included in the phrase debts which are not subject to 3717."
+1992.91-1729,0,42821,thomas_g_hungar,,855.395,859.487,"--Your Honor, let me amend my previous answer."
+1992.91-1729,0,15113,anthony_m_kennedy,scotus_justice,901.013,910.93,"Well, it says they are just not subject to 3717."
+1992.91-1729,0,42821,thomas_g_hungar,,910.93,911.911,That's correct.
+1992.91-1729,0,15060,john_paul_stevens,scotus_justice,993.596,1010.927,"Mr. Hungar, when you call our attention to the regulation, wouldn't it have been natural for Congress if they meant what you say to have done exactly what the author of the regulations did, at the end of subsection (c) to say however, agencies are authorized to continue to apply the common law rule?"
+1992.91-1729,0,42821,thomas_g_hungar,,1010.927,1030.749,"No, Your Honor, because Congress is understood to legislate against the backdrop of traditional canons of statutory construction, and one of those traditional canons is that Congress will not be deemed to have changed the law and in particular will not be deemed to have abrogated existing and long-standing common law rules."
+1992.91-1729,0,15060,john_paul_stevens,scotus_justice,1030.749,1033.741,You must admit though it would have been rather clearer had they done that.
+1992.91-1729,0,42821,thomas_g_hungar,,1033.741,1034.131,Certainly.
+1992.91-1729,0,15060,john_paul_stevens,scotus_justice,1054.454,1063.24,"Is there a case like this one where your rule applied to preserving a common law rule when a new statute has been, replace the general scheme of things?"
+1992.91-1729,0,42821,thomas_g_hungar,,1063.24,1067.224,Mobil Oil against Higginbotham is perhaps an analogous statute.
+1992.91-1729,0,15060,john_paul_stevens,scotus_justice,1081.543,1084.164,But it didn't create a new remedy is what that did.
+1992.91-1729,0,42821,thomas_g_hungar,,1088.869,1102.587,"--Well, with respect, Your Honor, the Federal common law does, it did not originally but I believe in 1970 in the marine case, or perhaps earlier, but in any event at some point the Court did determine that the Federal maritime law did create a cause of action for wrongful death."
+1992.91-1729,0,15060,john_paul_stevens,scotus_justice,1102.587,1104.167,"But that's your strongest case, is it?"
+1992.91-1729,0,42821,thomas_g_hungar,,1104.167,1117.066,"Well, if I may explain, Justice Stevens, the Death on the High Seas Act contains an express exception for cases arising in state territorial waters, but it applies on the high seas."
+1992.91-1729,0,15042,david_h_souter,scotus_justice,1189.793,1206.856,"Mr. Hungar, does the regulation that we have just been discussing have a mistake in it in its statement that agencies are authorized to assess interest as they would have been able to do with the common law?"
+1992.91-1729,0,42821,thomas_g_hungar,,1227.259,1237.224,"Well, it's certainly correct that agencies do not have the authority under the common law to require states to pay a particular rate of interest in a particular case."
+1992.91-1729,0,15042,david_h_souter,scotus_justice,1239.377,1245.489,"Well, that means they have to go to courts for enforcement just as they have to go to courts to enforce the underlying debt in the first place."
+1992.91-1729,0,42821,thomas_g_hungar,,1245.489,1246.14,--That's correct.
+1992.91-1729,0,15042,david_h_souter,scotus_justice,1246.14,1262.201,"But the regulation seems to say that, subject to whatever enforcement discretion a court may have, the agency has the common law authority to create an obligation, and I didn't think that's what you were saying before."
+1992.91-1729,0,42821,thomas_g_hungar,,1262.201,1267.233,"We would not read the regulation in that way, Your Honor, and if it were read in that way it would be incorrect."
+1992.91-1729,0,15049,antonin_scalia,scotus_justice,1292.261,1295.782,"That leads into a question that I had, Mr. Hungar."
+1992.91-1729,0,42821,thomas_g_hungar,,1335.94,1343.653,"Well, in the first place, Your Honor, we would not, I would not view the remedy, the prejudgment interest remedy as a cause of action."
+1992.91-1729,0,15049,antonin_scalia,scotus_justice,1359.004,1361.475,"Well, I don't care what you want to call it, it's judicially created."
+1992.91-1729,0,42821,thomas_g_hungar,,1362.466,1362.967,Yes.
+1992.91-1729,0,15049,antonin_scalia,scotus_justice,1362.967,1363.776,"I mean, you have said that."
+1992.91-1729,0,42821,thomas_g_hungar,,1364.898,1365.629,"That's correct, Your Honor."
+1992.91-1729,0,15141,william_h_rehnquist,scotus_justice,1396.437,1406.626,So what if an agency under the regulation says we think prejudgment interest should occur at the rate of 8 percent from the time they got notice of the debt?
+1992.91-1729,0,42821,thomas_g_hungar,,1417.202,1428.839,"No, Your Honor, because the agency's authority to construe the Debt Collection Act is limited once the agency has determined, as the agencies have determined in this case, that the Debt Collection Act does not abrogate the common law."
+1992.91-1729,0,15049,antonin_scalia,scotus_justice,1459.34,1462.05,But do they implement the act or do the courts implement the act?
+1992.91-1729,0,42821,thomas_g_hungar,,1465.073,1467.214,"--No, Your Honor, the courts implement the common law."
+1992.91-1729,0,15060,john_paul_stevens,scotus_justice,1492.452,1507.04,"May I go back again to the text of the regulation that Justice Souter called your attention to, that they are authorized to assess interest on debts not subject to 3717 to the extent authorized under the common law."
+1992.91-1729,0,42821,thomas_g_hungar,,1511.603,1525.774,"Well, any ambiguity that there may be in the regulation is quite clearly resolved by the explanatory statement in the notice of rule making that accompanied the promulgation of that regulation in 1984, which we have discussed that in our opening brief."
+1992.91-1729,0,15060,john_paul_stevens,scotus_justice,1541.292,1551.72,"But if we do read it literally, just looking at this text, to the extent authorized under common law would mean not authorized at all, ergo the regulation would forbid interest."
+1992.91-1729,0,42821,thomas_g_hungar,,1551.72,1554.622,"Well, I'm not sure that it would mean that."
+1992.91-1729,0,15060,john_paul_stevens,scotus_justice,1557.414,1561.227,One would have to know what the agencies were authorized to do under common law to answer it.
+1992.91-1729,0,42821,thomas_g_hungar,,1561.227,1561.726,--That's correct.
+1992.91-1729,0,15060,john_paul_stevens,scotus_justice,1561.726,1566.741,"We now know under common law agencies have no power just to assess interest willy-nilly, don't we?"
+1992.91-1729,0,42821,thomas_g_hungar,,1566.741,1574.625,"Well, in any event, Your Honor, deference is due not merely to agency regulations but in general to agency interpretations--"
+1992.91-1729,0,15060,john_paul_stevens,scotus_justice,1574.625,1588.273,"But deference is due if we think Congress delegated to the agency the decision as to whether or not which way to go, and you think there's something in the statute that suggests Congress wanted the agencies to decide whether the common law rule should survive or not."
+1992.91-1729,0,42821,thomas_g_hungar,,1591.204,1596.71,"--Your Honor, the State has not disputed that the agencies possess the authority to implement the provisions of the Debt Collection Act."
+1992.91-1729,0,15060,john_paul_stevens,scotus_justice,1605.386,1610.469,But are they authorized to make decisions as to whether the common law rule survives the amendment of the statute or not?
+1992.91-1729,0,42821,thomas_g_hungar,,1610.469,1616.504,--Agencies routinely in the exercise of delegated power judge and determine the scope of Federal statutes.
+1992.91-1729,0,15060,john_paul_stevens,scotus_justice,1616.504,1619.445,What is your closest case of agency delegation to this one?
+1992.91-1729,0,42821,thomas_g_hungar,,1623.158,1630.884,"With respect, Your Honor, we have cited a number of cases in the brief, the K Mart case, the Rust against Sullivan, the National Railroad Passenger Corporation case."
+1992.91-1729,0,15049,antonin_scalia,scotus_justice,1668.999,1678.065,"But in these other cases that you refer to, if the act does apply the agency has some responsibilities, as an agency, as an administrative agency."
+1992.91-1729,0,42821,thomas_g_hungar,,1678.065,1678.573,True.
+1992.91-1729,0,15049,antonin_scalia,scotus_justice,1678.573,1685.088,In this case if the act does apply the only consequence is that the court shall pronounce a judgment of a certain sort.
+1992.91-1729,0,42821,thomas_g_hungar,,1690.562,1699.819,"With respect, Your Honor, in the K Mart case, by finding that the act did not apply, it did not forbid the importation of the particular gray market goods at issue, that was the end of the matter."
+1992.91-1729,0,15141,william_h_rehnquist,scotus_justice,1734.66,1736.513,"Very well, Mr. Hungar."
+1992.91-1729,1,33181,james_c_todd,,1738.214,1744.728,"Mr. Chief Justice, and may it please the Court:"
+1992.91-1729,1,15049,antonin_scalia,scotus_justice,1805.687,1806.878,"Mr. Todd, excuse me, before you go further."
+1992.91-1729,1,33181,james_c_todd,,1820.987,1822.9,"--Well, all of the others."
+1992.91-1729,1,15049,antonin_scalia,scotus_justice,1836.768,1838.398,And they were all enacted at the same time?
+1992.91-1729,1,33181,james_c_todd,,1838.398,1841.149,--Yes... not all.
+1992.91-1729,1,15141,william_h_rehnquist,scotus_justice,2005.989,2007.86,When you say Congress excluded--
+1992.91-1729,1,33181,james_c_todd,,2007.86,2008.601,"--Yes, Your Honor."
+1992.91-1729,1,15141,william_h_rehnquist,scotus_justice,2008.601,2016.686,--Congress excluded the states from the application of 3716 and 3717.
+1992.91-1729,1,33181,james_c_todd,,2016.686,2017.367,"Yes, Your Honor."
+1992.91-1729,1,15141,william_h_rehnquist,scotus_justice,2017.367,2025.522,And the position of the Government is that leaves the common law remedies in existence as they were before the statute.
+1992.91-1729,1,33181,james_c_todd,,2025.522,2026.022,Right.
+1992.91-1729,1,15141,william_h_rehnquist,scotus_justice,2026.022,2029.814,And you say there's something inconsistent with the Government's position?
+1992.91-1729,1,33181,james_c_todd,,2029.814,2030.755,"Yes, Your Honor."
+1992.91-1729,1,15141,william_h_rehnquist,scotus_justice,2030.755,2031.506,What is it?
+1992.91-1729,1,33181,james_c_todd,,2031.506,2032.077,Okay.
+1992.91-1729,1,15141,william_h_rehnquist,scotus_justice,2091.873,2095.485,"You haven't yet gotten to the inconsistency, have you?"
+1992.91-1729,1,33181,james_c_todd,,2095.485,2108.246,"--Well, the inconsistency is in using... the inconsistency I'm talking about is an inconsistency with the exclusion of states from the prelitigation debt collection activity."
+1992.91-1729,1,15141,william_h_rehnquist,scotus_justice,2125.206,2130.959,"You said prelitigation, but certainly it has application considerably beyond prelitigation."
+1992.91-1729,1,33181,james_c_todd,,2136.373,2136.823,--Right.
+1992.91-1729,1,15113,anthony_m_kennedy,scotus_justice,2198.543,2211.583,"Well, if the state had refused to pay and the Government instituted suit, would the Government have a choice to say we're proceeding under the common law or we're proceeding under the statute?"
+1992.91-1729,1,33181,james_c_todd,,2215.095,2225.711,The answer to the first question is I don't think that the Federal Government's choice would be to proceed under common law.
+1992.91-1729,1,15141,william_h_rehnquist,scotus_justice,2553.496,2565.504,"Your position, then, Mr. Todd, is that the correct reading of the Debt Collection Act is that the Federal Government is not entitled to claim any interest against the states?"
+1992.91-1729,1,33181,james_c_todd,,2565.504,2574.41,"--That's right, in this... they are not entitled to do what the Secretary did here, which is present a demand to the state for interest."
+1992.91-1729,1,15141,william_h_rehnquist,scotus_justice,2574.41,2577.411,"That's quite a remarkable result, isn't it?"
+1992.91-1729,1,33181,james_c_todd,,2585.947,2589.019,"Yes, and it's typically in a governmental context."
+1992.91-1729,1,15141,william_h_rehnquist,scotus_justice,2596.115,2597.384,"Well, that's true of lots of debts."
+1992.91-1729,1,33181,james_c_todd,,2597.384,2597.795,--Right.
+1992.91-1729,1,15141,william_h_rehnquist,scotus_justice,2610.232,2623.561,"Well, but when the Federal Government is a grantor and doesn't pay the grant on time, that's not quite the same thing as a debt or someone who is the recipient of an overpayment who is obligated to repay it."
+1992.91-1729,1,33181,james_c_todd,,2635.439,2644.514,"--It's rare or non-existent in the usual debtor-creditor, outside the governmental context."
+1992.91-1729,1,15141,william_h_rehnquist,scotus_justice,2644.514,2647.997,In the governmental context where does it exist?
+1992.91-1729,1,33181,james_c_todd,,2647.997,2673.236,"The... I'm not sure of all the situations outside the social service area where the Federal Government might be a debtor to the states, but I don't know of... I think that this is, I think this is the situation that has been created."
+1992.91-1729,1,15049,antonin_scalia,scotus_justice,2675.556,2676.286,"How about tax refunds, Mr. Todd?"
+1992.91-1729,1,33181,james_c_todd,,2683.28,2683.88,"--Yes, sir."
+1992.91-1729,1,15049,antonin_scalia,scotus_justice,2684.251,2685.17,I get the money back.
+1992.91-1729,1,33181,james_c_todd,,2686.502,2701.192,"I would agree that that's an instance in which a governmental entity does not pay interest and whereas another, someone else who has an obligation to pay somebody back in which there has been an overpayment."
+1992.91-1729,1,15049,antonin_scalia,scotus_justice,2873.964,2874.785,Excuse me.
+1992.91-1729,1,33181,james_c_todd,,2883.992,2884.833,"--Well, not just any law."
+1992.91-1729,1,15049,antonin_scalia,scotus_justice,2919.264,2921.666,What about whether the statute is retroactive?
+1992.91-1729,1,33181,james_c_todd,,2921.666,2926.471,--That's closer.
+1992.91-1729,1,15049,antonin_scalia,scotus_justice,2926.471,2927.939,It's not close at all.
+1992.91-1729,1,33181,james_c_todd,,2931.512,2952.217,"The EEOC, for example, a number of circuits have deferred to EEOC... when the statute is dealing with that... there you're talking about whether the agency is asked to give an opinion on whether or not in this specialized area Congress, the remedial purpose of the statute--"
+1992.91-1729,1,15049,antonin_scalia,scotus_justice,2952.217,2958.601,"The Government says in this specialized area of debt collection, read 3717."
+1992.91-1729,1,33181,james_c_todd,,2975.462,3005.502,"--The statute has already told them very expressly that when they get to reading 3717 any place that it says person it doesn't include state, so their mandate to seek to collect debts owed by the states are covered by the rest of the statute, but they don't... that doesn't take, that part doesn't take constructing the statute, because the statute has already said don't look inside the statute for interest against states."
+1992.91-1729,1,15071,byron_r_white,scotus_justice,3032.58,3055.965,"Mr. Todd, what if the agency, we're talking the Department of Justice, had decided that the Debt Collection Act does not, cancelled out any liability of the states to pay interest, that it just did away with the common law remedy?"
+1992.91-1729,1,33181,james_c_todd,,3066.531,3070.484,"Well, I would say that... what I would say is this."
+1992.91-1729,1,15071,byron_r_white,scotus_justice,3083.934,3087.244,"So your answer to my question is no, no deference."
+1992.91-1729,1,33181,james_c_todd,,3087.244,3088.486,--Not as a... right.
+1992.91-1729,1,15071,byron_r_white,scotus_justice,3100.494,3104.825,"But what if we said it's a toss up, it's 50-50."
+1992.91-1729,1,33181,james_c_todd,,3119.955,3124.19,"--If you conclude, and I'll try to again answer this question--"
+1992.91-1729,1,15071,byron_r_white,scotus_justice,3124.19,3125.639,I would think you would just say no.
+1992.91-1729,1,33181,james_c_todd,,3128.441,3135.307,"--On matters of common law and established judicial doctrine, the Court is a much greater--"
+1992.91-1729,1,15071,byron_r_white,scotus_justice,3135.307,3136.328,--We're construing a statute.
+1992.91-1729,1,33181,james_c_todd,,3136.328,3143.351,"--Well, but that's what, the construction of a statute I think stops with 3701(c)."
+1992.91-1729,1,15141,william_h_rehnquist,scotus_justice,3175.074,3183.469,"But an agency would not, is not entitled to opine as to whether the Debt Collection Act left that common law intact?"
+1992.91-1729,1,33181,james_c_todd,,3183.469,3209.125,"--They are entitled to opine, and I think, and I'll go so far as to agree with Mr. Hungar that they have some duty here to make a call because they have to give guidance to their clients as to what they should do, but the conclusion of that opining is not due the same deference that it would be if, as in the example I gave, the EPA saying what is a pesticide."
+1992.91-1729,1,15141,william_h_rehnquist,scotus_justice,3209.125,3210.266,Is it due any deference?
+1992.91-1729,1,33181,james_c_todd,,3210.266,3215.509,"I think it is due... well, is it due any?"
+1992.91-1729,1,15071,byron_r_white,scotus_justice,3223.423,3229.377,"Well, if it's give any deference, in my 50-50 case we give the nod to the agency."
+1992.91-1729,1,33181,james_c_todd,,3229.377,3264.132,"If you conclude, Your Honor, if the Court concludes that this is a very, very close call and it's extremely unclear, and furthermore that this is an agency which has traditionally exercised this common law right, then the deference is greater than what I am suggesting is actually the situation where the statute has been, first where the statute has... first of all comprehensively addressed the situation of prelitigation debt collection, seeking to collect debt."
+1992.91-1729,1,15049,antonin_scalia,scotus_justice,3378.767,3379.976,"Well, the court doesn't have to agree with that."
+1992.91-1729,1,33181,james_c_todd,,3379.976,3380.567,--That's right.
+1992.91-1729,1,15049,antonin_scalia,scotus_justice,3380.567,3383.88,And the Government has to know something.
+1992.91-1729,1,33181,james_c_todd,,3392.033,3430.191,"That would be the way it would, if they have to have, if they have to charge interest I would say that, as I was saying earlier, the one thing that distinguishes the relationship of the Federal recipient agency with the Federal funding agency from other types of creditor-debtor relations is this ongoing relationship that they have and the need that they have to maintain good relations with the... the states are simply not defaulting on their debts, and this is clear from the Senate report 97-378 which both parties have cited."
+1992.91-1729,1,15060,john_paul_stevens,scotus_justice,3469.155,3472.186,"May I ask you just one background question I should know, but--"
+1992.91-1729,1,33181,james_c_todd,,3472.186,3472.537,"--Yes, Your Honor."
+1992.91-1729,1,15060,john_paul_stevens,scotus_justice,3472.537,3477.689,--Prior to West Virginia against the United States had we ever held that a state is liable to the Federal Government for interest?
+1992.91-1729,1,33181,james_c_todd,,3477.689,3478.921,Not explicitly.
+1992.91-1729,1,15060,john_paul_stevens,scotus_justice,3530.075,3532.777,And that was after the Debt Collection Act was passed.
+1992.91-1729,1,33181,james_c_todd,,3532.777,3533.248,Right.
+1992.91-1729,1,15141,william_h_rehnquist,scotus_justice,3552.59,3553.692,"Thank you, Mr. Todd."
+1992.91-1729,2,42821,thomas_g_hungar,,3556.893,3565.619,The State's burden in this case is to show that a statute expressly intended to enhance the Federal Government's debt collection efforts.
+1992.91-1729,2,15060,john_paul_stevens,scotus_justice,3572.592,3580.188,May I ask you if there was a case other than the one that your opponent mentioned before West Virginia which squarely recognized the common law rule that you rely on?
+1992.91-1729,2,42821,thomas_g_hungar,,3580.188,3582.329,"--No, Your Honor, West Virginia was the first such case."
+1992.91-1729,2,15049,antonin_scalia,scotus_justice,3589.294,3590.124,What had the practice been?
+1992.91-1729,2,42821,thomas_g_hungar,,3599.089,3602.121,"Well, the West Virginia case itself arose in the mid 1970's."
+1992.91-1729,2,15141,william_h_rehnquist,scotus_justice,3637.236,3638.419,"Thank you, Mr. Hungar."

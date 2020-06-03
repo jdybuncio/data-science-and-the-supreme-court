@@ -1,0 +1,86 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1983.82-1031,0,15073,warren_e_burger,scotus_justice,0.0,9.427,We will hear arguments next in Jefferson Parish Hospital District v. Hyde.
+1983.82-1031,0,23867,frank_h_easterbrook,,12.639,15.541,"Mr. Chief Justice, and may it please the Court:"
+1983.82-1031,0,15071,byron_r_white,scotus_justice,281.833,285.075,You do not think this arrangement resembles that?
+1983.82-1031,0,23867,frank_h_easterbrook,,285.075,288.686,We think this arrangement resembles each of these arrangements in part.
+1983.82-1031,0,15060,john_paul_stevens,scotus_justice,318.245,320.649,May I ask you about your group practice example?
+1983.82-1031,0,23867,frank_h_easterbrook,,333.366,339.071,"Justice Stevens, I would be very surprised if we would be able to see such an arrangement--"
+1983.82-1031,0,15060,john_paul_stevens,scotus_justice,339.071,339.76,I understand.
+1983.82-1031,0,23867,frank_h_easterbrook,,339.76,347.685,--because if they attempted to charge a monopoly price it would be highly advantageous for some dentist to go out and set up a practice and collect it.
+1983.82-1031,0,15060,john_paul_stevens,scotus_justice,355.771,358.283,I am assuming Washington in my example.
+1983.82-1031,0,23867,frank_h_easterbrook,,358.283,358.823,--Yes.
+1983.82-1031,0,15060,john_paul_stevens,scotus_justice,358.823,361.505,I would like you to answer my example assuming Washington.
+1983.82-1031,0,23867,frank_h_easterbrook,,361.505,364.877,"I think there is an anti-trust problem in that case, Justice Stevens."
+1983.82-1031,0,15060,john_paul_stevens,scotus_justice,364.877,367.839,You mean a monopoly of dentistry and then the... But what if they--
+1983.82-1031,0,23867,frank_h_easterbrook,,367.839,369.72,"Not unless... Let me qualify it, Justice Stevens."
+1983.82-1031,0,15060,john_paul_stevens,scotus_justice,395.646,397.857,"--Well, of course, the issue would be whether it did."
+1983.82-1031,0,23867,frank_h_easterbrook,,407.625,413.418,"I think that would be perfectly lawful, but one need not reach any such proposition in order to understand this case."
+1983.82-1031,0,15073,warren_e_burger,scotus_justice,436.762,444.81,Does our opinion in Goldfarb have any implications here directly or indirectly?
+1983.82-1031,0,23867,frank_h_easterbrook,,459.847,470.826,"What distinguished Goldfarb and Maricopa on the one hand, Your Honor, from Broadcast Music and this case on the other is that in Goldfarb that was no integration of any sort."
+1983.82-1031,0,15073,warren_e_burger,scotus_justice,478.981,481.553,They cooperated to the extent they all agreed to the same prices.
+1983.82-1031,0,23867,frank_h_easterbrook,,483.145,483.773,Exactly.
+1983.82-1031,0,15073,warren_e_burger,scotus_justice,488.178,489.778,"Well, they did more than that."
+1983.82-1031,0,23867,frank_h_easterbrook,,496.403,497.104,--Yes.
+1983.82-1031,0,15141,william_h_rehnquist,scotus_justice,594.367,600.011,"Mr. Easterbrook, what you are discussing now I take it are largely matters of fact."
+1983.82-1031,0,23867,frank_h_easterbrook,,617.521,626.657,The District Court made no findings of fact on this other than to observe that anesthesiology is ordinarily procured through a surgeon.
+1983.82-1031,0,15141,william_h_rehnquist,scotus_justice,627.428,629.439,How did the District Court know that?
+1983.82-1031,0,23867,frank_h_easterbrook,,629.439,642.857,"--There was testimony in the record from at least four witnesses, anesthesiologists and one internal medicine specialist, who testified that that is the way in which anesthesia is ordinarily procured."
+1983.82-1031,1,30448,jerrold_j_ganzfried,,1355.914,1358.795,"Mr. Chief Justice, and may it please the Court:"
+1983.82-1031,1,15060,john_paul_stevens,scotus_justice,1501.992,1504.224,May I interrupt to ask just one question?
+1983.82-1031,1,30448,jerrold_j_ganzfried,,1504.224,1504.544,Surely.
+1983.82-1031,1,15060,john_paul_stevens,scotus_justice,1504.544,1509.105,I guess you are arguing now there is no tie which is Mr. Easterbrook's first position.
+1983.82-1031,1,30448,jerrold_j_ganzfried,,1509.105,1510.096,That is the first point.
+1983.82-1031,1,15060,john_paul_stevens,scotus_justice,1510.096,1514.04,He also argues there is no market power and thirdly there is no enhancement of market power.
+1983.82-1031,1,30448,jerrold_j_ganzfried,,1516.931,1530.5,"We do although on one of his arguments on market power we take no position, that is, that the appropriate market is the national market for purchasing services of anesthesiologists."
+1983.82-1031,1,15140,william_j_brennan_jr,scotus_justice,1541.577,1544.078,Are you going to suggest how we should make this distinction?
+1983.82-1031,1,30448,jerrold_j_ganzfried,,1544.078,1547.24,--As to which are and which are not--
+1983.82-1031,1,15140,william_j_brennan_jr,scotus_justice,1547.24,1548.682,The tying which is a package deal.
+1983.82-1031,1,30448,jerrold_j_ganzfried,,1548.682,1562.741,--I believe I will and that is this: that ultimately the concern with tyings is that you have power in one separate market that you can transfer to a second market.
+1983.82-1031,1,15140,william_j_brennan_jr,scotus_justice,1565.733,1569.286,Are you suggesting this is essential before we can have a tying?
+1983.82-1031,1,30448,jerrold_j_ganzfried,,1569.286,1570.766,--That is right.
+1983.82-1031,1,15140,william_j_brennan_jr,scotus_justice,1591.288,1594.03,Why is that not true here?
+1983.82-1031,1,30448,jerrold_j_ganzfried,,1594.03,1604.238,"Well, it is not true here for several reasons, first, because we do not believe there is a second market."
+1983.82-1031,1,15071,byron_r_white,scotus_justice,1612.323,1617.896,"Well, if you are not right about that then you have a couple of much harder arguments I take it."
+1983.82-1031,1,30448,jerrold_j_ganzfried,,1617.896,1620.039,"Well, I have other arguments."
+1983.82-1031,1,15060,john_paul_stevens,scotus_justice,1795.242,1799.175,May I give you a hypothetical and ask you how your approach would treat it?
+1983.82-1031,1,30448,jerrold_j_ganzfried,,1828.365,1838.562,"Well, if I can just get one thing clarified and that is whether the ceiling on the price that the hospital can charge--"
+1983.82-1031,1,15060,john_paul_stevens,scotus_justice,1838.562,1839.641,The market.
+1983.82-1031,1,30448,jerrold_j_ganzfried,,1839.641,1840.372,--Market ceiling.
+1983.82-1031,1,15060,john_paul_stevens,scotus_justice,1840.372,1841.353,Just a market ceiling.
+1983.82-1031,1,30448,jerrold_j_ganzfried,,1849.087,1854.981,"Would that be bad, and the answer to that is possibly yes but it is something that should be analyzed under the rule of reason."
+1983.82-1031,1,15060,john_paul_stevens,scotus_justice,1861.486,1868.312,"Well, if it does not does the record in this case tell us whether or not that is what happened here?"
+1983.82-1031,1,30448,jerrold_j_ganzfried,,1868.312,1871.521,As I understand the record it does not.
+1983.82-1031,1,15060,john_paul_stevens,scotus_justice,1871.521,1872.883,"It does not really tell us, does it?"
+1983.82-1031,1,30448,jerrold_j_ganzfried,,1872.883,1873.795,No.
+1983.82-1031,1,15060,john_paul_stevens,scotus_justice,1875.164,1877.157,Does it tell us why they have this exclusive arrangement?
+1983.82-1031,1,30448,jerrold_j_ganzfried,,1877.157,1878.827,--Yes.
+1983.82-1031,1,15060,john_paul_stevens,scotus_justice,1880.848,1881.969,Because the doctors did not want it.
+1983.82-1031,1,30448,jerrold_j_ganzfried,,1881.969,1887.953,--We believe the reason is that when the hospital was opened in 1971 there was some concern that when--
+1983.82-1031,1,15060,john_paul_stevens,scotus_justice,1887.953,1892.465,As I understand the doctor testified he did not want the exclusive arrangement but nevertheless the hospital insisted on it.
+1983.82-1031,1,30448,jerrold_j_ganzfried,,1892.465,1897.901,--He said that in 1976 he did not want it to be exclusive.
+1983.82-1031,1,15060,john_paul_stevens,scotus_justice,1905.595,1909.907,If it is the hospital that wants it what are we to infer is the reason for the arrangement?
+1983.82-1031,1,30448,jerrold_j_ganzfried,,1909.907,1913.689,I do not think that you need to infer.
+1983.82-1031,1,15073,warren_e_burger,scotus_justice,1997.755,2005.029,Mr. Landis.
+1983.82-1031,2,31560,john_m_landis,,2005.029,2009.614,"Mr. Chief Justice, and may it please the Court:"
+1983.82-1031,2,15073,warren_e_burger,scotus_justice,2162.703,2177.844,"As a practical matter, is it not very likely that the attending physician of the patient has referred him to this place the way a solicitor in England refers cases to barristers?"
+1983.82-1031,2,31560,john_m_landis,,2180.215,2180.956,"Yes, sir."
+1983.82-1031,2,15073,warren_e_burger,scotus_justice,2180.956,2184.429,People just do not find a hospital the way they find a supermarket.
+1983.82-1031,2,31560,john_m_landis,,2184.429,2189.862,"In the majority of cases the anesthesiologist would be selected by the surgeon, not by the patient."
+1983.82-1031,2,15140,william_j_brennan_jr,scotus_justice,2210.364,2214.065,"Well, is it true that the patient has to take the surgeon the hospital provides?"
+1983.82-1031,2,31560,john_m_landis,,2214.065,2214.906,The--
+1983.82-1031,2,15140,william_j_brennan_jr,scotus_justice,2214.906,2218.709,The patient has to take the surgeon the hospital provides.
+1983.82-1031,2,31560,john_m_landis,,2218.709,2224.924,--Initially... That is another point which we disagree with the Petitioners.
+1983.82-1031,2,15140,william_j_brennan_jr,scotus_justice,2259.285,2271.275,"Even though that be true, as I understand it the surgeon has to take this package that the hospital provides including anesthesiologists."
+1983.82-1031,2,31560,john_m_landis,,2271.275,2273.878,--The surgeon does not purchase the hospital services.
+1983.82-1031,2,15140,william_j_brennan_jr,scotus_justice,2273.878,2279.12,"I know he does not, but he has to use those facilities, does he not, under this arrangement or not?"
+1983.82-1031,2,31560,john_m_landis,,2279.12,2284.433,The only decision the surgeon makes as to what he uses is the operating room.
+1983.82-1031,2,15140,william_j_brennan_jr,scotus_justice,2284.433,2285.435,Yes.
+1983.82-1031,2,31560,john_m_landis,,2285.435,2311.311,"Certainly the surgeon who had been using East Jefferson General Hospital under this contract probably knew that he would not have a choice of anesthesiologists, but the point is the decision to choose an anesthesiologist does not arise until the patient is already in the hospital and whether it be made by the patient or by the anesthesiologist once the patient is in the hospital for surgery--"
+1983.82-1031,2,15140,william_j_brennan_jr,scotus_justice,2311.311,2312.881,Or by the surgeon you mean.
+1983.82-1031,2,31560,john_m_landis,,2312.881,2315.104,"--Yes, excuse me, by the surgeon."
+1983.82-1031,2,15140,william_j_brennan_jr,scotus_justice,2325.03,2333.845,As I understand it even though the surgeon may not come with the package everyone else does including the anesthesiologist.
+1983.82-1031,2,31560,john_m_landis,,2334.877,2336.466,"No, not everyone."
+1983.82-1031,2,15140,william_j_brennan_jr,scotus_justice,2347.753,2351.095,But they do come with the package.
+1983.82-1031,2,31560,john_m_landis,,2351.095,2354.408,If you accept that this is package.
+1983.82-1031,2,15071,byron_r_white,scotus_justice,2354.408,2361.013,"Well, I mean if you are going to be in that hospital and you need a radiologist you are going to use the radiologist."
+1983.82-1031,2,31560,john_m_landis,,2361.013,2363.314,And you will be billed a separate charge for that service.

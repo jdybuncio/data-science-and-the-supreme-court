@@ -1,0 +1,184 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2009.08-651,0,15086,john_g_roberts_jr,scotus_justice,0.0,5.947,"We will hear argument first this morning in Case 08-651, Padilla v. Kentucky."
+2009.08-651,0,41591,stephen_b_kinnaird,,6.98,10.65,"Mr. Chief Justice, and may it please the Court:"
+2009.08-651,0,15086,john_g_roberts_jr,scotus_justice,61.379,76.89,"Well, other advice, for example advice about whether to take the stand, that can have significant collateral consequences -- you know, he might lose his job or lose government contracts based on what he says."
+2009.08-651,0,41591,stephen_b_kinnaird,,81.808,90.961,"I think, for mis-advice, the test would be whether it's a material misrepresentation that would be material to a reasonable defendant in deciding whether to plead guilty, so it--"
+2009.08-651,0,15086,john_g_roberts_jr,scotus_justice,90.961,93.101,Only plead guilty?
+2009.08-651,0,41591,stephen_b_kinnaird,,98.833,107.891,"--I think to plead guilty is the key strategic decision that is in the -- in the client's sole duty and prerogative, to make that decision."
+2009.08-651,0,15068,samuel_a_alito_jr,scotus_justice,107.891,110.407,Why would it be limited to a decision to plead guilty?
+2009.08-651,0,41591,stephen_b_kinnaird,,125.089,133.289,I'm not aware of any consequences that would depend on whether the conviction was based on a guilty plea or a trial.
+2009.08-651,0,15068,samuel_a_alito_jr,scotus_justice,133.289,146.453,"Well, what if -- what if an offer is made for a plea to an offense that would have lesser immigration consequences than the offense for which the person might be convicted if the person goes to trial?"
+2009.08-651,0,41591,stephen_b_kinnaird,,146.453,147.659,"Well, that would be subject--"
+2009.08-651,0,15068,samuel_a_alito_jr,scotus_justice,147.659,151.983,And the -- and the attorney doesn't fully apprise the client of the situation?
+2009.08-651,0,41591,stephen_b_kinnaird,,151.983,153.562,--And he goes to trial?
+2009.08-651,0,15068,samuel_a_alito_jr,scotus_justice,153.562,153.858,Right.
+2009.08-651,0,41591,stephen_b_kinnaird,,153.858,163.589,"I think that -- that would only be a Strickland claim if this Court were prepared to rule that going to trial is ever prejudiced under Strickland, and there is a circuit split on that."
+2009.08-651,0,15068,samuel_a_alito_jr,scotus_justice,166.775,172.71,But do you see a difference in principle between the two situations with respect to the issue that is before us here?
+2009.08-651,0,41591,stephen_b_kinnaird,,172.71,174.835,--I'm not sure that there would be.
+2009.08-651,0,15084,ruth_bader_ginsburg,scotus_justice,179.986,189.093,How do you decide which of the many consequences your rule would cover?
+2009.08-651,0,41591,stephen_b_kinnaird,,232.342,242.745,"Your Honor, the issue here is simply the legal standard that applies to any of -- any of these claims, and it would be the same two-part standard under Strickland v. Washington."
+2009.08-651,0,15049,antonin_scalia,scotus_justice,274.917,276.761,"Well, we can't leave that for another day."
+2009.08-651,0,41591,stephen_b_kinnaird,,326.804,332.02,"Your Honor, I think that is precisely why we have the contextual inquiry of Strickland."
+2009.08-651,0,15049,antonin_scalia,scotus_justice,339.968,340.471,Sure.
+2009.08-651,0,41591,stephen_b_kinnaird,,340.471,346.468,But that -- most of these failure to advise claims will be very difficult to plead and to prove--
+2009.08-651,0,15113,anthony_m_kennedy,scotus_justice,346.468,362.789,"If we were in, if we were in the contract, civil contract situation, and there was a mistake, the usual rule, Restatement of Contracts, is that the -- the question is whether or not it's reasonable to have the party who made the mistake bear the risk."
+2009.08-651,0,41591,stephen_b_kinnaird,,392.963,401.301,"--No, Your Honor, because the Sixth Amendment is a source of independent rights and the question is: What is the -- the lawyer's duty as distinct from the court."
+2009.08-651,0,15113,anthony_m_kennedy,scotus_justice,408.394,416.481,"Well, then there is no way the government or the court can protect itself against the -- these consequences, and there are any number of them."
+2009.08-651,0,41591,stephen_b_kinnaird,,452.985,456.014,"--That may be true for a due process claim, Your Honor."
+2009.08-651,0,15084,ruth_bader_ginsburg,scotus_justice,466.492,490.408,"But even -- even if we accept that, wouldn't a competent counsel, after telling him the deportation consequences, then say, but this is a case where the evidence is so strong against you, I advise you to take the plea rather than go to trial."
+2009.08-651,0,41591,stephen_b_kinnaird,,505.432,511.398,"--Yes, it certainly matters, because that goes to the question of prejudice at an evidentiary hearing."
+2009.08-651,0,15068,samuel_a_alito_jr,scotus_justice,536.777,547.726,"Your argument has -- has an appeal because removal is such a harsh consequence, particularly for someone like your client who had been in the United States for a long time."
+2009.08-651,0,41591,stephen_b_kinnaird,,582.4,588.024,"Well, I think that, Your Honor, that is no different than any Strickland claim that would be brought in the same time frame."
+2009.08-651,0,15068,samuel_a_alito_jr,scotus_justice,605.97,621.602,"Isn't it different in that the ordinary Strickland claim concerns things that happen at trial and relate to strategy in a criminal case, as to which the public defender or other defense attorney presumably has expertise?"
+2009.08-651,0,41591,stephen_b_kinnaird,,647.968,653.279,"Your Honor, I think witness recognition arises in any number of Strickland claims."
+2009.08-651,0,15086,john_g_roberts_jr,scotus_justice,666.131,677.612,"Counsel, I suppose -- before a guilty plea is accepted the district court judge is obligated to go through a colloquy to make sure the defendant knows the consequences of accepting the plea."
+2009.08-651,0,41591,stephen_b_kinnaird,,689.342,691.841,"No, Your Honor, it would not."
+2009.08-651,0,15049,antonin_scalia,scotus_justice,698.025,701.882,"But that's -- that's -- with due respect, that's ridiculous."
+2009.08-651,0,41591,stephen_b_kinnaird,,733.523,736.584,"I don't think that's true, Your Honor."
+2009.08-651,0,15113,anthony_m_kennedy,scotus_justice,745.175,754.203,"Well, do you think it would be wrong for a district court to say, I want to be very careful and I'm going to add -- let's take Rule 11 as the standard."
+2009.08-651,0,41591,stephen_b_kinnaird,,770.541,771.305,It would not.
+2009.08-651,0,15113,anthony_m_kennedy,scotus_justice,775.1,789.532,"The judge would not be exceeding his -- his commission, his authority, to determine just whether this is knowing and voluntary in the sense of knowing -- knowing the criminal consequences in the criminal system itself?"
+2009.08-651,0,41591,stephen_b_kinnaird,,789.532,790.266,"No, Your Honor."
+2009.08-651,0,15113,anthony_m_kennedy,scotus_justice,795.386,798.778,But it seems to me a careful district judge would have to do this if you prevail.
+2009.08-651,0,41591,stephen_b_kinnaird,,798.778,820.486,"It would be a beneficial practice, but if the attorneys live up to their obligations to properly apprise the clients, then that is unnecessary, because the Brady voluntariness standard is predicated on an assumption that the defendant has been competently advised by his counsel."
+2009.08-651,0,15084,ruth_bader_ginsburg,scotus_justice,820.486,831.074,You were about to say that in many States the trial judge does inform a defendant who is an alien of immigration consequences.
+2009.08-651,0,41591,stephen_b_kinnaird,,831.074,835.698,It's a much more limited advisement.
+2009.08-651,0,15086,john_g_roberts_jr,scotus_justice,864.828,874.26,"No, but that's -- I don't see why that doesn't apply to the more fundamental question about whether the district court has to inquire into the plea circumstances in any event."
+2009.08-651,0,41591,stephen_b_kinnaird,,903.87,907.243,"--Your Honor, I am not departing from the focus on the guilty plea."
+2009.08-651,0,15086,john_g_roberts_jr,scotus_justice,919.786,929.047,"Well, but what you are saying is he has got to tell him all the stuff that is necessary to make the decision to accept the plea knowing and intelligent, voluntary."
+2009.08-651,0,41591,stephen_b_kinnaird,,938.182,940.011,"No, Your Honor."
+2009.08-651,0,15049,antonin_scalia,scotus_justice,974.39,987.289,"I would think that the duty of the criminal lawyer is to make sure that the defendant's guilty plea is informed, it is an informed guilty plea."
+2009.08-651,0,41591,stephen_b_kinnaird,,1014.747,1022.382,"--Your Honor, I believe that counsel's responsibility is to ensure that he makes an informed strategic decision whether to plead guilty."
+2009.08-651,0,15049,antonin_scalia,scotus_justice,1025.054,1026.115,Well--
+2009.08-651,0,15060,john_paul_stevens,scotus_justice,1026.115,1038.327,"May I ask this question: What do you think -- if there is deficient advice by counsel under Strickland, what do you think you have to prove in order to get relief under Strickland?"
+2009.08-651,0,41591,stephen_b_kinnaird,,1043.276,1053.618,"First of all, what you would have to prove on the competency prong is that the misadvice was about an issue that was material to the strategic decision to plead guilty."
+2009.08-651,0,15060,john_paul_stevens,scotus_justice,1053.618,1053.883,Right.
+2009.08-651,0,41591,stephen_b_kinnaird,,1053.883,1062.347,"At the prejudice prong, you would you have to prove that this defendant -- and this is at the evidentiary hearing -- would have gone to trial."
+2009.08-651,0,15084,ruth_bader_ginsburg,scotus_justice,1072.124,1075.372,And that would be what in this case?
+2009.08-651,0,41591,stephen_b_kinnaird,,1075.372,1077.451,In this case it would be knowledge.
+2009.08-651,0,15086,john_g_roberts_jr,scotus_justice,1095.428,1098.239,"Oh, and also drug paraphernalia in the cab."
+2009.08-651,0,41591,stephen_b_kinnaird,,1100.8,1102.501,"There was, yes, Your Honor."
+2009.08-651,0,15049,antonin_scalia,scotus_justice,1103.14,1109.216,--I thought he was asked what was in the -- what was in the containers and he said marijuana.
+2009.08-651,0,41591,stephen_b_kinnaird,,1109.216,1110.312,"--No, Your Honor."
+2009.08-651,0,15086,john_g_roberts_jr,scotus_justice,1136.349,1139.094,But your point is an important one.
+2009.08-651,0,41591,stephen_b_kinnaird,,1140.829,1141.282,Exactly.
+2009.08-651,0,15086,john_g_roberts_jr,scotus_justice,1141.282,1143.138,But you don't have the prosecution case either.
+2009.08-651,0,41591,stephen_b_kinnaird,,1162.769,1174.249,"Well, Your Honor, I think in these kinds of claims prejudice is generally going to require an evidentiary hearing and that is why the Kentucky Court of Appeals sent this back for an evidentiary hearing."
+2009.08-651,0,15086,john_g_roberts_jr,scotus_justice,1174.249,1192.505,"It's -- it's going to require, I guess, kind of a mini-trial to decide if the person would have taken the plea, you've got to know what the case -- his case looked like, what the prosecutor's case looked like, to see if it's something he would have made -- that would have made sense for him to go to trial or not."
+2009.08-651,0,41591,stephen_b_kinnaird,,1192.505,1197.364,"I don't think it would necessarily require a mini-trial, but that would be in the trial court's discretion."
+2009.08-651,0,15086,john_g_roberts_jr,scotus_justice,1226.711,1227.757,"Thank you, counsel."
+2009.08-651,1,35719,michael_r_dreeben,,1234.472,1238.282,"Thank you, Mr. Chief Justice, and may it please the Court:"
+2009.08-651,1,15086,john_g_roberts_jr,scotus_justice,1265.223,1272.145,"Mr. Dreeben, we learn in the first year of law school that the line between an affirmative act and failure to act is a difficult one to draw."
+2009.08-651,1,35719,michael_r_dreeben,,1285.934,1288.543,"Well, I think it's certainly not an affirmative misrepresentation."
+2009.08-651,1,15113,anthony_m_kennedy,scotus_justice,1309.001,1317.435,"Well, then you are saying that the more the defense counsel strays from his only professional responsibility, the more at risk the government is."
+2009.08-651,1,35719,michael_r_dreeben,,1318.449,1324.774,"What we think, Justice Kennedy, is that the defense lawyer has two relevant duties here."
+2009.08-651,1,15086,john_g_roberts_jr,scotus_justice,1350.401,1357.682,"I think when we -- when we decide there's no right to counsel, like on collateral review, we don't even look at what happened, right?"
+2009.08-651,1,35719,michael_r_dreeben,,1365.271,1365.942,That's right.
+2009.08-651,1,15086,john_g_roberts_jr,scotus_justice,1365.942,1366.476,Isn't that right?
+2009.08-651,1,35719,michael_r_dreeben,,1381.563,1383.108,Certainly not by virtue--
+2009.08-651,1,15086,john_g_roberts_jr,scotus_justice,1383.108,1383.843,Okay.
+2009.08-651,1,35719,michael_r_dreeben,,1383.843,1385.185,"--of the Sixth Amendment, Mr. Chief Justice."
+2009.08-651,1,15086,john_g_roberts_jr,scotus_justice,1385.746,1391.104,"Well, then, if there is no right to counsel, why do we get into whether there is an affirmative misrepresentation or not?"
+2009.08-651,1,35719,michael_r_dreeben,,1399.539,1412.75,"--I think it's because the lawyer has an additional duty in the context of advising his client whether to take a guilty plea, and that is the duty to respect that the decision whether to plead guilty belongs to the defendant personally."
+2009.08-651,1,15049,antonin_scalia,scotus_justice,1479.456,1493.061,"What -- what about mis-advice as to whether he will lose custody of his children, or mis-advice as to whether his truck which he owns will be confiscated by the government?"
+2009.08-651,1,35719,michael_r_dreeben,,1493.061,1509.447,"I would put them, Justice Scalia, all in the same general basket, which is to say, mis-advice on a legal matter of importance to the defendant that could skew his decision to plead guilty may be deficient representation under Strickland."
+2009.08-651,1,15086,john_g_roberts_jr,scotus_justice,1510.227,1512.352,"Not the defendant, but a defendant?"
+2009.08-651,1,35719,michael_r_dreeben,,1517.051,1520.159,"--Well, objective in the sense that--"
+2009.08-651,1,15086,john_g_roberts_jr,scotus_justice,1520.159,1527.36,"We assume, for example, that someone who is going to lose the custody of their children would regard that as important."
+2009.08-651,1,35719,michael_r_dreeben,,1533.95,1546.647,"--I actually think that would be quite relevant, because if any mis-advice did not cause the defendant to plead guilty because it was irrelevant to him, then the defendant should not be able to get in the door with an ineffective assistance claim."
+2009.08-651,1,15086,john_g_roberts_jr,scotus_justice,1560.284,1565.253,Won't -- won't your test result in a net loss to defendants?
+2009.08-651,1,35719,michael_r_dreeben,,1593.427,1606.283,"--No, I don't think that it will lead to sort of defensive malpractice type of counseling where lawyers do not do the job that they feel that they should do, and experience tends to support that."
+2009.08-651,1,15139,stephen_g_breyer,scotus_justice,1620.929,1622.181,Why -- why do you have a rule?
+2009.08-651,1,35719,michael_r_dreeben,,1699.914,1702.382,"Justice Breyer, we have not abandoned Strickland's approach."
+2009.08-651,1,15139,stephen_g_breyer,scotus_justice,1715.66,1715.692,"No, no."
+2009.08-651,1,35719,michael_r_dreeben,,1782.1,1783.991,"--I think, Justice Breyer--"
+2009.08-651,1,15139,stephen_g_breyer,scotus_justice,1783.991,1787.832,"--which is ""case by case"", underlined, italics, repeated in the cases?"
+2009.08-651,1,35719,michael_r_dreeben,,1787.832,1800.623,"--Justice Breyer, I think that the fundamental point is that this is the first time that the Court has been asked to adopt a rule under Strickland that would require a lawyer pursuant to Sixth Amendment norms to give advice that pertains--"
+2009.08-651,1,15139,stephen_g_breyer,scotus_justice,1800.623,1802.139,"No, no, they are not asking us to have a rule."
+2009.08-651,1,35719,michael_r_dreeben,,1818.973,1838.155,"--Well, Justice Breyer, the -- the lower courts that have looked at this I think have correctly recognized that there is a distinction between saying that Strickland is a case-by-case inquiry into lawyer competence and saying that Strickland requires the lawyer to provide advice about collateral consequences that are not the criminal--"
+2009.08-651,1,15068,samuel_a_alito_jr,scotus_justice,1838.155,1845.167,But what are you going to do in a situation where the defendant is concerned about removal -- the removal consequences?
+2009.08-651,1,35719,michael_r_dreeben,,1892.039,1900.847,"--Well, Justice Alito, I don't think that he has a right under the Sixth Amendment to a lawyer who will counsel him about the potential immigration consequences of a guilty plea."
+2009.08-651,1,15049,antonin_scalia,scotus_justice,1903.924,1905.566,What are the consequences to the lawyer?
+2009.08-651,1,35719,michael_r_dreeben,,1921.403,1925.806,"I don't know that anything happens to the lawyer, Justice Scalia."
+2009.08-651,1,15049,antonin_scalia,scotus_justice,1925.806,1929.618,"So, what incentive is there to withhold uncertain advice?"
+2009.08-651,1,35719,michael_r_dreeben,,1930.928,1931.833,"Well, I think that--"
+2009.08-651,1,15049,antonin_scalia,scotus_justice,1931.833,1934.27,"I mean, the worst that can happen is your client will get off."
+2009.08-651,1,35719,michael_r_dreeben,,1934.27,1934.769,--There is the--
+2009.08-651,1,15049,antonin_scalia,scotus_justice,1934.769,1938.47,He will make a guilty plea and afterwards it will be set aside.
+2009.08-651,1,35719,michael_r_dreeben,,1938.47,1944.28,--There is a professional incentive to provide advice where you are competent to provide advice and not to provide it where you are not competent.
+2009.08-651,1,15113,anthony_m_kennedy,scotus_justice,1966.522,1981.216,"Well, why shouldn't we just adopt an amendment to Rule 11 in which the judge says, any collateral consequences with respect to your plea are not the concern of this court and will not be grounds for setting aside this -- this -- this plea?"
+2009.08-651,1,35719,michael_r_dreeben,,1981.216,1986.415,"--Well, the former part is certainly something that the Court could in its rulemaking capacity do."
+2009.08-651,1,15086,john_g_roberts_jr,scotus_justice,2046.389,2046.795,How do we know that?
+2009.08-651,1,15068,samuel_a_alito_jr,scotus_justice,2046.795,2062.678,"What about the situation where the attorney says nothing about -- I mean, removal is -- is out there as -- as a real possibility, but it just doesn't occur to the -- the defendant and the attorney doesn't even mention, you know, you might -- you might want to think about the removal consequences of this?"
+2009.08-651,1,35719,michael_r_dreeben,,2062.678,2066.145,--Then the client does not get relief for two reasons.
+2009.08-651,1,15084,ruth_bader_ginsburg,scotus_justice,2112.392,2114.81,How do you -- how do you know that?
+2009.08-651,1,35719,michael_r_dreeben,,2126.181,2136.506,"Well, I think courts will evaluate that kind of a claim just the way they evaluate any other Strickland claim and decide whether there was any reasonable probability that such a defense could have prevailed."
+2009.08-651,1,15049,antonin_scalia,scotus_justice,2136.506,2143.767,"After -- after a mini-trial, which deprives the government of -- of its whole benefit from the guilty plea."
+2009.08-651,1,35719,michael_r_dreeben,,2156.012,2168.46,"This is the typical regime that the Court has dictated under Strickland, and it has not proved unmanageable in the courts that have adopted the limited mis-advice rule that the government supports."
+2009.08-651,1,15086,john_g_roberts_jr,scotus_justice,2168.46,2169.926,"Thank you, Mr. Dreeben."
+2009.08-651,2,45285,wm_robert_long_jr,,2176.267,2179.422,"Mr. Chief Justice, may it please the Court:"
+2009.08-651,2,15131,sonia_sotomayor,scotus_justice,2213.783,2218.513,"Counsel, a plea is something more than: I'm guilty."
+2009.08-651,2,45285,wm_robert_long_jr,,2248.58,2258.952,"Well, I think under this Court's precedent the informed right is to know what those rights are, what is the weight of the evidence against you, and to make those strategic decisions."
+2009.08-651,2,15131,sonia_sotomayor,scotus_justice,2259.467,2260.309,But how do you do that?
+2009.08-651,2,45285,wm_robert_long_jr,,2311.912,2314.256,"--Well, we are not particularly ignoring it."
+2009.08-651,2,15131,sonia_sotomayor,scotus_justice,2334.092,2352.927,"Well, then that goes to the Solicitor General's position, which is: You may be right, an attorney doesn't have to give more information than what's necessary, but doesn't the calculus change when the defendant says, this is important to me; give me accurate advice, if you are going to give me advice?"
+2009.08-651,2,45285,wm_robert_long_jr,,2352.927,2365.296,"Well, the calculus may change ever so slightly, but I think the difference is, is that mis-advice is still -- is not materially different than the failure to advise."
+2009.08-651,2,15139,stephen_g_breyer,scotus_justice,2408.904,2410.37,Suppose a -- a client comes in.
+2009.08-651,2,45285,wm_robert_long_jr,,2440.826,2448.558,"Your Honor, my -- my personal -- personal obligation at that point would be to try to answer the question."
+2009.08-651,2,15139,stephen_g_breyer,scotus_justice,2448.948,2449.775,What would you do?
+2009.08-651,2,45285,wm_robert_long_jr,,2463.111,2464.988,"--If I possessed that knowledge, yes, Your Honor."
+2009.08-651,2,15139,stephen_g_breyer,scotus_justice,2464.988,2465.799,Of course you would.
+2009.08-651,2,45285,wm_robert_long_jr,,2469.375,2470.982,"No, Your Honor."
+2009.08-651,2,15139,stephen_g_breyer,scotus_justice,2471.184,2471.746,No.
+2009.08-651,2,45285,wm_robert_long_jr,,2483.694,2496.657,"--Well, Your Honor, the -- first of all, the prevailing professional norm or ethical obligations that have been enacted in Kentucky and in most States provide very general obligations and they do not actually speak to this kind of situation."
+2009.08-651,2,15139,stephen_g_breyer,scotus_justice,2496.657,2508.541,"I'm not saying whether -- you just told me that any lawyer worth his salt in my example of course would tell the client, and -- in my case."
+2009.08-651,2,45285,wm_robert_long_jr,,2524.644,2527.034,"Well, I don't know that it's necessarily a prevailing norm."
+2009.08-651,2,15139,stephen_g_breyer,scotus_justice,2528.142,2530.266,"You just told me everyone would do it, everybody'd do it."
+2009.08-651,2,45285,wm_robert_long_jr,,2532.844,2537.544,"--Pardon me, but it's a question of morals here to decide whether or not to offer that advice."
+2009.08-651,2,15049,antonin_scalia,scotus_justice,2538.043,2549.85,"Well, but assuming it's a norm and that all lawyers do it, including those that know diddly about immigration law, the norm is to give bad advice."
+2009.08-651,2,45285,wm_robert_long_jr,,2556.88,2557.863,"--Yes, Your Honor."
+2009.08-651,2,15139,stephen_g_breyer,scotus_justice,2572.967,2581.838,"Before we get to the misadvice, to put every -- dot every i, every lawyer would do it in my case; that's a professional norm."
+2009.08-651,2,45285,wm_robert_long_jr,,2601.377,2603.752,"--Well, Your Honor, I would have to disagree a little bit."
+2009.08-651,2,15049,antonin_scalia,scotus_justice,2616.293,2642.653,"I thought the point is that -- I thought your point was that -- that Strickland does require professional norms to be observed, but it is professional norms regarding advising a defendant as to the trial consequences of his plea as to those matters that are involved in the prosecution, and not as to collateral matters."
+2009.08-651,2,45285,wm_robert_long_jr,,2643.406,2644.436,"--Yes, Your Honor."
+2009.08-651,2,15049,antonin_scalia,scotus_justice,2644.436,2655.932,"Those are the only norms that are relevant, what norms oblige counsel to advise a defendant regarding trial matters."
+2009.08-651,2,45285,wm_robert_long_jr,,2655.932,2656.899,Correct.
+2009.08-651,2,15113,anthony_m_kennedy,scotus_justice,2665.38,2670.567,"Well, everyone at the counsel table I assume agrees that the plea has to be voluntary."
+2009.08-651,2,45285,wm_robert_long_jr,,2684.121,2691.105,Our point would be not be fully informed about every possible consequence which would be in -- in--
+2009.08-651,2,15113,anthony_m_kennedy,scotus_justice,2691.105,2695.102,"Well then, about important collateral consequences."
+2009.08-651,2,45285,wm_robert_long_jr,,2716.94,2722.278,"--Well, Your Honor, that's kind of the problem, I believe."
+2009.08-651,2,15084,ruth_bader_ginsburg,scotus_justice,2760.669,2767.228,"Mr. Long, you said that this is a collateral consequence."
+2009.08-651,2,45285,wm_robert_long_jr,,2819.377,2821.689,"You're -- you are correct, Your Honor."
+2009.08-651,2,15068,samuel_a_alito_jr,scotus_justice,2844.618,2861.767,"What about the situation where the -- the defendant would have made sacrifices and obtained competent immigration advice, were it not for affirmative misrepresentations by criminal defense -- by criminal defense attorneys?"
+2009.08-651,2,45285,wm_robert_long_jr,,2896.876,2907.388,"Well, following the logic of the circuits and of this Court's guidance in Brady, again, the inquiry for voluntariness is on direct consequences, so it would not rise to the Sixth Amendment claim."
+2009.08-651,2,15060,john_paul_stevens,scotus_justice,2969.967,2990.708,"May I ask you this question: Supposing this wasn't a drug crime -- a sexual abuse of a minor, which would lead to all sorts of restrictions on where the defendant could live and report and reside and the like, would that be a collateral consequence or a direct consequence the advice on that?"
+2009.08-651,2,45285,wm_robert_long_jr,,2990.708,3008.432,"I believe, Your Honor, that would be a fine line, that it would technically be a collateral consequence under the classic definition of collateral consequence, that being whether or not it falls under the control or discretion of the sentencing Court."
+2009.08-651,2,15060,john_paul_stevens,scotus_justice,3008.432,3016.804,"Even though the consequence is something required by the law of the jurisdiction imposing the criminal penalty, it would still be collateral?"
+2009.08-651,2,45285,wm_robert_long_jr,,3016.804,3024.241,The popular definition -- or the most common definition focuses on whether it falls under the discretion or power of the sentencing court.
+2009.08-651,2,15086,john_g_roberts_jr,scotus_justice,3089.523,3095.664,I thought you told Justice Breyer that any good lawyer would give this advice to a client?
+2009.08-651,2,45285,wm_robert_long_jr,,3095.664,3116.781,"--I said -- in response to Justice Breyer, in the extreme circumstances, again, it would be my opinion -- not necessarily the opinion of this Court or necessarily would fall under the Sixth Amendment, but that, if you absolutely knew and that a -- a severe collateral consequence is of great importance, you should explore it."
+2009.08-651,2,15084,ruth_bader_ginsburg,scotus_justice,3153.561,3178.411,"We are talking at a highly general level, but what's facing us -- this case, is there are certain crimes -- an increased number of crimes that are classified as aggravated felonies, where the rule is, if you are convicted of an aggravated felony, you are out of the country after you serve your time."
+2009.08-651,2,45285,wm_robert_long_jr,,3201.338,3212.412,"Well, I think, in this case, we are focusing on the obligation created by the Sixth Amendment, and the Sixth Amendment obligation refers to the criminal proceeding and the criminal prosecution and then to aid in the defense."
+2009.08-651,2,15084,ruth_bader_ginsburg,scotus_justice,3235.649,3244.239,"You keep insisting on the collateral, although you recognized it in Hill v. Lockhart, the Court did not draw that line."
+2009.08-651,2,45285,wm_robert_long_jr,,3244.239,3249.878,"Well, ultimately, in this Court, it did not -- it didn't draw any line."
+2009.08-651,2,15084,ruth_bader_ginsburg,scotus_justice,3374.964,3383.834,"Well, the defendant might say, I have been in the United States for 40 years."
+2009.08-651,2,45285,wm_robert_long_jr,,3400.141,3409.653,"Well, Your Honor, again, that is a risk that is taken when asking questions of your counsel."
+2009.08-651,2,15086,john_g_roberts_jr,scotus_justice,3413.775,3414.871,"Thank you, counsel."
+2009.08-651,3,41591,stephen_b_kinnaird,,3418.899,3421.726,"Thank you, Your Honor."
+2009.08-651,3,15049,antonin_scalia,scotus_justice,3441.765,3447.369,But I'm not sure the parole eligibility could qualify as a collateral consequence.
+2009.08-651,3,41591,stephen_b_kinnaird,,3447.369,3456.896,"--It certainly would under the Kentucky test, Your Honor, because it depends on such factors as the actual sentence, the prior convictions of the defendant."
+2009.08-651,3,15049,antonin_scalia,scotus_justice,3460.113,3461.252,It goes to the sentence.
+2009.08-651,3,41591,stephen_b_kinnaird,,3464.702,3472.307,"--Well, under Rule 11, at least prior to the abolition of parole, there was no advisement in the district courts -- the federal district courts on that."
+2009.08-651,3,15049,antonin_scalia,scotus_justice,3507.043,3509.043,Why do you say that?
+2009.08-651,3,41591,stephen_b_kinnaird,,3513.197,3520.193,"--Well, Your Honor, I mean, there is -- I think that there are something like 700 claims over a decade or something like that."
+2009.08-651,3,15086,john_g_roberts_jr,scotus_justice,3535.939,3545.371,"What -- what is your answer to the situation that I think has been hypothesized of the lawyer -- the defendant asks him, what are the deportation consequences?"
+2009.08-651,3,41591,stephen_b_kinnaird,,3553.526,3558.958,"Your Honor, I think those would be adjudicated under Strickland, and, remember, Strickland--"
+2009.08-651,3,15086,john_g_roberts_jr,scotus_justice,3558.958,3563.52,So you can make a claim when the lawyer disavows the knowledge on the question?
+2009.08-651,3,41591,stephen_b_kinnaird,,3566.644,3567.268,--Yes.
+2009.08-651,3,15086,john_g_roberts_jr,scotus_justice,3579.169,3579.996,"""To investigate""?"
+2009.08-651,3,41591,stephen_b_kinnaird,,3584.464,3587.447,--He has to do whatever is required by competent representation.
+2009.08-651,3,15068,samuel_a_alito_jr,scotus_justice,3587.447,3588.055,"Well, just to be--"
+2009.08-651,3,41591,stephen_b_kinnaird,,3588.055,3589.245,That's the limited standard.
+2009.08-651,3,15068,samuel_a_alito_jr,scotus_justice,3589.245,3592.883,--Just to be clear about the scope of your argument -- maybe you could just clarify.
+2009.08-651,3,41591,stephen_b_kinnaird,,3620.199,3624.45,"Your Honor, our principal position is that the Court should not draw lines."
+2009.08-651,3,15086,john_g_roberts_jr,scotus_justice,3645.253,3646.813,"Thank you, counsel."

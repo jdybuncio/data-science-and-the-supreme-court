@@ -1,0 +1,17 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2000.99-1038,0,15141,william_h_rehnquist,scotus_justice,0.0,9.857,"We'll hear argument next in Number 99-1038, The Eastern Associated Coal Corporation v. United Mine Workers of America."
+2000.99-1038,0,15086,john_g_roberts_jr,scotus_justice,28.615,31.721,"Thank you, Mr. Chief Justice, and may it please the Court--"
+2000.99-1038,0,15092,sandra_day_oconnor,scotus_justice,76.249,85.097,"Mr. Roberts, did the company have any provision in the collective bargaining agreement about what it was going to do for positive drug testing?"
+2000.99-1038,0,15086,john_g_roberts_jr,scotus_justice,85.097,85.911,Yes.
+2000.99-1038,0,15092,sandra_day_oconnor,scotus_justice,113.503,118.777,How do you read Department of Transportation regulations on this?
+2000.99-1038,0,15086,john_g_roberts_jr,scotus_justice,134.905,137.711,"Yes, there was a proposal, and it was just not adopted."
+2000.99-1038,1,36722,malcolm_l_stewart,,2794.536,2806.124,"Mr. Chief Justice, and may it please the Court:"
+2000.99-1038,1,15141,william_h_rehnquist,scotus_justice,2853.098,2856.696,"Mr. Stewart, what's the Government's position on question 2 that's presented?"
+2000.99-1038,1,36722,malcolm_l_stewart,,2856.696,2880.388,"We would say that there are limited circumstances under which an arbitral award can be vacated even though the award would not compel the employer to violate positive law, and to give you a hypothetical example, the Department of Transportation has a regulation that says that a driver who is convicted of driving under the influence is disqualified from operating a commercial motor vehicle for a period of 1 year."
+2000.99-1038,1,15049,antonin_scalia,scotus_justice,2954.366,2977.433,"Well, they can't compel that conclusion, but wouldn't you say it's part of the public policy, a clear part of the public policy, that a... that where there is a substantial possibility that a person who has been a drug user will be under the influence of drugs while driving, that person should not be put behind the wheel?"
+2000.99-1038,1,36722,malcolm_l_stewart,,2977.433,2978.353,I think that's correct--
+2000.99-1038,1,15049,antonin_scalia,scotus_justice,2978.353,2979.013,All right.
+2000.99-1038,1,36722,malcolm_l_stewart,,2979.013,2981.271,--and I think the DOT reg... but I think the DOT regulations--
+2000.99-1038,1,15049,antonin_scalia,scotus_justice,2981.271,2995.613,"So you would acknowledge that if the arbitrator's finding in this case could be characterized as ignoring that substantial possibility, it could be set aside?"
+2000.99-1038,1,36722,malcolm_l_stewart,,2995.613,3003.614,"--We wouldn't say that, because in our view the DOT regulations provide an alternative basis for preventing that, that feared result from occurring."
+2000.99-1038,1,15049,antonin_scalia,scotus_justice,3037.628,3043.017,Who are these substance abuse professionals who have the unfortunate acronym SAP's?

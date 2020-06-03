@@ -1,0 +1,181 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1986.85-1206,0,15141,william_h_rehnquist,scotus_justice,0.0,53.218,"Mr. Jones, you may proceed whenever you are ready."
+1986.85-1206,0,31118,jerry_s_jones,,53.218,57.253,"Mr. Chief Justice, and may it please the Court:"
+1986.85-1206,0,15045,harry_a_blackmun,scotus_justice,153.048,158.868,"Mr. Jones, let me straighten myself out on some factual matters."
+1986.85-1206,0,31118,jerry_s_jones,,168.74,170.676,"That's correct, Justice White."
+1986.85-1206,0,15045,harry_a_blackmun,scotus_justice,170.676,174.544,So the children came along also after the disability?
+1986.85-1206,0,31118,jerry_s_jones,,174.544,175.761,"Yes, Your Honor."
+1986.85-1206,0,15045,harry_a_blackmun,scotus_justice,175.761,185.685,Did the Tennessee courts order... do any more than to require that he pay $800 a month?
+1986.85-1206,0,31118,jerry_s_jones,,185.685,188.97,Two hundred dollars per month?
+1986.85-1206,0,15045,harry_a_blackmun,scotus_justice,188.97,190.537,"Eight hundred dollars, whatever the figure was."
+1986.85-1206,0,31118,jerry_s_jones,,190.537,193.005,"It was $800 per month, Your Honor."
+1986.85-1206,0,15045,harry_a_blackmun,scotus_justice,193.005,195.021,Did it do any more than that?
+1986.85-1206,0,31118,jerry_s_jones,,202.694,203.461,"No, Your Honor."
+1986.85-1206,0,15045,harry_a_blackmun,scotus_justice,211.467,218.203,But the order itself merely placed on him an obligation to pay $800 a month.
+1986.85-1206,0,31118,jerry_s_jones,,222.588,223.774,There would be no question.
+1986.85-1206,0,15045,harry_a_blackmun,scotus_justice,226.007,236.932,"And the order did not tell him... or did it, that is what I am asking... to use $800 of your disability payment to satisfy the support obligation?"
+1986.85-1206,0,31118,jerry_s_jones,,236.932,239.967,The court did not state that.
+1986.85-1206,0,15045,harry_a_blackmun,scotus_justice,259.529,263.749,"Well, suppose he had inherited some money in the meantime?"
+1986.85-1206,0,31118,jerry_s_jones,,263.749,272.255,"If it had been a substantial amount so that he could have made his child support payments, we would not be here."
+1986.85-1206,0,15060,john_paul_stevens,scotus_justice,272.255,277.492,Do you contend... let me just be sure I understand.
+1986.85-1206,0,31118,jerry_s_jones,,283.896,284.179,I am sorry.
+1986.85-1206,0,15060,john_paul_stevens,scotus_justice,285.529,299.571,"Well, supposing instead of $800 a month, he had a Cadillac or something he bought with veterans payments and the order had said, don't pay $800 a month, sell the Cadillac and give the proceeds of sale to your dependents."
+1986.85-1206,0,31118,jerry_s_jones,,301.005,303.89,"Yes, it would violate the intent."
+1986.85-1206,0,15092,sandra_day_oconnor,scotus_justice,351.021,362.729,"Mr. Jones, the record shows, I take it, that Mr. Rose had $7,000 accumulated?"
+1986.85-1206,0,31118,jerry_s_jones,,362.729,367.383,"The record does not show that, Justice O'Connor."
+1986.85-1206,0,15092,sandra_day_oconnor,scotus_justice,377.489,378.107,I see.
+1986.85-1206,0,31118,jerry_s_jones,,378.107,397.319,But the proof would show that that money came from the Veterans Administration from a grant that was given to Mr. Rose to help defray the cost of a house that was designed to meet his special needs.
+1986.85-1206,0,15092,sandra_day_oconnor,scotus_justice,397.319,402.056,But that the money was not itself part of the disability payments?
+1986.85-1206,0,31118,jerry_s_jones,,402.056,405.675,"It comes under the... no, no, that's correct, Your Honor."
+1986.85-1206,0,15092,sandra_day_oconnor,scotus_justice,418.483,428.706,"And is that money subject to the same legal restrictions that the disability payments, monthly disability payments are under?"
+1986.85-1206,0,31118,jerry_s_jones,,428.706,442.431,"--Justice O'Connor, it is my understanding that any money which comes from the Veterans Administration is subject to the anti-attachment provisions in 3101."
+1986.85-1206,0,15092,sandra_day_oconnor,scotus_justice,442.431,457.643,"And whatever money was available to him over and above the monthly payments, you assert, came through the Veterans Administration and is subject to whatever the legal requirements are?"
+1986.85-1206,0,31118,jerry_s_jones,,457.643,462.095,"That is correct, Your Honor, and I might clear one point on that."
+1986.85-1206,0,15045,harry_a_blackmun,scotus_justice,689.441,696.88,"That has to be your position, isn't it, that it equates with an attachment, or if you will, a garnishment?"
+1986.85-1206,0,31118,jerry_s_jones,,696.88,697.813,"--Yes, Your Honor."
+1986.85-1206,0,15092,sandra_day_oconnor,scotus_justice,723.864,754.586,"Mr. Jones, if this were a similar provision in a spendthrift trust in the private sector rather than in a statute, I suppose there is considerable authority that the State's position is correct, that support payments can be ordered and can be enforced by contempt proceedings and are not subject to the spendthrift trust provisions."
+1986.85-1206,0,31118,jerry_s_jones,,755.352,756.969,"I cannot answer that, Your Honor."
+1986.85-1206,0,15049,antonin_scalia,scotus_justice,811.838,824.83,"Mr. Jones, your basic argument is that Congress wanted this money to be for the exclusive use of the veteran and not to be allocable to his dependents?"
+1986.85-1206,0,31118,jerry_s_jones,,824.83,826.598,"No, Justice Scalia."
+1986.85-1206,0,15049,antonin_scalia,scotus_justice,864.64,870.127,How has the Administrator used his authority under Section 3107?
+1986.85-1206,0,31118,jerry_s_jones,,875.496,875.781,"No, Your Honor."
+1986.85-1206,0,15092,sandra_day_oconnor,scotus_justice,902.265,931.784,"Mr. Jones, do you really think that some remote, distant federal institution like the Veterans Administration is in a better position as a practical matter to consider the details and equities of all these thousands of cases and to consider the real needs of the children and the disabled veteran, than state courts where these matters are traditionally handled?"
+1986.85-1206,0,31118,jerry_s_jones,,931.784,935.236,"Your Honor, I would be reluctant to respond to that."
+1986.85-1206,0,15141,william_h_rehnquist,scotus_justice,947.044,949.413,"Thank you, Mr. Jones."
+1986.85-1206,1,38947,roger_clegg,,976.744,980.179,"I will address that, and feel free to remind me if I overlook that."
+1986.85-1206,1,15141,william_h_rehnquist,scotus_justice,1009.366,1015.435,"Let me ask you, Mr. Clegg, and I think it has been gone into before but I want to make certain I understand."
+1986.85-1206,1,38947,roger_clegg,,1023.375,1024.59,That is correct.
+1986.85-1206,1,15141,william_h_rehnquist,scotus_justice,1024.59,1027.16,Was there any effort to garnish?
+1986.85-1206,1,38947,roger_clegg,,1027.16,1030.279,"No, there was not."
+1986.85-1206,1,15141,william_h_rehnquist,scotus_justice,1030.279,1031.314,Or attach?
+1986.85-1206,1,38947,roger_clegg,,1031.314,1033.848,Let me give the--
+1986.85-1206,1,15141,william_h_rehnquist,scotus_justice,1033.848,1036.266,Can you answer whether or not there was any effort?
+1986.85-1206,1,38947,roger_clegg,,1036.266,1036.718,"--No, there was not."
+1986.85-1206,1,15045,harry_a_blackmun,scotus_justice,1056.429,1059.881,But why does that equate with an attachment or a garnishment?
+1986.85-1206,1,38947,roger_clegg,,1059.881,1062.083,Why isn't it a seizure?
+1986.85-1206,1,15045,harry_a_blackmun,scotus_justice,1094.887,1096.089,But where was this--
+1986.85-1206,1,38947,roger_clegg,,1096.089,1096.573,"--""# before or after""--"
+1986.85-1206,1,15045,harry_a_blackmun,scotus_justice,1096.573,1101.458,--Where was the attachment or garnishment or seizure anywhere along the line?
+1986.85-1206,1,38947,roger_clegg,,1101.458,1103.91,"--Your Honor, the--"
+1986.85-1206,1,15045,harry_a_blackmun,scotus_justice,1103.91,1109.081,The Veterans Administration still paid it monthly direct to the veteran?
+1986.85-1206,1,38947,roger_clegg,,1109.081,1119.705,"--That's right, and he would get it and if he was willing to stay in jail he could continue to receive it."
+1986.85-1206,1,15071,byron_r_white,scotus_justice,1123.924,1144.753,"If he owed some merchant and the merchant sued and the court ordered the veteran to pay the creditor out of his check, that statute would bar it because the funds are exempt from the claims of creditors, is that it?"
+1986.85-1206,1,38947,roger_clegg,,1144.753,1153.324,"--That's right, and that's the second string to our bow, is that we think that Mrs. Rose here is a creditor."
+1986.85-1206,1,15060,john_paul_stevens,scotus_justice,1181.707,1184.676,May I just follow up on Justice White's question.
+1986.85-1206,1,38947,roger_clegg,,1218.73,1221.099,"--The judgment, fine, but when the court turns to him and says,"
+1986.85-1206,1,15060,john_paul_stevens,scotus_justice,1222.532,1222.749,--All right.
+1986.85-1206,1,38947,roger_clegg,,1243.715,1261.676,"--I think that it is in this context where, you know, the sheriff was there and the Court turned to the sheriff and said, you know, ""Take him into custody"", and where he was in fact in custody an incarcerated in this case."
+1986.85-1206,1,15045,harry_a_blackmun,scotus_justice,1261.676,1265.544,"That's the only position you can take, isn't it?"
+1986.85-1206,1,38947,roger_clegg,,1265.544,1266.011,I'm sorry?
+1986.85-1206,1,15045,harry_a_blackmun,scotus_justice,1266.011,1267.913,That the only position you can take.
+1986.85-1206,1,38947,roger_clegg,,1267.913,1276.852,"Well, I think that even... I'm not sure about that, Justice Blackmun."
+1986.85-1206,1,15141,william_h_rehnquist,scotus_justice,1294.313,1303.086,"Well, are the contempt proceedings where the Court tells him to go to jail... it is ordinarily separate from the order requiring him to pay, isn't it?"
+1986.85-1206,1,38947,roger_clegg,,1303.086,1305.703,"That's correct, but--"
+1986.85-1206,1,15141,william_h_rehnquist,scotus_justice,1305.703,1306.888,Was it separate here?
+1986.85-1206,1,38947,roger_clegg,,1313.458,1319.279,--I believe that the sequence was that that order was entered.
+1986.85-1206,1,15141,william_h_rehnquist,scotus_justice,1347.11,1358.602,"Well, whether you're willing to do so or not, surely you could confine your attack to the order committing him for contempt, saying that the state court order, 800> [""], isn't indicating where that money should come from."
+1986.85-1206,1,38947,roger_clegg,,1370.575,1372.277,"That's our best argument, Your Honor."
+1986.85-1206,1,15092,sandra_day_oconnor,scotus_justice,1372.277,1394.191,"Mr. Clegg, isn't there really a line of common law precedents and cases that distinguish familial obligations from commercial obligations, and in similar contexts, in spendthrift trust provisions written just like this statute, haven't courts enforced those familial obligations?"
+1986.85-1206,1,38947,roger_clegg,,1394.191,1406.183,"Well, there has been a divergence of opinion on that, Justice O'Connor, and as Appellant State point out, this law was... 3101 was enacted in these terms in 1935."
+1986.85-1206,1,15092,sandra_day_oconnor,scotus_justice,1448.242,1454.848,What about the other assets that Mr. Rose might have had?
+1986.85-1206,1,38947,roger_clegg,,1464.454,1467.823,"I believe that it would be, Justice O'Connor, because 3101, as I said,"
+1986.85-1206,1,15071,byron_r_white,scotus_justice,1500.944,1521.69,"Mr. Clegg, I take it your argument is that even in the absence of this no attachment, no garnishment statute, that this order was invalid because it invaded the... it was contrary to the intent of Congress with respect to who should make these kinds of rules?"
+1986.85-1206,1,38947,roger_clegg,,1521.69,1522.073,That's right.
+1986.85-1206,1,15071,byron_r_white,scotus_justice,1522.073,1523.857,Wholly an independent argument?
+1986.85-1206,1,38947,roger_clegg,,1523.857,1524.44,That's right.
+1986.85-1206,1,15092,sandra_day_oconnor,scotus_justice,1580.308,1582.593,"So, where would someone in Tennessee have to go?"
+1986.85-1206,1,38947,roger_clegg,,1582.593,1584.795,--I assume it's somewhere in Tennessee.
+1986.85-1206,1,15092,sandra_day_oconnor,scotus_justice,1584.795,1589.866,Does the VA ever pay more than $90 a month?
+1986.85-1206,1,38947,roger_clegg,,1589.866,1602.674,"Yes, they do, and in fact the regulations say that in a typical apportionment case somewhere between 20 and 50 percent of the benefits is generally an equitable amount."
+1986.85-1206,1,15092,sandra_day_oconnor,scotus_justice,1605.876,1611.411,Rut that's not... why do we have the $90 figure here?
+1986.85-1206,1,38947,roger_clegg,,1611.411,1619.184,--That's the statutory amount that is automatically given a veteran when he has an additional child dependent.
+1986.85-1206,1,15045,harry_a_blackmun,scotus_justice,1643.465,1653.273,"Mr. Clegg, suppose that he had $400 a month income from some independent source, some retirement."
+1986.85-1206,1,38947,roger_clegg,,1653.273,1654.773,--No problem with that.
+1986.85-1206,1,15045,harry_a_blackmun,scotus_justice,1654.773,1655.573,"What do you mean, no problem?"
+1986.85-1206,1,38947,roger_clegg,,1662.213,1663.413,I'm sorry.
+1986.85-1206,1,15045,harry_a_blackmun,scotus_justice,1663.413,1666.781,That $400 would have to come out of his disability payment?
+1986.85-1206,1,38947,roger_clegg,,1668.998,1669.566,Yes.
+1986.85-1206,1,15045,harry_a_blackmun,scotus_justice,1670.582,1677.303,"Suppose it were $795, and five dollars that he had to use out of the disability payment--"
+1986.85-1206,1,38947,roger_clegg,,1677.303,1677.82,--Yes.
+1986.85-1206,1,15045,harry_a_blackmun,scotus_justice,1677.82,1679.255,--You still would be here for the $500?
+1986.85-1206,1,38947,roger_clegg,,1679.255,1681.374,"For the five dollars, yes."
+1986.85-1206,1,15045,harry_a_blackmun,scotus_justice,1695.115,1703.054,"So, each month, then, one would have to look at his independent income to see whether there is a violation of the statute, each month?"
+1986.85-1206,1,38947,roger_clegg,,1708.024,1708.675,That's right.
+1986.85-1206,1,15045,harry_a_blackmun,scotus_justice,1708.675,1710.058,"That's not a very good system, is it?"
+1986.85-1206,1,38947,roger_clegg,,1710.058,1732.39,That problem is avoided if you go to Veterans Administration in the first instance and if you go to the state court in the first instance then the problem is going to arise only if the veteran asserts that he is being forced to pay out of his disability benefits and then the burden of proof is going to be on him to show that.
+1986.85-1206,1,15104,thurgood_marshall,scotus_justice,1732.39,1740.496,Wouldn't the federal government have a right to tell somebody what they can do with that money?
+1986.85-1206,1,38947,roger_clegg,,1740.496,1749.268,"Yes, Justice Marshall, and in this instance Congress set out a statutory scheme that provides that the Veterans Administration--"
+1986.85-1206,1,15104,thurgood_marshall,scotus_justice,1749.268,1750.434,"Well, is it welfare?"
+1986.85-1206,1,38947,roger_clegg,,1750.434,1755.652,"--No, it's veterans disability benefits."
+1986.85-1206,1,15104,thurgood_marshall,scotus_justice,1755.652,1758.004,"What is it, a disability payment?"
+1986.85-1206,1,38947,roger_clegg,,1758.004,1758.371,Yes.
+1986.85-1206,1,15104,thurgood_marshall,scotus_justice,1758.371,1760.123,That wasn't earned?
+1986.85-1206,1,38947,roger_clegg,,1760.123,1761.99,I think it was earned.
+1986.85-1206,1,15141,william_h_rehnquist,scotus_justice,1766.61,1769.646,"Very well, Mr. Clegg."
+1986.85-1206,2,27973,howell_h_sherrod_jr,,1772.43,1777.917,"Mr. Chief Justice, and if it may please the Court:"
+1986.85-1206,2,15092,sandra_day_oconnor,scotus_justice,1895.809,1897.092,Mr. Sherrod.
+1986.85-1206,2,27973,howell_h_sherrod_jr,,1897.092,1897.842,"Yes, ma'am."
+1986.85-1206,2,15092,sandra_day_oconnor,scotus_justice,1897.842,1905.998,Apparently Mrs. Rose never made application to the VA for an apportionment or child care--
+1986.85-1206,2,27973,howell_h_sherrod_jr,,1905.998,1907.764,"That is correct, and there is a reason."
+1986.85-1206,2,15092,sandra_day_oconnor,scotus_justice,1946.189,1958.431,"--But you don't take the position, do you, that Mrs. Rose was somehow precluded by state law or otherwise from applying at the VA for an apportionment?"
+1986.85-1206,2,27973,howell_h_sherrod_jr,,1958.431,1959.966,"--No, it would just have been a futile act."
+1986.85-1206,2,15092,sandra_day_oconnor,scotus_justice,1966.537,1969.071,But it would hardly be futile if she could get money.
+1986.85-1206,2,27973,howell_h_sherrod_jr,,1969.071,1972.94,"--Well, it's two parallel systems."
+1986.85-1206,2,15092,sandra_day_oconnor,scotus_justice,1973.975,1976.408,She just chose not to do it?
+1986.85-1206,2,27973,howell_h_sherrod_jr,,1976.408,1978.177,"Yes, ma'am."
+1986.85-1206,2,15141,william_h_rehnquist,scotus_justice,1978.177,1988.116,"Nothing under Tennessee law would have prevented her from going to the VA in addition to getting her divorce and getting custody of the children, would it?"
+1986.85-1206,2,27973,howell_h_sherrod_jr,,1988.116,1991.152,Nothing would have prevented her from asking for an apportionment.
+1986.85-1206,2,15141,william_h_rehnquist,scotus_justice,1997.508,2001.876,"She might have been unsuccessful or less successful, but she didn't even try here?"
+1986.85-1206,2,27973,howell_h_sherrod_jr,,2001.876,2009.731,"She did not try, and she would have had to go to Nashville, Tennessee and they do not have any published means by which one could effect this procurement."
+1986.85-1206,2,15060,john_paul_stevens,scotus_justice,2041.085,2059.212,"I take it, though, Mr. Sherrod, it's your position that if she had gone, maybe after a delay and gotten, say three or four hundred dollars a month from the direct payment out of the Veterans Administration, you could then have gone back to the Tennessee court and said,"
+1986.85-1206,2,27973,howell_h_sherrod_jr,,2061.748,2062.831,"Yes, Your Honor."
+1986.85-1206,2,15060,john_paul_stevens,scotus_justice,2062.831,2066.533,"So you could have had both, I suppose, at least theoretically, under your view of the case?"
+1986.85-1206,2,27973,howell_h_sherrod_jr,,2066.533,2069.65,"Yes, Your Honor, but all you get... you're not getting the same thing."
+1986.85-1206,2,15060,john_paul_stevens,scotus_justice,2077.554,2078.121,Right.
+1986.85-1206,2,27973,howell_h_sherrod_jr,,2078.121,2084.578,"Theoretically, I guess, the Veterans Administration could say, we're going to give an allotment check of $1,000."
+1986.85-1206,2,15060,john_paul_stevens,scotus_justice,2093.1,2097.885,But if you would rather get your money in that form and then pay the overage back than have to fight for it every month--
+1986.85-1206,2,27973,howell_h_sherrod_jr,,2097.885,2098.385,"--Yes, sir."
+1986.85-1206,2,15141,william_h_rehnquist,scotus_justice,2216.378,2241.911,"--But how about getting away from the apportionment statute and getting back to the attachment, garnishment statute, don't you... because it's a pretty strong argument that an order committing Mr. Rose for contempt for failure to pay the child support payments would come under the definition of attachment, levy or seizure by any legal or equitable process whatever?"
+1986.85-1206,2,27973,howell_h_sherrod_jr,,2241.911,2251.901,"--No, Mr. Chief Justice, because the order doesn't interfere with the flow of money from the VA to the veteran."
+1986.85-1206,2,15141,william_h_rehnquist,scotus_justice,2266.394,2271.512,"But how about the language at the very end of 38 U.S.C. 3101 where it says,"
+1986.85-1206,2,27973,howell_h_sherrod_jr,,2274.881,2281.035,"Are you talking about where there is a contempt action that, you are going to jail if you don't pay this money?"
+1986.85-1206,2,15141,william_h_rehnquist,scotus_justice,2281.035,2293.211,"Well, the language I just read said that you can't have equitable process or attachment or garnishment, anything like that, either before or after receipt by the beneficiary."
+1986.85-1206,2,27973,howell_h_sherrod_jr,,2299.865,2303.567,"Well, there is no specific intent."
+1986.85-1206,2,15141,william_h_rehnquist,scotus_justice,2340.138,2348.161,"Well, if the Tennessee Court of Appeals had said he could have made these payments without invading veterans' benefits we might have a different case."
+1986.85-1206,2,27973,howell_h_sherrod_jr,,2349.594,2387.953,"--The only cases that benefits don't seem to address your point, if it is that there is a federal interest that they are trying to protect and there is no federal interest in this case that is trying to be protected, because even if the veterans' benefits were supposed to be used entirely for that $800 and the court ordered contempt, the benefits in this case are not those benefits that are specifically protected by a federal statute."
+1986.85-1206,2,15141,william_h_rehnquist,scotus_justice,2430.398,2437.235,"I was thinking the contempt citation was analogous, or at least might be governed by the language,"
+1986.85-1206,2,27973,howell_h_sherrod_jr,,2454.097,2469.94,It seems to me like we would be prostituting the Section 3101 which is not there to protect the veteran... it's there to protect the veteran and his family from creditors but it's not there to protect the veteran from his family and that's what they're using it for in this case.
+1986.85-1206,2,15049,antonin_scalia,scotus_justice,2512.684,2534.632,"And supposedly, if this statute prevents what was attempted to be done here on the basis of the ""attachment, levy, garnishment"" language it would also prevent this veteran from being incarcerated for child support, for failure to support his children when his wife is still alive."
+1986.85-1206,2,27973,howell_h_sherrod_jr,,2534.632,2536.499,"--Yes, sir, I would think that would be true."
+1986.85-1206,2,15049,antonin_scalia,scotus_justice,2536.499,2547.773,The State could not proceed against him at all for failure to support his children and his obligation would be dependent entirely upon whatever the VA thought was appropriate?
+1986.85-1206,2,27973,howell_h_sherrod_jr,,2547.773,2549.809,"Yes, sir, I believe that would be the result."
+1986.85-1206,2,15141,william_h_rehnquist,scotus_justice,2581.946,2583.712,"Thank you, Mr. Sherrod."
+1986.85-1206,3,44135,w_j_michael_cody,,2585.814,2590.968,"Mr. Chief Justice, and may it please the Court:"
+1986.85-1206,3,15049,antonin_scalia,scotus_justice,2618.785,2624.623,What do you feel is the purpose of the provision that allows the Administrator to apportion?
+1986.85-1206,3,44135,w_j_michael_cody,,2625.256,2637.164,"Justice, it is our view that 3107, which is the apportionment statute, is an administrative aid in child support enforcement."
+1986.85-1206,3,15060,john_paul_stevens,scotus_justice,2940.842,2947.413,"General Cody, your argument raised a question in my mind about these 27,000 cases over at the Veterans Administration."
+1986.85-1206,3,44135,w_j_michael_cody,,2973.563,2992.525,"If the Court please, Mr. Justice, I think that one of the difficulties that we have in this record is the way this case came up, there is very little information as to how the VA procedure does work because the apportionment situation did not occur."
+1986.85-1206,3,15141,william_h_rehnquist,scotus_justice,3065.157,3067.275,"Thank you, General Cody."
+1986.85-1206,3,15049,antonin_scalia,scotus_justice,3069.675,3087.285,"Mr. Clegg, I hate to impose on your one minute, but really what do you do about the situation where a veteran who is receiving benefits, his wife hasn't left him, his children are still living with him, and the state wants to move against him for failure to support his children?"
+1986.85-1206,4,38947,roger_clegg,,3089.203,3092.438,"Well, they can go after everything except for the disability."
+1986.85-1206,4,15049,antonin_scalia,scotus_justice,3092.438,3102.146,"Well, they couldn't put him in jail or couldn't punish him at all because so long as that's all that he's getting, you are saying they can't punish him for failure to support his children, right?"
+1986.85-1206,4,38947,roger_clegg,,3102.146,3104.212,They have to go to he Veterans Administration in that situation.
+1986.85-1206,4,15049,antonin_scalia,scotus_justice,3104.212,3105.931,"That's pretty extreme, isn't it?"
+1986.85-1206,4,38947,roger_clegg,,3105.931,3108.716,I don't think that that's extreme.
+1986.85-1206,4,15060,john_paul_stevens,scotus_justice,3117.406,3120.024,May I ask one other question?
+1986.85-1206,4,38947,roger_clegg,,3134.498,3135.267,That's fine.
+1986.85-1206,4,15060,john_paul_stevens,scotus_justice,3135.267,3135.767,That's fine.
+1986.85-1206,4,38947,roger_clegg,,3141.937,3142.687,Yes.
+1986.85-1206,4,15060,john_paul_stevens,scotus_justice,3146.889,3148.007,But the regulations--
+1986.85-1206,4,38947,roger_clegg,,3148.007,3152.375,--Money can go directly to the children in this situation.
+1986.85-1206,4,15060,john_paul_stevens,scotus_justice,3157.029,3160.065,--But it would be support money rather than alimony?
+1986.85-1206,4,38947,roger_clegg,,3162.933,3166.385,The regulations say that payment can be made to estranged spouses.
+1986.85-1206,4,15060,john_paul_stevens,scotus_justice,3168.235,3172.888,"Well, see, an estranged spouse would be a spouse but a divorced spouse is not a spouse."
+1986.85-1206,4,38947,roger_clegg,,3172.888,3174.588,I'm not sure whether--
+1986.85-1206,4,15060,john_paul_stevens,scotus_justice,3174.588,3189.916,"See, the thing, your 27,000 person figure is a very persuasive figure, but maybe they are all cases in which the veteran was perfectly happy to have all or any part of the compensation paid to the family because he was unable to write checks or something like that."
+1986.85-1206,4,38947,roger_clegg,,3189.916,3196.404,"--Well, mainly the 27,000 figure is to show that apportionments are not something that are never made by the VA."
+1986.85-1206,4,15060,john_paul_stevens,scotus_justice,3197.187,3201.189,But we don't know how many of those are broken families?
+1986.85-1206,4,38947,roger_clegg,,3201.189,3202.474,"--No, we don't."
+1986.85-1206,4,15141,william_h_rehnquist,scotus_justice,3204.51,3205.81,"Thank you, Mr. Clegg."
+1986.85-1206,4,38947,roger_clegg,,3205.81,3206.31,Thank you.
+1986.85-1206,4,15141,william_h_rehnquist,scotus_justice,3206.31,3207.143,The case is submitted.

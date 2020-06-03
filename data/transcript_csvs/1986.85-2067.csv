@@ -1,0 +1,65 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1986.85-2067,0,15141,william_h_rehnquist,scotus_justice,0.0,10.293,"We will hear argument next in No. 85-2067, United States versus Jose Mendoza-Lopez and Angel Landeros-Quinones."
+1986.85-2067,0,20411,christopher_j_wright,,75.939,95.524,"Mr. Chief Justice, and may it please the Court, the question presented is whether defendants prosecuted under 8 USC 1326 for reentering the United States following a deportation may collaterally attack the deportation proceeding in the criminal prosecution."
+1986.85-2067,0,15045,harry_a_blackmun,scotus_justice,175.024,179.397,Mr. Wright how effective is that information?
+1986.85-2067,0,20411,christopher_j_wright,,185.628,191.533,"No, suspension of deportation is discretionary matter."
+1986.85-2067,0,15045,harry_a_blackmun,scotus_justice,191.533,192.814,Does he ever grant relief?
+1986.85-2067,0,20411,christopher_j_wright,,192.814,203.748,"Yes, he does, most commonly if indeed a spouse of the alien is an American citizen."
+1986.85-2067,0,15092,sandra_day_oconnor,scotus_justice,226.66,232.206,"Mr. Wright, what would have happened if one of them had said, yes, I think I would like to appeal?"
+1986.85-2067,0,20411,christopher_j_wright,,238.003,240.019,They would remain here pending appeal.
+1986.85-2067,0,15092,sandra_day_oconnor,scotus_justice,251.905,256.56,So the person might have to remain in custody pending the appeal?
+1986.85-2067,0,20411,christopher_j_wright,,256.56,257.201,That's right.
+1986.85-2067,1,33832,kathy_goudy,,1687.235,1718.41,"Mr. Chief Justice and may it please the Court, I am here to argue that a deportation order which has not been previously reviewed in a judicial forum in any way can be looked at by a court before it becomes the predicate for a criminal conviction."
+1986.85-2067,1,15141,william_h_rehnquist,scotus_justice,1762.548,1772.028,"Of course, the government says that clients like yours have an adequate opportunity to make that sort of a challenge if they just appeal from the order of the board or the immigration officer."
+1986.85-2067,1,33832,kathy_goudy,,1772.028,1779.025,In this particular case their rights of appeal ended within 48 hours after the hearing.
+1986.85-2067,1,15092,sandra_day_oconnor,scotus_justice,1780.103,1781.525,"Wasn't there a waiver, though?"
+1986.85-2067,1,33832,kathy_goudy,,1782.273,1784.039,--There was a waiver during the hearing.
+1986.85-2067,1,15141,william_h_rehnquist,scotus_justice,1813.484,1818.873,Is that denial of due process to misunderstand the conversation between a judge and a litigant?
+1986.85-2067,1,33832,kathy_goudy,,1818.873,1821.794,--In this case it was found to be.
+1986.85-2067,1,15141,william_h_rehnquist,scotus_justice,1821.794,1823.278,"Well, do you say it is in this Court?"
+1986.85-2067,1,33832,kathy_goudy,,1823.278,1827.887,"When it goes to the extreme it did in this case, yes."
+1986.85-2067,1,15141,william_h_rehnquist,scotus_justice,1827.887,1833.728,"So even though they are given a right to appeal, you say they have still got to have this right to collaterally attack."
+1986.85-2067,1,33832,kathy_goudy,,1833.728,1840.116,The have a right to collaterally attack to determine if it was a serious violation of due process.
+1986.85-2067,1,15141,william_h_rehnquist,scotus_justice,1840.116,1841.803,Even though they had the... they could have done that by appeal.
+1986.85-2067,1,33832,kathy_goudy,,1841.803,1845.05,Yes.
+1986.85-2067,1,15092,sandra_day_oconnor,scotus_justice,1845.05,1864.091,I thought we took this case on the assumption that the defect below was in the failure to adequately explain the possibility of suspension by the attorney general of the deportation.
+1986.85-2067,1,33832,kathy_goudy,,1864.091,1871.775,That was one of the findings of the court in the main findings of a due process violation because of the serious harm that fell from that.
+1986.85-2067,1,15092,sandra_day_oconnor,scotus_justice,1874.555,1887.908,"It was my understanding that their right to appeal had been explained, and that no appeal was taken by those deported, by the respondents here."
+1986.85-2067,1,33832,kathy_goudy,,1887.908,1896.562,--There is some language in the opinion that the right to appeal kind of got meshed in with the rest of the conversation that was going on.
+1986.85-2067,1,15092,sandra_day_oconnor,scotus_justice,1898.702,1899.155,Yes.
+1986.85-2067,1,33832,kathy_goudy,,1899.155,1906.122,"And when they were placed across the border, any future right to appeal ended at that point under Section 1105(a)."
+1986.85-2067,1,15092,sandra_day_oconnor,scotus_justice,1906.122,1922.147,Do you think that the failure to explain the right of... the possibility of suspension rises to the level of a gross miscarriage of justice as that term has been applied by this Court in earlier cases?
+1986.85-2067,1,33832,kathy_goudy,,1922.147,1938.125,"In the facts of this case, because of the harm that was suffered by their failure to follow up on that suspension, yes, because they were... there is no further right to appeal that deportation."
+1986.85-2067,1,15049,antonin_scalia,scotus_justice,2021.125,2021.922,I don't understand.
+1986.85-2067,1,33832,kathy_goudy,,2043.962,2048.71,"--Yes, the attorney general acting, too, as agent of the Immigration Service, yes."
+1986.85-2067,1,15049,antonin_scalia,scotus_justice,2048.71,2052.255,"I mean, it isn't as though they were entitled to be kept in the country."
+1986.85-2067,1,33832,kathy_goudy,,2064.141,2066.389,Not necessarily entitled.
+1986.85-2067,1,15049,antonin_scalia,scotus_justice,2084.118,2084.632,"No, it doesn't allow you to stay."
+1986.85-2067,1,33832,kathy_goudy,,2088.053,2090.677,"--If the application were processed, that is correct."
+1986.85-2067,1,15049,antonin_scalia,scotus_justice,2090.677,2091.224,Yes.
+1986.85-2067,1,33832,kathy_goudy,,2127.556,2136.146,I am arguing that the District Court should be allowed to review the facts of the deportation to see if there is a fundamental fairness.
+1986.85-2067,1,15049,antonin_scalia,scotus_justice,2141.128,2148.422,"Well, you are arguing that and the fact that there was fundamental unfairness."
+1986.85-2067,1,33832,kathy_goudy,,2153.468,2167.619,"Right, the fundamental unfairness was found to be severe in that they wouldn't have gone across the border if they had been allowed to apply for the discretionary relief."
+1986.85-2067,1,15049,antonin_scalia,scotus_justice,2198.874,2205.075,I find that a queer use of language to say that the ability to ask for a favor is a right.
+1986.85-2067,1,33832,kathy_goudy,,2214.51,2227.006,"Suspension of deportation is... it is a discretionary relief available if you can bring your evidence in sufficiently, but it is not a favor."
+1986.85-2067,1,15049,antonin_scalia,scotus_justice,2246.326,2251.589,Reversing the attorney general for his denial of relief under that provision?
+1986.85-2067,1,33832,kathy_goudy,,2251.589,2254.635,--It is considered discretionary.
+1986.85-2067,1,15141,william_h_rehnquist,scotus_justice,2333.481,2345.009,"What is your response, Ms. Goudy, to the government's argument that Congress took out the word 1326, modifying the word ""deportation""?"
+1986.85-2067,1,33832,kathy_goudy,,2345.009,2350.305,It is not a complete explanation.
+1986.85-2067,1,15141,william_h_rehnquist,scotus_justice,2350.305,2353.131,Yours isn't or theirs isn't?
+1986.85-2067,1,33832,kathy_goudy,,2353.131,2354.037,The government's isn't.
+1986.85-2067,1,15141,william_h_rehnquist,scotus_justice,2380.809,2394.959,"Why do you need legislative history to tell you what it means when the statute at one time reads ""deportation in pursuance of law"" and then when Congress gets through amending it it no longer reads ""in pursuance of law""?"
+1986.85-2067,1,33832,kathy_goudy,,2398.177,2407.033,"--For one thing, the statute that had 1326."
+1986.85-2067,1,15049,antonin_scalia,scotus_justice,2411.266,2422.7,"Well, it was considered by the House committee, as I recall, to be the predecessor of it because in explaining to the full... I think it was the House, the full House what the changes being made were."
+1986.85-2067,1,33832,kathy_goudy,,2431.636,2435.477,And the other statutes just sort of disappeared.
+1986.85-2067,2,20411,christopher_j_wright,,2462.75,2466.717,It certainly was deleted from what was formerly 1326.
+1986.85-2067,3,33832,kathy_goudy,,2466.717,2472.372,It wasn't formerly 1326.
+1986.85-2067,3,15141,william_h_rehnquist,scotus_justice,2506.764,2508.952,What case of ours do you rely on for that?
+1986.85-2067,3,33832,kathy_goudy,,2508.952,2513.154,I am referring in general to the rule of lenity.
+1986.85-2067,3,15141,william_h_rehnquist,scotus_justice,2516.278,2530.508,"You say this is a part of the rule of lenity that if Congress is going to make a criminal statute more severe that it previously had, it has to explicitly find that it it taking away something from a defendant or explicitly say so?"
+1986.85-2067,3,33832,kathy_goudy,,2530.508,2534.74,"No, that is not what I meant."
+1986.85-2067,3,15141,william_h_rehnquist,scotus_justice,2604.478,2606.602,"Thank you, Ms. Goudy."
+1986.85-2067,4,20411,christopher_j_wright,,2609.524,2610.882,Thank you.
+1986.85-2067,4,15060,john_paul_stevens,scotus_justice,2659.941,2667.297,"I imagine there are some people if you asked them whether an FBI agent points a gun at you and hauls you across the border, have you been deported, I think some people might say yes."
+1986.85-2067,4,20411,christopher_j_wright,,2667.297,2670.452,--We wouldn't.
+1986.85-2067,4,15141,william_h_rehnquist,scotus_justice,2673.434,2675.261,"Thank you, Mr. Wright."

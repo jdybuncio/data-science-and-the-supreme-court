@@ -1,0 +1,253 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2015.14-613,0,15086,john_g_roberts_jr,scotus_justice,0.0,6.46,"We'll hear argument next in Case 14-613, Green v. Brennan. Mr. Wolfman."
+2015.14-613,0,18166,brian_wolfman,,6.46,31.895,"Mr. Chief Justice, and may it please the Court: The basic principle of this Court's timeliness cases, Title VII and otherwise, is that the clock starts when the cause of action is complete. Because a constructive discharge claim is complete only after the employee resigns, this Court should reverse. The court has indicated that limitations principles should be as simple as possible."
+2015.14-613,0,15049,antonin_scalia,scotus_justice,43.5,46.99,What does the statute say? Can we look at the statute? What's it -- what does the statute say?
+2015.14-613,0,18166,brian_wolfman,,46.99,53.02,The statute says matter -- aggrieved party has to bring within 45 days the matter alleged to be discriminatory.
+2015.14-613,0,15049,antonin_scalia,scotus_justice,53.02,56.01,The matter alleged to be discriminatory.
+2015.14-613,0,18166,brian_wolfman,,66.58,67.77,"Absolutely, Your Honor."
+2015.14-613,0,15049,antonin_scalia,scotus_justice,68.195,70.825,The employee discriminated against himself?
+2015.14-613,0,18166,brian_wolfman,,70.825,71.11,No.
+2015.14-613,0,15113,anthony_m_kennedy,scotus_justice,96.59,104.08,But for a constructive discharge claim to succeed you have to point to a discriminatory or an unlawful act.
+2015.14-613,0,18166,brian_wolfman,,104.08,106.08,It is true that --
+2015.14-613,0,15113,anthony_m_kennedy,scotus_justice,106.08,108.74,And so we have to find this anyway.
+2015.14-613,0,18166,brian_wolfman,,108.74,111.55,It is true that that is one component.
+2015.14-613,0,15049,antonin_scalia,scotus_justice,142.475,143.21,Of course.
+2015.14-613,0,18166,brian_wolfman,,154.41,169.1,"I -- I think not, Your Honor. The conciliation process always anticipates that the claim will have occurred; that the acts giving rise to the claim, including all the elements, have occurred before conciliation --"
+2015.14-613,0,15049,antonin_scalia,scotus_justice,169.1,170.66,"That's fine, but the employer can make it up, you know."
+2015.14-613,0,18166,brian_wolfman,,175.12,176.1,That is true.
+2015.14-613,0,15049,antonin_scalia,scotus_justice,176.1,176.3,Right?
+2015.14-613,0,18166,brian_wolfman,,176.3,176.86,But only --
+2015.14-613,0,15049,antonin_scalia,scotus_justice,176.86,177.69,But he's quit.
+2015.14-613,0,18166,brian_wolfman,,180.66,187.16,"Your Honor, that is true for any of the acts that could be brought prior to the 45-day trigger."
+2015.14-613,0,15131,sonia_sotomayor,scotus_justice,251.205,257.235,I -- I somehow feel you've given up too much.
+2015.14-613,0,18166,brian_wolfman,,285.7,286.3,Yes.
+2015.14-613,0,15131,sonia_sotomayor,scotus_justice,286.94,297.09,So that that discharge itself is discriminatory because it -- the employer has proceeded in a pattern that has led you to that decision?
+2015.14-613,0,18166,brian_wolfman,,297.09,298.1,That's exactly right.
+2015.14-613,0,15131,sonia_sotomayor,scotus_justice,309.0,312.3,That's what I'm saying. I don't think -- I think it's --
+2015.14-613,0,15049,antonin_scalia,scotus_justice,312.3,313.08,Well --
+2015.14-613,0,15131,sonia_sotomayor,scotus_justice,313.08,315.72,You keep talking about it as two separate elements.
+2015.14-613,0,18166,brian_wolfman,,315.72,322.21,"Well, there are separate elements but when the resignation occurs, the -- the claim is imputed to the employer."
+2015.14-613,0,15131,sonia_sotomayor,scotus_justice,322.21,323.16,That's the precipitating --
+2015.14-613,0,18166,brian_wolfman,,323.16,324.93,It's imputed to the employer.
+2015.14-613,0,15049,antonin_scalia,scotus_justice,324.93,328.33,They're -- they're not always the same at the same point.
+2015.14-613,0,18166,brian_wolfman,,364.625,382.115,"Well, that's certainly possible, but again, that would -- that would be the case in many situations. So, for instance, let's assume for a second that there had been a discriminatory demotion on day one, and then a year later there has been a discriminatory termination with perhaps the exact same motive."
+2015.14-613,0,15049,antonin_scalia,scotus_justice,390.53,400.445,"It is an act of the employer, and quitting is not an act of the employer. The act of the employer -- the unlawful act of the employer is coercing the quitting."
+2015.14-613,0,18166,brian_wolfman,,407.92,408.12,There are --
+2015.14-613,0,15049,antonin_scalia,scotus_justice,408.12,408.62,-- for discriminatory --
+2015.14-613,0,18166,brian_wolfman,,408.62,425.26,"-- are some differences, but the point is that the resignation, at the point of resignation, when the cause of action accrues -- and no one here disputes that's when the cause of action accrues -- that conduct is imputed to the employer. And it's not simply in the that's not -- that's what this Court said in Suders, but it's not simply --"
+2015.14-613,0,15049,antonin_scalia,scotus_justice,425.26,427.53,"For purpose of remedy, yes, it is."
+2015.14-613,0,18166,brian_wolfman,,428.13,430.15,Not simply for purposes of remedy.
+2015.14-613,0,15094,elena_kagan,scotus_justice,437.145,437.79,Mr. Wolfman --
+2015.14-613,0,18166,brian_wolfman,,437.79,439.85,This is part of the affirmative case.
+2015.14-613,0,15094,elena_kagan,scotus_justice,439.85,463.17,"If -- you might be pulled in two different directions here but you don't have to accept what Justice Sotomayor is saying to win this case; isn't that right? In other words, one could say, yes, if you had discriminatory acts language, that might point to the last predicate discriminatory act as opposed to the resignation, it might or it might not, but here that language doesn't exist."
+2015.14-613,0,18166,brian_wolfman,,474.51,474.96,That is right.
+2015.14-613,0,15094,elena_kagan,scotus_justice,475.43,479.9,"And it at least creates ambiguity, such that the default rule would operate."
+2015.14-613,0,18166,brian_wolfman,,479.9,480.09,That -- that --
+2015.14-613,0,15094,elena_kagan,scotus_justice,480.09,481.34,So you don't have not to go to that --
+2015.14-613,0,18166,brian_wolfman,,481.34,485.04,"I think that is true, that we have argued this in two alternative ways."
+2015.14-613,0,15084,ruth_bader_ginsburg,scotus_justice,523.74,541.42,"Why doesn't that mean that it's within the employee's ability to stretch out the time that he has? Plus there could have been all this discrimination and the employee stays on the job, and then sometime down the road decides to quit."
+2015.14-613,0,18166,brian_wolfman,,541.42,545.885,"Well, I think -- I think that is a concern in theory but not in practice."
+2015.14-613,0,15086,john_g_roberts_jr,scotus_justice,598.48,601.485,"Well, not -- not years but maybe several months."
+2015.14-613,0,18166,brian_wolfman,,610.93,612.08,That is possible.
+2015.14-613,0,15068,samuel_a_alito_jr,scotus_justice,625.14,653.64,"May I follow up on Justice Kagan's question? You were discussing the possibility of deciding this case based on the particular language of the regulation that applies here, but your question presented is phrased much more broadly. You say under Federal employment discrimination law, so I took that to mean that the rule that you're advocating would be the same for public and private sector employment."
+2015.14-613,0,18166,brian_wolfman,,653.64,655.27,"I think it would be, Your Honor, and I think so."
+2015.14-613,0,15068,samuel_a_alito_jr,scotus_justice,660.84,665.02,But there is -- this matter alleged to be discriminatory applies only to Federal employment.
+2015.14-613,0,18166,brian_wolfman,,665.02,668.17,"That is correct, but if I might -- if I might extend my answer."
+2015.14-613,0,15068,samuel_a_alito_jr,scotus_justice,691.31,698.69,"Isn't it true that outside of the area of constructive discharge -- and maybe constructive discharge is different, and I think that's really the thrust of your argument."
+2015.14-613,0,18166,brian_wolfman,,706.555,719.205,"Well, that is likely correct, if by that you are rejecting the notion -- again, in my discussion with Justice Sotomayor -- that the resignation is imputed to the employer."
+2015.14-613,0,15068,samuel_a_alito_jr,scotus_justice,721.53,726.42,"Yeah, but you're arguing that there's -- because there's this imputation, it's different for constructive discharge."
+2015.14-613,0,18166,brian_wolfman,,726.42,726.58,Right.
+2015.14-613,0,15068,samuel_a_alito_jr,scotus_justice,726.58,737.57,"But my -- my question is outside of that context, under Evans and Ricks and Morgan and Ledbetter, there must be an act of intentional discrimination within the limitations period."
+2015.14-613,0,18166,brian_wolfman,,737.57,738.05,"Yes, Your Honor."
+2015.14-613,0,15086,john_g_roberts_jr,scotus_justice,807.53,816.97,"Well, but I think the government suggests that this is exactly a case where it's not so easy to figure out when the constructive termination was."
+2015.14-613,0,18166,brian_wolfman,,816.97,818.25,"Well, when the resignation occurred?"
+2015.14-613,0,15086,john_g_roberts_jr,scotus_justice,818.25,819.675,When the resignation occurred.
+2015.14-613,0,18166,brian_wolfman,,819.675,825.06,"Well, let me just say, Your Honor, on that score, no one disputed that issue below, and --"
+2015.14-613,0,15086,john_g_roberts_jr,scotus_justice,825.06,827.64,"Well, that doesn't mean it was easy or -- or hard."
+2015.14-613,0,18166,brian_wolfman,,827.64,830.0,"No, Your Honor, I think it does mean it was easy."
+2015.14-613,0,15086,john_g_roberts_jr,scotus_justice,843.27,850.185,"Well, you know that the case -- you know, someone says this is ridiculous, I can't take it anymore, I will resign in three months."
+2015.14-613,0,18166,brian_wolfman,,853.1,856.05,"Well, our rule is that definitive notice of resignation."
+2015.14-613,0,15113,anthony_m_kennedy,scotus_justice,865.49,865.71,No.
+2015.14-613,0,18166,brian_wolfman,,875.475,878.33,I think the trigger date would be that date.
+2015.14-613,0,15113,anthony_m_kennedy,scotus_justice,878.66,879.28,When he resigns?
+2015.14-613,0,18166,brian_wolfman,,879.28,880.17,If he give notice --
+2015.14-613,0,15113,anthony_m_kennedy,scotus_justice,880.17,881.26,When he resigns?
+2015.14-613,0,18166,brian_wolfman,,881.26,887.76,His resignation is the -- the date that he says that because that's the date he gave definitive notice --
+2015.14-613,0,15113,anthony_m_kennedy,scotus_justice,887.76,887.9,"No, no."
+2015.14-613,0,18166,brian_wolfman,,891.015,891.8,Oh.
+2015.14-613,0,15086,john_g_roberts_jr,scotus_justice,896.11,896.49,"No, no."
+2015.14-613,0,18166,brian_wolfman,,907.455,911.235,I think the date of resignation is the date the teacher says that.
+2015.14-613,0,15084,ruth_bader_ginsburg,scotus_justice,911.235,911.89,Then no --
+2015.14-613,0,15049,antonin_scalia,scotus_justice,911.89,913.46,There's no cause of action yet.
+2015.14-613,0,15084,ruth_bader_ginsburg,scotus_justice,913.46,913.69,You mean --
+2015.14-613,0,15049,antonin_scalia,scotus_justice,913.69,921.19,There's no cause -- you've been -- you've been arguing to us you can't have the statute running until there's a cause of action.
+2015.14-613,0,18166,brian_wolfman,,921.19,925.75,"There is a cause of action because there's been a resignation, definitive notice of resignation."
+2015.14-613,0,15049,antonin_scalia,scotus_justice,928.14,929.29,He's still getting paid.
+2015.14-613,0,18166,brian_wolfman,,929.29,933.11,"That is correct, but -- but the person has resigned."
+2015.14-613,0,15049,antonin_scalia,scotus_justice,934.42,935.58,He hasn't resigned.
+2015.14-613,0,18166,brian_wolfman,,938.9,944.83,"I don't believe -- if the -- if the Court wishes to adopt a -- a last-day-of-work rule, that obviously would benefit --"
+2015.14-613,0,15049,antonin_scalia,scotus_justice,944.83,945.04,No --
+2015.14-613,0,18166,brian_wolfman,,945.04,945.39,-- I'm fine.
+2015.14-613,0,15049,antonin_scalia,scotus_justice,945.39,948.12,-- I'm just adopting the rule of what he says.
+2015.14-613,0,18166,brian_wolfman,,954.97,977.23,"We believe that when someone, for instance, hands in a letter and said, my last day of work -- I resign, my last day of work will be Friday, that that constitutes a resignation, and that our rule is definitive date of resignation. If the Court wishes, again, to adopt the last-date-of -- of-work rule, that would obviously benefit my client but it is not necessary. I would like to reserve the balance of my time."
+2015.14-613,0,15086,john_g_roberts_jr,scotus_justice,977.23,988.375,"Thank you, counsel. Mr. Gannon."
+2015.14-613,1,19038,curtis_e_gannon,,988.375,1019.12,"Mr. Chief Justice, and may it please the Court: We agree with petitioner that the period for initiating administrative consideration of a constructive-discharge claim should begin when the employee gives notice of resignation and not when the employer commits the last act which might or might not lead to that resignation. And if I can turn to the colloquy that the Chief Justice and Justice Scalia were just having with my friend, we think that one of the virtues of this rule is that it -- it leads to the same result in both cases of actual termination and cases of constructive termination."
+2015.14-613,1,15068,samuel_a_alito_jr,scotus_justice,1019.12,1023.415,Why don't you change -- why don't you just amend the regulation?
+2015.14-613,1,19038,curtis_e_gannon,,1023.415,1024.7,"Well, we think --"
+2015.14-613,1,15068,samuel_a_alito_jr,scotus_justice,1024.7,1027.23,We're interpreting the language -- it's not even a statute.
+2015.14-613,1,19038,curtis_e_gannon,,1029.565,1029.87,It is --
+2015.14-613,1,15068,samuel_a_alito_jr,scotus_justice,1029.87,1035.22,"Why don't you just amend it to make it clear? You think this is a sensible rule, it is very clear rule."
+2015.14-613,1,19038,curtis_e_gannon,,1040.69,1041.25,The EEOC --
+2015.14-613,1,15068,samuel_a_alito_jr,scotus_justice,1041.25,1042.81,-- this elaborate litigation.
+2015.14-613,1,19038,curtis_e_gannon,,1042.81,1045.405,"The EEOC may well do that, Justice Alito."
+2015.14-613,1,15113,anthony_m_kennedy,scotus_justice,1101.76,1102.2,But Ricks --
+2015.14-613,1,19038,curtis_e_gannon,,1102.2,1103.14,-- and constructive discharge.
+2015.14-613,1,15113,anthony_m_kennedy,scotus_justice,1103.14,1107.965,"Ricks alleged only discrimination, not discriminatory -- not constructive discharge."
+2015.14-613,1,19038,curtis_e_gannon,,1107.965,1108.87,That's true.
+2015.14-613,1,15113,anthony_m_kennedy,scotus_justice,1109.86,1111.965,That's why I have a problem with Ricks.
+2015.14-613,1,19038,curtis_e_gannon,,1111.965,1112.89,Well --
+2015.14-613,1,15113,anthony_m_kennedy,scotus_justice,1112.89,1115.43,"I mean, I don't think Ricks reads directly on what you're saying."
+2015.14-613,1,19038,curtis_e_gannon,,1117.015,1138.98,"We're trying to say that we think that the same rule should apply to actual and constructive discharges, and -- and it is a rule that is date of notification rather than date of separation. And that's the rule that everybody applies on the termination side; it's the rule that most of the courts of appeals have applied in the -- in the discharge side. In the context of terminations, only Justice Stevens suggested we should be using the actual date of separation --"
+2015.14-613,1,15113,anthony_m_kennedy,scotus_justice,1138.98,1144.74,"But again, as Justice Scalia points out, there's a difference between the employee taking the action and the -- and the employer taking the action --"
+2015.14-613,1,19038,curtis_e_gannon,,1144.74,1145.15,We agree that that --
+2015.14-613,1,15113,anthony_m_kennedy,scotus_justice,1145.15,1146.415,-- and that distinguishes Ricks.
+2015.14-613,1,19038,curtis_e_gannon,,1146.415,1148.62,That does -- that does make this case different.
+2015.14-613,1,15049,antonin_scalia,scotus_justice,1174.29,1179.78,It seems to me you're -- you're loading the dice when -- when you say it requires both a decision to resign.
+2015.14-613,1,19038,curtis_e_gannon,,1179.78,1180.6,"Well, the --"
+2015.14-613,1,15049,antonin_scalia,scotus_justice,1180.6,1182.97,It -- it requires a resignation.
+2015.14-613,1,19038,curtis_e_gannon,,1182.97,1184.25,"Well, I would just --"
+2015.14-613,1,15049,antonin_scalia,scotus_justice,1184.25,1185.83,"I mean, that's -- that's the problem."
+2015.14-613,1,19038,curtis_e_gannon,,1185.83,1188.66,"I was just quoting the Court's decision in Suders, Justice Scalia."
+2015.14-613,1,15049,antonin_scalia,scotus_justice,1188.66,1191.56,"No, we weren't discussing this very issue."
+2015.14-613,1,19038,curtis_e_gannon,,1191.56,1201.13,"Well, we were discussing -- the Court was discussing when a constructive discharge was actionable, and that until -- and so we do think it's not just the decision in the employee's head."
+2015.14-613,1,15049,antonin_scalia,scotus_justice,1250.28,1253.125,He doesn't even have to tell the employer why he's resigning.
+2015.14-613,1,19038,curtis_e_gannon,,1253.125,1253.94,That's -- that's --
+2015.14-613,1,15049,antonin_scalia,scotus_justice,1253.94,1260.07,"I mean, all the employer knows is you're -- you're leaving at the end of this term of -- of school."
+2015.14-613,1,19038,curtis_e_gannon,,1260.07,1260.74,And --
+2015.14-613,1,15049,antonin_scalia,scotus_justice,1260.74,1262.21,Or you're leaving in three months.
+2015.14-613,1,19038,curtis_e_gannon,,1263.35,1274.32,"And in our view, when -- when -- once he's given notice, I'm leaving in three months, he then has 45 days to initiate the counseling with -- with the agency counselor."
+2015.14-613,1,15049,antonin_scalia,scotus_justice,1274.32,1281.805,He doesn't even have to specify in his notice of quitting that he is quitting because of discriminatory action.
+2015.14-613,1,19038,curtis_e_gannon,,1283.21,1285.95,That -- that is generally true in the rest of the doctrine.
+2015.14-613,1,15049,antonin_scalia,scotus_justice,1295.08,1302.005,"I think whether he has to say that or not has a lot to do with -- with when the effective date ought to be, it seems to me."
+2015.14-613,1,19038,curtis_e_gannon,,1302.005,1317.675,"Well, we think that the reason that this counts as being an act that should be imputed to the employer is because it is forced by the circumstances. And we think that the doctrine itself is self-limiting."
+2015.14-613,1,15049,antonin_scalia,scotus_justice,1334.24,1335.65,But he doesn't have to say that.
+2015.14-613,1,19038,curtis_e_gannon,,1335.65,1336.83,He doesn't have to say that --
+2015.14-613,1,15049,antonin_scalia,scotus_justice,1336.83,1338.37,He doesn't have to say I can't take this anymore --
+2015.14-613,1,19038,curtis_e_gannon,,1338.37,1338.9,-- on the day --
+2015.14-613,1,15049,antonin_scalia,scotus_justice,1338.9,1348.05,"He just has to quit or say I'm quitting at the end of this term of school, and then later say, oh, the reason I quit was it was I just couldn't take it anymore."
+2015.14-613,1,19038,curtis_e_gannon,,1348.05,1349.68,And he has to do that within 45 days.
+2015.14-613,1,15049,antonin_scalia,scotus_justice,1349.68,1352.465,Within 45 days after -- after when?
+2015.14-613,1,19038,curtis_e_gannon,,1352.465,1353.15,After the date --
+2015.14-613,1,15049,antonin_scalia,scotus_justice,1353.15,1354.34,After his giving the notice.
+2015.14-613,1,19038,curtis_e_gannon,,1354.34,1362.35,"After the date of notification. Just as, like -- as I was saying before, just as if it were when the employer said, you're fired, your last day of work is two weeks from today."
+2015.14-613,1,15049,antonin_scalia,scotus_justice,1411.51,1424.395,"Of course, I would -- I would take the term constructive discharge to refer not to the notice of quitting, but rather to the acts of the employer that forced the quitting."
+2015.14-613,1,19038,curtis_e_gannon,,1431.82,1436.63,"I -- I take the point, Justice Scalia, but that's not enough to allege a constructive discharge."
+2015.14-613,1,15084,ruth_bader_ginsburg,scotus_justice,1448.68,1455.6,"And that -- that works the same way with eviction and other cases where you have constructive, that the person has to act --"
+2015.14-613,1,19038,curtis_e_gannon,,1455.6,1457.02,That -- that's correct.
+2015.14-613,1,15049,antonin_scalia,scotus_justice,1481.66,1483.61,"What do you mean, constructively? I don't understand."
+2015.14-613,1,19038,curtis_e_gannon,,1490.055,1495.01,The -- it -- that's -- that's one version of constructive eviction.
+2015.14-613,1,15049,antonin_scalia,scotus_justice,1512.815,1514.615,But in fact you don't have to get out.
+2015.14-613,1,19038,curtis_e_gannon,,1514.915,1516.06,In fact you had not yet --
+2015.14-613,1,15049,antonin_scalia,scotus_justice,1516.06,1521.87,You can bring -- you can bring a claim against your landlord for constructive eviction while you're still occupying the premises.
+2015.14-613,1,19038,curtis_e_gannon,,1521.87,1529.43,"Well, the Court recognized in the Mac's Shell decision that's more of an innovation that -- that it wasn't the way this was classically handled."
+2015.14-613,1,15094,elena_kagan,scotus_justice,1577.13,1580.08,Do the predicate acts have to be independently actionable or not?
+2015.14-613,1,19038,curtis_e_gannon,,1580.08,1582.25,I don't think that they have to be.
+2015.14-613,1,15084,ruth_bader_ginsburg,scotus_justice,1661.7,1673.18,"Can you explain the difference between your position and the Petitioner's? Why do you date the constructive discharge from, what is it, December 16th?"
+2015.14-613,1,19038,curtis_e_gannon,,1673.18,1673.88,Yes.
+2015.14-613,1,15084,ruth_bader_ginsburg,scotus_justice,1699.9,1701.82,But he was given a choice.
+2015.14-613,1,19038,curtis_e_gannon,,1701.82,1702.59,We don't think --
+2015.14-613,1,15084,ruth_bader_ginsburg,scotus_justice,1702.59,1703.66,He was given a choice of the --
+2015.14-613,1,19038,curtis_e_gannon,,1703.66,1706.97,"That's -- that is not the way we think the agreement reads, Justice Ginsburg."
+2015.14-613,1,15084,ruth_bader_ginsburg,scotus_justice,1720.87,1721.83,But then read on.
+2015.14-613,1,19038,curtis_e_gannon,,1721.83,1729.47,And the next sentence says -- it doesn't say Mr. Green has an option of not retiring if he decides to change his mind and then report to -- for duty.
+2015.14-613,1,15068,samuel_a_alito_jr,scotus_justice,1735.91,1738.98,"Well, suppose he showed up in -- in Wyoming? What would you have done?"
+2015.14-613,1,19038,curtis_e_gannon,,1738.98,1740.36,Do you mean --
+2015.14-613,1,15068,samuel_a_alito_jr,scotus_justice,1740.36,1743.965,Wouldn't you have allowed him to take that job at the lower pay?
+2015.14-613,1,19038,curtis_e_gannon,,1743.965,1749.36,You mean if he had -- he had not taken all steps necessary to effect his resignation by March 31st? Then we think --
+2015.14-613,1,15068,samuel_a_alito_jr,scotus_justice,1749.36,1749.42,No.
+2015.14-613,1,19038,curtis_e_gannon,,1749.66,1751.77,We think he would have been in breach of the agreement.
+2015.14-613,1,15131,sonia_sotomayor,scotus_justice,1762.65,1764.43,It's not a breach.
+2015.14-613,1,19038,curtis_e_gannon,,1764.43,1765.46,Pardon?
+2015.14-613,1,15131,sonia_sotomayor,scotus_justice,1765.46,1772.76,"The agreement says if he hasn't taken all the steps, if it does not occur, Mr. Green will report for duty."
+2015.14-613,1,19038,curtis_e_gannon,,1772.76,1773.34,"Yes, it does --"
+2015.14-613,1,15131,sonia_sotomayor,scotus_justice,1773.34,1774.45,In Wyoming.
+2015.14-613,1,19038,curtis_e_gannon,,1774.45,1778.74,And it doesn't say that he has a choice of doing that.
+2015.14-613,1,15131,sonia_sotomayor,scotus_justice,1783.845,1786.405,Why not have the second sentence there?
+2015.14-613,1,19038,curtis_e_gannon,,1786.405,1787.08,Pardon?
+2015.14-613,1,15131,sonia_sotomayor,scotus_justice,1787.08,1792.16,Why have the second sentence there at all? Why are you giving him an option if he's -- if he hasn't retired?
+2015.14-613,1,19038,curtis_e_gannon,,1792.16,1793.93,We do not read this as giving him an option.
+2015.14-613,1,15131,sonia_sotomayor,scotus_justice,1794.79,1796.67,"There was not reached by the court below, correct?"
+2015.14-613,1,19038,curtis_e_gannon,,1796.67,1798.17,This was reached by the district court.
+2015.14-613,1,15131,sonia_sotomayor,scotus_justice,1893.125,1901.87,"Frankly, I'm a little less moved by that because, from my personal experience, those stale claims generally don't make it past a motion to dismiss."
+2015.14-613,1,19038,curtis_e_gannon,,1901.87,1903.665,"Well, that -- that --"
+2015.14-613,1,15131,sonia_sotomayor,scotus_justice,1903.665,1910.59,"Very few of them are appealed because if they're really that stale, those constructive discharge claims are usually thrown out."
+2015.14-613,1,19038,curtis_e_gannon,,1910.59,1911.05,"Well, I --"
+2015.14-613,1,15131,sonia_sotomayor,scotus_justice,1911.05,1913.145,The case is litigated on other grounds.
+2015.14-613,1,19038,curtis_e_gannon,,1913.145,1929.51,"Well, I think that's right, but -- and I think that -- but it's also the case that in many cases, in fact in most cases, there isn't going to be very much time between these two dates, and therefore it usually isn't going to be that dispositive. In this case, we think that the things happened on the same day."
+2015.14-613,1,15086,john_g_roberts_jr,scotus_justice,1969.355,1979.405,"Thank you, counsel. Ms. Carroll."
+2015.14-613,2,18598,catherine_ma_carroll,,1979.405,2005.835,"Mr. Chief Justice, and may it please the Court: We agree that the Ricks rule should apply here as it does to any other kind of claim under Title VII, and like any other kind of claim under Title VII, a constructive-discharge claim has to challenge actionable conduct by the employer. In applying the EEOC's regulation here, we have to ask, what was that actionable conduct, that matter alleged to be discriminatory, and when did it occur."
+2015.14-613,2,15094,elena_kagan,scotus_justice,2005.835,2009.49,"Well, you just sort of made those two synonymous."
+2015.14-613,2,18598,catherine_ma_carroll,,2019.375,2033.975,"Justice Kagan, I think that the EEOC has, by equating the Federal sector provision with the private sector provision, has suggested that both of these provisions do focus on the alleged unlawful employment practice."
+2015.14-613,2,15094,elena_kagan,scotus_justice,2083.04,2095.9,"I mean, this is an unusual kind of claim and it's an unusual kind of claim because there are predicate acts and then there is also clearly a resignation which clearly has to occur before the suit can be brought."
+2015.14-613,2,18598,catherine_ma_carroll,,2119.45,2136.76,"I think that that's difficult to reconcile with how Morgan treated the word ""practice."" Always bearing in mind, as the Court has explained in a case like Graham County, for instance, the kind of ambiguity that triggers resort to a default accrual rule is ambiguity in the literal text of the provision."
+2015.14-613,2,15084,ruth_bader_ginsburg,scotus_justice,2174.89,2192.785,What about that he hasn't got a claim? You can't come to court with a claim for constructive discharge until you've said I'm discharged. So he -- you're suggesting that the time runs from a time when he does not yet have a ripe claim.
+2015.14-613,2,18598,catherine_ma_carroll,,2192.785,2196.18,"Well, we does not have a ripe claim for constructive discharge."
+2015.14-613,2,15113,anthony_m_kennedy,scotus_justice,2203.35,2221.78,But then are you saying that constructive discharge will -- will lead to a cause of action only when it is so close to the precipitating event that they are almost contemporaneous?
+2015.14-613,2,18598,catherine_ma_carroll,,2221.78,2224.92,"I'm not 100 percent sure I followed the question, but let me --"
+2015.14-613,2,15113,anthony_m_kennedy,scotus_justice,2224.92,2235.234,"When, under your view, when is there a constructive discharge that itself leads to triggering the statute of limitations?"
+2015.14-613,2,18598,catherine_ma_carroll,,2235.234,2251.95,"I think in a constructive discharge case, and to be clear, that labeled can be applied to a range of different fact patterns it will often be the case that the predicate conduct that precipitates the resignation is itself alleged to be discriminatory."
+2015.14-613,2,15113,anthony_m_kennedy,scotus_justice,2273.95,2275.17,They're almost contemporaneous.
+2015.14-613,2,18598,catherine_ma_carroll,,2275.17,2291.38,"They would be contemporaneous. But in a case like this, it's much clearer to see the conceptual distinction between Mr. Green's own individual independent decision to resign and his employer's predicate discriminatory conduct."
+2015.14-613,2,15139,stephen_g_breyer,scotus_justice,2307.07,2311.935,"Well, the matter complained of here is a constructive discharge."
+2015.14-613,2,18598,catherine_ma_carroll,,2325.415,2328.57,I think that's generally true of tort suites --
+2015.14-613,2,15139,stephen_g_breyer,scotus_justice,2328.57,2328.72,All right.
+2015.14-613,2,18598,catherine_ma_carroll,,2371.15,2382.44,"In this case, the discrimination, the retaliation I should say, that was challenged was the forcing -- forcing of Mr. Green into the settlement agreement in December."
+2015.14-613,2,15139,stephen_g_breyer,scotus_justice,2399.2,2404.025,"Of course, he could have, but we're talking only about the constructive discharge part."
+2015.14-613,2,18598,catherine_ma_carroll,,2409.79,2410.55,"That's correct, but --"
+2015.14-613,2,15139,stephen_g_breyer,scotus_justice,2410.55,2428.3,"I'm only talking about one of them, the one that we're talking about is the constructive-discharge claim. So I go back to my question about negligence, because that was the first course I took in law school so I remember that, but the -- the fact is why should we treat this any differently?"
+2015.14-613,2,18598,catherine_ma_carroll,,2428.3,2439.08,"So, in general, we don't this should be analyzed any differently than any other kind of claim, which is that we have to identify what is the alleged unlawful practice and when did it occur."
+2015.14-613,2,15139,stephen_g_breyer,scotus_justice,2439.92,2450.645,"Because you have to, as you said, in the a tort case it's not just that the person behaved negligently, but that negligence had to result in a harm."
+2015.14-613,2,18598,catherine_ma_carroll,,2450.645,2451.26,And --
+2015.14-613,2,15139,stephen_g_breyer,scotus_justice,2451.26,2457.13,So I'm just -- that's the only simpleminded analogy I'm drawing and I wonder why it doesn't work.
+2015.14-613,2,18598,catherine_ma_carroll,,2457.13,2464.78,I think it does work because in this case there was retaliation alleged in December that harmed Mr. Green at that time.
+2015.14-613,2,15068,samuel_a_alito_jr,scotus_justice,2472.77,2479.62,Suppose there was evidence that the employer had a continuing intent to force Mr. Green's resignation.
+2015.14-613,2,18598,catherine_ma_carroll,,2498.765,2499.43,I think if --
+2015.14-613,2,15139,stephen_g_breyer,scotus_justice,2499.43,2504.31,Wouldn't it run from the date of discharge because there would be an intent at -- as of that date?
+2015.14-613,2,18598,catherine_ma_carroll,,2504.31,2523.23,"But if I'm understanding the hypothetical correctly, that sounds to me like a case that would be analyzed under the Court's decision in Morgan, where you have an environment of hostility that is composed of many individual acts, some of which might not be independently actionable in and of themselves, joined with a discriminatory --"
+2015.14-613,2,15068,samuel_a_alito_jr,scotus_justice,2523.23,2524.37,Let me clarify it.
+2015.14-613,2,18598,catherine_ma_carroll,,2549.345,2560.01,I still think Morgan answers that question because Morgan says there has to be an act contributing to the hostile work environment that occurs within the 40 -- within the charging period.
+2015.14-613,2,15139,stephen_g_breyer,scotus_justice,2576.11,2602.465,"That's the -- now, I'm getting this more clearly because your response to my question, which is now relevant to this too, is, look, the plaintiff was hurt on the very day that last act was performed, indeed he suffered because he saw the act being performed, and that was one of the things that led him later to quit. So let's count that as the injury."
+2015.14-613,2,18598,catherine_ma_carroll,,2646.12,2659.355,"Right, I understand that contention, but I think that the so-called difficulty is no different than the difficulty, so-called, that would arise in a hostile work environment case where there was no resignation."
+2015.14-613,2,15139,stephen_g_breyer,scotus_justice,2660.34,2660.7,"Yes, that's true."
+2015.14-613,2,18598,catherine_ma_carroll,,2660.7,2666.115,-- figure out what -- were there acts within the 45-day period that contributed to the environment.
+2015.14-613,2,15094,elena_kagan,scotus_justice,2673.62,2682.815,"There's something more than just simplicity, which is, you know, suppose you had a case where somebody is first demoted and then somebody is fired."
+2015.14-613,2,18598,catherine_ma_carroll,,2694.64,2695.48,That's right.
+2015.14-613,2,15094,elena_kagan,scotus_justice,2695.48,2708.39,"And the power of the constructive-discharge claim is to say the exact same thing really has happened here, that once you lose the job, it's more than the stakes have been raised."
+2015.14-613,2,18598,catherine_ma_carroll,,2713.12,2724.275,"Well, the analysis when there is a demotion followed by a termination is not simply that there's been a second separate injury, but that there's been a second separate violation of Title VII by the employer."
+2015.14-613,2,15094,elena_kagan,scotus_justice,2805.3,2838.315,"But if we're going to say, yes, these are different and for some purposes we're going to look to the fiction and for other purposes we're not going to look to the fiction, it seems to me as though here it makes sense to take account of the fiction in the sense that the person cannot bring a claim until the resignation has happened. So that's the kind of paradigmatic case in which, boy, there is something really powerful pushing that, yes, you can -- you should recognize the constructive discharge as a discharge in this case."
+2015.14-613,2,18598,catherine_ma_carroll,,2838.315,2847.825,"But the limitations period here does not run from the accrual of the claim, it runs from the time of the matter alleged to be discriminatory, the unlawful employment action."
+2015.14-613,2,15049,antonin_scalia,scotus_justice,2956.24,2959.98,The language we're focusing on here is the language of a regulation.
+2015.14-613,2,18598,catherine_ma_carroll,,2964.535,2998.18,"The cause of action for Federal employees in 2000e-16(c), if I have that right, requires that, it extends a cause of action to Federal employees who have been aggrieved by the final decision of an agency that has been produced through this administrative process that is all a design of -- of EEOC regulations. So there, the -- unlike in the private sector provision, the charging period here is purely a creature of the regulation."
+2015.14-613,2,15086,john_g_roberts_jr,scotus_justice,3009.4,3012.19,You say this isn't going to be a problem much.
+2015.14-613,2,18598,catherine_ma_carroll,,3030.985,3036.27,But this rule doesn't require you to quit in order to be able to raise and seek resolution.
+2015.14-613,2,15086,john_g_roberts_jr,scotus_justice,3036.27,3041.565,"Oh, sure, it doesn't require you to quit, it just requires you to tell your boss, you know, I can't take this anymore."
+2015.14-613,2,18598,catherine_ma_carroll,,3049.09,3049.71,It can.
+2015.14-613,2,15086,john_g_roberts_jr,scotus_justice,3061.66,3065.94,I suspect most employers could figure out who is complaining in these types of situations.
+2015.14-613,2,18598,catherine_ma_carroll,,3065.94,3078.15,"Well, be that as it may, I think the policy underlying this provision is the recognition that the purpose of all of this is to try to prevent discrimination and to correct it as soon as it has occurred."
+2015.14-613,2,15086,john_g_roberts_jr,scotus_justice,3109.71,3113.135,What -- what is your position on the government's stance?
+2015.14-613,2,18598,catherine_ma_carroll,,3113.135,3116.27,On the legal question or the factual --
+2015.14-613,2,15086,john_g_roberts_jr,scotus_justice,3116.27,3117.38,Factual question.
+2015.14-613,2,18598,catherine_ma_carroll,,3117.38,3122.24,We haven't taken a position on that because the court of appeals didn't -- didn't find it necessary to do so.
+2015.14-613,2,15086,john_g_roberts_jr,scotus_justice,3123.08,3131.03,I think it's an example of the difficulty of trying to figure out when the discrimination occurred if you have this last-act kind of thing.
+2015.14-613,2,18598,catherine_ma_carroll,,3131.03,3157.6,"Well, to the contrary, I think their dispute has a risen because they're trying to apply the date-of-resignation rule and are finding it difficult to agree on when that resignation occurred. As I -- as I said earlier, I think in our -- under the rule that the court of appeals adopted in this case, we think it asks the Court or the agency to engage in precisely the same inquiry that it would have to do whether -- even if there had not been a constructive discharge."
+2015.14-613,2,15084,ruth_bader_ginsburg,scotus_justice,3164.56,3175.94,"What do you do with Suders that seemed to distinguish two things; one was the hostile environment, and the second was the constructive discharge."
+2015.14-613,2,18598,catherine_ma_carroll,,3189.14,3197.69,May I respond? I think Suders recognized that Ms. Suders had to prove up both pieces.
+2015.14-613,2,15086,john_g_roberts_jr,scotus_justice,3223.66,3227.105,"Thank you, counsel. Mr. Wolfman, four minutes."
+2015.14-613,3,18166,brian_wolfman,,3227.105,3233.37,"Your Honor, if I might, I would like to begin where we ended."
+2015.14-613,3,15131,sonia_sotomayor,scotus_justice,3298.21,3299.13,I'm sorry.
+2015.14-613,3,18166,brian_wolfman,,3301.635,3302.16,Yes.
+2015.14-613,3,15131,sonia_sotomayor,scotus_justice,3302.16,3304.32,-- that was an open question.
+2015.14-613,3,18166,brian_wolfman,,3318.5,3319.74,That is not correct.
+2015.14-613,3,15139,stephen_g_breyer,scotus_justice,3363.59,3369.155,What is your response to her -- I think she's saying in most of these cases there is a hostile work environment.
+2015.14-613,3,18166,brian_wolfman,,3388.71,3389.0,Right.
+2015.14-613,3,15086,john_g_roberts_jr,scotus_justice,3431.795,3440.935,"Thank you, counsel. Ms. Carroll, this Court appointed you to brief and argue this case as an amicus curiae in support of the judgment below."

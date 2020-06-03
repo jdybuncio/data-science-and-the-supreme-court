@@ -1,0 +1,40 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1975.74-54,0,15073,warren_e_burger,scotus_justice,0.0,10.577,"We will hear arguments first this morning in number 74-54, Transamerican Freight Lines against Brada Miller Freight Systems."
+1975.74-54,0,17180,alphonso_h_voorhees,,12.918,15.996,Mr. Chief Justice and may it please the Court.
+1975.74-54,0,15045,harry_a_blackmun,scotus_justice,514.384,517.587,"Mr. Voorhees, let me clarify a couple of facts--"
+1975.74-54,0,17180,alphonso_h_voorhees,,517.587,518.674,"Mr. Justice Blackmun, yes."
+1975.74-54,0,15045,harry_a_blackmun,scotus_justice,518.674,529.395,Does the agreement provide that the lessee has the right to reject the driver furnished by the lesser?
+1975.74-54,0,17180,alphonso_h_voorhees,,530.809,555.431,"The agreement does not specifically provide that, in fact the agreement in this case, which is contained in the appendix to the petitioner’s brief, provides that the person operating the truck shall be Howard Hardrick, the employee of Brada Miller."
+1975.74-54,0,15045,harry_a_blackmun,scotus_justice,589.609,596.34,"As I understand it, the indemnification clause here does not apply to the lessee’s own negligence."
+1975.74-54,0,17180,alphonso_h_voorhees,,596.34,597.597,That is true.
+1975.74-54,0,15045,harry_a_blackmun,scotus_justice,597.597,602.197,Do you think the case would be different if it did?
+1975.74-54,0,17180,alphonso_h_voorhees,,602.197,605.343,No.
+1975.74-54,0,15141,william_h_rehnquist,scotus_justice,694.595,699.004,"What was the basis for Federal Jurisdiction in this case, Mr. Voorhees, a diversity?"
+1975.74-54,0,17180,alphonso_h_voorhees,,699.004,700.634,"It was diversity, Mr. Justice Rehnquist."
+1975.74-54,0,15141,william_h_rehnquist,scotus_justice,700.634,715.681,"I suppose that if the indemnity agreement had been invalid under the law of the state in which the accident occurred or the state which the case was tried, would that make it a different case?"
+1975.74-54,0,17180,alphonso_h_voorhees,,715.681,717.845,I think that that would.
+1975.74-54,0,15141,william_h_rehnquist,scotus_justice,733.719,741.045,Most states will allow indemnity agreements whether the person possibly negligence is seeking to recover from the person actively negligence.
+1975.74-54,0,17180,alphonso_h_voorhees,,741.045,751.491,"Yes, they do, and Michigan and Illinois, and I do not attempt to state which law I think would govern here but those are the two obvious States to look to."
+1975.74-54,0,15071,byron_r_white,scotus_justice,766.072,773.921,"You say the driver here would remain the employee of Brada, I take that he did."
+1975.74-54,0,17180,alphonso_h_voorhees,,787.209,795.047,"That, Mr. Justice White, that question, I will answer it but it is not involved, I contend in the issues before this Court."
+1975.74-54,0,15071,byron_r_white,scotus_justice,795.047,817.617,"It is not, but except for one thing, you say—I think it bears on the control of whether this is really a lessee’s operation or not, or whether the lesser is really just piggy-backing on the lessee’s authority?"
+1975.74-54,0,17180,alphonso_h_voorhees,,817.617,835.964,"If I may go in to a little history and going back years, this type of agreements I think generally fell into the category of what was known as the “independent contractor relationship.”"
+1975.74-54,0,15043,potter_stewart,scotus_justice,864.358,881.443,"Let me, let us assume there was no indemnity agreement, and the third person sued the lessee whose authority was being used and whose bill of lading had been issued I guess?"
+1975.74-54,0,17180,alphonso_h_voorhees,,889.106,894.716,"The third party, under the regulations, could recover against the lessee."
+1975.74-54,0,15043,potter_stewart,scotus_justice,895.969,899.141,"No, none of the regulations, so that is a federal question?"
+1975.74-54,0,17180,alphonso_h_voorhees,,899.141,899.837,Yes.
+1975.74-54,0,15043,potter_stewart,scotus_justice,899.837,902.026,So that is a question of federal?
+1975.74-54,0,17180,alphonso_h_voorhees,,902.026,903.357,Yes.
+1975.74-54,0,15043,potter_stewart,scotus_justice,903.357,912.528,"So that it is not respondeat superior, it is not the fact that he is an employee, it is just the fact that the Federal, the Federal Regulations says the lessee is responsible?"
+1975.74-54,0,17180,alphonso_h_voorhees,,912.528,915.412,"That is correct, that is correct."
+1975.74-54,0,15043,potter_stewart,scotus_justice,919.197,926.516,"Well, I guess the indemnity agreement be irrelevant in terms—as far as the liability of the lessee under the Regulations Commission."
+1975.74-54,0,17180,alphonso_h_voorhees,,926.516,937.531,"As far as the liability of the lessee and it was in this case there was no question that the lessee was liable, and the lessee has accepted the responsibility and paid."
+1975.74-54,1,31594,joseph_l_leritz,,1356.004,1359.505,Mr. Chief Justice and may it please the Court.
+1975.74-54,1,15141,william_h_rehnquist,scotus_justice,1689.978,1697.902,You are talking now about the responsibility of the lessee and lesser inter say-say and not about responsibility to the ultimate plaintiff.
+1975.74-54,1,31594,joseph_l_leritz,,1697.902,1705.263,"Well I think both, Mr. Justice Rehnquist, as I hope to explain."
+1975.74-54,1,15141,william_h_rehnquist,scotus_justice,1760.172,1763.235,Responsible to an injured third party?
+1975.74-54,1,31594,joseph_l_leritz,,1763.235,1766.027,"Yes Sir, responsible to an injured third party."
+1975.74-54,1,15141,william_h_rehnquist,scotus_justice,1766.027,1781.968,"Well so, supposing you had a single truck owned by an individual who drove it himself, and he leased it say the Transamerican in this case."
+1975.74-54,1,31594,joseph_l_leritz,,1795.425,1813.915,"Yes Sir, they could, against him in the same way in that in this case, Transamerican could obtain indemnity against the driver Hardrick, but you see they are not attempting to obtain indemnity from the driver Hardrick but from Brada Miller who is Hardrick’s general employer."
+1975.74-54,2,17180,alphonso_h_voorhees,,2818.026,2820.595,Mr. Chief Justice and may it please the Court.
+1975.74-54,2,15073,warren_e_burger,scotus_justice,3030.835,3031.598,Thank you gentleman.

@@ -1,0 +1,229 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2008.07-1529,0,15086,john_g_roberts_jr,scotus_justice,0.0,8.17,"We will hear argument first this morning in Case 07-1529, Montejo v. Louisiana."
+2008.07-1529,0,21656,donald_b_verrilli_jr,,8.939,28.667,"Mr. Chief Justice, and may it please the Court: The question in this case is whether Petitioner Montejo should be denied the Sixth Amendment protections of Michigan v. Jackson because he silently acquiesced in the appointment of counsel at his initial hearing, rather than affirmatively accepting the appointment."
+2008.07-1529,0,15049,antonin_scalia,scotus_justice,75.814,99.347,I thought that the rationale of Jackson was that the confession is simply deemed to be coerced if the defendant has expressed -- has expressed -- his desire to have counsel present or even to be represented by counsel.
+2008.07-1529,0,21656,donald_b_verrilli_jr,,140.84,151.295,"--Well, I don't -- without taking up at the moment the question whether Jackson was extravagant, it does seem to me, Your Honor, that your question does get to the heart of the matter."
+2008.07-1529,0,15049,antonin_scalia,scotus_justice,164.303,164.703,Right.
+2008.07-1529,0,21656,donald_b_verrilli_jr,,165.303,171.54,"And the question here, it seems to me, Your Honor, is what does one do when a defendant is automatically appointed counsel?"
+2008.07-1529,0,15049,antonin_scalia,scotus_justice,177.36,177.993,Why?
+2008.07-1529,0,21656,donald_b_verrilli_jr,,178.743,184.53,--And the other option is to deem that the defendant has decided to go it alone.
+2008.07-1529,0,15086,john_g_roberts_jr,scotus_justice,186.799,195.738,"I'm sorry to interrupt, but isn't there a third, which is that you just don't assume anything and you wait to see if he makes -- says,"
+2008.07-1529,0,21656,donald_b_verrilli_jr,,211.529,229.223,"--I think the problem, Mr. Chief Justice, is that in the -- it is an either/or choice because, if you -- if the defendant is deemed to have elected to rely on counsel on the basis of the appointment, then the police may not initiate interrogation."
+2008.07-1529,0,15086,john_g_roberts_jr,scotus_justice,230.675,231.142,Right.
+2008.07-1529,0,21656,donald_b_verrilli_jr,,239.715,240.065,"--Well, I don't think so."
+2008.07-1529,0,15084,ruth_bader_ginsburg,scotus_justice,260.444,263.413,"Mr. Verrilli, the defendant himself could say,"
+2008.07-1529,0,21656,donald_b_verrilli_jr,,271.086,274.288,"--That's absolutely the critical point, Justice Ginsburg."
+2008.07-1529,0,15113,anthony_m_kennedy,scotus_justice,314.846,319.214,I just want to make sure I understood your answer to Justice Ginsburg's question.
+2008.07-1529,0,21656,donald_b_verrilli_jr,,329.939,331.706,"Yes, if he initiates."
+2008.07-1529,0,15113,anthony_m_kennedy,scotus_justice,333.608,334.141,All right.
+2008.07-1529,0,21656,donald_b_verrilli_jr,,339.794,341.996,"--I don't think so, Justice Kennedy."
+2008.07-1529,0,15113,anthony_m_kennedy,scotus_justice,356.923,367.379,"Well, I'm wondering if there is some further rule, could the prosecutor talk to the defendant if the defendant was in the cell and the prosecutor walked by, saying,"
+2008.07-1529,0,21656,donald_b_verrilli_jr,,371.516,372.116,Yes.
+2008.07-1529,0,15113,anthony_m_kennedy,scotus_justice,375.218,375.568,Really?
+2008.07-1529,0,21656,donald_b_verrilli_jr,,376.085,376.836,If the defendant--
+2008.07-1529,0,15113,anthony_m_kennedy,scotus_justice,376.836,378.669,--The lawyer can talk to a client for another lawyer?
+2008.07-1529,0,21656,donald_b_verrilli_jr,,378.669,386.108,"--Well, if the -- if the defendant initiates, then the defendant is -- then the bar of Jackson doesn't apply."
+2008.07-1529,0,15113,anthony_m_kennedy,scotus_justice,387.208,398.5,"Well, again, if that's -- if that's the principle that you're operating on and that you'd concede, then I think the Miranda warnings would suffice to give all the protection you need."
+2008.07-1529,0,21656,donald_b_verrilli_jr,,398.5,416.544,"--I don't -- apart from the question of whether you can reach that result without overruling the core holding of Jackson here, it does seem to me, with all due respect, we don't agree with that because, on the one hand, we do think that free choice is preserved in the existing regime and, on the other, hand we don't think Miranda can give you all the protection you need."
+2008.07-1529,0,15049,antonin_scalia,scotus_justice,464.192,470.346,"It is that, whether or not the defendant initiates the contact."
+2008.07-1529,0,21656,donald_b_verrilli_jr,,506.804,534.371,"Well, what the -- we're applying -- the question here is whether defendants in this category, the category that Mr. Montejo is in, automatic appointment, are entitled to the same Sixth Amendment protection as defendants who are in the category of -- who are brought to trial in States where they -- you have this colloquy as part of the initial hearing where the defendant is asked."
+2008.07-1529,0,15049,antonin_scalia,scotus_justice,534.371,551.916,"Why couldn't we solve your practical problem that we don't know in many States whether the defendant accepted appointment or not, by simply saying it is not enough to simply accept appointment of counsel; you must have requested counsel."
+2008.07-1529,0,21656,donald_b_verrilli_jr,,555.368,556.252,Well--
+2008.07-1529,0,15049,antonin_scalia,scotus_justice,556.252,557.32,--You must have requested it.
+2008.07-1529,0,21656,donald_b_verrilli_jr,,564.39,565.759,"--Well, two things, Your Honor."
+2008.07-1529,0,15049,antonin_scalia,scotus_justice,617.358,623.512,What happens under Michigan v. Jackson if I have never requested counsel?
+2008.07-1529,0,21656,donald_b_verrilli_jr,,629.583,630.333,--Sure.
+2008.07-1529,0,15049,antonin_scalia,scotus_justice,634.154,637.189,"Is it clear from Michigan v. Jackson itself, or--"
+2008.07-1529,0,21656,donald_b_verrilli_jr,,637.189,655.15,"--Well, from cases applying it, because in that situation the person is deemed to assert the right to counsel by hiring a lawyer, just as by asking, and the question here is when you have an automatic appointment why should you treat that category of defendants any differently for purposes of applying the Jackson rule?"
+2008.07-1529,0,15084,ruth_bader_ginsburg,scotus_justice,655.15,681.051,"Mr. Verrilli, do I understand correctly that the scenario here was the defendant, uncounseled, was taken before a judicial officer who read him rather standard information, one piece of information was, I'm appointing a lawyer for you?"
+2008.07-1529,0,21656,donald_b_verrilli_jr,,687.538,689.906,"And that's the whole problem here, Justice Ginsburg."
+2008.07-1529,0,15084,ruth_bader_ginsburg,scotus_justice,706.333,709.618,He didn't get -- he didn't in fact get a lawyer.
+2008.07-1529,0,21656,donald_b_verrilli_jr,,715.539,717.991,The Office of Indigent Counsel is appointed to represent you.
+2008.07-1529,0,15084,ruth_bader_ginsburg,scotus_justice,717.991,721.51,"--Right, and the actual lawyer didn't show up until later."
+2008.07-1529,0,21656,donald_b_verrilli_jr,,721.51,721.893,Right.
+2008.07-1529,0,15086,john_g_roberts_jr,scotus_justice,784.466,787.251,"Well, but the rule you're asking for would apply across the board."
+2008.07-1529,0,21656,donald_b_verrilli_jr,,810.533,815.402,"--If the police initiated the interrogation, yes, because I think it gets to the heart of the--"
+2008.07-1529,0,15086,john_g_roberts_jr,scotus_justice,815.402,833.13,"That's a violation, even though he knows that if he wanted a lawyer he could request one, he knows one's been appointed for him, and he's been warned that if he doesn't want to talk without a lawyer he doesn't have to, and he's in the middle of a conversation that he initiated, and the police says, do you want to keep talking?"
+2008.07-1529,0,21656,donald_b_verrilli_jr,,835.066,836.932,"--I'm sorry, Mr. Chief Justice."
+2008.07-1529,0,15086,john_g_roberts_jr,scotus_justice,839.97,844.005,"Early on, before the lawyer was appointed, he's given Miranda warnings and he says: I want to talk."
+2008.07-1529,0,21656,donald_b_verrilli_jr,,851.125,855.145,"--If the police initiated the interrogation, it's a violation."
+2008.07-1529,0,15086,john_g_roberts_jr,scotus_justice,855.145,858.764,"Well, I'm trying to -- which stage are you talking about, before the lawyer was appointed or after?"
+2008.07-1529,0,21656,donald_b_verrilli_jr,,872.072,881.195,"No, I think that in that situation the defendant has initiated and then you've got the kind of free choice that the law respects, and that's where the line is drawn here."
+2008.07-1529,0,15086,john_g_roberts_jr,scotus_justice,881.863,884.197,How is he -- where is the initiation?
+2008.07-1529,0,21656,donald_b_verrilli_jr,,891.502,891.968,--It's at the outset.
+2008.07-1529,0,15086,john_g_roberts_jr,scotus_justice,891.968,892.568,At the outset.
+2008.07-1529,0,21656,donald_b_verrilli_jr,,892.568,893.27,"At the outset, it seems to me."
+2008.07-1529,0,15086,john_g_roberts_jr,scotus_justice,895.337,896.222,Isn't that what happened here?
+2008.07-1529,0,21656,donald_b_verrilli_jr,,897.922,899.591,"No, it isn't what happened here at all."
+2008.07-1529,0,15113,anthony_m_kennedy,scotus_justice,955.595,957.628,But wouldn't that be a Miranda problem?
+2008.07-1529,0,21656,donald_b_verrilli_jr,,957.628,959.897,"Well, I don't -- well, Moran says no."
+2008.07-1529,0,15113,anthony_m_kennedy,scotus_justice,959.897,960.999,Miranda.
+2008.07-1529,0,21656,donald_b_verrilli_jr,,960.999,968.236,"Well, Moran says that a Miranda waiver is valid despite that kind of deception."
+2008.07-1529,0,15113,anthony_m_kennedy,scotus_justice,985.13,988.232,"You think, given Moran, that there was no Miranda violation here?"
+2008.07-1529,0,21656,donald_b_verrilli_jr,,988.232,991.767,"Well, I think it would be hard, given Moran, to say that there was."
+2008.07-1529,0,15060,john_paul_stevens,scotus_justice,1000.29,1009.396,"Mr. Verrilli, is it part of your assumption that at the time the police were doing the interrogating that they knew he had been appointed a lawyer?"
+2008.07-1529,0,21656,donald_b_verrilli_jr,,1009.396,1013.013,"Well, I think that's a bit complicated, Justice Stevens."
+2008.07-1529,0,15060,john_paul_stevens,scotus_justice,1013.013,1014.447,That's why I'm interested in your comment.
+2008.07-1529,0,21656,donald_b_verrilli_jr,,1014.447,1015.465,But here's my best way to work through the facts.
+2008.07-1529,0,15060,john_paul_stevens,scotus_justice,1039.548,1044.819,Do you presume -- do you argue that we should presume that the entire police force is aware of what happened in court?
+2008.07-1529,0,21656,donald_b_verrilli_jr,,1044.819,1049.287,"--Well, I think -- I think under Jackson, Justice Stevens, they are charged with the knowledge."
+2008.07-1529,0,15068,samuel_a_alito_jr,scotus_justice,1089.264,1095.584,"Mr. Verrilli, do you think that Michigan v. Jackson is immune from being reexamined at this point?"
+2008.07-1529,0,21656,donald_b_verrilli_jr,,1095.584,1100.219,"I think it ought not be reexamined here, Justice Alito, for several reasons."
+2008.07-1529,0,15068,samuel_a_alito_jr,scotus_justice,1112.296,1118.783,"Well, if we were no longer to adhere to that rule on issues of constitutional criminal procedure?"
+2008.07-1529,0,21656,donald_b_verrilli_jr,,1118.783,1125.437,"I think it's quite important that the Court do so, and there was a strong consensus in Dickerson that the Court do so."
+2008.07-1529,0,15049,antonin_scalia,scotus_justice,1182.19,1183.059,--We wouldn't be saying that.
+2008.07-1529,0,21656,donald_b_verrilli_jr,,1211.21,1213.329,You would be overruling Jackson in that regard.
+2008.07-1529,0,15049,antonin_scalia,scotus_justice,1213.329,1214.912,"That's true, but not much else."
+2008.07-1529,0,21656,donald_b_verrilli_jr,,1214.912,1221.6,"And in a case in which it seems to me manifestly not appropriate to do so, given the lack of consideration given to this by the Respondent--"
+2008.07-1529,0,15049,antonin_scalia,scotus_justice,1221.6,1222.4,That's a different question.
+2008.07-1529,0,21656,donald_b_verrilli_jr,,1222.4,1225.302,"--And -- well, this is serious business."
+2008.07-1529,0,15042,david_h_souter,scotus_justice,1241.179,1252.12,"Well, Mr. Verrilli, you have spoken of -- of overruling a bright line, but I think there is something else that would be involved in the overruling."
+2008.07-1529,0,21656,donald_b_verrilli_jr,,1344.545,1346.331,"That is absolutely correct, Justice Souter."
+2008.07-1529,0,15049,antonin_scalia,scotus_justice,1374.749,1381.42,You have to assume that his voluntary relinquishment of it is somehow coerced.
+2008.07-1529,0,21656,donald_b_verrilli_jr,,1401.482,1406.703,"Well, I think -- I think the facts of this case make it quite clear that it's a very serious risk."
+2008.07-1529,0,15086,john_g_roberts_jr,scotus_justice,1437.841,1443.828,"Again, you are arguing the facts of a particular case, and we are looking at a rule that is going to apply across the board."
+2008.07-1529,0,21656,donald_b_verrilli_jr,,1465.408,1471.645,"--No, you have -- what you have is a right to rely on the assistance of your lawyer, and you have -- and -- and it's critical."
+2008.07-1529,0,15086,john_g_roberts_jr,scotus_justice,1473.097,1489.024,"A right that you can relinquish, a right that you can waive, and all that's being suggested is that it is not totally determinative whether the police say: Do you want to keep talking, or if the defendant says: I want to keep talking."
+2008.07-1529,0,21656,donald_b_verrilli_jr,,1489.024,1491.559,--But Jackson drew a clear line.
+2008.07-1529,0,15086,john_g_roberts_jr,scotus_justice,1503.015,1503.699,"Right, and whether or--"
+2008.07-1529,0,21656,donald_b_verrilli_jr,,1503.699,1505.282,--criminal process.
+2008.07-1529,0,15086,john_g_roberts_jr,scotus_justice,1505.282,1516.84,"--whether or not your -- your dialogue with my colleagues about overruling Jackson -- putting that to one side, what you are arguing is an extension of Jackson from the context in which it arose to this context."
+2008.07-1529,0,21656,donald_b_verrilli_jr,,1516.84,1527.747,"Well, I think two -- two points on that, Mr. Chief Justice: First, I think it would actually break new ground for this Court to hold that the defendant who has a lawyer isn't entitled to the protection of Jackson."
+2008.07-1529,0,15086,john_g_roberts_jr,scotus_justice,1550.561,1551.346,"Thank you, counsel."
+2008.07-1529,1,33896,kathryn_w_landry,,1557.667,1581.782,"Mr. Chief Justice, and may it please the Court: The generous prophylactic rule of Michigan v. Jackson which imputed a defendant's request for counsel in one forum, i.e., his arraignment, to another forum of post-attachment custodial interrogation should not be expanded in this case to a defendant who has done nothing whatsoever to make such a request."
+2008.07-1529,1,15084,ruth_bader_ginsburg,scotus_justice,1581.782,1588.603,Did he have an opportunity to do it at the so-called 72-hour hearing?
+2008.07-1529,1,33896,kathryn_w_landry,,1600.161,1603.196,"Not that I'm aware of, Justice Ginsburg."
+2008.07-1529,1,15084,ruth_bader_ginsburg,scotus_justice,1603.196,1621.859,"And is that standard operating procedure at these 72-hour hearings: That the -- the defendant, who is there uncounseled is -- is just standing there, and the judicial officer says: I'm appointing counsel for you, and he goes on to the next thing he's telling him?"
+2008.07-1529,1,33896,kathryn_w_landry,,1621.859,1622.709,Yes.
+2008.07-1529,1,15084,ruth_bader_ginsburg,scotus_justice,1622.709,1624.242,Is that how it operates?
+2008.07-1529,1,33896,kathryn_w_landry,,1624.242,1626.144,"Yes, Your Honor, that is how it operates."
+2008.07-1529,1,15084,ruth_bader_ginsburg,scotus_justice,1663.769,1666.471,Did anybody ever tell him he needed to request?
+2008.07-1529,1,33896,kathryn_w_landry,,1685.967,1704.512,"--Because subsequently, when the police approached him, again there being no request prior to this that prohibited them from approaching him, they provided him with his Miranda rights, which Patterson says is sufficient in the context of a custodial interrogation that takes place post-attachment."
+2008.07-1529,1,15084,ruth_bader_ginsburg,scotus_justice,1736.15,1742.72,I would have no problem at all with the argument you are making if someone had told him that he needed to do that.
+2008.07-1529,1,33896,kathryn_w_landry,,1750.123,1761.265,"No, but when the police did approach him after that 72-hour hearing, they advised him again of his rights, including his right to counsel, and asked him if he wished to waive those rights."
+2008.07-1529,1,15042,david_h_souter,scotus_justice,1761.265,1762.048,Excuse me.
+2008.07-1529,1,33896,kathryn_w_landry,,1789.534,1803.425,"I would respectfully disagree, Your Honor, because in Patterson the Court said that the Miranda rights were sufficient to apprise a defendant of his post-attachment Sixth Amendment rights."
+2008.07-1529,1,15084,ruth_bader_ginsburg,scotus_justice,1811.864,1812.698,That's very puzzling.
+2008.07-1529,1,33896,kathryn_w_landry,,1851.358,1854.477,--I can't answer that question.
+2008.07-1529,1,15113,anthony_m_kennedy,scotus_justice,1862.464,1868.135,"Well, of course, they know -- it's a death case -- that counsel is going to be appoint -- or it's a murder case -- that counsel is going to be appointed."
+2008.07-1529,1,33896,kathryn_w_landry,,1873.038,1873.954,I understand.
+2008.07-1529,1,15139,stephen_g_breyer,scotus_justice,1877.406,1879.675,Just to clarify in my mind.
+2008.07-1529,1,33896,kathryn_w_landry,,1918.217,1919.083,"Yes, sir."
+2008.07-1529,1,15139,stephen_g_breyer,scotus_justice,1919.083,1919.752,Okay.
+2008.07-1529,1,33896,kathryn_w_landry,,1932.977,1933.677,That's correct.
+2008.07-1529,1,15139,stephen_g_breyer,scotus_justice,1933.677,1935.012,That's the law.
+2008.07-1529,1,33896,kathryn_w_landry,,1959.777,1961.929,"No, I don't think that you're wrong."
+2008.07-1529,1,15139,stephen_g_breyer,scotus_justice,1966.5,1966.716,Okay.
+2008.07-1529,1,15049,antonin_scalia,scotus_justice,1967.466,1967.966,Excuse me.
+2008.07-1529,1,15139,stephen_g_breyer,scotus_justice,1978.458,1979.708,--I'm not talking about that.
+2008.07-1529,1,15049,antonin_scalia,scotus_justice,1979.708,1982.493,"And that's not okay in civil cases, but it's perfectly okay here."
+2008.07-1529,1,15139,stephen_g_breyer,scotus_justice,1982.493,1988.564,I was trying to give a hypothetical and my hypothetical is a different one than you were just told.
+2008.07-1529,1,33896,kathryn_w_landry,,2005.775,2014.881,"--Yes, but I also thought that your hypothetical included the fact that he told the police that he had a lawyer, I retained one yesterday, which I think--"
+2008.07-1529,1,15139,stephen_g_breyer,scotus_justice,2014.881,2015.597,"That's correct, that's correct."
+2008.07-1529,1,33896,kathryn_w_landry,,2015.597,2016.916,--which I think goes further.
+2008.07-1529,1,15139,stephen_g_breyer,scotus_justice,2016.916,2017.699,Correct.
+2008.07-1529,1,33896,kathryn_w_landry,,2017.699,2019.099,To me that connotes under Jackson--
+2008.07-1529,1,15139,stephen_g_breyer,scotus_justice,2019.099,2020.451,"Correct, that's the conundrum of the case."
+2008.07-1529,1,33896,kathryn_w_landry,,2049.32,2050.07,--Well--
+2008.07-1529,1,15139,stephen_g_breyer,scotus_justice,2050.07,2054.689,The same whether you hired the lawyer or the same whether the lawyer was appointed?
+2008.07-1529,1,33896,kathryn_w_landry,,2064.397,2076.787,"--I would disagree with your last hypothetical because if a defendant goes out and hires a lawyer but never says anything to the police, he makes no request, no statement to them regarding the lawyer--"
+2008.07-1529,1,15139,stephen_g_breyer,scotus_justice,2076.787,2077.454,He tells some of the police.
+2008.07-1529,1,33896,kathryn_w_landry,,2081.775,2090.714,"--I think if he voices to the police some type of positive affirmation -- I have a lawyer, I got a lawyer yesterday -- to me that--"
+2008.07-1529,1,15060,john_paul_stevens,scotus_justice,2090.714,2091.881,Let me just interrupt.
+2008.07-1529,1,33896,kathryn_w_landry,,2099.653,2104.105,"--Well, I don't know that you can presume that."
+2008.07-1529,1,15060,john_paul_stevens,scotus_justice,2106.991,2110.759,"But it happens in 99 percent of the cases, I think, in a capital case."
+2008.07-1529,1,33896,kathryn_w_landry,,2114.762,2134.993,"And in this case, even if you presumed that they knew that he had a lawyer, I still don't think it overrides the key issue in Jackson as I see it, which is his request for counsel, some type of affirmation or statement or action to the police that he wants to deal through his counsel."
+2008.07-1529,1,15042,david_h_souter,scotus_justice,2134.993,2137.612,But that doesn't go to the issue in this case.
+2008.07-1529,1,33896,kathryn_w_landry,,2179.939,2184.224,"Yes, I think so."
+2008.07-1529,1,15042,david_h_souter,scotus_justice,2184.224,2185.843,So the issue is not request.
+2008.07-1529,1,15084,ruth_bader_ginsburg,scotus_justice,2213.593,2214.695,Louisiana.
+2008.07-1529,1,15042,david_h_souter,scotus_justice,2214.695,2221.182,"--as distinct from a case where they say you have got a lawyer, and he says, that's fine?"
+2008.07-1529,1,33896,kathryn_w_landry,,2221.182,2224.718,"Well, I would disagree with the characterization."
+2008.07-1529,1,15060,john_paul_stevens,scotus_justice,2236.525,2250.785,"Yes, but in this very case, if there had been a court reporter present -- present, and if the record showed that this defendant said, thank you, I would like to be represented, then he would have been protected, right?"
+2008.07-1529,1,33896,kathryn_w_landry,,2250.785,2251.918,--I think he would have under Jackson.
+2008.07-1529,1,15060,john_paul_stevens,scotus_justice,2251.918,2258.205,"Louisiana does not -- does not provide a transcript of all these hearings, does it?"
+2008.07-1529,1,33896,kathryn_w_landry,,2258.205,2259.141,"No, Your Honor."
+2008.07-1529,1,15060,john_paul_stevens,scotus_justice,2259.141,2267.747,"So what would -- what should we presume to be the general practice that happened, that most of them say, no, I don't want one or most of them will say, thank you?"
+2008.07-1529,1,33896,kathryn_w_landry,,2267.747,2272.132,"Well, probably in most cases nothing is said."
+2008.07-1529,1,15060,john_paul_stevens,scotus_justice,2279.97,2285.624,"He had no -- no way of knowing that being silent would produce a different result than saying, yes, I'm happy with the lawyer."
+2008.07-1529,1,33896,kathryn_w_landry,,2297.016,2309.074,"--No, because I think subsequently if he doesn't say anything when the police approach him, they tell him he has the right to counsel, and at that point he can exercise that right and say, I want a lawyer, I don't want to talk to you without a lawyer."
+2008.07-1529,1,15049,antonin_scalia,scotus_justice,2309.074,2313.359,"Ms. Landry, I don't really understand what you're arguing here."
+2008.07-1529,1,15084,ruth_bader_ginsburg,scotus_justice,2327.285,2330.987,Did the Louisiana Supreme Court say there has to be a request?
+2008.07-1529,1,15049,antonin_scalia,scotus_justice,2334.539,2335.474,"That's what I thought, too."
+2008.07-1529,1,33896,kathryn_w_landry,,2340.759,2342.545,"No, I think there does have to be a request--"
+2008.07-1529,1,15049,antonin_scalia,scotus_justice,2342.545,2344.128,"""Thank you"" is not a request."
+2008.07-1529,1,33896,kathryn_w_landry,,2344.128,2345.23,"--I'm sorry, I didn't finish my--"
+2008.07-1529,1,15042,david_h_souter,scotus_justice,2345.23,2348.365,You're not merely defending the State court here.
+2008.07-1529,1,33896,kathryn_w_landry,,2353.186,2361.756,"--No, we believe that the State court was correct when it held that some type of positive affirmation -- and that to me is the whole question--"
+2008.07-1529,1,15042,david_h_souter,scotus_justice,2361.756,2365.993,Then are you equating positive affirmation with request for a lawyer?
+2008.07-1529,1,33896,kathryn_w_landry,,2365.993,2367.026,--Yes.
+2008.07-1529,1,15042,david_h_souter,scotus_justice,2368.695,2378.984,"Then on your -- then on your theory, this individual's Sixth Amendment right would not have attached if he had stood in the courtroom and said, thank you very much, that's great."
+2008.07-1529,1,33896,kathryn_w_landry,,2378.984,2406.301,"--Well, whether the Sixth Amendment right attached I think is a different issue from whether the Jackson rule applies to then bar any police-initiated conversation with him, and the issue I think in this case is whether or not his silence -- the Petitioner has argued that the mere appointment of counsel with nothing further by this defendant constituted the request necessary under Jackson to invoke the rule."
+2008.07-1529,1,15113,anthony_m_kennedy,scotus_justice,2406.301,2412.288,"One of my concerns is that Jackson is a formality, but you're arguing for a formality on top of a formality."
+2008.07-1529,1,33896,kathryn_w_landry,,2434.902,2439.689,"But Your Honor, I'm not requiring a formalized request on the part of the defendant at the hearing."
+2008.07-1529,1,15113,anthony_m_kennedy,scotus_justice,2439.689,2445.926,"No, you're requiring some kind of ritualistic phrase to indicate that he -- that he accepts the appointment."
+2008.07-1529,1,33896,kathryn_w_landry,,2445.926,2446.659,No.
+2008.07-1529,1,15113,anthony_m_kennedy,scotus_justice,2446.659,2448.044,That he requests the appointment.
+2008.07-1529,1,33896,kathryn_w_landry,,2448.044,2448.744,"No, sir."
+2008.07-1529,1,15060,john_paul_stevens,scotus_justice,2464.471,2471.494,"I understood you to concede that if he had made that request at the 72-hour hearing, the outcome of this case would be different."
+2008.07-1529,1,33896,kathryn_w_landry,,2471.494,2475.112,"Yes, because Jackson says he can make the request--"
+2008.07-1529,1,15060,john_paul_stevens,scotus_justice,2475.112,2480.682,"The key time is did he make the request at the hearing, not at the time he was confronted by the officers."
+2008.07-1529,1,33896,kathryn_w_landry,,2480.682,2483.234,--I was just saying he can make it either time.
+2008.07-1529,1,15060,john_paul_stevens,scotus_justice,2486.103,2492.657,"But it's sufficient protection for him if you presume, as is true in most States, that he did make the request, then you would lose."
+2008.07-1529,1,33896,kathryn_w_landry,,2500.096,2507.35,--Clearly I would argue against any such presumption; that's the whole reason -- the key to Jackson was--
+2008.07-1529,1,15086,john_g_roberts_jr,scotus_justice,2507.35,2508.869,"No, no, I didn't understand you to be doing that."
+2008.07-1529,1,33896,kathryn_w_landry,,2513.487,2514.587,"--Yes, I do."
+2008.07-1529,1,15042,david_h_souter,scotus_justice,2514.587,2520.558,"But you're also arguing, it seems to me, that a request -- well, you're -- I think you're arguing two different things."
+2008.07-1529,1,33896,kathryn_w_landry,,2551.196,2564.586,"Well, but I think the question boils down to whether or not the latter hypothetical, ""yes, I want one"", whether that is enough to constitute the request under Jackson."
+2008.07-1529,1,15042,david_h_souter,scotus_justice,2564.586,2591.071,"Well, so far as I understand it, and you correct me if I'm wrong, but as I understand it, what the State Supreme Court said was not that he had to make a request, ""I want a lawyer"", but simply that he had to indicate in some way that he accepted the appointment of the lawyer which he had been told had been appointed for him; and that is a different situation from Jackson."
+2008.07-1529,1,33896,kathryn_w_landry,,2617.871,2619.456,"No, you're not wrong."
+2008.07-1529,1,15042,david_h_souter,scotus_justice,2619.456,2620.306,Okay.
+2008.07-1529,1,15086,john_g_roberts_jr,scotus_justice,2620.306,2627.779,So I -- I suppose what the dialogue simply establishes is that like in any situation there's going to be factual issues about what's a request or not.
+2008.07-1529,1,33896,kathryn_w_landry,,2650.859,2652.811,"Yes, Your Honor, that's correct."
+2008.07-1529,1,15049,antonin_scalia,scotus_justice,2652.811,2657.881,"Well, I don't -- I don't -- I agree with Justice Souter."
+2008.07-1529,1,33896,kathryn_w_landry,,2689.418,2690.036,Well--
+2008.07-1529,1,15049,antonin_scalia,scotus_justice,2690.036,2695.839,"Now, are you -- are you standing on the -- on the State court's analysis or not?"
+2008.07-1529,1,33896,kathryn_w_landry,,2695.839,2716.587,"--Yes, Your Honor, and I think the State court analysis comes from -- well, it came from the Fifth Circuit case of Montoya which was very similar factually, and the Fifth Circuit relied on the Court's opinion in Patterson, and I believe cited a footnote from Patterson that refers to, you know, affirmative acceptance of the appointment of counsel."
+2008.07-1529,1,15113,anthony_m_kennedy,scotus_justice,2716.587,2729.728,"But this is still an artificial framework, because we know that in this case he has to have a lawyer under Gideon unless he waives it after being fully advised."
+2008.07-1529,1,33896,kathryn_w_landry,,2798.539,2814.215,"But also, if I can address that factual issue, because I think it is important in the context here, because the question presented to this Court, the assignment of error at the Louisiana Supreme Court was only premised on the fact that counsel was appointed."
+2008.07-1529,1,15084,ruth_bader_ginsburg,scotus_justice,2877.824,2891.501,"It's just that everything after -- as far as I understand, the only piece of evidence we're talking about is his condolence letter to the widow which amounted to a confession of guilt."
+2008.07-1529,1,33896,kathryn_w_landry,,2891.501,2892.251,"Yes, Your Honor."
+2008.07-1529,1,15084,ruth_bader_ginsburg,scotus_justice,2892.251,2892.967,There is no other.
+2008.07-1529,1,33896,kathryn_w_landry,,2905.891,2907.041,"That's correct, it's just the--"
+2008.07-1529,1,15139,stephen_g_breyer,scotus_justice,2907.041,2910.276,Can I ask -- I'm getting a different idea from what you're arguing.
+2008.07-1529,1,33896,kathryn_w_landry,,2997.484,3015.779,"--Because, in our case and in the case where there's just counsel appointed, again I go back to the issue, there's no request; there's no positive action by the defendant constituting a request in indicating that he's requesting a lawyer, which was the basis of the ruling in Jackson."
+2008.07-1529,1,15068,samuel_a_alito_jr,scotus_justice,3021.949,3040.311,"Well, isn't the prophylactic aspect of Jackson not what Justice Breyer just said, but the rule that a person who has a lawyer is thereafter incapable of waiving the assistance of the lawyer if the person wishes to speak with the police and the police happen to initiate the conversation?"
+2008.07-1529,1,33896,kathryn_w_landry,,3062.676,3065.628,"Well, I would disagree--"
+2008.07-1529,1,15139,stephen_g_breyer,scotus_justice,3065.628,3066.578,"Accept that, for argument's sake."
+2008.07-1529,1,15086,john_g_roberts_jr,scotus_justice,3069.247,3072.615,"Counsel, why don't you answer Justice Alito's question?"
+2008.07-1529,1,33896,kathryn_w_landry,,3072.615,3086.725,--I was going to say that I disagree to the -- to the extent that I think part of the basis of Jackson was wanting to deter police from badgering a defendant into waiving a right that he had already asserted.
+2008.07-1529,1,15139,stephen_g_breyer,scotus_justice,3109.138,3111.824,Interesting.
+2008.07-1529,1,33896,kathryn_w_landry,,3149.882,3151.567,"No, I don't think it would."
+2008.07-1529,1,15139,stephen_g_breyer,scotus_justice,3151.567,3152.117,Because?
+2008.07-1529,1,33896,kathryn_w_landry,,3152.117,3157.221,"Because, again, the appointment of counsel, as in this case, was an action taken by the State."
+2008.07-1529,1,15139,stephen_g_breyer,scotus_justice,3171.363,3171.815,I see.
+2008.07-1529,1,33896,kathryn_w_landry,,3171.815,3172.965,--to receive indigent counsel.
+2008.07-1529,1,15060,john_paul_stevens,scotus_justice,3172.965,3191.876,"Let me ask you: If the case had gone to trial without any intermediate proceeding -- they just show up for the day of trial -- and there's no record of whether he accepted the lawyer earlier, would the State judge start out with the presumption that Faretta would apply and he's going on his own, or would they start out with the assumption that he is going to have a lawyer?"
+2008.07-1529,1,33896,kathryn_w_landry,,3191.876,3203.834,"No, Your Honor, because, obviously, just as Patterson discussed, the waiver issue is much different when you're talking about a defendant proceeding through a legal proceeding representing himself than it is in the context here."
+2008.07-1529,1,15060,john_paul_stevens,scotus_justice,3203.834,3208.154,So you're drawing a distinction between this -- the kind of proceeding that's involved?
+2008.07-1529,1,33896,kathryn_w_landry,,3213.325,3222.914,"Well, it's not that he doesn't need help, but he's advised of his right to counsel and can voluntarily choose, exercise his own free will, whether he wants counsel or not."
+2008.07-1529,1,15060,john_paul_stevens,scotus_justice,3222.914,3237.507,"There's an irony in this case that Justice Kennedy put a finger on earlier: If there were a civil case, whether you could go talk to a lawyer -- a client, rather, who was represented by a lawyer, the answer would be quite clear: You could not, as a matter of professional ethics."
+2008.07-1529,1,33896,kathryn_w_landry,,3237.507,3238.907,"Right, and I think that that's true of the--"
+2008.07-1529,1,15060,john_paul_stevens,scotus_justice,3238.907,3242.911,And the Constitution gives less protection than the -- than the professional ethics does.
+2008.07-1529,1,15049,antonin_scalia,scotus_justice,3242.911,3251.683,"Of course, the usual legal rule is that silence implies consent, right?"
+2008.07-1529,1,33896,kathryn_w_landry,,3262.789,3277.346,"--Because, again, in Jackson, the assertion or the request for counsel is what implies to the police that this defendant does not want to deal with the police on his own, that he wishes to only communicate through counsel."
+2008.07-1529,1,15084,ruth_bader_ginsburg,scotus_justice,3282.833,3306.449,"Ms. Landry, you're trying to explain your position, let's assume, to an intelligent layperson, and the first example is, in many States at the equivalent of the 72-hour hearing, the defendant is told: The court is prepared to appoint a lawyer for you."
+2008.07-1529,1,33896,kathryn_w_landry,,3364.701,3374.557,"Yes, because the police then approach him under Patterson, give him his rights, which includes the right to counsel."
+2008.07-1529,1,15086,john_g_roberts_jr,scotus_justice,3382.127,3383.596,"Thank you, counsel."
+2008.07-1529,1,33896,kathryn_w_landry,,3383.596,3384.246,Thank you.
+2008.07-1529,1,15086,john_g_roberts_jr,scotus_justice,3384.246,3386.614,"Mr. Verrilli, you have four minutes remaining."
+2008.07-1529,2,21656,donald_b_verrilli_jr,,3386.614,3389.316,"Thank you, Mr. Chief Justice."
+2008.07-1529,2,15084,ruth_bader_ginsburg,scotus_justice,3431.059,3432.243,"But, Mr. Verrilli--"
+2008.07-1529,2,21656,donald_b_verrilli_jr,,3432.243,3433.511,--but quite clear--
+2008.07-1529,2,15084,ruth_bader_ginsburg,scotus_justice,3433.511,3439.582,"--you just struck two chords: One, harmless error; the other, that this defendant testified at his trial."
+2008.07-1529,2,21656,donald_b_verrilli_jr,,3471.97,3473.286,--Yes.
+2008.07-1529,2,15049,antonin_scalia,scotus_justice,3526.115,3529.817,"Mr. Verrilli, I don't understand your response to Justice Ginsburg."
+2008.07-1529,2,21656,donald_b_verrilli_jr,,3537.922,3539.522,"Well, it would come--"
+2008.07-1529,2,15049,antonin_scalia,scotus_justice,3539.522,3549.811,What difference does it make whether it's introduced in the case in chief or whether it's introduced to refute the defendant's assertion that he didn't do it?
+2008.07-1529,2,21656,donald_b_verrilli_jr,,3549.811,3556.365,"--Well, if it's introduced in the case in chief, it's substantive evidence on which the prosecution relied or can rely to establish the case."
+2008.07-1529,2,15086,john_g_roberts_jr,scotus_justice,3656.262,3657.248,"Thank you, Mr. Verrilli."

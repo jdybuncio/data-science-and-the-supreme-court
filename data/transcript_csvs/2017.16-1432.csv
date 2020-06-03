@@ -1,0 +1,226 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2017.16-1432,0,15086,john_g_roberts_jr,scotus_justice,0.09,8.375,"We'll hear argument today in Case 16-1432, Sveen versus Melin. Mr. Unikowsky."
+2017.16-1432,0,62644,adam_g_unikowsky,,8.375,22.33,"Mr. Chief Justice, and may it please the Court: The question before the Court today is whether the application of a revocation-on-divorce statute to a life insurance policy purchased before the enactment of that statute violates the Contracts Clause."
+2017.16-1432,0,15113,anthony_m_kennedy,scotus_justice,22.33,32.49,"Could you just -- as a preliminary matter, after the divorce but before the owner of the policy died, did he pay premiums?"
+2017.16-1432,0,62644,adam_g_unikowsky,,32.49,34.4,I -- I'd have to check.
+2017.16-1432,0,15113,anthony_m_kennedy,scotus_justice,44.04,45.53,That -- that was just a factual question.
+2017.16-1432,0,62644,adam_g_unikowsky,,49.86,50.46,My understanding is --
+2017.16-1432,0,15113,anthony_m_kennedy,scotus_justice,50.46,52.525,"-- what your general outline is going to be, but I --"
+2017.16-1432,0,62644,adam_g_unikowsky,,52.525,53.75,I'll just answer your question.
+2017.16-1432,0,15113,anthony_m_kennedy,scotus_justice,58.92,59.26,All right.
+2017.16-1432,0,62644,adam_g_unikowsky,,59.82,62.805,So I think that's -- so I don't think he actually paid any more after the divorce.
+2017.16-1432,0,15113,anthony_m_kennedy,scotus_justice,64.22,68.975,"In the course of your argument, suppose this were the first statute on this subject."
+2017.16-1432,0,62644,adam_g_unikowsky,,87.49,141.41,"No, I -- I -- I'm happy to answer those questions at the outset. So your first question is, what if this was the first statute on -- on this issue; in other words, the first ever revocation-on-divorce statute? Well, I'd point out that even when the first of these statutes were enacted around 30 years ago, there already were a number of statutes, almost universally, in fact, that revorced -- that revoked wills upon divorce. So, really, the -- the historic purpose of these statutes, according to the Uniform Probate Code, was to align the law of life insurance policies with the law of wills. So we would take the position that even the first of these statutes that was enacted could be applied to existing policies under the -- the Contracts Clause. To turn to your second question, which was what if, empirically speaking, someone didn't know? So, first of all, I do think that -- I don't mean to fight the hypothetical, but, in this case, I think the legislature made the empirical determination that the typical person designates a spouse as a beneficiary because it's the spouse, and when the divorce happens, the calculus changes."
+2017.16-1432,0,15131,sonia_sotomayor,scotus_justice,141.63,144.57,On the basis of what? Where in the record?
+2017.16-1432,0,62644,adam_g_unikowsky,,144.57,145.49,"I'm sorry, Your Honor?"
+2017.16-1432,0,15131,sonia_sotomayor,scotus_justice,145.49,148.49,Where in the record is the basis for their empirical finding?
+2017.16-1432,0,62644,adam_g_unikowsky,,148.49,152.37,There's no -- the legislative history doesn't include any surveys or anything like that.
+2017.16-1432,0,15084,ruth_bader_ginsburg,scotus_justice,152.5,158.22,"They were picking up off the Uniform Probate Code, weren't they?"
+2017.16-1432,0,62644,adam_g_unikowsky,,158.22,158.85,Yes.
+2017.16-1432,0,15084,ruth_bader_ginsburg,scotus_justice,158.85,165.165,"Minnesota was picking up the model statute, and the model statute started it off and then in another --"
+2017.16-1432,0,62644,adam_g_unikowsky,,165.165,166.03,That is correct.
+2017.16-1432,0,15084,ruth_bader_ginsburg,scotus_justice,176.56,221.595,"But there was -- there was a -- I mean, if there's -- the supposition is, on divorce, the policyholder will not want the ex-spouse to get the policy. But, as has been pointed out, sometimes there will be a desire that the beneficiary remain unchanged. It was suggested by the other side that Minnesota could have accomplished this in a much better way; that is, they could have made it a condition of every divorce decree that the judge tell the couple: Life insurance -- do you have life insurance? Do you want to leave it as it is, or do you want to change it?"
+2017.16-1432,0,62644,adam_g_unikowsky,,221.595,233.285,"Yeah, so, first of all, no other statute actually does it that way without a revocation-on-divorce statute. Respondent does cite statutes like that from Virginia and Utah, but those states also have revocation-on-divorce statutes."
+2017.16-1432,0,62836,neil_gorsuch,scotus_justice,250.22,260.125,"Well, I think, counsel, Justice Ginsburg's question goes to the -- the weighing that some of our cases suggest that we have to do in this -- these cases."
+2017.16-1432,0,62644,adam_g_unikowsky,,286.875,299.47,"So, first of all, I would -- I don't agree with the premise that Minnesota could have achieved all they wanted to achieve just by this notice requirement. First of all, I think that, again, the goal is to align the law of life insurance policies with the law of wills, and the will is revoked. So Minnesota wanted to --"
+2017.16-1432,0,62836,neil_gorsuch,scotus_justice,299.47,302.44,"Prospectively, though, you acknowledge it could have achieved all it wants to achieve?"
+2017.16-1432,0,62644,adam_g_unikowsky,,302.44,303.01,"Yes, that's true."
+2017.16-1432,0,62836,neil_gorsuch,scotus_justice,303.01,311.005,"And, retroactively, it could have done as Justice Ginsburg suggests and told divorce courts that this is a matter that they'd have to take up."
+2017.16-1432,0,62644,adam_g_unikowsky,,314.42,320.16,"Well, because, first of all, I mean, the person might not do it and you might get into all these disputes about what -- what a decree means."
+2017.16-1432,0,15086,john_g_roberts_jr,scotus_justice,371.44,381.07,"Well, does -- does the beneficiary on the policy -- is that individual properly viewed as a third-party beneficiary under contract law?"
+2017.16-1432,0,62644,adam_g_unikowsky,,381.07,381.85,"No, Your Honor."
+2017.16-1432,0,15086,john_g_roberts_jr,scotus_justice,396.34,415.14,"Is that a matter -- putting aside what you regard as a concession, I don't know if your friend would agree with that, but is it a uniform conclusion under state law, the common law, that a beneficiary is not -- I mean, they're called the same thing, third-party beneficiary, under contract law?"
+2017.16-1432,0,62644,adam_g_unikowsky,,415.14,419.24,"Well, the relevant question is whether that person has enforceable vested rights in -- in the contract."
+2017.16-1432,0,15113,anthony_m_kennedy,scotus_justice,442.92,450.38,Do -- do any states say that the -- a person that is the named beneficiary is a third-party beneficiary for contract purposes? Do any states say that?
+2017.16-1432,0,62644,adam_g_unikowsky,,450.38,454.75,I think that -- so my understanding is they can be depending on what the contract says.
+2017.16-1432,0,15113,anthony_m_kennedy,scotus_justice,457.24,458.575,"Well, that was -- that was your answer."
+2017.16-1432,0,62644,adam_g_unikowsky,,458.575,474.99,"-- that designates the person as a third-party beneficiary with enforceable rights at the time it's purchased. You can do that in Minnesota or everywhere. And in that case, the statute wouldn't apply. But here, in this case, as this case reaches this Court, the argument is that it was Mr. Sveen's, the decedent's, contractual rights that were infringed."
+2017.16-1432,0,15094,elena_kagan,scotus_justice,482.665,483.15,Mr. Unikowsky --
+2017.16-1432,0,15131,sonia_sotomayor,scotus_justice,483.15,483.95,Could you just --
+2017.16-1432,0,15094,elena_kagan,scotus_justice,483.95,490.425,"-- on the retroactivity point, here, the statute precedes both the divorce and the death."
+2017.16-1432,0,62644,adam_g_unikowsky,,498.84,501.34,So I -- that's an unsettled question of state law.
+2017.16-1432,0,62836,neil_gorsuch,scotus_justice,523.59,526.43,But your answer for Contract Clause purposes would be the same?
+2017.16-1432,0,62644,adam_g_unikowsky,,526.43,526.89,Yes.
+2017.16-1432,0,62836,neil_gorsuch,scotus_justice,535.18,537.14,Based on the decree rather than the contract?
+2017.16-1432,0,62644,adam_g_unikowsky,,537.14,537.67,"Yes, Your Honor."
+2017.16-1432,0,15131,sonia_sotomayor,scotus_justice,582.55,594.165,"Could you tell me, what are the various ways that a -- an insured who wants to keep his former wife as the beneficiary, what would he have to do after the divorce?"
+2017.16-1432,0,62644,adam_g_unikowsky,,594.165,594.98,"Well, there -- first --"
+2017.16-1432,0,15131,sonia_sotomayor,scotus_justice,594.98,598.52,I know he could -- the divorce decree could say yes or no.
+2017.16-1432,0,62644,adam_g_unikowsky,,602.63,605.59,He just has to -- he just has to send a letter to the company.
+2017.16-1432,0,15131,sonia_sotomayor,scotus_justice,609.61,611.435,"No, let's assume he doesn't want to."
+2017.16-1432,0,62644,adam_g_unikowsky,,611.435,615.51,If he doesn't want to change? So he just has to send -- so there's an automatic revocation.
+2017.16-1432,0,15131,sonia_sotomayor,scotus_justice,619.76,629.325,How does the insurance company know that there has been a divorce so that they receive the letter and sort of go: Why is he doing this? We already have that beneficiary.
+2017.16-1432,0,62644,adam_g_unikowsky,,629.325,634.715,"Well, I mean, I assume that the insurance company has -- has lawyers who's aware that these statutes are -- are on the books."
+2017.16-1432,0,15139,stephen_g_breyer,scotus_justice,634.715,641.37,"Why does it matter? The insurance company gets a letter saying I want my wife to be the beneficiary, period."
+2017.16-1432,0,62644,adam_g_unikowsky,,642.89,644.96,"Yeah, it would be on the -- I mean, the insurance company has --"
+2017.16-1432,0,15139,stephen_g_breyer,scotus_justice,644.96,647.26,"It doesn't matter whether they know about the divorce, don't know about the divorce."
+2017.16-1432,0,62644,adam_g_unikowsky,,647.5,648.41,"Right, so if the insurance company --"
+2017.16-1432,0,15139,stephen_g_breyer,scotus_justice,648.41,648.85,Is that right?
+2017.16-1432,0,62644,adam_g_unikowsky,,648.85,659.985,"-- gets a letter, I assume that they'll just put it in the person's file, it'll have a date on it, and then the person -- the spouse will be re-added. I think in many cases this is resolved in the divorce decree, especially where here the statute was on the books at the time of the divorce."
+2017.16-1432,0,15131,sonia_sotomayor,scotus_justice,665.92,670.01,So we have a Supreme Court case because there was an ineffective attorney?
+2017.16-1432,0,62644,adam_g_unikowsky,,670.01,670.95,Or not.
+2017.16-1432,0,15113,anthony_m_kennedy,scotus_justice,687.22,696.45,"Well, in most -- in most cases, I think where there's a lot of property, the insurance will be on the table and they'll talk about it."
+2017.16-1432,0,62644,adam_g_unikowsky,,696.45,697.41,"Yes, absolutely."
+2017.16-1432,0,15113,anthony_m_kennedy,scotus_justice,697.41,701.135,"Your case applies to really small divorces, I think."
+2017.16-1432,0,62644,adam_g_unikowsky,,703.49,707.82,"Well, I think that it's quite possible that -- so, I mean, we don't know what the agreement was."
+2017.16-1432,0,15084,ruth_bader_ginsburg,scotus_justice,711.12,714.24,But there was -- there was a settlement in this divorce?
+2017.16-1432,0,62644,adam_g_unikowsky,,714.24,714.71,Yes.
+2017.16-1432,0,15084,ruth_bader_ginsburg,scotus_justice,714.71,724.62,And do we know what the former wife got in that settlement? You're urging that she doesn't get the proceeds of the insurance policy.
+2017.16-1432,0,62644,adam_g_unikowsky,,726.035,729.07,"I mean, the -- the divorce decree is -- is in the district court record."
+2017.16-1432,0,15113,anthony_m_kennedy,scotus_justice,739.96,770.16,"The -- the cases I've -- I've -- I've looked at are our cases, Allied Steel and Home Savings and Loan, Blaisdell and Bituminous Coal and so forth. Are -- are there in the circuits or in the state courts analogous cases where contracts are -- are changed retroactively and Contract Clause arguments have been rejected? Are there -- are there any cases that you can rely on that -- out in the state courts that are analogous to this?"
+2017.16-1432,0,62644,adam_g_unikowsky,,770.16,778.74,"Yeah, so I think the -- the -- the -- the best analogy maybe I'd have are statutes that -- or, rather, statutes that affected the way property was divided in divorce."
+2017.16-1432,0,15113,anthony_m_kennedy,scotus_justice,780.8,781.155,In divorce.
+2017.16-1432,0,62644,adam_g_unikowsky,,781.155,786.05,"So, you know, in the 1970s, there was a very dramatic revolution in American divorce law."
+2017.16-1432,0,62836,neil_gorsuch,scotus_justice,834.28,858.98,"But, counsel -- counsel, do we know that the -- the dead husband here didn't, as part of the divorce, wish this asset to remain with his -- with his ex-wife? Sometimes that is part of a divorce arrangement, that certain assets stay with the spouse. Is there any indication in this record at all that the decedent wished this asset to go anywhere else?"
+2017.16-1432,0,62644,adam_g_unikowsky,,858.98,869.99,"I mean, we don't know. All we know is that the statute was on the books and there is a life -- there's a divorce settlement and the settlement does not override the default rule that perhaps the divorce lawyers told them about."
+2017.16-1432,0,62836,neil_gorsuch,scotus_justice,883.16,887.58,Does anyone pay life insurance for the joy of paying life insurance?
+2017.16-1432,0,62644,adam_g_unikowsky,,887.58,888.2,No.
+2017.16-1432,0,62836,neil_gorsuch,scotus_justice,888.2,900.735,"Isn't the specification of the beneficiary pretty important? I mean, Justice Washington in Dartmouth College said, you know, the bounty of a contract is -- is -- is essential to the obligation."
+2017.16-1432,0,62644,adam_g_unikowsky,,900.735,901.73,"Absolutely, Your Honor."
+2017.16-1432,0,15084,ruth_bader_ginsburg,scotus_justice,921.86,922.2,He --
+2017.16-1432,0,62644,adam_g_unikowsky,,922.2,922.82,Itself.
+2017.16-1432,0,15084,ruth_bader_ginsburg,scotus_justice,923.28,927.555,"He had -- he had already designated the contingent beneficiaries were his children, right?"
+2017.16-1432,0,62644,adam_g_unikowsky,,927.555,928.635,Correct.
+2017.16-1432,0,62836,neil_gorsuch,scotus_justice,940.21,943.37,"Well, what -- what if it didn't go to his contingent beneficiaries? Then what?"
+2017.16-1432,0,62644,adam_g_unikowsky,,943.37,948.12,"Well, if there's no contingent beneficiary, it goes into the estate, and it's -- it's -- the money is distributed."
+2017.16-1432,0,62836,neil_gorsuch,scotus_justice,948.12,957.085,"Let's say the statute said it -- it goes to a charity or -- or, instead of the children, some -- some nice thing for children."
+2017.16-1432,0,62644,adam_g_unikowsky,,959.89,960.88,I think that that would --
+2017.16-1432,0,62836,neil_gorsuch,scotus_justice,960.88,961.99,"And if not, why not?"
+2017.16-1432,0,62644,adam_g_unikowsky,,961.99,964.995,I think that would be a -- a more difficult case for us.
+2017.16-1432,0,62836,neil_gorsuch,scotus_justice,964.995,969.43,"No, no, no, no, no, not so easy. (Laughter.)"
+2017.16-1432,0,62644,adam_g_unikowsky,,969.43,970.01,So I'm -- I'm --
+2017.16-1432,0,62836,neil_gorsuch,scotus_justice,970.01,971.94,Would that be a Contract Clause violation?
+2017.16-1432,0,62644,adam_g_unikowsky,,971.94,972.49,So I'm going to stick to my --
+2017.16-1432,0,62836,neil_gorsuch,scotus_justice,972.49,973.85,Surely you've given some thought to that.
+2017.16-1432,0,62644,adam_g_unikowsky,,973.85,979.02,"I'm going to stick to my guns and say I don't think it was, but you don't have to agree with me to vote for us in this case."
+2017.16-1432,0,62836,neil_gorsuch,scotus_justice,984.2,991.68,"So the state says, contract, we don't care about your primary or your contingent beneficiary."
+2017.16-1432,0,62644,adam_g_unikowsky,,1002.205,1004.24,I think that would be a taking because it would violate the Con --
+2017.16-1432,0,62836,neil_gorsuch,scotus_justice,1004.24,1004.97,"No, no, no, no, a Contract Clause."
+2017.16-1432,0,62644,adam_g_unikowsky,,1004.97,1008.38,"No, I don't think so. That would be a taking because it would violate the Constitution even going forwards."
+2017.16-1432,0,62836,neil_gorsuch,scotus_justice,1008.38,1010.52,"No, I'm asking you about Contract Clause violation."
+2017.16-1432,0,62644,adam_g_unikowsky,,1010.52,1010.62,Yes.
+2017.16-1432,0,62836,neil_gorsuch,scotus_justice,1010.62,1012.86,You'd say that's no Contract Clause violation.
+2017.16-1432,0,62644,adam_g_unikowsky,,1015.1,1016.95,If the money just escheats to the state --
+2017.16-1432,0,62836,neil_gorsuch,scotus_justice,1016.95,1033.405,"No, no, the statute just says it goes to the -- goes to wherever, to the state, a nice charitable organization we'd all agree on that most people would support, if not everybody, most people, just like most people would want to change their beneficiary here."
+2017.16-1432,0,62644,adam_g_unikowsky,,1037.0,1039.65,"Right, so we have the broader arguments and the narrower arguments in our brief."
+2017.16-1432,0,62836,neil_gorsuch,scotus_justice,1096.33,1101.35,"They also talked about remedies, right, as being distinct from obligations, didn't they?"
+2017.16-1432,0,62644,adam_g_unikowsky,,1101.35,1102.51,Some of those -- that's true.
+2017.16-1432,0,62836,neil_gorsuch,scotus_justice,1121.1,1128.27,"The recording statutes meant -- merely said that your -- your remedy would be different if you didn't record, right?"
+2017.16-1432,0,62644,adam_g_unikowsky,,1128.27,1131.06,"It wasn't -- no, the rights were completely wiped out."
+2017.16-1432,0,15086,john_g_roberts_jr,scotus_justice,1177.995,1187.77,You made the point earlier that -- I understood you to make the point that this would be outside the scope of the Contract Clause because it was an exercise of the state's police power?
+2017.16-1432,0,62644,adam_g_unikowsky,,1187.77,1188.39,In the -- yes.
+2017.16-1432,0,15086,john_g_roberts_jr,scotus_justice,1190.39,1190.45,Yeah.
+2017.16-1432,0,62644,adam_g_unikowsky,,1201.23,1218.61,"No, this is a -- an argument of the sui generis nature of divorce. So the relevant point for us is that even when Mr. Sveen -- and I'm sorry to be jumping around between these arguments -- but even when Mr. Sveen purchased the insurance policy, the state had the authority to decide what would happen to that beneficiary designation in a divorce."
+2017.16-1432,0,15131,sonia_sotomayor,scotus_justice,1237.05,1268.855,"My problem with the police power argument you're making is that I don't think it stands alone, meaning you can think that the state has a greater interest in certain areas like divorce or others, regulated fields like mineral, et cetera, but I don't think that state police power gives unbounded discretion to the state. To some extent, it's intermixed with what's the state's purpose and is it a legitimate thing it's doing."
+2017.16-1432,0,62644,adam_g_unikowsky,,1268.855,1274.35,"Your Honor, we are not arguing for unbounded state power."
+2017.16-1432,0,15131,sonia_sotomayor,scotus_justice,1285.28,1295.785,"Well, that goes back to Justice Gorsuch's question, could the state say, upon divorce, I'm giving the money to the state or I'm giving it to a charity, et cetera?"
+2017.16-1432,0,62644,adam_g_unikowsky,,1295.785,1296.045,See --
+2017.16-1432,0,15131,sonia_sotomayor,scotus_justice,1296.045,1311.275,"And you said yes, but I wasn't quite sure why. It seems to me that, even under state power, you have to be able to articulate some fit between the need and the solution."
+2017.16-1432,0,62644,adam_g_unikowsky,,1311.275,1311.91,Right.
+2017.16-1432,0,15094,elena_kagan,scotus_justice,1353.57,1354.19,Please.
+2017.16-1432,0,62644,adam_g_unikowsky,,1354.19,1356.1,"No, go ahead, I'm sorry."
+2017.16-1432,0,15094,elena_kagan,scotus_justice,1356.1,1378.05,"So this might be an unfair question, but one of the things that struck me in reading your brief and now in listening to you, it's a -- it's an unusual thing we see in your brief, this kind of we have five arguments in varying levels. You know, it's -- it's the police power; it's not a contractual obligation; it's not an impairment at all; it's not a substantial impairment; maybe it is, but it's justified."
+2017.16-1432,0,62644,adam_g_unikowsky,,1379.43,1384.625,"Yes, you did. (Laughter.)"
+2017.16-1432,0,15094,elena_kagan,scotus_justice,1384.625,1389.855,"Really, which one do you think? Because -- (Laughter.)"
+2017.16-1432,0,15094,elena_kagan,scotus_justice,1389.855,1395.03,"-- you know, you're answering some of our questions like, oh, that's an answer from column 1."
+2017.16-1432,0,62644,adam_g_unikowsky,,1410.095,1423.53,"I think that the -- the cleanest way to vote for us, and I hope you do, is that it's just -- it's really just a default rule and it's just a paperwork burden and there's no interference with the reliance interests, because, really, the reliance interests come into play at the time of the divorce."
+2017.16-1432,0,15113,anthony_m_kennedy,scotus_justice,1423.53,1426.33,So you're -- you're saying it's not a substantial alteration; is that the --
+2017.16-1432,0,62644,adam_g_unikowsky,,1426.33,1426.86,That's right.
+2017.16-1432,0,15113,anthony_m_kennedy,scotus_justice,1427.38,1428.15,Is that the same argument?
+2017.16-1432,0,62644,adam_g_unikowsky,,1428.15,1430.37,"Yes, I -- I think so. And there's really two pieces to that."
+2017.16-1432,0,15086,john_g_roberts_jr,scotus_justice,1448.19,1457.65,"When you say it's not a substantial impairment, are you acknowledging that it is an impairment? At least in terms of ranking your -- your arguments?"
+2017.16-1432,0,62644,adam_g_unikowsky,,1457.65,1467.67,"I don't think it's an impairment at all, but I think that because this Court has held that insubstantial impairments are not impairments at all, I think that's sort of an easier way to get to where we want."
+2017.16-1432,0,15086,john_g_roberts_jr,scotus_justice,1517.07,1527.52999995,"Thank you, counsel. Mr. Dvoretzky."
+2017.16-1432,1,41249,shay_dvoretzky,,1527.52999995,1536.61,"Mr. Chief Justice, and may it please the Court: The Constitution forbids states from passing any law impairing the obligation of contracts."
+2017.16-1432,1,15084,ruth_bader_ginsburg,scotus_justice,1571.42,1591.45,"The -- the court, it has been pointed out, in a divorce setting can say, presented with this very situation, the children get the proceeds of this policy. She's out."
+2017.16-1432,1,41249,shay_dvoretzky,,1604.36,1619.05,"Because the Contracts Clause applies to laws passed by legislatures and not to the actions of courts. Chief Justice Taft explained that in an opinion long -- a long time ago, and that opinion itself cited 20 other precedents of this Court saying the same thing."
+2017.16-1432,1,15131,sonia_sotomayor,scotus_justice,1638.84,1657.17,"I'm sorry, judges do what they do as a result of laws, meaning they don't just decide to redistribute insurance proceeds out of the kindness of their heart or -- or -- they do it because there's a specific law that gives them the right to do that."
+2017.16-1432,1,41249,shay_dvoretzky,,1660.72,1661.7,I think the --
+2017.16-1432,1,15131,sonia_sotomayor,scotus_justice,1661.7,1667.16,"If the law is compelling it or the law is permitting it, then it's the judge as well as the law."
+2017.16-1432,1,41249,shay_dvoretzky,,1667.16,1675.2,I think there's a difference between courts exercising their discretion and states enacting laws that have this kind of --
+2017.16-1432,1,15113,anthony_m_kennedy,scotus_justice,1675.2,1678.98,"Well, but Justice Sotomayor's point and Justice Ginsburg's point is the same."
+2017.16-1432,1,41249,shay_dvoretzky,,1699.235,1725.74,"I think there -- there is -- there has historically been a fundamental distinction, though, between what courts do and what legislatures do, and that's a result, again, both of precedent and of the commonsense notion that the Contracts Clause can't apply to what courts do, or else every time a court does anything with respect to a contract, outside the divorce context as well, every time a court declares a contract unconscionable, that would be a contracts violation."
+2017.16-1432,1,15139,stephen_g_breyer,scotus_justice,1738.45,1769.355,"Well, I take it here the contract is -- let's call him Mr. Smith -- he has a contract with an insurance company. That contract provides that after a divorce the money will still go to the designated beneficiary. They pass a law and it says it will not go to the beneficiary that you initially designated, unless you act affirmatively. Right? That's the contract."
+2017.16-1432,1,41249,shay_dvoretzky,,1769.355,1770.42,That --
+2017.16-1432,1,15139,stephen_g_breyer,scotus_justice,1770.42,1771.68,That's the situation in front of us?
+2017.16-1432,1,41249,shay_dvoretzky,,1771.68,1772.32,That's -- yes.
+2017.16-1432,1,15139,stephen_g_breyer,scotus_justice,1772.32,1772.42,Yes.
+2017.16-1432,1,15139,stephen_g_breyer,scotus_justice,1951.08,1953.17,"Which, of course, is just what they're arguing."
+2017.16-1432,1,41249,shay_dvoretzky,,1959.41,1977.95,"First, Justice Breyer, let me emphasize the -- the key term of this contractual -- this contract, the life insurance contract, provides precisely how the policyholder is to designate the beneficiary and, in turn, assures the policyholder that that is the beneficiary that will be paid. That is --"
+2017.16-1432,1,15139,stephen_g_breyer,scotus_justice,1977.95,1979.53,Just like the mortgage contract.
+2017.16-1432,1,41249,shay_dvoretzky,,1980.58,1981.76,"Well, I disagree that it's --"
+2017.16-1432,1,15139,stephen_g_breyer,scotus_justice,1981.76,1982.23,No -- so -- so go ahead.
+2017.16-1432,1,41249,shay_dvoretzky,,1982.75,1984.81,That is different than the cases that --
+2017.16-1432,1,15139,stephen_g_breyer,scotus_justice,1984.81,1984.99,Okay.
+2017.16-1432,1,41249,shay_dvoretzky,,1985.455,1987.86,That is different than the cases that you were talking about.
+2017.16-1432,1,15094,elena_kagan,scotus_justice,2072.05,2092.45,"Well, that might be true -- I'm sorry to -- that might be true if the divorce preceded the statute, right, because, presumably, the time when even an inattentive person is going to come upon this problem is when the divorce occurs. And as long as the divorce is subsequent to the statute, I don't see how you can make that argument."
+2017.16-1432,1,41249,shay_dvoretzky,,2092.45,2124.27,"Well, I would agree with you if Minnesota had taken the same kind of step that Virginia has taken and actually required the divorce decree to inform the divorcing parties about the revocation-on-divorce statute. At least under modern doctrine, that would solve our concerns because, at that point, you're right, as part of the divorce, the policyholder, the divorcing party, would be aware of the change. But there's no reason to presume that as part of the divorce, absent such a notice requirement, that the inattentive policyholder is aware."
+2017.16-1432,1,15084,ruth_bader_ginsburg,scotus_justice,2134.4,2159.53,"Do you think it's not a fair assumption that most people when they divorce do not want their former spouse to be enriched beyond whatever the law requires, if you have to make a guess? You're talking about an impairment of the policyholder's rights."
+2017.16-1432,1,41249,shay_dvoretzky,,2178.605,2180.835,Justice --
+2017.16-1432,1,15084,ruth_bader_ginsburg,scotus_justice,2180.835,2184.555,Isn't that a reasonable assumption for a legislature to make?
+2017.16-1432,1,41249,shay_dvoretzky,,2184.555,2190.94,"I -- I don't think that it is, at least not without some evidence in the record to that effect."
+2017.16-1432,1,15084,ruth_bader_ginsburg,scotus_justice,2216.35,2218.57,I'd like to ask the question I asked Mr. Unikowsky.
+2017.16-1432,1,41249,shay_dvoretzky,,2229.665,2242.2,"Justice Ginsburg, that is in -- the district court docket for that is 45-3, and it spells out who got which car, and I think there was a snowmobile and an ATV and some other property."
+2017.16-1432,1,15084,ruth_bader_ginsburg,scotus_justice,2268.61,2270.56,"Yes, but that was not approved."
+2017.16-1432,1,41249,shay_dvoretzky,,2270.56,2271.74,That's true.
+2017.16-1432,1,15068,samuel_a_alito_jr,scotus_justice,2290.08,2309.395,What if there were -- what if there was evidence that Mr. Sveen was very well aware of this statute at the time of the divorce but did nothing? So suppose there was testimony by 10 witnesses that at the time of the divorce he -- he got a copy of the statute and he read it?
+2017.16-1432,1,41249,shay_dvoretzky,,2309.395,2310.52,I --
+2017.16-1432,1,15068,samuel_a_alito_jr,scotus_justice,2310.52,2311.605,Would that make a difference?
+2017.16-1432,1,41249,shay_dvoretzky,,2311.605,2335.62,"I still don't think it would make a difference, because the way the Court has considered these sorts of impairment questions and whether -- whether it is possible to overcome the impairment by informing the insurance company has been on an across-the-board basis, not based on the particular facts of a case. So the McGahey case, which is from the era that Justice Breyer was asking me about earlier, is an example of this."
+2017.16-1432,1,15139,stephen_g_breyer,scotus_justice,2351.49,2365.61,"Which is easier? Which is easier? To produce an original bond that you bought, say, 20 years ago, and who knows where it is, or to write a letter saying, please, keep my wife as beneficiary? That's a loaded question."
+2017.16-1432,1,41249,shay_dvoretzky,,2365.61,2367.76,Well -- (Laughter.)
+2017.16-1432,1,41249,shay_dvoretzky,,2367.76,2378.885,But -- but -- but I think it's -- it's a loaded -- it's a loaded question because it has a premise built into it that it's only easy to file the form if you are aware of the need to do so.
+2017.16-1432,1,15139,stephen_g_breyer,scotus_justice,2382.92,2384.83,"Well, I said likely. I mean, I don't know."
+2017.16-1432,1,41249,shay_dvoretzky,,2424.415,2429.15,"I suspect that sometimes it does, but it doesn't always happen because not everybody even --"
+2017.16-1432,1,15139,stephen_g_breyer,scotus_justice,2429.15,2430.21,You're absolutely right on that.
+2017.16-1432,1,41249,shay_dvoretzky,,2445.27,2445.53,Right.
+2017.16-1432,1,15094,elena_kagan,scotus_justice,2454.79,2464.97,"But, Mr. Dvoretzky, if I could come back to Justice Alito's question because, in answering Justice Alito, you say we don't look to Mr. Sveen in particular, even if we know a lot about him."
+2017.16-1432,1,41249,shay_dvoretzky,,2510.365,2515.97,"Because I think it's indisputable that whether or not most would, many would not."
+2017.16-1432,1,15094,elena_kagan,scotus_justice,2517.4,2530.72500005,"Well, but you just said we're not -- I mean, if -- if -- if the question is the class, rather than the individual, then what option do we have other than to say something in general about the class?"
+2017.16-1432,1,41249,shay_dvoretzky,,2530.72500005,2553.82,"Because I think when you speak about the class as a whole, you're also encompassing some individual -- some individuals within that class who aren't going to want their rights to -- to be abrogated by the legislature. And what the Contracts Clause is concerned with is making sure, even under this Court's modern jurisprudence, that the legislature doesn't abrogate the rights of some, even if it's intending to benefit others by effectuating their intent."
+2017.16-1432,1,15068,samuel_a_alito_jr,scotus_justice,2554.1,2572.955,"But it seems to me you're -- your answer to me, to my question, leads to the conclusion that you are impairing the insured's -- the obligations that the insured counts on in -- in relation to the contract. There's a contract."
+2017.16-1432,1,41249,shay_dvoretzky,,2613.215,2621.42,"And that's because, for Contracts Clause purposes, the relevant law is the time -- is the law that is in effect at the time of the contract."
+2017.16-1432,1,15068,samuel_a_alito_jr,scotus_justice,2625.1,2628.135,But the -- I thought this statute was in place at the time of the contract?
+2017.16-1432,1,41249,shay_dvoretzky,,2628.135,2629.045,"No, it was not."
+2017.16-1432,1,15068,samuel_a_alito_jr,scotus_justice,2632.225,2632.7,Okay.
+2017.16-1432,1,41249,shay_dvoretzky,,2632.7,2634.745,And the contract was from 1998.
+2017.16-1432,1,15084,ruth_bader_ginsburg,scotus_justice,2634.745,2637.98,But it was in place at the time of the divorce?
+2017.16-1432,1,41249,shay_dvoretzky,,2637.98,2640.06,It was in place at the time of the divorce.
+2017.16-1432,1,15139,stephen_g_breyer,scotus_justice,2690.34,2690.77,Just one second.
+2017.16-1432,1,41249,shay_dvoretzky,,2735.975,2741.75,I think that their beneficiary designations are determined in accordance with the terms of their contract.
+2017.16-1432,1,15139,stephen_g_breyer,scotus_justice,2741.75,2751.84,"I'm just saying obviously the question is do all those people who thought their children would get the money, they're just out of luck? Is that right?"
+2017.16-1432,1,41249,shay_dvoretzky,,2751.84,2754.26,They're out of luck unless they redesignate --
+2017.16-1432,1,62836,neil_gorsuch,scotus_justice,2754.26,2755.11,They have to write a letter.
+2017.16-1432,1,41249,shay_dvoretzky,,2755.11,2756.26,"Unless -- right, exactly."
+2017.16-1432,1,62836,neil_gorsuch,scotus_justice,2757.77,2758.9,Somebody has to write a letter.
+2017.16-1432,1,62836,neil_gorsuch,scotus_justice,2760.94,2762.12,I think we've established that.
+2017.16-1432,1,15139,stephen_g_breyer,scotus_justice,2762.12,2769.53,"They have to -- they have to find out about this case, if you win, and maybe they just read Supreme Court cases -- it's possible -- (Laughter.)"
+2017.16-1432,1,41249,shay_dvoretzky,,2769.53,2769.85,We all do.
+2017.16-1432,1,15113,anthony_m_kennedy,scotus_justice,2769.85,2770.37,I was going to --
+2017.16-1432,1,62836,neil_gorsuch,scotus_justice,2770.37,2771.07,"Hopefully, they read --"
+2017.16-1432,1,15113,anthony_m_kennedy,scotus_justice,2771.07,2775.44,And they read -- and they read the Contract Clause and they read the Dartmouth College case. (Laughter.)
+2017.16-1432,1,62836,neil_gorsuch,scotus_justice,2775.44,2777.825,Either that or the state statute. Okay.
+2017.16-1432,1,41249,shay_dvoretzky,,2804.325,2806.98,The recording statutes are different for a few reasons.
+2017.16-1432,1,15131,sonia_sotomayor,scotus_justice,2815.8,2819.425,"I'm sorry, it takes away an express term of the contract."
+2017.16-1432,1,41249,shay_dvoretzky,,2825.51,2826.85,"Well, first, the --"
+2017.16-1432,1,15131,sonia_sotomayor,scotus_justice,2826.85,2833.325,"Here, you get a beneficiary, one you've designated as an alternative, so you get somebody."
+2017.16-1432,1,41249,shay_dvoretzky,,2840.51,2846.95,"First, Justice Sotomayor, the contract in those cases didn't speak one way or another to the recording obligation."
+2017.16-1432,1,15131,sonia_sotomayor,scotus_justice,2956.94,2968.995,"But that goes back to Justice Gorsuch's point, which is we look at the nature of the impairment, how difficult is it to do whatever is being changed."
+2017.16-1432,1,41249,shay_dvoretzky,,2984.34,3006.485,"So, again, I think those cases stand for the proposition that there isn't -- the reason there wasn't an impairment there is that the contract was not being directly altered by the legislature in the way that it is here. Even if you look at it as a practicability question, though, the -- the practical problem here is that policyholders are presumed to be unaware."
+2017.16-1432,1,15084,ruth_bader_ginsburg,scotus_justice,3082.43,3091.945,"May I -- what is your position on a policy that's taken out after the statute's enactment? Then it's okay, right?"
+2017.16-1432,1,41249,shay_dvoretzky,,3091.945,3100.325,"Yes, that would -- if the policy is taken out after the statute's enactment, then the statute is not acting retroactively on that policy."
+2017.16-1432,1,15068,samuel_a_alito_jr,scotus_justice,3100.325,3105.46,What about the retroactive application of a slayer statute?
+2017.16-1432,1,41249,shay_dvoretzky,,3105.46,3120.01,"So I think, under modern Contracts Clause doctrine, that would probably pass muster because the state's interest in ensuring that murderers don't collect life insurance proceeds is, I think, both intuitively and I'm sure --"
+2017.16-1432,1,15068,samuel_a_alito_jr,scotus_justice,3120.01,3122.11,What about -- what about the original understanding?
+2017.16-1432,1,41249,shay_dvoretzky,,3122.11,3138.775,"So, under the original understanding, I think it's a harder question. I think, arguably, if the slayer statute were viewed as a form of punishment for murder, then that could be within the -- the very narrow original understanding of the legislature's police power."
+2017.16-1432,1,15084,ruth_bader_ginsburg,scotus_justice,3164.47,3179.12,"There was also, I think, an example on the other side of a change in the status of adopted children to make them, for all purposes, the same as biological children."
+2017.16-1432,1,41249,shay_dvoretzky,,3179.12,3184.6,"So I -- I think, under the original understanding, that would be a Contracts Clause violation."
+2017.16-1432,1,15086,john_g_roberts_jr,scotus_justice,3330.665,3335.59500005,"Thank you, counsel. Five minutes, Mr. Unikowsky."
+2017.16-1432,2,62644,adam_g_unikowsky,,3335.59500005,3342.87,"Thank you, Mr. Chief Justice. So there's been a lot of different arguments floating around at the argument today."
+2017.16-1432,2,62836,neil_gorsuch,scotus_justice,3402.71,3414.555,"But isn't that because Justice Marshall also said that marriage contracts are not within the cognizance of the Contract Clause? And I don't think anyone disputes that life insurance policies are within the cognizance of the Contract Clause, or -- or do you?"
+2017.16-1432,2,62644,adam_g_unikowsky,,3414.555,3416.48,"No, I -- I -- certainly, they are."
+2017.16-1432,2,62836,neil_gorsuch,scotus_justice,3424.34,3427.91,Because marriage contracts are not within the cognizance of the clause.
+2017.16-1432,2,62644,adam_g_unikowsky,,3427.91,3428.57,"No, but I -- I think this is --"
+2017.16-1432,2,62836,neil_gorsuch,scotus_justice,3428.57,3428.66,Right?
+2017.16-1432,2,62644,adam_g_unikowsky,,3428.66,3430.2,"-- an a fortiori case. No, that's not why, Your Honor."
+2017.16-1432,2,15086,john_g_roberts_jr,scotus_justice,3638.36,3639.3,"Thank you, counsel."

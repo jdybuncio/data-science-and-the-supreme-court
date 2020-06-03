@@ -1,0 +1,253 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2018.17-1201,0,15086,john_g_roberts_jr,scotus_justice,0.0,6.68,"We'll hear argument first this morning in Case 17-1201, Thacker versus the Tennessee Valley Authority. Mr. Rouse."
+2018.17-1201,0,63087,franklin_taylor_rouse,,6.68,15.72,"Mr. Chief Justice, and may it please the Court: Congress created the Tennessee Valley Authority as a corporation that could sue and be sued."
+2018.17-1201,0,15131,sonia_sotomayor,scotus_justice,36.44,37.44,I'm sorry.
+2018.17-1201,0,63087,franklin_taylor_rouse,,49.92,52.88,"No, this -- this -- there's two totally separate things."
+2018.17-1201,0,15131,sonia_sotomayor,scotus_justice,53.52,67.96,"No, they're basically the same, which is how far does -- if you recognize some core government functions performed by the TVA, how far does that immunity go? Isn't that the question before us?"
+2018.17-1201,0,63087,franklin_taylor_rouse,,67.96,77.8,"I -- I think so, but I -- in -- in this circumstance is -- the conduct at issue is raising a power line out of the water, replacing an electrical conductor."
+2018.17-1201,0,15086,john_g_roberts_jr,scotus_justice,89.8,93.96,"Well, I suppose it depends at what level of generality you describe the conduct."
+2018.17-1201,0,63087,franklin_taylor_rouse,,113.12,133.2,"And that may and would -- and I think those exceptions would certainly implicate the Federal Tort Claims Act and the discretionary -- discretionary immunity there. But, under Burr, I think the -- the question begins with the presumption that -- that Congress has taken this entity, it has created it; it has not made it a new executive department, but it has said it can sue and be sued in its own name."
+2018.17-1201,0,15068,samuel_a_alito_jr,scotus_justice,158.04,200.12,"How do you think this is supposed to work? If we just -- if -- if the court just applies Burr, how is -- how is the court supposed to proceed in determining whether there is immunity? Look at the -- make a case-by-case determination whether the particular claim in that case falls within the -- the two categories set out in Burr, so is it consistent with the statutory and constitutional scheme, or, more to the point, does -- is it necessary to have immunity to avoid grave interference with the performance of a governmental function?"
+2018.17-1201,0,63087,franklin_taylor_rouse,,200.12,203.68,So under -- I think under the test that at least the second prong --
+2018.17-1201,0,15068,samuel_a_alito_jr,scotus_justice,203.68,204.04,Okay.
+2018.17-1201,0,63087,franklin_taylor_rouse,,204.04,227.24,"-- certainly looks at the specific conduct at issue, and it says, what proof do you have that immunity here is needed? It must -- it must be clearly shown that it is necessary to prevent some grave interference with the performance of a governmental function. Not just it may be tougher, it may be harder, or you may have to pay normal tort damages, but what grave interference is present here? Whereas --"
+2018.17-1201,0,15068,samuel_a_alito_jr,scotus_justice,227.24,232.64,You think this is -- this is to be done a case-by-case basis or categorical basis?
+2018.17-1201,0,63087,franklin_taylor_rouse,,232.64,255.48,"I think that under the second prong, a -- a case-by-case basis is going to be the more usual result, but, under the first prong, you're looking at, is this the type of suit that is consistent or inconsistent with the statutory or constitutional scheme? In this circumstance, there's no real argument that this case is inconsistent with the statutory scheme."
+2018.17-1201,0,15139,stephen_g_breyer,scotus_justice,263.48,275.56,"I guess there is some -- I guess there is some argument on the other side, and I take it that a main argument that registered in my mind was where Justice Sotomayor started out."
+2018.17-1201,0,63087,franklin_taylor_rouse,,336.4,344.76,"The Burr test, we believe, is actually much easier to look at for the judiciary than the Federal Tort Claims Act test."
+2018.17-1201,0,15139,stephen_g_breyer,scotus_justice,359.6,360.24,Uh-huh.
+2018.17-1201,0,63087,franklin_taylor_rouse,,360.24,363.24,-- that Congress was trying to protect under the FTCA?
+2018.17-1201,0,15139,stephen_g_breyer,scotus_justice,363.24,374.12,"And I take it if we apply Burr, we have to go case by case and decide whether, for other reasons, it was plainly the purpose of Congress to use sue-and-be-sued clause in a narrow sense."
+2018.17-1201,0,63087,franklin_taylor_rouse,,393.68,394.12,Yes.
+2018.17-1201,0,15139,stephen_g_breyer,scotus_justice,394.12,408.72,"I mean, you'll -- you're saying don't use the FTCA; use Burr. And I want to know, is that a big difference? And if that is a big difference, is it case by case? And that's where my question came from."
+2018.17-1201,0,63087,franklin_taylor_rouse,,408.72,411.24,"It is a big difference, totally separate."
+2018.17-1201,0,15139,stephen_g_breyer,scotus_justice,431.24,433.96,"And Burr -- look, I'll say -- try it once more."
+2018.17-1201,0,63087,franklin_taylor_rouse,,471.44,479.08,"We should look at Burr. And under Burr, the presumption begins with the fact that Congress has launched this entity, that it has --"
+2018.17-1201,0,15131,sonia_sotomayor,scotus_justice,479.08,482.96,"Counsel, let -- let me phrase it slightly differently."
+2018.17-1201,0,63087,franklin_taylor_rouse,,504.76,505.4,Correct.
+2018.17-1201,0,15131,sonia_sotomayor,scotus_justice,505.4,511.52,And why we should keep the FTCA in when Congress told us not to. Correct?
+2018.17-1201,0,63087,franklin_taylor_rouse,,511.52,513.52,Well -- correct.
+2018.17-1201,0,15131,sonia_sotomayor,scotus_justice,516.72,519.36,There's three entities that were excluded from the FTCA.
+2018.17-1201,0,63087,franklin_taylor_rouse,,519.36,519.96,Correct.
+2018.17-1201,0,15131,sonia_sotomayor,scotus_justice,519.96,529.56,So how much does your argument rely on the sue-to-be-sued clause or -- or the exclusion of the TVA?
+2018.17-1201,0,63087,franklin_taylor_rouse,,529.56,531.36,"Well, it's a little of both and it's this Court's precedent."
+2018.17-1201,0,15131,sonia_sotomayor,scotus_justice,532.04,532.64,All right.
+2018.17-1201,0,63087,franklin_taylor_rouse,,557.04,559.0,Correct.
+2018.17-1201,0,15131,sonia_sotomayor,scotus_justice,561.68,564.24,So both of them require a case-by-case analysis?
+2018.17-1201,0,63087,franklin_taylor_rouse,,564.24,566.04,They're both going to require a case-by-case basis.
+2018.17-1201,0,15131,sonia_sotomayor,scotus_justice,566.04,567.56,I think what Justice Breyer is saying --
+2018.17-1201,0,15094,elena_kagan,scotus_justice,567.56,568.52,"Well, that's true -- please."
+2018.17-1201,0,15131,sonia_sotomayor,scotus_justice,568.52,575.44,"I'm sorry, that the discretionary policy exemption is less complex than the Burr rule."
+2018.17-1201,0,63087,franklin_taylor_rouse,,575.44,586.2,I believe that at least where the judiciary is concerned it's -- it -- it's -- it might be more complex in some ways but less complex in other ways.
+2018.17-1201,0,15131,sonia_sotomayor,scotus_justice,602.6,604.2,That's on step 1. But step 2?
+2018.17-1201,0,63087,franklin_taylor_rouse,,604.2,604.88,That's on step 1.
+2018.17-1201,0,15094,elena_kagan,scotus_justice,620.04,620.24,Right.
+2018.17-1201,0,63087,franklin_taylor_rouse,,653.36,654.88,It is a different inquiry in kind.
+2018.17-1201,0,15094,elena_kagan,scotus_justice,654.88,669.92,"Well, that's what I'm not getting, because if you, again, focus, as Justice Sotomayor said, on the question of intrusion, impedement of -- of government operations, it seems like the same inquiry, just a higher standard --"
+2018.17-1201,0,63087,franklin_taylor_rouse,,669.92,670.52,So --
+2018.17-1201,0,15094,elena_kagan,scotus_justice,670.52,671.76,-- a higher bar.
+2018.17-1201,0,63087,franklin_taylor_rouse,,671.76,676.36,-- the Federal Tort Claims Act was by Congress.
+2018.17-1201,0,15068,samuel_a_alito_jr,scotus_justice,714.04,731.76,"Here's what bothers me about this case, and I'll ask the same question, if I have a chance, to the Assistant to the Solicitor General. The -- the TVA does some things that are purely governmental and it does some things that are pretty much purely commercial."
+2018.17-1201,0,63087,franklin_taylor_rouse,,780.36,780.6,No.
+2018.17-1201,0,15094,elena_kagan,scotus_justice,821.0,852.84,"You see, I think, Mr. Rouse, what Justice Alito may be offering you is a way out of the difficulty of some of these questions, is that, with respect to some of the TVA's functions, we shouldn't be applying something that's sort of like the discretionary function exception but not really like the discretionary function exception. Rather, we should be applying nothing. With respect to the commercial functions of the TVA, the TVA ought to be treated just like any other corporate entity."
+2018.17-1201,0,63087,franklin_taylor_rouse,,852.84,854.84,We absolutely think that's the case here.
+2018.17-1201,0,15068,samuel_a_alito_jr,scotus_justice,877.44,878.16,Part --
+2018.17-1201,0,63087,franklin_taylor_rouse,,878.16,878.68,Maybe --
+2018.17-1201,0,15068,samuel_a_alito_jr,scotus_justice,878.68,880.44,Go ahead.
+2018.17-1201,0,63087,franklin_taylor_rouse,,880.44,901.2,"Maybe in -- in historical -- in the Depression Era times, in the Tennessee Valley, during that point in time, but now it is doing all of the stuff on its own, without help, without anything like that, and it's making profit, profit that it's not turning back over to the U.S. Treasury. It's operating just as a private corporation. And so we absolutely think that --"
+2018.17-1201,0,15131,sonia_sotomayor,scotus_justice,901.2,901.56,Sorry.
+2018.17-1201,0,63087,franklin_taylor_rouse,,924.12,929.08,Only if the TVA shows that it clearly meets one of the Burr prongs.
+2018.17-1201,0,15131,sonia_sotomayor,scotus_justice,929.08,929.52,All right.
+2018.17-1201,0,63087,franklin_taylor_rouse,,937.24,947.84,"I don't know under those circumstances, but I will point the Court to an example that the Court has actually considered, and this is a pre-Burr case."
+2018.17-1201,0,15131,sonia_sotomayor,scotus_justice,965.24,970.68,"Well, it seems to me that that's really a close question, isn't it?"
+2018.17-1201,0,63087,franklin_taylor_rouse,,970.68,975.36,"I -- I -- I think that under those cases, because the Court in that case --"
+2018.17-1201,0,15131,sonia_sotomayor,scotus_justice,975.36,977.32,Let's assume we -- on common ground.
+2018.17-1201,0,63087,franklin_taylor_rouse,,985.84,988.6,There are some functions that may be governmental and Burr accounts for --
+2018.17-1201,0,15131,sonia_sotomayor,scotus_justice,988.6,1009.88,"So that's fine. The question before us is what to do about the middle stuff, or are you saying this is just commercial? And if you're saying it's just commercial, explain the Chief Justice's description of why it might not be just commercial, and how do we draw that line?"
+2018.17-1201,0,63087,franklin_taylor_rouse,,1009.88,1012.4,It's not whether something is commercial or not commercial.
+2018.17-1201,0,15068,samuel_a_alito_jr,scotus_justice,1040.36,1040.68,You said --
+2018.17-1201,0,15086,john_g_roberts_jr,scotus_justice,1040.68,1055.28,"Well, we've held -- we've held that the immunity has not been completely stripped, right? We've recognized that there are circumstances under which the TVA, as well as these other entities that are carved out of the FTCA, nonetheless have immunity."
+2018.17-1201,0,63087,franklin_taylor_rouse,,1055.28,1058.76,"Yes, Mr. Chief Justice, absolutely, that there are circumstances."
+2018.17-1201,0,15086,john_g_roberts_jr,scotus_justice,1065.92,1068.48,"Well, maybe we need some examples of ones you think are covered."
+2018.17-1201,0,63087,franklin_taylor_rouse,,1102.36,1103.88,I think so.
+2018.17-1201,0,15086,john_g_roberts_jr,scotus_justice,1112.04,1116.64,So flood control is something that you can sue the TVA on?
+2018.17-1201,0,63087,franklin_taylor_rouse,,1116.64,1119.12,"There are certain circumstances where, absolutely, I think so."
+2018.17-1201,0,15086,john_g_roberts_jr,scotus_justice,1119.12,1123.24,"Well, what are -- give me an example of something you can't sue them on."
+2018.17-1201,0,63087,franklin_taylor_rouse,,1123.24,1148.4,"I think that if I'm a private landowner and I've got land on the -- right on the banks of the Tennessee River, and the TVA wants to exercise some of the power that Congress has given it in being able to use eminent domain, take land to put up power lines, then I can't turn around and sue the TVA and say no, you can't do that. That is one of those things where, no, Congress has --"
+2018.17-1201,0,15086,john_g_roberts_jr,scotus_justice,1148.4,1152.8,"Well, but you can't sue -- you can't sue somebody with eminent domain power anytime."
+2018.17-1201,0,63087,franklin_taylor_rouse,,1160.16,1167.24,"Or a -- or, I guess, a -- a negligence action saying no, you should have put the -- the lines -- you're going to take my land, you should have taken my neighbor's land and put the lines that way."
+2018.17-1201,0,17766,brett_m_kavanaugh,scotus_justice,1178.08,1183.68,"Part of the problem is figuring out what Burr means, to my problem at least."
+2018.17-1201,0,63087,franklin_taylor_rouse,,1192.24,1194.92,We think that Burr accounts for much more.
+2018.17-1201,0,17766,brett_m_kavanaugh,scotus_justice,1207.52,1210.0,"Well, that doesn't tell me what the exception means, though."
+2018.17-1201,0,63087,franklin_taylor_rouse,,1213.4,1227.72,"So the exceptions would be an inconsistency with the statutory scheme, some -- some lawsuit that is just not contemplated by the text."
+2018.17-1201,0,17766,brett_m_kavanaugh,scotus_justice,1232.92,1241.52,"What about -- what about the second -- I'm sorry to interrupt, the second prong, though, grave interference? How do you think about that?"
+2018.17-1201,0,63087,franklin_taylor_rouse,,1241.52,1253.2,I think that there -- normal tort liability in this case does not implicate the type of governmental conduct that Burr's second prong is written to protect.
+2018.17-1201,0,17766,brett_m_kavanaugh,scotus_justice,1253.2,1269.08,"And are you -- just so I understand your argument here, are you asking us to simply hold that the right test is Burr, instead of discretionary function, and then to remand for application of Burr in the first instance by the court of appeals?"
+2018.17-1201,0,63087,franklin_taylor_rouse,,1269.08,1271.08,At -- at a minimum.
+2018.17-1201,0,17766,brett_m_kavanaugh,scotus_justice,1272.88,1273.92,What's the maximum? Yeah.
+2018.17-1201,0,63087,franklin_taylor_rouse,,1273.92,1295.48,"The maximum is that we can look at this as a 12(b)(1) dismissal, we can take the facts as stated in the complaint, in the affidavit, as true, and say no, this is just not the type of conduct that is inconsistent with the constitutional scheme, because that's really the only element that is at issue here. There was no findings of fact on the grave interference test."
+2018.17-1201,0,15094,elena_kagan,scotus_justice,1319.64,1327.56,"But I think people are actually a little bit more interested in the second prong of -- of Burr, which is the interference with government operations."
+2018.17-1201,0,63087,franklin_taylor_rouse,,1340.88,1342.36,Because there's no grave interference.
+2018.17-1201,0,15139,stephen_g_breyer,scotus_justice,1392.04,1403.4,"I will go back for a second because I think that we have a statute, TVA exempt from the Federal Tort Claims Act."
+2018.17-1201,0,63087,franklin_taylor_rouse,,1419.76,1420.12,Correct.
+2018.17-1201,0,15139,stephen_g_breyer,scotus_justice,1420.12,1420.56,At least.
+2018.17-1201,0,63087,franklin_taylor_rouse,,1421.84,1422.48,Yes.
+2018.17-1201,0,15139,stephen_g_breyer,scotus_justice,1422.48,1423.16,Okay.
+2018.17-1201,0,63087,franklin_taylor_rouse,,1459.16,1465.2,What we have consistently argued in this case is that Burr is the test. And so --
+2018.17-1201,0,15139,stephen_g_breyer,scotus_justice,1465.2,1467.56,"No, they don't disagree that Burr applies."
+2018.17-1201,0,63087,franklin_taylor_rouse,,1498.6,1503.84,I don't think there is a line for these entities between commercial and governmental.
+2018.17-1201,0,15086,john_g_roberts_jr,scotus_justice,1562.4,1569.84,"Thank you, counsel. Ms. Adams."
+2018.17-1201,1,16657,ann_oconnell,,1569.84,1581.4,"Mr. Chief Justice, and may it please the Court: This Court recognized in Burr that a sue-and-be-sued clause need not be read to waive immunity for absolutely everything that the agency could be sued for."
+2018.17-1201,1,15131,sonia_sotomayor,scotus_justice,1604.56,1613.36,"Ms. O'Connell, is it, though? As Justice Alito pointed out, it is a hybrid entity."
+2018.17-1201,1,16657,ann_oconnell,,1683.68,1684.76,I think the --
+2018.17-1201,1,15131,sonia_sotomayor,scotus_justice,1684.76,1688.4,When this Act can be both government and business?
+2018.17-1201,1,16657,ann_oconnell,,1688.4,1688.92,I think --
+2018.17-1201,1,15131,sonia_sotomayor,scotus_justice,1688.92,1693.88,"Depending on who the operator is, not because it is the government doing it."
+2018.17-1201,1,16657,ann_oconnell,,1693.88,1704.64,"I think that the larger issue here, Justice Sotomayor, is that the discretionary-function immunity historically has never drawn a distinction between governmental functions and commercial functions."
+2018.17-1201,1,15131,sonia_sotomayor,scotus_justice,1705.32,1709.92,"It hasn't, but Congress did with the sue-and-be-sued clause."
+2018.17-1201,1,16657,ann_oconnell,,1709.92,1716.24,"Well, and -- but Congress also, in the Federal Tort Claims Act, brought all sue-and-be-sued agencies except for the TVA, with --"
+2018.17-1201,1,15131,sonia_sotomayor,scotus_justice,1716.24,1716.8,Exactly.
+2018.17-1201,1,16657,ann_oconnell,,1723.64,1724.16,No.
+2018.17-1201,1,15131,sonia_sotomayor,scotus_justice,1724.16,1725.08,It took it out of.
+2018.17-1201,1,16657,ann_oconnell,,1725.08,1732.48,"I don't -- but, by doing that, I don't think Congress -- the -- the legislative history of the Federal Tort Claims Act that this Court described in Dalehite and --"
+2018.17-1201,1,15131,sonia_sotomayor,scotus_justice,1732.48,1755.8,"By the way, if it had left it in the FTCA, what additional suits do you think could have been brought -- could not have been brought? Meaning, by giving it a sue-and-to-be-sued clause, what other activities by the TVA would be subject to suit that would not be subject to sue under the"
+2018.17-1201,1,16657,ann_oconnell,,1755.8,1759.56,Any -- any of the other exceptions listed in the Federal Tort Claims Act.
+2018.17-1201,1,15094,elena_kagan,scotus_justice,1775.56,1809.72,"But, Ms. O'Connell, how does that make it any different from all the agencies that are subject to the FTCA? In other words, your brief says over and over again -- and you have to say this, because we've said it would be improper simply to engraft the FTCA exception onto agencies that have been excluded from the FTCA in whole or in part. But the test that you're giving us would essentially do the exact same thing, wouldn't it? It would exempt the TVA from exactly the same suits that the TVA would be exempted from if the TVA were included in the"
+2018.17-1201,1,16657,ann_oconnell,,1809.72,1818.92,"In terms of discretionary decision-making, yes, because that's -- but that's because the tests under the statute and the tests at common law are coterminous with one another."
+2018.17-1201,1,15094,elena_kagan,scotus_justice,1818.92,1838.88,"Well, in terms of discretionary decision-making, what -- what would be different? I mean, what would be the consequence of the fact that Congress specifically excluded the TVA from the FTCA that's really of any meaning? I know you said that there are some procedural differences in how you bring a suit, but that's really of any meaning to anybody."
+2018.17-1201,1,16657,ann_oconnell,,1838.88,1843.24,"In terms of -- of discretionary decisions, there would be no difference."
+2018.17-1201,1,15094,elena_kagan,scotus_justice,1843.24,1845.44,"Well, in terms of what would there be a difference?"
+2018.17-1201,1,16657,ann_oconnell,,1845.44,1849.76,"Well, anything else having to do with -- with the Federal Tort Claims Act."
+2018.17-1201,1,15094,elena_kagan,scotus_justice,1852.8,1864.68,"No, my question is what's the practical difference, given your position, that the FT -- that the TVA was excluded? What's the difference for the TV -- TVA --"
+2018.17-1201,1,16657,ann_oconnell,,1864.68,1864.92,Back --
+2018.17-1201,1,15094,elena_kagan,scotus_justice,1864.92,1866.08,-- that it was excluded?
+2018.17-1201,1,16657,ann_oconnell,,1866.08,1870.68,"Well, I think the -- the main reasons -- and this is described a little bit on page 42 of our brief --"
+2018.17-1201,1,15094,elena_kagan,scotus_justice,1870.68,1874.0,Not the reasons. What's the practical consequence of being excluded?
+2018.17-1201,1,16657,ann_oconnell,,1874.0,1881.92,"Well, people that -- that would like to sue the TVA back in 1942, the agency would have lost settlement authority at a thousand dollars."
+2018.17-1201,1,15139,stephen_g_breyer,scotus_justice,1949.64,1950.8,"But, overall, what was it --"
+2018.17-1201,1,15086,john_g_roberts_jr,scotus_justice,1950.8,1955.48,"Ms. Adams, I -- I'm not sure I follow the separation of powers argument."
+2018.17-1201,1,16657,ann_oconnell,,1968.96,1984.28,"It's -- the separation of powers principle that's at play is -- is the one that's protected by the discretionary-function immunity historically, which is that you don't want courts second-guessing the discretionary decisions of the -- the Executive Branch."
+2018.17-1201,1,15086,john_g_roberts_jr,scotus_justice,1984.28,1998.24,"But -- but this wouldn't be unusual, whichever side of the case wins, that handling a tort case is -- we're not intruding upon Congress's functions. That's what we do every day."
+2018.17-1201,1,16657,ann_oconnell,,1998.24,2002.2,"It -- it would be -- well, intruding on the -- on the executive functions, and --"
+2018.17-1201,1,62836,neil_gorsuch,scotus_justice,2002.2,2007.92,"Well, but, Ms. Adams, on that, I was stuck where the Chief was on -- on your brief."
+2018.17-1201,1,16657,ann_oconnell,,2018.04,2018.48,No.
+2018.17-1201,1,62836,neil_gorsuch,scotus_justice,2018.48,2024.04,So Congress could waive even the executive's immunity on discretionary functions?
+2018.17-1201,1,16657,ann_oconnell,,2024.04,2024.56,Yes.
+2018.17-1201,1,62836,neil_gorsuch,scotus_justice,2037.76,2063.72,"I mean, it would be perfectly sensible if Congress wanted to create, say, a cola company because it thought there wasn't sufficient competition in the soft drink industry, a true commercial entity, that it would allow suit for negligence and those -- against such an entity so that it has to internalize its costs of operation and compete on equal footing with other private commercial entities. That would be perfectly appropriate in the government's view I -- I take it?"
+2018.17-1201,1,16657,ann_oconnell,,2063.72,2064.32,Yes.
+2018.17-1201,1,62836,neil_gorsuch,scotus_justice,2064.32,2064.8,Okay.
+2018.17-1201,1,16657,ann_oconnell,,2084.48,2092.28,"If there's something that's a -- that's a ministerial decision, that's going to be kicked out under the second prong or under the discretionary function."
+2018.17-1201,1,62836,neil_gorsuch,scotus_justice,2092.28,2096.56,But -- but the government's not -- the government would defend the judgment in this case.
+2018.17-1201,1,16657,ann_oconnell,,2096.56,2097.0,Yes.
+2018.17-1201,1,62836,neil_gorsuch,scotus_justice,2097.0,2097.24,Okay.
+2018.17-1201,1,16657,ann_oconnell,,2097.72,2119.68,"And -- and I guess I should go back to this distinction between commercial and governmental activities. So, historically, the discretionary-function immunity protected both officers and agencies that were engaged in any function, regardless of whether it was commercial or governmental. And so there's been no distinction as this doctrine has developed between those different types of activities."
+2018.17-1201,1,15068,samuel_a_alito_jr,scotus_justice,2155.8,2156.64,"So, basically, you're --"
+2018.17-1201,1,15094,elena_kagan,scotus_justice,2156.64,2158.84,"But, Ms. O'Connell, I -- I think --"
+2018.17-1201,1,15068,samuel_a_alito_jr,scotus_justice,2158.84,2159.32,Go ahead.
+2018.17-1201,1,16657,ann_oconnell,,2173.96,2175.96,Correct.
+2018.17-1201,1,15068,samuel_a_alito_jr,scotus_justice,2175.96,2178.92,Governmental doesn't -- is not distinguished from commercial?
+2018.17-1201,1,16657,ann_oconnell,,2178.92,2179.24,No.
+2018.17-1201,1,15068,samuel_a_alito_jr,scotus_justice,2202.84,2215.0,"So, if TVA does -- engages in an act of negligence in doing exactly the same thing that is done every day by, let's say, PEPCO, the TVA is completely immune?"
+2018.17-1201,1,16657,ann_oconnell,,2215.0,2218.72,"If it's a -- if it involves the exercise of discretionary judgment, yes."
+2018.17-1201,1,62836,neil_gorsuch,scotus_justice,2220.12,2240.24,"Shouldn't -- shouldn't we expect a little more clarity from Congress than that? If -- if the government wishes to compete in private industry and the commercial world, shouldn't we expect the government to make it clear that it wishes to retain its immunity a little bit more clearly than enacting a statute that says the entity may be sued?"
+2018.17-1201,1,16657,ann_oconnell,,2240.24,2241.64,I don't -- I don't think so.
+2018.17-1201,1,62836,neil_gorsuch,scotus_justice,2241.88,2244.08,"I mean, those are the only words we have in the statute."
+2018.17-1201,1,16657,ann_oconnell,,2246.2,2251.76,"When the Federal Tort Claims Act was enacted, the legislative history shows that Congress understood that --"
+2018.17-1201,1,62836,neil_gorsuch,scotus_justice,2251.76,2254.12,"I'm not interested in that, as you know, Ms. Adams."
+2018.17-1201,1,16657,ann_oconnell,,2254.64,2261.92,"No, I know, but the idea is that Congress brought sue-and-be-sued entities under the scope of the Federal Tort Claims Act."
+2018.17-1201,1,15139,stephen_g_breyer,scotus_justice,2282.04,2284.36,"And the original -- the origin, the origin."
+2018.17-1201,1,16657,ann_oconnell,,2306.4,2307.16,That's correct.
+2018.17-1201,1,15139,stephen_g_breyer,scotus_justice,2307.16,2317.08,"So, if they exempt from the FTCA, that should, in general, make it harder to sue TVA, not easier."
+2018.17-1201,1,16657,ann_oconnell,,2331.28,2333.2,"No, because while in general --"
+2018.17-1201,1,15139,stephen_g_breyer,scotus_justice,2333.2,2333.48,Yeah.
+2018.17-1201,1,16657,ann_oconnell,,2333.48,2337.16,-- the FTCA was a good thing for people and made it easier for people --
+2018.17-1201,1,15139,stephen_g_breyer,scotus_justice,2337.16,2337.4,Yeah.
+2018.17-1201,1,16657,ann_oconnell,,2337.4,2364.6,"-- to sue the federal government because there was no waiver of immunity before, in the -- in the Tennessee Valley specifically, there had been an agency operating there and interacting with people in a variety of different ways for about a decade. And so, by scooping the -- the TVA into the Federal Tort Claims Act, it -- it would actually make life harder for those people because, as I explained before, the agency loses settlement authority over a thousand dollars, there's -- there's much less discretion in how to settle the case."
+2018.17-1201,1,15139,stephen_g_breyer,scotus_justice,2364.6,2364.8,All right.
+2018.17-1201,1,16657,ann_oconnell,,2365.72,2365.92,Yes.
+2018.17-1201,1,15139,stephen_g_breyer,scotus_justice,2365.92,2386.56,"There's -- the other thing I'm not certain about is, if you look at the power industry, in selling power to customers, they're mostly government-owned, municipalities -- or there are loads of government-owned agencies. In transmission, they are by and large privately owned but highly regulated."
+2018.17-1201,1,16657,ann_oconnell,,2428.2,2445.28,"Well, I think -- I guess the fact that Congress brought sue-and-be-sued agencies generally under the protection of the Federal Tort Claims Act shows that it didn't care what function the agency was performing, whether it was a commercial function or some, as -- as the phrase has been used, core governmental function."
+2018.17-1201,1,17766,brett_m_kavanaugh,scotus_justice,2460.56,2460.8,But it --
+2018.17-1201,1,15094,elena_kagan,scotus_justice,2460.8,2461.12,Ms. --
+2018.17-1201,1,17766,brett_m_kavanaugh,scotus_justice,2461.12,2462.52,But it's --
+2018.17-1201,1,15094,elena_kagan,scotus_justice,2462.52,2476.44,"Ms. O'Connell, if -- if -- if -- if I'm a Tennessee resident and I can't sue the TVA for this conduct, for raising a transmission line negligently, what kind of negligent suit can I bring against the TVA?"
+2018.17-1201,1,16657,ann_oconnell,,2476.44,2490.44,"I think the -- the typical example, when you have these buckets of things that are discretionary versus things that are not, the typical example of something that doesn't fall within the discretionary-function exception is you're driving down the road and a TVA truck rear-ends you."
+2018.17-1201,1,15094,elena_kagan,scotus_justice,2496.52,2497.28,Okay.
+2018.17-1201,1,16657,ann_oconnell,,2508.0,2508.24,Um --
+2018.17-1201,1,15094,elena_kagan,scotus_justice,2508.24,2514.56,"I mean, you know, somebody rear-ending you, it's just -- it could be a TVA driver or it could be anybody else on the road."
+2018.17-1201,1,16657,ann_oconnell,,2528.8,2547.52,"I mean, I'm -- I'm not sure that I have any examples from the case law or anything like that, but it would be similar types of things where you're -- you're walking past and something hits you or something like that, some kind of a -- a -- an action by the agency that didn't involve any discretion in deciding to take a certain action."
+2018.17-1201,1,15086,john_g_roberts_jr,scotus_justice,2547.88,2560.36,"What like if you have, you know, a fence -- you should have had a fence along one of the rivers and you don't, and so, you know, a child runs into the river and is harmed? Is that like rear-ending a -- a car?"
+2018.17-1201,1,16657,ann_oconnell,,2560.36,2587.68,"I think under -- now, again, this is all on Question Presented 2 under which the Court did not grant cert, but I think under -- there's a case, Edwards versus TVA, where somebody tried to make a similar example, that they fell into the water near a reservoir, and they should -- there should have been a warning, and the court said no, that the -- how to warn people about the hazards and the -- you know, the economic decisions that go into where you put the signs and how you warn people and things like that involves an exercise of discretion."
+2018.17-1201,1,17766,brett_m_kavanaugh,scotus_justice,2587.68,2622.4,"One way to look at this case is that the discretionary-function exemption does not apply because it's not statutorily provided, but, nonetheless, Burr applies in that Burr sets up what seems to me on its face to be a higher bar or a more narrower exception than the discretionary-function exception because it uses terms like ""grave interference"" with governmental function. What is wrong with looking at the case that way? Which would leave figuring out exactly what Burr means either to the court of appeals or future elaboration."
+2018.17-1201,1,16657,ann_oconnell,,2622.4,2629.52,"I -- I don't think that Burr, Justice Kavanaugh, is meant to be a replacement for the discretionary-function test."
+2018.17-1201,1,17766,brett_m_kavanaugh,scotus_justice,2640.52,2650.16,"But, if we conclude that you don't have this discretionary-function exception because it's not provided in the statute, we're left with Burr, right?"
+2018.17-1201,1,16657,ann_oconnell,,2650.16,2652.16,Right.
+2018.17-1201,1,17766,brett_m_kavanaugh,scotus_justice,2652.32,2657.68,"I know -- I know you're fighting the premise of the ""if"" clause, but if we conclude that, then you're left with Burr."
+2018.17-1201,1,16657,ann_oconnell,,2660.04,2668.76,I think that Burr is what gets you to the point that you say there is a discretionary-function exception. So Burr should be a preliminary step before --
+2018.17-1201,1,17766,brett_m_kavanaugh,scotus_justice,2668.76,2669.08,Right.
+2018.17-1201,1,16657,ann_oconnell,,2669.08,2672.08,-- discretionary-function test is applied where the court --
+2018.17-1201,1,17766,brett_m_kavanaugh,scotus_justice,2672.08,2673.6,So -- so you don't do it case by case.
+2018.17-1201,1,16657,ann_oconnell,,2682.44,2683.64,That's exactly right.
+2018.17-1201,1,15094,elena_kagan,scotus_justice,2714.56,2728.84,"But, if -- if your answer to Justice Kavanaugh is right, that would mean you are engrafting the FTCA exception onto the TVA, an -- an entity that has been specifically excluded from the FTCA."
+2018.17-1201,1,16657,ann_oconnell,,2728.84,2736.16,The -- the idea here is that we're -- we're not trying to borrow something from the FTCA that we were specifically excluded from.
+2018.17-1201,1,15094,elena_kagan,scotus_justice,2750.12,2751.6,"But you see what I'm saying, Ms. O'Connell."
+2018.17-1201,1,16657,ann_oconnell,,2767.16,2770.84,It all amounts to the -- to the idea that TVA gets discretionary-function immunity --
+2018.17-1201,1,15094,elena_kagan,scotus_justice,2770.84,2771.16,Yeah.
+2018.17-1201,1,16657,ann_oconnell,,2771.16,2771.48,-- yes.
+2018.17-1201,1,15139,stephen_g_breyer,scotus_justice,2793.4,2793.92,Can I read this to --
+2018.17-1201,1,16657,ann_oconnell,,2793.92,2794.72,-- that's relevant to the statute.
+2018.17-1201,1,15139,stephen_g_breyer,scotus_justice,2794.72,2848.8,"Can I read one sentence to you that was just pointed out to me? In Prosser, on page 1053, I didn't know this, it was -- it was just pointed out, if the city operates a local electric or water company for which fees are charged, this looks very much like private enterprise and is usually considered proprietary, for torts committed in these operations then, the city is usually held liable. So that's contrary to what I was thinking before, but that's what Prosser says. And if you hold local electricity companies owned by the city liable for the distribution of electricity, why shouldn't you hold the TVA liable, at least when they're engaged in electricity distribution through wires?"
+2018.17-1201,1,16657,ann_oconnell,,2848.8,2849.88,I'm -- I'm not familiar --
+2018.17-1201,1,15139,stephen_g_breyer,scotus_justice,2849.88,2850.28,Okay.
+2018.17-1201,1,16657,ann_oconnell,,2850.28,2851.8,-- with that statement from Prosser.
+2018.17-1201,1,15131,sonia_sotomayor,scotus_justice,2871.08,2877.04,But Burr does -- Burr itself recognizes that.
+2018.17-1201,1,16657,ann_oconnell,,2888.4,2889.24,I -- I don't --
+2018.17-1201,1,15131,sonia_sotomayor,scotus_justice,2889.24,2890.6,So do you --
+2018.17-1201,1,16657,ann_oconnell,,2890.6,2891.32,"Respectfully, I -- I --"
+2018.17-1201,1,15131,sonia_sotomayor,scotus_justice,2891.32,2898.64,Do you agree that Burr and the discretionary policy exception overlap in some respects?
+2018.17-1201,1,16657,ann_oconnell,,2898.64,2899.08,No.
+2018.17-1201,1,15131,sonia_sotomayor,scotus_justice,2912.56,2917.76,And some of that has to do with governmental functions and the discretion the government has in that area?
+2018.17-1201,1,16657,ann_oconnell,,2917.76,2918.2,No.
+2018.17-1201,1,15131,sonia_sotomayor,scotus_justice,2927.76,2932.6,So you -- you totally give up the idea that there's any overlap between the two?
+2018.17-1201,1,16657,ann_oconnell,,2932.6,2932.76,Correct.
+2018.17-1201,1,15131,sonia_sotomayor,scotus_justice,2932.76,2935.52,You think they're just totally --
+2018.17-1201,1,16657,ann_oconnell,,2935.52,2936.96,I think Burr is a preliminary test.
+2018.17-1201,1,15131,sonia_sotomayor,scotus_justice,2936.96,2956.44,"So, if you lose, the way Justice Kavanaugh set up the possible loss, Burr controls, you would give up any claim to discretionary function exemption, you would not claim that this interferes with the government because it cabins its discretionary function?"
+2018.17-1201,1,16657,ann_oconnell,,2956.44,2960.96,"Well, we -- we just don't think that Burr is applied on a case-by-case basis in that way."
+2018.17-1201,1,15131,sonia_sotomayor,scotus_justice,2960.96,2979.6,"I know, but if you're wrong, if we decide you're wrong, are you here going to disavow relying on the discretionary exemption in claiming that prong 2 is not met under Burr?"
+2018.17-1201,1,16657,ann_oconnell,,2979.6,2994.6,"I mean, I guess we would still try to argue that, as a category of cases, if you allow -- I mean, I think that's the whole application of Burr, is whether -- I think the dispute in part is whether you look at Burr with respect to categories of cases or on a case-by-case basis."
+2018.17-1201,1,62836,neil_gorsuch,scotus_justice,2994.6,2994.96,Right.
+2018.17-1201,1,16657,ann_oconnell,,3001.84,3004.84,"So the argument I've lost is what, that there's no discretionary --"
+2018.17-1201,1,62836,neil_gorsuch,scotus_justice,3004.84,3012.6,"Is -- is -- is that Burr is just a categorical question, preliminary question, as to whether the discretionary-function exception applies. You've lost that."
+2018.17-1201,1,16657,ann_oconnell,,3019.96,3021.0,"Well, I guess that --"
+2018.17-1201,1,62836,neil_gorsuch,scotus_justice,3021.0,3024.56,"And I'd -- and I'd really appreciate, if it's possible, to start with a yes or a no."
+2018.17-1201,1,16657,ann_oconnell,,3024.56,3025.64,Yes.
+2018.17-1201,1,15068,samuel_a_alito_jr,scotus_justice,3041.08,3044.36,"And by ""this category of claim,"" what do you mean?"
+2018.17-1201,1,16657,ann_oconnell,,3044.36,3052.56,Claims that are -- tort claims for damages for activities that arise from discretionary activities of the executive.
+2018.17-1201,1,15068,samuel_a_alito_jr,scotus_justice,3052.56,3053.12,All right.
+2018.17-1201,1,16657,ann_oconnell,,3077.28,3094.96,"I think you're pretty far down the wrong road at that point, but I think one other thing that I guess I maybe haven't said yet is that, if you're looking whether something is -- is governmental or commercial, if it's a federal government agency doing it, it is a governmental activity. This Court has said that in a couple of different cases."
+2018.17-1201,1,62836,neil_gorsuch,scotus_justice,3099.28,3127.64,"Oh, sure, land -- federal lands, absolutely, but if -- if -- if -- if the government were setting up a cola company, why should we, with this very limited language before us, which actually seems to go the other way -- should we require Congress, if it wishes to assert sovereign immunity in cases of classic commercial conduct, like my cola company, to say so a little more clearly than this? This, after all, being go ahead and sue us."
+2018.17-1201,1,16657,ann_oconnell,,3127.64,3151.2,"I think if the -- if the Court is looking for something in terms of the Coca-Cola company or something that is just a purely commercial function, there may be room in prong 2 of the actual discretionary-function test for that. The discretionary-function test itself asks first whether this was an act that involved the exercise of discretion and then, second, whether it's grounded in social, economic, or political policy. So maybe the Court could say for --"
+2018.17-1201,1,62836,neil_gorsuch,scotus_justice,3151.2,3162.92,"Well, no, that would be grounded in political policy, sure, but that's my whole point of my hypothetical. Congress decided that it needed another cola company in the world, we needed one for some reason, we needed another cola company in the world."
+2018.17-1201,1,16657,ann_oconnell,,3168.0,3168.6,"Well, I guess --"
+2018.17-1201,1,62836,neil_gorsuch,scotus_justice,3168.6,3171.48,"So I don't think that would solve our problem. We'd need something else, wouldn't we?"
+2018.17-1201,1,16657,ann_oconnell,,3171.48,3176.12,"In that case, I guess the -- the TVA is obviously quite different than a Coca-Cola company."
+2018.17-1201,1,62836,neil_gorsuch,scotus_justice,3186.2,3188.84,Now you're just fighting the hypothetical.
+2018.17-1201,1,16657,ann_oconnell,,3213.24,3213.28,Well --
+2018.17-1201,1,62836,neil_gorsuch,scotus_justice,3213.28,3216.16,"That's quite an extraordinary thing you're asking for, isn't it?"
+2018.17-1201,1,16657,ann_oconnell,,3216.16,3217.56,I -- I'm not sure it is.
+2018.17-1201,1,15086,john_g_roberts_jr,scotus_justice,3247.4,3261.8,"So you're saying lowest cost feasible means, to the extent you can deprive individuals harmed by their activities, purely commercial activities, that that counts in trying to keep the costs low?"
+2018.17-1201,1,16657,ann_oconnell,,3261.8,3263.76,"I mean, I think that's an argument."
+2018.17-1201,1,15086,john_g_roberts_jr,scotus_justice,3268.8,3270.16,"Well, I'm not sure you haven't rolled it out."
+2018.17-1201,1,16657,ann_oconnell,,3282.96,3284.68,"Well, yeah, perhaps that's right."
+2018.17-1201,1,17766,brett_m_kavanaugh,scotus_justice,3298.32,3323.92,"But the -- you're trying to fold the discretionary-function exception into the second part of Burr. But is it really the case -- I guess one response would be is it really the case that you need this broad discretionary-function exception in all these kinds of hypothetical cases that have been raised in order to avoid a grave interference for the governmental function, which seems like a high bar set forth in Burr?"
+2018.17-1201,1,16657,ann_oconnell,,3323.92,3325.04,Yes.
+2018.17-1201,1,15094,elena_kagan,scotus_justice,3370.72,3379.76,"Just on the facts of this case, why would allowing a negligence suit to proceed interfere with important government functions?"
+2018.17-1201,1,16657,ann_oconnell,,3379.76,3380.28,May I answer?
+2018.17-1201,1,15086,john_g_roberts_jr,scotus_justice,3380.28,3380.68,Sure.
+2018.17-1201,1,16657,ann_oconnell,,3380.68,3390.28,"It's -- on the facts of this case, you know, the Petitioners say, well, TVA could continue operating the next day, even if they're required to pay out damages to this particular plaintiff."
+2018.17-1201,1,15086,john_g_roberts_jr,scotus_justice,3408.44,3412.92,"Thank you, Ms. Adams. Mr. Rouse, you have four minutes remaining."
+2018.17-1201,2,63087,franklin_taylor_rouse,,3412.92,3421.48,The FTCA and discretionary function analysis just don't apply to Tennessee Valley Authority.
+2018.17-1201,2,15139,stephen_g_breyer,scotus_justice,3473.2,3508.64,"What about the other sentence in Prosser: ""For example, activities of police or firefighters, though tortious, are usually considered governmental, in the sense that they involve the kind of power expected of government, even if its exercise in the specific case is wrongful, the city is immune as to such activities for this reason."" So Prosser seems to distinguish between what's commercial and what's basically governmental. Now they're legislating in Congress against that background."
+2018.17-1201,2,63087,franklin_taylor_rouse,,3519.72,3533.24,"That -- there is certainly a distinction between governmental work, deciding where to put a dam up, and running new power lines across a line, lifting one up out of the water."
+2018.17-1201,2,15086,john_g_roberts_jr,scotus_justice,3580.92,3582.08,"Thank you, counsel."

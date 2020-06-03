@@ -1,0 +1,156 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2011.10-637,0,15086,john_g_roberts_jr,scotus_justice,0.0,8.087,"We will hear argument next in Case 10-637, Greene v. Fisher."
+2011.10-637,0,30283,jeffrey_l_fisher,,9.272,12.641,"Thank you, Mr. Chief Justice, and may it please the Court:"
+2011.10-637,0,15086,john_g_roberts_jr,scotus_justice,60.622,65.775,"Mr. Fisher, we wouldn't have this problem, at least not in this case, if your client had -- had sought cert, right?"
+2011.10-637,0,30283,jeffrey_l_fisher,,78.75,82.035,--If this Court had GVRed the case -- if -- yes.
+2011.10-637,0,15086,john_g_roberts_jr,scotus_justice,82.035,83.57,"No, if he had sought cert.--"
+2011.10-637,0,30283,jeffrey_l_fisher,,83.57,84.687,"Well, I -- well, I'm not sure--"
+2011.10-637,0,15086,john_g_roberts_jr,scotus_justice,84.687,86.439,--You can't very well GVR it until he seeks cert.--
+2011.10-637,0,30283,jeffrey_l_fisher,,86.439,86.856,--Of course.
+2011.10-637,0,15086,john_g_roberts_jr,scotus_justice,86.856,97.062,"--And I think it's kind of a glaring factual nuance to the case, kind of, that he didn't seek cert. And he also didn't seek State collateral review."
+2011.10-637,0,30283,jeffrey_l_fisher,,102.132,104.048,"Well, let me take those one at a time, Your Honor."
+2011.10-637,0,15139,stephen_g_breyer,scotus_justice,148.61,149.294,Why?
+2011.10-637,0,30283,jeffrey_l_fisher,,180.815,183.565,"Well, I can think of -- let me take it one step at a time."
+2011.10-637,0,15086,john_g_roberts_jr,scotus_justice,208.683,218.421,"Normally I think if it looks like a mess procedurally, or whatever, the normal assumption is you let the lower court figure it out."
+2011.10-637,0,30283,jeffrey_l_fisher,,237.152,244.722,"--Well, let me get back to Justice Breyer's question, with the assumption that if he has a lawyer he's going to bring it up here."
+2011.10-637,0,15094,elena_kagan,scotus_justice,252.428,252.978,"Well, he doesn't--"
+2011.10-637,0,15113,anthony_m_kennedy,scotus_justice,252.978,254.045,Let me ask -- let me ask it.
+2011.10-637,0,30283,jeffrey_l_fisher,,257.83,258.213,Yes.
+2011.10-637,0,15113,anthony_m_kennedy,scotus_justice,258.213,259.047,But since we are on--
+2011.10-637,0,30283,jeffrey_l_fisher,,259.047,259.413,Yes.
+2011.10-637,0,15113,anthony_m_kennedy,scotus_justice,259.413,261.949,"--the GVR, I have one more question under the GVR, at least."
+2011.10-637,0,30283,jeffrey_l_fisher,,276.624,277.957,"Correct, I think that's right."
+2011.10-637,0,15113,anthony_m_kennedy,scotus_justice,277.957,282.159,Which indicates that that is the decision that's -- that's involved here.
+2011.10-637,0,30283,jeffrey_l_fisher,,302.255,302.789,Okay.
+2011.10-637,0,15084,ruth_bader_ginsburg,scotus_justice,318.034,318.951,But Respondent said you could.
+2011.10-637,0,30283,jeffrey_l_fisher,,318.951,319.534,--Pardon me?
+2011.10-637,0,15084,ruth_bader_ginsburg,scotus_justice,319.534,337.929,"The Respondent in the brief said that if you had sought post-conviction relief in the State courts, then you could have argued Gray was the controlling decision, and they would have accepted that Gray."
+2011.10-637,0,30283,jeffrey_l_fisher,,337.929,350.32,"They do say that now, Justice Ginsburg, and all I can say is we checked as hard as we could to find an actual case in Pennsylvania in the procedural posture of somebody going back in the situation, and we haven't found one--"
+2011.10-637,0,15086,john_g_roberts_jr,scotus_justice,350.32,351.305,The problem is that--
+2011.10-637,0,30283,jeffrey_l_fisher,,351.305,353.707,--that either decides it or the State takes a position one way or the other.
+2011.10-637,0,15086,john_g_roberts_jr,scotus_justice,374.204,377.322,--I appreciate your point that you may or may not have been able to bring it.
+2011.10-637,0,30283,jeffrey_l_fisher,,400.469,400.888,Right.
+2011.10-637,0,15086,john_g_roberts_jr,scotus_justice,400.888,401.405,--or a chance.
+2011.10-637,0,30283,jeffrey_l_fisher,,407.525,409.461,"I think that's a fair statement, Your Honor."
+2011.10-637,0,15084,ruth_bader_ginsburg,scotus_justice,459.976,463.611,"Well, apparently the Pennsylvania Supreme Court thought that he hadn't properly raised it."
+2011.10-637,0,30283,jeffrey_l_fisher,,480.038,483.74,"Well, he very much had raised the Gray issue below, Justice Ginsburg."
+2011.10-637,0,15068,samuel_a_alito_jr,scotus_justice,521.781,532.904,"How can you -- how can you square your position with what 2254(d) says, that there must be an unreasonable application of clearly established law?"
+2011.10-637,0,15113,anthony_m_kennedy,scotus_justice,547.363,555.686,"And just to follow up on that question, the statute says it was ""adjudicated"", past tense, and the decision ""resulted in"", past tense."
+2011.10-637,0,30283,jeffrey_l_fisher,,555.686,556.102,Right.
+2011.10-637,0,15113,anthony_m_kennedy,scotus_justice,568.929,571.964,What you said -- you don't contend that -- what's--
+2011.10-637,0,30283,jeffrey_l_fisher,,571.964,572.914,--There's two prongs--
+2011.10-637,0,15113,anthony_m_kennedy,scotus_justice,572.914,576.35,"--You said you don't contend that, and I didn't hear -- was an unreasonable?"
+2011.10-637,0,30283,jeffrey_l_fisher,,576.95,577.35,--Yes.
+2011.10-637,0,15068,samuel_a_alito_jr,scotus_justice,581.904,582.537,And the other is it was--
+2011.10-637,0,30283,jeffrey_l_fisher,,582.537,583.772,I think the more natural--
+2011.10-637,0,15068,samuel_a_alito_jr,scotus_justice,583.772,584.739,--It was contrary to.
+2011.10-637,0,30283,jeffrey_l_fisher,,586.139,590.175,--It was contrary to this Court's clearly established law as of the date of finality.
+2011.10-637,0,15049,antonin_scalia,scotus_justice,595.596,602.567,"Yes, the decision -- what decision did the Supreme Court of Pennsylvania make other than the decision not to hear the case?"
+2011.10-637,0,30283,jeffrey_l_fisher,,602.567,610.089,"--No, it's the decision from the Pennsylvania Superior Court, Justice Scalia, that is contrary to clearly established law as of the date of finality."
+2011.10-637,0,15084,ruth_bader_ginsburg,scotus_justice,610.089,612.273,Not as of the date they made it.
+2011.10-637,0,30283,jeffrey_l_fisher,,612.273,615.391,"That's not the date they made it, no."
+2011.10-637,0,15094,elena_kagan,scotus_justice,637.156,639.942,"--Well, how do you square your argument with Pinholster?"
+2011.10-637,0,30283,jeffrey_l_fisher,,659.518,665.438,"Justice Kagan, no, we don't think it does, because there has always been a difference between facts and law."
+2011.10-637,0,15094,elena_kagan,scotus_justice,687.335,701.528,"Well, I understand how there can be a distinction between facts and law for many purposes, but Pinholster rested on a view of the statute, which was basically the view that Justice Alito gave you, which said everything in the statute is framed in the past tense."
+2011.10-637,0,30283,jeffrey_l_fisher,,707.749,712.152,"We don't -- again, we don't disagree at all that it's in the past tense."
+2011.10-637,0,15084,ruth_bader_ginsburg,scotus_justice,735.951,736.318,Why?
+2011.10-637,0,30283,jeffrey_l_fisher,,736.318,736.901,For a few reasons--
+2011.10-637,0,15084,ruth_bader_ginsburg,scotus_justice,736.901,763.418,"The statute says adjudication resulted in a decision, and the decision, the only decision, is the Pennsylvania Superior Court, because there was a non-decision by the Pennsylvania Supreme Court, resulted -- that if -- in a decision that was -- didn't say ""is"" -- I mean, you would have a much stronger argument if it had read"
+2011.10-637,0,30283,jeffrey_l_fisher,,770.941,774.226,"--Well, Justice Ginsburg, if I can get this point across."
+2011.10-637,0,15131,sonia_sotomayor,scotus_justice,821.605,826.342,How do you get past Horn?
+2011.10-637,0,30283,jeffrey_l_fisher,,863.865,868.502,"--Justice Sotomayor, we think Horn is another structural component of the statute that shows why we win."
+2011.10-637,0,15113,anthony_m_kennedy,scotus_justice,970.117,975.121,"Now, and of course those are ongoing injuries where the person continues to be confined."
+2011.10-637,0,30283,jeffrey_l_fisher,,975.121,975.938,"--Well -- but, no, the State's rule--"
+2011.10-637,0,15113,anthony_m_kennedy,scotus_justice,975.938,977.723,I'm not sure there is an ongoing injury here.
+2011.10-637,0,30283,jeffrey_l_fisher,,980.675,984.294,"--It's not different -- under the State's view of AEDPA, Justice Kennedy."
+2011.10-637,0,15084,ruth_bader_ginsburg,scotus_justice,1072.035,1085.826,"Mr. Fisher, what about the -- the purpose of AEDPA was to require the Federal courts to respect the State courts' decisions."
+2011.10-637,0,30283,jeffrey_l_fisher,,1113.262,1127.086,"Justice Ginsburg, let me answer that question by starting, if I may, before AEDPA, because before AEDPA under Caspari and Teague there is no doubt whatsoever that that is what a Federal habeas court would have done, is say the cutoff is finality."
+2011.10-637,0,15084,ruth_bader_ginsburg,scotus_justice,1231.07,1233.189,"Well, I don't understand the problem."
+2011.10-637,0,30283,jeffrey_l_fisher,,1249.531,1250.883,"--Here's why, Justice Ginsburg."
+2011.10-637,0,15086,john_g_roberts_jr,scotus_justice,1309.088,1311.021,"Well, but it seems to me that AEDPA contemplates that."
+2011.10-637,0,30283,jeffrey_l_fisher,,1326.281,1328.631,"It does tell you to go on a claim by claim basis, that's right."
+2011.10-637,0,15086,john_g_roberts_jr,scotus_justice,1349.896,1360.268,"Well, I'm sorry, but i mean, my point is that it seems a pretty weak criticism of a result that it requires you to go claim by claim, when the statute specifically requires you to go claim by claim."
+2011.10-637,0,30283,jeffrey_l_fisher,,1360.268,1360.785,"--No, I--"
+2011.10-637,0,15086,john_g_roberts_jr,scotus_justice,1360.785,1363.635,The objection there it seems to me would have to be with Congress.
+2011.10-637,0,30283,jeffrey_l_fisher,,1363.635,1367.522,--I'm not objecting to the claim-by-claim nature of the approach.
+2011.10-637,0,15139,stephen_g_breyer,scotus_justice,1390.487,1391.937,I'm having trouble following it.
+2011.10-637,0,30283,jeffrey_l_fisher,,1445.939,1447.224,"I think, Justice Breyer--"
+2011.10-637,0,15139,stephen_g_breyer,scotus_justice,1447.224,1447.774,What's the problem?
+2011.10-637,0,30283,jeffrey_l_fisher,,1448.691,1452.628,--You are right there is arbitrariness built into any cutoff.
+2011.10-637,0,15139,stephen_g_breyer,scotus_justice,1483.697,1498.157,"Or the person would say: Look, the State supreme court has -- we are under a decision here the exact opposite of what the United States Supreme Court held; will you please either take our case and hear it or at least send it back to the lower court?"
+2011.10-637,0,30283,jeffrey_l_fisher,,1500.192,1505.078,I think many State supreme courts -- I think there is a possible two questions you asked.
+2011.10-637,0,15094,elena_kagan,scotus_justice,1546.84,1547.357,I don't understand--
+2011.10-637,0,30283,jeffrey_l_fisher,,1547.357,1547.923,If I could reserve--
+2011.10-637,0,15094,elena_kagan,scotus_justice,1547.923,1552.308,"--that, Mr. Fisher, because you want to do this in Federal habeas, where there is no right to counsel either."
+2011.10-637,0,30283,jeffrey_l_fisher,,1553.326,1560.397,"--Well, there is at least a back-up, a back-up that doesn't exist today -- or I'm sorry, that wouldn't exist under the State's rule."
+2011.10-637,0,15086,john_g_roberts_jr,scotus_justice,1570.372,1570.738,"Thank you, counsel."
+2011.10-637,1,39153,ronald_eisenberg,,1574.174,1576.776,Mr. Chief Justice and may it please the Court:
+2011.10-637,1,15131,sonia_sotomayor,scotus_justice,1590.034,1603.009,One part of your argument that -- one part of your argument that troubles me is what if those 12 States that don't have the right to collateral review -- what do we do with the two Teague exceptions?
+2011.10-637,1,39153,ronald_eisenberg,,1603.009,1612.549,"--Your Honor, as we addressed in our brief at footnote 12, as Petitioner referred, we believe that Teague exceptions clearly would survive review."
+2011.10-637,1,15131,sonia_sotomayor,scotus_justice,1634.157,1635.593,Don't worry about the States that do.
+2011.10-637,1,39153,ronald_eisenberg,,1635.593,1636.026,--Okay.
+2011.10-637,1,15131,sonia_sotomayor,scotus_justice,1636.026,1640.045,I asked -- my hypothetical was assuming there are some that don't.
+2011.10-637,1,39153,ronald_eisenberg,,1640.045,1641.663,"Of course, Justice Sotomayor."
+2011.10-637,1,15068,samuel_a_alito_jr,scotus_justice,1734.486,1741.609,"Your answer is that the State in that situation, the State courts in that situation would entertain the claim."
+2011.10-637,1,39153,ronald_eisenberg,,1742.409,1751.281,"If they didn't, Your Honor, then the defendant can surmount whatever procedural bar that would constitute when he got the federal habeas in the Teague exception case."
+2011.10-637,1,15068,samuel_a_alito_jr,scotus_justice,1751.281,1751.581,How?
+2011.10-637,1,39153,ronald_eisenberg,,1751.581,1762.422,By arguing -- the most likely Teague exception would be a first exception; not the second exception; not the watershed rules which are few and far between if any still remain to be discovered.
+2011.10-637,1,15113,anthony_m_kennedy,scotus_justice,1765.355,1767.074,What is that cause and prejudice?
+2011.10-637,1,39153,ronald_eisenberg,,1767.074,1768.757,--Actual innocence.
+2011.10-637,1,15113,anthony_m_kennedy,scotus_justice,1768.757,1770.109,"Oh, actual innocence."
+2011.10-637,1,39153,ronald_eisenberg,,1770.109,1771.042,Actual innocence because--
+2011.10-637,1,15131,sonia_sotomayor,scotus_justice,1771.042,1773.061,But we haven't decided whether actual innocence.
+2011.10-637,1,39153,ronald_eisenberg,,1773.061,1779.798,"--Actual innocence, Your Honor, is well established as a way to get around a procedural default on Federal habeas."
+2011.10-637,1,15131,sonia_sotomayor,scotus_justice,1779.798,1782.084,Whether it's well established is another issue.
+2011.10-637,1,39153,ronald_eisenberg,,1782.084,1786.786,I don't mean actual innocence as being an independent free-standing habeas claim.
+2011.10-637,1,15068,samuel_a_alito_jr,scotus_justice,1803.08,1805.865,What if it was a case like Gideon v. Wainwright?
+2011.10-637,1,39153,ronald_eisenberg,,1805.865,1808.065,"That would be the watershed exception rule, Your Honor."
+2011.10-637,1,15086,john_g_roberts_jr,scotus_justice,1870.557,1871.474,I'm sorry.
+2011.10-637,1,39153,ronald_eisenberg,,1890.436,1897.725,"--Well, Your Honor, the only decision that was rendered in this case did apply the law as it existed at the time."
+2011.10-637,1,15086,john_g_roberts_jr,scotus_justice,1897.725,1903.093,"I'm talking more generally, the idea that Pinholster adequately applies to this situation."
+2011.10-637,1,39153,ronald_eisenberg,,1916.77,1919.971,"Your Honor, I think that Pinholster was somewhat more specific than that."
+2011.10-637,1,15086,john_g_roberts_jr,scotus_justice,2006.743,2021.503,"What is the State hypothetical, and I don't mean to give you an opportunity for a self-serving answer, but would the State have done if he filed a petition and said: my case was controlled by Gray; you the Supreme Court should grant, vacate and remand."
+2011.10-637,1,39153,ronald_eisenberg,,2026.574,2027.374,"--Yes, Your Honor."
+2011.10-637,1,15086,john_g_roberts_jr,scotus_justice,2034.378,2034.728,"No, no."
+2011.10-637,1,39153,ronald_eisenberg,,2043.384,2050.97,--I'm not sure I have seen any cases like that other than this one where this as you said perfect storm actually occurred.
+2011.10-637,1,15113,anthony_m_kennedy,scotus_justice,2081.092,2082.675,Is Griff constitutional case?
+2011.10-637,1,39153,ronald_eisenberg,,2082.675,2087.377,"Your Honor, I believe it was a constitutional interpretation, but that's a right that the defendant has."
+2011.10-637,1,15113,anthony_m_kennedy,scotus_justice,2087.377,2099.935,Would the Congress of the United States have the authority looking at this case to direct Federal courts to issue habeas in this -- on these facts?
+2011.10-637,1,39153,ronald_eisenberg,,2099.935,2106.89,I think that the Congress could have written the AEDPA in order to allow review here.
+2011.10-637,1,15113,anthony_m_kennedy,scotus_justice,2108.323,2110.575,Then is that then a restriction on habeas corpus?
+2011.10-637,1,39153,ronald_eisenberg,,2110.575,2114.86,"I think that AEDPA puts a restriction on habeas corporation, Your Honor."
+2011.10-637,1,15113,anthony_m_kennedy,scotus_justice,2121.264,2126.918,Is there a rule of constitutional avoidance that we should interpret the statute to avoid?
+2011.10-637,1,39153,ronald_eisenberg,,2132.238,2132.938,"No, Your Honor."
+2011.10-637,1,15113,anthony_m_kennedy,scotus_justice,2144.462,2144.862,No.
+2011.10-637,1,39153,ronald_eisenberg,,2145.679,2158.222,"--And I think it is clearly not -- this is a relatively minor restriction on AEDPA review compared to the deference rule in and of itself, which the Court has characterized as a fundamental bedrock principle of AEDPA."
+2011.10-637,1,15113,anthony_m_kennedy,scotus_justice,2158.222,2160.841,While we are discussing -- on a different point.
+2011.10-637,1,39153,ronald_eisenberg,,2168.662,2178.635,"Your Honor, if those kinds of cases amount to a Teague exception, then for the reasons I have explained I think that those will be subject to review on Federal habeas corpus."
+2011.10-637,1,15113,anthony_m_kennedy,scotus_justice,2181.002,2184.271,Do they meet the Teague exception?
+2011.10-637,1,39153,ronald_eisenberg,,2184.271,2191.693,"--Your Honor, I don't know whether any particular new rule meets the Teague exception standards."
+2011.10-637,1,15113,anthony_m_kennedy,scotus_justice,2196.847,2198.247,To me it's not a question of a new trial.
+2011.10-637,1,39153,ronald_eisenberg,,2203.518,2208.739,"--I think there are certainly good arguments that those kinds of rules would not qualify as Teague exceptions, Your Honor."
+2011.10-637,1,15139,stephen_g_breyer,scotus_justice,2220.379,2234.722,How does that happen if -- let's imagine Smith is convicted of some kind of disorderly conduct and he goes to the State courts and it's upheld.
+2011.10-637,1,39153,ronald_eisenberg,,2272.379,2277.764,"The defendant should go first to the State court once the new Teague exception is established, Your Honor."
+2011.10-637,1,15139,stephen_g_breyer,scotus_justice,2280.199,2282.568,He goes to State court under a collateral review.
+2011.10-637,1,39153,ronald_eisenberg,,2282.568,2283.068,"--Yes, Your Honor."
+2011.10-637,1,15139,stephen_g_breyer,scotus_justice,2283.068,2283.968,Suppose there is no such--
+2011.10-637,1,39153,ronald_eisenberg,,2283.968,2287.053,"Then I think we have Justice Sotomayor's question, Your Honor."
+2011.10-637,1,15139,stephen_g_breyer,scotus_justice,2300.712,2302.414,"--This is quite far out, but conceivable."
+2011.10-637,1,39153,ronald_eisenberg,,2310.635,2316.908,"Yes, Your Honor, and that's appropriate because of course AEDPA wants the State court to have the first chance to review."
+2011.10-637,1,15084,ruth_bader_ginsburg,scotus_justice,2343.975,2344.608,What's left of it?
+2011.10-637,1,39153,ronald_eisenberg,,2344.608,2349.629,"What's left of it primarily, Your Honor, is the situation where there is no merits decision in the State court."
+2011.10-637,1,15094,elena_kagan,scotus_justice,2398.826,2408.834,"And if it was the case that Congress supplanted Teague to the extent that you said it did, why is it, as Mr. Fisher says, that it took States upwards of 10 years to figure this out?"
+2011.10-637,1,39153,ronald_eisenberg,,2408.834,2411.517,"--Your Honor, I'm not sure if I agree with that factually."
+2011.10-637,1,15086,john_g_roberts_jr,scotus_justice,2623.916,2625.033,"Thank you, counsel."
+2011.10-637,2,30283,jeffrey_l_fisher,,2626.935,2628.903,Thank you.
+2011.10-637,2,15068,samuel_a_alito_jr,scotus_justice,2718.695,2722.746,I think the claim under Graham is -- is a different claim from any previous claim.
+2011.10-637,2,30283,jeffrey_l_fisher,,2724.448,2738.441,"--Well, not if the State says that you are barred in its own -- that would get you out from the problem of being able to get in the door, because what would happen in that situation is the State would say this is waived because he didn't make it earlier."
+2011.10-637,2,15068,samuel_a_alito_jr,scotus_justice,2750.166,2761.306,"Do you think a case like Graham or Adkins applies only to those who -- whose cases are pending on direct review at the time when the case was decided, or do you think it applies to others?"
+2011.10-637,2,30283,jeffrey_l_fisher,,2761.306,2764.675,I think it -- I think it would satisfy one of the Teague exceptions.
+2011.10-637,2,15068,samuel_a_alito_jr,scotus_justice,2773.447,2786.338,"Now, this is -- if a juvenile is sentenced to death prior to a decision -- and -- I'm sorry -- yes, you think it applies only if it comes down during that period?"
+2011.10-637,2,30283,jeffrey_l_fisher,,2786.338,2789.373,"No, we think it applies anytime afterwards, too."
+2011.10-637,2,15139,stephen_g_breyer,scotus_justice,2791.992,2795.961,"It's not impossible to get out, because -- you say here's -- bring your collateral State."
+2011.10-637,2,30283,jeffrey_l_fisher,,2801.015,2801.431,Right.
+2011.10-637,2,15139,stephen_g_breyer,scotus_justice,2801.431,2812.738,"Then you go into habeas and you say the time bar is no good, and it's such an important opinion, you know, for all the reasons in Teague, that what they did was a time bar and they wouldn't hear it."
+2011.10-637,2,30283,jeffrey_l_fisher,,2824.311,2827.146,"No, but that wouldn't be a decision on the merits, Justice Breyer."
+2011.10-637,2,15086,john_g_roberts_jr,scotus_justice,2877.079,2878.448,"Thank you, counsel."

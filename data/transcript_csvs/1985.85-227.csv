@@ -1,0 +1,169 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1985.85-227,0,15073,warren_e_burger,scotus_justice,0.0,14.324,"We will hear arguments first this morning in Smalis against Pennsylvania, and Ms. Chase, you may proceed whenever you are ready."
+1985.85-227,0,37034,norma_chase,,14.324,17.076,"Mr. Chief Justice, and if it please the Court:"
+1985.85-227,0,15071,byron_r_white,scotus_justice,90.441,93.276,When did the court hold that?
+1985.85-227,0,37034,norma_chase,,93.276,94.712,December of 1980.
+1985.85-227,0,15071,byron_r_white,scotus_justice,94.712,97.028,"I know, but at what stage of the trial?"
+1985.85-227,0,37034,norma_chase,,97.028,100.882,"The Commonwealth had rested, and the defendants demurred to the evidence."
+1985.85-227,0,15071,byron_r_white,scotus_justice,100.882,102.316,"So, this was mid-trial?"
+1985.85-227,0,37034,norma_chase,,102.316,106.519,"Yes, but the Commonwealth had rested."
+1985.85-227,0,15141,william_h_rehnquist,scotus_justice,174.164,185.885,"Ms. Chase, in Pennsylvania do you have to demur to the evidence at the close of the prosecution's case in order to later make a motion for judgment n.o.b. if the jury convicts you?"
+1985.85-227,0,37034,norma_chase,,185.885,189.089,"My understanding is, you don't."
+1985.85-227,0,15141,william_h_rehnquist,scotus_justice,189.089,197.36,"Because I was wondering, if the defendants were so anxious to have the trial completed, they could have foregone the demurrer to the evidence."
+1985.85-227,0,37034,norma_chase,,197.36,199.045,That's true.
+1985.85-227,0,15071,byron_r_white,scotus_justice,212.037,214.055,"But, you demurred across the board?"
+1985.85-227,0,37034,norma_chase,,214.055,219.107,"Yes, we were interested in weeding out anything that the--"
+1985.85-227,0,15071,byron_r_white,scotus_justice,219.107,222.775,"You were also interested in having a ruling on all of them, and you would like--"
+1985.85-227,0,37034,norma_chase,,222.775,223.177,--Naturally.
+1985.85-227,0,15071,byron_r_white,scotus_justice,309.447,314.085,"--What do they mean, a credibility determination?"
+1985.85-227,0,37034,norma_chase,,314.085,327.658,"What they're saying is, since the judge did not determine whether the evidence presented on behalf of the Commonwealth was true, but assumed it to be true for purposes of deciding on the demurrer, his ruling was not an acquittal."
+1985.85-227,0,15071,byron_r_white,scotus_justice,329.36,336.264,"You mean, even accepting all of it as true, a ruling that it wasn't enough was not an acquittal?"
+1985.85-227,0,37034,norma_chase,,336.264,338.533,That's the Commonwealth's position.
+1985.85-227,0,15141,william_h_rehnquist,scotus_justice,389.983,409.212,"Ms. Chase, you say that you think Burks supports, in your position, that it is not necessary for the trial judge to admit a credibility determination in order for double jeopardy to apply, but didn't Burks amount to a conclusion that there was just not sufficient evidence to support a judgment of guilty?"
+1985.85-227,0,37034,norma_chase,,409.212,411.748,Yes.
+1985.85-227,0,15071,byron_r_white,scotus_justice,491.048,509.162,"Well, suppose the trial is all over and there had been a conviction, but then there was a motion for n.o.b. or whatever the equivalent is, and the trial judge had then sustained it and said there wasn't enough evidence,"
+1985.85-227,0,37034,norma_chase,,515.149,517.432,--In that case the verdict--
+1985.85-227,0,15071,byron_r_white,scotus_justice,517.432,518.018,--and the judge--
+1985.85-227,0,37034,norma_chase,,518.018,521.052,--may be reinstated without placing the defendant back into jeopardy.
+1985.85-227,0,15071,byron_r_white,scotus_justice,521.052,527.123,"--That is really the point of this case, that it was midtrial and there had to be further proceedings?"
+1985.85-227,0,37034,norma_chase,,527.123,529.523,"Correct, that's correct."
+1985.85-227,0,15141,william_h_rehnquist,scotus_justice,557.926,585.16,"Well, one might wonder how much in the practical world this sort of situation is going to arise, because it's hard to believe that the state is going to profit much by appealing from the sort of judgment you describe and get it reversal, only to come back and find he judge is the fact finder and he will surely feel, as a fact finder he will feel just as he did about the sufficiency of the evidence."
+1985.85-227,0,37034,norma_chase,,591.13,592.416,I would certainly hope not.
+1985.85-227,0,15104,thurgood_marshall,scotus_justice,619.999,626.303,Could the judge at that point acquit on the other charges under Pennsylvania law?
+1985.85-227,0,37034,norma_chase,,626.303,628.172,The other charges?
+1985.85-227,0,15104,thurgood_marshall,scotus_justice,628.172,629.605,"Could he have added to what he said,"
+1985.85-227,0,37034,norma_chase,,633.057,635.34,"If he had done that, under Pennsylvania law--"
+1985.85-227,0,15104,thurgood_marshall,scotus_justice,635.34,636.009,But can he?
+1985.85-227,0,37034,norma_chase,,640.394,644.279,"--It's not proper, although it has been done."
+1985.85-227,0,15104,thurgood_marshall,scotus_justice,650.768,651.234,Right.
+1985.85-227,0,37034,norma_chase,,651.234,656.17,"Appellate courts have said, the judge's decision was improper, but it bars review."
+1985.85-227,1,39176,robert_l_eberhardt,,803.516,805.984,"Mr. Chief Justice, and may it please the Court:"
+1985.85-227,1,15073,warren_e_burger,scotus_justice,945.308,958.649,"Under Pennsylvania law, that stage is the judge sitting as the tryer alone, to decide whether, had there been a jury, he would have said there wasn't enough evidence to go to the jury?"
+1985.85-227,1,39176,robert_l_eberhardt,,958.649,959.149,Right.
+1985.85-227,1,15073,warren_e_burger,scotus_justice,959.149,960.368,Is that the decision he makes?
+1985.85-227,1,39176,robert_l_eberhardt,,960.368,964.62,That's the particular request that's made of the judge at that point in time.
+1985.85-227,1,15073,warren_e_burger,scotus_justice,964.62,966.972,"Then, is the judge now in effect saying to the state,"
+1985.85-227,1,39176,robert_l_eberhardt,,972.026,972.576,Right.
+1985.85-227,1,15071,byron_r_white,scotus_justice,1046.607,1063.802,"But there was no disagreement, as I understand it, between the trial judge and the Supreme Court of Pennsylvania on what the elements of the crime were, no legal difference except with respect to the quantum of the evidence."
+1985.85-227,1,39176,robert_l_eberhardt,,1063.802,1066.502,"Well, we never got to argue the merits of the case below, Your Honor."
+1985.85-227,1,15073,warren_e_burger,scotus_justice,1075.523,1079.577,"When you say you had no argument, you had no argument--"
+1985.85-227,1,39176,robert_l_eberhardt,,1079.577,1086.348,"We had no opportunity beyond presenting it in a written brief, what the Commonwealth's argument was with regard to the--"
+1985.85-227,1,15073,warren_e_burger,scotus_justice,1086.348,1089.433,"--At the close of the Government's case, do you mean?"
+1985.85-227,1,39176,robert_l_eberhardt,,1089.433,1091.802,"--No, on appeal to the Superior Court of Pennsylvania."
+1985.85-227,1,15073,warren_e_burger,scotus_justice,1091.802,1092.569,What occurred?
+1985.85-227,1,39176,robert_l_eberhardt,,1096.273,1105.461,"Well, in this particular case the Commonwealth rested, and demurrers were tendered by defense counsel as to all the charges before the Court."
+1985.85-227,1,15073,warren_e_burger,scotus_justice,1108.496,1110.863,The Commonwealth... that was argued?
+1985.85-227,1,39176,robert_l_eberhardt,,1110.863,1112.965,That was argued before the lower court.
+1985.85-227,1,15141,william_h_rehnquist,scotus_justice,1172.854,1186.778,"Your suggestion, Mr. Eberhardt, is that when you're talking about a motion like this, the trial court may have a misunderstanding as to what elements are necessary for the crime, so that it's quite different from a credibility determination?"
+1985.85-227,1,39176,robert_l_eberhardt,,1186.778,1188.98,It's quite different from a credibility determination.
+1985.85-227,1,15104,thurgood_marshall,scotus_justice,1239.413,1251.636,"Well, counsel, I'm sure I missed something, but is it true that this man is now convicted and sentenced without having an opportunity of defending--"
+1985.85-227,1,39176,robert_l_eberhardt,,1251.636,1252.436,"No, no."
+1985.85-227,1,15104,thurgood_marshall,scotus_justice,1291.529,1297.432,"--I understood you to say that after the judge ruled, that there was an immediate appeal by the State."
+1985.85-227,1,39176,robert_l_eberhardt,,1298.717,1307.157,There was an appeal as to only those charges that were the subject of a grant of demurrer under Pennsylvania practice.
+1985.85-227,1,15104,thurgood_marshall,scotus_justice,1307.157,1311.025,Then the trial took place and defense--
+1985.85-227,1,39176,robert_l_eberhardt,,1311.025,1313.161,Defense presented their evidence.
+1985.85-227,1,15071,byron_r_white,scotus_justice,1315.844,1318.029,"--The trial didn't go ahead, did it?"
+1985.85-227,1,39176,robert_l_eberhardt,,1318.029,1322.933,"The trial as to the separate arson proceeded, yes."
+1985.85-227,1,15104,thurgood_marshall,scotus_justice,1322.933,1324.15,After the appeal?
+1985.85-227,1,39176,robert_l_eberhardt,,1324.15,1325.869,After the appeal.
+1985.85-227,1,15071,byron_r_white,scotus_justice,1358.623,1362.991,What did the Pennsylvania Supreme Court hold?
+1985.85-227,1,39176,robert_l_eberhardt,,1362.991,1364.143,The Pennsylvania Supreme Court--
+1985.85-227,1,15071,byron_r_white,scotus_justice,1364.143,1365.543,You did argue there?
+1985.85-227,1,39176,robert_l_eberhardt,,1365.543,1366.611,"--Yes, we did."
+1985.85-227,1,15071,byron_r_white,scotus_justice,1467.411,1477.017,"Well, you say that you can only appeal on ""legal"" grounds in Superior... or you can only appeal on those grounds."
+1985.85-227,1,39176,robert_l_eberhardt,,1480.385,1498.696,"Our case before the Superior Court, essentially with regard to two of the crimes that were before the trial court, was the court had erred in deciding what degree of recklessness was contemplated to be required to be shown under Pennsylvania's definition of murder as a third degree--"
+1985.85-227,1,15071,byron_r_white,scotus_justice,1498.696,1501.315,"So, that's the only thing that was appealed?"
+1985.85-227,1,39176,robert_l_eberhardt,,1501.315,1502.382,--The only thing that was appealed--
+1985.85-227,1,15071,byron_r_white,scotus_justice,1502.382,1516.058,"That's the only thing that is left, and so if... but if you lose those, under the Supreme Court's ruling, the case will go back for trial?"
+1985.85-227,1,39176,robert_l_eberhardt,,1516.058,1517.892,--The case will go back for trial.
+1985.85-227,1,15071,byron_r_white,scotus_justice,1517.892,1526.113,Because the Supreme Court said that the trial court's ruling was not a sufficient ruling on the evidence?
+1985.85-227,1,39176,robert_l_eberhardt,,1526.113,1534.369,"Was not a question of fact but was a pure question of law, a determination of legal sufficiency, the evidence on a stated standard."
+1985.85-227,1,15071,byron_r_white,scotus_justice,1534.369,1537.805,"Which is a different question, a new appeal?"
+1985.85-227,1,39176,robert_l_eberhardt,,1537.805,1552.498,"The question that we appealed to the Superior Court, whether the Court erred as a matter of law in ruling that the sufficiency of the evidence was not established based upon the elements of third degree murder and causing a catastrophe."
+1985.85-227,1,15141,william_h_rehnquist,scotus_justice,1552.498,1561.021,"Well, won't it be exactly that question that is pending before the Superior Court of Pennsylvania, if the judgment of the Supreme Court of Pennsylvania is affirmed here?"
+1985.85-227,1,39176,robert_l_eberhardt,,1561.021,1568.007,"That is exactly the question before the Superior Court, is the legal sufficiency of the evidence."
+1985.85-227,1,15141,william_h_rehnquist,scotus_justice,1568.007,1579.148,"And if the Superior Court decides in the defendant's favor but affirms the Court of Common Pleas, is that then the case is all over."
+1985.85-227,1,39176,robert_l_eberhardt,,1586.836,1597.61,"The case will go back, in the Commonwealth's view, either way because the remaining charges on which demurrers were denied are still before the court."
+1985.85-227,1,15071,byron_r_white,scotus_justice,1597.61,1598.86,It seems to me that--
+1985.85-227,1,39176,robert_l_eberhardt,,1598.86,1599.562,Misdemeanor charges.
+1985.85-227,1,15071,byron_r_white,scotus_justice,1599.562,1607.466,"--Part of your arguments is that the issue of the... the double jeopardy issue, just isn't right for review here?"
+1985.85-227,1,39176,robert_l_eberhardt,,1607.466,1614.655,That's been raised by both our response to the certiorari petition by the Solicitor General's amicus brief and--
+1985.85-227,1,15071,byron_r_white,scotus_justice,1614.655,1627.045,"Because if you lose in the Superior Court on remand, where you have argued that the judge misunderstood the legal requirements of the crimes?"
+1985.85-227,1,39176,robert_l_eberhardt,,1627.045,1627.529,--Right.
+1985.85-227,1,15071,byron_r_white,scotus_justice,1627.529,1647.976,"The the question would, even under your view, be right, was the... is a retrial... can the trial go back for a continuation because... In spite of the trial judge's ruling on the sufficiency of the evidence?"
+1985.85-227,1,39176,robert_l_eberhardt,,1647.976,1648.709,Correct.
+1985.85-227,1,15071,byron_r_white,scotus_justice,1648.709,1653.213,Because you agree the trial judge ruled on the sufficiency of the evidence?
+1985.85-227,1,39176,robert_l_eberhardt,,1653.213,1659.434,I agree that the trial judge determined the legal sufficiency of the evidence.
+1985.85-227,1,15071,byron_r_white,scotus_justice,1660.434,1665.501,"If he understood the crime correctly, then he did rule on the sufficiency of the evidence?"
+1985.85-227,1,39176,robert_l_eberhardt,,1665.501,1666.337,"--Yes, he did."
+1985.85-227,1,15071,byron_r_white,scotus_justice,1673.857,1692.569,"Well, would you say that if you lose in the Superior Court, would you argue that the trial may continue despite the fact that then it will be clear that the trial judge, A, understood the elements of the crime and, B, ruled that the evidence was insufficient?"
+1985.85-227,1,39176,robert_l_eberhardt,,1692.569,1699.392,--I would argue that the matter would be remanded to the trial court for continuation of trial with regard to those remaining--
+1985.85-227,1,15071,byron_r_white,scotus_justice,1699.392,1703.96,You would say it could go forward despite the Double Jeopardy Clause?
+1985.85-227,1,39176,robert_l_eberhardt,,1703.96,1713.568,"--I would say, go forward on those charges which were not disposed of my demurrers, because there were two charges--"
+1985.85-227,1,15071,byron_r_white,scotus_justice,1713.568,1721.988,What about the charges that were not disposed of by demurrer... that were disposed of by demurrer?
+1985.85-227,1,39176,robert_l_eberhardt,,1721.988,1727.976,"--The Superior Court decision would be a final decision, much like Burks recognized that there would be a final order."
+1985.85-227,1,15071,byron_r_white,scotus_justice,1727.976,1741.651,"So, the State concedes that if a trial judge properly understood the elements of the crime in this case, his ruling was an acquittal to the extent that he sustained the demurrer?"
+1985.85-227,1,39176,robert_l_eberhardt,,1741.651,1744.27,"Correct, but it's a legal question only as to--"
+1985.85-227,1,15071,byron_r_white,scotus_justice,1744.27,1753.809,"So, the State... the double jeopardy clause would forbid the continuation of the trial on those issues?"
+1985.85-227,1,39176,robert_l_eberhardt,,1753.809,1761.899,--I do not believe in this case that the Court ned go any further in determining whether an acquittal was actually entered in the case.
+1985.85-227,1,15071,byron_r_white,scotus_justice,1791.834,1800.457,"So, what you're saying is that the Supreme Court of Pennsylvania just told the Superior Court that it misunderstood what the State's appeal was about?"
+1985.85-227,1,39176,robert_l_eberhardt,,1800.457,1803.14,"In essence, yes, in essence."
+1985.85-227,1,15060,john_paul_stevens,scotus_justice,1803.14,1804.425,May I ask one question.
+1985.85-227,1,39176,robert_l_eberhardt,,1822.403,1832.259,"Well, I believe that the trial court was desirous of allowing the Commonwealth its right of appeal on those charges that he had sustained a demurrer to."
+1985.85-227,1,15060,john_paul_stevens,scotus_justice,1832.259,1832.928,Right.
+1985.85-227,1,39176,robert_l_eberhardt,,1832.928,1839.415,"And yet, the other charges which were easily severable because they were a separate criminal episode--"
+1985.85-227,1,15060,john_paul_stevens,scotus_justice,1839.415,1845.919,"Well, even if they... the misdemeanor charges were not covered by the demurrer either, though, were they?"
+1985.85-227,1,39176,robert_l_eberhardt,,1845.919,1848.638,--No demurrer was sustained as to them.
+1985.85-227,1,15060,john_paul_stevens,scotus_justice,1868.601,1877.207,"I see, but if they are lesser included offenses, then if your opponent wins on the demurrer, those would as well... at least arguably would also be barred?"
+1985.85-227,1,39176,robert_l_eberhardt,,1877.207,1877.673,Possibly.
+1985.85-227,1,15060,john_paul_stevens,scotus_justice,1895.685,1903.355,"But your position, as I understand it, on the charges that were covered by the demurrer, is that, we don't yet know if that was an acquittal."
+1985.85-227,1,39176,robert_l_eberhardt,,1908.093,1910.195,"That's basically our position, Your Honor."
+1985.85-227,1,15071,byron_r_white,scotus_justice,1910.195,1925.887,"I take it your position is that in a trial... short of a jury, for that matter, you get into... the prosecution gets into an argument with the judge on what the elements of the crime are, and the trial judge says,"
+1985.85-227,1,39176,robert_l_eberhardt,,1955.156,1957.273,"Well, my position is, it's not an acquittal."
+1985.85-227,1,15071,byron_r_white,scotus_justice,1959.625,1961.043,My example is not an acquittal.
+1985.85-227,1,39176,robert_l_eberhardt,,1961.043,1975.137,"--Well, I would make a distinction, Your Honor, between the motion that's made here, a demurrer, prior to... at the conclusion of the Commonwealth's presentation of its evidence, and a motion that's made at the conclusion of the presentation of all of the evidence."
+1985.85-227,1,15073,warren_e_burger,scotus_justice,2001.768,2008.172,Mr. Frey.
+1985.85-227,2,15933,andrew_l_frey,,2008.172,2011.04,"Thank you, Mr. Chief Justice, and may it please the Court:"
+1985.85-227,2,15060,john_paul_stevens,scotus_justice,2046.297,2047.232,"Well, that's not true, is it?"
+1985.85-227,2,15933,andrew_l_frey,,2053.236,2054.769,We'll take an appeal but there's nothing--
+1985.85-227,2,15060,john_paul_stevens,scotus_justice,2054.769,2060.057,--so that the defendant at least has the burden of resisting an appeal that he would not otherwise have to resist?
+1985.85-227,2,15933,andrew_l_frey,,2060.057,2073.9,"--That is true, but I think this Court's jurisprudence makes it quite clear that nothing in the Double Jeopardy Clause makes the appeal itself, the burden of the appeal itself, prohibited and Wilson dealt with and disposed of that problem."
+1985.85-227,2,15071,byron_r_white,scotus_justice,2073.9,2079.119,"Mr. Frey, I still don't understand what you mean, ""legally insufficient"", or ""legal sufficiency""."
+1985.85-227,2,15933,andrew_l_frey,,2079.82,2090.159,"Well, the question is, what... well, I think the trial court in a jury trial, for instance, can rule only on a question of law."
+1985.85-227,2,15071,byron_r_white,scotus_justice,2090.159,2101.534,"Now, he says to himself, could any reasonable set of jurors find this evidence sufficient to find guilt beyond a reasonable doubt?"
+1985.85-227,2,15933,andrew_l_frey,,2103.669,2106.352,Yes.
+1985.85-227,2,15071,byron_r_white,scotus_justice,2107.971,2116.493,Do you think that his saying that at midtrial doesn't bar an appeal?
+1985.85-227,2,15933,andrew_l_frey,,2116.493,2120.195,That is our position.
+1985.85-227,2,15104,thurgood_marshall,scotus_justice,2120.195,2125.147,"What happened if at the end of exactly what he said in this case, he said,"
+1985.85-227,2,15933,andrew_l_frey,,2127.532,2140.256,"Well, exactly... I think there is a legitimate question in this case as to whether what the judge said was an acquittal or not in the true sense, and I'd like to talk for a minute if I may about what constitutes--"
+1985.85-227,2,15104,thurgood_marshall,scotus_justice,2140.256,2145.744,"When you don't agree, that it just would be extra words?"
+1985.85-227,2,15933,andrew_l_frey,,2149.445,2156.532,"--I think if the Judge... I think what we are saying, it's not reviewable as to verdict of acquittal."
+1985.85-227,2,15104,thurgood_marshall,scotus_justice,2162.269,2162.955,That's not what I--
+1985.85-227,2,15933,andrew_l_frey,,2162.955,2165.438,"Or not reviewable, whether it's right or wrong, okay."
+1985.85-227,2,15092,sandra_day_oconnor,scotus_justice,2200.794,2228.98,"--Mr. Frey, it seems to me that your argument goes beyond that, what the State of Pennsylvania... it seemed to me the State of Pennsylvania was conceding that if the trial court had applied the correct standard in determining the evidence was insufficient, that that would constitute an acquittal for purposes of Double Jeopardy."
+1985.85-227,2,15933,andrew_l_frey,,2241.538,2247.025,That's why I wanted to talk about the different ways in which there could be findings of insufficient evidence.
+1985.85-227,2,15141,william_h_rehnquist,scotus_justice,2289.452,2293.606,"Let's get back just a minute, Mr. Frey, to your example about circumstantial evidence."
+1985.85-227,2,15933,andrew_l_frey,,2313.3,2320.72,I think ultimately we would contend that either one of those conclusions would be reviewable.
+1985.85-227,2,15092,sandra_day_oconnor,scotus_justice,2322.156,2327.941,Do you think that's the same thing that the attorney for the State of Pennsylvania is arguing?
+1985.85-227,2,15933,andrew_l_frey,,2327.941,2353.823,"I'm not sure it is the same thing as they are arguing, but I think the important question is whether... I mean, I think there is an initial question that the Court has to grapple with, and that is, if this animal that we have is a determination by the judge that the defendant hasn't committed a crime, then can it ever be appealed and corrected, regardless of what is wrong as a legal matter with that determination."
+1985.85-227,2,15071,byron_r_white,scotus_justice,2387.146,2393.634,I don't understand Pennsylvania to be asking us to reconsider any of our prior cases.
+1985.85-227,2,15933,andrew_l_frey,,2396.251,2402.239,"--Well, I think our reading of Martin Linen is that you would have to, because in our view--"
+1985.85-227,2,15071,byron_r_white,scotus_justice,2402.239,2404.339,How about Scott?
+1985.85-227,2,15933,andrew_l_frey,,2404.339,2415.313,"--There's no problem with the holding in Scott, and indeed no problem... indeed, we suggest that the analysis of Scott, there is some language that's troublesome but the analysis of Scott is in fact quite inconsistent with--"
+1985.85-227,2,15071,byron_r_white,scotus_justice,2415.313,2417.932,"Martin Linen is right in your teeth, I think?"
+1985.85-227,2,15933,andrew_l_frey,,2417.932,2421.801,"--That is our feeling, that's right."
+1985.85-227,2,15141,william_h_rehnquist,scotus_justice,2515.513,2525.201,Can you make a motion for judgment n.o.b. under the Federal Rules if you haven't made a Rule 29 motion at the close of the evidence of the Government?
+1985.85-227,2,15933,andrew_l_frey,,2525.201,2527.653,I am not sure what the answer--
+1985.85-227,2,15141,william_h_rehnquist,scotus_justice,2527.653,2532.022,"Because otherwise, the statement you just made may not be correct."
+1985.85-227,2,15933,andrew_l_frey,,2537.759,2540.461,--That would create a problem.
+1985.85-227,2,15092,sandra_day_oconnor,scotus_justice,2540.461,2542.83,--And aren't there some states that have such a rule?
+1985.85-227,2,15933,andrew_l_frey,,2542.83,2555.154,"There may be, but I don't understand... that would be a non-constitutional rule, and it could presumably be corrected and if that were the obstacle, remove the constitutional problem here."
+1985.85-227,2,15060,john_paul_stevens,scotus_justice,2600.1,2612.157,"Mr. Frey, how do you distinguish a case in which a defendant objects to a whole category of evidence, he urges the court to keep it out and the judge erroneously excludes all the evidence, and then the jury returns a verdict of not guilty."
+1985.85-227,2,15933,andrew_l_frey,,2618.061,2619.663,"Well, there are two pieces to that."
+1985.85-227,2,15060,john_paul_stevens,scotus_justice,2624.798,2625.567,Why not?
+1985.85-227,2,15933,andrew_l_frey,,2633.587,2636.705,"Well, I think an argument could be made, and we have a footnote--"
+1985.85-227,2,15060,john_paul_stevens,scotus_justice,2636.705,2638.639,--It seems to me its a logical extension of the argument you are making.
+1985.85-227,2,15933,andrew_l_frey,,2638.639,2647.577,"--Certainly, Justice Cardozo in Palco against Connecticut thought that would be a better system, but at least there we don't know what the jury has done."
+1985.85-227,2,15073,warren_e_burger,scotus_justice,2684.1,2687.069,"I think you have responded to the questions, Mr. Frey."
+1985.85-227,3,37034,norma_chase,,2691.921,2692.721,I have nothing further.
+1985.85-227,3,15073,warren_e_burger,scotus_justice,2693.887,2694.771,"Thank you, counsel."

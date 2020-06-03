@@ -1,0 +1,203 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1988.87-981,0,15141,william_h_rehnquist,scotus_justice,0.0,43.577,"Mr. Womack, you may proceed whenever you're ready."
+1988.87-981,0,33407,joseph_w_womack,,43.577,62.573,"Mr. Chief Justice, and may it please the Court, these petitions respectfully ask you to consider two of the Federal rules of evidence."
+1988.87-981,0,15141,william_h_rehnquist,scotus_justice,364.734,368.872,The District Court admitted the evidence?
+1988.87-981,0,33407,joseph_w_womack,,368.872,370.622,"Yes, sir, yes, your Honor."
+1988.87-981,0,15113,anthony_m_kennedy,scotus_justice,426.875,433.295,Do you concede that part of the memorandum is admissable under 803(6)?
+1988.87-981,0,33407,joseph_w_womack,,433.295,436.08,"I think both parts are admissible, your Honor."
+1988.87-981,0,15113,anthony_m_kennedy,scotus_justice,437.266,443.436,Do all parties concede that 803(6) is applicable to at least part of the document?
+1988.87-981,0,33407,joseph_w_womack,,443.436,447.372,803 (6)?
+1988.87-981,0,15113,anthony_m_kennedy,scotus_justice,447.372,447.988,Yes.
+1988.87-981,0,33407,joseph_w_womack,,455.728,460.18,I had contended that they--
+1988.87-981,0,15113,anthony_m_kennedy,scotus_justice,460.18,461.715,It's (8)?
+1988.87-981,0,33407,joseph_w_womack,,461.715,463.032,--were admissible under Section (8).
+1988.87-981,0,15113,anthony_m_kennedy,scotus_justice,463.032,465.334,Was there any contention it was admissible under (6)?
+1988.87-981,0,33407,joseph_w_womack,,465.334,467.219,"Not to my knowledge, sir."
+1988.87-981,0,15113,anthony_m_kennedy,scotus_justice,467.219,467.769,All right.
+1988.87-981,0,33407,joseph_w_womack,,467.769,473.689,"That section, of course, does deal with opinion--"
+1988.87-981,0,15141,william_h_rehnquist,scotus_justice,473.689,476.724,We'll resume there at one o'clock.
+1988.87-981,0,33407,joseph_w_womack,,505.911,525.907,"Mr. Chief Justice, and may it please the Court, just before the recess, I had suggested that the Court of Appeals had made an erroneous assumption, and so that the Court will not think that I am making that assumption, that's what the Court says in the en banc opinion."
+1988.87-981,0,15141,william_h_rehnquist,scotus_justice,643.065,648.853,No discovery of the circumstances under which the investigation was conducted?
+1988.87-981,0,33407,joseph_w_womack,,648.853,650.138,"--None whatsoever, your Honor."
+1988.87-981,0,15141,william_h_rehnquist,scotus_justice,664.065,680.074,"As I read the text of the rule at any rate, Mr. Womack, it says, section (8) says, certain stuff shows the"
+1988.87-981,0,33407,joseph_w_womack,,693.75,704.69,"--I submit that I make the threshold showing that it's legitimate, authentic, done in the course and scope of the officer's duties, and so forth."
+1988.87-981,0,15049,antonin_scalia,scotus_justice,946.081,949.383,"Well, we're really just not discussing this in the abstract, are we?"
+1988.87-981,0,33407,joseph_w_womack,,974.35,994.579,"I think if the JAG officer had gone further and tried to attach liability for the accident, that that would have been going too far, both as a matter of law, and it would be contrary to the JAG manual itself, which forbids such a conclusion."
+1988.87-981,0,15049,antonin_scalia,scotus_justice,994.579,996.179,"Well, never mind the JAG manual."
+1988.87-981,0,33407,joseph_w_womack,,1011.755,1019.36,"For my part, your Honor, I thought the JAG officer's finding in this case was a factual evaluation."
+1988.87-981,0,15049,antonin_scalia,scotus_justice,1075.197,1077.233,I think you mistake my problem.
+1988.87-981,0,33407,joseph_w_womack,,1088.589,1089.124,"Yes, sir."
+1988.87-981,0,15049,antonin_scalia,scotus_justice,1089.124,1094.676,"But where do you want us to draw the line between what is a factual finding, and what is not a factual finding?"
+1988.87-981,0,33407,joseph_w_womack,,1094.676,1095.278,I would ask you--
+1988.87-981,0,15049,antonin_scalia,scotus_justice,1095.278,1101.181,Do you think a finding that the pilot was negligent would not be a factual finding?
+1988.87-981,0,33407,joseph_w_womack,,1101.181,1108.668,--I think a finding that the pilot was negligent would be too close to a legal conclusion.
+1988.87-981,0,15049,antonin_scalia,scotus_justice,1119.976,1124.797,"Well, what about the pilot failed to push the stick to the right when he should have?"
+1988.87-981,0,33407,joseph_w_womack,,1126.364,1145.627,"If the JAG officer says that the probable, a probable cause, or the probable cause, was the pilot's failure to input aileron, I think that that would be a factual finding that they should be able to consider."
+1988.87-981,0,15141,william_h_rehnquist,scotus_justice,1162.57,1176.23,"Well then, Mr. Womack, what do you think the converse of factual finding, what do you think the rulemakers meant to exclude when they said factual findings shall be admissible?"
+1988.87-981,0,33407,joseph_w_womack,,1178.099,1183.835,I thought they intended to exclude legal conclusions or fixation.
+1988.87-981,0,15141,william_h_rehnquist,scotus_justice,1183.835,1186.018,"What do you mean ""fixation""?"
+1988.87-981,0,33407,joseph_w_womack,,1186.018,1191.239,Legal determinations of legal responsibility.
+1988.87-981,0,15141,william_h_rehnquist,scotus_justice,1211.503,1218.657,Surely the law of evidence has been kind of confused for many years by efforts to distinguish between fact and opinion?
+1988.87-981,0,33407,joseph_w_womack,,1220.341,1236.201,"Well, Judge Weinstein, a much-loved authority on evidence, makes the very point that the District Judge should not be put in the position of drawing what he calls ""hairsplitting conclusions"" or factual evaluations."
+1988.87-981,0,15060,john_paul_stevens,scotus_justice,1259.301,1264.37,"Mr. Womack, may I ask one other question?"
+1988.87-981,0,33407,joseph_w_womack,,1277.964,1278.097,"Yes, sir."
+1988.87-981,0,15060,john_paul_stevens,scotus_justice,1278.097,1286.618,"But he did not let in the number (6), although the above sequence of events is the most likely to have occurred, this does not change the possibility that rollback did occur."
+1988.87-981,0,33407,joseph_w_womack,,1286.618,1287.403,"No, sir."
+1988.87-981,0,15060,john_paul_stevens,scotus_justice,1287.403,1288.036,Am I right in that?
+1988.87-981,0,33407,joseph_w_womack,,1293.89,1298.878,"If I may paraphrase His Honor, he said that was a possible scenario."
+1988.87-981,0,15060,john_paul_stevens,scotus_justice,1307.566,1308.949,"Would you, would you think he was correct in that?"
+1988.87-981,0,33407,joseph_w_womack,,1316.339,1318.055,"--Justice Stevens,--"
+1988.87-981,0,15060,john_paul_stevens,scotus_justice,1318.055,1319.291,"--can't get in, but a probability can?"
+1988.87-981,0,33407,joseph_w_womack,,1319.291,1320.574,--I offered the entire JAG report.
+1988.87-981,0,15060,john_paul_stevens,scotus_justice,1322.493,1326.611,"Well, I would have though that would be the right answer myself; that you either put it in, or you don't put it in."
+1988.87-981,0,33407,joseph_w_womack,,1326.611,1332.099,"That's what I urged for four months, in writing, and in every way that I could."
+1988.87-981,0,15060,john_paul_stevens,scotus_justice,1344.422,1346.941,Did the Plaintiff object to that editing of the report?
+1988.87-981,0,33407,joseph_w_womack,,1346.941,1353.695,"The Plaintiff objected to the conclusion, as I recall."
+1988.87-981,0,15060,john_paul_stevens,scotus_justice,1353.695,1354.195,"Well, I understand."
+1988.87-981,0,33407,joseph_w_womack,,1357.064,1358.499,"Number (7), yes, sir, he did."
+1988.87-981,0,15060,john_paul_stevens,scotus_justice,1358.499,1361.784,"He didn't take a position if (7) goes in, then the rest ought to go in, too?"
+1988.87-981,0,33407,joseph_w_womack,,1361.784,1363.82,"I don't think he did, your Honor."
+1988.87-981,0,15060,john_paul_stevens,scotus_justice,1363.82,1364.853,That's puzzling.
+1988.87-981,0,33407,joseph_w_womack,,1364.853,1370.474,"I don't mean to speak for him, and Mr. Larry will certainly know."
+1988.87-981,0,15141,william_h_rehnquist,scotus_justice,1373.426,1378.144,"Now the second question in your petition, as you doubtless know, Mr. Womack--"
+1988.87-981,0,33407,joseph_w_womack,,1378.144,1400.426,"--If your Honor please, the next has to do with what I call the paper rule... this is 106, which says in substance that if one offers part of a document or transcript or letter, that type of thing, and the advisory or opponent of the document wishes the other parts offered, it must be done at that time."
+1988.87-981,0,15113,anthony_m_kennedy,scotus_justice,1453.727,1460.215,"--Is it your position that Rainey could not get this document in, or that he just failed to do so in a proper way?"
+1988.87-981,0,33407,joseph_w_womack,,1460.215,1477.074,"I think that the subject of an engine opinion, the technical opinion which he was asked, or which he tried to express, was a professional opinion."
+1988.87-981,0,15113,anthony_m_kennedy,scotus_justice,1506.861,1509.461,"In other words, you put it on whether or not he's an expert."
+1988.87-981,0,33407,joseph_w_womack,,1517.484,1519.169,That's ground one.
+1988.87-981,0,15113,anthony_m_kennedy,scotus_justice,1539.25,1541.033,"Well, isn't that what happened?"
+1988.87-981,0,33407,joseph_w_womack,,1541.033,1542.702,--I say that--
+1988.87-981,0,15113,anthony_m_kennedy,scotus_justice,1542.702,1544.869,"On cross, they asked him about the document."
+1988.87-981,0,33407,joseph_w_womack,,1554.426,1562.782,"--Well, that Court of Appeals says what we did was tantamount to offering."
+1988.87-981,0,15141,william_h_rehnquist,scotus_justice,1568.686,1574.923,Why are you bound by something that the the Court of Appeals--
+1988.87-981,0,33407,joseph_w_womack,,1574.923,1580.225,"Well, maybe that's the wrong word to use."
+1988.87-981,0,15141,william_h_rehnquist,scotus_justice,1580.225,1582.077,"--Well, you're not bound by their decision."
+1988.87-981,0,33407,joseph_w_womack,,1584.612,1584.879,"Yes, yes."
+1988.87-981,0,15141,william_h_rehnquist,scotus_justice,1602.49,1603.29,Thank you.
+1988.87-981,0,33407,joseph_w_womack,,1603.29,1611.929,"I did not think that you could change subject matter, or bring in new subject matter, much less professional opinions about spool turbines."
+1988.87-981,0,15113,anthony_m_kennedy,scotus_justice,1611.929,1620.969,"But is it your opinion that if he had asked for the admission of the letter at that time, when you first brought the letter in, that the trial judge would have had to admit the letter?"
+1988.87-981,0,33407,joseph_w_womack,,1622.154,1623.704,"Yes, sir."
+1988.87-981,0,15113,anthony_m_kennedy,scotus_justice,1639.263,1643.75,And you're telling us that the ruling would have been that it should be admitted?
+1988.87-981,0,33407,joseph_w_womack,,1643.75,1648.721,If it was germane to the subject matters opened up.
+1988.87-981,0,15140,william_j_brennan_jr,scotus_justice,1648.721,1658.327,"But, your argument, Mr. Womack, as I understand your brief, is that Rule 106 is inapplicable anyway, because he never mentioned it or raised it."
+1988.87-981,0,33407,joseph_w_womack,,1658.844,1660.446,That's--
+1988.87-981,0,15140,william_j_brennan_jr,scotus_justice,1660.446,1661.412,Have you abandoned that argument?
+1988.87-981,0,33407,joseph_w_womack,,1661.412,1662.429,"--No, sir, I have not."
+1988.87-981,0,15049,antonin_scalia,scotus_justice,1683.209,1690.548,"To get more specific, as I understand it, the writing... you didn't introduce the writing, did you?"
+1988.87-981,0,33407,joseph_w_womack,,1690.548,1690.798,"No, your Honor."
+1988.87-981,0,15049,antonin_scalia,scotus_justice,1690.798,1691.381,You just read from it?
+1988.87-981,0,33407,joseph_w_womack,,1691.381,1691.948,"No, your Honor."
+1988.87-981,0,15049,antonin_scalia,scotus_justice,1701.523,1704.641,"Well, then how could he have raised 106?"
+1988.87-981,0,33407,joseph_w_womack,,1711.128,1717.365,"In my awkwardness, I'm not getting my point across, and that's my fault."
+1988.87-981,0,15049,antonin_scalia,scotus_justice,1722.786,1725.138,"Because you didn't introduce the document itself, you just read from it?"
+1988.87-981,0,33407,joseph_w_womack,,1725.138,1726.054,That's right.
+1988.87-981,0,15049,antonin_scalia,scotus_justice,1738.279,1738.796,Then he should--
+1988.87-981,0,33407,joseph_w_womack,,1738.796,1743.6,"--If I have any time, I would like to reserve it, your Honor."
+1988.87-981,0,15141,william_h_rehnquist,scotus_justice,1743.6,1744.483,"--Very well, Mr. Womack."
+1988.87-981,1,21120,dennis_k_larry,,1745.968,1750.586,Mr. Chief Justice.
+1988.87-981,1,15092,sandra_day_oconnor,scotus_justice,1832.99,1855.189,"Mr. Larry, I guess some courts in applying the rule have read it to mean that so long as an official report contains some factual findings, that then the entire report is admissible, unless it is lacking in trustworthiness."
+1988.87-981,1,21120,dennis_k_larry,,1857.639,1867.831,"--Justice O'Connor, the only case I know of, other than Judge Tjofiat, who wrote a concurring opinion in this case, that discuss that at all was Zenith v. Matsushita."
+1988.87-981,1,15092,sandra_day_oconnor,scotus_justice,1875.936,1878.904,"And one could, I guess, read the rule that way."
+1988.87-981,1,21120,dennis_k_larry,,1878.904,1879.488,"Yes, ma'am."
+1988.87-981,1,15141,william_h_rehnquist,scotus_justice,1893.196,1904.254,"Aren't we then just embroiled in the traditional distinction of 50 or 60 years ago, the difference between fact and opinion?"
+1988.87-981,1,21120,dennis_k_larry,,1904.254,1923.5,"Justice Rehnquist, I believe that this Court, I believe that courts, can see a difference, and can distinguish between what an investigator finds as a fact, based upon his evaluation of evidence, and what is pure opinion."
+1988.87-981,1,15141,william_h_rehnquist,scotus_justice,1923.5,1930.987,Surely anyone trained as a lawyer would be able to see things at either end of that spectrum.
+1988.87-981,1,21120,dennis_k_larry,,1945.597,1963.725,"your Honor, what we want is for the trial judge to make a determination as to whether the report qualities under the rule, and not simply let the entire report in just because in some cases, it may be difficult to distinguish between opinion and fact."
+1988.87-981,1,15140,william_j_brennan_jr,scotus_justice,1975.683,1981.17,"Would you settle for the trial judge setting up,"
+1988.87-981,1,21120,dennis_k_larry,,1988.36,1998.631,"I think the judge, when the report is offered, has to decide whether the report sets forth more than findings of fact."
+1988.87-981,1,15141,william_h_rehnquist,scotus_justice,2114.138,2119.724,Where in the briefs is the advisory committee language that you're referring to?
+1988.87-981,1,21120,dennis_k_larry,,2123.362,2124.578,I have the Advisory Committee note in front of me.
+1988.87-981,1,15141,william_h_rehnquist,scotus_justice,2124.578,2126.23,"Well, it would help."
+1988.87-981,1,21120,dennis_k_larry,,2127.847,2133.051,"Well, your Honor, I don't have the page handy."
+1988.87-981,1,15049,antonin_scalia,scotus_justice,2239.57,2244.974,Is his degree of certainty what determines it?
+1988.87-981,1,21120,dennis_k_larry,,2265.221,2271.875,"--In that sense, he is telling the reader of his report that it simply isn't a factual finding of his."
+1988.87-981,1,15049,antonin_scalia,scotus_justice,2271.875,2276.427,But it seems to me that he's done the same thing in both situations.
+1988.87-981,1,21120,dennis_k_larry,,2284.349,2300.811,"It is true that when an investigator makes a finding or an evaluation by factual determination, he is injecting a judgment process, which is involved in opinion, and gets more and more involved the more you get into the kind of opinion that was admitted here."
+1988.87-981,1,15049,antonin_scalia,scotus_justice,2300.811,2301.328,Right.
+1988.87-981,1,21120,dennis_k_larry,,2315.988,2322.224,"The court could very well determine that although he called it an opinion, he simply made a finding of fact."
+1988.87-981,1,15049,antonin_scalia,scotus_justice,2324.426,2325.659,I hope not.
+1988.87-981,1,21120,dennis_k_larry,,2329.245,2353.363,"What I'm suggesting to the Court is that as the Advisory Committee evaluated or revalued the kinds of reports that have been previously admitted by statute, and still were preserved, that this is the kind of report that may contain some conclusory, may tend toward the conclusory, but which nevertheless is the investigator's statement of fact that that's what it was."
+1988.87-981,1,15141,william_h_rehnquist,scotus_justice,2487.913,2497.388,"In your view, Mr. Larry, does the admissibility of opinion in this sort of a report turn on whether it's trustworthy or not, or even if it's very trustworthy,--"
+1988.87-981,1,21120,dennis_k_larry,,2497.388,2522.17,"Justice Rehnquist, our contention is that before trustworthiness is ever reached as an issue, the findings, the factual findings, have to meet the requirements of the rule, and that, unless it is determined that what is offered is a factual finding, you never get to trustworthiness, with respect to attacking the opinions."
+1988.87-981,1,15060,john_paul_stevens,scotus_justice,2619.6,2621.034,"--May I ask you a question, Mr. Larry?"
+1988.87-981,1,21120,dennis_k_larry,,2639.83,2642.865,"Justice, you're not completely correct in that point."
+1988.87-981,1,15060,john_paul_stevens,scotus_justice,2658.459,2659.275,--You see because--
+1988.87-981,1,21120,dennis_k_larry,,2659.275,2660.691,"Because one investigator here could have said,"
+1988.87-981,1,15060,john_paul_stevens,scotus_justice,2664.727,2673.166,"--But one of the things that puzzles me is that the judge left out all the parts of the possible scenario, in paragraph (5)(a)(b)(c)(d) and (e)."
+1988.87-981,1,21120,dennis_k_larry,,2695.198,2710.291,"Your Honor, the judge found in that case, and we agreed with him, that there wasn't really any way for that investigator to know a lot of those things that he was talking about were possible, who was... whether the student overpowered the instructor, or whether the--"
+1988.87-981,1,15060,john_paul_stevens,scotus_justice,2710.291,2719.146,"No, but for example, whether the student could have obstructed the visibility of the instructor in certain attitudes, and the like, those are fairly factual, I would think."
+1988.87-981,1,21120,dennis_k_larry,,2719.146,2723.948,"--Well, there weren't any finding... if I'm not mistaken, there were no factual findings in those respects."
+1988.87-981,1,15060,john_paul_stevens,scotus_justice,2739.06,2739.81,"Well, that's right."
+1988.87-981,1,21120,dennis_k_larry,,2754.237,2757.689,"If that expert had been on the stand, I could have asked him,"
+1988.87-981,1,15049,antonin_scalia,scotus_justice,2787.058,2791.076,"All probable opinions can get in, then?"
+1988.87-981,1,21120,dennis_k_larry,,2791.743,2799.765,"Your Honor, that's the line that the judge drew as to why that opinion would come in and not the possible scenarios."
+1988.87-981,1,15049,antonin_scalia,scotus_justice,2799.765,2800.216,I see.
+1988.87-981,1,21120,dennis_k_larry,,2802.8,2805.335,He did allow opinion to come in.
+1988.87-981,1,15049,antonin_scalia,scotus_justice,2805.335,2807.287,I say you would not allow any opinion to come in?
+1988.87-981,1,21120,dennis_k_larry,,2807.287,2808.337,That's correct.
+1988.87-981,1,15049,antonin_scalia,scotus_justice,2808.337,2811.656,And you define opinion as what?
+1988.87-981,1,21120,dennis_k_larry,,2811.656,2814.775,I would ask the parties to bring the experts who want to express those opinions to court.
+1988.87-981,1,15049,antonin_scalia,scotus_justice,2814.775,2829.368,"What do you do with something like... I have a report that said, makes a finding that the brake was applied... the brakes were applied 200 feet before the impact, in an automobile accident."
+1988.87-981,1,21120,dennis_k_larry,,2829.368,2832.57,If that was based upon a skid mark--
+1988.87-981,1,15049,antonin_scalia,scotus_justice,2832.57,2833.772,"Yes, it was."
+1988.87-981,1,21120,dennis_k_larry,,2833.772,2844.56,"--That was 200 feet long, then you've entered into the realm of where an investigator can tend toward the conclusory, but still establish it as a fact."
+1988.87-981,1,15141,william_h_rehnquist,scotus_justice,2897.362,2900.714,What if you seek to offer into evidence a weather forecast?
+1988.87-981,1,21120,dennis_k_larry,,2909.437,2914.641,--That would not be a factual finding reached by an investigator pursuant to law.
+1988.87-981,1,15141,william_h_rehnquist,scotus_justice,2916.826,2922.61,"So you say that that doesn't depend on opinion at all, because it's that kind of opinion is not governed by this?"
+1988.87-981,1,21120,dennis_k_larry,,2922.61,2929.883,"Well, 803(8)(c) speaks only to reports of investigations containing factual findings, and I don't think that that's what that would be."
+1988.87-981,1,15071,byron_r_white,scotus_justice,2929.883,2939.322,"Well, what you're trying to do in your lawsuit is to prove the cause of the accident."
+1988.87-981,1,21120,dennis_k_larry,,2939.322,2939.539,That's correct.
+1988.87-981,1,15071,byron_r_white,scotus_justice,2939.539,2940.941,Of the accident.
+1988.87-981,1,21120,dennis_k_larry,,2943.559,2946.345,Is it all that difficult to prove the cause?
+1988.87-981,1,15071,byron_r_white,scotus_justice,2946.345,2948.345,"But it's not impossible, or you wouldn't have brought the lawsuit."
+1988.87-981,1,21120,dennis_k_larry,,2948.345,2949.061,That's correct.
+1988.87-981,1,15071,byron_r_white,scotus_justice,2955.082,2956.117,Yes.
+1988.87-981,1,21120,dennis_k_larry,,2956.117,2961.77,"It was a very, very... and the sole issue, really, for the jury, whether you call it a legal conclusion--"
+1988.87-981,1,15071,byron_r_white,scotus_justice,2961.77,2965.889,"Well, because experts differ is some reason for not allowing in this report?"
+1988.87-981,1,21120,dennis_k_larry,,2965.889,2967.174,"--I'm sorry, I missed the first part."
+1988.87-981,1,15071,byron_r_white,scotus_justice,2967.174,2972.71,"The fact that experts may differ, is that a reason for not allowing this report in?"
+1988.87-981,1,21120,dennis_k_larry,,2972.71,2975.345,Your Honor... no.
+1988.87-981,1,15071,byron_r_white,scotus_justice,2984.97,2992.79,"So your submission is that if somebody makes a finding of cause, that's opinion?"
+1988.87-981,1,21120,dennis_k_larry,,2992.79,2999.277,--If it is... if it goes beyond a normative... if it goes beyond--
+1988.87-981,1,15071,byron_r_white,scotus_justice,2999.277,3006.18,"Well, the investigator... looks around, looks at the evidence available to him and says that the cause of this accident was pilot error."
+1988.87-981,1,21120,dennis_k_larry,,3006.18,3008.049,--That's opinion and doesn't come in under this rule.
+1988.87-981,1,15071,byron_r_white,scotus_justice,3009.765,3010.501,What if you're wrong?
+1988.87-981,1,21120,dennis_k_larry,,3017.238,3022.19,"If the investigator calls it... calls cause a finding of fact, I don't think that changes that it is--"
+1988.87-981,1,15071,byron_r_white,scotus_justice,3022.19,3030.813,You say that that kind of a statement by an expert after examining a crash is always supposed to be considered an opinion?
+1988.87-981,1,21120,dennis_k_larry,,3030.813,3033.831,"--Well, I think that's true."
+1988.87-981,1,15049,antonin_scalia,scotus_justice,3033.831,3040.854,"But, you wouldn't say that, if you apply the test you gave me earlier, whether everybody would reach that conclusion."
+1988.87-981,1,21120,dennis_k_larry,,3064.386,3071.04,"Well, in your example, I think that I would differ with that, because I don't think that part would be enough to answer the whole question."
+1988.87-981,1,15141,william_h_rehnquist,scotus_justice,3082.931,3084.298,Why isn't that opinion?
+1988.87-981,1,21120,dennis_k_larry,,3084.298,3095.905,"Well, it is... that again gets into that area that is called the kind of opinion, the kind of conclusion that all persons similarly skilled would reach."
+1988.87-981,1,15141,william_h_rehnquist,scotus_justice,3105.879,3109.331,"So if they agree on it, it's not opinion?"
+1988.87-981,1,21120,dennis_k_larry,,3110.681,3114.033,"Your Honor, I'm making two points."
+1988.87-981,1,15141,william_h_rehnquist,scotus_justice,3195.104,3198.389,"You could have deposed this fellow, you could have called him as an adverse witness."
+1988.87-981,1,21120,dennis_k_larry,,3198.389,3204.127,"--Your Honor, the only choice that we had to do that was to seek a continuance."
+1988.87-981,1,15141,william_h_rehnquist,scotus_justice,3210.78,3214.148,You can't really complain that your right of cross-examination was cut off.
+1988.87-981,1,21120,dennis_k_larry,,3214.148,3220.921,"Well, your Honor, even under this rule, if I had deposed him, I still can't cross-examine his in front of the jury."
+1988.87-981,1,15071,byron_r_white,scotus_justice,3301.204,3306.175,On what basis did you want the Plaintiffs' letter in?
+1988.87-981,1,21120,dennis_k_larry,,3306.175,3316.9,"Your Honor, the letter we wanted in because Beech had introduced Rainey's letter."
+1988.87-981,1,15113,anthony_m_kennedy,scotus_justice,3316.9,3317.95,Had they?
+1988.87-981,1,21120,dennis_k_larry,,3320.518,3321.102,They did--
+1988.87-981,2,33407,joseph_w_womack,,3542.08,3567.48,"With the Court's permission, I made the decision to call Mr. John Rainey as an adverse party, since he had not testified at all, called for the purpose of getting him to make admissions against interest, which I thought were contained in the letter which he had written."
+1988.87-981,2,15071,byron_r_white,scotus_justice,3583.74,3593.528,"Well, you objected to the jury hearing the statement by Rainey that he didn't think it was pilot error?"
+1988.87-981,2,33407,joseph_w_womack,,3593.528,3602.903,I objected to his making the statement that the cause of the accident was rollback which is a technical term.
+1988.87-981,2,15071,byron_r_white,scotus_justice,3602.903,3603.52,And not pilot error?
+1988.87-981,2,33407,joseph_w_womack,,3603.52,3604.136,"Yes, sir."
+1988.87-981,2,15071,byron_r_white,scotus_justice,3604.136,3606.188,And why did you object to that?
+1988.87-981,2,33407,joseph_w_womack,,3606.188,3609.64,Why did I object to it?
+1988.87-981,2,15071,byron_r_white,scotus_justice,3612.676,3615.128,So he's not qualified as an expert?
+1988.87-981,2,33407,joseph_w_womack,,3615.711,3616.294,"Yes, sir."
+1988.87-981,2,15071,byron_r_white,scotus_justice,3618.33,3624.567,"But the investigator, the JAG investigator, was an expert?"
+1988.87-981,2,33407,joseph_w_womack,,3624.567,3633.939,"That comes in under the... a separate route, if I may put it that way, under the rule as we understood it."
+1988.87-981,2,15071,byron_r_white,scotus_justice,3637.374,3638.659,"Well, I know but--"
+1988.87-981,2,33407,joseph_w_womack,,3638.659,3640.643,--and guess him to fall into the same category.
+1988.87-981,2,15071,byron_r_white,scotus_justice,3640.643,3643.611,--I know but why did he have to be an expert to testify as to a fact--
+1988.87-981,2,33407,joseph_w_womack,,3643.611,3645.813,Because the engine testimony--
+1988.87-981,2,15071,byron_r_white,scotus_justice,3645.813,3649.015,"--And rather than an opinion, was this opinion what you were objecting to?"
+1988.87-981,2,33407,joseph_w_womack,,3649.015,3650.717,"--Opinion, yes sir."
+1988.87-981,2,15071,byron_r_white,scotus_justice,3650.717,3655.603,You mean this was... the cause... his statement about the cause of the accident was an opinion?
+1988.87-981,2,33407,joseph_w_womack,,3655.603,3656.038,"Yes, sir."
+1988.87-981,2,15071,byron_r_white,scotus_justice,3656.038,3660.073,"Just like that was in the JAG expert, it was an opinion?"
+1988.87-981,2,33407,joseph_w_womack,,3662.275,3669.429,"Yes, your Honor, but one was qualified under the rule, and one was not, in my judgment."
+1988.87-981,2,15141,william_h_rehnquist,scotus_justice,3669.429,3672.512,"Thank you, Mr. Womack."

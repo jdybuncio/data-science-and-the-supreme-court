@@ -1,0 +1,151 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2015.14-1382,0,15086,john_g_roberts_jr,scotus_justice,0.0,8.76,"We'll hear argument next in Case 14-1382, Americold Realty Trust v. ConAgra Foods. Mr. Pospisil."
+2015.14-1382,0,62646,michael_d_pospisil,,8.76,26.325,"Thank you, Mr. Chief Justice, and may it please the Court: The issue before the Court today is whose citizenship -- citizenship controls for purposes of diversity when a trust is a named party to a lawsuit. We believe, based upon over 200 years of jurisprudence from this Court, the answer is the trustees."
+2015.14-1382,0,15084,ruth_bader_ginsburg,scotus_justice,36.47,46.355,"Why should we get to that question if, when this case began, even if you looked only to the citizenship of the trustees, there was no complete diversity?"
+2015.14-1382,0,62646,michael_d_pospisil,,46.355,57.015,"Your Honor, that -- that is correct. However, we do argue -- and we argued in the Tenth Circuit; it was briefed -- upon whether or not we could dismiss the -- the -- the spoiling nondiverse parties."
+2015.14-1382,0,15049,antonin_scalia,scotus_justice,93.16,96.02,"At common law, the trustees could sue, couldn't they?"
+2015.14-1382,0,62646,michael_d_pospisil,,96.02,96.875,"They could, Your Honor."
+2015.14-1382,0,15049,antonin_scalia,scotus_justice,96.875,99.665,"And these trustees could not sue, could -- can they?"
+2015.14-1382,0,62646,michael_d_pospisil,,99.665,100.92,"They cannot, Your Honor."
+2015.14-1382,0,15049,antonin_scalia,scotus_justice,100.92,105.21,Because of a new creature created by Maryland law.
+2015.14-1382,0,62646,michael_d_pospisil,,105.21,106.88,"That's correct, Justice Scalia."
+2015.14-1382,0,15068,samuel_a_alito_jr,scotus_justice,124.01,135.76,"Well, this new entity is called ""the Trust,"" but why is it more like a traditional trust than it is like another unincorporated, artificial entity, like an L.L.C.?"
+2015.14-1382,0,62646,michael_d_pospisil,,135.76,141.145,"Your Honor, it's more -- it's like a trust because there are two attributes that a trust have, that have historically had."
+2015.14-1382,0,15049,antonin_scalia,scotus_justice,180.43,189.535,"So who -- who owns -- who owns these assets under Maryland law? Is it the trustees, or is it this -- this new corporation-type entity?"
+2015.14-1382,0,62646,michael_d_pospisil,,189.535,189.97,Your Honor --
+2015.14-1382,0,15049,antonin_scalia,scotus_justice,189.97,193.745,"That's the entity that can sue, and I assume that that's the entity that owns the property."
+2015.14-1382,0,62646,michael_d_pospisil,,193.745,195.37,"It can be both, Your Honor. Under Maryland law --"
+2015.14-1382,0,15049,antonin_scalia,scotus_justice,195.37,199.05,And -- and the trustees are sort of in the position of managers --
+2015.14-1382,0,62646,michael_d_pospisil,,199.05,199.57,Your --
+2015.14-1382,0,15049,antonin_scalia,scotus_justice,199.57,202.51,-- just -- just as though you -- you hired a -- a CEO.
+2015.14-1382,0,62646,michael_d_pospisil,,202.51,215.84,"I would disagree, Your Honor. Under Maryland law, the assets of a real estate investment trust can be held by the trustees, or the trust in its entity. Again, I don't think that makes the -- changes the analysis at all."
+2015.14-1382,0,15049,antonin_scalia,scotus_justice,219.58,220.98,It can be owned by the entity?
+2015.14-1382,0,62646,michael_d_pospisil,,220.98,221.54,It can be.
+2015.14-1382,0,15049,antonin_scalia,scotus_justice,221.54,222.86,Or -- or the trustees.
+2015.14-1382,0,62646,michael_d_pospisil,,222.86,223.67,"That's correct, Your Honor."
+2015.14-1382,0,15086,john_g_roberts_jr,scotus_justice,223.67,228.29,"You mean in -- in one case, or you can have a different type of trust?"
+2015.14-1382,0,62646,michael_d_pospisil,,228.29,229.54,In one case.
+2015.14-1382,0,15086,john_g_roberts_jr,scotus_justice,229.54,230.04,In one case.
+2015.14-1382,0,62646,michael_d_pospisil,,230.04,244.59,"In one case, Your Honor. And I will say this, Justice Scalia, that no statute in the country that we have found has ever held that the legal ownership goes in the name of a trust beneficiary."
+2015.14-1382,0,15049,antonin_scalia,scotus_justice,269.7,275.385,"That was a trustee who had the authority to sue, right, in the trustee's own name?"
+2015.14-1382,0,62646,michael_d_pospisil,,275.385,277.19,"That is correct, Your Honor. And that -- that is what happened --"
+2015.14-1382,0,15049,antonin_scalia,scotus_justice,277.19,277.75,And that's not the case here.
+2015.14-1382,0,62646,michael_d_pospisil,,277.75,296.24,"That is what happened in Navarro. However, the trust in Navarro was a Massachusetts trust, and it could have sued in its own name as well. And the way that Navarro was framed by the lower court when they decided the opinion was the district court held that, for purposes of a business trust, we look to the citizenship of the beneficiaries. This Court --"
+2015.14-1382,0,15084,ruth_bader_ginsburg,scotus_justice,296.24,309.72,"But didn't -- didn't -- Carden treated Navarro as a case where the suit was against the individual members, the individual trustees, trustees as individuals, not the trust."
+2015.14-1382,0,62646,michael_d_pospisil,,309.72,310.48,"That's correct, Your Honor."
+2015.14-1382,0,15084,ruth_bader_ginsburg,scotus_justice,310.48,315.675,"So I thought Carden was trying -- was set up -- if you're a corporation, that's one thing."
+2015.14-1382,0,62646,michael_d_pospisil,,342.155,361.66,"Your Honor, we believe what Carden did is Carden tells us if you're not a corporation, if you're another entity but not a corporation, we need to look behind the curtain, so to speak, and look to somebody else to see whose citizenship controls. Carden did not involve a trust, didn't involve -- did not involve trustees, and did not involve trust assets or trust beneficiaries."
+2015.14-1382,0,15131,sonia_sotomayor,scotus_justice,395.25,400.44,"Well, this is not a traditional trust, because this is shareholders and not beneficiaries."
+2015.14-1382,0,62646,michael_d_pospisil,,400.44,400.97,Your Honor --
+2015.14-1382,0,15131,sonia_sotomayor,scotus_justice,400.97,404.59,It -- it's a very different sort of concept.
+2015.14-1382,0,62646,michael_d_pospisil,,414.87,415.82,Justice Sotomayor --
+2015.14-1382,0,15131,sonia_sotomayor,scotus_justice,415.82,421.2,And only the corporation can have a place of business or an -- a place of incorporation.
+2015.14-1382,0,62646,michael_d_pospisil,,421.2,431.375,"Your Honor, we -- we admit that the nomenclature is ""shareholder."" That's what's used in the Real Estate Investment Trust Act in Maryland. However, that's not to be equated with another business entity."
+2015.14-1382,0,15131,sonia_sotomayor,scotus_justice,447.25,449.745,I thought the shareholders owned the property.
+2015.14-1382,0,62646,michael_d_pospisil,,451.82,452.795,"No, Your Honor."
+2015.14-1382,0,15084,ruth_bader_ginsburg,scotus_justice,566.099,577.61,"I thought that the distinction in Carden was quite plain, that Carden was a case against the individual trustees, not against the trust."
+2015.14-1382,0,62646,michael_d_pospisil,,579.5,581.585,"Carden distinguished Navarro; that's correct, Your Honor."
+2015.14-1382,0,15084,ruth_bader_ginsburg,scotus_justice,582.315,587.215,"On the ground that the suit there was against the individual trustees, not the trust."
+2015.14-1382,0,62646,michael_d_pospisil,,587.215,588.295,That's correct.
+2015.14-1382,0,15094,elena_kagan,scotus_justice,640.29,646.35,"I thought that one of the virtues of Carden was that it just set up very categorical, bright-line rule."
+2015.14-1382,0,62646,michael_d_pospisil,,676.575,680.35,"Your Honor, Carden dealt with a partnership that had members."
+2015.14-1382,0,15084,ruth_bader_ginsburg,scotus_justice,748.69,752.205,Why should it matter as long as it's not a corporation?
+2015.14-1382,0,62646,michael_d_pospisil,,752.205,761.58,"Because, Your Honor, again, we go impact to how trusts have been treated separately and distinctly, as a historical matter, for hundreds of years."
+2015.14-1382,0,15049,antonin_scalia,scotus_justice,793.93,795.245,How many are there in this one?
+2015.14-1382,0,62646,michael_d_pospisil,,795.245,797.67,"There are between 100 and 200, Your Honor."
+2015.14-1382,0,15049,antonin_scalia,scotus_justice,797.67,806.095,"Is that -- you know, how -- how many are -- are there normally in these special Maryland trusts?"
+2015.14-1382,0,62646,michael_d_pospisil,,806.095,810.765,"To be a Real Estate Investment Trust for purposes of Federal taxation benefits, it's got to be at least at 100."
+2015.14-1382,0,15049,antonin_scalia,scotus_justice,810.765,811.68,At least a hundred.
+2015.14-1382,0,62646,michael_d_pospisil,,811.68,813.02,At least 100.
+2015.14-1382,0,15049,antonin_scalia,scotus_justice,813.02,816.37,Do you know of any that -- that are more than a thousand?
+2015.14-1382,0,62646,michael_d_pospisil,,816.37,817.185,"Oh, yes."
+2015.14-1382,0,15049,antonin_scalia,scotus_justice,817.185,817.66,Really?
+2015.14-1382,0,62646,michael_d_pospisil,,817.66,818.175,"Yes, Your Honor."
+2015.14-1382,0,15084,ruth_bader_ginsburg,scotus_justice,889.69,900.839,"Well, why should -- I mean, it -- it is the person who's invoking diversity jurisdiction has to show the diversity, and if they can't, then you sue in State court."
+2015.14-1382,0,62646,michael_d_pospisil,,900.839,902.88,"That -- that's an option, Your Honor."
+2015.14-1382,0,15094,elena_kagan,scotus_justice,917.14,922.72,But that's true of partnerships; it's true of LLCs; it's true of a wide variety of legal entities.
+2015.14-1382,0,62646,michael_d_pospisil,,922.72,923.72,"That's true, Your Honor."
+2015.14-1382,0,15086,john_g_roberts_jr,scotus_justice,935.63,947.06,"Does it -- is it a pertinent consideration in terms of the impact on Federal jurisdiction? I mean, this is standard, run-of-the-mill commercial dispute about a commercial accident."
+2015.14-1382,0,62646,michael_d_pospisil,,964.645,965.735,"Yes, Your Honor."
+2015.14-1382,0,15049,antonin_scalia,scotus_justice,998.3,1004.37,"Well, maybe that's a problem for -- for Congress as -- as the problem of corporations was."
+2015.14-1382,0,62646,michael_d_pospisil,,1013.63,1015.05,"Congress always could, Your Honor."
+2015.14-1382,0,15131,sonia_sotomayor,scotus_justice,1021.25,1036.105,"Do you have any definition of what the common law trust was? I'll -- I'll give you the ones I understand, and you tell me how you don't. I thought in a common law trust, the trustees had legal title."
+2015.14-1382,0,62646,michael_d_pospisil,,1066.275,1068.28,"You are wrong in the second point, Your Honor."
+2015.14-1382,0,15131,sonia_sotomayor,scotus_justice,1068.28,1068.66,All right --
+2015.14-1382,0,62646,michael_d_pospisil,,1068.66,1068.76,Yeah.
+2015.14-1382,0,15131,sonia_sotomayor,scotus_justice,1068.76,1070.53,-- so go -- I'm right on the first part.
+2015.14-1382,0,62646,michael_d_pospisil,,1070.53,1070.79,Yes.
+2015.14-1382,0,15131,sonia_sotomayor,scotus_justice,1081.805,1085.79,"Do you have a section for that? I'm going to look it up, so."
+2015.14-1382,0,62646,michael_d_pospisil,,1085.79,1086.245,Okay.
+2015.14-1382,0,15131,sonia_sotomayor,scotus_justice,1086.245,1091.42,"Because that's not how I originally understood things, but -- that's all right --"
+2015.14-1382,0,62646,michael_d_pospisil,,1091.42,1091.51,Okay.
+2015.14-1382,0,15131,sonia_sotomayor,scotus_justice,1091.51,1094.465,-- you can give it to me on rebuttal.
+2015.14-1382,0,62646,michael_d_pospisil,,1094.465,1107.11,"Justice Sotomayor, it's the Maryland Code of Corporations and Associations Section 8-301(12)"
+2015.14-1382,0,15131,sonia_sotomayor,scotus_justice,1123.625,1127.665,Thank you.
+2015.14-1382,0,62646,michael_d_pospisil,,1127.665,1142.535,So we -- we believe the proper test is -- is a combination between Navarro and Carden and we should look at the trustees and it doesn't matter whether or not the real estate investment trust can sue on its own behalf or has to sue through the trustees.
+2015.14-1382,0,15086,john_g_roberts_jr,scotus_justice,1152.36,1161.76,"Thank you, counsel. Mr. Duggan."
+2015.14-1382,1,62591,john_m_duggan,,1161.76,1195.3,"Mr. Chief Justice, and may it please the Court: We urge the Court to adopt and reaffirm its bright-line ruling announced in Carden that artificial entity associations sued or suing in their own names must measure their diversity citizenship by all of their members, which would include those persons who own a beneficial interest in the entity. In this case, that would be the shareholder members of a REIT who are in perfect accord with the limited partners' ownership interest in Carden."
+2015.14-1382,1,15086,john_g_roberts_jr,scotus_justice,1195.3,1201.3,"Would you describe beneficiaries as a member -- member of a trust? I mean, as you articulate it."
+2015.14-1382,1,62591,john_m_duggan,,1215.67,1240.07,"Mr. Chief Justice, I think it's important to understand that there is a very significant distinction between a shareholder of a REIT and a beneficiary of a common law traditional trust. As set forth in the appendix to the petition, page 79, which is the Declaration of Trust for Americold, the actual shareholders have personal property interest in the shares."
+2015.14-1382,1,15084,ruth_bader_ginsburg,scotus_justice,1477.32,1482.46,"And in this case you couldn't sue the trustees individually, right?"
+2015.14-1382,1,62591,john_m_duggan,,1482.46,1483.6,That is correct.
+2015.14-1382,1,15094,elena_kagan,scotus_justice,1529.465,1547.835,"Mr. Duggan, do you think it's possible that we took a bit of a wrong turn in -- in Carden? In other words, that, in fact, all of these entities should be treated like corporations and that the strongest arguments on the other side, you know, are really those arguments."
+2015.14-1382,1,62591,john_m_duggan,,1555.905,1572.52,"Well, Justice Kagan, I agree, and I think the Court said in Carden that our decision is precedent bound and perhaps even unresponsive to policy considerations, but it is indeed Congress's prerogative to change the law. And indeed, Congress has spoken."
+2015.14-1382,1,15084,ruth_bader_ginsburg,scotus_justice,1584.93,1590.635,"If we -- if we made the law in the first place, why should we say, well, we made it, but we're not going to fix it."
+2015.14-1382,1,62591,john_m_duggan,,1591.97,1620.29,"Well, because I think Congress has fixed it, and Congress has recognized, specifically with class action lawsuits, that they would treat associations the same as corporations if they are named as a party in a class action lawsuit in the 2005 amendments to Section 1332. And they specifically said, if you are an unincorporated association, we're going to look to your place of incorporation and your principal place of business for purposes of diversity jurisdiction in class action lawsuits."
+2015.14-1382,1,15139,stephen_g_breyer,scotus_justice,1657.07,1677.655,"The problem, just from the point of view of the common sense of it, is you have an organization that has, A, the organization; B, the trustees; and C, the shareholders. So applying Carden, what you would say -- and Navarro: If you sue the trustees, you look to their citizenship."
+2015.14-1382,1,62591,john_m_duggan,,1711.2,1734.32,"But it is the sport that's played even with regard to limited partnerships, Justice Breyer, because in the instance where in a limited partnership a general partner who is managing the affairs of the entity breaches a duty to a third party and the entity itself also is responsible for a breach of duty, a party can sue both the general partner and the artificial entity."
+2015.14-1382,1,15113,anthony_m_kennedy,scotus_justice,1811.92,1823.9,"Is it the Petitioner's position that the Real Estate Investment Trust is more like a trust than an LLC, than a limited partnership?"
+2015.14-1382,1,62591,john_m_duggan,,1823.9,1826.84,"I think it's made that suggestion to the Court, but in our --"
+2015.14-1382,1,15113,anthony_m_kennedy,scotus_justice,1826.84,1830.48,"And -- and if that is their position, what would your response be?"
+2015.14-1382,1,62591,john_m_duggan,,1830.48,1831.69,Our response would be --
+2015.14-1382,1,15113,anthony_m_kennedy,scotus_justice,1831.69,1839.07,Why -- why is an REIT more like a limited partner than it is a common law trust?
+2015.14-1382,1,62591,john_m_duggan,,1839.07,1841.16,"There's two primary reasons, Justice Kennedy."
+2015.14-1382,1,15113,anthony_m_kennedy,scotus_justice,1858.07,1862.66,"Well, it seems to me that's a wash because what you describe is a common law trust as well, so I'm --"
+2015.14-1382,1,62591,john_m_duggan,,1862.66,1863.26,Precisely.
+2015.14-1382,1,15113,anthony_m_kennedy,scotus_justice,1863.26,1864.76,That sounds like a wash.
+2015.14-1382,1,62591,john_m_duggan,,1864.76,1872.105,"In my view, the one market distinction between their assertion here and a common law trust is this isn't a common law trust."
+2015.14-1382,1,15113,anthony_m_kennedy,scotus_justice,1884.33,1888.62,What -- a common law trust exists in nature? That's the common law?
+2015.14-1382,1,62591,john_m_duggan,,1888.62,1889.26,Well --
+2015.14-1382,1,15113,anthony_m_kennedy,scotus_justice,1889.26,1891.95,But it's not an artificial entity.
+2015.14-1382,1,62591,john_m_duggan,,1891.95,1893.4,It's not an artificial entity.
+2015.14-1382,1,15113,anthony_m_kennedy,scotus_justice,1893.4,1895.33,Because we know it and love it so well or what?
+2015.14-1382,1,62591,john_m_duggan,,1895.33,1901.85,"Well, it's been around since the Middle Ages, as I understand the brief of Winston Wong, the amicus brief in the case."
+2015.14-1382,1,15139,stephen_g_breyer,scotus_justice,2021.82,2025.88,Look -- look at the other odd thing in writing this opinion your way.
+2015.14-1382,1,62591,john_m_duggan,,2069.485,2073.06,But that's no different than what we do in limited partnerships under Carden.
+2015.14-1382,1,15086,john_g_roberts_jr,scotus_justice,2132.865,2137.935,I just have one question on the Safeway and Kraft business.
+2015.14-1382,1,62591,john_m_duggan,,2165.575,2195.55,"Well, I think -- I think, Mr. Chief Justice, that if in fact that's a question that still remains if you affirm -- or if you reverse and say that we measure by the trustees, it should be remanded to the Tenth Circuit for them to make a determination. In the first instance, it was raised by the Petitioners for the first time, as I understand it, in their merits brief that Kraft and Safeway were properly dismissed. We improvidently took the wrong position in front of the Tenth Circuit, and we don't think Newman Green supports that position."
+2015.14-1382,1,15086,john_g_roberts_jr,scotus_justice,2221.95,2224.78,So just extend the litigation even further than it's --
+2015.14-1382,1,62591,john_m_duggan,,2224.78,2226.605,"Unfortunately, perhaps."
+2015.14-1382,1,15086,john_g_roberts_jr,scotus_justice,2226.605,2227.795,"Thank you, counsel."
+2015.14-1382,1,62591,john_m_duggan,,2227.795,2229.5,Thank you so much.
+2015.14-1382,1,15086,john_g_roberts_jr,scotus_justice,2229.5,2233.684,"Mr. Pospisil, you have eleven minutes remaining."
+2015.14-1382,2,62646,michael_d_pospisil,,2233.684,2241.675,"Thank you, Mr. Chief Justice, and may it please the Court: I'd like to start off by addressing Justice Breyer's comment about gamesmanship."
+2015.14-1382,2,15139,stephen_g_breyer,scotus_justice,2250.96,2255.23,His point really is that this is sort of like a trust but not very much.
+2015.14-1382,2,62646,michael_d_pospisil,,2264.105,2266.32,"And that's the second argument I wanted to make, Your Honor."
+2015.14-1382,2,15139,stephen_g_breyer,scotus_justice,2316.87,2324.19,And then you say in the section shareholders shall have no interest in the property of the trust.
+2015.14-1382,2,62646,michael_d_pospisil,,2324.19,2331.49,"Your Honor, if -- if anything, that -- that distinction makes this even further removed."
+2015.14-1382,2,15139,stephen_g_breyer,scotus_justice,2337.74,2337.94,I don't know.
+2015.14-1382,2,15139,stephen_g_breyer,scotus_justice,2342.03,2344.3,"That's what it says, so how are we supposed to take that?"
+2015.14-1382,2,62646,michael_d_pospisil,,2344.3,2351.535,"Your Honor, I -- I would say that the statute obviously is -- is what controls here. I mean, because we want to have a rule that's across the board for all trusts."
+2015.14-1382,2,15049,antonin_scalia,scotus_justice,2426.74,2431.25,I -- I don't -- who -- who -- who was the party? Who was the defendant in that case?
+2015.14-1382,2,62646,michael_d_pospisil,,2431.25,2434.67,It was Board of Trustees of the Ohio State University.
+2015.14-1382,2,15049,antonin_scalia,scotus_justice,2434.67,2437.525,You say the trustees were not a party?
+2015.14-1382,2,62646,michael_d_pospisil,,2437.525,2439.1,That's correct.
+2015.14-1382,2,15049,antonin_scalia,scotus_justice,2440.57,2443.9,You separate the board of trustees from the -- from the trustees?
+2015.14-1382,2,62646,michael_d_pospisil,,2443.9,2444.37,No.
+2015.14-1382,2,15049,antonin_scalia,scotus_justice,2457.5,2465.83,Is -- is that standard with -- with common law trusts? Can you sue either the trustees or the board of trustees?
+2015.14-1382,2,62646,michael_d_pospisil,,2465.83,2469.18,"Your Honor, when I say ""board of trustees,"" I'm talking -- that was a unit."
+2015.14-1382,2,15049,antonin_scalia,scotus_justice,2474.875,2478.74,"When you have a bunch of trustees, aren't they normally referred to as the board of trustees?"
+2015.14-1382,2,62646,michael_d_pospisil,,2478.74,2485.29,"That's true, Your Honor. However, this was a specific provision under Ohio law that allowed that entity itself to be sued or sue in its own name."
+2015.14-1382,2,15049,antonin_scalia,scotus_justice,2487.91,2491.46,There's a special statute that -- that allowed the board of trustees --
+2015.14-1382,2,62646,michael_d_pospisil,,2491.46,2499.845,"That's correct, Your Honor; that's correct. Another case, more recently, where the court did, in fact, look to something beyond the beneficiaries, is Navarro, of course."
+2015.14-1382,2,15139,stephen_g_breyer,scotus_justice,2529.765,2530.345,Yes.
+2015.14-1382,2,62646,michael_d_pospisil,,2531.285,2531.67,Yes.
+2015.14-1382,2,15139,stephen_g_breyer,scotus_justice,2531.67,2544.01,"Suppose I wanted a list. I -- I wanted a list, a synthesis of which Bogert or -- or Scott on trusts has as the characteristic of the traditional common law trusts."
+2015.14-1382,2,62646,michael_d_pospisil,,2549.435,2549.92,Okay.
+2015.14-1382,2,15139,stephen_g_breyer,scotus_justice,2549.92,2552.68,And now what do I read? I -- I don't think you can list them now.
+2015.14-1382,2,62646,michael_d_pospisil,,2555.809,2556.53,Yeah.
+2015.14-1382,2,15139,stephen_g_breyer,scotus_justice,2556.53,2558.22,Maybe they are identical. Are you going to say they're --
+2015.14-1382,2,62646,michael_d_pospisil,,2558.22,2559.08,They are -- they are identical.
+2015.14-1382,2,15086,john_g_roberts_jr,scotus_justice,2596.51,0.0,"Thank you, counsel. The case is submitted."

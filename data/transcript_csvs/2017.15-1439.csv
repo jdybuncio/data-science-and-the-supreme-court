@@ -1,0 +1,440 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2017.15-1439,0,15086,john_g_roberts_jr,scotus_justice,0.0,9.04,"We'll hear argument first this morning in Case 15-1439, Cyan versus Beaver County Employees Retirement Fund. Mr. Katyal."
+2017.15-1439,0,37171,neal_kumar_katyal,,9.04,15.16,"Thank you, Mr. Chief Justice, and may it please the Court: Congress in 1998 reacted to a new problem."
+2017.15-1439,0,15084,ruth_bader_ginsburg,scotus_justice,79.64,80.84,Mr. Katyal --
+2017.15-1439,0,37171,neal_kumar_katyal,,80.84,82.12,That makes zero sense.
+2017.15-1439,0,15084,ruth_bader_ginsburg,scotus_justice,82.12,95.56,"Well, one could say, with respect to your argument, that Congress chose a rather obtuse way of saying that federal courts shall have exclusive jurisdiction."
+2017.15-1439,0,37171,neal_kumar_katyal,,116.56,120.36,"Justice Ginsburg, we agree with you that this is an obtuse way of getting there."
+2017.15-1439,0,15131,sonia_sotomayor,scotus_justice,150.12,163.72,"I'm sorry, I thought the whole purpose, the main purpose, of SLUSA was just that, to ensure that claims of this particular type were not covered under state law but covered under federal law."
+2017.15-1439,0,37171,neal_kumar_katyal,,176.12,182.6,"Justice Sotomayor, we disagree with the premise and what it eventually leads you to in your -- in your question to me in terms of your conclusion."
+2017.15-1439,0,15131,sonia_sotomayor,scotus_justice,216.8,245.12,"Doesn't your -- doesn't your reading contain an inherent contradiction? If the first clause is supposed to preclude or give exclusive jurisdiction to the district courts over all covered class actions, which under your reading includes even those that are not federal --"
+2017.15-1439,0,37171,neal_kumar_katyal,,245.12,246.16,Yes.
+2017.15-1439,0,15131,sonia_sotomayor,scotus_justice,246.16,250.72,"-- why then have the second ""except""? Isn't there a tension between the two?"
+2017.15-1439,0,37171,neal_kumar_katyal,,250.72,252.48,"No, I don't think there's a tension."
+2017.15-1439,0,15131,sonia_sotomayor,scotus_justice,259.56,263.92,"Well, you're -- there's an inherent tension in the two ""except"" clauses otherwise."
+2017.15-1439,0,37171,neal_kumar_katyal,,269.16,270.08,I don't --
+2017.15-1439,0,15131,sonia_sotomayor,scotus_justice,270.08,271.84,-- they're contradictory on that.
+2017.15-1439,0,37171,neal_kumar_katyal,,271.84,273.36,I don't think they're contradictory.
+2017.15-1439,0,15131,sonia_sotomayor,scotus_justice,290.96,294.2,"I -- I'm sorry. Your -- your -- your reading of that first ""except"" clause --"
+2017.15-1439,0,37171,neal_kumar_katyal,,294.2,294.84,Uh-huh.
+2017.15-1439,0,15131,sonia_sotomayor,scotus_justice,294.84,301.64,-- is that it covers all covered class actions as defined in p(f)(2).
+2017.15-1439,0,37171,neal_kumar_katyal,,307.8,308.2,Correct.
+2017.15-1439,0,15131,sonia_sotomayor,scotus_justice,308.2,311.52,"-- 50 or more people, a certain amount of damages."
+2017.15-1439,0,37171,neal_kumar_katyal,,311.52,312.4,Correct.
+2017.15-1439,0,15131,sonia_sotomayor,scotus_justice,312.4,316.0,That could include federal or state law claims.
+2017.15-1439,0,37171,neal_kumar_katyal,,325.24,335.72,"Justice Sotomayor, you're right to say that under our reading the except -- the jurisdiction that is ousted of the state court is greater than what is precluded by Congress."
+2017.15-1439,0,15094,elena_kagan,scotus_justice,374.72,378.96,"Could we -- I'm sorry, could we -- could we just talk about the text before we speak about the purpose --"
+2017.15-1439,0,37171,neal_kumar_katyal,,378.96,379.16,Sure.
+2017.15-1439,0,15094,elena_kagan,scotus_justice,379.16,393.48,"-- which -- because, you know, ""except as provided"" in 77p, the natural way to read that is we look at 77p, the whole thing, and we see what's the ""except"" that's provided in."
+2017.15-1439,0,37171,neal_kumar_katyal,,408.12,408.36,Right.
+2017.15-1439,0,15094,elena_kagan,scotus_justice,408.72,427.48,"So, you know, it just seems as though your interpretation does a very odd thing, textually, when you read ""except as provided"" in Section 77p to say let's look to a definition in that section."
+2017.15-1439,0,37171,neal_kumar_katyal,,427.48,434.4,"So, Justice Kagan, you're reading from Section 22(a), the ""except"" clause, which is also v -- which is also 77v(a)."
+2017.15-1439,0,15068,samuel_a_alito_jr,scotus_justice,465.76,471.44,"Mr. Katyal, I had -- I had a similar concern as Justice Kagan."
+2017.15-1439,0,15068,samuel_a_alito_jr,scotus_justice,487.36,493.64,"And we have very smart lawyers here who have come up with creative interpretations, but this is gibberish."
+2017.15-1439,0,37171,neal_kumar_katyal,,512.2,512.84,"So, Justice --"
+2017.15-1439,0,15068,samuel_a_alito_jr,scotus_justice,512.84,514.56,So what are -- what are we supposed to do with this?
+2017.15-1439,0,37171,neal_kumar_katyal,,514.56,517.12,"Justice Alito, I -- I think I'd say three things about that."
+2017.15-1439,0,15131,sonia_sotomayor,scotus_justice,572.6,591.12,"I'm sorry, that says nothing about ousting the state courts. It says providing national standards that will control state enforcement agencies. So whether it's state court or federal court, it's still the same national standards."
+2017.15-1439,0,37171,neal_kumar_katyal,,591.12,593.04,"Well, it's not the same national --"
+2017.15-1439,0,15131,sonia_sotomayor,scotus_justice,593.04,593.56,But -- but -- but going --
+2017.15-1439,0,37171,neal_kumar_katyal,,593.56,603.4,"-- standards because Congress cared very much about the procedures. The whole Reform Act did things like say you can't have professional plaintiffs, there are limits on attorneys' fees, all sorts of stuff --"
+2017.15-1439,0,15131,sonia_sotomayor,scotus_justice,603.4,623.44,"What was very clear in the Act is that there are certain sections that were clearly intended to be national, certain things that were and were not covered, and then there were, you're right, some procedural aspects, but nowhere in those procedural aspects did Congress say they have to be followed both in state and federal court."
+2017.15-1439,0,37171,neal_kumar_katyal,,623.44,632.44,"In the Reform Act, you're absolutely right, but I do think that is the way of understanding what SLUSA was doing. It's precisely because they weren't followed, Justice Sotomayor, in state court --"
+2017.15-1439,0,15131,sonia_sotomayor,scotus_justice,632.44,645.6,"Can we -- can we go back to your definition? A covered class action under, I call it 77p, it's just easier for me, has a bunch of different subsections."
+2017.15-1439,0,37171,neal_kumar_katyal,,645.6,645.6,Yes.
+2017.15-1439,0,15131,sonia_sotomayor,scotus_justice,645.6,648.4,You're relying on the definitional one.
+2017.15-1439,0,37171,neal_kumar_katyal,,679.04,679.52,I --
+2017.15-1439,0,15131,sonia_sotomayor,scotus_justice,679.52,684.08,Because b and c are certainly talking with respect to covered class actions.
+2017.15-1439,0,37171,neal_kumar_katyal,,684.08,706.28,"So I certainly agree with you, Justice Sotomayor, that when Congress used the -- and pointed to the entire clause, it could point to any part of the clause, you know, and I think the definition does give you the best indicia of it. But there's nothing that says that you should only look, as my friend on the other side does -- says, only look at the preclusion provisions. After all, these are about preclusions."
+2017.15-1439,0,15131,sonia_sotomayor,scotus_justice,706.28,707.08,"No, he's not doing that."
+2017.15-1439,0,37171,neal_kumar_katyal,,713.12,715.88,"And if you did, then you'd look to the definition as well."
+2017.15-1439,0,15094,elena_kagan,scotus_justice,725.88,745.6,"Well, if your reading were right, Mr. Katyal, it would be written something like: Except with respect to class actions as defined in -- not as provided by -- as defined in 77p(f)(2), not just 77p. So there are two ways in which your reading really does seem at odds with the statutory text."
+2017.15-1439,0,37171,neal_kumar_katyal,,760.36,764.32,"So I don't think either of those means that our reading is at odds, Justice Kagan."
+2017.15-1439,0,15084,ruth_bader_ginsburg,scotus_justice,791.8,806.96,"Under your reading -- under your reading, Mr. Katyal, are there any 1933 Act claims that could be brought, federal claims, under the 1933 Act that could be brought in state court?"
+2017.15-1439,0,37171,neal_kumar_katyal,,806.96,808.28,"Absolutely, Justice Ginsburg."
+2017.15-1439,0,15139,stephen_g_breyer,scotus_justice,871.4,872.84,-- kind of claims?
+2017.15-1439,0,15094,elena_kagan,scotus_justice,872.84,877.2,"Well, but you're -- you're forgetting that most securities actions are Exchange Act actions."
+2017.15-1439,0,37171,neal_kumar_katyal,,909.88,918.16,"Justice Kagan, I don't know about lion's share or not, but it is very clear, manifestly clear, that SLUSA dealt with both problems, '33 and '34."
+2017.15-1439,0,15139,stephen_g_breyer,scotus_justice,937.32,937.56,All right --
+2017.15-1439,0,37171,neal_kumar_katyal,,937.56,940.56,-- federal and state court litigation.
+2017.15-1439,0,15139,stephen_g_breyer,scotus_justice,940.56,945.12,Let me ask one textual question and one purposeful question. All right.
+2017.15-1439,0,37171,neal_kumar_katyal,,961.8,962.48,Yes.
+2017.15-1439,0,15139,stephen_g_breyer,scotus_justice,962.48,963.6,It says the '33 Act?
+2017.15-1439,0,37171,neal_kumar_katyal,,963.6,979.28,"Yes, so it says -- it's all actions at law, and the next words -- and, again, I'm reading at Blue Brief page 8a. We're reading 22a or 77v(a): ""Actions at law brought to enforce any liability or duty created by this subchapter."" Created by this subchapter."
+2017.15-1439,0,15139,stephen_g_breyer,scotus_justice,979.28,983.56,"Well, does this subchapter mean '34, '33 --"
+2017.15-1439,0,37171,neal_kumar_katyal,,983.56,983.8,Yes.
+2017.15-1439,0,15139,stephen_g_breyer,scotus_justice,983.8,984.84,-- or is it ambiguous between the two?
+2017.15-1439,0,37171,neal_kumar_katyal,,984.84,986.56,"It's not ambiguous, Justice Breyer."
+2017.15-1439,0,15139,stephen_g_breyer,scotus_justice,988.8,989.24,Yes.
+2017.15-1439,0,37171,neal_kumar_katyal,,989.24,990.28,And that is crucial to our argument.
+2017.15-1439,0,15139,stephen_g_breyer,scotus_justice,990.44,992.0,"Yeah, it is crucial, okay."
+2017.15-1439,0,37171,neal_kumar_katyal,,992.0,992.28,Yes.
+2017.15-1439,0,15139,stephen_g_breyer,scotus_justice,992.44,993.96,"Yeah, yeah, yeah. Your argument is stronger with that."
+2017.15-1439,0,37171,neal_kumar_katyal,,993.96,994.2,Absolutely.
+2017.15-1439,0,15139,stephen_g_breyer,scotus_justice,994.2,994.48,I -- I -- I agree.
+2017.15-1439,0,37171,neal_kumar_katyal,,994.48,997.56,The title of this act is called -- this provision is called --
+2017.15-1439,0,15139,stephen_g_breyer,scotus_justice,997.56,997.8,Yeah.
+2017.15-1439,0,37171,neal_kumar_katyal,,997.8,1000.04,-- Jurisdiction of Offenses in Suits.
+2017.15-1439,0,15139,stephen_g_breyer,scotus_justice,1001.48,1002.24,"Okay, okay."
+2017.15-1439,0,37171,neal_kumar_katyal,,1040.8,1044.28,I think the conference report does --
+2017.15-1439,0,15139,stephen_g_breyer,scotus_justice,1044.28,1044.56,Where?
+2017.15-1439,0,37171,neal_kumar_katyal,,1044.56,1045.8,-- in its very first lines.
+2017.15-1439,0,15139,stephen_g_breyer,scotus_justice,1045.8,1045.96,Says what?
+2017.15-1439,0,37171,neal_kumar_katyal,,1045.96,1048.4,And I think it is talking about both the --
+2017.15-1439,0,15139,stephen_g_breyer,scotus_justice,1048.4,1048.96,In respect to --
+2017.15-1439,0,37171,neal_kumar_katyal,,1048.96,1050.36,-- '33 and '34 Act.
+2017.15-1439,0,15139,stephen_g_breyer,scotus_justice,1050.88,1052.92,It's -- it's absolutely clear on -- it's pretty clear on that fact?
+2017.15-1439,0,37171,neal_kumar_katyal,,1052.92,1053.6,I do think it's clear.
+2017.15-1439,0,15139,stephen_g_breyer,scotus_justice,1057.28,1057.4,All right.
+2017.15-1439,0,37171,neal_kumar_katyal,,1057.84,1058.56,-- Congress affirmatively --
+2017.15-1439,0,15139,stephen_g_breyer,scotus_justice,1058.56,1059.68,I'll go read that. I'll read it.
+2017.15-1439,0,37171,neal_kumar_katyal,,1060.4,1061.32,-- modified the '33 Act.
+2017.15-1439,0,15139,stephen_g_breyer,scotus_justice,1061.32,1061.68,Got it.
+2017.15-1439,0,15131,sonia_sotomayor,scotus_justice,1062.2,1062.92,Assuming --
+2017.15-1439,0,15139,stephen_g_breyer,scotus_justice,1062.92,1065.24,My textual argument question is this.
+2017.15-1439,0,37171,neal_kumar_katyal,,1123.88,1124.52,Right.
+2017.15-1439,0,15139,stephen_g_breyer,scotus_justice,1125.08,1126.96,So how do I -- how do I deal with that textual problem?
+2017.15-1439,0,37171,neal_kumar_katyal,,1126.96,1141.44,"Certainly, I think the Solicitor General's way of dealing with that is available to you, but I think that our argument does not depend on, you know, on read -- reading the removal provision the way it does. All our argument depends on -- it's a straight-forward reading, and it -- you know, I understand Justice Kagan --"
+2017.15-1439,0,15139,stephen_g_breyer,scotus_justice,1141.44,1164.28,"It says ""a covered security as set forth in subsection (b)."" Now, there are commas around the (b), around that phrase I just read, I agree, but the most natural thing is it's referring to those covered actions that are referred to in (b). And what it refers to in (b) are covered actions all right, but -- but they're involving state law."
+2017.15-1439,0,37171,neal_kumar_katyal,,1164.28,1164.48,Right.
+2017.15-1439,0,15139,stephen_g_breyer,scotus_justice,1169.64,1169.96,Yeah.
+2017.15-1439,0,37171,neal_kumar_katyal,,1169.96,1172.24,And the jurisdiction clause is all you need to look at.
+2017.15-1439,0,15139,stephen_g_breyer,scotus_justice,1218.16,1218.16,Uh-huh.
+2017.15-1439,0,37171,neal_kumar_katyal,,1218.16,1227.24,"-- which is to say that by bringing a state law count in your federal complaint, you now are ousted out of state court, one would expect that --"
+2017.15-1439,0,15131,sonia_sotomayor,scotus_justice,1227.24,1227.64,All right.
+2017.15-1439,0,15139,stephen_g_breyer,scotus_justice,1227.64,1227.96,You --
+2017.15-1439,0,15131,sonia_sotomayor,scotus_justice,1227.96,1234.08,"So why not -- why not make the second ""except"" clause read identically? But the Congress didn't."
+2017.15-1439,0,37171,neal_kumar_katyal,,1249.64,1250.08,Yep.
+2017.15-1439,0,15131,sonia_sotomayor,scotus_justice,1250.08,1260.36,It can't get removed because under (c) you can only remove those claims that are -- state law claims that are based on 1933.
+2017.15-1439,0,37171,neal_kumar_katyal,,1265.12,1265.36,Right.
+2017.15-1439,0,15131,sonia_sotomayor,scotus_justice,1287.12,1302.4,"So your theory is that on those claims they just get ousted out of court, even though they have a non-covered, completely viable non-'33 state law action?"
+2017.15-1439,0,37171,neal_kumar_katyal,,1302.4,1302.84,Exactly.
+2017.15-1439,0,15131,sonia_sotomayor,scotus_justice,1304.6,1337.76,"That's -- that's a fairly extreme result on a reading that bucks the presumption, and one that exists when there's an ambiguity, that says we presume in favor of concurrent jurisdiction. So you're taking a very strong presumption, turning it on its head, and saying we're ousting state courts over jurisdiction of securities actions that have nothing to do with federal law."
+2017.15-1439,0,37171,neal_kumar_katyal,,1337.76,1338.64,So -- so two things.
+2017.15-1439,0,15131,sonia_sotomayor,scotus_justice,1338.64,1340.04,That's -- that's what you're saying.
+2017.15-1439,0,37171,neal_kumar_katyal,,1340.04,1342.08,"Well, I don't think that's exactly right."
+2017.15-1439,0,15131,sonia_sotomayor,scotus_justice,1343.48,1344.96,Why is it not exactly right?
+2017.15-1439,0,37171,neal_kumar_katyal,,1344.96,1347.72,"Because, first, I don't think this is some anomalous reading."
+2017.15-1439,0,15131,sonia_sotomayor,scotus_justice,1351.88,1358.84,"No, this Act does not preempt those state law non-1933, non-federal actions."
+2017.15-1439,0,37171,neal_kumar_katyal,,1358.84,1361.6,"Justice Sotomayor, with -- with respect, it actually does."
+2017.15-1439,0,15131,sonia_sotomayor,scotus_justice,1366.04,1373.92,For those state law claims that relate to federal claims -- that relate to federal claims.
+2017.15-1439,0,37171,neal_kumar_katyal,,1378.84,1380.56,"With respect to state claims, it's precluding --"
+2017.15-1439,0,15131,sonia_sotomayor,scotus_justice,1380.56,1380.88,Exactly.
+2017.15-1439,0,37171,neal_kumar_katyal,,1381.2,1389.32,"-- in the '34 Act, it's precluding the same basket of state claims as the '33 Act, and the jurisdiction, the way we read it, is exactly the same."
+2017.15-1439,0,15131,sonia_sotomayor,scotus_justice,1402.2,1402.88,Exactly.
+2017.15-1439,0,37171,neal_kumar_katyal,,1402.88,1406.2,"Now, you -- and now, you had asked about the presumption about concurrent jurisdiction."
+2017.15-1439,0,15131,sonia_sotomayor,scotus_justice,1411.2,1411.68,So how about --
+2017.15-1439,0,37171,neal_kumar_katyal,,1411.68,1412.8,-- in which the statute's silent --
+2017.15-1439,0,15131,sonia_sotomayor,scotus_justice,1412.8,1434.32,-- anti-commandeering cases? In what other situation where we do not have a federal law that preempts a state law have we ever permitted the federal government to tell the states that they can't adjudicate a case under their own law?
+2017.15-1439,0,37171,neal_kumar_katyal,,1434.32,1437.48,"Well, my friend on the other side hasn't even made that argument, but I do think preclusion --"
+2017.15-1439,0,15131,sonia_sotomayor,scotus_justice,1437.48,1437.76,I -- I --
+2017.15-1439,0,37171,neal_kumar_katyal,,1437.76,1438.4,-- and preemption --
+2017.15-1439,0,15131,sonia_sotomayor,scotus_justice,1438.4,1440.44,-- I think it's a very natural argument.
+2017.15-1439,0,37171,neal_kumar_katyal,,1440.84,1443.64,Preclusion and preemption are pretty natural concepts in the law.
+2017.15-1439,0,15131,sonia_sotomayor,scotus_justice,1443.8,1454.84,But it's not -- you just said to me the '33 and the '34 Act do not preclude certain state law securities actions.
+2017.15-1439,0,37171,neal_kumar_katyal,,1464.96,1471.48,"Justice Sotomayor, I'd caution the Court into adopting a ruling that would call into question the constitutionality of not just the '33 Act --"
+2017.15-1439,0,15131,sonia_sotomayor,scotus_justice,1471.48,1471.52,No --
+2017.15-1439,0,37171,neal_kumar_katyal,,1471.52,1472.6,-- but the '34 Act.
+2017.15-1439,0,15131,sonia_sotomayor,scotus_justice,1472.6,1480.88,-- you can -- you can pass a federal law that says this federal law precludes these actions.
+2017.15-1439,0,37171,neal_kumar_katyal,,1483.4,1483.8,But I think --
+2017.15-1439,0,15131,sonia_sotomayor,scotus_justice,1483.8,1491.08,-- how can you order the state court not to adjudicate a claim that is not precluded --
+2017.15-1439,0,37171,neal_kumar_katyal,,1491.08,1491.16,So the --
+2017.15-1439,0,15131,sonia_sotomayor,scotus_justice,1491.16,1492.8,-- that is expressly not precluded.
+2017.15-1439,0,37171,neal_kumar_katyal,,1492.8,1525.36,"The answer to this is found in the Senate report brief -- Senate report at page 4 in which they said we are very concerned for federalism reasons about preclusion because it's such strong medicine. But when we're dealing with jurisdiction, we have the ability to paint with a broader brush without interfering with federalism principles. Here, we're only talking about federal court count -- federal court causes of action, and all Congress is saying is that they are the master of that and you can't bring those in state court when it's subject to very different standards than you can in federal court."
+2017.15-1439,0,15084,ruth_bader_ginsburg,scotus_justice,1525.36,1534.96,"Mr. -- Mr. Katyal, you make this as a -- as taking -- allowing a state court to hear a federal claim that shouldn't be there."
+2017.15-1439,0,37171,neal_kumar_katyal,,1549.84,1552.04,So -- so you're about to hear from the government about their -- their theory.
+2017.15-1439,0,15086,john_g_roberts_jr,scotus_justice,1571.48,1576.32,"Thank you, counsel. Mr. Kedem."
+2017.15-1439,1,56065,allon_kedem,,1576.32,1618.4,"Mr. Chief Justice, and may it please the Court: Petitioners are correct that Congress enacted SLUSA to reestablish federal courts as the preferred venue for large class actions involving nationally traded securities. But it did so not by eliminating state court jurisdiction over suits involving federal claims but by permitting removal of such suits from state to federal court. Perhaps a good place to start, Justice Breyer, would be with your question about the removal provision and how, under the text of that provision, removal of actions that only involve federal claims is permitted."
+2017.15-1439,1,15139,stephen_g_breyer,scotus_justice,1672.92,1681.08,"Well, why, if all they wanted -- the parenthetical ""as set forth in subsection (b)"" -- that's the words we're talking about, right?"
+2017.15-1439,1,56065,allon_kedem,,1681.08,1681.68,That's correct.
+2017.15-1439,1,15139,stephen_g_breyer,scotus_justice,1681.68,1682.68,And it's in commas.
+2017.15-1439,1,56065,allon_kedem,,1682.68,1683.44,That's correct.
+2017.15-1439,1,15139,stephen_g_breyer,scotus_justice,1683.44,1692.28,"Why wouldn't they say ""as set forth"" and then they'd refer to (2)(a), the definition of covered class action?"
+2017.15-1439,1,56065,allon_kedem,,1692.28,1697.08,I think what we're talking about is not just the definition of covered class action.
+2017.15-1439,1,15139,stephen_g_breyer,scotus_justice,1704.4,1704.72,Ah.
+2017.15-1439,1,56065,allon_kedem,,1704.72,1714.44,"And to figure out what that means, you look at (b)(1) and (b)(2), which talk about certain types of misconduct in connection with the purchase or sale of a covered security."
+2017.15-1439,1,15139,stephen_g_breyer,scotus_justice,1714.96,1719.56,"True, but then -- then -- suppose, all right, involving a covered class action."
+2017.15-1439,1,56065,allon_kedem,,1719.92,1721.56,But it's not involving a covered class action.
+2017.15-1439,1,15139,stephen_g_breyer,scotus_justice,1721.56,1721.64,What --
+2017.15-1439,1,56065,allon_kedem,,1721.64,1723.64,It's involving a covered security.
+2017.15-1439,1,15139,stephen_g_breyer,scotus_justice,1723.64,1725.48,Involving a covered security.
+2017.15-1439,1,56065,allon_kedem,,1725.48,1733.76,"And we think -- we think for a few reasons it makes the most sense to read the limiting clause as applying to that phrase. First of all, based on the rule of the last --"
+2017.15-1439,1,15094,elena_kagan,scotus_justice,1733.76,1740.56,"So, Mr. Kedem, so now I understand your argument, but -- but still it doesn't really fit with (b)(1) and (2)."
+2017.15-1439,1,56065,allon_kedem,,1754.84,1755.52,That's right.
+2017.15-1439,1,15139,stephen_g_breyer,scotus_justice,1755.52,1755.64,Yeah.
+2017.15-1439,1,56065,allon_kedem,,1755.64,1779.32,"Because it's not just modifying ""covered security."" It's modifying the phrase ""involving a covered security."" And you have to figure out what does it mean to involve the security in the relevant sense. Perhaps it would be useful to consider an example of a hypothetical statute in which Congress imposed liability for ""impeding interstate commerce as set forth in Section 100."" In that case, I think you would want to look to Section 100 --"
+2017.15-1439,1,15139,stephen_g_breyer,scotus_justice,1779.32,1779.72,"Ah, I see."
+2017.15-1439,1,56065,allon_kedem,,1780.08,1786.04,-- and the type of impeding acts that are described there to tell you what it means to impede in the relevant sense.
+2017.15-1439,1,15139,stephen_g_breyer,scotus_justice,1786.04,1786.12,Okay.
+2017.15-1439,1,56065,allon_kedem,,1790.48,1791.04,That's right.
+2017.15-1439,1,15139,stephen_g_breyer,scotus_justice,1791.04,1798.28,"So you have to both know what a covered security is, and you also have to know is what kind of involvement."
+2017.15-1439,1,56065,allon_kedem,,1798.28,1798.6,That's right.
+2017.15-1439,1,15139,stephen_g_breyer,scotus_justice,1799.24,1806.52,"And so for covered security you could have just referred to (3) where they define it, but you have to know a second thing, which is how is it involved?"
+2017.15-1439,1,56065,allon_kedem,,1806.52,1806.96,That's correct.
+2017.15-1439,1,15139,stephen_g_breyer,scotus_justice,1806.96,1810.16,And (1) and (2) in (b) tell you how it is involved?
+2017.15-1439,1,56065,allon_kedem,,1810.16,1810.64,That's right.
+2017.15-1439,1,15139,stephen_g_breyer,scotus_justice,1812.6,1812.72,"Okay, I see."
+2017.15-1439,1,56065,allon_kedem,,1812.72,1814.0,-- based on the rule of the last antecedent --
+2017.15-1439,1,15139,stephen_g_breyer,scotus_justice,1814.0,1814.84,"I see, I see, I see."
+2017.15-1439,1,56065,allon_kedem,,1814.84,1823.36,"-- under which the limiting clause is most naturally applied to the thing that comes immediately before it, rather than to something that comes earlier in the sentence."
+2017.15-1439,1,15139,stephen_g_breyer,scotus_justice,1823.36,1823.76,I see.
+2017.15-1439,1,15084,ruth_bader_ginsburg,scotus_justice,1823.76,1832.6,Should we pass on -- pass on that in a case where there was no effort to remove? Removal isn't part of this case.
+2017.15-1439,1,56065,allon_kedem,,1832.6,1833.12,That's right.
+2017.15-1439,1,62836,neil_gorsuch,scotus_justice,1876.92,1877.8,So you --
+2017.15-1439,1,56065,allon_kedem,,1877.8,1878.4,-- that the lower court --
+2017.15-1439,1,62836,neil_gorsuch,scotus_justice,1878.4,1884.44,"-- you understand the -- the legislative history that Justice Breyer was asking about is relevant to the '33 Act, not just the '34 Act?"
+2017.15-1439,1,56065,allon_kedem,,1884.44,1911.76,"That's -- that's right. Congress was concerned about both acts. In addition to the rule of the last antecedent, I would point to the fact that in between our two candidates for the limiting clause, ""any covered class action"" at the beginning of the sentence and ""involving a covered security"" later on, there's an intervening phrase, ""brought in any state court."" And that phrase doesn't have any obvious analog in subsection (b), which, as the Court is well aware, applies regardless of whether you're in federal or state court."
+2017.15-1439,1,15094,elena_kagan,scotus_justice,1916.84,1920.32,Could -- I just want to get the -- the best version of your argument.
+2017.15-1439,1,56065,allon_kedem,,1920.32,1920.6,Sure.
+2017.15-1439,1,15094,elena_kagan,scotus_justice,1920.6,1927.56,(1) and (2) involve a covered security because what?
+2017.15-1439,1,56065,allon_kedem,,1927.56,1950.36,"Because they involve certain types of misconduct in connection with the purchase and sale of a covered security. In other words, what does it mean to involve a covered security in a sense that's relevant for the removal provision? It has to have an omission with regard to that covered security, a false statement with regard to that covered security, and the like, the types of misconduct specified in those two provisions."
+2017.15-1439,1,15131,sonia_sotomayor,scotus_justice,1950.36,1956.8,"Counsel, what do you do with our statement in Kircher? And I know you try to distinguish it."
+2017.15-1439,1,56065,allon_kedem,,1956.8,1957.16,Sure.
+2017.15-1439,1,15131,sonia_sotomayor,scotus_justice,1957.16,1969.52,But it very explicitly says removal and jurisdiction to deal with removed cases is limited to those precluded in the terms of subsection (b).
+2017.15-1439,1,56065,allon_kedem,,1969.52,1970.24,That's right.
+2017.15-1439,1,15131,sonia_sotomayor,scotus_justice,1970.24,1973.08,And that was the very argument that was raised there.
+2017.15-1439,1,56065,allon_kedem,,1973.08,1975.2,"Well, the Court said it both ways in Kircher."
+2017.15-1439,1,15131,sonia_sotomayor,scotus_justice,1983.48,1984.72,"Counsel, that's a bit of a stretch."
+2017.15-1439,1,56065,allon_kedem,,1986.0,1986.08,Well --
+2017.15-1439,1,15131,sonia_sotomayor,scotus_justice,1986.08,1999.92,"-- opinion, every time it related to, itself to (1) or (2), it would say something like, like (1) and (2), or (1) and others."
+2017.15-1439,1,56065,allon_kedem,,2003.72,2007.32,I think it was talking about the types of misconduct at issue in 1 and 2.
+2017.15-1439,1,15068,samuel_a_alito_jr,scotus_justice,2030.68,2037.04,Do you really think that whoever wrote this removal provision thought about all this stuff that you're telling us now?
+2017.15-1439,1,56065,allon_kedem,,2037.04,2040.84,I'm not sure that they thought about the rule of the last antecedent and the like.
+2017.15-1439,1,15068,samuel_a_alito_jr,scotus_justice,2041.88,2047.52,"I mean, they set out to do what you say this does, and they decided this is the way we're going to do it."
+2017.15-1439,1,56065,allon_kedem,,2047.52,2048.12,I think it's --
+2017.15-1439,1,15068,samuel_a_alito_jr,scotus_justice,2048.12,2055.24,It is SO far from reality that it really strains credulity.
+2017.15-1439,1,56065,allon_kedem,,2055.24,2062.84,"I think even if you think that our reading is a little bit of a stretch, I think the contrary reading is also a little bit of a stretch."
+2017.15-1439,1,15068,samuel_a_alito_jr,scotus_justice,2063.08,2067.0,"I mean, all the readings that everybody has given to all of these proceedings -- provisions are a stretch. (Laughter.)"
+2017.15-1439,1,56065,allon_kedem,,2067.0,2067.84,I think -- I think --
+2017.15-1439,1,15068,samuel_a_alito_jr,scotus_justice,2067.84,2068.52,I'm serious.
+2017.15-1439,1,56065,allon_kedem,,2078.2,2078.68,Justice --
+2017.15-1439,1,15068,samuel_a_alito_jr,scotus_justice,2078.68,2082.24,Can we not -- we have to say it means something?
+2017.15-1439,1,56065,allon_kedem,,2082.24,2085.32,I would caution the Court against saying it means absolutely nothing.
+2017.15-1439,1,15139,stephen_g_breyer,scotus_justice,2105.76,2127.36,"Part of the problem, I mean, I don't think -- I don't find this as confusing as -- I mean, I might be wrong in how I'm looking at it -- but as Justice Alito. I'm thinking the drafter is given a task and his task is to do two things, economically, efficiently, I mean, that is efficiently with words. One thing he has to do is get rid of these state actions."
+2017.15-1439,1,56065,allon_kedem,,2138.76,2138.92,Right.
+2017.15-1439,1,15139,stephen_g_breyer,scotus_justice,2138.92,2144.16,"If he was given that task, this is the language that does it."
+2017.15-1439,1,56065,allon_kedem,,2157.76,2158.44,That's correct.
+2017.15-1439,1,15139,stephen_g_breyer,scotus_justice,2158.44,2160.0,That moves me and --
+2017.15-1439,1,56065,allon_kedem,,2160.0,2164.16,"There is no such explanation, but there's also no contrary explanation that we're aware of."
+2017.15-1439,1,15139,stephen_g_breyer,scotus_justice,2164.16,2165.36,"Well, that's true. That's true."
+2017.15-1439,1,56065,allon_kedem,,2165.36,2168.08,If I could add two more textual points --
+2017.15-1439,1,15139,stephen_g_breyer,scotus_justice,2168.08,2168.28,Yeah.
+2017.15-1439,1,56065,allon_kedem,,2168.28,2187.68,"-- that support our reading of the statute. If what is meant is the contrary reading, any covered class action of the sort that's specified in subsection (b), it's not clear what the words ""involving a covered security"" would be doing in that sentence. At best, it would be superfluous and at worst confusing and distracting."
+2017.15-1439,1,15086,john_g_roberts_jr,scotus_justice,2187.68,2197.88,"Thank you, counsel. Mr. Goldstein."
+2017.15-1439,2,42731,thomas_c_goldstein,,2197.88,2222.32,"Thank you, Mr. Chief Justice, and may it please the Court: When the Petitioners' lawyer stands up and says in the first minute that his reading is obtuse and when the Solicitor General's lawyer spends the entire time on an argument that isn't in any of their briefs in the case, you know that the lawyers are scrambling to try and figure out what the statute means. And the way we think you would resolve that is to recognize that these words actually mean something."
+2017.15-1439,2,15113,anthony_m_kennedy,scotus_justice,2258.0,2274.0,"I -- I can see the importance of deciding the removal issue here because it's central to the interpretation of the question -- the answer to the question before us. On the other hand, as Justice Ginsburg pointed out, the case wasn't removed."
+2017.15-1439,2,42731,thomas_c_goldstein,,2282.72,2288.28,"Well, Justice Kennedy, I have learned that the answer to the question can the Supreme Court do X is always yes. (Laughter.)"
+2017.15-1439,2,42731,thomas_c_goldstein,,2288.28,2299.24,"You -- you can write an opinion that says we agree, for example, with the government and the Respondents that this language at the very least isn't clear enough to accomplish this result."
+2017.15-1439,2,62836,neil_gorsuch,scotus_justice,2342.8,2344.52,"Mr. Goldstein, speaking of gibberish --"
+2017.15-1439,2,42731,thomas_c_goldstein,,2344.52,2345.12,Yes?
+2017.15-1439,2,62836,neil_gorsuch,scotus_justice,2345.12,2351.68,"-- aren't we stuck with gibberish your way too? I mean, it seems like it's gibberish all the way down here --"
+2017.15-1439,2,42731,thomas_c_goldstein,,2351.68,2352.2,It --
+2017.15-1439,2,62836,neil_gorsuch,scotus_justice,2352.2,2358.16,"-- because -- because under your version, as I understand it, v(a), that first ""except"" clause, is superfluous."
+2017.15-1439,2,42731,thomas_c_goldstein,,2367.96,2368.2,Okay.
+2017.15-1439,2,62836,neil_gorsuch,scotus_justice,2368.4,2370.0,So help me out with that.
+2017.15-1439,2,42731,thomas_c_goldstein,,2370.0,2370.2,I -- I --
+2017.15-1439,2,62836,neil_gorsuch,scotus_justice,2370.2,2379.72,"And -- and I know -- I know we generally -- you know, we -- nobody likes gibberish, but it is our job to try and give effect whenever possible to Congress's language."
+2017.15-1439,2,42731,thomas_c_goldstein,,2384.28,2384.48,Sure.
+2017.15-1439,2,62836,neil_gorsuch,scotus_justice,2384.48,2385.64,-- and was a waste of time.
+2017.15-1439,2,42731,thomas_c_goldstein,,2392.6,2400.88,"Fair -- fair enough. I will say, however, just to be clear, that you do have a background presumption that Congress would do something like this clearly and these are conforming amendments."
+2017.15-1439,2,62836,neil_gorsuch,scotus_justice,2405.92,2406.08,But --
+2017.15-1439,2,42731,thomas_c_goldstein,,2406.08,2406.88,-- we would have a problem.
+2017.15-1439,2,62836,neil_gorsuch,scotus_justice,2406.88,2407.48,-- doesn't yours --
+2017.15-1439,2,42731,thomas_c_goldstein,,2407.48,2407.52,No.
+2017.15-1439,2,62836,neil_gorsuch,scotus_justice,2407.52,2408.84,-- indeed come up with nothing --
+2017.15-1439,2,42731,thomas_c_goldstein,,2408.84,2409.12,No.
+2017.15-1439,2,62836,neil_gorsuch,scotus_justice,2409.2,2416.24,"-- with respect to that first ""except"" clause and also with respect to the ""provided"" -- ""involving covered securities"" --"
+2017.15-1439,2,42731,thomas_c_goldstein,,2416.24,2416.64,Sure.
+2017.15-1439,2,62836,neil_gorsuch,scotus_justice,2416.76,2417.68,-- language? Help me out with that.
+2017.15-1439,2,42731,thomas_c_goldstein,,2417.68,2418.12,Okay.
+2017.15-1439,2,62836,neil_gorsuch,scotus_justice,2425.28,2426.52,I'm talking about this one now.
+2017.15-1439,2,42731,thomas_c_goldstein,,2426.52,2427.76,"Okay, I promise that --"
+2017.15-1439,2,62836,neil_gorsuch,scotus_justice,2427.76,2428.24,Let's get there.
+2017.15-1439,2,42731,thomas_c_goldstein,,2428.24,2428.52,Okay.
+2017.15-1439,2,62836,neil_gorsuch,scotus_justice,2449.84,2451.52,Help -- help me out. How -- how --
+2017.15-1439,2,42731,thomas_c_goldstein,,2451.52,2451.68,Okay.
+2017.15-1439,2,62836,neil_gorsuch,scotus_justice,2462.92,2463.04,Right.
+2017.15-1439,2,42731,thomas_c_goldstein,,2468.28,2468.56,Well --
+2017.15-1439,2,62836,neil_gorsuch,scotus_justice,2468.56,2469.24,It's a preclusion provision.
+2017.15-1439,2,42731,thomas_c_goldstein,,2469.24,2469.36,Okay.
+2017.15-1439,2,62836,neil_gorsuch,scotus_justice,2470.16,2470.52,So -- so --
+2017.15-1439,2,42731,thomas_c_goldstein,,2470.52,2473.44,It is -- it is much closer to a jurisdiction --
+2017.15-1439,2,62836,neil_gorsuch,scotus_justice,2473.44,2473.56,You don't need it.
+2017.15-1439,2,42731,thomas_c_goldstein,,2473.56,2477.04,It is much closer to a jurisdictional provision than the definition in (f)(2).
+2017.15-1439,2,62836,neil_gorsuch,scotus_justice,2477.92,2479.08,"Well, this Court -- this Court has said it's a preclusion provision."
+2017.15-1439,2,42731,thomas_c_goldstein,,2479.08,2479.56,Okay.
+2017.15-1439,2,62836,neil_gorsuch,scotus_justice,2479.56,2480.76,So we're stuck with that --
+2017.15-1439,2,42731,thomas_c_goldstein,,2480.76,2481.04,Okay.
+2017.15-1439,2,62836,neil_gorsuch,scotus_justice,2481.64,2483.32,"-- all right? Work with -- work with -- just let me -- work with me, all right?"
+2017.15-1439,2,42731,thomas_c_goldstein,,2483.32,2483.48,Sure.
+2017.15-1439,2,62836,neil_gorsuch,scotus_justice,2483.48,2488.48,"You can't refer to (c) because we have another ""except"" clause that refers to (c)."
+2017.15-1439,2,42731,thomas_c_goldstein,,2494.16,2494.84,I would disagree.
+2017.15-1439,2,62836,neil_gorsuch,scotus_justice,2540.56,2542.8,But that's stating the blindingly obvious.
+2017.15-1439,2,42731,thomas_c_goldstein,,2542.8,2546.52,"Oh, well, you know, to Mr. Katyal's point about closing doors --"
+2017.15-1439,2,62836,neil_gorsuch,scotus_justice,2546.52,2547.24,That's superfluous.
+2017.15-1439,2,42731,thomas_c_goldstein,,2547.24,2549.2,-- and windows and everything -- it is not superfluous.
+2017.15-1439,2,62836,neil_gorsuch,scotus_justice,2549.2,2550.0,It's closing a door twice.
+2017.15-1439,2,42731,thomas_c_goldstein,,2550.96,2559.28,"It is not superfluous, sir, because, remember, jurisdiction says the courts don't have jurisdiction no matter if the defendant invokes this matter -- this provision or not."
+2017.15-1439,2,62836,neil_gorsuch,scotus_justice,2564.08,2564.44,Okay.
+2017.15-1439,2,42731,thomas_c_goldstein,,2570.52,2570.68,Sure.
+2017.15-1439,2,62836,neil_gorsuch,scotus_justice,2570.68,2572.84,How is that not superfluous on your reading?
+2017.15-1439,2,42731,thomas_c_goldstein,,2572.84,2581.28,"It is only an indication of where it is that you look in p -- in 77p, because there are a lot of provisions that are in 77p."
+2017.15-1439,2,62836,neil_gorsuch,scotus_justice,2591.8,2597.12,"I think we're speaking past each other again, because I -- I'm referring to, I'm sorry, 77p(c), all right?"
+2017.15-1439,2,42731,thomas_c_goldstein,,2597.12,2597.2,Oh.
+2017.15-1439,2,62836,neil_gorsuch,scotus_justice,2597.2,2609.64,"Which says ""any class -- covered class action brought in a state court involving a covered security as set forth in subsection (b)."" The government's position is that the words ""involving a covered security"" must be doing some work."
+2017.15-1439,2,42731,thomas_c_goldstein,,2610.04,2613.2,"Oh, I -- I -- I'm not sure what you're reading from, sir."
+2017.15-1439,2,15131,sonia_sotomayor,scotus_justice,2615.44,2615.44,The removal.
+2017.15-1439,2,62836,neil_gorsuch,scotus_justice,2615.44,2616.48,The removal provision.
+2017.15-1439,2,42731,thomas_c_goldstein,,2616.48,2617.6,Of v(a)?
+2017.15-1439,2,62836,neil_gorsuch,scotus_justice,2617.6,2618.0,No.
+2017.15-1439,2,42731,thomas_c_goldstein,,2618.0,2618.36,Okay.
+2017.15-1439,2,62836,neil_gorsuch,scotus_justice,2619.44,2619.52,P(c).
+2017.15-1439,2,42731,thomas_c_goldstein,,2619.52,2619.76,Okay.
+2017.15-1439,2,62836,neil_gorsuch,scotus_justice,2620.12,2621.24,Okay? Still p(c).
+2017.15-1439,2,42731,thomas_c_goldstein,,2621.24,2621.44,Yes.
+2017.15-1439,2,62836,neil_gorsuch,scotus_justice,2622.28,2639.32,"All right? ""Any covered class action brought in a state court involving a covered security as set forth in (b)."" The government makes the argument that if, in fact, all you were doing was referring to (b), including state law classes -- state law causes of action, you wouldn't need ""involving a covered security."""
+2017.15-1439,2,42731,thomas_c_goldstein,,2639.32,2640.16,There's going to be --
+2017.15-1439,2,62836,neil_gorsuch,scotus_justice,2640.16,2641.52,That language would be superfluous.
+2017.15-1439,2,42731,thomas_c_goldstein,,2641.52,2650.48,"Well, there would be superfluity on anybody's reading because ""brought in any state court"" would also be arguably superfluous; ""any covered class action"" would be superfluous."
+2017.15-1439,2,62836,neil_gorsuch,scotus_justice,2656.24,2658.56,"No, no, because we're talking about removal here."
+2017.15-1439,2,42731,thomas_c_goldstein,,2663.96,2664.12,Okay.
+2017.15-1439,2,62836,neil_gorsuch,scotus_justice,2666.24,2668.48,Any covered class action could be one in federal court.
+2017.15-1439,2,42731,thomas_c_goldstein,,2669.68,2671.56,"No, I'm just saying in terms of it would be superfluous as -- as well."
+2017.15-1439,2,62836,neil_gorsuch,scotus_justice,2671.56,2676.0,"I don't see why, any covered class action brought in state court may be removed."
+2017.15-1439,2,42731,thomas_c_goldstein,,2676.0,2676.56,"Well, everything --"
+2017.15-1439,2,62836,neil_gorsuch,scotus_justice,2676.56,2677.32,That makes sense.
+2017.15-1439,2,42731,thomas_c_goldstein,,2677.32,2682.68,"Well, every -- (b), everything that is in (b) is with respect to a covered class action."
+2017.15-1439,2,15094,elena_kagan,scotus_justice,2723.08,2725.12,I'll -- I'll add to that.
+2017.15-1439,2,42731,thomas_c_goldstein,,2739.64,2742.0,"His whole point is that you wouldn't dismiss them, but that's Your Honor's point."
+2017.15-1439,2,15094,elena_kagan,scotus_justice,2742.0,2748.2,"Yeah, but that would make ""and shall be subject to subsection (b)"" superfluous and -- and essentially mean nothing."
+2017.15-1439,2,42731,thomas_c_goldstein,,2748.2,2748.6,Right.
+2017.15-1439,2,15068,samuel_a_alito_jr,scotus_justice,2760.64,2782.48,"What sense does that -- what sense does that make? The fed -- the state courts have concurrent jurisdiction over '33 Act claims, except if a lawyer is foolish enough to include in the state court complaint state claims that fall within the -- the prohibition? What -- what sense does that make?"
+2017.15-1439,2,42731,thomas_c_goldstein,,2782.48,2791.24,"Well, Justice Alito, it would make sure that there isn't confusion. It would resolve an ambiguity. It's not intended to do very much. It's a conforming amendment."
+2017.15-1439,2,15084,ruth_bader_ginsburg,scotus_justice,2801.12,2803.12,Which -- which provision are we talking about?
+2017.15-1439,2,42731,thomas_c_goldstein,,2803.12,2805.4,The v(a) amendment of the jurisdictional provision.
+2017.15-1439,2,15084,ruth_bader_ginsburg,scotus_justice,2805.4,2808.04,So you -- are you answering the road to nowhere?
+2017.15-1439,2,42731,thomas_c_goldstein,,2808.04,2808.52,Yes.
+2017.15-1439,2,15084,ruth_bader_ginsburg,scotus_justice,2821.32,2825.6,Is it just matching the jurisdictional to the preclusion and removal?
+2017.15-1439,2,42731,thomas_c_goldstein,,2825.6,2825.72,All right.
+2017.15-1439,2,15084,ruth_bader_ginsburg,scotus_justice,2861.56,2882.56,"Mr. Goldstein, why -- why would Congress want to do that, given that if the federal claim is in federal court, there are, as Mr. Katyal pointed out, all these restrictions on counsel and who's the represented party? You have the same -- the federal claim in state court, and none of those restrictions apply."
+2017.15-1439,2,42731,thomas_c_goldstein,,2882.56,2884.16,"That's the usual rule, Justice Ginsburg."
+2017.15-1439,2,15139,stephen_g_breyer,scotus_justice,2915.44,2916.52,"There, I -- I see that."
+2017.15-1439,2,42731,thomas_c_goldstein,,2918.72,2918.88,Sure.
+2017.15-1439,2,15139,stephen_g_breyer,scotus_justice,2918.88,2923.68,"My textual question, which we're discussing now, is we go to v."
+2017.15-1439,2,42731,thomas_c_goldstein,,2923.68,2924.8,Yeah.
+2017.15-1439,2,15139,stephen_g_breyer,scotus_justice,2924.8,2930.2,"And let's look at the second part, which says ""except as provided"" in p(c) --"
+2017.15-1439,2,42731,thomas_c_goldstein,,2930.2,2931.04,Yeah.
+2017.15-1439,2,15139,stephen_g_breyer,scotus_justice,2931.04,2933.12,-- you can't remove it.
+2017.15-1439,2,42731,thomas_c_goldstein,,2933.12,2933.64,Yes.
+2017.15-1439,2,15139,stephen_g_breyer,scotus_justice,2933.64,2937.4,"So that means if it's provided -- ""except"" as provided in p(c)."
+2017.15-1439,2,42731,thomas_c_goldstein,,2937.4,2937.64,Yep.
+2017.15-1439,2,15139,stephen_g_breyer,scotus_justice,2937.64,2939.72,And it's talking about the '33 Act.
+2017.15-1439,2,42731,thomas_c_goldstein,,2939.72,2940.72,Yes.
+2017.15-1439,2,15139,stephen_g_breyer,scotus_justice,2940.72,2941.24,All right.
+2017.15-1439,2,42731,thomas_c_goldstein,,2948.92,2950.6,A case with a '33 Act claim.
+2017.15-1439,2,15139,stephen_g_breyer,scotus_justice,2950.6,2953.6,With a '33 Act claim.
+2017.15-1439,2,42731,thomas_c_goldstein,,2953.6,2954.2,Yes.
+2017.15-1439,2,15139,stephen_g_breyer,scotus_justice,2954.2,2965.52,"A case with a '33 Act claim, we look to (c) and say (c), therefore, must refer in part to cases with '33 Act claims."
+2017.15-1439,2,42731,thomas_c_goldstein,,2965.52,2966.4,Yes.
+2017.15-1439,2,15139,stephen_g_breyer,scotus_justice,2966.4,2976.48,"And if that's so, since -- involving a covered security --"
+2017.15-1439,2,42731,thomas_c_goldstein,,2976.48,2979.52,"So, it would be a mistake --"
+2017.15-1439,2,15139,stephen_g_breyer,scotus_justice,2979.52,2986.32,"-- if it refers to -- if it refers to all of v, including the state law problem, there is virtually no scope."
+2017.15-1439,2,42731,thomas_c_goldstein,,2986.32,2988.0,"No, that's not true. It's the mistake."
+2017.15-1439,2,15139,stephen_g_breyer,scotus_justice,2988.0,2988.84,"Ah, you're going to -- I get it."
+2017.15-1439,2,42731,thomas_c_goldstein,,2988.88,2989.8,Here's what I think happened.
+2017.15-1439,2,15139,stephen_g_breyer,scotus_justice,2989.8,2990.12,All right.
+2017.15-1439,2,42731,thomas_c_goldstein,,2990.88,2991.12,Yeah.
+2017.15-1439,2,15139,stephen_g_breyer,scotus_justice,2993.28,2993.4,Yeah.
+2017.15-1439,2,42731,thomas_c_goldstein,,2993.4,2997.56,It looks back to the PSLRA and says we've had a statute that's been evaded a bunch.
+2017.15-1439,2,15139,stephen_g_breyer,scotus_justice,3017.04,3017.64,Okay.
+2017.15-1439,2,42731,thomas_c_goldstein,,3017.64,3019.28,-- that this provision does.
+2017.15-1439,2,15139,stephen_g_breyer,scotus_justice,3019.28,3021.0,"Now, this is my choice then."
+2017.15-1439,2,42731,thomas_c_goldstein,,3038.44,3039.0,Yes.
+2017.15-1439,2,15139,stephen_g_breyer,scotus_justice,3039.0,3040.64,-- and also a '33 Act claim.
+2017.15-1439,2,42731,thomas_c_goldstein,,3040.64,3040.8,Yes.
+2017.15-1439,2,15139,stephen_g_breyer,scotus_justice,3040.8,3041.68,That's your view.
+2017.15-1439,2,42731,thomas_c_goldstein,,3041.68,3042.04,Yes.
+2017.15-1439,2,15139,stephen_g_breyer,scotus_justice,3042.04,3055.76,"Or the government's view is that involving just refers to (1) and (2) in (b) and so it refers to '33 Act claims sitting there by themselves in state court, too."
+2017.15-1439,2,42731,thomas_c_goldstein,,3055.76,3056.32,Right.
+2017.15-1439,2,15139,stephen_g_breyer,scotus_justice,3056.32,3057.48,"That's my choice, right?"
+2017.15-1439,2,42731,thomas_c_goldstein,,3057.48,3057.72,Yes.
+2017.15-1439,2,15139,stephen_g_breyer,scotus_justice,3057.72,3065.64,"And I've got to see which of those two makes more sense in terms of the Act, which is why I started out with I want to know what they want to do --"
+2017.15-1439,2,42731,thomas_c_goldstein,,3065.64,3065.88,Sure.
+2017.15-1439,2,15139,stephen_g_breyer,scotus_justice,3065.88,3066.68,-- with '33 Acts --
+2017.15-1439,2,42731,thomas_c_goldstein,,3066.68,3066.84,Sure.
+2017.15-1439,2,15139,stephen_g_breyer,scotus_justice,3066.84,3069.48,-- because a '33 Act is a big deal here.
+2017.15-1439,2,42731,thomas_c_goldstein,,3069.48,3070.12,Right.
+2017.15-1439,2,15139,stephen_g_breyer,scotus_justice,3070.12,3072.0,Then the -- the SG's position looks better.
+2017.15-1439,2,42731,thomas_c_goldstein,,3072.0,3072.32,Sure.
+2017.15-1439,2,15139,stephen_g_breyer,scotus_justice,3072.32,3075.16,"And if it's a not much of a deal, a throwaway --"
+2017.15-1439,2,42731,thomas_c_goldstein,,3075.16,3075.6,Right.
+2017.15-1439,2,15139,stephen_g_breyer,scotus_justice,3075.6,3076.56,-- then yours looks better.
+2017.15-1439,2,42731,thomas_c_goldstein,,3076.56,3076.72,Right.
+2017.15-1439,2,15139,stephen_g_breyer,scotus_justice,3077.0,3077.6,Is that right?
+2017.15-1439,2,42731,thomas_c_goldstein,,3077.6,3078.04,Yes.
+2017.15-1439,2,15068,samuel_a_alito_jr,scotus_justice,3131.2,3149.08,"If a plaintiff files a third -- files a claim in state court under a state law cause of action that mirrors the '33 Act in the -- in the respects that are set out in the statute, the state court can't entertain that."
+2017.15-1439,2,42731,thomas_c_goldstein,,3149.16,3149.84,That is correct.
+2017.15-1439,2,15068,samuel_a_alito_jr,scotus_justice,3149.84,3150.2,Okay.
+2017.15-1439,2,42731,thomas_c_goldstein,,3160.36,3164.2,Because what Congress is targeting is it just doesn't want this resolved under state law.
+2017.15-1439,2,15068,samuel_a_alito_jr,scotus_justice,3171.12,3175.6,I thought it -- what it wanted was it to be resolved under federal procedural law?
+2017.15-1439,2,42731,thomas_c_goldstein,,3175.6,3177.32,"No, that is not uniformly true."
+2017.15-1439,2,15068,samuel_a_alito_jr,scotus_justice,3181.76,3185.6,"Yeah, they wanted to -- they wanted to resolve in accordance with the PSLRA."
+2017.15-1439,2,42731,thomas_c_goldstein,,3185.6,3185.88,Right.
+2017.15-1439,2,15068,samuel_a_alito_jr,scotus_justice,3186.56,3187.92,Which wouldn't apply in state court.
+2017.15-1439,2,42731,thomas_c_goldstein,,3187.92,3188.6,Exactly right.
+2017.15-1439,2,15068,samuel_a_alito_jr,scotus_justice,3248.92,3265.0,"The whole mixed case thing doesn't make the first bit of sense to me, that you've got the federal -- you have the '33 Act claim and you have the prohibited state act claim in state court. So then the state court knows -- has no jurisdiction whatsoever."
+2017.15-1439,2,42731,thomas_c_goldstein,,3273.0,3273.36,Right.
+2017.15-1439,2,15068,samuel_a_alito_jr,scotus_justice,3273.36,3275.24,"Or the judge is going to say, oh, it's too late."
+2017.15-1439,2,42731,thomas_c_goldstein,,3287.16,3291.64,"Yes, but that's only because of SLUSA because what SLUSA is doing is barring the state law claim."
+2017.15-1439,2,15131,sonia_sotomayor,scotus_justice,3432.52,3435.0,I have one.
+2017.15-1439,2,42731,thomas_c_goldstein,,3446.32,3447.84,Its reading -- its reading today in argument?
+2017.15-1439,2,15131,sonia_sotomayor,scotus_justice,3447.84,3448.8,Its reading today.
+2017.15-1439,2,42731,thomas_c_goldstein,,3448.8,3449.52,Okay.
+2017.15-1439,2,15131,sonia_sotomayor,scotus_justice,3449.52,3450.88,I assume you understand it.
+2017.15-1439,2,42731,thomas_c_goldstein,,3450.88,3451.72,Yes.
+2017.15-1439,2,15131,sonia_sotomayor,scotus_justice,3451.72,3452.12,All right.
+2017.15-1439,2,42731,thomas_c_goldstein,,3453.72,3454.24,Yeah.
+2017.15-1439,2,15131,sonia_sotomayor,scotus_justice,3454.24,3465.0,"-- what would we make -- what would be left of the second ""except"" clause in -- in 77v(a)?"
+2017.15-1439,2,42731,thomas_c_goldstein,,3465.0,3467.48,The removal except clause?
+2017.15-1439,2,15131,sonia_sotomayor,scotus_justice,3467.48,3468.36,Yes.
+2017.15-1439,2,42731,thomas_c_goldstein,,3468.36,3468.52,So --
+2017.15-1439,2,15131,sonia_sotomayor,scotus_justice,3468.52,3469.76,"Second ""except"" clause."
+2017.15-1439,2,42731,thomas_c_goldstein,,3469.76,3477.0,"So the second ""except"" clause, just to walk this through, says basically whatever we're doing in 77p(c) controls."
+2017.15-1439,2,15131,sonia_sotomayor,scotus_justice,3477.0,3477.4,Right.
+2017.15-1439,2,42731,thomas_c_goldstein,,3477.4,3484.64,"Okay? And I do think it's very useful that, except as provided and should be read the same way in 77v(a), so it does, you know, tell you to look somewhere else."
+2017.15-1439,2,15131,sonia_sotomayor,scotus_justice,3484.64,3486.8,If you read this the way the government does --
+2017.15-1439,2,42731,thomas_c_goldstein,,3486.8,3487.92,Right.
+2017.15-1439,2,15131,sonia_sotomayor,scotus_justice,3488.08,3490.64,-- it says you can't remove these cases in (a) --
+2017.15-1439,2,42731,thomas_c_goldstein,,3490.64,3492.52,Yeah.
+2017.15-1439,2,15131,sonia_sotomayor,scotus_justice,3492.52,3497.28,"-- right, so you can't remove them, but (c) says you can remove them."
+2017.15-1439,2,42731,thomas_c_goldstein,,3504.08,3508.96,"Well, it is the case that it would be completely unnecessary because (c) controls."
+2017.15-1439,2,15094,elena_kagan,scotus_justice,3535.04,3543.8,"Could I ask you, Mr. -- Mr. Goldstein, also on this (c) provision, and -- and this really ought to be a question for Mr. Kedem, but he sat down."
+2017.15-1439,2,42731,thomas_c_goldstein,,3547.08,3547.64,Okay.
+2017.15-1439,2,15094,elena_kagan,scotus_justice,3547.64,3561.12,"-- agreeing with me. But if I understand what he said, it's these class actions with this last antecedent principle, you're only referring to (1) and (2), so now you -- you make those class actions removable."
+2017.15-1439,2,42731,thomas_c_goldstein,,3573.0,3573.52,"No, but --"
+2017.15-1439,2,15094,elena_kagan,scotus_justice,3573.52,3573.84,-- but -- I'm sorry?
+2017.15-1439,2,42731,thomas_c_goldstein,,3573.84,3576.36,"I -- I don't think that, but you might."
+2017.15-1439,2,15094,elena_kagan,scotus_justice,3576.36,3576.64,Okay.
+2017.15-1439,2,42731,thomas_c_goldstein,,3577.56,3578.16,Hypothetically.
+2017.15-1439,2,15094,elena_kagan,scotus_justice,3578.16,3578.92,"-- in his view, right?"
+2017.15-1439,2,42731,thomas_c_goldstein,,3578.92,3579.28,Okay.
+2017.15-1439,2,15094,elena_kagan,scotus_justice,3579.28,3592.8,"But then it says ""and shall be subject to subsection (b)."" And all that subsection (b) does, the way this (c) provision works is it makes a category of cases removable only so that a court can dismiss them."
+2017.15-1439,2,42731,thomas_c_goldstein,,3614.72,3615.88,That's right.
+2017.15-1439,2,42731,thomas_c_goldstein,,3636.4,3639.72,That if state courts just aren't obeying the statute.
+2017.15-1439,2,15139,stephen_g_breyer,scotus_justice,3645.16,3650.0,"There has to be. There has to be, because the mixed case ends up in part being in federal court."
+2017.15-1439,2,42731,thomas_c_goldstein,,3650.0,3652.6,It does not because under 1441(c) it gets remanded.
+2017.15-1439,2,15131,sonia_sotomayor,scotus_justice,3661.08,3661.28,I'm sorry --
+2017.15-1439,2,42731,thomas_c_goldstein,,3661.28,3662.64,Mr. Katyal was just wrong about that.
+2017.15-1439,2,15131,sonia_sotomayor,scotus_justice,3662.64,3664.04,-- what provision are you citing?
+2017.15-1439,2,42731,thomas_c_goldstein,,3664.04,3668.56,"14 -- 28 U.S.C. 1441(c), it's the removal provision."
+2017.15-1439,2,15139,stephen_g_breyer,scotus_justice,3692.48,3693.84,"No, so that's -- that's major."
+2017.15-1439,2,42731,thomas_c_goldstein,,3693.84,3694.24,Yes.
+2017.15-1439,2,15139,stephen_g_breyer,scotus_justice,3694.24,3699.52,"I mean, either on the one hand, your view, this is designed just to get rid of the state actions."
+2017.15-1439,2,42731,thomas_c_goldstein,,3699.52,3699.76,Yes.
+2017.15-1439,2,15139,stephen_g_breyer,scotus_justice,3699.76,3703.6,"On their view, it is designed to do two things."
+2017.15-1439,2,42731,thomas_c_goldstein,,3708.6,3708.64,Right.
+2017.15-1439,2,15139,stephen_g_breyer,scotus_justice,3709.24,3710.68,Is there any history?
+2017.15-1439,2,42731,thomas_c_goldstein,,3710.68,3719.4,"Not -- not about the amendment to v, there's no history, and we don't think there's any history that suggests moving the cases to federal court. Thank you."
+2017.15-1439,2,15086,john_g_roberts_jr,scotus_justice,3719.4,3722.52,"Thank you, counsel. Four minutes, Mr. Katyal."
+2017.15-1439,3,37171,neal_kumar_katyal,,3722.52,3724.68,Thank you. Four -- four points.
+2017.15-1439,3,15086,john_g_roberts_jr,scotus_justice,3961.72,0.0,"Thank you, counsel. The case is submitted."

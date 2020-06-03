@@ -1,0 +1,51 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1997.96-1469,0,15141,william_h_rehnquist,scotus_justice,0.0,9.137,"We'll hear argument next in Number 96-1469, United States v. Hernan Ramirez."
+1997.96-1469,0,20869,david_c_frederick,,69.617,72.318,"Thank you, Mr. Chief Justice, and may it please the Court:"
+1997.96-1469,0,15113,anthony_m_kennedy,scotus_justice,115.126,117.317,Just a preliminary question: is the warrant in the record?
+1997.96-1469,0,20869,david_c_frederick,,118.018,123.452,The warrant itself is lodged by respondent in the brief in opposition.
+1997.96-1469,1,36198,michael_r_levine,,1205.53,1216.57,"Mr. Chief Justice, and may it please the Court:"
+1997.96-1469,1,15113,anthony_m_kennedy,scotus_justice,1284.705,1293.738,"Well, but I suppose that if the door had been unlocked here and they just burst through the door and everything else was the same, the fear of the occupants would have been precisely the same."
+1997.96-1469,1,36198,michael_r_levine,,1293.738,1296.991,--It's a weighing standard.
+1997.96-1469,1,15113,anthony_m_kennedy,scotus_justice,1312.731,1319.496,"But unless you disagree with my suggestion in my hypothetical, all we're talking about here is a broken windowpane."
+1997.96-1469,1,36198,michael_r_levine,,1319.496,1321.94,"No, Your Honor, we're not talking about a broken windowpane."
+1997.96-1469,1,15113,anthony_m_kennedy,scotus_justice,1336.249,1342.493,"Well, that same danger would have been applied if they'd burst through the door, assuming the door's unlocked, or they had a pass key... they have a pass key."
+1997.96-1469,1,36198,michael_r_levine,,1342.493,1344.583,--It may well.
+1997.96-1469,1,15113,anthony_m_kennedy,scotus_justice,1358.272,1360.833,I just don't think there's any empirical evidence for that.
+1997.96-1469,1,36198,michael_r_levine,,1364.886,1375.024,"--Well, I think the assump... the purpose of the knock and announce rule has... one of its fundamental purposes is the protection of property."
+1997.96-1469,1,15092,sandra_day_oconnor,scotus_justice,1389.974,1404.683,"Well, what if the officers were just clumsy and negligent and poked a hole through a window by virtue of their negligence, and it frightened the homeowner and... should we apply some higher standard for the resulting entry?"
+1997.96-1469,1,36198,michael_r_levine,,1404.683,1408.207,"You would look at a balancing test, Your Honor."
+1997.96-1469,1,15084,ruth_bader_ginsburg,scotus_justice,1436.734,1437.074,Mr. Levine--
+1997.96-1469,1,36198,michael_r_levine,,1437.074,1437.194,"--Yes, Your Honor."
+1997.96-1469,1,15084,ruth_bader_ginsburg,scotus_justice,1437.194,1441.338,"--I didn't understand the difference between a kicked-down door, which was... which case was that?"
+1997.96-1469,1,36198,michael_r_levine,,1441.919,1442.75,Yes.
+1997.96-1469,1,15084,ruth_bader_ginsburg,scotus_justice,1442.75,1443.93,--and a rammed door.
+1997.96-1469,1,36198,michael_r_levine,,1448.454,1454.499,"Well, depending on all the circumstances again, Your Honor, I mean, there are thousands of hypotheticals which will--"
+1997.96-1469,1,15084,ruth_bader_ginsburg,scotus_justice,1454.499,1463.351,But are you suggesting that the standard that this Court said was proper in those two cases wasn't tight enough because there was damage to property?
+1997.96-1469,1,36198,michael_r_levine,,1463.351,1466.864,"--Are you referring to Richards v. Wisconsin, Your Honor?"
+1997.96-1469,1,15084,ruth_bader_ginsburg,scotus_justice,1466.864,1468.686,"Yes, and in Wilson, too."
+1997.96-1469,1,36198,michael_r_levine,,1468.686,1469.285,Well--
+1997.96-1469,1,15084,ruth_bader_ginsburg,scotus_justice,1469.285,1475.181,"But they both involved, not just walking through a door gently."
+1997.96-1469,1,36198,michael_r_levine,,1475.181,1501.488,"--The statement in Richards v. Wisconsin, the test of reasonable suspicion that the Government talks about and that this Court talked about, though, in the context of destruction of evidence, that has to be construed at least with regard to a planned assault on a residence, as opposed to a spontaneous happening at the door, that has to be construed, it seems to me, to include the manner of entry and the degree of danger."
+1997.96-1469,1,15139,stephen_g_breyer,scotus_justice,1588.313,1594.788,"Isn't the test that applies, though... is there some disagreement about this, that... I'm reading from Richards v. Wisconsin."
+1997.96-1469,1,36198,michael_r_levine,,1610.589,1610.978,If--
+1997.96-1469,1,15139,stephen_g_breyer,scotus_justice,1610.978,1612.02,"Well, that's the test."
+1997.96-1469,1,36198,michael_r_levine,,1613.061,1613.272,--Well--
+1997.96-1469,1,15139,stephen_g_breyer,scotus_justice,1613.272,1614.721,"--That's what it is, isn't it?"
+1997.96-1469,1,36198,michael_r_levine,,1615.522,1615.643,"--No, Your Honor."
+1997.96-1469,2,20869,david_c_frederick,,2839.105,2848.942,"We would like this Court to say that reasonable suspicion justifies a reasonable entry into the dwelling even if that involves some property damage, and if--"
+1997.96-1469,2,15049,antonin_scalia,scotus_justice,2848.942,2859.737,"Well, that's fine, but that... does mere reasonable suspicion and not a higher degree of suspicion become necessary if you're going to do substantial property damage?"
+1997.96-1469,2,20869,david_c_frederick,,2884.265,2884.735,--Yes.
+1997.96-1469,2,15049,antonin_scalia,scotus_justice,2884.735,2885.845,Wow.
+1997.96-1469,2,20869,david_c_frederick,,2885.845,2887.547,And let me explain why.
+1997.96-1469,2,15049,antonin_scalia,scotus_justice,2914.655,2918.396,"Well, sure, what manner you use depends on those other factors, how sure you are the guy is there."
+1997.96-1469,2,20869,david_c_frederick,,2918.396,2936.929,"Well, those would be the circumstances as to how the officers tactically needed to make the decision to get into the dwelling, but there should not be a sliding scale or a higher tier if the officers face fortifications but the person is of the same dangerousness as Alan Shelby was in this case."
+1997.96-1469,2,15049,antonin_scalia,scotus_justice,2936.929,2937.98,They're not as sure that he's there.
+1997.96-1469,2,20869,david_c_frederick,,2937.98,2940.12,They have probable cause--
+1997.96-1469,2,15049,antonin_scalia,scotus_justice,2940.12,2941.041,"You know, maybe he's staying at Scalia's house."
+1997.96-1469,2,20869,david_c_frederick,,2949.858,2952.349,"--Justice Scalia, two points."
+1997.96-1469,2,15049,antonin_scalia,scotus_justice,2960.975,2963.355,I'm not quarreling with you... I'm not quarreling with you on the facts here.
+1997.96-1469,2,20869,david_c_frederick,,2963.355,2963.786,--It's--
+1997.96-1469,2,15049,antonin_scalia,scotus_justice,2963.786,2965.186,I agree with Judge Kozinski.
+1997.96-1469,2,20869,david_c_frederick,,2971.631,2971.892,--My--
+1997.96-1469,2,15049,antonin_scalia,scotus_justice,2971.892,2978.056,--does not affect the degree... you want us to say the property damage does not affect the degree of probable cause that you need?
+1997.96-1469,2,20869,david_c_frederick,,2978.056,2978.656,--Yes.

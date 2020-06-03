@@ -1,0 +1,280 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2009.08-810,0,15086,john_g_roberts_jr,scotus_justice,0.0,5.135,"We'll hear argument next this morning in Case Number 08-810, Conkright v. Frommert."
+2009.08-810,0,39797,robert_a_long_jr,,5.735,22.08,"Mr. Chief Justice, and may it please the Court: In this ERISA case, the court of appeals applied a deferential standard of review to the district court's interpretation of the Xerox plan, but not to the plan administrator's interpretation."
+2009.08-810,0,15049,antonin_scalia,scotus_justice,58.502,59.102,Right.
+2009.08-810,0,39797,robert_a_long_jr,,87.605,122.76,"Well, we think under trust law, which the Court has looked to in Glenn and Firestone, where the plan of the settlor of the trust has assigned the responsibility for making the discretionary determinations to the plan administrator or to the trustee, unless there's been a showing of bad faith or some other reason to think that the discretion will not be exercised honestly and fairly, it -- it is really up to the plan administrator to make that discretionary determination--"
+2009.08-810,0,15049,antonin_scalia,scotus_justice,122.76,128.062,"So all a court can do in those trust cases is to say: You've got it wrong, Sam; go back and do it again."
+2009.08-810,0,39797,robert_a_long_jr,,128.664,129.264,--Well--
+2009.08-810,0,15049,antonin_scalia,scotus_justice,129.264,134.282,"And he gets it wrong again, and he goes back to court; the court says: Sam, it's still wrong; go back and do it again."
+2009.08-810,0,39797,robert_a_long_jr,,134.282,135.151,"--Well, we--"
+2009.08-810,0,15049,antonin_scalia,scotus_justice,135.151,136.384,I can't believe that that's what the law is.
+2009.08-810,0,39797,robert_a_long_jr,,136.384,141.852,--We think these situations of the -- of the multiple bites at the apple will be rare.
+2009.08-810,0,15139,stephen_g_breyer,scotus_justice,146.823,148.589,"Well, the SG says that isn't trust law."
+2009.08-810,0,39797,robert_a_long_jr,,169.919,170.935,"--Well, I--"
+2009.08-810,0,15139,stephen_g_breyer,scotus_justice,170.935,172.319,Because it's very complicated.
+2009.08-810,0,39797,robert_a_long_jr,,173.221,175.989,"--I'd -- I'd have a two-part answer, Justice Breyer--"
+2009.08-810,0,15139,stephen_g_breyer,scotus_justice,175.989,176.473,"So, is she wrong?"
+2009.08-810,0,39797,robert_a_long_jr,,178.323,183.691,"--Well, I think, first, it would be -- it would be quite unusual to say the standard of review is up to the court, that it can be either--"
+2009.08-810,0,15139,stephen_g_breyer,scotus_justice,183.691,186.191,--It's not -- it's not a standard of review.
+2009.08-810,0,39797,robert_a_long_jr,,199.251,200.751,"--Well -- well, but--"
+2009.08-810,0,15139,stephen_g_breyer,scotus_justice,200.751,204.437,"And then it turns out that that isn't what it means, and the district judge says: That's affirmed."
+2009.08-810,0,39797,robert_a_long_jr,,216.762,217.045,--But--
+2009.08-810,0,15139,stephen_g_breyer,scotus_justice,217.045,219.197,"Now, luckily, the SG says that is the law."
+2009.08-810,0,39797,robert_a_long_jr,,221.014,226.768,"--Well, but Professor Scott, who was the reporter for both the second and the first Restatement--"
+2009.08-810,0,15139,stephen_g_breyer,scotus_justice,226.768,227.118,Yes.
+2009.08-810,0,39797,robert_a_long_jr,,227.118,229.386,--and whose treatise correlates with the--
+2009.08-810,0,15139,stephen_g_breyer,scotus_justice,229.386,230.07,Says it isn't the law.
+2009.08-810,0,39797,robert_a_long_jr,,230.07,234.974,--The section numbers correlate exactly with the sections of the Restatement for which he was reporter.
+2009.08-810,0,15139,stephen_g_breyer,scotus_justice,258.655,260.122,What about just that?
+2009.08-810,0,39797,robert_a_long_jr,,266.511,267.861,"--Well, I think it's--"
+2009.08-810,0,15139,stephen_g_breyer,scotus_justice,267.861,270.297,And what about that for a reason thinking he's not in that good of faith?
+2009.08-810,0,39797,robert_a_long_jr,,270.68,272.499,"--I think it's quite different, with -- with respect, Justice Breyer."
+2009.08-810,0,15068,samuel_a_alito_jr,scotus_justice,295.662,296.53,"Well, if there's no--"
+2009.08-810,0,39797,robert_a_long_jr,,296.53,297.697,--because it wasn't properly disclosed.
+2009.08-810,0,15068,samuel_a_alito_jr,scotus_justice,297.697,305.403,"--If there's no bad faith, then how many shots does the plan administrator -- who I don't think is named Sam -- gets to--"
+2009.08-810,0,39797,robert_a_long_jr,,308.505,332.203,"Well, we think the standard is that if -- as long as there is discretion to be exercised within the limits that would be set by the court's opinion, absent a showing of bad faith or other reason to think the discretion won't be exercised honestly and fairly, it ought to be left to the plan administrator, because that's what the plan provides."
+2009.08-810,0,15084,ruth_bader_ginsburg,scotus_justice,333.137,336.172,"Mr. Long, we're talking in the abstract--"
+2009.08-810,0,39797,robert_a_long_jr,,336.172,336.539,--Yes.
+2009.08-810,0,15084,ruth_bader_ginsburg,scotus_justice,336.539,367.96,"--referring to Scott, but -- that this case -- what I took away from the Second Circuit's opinion was the flaw here was not that the method was no good if you had adequate notice; the flaw was the people affected were not told in what is the language of ERISA, in plain, simple language, what their entitlement was."
+2009.08-810,0,39797,robert_a_long_jr,,388.957,394.028,"Yes, and that's right at the heart of the case, and you are quite correct."
+2009.08-810,0,15084,ruth_bader_ginsburg,scotus_justice,441.338,454.498,"But if -- if there were information, but the -- the ERISA provision says that you are supposed to give the summary description of the plan"
+2009.08-810,0,39797,robert_a_long_jr,,460.669,462.188,"--Yes, yes."
+2009.08-810,0,15084,ruth_bader_ginsburg,scotus_justice,462.188,476.011,"And all that the 1989 statement said was the amount the employees received may be reduced, if they previously left the company and received a distribution at that time."
+2009.08-810,0,39797,robert_a_long_jr,,476.011,476.411,Yes.
+2009.08-810,0,15049,antonin_scalia,scotus_justice,559.851,570.29,"Well, why -- this is important to me, whether the plan administrator was interpreting the same language when this case was remanded back down."
+2009.08-810,0,39797,robert_a_long_jr,,577.313,578.429,--Yes.
+2009.08-810,0,15049,antonin_scalia,scotus_justice,579.063,582.448,And the court said that was no good because you didn't give these people notice of it.
+2009.08-810,0,39797,robert_a_long_jr,,598.808,601.576,"That is absolutely correct, and at the time that--"
+2009.08-810,0,15049,antonin_scalia,scotus_justice,601.576,615.669,"So when it went back, why didn't he stick with that and say: Yes, they didn't have adequate notice of that, but that is still a reasonable interpretation of the original plan, even before we specified that."
+2009.08-810,0,39797,robert_a_long_jr,,615.669,624.441,"--When it went back on remand from the Second Circuit the first time, the plan administrator adopted a -- a new interpretation."
+2009.08-810,0,15049,antonin_scalia,scotus_justice,624.441,624.725,Yes.
+2009.08-810,0,39797,robert_a_long_jr,,624.725,626.441,"That is what I'm calling the ""plain vanilla""--"
+2009.08-810,0,15049,antonin_scalia,scotus_justice,626.441,626.977,I understand that.
+2009.08-810,0,39797,robert_a_long_jr,,649.49,655.377,"--Well -- and there was a provision in the plan that specifically told him to do the offset in this way, and the Second Circuit--"
+2009.08-810,0,15049,antonin_scalia,scotus_justice,655.377,656.06,After 1990.
+2009.08-810,0,39797,robert_a_long_jr,,656.06,656.829,"--Well, no."
+2009.08-810,0,15049,antonin_scalia,scotus_justice,659.312,660.114,"Oh, I didn't understand."
+2009.08-810,0,39797,robert_a_long_jr,,660.364,660.664,--Yes.
+2009.08-810,0,15049,antonin_scalia,scotus_justice,674.272,674.957,"Well, your -- your brief says:"
+2009.08-810,0,39797,robert_a_long_jr,,680.076,681.277,"Yes, that's correct."
+2009.08-810,0,15049,antonin_scalia,scotus_justice,681.277,683.812,"'90> [""] --"
+2009.08-810,0,39797,robert_a_long_jr,,692.216,692.835,There -- there was.
+2009.08-810,0,15049,antonin_scalia,scotus_justice,693.368,695.87,There was plan language requiring it before 1990.
+2009.08-810,0,39797,robert_a_long_jr,,695.87,695.953,Yes.
+2009.08-810,0,15049,antonin_scalia,scotus_justice,695.953,696.136,Okay.
+2009.08-810,0,39797,robert_a_long_jr,,696.136,699.504,"Yes, and that's another important point in this complicated case."
+2009.08-810,0,15084,ruth_bader_ginsburg,scotus_justice,727.005,736.694,"But where is it -- what -- what was in the summary plan description on this point between 1980 and 1990, where is that?"
+2009.08-810,0,39797,robert_a_long_jr,,736.694,751.854,"--There were a variety of summary plan descriptions, obviously, and I think, in general, Justice Ginsburg, they simply had the statement that your benefit may be reduced, if you have received a prior distribution."
+2009.08-810,0,15084,ruth_bader_ginsburg,scotus_justice,751.854,752.389,Right.
+2009.08-810,0,39797,robert_a_long_jr,,755.675,759.726,"That's -- that is correct, during that period, although, again--"
+2009.08-810,0,15084,ruth_bader_ginsburg,scotus_justice,759.726,760.709,So is it -- but what period?
+2009.08-810,0,39797,robert_a_long_jr,,766.177,766.461,--It was--
+2009.08-810,0,15084,ruth_bader_ginsburg,scotus_justice,766.461,766.779,--you're talking about?
+2009.08-810,0,39797,robert_a_long_jr,,766.779,768.513,--I think it was really in about 1995.
+2009.08-810,0,15049,antonin_scalia,scotus_justice,786.007,786.457,Okay.
+2009.08-810,0,39797,robert_a_long_jr,,795.03,796.982,"--Oh -- well, I'm sorry if I misunderstood you, Justice Scalia."
+2009.08-810,0,15049,antonin_scalia,scotus_justice,813.625,814.26,"Oh -- oh, I see."
+2009.08-810,0,39797,robert_a_long_jr,,814.26,816.879,"--had a much -- a much briefer -- but, again--"
+2009.08-810,0,15049,antonin_scalia,scotus_justice,816.879,817.179,I got you.
+2009.08-810,0,39797,robert_a_long_jr,,817.179,828.234,"--An additional point on this, Justice Scalia, is -- I mean, this is a claim for benefits due under the terms of the plan, and, you know, there -- there's actually a circuit split on this."
+2009.08-810,0,15084,ruth_bader_ginsburg,scotus_justice,849.433,855.421,But you seem to be rearguing the -- I thought that the -- I thought that you had surrendered on -- what is it called?
+2009.08-810,0,39797,robert_a_long_jr,,873.815,877.75,--Right.
+2009.08-810,0,15084,ruth_bader_ginsburg,scotus_justice,877.75,878.234,--account.
+2009.08-810,0,39797,robert_a_long_jr,,879.036,879.769,They call it phantom accounting.
+2009.08-810,0,15084,ruth_bader_ginsburg,scotus_justice,880.319,881.036,It's out.
+2009.08-810,0,39797,robert_a_long_jr,,895.979,919.844,"Well -- well, no, and I -- I mean, what happened is for the plaintiffs in this case, they were hired after the -- rehired after the 1989 restatement went into effect, and so that's when this -- when this provision that specifically described the reconstructed account methodology was dropped out, and that's when all the trouble started."
+2009.08-810,0,15049,antonin_scalia,scotus_justice,948.944,956.933,So you claim -- you claim that what he is interpreting when it comes back to him is not the same text that they invalidated--
+2009.08-810,0,39797,robert_a_long_jr,,956.933,957.267,--Absolutely.
+2009.08-810,0,15049,antonin_scalia,scotus_justice,957.883,959.883,--but rather it's the plan without this text.
+2009.08-810,0,39797,robert_a_long_jr,,959.883,960.269,--Absolutely.
+2009.08-810,0,15139,stephen_g_breyer,scotus_justice,982.948,985.15,It's -- it struck me if -- it's hard.
+2009.08-810,0,39797,robert_a_long_jr,,1041.304,1042.923,"Well,--"
+2009.08-810,0,15139,stephen_g_breyer,scotus_justice,1042.923,1044.956,"So, I mean, that's -- it's what they'll pay for an annuity."
+2009.08-810,0,39797,robert_a_long_jr,,1044.956,1045.739,--Justice--
+2009.08-810,0,15139,stephen_g_breyer,scotus_justice,1045.739,1047.322,And that's called -- that's called their funds.
+2009.08-810,0,39797,robert_a_long_jr,,1049.357,1052.576,"--Well, I mean, just a couple of points in response, Justice--"
+2009.08-810,0,15139,stephen_g_breyer,scotus_justice,1052.576,1052.976,Right.
+2009.08-810,0,39797,robert_a_long_jr,,1052.976,1057.111,"--I mean, first of all, it's not just the word ""duplication"" or ""non-duplication""."
+2009.08-810,0,15139,stephen_g_breyer,scotus_justice,1070.354,1070.704,Right.
+2009.08-810,0,39797,robert_a_long_jr,,1070.704,1075.924,--shall be offset by the accrued benefit attributable to such distribution.
+2009.08-810,0,15139,stephen_g_breyer,scotus_justice,1075.924,1076.241,Yes.
+2009.08-810,0,39797,robert_a_long_jr,,1089.582,1094.72,"Well, no, Your Honor, the judgment of the Pension Benefit Guaranty Corporation was what--"
+2009.08-810,0,15139,stephen_g_breyer,scotus_justice,1094.72,1095.22,"All right, fine."
+2009.08-810,0,39797,robert_a_long_jr,,1099.957,1104.242,"--Well, but -- but, I mean, it's similar in a sense that I think is clearly favorable to the plan--"
+2009.08-810,0,15139,stephen_g_breyer,scotus_justice,1104.242,1104.778,"--It's similar in a sense, and it's different in a sense."
+2009.08-810,0,39797,robert_a_long_jr,,1104.778,1123.655,"--I mean, if I could -- this is a floor-offset plan, and the basic concept of the flooroffset plan is to give a kind of an insurance policy, that if the defined contribution plan performs poorly, the defined benefit component of the plan will guarantee that you get a certain minimum benefit."
+2009.08-810,0,15139,stephen_g_breyer,scotus_justice,1178.307,1180.64,"But the -- the more you hypothetically grow it, the less chance they'll get the floor."
+2009.08-810,0,39797,robert_a_long_jr,,1180.64,1182.008,--But -- and the key point--
+2009.08-810,0,15139,stephen_g_breyer,scotus_justice,1182.008,1184.293,"And so they'd like it to get the floor, and so they'd like it to be--"
+2009.08-810,0,39797,robert_a_long_jr,,1184.293,1184.826,"--Well, but--"
+2009.08-810,0,15139,stephen_g_breyer,scotus_justice,1184.826,1185.41,--Is that right?
+2009.08-810,0,39797,robert_a_long_jr,,1185.41,1186.643,"--But the key point, if I -- yes."
+2009.08-810,0,15139,stephen_g_breyer,scotus_justice,1191.03,1191.714,That's true.
+2009.08-810,0,39797,robert_a_long_jr,,1191.714,1199.886,"And -- and it is a fundamental principle of pensions, of ERISA, that there is a time value of money."
+2009.08-810,0,15113,anthony_m_kennedy,scotus_justice,1214.98,1218.615,Are you saying it's -- and these categories don't often help us.
+2009.08-810,0,39797,robert_a_long_jr,,1221.466,1228.97,"--Well, I think, in terms of whether this is a reasonable interpretation of the terms of the plan, it is a question of law."
+2009.08-810,0,15049,antonin_scalia,scotus_justice,1237.993,1240.595,The court of appeals said it's just an application of equitable principles--
+2009.08-810,0,39797,robert_a_long_jr,,1240.595,1242.463,"--Well, but--"
+2009.08-810,0,15049,antonin_scalia,scotus_justice,1242.463,1243.697,--not an interpretation of the plan.
+2009.08-810,0,39797,robert_a_long_jr,,1243.697,1246.432,--But it's a claim for benefits due under the terms of the plan.
+2009.08-810,0,15049,antonin_scalia,scotus_justice,1246.432,1246.882,"Yes, yes."
+2009.08-810,0,39797,robert_a_long_jr,,1246.882,1248.284,"You know, I read you the language."
+2009.08-810,0,15113,anthony_m_kennedy,scotus_justice,1250.903,1251.536,And that's the statutory term?
+2009.08-810,0,39797,robert_a_long_jr,,1254.971,1255.505,Yes.
+2009.08-810,0,15139,stephen_g_breyer,scotus_justice,1303.868,1304.218,Up until this time?
+2009.08-810,0,39797,robert_a_long_jr,,1304.218,1309.106,"Well, until the district court said it was a reasonable interpretation of this plan."
+2009.08-810,0,15068,samuel_a_alito_jr,scotus_justice,1309.522,1317.676,If this is not a discretionary decision for the district court -- let's assume it's not a discretionary decision for the -- for the administrator.
+2009.08-810,0,39797,robert_a_long_jr,,1338.106,1344.343,"--Well, but you -- absolutely you start with the language, and we don't think it is quite that bare bones."
+2009.08-810,0,15068,samuel_a_alito_jr,scotus_justice,1406.333,1426.478,"Well, Respondents say that this was a -- sure, it's a -- a benefit to them to be -- to have this offset only by the amount that they received and not take into account the time value of money, but this was an incentive that lured them into accepting employment again with Xerox."
+2009.08-810,0,39797,robert_a_long_jr,,1426.478,1429.866,"Well, with -- with respect, Justice Alito, that is absolutely ridiculous."
+2009.08-810,0,15084,ruth_bader_ginsburg,scotus_justice,1446.04,1448.042,How does it -- how does it hurt the current employees?
+2009.08-810,0,39797,robert_a_long_jr,,1448.042,1449.828,"--Well, if you--"
+2009.08-810,0,15084,ruth_bader_ginsburg,scotus_justice,1449.828,1450.944,You say they -- they don't get this--
+2009.08-810,0,39797,robert_a_long_jr,,1450.944,1466.67,"--If you said to the current employees -- I mean, basically, Mr. Frommert, to take him as an example, he's -- I mean, if someone who is otherwise similarly situated to him had just kept working for Xerox, they would not have needed the insurance policy, either."
+2009.08-810,0,15084,ruth_bader_ginsburg,scotus_justice,1485.601,1490.636,"--So some kind of equal protection, that another worker will say: I didn't get that boon that my--"
+2009.08-810,0,39797,robert_a_long_jr,,1490.636,1491.238,--Exactly.
+2009.08-810,0,15084,ruth_bader_ginsburg,scotus_justice,1492.721,1499.308,--But there's no -- no -- nothing -- no deduction from the current workforce.
+2009.08-810,0,39797,robert_a_long_jr,,1504.812,1505.095,--Yes.
+2009.08-810,0,15049,antonin_scalia,scotus_justice,1517.103,1525.126,"One -- well, I thought you said what this affects is just the floor; it doesn't affect the level of the -- of the defined contribution."
+2009.08-810,0,39797,robert_a_long_jr,,1525.126,1527.661,"--Absolutely, Justice Scalia, the defined contribution."
+2009.08-810,0,15086,john_g_roberts_jr,scotus_justice,1558.48,1559.215,"Thank you, Mr. Long."
+2009.08-810,1,38345,peter_k_stris,,1568.405,1575.225,"Thank you, Mr. Chief Justice, and may it please the Court: After hearing Mr. Long, I'd like to address my remarks to two broad areas."
+2009.08-810,1,15068,samuel_a_alito_jr,scotus_justice,1618.67,1630.911,"But even if the -- even if no deference was owed to the administrator, could you explain why the task for the district court was not then simply to interpret what the plan means?"
+2009.08-810,1,38345,peter_k_stris,,1656.094,1656.463,--Yes.
+2009.08-810,1,15086,john_g_roberts_jr,scotus_justice,1790.549,1793.335,"Counsel, if I could switch to the deference point."
+2009.08-810,1,38345,peter_k_stris,,1814.081,1824.287,"The position I -- I would take: I think if they did them at the same time -- it's a difficult question -- I think they would, because I think if you give them at the same time and you admit that there is an ambiguity, you're giving the court options."
+2009.08-810,1,15086,john_g_roberts_jr,scotus_justice,1837.911,1848.218,"No, but I think it's kind of odd to say to the administrator: Look, if you want discretion, you should make as many rulings as you can possibly think of because then you'll get discretion as to each of them."
+2009.08-810,1,38345,peter_k_stris,,1854.372,1857.241,"--No, I -- I don't -- well, I guess I would give two answers to that."
+2009.08-810,1,15086,john_g_roberts_jr,scotus_justice,1919.315,1925.736,So you're saying it's not just that they abused their discretion; they're discretion abusers?
+2009.08-810,1,38345,peter_k_stris,,1928.838,1929.554,No.
+2009.08-810,1,15086,john_g_roberts_jr,scotus_justice,1930.454,1931.737,We do that with the district court.
+2009.08-810,1,38345,peter_k_stris,,1940.243,1940.51,--Right.
+2009.08-810,1,15086,john_g_roberts_jr,scotus_justice,1940.51,1941.16,--They're the fact finder.
+2009.08-810,1,38345,peter_k_stris,,1944.595,1955.902,"And -- and this is the core answer to your question: That is why the law, under the common law of trusts, said that once there was a finding by a court of abuse of discretion, it could decide to defer."
+2009.08-810,1,15068,samuel_a_alito_jr,scotus_justice,2023.48,2039.672,"Well, if this is a discretionary decision for the court that finds the initial abuse of discretion by the administrator, what are the factors -- what are the relevant factors in determining whether the administrator should get a second shot and which ones are present in this case?"
+2009.08-810,1,38345,peter_k_stris,,2039.672,2040.006,Okay.
+2009.08-810,1,15049,antonin_scalia,scotus_justice,2085.636,2086.436,It's not the same question.
+2009.08-810,1,38345,peter_k_stris,,2096.425,2097.027,"Oh, I -- I--"
+2009.08-810,1,15049,antonin_scalia,scotus_justice,2097.027,2097.927,So it's a different question.
+2009.08-810,1,38345,peter_k_stris,,2120.207,2123.242,"--Yes, I -- I wouldn't exactly say that."
+2009.08-810,1,15049,antonin_scalia,scotus_justice,2123.242,2124.675,"That -- now, that would be a totally different case."
+2009.08-810,1,38345,peter_k_stris,,2124.675,2124.908,Yes.
+2009.08-810,1,15049,antonin_scalia,scotus_justice,2125.342,2126.194,But I didn't read it that way.
+2009.08-810,1,38345,peter_k_stris,,2126.194,2126.41,--No.
+2009.08-810,1,15049,antonin_scalia,scotus_justice,2146.938,2147.823,That's a little different.
+2009.08-810,1,38345,peter_k_stris,,2147.823,2149.956,"Now, to the last point you made about it's a different issue."
+2009.08-810,1,15139,stephen_g_breyer,scotus_justice,2171.069,2186.228,"Why -- why -- as I understand it -- which big if -- you and I are both working at Xerox, and in year 1 -- and we each have 500,000 in our contribution account, and you leave, and you take the 500,000."
+2009.08-810,1,38345,peter_k_stris,,2196.27,2196.886,--Or -- or you may spend it.
+2009.08-810,1,15139,stephen_g_breyer,scotus_justice,2196.886,2197.553,Okay.
+2009.08-810,1,38345,peter_k_stris,,2202.84,2203.84,"During my time, it--"
+2009.08-810,1,15139,stephen_g_breyer,scotus_justice,2203.84,2208.958,"So, when figuring the floor, what Xerox does is look to see how much it grew."
+2009.08-810,1,38345,peter_k_stris,,2271.381,2272.148,--Okay.
+2009.08-810,1,15139,stephen_g_breyer,scotus_justice,2272.148,2282.606,So I think that's why they think it's either an abuse of discretion or you should have listened more to the -- to the expert -- should have done something else.
+2009.08-810,1,38345,peter_k_stris,,2282.606,2284.023,I -- I understand that entirely.
+2009.08-810,1,15086,john_g_roberts_jr,scotus_justice,2344.413,2344.98,I'm sorry.
+2009.08-810,1,38345,peter_k_stris,,2348.964,2349.581,--I don't think so.
+2009.08-810,1,15086,john_g_roberts_jr,scotus_justice,2384.038,2386.073,"Well, they chose to take it out of that plan, right?"
+2009.08-810,1,38345,peter_k_stris,,2386.073,2387.173,--I actually think that's not true.
+2009.08-810,1,15049,antonin_scalia,scotus_justice,2433.751,2434.085,Excuse me.
+2009.08-810,1,38345,peter_k_stris,,2438.889,2446.411,"--I'm saying that, when the court of appeals sent it back to the district court, the district court never even considered sending it to the administrator because there would be no reason to do that."
+2009.08-810,1,15086,john_g_roberts_jr,scotus_justice,2477.614,2484.101,"Well, since that's a fairly stark disagreement among counsel on a factual matter, where in the record do you see 5 years?"
+2009.08-810,1,38345,peter_k_stris,,2484.101,2487.738,--Pages -- pages 29a and 30a of the petition appendix.
+2009.08-810,1,15086,john_g_roberts_jr,scotus_justice,2515.055,2516.924,"It put in the words ""phantom account""?"
+2009.08-810,1,38345,peter_k_stris,,2516.924,2520.709,It put in the words '89 restatement.
+2009.08-810,1,15049,antonin_scalia,scotus_justice,2650.586,2651.369,We can handle those facts--
+2009.08-810,1,15113,anthony_m_kennedy,scotus_justice,2651.369,2651.953,They have not had--
+2009.08-810,1,15049,antonin_scalia,scotus_justice,2651.953,2654.638,--We can handle those facts just as easily as the district court.
+2009.08-810,1,38345,peter_k_stris,,2654.638,2655.188,Of course.
+2009.08-810,1,15049,antonin_scalia,scotus_justice,2655.188,2657.923,We -- we don't have to look at the witness's demeanor.
+2009.08-810,1,38345,peter_k_stris,,2657.923,2658.609,That's true.
+2009.08-810,1,15049,antonin_scalia,scotus_justice,2659.692,2665.16,"I mean, just because a decision has some factual basis -- every decision has some factual basis."
+2009.08-810,1,38345,peter_k_stris,,2670.981,2671.933,I agree with you.
+2009.08-810,1,15049,antonin_scalia,scotus_justice,2673.866,2677.654,"Why do you keep stressing that -- you know, the district court was there and saw these facts?"
+2009.08-810,1,38345,peter_k_stris,,2678.204,2680.137,Oh -- ohh -- here's why I think it's -- I was unclear.
+2009.08-810,1,15086,john_g_roberts_jr,scotus_justice,2707.673,2711.708,"But defer doesn't mean uphold in every circumstance, does it?"
+2009.08-810,1,38345,peter_k_stris,,2711.708,2712.91,--No.
+2009.08-810,1,15086,john_g_roberts_jr,scotus_justice,2713.91,2717.212,"Okay, well, then I don't think it's proper to say they can choose not to defer."
+2009.08-810,1,38345,peter_k_stris,,2720.663,2723.515,"--Oh, that's true, Your Honor, but that's flatly not happened at trust law."
+2009.08-810,1,15086,john_g_roberts_jr,scotus_justice,2756.819,2760.187,"Just so I understand, there are two different views."
+2009.08-810,1,38345,peter_k_stris,,2773.781,2774.914,May I answer that?
+2009.08-810,1,15086,john_g_roberts_jr,scotus_justice,2774.914,2775.714,"Well, sure."
+2009.08-810,1,38345,peter_k_stris,,2777.149,2777.983,Okay.
+2009.08-810,1,15086,john_g_roberts_jr,scotus_justice,2791.743,2792.226,Right.
+2009.08-810,1,38345,peter_k_stris,,2792.226,2794.694,"I'm saying that was not the law, that has never been the law."
+2009.08-810,1,15086,john_g_roberts_jr,scotus_justice,2804.966,2807.602,They don't even need to accept a brief from the plan administrator--
+2009.08-810,1,38345,peter_k_stris,,2807.602,2810.954,"--I don't think it would ever happen, but that's how it worked at trust law."
+2009.08-810,1,15086,john_g_roberts_jr,scotus_justice,2814.022,2814.472,"--Thank you, counsel."
+2009.08-810,2,36594,matthew_d_roberts,,2824.994,2837.401,"Mr. Chief Justice, and may it please the Court: When a plan administrator has abused its discretion in construing plan terms, courts are not required to defer to the plan administrator's fallback interpretation of the same terms."
+2009.08-810,2,15049,antonin_scalia,scotus_justice,2855.697,2857.799,What if I don't think it's the same terms?
+2009.08-810,2,36594,matthew_d_roberts,,2857.799,2865.869,"If you don't think it's the same terms, that would present a -- a different question about whether deference was required."
+2009.08-810,2,15086,john_g_roberts_jr,scotus_justice,2935.113,2937.899,What about the hypothetical I asked your friend?
+2009.08-810,2,36594,matthew_d_roberts,,2948.523,2949.14,No.
+2009.08-810,2,15086,john_g_roberts_jr,scotus_justice,2949.607,2950.373,No deference on B?
+2009.08-810,2,36594,matthew_d_roberts,,2950.373,2956.729,--We think there would be no difference on B if it was just a second reading of the same -- of the same term.
+2009.08-810,2,15086,john_g_roberts_jr,scotus_justice,2957.413,2958.079,Does that make sense?
+2009.08-810,2,36594,matthew_d_roberts,,2963.466,2976.09,"--You want the administrators to give their most reasonable interpretation, but under the logic of letting them be able to put the first interpretation there, they could just put a list of 10 interpretations--"
+2009.08-810,2,15086,john_g_roberts_jr,scotus_justice,2976.09,2976.557,"Yes, they can--"
+2009.08-810,2,36594,matthew_d_roberts,,2976.557,2977.709,--starting with the one that's most favorable.
+2009.08-810,2,15086,john_g_roberts_jr,scotus_justice,2977.709,2979.209,--They can -- they can take it to the extreme.
+2009.08-810,2,36594,matthew_d_roberts,,2989.617,3001.158,Then a court might choose to defer if it thought there was no reason to think that there was -- that there was a reason to suspect that they're just trying--
+2009.08-810,2,15113,anthony_m_kennedy,scotus_justice,3001.158,3002.307,"You're being careful not to not to say ""bad faith""."
+2009.08-810,2,36594,matthew_d_roberts,,3003.507,3005.176,"--No, they wouldn't have to find bad faith."
+2009.08-810,2,15113,anthony_m_kennedy,scotus_justice,3005.176,3007.478,I'm looking for -- I'm still not sure of the standard.
+2009.08-810,2,36594,matthew_d_roberts,,3007.478,3009.245,The standard would be--
+2009.08-810,2,15113,anthony_m_kennedy,scotus_justice,3009.245,3016.517,"I'm the district judge, and I want to defer in -- in case A and not in case B."
+2009.08-810,2,36594,matthew_d_roberts,,3017.384,3044.084,"--Ordinarily, if we are talking about they have put forward an interpretation, now they want to put forward a fallback interpretation, generally, if -- generally, if they have -- haven't put that forward before, we think that deference wouldn't be appropriate, because they had the opportunity to address the issue, and the unreasonableness of the initial interpretation suggests that they may not act reasonably on remand."
+2009.08-810,2,15086,john_g_roberts_jr,scotus_justice,3044.818,3046.436,--So one strike and you're out?
+2009.08-810,2,36594,matthew_d_roberts,,3046.436,3047.47,--No.
+2009.08-810,2,15086,john_g_roberts_jr,scotus_justice,3048.055,3050.772,"I mean, that's assuming, it seems to me -- it makes sense if there's bad faith."
+2009.08-810,2,36594,matthew_d_roberts,,3050.772,3051.707,--According--
+2009.08-810,2,15086,john_g_roberts_jr,scotus_justice,3051.707,3053.107,"I mean, you make fallback arguments."
+2009.08-810,2,36594,matthew_d_roberts,,3057.161,3065.767,"--That's right, and -- but there are -- there are concerns here about undermining ERISA's protections for plan participants that--"
+2009.08-810,2,15084,ruth_bader_ginsburg,scotus_justice,3065.767,3077.825,"Mr. Roberts, I thought you said in this -- in this case -- and we're only dealing with this case -- there was the same basic problem, the same flaw in the second interpretation."
+2009.08-810,2,36594,matthew_d_roberts,,3083.828,3084.811,--That's right.
+2009.08-810,2,15068,samuel_a_alito_jr,scotus_justice,3100.571,3109.527,"Then I don't understand what the purpose of the remand from the Second Circuit to the district court, after the Second Circuit's first decision, was."
+2009.08-810,2,36594,matthew_d_roberts,,3123.085,3123.418,"Well, I don't--"
+2009.08-810,2,15068,samuel_a_alito_jr,scotus_justice,3123.418,3124.537,So that interprets the plan.
+2009.08-810,2,36594,matthew_d_roberts,,3125.603,3130.005,--I don't know that the -- that the court of appeals actually found that the first time around.
+2009.08-810,2,15068,samuel_a_alito_jr,scotus_justice,3138.61,3148.132,"I understand you to be saying that the concept of any appreciation of that amount based on the time value of money is invalid, because there wasn't proper notice for that."
+2009.08-810,2,36594,matthew_d_roberts,,3152.634,3166.677,"Well, I -- we -- we think in most cases, it would have been an abuse of discretion for the district court in light of the lack of notice in the summary plan description to apply an appreciated offset."
+2009.08-810,2,15049,antonin_scalia,scotus_justice,3224.799,3245.795,"So, in principle, if -- if we accept your argument, if other retirees who are later rehired bring a lawsuit in another court, you might have a different result because it would be up to the -- up to that court to decide what was -- what was a proper result, right?"
+2009.08-810,2,36594,matthew_d_roberts,,3245.795,3246.212,In the--
+2009.08-810,2,15049,antonin_scalia,scotus_justice,3246.212,3249.164,That's the consequence of not deferring to the plan administrator.
+2009.08-810,2,36594,matthew_d_roberts,,3250.014,3259.97,"--If the plan -- if the plan terms -- in an ordinary case, if there was an abuse of discretion in interpreting the plan terms, the plan terms would still address the issue."
+2009.08-810,2,15139,stephen_g_breyer,scotus_justice,3284.567,3286.317,It's a pretty big windfall for people.
+2009.08-810,2,36594,matthew_d_roberts,,3300.594,3308.35,"I don't think it's a windfall, Your Honor, because it depends on what the employees were promised when they were deciding whether to come back--"
+2009.08-810,2,15139,stephen_g_breyer,scotus_justice,3308.35,3309.733,"Well, why would anyone promise them that kind of a deal?"
+2009.08-810,2,36594,matthew_d_roberts,,3309.733,3333.598,"--Well -- first of all, when you've got a defined benefit plan and defined contribution plan, there's no requirement in ERISA, and employers frequently -- or at least, sometimes, would not offset the defined contribution benefits from the defined benefit plan, and even in a flooroffset arrangement, where they would, an employer could provide less than the full amount--"
+2009.08-810,2,15139,stephen_g_breyer,scotus_justice,3333.598,3341.435,"What about -- a bit more serious question -- I mean, that is a serious question, but the more general question, what about something that is analogous to Skidmore deference?"
+2009.08-810,2,36594,matthew_d_roberts,,3341.435,3342.868,"--Oh, God."
+2009.08-810,2,15139,stephen_g_breyer,scotus_justice,3342.868,3343.351,So you say--
+2009.08-810,2,36594,matthew_d_roberts,,3353.39,3353.89,Well--
+2009.08-810,2,15139,stephen_g_breyer,scotus_justice,3353.89,3355.159,He has to listen to it.
+2009.08-810,2,15049,antonin_scalia,scotus_justice,3355.159,3356.225,--Can we go back to the urns?
+2009.08-810,2,36594,matthew_d_roberts,,3359.277,3364.93,"--Well, that's essentially -- that's essentially the -- the principle that we're -- that we're talking about--"
+2009.08-810,2,15139,stephen_g_breyer,scotus_justice,3364.93,3365.73,"That is essentially the principle, I thought."
+2009.08-810,2,36594,matthew_d_roberts,,3365.73,3368.882,--The court's not required to apply its use of discretion and--
+2009.08-810,2,15139,stephen_g_breyer,scotus_justice,3368.882,3369.332,But he does have to read it.
+2009.08-810,2,36594,matthew_d_roberts,,3370.001,3370.484,--review again.
+2009.08-810,2,15139,stephen_g_breyer,scotus_justice,3370.484,3372.651,"--Read it, and take it for what it's worth."
+2009.08-810,2,15086,john_g_roberts_jr,scotus_justice,3372.651,3373.636,So if--
+2009.08-810,2,36594,matthew_d_roberts,,3373.636,3376.572,"Well, it's -- I think any responsible district court would -- would do that."
+2009.08-810,2,15139,stephen_g_breyer,scotus_justice,3376.572,3378.774,You don't think they would -- you think they would do that?
+2009.08-810,2,36594,matthew_d_roberts,,3378.774,3379.14,They would do that.
+2009.08-810,2,15139,stephen_g_breyer,scotus_justice,3379.14,3379.624,Yes.
+2009.08-810,2,36594,matthew_d_roberts,,3380.024,3380.44,Of course.
+2009.08-810,2,15086,john_g_roberts_jr,scotus_justice,3380.44,3381.474,--So you disagree with Mr. Stris.
+2009.08-810,2,36594,matthew_d_roberts,,3384.678,3400.021,"Well, I think that, in trust law, that -- under the principles of trust law, that Mr. Stris is correct, that the district court has the -- the -- the court would have discretion to formulate the remedy and could direct the trustee--"
+2009.08-810,2,15084,ruth_bader_ginsburg,scotus_justice,3400.021,3400.988,"Is it -- is it -- Mr. Roberts, is it a remedy?"
+2009.08-810,2,36594,matthew_d_roberts,,3433.242,3451.953,"--In a benefits action, the first question is to interpret the plan, but what you have here is a plan that is silent and a plan that -- where interpreting the plan to provide for a certain kind of offset, there is inadequate notice in the summary plan description, so there's a violation of ERISA."
+2009.08-810,2,15049,antonin_scalia,scotus_justice,3465.13,3467.748,"Well, we interpret gaps in -- in documents all the time."
+2009.08-810,2,36594,matthew_d_roberts,,3478.971,3494.149,"When -- the analogy here is to the trust law situation, where trusts -- where -- where courts modify the terms of a trust because the terms are illegal or there's a change of circumstances, like the cy pres doctrine."
+2009.08-810,2,15086,john_g_roberts_jr,scotus_justice,3494.149,3494.499,"Thank you, counsel."
+2009.08-810,3,39797,robert_a_long_jr,,3497.267,3501.386,The remaining plan terms are not silent.
+2009.08-810,3,15049,antonin_scalia,scotus_justice,3646.862,3654.951,But the court of appeals held that this one was inadequate because it did not say that you were going to take into account the time value of money.
+2009.08-810,3,39797,robert_a_long_jr,,3660.687,3667.525,"--Well, if the court had actually held that -- I mean, I would urge you not to read the court's opinion that way."
+2009.08-810,3,15084,ruth_bader_ginsburg,scotus_justice,3701.098,3722.095,"Mr. Long, would you -- would you explain your position on the picture we were given of these people who were rehired and -- and they get, periodically, a statement that says, you are going to get 2,000-some-odd dollars; and then, 5 years later, they get a statement that says, no, it's only $5.18, or something like that."
+2009.08-810,3,39797,robert_a_long_jr,,3722.095,3730.868,"--Right, and -- and those statements, which are non-plan documents, said there -- there may be an adjustment or there will be an adjustment for prior distributions."
+2009.08-810,3,15084,ruth_bader_ginsburg,scotus_justice,3741.89,3743.091,And not even about why -- why it was $5.
+2009.08-810,3,39797,robert_a_long_jr,,3753.031,3763.422,"Well, because those -- those particular forms, which again are not plan documents and he really should show individual reliance and prejudice, didn't do the calculation."
+2009.08-810,3,15086,john_g_roberts_jr,scotus_justice,3768.057,3768.524,"Thank you, counsel."

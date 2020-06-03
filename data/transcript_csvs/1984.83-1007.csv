@@ -1,0 +1,92 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1984.83-1007,0,15073,warren_e_burger,scotus_justice,0.0,85.337,"Mr. Savage, I think you may begin whenever you're ready."
+1984.83-1007,0,36695,michael_d_savage,,85.337,102.199,"Mr. Chief Justice, and may it please the Court, this case is about one small restriction on the power of the IRS to investigate people, the John Doe summons rules of Section 7609(f)."
+1984.83-1007,0,15092,sandra_day_oconnor,scotus_justice,138.139,157.218,"Mr. Savage, does 7609(f), the John Doe summons procedure, apply only to summons to the people who are third party record keepers, as defined in 7609(a)?"
+1984.83-1007,0,36695,michael_d_savage,,157.218,158.218,"No, Your Honor."
+1984.83-1007,0,15045,harry_a_blackmun,scotus_justice,514.151,518.603,"Mr. Savage, is it not for us to determine what the purpose was?"
+1984.83-1007,0,36695,michael_d_savage,,527.543,541.986,"--What the Second Circuit Court of Appeals did, Your Honor, was: It said if a purpose of this summons was to audit Tiffany Fine Arts, we don't care whether there were any other purposes."
+1984.83-1007,0,15045,harry_a_blackmun,scotus_justice,584.213,590.034,"You are willing, I understand, to give the Service everything it wants except the identification of your clients."
+1984.83-1007,0,36695,michael_d_savage,,590.034,593.753,That is correct.
+1984.83-1007,0,15060,john_paul_stevens,scotus_justice,593.753,611.715,"May I ask, under your reading of the statute, I'm not sure you aren't suggesting it should read identify not just person or persons, but I think all of the persons is really the meaning you would read into it, I think, that proves identity... I mean the summons issued."
+1984.83-1007,0,36695,michael_d_savage,,640.332,643.667,"Our experience, Your Honor, is that they get it."
+1984.83-1007,0,15060,john_paul_stevens,scotus_justice,644.386,648.071,"Well, of course, under the Court of Appeals holding, they don't have any trouble."
+1984.83-1007,0,36695,michael_d_savage,,651.94,652.556,"I'm sorry, Your Honor."
+1984.83-1007,0,15060,john_paul_stevens,scotus_justice,653.958,660.879,"I understand that under the Court of Appeals interpretation of the statute, they will get these names if it's a secondary purpose."
+1984.83-1007,0,36695,michael_d_savage,,676.305,683.077,"Under my interpretation of the statute, if all they had was a hunch, then no, they couldn't get the names of these people."
+1984.83-1007,0,15060,john_paul_stevens,scotus_justice,695.135,702.055,"But, presumably, if they get the names, they would then go to those people and take... examine their returns and see if there is any reason for going further."
+1984.83-1007,0,36695,michael_d_savage,,706.607,723.385,"--I'm saying that what 7609(f) says is that if they don't have any basis for auditing these people, they may have not... people who they don't know... we are only talking about people whose identities are unknown to the Service."
+1984.83-1007,0,15060,john_paul_stevens,scotus_justice,862.787,864.104,"Well, is that quite right?"
+1984.83-1007,0,36695,michael_d_savage,,873.076,876.094,--Banks are covered by Section 7609(a).
+1984.83-1007,0,15092,sandra_day_oconnor,scotus_justice,940.637,978.579,"--Mr. Savage, if you were correct on your interpretation, and if the IRS went through the John Doe proceedings before the court and failed to prove that it harbored a reasonable suspicion, as provided by subsection (f), then what could the IRS review of Tiffany's own records thereafter to determine the questions that it might have concerning the proper reporting by Tiffany of its income from licensees... what would it do to verify that?"
+1984.83-1007,0,36695,michael_d_savage,,978.579,987.285,"--For example, to take the case of Tiffany, Agent Lewis said that he wanted to review the underlying license agreement."
+1984.83-1007,0,15092,sandra_day_oconnor,scotus_justice,990.486,992.588,With the names of the licensees deleted?
+1984.83-1007,0,36695,michael_d_savage,,993.355,997.492,"Well, the addresses and the Social Security numbers of the licensees deleted."
+1984.83-1007,0,15092,sandra_day_oconnor,scotus_justice,1010.567,1026.06,"--You get into some curious questions about how the IRS might be able to follow up adequately on the liability of, for example, Tiffany itself, under your view."
+1984.83-1007,0,36695,michael_d_savage,,1026.06,1036.534,"--It shouldn't... I have to concede, Your Honor, that that problem may arise in a very limited number of cases."
+1984.83-1007,0,15071,byron_r_white,scotus_justice,1282.058,1298.051,"I take it that, does the government... do you understand the government to concede that if Tiffany had not been under audit, that it could not have summoned Tiffany to produce the names of its customers without going through the John Doe procedure?"
+1984.83-1007,0,36695,michael_d_savage,,1298.051,1301.855,I presume the government would concede that; yes.
+1984.83-1007,0,15071,byron_r_white,scotus_justice,1305.074,1320.583,But do you think that getting the names of the customers and investigating the customers would help the government determine Tiffany's obligation?
+1984.83-1007,0,36695,michael_d_savage,,1345.801,1354.739,That would not really be a summons issued with respect to the tax liability of Tiffany.
+1984.83-1007,0,15071,byron_r_white,scotus_justice,1354.739,1355.572,It wouldn't?
+1984.83-1007,0,36695,michael_d_savage,,1355.572,1358.958,"That would be... well, except to the extent that Tiffany--"
+1984.83-1007,0,15071,byron_r_white,scotus_justice,1358.958,1359.741,"Why, if they're under audit?"
+1984.83-1007,0,36695,michael_d_savage,,1359.741,1360.31,--might be subject to it.
+1984.83-1007,0,15071,byron_r_white,scotus_justice,1360.31,1361.693,Would it help... I'll put it this way.
+1984.83-1007,0,36695,michael_d_savage,,1365.195,1380.455,"Certainly, the government, no doubt, would find it useful to have the identities of the clients in order to... perhaps, in order to verify the correctness of the tax liability of Tiffany."
+1984.83-1007,0,15071,byron_r_white,scotus_justice,1405.488,1407.605,"Well, if it knows who they are."
+1984.83-1007,0,36695,michael_d_savage,,1407.605,1425.567,"Even when it knows who they are, in my experience... in my experience, they verify the income based on the records they have before them when they have to reconstruct income, for example, or when they think that there's fraud involved and they need witnesses."
+1984.83-1007,0,15071,byron_r_white,scotus_justice,1431.821,1433.157,If they know who they are.
+1984.83-1007,0,36695,michael_d_savage,,1433.157,1435.359,If they know who they are.
+1984.83-1007,0,15071,byron_r_white,scotus_justice,1453.986,1457.705,But I guess the Court of Appeals didn't proceed on this basis anyway.
+1984.83-1007,0,36695,michael_d_savage,,1461.49,1465.211,The Court of Appeals said we don't really care if there's a dual purpose.
+1984.83-1007,0,15071,byron_r_white,scotus_justice,1465.211,1483.34,"And so that even if the IRS wanted the names of the customers, wholly aside from its audit of Tiffany, the Court of Appeals held they were entitled to get it."
+1984.83-1007,0,36695,michael_d_savage,,1483.34,1483.956,That's correct.
+1984.83-1007,0,15092,sandra_day_oconnor,scotus_justice,1492.626,1500.316,"Mr. Savage, Tiffany raised the issue of relevance below, did it not?"
+1984.83-1007,0,36695,michael_d_savage,,1508.737,1513.289,I don't... we didn't intend to raise the issue.
+1984.83-1007,0,15092,sandra_day_oconnor,scotus_justice,1513.289,1513.775,I see.
+1984.83-1007,0,36695,michael_d_savage,,1513.775,1523.597,"We might have said, we argued below that the government didn't really need this information to complete its audit of Tiffany, but we didn't challenge the relevancy."
+1984.83-1007,0,15060,john_paul_stevens,scotus_justice,1533.62,1560.872,"Excuse me for going back to the statutory language again, but I keep rereading this darn statute, and I just confess that even if you read it your way and say the person or persons, and assume there's a bunch of unidentified persons, and then you go around the one, two, and three, it still does relate to the investigation of a particular person, namely, your client, and there is reason perhaps for believing that person hasn't paid all his taxes and the information contained with him would relate to his liability."
+1984.83-1007,0,36695,michael_d_savage,,1582.636,1587.689,"The one, two, and three goes to what the court was... goes to what the IRS has to demonstrate to the court."
+1984.83-1007,0,15060,john_paul_stevens,scotus_justice,1587.689,1588.173,In court.
+1984.83-1007,0,36695,michael_d_savage,,1605.818,1610.436,"I think if you read the statute that way, there is not much--"
+1984.83-1007,0,15060,john_paul_stevens,scotus_justice,1610.436,1611.003,That's what it says.
+1984.83-1007,0,36695,michael_d_savage,,1692.94,1694.892,--Which says that the summons relates to the investigation.
+1984.83-1007,0,15060,john_paul_stevens,scotus_justice,1745.742,1746.142,Right.
+1984.83-1007,0,36695,michael_d_savage,,1747.475,1749.143,Now the IRS is coming into--
+1984.83-1007,0,15060,john_paul_stevens,scotus_justice,1749.143,1758.049,"And they say our summons is... we want to investigate the tax liability of (a) Tiffany, whom we know; and (b) Mr. X, whom we do not know."
+1984.83-1007,0,36695,michael_d_savage,,1758.049,1768.674,"--Ah ha, but then you look at paragraph 3 which says that the information sought to be obtained from the examination of the records is not readily available from other sources."
+1984.83-1007,0,15060,john_paul_stevens,scotus_justice,1768.674,1771.642,The information sought to be obtained is available.
+1984.83-1007,0,36695,michael_d_savage,,1771.642,1779.982,And the identify of the person or persons with respect to whose liability the summons is issued is not readily available.
+1984.83-1007,0,15071,byron_r_white,scotus_justice,1799.809,1810.167,"Well, all the argument is then that the government could easily satisfy the John Doe proceedings, the John Doe summons."
+1984.83-1007,0,36695,michael_d_savage,,1813.869,1816.321,Relates to the investigation of Tiffany.
+1984.83-1007,0,15071,byron_r_white,scotus_justice,1816.321,1819.44,So why have they got an objection to going through the procedure?
+1984.83-1007,0,36695,michael_d_savage,,1819.44,1829.946,"If the statute could be read that way, and then there wouldn't be any purpose for the statute at all, obviously."
+1984.83-1007,0,15060,john_paul_stevens,scotus_justice,1832.264,1835.716,There would be if they weren't investigating Tiffany's tax liability.
+1984.83-1007,0,36695,michael_d_savage,,1852.428,1852.778,No.
+1984.83-1007,0,15141,william_h_rehnquist,scotus_justice,1858.915,1862.636,"Wasn't that really what Congress was concerned in, in passing the statute?"
+1984.83-1007,0,36695,michael_d_savage,,1880.68,1885.482,"--Or, not knowing who that person was, to have the court take a look at the summons."
+1984.83-1007,0,15073,warren_e_burger,scotus_justice,1919.703,1923.071,"Your time has expired now, Mr. Savage."
+1984.83-1007,0,36695,michael_d_savage,,1923.071,1923.721,I was just going to finish answering the question.
+1984.83-1007,0,15073,warren_e_burger,scotus_justice,1928.107,1930.075,Mr. Wallace.
+1984.83-1007,1,35240,lawrence_g_wallace,,1930.075,1946.167,"Mr. Chief Justice, and may it please the Court, our starting point in this case is to point out that this is not a third party summons in this case."
+1984.83-1007,1,15092,sandra_day_oconnor,scotus_justice,2091.126,2098.966,"So the names, the bare names, as opposed to the transactions or licenses or agreements would be relevant?"
+1984.83-1007,1,35240,lawrence_g_wallace,,2099.532,2102.684,"--Well, I haven't quite finished the reasons, if I may."
+1984.83-1007,1,15071,byron_r_white,scotus_justice,2308.053,2320.61,"--Mr. Wallace, let's just assume that the names of the customers were completely irrelevant to Tiffany's audit or Tiffany's liability, and that Tiffany said, well, why do you want these names?"
+1984.83-1007,1,35240,lawrence_g_wallace,,2332.918,2357.985,"That would be a third party summons with respect to that request, but what I pointed out is that that... the question whether the request for that information was properly producible as a taxpayer... as part of the taxpayer summons... is precisely what was litigated below and upheld by concurrent factual findings of both courts below in this case; that that information did fit the Powell criteria in this case."
+1984.83-1007,1,15071,byron_r_white,scotus_justice,2357.985,2367.757,Do you suggest... do you say that... judge this case on the basis that the names of the customers were relevant to the investigation of Tiffany?
+1984.83-1007,1,35240,lawrence_g_wallace,,2367.757,2368.224,That's right.
+1984.83-1007,1,15071,byron_r_white,scotus_justice,2372.578,2376.463,"So you would say it would be a third party summons, if in this case--"
+1984.83-1007,1,35240,lawrence_g_wallace,,2376.463,2377.047,That's another--
+1984.83-1007,1,15071,byron_r_white,scotus_justice,2377.047,2380.749,--the names of the customers were wholly irrelevant to the investigation of Tiffany.
+1984.83-1007,1,35240,lawrence_g_wallace,,2380.749,2385.903,--That's another means by which we might try to get the same information for a different purpose.
+1984.83-1007,1,15071,byron_r_white,scotus_justice,2385.903,2386.403,Yes.
+1984.83-1007,1,35240,lawrence_g_wallace,,2386.786,2397.026,"But we proceeded under Section 7602 and we had to make the Powell showing that it was... that it may be relevant to Tiffany's liability, and that's what we made."
+1984.83-1007,1,15071,byron_r_white,scotus_justice,2397.026,2407.066,But it's also... but we also judge the case on the assumption that the IRS may have been interested in the tax liabilities of the customers also.
+1984.83-1007,1,35240,lawrence_g_wallace,,2407.066,2410.018,"Well, the IRS should be interested in everybody's tax liabilities."
+1984.83-1007,1,15060,john_paul_stevens,scotus_justice,2507.682,2510.717,"May I interrupt you, Mr. Wallace, before you get too far into your argument."
+1984.83-1007,1,35240,lawrence_g_wallace,,2557.73,2560.216,I don't think it would change the case.
+1984.83-1007,1,15060,john_paul_stevens,scotus_justice,2647.357,2656.296,"Well... but I'm not sure that's a complete answer, because Congress has said that when you're going after identified taxpayers, you want to follow a little different procedure, maybe not--"
+1984.83-1007,1,35240,lawrence_g_wallace,,2656.296,2679.245,"--Yes, they said... but all of that was said in the context of a third party summons and against legislative history saying that this third party record keeper, who isn't himself under investigation, won't have the incentive to make the claims against enforceability of the summons that are available under the law, and therefore, there should be a safeguard."
+1984.83-1007,1,15060,john_paul_stevens,scotus_justice,3106.989,3123.3,"--May I interrupt you again, Mr. Wallace, with... supposing one paragraph of the subpoena plainly did not relate to Tiffany's liability, but somehow said also the name of the customer who bought a million dollar island in Jamaica or something, if you had some descriptor plainly seeking that person."
+1984.83-1007,1,35240,lawrence_g_wallace,,3132.306,3151.285,"It may be that there would be a part of it that could not prevail under a 7602 proceeding on as meeting the Powell criteria with respect to our audit of Tiffany, and if so, we would have to follow the 7609(f) procedure."
+1984.83-1007,1,15073,warren_e_burger,scotus_justice,3392.426,3393.243,Thank you gentlemen.

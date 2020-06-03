@@ -1,0 +1,333 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2016.15-649,0,15086,john_g_roberts_jr,scotus_justice,0.0,9.07,"We'll hear argument this morning in Case 15-649, Czyzewski v. Jevic Holding Corporation. Ms. Spinelli."
+2016.15-649,0,21594,danielle_spinelli,,9.07,24.335,"Mr. Chief Justice, and may it please the Court: Chapter 11 provides one way to distribute estate assets to creditors on account of their prepetition claims through a confirmed plan that adheres to the code's priority scheme."
+2016.15-649,0,15131,sonia_sotomayor,scotus_justice,58.595,67.685,May I ask you: Did the settlement bar you from suing the debtor for the WARN Act claims?
+2016.15-649,0,21594,danielle_spinelli,,67.685,68.79,"No, it did not."
+2016.15-649,0,15131,sonia_sotomayor,scotus_justice,68.79,71.67,And there was no money left to the debtor.
+2016.15-649,0,21594,danielle_spinelli,,78.65,79.77,It did.
+2016.15-649,0,15131,sonia_sotomayor,scotus_justice,79.77,80.09,It did.
+2016.15-649,0,21594,danielle_spinelli,,80.09,83.27,"It did, Justice Sotomayor, and I think that's -- that's critical."
+2016.15-649,0,15131,sonia_sotomayor,scotus_justice,100.28,102.21,All right.
+2016.15-649,0,21594,danielle_spinelli,,125.39,128.975,"Well, let me -- let me respond to that, Justice Sotomayor."
+2016.15-649,0,15131,sonia_sotomayor,scotus_justice,137.27,138.11,That's fine.
+2016.15-649,0,21594,danielle_spinelli,,139.855,142.515,"Well, that's really up to the bankruptcy court."
+2016.15-649,0,15131,sonia_sotomayor,scotus_justice,142.515,142.91,All right.
+2016.15-649,0,21594,danielle_spinelli,,147.22,160.39,"What we had asked for before, and what may well make the most sense, is conversion to Chapter 7, in which case either the Chapter 7 trustee could pursue the fraudulent-transfer claim --"
+2016.15-649,0,15131,sonia_sotomayor,scotus_justice,160.39,162.26,But there is no money in the estate to do that.
+2016.15-649,0,21594,danielle_spinelli,,163.71,168.11,"The trustee would have to retain contingency counsel, and that does happen."
+2016.15-649,0,15068,samuel_a_alito_jr,scotus_justice,188.405,204.175,There is a difference -- there seems to be a difference between what you have said on this point in your briefs and in your argument this morning and what you told the Third Circuit or what -- did you -- did your firm represent -- appear in the Third Circuit?
+2016.15-649,0,21594,danielle_spinelli,,204.175,206.14,Not until the rehearing stage.
+2016.15-649,0,15068,samuel_a_alito_jr,scotus_justice,206.14,216.495,"Well, in the Third Circuit oral argument, it was said over and over, well, we just want to make sure that the law is filed -- is followed. That's what we are interested in. Isn't that right?"
+2016.15-649,0,21594,danielle_spinelli,,216.495,220.11,We certainly do want to make sure that the law is followed.
+2016.15-649,0,15068,samuel_a_alito_jr,scotus_justice,220.69,229.29,"If you were pressed as to what practical difference the case meant to you and -- and the answer was, we -- you know, we want to uphold the law."
+2016.15-649,0,21594,danielle_spinelli,,229.29,232.24,"Justice Alito, I don't believe that's the case."
+2016.15-649,0,15068,samuel_a_alito_jr,scotus_justice,253.465,268.06,"But can you point to anything you said in the Third Circuit, in writing or orally, that -- along those lines, that you -- that there was some practical course of action that -- that you -- some tangible thing that you were going to pursue?"
+2016.15-649,0,21594,danielle_spinelli,,268.06,285.13,"What we told the Third Circuit is that if this case went back on remand and were converted to Chapter 7, then the fraudulent-transfer action could be pursued."
+2016.15-649,0,15068,samuel_a_alito_jr,scotus_justice,289.29,309.75,Can I ask one other -- one other thing? Something strange seems to have happened between the petition stage and the briefing stage in the case. The question that you asked us to take was whether a bankruptcy court may authorize the distribution of settlement proceeds in a manner that violates the statutory priority scheme.
+2016.15-649,0,21594,danielle_spinelli,,317.56,317.97,Correct.
+2016.15-649,0,15068,samuel_a_alito_jr,scotus_justice,317.97,335.93,"And we took the case. But then the question that you address in your brief refers to ""structured dismissal."" There is nothing about structured dismissal in the question that you asked us to take, and there is no conflict on the question of structured dismissal, is there?"
+2016.15-649,0,21594,danielle_spinelli,,335.93,342.36,"And, Justice Alito, we're not asking this Court to decide the question of whether structured dismissals are valid."
+2016.15-649,0,15068,samuel_a_alito_jr,scotus_justice,345.08,349.245,"Now, you're not asking us to decide the broad question whether there can ever be a structured dismissal."
+2016.15-649,0,21594,danielle_spinelli,,370.245,373.71,We did not change the substance of the question presented.
+2016.15-649,0,15139,stephen_g_breyer,scotus_justice,428.65,429.09,Exactly.
+2016.15-649,0,21594,danielle_spinelli,,447.71,450.42,"The structure of the Code forbids it, Justice Breyer."
+2016.15-649,0,15139,stephen_g_breyer,scotus_justice,450.42,451.73,The structure of the Code --
+2016.15-649,0,21594,danielle_spinelli,,451.73,451.85,If we --
+2016.15-649,0,15139,stephen_g_breyer,scotus_justice,451.85,452.41,-- forbids it.
+2016.15-649,0,21594,danielle_spinelli,,452.41,454.86,If we -- the structure and the text of the Code.
+2016.15-649,0,15094,elena_kagan,scotus_justice,531.47,531.97,Why do you think --
+2016.15-649,0,21594,danielle_spinelli,,531.97,533.31,-- backbone priority scheme.
+2016.15-649,0,15094,elena_kagan,scotus_justice,533.31,540.53,"Why do you think, though, it isn't mentioned someplace in the Code? I mean, did Congress just not think that this might happen?"
+2016.15-649,0,21594,danielle_spinelli,,540.53,541.74,"No, Justice Kagan."
+2016.15-649,0,15084,ruth_bader_ginsburg,scotus_justice,592.85,593.05,There can --
+2016.15-649,0,21594,danielle_spinelli,,593.05,594.24,Only the plan does that.
+2016.15-649,0,15084,ruth_bader_ginsburg,scotus_justice,594.24,597.235,There can be a dismissal. There are three things.
+2016.15-649,0,21594,danielle_spinelli,,609.72,610.575,That's correct.
+2016.15-649,0,15084,ruth_bader_ginsburg,scotus_justice,610.575,622.385,"But -- but now you're saying the -- there are assets, and the Court has to do something about the distribution of those assets."
+2016.15-649,0,21594,danielle_spinelli,,622.385,624.965,"Correct -- correct, Justice Ginsburg."
+2016.15-649,0,15113,anthony_m_kennedy,scotus_justice,658.29,673.58,"But the -- but the Code does say, 349, ""unless the Court, for cause, orders otherwise."" Can you tell us how -- how that is -- what -- what was the likely purpose for that? Because --"
+2016.15-649,0,21594,danielle_spinelli,,673.58,675.11,"Justice Kennedy, what the --"
+2016.15-649,0,15113,anthony_m_kennedy,scotus_justice,675.11,682.62,"-- from the very literal standpoint, it does cover what the Respondents' position is -- is -- is here."
+2016.15-649,0,21594,danielle_spinelli,,694.46,710.03,"Justice Kennedy, what the legislative history tells us is that the ""for cause"" provision in Section 349(b) was intended to protect parties who took actions in reliance on the bankruptcy. And I think it's important to look --"
+2016.15-649,0,15113,anthony_m_kennedy,scotus_justice,710.03,711.645,Can you give me an example?
+2016.15-649,0,21594,danielle_spinelli,,711.645,712.6,I can.
+2016.15-649,0,15113,anthony_m_kennedy,scotus_justice,775.43,789.94,"Well -- well, if -- if fairness is -- is the -- the -- the basis for the for cause order, the Respondent will say, well, this is fair, because most creditors were paid, so whether you -- you can hear the arguments."
+2016.15-649,0,15113,anthony_m_kennedy,scotus_justice,789.94,791.54,"I mean, we just talk about fairness."
+2016.15-649,0,21594,danielle_spinelli,,798.3,806.135,"Yes, Justice Kennedy. Section 349(b) doesn't create that kind of gaping hole in the scheme I just described."
+2016.15-649,0,15086,john_g_roberts_jr,scotus_justice,858.71,859.57,Go ahead.
+2016.15-649,0,21594,danielle_spinelli,,859.57,878.225,"But Section 349(b) doesn't then permit the court to go beyond that and do something that's not contemplated in conjunction with a dismissal at all, but doesn't involve maintaining the status quo, but involves actually distributing assets to creditors in violation of the priority scheme."
+2016.15-649,0,15086,john_g_roberts_jr,scotus_justice,878.225,883.49,"You -- you said that that reading was supported in the legislative history, if I understood you correctly."
+2016.15-649,0,21594,danielle_spinelli,,886.235,896.07,"The legislative history essentially -- there's not a lot of it, but what it essentially says is the bankruptcy courts should use that provision, the cause provision --"
+2016.15-649,0,15086,john_g_roberts_jr,scotus_justice,896.07,900.93,"I mean, I -- where is that? In -- in the -- in the -- a Senate Report? What?"
+2016.15-649,0,21594,danielle_spinelli,,900.93,904.17,"I apologize, Your Honor."
+2016.15-649,0,15086,john_g_roberts_jr,scotus_justice,917.975,918.745,Okay.
+2016.15-649,0,15094,elena_kagan,scotus_justice,920.555,931.165,"May I ask, Ms. Spinelli, just quickly: What's the scope of the holding that you would like us to issue? I suppose this comes back to Justice Alito's question of what's actually on the table."
+2016.15-649,0,21594,danielle_spinelli,,931.165,932.305,Uh-huh.
+2016.15-649,0,15094,elena_kagan,scotus_justice,932.305,942.68,"All settlements? All structured dismissals? Just this particular kind? And if just this particular kind, how would you characterize it?"
+2016.15-649,0,21594,danielle_spinelli,,942.68,953.595,What we think this Court should hold is that settlement proceeds cannot be distributed in violation of priority.
+2016.15-649,0,15094,elena_kagan,scotus_justice,954.42,960.08,So a settlement that is a -- a -- that -- that distributes protest -- proceeds.
+2016.15-649,0,21594,danielle_spinelli,,960.08,960.64,Correct.
+2016.15-649,0,15068,samuel_a_alito_jr,scotus_justice,986.24,992.9,You're saying that -- that there can never be a distribution of estate assets except in compliance with the priorities?
+2016.15-649,0,21594,danielle_spinelli,,992.9,993.905,No.
+2016.15-649,0,15068,samuel_a_alito_jr,scotus_justice,994.65,996.475,One which -- that's not what you just said?
+2016.15-649,0,21594,danielle_spinelli,,996.475,1029.62,"That -- well, let me -- let me qualify what I just said, then. There is one express exception in the code -- that's Section 510 -- provides that claims can be subordinated to other claims under the principles of equitable subordination, which, as this Court said in Noland, are limited to a creditor's bad behavior that harms the estate. There are also some practices that occur in bankruptcy court that -- whose validity I don't think this Court needs to reach."
+2016.15-649,0,15086,john_g_roberts_jr,scotus_justice,1102.97,1112.635,"Thank you, counsel. Ms. Harrington."
+2016.15-649,1,41442,sarah_e_harrington,,1112.635,1131.27,"Thank you, Mr. Chief Justice, and may it please the Court: I'd like to start, if I could, with Justice Kagan's last question, which is: What would we like the Court to hold in this case? We think the Court should hold that a bankruptcy court can never resolve a bankruptcy by ordering the distribution of estate assets in a manner that violates the Code's detailed priority system without the consent of the impaired priority claimholder."
+2016.15-649,1,15086,john_g_roberts_jr,scotus_justice,1131.27,1135.92,You don't even have the extraordinary circumstances exception?
+2016.15-649,1,41442,sarah_e_harrington,,1135.92,1158.93,"No, we don't -- I mean, basically, the extraordinary circumstances exception that the Third Circuit wanted to apply would bring in any case that is administratively insolvent, and that's a large proportion of business bankruptcies. That kind of exception also gives parties the -- the wrong incentive to make essentially self-serving assertions about what they would or would not do if the particular disposition that they desire is not approved."
+2016.15-649,1,15139,stephen_g_breyer,scotus_justice,1158.93,1174.065,"You'd presumably qualify that with the statutory provision that was just mentioned, and my guess was you want to qualify that as well with the -- with this emergency creditor, you know, where you're going to sink the -- the person who has a prepetition was just discussed."
+2016.15-649,1,41442,sarah_e_harrington,,1174.065,1179.26,"Well, the prepetition distributions that were just discussed, I think that -- that does present a separate question that we think --"
+2016.15-649,1,15139,stephen_g_breyer,scotus_justice,1179.26,1179.32,Yeah.
+2016.15-649,1,41442,sarah_e_harrington,,1184.05,1206.63,"Right, but -- so I said that a -- a court could not resolve a case by ordering the distribution of assets that would violate their priority scheme. Now, in our view, ""the priority scheme"" is sort of a broad term that includes both equitable subordination law, subordination principles, which are not applicable here, and also includes the ability of the priority claimholder to consent to impairment of its rights. I think it's important to keep in mind here that the priority claimholders here, Petitioners did not settle."
+2016.15-649,1,15068,samuel_a_alito_jr,scotus_justice,1218.8,1235.49,What would be your principal basis for distinguishing the exception that Ms. Spinelli outlined at the end of her argument from what happened here? I thought your argument was that the priority scheme applies to everything that happens in a Chapter 7 and a Chapter 11.
+2016.15-649,1,41442,sarah_e_harrington,,1235.49,1235.78,Yes.
+2016.15-649,1,15068,samuel_a_alito_jr,scotus_justice,1280.11,1280.51,Ms. Harrington --
+2016.15-649,1,15131,sonia_sotomayor,scotus_justice,1280.51,1280.65,If --
+2016.15-649,1,15068,samuel_a_alito_jr,scotus_justice,1280.65,1282.0,"Yeah, if I could just -- go ahead."
+2016.15-649,1,15131,sonia_sotomayor,scotus_justice,1282.0,1282.37,Please.
+2016.15-649,1,15068,samuel_a_alito_jr,scotus_justice,1282.37,1285.35,There is another logically prior question.
+2016.15-649,1,41442,sarah_e_harrington,,1292.235,1293.01,We think that --
+2016.15-649,1,15068,samuel_a_alito_jr,scotus_justice,1293.01,1295.09,There is nothing in the Code that says that they have to.
+2016.15-649,1,41442,sarah_e_harrington,,1295.09,1302.525,So we think that -- that a bankruptcy court does have to approve a settlement that disposes of a claim held by the estate or asserted against the estate.
+2016.15-649,1,15094,elena_kagan,scotus_justice,1322.99,1331.44,Just to make sure I understand the scope of what you're saying we should decide: Would that also knock out the thing that was approved in Iridium itself?
+2016.15-649,1,41442,sarah_e_harrington,,1331.44,1333.97,"Yes, we think it would."
+2016.15-649,1,15086,john_g_roberts_jr,scotus_justice,1350.245,1354.525,So you don't agree completely with Judge Scirica's dissent?
+2016.15-649,1,41442,sarah_e_harrington,,1354.525,1355.28,We don't.
+2016.15-649,1,15113,anthony_m_kennedy,scotus_justice,1395.415,1411.375,"Can you tell me, just as a matter of practice, of practice and experience, do priority creditors in a settlement, structured settlement agreements, often allow junior creditors to -- to receive something?"
+2016.15-649,1,41442,sarah_e_harrington,,1411.375,1413.07,"Well, they often do in plans."
+2016.15-649,1,15131,sonia_sotomayor,scotus_justice,1449.82,1464.93,"Do you believe that the question presented here did not address the issue before us? Do you see a difference between the question presented that talked about the absolute priority rule as it relates to settlement proceeds and the ""structured dismissal"" here."
+2016.15-649,1,41442,sarah_e_harrington,,1464.93,1465.69,I don't think so.
+2016.15-649,1,15131,sonia_sotomayor,scotus_justice,1477.11,1499.87,"Well, I -- I -- it goes to a more fundamental question, which is, is there a difference or in our ruling whether we say no settlement proceeds can be distributed in violation of the absolute priority rule from a statement that no dismissal, structured dismissal, can be entered in violation of the absolute priority rule."
+2016.15-649,1,41442,sarah_e_harrington,,1499.87,1500.34,I think the --
+2016.15-649,1,15131,sonia_sotomayor,scotus_justice,1500.34,1501.89,I do think there is a difference.
+2016.15-649,1,41442,sarah_e_harrington,,1501.89,1505.29,"Well, I think the -- your first formulation is a little bit broader than the second formulation."
+2016.15-649,1,15084,ruth_bader_ginsburg,scotus_justice,1541.865,1549.495,"Well, how can you have a -- a settlement if it can't be carried out? I mean, if you -- you're saying one thing is the settlement, and that's okay."
+2016.15-649,1,41442,sarah_e_harrington,,1554.205,1558.51,"Well, what the settlement should provide for is basically a liquidation of a claim."
+2016.15-649,1,15068,samuel_a_alito_jr,scotus_justice,1599.71,1600.3,What --
+2016.15-649,1,41442,sarah_e_harrington,,1600.3,1601.26,Go ahead.
+2016.15-649,1,15068,samuel_a_alito_jr,scotus_justice,1601.26,1615.47,What is your response to the argument that your argument regarding Section 103(a) makes the provisions that specifically make the priorities applicable in Chapter 7 and Chapter 11 superfluous?
+2016.15-649,1,41442,sarah_e_harrington,,1615.47,1625.745,"Well, it doesn't, because if you look at those provisions, and one of them is Section 1129(a)(9), and then it's Section, I think, 726 in Chapter 7, they don't just say Section 507 priority scheme applies."
+2016.15-649,1,15068,samuel_a_alito_jr,scotus_justice,1655.7,1657.575,So those are just exception provisions?
+2016.15-649,1,41442,sarah_e_harrington,,1657.575,1664.36,"Exception, but it also sort of tells you what it means to fully -- in -- in the Chapter 11 context, it tells you what it means to pay a priority claimholder."
+2016.15-649,1,15086,john_g_roberts_jr,scotus_justice,1718.345,1719.56,"Thank you, counsel."
+2016.15-649,1,41442,sarah_e_harrington,,1719.56,1722.575,Thank you.
+2016.15-649,1,15086,john_g_roberts_jr,scotus_justice,1722.575,1732.185,Mr. Landau.
+2016.15-649,2,19410,christopher_landau,,1732.185,1745.71,"Thank you, Mr. Chief Justice, and may it please the Court: Petitioners say that the bankruptcy court here was required to reject the settlement that made all other unsecured creditors better off without making Petitioners any worse off."
+2016.15-649,2,15131,sonia_sotomayor,scotus_justice,1753.93,1757.035,You took away -- you took away a legal right from them.
+2016.15-649,2,19410,christopher_landau,,1757.035,1757.95,"Well, Your Honor --"
+2016.15-649,2,15131,sonia_sotomayor,scotus_justice,1757.95,1760.905,They had a legal right to sue Sun Life.
+2016.15-649,2,19410,christopher_landau,,1768.585,1794.135,"And I think the question -- the critical question here is, are we in a -- in a place where the disposition of estate assets was required to comply with the absolute priority rule? This is the absolute gist of the case. By its terms -- I think this goes back to a question that Justice Kagan asked earlier -- the Code speaks to when the absolute priority rule applies in Chapter 11, and it applies to plans."
+2016.15-649,2,15131,sonia_sotomayor,scotus_justice,1824.95,1826.93,I don't know why this is a rare case.
+2016.15-649,2,19410,christopher_landau,,1826.93,1827.52,"Well, it --"
+2016.15-649,2,15131,sonia_sotomayor,scotus_justice,1827.52,1833.99,"I mean, every structured settlement of this kind is trying to exclude one set of creditors."
+2016.15-649,2,19410,christopher_landau,,1833.99,1834.39,No.
+2016.15-649,2,15131,sonia_sotomayor,scotus_justice,1834.84,1845.83,"And this is exactly what this did, and it did it in collusion among the senior and junior creditors to the exclusion of the disfavored creditor."
+2016.15-649,2,19410,christopher_landau,,1845.83,1852.93,"If, in fact, you were to concede -- start saying, well, this is the person who's wearing the white hat, this is the person who's wearing the black hat --"
+2016.15-649,2,15131,sonia_sotomayor,scotus_justice,1852.93,1853.93,I'm not -- I'm not --
+2016.15-649,2,19410,christopher_landau,,1853.93,1854.36,It can't --
+2016.15-649,2,15131,sonia_sotomayor,scotus_justice,1854.36,1854.95,I'm just trying --
+2016.15-649,2,19410,christopher_landau,,1854.95,1855.34,Well -- I don't -- yeah.
+2016.15-649,2,15131,sonia_sotomayor,scotus_justice,1855.34,1857.65,-- to figure out what creates the exception.
+2016.15-649,2,19410,christopher_landau,,1857.65,1867.65,"The narrow legal issue before this Court is simply: Looking at the Code, does the absolute priority rule as such apply outside the context of plans?"
+2016.15-649,2,15139,stephen_g_breyer,scotus_justice,1867.65,1874.215,"You -- you were beginning your first statement -- if you remember, you were just about to give us a special reason, which I wanted to hear."
+2016.15-649,2,19410,christopher_landau,,1874.215,1874.59,Oh.
+2016.15-649,2,15139,stephen_g_breyer,scotus_justice,1895.69,1897.315,I don't see what this has to do with that.
+2016.15-649,2,19410,christopher_landau,,1902.57,1903.18,That's correct.
+2016.15-649,2,15139,stephen_g_breyer,scotus_justice,1903.18,1906.04,-- that's -- this is -- this is an asset of the estate?
+2016.15-649,2,19410,christopher_landau,,1906.04,1906.75,"That's correct, Your Honor."
+2016.15-649,2,15139,stephen_g_breyer,scotus_justice,1906.75,1906.96,All right.
+2016.15-649,2,19410,christopher_landau,,1909.73,1910.04,Right.
+2016.15-649,2,15139,stephen_g_breyer,scotus_justice,1910.04,1912.845,It's a claim against a third party.
+2016.15-649,2,19410,christopher_landau,,1912.845,1913.55,Yes.
+2016.15-649,2,15139,stephen_g_breyer,scotus_justice,1913.55,1914.19,Very well.
+2016.15-649,2,19410,christopher_landau,,1914.19,1914.585,Right.
+2016.15-649,2,15139,stephen_g_breyer,scotus_justice,1914.585,1920.51,"And now there is a person, probably the trustee or a committee, that's going to pursue that claim."
+2016.15-649,2,19410,christopher_landau,,1920.51,1921.235,Correct.
+2016.15-649,2,15139,stephen_g_breyer,scotus_justice,1921.235,1923.35,Then the claim is settled.
+2016.15-649,2,19410,christopher_landau,,1923.35,1923.84,Correct.
+2016.15-649,2,15139,stephen_g_breyer,scotus_justice,1923.84,1931.51,"Now, at least on request when you're in Chapter 11, doesn't the judge, the bankruptcy judge, have to approve that settlement?"
+2016.15-649,2,19410,christopher_landau,,1931.51,1933.38,"Not the settlement, per se."
+2016.15-649,2,15139,stephen_g_breyer,scotus_justice,1933.38,1934.24,No? Why not?
+2016.15-649,2,19410,christopher_landau,,1934.24,1940.74,Because there's no provision in the Code -- this is what we explained in our brief -- that specific -- it's post-1978.
+2016.15-649,2,15139,stephen_g_breyer,scotus_justice,1950.9,1950.93,Ah.
+2016.15-649,2,19410,christopher_landau,,1950.93,1957.145,"-- that requires judicial review of use, sale, or lease of assets."
+2016.15-649,2,15139,stephen_g_breyer,scotus_justice,1962.98,1967.47,"But suppose they had settled it for a dollar, and one of the creditors says, this is all corrupt."
+2016.15-649,2,19410,christopher_landau,,1979.71,1980.54,"Your Honor, the --"
+2016.15-649,2,15139,stephen_g_breyer,scotus_justice,1980.54,1980.97,What happens?
+2016.15-649,2,19410,christopher_landau,,1980.97,1982.69,"Again, this is a Code case, Your Honor."
+2016.15-649,2,15139,stephen_g_breyer,scotus_justice,1983.32,1984.32,I'm not talking about this case.
+2016.15-649,2,19410,christopher_landau,,1986.11,1986.32,Right.
+2016.15-649,2,15139,stephen_g_breyer,scotus_justice,1986.73,1997.835,"There is no power of the -- of the bankruptcy judge to even look at a settlement that the company in bankruptcy has made of an asset; namely, the claim that he has against another party."
+2016.15-649,2,19410,christopher_landau,,1997.835,1999.29,There is no provision governing --
+2016.15-649,2,15139,stephen_g_breyer,scotus_justice,1999.29,1999.51,Okay.
+2016.15-649,2,19410,christopher_landau,,1999.51,2031.91,"-- settlements qua settlements. What there is a provision -- and I want to make this very clear, Your Honor, because I'm not sure this was as clear in our brief as it should have been, and I apologize if it wasn't. The fact that there's no provision for approving settlements qua settlements doesn't mean -- which there had been under the old regime -- doesn't mean that when you have a settlement that actually disposes of estate assets, like this settlement did, that that disposition of estate assets is not subject to the traditional Rule 363(b) review by the Court of any use, sale, or lease."
+2016.15-649,2,15139,stephen_g_breyer,scotus_justice,2031.91,2031.97,Oh.
+2016.15-649,2,19410,christopher_landau,,2033.28,2033.95,They're in the same -- yeah.
+2016.15-649,2,15139,stephen_g_breyer,scotus_justice,2033.95,2034.14,Thank you.
+2016.15-649,2,19410,christopher_landau,,2034.14,2035.19,I just wanted to make it clear.
+2016.15-649,2,15139,stephen_g_breyer,scotus_justice,2035.19,2038.2,"In that place, once we are in that place --"
+2016.15-649,2,19410,christopher_landau,,2038.2,2038.785,Yes.
+2016.15-649,2,15139,stephen_g_breyer,scotus_justice,2038.785,2059.01,"-- what we have is a settlement, not corrupt, not crooked, perfectly fine and honest and so forth, but what it does is it takes Congress's 1, 2, 3, 4, 5, and it says, what we'd like to do is 5, 4, 3, 2, 1."
+2016.15-649,2,19410,christopher_landau,,2059.01,2059.34,Correct.
+2016.15-649,2,15139,stephen_g_breyer,scotus_justice,2059.34,2077.2,"Now, what that seems to do is it seems to be quite contrary to the order of -- of battle or the order of distribution that Congress has said should apply to the assets of the estate --"
+2016.15-649,2,19410,christopher_landau,,2077.2,2077.51,And --
+2016.15-649,2,15139,stephen_g_breyer,scotus_justice,2077.51,2080.045,-- of which this is one.
+2016.15-649,2,19410,christopher_landau,,2080.045,2095.58,"And you are absolutely right. And -- and as the Second Circuit said in -- in Iridium, and as the Third Circuit said in this case, that is the most important concern in the 363(b) discretionary analysis, to make sure that there is no evasion of that scheme."
+2016.15-649,2,15139,stephen_g_breyer,scotus_justice,2095.58,2096.37,"Well, so -- right."
+2016.15-649,2,19410,christopher_landau,,2105.13,2105.46,Right.
+2016.15-649,2,15139,stephen_g_breyer,scotus_justice,2105.46,2109.91,"You have an estate asset, and you want to do -- I exaggerate -- 5, 4, 3, 2, 1."
+2016.15-649,2,19410,christopher_landau,,2109.91,2111.33,Right.
+2016.15-649,2,15139,stephen_g_breyer,scotus_justice,2112.24,2127.51,"So where does the bankruptcy trustee or any court get the power to say that a group of people can, in fact, reverse the order in which these assets will be distributed?"
+2016.15-649,2,19410,christopher_landau,,2127.51,2127.85,This is --
+2016.15-649,2,15139,stephen_g_breyer,scotus_justice,2127.85,2133.59,"That is -- that is what is bothering me, and presumably the government, and certainly the workers here, who are -- who are upset about it."
+2016.15-649,2,19410,christopher_landau,,2133.59,2133.86,Correct.
+2016.15-649,2,15113,anthony_m_kennedy,scotus_justice,2168.69,2176.6,But -- but I'm sure it often happens that there can be no confirmable plan because the creditors -- priority creditors are not going to concede.
+2016.15-649,2,19410,christopher_landau,,2178.72,2178.89,Right.
+2016.15-649,2,15113,anthony_m_kennedy,scotus_justice,2179.26,2182.24,And that's not a rare -- so this is not a rare case.
+2016.15-649,2,19410,christopher_landau,,2182.24,2185.075,"But I'm -- this is only the first prong, Your Honor."
+2016.15-649,2,15113,anthony_m_kennedy,scotus_justice,2209.33,2215.94,But -- but this seems -- but the essence of the case is not really an objection to approval of the settlement; it's the objection of the distribution of the assets.
+2016.15-649,2,19410,christopher_landau,,2215.94,2216.36,Absolutely.
+2016.15-649,2,15086,john_g_roberts_jr,scotus_justice,2279.71,2288.19,I thought they -- I thought they had a priority at the initial stage that required them to be paid the $6 million that you're talking about.
+2016.15-649,2,19410,christopher_landau,,2288.19,2289.01,They were not.
+2016.15-649,2,15084,ruth_bader_ginsburg,scotus_justice,2298.87,2304.83,But they had the priority ahead of the unsecured general creditors that did get $1.7 million.
+2016.15-649,2,19410,christopher_landau,,2313.485,2314.03,Correct.
+2016.15-649,2,15139,stephen_g_breyer,scotus_justice,2335.25,2338.84,"But that's -- I see that point, which you've made several times, is a very good point."
+2016.15-649,2,19410,christopher_landau,,2346.055,2349.71,"Well, I think a structured settlement is -- it's not a legal term."
+2016.15-649,2,15139,stephen_g_breyer,scotus_justice,2351.32,2352.79,Why not just call it a settlement?
+2016.15-649,2,19410,christopher_landau,,2352.79,2353.48,I think you could.
+2016.15-649,2,15139,stephen_g_breyer,scotus_justice,2354.27,2355.83,Let's call it a settlement.
+2016.15-649,2,19410,christopher_landau,,2355.83,2356.16,Perfect.
+2016.15-649,2,15139,stephen_g_breyer,scotus_justice,2356.16,2367.91,"So now a company finds, very surprisingly, that there, underneath the building, is Jean LaFitte's gold treasure. (Laughter.)"
+2016.15-649,2,15139,stephen_g_breyer,scotus_justice,2367.91,2371.77,See? But there is somebody down there who has it.
+2016.15-649,2,19410,christopher_landau,,2382.45,2382.74,Right.
+2016.15-649,2,15139,stephen_g_breyer,scotus_justice,2382.74,2388.01,"And as long as you give the majority to him, okay, then you can give the rest to the others. All right."
+2016.15-649,2,19410,christopher_landau,,2394.56,2412.885,"Your Honor, I think what you are saying or the -- the point that you're getting to can be resolved through the traditional 363(b) analysis, which allows for play in the joints, unlike their unyielding and absolute -- absolute priority rule. Under you're hypothetical, Your Honor, there would be money there."
+2016.15-649,2,15139,stephen_g_breyer,scotus_justice,2418.56,2437.465,"By the way, if you want me to, I will make up my hypothetical so that giving half the gold to this person is just as wonderful as you would like, and I will also change the hypothetical around, if you could do or I could do, so that not giving the money to this person would be just terrible."
+2016.15-649,2,19410,christopher_landau,,2437.465,2437.63,Right.
+2016.15-649,2,15139,stephen_g_breyer,scotus_justice,2437.63,2439.07,The Earth will come to an end.
+2016.15-649,2,19410,christopher_landau,,2456.82,2457.29,I think --
+2016.15-649,2,15139,stephen_g_breyer,scotus_justice,2457.29,2463.5,"It seems to me a dangerous principle to get into, but if you can tell me or that normally happens, I'm open to --"
+2016.15-649,2,19410,christopher_landau,,2463.5,2465.83,"Well, it -- it -- it doesn't normally happen."
+2016.15-649,2,15094,elena_kagan,scotus_justice,2487.64,2488.42,Let me ask you --
+2016.15-649,2,19410,christopher_landau,,2488.42,2489.47,-- that would be a problem.
+2016.15-649,2,15094,elena_kagan,scotus_justice,2489.47,2491.39,"-- Mr. Ernest, sort of a similar question."
+2016.15-649,2,19410,christopher_landau,,2503.08,2503.22,Right.
+2016.15-649,2,15094,elena_kagan,scotus_justice,2503.22,2506.12,That's -- and that's it. You just have to follow that order.
+2016.15-649,2,19410,christopher_landau,,2506.12,2506.49,Correct.
+2016.15-649,2,15094,elena_kagan,scotus_justice,2506.49,2527.54,"That's one Bankruptcy Code. Here's another Bankruptcy Code: It says presumptively, you have to follow one, two, three, four, five, but if there is a Pareto-superior solution, in other words, a solution in which some people are made off and nobody -- in which some people are -- get better outcomes and nobody gets a worse outcome --"
+2016.15-649,2,19410,christopher_landau,,2527.54,2527.745,Yep.
+2016.15-649,2,15094,elena_kagan,scotus_justice,2527.745,2530.85,"-- if there is such a solution, you can go with that."
+2016.15-649,2,19410,christopher_landau,,2534.4,2534.49,Right.
+2016.15-649,2,15094,elena_kagan,scotus_justice,2534.49,2535.925,-- for Congress to have enacted.
+2016.15-649,2,19410,christopher_landau,,2535.925,2536.18,Right.
+2016.15-649,2,15094,elena_kagan,scotus_justice,2536.18,2551.57,"The question is whether Congress did enact it and what you can point to in the Bankruptcy Code that suggests that the continual statement that it's just one, two, three, four, five is subject to a kind of equitable exception for Pareto-superior outcomes."
+2016.15-649,2,19410,christopher_landau,,2551.57,2551.9,Yes.
+2016.15-649,2,15131,sonia_sotomayor,scotus_justice,2598.725,2605.405,But I don't understand how you get to an extraordinary circumstance in that -- in this situation.
+2016.15-649,2,19410,christopher_landau,,2620.48,2621.07,Right.
+2016.15-649,2,15131,sonia_sotomayor,scotus_justice,2621.07,2623.28,-- or anybody who will concede to doing it.
+2016.15-649,2,19410,christopher_landau,,2623.28,2623.735,Right.
+2016.15-649,2,15131,sonia_sotomayor,scotus_justice,2623.735,2635.52,So how do you protect the excluded creditor from being preyed on by one of the other creditors? We already know the junior creditors have a self-interest.
+2016.15-649,2,19410,christopher_landau,,2635.52,2636.39,"Absolutely, Your Honor."
+2016.15-649,2,15131,sonia_sotomayor,scotus_justice,2636.39,2637.91,The senior creditors have --
+2016.15-649,2,19410,christopher_landau,,2637.91,2638.045,Yes.
+2016.15-649,2,15131,sonia_sotomayor,scotus_justice,2638.045,2645.835,It happens to be one of the biggest senior creditors here is the one who was insisting upon excluding the junior creditor.
+2016.15-649,2,19410,christopher_landau,,2645.835,2646.445,Yes.
+2016.15-649,2,15131,sonia_sotomayor,scotus_justice,2646.445,2651.995,"So where do we go? How do we defined ""extraordinary""?"
+2016.15-649,2,19410,christopher_landau,,2651.995,2681.18,"In that 363(b) world, Your Honor, that governs the use, sale and lease of assets, when a court looks at that, a court can say, is the creditor who is claiming that he or she or it is being unfairly squeezed out, in your hypothetical, can show that there is some mechanism under which that person would otherwise, absent the settlement or the disposition of assets that is -- is contemplated at issue before the Court, would actually make off better. The critical problem here is that there were findings -- there was a hearing in the bankruptcy court on this."
+2016.15-649,2,15094,elena_kagan,scotus_justice,2698.87,2699.88,"But, Mr. Landau --"
+2016.15-649,2,19410,christopher_landau,,2699.88,2700.36,-- is counterfactual.
+2016.15-649,2,15094,elena_kagan,scotus_justice,2700.36,2702.46,"I mean, you might be right or you might be wrong about that."
+2016.15-649,2,19410,christopher_landau,,2745.38,2745.69,Right.
+2016.15-649,2,15094,elena_kagan,scotus_justice,2745.69,2751.37,"And -- and this says, well, not -- you know, maybe, if there is a good reason, not everything has to be --"
+2016.15-649,2,19410,christopher_landau,,2751.37,2751.46,Right.
+2016.15-649,2,15094,elena_kagan,scotus_justice,2751.46,2782.51,"-- rolled back to exactly the way it was. But that's a really different kind of provision than saying, in courts, you get to decide or -- or -- or parties, really, you get to decide, and then courts get to -- get to approve an outcome of a bankruptcy proceeding that does not follow the usual priority rules just because these particular parties, not all of them, but these particular parties think it will make some people better off without making other peoples worse off."
+2016.15-649,2,19410,christopher_landau,,2782.51,2805.9,"Well, the key point is 363(b). That is the general provision that requires bankruptcy courts to review the use, sale, or lease of assets. When you have -- what -- what they are objecting to here in this settlement is the fact not only that it brings money in, but that it actually then distributes money to different people in a way that they say doesn't comply with the absolute priority rule."
+2016.15-649,2,15139,stephen_g_breyer,scotus_justice,2833.0,2848.88,"Well, this 363(b) -- is there -- I mean, this -- you would -- they say -- you're just saying they did it the wrong way when they reached the settlement; then this -- the -- the Petitioners here should have gone to the bankruptcy judge and said, Judge, you know, there is an odd thing about this settlement."
+2016.15-649,2,19410,christopher_landau,,2853.27,2853.58,And they --
+2016.15-649,2,15139,stephen_g_breyer,scotus_justice,2853.58,2861.33,"And they want to tell you how to distribute it, and we want you to distribute it according to the rules, and not according to what they say. That's what you say they should have done."
+2016.15-649,2,19410,christopher_landau,,2861.33,2862.92,"Well, that's what they did do, and exactly what they --"
+2016.15-649,2,15139,stephen_g_breyer,scotus_justice,2862.92,2864.61,"Well, if that's what they did do, what's the problem?"
+2016.15-649,2,19410,christopher_landau,,2864.61,2864.98,"Yes -- no, but they --"
+2016.15-649,2,15139,stephen_g_breyer,scotus_justice,2864.98,2866.6,And then you're saying they have discretion there.
+2016.15-649,2,19410,christopher_landau,,2866.6,2866.94,Yes.
+2016.15-649,2,15139,stephen_g_breyer,scotus_justice,2866.94,2868.68,So the question is: Do they have discretion --
+2016.15-649,2,19410,christopher_landau,,2868.68,2868.94,Yes.
+2016.15-649,2,15139,stephen_g_breyer,scotus_justice,2868.94,2870.3,-- to depart from -- okay. I got it.
+2016.15-649,2,19410,christopher_landau,,2870.3,2870.67,And -- and they say --
+2016.15-649,2,15139,stephen_g_breyer,scotus_justice,2870.67,2878.75,Do they have discretion depart from the -- do they have discretion to depart from the priorities as set by Congress?
+2016.15-649,2,19410,christopher_landau,,2878.75,2879.01,Exactly.
+2016.15-649,2,15139,stephen_g_breyer,scotus_justice,2880.485,2882.71,Over the objection of one of the creditors.
+2016.15-649,2,19410,christopher_landau,,2882.71,2885.11,The basic dispute before this Court in this case is --
+2016.15-649,2,15139,stephen_g_breyer,scotus_justice,2885.11,2885.39,Okay.
+2016.15-649,2,19410,christopher_landau,,2885.98,2896.075,"-- does the absolute priority rule apply to distributions of plan assets -- of -- of estate assets, excuse me -- before a plan? They say yes, it does."
+2016.15-649,2,15139,stephen_g_breyer,scotus_justice,2903.48,2906.11,"Oh, well, once -- then I'm back with Justice Kagan."
+2016.15-649,2,19410,christopher_landau,,2907.88,2908.17,Well -- but --
+2016.15-649,2,15139,stephen_g_breyer,scotus_justice,2908.17,2927.61,"And the reason I'm worried about it is -- and you'll be worried about it, all you have to do is represent some client or represent some -- a bank, for example, that thinks it has secured -- thinks it has a secured interest in something, and lo and behold, there is a $40 billion settlement, and they make it conditional that the money go to the widows and orphans --"
+2016.15-649,2,19410,christopher_landau,,2927.61,2928.18,"Okay, but -- but --"
+2016.15-649,2,15139,stephen_g_breyer,scotus_justice,2928.18,2929.93,"-- so we reverse it here, and then the --"
+2016.15-649,2,19410,christopher_landau,,2929.93,2930.98,"But, Your Honor, just to be clear."
+2016.15-649,2,15139,stephen_g_breyer,scotus_justice,2930.98,2931.17,Yeah.
+2016.15-649,2,19410,christopher_landau,,2931.17,2948.47,"Discretion doesn't mean win. And -- and I think the Second Circuit in Iridium and the Third Circuit in this case were very, very clear that the most important consideration for a court to look at in -- in assessing a distribution of assets that doesn't comfort with the priority rule is: Is there a compelling reason why it doesn't? We --"
+2016.15-649,2,15086,john_g_roberts_jr,scotus_justice,2948.47,2950.97,"But that's, I think, where the -- the -- the issue comes down."
+2016.15-649,2,19410,christopher_landau,,2968.87,2969.46,Right.
+2016.15-649,2,15086,john_g_roberts_jr,scotus_justice,2969.46,2975.84,"Now, if there is a very close requirement there, then, you know, what you're asking for is not that extraordinary."
+2016.15-649,2,19410,christopher_landau,,2975.84,2977.04,It isn't -- I just --
+2016.15-649,2,15086,john_g_roberts_jr,scotus_justice,2977.04,3003.535,"If, however -- well, if, however, that -- it -- it's -- that priority simply informs the exercise of discretion by the judge under 363(b) and is not as tight a requirement, well, then, it's -- you know, then it is pretty extraordinary. And -- and it -- it makes a difference. Under -- under the -- the Chapter 11 regime, people's leverage in negotiating the plan depends to some extent on their priorities."
+2016.15-649,2,19410,christopher_landau,,3011.49,3011.77,Right.
+2016.15-649,2,15086,john_g_roberts_jr,scotus_justice,3012.99,3013.41,I'm sorry.
+2016.15-649,2,19410,christopher_landau,,3014.43,3020.04,Just -- Congress drew a line that the absolute priority rule as such applies to plans.
+2016.15-649,2,15086,john_g_roberts_jr,scotus_justice,3055.08,3055.93,"Right, but if we are concerned about --"
+2016.15-649,2,19410,christopher_landau,,3055.93,3058.095,-- in applying the discretionary Iridium standard.
+2016.15-649,2,15086,john_g_roberts_jr,scotus_justice,3058.095,3083.57,"If -- if we are concerned about how extraordinary the extraordinary circumstances are -- in other words, your position looks more reasonable the tighter the extraordinariness requirement is -- what -- what type of language would you require -- I mean, you're saying, oh, well, just say you can do this and then it will work out over time how extraordinary it is. But what would you say if you want -- if you felt an obligation to tighten the extraordinary requirement?"
+2016.15-649,2,19410,christopher_landau,,3083.57,3094.62,"I don't think I could improve on the language that the Second Circuit used in Iridium and the Third Circuit used here, saying that it is the -- the most important consideration is conformity with the absolute priority rule."
+2016.15-649,2,15094,elena_kagan,scotus_justice,3111.98,3126.875,"But then doesn't that run into -- this is what Ms. Harrington ended her remarks by saying, is that you're just saying the plans that the Bankruptcy Code declare not confirmable are, in fact, going to be confirmed through this alternative procedure?"
+2016.15-649,2,19410,christopher_landau,,3126.875,3127.91,"No, Your Honor."
+2016.15-649,2,15131,sonia_sotomayor,scotus_justice,3184.27,3223.97,"Mr. Landau, is there a difference, in your mind, because there might be in mine, between a settlement that settles an individual claim, the emergency creditor claim that your -- that your opponent spoke about, where there is not a total distribution of the assets of the company, from a plan that's really just an alternative plan, because that's what this structured settlement was? In my mind, something that would be an extraordinary circumstance --"
+2016.15-649,2,19410,christopher_landau,,3223.97,3224.36,Right.
+2016.15-649,2,15131,sonia_sotomayor,scotus_justice,3224.36,3229.32,"-- would be something that did something like the first thing, and not necessarily the second."
+2016.15-649,2,19410,christopher_landau,,3229.32,3252.68,"I think Your Honor is making a very important point, which is, the application of the 363(b) discretion may well vary depending on the circumstances of the case and, just -- and your first hypothetical, maybe -- you know that -- that -- that is -- now we are talking about, you know, the way that that 363(b) analysis applies, and it may apply differently --"
+2016.15-649,2,15131,sonia_sotomayor,scotus_justice,3252.68,3253.29,So would you tell --
+2016.15-649,2,19410,christopher_landau,,3253.29,3255.33,-- on the first day of the bankruptcy versus the last day of the bankruptcy.
+2016.15-649,2,15131,sonia_sotomayor,scotus_justice,3255.33,3273.675,"-- me why Sun Life -- Sun Life cared? If it got its settlement -- i.e., it was going to pay $2 million and get all the claims against it released -- what was its reason for not wanting the proceeds to be distributed according to the absolute priority rule?"
+2016.15-649,2,19410,christopher_landau,,3273.675,3278.49,It wanted a global settlement of all claims and they got that with all other creditors.
+2016.15-649,2,15131,sonia_sotomayor,scotus_justice,3296.14,3313.2,"Well, I'm -- I'm sorry. Does this mean that the junior creditors wouldn't have agreed to this settlement because the senior creditors could have? What did the senior creditors, who were in line -- in line care about how much was left over to junior creditors, including Sun Life?"
+2016.15-649,2,19410,christopher_landau,,3313.2,3323.28,"Well, I think that the point is that Sun would not have entered into the settlement at all unless -- which -- which benefited all the creditors, including the junior creditors --"
+2016.15-649,2,15131,sonia_sotomayor,scotus_justice,3323.28,3323.6,But why?
+2016.15-649,2,19410,christopher_landau,,3323.6,3323.995,Why --
+2016.15-649,2,15131,sonia_sotomayor,scotus_justice,3323.995,3325.625,Why does it care?
+2016.15-649,2,19410,christopher_landau,,3325.625,3326.72,"Why does Sun? Well, for --"
+2016.15-649,2,15131,sonia_sotomayor,scotus_justice,3326.72,3327.67,Why does Sun Life care?
+2016.15-649,2,19410,christopher_landau,,3327.67,3339.46,"In the absence of a global settlement of this WARN claim outside of the -- against Sun, Sun didn't want to have a settlement that -- that funded the litigation against it."
+2016.15-649,2,15131,sonia_sotomayor,scotus_justice,3340.26,3344.04,"No, the settlement would have been the one that occurred."
+2016.15-649,2,19410,christopher_landau,,3344.04,3344.43,"No, because it --"
+2016.15-649,2,15131,sonia_sotomayor,scotus_justice,3344.43,3344.61,If it --
+2016.15-649,2,19410,christopher_landau,,3344.61,3348.57,There's two different claims. The claim that was settled was the estate's fraudulent conveyance claim.
+2016.15-649,2,15131,sonia_sotomayor,scotus_justice,3368.73,3372.58,So do you think they can still sue you for those fraudulent conveyance claims?
+2016.15-649,2,19410,christopher_landau,,3372.58,3373.23,Not for the fraudulent --
+2016.15-649,2,15131,sonia_sotomayor,scotus_justice,3373.23,3374.18,Not you; Sun Life.
+2016.15-649,2,19410,christopher_landau,,3374.18,3379.42,"Not -- they can certainly sue the -- the -- they can certainly pursue their WARN claims, and they did."
+2016.15-649,2,15131,sonia_sotomayor,scotus_justice,3382.33,3383.125,The fraudulent-transfer claim?
+2016.15-649,2,19410,christopher_landau,,3383.125,3383.31,No.
+2016.15-649,2,15131,sonia_sotomayor,scotus_justice,3393.22,3395.36,You don't understand. My basic question was --
+2016.15-649,2,19410,christopher_landau,,3395.36,3395.99,Okay.
+2016.15-649,2,15131,sonia_sotomayor,scotus_justice,3395.99,3404.17,-- what did Sun Life care if the fraudulent conveyance claim was going to be resolved and released?
+2016.15-649,2,19410,christopher_landau,,3404.17,3405.26,Because --
+2016.15-649,2,15131,sonia_sotomayor,scotus_justice,3405.26,3412.085,Why did it care to exclude these truck drivers from receiving whatever they demanded?
+2016.15-649,2,19410,christopher_landau,,3412.085,3417.7,Because that would have funded the truck drivers to pursue their separate WARN claims against us.
+2016.15-649,2,15131,sonia_sotomayor,scotus_justice,3418.42,3419.99,But that eventually -- you had already --
+2016.15-649,2,19410,christopher_landau,,3419.99,3420.155,No.
+2016.15-649,2,15131,sonia_sotomayor,scotus_justice,3420.155,3421.48,Sun Life had already won that.
+2016.15-649,2,19410,christopher_landau,,3421.48,3421.67,No.
+2016.15-649,2,15139,stephen_g_breyer,scotus_justice,3471.56,3476.985,What the Code in 363(b) says is the trustee can sell a suit.
+2016.15-649,2,19410,christopher_landau,,3479.32,3479.6,"Yes, but --"
+2016.15-649,2,15139,stephen_g_breyer,scotus_justice,3479.6,3481.11,It says nothing about what the terms are.
+2016.15-649,2,19410,christopher_landau,,3487.165,3487.71,But --
+2016.15-649,2,15139,stephen_g_breyer,scotus_justice,3487.71,3496.43,"-- can you settle it on terms that will, in fact, take these assets that belong to the company and distribute them in a way that is contrary to 1, 2, 3, 4, 5?"
+2016.15-649,2,19410,christopher_landau,,3496.43,3500.17,"But -- but the distribution is a use of the estate assets, Your Honor."
+2016.15-649,2,15139,stephen_g_breyer,scotus_justice,3523.25,3524.42,Right.
+2016.15-649,2,19410,christopher_landau,,3524.42,3527.565,-- this is. And I think the basic point was made by the bankruptcy court here.
+2016.15-649,2,15086,john_g_roberts_jr,scotus_justice,3541.48,3542.39,"Thank you, counsel."
+2016.15-649,2,19410,christopher_landau,,3542.39,3542.915,Thank you.
+2016.15-649,2,15086,john_g_roberts_jr,scotus_justice,3542.915,3546.34,"Two minutes, Ms. Spinelli."
+2016.15-649,3,21594,danielle_spinelli,,3546.34,3555.885,Respondents' position fails because Section 363(b) is not a means of distributing estate assets.
+2016.15-649,3,15086,john_g_roberts_jr,scotus_justice,3673.38,0.0,"Thank you, counsel. The case is submitted."

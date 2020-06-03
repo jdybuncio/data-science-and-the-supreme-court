@@ -1,0 +1,151 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1993.93-405,0,15141,william_h_rehnquist,scotus_justice,0.0,24.096,"We'll hear argument now in Number 93-405, Digital Equipment Corporation v. Desktop Direct, Inc. Mr. Roberts."
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,24.096,26.038,"Thank you, Mr. Chief Justice; may it please the Court:"
+1993.93-405,0,15092,sandra_day_oconnor,scotus_justice,78.152,93.754,"Mr. Roberts, the district court order seemed to indicate that the district court thought there was a factfinding determination necessary on whether the settlement agreement should be set aside."
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,93.754,101.668,The district court order stated that he was granting the motion because a factfinder could determine that Digital failed to disclose facts.
+1993.93-405,0,15092,sandra_day_oconnor,scotus_justice,101.668,109.173,And the appeal taken was on the theory that no fact finding could be allowed on that question?
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,109.173,112.814,"Well, there are a number of grounds for appeal, the first being that that is the wrong standard."
+1993.93-405,0,15113,anthony_m_kennedy,scotus_justice,142.743,161.597,"Suppose the trial court had made findings on the factual issues, making a finding that the Digital Corporation did know of the Desktop name, could the ruling in those findings then be the subject of a separate appeal?"
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,161.597,166.489,"Yes, Your Honor, because the issue on appeal is the validity of the settlement agreement."
+1993.93-405,0,15113,anthony_m_kennedy,scotus_justice,168.851,176.117,"But that's not separable from the merits, that's right at the heart of the merits... what the Digital Corporation knew and when they knew it."
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,176.117,176.848,No.
+1993.93-405,0,15113,anthony_m_kennedy,scotus_justice,203.204,217.464,"Well, suppose there were a finding that Digital knew at the time the agreement was negotiated and beforehand, and before it began using the Desktop name, that Desktop had a trademark interest in it."
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,222.677,229.06,I think the most that can be said is that their allegations with respect to the settlement may be relevant on damages.
+1993.93-405,0,15084,ruth_bader_ginsburg,scotus_justice,259.452,263.823,"Mr. Roberts, let me ask you a question about those first two criteria."
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,273.16,274.271,"Yes, Your Honor, it is."
+1993.93-405,0,15084,ruth_bader_ginsburg,scotus_justice,274.271,280.055,"So if we don't think that you did meet those requirements, it doesn't matter that you and your adversary agree that you did."
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,280.055,281.314,Correct.
+1993.93-405,0,15084,ruth_bader_ginsburg,scotus_justice,281.314,285.829,And Justice O'Connor started to ask you about the... a factfinder could find.
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,319.479,321.91,"Yes, and let me be precise."
+1993.93-405,0,15060,john_paul_stevens,scotus_justice,353.092,357.165,"Mr. Roberts, may we take the case a step further?"
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,379.409,381.611,"I'm not sure, Your Honor, for this reason."
+1993.93-405,0,15060,john_paul_stevens,scotus_justice,387.363,388.354,For breach of contract?
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,388.354,391.757,"Well, there is a cause of action for breach of contract, but I'm not sure that--"
+1993.93-405,0,15060,john_paul_stevens,scotus_justice,391.757,392.687,"And this is a contract, isn't it?"
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,392.687,394.379,"--This is a contract, but this is what happened."
+1993.93-405,0,15060,john_paul_stevens,scotus_justice,406.227,408.678,"Yes, but we're assuming the court of appeals will reverse the district court."
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,410.468,411.199,--Yes.
+1993.93-405,0,15060,john_paul_stevens,scotus_justice,422.489,425.23,But the district court has erroneously said you have the right to file this lawsuit.
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,425.23,427.231,"Well, I understand that, but I still think--"
+1993.93-405,0,15060,john_paul_stevens,scotus_justice,427.231,428.92,"If you have a right not to be sued, that's your whole--"
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,430.803,436.917,--There's no contractual obligation binding them at the time they reinstituted their litigation.
+1993.93-405,0,15084,ruth_bader_ginsburg,scotus_justice,437.898,440.4,Do you have a... where does your right not to be sued arise from?
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,440.4,441.74,--Under the settlement agreement--
+1993.93-405,0,15084,ruth_bader_ginsburg,scotus_justice,441.74,442.28,Yes--
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,442.28,442.991,--by its plain terms.
+1993.93-405,0,15084,ruth_bader_ginsburg,scotus_justice,442.991,450.445,"--and if that right has been breached, isn't compensation for that right adequate to redress any injury you have?"
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,450.445,453.898,The breach would come from the filing and pursuit of the lawsuit.
+1993.93-405,0,15049,antonin_scalia,scotus_justice,491.061,498.518,"I suppose, Mr. Roberts, that your right not to be sued was a right not to be sued on the underlying cause of action--"
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,498.518,499.349,That's correct.
+1993.93-405,0,15049,antonin_scalia,scotus_justice,499.349,505.112,--not a right not to be sued for rescission of what is claimed to be an invalid agreement.
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,505.112,506.122,"Well, that's right, and as I--"
+1993.93-405,0,15049,antonin_scalia,scotus_justice,506.122,515.297,"Indeed, such an agreement not to sue you for fraud or for any other invalidity of an agreement is probably void as contrary to public policy, I would think, wouldn't it be?"
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,515.297,526.574,"--Well, those are the hurdles to our recovery of any damages, that it is not a breach to rescind the contract, and once the contract is rescinded, you can't argue breach because there's no contract to breach."
+1993.93-405,0,15060,john_paul_stevens,scotus_justice,528.497,529.148,Mr. Roberts--
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,531.449,533.28,--It is--
+1993.93-405,0,15042,david_h_souter,scotus_justice,533.28,535.621,"Mr. Roberts, may I ask you just a narrow question?"
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,548.52,555.495,"--Well, wilfulness I guess is an element of the fraud claim, but the damages claim--"
+1993.93-405,0,15042,david_h_souter,scotus_justice,555.495,559.597,"So isn't that the end of the issue, so far as the second element under Cohen is concerned?"
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,559.597,560.308,--Not at all.
+1993.93-405,0,15042,david_h_souter,scotus_justice,566.892,586.054,"Well, I think your... I don't want to be too picky, but I think you're saying, yes, on the face of it there is not a complete distinction between the issue upon which the rescission turns and the underlying cause of action, but you are now saying that this Court really has not insisted on that degree of separability, is that fair to say?"
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,587.075,589.337,"--I think not, Your Honor, in this sense."
+1993.93-405,0,15042,david_h_souter,scotus_justice,601.244,605.177,"In other words, a common element is not sufficient to defeat separability."
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,605.177,606.227,Absolutely not.
+1993.93-405,0,15084,ruth_bader_ginsburg,scotus_justice,616.724,617.826,How about claim preclusion?
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,638.928,640.66,"It's not our understanding, either."
+1993.93-405,0,15084,ruth_bader_ginsburg,scotus_justice,675.312,688.282,"But isn't claim preclusion a right not to be sued on this claim, and isn't that the heart of your argument, that you have a right not to be sued, and that that's what claim preclusion is on the civil side?"
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,693.795,697.288,Our claim is that we have the right not to be sued.
+1993.93-405,0,15084,ruth_bader_ginsburg,scotus_justice,708.995,710.456,Why aren't they?
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,724.894,728.638,You need to examine the factual allegations and perhaps even--
+1993.93-405,0,15049,antonin_scalia,scotus_justice,728.638,731.159,You've just told us that common facts don't make the difference.
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,731.159,742.115,"--In the claim preclusion case, it is different because you need to examine it and perhaps even wait until you've determined exactly what the facts are to see exactly, precisely what the claim is or what the issue is that's allegedly precluded."
+1993.93-405,0,15049,antonin_scalia,scotus_justice,769.564,773.327,What about a right not to be sued because of a statute of limitations bar?
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,773.327,777.238,The statute of limitations does not confer a right to avoid trial.
+1993.93-405,0,15049,antonin_scalia,scotus_justice,788.217,793.22,"No, but once the delay has occurred, you have a right not to be sued, don't you?"
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,793.22,794.092,Well--
+1993.93-405,0,15049,antonin_scalia,scotus_justice,794.092,798.412,Just as once your agreement has been signed you have a right not to be sued.
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,800.945,804.777,--And this is the way the court analyzes all of these questions.
+1993.93-405,0,15049,antonin_scalia,scotus_justice,809.01,814.344,"--Oh, I agree with that, but I think it does so to determine whether it's important enough, and you deny that that's the element."
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,816.424,825.531,"The element, as the courts pointed out... in the Van Cauwenberghe case it said the critical question, in Mitchell it said the heart of the issue... is this a right to avoid trial?"
+1993.93-405,0,15141,william_h_rehnquist,scotus_justice,825.531,835.368,"There's a certain amount of word play there, though, you know, and in the court's opinions it isn't all that easy to distinguish the various rights, some of which have gone one way and some the other."
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,835.368,845.753,"It is not easy, and there is word play, but the manner in which word play must be avoided is to make every claim a right not to be tried."
+1993.93-405,0,15084,ruth_bader_ginsburg,scotus_justice,857.941,867.668,"Mr. Roberts, you just said the cases are not so completely neat and tidy, and you chose this route."
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,879.136,880.575,"Well, several reasons, Your Honor."
+1993.93-405,0,15084,ruth_bader_ginsburg,scotus_justice,893.655,897.679,"Now, but sometimes lawyers say but if I'm wrong about that, then here's my backup position."
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,897.679,904.932,"--At the time the appeal was filed, the circuits were unanimous that in this situation you had a right of appeal under 1291."
+1993.93-405,0,15084,ruth_bader_ginsburg,scotus_justice,994.391,998.264,A firm final judgment rule is also important in the Federal system.
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,998.264,1003.608,"Yes, there are policies of judicial economy and efficiency that support the final judgment."
+1993.93-405,0,15049,antonin_scalia,scotus_justice,1027.404,1034.627,"Mr. Roberts, you argue that there is no textual basis for imposing an importance test."
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,1039.31,1050.348,"The two key words in section 1291, final decisions, and what this Court said in Cohen, and what it has said repeatedly in applying the collateral order doctrine, is we are interpreting that phrase."
+1993.93-405,0,15049,antonin_scalia,scotus_justice,1060.505,1063.978,Interpretation of the word final to mean not everything that's final--
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,1063.978,1064.597,"No, it's--"
+1993.93-405,0,15049,antonin_scalia,scotus_justice,1064.597,1065.899,--and you consider that a textual basis.
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,1065.899,1073.884,"--It's an interpretation of final to say that there are some circumstances when there are not final judgments, but final decisions, as the statute specifies."
+1993.93-405,0,15084,ruth_bader_ginsburg,scotus_justice,1073.884,1078.517,One narrowly final decision means that the district court has disassociated itself from the case.
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,1084.22,1084.611,Yes.
+1993.93-405,0,15113,anthony_m_kennedy,scotus_justice,1090.576,1106.134,"Mr. Roberts, you stated that you cannot ask for a 1292 appeal under 1292(b) if the order is appealable under 1291?"
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,1108.267,1108.666,No.
+1993.93-405,0,15113,anthony_m_kennedy,scotus_justice,1115.941,1135.703,"--Well, it says that when the district judge is making a civil... in a civil action an order not otherwise appealable under this section, so that doesn't seem to me to be inconsistent with saying that you can ask for a 1292(b) order and still maintain your Cohen position under 1291."
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,1135.703,1144.229,"--Well, there are... if it's a final decision under Cohen, of course, you don't need to put yourself at the mercy of the district courts to say it is certified."
+1993.93-405,0,15113,anthony_m_kennedy,scotus_justice,1144.229,1148.343,"Well, you indicated that it would be inconsistent to do that, and certainly the statute does not indicate that."
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,1153.675,1154.737,1292(a)--
+1993.93-405,0,15113,anthony_m_kennedy,scotus_justice,1154.737,1156.878,And you're proceeding under 1291.
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,1156.878,1161.939,--Proceeding under 1291 which gives us an appeal as of right.
+1993.93-405,0,15113,anthony_m_kennedy,scotus_justice,1181.665,1185.545,"Well, but it's certainly not inconsistent with the statutory language or with any authority that you've cited."
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,1185.545,1195.443,"Well, the authority of the cases, one of which we cite in our brief where the courts have held it against you if you're trying to proceed under 1291 that you tried under 1292."
+1993.93-405,0,15084,ruth_bader_ginsburg,scotus_justice,1228.648,1232.148,"But Cohen v. Beneficial is something made up by the courts, is it not?"
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,1253.723,1257.717,--Cohen v. Beneficial is a statutory interpretation.
+1993.93-405,0,15141,william_h_rehnquist,scotus_justice,1288.896,1297.151,"Well, certainly the issue involved in Cohen, the cost bond, might well not qualify as important, if that were a test."
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,1297.151,1309.22,"And in many others, the attachment rights at issue in the Swift case, a variety of others, might not seem important if courts were put in the position of deciding what is and isn't, and I have no idea--"
+1993.93-405,0,15049,antonin_scalia,scotus_justice,1309.22,1312.054,"Well, how does the effective reviewability have to do with finality?"
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,1312.054,1313.012,--Because it will--
+1993.93-405,0,15049,antonin_scalia,scotus_justice,1313.012,1319.296,You mean that something that is effectively reviewable cannot be final?
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,1322.679,1331.485,"--The point... what I meant by effectively unreviewable, Your Honor, is if we don't get review at this point, we will finally, once and for all, lose our right--"
+1993.93-405,0,15049,antonin_scalia,scotus_justice,1331.485,1332.096,"Oh, I see."
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,1332.096,1333.165,--to avoid trial.
+1993.93-405,0,15049,antonin_scalia,scotus_justice,1333.165,1336.087,"Well, that's a totally different meaning of finally."
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,1338.21,1339.9,It would be final for us.
+1993.93-405,0,15084,ruth_bader_ginsburg,scotus_justice,1342.771,1350.168,"--Just as in Lauro, then finally... and it was over and done with, they lost their right to be sued in one tribunal and in no other."
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,1365.155,1373.202,"--And the distinction which was spelled out in Lauro Lines itself, and which applies in the other cases as well, is that it is not a complete right to avoid trial."
+1993.93-405,0,15084,ruth_bader_ginsburg,scotus_justice,1384.38,1387.852,"As in the case of claim preclusion, we have a right not to have this matter litigated."
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,1389.392,1396.817,"It's not this prong of the Cohen test that the claim preclusion issue fails, it's the second prong, the separateness."
+1993.93-405,0,15049,antonin_scalia,scotus_justice,1423.566,1433.891,"Whereas there are standards to guide what is a complete right to avoid trial and what is not a complete right to avoid trial, so that a statute of limitations isn't, but this is."
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,1436.231,1443.487,"What the Court said in Lauro Lines and the others is, you need to take a very close look at the nature of the right, and that's what the courts have done in the statutes of limitations."
+1993.93-405,0,15049,antonin_scalia,scotus_justice,1443.487,1456.926,"It seems to me quite fictional, and that you are really discussing what is the crucial issue when you discuss importance, rather than deal with philosophical questions of what is a complete right to avoid suit and what isn't a complete right to avoid suit."
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,1456.926,1463.741,"Well, I... in response, Justice Scalia, I would just reiterate, importance is not something that's found anywhere in the statute."
+1993.93-405,0,15049,antonin_scalia,scotus_justice,1477.32,1480.39,That's a good argument if you think that Cohen is to be found within the statute.
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,1480.39,1481.772,And I--
+1993.93-405,0,15049,antonin_scalia,scotus_justice,1481.772,1482.643,Which I don't.
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,1482.643,1485.396,--And what the Court has said repeatedly is that it is.
+1993.93-405,0,15042,david_h_souter,scotus_justice,1498.533,1511.703,"Well, if it's a complete answer to Justice Scalia to say that the courts have repeatedly found that the Cohen exception is appropriate, the courts have just as repeatedly said that importance is to be considered, so why don't we get to the merits of importance."
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,1511.703,1519.917,"My point, Your Honor, was not that the courts have repeatedly said it, but that they have viewed it as an interpretation of section 1291."
+1993.93-405,0,15042,david_h_souter,scotus_justice,1532.507,1536.848,"So your argument really isn't a stare decisis argument, then, on that, in response to Justice Scalia."
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,1541.112,1553.861,"--No, what I'm saying is, importance... there's no stare decisis force behind the importance test as understood by the court below, because this Court has never rejected a Cohen appeal because it thought that the right at issue was not important enough."
+1993.93-405,0,15042,david_h_souter,scotus_justice,1553.861,1555.762,We've never had a trivial case.
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,1555.762,1560.543,"Well, that may be, Your Honor, in 45 years, but--"
+1993.93-405,0,15084,ruth_bader_ginsburg,scotus_justice,1560.543,1564.537,"Mr. Roberts, anything else on the 60(b) list that you would put in this category?"
+1993.93-405,0,15086,john_g_roberts_jr,scotus_justice,1578.826,1579.217,--No.
+1993.93-405,0,15141,william_h_rehnquist,scotus_justice,1586.841,1589.442,"Very well, Mr. Roberts."
+1993.93-405,0,39761,rex_e_lee,,1591.706,1600.19,"The starting point for analysis is, of course, the language of the statute, and in this case it is plain."
+1993.93-405,0,15141,william_h_rehnquist,scotus_justice,1626.057,1632.872,"Well, if you're going to say it's an exception, you're saying, then, that final judgment and final decision are identical terms."
+1993.93-405,0,39761,rex_e_lee,,1632.872,1640.956,"That is correct, and the Court has so said on a number of occasions, including the principal case that lays down the test, or at least it so implies... Coopers & Lybrand v. Livesay."
+1993.93-405,0,15141,william_h_rehnquist,scotus_justice,1640.956,1641.557,How about Cohen?
+1993.93-405,0,39761,rex_e_lee,,1643.016,1647.751,"Cohen didn't, but there was an earlier case, Cobbledick, that said... Cohen did not."
+1993.93-405,0,15141,william_h_rehnquist,scotus_justice,1819.474,1823.868,"Well, Mr. Lee, do you think that Congress couldn't change the result on the merits in Mitchell?"
+1993.93-405,0,39761,rex_e_lee,,1823.868,1826.479,--Of course they could.
+1993.93-405,0,15141,william_h_rehnquist,scotus_justice,1826.479,1829.181,"Well then, it's not a constitutional doctrine."
+1993.93-405,0,39761,rex_e_lee,,1829.181,1854.168,"But, as long as Congress has not changed the substantive rule, then having Midland Asphalt, which ties the nature of the right to avoid trial back to something that is rooted in the Constitution, in the absence of congressional modification of the rule itself, the rule remains the same, and that I--"
+1993.93-405,0,15141,william_h_rehnquist,scotus_justice,1854.168,1858.12,"But by definition, if Congress can change it, the rule is not constitutional."
+1993.93-405,0,39761,rex_e_lee,,1858.12,1860.791,"--Well, Congress can't change separation of powers."
+1993.93-405,0,15141,william_h_rehnquist,scotus_justice,1860.791,1865.216,"It can't, but you said a moment ago Congress could change the result in Mitchell."
+1993.93-405,0,39761,rex_e_lee,,1865.216,1866.445,"Oh, excuse me, I'm sorry."
+1993.93-405,0,15141,william_h_rehnquist,scotus_justice,1875.511,1880.686,You say Congress could not change qualified immunity of the Attorney General.
+1993.93-405,0,39761,rex_e_lee,,1880.686,1881.445,Of course not.
+1993.93-405,0,15141,william_h_rehnquist,scotus_justice,1881.445,1883.268,I'm surprised to hear you say that.
+1993.93-405,0,39761,rex_e_lee,,1883.268,1903.39,"Congress could not change... no, I don't think so, because the Court makes it quite clear that it is based on separation of powers, but even if Congress could change it, you would still have... it would still meet the Midland Asphalt test, which of course is the relevant issue here, which would be a statutory basis."
+1993.93-405,0,15049,antonin_scalia,scotus_justice,1903.39,1924.114,"Of course, there are some dispositions, such as whether the President has particular powers, which we would find to be present in the Constitution absent legislation, but which we would find that legislation can nonetheless change, and it's conceivable that immunity is one of those things."
+1993.93-405,0,39761,rex_e_lee,,1924.114,1928.485,"I agree, and I think that is one of the premises that underlies Midland Asphalt."
+1993.93-405,0,15049,antonin_scalia,scotus_justice,1928.485,1940.513,"To say that it comes from the Constitution is only necessarily to say that absent a statute to the contrary, we think that the disposition, given the Constitution, is such-and-such--"
+1993.93-405,0,39761,rex_e_lee,,1940.513,1941.615,That is precisely--
+1993.93-405,0,15049,antonin_scalia,scotus_justice,1941.615,1942.874,--but that doesn't necessarily say you couldn't change it by a statute.
+1993.93-405,0,39761,rex_e_lee,,1942.874,1970.162,"--Yes, and that is precisely our point, that in order to qualify as a right not to go to trial, it has to rise to a certain dignity, and that dignity is emphasized, or that dignity is, according to the Court's unanimous opinion in Midland, which was repeated just 2 months later in Lauro Lines, something that rises to the level of a statute or the Constitution."

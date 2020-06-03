@@ -1,0 +1,257 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2017.16-1150,0,15086,john_g_roberts_jr,scotus_justice,0.0,6.96,"We'll hear argument first this morning in Case 16-1150, Hall versus Hall. Mr. Simpson."
+2017.16-1150,0,62894,andrew_c_simpson,,6.96,15.2,"Mr. Chief Justice, may it please the Court: Ever since the Judiciary Act of 1789, there has been a right of appeal from a final judgment."
+2017.16-1150,0,15131,sonia_sotomayor,scotus_justice,59.32,66.4,Please explain to me what the purpose of 42 -- dividing it up into two sections is.
+2017.16-1150,0,62894,andrew_c_simpson,,66.4,67.48,Certain -- certainly.
+2017.16-1150,0,15131,sonia_sotomayor,scotus_justice,67.48,73.2,Because you don't need the (b) section under your reading.
+2017.16-1150,0,62894,andrew_c_simpson,,83.8,84.32,I --
+2017.16-1150,0,15131,sonia_sotomayor,scotus_justice,84.32,86.6,What's the necessity of it?
+2017.16-1150,0,62894,andrew_c_simpson,,86.6,105.56,"I -- I think Rule 42(a)(1), which talks about joining for hearing or trial, is designed for the case that the judge wants to keep on separate tracks but has a reason to have, say, an omnibus hearing; whereas 42(a)(2) is for true consolidation, whether it's for trial, for a hearing, or for pretrial."
+2017.16-1150,0,15131,sonia_sotomayor,scotus_justice,105.56,114.2,"I don't understand the necessity, meaning if we had only (a)(1), the court could do exactly what you're saying as well."
+2017.16-1150,0,62894,andrew_c_simpson,,123.52,125.68,I -- I agree that there is a separate purpose.
+2017.16-1150,0,15131,sonia_sotomayor,scotus_justice,212.2,229.28,"How is this different from a case in which a plaintiff brings multiple claims, not all of them directly related? And in that situation, if there's a partial entry of judgment on one of the claims, you can't appeal."
+2017.16-1150,0,62894,andrew_c_simpson,,230.6,234.6,Are you talking about where the plaintiff has filed separate lawsuits or just one lawsuit --
+2017.16-1150,0,15131,sonia_sotomayor,scotus_justice,234.6,237.16,One lawsuit with multiple claims.
+2017.16-1150,0,62894,andrew_c_simpson,,237.16,246.84,"Because this -- this is a -- my client's case is one lawsuit with multiple claims that proceed to determination, just as --"
+2017.16-1150,0,15084,ruth_bader_ginsburg,scotus_justice,246.84,254.28,Your -- your client has not brought a lawsuit with multiple claims. Your client has brought a claim.
+2017.16-1150,0,62894,andrew_c_simpson,,280.0,280.36,That's --
+2017.16-1150,0,15084,ruth_bader_ginsburg,scotus_justice,280.36,284.24,-- it doesn't bring up at all the question that Justice Sotomayor just posed.
+2017.16-1150,0,62894,andrew_c_simpson,,284.24,285.76,That -- that's entirely correct.
+2017.16-1150,0,15094,elena_kagan,scotus_justice,297.64,321.32,"Mr. Simpson, I guess I don't understand your answer to Justice Sotomayor or Justice Ginsburg because, although this suit does present this different kind of issue, I took it that your argument would apply just as well to a suit in which somebody has five claims, splits them up into five different lawsuits."
+2017.16-1150,0,62894,andrew_c_simpson,,331.04,352.48,"I -- I don't think that those -- well, I think if it gets to the point where a final judgment is entered because the case has not been managed from an early point of the case, where in that situation what the courts do is, under Rule 12(b)(6), they -- they say that this -- this -- you have five different lawsuits going on."
+2017.16-1150,0,15094,elena_kagan,scotus_justice,369.84,383.04,"I -- I guess the -- the bigger point that I'm making is that it seems to me that your argument applies whenever there is consolidation of cases, regardless of exactly how those cases look and what's in them."
+2017.16-1150,0,62894,andrew_c_simpson,,385.76,386.8,"Yes, Your Honor."
+2017.16-1150,0,15094,elena_kagan,scotus_justice,401.72,402.32,Do you think --
+2017.16-1150,0,15086,john_g_roberts_jr,scotus_justice,402.32,409.16,"I take it -- it's -- it's correct, isn't it, that if you prevail and -- so that you can appeal, you must appeal?"
+2017.16-1150,0,62894,andrew_c_simpson,,409.16,409.68,Absolutely.
+2017.16-1150,0,15086,john_g_roberts_jr,scotus_justice,429.84,448.32,"Yeah, but, I mean, I -- yes, but I think most people would think that the district court has a greater familiarity with the litigation, particularly since the court of appeals may know nothing about it until you get a notification, and understands how related the two cases are or how not related they are."
+2017.16-1150,0,62894,andrew_c_simpson,,464.84,484.68,"It -- that -- that's certainly the argument that has been made by the amici, but I think if you look at the architecture of the rules, again, Rule 23(f) also deals with an appeal coming up, an interlocutory appeal under the class action statutes, and there the discretion is given completely to the appellate court."
+2017.16-1150,0,15084,ruth_bader_ginsburg,scotus_justice,485.64,512.8,"But what about the district court in a case like this one? Could the district court say I think that E, your client, loses on her claim, but I'm not going to enter -- I'm going to instruct the clerk not to enter judgment until we resolve the -- what started out as a counterclaim and then became a separate claim?"
+2017.16-1150,0,62894,andrew_c_simpson,,512.8,514.48,I think the court can do that.
+2017.16-1150,0,15113,anthony_m_kennedy,scotus_justice,532.44,538.24,"But as -- as these questions indicate, there's a whole wide range of -- of -- of possibilities here."
+2017.16-1150,0,62894,andrew_c_simpson,,557.4,584.92,"Well, to address the first question, I -- I think the district court has great latitude to do this, but it's under the rubric of Rule 13, compulsory counterclaims, Rule 14, third-party practice, Rule 19, joinder of indispensable parties. That's where these -- the Footnote 7 cases in Gelboim, the cases that should have been filed as one, that's where that's supposed to happen."
+2017.16-1150,0,15113,anthony_m_kennedy,scotus_justice,621.16,633.44,Suppose these parties who certainly don't agree on very much did agree that this case could be treated as one for purposes of appeal. What would the stipulation say? What words would they use to do that?
+2017.16-1150,0,62894,andrew_c_simpson,,633.44,635.72,For the parties to stipulate that it would be --
+2017.16-1150,0,15113,anthony_m_kennedy,scotus_justice,635.72,641.6,The parties -- the parties agree that there should be only one appeal.
+2017.16-1150,0,62894,andrew_c_simpson,,641.6,641.84,I -- I --
+2017.16-1150,0,15113,anthony_m_kennedy,scotus_justice,641.84,646.0,Is it -- is it possible under your view? And I'm not sure what the stipulation would even say.
+2017.16-1150,0,62894,andrew_c_simpson,,646.0,668.0,I think the -- I think the stipulation in that circumstance would be the parties in 1154 who have the final judgment would stipulate in the court of appeals to a stay and say we agree that this should remain in abeyance until the rest of the case is decided. But that allows the party to protect their right of appeal.
+2017.16-1150,0,15086,john_g_roberts_jr,scotus_justice,668.0,672.6,"Well, the court of appeals might well have something to say about that."
+2017.16-1150,0,62894,andrew_c_simpson,,681.0,681.48,Certainly.
+2017.16-1150,0,62836,neil_gorsuch,scotus_justice,691.92,708.72,"Well, counsel, for the -- for the courts of appeals that prefer the practice of deferring everything until there's a final judgment on a final matter in the district court, could they just have a rule, a local rule or practice of deferring cases along the lines that we've just discussed?"
+2017.16-1150,0,62894,andrew_c_simpson,,708.72,718.68,"I -- I think -- I think if -- they could have a rule for cases that should have been filed as one, the Gelboim note 7 cases."
+2017.16-1150,0,62836,neil_gorsuch,scotus_justice,718.68,720.64,"No, I'm talking about for cases just like this."
+2017.16-1150,0,62894,andrew_c_simpson,,739.24,739.92,Understood.
+2017.16-1150,0,15094,elena_kagan,scotus_justice,763.52,764.2,Mr. --
+2017.16-1150,0,15068,samuel_a_alito_jr,scotus_justice,764.2,780.92,"Suppose you were arguing this point before the civil rules committee, and so the question would be: What is the best procedure? What would your argument be? Why is the procedure you outline a better one than the alternative?"
+2017.16-1150,0,62894,andrew_c_simpson,,780.92,785.76,The why -- the reason it's a better one is because it provides this bright-line rule.
+2017.16-1150,0,15068,samuel_a_alito_jr,scotus_justice,806.8,820.16,"Well, why would there -- why would the alternative not provide a bright-line rule? So the alternative might be that if a case -- if cases are consolidated, they are considered to be one case for purposes of the final judgment rule."
+2017.16-1150,0,62894,andrew_c_simpson,,820.16,832.08,"I -- I think -- I think that's counter to a whole -- a lot of history of this Court and counter to the rest of the, as we describe in the briefs, the various problems with merging cases."
+2017.16-1150,0,15113,anthony_m_kennedy,scotus_justice,832.08,843.88,"Could you design a rule, if you were following Justice Alito's question, you're addressing the rules committee, you want to improve the rules, could you design a rule so that the parties or the judge does have an option?"
+2017.16-1150,0,62894,andrew_c_simpson,,843.88,844.52,Absolutely.
+2017.16-1150,0,15068,samuel_a_alito_jr,scotus_justice,864.72,877.04,"But why is that better than Rule 54(b)? This is what I'm getting at. So you -- I asked you why would your rule be a better rule, and part of your answer was there's a lot of history and authority on the other side."
+2017.16-1150,0,62894,andrew_c_simpson,,896.88,899.04,It creates a lot of murky rules.
+2017.16-1150,0,15084,ruth_bader_ginsburg,scotus_justice,921.76,932.2,"In this case -- in this case, it was the clerk that entered the final judgment, am I right? The clerk was the one who issued the judgment under 58."
+2017.16-1150,0,62894,andrew_c_simpson,,932.2,932.96,Yes.
+2017.16-1150,0,15084,ruth_bader_ginsburg,scotus_justice,932.96,940.16,And doesn't that rule provide that the court could otherwise order if the court didn't want that judgment to be entered?
+2017.16-1150,0,62894,andrew_c_simpson,,940.16,943.44,Yes.
+2017.16-1150,0,15094,elena_kagan,scotus_justice,962.84,968.04,Could you explain a little bit more how you're reading Rule 58?
+2017.16-1150,0,62894,andrew_c_simpson,,968.04,968.84,Sure.
+2017.16-1150,0,15094,elena_kagan,scotus_justice,968.84,975.72,"And that was what Justice Ginsburg asked you; is that right, when you said yes, it authorizes the court to do that."
+2017.16-1150,0,62894,andrew_c_simpson,,977.48,996.56,"It -- it's non-specific. It is -- essentially, it says if -- the -- with -- after entry of a verdict, or -- and two other occasions, the clerk shall enter the judgment, unless the district judge directs otherwise. There's no guidance given to that."
+2017.16-1150,0,62836,neil_gorsuch,scotus_justice,996.56,1003.0,"Well, but, counsel, that's what it says I think in (b)(1) with respect to general verdicts."
+2017.16-1150,0,62894,andrew_c_simpson,,1016.04,1019.68,I -- I -- I think -- I think it does have to be entered promptly.
+2017.16-1150,0,62836,neil_gorsuch,scotus_justice,1026.28,1057.36,"But as I understood your answer to Justice Kagan and -- and Justice Ginsburg, it was one of the reasons we don't need to worry about your proposed rule is that the district court has discretion to delay the entry of judgment and that that is textually found in (b)(1), which, indeed, it is with respect to general verdicts, but there's no parallel language that you can rely on with respect to (b)(2). And does that diminish your argument by suggesting there the district court doesn't have jurisdiction -- discretion to delay the entry of judgment?"
+2017.16-1150,0,62894,andrew_c_simpson,,1057.36,1060.08,I -- I don't -- I don't think it diminishes the argument at all.
+2017.16-1150,0,15094,elena_kagan,scotus_justice,1071.52,1086.36,"May I ask you a different kind of question, Mr. Simpson? It just really goes back to the language here. I mean, would you agree that your understanding of what it means to consolidate cases is different from the ordinary meaning of that term?"
+2017.16-1150,0,62894,andrew_c_simpson,,1086.36,1091.36,"I think -- I'm not sure what the ordinary meaning of that term is, quite frankly, Your Honor."
+2017.16-1150,0,15094,elena_kagan,scotus_justice,1091.36,1095.68,"Well, suppose I said to you that a company was going to consolidate two offices."
+2017.16-1150,0,62894,andrew_c_simpson,,1098.16,1110.44,"Typically, I think people would think they would have one office. So, if you're talking about the -- the typical layman's understanding, yes, I think that means one."
+2017.16-1150,0,15094,elena_kagan,scotus_justice,1110.96,1130.04,"So -- and it's not just laymen, right? I mean, if you look at Black's Law Dictionary, it says a consolidation in civil procedure, it defines as ""the court-ordered unification of two or more actions into a single action."" So that's the Black's Law Dictionary definition."
+2017.16-1150,0,62894,andrew_c_simpson,,1133.04,1135.8,And I -- I -- I don't think that's what the rules do.
+2017.16-1150,0,15084,ruth_bader_ginsburg,scotus_justice,1137.56,1141.24,"What was -- there was a statute, was there not, before the rules, there was a statute?"
+2017.16-1150,0,62894,andrew_c_simpson,,1141.24,1142.36,Correct.
+2017.16-1150,0,15084,ruth_bader_ginsburg,scotus_justice,1142.36,1148.24,"And the statute used the word ""consolidate,"" didn't it? I don't have it in front of me."
+2017.16-1150,0,62894,andrew_c_simpson,,1153.52,1154.04,"Yes, Your Honor."
+2017.16-1150,0,15084,ruth_bader_ginsburg,scotus_justice,1154.04,1157.68,Didn't that statute --
+2017.16-1150,0,62894,andrew_c_simpson,,1157.68,1159.8,"Again, I'm looking for the language, but --"
+2017.16-1150,0,15094,elena_kagan,scotus_justice,1159.8,1160.76,"I mean, it did."
+2017.16-1150,0,62894,andrew_c_simpson,,1170.6,1171.08,Correct.
+2017.16-1150,0,15094,elena_kagan,scotus_justice,1171.08,1174.28,So Johnson is very much on your side.
+2017.16-1150,0,62894,andrew_c_simpson,,1211.6,1227.76,"That -- I -- of course, you're -- you are operating on a blank slate and you could do that, but I think when you look at how the courts have interpreted ""consolidate,"" there are many different understandings of the term. And -- and so -- and I think that's what the -- the rules have embodied over the years."
+2017.16-1150,0,15094,elena_kagan,scotus_justice,1228.12,1233.28,"Well, there is -- lots of courts say, look, we're going to consolidate for some purposes but not all purposes."
+2017.16-1150,0,62894,andrew_c_simpson,,1260.36,1260.96,"Yes, Your Honor."
+2017.16-1150,0,15094,elena_kagan,scotus_justice,1268.52,1268.88,I know.
+2017.16-1150,0,62894,andrew_c_simpson,,1274.76,1281.72,"But I would submit then that if -- if that would be the definition, then the cases must truly become one."
+2017.16-1150,0,15086,john_g_roberts_jr,scotus_justice,1281.72,1282.08,But there could be --
+2017.16-1150,0,15139,stephen_g_breyer,scotus_justice,1282.08,1308.52,"In which case I have just one question, which is forget the consolidation for a moment, just to clarify in my mind; think of Rule 54(b), imagine it's a case with a lot of parties and a lot of issues, and Rule 54(b), I think, says that ""the court can direct entry of a final judgment as to one or more, but fewer than all, the claims or parties,"" right?"
+2017.16-1150,0,62894,andrew_c_simpson,,1308.52,1308.64,Yes.
+2017.16-1150,0,15139,stephen_g_breyer,scotus_justice,1308.64,1309.4,Okay.
+2017.16-1150,0,62894,andrew_c_simpson,,1319.88,1321.4,I don't -- I don't know how that --
+2017.16-1150,0,15139,stephen_g_breyer,scotus_justice,1321.4,1328.52,"Well, that's important because -- because what I'm going to ask you is -- is -- there is a single piece of paper here, is there not?"
+2017.16-1150,0,62894,andrew_c_simpson,,1328.52,1328.76,Yes.
+2017.16-1150,0,15139,stephen_g_breyer,scotus_justice,1328.76,1330.28,"And it says final judgment, right?"
+2017.16-1150,0,62894,andrew_c_simpson,,1330.28,1331.52,"In this case only, yes."
+2017.16-1150,0,15139,stephen_g_breyer,scotus_justice,1331.52,1341.24,"So I thought perhaps there is a rule somewhere which says when there is a final judgment on a separate piece of paper, you can take an appeal."
+2017.16-1150,0,62894,andrew_c_simpson,,1378.04,1379.32,"I think so, yes."
+2017.16-1150,0,15139,stephen_g_breyer,scotus_justice,1379.32,1379.72,I do?
+2017.16-1150,0,62894,andrew_c_simpson,,1379.72,1380.92,"Yes, I think so."
+2017.16-1150,0,15139,stephen_g_breyer,scotus_justice,1380.92,1381.4,Okay.
+2017.16-1150,0,62894,andrew_c_simpson,,1403.96,1405.44,A lot of havoc.
+2017.16-1150,0,15139,stephen_g_breyer,scotus_justice,1405.44,1408.64,"Now, I know you think that, but I want to know what."
+2017.16-1150,0,62894,andrew_c_simpson,,1408.64,1425.44,"Well, for -- for starters, there's -- there's always been the core, going -- going not even back just to the Judiciary Act but back to Blackstone, of the final judgment that -- where the court disassociates itself from the case being an appealable judgment."
+2017.16-1150,0,15139,stephen_g_breyer,scotus_justice,1426.6,1433.56,"And so all the time, under Rule 54(b) when he issues a final judgment, it's always appealable? True or false?"
+2017.16-1150,0,62894,andrew_c_simpson,,1433.56,1436.12,If -- if the judge certifies the question under --
+2017.16-1150,0,15139,stephen_g_breyer,scotus_justice,1436.12,1437.4,"No, he doesn't certify it."
+2017.16-1150,0,62894,andrew_c_simpson,,1459.88,1464.12,"Yes, unless the court of appeals decides that the judge has not applied 54(b) --"
+2017.16-1150,0,15139,stephen_g_breyer,scotus_justice,1464.12,1486.6,"So you will -- I will be able to find authority where -- that supports this; is that right? And where is that authority in your brief? Because I want to -- the authority is for the proposition, forgetting consolidation, that once a piece of paper under 54(b) is entered, says final judgment in respect to some but not all of the case, there is always an appeal. Where is that authority?"
+2017.16-1150,0,62894,andrew_c_simpson,,1486.6,1489.28,I think that's what Rule 54(b) says.
+2017.16-1150,0,15139,stephen_g_breyer,scotus_justice,1489.28,1493.84,Where is the authority that says that's what Rule 54(b) means?
+2017.16-1150,0,62894,andrew_c_simpson,,1493.84,1497.12,I -- I -- I'm not sure that the question has come up in that --
+2017.16-1150,0,15139,stephen_g_breyer,scotus_justice,1497.12,1498.36,"Oh, it must have come up."
+2017.16-1150,0,15084,ruth_bader_ginsburg,scotus_justice,1518.88,1525.28,"In 54(b), it's not simply that the -- the judge enters a judgment. He has to make a finding."
+2017.16-1150,0,15139,stephen_g_breyer,scotus_justice,1543.24,1543.96,Thank you.
+2017.16-1150,0,62894,andrew_c_simpson,,1545.08,1545.52,Okay.
+2017.16-1150,0,15086,john_g_roberts_jr,scotus_justice,1562.32,1569.52,"Thank you, counsel. Mr. Katyal."
+2017.16-1150,1,37171,neal_kumar_katyal,,1569.52,1580.2,"Thank you, Mr. Chief Justice, and may it please the Court: The district here entered -- the court entered an order here consolidating for all purposes the cases brought by brother and sister against each other."
+2017.16-1150,1,15131,sonia_sotomayor,scotus_justice,1595.68,1609.08,Could you tell me how you square this with the fact that the district court denied the motion for attorneys' fees because it wasn't filed with -- within 15 days of the final judgment?
+2017.16-1150,1,37171,neal_kumar_katyal,,1609.08,1609.6,Absolutely.
+2017.16-1150,1,15131,sonia_sotomayor,scotus_justice,1614.84,1616.44,But it does suggest to me that the district court --
+2017.16-1150,1,37171,neal_kumar_katyal,,1616.44,1616.56,I will --
+2017.16-1150,1,15131,sonia_sotomayor,scotus_justice,1616.56,1617.48,-- is treating them --
+2017.16-1150,1,37171,neal_kumar_katyal,,1617.48,1618.24,I don't think so.
+2017.16-1150,1,15086,john_g_roberts_jr,scotus_justice,1636.84,1637.28,But just to interrupt --
+2017.16-1150,1,37171,neal_kumar_katyal,,1637.28,1637.48,Yes.
+2017.16-1150,1,15086,john_g_roberts_jr,scotus_justice,1637.48,1640.48,-- that means -- that means that maybe they can't raise a separate claim for the fees.
+2017.16-1150,1,37171,neal_kumar_katyal,,1643.28,1659.88,"No, but the -- as I understand his argument, it's that we -- this case is not an all-purpose consolidation case. And I think to make that argument -- and using the attorneys' fees as his rationale for that. And I think to make that argument only in the reply brief at the merits stage is too late, Mr. Chief Justice."
+2017.16-1150,1,15086,john_g_roberts_jr,scotus_justice,1659.88,1660.0,Okay.
+2017.16-1150,1,37171,neal_kumar_katyal,,1661.0,1675.0,"Now, with -- with respect to the attorney fees questions, I think my friend has misstated the way the rules work. So, first of all, the judgment here, the piece of paper, to use Justice Breyer's term, was entered on February 4th of 2015. That resolved all claims."
+2017.16-1150,1,15131,sonia_sotomayor,scotus_justice,1726.76,1739.76,"But if it's not a final judgment at all, which is your point, it's not a final judgment until both -- all issues in both cases are resolved, how does the 14-day clock start --"
+2017.16-1150,1,37171,neal_kumar_katyal,,1739.76,1740.32,"So, Justice Sotomayor --"
+2017.16-1150,1,15131,sonia_sotomayor,scotus_justice,1740.32,1741.12,-- without a final judgment?
+2017.16-1150,1,37171,neal_kumar_katyal,,1741.12,1763.12,"Justice Sotomayor, our position is it is a final judgment when the piece of paper was entered on February 4th. And what changed it, and this is what Rule 59, the advisory committee notes say, is when you file a Rule 59 motion, it suspends what was otherwise a final judgment. So we agree, my friend could have brought his appeal February 5th, absolutely. There's no problem with that."
+2017.16-1150,1,15084,ruth_bader_ginsburg,scotus_justice,1773.08,1793.04,"But the piece -- the piece has a final judgment attached to it. There were two final judgments, right? There was a final judgment in her case and there was a final judgment in her brother's case. She's not -- she wants to appeal her case."
+2017.16-1150,1,37171,neal_kumar_katyal,,1821.28,1822.76,"Yes, we do, Justice Ginsburg."
+2017.16-1150,1,15084,ruth_bader_ginsburg,scotus_justice,1862.52,1863.72,But it's for the judge --
+2017.16-1150,1,15086,john_g_roberts_jr,scotus_justice,1863.72,1877.32,"Well, if it's just -- if it's -- if they're consolidated for all purposes, why did the district court enter separate judgments? Why didn't he wait and say, well, there's only going to be one judgment because these are all consolidated for all purposes, so I should wait until we're ready to have one judgment?"
+2017.16-1150,1,37171,neal_kumar_katyal,,1877.32,1886.96,"Because, again, I think lots of times courts do it for belts and suspenders reasons, but I don't think that that somehow takes back their all-purpose consolidation."
+2017.16-1150,1,62836,neil_gorsuch,scotus_justice,1888.16,1889.24,Why not? Why doesn't it?
+2017.16-1150,1,37171,neal_kumar_katyal,,1889.24,1889.44,So --
+2017.16-1150,1,62836,neil_gorsuch,scotus_justice,1889.44,1907.08,"Now, that's where I get stuck. If we have a district court that issues separate judgments, I think pretty much any cautious litigator would take that seriously and file a notice of appeal because it's a signal from the district court that it is complete."
+2017.16-1150,1,37171,neal_kumar_katyal,,1909.8,1914.24,"So, Justice Gorsuch, first, let's start with what the district court did."
+2017.16-1150,1,62836,neil_gorsuch,scotus_justice,1921.92,1923.2,I've read it and it's ambiguous.
+2017.16-1150,1,37171,neal_kumar_katyal,,1926.04,1926.08,Well --
+2017.16-1150,1,62836,neil_gorsuch,scotus_justice,1926.08,1939.0,"It doesn't say for all purposes. And then we have, as the Chief Justice points out, a later order from the same district court, which I assume we would take as seriously as a consolidation order, it being a final judgment and all."
+2017.16-1150,1,37171,neal_kumar_katyal,,1941.6,1941.84,Yes.
+2017.16-1150,1,15084,ruth_bader_ginsburg,scotus_justice,1966.32,1966.92,If the case --
+2017.16-1150,1,15139,stephen_g_breyer,scotus_justice,1966.92,1969.88,That's why I'm interested in Rule -- in Rule 54.
+2017.16-1150,1,37171,neal_kumar_katyal,,1994.6,1995.8,"Well, I don't --"
+2017.16-1150,1,15139,stephen_g_breyer,scotus_justice,1995.8,1996.44,Period.
+2017.16-1150,1,37171,neal_kumar_katyal,,2033.2,2033.36,So --
+2017.16-1150,1,15139,stephen_g_breyer,scotus_justice,2033.36,2045.56,That wouldn't affect the judgment on -- that says final judgment as to Smith when Jones gets a new trial on other issues. And so why wouldn't the lawyer think exactly the same here?
+2017.16-1150,1,37171,neal_kumar_katyal,,2045.56,2045.84,So --
+2017.16-1150,1,15139,stephen_g_breyer,scotus_justice,2045.84,2047.44,It's the same process.
+2017.16-1150,1,37171,neal_kumar_katyal,,2055.96,2060.24,"So -- so, Justice Breyer, I'll answer your question and then, if I could, I'd like to return to Justice Gorsuch's question."
+2017.16-1150,1,15139,stephen_g_breyer,scotus_justice,2060.24,2060.52,Yeah.
+2017.16-1150,1,37171,neal_kumar_katyal,,2060.52,2064.52,So the answer to your question is the part of Rule 54 which nobody has read yet.
+2017.16-1150,1,15139,stephen_g_breyer,scotus_justice,2082.84,2083.08,Right.
+2017.16-1150,1,37171,neal_kumar_katyal,,2083.08,2122.76,"Now, here is the important language, a sentence down: ""Otherwise, any order or other decision, however designated, that adjudicates fewer than all the claims or rights and liabilities of fewer than all the parties does not end the action."" So the Rule 54, Justice Breyer, answers the question by saying, look, if you have a consolidated case, and then not all the claims or counterclaims of all of the rights and parties are adjudicated, then you're on notice that your case is not yet final. And that's what we're asking you to do, which is the rule, as our red brief at page 14 points out, in every single circuit, with the partial exception of the Sixth Circuit, which has introduced contrary things."
+2017.16-1150,1,15086,john_g_roberts_jr,scotus_justice,2161.12,2163.56,"Mr. Katyal, I -- one thing that concerns me."
+2017.16-1150,1,37171,neal_kumar_katyal,,2210.36,2211.36,"No, Mr. Chief Justice."
+2017.16-1150,1,15084,ruth_bader_ginsburg,scotus_justice,2241.2,2252.52,But why wouldn't the district court think: What's the point in my entering a 54(b) rule? I have a case in which a final judgment is entered.
+2017.16-1150,1,37171,neal_kumar_katyal,,2274.04,2301.76,"So just let me say, Justice Ginsburg, I'm not aware of any case in the entire federal system that says because I entered a piece of paper with the -- that uses the words final judgment, that that alone is enough. And to the contrary, and this goes back to Justice Breyer's question, Mackey and Cold Metal Process are both cases in which there was the designation of a final judgment. But that wasn't enough because, if you resolve only some of the claims or you resolve claims only against some of the defendants, that's not enough."
+2017.16-1150,1,15084,ruth_bader_ginsburg,scotus_justice,2304.32,2324.44,"Can you explain to me, you did say in your brief that there is -- that a common issue is central to the resolution of these two cases. One case is the estate against the son for using his -- rent from his mother's property improperly."
+2017.16-1150,1,37171,neal_kumar_katyal,,2338.16,2346.96,"The Third Circuit found -- and this is Petition Appendix pages 8 and 9 -- that there was overlap, that there was going to be credibility determinations, that there was going to be --"
+2017.16-1150,1,15084,ruth_bader_ginsburg,scotus_justice,2346.96,2349.08,You said the central issue.
+2017.16-1150,1,37171,neal_kumar_katyal,,2363.36,2363.8,And --
+2017.16-1150,1,15084,ruth_bader_ginsburg,scotus_justice,2363.8,2364.6,So what's --
+2017.16-1150,1,37171,neal_kumar_katyal,,2364.6,2375.44,And the central issues in both turn on the state of mind and the credibility of both the brother and the sister. And that is what the petition appendix -- what the Third Circuit found.
+2017.16-1150,1,15094,elena_kagan,scotus_justice,2375.44,2375.56,Mr. --
+2017.16-1150,1,37171,neal_kumar_katyal,,2375.56,2376.96,That's why they were central.
+2017.16-1150,1,15084,ruth_bader_ginsburg,scotus_justice,2387.32,2400.4,"Can I ask you, this relates to the question that the Chief asked, and I think it's key: She's lost the case, and she's lost it and has a final judgment."
+2017.16-1150,1,37171,neal_kumar_katyal,,2421.52,2421.88,Right.
+2017.16-1150,1,15084,ruth_bader_ginsburg,scotus_justice,2425.48,2426.36,How much time?
+2017.16-1150,1,37171,neal_kumar_katyal,,2426.36,2428.68,"Well, I think at about approximately two years."
+2017.16-1150,1,15084,ruth_bader_ginsburg,scotus_justice,2431.8,2433.56,And she should -- she should sit there --
+2017.16-1150,1,37171,neal_kumar_katyal,,2433.56,2434.04,No.
+2017.16-1150,1,15084,ruth_bader_ginsburg,scotus_justice,2434.04,2435.0,-- for the two years?
+2017.16-1150,1,37171,neal_kumar_katyal,,2435.0,2435.36,No.
+2017.16-1150,1,15084,ruth_bader_ginsburg,scotus_justice,2451.48,2459.32,"How would a lawyer that has a final judgment, which -- you -- you get a piece of paper that says final judgment, you know that now you can appeal."
+2017.16-1150,1,37171,neal_kumar_katyal,,2470.0,2485.04,"Because, as I was saying, Justice Ginsburg, any lawyer who read Rule 54(b), the language I was reading to Justice Breyer, it says however you designate it -- and I'm not even sure it uses the words ""final judgment"" on that form, but however you designate it, the designation alone is not enough."
+2017.16-1150,1,15139,stephen_g_breyer,scotus_justice,2489.48,2489.68,Okay.
+2017.16-1150,1,37171,neal_kumar_katyal,,2489.8,2491.48,-- you have a trap for the unwary on the other side.
+2017.16-1150,1,15139,stephen_g_breyer,scotus_justice,2491.48,2491.8,All right.
+2017.16-1150,1,37171,neal_kumar_katyal,,2550.68,2551.24,That is right.
+2017.16-1150,1,15068,samuel_a_alito_jr,scotus_justice,2558.24,2558.6,"Well, in Johnson --"
+2017.16-1150,1,15094,elena_kagan,scotus_justice,2558.6,2558.68,Mr. Katyal --
+2017.16-1150,1,37171,neal_kumar_katyal,,2558.68,2560.24,-- that you keep the same rule in place.
+2017.16-1150,1,15068,samuel_a_alito_jr,scotus_justice,2560.24,2583.2,"Mr. Katyal, in Johnson, the Court -- before Rule 42 was adopted, the Court said consolidation is permitted as a matter of convenience and economy and administration but does not merge the suits into a single cause or change the rights of the parties. Now, if -- and -- and there's the old rule that the plaintiff is the master of the complaint that the plaintiff files."
+2017.16-1150,1,37171,neal_kumar_katyal,,2605.2,2611.68,"So, Justice Alito, we quite agree that plaintiffs are in general the masters of their complaint, but they're not masters of the timing of their appeal."
+2017.16-1150,1,15084,ruth_bader_ginsburg,scotus_justice,2643.36,2671.6,"The advisory committee did not say -- it said insofar as; it didn't say that your position is the correct one. Suppose -- could you not, instead of just -- there was -- the court granted a new trial in your client's case against the daughter."
+2017.16-1150,1,37171,neal_kumar_katyal,,2681.56,2689.28,"Well, I -- I think we might be able to, but as Justice Gorsuch was pointing out, that delay of the entry of the judgment when you have a special verdict form --"
+2017.16-1150,1,15084,ruth_bader_ginsburg,scotus_justice,2689.28,2689.64,But you had --
+2017.16-1150,1,37171,neal_kumar_katyal,,2689.64,2691.6,-- has to occur within 150 days.
+2017.16-1150,1,15084,ruth_bader_ginsburg,scotus_justice,2691.6,2712.52,"You had a certain advantage by not doing that, by not asking to stay the entry of the judgment on the estate's claim, because then you and your law firm have no claim outstanding against you that has to be shown on financial statements."
+2017.16-1150,1,37171,neal_kumar_katyal,,2712.52,2713.52,So --
+2017.16-1150,1,15084,ruth_bader_ginsburg,scotus_justice,2713.52,2721.52,"So by having the separate judgment final, you don't have to report it --"
+2017.16-1150,1,37171,neal_kumar_katyal,,2721.52,2721.76,So --
+2017.16-1150,1,15084,ruth_bader_ginsburg,scotus_justice,2721.76,2734.4,"-- but if you're right that it really isn't a final judgment, then as the -- Sam and his law firm, had they listed this as a claim still outstanding against them --"
+2017.16-1150,1,37171,neal_kumar_katyal,,2734.4,2741.52,"So, Justice Ginsburg, we agree with you that sometimes, if you adopt our rule, it's going to benefit one side or the other."
+2017.16-1150,1,15084,ruth_bader_ginsburg,scotus_justice,2747.52,2748.88,But I asked -- I asked you that question.
+2017.16-1150,1,37171,neal_kumar_katyal,,2754.68,2762.12,"Well, I think that -- I think that, as the Third Circuit said, yes, there's so much overlap between these two that there can be --"
+2017.16-1150,1,15084,ruth_bader_ginsburg,scotus_justice,2762.12,2771.92,"No, I'm asking you how that law firm treated what was a claim against them and now is no longer because they prevailed after the trial."
+2017.16-1150,1,37171,neal_kumar_katyal,,2774.16,2781.04,"Well, they can certainly appeal from that judgment against -- that -- which dismissed the claim against the law firm. The question is only can they appeal of right --"
+2017.16-1150,1,15084,ruth_bader_ginsburg,scotus_justice,2781.04,2789.88,"No, I'm not talking about the claim against -- I just want to know is that -- on your theory, then the claims should be still outstanding."
+2017.16-1150,1,37171,neal_kumar_katyal,,2789.88,2793.8,We agree every claim that they lost on one of those two pieces of paper --
+2017.16-1150,1,15084,ruth_bader_ginsburg,scotus_justice,2793.8,2794.36,"No, no, on the --"
+2017.16-1150,1,37171,neal_kumar_katyal,,2794.36,2794.96,-- can be appealed.
+2017.16-1150,1,15084,ruth_bader_ginsburg,scotus_justice,2794.96,2798.04,-- the claim that they won.
+2017.16-1150,1,37171,neal_kumar_katyal,,2798.04,2798.2,The --
+2017.16-1150,1,15084,ruth_bader_ginsburg,scotus_justice,2798.2,2805.0,"The claim that they -- they won -- the estate lost, right? The estate lost that case."
+2017.16-1150,1,37171,neal_kumar_katyal,,2816.24,2823.64,"So if I understand your question -- I mean, if they lost everything, they lost -- and they -- they didn't win any claims against us."
+2017.16-1150,1,62836,neil_gorsuch,scotus_justice,2842.92,2853.8,"Mr. Katyal, on 54, where I get tripped up is the word ""action."" 54 speaks of sending upstairs a claim within an -- within an action."
+2017.16-1150,1,37171,neal_kumar_katyal,,2875.04,2875.64,I don't think so.
+2017.16-1150,1,62836,neil_gorsuch,scotus_justice,2886.2,2888.64,"Do you have any -- do you have any answer on the text of action, though?"
+2017.16-1150,1,37171,neal_kumar_katyal,,2888.64,2911.56,"Well, I think that the text of action is -- refers -- means a single judicial unit, and the -- and the rules empower a court to -- a district court to decide what is a single judicial unit. So this is why every circuit, basically, with the exception of the Sixth, says it is -- an action for purposes of Rule 54 is a all-purpose consolidated set of cases which is merged."
+2017.16-1150,1,62836,neil_gorsuch,scotus_justice,2923.32,2926.2,"Do you know anywhere else in -- in the rules where ""action"" is used differently?"
+2017.16-1150,1,37171,neal_kumar_katyal,,2926.2,2936.04,"Well, I think actually -- you know, I don't -- I'm not sure that you -- you should get into that for purposes here and -- and write an opinion that says action for all purposes in other rules, but --"
+2017.16-1150,1,62836,neil_gorsuch,scotus_justice,2936.04,2938.68,"No, I'm -- I'm just asking whether you're familiar with any other place in the rules."
+2017.16-1150,1,37171,neal_kumar_katyal,,2938.68,2942.04,"Well, I -- I don't know that it comes up really in -- in any other rules."
+2017.16-1150,1,15084,ruth_bader_ginsburg,scotus_justice,2998.52,2998.8,"No, we don't repudiate --"
+2017.16-1150,1,37171,neal_kumar_katyal,,2998.8,2999.56,-- Justice Sotomayor --
+2017.16-1150,1,15084,ruth_bader_ginsburg,scotus_justice,2999.56,3000.32,-- it at all.
+2017.16-1150,1,37171,neal_kumar_katyal,,3000.32,3000.6,"Well, but --"
+2017.16-1150,1,15084,ruth_bader_ginsburg,scotus_justice,3000.6,3002.64,There's not one word said about Johnson.
+2017.16-1150,1,37171,neal_kumar_katyal,,3002.64,3012.72,"Well, there's not one word said about Johnson, but there is something important in the rules, and this goes back to the very first question today, which is Justice Sotomayor's question, there are two different parts to Rule 42."
+2017.16-1150,1,15094,elena_kagan,scotus_justice,3038.96,3048.64,"And was that in the prior statute, Mr. Katyal, that 42(a)(1), which really does lead you to think about the term consolidation differently."
+2017.16-1150,1,37171,neal_kumar_katyal,,3048.64,3048.92,Right.
+2017.16-1150,1,15094,elena_kagan,scotus_justice,3056.64,3062.96,"Could you also add 42(a)(3)? Because 42(a)(1) is about, you know, joint hearings and trials."
+2017.16-1150,1,37171,neal_kumar_katyal,,3062.96,3063.24,Exactly.
+2017.16-1150,1,15094,elena_kagan,scotus_justice,3063.24,3069.24,"42(a)(3) says, look, you can also issue any other kind of order you want to minimize delay."
+2017.16-1150,1,37171,neal_kumar_katyal,,3074.16,3099.16,"Exactly, Justice Kagan. And so, look, I could imagine that you could twist the rule and mean it to -- to be something else and try and get it out of Johnson, but, boy, before you did so and go against the plain text, I think you'd have to have a incredibly good reason to depart from the long-standing idea that federal district courts are best empowered, as the amicus brief by federal judges says, to make these determinations, to send up those cases."
+2017.16-1150,1,15086,john_g_roberts_jr,scotus_justice,3099.16,3100.72,You -- you've mentioned that a couple times.
+2017.16-1150,1,15086,john_g_roberts_jr,scotus_justice,3111.16,3113.44,I -- I don't quite know what to -- what to do with that.
+2017.16-1150,1,37171,neal_kumar_katyal,,3113.44,3113.72,Right.
+2017.16-1150,1,15086,john_g_roberts_jr,scotus_justice,3129.68,3131.6,"Well, it's the perspective of seven individuals."
+2017.16-1150,1,37171,neal_kumar_katyal,,3134.96,3135.24,Right.
+2017.16-1150,1,15094,elena_kagan,scotus_justice,3163.64,3180.76,"Well, Mr. Katyal, what do you think we should do if, on the one hand, we think your rule makes a lot of sense for cases that are consolidated completely for all purposes, but, on the other hand, we're concerned that this case should not have been? What should we do with that?"
+2017.16-1150,1,37171,neal_kumar_katyal,,3180.76,3186.32,"Well, I don't think, you know, that it's way too late to say this case shouldn't have been consolidated."
+2017.16-1150,1,15094,elena_kagan,scotus_justice,3189.16,3196.4,It just does seem to me that many of the questions that have been put to you really do deal with the question of whether consolidation was proper here.
+2017.16-1150,1,37171,neal_kumar_katyal,,3196.4,3196.56,Right.
+2017.16-1150,1,15084,ruth_bader_ginsburg,scotus_justice,3229.04,3240.12,"Well, would you -- you're making it two cases, in fact, your client did, because originally that claim was brought as a counterclaim, part of one action and a counterclaim."
+2017.16-1150,1,37171,neal_kumar_katyal,,3246.08,3252.4,"So, Justice Ginsburg, that's exactly what's going on in Cold Metal. There are two very different -- there are two different causes of action."
+2017.16-1150,1,15084,ruth_bader_ginsburg,scotus_justice,3252.4,3259.44,You made it -- your client has made it from a case with a claim and a counterclaim into two cases.
+2017.16-1150,1,37171,neal_kumar_katyal,,3259.44,3260.08,Right.
+2017.16-1150,1,62836,neil_gorsuch,scotus_justice,3289.4,3293.8,Wouldn't it be clearer if it were in the rules rather than in the case law which is currently so split?
+2017.16-1150,1,37171,neal_kumar_katyal,,3293.8,3295.12,"Well, I don't think it's actually split."
+2017.16-1150,1,62836,neil_gorsuch,scotus_justice,3296.16,3298.44,"Well, the reason that we took this case is because there is a split."
+2017.16-1150,1,37171,neal_kumar_katyal,,3298.44,3301.32,"Well, only with a partial exception of the Sixth Circuit."
+2017.16-1150,1,15086,john_g_roberts_jr,scotus_justice,3333.0,3341.2,"Thank you, counsel. Mr. Simpson, four minutes."
+2017.16-1150,2,62894,andrew_c_simpson,,3341.2,3360.48,"The -- the characterization of this consolidation changed in the -- from the opposition to the writ for certiorari to the red brief. At the red brief, at the certiorari stage, it was characterized as we did as a consolidation for trial. And that's what it was."
+2017.16-1150,2,15131,sonia_sotomayor,scotus_justice,3449.24,3454.48,How long -- do you have any idea why it's being held? This is more curiosity.
+2017.16-1150,2,62894,andrew_c_simpson,,3454.48,3459.92,"No, I -- I -- I have a theory."
+2017.16-1150,2,15131,sonia_sotomayor,scotus_justice,3490.28,3490.88,What's the verdict?
+2017.16-1150,2,62894,andrew_c_simpson,,3490.88,3492.44,The -- the verdict --
+2017.16-1150,2,15131,sonia_sotomayor,scotus_justice,3492.44,3493.32,Against your client?
+2017.16-1150,2,62894,andrew_c_simpson,,3493.32,3496.64,The verdict was against Elsa in her individual capacity.
+2017.16-1150,2,15086,john_g_roberts_jr,scotus_justice,3530.24,3531.76,"Thank you, counsel."

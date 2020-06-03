@@ -1,0 +1,295 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2015.13-1067,0,15086,john_g_roberts_jr,scotus_justice,0.0,13.56,"We'll hear argument first this morning, first this term, in Case 13-1067, OBB Personenverkehr v. Sachs. Mr. Basombrio."
+2015.13-1067,0,62590,juan_c_basombrio,,13.56,23.35,"Mr. Chief Justice, and may it please the Court: This personal injury action is based upon an accident that occurred in Austria."
+2015.13-1067,0,15084,ruth_bader_ginsburg,scotus_justice,55.91,70.42,"But in -- in that case, there was a distinction between State activity -- that is, police activity -- and the commercial activity in hiring the plaintiff."
+2015.13-1067,0,62590,juan_c_basombrio,,83.745,85.59,"Yes, Your Honor, that's correct."
+2015.13-1067,0,15113,anthony_m_kennedy,scotus_justice,103.11,110.25,"Just as a matter of background, suppose a hypothetical case -- no foreign sovereign."
+2015.13-1067,0,62590,juan_c_basombrio,,124.785,131.5,"Our position is that if OBB was a private entity, there would not be jurisdiction over OBB."
+2015.13-1067,0,15113,anthony_m_kennedy,scotus_justice,136.39,139.06,And Daimler is your best case for that proposition?
+2015.13-1067,0,62590,juan_c_basombrio,,139.06,139.685,"Yes, Your Honor."
+2015.13-1067,0,15094,elena_kagan,scotus_justice,139.685,157.945,"Do -- do you think that it's the same test? In other words, is the test a specific jurisdiction test here, based-on, arising-from, that we are basically asking the same question as we would be asking if this were a -- a foreign corporation?"
+2015.13-1067,0,62590,juan_c_basombrio,,157.945,159.74,"I don't believe so, Your Honor."
+2015.13-1067,0,15094,elena_kagan,scotus_justice,174.7,181.9,"Well, the why -- I mean, it doesn't seem to me that that wording is very different from the wording that we've used in specific jurisdiction cases."
+2015.13-1067,0,62590,juan_c_basombrio,,242.315,252.38,The reason why is because the FSIA takes place of the -- both the subject matter jurisdiction analysis and the personal jurisdiction analysis.
+2015.13-1067,0,15131,sonia_sotomayor,scotus_justice,276.5,320.375,"I'm -- I'm sorry. I'm -- I don't even understand why we're talking about based-upon. As Justice Ginsburg said, there's no dispute here that whether the based-upon is the ticket sale or the operation of the train, both of them are commercial activities. Isn't the work in substantial contact with the United States? Isn't that what we should be looking at instead? Was this commercial activity substantial enough? The operation of the train and the ticket sale here, did it have a substantial contact with the United States?"
+2015.13-1067,0,62590,juan_c_basombrio,,320.375,323.195,"There's a three-step analysis, Your Honor, in Nelson."
+2015.13-1067,0,15131,sonia_sotomayor,scotus_justice,336.82,344.125,So we did that in the context of deciding when something was a sovereign act as opposed to a commercial act.
+2015.13-1067,0,62590,juan_c_basombrio,,356.97,359.83,"It's a three-step analysis. First, you identify the activity."
+2015.13-1067,0,15131,sonia_sotomayor,scotus_justice,363.745,364.28,Whether it's --
+2015.13-1067,0,62590,juan_c_basombrio,,364.28,366.05,"And third, whether there's substantial contact."
+2015.13-1067,0,15131,sonia_sotomayor,scotus_justice,366.05,366.65,-- commercial or sovereign.
+2015.13-1067,0,62590,juan_c_basombrio,,366.65,371.535,So there are three steps. What I'm saying is that the Ninth Circuit erred.
+2015.13-1067,0,15131,sonia_sotomayor,scotus_justice,376.21,378.985,"Even if they had looked at the conduct, it's commercial."
+2015.13-1067,0,62590,juan_c_basombrio,,378.985,380.15,It's commercial.
+2015.13-1067,0,15068,samuel_a_alito_jr,scotus_justice,396.51,405.73,But how do you propose -- how do you propose that we determine whether it's based on commercial activity? Take their failure-to-warn claim.
+2015.13-1067,0,62590,juan_c_basombrio,,423.99,431.135,"Well, there's no allegation in the Complaint that the failure to warn was something that happened in the United States."
+2015.13-1067,0,15068,samuel_a_alito_jr,scotus_justice,450.97,456.305,"Well, it might be -- it might be a claim that couldn't prevail, but why does that answer the question?"
+2015.13-1067,0,62590,juan_c_basombrio,,456.305,475.97,"Well, the failure to warn that's alleged relates to the facts that arise in Austria, and, therefore, the cause of action arises in Austria because that's where the acts or omissions occurred if -- if one looks at what's alleged in the Complaint itself."
+2015.13-1067,0,15094,elena_kagan,scotus_justice,475.97,487.15,"Would -- would you agree and -- and, as you've been doing, take out the agency question -- but would you agree if -- if what had happened here was that the ticket was not honored."
+2015.13-1067,0,62590,juan_c_basombrio,,499.435,502.76,If this was a breach of contract case --
+2015.13-1067,0,15094,elena_kagan,scotus_justice,502.76,503.75,Just a breach of contract case.
+2015.13-1067,0,62590,juan_c_basombrio,,503.75,514.39,"-- and the breach -- the allegation of the breach was that when the Respondent showed up they did not honor the ticket, that would be based upon an activity in Austria because it's in Austria that that ticket got honored."
+2015.13-1067,0,15094,elena_kagan,scotus_justice,514.39,523.24,"In Austria, even though she bought the ticket in the United States? You think even the breach of contract case could not be brought in the United States?"
+2015.13-1067,0,62590,juan_c_basombrio,,523.24,528.43,"Correct, because the -- the wrongful act, the breach, arises in Austria."
+2015.13-1067,0,15086,john_g_roberts_jr,scotus_justice,528.43,529.12,What about --
+2015.13-1067,0,15113,anthony_m_kennedy,scotus_justice,529.12,530.62,Suppose we disagree with that --
+2015.13-1067,0,62590,juan_c_basombrio,,530.62,531.859,I'm sorry?
+2015.13-1067,0,15113,anthony_m_kennedy,scotus_justice,531.859,536.515,Suppose we disagree with that answer? Do you lose the case?
+2015.13-1067,0,62590,juan_c_basombrio,,536.515,537.995,I'm sorry?
+2015.13-1067,0,15113,anthony_m_kennedy,scotus_justice,537.995,541.99,Suppose we disagree with the answer that you gave to Justice Kagan.
+2015.13-1067,0,62590,juan_c_basombrio,,557.265,563.55,"Yes, but I would still prevail based on the agency argument that we have presented."
+2015.13-1067,0,15049,antonin_scalia,scotus_justice,563.55,563.97,But you --
+2015.13-1067,0,15094,elena_kagan,scotus_justice,563.97,567.055,Could you go back and explain to me what -- I'm sorry.
+2015.13-1067,0,15049,antonin_scalia,scotus_justice,567.055,569.695,You -- you'd lose on -- on the other point.
+2015.13-1067,0,62590,juan_c_basombrio,,569.695,569.975,Well --
+2015.13-1067,0,15049,antonin_scalia,scotus_justice,569.975,576.165,You -- you acknowledge that you would lose on the other point if -- if that hypothetical came out the other way?
+2015.13-1067,0,62590,juan_c_basombrio,,576.165,577.36,"No, I do not."
+2015.13-1067,0,15049,antonin_scalia,scotus_justice,577.36,577.59,Oh.
+2015.13-1067,0,62590,juan_c_basombrio,,577.59,590.325,"I believe -- let me clarify, Your Honor, if I may. My answer to Justice -- Justice Kagan was that I believe that a breach of contract claim for dishonor of the ticket in Austria has to be brought in Austria."
+2015.13-1067,0,15094,elena_kagan,scotus_justice,590.325,590.85,Because --
+2015.13-1067,0,62590,juan_c_basombrio,,590.85,605.82,"Justice -- because that's where the breach occurred that gives rise to the cause of action. Justice Kennedy said to me, suppose that we disagree with you, can you still win the case? And my answer was, I could still win, I believe, under the agency alternative argument."
+2015.13-1067,0,15049,antonin_scalia,scotus_justice,605.82,606.16,But not --
+2015.13-1067,0,15094,elena_kagan,scotus_justice,606.16,606.9,What about apart --
+2015.13-1067,0,15049,antonin_scalia,scotus_justice,606.9,609.39,-- not under -- under the argument you're -- you're first making?
+2015.13-1067,0,62590,juan_c_basombrio,,609.39,611.125,"Not if the Court ruled against me, no."
+2015.13-1067,0,15049,antonin_scalia,scotus_justice,611.81,628.825,"On that -- why? Why? I mean, couldn't -- couldn't you make the argument that the question ought to be decided not -- not by where the -- where the contract was breached but where the contract was made? I mean, we could hold -- we could hold that, and that would not affect your case."
+2015.13-1067,0,62590,juan_c_basombrio,,628.825,629.62,That's true.
+2015.13-1067,0,15049,antonin_scalia,scotus_justice,642.18,672.25,"Counsel, I want to come back to Justice Kagan's speculation of -- of whether based-on is -- is nothing more than due process. It seems to me that the definition of commercial activity carried on in the United States by a foreign state is the due process test."
+2015.13-1067,0,62590,juan_c_basombrio,,705.709,706.91,"Yes, Your Honor."
+2015.13-1067,0,15086,john_g_roberts_jr,scotus_justice,722.86,728.625,What -- what if there are acts or omissions in two -- let's say you have a flight from New York to Vienna.
+2015.13-1067,0,62590,juan_c_basombrio,,743.14,743.405,Uh-huh.
+2015.13-1067,0,15086,john_g_roberts_jr,scotus_justice,743.405,750.4,Where is the gravamen of the action in that case? Can you bring that in -- in the United States?
+2015.13-1067,0,62590,juan_c_basombrio,,750.4,752.65,"Potentially, you could bring it in the United States."
+2015.13-1067,0,15084,ruth_bader_ginsburg,scotus_justice,770.7,771.35,Because it's --
+2015.13-1067,0,62590,juan_c_basombrio,,771.35,771.9,That's what different--
+2015.13-1067,0,15084,ruth_bader_ginsburg,scotus_justice,771.9,774.125,-- a typical tort.
+2015.13-1067,0,62590,juan_c_basombrio,,807.715,809.18,"Correct, in that case --"
+2015.13-1067,0,15086,john_g_roberts_jr,scotus_justice,809.18,809.54,"Well, correct."
+2015.13-1067,0,62590,juan_c_basombrio,,816.17,816.395,Right.
+2015.13-1067,0,15086,john_g_roberts_jr,scotus_justice,816.395,822.63,"Or do you think you could have a lot of different -- I mean, if it's the gravamen of your complaint, I think you have to choose, don't you, one or the other?"
+2015.13-1067,0,62590,juan_c_basombrio,,822.63,839.03,"Well, I would -- I was -- I would understand your example, Chief Justice, to mean that the act that caused the injury was whatever they didn't do upon takeoff to the plane, or -- or -- as I understood your example, that cause of that injury was in the United States."
+2015.13-1067,0,15086,john_g_roberts_jr,scotus_justice,839.03,851.46,"So can you have more than one place under the based-upon analysis in Nelson, or has you -- have you got to decide there's only one place where you could bring the action?"
+2015.13-1067,0,62590,juan_c_basombrio,,851.46,855.94,"Well, the airline example -- and this is something I thought about."
+2015.13-1067,0,15068,samuel_a_alito_jr,scotus_justice,873.01,880.45,"In the Chief Justice's example, he -- he stated that there was negligence in the United States."
+2015.13-1067,0,62590,juan_c_basombrio,,897.19,911.525,"That may be different. Again, because the transportation was provided from the United States geographically, there -- there is no doubt in that question that commercial act was carried on in the United States by the airline."
+2015.13-1067,0,15049,antonin_scalia,scotus_justice,912.93,929.495,"I suppose it's -- it's -- it's proper to say that where you have negligence that causes an injury, the -- the complaint is based on both. You -- you don't have liability without the negligence. You don't have liability without the injury."
+2015.13-1067,0,62590,juan_c_basombrio,,939.355,943.125,"In the airplane example, perhaps either jurisdiction."
+2015.13-1067,0,15113,anthony_m_kennedy,scotus_justice,953.375,968.255,"Getting back to our earlier discussion, questions from me and from Justice Kagan, it seemed to me you have to say the due process analysis is insufficient under this statute because -- then fill in the blank."
+2015.13-1067,0,62590,juan_c_basombrio,,970.45,970.905,Yeah.
+2015.13-1067,0,15113,anthony_m_kennedy,scotus_justice,970.905,975.7,One -- one answer might be because otherwise there would be no necessity for a statute.
+2015.13-1067,0,62590,juan_c_basombrio,,985.61,986.5,Right.
+2015.13-1067,0,15084,ruth_bader_ginsburg,scotus_justice,993.37,1030.85,"You did answer, I think -- you did answer, rendering Justice Kennedy's question somewhat academic, that there would be no specific jurisdiction in the United States if all that happened here was a ticket purchase from an agent where the injurious conduct occurred abroad and the railroad operates solely abroad. You answered that whether it were the due process specific jurisdiction inquiry or the Foreign Sovereign Immunities Act, the answer would be the same, that the ticket sale in the United States was not enough."
+2015.13-1067,0,62590,juan_c_basombrio,,1030.85,1032.09,"Yes, Your Honor."
+2015.13-1067,0,15113,anthony_m_kennedy,scotus_justice,1032.09,1038.1,"But, of course, my question was suppose that the due process analysis is sufficient to sustain jurisdiction."
+2015.13-1067,0,62590,juan_c_basombrio,,1048.53,1054.29,It has not been met here because from a general jurisdictional perspective --
+2015.13-1067,0,15094,elena_kagan,scotus_justice,1054.29,1055.41,But not general jurisdiction.
+2015.13-1067,0,62590,juan_c_basombrio,,1055.41,1055.51,Right.
+2015.13-1067,0,15094,elena_kagan,scotus_justice,1055.51,1057.73,I was really talking about specific jurisdiction.
+2015.13-1067,0,62590,juan_c_basombrio,,1070.59,1070.82,Right.
+2015.13-1067,0,15094,elena_kagan,scotus_justice,1070.82,1094.385,"-- it's critical to the due process analysis that there be a relationship, and a real relationship between the particular contact with the United States and the lawsuit in the exact same way that this statute focuses on. And so, again, I don't know if it hurts you. It might be, as Justice Ginsburg says, that there wouldn't be specific jurisdiction here for a corporation."
+2015.13-1067,0,62590,juan_c_basombrio,,1099.44,1102.5,There is -- there is -- if I may answer that two parts of your question.
+2015.13-1067,0,15094,elena_kagan,scotus_justice,1120.37,1120.57,Yes.
+2015.13-1067,0,62590,juan_c_basombrio,,1123.77,1123.89,Right.
+2015.13-1067,0,15094,elena_kagan,scotus_justice,1123.89,1128.39,And you can make the exact same answer in the completely private context.
+2015.13-1067,0,62590,juan_c_basombrio,,1128.84,1129.04,Right.
+2015.13-1067,0,15094,elena_kagan,scotus_justice,1129.04,1129.9,-- could well be right.
+2015.13-1067,0,62590,juan_c_basombrio,,1132.64,1133.065,Right.
+2015.13-1067,0,15094,elena_kagan,scotus_justice,1133.065,1135.96,But it's not an answer for why the tests should be different.
+2015.13-1067,0,62590,juan_c_basombrio,,1135.96,1145.955,The test -- the test -- my belief is that the test should incorporate due process analysis.
+2015.13-1067,0,15049,antonin_scalia,scotus_justice,1220.15,1224.075,What provision are you -- what provision are you referring to?
+2015.13-1067,0,62590,juan_c_basombrio,,1224.075,1234.15,"I'm pro -- referring to the first clause of the commercial activity exception, that it requires that the commercial activity be conducted, carried out in the United States."
+2015.13-1067,0,15049,antonin_scalia,scotus_justice,1248.345,1249.035,I see.
+2015.13-1067,0,62590,juan_c_basombrio,,1249.035,1252.26,Now if I may just say one point about agency.
+2015.13-1067,0,15086,john_g_roberts_jr,scotus_justice,1346.035,1364.03,"Thank you, counsel. Mr. Kneedler."
+2015.13-1067,1,22617,edwin_s_kneedler,,1364.03,1376.56,"Mr. Chief Justice, and may it please the Court: I'd like to start with the point about whether the FSIA simply incorporates due process standards, and we think it does not."
+2015.13-1067,1,15131,sonia_sotomayor,scotus_justice,1394.45,1397.89,So is it the based-upon language or the substantial-context language?
+2015.13-1067,1,22617,edwin_s_kneedler,,1397.89,1398.63,It's both.
+2015.13-1067,1,15094,elena_kagan,scotus_justice,1454.72,1479.785,"Well, but how is based-upon different from the language we routinely use in specific jurisdiction cases? In other words, it just seems as though Congress, in line with its objective of treating foreign government engaging in commercial activity in the same way as they would be treated in the foreign corporations case, in line with that objective, used language that's virtually synonymous with the language that we use in specific jurisdiction cases."
+2015.13-1067,1,22617,edwin_s_kneedler,,1479.785,1495.55,But -- but it -- it did it in the context of a statutory structure that is designed to protect foreign sovereign immunity and not to draw U.S. courts into what could be very sensitive international questions of having U.S. courts pass judgment on what happens in a foreign country.
+2015.13-1067,1,15113,anthony_m_kennedy,scotus_justice,1495.61,1501.98,"Well, except it did so in the context of distinguishing between commercial activity and sovereign activity."
+2015.13-1067,1,22617,edwin_s_kneedler,,1501.98,1515.575,"In -- in Nelson -- actually, the pertinent paragraph in Nelson that discusses based-upon, as counsel pointed out, the Court said you start with what is the conduct that -- that the suit is based upon."
+2015.13-1067,1,15068,samuel_a_alito_jr,scotus_justice,1565.63,1575.535,"What if you have a tort claim that has one element in the United States, how do -- how does a court determine whether the gravamen of the claim is in the United States or elsewhere?"
+2015.13-1067,1,22617,edwin_s_kneedler,,1575.535,1581.46,I think -- I think focusing on what -- on what the defendant's conduct is that actually caused the injury.
+2015.13-1067,1,15113,anthony_m_kennedy,scotus_justice,1614.07,1628.915,"If we want to give based-upon a separate substantive effect in this statute and so that it means something more substantial than mere due -- than what would suffice for due process, what -- what body of law, case law do we look to?"
+2015.13-1067,1,22617,edwin_s_kneedler,,1628.915,1629.74,"Well, I think in Nelson --"
+2015.13-1067,1,15113,anthony_m_kennedy,scotus_justice,1629.74,1634.59,"If I want to find out about based-on, what kind of cases am I supposed to read?"
+2015.13-1067,1,22617,edwin_s_kneedler,,1634.59,1645.235,"Well -- well -- and Nelson itself, I think, is very instructive on this because, first of all, the Court in Nelson did not -- did not describe what it was doing as simply applying due process standards."
+2015.13-1067,1,15094,elena_kagan,scotus_justice,1660.48,1660.89,So Mr. --
+2015.13-1067,1,22617,edwin_s_kneedler,,1660.89,1662.11,-- that happened in Saudi Arabia.
+2015.13-1067,1,15094,elena_kagan,scotus_justice,1662.11,1672.915,"In -- in my contract hypo, if the -- if the suit was a breach of contract action, do you think it would be based-upon? Just a straight, like, you don't -- you didn't honor my ticket?"
+2015.13-1067,1,22617,edwin_s_kneedler,,1672.915,1679.05,"On -- on a contract claim, I think that there well -- may well be a contract claim here."
+2015.13-1067,1,15084,ruth_bader_ginsburg,scotus_justice,1698.93,1716.025,"Mr. Kneedler, before you -- before you finish, you bring up an interest in relations with other nations. Do you know -- I mean, there are other nations that have similar legislation to the Foreign Sovereign Immunities Act."
+2015.13-1067,1,22617,edwin_s_kneedler,,1725.39,1755.48,"The European Convention provides for jurisdiction over tort claims, which this -- which this basically is, only with respect to torts that arise in the territory, which is -- which is the case here in our own tort exception, which is an important -- going back to Justice Kagan's question -- an important reason why this is different from due process. Tort claims under the FSIA, under -- under Exemption (5), Paragraph (a)(5), arise only when the tort occurs in the United States."
+2015.13-1067,1,15139,stephen_g_breyer,scotus_justice,1765.18,1782.01,"The Netherlands -- the Netherlands and Switzerland have filed a brief, haven't they, in which they said that this injury, the claim that's pursued against here, the facts that underlie it, are based upon activity that took place in Switzerland."
+2015.13-1067,1,22617,edwin_s_kneedler,,1782.01,1782.58,Right.
+2015.13-1067,1,15139,stephen_g_breyer,scotus_justice,1782.58,1783.425,In Austria.
+2015.13-1067,1,22617,edwin_s_kneedler,,1783.425,1783.735,Right.
+2015.13-1067,1,15139,stephen_g_breyer,scotus_justice,1783.735,1784.835,And so they wouldn't --
+2015.13-1067,1,22617,edwin_s_kneedler,,1784.835,1785.34,Right.
+2015.13-1067,1,15139,stephen_g_breyer,scotus_justice,1785.34,1793.375,-- under their law. Is there any indication -- I saw none in any of these briefs -- that there's any country in the world that would reach a different result?
+2015.13-1067,1,22617,edwin_s_kneedler,,1793.375,1794.35,I -- as far as -- --
+2015.13-1067,1,15139,stephen_g_breyer,scotus_justice,1794.35,1799.72,"They've put lawyers on both sides, and I'm sure one of the lawyers would have told us if they'd found a country that would have reached --"
+2015.13-1067,1,22617,edwin_s_kneedler,,1799.72,1800.07,And this --
+2015.13-1067,1,15139,stephen_g_breyer,scotus_justice,1800.07,1800.32,-- result.
+2015.13-1067,1,22617,edwin_s_kneedler,,1800.32,1806.245,The same general point is true in the UN convention on -- on immunity with respect to tort claims --
+2015.13-1067,1,15094,elena_kagan,scotus_justice,1806.245,1829.5,"Mr. Kneedler, how about -- there is a contract claim in this lawsuit, so there is a -- is a kind of warranty of fitness kind of claim. How -- how about that? Why -- if you think that the -- let's assume that the contract claim, which is like you didn't honor my ticket, that there would be personal jurisdiction over, how do we separate out the warranty of habitability or fitness claim?"
+2015.13-1067,1,22617,edwin_s_kneedler,,1829.5,1842.63,"Because I think -- I think that's very parallel to what this Court confronted in the Nelson case where the -- the Court said the failure to warn -- there was a claim there too, a failure to warn about the hazard -- about the potential tort."
+2015.13-1067,1,15094,elena_kagan,scotus_justice,1855.47,1856.35,Is -- is that a typical thing --
+2015.13-1067,1,22617,edwin_s_kneedler,,1856.35,1856.67,-- about the tort.
+2015.13-1067,1,15094,elena_kagan,scotus_justice,1857.21,1868.02,"Is that a typical thing or an unusual thing to do in jurisdiction cases? In other words, to say, we're just not going to look at this claim by claim, we're going to ask about the whole gist of the lawsuit."
+2015.13-1067,1,22617,edwin_s_kneedler,,1868.02,1876.96,"We think that, at least for tort claims, that, again, under our -- our position you look at the foundation of the claim, the gravamen of the claim."
+2015.13-1067,1,15049,antonin_scalia,scotus_justice,1887.2,1889.11,Can the gravamen be in more than one place?
+2015.13-1067,1,22617,edwin_s_kneedler,,1889.11,1890.51,Pardon me?
+2015.13-1067,1,15049,antonin_scalia,scotus_justice,1890.51,1902.55,"Is -- the based-upon language, does it identify a single place, or could it be based-upon activity in -- in two jurisdictions?"
+2015.13-1067,1,22617,edwin_s_kneedler,,1902.55,1907.45,"Well, it -- it could be based-upon activity in two jurisdiction -- two jurisdictions."
+2015.13-1067,1,15049,antonin_scalia,scotus_justice,1914.14,1915.35,But not in the airline case.
+2015.13-1067,1,22617,edwin_s_kneedler,,1923.04,1931.28,"I think, depending on where the tort occurred, it may -- it may just be in the place where the -- where the negligence occurred. But I do want to say that for airlines --"
+2015.13-1067,1,15049,antonin_scalia,scotus_justice,1931.28,1932.395,It can't be both?
+2015.13-1067,1,22617,edwin_s_kneedler,,1932.395,1937.85,"Oh, it could be -- it could be because the question under the FSIA is whether you can sue in the United States."
+2015.13-1067,1,15086,john_g_roberts_jr,scotus_justice,1952.3,1955.84,"Well, you're not suggesting the result be different if it were a boat, are you?"
+2015.13-1067,1,22617,edwin_s_kneedler,,1955.84,1957.09,"No, I --"
+2015.13-1067,1,15086,john_g_roberts_jr,scotus_justice,1957.09,1957.51,Well --
+2015.13-1067,1,22617,edwin_s_kneedler,,1957.51,1961.48,"No, but I -- but the hypotheticals, a lot of them, the transporter have --"
+2015.13-1067,1,15131,sonia_sotomayor,scotus_justice,1961.48,1963.8,If this was a private company --
+2015.13-1067,1,22617,edwin_s_kneedler,,1963.8,1964.29,-- an airline.
+2015.13-1067,1,15113,anthony_m_kennedy,scotus_justice,1964.29,1965.17,In your hypothetical.
+2015.13-1067,1,15131,sonia_sotomayor,scotus_justice,1965.17,1966.915,-- would there be jurisdiction here?
+2015.13-1067,1,22617,edwin_s_kneedler,,1966.915,1967.535,I'm sorry?
+2015.13-1067,1,15131,sonia_sotomayor,scotus_justice,1967.535,1973.02,"If this were a private company, not the state, would there be jurisdiction here?"
+2015.13-1067,1,22617,edwin_s_kneedler,,1973.02,1992.57,"I think probably not, but I -- but I think it's -- I think it would be a good idea for the Court not to address the due process and just focus on the -- on the statutory terms here, because the question -- question of virtual presence by purchasing a ticket on the Internet can arise in all sorts of ways for due process purposes in private cases."
+2015.13-1067,1,15086,john_g_roberts_jr,scotus_justice,1995.195,2008.35,"Thank you, Mr. Kneedler. Mr. Fisher."
+2015.13-1067,2,30283,jeffrey_l_fisher,,2008.35,2032.295,"Mr. Chief Justice, and may it please the Court: I'd like to start with Justice Sotomayor's question which I think has been asked a couple of other times today, which is, what would the answer be if this were a private defendant? In footnote 11 of our brief on page 33, we explain why the answer would be that there would be specific jurisdiction. And in the Gibson-Dunn amicus brief at pages 25 to 29 they give a fuller explanation."
+2015.13-1067,2,15084,ruth_bader_ginsburg,scotus_justice,2033.08,2038.835,"Why -- why, Mr. Fisher? There is one contact with the United States."
+2015.13-1067,2,30283,jeffrey_l_fisher,,2066.26,2081.36,"But, Justice Ginsburg, I think there are plenty of cases that support the proposition that when a company markets and sells a product in a jurisdiction, that creates specific jurisdiction. That's what OBB did through its agent, RPE, is market and sell its product."
+2015.13-1067,2,15094,elena_kagan,scotus_justice,2081.36,2083.82,"No, but not for everything. I mean, let's assume this."
+2015.13-1067,2,30283,jeffrey_l_fisher,,2130.68,2132.25,I agree with everything you said.
+2015.13-1067,2,15139,stephen_g_breyer,scotus_justice,2143.38,2153.46,"In the -- in the Austrian case of the Opera, there is an implied warranty that the Opera is fit for the purposes -- the opera house is fit for the purposes which it serves."
+2015.13-1067,2,30283,jeffrey_l_fisher,,2156.39,2157.29,I'm not sure.
+2015.13-1067,2,15139,stephen_g_breyer,scotus_justice,2160.38,2174.215,"What's the difference between saying that they have to warrant their product, which is an opera house, to be safe, to say that they have to warrant their trains safe for -- for passage? I can't see a difference."
+2015.13-1067,2,30283,jeffrey_l_fisher,,2184.44,2192.34,"Well, all I can say is in this case, we're suing on the exact warranty that gives rise from this ticket sale, Justice Breyer."
+2015.13-1067,2,15139,stephen_g_breyer,scotus_justice,2192.72,2194.405,That's -- that's the problem.
+2015.13-1067,2,30283,jeffrey_l_fisher,,2240.095,2249.03,"So, Justice Breyer, to -- let me be clear about what is and is not in that brief. There are no cases that I don't think any party has cited."
+2015.13-1067,2,15139,stephen_g_breyer,scotus_justice,2291.05,2291.11,No.
+2015.13-1067,2,30283,jeffrey_l_fisher,,2296.59,2298.375,"We have none, and they have none."
+2015.13-1067,2,15139,stephen_g_breyer,scotus_justice,2299.49,2299.69,All right.
+2015.13-1067,2,30283,jeffrey_l_fisher,,2300.28,2301.57,You can ask him on rebuttal.
+2015.13-1067,2,15131,sonia_sotomayor,scotus_justice,2301.57,2307.93,"Could you tell me, your adversary claims you've been trying to change what your claim is."
+2015.13-1067,2,30283,jeffrey_l_fisher,,2313.78,2325.7,"I think the better reading of the word ""activity"" in the statute for the reasons we describe in our brief is the overall integrated activity of running the railway train enterprise, which includes selling the product and delivering the product."
+2015.13-1067,2,15139,stephen_g_breyer,scotus_justice,2325.7,2331.025,"I see our interests, but I'm thinking there are 190-some-odd countries in the world."
+2015.13-1067,2,30283,jeffrey_l_fisher,,2362.49,2376.575,"Well, I don't know why any country would have thought that about this country's law, because before this -- you know, up until this point, the law in the lower courts, the D.C. Circuit and the Second Circuit, and most -- most specifically, have held that in this exact situation, there is jurisdiction."
+2015.13-1067,2,15086,john_g_roberts_jr,scotus_justice,2376.575,2376.91,"Well, maybe --"
+2015.13-1067,2,30283,jeffrey_l_fisher,,2376.91,2377.3,And Justice Breyer --
+2015.13-1067,2,15086,john_g_roberts_jr,scotus_justice,2377.3,2386.22,"-- if would've read -- if they had read our opinion in Nelson, that would have given them a good inclination to read sovereign immunity the way Justice Breyer suggests."
+2015.13-1067,2,30283,jeffrey_l_fisher,,2386.22,2386.38,No.
+2015.13-1067,2,15139,stephen_g_breyer,scotus_justice,2411.84,2421.34,"Well, he has a paragraph in Nelson, one sentence of which helps you, that he says the Nelsons -- you know, they negotiated with the Nelsons in the United States."
+2015.13-1067,2,30283,jeffrey_l_fisher,,2453.85,2454.18,So --
+2015.13-1067,2,15139,stephen_g_breyer,scotus_justice,2454.18,2455.365,The basis for.
+2015.13-1067,2,30283,jeffrey_l_fisher,,2456.26,2456.63,Justice Breyer --
+2015.13-1067,2,15139,stephen_g_breyer,scotus_justice,2456.63,2458.61,-- that's why I'm thinking it does not help you.
+2015.13-1067,2,30283,jeffrey_l_fisher,,2458.61,2467.21,"When the Court said the arguable commercial activities that preceded it, they were talking not only about the recruitment in the United States but also the employment itself in Saudi Arabia."
+2015.13-1067,2,15086,john_g_roberts_jr,scotus_justice,2486.85,2498.36,"So in line with the discussion we had earlier about specific jurisdiction, is your argument that general jurisdiction is enough to support based-upon under the statute?"
+2015.13-1067,2,30283,jeffrey_l_fisher,,2498.36,2499.475,"No, Your Honor."
+2015.13-1067,2,15086,john_g_roberts_jr,scotus_justice,2499.97,2507.405,"Well, I thought you talked about just all of the different commercial activities that the Austrian airline engaged in in the United States."
+2015.13-1067,2,30283,jeffrey_l_fisher,,2513.51,2513.57,No.
+2015.13-1067,2,15113,anthony_m_kennedy,scotus_justice,2532.33,2532.75,"Well, suppose --"
+2015.13-1067,2,30283,jeffrey_l_fisher,,2532.75,2533.65,So the activity --
+2015.13-1067,2,15094,elena_kagan,scotus_justice,2533.65,2533.97,Yes.
+2015.13-1067,2,30283,jeffrey_l_fisher,,2553.04,2556.075,"Well, let me say two things, Justice Kagan. (Laughter.)"
+2015.13-1067,2,30283,jeffrey_l_fisher,,2556.075,2556.775,Thank you.
+2015.13-1067,2,15068,samuel_a_alito_jr,scotus_justice,2569.77,2570.44,"Well, suppose --"
+2015.13-1067,2,30283,jeffrey_l_fisher,,2570.44,2574.3,"So the terms of the statute do cover that. If -- Justice Alito, may I -- may I just say one more thing to Justice Kagan?"
+2015.13-1067,2,15068,samuel_a_alito_jr,scotus_justice,2574.3,2574.49,Sure.
+2015.13-1067,2,30283,jeffrey_l_fisher,,2574.98,2588.825,"Which is if you didn't agree that the term ""commercial activity"" covered the entire enterprise, then you would ask the question whether the activity of selling tickets is enough to create a based-upon argument in a specific jurisdiction since we went back to the conversation we've been having."
+2015.13-1067,2,15068,samuel_a_alito_jr,scotus_justice,2588.825,2594.4,"Suppose Ms. Sachs was Australian, and she bought this ticket on the Internet in Australia."
+2015.13-1067,2,30283,jeffrey_l_fisher,,2599.23,2603.75,"Well, there wouldn't necessarily be sovereign -- there may not be sovereign immunity under the terms of the Act."
+2015.13-1067,2,15068,samuel_a_alito_jr,scotus_justice,2606.47,2612.595,But there would be -- there would be -- there would not be immunity because it was based on the running of the railroad.
+2015.13-1067,2,30283,jeffrey_l_fisher,,2612.595,2613.03,Right.
+2015.13-1067,2,15094,elena_kagan,scotus_justice,2683.285,2683.77,"Well, if --"
+2015.13-1067,2,30283,jeffrey_l_fisher,,2683.77,2684.42,If that's the case --
+2015.13-1067,2,15084,ruth_bader_ginsburg,scotus_justice,2684.42,2733.03,"Mr. Fisher, you -- you recognize -- I think you recognized in your brief that this -- you can call it a question of first impression. You -- you said, I believe, based on -- the meaning of based-on in this context is an open question. And if it is an open question, why should we allow a foreign carrier to be sued in the United States for acts or omissions overseas -- the negligent conduct occurred overseas -- when the only link, the single link is a ticket, a pass, purchased from a -- a travel agent in the United States?"
+2015.13-1067,2,30283,jeffrey_l_fisher,,2733.03,2749.42,"For all the reasons I was just saying, Justice Ginsburg, because it is utterly common for duties to be created in this country -- here, the duty of safe passage and of utmost care -- and then the breach to occur a broad. My -- my friend on the other side was correct to say this case is indistinguishable from contract cases."
+2015.13-1067,2,15094,elena_kagan,scotus_justice,2754.36,2754.78,But if that's true --
+2015.13-1067,2,30283,jeffrey_l_fisher,,2754.78,2756.52,The lower courts have always held that the FSIA --
+2015.13-1067,2,15094,elena_kagan,scotus_justice,2756.52,2778.15,"If that's true, I don't understand why you answered my hypothetical question the way you did, because in my hypothetical question I thought you said that there would not be jurisdiction to sue in the United States when I slip and fall in Vienna. And -- but you could make the same argument. Well, there was a duty created in the United States, and that's what I'm suing on."
+2015.13-1067,2,30283,jeffrey_l_fisher,,2778.15,2784.7,"I think when I answered your question I was imagining there wasn't a duty created. Maybe as Justice Breyer amended the hypothetical, there might be --"
+2015.13-1067,2,15094,elena_kagan,scotus_justice,2784.7,2789.64,"Well, there's -- I mean, the only thing that's happened in the United States is that I've purchased a ticket there."
+2015.13-1067,2,30283,jeffrey_l_fisher,,2791.235,2791.475,Right.
+2015.13-1067,2,15094,elena_kagan,scotus_justice,2791.475,2800.115,So I take it that your argument is that purchase of a ticket gives rise to a duty which is then violated when I slip and fall in another country.
+2015.13-1067,2,30283,jeffrey_l_fisher,,2800.115,2805.48,"I would say if the plaintiff alleges that in the lawsuit, then there would not be sovereign immunity."
+2015.13-1067,2,15086,john_g_roberts_jr,scotus_justice,2814.35,2839.37,"If -- if you get on the train in Vienna, and you buy your ticket in Vienna and you get on the train in Vienna, there is on the train operator some duty of care, isn't there? Without regard to -- in other words, there's nothing special about buying a ticket in the United States that gives rise to a unique duty of care that's any different from the duty of care that the railroad owes its passengers in Austria."
+2015.13-1067,2,30283,jeffrey_l_fisher,,2839.37,2843.48,"I think that's right, Mr. Chief Justice, but -- as long as you're talking about buying a ticket one place to the other."
+2015.13-1067,2,15086,john_g_roberts_jr,scotus_justice,2865.39,2865.95,I understand.
+2015.13-1067,2,30283,jeffrey_l_fisher,,2884.14,2884.67,It would --
+2015.13-1067,2,15086,john_g_roberts_jr,scotus_justice,2884.67,2891.635,It makes no difference to what standard of care she would allege if there were some other basis for jurisdiction in the United States?
+2015.13-1067,2,30283,jeffrey_l_fisher,,2891.635,2897.435,"That might be correct, but it is important not to lose sight of the fact that she didn't buy her ticket there."
+2015.13-1067,2,15084,ruth_bader_ginsburg,scotus_justice,2909.11,2929.97,"Mr. Fisher, the purposefully-availed-of test relates to specific jurisdiction, and there has to be an instant connecting. If there is that connection, then you must have, in addition, purposefully-availed-of. But purposefully-availed-of, standing alone, doesn't give you general jurisdiction, and it doesn't give you specific jurisdiction."
+2015.13-1067,2,30283,jeffrey_l_fisher,,2929.97,2930.15,No.
+2015.13-1067,2,15094,elena_kagan,scotus_justice,2936.31,2937.82,But you also have to have a relationship.
+2015.13-1067,2,30283,jeffrey_l_fisher,,2937.82,2940.9,"And you have to have a relationship, which we do, because we purchased it here."
+2015.13-1067,2,15094,elena_kagan,scotus_justice,2940.9,2957.3,"Well, let's say that I don't accept that argument, okay? Let's just for a moment assume that on a straight negligence claim, the idea that a negligence claim arising from an accident in Austria arises -- let's say I think it arises from the accident in Austria."
+2015.13-1067,2,30283,jeffrey_l_fisher,,2961.385,2962.035,Yeah.
+2015.13-1067,2,15094,elena_kagan,scotus_justice,2962.035,2969.655,"Now, I guess there's still a question as to whether your warranty claims ought to be treated differently."
+2015.13-1067,2,30283,jeffrey_l_fisher,,2986.76,3000.18,"It's not right because what you were worried about in Nelson is artful pleading to get around true sovereign immunity; in other words, to challenge sovereign acts dressed up as something else. Here there's no allegation that we're challenging sovereign acts."
+2015.13-1067,2,15139,stephen_g_breyer,scotus_justice,3060.28,3083.39,"How does it work with a domestic contract, an ordinary domestic contract entered into in Nevada, and the breach of the contract, which consisted of a failure, for example, to deliver goods to San Francisco, took place in California, and the lawsuit is brought in Nevada? How does that work? They move -- well, how does it happen?"
+2015.13-1067,2,30283,jeffrey_l_fisher,,3083.39,3085.9,"Under due process, you'd have jurisdiction in Nevada."
+2015.13-1067,2,15139,stephen_g_breyer,scotus_justice,3085.9,3089.825,"I know that, but I mean where does the -- where does the --"
+2015.13-1067,2,30283,jeffrey_l_fisher,,3089.825,3091.06,The gravamen?
+2015.13-1067,2,15139,stephen_g_breyer,scotus_justice,3091.06,3091.5,"Yeah, yeah."
+2015.13-1067,2,30283,jeffrey_l_fisher,,3098.99,3099.55,"No, it --"
+2015.13-1067,2,15139,stephen_g_breyer,scotus_justice,3099.55,3103.725,"No, it doesn't? How do you decide what law applies? The contract doesn't say."
+2015.13-1067,2,30283,jeffrey_l_fisher,,3103.725,3105.91,The most -- there's a most significant relationship --
+2015.13-1067,2,15139,stephen_g_breyer,scotus_justice,3105.91,3106.15,Ah.
+2015.13-1067,2,30283,jeffrey_l_fisher,,3107.77,3108.47,"-- every State, it says."
+2015.13-1067,2,15139,stephen_g_breyer,scotus_justice,3108.47,3113.6,And does it matter whether it's -- is it to the formation of the contract or is it to the breach?
+2015.13-1067,2,30283,jeffrey_l_fisher,,3113.6,3115.99,"I think it's sometimes one and sometimes the other, Justice Breyer."
+2015.13-1067,2,15139,stephen_g_breyer,scotus_justice,3115.99,3117.64,And what's the difference whether it's the one or the other?
+2015.13-1067,2,30283,jeffrey_l_fisher,,3117.64,3118.31,Pardon me?
+2015.13-1067,2,15139,stephen_g_breyer,scotus_justice,3118.31,3119.18,What's the difference?
+2015.13-1067,2,30283,jeffrey_l_fisher,,3119.18,3120.01,It depends --
+2015.13-1067,2,15139,stephen_g_breyer,scotus_justice,3120.01,3121.945,I mean how does the Court decide?
+2015.13-1067,2,30283,jeffrey_l_fisher,,3121.945,3122.64,It depends --
+2015.13-1067,2,15139,stephen_g_breyer,scotus_justice,3122.64,3127.575,I'm -- I'm simply pointing out that these kinds of problems are not unique to the international context.
+2015.13-1067,2,30283,jeffrey_l_fisher,,3127.575,3127.99,"No, I think --"
+2015.13-1067,2,15139,stephen_g_breyer,scotus_justice,3127.99,3136.9,"They arise in many different legal circumstances, and courts have to decide what is the gravamen, and sometimes that's difficult and sometimes it's not."
+2015.13-1067,2,30283,jeffrey_l_fisher,,3136.9,3137.2,Well --
+2015.13-1067,2,15139,stephen_g_breyer,scotus_justice,3137.2,3138.86,Am I right about that?
+2015.13-1067,2,30283,jeffrey_l_fisher,,3138.86,3141.61,I've never seen this term used in the case law.
+2015.13-1067,2,15139,stephen_g_breyer,scotus_justice,3143.475,3144.83,-- the weight of the -- I don't know.
+2015.13-1067,2,30283,jeffrey_l_fisher,,3154.92,3161.56,"Well, all I can do is honestly answer that I've never seen this test used in any choice of law analysis."
+2015.13-1067,2,15084,ruth_bader_ginsburg,scotus_justice,3161.56,3161.84,If we're dealing --
+2015.13-1067,2,30283,jeffrey_l_fisher,,3161.84,3162.88,I will add that --
+2015.13-1067,2,15084,ruth_bader_ginsburg,scotus_justice,3162.88,3181.405,"If we're dealing with choice of law, is -- is there any serious question of what law would govern the adequacy of OBB's boarding protocol, or their platform design? Would that be any law other than Austria?"
+2015.13-1067,2,30283,jeffrey_l_fisher,,3181.405,3188.315,"Well, the Ninth Circuit held that California law applies in this case, and OBB has never -- has not challenged that holding."
+2015.13-1067,2,15084,ruth_bader_ginsburg,scotus_justice,3192.61,3193.47,And I'm -- I'm asking you.
+2015.13-1067,2,30283,jeffrey_l_fisher,,3224.98,3229.645,"In all candor, Justice Ginsburg, there'd be a pretty good argument that Austria law should apply."
+2015.13-1067,2,15084,ruth_bader_ginsburg,scotus_justice,3285.34,3289.94,"And that -- and that works, even though it's an adhesion contract, and it's small print --"
+2015.13-1067,2,30283,jeffrey_l_fisher,,3289.94,3295.11,"Under Carnival Cruise Lines, this Court's decision, those kinds of forum selection clauses are perfectly enforceable."
+2015.13-1067,2,15113,anthony_m_kennedy,scotus_justice,3295.11,3296.705,"That -- that was an admiralty case, though."
+2015.13-1067,2,30283,jeffrey_l_fisher,,3296.705,3305.09,"Well, I don't know why it would be different in this context, Justice Kennedy. Certainly the government says that these are all governed by forum selection clauses now."
+2015.13-1067,2,15084,ruth_bader_ginsburg,scotus_justice,3369.09,3376.905,"Well, suppose -- suppose the Court simply said, buying a ticket from an agent in the United States is not enough, period."
+2015.13-1067,2,30283,jeffrey_l_fisher,,3392.82,3396.28,"Well, I think there is two reasons why you couldn't just limit it to that, Justice Ginsburg."
+2015.13-1067,2,15084,ruth_bader_ginsburg,scotus_justice,3428.28,3434.935,What makes it commercial is it's a railroad doing the same thing a private railroad would do.
+2015.13-1067,2,30283,jeffrey_l_fisher,,3438.54,3458.72,"That's right, Justice Ginsburg. And if you want us to ask the question in terms of whether a private company would be subject to jurisdiction under the same settings here, at least all you have to hold is that OBB should be in the same shoes as a private company. Now, we say in our brief and in the Gibson brief in more detail, why due process wouldn't stand in the way of jurisdiction there."
+2015.13-1067,2,15139,stephen_g_breyer,scotus_justice,3492.12,3495.33,"And we say, look, did -- they're -- your exact words."
+2015.13-1067,2,30283,jeffrey_l_fisher,,3495.33,3496.085,Pardon me?
+2015.13-1067,2,15139,stephen_g_breyer,scotus_justice,3496.085,3502.29,Are they liable for activity that took place in this country? They are liable for the breach of the contract.
+2015.13-1067,2,30283,jeffrey_l_fisher,,3504.96,3505.475,No.
+2015.13-1067,2,15139,stephen_g_breyer,scotus_justice,3505.475,3506.66,End of case.
+2015.13-1067,2,30283,jeffrey_l_fisher,,3506.66,3507.4,No.
+2015.13-1067,2,15139,stephen_g_breyer,scotus_justice,3507.4,3507.915,Why not?
+2015.13-1067,2,30283,jeffrey_l_fisher,,3507.915,3525.505,"Because -- because what the definition of in the United States, Justice Breyer, and this is sub (D) of 1603(c), says that -- I'm sorry, it's sub -- sub (E) of 1603(c) says that ""in the United States"" is defined as substantial contact with the United States."
+2015.13-1067,2,15086,john_g_roberts_jr,scotus_justice,3531.315,3536.825,"Thank you, counsel. Mr. Basombrio, you have three minutes remaining."
+2015.13-1067,3,62590,juan_c_basombrio,,3536.825,3552.05,"Thank you, Mr. Chief Justice, and may it please the Court: Much of our discussion today has been in separating the torts from the contractual claims here in this case, implied warranty claims."
+2015.13-1067,3,15068,samuel_a_alito_jr,scotus_justice,3608.23,3615.985,"Are you suggesting the based-upon determination is not done on a claim-by-claim basis, it's -- you look at the entire complaint?"
+2015.13-1067,3,62590,juan_c_basombrio,,3615.985,3616.62,That's why --
+2015.13-1067,3,15068,samuel_a_alito_jr,scotus_justice,3616.62,3618.61,Find the gravamen of the entire complaint?
+2015.13-1067,3,62590,juan_c_basombrio,,3618.61,3624.635,"Yes, exactly, Your Honor. And the circuit courts and the State courts have all understood what gravamen means."
+2015.13-1067,3,15068,samuel_a_alito_jr,scotus_justice,3640.115,3643.785,"Well, what if the only claim were the breach of warranty claim?"
+2015.13-1067,3,62590,juan_c_basombrio,,3643.785,3647.565,Then we would have to ask where did the breach occur.
+2015.13-1067,3,15068,samuel_a_alito_jr,scotus_justice,3673.49,3687.085,"What if she also had, in addition to the claims she's asserted, a conventional breach of contract claim? She said that when they -- when she tried to get on the train, they said no, your Eurail Pass doesn't let you get on free, you have to pay an additional amount?"
+2015.13-1067,3,62590,juan_c_basombrio,,3687.085,3688.13,That would have said --
+2015.13-1067,3,15068,samuel_a_alito_jr,scotus_justice,3688.13,3698.67,"We look to the gravamen of the whole thing and we say, well, the tort claims are in Austria and therefore she can't bring this breach of contract claim in the United States?"
+2015.13-1067,3,62590,juan_c_basombrio,,3698.67,3703.03,"Well, if she had been -- if she had been hurt and in addition to that, they would have told her --"
+2015.13-1067,3,15068,samuel_a_alito_jr,scotus_justice,3703.03,3707.169,"Well, exactly what happened here, plus she said they made me pay extra."
+2015.13-1067,3,62590,juan_c_basombrio,,3707.169,3713.3,Then the gravamen would still be Austria because that's where all those events took place.
+2015.13-1067,3,15086,john_g_roberts_jr,scotus_justice,3713.3,0.0,"Thank you, counsel. The case is submitted."

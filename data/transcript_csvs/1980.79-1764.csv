@@ -1,0 +1,89 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1980.79-1764,0,15073,warren_e_burger,scotus_justice,0.0,10.122,We will hear arguments next in Texas Department of Community Affairs v. Joyce Ann Burdine.
+1980.79-1764,0,26333,gregory_wilson,,71.012,72.679,"Thank you, Your Honor."
+1980.79-1764,0,15141,william_h_rehnquist,scotus_justice,108.519,116.391,"Well wasn't the first question at least, all but resolved in the Sweeney case?"
+1980.79-1764,0,26333,gregory_wilson,,116.391,118.76,"--That is our contention, Your Honor."
+1980.79-1764,0,15141,william_h_rehnquist,scotus_justice,148.094,164.206,The Fifth Circuit here equated the articulation of a non discriminatory reason with proof by a preponderance which I would have thought the Sweeney case was contrary to.
+1980.79-1764,0,26333,gregory_wilson,,164.206,166.722,"Yes sir, it was exactly contrary to it."
+1980.79-1764,0,15060,john_paul_stevens,scotus_justice,188.801,199.359,"Mr. Wilson, since you've been interrupted, who were the judges of the Fifth Circuit that decided this case?"
+1980.79-1764,0,26333,gregory_wilson,,200.776,203.745,"Yes sir, Your Honor, not by myself."
+1980.79-1764,0,15060,john_paul_stevens,scotus_justice,203.745,207.53,"Their names don't appear in the papers, at least I can't find them."
+1980.79-1764,0,26333,gregory_wilson,,207.53,211.251,Well the author of the opinion was Judge Gee.
+1980.79-1764,0,15060,john_paul_stevens,scotus_justice,211.251,212.067,Judge Gee?
+1980.79-1764,0,26333,gregory_wilson,,212.067,213.467,Yes sir.
+1980.79-1764,1,27071,hubert_l_gill,,1191.46,1194.662,"Mr. Chief Justice, and may it please the Court:"
+1980.79-1764,1,15141,william_h_rehnquist,scotus_justice,1402.294,1430.044,"Well Mr. Gill, don't you think there's a certain inconsistency between the two sentences in the Fifth Circuit's opinion that I read your opposing counsel, where it says defendant may refute plaintiff's prima facie case by articulating a legitimate, non discriminatory reason for the rejection and then, this court requires the defendant to prove non discriminatory reasons by a preponderance of the evidence?"
+1980.79-1764,1,27071,hubert_l_gill,,1430.044,1437.381,"Your Honor, I am certain if I were writing the opinion I would not have used the term preponderance of the evidence."
+1980.79-1764,1,15045,harry_a_blackmun,scotus_justice,1528.638,1536.311,"Maybe if you had been writing the opinion you wouldn't have... I mean, to switch you language a bit... you wouldn't have used the word articulated?"
+1980.79-1764,1,27071,hubert_l_gill,,1536.311,1537.794,"--Well, I think the word articulated--"
+1980.79-1764,1,15045,harry_a_blackmun,scotus_justice,1537.794,1539.762,But you're already bound by the use of the word here.
+1980.79-1764,1,27071,hubert_l_gill,,1539.762,1555.039,"--The word articulate, I think, in this context as set forth in McDonnell Douglas, has been a problem for lower courts, the Court of Appeals and the District Court, as to exactly what is the meaning of articulate."
+1980.79-1764,1,15045,harry_a_blackmun,scotus_justice,1555.039,1556.489,"Well, what do you think it means?"
+1980.79-1764,1,27071,hubert_l_gill,,1556.489,1594.497,"I think that it means, and it should mean, and be adopted by this Court to be the same language as set forth in a First Circuit case following Sweeney, Loeb v. Textron, Incorporated, in which that was a case Sweeney, after Furnco, in which the First Circuit speaks to the question of what is actually articulating, and states that it must be sufficient, the evidence must be sufficient on its face to rebut or dispel the inference of discrimination that rises from proof of a prima facie case."
+1980.79-1764,1,15141,william_h_rehnquist,scotus_justice,1594.497,1605.038,"But now isn't that contrary, Mr. Gill, to the very language in Sweeney, on page 24, where we... the Court said"
+1980.79-1764,1,27071,hubert_l_gill,,1627.218,1629.17,There certainly is a problem.
+1980.79-1764,1,15141,william_h_rehnquist,scotus_justice,1688.792,1695.965,But you would agree that it means something less than proving the absence of a discriminatory motive?
+1980.79-1764,1,27071,hubert_l_gill,,1695.965,1702.618,"Yes, I would say that and I think the Court has clearly held that it's not the burden of the employer to prove that."
+1980.79-1764,1,15045,harry_a_blackmun,scotus_justice,1702.618,1718.561,"Do you think that something else, as Mr. Justice Rehnquist has described it, might be the existence of a reason, not necessarily that that was the reason that prevailed, but at least the existence of a legitimate reason?"
+1980.79-1764,1,27071,hubert_l_gill,,1718.561,1729.636,I think it should be the existence of a legitimate reason and that it should be articulated with enough specificity to actually identify that as being the reason.
+1980.79-1764,1,15043,potter_stewart,scotus_justice,1729.636,1739.575,"Well in any event, I suppose you would agree that the language chosen by the Court of Appeals for the Fifth Circuit, at least in this case, is not quite accurate?"
+1980.79-1764,1,27071,hubert_l_gill,,1739.575,1740.41,It is not--
+1980.79-1764,1,15043,potter_stewart,scotus_justice,1740.41,1745.461,"And that articulate means something more than just say, it means to adduce evidence?"
+1980.79-1764,1,27071,hubert_l_gill,,1745.461,1747.03,"--Yes,--"
+1980.79-1764,1,15043,potter_stewart,scotus_justice,1747.03,1750.699,To meet the prima facie case of the plaintiff?
+1980.79-1764,1,27071,hubert_l_gill,,1750.699,1751.515,--Right.
+1980.79-1764,1,15043,potter_stewart,scotus_justice,1751.982,1753.451,You would say that wouldn't you?
+1980.79-1764,1,27071,hubert_l_gill,,1753.451,1754.334,"--Yes, I would."
+1980.79-1764,1,15043,potter_stewart,scotus_justice,1755.003,1756.036,Because it doesn't mean much more than that.
+1980.79-1764,1,27071,hubert_l_gill,,1756.036,1757.955,--No.
+1980.79-1764,1,15104,thurgood_marshall,scotus_justice,1759.871,1761.49,It means persuasive.
+1980.79-1764,1,27071,hubert_l_gill,,1762.957,1768.411,--It has to be at least credible evidence and it has to convince... enough to--
+1980.79-1764,1,15060,john_paul_stevens,scotus_justice,1768.411,1769.494,But convince whom?
+1980.79-1764,1,27071,hubert_l_gill,,1769.494,1773.462,"--Well, of course, convince the trier of facts."
+1980.79-1764,1,15060,john_paul_stevens,scotus_justice,1773.462,1777.014,And didn't Mr. Fuller's evidence convince the trier of facts?
+1980.79-1764,1,27071,hubert_l_gill,,1777.014,1783.568,"Well I would argue that in this case it is impossible to tell, based on the District Court's ruling, because--"
+1980.79-1764,1,15060,john_paul_stevens,scotus_justice,1783.568,1797.993,"Suppose that he had written a little different opinion; I suppose neither of these opinions is a model of perfection, as no opinions are, supposing he'd said I believe Mr. Fuller, that he thought this lady was responsible for dissension."
+1980.79-1764,1,27071,hubert_l_gill,,1808.182,1815.103,"--In that event, Your Honor, I would concede that unless she was able to come back and show that that was pretextual in nature,--"
+1980.79-1764,1,15060,john_paul_stevens,scotus_justice,1815.103,1817.071,"That he was lying, in other words?"
+1980.79-1764,1,27071,hubert_l_gill,,1817.071,1818.371,"--Right, or that there was--"
+1980.79-1764,1,15060,john_paul_stevens,scotus_justice,1818.371,1819.871,Then if you admit that there was--
+1980.79-1764,1,27071,hubert_l_gill,,1819.871,1821.673,"--some other reason,--"
+1980.79-1764,1,15060,john_paul_stevens,scotus_justice,1821.673,1832.862,"--Then the distinction between these other cases does not turn on the existence of a valid reason, because there we're assuming that she really wasn't responsible for the dissension but he just thought she was."
+1980.79-1764,1,27071,hubert_l_gill,,1832.862,1840.784,"--Well that's correct, if you assume that, from the record that the District Court did believe him--"
+1980.79-1764,1,15060,john_paul_stevens,scotus_justice,1840.784,1841.267,Right.
+1980.79-1764,1,27071,hubert_l_gill,,1841.267,1842.569,--rather than her.
+1980.79-1764,1,15060,john_paul_stevens,scotus_justice,1842.569,1846.954,If you just read his opinion you certainly would come to the conclusion he believed Mr. Fuller.
+1980.79-1764,1,27071,hubert_l_gill,,1846.954,1855.643,"But I would argue that the opinion is so vague in the sense of applying the McDonnell Douglas test, and that's just what Judge Gee held in the Fifth Circuit."
+1980.79-1764,1,15060,john_paul_stevens,scotus_justice,1855.643,1862.281,"No, because Judge Gee didn't send it back for another trial or another opinion, he entered... he directed that judgment be entered in her favor."
+1980.79-1764,1,27071,hubert_l_gill,,1862.281,1862.647,Right.
+1980.79-1764,1,15060,john_paul_stevens,scotus_justice,1922.917,1923.333,On the equal pay issue.
+1980.79-1764,1,27071,hubert_l_gill,,1923.333,1925.452,--on the equal pay issue.
+1980.79-1764,1,15073,warren_e_burger,scotus_justice,1990.294,1998.15,"Suppose only two people know the facts, the complaining party, the employee; and the employer who testifies."
+1980.79-1764,1,27071,hubert_l_gill,,2006.537,2037.108,"Well, of course, assuming that the correct standard was followed by the District Court, which would not... we would argue is not the case here, but assuming that the correct standard were followed, that that is all the evidence in the record and the Court made it clear in its subsidiary findings, which it did not in this case, made it clear that it believed the testimony of the employer xx and did not believe the testimony of the employee."
+1980.79-1764,1,15073,warren_e_burger,scotus_justice,2037.108,2038.542,Let's make it concrete.
+1980.79-1764,1,27071,hubert_l_gill,,2070.763,2079.885,"In that event, and assuming that the Court followed, enunciates and follows the correct standard under McDonell Douglas--"
+1980.79-1764,1,15073,warren_e_burger,scotus_justice,2079.885,2080.721,What do you mean by that?
+1980.79-1764,1,27071,hubert_l_gill,,2080.721,2082.104,"--Well, in other words,--"
+1980.79-1764,1,15073,warren_e_burger,scotus_justice,2082.104,2082.837,I'm not sure I follow you.
+1980.79-1764,1,27071,hubert_l_gill,,2082.837,2106.136,"--first requires the plaintiff to establish a prima facie case... and then correctly applies the rebuttal standard required of the defendant, and simply at that point that is all the evidence in the record and he believes the testimony of the defendant, of course, then he would be correct in making his decision for the employer."
+1980.79-1764,1,15043,potter_stewart,scotus_justice,2190.356,2195.158,"You're not contending that the Rules of Civil Procedure are not applicable to Title VII cases, are you?"
+1980.79-1764,1,27071,hubert_l_gill,,2195.158,2195.908,"--No, I'm not."
+1980.79-1764,1,15043,potter_stewart,scotus_justice,2195.908,2197.86,And that would include Rule 52(a).
+1980.79-1764,1,27071,hubert_l_gill,,2197.86,2198.843,That's correct.
+1980.79-1764,1,15141,william_h_rehnquist,scotus_justice,2365.72,2374.043,But then aren't you still saying that he has to prove non discrimination rather than simply articulate a reason?
+1980.79-1764,1,27071,hubert_l_gill,,2374.043,2389.219,"--Well, if you're speaking of articulate in that sense, Justice Rehnquist, in the sense of just stating it, in other words, just making and oral statement... if that is articulate, then I would argue that that is not enough."
+1980.79-1764,1,15141,william_h_rehnquist,scotus_justice,2389.219,2391.754,Then what do you do with Sweeney?
+1980.79-1764,1,27071,hubert_l_gill,,2391.754,2396.389,Well I would argue that that is not in direct conflict with Sweeney.
+1980.79-1764,1,15141,william_h_rehnquist,scotus_justice,2401.441,2404.059,"It was a per curiam opinion, I think."
+1980.79-1764,1,27071,hubert_l_gill,,2404.059,2404.426,--Right.
+1980.79-1764,1,15141,william_h_rehnquist,scotus_justice,2487.982,2491.101,But he said proof by a preponderance of the evidence.
+1980.79-1764,1,27071,hubert_l_gill,,2491.101,2500.439,"Again, Your Honor, as I stated, I don't agree particularly with the language involved there, but I would point out that--"
+1980.79-1764,1,15073,warren_e_burger,scotus_justice,2500.439,2507.21,"We have to assume that that language reflected his state of mind and his analytical processes, don't we?"
+1980.79-1764,1,27071,hubert_l_gill,,2507.21,2512.014,"--Well, I think that we need to look at exactly what he applied that to."
+1980.79-1764,1,15141,william_h_rehnquist,scotus_justice,2565.565,2574.355,"So you say that this case involves only steps 1 and 2 in McDonnell, and that steps 3 and 4 were never brought into play?"
+1980.79-1764,1,27071,hubert_l_gill,,2574.355,2575.405,That is correct.
+1980.79-1764,1,15141,william_h_rehnquist,scotus_justice,2724.986,2748.934,"Well what if the trial court in the hypothesis you just gave, on... contrary to its conclusion as you stated, said the plaintiff has produced ten witnesses, the defendant had simply testified himself, but I believe the defendant and not the ten witnesses of the plaintiff and therefore I enter judgment for the defendant."
+1980.79-1764,1,27071,hubert_l_gill,,2756.022,2757.94,"No, there wouldn't."
+1980.79-1764,1,15073,warren_e_burger,scotus_justice,2807.788,2812.608,"Do you have anything further, Mr. Wilson?"
+1980.79-1764,2,26333,gregory_wilson,,2812.608,2831.419,I just would like to point out to the Court that the District Court did specifically find that Ms. Burdine was involved in the dissension in the division on page A3 of the Appendix of the Petition for Certiorari.
+1980.79-1764,2,15073,warren_e_burger,scotus_justice,2899.481,2900.214,"Thank you, gentlemen."

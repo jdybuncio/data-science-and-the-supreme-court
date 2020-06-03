@@ -1,0 +1,228 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2001.00-1514,0,15141,william_h_rehnquist,scotus_justice,8.999,10.114,Mr. Bolter.
+2001.00-1514,0,26598,howard_l_bolter,,10.114,23.2,"Mr. Chief Justice, and may it please the Court: Section 1367 is a constitutional and sensible response by Congress to the serious procedural problems that were facing the Federal courts prior to 1990."
+2001.00-1514,0,15049,antonin_scalia,scotus_justice,62.415,73.644,"What... what's wrong with, as some courts did, conditioning dismissal upon... upon the plaintiff's... upon the defendant's agreement to... to waive the statute?"
+2001.00-1514,0,26598,howard_l_bolter,,73.644,82.643,"The problem with that solution, Justice Scalia, is that there is no guarantee that there would be an agreement to waiver."
+2001.00-1514,0,15049,antonin_scalia,scotus_justice,91.765,99.733,"Right, and if he doesn't waive, then... then you proceed in Federal court because it's just not... not a proper... proper basis for dismissing it."
+2001.00-1514,0,26598,howard_l_bolter,,101.425,104.108,"In that... in that situation, it might work."
+2001.00-1514,0,15141,william_h_rehnquist,scotus_justice,139.691,148.858,How about the Solicitor General's suggestion that we construe the statute so as not to apply to nonconsenting... actions against nonconsenting States?
+2001.00-1514,0,26598,howard_l_bolter,,148.858,160.762,"To do that, the Court needs to address the threshold question of whether the statute abrogates in... in the first place, whether tolling is an abrogation of the State's immunity, and we contend that it is not."
+2001.00-1514,0,15141,william_h_rehnquist,scotus_justice,160.762,170.406,"Well, but the Solicitor General says, as I understand his brief, that we would avoid that constitutional question if we construed the statute in the manner that he asked us to construe it."
+2001.00-1514,0,26598,howard_l_bolter,,170.406,188.898,"If the... if that scenario was taken and... and the construction is... is construed not to apply to the States, there will be serious constitutional problems that will be created by that construction, particularly depriving the... the Federal litigants of their access to the Federal forum."
+2001.00-1514,0,15141,william_h_rehnquist,scotus_justice,188.898,194.099,"Well, what constitutional provision do you say would be violated if we followed that suggestion?"
+2001.00-1514,0,26598,howard_l_bolter,,194.099,204.214,"The right... the due process rights of a plaintiff to have their cause of action heard in a... in a certain forum, to make sure that they would have those claims heard."
+2001.00-1514,0,15141,william_h_rehnquist,scotus_justice,204.214,206.443,What case supports your position there?
+2001.00-1514,0,26598,howard_l_bolter,,207.474,210.817,"I don't know if there's a case that's... oh, I'm sorry."
+2001.00-1514,0,15084,ruth_bader_ginsburg,scotus_justice,218.908,224.276,But not to have a cause of action heard in Federal court against a State.
+2001.00-1514,0,26598,howard_l_bolter,,224.276,232.283,"That... that's correct, not to have... not to have it heard in... in the Federal court against the State, but to have it heard in some forum."
+2001.00-1514,0,15084,ruth_bader_ginsburg,scotus_justice,233.109,236.991,But suppose the State decided it wasn't going to waive its immunity.
+2001.00-1514,0,26598,howard_l_bolter,,247.039,248.425,--That's... that's right.
+2001.00-1514,0,15084,ruth_bader_ginsburg,scotus_justice,248.425,256.142,"So... but it... you're not suggesting that it had to do that, otherwise there would be a due process violation."
+2001.00-1514,0,26598,howard_l_bolter,,265.143,283.181,"What we are saying is that the due process violation would be if you construe the statute not to apply to the States, you don't have the protection of tolling a State claim against a State in Federal court."
+2001.00-1514,0,15084,ruth_bader_ginsburg,scotus_justice,290.9,293.833,But it wouldn't have been if you had filed a protective action.
+2001.00-1514,0,26598,howard_l_bolter,,312.531,320.5,"--We... we could have filed a protective action, but the... that has... I think there are two parts to that... that answer."
+2001.00-1514,0,15084,ruth_bader_ginsburg,scotus_justice,346.711,364.338,"But wouldn't it... it wouldn't have occasion to say that... as I understand it, when duplicative actions are brought, the second court, the one where you file second, generally although it's not compelled to do this, will say, okay, prior action pending."
+2001.00-1514,0,26598,howard_l_bolter,,367.599,374.757,"--They... they could do that, but the point is that it wasn't... there was no guarantee that they will."
+2001.00-1514,0,15084,ruth_bader_ginsburg,scotus_justice,382.459,384.028,You have... you're using a lot of mights.
+2001.00-1514,0,26598,howard_l_bolter,,394.265,406.525,They... if the claim is filed in Minnesota on... they will not dismiss if it was clear that the Federal court would not have exercised jurisdiction over that Federal... over that State claim.
+2001.00-1514,0,15049,antonin_scalia,scotus_justice,445.618,454.534,It seems to me the principle you're arguing for... I'm just not sure what its... what its boundaries are.
+2001.00-1514,0,26598,howard_l_bolter,,522.688,524.297,"No, that's not what we are saying."
+2001.00-1514,0,15049,antonin_scalia,scotus_justice,524.297,525.001,"Well, why not?"
+2001.00-1514,0,26598,howard_l_bolter,,541.47,552.865,The... the scenario that you just posed about the 6-month and the 1-year time limits... you could still file that State claim in Federal court within 6 months.
+2001.00-1514,0,15049,antonin_scalia,scotus_justice,560.956,564.132,"Yes, but the Federal Government wants to give you 12 months in its courts."
+2001.00-1514,0,26598,howard_l_bolter,,585.12,591.42,"I think in your... in that hypothetical, it probably would impede, but that's not the situation that we have in front of us."
+2001.00-1514,0,15049,antonin_scalia,scotus_justice,591.42,608.426,"Oh, I understand it isn't, but... but I... but the principle you're arguing for, it seems to me, leads to that conclusion, that the Federal Government can... can reconfigure State causes of action willy-nilly so that they don't impede the bringing of Federal causes of action in Federal court as Congress wishes."
+2001.00-1514,0,26598,howard_l_bolter,,608.426,614.659,"What the... what the statute does here, if it's applied to a State, is it tolls the time limit."
+2001.00-1514,0,15113,anthony_m_kennedy,scotus_justice,624.235,627.745,"Well, I... I wonder about that."
+2001.00-1514,0,26598,howard_l_bolter,,634.888,642.811,It gives you the... the tolling... the tolling provision runs for 30 days after the time after the dismissal.
+2001.00-1514,0,15113,anthony_m_kennedy,scotus_justice,642.811,651.318,"Well, and so if you... if... if as in this case, I think you file on the last day or the next-to-the-last day in the Federal court, then you're given an extra 30 days."
+2001.00-1514,0,26598,howard_l_bolter,,683.268,685.536,"Well, it gives a longer tolling--"
+2001.00-1514,0,15113,anthony_m_kennedy,scotus_justice,685.536,687.56,It does reconfigure the statute of limitations.
+2001.00-1514,0,26598,howard_l_bolter,,687.56,701.511,--I would respectfully disagree that it reconfigures the... the statute of limitations because it's... the statute... the State statute has to be complied with in order for 1367 to... to be triggered.
+2001.00-1514,0,15049,antonin_scalia,scotus_justice,728.882,731.482,"Well, it hasn't been complied with under State law."
+2001.00-1514,0,26598,howard_l_bolter,,753.486,756.374,"--Well, the... the State statute is silent on tolling."
+2001.00-1514,0,15141,william_h_rehnquist,scotus_justice,761.575,769.377,"But the State court here found that the State district court did not abuse its discretion in saying there wouldn't be any tolling, did it not?"
+2001.00-1514,0,26598,howard_l_bolter,,769.377,779.78,"--That's what... they found that there was no abuse of discretion, but that was... that... the State court's initial decision there was based on a... an erroneous interpretation of Pennhurst II when--"
+2001.00-1514,0,15141,william_h_rehnquist,scotus_justice,779.78,785.93,"Well, but that presumably is up to the Minnesota courts to decide when the... when the State statute is tolled."
+2001.00-1514,0,26598,howard_l_bolter,,785.93,798.811,"--They have the discretion to decide that, but it's our position that the tolling provision of 1367(d) can also toll that time period because it's not abrogating the State's sovereign immunity."
+2001.00-1514,0,15141,william_h_rehnquist,scotus_justice,799.554,807.289,"Well, but you know, you say it isn't tolling because it's... it doesn't really go to the length of the statute of limitations, one."
+2001.00-1514,0,26598,howard_l_bolter,,817.509,826.675,--But it doesn't defeat the purpose of... of the statute of limitations and... and the need to file in a timely fashion with that State statute to begin with.
+2001.00-1514,0,15049,antonin_scalia,scotus_justice,841.248,842.195,That isn't self-evident.
+2001.00-1514,0,15060,john_paul_stevens,scotus_justice,873.791,879.181,May I ask you a sort of preliminary question I'm kind of puzzled about?
+2001.00-1514,0,26598,howard_l_bolter,,883.062,905.52,"Article III to control the lower Federal courts gives the... the Government the power to create these... these Federal practices and procedures, in this case, the... the way to address combined Federal and State claims, as well as its... its... the powers to protect individuals from losing their due process rights to have their claims heard and... and burdening the access to the Federal courts."
+2001.00-1514,0,15060,john_paul_stevens,scotus_justice,905.52,907.788,"So, it's Article III you rely on."
+2001.00-1514,0,26598,howard_l_bolter,,907.788,921.534,"Yes, Article III and... and partly on the equal... equal protection for... to allow plaintiffs to have access to Federal courts and bring their Federal claims and their State claims if they... if they need to do that as well."
+2001.00-1514,0,15084,ruth_bader_ginsburg,scotus_justice,921.534,938.419,"It would just... when Congress passed this, Congress I... I assume was just thinking it was regulating the procedure in Federal courts, that it was exercising that power to implement Article III."
+2001.00-1514,0,26598,howard_l_bolter,,955.032,974.994,"In some circumstances, they were because of the claims... the combination of the claims splitting and claims preclusion laws in the State courts and States and the statute of limitations on those pendent claims if they were brought in Federal court could result in a denial of a forum for that State claim if... if a Federal claim was also asserted."
+2001.00-1514,0,15141,william_h_rehnquist,scotus_justice,974.994,982.88,"Is there... is there any indication that Congress, when it amended 1367, relied on anything other than Article III?"
+2001.00-1514,0,26598,howard_l_bolter,,987.067,989.689,I don't think it's... that it's explicit in the congressional--
+2001.00-1514,0,15141,william_h_rehnquist,scotus_justice,989.689,990.969,"Well, is it implicit?"
+2001.00-1514,0,26598,howard_l_bolter,,990.969,993.198,--I think it's implicit in there that they're--
+2001.00-1514,0,15141,william_h_rehnquist,scotus_justice,993.198,994.784,Where do you find that?
+2001.00-1514,0,26598,howard_l_bolter,,994.784,997.574,"--Well, the protections that it... that it provides--"
+2001.00-1514,0,15141,william_h_rehnquist,scotus_justice,997.574,1001.372,"I mean, I'm... I'm talking about what Congress thought, not what you think."
+2001.00-1514,0,26598,howard_l_bolter,,1001.372,1006.573,"--I... I'm not sure I understand your question, Mr. Chief Justice."
+2001.00-1514,0,15141,william_h_rehnquist,scotus_justice,1006.573,1018.75,"Well, my question was, is there any reason to think that Congress, when it made this amendment, was relying on section 5 of the Fourteenth Amendment, in addition to Article III?"
+2001.00-1514,0,26598,howard_l_bolter,,1018.75,1029.441,"Aside from nothing explicit, I don't... I don't know what Congress was thinking other than what I could speculate."
+2001.00-1514,0,15084,ruth_bader_ginsburg,scotus_justice,1029.441,1031.92,"Well... well, don't we know that this came out of the Federal Courts Study Committee?"
+2001.00-1514,0,26598,howard_l_bolter,,1031.92,1035.551,"Yes, it did come out of the Federal Courts Study Committee?"
+2001.00-1514,0,15084,ruth_bader_ginsburg,scotus_justice,1035.551,1048.183,"And so... and Congress took the suggestion of that Federal Courts Study Committee, and as far as I recall, in that report, they were talking about the authority of Congress to regulate the procedure in Federal courts."
+2001.00-1514,0,26598,howard_l_bolter,,1048.183,1049.503,That's right.
+2001.00-1514,0,15113,anthony_m_kennedy,scotus_justice,1054.666,1058.874,Suppose we were to conclude that this statute must rest upon Article III.
+2001.00-1514,0,26598,howard_l_bolter,,1079.968,1085.048,I have to think about that for just a second.
+2001.00-1514,0,15113,anthony_m_kennedy,scotus_justice,1085.048,1095.922,Is it Terrell/Taro v. Burt Construction Company where the State cannot condition the filing of articles of incorporation on a waiver of the right to go to Federal court?
+2001.00-1514,0,26598,howard_l_bolter,,1098.915,1101.682,That... I think that is an example.
+2001.00-1514,0,15113,anthony_m_kennedy,scotus_justice,1103.911,1107.421,Although I think Terrell/Taro was probably a Commerce Clause case.
+2001.00-1514,0,26598,howard_l_bolter,,1107.421,1110.764,"I'm not sure, Justice Kennedy, if it was or not."
+2001.00-1514,0,15113,anthony_m_kennedy,scotus_justice,1114.951,1115.966,Which... which case?
+2001.00-1514,0,26598,howard_l_bolter,,1115.966,1117.164,The Nash... the Nash--
+2001.00-1514,0,15141,william_h_rehnquist,scotus_justice,1117.164,1118.65,Florida Industrial Commission.
+2001.00-1514,0,26598,howard_l_bolter,,1118.65,1121.417,--Nash v. Florida Industrial Commission.
+2001.00-1514,0,15113,anthony_m_kennedy,scotus_justice,1121.417,1122.448,Nash.
+2001.00-1514,0,26598,howard_l_bolter,,1122.448,1123.496,I... I couldn't hear Mr. Chief Justice.
+2001.00-1514,0,15113,anthony_m_kennedy,scotus_justice,1128.764,1157.826,"Going back to the statute of limitations point, I... I should know this, but if I file a complaint in the Nevada State courts and the Nevada court said, this doesn't belong here, there's no jurisdiction, the cause of action arose exclusively in California, and it dismisses, and you then file in California, is there tolling as a general matter?"
+2001.00-1514,0,26598,howard_l_bolter,,1157.826,1168.516,"In that situation with... with two States, I would say that unless it was within the time period of California, it would probably not be tolled in that situation."
+2001.00-1514,0,15113,anthony_m_kennedy,scotus_justice,1168.516,1169.054,All right.
+2001.00-1514,0,26598,howard_l_bolter,,1172.786,1178.797,"Well, we have a filing in Federal court here with... with a statute that... that directly addresses the tolling--"
+2001.00-1514,0,15113,anthony_m_kennedy,scotus_justice,1178.797,1181.852,"Well, but you're... you're... well, it does or it doesn't."
+2001.00-1514,0,26598,howard_l_bolter,,1202.712,1205.562,"--Well, I think that the tolling provision is different."
+2001.00-1514,0,15084,ruth_bader_ginsburg,scotus_justice,1242.121,1254.176,"Mr. Bolter, what you said might be so if the only purpose of the statute of limitations were repose, being notified on time that you're subject to suit."
+2001.00-1514,0,26598,howard_l_bolter,,1296.9,1301.276,"They didn't make, as a part of that condition, anything about tolling."
+2001.00-1514,0,15042,david_h_souter,scotus_justice,1338.139,1354.403,"But I take it you're saying that whether you regard it as built in or whether you regard the policy as simply a policy of repose, Article III power or section 5 power is what it is, and... and it can accomplish what this statute wants to accomplish."
+2001.00-1514,0,26598,howard_l_bolter,,1354.403,1354.941,Yes.
+2001.00-1514,0,15049,antonin_scalia,scotus_justice,1354.941,1362.122,"I don't know why you rely just on Article III or on section 5, which I think is pretty remote in this situation."
+2001.00-1514,0,26598,howard_l_bolter,,1408.933,1410.419,"Well, it doesn't... it doesn't--"
+2001.00-1514,0,15049,antonin_scalia,scotus_justice,1410.419,1411.178,Wouldn't that work?
+2001.00-1514,0,26598,howard_l_bolter,,1415.127,1421.443,"--Well, I don't think that it washes--"
+2001.00-1514,0,15049,antonin_scalia,scotus_justice,1421.443,1422.845,I'm trying to help you.
+2001.00-1514,0,26598,howard_l_bolter,,1425.074,1428.955,--I don't know that I understand.
+2001.00-1514,0,15049,antonin_scalia,scotus_justice,1434.733,1450.709,"This statute itself piggy-backs on whatever substantive Federal statute exists out there, you know, whether it's under the Commerce Clause or under any other Federal power."
+2001.00-1514,0,26598,howard_l_bolter,,1467.222,1476.677,"Well, I guess I don't disagree that it's not unreasonable to toll this... these statutes of limitations."
+2001.00-1514,0,15141,william_h_rehnquist,scotus_justice,1476.677,1486.375,"Do you know of any case in which this Court has held that Congress, when passing a statute of its own, could totally forbid a State to enact a similar statute?"
+2001.00-1514,0,26598,howard_l_bolter,,1486.375,1490.256,"I'm not aware of a case like that, Your Honor."
+2001.00-1514,0,15141,william_h_rehnquist,scotus_justice,1490.256,1490.794,Neither am I.
+2001.00-1514,0,15084,ruth_bader_ginsburg,scotus_justice,1490.794,1502.972,"Mr. Bolter, in any event, that wouldn't take you very far because so often these pendent State claims are garden variety State tort law, contract claims, are they not?"
+2001.00-1514,0,26598,howard_l_bolter,,1539.296,1547.554,"Yes, and... and that's what we have done in this case, or that's what we... that's what this... and that's what this statute protects against, losing those claims."
+2001.00-1514,0,15049,antonin_scalia,scotus_justice,1604.562,1606.42,Just whether and where and not when.
+2001.00-1514,0,26598,howard_l_bolter,,1617.77,1618.596,--I don't--
+2001.00-1514,0,15049,antonin_scalia,scotus_justice,1618.596,1623.593,"The State says, I'm willing to be sued for 1 year, and you say the Federal Government doesn't have to observe that 1 year."
+2001.00-1514,0,26598,howard_l_bolter,,1626.111,1626.604,--No.
+2001.00-1514,0,15141,william_h_rehnquist,scotus_justice,1640.683,1641.919,"Very well, Mr. Bolter."
+2001.00-1514,1,36544,mark_b_rotenberg,,1643.777,1676.925,"Mr. Chief Justice, and may it please the Court: Your Honors, it's critical to focus on the fundamental issue of federalism presented in this case; namely, is it Congress or the State that has the power to decide when that State can be sued by its own citizens in its own courts?"
+2001.00-1514,1,15139,stephen_g_breyer,scotus_justice,1676.925,1690.959,"So, in your view, the Soldiers and Sailors Relief Act... all of the soldiers in Afghanistan, when they come back and they find that their statute of limitations has run out, Congress does not have the power to extend the statute."
+2001.00-1514,1,36544,mark_b_rotenberg,,1693.272,1694.015,Your Honor--
+2001.00-1514,1,15139,stephen_g_breyer,scotus_justice,1694.015,1694.963,--in your opinion?
+2001.00-1514,1,36544,mark_b_rotenberg,,1694.963,1696.532,--Under--
+2001.00-1514,1,15139,stephen_g_breyer,scotus_justice,1696.532,1706.73,"I mean, there's presently a statute that says when they come back, people who are in the armed forces, they will discover that the statute of limitations in the States has been extended for 6 months."
+2001.00-1514,1,36544,mark_b_rotenberg,,1711.932,1716.64,"--Your Honor, the... the logic... it may be unconstitutional is the direct answer to your question."
+2001.00-1514,1,15139,stephen_g_breyer,scotus_justice,1717.216,1717.505,All right.
+2001.00-1514,1,36544,mark_b_rotenberg,,1735.504,1750.82,"--Justice Breyer, the... the thrust of Alden against Maine is that Congress does not have the power under Article I to force a State to submit to a private suit for damages in its own courts."
+2001.00-1514,1,15139,stephen_g_breyer,scotus_justice,1750.82,1751.158,All right.
+2001.00-1514,1,36544,mark_b_rotenberg,,1769.024,1775.711,"Your Honor, the answer to that question would depend on Federal preemption principles."
+2001.00-1514,1,15139,stephen_g_breyer,scotus_justice,1775.711,1776.083,Correct.
+2001.00-1514,1,36544,mark_b_rotenberg,,1776.083,1776.992,Under the Commerce Clause--
+2001.00-1514,1,15139,stephen_g_breyer,scotus_justice,1776.992,1777.569,"Now, they... they can preempt."
+2001.00-1514,1,36544,mark_b_rotenberg,,1797.714,1819.884,"--The reason they cannot do... the Congress cannot do that, Justice Breyer, is because this statute, 1367(d), represents a blanket attempt by Congress to extend statutes of limitations without regard to the existence of an independent power in Article I, such as the war power which may suffice to protect--"
+2001.00-1514,1,15049,antonin_scalia,scotus_justice,1819.884,1824.752,That... that power will always exist in the Federal cause of action that has been brought in Federal court.
+2001.00-1514,1,36544,mark_b_rotenberg,,1824.752,1828.429,"--It will exist, Your... Your Honor, in... in the--"
+2001.00-1514,1,15049,antonin_scalia,scotus_justice,1828.429,1835.98,"In every case to which this... this statute applies, there will be involved a Federal power under Article I."
+2001.00-1514,1,36544,mark_b_rotenberg,,1835.98,1842.835,"--Well, not in this case, Your Honor, and this case is a perfect example of the... of the situation."
+2001.00-1514,1,15042,david_h_souter,scotus_justice,1854.185,1856.414,"No, but that's... essentially you're going back to the Eleventh Amendment."
+2001.00-1514,1,36544,mark_b_rotenberg,,1870.077,1873.771,"--We... Justice Souter, we have two arguments, yes."
+2001.00-1514,1,15060,john_paul_stevens,scotus_justice,1944.01,1945.207,May I interrupt you?
+2001.00-1514,1,36544,mark_b_rotenberg,,1945.207,1949.377,"--and that would take you into a... a section 5, Fourteenth Amendment type analysis."
+2001.00-1514,1,15060,john_paul_stevens,scotus_justice,1949.832,1952.183,May I ask you this question as a preliminary matter?
+2001.00-1514,1,36544,mark_b_rotenberg,,1974.557,1992.557,"--The... the statute is unconstitutional if the Court needs to address the question of legislative power, Justice Stevens, because there is no case upholding a congressional power to enact a sweeping expansion of statute of limitations--"
+2001.00-1514,1,15060,john_paul_stevens,scotus_justice,1992.557,1994.165,"There's no case upholding it, no case striking it down."
+2001.00-1514,1,36544,mark_b_rotenberg,,1999.449,2001.224,"--That's right, Your Honor."
+2001.00-1514,1,15141,william_h_rehnquist,scotus_justice,2001.224,2002.876,"Well, that... that goes quite far."
+2001.00-1514,1,36544,mark_b_rotenberg,,2005.105,2019.678,"The reasoning there, Mr. Chief Justice, is simply that since the Founding Convention, it's been clear that the powers of Congress are defined and limited, and the residual legislative power does not rest with Congress."
+2001.00-1514,1,15141,william_h_rehnquist,scotus_justice,2052.205,2055.427,But... but Article III is certainly a particular power.
+2001.00-1514,1,36544,mark_b_rotenberg,,2055.427,2057.656,"--Yes, Your Honor."
+2001.00-1514,1,15084,ruth_bader_ginsburg,scotus_justice,2059.347,2062.607,"Mr. Rotenberg, did... did the Minnesota Supreme Court go that far?"
+2001.00-1514,1,36544,mark_b_rotenberg,,2072.927,2074.867,--Justice--
+2001.00-1514,1,15084,ruth_bader_ginsburg,scotus_justice,2074.867,2085.437,"And to the extent that you're asking us to consider this broader theory, you're asking us to take that up... to go beyond where the Minnesota Supreme Court left off."
+2001.00-1514,1,36544,mark_b_rotenberg,,2085.437,2088.038,"--Yes, Justice Ginsburg, that's correct."
+2001.00-1514,1,15092,sandra_day_oconnor,scotus_justice,2093.525,2108.1,"And your position... your position would, as Justice Breyer suggested, mean that the Soldiers and Sailors Civil Relief Act is invalid, insofar as it tolls State statute of limitations as well."
+2001.00-1514,1,15113,anthony_m_kennedy,scotus_justice,2108.1,2110.412,In actions against the State.
+2001.00-1514,1,15092,sandra_day_oconnor,scotus_justice,2110.412,2113.301,"This would... this... this would be a big surprise, I think--"
+2001.00-1514,1,36544,mark_b_rotenberg,,2113.301,2115.158,--Justice O'Connor--
+2001.00-1514,1,15092,sandra_day_oconnor,scotus_justice,2115.158,2116.023,--to members of the armed forces.
+2001.00-1514,1,36544,mark_b_rotenberg,,2116.023,2119.078,"--Justice O'Connor, the... the--"
+2001.00-1514,1,15092,sandra_day_oconnor,scotus_justice,2119.078,2121.557,Why... why do you want to go that far?
+2001.00-1514,1,36544,mark_b_rotenberg,,2132.62,2142.567,"--Justice O'Connor, it is certainly sufficient for this Court to address only the Alden principle, as Justice Kennedy just mentioned, and restrict the holding to a State sovereign--"
+2001.00-1514,1,15092,sandra_day_oconnor,scotus_justice,2142.567,2151.872,"And in that regard, what's the matter with the Solicitor General's approach that says the statute was never intended to cover nonconsenting States?"
+2001.00-1514,1,36544,mark_b_rotenberg,,2155.57,2163.084,"--Justice O'Connor, we agree with the Solicitor General that the statute can and, indeed, should be so construed."
+2001.00-1514,1,15139,stephen_g_breyer,scotus_justice,2163.084,2170.802,I guess then the next case... then the next case we'll have is where the soldiers and sailors come back and they would like to sue the State.
+2001.00-1514,1,36544,mark_b_rotenberg,,2188.924,2207.667,"Justice Breyer, this Court has not addressed the intersection between its holding in Alden against Maine, which establishes a categorical rule that Congress is disempowered from forcing a State to defend itself against its own citizens in its own State courts, and the... the war power."
+2001.00-1514,1,15042,david_h_souter,scotus_justice,2211.298,2213.073,"Well, the war power is... is an Article I power."
+2001.00-1514,1,36544,mark_b_rotenberg,,2218.645,2220.957,"--Yes, Justice Souter."
+2001.00-1514,1,15113,anthony_m_kennedy,scotus_justice,2255.359,2257.2,"Well, what would... what would possibly be the ground for distinguishing."
+2001.00-1514,1,36544,mark_b_rotenberg,,2258.686,2271.03,"Justice Kennedy, I agree, and I think that the practical answer in our federalism is to allow the States to exercise good judgment with respect to their tolling provisions."
+2001.00-1514,1,15113,anthony_m_kennedy,scotus_justice,2273.342,2273.797,Precisely.
+2001.00-1514,1,36544,mark_b_rotenberg,,2274.912,2275.571,--Exactly.
+2001.00-1514,1,15139,stephen_g_breyer,scotus_justice,2275.571,2276.852,"Well, that's what bothered me."
+2001.00-1514,1,15049,antonin_scalia,scotus_justice,2308.431,2309.007,--It seemed like six.
+2001.00-1514,1,15139,stephen_g_breyer,scotus_justice,2310.949,2325.726,"When... when they get to the point, this very point, it says, however, we read Alden to require the university's waiver of immunity be limited to the... be limited to the parameters set forth in the statute; i.e., 45 days."
+2001.00-1514,1,36544,mark_b_rotenberg,,2354.25,2359.823,"Justice Breyer, I agree with you that Alden does not compel a particular interpretation of State law."
+2001.00-1514,1,15139,stephen_g_breyer,scotus_justice,2396.149,2405.148,"Yes, but my question, of course, is, what do we do about that sentence in the opinion which says, we read Alden to require that the waiver of immunity be limited to 45 days?"
+2001.00-1514,1,36544,mark_b_rotenberg,,2405.148,2406.923,Well--
+2001.00-1514,1,15139,stephen_g_breyer,scotus_justice,2406.923,2411.714,"That's... that's... if they had said exactly what you just said, I wouldn't have my question."
+2001.00-1514,1,36544,mark_b_rotenberg,,2411.714,2417.658,"--Justice Breyer, this Court need not affirm every sentence of the Minnesota Supreme Court's decision."
+2001.00-1514,1,15084,ruth_bader_ginsburg,scotus_justice,2433.095,2442.3,"Mr. Rotenberg, because sovereign immunity is kind of a peculiar objection... that is, the State... it's up to the State to waive it or not."
+2001.00-1514,1,36544,mark_b_rotenberg,,2471.09,2473.386,"No, Your Honor."
+2001.00-1514,1,15084,ruth_bader_ginsburg,scotus_justice,2509.673,2503.645,What was going on?
+2001.00-1514,1,36544,mark_b_rotenberg,,2514.048,2515.822,"20 days, Your Honor."
+2001.00-1514,1,15084,ruth_bader_ginsburg,scotus_justice,2515.822,2516.565,Yes.
+2001.00-1514,1,36544,mark_b_rotenberg,,2516.565,2520.819,And we filed our answer asserting sovereign immunity within that time frame.
+2001.00-1514,1,15113,anthony_m_kennedy,scotus_justice,2594.008,2607.959,"Well, I... I suppose under the rule you're suggesting that we adopt the State could... let's assume that the claim is filed in the Federal court on the fifth day, and there's 40 days more left."
+2001.00-1514,1,36544,mark_b_rotenberg,,2613.327,2619.104,"Justice Kennedy, that's possible but that was not what happened here, number one, and number--"
+2001.00-1514,1,15113,anthony_m_kennedy,scotus_justice,2619.104,2620.098,"Well, it not only is possible."
+2001.00-1514,1,36544,mark_b_rotenberg,,2625.216,2626.452,--Your Honor--
+2001.00-1514,1,15113,anthony_m_kennedy,scotus_justice,2626.452,2627.816,"It's not possible, it's necessary."
+2001.00-1514,1,36544,mark_b_rotenberg,,2629.757,2630.539,"--it isn't... it isn't my rule alone, Your Honor."
+2001.00-1514,1,15113,anthony_m_kennedy,scotus_justice,2632.768,2634.997,It's the result you want us to adopt.
+2001.00-1514,1,36544,mark_b_rotenberg,,2634.997,2637.226,"--Yes, it is, Your Honor."
+2001.00-1514,1,15049,antonin_scalia,scotus_justice,2782.945,2787.281,"I suppose unfairness is what sovereign immunity is all about, isn't it?"
+2001.00-1514,1,36544,mark_b_rotenberg,,2787.281,2794.34,"It may be seen that way by some plaintiffs, Your Honor."
+2001.00-1514,1,15141,william_h_rehnquist,scotus_justice,2794.34,2798.632,"Thank you, Mr. Rotenberg."
+2001.00-1514,1,36544,mark_b_rotenberg,,2798.632,2799.829,Thank you.
+2001.00-1514,1,15141,william_h_rehnquist,scotus_justice,2799.829,2801.044,"Mr. Clement, we'll hear from you."
+2001.00-1514,2,37772,paul_d_clement,,2801.044,2821.294,"Thank you, Mr. Chief Justice, and may it please the Court: When this Court confronts a general grant of jurisdiction, like 1367(a), it routinely infers that the statute does not apply to nonconsenting States."
+2001.00-1514,2,15042,david_h_souter,scotus_justice,2846.475,2849.158,You... basically you're saying clear statement.
+2001.00-1514,2,37772,paul_d_clement,,2851.099,2852.213,The nub of the point--
+2001.00-1514,2,15042,david_h_souter,scotus_justice,2852.213,2852.956,The clear statement rule.
+2001.00-1514,2,37772,paul_d_clement,,2852.956,2868.727,"--is this Court should apply a clear statement rule to this statute, the supplemental jurisdiction statute, and since there's no indication in the text or legislative history that Congress had any contemplation that this would apply to nonconsenting States, this Court should construe the provision as not applying to nonconsenting States."
+2001.00-1514,2,15042,david_h_souter,scotus_justice,2868.727,2881.109,"Do you... do you agree that in the absence of a clear statement rule, there is no ambiguity here that... that would open the door to our giving this kind of a construction?"
+2001.00-1514,2,37772,paul_d_clement,,2881.109,2901.504,"There is... there is enough ambiguity in the statute, if the Court wanted to, to reach the second argument that we offer in our brief, but I would suggest that the first argument we offer in the brief, which you could call the clear statement argument, is a more narrowly tailored and focused answer to the constitutional issues that are raised by applying the statute to nonconsenting States."
+2001.00-1514,2,15042,david_h_souter,scotus_justice,2901.504,2905.423,"Well, you've only got 10 minutes, and I'll leave it to you to whether you want to get into it."
+2001.00-1514,2,37772,paul_d_clement,,2909.882,2918.139,"Well, if I could, I would focus on the clear statement argument because I think it does very narrowly avoid the constitutional issue that's raised."
+2001.00-1514,2,15049,antonin_scalia,scotus_justice,2918.139,2934.773,"Now, to... to apply the clear statement argument, do we not have to at least decide that it does constitute an elimination of State sovereign immunity to require the tolling of... of the action against the State?"
+2001.00-1514,2,37772,paul_d_clement,,2934.773,2936.138,I don't think so.
+2001.00-1514,2,15049,antonin_scalia,scotus_justice,2985.754,2987.983,It's fine when you're dealing with an ambiguous statute.
+2001.00-1514,2,37772,paul_d_clement,,3028.729,3035.582,"--Well, I think, for example, in the Stevens case, this Court interpreted the term person not to include the State."
+2001.00-1514,2,15141,william_h_rehnquist,scotus_justice,3046.19,3053.621,"Well, I think in Atascadero we interpreted the word person so that it did not include the State, even though you could say person means a lot."
+2001.00-1514,2,37772,paul_d_clement,,3053.621,3054.53,No.
+2001.00-1514,2,15092,sandra_day_oconnor,scotus_justice,3083.425,3096.429,How... how do you respond to the Soldiers and Sailors Civil Relief Act as applied to States in tolling causes of action against the State?
+2001.00-1514,2,37772,paul_d_clement,,3096.429,3109.886,"--Well, I... I think that... that in order to maintain consistency with our position in this case, we would have to ask this Court to apply a clear statement rule in that case, and the current version of the statute would probably not apply to States under that... under that theory."
+2001.00-1514,2,15139,stephen_g_breyer,scotus_justice,3109.886,3111.168,"So, has that been happening?"
+2001.00-1514,2,37772,paul_d_clement,,3116.302,3122.146,"We haven't seen that the... that the issue of sovereign immunity arising in those contexts, and it very well... well--"
+2001.00-1514,2,15139,stephen_g_breyer,scotus_justice,3122.146,3123.345,And it could be just that--
+2001.00-1514,2,37772,paul_d_clement,,3123.345,3132.111,"--It very well may be, as counsel for the University of Minnesota suggested, that States will have the good sense in those instances to waive their sovereign immunity defense."
+2001.00-1514,2,15141,william_h_rehnquist,scotus_justice,3257.935,3259.171,"--Thank you, Mr. Clement."
+2001.00-1514,3,26598,howard_l_bolter,,3261.733,3264.538,"Thank you, Mr. Chief Justice."
+2001.00-1514,3,15084,ruth_bader_ginsburg,scotus_justice,3294.343,3297.453,But they said they put it in their answer within 20 days.
+2001.00-1514,3,26598,howard_l_bolter,,3297.453,3298.18,They did do that.
+2001.00-1514,3,15084,ruth_bader_ginsburg,scotus_justice,3298.18,3306.725,And I think Mr. Rotenberg was quite right that the whole impulse of the Federal rules is you bring all of your motions at once and not seriatim.
+2001.00-1514,3,26598,howard_l_bolter,,3306.725,3307.84,They--
+2001.00-1514,3,15084,ruth_bader_ginsburg,scotus_justice,3307.84,3319.69,"But they... if they raised that... that Eleventh Amendment in their answer within the time allotted, I don't think that you can say that it was a 9-month thing that they--"
+2001.00-1514,3,26598,howard_l_bolter,,3319.69,3325.095,--Raising the defense in the answer was just like raising any other defense in that answer.
+2001.00-1514,3,15042,david_h_souter,scotus_justice,3333.269,3340.783,"--Yes, but in preserving that right, it... it certainly does not put them in the position of being a consenting State."
+2001.00-1514,3,26598,howard_l_bolter,,3340.783,3343.755,"Well, they were not a nonconsenting State."
+2001.00-1514,3,15042,david_h_souter,scotus_justice,3343.755,3348.335,"Look, what it boils down to is they hadn't filed the motion to dismiss yet."
+2001.00-1514,3,26598,howard_l_bolter,,3350.071,3354.613,"Yes, they had not filed the motion and until that motion was filed, the court can't rule on it."
+2001.00-1514,3,15042,david_h_souter,scotus_justice,3360.474,3365.387,"Yes, but by the same token, you know by the answer that they are not consenting to jurisdiction."
+2001.00-1514,3,26598,howard_l_bolter,,3365.387,3374.842,"--All we knew by the answer is that they were asserting an affirmative defense, just like they asserted a statute of limitations defense or laches or waiver."
+2001.00-1514,3,15084,ruth_bader_ginsburg,scotus_justice,3391.393,3397.049,Didn't you know also that you were at risk of an interpretation of 1367?
+2001.00-1514,3,26598,howard_l_bolter,,3415.83,3429.084,"We did not anticipate that that could be a construction of... of 1367... of 1367(d), otherwise we might have reevaluated whether or not to bring it."
+2001.00-1514,3,15141,william_h_rehnquist,scotus_justice,3433.17,3434.035,"Thank you, Mr. Bolter."

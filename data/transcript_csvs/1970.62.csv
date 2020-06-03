@@ -1,0 +1,73 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1970.62,0,15073,warren_e_burger,scotus_justice,0.0,5.083,"Mr. Williams, you may proceed whenever you’re ready."
+1970.62,0,23411,edward_bennett_williams,,5.083,10.302,"Mr. Chief Justice, may it please the Court."
+1970.62,0,15104,thurgood_marshall,scotus_justice,248.417,250.1,How much was the verdict?
+1970.62,0,23411,edward_bennett_williams,,250.1,262.467,"It was $10,000 against each defendant Mr. Justice, an aggregate of $20,000 which is permissible under New Hampshire law."
+1970.62,0,15043,potter_stewart,scotus_justice,458.137,482.769,"The second -- the alternative part of the charge instructing the jury as to the conditions under which they could find liability if this were not a public libel did not, that part of charge did not purport to have any reference to the United States Constitution, did it? That was purely a matter of New Hampshire case law or statute law."
+1970.62,0,23411,edward_bennett_williams,,482.769,483.795,Exactly Mr. Justice.
+1970.62,0,15043,potter_stewart,scotus_justice,483.795,493.283,The theory being I suppose that if it were that kind of a defamation it was -- the United States Constitution had no impact whatsoever upon it.
+1970.62,0,23411,edward_bennett_williams,,493.283,495.558,That’s exactly right sir.
+1970.62,1,41019,stanley_m_brown,,1639.613,1644.548,"Mr. Chief Justice, if it please the Court."
+1970.62,1,15071,byron_r_white,scotus_justice,1822.388,1832.245,"Of course, it wouldn’t require any brushes with the law to prove a fellow as bootlegger I suppose."
+1970.62,1,41019,stanley_m_brown,,1832.245,1837.818,"Mr. Justice White, what we did in this case we discovered the informant to Pearson."
+1970.62,1,15071,byron_r_white,scotus_justice,1863.036,1865.702,"Well, that’s arguing the evidence."
+1970.62,1,41019,stanley_m_brown,,1882.578,1886.72,No recovery was possible under New Hampshire law if it proves to be made out of defense.
+1970.62,1,15071,byron_r_white,scotus_justice,1890.742,1923.739,"Well, as I understand your colleague, Mr. Williams and as I read the instructions of the court, the court said that if the jury found this was on the private side of the libel law that it wasn’t a public matter to which New York Times applied, that even if the matter were true, the defendant had to justify it."
+1970.62,1,41019,stanley_m_brown,,1929.02,1934.79,"If Your Honor is talking about the total charge, Your Honor, I think misinterprets."
+1970.62,1,15071,byron_r_white,scotus_justice,1951.924,1952.201,Alright.
+1970.62,1,41019,stanley_m_brown,,1952.201,1976.417,And you have to read the total charge on the private sector or state law to see that you can either justify or excuse and in the total picture you cannot -- a plaintiff cannot recover for a false -- for a true defamatory of the case.
+1970.62,1,15071,byron_r_white,scotus_justice,2066.344,2076.029,"Well, the judge says to the jury that is the plaintiff and a private defamation is entitled to recover for the injury done to him unless the defendants establish justification."
+1970.62,1,41019,stanley_m_brown,,2082.956,2089.216,"And then there’s an additional section of the charge that if he can’t justify, he then may excuse it."
+1970.62,1,15071,byron_r_white,scotus_justice,2089.216,2089.822,Well sure.
+1970.62,1,41019,stanley_m_brown,,2092.405,2092.966,But in that --
+1970.62,1,15071,byron_r_white,scotus_justice,2092.966,2094.512,And then he goes to conditional privilege.
+1970.62,1,41019,stanley_m_brown,,2094.512,2095.349,That’s correct.
+1970.62,1,15071,byron_r_white,scotus_justice,2095.349,2096.391,"Well, I know but now what if the plaintiff."
+1970.62,1,41019,stanley_m_brown,,2118.802,2123.65,"Mr. Justice White, I have read that charge more than once."
+1970.62,1,15071,byron_r_white,scotus_justice,2136.276,2137.442,New Hampshire law is?
+1970.62,1,41019,stanley_m_brown,,2137.442,2138.317,-- what New Hampshire law is.
+1970.62,1,15071,byron_r_white,scotus_justice,2138.317,2142.559,"Well, it maybe what New Hampshire law is but how about this case."
+1970.62,1,41019,stanley_m_brown,,2165.04,2172.832,"Mr. Justice White, I do not -- believe that those instructions that charge left that position open."
+1970.62,1,15071,byron_r_white,scotus_justice,2204.598,2205.049,Alright.
+1970.62,1,41019,stanley_m_brown,,2212.497,2235.349,"The Supreme Court, the State Supreme Court decision in this case says that a charge of bootlegging based upon this solitary brush with the law that I spoke of which is at least 26 and maybe 37 years old."
+1970.62,1,15071,byron_r_white,scotus_justice,2303.038,2304.885,Could I ask you another thing about the instructions?
+1970.62,1,41019,stanley_m_brown,,2316.317,2316.823,Yes.
+1970.62,1,15071,byron_r_white,scotus_justice,2316.823,2326.23,Or was the overall reading of the instructions that -- or did the judge himself decide that this was a -- that he was a public figure or public official?
+1970.62,1,41019,stanley_m_brown,,2326.23,2327.743,"No, no Your Honor."
+1970.62,1,15071,byron_r_white,scotus_justice,2356.151,2357.245,That’s a different.
+1970.62,1,41019,stanley_m_brown,,2361.133,2361.628,I’m sorry.
+1970.62,1,15071,byron_r_white,scotus_justice,2361.628,2373.428,Is there any issue in the case with respect to whether -- was there any issue with respect to whether the plaintiff was a public figure or a public official?
+1970.62,1,41019,stanley_m_brown,,2373.428,2374.343,"No, Your Honor."
+1970.62,1,15071,byron_r_white,scotus_justice,2380.938,2388.674,"Well then, so considered he is a public official or a public figure, to which the New York Times rule apply?"
+1970.62,1,41019,stanley_m_brown,,2388.674,2400.323,"Well, we can see that if he was a public official, that aspect we just not concede that this subject matter was comment concerning his so-called official comment."
+1970.62,1,15071,byron_r_white,scotus_justice,2400.323,2401.285,Yes.
+1970.62,1,41019,stanley_m_brown,,2401.285,2407.176,"But the status of the public figure official, we conceded and tried the case on that basis."
+1970.62,1,15071,byron_r_white,scotus_justice,2413.734,2435.748,Would you think that if that if a publication injures a public candidate a candidate for public office in the minds of voters injures his reputation in the minds of voters that it nevertheless can be held to be relevant and private?
+1970.62,1,41019,stanley_m_brown,,2435.748,2437.292,I say --
+1970.62,1,15071,byron_r_white,scotus_justice,2437.292,2439.396,"That’s your position, I take it."
+1970.62,1,41019,stanley_m_brown,,2439.396,2445.38,"Your Honor, I say that the answer to that is yes and I’ll go back to Hitlers Mein Kampf."
+1970.62,1,15071,byron_r_white,scotus_justice,2566.598,2570.798,"That is the constitutional requirement of trial by jury, in your State?"
+1970.62,1,41019,stanley_m_brown,,2570.798,2578.789,"Yes, but additionally if the court is conducting a jury trial the court is powerless to make any factual determination."
+1970.62,1,15071,byron_r_white,scotus_justice,2578.789,2582.304,And that’s a matter of your State Constitution.
+1970.62,1,41019,stanley_m_brown,,2582.304,2588.002,State Constitution statute been practiced since the beginning of time.
+1970.62,1,15104,thurgood_marshall,scotus_justice,2770.106,2773.163,"Mr. Brown, on this private sector thing."
+1970.62,1,41019,stanley_m_brown,,2787.256,2793.6,"The State Supreme Court decision, Mr. Justice Marshall adverts to that."
+1970.62,1,15104,thurgood_marshall,scotus_justice,2809.041,2817.503,"Well, that’s what worries me is that the position of real court in the passage of time puts in the private sector."
+1970.62,1,41019,stanley_m_brown,,2825.02,2828.572,"Well, the court does not --"
+1970.62,1,15104,thurgood_marshall,scotus_justice,2828.572,2830.904,Maybe I’m quarreling with the word “private.”
+1970.62,1,41019,stanley_m_brown,,2830.904,2840.134,The Court does not as a matter of law rule that this was in the private sector.
+1970.62,1,15104,thurgood_marshall,scotus_justice,2863.725,2865.54,What’s the proper instruction with the court?
+1970.62,1,41019,stanley_m_brown,,2865.54,2865.651,Sir?
+1970.62,1,15104,thurgood_marshall,scotus_justice,2865.651,2868.44,"On the proper instruction, that’s a part of the case."
+1970.62,1,41019,stanley_m_brown,,2868.44,2873.984,May I add other thing and it bears on what the point that you bring out.
+1970.62,1,15073,warren_e_burger,scotus_justice,3178.06,3179.076,Thank you Mr. Brown.
+1970.62,2,23411,edward_bennett_williams,,3181.496,3185.133,Thank you sir.
+1970.62,2,15073,warren_e_burger,scotus_justice,3203.544,3204.906,What page are you in?
+1970.62,2,23411,edward_bennett_williams,,3204.906,3208.095,"Page 11 of our brief, if the Court please."
+1970.62,2,15071,byron_r_white,scotus_justice,3266.663,3268.415,But I didn’t understand that to be his argument.
+1970.62,2,23411,edward_bennett_williams,,3318.887,3319.502,If you accept --
+1970.62,2,15071,byron_r_white,scotus_justice,3319.502,3320.669,-- and the First Amendment has nothing to do with it.
+1970.62,2,23411,edward_bennett_williams,,3320.669,3330.188,If you accept the hypothesis that you can utter in the public dialogue a defamation concerning a candidate for high office that is irrelevant to his fitness --
+1970.62,2,15071,byron_r_white,scotus_justice,3330.188,3335.419,If you accept this bifurcation then (Voice Overlap) the law in New Hampshire is absolutely no interest to this Court.
+1970.62,2,23411,edward_bennett_williams,,3335.419,3354.132,"I suggest, if the Court please that it’s a constitutional impossibility to utter a defamation about a candidate for high office that is irrelevant because the mere fact that damage flows to him as he alleges makes it relevant if it influences the electorate."
+1970.62,2,15073,warren_e_burger,scotus_justice,3394.029,3395.033,Thank you Mr. Williams.

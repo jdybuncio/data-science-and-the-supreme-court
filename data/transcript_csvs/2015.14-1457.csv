@@ -1,0 +1,170 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2015.14-1457,0,15086,john_g_roberts_jr,scotus_justice,0.0,8.689,"We will hear argument next in Case 14-1457, Betterman v. Montana. Mr. Rowley."
+2015.14-1457,0,62680,fred_a_rowley_jr,,8.689,19.51,"Mr. Chief Justice, and may it please the Court: The Speedy Trial Clause applies to a criminal prosecution through its culmination in sentencing."
+2015.14-1457,0,15084,ruth_bader_ginsburg,scotus_justice,45.145,56.645,"Does the Federal Speedy Trial Act -- not the constitutional provision, but the legislation -- does that cover sentencing, or is that limited to trial?"
+2015.14-1457,0,62680,fred_a_rowley_jr,,56.645,60.065,"Your Honor, my understanding is that it's limited to trial."
+2015.14-1457,0,15084,ruth_bader_ginsburg,scotus_justice,130.31,142.45,"What do you do with the -- all of our speedy trial decisions say there's only one remedy, and that is case over."
+2015.14-1457,0,62680,fred_a_rowley_jr,,151.995,152.81,"Yes, Your Honor."
+2015.14-1457,0,15084,ruth_bader_ginsburg,scotus_justice,152.81,154.25,You are arguing --
+2015.14-1457,0,62680,fred_a_rowley_jr,,154.25,155.985,We were not arguing that.
+2015.14-1457,0,15084,ruth_bader_ginsburg,scotus_justice,155.985,157.575,So it's different.
+2015.14-1457,0,62680,fred_a_rowley_jr,,171.905,177.505,"Your Honor, at the guilt stage of the prosecution, the outcomes are -- are binary."
+2015.14-1457,0,15094,elena_kagan,scotus_justice,214.52,217.17,So -- so what would the remedy be in a case like this?
+2015.14-1457,0,62680,fred_a_rowley_jr,,217.17,230.68,"Your Honor, we submit that a proper remedy in a case like this would be to reduce Mr. Betterman's sentence by the period of delay, and the Montana Supreme Court concluded that the period of unjustified delay here was 14 months."
+2015.14-1457,0,15113,anthony_m_kennedy,scotus_justice,230.68,232.705,"Well, he was serving on another sentence."
+2015.14-1457,0,62680,fred_a_rowley_jr,,234.945,236.06,"Yes, Your Honor."
+2015.14-1457,0,15068,samuel_a_alito_jr,scotus_justice,288.88,299.205,"What do you make of the fact that the Sixth Amendment says that ""the accused shall enjoy the right to a speedy and public trial by an impartial jury""?"
+2015.14-1457,0,62680,fred_a_rowley_jr,,299.205,318.1,"Your Honor, the impartial jury clause doesn't cut off or limit the word ""trial."" We know that because the Court has recognized that the public trial right might apply at a suppression hearing, and there's no jury convened at a suppression hearing. The Court concluded that in Waller."
+2015.14-1457,0,15131,sonia_sotomayor,scotus_justice,342.325,359.35,"Mr. Rowley, if we were to disagree with you and say that there's no Sixth Amendment right and there was only a due process right, have you waived any argument that you meet the due process standard?"
+2015.14-1457,0,62680,fred_a_rowley_jr,,359.35,360.43,We haven't included that.
+2015.14-1457,0,15131,sonia_sotomayor,scotus_justice,376.35,377.725,"Well, I -- I understand that."
+2015.14-1457,0,62680,fred_a_rowley_jr,,384.43,387.14,"Your Honor, we are not advancing that claim here."
+2015.14-1457,0,15131,sonia_sotomayor,scotus_justice,418.2,439.84,"I agree, but why do you think Lovasco applies at all, meaning that's to pre-indictment delay where we were creating an exception and saying generally you have -- the State has the period of statute of limitations to bring an action."
+2015.14-1457,0,62680,fred_a_rowley_jr,,439.84,441.21,"Your Honor, that line of --"
+2015.14-1457,0,15131,sonia_sotomayor,scotus_justice,441.21,446.635,"If you want to cut them off from having that right, you need to show actual prejudice."
+2015.14-1457,0,62680,fred_a_rowley_jr,,446.635,450.815,"Your Honor, that's the test that the Montana Supreme Court applied below."
+2015.14-1457,0,15094,elena_kagan,scotus_justice,465.42,514.35,"For example, Mr. Rowley, just to continue on this line of questioning, there's another case that we have which dealt with civil forfeitures, which is the $8,850 in U.S. currency case where it said, Well, we're going to do a due process analysis, but we're going to take the Barker factors as our test for that due process analysis. So I think one of the questions that Justice Sotomayor is asking is: Why wouldn't that be equally appropriate here? In other words, even if -- and I'm not saying that this is right, but even if there's -- this is -- falls within the due process box rather than the Sixth Amendment box, that there's still a further question as to whether the Lovasco approach is right or whether this U.S. currency approach is right."
+2015.14-1457,0,62680,fred_a_rowley_jr,,514.35,517.445,"Your Honor, that's what the Montana Supreme Court attempted to do."
+2015.14-1457,0,15094,elena_kagan,scotus_justice,565.45,576.485,"I guess I'm -- I guess I'm not -- just not sure what you -- you mean by that, because in this other case, the civil forfeiture case, we just said we're going to apply the four factors of Barker."
+2015.14-1457,0,62680,fred_a_rowley_jr,,584.9,588.98,"That would -- that would certainly be true, Your Honor, but that's not what the Montana Supreme Court here did."
+2015.14-1457,0,15131,sonia_sotomayor,scotus_justice,630.465,633.92,But you're not asking us to do it in a straightforward fashion.
+2015.14-1457,0,62680,fred_a_rowley_jr,,640.75,660.77,"Your Honor, the lower courts, in applying Barker to the sentencing context, have fixed more tailored remedies in recognition of the fact that there may be a difference between a delay at the guilt stage and a delay at sentencing, because now the defendant's been convicted. And so the lower courts, in applying Barker, have done this."
+2015.14-1457,0,15131,sonia_sotomayor,scotus_justice,671.2,693.415,"So why don't you think that they've done the same thing under the Due Process Clause, recognizing that it is unfair to undo a conviction merely for sentencing delay because you're no longer presumed innocent, you're now guilty?"
+2015.14-1457,0,62680,fred_a_rowley_jr,,693.415,695.48,"The key -- yes, Your Honor."
+2015.14-1457,0,15131,sonia_sotomayor,scotus_justice,695.48,701.675,Why isn't the due process test that's being applied that modification?
+2015.14-1457,0,62680,fred_a_rowley_jr,,701.675,715.935,"Your Honor, the -- the reason why the due process test, as it's been applied by the lower courts, doesn't do the job is because they continue to require an affirmative showing of prejudice. So they don't presume prejudice which may be significant."
+2015.14-1457,0,15068,samuel_a_alito_jr,scotus_justice,767.87,774.465,"Well, when you say prejudice should be presumed, do you mean it should be presumed conclusively? Could it be rebutted?"
+2015.14-1457,0,62680,fred_a_rowley_jr,,774.465,776.305,"Yes, Your Honor, it could be rebutted."
+2015.14-1457,0,15068,samuel_a_alito_jr,scotus_justice,809.25,834.67,"When you say that the -- the remedy should be tailored, tailored to what? What is -- what is the Court supposed to do, in -- in your view? Select a punishment that is appropriate to deter the State from doing this again, or select a remedy that in some way undoes the -- the damage or the prejudice that's been done to the defendant?"
+2015.14-1457,0,62680,fred_a_rowley_jr,,834.67,844.295,"Your Honor, Morrison speaks to this, and it requires that the Court fix a remedy that is tailored to the injury suffered from the constitutional violation."
+2015.14-1457,0,15068,samuel_a_alito_jr,scotus_justice,844.295,844.7,Okay.
+2015.14-1457,0,62680,fred_a_rowley_jr,,859.565,877.975,"Your Honor, it's a proportionate remedy because the defendant was denied. Mr. Betterman was denied access to these rehabilitation programs that aren't only good in themselves, as Barker recognizes, but that also bear on his prospects for parole, on his case for parole or early release."
+2015.14-1457,0,15068,samuel_a_alito_jr,scotus_justice,900.295,908.55,"When Justice Ginsburg asked you about the Federal Speedy Trial Act, and you said that does not cover sentencing."
+2015.14-1457,0,62680,fred_a_rowley_jr,,917.185,924.65,"Your Honor, there are Montana statutes that require that sentencing take place within a reasonable amount of time and foreclose unreasonable delay."
+2015.14-1457,0,15068,samuel_a_alito_jr,scotus_justice,953.68,955.46,Did you bring a claim under those statutes?
+2015.14-1457,0,62680,fred_a_rowley_jr,,955.46,956.895,"We did not, Your Honor."
+2015.14-1457,0,15084,ruth_bader_ginsburg,scotus_justice,957.975,969.92,"Would -- would it be appropriate for the government to respond, yes, there are these disadvantages, but he had certain advantages, too, from being in jail."
+2015.14-1457,0,62680,fred_a_rowley_jr,,983.17,984.41,"Certainly, Your Honor."
+2015.14-1457,0,15131,sonia_sotomayor,scotus_justice,1092.12,1097.65,My problem is with this use of -- of language.
+2015.14-1457,0,62680,fred_a_rowley_jr,,1129.645,1136.79,"Well, it is, Your Honor, but Lovasco actually uses the word ""actually."" So the Lovasco test that was applied by the Montana Supreme Court --"
+2015.14-1457,0,15131,sonia_sotomayor,scotus_justice,1136.79,1139.0,You're still -- you're still in the Lovasco test?
+2015.14-1457,0,62680,fred_a_rowley_jr,,1139.0,1139.18,Yes.
+2015.14-1457,0,15131,sonia_sotomayor,scotus_justice,1171.95,1174.095,And that's not the way you're arguing the case.
+2015.14-1457,0,62680,fred_a_rowley_jr,,1174.095,1177.745,"Well, Your Honor, we didn't preserve a -- a due process challenge."
+2015.14-1457,0,15086,john_g_roberts_jr,scotus_justice,1214.085,1225.86,"Thank you, counsel. General Schowengerdt."
+2015.14-1457,1,62681,dale_schowengerdt,,1225.86,1239.065,"Mr. Chief Justice, and may it please the Court: The Speedy Trial Clause does not include sentencing delay because its purpose is to protect a presumptively innocent defendant from the harms associated with a criminal charge."
+2015.14-1457,1,15084,ruth_bader_ginsburg,scotus_justice,1306.3,1316.575,"When, in your view -- let's say we agree with you that speedy trial isn't the right rubric."
+2015.14-1457,1,62681,dale_schowengerdt,,1324.38,1337.95,"I think if a -- if a defendant could show prejudice, for example, if he was not able to present mitigating evidence at sentencing because of passage of time, a lost witness, that -- that may be one example."
+2015.14-1457,1,15084,ruth_bader_ginsburg,scotus_justice,1348.92,1364.82,"But you -- you would not count factors of the kind that were raised here, that is, I could have gotten into a drug treatment program in the penitentiary that's not available in the jail."
+2015.14-1457,1,62681,dale_schowengerdt,,1366.55,1367.72,"That's right, Justice Ginsburg."
+2015.14-1457,1,15094,elena_kagan,scotus_justice,1426.04,1466.18,"General, there -- there may be some real differences between the pretrial context and the presentencing context, but one which seems quite similar is the potential of delay to impair the defense. So I guess I would like you to address that, because, you know, as the Petitioners point out, in most cases these days, most of the actual adjudication of contested issues goes on in sentencing rather than at the trial stage, given that we don't have very many trials anymore. And certainly Barker and certainly Doggett made it very clear that this was an important interest in thinking about the speedy trial right."
+2015.14-1457,1,62681,dale_schowengerdt,,1466.18,1468.12,"Yes, Justice Kagan, a few points."
+2015.14-1457,1,15094,elena_kagan,scotus_justice,1495.97,1507.06,"Well, doesn't -- Lovasco really talks about a whole different set of considerations in the pretrial context, which simply don't apply once the indictment -- once the accusation has been made."
+2015.14-1457,1,62681,dale_schowengerdt,,1507.06,1508.26,Perhaps not.
+2015.14-1457,1,15094,elena_kagan,scotus_justice,1549.46,1552.79,"Well, sometimes, but there may also be real factual disputes."
+2015.14-1457,1,62681,dale_schowengerdt,,1566.595,1567.58,That's true.
+2015.14-1457,1,15131,sonia_sotomayor,scotus_justice,1587.91,1589.145,That's the problem.
+2015.14-1457,1,62681,dale_schowengerdt,,1652.07,1657.4,"Well, I think in that case, the defendant should -- if it's that lengthy of a delay, he should ask to be sentenced."
+2015.14-1457,1,15131,sonia_sotomayor,scotus_justice,1662.595,1668.065,"Look, this defendant asked to be sentenced faster."
+2015.14-1457,1,62681,dale_schowengerdt,,1679.855,1681.09,That's true.
+2015.14-1457,1,15131,sonia_sotomayor,scotus_justice,1689.425,1711.445,"Well, that may go to the issue of whether, under a Barker analysis or any analysis, he should be heard to complain about the delay, but I still am not quite sure why your definition of substantial prejudice or actual prejudice should be the controlling one."
+2015.14-1457,1,62681,dale_schowengerdt,,1711.445,1731.86,"I -- I think the court said -- even the court -- lower courts that have applied the Speedy Trial Clause to sentencing delay, they -- you know, the Tenth Circuit, for example, in Perez v. Sullivan, they assume that it applies, on the one hand, based on the Court's decision in Pollard, but then on the other, they recognize that the interests don't apply."
+2015.14-1457,1,15113,anthony_m_kennedy,scotus_justice,1746.87,1760.01,"Assume -- assume that there is a prompt trial, then a very substantial delay in sentencing, and then there's an appeal, and the appeal results in new trial."
+2015.14-1457,1,62681,dale_schowengerdt,,1768.825,1770.18,I don't -- I don't think so.
+2015.14-1457,1,15113,anthony_m_kennedy,scotus_justice,1780.5,1787.825,"Because if that delay were attributable to the State, it seems to me there would be a Speedy Trial Act violation in that connection."
+2015.14-1457,1,62681,dale_schowengerdt,,1787.825,1789.12,There may be.
+2015.14-1457,1,15113,anthony_m_kennedy,scotus_justice,1807.67,1814.63,But -- but you're not aware of any cases of the kind I've indicated where they -- the Speedy Trial Act then clicks in for the second prosecution?
+2015.14-1457,1,62681,dale_schowengerdt,,1814.63,1816.07,I'm not aware of any cases.
+2015.14-1457,1,15068,samuel_a_alito_jr,scotus_justice,1816.07,1823.8,"Under Montana law, can a -- a defendant who suffers inordinate delay in sentencing get relief?"
+2015.14-1457,1,62681,dale_schowengerdt,,1823.8,1824.76,Certainly.
+2015.14-1457,1,15084,ruth_bader_ginsburg,scotus_justice,1834.73,1846.61,"But Mr. Rowley indicated that there -- there's the rules there, but no defendants have had the benefit of getting it -- their sentences shortened because of those."
+2015.14-1457,1,62681,dale_schowengerdt,,1846.61,1854.76,"Well, I -- I'm not aware of any defendants pressing claims, any reported decisions on those -- those claims, one way or the other."
+2015.14-1457,1,15084,ruth_bader_ginsburg,scotus_justice,1877.58,1887.08,But the court did -- did say that it -- the delay was principally caused by the court's institutional problems.
+2015.14-1457,1,62681,dale_schowengerdt,,1887.08,1887.98,It -- it was.
+2015.14-1457,1,15086,john_g_roberts_jr,scotus_justice,1915.9,1920.585,Is that typical? Is it typical for a sentencing court to give credit for time served?
+2015.14-1457,1,62681,dale_schowengerdt,,1920.585,1921.11,Yes.
+2015.14-1457,1,15086,john_g_roberts_jr,scotus_justice,1922.585,1934.255,"Is there any way they can do that when you have a indeterminant range, sentence is zero to ten? Is there any way they can do that? Can they say it should be zero to nine in this case because of the delay?"
+2015.14-1457,1,62681,dale_schowengerdt,,1934.255,1935.95,I'm -- I'm not sure.
+2015.14-1457,1,15131,sonia_sotomayor,scotus_justice,1954.655,1962.345,Do you think the courts are -- the judges are incapable of making determinations of a remedy?
+2015.14-1457,1,62681,dale_schowengerdt,,1962.345,1963.28,"Certainly not, no."
+2015.14-1457,1,15139,stephen_g_breyer,scotus_justice,1974.29,1982.25,Where did -- where did it come from that Barker v. Wingo prejudice is supposed to be assumed? I was just looking at the case.
+2015.14-1457,1,62681,dale_schowengerdt,,1986.57,1987.28,That's right.
+2015.14-1457,1,15139,stephen_g_breyer,scotus_justice,1992.78,1994.19,Have we held that?
+2015.14-1457,1,62681,dale_schowengerdt,,1994.19,1997.54,You held that -- there -- two -- two things: Extraordinary delay.
+2015.14-1457,1,15139,stephen_g_breyer,scotus_justice,2009.715,2010.11,"No, no."
+2015.14-1457,1,62681,dale_schowengerdt,,2027.76,2028.48,It does not.
+2015.14-1457,1,15139,stephen_g_breyer,scotus_justice,2028.48,2032.035,It analyzes whether there was or was not prejudice.
+2015.14-1457,1,62681,dale_schowengerdt,,2036.9,2040.86,The first -- the first factor in Barker is to -- to analyze what --
+2015.14-1457,1,15139,stephen_g_breyer,scotus_justice,2040.86,2041.9,I know the four factors.
+2015.14-1457,1,62681,dale_schowengerdt,,2042.89,2043.13,Yes.
+2015.14-1457,1,15139,stephen_g_breyer,scotus_justice,2060.35,2060.57,All right.
+2015.14-1457,1,62681,dale_schowengerdt,,2107.1,2108.87,And there's a couple problems with that.
+2015.14-1457,1,15131,sonia_sotomayor,scotus_justice,2126.73,2129.345,"Sorry, that was a forfeiture case."
+2015.14-1457,1,62681,dale_schowengerdt,,2129.345,2129.77,Correct.
+2015.14-1457,1,15131,sonia_sotomayor,scotus_justice,2129.77,2132.835,And that's a penalty after adjudication.
+2015.14-1457,1,62681,dale_schowengerdt,,2135.97,2142.73,"I think it was a -- I'm sorry, it was a pre -- basically, property was taken before --"
+2015.14-1457,1,15139,stephen_g_breyer,scotus_justice,2142.73,2146.235,"Whatever the case is, I'd like to get an answer to my question."
+2015.14-1457,1,62681,dale_schowengerdt,,2146.235,2146.4,Sure.
+2015.14-1457,1,15139,stephen_g_breyer,scotus_justice,2146.4,2166.35,"It says the Court should balance four factors: Length of delay, the reason for delay, the defendant's assertion of his right, and prejudice to the defendant. Now, if I quote that sentence and say those are the factors that should be taken into account under the Due Process Clause, do you have any objection to that?"
+2015.14-1457,1,62681,dale_schowengerdt,,2166.35,2168.96,Prejudice needs to take the forefront in that analysis.
+2015.14-1457,1,15139,stephen_g_breyer,scotus_justice,2168.96,2170.495,I should just reverse the four?
+2015.14-1457,1,62681,dale_schowengerdt,,2170.495,2177.26,"Well, the problem with Barker is it held -- it holds that -- I mean, in the postconviction setting is that none of the factors are necessary."
+2015.14-1457,1,15094,elena_kagan,scotus_justice,2246.04,2251.47,"Well, that -- that might present some challenges, but there are also challenges on the other side."
+2015.14-1457,1,62681,dale_schowengerdt,,2288.055,2292.47,"The court has never presumed prejudice, except in the extreme --"
+2015.14-1457,1,15094,elena_kagan,scotus_justice,2292.47,2298.285,"I wasn't suggesting presumed prejudice, because Barker doesn't suggest presumed prejudice."
+2015.14-1457,1,62681,dale_schowengerdt,,2315.25,2319.155,I don't think that takes into consideration the change that happens at conviction.
+2015.14-1457,1,15094,elena_kagan,scotus_justice,2331.43,2365.595,"Well, but if you think that a very significant part of this rule has to do with impairment of the ability to defend yourself, and if you think that that kind of consideration applies just as well at the sentencing phase as it does at the conviction stage, maybe in most cases more so, given that most of the action these days takes place in the sentencing phase, I guess I just wouldn't see why there's any need for a different rule, especially given the level of flexibility that Barker gives. It's not like Barker says we're presuming prejudice in all circumstances."
+2015.14-1457,1,62681,dale_schowengerdt,,2377.795,2379.26,I think it comes down to a remedy.
+2015.14-1457,1,15094,elena_kagan,scotus_justice,2384.6,2390.04,"Well, that's what we said in Barker when we were talking about a pretrial case, but the remedy in this case would be different."
+2015.14-1457,1,62681,dale_schowengerdt,,2390.04,2390.31,Right.
+2015.14-1457,1,15068,samuel_a_alito_jr,scotus_justice,2410.92,2434.58,"When it comes to the determination of facts that are relevant at sentencing, that does not take place exclusively, or probably even it doesn't take place primarily at the time when the sentence is pronounced; isn't that correct? It -- it takes place during the preparation of the presentence report, at least in the Federal system."
+2015.14-1457,1,62681,dale_schowengerdt,,2436.2,2436.81,May I answer?
+2015.14-1457,1,15086,john_g_roberts_jr,scotus_justice,2436.81,2437.285,You may.
+2015.14-1457,1,62681,dale_schowengerdt,,2437.285,2439.52,"Yes -- yes, Justice Alito, that's exactly right."
+2015.14-1457,1,15086,john_g_roberts_jr,scotus_justice,2449.93,2460.09,"Thank you, counsel. Ms. Anders."
+2015.14-1457,2,24910,ginger_d_anders,,2460.09,2471.925,"Mr. Chief Justice, and may it please the Court: To go right to Justice Kagan's concern about the possibility that a defendant's defense at sentencing could be impaired, we think the due process analysis is adequate to address that."
+2015.14-1457,2,15094,elena_kagan,scotus_justice,2509.84,2513.85,And how did you see that as different from what goes on under the Barker analysis?
+2015.14-1457,2,24910,ginger_d_anders,,2513.85,2522.3,"Well, I think under Barker, the Court does allow for prejudice to be presumed in some cases, so the defendant does not have to show -- make any kind of concrete or particularized showing of prejudice."
+2015.14-1457,2,15094,elena_kagan,scotus_justice,2531.415,2539.365,"But I take it that we've said that that's the case where the delay is super-long, so take a delay of eight or ten years."
+2015.14-1457,2,24910,ginger_d_anders,,2548.08,2558.75,"Well, I think the defendant may well be able to make a particularized showing in that case, but I think -- I think there are -- there are two primary reasons that it's just not appropriate in any case for prejudice to be presumed at sentencing."
+2015.14-1457,2,15086,john_g_roberts_jr,scotus_justice,2631.315,2636.24,"In the -- in the Federal system, do judges typically give credit for time served?"
+2015.14-1457,2,24910,ginger_d_anders,,2636.24,2637.64,"They do, yes."
+2015.14-1457,2,15094,elena_kagan,scotus_justice,2637.64,2640.63,"Your rule would apply to capital cases, as well?"
+2015.14-1457,2,24910,ginger_d_anders,,2640.63,2642.56,"Well, I think capital cases may be different."
+2015.14-1457,2,15094,elena_kagan,scotus_justice,2655.71,2656.55,I'm sorry.
+2015.14-1457,2,24910,ginger_d_anders,,2662.085,2691.01,"I think there are some respects in which you treat the -- the penalty phase as a -- as an extension of the trial, yes. I -- I think, finally, the other reason that -- that it's not appropriate to presume prejudice at sentencing is that in the pre-indictment context, of course, the Court has said that the core interests of the Speedy Trial Clause aren't implicated; and, therefore, even though that kind of delay, pre-arrest delay, may have the same sort of effects on -- on the trial that are -- you know, prejudice that is hard to articulate, that --"
+2015.14-1457,2,15084,ruth_bader_ginsburg,scotus_justice,2691.01,2697.089,"In that situation, the defendant is at liberty in a pre-indictment delay?"
+2015.14-1457,2,24910,ginger_d_anders,,2697.089,2698.33,That's right.
+2015.14-1457,2,15131,sonia_sotomayor,scotus_justice,2722.715,2742.72,"If we take out the ""presumed prejudice"" which is not part of the Barker analysis, it just says -- defines ""prejudice,"" how would using the Barker standard in saying, no presumed prejudice, you have to prove some prejudice, how would that change the analysis?"
+2015.14-1457,2,24910,ginger_d_anders,,2742.72,2751.28,"Well, I think that -- I think there's one other difference, I think, in -- in the two approaches, aside from the presumed prejudice; and that is what counts as cognizable prejudice."
+2015.14-1457,2,15131,sonia_sotomayor,scotus_justice,2759.24,2761.305,That's for the pretrial.
+2015.14-1457,2,24910,ginger_d_anders,,2761.305,2776.315,"Right, but what that -- we think what that means in the sentencing context is that the defendant should have to show a concrete effect on his defense at sentencing; in other words, the probability that the result would have been different or, you know, that he's been serving longer time than he should have been."
+2015.14-1457,2,15131,sonia_sotomayor,scotus_justice,2787.41,2803.99,"You think that if a defendant was writing to a judge every week saying, I'm anxious, I really need to know what my sentence is, and the judge ignores it for a period of time, that that defendant still has to prove something more? That's not the facts of this case."
+2015.14-1457,2,24910,ginger_d_anders,,2824.58,2825.91,And two points with respect to that.
+2015.14-1457,2,15094,elena_kagan,scotus_justice,2873.26,2882.54,"Ms. Anders, I'm sorry, one of the things that strikes me as odd about your argument is that you are suggesting that a remedy would be appropriate in certain circumstances."
+2015.14-1457,2,24910,ginger_d_anders,,2927.57,2929.16,"Well, two points with respect to that."
+2015.14-1457,2,15086,john_g_roberts_jr,scotus_justice,2989.01,2995.35,"Thank you, counsel. Mr. Rowley, you have 10 minutes remaining."
+2015.14-1457,3,62680,fred_a_rowley_jr,,2995.35,3006.855,The standard for prejudice articulated by the United States shows well why due process protections are ill-suited to the specific interests protected by the speedy trial right.
+2015.14-1457,3,15113,anthony_m_kennedy,scotus_justice,3082.18,3086.68,"Or I suppose if it isn't liberty, it's not incorporated under the Fourteenth Amendment, anyway."
+2015.14-1457,3,62680,fred_a_rowley_jr,,3086.68,3088.84,"Yes, Your Honor, but -- but --"
+2015.14-1457,3,15113,anthony_m_kennedy,scotus_justice,3088.84,3096.47,"I mean, the Sixth Amendment applies only to the Federal government, and it's only because of the Fourteenth Amendment liberty that it applies to the States."
+2015.14-1457,3,62680,fred_a_rowley_jr,,3097.935,3123.29,"Yes, Your Honor, but the -- the position that the State of Montana and the United States has taken is that at sentencing, once a defendant has been convicted, they don't have a specific liberty interest of the kind that was recognized in Barker and the kind that was recognized in Smith v. Hooey; and that is the interest in rehabilitation, in accessing rehabilitation programs that could be affected by a delay in a prosecution."
+2015.14-1457,3,15139,stephen_g_breyer,scotus_justice,3123.29,3125.52,Isn't -- his liberty is certainly affected.
+2015.14-1457,3,62680,fred_a_rowley_jr,,3131.91,3132.28,Well --
+2015.14-1457,3,15139,stephen_g_breyer,scotus_justice,3132.28,3155.055,"And -- and then the question is: Is -- at some point, is being in jail a deprivation of his liberty without due process? Because the Due Process Clause would require application of sentencing under -- and when it's -- it's not due process when, say, Barker v. Wingo or some violation is violated."
+2015.14-1457,3,62680,fred_a_rowley_jr,,3156.545,3251.86,"Well, Your Honor, the point is simply that the Speedy Trial test that the court articulated in Barker is better suited to the specific forms of prejudice that are at issue in this case, because it addresses this concern with even a defendant who's been guilty, accessing rehabilitation programs, or the anxiety that that defendant may feel at the sentencing stage. And this gets to another point that the United States made, and that is that -- that the conviction changes everything, because the concerns that the court articulated in Barker may be yet more significant at the sentencing stage, given that most convictions today result from guilty pleas. And so the fact that a defendant -- their defense may be impaired by a delay in criminal proceedings, may be more significant at the sentencing stage because it may be the only place where the defendant challenges an upward adjustment or contests facts. The fact that the defendant may need to access rehabilitation programs may be more pronounced at sentencing because the defendant's already been convicted, they're going to serve time, and they want to get access to the programs that they'll need to get parole as soon as -- as possible. So we submit that -- that Barker is the appropriate test; that if the Court agrees that Barker -- Barker's the appropriate framework, that the proper right to ground that analysis in is the Sixth Amendment and not the Due Process Clause. And that is particularly so because of the antecedents of the Due Process Clause which -- which apply, not just to the -- the guilt stage of the prosecution, but also to sentencing."
+2015.14-1457,3,15068,samuel_a_alito_jr,scotus_justice,3282.97,3291.245,"Well, at the time of the adoption of the Sixth Amendment, weren't post-trial but presentencing delays fairly common?"
+2015.14-1457,3,62680,fred_a_rowley_jr,,3291.245,3301.12,"Your Honor, the Stevens Treatise says that at the time, at common law, that sentencing took place usually -- not always --"
+2015.14-1457,3,15068,samuel_a_alito_jr,scotus_justice,3301.12,3301.71,Usually.
+2015.14-1457,3,62680,fred_a_rowley_jr,,3301.71,3302.92,Usually soon thereafter.
+2015.14-1457,3,15068,samuel_a_alito_jr,scotus_justice,3302.92,3304.255,But -- but not always.
+2015.14-1457,3,62680,fred_a_rowley_jr,,3304.255,3305.5,"That's right, Your Honor."
+2015.14-1457,3,15068,samuel_a_alito_jr,scotus_justice,3323.12,3325.67,But that's just not true as a historical matter.
+2015.14-1457,3,62680,fred_a_rowley_jr,,3325.67,3326.12,"Well, it --"
+2015.14-1457,3,15068,samuel_a_alito_jr,scotus_justice,3326.12,3327.71,It's not true as a historical matter.
+2015.14-1457,3,62680,fred_a_rowley_jr,,3341.82,3342.39,Justice Alito --
+2015.14-1457,3,15068,samuel_a_alito_jr,scotus_justice,3342.39,3346.59,"I'm talking about the early 18th century, not when you say that it was automatic."
+2015.14-1457,3,62680,fred_a_rowley_jr,,3346.59,3352.395,"Your Honor, I'm referring to the observations that this Court has made in the Apprendi line of cases."
+2015.14-1457,3,15068,samuel_a_alito_jr,scotus_justice,3374.42,3375.965,That just isn't true.
+2015.14-1457,3,62680,fred_a_rowley_jr,,3387.44,3399.01,"Your Honor, many of the -- for many crimes, serious crimes at common law, and even for some that today we would consider not so serious, usually the penalty was death."
+2015.14-1457,3,15086,john_g_roberts_jr,scotus_justice,3423.555,0.0,"Thank you, counsel. The case is submitted."

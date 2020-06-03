@@ -1,0 +1,96 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1985.84-1538,0,15073,warren_e_burger,scotus_justice,0.0,73.065,"Mr. Smock, I think you may proceed whenever you're ready."
+1985.84-1538,0,32822,jon_smock,,73.065,76.376,"Mr. Chief Justice, and may it please the Court:"
+1985.84-1538,0,15071,byron_r_white,scotus_justice,213.648,218.538,"What was your allegation when you... you brought this suit, I take it?"
+1985.84-1538,0,32822,jon_smock,,218.538,228.204,"The suit was filed, Justice White, in the Superior Court in 1980 prior to this Court's decision in Boulder."
+1985.84-1538,0,15071,byron_r_white,scotus_justice,228.204,229.767,What was your claim?
+1985.84-1538,0,32822,jon_smock,,229.767,233.734,The claim was for facial invalidity of the ordinance.
+1985.84-1538,0,15071,byron_r_white,scotus_justice,233.734,234.39,Because of?
+1985.84-1538,0,32822,jon_smock,,234.39,243.745,"Because of constitutional deficiencies of a number of sorts: due process, equal protection, and several others."
+1985.84-1538,0,15071,byron_r_white,scotus_justice,247.963,249.477,But you did later?
+1985.84-1538,0,32822,jon_smock,,249.477,253.195,"But we did later, and it was fully considered by the California Supreme Court."
+1985.84-1538,0,15071,byron_r_white,scotus_justice,253.195,253.586,How did you raise it?
+1985.84-1538,0,32822,jon_smock,,256.976,259.505,Not in terms of violation.
+1985.84-1538,0,15071,byron_r_white,scotus_justice,261.551,262.301,"Well, I know."
+1985.84-1538,0,32822,jon_smock,,268.22,280.528,"We don't believe, Your Honor, that a strict violation is necessary because the policy underlying the Sherman Act is for free competition in the marketplace."
+1985.84-1538,0,15071,byron_r_white,scotus_justice,293.147,299.597,"Only the California Supreme Court answered your claim by saying this ordinance didn't violate the Sherman Act, didn't it?"
+1985.84-1538,0,32822,jon_smock,,299.597,312.843,"It answered the claim by saying there is no violation after it established a brand new, untested, uncharted test, a test never before applied in any antitrust case to our knowledge."
+1985.84-1538,0,15071,byron_r_white,scotus_justice,312.843,319.199,"Well, if it thought your claim was that the ordinance violated the Sherman Act, did it have jurisdiction to decide that?"
+1985.84-1538,0,32822,jon_smock,,319.199,328.835,"It did, not in the sense of violation, because jurisdiction, as you know, is exclusively in the federal courts under the Sherman Act."
+1985.84-1538,0,15141,william_h_rehnquist,scotus_justice,415.442,417.598,Was it briefed to the California Supreme Court?
+1985.84-1538,0,32822,jon_smock,,417.598,425.719,"--The briefing period, Justice Rehnquist, had been concluded and argument already held in May."
+1985.84-1538,0,15141,william_h_rehnquist,scotus_justice,439.713,445.899,Is your criticism of the Supreme Court of California that it failed to find this Act on its own?
+1985.84-1538,0,32822,jon_smock,,445.899,475.527,"I suspect not that they failed to find it on its own, but in a case in which the issue specifically before them was conflict with the Sherman Act I suspect and I would suggest that the California court, with its resources, should certainly have been able to be aware of the Congressional action in an area that so vitally affected, in our judgment, the proper decision of the case."
+1985.84-1538,0,15073,warren_e_burger,scotus_justice,595.713,597.165,We'll resume there at 1:00 o'clock.
+1985.84-1538,0,32822,jon_smock,,608.145,611.175,Mr. Chief Justice and may it please the Court:
+1985.84-1538,0,15141,william_h_rehnquist,scotus_justice,632.9,645.943,"Mr. Smock, you said just before lunch that, since whatever California legislation that the city of Berkeley relied upon had been passed after the city of Berkeley's ordinance, it was no good."
+1985.84-1538,0,32822,jon_smock,,652.377,653.955,"Not at all, Justice Rehnquist."
+1985.84-1538,0,15092,sandra_day_oconnor,scotus_justice,793.039,808.814,"Mr. Smock, if the Court were to employ a preemption analysis and look for proof that the city ordinance violated the antitrust laws, where is the conspiracy in your view?"
+1985.84-1538,0,32822,jon_smock,,808.814,816.733,"Justice O'Connor, we believe that the conspiracy here is exactly the same as that recognized by this Court in the Midcal case."
+1985.84-1538,0,15092,sandra_day_oconnor,scotus_justice,836.289,846.721,"In that sense, if you're right it would seem to me that any governmental action would of necessity amount to a vertical conspiracy under your theory."
+1985.84-1538,0,32822,jon_smock,,846.721,857.483,"For the purpose of Sherman Act preemption or responsibility, I suggest that that is precisely correct, only for that purpose."
+1985.84-1538,0,15092,sandra_day_oconnor,scotus_justice,892.922,895.781,You don't think that extends Midcal at all?
+1985.84-1538,0,32822,jon_smock,,895.781,897.108,Not at all.
+1985.84-1538,0,15092,sandra_day_oconnor,scotus_justice,928.018,935.89,"While I have you interrupted, may I inquire whether you're also pressing a Section 2 violation under the Sherman Act?"
+1985.84-1538,0,32822,jon_smock,,937.278,940.606,"While we raise the issue, we do not press it here."
+1985.84-1538,0,15092,sandra_day_oconnor,scotus_justice,947.932,953.116,"If we didn't agree with you on Section 1, would we have to address your Section 2 claim then?"
+1985.84-1538,0,32822,jon_smock,,953.116,990.087,"--With all due respect, I don't believe that the Court is compelled to address any of our claims, although we do think that if you were to reject our Section 1 claim that it would be an appropriate case for an inquiry into the Section 2 issue, because in our judgment Berkeley is substituting the owners' pocketbooks for government's pocketbooks, because the city of Berkeley is clearly engaged in the provision of housing in the public sector and we believe that that constitutes--"
+1985.84-1538,0,15092,sandra_day_oconnor,scotus_justice,990.087,994.647,And you think that the city itself is a competitor and a monopolist?
+1985.84-1538,0,32822,jon_smock,,994.647,1045.625,"--It is a provider of housing and, while it may well be a competitor, it is approaching or could approach a monopolistic position in the market were it to succeed in its long-term goal of depressing housing prices in the city of Berkeley and, as suggested by a pamphlet circulated in Berkeley that formed something of the cornerstone for Berkeley's rent control activities by that depression in the market prices would be at such levels as cities could then condemn the property and take over that property at prices lower than market price."
+1985.84-1538,0,15071,byron_r_white,scotus_justice,1068.586,1074.427,Your preemption argument then is that Berkeley orders what the Sherman Act forbids?
+1985.84-1538,0,32822,jon_smock,,1074.427,1076.91,"That's absolutely correct, Justice White."
+1985.84-1538,0,15071,byron_r_white,scotus_justice,1076.91,1078.801,And you call that a preemption argument?
+1985.84-1538,0,32822,jon_smock,,1078.801,1079.785,Yes.
+1985.84-1538,0,15071,byron_r_white,scotus_justice,1079.785,1090.997,"But anyway, part of it is that we must say that what the ordinance orders the Sherman Act forbids?"
+1985.84-1538,0,32822,jon_smock,,1090.997,1093.107,That is precisely correct.
+1985.84-1538,0,15071,byron_r_white,scotus_justice,1093.107,1098.042,"And so this must be either an agreement, a conspiracy, or a combination?"
+1985.84-1538,0,32822,jon_smock,,1098.042,1099.76,It could be.
+1985.84-1538,0,15071,byron_r_white,scotus_justice,1099.76,1102.618,"It must be to violate it, mustn't it?"
+1985.84-1538,0,32822,jon_smock,,1102.618,1104.478,"To violate it, yes."
+1985.84-1538,0,15071,byron_r_white,scotus_justice,1111.132,1118.987,"If that were a violation, you would think that you could sue the landlords for treble damages, for being in a combination or an agreement or a conspiracy."
+1985.84-1538,0,32822,jon_smock,,1118.987,1126.108,--I think there is absolutely no question whatever that if the Federal Government were to move against the owners in Berkeley--
+1985.84-1538,0,15071,byron_r_white,scotus_justice,1126.108,1134.137,Even though on pain of criminal penalties they were forced to keep their rent at a certain level?
+1985.84-1538,0,32822,jon_smock,,1134.137,1141.4,--That raises the different and difficult question of whether the city can act as a--
+1985.84-1538,0,15071,byron_r_white,scotus_justice,1141.4,1148.569,"Well, it's a strange kind of a conspiracy to say this is a conspiracy even though we are forced to do it against our will."
+1985.84-1538,0,32822,jon_smock,,1152.707,1154.129,"--Yes, I understand that."
+1985.84-1538,0,15071,byron_r_white,scotus_justice,1158.69,1159.033,Yes.
+1985.84-1538,0,32822,jon_smock,,1159.033,1165.202,"Where wholesalers are compelled by state law, against their will, to follow that state law."
+1985.84-1538,0,15071,byron_r_white,scotus_justice,1169.232,1174.807,"I know, but the issue there... we didn't have to hold that that would violate the Sherman Act."
+1985.84-1538,0,32822,jon_smock,,1181.586,1192.113,--And that the state law was preempted by the federal law because of the overriding federal policy which is obstructed by that state law.
+1985.84-1538,0,15141,william_h_rehnquist,scotus_justice,1192.113,1199.002,Do you have to find that there is a violation before you can find a preemption?
+1985.84-1538,0,32822,jon_smock,,1199.002,1211.09,"We do not believe so, but if violation were necessary then we believe violation is shown in this case, for the very reason that you found the conflict in Midcal."
+1985.84-1538,0,15071,byron_r_white,scotus_justice,1220.415,1228.099,I thought that you just said that your preemption argument is that this ordinance is preempted because it orders what the Sherman Act forbids.
+1985.84-1538,0,32822,jon_smock,,1228.099,1228.927,"Yes, sir."
+1985.84-1538,0,15071,byron_r_white,scotus_justice,1228.927,1232.379,"Well then, mustn't we find that the Sherman Act forbids this?"
+1985.84-1538,0,32822,jon_smock,,1232.379,1235.878,"Yes, you do find that the Sherman Act forbids this."
+1985.84-1538,0,15141,william_h_rehnquist,scotus_justice,1280.313,1298.743,"I don't think you've been completely clear, at least not to my mind, in deciding whether you have to say that the city of Berkeley would be liable in a suit under the antitrust act in order to find that the ordinance is invalid because of conflict with the Sherman Act."
+1985.84-1538,0,32822,jon_smock,,1298.743,1313.83,"If action were to be brought against the city of Berkeley in federal district court challenging the Berkeley ordinance on the basis of an antitrust violation, then I think that that action would be successful."
+1985.84-1538,0,15141,william_h_rehnquist,scotus_justice,1313.83,1330.323,But are there circumstances in which that action would not be successful and still a court could properly say that the Berkeley ordinance is preempted or in some way forbidden by the antitrust laws?
+1985.84-1538,0,32822,jon_smock,,1330.323,1331.511,"Yes, and that's this action."
+1985.84-1538,0,15071,byron_r_white,scotus_justice,1397.094,1406.45,Suppose before you brought this suit there had been another suit brought against Berkeley and against the landlords and it had been concluded.
+1985.84-1538,0,32822,jon_smock,,1424.896,1427.88,We could be here on a preemption challenge--
+1985.84-1538,1,35187,laurence_h_tribe,,1625.424,1629.204,Mr. Chief Justice and may it please the Court:
+1985.84-1538,1,15071,byron_r_white,scotus_justice,1838.279,1854.492,"Mr. Tribe, if you say that it must have been found in this case that the ordinance violated the Sherman Act, why would the California courts... where did they get the power to pass on that claim?"
+1985.84-1538,1,35187,laurence_h_tribe,,1854.492,1884.448,"--Justice White, in this Court's opinion in Rice v. Williams, which came from the California Court of Appeals, that issue was raised in footnote 4 and it was observed that, although the California courts would not have jurisdiction to entertain a lawsuit brought to enforce the Sherman Act, nonetheless when the remedy sought under the supremacy clause is declaratory or injunctive, it is appropriate to ask whether because of direct conflict with the mandate of the Sherman Act there is preemption."
+1985.84-1538,1,15071,byron_r_white,scotus_justice,2251.489,2259.799,What about proof of a conspiracy or a combination between public officials and a tenants organization?
+1985.84-1538,1,35187,laurence_h_tribe,,2259.799,2268.172,"If there were proof of a combination other than the ordinary lobbying effort by tenants... that is, some claim perhaps that tenants--"
+1985.84-1538,1,15071,byron_r_white,scotus_justice,2268.172,2269.28,Could you ever prove that?
+1985.84-1538,1,35187,laurence_h_tribe,,2269.561,2282.649,"--Well, if you couldn't prove it I would think that the Noehr-Pennington doctrine would require that one respect the right of any group in the society... tenants, landlords... to organize for a political purpose."
+1985.84-1538,1,15071,byron_r_white,scotus_justice,2282.649,2286.928,Unless all the council members were tenants?
+1985.84-1538,1,35187,laurence_h_tribe,,2286.928,2290.084,"Well, they were all elected at large, Justice White."
+1985.84-1538,1,15141,william_h_rehnquist,scotus_justice,2322.727,2333.66,"Well, do you think your case would be weaker... and I thought I got this from your recent answer to Justice White... if say four of the seven members of the Berkeley City Council were tenants?"
+1985.84-1538,1,35187,laurence_h_tribe,,2333.66,2333.957,No.
+1985.84-1538,1,15141,william_h_rehnquist,scotus_justice,2785.7,2792.994,"So this is basically a zoning statute, though, talking about what kind of master plan cities shall have?"
+1985.84-1538,1,35187,laurence_h_tribe,,2792.994,2802.71,"--Well, it's a development and housing requirement, and it's somewhat ambiguous as to the kinds of elements that must be included in the so-called housing element of the plan."
+1985.84-1538,1,15141,william_h_rehnquist,scotus_justice,2966.785,2970.955,"Well, Berkenfeld wouldn't help you by itself, because that's just like the Town of Hallie."
+1985.84-1538,1,35187,laurence_h_tribe,,2970.955,2972.798,"That's right, Berkenfeld by itself wouldn't do."
+1985.84-1538,1,15073,warren_e_burger,scotus_justice,3092.109,3095.498,Mr. Smock.
+1985.84-1538,2,32822,jon_smock,,3095.498,3099.823,Mr. Chief Justice and may it please the Court:
+1985.84-1538,2,15060,john_paul_stevens,scotus_justice,3121.549,3130.671,"Mr. Smock, have we ever held that price-fixing in violation of the Sherman Act occurs when no private party makes a decision on what price shall be charged?"
+1985.84-1538,2,32822,jon_smock,,3130.671,3133.561,I respectfully suggest that in Midcal--
+1985.84-1538,2,15060,john_paul_stevens,scotus_justice,3133.561,3138.059,It authorized the filing by a wine producer of a price list that everybody else had to follow.
+1985.84-1538,2,32822,jon_smock,,3138.059,3141.15,--But it was enforced by state legislation.
+1985.84-1538,2,15060,john_paul_stevens,scotus_justice,3141.15,3147.789,"I understand, but I'm asking if there's any price-fixing case that does not involve private conduct by somebody who could be said to have violated the Sherman Act?"
+1985.84-1538,2,32822,jon_smock,,3147.789,3160.472,"Only with respect to the adoption by a state legislature, as in Midcal, of a scheme regardless of how fixed."
+1985.84-1538,2,15060,john_paul_stevens,scotus_justice,3179.074,3183.508,Can any private person here fix a price that governs one of his competitors?
+1985.84-1538,2,32822,jon_smock,,3183.508,3186.46,--It does not govern one of his competitors.

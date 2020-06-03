@@ -1,0 +1,67 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2002.01-1444,0,15060,john_paul_stevens,scotus_justice,0.0,8.256,"We'll hear argument in Number 01-1444, Chavez against Martinez."
+2002.01-1444,0,35022,lawrence_s_robbins,,11.6,44.377,"Thank you, Justice Stevens, and may it please the Court:"
+2002.01-1444,0,15060,john_paul_stevens,scotus_justice,90.406,94.122,May I ask this question on that point that you addressed before you get through?
+2002.01-1444,0,35022,lawrence_s_robbins,,109.892,116.208,"Yes, because the Constitution... well, because the first inquiry would be has the Constitution been violated."
+2002.01-1444,0,15060,john_paul_stevens,scotus_justice,117.816,125.041,"But your... I'm just directing my question at... you sort of said even assuming a constitutional violation, he nevertheless is entitled to good faith immunity."
+2002.01-1444,0,35022,lawrence_s_robbins,,134.246,154.558,"--Well, I think... I think the... the answer is that while... while he might have believed that the Constitution would in time be violated, because he could not himself violate it, he couldn't... he couldn't be liable under section 1983 for committing a Fifth Amendment violation."
+2002.01-1444,0,15049,antonin_scalia,scotus_justice,161.161,173.05,But we... we do somehow extend the Fifth Amendment protection to the period before the actual introduction of the evidence in a criminal trial.
+2002.01-1444,0,35022,lawrence_s_robbins,,191.543,191.914,Well--
+2002.01-1444,0,15049,antonin_scalia,scotus_justice,191.914,192.907,--introduced at trial?
+2002.01-1444,0,35022,lawrence_s_robbins,,192.907,194.865,--I... I think you've put it exactly right.
+2002.01-1444,0,15113,anthony_m_kennedy,scotus_justice,228.367,243.328,"Well, suppose in a civil case, the judge orders the witness confined to custody until he testifies in violation of what we can say in common parlance is his Fifth Amendment right to self-incrimination."
+2002.01-1444,0,35022,lawrence_s_robbins,,249.172,261.515,"I think it is consistent with a body of well... well-developed law that to penalize someone, particularly through that kind of a sanction, for the assertion of a right is in the nature of a... sort of an unconstitutional condition."
+2002.01-1444,0,15113,anthony_m_kennedy,scotus_justice,263.623,269.195,I... I don't know that we usually talk about a violation as an unconstitutional condition.
+2002.01-1444,0,35022,lawrence_s_robbins,,276.337,276.554,--But I... I--
+2002.01-1444,0,15113,anthony_m_kennedy,scotus_justice,276.554,279.309,And I think in a very realistic... real sense you are.
+2002.01-1444,0,35022,lawrence_s_robbins,,279.309,279.969,--Yes.
+2002.01-1444,0,15139,stephen_g_breyer,scotus_justice,377.473,383.334,What... what in your opinion in the Constitution prevents a policeman from going and beating up a witness?
+2002.01-1444,0,35022,lawrence_s_robbins,,383.334,384.449,--The Fourteenth Amendment.
+2002.01-1444,0,15139,stephen_g_breyer,scotus_justice,384.449,392.994,"So, the Fourteenth Amendment means that you could... in other words, your... your client could have violated the Fourteenth Amendment if... other things being equal--"
+2002.01-1444,0,35022,lawrence_s_robbins,,392.994,393.654,Well--
+2002.01-1444,0,15139,stephen_g_breyer,scotus_justice,393.654,394.769,--because he was a witness.
+2002.01-1444,0,35022,lawrence_s_robbins,,396.626,397.369,--Yes.
+2002.01-1444,0,15139,stephen_g_breyer,scotus_justice,397.369,404.965,"--gets the same pre-trial protection as a witness would, and the Fourteenth Amendment prevents coercion being used against a witness who doesn't want to testify."
+2002.01-1444,0,35022,lawrence_s_robbins,,404.965,405.874,"Well, let's be clear."
+2002.01-1444,1,37772,paul_d_clement,,1038.117,1048.315,"Thank you, Justice Stevens, and may it please the Court:"
+2002.01-1444,1,15113,anthony_m_kennedy,scotus_justice,1084.928,1090.335,So beating a prisoner to compel a... a statement is not a Fifth Amendment violation.
+2002.01-1444,1,37772,paul_d_clement,,1090.335,1091.904,"--That's right, Justice Kennedy."
+2002.01-1444,1,15084,ruth_bader_ginsburg,scotus_justice,1093.928,1097.826,But it could be a Fourteenth Amendment violation.
+2002.01-1444,1,37772,paul_d_clement,,1097.826,1100.881,"--It very well... Justice O'Connor, it very well could be a Fourteenth--"
+2002.01-1444,1,15084,ruth_bader_ginsburg,scotus_justice,1100.881,1102.739,And very likely would be.
+2002.01-1444,1,37772,paul_d_clement,,1107.94,1119.624,"--Well, I think generally, at least as I understand this Court's decision in... in Sacramento against Lewis, in these kind of executive action contexts where things are ongoing, I think there is some kind of intent element."
+2002.01-1444,1,15084,ruth_bader_ginsburg,scotus_justice,1120.572,1139.974,"--It's not enough, you think, to find that the officer should have known that you couldn't ask questions in the manner that was done here under these circumstances, and that to proceed gives rise to an inference of intent."
+2002.01-1444,1,37772,paul_d_clement,,1139.974,1162.925,"--Well, I'm not sure how intent would need to be proven in any particular case, but I would say the critical difference between the Fifth Amendment inquiry and the Fourteenth Amendment inquiry, when it's... when it's done in the context of the admissibility of a coerced confession, is in that context, what the courts are taking into account is the effect on the integrity of the trial process of using a coerced confession."
+2002.01-1444,1,15113,anthony_m_kennedy,scotus_justice,1181.501,1194.215,"What about the order of a trial judge in a civil case who orders the witness held in contempt and confined unless he testifies, and... and there's a valid Fifth Amendment privilege that the judge is overlooking?"
+2002.01-1444,1,37772,paul_d_clement,,1196.9,1197.355,No.
+2002.01-1444,1,15113,anthony_m_kennedy,scotus_justice,1202.922,1206.621,"So, if you go in and you want a writ of habeas corpus and you don't mention the Fifth Amendment."
+2002.01-1444,1,37772,paul_d_clement,,1206.621,1214.173,"You mention the Fifth Amendment, but I think the important thing is the Fifth Amendment in this context works a... a bit like the takings clause."
+2002.01-1444,1,15113,anthony_m_kennedy,scotus_justice,1228.169,1233.537,"Well, if there's a 1983 suit against a judge in... in this hypothetical case, what's... what's the violation?"
+2002.01-1444,1,37772,paul_d_clement,,1233.537,1237.829,"--Well, typically those cases have been dealt with on... on habeas."
+2002.01-1444,1,15113,anthony_m_kennedy,scotus_justice,1239.109,1240.967,Suppose it's a 1983 suit.
+2002.01-1444,1,37772,paul_d_clement,,1240.967,1247.738,"--If there's a 1983 suit in that context, I actually don't think a 1983 suit would lie in that context."
+2002.01-1444,1,15042,david_h_souter,scotus_justice,1247.738,1257.519,Why wouldn't there be a 1983 suit provided that... and I think this is the assumption of Justice Kennedy's question... provided that the witness had invoked the Fifth Amendment?
+2002.01-1444,1,37772,paul_d_clement,,1294.383,1298.758,"I think that's a very good point, Justice Souter, and the Court has also treated in the penalty context--"
+2002.01-1444,1,15042,david_h_souter,scotus_justice,1298.758,1305.711,"Well, is it good enough so that you concede there would be 1983 liability there; i.e., that there would be a violation of the Fifth Amendment in that case?"
+2002.01-1444,1,37772,paul_d_clement,,1305.711,1307.076,"--I don't think so, but I think it would--"
+2002.01-1444,1,15042,david_h_souter,scotus_justice,1307.076,1307.631,Not that good.
+2002.01-1444,1,37772,paul_d_clement,,1307.631,1308.728,--at least be a better case.
+2002.01-1444,1,15113,anthony_m_kennedy,scotus_justice,1309.943,1313.929,"Is there any violation in the case that I put, any constitutional violation?"
+2002.01-1444,1,37772,paul_d_clement,,1315.249,1326.189,"--There is a... there is a... there... what there is is there is an ongoing interference with the Fifth Amendment right that the courts will vindicate, but there isn't a complete constitutional violation."
+2002.01-1444,1,15139,stephen_g_breyer,scotus_justice,1347.717,1353.865,"Well, maybe the... the point where it would make a difference I guess... nobody is talking about weakening or overruling Miranda."
+2002.01-1444,2,40142,richard_s_paz,,1667.958,1672.211,"Justice Stevens, and if it pleases the Court:"
+2002.01-1444,2,15060,john_paul_stevens,scotus_justice,1789.368,1789.739,"Mr. Paz, I'm sorry."
+2002.01-1444,2,40142,richard_s_paz,,1792.34,1798.079,"It's 28a in the appendix of the... of the petition for cert, yes, Justice Stevens."
+2002.01-1444,2,15060,john_paul_stevens,scotus_justice,1798.079,1798.534,And where?
+2002.01-1444,2,40142,richard_s_paz,,1800.225,1802.992,It starts at the... at approximately the... the bottom of the page.
+2002.01-1444,2,15060,john_paul_stevens,scotus_justice,1802.992,1804.19,"""Finally defendants argue #""?"
+2002.01-1444,2,40142,richard_s_paz,,1804.19,1804.645,Yes.
+2002.01-1444,2,15060,john_paul_stevens,scotus_justice,1804.645,1804.795,Okay.
+2002.01-1444,2,40142,richard_s_paz,,1805.149,1806.298,Yes.
+2002.01-1444,2,15049,antonin_scalia,scotus_justice,1858.765,1884.028,"Mr. Paz, let me... let me tell you why I have difficulty with the proposition which you're urging, which is that any coercion that would suffice to require the confession to be excluded from... from trial is also a coercion that violates the Fifth Amendment, not... leaving substantive due process aside."
+2002.01-1444,3,35022,lawrence_s_robbins,,3235.026,3236.884,"Thank you, Mr.... Justice Stevens."
+2002.01-1444,3,15060,john_paul_stevens,scotus_justice,3426.169,3427.078,"But, Mr. Robbins, why couldn't... why couldn't--"
+2002.01-1444,3,35022,lawrence_s_robbins,,3427.078,3428.36,--that should be reversed at the first threshold.
+2002.01-1444,3,15060,john_paul_stevens,scotus_justice,3428.36,3438.445,--Why couldn't you view the continued questioning under the circumstances of this case as tantamount to punishment when you have locked somebody up who won't answer questions?
+2002.01-1444,3,35022,lawrence_s_robbins,,3438.445,3445.671,"Well, I... I think because... well, for one thing, the availability of use immunity is still there."
+2002.01-1444,3,15060,john_paul_stevens,scotus_justice,3483.837,3485.324,"Thank you very much, Mr. Robbins."

@@ -1,0 +1,225 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2017.17-2,0,15086,john_g_roberts_jr,scotus_justice,0.0,7.72,"We'll hear argument first this morning in Case 17-2, United States versus Microsoft Corporation. Mr. Dreeben."
+2017.17-2,0,35719,michael_r_dreeben,,7.72,16.48,"Mr. Chief Justice, and may it please the Court: Section 2703 of the Stored Communications Act focuses on classically domestic conduct."
+2017.17-2,0,15131,sonia_sotomayor,scotus_justice,28.48,31.96,It actually requires a search.
+2017.17-2,0,35719,michael_r_dreeben,,62.28,66.96,"So, Justice Sotomayor, it -- it's a hybrid instrument that has two functions."
+2017.17-2,0,15131,sonia_sotomayor,scotus_justice,86.16,87.68,"Well, actually, it does."
+2017.17-2,0,35719,michael_r_dreeben,,101.04,108.36,"So, presumably, not because the statute actually says that the government can get a warrant requiring disclosure."
+2017.17-2,0,15131,sonia_sotomayor,scotus_justice,180.96,181.44,Mr. Dreeben --
+2017.17-2,0,15084,ruth_bader_ginsburg,scotus_justice,181.44,193.2,"Mr. Dreeben, may I ask you a broader question? I think the starting point all would agree in, what was it, 1986, no one ever heard of clouds."
+2017.17-2,0,35719,michael_r_dreeben,,246.88,249.04,"Well, Justice Ginsburg, a couple of responses."
+2017.17-2,0,15113,anthony_m_kennedy,scotus_justice,313.64,322.96,"In that sense, is it -- is it correct to say that the parties agree that the Act does not have extraterritorial application?"
+2017.17-2,0,35719,michael_r_dreeben,,322.96,324.48,"Yes, Justice Kennedy."
+2017.17-2,0,15113,anthony_m_kennedy,scotus_justice,324.48,329.12,"And is that just a concession you make for purposes of this case, or do you read the statute that way?"
+2017.17-2,0,35719,michael_r_dreeben,,329.12,347.2,"We read it against the backdrop of this Court's decision in Morrison and RJR, which provide that unless the statute clearly has extraterritorial application in its text, structure, or operation, it has none. And we're not here arguing that this application is extraterritorial and permissible."
+2017.17-2,0,15084,ruth_bader_ginsburg,scotus_justice,374.04,376.6,But something has to happen abroad.
+2017.17-2,0,35719,michael_r_dreeben,,387.6,387.96,Yes.
+2017.17-2,0,62836,neil_gorsuch,scotus_justice,416.12,431.72,"Mr. Dreeben, why would that be the case using the focus test that we wouldn't take cognizance of the fact that the information must be collected abroad and transmitted from abroad to the United States before it could then be disclosed? I mean, there's a chain of activity that's required here."
+2017.17-2,0,35719,michael_r_dreeben,,431.72,432.88,There --
+2017.17-2,0,62836,neil_gorsuch,scotus_justice,432.88,435.96,Why should we divorce the first half from the second?
+2017.17-2,0,35719,michael_r_dreeben,,435.96,446.48,"Because I think the way that the Court has approached this, Justice Gorsuch, is to look at the language of the statute and the actual text and try to identify from that text what is the focus of the statute."
+2017.17-2,0,62836,neil_gorsuch,scotus_justice,446.48,449.04,"I understand that, and disclosure -- I understand your argument."
+2017.17-2,0,35719,michael_r_dreeben,,449.04,449.12,Yes.
+2017.17-2,0,62836,neil_gorsuch,scotus_justice,449.12,454.08,"But in order to disclose, it anticipates necessarily certain antecedent conduct."
+2017.17-2,0,35719,michael_r_dreeben,,454.08,454.84,"Yes, it does, but --"
+2017.17-2,0,62836,neil_gorsuch,scotus_justice,454.84,456.36,"And you'd ask us to ignore that, I think."
+2017.17-2,0,35719,michael_r_dreeben,,457.36,475.92,"Well, I think this Court's case law provides a test that says that if the activity that's within the focus of the statute occurs in the United States, the fact that there may be antecedent or other conduct abroad doesn't detract from a domestic application. And I have an example that I think will help illustrate that point."
+2017.17-2,0,15131,sonia_sotomayor,scotus_justice,506.96,518.52,"Mr. Dreeben, I don't know that you fairly answered Justice Ginsburg's question. This is a 1986 statute."
+2017.17-2,0,35719,michael_r_dreeben,,618.08,618.4,So the --
+2017.17-2,0,15131,sonia_sotomayor,scotus_justice,618.4,625.28,-- that addresses the potential problems that your reading would create?
+2017.17-2,0,35719,michael_r_dreeben,,625.28,634.96,So I've got to start with the last part of your question and then come back to the first because otherwise I'll probably forget what the last part is. There is not an international problem here.
+2017.17-2,0,15131,sonia_sotomayor,scotus_justice,639.52,653.32,You mean all those amici who have written complaining about how this would conflict with so much foreign law. We've got a bunch of amici briefs telling us how much this conflicts.
+2017.17-2,0,35719,michael_r_dreeben,,653.32,660.36,No foreign government has come to this Court saying that the order that we seek would conflict with its law.
+2017.17-2,0,15131,sonia_sotomayor,scotus_justice,746.56,760.44,"Let's assume because there's been a lot of back and forth, and I -- I tend to disagree, there's an open question on the Budapest Treaty, but putting that disagreement aside, assuming the point I've made, there is a bill."
+2017.17-2,0,35719,michael_r_dreeben,,782.92,790.52,"Well, first of all, this Court's duty is to interpret the statute under its own statutory interpretation canons."
+2017.17-2,0,15131,sonia_sotomayor,scotus_justice,791.04,792.2,There's no circuit split.
+2017.17-2,0,35719,michael_r_dreeben,,796.68,798.56,"Well, there are a couple of reasons for that."
+2017.17-2,0,15094,elena_kagan,scotus_justice,833.96,834.72,Mr. Dreeben --
+2017.17-2,0,35719,michael_r_dreeben,,834.72,836.76,If I can just make one final point on this.
+2017.17-2,0,15094,elena_kagan,scotus_justice,836.76,836.84,Please.
+2017.17-2,0,35719,michael_r_dreeben,,836.84,844.4,"As to the bill itself, it does not retrench on the authority that the government says is part of the legal fabric here today."
+2017.17-2,0,62836,neil_gorsuch,scotus_justice,898.84,901.52,"Mr. Dreeben, you used the word ""subpoena,"" and -- and we've talked about that a lot."
+2017.17-2,0,35719,michael_r_dreeben,,912.44,912.88,Yes.
+2017.17-2,0,62836,neil_gorsuch,scotus_justice,912.88,914.0,Unlike subpoenas.
+2017.17-2,0,35719,michael_r_dreeben,,914.0,914.32,Yes.
+2017.17-2,0,62836,neil_gorsuch,scotus_justice,914.32,917.36,"And elsewhere in the statute Congress used the word ""subpoenas."""
+2017.17-2,0,35719,michael_r_dreeben,,917.36,917.64,Yes.
+2017.17-2,0,62836,neil_gorsuch,scotus_justice,917.64,919.44,So we know it knew the difference.
+2017.17-2,0,35719,michael_r_dreeben,,919.44,919.76,Yes.
+2017.17-2,0,62836,neil_gorsuch,scotus_justice,919.76,920.6,Help me out with that.
+2017.17-2,0,35719,michael_r_dreeben,,920.6,921.12,Okay.
+2017.17-2,0,62836,neil_gorsuch,scotus_justice,958.76,960.04,It doesn't do that. I got you.
+2017.17-2,0,35719,michael_r_dreeben,,964.32,1001.44,"I think what you make of it is that the structure of the statute provides three mechanisms for the government to obtain disclosure: A subpoena; a 2703(d) order, which is the intermediate form of process that's at issue in the Carpenter case; and a warrant. And those three different instruments correlate with the different levels of sensitivity of information that Congress perceived, and, therefore, it ratcheted up the showing that the government had to make in order to get the disclosure order. And so, instead of saying just go get a warrant, it says get a warrant using the procedures of Rule 41, not all of Rule 41."
+2017.17-2,0,15139,stephen_g_breyer,scotus_justice,1136.92,1138.92,"Well, I don't -- I don't know if you want to --"
+2017.17-2,0,15068,samuel_a_alito_jr,scotus_justice,1138.92,1153.72,"Mr. Dreeben, do you think that -- do you think there's anything -- that the Stored Communications Act prevents you from obtaining this information in either of the two conventional ways that you mentioned? One, by getting a grand jury subpoena."
+2017.17-2,0,35719,michael_r_dreeben,,1169.76,1177.64,"So, if we got a ordinary conventional warrant under Rule 41, Microsoft does not have an ex-ante opportunity to contest the search."
+2017.17-2,0,15068,samuel_a_alito_jr,scotus_justice,1233.2,1257.68,"Could I ask you one other question? What is happening when these orders are sought now outside of the Second Circuit? I mean, there's been talk about leaving things alone, but is the rest of the country going -- are the judges everywhere in the country going to follow what the Second Circuit decided? Are they doing that, or are they continuing to issue the kinds of orders that were issued in the past?"
+2017.17-2,0,35719,michael_r_dreeben,,1257.68,1281.92,"Every district court that has written an opinion outside of the Second Circuit has rejected the Second Circuit's approach, and the United States is continuing to compel information from service providers, regardless of where they store it. And in the case of providers like Google, algorithms enable them to move information around the globe in order to maximize the efficiency of their system."
+2017.17-2,0,15068,samuel_a_alito_jr,scotus_justice,1289.52,1297.6,What is happening when these district courts outside of the Second Circuit are issuing these orders? The Internet service providers are not appealing?
+2017.17-2,0,35719,michael_r_dreeben,,1297.6,1306.32,"I think that in some cases, there are appeals that are on hold pending this Court's disposition of this issue, so it's not going to go away."
+2017.17-2,0,15139,stephen_g_breyer,scotus_justice,1326.8,1340.12,"I see the problem, I think, but what I don't see yet -- maybe I just have to go back and study it -- is -- is your answer to Justice Gorsuch's question, which has been bothering me on both sides."
+2017.17-2,0,35719,michael_r_dreeben,,1359.0,1359.36,Yes.
+2017.17-2,0,15139,stephen_g_breyer,scotus_justice,1359.36,1359.56,Right?
+2017.17-2,0,35719,michael_r_dreeben,,1359.56,1359.64,Yes.
+2017.17-2,0,15139,stephen_g_breyer,scotus_justice,1359.64,1360.48,That's what it says.
+2017.17-2,0,35719,michael_r_dreeben,,1360.48,1360.72,Yes.
+2017.17-2,0,15139,stephen_g_breyer,scotus_justice,1360.72,1382.24,"So then I go to the Federal Rules of Criminal Procedure, and there the first thing I discover is you ask a magistrate, and it says: ""A magistrate judge with authority in the district has authority to issue a warrant to search for and seize a person or property located within the district."" All right? Now, so that's what you did."
+2017.17-2,0,35719,michael_r_dreeben,,1385.08,1386.52,"No, that's not what we did."
+2017.17-2,0,15139,stephen_g_breyer,scotus_justice,1386.52,1387.72,"Oh, you went to the district judge?"
+2017.17-2,0,35719,michael_r_dreeben,,1387.72,1389.28,We went to the district court --
+2017.17-2,0,15139,stephen_g_breyer,scotus_justice,1389.28,1390.8,So it's the same problem.
+2017.17-2,0,35719,michael_r_dreeben,,1391.8,1396.36,"Well, it's a slightly different problem, Justice Breyer, and I think that I can help clear up a little bit of this."
+2017.17-2,0,15139,stephen_g_breyer,scotus_justice,1396.36,1396.68,Yeah.
+2017.17-2,0,35719,michael_r_dreeben,,1396.92,1397.56,There are two angles of it.
+2017.17-2,0,15139,stephen_g_breyer,scotus_justice,1411.2,1411.4,Yeah.
+2017.17-2,0,35719,michael_r_dreeben,,1411.4,1413.76,-- and that court has nationwide authority.
+2017.17-2,0,15139,stephen_g_breyer,scotus_justice,1415.36,1416.4,But is that what you did? What did you do here?
+2017.17-2,0,35719,michael_r_dreeben,,1416.4,1417.4,We did that here.
+2017.17-2,0,15139,stephen_g_breyer,scotus_justice,1420.76,1421.0,Okay.
+2017.17-2,0,35719,michael_r_dreeben,,1444.08,1444.44,Yes.
+2017.17-2,0,15139,stephen_g_breyer,scotus_justice,1444.44,1445.92,And what happens then?
+2017.17-2,0,35719,michael_r_dreeben,,1445.92,1448.72,"So this is a very common problem, and it's why I -- I --"
+2017.17-2,0,15139,stephen_g_breyer,scotus_justice,1448.72,1449.04,All right.
+2017.17-2,0,35719,michael_r_dreeben,,1449.88,1453.12,The answer is that courts conduct a comity analysis.
+2017.17-2,0,15139,stephen_g_breyer,scotus_justice,1456.2,1456.44,Okay.
+2017.17-2,0,35719,michael_r_dreeben,,1472.72,1472.92,Yes.
+2017.17-2,0,15139,stephen_g_breyer,scotus_justice,1472.92,1474.2,-- which you say is not here --
+2017.17-2,0,35719,michael_r_dreeben,,1474.2,1474.52,Yes.
+2017.17-2,0,15139,stephen_g_breyer,scotus_justice,1474.52,1476.48,"-- this Italian law, if there is --"
+2017.17-2,0,35719,michael_r_dreeben,,1476.48,1476.8,Yes.
+2017.17-2,0,15139,stephen_g_breyer,scotus_justice,1476.8,1477.96,-- which says you can't bring it.
+2017.17-2,0,35719,michael_r_dreeben,,1477.96,1478.52,Yes.
+2017.17-2,0,15139,stephen_g_breyer,scotus_justice,1478.52,1483.48,"So you -- so perhaps there's agreement, we'll see, about what should be done, and this new law proposes that."
+2017.17-2,0,35719,michael_r_dreeben,,1483.48,1484.36,"Well, I think what's more --"
+2017.17-2,0,15139,stephen_g_breyer,scotus_justice,1484.36,1485.08,Right.
+2017.17-2,0,35719,michael_r_dreeben,,1485.08,1490.64,-- radical is that Microsoft's position is that no court ever gets to ask the question.
+2017.17-2,0,15094,elena_kagan,scotus_justice,1507.52,1513.64,"But you are agreeing, Mr. Dreeben, that a court in that circumstance should conduct a comity analysis?"
+2017.17-2,0,35719,michael_r_dreeben,,1513.64,1514.08,Yes.
+2017.17-2,0,15094,elena_kagan,scotus_justice,1514.08,1517.32,"And if you are, what would that look like and when would it occur?"
+2017.17-2,0,35719,michael_r_dreeben,,1517.32,1572.96,"Well, in our view, it would occur at the contempt stage, after the government procures an order, if it seeks to impose sanctions on a party for noncompliance. That's roughly the model that this Court used in Societe Internationale versus Rogers, a 1958 decision that squarely posed the question of whether a party over whom a U.S. court had jurisdiction could be ordered to produce documents that were located in Switzerland when Swiss law had a blocking statute. And the Court had no problem with the issuance of the order, but it had a great deal of problem with failure to conduct any comity analysis that took into account possible conflicts with foreign law. And that same framework was applied by lower courts when they encountered grand jury subpoenas seeking financial information located in foreign countries -- states, and there was an assertion of a conflict with foreign law. So there's nothing new about this problem."
+2017.17-2,0,15094,elena_kagan,scotus_justice,1592.72,1598.68,May I take you back to the language of the statute? Most of your argument in your brief focuses on 2703.
+2017.17-2,0,35719,michael_r_dreeben,,1599.16,1599.32,Yes.
+2017.17-2,0,15094,elena_kagan,scotus_justice,1599.32,1602.12,-- we should just focus on 2703.
+2017.17-2,0,35719,michael_r_dreeben,,1612.12,1612.56,So --
+2017.17-2,0,15094,elena_kagan,scotus_justice,1612.56,1619.76,"If you do expand your field of vision and -- you know, what would you say there Congress was --"
+2017.17-2,0,35719,michael_r_dreeben,,1619.76,1623.16,So 2701 is a statute that blocks access.
+2017.17-2,0,15094,elena_kagan,scotus_justice,1632.72,1633.88,The computer is here --
+2017.17-2,0,35719,michael_r_dreeben,,1633.88,1634.24,Yes.
+2017.17-2,0,15094,elena_kagan,scotus_justice,1634.24,1634.68,-- but the hacker is overseas?
+2017.17-2,0,35719,michael_r_dreeben,,1634.68,1635.24,Yes.
+2017.17-2,0,15086,john_g_roberts_jr,scotus_justice,1687.32,1693.24,"Thank you, counsel. Mr. Rosenkranz."
+2017.17-2,1,23018,e_joshua_rosenkranz,,1693.24,1704.84,"Mr. Chief Justice, and may it please the Court: I'll start where Justice Kennedy started, which is where we all agree that the Stored Communications Act is limited to the United States."
+2017.17-2,1,15084,ruth_bader_ginsburg,scotus_justice,1725.68,1751.56,"Mr. Rosenkranz, we're told, and -- and correct me if it's incorrect, that until this very case Microsoft was complying with these disclosure orders. This case is the first time it objected, but there were past efforts of the same kind and Microsoft disclosed the contents of the communications."
+2017.17-2,1,23018,e_joshua_rosenkranz,,1752.56,1784.16,"Yes, Your Honor, but what -- I just -- I want to make sure that you -- that the Court understands, Justice Ginsburg, that this is a very new phenomenon, this whole notion of cloud storage in another country. We didn't start doing it until 2010. So the fact that we analyzed what our legal obligations were and realized, wait a minute, this is actually an extraterritorial act that is unauthorized by the U.S. Government, the fact that we were sober-minded about it shouldn't be held against us."
+2017.17-2,1,15086,john_g_roberts_jr,scotus_justice,1784.16,1788.72,"Well, but it's -- it seems to me you're assuming the answer to the question."
+2017.17-2,1,23018,e_joshua_rosenkranz,,1821.36,1836.76,"Well, Your Honor, first, it is the situation here, but let me answer the question directly. The reason that this is an extraterritorial act goes right to the heart of why we have a presumption against extraterritoriality."
+2017.17-2,1,15113,anthony_m_kennedy,scotus_justice,1862.0,1879.48,"What -- why should we have a binary choice between a focus on the location of the data and the location of the disclosure? Aren't there some other factors, where the owner of the e-mail lives or where the service provider has its headquarters?"
+2017.17-2,1,23018,e_joshua_rosenkranz,,1879.48,1880.36,"No, Justice --"
+2017.17-2,1,15113,anthony_m_kennedy,scotus_justice,1880.36,1882.52,Or do we have -- we're forced to this binary choice?
+2017.17-2,1,23018,e_joshua_rosenkranz,,1882.52,1889.52,"Your Honor, that is a consequence of this Court's analysis in Morrison, which no one is challenging."
+2017.17-2,1,15068,samuel_a_alito_jr,scotus_justice,1946.24,1948.72,"Mr. Rosenkranz, let me -- this is what troubles me."
+2017.17-2,1,23018,e_joshua_rosenkranz,,2017.64,2036.8,"Well, Justice Alito, first, that is not so far as certainly -- so far as this record is concerned and not so far as any record before any court is concerned what actually happens. No one actually breaks up the e-mail into shards, certainly not in this case. That's not what Microsoft does."
+2017.17-2,1,15068,samuel_a_alito_jr,scotus_justice,2049.16,2051.96,"Well, we were told that that's what Gmail does."
+2017.17-2,1,23018,e_joshua_rosenkranz,,2053.52,2054.88,"No, Your Honor, that's not correct."
+2017.17-2,1,15068,samuel_a_alito_jr,scotus_justice,2054.88,2055.08,All right.
+2017.17-2,1,23018,e_joshua_rosenkranz,,2065.88,2075.2,"Well, Your Honor, the way to get the information is through MLATs, and the only evidence in this record about MLATs is that MLATs do work."
+2017.17-2,1,15139,stephen_g_breyer,scotus_justice,2082.76,2087.36,Just -- there are two parts to this in my mind.
+2017.17-2,1,23018,e_joshua_rosenkranz,,2137.24,2151.12,"The problem with that, Justice Breyer, is that that's not the statute Congress passed. The statute Congress passed is a statute that does not call for this sort of weighing --"
+2017.17-2,1,15139,stephen_g_breyer,scotus_justice,2151.12,2151.32,All right.
+2017.17-2,1,23018,e_joshua_rosenkranz,,2186.28,2192.56,"I do understand your question, Justice Breyer, and the answer is that is simply not the statute that Congress wrote."
+2017.17-2,1,15131,sonia_sotomayor,scotus_justice,2219.08,2220.28,Mr. Rosenkranz --
+2017.17-2,1,15113,anthony_m_kennedy,scotus_justice,2220.28,2231.44,"Under this Act, could you voluntarily disclose this to the government, or would that be a violation of 2702?"
+2017.17-2,1,23018,e_joshua_rosenkranz,,2231.44,2242.72,"It would not be a violation of 2702 if we voluntarily did something, but it would be a violation of our obligations to our customers."
+2017.17-2,1,15113,anthony_m_kennedy,scotus_justice,2242.72,2246.68,"Well, if that's so, then why can't the government just obtain this by a subpoena?"
+2017.17-2,1,23018,e_joshua_rosenkranz,,2246.68,2250.24,"Well, so that is another big question."
+2017.17-2,1,15113,anthony_m_kennedy,scotus_justice,2272.64,2276.08,"You could voluntarily disclose, but they couldn't have a subpoena?"
+2017.17-2,1,23018,e_joshua_rosenkranz,,2276.08,2277.48,I'm sorry?
+2017.17-2,1,15113,anthony_m_kennedy,scotus_justice,2277.48,2283.28,"It seems odd to me that if -- you could voluntarily disclose, but they couldn't ask for a subpoena."
+2017.17-2,1,23018,e_joshua_rosenkranz,,2285.8,2287.68,"Well, Your Honor, my point is --"
+2017.17-2,1,15113,anthony_m_kennedy,scotus_justice,2287.68,2289.68,I recognize we have a difficult statute here.
+2017.17-2,1,23018,e_joshua_rosenkranz,,2289.68,2295.84,"Your Honor, if we voluntarily disclosed, it would be a violation of our obligations to our customer."
+2017.17-2,1,62836,neil_gorsuch,scotus_justice,2303.44,2308.48,"Mr. Rosenkranz, do you agree that after 180 days the government could get this material with a subpoena?"
+2017.17-2,1,23018,e_joshua_rosenkranz,,2308.48,2310.96,"Absolutely not, Your Honor."
+2017.17-2,1,15084,ruth_bader_ginsburg,scotus_justice,2333.64,2351.04,"So what actions -- what actions would Microsoft have to take extraterritorial -- extraterritorially to comply with the -- in this case, the warrant? What would Microsoft have to do outside the United States?"
+2017.17-2,1,23018,e_joshua_rosenkranz,,2351.04,2357.16,"Well, so let's start with the fact that these e-mails are stored outside the United States."
+2017.17-2,1,15131,sonia_sotomayor,scotus_justice,2425.64,2450.4,"I'm sorry, I don't -- perhaps it's my technological ignorance. How is it in a locked box? If I'm trying to mentally imagine this, what has to happen? You know, I press a button in the U.S. and it accesses directly the information in Ireland, or does something have to happen in Ireland?"
+2017.17-2,1,23018,e_joshua_rosenkranz,,2450.4,2452.6,Something has to happen in Ireland.
+2017.17-2,1,15113,anthony_m_kennedy,scotus_justice,2460.88,2464.2,Something has to happen electronically or with human intervention?
+2017.17-2,1,23018,e_joshua_rosenkranz,,2464.2,2466.36,No -- no human intervention -- there's a human --
+2017.17-2,1,15113,anthony_m_kennedy,scotus_justice,2466.36,2468.2,So someway you push the button in Washington?
+2017.17-2,1,23018,e_joshua_rosenkranz,,2468.2,2468.56,Yes.
+2017.17-2,1,15113,anthony_m_kennedy,scotus_justice,2468.56,2474.28,"Then, obviously, something happens in Ireland on the computer. But does some person have to be there?"
+2017.17-2,1,23018,e_joshua_rosenkranz,,2474.28,2476.4,A human being doesn't have to do it.
+2017.17-2,1,15131,sonia_sotomayor,scotus_justice,2489.96,2494.4,"I -- I'm sorry, I'm -- I'm now -- I guess my imagination is running wild. (Laughter.)"
+2017.17-2,1,15131,sonia_sotomayor,scotus_justice,2494.4,2500.16,How -- how does -- who tells the robot what to do and what does the robot do?
+2017.17-2,1,23018,e_joshua_rosenkranz,,2500.16,2507.72,"A human being in, let's say, Redmond tells the robot -- it sends the robot instructions."
+2017.17-2,1,15131,sonia_sotomayor,scotus_justice,2512.92,2513.24,Okay.
+2017.17-2,1,23018,e_joshua_rosenkranz,,2513.24,2519.48,What happens then? It interfaces with a hardware computer in a hardware facility.
+2017.17-2,1,62836,neil_gorsuch,scotus_justice,2572.56,2579.88,Do you dispute that the government could issue a warrant to go ahead and do exactly that in Redmond?
+2017.17-2,1,23018,e_joshua_rosenkranz,,2579.88,2584.76,The government could issue a warrant -- I believe that's --
+2017.17-2,1,62836,neil_gorsuch,scotus_justice,2584.76,2586.84,Push you aside and do the search in Redmond?
+2017.17-2,1,23018,e_joshua_rosenkranz,,2586.84,2588.76,This warrant authorizes it.
+2017.17-2,1,62836,neil_gorsuch,scotus_justice,2589.4,2600.16,"No, could -- could the government do that outside of the Stored Communications Act? Could the government issue a classic search warrant, go into Redmond, and conduct a search on the computers in Redmond?"
+2017.17-2,1,23018,e_joshua_rosenkranz,,2600.16,2604.0,"It would be an extraterritorial search; it would, therefore, be illegal."
+2017.17-2,1,15068,samuel_a_alito_jr,scotus_justice,2611.12,2613.92,And what could -- and what could you do about it?
+2017.17-2,1,23018,e_joshua_rosenkranz,,2613.92,2623.04,"Well, we could -- we could sue the government and say that you can't come onto our property and -- and engage in these unconstitutional -- in these extraterritorial acts."
+2017.17-2,1,15068,samuel_a_alito_jr,scotus_justice,2624.44,2625.12,What kind of --
+2017.17-2,1,15086,john_g_roberts_jr,scotus_justice,2625.12,2625.36,Counsel --
+2017.17-2,1,15068,samuel_a_alito_jr,scotus_justice,2625.36,2627.76,"-- what kind of suit would that be? But anyway, never mind."
+2017.17-2,1,15086,john_g_roberts_jr,scotus_justice,2627.76,2653.6,"-- there -- there is nothing under your position that prevents Microsoft from storing United States communications, every one of them, either in Canada or Mexico or anywhere else, and then telling their customers: Don't worry if the government wants to get access to your communications; they won't be able to, unless they go through this MLAT procedure, which -- which is costly and time-consuming."
+2017.17-2,1,23018,e_joshua_rosenkranz,,2656.24,2659.8,"Is it theoretically possible, yes, but it would never happen."
+2017.17-2,1,15086,john_g_roberts_jr,scotus_justice,2669.0,2669.88,Well -- I'm sorry.
+2017.17-2,1,23018,e_joshua_rosenkranz,,2676.2,2690.16,"Well, there's a basic physical property at issue here that underscores that this is not just some random act of putting e-mails in one place or another. There's this physical phenomenon called latency."
+2017.17-2,1,15086,john_g_roberts_jr,scotus_justice,2694.48,2694.68,Okay.
+2017.17-2,1,23018,e_joshua_rosenkranz,,2704.72,2708.76,"Your Honor, these facilities are half a billion dollar facilities."
+2017.17-2,1,15086,john_g_roberts_jr,scotus_justice,2721.64,2728.6,"Well, but you might gain customers if you can assure them, no matter what happens, the government won't be able to get access to their e-mails."
+2017.17-2,1,23018,e_joshua_rosenkranz,,2728.6,2732.6,"Your Honor, so this is the -- the tail-wagging-the-dog problem."
+2017.17-2,1,15086,john_g_roberts_jr,scotus_justice,2761.68,2787.04,"I know, but my basic point, and I'm not sure that you've answered it, is that there is nothing that prevents Microsoft -- in other words, an e-mail from me to somebody on the other side of the building that is going to be stored somewhere else would be protected from disclosure, if people, the government, wanted access in the normal course of a criminal investigation where they have a warrant establishing probable cause."
+2017.17-2,1,23018,e_joshua_rosenkranz,,2794.68,2809.48,"And, Your Honor, my answer is an equally practical one, and that is, if customers do not want their e-mails to be seized by the government, they don't use Microsoft's services."
+2017.17-2,1,15068,samuel_a_alito_jr,scotus_justice,2861.76,2868.68,Is it correct that we don't know the nationality of the individual who has this e-mail account?
+2017.17-2,1,23018,e_joshua_rosenkranz,,2868.68,2870.48,"Yes, that is correct, Justice Alito."
+2017.17-2,1,15068,samuel_a_alito_jr,scotus_justice,2870.48,2890.84,"Well, if this person is not Irish and Ireland played no part in your decision to store the information there and there's nothing that Ireland could do about it if you chose tomorrow to move it someplace else, it is a little difficult for me to see what Ireland's interest is in this."
+2017.17-2,1,23018,e_joshua_rosenkranz,,2890.84,2911.28,"Your Honor, Ireland's interests are the same interests of any sovereign who protects information stored where -- within their domain. We protect information stored within the United States and we don't actually care whose information it is because we have laws that guard the information for everyone."
+2017.17-2,1,15068,samuel_a_alito_jr,scotus_justice,2911.28,2936.0,"And I guess the point is when we're talking about this information, which, all right, yes, it -- it physically exists on one or more computers somewhere, but it doesn't have a presence anyplace in the sense that a physical object has a presence someplace. And the Internet service providers can put it anywhere they want and move it around at will."
+2017.17-2,1,23018,e_joshua_rosenkranz,,2940.32,2951.44,"I -- I would not agree with that, Justice Alito, and here's why: First, I disagree with the premise. This -- these e-mails have a physical presence."
+2017.17-2,1,15086,john_g_roberts_jr,scotus_justice,2991.84,2992.16,And what about --
+2017.17-2,1,15094,elena_kagan,scotus_justice,2992.16,3000.32,But why do we need to look for a common thread? Why shouldn't we just look at 2703 and ask what Congress was trying to do in that section?
+2017.17-2,1,23018,e_joshua_rosenkranz,,3000.32,3010.96,"Well, Your Honor, even if you focus on 2703 and -- and isolate it from everything else, the first thing I'd say is even the government agrees that that's not what you're supposed to do."
+2017.17-2,1,15094,elena_kagan,scotus_justice,3022.24,3035.4,"Well, how do we know really? I mean, it seems as though we have a choice between two things: One is what Congress is doing is it's regulating the disclosure in the United States of electronic communications that are stored everywhere in the world."
+2017.17-2,1,23018,e_joshua_rosenkranz,,3057.88,3058.28,Okay.
+2017.17-2,1,15086,john_g_roberts_jr,scotus_justice,3133.88,3136.68,If I -- but you focus on the storage.
+2017.17-2,1,23018,e_joshua_rosenkranz,,3156.2,3163.88,"Well, Your Honor, 2703 -- this goes back to Justice Kagan's question -- it cannot be read in isolation from 2702."
+2017.17-2,1,15086,john_g_roberts_jr,scotus_justice,3169.2,3178.88,"Well, 2702 says ""voluntary disclosure of customer communications or records."" And that too takes place in Washington, not Ireland."
+2017.17-2,1,23018,e_joshua_rosenkranz,,3178.88,3214.0,"And so the answer, Your Honor, is that -- that the Act was first and fundamentally about protecting the communications that were in electronic storage, and so 2703 pairs with 2702. Now 2702 is about making sure -- so 2702, as -- as the government has suggested, is about making sure that the electronic -- that the electronic communications in electronic storage are protected."
+2017.17-2,1,15139,stephen_g_breyer,scotus_justice,3227.4,3233.48,"If your -- I'm going to ask a technical thing to help me with that, and do it -- no more than 15 seconds."
+2017.17-2,1,23018,e_joshua_rosenkranz,,3233.48,3234.08,"Yes, Justice Breyer."
+2017.17-2,1,15139,stephen_g_breyer,scotus_justice,3234.08,3243.0,"What I did is I -- I looked at the warrant which is in the record, and it's signed by James Francis, Magistrate Judge, Southern District, New York."
+2017.17-2,1,23018,e_joshua_rosenkranz,,3244.0,3245.12,"Yes, Your Honor."
+2017.17-2,1,15139,stephen_g_breyer,scotus_justice,3245.12,3245.68,Okay.
+2017.17-2,1,23018,e_joshua_rosenkranz,,3257.44,3258.08,"Yes, Your Honor."
+2017.17-2,1,15139,stephen_g_breyer,scotus_justice,3258.08,3258.4,Okay.
+2017.17-2,1,23018,e_joshua_rosenkranz,,3258.4,3259.4,Let me hear the question again.
+2017.17-2,1,15139,stephen_g_breyer,scotus_justice,3259.4,3278.8,"Well, if it fell within (b)(1), it says that Mr. Francis, Judge Francis, has authority to issue a warrant to search for and seize a property located within the district. So that's how I got in by -- into my linguistic problem of -- what's the answer?"
+2017.17-2,1,23018,e_joshua_rosenkranz,,3278.8,3283.44,"Well, Your Honor, 27 -- the government has invoked 2703(a), which is --"
+2017.17-2,1,15139,stephen_g_breyer,scotus_justice,3283.44,3283.68,Yeah --
+2017.17-2,1,23018,e_joshua_rosenkranz,,3283.68,3284.92,-- the provision that requires a warrant.
+2017.17-2,1,15139,stephen_g_breyer,scotus_justice,3284.92,3290.8,"-- and it says you're ""only pursuant to a warrant issued using the procedures described in the Federal Rules of Criminal Procedure."""
+2017.17-2,1,23018,e_joshua_rosenkranz,,3290.8,3291.36,"Yes, Your Honor."
+2017.17-2,1,15139,stephen_g_breyer,scotus_justice,3291.36,3294.16,So I said what's a warrant? It's Judge Francis's warrant.
+2017.17-2,1,23018,e_joshua_rosenkranz,,3300.68,3301.4,"Oh, 41, yes."
+2017.17-2,1,15139,stephen_g_breyer,scotus_justice,3301.4,3301.72,Yeah.
+2017.17-2,1,23018,e_joshua_rosenkranz,,3312.04,3316.24,"Yeah, I -- I agree with you, Justice Breyer."
+2017.17-2,1,15094,elena_kagan,scotus_justice,3325.52,3326.04,I think the question --
+2017.17-2,1,15139,stephen_g_breyer,scotus_justice,3326.04,3328.64,But you didn't make much of a point of this in your brief. (Laughter.)
+2017.17-2,1,15139,stephen_g_breyer,scotus_justice,3328.64,3333.28,"And so I suspect that -- that -- that it just can't be that easy, this case."
+2017.17-2,1,23018,e_joshua_rosenkranz,,3333.28,3337.68,"No, Justice Breyer, I think we -- we certainly tried to make a point in our brief --"
+2017.17-2,1,15068,samuel_a_alito_jr,scotus_justice,3337.68,3338.88,"No, but, Mr. Rosenkranz --"
+2017.17-2,1,23018,e_joshua_rosenkranz,,3338.88,3339.64,-- that this incorporates --
+2017.17-2,1,15068,samuel_a_alito_jr,scotus_justice,3339.64,3353.88,"-- I think the question is this: If this information were in Redmond, Washington, would the magistrate judge be unable to issue the order because Redmond, Washington, is not in New York? That's the question."
+2017.17-2,1,15139,stephen_g_breyer,scotus_justice,3353.88,3354.96,That's right.
+2017.17-2,1,23018,e_joshua_rosenkranz,,3354.96,3357.68,"Oh, he would not be able to issue the warrant."
+2017.17-2,1,15086,john_g_roberts_jr,scotus_justice,3482.96,3487.24,"Thank you, counsel. Two minutes, Mr. Dreeben."
+2017.17-2,2,35719,michael_r_dreeben,,3487.24,3497.68,"I have four quick points, two technical and two substantive. The technical point first is, Justice Breyer, you asked what the authority of the district court is."
+2017.17-2,2,15086,john_g_roberts_jr,scotus_justice,3612.16,3612.64,Sure.
+2017.17-2,2,35719,michael_r_dreeben,,3612.64,3628.64,"-- discusses the execution of the warrant and it provides that the government need not be there, which makes this an instrument, not like a warrant that allows us to conduct a search, but like a subpoena or discovery order that places obligations on parties over whom the court has jurisdiction."
+2017.17-2,2,15086,john_g_roberts_jr,scotus_justice,3629.28,3629.92,"Thank you, counsel."

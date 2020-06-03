@@ -1,0 +1,92 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1988.88-774,0,15141,william_h_rehnquist,scotus_justice,0.0,10.679,"We'll hear argument next in Number 88-774, Newman-Green, Inc., versus Alejandro Alfonzo-Larrain."
+1988.88-774,0,38180,phil_caldwell_neal,,13.751,17.223,"Mr. Chief Justice, and may it please the Court:"
+1988.88-774,0,15045,harry_a_blackmun,scotus_justice,255.074,256.774,"Which judge was that, Mr. Neal?"
+1988.88-774,0,38180,phil_caldwell_neal,,256.774,261.887,"That was Judge Easterbrook, Justice Radmun... Blackmun."
+1988.88-774,0,15045,harry_a_blackmun,scotus_justice,261.887,263.539,I'm not surprised.
+1988.88-774,0,38180,phil_caldwell_neal,,267.242,271.516,"Judge Easterbrook wrote the dissent, yes."
+1988.88-774,0,15113,anthony_m_kennedy,scotus_justice,398.161,403.303,I take it you don't argue that the circuit didn't have the power to do that if it had chosen to do it.
+1988.88-774,0,38180,phil_caldwell_neal,,403.303,404.853,To remand?
+1988.88-774,0,15113,anthony_m_kennedy,scotus_justice,404.853,405.264,Yes.
+1988.88-774,0,38180,phil_caldwell_neal,,405.264,406.456,"No,... no Your Honor."
+1988.88-774,0,15113,anthony_m_kennedy,scotus_justice,416.783,425.732,"But really a remand of the district court could have been a limited remand for the requesting the court to act within 14 or 21 days, could it not?"
+1988.88-774,0,38180,phil_caldwell_neal,,425.732,446.068,"And... and indeed, according to a fairly substantial body of authority, it could have been a remand that directed the district court to permit a dismissal of the nondiverse Defendant on the ground that any contrary action would be an abuse of the district court's discretion."
+1988.88-774,0,15113,anthony_m_kennedy,scotus_justice,479.418,481.171,"Well, it wouldn't necessarily be a new appeal."
+1988.88-774,0,38180,phil_caldwell_neal,,494.33,495.872,--Perhaps... perhaps it could.
+1988.88-774,0,15071,byron_r_white,scotus_justice,525.903,535.7,"And you think that... I take it from your brief, you think that both Judge Easterbrook and Judge Posner were... were not on the right track, neither one of them?"
+1988.88-774,0,38180,phil_caldwell_neal,,535.7,536.478,"Oh, no, Your Honor."
+1988.88-774,0,15071,byron_r_white,scotus_justice,540.472,542.973,But I thought you present a different rationale for it.
+1988.88-774,0,38180,phil_caldwell_neal,,542.973,572.182,"--Well, we presented... yes, we presented supporting rationale, I think, and maybe if I... if I go... if I go directly... directly to that, there is an... there is an issue in the case raised by... by Judge Posner's opinion and relied on very heavily by... by the respondents here that the whole business is of permitting the dismissal of a nondiverse defendant is offensive to fundamental issues... principles of federal jurisdiction."
+1988.88-774,0,15141,william_h_rehnquist,scotus_justice,647.034,650.116,"Amendments of the sort that you would have had to make, Mr. Neal?"
+1988.88-774,0,38180,phil_caldwell_neal,,662.083,668.308,"--It's... it's very general and... it's very general in... in its language, Mr. Chief Justice."
+1988.88-774,0,15141,william_h_rehnquist,scotus_justice,713.3,720.945,"The only appellate court in existence, I guess, at the time of the judiciary of 1789 or about to become in existence would be our Court."
+1988.88-774,0,38180,phil_caldwell_neal,,720.945,733.953,"Well, that is correct, except that in some... in some aspects the old circuit courts had an appellate jurisdiction from--"
+1988.88-774,0,15141,william_h_rehnquist,scotus_justice,733.953,735.415,You could appeal from the district court to the circuit courts?
+1988.88-774,0,38180,phil_caldwell_neal,,735.415,735.586,--Yes.
+1988.88-774,0,15141,william_h_rehnquist,scotus_justice,760.432,763.124,And where is Section 32 to be found in the present?
+1988.88-774,0,38180,phil_caldwell_neal,,763.124,764.165,"--It's not, Your Honor."
+1988.88-774,0,15113,anthony_m_kennedy,scotus_justice,795.657,799.621,Doesn't... doesn't part of it survive in 28 U.S.C. 777?
+1988.88-774,0,38180,phil_caldwell_neal,,799.621,814.901,"--Well, 777 was... was omitted from... from the judicial code of 1948, and the revisors said that... that these provisions had been picked up in the Federal Rules."
+1988.88-774,0,15049,antonin_scalia,scotus_justice,815.502,837.657,"Mr. Neal, 777... and that was sort of your argument that... that the old Section 32 survives until it's finally picked up somehow in Rule 15, but by the time it gets picked up in Rule 15 with the 48 revision, it... it no longer is the broad jurisdictional provision that you... that you referred to."
+1988.88-774,0,38180,phil_caldwell_neal,,879.737,880.118,--That is a part of--
+1988.88-774,0,15049,antonin_scalia,scotus_justice,880.118,882.549,--just go to defects of form by... by then?
+1988.88-774,0,38180,phil_caldwell_neal,,894.797,898.28,"--Well, I think there were changes."
+1988.88-774,0,15141,william_h_rehnquist,scotus_justice,1010.715,1012.495,"Thank you, Mr. Neal."
+1988.88-774,1,24029,frank_k_heap,,1013.807,1019.891,"Mr. Chief Judge, and may it please the Court:"
+1988.88-774,1,15141,william_h_rehnquist,scotus_justice,1110.142,1133.757,"Mr. Heap, supposing that it had come to the court of appeals' attention that this fifth Defendant was, in fact, diverse, so that you're not talking about an... an amendment to change facts or... or a dismissal of a defendant who couldn't be sustained with complete diversity, but just an... an erroneous factual allegation."
+1988.88-774,1,24029,frank_k_heap,,1136.248,1159.165,"I believe that Rules 15... 1653 very clearly covers that situation, and that may be done in either the trial court or the appellate court if it is a defective matter of pleading; i.e., in your particular case, Chief Judge... Justice, the case where you had mispleaded, where you had diversity."
+1988.88-774,1,15071,byron_r_white,scotus_justice,1170.462,1176.115,Do you think the district court has the power to dismiss a nondiverse--
+1988.88-774,1,24029,frank_k_heap,,1176.115,1179.118,"I do not, Your Honor."
+1988.88-774,1,15071,byron_r_white,scotus_justice,1186.404,1194.619,"--Well, do you... do you think the... do you think... you don't think Judge Posner was right that the district court could have done this?"
+1988.88-774,1,24029,frank_k_heap,,1194.619,1200.173,Judge Posner's opinion is... is very brief.
+1988.88-774,1,15071,byron_r_white,scotus_justice,1206.15,1212.072,"Well, I thought... I thought most of the... I thought the two opinions said all that could possibly be said about the case, but--"
+1988.88-774,1,24029,frank_k_heap,,1212.072,1214.043,"--I would agree, Your Honor."
+1988.88-774,1,15071,byron_r_white,scotus_justice,1214.043,1217.616,--but Mr. Neal has certainly introduced a new element.
+1988.88-774,1,24029,frank_k_heap,,1217.616,1229.474,"Well, I don't think that there has been one case, in deference to Mr. Neal's position, that has taken the position that federal subject matter jurisdiction can be created in a manner that it was attempted."
+1988.88-774,1,15071,byron_r_white,scotus_justice,1229.474,1232.098,So that all the district court could do was just dismiss the case?
+1988.88-774,1,24029,frank_k_heap,,1232.098,1234.279,"That is our position, Your Honor."
+1988.88-774,1,15113,anthony_m_kennedy,scotus_justice,1234.279,1234.529,Mr. Heap--
+1988.88-774,1,24029,frank_k_heap,,1240.433,1244.977,"I don't believe that parties have the right to stipulate to federal jurisdiction, Your Honor."
+1988.88-774,1,15060,john_paul_stevens,scotus_justice,1244.977,1252.53,"Mr. Heap, is there is a difference between dropping parties to create federal jurisdiction and adding parties?"
+1988.88-774,1,24029,frank_k_heap,,1259.046,1264.662,"In the Mullaney case, Your... Justice, the... the federal court had jurisdiction."
+1988.88-774,1,15060,john_paul_stevens,scotus_justice,1275.66,1278.752,"Well, it didn't have jurisdiction if none of the plaintiffs had standing."
+1988.88-774,1,24029,frank_k_heap,,1278.752,1284.416,"--The plaintiff ultimately... actually, by the time the case was decided had standing under the federal--"
+1988.88-774,1,15060,john_paul_stevens,scotus_justice,1284.416,1286.717,"Well, because they'd added two parties who clearly had standing."
+1988.88-774,1,24029,frank_k_heap,,1286.717,1287.659,--That is correct.
+1988.88-774,1,15060,john_paul_stevens,scotus_justice,1295.995,1303.752,"Well, would you say that if it were clear that there had been no jurisdiction before the additional parties were added, that the court could not have allowed that to take place?"
+1988.88-774,1,24029,frank_k_heap,,1303.752,1305.381,"That would be our position, yes."
+1988.88-774,1,15060,john_paul_stevens,scotus_justice,1305.381,1305.552,I see.
+1988.88-774,1,24029,frank_k_heap,,1315.31,1316.241,"That is correct, Your Honor."
+1988.88-774,1,15071,byron_r_white,scotus_justice,1316.241,1318.394,And you say it shouldn't have been remanded for that purpose at all.
+1988.88-774,1,24029,frank_k_heap,,1319.273,1319.773,"No, no."
+1988.88-774,1,15071,byron_r_white,scotus_justice,1331.293,1332.272,"So, you say it should have been dismissed."
+1988.88-774,1,24029,frank_k_heap,,1332.272,1334.045,"That is correct, by the district court."
+1988.88-774,1,15071,byron_r_white,scotus_justice,1334.045,1334.185,Yeah.
+1988.88-774,1,24029,frank_k_heap,,1341.129,1342.411,I think if you read judge--
+1988.88-774,1,15071,byron_r_white,scotus_justice,1342.411,1345.223,I'm not sure you're entitled to argue--
+1988.88-774,1,24029,frank_k_heap,,1345.223,1346.204,--Your Honor--
+1988.88-774,1,15071,byron_r_white,scotus_justice,1346.204,1348.385,--dismissal theory here without cross-appeal.
+1988.88-774,1,24029,frank_k_heap,,1348.385,1360.165,"--Well, I think... I think, Your Honor, that very recent cases including the Tahoe... Lake Tahoe case very clearly indicate that subject matter jurisdiction can be raised without a cross-appeal."
+1988.88-774,1,15092,sandra_day_oconnor,scotus_justice,1395.453,1400.455,"Well, it's not an Article III jurisdictional problem, in any event, is it, do you think?"
+1988.88-774,1,24029,frank_k_heap,,1400.455,1401.284,--I believe so.
+1988.88-774,1,15092,sandra_day_oconnor,scotus_justice,1409.231,1423.52,"Why shouldn't a party plaintiff have some control over the plaintiff's own case after it's filed, to the extent of being able to seek dismissal in these circumstances?"
+1988.88-774,1,24029,frank_k_heap,,1423.52,1432.506,The Plaintiff chose to bring and style his suit in the federal district court and alleged jurisdiction which didn't exist.
+1988.88-774,1,15092,sandra_day_oconnor,scotus_justice,1432.506,1440.6,I don't see why the plaintiff's control should automatically terminate with the filing of a complaint.
+1988.88-774,1,24029,frank_k_heap,,1440.6,1445.345,I don't think we're arguing their control should... should terminate.
+1988.88-774,1,15113,anthony_m_kennedy,scotus_justice,1451.201,1454.213,"What about Rule 15(c), the relation-back rule?"
+1988.88-774,1,24029,frank_k_heap,,1462.601,1471.974,"There are cases that have applied, and particularly on the West Coast, have applied Rule 15 to allow this relation back."
+1988.88-774,1,15049,antonin_scalia,scotus_justice,1498.005,1505.792,"To come back to Justice O'Connor's question, it's not really an Article III problem unless you think that Article III requires complete diversity."
+1988.88-774,1,24029,frank_k_heap,,1507.815,1509.765,I think--
+1988.88-774,1,15049,antonin_scalia,scotus_justice,1509.765,1520.823,"I mean, Congress might provide, might it not, as far as our opinions show that even if there was not complete diversity, so long as you had some diverse parties in the suit, the suit could proceed in federal court?"
+1988.88-774,1,24029,frank_k_heap,,1544.71,1546.801,--I don't believe so.
+1988.88-774,1,15049,antonin_scalia,scotus_justice,1546.801,1549.853,You think complete diversity is required by Article III?
+1988.88-774,1,24029,frank_k_heap,,1549.853,1553.035,I think that the federal court is a court of very limited jurisdiction.
+1988.88-774,1,15049,antonin_scalia,scotus_justice,1568.106,1574.851,"Well, I think there is diversity when some people on both sides of the suit are from different states."
+1988.88-774,1,24029,frank_k_heap,,1575.932,1583.009,It requires diversity in suits by citizens of one state against residents or citizens of another.
+1988.88-774,1,15049,antonin_scalia,scotus_justice,1594.549,1595.728,I'm glad you think it is so clear.
+1988.88-774,1,24029,frank_k_heap,,1596.049,1602.613,--I am trying to find a simple solution to what has now been 30 years of confusion in the circuit courts.
+1988.88-774,1,15141,william_h_rehnquist,scotus_justice,1608.247,1609.498,"--Thank you, Mr. Heap."
+1988.88-774,2,38180,phil_caldwell_neal,,1610.998,1626.599,"I think I would only... only like to comment on what seems to me to be a misconception, not only in Mr. Heap's argument, but also in Judge Posner's opinion."
+1988.88-774,2,15060,john_paul_stevens,scotus_justice,1721.182,1733.36,"Mr. Neal, there's one thing about this case that puzzles me that I notice Professor Easterbrook and Professor Posner and yourself and your opponent, Judge Shader, all have a connection with the University of Chicago Law School."
+1988.88-774,2,38180,phil_caldwell_neal,,1739.924,1742.377,"I've been baffled by the same thing, Your Honor."
+1988.88-774,2,15141,william_h_rehnquist,scotus_justice,1804.593,1805.825,"Thank you, Mr. Neal."

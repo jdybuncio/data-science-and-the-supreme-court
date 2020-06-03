@@ -1,0 +1,45 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1997.97-16,0,15141,william_h_rehnquist,scotus_justice,0.0,8.127,"We'll hear argument now in Number 97-16, Ohio Forestry Association v. Sierra Club."
+1997.97-16,0,36722,malcolm_l_stewart,,9.037,18.022,"Thank you, Mr. Chief Justice, and may it please the Court--"
+1997.97-16,0,15113,anthony_m_kennedy,scotus_justice,89.73,92.812,"Well then, in most cases the plans aren't unified documents?"
+1997.97-16,0,36722,malcolm_l_stewart,,92.812,94.703,--The plans are unified documents.
+1997.97-16,0,15049,antonin_scalia,scotus_justice,114.366,118.899,Can you give me an example of a provision that would have immediate impact?
+1997.97-16,0,36722,malcolm_l_stewart,,118.899,139.102,"--One of the cases we had in the Ninth Circuit this past summer and fall was a case in which the Forest Service amended the standards and guidelines contained in a plan that regulated the manner in which timber harvesting activities would be conducted and the document that adopted the plan amendment said, these amended standards and guidelines will not apply to ongoing timber harvesting activities."
+1997.97-16,0,15042,david_h_souter,scotus_justice,159.025,168.741,"Well, I take it you'd agree here that if their claim were that your plan was allowing motorcycles into a bird watching area or something that like, that would be immediately justiciable on your theory, would it not?"
+1997.97-16,0,36722,malcolm_l_stewart,,168.741,169.222,That's correct.
+1997.97-16,1,41910,steven_r_quarles,,873.448,881.995,"Mr. Chief Justice, and may it please the Court--"
+1997.97-16,1,15113,anthony_m_kennedy,scotus_justice,888.059,891.329,"Just before you do that, why was it that you intervened here?"
+1997.97-16,1,41910,steven_r_quarles,,891.329,910.323,"We intervened here because we believed that the respondents, or, rather, the plaintiffs had raised issues which we felt were inappropriate both as to justiciability and as to the merits."
+1997.97-16,1,15113,anthony_m_kennedy,scotus_justice,910.323,912.584,"Well, are your clients injured by this plan?"
+1997.97-16,1,41910,steven_r_quarles,,912.584,918.278,Our clients are clearly injured by the decision in the Sixth Circuit.
+1997.97-16,1,15113,anthony_m_kennedy,scotus_justice,918.278,920.968,So that the plan does have some concrete effect?
+1997.97-16,1,41910,steven_r_quarles,,920.968,924.451,The decision gives it concrete effect.
+1997.97-16,1,15113,anthony_m_kennedy,scotus_justice,948.508,953.331,But the redress you seek is the reinstatement of the plan and I assume that's because it gives you some specific advantage.
+1997.97-16,1,41910,steven_r_quarles,,967.959,991.916,"Our belief is that neither we nor the Sierra Club typically have standing to challenge a general plan, and that only in very unusual circumstances will a plan be site specific enough to provide both ripeness and Article III standing, including redressibility."
+1997.97-16,1,15049,antonin_scalia,scotus_justice,991.916,1000.573,"You're claiming the ability to challenge the proposition that there can be no plan, which is to say there can be no timber sales in this area."
+1997.97-16,1,41910,steven_r_quarles,,1015.47,1016.602,"No, that's correct."
+1997.97-16,1,15049,antonin_scalia,scotus_justice,1016.602,1023.017,"But rather that the court has held no plan at all, that is to say no timber sales at all--"
+1997.97-16,1,41910,steven_r_quarles,,1023.017,1028.42,"That is correct, and that's exactly what the district court found on remand, that there could not be a timber sale."
+1997.97-16,1,15141,william_h_rehnquist,scotus_justice,1028.42,1043.409,"--Well, your position is something like that of the petitioner here in that Asarco case that we decided several years ago, where perhaps at the beginning you didn't have standing but once the court rules that there can be no cutting at all, then you certainly do have standing."
+1997.97-16,1,41910,steven_r_quarles,,1043.409,1043.99,That's correct.
+1997.97-16,1,15113,anthony_m_kennedy,scotus_justice,1047.463,1055.668,"Well, I'll think about it, because I want to hear about the merits, but it still seems to me that why you're... the reason you're here is so that there can be logging, and that's the same reason the Sierra Club's here."
+1997.97-16,1,41910,steven_r_quarles,,1056.977,1064.594,"--We will always prefer to have a plan, because a plan without a plan, nothing can occur."
+1997.97-16,1,15049,antonin_scalia,scotus_justice,1074.269,1081.876,I suppose the Sierra Club would be in the same position as you are if the plan said this entire area will be clearcut.
+1997.97-16,1,41910,steven_r_quarles,,1085.768,1088.38,I would acknowledge that it's clearly ripe.
+1997.97-16,2,23975,frederick_m_gittes,,1730.584,1734.167,"Your Honor, yes, I do, because the bias ruling is based on the factual record."
+1997.97-16,2,15141,william_h_rehnquist,scotus_justice,1759.927,1773.343,"Is that a proper bias analysis, to say that the agency here came down in favor of one side rather than another, therefore it must be legally biased in the sense of just, forever slanted?"
+1997.97-16,2,23975,frederick_m_gittes,,1773.343,1778.248,"Your Honor, specifically what the Court illustrated is as follows."
+1997.97-16,2,15084,ruth_bader_ginsburg,scotus_justice,1799.14,1812.449,"Mr. Gittes, didn't this motivating course for all this begin with a statute that said... didn't the Sixth Circuit said, under this statute that puts the agency and the logging companies in bed with each other?"
+1997.97-16,2,23975,frederick_m_gittes,,1814.361,1818.214,"--Your Honor, this opinion was not based on that discussion and we know that because of the concurrence."
+1997.97-16,2,15084,ruth_bader_ginsburg,scotus_justice,1825.139,1838.537,"But the opinion of the court is driven by the arrangement under this statute that makes the agency relationship with the regulated party very close, and that's hardly unique to this kind of--"
+1997.97-16,2,23975,frederick_m_gittes,,1838.537,1839.659,Your Honor--
+1997.97-16,2,15084,ruth_bader_ginsburg,scotus_justice,1839.659,1840.507,--to this particular agency.
+1997.97-16,2,23975,frederick_m_gittes,,1840.507,1841.288,--I'm sorry.
+1997.97-16,2,15049,antonin_scalia,scotus_justice,1869.806,1877.323,"Well, all of that would prove a very... if it were all true, a very bad decision, but is every very bad decision biased?"
+1997.97-16,2,23975,frederick_m_gittes,,1887.52,1891.993,"--Well, Your Honor, the standard under the APA, as this Court knows, it's not enough just to be wrong."
+1997.97-16,2,15049,antonin_scalia,scotus_justice,1895.144,1896.593,--it's an established bias.
+1997.97-16,2,23975,frederick_m_gittes,,1906.731,1912.956,"--Your Honor, I'm not going to sit here and say that the word bias is always an equivalent of arbitrary and capricious."
+1997.97-16,2,15049,antonin_scalia,scotus_justice,1934.15,1947.798,"Do you know of any case of this Court in which, on the basis of the judgment below of an agency or of a court, just on the basis of how wrong the judgment was, this Court has said that the agency or the court was biased?"
+1997.97-16,2,23975,frederick_m_gittes,,1947.798,1948.559,"--Your Honor, no."
+1997.97-16,2,15049,antonin_scalia,scotus_justice,1948.559,1950.019,Just on the basis of what they--
+1997.97-16,2,23975,frederick_m_gittes,,1950.019,1951.772,"Your Honor, I do not know of one, and I--"

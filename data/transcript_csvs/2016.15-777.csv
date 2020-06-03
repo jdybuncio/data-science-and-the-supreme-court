@@ -1,0 +1,173 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2016.15-777,0,15086,john_g_roberts_jr,scotus_justice,0.0,8.725,"We'll hear argument first this morning in Case No. 15-777, Samsung Electronics v. Apple, Incorporated. Ms. Sullivan."
+2016.15-777,0,33975,kathleen_m_sullivan,,8.725,18.6,"Mr. Chief Justice, and may it please the Court: A smartphone is smart because it contains hundreds of thousands of the technologies that make it work."
+2016.15-777,0,15113,anthony_m_kennedy,scotus_justice,94.94,98.38,"The problem is, is how to instruct the jury on that point."
+2016.15-777,0,33975,kathleen_m_sullivan,,151.845,152.735,Your Honor --
+2016.15-777,0,15113,anthony_m_kennedy,scotus_justice,152.735,154.71,"One -- I mean, it's one thing to leave it to the jury."
+2016.15-777,0,33975,kathleen_m_sullivan,,159.295,165.555,"Your Honor, we do not propose a test that simply leaves it to the jury without guidance."
+2016.15-777,0,15113,anthony_m_kennedy,scotus_justice,189.7,191.98,"If I'm the juror, I just don't know what to do."
+2016.15-777,0,33975,kathleen_m_sullivan,,196.86,221.09,"Your Honor, what we respectfully suggest is that there are two parts to the test for what constitutes an article of manufacture. And to be clear, I'm now stressing our article-of-manufacture argument, not the causation argument we gave as an alternative. As the case comes to the Court, all we ask is that you rule in favor of us on article of manufacture. And, Justice Kennedy, the statute tells us what to look at --"
+2016.15-777,0,15094,elena_kagan,scotus_justice,221.09,236.345,"Could I really quickly make sure I understand that, that in other words, you're -- you're saying we should only look to what an article of manufacture is and not your other argument that there should be apportionment as to any particular article of manufacture."
+2016.15-777,0,33975,kathleen_m_sullivan,,236.345,260.42,"That is correct, Your Honor. We're pressing here, as you all you need to resolve the case, that a jury should be instructed that total profit must be profit derived from the article of manufacture to which the design has been applied. And, Your Honor, the statute does support our test because the statute asks us to look at the article of manufacture to which the design has been applied."
+2016.15-777,0,15084,ruth_bader_ginsburg,scotus_justice,260.42,262.775,And what is that in this -- in this case?
+2016.15-777,0,33975,kathleen_m_sullivan,,262.775,266.2,"Your Honor, in this case it is -- there are three patents."
+2016.15-777,0,15131,sonia_sotomayor,scotus_justice,327.77,335.605,"Ms. Sullivan, you seem to be arguing, as when you opened, that as a matter of law, you were right."
+2016.15-777,0,33975,kathleen_m_sullivan,,388.835,395.785,"So, Your Honor, let me back up and restate the test, the burden, and the evidence. The -- the test -- and I want to agree with Your Honor."
+2016.15-777,0,15084,ruth_bader_ginsburg,scotus_justice,454.565,464.125,Then how do -- how would you determine the profit attributable to the relevant article of manufacture?
+2016.15-777,0,33975,kathleen_m_sullivan,,464.125,492.925,"Three ways, Your Honor. First, through ordinary accounting that would look to the cost of goods sold in relation to revenues for the relevant component. You could look, if -- if a company buys the component from an original equipment manufacturer, you would look to their profit margins and apply that. If, as sometimes happens within a company, one division makes the glass front face and another division makes the innards of the phone, you would find out the transfer pricing between the divisions."
+2016.15-777,0,15113,anthony_m_kennedy,scotus_justice,492.925,506.85,"So we find out the -- the production cost if -- if a billion dollars were spent on the inner parts and a hundred million was spent on the face, then it's a 10:1 ratio."
+2016.15-777,0,33975,kathleen_m_sullivan,,506.85,508.48,"That's absolutely right, Your Honor."
+2016.15-777,0,15113,anthony_m_kennedy,scotus_justice,509.06,511.14,So you'd have expert testimony on all of that.
+2016.15-777,0,33975,kathleen_m_sullivan,,511.14,514.33,"Yes, Your Honor, you would. And you would -- but that's just one way."
+2016.15-777,0,15113,anthony_m_kennedy,scotus_justice,514.33,518.0,"Suppose -- suppose you had a case where it's a stroke of genius, the design."
+2016.15-777,0,33975,kathleen_m_sullivan,,546.525,548.75,"Well, Your Honor, here's what we would do with the Beetle."
+2016.15-777,0,15113,anthony_m_kennedy,scotus_justice,548.75,551.29,"I mean, that's what -- it seems to me that that's what you would be arguing."
+2016.15-777,0,33975,kathleen_m_sullivan,,551.29,552.3,"It's not, Your Honor."
+2016.15-777,0,15068,samuel_a_alito_jr,scotus_justice,626.99,632.905,Is there any difference in practical terms between that and your causation argument or apportionment?
+2016.15-777,0,33975,kathleen_m_sullivan,,632.905,634.03,"Yes, Justice Alito."
+2016.15-777,0,15068,samuel_a_alito_jr,scotus_justice,634.03,634.93,What is the difference?
+2016.15-777,0,33975,kathleen_m_sullivan,,634.93,650.21,"The difference is we concede under article of manufacture that the holder of the patent gets profit from the article, even if the profit does not come entirely from the design. Let me give you an example with a phone's front face."
+2016.15-777,0,15131,sonia_sotomayor,scotus_justice,724.59,730.4,"Now, I look at this record, and they were claiming the profits on the whole phone."
+2016.15-777,0,33975,kathleen_m_sullivan,,773.614,777.365,"Your Honor, let's go back to the proper instruction."
+2016.15-777,0,15131,sonia_sotomayor,scotus_justice,779.7,781.11,"I accept that, Miss Sullivan."
+2016.15-777,0,33975,kathleen_m_sullivan,,782.11,783.315,"Two answers, Your Honor."
+2016.15-777,0,15131,sonia_sotomayor,scotus_justice,827.28,828.93,"And you're answering ""no"" to my question."
+2016.15-777,0,33975,kathleen_m_sullivan,,840.67,843.1,"That is correct, Your Honor. That is very much our position."
+2016.15-777,0,15131,sonia_sotomayor,scotus_justice,843.1,848.195,"So besides the jury instruction, what was the legal error?"
+2016.15-777,0,33975,kathleen_m_sullivan,,848.195,851.02,The legal error was in the jury instruction --
+2016.15-777,0,15131,sonia_sotomayor,scotus_justice,851.02,858.905,"I said besides a properly instructed jury, could they have found in favor of Apple on the evidence presented?"
+2016.15-777,0,33975,kathleen_m_sullivan,,858.905,860.48,"They could not, Your Honor, because --"
+2016.15-777,0,15131,sonia_sotomayor,scotus_justice,860.48,869.085,"And so what, besides the jury instruction -- because I'm assuming that a proper instruction was given -- what would have been the legal error?"
+2016.15-777,0,33975,kathleen_m_sullivan,,869.085,878.44,There would have been -- no reasonable jury could have found on this record that the entire product was the article of manufacture to which the design has been applied.
+2016.15-777,0,15131,sonia_sotomayor,scotus_justice,894.43,911.62,"Well, you can't claim the design patent for a Volkswagen doesn't cover the innards, but you just admitted that a jury could find its -- could find that the consumers and others would perceive the Volkswagen to be a Volkswagen by its looks only."
+2016.15-777,0,33975,kathleen_m_sullivan,,911.62,918.34,"Your Honor, we're talking about design patents, not trademark or copyright. There's no requirement of consumer confusion here on the --"
+2016.15-777,0,15131,sonia_sotomayor,scotus_justice,918.34,919.82,"I don't disagree with you, but --"
+2016.15-777,0,33975,kathleen_m_sullivan,,919.82,922.545,"Your Honor, let me answer your question as precisely as I can."
+2016.15-777,0,15084,ruth_bader_ginsburg,scotus_justice,970.81,980.6,"Did Samsung, at the trial, propose basing damages on profits from an article less than the whole phone?"
+2016.15-777,0,33975,kathleen_m_sullivan,,980.6,982.02,"Six times, Your Honor."
+2016.15-777,0,15068,samuel_a_alito_jr,scotus_justice,1206.74,1211.94,The Solicitor General has proposed a test with four factors to determine the article question.
+2016.15-777,0,33975,kathleen_m_sullivan,,1214.345,1223.595,"Your Honor, I'll answer briefly, and then I'd like to reserve my time. We -- we like the Solicitor General's test. We propose a briefer test that we think is more administrable."
+2016.15-777,0,15086,john_g_roberts_jr,scotus_justice,1242.92,1252.245,"Thank you, counsel. Mr. Fletcher."
+2016.15-777,1,56123,brian_h_fletcher,,1252.245,1261.505,"Thank you, Mr. Chief Justice, and may it please the Court: This case presents two related questions about the scope of the remedy that's available for design-patent infringement under Section 289."
+2016.15-777,1,15084,ruth_bader_ginsburg,scotus_justice,1319.34,1339.715,"When the -- when the component -- when the article of manufacture isn't sold apart from the entire product, how should the -- the judge charge the jury on determining the profit attributable to the infringing article?"
+2016.15-777,1,56123,brian_h_fletcher,,1339.715,1356.47,"So we think that there'd be two factual questions in a case where that's disputed. The first one would be what is the relevant article, and there may be a dispute on that as there is in this case. The second question, once the fact-finder identifies the relevant article, is the question that you asked, which is how much of the total profits from the device are attributable to the infringing article?"
+2016.15-777,1,15131,sonia_sotomayor,scotus_justice,1356.47,1359.81,"What's the first step, and how do you figure it out?"
+2016.15-777,1,15084,ruth_bader_ginsburg,scotus_justice,1359.81,1362.62,May he -- may he complete his answer to my question?
+2016.15-777,1,56123,brian_h_fletcher,,1362.62,1368.62,"So Justice Ginsburg, on the second step, we urge the Court not to speak to that in a lot of detail because it hasn't been briefed in this case."
+2016.15-777,1,15113,anthony_m_kennedy,scotus_justice,1396.94,1399.12,This is Justice -- Justice Ginsburg's question.
+2016.15-777,1,56123,brian_h_fletcher,,1411.18,1446.955,"So I think the test we propose at page 9 goes to the first of the two questions that I was speaking to, which is what's the article of manufacture to which the design has been applied? Once the fact-finder makes that judgment, that's the test that we proposed, and that's, I think, I took to be Justice Sotomayor's question. I understood Justice Ginsburg to be asking once the fact-finder decides that the relevant article is, say, the windshield on the boat or the cup-holder on the car, how do they separate out the part of the profits that are attributable to that component from the whole. And as to that question, we haven't briefed it in a lot of detail, but I was trying to explain to Justice Ginsburg that there are analogous problems that courts have confronted in other areas of law."
+2016.15-777,1,15113,anthony_m_kennedy,scotus_justice,1457.36,1466.57,Would expert witnesses be called on in order to show part one or part two or both?
+2016.15-777,1,56123,brian_h_fletcher,,1466.57,1467.85,I -- I would think very often both.
+2016.15-777,1,15113,anthony_m_kennedy,scotus_justice,1467.85,1471.395,And what would those expert witnesses -- who would they be? What would they say?
+2016.15-777,1,56123,brian_h_fletcher,,1471.395,1474.03,So I think it will depend on -- on the circumstances of the case.
+2016.15-777,1,15113,anthony_m_kennedy,scotus_justice,1474.03,1475.06,In this case.
+2016.15-777,1,56123,brian_h_fletcher,,1475.06,1512.46,"In this case, I think someone familiar with the industry, someone who had worked in the industry, either at -- a manufacture of a smartphone company, or someone who is familiar with the market for smartphones and who could speak to on the first question how smartphones are put together, how they are manufactured, how they're used by the users, the extent to which the components of a smartphone are separable. And then on the second question, the one that Justice Ginsburg was asking, I think they would -- the experts would probably be speaking -- or could be speaking to some of the issues that Your Honor raised in your question in the Sullivan, which is things like consumer surveys, to what extent do the various components of a smartphone drive consumer demand and contribute to the value of the phone."
+2016.15-777,1,15086,john_g_roberts_jr,scotus_justice,1512.46,1516.025,"Well, one of the things that was mentioned was cost in terms of that."
+2016.15-777,1,56123,brian_h_fletcher,,1523.185,1526.085,"So I think, Mr. Chief Justice, it will depend on the case."
+2016.15-777,1,15086,john_g_roberts_jr,scotus_justice,1562.02,1564.05,But you said based on expert testimony.
+2016.15-777,1,56123,brian_h_fletcher,,1565.9,1581.66,So I think the -- the Sheldon case that's cited on page 27 of our brief from this Court that was a Copyright Act case but discussed these problems sort of generally discussed how you apportion the portion -- the profits from a movie that are attributable to the script as opposed to the actors or the directors or other things.
+2016.15-777,1,15094,elena_kagan,scotus_justice,1616.89,1632.78,"Mr. Fletcher, could you speak about this VW Bug example, because as -- as I understand Ms. Sullivan's answer, she said, well, that distinctive appearance, that distinctive shape, it's just -- it's still -- the article is only the body of the car."
+2016.15-777,1,56123,brian_h_fletcher,,1647.525,1652.625,"So we think the basic question for the fact-finders, what's the article of manufacture to which the design has been applied."
+2016.15-777,1,15094,elena_kagan,scotus_justice,1673.8,1673.89,Right.
+2016.15-777,1,56123,brian_h_fletcher,,1674.88,1675.05,Right.
+2016.15-777,1,15113,anthony_m_kennedy,scotus_justice,1706.225,1711.68,"If you were a juror, how would you decide the Beetle case, or what experts would you want to hear?"
+2016.15-777,1,56123,brian_h_fletcher,,1711.68,1715.37,"I would want to hear as -- as to the article, what's the article --"
+2016.15-777,1,15113,anthony_m_kennedy,scotus_justice,1715.37,1717.57,Shouldn't have given you that second option.
+2016.15-777,1,56123,brian_h_fletcher,,1717.57,1720.31,I -- I do think it's a factual question.
+2016.15-777,1,15086,john_g_roberts_jr,scotus_justice,1728.02,1737.98,"How is the Beetle put together? It's put together like every other car. I mean, I don't see how that's going to tell you whether the shape of the body is distinctive or not."
+2016.15-777,1,56123,brian_h_fletcher,,1737.98,1747.36,"Well, I think you'd also want to know, to put it in terms of all four factors, that the scope of the claim design covers the whole article, but not the interior of the car."
+2016.15-777,1,15131,sonia_sotomayor,scotus_justice,1770.52,1772.06,But that's the first part of the test.
+2016.15-777,1,56123,brian_h_fletcher,,1772.06,1772.29,Correct.
+2016.15-777,1,15131,sonia_sotomayor,scotus_justice,1772.29,1778.365,That's the article of manufacture. So now take the second part of the test and apply it to the Bug.
+2016.15-777,1,56123,brian_h_fletcher,,1778.365,1782.85,So supposing that we've decided that the Bug -- the relevant article in the Bug is just the body of the Bug.
+2016.15-777,1,15131,sonia_sotomayor,scotus_justice,1782.85,1783.28,Exactly.
+2016.15-777,1,56123,brian_h_fletcher,,1783.28,1798.79,"Then I think the question is the best way to determine that, at least that I can think of right now, would be consumer surveys addressed to, to what extent are people who buy Bugs making their purchasing decisions based on the look of the car, and to what extent are they instead valuing other things like --"
+2016.15-777,1,15094,elena_kagan,scotus_justice,1798.79,1802.765,So you think that that question is not relevant to the first question.
+2016.15-777,1,56123,brian_h_fletcher,,1808.525,1809.06,Yes.
+2016.15-777,1,15094,elena_kagan,scotus_justice,1809.06,1820.07,"But you think that that's only relevant at question 2 rather than at question 1, which is the question of whether it's the body or the whole car that the design is being applied to?"
+2016.15-777,1,56123,brian_h_fletcher,,1820.07,1820.85,I do.
+2016.15-777,1,15068,samuel_a_alito_jr,scotus_justice,1845.43,1846.45,But this hypothetical is --
+2016.15-777,1,56123,brian_h_fletcher,,1846.45,1847.055,-- in a different way.
+2016.15-777,1,15068,samuel_a_alito_jr,scotus_justice,1847.055,1856.38,"This hypothetical is not helpful to me, because I can't get over the thought that nobody buys a car, even a Beetle, just because they like the way it looks."
+2016.15-777,1,56123,brian_h_fletcher,,1885.405,1896.01,"Well, I think that those things can be taken into account at the second step of the test, if you decide that the relevant design -- the relevant article of manufacture is the body of the car, but for all of the reasons you just pointed out."
+2016.15-777,1,15068,samuel_a_alito_jr,scotus_justice,1896.01,1896.11,No.
+2016.15-777,1,56123,brian_h_fletcher,,1903.99,1916.85,"Well, I -- then I think if you're skeptical about that, I think our test for article of manufacture also lets some of those considerations play into that test, because it gets to whether there are other conceptually distinct invasions, or other components of the product unrelated to the design."
+2016.15-777,1,15086,john_g_roberts_jr,scotus_justice,1916.85,1917.76,"Thank you, counsel."
+2016.15-777,1,56123,brian_h_fletcher,,1917.76,1921.025,"Thank you, Chief Justice."
+2016.15-777,1,15086,john_g_roberts_jr,scotus_justice,1921.025,1924.605,Mr. Waxman.
+2016.15-777,2,42213,seth_p_waxman,,1924.605,1971.885,"Thank you, Mr. Chief Justice, and may it please the Court: Before I address the Court's many questions initiated by Justice Kennedy about what should the jury be instructed under what we and the government believe to be the relevant question -- that is, the factual test of whether the relevant article of manufacture is the article as sold or a distinct component of it -- and I think it's very clear to address the questions that Justice Ginsburg and Justice Sotomayor asked, and Ms. Sullivan's response to what actually happened in this case. There is no -- whatever you determine the right instruction should be, there is no basis to overturn the jury's damages verdict in this case. There were two trials below."
+2016.15-777,2,15084,ruth_bader_ginsburg,scotus_justice,2011.77,2014.22,Is that because the district judge limited them?
+2016.15-777,2,42213,seth_p_waxman,,2014.22,2016.17,Absolutely not.
+2016.15-777,2,15139,stephen_g_breyer,scotus_justice,2038.22,2040.01,So disagreement on this point.
+2016.15-777,2,42213,seth_p_waxman,,2051.845,2055.87,"Justice Breyer, this is not a difficult -- the record in this case is not difficult."
+2016.15-777,2,15139,stephen_g_breyer,scotus_justice,2055.87,2057.46,"You don't think it's difficult, but they think --"
+2016.15-777,2,42213,seth_p_waxman,,2057.46,2057.56,Well --
+2016.15-777,2,15139,stephen_g_breyer,scotus_justice,2057.56,2058.23,-- they think it's difficult.
+2016.15-777,2,42213,seth_p_waxman,,2081.89,2093.56,"Justice Breyer, if this were difficult, it would be entirely appropriate for this Court simply to announce what the law is, which I think there is a great need for this Court to do."
+2016.15-777,2,15139,stephen_g_breyer,scotus_justice,2134.24,2135.37,I get your point.
+2016.15-777,2,42213,seth_p_waxman,,2136.45,2136.71,Thank you.
+2016.15-777,2,15139,stephen_g_breyer,scotus_justice,2136.71,2140.825,"But I have a question on the general issue, which I think is tough."
+2016.15-777,2,42213,seth_p_waxman,,2160.72,2160.88,I do.
+2016.15-777,2,15139,stephen_g_breyer,scotus_justice,2160.88,2161.21,Okay.
+2016.15-777,2,42213,seth_p_waxman,,2218.35,2218.86,Justice --
+2016.15-777,2,15139,stephen_g_breyer,scotus_justice,2218.86,2219.2,Okay.
+2016.15-777,2,42213,seth_p_waxman,,2220.075,2220.55,Okay.
+2016.15-777,2,15139,stephen_g_breyer,scotus_justice,2229.09,2229.15,Oh.
+2016.15-777,2,42213,seth_p_waxman,,2233.87,2234.43,Okay.
+2016.15-777,2,15086,john_g_roberts_jr,scotus_justice,2323.18,2330.53,"Mr. Waxman, we're spending an awful lot of time on an issue about what was raised below, what wasn't raised below, what was raised below, what wasn't raised."
+2016.15-777,2,42213,seth_p_waxman,,2333.56,2366.43,"I would be very happy to do that. Justice Breyer, the -- there is no question that in an appropriate case the jury can decide whether the article of manufacture to which the design is applied and to which it provides a distinctive and pleasing appearance could either be the article that's actually sold to consumers, that's bought by consumers, or it could be a component of it. In the case of a wall hanging, there's really not much dispute."
+2016.15-777,2,15113,anthony_m_kennedy,scotus_justice,2387.98,2390.709,What -- what is the question of fact?
+2016.15-777,2,42213,seth_p_waxman,,2390.709,2391.8,Here's --
+2016.15-777,2,15113,anthony_m_kennedy,scotus_justice,2391.8,2396.37,The article to -- to which the law applies? What -- what is the question of fact?
+2016.15-777,2,42213,seth_p_waxman,,2396.37,2397.37,Here is what I would say.
+2016.15-777,2,15086,john_g_roberts_jr,scotus_justice,2463.09,2466.33,I -- maybe I'm not grasping the difficulties in the case.
+2016.15-777,2,42213,seth_p_waxman,,2475.85,2476.38,That's right.
+2016.15-777,2,15086,john_g_roberts_jr,scotus_justice,2476.38,2477.04,So --
+2016.15-777,2,42213,seth_p_waxman,,2477.04,2478.78,That's absolutely right.
+2016.15-777,2,15086,john_g_roberts_jr,scotus_justice,2486.715,2492.465,So there should -- there shouldn't be profits awarded based on the entire price of the phone.
+2016.15-777,2,42213,seth_p_waxman,,2492.465,2492.85,No.
+2016.15-777,2,15086,john_g_roberts_jr,scotus_justice,2498.27,2500.33,"The outside, the case is part of it."
+2016.15-777,2,42213,seth_p_waxman,,2500.33,2502.0,"Well, maybe and maybe not."
+2016.15-777,2,15086,john_g_roberts_jr,scotus_justice,2519.36,2519.56,Okay.
+2016.15-777,2,42213,seth_p_waxman,,2528.1,2547.725,"The same way that -- I mean, if you look at, for example, in the early days, when the patent -- when the design -- when design patents were first permitted by statute in 1842, the first hundred -- of the first hundred patents that were issued, 55 of them were for stoves and furnaces and steam engines and things like that."
+2016.15-777,2,15131,sonia_sotomayor,scotus_justice,2649.24,2658.19,"Mr. Waxman, can we go back to the government's test, because if -- so far your test has a lot of steps, but I don't know what it's going towards."
+2016.15-777,2,42213,seth_p_waxman,,2674.12,2677.865,"Yes, with the following caveat only."
+2016.15-777,2,15131,sonia_sotomayor,scotus_justice,2685.11,2687.255,Please don't go to the -- to the record.
+2016.15-777,2,42213,seth_p_waxman,,2687.255,2689.94,I'm not going to the -- I'm sticking with the test.
+2016.15-777,2,15131,sonia_sotomayor,scotus_justice,2689.94,2690.26,All right.
+2016.15-777,2,42213,seth_p_waxman,,2691.28,2691.81,Okay.
+2016.15-777,2,15131,sonia_sotomayor,scotus_justice,2691.81,2735.635,"So let's assume, because it makes logical sense to me, it may not to anybody else, okay, that the Volkswagen body, not the innards, are the article of manufacture. Now, the government would say, go to the second test, which takes in some of the things that you were talking about, to figure out how much of the profits that VW makes from the Bug are attributable to the shape of the car. Now, as Justice Alito said, some people don't care a wit about the shape of the car."
+2016.15-777,2,42213,seth_p_waxman,,2787.755,2788.13,So -- okay.
+2016.15-777,2,15131,sonia_sotomayor,scotus_justice,2867.81,2869.7,Please don't get off track.
+2016.15-777,2,42213,seth_p_waxman,,2869.7,2870.17,Okay.
+2016.15-777,2,15131,sonia_sotomayor,scotus_justice,2870.17,2877.76,"Do you endorse that part of the government's test? How we measure it, you're saying, hasn't been briefed adequately."
+2016.15-777,2,42213,seth_p_waxman,,2882.66,2900.555,"Conceptually, it is correct that under Section 289 the patentee is entitled to the total profits on the sale of the articles of manufacture to which the design has been applied."
+2016.15-777,2,15094,elena_kagan,scotus_justice,3001.785,3016.83,Let's take a case -- and I think that the VW example is a good example for this reason -- where the thing that makes the product distinctive does not cost all that much.
+2016.15-777,2,42213,seth_p_waxman,,3066.08,3072.43,"I don't think that that -- I don't agree with -- if that is the government's test as you have articulated it, I wouldn't agree with that."
+2016.15-777,2,15113,anthony_m_kennedy,scotus_justice,3187.63,3194.615,"Is the approach -- is the approach that you're discussing fairly described as ""apportionment,"" or is that a bad word?"
+2016.15-777,2,42213,seth_p_waxman,,3194.615,3196.56,That is a really bad word.
+2016.15-777,2,15113,anthony_m_kennedy,scotus_justice,3198.41,3203.065,What other -- what -- what word would you use to describe your approach?
+2016.15-777,2,42213,seth_p_waxman,,3203.065,3215.4,"What is the thing, the article of manufacture, to which the design is applied for purposes of sale in order to give it a distinctive and pleasing appearance."
+2016.15-777,2,15113,anthony_m_kennedy,scotus_justice,3238.285,3246.275,"But once you've identified the relevant article, then it seems to me necessarily what you're doing is apportioning profits."
+2016.15-777,2,42213,seth_p_waxman,,3250.13,3250.49,Yes.
+2016.15-777,2,15068,samuel_a_alito_jr,scotus_justice,3311.81,3324.7,Listing factors is not helpful unless the jury or whoever the fact finder is knows what the determination must -- what determination must be made.
+2016.15-777,2,42213,seth_p_waxman,,3334.79,3357.46,"What I would tell the jury is quoting the statute and this Court's decision in 1872 decision in Gorham, is that the article of manufacture is the thing to which the design is applied for purposes of sale, and to which it gives distinctive and pleasing, attractive appearance."
+2016.15-777,2,15068,samuel_a_alito_jr,scotus_justice,3359.48,3366.18,"Yeah, but in a physical sense -- that -- you can answer it easily, and that's what the Chief Justice was talking about."
+2016.15-777,2,42213,seth_p_waxman,,3381.27,3384.1,"Well, the design, by definition, applies to the outside."
+2016.15-777,2,15068,samuel_a_alito_jr,scotus_justice,3385.54,3385.73,Okay.
+2016.15-777,2,42213,seth_p_waxman,,3391.59,3413.6,"The jury is being asked to decide was this -- if you find that this was a -- that this was a patentable design and you find under Gorham that it was infringed, what is the thing to which that design was applied to give it a pleasing appearance. Obviously, it's not a transistor or some circuit or the software."
+2016.15-777,2,15086,john_g_roberts_jr,scotus_justice,3421.98,3423.835,It's applied to the outside of the phone.
+2016.15-777,2,42213,seth_p_waxman,,3423.835,3430.0,"Well, it's applied -- Justice -- Mr. Chief justice, it's always applied to the outside of an article."
+2016.15-777,2,15086,john_g_roberts_jr,scotus_justice,3435.28,3437.37,"Thank you, counsel. Miss Sullivan."
+2016.15-777,3,33975,kathleen_m_sullivan,,3438.585,3446.635,"Mr. Chief Justice, and may it please the Court: Justice Kennedy, Congress did not say that all apportionment is forbidden."
+2016.15-777,3,15139,stephen_g_breyer,scotus_justice,3577.76,3585.34,"The problem, of course, is that Congress meant the whole wallpaper, even though they only want to apply it to the front."
+2016.15-777,3,33975,kathleen_m_sullivan,,3585.34,3585.89,Your Honor --
+2016.15-777,3,15139,stephen_g_breyer,scotus_justice,3585.89,3588.0,And that's the problem in the case.
+2016.15-777,3,33975,kathleen_m_sullivan,,3598.755,3599.66,"That's right, Your Honor."
+2016.15-777,3,15139,stephen_g_breyer,scotus_justice,3599.66,3613.675,"And if you don't tell the jury that there is that distinction, I think you either disregard what Congress meant in its statute or you create the kind of absurd results that your brief is full of."
+2016.15-777,3,33975,kathleen_m_sullivan,,3617.035,3617.68,Your Honor --
+2016.15-777,3,15139,stephen_g_breyer,scotus_justice,3617.68,3621.335,"And that's why I looked at page 23, and it says that seems to do it."
+2016.15-777,3,33975,kathleen_m_sullivan,,3621.335,3631.4,"We're fine with page 23 of the tech company's brief, and that points to why you must remand in this case. This case was tried under the improper rule of law."
+2016.15-777,3,15084,ruth_bader_ginsburg,scotus_justice,3683.51,3693.84,"Who has the burden of showing what is the relevant article? I assume in a case like this, Apple will say it's the whole phone."
+2016.15-777,3,33975,kathleen_m_sullivan,,3693.84,3701.38,"Justice Ginsburg, if I leave you with the most important disagreement we have with the government and with Apple, the burden is on the plaintiff."
+2016.15-777,3,15086,john_g_roberts_jr,scotus_justice,3723.51,0.0,"Thank you, counsel. The case is submitted."

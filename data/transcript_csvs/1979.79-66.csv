@@ -1,0 +1,134 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1979.79-66,0,15073,warren_e_burger,scotus_justice,0.0,60.145,"We will hear arguments next in 79-66, Aaron v. Securities and Exchange Commission."
+1979.79-66,0,17613,barry_m_fallick,,61.572,64.554,"Mr. Chief Justice, and may it please the Court."
+1979.79-66,0,15141,william_h_rehnquist,scotus_justice,205.222,235.952,"Mr. Fallick, in your question presented for decision in your petition for certiorari, when you refer to the government enforcement by injunction of these acts, do you think there is fairly assumed the federal rules of civil procedure, 65 et cetera, relating to injunctions, regardless of whether the particular statutes contain a requirement of scienter or not when enforcement is brought by the government?"
+1979.79-66,0,17613,barry_m_fallick,,235.952,255.835,"Well, standards under the sections concerning injunctive relief, whether the defendant is engaged or likely to engage in a violation of certain sections or regulations of the securities law, and I am not quite sure if that is the same standard under the federal 65."
+1979.79-66,0,15071,byron_r_white,scotus_justice,473.377,486.244,"Although 17(a)(2) of the 1933 Act does not by its terms either explicitly or implicitly indicate a requirement of scienter, does it?"
+1979.79-66,0,17613,barry_m_fallick,,486.244,487.806,"By its terms, no, it does not."
+1979.79-66,0,15071,byron_r_white,scotus_justice,488.939,493.916,Unlike 10(b)(5) as at least as construed in the Hochfelder case.
+1979.79-66,0,17613,barry_m_fallick,,493.916,498.406,"10(b)(5) is, of course, relying upon its promulgating statute which would be 10(b)."
+1979.79-66,0,15071,byron_r_white,scotus_justice,498.406,498.612,"10(b), yes."
+1979.79-66,0,17613,barry_m_fallick,,498.612,501.1,17(a) stands alone.
+1979.79-66,0,15060,john_paul_stevens,scotus_justice,512.857,520.736,"Well, my question was whether -- isn't the language of 17(a)(2) different from that of 10(b)."
+1979.79-66,0,17613,barry_m_fallick,,520.736,526.073,"It is different from 10(b), similar to 10(b)(5) and the Investment Advisers Act 206."
+1979.79-66,0,15043,potter_stewart,scotus_justice,535.222,538.688,"Well, there are other differences between the two acts."
+1979.79-66,0,17613,barry_m_fallick,,538.688,539.492,There are other differences --
+1979.79-66,0,15043,potter_stewart,scotus_justice,539.492,540.68,They have different purposes.
+1979.79-66,0,17613,barry_m_fallick,,540.68,542.459,"The purposes are, of course, different but --"
+1979.79-66,0,15043,potter_stewart,scotus_justice,542.459,545.179,"But they are in the same ball park, of course."
+1979.79-66,0,17613,barry_m_fallick,,545.179,549.75,The two measures are both general anti-fraud measures concerning deceptive sales.
+1979.79-66,0,15043,potter_stewart,scotus_justice,549.75,551.226,Right.
+1979.79-66,0,17613,barry_m_fallick,,551.226,558.725,I would like to reserve the rest of my time.
+1979.79-66,0,15073,warren_e_burger,scotus_justice,558.725,560.758,Mr. Ferrara.
+1979.79-66,1,39286,ralph_c_ferrara,,560.758,563.661,"Mr. Chief Justice, and may it please the Court."
+1979.79-66,1,15141,william_h_rehnquist,scotus_justice,590.9,595.053,"What do you mean by ""deceived""?"
+1979.79-66,1,39286,ralph_c_ferrara,,595.053,607.39,"Well, in the federal securities laws, what is prohibited in section 10(b) of the Securities and Exchange Act is the employment of a deceptive device."
+1979.79-66,1,15141,william_h_rehnquist,scotus_justice,627.366,640.832,Does he not require any -- it is simply the making of a statement which is not true without reward to the knowledge on the part of the person making the statement as to whether or not it was true?
+1979.79-66,1,39286,ralph_c_ferrara,,640.832,646.226,"Now, you have to sort between both acts, Mr. Justice Rehnquist, the Securities Act and the Exchange Act."
+1979.79-66,1,15043,potter_stewart,scotus_justice,710.11,720.822,"Well, Hochfelder, of course, held that that language, deception, artifice and scheme, that those words were not effect words but that they were purpose words."
+1979.79-66,1,39286,ralph_c_ferrara,,726.809,728.597,That is absolutely correct.
+1979.79-66,1,15043,potter_stewart,scotus_justice,745.286,753.275,"In any event, a lot of the reasoning of the opinion was that those words were purpose words, intent words, not effect words."
+1979.79-66,1,39286,ralph_c_ferrara,,753.275,768.223,"The reasoning in Hochfelder was that they were intent words in the context of that case, and that was quite appropriate in Hochfelder because in a private damage action, Mr. Justice Stewart, the real issue for the plaintiff is to demonstrate that the defendant has engaged."
+1979.79-66,1,15043,potter_stewart,scotus_justice,768.223,769.712,Wrong doing.
+1979.79-66,1,39286,ralph_c_ferrara,,769.712,776.334,"And once there is a determination that the defendant has engaged, then monetary relief assuming causation and the other requirements follows."
+1979.79-66,1,15141,william_h_rehnquist,scotus_justice,890.967,920.767,"Isn't there something of a tradition built up around the first part of this century against what is called government by injunction, that is that it is easier for the government to go out and get an injunction against a person not requiring intent, simply enjoining them from disobeying the law and then prosecuting them on a civil contempt standard when they disobey a law, rather than bringing what might otherwise be a criminal prosecution against them?"
+1979.79-66,1,39286,ralph_c_ferrara,,920.767,922.638,Your question raises several subquestions.
+1979.79-66,1,15073,warren_e_burger,scotus_justice,931.66,938.716,"In a contempt setting, counsel, is it not necessary to show scienter before a contempt order could be entered and sustained?"
+1979.79-66,1,39286,ralph_c_ferrara,,938.716,945.468,"Mr. Chief Justice, the answer to your question is yes, but it is a slightly different question than the one that Mr. Justice Rehnquist asked me."
+1979.79-66,1,15073,warren_e_burger,scotus_justice,945.468,947.418,I was taking it one step beyond his.
+1979.79-66,1,39286,ralph_c_ferrara,,947.418,960.355,"Mr. Justice Rehnquist asked the question of whether or not civil contempt would be an abuse of governmental process, and you've asked the question of whether criminal contempt should lie without a showing of intentional or reckless misconduct."
+1979.79-66,1,15045,harry_a_blackmun,scotus_justice,991.557,999.677,"Mr. Ferrara, let me ask you, it seems to me that you ought to go back to the beginning of the case."
+1979.79-66,1,39286,ralph_c_ferrara,,1017.553,1018.978,That's correct.
+1979.79-66,1,15045,harry_a_blackmun,scotus_justice,1018.978,1034.915,"And if you can show that after knowing that, after knowing that that he is about to do it again, he is never going to be able to say that he didn't intend to mislead somebody."
+1979.79-66,1,39286,ralph_c_ferrara,,1034.915,1036.078,"Well, I think after the filing of the --"
+1979.79-66,1,15045,harry_a_blackmun,scotus_justice,1036.078,1045.135,"And if he disobeys an injunction obtained after that kind of a showing, courts have to have some way of enforcing their injunction."
+1979.79-66,1,39286,ralph_c_ferrara,,1046.356,1047.121,That's correct.
+1979.79-66,1,15071,byron_r_white,scotus_justice,1079.344,1087.929,"Well, my suggestion to you is that by the time you get to the end of your injunction case, you will have satisfied the --"
+1979.79-66,1,39286,ralph_c_ferrara,,1087.929,1088.143,That's right.
+1979.79-66,1,15071,byron_r_white,scotus_justice,1088.143,1091.294,-- the Hochfelder standard.
+1979.79-66,1,39286,ralph_c_ferrara,,1091.294,1093.956,"Well, assuming that his conduct is continuing, that's correct."
+1979.79-66,1,15071,byron_r_white,scotus_justice,1093.956,1096.369,All right.
+1979.79-66,1,39286,ralph_c_ferrara,,1104.225,1105.393,That's absolutely correct.
+1979.79-66,1,15071,byron_r_white,scotus_justice,1105.393,1108.621,Then I don't know why you don't say the standards are different.
+1979.79-66,1,39286,ralph_c_ferrara,,1116.402,1127.903,"At times you -- if the conduct is actually in progress while the injunctive case is pending -- but I would agree with you, you satisfy the Hochfelder standard."
+1979.79-66,1,15071,byron_r_white,scotus_justice,1139.344,1139.532,"I know, but --"
+1979.79-66,1,39286,ralph_c_ferrara,,1139.532,1141.79,If the defendant is quiescent during that period --
+1979.79-66,1,15060,john_paul_stevens,scotus_justice,1141.79,1155.1,"Yes, but if you show that he is likely to do it again, it seems to me that automatically if he does it again he will be doing it knowingly."
+1979.79-66,1,39286,ralph_c_ferrara,,1155.1,1155.39,If he does it --
+1979.79-66,1,15060,john_paul_stevens,scotus_justice,1155.39,1165.93,"Because you have already -- you've got him into court, you said here is what you did, here is why it was wrong, here is how it misled somebody."
+1979.79-66,1,39286,ralph_c_ferrara,,1165.93,1168.908,I agree with that.
+1979.79-66,1,15141,william_h_rehnquist,scotus_justice,1168.908,1183.496,"What about the case of someone who is charged with simple negligence and you've made out your case of simple negligence, and now you are trying to show that he is apt to violate the act by simple negligence again."
+1979.79-66,1,39286,ralph_c_ferrara,,1185.456,1188.546,"It is indeed, and the commission --"
+1979.79-66,1,15071,byron_r_white,scotus_justice,1188.546,1190.954,"What if he makes it, what if you make it?"
+1979.79-66,1,39286,ralph_c_ferrara,,1190.954,1195.533,"Well, let me respond to both questions, if I may."
+1979.79-66,1,15071,byron_r_white,scotus_justice,1236.741,1240.17,"Well, he can't do it negligently again if he has been told."
+1979.79-66,1,39286,ralph_c_ferrara,,1242.762,1253.893,"If he does not do it negligently again, then we think criminal contempt could lie because the injunction has put him very specifically on notice as to what his misconduct was."
+1979.79-66,1,15071,byron_r_white,scotus_justice,1253.893,1261.601,And you've been able to convince the judge that to get your injunction that he is liable to perform this action again.
+1979.79-66,1,39286,ralph_c_ferrara,,1263.438,1266.178,"That it is reasonably likely that he is to perform the act again, that's correct."
+1979.79-66,1,15071,byron_r_white,scotus_justice,1266.178,1274.208,"And if he does, he can hardly complain or defend on the ground that his second performance was careless."
+1979.79-66,1,39286,ralph_c_ferrara,,1274.208,1292.907,"He -- well, we would hope that he would hardly be able to contend that, but in the context of a criminal contempt the question raised by the Chief Justice is he presumably would go into the criminal courts saying at best I was careless the second time, I didn't violate the terms of the decree --"
+1979.79-66,1,15060,john_paul_stevens,scotus_justice,1292.907,1297.305,"That is a question of contempt, not of securities law."
+1979.79-66,1,39286,ralph_c_ferrara,,1297.305,1297.865,That's correct.
+1979.79-66,1,15141,william_h_rehnquist,scotus_justice,1297.865,1321.218,"In this case, if he was negligent in simply failing to supervise his employees, if the government says you still have a lousy operation, you haven't get your house in order and your employees are running around, would you say that in response to Mr. Justice White's question that the government has made out a scienter standard or just a likelihood to again continue to be negligent?"
+1979.79-66,1,39286,ralph_c_ferrara,,1321.218,1324.605,"Well, the government at that point would have two options to pursue."
+1979.79-66,1,15141,william_h_rehnquist,scotus_justice,1717.755,1736.475,"Mr. Ferrara, in section 10(b) of the '34 Act, with respect to the words ""manipulative, deceptive and contrivance,"" would you say that any of those implied any state of mind or culpability?"
+1979.79-66,1,39286,ralph_c_ferrara,,1736.475,1741.542,"Well, again, Mr. Justice Rehnquist, it depends upon the context within which the case arises. In an equitable --"
+1979.79-66,1,15141,william_h_rehnquist,scotus_justice,1741.542,1746.892,"Well, taken in the context in which Congress enacted them."
+1979.79-66,1,39286,ralph_c_ferrara,,1746.892,1753.249,"Well, again -- I can take them in the context in which Congress enacted them, and that --"
+1979.79-66,1,15141,william_h_rehnquist,scotus_justice,1753.249,1755.088,"Well, that is what we usually do, isn't it?"
+1979.79-66,1,39286,ralph_c_ferrara,,1755.088,1764.284,"-- and that context recognized that common law, this very distinct division between actions at fraud at law and actions at fraud and equity."
+1979.79-66,1,15073,warren_e_burger,scotus_justice,1954.143,1967.113,"Mr. Ferrara, I don't recall that either you or your friend have touched the subject of whether the Court of Appeals in its review and in its opinion went beyond what it needed to go with respect to the findings here."
+1979.79-66,1,39286,ralph_c_ferrara,,1967.113,1967.404,Well --
+1979.79-66,1,15073,warren_e_burger,scotus_justice,1967.404,1971.562,What were the findings specifically of the District Court with reference to this statute?
+1979.79-66,1,39286,ralph_c_ferrara,,1971.562,1989.594,"The District Court found that the defendant knew of the misconduct of the people that were under his supervision and also had reason to know that they were making false statements because as part of his managerial responsibilities at the firm, that he maintained the due diligence files."
+1979.79-66,1,15073,warren_e_burger,scotus_justice,1999.034,2000.521,That being so --
+1979.79-66,1,39286,ralph_c_ferrara,,2000.521,2002.017,Let me respond to your question.
+1979.79-66,1,15073,warren_e_burger,scotus_justice,2002.017,2003.794,All right.
+1979.79-66,1,39286,ralph_c_ferrara,,2003.794,2019.812,"The District Court found that he had acted knowingly and with reason to know and accordingly had met the scienter standards of Hochfelder and then went on to find that under either a negligence or a scienter theory of liability, the defendant was liable."
+1979.79-66,1,15073,warren_e_burger,scotus_justice,2020.968,2021.908,The District Court?
+1979.79-66,1,39286,ralph_c_ferrara,,2021.908,2031.024,"The District Court found that under either a negligence or scienter theory of liability, the defendant should be enjoined."
+1979.79-66,1,15073,warren_e_burger,scotus_justice,2081.871,2087.746,Would it be fair to say that was an alternative holding in the District Court?
+1979.79-66,1,39286,ralph_c_ferrara,,2087.746,2089.808,The District Court judge did not express it that way.
+1979.79-66,1,15073,warren_e_burger,scotus_justice,2100.158,2107.296,Doesn't that ring like an alternative holding?
+1979.79-66,1,39286,ralph_c_ferrara,,2107.296,2109.643,"Yes, I think it does."
+1979.79-66,1,15073,warren_e_burger,scotus_justice,2111.687,2117.47,"It could have affirmed on the basis of the lesser standard, could it not?"
+1979.79-66,1,39286,ralph_c_ferrara,,2117.47,2131.867,"It could have, the Court of Appeals could have said I suppose that -- well, one of the issues before the Court of Appeals was whether or not the defendant's conduct amounted to scienter, as the District Court judge had found, or alternatively whether the District Court judge was clearly erroneous in that regard."
+1979.79-66,1,15073,warren_e_burger,scotus_justice,2155.949,2160.615,I take it then you do not regard that part of the holding as dictum?
+1979.79-66,1,39286,ralph_c_ferrara,,2160.615,2161.49,The Court of Appeals.
+1979.79-66,1,15073,warren_e_burger,scotus_justice,2161.49,2161.958,Yes.
+1979.79-66,1,39286,ralph_c_ferrara,,2161.958,2163.695,"Oh, no, not at all."
+1979.79-66,1,15073,warren_e_burger,scotus_justice,2164.731,2171.561,Even though they could have acted and decided the case on a narrower ground?
+1979.79-66,1,39286,ralph_c_ferrara,,2171.561,2179.012,I'm not sure that because a court could have decided the case on a different ground it necessarily means the ground that it decided it on was dicta.
+1979.79-66,1,15073,warren_e_burger,scotus_justice,2184.252,2191.326,"It is clear that the court describes that as its holding, and I was trying to go behind the language of the court and see whether --"
+1979.79-66,1,39286,ralph_c_ferrara,,2191.326,2212.315,"Well, I think had the Second Circuit said that we affirm the District Court's findings of scienter and then said but we're going off on a negligence standard of liability, then I think perhaps the standard the court chose may have been dicta."
+1979.79-66,1,15073,warren_e_burger,scotus_justice,2368.527,2369.897,Your time is expired.
+1979.79-66,1,15119,lewis_f_powell_jr,scotus_justice,2369.897,2370.672,Mr. Ferrara.
+1979.79-66,1,39286,ralph_c_ferrara,,2370.672,2371.29,"Yes, sir."
+1979.79-66,1,15119,lewis_f_powell_jr,scotus_justice,2371.29,2375.266,"you have been addressing generalities, may I ask you a general question."
+1979.79-66,1,39286,ralph_c_ferrara,,2388.39,2398.975,"Well, I think that the injunction has three very critical things -- well, let me respond in two ways."
+1979.79-66,1,15119,lewis_f_powell_jr,scotus_justice,2458.138,2459.848,What does it do to the defendant?
+1979.79-66,1,39286,ralph_c_ferrara,,2459.848,2480.6,"Well, there are some collateral consequences that attach to the issuance of an injunction. Certainly, those who have been found to have carelessly engaged in misconduct which results in a deception of investors and a federal District Court judge has found it reasonably likely to recur and they are therefore enjoined are going to suffer some inconveniences."
+1979.79-66,1,15119,lewis_f_powell_jr,scotus_justice,2542.762,2544.779,I understand all of that.
+1979.79-66,1,39286,ralph_c_ferrara,,2556.201,2563.03,"Well, thee are two specific regulatory disabilities that could be imposed that I recall."
+1979.79-66,1,15119,lewis_f_powell_jr,scotus_justice,2563.03,2564.471,What was imposed in this case?
+1979.79-66,1,39286,ralph_c_ferrara,,2564.471,2565.915,I'm sorry?
+1979.79-66,1,15119,lewis_f_powell_jr,scotus_justice,2565.915,2570.327,Go ahead and then tell me what was imposed in this case.
+1979.79-66,1,39286,ralph_c_ferrara,,2570.327,2586.228,"The two specific regulatory disabilities I believe is that under section 9(a) of the Investment Company Act, the enjoined broker-dealer, if it had an investment adviser subsidiary, would be precluded from serving as an investment adviser to a registered investment company."
+1979.79-66,1,15073,warren_e_burger,scotus_justice,2660.841,2661.836,"Mr. Fallick, do you have anything further."
+1979.79-66,2,17613,barry_m_fallick,,2661.836,2662.031,Yes.
+1979.79-66,2,15073,warren_e_burger,scotus_justice,2663.266,2670.534,You have undertaken to reserve more than two-thirds of your time for rebuttal and I assume you will confine yourself to rebuttal material.
+1979.79-66,2,17613,barry_m_fallick,,2670.534,2672.215,"Yes, sir."
+1979.79-66,2,15071,byron_r_white,scotus_justice,2699.105,2711.271,"I suppose that in a commission injunction action, the only thing the commission can show about past conduct is that it was negligent."
+1979.79-66,2,17613,barry_m_fallick,,2729.663,2737.971,"Once a defendant has been put on notice that his past conduct is negligent and he persists in that conduct, of course, then he is making a conscious effort to --"
+1979.79-66,2,15071,byron_r_white,scotus_justice,2737.971,2739.499,To violate the law.
+1979.79-66,2,17613,barry_m_fallick,,2739.499,2740.251,-- to violate the law.
+1979.79-66,2,15060,john_paul_stevens,scotus_justice,2740.251,2764.162,"I suppose that you could conceive of the government being able to show that, well, he did it negligently in the past and carelessly, and he is liable to do it again, even though he has now been told that it was deceptive, and he is so likely to deliberately violate the law in the future, that an injunction could issue?"
+1979.79-66,2,17613,barry_m_fallick,,2764.162,2765.345,If a defendant --
+1979.79-66,2,15060,john_paul_stevens,scotus_justice,2765.345,2768.046,And you wouldn't object to that if they could make such a showing as that?
+1979.79-66,2,17613,barry_m_fallick,,2768.046,2768.971,Not at all.
+1979.79-66,2,15119,lewis_f_powell_jr,scotus_justice,2770.417,2787.025,"He might have been told that that is a theory of the SEC, but he might wholly disagree with it, and my brother White's theory puts him in a position where he can't voice his disagreement except at the risk of an injunction against him."
+1979.79-66,2,15071,byron_r_white,scotus_justice,2787.025,2794.192,It would have to be found that this was deceptive.
+1979.79-66,2,17613,barry_m_fallick,,2794.192,2797.033,"Yes, that is correct."
+1979.79-66,2,15071,byron_r_white,scotus_justice,2813.015,2813.947,It would be knowing.
+1979.79-66,2,17613,barry_m_fallick,,2813.947,2816.16,It certainly would be.
+1979.79-66,2,15073,warren_e_burger,scotus_justice,2817.154,2817.825,"Thank you, gentlemen."

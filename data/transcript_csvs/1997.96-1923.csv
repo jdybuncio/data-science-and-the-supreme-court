@@ -1,0 +1,62 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1997.96-1923,0,15141,william_h_rehnquist,scotus_justice,0.0,9.137,"We'll hear argument now in Number 96-1923, Edward S. Cohen v. Hilda de la Cruz."
+1997.96-1923,0,20486,donald_b_ayer,,10.018,12.058,"Mr. Chief Justice, and may it please the Court:"
+1997.96-1923,0,15113,anthony_m_kennedy,scotus_justice,54.998,56.049,And you agree with that reading?
+1997.96-1923,0,20486,donald_b_ayer,,56.049,56.358,We do.
+1997.96-1923,0,15113,anthony_m_kennedy,scotus_justice,56.358,64.995,So then you would have a lack of parallelism between the section you're addressing here and subsections (4) and subsection (6).
+1997.96-1923,0,20486,donald_b_ayer,,64.995,77.676,"We would Your Honor and, in fact, we think that's quite clear from the language, that the structure of the 523 sections as they work, given the literal reading of 523 (a)(2), works quite well."
+1997.96-1923,0,15113,anthony_m_kennedy,scotus_justice,90.875,101.2,"Would that include accounting... if the defrauding party, the wrongdoer, makes profits from the property that he steals, are those profits recoverable?"
+1997.96-1923,0,20486,donald_b_ayer,,101.2,102.311,"I think they would not be, Your Honor."
+1997.96-1923,0,15113,anthony_m_kennedy,scotus_justice,105.714,107.735,That's property obtained by the fraud.
+1997.96-1923,0,20486,donald_b_ayer,,107.735,118.732,"--Well, it... I think the most reasonable interpretation is to focus upon the amounts obtained by the act of the fraud, which I would think most immediately would be the amounts obtained in the fraud."
+1997.96-1923,0,15092,sandra_day_oconnor,scotus_justice,119.533,126.819,So you think it wouldn't even include attorney's fees and costs in the very action in which the recovery is made?
+1997.96-1923,0,20486,donald_b_ayer,,126.819,127.3,"--I think it would not, Your Honor."
+1997.96-1923,0,15113,anthony_m_kennedy,scotus_justice,162.432,166.967,"Your answer to Justice O'Connor, it seems to me, follows easily from the answer you gave me."
+1997.96-1923,0,20486,donald_b_ayer,,169.108,169.308,--Right.
+1997.96-1923,0,15113,anthony_m_kennedy,scotus_justice,169.308,170.5,--under your interpretation--
+1997.96-1923,0,20486,donald_b_ayer,,170.5,171.289,"Correct, Your Honor."
+1997.96-1923,0,15113,anthony_m_kennedy,scotus_justice,171.289,176.183,--than profits that the tortfeasor gains.
+1997.96-1923,0,20486,donald_b_ayer,,176.183,177.125,Correct.
+1997.96-1923,1,25166,gregory_g_diebold,,1569.205,1574.758,"Mr. Chief Justice, and may it please the Court:"
+1997.96-1923,1,15049,antonin_scalia,scotus_justice,1640.521,1644.773,It depends on how you use the word claim.
+1997.96-1923,1,25166,gregory_g_diebold,,1694.037,1694.897,"Well, it's--"
+1997.96-1923,1,15049,antonin_scalia,scotus_justice,1694.897,1696.058,What's your response to that?
+1997.96-1923,1,25166,gregory_g_diebold,,1696.058,1700.61,"--My response, Justice Scalia, is that it's a... what's nondischargeable is the debt."
+1997.96-1923,1,15113,anthony_m_kennedy,scotus_justice,1706.815,1712.788,"Yes, but it's very difficult to say that the punitive damages were obtained by fraud."
+1997.96-1923,1,25166,gregory_g_diebold,,1712.788,1746.311,"It's difficult to say that if you concede, which we don't, that obtained is used to limit the amount of debt that you occur... incur, but what you're... what we say obtained is limiting is to explain that the fraud, that there must be fraud in connection with the money you obtained and that gives rise to the nondischargeable debt, which in this case, under New Jersey law, is three times the amount of the overcharged rents."
+1997.96-1923,1,15139,stephen_g_breyer,scotus_justice,1747.292,1749.413,I just want to go back to that one case you said.
+1997.96-1923,1,25166,gregory_g_diebold,,1775.6,1792.901,"--I think they used to the extent as a way of showing that the debt was limited to the extent that you obtain money through fraud, but what is nondischargeable is that debt which arises from the obtaining--"
+1997.96-1923,1,15139,stephen_g_breyer,scotus_justice,1792.901,1796.443,"Where... is there such a thing as a claim, and the claim--"
+1997.96-1923,1,25166,gregory_g_diebold,,1796.443,1796.954,"--Well, the debt--"
+1997.96-1923,1,15139,stephen_g_breyer,scotus_justice,1796.954,1799.124,--Was that the case that you just mentioned that?
+1997.96-1923,1,25166,gregory_g_diebold,,1814.385,1816.476,--I think that happens all the time in the commercial world.
+1997.96-1923,2,31508,jeffrey_a_lamken,,2739.175,2748.981,"Mr. Chief Justice, and may it please the Court:"
+1997.96-1923,2,15113,anthony_m_kennedy,scotus_justice,2778.5,2782.323,"Well, you don't define punitive damages as consequential damages, do you?"
+1997.96-1923,2,31508,jeffrey_a_lamken,,2782.323,2786.327,"No, I would not define punitive damages as consequential damages."
+1997.96-1923,2,15113,anthony_m_kennedy,scotus_justice,2786.327,2796.431,"That's the colloquy we had with Mr. Ayer, and I think he conceded that maybe some consequential damages are within (a)(2), even under his interpretation."
+1997.96-1923,2,31508,jeffrey_a_lamken,,2799.132,2805.106,"No, Your Honor, I don't think Mr. Ayer would concede that consequential damages to the creditor are within his interpretation."
+1997.96-1923,2,15141,william_h_rehnquist,scotus_justice,2817.986,2824.441,"Well, I think of consequential damages in connection with contracts, in Hadley v. Baxendale, not torts."
+1997.96-1923,2,31508,jeffrey_a_lamken,,2826.922,2828.522,--Consequential damages do follow from torts.
+1997.96-1923,2,15141,william_h_rehnquist,scotus_justice,2849.476,2853.229,"Well, what's the difference between consequential damages and actual damages in your view?"
+1997.96-1923,2,31508,jeffrey_a_lamken,,2853.229,2856.441,"--In this case... well, consequential damages I've used rather loosely."
+1997.96-1923,2,15049,antonin_scalia,scotus_justice,2866.019,2880.597,But don't you see a difference between what you can get for a claim for fraud and what you can get on a claim for money obtained by fraud?
+1997.96-1923,2,31508,jeffrey_a_lamken,,2880.597,2889.753,"Your Honor, I think the question assumes that the phrase, a claim for money obtained by fraud, means a claim to acquire or to obtain the money which was obtained by fraud."
+1997.96-1923,2,15139,stephen_g_breyer,scotus_justice,2913.108,2916.25,"That part, though, I don't think was conceded by Mr. Ayers."
+1997.96-1923,2,31508,jeffrey_a_lamken,,2935.484,2938.366,I don't think if you go back to 1898 it could be disputed.
+1997.96-1923,2,15139,stephen_g_breyer,scotus_justice,2945.949,2954.745,"--But has it been clearly held that if you go back, let's say, to the 1898 act or the 1978 code, et cetera, that it does include punitives?"
+1997.96-1923,2,31508,jeffrey_a_lamken,,2956.878,2957.316,--No.
+1997.96-1923,2,15139,stephen_g_breyer,scotus_justice,2978.371,2991.821,"But you might say, liabilities for means liabilities to this person and a punitive damage award, after all, is not in respect to a liability to this person and represents a liability to the whole community for bad action deterrent."
+1997.96-1923,2,31508,jeffrey_a_lamken,,2993.24,2993.971,--Right.
+1997.96-1923,2,15139,stephen_g_breyer,scotus_justice,2993.971,2996.382,--I'm trying to generate a little more counterargument on your part.
+1997.96-1923,2,31508,jeffrey_a_lamken,,2996.382,3008.06,"I don't think that that construction of the word liability could be used, because the term debt, which is defined as liability unclaimed, has been held by this Court to include punitive damages where payable to private parties."
+1997.96-1923,2,15092,sandra_day_oconnor,scotus_justice,3008.06,3015.025,"Well, the language of (a)(2) really does favor the petitioner."
+1997.96-1923,2,31508,jeffrey_a_lamken,,3032.277,3039.703,"That's correct, Your Honor, but I would disagree that the language favors petitioner, because that is only true if you don't look at the definition of the word debt."
+1997.96-1923,2,15113,anthony_m_kennedy,scotus_justice,3074.394,3101.522,"One of the arguments made by the respondent, and we didn't have time... I didn't have time to question him about it further, was that at the last minute, before going bankrupt, people run up a lot of bills, but that's covered by a separate section, is it not, or would subsection (c) not permit the nondischargeability under Mr. Ayer's theory for the--"
+1997.96-1923,2,31508,jeffrey_a_lamken,,3101.522,3103.135,"Yes, I think the run up--"
+1997.96-1923,3,20486,donald_b_ayer,,3225.963,3228.046,"Thank you, Your Honor."
+1997.96-1923,3,15049,antonin_scalia,scotus_justice,3287.135,3287.543,You don't want them to get the interest.
+1997.96-1923,3,20486,donald_b_ayer,,3296.121,3300.954,"We would submit, Your Honor, that's correct, that they get the... well, they may get a market interest."
+1997.96-1923,3,15049,antonin_scalia,scotus_justice,3303.165,3304.997,Why even the market interest rate?
+1997.96-1923,3,20486,donald_b_ayer,,3304.997,3305.926,"--Well, I'm sorry."
+1997.96-1923,3,15060,john_paul_stevens,scotus_justice,3318.775,3321.998,Could I get you to comment on one question that came up in your opponent's argument?
+1997.96-1923,3,20486,donald_b_ayer,,3328.461,3330.803,The 1898 statute talked about judgments.

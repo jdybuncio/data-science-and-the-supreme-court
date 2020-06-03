@@ -1,0 +1,117 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2001.99-1786,0,15141,william_h_rehnquist,scotus_justice,0.0,10.114,"We'll hear argument next in No. 99-1786, Great-West Life & Annuity Insurance Company v. Janette Knudson."
+2001.99-1786,0,31153,james_f_jorden,,13.912,52.922,"Mr. Chief Justice, and may it please the Court: Petitioners' claim for injunctive and declaratory relief to enforce the terms of the reimbursement clause in the benefit plan at issue in this case falls squarely within the language of ERISA, section 502(a)(3)(A), which appears in full text at page 13 of our brief, which provides for a civil action by a fiduciary to enjoin any act or practice which violates the terms of the plan."
+2001.99-1786,0,15049,antonin_scalia,scotus_justice,76.949,83.387,"Now, you say to enjoy any act or... do you think that includes to enjoin your refusing to pay me money that you owe me?"
+2001.99-1786,0,31153,james_f_jorden,,118.681,141.427,"Well, Your Honor, we believe that the language and the structure and the purpose of ERISA support the proposition that section 502(a)(3)(A), specifically in this case (a)(3)(A), to enjoin the Knudsons from disbursing funds as to which they had power to determine--"
+2001.99-1786,0,15049,antonin_scalia,scotus_justice,141.427,151.169,"Well, if you want to talk about purpose, I frankly don't see why it is in accord with the purpose to limit the relief to equitable relief."
+2001.99-1786,0,31153,james_f_jorden,,151.169,154.058,"--Well, Your Honor, we believe it is equitable relief."
+2001.99-1786,0,15049,antonin_scalia,scotus_justice,154.058,161.2,"You know, if the only way to get the relief is at law, the purpose of the act would... would allow you to get relief at... at law."
+2001.99-1786,0,31153,james_f_jorden,,181.179,183.037,"Well, Your Honor, two things."
+2001.99-1786,0,15139,stephen_g_breyer,scotus_justice,206.897,208.178,Why isn't that clearly wrong?
+2001.99-1786,0,31153,james_f_jorden,,226.094,227.702,"--Two points on that, Your Honor."
+2001.99-1786,0,15139,stephen_g_breyer,scotus_justice,232.698,233.441,I didn't assume it.
+2001.99-1786,0,31153,james_f_jorden,,241.82,246.65,"--Well, one would have to presume that we were seeking money damages in this case."
+2001.99-1786,0,15139,stephen_g_breyer,scotus_justice,246.65,246.65,You could go into a court of equity in the year 1750 where they really knew equity--
+2001.99-1786,1,38417,paul_r_q_wolfson,,1134.048,1159.783,"Mr. Chief Justice, and may it please the Court: I'd like to start with the point that was being made by my colleague, which is that this is the only mechanism by which a plan can enforce a term of the plan."
+2001.99-1786,1,15139,stephen_g_breyer,scotus_justice,1172.519,1196.768,"I've looked up every one of those, and having looked up every one of them, our research so far shows that there is no category, specific, restitution, anything else, that this would count as equitable because in each instance, they would have said that there is an adequate remedy at law and there is no basis for a constructive trust, because this is not funds that come out of the trust."
+2001.99-1786,1,38417,paul_r_q_wolfson,,1199.186,1200.179,--Several points--
+2001.99-1786,1,15139,stephen_g_breyer,scotus_justice,1200.179,1202.036,"That's the question I posed, and that's what I would like--"
+2001.99-1786,1,38417,paul_r_q_wolfson,,1202.036,1203.522,"--Several points, Justice Breyer."
+2001.99-1786,1,15049,antonin_scalia,scotus_justice,1255.822,1276.462,"--So, you say that... that under this, since it's exclusively Federal causes of action and since the Federal statute does not provide for any legal remedy, that any so-called equitable remedy is available because there is no legal relief."
+2001.99-1786,1,38417,paul_r_q_wolfson,,1276.462,1277.909,"My point, Justice Scalia, is--"
+2001.99-1786,1,15049,antonin_scalia,scotus_justice,1277.909,1278.485,Is that... is that your point?
+2001.99-1786,1,38417,paul_r_q_wolfson,,1295.22,1319.436,"--Well, if... if the plan provided... it's quite possible if the plan provided, for example, that an employer would make a contribution to the plan, to ensure that the plan was adequately funded, in the amount of $1,000 a month and then the employer refused to do so, it's difficult to believe Congress intended that there be absolutely no remedy for enforcement of such a central term of the plan which would be necessary to make sure that the plan could continue in existence."
+2001.99-1786,1,15141,william_h_rehnquist,scotus_justice,1319.436,1319.929,"Well, but... okay."
+2001.99-1786,1,38417,paul_r_q_wolfson,,1329.96,1330.953,Mr. Chief Justice--
+2001.99-1786,1,15141,william_h_rehnquist,scotus_justice,1330.953,1332.189,That is a real limitation.
+2001.99-1786,1,38417,paul_r_q_wolfson,,1332.189,1336.831,--There are... there are in... this ties to one of Justice Breyer's points.
+2001.99-1786,1,15139,stephen_g_breyer,scotus_justice,1360.136,1365.505,But the key to this is your statement that there is no remedy in the State court because it's interpreting the plan.
+2001.99-1786,1,38417,paul_r_q_wolfson,,1375.552,1378.591,--A beneficiary could... could sue the plan under 502(a)--
+2001.99-1786,1,15139,stephen_g_breyer,scotus_justice,1378.591,1378.812,Okay.
+2001.99-1786,1,38417,paul_r_q_wolfson,,1379.455,1380.487,--Right.
+2001.99-1786,1,15139,stephen_g_breyer,scotus_justice,1380.487,1382.716,--because... follow me because it's quite important to me.
+2001.99-1786,1,38417,paul_r_q_wolfson,,1407.031,1415.221,"Well, first of all, even if the beneficiary sued the plan under 502(a)(1)(B) of ERISA, that is a Federal law lawsuit."
+2001.99-1786,1,15141,william_h_rehnquist,scotus_justice,1458.672,1460.818,"So, we should have a Bivens cause of action."
+2001.99-1786,1,38417,paul_r_q_wolfson,,1461.478,1466.474,"--Well, it... it did occur... that did occur to me in the last hour, Mr. Chief Justice."
+2001.99-1786,1,15042,david_h_souter,scotus_justice,1500.077,1506.226,"But you're... you're saying that given the timing of the suit, this falls literally squarely within subsection (A)."
+2001.99-1786,1,38417,paul_r_q_wolfson,,1506.226,1510.025,"--At the timing of the suit, I think there would have been... there would have been no problem."
+2001.99-1786,1,15049,antonin_scalia,scotus_justice,1574.547,1578.345,"Mr. Wolfson, I... I want to be clear about the Government's position."
+2001.99-1786,1,38417,paul_r_q_wolfson,,1589.984,1590.355,No.
+2001.99-1786,1,15049,antonin_scalia,scotus_justice,1590.355,1592.008,"Or rather, it doesn't matter?"
+2001.99-1786,1,38417,paul_r_q_wolfson,,1603.275,1607.445,I don't think it is limited by (a)(3)(B) that says appropriate equitable relief.
+2001.99-1786,1,15049,antonin_scalia,scotus_justice,1607.9,1608.105,Okay.
+2001.99-1786,1,38417,paul_r_q_wolfson,,1617.848,1620.987,"--Well, Justice Scalia, I don't think Congress can simply declare that black is white."
+2001.99-1786,1,15049,antonin_scalia,scotus_justice,1633.74,1636.962,"Yes, because it says enjoin any act, not... not any failure to act."
+2001.99-1786,1,38417,paul_r_q_wolfson,,1636.962,1643.666,"--But... but (3)... but (3)(B)(ii) also refers to enforcement of the term of the plan, and that... that is--"
+2001.99-1786,1,15049,antonin_scalia,scotus_justice,1643.666,1646.993,"Well, do you think... do you think an injunction can issue under (B)?"
+2001.99-1786,1,38417,paul_r_q_wolfson,,1646.993,1654.174,"--(B) little... (B)(ii), little Roman ii, refers to enforcement of the term of the plan I believe."
+2001.99-1786,1,15141,william_h_rehnquist,scotus_justice,1663.795,1670.975,"Well, but can't... don't you think you can make an argument that since Congress has dealt with injunctions in (A), (B) does not authorize injunctions?"
+2001.99-1786,1,38417,paul_r_q_wolfson,,1670.975,1677.662,"--Mr. Chief Justice, I... I wouldn't slice it that... you know, that closely."
+2001.99-1786,1,15060,john_paul_stevens,scotus_justice,1704.95,1705.405,May I go back to--
+2001.99-1786,1,38417,paul_r_q_wolfson,,1705.405,1706.248,--policy of ERISA.
+2001.99-1786,1,15060,john_paul_stevens,scotus_justice,1706.686,1709.408,--to Justice Scalia's question about (a)(3)(A)?
+2001.99-1786,1,38417,paul_r_q_wolfson,,1740.782,1744.786,"Well, Congress could do it, but I don't... I mean, Congress could do it."
+2001.99-1786,1,15141,william_h_rehnquist,scotus_justice,1765.774,1767.26,"Thank you... thank you, Mr. Wolfson."
+2001.99-1786,2,40639,richard_g_taranto,,1768.851,1791.764,"Mr. Chief Justice, and may it please the Court: I'd like to summarize the three points I want to make for why petitioners' money suit does not request appropriate equitable relief and therefore is outside 502(a)(3)."
+2001.99-1786,2,15060,john_paul_stevens,scotus_justice,1793.371,1795.562,May I just be sure you cover it before you get through?
+2001.99-1786,2,40639,richard_g_taranto,,1810.173,1815.169,--I... I think because of the word other in... in the... the provision.
+2001.99-1786,2,15060,john_paul_stevens,scotus_justice,1847.325,1848.522,What would be so terrible about that?
+2001.99-1786,2,40639,richard_g_taranto,,1848.522,1864.043,"--Oh, I'm not sure that there would be anything terrible, and I don't think there would be a congressional... I mean, I think Congress could call a remedy anything it wants, subject to constitutional constraints, for example, Seventh Amendment constraints, and Seventh Amendment issues might well arise."
+2001.99-1786,2,15049,antonin_scalia,scotus_justice,1864.043,1868.063,"How would you enforce a liquidated damages provision, assuming a plan has one?"
+2001.99-1786,2,40639,richard_g_taranto,,1868.063,1871.185,I don't think one is enforceable.
+2001.99-1786,2,15049,antonin_scalia,scotus_justice,1871.185,1877.585,"So, there's a lot of stuff that's... that's permissible under ERISA that is simply not enforceable in courts."
+2001.99-1786,2,40639,richard_g_taranto,,1877.585,1879.275,I don't know how much.
+2001.99-1786,2,15139,stephen_g_breyer,scotus_justice,2006.584,2007.699,Why... why subrogee?
+2001.99-1786,2,40639,richard_g_taranto,,2022.764,2024.062,--That... that--
+2001.99-1786,2,15139,stephen_g_breyer,scotus_justice,2024.062,2025.736,Why does it have to be a subrogee?
+2001.99-1786,2,40639,richard_g_taranto,,2025.736,2033.35,"--Well, I think that this Court's preemption decisions, as I read them, don't make that impossible, but make it more difficult."
+2001.99-1786,2,15139,stephen_g_breyer,scotus_justice,2033.35,2033.621,All right.
+2001.99-1786,2,40639,richard_g_taranto,,2062.041,2082.967,"Well, I... I do think that this Court's preemption decisions, from Pilot Life and some of its successors, have language in them that, taken all by themselves, might suggest that any contract cause of action on the same subject that is addressed in one of the ERISA remedial provisions would be preempted."
+2001.99-1786,2,15139,stephen_g_breyer,scotus_justice,2111.557,2113.786,"Now, which... which would be the easier route?"
+2001.99-1786,2,40639,richard_g_taranto,,2143.303,2159.029,"Well, I... I don't think that it, in the end, works to say that anytime equitable relief... that anytime there's no legal relief, then there must be equitable relief because then I think we've erased the distinction Congress has meant... has created."
+2001.99-1786,2,15084,ruth_bader_ginsburg,scotus_justice,2214.014,2229.412,"Mr. Taranto, what about the presence of State subrogation laws where the State has a strong law reflecting its policy that there shouldn't be any subrogation actions in the State court?"
+2001.99-1786,2,40639,richard_g_taranto,,2229.412,2258.862,"Well, I... I think that I would agree with petitioners that the question of the plan's rights are matters of Federal law, and I don't think it is possible for a State to say an ERISA plan that does provide in terms for subrogation, stepping into the shoes of the beneficiary's tort claim... I don't think a State could properly deprive the plan of... of that right."
+2001.99-1786,2,15049,antonin_scalia,scotus_justice,2262.683,2268.627,All other State restrictions on contracting are overridden simply because it's an ERISA contract?
+2001.99-1786,2,40639,richard_g_taranto,,2268.627,2271.022,--I don't know about all... all--
+2001.99-1786,2,15049,antonin_scalia,scotus_justice,2271.022,2273.994,Provisions for excessive punitive damages?
+2001.99-1786,2,40639,richard_g_taranto,,2282.911,2296.945,"--Well, I... I guess I... I should say, although I guess it's not my place to be doing a lot of conceding this morning, but I would be happy, of course, if... if many State laws were not preempted."
+2001.99-1786,2,15113,anthony_m_kennedy,scotus_justice,2344.871,2352.756,It's very odd that you'd have a... a body of Federal common law that can be applied only in State courts.
+2001.99-1786,2,40639,richard_g_taranto,,2352.756,2369.68,"--Well, I... I don't think that this would be only in... in State courts because there could be... I mean, the interpretation of... of many plan provisions is going to come through an (a)(1) action, the beneficiary suing for... for benefits."
+2001.99-1786,2,15084,ruth_bader_ginsburg,scotus_justice,2435.772,2464.751,"Mr. Taranto, you... what you're telling us then is that there would be no preemption in this class of cases, that in this class of cases where the plan insurer is saying we want to get from this recovery the amount that we advanced, that in this class of cases you would have an entirely Federal law governed claim that could only be brought in State court."
+2001.99-1786,2,40639,richard_g_taranto,,2489.643,2494.284,I... I... if I can say it slightly... slightly differently.
+2001.99-1786,2,15139,stephen_g_breyer,scotus_justice,2548.155,2552.574,I... I see that except for one point.
+2001.99-1786,2,40639,richard_g_taranto,,2570.24,2572.386,The... the reason that I--
+2001.99-1786,2,15139,stephen_g_breyer,scotus_justice,2572.386,2572.758,Is what?
+2001.99-1786,2,40639,richard_g_taranto,,2572.758,2600.046,"--that I have suggested is that the contract action between the plan or its fiduciary, which the cases have not treated as identical, but the contract action against the... against the beneficiary to... for a supposed violation of the terms of the plan feels an awful lot like the subject matter covered directly by (a)(3)."
+2001.99-1786,2,15139,stephen_g_breyer,scotus_justice,2621.389,2627.433,At which point you'd say that Congress certainly didn't mean they can't sue people to get money belonging to the plan.
+2001.99-1786,2,40639,richard_g_taranto,,2634.597,2645.454,"--I... I think we're understanding each other, and I... and I can see the way out of the... the stronger preemption argument as to... as to that."
+2001.99-1786,2,15060,john_paul_stevens,scotus_justice,2658.253,2662.256,"Mr. Taranto, can I ask you to respond to an argument that occurs to me?"
+2001.99-1786,2,40639,richard_g_taranto,,2689.727,2689.798,Yes.
+2001.99-1786,2,15060,john_paul_stevens,scotus_justice,2689.798,2703.423,"--But my... my... the reason I'm concerned about that response is it seems to me that (B) was intended to broaden the remedies available rather than to narrow them, and you're necessarily construing it as a narrowing construction."
+2001.99-1786,2,40639,richard_g_taranto,,2703.423,2707.033,"Well, I... I think I'm construing it in... in two ways."
+2001.99-1786,2,15141,william_h_rehnquist,scotus_justice,2751.97,2759.317,Is there any legislative history indicating why Congress limited the relief which it permitted in this section to equitable relief?
+2001.99-1786,2,40639,richard_g_taranto,,2759.317,2760.887,I'm not aware of any.
+2001.99-1786,2,15084,ruth_bader_ginsburg,scotus_justice,2847.905,2848.87,Any more so--
+2001.99-1786,2,15139,stephen_g_breyer,scotus_justice,2848.87,2849.696,"--Well, couldn't you have historically gotten--"
+2001.99-1786,2,15084,ruth_bader_ginsburg,scotus_justice,2849.696,2854.154,"--Any more so than... than the back pay under title 7, which is money?"
+2001.99-1786,2,40639,richard_g_taranto,,2875.519,2878.287,Let me... let me try to answer that... that this way.
+2001.99-1786,2,15084,ruth_bader_ginsburg,scotus_justice,2936.82,2947.306,"But you could have under both... I think this is correct... the Fair Labor Standards Act and under title 7, a monetary remedy without any reinstatement."
+2001.99-1786,2,40639,richard_g_taranto,,2947.306,2956.511,"And... and I agree that the courts of appeals have, for a long time, treated that as outside the jury trial right, but this Court has never said so."
+2001.99-1786,2,15113,anthony_m_kennedy,scotus_justice,2973.518,2979.173,"Well, why wasn't there a reason given... the limitations on the plan's ability to sue elsewhere?"
+2001.99-1786,2,40639,richard_g_taranto,,3019.686,3027.571,"But (B)... (B) does quite definitely, as Harris Trust indicates, expand beyond injunctions the available relief."
+2001.99-1786,2,15042,david_h_souter,scotus_justice,3068.521,3068.91,"--No, but your--"
+2001.99-1786,2,15113,anthony_m_kennedy,scotus_justice,3068.91,3070.667,--Even if Congress has directed otherwise.
+2001.99-1786,2,40639,richard_g_taranto,,3070.667,3071.949,I'm sorry?
+2001.99-1786,2,15113,anthony_m_kennedy,scotus_justice,3071.949,3077.726,"The question is, hasn't Congress directed otherwise necessarily in (A)?"
+2001.99-1786,2,40639,richard_g_taranto,,3077.726,3085.035,"I... I don't think so because, again, textually the two clauses are linked by the word other."
+2001.99-1786,2,15042,david_h_souter,scotus_justice,3102.042,3118.882,But you're... you're using the word other as... as implying in (A) a limitation of (A) to only those instances in which a 1750 or whatever court of equity would have awarded an injunction.
+2001.99-1786,2,40639,richard_g_taranto,,3176.839,3198.47,"Well, I... I guess I... I find the... the much more natural reading of this provision in the context of (a)(2) which talks about equitable and other remedial relief and (g)(2) which talks about legal and equitable relief to be that Congress in (a)(3) said we want equitable relief available."
+2001.99-1786,2,15042,david_h_souter,scotus_justice,3234.507,3246.663,"Yes, but... presumably, under... under (A), under any injunction practice, the... the court would require proof that there was need for an injunction in the first place."
+2001.99-1786,2,40639,richard_g_taranto,,3273.228,3281.607,"--But I'm not sure, I guess, if... if a plan term said the beneficiary... I mean, I think this could go either way, but to take--"
+2001.99-1786,2,15042,david_h_souter,scotus_justice,3281.607,3287.923,You're going to take it one step further and say you can always get an injunction under any circumstances saying pay over the money.
+2001.99-1786,2,40639,richard_g_taranto,,3287.923,3288.749,"--Right, right."
+2001.99-1786,2,15042,david_h_souter,scotus_justice,3295.232,3300.638,"Well, I... I agree but I think it's also pretty likely outside anything that Congress might have been thinking about too."
+2001.99-1786,2,40639,richard_g_taranto,,3314.301,3343.901,"--Well, I... I guess I... I would say that it's... it is a better reason either to let Congress alter the statute if unanticipated problems have... have arisen or, more immediately, to make sure that preemption law isn't taken to an extreme that precludes what I think is the more... is the preferable solution anyway, which is that there is... by the very terms of the plan, there's an intrinsic reference of this interest, of this right, to an underlying State court suit."
+2001.99-1786,2,15060,john_paul_stevens,scotus_justice,3403.631,3413.662,"Mr. Taranto, I think there's some tension between the argument you're making now, which is certainly a persuasive argument, and the cases you cite on page 38 of your brief that talk about the gap between Federal law and State law."
+2001.99-1786,2,40639,richard_g_taranto,,3413.662,3453.87,"Well, those... I... I agree that there is... that there are certain gaps between Federal and State law that, in the beneficiary context, have become all but commonplace because there is an inference, which no court has yet figured a way to... to supersede, the way Justice Breyer was talking about, that when beneficiary relief under (a)(1) is limited to benefits, it's not that Congress has, in effect, determined that damages that flow from violation of term plans to... to provide necessary medical services are not available."
+2001.99-1786,2,15141,william_h_rehnquist,scotus_justice,3456.693,3459.072,"Thank you, Mr. Taranto."

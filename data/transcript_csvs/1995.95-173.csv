@@ -1,0 +1,302 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1995.95-173,0,15141,william_h_rehnquist,scotus_justice,0.0,8.248,We'll hear argument now in Number v. United States.
+1995.95-173,0,35022,lawrence_s_robbins,,10.652,13.684,"Mr. Chief Justice, it's actually Mr. Degen."
+1995.95-173,0,15141,william_h_rehnquist,scotus_justice,13.684,14.094,Degen.
+1995.95-173,0,35022,lawrence_s_robbins,,15.766,18.139,"Thank you, Mr. Chief Justice, and may it please the Court:"
+1995.95-173,0,15049,antonin_scalia,scotus_justice,122.387,130.464,"When you say it cannot be squared with due process, Mr. Robbins, do you mean that if Congress had enacted such a provision it would be unconstitutional?"
+1995.95-173,0,35022,lawrence_s_robbins,,130.464,130.985,I believe it would.
+1995.95-173,0,15141,william_h_rehnquist,scotus_justice,145.094,147.808,What leads you to think that Congress wouldn't have that authority?
+1995.95-173,0,35022,lawrence_s_robbins,,147.808,150.312,"Well, I think the reason is that--"
+1995.95-173,0,15141,william_h_rehnquist,scotus_justice,150.312,151.01,"I mean, are you talking about a case?"
+1995.95-173,0,35022,lawrence_s_robbins,,151.01,152.162,"--I'm sorry, Your--"
+1995.95-173,0,15141,william_h_rehnquist,scotus_justice,152.162,155.785,Are you talking about a decision of this Court that supports that proposition?
+1995.95-173,0,35022,lawrence_s_robbins,,155.785,178.771,"--Well, I... it's... I think that the line of authority that supports the proposition is embodied, for example, in McVeigh and in Hovey v. Elliott, where the Court, in deciding that a Court lacked the power, said that not even a legislature could pass such a statute, and therefore it's all the more unconstitutional for Federal courts, or in those cases State courts, to exercise that kind of authority."
+1995.95-173,0,15141,william_h_rehnquist,scotus_justice,178.771,182.593,Where did your client reside before he went to Switzerland?
+1995.95-173,0,35022,lawrence_s_robbins,,182.593,184.025,He lived in the United States.
+1995.95-173,0,15141,william_h_rehnquist,scotus_justice,184.025,185.975,And when did he go to Switzerland?
+1995.95-173,0,35022,lawrence_s_robbins,,185.975,191.32,"The record suggests, Mr. Chief Justice, that he went to Switzerland sometime in early 1988."
+1995.95-173,0,15141,william_h_rehnquist,scotus_justice,191.32,193.121,And when was the indictment handed down?
+1995.95-173,0,35022,lawrence_s_robbins,,193.121,196.003,It was unsealed in October 1989.
+1995.95-173,0,15141,william_h_rehnquist,scotus_justice,196.003,206.628,"If... supposing the district judge in this case had made a finding that he left the United States in order to avoid pleading to the indictment, would that make the outcome any different, in your view?"
+1995.95-173,0,35022,lawrence_s_robbins,,206.628,207.179,It would not.
+1995.95-173,0,15049,antonin_scalia,scotus_justice,224.282,226.412,And that Congress wouldn't?
+1995.95-173,0,35022,lawrence_s_robbins,,226.412,241.854,I think it would be... I think it would be very difficult to say that Congress could pass a statute that says that the... that you have no right to defend the forfeiture of property if you have become a fugitive in a criminal case.
+1995.95-173,0,15113,anthony_m_kennedy,scotus_justice,243.093,246.585,And that's so even if you make a general appearance in the action?
+1995.95-173,0,35022,lawrence_s_robbins,,246.585,249.066,--A general appearance in the forfeiture action?
+1995.95-173,0,15113,anthony_m_kennedy,scotus_justice,249.066,249.307,Yes.
+1995.95-173,0,35022,lawrence_s_robbins,,249.307,253.35,And the question would again be the power of Congress--
+1995.95-173,0,15113,anthony_m_kennedy,scotus_justice,253.35,255.792,"Again, the powers of Congress under the Due Process Clause."
+1995.95-173,0,35022,lawrence_s_robbins,,271.413,281.461,"--Well, again... my general answer is that when Congress does something, obviously they are not constrained by the limitations on inherent powers."
+1995.95-173,0,15084,ruth_bader_ginsburg,scotus_justice,301.292,316.163,"Mr. Robbins, I thought you were not contesting that as far as the forfeiture is concerned Mr. Degen would have to be treated like any other litigant, so if he didn't show up, say, for a deposition, didn't comply with all the discovery requirements, out he goes."
+1995.95-173,0,35022,lawrence_s_robbins,,328.231,351.626,"--Well, we are certainly not suggesting, Justice Ginsburg, that he has some special advantage by being... by virtue of his nonappearance, and so, for example, if there were an appropriate sanction for nonappearance in the forfeiture action, I suppose that if that sanction otherwise comported with the two standards that this Court articulated in Insurance Corporation of Ireland, I suppose he could be appropriately sanctioned, and--"
+1995.95-173,0,15084,ruth_bader_ginsburg,scotus_justice,351.626,360.962,"I thought your case was, he has a right, the right that any litigant would have, to defend the forfeiture proceeding."
+1995.95-173,0,35022,lawrence_s_robbins,,360.962,361.413,--Exactly.
+1995.95-173,0,15084,ruth_bader_ginsburg,scotus_justice,361.413,365.307,He's not stripped of that right because there's a criminal prosecution against him.
+1995.95-173,0,35022,lawrence_s_robbins,,365.307,365.928,Exactly.
+1995.95-173,0,15084,ruth_bader_ginsburg,scotus_justice,365.928,375.153,"But as to the forfeiture proceeding, he would have to comply with all the requirements the court would impose on anyone who's contesting a forfeiture."
+1995.95-173,0,35022,lawrence_s_robbins,,375.153,400.352,"That's absolutely correct, and the only point of departure that I thought I tried to suggest to Your Honor's question is... insofar as the predicate is that if he didn't show up for a deposition he would be automatically subject to have his claim dismissed, I'm not altogether sure that courts can dismiss claims whenever there's any particular violation of a discovery order."
+1995.95-173,0,15049,antonin_scalia,scotus_justice,400.82,402.011,"It's a civil matter, though."
+1995.95-173,0,35022,lawrence_s_robbins,,402.712,402.903,--Exactly.
+1995.95-173,0,15042,david_h_souter,scotus_justice,410.86,435.536,"--What... assuming, even apart from any rule, that the failure to show up made it impossible for the Government to perfect its forfeiture case, perhaps because the material forfeited was in the possession of the defendant, in a case like that, rule or no rule, I take it you would agree that there would be no due process violation in disentitling the person to defend any further."
+1995.95-173,0,35022,lawrence_s_robbins,,435.536,439.668,"--I think... I think that's correct, if I understand the question."
+1995.95-173,0,15141,william_h_rehnquist,scotus_justice,461.971,472.83,"If the district court were to order him to appear in Nevada for a deposition, could he then be served with criminal process in the criminal case?"
+1995.95-173,0,35022,lawrence_s_robbins,,472.83,483.346,"--Oh, I think if he were to appear in response to such an order, I have no doubt that he would be immediately served with process in the criminal case."
+1995.95-173,0,15141,william_h_rehnquist,scotus_justice,483.346,487.12,"And would that be constitutionally objectionable, in your view?"
+1995.95-173,0,35022,lawrence_s_robbins,,487.12,499.277,"Well, the... it would raise a question in my mind, Mr. Chief Justice, if it was done for the purpose of securing his appearance, as a way of sort of going around the extradition case."
+1995.95-173,0,15141,william_h_rehnquist,scotus_justice,499.277,499.958,"Well, suppose it wasn't."
+1995.95-173,0,35022,lawrence_s_robbins,,508.253,511.686,"Well, Your Honor, that... I think the answer is this."
+1995.95-173,0,15049,antonin_scalia,scotus_justice,563.382,574.719,"We've said that that's okay in civil matters, where the reason the person doesn't want to appear generally is that he will be served in other civil cases."
+1995.95-173,0,35022,lawrence_s_robbins,,579.554,580.135,I think that that--
+1995.95-173,0,15049,antonin_scalia,scotus_justice,580.135,582.749,I would think that it's a lot easier to say it for the criminal case.
+1995.95-173,0,35022,lawrence_s_robbins,,584.402,605.756,"--I... well, again, I think the interest of the State is greater, but the question that I was intending to answer is whether a court could say that notwithstanding Rules 28(b) on foreign depositions and Rule 30(b)(7) on telephonic depositions, I'm just not... the judge would be saying in all civil forfeiture actions I'm not going to consider those--"
+1995.95-173,0,15141,william_h_rehnquist,scotus_justice,605.756,618.322,"Well, supposing the district court said, I don't require all civil forfeiture defendants to come to Las Vegas, but I'm going to require you to come to Las Vegas, because I'm exercising my discretion and that's the way I choose to exercise it."
+1995.95-173,0,35022,lawrence_s_robbins,,618.322,640.148,"--I think it is possible that if circumstances warranted that and the judge, you know, gave reasons that satisfy a reviewing court that this was an appropriate exercise of discretion that might be done, but then the further question, if I might, as to whether the violation of that order gives... justifies the sanction, the dispositive sanction of dismissal--"
+1995.95-173,0,15141,william_h_rehnquist,scotus_justice,640.148,643.36,You sound as though your client might be planning to violate such an order.
+1995.95-173,0,35022,lawrence_s_robbins,,643.36,645.572,--No.
+1995.95-173,0,15139,stephen_g_breyer,scotus_justice,666.745,679.684,"In your... I take it for pure purposes we could consider this as a case in which the defendant is happy to send his lawyers, he's happy to comply with every order."
+1995.95-173,0,35022,lawrence_s_robbins,,693.285,693.893,Since--
+1995.95-173,0,15139,stephen_g_breyer,scotus_justice,693.893,694.483,Is that right?
+1995.95-173,0,35022,lawrence_s_robbins,,694.483,696.706,"--Since you're... and actually, it's more than that, Justice Breyer."
+1995.95-173,0,15139,stephen_g_breyer,scotus_justice,699.858,700.539,Yes.
+1995.95-173,0,35022,lawrence_s_robbins,,712.866,713.807,--No question.
+1995.95-173,0,15139,stephen_g_breyer,scotus_justice,713.807,716.468,"You can say, we won't look at your paper, we won't look at the brief, you lose."
+1995.95-173,0,35022,lawrence_s_robbins,,716.468,717.45,"Yes, but that--"
+1995.95-173,0,15139,stephen_g_breyer,scotus_justice,717.45,717.68,All right.
+1995.95-173,0,35022,lawrence_s_robbins,,720.201,725.617,"--Well, I draw exactly the line that this Court has drawn in that exact... in those very cases."
+1995.95-173,0,15139,stephen_g_breyer,scotus_justice,741.098,745.302,"When I say, what line are you drawing, after all, there are a lot of intermediate cases."
+1995.95-173,0,35022,lawrence_s_robbins,,750.254,753.377,--I believe that the answer to that is yes.
+1995.95-173,0,15139,stephen_g_breyer,scotus_justice,754.278,763.124,"If, in fact, the judge wants to levy a fine, and he wants to produce one piece of paper which will show he has no money, does the judge have to look at that piece of paper?"
+1995.95-173,0,35022,lawrence_s_robbins,,763.124,770.259,"--Well, again, these are cases in which the sanction is being imposed in the very proceeding in which the--"
+1995.95-173,0,15139,stephen_g_breyer,scotus_justice,770.259,773.233,"No, I'm asking you for your... I mean, you're absolutely right that's where I'm driving."
+1995.95-173,0,35022,lawrence_s_robbins,,794.09,821.958,"--Well, one distinction is that it doesn't turn so much on the forfeiture of property as it does on the fact that there are two different proceedings, and in the forfeiture proceeding there is no showing that the fugitivity has any impact, has had any impact on the process of the forfeiture court, which is, of course, exactly the distinction that persuaded this court in Ortega-Rodriguez to draw the line where it did."
+1995.95-173,0,15060,john_paul_stevens,scotus_justice,831.045,832.537,"Mr. Robbins, may I ask you a question?"
+1995.95-173,0,35022,lawrence_s_robbins,,839.362,841.475,I've heard such an argument may be made.
+1995.95-173,0,15060,john_paul_stevens,scotus_justice,841.475,841.805,You've heard such an argument.
+1995.95-173,0,35022,lawrence_s_robbins,,851.601,852.723,Well--
+1995.95-173,0,15060,john_paul_stevens,scotus_justice,852.723,857.936,"--which is the heart of your argument, that we should ignore the criminal case and just look at what can be done in the civil case?"
+1995.95-173,0,35022,lawrence_s_robbins,,857.936,862.628,"--Well, I contend that they are separate proceedings, of course."
+1995.95-173,0,15060,john_paul_stevens,scotus_justice,862.628,865.711,And it's constitutionally permissible for us to treat them as separate proceedings.
+1995.95-173,0,35022,lawrence_s_robbins,,865.711,874.516,"Well, I think it is constitutionally permissible to treat them as separate proceedings and, indeed, they are separate proceedings, but even--"
+1995.95-173,0,15049,antonin_scalia,scotus_justice,874.516,879.611,"Even if not, you would say that if they are brought as separate proceedings they have to be treated as separate proceedings."
+1995.95-173,0,35022,lawrence_s_robbins,,879.611,880.082,"--Exactly, and the--"
+1995.95-173,0,15049,antonin_scalia,scotus_justice,880.082,881.173,"That's not a very irrational position, is it?"
+1995.95-173,0,35022,lawrence_s_robbins,,881.173,905.84,"--And the inquiry would... and the inquiry would still be, has the fugitivity in case one affected the proceedings in case two, and my general answer is that if the answer is no, it doesn't meet Ortega-Rodriguez, it is nothing like any disentitlement case this Court has ever approved, it serves none of the purposes... none of the purposes... that this Court identified in Ortega-Rodriguez."
+1995.95-173,0,15084,ruth_bader_ginsburg,scotus_justice,935.37,967.871,"Mr. Robbins, in answer to Justice Scalia's question about the special or general appearance, you indicated that that was right that a State could say, either you stay out and forfeit whatever we have, or you come in for all purposes, but my understanding is that on the Federal side if the property is in the custody of the court, you could make a limited appearance and say, I'm coming in for purposes of defending my property, but nothing else that I own is going to be subject to the court's authority."
+1995.95-173,0,35022,lawrence_s_robbins,,974.556,981.542,"Well, I'm actually not certain whether Mr. Degen could have entered a limited appearance."
+1995.95-173,0,15084,ruth_bader_ginsburg,scotus_justice,985.325,986.887,"Well, that's what a limited appearance is."
+1995.95-173,0,35022,lawrence_s_robbins,,991.692,997.248,"--Correct, which is, of course, the only thing that can be subject to the forfeiture judgment."
+1995.95-173,0,15049,antonin_scalia,scotus_justice,1008.615,1028.99,"And I guess the actual parallel in the State civil case anyway would not be whether you subject yourself to general counterclaims or whatnot that are relevant to that suit, but rather, I guess the parallel would be a State that says if you make even a special appearance in one case you are liable to being sued in separate cases."
+1995.95-173,0,35022,lawrence_s_robbins,,1029.992,1036.005,"Well, exactly, and actually this is actually to me a more dramatic example of that for the following reason."
+1995.95-173,0,15113,anthony_m_kennedy,scotus_justice,1072.4,1080.557,Could the judge decline to give the usual weight and credit to the sworn affidavit because of the defendant's absence?
+1995.95-173,0,35022,lawrence_s_robbins,,1085.823,1095.897,"I think the answer, Justice Kennedy, is that there... is that it's possible the court could do that, saying, look, I didn't get to test his demeanor--"
+1995.95-173,0,15113,anthony_m_kennedy,scotus_justice,1095.897,1097.96,"It's not only possible, is it permissible?"
+1995.95-173,0,35022,lawrence_s_robbins,,1097.96,1104.853,"--I think it is permissible, and after all, it's important to bear in mind Mr. Degen bears the burden of proof."
+1995.95-173,0,15049,antonin_scalia,scotus_justice,1128.91,1131.063,Maybe it isn't that separate a case.
+1995.95-173,0,35022,lawrence_s_robbins,,1149.126,1156.262,"I don't think so, any more than the court was inclined to consider the two stages of Ortega-Rodriguez the same case."
+1995.95-173,0,15049,antonin_scalia,scotus_justice,1171.923,1185.603,"Well, but that had to do with the fact that the appellate proceedings did not relate to the same court, that they didn't have to do with an offense to the dignity of the same court, and therefore couldn't be within the inherent powers of that court."
+1995.95-173,0,35022,lawrence_s_robbins,,1185.603,1185.791,Well--
+1995.95-173,0,15049,antonin_scalia,scotus_justice,1185.791,1186.802,But here it is the same court.
+1995.95-173,0,35022,lawrence_s_robbins,,1186.802,1198.62,"--Well, it is the same court, but it's the same court with respect to a different case, and the inquiry, I thought, in Ortega-Rodriguez is whether the appellate process... that was certainly one of the factors."
+1995.95-173,0,15049,antonin_scalia,scotus_justice,1203.773,1206.985,Because it was only the appellate process that was the business of that court.
+1995.95-173,0,35022,lawrence_s_robbins,,1206.985,1209.058,"--I understand, but I think--"
+1995.95-173,0,15049,antonin_scalia,scotus_justice,1209.058,1213.48,It had to do with the identity of courts rather than the absolute identity of lawsuits.
+1995.95-173,0,35022,lawrence_s_robbins,,1213.48,1231.144,"--I understand, but I think it remains the case that Federal courts... even if it happens to be the same judge, I do not understand any of this Court's cases to permit the sanctioning of a litigant who happens to be before the same judge in another case, even if it's related cases."
+1995.95-173,0,15113,anthony_m_kennedy,scotus_justice,1295.365,1295.656,"Well, could--"
+1995.95-173,0,35022,lawrence_s_robbins,,1295.656,1297.158,That strikes me as quite extraordinary.
+1995.95-173,0,15113,anthony_m_kennedy,scotus_justice,1297.158,1302.541,"--Do those who are assisting him in remaining abroad, couldn't they be liable for harboring a fugitive?"
+1995.95-173,0,35022,lawrence_s_robbins,,1302.541,1304.333,"I... oh, I--"
+1995.95-173,0,15113,anthony_m_kennedy,scotus_justice,1304.333,1309.619,Forget the extraterritoriality aspect of it so far as the forum.
+1995.95-173,0,35022,lawrence_s_robbins,,1312.703,1338.279,"--Well, I think if there were questions of concealment and harboring, if that were true, there might be criminal sanctions attached to the persons doing it, but Justice Kennedy, it must be said Mr. Degen is so far from being harbored that it was not difficult for the United States Government to prevail upon the Swiss to arrest him and toss him in jail, where he lingered for nearly 2 years."
+1995.95-173,0,15139,stephen_g_breyer,scotus_justice,1338.279,1339.258,--But is that the case now?
+1995.95-173,0,35022,lawrence_s_robbins,,1340.81,1341.401,He is on--
+1995.95-173,0,15139,stephen_g_breyer,scotus_justice,1341.401,1345.064,"That is, on that part of it, is it... is there a dispute with the Government over what happened?"
+1995.95-173,0,35022,lawrence_s_robbins,,1353.83,1355.122,--I am--
+1995.95-173,0,15139,stephen_g_breyer,scotus_justice,1355.122,1366.248,"Are we dealing with the case of a person who could not show up because he was in prison because the Swiss authorities acted on American request, or not, or what is the status of that?"
+1995.95-173,0,35022,lawrence_s_robbins,,1366.248,1367.77,--The status is that he is out on bail.
+1995.95-173,0,15084,ruth_bader_ginsburg,scotus_justice,1381.739,1382.988,He hasn't been tried yet in Switzerland?
+1995.95-173,0,35022,lawrence_s_robbins,,1382.988,1383.479,"--No, he's not."
+1995.95-173,0,15092,sandra_day_oconnor,scotus_justice,1392.876,1402.042,"Mr. Robbins, did the petitioner raise in district court the claim that the Swiss arrest ended his fugitive status?"
+1995.95-173,0,35022,lawrence_s_robbins,,1402.042,1408.736,"Well, the Swiss arrest came in, I believe, November of 1992."
+1995.95-173,0,15092,sandra_day_oconnor,scotus_justice,1411.868,1415.001,So it was not raised in the district court because it hadn't occurred.
+1995.95-173,0,35022,lawrence_s_robbins,,1415.001,1415.582,That's correct.
+1995.95-173,0,15141,william_h_rehnquist,scotus_justice,1423.358,1424.68,"Very well, Mr. Robbins."
+1995.95-173,1,35754,miguel_a_estrada,,1426.863,1435.97,"Thank you, Mr. Chief Justice, and may it please the Court:"
+1995.95-173,1,15141,william_h_rehnquist,scotus_justice,1473.325,1478.819,You say the defendant's participation in the civil forfeiture threatens the criminal case?
+1995.95-173,1,35754,miguel_a_estrada,,1478.819,1482.533,"--Yes, Mr. Chief Justice, and that is, in fact, our principal argument here."
+1995.95-173,1,15141,william_h_rehnquist,scotus_justice,1524.3,1530.023,But couldn't that be dealt with by a judge administering the civil discovery rules?
+1995.95-173,1,35754,miguel_a_estrada,,1530.023,1544.562,"That is not true, Mr. Chief Justice, with respect, and in order to understand why, it is useful to note why it is that we have limited criminal discovery in our society."
+1995.95-173,1,15060,john_paul_stevens,scotus_justice,1562.945,1570.932,"But Mr. Estrada, wouldn't that be possible even if he appeared in the criminal case, that he could use civil discovery in the forfeiture case to find out the same information?"
+1995.95-173,1,35754,miguel_a_estrada,,1570.932,1573.923,"--That is not so, Mr. Justice Stevens, for the following reason."
+1995.95-173,1,15060,john_paul_stevens,scotus_justice,1592.637,1594.169,"Well, why couldn't they have done that in this case?"
+1995.95-173,1,35754,miguel_a_estrada,,1594.169,1614.261,"Well, I take it that if we had done that in this case, Mr. Justice Stevens, the net... the result would have been that we couldn't get any judgment in the civil forfeiture action because the criminal case can't start while Mr. Degen is in Switzerland."
+1995.95-173,1,15042,david_h_souter,scotus_justice,1614.261,1616.134,So it boils down to a question of money.
+1995.95-173,1,35754,miguel_a_estrada,,1618.137,1619.346,"Well, no."
+1995.95-173,1,15042,david_h_souter,scotus_justice,1622.528,1624.03,Which is to get the money.
+1995.95-173,1,35754,miguel_a_estrada,,1624.03,1648.107,"--Which is to get the money without having to compromise the integrity of the criminal process, and since we are not at fault for the fact that he's in Switzerland, we think that it is a reasonable exercise of the court's authority to have a very simple procedural rule in the civil case that says that if you want to file a claim in the civil case you should come and face the related criminal charges."
+1995.95-173,1,15092,sandra_day_oconnor,scotus_justice,1648.107,1648.999,That's--
+1995.95-173,1,35754,miguel_a_estrada,,1660.054,1663.697,"For as long as he lives, Mr.... Justice O'Connor."
+1995.95-173,1,15092,sandra_day_oconnor,scotus_justice,1663.697,1673.765,"All right, and presumably the Government could stay the civil forfeiture and put a hold, in effect, on any transfer of title the property."
+1995.95-173,1,35754,miguel_a_estrada,,1678.209,1681.012,"Well, the Government has lost its right to the property."
+1995.95-173,1,15049,antonin_scalia,scotus_justice,1689.27,1694.506,"Well, it seems to me that the... it isn't as though the Congress hasn't addressed this problem."
+1995.95-173,1,35754,miguel_a_estrada,,1708.264,1711.358,"There are two points in answer to that question, Justice Scalia."
+1995.95-173,1,15141,william_h_rehnquist,scotus_justice,1745.573,1748.737,"Well, there's no finding here, Mr. Estrada, that the petitioner is a fugitive."
+1995.95-173,1,35754,miguel_a_estrada,,1748.737,1751.828,"Well, yes, there is, Mr. Chief Justice."
+1995.95-173,1,15141,william_h_rehnquist,scotus_justice,1768.057,1771.289,Whereabouts on page... you're talking about the white--
+1995.95-173,1,35754,miguel_a_estrada,,1771.289,1772.03,--Yes.
+1995.95-173,1,15141,william_h_rehnquist,scotus_justice,1795.408,1798.008,"--In that sense of the word, I take it."
+1995.95-173,1,35754,miguel_a_estrada,,1798.008,1804.543,"Right, in that sense of the word, and that is the sense of the word that is relevant to the application of the sanction at issue here."
+1995.95-173,1,15084,ruth_bader_ginsburg,scotus_justice,1837.8,1838.148,If he does--
+1995.95-173,1,35754,miguel_a_estrada,,1838.148,1838.739,--in the discovery rule.
+1995.95-173,1,15084,ruth_bader_ginsburg,scotus_justice,1838.739,1844.922,"--If he does, why not handle it at that stage instead of saying you... you're at total default."
+1995.95-173,1,35754,miguel_a_estrada,,1876.137,1881.419,"Well, there are two different points being raised by your question, as I understand it, Justice Ginsburg."
+1995.95-173,1,15084,ruth_bader_ginsburg,scotus_justice,1943.166,1952.034,"But Mr. Estrada, suppose the defendant says, I don't want to face a total forfeiture, and I realize this argument you're making."
+1995.95-173,1,35754,miguel_a_estrada,,1976.072,1976.392,I don't--
+1995.95-173,1,15084,ruth_bader_ginsburg,scotus_justice,1976.392,1977.334,--Yes.
+1995.95-173,1,35754,miguel_a_estrada,,1977.334,1980.804,"--I mean, let me make two points in response to that question."
+1995.95-173,1,15084,ruth_bader_ginsburg,scotus_justice,2016.648,2023.584,Are you saying there are no circumstances in which he could defend that would not involve disclosing the Government's case?
+1995.95-173,1,35754,miguel_a_estrada,,2023.584,2025.184,"--No, I am not saying that."
+1995.95-173,1,15042,david_h_souter,scotus_justice,2038.343,2042.936,"Well, why in the example that you just gave does that example support you?"
+1995.95-173,1,35754,miguel_a_estrada,,2071.656,2073.436,And we have a legal right to it.
+1995.95-173,1,15042,david_h_souter,scotus_justice,2073.436,2101.485,"--But the fact is, in each instance what it comes down to is not your incapacity to defend your own position, and not your incapacity, in effect, to meet the evidentiary position that you feel is unfairly being foisted upon you, but rather, it comes down in every instance to the fact that you want the property now rather than the property at some later time when the two proceedings could be dealt with in an orderly fashion."
+1995.95-173,1,35754,miguel_a_estrada,,2107.481,2119.277,"Well, it boils down to the fact that under the act of Congress that we have at issue here, we have a right to the money, and that there is no foreseeable time in the future at which the two proceedings can be dealt with in an orderly fashion."
+1995.95-173,1,15139,stephen_g_breyer,scotus_justice,2119.277,2128.684,"But you don't hold the same in respect to misrepresentation cases, restitution cases, fraud cases, dozens of other cases in which the Government might have civil remedies."
+1995.95-173,1,35754,miguel_a_estrada,,2132.757,2140.913,What we would say is that courts would have authority to frame the rules that would keep the public interest from being harmed as a result of an early--
+1995.95-173,1,15139,stephen_g_breyer,scotus_justice,2140.913,2142.393,"And the same, then, here."
+1995.95-173,1,35754,miguel_a_estrada,,2143.755,2146.168,"--Well, that's right, and this is such a rule, and that's our point."
+1995.95-173,1,15139,stephen_g_breyer,scotus_justice,2146.168,2155.563,"But isn't there a difference between a rule that says, you can't present... have certain discovery, present certain defenses, that's what people are asking you, and a rule that says, you can't come into court at all."
+1995.95-173,1,35754,miguel_a_estrada,,2157.876,2177.258,"Well, the rule was used by the district court in this case, Justice Breyer, is the rule saying if you want to defend the civil forfeiture action, you have first to face the criminal charges, and the district court was quite clear... and, in fact, I could point the Court to the top of page 26a of the pet app.--"
+1995.95-173,1,15141,william_h_rehnquist,scotus_justice,2186.095,2197.453,"Isn't one of the Government's possible losses if the petitioner's suggestion... the same thing that a statute of limitations would provide, witnesses' recollections get stale--"
+1995.95-173,1,35754,miguel_a_estrada,,2197.453,2197.924,--That's right.
+1995.95-173,1,15141,william_h_rehnquist,scotus_justice,2197.924,2205.538,"--If the thing is brought to trial 8 years from now, the Government may have had a good case now, but the witnesses may not be around, they may have died in the meantime."
+1995.95-173,1,35754,miguel_a_estrada,,2205.538,2225.47,"And that is true both in the criminal case and in the civil case, and I think it leads me to a further point that I wanted to make in response to Justice Souter, which is that we can readily concede for purposes of this case that there is no legally enforceable duty to show up in the criminal case that flows from the criminal case itself."
+1995.95-173,1,15042,david_h_souter,scotus_justice,2237.458,2242.731,"Well, if he has no obligation to show up, I suppose the societal value is even Steven."
+1995.95-173,1,35754,miguel_a_estrada,,2244.433,2251.757,"Well, that is not so, because we have a duly returned indictment, and we have a--"
+1995.95-173,1,15042,david_h_souter,scotus_justice,2251.757,2254.74,Then why don't we have a set of rules that obligates him to show up.
+1995.95-173,1,35754,miguel_a_estrada,,2257.274,2283.262,"--No, I said that it is not significant for our case in this case to show that he has a legal duty that flows from the criminal case, but what is at issue here is whether the court in the orderly process of the civil case may have a rule to protect the civil case processes from being misused in the criminal case, and it is equally true, for example, that there is no legal duty to... let's say, for example--"
+1995.95-173,1,15060,john_paul_stevens,scotus_justice,2283.262,2288.355,"Yes, but Mr. Estrada, by hypothesis you're assuming you can never compel him to come to the United States, is that correct?"
+1995.95-173,1,35754,miguel_a_estrada,,2288.355,2289.727,--Well--
+1995.95-173,1,15060,john_paul_stevens,scotus_justice,2289.727,2292.907,Other than by this... by using the civil procedure to do so.
+1995.95-173,1,35754,miguel_a_estrada,,2312.612,2313.163,--But he doesn't--
+1995.95-173,1,15060,john_paul_stevens,scotus_justice,2313.163,2315.046,You still end up with exactly the same result.
+1995.95-173,1,35754,miguel_a_estrada,,2315.046,2319.988,"--But he does not have the right to buy his way out of a criminal indictment either, and he has no right--"
+1995.95-173,1,15060,john_paul_stevens,scotus_justice,2319.988,2321.6,"He's not buying his way out of it, he's just staying in Switzerland."
+1995.95-173,1,35754,miguel_a_estrada,,2321.6,2346.819,"--No, the difference is, Justice Stevens, that we're entitled to the expectation that if we ever get our hands on him we're going to put him in a U.S. jail, where we think he belongs, and under your view of the facts what would really happen is that we would be entitled, as of now, to say $5 million only if we're ready to give up for good the hope of ever bringing someone to justice who spent the better life of his--"
+1995.95-173,1,15060,john_paul_stevens,scotus_justice,2346.819,2347.069,You haven't given it up for good.
+1995.95-173,1,35754,miguel_a_estrada,,2356.015,2357.157,"--Right, and that is--"
+1995.95-173,1,15060,john_paul_stevens,scotus_justice,2357.157,2360.399,The tactical advantage in the criminal case may or may not be all that important.
+1995.95-173,1,35754,miguel_a_estrada,,2360.399,2367.415,"--It is not a tactical advantage, and I understand that it is possible to have different views on the value of criminal discovery, Justice Stevens, but--"
+1995.95-173,1,15060,john_paul_stevens,scotus_justice,2367.415,2368.245,He's not getting any discovery.
+1995.95-173,1,35754,miguel_a_estrada,,2375.921,2377.412,--And we did that.
+1995.95-173,1,15060,john_paul_stevens,scotus_justice,2385.309,2385.539,"Oh, but you are."
+1995.95-173,1,35754,miguel_a_estrada,,2388.841,2389.151,"--No, we're not."
+1995.95-173,1,15060,john_paul_stevens,scotus_justice,2390.884,2394.585,"Well, if you've made the prima facie showing, why haven't you already disclosed your case, then?"
+1995.95-173,1,35754,miguel_a_estrada,,2394.585,2418.311,"--Because we can make a prima facie showing by a verified complaint in an affidavit that shows probable cause, which under the forfeiture laws then shifts to him the burden of proving a lawful source for the funds, but it is not our view that we can come into the court without making a prima facie showing under the forfeiture laws and get a judgment."
+1995.95-173,1,15042,david_h_souter,scotus_justice,2419.372,2424.696,"So it boils down to your fear that you would open the door to criminal discovery, then."
+1995.95-173,1,35754,miguel_a_estrada,,2424.696,2425.147,--Well--
+1995.95-173,1,15042,david_h_souter,scotus_justice,2425.147,2426.639,That's your real fear here.
+1995.95-173,1,35754,miguel_a_estrada,,2426.639,2429.37,--Well... yes.
+1995.95-173,1,15042,david_h_souter,scotus_justice,2429.37,2433.104,"You answered a question about that before, and I'm not sure that I understood your answer."
+1995.95-173,1,35754,miguel_a_estrada,,2462.347,2467.3,"Because, as I think I indicated earlier, that only pushes the problem one further step."
+1995.95-173,1,15042,david_h_souter,scotus_justice,2483.733,2485.265,So it's not a discovery issue then.
+1995.95-173,1,35754,miguel_a_estrada,,2497.348,2497.628,--No--
+1995.95-173,1,15042,david_h_souter,scotus_justice,2497.628,2499.278,It's not discovery.
+1995.95-173,1,35754,miguel_a_estrada,,2500.26,2502.891,"--We are happy... well, yes and no."
+1995.95-173,1,15042,david_h_souter,scotus_justice,2513.316,2514.048,"No, no, we realize--"
+1995.95-173,1,35754,miguel_a_estrada,,2514.048,2514.979,--the criminal jurisdiction.
+1995.95-173,1,15042,david_h_souter,scotus_justice,2514.979,2525.685,"--No, I realize you're happy in that case, but what it boils down to, though, it seems to me, though, is that as you say, it's not really that we can't protect... we, the Government, cannot protect ourselves in discovery."
+1995.95-173,1,35754,miguel_a_estrada,,2536.174,2542.0,I don't think that that's an entirely fair recharacterization of what I said.
+1995.95-173,1,15042,david_h_souter,scotus_justice,2542.0,2542.378,"Well then, help me out again."
+1995.95-173,1,35754,miguel_a_estrada,,2542.378,2551.774,"I think we're happy to make a prima facie showing, and we're happy to have a full-blown trial, if we are sure that we will not be endangering the criminal prosecution."
+1995.95-173,1,15042,david_h_souter,scotus_justice,2553.517,2554.628,"Well, you're not endangering it."
+1995.95-173,1,35754,miguel_a_estrada,,2563.956,2585.34,"--Yes, but what I also mean is that the reason for the rules on criminal discovery is that what often happens when we have it is that we have obstruction of justice and witness intimidation and contrived testimony, and that the judgment of the rules being as strict as they are, and they do reflect a public policy, is that the danger of that happening cannot effectively be controlled on a case-by-case basis."
+1995.95-173,1,15113,anthony_m_kennedy,scotus_justice,2598.22,2602.815,So this doesn't sound like it's a rule of the trial court's discretion.
+1995.95-173,1,35754,miguel_a_estrada,,2602.815,2609.56,"Well, it is in the sense, Justice Kennedy, that the district court retains discretion in every case."
+1995.95-173,1,15113,anthony_m_kennedy,scotus_justice,2612.853,2620.539,"But from all you have said, I presume that it would have been an abuse of discretion for the trial judge not to entertain your motion--"
+1995.95-173,1,35754,miguel_a_estrada,,2620.539,2622.359,--In an ordinary case?
+1995.95-173,1,15113,anthony_m_kennedy,scotus_justice,2622.359,2622.749,--to disentitle him here.
+1995.95-173,1,35754,miguel_a_estrada,,2622.749,2634.887,"In an ordinary case, that would probably be true, especially with charges... with criminal charges of the nature that is at issue here."
+1995.95-173,1,15113,anthony_m_kennedy,scotus_justice,2634.887,2658.503,"If we have that rule, I suppose we're telling all other countries in, at least countries with an open judicial system, that if there is a criminal charge filed against a United States national living in the United States that person's property can be forfeited if the person doesn't go to the foreign country to answer their charges."
+1995.95-173,1,35754,miguel_a_estrada,,2658.503,2663.718,"I'm not sure that I understand your question, Justice Kennedy."
+1995.95-173,1,15113,anthony_m_kennedy,scotus_justice,2663.718,2679.929,"Well, you're asking us to adopt a rule that a foreign national must come here to defend against... well, or a person with dual nationality must come here to defend a criminal charge or he's going to lose his property automatically."
+1995.95-173,1,35754,miguel_a_estrada,,2679.929,2680.73,I--
+1995.95-173,1,15113,anthony_m_kennedy,scotus_justice,2680.73,2682.701,And I suppose it works the other way around.
+1995.95-173,1,35754,miguel_a_estrada,,2682.701,2698.182,--I think that it would be fair to say that we do say that the interest of the court in the civil case to guard against the misuse of its processes are strong enough to warrant a rule telling somebody that he should come meet criminal charges.
+1995.95-173,1,15049,antonin_scalia,scotus_justice,2698.182,2705.278,"Of course, that's no problem if we're worried about foreign countries copying us and thereby prejudicing American citizens."
+1995.95-173,1,35754,miguel_a_estrada,,2709.281,2711.211,"In absentia, that's correct, Justice Scalia."
+1995.95-173,1,15049,antonin_scalia,scotus_justice,2711.211,2713.114,--The situation is already worse than that.
+1995.95-173,1,35754,miguel_a_estrada,,2713.114,2715.015,"Unfortunately, yes."
+1995.95-173,1,15060,john_paul_stevens,scotus_justice,2715.015,2717.936,"You would take the same position even if he were not an American citizen, wouldn't you?"
+1995.95-173,1,35754,miguel_a_estrada,,2717.936,2718.507,Yes.
+1995.95-173,1,15060,john_paul_stevens,scotus_justice,2718.507,2719.018,Yes.
+1995.95-173,1,35754,miguel_a_estrada,,2719.018,2724.842,"In respect... as that justification goes, that is true."
+1995.95-173,1,15084,ruth_bader_ginsburg,scotus_justice,2732.576,2745.075,"Then with respect to that, don't you have authority, or couldn't an authority be exercised over him if Congress so chose that could not be exercised over someone who's not a citizen, and there is the old Blackmer case."
+1995.95-173,1,35754,miguel_a_estrada,,2745.075,2745.536,--That's correct.
+1995.95-173,1,15084,ruth_bader_ginsburg,scotus_justice,2745.536,2752.55,"There is authority to call back our citizens to answer for charges here, but that kind of subpoena wasn't sent to him, was it?"
+1995.95-173,1,35754,miguel_a_estrada,,2752.55,2769.082,"It was not sent to him to be a witness in the criminal case, and I think that the relevance of the Blackmer case here is that it shows that the United States as a sovereign has the right to have a rule that calls them back to this country to respond to court process."
+1995.95-173,1,15049,antonin_scalia,scotus_justice,2769.894,2773.306,"Mr. Estrada, tell us about fugitives from justice."
+1995.95-173,1,35754,miguel_a_estrada,,2781.042,2785.226,"--Well, I think it is a... yes, but I think we think of it--"
+1995.95-173,1,15049,antonin_scalia,scotus_justice,2785.226,2785.606,"It's not a separate crime, though."
+1995.95-173,1,35754,miguel_a_estrada,,2785.606,2786.116,--as a civic duty.
+1995.95-173,1,15049,antonin_scalia,scotus_justice,2786.116,2789.309,It's not a separate crime to be a fugitive from justice.
+1995.95-173,1,35754,miguel_a_estrada,,2789.309,2790.341,It is--
+1995.95-173,1,15049,antonin_scalia,scotus_justice,2790.341,2791.7,Perhaps because there's no use in it.
+1995.95-173,1,35754,miguel_a_estrada,,2794.314,2795.405,"--Well, right."
+1995.95-173,1,15049,antonin_scalia,scotus_justice,2797.558,2797.988,The only purpose of such a statute would make him a fugitive from two crimes.
+1995.95-173,1,35754,miguel_a_estrada,,2797.988,2800.24,"Well, I mean, there's no point."
+1995.95-173,1,15049,antonin_scalia,scotus_justice,2800.24,2805.275,I guess you could have another statute making it a crime not to end your fugitive status.
+1995.95-173,1,35754,miguel_a_estrada,,2807.929,2808.329,Well--
+1995.95-173,1,15060,john_paul_stevens,scotus_justice,2808.329,2820.28,"Well, but also you'd say the Government could take... Congress could pass a statute saying that anyone who's been indicted and who does not appear in due course without... all his property may be forfeited, period."
+1995.95-173,1,35754,miguel_a_estrada,,2820.28,2821.168,--Do I say that?
+1995.95-173,1,15060,john_paul_stevens,scotus_justice,2821.168,2821.579,Yes.
+1995.95-173,1,35754,miguel_a_estrada,,2821.579,2834.077,Subject to the qualification that I think flows from some of these courts' due process cases that he be shown to have had notice and that it was possible in fact for him to come.
+1995.95-173,1,15060,john_paul_stevens,scotus_justice,2845.016,2846.586,Subject to notice and ability to appear.
+1995.95-173,1,35754,miguel_a_estrada,,2846.586,2846.826,--Yes.
+1995.95-173,1,15060,john_paul_stevens,scotus_justice,2846.826,2847.407,If you could prove that--
+1995.95-173,1,35754,miguel_a_estrada,,2847.407,2847.698,Yes.
+1995.95-173,1,15139,stephen_g_breyer,scotus_justice,2847.698,2851.26,"--Is there any international norm on that, did you find?"
+1995.95-173,1,35754,miguel_a_estrada,,2851.26,2851.56,"On what, Justice Breyer?"
+1995.95-173,1,15139,stephen_g_breyer,scotus_justice,2851.56,2861.878,"Any international norm about whether country anywhere in the world can say to all citizens of the world once we file a criminal indictment against you, you have to travel here, no matter how far, and if you don't, you lose all your property."
+1995.95-173,1,35754,miguel_a_estrada,,2861.878,2862.779,I don't--
+1995.95-173,1,15139,stephen_g_breyer,scotus_justice,2862.779,2864.341,Is that ever... did you look that up at all?
+1995.95-173,1,35754,miguel_a_estrada,,2864.341,2864.581,--No.
+1995.95-173,1,15113,anthony_m_kennedy,scotus_justice,2905.818,2916.416,"Would the same rule apply if a victim sued in the district of Nevada for harm caused by an absent defendant based on a crime in the indictment, an assault, say?"
+1995.95-173,1,35754,miguel_a_estrada,,2916.416,2924.4,"Based on a crime in the indictment such that the same concern about the early disclosure of the Government's case would apply, yes."
+1995.95-173,1,15113,anthony_m_kennedy,scotus_justice,2924.4,2931.306,"And I take it on a long arm statute there'd be jurisdiction so that that judgment would be enforceable personally against the defendant, I suppose."
+1995.95-173,1,35754,miguel_a_estrada,,2931.306,2931.546,That's right.
+1995.95-173,1,15113,anthony_m_kennedy,scotus_justice,2931.546,2933.657,Automatic liability.
+1995.95-173,1,35754,miguel_a_estrada,,2934.177,2934.468,Well--
+1995.95-173,1,15113,anthony_m_kennedy,scotus_justice,2934.468,2935.519,--If there's a prima facie case.
+1995.95-173,1,35754,miguel_a_estrada,,2935.519,2936.749,--It is not... it is--
+1995.95-173,1,15113,anthony_m_kennedy,scotus_justice,2936.749,2939.381,If there is a prima face case.
+1995.95-173,1,35754,miguel_a_estrada,,2939.381,2978.116,"--If there is a prima face case, and he wishes to dispute the case, there's a reasonable procedural rule to say we have such a strong interest in protecting the integrity of the related case that we will require you to come face the music in that case as a condition to maintaining your civil action, which is no different from having filing fees or timing requirements on when you file your brief, although which are predicated on the notion that these are simple rules with which a litigant can comply and that serve usefully the purpose of allowing the court in the civil case to conduct orderly, fair, and expeditious litigation."
+1995.95-173,1,15084,ruth_bader_ginsburg,scotus_justice,2978.116,2992.585,"Mr. Estrada, what is the difference... what does the Government lose when it has the funds in the court, what can't it do that it could do if the forfeiture had gone through as you're urging?"
+1995.95-173,1,35754,miguel_a_estrada,,2992.585,3001.541,"Well, under the view of the other side, we can't get the funds into the U.S. Treasury where we think they belong."
+1995.95-173,1,15084,ruth_bader_ginsburg,scotus_justice,3001.541,3003.314,But you can put them in an interest-bearing account.
+1995.95-173,1,35754,miguel_a_estrada,,3003.314,3006.786,"And to wait... what, Justice Ginsburg?"
+1995.95-173,1,15049,antonin_scalia,scotus_justice,3022.287,3025.439,"Well, he'll probably die before the Government does."
+1995.95-173,1,35754,miguel_a_estrada,,3027.763,3028.153,--Yes.
+1995.95-173,1,15049,antonin_scalia,scotus_justice,3028.153,3030.244,At that point you go ahead with the civil case.
+1995.95-173,1,35754,miguel_a_estrada,,3032.507,3036.03,"But we're entitled to it now, and--"
+1995.95-173,1,15084,ruth_bader_ginsburg,scotus_justice,3038.321,3055.852,"My question is, that's... is there something concrete, that's different about saying, we're entitled to it now, and saying we've got the principal in the bank and we're getting interest on it, and so we're getting the time value, we're getting... we're not getting the principal, but we're getting the interest?"
+1995.95-173,1,35754,miguel_a_estrada,,3055.852,3090.274,"--I understand the point of your question, and I would say that I suppose that is a form of a compromise that has as much grounding in the court's inherent authority as the more easily manageable rule that we have here, and since we are not the people at fault, and since by statute we are also entitled to the principal, it seems to me that as between the choice of two reasonable rules that accomplish a purpose, we're entitled to that one that gives us our statutory rights."
+1995.95-173,1,15060,john_paul_stevens,scotus_justice,3090.274,3093.336,"Yes, but you're entitled to it if you can prove it, but you want to get it without proving it."
+1995.95-173,1,35754,miguel_a_estrada,,3093.336,3096.05,We have proven our entitlement to the money--
+1995.95-173,1,15060,john_paul_stevens,scotus_justice,3096.05,3096.752,Well--
+1995.95-173,1,35754,miguel_a_estrada,,3096.752,3108.9,--and all we're looking to see is that in disputing our showing the other party doesn't put us to the choice of giving up our statutory entitlement or giving up the very strong public interest in the integrity of a criminal prosecution.
+1995.95-173,1,15141,william_h_rehnquist,scotus_justice,3110.352,3111.02,"Thank you, Mr. Estrada."
+1995.95-173,2,35022,lawrence_s_robbins,,3113.954,3115.426,"Thank you, Mr. Chief Justice."
+1995.95-173,2,15141,william_h_rehnquist,scotus_justice,3204.954,3206.757,Is Karen Degen in the United States?
+1995.95-173,2,35022,lawrence_s_robbins,,3206.757,3207.267,She is not.
+1995.95-173,2,15141,william_h_rehnquist,scotus_justice,3210.55,3215.202,So a discovery order was entered against her but not against Brian?
+1995.95-173,2,35022,lawrence_s_robbins,,3215.202,3221.367,"Discovery was issued in her favor, but not in Mr. Degen's favor, that's correct, Your Honor."
+1995.95-173,2,15049,antonin_scalia,scotus_justice,3249.934,3257.06,"In that same exchange, what is the argument when you said, I would point out, Your Honor, that Mr. Degen is no longer a claimant in this case, he's merely a witness?"
+1995.95-173,2,35022,lawrence_s_robbins,,3257.06,3278.233,"Well, he'd already been disentitled, so what they were saying is, you know, don't pay any attention to the need to get his evidence because you've already knocked him out of the box, and to the extent that Karen is relying on his unavailability as a reason to extend the summary judgment proceedings, you shouldn't credit his... the need for his testimony."
+1995.95-173,2,15084,ruth_bader_ginsburg,scotus_justice,3321.375,3335.644,"Mr. Robbins, what they did, what they showed is comparable to what a plaintiff would have to show in the case of an ordinary civil default judgment, right, make an ex parte showing of the entitlement to money damages."
+1995.95-173,2,35022,lawrence_s_robbins,,3335.644,3339.028,"Well, that's correct."
+1995.95-173,2,15049,antonin_scalia,scotus_justice,3375.953,3377.486,"Not against the law, you mean not criminal?"
+1995.95-173,2,35022,lawrence_s_robbins,,3377.486,3378.397,--It is not criminal.
+1995.95-173,2,15049,antonin_scalia,scotus_justice,3379.295,3381.857,"I question whether it's not against the law, to fail to appear."
+1995.95-173,2,35022,lawrence_s_robbins,,3381.857,3387.292,"--Well, Your Honor adverted to whether there isn't some other law inherent in the duty of citizenship."
+1995.95-173,2,15141,william_h_rehnquist,scotus_justice,3395.006,3396.128,"Thank you, Mr. Robbins."
+1995.95-173,2,35022,lawrence_s_robbins,,3396.128,3396.308,Thank you.
+1995.95-173,2,15141,william_h_rehnquist,scotus_justice,3396.308,3397.27,The case is submitted.

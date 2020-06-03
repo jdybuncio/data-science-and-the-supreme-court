@@ -1,0 +1,298 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2008.07-773,0,15086,john_g_roberts_jr,scotus_justice,0.0,4.785,We will hear argument next in Vaden v. Discover Bank.
+2008.07-773,0,21319,daniel_r_ortiz,,6.07,19.394,"Thank you, Mr. Chief Justice, and may it please the Court: This case poses two substantive issues: First, whether section 4 of the Federal Arbitration Act impliedly repeals section 1331's ""well-pleaded complaint"" requirement?"
+2008.07-773,0,15086,john_g_roberts_jr,scotus_justice,107.916,115.67,That simply means that you can't bring an action in Federal court because the agreement says you can't.
+2008.07-773,0,21319,daniel_r_ortiz,,125.71,141.487,"Your Honor, the -- those words ""save for such agreement"" were originally intended to refer to the hoary doctrine of ouster, which barred the Federal courts from subject matter jurisdiction in such suits."
+2008.07-773,0,15084,ruth_bader_ginsburg,scotus_justice,149.576,161.967,"Mr. Ortiz, why isn't section 2 of the Arbitration Act sufficient to take care of the ouster doctrine, whatever may have been left of it?"
+2008.07-773,0,21319,daniel_r_ortiz,,161.967,168.704,"Your Honor, section 2 says that an arbitration agreement shall be valid, irrevocable, and enforceable."
+2008.07-773,0,15084,ruth_bader_ginsburg,scotus_justice,185.998,194.169,"I'm not sure that I follow that, because it seems to me -- where did this doctrine of ouster come from?"
+2008.07-773,0,21319,daniel_r_ortiz,,219.804,227.492,"--Your Honor, section 2 by itself would not have made clear that in -- such agreements were enforceable in equity."
+2008.07-773,0,15084,ruth_bader_ginsburg,scotus_justice,266.681,269.264,That may have been the historic model.
+2008.07-773,0,21319,daniel_r_ortiz,,299.486,301.486,"--No, Your Honor."
+2008.07-773,0,15042,david_h_souter,scotus_justice,317.946,322.148,I'm just not getting the -- I have never understood this argument and I still don't understand it now.
+2008.07-773,0,21319,daniel_r_ortiz,,330.021,339.96,"Your Honor, section 2 says that arbitration agreements shall be valid, irrevocable and enforceable, but it does not say how they could be enforced."
+2008.07-773,0,15042,david_h_souter,scotus_justice,339.96,340.693,Exactly.
+2008.07-773,0,21319,daniel_r_ortiz,,358.271,372.162,"Your Honor, if Congress wanted to be very clear that ouster in all of its forms was no longer any kind of issue in enforcing arbitration agreements, it took the extra step in section 4."
+2008.07-773,0,15042,david_h_souter,scotus_justice,372.162,375.78,It -- it made a categorical statement in section 2.
+2008.07-773,0,21319,daniel_r_ortiz,,378.732,388.355,"Well, because, Your Honor, it would be the case that arbitration agreements could be enforceable, but just not enforceable in the way that might be most helpful."
+2008.07-773,0,15042,david_h_souter,scotus_justice,388.355,393.241,"Well, it could be, but why in the world would anyone draw that inference?"
+2008.07-773,0,21319,daniel_r_ortiz,,393.241,400.912,"Your Honor, because there were separate bars at law and equity at the time -- at the time of ouster."
+2008.07-773,0,15049,antonin_scalia,scotus_justice,413.137,421.993,"I have the same problem that Justice Souter does, especially since section 2 refers to equity."
+2008.07-773,0,21319,daniel_r_ortiz,,445.608,457.499,"But that particular section, Justice Scalia, is meant to refer to ordinary State contract doctrines in law and equity, which would make the overall contract unenforceable."
+2008.07-773,0,15049,antonin_scalia,scotus_justice,467.938,468.655,I don't know.
+2008.07-773,0,21319,daniel_r_ortiz,,487.783,495.036,"Your Honor, the Respondents' view also doesn't take into account the other provisions of the Federal Arbitration Act itself."
+2008.07-773,0,15060,john_paul_stevens,scotus_justice,526.825,533.311,"I hate to interrupt you here, but would you explain why the words ""save for such agreement"" cut back on the jurisdiction?"
+2008.07-773,0,21319,daniel_r_ortiz,,535.713,547.005,"--Justice Stevens, the point is that ""save for such agreement"" instructs a court to jump over the historical ouster doctrine."
+2008.07-773,0,15060,john_paul_stevens,scotus_justice,547.005,557.144,"Doesn't it just instruct the court to decide whether, if there were no such agreements, would there be Federal jurisdiction in the underlying dispute?"
+2008.07-773,0,21319,daniel_r_ortiz,,557.144,557.577,Yes.
+2008.07-773,0,15060,john_paul_stevens,scotus_justice,558.461,560.563,So in this case there would be.
+2008.07-773,0,21319,daniel_r_ortiz,,560.563,572.286,"No, Your Honor, because the underlying dispute between the parties in this case is a -- concerns the arbitration agreement, not the underlying bank debt."
+2008.07-773,0,15060,john_paul_stevens,scotus_justice,572.286,583.278,"No, it's not the underlying bank debt, but it is an underlying dispute over which this Federal -- if you had brought your class action as an original case, there would have been Federal jurisdiction."
+2008.07-773,0,21319,daniel_r_ortiz,,583.278,584.794,"Yes, Your Honor."
+2008.07-773,0,15060,john_paul_stevens,scotus_justice,584.794,587.213,So then why doesn't the language read on this case?
+2008.07-773,0,21319,daniel_r_ortiz,,587.213,599.104,"Well, Your Honor, the language in -- the language -- the particular language of section 4 is meant to say, save for such agreement but for the doctrine of ouster, setting aside the ouster doctrine whether there would be--"
+2008.07-773,0,15060,john_paul_stevens,scotus_justice,599.104,601.056,The text says nothing about the ouster doctrine.
+2008.07-773,0,21319,daniel_r_ortiz,,601.056,601.523,--No.
+2008.07-773,0,15060,john_paul_stevens,scotus_justice,604.025,605.958,Rather than literally.
+2008.07-773,0,21319,daniel_r_ortiz,,605.958,618.617,"--Well, literally at the time it would have been understood to refer -- to refer to that, because ouster was the whole problem against which FAA itself was first enacted."
+2008.07-773,0,15086,john_g_roberts_jr,scotus_justice,619.133,621.233,This is a tough -- it's a tough sell.
+2008.07-773,0,21319,daniel_r_ortiz,,639.159,640.076,"--Not quite, Your Honor."
+2008.07-773,0,15086,john_g_roberts_jr,scotus_justice,652.067,653.234,--Of the arbitration agreement?
+2008.07-773,0,21319,daniel_r_ortiz,,653.234,653.836,"Yes, sir."
+2008.07-773,0,15086,john_g_roberts_jr,scotus_justice,674.249,674.582,Right.
+2008.07-773,0,21319,daniel_r_ortiz,,688.407,691.009,"Well, you're not quite looking at the agreement."
+2008.07-773,0,15084,ruth_bader_ginsburg,scotus_justice,708.101,713.422,"You just -- you just used the words ""arising out of the controversy""."
+2008.07-773,0,21319,daniel_r_ortiz,,732.484,736.888,"With all respect, Justice Ginsburg, it's a little bit more complicated than that."
+2008.07-773,0,15068,samuel_a_alito_jr,scotus_justice,793.14,798.611,"In Moses H. Cone, didn't the court say that the controversy was the underlying dispute?"
+2008.07-773,0,21319,daniel_r_ortiz,,798.611,810.752,"Your Honor, that -- this Court, in that footnote 32 of Moses H. Cone, mentioned language that refers to the underlying dispute."
+2008.07-773,0,15086,john_g_roberts_jr,scotus_justice,882.913,889.317,But you do think -- you do think we should look through to determine diversity and the amount in question?
+2008.07-773,0,21319,daniel_r_ortiz,,895.886,913.062,"Your Honor, that seems a somewhat different sense of look through; but, to the extent that ordinary, background 1331 or 1332 principles authorize such look through, that is appropriate in arbitration cases as much as it is appropriate outside of arbitration cases."
+2008.07-773,0,15049,antonin_scalia,scotus_justice,950.104,950.954,Say that again.
+2008.07-773,0,21319,daniel_r_ortiz,,951.973,957.191,"The -- the point is a simple one, but it's sometimes hard to express."
+2008.07-773,0,15060,john_paul_stevens,scotus_justice,1003.553,1006.088,Is that point argued in Moses -- Moses Cone?
+2008.07-773,0,21319,daniel_r_ortiz,,1008.457,1012.326,"I do -- I do not know, Your Honor."
+2008.07-773,0,15049,antonin_scalia,scotus_justice,1012.326,1019.847,Why -- why wouldn't 1332 require complete diversity and require the court to assure itself of that anyway?
+2008.07-773,0,21319,daniel_r_ortiz,,1019.847,1020.764,"No, Your Honor."
+2008.07-773,0,15049,antonin_scalia,scotus_justice,1030.703,1034.155,"I thought you said it did have a look through, an automatic look through, itself."
+2008.07-773,0,21319,daniel_r_ortiz,,1034.155,1036.021,"--Not under the completeness of diversity, Your Honor."
+2008.07-773,0,15049,antonin_scalia,scotus_justice,1042.142,1042.644,I see.
+2008.07-773,0,21319,daniel_r_ortiz,,1044.244,1044.744,Yes.
+2008.07-773,0,15060,john_paul_stevens,scotus_justice,1056.485,1059.271,I am not -- I mean just -- I have to be sure I follow.
+2008.07-773,0,21319,daniel_r_ortiz,,1065.174,1079.767,"--Because, Your Honor, if this Court authorizes look through in Federal-question cases through the arbitration agreement, itself, to the underlying dispute, then if that look -- and that look through comes -- authorization comes from Section 4--"
+2008.07-773,0,15060,john_paul_stevens,scotus_justice,1079.767,1080.367,Right.
+2008.07-773,0,21319,daniel_r_ortiz,,1080.367,1088.29,"--then in 1332 cases, this Court would be looking through not only for amount-in-controversy purposes--"
+2008.07-773,0,15060,john_paul_stevens,scotus_justice,1088.29,1088.84,Complete diversity.
+2008.07-773,0,21319,daniel_r_ortiz,,1088.84,1089.742,--but also for complete diversity.
+2008.07-773,0,15060,john_paul_stevens,scotus_justice,1089.742,1090.442,What's wrong with that?
+2008.07-773,0,21319,daniel_r_ortiz,,1090.442,1104.149,"Well, that would have the effect, Your Honor, of not allowing the petitioner to define the contours of the lawsuit and would actually reduce the number of section 1332 petitions that could be brought in Federal court."
+2008.07-773,0,15060,john_paul_stevens,scotus_justice,1104.149,1104.834,Maybe it would.
+2008.07-773,0,21319,daniel_r_ortiz,,1105.351,1126.415,"Well, Your Honor, if that is -- that is an implication that is -- is lurking in Respondents' position, and it is also -- in a case like this it is a little bit worrying as to why ordinary section 1332 principles should not apply."
+2008.07-773,0,15139,stephen_g_breyer,scotus_justice,1126.415,1128.533,There is a dispute between people.
+2008.07-773,0,21319,daniel_r_ortiz,,1134.937,1138.555,"Well, Your Honor, that's not actually the way you use Federal -- lower Federal court now."
+2008.07-773,0,15139,stephen_g_breyer,scotus_justice,1138.555,1143.007,"Why -- why wouldn't you do just what I said, just what we started with?"
+2008.07-773,0,21319,daniel_r_ortiz,,1158.768,1168.741,"Your Honor, it -- it removes the Petitioner's ability or the plaintiff's ability or the -- similar to the plaintiff's ability in an ordinary lawsuit to define--"
+2008.07-773,0,15139,stephen_g_breyer,scotus_justice,1168.741,1169.324,Why?
+2008.07-773,0,21319,daniel_r_ortiz,,1169.324,1169.86,--the parties.
+2008.07-773,0,15139,stephen_g_breyer,scotus_justice,1169.86,1170.426,Why?
+2008.07-773,0,21319,daniel_r_ortiz,,1170.426,1186.119,"Well, because, Your Honor, someone could not bring a section 4 petition in Federal court against maybe one party seeking to force that party into arbitration if there are other parties involved in the underlying dispute where there is no diversity."
+2008.07-773,0,15113,anthony_m_kennedy,scotus_justice,1186.119,1186.669,All right.
+2008.07-773,0,21319,daniel_r_ortiz,,1197.941,1207.231,"Well, that would be the implication of taking the kind of look-through theory that Respondents are arguing for in this case and applying it evenhandedly."
+2008.07-773,0,15113,anthony_m_kennedy,scotus_justice,1207.231,1208.215,I will think about that.
+2008.07-773,0,21319,daniel_r_ortiz,,1212.867,1219.306,"But, Your Honor, there are also several jurisdictional gaps in the act that are created under Respondents' view."
+2008.07-773,0,15086,john_g_roberts_jr,scotus_justice,1220.14,1222.425,Can I hold up just a second to make sure I understand it.
+2008.07-773,0,21319,daniel_r_ortiz,,1250.325,1251.159,"--Exactly, Your Honor, and that--"
+2008.07-773,0,15113,anthony_m_kennedy,scotus_justice,1251.159,1263.419,"But that's not quite so, because the -- the action could proceed with just A and C, and then it -- it could come to a complete judgment as to them."
+2008.07-773,0,21319,daniel_r_ortiz,,1286.833,1287.635,"--When the -- no, Your Honor."
+2008.07-773,0,15086,john_g_roberts_jr,scotus_justice,1302.727,1310.114,"Of course, I suppose how that works depends on what the rules are about how you frame the dispute once you do look through."
+2008.07-773,0,21319,daniel_r_ortiz,,1327.41,1332.313,"This Court could; and, interestingly, that wasn't the situation in Moses H. Cone, itself."
+2008.07-773,0,15086,john_g_roberts_jr,scotus_justice,1479.304,1493.563,"Yes, and what really leapt off the page at me in that opinion, he gets to the end, I think he basically presents your position and then he says: Thus, on my reading the relevant portion of section 4 could be rewritten this way."
+2008.07-773,0,21319,daniel_r_ortiz,,1499.384,1501.169,"Well, Your Honor, he didn't say it had to be rewritten."
+2008.07-773,0,15086,john_g_roberts_jr,scotus_justice,1514.527,1518.964,"Well, his rewriting doesn't look very much like section 4 to me."
+2008.07-773,0,21319,daniel_r_ortiz,,1518.964,1535.557,"--Your Honor, if his rewriting, given the disappearance of the ouster doctrine -- he's trying to make it clear to present context what was originally understood at the time the Congress originally enacted the FAA."
+2008.07-773,0,15068,samuel_a_alito_jr,scotus_justice,1569.564,1578.086,"What about the fact that that was not included in the New Jersey statute, nor was it included in -- was it included in the Uniform Arbitration Act?"
+2008.07-773,0,21319,daniel_r_ortiz,,1578.086,1578.986,"No, Your Honor."
+2008.07-773,0,15068,samuel_a_alito_jr,scotus_justice,1579.536,1581.121,What's the explanation for that?
+2008.07-773,0,21319,daniel_r_ortiz,,1581.121,1587.108,"--The explanation, Your Honor, is that in New York law and equity have been merged."
+2008.07-773,0,15068,samuel_a_alito_jr,scotus_justice,1587.108,1587.525,I know.
+2008.07-773,0,21319,daniel_r_ortiz,,1593.929,1620.663,"By the later times it appeared that it was closer, coming -- the law and equity across many jurisdictions was coming closer, but at the time in the Federal court system at least, if only because of Justice Story's hostility towards jurisdiction, finding jurisdiction in the Tobey case to build equity seeking specific performance kinds of things, that language is necessarily clear."
+2008.07-773,0,15086,john_g_roberts_jr,scotus_justice,1625.4,1626.267,"Thank you, counsel."
+2008.07-773,0,21319,daniel_r_ortiz,,1626.267,1631.971,Thank you.
+2008.07-773,0,15086,john_g_roberts_jr,scotus_justice,1631.971,1632.821,Mr. Phillips.
+2008.07-773,1,19760,carter_g_phillips,,1632.821,1651.433,"Thank you, Mr. Chief Justice, and may it please the Court: It seems to me that if the argument that just ended doesn't prove anything, it suggests that perhaps the Court ought to follow the simple expedient of read the statute as it's written, apply it as written and come to what strikes me, at least, as a reasonably easy resolution of this particular case."
+2008.07-773,1,15084,ruth_bader_ginsburg,scotus_justice,1687.891,1690.593,"But that's the question that I have, Mr. Phillips."
+2008.07-773,1,19760,carter_g_phillips,,1728.848,1740.09,"Justice Ginsburg, the language of section 4 actually talks about the subject matter of a suit arising out of, not the existence of a suit; and section 4 doesn't require that a lawsuit have been filed."
+2008.07-773,1,15086,john_g_roberts_jr,scotus_justice,1773.927,1775.763,Who gets to frame -- who gets to frame the complaint?
+2008.07-773,1,19760,carter_g_phillips,,1813.454,1822.56,--I think what the judge has to do is to take -- is to give the plaintiff in the section 4 complaint the benefit of his allegations.
+2008.07-773,1,15084,ruth_bader_ginsburg,scotus_justice,1841.771,1856.047,"But -- but she chose to assert it only defensively; and it's not a complaint -- the counterclaim if it had been brought as an independent action, everybody agrees qualifies for Federal jurisdiction."
+2008.07-773,1,19760,carter_g_phillips,,1867.836,1874.092,"But Justice Ginsburg, I think the difference is that we are not seeking to remove her original lawsuit."
+2008.07-773,1,15084,ruth_bader_ginsburg,scotus_justice,1885.214,1887.482,"But in the practical effect, what happens?"
+2008.07-773,1,19760,carter_g_phillips,,1919.553,1920.853,"--Well, there are a couple possibilities."
+2008.07-773,1,15060,john_paul_stevens,scotus_justice,1959.179,1959.545,Mr. Phillips--
+2008.07-773,1,19760,carter_g_phillips,,1959.545,1959.912,I'm sorry?
+2008.07-773,1,15060,john_paul_stevens,scotus_justice,1959.912,1961.197,--Clear up one thing for me.
+2008.07-773,1,19760,carter_g_phillips,,1970.353,1970.703,"Oh, right."
+2008.07-773,1,15060,john_paul_stevens,scotus_justice,1972.839,1977.557,"So it was not merely an defense to the action, the State court action."
+2008.07-773,1,19760,carter_g_phillips,,1977.557,1977.906,Right.
+2008.07-773,1,15084,ruth_bader_ginsburg,scotus_justice,1977.906,1983.896,I meant -- I didn't mean to say you couldn't get affirmative relief on a counterclaim.
+2008.07-773,1,19760,carter_g_phillips,,1985.779,1987.598,But I couldn't -- I couldn't remove it--
+2008.07-773,1,15084,ruth_bader_ginsburg,scotus_justice,1987.598,1989.148,--Chose not to--
+2008.07-773,1,19760,carter_g_phillips,,1989.148,1990.883,--I think that was the point she was trying to make.
+2008.07-773,1,15084,ruth_bader_ginsburg,scotus_justice,1990.883,1999.322,"--chose not to litigate the case, chose to -- well, I'm being sued, so I'm going to bring up this claim."
+2008.07-773,1,19760,carter_g_phillips,,2002.774,2003.258,Right.
+2008.07-773,1,15084,ruth_bader_ginsburg,scotus_justice,2019.902,2039.797,"The controversy between the parties is the credit card company says, customer, you're in default $10,000; and the customer said, if that's so, then I have certain offsets because they charged me too much interest."
+2008.07-773,1,19760,carter_g_phillips,,2042.213,2042.749,"Well, in that--"
+2008.07-773,1,15084,ruth_bader_ginsburg,scotus_justice,2042.749,2044.415,"--how do you -- it's all part of the same controversy, isn't it?"
+2008.07-773,1,19760,carter_g_phillips,,2044.415,2059.859,"--But -- no -- well, I mean you could -- you can certainly view it as part of the same controversy, but the -- but the bottom line is, the question is: Would a Federal court have jurisdiction over the dispute that arises under Federal law between the Petitioner and the Respondents?"
+2008.07-773,1,15049,antonin_scalia,scotus_justice,2061.442,2062.675,What is the dispute?
+2008.07-773,1,19760,carter_g_phillips,,2069.245,2071.531,It's defined by our complaint in section 4.
+2008.07-773,1,15049,antonin_scalia,scotus_justice,2071.531,2079.785,"But you -- from your argument, I would gather that a court would be able to imagine a counterclaim."
+2008.07-773,1,19760,carter_g_phillips,,2088.723,2089.723,"Well, I'm not sure -- I'm not even sure--"
+2008.07-773,1,15049,antonin_scalia,scotus_justice,2089.723,2095.71,It's very strange to decide Federal jurisdiction on the basis of -- of imagined -- imagined complaints.
+2008.07-773,1,19760,carter_g_phillips,,2095.71,2107.435,"--Well, I -- I mean the problem with that -- I mean the difficulty arises, Justice Scalia, because the language of the statute does say that the court has to determine whether it would have jurisdiction over the subject matter of the controversy."
+2008.07-773,1,15049,antonin_scalia,scotus_justice,2108.001,2112.421,"So the problem with his -- I mean with his interpretation, you don't have to imagine anything."
+2008.07-773,1,19760,carter_g_phillips,,2112.421,2114.888,"--Well, with his interpretation, you have to imagine everything."
+2008.07-773,1,15049,antonin_scalia,scotus_justice,2119.492,2120.242,Well--
+2008.07-773,1,19760,carter_g_phillips,,2120.242,2122.694,"It has to do with equity and law when it uses ""equity"" and ""law"" in other contexts."
+2008.07-773,1,15049,antonin_scalia,scotus_justice,2123.027,2124.979,--You don't have to imagine complaints.
+2008.07-773,1,19760,carter_g_phillips,,2127.264,2128.014,"--Well, no."
+2008.07-773,1,15049,antonin_scalia,scotus_justice,2147.726,2156.617,It's close to inconceivable to me that Congress wanted us to -- to construct litigation that is not yet in existence.
+2008.07-773,1,19760,carter_g_phillips,,2156.617,2159.433,But I think all of this really is talking -- I mean this is not significantly different--
+2008.07-773,1,15060,john_paul_stevens,scotus_justice,2159.433,2162.269,--answer that the litigation does exist.
+2008.07-773,1,19760,carter_g_phillips,,2162.269,2162.604,--Right.
+2008.07-773,1,15049,antonin_scalia,scotus_justice,2162.604,2166.139,"No, but your position is it doesn't have to exist."
+2008.07-773,1,19760,carter_g_phillips,,2178.614,2190.172,"And it may well be, Justice Scalia, that in that context the answer is that the court will say that the claim is unripe; that we don't know for sure whether or not this is going to congeal into a real dispute between the parties."
+2008.07-773,1,15084,ruth_bader_ginsburg,scotus_justice,2205.328,2217.136,"There would be nothing inappropriate about a State court entertaining that excessive interest claim, but applying Federal law to it."
+2008.07-773,1,19760,carter_g_phillips,,2226.325,2226.66,Right.
+2008.07-773,1,15084,ruth_bader_ginsburg,scotus_justice,2226.66,2229.426,--Not state usury law.
+2008.07-773,1,19760,carter_g_phillips,,2234.164,2234.73,Right.
+2008.07-773,1,15084,ruth_bader_ginsburg,scotus_justice,2234.73,2238.032,And the State court would be perfectly competent to apply the Federal law.
+2008.07-773,1,19760,carter_g_phillips,,2238.032,2238.282,Right.
+2008.07-773,1,15042,david_h_souter,scotus_justice,2244.019,2245.169,"Well, why does it set aside?"
+2008.07-773,1,19760,carter_g_phillips,,2270.586,2273.705,"Well, first of all, section 4 doesn't apply in--"
+2008.07-773,1,15042,david_h_souter,scotus_justice,2273.705,2276.407,"I know section 4 doesn't, but section 2 does."
+2008.07-773,1,19760,carter_g_phillips,,2276.407,2278.99,"--To be sure, section 2 does, but whether or not--"
+2008.07-773,1,15042,david_h_souter,scotus_justice,2278.99,2286.029,"You can -- based on the Federal act, you can in State court claim your right to enforce the arbitration agreement."
+2008.07-773,1,19760,carter_g_phillips,,2286.029,2287.779,"--Right, but the flip side of that is--"
+2008.07-773,1,15042,david_h_souter,scotus_justice,2287.779,2290.481,Why don't you do it in the State court instead of going through these gymnastics?
+2008.07-773,1,19760,carter_g_phillips,,2290.481,2297.32,--Because we have serious doubts as to whether or not in fact we will have our Federal rights protected as zealously as we would in a Federal court.
+2008.07-773,1,15113,anthony_m_kennedy,scotus_justice,2297.32,2311.544,"Speaking of gymnastics, can I ask you if you had foreseen this problem, could you have brought a declaratory judgment action to establish that your Federal claim--"
+2008.07-773,1,19760,carter_g_phillips,,2311.544,2311.83,Yes.
+2008.07-773,1,15113,anthony_m_kennedy,scotus_justice,2311.83,2315.782,--controls this dispute and could you have then said that you wanted this arbitrated?
+2008.07-773,1,19760,carter_g_phillips,,2315.782,2317.048,"Yes, Justice Kennedy."
+2008.07-773,1,15113,anthony_m_kennedy,scotus_justice,2318.4,2318.8,Why didn't you do that?
+2008.07-773,1,19760,carter_g_phillips,,2319.784,2322.686,"Well, because we brought the action under section 4, which I think--"
+2008.07-773,1,15113,anthony_m_kennedy,scotus_justice,2322.686,2324.554,"I mean, could you still do that after this case?"
+2008.07-773,1,19760,carter_g_phillips,,2324.554,2329.589,"--Assuming there's no statute of limitations issue, and I don't know that there would be, but that would available."
+2008.07-773,1,15139,stephen_g_breyer,scotus_justice,2334.66,2354.823,"So your theory -- I mean basically I think you concede that the other side has a point in sometimes it will be difficult to say what the dispute is precisely and, therefore, difficult to know if precisely this dispute does or does not -- one that you can get into Federal court on."
+2008.07-773,1,19760,carter_g_phillips,,2369.166,2369.833,Right.
+2008.07-773,1,15139,stephen_g_breyer,scotus_justice,2369.833,2378.189,"And once he says what's it about, both sides will say, well, basically it started off -- it's just about collecting some money from in-state parties."
+2008.07-773,1,19760,carter_g_phillips,,2379.989,2380.305,Right.
+2008.07-773,1,15139,stephen_g_breyer,scotus_justice,2380.305,2381.888,"So that, you know, something could happen here."
+2008.07-773,1,19760,carter_g_phillips,,2400.132,2402.134,"Right, and the judge would have the discretion to decide--"
+2008.07-773,1,15139,stephen_g_breyer,scotus_justice,2402.134,2402.884,It's a kind of a defense.
+2008.07-773,1,19760,carter_g_phillips,,2402.884,2403.418,--Right.
+2008.07-773,1,15139,stephen_g_breyer,scotus_justice,2403.418,2406.753,But you'd say then it might be the case that it wouldn't be so hard to decide.
+2008.07-773,1,19760,carter_g_phillips,,2406.753,2407.622,Right.
+2008.07-773,1,15139,stephen_g_breyer,scotus_justice,2415.775,2417.811,A real suit.
+2008.07-773,1,19760,carter_g_phillips,,2418.111,2418.894,But they are here.
+2008.07-773,1,15139,stephen_g_breyer,scotus_justice,2419.763,2433.904,"--And in a real suit, there is a class action brought not just on behalf of the one you're trying to sue but on behalf of everybody, where they have to proceed under a Federal reg, and they are going to get a huge amount of money, and you say that's what we want arbitrated."
+2008.07-773,1,19760,carter_g_phillips,,2433.904,2435.938,"And that's precisely what we've asked for here, Justice Breyer."
+2008.07-773,1,15139,stephen_g_breyer,scotus_justice,2435.938,2437.954,So this one is not so hard to figure out.
+2008.07-773,1,19760,carter_g_phillips,,2437.954,2438.254,Right.
+2008.07-773,1,15139,stephen_g_breyer,scotus_justice,2438.254,2439.323,There might be some that are.
+2008.07-773,1,19760,carter_g_phillips,,2439.323,2441.656,"Right, and there's no question about that, and it's--"
+2008.07-773,1,15086,john_g_roberts_jr,scotus_justice,2441.656,2447.743,"What's hard to figure out, you have, let's say, a franchisee, and you have a dispute with the franchisor."
+2008.07-773,1,19760,carter_g_phillips,,2472.092,2474.394,"--And I understand that, Mr. Chief Justice."
+2008.07-773,1,15139,stephen_g_breyer,scotus_justice,2478.614,2485.867,"Well, in his case, in the Chief Justice's case, wouldn't you say they don't get into court, probably don't because they are bringing this under a State law?"
+2008.07-773,1,19760,carter_g_phillips,,2485.867,2487.553,"--You see, I would comply with the original complaint."
+2008.07-773,1,15086,john_g_roberts_jr,scotus_justice,2487.553,2488.103,No.
+2008.07-773,1,19760,carter_g_phillips,,2492.588,2492.971,Right.
+2008.07-773,1,15086,john_g_roberts_jr,scotus_justice,2494.307,2496.073,It's a violation of the Sherman Act.
+2008.07-773,1,19760,carter_g_phillips,,2496.073,2496.459,Right.
+2008.07-773,1,15086,john_g_roberts_jr,scotus_justice,2496.459,2497.742,"Of course, it could be brought in Federal court."
+2008.07-773,1,19760,carter_g_phillips,,2497.742,2505.265,"Well -- and in the right case, the Federal -- you know, if I had to go that far, I might well make that argument, Mr. Chief Justice, but in this case I don't have to go that far."
+2008.07-773,1,15084,ruth_bader_ginsburg,scotus_justice,2519.858,2523.643,That claim doesn't--
+2008.07-773,1,15060,john_paul_stevens,scotus_justice,2523.643,2524.426,Let me get one fact.
+2008.07-773,1,19760,carter_g_phillips,,2524.426,2525.126,--I'm sorry.
+2008.07-773,1,15060,john_paul_stevens,scotus_justice,2525.126,2527.512,Is the State court suit still pending?
+2008.07-773,1,19760,carter_g_phillips,,2527.512,2529.23,"Yes, the State court suit is pending."
+2008.07-773,1,15060,john_paul_stevens,scotus_justice,2529.23,2531.749,So there are two separate underlying actions.
+2008.07-773,1,19760,carter_g_phillips,,2531.749,2535.784,The State court has stayed its hand pending the outcome of the Federal litigation.
+2008.07-773,1,15084,ruth_bader_ginsburg,scotus_justice,2538.236,2542.604,--But there could be nothing left for the State court to do after you have the arbitration.
+2008.07-773,1,19760,carter_g_phillips,,2551.477,2556.781,"--Well, I mean, in some ways, as I say, it seems to me that's Petitioner's right or potentially -- or ours."
+2008.07-773,1,15084,ruth_bader_ginsburg,scotus_justice,2559.816,2569.355,"I just can't envision a case where what you haven't effected is taking a case, a debt, simple debt, no diversity a State court case."
+2008.07-773,1,19760,carter_g_phillips,,2569.355,2569.805,--Right.
+2008.07-773,1,15084,ruth_bader_ginsburg,scotus_justice,2569.805,2581.427,And you remove the State court from the picture and gotten it over into Federal court to order the arbitration and any follow-up to the arbitration.
+2008.07-773,1,19760,carter_g_phillips,,2593.92,2596.053,"But see, Justice Ginsburg, I think that's not right."
+2008.07-773,1,15049,antonin_scalia,scotus_justice,2663.845,2665.18,That's what worries me.
+2008.07-773,1,19760,carter_g_phillips,,2672.969,2678.338,"--Well, I think what's going to happen -- I candidly don't think they are going to come up that much, in part because these issues have been around a long time."
+2008.07-773,1,15084,ruth_bader_ginsburg,scotus_justice,2714.546,2718.498,"But you could have asked for that in the State court as well, and--"
+2008.07-773,1,19760,carter_g_phillips,,2718.498,2721.967,"There is no question about that, Justice Ginsburg."
+2008.07-773,1,15042,david_h_souter,scotus_justice,2733.492,2737.777,Then bring that up here on appeal from the State court.
+2008.07-773,1,19760,carter_g_phillips,,2737.777,2742.848,"Well, I wish it were that easy to get this Court to grant review of everything that I bring up here in the first place."
+2008.07-773,1,15060,john_paul_stevens,scotus_justice,2742.848,2743.864,You don't have any trouble.
+2008.07-773,1,19760,carter_g_phillips,,2746.047,2746.747,I appreciate that.
+2008.07-773,1,15060,john_paul_stevens,scotus_justice,2746.747,2752.886,It's not really -- of getting constants from Federal judges; the arbitrators can decide this question.
+2008.07-773,1,19760,carter_g_phillips,,2752.886,2753.203,Right.
+2008.07-773,1,15060,john_paul_stevens,scotus_justice,2753.203,2755.32,The arbitrator might decide there is no preemption.
+2008.07-773,1,19760,carter_g_phillips,,2755.32,2756.505,Right.
+2008.07-773,1,15060,john_paul_stevens,scotus_justice,2770.764,2781.203,"May I ask this, I haven't reread the Moses Cone case, but is your adversary correct in saying that there would have been no jurisdiction in that case it we followed your view?"
+2008.07-773,1,19760,carter_g_phillips,,2781.203,2782.02,No.
+2008.07-773,1,15060,john_paul_stevens,scotus_justice,2782.02,2785.524,Because the arbitrator was not of diverse citizenship from the other parties?
+2008.07-773,1,19760,carter_g_phillips,,2785.524,2787.207,"I mean, It wasn't litigated."
+2008.07-773,1,15060,john_paul_stevens,scotus_justice,2795.63,2801.034,"But -- if, in fact, were a nondiverse party in the Moses Cohen, there should have been no jurisdiction?"
+2008.07-773,1,19760,carter_g_phillips,,2801.034,2806.085,"Well, now, the nondiverse party issue, it depends on how you read section 4."
+2008.07-773,1,15139,stephen_g_breyer,scotus_justice,2852.049,2852.715,Is this right?
+2008.07-773,1,19760,carter_g_phillips,,2857.703,2859.905,I'm not going to give a good response?
+2008.07-773,1,15139,stephen_g_breyer,scotus_justice,2859.905,2865.559,"If you read it the other way -- if you read it the other way, the way the Petitioners want to read it, then is this so or not?"
+2008.07-773,1,19760,carter_g_phillips,,2873.379,2874.146,Under their interpretation?
+2008.07-773,1,15139,stephen_g_breyer,scotus_justice,2874.146,2874.915,"Yes, under their interpretation."
+2008.07-773,1,19760,carter_g_phillips,,2874.915,2875.398,Yes.
+2008.07-773,1,15139,stephen_g_breyer,scotus_justice,2875.398,2885.854,"So, what you could have is you could have two parties sign an arbitration agreement that lasts for a year that governs all disputes between them, and one is from Vermont; the other from California."
+2008.07-773,1,19760,carter_g_phillips,,2885.854,2886.337,Right.
+2008.07-773,1,15139,stephen_g_breyer,scotus_justice,2886.337,2887.872,So there is jurisdiction.
+2008.07-773,1,19760,carter_g_phillips,,2897.209,2897.543,Sure.
+2008.07-773,1,15139,stephen_g_breyer,scotus_justice,2897.895,2903.28,"But nevertheless, we have a Federal court issuing this injunction, under their theory."
+2008.07-773,1,19760,carter_g_phillips,,2903.28,2903.613,Right.
+2008.07-773,1,15139,stephen_g_breyer,scotus_justice,2904.999,2905.732,Assuming they are right.
+2008.07-773,1,19760,carter_g_phillips,,2905.732,2910.6,"--Assuming the amount of controversy -- I mean, it could have an amount--"
+2008.07-773,1,15139,stephen_g_breyer,scotus_justice,2910.6,2911.636,"Oh, I see."
+2008.07-773,1,19760,carter_g_phillips,,2914.671,2915.221,--Right.
+2008.07-773,1,15139,stephen_g_breyer,scotus_justice,2916.838,2917.706,All right.
+2008.07-773,1,19760,carter_g_phillips,,2920.908,2921.892,"Well, that's exactly our point."
+2008.07-773,1,15139,stephen_g_breyer,scotus_justice,2923.444,2926.21,"So if you didn't look through, then this would apply to nothing?"
+2008.07-773,1,19760,carter_g_phillips,,2926.21,2927.728,Pretty much that's our view of the case.
+2008.07-773,1,15139,stephen_g_breyer,scotus_justice,2927.728,2928.478,If the arbitration--
+2008.07-773,1,19760,carter_g_phillips,,2928.478,2929.311,Yes.
+2008.07-773,1,15139,stephen_g_breyer,scotus_justice,2931.18,2942.238,"--The arbitration agreement has to -- they talk about the arbitration agreement, then you could have really important Federal questions in substantive issues--"
+2008.07-773,1,19760,carter_g_phillips,,2942.238,2942.621,Yes.
+2008.07-773,1,15139,stephen_g_breyer,scotus_justice,2942.621,2945.023,--that couldn't come in because the arbitration agreement doesn't?
+2008.07-773,1,19760,carter_g_phillips,,2955.713,2956.398,Probably not.
+2008.07-773,1,15139,stephen_g_breyer,scotus_justice,2956.398,2960.783,"Probably not, because no arbitration agreement has -- so then it becomes a nullity of the statute?"
+2008.07-773,1,19760,carter_g_phillips,,2960.783,2961.45,Right.
+2008.07-773,1,15139,stephen_g_breyer,scotus_justice,2961.45,2962.902,Except to overcome the ouster.
+2008.07-773,1,15049,antonin_scalia,scotus_justice,2965.837,2980.296,"Well, it makes a nullity of it, except that it gets into the Federal court the decision on the arbitration agreement, which was the object of this stuff, whatever -- whatever the underlying claim is, whether it's a Federal claim or not."
+2008.07-773,1,19760,carter_g_phillips,,3003.896,3004.396,Oh absolutely.
+2008.07-773,1,15084,ruth_bader_ginsburg,scotus_justice,3078.158,3087.264,--Why isn't it proper to look to see -- the party who wants arbitration has a dispute; the dispute is we are owed money by the debtor.
+2008.07-773,1,19760,carter_g_phillips,,3107.028,3108.428,"Well, there are two problems with that."
+2008.07-773,1,15084,ruth_bader_ginsburg,scotus_justice,3129.108,3138.031,"But then you'll have not only a hypothetical claim, because nothing has been brought, but an hypothetical answer by way of counterclaim to that claim."
+2008.07-773,1,19760,carter_g_phillips,,3138.031,3141.066,But it seems to me that's precisely what the language
+2008.07-773,1,15084,ruth_bader_ginsburg,scotus_justice,3146.72,3161.162,"So you would come into the court and say there is no suit going on anywhere, but if we were to bring this suit in State court, the defendant could have brought this Federal counterclaim?"
+2008.07-773,1,19760,carter_g_phillips,,3163.014,3180.893,"But it seems to me, Justice Ginsburg, the better way to think about this is what if we were getting letters from the Petitioner saying you are engaged in usurious conduct, you're outrageous, you got to stop what you're doing, we are going to bring a class action against you, you had better change your behavior tomorrow, and they don't sue us, and they don't sue us, and they don't sue us?"
+2008.07-773,1,15060,john_paul_stevens,scotus_justice,3187.88,3194.633,"Mr. Phillips, the answer to a better hypothetical is what if there had been no original collection action but they had brought such an action."
+2008.07-773,1,19760,carter_g_phillips,,3194.633,3194.933,Right.
+2008.07-773,1,15060,john_paul_stevens,scotus_justice,3196.069,3197.285,That's the case you're really saying.
+2008.07-773,1,19760,carter_g_phillips,,3198.937,3200.421,That is this case.
+2008.07-773,1,15060,john_paul_stevens,scotus_justice,3200.421,3205.508,"And Justice Ginsburg is suggesting it's not, because it happens to arise out of a different -- quite different dispute."
+2008.07-773,1,19760,carter_g_phillips,,3205.508,3205.875,Right.
+2008.07-773,1,15084,ruth_bader_ginsburg,scotus_justice,3215.547,3216.399,Excuse me--
+2008.07-773,1,15060,john_paul_stevens,scotus_justice,3216.399,3221.351,"As I understand your opponent, they would agree there was no jurisdiction even in that case."
+2008.07-773,1,19760,carter_g_phillips,,3221.351,3221.835,Right.
+2008.07-773,1,15084,ruth_bader_ginsburg,scotus_justice,3223.753,3246.835,"--What do you do with the assertion that sections 9 through 11 are not in sync with your view, because they would not give you -- you could go in and -- to compel arbitration but once the arbitration was award -- an award was made, you would not have access to the Federal courts to enforce the award?"
+2008.07-773,1,19760,carter_g_phillips,,3246.835,3252.072,"Well, I mean the interesting thing about 9, 10 and 11 is if anything the language is broader than our language."
+2008.07-773,1,15068,samuel_a_alito_jr,scotus_justice,3298.72,3304.541,But the Petitioner says you never clearly clarify the particular Federal on which the jurisdiction rests on this case.
+2008.07-773,1,19760,carter_g_phillips,,3305.641,3306.024,--Yes.
+2008.07-773,1,15068,samuel_a_alito_jr,scotus_justice,3310.343,3311.661,Section 4 creates the Federal--
+2008.07-773,1,19760,carter_g_phillips,,3311.661,3323.168,"Yes, it does create it, because section 4, without the ""would have jurisdiction"" language clearly would be arising under jurisdiction, in my judgment, and the only thing -- and then it places an additional requirement on you."
+2008.07-773,1,15049,antonin_scalia,scotus_justice,3336.576,3345.432,"Why -- why can't you have sort of modified look, through like a modified limited hangout or whatever it was?"
+2008.07-773,1,19760,carter_g_phillips,,3364.162,3386.426,"Because I think -- I think the reference in the statute to controversy clearly envisions the underlying dispute between the parties, because it's not just the arbitration agreement and it's not even just the controversy; it's the subject matter of the controversy, and you compare that to section 2 and it's clear that what the Congress has in mind there is the underlying dispute between the parties."
+2008.07-773,1,15113,anthony_m_kennedy,scotus_justice,3386.426,3402.704,Is the Petitioner's -- I'm sorry I didn't get a chance to ask the Petitioner -- is the Petitioner's argument for a limited look through compromised in any way by the Beneficial Bank case which allows removal if there is a Federal defense?
+2008.07-773,1,19760,carter_g_phillips,,3402.704,3406.656,"Well, I mean, I don't know if it's compromised by it."
+2008.07-773,1,15113,anthony_m_kennedy,scotus_justice,3413.16,3416.178,"That's of course in the context of a defense, as opposed to a counterclaim."
+2008.07-773,1,19760,carter_g_phillips,,3416.178,3416.88,--Right.
+2008.07-773,1,15086,john_g_roberts_jr,scotus_justice,3437.46,3438.443,"Thank you, Mr. Phillips."
+2008.07-773,2,21319,daniel_r_ortiz,,3441.579,3442.545,"Thank you, Your Honor."
+2008.07-773,2,15113,anthony_m_kennedy,scotus_justice,3476.085,3477.602,What about a Federal defense?
+2008.07-773,2,15060,john_paul_stevens,scotus_justice,3477.602,3482.572,"That isn't quite true, because here there is a definition in the Federal claim in your counterclaim."
+2008.07-773,2,21319,daniel_r_ortiz,,3482.572,3483.672,"--I'm sorry, Your Honor?"
+2008.07-773,2,15060,john_paul_stevens,scotus_justice,3483.672,3487.726,There is a definition of the controversy in your counterclaim and in their response.
+2008.07-773,2,21319,daniel_r_ortiz,,3487.726,3504.236,"No -- there -- in general, if you accepted their theory, as long as there is an issue that could be spun as a Federal issue which there will always be in a credit card debt collection case and just -- in most States, that on look-through theory would be--"
+2008.07-773,2,15060,john_paul_stevens,scotus_justice,3504.236,3509.807,You're suggesting that every credit card debtor would have a class action?
+2008.07-773,2,21319,daniel_r_ortiz,,3509.807,3514.794,"--Your Honor, every -- it does not have to be a class action to establish what would serve--"
+2008.07-773,2,15139,stephen_g_breyer,scotus_justice,3514.794,3520.697,"That's your view, but I mean believe me, I think I can keep that problem under control."
+2008.07-773,2,21319,daniel_r_ortiz,,3537.909,3548.015,"--Well, Your Honor, Respondent argues that this is an easy case, or at least over time the courts will decide these things to make the jurisdictional inquiry -- inquiries clear."
+2008.07-773,2,15086,john_g_roberts_jr,scotus_justice,3623.263,3626.301,"I'm sorry, what do you mean would still be covered?"
+2008.07-773,2,21319,daniel_r_ortiz,,3626.301,3631.269,--Would still be covered under Petitioner's theory of what section 4 means.
+2008.07-773,2,15086,john_g_roberts_jr,scotus_justice,3633.538,3635.99,Which would still be in Federal court.
+2008.07-773,2,21319,daniel_r_ortiz,,3635.99,3637.59,--Would still be in Federal court.
+2008.07-773,2,15086,john_g_roberts_jr,scotus_justice,3638.007,3639.191,"Thank you, counsel."

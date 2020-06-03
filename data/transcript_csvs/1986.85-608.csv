@@ -1,0 +1,154 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1986.85-608,0,15141,william_h_rehnquist,scotus_justice,0.0,8.654,"We will hear argument first this morning in No. 85-608, Illinois versus Krull."
+1986.85-608,0,35385,michael_j_angarola,,12.891,29.333,"Mr. Chief Justice, and may it please the Court, the issue in this case is whether the good faith exception to the exclusionary rule should be applied to a warrantless search conducted pursuant to a presumptively valid statute later declared unconstitutional."
+1986.85-608,0,15060,john_paul_stevens,scotus_justice,229.231,232.933,May I just ask a question about the Illinois Supreme Court's action in this case?
+1986.85-608,0,35385,michael_j_angarola,,252.914,256.116,--The Illinois Supreme Court did not rule on the constitutionality of the statute.
+1986.85-608,0,15060,john_paul_stevens,scotus_justice,256.116,257.151,It didn't?
+1986.85-608,0,35385,michael_j_angarola,,257.151,258.451,No.
+1986.85-608,0,15060,john_paul_stevens,scotus_justice,258.451,260.353,In its opinion in this case?
+1986.85-608,0,35385,michael_j_angarola,,260.353,263.019,That's correct.
+1986.85-608,0,15060,john_paul_stevens,scotus_justice,263.019,269.023,What was it doing at Pages 10 to 17 of its opinion?
+1986.85-608,0,35385,michael_j_angarola,,269.023,271.856,"My apologies, Your Honor."
+1986.85-608,0,15060,john_paul_stevens,scotus_justice,286.033,294.602,But it is controlling that the decision that caused this statute to be held unconstitutional was made by the Illinois Supreme Court in this very case.
+1986.85-608,0,35385,michael_j_angarola,,294.602,294.888,"Yes, sir."
+1986.85-608,0,15060,john_paul_stevens,scotus_justice,294.888,305.41,"So the question, what you are really asking us to do is to say not to apply the exclusionary rule in the case in which the constitutionality of the statute itself is challenged and found invalid."
+1986.85-608,0,35385,michael_j_angarola,,305.41,309.446,"Yes, sir."
+1986.85-608,0,15092,sandra_day_oconnor,scotus_justice,406.86,415.715,"Mr. Angarola, what do you make of Footnote 8 in Leon dealing with this particular problem?"
+1986.85-608,0,35385,michael_j_angarola,,415.715,424.773,"Footnote 8, dealing with the DeFillippo or the cases of Ubara, Torres?"
+1986.85-608,0,15092,sandra_day_oconnor,scotus_justice,510.795,521.568,Does your review require us to take a different view of the constitutionality of the statute than the Illinois Supreme Court did?
+1986.85-608,0,35385,michael_j_angarola,,521.568,524.787,"No, Your Honor, it does not."
+1986.85-608,0,15092,sandra_day_oconnor,scotus_justice,543.016,547.235,But apparently it is important in distinguishing Footnote 8 in Leon.
+1986.85-608,0,35385,michael_j_angarola,,549.754,559.11,"Well, as I said, Your Honor, Leon deals with a situation where there was an attempt to eliminate the need of a search warrant in all the cases cited there."
+1986.85-608,0,15140,william_j_brennan_jr,scotus_justice,595.799,606.424,"Mr. Angarola, who has the burden of proof of good faith on the part of the officer in relying on the statute?"
+1986.85-608,0,35385,michael_j_angarola,,610.059,630.706,"The state would have the burden of proving that the officers were acting in good faith, that what would ordinarily happen, Your Honor, is that on a motion to suppress there would be allegations requiring or alleging certain facts, and the state would have the burden of proving that the police officer acted in good faith."
+1986.85-608,0,15060,john_paul_stevens,scotus_justice,630.706,633.491,Are there any findings on that issue on this record?
+1986.85-608,0,35385,michael_j_angarola,,633.491,634.693,"No, Your Honor, there are not."
+1986.85-608,0,15060,john_paul_stevens,scotus_justice,634.693,637.395,Then you didn't discharge your burden of proof.
+1986.85-608,0,35385,michael_j_angarola,,639.795,649.453,"Well, Your Honor, the trial judge in this matter did not make a determination regarding good faith because he felt it did not apply."
+1986.85-608,0,15049,antonin_scalia,scotus_justice,673.568,676.187,How would you go about demonstrating good faith?
+1986.85-608,0,35385,michael_j_angarola,,691.113,695.165,"This statute or its predecessor, since 1933."
+1986.85-608,0,15049,antonin_scalia,scotus_justice,695.932,702.152,"So what more would you want to show good faith, that nobody had told him it was unconstitutional?"
+1986.85-608,0,35385,michael_j_angarola,,702.152,717.014,"No, Your Honor, but I think that the objective factors regarding the entry, the identification, all the circumstances involving the warrantless entry here are factors which would go to show the good faith of the police officer."
+1986.85-608,0,15060,john_paul_stevens,scotus_justice,717.014,729.838,"Well, as I understand it, your opponent takes the position that the search went beyond that authorized by the statute, and you would at least, it seems to me, have to have findings that the search was that which would have been authorized pursuant to this statute, and there is no such finding."
+1986.85-608,0,35385,michael_j_angarola,,729.838,731.155,"That's correct, Your Honor."
+1986.85-608,0,15049,antonin_scalia,scotus_justice,773.101,775.367,Did the Illinois Supreme Court speak to that point?
+1986.85-608,0,35385,michael_j_angarola,,775.367,779.187,"No, it did not."
+1986.85-608,0,15049,antonin_scalia,scotus_justice,779.187,787.158,"It rested entirely on the fact that the statute was unconstitutional and therefore the search, even if it was within the scope, was no good."
+1986.85-608,0,35385,michael_j_angarola,,787.158,787.86,That's right.
+1986.85-608,0,15049,antonin_scalia,scotus_justice,817.88,822.331,"And the Court below had found that he wasn't within his scope, wrongfully, you say, but that's what it had found."
+1986.85-608,0,35385,michael_j_angarola,,822.331,824.116,"Yes, Your Honor."
+1986.85-608,0,15049,antonin_scalia,scotus_justice,824.116,827.318,"How can we find that it was, that it was within the scope then?"
+1986.85-608,0,35385,michael_j_angarola,,827.318,834.905,"Well, Your Honor, because I believe that the facts and circumstances here indicate that the police officer did in fact act within the scope of the authority."
+1986.85-608,0,15049,antonin_scalia,scotus_justice,855.419,856.271,"Well, it seems silly to me--"
+1986.85-608,0,35385,michael_j_angarola,,856.271,856.638,--Yes.
+1986.85-608,0,15049,antonin_scalia,scotus_justice,856.638,859.207,"--and it may seem silly to you, but surely that is a matter of Illinois law, isn't it?"
+1986.85-608,0,35385,michael_j_angarola,,861.991,868.728,"Illinois is entitled to have a silly law, but Your Honor, I would suggest that that interpretation would give the statute no meaning whatsoever."
+1986.85-608,0,15060,john_paul_stevens,scotus_justice,885.857,886.774,It would be very silly.
+1986.85-608,0,35385,michael_j_angarola,,897.748,909.222,"Well, Your Honor, in terms of the purpose of the statute, which is to have recordkeeping, and I think that if the statute could be avoided by simply not having books and records there, that that is avoiding--"
+1986.85-608,0,15060,john_paul_stevens,scotus_justice,909.222,911.089,"Well, isn't there some sanction for not having the books and records?"
+1986.85-608,0,35385,michael_j_angarola,,911.089,911.389,--Pardon me?
+1986.85-608,0,15060,john_paul_stevens,scotus_justice,911.389,914.524,Doesn't the statute contain a sanction for not having the required books and records?
+1986.85-608,0,35385,michael_j_angarola,,914.524,915.809,"Yes, Your Honor, it does."
+1986.85-608,0,15060,john_paul_stevens,scotus_justice,915.809,917.376,"That is not a silly sanction, is it?"
+1986.85-608,0,35385,michael_j_angarola,,917.376,917.745,"No, no."
+1986.85-608,0,15141,william_h_rehnquist,scotus_justice,964.107,965.309,"Thank you, Mr. Angarola."
+1986.85-608,1,38091,paul_j_larkin_jr,,971.13,982.77,"Thank you, Mr. Chief Justice, and may it please the Court, at the outset I would like to respond to some questions asked by Justices Scalia and Stevens."
+1986.85-608,1,15060,john_paul_stevens,scotus_justice,1027.049,1035.619,"Mentioning the challenges, Mr. Larkin, if you prevail in this case would a defendant in a case like this ever have any motive to challenge the constitutionality of a statute?"
+1986.85-608,1,38091,paul_j_larkin_jr,,1035.619,1040.94,"--Yes, he would, Your Honor, because whether or not the good faith exception should be applied in an individual case--"
+1986.85-608,1,15060,john_paul_stevens,scotus_justice,1040.94,1046.761,"Assuming the facts clearly show good faith on the part of the officer, then he would have no motive to challenge the statute, would he?"
+1986.85-608,1,38091,paul_j_larkin_jr,,1046.761,1054.367,"--If it was clear that it was objectively reasonable for the officer to be acting in this fashion, there would be less of a likelihood that he would bring a suppression motion."
+1986.85-608,1,15060,john_paul_stevens,scotus_justice,1055.167,1057.152,"There would really be no point in it, would there?"
+1986.85-608,1,38091,paul_j_larkin_jr,,1057.152,1062.973,"--No, because the benefits of bringing a suppression motion, as the Court recognized in Leon, are the termination of the case."
+1986.85-608,1,15092,sandra_day_oconnor,scotus_justice,1174.227,1181.966,"Mr. Larkin, when would, in your view, the officer's action not be taken in good faith?"
+1986.85-608,1,38091,paul_j_larkin_jr,,1181.966,1184.049,--There are--
+1986.85-608,1,15092,sandra_day_oconnor,scotus_justice,1184.049,1186.918,If there were an unconstitutional statute.
+1986.85-608,1,38091,paul_j_larkin_jr,,1186.918,1195.457,--There are circumstances where a statute is clearly unconstitutional and no reasonable person should believe that any court would rule otherwise.
+1986.85-608,1,15092,sandra_day_oconnor,scotus_justice,1213.651,1226.578,And if there is a single trial court decision in the jurisdiction holding it unconstitutional would that then bind all police officers or would we make an inquiry into whether the officer knew of the trial court decision?
+1986.85-608,1,38091,paul_j_larkin_jr,,1230.947,1235.351,There are several different responses that I can give to that question.
+1986.85-608,1,15071,byron_r_white,scotus_justice,1291.853,1305.947,I suppose that there could be developments in constitutional law that should put people on notice that a particular state statute is a very questionable piece of legislation.
+1986.85-608,1,38091,paul_j_larkin_jr,,1305.947,1306.713,"--That's correct, Your Honor."
+1986.85-608,1,15071,byron_r_white,scotus_justice,1306.713,1323.29,"And if there had been, say, a decision of the Seventh Circuit Court of Appeals striking down a very similar statute in Wisconsin I would think maybe the police ought to take notice of that."
+1986.85-608,1,38091,paul_j_larkin_jr,,1323.29,1339.251,"Yes, Your Honor, that sort of circumstance should be factored into the second half of the inquiry that would have to be followed in this case, that is, whether this police officer acted in an objectively reasonable manner, but the threshold question of whether Leon should at all be applied in this circumstance we believe should be resolved in favor of the state."
+1986.85-608,1,15071,byron_r_white,scotus_justice,1339.251,1346.988,"And so you think we should just disavow Footnote 8 in Leon, or do you think we have to--"
+1986.85-608,1,38091,paul_j_larkin_jr,,1346.988,1347.524,"No, Your Honor."
+1986.85-608,1,15141,william_h_rehnquist,scotus_justice,1381.995,1399.707,"--So your distinction is between a statute which, a Colonnada type statute which authorizes inspection and search of a heavily regulated business on the one hand and a statute which simply says, from now on you can search without probable cause?"
+1986.85-608,1,38091,paul_j_larkin_jr,,1399.707,1405.627,"Any statute that said the latter, Your Honor, should be held unconstitutional by any court."
+1986.85-608,1,15071,byron_r_white,scotus_justice,1424.774,1427.726,What is your construction of Footnote 8?
+1986.85-608,1,38091,paul_j_larkin_jr,,1427.726,1447.371,"As we construe Footnote 8 in Leon, the Court there said that its substantive Fourth Amendment rulings in its earlier cases were not affected by adoption of the good faith exception, but that the good faith exception would require the Courts if this good faith were applied to a statutory search to make the inquiry whether a particular search was reasonable."
+1986.85-608,1,15045,harry_a_blackmun,scotus_justice,1447.371,1453.626,"Well, certainly none of the cited cases in Footnote 8 concerned good faith."
+1986.85-608,1,38091,paul_j_larkin_jr,,1453.626,1469.553,"It is because they all preceded this Court's decision in Leon and therefore even including the DeFillippo case, the Court didn't have before it the question whether or not if a good faith exception should be adopted it should be applied outside the context of a search warrant in the context of a search authorized by a statute."
+1986.85-608,1,15060,john_paul_stevens,scotus_justice,1469.553,1479.409,"No, but at the time that footnote was written the subject of the good faith exception had been before the Court in various ways for two or three years at least by 1983."
+1986.85-608,1,38091,paul_j_larkin_jr,,1488.864,1501.857,"No, I wasn't suggesting the Court wasn't aware of this type of problem, but it is just that until the Court decided Leon the Court didn't have the opportunity to decide how this type of exception should be applied outside the context of a search warrant."
+1986.85-608,1,15060,john_paul_stevens,scotus_justice,1501.857,1510.13,"Going back for a minute to the Torres case, were you saying that is a case where it was so obvious that the statute was unconstitutional that the police officer should have known it?"
+1986.85-608,1,38091,paul_j_larkin_jr,,1510.13,1511.596,I think that would be a case--
+1986.85-608,1,15060,john_paul_stevens,scotus_justice,1511.596,1516.117,Even though the Puerto Rico Supreme Court had held it constitutional?
+1986.85-608,1,38091,paul_j_larkin_jr,,1516.117,1526.14,"--As I remember the facts of that case there probably wasn't a majority to hold it unconstitutional, even though there was some indication that it probably would have been held unconstitutional because there was a majority of the judges sitting on the case."
+1986.85-608,1,15060,john_paul_stevens,scotus_justice,1526.14,1526.59,I see.
+1986.85-608,1,38091,paul_j_larkin_jr,,1526.59,1535.345,"So I think it is a case where the good faith exception would not have applied, but I think this is a case where the good faith exception should reasonably be applied."
+1986.85-608,1,15049,antonin_scalia,scotus_justice,1535.345,1538.313,"You are giving us a lot more litigation in all of this, aren't you?"
+1986.85-608,1,38091,paul_j_larkin_jr,,1552.707,1556.861,"Well, I am not sure what number of cases... how great that number of cases might be."
+1986.85-608,1,15049,antonin_scalia,scotus_justice,1567.467,1568.383,I understand.
+1986.85-608,1,38091,paul_j_larkin_jr,,1575.204,1576.323,It is not necessarily double it.
+1986.85-608,1,15141,william_h_rehnquist,scotus_justice,1586.595,1587.645,"Thank you, Mr. Larkin."
+1986.85-608,2,36313,miriam_f_miquelon,,1593.248,1630.79,"Mr. Chief Justice, and may it please the Court, police officers entered the premises of Action Iron and Metal for the ostensible purpose of executing a search pursuant to a procedural statute which by its own terms directly authorized a search under circumstances which did not satisfy the traditional warrant and probable cause requirements of the Fourth Amendment."
+1986.85-608,2,15049,antonin_scalia,scotus_justice,1720.714,1729.303,Did the Illinois Supreme Court reject the contention that he went beyond the scope of... that he was within the scope of the search that the statute allowed?
+1986.85-608,2,36313,miriam_f_miquelon,,1730.755,1734.374,"--I think they did, Your Honor, and let me explain how they did it."
+1986.85-608,2,15049,antonin_scalia,scotus_justice,1758.072,1761.874,I am not asking whether the Supreme Court of Illinois rejected the notion that it was a consent search.
+1986.85-608,2,36313,miriam_f_miquelon,,1771.48,1777.368,"Your Honor, they admitted in the Supreme Court that Judge Hogan determined it went beyond the scope of the statute."
+1986.85-608,2,15049,antonin_scalia,scotus_justice,1777.368,1781.604,I am not asking whether they admitted that the lower court had decided it.
+1986.85-608,2,36313,miriam_f_miquelon,,1786.925,1790.96,"Well, having conceded it in the Supreme Court the Supreme Court didn't reverse on that point."
+1986.85-608,2,15049,antonin_scalia,scotus_justice,1790.96,1793.579,They didn't say anything about that point.
+1986.85-608,2,36313,miriam_f_miquelon,,1795.262,1811.355,"Well, yes, because the state said that it was on an independent basis that they could do this, which was consent, and in response to that the Supreme Court said, well, there was no consent, and that is how they framed their argument there."
+1986.85-608,2,15049,antonin_scalia,scotus_justice,1843.659,1846.195,"Now, both of those cases draw the distinction."
+1986.85-608,2,36313,miriam_f_miquelon,,1848.897,1850.397,"Well, I think you have to--"
+1986.85-608,2,15049,antonin_scalia,scotus_justice,1850.397,1867.906,"They note that we allow this good faith exception where you have a substantive statute that is later found unconstitutional and the search is in order to enforce the substantive statute you can have a good faith exception, they say, but that is not the same thing as a statute which is not a substantive statute but a search statute."
+1986.85-608,2,36313,miriam_f_miquelon,,1871.06,1873.543,"--Well, I think they do, and I think DeFillippo does."
+1986.85-608,2,15049,antonin_scalia,scotus_justice,1873.543,1874.095,"Well, what is it?"
+1986.85-608,2,36313,miriam_f_miquelon,,1874.095,1891.974,"In DeFillippo the Court specifically states that a procedural search statute, unlike a substantive criminal statute, directly authorizes a search that is in violation of the Constitution, whereas a substantive criminal statute defines some conduct and the officer--"
+1986.85-608,2,15049,antonin_scalia,scotus_justice,1891.974,1892.94,That is another distinction.
+1986.85-608,2,36313,miriam_f_miquelon,,1903.531,1905.381,"--Well, I think then that--"
+1986.85-608,2,15049,antonin_scalia,scotus_justice,1905.381,1910.268,But what is the reason why that distinction should have some bearing upon whether you allow a good faith exception?
+1986.85-608,2,36313,miriam_f_miquelon,,1910.268,1919.624,--Because you are talking about a situation where the sovereign has acted beyond its lawful discretion.
+1986.85-608,2,15049,antonin_scalia,scotus_justice,1928.497,1938.753,"It has done so in the other case, too, where it has a substantive statute that is beyond its power, and it is having its law officers enforce a statute that it has no authority to enforce, a substantive law."
+1986.85-608,2,36313,miriam_f_miquelon,,1938.753,1944.406,"I would respectfully submit, Your Honor, that that was not the analysis made by the Court in DeFillippo."
+1986.85-608,2,15049,antonin_scalia,scotus_justice,1962.118,1963.884,That is a distinction.
+1986.85-608,2,36313,miriam_f_miquelon,,1981.412,1993.47,"Well, in my view, I mean, I feel that where the sovereign abrogates the Bill of Rights and the Constitution, I agree that the evidence should be excluded."
+1986.85-608,2,15049,antonin_scalia,scotus_justice,1993.47,2001.076,"It abrogates the Constitution every time it passes an unconstitutional law, whether it is substantively unconstitutional or an unconstitutional search law."
+1986.85-608,2,36313,miriam_f_miquelon,,2007.646,2023.906,Because this Court says that the search and the arrest based on a substantive unconstitutional statute in and of themselves are not unconstitutional because the officer has probable cause based on the statute to make the arrest and then the search is incident to the lawful arrest.
+1986.85-608,2,15049,antonin_scalia,scotus_justice,2023.906,2029.393,"He has probable cause because the statute seems to him to be constitutional, even though it really isn't."
+1986.85-608,2,36313,miriam_f_miquelon,,2045.188,2047.321,I think there is another point.
+1986.85-608,2,15092,sandra_day_oconnor,scotus_justice,2103.191,2113.332,"Ms. Miquelon, is it your view then that there is more to fear from a legislature's departure from Fourth Amendment requirements than a magistrate's?"
+1986.85-608,2,36313,miriam_f_miquelon,,2113.332,2114.166,"Well, yes."
+1986.85-608,2,15092,sandra_day_oconnor,scotus_justice,2114.166,2115.299,That is your position?
+1986.85-608,2,36313,miriam_f_miquelon,,2115.299,2116.368,"Yes, it is."
+1986.85-608,2,15092,sandra_day_oconnor,scotus_justice,2116.368,2130.727,Do you think that separation of powers concerns enter into how we should treat the exclusionary rule vis-a-vis a legislative body's departure from the Fourth Amendment as compared to a magistrate's?
+1986.85-608,2,36313,miriam_f_miquelon,,2130.727,2140.399,"Well, I think that there is a separation of powers issue, and in our brief we sort of quote all the way back to Alexander Hamilton, who points out that very fact."
+1986.85-608,2,15092,sandra_day_oconnor,scotus_justice,2140.399,2151.957,"Well, should a court be more reluctant to apply the exclusionary rule when the legislative body has departed than when one of its own magistrates has departed from the Fourth Amendment--"
+1986.85-608,2,36313,miriam_f_miquelon,,2151.957,2171.335,I think it should be more willing to apply the exclusionary rule because the Court has put the legislature on notice as to what constitutional yardstick is required when you abrogate the Fourth Amendment and you want to substitute your own regulatory scheme.
+1986.85-608,2,15092,sandra_day_oconnor,scotus_justice,2188.047,2194.218,"--Well, of course, it has the right to make its own determination initially on constitutionality."
+1986.85-608,2,36313,miriam_f_miquelon,,2194.218,2196.653,"--That's true, and that was done in this case."
+1986.85-608,2,15141,william_h_rehnquist,scotus_justice,2243.884,2276.355,"Ms. Miquelon, what if a state enacted a statute providing that the following circumstances shall constitute exigent circumstances for purposes of making arrests or searching, and then defined a number of situations which, you know, probably a lot of them would qualify as exigent circumstances under decided cases, but there was one in there that a court held this just doesn't qualify as an exigent circumstance under the Fourth Amendment."
+1986.85-608,2,36313,miriam_f_miquelon,,2283.542,2291.779,"Well, I think if it directly contravenes the Fourth Amendment, I think the Court has held that the exclusionary rule would suppress the evidence, yes."
+1986.85-608,2,15141,william_h_rehnquist,scotus_justice,2314.727,2325.119,"Yes, but do you think it is beyond the capacity of Congress or the Illinois legislature to say these shall be exigent circumstances?"
+1986.85-608,2,36313,miriam_f_miquelon,,2328.154,2364.36,"No, and in fact this... if this Court says that there is a constitutional roadmap to follow when you are defining exigent circumstances, and you have followed our roadmap as you did in... you provided Colonnada and Biswell and Donovan, then if the legislature follows that roadmap and reaches their constitutional destination there is no problem, but it is when they fail to do that that the Court cannot sanction the sovereign acting beyond its lawful discretion."
+1986.85-608,2,15141,william_h_rehnquist,scotus_justice,2364.36,2385.491,"So that even though this Court has recognized a class of situations, heavily regulated, licensed businesses which can be examined and perhaps searched without a warrant, if a legislature makes the slightest mistake under our cases in saying this is a heavily regulated business, the good faith rule doesn't apply?"
+1986.85-608,2,36313,miriam_f_miquelon,,2385.491,2389.977,"Well, when we say the slightest mistake, I think that that is a question of interpretation."
+1986.85-608,2,15141,william_h_rehnquist,scotus_justice,2397.215,2401.333,"Well, but under your analysis I understood it was kind of a black and white thing."
+1986.85-608,2,36313,miriam_f_miquelon,,2412.491,2420.014,"I have to say that is true, Your Honor, because to the... now, that doesn't mean in your example that we have to find the whole statute unconstitutional."
+1986.85-608,2,15049,antonin_scalia,scotus_justice,2516.708,2517.175,Excuse me.
+1986.85-608,2,36313,miriam_f_miquelon,,2527.599,2547.096,"--Well, in DeFillippo the Court did not apply this good faith exception to the exclusionary rule even to a substantive statute because this good faith exception is defined in terms of the warrant requirement."
+1986.85-608,2,15049,antonin_scalia,scotus_justice,2547.096,2549.029,What difference would it make?
+1986.85-608,2,36313,miriam_f_miquelon,,2562.772,2567.558,"No, I don't... once again, I don't agree with that respectfully, Justice Scalia."
+1986.85-608,2,15049,antonin_scalia,scotus_justice,2583.185,2584.535,And the statute is unconstitutional.
+1986.85-608,2,36313,miriam_f_miquelon,,2588.839,2590.439,--That is not the only thing wrong with it.
+1986.85-608,2,15049,antonin_scalia,scotus_justice,2593.791,2598.695,"Not this one, the other situation, the DeFillippo type situation."
+1986.85-608,2,36313,miriam_f_miquelon,,2598.695,2601.195,"Well, that's correct."
+1986.85-608,2,15141,william_h_rehnquist,scotus_justice,2647.426,2648.676,"Thank you, Ms. Miquelon."
+1986.85-608,3,35385,michael_j_angarola,,2655.532,2669.541,The legislature's judgment should be entitled to deference just as a judge's judgment regarding the execution of search warrants should be given deference.
+1986.85-608,3,15119,lewis_f_powell_jr,scotus_justice,2742.487,2743.755,May I ask this question?
+1986.85-608,3,35385,michael_j_angarola,,2743.755,2744.222,"--Yes, Your Honor."
+1986.85-608,3,15119,lewis_f_powell_jr,scotus_justice,2744.222,2750.493,"What specifically did the trial court say with respect to the good faith of the police officer, if anything?"
+1986.85-608,3,35385,michael_j_angarola,,2750.493,2762.401,He said that he did not feel that a determination regarding good faith was appropriate because he felt that there was no need to determine whether the officer was acting in good faith.
+1986.85-608,3,15119,lewis_f_powell_jr,scotus_justice,2762.401,2764.586,So he made no express finding either way.
+1986.85-608,3,35385,michael_j_angarola,,2764.586,2765.686,That's correct.
+1986.85-608,3,15141,william_h_rehnquist,scotus_justice,2852.323,2853.656,"Thank you, Mr. Angarola."

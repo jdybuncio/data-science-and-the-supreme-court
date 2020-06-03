@@ -1,0 +1,186 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2019.18-938,0,15086,john_g_roberts_jr,scotus_justice,0.0,17.2,"We'll hear argument next in Case 18-938, Ritzen Group versus Jackson Masonry. Mr. Lehman."
+2019.18-938,0,63184,james_k_lehman,,17.2,40.04,"Mr. Chief Justice, and may it please the Court: 28 U.S.C. Section 158 provides that district courts shall have jurisdiction to hear appeals from final order of bankruptcy judges entered in cases and proceedings referred to bankruptcy judges under Section 157. The order in this case merely determined where the parties would litigate Ritzen's contract claim."
+2019.18-938,0,15068,samuel_a_alito_jr,scotus_justice,174.72,179.6,"But, as I understand what you've just said, you're not contesting that this was a proceeding."
+2019.18-938,0,63184,james_k_lehman,,185.08,186.72,That's correct.
+2019.18-938,0,15068,samuel_a_alito_jr,scotus_justice,207.36,212.56,And when would that -- when would it become final? At the end of the case?
+2019.18-938,0,63184,james_k_lehman,,212.56,221.12,"We would submit that it would become final under this Court's test that when the status quo changed, and when the rights and obligations of the parties were fixed."
+2019.18-938,0,15068,samuel_a_alito_jr,scotus_justice,221.12,221.36,And when would that --
+2019.18-938,0,63184,james_k_lehman,,221.36,222.44,For example --
+2019.18-938,0,15068,samuel_a_alito_jr,scotus_justice,222.44,222.64,-- yeah.
+2019.18-938,0,63184,james_k_lehman,,224.12,246.68,"Well, for example, Rule 8002 actually lays out a fascinating -- a very good framework for final orders because it determines what orders cannot be extended in terms of time frame. The first under 8002(d)(2)(A) is the granting of the automatic stay cannot be extended, but the denial of the automatic stay isn't mentioned."
+2019.18-938,0,15068,samuel_a_alito_jr,scotus_justice,271.8,272.08,Well --
+2019.18-938,0,63184,james_k_lehman,,272.08,273.32,-- of a motion to dismiss.
+2019.18-938,0,15068,samuel_a_alito_jr,scotus_justice,273.32,275.6,-- maybe you could simplify this a little bit for me.
+2019.18-938,0,63184,james_k_lehman,,289.4,293.4,"When, in the words of this Court, the discrete dispute between the parties are resolved."
+2019.18-938,0,15068,samuel_a_alito_jr,scotus_justice,293.84,295.08,When would that happen?
+2019.18-938,0,63184,james_k_lehman,,295.08,296.96,As a result -- in this?
+2019.18-938,0,15068,samuel_a_alito_jr,scotus_justice,296.96,297.76,Yes.
+2019.18-938,0,63184,james_k_lehman,,299.6,309.44,"In this particular place, at the end of the claims adjudication process. It was the Respondent that said that the claims adjudication process was triggered by the motion to lift the stay."
+2019.18-938,0,15068,samuel_a_alito_jr,scotus_justice,309.44,310.28,"Yeah, okay."
+2019.18-938,0,63184,james_k_lehman,,316.28,316.76,No.
+2019.18-938,0,15068,samuel_a_alito_jr,scotus_justice,327.08,327.52,Okay.
+2019.18-938,0,63184,james_k_lehman,,330.88,337.0,"Just like this Court did in the Olberding case, the Court could vacate the decision and send it back."
+2019.18-938,0,15068,samuel_a_alito_jr,scotus_justice,353.36,353.44,Okay.
+2019.18-938,0,63184,james_k_lehman,,354.0,355.12,-- allowed for -- for good reason.
+2019.18-938,0,15068,samuel_a_alito_jr,scotus_justice,355.12,360.16,"-- says there should have been -- on appeal, there should have been relief from the -- from the stay."
+2019.18-938,0,63184,james_k_lehman,,374.52,381.04,"Well, with respect, it's no different than a motion to remand, a motion to transfer venue."
+2019.18-938,0,15086,john_g_roberts_jr,scotus_justice,384.4,402.56,"Well, it's a little different because the bankruptcy has gone on, right? The bankruptcy has concluded, and part of the bankruptcy is you're divvying things up, and depending on how much this person gets, that person gets more, and -- but now you say you've got to go back and start over with respect to one person's claim. I -- I don't understand how you can unscramble that egg."
+2019.18-938,0,63184,james_k_lehman,,402.56,405.76,But this is something that bankruptcy lawyers deal with every single day.
+2019.18-938,0,15131,sonia_sotomayor,scotus_justice,484.2,499.92,"Would you have had the right, if you chose, not to waste your time in adjudicating this in bankruptcy court and choosing -- could you have chosen to appeal immediately after the injunction was denied?"
+2019.18-938,0,63184,james_k_lehman,,499.92,502.6,"Your Honor, I missed the first part of your question, and so I --"
+2019.18-938,0,15131,sonia_sotomayor,scotus_justice,502.6,521.64,"Assuming you wished not to incur the expense and time of adjudicating this in the bankruptcy proceeding, could you have chosen at the time the injunction order denying the request to lift the stay was issued, could you have appealed then?"
+2019.18-938,0,63184,james_k_lehman,,521.64,532.68,"I believe that under 158 there's an interlocutory operation, 158(a)(c), as well as 1292(a)."
+2019.18-938,0,15131,sonia_sotomayor,scotus_justice,533.56,534.68,So the answer is yes?
+2019.18-938,0,63184,james_k_lehman,,534.68,535.44,"Yes, Your Honor --"
+2019.18-938,0,15131,sonia_sotomayor,scotus_justice,535.44,536.56,So isn't that --
+2019.18-938,0,63184,james_k_lehman,,536.56,537.72,-- as an interlocutory appeal.
+2019.18-938,0,15131,sonia_sotomayor,scotus_justice,537.72,556.0,"-- so isn't that a different question, since you accept the responsibility that you could have appealed, isn't the issue whether you should have appealed, and isn't there a split on that question among the circuits?"
+2019.18-938,0,63184,james_k_lehman,,556.0,557.0,"Well, Your Honor, I --"
+2019.18-938,0,15131,sonia_sotomayor,scotus_justice,557.0,560.8,Because what you're basically saying is I didn't have to.
+2019.18-938,0,63184,james_k_lehman,,560.8,567.44,"With respect, Your Honor, I believe that there are two very important reasons. First of all, it's not a matter of having to."
+2019.18-938,0,15131,sonia_sotomayor,scotus_justice,577.6,578.88,So you're answering me no --
+2019.18-938,0,63184,james_k_lehman,,578.88,579.36,Well --
+2019.18-938,0,15131,sonia_sotomayor,scotus_justice,579.36,582.44,-- that you couldn't have? I -- I don't know what you're arguing.
+2019.18-938,0,63184,james_k_lehman,,582.44,591.68,"With respect, the question was could we have appealed. Theoretically, we could have filed an interlocutory appeal. As a practical matter, that's only with leave of court."
+2019.18-938,0,15139,stephen_g_breyer,scotus_justice,617.76,631.04,"What's the difference -- is it the case that a creditor says to the bankruptcy judge: Judge, I don't want to be here."
+2019.18-938,0,63184,james_k_lehman,,639.24,640.32,"Yes, Your Honor."
+2019.18-938,0,15139,stephen_g_breyer,scotus_justice,640.32,641.16,Okay.
+2019.18-938,0,63184,james_k_lehman,,668.84,681.2,"With respect, this Court addressed that very issue in Bullard, and the Court said that confirmations of a plan change the status quo and set the rights and obligations of a party."
+2019.18-938,0,15139,stephen_g_breyer,scotus_justice,685.88,697.44,"They don't do that. Why not? Why not? If we have an imaginary case where a creditor who happens to make this motion has $100 million, and everybody else taken all together has $3.50."
+2019.18-938,0,63184,james_k_lehman,,703.16,704.96,If the merits --
+2019.18-938,0,15139,stephen_g_breyer,scotus_justice,704.96,708.76,I don't think Bullard was addressing that issue.
+2019.18-938,0,63184,james_k_lehman,,708.76,712.0,"Not exactly, Your Honor, but it was certainly addressing the question --"
+2019.18-938,0,15139,stephen_g_breyer,scotus_justice,712.0,712.28,All right.
+2019.18-938,0,63184,james_k_lehman,,712.28,713.6,-- of the symmetry that the court --
+2019.18-938,0,15139,stephen_g_breyer,scotus_justice,713.6,713.72,Okay.
+2019.18-938,0,63184,james_k_lehman,,746.32,751.0,"And under the Bullard standard, I do not believe the denial changes the status quo."
+2019.18-938,0,15139,stephen_g_breyer,scotus_justice,756.48,756.64,I see.
+2019.18-938,0,63184,james_k_lehman,,763.96,765.6,"No, the granting -- the granting does change it."
+2019.18-938,0,15139,stephen_g_breyer,scotus_justice,767.16,768.48,"No, now we have it the other way."
+2019.18-938,0,63184,james_k_lehman,,768.48,769.6,If the stay is agreed --
+2019.18-938,0,15139,stephen_g_breyer,scotus_justice,769.6,770.8,A hundred million is there --
+2019.18-938,0,63184,james_k_lehman,,770.8,771.92,I've got that part.
+2019.18-938,0,15139,stephen_g_breyer,scotus_justice,771.92,773.6,-- as opposed to the $3.53.
+2019.18-938,0,63184,james_k_lehman,,776.8,781.36,The Court does not look at the significance of the matter in determining whether or not it's final.
+2019.18-938,0,15139,stephen_g_breyer,scotus_justice,781.36,788.48,I didn't say it did. I just said the reasoning seems to be similar if my reasoning is correct.
+2019.18-938,0,63184,james_k_lehman,,790.56,808.72,"And -- and I would submit the Court answered this question in Bullard, that unless the status quo was changed, that it's not a final order, because it doesn't end that substantive process. If it's a $3.50 creditor that is otherwise excluded from the estate by the granting of the stay, that's a final judgment with respect to that creditor."
+2019.18-938,0,15139,stephen_g_breyer,scotus_justice,823.44,824.28,Thank you.
+2019.18-938,0,63184,james_k_lehman,,824.28,828.28,"It does assume some facts in evidence, that I am more of an expert. (Laughter.)"
+2019.18-938,0,63184,james_k_lehman,,828.28,893.92,"But I will defer to the Court. I would -- I would continue by suggesting that the government's characterization of bankruptcy law is misunderstood. Not only does the government misunderstand the framework for the jurisdiction, overlooking the fact that 158 was not passed in 1978 but was something to remedy 1293, which the court in the First Circuit, In re Sokolow, which this Court has cited favorably, had to address. 1293 did not use the word ""proceedings."" 1293 was -- was drafted in a way that required a final order but without the concept of proceeding. And, there, the First Circuit said we have to -- we -- we look back over 200 years and how this Court has looked at bankruptcy orders and recognized that, in some cases, some bankruptcy proceedings are different, are treated differently."
+2019.18-938,0,15068,samuel_a_alito_jr,scotus_justice,989.52,1012.44,"Before you go on to that, I'm not sure I quite understand why, if you agree that the motion for relief from the stay is a proceeding, why an order saying, no, I'm not granting relief from the proceeding, is not final?"
+2019.18-938,0,63184,james_k_lehman,,1012.44,1029.72,"Well, as this Court noted in Bullard, there are literally countless numbers of proceedings in contested matters. But it stretches the concept of finality to assume that the -- the order that disposes of all those proceedings meets the qualification of what this Court called an immediately appealable order."
+2019.18-938,0,15068,samuel_a_alito_jr,scotus_justice,1029.72,1035.24,So what if the order denying relief from the stay says and this is the final word on this subject.
+2019.18-938,0,63184,james_k_lehman,,1038.72,1042.96,"No, because the stay by its very nature can -- is -- is fluid."
+2019.18-938,0,17766,brett_m_kavanaugh,scotus_justice,1376.64,1380.96,"Well, most -- most of the courts of appeals have that rule, though."
+2019.18-938,0,63184,james_k_lehman,,1380.96,1392.96,"Well, with respect, Your Honor, I believe that that rule is dated -- is based in most of those cases on an outdated anachronism under a former bankruptcy rule, Rule 701."
+2019.18-938,0,17766,brett_m_kavanaugh,scotus_justice,1481.92,1490.64,"Your theory under the Bullard test is that the denial of relief from the stay does not alter the status quo for the creditor, is that right?"
+2019.18-938,0,63184,james_k_lehman,,1490.64,1494.04,"Your Honor, it doesn't alter the status quo for either one."
+2019.18-938,0,17766,brett_m_kavanaugh,scotus_justice,1494.04,1508.2,"And why is that on the status quo? I guess this might depend on how you define status quo, but it's going to prevent the creditor from enforcing judgments and seizing property, and the creditor is going to lose money."
+2019.18-938,0,63184,james_k_lehman,,1512.04,1517.72,"No, the status quo is -- is -- was determined at the date of the filing of the bankruptcy."
+2019.18-938,0,17766,brett_m_kavanaugh,scotus_justice,1517.72,1518.56,Right.
+2019.18-938,0,63184,james_k_lehman,,1518.56,1521.68,It was originally dating back to the filing of the bankruptcy.
+2019.18-938,0,17766,brett_m_kavanaugh,scotus_justice,1534.64,1536.16,End on that.
+2019.18-938,0,63184,james_k_lehman,,1536.16,1537.24,I'm sorry.
+2019.18-938,0,15086,john_g_roberts_jr,scotus_justice,1537.24,1545.92,"Thank you, counsel. Mr. Dunham."
+2019.18-938,1,63185,griffin_s_dunham,,1545.92,1559.36,"Mr. Chief Justice, and may it please the Court: Section 158 of the judicial code provides for a district court's jurisdiction over final decisions and orders that are issued in proceedings."
+2019.18-938,1,15086,john_g_roberts_jr,scotus_justice,1628.04,1634.04,"Well, there's nothing -- nothing left to do between the parties other than litigate the case."
+2019.18-938,1,63185,griffin_s_dunham,,1634.04,1634.92,"That's correct, Your Honor."
+2019.18-938,1,15086,john_g_roberts_jr,scotus_justice,1634.92,1637.16,"Well, that's kind of a big part of the whole thing. (Laughter.)"
+2019.18-938,1,63185,griffin_s_dunham,,1637.16,1663.64,"Right, and the important nuance there is there's nothing left to do with respect to the decision that denied stay relief. Certainly, there was going to have to be some negotiations, possibly some litigation, within the context of the bankruptcy case. But, with respect to the stay relief motion, that decision, there was nothing left to do upon entry of that decision to execute upon the judge's decision that all the claims adjudication would have to run through the bankruptcy case."
+2019.18-938,1,15139,stephen_g_breyer,scotus_justice,1663.64,1675.6,"A summary judgment motion, once it's decided, there's nothing left to do in respect to the summary judgment motion. All there is, is, as the Chief just said, litigate the entire case."
+2019.18-938,1,63185,griffin_s_dunham,,1679.36,1682.48,"Your Honor, a grant of a summary judgment is -- is indeed final."
+2019.18-938,1,15139,stephen_g_breyer,scotus_justice,1683.04,1688.08,"So we can appeal, and everybody's going to appeal from the summary judgment motions?"
+2019.18-938,1,63185,griffin_s_dunham,,1688.08,1691.36,"Yes, Your Honor, those would be raised within the context of an adversary proceeding."
+2019.18-938,1,15139,stephen_g_breyer,scotus_justice,1691.36,1694.44,What about a regular case out of bankruptcy court?
+2019.18-938,1,63185,griffin_s_dunham,,1694.44,1695.44,"Yes, Your Honor."
+2019.18-938,1,15139,stephen_g_breyer,scotus_justice,1695.44,1699.76,"Well, I never heard of that, that you could appeal immediately from the denial of summary judgment."
+2019.18-938,1,63185,griffin_s_dunham,,1699.76,1701.28,"Oh, not -- not from the denial of summary judgment."
+2019.18-938,1,15139,stephen_g_breyer,scotus_justice,1705.12,1705.76,"No, no, no."
+2019.18-938,1,63185,griffin_s_dunham,,1710.48,1711.0,That's correct.
+2019.18-938,1,15139,stephen_g_breyer,scotus_justice,1716.24,1718.04,I'm not literally talking about summary judgment.
+2019.18-938,1,63185,griffin_s_dunham,,1752.2,1764.2,"And, Your Honor, I believe that, to answer your question, I believe in the oral argument in Bullard, the -- Justice Breyer, you had mentioned the fact that Collier's identifies approximately 47 contested matters."
+2019.18-938,1,15139,stephen_g_breyer,scotus_justice,1769.32,1770.44,I'm not being literal.
+2019.18-938,1,15086,john_g_roberts_jr,scotus_justice,1774.88,1785.64,"And if you do, I apologize for interrupting your -- your two minutes opening, so I at least will not ask -- ask a question for the next two minutes."
+2019.18-938,1,63185,griffin_s_dunham,,1785.64,1787.16,"No, Your Honor. (Laughter.)"
+2019.18-938,1,15139,stephen_g_breyer,scotus_justice,1787.16,1789.08,Nor will I because I had those two. (Laughter.)
+2019.18-938,1,15086,john_g_roberts_jr,scotus_justice,1789.08,1790.36,Old habits are hard to break.
+2019.18-938,1,63185,griffin_s_dunham,,1791.12,1795.48,"Your Honor, for -- for the Court's edification, I waive my right for any of the two minutes."
+2019.18-938,1,15086,john_g_roberts_jr,scotus_justice,1796.44,1798.28,I anticipated that's what you were doing. (Laughter.)
+2019.18-938,1,63185,griffin_s_dunham,,1798.28,1799.56,"Yes, Your Honor."
+2019.18-938,1,63185,griffin_s_dunham,,1800.36,1813.16,So the question about finality is -- is whether or not any decision is final determines -- is determined by whether or not there is anything left to do except for execute on it. The real hurdle is whether or not it constitutes a proceeding.
+2019.18-938,1,15131,sonia_sotomayor,scotus_justice,1828.04,1848.56,"Why not? Meaning what Ritzen points out is that in the proceeding that's going on, the issue of bad faith is going to be litigated. And during that litigation, the motion can be renewed to lift the stay and if, you know, part of -- or lift the stay."
+2019.18-938,1,63185,griffin_s_dunham,,1857.8,1860.48,"Yes, Your Honor, there are two responses to your question."
+2019.18-938,1,62836,neil_gorsuch,scotus_justice,1887.24,1888.56,I'm not -- I'm not sure that quite gets there.
+2019.18-938,1,15131,sonia_sotomayor,scotus_justice,1888.56,1889.56,"No, no, please go ahead."
+2019.18-938,1,62836,neil_gorsuch,scotus_justice,1889.56,1893.48,"No, no, I think we're asking the same thing, which is forget about the reasons."
+2019.18-938,1,63185,griffin_s_dunham,,1913.04,1913.96,It does not.
+2019.18-938,1,62836,neil_gorsuch,scotus_justice,1936.72,1937.56,"Well, no, no."
+2019.18-938,1,63185,griffin_s_dunham,,1941.44,1941.8,Yes.
+2019.18-938,1,62836,neil_gorsuch,scotus_justice,1941.8,1947.8,-- during the life of a case and find it persuasive today but didn't find it persuasive yesterday.
+2019.18-938,1,63185,griffin_s_dunham,,1975.2,1999.76,"And, Your Honor, I will submit that reconsideration or the filing of a renewed stay relief motion does not determine that a prior order that's been issued is final or interlocutory. It's simply a creation of a new proceeding, if there is a renewed motion based on a change of circumstances, because like, in any bankruptcy case, certainly, the facts can change during the duration or the pendency of the case."
+2019.18-938,1,15131,sonia_sotomayor,scotus_justice,1999.76,2001.36,But what an anomaly.
+2019.18-938,1,63185,griffin_s_dunham,,2007.08,2007.56,Yes.
+2019.18-938,1,15131,sonia_sotomayor,scotus_justice,2007.56,2017.6,But now you're saying that a motion to lift a stay is and must -- not only is but must be immediately appealable.
+2019.18-938,1,63185,griffin_s_dunham,,2031.12,2058.24,"The simple answer to your question, Justice Sotomayor, is that a motion to dismiss, a motion for a change of venue, a motion for remand, all of those are not proceedings. If they are denied simply because there is no alteration of the status quo and the denial does not fix the rights and obligations of the parties, it doesn't move the case forward, and, therefore, to use the Court's words, it changes little. A stay relief motion is entirely different."
+2019.18-938,1,15086,john_g_roberts_jr,scotus_justice,2160.12,2191.0,"Could I ask you to respond to your friend's comments on the difficulties or lack of difficulties of an entanglement, I guess I'll call it? In other words, the fact that the one -- in the absence of finality, that the case would require going back to the unraveling what had happened in the bankruptcy without the claims being adjudicated in the state proceeding?"
+2019.18-938,1,63185,griffin_s_dunham,,2191.0,2191.76,"Yes, Your Honor."
+2019.18-938,1,15131,sonia_sotomayor,scotus_justice,2255.76,2257.96,"You're not arguing the case is moot, are you?"
+2019.18-938,1,63185,griffin_s_dunham,,2257.96,2262.4,I certainly believe that the case is equitably moot on several grounds.
+2019.18-938,1,15131,sonia_sotomayor,scotus_justice,2262.4,2263.2,Legally moot?
+2019.18-938,1,63185,griffin_s_dunham,,2263.2,2264.4,I don't believe it's legally moot.
+2019.18-938,1,15139,stephen_g_breyer,scotus_justice,2385.68,2417.96,"That's true, but, in every case throughout the entire legal system, there's always a choice of the kind at issue here. If you say that you have to wait 'til the end of the case to appeal the result you don't like of a motion, if, for example, X wants to leave, the trial judge -- the bankruptcy judge or the trial judge -- no, okay? If you have to wait 'til the end of the case and appeal it, if your -- if the judge was right, no problem."
+2019.18-938,1,63185,griffin_s_dunham,,2448.16,2448.32,I --
+2019.18-938,1,15139,stephen_g_breyer,scotus_justice,2448.32,2449.72,How do we balance those two?
+2019.18-938,1,63185,griffin_s_dunham,,2449.72,2451.64,I would love to respond to it.
+2019.18-938,1,17766,brett_m_kavanaugh,scotus_justice,2568.08,2579.88,"They argue from the language in Bullard that the -- the ""alter the status quo"" language in Bullard that this doesn't -- the denial here doesn't meet that test."
+2019.18-938,1,63185,griffin_s_dunham,,2580.72,2581.8,I certainly can.
+2019.18-938,1,17766,brett_m_kavanaugh,scotus_justice,2593.88,2594.16,I'm focusing on --
+2019.18-938,1,63185,griffin_s_dunham,,2594.16,2595.0,-- move the case forward.
+2019.18-938,1,17766,brett_m_kavanaugh,scotus_justice,2595.0,2598.48,"-- that precise language, ""alter the status quo."" So if you can zero in on that."
+2019.18-938,1,63185,griffin_s_dunham,,2598.48,2598.88,Yes.
+2019.18-938,1,15068,samuel_a_alito_jr,scotus_justice,2655.4,2680.68,"It's true Bullard did use this phrase ""alteration of the status quo"" and in a particular context, but do you think we should elevate that to an essential element of finality? Is the final order in a case, as ordinarily understood, always one that alters the status quo? Sometimes the effect of the final order is to leave the -- leave the status quo in place."
+2019.18-938,1,63185,griffin_s_dunham,,2680.68,2691.24,"It -- Your Honor, I -- it is our position that the use of the term ""status quo,"" I believe, was used -- was one time in Bullard, and it came to define really what it took to move a case forward."
+2019.18-938,1,15131,sonia_sotomayor,scotus_justice,2732.96,2736.2,The Sixth Circuit viewed it differently than you.
+2019.18-938,1,63185,griffin_s_dunham,,2736.2,2737.0,"No, Your Honor."
+2019.18-938,1,15131,sonia_sotomayor,scotus_justice,2737.0,2737.92,They -- they seem to think --
+2019.18-938,1,63185,griffin_s_dunham,,2737.92,2738.04,Our -- we --
+2019.18-938,1,15131,sonia_sotomayor,scotus_justice,2738.04,2740.24,-- of it as part of the finality order.
+2019.18-938,1,63185,griffin_s_dunham,,2740.24,2750.16,"The Sixth Circuit's opinion, we think, is -- is perfect because it considered the fact that you can't have finality unless there's -- if there is without prejudice. Your Honor, I see my time --"
+2019.18-938,1,15086,john_g_roberts_jr,scotus_justice,2750.16,2751.68,Please finish your answer.
+2019.18-938,1,63185,griffin_s_dunham,,2751.68,2758.76,And so the Sixth Circuit said that the finality test is difficult because we haven't given the parties a test.
+2019.18-938,1,15086,john_g_roberts_jr,scotus_justice,2797.68,2804.88,"Thank you, counsel. Mr. Suri."
+2019.18-938,2,63186,vivek_suri,,2804.88,2813.32,"Mr. Chief Justice, and may it please the Court: I'll begin with the questions that were just posed about the status quo language in the Bullard opinion."
+2019.18-938,2,15131,sonia_sotomayor,scotus_justice,2823.16,2826.2,Of which test? Of proceeding or finality?
+2019.18-938,2,63186,vivek_suri,,2826.2,2827.08,Finality.
+2019.18-938,2,62836,neil_gorsuch,scotus_justice,2904.04,2941.84,"Counsel, on -- on -- on -- on that, the Sixth Circuit placed a great deal of stress, it seems, on the fact that the stay relief denial here was entered with -- with prejudice in its view. But what difference does that really make in a bankruptcy proceeding where orders are revisable all the time? So is -- is -- is that even a thing that -- that -- that -- that exists to say it's with -- with prejudice when it's not really with prejudice and -- and, if it really is without prejudice as a practical matter, what effect does that have on your argument here?"
+2019.18-938,2,63186,vivek_suri,,2941.84,2944.76,"That's a fair concern, Justice Gorsuch."
+2019.18-938,2,62836,neil_gorsuch,scotus_justice,2985.96,2993.0,Does it really have to meet the standards of -- 60(b) is post-final judgment relief in normal civil litigation.
+2019.18-938,2,63186,vivek_suri,,3015.72,3018.96,It is not just the bankruptcy judge's equitable sense.
+2019.18-938,2,62836,neil_gorsuch,scotus_justice,3040.24,3041.84,Do you have any authority to that effect?
+2019.18-938,2,63186,vivek_suri,,3041.84,3048.64,I'm not aware of a specific case of this Court or -- or a -- or a court of appeals upholding to that effect.
+2019.18-938,2,62836,neil_gorsuch,scotus_justice,3049.84,3075.32,"So, if that were right, though, that would -- that would also undercut -- and I apologize for -- this just follows from what you said, that if -- if it really is a matter of statute that compels this understanding of a -- of a stay relief denial, then whether the judge adorns it without prejudice, it's still really with prejudice. Any stay relief denials with prejudice, that follows from I think what you're saying, unless I'm missing something, which perhaps I am."
+2019.18-938,2,63186,vivek_suri,,3075.32,3075.52,No.
+2019.18-938,2,62836,neil_gorsuch,scotus_justice,3098.92,3100.24,So they're tied up in a bow.
+2019.18-938,2,63186,vivek_suri,,3107.48,3108.28,"Yes, essentially."
+2019.18-938,2,15094,elena_kagan,scotus_justice,3108.28,3110.96,"Mr. Suri, may I take you to a different place?"
+2019.18-938,2,63186,vivek_suri,,3110.96,3111.28,Yes.
+2019.18-938,2,15094,elena_kagan,scotus_justice,3111.28,3128.72,"In the last page of your brief, you refer to another circuit split. Apparently, there are some circuits that say, although you may bring an appeal immediately, you don't have to and you can wait until the end. And you suggest that we don't have to think about that question."
+2019.18-938,2,63186,vivek_suri,,3162.56,3186.4,"I'll start with this case and then turn to the broader issue raised by that split. So, in this case, regardless of whether as a legal matter one is required to appeal immediately rather than waiting until the end of the case, as a practical matter, as Justice Alito pointed out in an earlier question, the -- there won't be an opportunity for effective review at the end of the case anyway."
+2019.18-938,2,15131,sonia_sotomayor,scotus_justice,3268.32,3284.56,"You're suggesting then that this kind of relief, and motion to lift the stay, should never be considered revisitable at the end, but there may be other types of motions that should? I'm a little confused."
+2019.18-938,2,63186,vivek_suri,,3284.56,3299.16,We are highly skeptical that this type of order can be a basis for overturning a final judgment at the end of the whole bankruptcy case. We're not ruling out that there might be other types of orders that might be treated --
+2019.18-938,2,17766,brett_m_kavanaugh,scotus_justice,3299.16,3299.52,So an --
+2019.18-938,2,15094,elena_kagan,scotus_justice,3299.52,3299.92,But what --
+2019.18-938,2,17766,brett_m_kavanaugh,scotus_justice,3299.92,3302.6,Go ahead.
+2019.18-938,2,15094,elena_kagan,scotus_justice,3302.6,3313.08,Why shouldn't we just decide this question? What -- what -- why doesn't the government have a position? Why isn't this ripe to decide it now? It seems very tied up in the whole thing.
+2019.18-938,2,63186,vivek_suri,,3313.08,3316.72,The Court shouldn't decide the question because no one's briefed the question.
+2019.18-938,2,17766,brett_m_kavanaugh,scotus_justice,3324.44,3330.76,"When you very objectively and nicely laid out the competing positions, ""must"" certainly seemed a lot stronger than ""may."""
+2019.18-938,2,63186,vivek_suri,,3330.76,3338.36,That is a fair inference about where the government might be leaning on that question. (Laughter.)
+2019.18-938,2,63186,vivek_suri,,3338.36,3343.28,I'd -- I'd like to address the broader issue of what counts as a proceeding.
+2019.18-938,2,15139,stephen_g_breyer,scotus_justice,3395.48,3398.2,Why is lifting the stay separate?
+2019.18-938,2,63186,vivek_suri,,3398.2,3406.16,You could have a lawsuit outside bankruptcy that is analogous to a lift stay proceeding.
+2019.18-938,2,15086,john_g_roberts_jr,scotus_justice,3417.72,3430.12,"Thank you, counsel. Five minutes, Mr. Lehman."
+2019.18-938,3,63184,james_k_lehman,,3430.12,3442.44,Thank you. I'd like to begin with where the government ended and then move through some of the questions that were raised.
+2019.18-938,3,15086,john_g_roberts_jr,scotus_justice,3714.64,3716.48,You can finish your thought.
+2019.18-938,3,63184,james_k_lehman,,3716.48,3730.96,"The fact that the -- the creditors received 100 cents on the dollar did not mean that this will be unscrambled, but that -- and they received 5.6 million dollars in cash since then, we believe would satisfy any problem that we have. Thank you very much."
+2019.18-938,3,15086,john_g_roberts_jr,scotus_justice,3730.96,3732.0,"Thank you, counsel."

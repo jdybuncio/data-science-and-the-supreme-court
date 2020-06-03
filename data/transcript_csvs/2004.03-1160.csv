@@ -1,0 +1,207 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2004.03-1160,0,15060,john_paul_stevens,scotus_justice,0.0,4.387,We'll hear argument in Smith against the City of Jackson.
+2004.03-1160,0,42731,thomas_c_goldstein,,4.967,14.795,"Justice Stevens, and may it please the Court:"
+2004.03-1160,0,15060,john_paul_stevens,scotus_justice,39.476,41.475,"Mr. Goldstein, let me just interrupt a minute."
+2004.03-1160,0,42731,thomas_c_goldstein,,50.79,56.395,"Justice Stevens, there is not a clear answer to that question in all candor."
+2004.03-1160,0,15139,stephen_g_breyer,scotus_justice,133.463,137.297,You put your finger on exactly what's the part of this case that's bothering me.
+2004.03-1160,0,42731,thomas_c_goldstein,,233.015,234.856,--I can tell you.
+2004.03-1160,0,15084,ruth_bader_ginsburg,scotus_justice,267.184,284.06,"Mr. Goldstein, before you do that, before you deal with the EEOC regulation, this statute doesn't... at least on... on the page 1 part you called our attention to, doesn't refer to business necessity."
+2004.03-1160,0,42731,thomas_c_goldstein,,326.714,327.654,--Yes.
+2004.03-1160,0,15084,ruth_bader_ginsburg,scotus_justice,389.273,399.578,"Well, I'm not sure you're right about that, Mr. Goldstein, because if you think of what it was, it was a pen and paper test and it was a high school diploma."
+2004.03-1160,0,42731,thomas_c_goldstein,,443.358,460.018,"My point is only terminological, and that is, when the EEOC used those words, it did not do so against a backdrop in which they carried a connotation that was necessarily very strict, and it has said several times... and they are quoted in our brief... that the standard... and this is just the bottom line."
+2004.03-1160,0,15049,antonin_scalia,scotus_justice,461.753,463.006,You don't care about those regs anyway.
+2004.03-1160,0,42731,thomas_c_goldstein,,463.419,466.104,We do care about the regulations.
+2004.03-1160,0,15049,antonin_scalia,scotus_justice,466.104,466.584,"Oh, you do."
+2004.03-1160,0,42731,thomas_c_goldstein,,469.776,471.279,"Well, we have--"
+2004.03-1160,0,15049,antonin_scalia,scotus_justice,471.279,471.84,--text of the statute.
+2004.03-1160,0,42731,thomas_c_goldstein,,471.84,472.806,--We can and will.
+2004.03-1160,0,15092,sandra_day_oconnor,scotus_justice,472.806,480.785,"Well, maybe you should because I'm not so sure that the EEOC interpretation is entitled to Chevron deference."
+2004.03-1160,0,42731,thomas_c_goldstein,,480.785,493.145,We do believe that it is entitled to Chevron deference because they have delegated rulemaking authority and there is some suggestion that the because of language in subsection--
+2004.03-1160,0,15092,sandra_day_oconnor,scotus_justice,493.145,499.495,"But was this an actual rule after notice and comment, or is it a... an interpretation?"
+2004.03-1160,0,42731,thomas_c_goldstein,,499.495,501.773,--It is a post-notice and comment rule.
+2004.03-1160,0,15113,anthony_m_kennedy,scotus_justice,501.773,506.766,But... but it interprets... doesn't interpret the prohibitory section.
+2004.03-1160,0,42731,thomas_c_goldstein,,519.905,535.085,"It's conceivable you could read it that way, although the EEOC has specified many times, in the quarter century since it enacted the regulation, that no, when we... and let me take us to the text to explain why, and that again is at page 2 of the blue brief."
+2004.03-1160,0,15139,stephen_g_breyer,scotus_justice,568.626,572.364,Easier... easier is a matter of degree.
+2004.03-1160,0,42731,thomas_c_goldstein,,572.364,572.973,--Yes.
+2004.03-1160,0,15139,stephen_g_breyer,scotus_justice,572.973,585.504,And reasonable factor could be interpreted to say what the employer... but the employer just doesn't like paying these executives so much money when these new younger janitors make so little.
+2004.03-1160,0,42731,thomas_c_goldstein,,593.197,593.675,No.
+2004.03-1160,0,15139,stephen_g_breyer,scotus_justice,593.675,596.205,"And now you say, what's the business necessity?"
+2004.03-1160,0,42731,thomas_c_goldstein,,624.801,628.866,"Well, let me take you to the lines of cases that I think might concern you."
+2004.03-1160,0,15092,sandra_day_oconnor,scotus_justice,716.585,735.168,"Mr. Goldstein, you... this is... this case arises out of a compensation program of the employer, and why is it brought under 4(a)(2) instead of 4(a)(1) which addresses discrimination in compensation?"
+2004.03-1160,0,42731,thomas_c_goldstein,,735.168,748.113,"--Justice O'Connor, the lower courts unanimously conclude, as does the commission, that (a)(2), although it does not have the word compensation in it, does apply to compensation and--"
+2004.03-1160,0,15092,sandra_day_oconnor,scotus_justice,748.113,750.618,But why in light of 4(a)(1)?
+2004.03-1160,0,42731,thomas_c_goldstein,,750.618,760.672,"--Because they understand 4(a)... and let me take you... everyone to the text just so we can all be literally on the same page, and that is going to be in the red brief at page 17a."
+2004.03-1160,0,15060,john_paul_stevens,scotus_justice,793.16,798.736,May I ask a question at this point going really back to the question I asked you at the outset of the argument?
+2004.03-1160,0,42731,thomas_c_goldstein,,816.669,817.657,Yes.
+2004.03-1160,0,15060,john_paul_stevens,scotus_justice,820.444,825.743,"And if I do look at it and if I do come to the conclusion I've suggested, would I not have to dismiss your complaint?"
+2004.03-1160,0,42731,thomas_c_goldstein,,825.743,829.323,"--I may misunderstand the hypothetical, Justice Stevens."
+2004.03-1160,0,15060,john_paul_stevens,scotus_justice,829.323,849.054,"The hypothetical... and I think it may be the case... that you have a compensation program which uses years of service as a basis for classifying employees which has a disparate impact on older workers, but it does... also it relies squarely on a reasonable factor other than age if you will call years of service such a factor."
+2004.03-1160,0,42731,thomas_c_goldstein,,849.054,849.892,Yes.
+2004.03-1160,0,15139,stephen_g_breyer,scotus_justice,853.979,854.854,--suppose I want--
+2004.03-1160,0,15060,john_paul_stevens,scotus_justice,854.854,856.552,I understand that to be this case.
+2004.03-1160,0,42731,thomas_c_goldstein,,856.552,866.548,"--No, it would not because the rationale given by the employer here for... let... let me take us to the facts and then the explanation that's given by the employer."
+2004.03-1160,0,15060,john_paul_stevens,scotus_justice,885.608,889.348,"No, but the basis for differentiation was years of service, was it not?"
+2004.03-1160,0,42731,thomas_c_goldstein,,889.348,896.728,"--The basis for differentiation was years of service, but the question is in... is it a reasonable choice by the employer in this context."
+2004.03-1160,0,15060,john_paul_stevens,scotus_justice,897.833,899.285,"Well, I'm just asking in the abstract."
+2004.03-1160,0,42731,thomas_c_goldstein,,902.711,903.413,--I apologize.
+2004.03-1160,0,15060,john_paul_stevens,scotus_justice,942.724,950.42,"But the factor... if I understand it, it wasn't because they were line officers, it was rather because they had lesser years of service than the more senior officers."
+2004.03-1160,0,42731,thomas_c_goldstein,,950.42,950.75,No.
+2004.03-1160,0,15060,john_paul_stevens,scotus_justice,950.75,951.146,No.
+2004.03-1160,0,42731,thomas_c_goldstein,,951.146,952.113,That is not the facts here.
+2004.03-1160,0,15060,john_paul_stevens,scotus_justice,992.941,999.032,I don't think the statement of purpose tells me what the... what the criterion for the different treatment was.
+2004.03-1160,0,42731,thomas_c_goldstein,,1000.514,1006.67,"--Justice Stevens, I... I just think that... it misunderstands the facts as I know them in this particular case."
+2004.03-1160,0,15060,john_paul_stevens,scotus_justice,1006.67,1007.457,What was the criterion?
+2004.03-1160,0,42731,thomas_c_goldstein,,1007.457,1012.559,The criterion was that they took the... they had different kinds of officers.
+2004.03-1160,0,15060,john_paul_stevens,scotus_justice,1017.659,1021.42,"So in other words, the criterion was the kind of rank they had before."
+2004.03-1160,0,42731,thomas_c_goldstein,,1021.42,1022.009,"Yes, and then--"
+2004.03-1160,0,15060,john_paul_stevens,scotus_justice,1022.009,1024.127,Then why isn't that a reasonable factor other than age?
+2004.03-1160,0,42731,thomas_c_goldstein,,1024.127,1029.7,--The question is not whether that because that's not... having those criterion is perfectly reasonable.
+2004.03-1160,0,15060,john_paul_stevens,scotus_justice,1044.865,1048.805,"In other words, you say the... the question isn't whether they used a reasonable factor other than age."
+2004.03-1160,0,42731,thomas_c_goldstein,,1053.308,1053.644,--Yes.
+2004.03-1160,0,15060,john_paul_stevens,scotus_justice,1054.198,1055.242,That's a rewriting of the statute.
+2004.03-1160,0,42731,thomas_c_goldstein,,1055.242,1056.854,"Oh, I... I don't think so, Justice Stevens."
+2004.03-1160,0,15060,john_paul_stevens,scotus_justice,1071.994,1073.794,Because title VII doesn't have this language in it.
+2004.03-1160,0,42731,thomas_c_goldstein,,1073.794,1081.633,"--That's absolutely right, but it's not language here that would detract from that structure of the... of the title VII inquiry."
+2004.03-1160,0,15139,stephen_g_breyer,scotus_justice,1086.374,1091.093,--So here... here you're saying you're not attacking reasonable factor other than age.
+2004.03-1160,0,42731,thomas_c_goldstein,,1100.014,1100.264,--Yes.
+2004.03-1160,0,15139,stephen_g_breyer,scotus_justice,1100.58,1101.02,Is that right?
+2004.03-1160,0,42731,thomas_c_goldstein,,1101.02,1101.311,--Yes.
+2004.03-1160,0,15139,stephen_g_breyer,scotus_justice,1102.259,1113.291,But if I... I say my explanation for why I pay the newer people more is really I like to have that atmosphere.
+2004.03-1160,0,42731,thomas_c_goldstein,,1134.433,1134.829,No.
+2004.03-1160,0,15139,stephen_g_breyer,scotus_justice,1136.008,1138.728,"Ah, I lose a treatment case."
+2004.03-1160,0,42731,thomas_c_goldstein,,1156.889,1157.55,You paid the lower paid workers more?
+2004.03-1160,0,15139,stephen_g_breyer,scotus_justice,1157.55,1157.898,Yes.
+2004.03-1160,0,42731,thomas_c_goldstein,,1168.662,1171.177,"You, in all likelihood, win in that hypothetical."
+2004.03-1160,0,15139,stephen_g_breyer,scotus_justice,1171.442,1171.882,I win.
+2004.03-1160,0,42731,thomas_c_goldstein,,1172.893,1173.532,--No.
+2004.03-1160,0,15084,ruth_bader_ginsburg,scotus_justice,1215.556,1231.637,"There haven't been a whole lot of cases under the impact theory as applied to age, and you just said you're not talking about the cost category but that... you mentioned physical fitness."
+2004.03-1160,0,42731,thomas_c_goldstein,,1257.115,1258.348,"--Yes, I can."
+2004.03-1160,0,15049,antonin_scalia,scotus_justice,1298.901,1300.378,These are examples of?
+2004.03-1160,0,42731,thomas_c_goldstein,,1302.66,1303.429,--Violations.
+2004.03-1160,0,15049,antonin_scalia,scotus_justice,1307.838,1314.838,Why isn't it a reasonable factor other than age that I don't want to hire somebody who's going to retire a year after I hire him?
+2004.03-1160,0,42731,thomas_c_goldstein,,1314.838,1316.184,Because it's not--
+2004.03-1160,0,15049,antonin_scalia,scotus_justice,1316.184,1318.134,"Gee, that seems to me terribly reasonable."
+2004.03-1160,0,42731,thomas_c_goldstein,,1318.134,1319.648,--The--
+2004.03-1160,0,15049,antonin_scalia,scotus_justice,1319.648,1321.293,I don't care how old he is.
+2004.03-1160,0,42731,thomas_c_goldstein,,1326.375,1334.544,"--The view of the commission... it's one I share, but a particular court might not... is that that is not a good... a reasonable work place judgment."
+2004.03-1160,0,15092,sandra_day_oconnor,scotus_justice,1428.942,1435.164,"Well, once we... if we were to say it's covered, don't you think that number would expand?"
+2004.03-1160,0,42731,thomas_c_goldstein,,1435.164,1440.339,"--It's possible it would expand some, but I do think we're right to say not much because--"
+2004.03-1160,0,15139,stephen_g_breyer,scotus_justice,1440.339,1442.212,"Well, it's not the number of cases either."
+2004.03-1160,0,42731,thomas_c_goldstein,,1456.91,1466.51,"--Well, there are two fears I think the respondents have articulated, neither of which are borne out by actual experience because, Justice O'Connor, the EEOC has recognized these claims for a quarter century."
+2004.03-1160,0,15060,john_paul_stevens,scotus_justice,1564.789,1568.98,Mr. Nager.
+2004.03-1160,1,25826,glen_d_nager,,1568.98,1572.819,"Thank you, Justice Stevens, and may it please the Court:"
+2004.03-1160,1,15084,ruth_bader_ginsburg,scotus_justice,1673.455,1677.465,Verdi wrote Falstaff when he was 70... late... in his late 70's.
+2004.03-1160,1,25826,glen_d_nager,,1680.587,1685.243,"--There is no doubt, particularly in occupations like judging--"
+2004.03-1160,1,15049,antonin_scalia,scotus_justice,1694.588,1696.689,"Wunsler died at about 28, didn't he?"
+2004.03-1160,1,15084,ruth_bader_ginsburg,scotus_justice,1696.689,1698.03,No. 34.
+2004.03-1160,1,15049,antonin_scalia,scotus_justice,1698.03,1698.693,Well--
+2004.03-1160,1,15042,david_h_souter,scotus_justice,1698.693,1700.938,Let me... let me ask this.
+2004.03-1160,1,25826,glen_d_nager,,1713.11,1725.123,"--The answer to that is as follows, is that Justice... Chief... then Justice Rehnquist, now Chief Justice Rehnquist, wrote a dissent from denial at the time of Geller v. Markham."
+2004.03-1160,1,15049,antonin_scalia,scotus_justice,1807.972,1812.889,--What do you do about the EEOC's regulation?
+2004.03-1160,1,25826,glen_d_nager,,1818.65,1821.609,Let me answer that.
+2004.03-1160,1,15049,antonin_scalia,scotus_justice,1841.84,1849.577,"How can we possibly say that it's not ambiguous when we have, in another context, interpreted the identical language to permit--"
+2004.03-1160,1,25826,glen_d_nager,,1849.577,1857.732,"Just the way this Court did last term in the General Dynamics case, which I realize you dissented on this point, Justice Scalia."
+2004.03-1160,1,15060,john_paul_stevens,scotus_justice,1881.494,1886.911,"No, but in that... in that case, we were construing the word age and age definitely has a different meaning from sex or... or race."
+2004.03-1160,1,25826,glen_d_nager,,1886.911,1892.215,"I'm not saying that the... the General Dynamics case disposes of this case, Justice Stevens."
+2004.03-1160,1,15084,ruth_bader_ginsburg,scotus_justice,1905.861,1914.43,"Yes, but not whole texts, not... I don't remember whether it was 1... 1 and 2 or A and B, but this is not a word, age."
+2004.03-1160,1,25826,glen_d_nager,,1941.455,1943.681,No.
+2004.03-1160,1,15084,ruth_bader_ginsburg,scotus_justice,1943.681,1944.334,--disparate impact.
+2004.03-1160,1,25826,glen_d_nager,,1944.334,1945.666,"That is not quite right, Justice Ginsburg."
+2004.03-1160,1,15049,antonin_scalia,scotus_justice,1988.181,1991.565,"--If that's so, Congress shouldn't have copied the language of title VII."
+2004.03-1160,1,25826,glen_d_nager,,2001.607,2012.323,"--Well, they copied it before Griggs was decided, indeed, before any agency of Government, before any court in this country, and before any academic in this country had floated the concept--"
+2004.03-1160,1,15049,antonin_scalia,scotus_justice,2012.323,2016.824,"Well, I think it's a fair conclusion that they meant the two to mean the same thing, whether it was before Griggs or after Griggs."
+2004.03-1160,1,25826,glen_d_nager,,2020.45,2023.619,"--I... I think that that's wrong, Justice Scalia."
+2004.03-1160,1,15049,antonin_scalia,scotus_justice,2023.619,2027.996,"Or... or at least it is arguably so, in which case you come back to my question."
+2004.03-1160,1,25826,glen_d_nager,,2034.286,2039.715,"Well, let me answer that question directly and then come back and argue with you about your premise."
+2004.03-1160,1,15049,antonin_scalia,scotus_justice,2120.664,2121.83,Where... where are you reading from?
+2004.03-1160,1,25826,glen_d_nager,,2121.83,2123.625,--Page 56a of the red brief.
+2004.03-1160,1,15049,antonin_scalia,scotus_justice,2127.067,2127.879,(e)?
+2004.03-1160,1,25826,glen_d_nager,,2127.879,2129.747,(d) as in David.
+2004.03-1160,1,15060,john_paul_stevens,scotus_justice,2161.245,2161.716,"Mr. Nager, I'm lost."
+2004.03-1160,1,25826,glen_d_nager,,2164.304,2166.793,(d) on page 56a.
+2004.03-1160,1,15060,john_paul_stevens,scotus_justice,2168.705,2170.242,Does it say what you just said?
+2004.03-1160,1,25826,glen_d_nager,,2170.242,2172.27,Tests which are asserted... the last sentence.
+2004.03-1160,1,15139,stephen_g_breyer,scotus_justice,2183.431,2188.15,"All that's true, but they... they did promulgate this guideline, as far as... I looked it up."
+2004.03-1160,1,25826,glen_d_nager,,2206.57,2218.367,I have no doubt that they were assuming that this Court's decision in Griggs... because this is what they said in their comments... this Court's decision in Griggs required disparate impact analysis--
+2004.03-1160,1,15139,stephen_g_breyer,scotus_justice,2218.367,2218.905,"Well, all right."
+2004.03-1160,1,25826,glen_d_nager,,2237.465,2241.621,--It's... it's outside the... the statutory authority for two reasons.
+2004.03-1160,1,15139,stephen_g_breyer,scotus_justice,2241.621,2246.94,"But now we've heard it doesn't embody that much of a tough test, and you know, the EEOC isn't here to tell us--"
+2004.03-1160,1,25826,glen_d_nager,,2246.94,2247.451,Well--
+2004.03-1160,1,15139,stephen_g_breyer,scotus_justice,2247.451,2248.489,--what in fact it thinks.
+2004.03-1160,1,25826,glen_d_nager,,2248.489,2264.34,"--Mr. Goldstein cited a bunch of EEOC briefs in his brief, and you'll notice he didn't quote a single part of... of those EEOC briefs which say that the standard under the Age Act is less than the standard under the Age Act."
+2004.03-1160,1,15139,stephen_g_breyer,scotus_justice,2294.669,2294.942,All right.
+2004.03-1160,1,25826,glen_d_nager,,2325.677,2326.754,Which one--
+2004.03-1160,1,15139,stephen_g_breyer,scotus_justice,2326.754,2327.632,--which are at least consistent.
+2004.03-1160,1,25826,glen_d_nager,,2332.133,2332.832,--Okay.
+2004.03-1160,1,15139,stephen_g_breyer,scotus_justice,2335.18,2339.434,"Where the Government hasn't appeared and told us what they want to do or what they think should be done, et cetera."
+2004.03-1160,1,25826,glen_d_nager,,2339.434,2355.461,"--I... I should... I would submit, Justice Breyer, that you should reexamine your premise that the language of the Age Act, both in section 4(a) by itself and construed in light of 4(f) and the legislative history and purposes of the statute encompass disparate impact claims."
+2004.03-1160,1,15049,antonin_scalia,scotus_justice,2355.461,2362.407,Maybe the EEOC regulation was not so much an interpretation of the statute as an interpretation of Griggs.
+2004.03-1160,1,25826,glen_d_nager,,2362.407,2364.043,"Oh, I think that's--"
+2004.03-1160,1,15049,antonin_scalia,scotus_justice,2364.043,2374.61,"I mean, maybe this provision represents the judgment of the agency that Griggs applies to this other statute, and... and I'm not sure that we owe Chevron deference to that determination."
+2004.03-1160,1,25826,glen_d_nager,,2374.61,2379.471,"--Well, I... I don't think you did, although I don't even think, frankly, from what I've read is they made the judgment."
+2004.03-1160,1,15049,antonin_scalia,scotus_justice,2380.232,2382.248,"Yes, well."
+2004.03-1160,1,15042,david_h_souter,scotus_justice,2382.248,2386.938,"Mr. Nager, will you go to another one of Justice Breyer's premises?"
+2004.03-1160,1,25826,glen_d_nager,,2400.832,2403.687,"Great question and the answer is no, they can't."
+2004.03-1160,1,15042,david_h_souter,scotus_justice,2404.874,2405.732,Give me some examples.
+2004.03-1160,1,25826,glen_d_nager,,2405.732,2431.553,"--The reason is... is because if you... if you lower the prima facie case so that it's meaningless, so that it means that all a plaintiff has to do is find a selection practice... because it's always going to correlate with age... it means you shifted the burden to an employer in every case to establish that its... its practice meets whatever standard your hypothesizing the EEOC might come up with later, Justice Breyer."
+2004.03-1160,1,15139,stephen_g_breyer,scotus_justice,2455.204,2459.097,That would be a fairly easy burden... a fairly easy burden to me.
+2004.03-1160,1,25826,glen_d_nager,,2482.817,2483.163,"--Well, as--"
+2004.03-1160,1,15139,stephen_g_breyer,scotus_justice,2483.163,2486.362,So we could give you an easy burden and still accomplish the objective.
+2004.03-1160,1,25826,glen_d_nager,,2486.362,2512.803,"--I... I don't want to resist the easy burden, but I do want to tell you, as Justice Scalia pointed out in the Florida Power argument, my clients do think about these things because if... you know, if they adopt an unreasonable practice that has an adverse statistical effect and they think they're likely to get sued about it, they actually do have to worry about it because these cases are tried to juries and they have to have a reasonable explanation for what... their practice because they get tried to juries as disparate treatment cases."
+2004.03-1160,1,15084,ruth_bader_ginsburg,scotus_justice,2596.305,2598.904,But he gave the very same example that was Griggs.
+2004.03-1160,1,25826,glen_d_nager,,2616.873,2619.813,But his solution was not a disparate impact doctrine.
+2004.03-1160,1,15084,ruth_bader_ginsburg,scotus_justice,2620.908,2625.452,"Well, it's a little, and you said his solution was we're going to have training and manuals and all."
+2004.03-1160,1,25826,glen_d_nager,,2628.374,2631.294,"--Well, take a look at the statute, Justice Ginsburg."
+2004.03-1160,1,15084,ruth_bader_ginsburg,scotus_justice,2695.418,2704.718,"But it doesn't say there that that is to implement the first... that... that only the second one, to prohibit arbitrary age discrimination."
+2004.03-1160,1,25826,glen_d_nager,,2704.718,2707.996,--It does... what it... you're right it doesn't say the following.
+2004.03-1160,1,15060,john_paul_stevens,scotus_justice,2782.064,2798.449,"Mr. Nager, at the end of his report, Secretary Wirtz said the... a purpose, to eliminate discrimination in the employment of older workers, it would necessary not only to deal with overt acts of discrimination, but also to adjust those present employment practices which quite unintentionally lead to age limits in hiring."
+2004.03-1160,1,25826,glen_d_nager,,2805.753,2824.725,"--Well, the quote that you just gave says that there are express uses of age and there are non-age reasons that lead to the use of express limits of age, for example, the hypothetical that Justice Scalia gave with Mr. Goldstein, saying, well, I wouldn't want to hire someone who's going... who tells me they're going to retire a year from now."
+2004.03-1160,1,15060,john_paul_stevens,scotus_justice,2846.175,2851.006,The quote... the reference to employment practices which quite unintentionally lead to age limits in hiring.
+2004.03-1160,1,25826,glen_d_nager,,2851.965,2852.264,--Right.
+2004.03-1160,1,15139,stephen_g_breyer,scotus_justice,2878.174,2878.376,No.
+2004.03-1160,1,25826,glen_d_nager,,2932.395,2933.515,--Two points?
+2004.03-1160,1,15139,stephen_g_breyer,scotus_justice,2933.515,2933.882,Yes.
+2004.03-1160,1,25826,glen_d_nager,,2933.882,2934.646,One is... is--
+2004.03-1160,1,15139,stephen_g_breyer,scotus_justice,2934.646,2935.608,How do we get out of that language?
+2004.03-1160,1,25826,glen_d_nager,,2935.608,2937.786,"--Well, we love the language."
+2004.03-1160,1,15139,stephen_g_breyer,scotus_justice,2943.344,2947.209,"No, no, but it says... it says that would adversely affect him because of his age."
+2004.03-1160,1,25826,glen_d_nager,,2947.209,2958.907,"--Well, the first... before the comma is the statement both of the action of the employer and the injury that it has to cause in order for a claim to exist, and then there's another requirement."
+2004.03-1160,1,15139,stephen_g_breyer,scotus_justice,2970.94,2971.519,"Oh, no."
+2004.03-1160,1,25826,glen_d_nager,,2986.882,2994.386,"--It... it... the phrase, because of age, modifies all of the words that precede the comma that separates the two."
+2004.03-1160,1,15049,antonin_scalia,scotus_justice,2994.386,2995.872,Segregate or classify.
+2004.03-1160,1,25826,glen_d_nager,,2999.996,3003.103,"Well, I... I think it does modify the verb, but--"
+2004.03-1160,1,15049,antonin_scalia,scotus_justice,3003.103,3005.213,It would be good if you had a comma after employees.
+2004.03-1160,1,25826,glen_d_nager,,3027.291,3029.187,"--Well, I... I think that's the grammatically correct way to read it."
+2004.03-1160,1,15139,stephen_g_breyer,scotus_justice,3031.801,3033.105,It would be the natural way.
+2004.03-1160,1,25826,glen_d_nager,,3033.105,3033.471,--it would still be because of age.
+2004.03-1160,1,15139,stephen_g_breyer,scotus_justice,3033.471,3033.71,The natural way... wait.
+2004.03-1160,1,15049,antonin_scalia,scotus_justice,3037.332,3037.571,Right.
+2004.03-1160,1,15139,stephen_g_breyer,scotus_justice,3037.571,3039.42,--or otherwise adversely affect.
+2004.03-1160,1,15049,antonin_scalia,scotus_justice,3039.42,3039.757,Exactly.
+2004.03-1160,1,15139,stephen_g_breyer,scotus_justice,3039.757,3041.423,That's the natural way to read it.
+2004.03-1160,1,15049,antonin_scalia,scotus_justice,3041.423,3041.977,It is.
+2004.03-1160,1,15139,stephen_g_breyer,scotus_justice,3041.977,3042.507,Now--
+2004.03-1160,1,25826,glen_d_nager,,3042.507,3043.082,One still--
+2004.03-1160,1,15139,stephen_g_breyer,scotus_justice,3043.082,3044.276,--suppose we read it that way.
+2004.03-1160,1,25826,glen_d_nager,,3044.953,3063.812,"--You... even if you read it that way, it still says, comma, because of age, and the because of age is a reference to intent, and the confirmation of that, Justice Breyer, is the defense that you keep pointing to because as Mr. Goldstein conceded in his brief and as you pointed out in your questioning, it says, is based on."
+2004.03-1160,1,15049,antonin_scalia,scotus_justice,3077.593,3091.492,"Indeed, and I guess what supports that reading is that intent... intent to discriminate in hiring... the intentional discrimination because of age in hiring is covered by (2) rather than (1) isn't it?"
+2004.03-1160,1,25826,glen_d_nager,,3091.492,3093.472,"--No, no, no."
+2004.03-1160,1,15049,antonin_scalia,scotus_justice,3093.472,3112.534,"You think... I mean, if... if you have a rule... if you have a rule that you won't hire any employee... I mean, we... we were talking earlier about the... the reason... (2) reads employees in the plural, and (1) reads refuse to hire or discharge any individual."
+2004.03-1160,1,25826,glen_d_nager,,3119.733,3123.078,I had never thought of construing the--
+2004.03-1160,1,15049,antonin_scalia,scotus_justice,3123.078,3123.329,Is that wrong?
+2004.03-1160,1,25826,glen_d_nager,,3127.688,3131.199,"--Well, if... if he did, he's only strengthened our case."
+2004.03-1160,1,15060,john_paul_stevens,scotus_justice,3249.939,3255.13,"But in your view, is based on reasonable factors other than age strictly an affirmative defense?"
+2004.03-1160,1,25826,glen_d_nager,,3255.13,3260.409,I... I think that it is... it was intended to address mixed motive cases.
+2004.03-1160,1,15092,sandra_day_oconnor,scotus_justice,3278.916,3280.817,But is it an affirmative defense?
+2004.03-1160,1,25826,glen_d_nager,,3280.817,3285.385,"--I... I don't think that it is, and I... I--"
+2004.03-1160,1,15060,john_paul_stevens,scotus_justice,3285.385,3295.853,"Well, did you challenge the sufficiency of this complaint on the ground that it did not allege that the... the program was not based on... was based on factors that were unreasonable?"
+2004.03-1160,1,25826,glen_d_nager,,3295.853,3312.526,"--I... I didn't handle the case in the trial court, but I believe that the... our... our client denied all of the allegations in the complaint and affirmatively said this was... its salary program was a reasonable factor other than age, yes."
+2004.03-1160,1,15060,john_paul_stevens,scotus_justice,3315.893,3321.391,"What I'm trying to think through is whether that issue is one that can be resolved on the pleadings, or does it always require a trial."
+2004.03-1160,1,25826,glen_d_nager,,3321.391,3335.578,"--Well, I think the question of whether or not the reasonable factor other than age provision, when read in conjunction with section (a)(4)... 4(a) shows that this is an intent-based statute, as a pure legal question, can be judged on the pleadings."
+2004.03-1160,1,15084,ruth_bader_ginsburg,scotus_justice,3348.05,3350.548,"On your reading, I just don't see that there's any function."
+2004.03-1160,1,25826,glen_d_nager,,3359.678,3363.997,It was added in as a safe harbor to address mixed motive cases.
+2004.03-1160,1,15060,john_paul_stevens,scotus_justice,3385.169,3386.209,"Thank you, Mr. Nager."
+2004.03-1160,2,42731,thomas_c_goldstein,,3393.019,3394.988,"Thank you, Justice Stevens."
+2004.03-1160,2,15049,antonin_scalia,scotus_justice,3577.548,3578.419,What of dual motive?
+2004.03-1160,2,42731,thomas_c_goldstein,,3578.419,3585.529,"Because the statute refers to something otherwise unlawful, it can't be talking about Price Waterhouse mixed motive."
+2004.03-1160,2,15060,john_paul_stevens,scotus_justice,3665.828,3667.699,"Thank you, Mr. Goldstein."

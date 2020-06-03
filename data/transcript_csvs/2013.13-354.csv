@@ -1,0 +1,317 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2013.13-354,0,15086,john_g_roberts_jr,scotus_justice,0.0,7.754,"We'll hear argument this morning in consolidated cases Number 13-354, Sebelius, Secretary of Health and Human Services v.--"
+2013.13-354,0,37772,paul_d_clement,,17.01,20.395,"Mr. Chief Justice, and may it please the Court:"
+2013.13-354,0,15131,sonia_sotomayor,scotus_justice,40.575,51.116,"Is your claim limited to sensitive materials like contraceptives or does it include items like blood transfusion, vaccines?"
+2013.13-354,0,37772,paul_d_clement,,63.173,69.227,"--Well, Justice Sotomayor, the first step in the analysis would be to ask whether or not there's a substantial burden on religious exercise."
+2013.13-354,0,15094,elena_kagan,scotus_justice,87.889,97.747,"Well, I mean, just take one of the things that Justice Sotomayor asked about, which is vaccinations, because there are many people who have religious objections to vaccinations."
+2013.13-354,0,37772,paul_d_clement,,110.321,118.927,"Well, if we assume we get past the substantial burden step of the analysis, then the next step of the analysis is the compelling interest and least restrictive alternatives analysis."
+2013.13-354,0,15094,elena_kagan,scotus_justice,134.687,135.237,Blood transfusions?
+2013.13-354,0,37772,paul_d_clement,,135.237,137.655,--Blood transfusions.
+2013.13-354,0,15094,elena_kagan,scotus_justice,146.66,147.244,"So really, every medical treatment."
+2013.13-354,0,37772,paul_d_clement,,162.606,172.395,"Well -- well, Justice Kagan, nothing could be clearer than when Congress passed RFRA Congress made a judgment that RFRA was going to apply to all manner of Federal statutes."
+2013.13-354,0,15084,ruth_bader_ginsburg,scotus_justice,174.58,195.16,"Mr. Clement, maybe it seemed clear then, but since RFRA, just as before RFRA, Congress has continued to write into Federal legislation specific religious exemptions for some, but not everybody, for individuals, sometimes religious institutions."
+2013.13-354,0,37772,paul_d_clement,,227.981,231.266,"--Well, Justice Ginsburg, I'm not sure that they were all unnecessary."
+2013.13-354,0,15113,anthony_m_kennedy,scotus_justice,272.593,276.962,You were beginning by giving us a framework for your argument.
+2013.13-354,0,37772,paul_d_clement,,303.797,312.385,"Obviously, one of my clients has before you right now a free exercise claim and my other client has a free exercise claim that's live in the lower courts."
+2013.13-354,0,15094,elena_kagan,scotus_justice,341.405,343.507,"Mr. Clement, isn't this a special kind of statute?"
+2013.13-354,0,37772,paul_d_clement,,388.035,394.389,"--Well, first, Justice Kagan, let me take a little bit of an issue with your premise and let me try to responsive to your question anyways after I do that."
+2013.13-354,0,15049,antonin_scalia,scotus_justice,430.812,443.289,"Well, there -- there's another respect in which this, even as originally enacted, does not track the -- the preemployment Division v. Smith law."
+2013.13-354,0,37772,paul_d_clement,,455.43,458.299,"I think that's fair, Justice Scalia."
+2013.13-354,0,15094,elena_kagan,scotus_justice,489.434,490.77,"Well, it is applying the statute as written."
+2013.13-354,0,37772,paul_d_clement,,499.376,507.063,"--Well, you're right, Justice Kagan, in the purpose part of the statute it says: What we mean to do here is basically restore the pre-Smith law."
+2013.13-354,0,15084,ruth_bader_ginsburg,scotus_justice,526.943,532.097,"Mr. Clement, this -- this was a law that was passed overwhelmingly, both houses of Congress."
+2013.13-354,0,37772,paul_d_clement,,587.85,590.985,"--Well, Justice Ginsburg, I would suggest to the contrary."
+2013.13-354,0,15094,elena_kagan,scotus_justice,680.543,686.097,"But, again, Mr. Clement as Justice Ginsburg said, this was a very uncontroversial law."
+2013.13-354,0,37772,paul_d_clement,,723.905,725.555,"Well, I don't say that."
+2013.13-354,0,15094,elena_kagan,scotus_justice,757.443,779.39,"Well, she had an understanding of how the Court worked pre-Smith that was a kind of Sherbert v. Verner-Yoder understanding, which was we did a balancing, we looked at the government's interests, we took those very seriously, especially to the extent that there was harm to identifiable third parties and that it fell on an identifiable third party."
+2013.13-354,0,37772,paul_d_clement,,783.777,788.415,"--Well, what she said and whatever the merits of it as a matter of constitutional debate isn't relevant."
+2013.13-354,0,15068,samuel_a_alito_jr,scotus_justice,812.196,813.463,"Well, could I ask you this, Mr. Clement."
+2013.13-354,0,37772,paul_d_clement,,824.188,827.39,"--Justice Alito, very few of these claims have been brought."
+2013.13-354,0,15094,elena_kagan,scotus_justice,858.592,870.4,"Well, with respect, Mr. Clement, I think that that's probably because the Court has had a different understanding of what RFRA does and the kind of analysis that it requires courts to perform than you're arguing for in this case."
+2013.13-354,0,37772,paul_d_clement,,909.794,911.677,"Well, Justice Kagan, a couple of thoughts."
+2013.13-354,0,15084,ruth_bader_ginsburg,scotus_justice,925.969,926.686,"Well, It was a religious organization."
+2013.13-354,0,37772,paul_d_clement,,926.686,930.957,--It certainly was a religious organization and it's a separate question as--
+2013.13-354,0,15084,ruth_bader_ginsburg,scotus_justice,930.957,932.173,This is -- this is what's different.
+2013.13-354,0,37772,paul_d_clement,,938.311,943.448,"--Well, if I may, Justice Ginsburg, there's two separate questions."
+2013.13-354,0,15131,sonia_sotomayor,scotus_justice,973.55,976.686,How does a corporation exercise religion?
+2013.13-354,0,37772,paul_d_clement,,991.946,1006.188,"Well, Justice Sotomayor, those -- those cases -- I mean, I'd start with cases like Lukumi or O Centro, which all involved corporations, and nobody thought it was particularly problematic there that the plaintiffs before the court were artificial entities."
+2013.13-354,0,15131,sonia_sotomayor,scotus_justice,1007.723,1014.044,"Well, but they were really arguing about things that affected their membership, not them as a corporate entity."
+2013.13-354,0,37772,paul_d_clement,,1014.044,1020.698,"--Well, I'm not sure that you can so easily divide the two, and we can talk about how it is with corporations generally."
+2013.13-354,0,15131,sonia_sotomayor,scotus_justice,1035.725,1044.73,"So the dissent in this case, in the Tenth Circuit case, said how do we determine when a corporation has that belief?"
+2013.13-354,0,37772,paul_d_clement,,1087.742,1088.759,Right.
+2013.13-354,0,15131,sonia_sotomayor,scotus_justice,1120.046,1121.313,That's the most dangerous piece.
+2013.13-354,0,37772,paul_d_clement,,1128.836,1138.442,"--To be clear, this Court's cases have always distinguished between the sincerity inquiry, which the Court has allowed, and the centrality inquiry, which it suggested is inappropriate."
+2013.13-354,0,15131,sonia_sotomayor,scotus_justice,1140.977,1144.679,I thought more importantly was whether a burden was substantial or not.
+2013.13-354,0,37772,paul_d_clement,,1155.987,1156.604,Right.
+2013.13-354,0,15131,sonia_sotomayor,scotus_justice,1182.387,1186.423,"Is there -- is there a different way of looking at it, the leeway?"
+2013.13-354,0,37772,paul_d_clement,,1215.358,1218.327,"--Well, let me -- let me take on Lee first."
+2013.13-354,0,15131,sonia_sotomayor,scotus_justice,1250.448,1264.958,"Well, that's an interesting question, because the briefs on both sides here are written as if the penalty for not having a health insurance policy that covers contraceptives is at issue."
+2013.13-354,0,37772,paul_d_clement,,1286.371,1299.112,"Well, just to put this in concrete terms, for Hobby Lobby, for example, the choice is between paying a 500 -- a $475 million per year penalty and paying a $26 million per year coverage."
+2013.13-354,0,15094,elena_kagan,scotus_justice,1299.112,1300.214,"No, I don't think that that's the same thing, Mr. Clement."
+2013.13-354,0,37772,paul_d_clement,,1336.037,1339.523,"Well, just to be clear, we were talking about the same thing."
+2013.13-354,0,15094,elena_kagan,scotus_justice,1351.064,1358.487,"No, between paying $2,000 per employee per year if Hobby Lobby does not provide--"
+2013.13-354,0,37772,paul_d_clement,,1358.487,1359.003,--That's $26 million.
+2013.13-354,0,15094,elena_kagan,scotus_justice,1359.003,1364.304,"--You know, Hobby Lobby is paying something right now for the -- for the coverage."
+2013.13-354,0,15086,john_g_roberts_jr,scotus_justice,1373.746,1381.6,I thought -- I thought that part of the religious commitment of the owners was to provide health care for its employees.
+2013.13-354,0,37772,paul_d_clement,,1381.6,1383.968,"That is true, Mr. Chief Justice."
+2013.13-354,0,15131,sonia_sotomayor,scotus_justice,1386.404,1392.308,"Well, if they want to do that, they can just pay a greater salary and let the employees go in on the exchange."
+2013.13-354,0,37772,paul_d_clement,,1392.308,1399.814,"--Exactly, which is, by the way, why comparing the $2,000 penalty to the cost of the health care is a false -- it's a false comparison."
+2013.13-354,0,15131,sonia_sotomayor,scotus_justice,1399.814,1400.464,It's not called a penalty.
+2013.13-354,0,15086,john_g_roberts_jr,scotus_justice,1405.565,1406.817,She's right about that.
+2013.13-354,0,37772,paul_d_clement,,1409.002,1411.787,And it has been treated for some purposes as a penalty.
+2013.13-354,0,15094,elena_kagan,scotus_justice,1433.685,1434.985,"Well, let's say that that's right."
+2013.13-354,0,37772,paul_d_clement,,1462.487,1469.224,"--No, I actually think what it's like, Your Honor, with all due respect, it's like the five dollar penalty enforcing the prohibition in Yoder."
+2013.13-354,0,15094,elena_kagan,scotus_justice,1498.077,1501.945,"But Mr. Clement, it's not saying you must do something that violates your religion."
+2013.13-354,0,37772,paul_d_clement,,1515.955,1519.324,I don't think it would be the same price at the end of the day.
+2013.13-354,0,15049,antonin_scalia,scotus_justice,1520.926,1523.676,"Well, of course it wouldn't be the same price at the end of the day."
+2013.13-354,0,37772,paul_d_clement,,1528.012,1528.996,--Absolutely.
+2013.13-354,0,15049,antonin_scalia,scotus_justice,1528.996,1531.548,"It's absurd to say that, you know, it comes out of nowhere."
+2013.13-354,0,37772,paul_d_clement,,1531.548,1532.631,"Absolutely, Your Honor."
+2013.13-354,0,15113,anthony_m_kennedy,scotus_justice,1538.052,1540.185,But why -- why is that a problem?
+2013.13-354,0,15131,sonia_sotomayor,scotus_justice,1554.877,1557.179,--May I just put a footnote on this.
+2013.13-354,0,37772,paul_d_clement,,1591.17,1609.648,"--Here's the problem with this way of looking at it, which is to say whatever it costs per employee to get this, this health care, that's something that right now Hobby Lobby is paying whatever it's paying them, plus it's -- it's -- you know, imputed into that is the idea that they're getting their wage and they're getting health care insurance."
+2013.13-354,0,15113,anthony_m_kennedy,scotus_justice,1626.693,1627.526,"Okay, the last is important."
+2013.13-354,0,37772,paul_d_clement,,1654.227,1663.716,I think my case would be that in that case the government might be able to sort of support itself on the compelling interest.
+2013.13-354,0,15094,elena_kagan,scotus_justice,1686.398,1686.781,Can I ask--
+2013.13-354,0,15084,ruth_bader_ginsburg,scotus_justice,1686.781,1694.587,"There was a point made earlier, and I think you didn't mean to say this, that provision of health care is not part of their religious belief."
+2013.13-354,0,37772,paul_d_clement,,1700.991,1702.76,"No, it actually is."
+2013.13-354,0,15094,elena_kagan,scotus_justice,1714.182,1719.802,"--But, Mr. Clement, you're not saying, are you, that their religious beliefs mandate them to provide health care?"
+2013.13-354,0,37772,paul_d_clement,,1721.904,1725.706,--I didn't have to make that claim in the course of this litigation.
+2013.13-354,0,15094,elena_kagan,scotus_justice,1750.824,1753.026,"You know, I'm sure they seem like very good employers."
+2013.13-354,0,37772,paul_d_clement,,1768.468,1777.058,"Well, with respect, what Congress has said is that this kind of plan is not appropriate for a non-grandfathered plan."
+2013.13-354,0,15094,elena_kagan,scotus_justice,1810.379,1811.645,"Well, but I think even--"
+2013.13-354,0,37772,paul_d_clement,,1811.645,1812.731,--analysis to have this kind of grandfathering.
+2013.13-354,0,15094,elena_kagan,scotus_justice,1812.731,1819.735,"--that example, you know, initially Title VII did not apply to any employers with fewer than 25 employees."
+2013.13-354,0,37772,paul_d_clement,,1835.011,1845.285,"Here's, respectfully, why I don't think that that works, which is I think the question whenever there are exemptions in the statute is to ask yourself, do the exemptions undermine the compelling interest that the government asserts."
+2013.13-354,0,15131,sonia_sotomayor,scotus_justice,1868.751,1887.712,"Counsel, your attorney -- one of the attorneys below on behalf of your clients admitted that the grandfathered policies weren't going to be around very long because any change to an existing policy -- and he said these changes happen on a yearly basis."
+2013.13-354,0,37772,paul_d_clement,,1905.674,1907.126,Well--
+2013.13-354,0,15131,sonia_sotomayor,scotus_justice,1907.126,1929.806,"And so my point is, since when does a transitioned grandfathered exemption and one that everybody knows will have to change, because premiums by definition will change or co-pays will change, something is going to change -- it's a very short transition period."
+2013.13-354,0,37772,paul_d_clement,,1934.193,1939.247,"--With all due respect, it's not necessarily a very short transition period."
+2013.13-354,0,15113,anthony_m_kennedy,scotus_justice,1982.607,1994.149,"Just before your time starts to go too fast, how would you suggest that we think about the position and the rights of the -- of the employees?"
+2013.13-354,0,37772,paul_d_clement,,2029.822,2032.357,"Well, no, it's not just the way it works, Justice Kennedy."
+2013.13-354,0,15084,ruth_bader_ginsburg,scotus_justice,2072.184,2074.484,"But, Mr. Clement, you made the analogy to RLUIPA."
+2013.13-354,0,37772,paul_d_clement,,2117.046,2118.163,--Right.
+2013.13-354,0,15131,sonia_sotomayor,scotus_justice,2143.263,2145.632,I'm not sure that -- that squares with Lee.
+2013.13-354,0,37772,paul_d_clement,,2163.426,2169.83,"There, too, I have to respectfully disagree, because if you remember the facts of Lee, Lee is brought not just by the employer, but by the employee."
+2013.13-354,0,15094,elena_kagan,scotus_justice,2233.005,2240.694,"I mean, Mr. Clement, isn't that just a way of saying that you think that this isn't a good statute, because it asks one person to subsidize another person."
+2013.13-354,0,37772,paul_d_clement,,2257.553,2261.607,"--Well, Justice Kagan, I think you could say the same thing about my Bible hypothetical."
+2013.13-354,0,15084,ruth_bader_ginsburg,scotus_justice,2340.642,2350.498,"It would make no difference if it were -- there are 20 FDA-approved contraceptives, all of them covered by the Healthcare Act."
+2013.13-354,0,37772,paul_d_clement,,2350.498,2352.434,--I think--
+2013.13-354,0,15084,ruth_bader_ginsburg,scotus_justice,2352.434,2357.152,"You -- you picked out, in one case what, three, and the other case four?"
+2013.13-354,0,37772,paul_d_clement,,2367.109,2371.161,"--Well, obviously, Justice Ginsburg, I didn't pick these out."
+2013.13-354,0,15084,ruth_bader_ginsburg,scotus_justice,2375.163,2380.451,"But your argument, it seems to me, would apply just as well if the employer said no contraceptives."
+2013.13-354,0,37772,paul_d_clement,,2380.451,2392.259,"--I think that's a fair point, Justice Ginsburg, and the government's own accommodations, where they offer them to religious groups and religious employers like nonprofit hospitals, also applies to whatever the religious beliefs of that provider are."
+2013.13-354,0,15068,samuel_a_alito_jr,scotus_justice,2398.496,2409.953,Are there ways of accommodating the interests of the women who may want these particular drugs or devices without imposing a substantial burden on the employer who has the religious objection to it?
+2013.13-354,0,37772,paul_d_clement,,2409.953,2412.305,"There are ample less restrictive alternatives, Your Honor."
+2013.13-354,0,15068,samuel_a_alito_jr,scotus_justice,2412.305,2412.788,What are they?
+2013.13-354,0,37772,paul_d_clement,,2412.788,2417.209,And I think they all flow from this fact that this is ultimately about who's going to pay for a substitute--
+2013.13-354,0,15131,sonia_sotomayor,scotus_justice,2417.209,2422.428,Those are alternatives that you're asking the government to incur or the person to incur.
+2013.13-354,0,37772,paul_d_clement,,2426.732,2437.288,"--Well, it's -- it's -- it's funny about this particular mandate because the government's position is this is actually a cost-free mandate; that whatever you pay out in contraceptions, you're going to make up in not having to pay for other coverages."
+2013.13-354,0,15086,john_g_roberts_jr,scotus_justice,2479.367,2480.517,"Thank you, Mr. Clement."
+2013.13-354,1,21656,donald_b_verrilli_jr,,2485.437,2487.421,"Mr. Chief Justice, and may it please the Court:"
+2013.13-354,1,15086,john_g_roberts_jr,scotus_justice,2514.706,2518.158,"That's a statement that is inconsistent with RFRA, isn't it?"
+2013.13-354,1,21656,donald_b_verrilli_jr,,2531.232,2534.101,"No, Mr. Chief Justice, I don't think so at all."
+2013.13-354,1,15086,john_g_roberts_jr,scotus_justice,2543.973,2544.442,Yeah.
+2013.13-354,1,21656,donald_b_verrilli_jr,,2564.889,2572.559,"--Well, but I think -- well, unless it satisfies the -- the pre-Smith standards under -- under the Establishment Clause."
+2013.13-354,1,15049,antonin_scalia,scotus_justice,2574.928,2575.694,It's more than pre-Smith.
+2013.13-354,1,21656,donald_b_verrilli_jr,,2575.694,2577.113,--I take your point--
+2013.13-354,1,15049,antonin_scalia,scotus_justice,2577.113,2577.596,Plus--
+2013.13-354,1,21656,donald_b_verrilli_jr,,2577.596,2579.482,"--I take your point about less restrictive means, Your Honor."
+2013.13-354,1,15049,antonin_scalia,scotus_justice,2579.482,2580.215,--Okay.
+2013.13-354,1,21656,donald_b_verrilli_jr,,2580.215,2588.671,"But the -- the exact same point that Justice Jackson made in Prince, I submit, is the point that this Court made unanimously in Cutter."
+2013.13-354,1,15068,samuel_a_alito_jr,scotus_justice,2605.531,2610.701,"Well, is it your argument that providing the accommodation that's requested here would violate the Establishment Clause?"
+2013.13-354,1,21656,donald_b_verrilli_jr,,2610.701,2614.469,It's not our argument that it would violate the Establishment Clause.
+2013.13-354,1,15049,antonin_scalia,scotus_justice,2640.704,2642.239,Where -- where is that in RFRA?
+2013.13-354,1,21656,donald_b_verrilli_jr,,2656.648,2662.802,--I'd like -- I think the answer is that it could inform every operative provision in RFRA.
+2013.13-354,1,15049,antonin_scalia,scotus_justice,2668.54,2680.181,"If -- if they wanted you to balance -- balance the interest of the religious objector against the interest of other individuals, they -- they made no reference to that in RFRA at all."
+2013.13-354,1,21656,donald_b_verrilli_jr,,2680.181,2680.814,"Well, I--"
+2013.13-354,1,15049,antonin_scalia,scotus_justice,2680.814,2683.65,They said unless the government has a compelling State interest.
+2013.13-354,1,21656,donald_b_verrilli_jr,,2683.65,2691.821,--And the compelling -- and certainly compelling interest analysis certainly does require consideration of the interests of third parties.
+2013.13-354,1,15049,antonin_scalia,scotus_justice,2735.432,2738.117,But that wasn't the basis for -- for denying the claim.
+2013.13-354,1,21656,donald_b_verrilli_jr,,2743.771,2744.604,I disagree.
+2013.13-354,1,15049,antonin_scalia,scotus_justice,2744.604,2748.158,And you can't argue that here because the government has made a lot of exemptions.
+2013.13-354,1,21656,donald_b_verrilli_jr,,2748.158,2762.852,"I -- first of all, I disagree with respect to Lee, that one of the points that the Court made in Lee was that granting the exemption from Social Security taxes to an employer operates to impose the employer's religious faith on the employees."
+2013.13-354,1,15068,samuel_a_alito_jr,scotus_justice,2773.64,2784.431,"Well, if you could start with the question of whether the -- the companies in this case have a right to bring RFRA claims because they're for-profit corporations."
+2013.13-354,1,21656,donald_b_verrilli_jr,,2786.015,2787.2,--That's correct.
+2013.13-354,1,15068,samuel_a_alito_jr,scotus_justice,2787.2,2788.433,"Now, why is that?"
+2013.13-354,1,21656,donald_b_verrilli_jr,,2795.806,2798.608,"No, because, obviously, churches can bring claims."
+2013.13-354,1,15068,samuel_a_alito_jr,scotus_justice,2798.608,2799.241,All right.
+2013.13-354,1,21656,donald_b_verrilli_jr,,2806.864,2807.464,Yes.
+2013.13-354,1,15068,samuel_a_alito_jr,scotus_justice,2811.083,2817.669,"Well, were the merchants in the Braunfeld case engaged in for-profit activity?"
+2013.13-354,1,21656,donald_b_verrilli_jr,,2817.669,2818.119,--Yes.
+2013.13-354,1,15068,samuel_a_alito_jr,scotus_justice,2818.119,2819.604,So there isn't anything inherent in--
+2013.13-354,1,21656,donald_b_verrilli_jr,,2819.604,2820.438,But I think--
+2013.13-354,1,15068,samuel_a_alito_jr,scotus_justice,2820.438,2824.742,"--in participating in a for-profit activity that's inconsistent with corporate form, is there?"
+2013.13-354,1,21656,donald_b_verrilli_jr,,2826.792,2827.444,--Yes.
+2013.13-354,1,15068,samuel_a_alito_jr,scotus_justice,2834.281,2834.731,"Well, what is it about--"
+2013.13-354,1,21656,donald_b_verrilli_jr,,2834.731,2835.231,--justifying?
+2013.13-354,1,15068,samuel_a_alito_jr,scotus_justice,2835.231,2837.9,--a for-profit corporation that is inconsistent with a free exercise claim?
+2013.13-354,1,21656,donald_b_verrilli_jr,,2850.641,2851.06,"No, not--"
+2013.13-354,1,15068,samuel_a_alito_jr,scotus_justice,2851.06,2851.693,--including religious aims?
+2013.13-354,1,21656,donald_b_verrilli_jr,,2851.693,2852.326,--No.
+2013.13-354,1,15131,sonia_sotomayor,scotus_justice,2854.561,2856.327,"I'm sorry, General."
+2013.13-354,1,21656,donald_b_verrilli_jr,,2862.867,2863.683,--Individuals.
+2013.13-354,1,15131,sonia_sotomayor,scotus_justice,2863.683,2864.55,--the individuals--
+2013.13-354,1,21656,donald_b_verrilli_jr,,2864.55,2864.95,Yes.
+2013.13-354,1,15131,sonia_sotomayor,scotus_justice,2864.95,2865.819,--not the corporation that was going to be jailed.
+2013.13-354,1,21656,donald_b_verrilli_jr,,2866.435,2867.152,"Yes, that's right."
+2013.13-354,1,15131,sonia_sotomayor,scotus_justice,2867.152,2867.452,--criminal prosecution.
+2013.13-354,1,21656,donald_b_verrilli_jr,,2867.452,2871.723,"I understood Justice Alito to be asking me not about the corporate form, but about the -- the activity."
+2013.13-354,1,15131,sonia_sotomayor,scotus_justice,2874.758,2878.293,So whether it was a merchant that was a corporation or not was irrelevant.
+2013.13-354,1,21656,donald_b_verrilli_jr,,2879.46,2879.91,That's--
+2013.13-354,1,15131,sonia_sotomayor,scotus_justice,2879.91,2880.377,--going to be jailed.
+2013.13-354,1,21656,donald_b_verrilli_jr,,2880.377,2881.012,--That's correct.
+2013.13-354,1,15049,antonin_scalia,scotus_justice,2881.012,2883.295,"It was an individual making a profit, right?"
+2013.13-354,1,21656,donald_b_verrilli_jr,,2883.295,2883.781,Certainly.
+2013.13-354,1,15049,antonin_scalia,scotus_justice,2883.781,2890.268,"He was running a business for a profit, and that was the point of -- of Justice Alito's question, right, which I think you understood."
+2013.13-354,1,21656,donald_b_verrilli_jr,,2890.268,2892.101,"And I did try to answer it, yes."
+2013.13-354,1,15068,samuel_a_alito_jr,scotus_justice,2921.604,2922.489,And why did it tell--
+2013.13-354,1,21656,donald_b_verrilli_jr,,2922.489,2923.706,--to define that.
+2013.13-354,1,15068,samuel_a_alito_jr,scotus_justice,2923.706,2924.322,--Why did it say that?
+2013.13-354,1,21656,donald_b_verrilli_jr,,2932.076,2932.709,Yes.
+2013.13-354,1,15068,samuel_a_alito_jr,scotus_justice,2941.114,2942.033,"Well, it says free exercise."
+2013.13-354,1,21656,donald_b_verrilli_jr,,2949.553,2958.309,"--Well, I think it -- it said something more precise than that, which was that it was to be interpreted not to be confined only to central religious tenets."
+2013.13-354,1,15068,samuel_a_alito_jr,scotus_justice,2958.309,2958.743,No.
+2013.13-354,1,21656,donald_b_verrilli_jr,,2962.963,2966.232,"Yes, includes any exercise of religion, but it doesn't define what that is."
+2013.13-354,1,15068,samuel_a_alito_jr,scotus_justice,2969.101,2969.551,--No.
+2013.13-354,1,21656,donald_b_verrilli_jr,,2981.341,2981.908,--Right.
+2013.13-354,1,15049,antonin_scalia,scotus_justice,3005.207,3007.559,"Not a single case in which it was denied exemption, either."
+2013.13-354,1,21656,donald_b_verrilli_jr,,3008.742,3009.326,"--Well, Lee--"
+2013.13-354,1,15049,antonin_scalia,scotus_justice,3009.326,3010.278,--that there are no cases.
+2013.13-354,1,21656,donald_b_verrilli_jr,,3010.278,3012.828,"--Well, Lee was certainly a case in which a for-profit enterprise was denied an exemption."
+2013.13-354,1,15049,antonin_scalia,scotus_justice,3014.946,3018.032,Not on the ground that it was a for-profit enterprise.
+2013.13-354,1,21656,donald_b_verrilli_jr,,3026.287,3026.803,Right.
+2013.13-354,1,15049,antonin_scalia,scotus_justice,3027.437,3027.972,Right.
+2013.13-354,1,21656,donald_b_verrilli_jr,,3027.972,3028.722,--holding that.
+2013.13-354,1,15094,elena_kagan,scotus_justice,3039.613,3041.497,"Isn't that a merits question, General?"
+2013.13-354,1,21656,donald_b_verrilli_jr,,3054.138,3054.554,Right.
+2013.13-354,1,15086,john_g_roberts_jr,scotus_justice,3113.259,3116.128,"Well, that's his argument for distinguishing it."
+2013.13-354,1,21656,donald_b_verrilli_jr,,3143.361,3152.467,"But even with respect to these companies, Your Honor, what are you going to do if there's a dispute between -- let's say there are three shareholders -- a dispute between two in the majority and one in the minority?"
+2013.13-354,1,15049,antonin_scalia,scotus_justice,3156.203,3157.455,Whoever controls the corporation.
+2013.13-354,1,21656,donald_b_verrilli_jr,,3161.173,3166.477,"--And then -- and the minority shareholder will say, well, this is -- under state law, this is an act of oppression and this is--"
+2013.13-354,1,15086,john_g_roberts_jr,scotus_justice,3166.477,3168.911,"Well, that's a question of State corporate law."
+2013.13-354,1,21656,donald_b_verrilli_jr,,3185.539,3186.288,--Yes.
+2013.13-354,1,15086,john_g_roberts_jr,scotus_justice,3188.24,3194.394,So that -- so that a corporation does have a race for purposes of discrimination laws.
+2013.13-354,1,21656,donald_b_verrilli_jr,,3194.394,3197.68,"No, not that the corporation has a race, but that corporations can bring those claims."
+2013.13-354,1,15086,john_g_roberts_jr,scotus_justice,3205.102,3207.721,So those -- those cases involve construction of the term ‶ person ″?
+2013.13-354,1,21656,donald_b_verrilli_jr,,3207.721,3209.238,"Yes, but only ‶ person ″."
+2013.13-354,1,15086,john_g_roberts_jr,scotus_justice,3209.238,3213.808,So the person -- the corporation can bring as a person a claim of racial discrimination.
+2013.13-354,1,21656,donald_b_verrilli_jr,,3213.808,3216.075,"That's correct, but not exercise of religion."
+2013.13-354,1,15068,samuel_a_alito_jr,scotus_justice,3246.429,3253.85,"If you say they can't even get their -- they can't even get their -- their day in court, you're saying something pretty, pretty strong."
+2013.13-354,1,21656,donald_b_verrilli_jr,,3253.85,3266.759,"--And I understand, but if Your Honor disagrees with me -- if the Court doesn't agree with this position at the threshold, the same considerations with respect to the harms of third parties definitely play into the compelling-interest analysis."
+2013.13-354,1,15113,anthony_m_kennedy,scotus_justice,3301.514,3309.019,Is it your position that part of the compelling interest here is that you have to protect the integrity -- the operational integrity of the whole Act?
+2013.13-354,1,21656,donald_b_verrilli_jr,,3309.019,3310.955,"It is part of our argument, absolutely."
+2013.13-354,1,15113,anthony_m_kennedy,scotus_justice,3313.907,3319.225,Does that mean the constitutionality of the whole Act has to be examined before we accept your view?
+2013.13-354,1,21656,donald_b_verrilli_jr,,3319.225,3321.244,"--Well, I think it has been examined, Your Honor, is my recollection."
+2013.13-354,1,15113,anthony_m_kennedy,scotus_justice,3334.986,3344.942,You -- you have exempted a whole class of corporations and you've done so under your view not because of RFRA.
+2013.13-354,1,21656,donald_b_verrilli_jr,,3344.942,3348.144,So let me -- let me go to that--
+2013.13-354,1,15113,anthony_m_kennedy,scotus_justice,3348.144,3364.173,"Now, what -- what kind of constitutional structure do we have if the Congress can give an agency the power to grant or not grant a religious exemption based on what the agency determined?"
+2013.13-354,1,21656,donald_b_verrilli_jr,,3390.657,3403.381,"--And, Your Honor, I do think that it was appropriate for the agency, in exercising its delegated authority here, to take into account the special solicitude that under our constitutional order churches receive."
+2013.13-354,1,15113,anthony_m_kennedy,scotus_justice,3444.975,3449.11,"But you gave this exemption, according to your brief, without reference to the policies of RFRA."
+2013.13-354,1,21656,donald_b_verrilli_jr,,3451.729,3459.984,"Well, with respect to -- as I said, with respect to the churches, it was the special solicitude that churches receive under our Constitution under the First Amendment."
+2013.13-354,1,15086,john_g_roberts_jr,scotus_justice,3485.802,3487.852,What about the grandfathered plans?
+2013.13-354,1,21656,donald_b_verrilli_jr,,3487.852,3488.321,Yes.
+2013.13-354,1,15086,john_g_roberts_jr,scotus_justice,3489.704,3498.609,"Well, just before you -- so one thing I'd like you to address, the dispute arose with Mr. Clement about how long they were going to be in effect."
+2013.13-354,1,21656,donald_b_verrilli_jr,,3502.83,3507.565,I -- I can't give you a precise figure as to -- there's a clear downward trajectory.
+2013.13-354,1,15086,john_g_roberts_jr,scotus_justice,3516.904,3519.023,"Can you give me an approximate time, if not a precise one?"
+2013.13-354,1,21656,donald_b_verrilli_jr,,3519.023,3526.194,--I -- I can't give you a representation of exactly how low that number is going to go and exactly how long it's going to take.
+2013.13-354,1,15086,john_g_roberts_jr,scotus_justice,3532.933,3544.088,"Well, if you can't tell us, and I don't fault you for not being able to tell us, when the grandfathering is going to end, shouldn't we assume in our analysis that it is current and, as far as we can tell, not going to end?"
+2013.13-354,1,21656,donald_b_verrilli_jr,,3544.088,3544.673,No.
+2013.13-354,1,15068,samuel_a_alito_jr,scotus_justice,3568.956,3581.513,"Isn't it true with respect to the grandfathered plans that the regulations required immediate compliance with certain requirements, but not with preventive care requirements; isn't that right?"
+2013.13-354,1,21656,donald_b_verrilli_jr,,3622.34,3627.994,"Well, the -- the question would be whether there's a compelling interest in compliance with these requirements."
+2013.13-354,1,15086,john_g_roberts_jr,scotus_justice,3654.379,3658.614,"Well, isn't that because you're talking about building ramps and things like that?"
+2013.13-354,1,21656,donald_b_verrilli_jr,,3658.614,3658.881,No.
+2013.13-354,1,15086,john_g_roberts_jr,scotus_justice,3705.411,3709.046,"Those were decisions -- those were decisions that Congress made, right?"
+2013.13-354,1,21656,donald_b_verrilli_jr,,3709.046,3709.548,--Yes.
+2013.13-354,1,15086,john_g_roberts_jr,scotus_justice,3709.548,3712.917,"Well, the grandfathering is not a decision that Congress made, is it?"
+2013.13-354,1,21656,donald_b_verrilli_jr,,3712.917,3716.969,"Well, the way in which it's implemented is a decision that the agency has made, that's true."
+2013.13-354,1,15139,stephen_g_breyer,scotus_justice,3735.514,3743.702,"I just want -- before you get to this point, and my question reflects no point of view at all on my behalf."
+2013.13-354,1,21656,donald_b_verrilli_jr,,3813.383,3813.766,Yes.
+2013.13-354,1,15139,stephen_g_breyer,scotus_justice,3821.804,3824.421,I'm not interested in whether they made the argument sooner or later.
+2013.13-354,1,21656,donald_b_verrilli_jr,,3836.146,3836.564,--Well--
+2013.13-354,1,15139,stephen_g_breyer,scotus_justice,3836.564,3838.564,I want to be sure you have a chance to give it.
+2013.13-354,1,21656,donald_b_verrilli_jr,,3838.564,3841.366,--The answer -- I think there are two answers to it.
+2013.13-354,1,15049,antonin_scalia,scotus_justice,3925.556,3928.924,--So don't make them sign a piece of paper.
+2013.13-354,1,21656,donald_b_verrilli_jr,,3928.924,3940.382,"--Well, whether they sign the piece of paper or not, if they make the RFRA claim there, which they have with respect to that accommodation, it will result in it being less effective in terms of accomplishing the compelling interest."
+2013.13-354,1,15068,samuel_a_alito_jr,scotus_justice,3941.766,3944.184,"Well, we can ask Mr. Clement what his position is on this."
+2013.13-354,1,21656,donald_b_verrilli_jr,,3969.049,3969.718,--You'll have to ask them.
+2013.13-354,1,15049,antonin_scalia,scotus_justice,3998.252,4008.71,"You're talking about, what, three or four birth controls, not all of them, just those that are abortifacient."
+2013.13-354,1,21656,donald_b_verrilli_jr,,4011.062,4012.845,"Well, to the contrary."
+2013.13-354,1,15068,samuel_a_alito_jr,scotus_justice,4034.527,4038.129,I thought that -- I was taken by your answer.
+2013.13-354,1,21656,donald_b_verrilli_jr,,4055.424,4062.261,"It is for the insurance company, but for the woman who is going to not get the benefit of the statute if the exemption is granted--"
+2013.13-354,1,15068,samuel_a_alito_jr,scotus_justice,4062.261,4062.628,No.
+2013.13-354,1,21656,donald_b_verrilli_jr,,4070.533,4080.389,"--Well, so, in other words, if they haven't raised a RFRA objection to the alternative, but that -- but as I said, you know, the logic of their position is that you would get a RFRA objection."
+2013.13-354,1,15139,stephen_g_breyer,scotus_justice,4081.089,4087.978,"Still, I want to get -- press this a little further, and I don't want you simply to just agree with what I'm about to say."
+2013.13-354,1,21656,donald_b_verrilli_jr,,4087.978,4088.745,--Don't worry.
+2013.13-354,1,15139,stephen_g_breyer,scotus_justice,4090.145,4094.066,"No, I mean -- I mean, after all, somebody, a taxpayer, might say,"
+2013.13-354,1,21656,donald_b_verrilli_jr,,4138.845,4159.758,"On that point, I think that question plugs into our view of what the substantial burden test requires, that their view of substantial burden is if you have a sincere religious belief and there is any law with a meaningful penalty that imposes on you pressure to do something inconsistent with your belief, then you may pass the substantial burden test."
+2013.13-354,1,15068,samuel_a_alito_jr,scotus_justice,4194.997,4203.87,"Mr. -- General Verrilli, isn't that really a question of theology or moral philosophy, which has been debated for -- by many scholars and adherents to many religions."
+2013.13-354,1,21656,donald_b_verrilli_jr,,4223.784,4225.784,--It's true that it's a difficult question.
+2013.13-354,1,15068,samuel_a_alito_jr,scotus_justice,4227.153,4229.587,It is a religious question and it's a moral question.
+2013.13-354,1,21656,donald_b_verrilli_jr,,4233.472,4241.578,"--No, but I do think the problem, Justice Alito, is that this Court has recognized, and certainly the courts of appeals have recognized, that there is a difference."
+2013.13-354,1,15113,anthony_m_kennedy,scotus_justice,4281.97,4293.795,I still don't understand how HHS exercised its judgment to grant the exemption to nonreligious corporations if you say it was not compelled by RFRA.
+2013.13-354,1,21656,donald_b_verrilli_jr,,4293.795,4295.213,I don't think--
+2013.13-354,1,15113,anthony_m_kennedy,scotus_justice,4295.213,4299.432,Then it must have been because the health care coverage was not that important.
+2013.13-354,1,21656,donald_b_verrilli_jr,,4299.432,4303.736,"--It didn't grant an exemption to any nonreligious organizations, Justice Kennedy."
+2013.13-354,1,15086,john_g_roberts_jr,scotus_justice,4330.036,4334.255,"Well, but that of course is an issue that's being hotly litigated right now, right?"
+2013.13-354,1,21656,donald_b_verrilli_jr,,4339.842,4348.432,"--Well, that's exactly why I think you can't look to that as a less restrictive -- that accommodation, extending that accommodation to for-profit corporations."
+2013.13-354,1,15086,john_g_roberts_jr,scotus_justice,4354.935,4363.024,"But you're relying -- you're relying on it to make your point with respect to the accommodation, and then you're criticizing your friend for relying on the same thing in making his points."
+2013.13-354,1,21656,donald_b_verrilli_jr,,4363.024,4382.671,"Well, I think -- I think what Justice Kennedy -- I took Justice Kennedy to be asking me, Mr. Chief Justice, was whether the government's choice to provide that accommodation reflected a judgment on the part of the government that this was something less than a compelling interest, and I don't think that inference is possible, because the government was trying to use that accommodation to ensure that the contraceptives were delivered."
+2013.13-354,1,15084,ruth_bader_ginsburg,scotus_justice,4418.278,4424.848,"Title VII was passed before 1993, so it wouldn't apply -- RFRA wouldn't apply to Title VII."
+2013.13-354,1,21656,donald_b_verrilli_jr,,4424.848,4432.186,"--Well, I think -- with all due respect, Justice Ginsburg, I think you could claim a RFRA exemption from Title VII."
+2013.13-354,1,15049,antonin_scalia,scotus_justice,4460.438,4462.807,Except that they passed RFRA after that.
+2013.13-354,1,21656,donald_b_verrilli_jr,,4467.025,4481.101,"But I think the further question, Your Honor, is whether you would interpret RFRA in a manner where you would essentially obliterate that carefully crafted -- or what Congress meant to do was to obliterate that carefully crafted exemption and instead say that every for-profit corporation could make a request like that."
+2013.13-354,1,15086,john_g_roberts_jr,scotus_justice,4481.101,4487.422,"Well, if Congress feels as strongly about this as you suggest, they can always pass an exemption, an exception to RFRA, which they have done on other occasions."
+2013.13-354,1,21656,donald_b_verrilli_jr,,4489.024,4506.4,"Well, with all due respect, Your Honor, I think you could make the same argument either way in this case, that the question here is what Congress thought it was doing in 1993, and we don't think, given the long history and the fact that not only do you have no case in which a for-profit corporation ever had a successful--"
+2013.13-354,1,15086,john_g_roberts_jr,scotus_justice,4506.4,4509.521,"Well, we've already discussed that there is no case holding that they can't, right?"
+2013.13-354,1,21656,donald_b_verrilli_jr,,4509.521,4520.909,"--In addition, if you look at the history of exemptions and accommodations in our legislation, State and Federal legislation may extend to churches and religious nonprofits, and that's -- and individuals."
+2013.13-354,1,15113,anthony_m_kennedy,scotus_justice,4525.797,4539.123,"Under your view, a profit corporation could be forced -- in principle, there are some statutes on the books now which would prevent it, but -- could be forced in principle to pay for abortions."
+2013.13-354,1,21656,donald_b_verrilli_jr,,4539.123,4539.94,--No.
+2013.13-354,1,15113,anthony_m_kennedy,scotus_justice,4544.861,4547.461,But your reasoning would permit that.
+2013.13-354,1,21656,donald_b_verrilli_jr,,4547.461,4553.465,"Well, I think that -- you know, I don't think that that's -- I think it would depend on the law and it would depend on the entity."
+2013.13-354,1,15113,anthony_m_kennedy,scotus_justice,4559.268,4560.553,I'm talking about a profit corporation.
+2013.13-354,1,21656,donald_b_verrilli_jr,,4568.809,4578.848,"Well, I think that if it were for a for-profit corporation and if such a law like that were enacted, then you're right, under our theory that the for-profit corporation wouldn't have an ability to sue."
+2013.13-354,1,15086,john_g_roberts_jr,scotus_justice,4583.319,4584.736,"I'm sorry, I lost track of that."
+2013.13-354,1,21656,donald_b_verrilli_jr,,4586.704,4590.24,That makes a requirement of the kind that Justice Kennedy hypothesized.
+2013.13-354,1,15086,john_g_roberts_jr,scotus_justice,4591.04,4593.008,"Well, flesh it out a little more."
+2013.13-354,1,21656,donald_b_verrilli_jr,,4595.709,4598.928,That requires for-profit corporations to provide abortions.
+2013.13-354,1,15113,anthony_m_kennedy,scotus_justice,4598.928,4600.461,What if a law like that--
+2013.13-354,1,15086,john_g_roberts_jr,scotus_justice,4600.461,4602.813,Isn't that what we are talking about in terms of their religious beliefs?
+2013.13-354,1,21656,donald_b_verrilli_jr,,4612.136,4614.171,It is their sincere belief and we don't question that.
+2013.13-354,1,15068,samuel_a_alito_jr,scotus_justice,4708.817,4723.409,What about the implications of saying that no for-profit corporation can raise any sort of free exercise claim at all and nobody associated with the for-profit corporation can raise any sort of free exercise claim at all?
+2013.13-354,1,21656,donald_b_verrilli_jr,,4752.679,4755.798,"Well, I'm not sure they couldn't raise a First Amendment claim, Justice Alito."
+2013.13-354,1,15068,samuel_a_alito_jr,scotus_justice,4767.938,4768.738,Why is that--
+2013.13-354,1,15113,anthony_m_kennedy,scotus_justice,4768.738,4770.64,"--Well, but you're getting away from the hypothetical."
+2013.13-354,1,15068,samuel_a_alito_jr,scotus_justice,4784.9,4785.75,--Exactly.
+2013.13-354,1,21656,donald_b_verrilli_jr,,4785.75,4786.6,--Right.
+2013.13-354,1,15068,samuel_a_alito_jr,scotus_justice,4798.675,4805.396,"Well, they say no animal may be slaughtered unless it's stunned first, unless the animal is rendered unconscious before it is slaughtered."
+2013.13-354,1,21656,donald_b_verrilli_jr,,4805.396,4811.884,"--Well, I think in that circumstance, you would have, I think, an ability for customers to bring suit."
+2013.13-354,1,15139,stephen_g_breyer,scotus_justice,4875.66,4895.721,"I mean, the point that Justice Alito was making is that -- take five Jewish or Muslim butchers and what you're saying to them is if they choose to work under the corporate form, which is viewed universally, you have to give up on that form the Freedom of Exercise Clause that you'd otherwise have."
+2013.13-354,1,21656,donald_b_verrilli_jr,,4911.666,4928.877,"--Well, I think our response is what the Court said in Part 3 of the Lee opinion, which is that once you make a choice to go into the commercial sphere, which you certainly do when you incorporate as a for-profit corporation, you are making a choice to live by the rules that govern you and your competitors in the commercial sphere."
+2013.13-354,1,15049,antonin_scalia,scotus_justice,4976.275,4982.412,"That's okay for not-for-profit corporations to do that with respect to all of their employees, and some of them are pretty big operations--"
+2013.13-354,1,21656,donald_b_verrilli_jr,,4982.412,4982.996,No.
+2013.13-354,1,15049,antonin_scalia,scotus_justice,4982.996,4983.612,--that's okay there?
+2013.13-354,1,21656,donald_b_verrilli_jr,,4983.612,4984.864,"No, we don't think that."
+2013.13-354,1,15049,antonin_scalia,scotus_justice,4987.65,4992.118,"They can make -- you allow them to make this religious objection, don't you?"
+2013.13-354,1,21656,donald_b_verrilli_jr,,4992.118,4992.685,No.
+2013.13-354,1,15049,antonin_scalia,scotus_justice,5000.208,5001.158,"But they don't have to pay for it, right?"
+2013.13-354,1,21656,donald_b_verrilli_jr,,5001.158,5002.141,The--
+2013.13-354,1,15049,antonin_scalia,scotus_justice,5002.141,5005.861,"And you could set that up this way, that these people don't have to pay for it."
+2013.13-354,1,21656,donald_b_verrilli_jr,,5005.861,5010.346,"--Well, as I've said a couple of times, they haven't asked for that until this morning."
+2013.13-354,1,15086,john_g_roberts_jr,scotus_justice,5027.141,5028.358,"Thank you, General."
+2013.13-354,2,37772,paul_d_clement,,5029.91,5032.012,"Thank you, Mr. Chief Justice."
+2013.13-354,2,15131,sonia_sotomayor,scotus_justice,5119.815,5144.013,"So we go back to the start of my question, that would be essentially the same for vaccines, blood transfusions, non-pork products, the government has to pay for all of the medical needs that an employer thinks or claims it has a religious exemption to?"
+2013.13-354,2,37772,paul_d_clement,,5144.013,5145.699,"Not necessarily, Justice Sotomayor."
+2013.13-354,2,15131,sonia_sotomayor,scotus_justice,5146.849,5148.032,Because those things are more important?
+2013.13-354,2,37772,paul_d_clement,,5148.032,5149.299,"--No, not because they're more--"
+2013.13-354,2,15131,sonia_sotomayor,scotus_justice,5149.299,5150.151,It's really the amount of money--
+2013.13-354,2,37772,paul_d_clement,,5150.151,5150.684,--important.
+2013.13-354,2,15131,sonia_sotomayor,scotus_justice,5156.471,5157.105,"--Well, but they--"
+2013.13-354,2,37772,paul_d_clement,,5157.105,5157.821,And with all due respect--
+2013.13-354,2,15131,sonia_sotomayor,scotus_justice,5157.821,5168.095,"--they make exemptions for vaccines, presumably, to some people on some basis, but we have a tax code that applies to everybody, but we have a million exemptions."
+2013.13-354,2,37772,paul_d_clement,,5178.051,5184.805,"--I think Lee says that taxes are different and not all exemptions are created equal, because some exemptions undermine the compelling interest."
+2013.13-354,2,15068,samuel_a_alito_jr,scotus_justice,5185.474,5194.513,Isn't there a Federal program that pays for vaccines for any children who are not covered by insurance for those vaccines?
+2013.13-354,2,37772,paul_d_clement,,5194.513,5195.83,"--There is, Justice Alito."
+2013.13-354,2,15131,sonia_sotomayor,scotus_justice,5237.007,5244.846,"Will your clients claim that filling out the form, if -- you're saying they would claim an exemption like the churches have already?"
+2013.13-354,2,37772,paul_d_clement,,5244.846,5251.332,"We haven't been offered that accommodation, so we haven't had to decide what kind of objection, if any, we would make to that."
+2013.13-354,2,15086,john_g_roberts_jr,scotus_justice,5293.693,5294.259,"Thank you, counsel."

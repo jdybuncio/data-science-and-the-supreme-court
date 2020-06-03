@@ -1,0 +1,180 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1984.83-6663,0,15073,warren_e_burger,scotus_justice,0.0,87.289,"Mr. Sullivan, I think you may proceed when you're ready."
+1984.83-6663,0,33012,j_thomas_sullivan,,87.289,97.597,"Mr. Chief Justice, may it please the Court, Petitioner this morning argues that the jurisdictional exception noted by this Court in its 1912 decision, Diaz."
+1984.83-6663,0,15073,warren_e_burger,scotus_justice,183.434,190.705,What did the second constitution have to establish that was not necessary to be shown in the first?
+1984.83-6663,0,33012,j_thomas_sullivan,,190.705,206.949,"The State was required to prove either that as a result of unlawful operation of a vehicular and resulting accident, that a person had either been injured and sustained great bodily injury, or had died as a result of that accident."
+1984.83-6663,0,15141,william_h_rehnquist,scotus_justice,269.974,275.628,"Mr. Sullivan, it's the judgment of the Supreme Court of New Mexico that's being reviewed here, isn't it?"
+1984.83-6663,0,33012,j_thomas_sullivan,,275.628,276.928,"Yes, Your Honor."
+1984.83-6663,0,15141,william_h_rehnquist,scotus_justice,286.667,291.638,So you say it's necessary for us to understand the Court of Appeals' reasoning in order to understand the Supreme Court's reasoning?
+1984.83-6663,0,33012,j_thomas_sullivan,,291.638,299.411,I believe it's necessary to understand the Court of Appeals' reasoning to understand why we believe that we're entitled to the bar of double jeopardy when the decisions of this Court were applied.
+1984.83-6663,0,15071,byron_r_white,scotus_justice,489.934,493.802,Was Diaz even mentioned in either of those cases?
+1984.83-6663,0,33012,j_thomas_sullivan,,493.802,499.19,"--Your Honor, I don't believe either opinion mentions Diaz."
+1984.83-6663,0,15071,byron_r_white,scotus_justice,499.19,501.642,And neither in Vitale.
+1984.83-6663,0,33012,j_thomas_sullivan,,501.642,505.51,I don't believe it's mentioned in Illinois v. Vitale.
+1984.83-6663,0,15071,byron_r_white,scotus_justice,518.103,518.753,I've forgotten.
+1984.83-6663,0,33012,j_thomas_sullivan,,521.155,522.988,"--That's filed and is still pending, Your Honor."
+1984.83-6663,0,15071,byron_r_white,scotus_justice,522.988,523.705,It's still pending here?
+1984.83-6663,0,33012,j_thomas_sullivan,,523.705,524.273,Still pending.
+1984.83-6663,0,15071,byron_r_white,scotus_justice,533.713,535.096,"But, nevertheless, what?"
+1984.83-6663,0,33012,j_thomas_sullivan,,535.096,553.107,"But, nevertheless, it applied in New Mexico; that New Mexico still recognized that there was a jurisdictional exception emanating from Diaz v. United States which would excuse the application of the double jeopardy bar where a court of limited jurisdiction could not have heard or tried or convicted on the greater offense."
+1984.83-6663,0,15071,byron_r_white,scotus_justice,553.107,562.565,Your argument is that Diaz could not possibly have survived Waller and Brown.
+1984.83-6663,0,33012,j_thomas_sullivan,,562.565,573.021,"Not with regard to questions that focus on a preliminary municipal court conviction, followed by prosecution in a court of general jurisdiction of the State."
+1984.83-6663,0,15071,byron_r_white,scotus_justice,618.819,625.305,"If at the time of the municipal action the person wasn't dead, it would be hard to bring at all in the municipal court."
+1984.83-6663,0,33012,j_thomas_sullivan,,625.305,630.09,"--That would be true, Your Honor, if in fact the felony statute required proof of the death."
+1984.83-6663,0,15073,warren_e_burger,scotus_justice,660.562,666.649,Does double jeopardy involve itself in punishment aspects of the case?
+1984.83-6663,0,33012,j_thomas_sullivan,,666.649,672.619,"I think it is involved in the sense that we have successive or multiple punishments imposed in this case, Your Honor."
+1984.83-6663,0,15073,warren_e_burger,scotus_justice,716.746,724.668,"Aren't we bound by the construction of the State law, by the highest court of the State here?"
+1984.83-6663,0,33012,j_thomas_sullivan,,724.668,735.126,"--I think, Your Honor, that the Supreme Court decision in New Mexico implicitly excepted the Court of Appeals' finding on the necessary or essential facts exception of Diaz."
+1984.83-6663,0,15071,byron_r_white,scotus_justice,749.017,752.152,And also that it was a lesser included offense.
+1984.83-6663,0,33012,j_thomas_sullivan,,752.152,753.587,--And it was a lesser included offense.
+1984.83-6663,0,15140,william_j_brennan_jr,scotus_justice,753.587,760.241,"Well, Mr. Sullivan, could both the traffic offense and the felony charge been tried in the upper court?"
+1984.83-6663,0,33012,j_thomas_sullivan,,760.241,761.793,"Yes, Your Honor, I believe they could."
+1984.83-6663,0,15141,william_h_rehnquist,scotus_justice,799.818,810.608,"But you agree, I take it, or you don't challenge the ruling that the municipal court or whatever it was in Eddy County, did not have jurisdiction to try the felony."
+1984.83-6663,0,33012,j_thomas_sullivan,,810.608,812.976,"No, it had no jurisdiction to try the felony, Your Honor."
+1984.83-6663,0,15071,byron_r_white,scotus_justice,852.953,854.053,What did Waller hold?
+1984.83-6663,0,33012,j_thomas_sullivan,,854.053,860.207,"--Well, Waller rejected the notion, as I understand it, that because of a doctrine of dual sovereignty--"
+1984.83-6663,0,15071,byron_r_white,scotus_justice,860.207,860.657,Right.
+1984.83-6663,0,33012,j_thomas_sullivan,,863.075,864.009,--That's correct.
+1984.83-6663,0,15071,byron_r_white,scotus_justice,883.203,890.476,"Well, that may be, but all they based it on, all they rejected was the dual sovereignty theory."
+1984.83-6663,0,33012,j_thomas_sullivan,,893.261,898.748,"But, Your Honor, I think the jurisdictional exception in that case would have to flow from dual sovereignty."
+1984.83-6663,0,15141,william_h_rehnquist,scotus_justice,902.467,905.569,But there is nothing in Diaz that talks about dual sovereignty.
+1984.83-6663,0,33012,j_thomas_sullivan,,912.656,913.424,That's correct Your Honor.
+1984.83-6663,0,15141,william_h_rehnquist,scotus_justice,913.424,920.428,So I don't think it's right to say that the jurisdictional exception depends on the exception of the dual sovereignty here.
+1984.83-6663,0,33012,j_thomas_sullivan,,938.207,941.575,"I agree, Your Honor, that there is a distinguishing feature between them."
+1984.83-6663,0,15071,byron_r_white,scotus_justice,941.575,944.544,"Well, Robinson v. Neil didn't add anything to that."
+1984.83-6663,0,33012,j_thomas_sullivan,,944.544,954.851,"No, but on remand when the District Court of the Eastern District of Tennessee considered the jurisdictional exception that was then argued, the court said it was untenable to accept that exception."
+1984.83-6663,0,15141,william_h_rehnquist,scotus_justice,954.851,959.97,"When the New Mexico disagrees with the District Court for Tennessee, that's what we are here about it."
+1984.83-6663,0,33012,j_thomas_sullivan,,959.97,965.774,"Well, Your Honor, I believe the facts in Waller and Robinson v. Neil are virtually indistinguishable from the facts in this case."
+1984.83-6663,0,15141,william_h_rehnquist,scotus_justice,976.415,984.104,"Well, if the argument in Waller had been that there's a jurisdictional exception in double jeopardy, the case might have come out differently."
+1984.83-6663,0,33012,j_thomas_sullivan,,984.104,985.938,"--Well, I think, Your Honor, that's possibly true."
+1984.83-6663,0,15071,byron_r_white,scotus_justice,985.938,992.96,"Well, you can't say, then, that Waller implicitly or necessarily overruled Diaz."
+1984.83-6663,0,33012,j_thomas_sullivan,,992.96,1021.611,"Well, Your Honor, whether it necessarily or implicitly overruled it in all cases, it seems to me fair to say that where you're talking about municipal prosecutions followed by State prosecutions, implied at least, Waller rejects the notion that this Defendant could have been tried in municipal court for DWI, which is defined both under State statute and under municipal ordinance, and then tried for an offense, a greater offense requiring proof of DWI in a State court of general jurisdiction."
+1984.83-6663,0,15071,byron_r_white,scotus_justice,1025.079,1032.019,Do you think it appears anywhere in the record in Waller or in the arguments as what the jurisdiction of the municipal court was?
+1984.83-6663,0,33012,j_thomas_sullivan,,1032.019,1034.454,--I think that it's clear that--
+1984.83-6663,0,15071,byron_r_white,scotus_justice,1034.454,1037.405,"You'd have to go and look at Florida law, wouldn't you?"
+1984.83-6663,0,33012,j_thomas_sullivan,,1037.405,1040.19,--It was clear that there was a violation of a municipal ordinance.
+1984.83-6663,0,15071,byron_r_white,scotus_justice,1040.19,1040.907,That may be.
+1984.83-6663,0,33012,j_thomas_sullivan,,1047.394,1049.91,"Well, I assume that that issue was before the court--"
+1984.83-6663,0,15071,byron_r_white,scotus_justice,1049.91,1050.512,"Well, you assume."
+1984.83-6663,0,33012,j_thomas_sullivan,,1052.879,1061.033,"--Well, Your Honor, the essential fact is that parallel facts are presented in that case and in this case."
+1984.83-6663,0,15071,byron_r_white,scotus_justice,1105.078,1113.601,"Mr. Sullivan, I gather the Court of Appeals treated the municipal charges as lesser included offenses, did they not?"
+1984.83-6663,0,33012,j_thomas_sullivan,,1113.601,1115.035,"--Yes, the Court of Appeals did."
+1984.83-6663,0,15071,byron_r_white,scotus_justice,1115.035,1119.837,"And your Supreme Court didn't disturb that, did it?"
+1984.83-6663,0,33012,j_thomas_sullivan,,1119.837,1122.273,It didn't address that in the Fugate opinion.
+1984.83-6663,0,15071,byron_r_white,scotus_justice,1122.273,1123.189,"But it didn't disturb that, did it?"
+1984.83-6663,0,33012,j_thomas_sullivan,,1123.189,1123.506,"No, not at all."
+1984.83-6663,0,15141,william_h_rehnquist,scotus_justice,1123.506,1127.791,"It didn't have any occasion to disturb it, did it, because it went off on a different line of reasoning."
+1984.83-6663,0,33012,j_thomas_sullivan,,1127.791,1128.574,I think you're correct.
+1984.83-6663,0,15140,william_j_brennan_jr,scotus_justice,1131.176,1138.266,"Yes, but for our purposes, we treat the case, don't we, the way the State Supreme Court and the Court of Appeals treats it."
+1984.83-6663,0,33012,j_thomas_sullivan,,1138.266,1138.899,I believe so.
+1984.83-6663,0,15140,william_j_brennan_jr,scotus_justice,1157.06,1159.512,"Well, didn't we do exactly that in Waller?"
+1984.83-6663,0,33012,j_thomas_sullivan,,1159.512,1163.131,"I believe it's a parallel situation, Your Honor."
+1984.83-6663,0,15071,byron_r_white,scotus_justice,1163.131,1168.951,"In other words, the intermediate public court treated it as a lesser included offense."
+1984.83-6663,0,33012,j_thomas_sullivan,,1170.987,1176.355,"And then on remand, the Florida court was permitted to review whether or not it was, in fact, a lesser included offense."
+1984.83-6663,0,15071,byron_r_white,scotus_justice,1176.355,1182.545,"Whether we intended to overrule Diaz or not, you certainly asked us to do so."
+1984.83-6663,0,33012,j_thomas_sullivan,,1182.545,1198.82,"Well, we do ask you to do so, Your Honor, and we would point out that Diaz has been virtually unfollowed for the proposition, except in New Mexico, that there is a jurisdictional exception which somehow allows a State to avoid the double jeopardy bar in cases exactly like this."
+1984.83-6663,0,15071,byron_r_white,scotus_justice,1255.907,1258.276,In which court would the State prosecute?
+1984.83-6663,0,33012,j_thomas_sullivan,,1258.276,1270.233,"--The State would prosecute the DWI either in a magistrate court, or could have brought all those charges in a district court as felonies and misdemeanors under the Joinder Rule."
+1984.83-6663,0,15073,warren_e_burger,scotus_justice,1281.641,1281.641,Mr. Attorney General.
+1984.83-6663,1,37728,paul_g_bardacke,,1281.641,1321.182,"Mr. Chief Justice, may it please the Court, I've listened to Petitioner's argument carefully and I do not see why it is fair for the Defendant Fugate to have killed someone while driving recklessly, and then to turn and say to the State, to society, and the victim's family, that because the very next morning he rushed into municipal court, pled no contest to careless driving and DWI, that he then cannot be brought to justice for the later vehicular homicide."
+1984.83-6663,1,15092,sandra_day_oconnor,scotus_justice,1321.182,1330.222,Could the State have declined to proceed against him until it knew the outcome of the injuries?
+1984.83-6663,1,37728,paul_g_bardacke,,1330.222,1334.324,"Justice O'Connor, the injury occurred the evening before."
+1984.83-6663,1,15140,william_j_brennan_jr,scotus_justice,1357.705,1364.461,"And, Mr. Attorney General, could the State have superseded the municipality in the magistrate court?"
+1984.83-6663,1,37728,paul_g_bardacke,,1364.461,1370.865,"Not on the municipal charges, Justice Brennan, but they could have on similar charges that are violations of State crimes."
+1984.83-6663,1,15140,william_j_brennan_jr,scotus_justice,1370.865,1372.949,"Well, are they the same?"
+1984.83-6663,1,37728,paul_g_bardacke,,1372.949,1378.369,"Almost identical, although the punishments under the municipal statutes and the State statutes are different."
+1984.83-6663,1,15140,william_j_brennan_jr,scotus_justice,1378.369,1385.374,"Are you telling me, then, that the municipal prosecution, even over the State's objection, would have to proceed?"
+1984.83-6663,1,37728,paul_g_bardacke,,1385.374,1386.941,It would not have to proceed.
+1984.83-6663,1,15140,william_j_brennan_jr,scotus_justice,1421.13,1423.097,You say the Court of Appeals did not treat them--
+1984.83-6663,1,37728,paul_g_bardacke,,1423.097,1424.499,"--No, they did not."
+1984.83-6663,1,15104,thurgood_marshall,scotus_justice,1457.069,1461.005,--Is there a case that says they can't be tried together?
+1984.83-6663,1,37728,paul_g_bardacke,,1461.005,1464.457,There are cases saying that they can be tried together.
+1984.83-6663,1,15104,thurgood_marshall,scotus_justice,1464.457,1465.657,That's what I thought.
+1984.83-6663,1,37728,paul_g_bardacke,,1465.657,1469.442,But I think the analysis in this case is clearly that they are not the same offense.
+1984.83-6663,1,15071,byron_r_white,scotus_justice,1477.548,1484.885,"Well, that's a different rationale for affirming the court below."
+1984.83-6663,1,37728,paul_g_bardacke,,1484.885,1486.737,--But I think it's the most persuasive rationale.
+1984.83-6663,1,15071,byron_r_white,scotus_justice,1486.737,1491.355,"Well, that may be, but that isn't the word we have from the New Mexico courts in this case."
+1984.83-6663,1,37728,paul_g_bardacke,,1491.355,1499.878,"But I think it's clear under New York Telephone and Dandridge, that you're entitled to argue any matter before this Court that could sustain the lower court."
+1984.83-6663,1,15071,byron_r_white,scotus_justice,1499.878,1505.198,Let's assume we said that the jurisdictional exception does not apply.
+1984.83-6663,1,37728,paul_g_bardacke,,1512.369,1520.458,"If this Court felt that there was any question as to whether or not they were the same offense under State law, then remand would be appropriate."
+1984.83-6663,1,15071,byron_r_white,scotus_justice,1521.158,1533.382,"Well, we would just have to take your word or what the New Mexico cases say for what the law is, rather than the Court of Appeals of your State."
+1984.83-6663,1,37728,paul_g_bardacke,,1533.382,1542.121,"--Well, the Supreme Court has two clear cases on this issue, Tanton and Trujillo, in which they say specifically that DWI and vehicular homicide are not necessarily included."
+1984.83-6663,1,15071,byron_r_white,scotus_justice,1543.971,1544.471,"Well, that may be."
+1984.83-6663,1,37728,paul_g_bardacke,,1559.397,1560.499,--I quite agree.
+1984.83-6663,1,15071,byron_r_white,scotus_justice,1568.419,1572.14,You are following the statutory elements analysis.
+1984.83-6663,1,37728,paul_g_bardacke,,1572.14,1576.758,"--Justice White, that is what I'm doing, and that's what Blockburger requires us to do."
+1984.83-6663,1,15071,byron_r_white,scotus_justice,1582.912,1585.531,You think that's the only answer you find in our cases?
+1984.83-6663,1,37728,paul_g_bardacke,,1585.531,1591.852,"--Well, I think we find many answers in your cases, but I think that is the answer, however, that you should follow in this case."
+1984.83-6663,1,15071,byron_r_white,scotus_justice,1617.883,1624.037,I think that you're still defending your Supreme Court's judgment that Diaz is still good law.
+1984.83-6663,1,37728,paul_g_bardacke,,1624.037,1628.191,"Well, I don't think you need to reach an exception if you're dealing with the same offenses."
+1984.83-6663,1,15141,william_h_rehnquist,scotus_justice,1642.099,1658.227,"I think what Justice White is intimating is that we tend to review a question that is decided by the State Supreme Court, rather than trying to find some other grounds for affirming its judgment that may be dependent on State law."
+1984.83-6663,1,37728,paul_g_bardacke,,1658.227,1666.316,"Well, I don't believe that the State law can really be in dispute with respect to the lesser included offense issue."
+1984.83-6663,1,15060,john_paul_stevens,scotus_justice,1699.934,1702.969,The additional fact is driving under the influence of drugs.
+1984.83-6663,1,37728,paul_g_bardacke,,1702.969,1704.769,"--Well, there are many additional drugs."
+1984.83-6663,1,15060,john_paul_stevens,scotus_justice,1736.857,1739.825,Can they also give rise to the reckless driving charge?
+1984.83-6663,1,37728,paul_g_bardacke,,1739.825,1742.944,It depends under the facts of reckless driving.
+1984.83-6663,1,15060,john_paul_stevens,scotus_justice,1776.482,1789.556,"May I ask, if we were... following up on Justice Brennan's question earlier... if the reckless driving charge had been brought in the court of general jurisdiction after it had been brought in the court of limited jurisdiction, would that have been permissible in your view?"
+1984.83-6663,1,37728,paul_g_bardacke,,1789.556,1790.306,Not permissible.
+1984.83-6663,1,15060,john_paul_stevens,scotus_justice,1793.658,1796.194,The dual jurisdiction exception would not apply in that event.
+1984.83-6663,1,37728,paul_g_bardacke,,1796.194,1797.145,--I quite agree.
+1984.83-6663,1,15060,john_paul_stevens,scotus_justice,1797.145,1802.347,"What is the scope of the... the jurisdictional exception then, does not apply if the offenses are the same."
+1984.83-6663,1,37728,paul_g_bardacke,,1804.232,1807.148,"That's correct, if the offenses are identical."
+1984.83-6663,1,15060,john_paul_stevens,scotus_justice,1807.148,1810.219,"If you're wrong on the major argument you're making, you concede you lose."
+1984.83-6663,1,37728,paul_g_bardacke,,1810.219,1812.019,"No, I do not concede we lose."
+1984.83-6663,1,15060,john_paul_stevens,scotus_justice,1812.019,1815.171,If it's the same offense... I don't understand.
+1984.83-6663,1,37728,paul_g_bardacke,,1832.15,1834.768,"I understand the Court's point, and perhaps it wouldn't."
+1984.83-6663,1,15104,thurgood_marshall,scotus_justice,1877.745,1883.482,"Do I understand you, that this man voluntarily went in and made them give him 21 days?"
+1984.83-6663,1,37728,paul_g_bardacke,,1883.482,1884.85,--Yes.
+1984.83-6663,1,15104,thurgood_marshall,scotus_justice,1886.35,1891.838,Do you know of any other place where somebody has gone in and made them give him 21 days?
+1984.83-6663,1,37728,paul_g_bardacke,,1891.838,1893.956,"No, but I think 21 days--"
+1984.83-6663,1,15104,thurgood_marshall,scotus_justice,1893.956,1895.14,"Well, isn't it strange?"
+1984.83-6663,1,37728,paul_g_bardacke,,1895.14,1895.992,--No.
+1984.83-6663,1,15104,thurgood_marshall,scotus_justice,1902.146,1906.098,"Well, do you know of anybody else who has volunteered to take 21 days?"
+1984.83-6663,1,37728,paul_g_bardacke,,1906.098,1914.12,"Well, if someone was injured in the accident and he was clever, he might very well have gone in the next morning and volunteered."
+1984.83-6663,1,15104,thurgood_marshall,scotus_justice,1914.12,1916.254,Do you have any other cases in New Mexico?
+1984.83-6663,1,37728,paul_g_bardacke,,1916.254,1917.739,Where he volunteered?
+1984.83-6663,1,15104,thurgood_marshall,scotus_justice,1917.739,1921.523,Is New Mexico different from all other States?
+1984.83-6663,1,37728,paul_g_bardacke,,1921.523,1922.706,"No, it is not."
+1984.83-6663,1,15104,thurgood_marshall,scotus_justice,1922.706,1927.76,Are the people in New Mexico just the kind that want to go to 21 days?
+1984.83-6663,1,37728,paul_g_bardacke,,1927.76,1934.664,We have a two-tier system there where people routinely are supposed to go in and clear themselves of traffic citations.
+1984.83-6663,1,15104,thurgood_marshall,scotus_justice,1953.892,1954.975,But did you get him off the streets?
+1984.83-6663,1,37728,paul_g_bardacke,,1957.844,1959.31,--Well--
+1984.83-6663,1,15104,thurgood_marshall,scotus_justice,1959.31,1960.979,He didn't go to jail.
+1984.83-6663,1,37728,paul_g_bardacke,,1960.979,1967.116,"--I think, Justice Marshall, that's why in this case, this man didn't run the gauntlet twice."
+1984.83-6663,1,15104,thurgood_marshall,scotus_justice,1990.081,1991.431,Couldn't you have made it three?
+1984.83-6663,1,37728,paul_g_bardacke,,1991.431,1996.719,"--It could have been three, if in fact--"
+1984.83-6663,1,15104,thurgood_marshall,scotus_justice,1996.719,1999.004,"In fact, there is no limit to it, is there?"
+1984.83-6663,1,37728,paul_g_bardacke,,1999.004,2001.539,"--Well, it depends what the legislature intends."
+1984.83-6663,1,15104,thurgood_marshall,scotus_justice,2077.587,2082.575,Has that happened in any other State yet that doesn't have the New Mexico rule?
+1984.83-6663,1,37728,paul_g_bardacke,,2082.575,2085.443,Which New Mexico rule?
+1984.83-6663,1,15104,thurgood_marshall,scotus_justice,2085.443,2088.995,The one that you say that you can try him any time you get ready to try him.
+1984.83-6663,1,37728,paul_g_bardacke,,2096.75,2097.55,"Well, I don't think so."
+1984.83-6663,1,15104,thurgood_marshall,scotus_justice,2100.602,2102.571,They aren't in this case.
+1984.83-6663,1,37728,paul_g_bardacke,,2103.704,2115.812,"--I think the two-tier system is important and it's important in a complex society where we have lots of cars, lots of drunk drivers, lots of reckless drivers, and lots of people being killed."
+1984.83-6663,1,15060,john_paul_stevens,scotus_justice,2205.937,2207.437,May I just ask one other question?
+1984.83-6663,1,37728,paul_g_bardacke,,2211.607,2213.307,I believe it was footnote 7 of Ashe.
+1984.83-6663,1,15060,john_paul_stevens,scotus_justice,2213.307,2214.643,I've got it in front of me.
+1984.83-6663,1,37728,paul_g_bardacke,,2216.143,2219.361,"Well, doesn't it... isn't it at footnote... I'm sorry."
+1984.83-6663,1,15060,john_paul_stevens,scotus_justice,2223.498,2224.964,So it's not the Court's opinion.
+1984.83-6663,1,37728,paul_g_bardacke,,2224.964,2227.164,"No, it was a concurring opinion of Justice Brennan."
+1984.83-6663,1,15060,john_paul_stevens,scotus_justice,2227.164,2228.082,That makes a difference.
+1984.83-6663,1,37728,paul_g_bardacke,,2228.082,2229.499,"Yes, it does make a difference."
+1984.83-6663,1,15060,john_paul_stevens,scotus_justice,2229.499,2231.201,Which way?
+1984.83-6663,1,37728,paul_g_bardacke,,2232.568,2235.986,"Yes, I think it makes a difference, it's more in favor of my case."
+1984.83-6663,1,15073,warren_e_burger,scotus_justice,2237.386,0.0,"Do you have anything further, Mr. Sullivan?"
+1984.83-6663,2,33012,j_thomas_sullivan,,2241.171,2242.188,Just a few points.
+1984.83-6663,2,15141,william_h_rehnquist,scotus_justice,2337.752,2340.252,Do you really regard that as a simple solution?
+1984.83-6663,2,33012,j_thomas_sullivan,,2340.252,2347.357,I think that's a relatively simple solution if the problems the attorney general says are of the magnitude he claims that they are.
+1984.83-6663,2,15104,thurgood_marshall,scotus_justice,2462.148,2462.648,Mr. Sullivan--
+1984.83-6663,2,33012,j_thomas_sullivan,,2462.648,2463.465,"Yes, Your Honor."
+1984.83-6663,2,15104,thurgood_marshall,scotus_justice,2463.465,2476.758,"--I don't know what it has to do with this case, but is there any other crime that this man could have been tried for in New Mexico if the victim had not died?"
+1984.83-6663,2,33012,j_thomas_sullivan,,2476.758,2481.127,He could have been tried for vehicular homicide Your Honor.
+1984.83-6663,2,15104,thurgood_marshall,scotus_justice,2481.127,2482.646,If he hadn't died--
+1984.83-6663,2,33012,j_thomas_sullivan,,2482.646,2487.098,"If he hadn't died, he still could have been tried under the New Mexico statute for vehicular homicide."
+1984.83-6663,2,15104,thurgood_marshall,scotus_justice,2487.098,2488.466,--You mean in the first instance?
+1984.83-6663,2,33012,j_thomas_sullivan,,2488.466,2489.833,In the first instance--
+1984.83-6663,2,15104,thurgood_marshall,scotus_justice,2489.833,2493.768,How can he be convicted of homicide if there's no one dead?
+1984.83-6663,2,33012,j_thomas_sullivan,,2493.768,2503.909,"--Under the New Mexico statute, the offense is complete if an individual sustains a great bodily injury in the course of an accident while the Defendant is driving unlawfully."
+1984.83-6663,2,15104,thurgood_marshall,scotus_justice,2503.909,2504.409,"Yes, but--"
+1984.83-6663,2,33012,j_thomas_sullivan,,2504.409,2510.629,It's a misnomer to call it a homicide because the statute encompasses both a serious injury case and a death case.
+1984.83-6663,2,15073,warren_e_burger,scotus_justice,2512.146,2513.659,"Thank you, gentlemen."

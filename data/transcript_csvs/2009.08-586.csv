@@ -1,0 +1,212 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2009.08-586,0,15086,john_g_roberts_jr,scotus_justice,0.0,5.982,"We will hear argument first this morning in Case 08-586, Jones v. Harris Associates."
+2009.08-586,0,20869,david_c_frederick,,6.98,9.76,"Thank you, Mr. Chief Justice, and may it please the Court:"
+2009.08-586,0,15113,anthony_m_kennedy,scotus_justice,135.93,141.19,Is Harris a fiduciary in the same sense as a corporate officer and a corporate director?
+2009.08-586,0,20869,david_c_frederick,,158.698,161.058,"The basic concept, Justice Kennedy, is the same."
+2009.08-586,0,15113,anthony_m_kennedy,scotus_justice,192.936,198.84,"Well, would the test for compensation in this case be the same as any director or any officer of a corporation?"
+2009.08-586,0,20869,david_c_frederick,,198.84,205.882,"The difference here, Justice Kennedy, is that in those circumstances the indicia of an arm's-length transaction may be achieved."
+2009.08-586,0,15113,anthony_m_kennedy,scotus_justice,225.124,228.515,"I just want to know, is the fiduciary duties the same?"
+2009.08-586,0,20869,david_c_frederick,,240.698,241.275,--Yes.
+2009.08-586,0,15049,antonin_scalia,scotus_justice,246.742,247.553,And for lawyers?
+2009.08-586,0,20869,david_c_frederick,,247.553,248.676,For lawyers--
+2009.08-586,0,15049,antonin_scalia,scotus_justice,248.676,251.222,Lawyers have a fiduciary obligation to their clients; right?
+2009.08-586,0,20869,david_c_frederick,,251.222,252.096,--That is true.
+2009.08-586,0,15049,antonin_scalia,scotus_justice,252.096,258.238,So courts should review lawyers' fees for -- on the basis of whether it's a fair result.
+2009.08-586,0,20869,david_c_frederick,,258.238,264.907,"That is how courts do it every day in this country, Justice Scalia, when they are asked to make fee applications for reasonableness."
+2009.08-586,0,15086,john_g_roberts_jr,scotus_justice,264.907,266.123,"Well, but this is different."
+2009.08-586,0,20869,david_c_frederick,,282.555,286.318,"The lawyers' fees in which context, Mr. Chief Justice?"
+2009.08-586,0,15086,john_g_roberts_jr,scotus_justice,288.209,288.724,Counsel for the fund.
+2009.08-586,0,20869,david_c_frederick,,288.724,299.374,"Counsel for the fund is -- that is actually not at issue here, but the issue of what constitutes reasonable expenses may arise in various circumstances."
+2009.08-586,0,15084,ruth_bader_ginsburg,scotus_justice,341.563,371.815,"But there was in this record, was there not, a submission by the adviser comparing what mutual funds this fund was charged, what institutional funds were charged, but explaining the differential in terms of the services provided, that more services were provided to the fund and less services were provided to the institutional investors."
+2009.08-586,0,20869,david_c_frederick,,371.815,390.088,"And, Justice Ginsburg, that is where there is a disputed issue of fact for which summary judgment is not appropriate, because the plaintiffs submitted evidence that in fact the services provided to the institutional investors were greater, even though they were being charged a lower amount of money."
+2009.08-586,0,15084,ruth_bader_ginsburg,scotus_justice,390.088,391.102,Who would have the burden?
+2009.08-586,0,20869,david_c_frederick,,421.761,422.291,Yes.
+2009.08-586,0,15084,ruth_bader_ginsburg,scotus_justice,422.291,423.383,You would have the burden?
+2009.08-586,0,20869,david_c_frederick,,423.383,423.976,We have the burden.
+2009.08-586,0,15049,antonin_scalia,scotus_justice,423.976,426.99,"That's different from normal trust law, isn't it?"
+2009.08-586,0,20869,david_c_frederick,,426.99,427.52,It is.
+2009.08-586,0,15049,antonin_scalia,scotus_justice,427.52,432.423,"Normally where you are a fiduciary, it's up to you to prove that it was reasonable."
+2009.08-586,0,20869,david_c_frederick,,432.423,432.973,That's true.
+2009.08-586,0,15049,antonin_scalia,scotus_justice,432.973,438.702,So Congress evidently did not mean ordinary trust law to apply in this context.
+2009.08-586,0,20869,david_c_frederick,,438.702,441.17,"We disagree with that last part, Justice Scalia."
+2009.08-586,0,15086,john_g_roberts_jr,scotus_justice,462.293,481.051,"What if -- if you are having courts decide -- review what is fair, a fair fee, what if the adviser had given such good advice that the fund beat the industry average for his category of fund by 5 percent over the last 5 years."
+2009.08-586,0,20869,david_c_frederick,,490.999,494.59,"Well, there is an issue of fact as to how relevant performance is."
+2009.08-586,0,15086,john_g_roberts_jr,scotus_justice,507.821,508.71,"Well, surely you think it is."
+2009.08-586,0,20869,david_c_frederick,,517.067,530.169,"--My point, Mr. Chief Justice, is that when they charge the same amount, buying the same stocks, to institutional investors and achieve the same performance, there is no reason why the mutual fund should be charged twice as much."
+2009.08-586,0,15086,john_g_roberts_jr,scotus_justice,530.169,537.513,"Well, but there is different parameters, right, in the sense that you're trying -- the company is trying to attract investors to the mutual fund."
+2009.08-586,0,20869,david_c_frederick,,544.118,548.457,But the investor doesn't gain because of the marketing skill of the adviser.
+2009.08-586,0,15113,anthony_m_kennedy,scotus_justice,568.826,571.513,"You said that Congress used ""fiduciary"" in a special sense."
+2009.08-586,0,20869,david_c_frederick,,589.754,598.407,"--Well, Justice Kennedy, let me just add the extra words of the statute, because what Congress said was a fiduciary duty ""with respect to compensation""."
+2009.08-586,0,15086,john_g_roberts_jr,scotus_justice,622.9,630.098,Do technological changes make a difference in terms of disclosures required?
+2009.08-586,0,20869,david_c_frederick,,644.655,662.741,"The fact that an investor may know going in what the fee is does not address the problem Congress was intending to address, which is that as larger and larger sums of assets were accreted to the mutual fund, the investor was not obtaining the benefits of economies of scale."
+2009.08-586,0,15086,john_g_roberts_jr,scotus_justice,664.616,671.066,"So we could look at -- you know, as the fund grows bigger and he doesn't get those benefits he can go look at another fund."
+2009.08-586,0,20869,david_c_frederick,,673.378,680.0,"--And that again doesn't address the problem Congress was trying to get at, which is to protect the company, not the individual investor."
+2009.08-586,0,15049,antonin_scalia,scotus_justice,688.95,708.049,"No, but he protects the company ultimately, because when investors leave the company that is charging excessive fees to go to other companies, the company that they are leaving sees that something's wrong and has to lower its compensation to its adviser."
+2009.08-586,0,20869,david_c_frederick,,711.832,727.965,"A large number of assets under management in mutual funds, something like 26 to 35 percent according to materials that are in the record, are from 401(k) plans, where the investor is essentially locked into the fund that his or her company chooses to make that investment."
+2009.08-586,0,15086,john_g_roberts_jr,scotus_justice,742.568,748.269,Companies -- companies change who they invest with under the 401(k)'s all the time.
+2009.08-586,0,20869,david_c_frederick,,755.86,768.48,"--And Mr. Chief Justice, as the Court recognized in the Daily Income Fund case, this is a unique cause of action in which Congress was intending to protect the entire corpus of the investors in the fund, because--"
+2009.08-586,0,15086,john_g_roberts_jr,scotus_justice,768.48,774.961,"You told me just a little while ago, or told somebody, Congress wasn't interested in protecting investors; they were interested in protecting the companies."
+2009.08-586,0,20869,david_c_frederick,,774.961,779.177,"--The company is comprised of the investors, Mr. Chief Justice."
+2009.08-586,0,15131,sonia_sotomayor,scotus_justice,789.486,794.529,"Counsel, can I unpackage your argument a little bit."
+2009.08-586,0,20869,david_c_frederick,,841.135,848.911,"Well, what the Court said in pepper is that fair is what is reflective of what an arm's-length agreement would produce."
+2009.08-586,0,15131,sonia_sotomayor,scotus_justice,848.911,849.192,All right.
+2009.08-586,0,20869,david_c_frederick,,849.819,850.256,Yes.
+2009.08-586,0,15131,sonia_sotomayor,scotus_justice,850.256,850.88,All right.
+2009.08-586,0,20869,david_c_frederick,,908.507,912.302,Because the directors can't fire and walk away from the advisor.
+2009.08-586,0,15131,sonia_sotomayor,scotus_justice,917.644,922.752,"--That's -- now, that's begging the question, because Congress hasn't said a reasonable fee."
+2009.08-586,0,20869,david_c_frederick,,934.997,935.403,True.
+2009.08-586,0,15131,sonia_sotomayor,scotus_justice,947.008,949.601,"I'm still begging the question, fair against what."
+2009.08-586,0,20869,david_c_frederick,,949.601,959.44,Fair against what the adviser actually charged for same or similar services to an outsider who had the right to walk away.
+2009.08-586,0,15049,antonin_scalia,scotus_justice,959.44,965.139,"Mr. Frederick, I don't understand your statement that they can't fire the investment adviser."
+2009.08-586,0,20869,david_c_frederick,,972.701,973.107,They--
+2009.08-586,0,15049,antonin_scalia,scotus_justice,973.107,975.356,Can they insist that he accept a lower fee?
+2009.08-586,0,20869,david_c_frederick,,977.774,979.26,"--In practical terms, no."
+2009.08-586,0,15049,antonin_scalia,scotus_justice,979.26,980.024,Why?
+2009.08-586,0,20869,david_c_frederick,,980.024,983.445,Because the adviser picks the board of directors.
+2009.08-586,0,15049,antonin_scalia,scotus_justice,983.445,984.806,"Oh, no, that's something different."
+2009.08-586,0,20869,david_c_frederick,,1007.216,1012.199,There is actually no evidence in any record I am aware of where that has actually happened.
+2009.08-586,0,15086,john_g_roberts_jr,scotus_justice,1019.932,1020.743,"Thank you, counsel."
+2009.08-586,1,19038,curtis_e_gannon,,1037.113,1040.704,"Mr. Chief Justice, and may it please the Court:"
+2009.08-586,1,15113,anthony_m_kennedy,scotus_justice,1063.898,1067.568,"Do you think Congress used the term ""fiduciary"" in a very special sense here?"
+2009.08-586,1,19038,curtis_e_gannon,,1094.432,1095.712,"Well, we do think that--"
+2009.08-586,1,15113,anthony_m_kennedy,scotus_justice,1095.712,1098.023,"But it seems to me an odd use of the term ""fiduciary""."
+2009.08-586,1,19038,curtis_e_gannon,,1100.149,1117.938,"--Well, we do think that the term v. Litton, the case that counsel for Petitioners was already referring to."
+2009.08-586,1,15086,john_g_roberts_jr,scotus_justice,1177.071,1186.518,"Counsel, if we are going to have regulation of what fees can be charged, you cite in your brief the various regulations the SEC has issued."
+2009.08-586,1,19038,curtis_e_gannon,,1191.518,1195.437,"Well, in the abstract, it might make more sense, Mr. Chief Justice."
+2009.08-586,1,15086,john_g_roberts_jr,scotus_justice,1200.327,1204.2,"You are not suggesting the SEC wouldn't have authority to do that, are you?"
+2009.08-586,1,19038,curtis_e_gannon,,1204.2,1211.324,"--Well, even under this statute, the SEC has the authority to file suits under section 36(b)."
+2009.08-586,1,15084,ruth_bader_ginsburg,scotus_justice,1211.324,1212.072,Has it filed any?
+2009.08-586,1,19038,curtis_e_gannon,,1212.072,1215.82,"It hasn't filed any since -- since 1980, Justice Ginsburg."
+2009.08-586,1,15049,antonin_scalia,scotus_justice,1234.139,1248.058,"Well, it must be aware of the -- of the divergence between the fees that investment advisers charge to these companies and what they charge to other clients."
+2009.08-586,1,19038,curtis_e_gannon,,1249.742,1251.633,--It is aware of that.
+2009.08-586,1,15049,antonin_scalia,scotus_justice,1251.633,1255.147,And yet has brought no suits against this industry?
+2009.08-586,1,19038,curtis_e_gannon,,1255.147,1258.801,Since 1980 it hasn't used section 36(b).
+2009.08-586,1,15049,antonin_scalia,scotus_justice,1263.83,1265.347,"For disclosure, just for disclosure."
+2009.08-586,1,19038,curtis_e_gannon,,1278.45,1311.841,"--Well, when the SEC helped draft the statute in the 1960s, it recognized that there was this systematic disparity between the amounts that mutual funds were being charged by investment advisers and the amounts that investment advisers were charging their unaffiliated clients, and in the 1969 memorandum that I referred to, which is reprinted in an appendix to the amicus brief by John Bogel in its entirety, the SEC mentioned that comparison as being something that may well be relevant in proving in an individual case that that particular investment adviser's fees are excessive."
+2009.08-586,1,15084,ruth_bader_ginsburg,scotus_justice,1331.944,1338.507,"Mr. Gannon, the -- all the circumstances, that comes from the Second Circuit's Gartenberg case?"
+2009.08-586,1,19038,curtis_e_gannon,,1338.507,1342.986,"Well, it also comes, Justice Ginsburg, from the text of section 36(b)(2)."
+2009.08-586,1,15084,ruth_bader_ginsburg,scotus_justice,1342.986,1354.077,"But in -- in that case, at least there was a footnote that seemed to say, you don't have to engage in a -- in the comparison with what institutional investors are paid."
+2009.08-586,1,19038,curtis_e_gannon,,1354.077,1369.133,"The footnote that you are talking about did point out that in that case the comparison that the plaintiffs were attempting to draw between the money market fund at issue and a pension fund wasn't a particularly relevant one, because the services at issue were so different."
+2009.08-586,1,15086,john_g_roberts_jr,scotus_justice,1402.494,1407.992,"Counsel, the statute does not say, in considering the rates you look at all the circumstances."
+2009.08-586,1,19038,curtis_e_gannon,,1414.021,1415.83,--It does say that you should give the board--
+2009.08-586,1,15086,john_g_roberts_jr,scotus_justice,1415.83,1417.032,The board.
+2009.08-586,1,19038,curtis_e_gannon,,1417.032,1420.265,--such consideration as is deemed appropriate under all the circumstances.
+2009.08-586,1,15086,john_g_roberts_jr,scotus_justice,1421.03,1421.264,Right.
+2009.08-586,1,19038,curtis_e_gannon,,1433.024,1443.143,"Well, I think that it demonstrates that the Court is obligated to look to all the circumstances simply to determine whether the board's approval -- how much weight it should be given."
+2009.08-586,1,15131,sonia_sotomayor,scotus_justice,1460.902,1465.075,Even if they agree to pay double the price?
+2009.08-586,1,19038,curtis_e_gannon,,1465.075,1476.633,"--We think that -- that the right process followed by the board would be probative, but something like double the price may -- may demonstrate that that is an unfair bargain."
+2009.08-586,1,15131,sonia_sotomayor,scotus_justice,1476.633,1498.123,"That -- that's what -- are you advocating that there is a stand-alone cause of action or breach of duty when there isn't full disclosure, even if the fee is within arm's length -- normal -- begging the question of what's normal, but assuming that it's within an arm's-length transaction range in the market?"
+2009.08-586,1,19038,curtis_e_gannon,,1498.123,1504.994,"If there was a lack of full disclosure, that might in the abstract be a breach of fiduciary duty even under the Seventh Circuit's test."
+2009.08-586,1,15049,antonin_scalia,scotus_justice,1514.006,1523.314,"But even if there is full disclosure, your position is in every case a court must decide whether the fee is reasonable or not."
+2009.08-586,1,19038,curtis_e_gannon,,1523.314,1533.795,"A court would need to decide whether the plaintiff has met its burden of proving that it falls outside the range of fees that arm's-length bargaining would have arrived at, and that's a cause of action that would be--"
+2009.08-586,1,15131,sonia_sotomayor,scotus_justice,1533.795,1537.044,"Well, how much deviance, and what is the scope of the range?"
+2009.08-586,1,19038,curtis_e_gannon,,1537.044,1544.823,"--Well, I think that the term of art of ""fiduciary duty"" doesn't necessarily demonstrate how much deviance away from the range there would be."
+2009.08-586,1,15113,anthony_m_kennedy,scotus_justice,1561.958,1566.64,How is the -- how is the standard you've just described different from a standard of reasonableness?
+2009.08-586,1,19038,curtis_e_gannon,,1566.64,1577.559,"It -- I think that the chief way it differs from reasonableness, Justice Kennedy, is in saying that the Court doesn't actually have to decide what the single most reasonable fee is."
+2009.08-586,1,15113,anthony_m_kennedy,scotus_justice,1582.212,1585.963,"Well, I would be very surprised if ""reasonableness"" always meant one -- one figure."
+2009.08-586,1,19038,curtis_e_gannon,,1586.65,1598.52,"--Well, I think reasonableness is -- is inevitably going to be part of the inherent fairness inquiry that this Court referred to in Pepper v. Litton as being part of the fiduciary duty status as to whether the transaction--"
+2009.08-586,1,15060,john_paul_stevens,scotus_justice,1598.52,1601.347,May I ask you a question going back to Justice Kennedy's early question?
+2009.08-586,1,19038,curtis_e_gannon,,1610.498,1622.946,"--I -- I -- I think that it is different from the status of a president of a corporation; that -- that the term of art, ""fiduciary"" which Congress was invoking here can mean different things in different circumstances."
+2009.08-586,1,15086,john_g_roberts_jr,scotus_justice,1642.05,1642.893,"Thank you, counsel."
+2009.08-586,1,19038,curtis_e_gannon,,1642.893,1644.172,"Thank you, Mr. Chief Justice."
+2009.08-586,1,15086,john_g_roberts_jr,scotus_justice,1644.172,1649.357,Mr. Donovan.
+2009.08-586,2,30065,john_d_donovan_jr,,1649.357,1651.997,"Mr. Chief Justice, and may it please the Court:"
+2009.08-586,2,15131,sonia_sotomayor,scotus_justice,1688.059,1713.707,"Let's assume -- let's assume that all of the independent board of director members vote for a particular fee, but the fee is negotiated by an insider, and the insider is the one who does the evaluation, looks at them and says: I think this is really a great deal, guys."
+2009.08-586,2,30065,john_d_donovan_jr,,1725.952,1728.856,--It may not and it may give rise to a cause of action.
+2009.08-586,2,15131,sonia_sotomayor,scotus_justice,1730.026,1730.884,Which cause of action--
+2009.08-586,2,30065,john_d_donovan_jr,,1730.884,1731.493,--A cause of action--
+2009.08-586,2,15131,sonia_sotomayor,scotus_justice,1731.493,1731.898,--under what?
+2009.08-586,2,30065,john_d_donovan_jr,,1731.898,1740.38,"--It may give a cause of action under section 36(b) if the circumstances you described, Justice Sotomayor are -- have an impact upon the fee."
+2009.08-586,2,15131,sonia_sotomayor,scotus_justice,1741.491,1747.878,"So, then their process is part of your definition of ""fiduciary duty""?"
+2009.08-586,2,30065,john_d_donovan_jr,,1750.611,1754.874,--If there is an impact upon fee that is outside of the range of what could have been bargained.
+2009.08-586,2,15131,sonia_sotomayor,scotus_justice,1756.531,1762.154,"Now -- now you are adding what has been added, which is outside of the range, correct?"
+2009.08-586,2,30065,john_d_donovan_jr,,1762.154,1762.98,--Yes.
+2009.08-586,2,15131,sonia_sotomayor,scotus_justice,1762.98,1763.807,All right.
+2009.08-586,2,30065,john_d_donovan_jr,,1763.807,1770.916,"If I understand your question correctly, will a process flaw alone justify a section 36(b) cause of action?"
+2009.08-586,2,15131,sonia_sotomayor,scotus_justice,1779.035,1780.006,All right.
+2009.08-586,2,30065,john_d_donovan_jr,,1790.485,1792.874,"No, I -- I -- I doubt that as well."
+2009.08-586,2,15049,antonin_scalia,scotus_justice,1845.291,1849.413,"That's a wonderfully clear command, isn't it?"
+2009.08-586,2,30065,john_d_donovan_jr,,1855.333,1857.552,The language is
+2009.08-586,2,15049,antonin_scalia,scotus_justice,1859.801,1860.285,Wow.
+2009.08-586,2,30065,john_d_donovan_jr,,1863.046,1869.563,"But there would be no reason for that instruction at all, Your Honor, if a court were to make its own judgments about what is fair and reasonable."
+2009.08-586,2,15049,antonin_scalia,scotus_justice,1869.563,1870.452,"No, it's meaningless."
+2009.08-586,2,30065,john_d_donovan_jr,,1883.46,1889.847,What I think Congress was doing was considering what the source of the common law had been before.
+2009.08-586,2,15086,john_g_roberts_jr,scotus_justice,1911.732,1914.886,"Well, what is ""so far out of bounds""?"
+2009.08-586,2,30065,john_d_donovan_jr,,1925.254,1925.898,Mr. Chief--
+2009.08-586,2,15086,john_g_roberts_jr,scotus_justice,1925.898,1927.427,"Double, as they say is the case here?"
+2009.08-586,2,30065,john_d_donovan_jr,,1927.427,1928.772,--I'm sorry?
+2009.08-586,2,15086,john_g_roberts_jr,scotus_justice,1928.772,1930.597,"Double, as they say is the case here?"
+2009.08-586,2,30065,john_d_donovan_jr,,1930.597,1931.957,As the plaintiffs say is the case here.
+2009.08-586,2,15086,john_g_roberts_jr,scotus_justice,1931.957,1932.301,Yes.
+2009.08-586,2,30065,john_d_donovan_jr,,1932.301,1939.734,"I suggest there is no numerical basis, because in fact every kind of mutual fund and ever stripe of mutual fund is different."
+2009.08-586,2,15086,john_g_roberts_jr,scotus_justice,1939.734,1945.013,"Well, then you say: Look to see if it's outside the bounds, and now you tell me there is no way to look to see if it's outside the bounds."
+2009.08-586,2,30065,john_d_donovan_jr,,1945.013,1949.249,"Well, I think -- the first comparative would be other funds of a similar stripe."
+2009.08-586,2,15049,antonin_scalia,scotus_justice,1978.83,1981.532,Is that the test that the court of appeals here applied?
+2009.08-586,2,30065,john_d_donovan_jr,,1981.532,1982.218,Pardon?
+2009.08-586,2,15049,antonin_scalia,scotus_justice,1982.218,1988.747,"Is that the test that the court of appeals here applied, whose judgment you want us to affirm?"
+2009.08-586,2,30065,john_d_donovan_jr,,1988.747,1990.681,The court of appeals did not apply the test.
+2009.08-586,2,15049,antonin_scalia,scotus_justice,1991.933,1997.537,So we should remand it for application of the test that you propose?
+2009.08-586,2,30065,john_d_donovan_jr,,1997.537,1998.04,--I don't think you have to.
+2009.08-586,2,15049,antonin_scalia,scotus_justice,2027.793,2030.527,"Surely that's a disputed fact, isn't it?"
+2009.08-586,2,30065,john_d_donovan_jr,,2038.723,2040.817,They are very different.
+2009.08-586,2,15049,antonin_scalia,scotus_justice,2051.751,2053.888,It wasn't talking about this particular case.
+2009.08-586,2,30065,john_d_donovan_jr,,2055.358,2057.593,"--No, he was talking about this case, Justice Scalia."
+2009.08-586,2,15131,sonia_sotomayor,scotus_justice,2057.593,2071.585,"Except that they claim that you were receiving additional payment for the services, or some or at least a substantial number of the services, that you claim are attributed by the difference."
+2009.08-586,2,30065,john_d_donovan_jr,,2087.83,2090.563,"That is their argument and it's not accurate, Your Honor."
+2009.08-586,2,15131,sonia_sotomayor,scotus_justice,2090.563,2092.298,"Well, that's the issue of disputed fact."
+2009.08-586,2,30065,john_d_donovan_jr,,2115.992,2127.079,"I think what Judge Easterbrook said, and we don't agree, is if there is deceit of directors that would justify a cause of action under 36(b)."
+2009.08-586,2,15131,sonia_sotomayor,scotus_justice,2131.017,2134.124,That's what I'm talking -- I am using his words in terms of case--
+2009.08-586,2,30065,john_d_donovan_jr,,2134.124,2134.545,--I do--
+2009.08-586,2,15131,sonia_sotomayor,scotus_justice,2134.545,2135.59,--And you're disavowing that?
+2009.08-586,2,30065,john_d_donovan_jr,,2135.59,2144.477,"--I do not defend that, because I can imagine, as your hypothetical asked earlier, directors or trustees who -- are not paying attention--"
+2009.08-586,2,15131,sonia_sotomayor,scotus_justice,2144.477,2160.287,"Your positions is no different than the solicitor general's, that there has to be some measure of fair process and some measure of a fair fee, at least within -- in terms of it not being outside the range an arm's length transaction?"
+2009.08-586,2,30065,john_d_donovan_jr,,2160.287,2164.627,--The solicitor general gets it right when she describes Gartenberg as the standard.
+2009.08-586,2,15049,antonin_scalia,scotus_justice,2216.01,2217.761,--That are what?
+2009.08-586,2,30065,john_d_donovan_jr,,2217.761,2222.37,--That are -- advisers -- institutional accounts adviser services.
+2009.08-586,2,15084,ruth_bader_ginsburg,scotus_justice,2223.087,2248.311,"But the -- the fund adviser here -- I mean, the investment adviser did disclose -- that's in the record -- did disclose the difference between what were charged mutual funds, what were charged institutional investors, and then explained that the services were different and that justified the difference."
+2009.08-586,2,30065,john_d_donovan_jr,,2253.591,2255.84,"--That's precisely correct, Your Honor."
+2009.08-586,2,15139,stephen_g_breyer,scotus_justice,2270.647,2276.753,"Suppose you were appointed to a committee, just set my pay, that might be helpful."
+2009.08-586,2,30065,john_d_donovan_jr,,2295.841,2297.151,"It could be, sure."
+2009.08-586,2,15139,stephen_g_breyer,scotus_justice,2297.151,2299.167,"Yeah, so wouldn't that be a normal question to ask?"
+2009.08-586,2,30065,john_d_donovan_jr,,2299.167,2300.898,And the trustees did ask it here.
+2009.08-586,2,15139,stephen_g_breyer,scotus_justice,2300.898,2307.177,"Well, I don't know if they asked it -- I mean, I think we are reviewing the district court opinion, I think we are reversing -- we are reviewing -- sorry."
+2009.08-586,2,30065,john_d_donovan_jr,,2343.431,2345.945,Justice Breyer--
+2009.08-586,2,15139,stephen_g_breyer,scotus_justice,2345.945,2348.535,"Okay, so what's the problem then with saying that in the opinion?"
+2009.08-586,2,30065,john_d_donovan_jr,,2348.535,2353.363,--There is no problem with saying that if it is a relevant consideration.
+2009.08-586,2,15139,stephen_g_breyer,scotus_justice,2353.363,2361.096,"Well, it's pretty unusual that it won't be, and I think certainly you have in the case in front of us a case where it would be relevant."
+2009.08-586,2,30065,john_d_donovan_jr,,2366.403,2373.839,"The difference, Your Honor, is that the Solicitor General and the plaintiffs would make the question and the answer dispositive in every case."
+2009.08-586,2,15139,stephen_g_breyer,scotus_justice,2376.088,2377.18,The answer dispositive?
+2009.08-586,2,30065,john_d_donovan_jr,,2381.712,2382.398,--Precisely.
+2009.08-586,2,15139,stephen_g_breyer,scotus_justice,2382.398,2383.194,All right.
+2009.08-586,2,30065,john_d_donovan_jr,,2395.767,2401.155,It is a factor that I consider that is likely to be relevant--
+2009.08-586,2,15139,stephen_g_breyer,scotus_justice,2401.155,2408.811,"So you have no objection to send it back and say look, of course this is relevant, perhaps quite often relevant; why don't you look at it?"
+2009.08-586,2,30065,john_d_donovan_jr,,2408.811,2412.667,--My objection -- my objection to sending it back is only that that analysis was done.
+2009.08-586,2,15084,ruth_bader_ginsburg,scotus_justice,2412.667,2427.801,"But did -- but in the Seventh Circuit, Judge Easterbrook said, mainly you have to look to see if there was full disclosure, and then there might be cases where it's so out of line."
+2009.08-586,2,30065,john_d_donovan_jr,,2450.259,2454.228,I think the Seventh Circuit made that comparison.
+2009.08-586,2,15086,john_g_roberts_jr,scotus_justice,2495.355,2509.472,"When you say you should look at the range and how far it's off, do you mean that in the Gartenberg sense -- in other words, if it is way out of line, then you assume or can at least look further at whether there was a fair process?"
+2009.08-586,2,30065,john_d_donovan_jr,,2515.266,2517.406,"I look at it in the Gartenberg sense, Your Honor."
+2009.08-586,2,15086,john_g_roberts_jr,scotus_justice,2524.839,2535.567,"It's probably -- you're not the person to -- to ask, but do you understand the Solicitor General's position to be your understanding of the Gartenberg sense or something else?"
+2009.08-586,2,30065,john_d_donovan_jr,,2535.567,2539.081,I believe they interpret in the Gartenberg sense.
+2009.08-586,2,15139,stephen_g_breyer,scotus_justice,2546.954,2548.548,What do we do about Gartenberg?
+2009.08-586,2,30065,john_d_donovan_jr,,2583.11,2585.968,I agree you can turn the words upside down.
+2009.08-586,2,15139,stephen_g_breyer,scotus_justice,2587.891,2589.389,You object if we turn them upside down?
+2009.08-586,2,30065,john_d_donovan_jr,,2589.389,2595.261,"--I think they turned them upside down for a reason, and the reason is 36(b)(1), which imposes the burden of proof upon--"
+2009.08-586,2,15139,stephen_g_breyer,scotus_justice,2595.261,2598.183,"Well, I'm saying the tone, be a little careful here."
+2009.08-586,2,30065,john_d_donovan_jr,,2598.183,2598.731,--Well--
+2009.08-586,2,15139,stephen_g_breyer,scotus_justice,2598.731,2611.615,"So we can say the substance is -- I'm just trying this out -- the substance is to look and see if it's reasonable, and if it's reasonable it certainly is the product of arm-length bargaining, if it's not reasonable, how could it be?"
+2009.08-586,2,30065,john_d_donovan_jr,,2620.72,2627.187,--I would accept the proposition that it is reasonable if it is outside of what could have been bargained at arm's length.
+2009.08-586,2,15049,antonin_scalia,scotus_justice,2648.146,2668.607,Would -- would you give us the citations of the parts of the record that you say render it unnecessary for us to remand for the lower court to consider a comparison with non -- with institutional charges?
+2009.08-586,2,30065,john_d_donovan_jr,,2668.607,2669.995,"Yes, Your Honor."
+2009.08-586,2,15049,antonin_scalia,scotus_justice,2679.553,2682.567,At 16a of the Joint Appendix you are talking about?
+2009.08-586,2,30065,john_d_donovan_jr,,2682.567,2683.414,"--I'm sorry, Your Honor, the petition."
+2009.08-586,2,15049,antonin_scalia,scotus_justice,2683.414,2684.209,Of the petition.
+2009.08-586,2,30065,john_d_donovan_jr,,2684.209,2688.098,"Correct, it's 16a of the petition, which is Judge Kocoras' opinion."
+2009.08-586,2,15084,ruth_bader_ginsburg,scotus_justice,2826.838,2836.991,What about the petitioners' allegation that the investment adviser did not provide full and accurate information?
+2009.08-586,2,30065,john_d_donovan_jr,,2856.232,2858.56,"I don't think it is, Your Honor."
+2009.08-586,2,15086,john_g_roberts_jr,scotus_justice,2989.989,2991.506,"Thank you, counsel."
+2009.08-586,3,20869,david_c_frederick,,2995.097,3009.733,"At this recording here did not make findings -- this was a summary judgment case, and in fact, the Court didn't find that the disputes were nonexistent."
+2009.08-586,3,15086,john_g_roberts_jr,scotus_justice,3083.78,3089.762,"Was your friend correct, that these funds have better than average performance and lower than average fees?"
+2009.08-586,3,20869,david_c_frederick,,3089.762,3100.882,"--In one small aspect of the damages period, that is correct, and after that was found, they had lower than average performance and higher than average fees, Mr. Chief Justice."
+2009.08-586,3,15139,stephen_g_breyer,scotus_justice,3154.61,3170.321,"I thought, by reversing that, picking out what the essence was, you would get pretty close to what you are arguing for, without getting into all this thing of whether it's just like a trustee or whether a lawyer should be a trustee or -- you know, there are a lot of questions here that could float around, of any language we use."
+2009.08-586,3,20869,david_c_frederick,,3170.321,3170.805,That's right.
+2009.08-586,3,15086,john_g_roberts_jr,scotus_justice,3188.173,3189.109,"Thank you, counsel."

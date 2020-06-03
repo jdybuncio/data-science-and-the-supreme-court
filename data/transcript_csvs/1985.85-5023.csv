@@ -1,0 +1,60 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1985.85-5023,0,15073,warren_e_burger,scotus_justice,0.0,11.891,We will hear arguments next in Poland against Arizona and the related case.
+1985.85-5023,0,46492,wk_wilhelmsen,,16.276,38.256,"Mr. Chief Justice, and may it please the Court, for a brief background of the case, the two petitioners are charged and convicted and on death row for murder resulting from the death of two Purolator guards who were delivering some $338,000 cash in northern Arizona."
+1985.85-5023,0,15141,william_h_rehnquist,scotus_justice,170.14,173.525,"This is the Supreme Court of Arizona, Mr. Wilhelmsen?"
+1985.85-5023,0,46492,wk_wilhelmsen,,173.525,175.794,"Yes, Justice Rehnquist."
+1985.85-5023,0,15141,william_h_rehnquist,scotus_justice,207.329,210.964,"Well, the trial court had said something about that the first time around."
+1985.85-5023,0,46492,wk_wilhelmsen,,210.964,212.797,Yes.
+1985.85-5023,0,15141,william_h_rehnquist,scotus_justice,261.544,265.531,And that was before the case went to the Supreme Court of Arizona the first time?
+1985.85-5023,0,46492,wk_wilhelmsen,,265.531,270.817,"No, that was the Supreme Court's... oh, yes, that was the trial judge's ruling."
+1985.85-5023,0,15141,william_h_rehnquist,scotus_justice,459.636,468.076,Didn't the trial court find sufficient facts to meet the definition of pecuniary gain in the Arizona statute the first time out?
+1985.85-5023,0,46492,wk_wilhelmsen,,471.094,473.48,It didn't apply to the law.
+1985.85-5023,0,15141,william_h_rehnquist,scotus_justice,486.989,494.959,I didn't understand the trial court the first time around to say I don't agree with the Supreme Court of Arizona.
+1985.85-5023,0,46492,wk_wilhelmsen,,496.975,497.625,No.
+1985.85-5023,0,15060,john_paul_stevens,scotus_justice,775.207,776.857,May I interrupt you for a moment?
+1985.85-5023,0,46492,wk_wilhelmsen,,776.857,778.025,"Yes, Justice."
+1985.85-5023,0,15060,john_paul_stevens,scotus_justice,778.025,783.146,What is it that precluded a second sentencing hearing in your submission?
+1985.85-5023,0,46492,wk_wilhelmsen,,783.146,789.716,Based on insufficient evidence to support one aggravating circumstance--
+1985.85-5023,0,15060,john_paul_stevens,scotus_justice,789.716,793.752,But not insufficient evidence to support the death penalty.
+1985.85-5023,0,46492,wk_wilhelmsen,,793.752,794.954,--Trial error.
+1985.85-5023,0,15060,john_paul_stevens,scotus_justice,823.454,827.175,But I am still not entirely clear not entirely clear on your submission.
+1985.85-5023,0,46492,wk_wilhelmsen,,838.297,840.483,It requires a new hearing.
+1985.85-5023,0,15060,john_paul_stevens,scotus_justice,842.601,849.422,"Except in Rumsey there was a decision not to impose the death penalty, which is tantamount to an acquittal in the second hearing."
+1985.85-5023,0,46492,wk_wilhelmsen,,849.422,850.422,That is the only distinction.
+1985.85-5023,0,15060,john_paul_stevens,scotus_justice,850.422,851.255,You don't have that.
+1985.85-5023,0,46492,wk_wilhelmsen,,851.255,855.326,We have the distinction that both Rumsey and Bullington received life.
+1985.85-5023,0,15060,john_paul_stevens,scotus_justice,911.745,921.018,"That is right, and therefore you have something tantamount to an acquittal, which bars a second hearing, but you don't have anything tantamount to an acquittal of the death penalty in this case."
+1985.85-5023,0,46492,wk_wilhelmsen,,921.018,933.742,We have what is tantamount to an acquittal is by the ruling of the Arizona Supreme Court in Poland I.
+1985.85-5023,0,15060,john_paul_stevens,scotus_justice,942.182,942.965,Nor was it--
+1985.85-5023,0,46492,wk_wilhelmsen,,942.965,945.05,--but it was an... acquittal.
+1985.85-5023,0,15060,john_paul_stevens,scotus_justice,945.05,952.454,"--Well, no, it wasn't the equivalent of Burke either, because it was not a holding that there was not enough evidence in the record to support a death penalty."
+1985.85-5023,0,46492,wk_wilhelmsen,,952.454,966.98,"If I recall Burke correctly, I believe there was not a sufficient prosecution of the evidence to overcome the presumption of the insanity type defense."
+1985.85-5023,0,15060,john_paul_stevens,scotus_justice,1003.486,1008.724,But in that case the second bite enabled them to put in evidence to shore up the case that was deficient.
+1985.85-5023,0,46492,wk_wilhelmsen,,1017.046,1022.984,"Yes, Justice, but there is one little problem."
+1985.85-5023,0,15073,warren_e_burger,scotus_justice,1513.402,1516.271,Very well.
+1985.85-5023,1,25384,gerald_r_grant,,1523.091,1540.886,"Thank you, Mr. Chief Justice, and may it please the Court, on May 24th, 1977, the petitioners Michael and Patrick Poland, disguised as police officers stopped a Purolator armored van on an interstate highway north of Phoenix."
+1985.85-5023,1,15073,warren_e_burger,scotus_justice,1578.842,1582.479,Is it clear that they were still living when they were dropped in the water?
+1985.85-5023,1,25384,gerald_r_grant,,1582.479,1583.362,"--Yes, Your Honor."
+1985.85-5023,1,15073,warren_e_burger,scotus_justice,1715.297,1728.838,"Would the death penalty have been justified here only on the manner in which these people were murdered, tying them in a sack and dropping them in the water?"
+1985.85-5023,1,25384,gerald_r_grant,,1728.838,1730.373,That was one of the--
+1985.85-5023,1,15073,warren_e_burger,scotus_justice,1730.373,1736.693,"Would that have been enough alone, if there had been no mitigating... showing of mitigating circumstances?"
+1985.85-5023,1,25384,gerald_r_grant,,1736.693,1742.18,"--Yes, if a... yes, that would have... that amounted to an aggravating factor in this case."
+1985.85-5023,1,15073,warren_e_burger,scotus_justice,1742.18,1747.168,"So that in your view the fact that they made $281,000 out of it is irrelevant?"
+1985.85-5023,1,25384,gerald_r_grant,,1747.168,1748.718,It is not irrelevant.
+1985.85-5023,1,15073,warren_e_burger,scotus_justice,1748.718,1750.62,Or it is cumulative?
+1985.85-5023,1,25384,gerald_r_grant,,1750.62,1755.072,It is an additional reason to impose the death penalty.
+1985.85-5023,1,15141,william_h_rehnquist,scotus_justice,1860.674,1871.399,"If you are correct in it, why didn't the Supreme Court of Arizona accept the trial court's conditional finding of the pecuniary gain factor the first time around?"
+1985.85-5023,1,25384,gerald_r_grant,,1871.399,1877.903,"I think reading Poland I and Poland II together, I think it is clear that the Arizona Supreme Court did."
+1985.85-5023,1,15141,william_h_rehnquist,scotus_justice,1903.268,1907.303,"It reversed the convictions themselves, not the penalties."
+1985.85-5023,1,25384,gerald_r_grant,,1907.97,1908.703,Correct.
+1985.85-5023,1,15141,william_h_rehnquist,scotus_justice,1908.703,1909.422,I see.
+1985.85-5023,1,25384,gerald_r_grant,,1909.422,1913.457,It reversed the convictions based upon an allegation of misconduct by the jury.
+1985.85-5023,1,15060,john_paul_stevens,scotus_justice,2202.746,2230.246,"General Grant, may I ask you if there had not been a setting aside of the conviction and the appeal was only on the death penalty, and they had then done exactly what they did, under your view, as a matter of Arizona law, I am curious, would the Arizona Supreme Court have had the authority to affirm the death penalty changing the rationale by saying that he made an error of law on the pecuniary circumstance, aggravating circumstance, even though the other one was not supported by the evidence?"
+1985.85-5023,1,25384,gerald_r_grant,,2230.246,2234.134,My opinion is that the Arizona Supreme Court does have that power.
+1985.85-5023,1,15060,john_paul_stevens,scotus_justice,2250.16,2251.743,To be sure that he would have opposed the death penalty--
+1985.85-5023,1,25384,gerald_r_grant,,2251.743,2252.126,Correct.
+1985.85-5023,1,15060,john_paul_stevens,scotus_justice,2252.126,2253.612,--with this different mix of aggravating circumstances?
+1985.85-5023,1,25384,gerald_r_grant,,2253.612,2254.195,Correct.
+1985.85-5023,1,15073,warren_e_burger,scotus_justice,2296.772,2297.641,Thank you.
+1985.85-5023,2,46492,wk_wilhelmsen,,2306.913,2314.483,"Mr. Chief Justice and the Court, the issue has been clearly drawn."
+1985.85-5023,2,15073,warren_e_burger,scotus_justice,2378.323,2379.605,"--Thank you, counsel."

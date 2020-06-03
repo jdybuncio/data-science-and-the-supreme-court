@@ -1,0 +1,94 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1994.93-1251,0,15141,william_h_rehnquist,scotus_justice,0.0,10.078,"We'll hear argument next in Number 93-1251, Donna Shalala v. Guernsey Memorial Hospital."
+1994.93-1251,0,33864,kent_l_jones,,57.248,66.464,Mr. Chief Justice and may it please the Court:
+1994.93-1251,0,15092,sandra_day_oconnor,scotus_justice,152.521,166.239,"Well, Mr. Jones, you say that this regulation, 413.20, just governs how Medicare providers are to report their costs to the HHS--"
+1994.93-1251,0,33864,kent_l_jones,,166.239,167.741,To maintain their costs.
+1994.93-1251,0,15092,sandra_day_oconnor,scotus_justice,167.741,182.641,"--or to the intermediary, and if that's so, then what regulations say how HHS will determine the method to be used in providing reimbursement?"
+1994.93-1251,0,33864,kent_l_jones,,182.641,192.888,Section 413.9 of the regulation is the substantive standard that provides that all payments will be made with respect to reasonable costs.
+1994.93-1251,0,15092,sandra_day_oconnor,scotus_justice,197.52,218.885,"Well, if you mandate the provider to follow generally accepted accounting principles, and I guess you concede that under generally accepted accounting principles these amounts would be reportable and recoverable up front--"
+1994.93-1251,0,33864,kent_l_jones,,218.885,221.116,"--No, we--"
+1994.93-1251,0,15092,sandra_day_oconnor,scotus_justice,221.116,229.603,--then I don't know why the Secretary shouldn't follow the same program in determining what's reimbursable.
+1994.93-1251,0,33864,kent_l_jones,,229.603,247.823,"--I think the easiest way for me to explain that is to point out that, even if a provider follows a particular format in submitting the costs, that does not mean that the costs thus submitted are reasonable costs to be reimbursed under Medicare."
+1994.93-1251,0,15092,sandra_day_oconnor,scotus_justice,260.993,273.001,"Well, but now wait a minute, I thought the Secretary had said, yes, the costs we're talking about here in this case are reimbursable, we're just going to do it annually, we're not going to do it up front."
+1994.93-1251,0,33864,kent_l_jones,,277.114,291.243,"Well, as the administrator pointed out in this case, the timing, the coordination of the timing of the cost with the periods benefited by that cost is as important in the determination of reasonable cost as the amount of the cost."
+1994.93-1251,0,15092,sandra_day_oconnor,scotus_justice,291.243,293.116,"Well, but this isn't gold-plated plumbing."
+1994.93-1251,0,33864,kent_l_jones,,301.653,306.386,"Well, there's... there are several points involved in your question, and let me see if I can address them."
+1994.93-1251,0,15084,ruth_bader_ginsburg,scotus_justice,322.447,334.055,"Mr. Jones, if you could give an answer to Justice O'Connor's question, did the reporter report accurately, that would be helpful."
+1994.93-1251,0,33864,kent_l_jones,,351.9,370.162,"The hospital reported its expenses in a proper amount, and by interpretation of the agency's regulations, what the hospital is required to do is to apply the accrual basis of accounting, and it applied an accrual basis of accounting."
+1994.93-1251,0,15084,ruth_bader_ginsburg,scotus_justice,381.311,383.732,Just... did the hospital report properly?
+1994.93-1251,0,33864,kent_l_jones,,401.683,408.688,--It was proper as to amount and not as to the timing of the attribution of the costs to the periods benefited by the expense.
+1994.93-1251,0,15092,sandra_day_oconnor,scotus_justice,408.688,411.321,So it was an improper cost report.
+1994.93-1251,0,33864,kent_l_jones,,418.866,423.99,"Well, that is... maybe I'm misunderstanding your question about what is a cost report."
+1994.93-1251,0,15084,ruth_bader_ginsburg,scotus_justice,423.99,433.406,"What the hospital filed, should the hospital, instead of taking this all at once have split it up, have amortized it, as you did in your reimbursement?"
+1994.93-1251,0,33864,kent_l_jones,,433.406,434.235,Yes.
+1994.93-1251,0,15092,sandra_day_oconnor,scotus_justice,452.319,459.255,"But if they follow generally accepted accounting principles, they could have filed it exactly as they did."
+1994.93-1251,0,33864,kent_l_jones,,459.255,462.777,"They did follow, and did file--"
+1994.93-1251,0,15092,sandra_day_oconnor,scotus_justice,462.777,463.608,"They did do that, didn't they?"
+1994.93-1251,0,33864,kent_l_jones,,463.608,467.02,--based upon generally accepted accounting principles for this type of transaction.
+1994.93-1251,0,15092,sandra_day_oconnor,scotus_justice,467.02,475.326,"And in theory, the regulation 413.20 says if you do that you're... that's proper for your report."
+1994.93-1251,0,33864,kent_l_jones,,486.815,499.915,"I will concede it for purposes of this argument, that we don't have a problem with providers estimating their costs in an accurate manner, which they did, and submitting them to us for us to make a determination of what reasonable cost is."
+1994.93-1251,0,15049,antonin_scalia,scotus_justice,499.915,503.378,"Not don't have a problem, you've told them to do that in 413.20."
+1994.93-1251,0,33864,kent_l_jones,,503.378,509.772,"Well, I don't want to quibble, but on the other hand, this is our regulation, and we're entitled to interpret it, and all that that regulation--"
+1994.93-1251,0,15042,david_h_souter,scotus_justice,509.772,513.756,"No, but there's... may I just raise this basic question about your interpretation?"
+1994.93-1251,0,33864,kent_l_jones,,532.039,533.471,--Yes.
+1994.93-1251,0,15042,david_h_souter,scotus_justice,533.471,564.731,"Isn't it very odd, should we not consider it very odd in trying to make sense of 413.20 and 413.24 that the only regulation on reimbursement is at this very high level of generality, 413.9, whereas all of the detailed regulations, or regulations of comparatively greater detail, do not even address the ultimate issue of reimbursability."
+1994.93-1251,0,33864,kent_l_jones,,574.457,589.778,"It is easy to gloss over the specific words of these regs, and I certainly don't want to do that, but I think that it's also important to realize that the statute and the reg 413.9 are the substantive standard."
+1994.93-1251,0,15042,david_h_souter,scotus_justice,595.972,614.965,"Well, true, but in trying to make sense of 20 and 24, there's something very strange about your going to the trouble of greater detail in those, when you never go to the trouble, or the Secretary never goes to the trouble, on your reading, of addressing in detail the question of reimbursability."
+1994.93-1251,0,33864,kent_l_jones,,614.965,623.941,"Well, the only detail referred to in 413.20 is advice that you should use standard definitions in accounting practices."
+1994.93-1251,0,15042,david_h_souter,scotus_justice,623.941,626.113,Which is the detail upon which this case turns.
+1994.93-1251,0,33864,kent_l_jones,,626.113,629.615,"No, the detail on which this case turns is--"
+1994.93-1251,0,15042,david_h_souter,scotus_justice,629.615,630.246,"I mean, it's a pretty important detail."
+1994.93-1251,0,33864,kent_l_jones,,630.246,631.188,--is whether these costs are--
+1994.93-1251,0,15042,david_h_souter,scotus_justice,631.188,637.179,"If generally accepted accounting principles drives reimbursability, the case is going to go one way, and if it doesn't, it's going to go the other way."
+1994.93-1251,0,33864,kent_l_jones,,637.179,641.353,--The detail that should answer this case is whether these are reasonable costs.
+1994.93-1251,0,15042,david_h_souter,scotus_justice,650.029,657.875,"I realize that, but what about the oddity of addressing accounting in so much greater detail than addressing reimbursability?"
+1994.93-1251,0,33864,kent_l_jones,,663.648,669.172,I don't see all of the detail in 413.20 and 24 that you're referring to.
+1994.93-1251,0,15042,david_h_souter,scotus_justice,669.392,676.348,"Well, there is the detail of reference, in effect, to generally accepted accounting principles."
+1994.93-1251,0,33864,kent_l_jones,,676.348,678.331,"--Not by words, and not by interpretation."
+1994.93-1251,0,15042,david_h_souter,scotus_justice,678.331,683.113,"Not by words, but you concede that in fact it is picked up by the words that are used, do you not?"
+1994.93-1251,0,33864,kent_l_jones,,683.113,684.405,"No, I don't concede that, Justice Souter."
+1994.93-1251,1,42174,scott_w_taebel,,1673.785,1678.6,"Thank you, Mr. Chief Justice, and may it please the Court:"
+1994.93-1251,1,15141,william_h_rehnquist,scotus_justice,1709.169,1718.325,"Well, Mr. Taebel, what would have happened if the Secretary had issued no regulations whatever pursuant to the statutory section we're talking about here?"
+1994.93-1251,1,42174,scott_w_taebel,,1718.325,1729.771,"I believe, Mr. Chief Justice, as Justice Scalia was indicating, the Secretary has an obligation under the statute to promulgate her methods of reimbursement."
+1994.93-1251,1,15141,william_h_rehnquist,scotus_justice,1729.771,1732.082,"Yes, but my hypothesis was, she didn't do that."
+1994.93-1251,1,42174,scott_w_taebel,,1732.082,1740.35,"If she did not do that, Your Honor, and she initially determined that these costs should be amortized, then perhaps she could do that."
+1994.93-1251,1,15141,william_h_rehnquist,scotus_justice,1747.686,1755.803,So you say that she would have been better off if she had issued no regulation under the statute than if she'd issued the one she did?
+1994.93-1251,1,42174,scott_w_taebel,,1755.803,1757.013,"No, Your Honor."
+1994.93-1251,1,15141,william_h_rehnquist,scotus_justice,1763.59,1765.162,"Now, which regulation is that?"
+1994.93-1251,1,42174,scott_w_taebel,,1765.162,1771.284,"That is regulation, it's currently codified at section 413.20, and it indicates, Your Honor--"
+1994.93-1251,1,15141,william_h_rehnquist,scotus_justice,1771.284,1774.887,"That doesn't call for the GAAP approach, I didn't think, when I read it."
+1994.93-1251,1,42174,scott_w_taebel,,1777.09,1781.061,"--With due respect, Mr. Chief Justice, that's all it can call for."
+1994.93-1251,1,15049,antonin_scalia,scotus_justice,1801.557,1802.987,--The statute or the regulation?
+1994.93-1251,1,42174,scott_w_taebel,,1802.987,1804.419,"--I'm sorry, Your Honor, the--"
+1994.93-1251,1,15049,antonin_scalia,scotus_justice,1804.419,1805.829,The statute or the regulation?
+1994.93-1251,1,42174,scott_w_taebel,,1805.829,1805.999,--The regulation.
+1994.93-1251,1,15049,antonin_scalia,scotus_justice,1805.999,1806.62,The regulation--
+1994.93-1251,1,42174,scott_w_taebel,,1806.62,1806.79,Yes.
+1994.93-1251,1,15049,antonin_scalia,scotus_justice,1806.79,1807.341,--referred to GAAP.
+1994.93-1251,1,42174,scott_w_taebel,,1807.341,1807.552,Yes.
+1994.93-1251,1,15141,william_h_rehnquist,scotus_justice,1807.889,1816.287,"Standardized definitions, accounting statistics, and reporting practices that are widely accepted in the hospital and related fields are followed."
+1994.93-1251,1,42174,scott_w_taebel,,1819.549,1826.474,"Yes, Your Honor, because GAAP by definition is the most standardized accounting practice, widely accepted, that there is."
+1994.93-1251,1,15060,john_paul_stevens,scotus_justice,1832.368,1837.4,"Mr. Taebel, can I ask you kind of a basic question that's running through my mind in this case?"
+1994.93-1251,1,42174,scott_w_taebel,,1845.657,1847.457,"That is correct, Your Honor."
+1994.93-1251,1,15060,john_paul_stevens,scotus_justice,1847.457,1861.777,"Then how is it that if, when, prior to 1972, GAAP had a rule that was consistent with the Secretary's present rule, then GAAP changed its rule, there was no notice and comment, but the effect of that under your view is, that changed the rule?"
+1994.93-1251,1,42174,scott_w_taebel,,1861.777,1865.639,"Your Honor, there was no GAAP pronouncement prior to 1972."
+1994.93-1251,1,15060,john_paul_stevens,scotus_justice,1873.886,1883.421,"Let's assume it was clear under GAAP it was permissible before, because there's no suggestion that before 1972 it would have violated GAAP to follow this procedure."
+1994.93-1251,1,42174,scott_w_taebel,,1884.323,1884.473,Yes.
+1994.93-1251,1,15060,john_paul_stevens,scotus_justice,1884.473,1891.076,"All right, so assume this had been spelled out in a GAAP ruling that was in existence from 1966 to 1972."
+1994.93-1251,1,42174,scott_w_taebel,,1896.67,1901.733,"Your Honor, the regulation does not refer to GAAP as it existed in 1966."
+1994.93-1251,1,15060,john_paul_stevens,scotus_justice,1901.733,1909.409,"Well, but from '66 to '72, it certainly fell into the language of the regulation as well as it does since 1972."
+1994.93-1251,1,42174,scott_w_taebel,,1909.409,1910.229,"That is true, Your Honor."
+1994.93-1251,1,15060,john_paul_stevens,scotus_justice,1918.777,1919.235,"No, no."
+1994.93-1251,1,42174,scott_w_taebel,,1934.214,1941.41,"--No, Your Honor, we are not claiming that GAAP can turn an otherwise unallowable cost into a cost related to patient care."
+1994.93-1251,1,15042,david_h_souter,scotus_justice,1942.461,1943.112,"No, but doesn't that beg the question?"
+1994.93-1251,1,42174,scott_w_taebel,,1973.164,1974.724,"--That is our position, Your Honor."
+1994.93-1251,1,15049,antonin_scalia,scotus_justice,1974.724,1975.174,"Well, but--"
+1994.93-1251,1,42174,scott_w_taebel,,1978.707,1986.123,"Well, because I believe Justice Stevens was referring to the GAAP pronouncement prior to 1972, and there had been no official--"
+1994.93-1251,1,15049,antonin_scalia,scotus_justice,1986.123,1991.367,"Now, but he gave you a hypothesis in which he assumed that there was a position which then changed."
+1994.93-1251,1,42174,scott_w_taebel,,1999.585,1999.805,"--That's correct, Your Honor."
+1994.93-1251,1,15049,antonin_scalia,scotus_justice,1999.805,2002.769,And therefore the amendment of GAAP would not change the Department's policy.
+1994.93-1251,1,42174,scott_w_taebel,,2004.43,2005.902,"I agree with that, Justice--"
+1994.93-1251,2,33864,kent_l_jones,,3168.18,3171.092,Thank you.
+1994.93-1251,2,15141,william_h_rehnquist,scotus_justice,3277.361,3278.421,"Thank you, Mr. Jones."
+1994.93-1251,2,33864,kent_l_jones,,3278.421,3278.601,--Thank you.
+1994.93-1251,2,15141,william_h_rehnquist,scotus_justice,3278.601,3280.101,The case is submitted.

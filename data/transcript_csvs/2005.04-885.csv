@@ -1,0 +1,307 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2005.04-885,0,15086,john_g_roberts_jr,scotus_justice,0.0,6.423,We'll hear argument next in Central Virginia Community College versus Katz.
+2005.04-885,0,46377,william_e_thro,,8.016,10.674,"Mr. Chief Justice, and may it please the Court--"
+2005.04-885,0,15092,sandra_day_oconnor,scotus_justice,57.653,62.888,Can you tell us how often States are creditors in bankruptcies around the country?
+2005.04-885,0,46377,william_e_thro,,64.061,80.47,"There is some information to that effect in the amicus brief of Ohio and every other State of the Union, Justice O'Connor, but my recollection is that the States are creditors in probably the majority of bankruptcies around the country."
+2005.04-885,0,15092,sandra_day_oconnor,scotus_justice,80.47,88.613,"So, if you're correct, how would the result you want affect all the other creditors in these bankruptcies?"
+2005.04-885,0,46377,william_e_thro,,88.613,99.662,"It would have some impact on the other creditors, in that you would not be able to augment the estate by collecting a monetary judgment from the State."
+2005.04-885,0,15092,sandra_day_oconnor,scotus_justice,99.662,105.569,"And probably, on your theory, States can disregard the automatic stay that issues--"
+2005.04-885,0,46377,william_e_thro,,105.569,106.366,"No, not at all--"
+2005.04-885,0,15092,sandra_day_oconnor,scotus_justice,106.366,106.663,--when a bankruptcy--
+2005.04-885,0,46377,william_e_thro,,106.663,106.929,--Your Honor.
+2005.04-885,0,15092,sandra_day_oconnor,scotus_justice,106.929,107.68,--commences?
+2005.04-885,0,46377,william_e_thro,,107.68,108.195,No.
+2005.04-885,0,15092,sandra_day_oconnor,scotus_justice,114.4,116.228,"How is that, on your theory?"
+2005.04-885,0,46377,william_e_thro,,116.228,117.119,"--Well, because--"
+2005.04-885,0,15092,sandra_day_oconnor,scotus_justice,117.119,119.729,Why wouldn't the sovereign immunity extend to that?
+2005.04-885,0,46377,william_e_thro,,119.729,131.888,"--The automatic stay is an exercise of sovereign... of the sovereign power of Congress, just as the discharge decisions of a bankruptcy court are an exercise of the sovereign power of Congress."
+2005.04-885,0,15113,anthony_m_kennedy,scotus_justice,145.922,150.704,"Well, why don't we say that that's the exercise of the sovereign power of commerce, just... of Congress, just like you said?"
+2005.04-885,0,46377,william_e_thro,,151.298,154.533,The automatic--
+2005.04-885,0,15113,anthony_m_kennedy,scotus_justice,154.533,158.268,"--I mean, it seems that that answer is just conclusory, that it's an exercise of the sovereign power of Congress, okay."
+2005.04-885,0,46377,william_e_thro,,162.097,163.379,"--Yes, Your Honor."
+2005.04-885,0,15139,stephen_g_breyer,scotus_justice,204.825,209.388,"Tell me, if you're... if you're right... let's suppose you're right."
+2005.04-885,0,46377,william_e_thro,,212.124,213.922,"Sorry, Justice Breyer."
+2005.04-885,0,15139,stephen_g_breyer,scotus_justice,213.922,214.516,That's all right.
+2005.04-885,0,46377,william_e_thro,,323.164,333.556,"Your Honor, the Constitution... specifically, the Eleventh Amendment... confirms that the States are not to be treated like private parties."
+2005.04-885,0,15139,stephen_g_breyer,scotus_justice,340.121,343.575,But there is not a Tort Clause of the United States Constitution.
+2005.04-885,0,46377,william_e_thro,,347.451,358.468,"There is a Bankruptcy Clause, Your Honor, and that clause empowers Congress to make bankruptcy laws which apply throughout the entire Nation and which apply to the States."
+2005.04-885,0,15049,antonin_scalia,scotus_justice,372.44,381.27,"Bankruptcy Clause presumably does not allow Congress to set up the bankruptcy law in such a way that it would amount to a taking of property without just compensation, right?"
+2005.04-885,0,46377,william_e_thro,,400.789,403.446,"Yes, Your Honor."
+2005.04-885,0,15060,john_paul_stevens,scotus_justice,422.122,429.311,"But, may I ask, how do you... how do you reach the conclusion that you're bound by the automatic stay and the discharge?"
+2005.04-885,0,46377,william_e_thro,,432.921,442.424,I think there is a strong argument which can be made that both the automatic stay and the discharge decisions infringe upon State sovereignty.
+2005.04-885,0,15049,antonin_scalia,scotus_justice,464.304,471.556,"To say... to say that the State can't be sued is not the same thing as saying that the State can sue, is it?"
+2005.04-885,0,46377,william_e_thro,,472.712,473.524,"--No, it's not, Your Honor."
+2005.04-885,0,15049,antonin_scalia,scotus_justice,473.524,477.181,"--you can prevent the State from suing, even though you can't sue the State."
+2005.04-885,0,46377,william_e_thro,,478.948,480.635,"No, there's not, Your Honor."
+2005.04-885,0,15092,sandra_day_oconnor,scotus_justice,483.855,498.483,"Now, do you... do you agree that there are situations where, notwithstanding the sovereign immunity of States, there can be in rem jurisdiction in a court to resolve claims against property--"
+2005.04-885,0,46377,william_e_thro,,498.483,499.874,--Certain--
+2005.04-885,0,15092,sandra_day_oconnor,scotus_justice,499.874,501.498,"--and bind the State, as well?"
+2005.04-885,0,46377,william_e_thro,,501.498,508.22,"--Certainly, this Court's decisions indicate that, in some instances, there can be in rem decisions which--"
+2005.04-885,0,15092,sandra_day_oconnor,scotus_justice,508.22,512.688,"Well, maybe bankruptcy estates are one such instance."
+2005.04-885,0,46377,william_e_thro,,512.688,522.159,"--As this Court noted in Hood, the bankruptcy decisions regarding the discharge are in rem and, of course, are binding upon the State."
+2005.04-885,0,15060,john_paul_stevens,scotus_justice,583.736,594.972,"Wouldn't it at least be theoretically possible to differentiate between setting aside a preference, on the one hand, and just bringing a suit for a tort or a breach of contact, on the other?"
+2005.04-885,0,46377,william_e_thro,,607.741,608.007,Right.
+2005.04-885,0,15049,antonin_scalia,scotus_justice,651.203,659.845,"I suppose you could say that a... the intangible of a contract claim is part of the estate, too, right?"
+2005.04-885,0,46377,william_e_thro,,660.596,663.301,The current bankruptcy code does not say that.
+2005.04-885,0,15049,antonin_scalia,scotus_justice,664.41,674.49,"--But, I mean, you could be... there's no less reason to say that that's part of the res than there is to say that the preferential transfer is."
+2005.04-885,0,46377,william_e_thro,,674.49,676.053,"--That's correct, Your Honor."
+2005.04-885,0,15060,john_paul_stevens,scotus_justice,680.148,681.898,Except Congress--
+2005.04-885,0,46377,william_e_thro,,681.898,682.179,--transfer claims.
+2005.04-885,0,15060,john_paul_stevens,scotus_justice,682.179,683.366,--has drawn that very distinction hadn't it?
+2005.04-885,0,46377,william_e_thro,,683.366,685.117,"I'm sorry, Your Honor?"
+2005.04-885,0,15060,john_paul_stevens,scotus_justice,685.117,689.837,I said Congress has drawn the distinction that... between the preferential claim and the contract claim.
+2005.04-885,0,46377,william_e_thro,,689.837,696.495,Congress has drawn a distinction between preferential transfer claims and contracts claims.
+2005.04-885,0,15060,john_paul_stevens,scotus_justice,711.779,716.234,"But the theory of the second is that you're not augmenting the estate, you're merely preserving the estate, isn't it?"
+2005.04-885,0,46377,william_e_thro,,716.234,722.625,--I think... Congress has certainly defined the estate so that a preferential transfer is considered property.
+2005.04-885,0,15092,sandra_day_oconnor,scotus_justice,751.038,751.429,"Well, now--"
+2005.04-885,0,15042,david_h_souter,scotus_justice,751.429,752.147,What if the--
+2005.04-885,0,15092,sandra_day_oconnor,scotus_justice,752.147,758.258,"--Mr. Thro, doesn't the Respondent want to dismiss the contract claims here?"
+2005.04-885,0,46377,william_e_thro,,758.258,764.322,"The Respondent had asked the bankruptcy court... after reading our brief, the Respondent asked the bankruptcy court to dismiss--"
+2005.04-885,0,15092,sandra_day_oconnor,scotus_justice,764.322,764.603,Yes.
+2005.04-885,0,46377,william_e_thro,,767.933,775.122,"--Well, Your Honor, I think this is an attempt by the Respondent to rewrite the question presented."
+2005.04-885,0,15092,sandra_day_oconnor,scotus_justice,776.059,776.403,"Yes, but why--"
+2005.04-885,0,46377,william_e_thro,,776.403,776.888,--our petition--
+2005.04-885,0,15092,sandra_day_oconnor,scotus_justice,776.888,783.764,--why should we force a plaintiff below to pursue claims they want to give up?
+2005.04-885,0,46377,william_e_thro,,785.686,802.956,"--It is rather odd, Your Honor, but my read of this Court's rules are that there is no mechanism for a Respondent, the party that won below, to, in effect, give up its victory once they get in this Court."
+2005.04-885,0,15113,anthony_m_kennedy,scotus_justice,828.538,831.977,"Well, do you think the waiver argument that's made is properly before us?"
+2005.04-885,0,46377,william_e_thro,,831.977,834.494,No.
+2005.04-885,0,15113,anthony_m_kennedy,scotus_justice,862.265,870.877,"You may be right about that, but, while I've got you here, let's assume just one State entity, not multiple State entities."
+2005.04-885,0,46377,william_e_thro,,891.145,896.507,I believe that this Court's decisions indicate the following position.
+2005.04-885,0,15113,anthony_m_kennedy,scotus_justice,910.541,911.572,"No, different claim."
+2005.04-885,0,46377,william_e_thro,,912.104,912.916,--Different claim.
+2005.04-885,0,15113,anthony_m_kennedy,scotus_justice,912.916,917.324,"--One, the State received $2,000 worth of taxes, but it... still have its $1,000 contract claim."
+2005.04-885,0,46377,william_e_thro,,917.324,925.028,Then I believe that this Court's opinions indicate that that would not be a waiver with respect to the different transaction or occurrence.
+2005.04-885,0,15042,david_h_souter,scotus_justice,932.515,933.953,--Go--
+2005.04-885,0,15084,ruth_bader_ginsburg,scotus_justice,933.953,950.128,"So was... there's a section in the back of... I think it's 160(c)... that says if it's an unrelated transaction, then... so, it would be a permissive counterclaim if we had ordinary civil proceedings."
+2005.04-885,0,46377,william_e_thro,,970.335,979.509,"To the extent that 106(c) goes beyond the rule announced in Gardner, then, yes, it has constitutional problems."
+2005.04-885,0,15084,ruth_bader_ginsburg,scotus_justice,991.386,1010.047,"But if we're talking just about VMI, not about the other schools, then you... if this claim is unrelated, so that it would be a permissive counterclaim, then you would say not even against VMI could you have the setoff."
+2005.04-885,0,46377,william_e_thro,,1010.047,1012.407,"That's correct, Your Honor."
+2005.04-885,0,15084,ruth_bader_ginsburg,scotus_justice,1031.365,1035.208,"But why shouldn't a setoff be a defense, even if it's unrelated?"
+2005.04-885,0,46377,william_e_thro,,1040.913,1042.461,"Yes, Your Honor."
+2005.04-885,0,15084,ruth_bader_ginsburg,scotus_justice,1052.509,1053.509,"No, I meant a setoff--"
+2005.04-885,0,46377,william_e_thro,,1053.509,1053.853,Okay.
+2005.04-885,0,15084,ruth_bader_ginsburg,scotus_justice,1053.853,1054.072,--only--
+2005.04-885,0,46377,william_e_thro,,1054.072,1055.431,Then I misunderstood your hypothetical.
+2005.04-885,0,15042,david_h_souter,scotus_justice,1055.822,1083.75,"--Mr. Thro, I... am I correct in assuming that if the... if the preference in a case like this, that had been given to the State, were not a bank transfer, a check, but were some tangible object, like a gold bar, that there would be in rem jurisdiction on the part of the court to get the gold bar back as a... even though its function is that of a preferential transfer?"
+2005.04-885,0,46377,william_e_thro,,1083.75,1085.359,"I don't think so, Your Honor."
+2005.04-885,0,15042,david_h_souter,scotus_justice,1124.758,1132.807,"Well, that's... with respect to... I mean, you can say that of any claim that is valued in dollars."
+2005.04-885,0,46377,william_e_thro,,1176.411,1193.695,"As I understand this Court's decisions on this, if the... if the property is in the possession of the State, and if the State has a colorable claim to ownership, then sovereign immunity will bar the... a court--"
+2005.04-885,0,15042,david_h_souter,scotus_justice,1193.695,1193.914,"Okay, so--"
+2005.04-885,0,46377,william_e_thro,,1193.914,1194.711,--a Federal court order to--
+2005.04-885,0,15042,david_h_souter,scotus_justice,1194.711,1200.791,"--in effect, you're saying there are some in rem exceptions, but not all in rem actions are exceptions."
+2005.04-885,0,46377,william_e_thro,,1201.057,1216.216,"--This Court has certainly recognized certain in rem exceptions, notably in the Treasure Salvors case, where the State did not have a colorable claim to title, and also in Deep Sea Research, where the State did not have possession of the object."
+2005.04-885,0,15049,antonin_scalia,scotus_justice,1234.939,1251.552,"Well, I suppose you could have a contract action that... in which the State promises to turn over a particular parcel of land that it owns, or even, for that matter, a gold bar that is on somebody's... some State functionary's desk."
+2005.04-885,0,46377,william_e_thro,,1260.397,1261.194,Right.
+2005.04-885,0,15042,david_h_souter,scotus_justice,1267.556,1268.149,"--Well, because--"
+2005.04-885,0,46377,william_e_thro,,1268.149,1268.524,--in rem--
+2005.04-885,0,15042,david_h_souter,scotus_justice,1268.524,1279.668,"--because we normally deal with that as specific performance of the contract, and what... you know it's in rem, in the sense that we're talking about an object, but that's not what we mean, traditionally, by ""in rem jurisdiction"", is it?"
+2005.04-885,0,46377,william_e_thro,,1279.668,1284.559,"--Traditionally, in rem jurisdiction has a couple of characteristics."
+2005.04-885,0,15042,david_h_souter,scotus_justice,1289.435,1292.42,"Yes, you sue... in effect, you sue the race, rather than--"
+2005.04-885,0,46377,william_e_thro,,1292.42,1292.748,--Right.
+2005.04-885,0,15042,david_h_souter,scotus_justice,1292.748,1293.655,--than the person.
+2005.04-885,0,46377,william_e_thro,,1293.655,1294.186,And--
+2005.04-885,0,15042,david_h_souter,scotus_justice,1294.186,1298.485,"And in the... in a... in a specific performance contract action, you sue the person."
+2005.04-885,0,46377,william_e_thro,,1298.485,1298.875,--Right.
+2005.04-885,0,15049,antonin_scalia,scotus_justice,1306.596,1323.692,"What about a rescission action in which the private party has conveyed property to the State, and the State doesn't pay, and the private party seeks to rescind the action and to receive back the property that it turned over, which is real estate or a gold bar?"
+2005.04-885,0,46377,william_e_thro,,1324.818,1325.115,--Right.
+2005.04-885,0,15049,antonin_scalia,scotus_justice,1325.115,1327.161,--not be a... characterized as an in rem action?
+2005.04-885,0,46377,william_e_thro,,1329.647,1336.164,"I don't believe it could be characterized as an in rem action, given the traditional understandings of ""in rem""."
+2005.04-885,0,15113,anthony_m_kennedy,scotus_justice,1390.254,1395.474,I'd like to get away from in rem and back to the waiver aspect that's being argued here.
+2005.04-885,0,46377,william_e_thro,,1432.076,1435.217,I believe--
+2005.04-885,0,15113,anthony_m_kennedy,scotus_justice,1435.217,1440.374,"Otherwise, the State immunity, it seems to me, can be... can be fractionated."
+2005.04-885,0,46377,william_e_thro,,1440.374,1449.439,"--Well, I believe that this Court's decisions in the bankruptcy context draw the line with respect to the same transaction or occurrence."
+2005.04-885,0,15113,anthony_m_kennedy,scotus_justice,1460.207,1460.629,But I--
+2005.04-885,0,46377,william_e_thro,,1460.629,1461.207,"--however, with--"
+2005.04-885,0,15113,anthony_m_kennedy,scotus_justice,1461.207,1469.474,"--I thought, with respect to Justice Ginsburg's colloquy... and my own, earlier... that we said that there is an offset obligation, even if they're different claims."
+2005.04-885,0,46377,william_e_thro,,1469.474,1470.6,--There is an offset.
+2005.04-885,0,15113,anthony_m_kennedy,scotus_justice,1470.944,1476.647,"And now... and now I want to extrapolate from that to multiple entities, each of which asserts its own immunity."
+2005.04-885,0,46377,william_e_thro,,1476.647,1477.976,--Right.
+2005.04-885,0,15049,antonin_scalia,scotus_justice,1493.245,1494.636,Against the entire State--
+2005.04-885,0,46377,william_e_thro,,1494.636,1496.229,Against the entire State.
+2005.04-885,0,15049,antonin_scalia,scotus_justice,1496.229,1499.823,--including any money owed to the other... to the other State institutions.
+2005.04-885,0,46377,william_e_thro,,1501.168,1501.386,Yes.
+2005.04-885,0,15049,antonin_scalia,scotus_justice,1501.386,1501.746,--offset could be--
+2005.04-885,0,46377,william_e_thro,,1501.746,1502.199,Yes.
+2005.04-885,0,15049,antonin_scalia,scotus_justice,1502.199,1504.699,"--applied not just against the college here, but against the--"
+2005.04-885,0,46377,william_e_thro,,1504.699,1504.918,No.
+2005.04-885,0,15049,antonin_scalia,scotus_justice,1504.918,1505.7,--other entities.
+2005.04-885,0,46377,william_e_thro,,1505.7,1513.701,"The offset with respect to that particular... with respect to that particular transaction or occurrence, not to the other transactions or occurrences."
+2005.04-885,0,15084,ruth_bader_ginsburg,scotus_justice,1513.701,1519.141,"--So, you're not... I thought your position was, VMI, okay."
+2005.04-885,0,46377,william_e_thro,,1534.487,1534.768,Yes.
+2005.04-885,0,15084,ruth_bader_ginsburg,scotus_justice,1534.768,1535.174,--your position.
+2005.04-885,0,46377,william_e_thro,,1535.174,1537.175,There is no way that you can lump in the other three schools.
+2005.04-885,0,15086,john_g_roberts_jr,scotus_justice,1593.766,1595.344,"Thank you, Counsel."
+2005.04-885,1,33887,kim_martin_lewis,,1600.158,1602.298,"Mr. Chief Justice, and may it please the Court--"
+2005.04-885,1,15086,john_g_roberts_jr,scotus_justice,1616.052,1618.959,"Well, it's the same problem in the patent area, isn't it?"
+2005.04-885,1,33887,kim_martin_lewis,,1626.069,1629.226,"Your Honor, in the Florida Prepaid case, there was an alternative State remedy."
+2005.04-885,1,15042,david_h_souter,scotus_justice,1651.028,1655.123,"Assuming that's so, for sovereign immunity purposes, why should it make a difference?"
+2005.04-885,1,33887,kim_martin_lewis,,1655.123,1659.561,For... well--
+2005.04-885,1,15042,david_h_souter,scotus_justice,1659.561,1666.14,"Yes, I mean, this is a tougher case, but if sovereign immunity is the issue, why does it make any difference?"
+2005.04-885,1,33887,kim_martin_lewis,,1666.14,1670.172,--I do believe that it makes a difference that there is no alternative remedy.
+2005.04-885,1,15042,david_h_souter,scotus_justice,1671.689,1672.548,Why?
+2005.04-885,1,33887,kim_martin_lewis,,1674.736,1682.862,"--I'm not sure that it has anything to do, directly, with the theory of sovereign immunity, but--"
+2005.04-885,1,15042,david_h_souter,scotus_justice,1682.862,1693.693,"Believe me, I... I mean, I... as you know, I'm not a big fan of sovereign immunity in these circumstances, but I'm not quite sure how to get around it, based on the fact that there is no alternative remedy here."
+2005.04-885,1,33887,kim_martin_lewis,,1693.693,1711.65,"--Well, Justice Souter, the thing that I think is very troubling in this case is that there's a very basic bankruptcy policy, and that basic bankruptcy policy on preferences is equality of distribution and to prevent of abusive debt collection practices on the eve of bankruptcy."
+2005.04-885,1,15042,david_h_souter,scotus_justice,1711.65,1718.448,"Then, basically, you're making the argument from the uniformity phrase... uniform bankruptcy laws."
+2005.04-885,1,33887,kim_martin_lewis,,1725.591,1727.747,"I believe that it... I believe that it does, Your Honor."
+2005.04-885,1,15092,sandra_day_oconnor,scotus_justice,1739.86,1748.361,"Well, but, of course, that doesn't hold true for the other agencies, necessarily, unless you think VMI can waive it for all of them."
+2005.04-885,1,33887,kim_martin_lewis,,1753.736,1761.38,"Justice O'Connor, the... VMI waived the only sovereign immunity that existed, which was the Commonwealth of Virginia's sovereign immunity."
+2005.04-885,1,15086,john_g_roberts_jr,scotus_justice,1786.134,1791.309,Your waiver argument is... is it under 106(b) or 106(c)?
+2005.04-885,1,33887,kim_martin_lewis,,1793.637,1805.952,"Chief Justice, it's not under 106(b) or 106(c), because the waiver of sovereign immunity... 106(a) provides that, with respect to preference claims--"
+2005.04-885,1,15086,john_g_roberts_jr,scotus_justice,1805.952,1807.483,"That's an abrogation, that's not--"
+2005.04-885,1,33887,kim_martin_lewis,,1807.483,1807.733,--That--
+2005.04-885,1,15086,john_g_roberts_jr,scotus_justice,1807.733,1808.171,--a waiver.
+2005.04-885,1,33887,kim_martin_lewis,,1808.171,1808.905,"--that's correct, Your Honor."
+2005.04-885,1,15086,john_g_roberts_jr,scotus_justice,1808.905,1819.705,"Well, my question would be, How can you argue in favor of waiver when you have a statute with a much more limited waiver, the limits in 106(b) and 106(c), and you're saying,"
+2005.04-885,1,33887,kim_martin_lewis,,1830.113,1843.491,"Your Honor, I don't believe that 106(b) or 106(c) limits the waiver in this case, because, again, the sovereign immunity that was waived was the sovereign immunity of the Commonwealth of Virginia."
+2005.04-885,1,15049,antonin_scalia,scotus_justice,1857.12,1862.948,"Well, you're saying that much of the language of (b) is ineffective and superfluous?"
+2005.04-885,1,33887,kim_martin_lewis,,1877.264,1883.062,"--I'm saying that, in this context, it isn't... it isn't effective, Your Honor."
+2005.04-885,1,15049,antonin_scalia,scotus_justice,1883.062,1884.407,In what context would it be effective?
+2005.04-885,1,33887,kim_martin_lewis,,1884.407,1891.705,The... 106(b) was intended for claims that didn't... that did not arise under the bankruptcy code.
+2005.04-885,1,15086,john_g_roberts_jr,scotus_justice,1989.82,1999.321,How do we interpret the statute to establish that Congress intended the States to waive their immunity with the filing of the claim?
+2005.04-885,1,33887,kim_martin_lewis,,2002.182,2004.823,"--I'm sorry, can you--"
+2005.04-885,1,15086,john_g_roberts_jr,scotus_justice,2004.823,2013.966,"You're arguing that by filing the claim, the State has waived all of its immunity, but I don't see where in the statute it imposes that kind of waiver upon States."
+2005.04-885,1,33887,kim_martin_lewis,,2027.297,2031.563,"--I don't think 106(b) applies with respect to the preference claims, Your Honor."
+2005.04-885,1,15086,john_g_roberts_jr,scotus_justice,2031.563,2031.641,Okay.
+2005.04-885,1,33887,kim_martin_lewis,,2034.454,2055.022,"The... in... 106(b) and 106(c) specifies the conduct by which a sovereign must... must engage in, in order to waive sovereign immunity in a noncore matter, in those matters not set forth in section 106--"
+2005.04-885,1,15086,john_g_roberts_jr,scotus_justice,2055.022,2057.663,But I thought... you're not relying on 106(b) and 106(c).
+2005.04-885,1,33887,kim_martin_lewis,,2057.663,2057.882,"--That's correct, Your Honor."
+2005.04-885,1,15086,john_g_roberts_jr,scotus_justice,2057.882,2061.163,"So, where is the waiver of immunity on which you're relying?"
+2005.04-885,1,33887,kim_martin_lewis,,2061.163,2072.088,"The waiver of sovereign immunity is the jurisprudence of this Court, that Eleventh Amendment sovereign immunity is not absolute, that a sovereign can waive that sovereign immunity."
+2005.04-885,1,15086,john_g_roberts_jr,scotus_justice,2077.136,2080.074,But you have no argument that Congress imposed a waiver.
+2005.04-885,1,33887,kim_martin_lewis,,2080.074,2081.34,"That's correct, Your Honor."
+2005.04-885,1,15086,john_g_roberts_jr,scotus_justice,2081.34,2081.59,Okay.
+2005.04-885,1,15049,antonin_scalia,scotus_justice,2081.59,2086.716,"And, again, I still don't see how you distinguish (b) when you say"
+2005.04-885,1,33887,kim_martin_lewis,,2093.107,2093.655,Your Honor--
+2005.04-885,1,15049,antonin_scalia,scotus_justice,2093.655,2112.144,"I mean, if you are appealing to this broader principle, that you either waive all of sovereign immunity or you waive none of it at all, and you can't just restrict it to the particular claim, which is what (b) says, I don't know why, in any case, that wouldn't be true."
+2005.04-885,1,33887,kim_martin_lewis,,2112.144,2125.49,"--Justice Scalia, again, it's because we do not believe 106(b) governs here, because it deals with claims that are not abrogated under 106(a) of the bankruptcy code."
+2005.04-885,1,15060,john_paul_stevens,scotus_justice,2125.49,2132.46,"Of course, if Congress had thought it had successfully abrogated, there would be no reason to provide for a waiver, I don't suppose."
+2005.04-885,1,33887,kim_martin_lewis,,2132.46,2133.758,"That's correct, Justice Stevens."
+2005.04-885,1,15139,stephen_g_breyer,scotus_justice,2254.158,2269.537,"I thought (b) and (c)... tell if I'm right about this... but suppose an individual bankruptcy, and sometime prior to the bankruptcy the individual got into an automobile accident and ran into a State building and wrecked it."
+2005.04-885,1,33887,kim_martin_lewis,,2301.075,2302.465,"That's correct, Your Honor."
+2005.04-885,1,15139,stephen_g_breyer,scotus_justice,2302.715,2313.03,"So, if, in fact, you were to lose on (a), I guess the whole section would fall, because it wouldn't make any sense anymore, and we'd just wipe out the whole thing, (a), (b), and (c)."
+2005.04-885,1,33887,kim_martin_lewis,,2313.03,2313.921,"--That's correct, Your Honor."
+2005.04-885,1,15139,stephen_g_breyer,scotus_justice,2314.624,2314.874,All right.
+2005.04-885,1,33887,kim_martin_lewis,,2333.003,2334.77,"--Right, to abrogate sovereign immunity."
+2005.04-885,1,15139,stephen_g_breyer,scotus_justice,2334.77,2335.41,"And if you win on that, you win."
+2005.04-885,1,33887,kim_martin_lewis,,2339.052,2349.038,"I believe 106 would fall, but, if 106 falls, doesn't mean that Respondent would lose, as far as the waiver argument, because--"
+2005.04-885,1,15139,stephen_g_breyer,scotus_justice,2349.038,2355.478,"I'm not sure, because if you lose on the whole thing... suppose you were to say Congress doesn't have the power to do anything there."
+2005.04-885,1,33887,kim_martin_lewis,,2362.447,2373.246,"--Well, Justice Breyer, I think that (b) and (c), as pointed out by another one of the Justices, may be a limitation on the general concept of common law waiver."
+2005.04-885,1,15086,john_g_roberts_jr,scotus_justice,2394.423,2401.893,"Well, how do you... how do you have an informed waiver if the argument is over the authority to abrogate?"
+2005.04-885,1,33887,kim_martin_lewis,,2422.351,2432.134,"--We believe, obviously, Congress had the right to abrogate sovereign immunity--"
+2005.04-885,1,15086,john_g_roberts_jr,scotus_justice,2432.134,2432.947,I understand that.
+2005.04-885,1,33887,kim_martin_lewis,,2436.542,2436.948,--That's correct.
+2005.04-885,1,15086,john_g_roberts_jr,scotus_justice,2436.948,2437.12,--waiver.
+2005.04-885,1,33887,kim_martin_lewis,,2441.23,2441.48,That's correct.
+2005.04-885,1,15086,john_g_roberts_jr,scotus_justice,2441.48,2442.214,--bankruptcy proceeding.
+2005.04-885,1,33887,kim_martin_lewis,,2447.591,2468.611,"Well, Your Honor, I believe, because this Court has recognized, in Gardner versus New Jersey, that if a State files a proof of claim, it constitutes a waiver, that the State had to have to been informed, it had to know that the actual conduct of filing a proof of claim would have a consequence of a waiver."
+2005.04-885,1,15086,john_g_roberts_jr,scotus_justice,2468.611,2472.049,"Yes, but all the... all the statute does is abrogate."
+2005.04-885,1,33887,kim_martin_lewis,,2472.049,2474.049,All--
+2005.04-885,1,15086,john_g_roberts_jr,scotus_justice,2474.049,2475.018,In 106(a).
+2005.04-885,1,33887,kim_martin_lewis,,2475.3,2475.769,--That's correct--
+2005.04-885,1,15086,john_g_roberts_jr,scotus_justice,2475.769,2476.05,--an attempt to--
+2005.04-885,1,33887,kim_martin_lewis,,2476.05,2476.409,--Your Honor.
+2005.04-885,1,15086,john_g_roberts_jr,scotus_justice,2476.409,2476.753,--abrogate.
+2005.04-885,1,33887,kim_martin_lewis,,2476.753,2477.269,That's correct.
+2005.04-885,1,15086,john_g_roberts_jr,scotus_justice,2477.269,2484.91,"And if it turns out that Congress doesn't have that authority, I don't see how you can say the State has made an informed waiver, when their theory is,"
+2005.04-885,1,33887,kim_martin_lewis,,2486.943,2495.914,"Well, Your Honor, 106(a) certainly didn't exist back in Gardner versus New Jersey in 1947 either."
+2005.04-885,1,15139,stephen_g_breyer,scotus_justice,2506.666,2508.041,"No, no, no, he's... so, I'm wrong."
+2005.04-885,1,33887,kim_martin_lewis,,2548.362,2549.331,--I believe that's correct--
+2005.04-885,1,15139,stephen_g_breyer,scotus_justice,2549.331,2549.737,All right.
+2005.04-885,1,33887,kim_martin_lewis,,2549.737,2550.003,--Justice Breyer.
+2005.04-885,1,15084,ruth_bader_ginsburg,scotus_justice,2550.003,2559.444,"In... I don't follow that, because I thought the theory of the cases were that you can waive something by conduct."
+2005.04-885,1,15092,sandra_day_oconnor,scotus_justice,2586.746,2588.996,A light bulb exploded.
+2005.04-885,1,15086,john_g_roberts_jr,scotus_justice,2588.996,2591.95,I think we're... I think it's safe.
+2005.04-885,1,15139,stephen_g_breyer,scotus_justice,2591.95,2592.81,A light bulb went out.
+2005.04-885,1,15086,john_g_roberts_jr,scotus_justice,2592.81,2597.654,It's a trick they play on new Chief Justices all the time.
+2005.04-885,1,15049,antonin_scalia,scotus_justice,2599.421,2603.562,Happy Halloween.
+2005.04-885,1,15084,ruth_bader_ginsburg,scotus_justice,2609.234,2609.86,--Let me ask this--
+2005.04-885,1,15113,anthony_m_kennedy,scotus_justice,2609.86,2610.298,Take your time.
+2005.04-885,1,15086,john_g_roberts_jr,scotus_justice,2611.454,2614.189,"We're even... yeah, we're even more in the dark now than before."
+2005.04-885,1,15084,ruth_bader_ginsburg,scotus_justice,2616.299,2648.166,"--If you lose on the abrogation notion, and the Court holds that there is no authority in Congress to abrogate sovereign immunity, still the bankruptcy code codifies what is, across the board, the law."
+2005.04-885,1,33887,kim_martin_lewis,,2711.569,2728.651,"I understand that argument, Justice Ginsburg, but I believe when Congress enacted 106(a), (b), and (c), that they enacted it... (a), being those actions which were abrogated, (b) were those actions that remained."
+2005.04-885,1,15113,anthony_m_kennedy,scotus_justice,2753.032,2754.204,"--Well, it's the same question."
+2005.04-885,1,33887,kim_martin_lewis,,2777.88,2781.958,Did you ask how it's preserved?
+2005.04-885,1,15113,anthony_m_kennedy,scotus_justice,2784.412,2786.726,It just seems to... seem to me to be part of the question presented.
+2005.04-885,1,33887,kim_martin_lewis,,2786.726,2803.995,"--Your Honor, I think, to the extent that this Court can avoid addressing the Constitution about constitutionality of a statute... and, in the situation of waiver, we believe that it can... then we believe that's the appropriate jurisprudence."
+2005.04-885,1,15113,anthony_m_kennedy,scotus_justice,2803.995,2806.996,"Well, you asked... you framed the question."
+2005.04-885,1,15084,ruth_bader_ginsburg,scotus_justice,2806.996,2808.089,No.
+2005.04-885,1,15113,anthony_m_kennedy,scotus_justice,2808.089,2808.856,"Oh, no, you... you're right."
+2005.04-885,1,15086,john_g_roberts_jr,scotus_justice,2810.449,2816.201,"Well, to what extent was this argument raised below, I guess is a--"
+2005.04-885,1,33887,kim_martin_lewis,,2816.201,2822.468,"Chief Justice, it was raised, to the extent of VMI's sovereign immunity."
+2005.04-885,1,15060,john_paul_stevens,scotus_justice,2843.894,2850.646,"May I ask a question on another subject, just talking for a minute about your in rem theory of the case?"
+2005.04-885,1,33887,kim_martin_lewis,,2868.149,2877.792,"Justice Stevens, we did seek to dismiss the causative action with respect to the accounts receivable and the causative action that we--"
+2005.04-885,1,15060,john_paul_stevens,scotus_justice,2877.792,2884.934,"Is that because you concede, in effect, that they would not be part of the estate if we adopted an in rem theory that included the preferential transfers?"
+2005.04-885,1,33887,kim_martin_lewis,,2884.934,2885.949,--They would not be part of the estate--
+2005.04-885,1,15060,john_paul_stevens,scotus_justice,2885.949,2886.449,Okay.
+2005.04-885,1,33887,kim_martin_lewis,,2886.449,2891.044,"--in a situation of... if this adopt... Court adopted an in rem theory, that's correct."
+2005.04-885,1,15139,stephen_g_breyer,scotus_justice,2891.044,2892.31,Which would not?
+2005.04-885,1,33887,kim_martin_lewis,,2892.654,2899.766,"Any recoveries on behalf of State contract claims, account receivable as collections."
+2005.04-885,1,15139,stephen_g_breyer,scotus_justice,2899.766,2901.766,And you have some of those.
+2005.04-885,1,33887,kim_martin_lewis,,2901.766,2904.454,"We do, Your... Justice Breyer."
+2005.04-885,1,15139,stephen_g_breyer,scotus_justice,2904.454,2905.939,Are you trying to get those in this case?
+2005.04-885,1,33887,kim_martin_lewis,,2905.939,2906.517,"No, we are not."
+2005.04-885,1,15139,stephen_g_breyer,scotus_justice,2906.517,2906.83,"Oh, okay."
+2005.04-885,1,33887,kim_martin_lewis,,2906.83,2908.58,We sought to dismiss them.
+2005.04-885,1,15049,antonin_scalia,scotus_justice,2908.58,2909.674,"Well, you were, but you're not."
+2005.04-885,1,33887,kim_martin_lewis,,2909.674,2910.799,"That's correct, Justice--"
+2005.04-885,1,15049,antonin_scalia,scotus_justice,2910.799,2911.299,"I mean, you're--"
+2005.04-885,1,33887,kim_martin_lewis,,2911.299,2911.784,--Scalia.
+2005.04-885,1,15049,antonin_scalia,scotus_justice,2911.784,2912.284,"--trying to get rid of that, right?"
+2005.04-885,1,33887,kim_martin_lewis,,2912.284,2913.237,"That's correct, Justice Scalia."
+2005.04-885,1,15060,john_paul_stevens,scotus_justice,2913.237,2918.677,"Now, that doesn't fit into your in rem theory, but why wouldn't you have been able to recover that on a waiver theory?"
+2005.04-885,1,33887,kim_martin_lewis,,2930.804,2936.008,It would have been the waiver with respect to just VMI's contract claims.
+2005.04-885,1,15049,antonin_scalia,scotus_justice,2950.558,2962.546,Would you explain to me again why it's okay that your waiver argument below was only directed to the claims against VMI?
+2005.04-885,1,33887,kim_martin_lewis,,2962.546,2963.904,At the--
+2005.04-885,1,15049,antonin_scalia,scotus_justice,2963.904,2965.952,I'm not... I didn't understand your answer to that.
+2005.04-885,1,33887,kim_martin_lewis,,2971.296,2973.798,--I--
+2005.04-885,1,15049,antonin_scalia,scotus_justice,2973.798,2986.41,You didn't... you didn't assert that all the sovereign immunity for the entire State and all of its institutions had been waived simply because of the claim by VMI.
+2005.04-885,1,33887,kim_martin_lewis,,2987.583,2989.911,"--At the time of that decision, Justice--"
+2005.04-885,1,15049,antonin_scalia,scotus_justice,2989.911,2990.114,Yes.
+2005.04-885,1,33887,kim_martin_lewis,,2990.114,2996.771,"--Scalia, the Sixth Circuit Hood decision had already been decided, and, just as it was acknowledged in the--"
+2005.04-885,1,15049,antonin_scalia,scotus_justice,2996.771,2999.335,What... which said what?
+2005.04-885,1,33887,kim_martin_lewis,,2999.335,3012.008,"--Which said that sovereign immunity is waived, or abrogated, for preference actions in... it was actually across the board... an abrogation of State sovereign immunity."
+2005.04-885,1,15049,antonin_scalia,scotus_justice,3013.431,3014.854,"Well, then why didn't you make the argument?"
+2005.04-885,1,15084,ruth_bader_ginsburg,scotus_justice,3028.153,3028.45,No.
+2005.04-885,1,33887,kim_martin_lewis,,3028.997,3029.278,--No.
+2005.04-885,1,15084,ruth_bader_ginsburg,scotus_justice,3029.278,3030.278,--that Congress could abrogate--
+2005.04-885,1,33887,kim_martin_lewis,,3030.278,3030.575,That's correct.
+2005.04-885,1,15084,ruth_bader_ginsburg,scotus_justice,3031.278,3032.826,--through the Bankruptcy Clause.
+2005.04-885,1,15049,antonin_scalia,scotus_justice,3037.577,3037.827,Yes.
+2005.04-885,1,15084,ruth_bader_ginsburg,scotus_justice,3037.827,3039.14,--address that issue.
+2005.04-885,1,15049,antonin_scalia,scotus_justice,3039.14,3050.752,"But if you're making a separate waiver argument, apart from the abrogation argument, I don't see why you would not make that waiver argument as broadly as possible."
+2005.04-885,1,33887,kim_martin_lewis,,3053.316,3054.112,--We--
+2005.04-885,1,15049,antonin_scalia,scotus_justice,3054.112,3056.409,And you're making it as a separate argument here.
+2005.04-885,1,33887,kim_martin_lewis,,3067.395,3073.6,"--At the time, 106(a), in the Sixth Circuit, it was determined that that was constitutional."
+2005.04-885,1,15049,antonin_scalia,scotus_justice,3087.338,3087.619,I see.
+2005.04-885,1,33887,kim_martin_lewis,,3087.619,3088.135,--underlying--
+2005.04-885,1,15049,antonin_scalia,scotus_justice,3088.135,3088.338,I see.
+2005.04-885,1,15086,john_g_roberts_jr,scotus_justice,3088.338,3094.762,"--So, the... so, the long and short of it is, for good and sufficient reasons you did not make the same waiver below that you're making here today."
+2005.04-885,1,33887,kim_martin_lewis,,3094.762,3095.621,"--That's correct, Chief--"
+2005.04-885,1,15086,john_g_roberts_jr,scotus_justice,3095.621,3096.23,Okay.
+2005.04-885,1,33887,kim_martin_lewis,,3096.23,3096.418,--Justice.
+2005.04-885,1,15113,anthony_m_kennedy,scotus_justice,3096.418,3102.606,"And the proof of claim in VMI was $43,000, and the preference was $25,000."
+2005.04-885,1,33887,kim_martin_lewis,,3102.606,3103.794,That's correct.
+2005.04-885,1,15092,sandra_day_oconnor,scotus_justice,3103.794,3110.811,"Now, on your in rem argument, how do you distinguish Nordic Village's case?"
+2005.04-885,1,33887,kim_martin_lewis,,3110.811,3117.547,"In the Nordic Village case, the trustee in that case focused on the money damages."
+2005.04-885,1,15086,john_g_roberts_jr,scotus_justice,3261.297,3262.688,"Thank you, Counsel."
+2005.04-885,2,46377,william_e_thro,,3269.44,3271.19,"Thank you, Mr. Chief Justice."
+2005.04-885,2,15084,ruth_bader_ginsburg,scotus_justice,3324.53,3332.797,"That's the question you've presented, Mr. Thro, but it was the same question that was presented to us in Hood."
+2005.04-885,2,46377,william_e_thro,,3353.474,3355.364,"Yes, you could, Your Honor."
+2005.04-885,2,15049,antonin_scalia,scotus_justice,3360.474,3364.991,"We couldn't decide it in your favor, on some alternative ground, though, could we?"
+2005.04-885,2,46377,william_e_thro,,3365.195,3366.148,Well--
+2005.04-885,2,15049,antonin_scalia,scotus_justice,3366.148,3368.211,"Well, I mean, that distinguishes it--"
+2005.04-885,2,46377,william_e_thro,,3368.211,3370.446,"--Yes, absolutely, Your Honor--"
+2005.04-885,2,15049,antonin_scalia,scotus_justice,3370.446,3371.947,--The difference between this and Hood.
+2005.04-885,2,46377,william_e_thro,,3371.947,3384.824,"--Your Honor, but I believe that the proper exercise of judicial restraint is to decide the question presented, and only the question presented, and do the other grounds for perhaps another day."
+2005.04-885,2,15060,john_paul_stevens,scotus_justice,3394.874,3408.017,"May I ask if you think, within the text of the question presented, we could decide whether the sovereign immunity was abrogated by the convention itself, not by Congress?"
+2005.04-885,2,46377,william_e_thro,,3410.83,3411.112,Yes.
+2005.04-885,2,15060,john_paul_stevens,scotus_justice,3422.021,3422.349,Abrogated.
+2005.04-885,2,46377,william_e_thro,,3422.349,3431.288,"--for the States not to have sovereign immunity in bankruptcy, then you would conclude that the Article 1 Bankruptcy Clause includes the abrogation power."
+2005.04-885,2,15084,ruth_bader_ginsburg,scotus_justice,3448.698,3453.136,"Well, then that would be a ground to allow them to present it below."
+2005.04-885,2,46377,william_e_thro,,3454.089,3454.776,--Yes.
+2005.04-885,2,15084,ruth_bader_ginsburg,scotus_justice,3454.995,3456.027,--on that hands below.
+2005.04-885,2,46377,william_e_thro,,3456.058,3456.027,"Yes, absolutely."
+2005.04-885,2,15086,john_g_roberts_jr,scotus_justice,3486.049,3487.268,"Thank you, Counsel."
+2005.04-885,2,46377,william_e_thro,,3487.268,3487.643,Thank you.
+2005.04-885,2,15086,john_g_roberts_jr,scotus_justice,3487.643,3488.972,The case is submitted.

@@ -1,0 +1,255 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2013.12-729,0,15086,john_g_roberts_jr,scotus_justice,0.0,7.937,"We will hear argument next in Case 12-729, Heimeshoff v. Hartford Life & Accident Insurance."
+2013.12-729,0,36939,matthew_wh_wessler,,8.77,9.353,Thank you.
+2013.12-729,0,15084,ruth_bader_ginsburg,scotus_justice,50.161,51.946,How much time was left in this case?
+2013.12-729,0,36939,matthew_wh_wessler,,51.946,54.381,"There was approximately one year, Your Honor."
+2013.12-729,0,15084,ruth_bader_ginsburg,scotus_justice,54.381,65.02,"And you -- and if there were a one-year limitation running from the final administrative review, you would be out?"
+2013.12-729,0,36939,matthew_wh_wessler,,65.02,72.442,"Well, I don't think we would be out in this case, Your Honor, because the provision in this case was a three year from final denial."
+2013.12-729,0,15084,ruth_bader_ginsburg,scotus_justice,82.982,91.004,"Yes, but if there were such a rule, one year from the final administrative decision, this claim would become too late."
+2013.12-729,0,36939,matthew_wh_wessler,,91.004,93.573,"If, in fact, the provision in this plan--"
+2013.12-729,0,15084,ruth_bader_ginsburg,scotus_justice,93.573,94.073,Yes.
+2013.12-729,0,36939,matthew_wh_wessler,,94.073,95.458,"--said one year from final denial, that's correct, Your Honor."
+2013.12-729,0,15084,ruth_bader_ginsburg,scotus_justice,95.458,97.292,What accounts for the delay?
+2013.12-729,0,36939,matthew_wh_wessler,,107.099,112.667,"Well, I think this gets us, Your Honor, to one of the core problems with this provision, which is that it's confusing."
+2013.12-729,0,15131,sonia_sotomayor,scotus_justice,132.062,132.445,I'm sorry.
+2013.12-729,0,36939,matthew_wh_wessler,,144.722,162.683,"In this case, Your Honor, that's true; however, the problem with these proof of loss dates coupled with this mandatory exhaustion requirement is that it is unclear from the outset when -- when the clock -- how much time after final denial would be left when you're in the middle of the process."
+2013.12-729,0,15131,sonia_sotomayor,scotus_justice,164.35,169.77,I'm a little confused because it would be the same no matter what rule we instituted.
+2013.12-729,0,36939,matthew_wh_wessler,,169.77,172.056,"--Well, I -- I don't think that's right, Your Honor."
+2013.12-729,0,15131,sonia_sotomayor,scotus_justice,172.056,181.578,"Meaning, you would never know when the administrative -- you really never know when the administration process is final, just like you're arguing you don't know when the proof of loss date is final."
+2013.12-729,0,36939,matthew_wh_wessler,,187.899,196.603,"Right, although I -- there's actually quite a bit of disagreement among the lower courts about how you measure proof of loss, when that date actually triggers the limitations clock."
+2013.12-729,0,15131,sonia_sotomayor,scotus_justice,226.388,227.54,That can only help you.
+2013.12-729,0,36939,matthew_wh_wessler,,232.109,232.859,"That's true, Your Honor."
+2013.12-729,0,15131,sonia_sotomayor,scotus_justice,232.859,234.878,"You say you have three years, no matter what."
+2013.12-729,0,36939,matthew_wh_wessler,,237.33,238.196,"Well, in fact--"
+2013.12-729,0,15131,sonia_sotomayor,scotus_justice,238.196,240.364,"If you need more time, you have a potential out."
+2013.12-729,0,36939,matthew_wh_wessler,,240.364,254.274,"--Well, in fact, you don't have necessarily three years from when proof of loss starts because courts, as respondents themselves acknowledge, are necessarily going to have to evaluate these -- these provisions on a case-by-case basis."
+2013.12-729,0,15049,antonin_scalia,scotus_justice,254.791,264.747,"Well, you know, I guess there are answers to these -- to these legal questions, whether it's the first filing or if supplemental documents are required, it's the second filing."
+2013.12-729,0,36939,matthew_wh_wessler,,288.862,297.801,"--Well, except, Your Honor, that in ERISA, one of the core goals of this statute is to provide predictability, certainty and efficiency in the administration of benefits."
+2013.12-729,0,15084,ruth_bader_ginsburg,scotus_justice,336.426,363.578,"But ERISA itself contains no statute of limitations, and it's generally assumed that, therefore, this State statute of limitations would govern, and if a State has the position that parties can contract the statute of limitations -- I mean, ERISA does have -- does have a statute of limitations for breach of fiduciary claims, right?"
+2013.12-729,0,36939,matthew_wh_wessler,,363.578,364.928,"--That's -- that's correct, Your Honor."
+2013.12-729,0,15084,ruth_bader_ginsburg,scotus_justice,364.928,368.646,And it has none for this kind of claim.
+2013.12-729,0,36939,matthew_wh_wessler,,368.646,370.082,"That's correct, Your Honor."
+2013.12-729,0,15068,samuel_a_alito_jr,scotus_justice,409.123,415.527,"Well, ERISA doesn't have a statute of limitations, it doesn't specifically set out a statute of limitations for this type of claim."
+2013.12-729,0,36939,matthew_wh_wessler,,469.845,474.831,"I -- I would think it would, because it -- because it would conflict with ERISA's remedial structure."
+2013.12-729,0,15068,samuel_a_alito_jr,scotus_justice,495.761,501.649,"Well, I think your answer to that question has to be yes; otherwise, the situation would be a mess."
+2013.12-729,0,36939,matthew_wh_wessler,,501.649,502.115,Yes.
+2013.12-729,0,15068,samuel_a_alito_jr,scotus_justice,502.115,509.069,But I -- but in -- in what sense is the law that I hypothesize not a law that regulates insurance?
+2013.12-729,0,36939,matthew_wh_wessler,,512.038,518.942,"It might as a first step, Your Honor, but I think it would be impliedly conflicted because it conflicts with the Federal structure of ERISA."
+2013.12-729,0,15113,anthony_m_kennedy,scotus_justice,552.265,565.239,Is there any evidence in other circuits that have this same rule that -- that the approach the Respondents advocate has caused difficulties and disruption and unfairness?
+2013.12-729,0,36939,matthew_wh_wessler,,565.239,571.826,"Well, I think we have seen courts struggling with a host of questions about how to resolve the enforceability of these provisions."
+2013.12-729,0,15113,anthony_m_kennedy,scotus_justice,596.377,608.668,"But in this case, as Justice Ginsburg indicated at the outset, there was a period of I think just over a year, in which it was very clear that the administrative process had ended and nothing happened."
+2013.12-729,0,36939,matthew_wh_wessler,,613.153,623.344,"--Yes, Your Honor, but I think the core problem here isn't so much one of unfairness as it is certainty and predictability of what employees' and plans' rights are under an ERISA plan."
+2013.12-729,0,15113,anthony_m_kennedy,scotus_justice,623.344,636.419,"Well, but there is also certainty and fairness in processing the claim, and when evidence is lost, especially in cases where employees who were key witnesses have likely departed, that's another very important consideration."
+2013.12-729,0,36939,matthew_wh_wessler,,636.419,637.538,"Absolutely, Your Honor."
+2013.12-729,0,15139,stephen_g_breyer,scotus_justice,656.082,676.496,"What happens -- what happens if you brought suit before the exhaustion, while it was still going on, before it ended, but you said to the judge, Judge, we're in the middle of exhausting, so don't -- we don't want to hear the case until that's finished; can you do that or not?"
+2013.12-729,0,36939,matthew_wh_wessler,,676.496,678.765,--I think that is a very open question.
+2013.12-729,0,15139,stephen_g_breyer,scotus_justice,679.765,680.531,It's an open question.
+2013.12-729,0,36939,matthew_wh_wessler,,696.971,698.657,"I think it would, but I also think--"
+2013.12-729,0,15139,stephen_g_breyer,scotus_justice,698.657,701.342,"I mean, it wouldn't solve your problem because you waited too long."
+2013.12-729,0,36939,matthew_wh_wessler,,705.144,705.427,--Correct.
+2013.12-729,0,15139,stephen_g_breyer,scotus_justice,709.096,711.114,What is it that stops that?
+2013.12-729,0,36939,matthew_wh_wessler,,724.957,727.49,"--Absolutely, Your Honor."
+2013.12-729,0,15131,sonia_sotomayor,scotus_justice,761.129,782.393,"Counsel, if we rule in your favor -- I'm sorry, against you -- and just say the plans can do this, do you see any reason why the government couldn't pass a regulation saying you've got to give people at least a year from the end of the administrative process to file?"
+2013.12-729,0,36939,matthew_wh_wessler,,782.393,785.761,I can't speculate on what the government would do.
+2013.12-729,0,15131,sonia_sotomayor,scotus_justice,788.48,790.18,I'm going to ask them that question.
+2013.12-729,0,36939,matthew_wh_wessler,,790.18,790.63,I'm sure you are.
+2013.12-729,0,15131,sonia_sotomayor,scotus_justice,790.63,793.448,But are you aware of anything that would stop them from doing that?
+2013.12-729,0,36939,matthew_wh_wessler,,793.448,793.948,I am not.
+2013.12-729,0,15131,sonia_sotomayor,scotus_justice,802.138,814.545,"If we rule in your favor, however, they would be estopped from passing a regulation requiring something different than what we say, correct?"
+2013.12-729,0,36939,matthew_wh_wessler,,814.545,815.978,I would think that that's right.
+2013.12-729,0,15094,elena_kagan,scotus_justice,832.257,842.545,"Mr. Wessler, this just I think follows up on Justice Kennedy's question, but have you identified any cases in which this serves to prevent somebody from bringing a suit?"
+2013.12-729,0,36939,matthew_wh_wessler,,842.545,849.116,We have not found any cases in which a claimant has actually lost the right to file a suit.
+2013.12-729,0,15094,elena_kagan,scotus_justice,869.38,875.934,"But it seems as though those courts have been pretty liberal in saying, whenever it is necessary, no, take a little bit more time."
+2013.12-729,0,36939,matthew_wh_wessler,,880.837,883.872,I think in fact it's just the opposite.
+2013.12-729,0,15084,ruth_bader_ginsburg,scotus_justice,896.28,901.484,"I didn't understand your response to Justice Breyer's question, Mr. Wessler."
+2013.12-729,0,36939,matthew_wh_wessler,,916.177,921.229,"With respect, Your Honor, it's not the court that is engaging in the adversarial process."
+2013.12-729,0,15084,ruth_bader_ginsburg,scotus_justice,938.057,943.927,"Yes, many people in the administrative process aren't represented, but some are, right?"
+2013.12-729,0,36939,matthew_wh_wessler,,943.927,953.8,"--That's right, but we think that this provision would incentivize more lawyers getting involved, because if you are uncertain about how much time you'll have you will be in a position where you want advice."
+2013.12-729,0,15086,john_g_roberts_jr,scotus_justice,980.533,981.183,"Thank you, counsel."
+2013.12-729,1,24896,ginger_d__anders,,989.889,992.341,"Mr. Chief Justice, and may it please the Court:"
+2013.12-729,1,15068,samuel_a_alito_jr,scotus_justice,1017.039,1025.309,I find it very hard to answer the question that is presented here without knowing the answer to the preemption question that I asked Mr. Wessler.
+2013.12-729,1,24896,ginger_d__anders,,1051.79,1058.963,I think that's -- I think that's right and I think State laws that require plans to have this sort of provision would be preempted.
+2013.12-729,1,15113,anthony_m_kennedy,scotus_justice,1066.983,1071.701,"Those are general statutes, so they would be preempted just in this class of claims."
+2013.12-729,1,24896,ginger_d__anders,,1077.439,1086.045,"Well, it may be valid for many State law purposes, but when a plan is regulated by ERISA, ERISA's remedial framework establishes the limits of what that plan--"
+2013.12-729,1,15113,anthony_m_kennedy,scotus_justice,1086.045,1092.281,But then you have -- you have lack of uniformity within the State on when these claims must be brought under an insurance policy.
+2013.12-729,1,24896,ginger_d__anders,,1092.281,1095.916,--I don't think there'd be more -- any more lack of uniformity than there is already.
+2013.12-729,1,15049,antonin_scalia,scotus_justice,1127.785,1130.32,But it hasn't undermined the framework.
+2013.12-729,1,24896,ginger_d__anders,,1156.288,1161.19,"--Well, in this case we now know post hoc that -- that the Petitioner had about a year."
+2013.12-729,1,15049,antonin_scalia,scotus_justice,1177.718,1178.085,So what?
+2013.12-729,1,15094,elena_kagan,scotus_justice,1178.085,1183.789,"What evidence do you have that any bad incentives -- you know, any bad effects are actually flowing from this?"
+2013.12-729,1,24896,ginger_d__anders,,1210.372,1215.16,"Well, first, I think there is evidence that there have been -- that there have been problems created by this kind of scheme."
+2013.12-729,1,15084,ruth_bader_ginsburg,scotus_justice,1231.87,1241.226,"How -- in practice -- in practice, how often is that the case that the -- that the guidelines set by the Department of Labor are not -- are not met?"
+2013.12-729,1,24896,ginger_d__anders,,1241.226,1250.848,"--I don't have precise statistics, but the regulations are designed to be flexible, precisely because there will often be cases in which one or the other side will need an extension."
+2013.12-729,1,15131,sonia_sotomayor,scotus_justice,1271.161,1291.406,"Counsel, I could be more troubled by this case if the proof of loss provision required a suit to be brought in a year, because as I'm adding up the timeframe, it's about 15 months if no exceptions remain for the administrative process."
+2013.12-729,1,24896,ginger_d__anders,,1310.119,1312.738,I think the Department of Labor would have that authority to do that.
+2013.12-729,1,15049,antonin_scalia,scotus_justice,1342.257,1343.523,Counsel--
+2013.12-729,1,15084,ruth_bader_ginsburg,scotus_justice,1343.523,1358.967,"But, Ms. Anders, the question is -- there is a division in the courts of appeals, and the question is: Could the Department of Labor by regulation resolve the matter one way or the other?"
+2013.12-729,1,24896,ginger_d__anders,,1381.565,1388.652,We do think it would have that authority and it has that authority because it has the authority to regulate the claims process and the procedures--
+2013.12-729,1,15049,antonin_scalia,scotus_justice,1388.652,1390.154,"--Well, that's -- that's the internal claims."
+2013.12-729,1,24896,ginger_d__anders,,1400.194,1401.646,"--Well, we--"
+2013.12-729,1,15049,antonin_scalia,scotus_justice,1401.646,1405.08,An agency saying you've got to sue within 1 year; you've got to sue within 6 years.
+2013.12-729,1,24896,ginger_d__anders,,1412.017,1423.642,"--Well, we do think the agency would have the authority here, because we think that the statute of limitations -- when the statute of limitations runs from is intertwined with the effectiveness about -- of the claims procedure."
+2013.12-729,1,15049,antonin_scalia,scotus_justice,1437.135,1445.506,"You know any other instances where -- where a Federal agency has, in effect, prescribed the running of the statute for the courts?"
+2013.12-729,1,24896,ginger_d__anders,,1448.24,1451.226,--I can't tell you right now.
+2013.12-729,1,15094,elena_kagan,scotus_justice,1455.363,1463.619,"I guess one question is: If you think that you do have authority and you think that the majority rule has been creating problems, why the Department of Labor hasn't done that?"
+2013.12-729,1,24896,ginger_d__anders,,1463.619,1471.706,"Well, the department's focus -- in 2000, the last time it regulated, it chose to focus on matters that were directly involved in the claims process itself."
+2013.12-729,1,15068,samuel_a_alito_jr,scotus_justice,1485.297,1495.152,"If we agree with you, would a State legislature have the authority to pass a statute setting out a particular -- a specific statute of limitations for ERISA claims?"
+2013.12-729,1,24896,ginger_d__anders,,1495.152,1505.61,"I think it -- I think it might have the authority to do that so long as the statute were framed in a way that didn't undermine the -- the remedial framework here, yes."
+2013.12-729,1,15084,ruth_bader_ginsburg,scotus_justice,1505.61,1541.616,"What is your position on Justice Breyer's suggestion that the trigger can be proof -- when you file proof of claim, but if it happens that beginning of suit at that point would -- while the -- while the administrative review process is underway, why not say you have to follow the time of filing, but if the administrative process -- in your case, the 4 years -- took 4 years -- just hold the suit in abeyance until the administrative process is complete?"
+2013.12-729,1,24896,ginger_d__anders,,1541.616,1554.36,"I think that would be kind of a bizarre scheme that would turn the exhaustion process and the point of exhaustion on its head, and that essentially would require a rush to court by claimants who don't know yet whether the exhaustion process will be resolved in their favor."
+2013.12-729,1,15139,stephen_g_breyer,scotus_justice,1565.499,1576.023,"--our saying that, and what about our saying to the courts as a judge-made doctrine, exhaustion has to conclude in enough time so that they have time left to file a lawsuit?"
+2013.12-729,1,24896,ginger_d__anders,,1576.023,1577.973,I'm sorry.
+2013.12-729,1,15139,stephen_g_breyer,scotus_justice,1578.873,1579.291,Yes.
+2013.12-729,1,24896,ginger_d__anders,,1582.443,1587.329,"--It is a judge -- it is a judge-made doctrine, but I think--"
+2013.12-729,1,15139,stephen_g_breyer,scotus_justice,1587.329,1592.883,It would be an unfair process that doesn't leave them a reasonable amount of time to file a lawsuit.
+2013.12-729,1,24896,ginger_d__anders,,1592.883,1598.952,"--Well, I think in this case exhaustion is -- is established by statute, it's required by statute and by the regulations."
+2013.12-729,1,15086,john_g_roberts_jr,scotus_justice,1610.01,1611.26,"Thank you, counsel."
+2013.12-729,2,18598,catherine_ma_carroll,,1619.366,1622.085,"Thank you, Mr. Chief Justice, and may it please the Court:"
+2013.12-729,2,15049,antonin_scalia,scotus_justice,1637.078,1639.113,"They don't have to provide benefits at all, do they?"
+2013.12-729,2,18598,catherine_ma_carroll,,1639.113,1639.963,Exactly.
+2013.12-729,2,15049,antonin_scalia,scotus_justice,1641.981,1643.815,"And if they do, they do it on their own terms."
+2013.12-729,2,18598,catherine_ma_carroll,,1643.815,1645.35,"--That's correct, Justice Scalia."
+2013.12-729,2,15139,stephen_g_breyer,scotus_justice,1648.985,1675.12,"I suppose the problem here is that we have found nine cases -- you know, we can do computer-assisted research, which my clerks are good at -- and -- and they found five cases in which the exhaustion period was actually longer than the 3-year statute of limitations; and then they found four others that there -- well, there was like 5 days left in one, and there was 5 months left in another."
+2013.12-729,2,18598,catherine_ma_carroll,,1701.853,1715.279,"Well, I think when those situations arise -- and to be clear, we have 40, almost 40 years of experience under ERISA of these provisions coexisting with the ERISA remedial framework."
+2013.12-729,2,15139,stephen_g_breyer,scotus_justice,1720.431,1722.783,"The question was, what do you want to do with those nine people?"
+2013.12-729,2,18598,catherine_ma_carroll,,1727.92,1728.62,--Of course.
+2013.12-729,2,15139,stephen_g_breyer,scotus_justice,1728.62,1729.603,--who will have this problem.
+2013.12-729,2,18598,catherine_ma_carroll,,1732.822,1750.785,"In the highly unusual circumstances where those situations arise, and we don't have any reason to believe they are anything but highly unusual, we think courts are well equipped to apply the same equitable doctrines that courts have always applied to statutes of limitations when situations like that arise."
+2013.12-729,2,15139,stephen_g_breyer,scotus_justice,1752.868,1758.436,"My question was, what specific doctrine or -- I saw three groups."
+2013.12-729,2,18598,catherine_ma_carroll,,1767.542,1780.368,"--In the Lamantia case cited in the reply brief, the doctrine that was applied was equitable estoppel, because in the facts of that case you couldn't get to a four-year point without a final decision without something having gone wrong."
+2013.12-729,2,15139,stephen_g_breyer,scotus_justice,1781.201,1790.49,"And now, I suppose -- so we could use equitable estoppel, even though nobody has said anything, even though nobody held out anything as a basis for estoppel."
+2013.12-729,2,18598,catherine_ma_carroll,,1795.811,1797.728,--There are many.
+2013.12-729,2,15049,antonin_scalia,scotus_justice,1813.755,1819.176,Why wouldn't equitable tolling apply if you don't have enough time to prepare the court suit?
+2013.12-729,2,18598,catherine_ma_carroll,,1828.949,1830.717,"--I think it very well might, Your Honor."
+2013.12-729,2,15049,antonin_scalia,scotus_justice,1834.103,1837.205,"So these seven people, nine people -- how many were there?"
+2013.12-729,2,18598,catherine_ma_carroll,,1840.34,1841.757,I think that's right.
+2013.12-729,2,15086,john_g_roberts_jr,scotus_justice,1842.441,1847.16,"So you're pushing this start to the statute of limitations period, and your answer to the problems is: Well, don't worry."
+2013.12-729,2,18598,catherine_ma_carroll,,1858.134,1870.959,"--Our position is that this limitation provision, like any limitation provision, whether contractual or statutory, is subject to equitable doctrines that might apply on the facts of a particular case."
+2013.12-729,2,15094,elena_kagan,scotus_justice,1876.696,1883.935,"Ms. Carroll, what would you think if the State here just amended its statutes tomorrow and said not 3 years but 18 months?"
+2013.12-729,2,18598,catherine_ma_carroll,,1897.643,1901.145,Strike the -- strike the State statute?
+2013.12-729,2,15094,elena_kagan,scotus_justice,1901.145,1901.328,Yes.
+2013.12-729,2,18598,catherine_ma_carroll,,1904.515,1924.843,"I mean, I -- going back to the preemption analysis that Justice Alito referred to, I think that provision would clearly fall within the savings clause, and the thrust of this Court's ERISA implied conflict preemption cases has been to ask only whether the State law purports to supplement or displace the exclusive remedial scheme under ERISA."
+2013.12-729,2,15094,elena_kagan,scotus_justice,1941.788,1942.89,I'm sorry.
+2013.12-729,2,18598,catherine_ma_carroll,,1954.463,1965.27,"--I think -- I think we would apply that same analysis of asking, has there been a reasonable opportunity for full and fair review, and has the claimant been deprived of the opportunity to seek judicial review?"
+2013.12-729,2,15094,elena_kagan,scotus_justice,1965.27,1965.603,"Well, but in 18 months."
+2013.12-729,2,18598,catherine_ma_carroll,,1971.171,1971.923,Yes.
+2013.12-729,2,15094,elena_kagan,scotus_justice,1971.923,1972.523,Is 18 months enough?
+2013.12-729,2,18598,catherine_ma_carroll,,1972.523,1984.747,"I think that would be a much harder case, because I do think we -- I think our -- our experience with ERISA provisions generally does suggest that exhaustion can take, you know, usually about a year, maybe a little over a year."
+2013.12-729,2,15094,elena_kagan,scotus_justice,2000.856,2010.881,"Well, what's the rule of law -- what's the rule of law that allows to get rid of a contract provision that's set at 14 months or 15 months or 16 months and to leave this one?"
+2013.12-729,2,18598,catherine_ma_carroll,,2010.881,2020.087,"--Well, I don't want to -- if I -- if I -- if I suggested that I wanted to completely concede that, I misspoke because I think it's a hard question."
+2013.12-729,2,15094,elena_kagan,scotus_justice,2021.52,2025.905,"I was thinking that I would like to -- like, 14 months would just seem unreasonable to me."
+2013.12-729,2,18598,catherine_ma_carroll,,2025.905,2026.138,--Okay.
+2013.12-729,2,15139,stephen_g_breyer,scotus_justice,2045.135,2047.968,"There, your opponent is saying: I have a simpler answer."
+2013.12-729,2,18598,catherine_ma_carroll,,2074.569,2083.926,"--Justice Breyer, the question before the Court is not what would be the best idea or the best, most simple model if we were writing on a blank slate."
+2013.12-729,2,15068,samuel_a_alito_jr,scotus_justice,2112.094,2120.267,Why would -- why would employers with ERISA plans be hurt by the rule that the Petitioner is advocating going forward?
+2013.12-729,2,18598,catherine_ma_carroll,,2146.084,2153.338,"I do think that the current wording of the provision has a lot to recommend it, and that's why you see it used as the typical model in insurance."
+2013.12-729,2,15068,samuel_a_alito_jr,scotus_justice,2155.857,2157.373,The current model being the proof of loss?
+2013.12-729,2,18598,catherine_ma_carroll,,2157.373,2158.59,--Being proof of loss.
+2013.12-729,2,15068,samuel_a_alito_jr,scotus_justice,2158.992,2159.658,And why is that preferable?
+2013.12-729,2,18598,catherine_ma_carroll,,2159.658,2184.373,"--That is because, from the moment the claim is filed, we know at the outset that the books can be closed on the claim for reserving purposes three years from the proof of loss date; whereas under a limitation period that does not commence until the conclusion of the administrative process, we won't know from the outset when the limitation period will run or not."
+2013.12-729,2,15084,ruth_bader_ginsburg,scotus_justice,2188.975,2198.964,"Isn't it true that in insurance contracts generally, where there is this proof of loss as the trigger, there isn't a mandatory administrative?"
+2013.12-729,2,18598,catherine_ma_carroll,,2203.168,2215.742,"Justice Ginsburg, that's actually not correct, and we've provided some examples at pages 20 to 21 of the red brief that show how these provisions do commonly work in the traditional insurance context."
+2013.12-729,2,15086,john_g_roberts_jr,scotus_justice,2358.784,2368.909,"Well, but there's no -- there's no employer who is going to have a plan put together and say, well, I'm not going to do this unless the statute of limitations for claims runs from the proof of loss."
+2013.12-729,2,18598,catherine_ma_carroll,,2375.646,2381.634,"I -- I think that it's a broader point, however, in terms of the uncertainty that this would raise."
+2013.12-729,2,15131,sonia_sotomayor,scotus_justice,2422.027,2432.499,"Well, what would your argument be if -- if this -- if ERISA said there is a minimum 3-year statute of limitations?"
+2013.12-729,2,18598,catherine_ma_carroll,,2450.878,2461.502,"Under the -- under the principle this Court recognized in Riddlesbarger and Wolfe, parties to a contract may agree to a limitation period that differs from one in the governing scheme."
+2013.12-729,2,15131,sonia_sotomayor,scotus_justice,2462.219,2468.09,So do you require an explicit agreement that the start is going to be different as well?
+2013.12-729,2,18598,catherine_ma_carroll,,2468.09,2469.873,--An explicit agreement--
+2013.12-729,2,15131,sonia_sotomayor,scotus_justice,2469.873,2476.793,"That you can shorten or lengthen a limitations period, but this is not about shortening or lengthening a limitations period."
+2013.12-729,2,18598,catherine_ma_carroll,,2486.999,2499.223,"--Your Honor, if I am understanding the question correctly, I think if you -- if you begin from the premise, as I think all parties do, that -- that contracting parties may agree to the length of the limitation period--"
+2013.12-729,2,15131,sonia_sotomayor,scotus_justice,2499.223,2499.392,Right.
+2013.12-729,2,18598,catherine_ma_carroll,,2499.392,2509.764,--A limitation period -- a length of a limitation period can't be defined or expressed without reference to some starting point.
+2013.12-729,2,15131,sonia_sotomayor,scotus_justice,2524.608,2526.043,So you think Congress would only legislate in that way.
+2013.12-729,2,18598,catherine_ma_carroll,,2526.043,2526.66,--I'm sorry?
+2013.12-729,2,15131,sonia_sotomayor,scotus_justice,2526.66,2529.012,You think Congress would only legislate that way.
+2013.12-729,2,18598,catherine_ma_carroll,,2538.183,2545.937,"Well, typically, Congress writes limitations periods that run from the time the “ cause of action ”, quote-unquote, accrues, which is why this Court--"
+2013.12-729,2,15131,sonia_sotomayor,scotus_justice,2545.937,2546.421,That's much better.
+2013.12-729,2,18598,catherine_ma_carroll,,2546.421,2548.739,--usually has to decide when the cause of action accrued.
+2013.12-729,2,15049,antonin_scalia,scotus_justice,2585.848,2592.835,Do you have any position on whether the executive can prescribe when -- when suit must be brought?
+2013.12-729,2,18598,catherine_ma_carroll,,2592.835,2617.969,"I -- here's how the Department of Labor has threaded that needle, and that is in the provisions of the regulations that say things like, if an ERISA plan provides for additional voluntary appeals beyond the minimum that's necessary, then the plan must agree to -- not to assert any defense based on the statute of limitations or timeliness."
+2013.12-729,2,15084,ruth_bader_ginsburg,scotus_justice,2660.979,2680.959,"Ms. Carroll, did I understand you before to be taking the position that even if Congress enacted a statute of limitations with an accrual rule, that that might not be effective as against a plan provision that provides for the trigger being proof of claim?"
+2013.12-729,2,18598,catherine_ma_carroll,,2680.959,2692.933,I -- I think it would be a question of statutory interpretation there whether the inclusion of a particular statute of limitations was meant to limit contracting parties' ability to agree to a different one.
+2013.12-729,2,15049,antonin_scalia,scotus_justice,2715.613,2718.148,"They're not going to do this for a lobby of nine people, are they?"
+2013.12-729,2,18598,catherine_ma_carroll,,2718.148,2721.867,I -- I wouldn't expect so.
+2013.12-729,2,15139,stephen_g_breyer,scotus_justice,2721.867,2724.052,"But if they do that, the question answers itself."
+2013.12-729,2,18598,catherine_ma_carroll,,2739.409,2741.525,"I -- I think that's right, yes."
+2013.12-729,2,15139,stephen_g_breyer,scotus_justice,2741.525,2742.444,And how long on average?
+2013.12-729,2,18598,catherine_ma_carroll,,2747.513,2751.55,"Well, the 3 years from proof of loss is the standard provision."
+2013.12-729,2,15139,stephen_g_breyer,scotus_justice,2752.383,2753.8,It's the standard provision in contracts.
+2013.12-729,2,18598,catherine_ma_carroll,,2753.8,2754.419,Yes.
+2013.12-729,2,15139,stephen_g_breyer,scotus_justice,2758.971,2760.838,"Well, I mean -- in certain types of insurance contracts."
+2013.12-729,2,18598,catherine_ma_carroll,,2768.008,2793.642,"I -- I have -- I -- we have looked far and wide for empirical information about this and the best I can do is to refer Your Honor to page 29 of the amicus brief for the American Council of Life Insurers, which does collect a little bit of empirical information about the exceeding rarity with which this issue ever arises in ERISA cases and the typical length of time that's required to exhaust."
+2013.12-729,2,15086,john_g_roberts_jr,scotus_justice,2793.642,2796.677,"Well, it's hard to see what you mean by the exceeding rarity."
+2013.12-729,2,18598,catherine_ma_carroll,,2836.252,2840.973,"Well, of course in this case, the Petitioner did have counsel from relatively early on in the process."
+2013.12-729,2,15086,john_g_roberts_jr,scotus_justice,2840.973,2841.906,"Well, she was very prudent."
+2013.12-729,2,18598,catherine_ma_carroll,,2841.906,2842.573,So I'm not sure that -- Pardon?
+2013.12-729,2,15086,john_g_roberts_jr,scotus_justice,2842.573,2845.708,"I mean, she didn't know when it was going to run, you'd better get somebody in there right away."
+2013.12-729,2,18598,catherine_ma_carroll,,2869.906,2875.144,"And, Your Honor, that easy, inexpensive process is how it works in the vast majority of cases."
+2013.12-729,2,15086,john_g_roberts_jr,scotus_justice,2885.602,2886.218,"Well, that's my point."
+2013.12-729,2,18598,catherine_ma_carroll,,2893.172,2894.458,"--Oh, I think that's right."
+2013.12-729,2,15086,john_g_roberts_jr,scotus_justice,2921.608,2931.564,"Well, and it's probably a claimant that doesn't have all that much experience in the legal system and doesn't know how long does it take, you know, to get a complaint ready and -- I don't know."
+2013.12-729,2,18598,catherine_ma_carroll,,2947.423,2957.547,"Well, I mean, granted all statutes of limitations do impose some obligation on would-be plaintiffs to take steps to protect themselves."
+2013.12-729,2,15113,anthony_m_kennedy,scotus_justice,2962.016,2969.27,"It's fair to say, in other words, that it's typical in the insurance industry that statute of limitations run from proof of loss?"
+2013.12-729,2,18598,catherine_ma_carroll,,2969.27,2976.69,"In the group -- in the group benefit plans of the type that are subject to ERISA, that is very common."
+2013.12-729,2,15113,anthony_m_kennedy,scotus_justice,2987.314,2987.647,From occurrence?
+2013.12-729,2,18598,catherine_ma_carroll,,2988.797,2989.397,Exactly.
+2013.12-729,2,15068,samuel_a_alito_jr,scotus_justice,3016.214,3027.27,"Well, you started to answer this question before, but I'm not sure I understand the answer: Why this proof of loss model is -- is so attractive in the disability insurance field."
+2013.12-729,2,18598,catherine_ma_carroll,,3037.711,3045.984,"I -- I think what I meant by that was under what I take Your Honor to mean by an accrual rule, meaning a limitation period that runs--"
+2013.12-729,2,15068,samuel_a_alito_jr,scotus_justice,3045.984,3046.4,"Right, right."
+2013.12-729,2,18598,catherine_ma_carroll,,3046.4,3052.487,"--at the conclusion of the administrative process, we don't know at the time that the claim is initially presented when that's going to be."
+2013.12-729,2,15139,stephen_g_breyer,scotus_justice,3064.628,3069.265,It's -- the doctrine of exhaustion is a judge-created doctrine.
+2013.12-729,2,18598,catherine_ma_carroll,,3069.265,3069.699,Correct.
+2013.12-729,2,15139,stephen_g_breyer,scotus_justice,3069.699,3074.584,"And therefore you cannot, in your contract, contract yourself around it."
+2013.12-729,2,18598,catherine_ma_carroll,,3075.519,3076.319,No.
+2013.12-729,2,15139,stephen_g_breyer,scotus_justice,3076.319,3110.174,"So what this would require would be to say that that judge-created doctrine requires exhaustion to take place before the accrual of the statute of limitations, end of opinion -- for the reason of certainty, for the reason of uniformity, for the reason of avoiding, through hiring lawyers, et cetera, an interference with the voluntary nature, simple nature, and hopefully pre-legal involvement nature of that exhaustion process, all right?"
+2013.12-729,2,18598,catherine_ma_carroll,,3114.628,3115.228,The--
+2013.12-729,2,15139,stephen_g_breyer,scotus_justice,3115.228,3117.194,What trouble in the industry would that cause?
+2013.12-729,2,18598,catherine_ma_carroll,,3117.194,3124.167,"--The -- that trouble -- that would cause trouble for every employer, plan sponsor, insurer that has an ERISA plan."
+2013.12-729,2,15049,antonin_scalia,scotus_justice,3158.671,3165.242,I thought that this contract required exhaustion of administrative remedies before you can sue.
+2013.12-729,2,18598,catherine_ma_carroll,,3166.242,3166.761,It is.
+2013.12-729,2,15049,antonin_scalia,scotus_justice,3166.761,3168.927,So it's not a judge-created doctrine.
+2013.12-729,2,18598,catherine_ma_carroll,,3168.927,3170.027,It's--
+2013.12-729,2,15049,antonin_scalia,scotus_justice,3170.027,3178.966,"I mean, we create it in other instances where -- where there are agency, you know, requirements to go through the agency, and we -- we make it up."
+2013.12-729,2,18598,catherine_ma_carroll,,3182.835,3184.02,--It is in the contract.
+2013.12-729,2,15049,antonin_scalia,scotus_justice,3184.02,3189.756,"So we are not as entitled to fiddle with it as much as we are when it is our creation, I suppose."
+2013.12-729,2,18598,catherine_ma_carroll,,3189.756,3194.225,"Well, but even when it is the Court's creation it is not without exceptions; it is not jurisdictional."
+2013.12-729,2,15094,elena_kagan,scotus_justice,3204.181,3204.597,"Ms. Carroll, please tell me if I'm wrong."
+2013.12-729,2,18598,catherine_ma_carroll,,3212.103,3214.103,"That's -- that's correct, for good reason, although with exceptions."
+2013.12-729,2,15094,elena_kagan,scotus_justice,3214.103,3216.921,And courts have required it even though the statute doesn't say so.
+2013.12-729,2,18598,catherine_ma_carroll,,3216.921,3217.84,That's true.
+2013.12-729,2,15094,elena_kagan,scotus_justice,3217.84,3223.158,"It's an extra-textual requirement the courts have made up, irrespective of what the contract provides."
+2013.12-729,2,18598,catherine_ma_carroll,,3223.158,3224.327,That's true.
+2013.12-729,2,15086,john_g_roberts_jr,scotus_justice,3230.179,3230.629,Did I--
+2013.12-729,2,18598,catherine_ma_carroll,,3230.629,3255.01,"And as the party that has come forward to say that even though I am trying to enforce this plan, I nevertheless want to jettison the plan terms, I think the Petitioner bears a burden to say there is some anchor in the statute or some basis in evidence or experience to say, not simply to speculate, that there is a potential clash with the remedial scheme, but that there is one."
+2013.12-729,2,15094,elena_kagan,scotus_justice,3255.01,3274.322,"I think what Justice Breyer was suggesting, that maybe, given that we have this sort of judge-made rule of exhaustion, that the courts just did sort of a half job of it, that they also should have put the statute of limitations that makes that exhaustion requirement work, and that ensures that it doesn't produce unfair, bad outcomes."
+2013.12-729,2,18598,catherine_ma_carroll,,3274.322,3287.566,"I think if there is a -- if there is a question as between a judge-made doctrine and the terms of a plan as to which should give way, I think Congress has made clear that it is the terms of the plan that ought to control, as have the courts made clear."
+2013.12-729,2,15094,elena_kagan,scotus_justice,3287.566,3292.2,"The Congress was dealing -- you know, Congress passed ERISA before this exhaustion requirement came into play."
+2013.12-729,2,18598,catherine_ma_carroll,,3302.225,3302.391,I--
+2013.12-729,2,15094,elena_kagan,scotus_justice,3302.391,3304.391,--and the courts put it on later.
+2013.12-729,2,18598,catherine_ma_carroll,,3304.391,3305.51,--I'm not sure about that.
+2013.12-729,2,15086,john_g_roberts_jr,scotus_justice,3314.116,3321.37,--Did I understand -- did I understand you earlier to say we have not had a case where we have overridden plan terms in ERISA plans?
+2013.12-729,2,18598,catherine_ma_carroll,,3321.37,3331.075,"In a -- in a suit under section 1132(a)(1)(B) to enforce a plan term, there is no decision in which this Court has said we can simply ignore plan terms."
+2013.12-729,2,15086,john_g_roberts_jr,scotus_justice,3331.075,3332.844,"Well, simply ignore."
+2013.12-729,2,18598,catherine_ma_carroll,,3335.46,3335.879,No.
+2013.12-729,2,15086,john_g_roberts_jr,scotus_justice,3335.879,3336.379,No.
+2013.12-729,2,18598,catherine_ma_carroll,,3336.379,3338.229,No.
+2013.12-729,2,15139,stephen_g_breyer,scotus_justice,3370.8,3375.52,"Look, you agree that we would overturn the plan term if the plan term was no exhaustion?"
+2013.12-729,2,18598,catherine_ma_carroll,,3375.52,3376.587,--I'm sorry?
+2013.12-729,2,15139,stephen_g_breyer,scotus_justice,3376.587,3383.61,The courts would overturn a plan term which plan term said no exhaustion.
+2013.12-729,2,18598,catherine_ma_carroll,,3383.61,3388.161,"I -- well, I doubt very much you would ever encounter a plan term."
+2013.12-729,2,15139,stephen_g_breyer,scotus_justice,3388.161,3401.235,"Of course not, because what we are trying to do -- and employers are very cooperative and we are trying to work out a system with the exhaustion thing that will not destroy ERISA plans or something."
+2013.12-729,2,18598,catherine_ma_carroll,,3401.235,3401.668,Right.
+2013.12-729,2,15139,stephen_g_breyer,scotus_justice,3401.668,3408.505,It -- it's which is the -- and that's why I phrased it in terms of an explanation of the exhaustion requirement.
+2013.12-729,2,18598,catherine_ma_carroll,,3408.505,3408.738,Yes.
+2013.12-729,2,15086,john_g_roberts_jr,scotus_justice,3424.597,3425.716,"Thank you, counsel."
+2013.12-729,2,18598,catherine_ma_carroll,,3425.716,3426.299,Thank you.
+2013.12-729,3,36939,matthew_wh_wessler,,3426.299,3431.034,Thank you.
+2013.12-729,3,15086,john_g_roberts_jr,scotus_justice,3432.536,3433.619,I'm sorry; you have 4 minutes left.
+2013.12-729,3,36939,matthew_wh_wessler,,3433.619,3434.186,Thank you.
+2013.12-729,3,15131,sonia_sotomayor,scotus_justice,3446.11,3446.777,What case is that?
+2013.12-729,3,36939,matthew_wh_wessler,,3446.777,3449.146,"--UNUM v. Ward, Your Honor."
+2013.12-729,3,15068,samuel_a_alito_jr,scotus_justice,3566.654,3574.843,"Well, if we agree with you, would the Federal courts and maybe ultimately this Court in the end have to specify what the statute of limitations is, the length of time?"
+2013.12-729,3,36939,matthew_wh_wessler,,3589.953,3590.887,I -- I think not.
+2013.12-729,3,15068,samuel_a_alito_jr,scotus_justice,3598.876,3606.881,"They specify a lot of different lengths, and then they're all challenged -- different ones are challenged in different courts, and the courts have to say what's reasonable."
+2013.12-729,3,36939,matthew_wh_wessler,,3613.202,3616.07,"--I think that -- I think two answers to that, Your Honor."
+2013.12-729,3,15086,john_g_roberts_jr,scotus_justice,3666.884,3667.269,"Thank you, counsel."

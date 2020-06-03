@@ -1,0 +1,76 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1991.90-1029,0,15141,william_h_rehnquist,scotus_justice,0.0,10.118,"We'll hear argument now in No. 90-1029, the Eastman Kodak Company v. Image Technical Services, Inc.--"
+1991.90-1029,0,21367,donn_p_pickett,,11.59,19.828,"Mr. Chief Justice, and may it please the Court:"
+1991.90-1029,0,15092,sandra_day_oconnor,scotus_justice,110.097,113.189,"Mr. Pickett, may I ask a question?"
+1991.90-1029,0,21367,donn_p_pickett,,129.961,133.645,"In the great majority of instances, they are things that are manufactured by Kodak."
+1991.90-1029,0,15092,sandra_day_oconnor,scotus_justice,146.204,154.138,"So the only source of supply would have to be from Kodak, if the respondents were to buy these parts?"
+1991.90-1029,0,21367,donn_p_pickett,,154.138,160.234,"Well, unless they made them themselves, or unless they disassembled used equipment, or unless they sought other sources."
+1991.90-1029,0,15049,antonin_scalia,scotus_justice,171.98,184.088,"Mr. Pickett, I had thought when we took this case, that the absence of market power in the equipment market was a given."
+1991.90-1029,0,21367,donn_p_pickett,,185.31,189.083,"--It is a given, Your Honor, absolutely."
+1991.90-1029,0,15049,antonin_scalia,scotus_justice,193.384,194.696,Am I mistaken that it's challenged in the briefs here?
+1991.90-1029,0,21367,donn_p_pickett,,194.696,196.687,--It is for the very first time in the briefs on the merit.
+1991.90-1029,0,15049,antonin_scalia,scotus_justice,221.747,223.599,What about the response to the petition for cert?
+1991.90-1029,0,21367,donn_p_pickett,,226.181,228.755,"No, none whatsoever in the response to the petition for cert.--"
+1991.90-1029,0,15049,antonin_scalia,scotus_justice,228.755,239.814,"--Because your question does... your question presented in the petition is does a vertically integrated equipment manufacturer that lacks market power in fiercely competitive interbrand competition violate Sherman Act, et cetera, et cetera."
+1991.90-1029,0,21367,donn_p_pickett,,239.814,240.114,--And that--
+1991.90-1029,0,15049,antonin_scalia,scotus_justice,240.114,241.965,So I had assumed that that's what we were going to talk about today.
+1991.90-1029,0,21367,donn_p_pickett,,241.965,243.845,"--Absolutely, and that is what I will talk about today."
+1991.90-1029,0,15042,david_h_souter,scotus_justice,247.638,251.202,"Mr. Pickett, may I just go back to an issue of fact in your earlier answer?"
+1991.90-1029,0,21367,donn_p_pickett,,259.677,260.298,--Primarily by Kodak.
+1991.90-1029,0,15042,david_h_souter,scotus_justice,260.298,262.019,What's the relative share?
+1991.90-1029,0,21367,donn_p_pickett,,262.751,268.714,The relative share is something on the order of 75 percent by Kodak.
+1991.90-1029,0,15060,john_paul_stevens,scotus_justice,272.357,273.258,Was that in the record?
+1991.90-1029,0,21367,donn_p_pickett,,273.258,277.181,--That is in the record in the declarations provided by Kodak in the summary judgment.
+1991.90-1029,0,15141,william_h_rehnquist,scotus_justice,337.741,342.605,"Mr. Pickett, you're giving us kind of a narrative account of things."
+1991.90-1029,0,21367,donn_p_pickett,,349.557,350.268,"Yes, Your Honor."
+1991.90-1029,0,15141,william_h_rehnquist,scotus_justice,350.268,358.355,I hope you'll be careful when you give the narrative account to make sure that you limit yourself to the sort of things you're justified in arguing on this posture.
+1991.90-1029,0,21367,donn_p_pickett,,358.355,360.536,"That's right, Mr. Chief Justice."
+1991.90-1029,0,15141,william_h_rehnquist,scotus_justice,364.439,369.833,"Well, so on whom is the burden of proof in that situation in the trial court?"
+1991.90-1029,0,21367,donn_p_pickett,,369.833,372.665,"Well, the burden of proof, of course, is on plaintiffs."
+1991.90-1029,0,15141,william_h_rehnquist,scotus_justice,384.653,387.246,Since they... you say they had the burden of proof.
+1991.90-1029,0,21367,donn_p_pickett,,389.049,392.401,"--Well, they would have the obligation to put forward those affidavits."
+1991.90-1029,1,32684,james_f_rill,,974.511,983.335,"Mr. Chief Justice, and may it please the Court:"
+1991.90-1029,1,15141,william_h_rehnquist,scotus_justice,1037.041,1050.871,"You say then that Matsushita, or Matsushita, as you pronounce it, laid down a different rule as to summary judgment for antitrust cases than prevails in the rest of the legal area?"
+1991.90-1029,1,32684,james_f_rill,,1050.871,1053.131,"No, Mr. Chief Justice, I do not."
+1991.90-1029,1,15141,william_h_rehnquist,scotus_justice,1097.719,1110.869,"Well, the court of appeals, as I understand its opinion here, took the position that maybe things wouldn't work out in the real world, so to speak, the same way they do in economic theory."
+1991.90-1029,1,32684,james_f_rill,,1124.737,1141.419,"Yes, Your Honor, it's the position of the United States that the court of appeals erred in reversing summary judgment on the grounds of some generalized... with all respect... speculation with respect to market imperfections that might exist."
+1991.90-1029,1,15060,john_paul_stevens,scotus_justice,1173.49,1178.332,"Mr. Rill, the issue wasn't whether there was competition in the equipment market."
+1991.90-1029,1,32684,james_f_rill,,1183.016,1187.639,"Justice Stevens, the answer is yes."
+1991.90-1029,1,15060,john_paul_stevens,scotus_justice,1203.219,1206.221,And why is that?
+1991.90-1029,1,32684,james_f_rill,,1214.807,1224.234,"As this case was presented to the court of appeals, and came up upon review before this Court, there's been a concession that the parts market can be a relevant market."
+1991.90-1029,1,15060,john_paul_stevens,scotus_justice,1224.234,1225.426,The parts market can?
+1991.90-1029,1,32684,james_f_rill,,1225.426,1229.329,"The parts market can be a relevant market, as this case is presented."
+1991.90-1029,1,15060,john_paul_stevens,scotus_justice,1236.245,1238.396,"No, not impossible, you said implausible."
+1991.90-1029,1,32684,james_f_rill,,1238.396,1238.606,--Implausible.
+1991.90-1029,2,30743,james_a_hennefer,,1573.022,1579.708,"Mr. Chief Justice, and may it please the Court:"
+1991.90-1029,2,15049,antonin_scalia,scotus_justice,1605.277,1608.949,"Excuse me, why didn't you debate that in the response to the petition for certiorari?"
+1991.90-1029,2,30743,james_a_hennefer,,1618.558,1635.75,"--Well, because this was one of many factors, and we didn't consider it the most important factor on why the... why power in the basic equipment market does not discipline prices and power in the parts and service markets."
+1991.90-1029,2,15049,antonin_scalia,scotus_justice,1635.75,1649.309,"It was the premise of the whole question presented, question number one presented: Does a vertically integrated equipment manufacturer that lacks market power in fiercely competitive interbrand equipment markets violate the Sherman Act by declining to sell replacement parts?"
+1991.90-1029,2,30743,james_a_hennefer,,1659.307,1665.86,"We didn't feel that this was fundamental to defending the judgment in the Ninth Circuit, as--"
+1991.90-1029,2,15049,antonin_scalia,scotus_justice,1665.86,1666.239,"Well, maybe it isn't."
+1991.90-1029,2,30743,james_a_hennefer,,1667.09,1667.25,--Yes.
+1991.90-1029,2,15049,antonin_scalia,scotus_justice,1667.25,1670.042,"--to listen to whatever other arguments you have, but not to that one."
+1991.90-1029,2,30743,james_a_hennefer,,1682.53,1683.481,"Well, the Ninth Circuit--"
+1991.90-1029,2,15071,byron_r_white,scotus_justice,1683.481,1684.252,Isn't that right?
+1991.90-1029,2,30743,james_a_hennefer,,1684.252,1688.215,"--Yes, it proceeded that there was some market share and some market power."
+1991.90-1029,2,15071,byron_r_white,scotus_justice,1688.215,1691.528,"Well, you didn't make an issue out of it before them, apparently."
+1991.90-1029,2,30743,james_a_hennefer,,1691.528,1698.513,"There was an issue, Your Honor, presented in Kodak's own declarations as to whether--"
+1991.90-1029,2,15071,byron_r_white,scotus_justice,1698.513,1704.538,"Well, are you defending... are you defending the... the court of appeals' decision and its rationale?"
+1991.90-1029,2,30743,james_a_hennefer,,1704.538,1706.248,"--Yes, we are arguing that--"
+1991.90-1029,2,15071,byron_r_white,scotus_justice,1706.248,1708.367,"Well, you don't need this other argument, then, do you?"
+1991.90-1029,2,30743,james_a_hennefer,,1708.367,1710.29,--We don't have to have that argument.
+1991.90-1029,2,15141,william_h_rehnquist,scotus_justice,1710.29,1715.233,"Well, are you with... are you withdrawing any concessions that you've made previously in the case?"
+1991.90-1029,2,30743,james_a_hennefer,,1715.233,1717.363,"Well, no, we have not made a concession to Kodak."
+1991.90-1029,2,15141,william_h_rehnquist,scotus_justice,1717.694,1722.009,Or are you contesting issues now that you did not contest earlier?
+1991.90-1029,2,30743,james_a_hennefer,,1722.009,1722.219,--Yes.
+1991.90-1029,3,21367,donn_p_pickett,,3344.068,3351.612,"Mr. Chief Justice, I'd like to clear up one point, with respect to your question concerning affirmative defenses and burden."
+1991.90-1029,3,15141,william_h_rehnquist,scotus_justice,3365.042,3367.974,"Well, do you have a... case authority for that?"
+1991.90-1029,3,21367,donn_p_pickett,,3367.974,3382.594,"--Certainly, every monopolization and market power... Jefferson Parish for tying, and Aspen or any other monopolization case, says that there must be the requisite economic power on the part of respondents."
+1991.90-1029,3,15060,john_paul_stevens,scotus_justice,3393.763,3394.783,"May I ask, sir--"
+1991.90-1029,3,21367,donn_p_pickett,,3394.783,3394.924,--Sure.
+1991.90-1029,3,15060,john_paul_stevens,scotus_justice,3394.924,3397.447,--Do you agree with his characterization of the remainder of the market?
+1991.90-1029,3,21367,donn_p_pickett,,3398.977,3403.317,"No, he's left out the Japanese manufacturers, who are significant."
+1991.90-1029,3,15060,john_paul_stevens,scotus_justice,3403.838,3405.019,What percentage do they represent?
+1991.90-1029,3,21367,donn_p_pickett,,3406.17,3418.468,"--Back in 1986, they represented in the high-volume segment of copiers, approximately 10 percent; in the lower-volume areas, they were the dominant competitors, along with Xerox."
+1991.90-1029,3,15060,john_paul_stevens,scotus_justice,3460.758,3461.299,May I just ask this question?
+1991.90-1029,3,21367,donn_p_pickett,,3478.822,3482.385,"Well, they presented a couple of anecdotes in declarations--"

@@ -1,0 +1,271 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2010.10-6,0,15086,john_g_roberts_jr,scotus_justice,0.0,9.022,"We'll hear argument next this morning in Case 10-6, Global-Tech Appliances v. SEB S.A.--"
+2010.10-6,0,44523,william_dunnegan,,10.156,13.358,"Mr. Chief Justice, and may it please the Court:"
+2010.10-6,0,15049,antonin_scalia,scotus_justice,64.723,66.658,"And that's okay, as far as you're concerned?"
+2010.10-6,0,44523,william_dunnegan,,70.36,74.562,"Your Honor, deliberate indifference would not fall--"
+2010.10-6,0,15049,antonin_scalia,scotus_justice,74.562,76.681,"Would not, but willful blindness would?"
+2010.10-6,0,44523,william_dunnegan,,76.681,77.348,"--No, Your Honor."
+2010.10-6,0,15049,antonin_scalia,scotus_justice,80.883,82.983,So even willful blindness wouldn't be enough?
+2010.10-6,0,44523,william_dunnegan,,82.983,85.001,"Willful blindness in not a purpose, Your Honor."
+2010.10-6,0,15084,ruth_bader_ginsburg,scotus_justice,85.001,97.476,You said that the particular patent -- the defendant would have to know that the device infringed the particular patent.
+2010.10-6,0,44523,william_dunnegan,,105.397,121.072,"Well, you wouldn't have to know the patent number, Your Honor, but what you would have to know is that your -- the product which you are inducing a third party to make, use, or sell would be within the scope of a -- of the claims of a particular patent."
+2010.10-6,0,15084,ruth_bader_ginsburg,scotus_justice,124.024,126.31,But you can keep yourself ignorant of it.
+2010.10-6,0,44523,william_dunnegan,,153.877,155.745,"--It didn't do that, Your Honor."
+2010.10-6,0,15084,ruth_bader_ginsburg,scotus_justice,164.435,171.355,But didn't tell that patent attorney that they had reverse-engineered a particular product.
+2010.10-6,0,44523,william_dunnegan,,188.634,189.7,"We don't know, Your Honor."
+2010.10-6,0,15084,ruth_bader_ginsburg,scotus_justice,195.287,197.387,But I didn't ask you about this patent search.
+2010.10-6,0,44523,william_dunnegan,,216.2,218.333,It's possible that he wouldn't have.
+2010.10-6,0,15049,antonin_scalia,scotus_justice,223.218,225.487,"Well, why -- why wouldn't you tell him?"
+2010.10-6,0,44523,william_dunnegan,,247.3,249.602,"Your Honor, maybe that's what you would have done."
+2010.10-6,0,15049,antonin_scalia,scotus_justice,265.426,269.23,Was their practice to reverse-engineer from other people's products?
+2010.10-6,0,44523,william_dunnegan,,269.23,270.363,Yes--
+2010.10-6,0,15049,antonin_scalia,scotus_justice,270.363,273.849,"I mean, I can understand when you have a new product of your own; of course, you just give it to an attorney."
+2010.10-6,0,44523,william_dunnegan,,313.859,320.996,"--Your Honor, looking back at this in hindsight, there's -- there's no question that if they had to do it again, they would have taken the additional step."
+2010.10-6,0,15049,antonin_scalia,scotus_justice,321.48,321.947,"No, they wouldn't."
+2010.10-6,0,44523,william_dunnegan,,321.947,338.707,"--No -- well, from an objective perspective, Your Honor, if you're giving the design to the -- to the attorney and you're saying do a complete search, it seems to me that that's the antithesis of being willful blind, because you're hiring a specialist to go out and look for the answer for you."
+2010.10-6,0,15068,samuel_a_alito_jr,scotus_justice,347.997,350.432,But your position is that even willful blindness is not enough.
+2010.10-6,0,44523,william_dunnegan,,354.419,355.419,"That is correct, Your Honor."
+2010.10-6,0,15068,samuel_a_alito_jr,scotus_justice,355.419,371.445,"So if the attorney had called up your client and said, I have an answer for you, and the client said, well, you know what, on second thought, I really don't want to know, because if I -- if I have actual knowledge, that may put me in a box; so forget about it."
+2010.10-6,0,44523,william_dunnegan,,373.297,383.086,"Well, I would disagree in that situation, because most probably the knowledge of the attorney in that situation, because he has been hired by the client, would be imputed to the client."
+2010.10-6,0,15131,sonia_sotomayor,scotus_justice,386.724,400.032,"Why would we -- wouldn't the rule that you're setting forth, willful blindness not being a part of it, mean that nobody would ever get a patent search, because what would be the inducement to do that?"
+2010.10-6,0,44523,william_dunnegan,,400.032,407.887,"Well, Your Honor, right now, under -- under the Seagate case in the Federal Circuit, there is no inducement to go get a patent search."
+2010.10-6,0,15131,sonia_sotomayor,scotus_justice,410.505,416.041,"No, but you're not presumed to copy other people's items, which is the difference."
+2010.10-6,0,44523,william_dunnegan,,439.773,442.809,"--No, Your Honor, I don't think that is willful blindness as a matter of law."
+2010.10-6,0,15131,sonia_sotomayor,scotus_justice,453.866,459.168,Do patents -- are patents -- can you do a patent search on the basis of the name of the holder?
+2010.10-6,0,44523,william_dunnegan,,459.168,460.62,"Yes, you can, Your Honor."
+2010.10-6,0,15131,sonia_sotomayor,scotus_justice,460.62,466.007,"And the product that they copied, did it have the name of the holder of the patent?"
+2010.10-6,0,44523,william_dunnegan,,466.007,467.557,"Yes, it did, Your Honor."
+2010.10-6,0,15131,sonia_sotomayor,scotus_justice,467.557,476.296,"So what is the likelihood that if they had actually given the attorney the name of the product, that he would not have found the patent?"
+2010.10-6,0,44523,william_dunnegan,,476.296,481.017,"We don't know for sure, but the probability would be greater than 50 percent, Your Honor."
+2010.10-6,0,15131,sonia_sotomayor,scotus_justice,481.017,487.02,"I think it would be probably 90 percent, assuming -- because there's always errors in searches."
+2010.10-6,0,15113,anthony_m_kennedy,scotus_justice,487.553,494.157,But didn't we take this case to determine whether or not deliberate indifference is the standard?
+2010.10-6,0,44523,william_dunnegan,,517.857,518.523,Purpose.
+2010.10-6,0,15113,anthony_m_kennedy,scotus_justice,518.523,521.927,"--or purposeful, culpable expression, the -- the Grokster standard?"
+2010.10-6,0,44523,william_dunnegan,,521.927,522.511,Yes.
+2010.10-6,0,15068,samuel_a_alito_jr,scotus_justice,544.09,549.161,"When I look at the language of the statute, I see no scienter requirement whatsoever."
+2010.10-6,0,44523,william_dunnegan,,564.004,570.591,Let me explain to you why your -- why the language of the statute should not support the interpretation which Your Honor just gave.
+2010.10-6,0,15068,samuel_a_alito_jr,scotus_justice,586.786,588.769,"You have intent, but intent to do what?"
+2010.10-6,0,44523,william_dunnegan,,588.769,589.603,"--Exactly, Your Honor."
+2010.10-6,0,15068,samuel_a_alito_jr,scotus_justice,606.181,607.265,What difference does that make?
+2010.10-6,0,44523,william_dunnegan,,610.818,612.501,"Because those are the acts, Your Honor."
+2010.10-6,0,15068,samuel_a_alito_jr,scotus_justice,632.148,633.165,"Well, I don't see that."
+2010.10-6,0,44523,william_dunnegan,,666.905,669.44,"That's not necessarily clear, Your Honor."
+2010.10-6,0,15086,john_g_roberts_jr,scotus_justice,697.107,698.074,Is your--
+2010.10-6,0,44523,william_dunnegan,,698.074,698.84,I--
+2010.10-6,0,15086,john_g_roberts_jr,scotus_justice,698.84,699.326,--I'm sorry.
+2010.10-6,0,44523,william_dunnegan,,699.326,700.509,"--No, please, Your Honor."
+2010.10-6,0,15086,john_g_roberts_jr,scotus_justice,700.509,712.184,"Is your position when you're -- when you're talking about willful blindness or purpose, whatever, is that with respect to a particular patent, or is it with respect to infringement of a patent?"
+2010.10-6,0,44523,william_dunnegan,,722.34,732.347,"If there is an area -- for example, semiconductors, where some amici have stated that there's -- there's 420,000 patents dealing with semiconductors."
+2010.10-6,0,15086,john_g_roberts_jr,scotus_justice,755.546,761.7,"But that's -- I mean, I understand you're in the deep fryer industry, but that standard would bring the semiconductor industry to a halt."
+2010.10-6,0,44523,william_dunnegan,,761.7,762.35,--No.
+2010.10-6,0,15086,john_g_roberts_jr,scotus_justice,779.709,791.183,"I think the -- the problem is, even if you do do your diligence, given the way patents are these days, if there are 420,000, you're never going to know with any degree of comfort that you're not going to infringe something."
+2010.10-6,0,44523,william_dunnegan,,791.183,793.266,"--That is very, very true, Your Honor."
+2010.10-6,0,15049,antonin_scalia,scotus_justice,800.372,803.491,"Well, we're not going to adopt a special rule for the deep-fryer industry."
+2010.10-6,0,44523,william_dunnegan,,804.257,805.041,--Agreed.
+2010.10-6,0,15049,antonin_scalia,scotus_justice,805.041,805.857,Especially--
+2010.10-6,0,44523,william_dunnegan,,805.857,806.826,Completely agreed.
+2010.10-6,0,15086,john_g_roberts_jr,scotus_justice,806.826,814.964,But we might decide that it's more important to consider what's going to happen to the semiconductor industry in articulating our standard than what's going to happen to the deep-fryer industry.
+2010.10-6,0,44523,william_dunnegan,,814.964,816.931,"That's exactly correct, Your Honor."
+2010.10-6,0,15094,elena_kagan,scotus_justice,841.699,850.555,"Mr. Dunnegan, suppose I disagree with you on that, and suppose I think that actual knowledge of a patent or willful blindness as to whether a patent exists is the right standard."
+2010.10-6,0,44523,william_dunnegan,,853.423,863.112,"--We don't think that a reasonable jury could have found willful blindness because, first of all, there wasn't a high probability that a patent would be found."
+2010.10-6,0,15094,elena_kagan,scotus_justice,866.147,880.138,"A reasonable jury couldn't have looked at the facts that Justice Ginsburg suggested -- you know, you do not tell the lawyer that you, in fact, have copied the product and say that's -- a reasonable jury -- that's willful blindness."
+2010.10-6,0,44523,william_dunnegan,,880.138,886.692,"--I don't think so, Your Honor, because what we have done in that situation was, first, we have done more than the law required."
+2010.10-6,0,15084,ruth_bader_ginsburg,scotus_justice,892.596,902.586,"But if you really wanted to know, wouldn't you have gone into Montgomery Ward and bought one of the fryers and turned it around to see if it had a patent number on it?"
+2010.10-6,0,44523,william_dunnegan,,902.586,909.74,"Your Honor, we have so many products that you couldn't practically expect the company to do that, I don't think."
+2010.10-6,0,15049,antonin_scalia,scotus_justice,909.74,916.413,"--Listen, the -- the reason you got the opinion from the lawyer was -- was not to make sure that there were no patents."
+2010.10-6,0,44523,william_dunnegan,,920.198,921.165,But your -- your--
+2010.10-6,0,15049,antonin_scalia,scotus_justice,921.165,929.238,"As a practical matter, you needed an opinion from a lawyer, because otherwise, Montgomery Ward was not going to sell this stuff."
+2010.10-6,0,44523,william_dunnegan,,929.238,944.83,"--Your Honor, I take issue with you for the following reason: I don't think there was any intention on the part of our client to -- to infringe a patent at all, because if it knew about the patent, it could have designed around it if it knew what it was doing."
+2010.10-6,0,15084,ruth_bader_ginsburg,scotus_justice,955.055,961.192,But isn't -- isn't it true that Sunbeam was the party that asked for the patent search?
+2010.10-6,0,44523,william_dunnegan,,961.192,964.311,"I don't believe that's in the record, Your Honor."
+2010.10-6,0,15084,ruth_bader_ginsburg,scotus_justice,981.17,987.342,And there's nothing in the record that says who -- who asked Pentalpha--
+2010.10-6,0,44523,william_dunnegan,,987.342,988.259,"Not that I'm aware of, Your Honor."
+2010.10-6,0,15084,ruth_bader_ginsburg,scotus_justice,988.259,989.076,--to get -- to get a letter?
+2010.10-6,0,15068,samuel_a_alito_jr,scotus_justice,989.076,993.846,"If this is not willful blindness, I don't know what willful blindness is."
+2010.10-6,0,44523,william_dunnegan,,1001.4,1001.936,Okay.
+2010.10-6,0,15068,samuel_a_alito_jr,scotus_justice,1024.349,1039.275,"But your client -- I don't know whether you're using your time most effectively by arguing this point, but your client thought that making a deep fryer that wouldn't burn people's hands if they touched it would be profitable, because there wasn't a lot of competition in that market."
+2010.10-6,0,44523,william_dunnegan,,1050.565,1052.1,"No, I -- well, is there--"
+2010.10-6,0,15068,samuel_a_alito_jr,scotus_justice,1052.1,1058.237,One company is making this and it seems to be better than what the other companies are making; maybe it might be patented.
+2010.10-6,0,44523,william_dunnegan,,1058.237,1066.176,"--Your Honor, the record is that there were six or so deep fryers which were the cool-touch deep fryers which they -- which they used as references."
+2010.10-6,0,15084,ruth_bader_ginsburg,scotus_justice,1075.615,1085.738,"Before -- before you pass that question, then why as in '607 did they pick the SEB fryer to reverse-engineer?"
+2010.10-6,0,44523,william_dunnegan,,1085.738,1088.006,"--They reverse -- they looked at all of them, Your Honor."
+2010.10-6,0,15084,ruth_bader_ginsburg,scotus_justice,1091.142,1094.844,And then they copied the design of the SEB.
+2010.10-6,0,44523,william_dunnegan,,1094.844,1097.027,"--Actually, Your Honor, they improved it."
+2010.10-6,0,15084,ruth_bader_ginsburg,scotus_justice,1106.817,1115.321,"But there was a finding that it was an infringement, that the Pentalpha fryer infringed the SEB."
+2010.10-6,0,44523,william_dunnegan,,1115.321,1116.607,"--The jury did find that, Your Honor."
+2010.10-6,0,15094,elena_kagan,scotus_justice,1116.607,1119.459,"Mr. Dunnegan, could I take you to the standard?"
+2010.10-6,0,44523,william_dunnegan,,1141.539,1150.93,The reason that you shouldn't take the standard from (c) is because (c) deals with nonstaples and (b) deals with staples.
+2010.10-6,0,15094,elena_kagan,scotus_justice,1176.146,1186.686,"No, (b) and (c) have different standards as to -- not the knowledge of the patent but -- but what the person is -- the acts that constitute infringement."
+2010.10-6,0,44523,william_dunnegan,,1191.638,1202.446,"Well, when you say there's different standards, the sale of an -- of a staple article under (b) in itself with a proper state of mind can be an inducement."
+2010.10-6,0,15113,anthony_m_kennedy,scotus_justice,1235.184,1241.338,I had thought that you wanted us to take the knowing standard in (c) and apply it to (b).
+2010.10-6,0,44523,william_dunnegan,,1241.338,1242.438,"--No, Your Honor, I--"
+2010.10-6,0,15113,anthony_m_kennedy,scotus_justice,1242.438,1243.821,Correct me if I'm wrong.
+2010.10-6,0,15049,antonin_scalia,scotus_justice,1243.821,1245.29,"No, more than that."
+2010.10-6,0,44523,william_dunnegan,,1245.29,1248.075,"--I would think you have to go with the Grokster standard, Your Honor."
+2010.10-6,0,15094,elena_kagan,scotus_justice,1261.683,1267.905,"But, Mr. Dunnegan, in Grokster, there was no question as to whether they knew that the -- that the things were copyrighted."
+2010.10-6,0,44523,william_dunnegan,,1267.905,1270.588,"--That was conceded in that case, Your Honor."
+2010.10-6,0,15094,elena_kagan,scotus_justice,1271.207,1273.357,So why is Grokster relevant here?
+2010.10-6,0,44523,william_dunnegan,,1275.475,1283.081,"Well, it's -- it's -- it's relevant because it deals with the standard what is -- what is the state of mind element for inducing copyright infringement."
+2010.10-6,0,15113,anthony_m_kennedy,scotus_justice,1283.081,1286.367,"And you say it's purposeful, culpable."
+2010.10-6,0,44523,william_dunnegan,,1286.367,1287.133,"Purposeful, culpable conduct -- yes."
+2010.10-6,0,15086,john_g_roberts_jr,scotus_justice,1287.133,1288.902,And why is that -- how is that different from knowing?
+2010.10-6,0,44523,william_dunnegan,,1294.723,1308.613,"Knowing, well -- the way I understand knowing, Your Honor, is that in Sony, for example, there was no liability even though Sony knew that some people were going to use the VCR to infringe copyrighted works."
+2010.10-6,0,15131,sonia_sotomayor,scotus_justice,1345.072,1346.672,--I'm -- I'm a little confused.
+2010.10-6,0,44523,william_dunnegan,,1366.235,1371.473,"Your Honor, I believe the first sentence of your question was if you knew that there was a patent."
+2010.10-6,0,15131,sonia_sotomayor,scotus_justice,1372.639,1373.256,Yes.
+2010.10-6,0,44523,william_dunnegan,,1373.256,1373.823,Okay.
+2010.10-6,0,15131,sonia_sotomayor,scotus_justice,1380.245,1383.281,"Well, we'll go as to -- let's -- let's just stop there."
+2010.10-6,0,44523,william_dunnegan,,1395.671,1396.254,--No.
+2010.10-6,0,15131,sonia_sotomayor,scotus_justice,1396.254,1397.104,Explain to me--
+2010.10-6,0,44523,william_dunnegan,,1397.104,1398.456,Because it should be -- it should be higher.
+2010.10-6,0,15131,sonia_sotomayor,scotus_justice,1404.027,1405.277,"--Well, then explain to me--"
+2010.10-6,0,44523,william_dunnegan,,1405.277,1405.71,--Okay.
+2010.10-6,0,15131,sonia_sotomayor,scotus_justice,1405.71,1418.87,"--what's not purposeful or knowing -- what's not purposeful, culpable conduct, if you know there's a patent or -- you can decide whether knowledge includes willful blindness or not, but it's not my issue."
+2010.10-6,0,44523,william_dunnegan,,1426.624,1431.944,"Because, Your Honor, if -- you could or you could not be, depending on what your purpose is with respect to infringement."
+2010.10-6,0,15131,sonia_sotomayor,scotus_justice,1438.415,1441.883,So you're introducing a mistake of law defense to knowledge.
+2010.10-6,0,44523,william_dunnegan,,1457.162,1465.583,"--Well, not exactly, Your Honor, because if you're reaching the conclusion that the product is not within the scope of the claims of the patent, I don't think that's law."
+2010.10-6,0,15086,john_g_roberts_jr,scotus_justice,1474.54,1475.206,"Well, you're talking--"
+2010.10-6,0,15131,sonia_sotomayor,scotus_justice,1475.206,1478.408,Why do you get off the hook for making a mistake of law?
+2010.10-6,0,44523,william_dunnegan,,1478.408,1481.36,A mistake of law -- generally you don't get off the hook.
+2010.10-6,0,15131,sonia_sotomayor,scotus_justice,1488.648,1491.966,You would never have any patents enforced under your theory.
+2010.10-6,0,44523,william_dunnegan,,1491.966,1493.002,"--Yes, we would, Your Honor."
+2010.10-6,0,15086,john_g_roberts_jr,scotus_justice,1515.832,1518.182,--But if you're -- I'm sorry.
+2010.10-6,0,44523,william_dunnegan,,1519.467,1520.117,"No, Your Honor."
+2010.10-6,0,15086,john_g_roberts_jr,scotus_justice,1520.75,1521.467,I'll wait.
+2010.10-6,0,44523,william_dunnegan,,1521.467,1525.521,"If the Court has no further questions, I would like to reserve my time."
+2010.10-6,0,15086,john_g_roberts_jr,scotus_justice,1525.521,1526.588,"Thank you, counsel."
+2010.10-6,1,38986,r_ted_cruz,,1531.592,1533.96,"Mr. Chief Justice, and may it please the Court:"
+2010.10-6,1,15094,elena_kagan,scotus_justice,1559.139,1562.877,So would you have any objection to an actual knowledge willful blindness standard?
+2010.10-6,1,38986,r_ted_cruz,,1564.31,1570.714,--I think that is one of multiple standards this Court could adopt if this Court were to adopt actual knowledge.
+2010.10-6,1,15094,elena_kagan,scotus_justice,1584.355,1586.955,I take it that we would do that on the basis of Aro II?
+2010.10-6,1,38986,r_ted_cruz,,1590.842,1597.746,"Respectfully, Justice Kagan, I don't think that would be an interpretation that is faithful to the text of 271."
+2010.10-6,1,15094,elena_kagan,scotus_justice,1608.534,1615.457,"Well, 271(c) includes the word knowing, you have to know that an item has no noninfringing uses."
+2010.10-6,1,38986,r_ted_cruz,,1619.175,1644.607,"--Respectfully, in Aro II what the Court did and it was, as you know, a splintered majority in Aro II where the dissenters flipped back and forth, but with the particular paragraph that addressed the holding on what had to be demonstrated, the Court concluded that that word knowing effectively modified both the knowledge that the nonstaple article had no noninfringing use and, and that it would cause the infringement."
+2010.10-6,1,15094,elena_kagan,scotus_justice,1649.261,1657.098,"And because of the infringement, but not necessarily that there was a patent, not necessarily the legal effect as opposed to the act."
+2010.10-6,1,38986,r_ted_cruz,,1657.098,1661.735,"Well, that is necessarily part of what the Court held in 271(c)."
+2010.10-6,1,15139,stephen_g_breyer,scotus_justice,1678.428,1684.065,"How do you say, I am not certain that willful blindness would support the conclusion below."
+2010.10-6,1,38986,r_ted_cruz,,1732.562,1737.948,"--I think if the conclusion were to send it back and do it again, I don't think that would be a reasonable result."
+2010.10-6,1,15139,stephen_g_breyer,scotus_justice,1737.948,1742.168,"What are you supposed to say known risk, sure he says he looked at five."
+2010.10-6,1,38986,r_ted_cruz,,1776.139,1778.674,That is what they argued to the jury and that's--
+2010.10-6,1,15139,stephen_g_breyer,scotus_justice,1778.674,1780.959,"--I am not saying they are right in that, I bet they would lose."
+2010.10-6,1,38986,r_ted_cruz,,1800.187,1804.158,"--The jury heard those arguments, the jury rejected those arguments."
+2010.10-6,1,15086,john_g_roberts_jr,scotus_justice,1813.68,1816.132,How was the jury instructed?
+2010.10-6,1,38986,r_ted_cruz,,1816.132,1824.553,What the jury was instructed was several things and the jury instructions are at RA 26 and 27.
+2010.10-6,1,15086,john_g_roberts_jr,scotus_justice,1838.479,1841.497,I am still waiting to hear what it was?
+2010.10-6,1,38986,r_ted_cruz,,1841.497,1845.049,"It is a complicated instruction, so part of what--"
+2010.10-6,1,15086,john_g_roberts_jr,scotus_justice,1845.049,1851.203,"Well, I thought there was some question about that it was so low that it in effect amounted to a negligence standard."
+2010.10-6,1,38986,r_ted_cruz,,1851.203,1854.507,--That is part of the argument Pentalpha presents.
+2010.10-6,1,15084,ruth_bader_ginsburg,scotus_justice,1870.867,1872.886,"Where are you reading from, Mr. Cruz?"
+2010.10-6,1,38986,r_ted_cruz,,1872.886,1875.687,RA 26 and 27.
+2010.10-6,1,15139,stephen_g_breyer,scotus_justice,1880.389,1884.026,I don't think that is the part they are complaining about.
+2010.10-6,1,15113,anthony_m_kennedy,scotus_justice,1884.026,1898.703,"It is in the red brief, the Respondent's brief, page 26, toward the bottom it says if you find, I have a problem that I do not know that they preserved this objection, but let's talk about what the standard ought to be."
+2010.10-6,1,38986,r_ted_cruz,,1958.206,1960.824,"Justice Kennedy, I don't believe that is correct."
+2010.10-6,1,15113,anthony_m_kennedy,scotus_justice,1969.014,1976.518,"Well, if you say should have known, that is the necessary consequence of the holding."
+2010.10-6,1,38986,r_ted_cruz,,1976.518,1981.32,"What I would suggest the import of that language is, is to allow constructive knowledge."
+2010.10-6,1,15113,anthony_m_kennedy,scotus_justice,1986.105,1997.83,"Well, as you say, willful blindness was never used really until this Court and this Court has never in a full opinion for the Court adopted it even in the criminal context."
+2010.10-6,1,38986,r_ted_cruz,,2002.066,2014.64,"The argument that was presented to the jury, in closing what trial counsel said and this is the trial transcript, page 929 through 31, which is not in one of the appendixes in front of you."
+2010.10-6,1,15113,anthony_m_kennedy,scotus_justice,2044.226,2057.801,"But you're presenting to us the proposition, I take it, correct me if I am wrong, that we should write an opinion that is saying that know or should have known is the standard for an inducer."
+2010.10-6,1,38986,r_ted_cruz,,2070.711,2073.829,"Justice Kennedy, we are not proposing that, and I would say two things."
+2010.10-6,1,15113,anthony_m_kennedy,scotus_justice,2088.005,2096.426,"If we are arguing about whether or not you can protect your judgement based upon all that's in the record, I think you may have a strong point."
+2010.10-6,1,38986,r_ted_cruz,,2108.336,2126.047,"I would suggest with respect to the language knew or should have known, that if there is not an actual knowledge requirement, which in my judgment is nowhere in the statute, then you have to have something like should have known because I do not know what you alternative instruct."
+2010.10-6,1,15113,anthony_m_kennedy,scotus_justice,2131.749,2137.253,So you're saying that (b) should have a lesser standard of culpability than (c)?
+2010.10-6,1,38986,r_ted_cruz,,2137.253,2138.188,Absolutely.
+2010.10-6,1,15139,stephen_g_breyer,scotus_justice,2146.442,2166.672,"The difference, they say, between (b) and (c) is that (c) applies to a person who makes some really special thing that looks like a Japanese kabuki theater costume, and it's actually made out of metal and it's really -- has a very bizarre thing, and it is only used -- good use is to do this infringing thing."
+2010.10-6,1,38986,r_ted_cruz,,2174.444,2181.532,"Justice Breyer, under that argument, the statute would be interpreted identically if the word (b)."
+2010.10-6,1,15139,stephen_g_breyer,scotus_justice,2184.484,2192.238,"Well, the argument is that the words ""actively induced"" are meant to be something greater than knowing, not something less than knowing."
+2010.10-6,1,38986,r_ted_cruz,,2218.021,2222.507,"--Justice Breyer, that -- that may be a reasonable policy argument."
+2010.10-6,1,15139,stephen_g_breyer,scotus_justice,2232.715,2239.702,"I'd like to get, really, an answer from you on Justice Kennedy's question, because at the moment I am not worried about your case."
+2010.10-6,1,38986,r_ted_cruz,,2287.699,2292.667,We have suggested three possible standards to be the rule in this case.
+2010.10-6,1,15049,antonin_scalia,scotus_justice,2383.575,2384.177,Wait.
+2010.10-6,1,38986,r_ted_cruz,,2394.049,2399.103,"--If they had said three words differently, this would be a very, very different case."
+2010.10-6,1,15049,antonin_scalia,scotus_justice,2403.055,2403.539,Okay.
+2010.10-6,1,38986,r_ted_cruz,,2406.574,2407.041,Yes.
+2010.10-6,1,15049,antonin_scalia,scotus_justice,2407.041,2407.924,"That is part of your test, right?"
+2010.10-6,1,38986,r_ted_cruz,,2407.924,2415.145,"If you specifically copy a product, you have to look to see if that particular product is protected by IP."
+2010.10-6,1,15139,stephen_g_breyer,scotus_justice,2415.145,2416.947,So is that -- is that another standard?
+2010.10-6,1,38986,r_ted_cruz,,2430.689,2431.539,"Well, and -- and that--"
+2010.10-6,1,15139,stephen_g_breyer,scotus_justice,2431.539,2432.706,That is why you say they are the same.
+2010.10-6,1,38986,r_ted_cruz,,2433.891,2440.211,"--Well, the Court could certainly craft the rule at least narrowly tailored to the facts here, which is copying."
+2010.10-6,1,15113,anthony_m_kennedy,scotus_justice,2468.128,2471.23,You're not immune from liability for direct infringement.
+2010.10-6,1,38986,r_ted_cruz,,2479.92,2492.93,"But, Justice Kennedy, the reason in this case why we brought a cause of action for both direct infringement and active inducing is because the argument of Pentalpha was their conduct was all overseas, and so they weren't covered by 271(a)."
+2010.10-6,1,15113,anthony_m_kennedy,scotus_justice,2514.49,2522.846,So are you saying that the standard of knowledge would be the same for direct infringement as for active inducement?
+2010.10-6,1,38986,r_ted_cruz,,2522.846,2529.317,"I think there is a reasonable statutory argument to be made that it is the same, namely, that it is strict liability."
+2010.10-6,1,15086,john_g_roberts_jr,scotus_justice,2534.571,2540.124,I am a little confused about the relationship between knowledge and the Grokster standard.
+2010.10-6,1,38986,r_ted_cruz,,2549.163,2551.849,"I do, and I will tell you why."
+2010.10-6,1,15086,john_g_roberts_jr,scotus_justice,2552.582,2563.438,"Well, before you tell me why, do you understand -- it's unfair to ask you, I guess, but I understood Petitioner to take the opposite position: That Grokster was a more favorable standard for him than actual knowledge."
+2010.10-6,1,38986,r_ted_cruz,,2563.438,2565.323,--I agree with you that is what Petitioner said here.
+2010.10-6,1,15094,elena_kagan,scotus_justice,2575.262,2590.957,"Why aren't you both wrong, that Grokster didn't deal with the question that we are dealing with, which was knowledge of a patent or knowledge of a copyright, that Grokster dealt with whether there was specific intent or whether there needed to be specific intent to encourage infringing acts."
+2010.10-6,1,38986,r_ted_cruz,,2594.159,2600.313,"Let me answer both your question, Justice Kagan, and the Chief Justice's question together."
+2010.10-6,1,15049,antonin_scalia,scotus_justice,2638.438,2652.579,"Well, one of the -- one of the briefs -- one of the amicus briefs in this case points out that that argument is a lot less plausible in copyright than it is in -- in patents."
+2010.10-6,1,38986,r_ted_cruz,,2674.277,2681.781,That policy differential -- there may well be differences between patent law and copyright law that are implicated in other cases.
+2010.10-6,1,15049,antonin_scalia,scotus_justice,2692.256,2692.789,"Well, that's fine."
+2010.10-6,1,38986,r_ted_cruz,,2703.296,2704.88,"Let me be -- let me be clear, Justice Scalia."
+2010.10-6,1,15113,anthony_m_kennedy,scotus_justice,2759.015,2775.493,"Would you say, even though you -- I think you disagree with this in this case, would you say that there is a reasonable argument in our precedent for saying that the standard of knowledge under (b) should be greater than reckless disregard?"
+2010.10-6,1,38986,r_ted_cruz,,2775.493,2778.845,I do not believe there is in the precedent.
+2010.10-6,1,15113,anthony_m_kennedy,scotus_justice,2803.579,2804.062,All right.
+2010.10-6,1,38986,r_ted_cruz,,2816.387,2821.207,"You know, I do not believe there is."
+2010.10-6,1,15084,ruth_bader_ginsburg,scotus_justice,2832.396,2833.098,They're dealing--
+2010.10-6,1,38986,r_ted_cruz,,2833.098,2833.648,If you look at--
+2010.10-6,1,15084,ruth_bader_ginsburg,scotus_justice,2833.648,2840.002,"--They're dealing with a Federal Circuit decision, they're reviewing that decision, the Federal Circuit had a formula."
+2010.10-6,1,38986,r_ted_cruz,,2872.473,2875.858,--I agree the Federal Circuit had that language.
+2010.10-6,1,15068,samuel_a_alito_jr,scotus_justice,2916.467,2920.019,"Mr. Cruz, while we are certainly interested in what the standard should be."
+2010.10-6,1,38986,r_ted_cruz,,2938.666,2939.199,Correct.
+2010.10-6,1,15068,samuel_a_alito_jr,scotus_justice,2939.199,2943.317,And the objection that I see was that the words
+2010.10-6,1,38986,r_ted_cruz,,2965.377,2966.896,I agree with that entirely.
+2010.10-6,1,15068,samuel_a_alito_jr,scotus_justice,2966.896,2970.015,"So if he is wrong on that, then the judgment should be affirmed."
+2010.10-6,1,38986,r_ted_cruz,,2970.015,2980.304,"I agree with that entirely, and indeed we have suggested the central issue, the question before this Court is, is there a requirement of actual knowledge of the specific patent?"
+2010.10-6,1,15131,sonia_sotomayor,scotus_justice,2998.582,3003.319,"--do so, because we still have to define knowledge."
+2010.10-6,1,38986,r_ted_cruz,,3011.508,3012.425,--Well--
+2010.10-6,1,15131,sonia_sotomayor,scotus_justice,3012.425,3016.496,--Do we have to define what knowledge -- what kind of knowledge we are talking about?
+2010.10-6,1,38986,r_ted_cruz,,3016.496,3025.352,"--If it is a case that you must specifically know the specific patent, it will ensure that unscrupulous--"
+2010.10-6,1,15131,sonia_sotomayor,scotus_justice,3025.352,3025.768,I agree.
+2010.10-6,1,38986,r_ted_cruz,,3028.553,3030.786,--Well--
+2010.10-6,1,15131,sonia_sotomayor,scotus_justice,3030.786,3040.111,--the development of law for us to simply say you -- it is not so much knowledge that you have to know the specific patent by number.
+2010.10-6,1,38986,r_ted_cruz,,3040.111,3042.661,--I am going to suggest it is a binary choice.
+2010.10-6,1,15139,stephen_g_breyer,scotus_justice,3049.217,3050.617,That is where I am.
+2010.10-6,1,38986,r_ted_cruz,,3067.929,3068.845,"But, Justice Breyer--"
+2010.10-6,1,15139,stephen_g_breyer,scotus_justice,3068.845,3091.877,"And the other problem is if you -- as you move away from that and say, no, no, I mean a real risk -- I mean a huge risk -- I mean a risk that in fact, you almost knew that this was it -- now I can do it with my tone of voice, but I need the words to put in there that are going to calm people's fears that they are not suddenly going to be held liable because there is some fairly small risk of this."
+2010.10-6,1,38986,r_ted_cruz,,3094.46,3096.929,"--In this case, you had unusual--"
+2010.10-6,1,15139,stephen_g_breyer,scotus_justice,3096.929,3099.112,I know this case; I am not worried about.
+2010.10-6,1,38986,r_ted_cruz,,3100.964,3104.166,"--Well, let me suggest what words you could use to resolve this case."
+2010.10-6,1,15139,stephen_g_breyer,scotus_justice,3104.733,3106.385,I do not want to just resolve the case.
+2010.10-6,1,38986,r_ted_cruz,,3132.435,3140.255,--The language that -- that was used in Santos was that willful blindness is that when a party aware of a high probability of a fact deliberately avoids learning the truth.
+2010.10-6,1,15139,stephen_g_breyer,scotus_justice,3140.255,3141.624,"--Well, I've heard about that."
+2010.10-6,1,38986,r_ted_cruz,,3141.624,3143.691,That language would encompass this case--
+2010.10-6,1,15139,stephen_g_breyer,scotus_justice,3143.691,3144.243,"Yes, it would."
+2010.10-6,1,38986,r_ted_cruz,,3144.243,3146.043,--And it would not bring in innocent actors.
+2010.10-6,1,15139,stephen_g_breyer,scotus_justice,3146.043,3149.278,"--my problem, is a high probability that."
+2010.10-6,1,38986,r_ted_cruz,,3171.143,3174.262,I think that would be an acceptable test this Court could--
+2010.10-6,1,15086,john_g_roberts_jr,scotus_justice,3174.262,3176.278,A high probability of what?
+2010.10-6,1,38986,r_ted_cruz,,3183.218,3195.176,"--A -- with respect to what was happening here, when you copy a commercial product, there is a high probability that product is protected by a patent, and when you engage in what the district court characterized--"
+2010.10-6,1,15049,antonin_scalia,scotus_justice,3195.176,3196.726,He is not interested in what happened here.
+2010.10-6,1,38986,r_ted_cruz,,3199.06,3210.435,"--I -- what I would suggest and that is one of the reasons we proffered the narrow test that is keyed on copying, because copying of completed commercial products is the most egregious."
+2010.10-6,1,15131,sonia_sotomayor,scotus_justice,3217.855,3219.238,Forget the narrow rule.
+2010.10-6,1,38986,r_ted_cruz,,3223.24,3226.442,"--With respect, my client doesn't care--"
+2010.10-6,1,15139,stephen_g_breyer,scotus_justice,3230.746,3232.079,I know your client doesn't care.
+2010.10-6,1,38986,r_ted_cruz,,3265.502,3268.704,I agree that would suffice.
+2010.10-6,1,15086,john_g_roberts_jr,scotus_justice,3341.633,3342.716,"Thank you, Mr. Cruz."
+2010.10-6,2,44523,william_dunnegan,,3346.335,3351.922,"Five points in rebuttal, I believe, Your Honor."
+2010.10-6,2,15068,samuel_a_alito_jr,scotus_justice,3402.672,3408.008,So you want actual knowledge of the patent?
+2010.10-6,2,44523,william_dunnegan,,3409.125,3412.562,The test that we are looking for is the Grokster test.
+2010.10-6,2,15068,samuel_a_alito_jr,scotus_justice,3414.762,3417.181,Do you want actual knowledge of the patent?
+2010.10-6,2,44523,william_dunnegan,,3417.181,3418.216,"Yes, Your Honor."
+2010.10-6,2,15068,samuel_a_alito_jr,scotus_justice,3418.216,3421.335,And that is the issue you preserved with your objection?
+2010.10-6,2,44523,william_dunnegan,,3421.335,3425.37,Not precisely.
+2010.10-6,2,15084,ruth_bader_ginsburg,scotus_justice,3446.901,3455.723,And after that date you admit you -- because you continued to sell the product to the retailers?
+2010.10-6,2,44523,william_dunnegan,,3455.723,3456.675,"--Yes, Your Honor."
+2010.10-6,2,15084,ruth_bader_ginsburg,scotus_justice,3456.675,3462.829,"So after Sunbeam sued, then you are actively inducing infringement?"
+2010.10-6,2,44523,william_dunnegan,,3462.829,3463.445,"No, Your Honor."
+2010.10-6,2,15084,ruth_bader_ginsburg,scotus_justice,3486.611,3497.55,"I thought that opinion was after the first finding of infringement, that you redesigned the product and that, the evidence you got dealt with the redesigned products."
+2010.10-6,2,44523,william_dunnegan,,3497.55,3499.185,"--I believe your timing is correct, Your Honor."
+2010.10-6,2,15084,ruth_bader_ginsburg,scotus_justice,3499.902,3505.922,"But after just originally, Sunbeam is suing for infringement."
+2010.10-6,2,44523,william_dunnegan,,3518.146,3520.082,"--That is a question of fact, Your Honor."
+2010.10-6,2,15084,ruth_bader_ginsburg,scotus_justice,3542.095,3558.807,"You admitted there was purposeful, culpable conduct when you did not, when you had the original design and that was, and you were sued for actively inducing infringement of that design, by that design."
+2010.10-6,2,44523,william_dunnegan,,3558.807,3559.707,"--No, Your Honor."
+2010.10-6,2,15084,ruth_bader_ginsburg,scotus_justice,3563.194,3565.961,But you think a jury could have found that from the facts?
+2010.10-6,2,44523,william_dunnegan,,3565.961,3566.546,--Yes.
+2010.10-6,2,15131,sonia_sotomayor,scotus_justice,3587.076,3587.476,I am sorry.
+2010.10-6,2,44523,william_dunnegan,,3595.915,3597.348,"--Yes, Your Honor."
+2010.10-6,2,15131,sonia_sotomayor,scotus_justice,3597.348,3607.021,"By number, and that was the conversation we had earlier, and that the patent covered the scope of your invention."
+2010.10-6,2,44523,william_dunnegan,,3607.021,3607.89,"Yes, Your Honor."
+2010.10-6,2,15086,john_g_roberts_jr,scotus_justice,3634.373,3635.457,"Thank you, counsel."

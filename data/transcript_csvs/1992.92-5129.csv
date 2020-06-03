@@ -1,0 +1,161 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1992.92-5129,0,15141,william_h_rehnquist,scotus_justice,0.0,8.227,"We'll hear argument next in Number 92-5129, John Sullivan v. Louisiana."
+1992.92-5129,0,32683,john_wilson_reed,,9.377,17.213,Mr. Chief Justice and may it please the Court:
+1992.92-5129,0,15141,william_h_rehnquist,scotus_justice,144.985,153.282,"Mr. Reed, what was the disposition made by the supreme court of Louisiana of the sentence imposed on Sullivan?"
+1992.92-5129,0,32683,john_wilson_reed,,153.282,166.31,"The Louisiana supreme court, Your Honor, vacated the sentence of death on the grounds that Mr. Sullivan's attorney had been ineffective in his representation during the penalty phase and leaves to further proceedings the possibility of reimposing that."
+1992.92-5129,0,15092,sandra_day_oconnor,scotus_justice,253.578,287.228,"Well, Mr. Reed, if there were a case in which the evidence were just crystal clear... there's a confession by the defendant, there are five eyewitnesses who testified, there are finger print evidence and so forth, no one could disagree that the evidence is overwhelming... is it possible in such a case that an appellate court could review it and conclude that no reasonable juror would have been able to do anything but find guilt beyond a reasonable doubt?"
+1992.92-5129,0,32683,john_wilson_reed,,287.228,304.059,"Your Honor asks, of course, the hardest question, and I think the principal answer to that question, in light of the Sixth Amendment, has to be no, so long as the defendant was in fact relying on the jury's finding of facts beyond a reasonable doubt."
+1992.92-5129,0,15092,sandra_day_oconnor,scotus_justice,304.059,309.003,Do you rely on the right of the jury to nullify any verdicts--
+1992.92-5129,0,32683,john_wilson_reed,,309.003,309.972,"No, Your Honor, I do not."
+1992.92-5129,0,15092,sandra_day_oconnor,scotus_justice,309.972,311.154,--Any juror could--
+1992.92-5129,0,32683,john_wilson_reed,,311.154,311.935,No.
+1992.92-5129,0,15092,sandra_day_oconnor,scotus_justice,311.935,312.446,--For any reason--
+1992.92-5129,0,32683,john_wilson_reed,,312.446,314.957,"No, I do not rely on jury nullification."
+1992.92-5129,0,15141,william_h_rehnquist,scotus_justice,383.363,390.835,"--But Mr. Reed, in most States... I don't know if it's true in Louisiana or not... the defendant simply enters a plea of not guilty."
+1992.92-5129,0,32683,john_wilson_reed,,412.632,431.532,"--If the defendant is, indeed, Your Honor, putting the Government to its proof on the elements of the offense and requiring it to prove them beyond a reasonable doubt, then we would suggest that you cannot apply harmless error in the ordinary way, but must instead look to see whether he was relying on it and if he was then it cannot be harmless."
+1992.92-5129,0,15141,william_h_rehnquist,scotus_justice,431.532,434.895,Look to see if he was relying on what?
+1992.92-5129,0,32683,john_wilson_reed,,434.895,460.891,"On the... on the obligation of the State or the Government to prove beyond a... if he made in opening statements for Your Honor, the defendant comes before you, admits he killed so-and-so, admits he intentionally killed so-and-so, but tells you that he was insane at the time, then I think a court could conclude that that defendant was not relying on facts found beyond a reasonable doubt if the insanity defense was placed... the burden was placed--"
+1992.92-5129,0,15141,william_h_rehnquist,scotus_justice,460.891,465.306,Wouldn't a not-guilty plea ordinarily be conclusive for the defendant?
+1992.92-5129,0,32683,john_wilson_reed,,465.306,475.831,"--Well, initially a not-guilty plea would certainly be the first step, and if that's all there were before you, you might reach that conclusion, but when you review it there is much more before you than just a not-guilty plea."
+1992.92-5129,0,15141,william_h_rehnquist,scotus_justice,487.068,491.542,"But in your view, then, a defendant would have to show something more than just a not-guilty plea."
+1992.92-5129,0,32683,john_wilson_reed,,491.542,493.403,"--No, Your Honor."
+1992.92-5129,0,15049,antonin_scalia,scotus_justice,520.88,530.939,"Mr. Reed, what is the difference between other kinds of errors in the jury instruction and this one?"
+1992.92-5129,0,32683,john_wilson_reed,,545.177,545.908,"Absolutely not, Your Honor."
+1992.92-5129,0,15049,antonin_scalia,scotus_justice,546.629,547.11,Why?
+1992.92-5129,0,32683,john_wilson_reed,,547.11,566.221,"--As I would see it, only this, and the reason why is because in every other circumstance that I can contemplate, if there is an instruction on reasonable doubt there will be before a reviewing court some findings of the jury beyond a reasonable doubt."
+1992.92-5129,0,15071,byron_r_white,scotus_justice,669.771,680.78,"Well, why wouldn't it be harmful only if the... if there was a reasonable likelihood that the jury convicted on less than a reasonable doubt?"
+1992.92-5129,0,32683,john_wilson_reed,,680.78,684.47,"--Well, because, Your Honor--"
+1992.92-5129,0,15071,byron_r_white,scotus_justice,684.47,699.44,"That's what you... you really... this instruction I think you claim left the jury... at least it's likely that they convicted on less than a reasonable doubt, that the instruction permitted them to do that."
+1992.92-5129,0,32683,john_wilson_reed,,699.44,703.393,"--That's correct, Your Honor, and this Court so found, and the question--"
+1992.92-5129,0,15071,byron_r_white,scotus_justice,703.393,703.954,In Cage.
+1992.92-5129,0,32683,john_wilson_reed,,703.954,711.358,"--In Cage, Your Honor, yes, and this is a virtually identical instruction, so this Court has held that that's what this instruction does."
+1992.92-5129,0,15071,byron_r_white,scotus_justice,711.358,723.086,"Well, what if... if you make an... in Estelle... you know Estelle v. McGuire."
+1992.92-5129,0,32683,john_wilson_reed,,723.086,723.667,"Yes, sir--"
+1992.92-5129,0,15071,byron_r_white,scotus_justice,723.667,736.385,It says in these kinds of cases you inquire whether there is a reasonable likelihood that the jury has applied the challenged instruction in a way that violates the Constitution.
+1992.92-5129,0,32683,john_wilson_reed,,736.385,737.815,"--Yes, Your Honor."
+1992.92-5129,0,15071,byron_r_white,scotus_justice,737.815,747.973,"And it sounds to me like we were saying that if there was a reasonable likelihood, that's the end of the case."
+1992.92-5129,0,32683,john_wilson_reed,,753.917,757.059,"I think it's a matter of semantics, Your Honor."
+1992.92-5129,0,15071,byron_r_white,scotus_justice,765.895,766.286,Yes.
+1992.92-5129,0,32683,john_wilson_reed,,766.286,767.525,--Or you could say it the other way.
+1992.92-5129,0,15071,byron_r_white,scotus_justice,769.675,776.881,But what if you conclude that there wasn't any reasonable likelihood that the jury convicted on less than reasonable doubt?
+1992.92-5129,0,32683,john_wilson_reed,,776.881,777.962,"Well, I think--"
+1992.92-5129,0,15071,byron_r_white,scotus_justice,777.962,782.685,"There's no... then there isn't any error, I guess."
+1992.92-5129,0,32683,john_wilson_reed,,782.685,783.356,--But I think Cage--
+1992.92-5129,0,15071,byron_r_white,scotus_justice,783.356,784.595,Harmless or otherwise.
+1992.92-5129,0,32683,john_wilson_reed,,784.595,787.019,--Cage defines that there is such error.
+1992.92-5129,0,15071,byron_r_white,scotus_justice,804.39,817.486,"Oh, I would think you would argue that if Cage holds that, which it probably did, that there is a reasonable likelihood that the jury convicted beyond a reasonable doubt."
+1992.92-5129,0,32683,john_wilson_reed,,823.34,824.512,"--I certainly do, Your Honor."
+1992.92-5129,0,15071,byron_r_white,scotus_justice,860.526,871.503,"Of course, the State suggests that this wasn't an ambiguous instruction at all, and it wasn't an erroneous one, don't they?"
+1992.92-5129,0,32683,john_wilson_reed,,871.503,874.265,"I think, Your Honor, Cage settles that question."
+1992.92-5129,0,15071,byron_r_white,scotus_justice,875.096,879.237,"I know they do, but... I know you think so, but the State doesn't."
+1992.92-5129,0,32683,john_wilson_reed,,879.237,881.741,"--Well, they take... they do take dispute--"
+1992.92-5129,0,15071,byron_r_white,scotus_justice,881.741,883.191,"Isn't that right, they assert that?"
+1992.92-5129,0,32683,john_wilson_reed,,883.191,908.636,"--They do, and I think the answer to that... I think the strength and the clarity of the Cage opinion is in its unanimity, in the language of the opinion in which the Court says it is plain to us that the words mean something less than reasonable doubt, all nine members of this Court, and it is clear to us that a jury could."
+1992.92-5129,0,15141,william_h_rehnquist,scotus_justice,1033.799,1042.835,"But of course, that kind of argument was made against a whole notion of harmless error when it was first introduced, but courts can't second-guess juries."
+1992.92-5129,0,32683,john_wilson_reed,,1060.857,1094.0,"And in every case, Your Honor, it was rejected, and in every case harmless error analysis was conducted in light of and because there was before the court a jury finding of something beyond a reasonable doubt to that jury's certainty, and while I don't dispute that there may be some subjectivity that might go into the harmless error process of adding and subtracting to that, there is the integrity of a jury finding beyond a reasonable doubt."
+1992.92-5129,0,15141,william_h_rehnquist,scotus_justice,1094.0,1105.696,"Well, suppose that we flesh out a little bit Justice O'Connor's hypothesis and say that there were four eyewitnesses, each to a murder with which the defendant is charged."
+1992.92-5129,0,32683,john_wilson_reed,,1115.832,1116.453,Yes.
+1992.92-5129,0,15141,william_h_rehnquist,scotus_justice,1116.453,1120.877,And the defense... defendant does not take the stand.
+1992.92-5129,0,32683,john_wilson_reed,,1139.758,1157.37,"No possibility that the court in that extreme a case could direct a verdict, Your Honor, no possibility in that extreme a case that the court could set aside a jury's verdict of acquittal, and no possibility, therefore, in terms of the Sixth Amendment applying harmless error in that kind of a case."
+1992.92-5129,0,15141,william_h_rehnquist,scotus_justice,1177.135,1194.913,"What you must do, and you're certainly making arguments to that effect... perhaps you've succeeded... is to show why this reasonable doubt instruction is so much different from the other kinds of instructions that we do allow harmless error review, such as a Sandstrom error."
+1992.92-5129,0,32683,john_wilson_reed,,1194.913,1202.008,"--Well, I think the... with the... again, with the reasonable doubt instruction you have the jury finding."
+1992.92-5129,0,15049,antonin_scalia,scotus_justice,1217.689,1230.547,"You're saying, given one jury finding you can say well, it's inevitable that a jury that found this would find the other, but in this case you have no jury finding--"
+1992.92-5129,0,32683,john_wilson_reed,,1230.547,1231.238,--Correct.
+1992.92-5129,0,15049,antonin_scalia,scotus_justice,1231.238,1232.96,--And therefore you're--
+1992.92-5129,0,32683,john_wilson_reed,,1232.96,1233.801,You're at sea.
+1992.92-5129,0,15049,antonin_scalia,scotus_justice,1234.57,1237.004,"--You have no fulcrum for the lever, right?"
+1992.92-5129,0,32683,john_wilson_reed,,1237.004,1238.895,"Nothing to hold on to, nothing to hang your hat on."
+1992.92-5129,0,15141,william_h_rehnquist,scotus_justice,1288.246,1296.052,"Was that the basis of the Winship opinion and the successors to it, the Sixth Amendment right to jury trial, do you think?"
+1992.92-5129,0,32683,john_wilson_reed,,1296.052,1296.621,"--No, Your Honor."
+1992.92-5129,0,15141,william_h_rehnquist,scotus_justice,1302.107,1306.618,But you're basing your argument on the Sixth Amendment right to jury trial.
+1992.92-5129,0,32683,john_wilson_reed,,1306.618,1338.399,"I think the Sixth Amendment right to jury trial forecloses the application of harmless error analysis in any customary form where a defendant is relying on the reasonable doubt instruction, but I would like to say that there is more to the argument than just the right to trial by jury, and that is that under the Fourteenth Amendment, somebody is... a defendant is entitled not to be convicted except upon proof beyond a reasonable doubt to the satisfaction of the fact-finder."
+1992.92-5129,0,15071,byron_r_white,scotus_justice,1521.518,1524.4,Cage didn't deal with harmless error.
+1992.92-5129,0,32683,john_wilson_reed,,1524.4,1526.693,"Cage does not deal with harmless error, no, Your Honor."
+1992.92-5129,0,15071,byron_r_white,scotus_justice,1526.693,1528.644,And it didn't say that harmless error was out of the question.
+1992.92-5129,0,32683,john_wilson_reed,,1528.644,1529.984,"No, it did not, Your Honor."
+1992.92-5129,0,15071,byron_r_white,scotus_justice,1529.984,1550.126,"Then it seems to me that a later case, Estelle, indicates that if you don't think that an error in an instruction contributed... had a reasonable likelihood of contributing to the verdict--"
+1992.92-5129,0,32683,john_wilson_reed,,1550.126,1553.0,As I read--
+1992.92-5129,0,15071,byron_r_white,scotus_justice,1553.0,1554.01,--That's the end of it.
+1992.92-5129,0,32683,john_wilson_reed,,1554.01,1562.045,"--As I read Estelle, it's whether there's a reasonable likelihood that the jury has applied, and you... there is a--"
+1992.92-5129,0,15071,byron_r_white,scotus_justice,1562.045,1570.88,"Yes, but what if there's a reasonable likelihood because of the state of the evidence that the jury did not apply the instruction in an unconstitutional manner?"
+1992.92-5129,0,32683,john_wilson_reed,,1570.88,1576.904,--You can only assume that the jury applies the instructions as the words... as the words are meant.
+1992.92-5129,0,15071,byron_r_white,scotus_justice,1598.499,1618.671,"But I assume that in Cage, from reading the per curiam, that there must have been room in the evidence to have assumed that the jury could have applied the instruction in an unconstitutional manner and convicted on less than reasonable doubt."
+1992.92-5129,0,32683,john_wilson_reed,,1618.671,1644.518,"They can at any time, Your Honor, but the facts in Cage were where two witnesses... where two witnesses testified that the defendant went up to a body as it was lying on the ground and fired bullets into the back of the head at point-blank range, and there was no question of identity, so I don't think... I think the Court was looking at the language and at the principle, and the harmless error principle requires that we cannot apply that kind of analysis."
+1992.92-5129,0,15141,william_h_rehnquist,scotus_justice,1645.079,1646.731,"Thank you, Mr. Reed."
+1992.92-5129,1,32323,jack_peebles,,1648.391,1651.614,"Mr. Chief Justice, and may it please the Court:"
+1992.92-5129,1,15071,byron_r_white,scotus_justice,1698.304,1706.28,Or was not permitted by the instruction to convict on any less than a reasonable doubt... beyond a reasonable doubt.
+1992.92-5129,1,32323,jack_peebles,,1706.28,1706.928,--Yes.
+1992.92-5129,1,15042,david_h_souter,scotus_justice,1706.928,1709.59,"Well, aren't we bound to assume there was Cage error?"
+1992.92-5129,1,32323,jack_peebles,,1711.914,1714.675,"You are not bound, Your Honor, because of Estelle v. McGuire."
+1992.92-5129,1,15042,david_h_souter,scotus_justice,1784.79,1788.924,"Mr. Peebles, I apologize, but I would like to interrupt you."
+1992.92-5129,1,32323,jack_peebles,,1810.747,1815.931,"Well, I'm recasting the... if that's the way the petitioner posed the question, but--"
+1992.92-5129,1,15042,david_h_souter,scotus_justice,1815.931,1816.561,That's it.
+1992.92-5129,1,32323,jack_peebles,,1816.561,1830.729,--We are suggesting to the Court that the review of the Louisiana supreme court's decision on harmless error is appropriately before this Court and should be considered in light of the Estelle v. McGuire criteria.
+1992.92-5129,1,15042,david_h_souter,scotus_justice,1830.729,1835.655,"But if we stick to the question we took, your argument is beside the point."
+1992.92-5129,1,32323,jack_peebles,,1835.655,1839.685,"Well, that's correct, Your Honor, if the Court limits it that way."
+1992.92-5129,1,15042,david_h_souter,scotus_justice,1839.685,1840.617,Excuse me--
+1992.92-5129,1,32323,jack_peebles,,1840.617,1846.741,"However, in rendering the... granting the certiorari, you did not say, we are limiting the question in any particular manner."
+1992.92-5129,1,15042,david_h_souter,scotus_justice,1846.741,1852.425,--Did you... in the brief in opposition did you state that the question was inappropriate?
+1992.92-5129,1,32323,jack_peebles,,1852.425,1853.497,"No, Your Honor--"
+1992.92-5129,1,15042,david_h_souter,scotus_justice,1853.497,1855.747,"Well, I think that's the--"
+1992.92-5129,1,32323,jack_peebles,,1855.747,1857.277,--We did not.
+1992.92-5129,1,15042,david_h_souter,scotus_justice,1871.267,1874.735,"--Excuse me, but you did not tell us this in your brief in opposition."
+1992.92-5129,1,32323,jack_peebles,,1874.735,1875.452,"--We did not, Your Honor."
+1992.92-5129,1,15141,william_h_rehnquist,scotus_justice,1875.452,1875.89,All right.
+1992.92-5129,1,32323,jack_peebles,,1900.698,1902.458,"I appreciate that, your Honor."
+1992.92-5129,1,15141,william_h_rehnquist,scotus_justice,1923.451,1944.856,"Well, I don't mean in any way to suggest that other arguments are foreclosed to you, but one argument you can expect the Court to consider I think, because of the way the question presented is phrased, is, is harmless error analysis applicable to an instruction that violates the rule of Cage?"
+1992.92-5129,1,32323,jack_peebles,,1944.856,1951.838,"Yes, Your Honor, if you choose, that's of course your prerogative, but you have changed the rule in Cage."
+1992.92-5129,1,15071,byron_r_white,scotus_justice,1965.519,1974.345,"Well, really, you could just argue that Estelle answers the question of whether or not--"
+1992.92-5129,1,32323,jack_peebles,,1974.345,1975.415,--That's what we are suggesting to the Court.
+1992.92-5129,1,15071,byron_r_white,scotus_justice,1975.415,1982.55,--Whether or not a Cage error is subject to something like harmless error analysis.
+1992.92-5129,1,32323,jack_peebles,,1982.55,1984.022,"Yes, Your Honor, we are suggesting--"
+1992.92-5129,1,15071,byron_r_white,scotus_justice,1984.022,1997.119,"So you say, here's a Cage error, and you go about it by inquiring whether or not there's a reasonable likelihood that it... that the jury applied... convicted on a wrong standard."
+1992.92-5129,1,32323,jack_peebles,,1997.119,2005.775,"--Yes, Your Honor, that's what we're suggesting to the Court, that in this case a review of the charge shows that the jury did not convict on the wrong standard."
+1992.92-5129,1,15071,byron_r_white,scotus_justice,2005.775,2021.105,"Well, I know, but you don't need to say that this is a... it wasn't... you don't need to say that this was not a... that this instruction was not error under Cage."
+1992.92-5129,1,32323,jack_peebles,,2030.301,2058.248,"Your Honor, if there was error under Cage, and if you do not... if you hold that the error was as stated in Cage and do not apply Estelle v. McGuire's criterion, then I think that this would not be an error which would be subject to the harmless error rule, because in Cage, the Court decided that the posture of the case was such that the defendant was denied a fundamental right."
+1992.92-5129,1,15060,john_paul_stevens,scotus_justice,2058.248,2064.203,"Mr. Peebles, I may not be following the argument here, I must confess."
+1992.92-5129,1,32323,jack_peebles,,2072.967,2073.708,"Yes, Your Honor, I did."
+1992.92-5129,1,15060,john_paul_stevens,scotus_justice,2073.708,2095.543,"You did call that to our attention, but if the instruction uses grave uncertainty in a way that is a lesser standard of proof than proof beyond a reasonable doubt, if one reads it that way, then does it not necessarily follow under the language in Estelle that there's a reasonable likelihood that the jury applied the challenge instruction literally and therefore in a way that violates the Constitution?"
+1992.92-5129,1,32323,jack_peebles,,2095.543,2098.275,"Yes, Your Honor, it does, and we... I would agree with that."
+1992.92-5129,1,15060,john_paul_stevens,scotus_justice,2098.275,2100.176,"And therefore that there's no room for harmless error, once you find that--"
+1992.92-5129,1,32323,jack_peebles,,2100.176,2115.356,"If... once you conclude that the jury charge did reduce the level of the burden of proof instruction to that below that which is allowed by the Due Process Clause, then we submit that you cannot subject such an error to the harmless error rule--"
+1992.92-5129,1,15060,john_paul_stevens,scotus_justice,2115.356,2116.788,--That's the end of the ball game.
+1992.92-5129,1,32323,jack_peebles,,2116.788,2118.079,"--That would be the end of the ball game, yes."
+1992.92-5129,1,15141,william_h_rehnquist,scotus_justice,2118.079,2123.151,"Mr. Peebles, I don't think you're performing the responsibility you ought to perform before the Court."
+1992.92-5129,1,32323,jack_peebles,,2130.147,2131.969,Well--
+1992.92-5129,1,15141,william_h_rehnquist,scotus_justice,2131.969,2138.791,We don't decide cases on concessions by the... of the principal point presented by the petition for certiorari.
+1992.92-5129,1,32323,jack_peebles,,2138.791,2151.581,"--Your Honor, as I understand, the issue before the Court is whether the harmless... whether the error committed by the trial judge is harmless, or can be harmless, and we're prepared to argue that question."
+1992.92-5129,1,15092,sandra_day_oconnor,scotus_justice,2155.953,2167.43,"Well, Mr. Peebles, did the State concede before the Louisiana supreme court that the jury instruction on reasonable doubt was erroneous?"
+1992.92-5129,1,32323,jack_peebles,,2167.43,2168.392,Yes.
+1992.92-5129,1,15092,sandra_day_oconnor,scotus_justice,2171.403,2171.864,Yes.
+1992.92-5129,1,32323,jack_peebles,,2174.696,2175.366,"Yes, Your Honor."
+1992.92-5129,1,15092,sandra_day_oconnor,scotus_justice,2175.366,2177.848,--And that we would just take it on the same concession here.
+1992.92-5129,1,32323,jack_peebles,,2181.31,2186.683,"Well, it was error in that it misdescribed to an extent what reasonable doubt is."
+1992.92-5129,1,15049,antonin_scalia,scotus_justice,2201.072,2203.084,"Well, it's not error, then, you're saying."
+1992.92-5129,1,32323,jack_peebles,,2203.084,2203.665,Yes.
+1992.92-5129,1,15141,william_h_rehnquist,scotus_justice,2203.665,2204.466,But--
+1992.92-5129,1,32323,jack_peebles,,2204.466,2207.708,"We're saying that under the criterion of Estelle v. McGuire, it is not error."
+1992.92-5129,1,15141,william_h_rehnquist,scotus_justice,2207.708,2217.922,"--But the question presented, and I'm sure you know it as well as I do, is whether a constitutionally deficient reasonable doubt instruction can be found harmless error."
+1992.92-5129,1,32323,jack_peebles,,2236.756,2243.632,"Well, Your Honor, the other side of that argument would be that in this particular case the entire record before the Court was complete."
+1992.92-5129,1,15042,david_h_souter,scotus_justice,2257.92,2263.634,But in effect that's an argument that there was a sufficiency of evidence to find beyond a reasonable doubt.
+1992.92-5129,1,32323,jack_peebles,,2267.346,2272.73,"Well, we know that the jury did find that he was guilty beyond a reasonable doubt."
+1992.92-5129,1,15042,david_h_souter,scotus_justice,2274.67,2275.732,"Well, it did not find--"
+1992.92-5129,1,32323,jack_peebles,,2275.732,2276.353,--Had before it the proper criteria.
+1992.92-5129,1,15042,david_h_souter,scotus_justice,2276.353,2276.744,--Excuse me.
+1992.92-5129,1,32323,jack_peebles,,2283.189,2295.167,"That's correct, Your Honor, and that, again, brings us back to the issue as to whether or not that instruction correctly told the jury what it must find in order to evaluate the evidence."
+1992.92-5129,1,15092,sandra_day_oconnor,scotus_justice,2295.167,2301.881,"Mr. Peebles, what if no instruction had been given at all on burden of proof in a criminal case, just no instruction?"
+1992.92-5129,1,32323,jack_peebles,,2304.162,2304.773,"No, Your Honor--"
+1992.92-5129,1,15092,sandra_day_oconnor,scotus_justice,2304.773,2305.374,No.
+1992.92-5129,1,32323,jack_peebles,,2305.374,2305.975,--It could not have been.
+1992.92-5129,1,15092,sandra_day_oconnor,scotus_justice,2313.048,2322.655,"Well then, how would you have a different result if the instruction that is given is erroneous and doesn't present the right standard?"
+1992.92-5129,1,32323,jack_peebles,,2322.655,2337.054,"--If the instruction is erroneous but nonetheless does not reduce the burden of proof beyond a reason... to that which is not permitted by the due process clause, then the mistake would be harmless."
+1992.92-5129,1,15092,sandra_day_oconnor,scotus_justice,2348.791,2354.194,"Well, that takes you back to your same argument that there's just no constitutional violation--"
+1992.92-5129,1,32323,jack_peebles,,2354.194,2354.905,That's correct.
+1992.92-5129,1,15092,sandra_day_oconnor,scotus_justice,2354.905,2356.556,--By virtue of the instruction.
+1992.92-5129,1,32323,jack_peebles,,2356.556,2358.609,"That's correct, Your Honor, it does."
+1992.92-5129,1,15141,william_h_rehnquist,scotus_justice,2362.82,2365.783,"Thank you, Mr. Peebles."
+1992.92-5129,1,32323,jack_peebles,,2365.783,2366.233,Thank you.
+1992.92-5129,1,15141,william_h_rehnquist,scotus_justice,2366.233,2368.935,"Mr. Reed, you have 2 minutes remaining."
+1992.92-5129,2,32683,john_wilson_reed,,2368.935,2378.681,"Your Honors, there was one way to apply the Cage instruction."
+1992.92-5129,2,15141,william_h_rehnquist,scotus_justice,2404.829,2406.041,"Thank you, Mr. Reed."
+1992.92-5129,2,32683,john_wilson_reed,,2407.152,2407.702,Thank you.

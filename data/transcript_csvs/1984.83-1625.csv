@@ -1,0 +1,284 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1984.83-1625,0,15073,warren_e_burger,scotus_justice,0.0,8.738,We'll hear arguments next in United States against Johns.
+1984.83-1625,0,16154,alan_i_horowitz,,55.718,62.27,"Thank you, Mr. Chief Justice, and may it please the Court:"
+1984.83-1625,0,15060,john_paul_stevens,scotus_justice,449.444,452.556,"Mr. Horowitz, can I interrupt you on this, and we will get to this argument."
+1984.83-1625,0,16154,alan_i_horowitz,,465.606,466.047,Right.
+1984.83-1625,0,15060,john_paul_stevens,scotus_justice,466.047,475.54,"In your superstition, you suggest that the issue is can they serve several days later, and then in the briefs argue about it being three days later, and we really can't tell from the record when the search takes place."
+1984.83-1625,0,16154,alan_i_horowitz,,484.556,489.231,"I suppose so, but for different reasons, I think, but yes, at some point anyway."
+1984.83-1625,0,15060,john_paul_stevens,scotus_justice,489.231,501.199,"But assuming there's a period of time at which there is a duty to go ahead and open the stuff without a warrant... if you don't want to get a warrant, who has the burden of demonstrating that the delay was either too long or was not too long?"
+1984.83-1625,0,16154,alan_i_horowitz,,501.199,505.291,"Well, I am inclined to think that the Respondents have the burden."
+1984.83-1625,0,15060,john_paul_stevens,scotus_justice,510.224,514.406,"Well, if you are right in that, doesn't that end the lawsuit, because they surely haven't proved it."
+1984.83-1625,0,16154,alan_i_horowitz,,523.312,530.498,"Well, I think that it would have... when the Court of Appeals decided that it found the delay significant in this case--"
+1984.83-1625,0,15060,john_paul_stevens,scotus_justice,530.498,532.369,"But as you point out, nobody argued it."
+1984.83-1625,0,16154,alan_i_horowitz,,532.87,533.922,"--Right, nobody argued it, so it didn't really come up."
+1984.83-1625,0,15141,william_h_rehnquist,scotus_justice,553.783,569.454,"--Is it pretty well conceded that there are bounds within which the search took place, that it was at least one day and not more than three days, or is it just totally unknown?"
+1984.83-1625,0,16154,alan_i_horowitz,,569.454,571.485,"Well, I think it is really totally unknown."
+1984.83-1625,0,15141,william_h_rehnquist,scotus_justice,608.741,609.472,They just wanted to have it tested.
+1984.83-1625,0,16154,alan_i_horowitz,,609.472,610.401,--Yes.
+1984.83-1625,0,15073,warren_e_burger,scotus_justice,623.161,638.069,"Is it your view that if they could have opened it at the time, on the scene, right after it was seized, that they could open it one hour later, one day later, two days later, ten days later?"
+1984.83-1625,0,16154,alan_i_horowitz,,638.069,639.789,--That is essentially our view.
+1984.83-1625,0,15073,warren_e_burger,scotus_justice,645.543,651.888,"In other words, you are saying that once the Court of Appeals conceded that it could have been opened right away, that was the end of the case."
+1984.83-1625,0,16154,alan_i_horowitz,,654.239,658.503,We think that the decisions of this Court compel a conclusion.
+1984.83-1625,0,15141,william_h_rehnquist,scotus_justice,682.369,693.476,"Well, I would think part of your answer to Justice Stevens' question would depend on whether you concede that there was an outer limit to the time in which the government was permitted to open these under the Fourth Amendment."
+1984.83-1625,0,16154,alan_i_horowitz,,707.094,707.595,"Well, I--"
+1984.83-1625,0,15060,john_paul_stevens,scotus_justice,707.595,714.911,"I read your brief as conceding that because you said that this is the hypothetical warrant situation, and you surely have a duty to execute a warrant within some period of time."
+1984.83-1625,0,16154,alan_i_horowitz,,716.881,729.519,"--Well, the duty to execute a warrant within some time is either because it is specified on the face of the warrant, and usually it is because the information that gives probable cause may become stale at some time, which is not really the case here."
+1984.83-1625,0,15060,john_paul_stevens,scotus_justice,741.558,742.787,And they had probable cause to believe it was.
+1984.83-1625,0,16154,alan_i_horowitz,,742.787,743.628,"--Yes, they had probable cause to believe it was."
+1984.83-1625,0,15071,byron_r_white,scotus_justice,754.595,759.93,"Do you think this, do you think this opening the package to make a test, is that a search?"
+1984.83-1625,0,16154,alan_i_horowitz,,762.141,763.521,"--Well, we haven't really litigated that here."
+1984.83-1625,0,15071,byron_r_white,scotus_justice,767.615,768.827,"--It was just a field test, wasn't it?"
+1984.83-1625,0,16154,alan_i_horowitz,,768.827,772.528,--It was a field test but I think they had to remove some--
+1984.83-1625,0,15071,byron_r_white,scotus_justice,772.528,776.932,"It was just a test, it was just a chemical test that would make more sure of what--"
+1984.83-1625,0,16154,alan_i_horowitz,,776.932,789.309,"--That's my... I mean, they had to open the packages in order to do that, so there is some sense in which there was a search of a container, a technical sense, but the actual test that they performed on it I don't think was a search."
+1984.83-1625,0,15060,john_paul_stevens,scotus_justice,789.309,802.697,"--I thought you were arguing the case on the hypothesis that there was no plain view, that you lost... that therefore, that this container, even though it was not a great secret about what was in it, really legally was the same as if it was a locked briefcase."
+1984.83-1625,0,16154,alan_i_horowitz,,802.697,803.658,In this Court.
+1984.83-1625,0,15060,john_paul_stevens,scotus_justice,803.658,805.188,"That's your position, yes?"
+1984.83-1625,0,16154,alan_i_horowitz,,805.188,806.07,Yes.
+1984.83-1625,0,15060,john_paul_stevens,scotus_justice,807.992,814.395,"I am not suggesting that makes you wrong, but I mean, I think we have either got to decide it as a container case or as a bale of marijuana case."
+1984.83-1625,0,16154,alan_i_horowitz,,814.395,822.512,"--No, but as far as the question of whether there was an outer limit on how long it could have taken to search, I think that is something that does depend on the nature of what they had."
+1984.83-1625,0,15060,john_paul_stevens,scotus_justice,837.632,841.623,"But then, if it were a locked briefcase, who would have to prove it was or was not searched within the month?"
+1984.83-1625,0,16154,alan_i_horowitz,,845.116,849.55,"Well, I don't think that the length of time is really very important."
+1984.83-1625,0,15060,john_paul_stevens,scotus_justice,849.55,854.202,"Well, but you just conceded it would be critical in the locked briefcase situation, if I understood you."
+1984.83-1625,0,16154,alan_i_horowitz,,857.194,870.06,"Well, that's our view, but I think the Respondents' view and the Court of Appeals' view is that as soon as you get past the time when they could have gotten a warrant, the length of time doesn't matter, and a much shorter time is good enough to grant a suppression motion in this case."
+1984.83-1625,0,15071,byron_r_white,scotus_justice,1029.445,1035.509,"Well, what if they... what if they just drove the trucks to the stationhouse and let them sit?"
+1984.83-1625,0,16154,alan_i_horowitz,,1059.104,1077.046,"--Well, I still think there is no Fourth Amendment violation there unless something is shown as to what problem there was in waiting a for a month, either that the probable cause should have dissipated or that the question that came up in the Segura case here, whether there was some interference with some right of the Defendant, possessory interest."
+1984.83-1625,0,15071,byron_r_white,scotus_justice,1081.881,1083.741,"Well, I suppose the trucks were forfeitable, I suppose."
+1984.83-1625,0,16154,alan_i_horowitz,,1083.741,1085.541,"The trucks were forfeitable, too, sure."
+1984.83-1625,0,15071,byron_r_white,scotus_justice,1187.089,1189.45,"What were you reading from there, Mr. Horowitz?"
+1984.83-1625,0,16154,alan_i_horowitz,,1189.45,1192.642,This is Ross at page 823.
+1984.83-1625,0,15104,thurgood_marshall,scotus_justice,1315.293,1322.496,"I can see another line, the line being when you take it to the stationhouse, shouldn't you get it then?"
+1984.83-1625,0,16154,alan_i_horowitz,,1324.837,1326.9,"Well, even the Respondents haven' t contended that."
+1984.83-1625,0,15104,thurgood_marshall,scotus_justice,1329.282,1330.651,"Well, I'm not a Respondent."
+1984.83-1625,0,16154,alan_i_horowitz,,1332.804,1334.936,There could be a line drawn there.
+1984.83-1625,0,15104,thurgood_marshall,scotus_justice,1356.44,1361.643,"Hasn't this Court said that once you take the vehicle, you can inventory it?"
+1984.83-1625,0,16154,alan_i_horowitz,,1361.643,1366.666,"Yes, it would inventory search it."
+1984.83-1625,0,15104,thurgood_marshall,scotus_justice,1366.666,1370.849,"If you inventoried it at the station, you would have found this marijuana, wouldn't you?"
+1984.83-1625,0,16154,alan_i_horowitz,,1370.849,1373.11,If they had opened the packages?
+1984.83-1625,0,15104,thurgood_marshall,scotus_justice,1373.11,1373.741,Hmm?
+1984.83-1625,0,16154,alan_i_horowitz,,1373.741,1375.662,If they had opened the packages.
+1984.83-1625,0,15104,thurgood_marshall,scotus_justice,1375.662,1378.344,"Yes, and they could have done that in less than three days."
+1984.83-1625,0,16154,alan_i_horowitz,,1379.345,1381.536,"Yes, they could have done that in less than three days."
+1984.83-1625,0,15060,john_paul_stevens,scotus_justice,1381.536,1403.54,"May I ask, you have argued mainly there is no change in the privacy interest, but focusing on the possessory interest of the owner of the container for the moment, would there be... would the case be any different, in your view if... it is unlikely on these facts with this container... but if the owner had said I want the package back just as soon as possible because it has got very important matter that I want to use?"
+1984.83-1625,0,16154,alan_i_horowitz,,1406.292,1408.453,"No, I don't think they could have?"
+1984.83-1625,0,15060,john_paul_stevens,scotus_justice,1415.048,1416.908,Assume it was a locked briefcase.
+1984.83-1625,0,16154,alan_i_horowitz,,1416.908,1418.01,"--Yes, absolutely."
+1984.83-1625,0,15141,william_h_rehnquist,scotus_justice,1436.85,1452.322,"So suppose that the search was... seized... a bunch of bales of cotton were seized and couple weeks goes by, and the seizure of the bales was perfectly legitimate, and the owner says, well, look, I want to sell these bales, this is a good time of year to sell them."
+1984.83-1625,0,16154,alan_i_horowitz,,1459.297,1459.678,Right.
+1984.83-1625,0,15092,sandra_day_oconnor,scotus_justice,1466.093,1476.748,"But in this case I gather you agree that the officers had probable cause to believe it was marijuana, and in fact it was and was forfeitable."
+1984.83-1625,0,16154,alan_i_horowitz,,1482.2,1492.268,"I can't conceive of anything in the facts of this case where the Defendants would be prejudiced at all by... I mean, as a practical matter, the police are not going to keep these things around indefinitely."
+1984.83-1625,0,15073,warren_e_burger,scotus_justice,1621.783,1630.499,Mr. Walker?
+1984.83-1625,1,46584,william_g_walker,,1630.499,1634.443,"Mr. Chief Justice, and may it please the Court:"
+1984.83-1625,1,15073,warren_e_burger,scotus_justice,1653.653,1659.878,Do you agree with the Court of Appeals that the packages could have been opened on the scene right at the time they were--
+1984.83-1625,1,46584,william_g_walker,,1659.878,1661.079,"No, sir, we do not."
+1984.83-1625,1,15141,william_h_rehnquist,scotus_justice,1689.277,1697.302,"--Well, that ordinarily is a factual question, I suppose, you know, if the focus of the officers is a relevant fact."
+1984.83-1625,1,46584,william_g_walker,,1707.529,1712.431,"I take issue with your conclusion, respectfully, that the Court of Appeals found that fact against us."
+1984.83-1625,1,15141,william_h_rehnquist,scotus_justice,1767.138,1768.769,The packages were in the vehicle.
+1984.83-1625,1,46584,william_g_walker,,1768.769,1775.003,"--Yes, sir, but the District Court found only that they viewed the packages, not that they did any search."
+1984.83-1625,1,15073,warren_e_burger,scotus_justice,1789.221,1792.934,"Let me see what, if I am confused about the facts."
+1984.83-1625,1,46584,william_g_walker,,1797.896,1803.981,"According to the evidence, what happened was the vehicles went down to an airstrip in Bowie, Arizona."
+1984.83-1625,1,15073,warren_e_burger,scotus_justice,1809.474,1820.033,"Then you don't agree with the government's version of the facts, that they came in this isolated airstrip at night and the packages were taken off the small airplane and put onto the truck."
+1984.83-1625,1,46584,william_g_walker,,1821.052,1821.823,--We agree with part of that.
+1984.83-1625,1,15073,warren_e_burger,scotus_justice,1843.538,1847.251,"And you agree that the packages came off the airplane, do you?"
+1984.83-1625,1,46584,william_g_walker,,1847.251,1848.092,"--Yes, Your Honor, we do."
+1984.83-1625,1,15073,warren_e_burger,scotus_justice,1848.092,1848.48,And were put on--
+1984.83-1625,1,46584,william_g_walker,,1848.48,1849.762,"Yes, Your Honor, we do."
+1984.83-1625,1,15141,william_h_rehnquist,scotus_justice,1850.882,1855.376,--You say that the police never made a vehicle search.
+1984.83-1625,1,46584,william_g_walker,,1855.376,1856.107,"--Yes, sir."
+1984.83-1625,1,15141,william_h_rehnquist,scotus_justice,1856.107,1863.701,"Well, you mean of... I guess they never searched the parcels until several days after they were removed--"
+1984.83-1625,1,46584,william_g_walker,,1863.701,1864.723,"That is correct, Your Honor."
+1984.83-1625,1,15141,william_h_rehnquist,scotus_justice,1864.723,1865.942,--from the vehicle.
+1984.83-1625,1,46584,william_g_walker,,1868.414,1873.287,That's a very important question to our theory of the case.
+1984.83-1625,1,15141,william_h_rehnquist,scotus_justice,1876.58,1879.762,"Well, does it take a long time to answer the question?"
+1984.83-1625,1,46584,william_g_walker,,1879.762,1880.4,"--No, sir."
+1984.83-1625,1,15141,william_h_rehnquist,scotus_justice,1880.4,1881.432,Where were the parcels seized?
+1984.83-1625,1,46584,william_g_walker,,1882.493,1885.766,The parcels were in the pickup portion of the vehicles.
+1984.83-1625,1,15141,william_h_rehnquist,scotus_justice,1885.766,1887.125,So they were seized on the vehicles--
+1984.83-1625,1,46584,william_g_walker,,1887.125,1887.816,"Yes, sir, they were."
+1984.83-1625,1,15092,sandra_day_oconnor,scotus_justice,1888.667,1889.338,--Okay.
+1984.83-1625,1,46584,william_g_walker,,1893.63,1897.514,"--Yes, ma'am, the vehicles were driven to the stationhouse and--"
+1984.83-1625,1,15092,sandra_day_oconnor,scotus_justice,1897.514,1898.653,By the officers.
+1984.83-1625,1,46584,william_g_walker,,1898.653,1899.084,--Yes.
+1984.83-1625,1,15092,sandra_day_oconnor,scotus_justice,1899.084,1900.806,The entire vehicle with the contents.
+1984.83-1625,1,46584,william_g_walker,,1900.806,1901.675,"Yes, Your Honor, yes, Your Honor."
+1984.83-1625,1,15073,warren_e_burger,scotus_justice,1969.849,1984.83,"Well, you must agree, I would think, that frequently we do not consider a principle laid down as confined to the precise facts in which... in the case in which they were laid down."
+1984.83-1625,1,46584,william_g_walker,,1993.094,1993.795,"Yes, Your Honor."
+1984.83-1625,1,15073,warren_e_burger,scotus_justice,1993.795,1994.957,It went beyond prior holdings.
+1984.83-1625,1,46584,william_g_walker,,1994.957,1996.206,"Yes, Your Honor."
+1984.83-1625,1,15073,warren_e_burger,scotus_justice,1996.206,2010.175,"But if it happened to be a truck instead of a camper or a taxicab instead of a truck, that wouldn't make any difference, would it, in terms of the principles laid down?"
+1984.83-1625,1,46584,william_g_walker,,2010.175,2011.037,"No, sir."
+1984.83-1625,1,15104,thurgood_marshall,scotus_justice,2057.558,2060.738,Could they have opened up one of those packages at that point?
+1984.83-1625,1,46584,william_g_walker,,2060.738,2061.75,"--No, Your Honor."
+1984.83-1625,1,15104,thurgood_marshall,scotus_justice,2061.75,2063.08,Why not?
+1984.83-1625,1,46584,william_g_walker,,2063.08,2075.838,"They could not have opened the packages because what the police were concerned about in this case and what they were involved in was not an automobile search, but rather, a search of packages, and in Chadwick where the--"
+1984.83-1625,1,15104,thurgood_marshall,scotus_justice,2075.838,2078.289,"Well, it was the packages that they took, right?"
+1984.83-1625,1,46584,william_g_walker,,2078.289,2078.99,"--Yes, Your Honor."
+1984.83-1625,1,15104,thurgood_marshall,scotus_justice,2078.99,2081.452,"Well, couldn't they have opened what they took?"
+1984.83-1625,1,46584,william_g_walker,,2081.452,2083.675,"I don't believe so, Your Honor, not without a warrant."
+1984.83-1625,1,15104,thurgood_marshall,scotus_justice,2084.965,2086.627,What's the rule at the point of arrest?
+1984.83-1625,1,46584,william_g_walker,,2086.627,2087.416,--I'm sorry?
+1984.83-1625,1,15104,thurgood_marshall,scotus_justice,2087.416,2091.48,"At the point of arrest they had what, hold them there, then go get a warrant?"
+1984.83-1625,1,46584,william_g_walker,,2091.48,2092.609,"Yes, sir."
+1984.83-1625,1,15060,john_paul_stevens,scotus_justice,2092.609,2093.38,I see.
+1984.83-1625,1,46584,william_g_walker,,2093.38,2094.432,If the packages had been--
+1984.83-1625,1,15060,john_paul_stevens,scotus_justice,2094.432,2095.551,May I ask--
+1984.83-1625,1,46584,william_g_walker,,2099.895,2100.436,"--Yes, sir."
+1984.83-1625,1,15104,thurgood_marshall,scotus_justice,2100.436,2101.475,You would still have to go get a warrant.
+1984.83-1625,1,46584,william_g_walker,,2101.475,2102.306,"Yes, sir."
+1984.83-1625,1,15092,sandra_day_oconnor,scotus_justice,2108.01,2120.518,"Mr. Walker, do you think the police could have... if your client had requested the return of the bales, that the police would have to give back the marijuana in this case to them, ever?"
+1984.83-1625,1,46584,william_g_walker,,2120.518,2123.63,"No, ma'am, but I think what would have happened, as a matter of--"
+1984.83-1625,1,15092,sandra_day_oconnor,scotus_justice,2123.63,2124.832,"It was forfeitable, was it not?"
+1984.83-1625,1,46584,william_g_walker,,2124.832,2125.253,"--Yes, ma'am."
+1984.83-1625,1,15092,sandra_day_oconnor,scotus_justice,2125.253,2125.921,It was contraband.
+1984.83-1625,1,46584,william_g_walker,,2125.921,2126.902,"Yes, ma'am."
+1984.83-1625,1,15092,sandra_day_oconnor,scotus_justice,2126.902,2133.007,And what possible interest did your clients have in the contents of those bales that--
+1984.83-1625,1,46584,william_g_walker,,2133.007,2133.498,It's--
+1984.83-1625,1,15092,sandra_day_oconnor,scotus_justice,2133.498,2135.939,--that you think can be asserted?
+1984.83-1625,1,46584,william_g_walker,,2135.939,2143.422,--It's not because of a possessory interest in counterfeit goods that we allow the exclusionary rule in this setting.
+1984.83-1625,1,15092,sandra_day_oconnor,scotus_justice,2151.638,2152.95,What's wrong with that argument?
+1984.83-1625,1,46584,william_g_walker,,2152.95,2168.039,"--Well, I think that the thing that is wrong with that government is that the reason for the exclusionary rule is as a prophylactic effect, to prevent the police from engaging in illegal behavior, and the fact that it might not help in this cast doesn't mean that the exclusionary rule wouldn't help in cases where we don't know what is in the packages."
+1984.83-1625,1,15073,warren_e_burger,scotus_justice,2168.039,2180.808,"But this Court, the Court of Appeals said it would have been perfectly legal and proper to have torn the packages open at the scene on the bed of the truck or whatever you want to describe it, and take it out for testing."
+1984.83-1625,1,46584,william_g_walker,,2180.808,2182.31,"Yes, sir, yes, sir."
+1984.83-1625,1,15073,warren_e_burger,scotus_justice,2182.31,2182.81,"Then there wouldn't have been any case, would there?"
+1984.83-1625,1,46584,william_g_walker,,2182.81,2183.331,"No, sir."
+1984.83-1625,1,15073,warren_e_burger,scotus_justice,2184.601,2193.427,"What's the... I will put to you the question that your friend rhetorically put, how you have been damaged by waiting a day or two."
+1984.83-1625,1,46584,william_g_walker,,2193.427,2219.313,"Well, it is not the lapse of time that damages us, it is the fact that since this investigation was always an investigation of packages, people have a high expectation of privacy in packages, and this Court has frequently said, way back to the Jackson case where in the mail people had an expectation of privacy in packages, that people's expectation of packages is high."
+1984.83-1625,1,15073,warren_e_burger,scotus_justice,2219.313,2233.755,"Well, privacy expectations in the mail or in interstate commerce are quite different from being... from packages unloaded from a small airplane at an isolated airstrip under the circumstances shown here."
+1984.83-1625,1,46584,william_g_walker,,2233.755,2247.723,"Well, I disagree with Your Honor to the extent that I think this Court has consistently found that regardless of the nature or type of package or the situation with packages, people have a high expectation of privacy with respect to packages."
+1984.83-1625,1,15073,warren_e_burger,scotus_justice,2247.723,2251.466,What if it were in the back of the trunk of a car under Ross?
+1984.83-1625,1,46584,william_g_walker,,2251.466,2273.409,"If the police are in the pursuit of an automobile search, then dispute a person's high expectation of privacy in the package, this Court has allowed the search, not because the expectation of privacy is lessened, but because of the fact that the police are engaged in an automobile search, the completion of which is dependent on being able to search everything in the automobile."
+1984.83-1625,1,15073,warren_e_burger,scotus_justice,2273.409,2276.061,You say it must be completed right away on the scene.
+1984.83-1625,1,46584,william_g_walker,,2276.061,2276.982,"Yes, Your Honor."
+1984.83-1625,1,15073,warren_e_burger,scotus_justice,2285.927,2290.299,"But then, do you really disagree with the Court of Appeals about the search on the scene?"
+1984.83-1625,1,46584,william_g_walker,,2290.299,2298.446,"We would support them as a backup position, but we disagree when they conclude that these packages could have been searched on the scene."
+1984.83-1625,1,15092,sandra_day_oconnor,scotus_justice,2298.446,2317.078,"Well, Mr. Walker, what... what about a package that is wrapped as marijuana bales are typically wrapped, experienced officers known that, it looks like marijuana, it smells like marijuana, and n fact, it is marijuana?"
+1984.83-1625,1,46584,william_g_walker,,2332.518,2334.489,"Well, I would respectfully disagree with Your Honor."
+1984.83-1625,1,15092,sandra_day_oconnor,scotus_justice,2342.886,2346.667,Has nothing to do with whether the container is worthy.
+1984.83-1625,1,46584,william_g_walker,,2353.001,2359.115,"--Well, that is really the plain view argument, and that is an argument which is not being urged upon this Court by the Petitioner."
+1984.83-1625,1,15071,byron_r_white,scotus_justice,2362.278,2367.199,"Could I ask you, what would the government have to do before it burnt these packages?"
+1984.83-1625,1,46584,william_g_walker,,2367.199,2368.151,"--I'm sorry, Your Honor."
+1984.83-1625,1,15071,byron_r_white,scotus_justice,2368.151,2374.515,What would the government have to do before it confiscated these packages and burnt them?
+1984.83-1625,1,46584,william_g_walker,,2374.515,2375.276,Burnt them?
+1984.83-1625,1,15071,byron_r_white,scotus_justice,2375.276,2375.985,"Burnt the marijuana, yes."
+1984.83-1625,1,46584,william_g_walker,,2390.457,2395.32,"If they open it to make sure, that's a search, and I think they would have to have a warrant for that."
+1984.83-1625,1,15071,byron_r_white,scotus_justice,2395.32,2396.72,Before they can burn it.
+1984.83-1625,1,46584,william_g_walker,,2396.72,2398.702,Before they opened it to see what was in it.
+1984.83-1625,1,15071,byron_r_white,scotus_justice,2398.702,2403.154,"Well, you don't think they could just have burned it without opening it?"
+1984.83-1625,1,46584,william_g_walker,,2403.154,2405.418,I don't know the answer to that question.
+1984.83-1625,1,15073,warren_e_burger,scotus_justice,2405.418,2406.436,How about a forfeiture proceeding?
+1984.83-1625,1,46584,william_g_walker,,2409.068,2413.111,I think it would be required before there was any physical intrusion into the package.
+1984.83-1625,1,15104,thurgood_marshall,scotus_justice,2413.111,2415.282,Do you still claim privacy?
+1984.83-1625,1,46584,william_g_walker,,2415.282,2417.773,"Yes, Your Honor."
+1984.83-1625,1,15104,thurgood_marshall,scotus_justice,2418.524,2419.957,Why didn't they claim it?
+1984.83-1625,1,46584,william_g_walker,,2419.957,2421.736,--Why didn't they claim it?
+1984.83-1625,1,15104,thurgood_marshall,scotus_justice,2421.736,2423.157,Why didn't they claim those bales?
+1984.83-1625,1,46584,william_g_walker,,2423.157,2428.8,"Well, for the same reason that people that are involved in criminal activity never claim contraband, but that doesn't--"
+1984.83-1625,1,15104,thurgood_marshall,scotus_justice,2428.8,2432.213,But you still have privacy in something you don't want to admit is yours?
+1984.83-1625,1,46584,william_g_walker,,2432.213,2435.157,--I think it is... I think this Court has recognized--
+1984.83-1625,1,15104,thurgood_marshall,scotus_justice,2435.157,2437.927,"Well, then, you keep putting quotes on things."
+1984.83-1625,1,46584,william_g_walker,,2440.618,2451.225,"--What I am suggesting to this Court is that you have for years and years recognized that people have a high expectation of privacy in containers, even though they may contain contraband."
+1984.83-1625,1,15119,lewis_f_powell_jr,scotus_justice,2453.917,2460.882,"Mr. Walker, what position did the Defendant in this case take at the trial court?"
+1984.83-1625,1,46584,william_g_walker,,2460.882,2475.993,"At the trial court the position of the defendants were twofold, Your Honor, number one, that this was not a vehicle search and that there was a warrant needed for the packages for that reason, and number two, at the time that we were in the trial court, we were arguing Robbins, which was far different."
+1984.83-1625,1,15119,lewis_f_powell_jr,scotus_justice,2475.993,2477.964,You were relying on Robbins.
+1984.83-1625,1,46584,william_g_walker,,2477.964,2478.775,"Yes, Your Honor, we were."
+1984.83-1625,1,15119,lewis_f_powell_jr,scotus_justice,2478.775,2480.255,"That was a vehicle search case, wasn't it?"
+1984.83-1625,1,46584,william_g_walker,,2480.255,2481.657,"Yes, Your Honor."
+1984.83-1625,1,15119,lewis_f_powell_jr,scotus_justice,2481.657,2484.659,Was that your position also in the Court of Appeals?
+1984.83-1625,1,46584,william_g_walker,,2484.659,2491.243,"It was our position initially in the Court of Appeals, and then Ross came down while we were on appeal."
+1984.83-1625,1,15119,lewis_f_powell_jr,scotus_justice,2495.615,2496.015,Yes.
+1984.83-1625,1,46584,william_g_walker,,2504.581,2506.321,What change in the facts in this case?
+1984.83-1625,1,15119,lewis_f_powell_jr,scotus_justice,2506.321,2506.862,Yes.
+1984.83-1625,1,46584,william_g_walker,,2506.862,2508.164,"Nothing, Your Honor."
+1984.83-1625,1,15119,lewis_f_powell_jr,scotus_justice,2512.896,2513.828,That there was no automobile search?
+1984.83-1625,1,46584,william_g_walker,,2513.828,2514.757,--I'm sorry?
+1984.83-1625,1,15119,lewis_f_powell_jr,scotus_justice,2514.757,2518.17,Was it your position from the beginning that there was no automobile search?
+1984.83-1625,1,46584,william_g_walker,,2518.17,2521.042,We didn't argue--
+1984.83-1625,1,15119,lewis_f_powell_jr,scotus_justice,2521.042,2522.133,You relied on Robbins--
+1984.83-1625,1,46584,william_g_walker,,2522.133,2522.614,--Yes.
+1984.83-1625,1,15119,lewis_f_powell_jr,scotus_justice,2522.614,2529.255,"--And to rely on Robbins, you had to state, I assume, or argue that there was an automobile search."
+1984.83-1625,1,46584,william_g_walker,,2529.255,2534.039,"Our argument initially was that there was no automobile search, but if there was one, then Robbins applied."
+1984.83-1625,1,15060,john_paul_stevens,scotus_justice,2545.657,2556.073,"I want to go back, if I may, to the question of whether there was an automobile search, which is you in effect making an alternate ground for affirmance by disagreeing with the Court of Appeals on that point."
+1984.83-1625,1,46584,william_g_walker,,2556.073,2556.524,"Yes, Your Honor."
+1984.83-1625,1,15060,john_paul_stevens,scotus_justice,2556.524,2568.221,"And you say that it was not an automobile search in part because there was no evidence found anywhere except in these bales, and you have inferred from that that therefore the officers did not in fact search the rest of the camper."
+1984.83-1625,1,46584,william_g_walker,,2572.675,2582.012,"Well, on page 139 of the trial record, on question by the prosecutor, the officer who was at the scene indicated that they did not do a search."
+1984.83-1625,1,15060,john_paul_stevens,scotus_justice,2582.012,2606.007,"But even if they didn't, take it one step farther, the question as to whether Ross applies or not I suppose turns on whether there was probable cause to make a search of the vehicle, and could not one conclude that when you have loaded all this stuff into this vehicle and the vehicle is owned by the same group of people who own the contents, that there is probable cause that would justify a search of the entire vehicle?"
+1984.83-1625,1,46584,william_g_walker,,2606.007,2611.221,I don't think there would be any more probable cause in this case than there was for the Court in Sanders?
+1984.83-1625,1,15060,john_paul_stevens,scotus_justice,2611.221,2613.682,Except there they had put it in a taxicab.
+1984.83-1625,1,46584,william_g_walker,,2615.532,2622.818,"Well, the facts, as I remember them, in Sanders, Your Honor, were that there were two trips by the Defendant to the vehicle in Sanders."
+1984.83-1625,1,15060,john_paul_stevens,scotus_justice,2641.96,2644.093,--My memory may be faulty.
+1984.83-1625,1,46584,william_g_walker,,2644.792,2646.374,"--It was a taxicab, but--"
+1984.83-1625,1,15060,john_paul_stevens,scotus_justice,2646.374,2650.364,"Well, is there any reason to believe the cab company is in league with the people that were--"
+1984.83-1625,1,46584,william_g_walker,,2650.364,2653.907,"--No, sir, but there was personal luggage of the defendant that was put in the taxicab."
+1984.83-1625,1,15060,john_paul_stevens,scotus_justice,2653.907,2656.05,"--Well, yes, but... all right."
+1984.83-1625,1,46584,william_g_walker,,2656.05,2664.746,"My point is simply that it is not whether you have probable cause to make an automobile search that should be dispositive, it is whether you are engaged in one."
+1984.83-1625,1,15060,john_paul_stevens,scotus_justice,2664.746,2670.69,"In other words, the subjective motive of the police officer making it rather than the objective facts that justify the action?"
+1984.83-1625,1,46584,william_g_walker,,2670.69,2671.069,"No, sir."
+1984.83-1625,1,15060,john_paul_stevens,scotus_justice,2699.969,2704.791,"Yes, but that is... we are talking about Ross now, and the question is whether there is probable cause to make a vehicle search."
+1984.83-1625,1,46584,william_g_walker,,2704.791,2705.381,"Yes, sir."
+1984.83-1625,1,15060,john_paul_stevens,scotus_justice,2705.381,2709.353,And your position is there was not probable cause to make a search of this camper.
+1984.83-1625,1,46584,william_g_walker,,2709.353,2709.894,"No, sir."
+1984.83-1625,1,15060,john_paul_stevens,scotus_justice,2724.013,2726.847,My understanding... they can finish the job they have already started.
+1984.83-1625,1,46584,william_g_walker,,2726.847,2727.416,"--Yes, sir."
+1984.83-1625,1,15141,william_h_rehnquist,scotus_justice,2759.687,2770.263,"Well, then, your point, I take it, is that even though these things were loaded on these trucks at the time the police saw them, the police would have had to get a warrant to search them right at that moment."
+1984.83-1625,1,46584,william_g_walker,,2770.263,2772.006,"Yes, Your Honor, that is our position."
+1984.83-1625,1,15141,william_h_rehnquist,scotus_justice,2786.836,2800.706,"Well, then, your... the success of your position would depend on later showing, I suppose, under your terms that the police wanted only to seize these particular bales, and that they would not have searched any other part of the truck."
+1984.83-1625,1,46584,william_g_walker,,2800.706,2804.068,"--And in fact, all of the evidence is undisputed that that is exactly what happened."
+1984.83-1625,1,15141,william_h_rehnquist,scotus_justice,2804.068,2812.734,But you have to know at the... you have to know that something later is going to happen at the time you decide whether to get a warrant or not.
+1984.83-1625,1,46584,william_g_walker,,2819.888,2827.434,"It is what the police are in the process of doing, if they are in the process of conducting an automobile search."
+1984.83-1625,1,15141,william_h_rehnquist,scotus_justice,2827.434,2836.189,"That really would work quite a twist in Ross, I think, because you are imputing, imputing kind of a motivation thing that certainly isn't in Ross."
+1984.83-1625,1,46584,william_g_walker,,2836.189,2845.075,"Well, this Court has found consistently that when you are applying an exception to the warrant requirement, the exception should be narrowly construed."
+1984.83-1625,1,15141,william_h_rehnquist,scotus_justice,2845.075,2850.148,"Well, I don't think you will find that a majority of the Court agree that Ross should be narrowly construed at all."
+1984.83-1625,1,46584,william_g_walker,,2856.423,2863.516,"Regardless of how you read Ross, though, Your Honor, Ross applies to situations where there is a legitimate automobile search in progress."
+1984.83-1625,1,15104,thurgood_marshall,scotus_justice,2873.954,2878.876,"In this case, would it have been all right if the officer had said,"
+1984.83-1625,1,46584,william_g_walker,,2882.679,2887.161,"If he had said that and then they had been engaged in an automobile search, yes, Your Honor."
+1984.83-1625,1,15104,thurgood_marshall,scotus_justice,2887.161,2890.143,So the only thing wrong was they didn't make those--
+1984.83-1625,1,46584,william_g_walker,,2890.143,2895.458,"Well, the only thing wrong with it was that the entire focus of this inquiry was on the packages."
+1984.83-1625,1,15104,thurgood_marshall,scotus_justice,2895.458,2897.279,--Oh.
+1984.83-1625,1,46584,william_g_walker,,2900.862,2901.981,There was no search of the vehicle.
+1984.83-1625,1,15071,byron_r_white,scotus_justice,2904.154,2913.321,"Suppose there had been one package, and it was a big truck, and you didn't know whether it was in the back or in the front, and so you had to search the vehicle to find the package?"
+1984.83-1625,1,46584,william_g_walker,,2917.331,2918.573,But if the focus--
+1984.83-1625,1,15071,byron_r_white,scotus_justice,2918.573,2920.193,--And then you find the package.
+1984.83-1625,1,46584,william_g_walker,,2921.325,2922.775,--That's not... that's not the facts of this case.
+1984.83-1625,1,15071,byron_r_white,scotus_justice,2922.775,2924.998,"Well, I know, but what if you did?"
+1984.83-1625,1,46584,william_g_walker,,2924.998,2928.849,I think if you were in the process of making a vehicle search--
+1984.83-1625,1,15071,byron_r_white,scotus_justice,2928.849,2930.992,Only to... only to find the package.
+1984.83-1625,1,46584,william_g_walker,,2930.992,2935.855,"--Then I think you are doing a vehicle search, but you are not doing a vehicle search here."
+1984.83-1625,1,15060,john_paul_stevens,scotus_justice,2950.704,2952.364,"No, but there is still another distinction."
+1984.83-1625,1,46584,william_g_walker,,2976.059,2979.061,"Well, I respectfully disagree with you, Justice Stevens, for this reason."
+1984.83-1625,1,15060,john_paul_stevens,scotus_justice,3004.459,3015.436,"Well, would you not agree that at least analytically there is a possibility of a distinction between a right to make a vehicle search on the one hand, and the question of whether you are actually engaged in it on the other?"
+1984.83-1625,1,46584,william_g_walker,,3015.436,3018.318,"Absolutely, Your Honor, and I think that is what the government grounds its argument on."
+1984.83-1625,1,15060,john_paul_stevens,scotus_justice,3018.318,3020.79,"And that's what the Court of Appeals based its holding on, too."
+1984.83-1625,1,46584,william_g_walker,,3020.79,3021.24,"Yes, sir."
+1984.83-1625,1,15060,john_paul_stevens,scotus_justice,3021.24,3023.0,That there was probable cause to search the entire vehicle.
+1984.83-1625,1,46584,william_g_walker,,3023.0,3023.902,"Yes, sir."
+1984.83-1625,1,15141,william_h_rehnquist,scotus_justice,3097.029,3103.093,"But under the reasoning of the automobile search exception, it makes all the difference in the world."
+1984.83-1625,1,46584,william_g_walker,,3116.223,3129.409,"My argument, if the Court please, is based on the plain reading of Ross which says that if you are in the process of an auto search you can do it, but just the justification to do an automobile search doesn't do it for you."
+1984.83-1625,1,15092,sandra_day_oconnor,scotus_justice,3167.456,3172.068,"Mr. Walker, what if we disagree with you on your interpretation of Ross?"
+1984.83-1625,1,46584,william_g_walker,,3179.392,3180.974,"Yes, Your Honor, and that is our second argument."
+1984.83-1625,1,15092,sandra_day_oconnor,scotus_justice,3198.857,3208.774,"What if the truck had just been kept in the yard at the police station for three days with the packages in it, and then it was opened and they were searched?"
+1984.83-1625,1,46584,william_g_walker,,3209.722,3211.825,"Yes, Your Honor, I think it is, and I think the cases that this Court--"
+1984.83-1625,1,15092,sandra_day_oconnor,scotus_justice,3211.825,3217.218,What difference could it possibly make that the packages were removed and searched after three days?
+1984.83-1625,1,46584,william_g_walker,,3217.218,3229.905,"--The difference is that we have historically allowed automobile searches not only in situations where there are exigencies, but even days later, because historically people have a lesser expectation of privacy in their automobiles."
+1984.83-1625,1,15092,sandra_day_oconnor,scotus_justice,3260.426,3267.121,In what sense can you say that the interests of your client suffer more in one case than the other?
+1984.83-1625,1,46584,william_g_walker,,3267.121,3273.656,"Well, the interests of the client suffer only because the client has always had a high expectation of privacy in the package."
+1984.83-1625,1,15092,sandra_day_oconnor,scotus_justice,3273.656,3275.547,Legitimate expectation?
+1984.83-1625,1,46584,william_g_walker,,3275.547,3276.936,"Yes, Your Honor."
+1984.83-1625,1,15073,warren_e_burger,scotus_justice,3276.936,3278.479,In the bales of marijuana?
+1984.83-1625,1,46584,william_g_walker,,3280.221,3287.224,"In Chadwick this Court found a high expectation of privacy in a trunk even though it had contraband in it, and in Sanders the Court found--"
+1984.83-1625,1,15073,warren_e_burger,scotus_justice,3287.224,3290.116,It had two locks on it and it was not in an automobile.
+1984.83-1625,1,46584,william_g_walker,,3290.116,3292.437,"--Well, but the expectation of privacy was the same."
+1984.83-1625,1,15141,william_h_rehnquist,scotus_justice,3292.437,3296.841,"Well, you don't bring the stuff in at Bowie rather than Tucson unless you want some privacy in it."
+1984.83-1625,1,46584,william_g_walker,,3296.841,3298.13,"Yes, Your Honor."
+1984.83-1625,1,15073,warren_e_burger,scotus_justice,3306.777,3315.315,I suppose every criminal engaged in criminal activity hopes that he is going to have a lot of privacy.
+1984.83-1625,1,46584,william_g_walker,,3315.315,3320.468,I would like to answer a question that Justice Stevens posed of government's counsel.
+1984.83-1625,1,15060,john_paul_stevens,scotus_justice,3351.647,3367.789,"This is really an exception from an exception, in a way, because if they are within the automobile exception, which you of course disagree, then the question is whether they got out of it by waiting too long, and I wonder if you would disagree with the Court of Appeals' formulation of the test they are applying of ""soon thereafter""."
+1984.83-1625,1,46584,william_g_walker,,3370.56,3386.95,"--Soon thereafter I think is consistent with this Court's dictate in Robbins where you yourself said soon thereafter, and I think what the Court found, the Court of Appeals found is there was nothing in the record to justify that it was soon thereafter, and the government has the burden of proving it is soon thereafter."
+1984.83-1625,1,15060,john_paul_stevens,scotus_justice,3386.95,3391.434,And you would agree that the record really does not tell us when they tested it.
+1984.83-1625,1,46584,william_g_walker,,3391.434,3409.686,"I would agree with that, and for that reason I think this is a bad case for this Court to decide on certiorari, but if you are going to decide it, then I think what you have to do is to say the burden of proof is no the government to prove the exception, the exception as enunciated in Ross clearly says it has got to be soon thereafter, and there is no proof in this record that it was soon thereafter."
+1984.83-1625,1,15060,john_paul_stevens,scotus_justice,3409.686,3418.302,"Yes, but the Court of Appeals, under the Court of Appeals' rationale, it wouldn't have made any difference how soon it was."
+1984.83-1625,1,46584,william_g_walker,,3418.302,3422.085,"No, sir, I think the Court of Appeals said that if it had been done soon thereafter it would have been okay."
+1984.83-1625,1,15073,warren_e_burger,scotus_justice,3422.085,3427.958,"Do you have anything further, Mr. Horowitz?"
+1984.83-1625,2,16154,alan_i_horowitz,,3427.958,3432.571,Let me just make a brief point about this question of whether the trucks were searched.
+1984.83-1625,2,15073,warren_e_burger,scotus_justice,3481.925,3485.526,Do we know whether this truck was forfeited after the event or not?
+1984.83-1625,2,16154,alan_i_horowitz,,3485.526,3488.647,"I assume that it was, but I don't know."
+1984.83-1625,2,15073,warren_e_burger,scotus_justice,3502.075,3502.907,"Thank you, gentlemen."

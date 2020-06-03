@@ -1,0 +1,233 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2007.06-937,0,15086,john_g_roberts_jr,scotus_justice,0.0,7.987,"We'll hear argument first today in Case 06-937, Quanta Computer v. LG Electronics."
+2007.06-937,0,36325,maureen_e_mahoney,,9.939,27.65,"Mr. Chief Justice, and may it please the Court: Under this Court's exhaustion cases, exhaustion has always been triggered when two criteria have been satisfied and the district court properly dismissed these claims because it found that they were satisfied here on the undisputed facts."
+2007.06-937,0,15060,john_paul_stevens,scotus_justice,79.83,82.582,"Ms. Mahoney, can I just get one thing straight in my mind."
+2007.06-937,0,36325,maureen_e_mahoney,,93.49,113.637,"--I think they work in combination here, Your Honor, because once the sale was... once the license was entered into with Intel and once unrestricted rights were given to make, use and sell components that would infringe, otherwise infringe these patents, there was really nothing else that could happen--"
+2007.06-937,0,15060,john_paul_stevens,scotus_justice,113.637,114.737,Was the license unrestricted?
+2007.06-937,0,36325,maureen_e_mahoney,,119.374,123.243,"--Well, there was... what there was, the sale was authorized."
+2007.06-937,0,15060,john_paul_stevens,scotus_justice,125.361,129.08,On the condition that it be sold to someone who would not use it on non-Intel products.
+2007.06-937,0,36325,maureen_e_mahoney,,129.08,133.634,"--I don't think that's what the lower courts found and I don't think that's what the argument has ever been, Your Honor."
+2007.06-937,0,15086,john_g_roberts_jr,scotus_justice,196.522,201.307,"Well, if that's true then this case really isn't a big deal at all."
+2007.06-937,0,36325,maureen_e_mahoney,,224.256,234.528,"Well, the wording hasn't been in dispute, but a lot of important things turn on it, because of course if Intel didn't have the authority to make these sales, it would be liable for contributory infringement."
+2007.06-937,0,15086,john_g_roberts_jr,scotus_justice,243.467,253.775,"Well, I understand your position to... to acknowledge that they could have structured the sale to Intel in such a way as to achieve the same result that you're saying is so bad under the patent laws."
+2007.06-937,0,36325,maureen_e_mahoney,,253.775,254.675,"I don't think so, Your Honor."
+2007.06-937,0,15084,ruth_bader_ginsburg,scotus_justice,260.928,263.231,May I give you a specific example?
+2007.06-937,0,36325,maureen_e_mahoney,,294.436,297.971,"--They could do that, and let me explain the consequences of doing that."
+2007.06-937,0,15084,ruth_bader_ginsburg,scotus_justice,338.529,347.385,But explain to me... perhaps I should ask Mr. Phillips this question... but why isn't it done that way?
+2007.06-937,0,36325,maureen_e_mahoney,,364.077,379.237,"--Presumably because in this circumstance... it's not in the record... but presumably Intel wouldn't agree to these terms unless it in fact was given authority to sell, no matter how it was going to be used, because otherwise it would still be on the hook for liability."
+2007.06-937,0,15086,john_g_roberts_jr,scotus_justice,397.115,406.804,"So the parties are unwilling to spell out exactly how this is going to work out in their contract, and each side, it prefers to take their chances on how the Federal Circuit's going to rule."
+2007.06-937,0,36325,maureen_e_mahoney,,426.718,441.56,"Well, I think that this Court's ruling would certainly make things clear, but I think that the language of the contract recognizes that the... specifically says that, notwithstanding anything to the contrary, the ordinary operation of patent exhaustion is supposed to apply here."
+2007.06-937,0,15086,john_g_roberts_jr,scotus_justice,442.877,462.058,"Fine, and the person who wrote that provision knows that the question of how the patent-exhaustion doctrine applies is the subject of great confusion, so much confusion that the Supreme Court's going to have to decide it, and yet they put that in there rather than spelling out in the contract exactly which they had in mind, whether or not you could impose these further restrictions or couldn't."
+2007.06-937,0,36325,maureen_e_mahoney,,462.058,473.747,"--But, Your Honor, I think that under this Court's decision in Univis Lens, as the district court recognized, the answer in this case is actually quite clear what the patent-exhaustion doctrine would require."
+2007.06-937,0,15086,john_g_roberts_jr,scotus_justice,475.616,477.167,"Well, it wasn't clear to the Federal Circuit, I guess."
+2007.06-937,0,36325,maureen_e_mahoney,,477.167,487.173,"--It wasn't clear to the Federal Circuit, but it was clear to the district court, showing that the idea that somehow it was absolutely known to everybody what the outcome of this issue would be is not correct."
+2007.06-937,0,15042,david_h_souter,scotus_justice,613.404,629.782,"Well, there's one... there's one more wrinkle that you don't expressly advert to and that is the argument that what is in issue here are the... are the systems and methods patents, rather than the... the equipment component patents."
+2007.06-937,0,36325,maureen_e_mahoney,,629.782,630.582,Yes.
+2007.06-937,0,15042,david_h_souter,scotus_justice,630.582,638.752,"And that with respect to the equipment component patents nothing is being retained, but with respect to the systems and method patents nothing was being granted."
+2007.06-937,0,36325,maureen_e_mahoney,,642.889,647.841,It's completely inconsistent with the way the case has been litigated from the outset as well as the terms of the contract.
+2007.06-937,0,15042,david_h_souter,scotus_justice,679.758,685.579,So the answer simply is that that the argument rests upon a mistake of fact which has not been challenged in the record?
+2007.06-937,0,36325,maureen_e_mahoney,,685.579,686.88,It absolutely has not.
+2007.06-937,0,15042,david_h_souter,scotus_justice,686.88,687.497,Yes.
+2007.06-937,0,36325,maureen_e_mahoney,,687.497,689.065,The component patents are not at issue here at all.
+2007.06-937,0,15060,john_paul_stevens,scotus_justice,747.402,764.196,"Ms. Mahoney, I understand that's really the way it's been litigated, but I have to confess I was puzzled by the court of appeals' statement that the granting of the license constituted a sale for exhaustion purposes, and they cited the Masonite case for that proposition, but it doesn't seem to me to support that proposition."
+2007.06-937,0,36325,maureen_e_mahoney,,764.196,783.61,"--Your Honor, I think all that that really is saying is that at a point when you enter into... a patentowner enters into an unrestricted license to make, use, and sell with a manufacturer, then at that point any articles that are manufactured under that license, effectively the patent's been exhausted."
+2007.06-937,0,15060,john_paul_stevens,scotus_justice,785.51,787.729,"It's not exhausted by the manufacturer, is it?"
+2007.06-937,0,36325,maureen_e_mahoney,,787.729,788.312,--No.
+2007.06-937,0,15060,john_paul_stevens,scotus_justice,790.28,796.167,It's exhausted under this view by the licensee's sale of an article that it manufactured pursuant to the license.
+2007.06-937,0,36325,maureen_e_mahoney,,796.167,797.85,"--But... right, manufactured pursuant--"
+2007.06-937,0,15060,john_paul_stevens,scotus_justice,797.85,809.558,"And it seems to think there's no distinction between the sale itself and the basic underlying license, whereas I had thought for years that there was recognized a distinction between those two transactions."
+2007.06-937,0,36325,maureen_e_mahoney,,809.558,819.782,"--Well, I think that it just means that once you have that transaction any sales that occur for those articles under that license are going to be exhausted by definition."
+2007.06-937,0,15113,anthony_m_kennedy,scotus_justice,927.716,929.149,I see your white light is on.
+2007.06-937,0,36325,maureen_e_mahoney,,945.093,952.164,"Well, what we're... exhaustion is triggered when... with respect to the rights to control and use."
+2007.06-937,0,15113,anthony_m_kennedy,scotus_justice,969.876,972.328,I thought Univis was one of your principal cases.
+2007.06-937,0,36325,maureen_e_mahoney,,972.328,973.028,"--It is, absolutely."
+2007.06-937,0,15086,john_g_roberts_jr,scotus_justice,990.656,991.672,"Thank you, Ms. Mahoney."
+2007.06-937,1,42821,thomas_g_hungar,,1004.632,1017.44,"Thank you, Mr. Chief Justice, and may it please the Court: For 150 years this Court has held that an authorized sale removes the particular item sold from the protection of the patent laws."
+2007.06-937,1,15084,ruth_bader_ginsburg,scotus_justice,1072.674,1084.298,"Mr. Hungar, is there a reason why Congress codified this doctrine in the Copyright Act, but not in the Patent Act?"
+2007.06-937,1,42821,thomas_g_hungar,,1084.298,1090.083,"--We... there's nothing in the legislative record that would explain that, Your Honor."
+2007.06-937,1,15084,ruth_bader_ginsburg,scotus_justice,1120.985,1127.256,And the PTO didn't take any position on whether it should be codified?
+2007.06-937,1,42821,thomas_g_hungar,,1127.256,1140.147,"--I'm not aware of anything in the legislative history of the 1952 codification on the subject of the patent exhaustion doctrine one way or the other; but, obviously, Congress did not express any dissatisfaction with it."
+2007.06-937,1,15086,john_g_roberts_jr,scotus_justice,1181.057,1188.913,Although you think it can be overridden simply by providing in the contract that the same rights and remedies would be available?
+2007.06-937,1,42821,thomas_g_hungar,,1188.913,1192.032,"No, Your Honor."
+2007.06-937,1,15086,john_g_roberts_jr,scotus_justice,1214.128,1218.263,A mere license can prevent the application of the patent-exhaustion doctrine?
+2007.06-937,1,42821,thomas_g_hungar,,1218.263,1221.115,"Well, only at the... only at the level of the licensee."
+2007.06-937,1,15086,john_g_roberts_jr,scotus_justice,1236.558,1242.461,And it would be patent infringement by the use of the product by the people that Intel sold to?
+2007.06-937,1,42821,thomas_g_hungar,,1242.461,1244.397,"Yes, because it was an unauthorized sale."
+2007.06-937,1,15086,john_g_roberts_jr,scotus_justice,1244.397,1249.301,"That would sound like your friend on the other side, the Respondent, had actually won in this case."
+2007.06-937,1,42821,thomas_g_hungar,,1249.301,1250.501,"Well, that's right."
+2007.06-937,1,15139,stephen_g_breyer,scotus_justice,1274.833,1292.342,But you couldn't put in... you are authorized to sell the bicycle pedals that I have patented only if you impose a restriction that will tell the bicycle user that he must send me a check for $15 in addition to whatever he pays you.
+2007.06-937,1,42821,thomas_g_hungar,,1296.012,1298.531,"Well, it might be lawful."
+2007.06-937,1,15139,stephen_g_breyer,scotus_justice,1301.483,1307.72,"Or you are going to have... I mean, there's a doctrine that you cannot impose equitable servitude's upon chattel."
+2007.06-937,1,42821,thomas_g_hungar,,1307.72,1308.204,--Yes.
+2007.06-937,1,15139,stephen_g_breyer,scotus_justice,1308.204,1309.537,That's a contract law doctrine.
+2007.06-937,1,42821,thomas_g_hungar,,1309.537,1313.589,It would not be enforceable as a matter of patent law against the authorized purchaser.
+2007.06-937,1,15139,stephen_g_breyer,scotus_justice,1320.243,1340.037,"My thought is that the reason that these things are important and you can't just draft your way around them is because there are antitrust doctrines, there are contract-law doctrines, that also limit in significant ways what you can and cannot write into a contract."
+2007.06-937,1,42821,thomas_g_hungar,,1340.037,1341.289,--That's exactly right.
+2007.06-937,1,15086,john_g_roberts_jr,scotus_justice,1341.289,1344.274,"Well, I think that's an important question."
+2007.06-937,1,42821,thomas_g_hungar,,1374.342,1380.828,"Well... but, Your Honor, it all goes back to the question: Was there an authorized sale of the article at issue?"
+2007.06-937,1,15086,john_g_roberts_jr,scotus_justice,1383.547,1384.649,Sale from whom to whom?
+2007.06-937,1,42821,thomas_g_hungar,,1384.649,1388.017,--The sale from the licensee to the purchaser.
+2007.06-937,1,15086,john_g_roberts_jr,scotus_justice,1405.729,1415.335,"But what you... well, but what you say in your brief is that in the situation we're talking about the licensee stands in the shoes of the patentee."
+2007.06-937,1,42821,thomas_g_hungar,,1423.207,1424.907,No.
+2007.06-937,1,15086,john_g_roberts_jr,scotus_justice,1434.346,1435.096,Well--
+2007.06-937,1,42821,thomas_g_hungar,,1435.096,1436.163,--and it sells on a Tuesday.
+2007.06-937,1,15086,john_g_roberts_jr,scotus_justice,1436.163,1441.25,"--Well, or, more pertinently, it can only sell if the person they sell to agrees not to use the product in a certain way."
+2007.06-937,1,42821,thomas_g_hungar,,1441.25,1441.717,Fine.
+2007.06-937,1,15086,john_g_roberts_jr,scotus_justice,1458.559,1459.142,Exactly.
+2007.06-937,1,42821,thomas_g_hungar,,1483.377,1484.51,"Yes, because--"
+2007.06-937,1,15086,john_g_roberts_jr,scotus_justice,1484.51,1488.227,Do you sue under patent law or just contract law?
+2007.06-937,1,42821,thomas_g_hungar,,1488.227,1492.095,"--If... in your hypothetical, as I understand it, it's an unauthorized sale."
+2007.06-937,1,15042,david_h_souter,scotus_justice,1501.451,1505.503,But not every infringement of the license is necessarily an unauthorized sale.
+2007.06-937,1,42821,thomas_g_hungar,,1505.503,1506.855,That's correct.
+2007.06-937,1,15042,david_h_souter,scotus_justice,1506.855,1512.925,So there could be a restriction in the license which is not a restriction on sale and that could be violated.
+2007.06-937,1,42821,thomas_g_hungar,,1519.079,1519.462,That's correct.
+2007.06-937,1,15060,john_paul_stevens,scotus_justice,1532.153,1542.61,"Are you saying that this case would come out differently if instead of just requiring a notice that the... the item should only be used on Intel products, that had been a condition of the license."
+2007.06-937,1,42821,thomas_g_hungar,,1553.466,1554.05,Yes.
+2007.06-937,1,15060,john_paul_stevens,scotus_justice,1558.787,1564.358,So the key fact in this case is it was just a requirement of giving notice rather than a condition in the license?
+2007.06-937,1,42821,thomas_g_hungar,,1564.358,1565.091,--But let me be clear.
+2007.06-937,1,15060,john_paul_stevens,scotus_justice,1572.078,1572.828,I understand that.
+2007.06-937,1,42821,thomas_g_hungar,,1572.828,1576.899,"--Well, I think I haven't been clear, because I want to make sure that that the consequences are clear--"
+2007.06-937,1,15060,john_paul_stevens,scotus_justice,1576.899,1579.499,The big key is what is an authorized sale?
+2007.06-937,1,42821,thomas_g_hungar,,1598.895,1600.428,"--Correct, and it would be patent infringement."
+2007.06-937,1,15086,john_g_roberts_jr,scotus_justice,1624.296,1626.262,"Thank you, Mr. Hungar."
+2007.06-937,2,19760,carter_g_phillips,,1632.985,1641.405,"Thank you, Mr. Chief Justice, and may it please the Court: Justice Souter, I want to go to your question, because, frankly, I think it is the key to the entirety of this case."
+2007.06-937,2,15086,john_g_roberts_jr,scotus_justice,1675.126,1681.03,"Well, but there's nothing to do with these chipsets other than use them in the computers."
+2007.06-937,2,19760,carter_g_phillips,,1691.1,1695.754,It would be... and that's why you would ordinarily... you don't deal with this as an exhaustion issue.
+2007.06-937,2,15139,stephen_g_breyer,scotus_justice,1779.739,1782.106,"Well, there's a reason, I guess, that would be so."
+2007.06-937,2,19760,carter_g_phillips,,1860.107,1863.225,--I don't have any problem with your hypothetical because it's not this case.
+2007.06-937,2,15139,stephen_g_breyer,scotus_justice,1891.559,1892.911,"Ah, but I thought--"
+2007.06-937,2,19760,carter_g_phillips,,1892.911,1895.261,--patent in the Stair Master--
+2007.06-937,2,15139,stephen_g_breyer,scotus_justice,1895.261,1895.696,--Yes.
+2007.06-937,2,19760,carter_g_phillips,,1938.107,1938.44,--Right.
+2007.06-937,2,15139,stephen_g_breyer,scotus_justice,1938.44,1950.165,And I take it here they are using those chips in those mechanisms that the chips are almost exclusively designed for and there isn't much else to use them for.
+2007.06-937,2,19760,carter_g_phillips,,1951.431,1952.215,That is true.
+2007.06-937,2,15086,john_g_roberts_jr,scotus_justice,2034.735,2035.521,Mr. Phillips.
+2007.06-937,2,19760,carter_g_phillips,,2035.521,2037.704,So it's not as though they didn't know what they were getting when they bought it.
+2007.06-937,2,15086,john_g_roberts_jr,scotus_justice,2042.34,2042.824,Mr. Phillips?
+2007.06-937,2,19760,carter_g_phillips,,2042.824,2043.674,"--Yes, Your Honor."
+2007.06-937,2,15086,john_g_roberts_jr,scotus_justice,2043.674,2048.244,What in the world does clause 3.8 of the license mean?
+2007.06-937,2,19760,carter_g_phillips,,2079.431,2079.882,No.
+2007.06-937,2,15060,john_paul_stevens,scotus_justice,2143.888,2148.276,Am I correct in understanding that you do not defend the Mallinckrodt decision?
+2007.06-937,2,19760,carter_g_phillips,,2148.276,2152.811,"I do not defend the Mallinckrodt decision, Justice Stevens, and clearly I don't believe I have to."
+2007.06-937,2,15060,john_paul_stevens,scotus_justice,2174.058,2182.264,I understand you also do not challenge the proposition that the sale by the licensee in this case should be treated as a first sale.
+2007.06-937,2,19760,carter_g_phillips,,2182.264,2183.532,"Right, the chip."
+2007.06-937,2,15060,john_paul_stevens,scotus_justice,2183.532,2184.215,Yes.
+2007.06-937,2,19760,carter_g_phillips,,2184.215,2184.832,Absolutely.
+2007.06-937,2,15139,stephen_g_breyer,scotus_justice,2219.706,2225.026,"All right, now if it should be protected... and here I'm not sure I'm understanding it, so correct me."
+2007.06-937,2,19760,carter_g_phillips,,2238.967,2239.536,--Me too.
+2007.06-937,2,15139,stephen_g_breyer,scotus_justice,2239.536,2242.238,--But you see the analogy I'm making.
+2007.06-937,2,19760,carter_g_phillips,,2242.238,2242.621,Right.
+2007.06-937,2,15139,stephen_g_breyer,scotus_justice,2242.621,2249.575,"So what I do I go to the shop and I buy this, this mechanism with the pedals on it, and then I insert it in my bicycle."
+2007.06-937,2,19760,carter_g_phillips,,2283.796,2285.279,Pedal.
+2007.06-937,2,15139,stephen_g_breyer,scotus_justice,2285.279,2286.648,"--pedals, but not on the system."
+2007.06-937,2,19760,carter_g_phillips,,2286.648,2287.231,Right.
+2007.06-937,2,15139,stephen_g_breyer,scotus_justice,2287.231,2288.364,And you agree that shouldn't happen.
+2007.06-937,2,19760,carter_g_phillips,,2288.364,2289.016,Right.
+2007.06-937,2,15139,stephen_g_breyer,scotus_justice,2289.016,2292.552,"But if I follow you and I write an opinion just for you, what stops it from happening?"
+2007.06-937,2,19760,carter_g_phillips,,2292.552,2304.443,"Well, in that... in that particular context, in the absence of relatively clear notice, I think it would be quite reasonable to potentially find that there was an implied license to use it under those circumstances."
+2007.06-937,2,15042,david_h_souter,scotus_justice,2304.443,2305.476,What--
+2007.06-937,2,15139,stephen_g_breyer,scotus_justice,2305.476,2306.895,Then why isn't it in your case?
+2007.06-937,2,15042,david_h_souter,scotus_justice,2306.895,2307.795,--I'm sorry.
+2007.06-937,2,15139,stephen_g_breyer,scotus_justice,2310.614,2313.049,Why doesn't it mean that?
+2007.06-937,2,19760,carter_g_phillips,,2314.782,2318.702,Because the courts below specifically analyzed whether there was--
+2007.06-937,2,15139,stephen_g_breyer,scotus_justice,2318.702,2319.935,You mean that they just got it all wrong?
+2007.06-937,2,19760,carter_g_phillips,,2321.654,2322.471,"--No, no."
+2007.06-937,2,15139,stephen_g_breyer,scotus_justice,2333.462,2354.043,"Oh, so if I go in the bicycle shop, I go in the bicycle shop and I buy the pedals and then they give me, you know, one of these pieces of paper that has all of the 42,000 words on it and there in these 42,000 words it says, and now you are put on notice that once you put it in your bicycle and you pedal away, they're going to get you and you're going to be hauled into Patent Court, then... then that's okay?"
+2007.06-937,2,19760,carter_g_phillips,,2354.043,2365.148,"--Well, Justice Breyer, we can quarrel about sort of the nature of the notice and what notice is adequate to do that, but the basic point here, which I think is indisputable, is that, one, the notice here is quite clear."
+2007.06-937,2,15042,david_h_souter,scotus_justice,2376.789,2377.158,--Okay.
+2007.06-937,2,19760,carter_g_phillips,,2382.443,2383.645,"Oh, to be sure."
+2007.06-937,2,15060,john_paul_stevens,scotus_justice,2409.293,2409.879,That's other--
+2007.06-937,2,19760,carter_g_phillips,,2409.879,2411.429,--Precisely... I'm sorry.
+2007.06-937,2,15060,john_paul_stevens,scotus_justice,2411.429,2422.853,"--Is the reason that there's no implied license here, one, because you got the notice, or two, because the component has uses in other kinds of methods than the patented method?"
+2007.06-937,2,19760,carter_g_phillips,,2422.853,2426.739,"I think the better answer is one, because they had clear notice."
+2007.06-937,2,15060,john_paul_stevens,scotus_justice,2426.739,2428.591,You think the notice on that to defeat the implied--
+2007.06-937,2,19760,carter_g_phillips,,2428.591,2429.157,Right.
+2007.06-937,2,15060,john_paul_stevens,scotus_justice,2436.045,2440.347,"--The court below did not rely on the fact that there might be non-infringing uses, did it?"
+2007.06-937,2,19760,carter_g_phillips,,2440.347,2441.03,No.
+2007.06-937,2,15060,john_paul_stevens,scotus_justice,2442.446,2443.163,It relied on the notice.
+2007.06-937,2,19760,carter_g_phillips,,2443.163,2444.898,"Right, right."
+2007.06-937,2,15060,john_paul_stevens,scotus_justice,2448.184,2457.706,"It seems to be kind of an unusual answer to the implied license argument, because normally it doesn't depend on what the patentee decides to say somewhere down... down the line."
+2007.06-937,2,19760,carter_g_phillips,,2463.359,2481.588,"--Well, I mean I think the district court just said, look, that... you know, ordinarily you would say, if you're buying something with the understanding that you're going to... that its primary or maybe exclusive use will be in a particular way, that that would be a reasonable implied... you could imply a license by those facts alone."
+2007.06-937,2,15049,antonin_scalia,scotus_justice,2488.344,2489.677,But it's subsequent conduct.
+2007.06-937,2,19760,carter_g_phillips,,2505.203,2505.686,Right.
+2007.06-937,2,15049,antonin_scalia,scotus_justice,2506.972,2508.688,And there was no such notice there.
+2007.06-937,2,19760,carter_g_phillips,,2515.244,2517.128,"--No, but every... every sale after--"
+2007.06-937,2,15049,antonin_scalia,scotus_justice,2517.128,2520.815,"Yeah, but the horse is out of the barn."
+2007.06-937,2,19760,carter_g_phillips,,2520.815,2522.498,"--No, no, but that just means that the patent--"
+2007.06-937,2,15049,antonin_scalia,scotus_justice,2522.498,2530.254,"That... I mean if both parties... if both parties agree to that notice, I guess that would be something else."
+2007.06-937,2,19760,carter_g_phillips,,2532.271,2533.956,"--Well, you mean both Intel and--"
+2007.06-937,2,15049,antonin_scalia,scotus_justice,2533.956,2534.59,Yes.
+2007.06-937,2,19760,carter_g_phillips,,2534.59,2535.256,"--Oh, yes."
+2007.06-937,2,15049,antonin_scalia,scotus_justice,2550.834,2553.636,"Yes, but that... that doesn't matter to me."
+2007.06-937,2,19760,carter_g_phillips,,2561.457,2562.892,Of the sale.
+2007.06-937,2,15049,antonin_scalia,scotus_justice,2562.892,2564.342,--No.
+2007.06-937,2,19760,carter_g_phillips,,2565.344,2573.331,"Well, when else... an implied license clearly can't extend to the ultimate purchaser until the ultimate purchaser gives something."
+2007.06-937,2,15049,antonin_scalia,scotus_justice,2573.331,2589.459,You give the licensee... you implicitly give the licensee the right to permit the people to whom he sells the product to use the license.
+2007.06-937,2,19760,carter_g_phillips,,2589.459,2590.042,Right.
+2007.06-937,2,15049,antonin_scalia,scotus_justice,2590.042,2591.578,But it's given to the licensee surely.
+2007.06-937,2,19760,carter_g_phillips,,2591.578,2592.744,But we clearly didn't do that.
+2007.06-937,2,15049,antonin_scalia,scotus_justice,2596.53,2601.1,"Unless it's implicit, unless it's implicit when you sell a... a bicycle pedal that can only be used in bicycles."
+2007.06-937,2,19760,carter_g_phillips,,2601.1,2601.734,Right.
+2007.06-937,2,15049,antonin_scalia,scotus_justice,2606.921,2607.604,Did you say that?
+2007.06-937,2,19760,carter_g_phillips,,2607.604,2609.456,"--Yes, that's exactly what the notice says."
+2007.06-937,2,15086,john_g_roberts_jr,scotus_justice,2609.456,2610.89,That's what the notice says.
+2007.06-937,2,15049,antonin_scalia,scotus_justice,2610.89,2611.606,That's the notice.
+2007.06-937,2,19760,carter_g_phillips,,2615.46,2630.703,"But that goes to clear... I mean, but that goes to the clear understanding... I mean the question is... if the question is did Intel have the right to sell the system as a system, the answer is yes."
+2007.06-937,2,15042,david_h_souter,scotus_justice,2660.389,2661.706,"Yes, because they're saying--"
+2007.06-937,2,19760,carter_g_phillips,,2661.706,2662.841,That's the question presented in the petition.
+2007.06-937,2,15042,david_h_souter,scotus_justice,2662.841,2667.976,--They're saying the reason they have done so is that the following distinction is significant.
+2007.06-937,2,19760,carter_g_phillips,,2732.985,2734.021,"Right, and the problem--"
+2007.06-937,2,15042,david_h_souter,scotus_justice,2734.021,2740.925,"Number one, do you think I am being correct in characterizing, describing the distinction they make?"
+2007.06-937,2,19760,carter_g_phillips,,2740.925,2741.708,--I think so.
+2007.06-937,2,15042,david_h_souter,scotus_justice,2741.708,2745.579,"And B, if I am, why isn't that distinction an answer to your argument?"
+2007.06-937,2,19760,carter_g_phillips,,2745.579,2750.946,"Because, because it ignores the fact that there are separate patents involved in this case."
+2007.06-937,2,15042,david_h_souter,scotus_justice,2785.12,2785.62,No.
+2007.06-937,2,19760,carter_g_phillips,,2794.841,2795.657,--Right.
+2007.06-937,2,15042,david_h_souter,scotus_justice,2795.657,2797.673,--a limited right and a right--
+2007.06-937,2,19760,carter_g_phillips,,2797.673,2798.006,Exactly.
+2007.06-937,2,15042,david_h_souter,scotus_justice,2798.273,2798.939,--to go after people--
+2007.06-937,2,19760,carter_g_phillips,,2798.939,2799.956,That's not the issue in this case.
+2007.06-937,2,15042,david_h_souter,scotus_justice,2799.956,2818.684,"--What it... what it involves is the statement that they make that if you license the manufacture, use, and sale of a particular component and that particular component has only one reasonable use--"
+2007.06-937,2,19760,carter_g_phillips,,2818.684,2819.268,Right.
+2007.06-937,2,15042,david_h_souter,scotus_justice,2819.268,2839.664,"--then you have necessarily licensed them to sell with that ultimate use in mind, and when you do... when you license them to sell, the patent-exhaustion doctrine attaches to any patent right that you may have, whether you call it system--"
+2007.06-937,2,19760,carter_g_phillips,,2839.664,2839.981,Right.
+2007.06-937,2,15042,david_h_souter,scotus_justice,2839.981,2841.283,--or whether you call it component.
+2007.06-937,2,19760,carter_g_phillips,,2841.283,2841.933,Right.
+2007.06-937,2,15042,david_h_souter,scotus_justice,2841.933,2850.805,"And you are saying that argument is no good because that, in fact, is an implied license argument, and there were findings that there was no implied license."
+2007.06-937,2,19760,carter_g_phillips,,2850.805,2851.505,That's--
+2007.06-937,2,15042,david_h_souter,scotus_justice,2851.505,2852.088,So I understand your position.
+2007.06-937,2,19760,carter_g_phillips,,2852.088,2853.171,"--That is correct, Justice Souter."
+2007.06-937,2,15042,david_h_souter,scotus_justice,2853.171,2853.488,Okay.
+2007.06-937,2,19760,carter_g_phillips,,2853.488,2854.238,And let me further--
+2007.06-937,2,15139,stephen_g_breyer,scotus_justice,2854.238,2860.009,Then explain... now this you might know because it's just following up on what Justice Souter said better than I did.
+2007.06-937,2,19760,carter_g_phillips,,2947.132,2952.12,"--Well, I think that clearly understates the role of the PTO in granting a separate patent."
+2007.06-937,2,15086,john_g_roberts_jr,scotus_justice,2983.89,2984.341,"Well, then--"
+2007.06-937,2,19760,carter_g_phillips,,2984.341,2985.607,--is patent validity challenges.
+2007.06-937,2,15086,john_g_roberts_jr,scotus_justice,2985.607,2990.745,"--That argument didn't prevail last year in the KSR case, right?"
+2007.06-937,2,19760,carter_g_phillips,,2998.749,3003.553,"Right, but all... I'm not... I'm not particularly criticizing the PTO."
+2007.06-937,2,15049,antonin_scalia,scotus_justice,3031.536,3037.44,"Mr. Phillips, when you say that was resolved adversely, you say there was a finding of no implied license."
+2007.06-937,2,19760,carter_g_phillips,,3037.44,3038.024,That's correct.
+2007.06-937,2,15049,antonin_scalia,scotus_justice,3038.024,3047.296,Was that a finding of no implied license from LGE to Intel or no implied license from Intel to the buyers?
+2007.06-937,2,19760,carter_g_phillips,,3047.296,3049.498,From Intel to the buyers.
+2007.06-937,2,15086,john_g_roberts_jr,scotus_justice,3049.498,3051.498,Mr. Phillips--
+2007.06-937,2,15049,antonin_scalia,scotus_justice,3051.498,3053.764,Is that the crucial... is that the crucial step?
+2007.06-937,2,19760,carter_g_phillips,,3053.764,3054.198,Yes.
+2007.06-937,2,15049,antonin_scalia,scotus_justice,3056.866,3057.383,If that--
+2007.06-937,2,19760,carter_g_phillips,,3057.383,3059.216,The buyer would have to assert exhaustion.
+2007.06-937,2,15049,antonin_scalia,scotus_justice,3059.216,3067.072,"--If that was an implied license from LGE to Intel, then Intel would have authority to sell... to sell these things for their... for their use."
+2007.06-937,2,19760,carter_g_phillips,,3067.072,3074.309,"To be sure, Intel has the authority to sell these things, and it has the authority to sell... it depends on what the things are."
+2007.06-937,2,15049,antonin_scalia,scotus_justice,3094.187,3098.757,"I think the exhaustion, if Intel got... if Intel got... I'm sorry."
+2007.06-937,2,19760,carter_g_phillips,,3119.338,3127.075,"--I think the answer to that is it shouldn't, that the exhaustion doctrine should be retained as a first-sale doctrine alone."
+2007.06-937,2,15086,john_g_roberts_jr,scotus_justice,3167.985,3173.139,--And the way you achieve that result is to condition the sale.
+2007.06-937,2,19760,carter_g_phillips,,3192.266,3197.187,I mean there can't... there's no serious basis for doubting what Intel knew precisely what it was getting in this.
+2007.06-937,2,15086,john_g_roberts_jr,scotus_justice,3224.654,3228.725,"Well, they're happy with that because the notice says you can't... you can only use this with Intel products."
+2007.06-937,2,19760,carter_g_phillips,,3231.427,3234.193,"Well, that's part of the reason why it was negotiated in that way."
+2007.06-937,2,15060,john_paul_stevens,scotus_justice,3275.956,3280.658,"Before you sit down, to what extent do you think the Court of Appeals has already adopted your theory of the case?"
+2007.06-937,2,19760,carter_g_phillips,,3280.658,3286.228,"Well, I mean they recognized specifically that these are completely separate."
+2007.06-937,2,15060,john_paul_stevens,scotus_justice,3300.301,3304.772,They did not get your theory of the case out of my reading of their opinion.
+2007.06-937,2,19760,carter_g_phillips,,3304.772,3305.739,"Well, my--"
+2007.06-937,2,15042,david_h_souter,scotus_justice,3305.739,3311.093,"Isn't the difference between ""conditional sale"" and ""limited sale""... you are saying they used the word ""conditional""."
+2007.06-937,2,19760,carter_g_phillips,,3318.247,3327.353,"--Well, what I was actually saying is that if you read the language in 4a and 5a where it says: The patents asserted by LGE do not cover the products licensed to, or sold by, Intel."
+2007.06-937,2,15086,john_g_roberts_jr,scotus_justice,3361.84,3362.975,"Thank you, Mr. Phillips."
+2007.06-937,3,36325,maureen_e_mahoney,,3365.411,3370.696,I'd like to start by emphasizing what counsel did not say.
+2007.06-937,3,15086,john_g_roberts_jr,scotus_justice,3591.352,3592.185,"Thank you, Ms. Mahoney."

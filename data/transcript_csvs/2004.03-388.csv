@@ -1,0 +1,231 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2004.03-388,0,15060,john_paul_stevens,scotus_justice,0.0,7.8,We'll hear argument in Bates against Dow AgroSciences.
+2004.03-388,0,20869,david_c_frederick,,8.815,25.207,"Thank you, Justice Stevens, and may it please the Court:"
+2004.03-388,0,15084,ruth_bader_ginsburg,scotus_justice,126.815,135.096,But couldn't you make every failure to warn claim a defective design claim?
+2004.03-388,0,20869,david_c_frederick,,155.335,172.105,"Justice Ginsburg, the way the Restatement of Torts and Product Liability in sections 1 and 2 describe, there are basically three theories that products liability claims can proceed on: a defective design, defective manufacturing, and defective warnings."
+2004.03-388,0,15092,sandra_day_oconnor,scotus_justice,195.374,211.015,"Mr. Frederick, on the defective design claim, presumably that's based on a factual theory that Dow could have reasonably designed Strongarm to be safe for growing peanuts in high-acid soil."
+2004.03-388,0,20869,david_c_frederick,,211.015,211.645,Correct.
+2004.03-388,0,15092,sandra_day_oconnor,scotus_justice,211.645,224.111,But doesn't that mean your client should have to put forward some evidence establishing a material issue of disputed fact on that point?
+2004.03-388,0,20869,david_c_frederick,,224.111,225.239,"Certainly, but here--"
+2004.03-388,0,15092,sandra_day_oconnor,scotus_justice,225.239,225.836,And it didn't do that.
+2004.03-388,0,20869,david_c_frederick,,225.836,231.777,"--Well here, Your Honor, the motion for summary judgment that Dow filed was not based on the merits of the claims."
+2004.03-388,0,15113,anthony_m_kennedy,scotus_justice,262.655,272.33,The... the problem I have with... with the Government's case and with the respondent's case is that... it's really the obverse of what Justice Ginsburg said.
+2004.03-388,0,20869,david_c_frederick,,275.696,276.827,That's absolutely correct.
+2004.03-388,0,15113,anthony_m_kennedy,scotus_justice,276.827,288.081,"Does the restatement have some specific provisions that say no matter how good the warning is, you're still entitled to proceed when there's a... I don't know... dangerous product or defective product or something?"
+2004.03-388,0,20869,david_c_frederick,,288.081,288.744,Yes.
+2004.03-388,0,15113,anthony_m_kennedy,scotus_justice,309.277,314.043,Even... even if the warning specifically covered that design defect?
+2004.03-388,0,20869,david_c_frederick,,314.043,315.305,--That... that's... that's correct.
+2004.03-388,0,15113,anthony_m_kennedy,scotus_justice,316.201,323.29,"So even if this product said, warning: may not be effective in high pH soils, that's not good enough?"
+2004.03-388,0,20869,david_c_frederick,,323.29,351.14,"--Under the restatement rule, which Texas has adopted in the Uniroyal case, which we've cited in our brief I think at page 47, that is true because the restatement explains that there are certain warnings that could be ignored or not observed or not understood properly and that if it can be proved that a properly designed product would be on the market, there are public policy reasons why that's what we want to encourage manufacturers to do."
+2004.03-388,0,15049,antonin_scalia,scotus_justice,352.033,353.192,At any cost?
+2004.03-388,0,20869,david_c_frederick,,362.999,364.037,"--Well, the--"
+2004.03-388,0,15049,antonin_scalia,scotus_justice,364.037,372.487,"Can't I just sell it for those people who don't need it for... for high pH soil at a third the price with a warning that says, hey, by the way, don't use this in high pH soil?"
+2004.03-388,0,20869,david_c_frederick,,374.372,395.34,"--Justice Scalia, to answer your question in several ways, that's a jury determination to... to ascertain the reasonableness of the alternate design that the manufacturer would be asked to... to do or to market a separate product that was separately designed for high-acid soils."
+2004.03-388,0,15113,anthony_m_kennedy,scotus_justice,395.34,397.248,But it's never a question of the reasonableness or the adequacy of the warning?
+2004.03-388,0,20869,david_c_frederick,,397.248,401.395,"I don't think it's a question of warnings in this sense, Justice Kennedy."
+2004.03-388,0,15139,stephen_g_breyer,scotus_justice,424.396,425.001,"Oh, not necessarily."
+2004.03-388,0,20869,david_c_frederick,,449.146,454.967,--And that... there are... that's why the restatement makes clear that there are distinctive theories for defect--
+2004.03-388,0,15139,stephen_g_breyer,scotus_justice,454.967,458.881,And you're arguing that in this case you have the first.
+2004.03-388,0,20869,david_c_frederick,,458.881,460.038,--That's correct.
+2004.03-388,0,15139,stephen_g_breyer,scotus_justice,460.038,462.342,"It seems implausible on... you know,--"
+2004.03-388,0,20869,david_c_frederick,,462.342,463.489,"Well, we have both actually."
+2004.03-388,0,15139,stephen_g_breyer,scotus_justice,463.489,465.728,--because all they'd have to do is don't use it in pH soil.
+2004.03-388,0,20869,david_c_frederick,,465.728,466.349,No.
+2004.03-388,0,15113,anthony_m_kennedy,scotus_justice,523.618,529.878,"So on... on that aspect of the case, you put in your pleadings that this was a violation of FIFRA."
+2004.03-388,0,20869,david_c_frederick,,529.878,537.747,"We don't necessarily need to say a violation of FIFRA is... so long as the requirement is the same, although we can certainly--"
+2004.03-388,0,15113,anthony_m_kennedy,scotus_justice,537.747,539.428,"Well, that's a... that's a bit different."
+2004.03-388,0,20869,david_c_frederick,,547.472,549.105,--I--
+2004.03-388,0,15113,anthony_m_kennedy,scotus_justice,549.105,554.388,"So it seems to me that you then have a suit under FIFRA, but I don't think that was the theory of your complaint."
+2004.03-388,0,20869,david_c_frederick,,554.388,554.636,--No.
+2004.03-388,0,15042,david_h_souter,scotus_justice,560.123,567.516,"But the reason for that, I take it, is that FIFRA does not... I mean, I think you agree FIFRA does not provide an independent private right of action."
+2004.03-388,0,20869,david_c_frederick,,567.516,568.251,That's correct.
+2004.03-388,0,15042,david_h_souter,scotus_justice,568.251,589.182,"So you've got to sue under State law, but you would... you would kind of have a slam dunk for your position, I suppose, if your pleading said, the failure to warn only to the extent that in fact the... the warning given in compliance with FIFRA was an inadequate warning."
+2004.03-388,0,20869,david_c_frederick,,601.738,602.624,"That's correct, and because--"
+2004.03-388,0,15042,david_h_souter,scotus_justice,602.624,603.693,And... and that's in effect what you're arguing.
+2004.03-388,0,20869,david_c_frederick,,603.693,604.023,--Yes.
+2004.03-388,0,15139,stephen_g_breyer,scotus_justice,614.037,620.47,"In your view... in your... your opinion, if you were to follow that, would EPA... suppose EPA does the following."
+2004.03-388,0,20869,david_c_frederick,,644.966,651.507,"Yes, it can and the... the interesting aspect of this, Justice Breyer, is that of course EPA hasn't done that."
+2004.03-388,0,15092,sandra_day_oconnor,scotus_justice,657.31,662.232,"Well, EPA has... has waived efficacy data requirements."
+2004.03-388,0,20869,david_c_frederick,,663.105,663.533,--Yes.
+2004.03-388,0,15092,sandra_day_oconnor,scotus_justice,663.533,673.494,"Now, is it your position that a State can pass a law requiring labels to have efficacy claims?"
+2004.03-388,0,20869,david_c_frederick,,673.494,696.344,"They have to do it pursuant to their powers under 136v(a) which is the regulation of sale or use or under 136v(c) which says that when a State designates a particular locality requirement and a special need, it can impose a label... it can impose requirements that the manufacturer has to comply with."
+2004.03-388,0,15092,sandra_day_oconnor,scotus_justice,711.12,714.581,But you're not relying on that in this cause of action.
+2004.03-388,0,20869,david_c_frederick,,714.581,732.594,"--No, Justice... no, Justice O'Connor, except to the extent that if the State can affirmatively do it through a positive regulation, their theory has to be wrong that the... that any incidental effect that induces a change to label is preempted."
+2004.03-388,0,15092,sandra_day_oconnor,scotus_justice,736.32,744.206,"Well, does... does FIFRA require the manufacturer to say on the label what the item can be used for?"
+2004.03-388,0,20869,david_c_frederick,,744.206,747.818,"Yes, but I want to address--"
+2004.03-388,0,15092,sandra_day_oconnor,scotus_justice,747.818,752.751,So how... how does an express warranty claim escape preemption--
+2004.03-388,0,20869,david_c_frederick,,752.751,753.959,--As the--
+2004.03-388,0,15092,sandra_day_oconnor,scotus_justice,753.959,762.471,--where... where Dow just says the federally mandated statement is included on my label and it's true?
+2004.03-388,0,20869,david_c_frederick,,762.471,774.697,"--A warranty claim, Justice O'Connor, as this Court made clear in the Cipollone case, is not a requirement under State law because it's a voluntary contractual arrangement between the parties."
+2004.03-388,0,15113,anthony_m_kennedy,scotus_justice,1155.895,1164.22,"But do you take the position that juries can do what a State regulation cannot do, or are they much... are they on a par?"
+2004.03-388,0,20869,david_c_frederick,,1164.22,1171.813,"Well, our broadest theory, Justice Kennedy, is that the word requirements in 136v(b) doesn't include common law claims at all."
+2004.03-388,0,15113,anthony_m_kennedy,scotus_justice,1171.813,1173.388,Suppose we disagree with that.
+2004.03-388,0,20869,david_c_frederick,,1173.388,1181.509,"If you disagree with that, then they would have to be the same, and that's why our point about the existence of the parallel requirements is the same."
+2004.03-388,0,15139,stephen_g_breyer,scotus_justice,1216.749,1219.0,"Yes, that's their strong point."
+2004.03-388,0,20869,david_c_frederick,,1240.249,1254.022,"First, the juries... unlike a... a declaratory judgment or an injunctive type remedy, Justice Breyer, a jury for a common law damages claim is not saying what affirmatively should be on the labels."
+2004.03-388,0,15139,stephen_g_breyer,scotus_justice,1254.022,1255.415,I'm speaking practically.
+2004.03-388,0,20869,david_c_frederick,,1257.101,1257.432,Sure.
+2004.03-388,0,15139,stephen_g_breyer,scotus_justice,1257.432,1257.958,You know the argument.
+2004.03-388,0,20869,david_c_frederick,,1258.953,1259.312,Sure.
+2004.03-388,0,15139,stephen_g_breyer,scotus_justice,1490.828,1500.609,"Let me ask one because I think you'll hear some variation of this, and you have a minute, which is the... the statute sets up a perfectly good way of keeping this branded stuff off the market."
+2004.03-388,0,20869,david_c_frederick,,1521.359,1526.609,"--Well, I don't think that EPA could write a rule requiring damages to be done."
+2004.03-388,0,15139,stephen_g_breyer,scotus_justice,1528.564,1529.364,They would just say it doesn't preempt.
+2004.03-388,0,20869,david_c_frederick,,1529.364,1537.895,"--Well, there's no indication here that EPA can do that kind of thing."
+2004.03-388,0,15060,john_paul_stevens,scotus_justice,1548.151,1552.402,Mr. Waxman.
+2004.03-388,1,42213,seth_p_waxman,,1552.402,1558.219,"Justice Stevens, and may it please the Court:"
+2004.03-388,1,15042,david_h_souter,scotus_justice,1577.256,1582.935,Why... why doesn't the other amendment limit your argument?
+2004.03-388,1,42213,seth_p_waxman,,1611.211,1613.516,There are... there are two fundamental reasons.
+2004.03-388,1,15084,ruth_bader_ginsburg,scotus_justice,1697.655,1699.367,But it's not monitored at all.
+2004.03-388,1,42213,seth_p_waxman,,1704.786,1709.115,"--If the manufacturer makes up reports, it has committed a felony."
+2004.03-388,1,15092,sandra_day_oconnor,scotus_justice,1714.803,1718.382,But maybe it isn't a labeling violation.
+2004.03-388,1,42213,seth_p_waxman,,1735.624,1736.463,--Justice--
+2004.03-388,1,15092,sandra_day_oconnor,scotus_justice,1736.463,1738.568,I... I just don't understand that.
+2004.03-388,1,42213,seth_p_waxman,,1738.568,1742.929,"--Justice O'Connor, I think... I will address the negligent testing and, of course, the design defect--"
+2004.03-388,1,15092,sandra_day_oconnor,scotus_justice,1742.929,1743.509,Yes.
+2004.03-388,1,42213,seth_p_waxman,,1743.509,1747.268,--discussion that's figured so prominently in my colleague's argument.
+2004.03-388,1,15092,sandra_day_oconnor,scotus_justice,1866.419,1867.82,And they didn't do that?
+2004.03-388,1,42213,seth_p_waxman,,1867.82,1876.275,"--They did not do that, and what they did was to submit affidavits and documentary evidence, including expert affidavits."
+2004.03-388,1,15060,john_paul_stevens,scotus_justice,1876.275,1878.916,"Mr.... Mr. Waxman, you said they didn't file a motion to dismiss."
+2004.03-388,1,42213,seth_p_waxman,,1880.206,1882.371,We brought the lawsuit and we--
+2004.03-388,1,15060,john_paul_stevens,scotus_justice,1882.371,1883.11,But then they couldn't file--
+2004.03-388,1,42213,seth_p_waxman,,1883.11,1884.0,"--No, no, no."
+2004.03-388,1,15060,john_paul_stevens,scotus_justice,1886.279,1887.376,--You didn't file a motion to dismiss your own complaint?
+2004.03-388,1,42213,seth_p_waxman,,1887.376,1887.935,"--No, no."
+2004.03-388,1,15060,john_paul_stevens,scotus_justice,1888.881,1889.94,"Oh, okay."
+2004.03-388,1,42213,seth_p_waxman,,1889.94,1900.93,"In other words, this wasn't decided... Mr. Frederick's reply brief talks over and over and over again about how this was decided on the pleadings, and you know, there was no discovery allowed."
+2004.03-388,1,15092,sandra_day_oconnor,scotus_justice,1946.922,1950.587,"Well, let's just try to boil it down a little bit for my purposes."
+2004.03-388,1,42213,seth_p_waxman,,1955.093,1955.973,Well--
+2004.03-388,1,15092,sandra_day_oconnor,scotus_justice,1955.973,1970.289,"--that there could be a claim based on design defect, that there could be a claim saying there were off-label oral statements made that amounted to fraud or misleading--"
+2004.03-388,1,42213,seth_p_waxman,,1970.289,1971.134,--I'll take them in your precise order.
+2004.03-388,1,15092,sandra_day_oconnor,scotus_justice,1971.134,1971.673,--Okay.
+2004.03-388,1,42213,seth_p_waxman,,1971.673,1981.425,"Under Texas law... and the court of appeals opinion, the Grinnell opinion cited by the court of appeals opinion, says this, as does Dean Powers."
+2004.03-388,1,15084,ruth_bader_ginsburg,scotus_justice,2017.262,2027.545,"And the way you proceeded in this case, you made it clear that it would be impossible for the Texas court itself to weigh in on this because you jumped the gun."
+2004.03-388,1,42213,seth_p_waxman,,2036.397,2061.196,"--We want... as the... as the Fifth Circuit found and the district court found, we filed a declaratory judgment in Texas after we received their demand letters because we wanted this to be adjudicated in a single forum, which the Texas venue rules would not have allowed, and we... we actually filed this in Lubbock, Texas, which is the geographic center of where these 29 farmers operate."
+2004.03-388,1,15060,john_paul_stevens,scotus_justice,2079.37,2083.815,It seems to me you're... you're arguing the merits of the tort claims rather than the preemption issue.
+2004.03-388,1,42213,seth_p_waxman,,2083.815,2094.413,"--Well, what we said was your claims are preempted if they impeach the labeling that we are required by Federal law to use."
+2004.03-388,1,15092,sandra_day_oconnor,scotus_justice,2094.413,2096.014,But they now say they don't.
+2004.03-388,1,42213,seth_p_waxman,,2099.988,2104.103,"Well, what this... what... what happens under rule 56--"
+2004.03-388,1,15092,sandra_day_oconnor,scotus_justice,2104.103,2110.004,"And also the... also the claims of false, misleading statements outside the label."
+2004.03-388,1,42213,seth_p_waxman,,2110.004,2110.453,--Yes.
+2004.03-388,1,15060,john_paul_stevens,scotus_justice,2141.427,2146.898,"But if they did allege a defective design claim under Texas law, would that have been preempted?"
+2004.03-388,1,42213,seth_p_waxman,,2146.898,2147.498,--No.
+2004.03-388,1,15060,john_paul_stevens,scotus_justice,2155.693,2157.764,It seems to me your argument is not whether there's preemption.
+2004.03-388,1,42213,seth_p_waxman,,2160.649,2160.95,"--No, no, no."
+2004.03-388,1,15042,david_h_souter,scotus_justice,2178.414,2178.918,But you can--
+2004.03-388,1,15049,antonin_scalia,scotus_justice,2178.918,2179.414,Is that their burden?
+2004.03-388,1,42213,seth_p_waxman,,2179.414,2179.901,It is--
+2004.03-388,1,15049,antonin_scalia,scotus_justice,2179.901,2181.668,Is that their burden or is your burden to show--
+2004.03-388,1,42213,seth_p_waxman,,2181.668,2196.977,"--It is... it is absolutely their burden in... as the responding party to a motion for summary judgment, to show that there are material facts that are either in dispute or there are material facts that would allow them to go to the jury."
+2004.03-388,1,15042,david_h_souter,scotus_justice,2196.977,2205.274,"--But on your theory there is no material fact, it seems to me, because your... you say they cannot make good on that claim without impeaching the label."
+2004.03-388,1,42213,seth_p_waxman,,2205.274,2206.199,And they--
+2004.03-388,1,15042,david_h_souter,scotus_justice,2206.199,2230.998,"Every time they sue on the... on the ground that... let's say, that... that the... the actual use was inconsistent with what the label described, you could say, gee, if their theory is correct, we'd have to change our label to say that what's on the label now is in fact not properly descriptive of the product."
+2004.03-388,1,42213,seth_p_waxman,,2250.72,2252.529,--That is exactly right.
+2004.03-388,1,15139,stephen_g_breyer,scotus_justice,2310.902,2311.954,So you quite clearly have both.
+2004.03-388,1,42213,seth_p_waxman,,2380.035,2382.145,--The answer is threefold.
+2004.03-388,1,15084,ruth_bader_ginsburg,scotus_justice,2417.788,2418.441,"Mr. Waxman, do I--"
+2004.03-388,1,42213,seth_p_waxman,,2418.441,2419.117,--of the joint appendix--
+2004.03-388,1,15084,ruth_bader_ginsburg,scotus_justice,2419.117,2442.645,"--Mr. Waxman, do I take it from what you have just said that there is no... even though the statute prohibits misbranding, that there is no way that that can be privately enforced, that misbranding is something strictly for EPA to deal with, that the statute has a prohibition on misbranding?"
+2004.03-388,1,42213,seth_p_waxman,,2454.317,2479.152,"--Insofar as labeling is concerned, the answer is yes, and that's because the statute... the statute has many, many instances in which it makes it clear that in service of the objective of a nationally uniform label, the expert agency that approves and dictates the language of that label be the one to decide what is or isn't--"
+2004.03-388,1,15060,john_paul_stevens,scotus_justice,2479.152,2479.724,Mr. Waxman--
+2004.03-388,1,15139,stephen_g_breyer,scotus_justice,2479.724,2480.078,Where does it say that?
+2004.03-388,1,15060,john_paul_stevens,scotus_justice,2480.078,2481.248,--can I ask you one question here?
+2004.03-388,1,15139,stephen_g_breyer,scotus_justice,2481.248,2481.888,Because you were just going to point out where it says that--
+2004.03-388,1,15060,john_paul_stevens,scotus_justice,2481.888,2482.668,It goes to your--
+2004.03-388,1,15139,stephen_g_breyer,scotus_justice,2482.668,2483.118,--which I think is--
+2004.03-388,1,15060,john_paul_stevens,scotus_justice,2483.118,2483.778,--Excuse me.
+2004.03-388,1,15139,stephen_g_breyer,scotus_justice,2483.778,2484.227,--I'm sorry.
+2004.03-388,1,15060,john_paul_stevens,scotus_justice,2484.227,2485.258,"Just let me ask this one question. Supposing the label says, this product contains vitamin A."
+2004.03-388,1,42213,seth_p_waxman,,2499.618,2503.107,"--Well, you can... you're--"
+2004.03-388,1,15060,john_paul_stevens,scotus_justice,2503.107,2505.112,Why isn't that an answer to the misbranding?
+2004.03-388,1,42213,seth_p_waxman,,2508.178,2515.402,"--Because the difference between a... that would be a... a manufacturing defect, which are cases that have been decided--"
+2004.03-388,1,15060,john_paul_stevens,scotus_justice,2515.402,2516.793,It would be a false statement in the label.
+2004.03-388,1,42213,seth_p_waxman,,2520.463,2523.036,--If... if the... if it contains... I'm sorry.
+2004.03-388,1,15060,john_paul_stevens,scotus_justice,2529.336,2529.605,No.
+2004.03-388,1,42213,seth_p_waxman,,2532.703,2532.924,"--Oh, I see."
+2004.03-388,1,15060,john_paul_stevens,scotus_justice,2533.435,2536.222,"--and... and it's... it's a misbranded, false statement."
+2004.03-388,1,42213,seth_p_waxman,,2539.874,2546.644,"--Well, I believe that you have... you would have to... I mean, would it be efficacious with vitamin A?"
+2004.03-388,1,15060,john_paul_stevens,scotus_justice,2565.05,2570.538,"No, but I'm suggesting he could sell the product with the same label if he just changed the product to correct the misstatement."
+2004.03-388,1,42213,seth_p_waxman,,2570.538,2578.84,"--Well, the test, as the Fifth Circuit stated, Justice Stevens, is whether a judgment against Dow... I'm quoting."
+2004.03-388,1,15042,david_h_souter,scotus_justice,2590.26,2591.085,"Okay, but why--"
+2004.03-388,1,42213,seth_p_waxman,,2591.085,2601.724,"That is, does the State law cause of action... is it premised on a State law duty that there... that different labeling be used--"
+2004.03-388,1,15042,david_h_souter,scotus_justice,2601.724,2602.501,"--No, but neither--"
+2004.03-388,1,42213,seth_p_waxman,,2602.501,2604.132,"--that is, a little bit different than what Federal law requires."
+2004.03-388,1,15042,david_h_souter,scotus_justice,2604.132,2616.464,"--The problem that I think some of... several of us are having is that both the... as I understand it, the Fifth Circuit test in your argument draws no distinction between the two following kinds of situations."
+2004.03-388,1,42213,seth_p_waxman,,2696.394,2700.715,"Justice Souter, that is a choice that Congress could have made."
+2004.03-388,1,15049,antonin_scalia,scotus_justice,2717.987,2719.877,--Requirements for labeling or packaging--
+2004.03-388,1,42213,seth_p_waxman,,2719.877,2720.629,--Yes.
+2004.03-388,1,15049,antonin_scalia,scotus_justice,2720.629,2722.399,--that are in addition to or different.
+2004.03-388,1,42213,seth_p_waxman,,2722.399,2722.939,Yes.
+2004.03-388,1,15049,antonin_scalia,scotus_justice,2723.409,2725.114,Requirements for labeling or packaging.
+2004.03-388,1,42213,seth_p_waxman,,2725.114,2727.364,"--Yes, and... and if it... if the--"
+2004.03-388,1,15042,david_h_souter,scotus_justice,2727.364,2747.616,"Yes, and the argument that's being made is that we ought to... we ought to read... we ought to read the limitation, which Justice Scalia has just described, with respect to labeling and packaging, in a relatively narrow way to allow the suit to go forward and, therefore, we ought to make a distinction between the two kinds of situations."
+2004.03-388,1,42213,seth_p_waxman,,2747.616,2753.28,--The allegation in this suit... the claims in this suit... and I... I see that my time has expired.
+2004.03-388,1,15060,john_paul_stevens,scotus_justice,2753.28,2757.611,Ms. Blatt.
+2004.03-388,2,34099,lisa_schiavo_blatt,,2757.611,2766.067,"Thank you, Justice Stevens, and may it please the Court:"
+2004.03-388,2,15049,antonin_scalia,scotus_justice,2781.75,2784.039,"This is a new position for the Government, isn't it?"
+2004.03-388,2,34099,lisa_schiavo_blatt,,2784.039,2786.051,"Yes, we have--"
+2004.03-388,2,15049,antonin_scalia,scotus_justice,2786.051,2787.314,You used to take the opposite position.
+2004.03-388,2,34099,lisa_schiavo_blatt,,2787.314,2787.943,--That's right.
+2004.03-388,2,15049,antonin_scalia,scotus_justice,2787.943,2794.159,"And we're dealing here, as... nobody has mentioned it, but there... there's a clear statement rule for preemption, isn't there?"
+2004.03-388,2,34099,lisa_schiavo_blatt,,2800.532,2806.011,We... we think subsection (b) is unambiguous in preempting any statement.
+2004.03-388,2,15049,antonin_scalia,scotus_justice,2806.011,2811.867,It's... it's ambiguous enough that the Government... the... the chief beneficiary of the... of the supposed preemption didn't see it.
+2004.03-388,2,34099,lisa_schiavo_blatt,,2815.567,2818.633,"Well, the agency is allowed to change its position and we realize--"
+2004.03-388,2,15049,antonin_scalia,scotus_justice,2818.633,2819.113,I understand.
+2004.03-388,2,34099,lisa_schiavo_blatt,,2825.542,2836.569,"--Well, we think that... we realize that our position was inconsistent with not only the Court's decision in Cipollone and in Medtronic that recognizes that requirement extends to common law duties."
+2004.03-388,2,15139,stephen_g_breyer,scotus_justice,2844.232,2844.494,All right.
+2004.03-388,2,34099,lisa_schiavo_blatt,,2861.954,2870.704,"--Well, unlike Medtronic where preemption occurred by virtue of the FDA's regulation, under FIFRA there's preemption by virtue of the statute itself."
+2004.03-388,2,15042,david_h_souter,scotus_justice,2871.81,2885.53,"Yes, but why isn't there a big difference, for purposes of your argument, between the Medtronic situation and this one for the simple reason in this case you've got a statute that authorizes EPA to do absolutely nothing on the subject of efficacy?"
+2004.03-388,2,34099,lisa_schiavo_blatt,,2888.739,2891.6,"--Well, that's just not true, with all due respect."
+2004.03-388,2,15060,john_paul_stevens,scotus_justice,2931.854,2934.596,"Yes, but the remedy to that would not necessarily be to change the label."
+2004.03-388,2,34099,lisa_schiavo_blatt,,2939.085,2946.762,"--And we think it's critical that our position is that this statute only operates in the area of labeling, and it preempts only those State labeling requirements--"
+2004.03-388,2,15060,john_paul_stevens,scotus_justice,2946.762,2948.56,What do you say about my vitamin A example?
+2004.03-388,2,34099,lisa_schiavo_blatt,,2948.56,2953.335,--I think your vitamin A example is an excellent example of a non-preempted claim.
+2004.03-388,2,15092,sandra_day_oconnor,scotus_justice,2989.437,2990.166,"Well, let's... let's be specific here."
+2004.03-388,2,34099,lisa_schiavo_blatt,,3001.946,3006.174,"--On the face of the complaint, we agree that they're not preempted."
+2004.03-388,2,15060,john_paul_stevens,scotus_justice,3018.369,3020.751,But then do you endorse the theory of the court of appeals in this case?
+2004.03-388,2,34099,lisa_schiavo_blatt,,3020.751,3025.532,"--Well, we think the court of appeals took it claim by claim and read the affidavit... or at least the district court did--"
+2004.03-388,2,15060,john_paul_stevens,scotus_justice,3025.532,3030.25,And you think just mere inducement to change a label is sufficient to create preemption.
+2004.03-388,2,34099,lisa_schiavo_blatt,,3030.25,3036.691,--Mere inducement only to the extent that that's a shorthand way of saying the label was... necessarily had to be required.
+2004.03-388,2,15049,antonin_scalia,scotus_justice,3037.761,3050.623,"If Congress wanted that, surely it could have stated it more clearly than simply saying the State shall not impose or continue in effect any requirements for labeling or packaging."
+2004.03-388,2,34099,lisa_schiavo_blatt,,3057.913,3058.487,If the--
+2004.03-388,2,15049,antonin_scalia,scotus_justice,3058.487,3060.499,"And if Congress wanted to say that, they could have said it."
+2004.03-388,2,34099,lisa_schiavo_blatt,,3060.499,3070.409,"--Well, I think they did say if a common law duty is necessarily premised on the requirement that the manufacturer used a different label than Federal law required him to use."
+2004.03-388,2,15049,antonin_scalia,scotus_justice,3076.515,3087.744,You have... you have that provision which talks about requirements for labeling or packaging in conjunction with another provision that authorizes the State to regulate the sale or use.
+2004.03-388,2,34099,lisa_schiavo_blatt,,3087.744,3090.583,--The--
+2004.03-388,2,15049,antonin_scalia,scotus_justice,3090.583,3092.383,"I mean, you... you have to make sense of the two."
+2004.03-388,2,34099,lisa_schiavo_blatt,,3092.383,3093.026,"--Right, and that's--"
+2004.03-388,2,15049,antonin_scalia,scotus_justice,3093.026,3098.64,And it seems to me that means the State can impose certain requirements upon the seller to the consumer--
+2004.03-388,2,34099,lisa_schiavo_blatt,,3098.64,3099.173,--Not on labeling.
+2004.03-388,2,15049,antonin_scalia,scotus_justice,3100.559,3110.463,"--Well, every change... virtually every change... virtually everyone... if... if you believe the respondent's theory, virtually any State regulation of the substance of the sale will require a change in the label."
+2004.03-388,2,34099,lisa_schiavo_blatt,,3110.463,3111.229,--That's just not true.
+2004.03-388,2,15049,antonin_scalia,scotus_justice,3121.024,3122.984,Sale... sale or use is what it says.
+2004.03-388,2,34099,lisa_schiavo_blatt,,3122.984,3123.815,--That's right and they--
+2004.03-388,2,15049,antonin_scalia,scotus_justice,3123.815,3125.854,Say... if they regulate the sale or use.
+2004.03-388,2,34099,lisa_schiavo_blatt,,3125.854,3129.402,"--That's right, and they do that every day without imposing labeling requirements."
+2004.03-388,2,15049,antonin_scalia,scotus_justice,3130.348,3131.309,Give me sale examples.
+2004.03-388,2,34099,lisa_schiavo_blatt,,3131.309,3138.198,"--They require the manufacturer, in order to sell the product, be registered with the State, and they can impose whatever sale restrictions they want--"
+2004.03-388,2,15113,anthony_m_kennedy,scotus_justice,3138.198,3138.704,And can they--
+2004.03-388,2,34099,lisa_schiavo_blatt,,3138.704,3139.565,--that don't go to the labeling.
+2004.03-388,2,15113,anthony_m_kennedy,scotus_justice,3139.565,3141.758,--Can they do the same thing by... through jury verdicts?
+2004.03-388,2,34099,lisa_schiavo_blatt,,3141.758,3143.543,Absolutely not.
+2004.03-388,2,15113,anthony_m_kennedy,scotus_justice,3149.269,3153.294,So now... so now you say a State can do something by regulation that a jury can't do.
+2004.03-388,2,34099,lisa_schiavo_blatt,,3153.294,3153.616,--No.
+2004.03-388,2,15113,anthony_m_kennedy,scotus_justice,3157.544,3166.224,I'm asking if the... if juries can do anything that the... are... are prohibited under your view from doing anything that the State could do by a State regulation.
+2004.03-388,2,34099,lisa_schiavo_blatt,,3166.406,3166.224,Right.
+2004.03-388,2,15084,ruth_bader_ginsburg,scotus_justice,3182.099,3190.609,"Ms. Blatt, there's a brief in this case... there's a brief in this case that just shows hundreds, if not thousands, of crop damage claims."
+2004.03-388,2,34099,lisa_schiavo_blatt,,3202.067,3202.253,No.
+2004.03-388,2,15084,ruth_bader_ginsburg,scotus_justice,3205.329,3209.45,But everything becomes... but every... every time... my crop was stunted.
+2004.03-388,2,34099,lisa_schiavo_blatt,,3213.017,3214.83,"--Justice Ginsburg, it's just not true."
+2004.03-388,2,15084,ruth_bader_ginsburg,scotus_justice,3230.183,3232.299,He says their claim is... is very simple.
+2004.03-388,2,34099,lisa_schiavo_blatt,,3239.538,3240.53,--Right.
+2004.03-388,2,15084,ruth_bader_ginsburg,scotus_justice,3240.53,3243.573,But you're saying that kind of claim can't be brought anymore.
+2004.03-388,2,34099,lisa_schiavo_blatt,,3243.573,3249.099,It can be brought if there's State law and evidence to support the State law that doesn't attack the labeling.
+2004.03-388,2,15084,ruth_bader_ginsburg,scotus_justice,3249.943,3255.402,I've described a set of facts which your position I think you have to say affects the label.
+2004.03-388,2,34099,lisa_schiavo_blatt,,3263.945,3274.044,"--If they found an expert that said if you had manufactured this differently or if you had designed it differently and there was evidence to support that, our view is that those claims aren't preempted."
+2004.03-388,2,15084,ruth_bader_ginsburg,scotus_justice,3276.525,3276.867,No.
+2004.03-388,2,34099,lisa_schiavo_blatt,,3280.003,3284.344,--This case... they didn't have any evidence other than saying that the label was inaccurate.
+2004.03-388,2,15084,ruth_bader_ginsburg,scotus_justice,3309.806,3312.474,Was that happening when EPA took the opposite view?
+2004.03-388,2,34099,lisa_schiavo_blatt,,3316.384,3323.695,"--Well, there's... there's been preemption at least since the late '80's, and I don't know of cases where juries... or the theory for recovery was invalidating the label."
+2004.03-388,2,15060,john_paul_stevens,scotus_justice,3361.953,3365.121,"Thank you, Ms. Blatt."
+2004.03-388,3,20869,david_c_frederick,,3368.716,3370.325,I just have two points to make.
+2004.03-388,3,15060,john_paul_stevens,scotus_justice,3513.349,3515.69,The case is submitted.

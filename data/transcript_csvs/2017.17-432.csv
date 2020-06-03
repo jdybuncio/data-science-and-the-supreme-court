@@ -1,0 +1,183 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2017.17-432,0,15086,john_g_roberts_jr,scotus_justice,0.07,6.365,"We'll hear argument next in Case 17-432, China Agritech versus Resh. Mr. Aronson."
+2017.17-432,0,62968,seth_a_aronson,,6.365,59.05,"Mr. Chief Justice, and may it please the Court: American Pipe gave individual claimants the benefit of equitable tolling for two reasons: One, the plaintiff had shown diligence by coming to court to assert his claim when class certification was denied; and, two, enforcing the statute of limitations would undermine Rule 23 by encouraging individual claimants to come forward while the class action was pending. Neither of those reasons suggests that the Court today should expand American Pipe. There's no basis to extend tolling to absent class members who have not shown diligence by -- by not filing their own claims when class certification was denied, and once class certification is denied, the extraordinary circumstance of -- of protective individual actions no longer exists."
+2017.17-432,0,15084,ruth_bader_ginsburg,scotus_justice,59.05,95.155,"Is it your position that once certification is denied, then members of the now-defunct class can come in and bring their own individual actions, but that's it? That what -- what American Pipe preserves is a right -- if you were a putative member of a class, the class motion denied, you can then bring your individual claim but not any class claim?"
+2017.17-432,0,62968,seth_a_aronson,,95.155,106.605,"Yes, if the statute of limitations had expired and you are seeking equitable tolling, then American Pipe and Crown, Cork say that you can come to court and assert your individual claim."
+2017.17-432,0,15094,elena_kagan,scotus_justice,128.72,129.38,Mr. Aronson --
+2017.17-432,0,15086,john_g_roberts_jr,scotus_justice,129.38,144.35,"But what about -- what about honoring Rule 23? It seems to me that you're creating an exception to the rule. If you just read it on its face, the statute of limitations hasn't run because of American Pipe and Crown, Cork, so why shouldn't that rule be available to you?"
+2017.17-432,0,62968,seth_a_aronson,,144.35,146.415,The statute of limitations has run.
+2017.17-432,0,15094,elena_kagan,scotus_justice,179.715,189.57,"I guess I don't understand, Mr. Aronson, why the diligence argument doesn't work the same way in the second stage, after the denial, as it does in the first."
+2017.17-432,0,62968,seth_a_aronson,,210.855,218.735,"What American Pipe and Crown, Cork say, it is diligent to rely on the class action until class certification is denied."
+2017.17-432,0,15094,elena_kagan,scotus_justice,221.33,241.725,"No, I don't -- I mean, it obviously didn't deal with this case, but the whole theory of American Pipe was that for any given individual, we weren't going to make them come forward; we were going to say reliance on a class action is sufficient to show diligence. So, here, these people were doing just that."
+2017.17-432,0,62968,seth_a_aronson,,255.69,261.235,"But once the class action fails, it is not diligence to rely on an untimely class."
+2017.17-432,0,15131,sonia_sotomayor,scotus_justice,285.12,294.035,"I'm sorry, that's not -- the statute doesn't talk about the best represent -- best representative in terms of individual members."
+2017.17-432,0,62968,seth_a_aronson,,321.685,336.88,"Well, Your Honor, I was -- I was answering the question from Justice Kagan in the broadest sense, but in the -- under the Private Securities Litigation Reform Act, the PSLRA, which you mention, yes, there's a regime there that does require that these issues be resolved early on."
+2017.17-432,0,15131,sonia_sotomayor,scotus_justice,336.88,349.76,"It does, but it says how, and that how is based on American tolling, in part, because it's suggesting who should be the lead counsel and the lead plaintiff."
+2017.17-432,0,62968,seth_a_aronson,,349.76,351.1,Right.
+2017.17-432,0,15131,sonia_sotomayor,scotus_justice,369.22,386.18,"So your regime is now encouraging the very thing that American Pipe was trying to avoid, which is to have a multiplicity of suits being filed and encouraging every class member to come forth and file their own suit."
+2017.17-432,0,62968,seth_a_aronson,,386.18,387.155,"No, Your Honor."
+2017.17-432,0,15131,sonia_sotomayor,scotus_justice,387.155,388.69,That's what you're suggesting has to be done.
+2017.17-432,0,62968,seth_a_aronson,,388.69,394.87,"No, American Pipe and Crown, Cork say we don't want you bringing your individual actions while the class action is pending."
+2017.17-432,0,15131,sonia_sotomayor,scotus_justice,397.89,399.105,Please tell me --
+2017.17-432,0,15094,elena_kagan,scotus_justice,399.105,399.47,Well --
+2017.17-432,0,15131,sonia_sotomayor,scotus_justice,399.47,400.64,"I'm sorry, go ahead."
+2017.17-432,0,15094,elena_kagan,scotus_justice,400.64,450.53,"Let's suppose you're right about that, Mr. Aronson, that what Rule 23 is primarily about, it's a comparison of class actions to individual actions and saying there are times in which we think class actions is the more efficient way to do things than a million individual actions. But, again, that interest seems to be the same here because, once the class certification is denied, you're saying, well, now everybody has to come bring their individual actions. And I think what somebody who was looking at the American Pipe reasoning might say is something to the effect of: No, just as, at time one, it made more sense to have a class action than a thousand individual actions, so too, at time two, it makes more sense to have a class action than a thousand individual actions. Nothing has changed."
+2017.17-432,0,62968,seth_a_aronson,,450.53,454.07,"Well, American Pipe and Crown, Cork say you bring your individual actions."
+2017.17-432,0,15094,elena_kagan,scotus_justice,458.4,462.335,"Well, here, again, of course, they didn't deal with this case."
+2017.17-432,0,62968,seth_a_aronson,,475.75,486.215,"In the abstract, yes, Your Honor, but when the statute of limitations intervenes and it does cut off rights, then we have to see whether or not the individual members are entitled to equitable tolling."
+2017.17-432,0,15094,elena_kagan,scotus_justice,486.215,496.09,"Well, there was always a question in American Pipe that we were doing something extraordinary, that we were saying it doesn't matter that the statute of limitations has run on you."
+2017.17-432,0,62968,seth_a_aronson,,529.905,544.835,"Well, Your Honor, it is not reasonable to rely on a class action where the -- where the statute of limitations has already expired. If you -- if we enforce a statute of limitations, Rule 23's interests would be served because we would have the classes coming forward early."
+2017.17-432,0,62836,neil_gorsuch,scotus_justice,566.62,567.07,Counsel --
+2017.17-432,0,15131,sonia_sotomayor,scotus_justice,567.07,567.87,Is it -- I'm sorry.
+2017.17-432,0,62836,neil_gorsuch,scotus_justice,567.87,570.46,"-- I just -- no, please go ahead."
+2017.17-432,0,15131,sonia_sotomayor,scotus_justice,570.46,603.11,"My question is, does the reason why the class was denied have any bearing on the rule you're proposing? I mean, I see various different potential kinds of reasons. Let's say that the plaintiff is inadequate, like happened in the second case here, that there was some collusion between plaintiff's counsel -- and I -- I'm using a loaded term, but I'm -- more as a hypothetical -- which is the plaintiff isn't representative of the class."
+2017.17-432,0,62968,seth_a_aronson,,617.485,619.9,It is until you get to the statute of limitations.
+2017.17-432,0,15131,sonia_sotomayor,scotus_justice,629.02,643.21,"Well, all right. So are you saying that if that ruling had been that plaintiff's counsel was inadequate, the former -- the Third Circuit rule, let's call it, that that wouldn't bar a subsequent class action?"
+2017.17-432,0,62968,seth_a_aronson,,643.21,645.34,It would if the statute of limitations had run.
+2017.17-432,0,15131,sonia_sotomayor,scotus_justice,645.34,654.33,So you don't see the reason for the failure of the class to have any bearing on the right of a subsequent class to be formed?
+2017.17-432,0,62968,seth_a_aronson,,654.33,657.25,Not once the -- the statute of limitations has expired.
+2017.17-432,0,62836,neil_gorsuch,scotus_justice,706.26,715.895,"Counsel, just returning to where the Chief Justice started us, under American Pipe, we say that equitable tolling gets you a new claim here."
+2017.17-432,0,62968,seth_a_aronson,,735.2,739.7,"Well, yes, there are. There are class action waivers that have been upheld by this Court."
+2017.17-432,0,62836,neil_gorsuch,scotus_justice,739.7,745.515,"No, I'm talking about after equitable tolling, that this Court has imposed and allowed --"
+2017.17-432,0,62968,seth_a_aronson,,745.515,745.97,Not --
+2017.17-432,0,62836,neil_gorsuch,scotus_justice,745.97,756.015,"-- a new suit, can you think of another example where in that new suit the equitably tolled plaintiff is forbidden from accessing a particular procedural right --"
+2017.17-432,0,62968,seth_a_aronson,,756.015,756.31,Well --
+2017.17-432,0,62836,neil_gorsuch,scotus_justice,756.31,758.55,-- otherwise available to all litigants?
+2017.17-432,0,62968,seth_a_aronson,,758.55,767.605,"I'm not aware of another procedural rule, but the -- it directly applies here under Rule 23 because the absent class members, their claims are untimely."
+2017.17-432,0,15131,sonia_sotomayor,scotus_justice,778.08,779.89,"I'm sorry, you're creating that rule."
+2017.17-432,0,62968,seth_a_aronson,,795.305,799.08,I'm not aware of any. But we're not asking the Court to write a new rule.
+2017.17-432,0,15131,sonia_sotomayor,scotus_justice,800.63,815.365,"Oh, you are, because you're -- by its terms, and we said it in Shady Grove, Rule 23 is a procedural mechanism that -- that is available to everyone who can meet its requirements."
+2017.17-432,0,62968,seth_a_aronson,,815.365,816.205,Right.
+2017.17-432,0,15131,sonia_sotomayor,scotus_justice,849.23,876.28,"So it seems to me that what you're proposing is that we give preclusive effect, something we've said doesn't exist, to bar named plaintiffs in a second suit to whatever the findings of the court -- prior court were with respect to the class."
+2017.17-432,0,62968,seth_a_aronson,,880.74,881.24,No --
+2017.17-432,0,15131,sonia_sotomayor,scotus_justice,881.24,888.175,It stops you from invoking a class act -- your class action rights in a second suit.
+2017.17-432,0,62968,seth_a_aronson,,888.175,890.765,We're not claiming preclusive effect at all.
+2017.17-432,0,15131,sonia_sotomayor,scotus_justice,894.18,895.995,But I don't understand how it's not.
+2017.17-432,0,62968,seth_a_aronson,,895.995,900.52,"Because we have a statute of limitations that's -- that's cutting off their claims, not a preclusive effect."
+2017.17-432,0,15131,sonia_sotomayor,scotus_justice,900.52,903.735,What you're asking us is to write a new American Pipe rule.
+2017.17-432,0,62968,seth_a_aronson,,903.735,907.85,"No, we're asking the Court to apply the statute of limitations as written."
+2017.17-432,0,15068,samuel_a_alito_jr,scotus_justice,907.85,919.11,"Are you asking for an exception to equitable tolling, or are you argue -- arguing that these claims are not equitably tolled because there was not diligence with respect to them?"
+2017.17-432,0,62968,seth_a_aronson,,919.11,924.275,"The latter, Your Honor. Equitable tolling requires diligence and extraordinary circumstances."
+2017.17-432,0,15084,ruth_bader_ginsburg,scotus_justice,939.85,940.31,But the person --
+2017.17-432,0,15113,anthony_m_kennedy,scotus_justice,940.31,942.88,"Well, not -- not on the first class action."
+2017.17-432,0,62968,seth_a_aronson,,950.75,951.62,"Right, that --"
+2017.17-432,0,15113,anthony_m_kennedy,scotus_justice,951.62,954.61,For the -- for the -- for the first one.
+2017.17-432,0,62968,seth_a_aronson,,954.61,956.88,"Right, you -- you have tolling for whenever --"
+2017.17-432,0,15113,anthony_m_kennedy,scotus_justice,956.88,958.13,You don't have to show diligence.
+2017.17-432,0,62968,seth_a_aronson,,960.335,964.34,"Well, the diligence shown is asserting your claim if the statute of limitations has expired."
+2017.17-432,0,15113,anthony_m_kennedy,scotus_justice,964.34,965.845,Once the class action has ended.
+2017.17-432,0,62968,seth_a_aronson,,965.845,966.295,Correct.
+2017.17-432,0,15113,anthony_m_kennedy,scotus_justice,966.295,966.785,Yes.
+2017.17-432,0,62968,seth_a_aronson,,966.785,967.36,Right.
+2017.17-432,0,15094,elena_kagan,scotus_justice,967.36,968.02,But that --
+2017.17-432,0,15084,ruth_bader_ginsburg,scotus_justice,968.02,974.36,You're diligent with respect to bringing -- a class action terminates.
+2017.17-432,0,62968,seth_a_aronson,,989.285,1002.7,"Correct, because it would be being brought on behalf of other class members who were not entitled to equitable tolling because they have done nothing. We cannot use Rule 23 to resuscitate claims that are not alive."
+2017.17-432,0,15086,john_g_roberts_jr,scotus_justice,1004.13,1009.955,"So -- so what they all have to do is they all have to file individual claims, every -- every member of the class?"
+2017.17-432,0,62968,seth_a_aronson,,1009.955,1022.94,"Anyone who wants to file a claim can come forward and file a claim. That's exactly what American Pipe said when they said that they should move to intervene, and Crown, Cork, which says that they should -- they can file their own class -- their own complaint."
+2017.17-432,0,15139,stephen_g_breyer,scotus_justice,1023.45,1038.75,"If the judge -- if a lawyer walks into the judge's chambers and says here in my hand I have 10,000 complaints, and he says, you know, they're identical, would it be all right to consider those as a class, just those? That's okay because they all wrote out the complaint, right?"
+2017.17-432,0,62968,seth_a_aronson,,1038.75,1045.485,"Well, the -- the federal courts are equipped to deal with -- with mass torts, with -- with mass situations like that, Justice Breyer."
+2017.17-432,0,15113,anthony_m_kennedy,scotus_justice,1066.13499995,1071.89,"Suppose, and this is -- the -- the first class action is dismissed."
+2017.17-432,0,62968,seth_a_aronson,,1091.3,1091.93,Well --
+2017.17-432,0,15113,anthony_m_kennedy,scotus_justice,1091.93,1093.185,-- or no further tolling?
+2017.17-432,0,62968,seth_a_aronson,,1093.185,1095.23,"Well, it's not my rule. It's the statute of limitations."
+2017.17-432,0,15113,anthony_m_kennedy,scotus_justice,1099.325,1099.64,Correct.
+2017.17-432,0,62968,seth_a_aronson,,1099.64,1103.41,"-- after the denial of the first class, you can file a second class action."
+2017.17-432,0,15113,anthony_m_kennedy,scotus_justice,1103.41,1103.585,Right.
+2017.17-432,0,62968,seth_a_aronson,,1103.585,1106.505,Because it's not binding on absent class members.
+2017.17-432,0,15131,sonia_sotomayor,scotus_justice,1107.98,1118.835,"I'm sorry, you're basically saying there's a statute of limitations to bring a class action."
+2017.17-432,0,62968,seth_a_aronson,,1129.535,1130.17,Well --
+2017.17-432,0,15131,sonia_sotomayor,scotus_justice,1130.17,1149.08,"So, assuming Justice Kennedy's hypothetical, cases lasted more than the statute of limitations, there's a thousand individual suits that were filed, could the Court then say: Those thousand I'm going to treat as a class? You're saying no."
+2017.17-432,0,62968,seth_a_aronson,,1149.08,1151.495,If it's -- I'm not saying no to that.
+2017.17-432,0,15131,sonia_sotomayor,scotus_justice,1159.02,1160.84,"I'm sorry, this makes no sense to me."
+2017.17-432,0,62968,seth_a_aronson,,1166.775,1167.46,It would stop --
+2017.17-432,0,15131,sonia_sotomayor,scotus_justice,1167.46,1170.11,But the court could do it anyway?
+2017.17-432,0,62968,seth_a_aronson,,1170.11,1177.69,Because the court cannot certify a class of absent class members who have slept on their rights and are not entitled to tolling.
+2017.17-432,0,15131,sonia_sotomayor,scotus_justice,1220.85000005,1223.345,But not as a class?
+2017.17-432,0,62968,seth_a_aronson,,1223.345,1224.52,Not as a class.
+2017.17-432,0,15094,elena_kagan,scotus_justice,1317.66,1320.93,"Well, Mr. Aronson, let me give you a hypothetical."
+2017.17-432,0,62968,seth_a_aronson,,1381.34,1393.06,"Under our theory, if you enforce the statute of limitations and announce that we have a statute of limitations, we're not going to allow all of this back-end maneuvering, then people will step forward so that if there's a problem --"
+2017.17-432,0,15094,elena_kagan,scotus_justice,1393.06,1395.345,They all have claims that are $32 claims.
+2017.17-432,0,62968,seth_a_aronson,,1395.345,1403.25,"Well, 30 -- you know, people have $32 claims and they have to make a decision as to whether or not they want to pursue the $32 million -- $32 claims."
+2017.17-432,0,15094,elena_kagan,scotus_justice,1403.25,1419.69,"But that is the entire purpose of our -- of -- of Rule 23, is that we understand that with respect to some category of claims, we're not going to have them individually or it will be so ridiculous if we have them individually that we would prefer the class action device."
+2017.17-432,0,62968,seth_a_aronson,,1419.69,1421.06,If it works.
+2017.17-432,0,15094,elena_kagan,scotus_justice,1425.53,1436.145,"Well, but, again, here, it's not working just for some reason that has nothing to do with the appropriateness of class treatment; it just has to do with the fact that one named plaintiff is not a good named plaintiff."
+2017.17-432,0,62968,seth_a_aronson,,1436.145,1436.87,Right.
+2017.17-432,0,15113,anthony_m_kennedy,scotus_justice,1469.44,1469.79,Does --
+2017.17-432,0,62968,seth_a_aronson,,1469.79,1471.355,-- if we get people in court early.
+2017.17-432,0,15113,anthony_m_kennedy,scotus_justice,1471.355,1475.74,"In -- in that instance, is there ever an amended complaint that relates back?"
+2017.17-432,0,62968,seth_a_aronson,,1475.74,1479.315,"You can have an amended complaint that relates back also, Justice Kennedy."
+2017.17-432,0,15086,john_g_roberts_jr,scotus_justice,1513.025,1524.325,"Thank you, counsel. Mr. Frederick."
+2017.17-432,1,20869,david_c_frederick,,1524.325,1568.62,"Thank you, Mr. Chief Justice, and may it please the Court: I'd like to start with the question that you posed and the one that Justice Gorsuch posed about the application of Rule 23. Petitioner concedes that every individual class member had a timely claim at the time the second class certification motion was denied. That concession means that you have to consider whether or not there is some exception to the notion that all of the Rules of Civil Procedure apply. In the Shady Grove case, this Court held that if an application for class certification is made under Rule 23, it applies automatically if the conditions for Rule 23 are satisfied."
+2017.17-432,1,15084,ruth_bader_ginsburg,scotus_justice,1578.94,1579.53,"But -- but, Mr. --"
+2017.17-432,1,15068,samuel_a_alito_jr,scotus_justice,1579.53,1581.98,"Well, I don't think they -- I don't think they made that concession."
+2017.17-432,1,20869,david_c_frederick,,1666.275,1687.01,"Well, the second class action here, Smyth, was filed within the statute of limitations period, so I think you have to confront the question of the logic that Justice Kagan's questions pose, which is why doesn't the same diligence and extraordinary circumstances that applied in the first timely filed class action also apply in the second timely filed class action?"
+2017.17-432,1,15094,elena_kagan,scotus_justice,1687.01,1698.985,"Well -- well, that's true, Mr. Frederick, but I had the same question that Justice Alito had because let's assume, just for the sake of argument, and you can tell by my questions I'm a little bit skeptical of this, but let's assume that the interests were different."
+2017.17-432,1,20869,david_c_frederick,,1716.02,1780.135,"It would, although I think that it is fair to say that this Court's decisions, including last term in ANZ and CalPERS, described the American Pipe rule as a different form of judicial equitable power designed to enforce the principles behind Rule 23 and to promote judicial efficiency in the adjudication of individual claims. And that's why in the Menominee decision the Court distinguished between ""class action tolling"" and the type of equitable tolling that arose in Holland for individual claims where you have to look at both due diligence and extraordinary circumstances. And I would think that the way you synthesize and rationalize these principles is that you say the American Pipe rule does satisfy those classic instances of due diligence and extraordinary circumstances, but they do it in a somewhat different way because we are trying to incentivize people not to bring duplicative claims. That was the whole driver behind the American Pipe rule to begin with."
+2017.17-432,1,62836,neil_gorsuch,scotus_justice,1805.79,1806.52,Exactly.
+2017.17-432,1,15139,stephen_g_breyer,scotus_justice,1808.4,1809.625,What about after -- I'm sorry.
+2017.17-432,1,62836,neil_gorsuch,scotus_justice,1809.625,1831.78,"I'm sorry, and that's pretty unusual, right? I can't think of another example in equitable tolling doctrine where we do this, which may suggest some question about whether American Pipe is correct. And if we have doubts about that, why should we extend it so radically here in a way that was unforeseen even by the authors of American Pipe?"
+2017.17-432,1,20869,david_c_frederick,,1831.78,1846.55,"Well, you're not extending it, Justice Gorsuch, and the reason you're not extending it is because, if a claim is a timely-filed individual claim, all of the reasons to deny, encouraging and incentivizing duplicative multiple -- multiple claims, those all apply."
+2017.17-432,1,62836,neil_gorsuch,scotus_justice,1846.55,1861.995,"I'm sorry -- I'm sorry to interrupt, but -- but if -- if we doubt those rationales, if we doubt American Pipe and think that it doesn't really represent true equitable tolling principles at common law, why would we extend that?"
+2017.17-432,1,20869,david_c_frederick,,1861.995,1864.97,"Well, you wouldn't -- again, you would not be extending that."
+2017.17-432,1,62836,neil_gorsuch,scotus_justice,1875.35,1880.26,But only on the understanding of American Pipe that it's after the fact rather than before the fact.
+2017.17-432,1,20869,david_c_frederick,,1881.46,1894.225,"And that is an expansion -- what he's proposing is an expansion on the idea of what due diligence is, because you don't classically look at due diligence after a case has been filed. You look at what was the plaintiff doing before the case was filed."
+2017.17-432,1,62836,neil_gorsuch,scotus_justice,1903.105,1903.77,I guess I'm not --
+2017.17-432,1,15084,ruth_bader_ginsburg,scotus_justice,1903.77,1908.585,"Mr. Frederick, there's one thing I find very puzzling about your argument."
+2017.17-432,1,20869,david_c_frederick,,1938.795,1943.425,"Justice Ginsburg, it is correct that Shady Grove did not address tolling."
+2017.17-432,1,15139,stephen_g_breyer,scotus_justice,1973.81,1985.265,"He says it's, I think, I think, and I don't want to put words in his mouth, but I think let us focus on someone like me, a common person."
+2017.17-432,1,20869,david_c_frederick,,2054.07,2062.32,And I think that the answer to that was actually addressed by the principal drafter or reporter of Rule 23 when it was amended in 1966.
+2017.17-432,1,62836,neil_gorsuch,scotus_justice,2097.48,2100.97,I don't think anybody questions the importance of that -- that function of the rule.
+2017.17-432,1,20869,david_c_frederick,,2136.61,2140.08,"Justice Gorsuch, I would have a couple of responses to your question."
+2017.17-432,1,15084,ruth_bader_ginsburg,scotus_justice,2228.1,2240.32,"That's preclusion but not calling it preclusion, if you're saying we look at the two class actions, if the second one is the same as the first, we're not going to allow it, but we'll call it comity instead of preclusion."
+2017.17-432,1,20869,david_c_frederick,,2240.91,2243.43,"No, it's not preclusion, Justice Ginsburg."
+2017.17-432,1,15086,john_g_roberts_jr,scotus_justice,2293.07,2298.625,"No, you're -- you're going to deny it because the claims are filed outside the statute of limitations."
+2017.17-432,1,20869,david_c_frederick,,2298.625,2306.39,"Your Honor, respectfully, the Smyth case was filed inside the statute of limitations."
+2017.17-432,1,15113,anthony_m_kennedy,scotus_justice,2317.73,2322.57,"Because they slept on their rights once, it's okay, but they can't sleep on their rights twice."
+2017.17-432,1,20869,david_c_frederick,,2322.57,2327.57,"I think that the question in equity, Justice Kennedy, is whether or not -- there are two questions."
+2017.17-432,1,15139,stephen_g_breyer,scotus_justice,2337.55,2338.36,Do you -- perhaps -- all right.
+2017.17-432,1,20869,david_c_frederick,,2391.34,2401.4,"Well, I -- I think that the problem about the incentives is misunderstanding what the representative action that's being brought in a class action is designed to do."
+2017.17-432,1,15139,stephen_g_breyer,scotus_justice,2421.13,2421.22,They are.
+2017.17-432,1,20869,david_c_frederick,,2421.22,2422.07,-- claims are all brought together.
+2017.17-432,1,15139,stephen_g_breyer,scotus_justice,2422.07,2422.74,So you're saying --
+2017.17-432,1,20869,david_c_frederick,,2422.74,2422.83,And --
+2017.17-432,1,15139,stephen_g_breyer,scotus_justice,2422.83,2429.18,"You're saying that, and his -- his -- what they have to show is, well, why is it worse the second time than it was the first time?"
+2017.17-432,1,20869,david_c_frederick,,2429.18,2429.93,And what --
+2017.17-432,1,15139,stephen_g_breyer,scotus_justice,2429.93,2430.44,Is that right?
+2017.17-432,1,20869,david_c_frederick,,2430.44,2430.82,Yes.
+2017.17-432,1,15086,john_g_roberts_jr,scotus_justice,2477.49,2486.155,"Well, one reason that the second might be different -- might be different than the first, because if you allow the second, you've got to allow the third and then the fourth and the fifth."
+2017.17-432,1,20869,david_c_frederick,,2487.945,2499.33,"And what judges have held, Mr. Chief Justice, is that the end in sight is that you have to have a new rationale for why the subsequent class certification motion should be granted."
+2017.17-432,1,15068,samuel_a_alito_jr,scotus_justice,2563.08,2568.69,You -- you argue that if the second -- let's say class certification is denied in the first case.
+2017.17-432,1,20869,david_c_frederick,,2584.475,2617.75,"Well, I think, Justice Alito, I've not encountered that in the cases. What frequently happens is that these subsequent cases get related and transferred back as related cases under various MDL procedures, but I think the answer to your question would be resolved under a -- abuse of discretion standard, and the issue on appeal would be: Should the second judge have applied comity on the -- on the basis that the same rationale applied? I think that would be the argument and that would be how a court of appeals would review that."
+2017.17-432,1,15068,samuel_a_alito_jr,scotus_justice,2617.75,2622.11,"I -- I've never seen this as an enforceable -- you know, as an enforceable doctrine."
+2017.17-432,1,20869,david_c_frederick,,2635.14,2635.59,And that's why --
+2017.17-432,1,15068,samuel_a_alito_jr,scotus_justice,2635.59,2636.085,-- judge did.
+2017.17-432,1,20869,david_c_frederick,,2636.085,2655.675,"I think that -- and that's why it is under an abuse of discretion standard, because one would be looking at, did the district court abuse the discretion vested to him or her in that circumstance? But I would point out that I'm not aware of where these kinds of cases get appealed and brought up."
+2017.17-432,1,62836,neil_gorsuch,scotus_justice,2682.3,2704.52,"Well, if we -- if we were to rule against you, it seems to me the effect might be that we would encourage more protective filings, and that would solve the problem, wouldn't it? We wouldn't have to create these extraordinary rules in extending American Pipe in new ways; we'd just create a new incentive structure that would ensure that there are backup class actions available."
+2017.17-432,1,20869,david_c_frederick,,2705.685,2717.3,"I think that what's wrong with that is that it is inconsistent with what led the Court to the American Pipe principle to begin with, which was that this was really a balancing among a multiplicity of interests."
+2017.17-432,1,62836,neil_gorsuch,scotus_justice,2717.3,2721.51,And -- and we're now balancing a multiplicity of interests in a slightly different context.
+2017.17-432,1,20869,david_c_frederick,,2727.785,2750.61,I think that the answer is that one of the rationales of the American Pipe rule was to protect district judges from having to do a lot of unnecessary work in processing both individual and protective class action claims and to do a lot of things that have to be done as an administrative matter that's unnecessary if you recognize the representative nature of the class action that is filed.
+2017.17-432,1,62836,neil_gorsuch,scotus_justice,2750.71,2755.85,The alternative is backhand administration over comity questions that are effectively unreviewable.
+2017.17-432,1,20869,david_c_frederick,,2755.85,2756.78,Well --
+2017.17-432,1,62836,neil_gorsuch,scotus_justice,2756.78,2760.13,So how do we weigh those two interests?
+2017.17-432,1,20869,david_c_frederick,,2760.13,2764.32,I -- I don't agree that these are comity questions that are unreviewable.
+2017.17-432,1,62836,neil_gorsuch,scotus_justice,2767.07,2775.425,Are you aware of any court that's ever held that a district court abused its discretion in -- in -- in declining to follow another district court's decision?
+2017.17-432,1,20869,david_c_frederick,,2775.425,2788.04,"No, but I'm also not aware of any decision of a court that says that just because you have an equitable tolling of an individual claim, you can't use all of the Rules of Civil Procedure that are available to you."
+2017.17-432,1,15084,ruth_bader_ginsburg,scotus_justice,2805.05,2845.66,"But in -- in the -- the underlying idea, I thought, of American Pipe, was class action denied, anyone can come in in a window after that, they are diligent, but the class members that have done nothing, that are sitting tossing the notices into the wastepaper basket, they -- they are not diligent. So American Pipe is protecting diligent parties who will come in immediately after the class action is denied, and the ones who don't come in are still sleeping on their rights."
+2017.17-432,1,20869,david_c_frederick,,2845.66,2845.98,Right.
+2017.17-432,1,15084,ruth_bader_ginsburg,scotus_justice,2852.52,2856.52,"Well, that -- that one case, Smyth was within the statute of limitations."
+2017.17-432,1,20869,david_c_frederick,,2856.52,2857.44,That's correct.
+2017.17-432,1,15084,ruth_bader_ginsburg,scotus_justice,2857.83,2858.91,This one isn't.
+2017.17-432,1,20869,david_c_frederick,,2858.91,2863.57,"That's correct, but the rationale, the logic of it applies in the same way."
+2017.17-432,1,15084,ruth_bader_ginsburg,scotus_justice,2893.21,2905.845,"Well, there could have been people who were worried about the -- the weaknesses, the vulnerability of the class representative could have intervened in that -- in that action."
+2017.17-432,1,20869,david_c_frederick,,2910.965,2934.625,"The -- and, Justice Ginsburg, that goes to my point, which is that equity should not allow the courts to pick and choose which Rules of Civil Procedure apply if you have a timely filed claim. You know, the principle here that I think has been important is the idea that the procedural rules shouldn't matter."
+2017.17-432,1,15131,sonia_sotomayor,scotus_justice,2974.6,2979.91,"Mr. Frederick, there's been a circuit split, I see it as three ways."
+2017.17-432,1,20869,david_c_frederick,,3041.325,3047.5,I think that the compromise position would certainly solve the problem in this case because of the --
+2017.17-432,1,15131,sonia_sotomayor,scotus_justice,3047.5,3047.72,For you.
+2017.17-432,1,20869,david_c_frederick,,3047.72,3048.08,For me.
+2017.17-432,1,15131,sonia_sotomayor,scotus_justice,3048.08,3048.325,Yeah.
+2017.17-432,1,20869,david_c_frederick,,3048.325,3119.12,"So leaving that aside, I think that if you were to do that, you would affirm on a separate basis, but the judgment of the Ninth Circuit would be upheld and the case would be timely and allowed to go forward. I think that the -- the principal difficulty from it as a doctrinal matter is that the Court has not tended to use these types of equitable arguments as a way of having Rule 23 operate as a toggle on and off switch. And that, I think, is where you have a certain amount of analytical difficulty. The way we have proposed the solution to this case is if the claim is timely and it's timely as an individual matter, the individual can bring in, under Rule 23, that is a very straightforward, clean, simple rule. So, if you were to then look at, say, we don't accept the simple rule, we want to have something a little bit more complex, I think at the very least you would say: Was the plaintiff who brought that adequate to represent the class and was there a deficiency in the adequacy of that representation? And I think to that extent, you would then have to look hard at what were the various factors that went into that adequacy."
+2017.17-432,1,15086,john_g_roberts_jr,scotus_justice,3157.48,3162.8149999,"Thank you, counsel. Mr. Aronson, five minutes."
+2017.17-432,2,62968,seth_a_aronson,,3162.8149999,3171.415,Let me begin by saying that we have not conceded that all of the absent shareholders' claims are timely.
+2017.17-432,2,15094,elena_kagan,scotus_justice,3256.52,3261.0,"Well, I thought that that was because the problem that he identified had been cured."
+2017.17-432,2,62968,seth_a_aronson,,3261.0,3263.67,"It had not been -- well, it had not been cured."
+2017.17-432,2,15086,john_g_roberts_jr,scotus_justice,3429.21,3430.275,"Thank you, counsel."

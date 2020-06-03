@@ -1,0 +1,68 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2001.00-1531,0,15141,william_h_rehnquist,scotus_justice,0.0,13.375,"We'll hear argument next in No. 00-1531, Verizon Maryland v. the Public Service Commission of Maryland and United States v. Public Service Commission of Maryland."
+2001.00-1531,0,35781,mark_l_evans,,29.145,42.686,"Mr. Chief Justice, and may it please the Court: Unlike Mr. Smith, Verizon takes the position that these contracts are, in fact, pervasive and Federal, and I'd like to tell you why."
+2001.00-1531,0,15141,william_h_rehnquist,scotus_justice,59.981,71.748,252(a)(1)?
+2001.00-1531,0,35781,mark_l_evans,,71.748,101.486,"(a)(1), and finally, and in some ways most tellingly, every provision of an approved agreement is like a tariff made available automatically to every other carrier that wishes to adopt them, and the Court upheld that in the Iowa utilities case even though it was challenged, but the function of not only the agreement's terms but every interpretation of an agreement's terms has Federal reverberations."
+2001.00-1531,0,15141,william_h_rehnquist,scotus_justice,105.844,111.872,"Well, what about Justice Stevens' example in the previous case, do you pay on Tuesday or do you pay on Thursday?"
+2001.00-1531,0,35781,mark_l_evans,,111.872,130.652,"Mr. Chief Justice, I think that is a hard question in terms of the way it was put, and I think the answer, to be consistent, is yes it belongs in Federal court, and the reason I say that is because just like a Federal tariff, where there's a question about the payment date, it belongs in Federal court."
+2001.00-1531,0,15049,antonin_scalia,scotus_justice,141.344,146.628,"How many of these agreements, negotiated or otherwise, are there Nation-wide?"
+2001.00-1531,0,35781,mark_l_evans,,146.628,147.826,--They're... they're--
+2001.00-1531,0,15049,antonin_scalia,scotus_justice,147.826,148.486,Do you have any idea?
+2001.00-1531,0,35781,mark_l_evans,,149.312,150.139,--limited to--
+2001.00-1531,0,15049,antonin_scalia,scotus_justice,150.139,150.715,--a magnitude.
+2001.00-1531,0,35781,mark_l_evans,,150.715,151.003,--I'm sorry.
+2001.00-1531,0,15049,antonin_scalia,scotus_justice,163.158,169.291,I'm just wondering how many pure contract cases are being dumped into Federal courts by your--
+2001.00-1531,0,35781,mark_l_evans,,169.291,169.745,"Oh, I see."
+2001.00-1531,0,15049,antonin_scalia,scotus_justice,169.745,171.316,"--100,000?"
+2001.00-1531,0,35781,mark_l_evans,,171.316,175.774,"I think the... I don't have a number, Justice Scalia."
+2001.00-1531,0,15049,antonin_scalia,scotus_justice,198.186,205.245,"Yes, but you say every time there's any dispute on this contract, even as to what date payment should be made, you run into Federal court."
+2001.00-1531,0,35781,mark_l_evans,,205.245,213.502,"Well, I mean, yes, but as a practical matter the issues will not be brought to Federal court unless there's a lot of money involved and the issues are very important for a variety of reasons."
+2001.00-1531,0,15139,stephen_g_breyer,scotus_justice,216.391,221.387,"I thought a tariff... I mean, you're talking about a State railroad tariff?"
+2001.00-1531,0,35781,mark_l_evans,,221.387,222.13,"No, not a--"
+2001.00-1531,0,15139,stephen_g_breyer,scotus_justice,222.13,224.936,"No, of course a Federal railroad tariff is a Federal question."
+2001.00-1531,0,35781,mark_l_evans,,243.39,243.883,--Well--
+2001.00-1531,0,15139,stephen_g_breyer,scotus_justice,243.883,250.078,But... so I don't see how in answer to Justice Stevens... and I think it does create a problem.
+2001.00-1531,0,35781,mark_l_evans,,277.32,278.435,--Well--
+2001.00-1531,0,15139,stephen_g_breyer,scotus_justice,278.435,279.799,What's your response?
+2001.00-1531,0,35781,mark_l_evans,,279.799,281.657,"--Well, two things, Justice Breyer."
+2001.00-1531,0,15141,william_h_rehnquist,scotus_justice,313.357,316.208,"What's your answer to the Jackson Transit case, then?"
+2001.00-1531,0,35781,mark_l_evans,,316.208,327.847,Jackson Transit actually was a case involving a contract under the Urban Mass Transit Act in which the Court's analysis proceeded as follows.
+2001.00-1531,0,15049,antonin_scalia,scotus_justice,538.127,541.842,You say they're going there under 1331?
+2001.00-1531,0,35781,mark_l_evans,,541.842,569.667,"Yes, and this Court once before had before it a bifurcation scheme that had been proposed, actually decided by the Seventh Circuit, as it was in this case, and that's the Bank One case in 516 U.S., and the Court said, this is just too unwieldy and inefficient a system for us to impute the Congress, even if the language were clear, and here the language by no means even supports the outcome."
+2001.00-1531,0,15141,william_h_rehnquist,scotus_justice,572.928,574.042,"Thank you, Mr. Evans."
+2001.00-1531,1,17846,barbara_b_mcdowell,,575.462,608.222,"Initially, I'd like to note that although this... in this case the Court granted certiorari only on the question of jurisdiction under section 1331, if the Court determines that there is a standing problem in the Mathias case, all of the other questions on which the Court granted cert in that case are also presented here, and section 1331 gives the district courts jurisdiction over claims at least that a State commission has acted contrary to controlling Federal law in construing or enforcing an interconnection agreement."
+2001.00-1531,1,15049,antonin_scalia,scotus_justice,613.628,632.575,"Excuse me, how does a State commission act contrary to Federal law in construing an agreement that clearly says X, which is contrary to Federal law, but I mean, the State commission is just saying what is the truth."
+2001.00-1531,1,17846,barbara_b_mcdowell,,632.575,635.093,How is that acting contrary to Federal law?
+2001.00-1531,1,15049,antonin_scalia,scotus_justice,656.974,657.634,They wouldn't say that.
+2001.00-1531,1,17846,barbara_b_mcdowell,,662.092,668.158,"--Well, it... the commission conceivably could have said if the contract is silent on the specific subject--"
+2001.00-1531,1,15049,antonin_scalia,scotus_justice,668.158,668.901,Oh... yes.
+2001.00-1531,1,17846,barbara_b_mcdowell,,668.901,669.606,--or whatever.
+2001.00-1531,1,15049,antonin_scalia,scotus_justice,673.897,704.9,"Okay, but you... but sure, I mean, if you posit that the Federal regulation says no contract shall be construed this way, no matter what it says, no matter how clearly it says that, then I agree with you, the commission would be violating Federal law, but let's assume a more normal FCC regulation which just says that this particular disposition is unlawful, even if you do agree with it, okay, and all that happens is that the State commission says, yes, they're... that's what they agreed to, okay."
+2001.00-1531,1,17846,barbara_b_mcdowell,,707.789,708.82,--It may not.
+2001.00-1531,1,15049,antonin_scalia,scotus_justice,709.563,710.595,"Federal law, excuse me."
+2001.00-1531,1,17846,barbara_b_mcdowell,,710.595,720.171,--It may be the rare case in which a State commission decision interpreting a negotiated agreement will... can be alleged to violate Federal law.
+2001.00-1531,1,15141,william_h_rehnquist,scotus_justice,729.542,732.514,What is the actual question before the commission?
+2001.00-1531,1,17846,barbara_b_mcdowell,,741.969,760.628,"--This has been sort of a moving target, because the FCC's orders have been subject to review and have been vacated, so... but the claim was that under the commission's initial order with respect to Internet calls--"
+2001.00-1531,1,15141,william_h_rehnquist,scotus_justice,760.628,764.715,"No, I meant the rules of the State commission, not the FCC."
+2001.00-1531,1,17846,barbara_b_mcdowell,,764.715,789.607,"--Well, the State commission, after looking at the FCC's orders and the statute, decided that there was... the FCC had said it was permissible to adopt either rule, to read these agreements either as providing reciprocal compensation for these calls or not, and gave some factors that State commissions might look to in construing agreements, and that is what it did."
+2001.00-1531,1,15141,william_h_rehnquist,scotus_justice,789.607,801.867,"For instance, if you go to a State court, I'm A, I'm suing B because we have a contract, the final decision of the State court isn't just necessarily the parties agree to this."
+2001.00-1531,1,17846,barbara_b_mcdowell,,818.396,844.963,"Yes, and certainly it's subject to the standards of 252(d) with respect to assuring that the public interest, convenience, and necessity is served, and it needs to look at the polices as articulated in the Telecommunications Act and by the FCC in its regulations and orders, so it's a broader mandate than just looking at the parties' intent, yes."
+2001.00-1531,1,15084,ruth_bader_ginsburg,scotus_justice,861.31,867.792,"Ms. McDowell, would you clarify what you define as the Federal question in this case?"
+2001.00-1531,1,17846,barbara_b_mcdowell,,912.291,921.867,"--Verizon's complaint, and that's in the court of appeals joint appendix, was really quite bare bones."
+2001.00-1531,1,15084,ruth_bader_ginsburg,scotus_justice,960.217,962.241,That ruling has been vacated.
+2001.00-1531,1,17846,barbara_b_mcdowell,,962.241,963.372,--That's true.
+2001.00-1531,1,15139,stephen_g_breyer,scotus_justice,1000.879,1013.056,"Can I get a clear restatement, if you like, of just what you think... I mean, on the overall question I now see three possible ways you could go."
+2001.00-1531,1,17846,barbara_b_mcdowell,,1091.529,1097.102,I wish I could tell you precisely how it would work out in every case.
+2001.00-1531,1,15049,antonin_scalia,scotus_justice,1098.301,1098.301,5 minutes or less.
+2001.00-1531,2,41702,susan_s_miller,,1689.593,1698.964,"Mr. Chief Justice, and may it please the Court: I'd like to start out with giving you a little factual background of what the commission considered and what Verizon appealed."
+2001.00-1531,2,15049,antonin_scalia,scotus_justice,1778.264,1791.861,"Excuse me, Verizon was objecting to a misinterpretation of Maryland contract law, but up here they're saying that this contract isn't governed by Maryland contract law, but rather by Federal contract law."
+2001.00-1531,2,41702,susan_s_miller,,1791.861,1793.247,Their--
+2001.00-1531,2,15049,antonin_scalia,scotus_justice,1793.247,1795.083,Is that a change of position?
+2001.00-1531,2,41702,susan_s_miller,,1795.083,1805.218,"--Their claim... what they argued on their motion for summary judgment was that Maryland contract law became Federal common law, and that thus it was--"
+2001.00-1531,2,15049,antonin_scalia,scotus_justice,1805.218,1809.1,"Maryland contract law became Federal common law, I see."
+2001.00-1531,2,41702,susan_s_miller,,1809.1,1809.843,--That was their argument.
+2001.00-1531,2,15049,antonin_scalia,scotus_justice,1809.843,1818.76,So that we have a Federal contract law that consists of Federal adoption of the common law of each of the 50 States that--
+2001.00-1531,2,41702,susan_s_miller,,1818.76,1820.905,Whatever their contract law is.
+2001.00-1531,2,15049,antonin_scalia,scotus_justice,1820.905,1820.905,"--I understand it, I guess."
+2001.00-1531,3,35781,mark_l_evans,,2927.083,2940.913,"I would just like to read two provisions, very short provisions from the contract that's being interpreted here."
+2001.00-1531,3,15141,william_h_rehnquist,scotus_justice,2990.158,2991.44,"Thank you, Mr. Evans."

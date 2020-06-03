@@ -1,0 +1,65 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1983.82-1050,0,15073,warren_e_burger,scotus_justice,0.0,63.823,"Mr. Levy, you may proceed whenever you are ready."
+1983.82-1050,0,36246,mark_i_levy,,63.823,66.692,"Thank you, Mr. Chief Justice, and may it please the Court:"
+1983.82-1050,1,29328,john_r_benn,,1822.012,1824.864,"Mr. Chief Justice, and may it please the Court:"
+1983.82-1050,1,15141,william_h_rehnquist,scotus_justice,2020.042,2023.81,"Did you make this argument, Mr. Benn, in the District Court?"
+1983.82-1050,1,29328,john_r_benn,,2023.81,2028.047,"--No, Your Honor, we did not offer it in District Court, and if I could, perhaps give an explanation."
+1983.82-1050,1,15141,william_h_rehnquist,scotus_justice,2052.079,2056.198,Counsel for your client didn't raise it in this case in the District Court.
+1983.82-1050,1,29328,john_r_benn,,2056.198,2057.067,"--That is correct, Your Honor."
+1983.82-1050,1,15092,sandra_day_oconnor,scotus_justice,2063.054,2077.278,"Mr. Benn, that interpretation though of this statute is just flatly inconsistent with the congressional intent and under those circumstances this Court doesn't apply that canon of construction that you are suggesting."
+1983.82-1050,1,29328,john_r_benn,,2077.278,2087.586,"Your Honor, I think it would be a fair characterization to make that there has been an unfair mixture made in the presentation before this Court of the legislative history."
+1983.82-1050,1,15060,john_paul_stevens,scotus_justice,2158.848,2162.817,"Mr. Benn, is there really much left to the offset clause if you win on this argument?"
+1983.82-1050,1,29328,john_r_benn,,2162.817,2163.436,"--No, Your Honor."
+1983.82-1050,1,15060,john_paul_stevens,scotus_justice,2188.951,2193.605,Aren't husbands the main people they are interested in in the offset provision?
+1983.82-1050,1,29328,john_r_benn,,2193.605,2197.057,"Your Honor, I don't believe it is just simply the husbands concerned."
+1983.82-1050,1,15060,john_paul_stevens,scotus_justice,2203.561,2211.9,"Well, am I not right that the main group they wanted the offset to apply to was husbands who had supported themselves?"
+1983.82-1050,1,29328,john_r_benn,,2211.9,2213.952,--Certainly from the aspect of--
+1983.82-1050,1,15060,john_paul_stevens,scotus_justice,2213.952,2215.835,That is where most of the money is in the case.
+1983.82-1050,1,29328,john_r_benn,,2215.835,2216.352,"--Yes, Your Honor."
+1983.82-1050,1,15060,john_paul_stevens,scotus_justice,2216.352,2223.256,"And, you would reverse the congressional decision as that major group covered by the offset provision."
+1983.82-1050,1,29328,john_r_benn,,2223.256,2224.072,"Your Honor, I think--"
+1983.82-1050,1,15060,john_paul_stevens,scotus_justice,2224.072,2224.906,Isn't that right?
+1983.82-1050,1,29328,john_r_benn,,2224.906,2228.058,"--Yes, Your Honor, that is the approach we are taking."
+1983.82-1050,1,15141,william_h_rehnquist,scotus_justice,2438.997,2441.948,There are a lot of cases against you on that point.
+1983.82-1050,1,29328,john_r_benn,,2454.089,2455.458,"--Yes, Justice Rehnquist, however--"
+1983.82-1050,1,15141,william_h_rehnquist,scotus_justice,2455.458,2461.093,So why do you say there cannot be reliance on an unconstitutional statute?
+1983.82-1050,1,29328,john_r_benn,,2463.128,2463.778,"--No, Your Honor."
+1983.82-1050,1,15141,william_h_rehnquist,scotus_justice,2477.788,2479.906,So was Chico Drainage District.
+1983.82-1050,1,29328,john_r_benn,,2479.906,2482.525,"Your Honor, I am not familiar with that particular case."
+1983.82-1050,1,15141,william_h_rehnquist,scotus_justice,2482.525,2499.285,"Well, it was a municipal bankruptcy statute that held unconstitutional by this Court and then later reliance interests were asserted and the this Court in a subsequent case said, sure, it was unconstitutional, but that doesn't mean people don't do things in reliance."
+1983.82-1050,1,29328,john_r_benn,,2499.285,2500.003,Okay.
+1983.82-1050,1,15141,william_h_rehnquist,scotus_justice,2518.429,2524.582,Why shouldn't this Court recognize Congress' choice as well as trying to make on of its own?
+1983.82-1050,1,29328,john_r_benn,,2524.582,2536.207,"Your Honor, if there is an analysis by Congress indicating that they have studied the issue and have determined that reliance interest is present, perhaps it could be accepted in that situation."
+1983.82-1050,1,15071,byron_r_white,scotus_justice,2556.454,2558.573,Why was there even an exception then?
+1983.82-1050,1,29328,john_r_benn,,2558.573,2559.806,Okay.
+1983.82-1050,1,15071,byron_r_white,scotus_justice,2572.313,2575.932,Whom were they attempting to benefit by this exception?
+1983.82-1050,1,29328,john_r_benn,,2575.932,2576.451,Okay.
+1983.82-1050,1,15071,byron_r_white,scotus_justice,2578.267,2580.319,They must have had somebody in mind.
+1983.82-1050,1,29328,john_r_benn,,2580.319,2583.455,"--Yes, Your Honor, anyone who had a legitimate reliance interest."
+1983.82-1050,1,15060,john_paul_stevens,scotus_justice,2595.663,2599.215,"Mr. Benn, may I ask, you mentioned Mr. Mathews' reliance interest."
+1983.82-1050,1,29328,john_r_benn,,2605.72,2606.203,Okay.
+1983.82-1050,1,15060,john_paul_stevens,scotus_justice,2673.263,2681.452,"Of course, the argument is you make retirement plans and even employment plans some years in advance and it made a big difference whether you worked for the government or you didn't work for the government."
+1983.82-1050,1,29328,john_r_benn,,2684.471,2685.087,"--Yes, Your Honor."
+1983.82-1050,1,15060,john_paul_stevens,scotus_justice,2711.704,2721.429,"But, if one distinguishes between an act of Congress on the one hand and reliance on a decision by this Court on the other hand, he is just not on the reliance of the act of Congress class."
+1983.82-1050,1,29328,john_r_benn,,2721.429,2723.629,"--Your Honor, he is not in the situation--"
+1983.82-1050,1,15060,john_paul_stevens,scotus_justice,2723.629,2725.381,He is in a different reliance class.
+1983.82-1050,1,29328,john_r_benn,,2725.381,2730.534,"--Yes, Your Honor, but he is in the reliance of the state of the law at the time he made his retirement decision."
+1983.82-1050,1,15141,william_h_rehnquist,scotus_justice,2904.179,2917.856,Do you claim... Do you disagree with the Solicitor General that he lacks... The Solicitor General says Mr. Mathews would not lack standing to make the challenge he made here however the severability clause is construed.
+1983.82-1050,1,29328,john_r_benn,,2918.839,2924.693,"Your Honor, I disagree with that to the extent that it goes to the issue of remedy."
+1983.82-1050,1,15141,william_h_rehnquist,scotus_justice,2957.661,2962.599,Why do you need to get to the legislative history at all in the severability clause?
+1983.82-1050,1,29328,john_r_benn,,2966.234,2967.003,--Okay.
+1983.82-1050,1,15141,william_h_rehnquist,scotus_justice,2968.053,2969.286,"Don't say ""okay""."
+1983.82-1050,1,29328,john_r_benn,,2970.788,2971.621,"--Yes, Your Honor."
+1983.82-1050,1,15141,william_h_rehnquist,scotus_justice,2971.621,2978.559,Then let me read you a sentence from the District Judge's opinion and ask you whether you agree with it.
+1983.82-1050,1,29328,john_r_benn,,2992.384,2995.07,"Your Honor, I think the argument can be made that--"
+1983.82-1050,1,15141,william_h_rehnquist,scotus_justice,2995.07,2997.355,Would you agree with the argument if it were made?
+1983.82-1050,1,29328,john_r_benn,,2997.355,2998.055,--Pardon?
+1983.82-1050,1,15141,william_h_rehnquist,scotus_justice,2998.055,3000.824,Would you agree with the argument if it were made?
+1983.82-1050,1,29328,john_r_benn,,3000.824,3003.592,"Yes, Your Honor, as to the majority of Congress at the time."
+1983.82-1050,1,15141,william_h_rehnquist,scotus_justice,3004.442,3009.83,You don't think the language of the statute then is governing in this case?
+1983.82-1050,1,29328,john_r_benn,,3009.83,3018.436,"Your Honor, I think that when you look at the legislative history... And I don't consider the language itself is the inexorable command upon the Court."
+1983.82-1050,1,15092,sandra_day_oconnor,scotus_justice,3032.378,3036.397,"Well, didn't the majority have to vote for it to pass it?"
+1983.82-1050,1,29328,john_r_benn,,3036.397,3043.484,"--Your Honor, they did, but at the time that they voted to pass it please keep in mind that they had no written report before them."
+1983.82-1050,1,15073,warren_e_burger,scotus_justice,3311.342,3312.892,Very well.
+1983.82-1050,2,36246,mark_i_levy,,3314.461,3315.928,"I have nothing further, Mr. Chief Justice."
+1983.82-1050,2,15073,warren_e_burger,scotus_justice,3315.928,3318.269,"Thank you, gentlemen, the case is submitted."

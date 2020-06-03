@@ -1,0 +1,325 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1978.78-744,0,15073,warren_e_burger,scotus_justice,0.0,56.982,We'll hear arguments next in United States against Timmreck.
+1978.78-744,0,33830,kenneth_s_geller,,61.07,64.48,"Thank you, Mr. Chief Justice and may it please the Court."
+1978.78-744,0,15141,william_h_rehnquist,scotus_justice,485.58,490.289,"Mr. Geller, was there anything said in Hill about prejudice?"
+1978.78-744,0,33830,kenneth_s_geller,,496.798,505.119,"Well, the court could have decided Hill, I think, on the ground that, not having appealed, Hill was foreclosed from getting collateral relief."
+1978.78-744,0,15141,william_h_rehnquist,scotus_justice,522.414,538.511,But it -- is it because the nature of the fundamental defect is such that the defect will inevitably in every case result in a denial of justice or is it a question of prejudice case by case?
+1978.78-744,0,33830,kenneth_s_geller,,538.511,541.257,I think that there must be a case by case determination.
+1978.78-744,0,15141,william_h_rehnquist,scotus_justice,541.257,543.084,Is that the way you read Hill?
+1978.78-744,0,33830,kenneth_s_geller,,543.084,550.431,"Well, Hill says that on the -- for a Rule 32 error, the only remedy is a direct appeal."
+1978.78-744,0,15141,william_h_rehnquist,scotus_justice,550.431,556.394,You just can't have collateral review on it for a Rule 32 violation no matter how badly you are prejudiced by it.
+1978.78-744,0,33830,kenneth_s_geller,,556.394,562.019,"Well, except, I suppose, in the situation of a change in law such as in the Davis situation."
+1978.78-744,0,15141,william_h_rehnquist,scotus_justice,598.986,612.87,"But when you include Stone against Powell along with Hill and Davis, in Stone against Powell there was a clear claim of a constitutional violation that would, except for some other rule be cognizable on 2255, wouldn't it?"
+1978.78-744,0,33830,kenneth_s_geller,,612.87,613.355,That's right.
+1978.78-744,0,15071,byron_r_white,scotus_justice,623.518,633.251,"I take it then if the claim was inadequate assistance of counsel, you'd have a different view."
+1978.78-744,0,33830,kenneth_s_geller,,633.251,643.792,"Yes, that would be a constitutional error that -- assuming there was no procedural default which would prevent its being raised on collateral attack, we concede would be -- Section 2255 relief would be available."
+1978.78-744,0,15071,byron_r_white,scotus_justice,643.792,645.88,Is there a procedural default?
+1978.78-744,0,33830,kenneth_s_geller,,649.163,649.586,No.
+1978.78-744,0,15071,byron_r_white,scotus_justice,649.586,651.466,"-- can it -- inadequate counsel claim, is it?"
+1978.78-744,0,33830,kenneth_s_geller,,651.466,653.053,I would assume not.
+1978.78-744,0,15071,byron_r_white,scotus_justice,654.403,659.622,"So, what procedural default would bar a --inadequate?"
+1978.78-744,0,33830,kenneth_s_geller,,659.622,672.67,"Well, I assume if the new counsel handled an appeal and decided not -- for whatever reason, decided not to raise inadequacy of counsel at trial on the direct appeal that might preclude habeas corpus relief later on."
+1978.78-744,0,15071,byron_r_white,scotus_justice,673.231,678.815,Not until they -- not if they took it back to the state courts and exhaust it?
+1978.78-744,0,33830,kenneth_s_geller,,678.815,689.663,"Well, when you're dealing with 2254 relief, there may be questions of comity but I think in Section 2255 that absence of --"
+1978.78-744,0,15071,byron_r_white,scotus_justice,689.663,693.234,"Well, if you've exhausted it in the state courts, you've exhausted it."
+1978.78-744,0,33830,kenneth_s_geller,,693.234,705.362,"That's right, but if there is cause for not raising the issue on direct appeal then there may be -- that may be allowable to raise the Section on 22 -- raise the claim on Section 2254 or 2255."
+1978.78-744,0,15073,warren_e_burger,scotus_justice,715.75,718.051,What about the failure to inform?
+1978.78-744,0,33830,kenneth_s_geller,,735.189,737.247,"Well, I hesitate to answer that --"
+1978.78-744,0,15073,warren_e_burger,scotus_justice,737.247,739.813,On a whole record of this kind of (Voice Overlap) --
+1978.78-744,0,33830,kenneth_s_geller,,739.813,740.521,I would think not.
+1978.78-744,0,15073,warren_e_burger,scotus_justice,758.266,772.036,"Well, the representation at least as the district judge construed it was that the represent -- that the defense counsel had represented that he had informed his client with all these elements, was that not so?"
+1978.78-744,0,33830,kenneth_s_geller,,772.036,773.337,That's correct.
+1978.78-744,0,15073,warren_e_burger,scotus_justice,773.58,781.311,And the -- is there in effect a fact finding that was so?
+1978.78-744,0,33830,kenneth_s_geller,,781.311,782.884,That's one of the grounds we rely on.
+1978.78-744,0,15071,byron_r_white,scotus_justice,782.884,787.119,But if -- he didn't testified that he informed him specifically in this --
+1978.78-744,0,33830,kenneth_s_geller,,787.119,788.082,"No, that's correct."
+1978.78-744,0,15071,byron_r_white,scotus_justice,788.334,790.754,"He just said, generally, his practice is to --"
+1978.78-744,0,33830,kenneth_s_geller,,790.754,791.827,"Well, there are two things that petitioner of course rely on."
+1978.78-744,0,15071,byron_r_white,scotus_justice,791.827,796.254,But he had no specific recollection of advising this person of this particular issue.
+1978.78-744,0,33830,kenneth_s_geller,,796.254,800.561,That's correct but although the District Court relied on two separate statements by defense counsel.
+1978.78-744,0,15073,warren_e_burger,scotus_justice,860.28,890.952,"Are there not a line of civil cases with respect to wills and to some extent, some of them notarial acknowledgments that years after the event where the notary or the witness to a will cannot have any -- and he says he does not have any personal recollection of the event but that his practice was never to sign a will unless he saw the testator sign it or never to take an acknowledgment unless the person personally appeared before him."
+1978.78-744,0,33830,kenneth_s_geller,,898.307,899.517,"Well, I agree that --"
+1978.78-744,0,15073,warren_e_burger,scotus_justice,899.517,900.351,How do you apply that?
+1978.78-744,0,33830,kenneth_s_geller,,902.495,914.893,I think that it is of probative value that defense counsel stated at the Section 2255 hearing that it was his practice not to allow a client to plead guilty before making certain that that client was aware of the consequences of the plea.
+1978.78-744,0,15060,john_paul_stevens,scotus_justice,923.147,932.13,"Mr. Geller, before you go on, if I understand the Government's position correctly the District Court should not even have had a hearing because the allegations really weren't sufficient to raise it."
+1978.78-744,0,33830,kenneth_s_geller,,932.13,932.853,That's correct.
+1978.78-744,0,15060,john_paul_stevens,scotus_justice,932.853,934.673,Of course they did have the hearing here.
+1978.78-744,0,33830,kenneth_s_geller,,955.374,963.5,"I think you'd have to engage in the same sort of inquiry we suggest here which is, that if the defendant had not been told of his ineligibility for parole."
+1978.78-744,0,15060,john_paul_stevens,scotus_justice,963.5,965.273,"Assume that, violation of Rule 11 (Voice Overlap) --"
+1978.78-744,0,33830,kenneth_s_geller,,965.273,968.059,"No, I don't say that there -- there would not be a per se rule."
+1978.78-744,0,15060,john_paul_stevens,scotus_justice,974.236,977.134,"No, I just say, assume that he was not advised."
+1978.78-744,0,33830,kenneth_s_geller,,977.134,977.53,"Oh, assuming that he had --"
+1978.78-744,0,15060,john_paul_stevens,scotus_justice,977.53,979.736,And therefore a violation of Rule 11.
+1978.78-744,0,33830,kenneth_s_geller,,979.736,992.867,"Yes, the Rule -- we -- you would still have to engage in the case by case analysis that we suggest here on collateral attack to determine whether that defendant if he had been told that he was ineligible for parole would've changed this plea from guilty to not guilty."
+1978.78-744,0,15071,byron_r_white,scotus_justice,996.393,996.476,And if you say --
+1978.78-744,0,15060,john_paul_stevens,scotus_justice,996.476,998.164,"So, we never put it off on that ground though."
+1978.78-744,0,33830,kenneth_s_geller,,1000.673,1000.866,Excuse me?
+1978.78-744,0,15060,john_paul_stevens,scotus_justice,1000.866,1008.281,And would you say that anything counsel tells him the judge needn't tell him even though Rule 11 requires it?
+1978.78-744,0,33830,kenneth_s_geller,,1008.281,1011.626,Not when the question is -- has Rule 11 been violated.
+1978.78-744,0,15060,john_paul_stevens,scotus_justice,1015.439,1018.064,"Yes, yes I agree there'd -- that'd be a violation but how about --"
+1978.78-744,0,33830,kenneth_s_geller,,1018.064,1018.93,That would be a violation of Rule 11.
+1978.78-744,0,15060,john_paul_stevens,scotus_justice,1018.93,1019.949,-- how about collateral attacks?
+1978.78-744,0,33830,kenneth_s_geller,,1019.949,1028.847,"On collateral attack, certainly it's exceedingly important what the defendant knew and not who told him in determining whether or not there has been prejudice in holding him to his guilty plea."
+1978.78-744,0,15071,byron_r_white,scotus_justice,1093.077,1093.327,Is that in the record?
+1978.78-744,0,33830,kenneth_s_geller,,1093.327,1099.02,"-- to plead -- yes, it is, during the Section 2255 hearing."
+1978.78-744,0,15071,byron_r_white,scotus_justice,1099.02,1100.569,The devastating evidence?
+1978.78-744,0,33830,kenneth_s_geller,,1100.569,1100.783,Yes.
+1978.78-744,0,15104,thurgood_marshall,scotus_justice,1117.853,1120.11,How did he know about --
+1978.78-744,0,33830,kenneth_s_geller,,1120.11,1120.58,Excuse me?
+1978.78-744,0,15104,thurgood_marshall,scotus_justice,1120.58,1123.418,How did the judge know about what's going on in somebody else's trial?
+1978.78-744,0,33830,kenneth_s_geller,,1123.418,1125.343,The judge was trying that case.
+1978.78-744,0,15104,thurgood_marshall,scotus_justice,1125.343,1128.881,Oh.
+1978.78-744,0,33830,kenneth_s_geller,,1128.881,1148.364,"So, like the District Court in light of these factors, we think it's exceedingly improbable that that respondent would've changed his mind about the plea bargain if he had been informed that he could also be sentenced to a term of special parole which would not have any appreciable effects upon him unless he were years later to violate the conditions of the parole."
+1978.78-744,0,15043,potter_stewart,scotus_justice,1242.7,1244.516,It was a guilty plea?
+1978.78-744,0,33830,kenneth_s_geller,,1244.516,1244.857,Yes.
+1978.78-744,0,15043,potter_stewart,scotus_justice,1244.857,1247.574,On a conviction basically.
+1978.78-744,0,33830,kenneth_s_geller,,1247.574,1247.902,Now --
+1978.78-744,0,15043,potter_stewart,scotus_justice,1247.902,1261.238,It used to be considered a little odd for somebody who had pleaded guilty and been found -- and had been convicted on the basis of his plea of guilty immediately to take an appeal.
+1978.78-744,0,33830,kenneth_s_geller,,1263.409,1265.575,"Well, McCarthy was a case just like that."
+1978.78-744,0,15043,potter_stewart,scotus_justice,1273.617,1275.106,"Well, is there any bar anyway?"
+1978.78-744,0,33830,kenneth_s_geller,,1275.106,1275.74,Excuse me?
+1978.78-744,0,15043,potter_stewart,scotus_justice,1275.74,1278.455,"There's no bar anyway, I guess, anymore, is there?"
+1978.78-744,0,33830,kenneth_s_geller,,1278.455,1281.945,"Well, a guilty plea waives any antecedent constitutional violations."
+1978.78-744,0,15043,potter_stewart,scotus_justice,1281.945,1283.6,"But nonetheless, you can take an appeal."
+1978.78-744,0,33830,kenneth_s_geller,,1283.6,1287.022,"You can take an appeal although you won't be very successful, I would assume."
+1978.78-744,0,15043,potter_stewart,scotus_justice,1287.022,1288.345,And -- on many grounds.
+1978.78-744,0,15060,john_paul_stevens,scotus_justice,1288.345,1290.585,"There's a time problem too, he'd do it promptly."
+1978.78-744,0,33830,kenneth_s_geller,,1296.05,1297.443,"No, it doesn't."
+1978.78-744,0,15060,john_paul_stevens,scotus_justice,1297.443,1300.247,"So, we don't know whether he knew it before the time of appeal had run."
+1978.78-744,0,33830,kenneth_s_geller,,1300.247,1304.343,"Well, the fact is he was sentenced to a special parole term."
+1978.78-744,0,15060,john_paul_stevens,scotus_justice,1304.552,1309.458,"I understand, but if it's in writing he may -- you know, he said documents are rather complicated to read in some ways."
+1978.78-744,0,33830,kenneth_s_geller,,1309.458,1312.41,"Well, he had the advice of counting -- assistance of counsel this time."
+1978.78-744,0,15060,john_paul_stevens,scotus_justice,1322.277,1325.345,"Well, but he didn't start to serve it right away."
+1978.78-744,0,33830,kenneth_s_geller,,1325.345,1330.99,"No, but he should've been aware of it at that point and if he thought he got sentenced to something greater than he had bargained for, I want to assume he would've raised it."
+1978.78-744,0,15060,john_paul_stevens,scotus_justice,1330.99,1336.625,But you just said the record doesn't show whether he became aware of it until after the appeal time it ran.
+1978.78-744,0,33830,kenneth_s_geller,,1336.625,1338.599,"That's true, but he -- if he was aware of it at that point, presumably he would--"
+1978.78-744,0,15060,john_paul_stevens,scotus_justice,1338.599,1340.851,"But if he was, we don't know whether he was or not."
+1978.78-744,0,33830,kenneth_s_geller,,1340.851,1341.717,That's correct.
+1978.78-744,0,15141,william_h_rehnquist,scotus_justice,1341.717,1356.151,"I suppose if one were sentenced to 10 consecutive terms in open court, he wouldn't start actually serving the 10th consecutive term, say of 5 years for 45 years."
+1978.78-744,0,33830,kenneth_s_geller,,1356.151,1366.296,"That's right but, presumably he should be aware at that moment if he's been given a greater sentence than he thought he was exposing himself to by pleading guilty."
+1978.78-744,0,15104,thurgood_marshall,scotus_justice,1459.572,1474.074,"Mr. Geller, couldn't we maintain your position by merely saying the two findings that the District Court were enough and not get into the general rule of how far 2255 goes?"
+1978.78-744,0,33830,kenneth_s_geller,,1474.074,1486.491,I think you can but I think what you have to confront is what the Sixth Circuit held in this case which is that the automatic reversal rule that this Court promulgated in McCarthy has no application on collateral attack.
+1978.78-744,0,15104,thurgood_marshall,scotus_justice,1498.78,1510.08,That's alright but as I understand this party himself in the District Court said in so many words that he hadn't been prejudiced.
+1978.78-744,0,33830,kenneth_s_geller,,1510.08,1511.528,He's never alleged that he has been.
+1978.78-744,0,15104,thurgood_marshall,scotus_justice,1511.976,1512.864,He didn't.
+1978.78-744,0,33830,kenneth_s_geller,,1514.347,1521.691,"Well, except as I say, if he doesn't have to prove prejudice to be entitled to relief because of a Rule 11 violation, which is what the Sixth Circuit said."
+1978.78-744,0,15073,warren_e_burger,scotus_justice,1613.979,1618.586,"Very well, Mr. Geller."
+1978.78-744,1,33916,kenneth_m_mogill,,1620.244,1622.786,Mr. Chief Justice and if it please the Court.
+1978.78-744,1,15073,warren_e_burger,scotus_justice,1652.762,1657.7,"Well, are we free to rely on the colloquy that's in the record, the (Voice Overlap) --?"
+1978.78-744,1,33916,kenneth_m_mogill,,1657.7,1665.598,"Certainly, and I would like briefly however, to point out to the court where the facts offered by the Government are insufficient."
+1978.78-744,1,15073,warren_e_burger,scotus_justice,1665.786,1669.664,But you don't contend that this transcript is inaccurate in any respect?
+1978.78-744,1,33916,kenneth_m_mogill,,1669.664,1670.682,Certainly not.
+1978.78-744,1,15073,warren_e_burger,scotus_justice,1694.949,1713.78,Do you suggest that the district judge's finding that he was informed -- was not permissible under your representation that that was your practice to inform the client and -- but that you didn't have any independent recollection at the time?
+1978.78-744,1,33916,kenneth_m_mogill,,1713.78,1716.132,I don't think the district judge made a finding that Mr. Timmreck was informed.
+1978.78-744,1,15073,warren_e_burger,scotus_justice,1716.132,1718.53,"Well, he in effect made a -- such a finding."
+1978.78-744,1,33916,kenneth_m_mogill,,1718.53,1721.732,"I think he concluded that -- well, I think the report --"
+1978.78-744,1,15073,warren_e_burger,scotus_justice,1721.732,1726.725,He concluded that the -- that your -- that you had adequately informed your client.
+1978.78-744,1,33916,kenneth_m_mogill,,1726.725,1728.582,The important points here are two.
+1978.78-744,1,15073,warren_e_burger,scotus_justice,1761.923,1778.459,"When as you say he responded that he did not understand fully and the judge told him he was subject to a 15 year imprisonment, what was your obligation to the court at that time --"
+1978.78-744,1,33916,kenneth_m_mogill,,1778.459,1778.637,I think my obligation --
+1978.78-744,1,15073,warren_e_burger,scotus_justice,1778.637,1779.622,-- to your client?
+1978.78-744,1,33916,kenneth_m_mogill,,1779.622,1781.764,"I'm sorry, I didn't mean --"
+1978.78-744,1,15073,warren_e_burger,scotus_justice,1781.764,1784.273,What was your obligation to the court and to your client?
+1978.78-744,1,33916,kenneth_m_mogill,,1784.273,1793.685,My obligation was the same as that of the Assistant United States Attorney and both of us candidly apparently missed the fact that the district judge failed to advice him.
+1978.78-744,1,15104,thurgood_marshall,scotus_justice,1830.414,1833.573,Didn't you have several days talking to your client?
+1978.78-744,1,33916,kenneth_m_mogill,,1833.573,1836.302,There were no problems in terms of communication with my client.
+1978.78-744,1,15104,thurgood_marshall,scotus_justice,1836.302,1840.668,What I mean -- you mean he forgot it for a whole lot of days?
+1978.78-744,1,33916,kenneth_m_mogill,,1843.522,1849.991,There is nothing in the record of this case indicating the time period involved in communication between counsel --
+1978.78-744,1,15104,thurgood_marshall,scotus_justice,1849.991,1852.853,It was before he walked into the corridor.
+1978.78-744,1,33916,kenneth_m_mogill,,1852.853,1853.891,Certainly.
+1978.78-744,1,15104,thurgood_marshall,scotus_justice,1853.891,1859.245,"And before you walked in the courtroom, you entirely advised yourself as to the law involved, didn't you?"
+1978.78-744,1,33916,kenneth_m_mogill,,1859.245,1860.443,I have no present recollection.
+1978.78-744,1,15104,thurgood_marshall,scotus_justice,1860.443,1861.164,Didn't you?
+1978.78-744,1,33916,kenneth_m_mogill,,1861.164,1862.458,But the record indicates that --
+1978.78-744,1,15104,thurgood_marshall,scotus_justice,1862.458,1865.011,"Oh, well, don't you usually --"
+1978.78-744,1,33916,kenneth_m_mogill,,1865.011,1865.219,As the record reflects --
+1978.78-744,1,15104,thurgood_marshall,scotus_justice,1865.219,1866.4,-- find out what the law is?
+1978.78-744,1,33916,kenneth_m_mogill,,1866.4,1867.511,-- that I indicated to the district judge that I do --
+1978.78-744,1,15104,thurgood_marshall,scotus_justice,1867.511,1869.827,And that this time you didn't?
+1978.78-744,1,33916,kenneth_m_mogill,,1869.827,1871.611,I have no recollection whether I did.
+1978.78-744,1,15104,thurgood_marshall,scotus_justice,1872.595,1877.634,"And if you did have a recollection, your client would be out of court."
+1978.78-744,1,33916,kenneth_m_mogill,,1877.634,1880.816,Not if my client didn't know regardless of whether he was advised by counsel.
+1978.78-744,1,15104,thurgood_marshall,scotus_justice,1880.816,1886.889,"I said if you happen to recollect that you did tell him, your client would be out of court?"
+1978.78-744,1,33916,kenneth_m_mogill,,1886.889,1888.109,Not necessarily.
+1978.78-744,1,15104,thurgood_marshall,scotus_justice,1888.109,1889.524,Why?
+1978.78-744,1,33916,kenneth_m_mogill,,1889.524,1902.926,"Justice Marshall, I think the important point here is that regardless of whether he is advised by counsel the important cons -- the important inquiry is whether he was advised on the record at the time of the plea and whether he knew on the record at the time of the plea."
+1978.78-744,1,15060,john_paul_stevens,scotus_justice,1919.623,1930.642,"Mr. Mogill, your statement or your conclusion that he did not know about the mandatory special parole term is based on his statement that when he was told of it -- it could be as much as 15 years in jail, he said I know it now."
+1978.78-744,1,33916,kenneth_m_mogill,,1930.642,1935.676,"That's -- and immediately prior to that when the judge asked him, ?Are you aware of the consequences of your plea??"
+1978.78-744,1,15060,john_paul_stevens,scotus_justice,1939.223,1946.285,"Well, and you think that necessarily forecloses the possibility that he did know about the mandatory special parole term?"
+1978.78-744,1,33916,kenneth_m_mogill,,1946.285,1951.397,I think it indicates to anyone reading that record that he was not aware of the consequences of his plea.
+1978.78-744,1,15060,john_paul_stevens,scotus_justice,1951.397,1952.421,Of all the consequences?
+1978.78-744,1,33916,kenneth_m_mogill,,1952.421,1955.1,And the mandatory special parole term is a direct consequence.
+1978.78-744,1,15060,john_paul_stevens,scotus_justice,1957.715,1961.334,"Yes, but no, it doesn't mean he didn't know about any of the consequences of the plea."
+1978.78-744,1,33916,kenneth_m_mogill,,1961.334,1964.437,It -- I think it speaks for itself and whatever interpretations of the reader.
+1978.78-744,1,15060,john_paul_stevens,scotus_justice,1964.437,1965.359,"Alright, but anyway, that's what your --"
+1978.78-744,1,15141,william_h_rehnquist,scotus_justice,1965.359,1974.232,"Well, it's a strange colloquy to say for the -- this is -- for the District Court to say, Are you aware of the consequences of your guilty plea?"
+1978.78-744,1,33916,kenneth_m_mogill,,1983.803,1985.579,Again the record speaks for itself in that regard.
+1978.78-744,1,15141,william_h_rehnquist,scotus_justice,1985.579,1990.326,"Well, but is that all we have to go on?"
+1978.78-744,1,33916,kenneth_m_mogill,,1990.326,1999.773,I believe that it is -- hopefully what the court will be doing in part in this case is addressing itself to the standard of review to the part --
+1978.78-744,1,15141,william_h_rehnquist,scotus_justice,1999.773,2006.707,"Well, what I'm concerned of is not what this Court was doing but what the District Court was doing, what you were doing, and what the Assistant U.S. Attorney was doing."
+1978.78-744,1,33916,kenneth_m_mogill,,2006.707,2010.856,I think all the parties were interested in seeing that the Rule 11 proceeding was adequate.
+1978.78-744,1,15141,william_h_rehnquist,scotus_justice,2022.956,2023.252,"Well, i can --"
+1978.78-744,1,33916,kenneth_m_mogill,,2023.252,2023.656,Defense counsel neglected to catch the error.
+1978.78-744,1,15141,william_h_rehnquist,scotus_justice,2023.656,2029.81,"Well, I can see that, but I gather from what you say that somewhere in the record there is a Q and an A."
+1978.78-744,1,33916,kenneth_m_mogill,,2037.345,2040.447,The -- that's correct.
+1978.78-744,1,15141,william_h_rehnquist,scotus_justice,2040.447,2042.916,And nothing further was said by either of the judge or the --
+1978.78-744,1,33916,kenneth_m_mogill,,2042.916,2043.381,No.
+1978.78-744,1,15141,william_h_rehnquist,scotus_justice,2057.29,2058.312,So this judge didn't look at --
+1978.78-744,1,33916,kenneth_m_mogill,,2058.312,2059.329,-- and possibly up to life.
+1978.78-744,1,15141,william_h_rehnquist,scotus_justice,2059.329,2063.217,"The judge just didn't leave it hanging after your -- the client responded ""no."""
+1978.78-744,1,33916,kenneth_m_mogill,,2063.217,2070.853,"No, but he did not fully inform Mr. Timmreck and in fact he misled him by failing to advice him of the mandatory special parole term."
+1978.78-744,1,15043,potter_stewart,scotus_justice,2070.853,2080.188,"Well, Mr. Mogill, if the trial judge had asked a convicted defendant, ""Are you aware of the consequences of -- Or a guilty pleading defendant?"""
+1978.78-744,1,33916,kenneth_m_mogill,,2090.19,2095.333,That's correct and again it goes to the underlying purpose of the rule to make a record at the time of the plea.
+1978.78-744,1,15043,potter_stewart,scotus_justice,2095.333,2097.694,And the rule imposes a duty upon the trial judge to --
+1978.78-744,1,33916,kenneth_m_mogill,,2097.694,2098.205,That's correct.
+1978.78-744,1,15043,potter_stewart,scotus_justice,2098.205,2101.045,"-- advice him whatever the response is, doesn't it?"
+1978.78-744,1,33916,kenneth_m_mogill,,2101.045,2103.327,And regardless of whether counsel has advised him or not.
+1978.78-744,1,15043,potter_stewart,scotus_justice,2103.327,2103.785,Alright.
+1978.78-744,1,33916,kenneth_m_mogill,,2107.882,2112.777,"That's correct or if he was -- even if he was accurately informed, the district judge has the same obligation."
+1978.78-744,1,15073,warren_e_burger,scotus_justice,2112.842,2123.015,Have you ever raised at any stage or has it been suggested at any stage that there was ineffective assistance of counsel on your part?
+1978.78-744,1,33916,kenneth_m_mogill,,2123.015,2124.695,It has not been.
+1978.78-744,1,15073,warren_e_burger,scotus_justice,2124.695,2129.24,Did you recommend to your client that that was one issue that could be raised?
+1978.78-744,1,33916,kenneth_m_mogill,,2129.24,2129.87,I don't --
+1978.78-744,1,15073,warren_e_burger,scotus_justice,2129.87,2131.938,Constitutional issue?
+1978.78-744,1,33916,kenneth_m_mogill,,2131.938,2136.01,I do not believe that that issue came up.
+1978.78-744,1,15060,john_paul_stevens,scotus_justice,2163.716,2167.536,"Yes but Mr. Mogill, they conceded the applicability of that rule in the Sixth Circuit."
+1978.78-744,1,33916,kenneth_m_mogill,,2169.325,2170.208,"No, this case --"
+1978.78-744,1,15060,john_paul_stevens,scotus_justice,2170.208,2171.976,"For example, it wasn't the rule in the Seventh Circuit."
+1978.78-744,1,33916,kenneth_m_mogill,,2171.976,2172.71,The -- of course.
+1978.78-744,1,15104,thurgood_marshall,scotus_justice,2172.71,2176.663,The Rule 11 doesn't put any requirement on the defense counsel at all.
+1978.78-744,1,33916,kenneth_m_mogill,,2176.663,2178.654,That's correct.
+1978.78-744,1,15073,warren_e_burger,scotus_justice,2178.895,2183.851,"Well, where does that obligation arise from?"
+1978.78-744,1,33916,kenneth_m_mogill,,2183.851,2184.73,"I'm sorry, which obligation?"
+1978.78-744,1,15073,warren_e_burger,scotus_justice,2184.73,2188.921,The obligation of counsel to give the client full advice.
+1978.78-744,1,33916,kenneth_m_mogill,,2188.921,2192.805,I think as a part of counsel's general obligation to render effective assistance.
+1978.78-744,1,15073,warren_e_burger,scotus_justice,2192.805,2197.349,"Is it a constitutional issue, effective assistance of counsel?"
+1978.78-744,1,33916,kenneth_m_mogill,,2197.349,2198.978,Certainly.
+1978.78-744,1,15073,warren_e_burger,scotus_justice,2198.978,2209.469,"So, it arises out of the relationship of client and counsel and linked with the constitutional Sixth Amendment right, does it not?"
+1978.78-744,1,33916,kenneth_m_mogill,,2209.469,2221.796,"Yes, the purpose of Rule 11, one of the purposes of Rule 11 though is to avoid this kind of inquiries, is to ensure that the record at the time of the plea reflects the defendant was fully advised and fully -- and made a fully knowing waiver."
+1978.78-744,1,15060,john_paul_stevens,scotus_justice,2227.009,2227.218,But--
+1978.78-744,1,33916,kenneth_m_mogill,,2227.218,2227.245,If --
+1978.78-744,1,15060,john_paul_stevens,scotus_justice,2227.245,2228.656,"-- one other feature, Mr. Mogill, just so we have it."
+1978.78-744,1,33916,kenneth_m_mogill,,2228.656,2230.02,Yes.
+1978.78-744,1,15060,john_paul_stevens,scotus_justice,2230.02,2236.96,"It -- in page 9 of the abstract, you were asked by the court at the plea hearing, ""Are you of the opinion there's a factual basis for the plea?"""
+1978.78-744,1,33916,kenneth_m_mogill,,2245.093,2250.013,"Clearly, I had missed the fact that the judge had missed advising Mr .Timmreck of the mandatory special parole term."
+1978.78-744,1,15060,john_paul_stevens,scotus_justice,2250.013,2255.529,"Well, not necessarily because you could have advised him and you're statement would still have been 100% accurate."
+1978.78-744,1,33916,kenneth_m_mogill,,2255.529,2259.745,"Right, but even if it was, it was clear that Mr. Timmreck had forgotten that or didn't know or hadn't paid any attention at the time he offered his plea."
+1978.78-744,1,15060,john_paul_stevens,scotus_justice,2259.745,2263.945,"Well, that's a matter of what we've talked about before."
+1978.78-744,1,33916,kenneth_m_mogill,,2263.945,2265.443,Yes.
+1978.78-744,1,15073,warren_e_burger,scotus_justice,2306.961,2317.498,"And you represented at page 9 when the court said to you, ""Mr. Mogill, are you of the opinion there's a factual basis for this plea?"""
+1978.78-744,1,33916,kenneth_m_mogill,,2341.37,2343.04,"Oh, the record speaks for itself in that regard."
+1978.78-744,1,15071,byron_r_white,scotus_justice,2343.04,2347.144,"On the next page -- on that couple of pages, you took that back."
+1978.78-744,1,33916,kenneth_m_mogill,,2355.205,2362.353,"That's -- the statement to which you're referring to Mr. Justice White was from the hearing on the 2255 and yes, I would agree --"
+1978.78-744,1,15073,warren_e_burger,scotus_justice,2362.353,2363.462,That's two years later?
+1978.78-744,1,33916,kenneth_m_mogill,,2363.462,2364.83,That's correct.
+1978.78-744,1,15073,warren_e_burger,scotus_justice,2364.83,2378.828,"At the time of the Rule 11 hearing, which is the fulcrum there, you -- it's perfectly clear that you represented to the courts that your client had been fully informed."
+1978.78-744,1,33916,kenneth_m_mogill,,2384.834,2393.689,"Well, the only point I wish to make, Mr. Chief Justice, is that I have no specific recollection at this point in time what my conversations were with my client."
+1978.78-744,1,15043,potter_stewart,scotus_justice,2393.689,2398.429,"Well, in any event, the Government, as I understand it, concedes that there was a Rule 11 violation in this case."
+1978.78-744,1,33916,kenneth_m_mogill,,2398.429,2399.216,"Yes, it does."
+1978.78-744,1,15073,warren_e_burger,scotus_justice,2401.382,2428.277,But this colloquy that I'm referring to conceivably might have at least raised the question in your mind whether you could appropriately continue to represent this man without letting some other counsel come in and raise the question of ineffective assistance of counsel which might or might not be a stronger case being a constitutional violation?
+1978.78-744,1,33916,kenneth_m_mogill,,2428.277,2435.236,That was certainly Mr. Timmreck's choice and he chose to retain me on the 2255 petition.
+1978.78-744,1,15141,william_h_rehnquist,scotus_justice,2477.205,2485.767,"Well, as of the time your client was sentenced, was there an obligation on the District Court in taking a guilty plea to advice the defendant that he had the right to appeal?"
+1978.78-744,1,33916,kenneth_m_mogill,,2485.767,2495.031,"No, rule -- Federal Rule of Criminal Procedure 32 (a) (2), to this day does not require a district judge to advice a guilty pleading defendant of a right to appeal."
+1978.78-744,1,15141,william_h_rehnquist,scotus_justice,2495.031,2496.17,I would hope not.
+1978.78-744,1,33916,kenneth_m_mogill,,2496.17,2512.573,"At the same time however, for the Government to argue that a direct appeal is an adequate remedy is somewhat undercut by the fact that there was no record -- that there was no likelihood that a guilty plea in person is in fact going to know of that remedy in time to make use of it."
+1978.78-744,1,15071,byron_r_white,scotus_justice,2518.518,2522.424,"Well, unless the defendant is entitled to it, unless his attorney advises him."
+1978.78-744,1,33916,kenneth_m_mogill,,2522.424,2524.835,That's correct.
+1978.78-744,1,15071,byron_r_white,scotus_justice,2524.835,2533.992,"Isn't it reasonable to infer that if there had been a dramatic difference between the actual sentence and the anticipated sentence, that that proposition would've been considered?"
+1978.78-744,1,33916,kenneth_m_mogill,,2533.992,2536.862,Not necessarily.
+1978.78-744,1,15071,byron_r_white,scotus_justice,2598.792,2611.481,Have there been cases holding that the failure to advice about this particular special parole provision is a violation of Rule 11?
+1978.78-744,1,33916,kenneth_m_mogill,,2611.481,2613.341,I think it's conceded by the Government.
+1978.78-744,1,15071,byron_r_white,scotus_justice,2613.341,2614.906,That isn't what I asked you.
+1978.78-744,1,33916,kenneth_m_mogill,,2614.906,2615.873,"The Sixth Circuit, the Ninth Circuit --"
+1978.78-744,1,15071,byron_r_white,scotus_justice,2615.873,2618.885,The Government doesn't -- can't concede what the rule means.
+1978.78-744,1,33916,kenneth_m_mogill,,2618.885,2620.229,"I'm sorry, Justice White."
+1978.78-744,1,15060,john_paul_stevens,scotus_justice,2631.732,2633.215,The Seventh Circuit agrees with you on this point.
+1978.78-744,1,33916,kenneth_m_mogill,,2633.215,2647.26,"That's right, the point I was -- the finish to the answer was that the circuits which do not find collateral relief available also, I believe, unanimously agreed that this is a direct consequence of the plea to -- and that failure to advice would be a violation."
+1978.78-744,1,15071,byron_r_white,scotus_justice,2648.095,2648.955,Of Rule 11.
+1978.78-744,1,33916,kenneth_m_mogill,,2648.955,2649.802,Of Rule 11.
+1978.78-744,1,15119,lewis_f_powell_jr,scotus_justice,2653.199,2658.846,"Counsel, when the judge announced the sentence, exactly what did he say?"
+1978.78-744,1,33916,kenneth_m_mogill,,2658.846,2668.278,"He pronounced sentence of 10 years incarceration, 5 years mandatory special parole, and a $5,000 committed fine."
+1978.78-744,1,15119,lewis_f_powell_jr,scotus_justice,2668.278,2673.996,"So at that point, your client knew about the mandatory parole."
+1978.78-744,1,33916,kenneth_m_mogill,,2673.996,2677.118,"At that time those words had been uttered, yes."
+1978.78-744,1,15119,lewis_f_powell_jr,scotus_justice,2677.118,2678.346,Yes.
+1978.78-744,1,15043,potter_stewart,scotus_justice,2678.346,2680.22,Or whether or not he knew it was mandatory.
+1978.78-744,1,33916,kenneth_m_mogill,,2680.22,2682.228,Whether or not he understood the significance of it and --
+1978.78-744,1,15119,lewis_f_powell_jr,scotus_justice,2682.228,2685.24,The judge said it was mandatory.
+1978.78-744,1,33916,kenneth_m_mogill,,2685.24,2686.06,That's correct.
+1978.78-744,1,15119,lewis_f_powell_jr,scotus_justice,2686.06,2686.253,Yes.
+1978.78-744,1,33916,kenneth_m_mogill,,2686.253,2711.373,I think the keyword to somewhat who is being sentenced his parole and the fact that this is a different kind of parole that applies only in drug cases and only since 1970 and does not apply in other circumstances in the federal system might easily escape the person who's being sentenced in terms of the significance and in terms of the differences between the mandatory special parole and traditional parole.
+1978.78-744,1,15104,thurgood_marshall,scotus_justice,3010.181,3021.668,"If I understand you correctly, you just filed a piece of paper and say, ""Judge Jones didn't advice me of the special parole,"" and automatically out."
+1978.78-744,1,33916,kenneth_m_mogill,,3021.668,3022.506,That's more --
+1978.78-744,1,15104,thurgood_marshall,scotus_justice,3022.506,3023.978,"Automatically, you get out."
+1978.78-744,1,33916,kenneth_m_mogill,,3023.978,3025.75,"More or le -- well, more or less."
+1978.78-744,1,15104,thurgood_marshall,scotus_justice,3025.75,3027.865,Don't you need a little more than that?
+1978.78-744,1,33916,kenneth_m_mogill,,3027.865,3032.396,Prejudice is inherent a violation of Rule 11 for the reasons I've indicated and --
+1978.78-744,1,15104,thurgood_marshall,scotus_justice,3032.396,3035.608,"Well, you had a hearing here, didn't you?"
+1978.78-744,1,33916,kenneth_m_mogill,,3035.608,3036.477,In District Court?
+1978.78-744,1,15104,thurgood_marshall,scotus_justice,3036.477,3037.173,Yes.
+1978.78-744,1,33916,kenneth_m_mogill,,3037.173,3038.245,Yes.
+1978.78-744,1,15104,thurgood_marshall,scotus_justice,3038.245,3041.344,"Well, what are you saying that they're asking for more than that?"
+1978.78-744,1,33916,kenneth_m_mogill,,3041.344,3042.139,"No, what I'm suggesting is --"
+1978.78-744,1,15104,thurgood_marshall,scotus_justice,3042.139,3043.692,He didn't even ask for that one.
+1978.78-744,1,33916,kenneth_m_mogill,,3043.692,3049.197,"There shouldn't have been -- had an objective standard been applied by the district judge, there would've been no need for a hearing."
+1978.78-744,1,15104,thurgood_marshall,scotus_justice,3054.361,3058.908,Your irony of a 2255 is you file of piece of paper and that's it.
+1978.78-744,1,33916,kenneth_m_mogill,,3058.908,3060.115,Depending on the circumstances.
+1978.78-744,1,15104,thurgood_marshall,scotus_justice,3070.529,3075.575,"Well, don't you think the Government is not entitled to a hearing?"
+1978.78-744,1,33916,kenneth_m_mogill,,3075.575,3097.785,"If a rule -- if an objective standard were adopted, the Government would have an incentive to ensure that there would be no need for further litigation because the Government would have an additional incentive, as the Sixth Circuit noted in its opinion here to ensure that mistakes such as the judge and both counsels failed to catch here did not occur."
+1978.78-744,1,15045,harry_a_blackmun,scotus_justice,3097.785,3098.555,Mr. Mogill.
+1978.78-744,1,33916,kenneth_m_mogill,,3098.555,3099.265,Yes?
+1978.78-744,1,15045,harry_a_blackmun,scotus_justice,3099.265,3102.419,"You don't cite Stone against Powell at all, do you?"
+1978.78-744,1,33916,kenneth_m_mogill,,3102.419,3103.819,I do not.
+1978.78-744,1,15045,harry_a_blackmun,scotus_justice,3103.819,3107.122,Do you just dismiss the Government's reliance on that case?
+1978.78-744,1,33916,kenneth_m_mogill,,3107.122,3120.396,"I think that I -- I read Stone v. Powell carefully and I don't think that the Government other than mentioning it in passing, is really relying on it in this case."
+1978.78-744,1,15045,harry_a_blackmun,scotus_justice,3123.579,3126.887,"Well, they rely -- they mentioned more than once in passing."
+1978.78-744,1,33916,kenneth_m_mogill,,3129.099,3159.091,"I think the facts and the issue involved in Stone v. Powell are sufficiently different dealing as they do with questions of state federal relations, dealing with the question of the exclusionary rule, dealing with the question and ultimately turning on the opportunity for full hearing in the state courts that in my preparation of my presentation, it did not strike me as a case that would involve itself in this Court's decision here."
+1978.78-744,1,15071,byron_r_white,scotus_justice,3186.397,3206.254,"Well, if the Government wins this case, wouldn't it also win the case where the defendant wasn't advised at all of the sentence and pleaded guilty, no appeal, collateral attack saying he wasn't advised of the sentence at all in violation of Rule 11?"
+1978.78-744,1,33916,kenneth_m_mogill,,3206.254,3213.926,"Obviously, that would depend in part on the grounds that the court -- you know, states in support of its decision."
+1978.78-744,1,15060,john_paul_stevens,scotus_justice,3251.829,3261.126,"Mr. Mogill, Mr. Geller gave precisely the ac -- the opposite answer to that question when I asked it about the mandatory failure to advice about ineligibility for parole."
+1978.78-744,1,33916,kenneth_m_mogill,,3267.877,3270.097,There are obviously cases that --
+1978.78-744,1,15060,john_paul_stevens,scotus_justice,3270.097,3275.976,I think Mr. Justice White's example is even farther removed than that one.
+1978.78-744,1,33916,kenneth_m_mogill,,3275.976,3276.411,I think --
+1978.78-744,1,15060,john_paul_stevens,scotus_justice,3276.411,3279.816,"So, I may be right that the court would rule that way, probably not the argument."
+1978.78-744,1,33916,kenneth_m_mogill,,3279.816,3291.034,"The point is I think the Government's -- regardless of what the Government is saying here today, if this Court adopts the Government's proposed test, it is entirely possible that a person who is not advised of a mandatory --"
+1978.78-744,1,15060,john_paul_stevens,scotus_justice,3291.034,3299.574,"Just as I understand, is either -- if the plea is either involuntary or if it's fundamentally unfair, whatever the violation was, it was fundamentally unfair, then collateral attack is appropriate."
+1978.78-744,1,15073,warren_e_burger,scotus_justice,3306.478,3306.773,But --
+1978.78-744,1,33916,kenneth_m_mogill,,3306.773,3306.975,I agree with that.
+1978.78-744,1,15060,john_paul_stevens,scotus_justice,3306.975,3308.269,"I think, well, you do."
+1978.78-744,1,33916,kenneth_m_mogill,,3308.269,3324.644,I also would urge on this Court that failure to advice a guilty pleading person that a direct consequence of his or her plea is a mandatory special parole year -- special parole term of three years to life also is a fundamental defect.
+1978.78-744,1,15073,warren_e_burger,scotus_justice,3324.644,3325.42,Mr. Mogill.
+1978.78-744,1,33916,kenneth_m_mogill,,3325.42,3326.746,Yes?
+1978.78-744,1,15073,warren_e_burger,scotus_justice,3326.746,3344.804,"On the other hand, if the court said that based upon your representations at the bottom of page 9 to the court notwithstanding any other views that the Solicitor General might have about it, based on that there was a finding."
+1978.78-744,1,33916,kenneth_m_mogill,,3359.38,3371.749,"If I understand the court's question, I believe that Judge Feikens' language is somewhat inappropriate for the reason that anybody --"
+1978.78-744,1,15073,warren_e_burger,scotus_justice,3371.749,3372.365,"Well, he just said that he --"
+1978.78-744,1,33916,kenneth_m_mogill,,3372.365,3374.931,"-- whether it's a judge or anybody else, is only speculating what the defendant has done."
+1978.78-744,1,15073,warren_e_burger,scotus_justice,3374.931,3378.882,"He said on the basis of what you told him, ""I find on this record."""
+1978.78-744,1,33916,kenneth_m_mogill,,3378.882,3381.973,I understand that that was his language.
+1978.78-744,1,15073,warren_e_burger,scotus_justice,3407.23,3410.185,Can the clearly erroneous rule apply to this situation?
+1978.78-744,1,33916,kenneth_m_mogill,,3410.185,3420.703,I don't believe that the nature of that statement by the judge is a finding of fact so that I don't believe that the clearly erroneous rule would come into play.
+1978.78-744,1,15073,warren_e_burger,scotus_justice,3421.418,3423.111,"Very well, Mr. Mogill."
+1978.78-744,2,33830,kenneth_s_geller,,3424.704,3426.752,"Just a few things, Mr. Chief Justice."
+1978.78-744,2,15060,john_paul_stevens,scotus_justice,3444.589,3454.538,"Right, but you concede, I understand -- at least I understood you to say that if he on such a collateral attack prove that he would not have made or enter the plea had he understood it, then you would agree that was fundamentally unfair --"
+1978.78-744,2,33830,kenneth_s_geller,,3454.538,3454.576,Yes.
+1978.78-744,2,15060,john_paul_stevens,scotus_justice,3454.576,3455.154,-- and the collateral attack would be --
+1978.78-744,2,33830,kenneth_s_geller,,3455.154,3456.965,"That's right, but we're -- I didn't mean to --"
+1978.78-744,2,15060,john_paul_stevens,scotus_justice,3456.965,3457.737,"You didn't mean automatic, I understand."
+1978.78-744,2,33830,kenneth_s_geller,,3457.737,3459.54,I didn't mean to suggest that it would be automatic.
+1978.78-744,2,15071,byron_r_white,scotus_justice,3489.441,3500.903,"Oh, Mr. Geller, is that -- when you're talking about prejudice and whether he would've pleaded guilty anyway, are you talking about the time he was in court before the judge?"
+1978.78-744,2,33830,kenneth_s_geller,,3500.903,3501.899,Yes.
+1978.78-744,2,15071,byron_r_white,scotus_justice,3501.899,3513.464,"And so, its still automatic answer to you -- for you against the defendant if a week ago he was told about the parole term?"
+1978.78-744,2,33830,kenneth_s_geller,,3513.464,3514.121,"No, that's correct."
+1978.78-744,2,15060,john_paul_stevens,scotus_justice,3567.999,3569.469,Let me be sure I understand you.
+1978.78-744,2,33830,kenneth_s_geller,,3574.421,3575.234,"That's right, but he would only be in prison --"
+1978.78-744,2,15060,john_paul_stevens,scotus_justice,3575.234,3576.949,"So, he could serve more than a total of 15."
+1978.78-744,2,33830,kenneth_s_geller,,3576.949,3578.01,"No, he couldn't serve more."
+1978.78-744,2,15060,john_paul_stevens,scotus_justice,3578.174,3578.357,"Well, alright."
+1978.78-744,2,33830,kenneth_s_geller,,3578.357,3579.791,"-- under supervision for it, but I --"
+1978.78-744,2,15060,john_paul_stevens,scotus_justice,3579.791,3581.73,But he could have 15 years of prison time --
+1978.78-744,2,33830,kenneth_s_geller,,3581.73,3582.083,Plus four years.
+1978.78-744,2,15060,john_paul_stevens,scotus_justice,3582.083,3582.764,-- plus four years of parole.
+1978.78-744,2,33830,kenneth_s_geller,,3582.764,3584.853,"That's right, but that could happen to any defendant."
+1978.78-744,2,15071,byron_r_white,scotus_justice,3616.721,3622.247,What you're saying is there's no obligation to advice about the consequences of violating a parole.
+1978.78-744,2,33830,kenneth_s_geller,,3622.247,3624.474,No one has suggested that that's the case.
+1978.78-744,2,15071,byron_r_white,scotus_justice,3624.518,3625.814,Yet.
+1978.78-744,2,33830,kenneth_s_geller,,3625.814,3626.225,Yet.
+1978.78-744,2,15073,warren_e_burger,scotus_justice,3627.373,3628.024,"Thank you, gentlemen."

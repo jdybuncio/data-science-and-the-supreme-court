@@ -1,0 +1,74 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1984.83-2146,0,15073,warren_e_burger,scotus_justice,0.0,6.325,We will hear arguments next in Wilson and Vigil against Garcia.
+1984.83-2146,0,17742,bruce_hall,,80.223,99.256,"Mr. Chief Justice, and may it please the Court, as with the case just submitted, as Your Honor's questions indicate, this, too, is a case involving the application of a state statute of limitations to a 1983 civil rights action."
+1984.83-2146,0,15092,sandra_day_oconnor,scotus_justice,278.074,301.628,"Mr. Hall, the Court of Appeals, because it took a global approach to this 1983 problem, simply didn't find it necessary to decide what statute New Mexico would apply here, and the District Court below apparently thought the New Mexico Tort Claims Act, the two-year statute, was inapplicable."
+1984.83-2146,0,17742,bruce_hall,,308.954,322.401,"Justice, the Circuit Court, I agree, never really reached the question of what was state legislative intent as expressed in the state court opinion."
+1984.83-2146,0,15092,sandra_day_oconnor,scotus_justice,388.748,396.431,"Well, you do concede, of course, I suppose, that there is a federal question involved here on characterization."
+1984.83-2146,0,17742,bruce_hall,,396.431,397.382,Most certainly.
+1984.83-2146,0,15073,warren_e_burger,scotus_justice,953.176,954.978,"Very well, Mr. Hall."
+1984.83-2146,1,41305,steven_g_farber,,957.329,978.093,"Mr. Chief Justice, and may it please the Court, the New Mexico Tort Claims Act was enacted as a legislative response to the judicial abrogation of the doctrine of sovereign immunity in the State of New Mexico."
+1984.83-2146,1,15141,william_h_rehnquist,scotus_justice,1064.538,1072.213,"Well, we certainly have to take the word of the Supreme Court of New Mexico as to questions of state law and state legislative intent."
+1984.83-2146,1,41305,steven_g_farber,,1079.417,1089.253,"In the DeVargas decision on certiorari, which is found in the Joint Appendix at Pages 15 and 16, there is no discussion of legislative intent."
+1984.83-2146,1,15141,william_h_rehnquist,scotus_justice,1139.067,1153.666,"--But unless you are talking about a residuary statute, you are going to have some sprawl or overlap any time you try to fit a 1983 action with all of its varieties into some specific state tort limitation."
+1984.83-2146,1,41305,steven_g_farber,,1153.666,1162.472,"--Not based upon the Tenth Circuit's method of characterization, which I believe follows the case of Burnett versus Gratton, which this Court decided six months ago."
+1984.83-2146,1,15141,william_h_rehnquist,scotus_justice,1180.513,1193.763,"Your argument is essentially then that we should disregard the decision of the Supreme Court of New Mexico not because it improperly applied state law, but because characterization is a matter of federal law."
+1984.83-2146,1,41305,steven_g_farber,,1193.763,1199.257,"No, I have three arguments why the DeVargas decision should not be followed."
+1984.83-2146,1,15141,william_h_rehnquist,scotus_justice,1228.977,1233.268,Wasn't it... didn't the Supreme Court of New Mexico write an opinion in the process of--
+1984.83-2146,1,41305,steven_g_farber,,1233.268,1237.402,"They did write an opinion, but it was called a decision of certiorari."
+1984.83-2146,1,15141,william_h_rehnquist,scotus_justice,1238.303,1242.124,--Don't the New Mexico appellate courts follow that as binding precedent?
+1984.83-2146,1,41305,steven_g_farber,,1242.124,1243.466,I think they have been incorrect in following that.
+1984.83-2146,1,15141,william_h_rehnquist,scotus_justice,1244.368,1250.478,"Well, in any event, the New Mexico courts are treating it as a decision with precedential value."
+1984.83-2146,1,41305,steven_g_farber,,1252.29,1254.371,"--Some... in Cosart they did, yes."
+1984.83-2146,1,15141,william_h_rehnquist,scotus_justice,1254.371,1256.604,And in Sayna School Bus?
+1984.83-2146,1,41305,steven_g_farber,,1256.604,1264.129,"Yes, but I think that they were not the most analogous state statute of limitations to be applied to 1983 actions."
+1984.83-2146,1,15071,byron_r_white,scotus_justice,1317.454,1326.771,"That may be true, but if a 1983 action were brought in the state court, there isn't much question about what the applicable statute would be, is there?"
+1984.83-2146,1,41305,steven_g_farber,,1326.771,1333.592,"--I think if a 1983 action were brought in state court, the statute of limitations would be what the federal courts have said that it is, which is that you have to--"
+1984.83-2146,1,15071,byron_r_white,scotus_justice,1333.592,1337.996,Why wouldn't the lower courts of New Mexico have to follow DeVargas?
+1984.83-2146,1,41305,steven_g_farber,,1337.996,1340.077,--Because of the supremacy clause.
+1984.83-2146,1,15071,byron_r_white,scotus_justice,1342.26,1347.203,"Well, I know, but that is just... that is true only if you win this lawsuit."
+1984.83-2146,1,41305,steven_g_farber,,1349.124,1351.395,"--Well, I think that it is not just true based upon this lawsuit."
+1984.83-2146,1,15071,byron_r_white,scotus_justice,1360.751,1373.891,What if we decide in the case that preceded this one that the federal courts must apply the statute that the state courts would apply to a 1983 suit?
+1984.83-2146,1,41305,steven_g_farber,,1373.891,1377.551,I think that that would be a departure from the decisions of this case.
+1984.83-2146,1,15071,byron_r_white,scotus_justice,1377.551,1380.075,"Well, I know, but what if we do decide--"
+1984.83-2146,1,41305,steven_g_farber,,1380.075,1380.994,The decisions of this Court.
+1984.83-2146,1,15071,byron_r_white,scotus_justice,1380.994,1384.307,--What if we decide just that in the case that preceded this?
+1984.83-2146,1,41305,steven_g_farber,,1387.689,1412.016,"No, I think that based upon the characterization of a federal civil rights action as being an injury to personal rights, that the most analogous state statute of limitations in New Mexico is the New Mexico personal injury statute, which allows a lawsuit to be filed within three years from the date of the injury."
+1984.83-2146,1,15071,byron_r_white,scotus_justice,1413.027,1434.119,"I know, but if we decide what I suggested in the case before, a lot of the inquiry is pretermitted, because if the state court or... a state legislature or a state court expressly finds that this is the statute that applies to 1983 actions, then isn't the only question left inconsistency?"
+1984.83-2146,1,41305,steven_g_farber,,1434.119,1437.371,"--Discrimination, and we have that argument in this case also."
+1984.83-2146,1,15071,byron_r_white,scotus_justice,1449.38,1454.211,So you could say the only question that would be left would be inconsistency.
+1984.83-2146,1,41305,steven_g_farber,,1455.783,1473.275,"--Whether it is unreasonable and not consistent with federal civil rights policy, and whether it discriminates against the federal cause of action, and those arguments are made in our case, and are shown by the facts of the case."
+1984.83-2146,1,15060,john_paul_stevens,scotus_justice,1606.312,1610.145,"Mr. Farber, all this goes to the merits, and if this is all that clear, I wonder why you waited two years to sue."
+1984.83-2146,1,41305,steven_g_farber,,1610.145,1614.767,--Part of it was that... it deals within the practicalities of the litigation.
+1984.83-2146,1,15060,john_paul_stevens,scotus_justice,1629.337,1640.033,"Isn't your basic argument that all this unfairness, and time, and figuring out what the right statute of limitations is, that is really a criticism of Congress for not enacting a uniform statute of limitations."
+1984.83-2146,1,41305,steven_g_farber,,1640.644,1650.692,"I think this Court has criticized Congress each and every time it has written a statute of limitations case, because the answer would be resolved simply if Congress said, the statute of limitations is X years."
+1984.83-2146,1,15060,john_paul_stevens,scotus_justice,1650.692,1654.043,"--They haven't, and until they do we are going to have a million of these cases."
+1984.83-2146,1,41305,steven_g_farber,,1654.043,1679.028,"And that is why the approach of the Tenth Circuit makes sense, because it creates a theme which this Court can follow, that is consistent with the concept of federalism, it is consistent with the remedial nature of 1983 actions and the dual policies of compensation and deterrence, and it is consistent with the settled expectations and repose policies of the states, because now people will know what they have to do."
+1984.83-2146,1,15073,warren_e_burger,scotus_justice,1679.028,1688.225,"If Congress had done what it did in 1946 in the Federal Tort Claims Act, you would have a two-year statute, wouldn't you?"
+1984.83-2146,1,41305,steven_g_farber,,1688.225,1690.276,Yes.
+1984.83-2146,1,15073,warren_e_burger,scotus_justice,1690.276,1693.34,And would you be quarreling with Congress?
+1984.83-2146,1,41305,steven_g_farber,,1693.34,1698.412,"If Congress had enacted a statute and made it applicable to 1983, no, that would end the inquiry, but we don't have--"
+1984.83-2146,1,15073,warren_e_burger,scotus_justice,1698.412,1699.622,"It would end your case, too."
+1984.83-2146,1,41305,steven_g_farber,,1699.622,1701.415,"--It would end the case, but it hasn't."
+1984.83-2146,1,15060,john_paul_stevens,scotus_justice,1990.243,1991.595,"Mr. Farber, may I interrupt you?"
+1984.83-2146,1,41305,steven_g_farber,,1991.595,1992.204,--Yes.
+1984.83-2146,1,15060,john_paul_stevens,scotus_justice,1992.204,2003.272,"Is it not correct that under your approach and, I think, the Tenth Circuit's approach, even if the New Mexico legislature had said in so many words, we intend this to apply to 1983 actions, you would still make the same argument?"
+1984.83-2146,1,41305,steven_g_farber,,2003.272,2011.657,"Yes, but there would be a difference, because I think in that circumstance, the third part of the Burnett versus Gratton test comes into play."
+1984.83-2146,1,15060,john_paul_stevens,scotus_justice,2076.58,2079.152,Would you say that even if it were a shorter statute?
+1984.83-2146,1,41305,steven_g_farber,,2079.152,2081.823,"No, I would not, because I think it discriminates against--"
+1984.83-2146,1,15060,john_paul_stevens,scotus_justice,2081.823,2090.788,"Well, then why do you ever have to look past... then I don't understand how you ever reach the third question, because if you limit the third inquiry to statutes that are even longer, it seems to me you--"
+1984.83-2146,1,41305,steven_g_farber,,2090.788,2092.408,--Because you have to make that judgment.
+1984.83-2146,1,15060,john_paul_stevens,scotus_justice,2094.16,2106.579,"--If you say as a matter of federal law that all 1983 actions are most analogous to a personal injury tort case, and you always look at the state statute for a personal injury lawsuit, why isn't that the end of the ball game?"
+1984.83-2146,1,41305,steven_g_farber,,2106.579,2117.177,"--Because the third step... because states do enact 1983 actions, and they have the right to enact a 1983 action as long as it doesn't discriminate against what a private individual would have to--"
+1984.83-2146,1,15060,john_paul_stevens,scotus_justice,2117.177,2118.717,"In other words, they could enact a longer statute."
+1984.83-2146,1,41305,steven_g_farber,,2119.548,2120.069,"--I am sorry, what?"
+1984.83-2146,1,15060,john_paul_stevens,scotus_justice,2120.069,2122.13,"In other words, they could permit a longer period."
+1984.83-2146,1,41305,steven_g_farber,,2122.13,2124.591,They could permit a longer period or the same period.
+1984.83-2146,1,15060,john_paul_stevens,scotus_justice,2148.156,2154.043,"Of course, it is pretty unlikely, isn't it, that a state would adopt a longer statute for suits against its officers than--"
+1984.83-2146,1,41305,steven_g_farber,,2154.043,2155.612,"Yes, I think that is unlikely."
+1984.83-2146,1,15073,warren_e_burger,scotus_justice,2251.674,2252.004,Very well.
+1984.83-2146,2,17742,bruce_hall,,2253.987,2275.05,"Mr. Chief Justice, and may it please the Court, on the prospectivity issue alone, there was no reasonable reliance by the respondent on any particular view of this rule which was significantly changed or altered by the Tenth Circuit, as the granting of the interlocutory appeal itself indicates."
+1984.83-2146,2,15060,john_paul_stevens,scotus_justice,2350.008,2355.642,"Mr. Hall, your opponent did to a certain extent argue that, but I don't understand the Tenth Circuit to have so reasoned."
+1984.83-2146,2,17742,bruce_hall,,2361.276,2363.259,"No, Justice, they said it's irrelevant."
+1984.83-2146,2,15060,john_paul_stevens,scotus_justice,2363.259,2364.0,That's right.
+1984.83-2146,2,17742,bruce_hall,,2364.0,2365.029,"That's what they said, in a footnote."
+1984.83-2146,2,15073,warren_e_burger,scotus_justice,2420.116,2423.041,"Thank you, gentlemen."

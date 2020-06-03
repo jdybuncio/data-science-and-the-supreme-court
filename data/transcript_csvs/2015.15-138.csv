@@ -1,0 +1,158 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2015.15-138,0,15086,john_g_roberts_jr,scotus_justice,0.0,7.905,"We'll hear argument next in Case 15-138, RJR Nabisco v. The European Community. Mr. Katsas."
+2015.15-138,0,25604,gregory_g_katsas,,7.905,22.69,"Mr. Chief Justice, and may it please the Court: The Second Circuit extended civil RICO to claims involving foreign injuries, foreign enterprises, and foreign patterns of racketeering."
+2015.15-138,0,15084,ruth_bader_ginsburg,scotus_justice,63.67,68.67,"If -- if the statute isn't -- the statute doesn't say ""domestic injury,"" does it?"
+2015.15-138,0,25604,gregory_g_katsas,,68.67,77.44,"The statute -- statute says ""injury,"" Justice Ginsburg, by application of the presumption against extraterritoriality."
+2015.15-138,0,15084,ruth_bader_ginsburg,scotus_justice,105.34,116.08,"So you're making a distinction between RICO when the government is using it as a prosecutorial tool -- tool, and RICO --"
+2015.15-138,0,25604,gregory_g_katsas,,116.08,116.94,Yes.
+2015.15-138,0,15094,elena_kagan,scotus_justice,189.705,225.85,"Mr. Katsas, can I ask a question that -- this is an analytical question, not necessarily at all an argument that your result is wrong, but I -- I guess I'm confused by what you said now and what you say in the briefs that this is a matter of looking to the focus of the statute, because my understanding of Morrison is that this whole focus inquiry came in at the second step of the analysis. In other words, once the Court had decided that the presumption against extraterritoriality had not been rebutted, then there was an additional argument that had been made like, oh, this really does involve domestic conduct."
+2015.15-138,0,25604,gregory_g_katsas,,256.735,267.39,I think the -- the rule that emerges from Morrison is that what -- what has to be domestic is the statutory focus.
+2015.15-138,0,15094,elena_kagan,scotus_justice,316.695,333.1,I -- I guess I just would have thought that the question is whether these are discrete provisions in some way such that a conclusion is to the extraterritoriality of one doesn't really effect -- doesn't tell you anything about the extraterritoriality of the other.
+2015.15-138,0,25604,gregory_g_katsas,,342.87,367.14,"There -- there will always be a question -- if you have related provisions, there will always be a question of whether the -- the focus of one element in a statute carries over to the other. This case on the -- on the question of injury, the issue before you is whether Section 1964(c), the private right of action, has its own focus or whether it just travels --"
+2015.15-138,0,15139,stephen_g_breyer,scotus_justice,367.14,367.55,Excuse me.
+2015.15-138,0,25604,gregory_g_katsas,,390.9,391.5,Sure.
+2015.15-138,0,15139,stephen_g_breyer,scotus_justice,391.5,398.545,Why would they put it in RICO unless they wanted somebody who was hurt to be able to get damages?
+2015.15-138,0,25604,gregory_g_katsas,,398.545,402.36,"Well, the person -- the person who was hurt -- as to the injury part --"
+2015.15-138,0,15139,stephen_g_breyer,scotus_justice,402.36,404.965,The injury is to somebody at the foreign airport.
+2015.15-138,0,25604,gregory_g_katsas,,404.965,413.945,"The person -- the person who suffers injury from violation of that Act can't recover under RICO, because RICO is limited to recovery for business or property."
+2015.15-138,0,15139,stephen_g_breyer,scotus_justice,415.08,420.005,"Look, business is hurt. They blew up an airport in -- in Tasmania."
+2015.15-138,0,15139,stephen_g_breyer,scotus_justice,437.415,440.075,That's my -- and maybe this is the wrong example.
+2015.15-138,0,25604,gregory_g_katsas,,441.82,442.565,Right.
+2015.15-138,0,15139,stephen_g_breyer,scotus_justice,442.565,443.01,Okay.
+2015.15-138,0,25604,gregory_g_katsas,,450.32,488.395,"It -- there are something on the order of 200 predicate statutes that are in RICO. And the Solicitor General's appendix has -- cites about 46 of them, which have extraterritorial application. All but seven of those statutes have domestic, as well as extraterritorial application, including the one you just read. When you look at the government's appendix, what many of those statutes do is they take a statute, statute has domestic application, and then there's a provision that extends it extraterritorially."
+2015.15-138,0,15139,stephen_g_breyer,scotus_justice,514.475,514.88,Okay.
+2015.15-138,0,25604,gregory_g_katsas,,523.015,523.33,No.
+2015.15-138,0,15139,stephen_g_breyer,scotus_justice,524.97,532.015,"Well, then, if it was not an accident -- I mean, explain to me the same question. I don't want to repeat the same question five times."
+2015.15-138,0,25604,gregory_g_katsas,,532.015,537.89,All -- all but -- the vast majority --
+2015.15-138,0,15139,stephen_g_breyer,scotus_justice,537.89,542.8,"Listen, let's look at the ones that were not, that are the seven, or if you want, the three."
+2015.15-138,0,25604,gregory_g_katsas,,545.53,545.915,Yes.
+2015.15-138,0,15139,stephen_g_breyer,scotus_justice,545.915,548.76,Why is it in RICO if they don't want damages?
+2015.15-138,0,25604,gregory_g_katsas,,548.76,551.76,Let's -- let's talk about the one that I mentioned.
+2015.15-138,0,15094,elena_kagan,scotus_justice,689.085,702.8,"Well, that may have been true, or largely true at the beginning, but how about all these amendments that happened after 9/11 which clearly seemed focus on foreign conduct, foreign organization, foreign harm?"
+2015.15-138,0,25604,gregory_g_katsas,,702.8,711.16,"There's -- there is one amendment that is cited, it's the Patriot Act, which does one thing to RICO."
+2015.15-138,0,15094,elena_kagan,scotus_justice,740.47,743.21,"Well, possibly they have some domestic application."
+2015.15-138,0,25604,gregory_g_katsas,,767.275,779.26,"We -- we don't know for sure. I'll give you another possibility, which is what they had in mind was the September 11 attacks, which were domestic acts of racketeering."
+2015.15-138,0,15094,elena_kagan,scotus_justice,788.355,789.35,"Well, this just means --"
+2015.15-138,0,25604,gregory_g_katsas,,789.35,790.13,Which is the very offense --
+2015.15-138,0,15094,elena_kagan,scotus_justice,790.13,792.39,"-- foreign organizations, even as to that."
+2015.15-138,0,25604,gregory_g_katsas,,792.39,792.95,I'm sorry?
+2015.15-138,0,15094,elena_kagan,scotus_justice,792.95,795.18,That at least suggests foreign organizations.
+2015.15-138,0,25604,gregory_g_katsas,,795.18,828.62,"Well, that -- that at least explains the incorporation of the -- of the predicates relative to the events of September 11, but in any event, with respect, I don't think that's the right question because where the presumption applies, either -- either on the question of injury, which I've been discussing, or on the question of enterprise versus pattern, again, the rule for Morrison is that you identify the focus and then you need a clear indication in the statute to the contrary."
+2015.15-138,0,15084,ruth_bader_ginsburg,scotus_justice,828.62,836.555,How do you deal with Judge Lynch's example? There's a foreign terrorist organization.
+2015.15-138,0,25604,gregory_g_katsas,,844.96,854.435,That would -- that would be -- foreign terrorist organization --
+2015.15-138,0,15084,ruth_bader_ginsburg,scotus_justice,854.435,859.58,Operating only abroad but its targets are all U.S. citizens.
+2015.15-138,0,25604,gregory_g_katsas,,859.58,869.055,I think the -- the underlying acts would be criminally prosecuted and could be punished very severely.
+2015.15-138,0,15113,anthony_m_kennedy,scotus_justice,878.77,881.175,Either civilly or criminally?
+2015.15-138,0,25604,gregory_g_katsas,,881.175,886.1,"Correct, because now if I'm -- I'm turning to Section 1962."
+2015.15-138,0,15084,ruth_bader_ginsburg,scotus_justice,896.33,898.84,And doing bad things to U.S. citizens.
+2015.15-138,0,25604,gregory_g_katsas,,909.51,915.81,And -- and 2332(a)(1) would be prosecutable by the government.
+2015.15-138,0,15084,ruth_bader_ginsburg,scotus_justice,920.58,930.275,"But it -- so you're saying only the act itself you can't superimpose RICO, because there has been a whole pattern of these. They've cut of a hundred heads."
+2015.15-138,0,25604,gregory_g_katsas,,930.275,934.24,"If it's -- if it's a foreign enterprise, that's right, and here's why."
+2015.15-138,0,15084,ruth_bader_ginsburg,scotus_justice,980.27,1013.55,"You -- Judge Lynch, in that -- in his opinion on the en banc, he said, ""Any interpretation that suggests the operatives of a foreign enterprise can't be held accountable under RICO for a pattern of predicate"" -- ""a pattern of predicate crimes that violate Federal statutes"" -- ""Federal statutes that have an express extraterritorial reach would astonish the Congress that made such violations RICO predicates."""
+2015.15-138,0,25604,gregory_g_katsas,,1013.55,1031.725,"Because the focus of Section 1962 is the enterprise, and under Morrison the enterprise has to be domestic, absent a clear indication to the contrary. All of those predicate crimes are addressed by the underlying criminal statutes."
+2015.15-138,0,15094,elena_kagan,scotus_justice,1039.76,1040.06,"Well, the --"
+2015.15-138,0,25604,gregory_g_katsas,,1040.06,1040.81,Think about --
+2015.15-138,0,15094,elena_kagan,scotus_justice,1040.81,1043.66,"I mean, the whole point of RICO is that it does both."
+2015.15-138,0,25604,gregory_g_katsas,,1062.1,1071.61,"Perhaps, but you could have said the same thing about Morrison, under which you need both deception and a securities transaction in order to have a Section 10(b) violation."
+2015.15-138,0,15094,elena_kagan,scotus_justice,1072.315,1077.245,"Well, the fact that some things can be separated doesn't mean that everything can be separated."
+2015.15-138,0,25604,gregory_g_katsas,,1098.73,1105.96,Congress has -- Congress has told you in the statutory findings what they are concerned about.
+2015.15-138,0,15084,ruth_bader_ginsburg,scotus_justice,1153.425,1169.77,"So you would -- you would say -- I mean, the -- another example doesn't say the -- the -- the Sicilian Mafia commits a series of violent crimes in the United States that would violate RICO if committed by a New York-based Mafia family."
+2015.15-138,0,25604,gregory_g_katsas,,1177.9,1178.53,The --
+2015.15-138,0,15084,ruth_bader_ginsburg,scotus_justice,1178.53,1180.9,"That is your position, right?"
+2015.15-138,0,25604,gregory_g_katsas,,1180.9,1181.855,That's right.
+2015.15-138,0,15084,ruth_bader_ginsburg,scotus_justice,1190.97,1196.825,And not the pattern. It's just that the statute gets at after the individual instance.
+2015.15-138,0,25604,gregory_g_katsas,,1202.86,1214.995,"So it says -- says when you have a pattern, that impacts an enterprise. And if I could just get on the table the question about the 1964(c) issue with regard to domestic enterprises."
+2015.15-138,0,15086,john_g_roberts_jr,scotus_justice,1296.4,1311.625,"Thank you, counsel. Ms. Goldenberg."
+2015.15-138,1,22331,elaine_j_goldenberg,,1311.625,1337.035,"Mr. Chief Justice, and may it please the Court: I'd like to talk about both the enterprise and the injury points, but I'd like to start with the enterprise point, because Section 1962 most directly affects the government's ability to bring RICO prosecutions and RICO civil actions. And as some of those questions have pointed out, there are a number of predicates that are incorporated into RICO, into the definition of racketeering activity, that have extraterritorial applications."
+2015.15-138,1,15086,john_g_roberts_jr,scotus_justice,1480.84,1495.755,"But RICO imposes, it seems to me, as we've even observed in the domestic context, far more significant -- the impact internationally could be far more significant than prosecution simply of the underlying offenses."
+2015.15-138,1,22331,elaine_j_goldenberg,,1516.59,1548.215,"Well, I think, as this Court observed in Empagran, when you're talking about Section 1962 or something like Section 1962, where it is the government that is choosing whether to prosecute or whether to bring a civil action, the government has the ability, it has the incentive, to take those kinds of concerns into account and to regulate itself, either to be constrained in bringing that kind of action where it might cause some comity concerns, or to deal government-to-government with another government, to try to make sure that those comity concerns are smoothed over."
+2015.15-138,1,15139,stephen_g_breyer,scotus_justice,1566.905,1586.955,"Well, I thought this was the same question, but I'm elaborating a bit because it's both for you and Mr. Frederick's reading. I thought the answer to my first question would be that the government just wanted the forfeiture provisions -- that's why it put them in -- or the criminal provisions -- that's why it put these other things in -- and you say, that's right."
+2015.15-138,1,22331,elaine_j_goldenberg,,1591.86,1592.26,Yes.
+2015.15-138,1,15139,stephen_g_breyer,scotus_justice,1592.61,1593.725,You wrote it into your brief.
+2015.15-138,1,22331,elaine_j_goldenberg,,1593.725,1594.38,Yes.
+2015.15-138,1,15139,stephen_g_breyer,scotus_justice,1594.38,1627.8,"And you're the State Department for this purpose, and you ought to know. But then they're the EU, and moreover, not only do they tell us that the 27 nations of the EU don't agree with you, but in fact, what's very confusing about this is, in the Alien Tort Statute case -- which, after all, involved torture, and not simply money laundering -- the EU countries, at least three, were in here with briefs -- I think it was Germany, the Netherlands and Britain -- saying, stay out of this stuff."
+2015.15-138,1,15139,stephen_g_breyer,scotus_justice,1634.19,1638.845,"That is, I mean -- and it's not just a -- that's not a criticism."
+2015.15-138,1,22331,elaine_j_goldenberg,,1706.95,1711.05,"Well, I think you do have enough here to show what we actually think. Mr. Frederick --"
+2015.15-138,1,15139,stephen_g_breyer,scotus_justice,1711.05,1734.385,"Did you consult with the embassies? Did the State Department go out and ask them to have their legal departments over in Germany look up what the actual effect would be of the damages? Or was it the EU that bore total responsibility for this matter without even consulting from Brussels what happens in Germany or some other place? I mean, how did it work?"
+2015.15-138,1,22331,elaine_j_goldenberg,,1734.385,1741.51,"Well, to my knowledge, we didn't have those consultations, although I understand that the EU informed the Justice Department before it filed the --"
+2015.15-138,1,15139,stephen_g_breyer,scotus_justice,1741.51,1746.97,"And did it consult with the other three? You see where I'm going, and I'd like your best answer --"
+2015.15-138,1,22331,elaine_j_goldenberg,,1746.97,1753.245,"Well, I think that this is a very unusual case where you have foreign sovereigns as the private RICO plaintiffs."
+2015.15-138,1,15084,ruth_bader_ginsburg,scotus_justice,1794.42,1819.325,"That's -- why isn't forum non conveniens the answer to that? If -- if -- the question is, where should -- who should provide a remedy to this conduct, and if it's -- really is centered in that other state, a forum non conveniens motion should be -- should be made to dismiss the action, because it's a far more appropriate forum abroad."
+2015.15-138,1,22331,elaine_j_goldenberg,,1819.325,1835.47,"This Court suggested in Empagran that going case-by-case with this kinds -- these kinds of comity concerns was too burdensome and too difficult for courts, and it would be better to make a blanket judgment about the comity concerns with respect to the cause of action as a whole."
+2015.15-138,1,15094,elena_kagan,scotus_justice,1858.68,1859.8,Ms. -- please.
+2015.15-138,1,22331,elaine_j_goldenberg,,1860.28,1866.335,"Well, all -- I was just going to say that in addition to comity concerns, I think there are other things that point in the direction --"
+2015.15-138,1,15094,elena_kagan,scotus_justice,1866.335,1870.96,"Well, then, can I interrupt and talk about your comity concerns, because I understand them."
+2015.15-138,1,22331,elaine_j_goldenberg,,1897.72,1898.455,Sure.
+2015.15-138,1,15086,john_g_roberts_jr,scotus_justice,1937.19,1949.72,"Thank you, counsel. Mr. Frederick."
+2015.15-138,2,20869,david_c_frederick,,1949.72,1968.265,"Thank you, Mr. Chief Justice, and may it please the Court: The European Union and 26 of its Member States brought this case in the United States against a United States corporation for the actions it committed in the United States and from the United States, that had effects in Europe."
+2015.15-138,2,15068,samuel_a_alito_jr,scotus_justice,1972.88,1995.105,"Why is that? Why is that so, Mr. Frederick? Isn't it rather strange that countries in Europe, Member States of the European Union, are suing in the courts of the United States for injuries sustained to their business interests in Europe? Why didn't they just sue in their own courts?"
+2015.15-138,2,20869,david_c_frederick,,1995.105,2007.83,"Well, first, the fact that RJR has no subsidiary in Europe raised a question of personal jurisdiction that would have affected the enforceability of judgments."
+2015.15-138,2,15068,samuel_a_alito_jr,scotus_justice,2038.49,2054.1,"Well -- well, are you saying that the -- the law of personal jurisdiction in the -- the Member States of the European Union is similar to that in the United States, that they would not -- under their laws, they would say they do not have personal jurisdiction over RJR?"
+2015.15-138,2,20869,david_c_frederick,,2054.1,2058.49,"Justice Alito, what I'm saying is that it varies among the Member States."
+2015.15-138,2,15139,stephen_g_breyer,scotus_justice,2075.13,2077.125,"Did you, in fact, ask them?"
+2015.15-138,2,20869,david_c_frederick,,2077.125,2078.51,We did -- we --
+2015.15-138,2,15139,stephen_g_breyer,scotus_justice,2078.51,2084.94,"What happened there? Because look, I'm faced with a situation where the State Department is telling me one thing."
+2015.15-138,2,20869,david_c_frederick,,2103.44,2104.02,Justice Breyer --
+2015.15-138,2,15139,stephen_g_breyer,scotus_justice,2104.02,2104.77,How -- how did it work?
+2015.15-138,2,20869,david_c_frederick,,2104.77,2106.745,Thank you for asking me this question.
+2015.15-138,2,15113,anthony_m_kennedy,scotus_justice,2195.28,2195.67,But if -- if --
+2015.15-138,2,20869,david_c_frederick,,2195.67,2197.445,-- it posed a domestic requirement.
+2015.15-138,2,15113,anthony_m_kennedy,scotus_justice,2197.88,2215.525,"If you prevail, and there is a case with mostly foreign conduct and foreign injuries, and if personal jurisdiction and forum non conveniens are satisfied, then these actions could be brought under RICO in foreign courts, correct?"
+2015.15-138,2,20869,david_c_frederick,,2215.525,2216.17,Sorry.
+2015.15-138,2,15113,anthony_m_kennedy,scotus_justice,2217.99,2219.02,In foreign courts.
+2015.15-138,2,20869,david_c_frederick,,2219.02,2220.4,"Well, not under RICO."
+2015.15-138,2,15139,stephen_g_breyer,scotus_justice,2225.15,2233.805,Let's say a private person is injured in England can bring a -- I take it bring a suit in English court and invoke RICO.
+2015.15-138,2,20869,david_c_frederick,,2233.805,2235.33,Not that I'm aware of.
+2015.15-138,2,15113,anthony_m_kennedy,scotus_justice,2235.33,2236.13,Why not?
+2015.15-138,2,20869,david_c_frederick,,2236.13,2241.36,Because I'm not aware that -- that the English courts would apply RICO in this case.
+2015.15-138,2,15113,anthony_m_kennedy,scotus_justice,2244.47,2246.88,"Well, you're saying it applies extraterritorially."
+2015.15-138,2,20869,david_c_frederick,,2246.88,2268.07,"No, what -- what it does, Justice Kennedy, and this is why it's actually important to go through statute by statute all of the provisions in the Solicitor General's appendix, and we've got a binder that's got every single one of them, and you can ask me about every one. Congress imposed a domestic proof requirement as to every extension of extraterritoriality for those crimes."
+2015.15-138,2,15086,john_g_roberts_jr,scotus_justice,2296.1,2298.58,I thought the victim here was the European Community.
+2015.15-138,2,20869,david_c_frederick,,2298.58,2303.16,"It is, but the Defendant is an American and conduct was occurring here in the United States."
+2015.15-138,2,15086,john_g_roberts_jr,scotus_justice,2306.27,2306.67,I'm sorry.
+2015.15-138,2,20869,david_c_frederick,,2309.57,2309.98,One of those four --
+2015.15-138,2,15086,john_g_roberts_jr,scotus_justice,2309.98,2310.4,"Oh, it's just one."
+2015.15-138,2,20869,david_c_frederick,,2310.4,2312.815,All I'm saying is one of the four.
+2015.15-138,2,15086,john_g_roberts_jr,scotus_justice,2365.62,2387.745,You -- you can easily -- you can easily envision situations where private parties prosecuting RICO actions for -- against European entities might implicate serious comity concerns whether the racketeering enterprise is a State-owned actor or an -- an entity that's strongly supported by the -- the government.
+2015.15-138,2,20869,david_c_frederick,,2398.235,2407.77,"So it's hard for me to see, based on your hypothetical, Mr. Chief Justice, which of the predicate crimes would be asserted as the underlying pattern of -- of racketeering."
+2015.15-138,2,15086,john_g_roberts_jr,scotus_justice,2409.02,2409.7,So here we have racketeering --
+2015.15-138,2,20869,david_c_frederick,,2409.7,2410.22,I haven't found one.
+2015.15-138,2,15086,john_g_roberts_jr,scotus_justice,2410.22,2410.4,Yeah.
+2015.15-138,2,20869,david_c_frederick,,2410.4,2411.66,I haven't found one.
+2015.15-138,2,15086,john_g_roberts_jr,scotus_justice,2411.66,2417.815,"Here the -- you have racketeering activity that goes to the illegal trafficking and cigarettes, right?"
+2015.15-138,2,20869,david_c_frederick,,2417.815,2418.23,Yes.
+2015.15-138,2,15086,john_g_roberts_jr,scotus_justice,2418.23,2444.25,"So, I mean, what if -- what if -- and you have a -- domestic crime predicates, what -- what if the cigarettes were marketed through, you know, I don't know, an enterprise very important to the government of -- you know, some government that sells cigarettes, the -- you can imagine other products. In other words, it's -- it's -- here you have sort of an organized crime enterprise."
+2015.15-138,2,20869,david_c_frederick,,2457.145,2491.29,"But, Mr. Chief Justice, my point is that if you look at each one of the acts that is incorporated and has an extraterritorial component, there is a direct tie to the United States, and the crimes have to be unindictable under Federal or State law. So with respect, I think what you're hypothesizing is a situation that would be a null set, and that's where these crimes are occurring in Europe under European member State laws, and somehow there is going to be a tie in to RICO, that wouldn't be possible under a plain reading of the RICO statute."
+2015.15-138,2,15084,ruth_bader_ginsburg,scotus_justice,2491.29,2499.35,Because it's only the statute that has the extraterritorial -- the extraterritoriality built into them.
+2015.15-138,2,20869,david_c_frederick,,2499.35,2499.75,That's correct.
+2015.15-138,2,15084,ruth_bader_ginsburg,scotus_justice,2499.75,2511.4,Most statutes that are -- crimes that are punishable under RICO will have -- will not have the extraterritorial provision in the underlying statute.
+2015.15-138,2,20869,david_c_frederick,,2511.4,2512.165,That's correct.
+2015.15-138,2,15084,ruth_bader_ginsburg,scotus_justice,2525.485,2540.825,"Candidly, is -- why is the EU suing here? Does it have something to do with no one else having a treble damage provision like RICO?"
+2015.15-138,2,20869,david_c_frederick,,2540.825,2547.01,"Actually, treble damages are not at all the reason why this case was brought in the United States."
+2015.15-138,2,15068,samuel_a_alito_jr,scotus_justice,2612.22,2619.545,Isn't it -- isn't it strange for a government to choose to sue in the courts of another country?
+2015.15-138,2,20869,david_c_frederick,,2619.545,2620.98,"Well, in fact --"
+2015.15-138,2,15068,samuel_a_alito_jr,scotus_justice,2620.98,2632.43,"Unless there is something to your personal jurisdiction point, and I really -- my understanding of -- of the law of a lot of the European countries is that they have a very broad understanding of personal jurisdiction."
+2015.15-138,2,20869,david_c_frederick,,2639.67,2663.37,"Justice Alito, if -- if the European nations know that they are eventually going to have to come to the United States to enforce the judgment and there is no -- there are no assets to attach in Europe by RJR, because it doesn't have subsidiaries there, the simplest thing to do would be a one-step process. This suit was filed almost 16 years ago, 15, 16 years ago and we are still at the motion to dismiss stage."
+2015.15-138,2,15139,stephen_g_breyer,scotus_justice,2725.45,2726.605,I'm -- just a moment.
+2015.15-138,2,20869,david_c_frederick,,2779.46,2790.04,"I -- I would assume that the Belgium courts -- and I'm not going to profess to be an expert on the enforceability of judgments in Belgium, Justice Breyer, and so I give you that answer."
+2015.15-138,2,15139,stephen_g_breyer,scotus_justice,2790.04,2792.45,But do they get a judgment against the foreign bank?
+2015.15-138,2,20869,david_c_frederick,,2792.45,2796.89,"To get a -- well, presuming that there was personal jurisdiction in the United States, assume --"
+2015.15-138,2,15139,stephen_g_breyer,scotus_justice,2796.89,2802.935,"The EU -- the jurisdiction only against RJR unindicted co-conspirators or helpers, whatever."
+2015.15-138,2,20869,david_c_frederick,,2802.935,2804.65,I -- I don't know the answer to your question.
+2015.15-138,2,15139,stephen_g_breyer,scotus_justice,2804.65,2806.54,I think they are worried about something like this.
+2015.15-138,2,20869,david_c_frederick,,2809.47,2862.91,"Here is the answer, though. The answer is that if those Belgium banks are in a conspiracy with RJR, it surely cannot be the case that U.S. law does not cover RJR. If there is a question about the enforceability of a judgment against the Belgium banks, presumably the Belgium banks will make that argument, and they will claim in Belgium that -- that somehow a suit prosecuted in the United States in which they were co-conspirators is somehow not going to cover their activity. Our point is that it can't be the case where, for centuries, the United States courts have been open to allow foreign plaintiffs to come in alleging injury caused by U.S. actors under U.S. law, that somehow we're going to read the Morrison principle as a way of constricting the available remedies."
+2015.15-138,2,15094,elena_kagan,scotus_justice,2955.225,2963.5,"Well, Mr. -- Mr. Frederick, I understand that argument with respect to what's the ordinary remedial provision of a statute."
+2015.15-138,2,20869,david_c_frederick,,2978.65,2979.39,That's true.
+2015.15-138,2,15094,elena_kagan,scotus_justice,2979.39,2981.89,So why doesn't that make the difference?
+2015.15-138,2,20869,david_c_frederick,,2981.89,2982.51,It could.
+2015.15-138,2,15068,samuel_a_alito_jr,scotus_justice,3014.76,3033.815,"Well, if we look just at 1964(c) and apply the Morrison analysis in a straightforward way, would that analysis work in this way? There isn't any reference in 1964(c) to extraterritorial application."
+2015.15-138,2,20869,david_c_frederick,,3040.885,3043.52,"So, Justice Alito, I would have two responses."
+2015.15-138,2,15068,samuel_a_alito_jr,scotus_justice,3077.215,3081.84,"But at that time, RICO would not have an extraterritorial application, would it?"
+2015.15-138,2,20869,david_c_frederick,,3081.84,3082.04,No.
+2015.15-138,2,15139,stephen_g_breyer,scotus_justice,3132.11,3135.265,"But there is a problem with the Clayton Act, even at this time."
+2015.15-138,2,20869,david_c_frederick,,3153.92,3169.315,"And my answer is, Congress has addressed some of those concerns in the antitrust area with various amendments that affect -- that -- that only go to conduct. And classically, what Congress is getting at is conduct, not remedy."
+2015.15-138,2,15086,john_g_roberts_jr,scotus_justice,3320.075,3323.92,"Thank you, counsel. Mr. Katsas, you have four minutes remaining."
+2015.15-138,3,25604,gregory_g_katsas,,3323.92,3333.715,"Justice Breyer, you asked about government's positions. The United States is the party that has to live with the consequences of your decision one way or the other."
+2015.15-138,3,15139,stephen_g_breyer,scotus_justice,3494.43,3494.78,Okay.
+2015.15-138,3,25604,gregory_g_katsas,,3496.11,3519.6,"Mr. Frederick said that the underlying predicates here track international law. That is true to -- in the sense that they are written to be consistent with Section 402 of the third restatement of Foreign Relations, but there is an independent requirement that the application in a particular case must be reasonable under Section 403."
+2015.15-138,3,15086,john_g_roberts_jr,scotus_justice,3552.485,0.0,"Thank you, counsel. The case is submitted."

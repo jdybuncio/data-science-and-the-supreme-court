@@ -1,0 +1,56 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1985.83-2004,0,15073,warren_e_burger,scotus_justice,0.0,7.92,We will hear arguments next in Matsushita v. Zenith Radio.
+1985.83-2004,0,21742,donald_j_zoeller,,78.985,81.405,"Thank you, Mr. Chief Justice, and may it please the Court:"
+1985.83-2004,0,15060,john_paul_stevens,scotus_justice,468.608,474.154,"Mr. Zoeller, in your view, is the evidence about what happened in the Japanese market entirely irrelevant?"
+1985.83-2004,0,21742,donald_j_zoeller,,474.154,477.386,"Yes, Your Honor, it is entirely irrelevant."
+1985.83-2004,0,15060,john_paul_stevens,scotus_justice,477.386,482.134,Is the evidence about sharing the figures on production and inventories entirely irrelevant?
+1985.83-2004,0,21742,donald_j_zoeller,,482.134,488.336,"That evidence has to do with sharing figures on production and inventory in the Japanese, as to the Japanese market."
+1985.83-2004,0,15060,john_paul_stevens,scotus_justice,490.319,494.957,I thought the production figures showed that they produced much more than they consumed in Japan.
+1985.83-2004,0,21742,donald_j_zoeller,,494.957,502.955,"--Your Honor, as a matter of fact, the experts that the defendants rely upon say... didn't say that they began by producing much more than they consume."
+1985.83-2004,0,15060,john_paul_stevens,scotus_justice,528.084,532.38,Does the evidence explain why they exchanged this information about production and inventory?
+1985.83-2004,0,21742,donald_j_zoeller,,532.38,539.893,"They were members of trade associations, Your Honor, and they exchange a lot of kinds of information that people do in trade associations."
+1985.83-2004,0,15060,john_paul_stevens,scotus_justice,651.582,655.128,Let me just... You focus our attention on that page.
+1985.83-2004,0,21742,donald_j_zoeller,,665.171,670.981,"Your Honor, under some circumstances they might be, but on the record of this case there's no basis to suggest that they were."
+1985.83-2004,0,15141,william_h_rehnquist,scotus_justice,775.283,786.309,"Mr. Zoeller, do you think the Cities Service case laid down a rule of inference drawing through summary judgment that's peculiar to antitrust law, or does it apply across the board in summary judgment?"
+1985.83-2004,0,21742,donald_j_zoeller,,786.309,788.7,"Well, I would say, Your Honor, it is not peculiar."
+1985.83-2004,0,15141,william_h_rehnquist,scotus_justice,832.073,841.398,"Well, to that extent then, if you just had an ordinary action for fraud and not antitrust, I suppose you would say Cities Service didn't apply because there's no harm in showing fraud."
+1985.83-2004,0,21742,donald_j_zoeller,,841.398,849.551,"That might be possibly so, but to the extent that Cities Service also says that the inference of conspiracy must be natural and logical, it applies."
+1985.83-2004,0,15071,byron_r_white,scotus_justice,918.523,924.537,Is it logically possible that you could win on the antitrust case and lose on the dumping part of the case?
+1985.83-2004,0,21742,donald_j_zoeller,,924.537,934.47,"In theory it is, Your Honor, but the facts of the case show that there would be no basis to find a predatory intent as we see it, absent the evidence of conspiracy."
+1985.83-2004,0,15071,byron_r_white,scotus_justice,939.374,947.526,"Then if the claim of government authorization of whatever conduct is alleged, if that is sustained, it also undermines the dumping case, is that it?"
+1985.83-2004,0,21742,donald_j_zoeller,,977.407,979.703,"--Yes, it would, Your Honor."
+1985.83-2004,0,15071,byron_r_white,scotus_justice,981.468,985.044,"But you think that part of it should be reversed, too?"
+1985.83-2004,0,21742,donald_j_zoeller,,985.044,992.806,"--I think it should, Your Honor, because the failure of the conspiracy evidence would destroy any evidence of predatory intent under the record of this case."
+1985.83-2004,0,15141,william_h_rehnquist,scotus_justice,992.806,998.147,"Do you think your questions presented, your petition, raises anything about the dumping charges?"
+1985.83-2004,0,21742,donald_j_zoeller,,998.147,1000.459,"It does not directly, Judge Rehnquist."
+1985.83-2004,0,15071,byron_r_white,scotus_justice,1011.502,1018.141,It would any joint predatory... it would undermine any finding of a joint predatory intent.
+1985.83-2004,0,21742,donald_j_zoeller,,1018.141,1034.149,"Yes, and we don't see any other evidence in this record of predatory intent, Your Honor, so that I think the court of appeals relied upon the conspiracy in showing any predatory intent joint or individual, and that is why they dismissed the dumping claims jointly and individually as to the defendant Sony, for example."
+1985.83-2004,0,15073,warren_e_burger,scotus_justice,1039.083,1049.815,Mr. Rule?
+1985.83-2004,1,19924,charles_f_rule,,1049.815,1052.282,"Mr. Chief Justice, and may it please the Court:"
+1985.83-2004,1,15060,john_paul_stevens,scotus_justice,1096.124,1108.463,"Mr. Rule, perhaps I should have asked your opponent, but do I correctly recall that the district judge held a great deal of evidence inadmissible that the court of appeals said was admissible, so the court of appeals decided the case on a different record?"
+1985.83-2004,1,19924,charles_f_rule,,1108.463,1115.178,"The court of appeals did reverse Judge Becker as to a number of evidentiary motions; however, Judge--"
+1985.83-2004,1,15060,john_paul_stevens,scotus_justice,1115.178,1116.771,But most of its opinion deals with evidentiary ruling.
+1985.83-2004,1,19924,charles_f_rule,,1116.771,1117.115,"--Yes, sir."
+1985.83-2004,1,15071,byron_r_white,scotus_justice,1269.054,1271.818,Have you reached all four facts?
+1985.83-2004,1,19924,charles_f_rule,,1271.818,1272.349,--No.
+1985.83-2004,1,15071,byron_r_white,scotus_justice,1273.115,1273.756,Is there more than one?
+1985.83-2004,1,19924,charles_f_rule,,1273.756,1274.692,"--Two more, actually."
+1985.83-2004,1,15071,byron_r_white,scotus_justice,1280.924,1281.596,Along with the five companies.
+1985.83-2004,1,19924,charles_f_rule,,1281.596,1292.357,"--Right, which was part of that program, and those agreements were also compelled, in effect, by the government of Japan as it's indicated twice to the court."
+1985.83-2004,1,15073,warren_e_burger,scotus_justice,1467.538,1472.067,Mr. Rome?
+1985.83-2004,2,23065,edwin_p_rome,,1472.067,1477.987,"Mr. Chief Justice, may it please the Court:"
+1985.83-2004,2,15141,william_h_rehnquist,scotus_justice,1835.373,1836.342,Mr. Rome?
+1985.83-2004,2,23065,edwin_p_rome,,1836.342,1836.81,Sir?
+1985.83-2004,2,15141,william_h_rehnquist,scotus_justice,1836.81,1841.136,"There's a certain tendency, I think, on the part of your briefs."
+1985.83-2004,2,23065,edwin_p_rome,,1876.264,1877.356,"Yes, sir."
+1985.83-2004,2,15141,william_h_rehnquist,scotus_justice,1922.385,1929.304,Is it a necessary element of your claim that eventually these people would have to recoup their losses?
+1985.83-2004,2,23065,edwin_p_rome,,1929.304,1930.086,"No, sir."
+1985.83-2004,2,15141,william_h_rehnquist,scotus_justice,1945.158,1949.078,But how does that bear on a claim of the American antitrust law?
+1985.83-2004,2,23065,edwin_p_rome,,1949.078,1961.947,"--Because, sir, if it had an impact on the interstate and foreign commerce of the United States and is to be considered as part of the unitary course of conduct, then indeed it must be considered as the court of appeals held below."
+1985.83-2004,2,15141,william_h_rehnquist,scotus_justice,1961.947,1977.972,"Well, but supposing your evidence of what happened in this country shows nothing more than that these people constantly lowered their prices and met competition and tried to compete so heavily as to become the only people and the only suppliers in the American market?"
+1985.83-2004,2,23065,edwin_p_rome,,1986.953,1989.952,"But what they did, sir, was as the result of collusion."
+1985.83-2004,2,15141,william_h_rehnquist,scotus_justice,2018.3,2019.424,"Well, what was their motive?"
+1985.83-2004,2,23065,edwin_p_rome,,2019.424,2033.326,"--Their motive, indeed, Your Honor, was to take control, as happened, of the U.S. market for consumer electronic products, because... well, my friend says that the two leaders are still here, RCA and Zenith."
+1985.83-2004,2,15141,william_h_rehnquist,scotus_justice,2052.099,2057.565,"But surely they didn't take over the U.S. market with the intent to just continue dumping and charging low prices, did they?"
+1985.83-2004,2,23065,edwin_p_rome,,2057.565,2080.292,"--Sir, they have been doing that all of this time, because the prices are in fact dumping prices, as has been found by the expert testimony which is unrebutted; and moreover, their losses, which they admittedly suffered in the United States, were protected by the high prices that they were getting in Japan, and that is the very essence of dumping--"
+1985.83-2004,3,21742,donald_j_zoeller,,3187.768,3189.346,"Just a minute or two, Your Honor."

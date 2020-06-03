@@ -1,0 +1,162 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1986.85-1563,0,15141,william_h_rehnquist,scotus_justice,0.0,7.873,"We will hear argument now in Number 85-1563, California versus Brown."
+1986.85-1563,0,29273,jay_m_bloom,,10.092,12.981,"Thank you, Mr. Chief Justice, and may it please the Court:"
+1986.85-1563,0,15092,sandra_day_oconnor,scotus_justice,196.189,207.06,"Mr. Bloom, where in the instructions was the jury told that it should consider mitigating evidence about the background and the character of the defendant?"
+1986.85-1563,0,29273,jay_m_bloom,,207.06,230.863,"Well, it is our position, Your Honor, that Caljic 8.481 which deals with the various aggravating, mitigating factors, it discusses the jury is to consider the circumstances of the offense, prior violent conduct, any mental defects of the individual, and under the ""K"" section, any other circumstance which extenuates the gravity of the offense, even though not a legal excuse."
+1986.85-1563,0,15092,sandra_day_oconnor,scotus_justice,230.863,231.832,"Did it say... was the instruction,"
+1986.85-1563,0,29273,jay_m_bloom,,236.174,236.955,No.
+1986.85-1563,0,15092,sandra_day_oconnor,scotus_justice,245.56,255.963,And do you think that that makes it clear to the jury that they could consider evidence going to the background and character of the defendant?
+1986.85-1563,0,29273,jay_m_bloom,,255.963,282.359,"Yes, Your Honor, because in the first place this instruction tracks exactly penal code 190.3 which this Court discussed in California versus Ramos, and in that decision this Court indicated in footnote 19 of the opinion that the instruction allowed the jury to consider all evidence to show a penalty less than death was appropriate and met the standards of Lockett versus Ohio."
+1986.85-1563,0,15045,harry_a_blackmun,scotus_justice,441.592,447.543,"If the word ""sympathy"" were out of the instruction, would you be here; the single word, ""sympathy""?"
+1986.85-1563,0,29273,jay_m_bloom,,447.543,460.336,"Well, I think we would be here because the court below indicated that the instruction as a whole is invalid."
+1986.85-1563,0,15060,john_paul_stevens,scotus_justice,473.66,516.049,"Mr. Bloom, may I follow up on a question that Justice O'Connor asked you about the adequacy of the instructions to take into consideration the mitigating evidence, and I have in mind particularly the argument of the prosecutor at the Joint Appendix at page 90 and 91 where he refers to the fact that they brought in a parade of relatives who talked about the background of the defendant as a child and then argued that that testimony was a blatant attempt by the defense to inject personal feelings in the case to make the defendant appear human, to make you feel for the defendant and so forth, but that the judge would in effect tell you that you must not be swayed by sympathy."
+1986.85-1563,0,29273,jay_m_bloom,,523.265,524.671,"Well, no, Your Honor."
+1986.85-1563,0,15060,john_paul_stevens,scotus_justice,552.88,567.64,"Well, I understand that, but is there an instruction in there that... I don't think... you responded to Justice O'Connor, I believe, by referring to the instruction that says, you should not... you may consider matters that reduce the character of the offense or of the crime, the quality of the crime."
+1986.85-1563,0,29273,jay_m_bloom,,575.824,580.509,"Well, I think my point was that the instruction as a whole allows the jury to--"
+1986.85-1563,0,15060,john_paul_stevens,scotus_justice,580.509,582.415,"It allows them to do it, but does it tell them to do it?"
+1986.85-1563,0,29273,jay_m_bloom,,582.415,583.634,"--Well, yes."
+1986.85-1563,0,15060,john_paul_stevens,scotus_justice,615.168,617.902,"But none of those mentioned his background, his personal background?"
+1986.85-1563,0,29273,jay_m_bloom,,617.902,623.478,"--Well, the last one does, any other circumstance which extenuates the gravity of the crime."
+1986.85-1563,0,15060,john_paul_stevens,scotus_justice,623.478,624.4,The gravity of the crime.
+1986.85-1563,0,29273,jay_m_bloom,,624.4,625.509,Even though it is not a legal excuse.
+1986.85-1563,0,15092,sandra_day_oconnor,scotus_justice,661.575,673.726,"But in doing that, did we have before us an argument or... like the prosecutor made here, or the other statements that were made to the jury?"
+1986.85-1563,0,29273,jay_m_bloom,,686.253,688.393,I think there are two answers to that.
+1986.85-1563,0,15049,antonin_scalia,scotus_justice,705.809,707.745,"Why is that, now?"
+1986.85-1563,0,29273,jay_m_bloom,,713.541,716.993,"Well, I'm saying that I don't understand that to be the issue before the Court."
+1986.85-1563,0,15049,antonin_scalia,scotus_justice,733.957,734.535,"Well, do you think so?"
+1986.85-1563,0,29273,jay_m_bloom,,763.571,768.569,But in California the jury is instructed that the arguments of the prosecutor are not the law.
+1986.85-1563,0,15049,antonin_scalia,scotus_justice,804.934,812.119,"Well, I think a jury could reasonably understand that polemic language that way if the instruction were clear enough."
+1986.85-1563,0,29273,jay_m_bloom,,826.253,833.844,"Well, I think you have to view that in the context, though, of the other provisions of the instruction where they talk about the individual."
+1986.85-1563,0,15092,sandra_day_oconnor,scotus_justice,860.631,866.346,Did the defendant's counsel object to the prosecutor's argument on this point?
+1986.85-1563,0,29273,jay_m_bloom,,866.346,869.501,"--I don't think he did, Your Honor."
+1986.85-1563,0,15060,john_paul_stevens,scotus_justice,884.793,892.258,"But, Mr. Bloom, on that point the state court's opinion first states the instruction and then it goes on to say,"
+1986.85-1563,0,29273,jay_m_bloom,,909.362,936.46,"--Well, but the question that was certified... we filed a petition for cert, and as I understand the question that was certified was question one of our petition which was, whether an instruction at the penalty phase on these issues violates the Eighth Amendment where the defendant has been permitted unlimited opportunity to present mitigating evidence, and the instruction merely advised the tryer of fact not to consider matters not relevant to the offense or the offender."
+1986.85-1563,0,15049,antonin_scalia,scotus_justice,936.46,948.378,"Well, if we adhere to that and we agree that the instructions alone would not be bad but combined with the argument would be bad, what would we do?"
+1986.85-1563,0,29273,jay_m_bloom,,955.345,967.465,"Well, I think what happens, though, is the Supreme Court of California viewed the prosecutor's arguments in the context of what we would construe its misunderstanding of the validity of the instructions."
+1986.85-1563,0,15049,antonin_scalia,scotus_justice,1000.905,1008.745,"So, you would say, then, we would remand for separate consideration of the instruction... of the argument if we have a problem with that?"
+1986.85-1563,0,29273,jay_m_bloom,,1008.745,1024.051,"I would think that that would be an appropriate way to do it because again, I think the Supreme Court of California has what I believe is a misunderstanding of what the concepts in this instruction mean versus concepts of mitigation."
+1986.85-1563,0,15049,antonin_scalia,scotus_justice,1032.281,1034.97,"Of course, part of the problem is, it's not just the instruction in this case."
+1986.85-1563,0,29273,jay_m_bloom,,1045.34,1047.152,"That's true, in Louisiana--"
+1986.85-1563,0,15049,antonin_scalia,scotus_justice,1047.152,1048.027,I don't mean instructions.
+1986.85-1563,0,29273,jay_m_bloom,,1050.307,1059.271,"--Well, again those arguments, we don't know... those arguments are not this case, obviously, and there may be error in those other cases."
+1986.85-1563,0,15049,antonin_scalia,scotus_justice,1066.55,1073.016,"Except it's a little hard to hear the state come before us and tell us, listen, all this excludes is emotion."
+1986.85-1563,0,29273,jay_m_bloom,,1082.997,1085.355,"--Well, but again--"
+1986.85-1563,0,15049,antonin_scalia,scotus_justice,1085.355,1089.213,"I'm sure it's not your fault, but it has to be the State's fault."
+1986.85-1563,0,29273,jay_m_bloom,,1089.213,1109.876,"--Well, again those cases are not this case, and our position would be that if you are going to reach the merits of the arguments to the prosecutor, that they are consistent with what we are saying here because at one point in his argument he tells the jury, don't consider sympathy for the victims any more than you would consider sympathy or any of these emotions for the defendant."
+1986.85-1563,0,15104,thurgood_marshall,scotus_justice,1187.283,1190.985,"Mr. Bloom, do you say the State has a right to do this?"
+1986.85-1563,0,29273,jay_m_bloom,,1193.781,1196.357,"Well, but again--"
+1986.85-1563,0,15104,thurgood_marshall,scotus_justice,1196.357,1197.795,And you're objecting to that.
+1986.85-1563,0,29273,jay_m_bloom,,1197.795,1198.904,--We're objecting but--
+1986.85-1563,0,15104,thurgood_marshall,scotus_justice,1198.904,1201.451,"When you are talking about the State, what are you talking about?"
+1986.85-1563,0,29273,jay_m_bloom,,1201.451,1203.449,"--Well, we're talking about the people of the State of California."
+1986.85-1563,0,15104,thurgood_marshall,scotus_justice,1223.083,1230.375,The Court said that you cannot tell a jury that you can't have any sympathy for the defendant.
+1986.85-1563,0,29273,jay_m_bloom,,1230.375,1233.046,"--Well, it didn't say sympathy for the defendant."
+1986.85-1563,0,15104,thurgood_marshall,scotus_justice,1234.577,1238.03,"Well, that's what the State Court said."
+1986.85-1563,0,29273,jay_m_bloom,,1238.03,1238.733,Well--
+1986.85-1563,0,15104,thurgood_marshall,scotus_justice,1238.733,1241.075,And you said the State didn't say that?
+1986.85-1563,0,29273,jay_m_bloom,,1241.075,1253.679,"--Well, first of all as I indicated, what we are saying is, as we said in California versus Ramos, the State or the people have a right to have certain factors considered in the death penalty equation."
+1986.85-1563,0,15104,thurgood_marshall,scotus_justice,1317.562,1318.125,Alone.
+1986.85-1563,0,29273,jay_m_bloom,,1318.125,1320.545,"Well, it says,"
+1986.85-1563,0,15104,thurgood_marshall,scotus_justice,1323.42,1325.091,"I said the word ""alone""."
+1986.85-1563,0,29273,jay_m_bloom,,1327.762,1329.48,"--I'm sorry, I don't understand."
+1986.85-1563,0,15104,thurgood_marshall,scotus_justice,1329.48,1330.308,"You said it said ""alone""."
+1986.85-1563,0,29273,jay_m_bloom,,1332.462,1334.415,I'm sorry.
+1986.85-1563,0,15141,william_h_rehnquist,scotus_justice,1377.774,1378.929,"Thank you, Mr. Bloom."
+1986.85-1563,1,36124,monica_knox,,1380.538,1386.52,"Thank you, Mr. Chief Justice, and may it please the Court:"
+1986.85-1563,1,15071,byron_r_white,scotus_justice,1467.129,1469.722,Was there any objection to that evidence by anybody?
+1986.85-1563,1,36124,monica_knox,,1469.722,1470.112,No.
+1986.85-1563,1,15071,byron_r_white,scotus_justice,1472.361,1477.454,"And the judge certainly didn't say, what's the purpose of all this?"
+1986.85-1563,1,36124,monica_knox,,1477.454,1478.483,"No, he didn't."
+1986.85-1563,1,15092,sandra_day_oconnor,scotus_justice,1543.662,1582.162,"Ms. Knox, if in this case the judge had not given the instruction, the catchall instruction about relevant mitigating evidence as to the crime but had made it clear in that instruction that the jury could consider evidence going to the background and character of the defendant, but nevertheless had given the sympathy instruction that the State petitioned on, would you be making this same argument?"
+1986.85-1563,1,36124,monica_knox,,1594.376,1601.389,Respondent's position is that the anti-sympathy instruction alone is unconstitutional in all circumstances.
+1986.85-1563,1,15049,antonin_scalia,scotus_justice,1637.235,1638.733,"Oh, I don't know that that's so."
+1986.85-1563,1,36124,monica_knox,,1645.59,1646.98,It certainly does.
+1986.85-1563,1,15049,antonin_scalia,scotus_justice,1646.98,1650.056,"So, that isn't necessarily true, it seems to me."
+1986.85-1563,1,36124,monica_knox,,1660.975,1661.957,No.
+1986.85-1563,1,15071,byron_r_white,scotus_justice,1688.166,1691.898,What was the order granting certiorari?
+1986.85-1563,1,36124,monica_knox,,1691.898,1698.833,What the order said was restricted to the first question presented in the petition for cert.--
+1986.85-1563,1,15071,byron_r_white,scotus_justice,1698.833,1699.552,Which was?
+1986.85-1563,1,36124,monica_knox,,1699.552,1705.941,"--Which was, whether the giving of an anti-sympathy instruction was unconstitutional."
+1986.85-1563,1,15049,antonin_scalia,scotus_justice,1705.941,1707.425,"Now, you're making your case weaker than it is."
+1986.85-1563,1,36124,monica_knox,,1735.82,1742.021,"No, it doesn't, and I don't believe that respondent's argument hinges on the argument of the prosecutor."
+1986.85-1563,1,15092,sandra_day_oconnor,scotus_justice,1753.86,1757.781,Was any objection made to the prosecutor's argument at trial?
+1986.85-1563,1,36124,monica_knox,,1757.781,1760.687,"No, there was not an objection made to the prosecutor's argument."
+1986.85-1563,1,15141,william_h_rehnquist,scotus_justice,1768.669,1777.228,"Ms. Knox, let me go back just a minute to your own view of the proper construction of the question presented which we granted certiorari on."
+1986.85-1563,1,36124,monica_knox,,1794.145,1794.504,No.
+1986.85-1563,1,15049,antonin_scalia,scotus_justice,1869.021,1870.225,"Ms. Knox, how do you get that?"
+1986.85-1563,1,36124,monica_knox,,1942.978,1944.916,--I think there are two answer to that.
+1986.85-1563,1,15049,antonin_scalia,scotus_justice,2030.4,2031.228,Where is that new language?
+1986.85-1563,1,36124,monica_knox,,2031.228,2035.475,--It's now in the standard Caljic instruction.
+1986.85-1563,1,15049,antonin_scalia,scotus_justice,2040.006,2045.098,"Of course, even when that's given you would still come in and object if the anti-sympathy instruction were given, I presume?"
+1986.85-1563,1,36124,monica_knox,,2045.098,2045.925,Yes.
+1986.85-1563,1,15049,antonin_scalia,scotus_justice,2084.815,2089.11,"To the use of the word ""emotion"" too, that they shouldn't put aside their emotions?"
+1986.85-1563,1,36124,monica_knox,,2089.11,2091.455,"--Well, I think the--"
+1986.85-1563,1,15049,antonin_scalia,scotus_justice,2091.455,2098.951,"I mean, is that the next case after we disapprove sympathy... excluding sympathy, would we be asked to disapprove the exclusion of emotion?"
+1986.85-1563,1,36124,monica_knox,,2098.951,2111.727,"--No, I don't think that's the next case, because I think that... well, I think if the judge were to instruct the jury to disregard emotion and not say anything further, yes, that would be wrong."
+1986.85-1563,1,15141,william_h_rehnquist,scotus_justice,2157.131,2165.847,"But, counsel, the language in the instruction here was qualified by the word ""mere"", ""mere sympathy""."
+1986.85-1563,1,36124,monica_knox,,2184.998,2189.918,"Well, first of all, I don't believe it is a correct reading of the instruction because--"
+1986.85-1563,1,15141,william_h_rehnquist,scotus_justice,2189.918,2191.979,"If it were, do you think it would be objectionable?"
+1986.85-1563,1,36124,monica_knox,,2191.979,2196.119,"--Yes, I think it's objectionable because it's very unclear what that means."
+1986.85-1563,1,15141,william_h_rehnquist,scotus_justice,2252.847,2261.016,"You know, if we were a commission or a committee of the California Bar sitting down to compose jury instructions, maybe we wouldn't come up with this one."
+1986.85-1563,1,36124,monica_knox,,2275.9,2279.961,And I think we can do that.
+1986.85-1563,1,15049,antonin_scalia,scotus_justice,2295.143,2307.373,"But you think we would approve an instruction that says to the jury, you may consider your feelings of retribution in deciding what penalty to impose; you may consider your thirst for retribution?"
+1986.85-1563,1,36124,monica_knox,,2310.825,2314.511,I don't think you need an instruction for that because I think that just naturally happens.
+1986.85-1563,1,15049,antonin_scalia,scotus_justice,2314.511,2318.057,"Oh, I know, but let's assume California says, let's do it, and they have an instruction like that."
+1986.85-1563,1,36124,monica_knox,,2318.994,2326.257,"Well, I think that the comments this Court has made in cases such as Gregg versus Georgia indicate that you would, yes."
+1986.85-1563,1,15049,antonin_scalia,scotus_justice,2326.257,2334.487,"Well, the state in setting up a criminal system can have retribution as one of the purposes of its penal system."
+1986.85-1563,1,36124,monica_knox,,2349.731,2352.573,Yes.
+1986.85-1563,1,15049,antonin_scalia,scotus_justice,2352.573,2354.542,You would?
+1986.85-1563,1,36124,monica_knox,,2357.634,2369.051,"I think that without telling the jury that, though, that that in fact does happen, that that... in part, that's my point, that these are all very natural reactions."
+1986.85-1563,1,15049,antonin_scalia,scotus_justice,2369.051,2373.595,"It's an imperfect world, and it may well be that the jury doesn't always follow instructions."
+1986.85-1563,1,36124,monica_knox,,2383.31,2386.45,Let's say the jury makes their best attempt to do that.
+1986.85-1563,1,15049,antonin_scalia,scotus_justice,2417.221,2433.557,"But the use under the California instructions is that you put the aggravating factors on one side and the mitigating factors on the other side, and prescinding from emotion or sympathy, the California courts say, you decide which outweighs the other, making believe you are an emotionless judge."
+1986.85-1563,1,36124,monica_knox,,2439.695,2455.549,"Yes, because to say that you put the aggravating evidence on one side and the mitigating evidence on the other side makes it sound like what you're doing is something that is very mechanical, that all you do is, you know, see how many are over here and see how many are over there, and whatever side has the most number wins."
+1986.85-1563,1,15071,byron_r_white,scotus_justice,2467.122,2482.585,"--some evidence that may suggest to the jury that there is a reason for forgiving the defendant for what he did, is that forbidden by this instruction?"
+1986.85-1563,1,36124,monica_knox,,2482.585,2485.881,"Yes, I think it is forbidden by this instruction."
+1986.85-1563,1,15071,byron_r_white,scotus_justice,2503.889,2506.84,Let's take age.
+1986.85-1563,1,36124,monica_knox,,2523.615,2532.034,"No, I don't think it did, but one of the factors specifically given to the jury as something they could consider, the age of the defendant."
+1986.85-1563,1,15071,byron_r_white,scotus_justice,2532.034,2537.609,"Well, I know, I know, but... well, I take it that... wouldn't the age just provoke sympathy?"
+1986.85-1563,1,36124,monica_knox,,2550.292,2554.431,"Well, I think the factor of age can work in several different ways."
+1986.85-1563,1,15071,byron_r_white,scotus_justice,2568.692,2575.159,"Well, and any mental disturbances or anything like that?"
+1986.85-1563,1,36124,monica_knox,,2575.159,2578.658,"Well, I think that you have to look at the instruction carefully, though."
+1986.85-1563,1,15071,byron_r_white,scotus_justice,2615.754,2619.502,"Here's the evidence, that this fellow's been a good man all his life."
+1986.85-1563,1,36124,monica_knox,,2637.636,2644.726,--I believe that there is a sympathetic component in that analysis.
+1986.85-1563,1,15071,byron_r_white,scotus_justice,2644.726,2659.579,"Well, do you think this instruction forbade the jury from taking that into consideration, saying, well, he just doesn't deserve the death penalty, he's probably never going to do this again, this was one of those crimes of passion that will never happen again?"
+1986.85-1563,1,36124,monica_knox,,2659.579,2662.547,"Yes, I believe that's exactly what the instruction does."
+1986.85-1563,1,15071,byron_r_white,scotus_justice,2699.768,2703.454,"You don't think the word ""mere""... isn't the word ""mere"" in the instruction?"
+1986.85-1563,1,36124,monica_knox,,2703.454,2705.501,"There is a word ""mere"" in the instruction."
+1986.85-1563,1,15071,byron_r_white,scotus_justice,2705.501,2706.702,You don't think that helps any either?
+1986.85-1563,1,36124,monica_knox,,2706.702,2707.109,No.
+1986.85-1563,1,15141,william_h_rehnquist,scotus_justice,2739.705,2754.654,"There are an awful lot of jury instructions that have never been challenged by any responsible defense lawyer which, if you treated them as if you're parsing provisions of the Internal Revenue Code, you could adduce some doubt about which adjective modified which."
+1986.85-1563,1,36124,monica_knox,,2758.278,2770.477,"--Perhaps it's not, Your Honor, but I think that we have... we're dealing with a decision between a defendant's life and death, and we should be very careful what we tell jurors."
+1986.85-1563,1,15141,william_h_rehnquist,scotus_justice,2773.415,2785.815,"But we also, if there are 170 cases in California that depend on whether or not this instruction is unconstitutional, we should also be very careful not just to get into a very arcane word game."
+1986.85-1563,1,36124,monica_knox,,2785.815,2789.126,And I'm not advocating that we should.
+1986.85-1563,1,15141,william_h_rehnquist,scotus_justice,2815.913,2819.256,But didn't one of the dissenting judges make some comment to that effect?
+1986.85-1563,1,36124,monica_knox,,2825.519,2828.706,"Justice Lucas was not referring to the anti-sympathy instruction, Your Honor."
+1986.85-1563,1,15092,sandra_day_oconnor,scotus_justice,2852.402,2857.556,"Is this instruction, though, one that is quite common nationwide?"
+1986.85-1563,1,36124,monica_knox,,2869.066,2869.707,No.
+1986.85-1563,1,15071,byron_r_white,scotus_justice,2876.079,2883.591,Death penalty statutes that have produced a lot of people on death rows?
+1986.85-1563,1,36124,monica_knox,,2885.84,2886.402,I don't know.
+1986.85-1563,1,15071,byron_r_white,scotus_justice,2888.652,2890.198,"Well, how about Florida?"
+1986.85-1563,1,36124,monica_knox,,2890.198,2890.854,No.
+1986.85-1563,1,15071,byron_r_white,scotus_justice,2895.29,2895.618,Texas?
+1986.85-1563,1,36124,monica_knox,,2895.618,2896.712,"I'm not sure about Texas, Your Honor."
+1986.85-1563,1,15071,byron_r_white,scotus_justice,2896.712,2897.336,Georgia?
+1986.85-1563,1,36124,monica_knox,,2897.336,2899.18,No.
+1986.85-1563,1,15071,byron_r_white,scotus_justice,2903.147,2903.444,Alabama?
+1986.85-1563,1,36124,monica_knox,,2903.444,2904.303,I don't know about Alabama.
+1986.85-1563,1,15071,byron_r_white,scotus_justice,2904.303,2905.193,Louisiana?
+1986.85-1563,1,36124,monica_knox,,2905.193,2906.631,"I'm sorry, I don't know."
+1986.85-1563,1,15049,antonin_scalia,scotus_justice,2906.631,2914.675,"The trouble is, you don't know which way the sympathy is going to break, for the victim or the offender, and that's part of the problem."
+1986.85-1563,1,36124,monica_knox,,2936.431,2943.711,"Maybe so, but the whole penalty decision cannot be a totally rational, objective decision."
+1986.85-1563,1,15049,antonin_scalia,scotus_justice,2953.223,2953.862,We have been trying.
+1986.85-1563,1,36124,monica_knox,,2953.862,2961.438,"--Well, but to try with an anti-sympathy instruction is essentially to tilt the scale towards death for a defendant."
+1986.85-1563,1,15049,antonin_scalia,scotus_justice,3045.543,3047.309,I forgot what you answered before.
+1986.85-1563,1,36124,monica_knox,,3055.166,3061.383,"As long as it's clear to the jury that factors such as sympathy, compassion and mercy can be considered."
+1986.85-1563,1,15049,antonin_scalia,scotus_justice,3071.645,3077.517,"Well, if you just said emotion, it would probably eliminate compassion, wouldn't it?"
+1986.85-1563,1,36124,monica_knox,,3077.517,3081.359,I don't think that we can constitutionally eliminate compassion.
+1986.85-1563,1,15049,antonin_scalia,scotus_justice,3097.541,3103.21,We are just trying to figure out how many standard instructions... and how many states eliminate emotion.
+1986.85-1563,1,36124,monica_knox,,3110.191,3110.894,Yes.
+1986.85-1563,1,15141,william_h_rehnquist,scotus_justice,3141.507,3143.288,"Your time has expired, Ms. Knox."
+1986.85-1563,2,29273,jay_m_bloom,,3146.507,3295.016,"Yes, Your Honor."
+1986.85-1563,2,15141,william_h_rehnquist,scotus_justice,3295.5,3296.686,"Thank you, Mr. Bloom."

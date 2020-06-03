@@ -1,0 +1,209 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2008.06-1249,0,15086,john_g_roberts_jr,scotus_justice,0.0,5.052,"We'll hear argument first this morning in Case 06-1249, Wyeth v. Levine."
+2008.06-1249,0,42213,seth_p_waxman,,12.474,22.746,"Mr. Chief Justice, and may it please the Court: This case concerns conflict pre-emption under the Supremacy Clause, and the conflict presented here is stark."
+2008.06-1249,0,15113,anthony_m_kennedy,scotus_justice,55.185,58.103,"Just at the outset, I'll just make one comment."
+2008.06-1249,0,42213,seth_p_waxman,,91.843,97.211,"--Well, let me make sure, because I do think we do agree, and I want to make sure that I'm understood, Justice Kennedy."
+2008.06-1249,0,15084,ruth_bader_ginsburg,scotus_justice,147.41,147.827,Mr. Waxman--
+2008.06-1249,0,42213,seth_p_waxman,,147.827,148.445,--that--
+2008.06-1249,0,15084,ruth_bader_ginsburg,scotus_justice,148.445,153.916,--It didn't say -- it didn't say IV across the board.
+2008.06-1249,0,42213,seth_p_waxman,,178.365,184.434,"--Yes it did, Justice Ginsburg, and I want to cite you to the portions of the record that demonstrate that it did."
+2008.06-1249,0,15068,samuel_a_alito_jr,scotus_justice,348.001,365.13,"How could the -- how could the FDA concluded that IV push was safe and effective when on the benefit side of this you don't have a life-saving drug, you have a drug that relieves nausea, and on the risk side you have the risk of gangrene?"
+2008.06-1249,0,42213,seth_p_waxman,,365.13,379.639,"I mean, there was testimony -- Justice Alito, I can go over the testimony, but there is -- there was testimony in this very case about those very circumstances in which direct IV injection is indicated."
+2008.06-1249,0,15084,ruth_bader_ginsburg,scotus_justice,418.947,427.286,But that doesn't answer the question of was it -- the risk of gangrene and amputation is there.
+2008.06-1249,0,42213,seth_p_waxman,,436.476,443.213,"--Justice Ginsburg, this is labeling that is directed at medical professionals."
+2008.06-1249,0,15113,anthony_m_kennedy,scotus_justice,457.555,459.924,The FDA was never concerned with risks versus benefit?
+2008.06-1249,0,42213,seth_p_waxman,,459.924,463.293,"--The FDA -- well, the FDA certainly is."
+2008.06-1249,0,15086,john_g_roberts_jr,scotus_justice,575.216,587.94,"I'd like you to address the distinction between the medical device area and the drug area because in the medical device area, of course, you have an express pre-emption clause, while here in contrast you don't."
+2008.06-1249,0,42213,seth_p_waxman,,587.94,588.607,--Yes.
+2008.06-1249,0,15086,john_g_roberts_jr,scotus_justice,639.873,645.027,If that's true you would have expected the Federal Drug Act to have a similar express pre-emption provision.
+2008.06-1249,0,42213,seth_p_waxman,,655.133,664.505,"Well, let me address both the established background of State actions and then the pre-emption clause difference, if I may."
+2008.06-1249,0,15042,david_h_souter,scotus_justice,816.034,820.921,"Well, it required it because that is what the FDA had approved as a label."
+2008.06-1249,0,42213,seth_p_waxman,,858.879,869.752,"The liability in this case was not predicated on the fact that Wyeth didn't go to the -- remember, the FDA had approved this label two years before Miss Levine was injured."
+2008.06-1249,0,15042,david_h_souter,scotus_justice,879.71,883.578,"But as I understand it, Wyeth's argument is not this argument."
+2008.06-1249,0,42213,seth_p_waxman,,908.729,909.295,--Right.
+2008.06-1249,0,15042,david_h_souter,scotus_justice,909.295,917.601,"As I understand it, Wyeth's argument is: Whatever is on the label, in fact, is the standard of conflict."
+2008.06-1249,0,42213,seth_p_waxman,,931.892,932.86,"Yes, you are right."
+2008.06-1249,0,15042,david_h_souter,scotus_justice,1007.592,1010.027,"Well, is it -- is it strict liability or negligence?"
+2008.06-1249,0,42213,seth_p_waxman,,1019.382,1024.286,--Either a negligence theory or a strict-liability theory would be pre-empted.
+2008.06-1249,0,15086,john_g_roberts_jr,scotus_justice,1025.936,1026.703,"Thank you, counsel."
+2008.06-1249,1,22617,edwin_s_kneedler,,1041.027,1059.507,"Mr. Chief Justice, and may it please the Court: The State law duties on which Respondent's tort claims are based are pre-empted because they conflict with the FDA's determination that Phenergan injection is safe and effective under the conditions of use recommended or suggested in the labeling."
+2008.06-1249,1,15084,ruth_bader_ginsburg,scotus_justice,1059.507,1069.696,"Mr. Kneedler, at the outset, would you clarify something that is central, I think, to this case?"
+2008.06-1249,1,22617,edwin_s_kneedler,,1109.005,1125.533,"The -- the FDA, to my knowledge, has never taken the position that -- that, as a general matter, a manufacturer may change a label without -- without the existence of new information that justifies a revision."
+2008.06-1249,1,15049,antonin_scalia,scotus_justice,1142.828,1144.628,But when -- when would there be a tort remedy?
+2008.06-1249,1,22617,edwin_s_kneedler,,1146.863,1152.684,"As Mr. Waxman mentioned, if -- if the State standard was the same as the Federal standard, there wouldn't be any conflict."
+2008.06-1249,1,15049,antonin_scalia,scotus_justice,1163.075,1169.979,"What if they found out about new information which would, if properly considered, alter what the labeling ought to be?"
+2008.06-1249,1,22617,edwin_s_kneedler,,1175.55,1187.107,"--Well, the position we are arguing for here would not cover that situation, but -- but there could be a further situation of pre-emption, if I could just explain why."
+2008.06-1249,1,15049,antonin_scalia,scotus_justice,1187.723,1200.081,"--You mean if you failed to provide the FDA the new information that you think negates the provisions on the -- on the label, you still couldn't be sued?"
+2008.06-1249,1,22617,edwin_s_kneedler,,1200.081,1200.515,--No.
+2008.06-1249,1,15049,antonin_scalia,scotus_justice,1257.286,1262.655,What if -- what if you brought it to the FDA's attention and the FDA just hasn't acted on it?
+2008.06-1249,1,22617,edwin_s_kneedler,,1266.142,1270.011,"You would be authorized, but if FDA then rejects -- rejects the labeling--"
+2008.06-1249,1,15049,antonin_scalia,scotus_justice,1270.011,1279.45,"I understand, but in the interim, you could -- could you be subject to a State tort suit for not changing the label when -- when you had the power to do so?"
+2008.06-1249,1,22617,edwin_s_kneedler,,1279.45,1283.937,"--I -- if -- if FDA has taken no action at all, then I think you -- you could be."
+2008.06-1249,1,15084,ruth_bader_ginsburg,scotus_justice,1292.71,1295.579,"But why is that -- why is that likely, considering the huge number of drugs?"
+2008.06-1249,1,22617,edwin_s_kneedler,,1310.254,1319.777,"If I could make two points about that: The first is, as I said, we are not arguing that there is pre-emption in a situation where there is new information that is not brought to FDA's attention."
+2008.06-1249,1,15139,stephen_g_breyer,scotus_justice,1379.733,1385.386,"Why isn't -- why isn't the fact that some certain number of people are getting gangrene, why isn't that new information?"
+2008.06-1249,1,22617,edwin_s_kneedler,,1385.386,1394.492,The risk -- the way FDA -- and this is set forth in the changes being affected regulation amendment that was--
+2008.06-1249,1,15139,stephen_g_breyer,scotus_justice,1394.492,1398.896,"That was all passed long after the events here took place, I think."
+2008.06-1249,1,22617,edwin_s_kneedler,,1398.896,1399.929,--But -- but--
+2008.06-1249,1,15139,stephen_g_breyer,scotus_justice,1399.929,1414.989,"So at the time, you read the regulation, I think a person would think that he was free drug manufacturer if he learned something new to strengthen -- strengthens the contraindication, put it in."
+2008.06-1249,1,22617,edwin_s_kneedler,,1414.989,1424.177,"--As FDA explained in 2008, when it promulgated this regulation, it's been FDA's long-standing interpretation that only new information would justify a change."
+2008.06-1249,1,15139,stephen_g_breyer,scotus_justice,1424.177,1425.879,Why wouldn't that be new?
+2008.06-1249,1,22617,edwin_s_kneedler,,1425.879,1433.45,New information means new information about a risk that is greater in severity or frequency.
+2008.06-1249,1,15139,stephen_g_breyer,scotus_justice,1434.283,1436.735,If you get a certain number of cases.
+2008.06-1249,1,22617,edwin_s_kneedler,,1436.735,1442.556,"--There is no claim -- there is no claim here that either of those -- in the record in this case, that either of those was true."
+2008.06-1249,1,15139,stephen_g_breyer,scotus_justice,1442.556,1444.806,That's because nobody brought up this new information point.
+2008.06-1249,1,22617,edwin_s_kneedler,,1461.35,1463.85,That's a legal question not a factual one.
+2008.06-1249,1,15139,stephen_g_breyer,scotus_justice,1465.218,1466.168,Yes it's a legal question.
+2008.06-1249,1,22617,edwin_s_kneedler,,1466.168,1475.008,"--It was argued to the Vermont Supreme Court, and I don't think -- I don't think that Respondent -- Respondent has noted that it wasn't raised, but I don't think it's argued that it's waived."
+2008.06-1249,1,15139,stephen_g_breyer,scotus_justice,1485.215,1486.915,But we are not making an advisory opinion.
+2008.06-1249,1,22617,edwin_s_kneedler,,1511.014,1511.699,--Okay.
+2008.06-1249,1,15139,stephen_g_breyer,scotus_justice,1512.749,1513.666,What's your response to that?
+2008.06-1249,1,22617,edwin_s_kneedler,,1513.666,1515.401,--If I could make one further point about that.
+2008.06-1249,1,15113,anthony_m_kennedy,scotus_justice,1542.302,1544.67,I don't understand what we're talking about here.
+2008.06-1249,1,22617,edwin_s_kneedler,,1548.372,1549.339,--Right.
+2008.06-1249,1,15113,anthony_m_kennedy,scotus_justice,1549.339,1551.491,--showing increased frequency or increased severity?
+2008.06-1249,1,22617,edwin_s_kneedler,,1551.491,1552.141,That's correct.
+2008.06-1249,1,15113,anthony_m_kennedy,scotus_justice,1552.141,1552.708,Right?
+2008.06-1249,1,22617,edwin_s_kneedler,,1559.014,1559.564,No.
+2008.06-1249,1,15113,anthony_m_kennedy,scotus_justice,1567.0,1578.391,--You agree with -- you agree with Mr. Waxman that the FDA specifically addressed the risks and benefits of IV push as opposed to the risks of arterial exposures?
+2008.06-1249,1,22617,edwin_s_kneedler,,1578.391,1590.616,"It specifically addressed in the labeling that the FDA approved, and I think that's all that needs to be looked at in -- it's just as in Riegle, where the preemption turns on that device, in that case, and the labeling that was presented."
+2008.06-1249,1,15113,anthony_m_kennedy,scotus_justice,1643.417,1647.718,You're talking about changing but you can supplement without changing the label.
+2008.06-1249,1,22617,edwin_s_kneedler,,1647.718,1650.17,"--No -- no, you cannot."
+2008.06-1249,1,15049,antonin_scalia,scotus_justice,1657.01,1659.51,You can supplement only when there is new information?
+2008.06-1249,1,22617,edwin_s_kneedler,,1659.51,1666.382,"--When there is new information and even then, it has to be in the form of a new drug -- a supplemental drug application to the agency."
+2008.06-1249,1,15086,john_g_roberts_jr,scotus_justice,1666.382,1677.424,"Thank you, Mr. Kneedler."
+2008.06-1249,2,20869,david_c_frederick,,1680.376,1685.094,"Thank you, Mr. Chief Justice."
+2008.06-1249,2,15049,antonin_scalia,scotus_justice,1732.907,1733.823,Excuse me.
+2008.06-1249,2,20869,david_c_frederick,,1763.442,1768.413,--FDA never considered any comparative risks of IV push versus IV drip.
+2008.06-1249,2,15086,john_g_roberts_jr,scotus_justice,1770.78,1780.721,"What about the various portions of the label in the record that Mr. Waxman addressed and Mr. Kneedler, representing the FDA, said they specifically considered IV push risks?"
+2008.06-1249,2,20869,david_c_frederick,,1780.721,1795.313,"--What the evidence showed was that FDA certainly was aware that there are different forms of intravenous administration of drugs, but it never considered that the risk of IV push so greatly increased the risks of a catastrophic injury--"
+2008.06-1249,2,15086,john_g_roberts_jr,scotus_justice,1795.313,1795.863,"Well, they have to."
+2008.06-1249,2,20869,david_c_frederick,,1818.929,1830.404,"--Mr. Chief Justice, here there was no way FDA could have made this determination because the risks of IV push are so catastrophic compared to the benefit which the testimony at trial showed--"
+2008.06-1249,2,15049,antonin_scalia,scotus_justice,1830.404,1832.237,"Well, you're just contradicting the labeling."
+2008.06-1249,2,20869,david_c_frederick,,1844.128,1844.544,--No.
+2008.06-1249,2,15049,antonin_scalia,scotus_justice,1844.544,1861.839,But the labeling made it very clear that the preferred method of administering this medicine was -- was -- was muscular and -- and that there were serious risks involved in -- in the IV push.
+2008.06-1249,2,20869,david_c_frederick,,1872.028,1880.001,"The testimony at trial showed that the doctor acted with a standard of care that was not negligent, and that was based on expert testimony."
+2008.06-1249,2,15049,antonin_scalia,scotus_justice,1880.001,1880.401,No.
+2008.06-1249,2,20869,david_c_frederick,,1892.709,1896.326,"And the testimony at trial showed that that had no bearing on her injury, because--"
+2008.06-1249,2,15049,antonin_scalia,scotus_justice,1896.326,1896.742,Had no bearing.
+2008.06-1249,2,20869,david_c_frederick,,1897.292,1897.892,--Yes.
+2008.06-1249,2,15049,antonin_scalia,scotus_justice,1938.919,1941.021,You established that there were new problems?
+2008.06-1249,2,20869,david_c_frederick,,1960.282,1963.684,That was not our burden and that was not how the testimony came in at trial.
+2008.06-1249,2,15049,antonin_scalia,scotus_justice,1987.734,1991.788,"It proposed a more restrictive label to the FDA, didn't it?"
+2008.06-1249,2,20869,david_c_frederick,,1999.976,2007.463,"--Footnote one of the Vermont Supreme Court's opinion disputes that point, because it says the label was different."
+2008.06-1249,2,15086,john_g_roberts_jr,scotus_justice,2020.287,2027.858,I thought your -- I thought your theory was that this type of administration of the drug should not be allowed.
+2008.06-1249,2,20869,david_c_frederick,,2039.248,2050.89,"Well, as the jury was instructed, Mr. Chief Justice, and the evidence came in at trial, it was -- it was somewhat larger than that in the sense that a State failure to warn claim doesn't prescribe particular wording."
+2008.06-1249,2,15086,john_g_roberts_jr,scotus_justice,2055.36,2061.43,"Well, it simply says that if you go ahead with the label like this, you don't have to pay $10 million whenever it goes wrong."
+2008.06-1249,2,20869,david_c_frederick,,2066.649,2070.453,"--But the label itself is not set in stone, Mr. Chief Justice."
+2008.06-1249,2,15086,john_g_roberts_jr,scotus_justice,2082.927,2091.033,So your case depends upon us determining that the risk at issue here that was presented to the jury was a new risk that the FDA did not consider?
+2008.06-1249,2,20869,david_c_frederick,,2091.033,2091.499,No.
+2008.06-1249,2,15049,antonin_scalia,scotus_justice,2100.055,2108.209,"What if it referred to new drug risks, then, in your preceding sentence, where you are saying manufacturers change it all the time as new drug risks become apparent?"
+2008.06-1249,2,20869,david_c_frederick,,2108.209,2108.828,The testimony--
+2008.06-1249,2,15049,antonin_scalia,scotus_justice,2108.828,2113.03,"What you mean is whether or not new drug risks become apparent, they have to change, right?"
+2008.06-1249,2,20869,david_c_frederick,,2113.03,2116.399,--The question is what does the manufacturer know and when did this manufacturer know it?
+2008.06-1249,2,15086,john_g_roberts_jr,scotus_justice,2139.764,2140.43,Suppose--
+2008.06-1249,2,15042,david_h_souter,scotus_justice,2140.43,2145.768,"With respect to the obligation in this case, may I go back to an earlier question that Justice Scalia asked you?"
+2008.06-1249,2,20869,david_c_frederick,,2171.818,2178.472,"Well, the FDA itself said in the Solicitor General's brief at page 25 that it was deemed to be a nonsubstantive change."
+2008.06-1249,2,15042,david_h_souter,scotus_justice,2180.341,2191.565,"Well, regardless of what their, their semantic label was, was there a request at least to -- to beef up the warning against using IV push?"
+2008.06-1249,2,20869,david_c_frederick,,2196.451,2205.908,"--It was a different label and it was a different strength of warning, but it didn't have to do with the relative risks and benefits of IV push versus IV drip."
+2008.06-1249,2,15042,david_h_souter,scotus_justice,2205.908,2206.558,What would it--
+2008.06-1249,2,20869,david_c_frederick,,2206.558,2207.524,That was the crucial point.
+2008.06-1249,2,15042,david_h_souter,scotus_justice,2207.524,2208.108,--What would it have said?
+2008.06-1249,2,20869,david_c_frederick,,2208.108,2219.549,"This is set out at footnote of the Vermont Supreme Court opinion, which is set out in the joint -- in the petition appendix at pages 4a to 5a, and it goes on for two pages."
+2008.06-1249,2,15042,david_h_souter,scotus_justice,2277.052,2289.126,"But you -- you also, to be clear on it, as I understand it, you do not accept the position that the FDA puts forward, that the obligation depends upon the accrual of new information."
+2008.06-1249,2,20869,david_c_frederick,,2289.126,2290.661,"--Well, how you--"
+2008.06-1249,2,15042,david_h_souter,scotus_justice,2290.661,2297.299,"Any information, new or old, as I understand it, on your argument raises this obligation to -- to act."
+2008.06-1249,2,20869,david_c_frederick,,2297.299,2324.949,"--I think that the dispute is -- is what constitutes new information, because we don't take issue with the notion that new information can be new analysis of prior submitted data; and what the amicus brief by Dr. Budhwani et al. Points out is that there was a lot of unpublished information about the harms of Phenergan that was known to Wyeth or should have been known to Wyeth in the '80s and '90s that would have justified a change under the CEE regulations."
+2008.06-1249,2,15068,samuel_a_alito_jr,scotus_justice,2324.949,2347.065,"Well, suppose the record showed that the FDA clearly considered whether IV push should be contraindicated and concluded it should not be and prescribed the label that now appears on the drug; and then, as some of the other arguments have referenced, the very day after the FDA made that ruling, Ms. Levine was injured."
+2008.06-1249,2,20869,david_c_frederick,,2351.35,2352.386,That be pre-empted.
+2008.06-1249,2,15068,samuel_a_alito_jr,scotus_justice,2362.991,2367.145,So your argument is -- is predicated on the existence of new information.
+2008.06-1249,2,20869,david_c_frederick,,2370.347,2375.565,"No, it's -- well, it is not -- I think there are two things to keep analytically clear."
+2008.06-1249,2,15049,antonin_scalia,scotus_justice,2396.313,2399.848,And -- and is entitled to amend the labeling automatically.
+2008.06-1249,2,20869,david_c_frederick,,2399.848,2400.565,That's correct.
+2008.06-1249,2,15049,antonin_scalia,scotus_justice,2400.565,2416.107,"I envision a -- a scheme under which manufacturers who are worried about jury liability of -- of the magnitude that occurred in this case saying, gee, why should we take chances?"
+2008.06-1249,2,20869,david_c_frederick,,2452.696,2460.35,"Justice Scalia, that would promote public safety, because it puts into the hands of doctors the information that enables them to make individualized risk determinations."
+2008.06-1249,2,15049,antonin_scalia,scotus_justice,2460.35,2467.539,It would not promote public safety if you believe that the name of this game is balancing benefits and costs.
+2008.06-1249,2,20869,david_c_frederick,,2467.539,2468.289,And Congress said--
+2008.06-1249,2,15049,antonin_scalia,scotus_justice,2468.289,2480.43,"And if you are simply eliminating certain drugs which people who -- who have real desperate need for could -- could be benefited by, you're not benefiting the public."
+2008.06-1249,2,20869,david_c_frederick,,2480.43,2484.899,"--No, and in fact that's contrary to the policy determination Congress made."
+2008.06-1249,2,15049,antonin_scalia,scotus_justice,2506.914,2509.699,And that applies even if it's approved by the FDA?
+2008.06-1249,2,20869,david_c_frederick,,2509.699,2510.416,Yes.
+2008.06-1249,2,15049,antonin_scalia,scotus_justice,2512.485,2515.853,You're saying FDA approval doesn't -- doesn't give you any protection at all?
+2008.06-1249,2,20869,david_c_frederick,,2515.853,2519.905,--It -- it provides you a basis for marketing your -- your product.
+2008.06-1249,2,15049,antonin_scalia,scotus_justice,2519.905,2522.441,But -- but -- but the marketing may be a misbranding?
+2008.06-1249,2,20869,david_c_frederick,,2522.441,2539.802,"In -- the FDA itself said so in 1979 in 44 Federal Register, which we cite in our brief, that even an original label may be misbranded if the drug manufacturer subsequently learns that it was not adequate for the safe use of the drug."
+2008.06-1249,2,15049,antonin_scalia,scotus_justice,2539.802,2547.658,"Well then, gee, then all of the qualifications you were making earlier about whether it's new information or a new assessment, that's irrelevant."
+2008.06-1249,2,20869,david_c_frederick,,2547.658,2548.208,"No, it's--"
+2008.06-1249,2,15049,antonin_scalia,scotus_justice,2548.208,2553.562,"You're saying whenever it's unsafe, whatever the FDA has approved, you have a lawsuit."
+2008.06-1249,2,20869,david_c_frederick,,2553.562,2554.128,--No.
+2008.06-1249,2,15049,antonin_scalia,scotus_justice,2561.032,2564.234,There -- there was nothing about new information in what you just said.
+2008.06-1249,2,20869,david_c_frederick,,2568.286,2569.053,--And that's--
+2008.06-1249,2,15049,antonin_scalia,scotus_justice,2569.053,2570.503,Is that -- is that -- is that your position?
+2008.06-1249,2,20869,david_c_frederick,,2570.503,2575.891,"--Our position is that the duty is on the manufacturer to make a safe label, and if the label is--"
+2008.06-1249,2,15042,david_h_souter,scotus_justice,2575.891,2599.757,"But getting to Justice Scalia's point, as I understand your answer to an earlier question, on the day that the FDA approves the label, if there is no further information indicating danger, then any liability that is based upon what the -- the kind of information that the FDA knew would be pre-empted."
+2008.06-1249,2,20869,david_c_frederick,,2626.807,2634.58,"--That's fair, but let me just make clear that our test would require the FDA to consider and reject the specific basis on which the State law--"
+2008.06-1249,2,15049,antonin_scalia,scotus_justice,2634.58,2643.686,If that's a fair statement then you have to retract your -- your earlier assertion that whenever it's not safe it's misbranded.
+2008.06-1249,2,20869,david_c_frederick,,2645.369,2646.536,"--I'm not going to retract that, Justice Scalia."
+2008.06-1249,2,15049,antonin_scalia,scotus_justice,2646.536,2647.104,--which is it?
+2008.06-1249,2,20869,david_c_frederick,,2649.488,2665.182,"The basis -- the basis of the FDA's approval is on the basis of limited information, which Congress has said for public safety reasons -- we are not doing a balancing here; we are doing this for public safety -- And if the label is not adequate for public safety it is a misbranded drug."
+2008.06-1249,2,15042,david_h_souter,scotus_justice,2665.182,2682.061,"Okay, but if -- if the so-called misbranding is determined to be misbranding, based upon information which was given to the FDA, as I understand your position, you would admit that there was pre-emption."
+2008.06-1249,2,20869,david_c_frederick,,2682.061,2685.429,"I -- I think there is pre-emption, but that does not mean--"
+2008.06-1249,2,15042,david_h_souter,scotus_justice,2685.429,2685.879,Okay.
+2008.06-1249,2,20869,david_c_frederick,,2686.329,2686.946,--Maybe there is no--
+2008.06-1249,2,15042,david_h_souter,scotus_justice,2686.946,2696.468,"--In other words, there is that one exception at least to the broad statement that you gave in answer to Justice Scalia?"
+2008.06-1249,2,20869,david_c_frederick,,2696.468,2697.82,--Let me try to untangle it this way.
+2008.06-1249,2,15042,david_h_souter,scotus_justice,2705.49,2709.628,But the -- but the misbranding is of no consequence to liability.
+2008.06-1249,2,20869,david_c_frederick,,2709.628,2710.544,"--Well, if--"
+2008.06-1249,2,15042,david_h_souter,scotus_justice,2710.544,2719.031,"In other words, I think you're saying if there -- if there would be pre-emption it may be misbranded, but there cannot be any recovery in a State tort suit."
+2008.06-1249,2,20869,david_c_frederick,,2719.031,2719.9,--That's correct.
+2008.06-1249,2,15042,david_h_souter,scotus_justice,2720.883,2721.366,Okay.
+2008.06-1249,2,20869,david_c_frederick,,2725.035,2728.07,"--In that very hypothetical, yes."
+2008.06-1249,2,15042,david_h_souter,scotus_justice,2728.07,2728.422,Okay.
+2008.06-1249,2,20869,david_c_frederick,,2728.422,2742.579,"But the point is that the failure is that the failure-to-warn claim tracks the misbranding provision; and if you look at the jury instructions in this case, the wording is very close to the wording of the misbranding provision in terms of the adequacy of the warning that must be provided."
+2008.06-1249,2,15060,john_paul_stevens,scotus_justice,2742.579,2743.431,Mr. Frederick--
+2008.06-1249,2,20869,david_c_frederick,,2743.431,2747.3,All State law is doing is providing a remedy that is absent from Federal law.
+2008.06-1249,2,15060,john_paul_stevens,scotus_justice,2747.3,2752.871,"--Mr. Frederick, I'd like to put the misbranding point to one side and just concentrate on pre-emption."
+2008.06-1249,2,20869,david_c_frederick,,2765.195,2771.333,The fact is there was no consideration and rejection of a stronger IV push warning.
+2008.06-1249,2,15086,john_g_roberts_jr,scotus_justice,2795.614,2806.136,"--So now, your friends on the other side said there was specific consideration of IV push as opposed to simply arterial exposure, and that that is laid forth in the labeling."
+2008.06-1249,2,20869,david_c_frederick,,2823.479,2827.716,"And the Vermont Supreme Court was quite emphatic about this, Mr. Chief Justice."
+2008.06-1249,2,15086,john_g_roberts_jr,scotus_justice,2827.716,2830.334,"Well, I don't know if the Vermont Supreme Court was emphatic about it."
+2008.06-1249,2,20869,david_c_frederick,,2838.773,2846.444,And you search in the joint appendix in vain for communications between Wyeth and FDA communicating about the particular risks of IV push.
+2008.06-1249,2,15084,ruth_bader_ginsburg,scotus_justice,2846.444,2852.165,What -- can you turn to the references that Mr. Waxman and Mr. Kneedler made?
+2008.06-1249,2,20869,david_c_frederick,,2861.037,2867.941,I will acknowledge that the references in some instances suggest IV push.
+2008.06-1249,2,15042,david_h_souter,scotus_justice,2904.383,2912.988,"Well, is your argument that they couldn't have considered these comparative risks, because if they had, they would have come out differently; because they didn't come out differently, we have to infer that they didn't consider it?"
+2008.06-1249,2,20869,david_c_frederick,,2912.988,2915.857,"It's two things: One, they didn't consider it and that's clearly--"
+2008.06-1249,2,15042,david_h_souter,scotus_justice,2915.857,2916.207,"No, I--"
+2008.06-1249,2,20869,david_c_frederick,,2916.207,2916.773,"--Second,--"
+2008.06-1249,2,15042,david_h_souter,scotus_justice,2916.773,2924.213,"--Apart from your analysis that they couldn't have or they would have come out differently, how did we know that they didn't consider it?"
+2008.06-1249,2,20869,david_c_frederick,,2924.213,2926.979,--There are communications that went back and forth between the company.
+2008.06-1249,2,15042,david_h_souter,scotus_justice,2934.152,2939.806,"And do these -- when you say ""communications"", do you mean starting with the original application for approval of the label?"
+2008.06-1249,2,20869,david_c_frederick,,2939.806,2943.925,--The original application actually is not known.
+2008.06-1249,2,15042,david_h_souter,scotus_justice,2949.761,2958.85,"So, you are saying all the correspondence that we do know about, that is extant, fails to mention comparative risk."
+2008.06-1249,2,20869,david_c_frederick,,2958.85,2959.384,That's correct.
+2008.06-1249,2,15049,antonin_scalia,scotus_justice,2959.886,2961.036,But the label doesn't.
+2008.06-1249,2,20869,david_c_frederick,,2973.877,2975.229,"--It does not, Justice Scalia."
+2008.06-1249,2,15113,anthony_m_kennedy,scotus_justice,2998.261,3024.06,"If we conclude that new information is the criterion for deciding this case, if we reject the argument that misbranding at the outset allows State law to supplement the duty, but that if there's new information, then the label has to be changed -- if it that's the line we draw, can this verdict be sustained?"
+2008.06-1249,2,20869,david_c_frederick,,3024.06,3028.031,"--Yes, I think it can be sustained on the basis of--"
+2008.06-1249,2,15113,anthony_m_kennedy,scotus_justice,3028.031,3029.447,And the Vermont court's opinion?
+2008.06-1249,2,20869,david_c_frederick,,3029.447,3049.444,"--I don't think that the Vermont Supreme Court's opinion totally, because it does go into the area that you're talking about, Justice Kennedy, but if I could refer the Court to trial record testimony, which is set out in the joint appendix and more elaborately in the trial record itself, which makes clear that Wyeth knew or should have known about these comparative risks."
+2008.06-1249,2,15060,john_paul_stevens,scotus_justice,3064.287,3069.524,"May I ask this: When did the duty on the part of Wyeth to have a different label arise, in your view?"
+2008.06-1249,2,20869,david_c_frederick,,3069.524,3076.678,I think it probably arose in the early '70s when a -- when there was a published -- or there was an incident--
+2008.06-1249,2,15060,john_paul_stevens,scotus_justice,3076.678,3081.166,Did it arise before or after submitting the original drug application?
+2008.06-1249,2,20869,david_c_frederick,,3081.166,3087.903,--A strong argument can be made that it would have been before the 1970s application when they were reformatting.
+2008.06-1249,2,15060,john_paul_stevens,scotus_justice,3176.294,3182.964,Does that boil down to a claim that there was new information that was available between the original approval and the time of the lawsuit?
+2008.06-1249,2,20869,david_c_frederick,,3182.964,3189.118,"Well, by 1955 or do you mean in 1998 and 2000?"
+2008.06-1249,2,15060,john_paul_stevens,scotus_justice,3189.118,3189.701,Either one.
+2008.06-1249,2,20869,david_c_frederick,,3195.855,3198.474,"It would be on the basis, I think, of both."
+2008.06-1249,2,15113,anthony_m_kennedy,scotus_justice,3263.417,3277.39,"Well, to put the burden on the manufacturer seems to me inconsistent with what 10 States have said, that there is a rebuttable presumption and inconsistent also with the instructions the jury received in this case, that you can consider the FDA label."
+2008.06-1249,2,20869,david_c_frederick,,3283.228,3289.484,"Well, let me -- let me address that question because your question goes to the regulatory compliance defense and that is not a pre-emption defense."
+2008.06-1249,2,15139,stephen_g_breyer,scotus_justice,3332.244,3335.846,The -- the part I'm trying to figure out is this: Suppose it was before trial.
+2008.06-1249,2,20869,david_c_frederick,,3404.907,3408.359,"I'm not totally, Justice Breyer, I confess, but let me try to address it this way."
+2008.06-1249,2,15139,stephen_g_breyer,scotus_justice,3408.359,3410.394,"I mean, I'm wondering still what happens."
+2008.06-1249,2,20869,david_c_frederick,,3428.122,3429.105,You are absolutely right about that.
+2008.06-1249,2,15139,stephen_g_breyer,scotus_justice,3429.105,3437.461,"So what I'm trying to figure out -- and I don't know if ""burden of proof"" is the right word -- where nobody says a word about it, who wins?"
+2008.06-1249,2,20869,david_c_frederick,,3447.317,3450.269,"I think the duty is always going to be on the manufacturer, Justice Breyer."
+2008.06-1249,2,15086,john_g_roberts_jr,scotus_justice,3486.542,3487.525,"Thank you, counsel."
+2008.06-1249,3,42213,seth_p_waxman,,3489.977,3492.179,"Thank you, Mr. Chief Justice."
+2008.06-1249,3,15086,john_g_roberts_jr,scotus_justice,3681.065,3681.732,Sure.
+2008.06-1249,3,42213,seth_p_waxman,,3681.732,3686.803,Summary judgment was decided at the -- pre-emption was decided at summary judgment before trial.
+2008.06-1249,3,15086,john_g_roberts_jr,scotus_justice,3738.319,3738.952,"Thank you, counsel."

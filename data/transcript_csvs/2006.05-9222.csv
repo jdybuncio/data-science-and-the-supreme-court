@@ -1,0 +1,114 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2006.05-9222,0,15086,john_g_roberts_jr,scotus_justice,0.0,3.999,We will hear argument next in Burton versus Stewart.
+2006.05-9222,0,30283,jeffrey_l_fisher,,4.546,7.622,"Thank you, Mr. Chief Justice, and may it please the Court:"
+2006.05-9222,0,15042,david_h_souter,scotus_justice,44.873,58.774,"Mr. Fisher, you know, assuming we read it the way you read it, I've got a basic problem that doesn't really surface until you get to the end of the briefs and I wonder if you would comment on it at the beginning of the argument."
+2006.05-9222,0,30283,jeffrey_l_fisher,,99.367,101.398,"Yes, he does, Justice Souter."
+2006.05-9222,0,15042,david_h_souter,scotus_justice,101.398,101.882,What is that fact?
+2006.05-9222,0,30283,jeffrey_l_fisher,,101.882,106.409,It's precisely the same kind of fact that the judge had to find in Blakely itself.
+2006.05-9222,0,15042,david_h_souter,scotus_justice,128.245,147.238,"I thought the only fact that had to be found was that, given the classification sentencing scheme Washington had, there would be, in effect, a free crime, no incremental punishment, unless there were consecutive sentencing."
+2006.05-9222,0,30283,jeffrey_l_fisher,,152.72,157.233,"That would be a fact, Justice Souter, but that is not the way the Washington law works."
+2006.05-9222,0,15042,david_h_souter,scotus_justice,177.741,182.693,So it's a misnomer to say it's a mere free crime criterion?
+2006.05-9222,0,30283,jeffrey_l_fisher,,185.722,186.252,That's right.
+2006.05-9222,0,15042,david_h_souter,scotus_justice,224.721,231.328,"So the extra fact then is a lot like the sort of heinous, atrocious and cruel aggravator?"
+2006.05-9222,0,30283,jeffrey_l_fisher,,233.484,234.858,"Exactly, it's part of the same list."
+2006.05-9222,0,15139,stephen_g_breyer,scotus_justice,246.385,250.931,"When you say extra culpability, do you mean the nature of the crime?"
+2006.05-9222,0,30283,jeffrey_l_fisher,,283.511,285.62,"That's right, Justice Breyer."
+2006.05-9222,0,15042,david_h_souter,scotus_justice,319.028,323.292,But could the nature of the additional crimes themselves satisfy it?
+2006.05-9222,0,30283,jeffrey_l_fisher,,345.891,361.136,"No, it couldn't, and the Washington decision that I've cited to you will help you with this, because it makes it clear that to trigger an aggravator to run sentences concurrently, just as under Blakely itself, there has to be something above and beyond the elements of the crime or the crimes themselves."
+2006.05-9222,0,15060,john_paul_stevens,scotus_justice,375.083,381.643,"But, Mr. Fisher, even if it's true that there are other examples out there that might qualify for that example, it's not true of this case?"
+2006.05-9222,0,30283,jeffrey_l_fisher,,381.643,383.956,"I'm not sure I follow, Justice Stevens."
+2006.05-9222,0,15060,john_paul_stevens,scotus_justice,383.956,396.23,"In this particular case, there was... it was necessary to make an additional finding of fact, even though there may be cases out there in which you could get consecutive sentences without an additional finding of fact?"
+2006.05-9222,0,30283,jeffrey_l_fisher,,396.23,400.698,You're certainly right that in this case you needed to have an extra finding of fact.
+2006.05-9222,0,15086,john_g_roberts_jr,scotus_justice,420.784,421.753,I'm not sure I understand that.
+2006.05-9222,0,30283,jeffrey_l_fisher,,438.979,443.305,"Under some State systems that might be the case, Mr. Chief Justice."
+2006.05-9222,0,15086,john_g_roberts_jr,scotus_justice,451.146,452.239,So you'd have--
+2006.05-9222,0,30283,jeffrey_l_fisher,,452.239,459.705,"Unless they make the exact kind of extra finding, and it refers them to the precise same statute that was at issue in Blakely itself."
+2006.05-9222,0,15086,john_g_roberts_jr,scotus_justice,459.705,466.75,--And you're saying that that extra finding can't simply be that this is a conviction for a particular serious crime that's going to go unpunished otherwise?
+2006.05-9222,0,30283,jeffrey_l_fisher,,466.75,467.077,That's right.
+2006.05-9222,0,15086,john_g_roberts_jr,scotus_justice,467.077,481.821,"So under this system if you had a regime where if you're convicted of murder and you've been convicted of rape before that, you get an enhanced sentence beyond the normal murder sentence, that would not contravene Blakely."
+2006.05-9222,0,30283,jeffrey_l_fisher,,489.255,497.064,"If the judge needs to make an extra finding beyond the elements of either of those two crimes to run them consecutively, then it would violate Blakely."
+2006.05-9222,1,44202,william_b_collins,,1543.673,1547.031,"Mr. Chief Justice, and may it please the Court:"
+2006.05-9222,1,15042,david_h_souter,scotus_justice,1592.108,1594.7,So that is the only judgment that could be attacked on habeas?
+2006.05-9222,1,44202,william_b_collins,,1594.7,1595.98,"Exactly, Your Honor."
+2006.05-9222,1,15086,john_g_roberts_jr,scotus_justice,1610.085,1617.706,"It doesn't matter... I'm looking at joint appendix page 34, date of judgment of conviction, he puts in December 16, 1994."
+2006.05-9222,1,44202,william_b_collins,,1617.706,1620.424,"He does put that in, Your Honor, but I don't think that's determinative."
+2006.05-9222,1,15086,john_g_roberts_jr,scotus_justice,1649.272,1652.537,Where does it say a new judgment was issued in March of '98?
+2006.05-9222,1,44202,william_b_collins,,1652.537,1661.407,"--Your Honor, that's in the joint appendix at page 3, which shows that--"
+2006.05-9222,1,15086,john_g_roberts_jr,scotus_justice,1661.407,1663.016,"Oh, I thought you meant it was in his petition."
+2006.05-9222,1,44202,william_b_collins,,1663.016,1680.026,"--No, no, it wasn't in his petition, Your Honor, but it doesn't seem... the fact that he was looking back at his conviction, original conviction being 1994, and that's what he wrote down, doesn't mean that that was the conviction and that was the judgment under which he was in custody, because it simply wasn't."
+2006.05-9222,1,15139,stephen_g_breyer,scotus_justice,1738.923,1749.855,"The fact is, we're looking at page 34, 34 of the joint appendix, and that is the first petition that was filed; is that right?"
+2006.05-9222,1,44202,william_b_collins,,1749.855,1750.668,"That's correct, Your Honor."
+2006.05-9222,1,15139,stephen_g_breyer,scotus_justice,1750.668,1755.213,"So you look at it and it says, filed December 28, and maybe this is what you said."
+2006.05-9222,1,44202,william_b_collins,,1767.085,1776.222,"Well, Your Honor, it doesn't say he's attacking anything else, but the problem with that is that when he filed this petition, he was not being confined--"
+2006.05-9222,1,15139,stephen_g_breyer,scotus_justice,1776.222,1782.374,"Yes, but I imagine there are tens of thousands off petitions filed in the Federal system."
+2006.05-9222,1,44202,william_b_collins,,1834.618,1836.227,--I'm not aware of any precedent.
+2006.05-9222,1,15139,stephen_g_breyer,scotus_justice,1836.227,1836.477,No.
+2006.05-9222,1,44202,william_b_collins,,1848.988,1854.767,"Well, Your Honor, I think you have to say the judgment that's being attacked is the judgment by which he's being confined."
+2006.05-9222,1,15139,stephen_g_breyer,scotus_justice,1856.422,1860.843,I don't know what implication this is going to have for a lot of these petitions.
+2006.05-9222,1,15042,david_h_souter,scotus_justice,1875.977,1891.331,"Well, Mr. Collins, isn't it your position that, number one, the only judgment that he can attack on habeas is the judgment that is extant at the time of the habeas proceeding, and that is the '92 judgment that follows the resentencing?"
+2006.05-9222,1,44202,william_b_collins,,1900.218,1900.576,"--Exactly, Your Honor."
+2006.05-9222,1,15042,david_h_souter,scotus_justice,1900.576,1912.352,"And if he chooses to attack only the earlier conviction which is the premise of the later judgment, he has simply in effect waived any other issue."
+2006.05-9222,1,44202,william_b_collins,,1927.206,1928.175,"That's exactly right, Your Honor."
+2006.05-9222,1,15086,john_g_roberts_jr,scotus_justice,1928.175,1940.796,"And further, I thought you told me that the petition goes on to indicate that the conviction while affirmed, that the sentence was reversed, looking at 9(b) on joint appendix--"
+2006.05-9222,1,44202,william_b_collins,,1941.7,1943.919,"Yes, Your Honor."
+2006.05-9222,1,15086,john_g_roberts_jr,scotus_justice,1943.919,1944.981,Which in other--
+2006.05-9222,1,44202,william_b_collins,,1951.572,1952.838,"That's right, Your Honor."
+2006.05-9222,1,15060,john_paul_stevens,scotus_justice,1961.241,1963.552,May I just be sure I understand one thing about that?
+2006.05-9222,1,44202,william_b_collins,,1975.187,1978.109,"--It had been entered by the trial court, Your Honor, so he--"
+2006.05-9222,1,15060,john_paul_stevens,scotus_justice,1978.109,1980.451,Pursuant to the reversal of the--
+2006.05-9222,1,44202,william_b_collins,,1980.451,1981.045,"--Exactly, Your Honor."
+2006.05-9222,1,15060,john_paul_stevens,scotus_justice,2000.178,2001.271,--Of the second judgment?
+2006.05-9222,1,44202,william_b_collins,,2001.271,2002.021,Of the second judgment.
+2006.05-9222,1,15049,antonin_scalia,scotus_justice,2002.021,2027.105,"Why does it make any less sense to allow separate habeas challenges to, first, the conviction, and then the sentence, than it does to allow separate appeals to this Court from each of those?"
+2006.05-9222,1,44202,william_b_collins,,2045.472,2050.752,"Well, Your Honor, I think we're talking about the habeas corpus statute and there the Court--"
+2006.05-9222,1,15049,antonin_scalia,scotus_justice,2050.752,2065.199,"A fortiori, we have a lot more control over habeas corpus, which is an equitable remedy, than we do over, what is it, 1257, our jurisdictional statute under certiorari."
+2006.05-9222,1,44202,william_b_collins,,2082.38,2083.301,"--Your Honor, I'm sorry."
+2006.05-9222,1,15049,antonin_scalia,scotus_justice,2087.206,2087.768,All right.
+2006.05-9222,1,44202,william_b_collins,,2087.768,2099.607,"The first thing is when... is this a successive... is this a successive petition, and we would say it is, because he filed the first one and then the second one."
+2006.05-9222,1,15049,antonin_scalia,scotus_justice,2147.181,2151.741,But you're saying he can't later bring any claim about the sentence?
+2006.05-9222,1,44202,william_b_collins,,2151.741,2167.454,"That's because Congress in AEDPA has declared that you have to bring all of your claims in your... at one time, and if you don't, then your petition should be dismissed as successive, unless you go through the gatekeeping solution."
+2006.05-9222,1,15042,david_h_souter,scotus_justice,2167.454,2182.464,"So that if the statute governing our review had an exhaustion requirement and a second and successive requirement comparable to the AEDPA requirement, the case that Justice Scalia put would be exactly like this case?"
+2006.05-9222,1,44202,william_b_collins,,2182.464,2183.199,"I believe so, Your Honor."
+2006.05-9222,1,15042,david_h_souter,scotus_justice,2183.199,2184.731,Okay.
+2006.05-9222,1,44202,william_b_collins,,2184.731,2193.164,"So I just briefly want to go, Justice Souter, to where you started about the consecutive sentence issue."
+2006.05-9222,1,15042,david_h_souter,scotus_justice,2246.142,2248.158,That's... I keep doing this.
+2006.05-9222,1,44202,william_b_collins,,2254.14,2255.748,"--I believe it is, Your Honor."
+2006.05-9222,1,15042,david_h_souter,scotus_justice,2255.748,2257.263,Okay.
+2006.05-9222,1,15084,ruth_bader_ginsburg,scotus_justice,2257.263,2279.505,"I thought the law was that the sentence shall be concurrent unless, and the unless is that the judge makes an additional finding, the very same kind of finding that he would make in determining aggravating factor."
+2006.05-9222,1,44202,william_b_collins,,2279.505,2287.126,"Your Honor, the sentence could have been run consecutively because of an aggravating factor."
+2006.05-9222,1,15060,john_paul_stevens,scotus_justice,2314.162,2319.222,Maybe you can give me just a little more help on this.
+2006.05-9222,1,44202,william_b_collins,,2343.806,2345.775,"No, Your Honor."
+2006.05-9222,1,15060,john_paul_stevens,scotus_justice,2346.618,2354.365,You think that just having pointed out that he would get a pass would have been sufficient to justify consecutive sentences?
+2006.05-9222,1,44202,william_b_collins,,2354.365,2357.378,"I think it would, and the State supreme court affirmed this decision."
+2006.05-9222,1,15060,john_paul_stevens,scotus_justice,2357.378,2359.566,"Yeah, but he did make additional findings."
+2006.05-9222,1,44202,william_b_collins,,2365.251,2371.357,"Your Honor, I think... I mean, I agree with you that he did make additional findings."
+2006.05-9222,1,15060,john_paul_stevens,scotus_justice,2371.967,2374.95,It nowhere says they're unnecessary either.
+2006.05-9222,1,44202,william_b_collins,,2374.95,2376.855,"--That's true, Your Honor."
+2006.05-9222,1,15042,david_h_souter,scotus_justice,2413.511,2415.949,That is to say that that would have been sufficient.
+2006.05-9222,1,44202,william_b_collins,,2415.949,2417.104,Exactly.
+2006.05-9222,1,15042,david_h_souter,scotus_justice,2417.104,2431.786,"But in fact that is not what the trial court premised its decision on, because, as Justice Stevens points out, it went on in findings 19, 20, and 21 about deliberate cruelty, sophistication and planning, and so on."
+2006.05-9222,1,44202,william_b_collins,,2454.215,2457.168,"Well, I think that the--"
+2006.05-9222,1,15042,david_h_souter,scotus_justice,2457.168,2484.312,"I guess what I'm saying is the fact that he might have... I'm assuming for the sake of argument that the trial court might on the basis simply of the free crime conclusion have sentenced consecutively, is simply not the case that we've got, because he sentenced consecutively on that basis and on cruelty, sophistication, and so on."
+2006.05-9222,1,44202,william_b_collins,,2484.312,2493.246,"--Well, Your Honor, I believe that the court of appeals felt that that consecutive sentence on the free crimes was... standing alone would have been sufficient."
+2006.05-9222,1,15139,stephen_g_breyer,scotus_justice,2493.246,2494.668,I don't want to take you up.
+2006.05-9222,1,44202,william_b_collins,,2566.357,2575.51,"Well, Your Honor, I think that you could have said that the definition of ""statutory maximum"" is the traditional statutory maximum that was at issue in Apprendi."
+2006.05-9222,1,15084,ruth_bader_ginsburg,scotus_justice,2610.73,2613.277,Wasn't that overturned in Ring?
+2006.05-9222,1,44202,william_b_collins,,2613.277,2614.9,"--It was overturned in Ring, Your Honor."
+2006.05-9222,1,15042,david_h_souter,scotus_justice,2641.514,2657.899,Was it logical for them to conclude it or were they... were they expressing the hope that the Court would draw a distinction which it had not drawn in the formulation that it gave in Apprendi?
+2006.05-9222,1,44202,william_b_collins,,2683.827,2712.533,"I'm not sure that I would agree with that, Justice Souter, only because as I think Justice O'Connor explained in her dissent, there are two ways to read Apprendi, and one of those ways would result in upholding guideline systems which are now invalid because of Blakely and Booker, but really quite different from Apprendi because those systems involve what you would call guided discretion."
+2006.05-9222,1,15042,david_h_souter,scotus_justice,2720.217,2726.308,"Okay, but doesn't that require drawing a distinction that Apprendi did not speak to?"
+2006.05-9222,1,44202,william_b_collins,,2759.546,2760.796,"I believe it definitely would have been something new, Your Honor."
+2006.05-9222,1,15042,david_h_souter,scotus_justice,2760.796,2761.358,Yes.
+2006.05-9222,1,15086,john_g_roberts_jr,scotus_justice,2761.358,2762.466,"Thank you, Mr. Collins."
+2006.05-9222,2,36594,matthew_d_roberts,,2769.556,2772.539,Mr. Chief Justice and may it please the Court:
+2006.05-9222,2,15086,john_g_roberts_jr,scotus_justice,2941.018,2945.126,"Mr. Roberts, do you have a position on whether we have a successive petition problem here?"
+2006.05-9222,2,36594,matthew_d_roberts,,2945.126,2953.122,"We don't have a position on that precise, on that particular issue here, because it can't arise for Federal prisoners."
+2006.05-9222,2,15042,david_h_souter,scotus_justice,3094.348,3095.675,Is that true in fact?
+2006.05-9222,2,36594,matthew_d_roberts,,3095.675,3097.488,"--Well, that is how--"
+2006.05-9222,2,15042,david_h_souter,scotus_justice,3097.488,3102.439,"I'm mean, I'm sure you're reading correctly, but is that in fact true?"
+2006.05-9222,2,36594,matthew_d_roberts,,3116.853,3121.352,--The trial court said each of the three standing alone was sufficient.
+2006.05-9222,2,15042,david_h_souter,scotus_justice,3143.719,3153.276,So we can treat it in effect... and this may be the way to do it... we can treat it as the ultimate sentencer was the Washington appellate court and that's what they said?
+2006.05-9222,2,36594,matthew_d_roberts,,3153.276,3163.787,"Well, what the Washington appellate court essentially, they could have said petitioner is right, those other two aggravating factors couldn't be relied on, and so we're relying on this the standing alone."
+2006.05-9222,2,15086,john_g_roberts_jr,scotus_justice,3290.503,3291.018,"Thank you, counsel."
+2006.05-9222,3,30283,jeffrey_l_fisher,,3293.782,3298.984,Let me say one word on jurisdiction and then turn to two comments on the merits.
+2006.05-9222,3,15086,john_g_roberts_jr,scotus_justice,3477.289,3478.382,"Thank you, Mr. Fisher."

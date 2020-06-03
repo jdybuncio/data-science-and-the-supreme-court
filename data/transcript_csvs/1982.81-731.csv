@@ -1,0 +1,86 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1982.81-731,0,15073,warren_e_burger,scotus_justice,0.0,10.575,We will hear arguments next in Arkansas Electric Cooperative Corporation against Arkansas Public Service Commission.
+1982.81-731,0,39010,robert_d_cabe,,79.842,83.529,"Mr. Chief Justice, and may it please the Court:"
+1982.81-731,0,15141,william_h_rehnquist,scotus_justice,344.348,352.267,"Mr. Cabe, it's your position that that prohibition arises from the Commerce Clause itself, I take it, and not from any other federal legislation."
+1982.81-731,0,39010,robert_d_cabe,,352.267,353.767,"That is correct, Your Honor."
+1982.81-731,0,15092,sandra_day_oconnor,scotus_justice,353.767,364.295,"So you're not arguing, then, that the REA has preempted."
+1982.81-731,0,39010,robert_d_cabe,,364.295,377.913,"Our position has always been in this case, Justice O'Connor, primarily based on the proposition that the Commerce Clause, standing alone, prohibits state assertion of jurisdiction over the rates in question."
+1982.81-731,0,15092,sandra_day_oconnor,scotus_justice,377.913,380.975,You did write in the brief about the REA.
+1982.81-731,0,39010,robert_d_cabe,,380.975,381.709,"Yes, Your Honor."
+1982.81-731,0,15092,sandra_day_oconnor,scotus_justice,381.709,384.662,Did you raise that argument before the Supreme Court in Arkansas?
+1982.81-731,0,39010,robert_d_cabe,,384.662,385.583,Pardon me?
+1982.81-731,0,15092,sandra_day_oconnor,scotus_justice,385.583,389.801,Did you raise that preemption argument in Arkansas?
+1982.81-731,0,39010,robert_d_cabe,,389.801,399.171,"Yes, that argument was raised in the briefs filed with the PSC when the matter was originally heard by the PSC at that stage of the proceeding."
+1982.81-731,0,15141,william_h_rehnquist,scotus_justice,435.516,441.623,"You don't disagree, I take it, with the normal rule that an amicus curiae can't broaden the issues in a case."
+1982.81-731,0,39010,robert_d_cabe,,451.478,452.868,"Yes, Your Honor."
+1982.81-731,0,15071,byron_r_white,scotus_justice,466.909,471.612,Do you think the state court rejected your REA submission?
+1982.81-731,0,39010,robert_d_cabe,,471.612,481.421,The state court specifically held... the state supreme court specifically held that the PSC--
+1982.81-731,0,15071,byron_r_white,scotus_justice,481.421,484.808,To reach its result it had to reject your REA submission.
+1982.81-731,0,39010,robert_d_cabe,,484.808,491.446,"--I'm not sure the REA... we would call it a very strong REA submission, Justice White."
+1982.81-731,0,15071,byron_r_white,scotus_justice,494.039,504.269,"It needs to have been... at least, it needs to have been presented to the highest court of the state before we have even jurisdiction to consider the question."
+1982.81-731,0,39010,robert_d_cabe,,504.269,508.643,--It was... Excuse me... It was raised in the petition for rehearing.
+1982.81-731,0,15071,byron_r_white,scotus_justice,510.096,511.641,That isn't early enough.
+1982.81-731,0,39010,robert_d_cabe,,516.437,520.107,--It was raised in the initial briefs at the PSC level of the proceeding.
+1982.81-731,0,15071,byron_r_white,scotus_justice,520.107,520.81,But how about the supreme court?
+1982.81-731,0,39010,robert_d_cabe,,520.81,522.372,"No, Your Honor, I don't believe it was."
+1982.81-731,0,15071,byron_r_white,scotus_justice,522.372,525.105,I'm not sure we have jurisdiction to reach the question.
+1982.81-731,0,39010,robert_d_cabe,,525.105,530.259,"As I say, in our view it is not necessary to reach the preemption issue."
+1982.81-731,0,15104,thurgood_marshall,scotus_justice,534.647,539.943,You tried two or three times to say what your idea was of what the supreme court said.
+1982.81-731,0,39010,robert_d_cabe,,542.847,556.201,"I was going to say, Justice Marshall, that the supreme court specifically said that the PSC was neither prohibited by the Commerce Clause nor preempted by any federal enactment from exercising jurisdiction in this case."
+1982.81-731,0,15071,byron_r_white,scotus_justice,608.804,617.145,"Well, Attleboro wouldn't just automatically apply to any wholesale sale; it would have to be a wholesale sale in interstate commerce."
+1982.81-731,0,39010,robert_d_cabe,,617.145,618.77,"Exactly, Your Honor, that's correct."
+1982.81-731,0,15071,byron_r_white,scotus_justice,618.77,632.811,"And if this generating facility generated its own power and delivered it over its own lines to local coops within the single state, I wouldn't think... you wouldn't be here arguing that."
+1982.81-731,0,39010,robert_d_cabe,,632.811,646.009,"Absolutely not, Your Honor, and that, in fact, of course, is the situation in Texas where at least until recently, utilities there generated, transmitted and delivered power strictly in interstate commerce without interstate connection."
+1982.81-731,0,15071,byron_r_white,scotus_justice,647.306,656.458,What about the 10 percent that is delivered directly to customers within the state from a generating facility of the--
+1982.81-731,0,39010,robert_d_cabe,,656.458,663.05,It's not delivered directly from the generating facility; it passes over transmission lines that AECC owns.
+1982.81-731,0,15071,byron_r_white,scotus_justice,663.05,663.315,--I see.
+1982.81-731,0,39010,robert_d_cabe,,663.94,665.876,"After it has gone onto the grid, then it might come--"
+1982.81-731,0,15071,byron_r_white,scotus_justice,665.876,667.657,--None of it is delivered directly.
+1982.81-731,0,39010,robert_d_cabe,,667.657,669.938,"--Not by direct connection, no."
+1982.81-731,0,15071,byron_r_white,scotus_justice,678.418,679.231,I see.
+1982.81-731,0,39010,robert_d_cabe,,679.231,708.017,"Given the limited transmission facilities that AEC owns... that AECC owns, and the desirability of buying energy and selling energy to the other interstate companies, AECC could not accomplish its purposes without these complex arrangements with the multi-state systems and grids, which involve energy generated outside the state of Arkansas as well as energy generated inside the state of Arkansas."
+1982.81-731,0,15092,sandra_day_oconnor,scotus_justice,747.313,761.012,"Well, Mr. Cabe, didn't those cases have, though, the fact that the Federal Power Act adoption which did result in a preemption by Congress."
+1982.81-731,0,39010,robert_d_cabe,,783.173,790.499,"In answer to your first question, the Attleboro line of cases was decided before passage of the Federal Power Act."
+1982.81-731,0,15092,sandra_day_oconnor,scotus_justice,797.683,798.293,Right.
+1982.81-731,0,39010,robert_d_cabe,,798.293,802.354,So it was decided without reference to any federal enactment.
+1982.81-731,0,15071,byron_r_white,scotus_justice,842.496,846.648,"So I take it you say there's still a gap, then."
+1982.81-731,0,39010,robert_d_cabe,,853.255,858.878,"Except to the extent that they are regulated or controlled or supervised by REA, Your Honor."
+1982.81-731,0,15071,byron_r_white,scotus_justice,858.878,860.346,"Yes, but not by the federal--"
+1982.81-731,0,39010,robert_d_cabe,,860.346,862.096,Not by the Federal Energy Regulatory Commission.
+1982.81-731,0,15071,byron_r_white,scotus_justice,864.626,868.124,--So the Attleboro gap still exists.
+1982.81-731,0,39010,robert_d_cabe,,868.124,871.436,"Perhaps as to the cooperatives, yes, sir, it does still exist."
+1982.81-731,0,15071,byron_r_white,scotus_justice,878.808,881.511,"Although Congress attempted to fill it, didn't it?"
+1982.81-731,0,39010,robert_d_cabe,,881.511,885.243,--In the Federal Power Act?
+1982.81-731,0,15071,byron_r_white,scotus_justice,944.874,948.686,"And Congress thought Attleboro was the law, I take it."
+1982.81-731,0,39010,robert_d_cabe,,948.686,950.638,Absolutely.
+1982.81-731,0,15071,byron_r_white,scotus_justice,950.638,954.652,"Whether it was right or wrong, they seemed to adopt it."
+1982.81-731,0,39010,robert_d_cabe,,954.652,958.417,"Yes, sir."
+1982.81-731,0,15045,harry_a_blackmun,scotus_justice,1089.644,1099.39,"Mr. Cabe, suppose that Attleboro and Colton were not on the books, had never been decided."
+1982.81-731,0,39010,robert_d_cabe,,1101.842,1104.559,"Yes, sir, I would."
+1982.81-731,0,15045,harry_a_blackmun,scotus_justice,1104.559,1108.106,"And then resting, what, on Pike against Bruce?"
+1982.81-731,0,39010,robert_d_cabe,,1108.106,1117.993,"If you want to apply the Pike versus Bruce Church analysis, Your Honor, we believe that state regulation of these sales is still inappropriate."
+1982.81-731,0,15073,warren_e_burger,scotus_justice,1258.358,1265.012,Mr. Broadwater.
+1982.81-731,1,28991,jeff_broadwater,,1265.012,1271.805,"Mr. Chief Justice, and may it please the Court:"
+1982.81-731,1,15071,byron_r_white,scotus_justice,1463.384,1468.82,Or maybe you should say Professor Tribe correctly read our decision.
+1982.81-731,1,28991,jeff_broadwater,,1468.82,1473.271,--I think so.
+1982.81-731,1,15045,harry_a_blackmun,scotus_justice,1654.462,1660.788,"Counsel, let me ask a pragmatic question."
+1982.81-731,1,28991,jeff_broadwater,,1680.39,1691.293,"Well, I think whether or not the Commission ought to regulate AECC is a legislative question, and the legislature of the state of Arkansas has decided we ought to."
+1982.81-731,1,15092,sandra_day_oconnor,scotus_justice,1793.392,1803.748,"How do you respond to the argument of the appellant that even under the more flexible test, the Arkansas regulatory attempt must be found invalid?"
+1982.81-731,1,28991,jeff_broadwater,,1803.748,1812.369,"I don't agree with that, because I think that first, the sales are essentially local."
+1982.81-731,1,15071,byron_r_white,scotus_justice,1919.233,1924.058,What is the reason that these rates aren't subject to the Federal Power Act?
+1982.81-731,1,28991,jeff_broadwater,,1924.058,1936.927,"The Federal Power Act... the Federal Power Commission held that it didn't have jurisdiction over the rates, and the Federal Court of Appeals I think for the District of Columbia Circuit has also held--"
+1982.81-731,1,15071,byron_r_white,scotus_justice,1936.927,1939.817,And what was the reason it didn't have jurisdiction?
+1982.81-731,1,28991,jeff_broadwater,,1939.817,1948.705,--I think there's an exemption in the Federal Power Act for government instrumentalities.
+1982.81-731,1,15071,byron_r_white,scotus_justice,1948.705,1950.688,"That's what it really turned on, isn't it?"
+1982.81-731,1,28991,jeff_broadwater,,1950.688,1951.844,I think on that--
+1982.81-731,1,15071,byron_r_white,scotus_justice,1951.844,1956.748,Not on its position with respect to wholesale rates in interstate commerce.
+1982.81-731,1,28991,jeff_broadwater,,1956.748,1957.639,"--No, Your Honor."
+1982.81-731,1,15141,william_h_rehnquist,scotus_justice,2172.773,2175.554,"Well, REA is basically a loan organization."
+1982.81-731,1,28991,jeff_broadwater,,2175.554,2176.507,That's right.
+1982.81-731,1,15045,harry_a_blackmun,scotus_justice,2254.334,2257.926,Was this Administrator Cook that you're referring to?
+1982.81-731,1,28991,jeff_broadwater,,2257.926,2258.114,"--Yes, sir."
+1982.81-731,1,15092,sandra_day_oconnor,scotus_justice,2335.989,2341.112,"That opinion didn't persuade enough of my colleagues to agree, though, did it?"
+1982.81-731,1,28991,jeff_broadwater,,2341.112,2341.893,--That may be unfortunate.
+1982.81-731,1,15073,warren_e_burger,scotus_justice,2349.967,2354.106,"Do you have anything further, Mr. Cabe?"
+1982.81-731,2,39010,robert_d_cabe,,2354.106,2374.474,"Only one point, Your Honor, and that is that it would be our observation that the decision in FERC versus Mississippi is not inconsistent with the finding in the Attleboro line of cases of paramount national importance in matters of wholesale sales, in view of the Court's approval of the congressional finding."
+1982.81-731,2,15073,warren_e_burger,scotus_justice,2385.624,2386.812,"Thank you, gentlemen."

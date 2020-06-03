@@ -1,0 +1,162 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2004.03-1039,0,15060,john_paul_stevens,scotus_justice,0.0,6.937,We will now hear argument in Brown against Payton.
+2004.03-1039,0,15760,andrea_n_cortina,,7.985,10.94,"Justice Stevens, and may it please the Court:"
+2004.03-1039,0,15042,david_h_souter,scotus_justice,64.894,84.585,"Well, I thought the holding was that factor (k), standing alone, does... does not raise a... does... does not, standing alone, raise a question of reasonable probability of... of misunderstanding or misapplication of the law."
+2004.03-1039,0,15760,andrea_n_cortina,,125.574,140.806,"--Your Honor, Boyde has two specific components to its decision, which is, first, what factor (k) means standing alone, and you need to resolve that issue, which California did, in deciding the impact of the prosecutor's misstatements concerning factor (k)."
+2004.03-1039,0,15042,david_h_souter,scotus_justice,150.094,150.565,"Well, no, no."
+2004.03-1039,0,15760,andrea_n_cortina,,193.44,196.988,"Your Honor, the... respectfully I disagree."
+2004.03-1039,0,15084,ruth_bader_ginsburg,scotus_justice,221.387,228.407,"What do we make of the Chief Justice's fear statement, not once but twice, in Boyde?"
+2004.03-1039,0,15760,andrea_n_cortina,,252.966,254.99,"No, Justice Ginsburg."
+2004.03-1039,0,15113,anthony_m_kennedy,scotus_justice,289.086,303.659,"Well, do we take... do we take the case on the assumption that the trial court erred in not giving a curative instruction and in saying, well, this is a matter for the attorneys to argue?"
+2004.03-1039,0,15760,andrea_n_cortina,,333.214,346.467,And that is a fact that was expressly considered by the California Supreme Court in appropriately applying Boyde's general test for whether the jury misunderstood the court's instructions and an instruction that facially called for consideration--
+2004.03-1039,0,15084,ruth_bader_ginsburg,scotus_justice,346.467,350.637,"Not that... that the jury misunderstood the judge's instruction, that there was no instruction."
+2004.03-1039,0,15760,andrea_n_cortina,,397.82,398.646,--Yes.
+2004.03-1039,0,15042,david_h_souter,scotus_justice,408.966,415.449,"Well, even... even if... even if that's argument is... is on point, just taking your... your response on its own terms, where do you get a reasonable likelihood?"
+2004.03-1039,0,15760,andrea_n_cortina,,415.449,418.959,--Because the prosecutor's statements cannot be construed in a vacuum.
+2004.03-1039,0,15042,david_h_souter,scotus_justice,431.014,431.962,"Yes, but let's get specific."
+2004.03-1039,0,15760,andrea_n_cortina,,438.938,441.538,Why there is not a reasonable likelihood the jury misunderstood?
+2004.03-1039,0,15042,david_h_souter,scotus_justice,441.538,441.827,Yes.
+2004.03-1039,0,15760,andrea_n_cortina,,460.669,467.423,"One, Your Honor, the judge admonished the jury that the prosecutor's statements were that of an advocate, and that--"
+2004.03-1039,0,15042,david_h_souter,scotus_justice,467.423,467.589,No.
+2004.03-1039,0,15760,andrea_n_cortina,,493.308,506.516,"--The... nevertheless, the judge's response relegated the prosecutor's statements as to his personal opinion as to that of a... some... as... as... of... of... to argument, which is a statement of an advocate."
+2004.03-1039,0,15042,david_h_souter,scotus_justice,519.602,522.945,And the court didn't give them an instruction on this contested point.
+2004.03-1039,0,15760,andrea_n_cortina,,522.945,524.431,--I respectfully disagree.
+2004.03-1039,0,15042,david_h_souter,scotus_justice,524.431,528.146,"He didn't come out and say, yes, you can consider this under (k)."
+2004.03-1039,0,15760,andrea_n_cortina,,529.444,532.687,"No, but (k) says you can consider it under (k)."
+2004.03-1039,0,15042,david_h_souter,scotus_justice,532.687,537.806,(k) says you can consider evidence that... that goes to the gravity of the crime.
+2004.03-1039,0,15760,andrea_n_cortina,,563.152,572.607,"Your Honor, the California Supreme Court reasonably applied Boyde's holding, that factor (k) did call for consideration of character evidence, and that's precisely what Payton presented--"
+2004.03-1039,0,15092,sandra_day_oconnor,scotus_justice,572.607,576.61,"Well, what if we conclude that there was an error here?"
+2004.03-1039,0,15760,andrea_n_cortina,,582.554,592.214,"--Yes, Your Honor, there is a harmless error, but before we even get to harmless error, the fact that you disagree with the ultimate conclusion of the California Supreme Court under AEDPA is not sufficient."
+2004.03-1039,0,15060,john_paul_stevens,scotus_justice,592.214,592.957,May I ask--
+2004.03-1039,0,15760,andrea_n_cortina,,592.957,593.988,The California Supreme Court's decision--
+2004.03-1039,0,15060,john_paul_stevens,scotus_justice,593.988,596.589,--May I ask a question that goes sort of to the beginning?
+2004.03-1039,0,15760,andrea_n_cortina,,602.162,608.356,"--The State concedes, and as the California Supreme Court recognized, the prosecutor misstated the law, but the jury would not--"
+2004.03-1039,0,15060,john_paul_stevens,scotus_justice,608.356,610.623,Do you also concede he did so deliberately?
+2004.03-1039,0,15760,andrea_n_cortina,,616.568,617.932,"--Absolutely not, Your Honor."
+2004.03-1039,0,15060,john_paul_stevens,scotus_justice,656.32,662.719,"Of course, that... that statement went to whether the jury was apt to accept it, not to the question of whether the prosecutor acted improperly."
+2004.03-1039,0,15760,andrea_n_cortina,,662.719,665.608,"--I'm sorry, Your Honor."
+2004.03-1039,0,15113,anthony_m_kennedy,scotus_justice,675.722,686.225,"Well, I... I can see that a... a prosecutor could say, you know, this isn't factor (k) evidence, as a way of saying that this evidence is of little weight."
+2004.03-1039,0,15760,andrea_n_cortina,,699.416,732.564,"--Your Honor, the... the State concedes that the... the prosecutor did make misstatements, but I think that the bulk... as you pointed out, the bulk of the prosecutor's argument went to the weight to be attributed to Payton's mitigating evidence, and actually most of the argument by the prosecutor indicating that Payton's evidence didn't mitigate the seriousness of his rape and murder is... there were arguments that were made by the prosecutor in Boyde and which Boyde found were not objectionable."
+2004.03-1039,0,15084,ruth_bader_ginsburg,scotus_justice,754.196,785.487,"Suppose... suppose I were to take the view that it is a violation of clearly established law for a court to allow a prosecutor repeatedly to misstate the law, misinform the jury about what the law is on a life or death question without correcting that misstatement, without saying to the jury, jury, it's not for the prosecutor to argue what the law is."
+2004.03-1039,0,15760,andrea_n_cortina,,825.528,836.469,"--Well, you can find that the court was wrong and not like what you did... what the court did, but the inquiry is whether the jury misunderstood the instructions as a result of the court's conduct."
+2004.03-1039,0,15084,ruth_bader_ginsburg,scotus_justice,844.187,855.145,"Well, now you're getting to the question I think that Justice O'Connor raised a few minutes ago about are you urging, yes, this is error, but it was harmless?"
+2004.03-1039,0,15760,andrea_n_cortina,,855.145,858.221,"--No, I am not agreeing that this was error at all."
+2004.03-1039,0,15113,anthony_m_kennedy,scotus_justice,865.652,873.371,"Well, but just on that point, if the prosecutor makes a misstatement, doesn't the trial judge have an obligation to correct it if it's significant?"
+2004.03-1039,0,15760,andrea_n_cortina,,873.371,877.336,--The... in this case--
+2004.03-1039,0,15113,anthony_m_kennedy,scotus_justice,877.336,877.912,Or am I wrong?
+2004.03-1039,0,15760,andrea_n_cortina,,881.423,884.19,"--The... I mean, the... the trial court did correct it."
+2004.03-1039,0,15092,sandra_day_oconnor,scotus_justice,894.676,908.915,"Well, what if the prosecutor had said several times to the jury during the course of his arguments that the burden of proof by the State is by a preponderance, not beyond a reasonable doubt?"
+2004.03-1039,0,15760,andrea_n_cortina,,920.683,927.863,"It's not what we'd optimally want the court to do, but that's not the inquiry that's presented and answered by Boyde."
+2004.03-1039,0,15092,sandra_day_oconnor,scotus_justice,941.032,949.866,"Well, normally we would think the trial judge would correct a misstatement of the law by counsel."
+2004.03-1039,0,15760,andrea_n_cortina,,952.716,953.748,--Yes.
+2004.03-1039,0,15092,sandra_day_oconnor,scotus_justice,953.748,955.977,And it wasn't clearly done here.
+2004.03-1039,0,15760,andrea_n_cortina,,967.41,969.845,The court's admonition was sufficient.
+2004.03-1039,0,15084,ruth_bader_ginsburg,scotus_justice,972.983,974.569,What... what admonition was sufficient?
+2004.03-1039,0,15760,andrea_n_cortina,,1003.903,1005.139,"Right, and what was--"
+2004.03-1039,0,15084,ruth_bader_ginsburg,scotus_justice,1005.139,1005.882,And... and you--
+2004.03-1039,0,15760,andrea_n_cortina,,1005.882,1006.254,--Sorry.
+2004.03-1039,0,15084,ruth_bader_ginsburg,scotus_justice,1006.254,1010.506,"--you said the judge corrected it, and I read this joint appendix."
+2004.03-1039,0,15760,andrea_n_cortina,,1012.569,1027.512,The court's admonition that the prosecutor's argument was not evidence but argument of counsel relegated the statements of the prosecutor to that of an advocate and did not take the prosecutor's arguments and elevate it in place of the instructions given--
+2004.03-1039,0,15084,ruth_bader_ginsburg,scotus_justice,1027.512,1032.343,Then... then it... then it has another problem with it because then the judge is saying that's an argument.
+2004.03-1039,0,15760,andrea_n_cortina,,1039.031,1048.03,"--But the analysis is whether there was a reasonable likelihood the jury misunderstood the court's instructions so as to preclude consideration of Payton's mitigating evidence, and that--"
+2004.03-1039,0,15113,anthony_m_kennedy,scotus_justice,1048.03,1055.339,Did the judge instruct the jury that you are to consider all of the evidence which has been received during any part of the trial?
+2004.03-1039,0,15760,andrea_n_cortina,,1055.339,1065.12,"--Yes, Your Honor, and actually that's one of the inquiries that Boyde required, is that you look at the instruction itself, the other instructions, and that's an inquiry the California Supreme Court did, in fact, conduct."
+2004.03-1039,0,15113,anthony_m_kennedy,scotus_justice,1081.838,1095.463,"Oh, are you taking the position that as a matter of California procedure, the jury was entitled to consider matters that... matter that was not within (a) through (k)?"
+2004.03-1039,0,15760,andrea_n_cortina,,1095.463,1109.513,"--I think that the instructions encompassed the jury considering something not specifically in (a) through (k) for purposes of mitigating evidence because the instructions say, you shall consider the evidence presented, and that was Payton's evidence--"
+2004.03-1039,0,15113,anthony_m_kennedy,scotus_justice,1109.513,1110.778,Have the California courts said that?
+2004.03-1039,0,15760,andrea_n_cortina,,1110.778,1112.636,--That?
+2004.03-1039,0,15113,anthony_m_kennedy,scotus_justice,1112.636,1123.039,Have the California courts said that (a) through (k) are... is not intended to be exhaustive at the pre-Payton... pardon me.
+2004.03-1039,0,15760,andrea_n_cortina,,1124.708,1130.347,I don't think that that issue has been presented and decided by the California Supreme Court specifically--
+2004.03-1039,0,15113,anthony_m_kennedy,scotus_justice,1130.347,1137.694,I... I thought the case was being argued to us... correct me if I'm wrong... on... on the theory that this was factor (k) evidence.
+2004.03-1039,0,15760,andrea_n_cortina,,1137.694,1149.295,"--It is our position that it... it does fall within factor (k) evidence, but in deciding whether the... whether Payton's jury was unconstitutionally precluded from considering the evidence, you look to the... all the instructions."
+2004.03-1039,0,15060,john_paul_stevens,scotus_justice,1156.104,1158.704,"But Ms. Cortina, the... the red brief... maybe it's not accurate."
+2004.03-1039,0,15760,andrea_n_cortina,,1178.478,1178.932,--No.
+2004.03-1039,0,15060,john_paul_stevens,scotus_justice,1186.075,1191.21,"So if they misunderstood the factor (k) instruction, they would have thought they could not consider all the evidence."
+2004.03-1039,0,15760,andrea_n_cortina,,1191.21,1199.483,"There was no reasonable likelihood that they felt that they could not consider Payton's evidence under factor (k), and the California Supreme Court--"
+2004.03-1039,0,15060,john_paul_stevens,scotus_justice,1199.483,1202.439,"Well, if they believed the prosecutor, they would have thought they couldn't."
+2004.03-1039,0,15760,andrea_n_cortina,,1202.439,1210.695,"--But there... but as analyzed by the California Supreme Court, it is not reasonably likely that the jury would have accepted the prosecutor's first few misstatements."
+2004.03-1039,0,15060,john_paul_stevens,scotus_justice,1213.38,1219.407,But all... all I'm directing my inquiry to is to the significance of the instruction to consider all the evidence.
+2004.03-1039,0,15760,andrea_n_cortina,,1226.959,1233.275,"--However, nothing in the following instruction says you shall not consider Payton's mitigating evidence."
+2004.03-1039,0,15060,john_paul_stevens,scotus_justice,1233.275,1237.157,"No, but the prosecutor said that if you interpret the last instruction properly, you shall not do so."
+2004.03-1039,0,15760,andrea_n_cortina,,1237.157,1239.962,He said that it didn't fall within factor (k).
+2004.03-1039,0,15042,david_h_souter,scotus_justice,1351.175,1357.408,They... they might have thought that the aggravating circumstances were entitled to... to great weight.
+2004.03-1039,0,15760,andrea_n_cortina,,1361.327,1364.467,"That might be one reasonable conclusion, but the other reasonable conclusion--"
+2004.03-1039,0,15042,david_h_souter,scotus_justice,1364.467,1376.577,"But I mean, that... that is a possible conclusion, and therefore, it doesn't follow from the fact that they raised the question about life without parole that they necessarily had found... that they were necessarily considering the mitigating evidence."
+2004.03-1039,0,15760,andrea_n_cortina,,1376.577,1380.997,"--It's a reasonable inference to be made from the questions asked, and that's what you're looking at."
+2004.03-1039,0,15042,david_h_souter,scotus_justice,1380.997,1382.15,It's... it's one possibility.
+2004.03-1039,0,15760,andrea_n_cortina,,1383.059,1400.437,"It's one reasonable inference, and that's what's the important inquiry, is that the trial... the California Supreme Court reasonably considered the relevant, pertinent facts and all the applicable law in reaching a decision that Payton's jury was not unconstitutionally precluded from considering his mitigating character evidence."
+2004.03-1039,0,15139,stephen_g_breyer,scotus_justice,1461.904,1464.504,How long did the penalty phase take?
+2004.03-1039,0,15760,andrea_n_cortina,,1464.504,1469.623,The penalty phase took about a day with eight witnesses.
+2004.03-1039,0,15060,john_paul_stevens,scotus_justice,1469.623,1473.959,Thank you.
+2004.03-1039,1,20929,dean_r_gits,,1475.278,1479.571,"Thank you, Justice Stevens, and may it please the Court:"
+2004.03-1039,1,15113,anthony_m_kennedy,scotus_justice,1502.028,1506.486,Has factor (k) been supplemented with a CALJIC instruction since Payton?
+2004.03-1039,1,20929,dean_r_gits,,1506.486,1507.163,It has.
+2004.03-1039,1,15113,anthony_m_kennedy,scotus_justice,1521.885,1522.295,Excuse me.
+2004.03-1039,1,20929,dean_r_gits,,1527.125,1532.948,"--It's been a couple of years since I've done a death penalty trial, but I think it's still called factor (k)."
+2004.03-1039,1,15113,anthony_m_kennedy,scotus_justice,1594.386,1595.856,And what was the question?
+2004.03-1039,1,20929,dean_r_gits,,1595.856,1597.797,The question... there were really two questions.
+2004.03-1039,1,15139,stephen_g_breyer,scotus_justice,1614.765,1620.088,Those don't sound as if they thought his conversion to Christianity made a difference.
+2004.03-1039,1,20929,dean_r_gits,,1620.088,1630.779,"I think, Your Honor, what the jury articulated is what this Court has seen on many occasions, the jury's concern about does life without possibility mean life without."
+2004.03-1039,1,15139,stephen_g_breyer,scotus_justice,1630.779,1631.079,Yes.
+2004.03-1039,1,20929,dean_r_gits,,1631.079,1633.38,They never went beyond that at this point in time.
+2004.03-1039,1,15113,anthony_m_kennedy,scotus_justice,1645.89,1652.139,"Well, an equal inference is they just felt that it was entitled to no weight at all given the horrific nature of this... of this crime."
+2004.03-1039,1,20929,dean_r_gits,,1652.139,1652.577,"Yes, I agree."
+2004.03-1039,1,15113,anthony_m_kennedy,scotus_justice,1665.702,1670.326,And you have to show there's a reasonable likelihood that the jury might have come to an opposite conclusion.
+2004.03-1039,1,20929,dean_r_gits,,1670.326,1670.781,Yes.
+2004.03-1039,1,15113,anthony_m_kennedy,scotus_justice,1746.3,1755.692,"Well, on... on that point... and I... I recognize it's... it's not nearly as clean as the hypothetical you present... he did say... this is the prosecutor."
+2004.03-1039,1,20929,dean_r_gits,,1780.628,1783.063,I... I would respond to that by saying two things.
+2004.03-1039,1,15084,ruth_bader_ginsburg,scotus_justice,1826.409,1849.033,"Well, why wouldn't the jury conclude... why isn't it the most logical conclusion that, gee, the judge had us sit here through eight witnesses and listen to all that and he didn't exclude any part of it, so of course we must consider it because otherwise we wouldn't have been exposed to all of it?"
+2004.03-1039,1,20929,dean_r_gits,,1849.033,1855.942,That was a relevant consideration in Boyde and I think a powerful consideration in Boyde and in California v. Brown.
+2004.03-1039,1,15113,anthony_m_kennedy,scotus_justice,1879.415,1888.99,"Well, they... they always have to say whether or not we're going to really weigh this or is it just too tangential, and that's one way of saying, well, this really isn't mitigating."
+2004.03-1039,1,20929,dean_r_gits,,1903.646,1916.317,"Well, when the prosecutor says this doesn't fall under (k) and the defense attorney says it does fall under (k), all I'm indicating is that the argument that this would be viewed as a charade no longer has any effect."
+2004.03-1039,1,15113,anthony_m_kennedy,scotus_justice,1920.858,1923.913,"Well, it's a shorthand for saying it doesn't fall under (k) because it just is of so little weight."
+2004.03-1039,1,20929,dean_r_gits,,1926.225,1927.545,"Yes, Your Honor, they might."
+2004.03-1039,1,15139,stephen_g_breyer,scotus_justice,1935.802,1937.371,Actually that isn't really the issue.
+2004.03-1039,1,20929,dean_r_gits,,1960.589,1960.944,--Yes.
+2004.03-1039,1,15139,stephen_g_breyer,scotus_justice,1962.634,1973.408,"I mean, I would perhaps have come to a different conclusion than California Supreme Court on that question, but we can overturn them only if they're objectively unreasonable."
+2004.03-1039,1,20929,dean_r_gits,,1976.564,1977.7,Yes.
+2004.03-1039,1,15139,stephen_g_breyer,scotus_justice,2060.056,2062.86,"Well, no, but I mean, that's... that's really wrong what the judge did."
+2004.03-1039,1,20929,dean_r_gits,,2106.868,2107.222,--Yes.
+2004.03-1039,1,15092,sandra_day_oconnor,scotus_justice,2139.477,2151.654,"Except if they heard so much of the evidence, isn't it unlikely that the jury thought they couldn't consider what they heard?"
+2004.03-1039,1,20929,dean_r_gits,,2151.654,2158.796,"The more evidence they hear, the more likely it is I think that human beings are going to consider the evidence."
+2004.03-1039,1,15139,stephen_g_breyer,scotus_justice,2327.672,2329.158,Doesn't it?
+2004.03-1039,1,20929,dean_r_gits,,2337.126,2341.956,It is any other circumstance which extenuates the gravity of the crime.
+2004.03-1039,1,15139,stephen_g_breyer,scotus_justice,2341.956,2342.533,--Of the crime.
+2004.03-1039,1,20929,dean_r_gits,,2363.338,2383.666,"Well, as we pointed out in our brief, this Court in... in Skipper... some Justices in... in that decision indicated that... well, in fact, the majority indicated that the post-crime evidence of rehabilitation in prison is, in fact, not anything that relates to culpability."
+2004.03-1039,1,15113,anthony_m_kennedy,scotus_justice,2482.656,2488.146,"I... I see where you're going, and I... I see that there's some parallel."
+2004.03-1039,1,20929,dean_r_gits,,2500.861,2502.181,"--Yes, I... I agree."
+2004.03-1039,1,15139,stephen_g_breyer,scotus_justice,2569.137,2570.335,Is it relevant at all?
+2004.03-1039,1,20929,dean_r_gits,,2588.539,2595.804,"Well, it's certainly relevant to Bill Payton, and... and I don't demean the position of the Court."
+2004.03-1039,1,15139,stephen_g_breyer,scotus_justice,2637.764,2640.636,So all this was at a time before Penry was decided.
+2004.03-1039,1,20929,dean_r_gits,,2640.636,2644.927,It is the time before Penry v. Johnson was decided.
+2004.03-1039,1,15139,stephen_g_breyer,scotus_justice,2644.927,2645.216,Yes.
+2004.03-1039,1,20929,dean_r_gits,,2645.216,2648.271,It is not the time before Penry v. Lynaugh was decided.
+2004.03-1039,1,15139,stephen_g_breyer,scotus_justice,2649.014,2651.493,"Which is the Texas... the Texas... you know, the ones--"
+2004.03-1039,1,20929,dean_r_gits,,2651.493,2653.639,--Both are the Texas case.
+2004.03-1039,1,15139,stephen_g_breyer,scotus_justice,2655.041,2655.868,"--Yes, one and two."
+2004.03-1039,1,20929,dean_r_gits,,2655.868,2656.24,Yes.
+2004.03-1039,1,15092,sandra_day_oconnor,scotus_justice,2656.24,2657.354,Is that--
+2004.03-1039,1,20929,dean_r_gits,,2657.354,2658.18,Yes.
+2004.03-1039,1,15084,ruth_bader_ginsburg,scotus_justice,2766.542,2784.951,"The... the prosecutor, at the very end of his closing to the jury, did seem, even if grudgingly with it, to recognize that... that this evidence was mitigating."
+2004.03-1039,1,20929,dean_r_gits,,2833.083,2843.485,It'll be up to this Court to make a determination as to where the prosecutor was going and whether or not this constitutes a concession that... that the jury could consider the evidence.
+2004.03-1039,1,15139,stephen_g_breyer,scotus_justice,2885.898,2888.871,Do... do we have a transcript of that hearing here?
+2004.03-1039,1,20929,dean_r_gits,,2888.871,2890.357,"--Of what hearing, Your Honor?"
+2004.03-1039,1,15139,stephen_g_breyer,scotus_justice,2890.357,2891.571,"Well, the penalty phase."
+2004.03-1039,1,20929,dean_r_gits,,2891.843,2892.42,Yes.
+2004.03-1039,1,15139,stephen_g_breyer,scotus_justice,2892.42,2893.989,"--one way... if I'm having trouble, I'll just read it."
+2004.03-1039,1,20929,dean_r_gits,,2893.989,2897.128,"It is in the... in the joint appendix, the entire--"
+2004.03-1039,1,15139,stephen_g_breyer,scotus_justice,2897.128,2897.5,The whole thing.
+2004.03-1039,1,20929,dean_r_gits,,2897.5,2903.073,"--Yes, the entire penalty evidence and all argument and the instructions is in there."
+2004.03-1039,1,15060,john_paul_stevens,scotus_justice,2915.127,2916.53,"Thank you, Mr. Gits."
+2004.03-1039,2,15760,andrea_n_cortina,,2920.041,2928.215,"Justice Stevens, the real inquiry is whether the California Supreme Court's decision was objectively unreasonable."
+2004.03-1039,2,15113,anthony_m_kennedy,scotus_justice,2934.38,2936.138,Could you help me on that?
+2004.03-1039,2,15760,andrea_n_cortina,,2953.106,2968.05,"--That is one way of approaching the case, but I think under AEDPA, what you'd look at, which would be the more appropriate way, is how the California Supreme Court analyzed the claim and not first conduct a de novo review about whether there was a reasonable likelihood."
+2004.03-1039,2,15113,anthony_m_kennedy,scotus_justice,2971.105,2976.883,But you can't overturn it on habeas unless there's a reasonable likelihood.
+2004.03-1039,2,15760,andrea_n_cortina,,2976.883,2979.112,--Right.
+2004.03-1039,2,15139,stephen_g_breyer,scotus_justice,3132.427,3135.4,There's a footnote in Boyde that seems to draw that distinction.
+2004.03-1039,2,15760,andrea_n_cortina,,3135.4,3151.746,--The footnote in Boyde actually supports more California's position that factor (k) encompasses any other circumstance that would counsel a sentence less than death as opposed to the Ninth Circuit and Payton's interpretation that factor (k) is limited to the crime.
+2004.03-1039,2,15060,john_paul_stevens,scotus_justice,3238.849,3241.178,"Thank you, Ms.... go ahead and make one more sentence."
+2004.03-1039,2,15760,andrea_n_cortina,,3241.178,3251.852,--The California Supreme Court's decision was a reasonable application of Boyde and the Ninth Circuit's reversal of it is... and this Court should--
+2004.03-1039,2,15060,john_paul_stevens,scotus_justice,3251.852,3254.453,I think we understand you.
+2004.03-1039,2,15760,andrea_n_cortina,,3254.453,3255.074,--Exactly.
+2004.03-1039,2,15060,john_paul_stevens,scotus_justice,3255.899,3256.808,Thank you.

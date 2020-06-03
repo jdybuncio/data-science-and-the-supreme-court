@@ -1,0 +1,277 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2003.03-475,0,15141,william_h_rehnquist,scotus_justice,0.0,30.841,"We'll hear argument now on number 03-472... 475, Richard B. Cheney vs. United States District Court."
+2003.03-475,0,43165,theodore_b_olson,,32.293,35.285,"Mr. Chief Justice, and may it please the Court:"
+2003.03-475,0,15113,anthony_m_kennedy,scotus_justice,77.824,90.503,"Would you say it's also a separation of powers question, Mr. Olson, to the extent that it involves the ability of the courts to formulate rules to prevent them from deciding questions unnecessarily?"
+2003.03-475,0,43165,theodore_b_olson,,90.503,94.505,I'm not sure I understand the thrust of your question.
+2003.03-475,0,15113,anthony_m_kennedy,scotus_justice,94.505,96.457,"Well, you said this is a case about separation of powers."
+2003.03-475,0,43165,theodore_b_olson,,110.625,126.066,"Well, with respect to the... I'm not sure whether you are asking a question about the jurisdiction of the Court, because that's an issue that's before the Court, or with respect to construing the Federal Advisory Committee Act to avoid the constitutional questions that are implicit in that statute."
+2003.03-475,0,15084,ruth_bader_ginsburg,scotus_justice,164.602,174.64,"General Olson, we would also not get to it if we adhered to the firm final judgment rule which is the first hurdle that you have to overcome."
+2003.03-475,0,43165,theodore_b_olson,,184.156,186.588,"That's true, Justice Ginsburg."
+2003.03-475,0,15113,anthony_m_kennedy,scotus_justice,213.545,218.719,"Well, of course, in the Nixon case, the President exercised his privilege and it was overruled."
+2003.03-475,0,43165,theodore_b_olson,,218.719,219.84,"Yes, Justice--"
+2003.03-475,0,15113,anthony_m_kennedy,scotus_justice,219.84,221.68,"So it's not, it's not on all fours in that sense."
+2003.03-475,0,43165,theodore_b_olson,,221.68,231.327,"--Well, it's not all fours in that sense, but the principle as articulated by the Court on pages 683... I mean 691 to 692."
+2003.03-475,0,15113,anthony_m_kennedy,scotus_justice,265.281,267.802,But you are not defying a court order if you exercise a privilege.
+2003.03-475,0,43165,theodore_b_olson,,269.344,276.96,"With respect, Justice Kennedy, this case, the separation of powers issue in this case goes far beyond the assertion of executive privilege."
+2003.03-475,0,15141,william_h_rehnquist,scotus_justice,297.254,304.62,"It's essential to the Government's position, I take it, that this Court reject the de facto doctrine that was developed by the Court of Appeals."
+2003.03-475,0,43165,theodore_b_olson,,304.62,309.563,"We think, Mr. Chief Justice, that the de facto doctrine is wrong."
+2003.03-475,0,15141,william_h_rehnquist,scotus_justice,351.9,356.012,"When you say construe it narrowly, but nonetheless, retain the de facto doctrine?"
+2003.03-475,0,43165,theodore_b_olson,,356.012,356.612,--No.
+2003.03-475,0,15049,antonin_scalia,scotus_justice,398.67,417.722,"But what if it's, what if it's... what if the manner in which it's utilized is that, in fact, outsiders, nongovernment employees, were actually given a vote, that when the committee took a vote, there were some nongovernment employees who were counted?"
+2003.03-475,0,43165,theodore_b_olson,,417.722,423.646,"We submit, Justice Scalia, that that would raise very serious constitutional questions."
+2003.03-475,0,15049,antonin_scalia,scotus_justice,434.952,437.105,"Well, this is, this is more than ex parte communications."
+2003.03-475,0,43165,theodore_b_olson,,461.29,475.59,"Well, I'm going to, I'm going to quote from the Public Citizen decision itself, which authoritatively and specifically defined the term or utilized in a way which would be flatly inconsistent with this question that you just raised."
+2003.03-475,0,15084,ruth_bader_ginsburg,scotus_justice,514.599,519.299,"--General Olson, would you clarify why we are dealing with the merits."
+2003.03-475,0,43165,theodore_b_olson,,552.192,573.376,"--It seems to me in the context of this case, Justice Ginsburg, that once jurisdiction is acknowledged, the context of the case, the administrative record, which specifically contains within it the Presidential directive which created the advisory committee only to include members of the executive branch."
+2003.03-475,0,15084,ruth_bader_ginsburg,scotus_justice,603.495,614.903,"But you would still be asking us to resolve the merits in the first instance, not to review any lower court decision because they said there ought to be discovery first."
+2003.03-475,0,43165,theodore_b_olson,,614.903,624.758,"--Well, but we are submitting that the discovery itself violates the Constitution, violates FACA as properly construed."
+2003.03-475,0,15042,david_h_souter,scotus_justice,624.758,627.42,"All discovery, not... you are not--"
+2003.03-475,0,43165,theodore_b_olson,,627.42,628.181,"Yes, because--"
+2003.03-475,0,15042,david_h_souter,scotus_justice,628.181,631.965,--But isn't that simply the basic argument on the merits again.
+2003.03-475,0,43165,theodore_b_olson,,640.532,645.384,--Unconstitutional if it... if applied in these circumstances.
+2003.03-475,0,15042,david_h_souter,scotus_justice,646.396,646.975,Yes.
+2003.03-475,0,43165,theodore_b_olson,,712.67,715.96,"--Well, there is two answers to that... at least two, Justice Souter."
+2003.03-475,0,15042,david_h_souter,scotus_justice,723.436,725.917,"But you never came down... I realize that, I have read the orders."
+2003.03-475,0,43165,theodore_b_olson,,745.702,753.415,Every effort was made with respect to the actions of the litigants in the District Court to refine it as much as possible.
+2003.03-475,0,15042,david_h_souter,scotus_justice,770.476,773.188,And you did not assert any executive privilege.
+2003.03-475,0,43165,theodore_b_olson,,773.188,774.349,--No.
+2003.03-475,0,15042,david_h_souter,scotus_justice,774.95,779.543,"So we don't know what might be subject to executive privilege, and sustained, perhaps, and what would not be."
+2003.03-475,0,43165,theodore_b_olson,,794.542,798.165,"Well, I think that there is a very strong case that it should be, Justice Souter."
+2003.03-475,0,15141,william_h_rehnquist,scotus_justice,818.889,822.371,"Was the District, was the District Court's discovery order unconditional?"
+2003.03-475,0,43165,theodore_b_olson,,822.371,825.294,"Well, it was... I don't know what you mean by--"
+2003.03-475,0,15141,william_h_rehnquist,scotus_justice,825.294,831.256,"Well, I mean, did it say, you know, the Government must produce thus and so, thus and so, thus and so?"
+2003.03-475,0,43165,theodore_b_olson,,831.256,842.264,"--Yes, it did, Mr. Chief Justice, although it did say that the Government could assert privileges with respect to burden or executive privilege, and so forth."
+2003.03-475,0,15084,ruth_bader_ginsburg,scotus_justice,852.011,867.622,"But now we are dealing with the situation at the two, the two justices, judges on the Court of Appeals both said, this is too, this discovery order was too broad."
+2003.03-475,0,43165,theodore_b_olson,,876.838,896.36,"--Inevitably what would have happened, because what the Court of Appeals said, and this is at Petition appendix 18-A of the Court of Appeals decision is that however refined the District Court's order would be, they would be, the Respondents would be entitled to whatever discovery they needed to prove their case."
+2003.03-475,0,15113,anthony_m_kennedy,scotus_justice,930.474,931.275,"Well, can we get to--"
+2003.03-475,0,43165,theodore_b_olson,,931.275,932.164,In the form of--
+2003.03-475,0,15113,anthony_m_kennedy,scotus_justice,932.164,933.476,--Can we get to the jurisdiction point?
+2003.03-475,0,43165,theodore_b_olson,,944.803,947.624,"--Both, Justice Kennedy."
+2003.03-475,0,15113,anthony_m_kennedy,scotus_justice,947.624,948.515,What is the exception?
+2003.03-475,0,43165,theodore_b_olson,,953.067,955.601,This fits squarely within Nixon.
+2003.03-475,0,15113,anthony_m_kennedy,scotus_justice,969.562,975.656,We have already discussed that he did not... the Vice President in this case did not exercise his privilege.
+2003.03-475,0,43165,theodore_b_olson,,978.538,981.3,What we are dealing with here is the President--
+2003.03-475,0,15113,anthony_m_kennedy,scotus_justice,981.3,988.153,How do you describe the general exception that you want us to have for discovery disputes in the District Courts?
+2003.03-475,0,43165,theodore_b_olson,,988.153,989.004,--When the--
+2003.03-475,0,15113,anthony_m_kennedy,scotus_justice,989.004,990.797,"When it involves the Vice President, it's different?"
+2003.03-475,0,43165,theodore_b_olson,,990.797,995.778,"--Well, it certainly does when it involves the President or the Vice President in core constitutional functions."
+2003.03-475,0,15139,stephen_g_breyer,scotus_justice,1028.25,1037.145,You wouldn't have to do that if you just asserted executive privilege as to each discovery request that you thought would be burdensome.
+2003.03-475,0,43165,theodore_b_olson,,1043.819,1044.58,Justice Breyer--
+2003.03-475,0,15139,stephen_g_breyer,scotus_justice,1044.58,1045.823,Why not do that?
+2003.03-475,0,43165,theodore_b_olson,,1045.823,1047.684,--We believe that it's much broader than executive--
+2003.03-475,0,15139,stephen_g_breyer,scotus_justice,1047.684,1050.906,"I know that's your legal argument, and you may be right about that."
+2003.03-475,0,43165,theodore_b_olson,,1074.071,1094.303,"--Because the act of forcing the President to invoke executive privilege every time someone files a lawsuit, notwithstanding the presumption of regularity which was completely ignored here, that means that FACA would be used in every case to file a lawsuit to challenge the President and the Vice President's ability to--"
+2003.03-475,0,15092,sandra_day_oconnor,scotus_justice,1094.303,1094.994,"Well, let me--"
+2003.03-475,0,43165,theodore_b_olson,,1094.994,1095.685,--To obtain opinions--
+2003.03-475,0,15092,sandra_day_oconnor,scotus_justice,1095.685,1097.066,--Let me ask you this.
+2003.03-475,0,43165,theodore_b_olson,,1125.934,1127.926,"--Potentially, Justice O'Connor."
+2003.03-475,0,15092,sandra_day_oconnor,scotus_justice,1127.926,1129.937,Why didn't the Government do that?
+2003.03-475,0,43165,theodore_b_olson,,1129.937,1138.182,"Because the Government was anxious... because there was another way to resolve this whole problem, notwithstanding the denial of the 12(b)(6) motion to dismiss."
+2003.03-475,0,15092,sandra_day_oconnor,scotus_justice,1138.182,1145.168,But wouldn't that have given the courts a chance to go directly to the issue of whether the statute is constitutional?
+2003.03-475,0,43165,theodore_b_olson,,1145.168,1160.046,"We submit that what the Government did here was try to work out the delicate constitutional problems that were involved here, the balancing of the executive's prerogative with the litigation function and that sort of thing, and to go the extra mile."
+2003.03-475,0,15141,william_h_rehnquist,scotus_justice,1168.452,1178.859,"I take it, General Olson, that from the rest of your argument that traditional executive privilege doctrine would not cover all of the constitutional issues that you think exist here?"
+2003.03-475,0,43165,theodore_b_olson,,1178.859,1182.071,"That's precisely correct, Mr. Chief Justice."
+2003.03-475,0,15139,stephen_g_breyer,scotus_justice,1220.218,1220.656,I see that.
+2003.03-475,0,43165,theodore_b_olson,,1258.472,1263.557,"There is two answers to that, one which the Chief Justice suggested in his question."
+2003.03-475,0,15113,anthony_m_kennedy,scotus_justice,1300.33,1306.915,"Well, you know better than most the dynamics... than most attorneys, the dynamics of the discovery system."
+2003.03-475,0,43165,theodore_b_olson,,1312.158,1314.621,Yes.
+2003.03-475,0,15084,ruth_bader_ginsburg,scotus_justice,1390.991,1416.439,"Well, then why did the Government turn over 36,000 pages of paper from the agencies that were also a part of this action if the whole thing is so misguided, if the application of this Act violates the separation of powers, why did the Government respond to the request for information from the agencies?"
+2003.03-475,0,43165,theodore_b_olson,,1416.439,1417.769,There are several answers to that.
+2003.03-475,0,15049,antonin_scalia,scotus_justice,1436.042,1442.406,"But those documents that were turned over were, as I recall, documents that would have been available under FOIA, is that right?"
+2003.03-475,0,43165,theodore_b_olson,,1442.406,1452.743,"--Yes, Mr.... Justice Scalia, they would have been arguably available under FOIA, and they were produced under FOIA."
+2003.03-475,0,15084,ruth_bader_ginsburg,scotus_justice,1452.743,1462.899,"But you didn't get, you didn't make the argument that no discovery, you are very clear about that, no discovery is appropriate under this statute."
+2003.03-475,0,43165,theodore_b_olson,,1471.885,1474.857,"There was more than one action, Justice Ginsburg."
+2003.03-475,0,15084,ruth_bader_ginsburg,scotus_justice,1479.79,1485.904,"Well, specifically, these pages that have been previously disclosed to other requesters under FOIA."
+2003.03-475,0,43165,theodore_b_olson,,1491.427,1492.899,Yes.
+2003.03-475,0,15060,john_paul_stevens,scotus_justice,1511.803,1514.133,"General Olson, would you clarify one thing for me?"
+2003.03-475,0,43165,theodore_b_olson,,1518.465,1520.008,--They were produced by agencies.
+2003.03-475,1,16500,alan_b_morrison,,1533.234,1537.949,"Mr. Chief Justice, and may it please the Court:"
+2003.03-475,1,15049,antonin_scalia,scotus_justice,1586.902,1595.738,"The Court of Appeals based that, as I recall, on the fact that in Nixon, executive privilege had been asserted, right?"
+2003.03-475,1,16500,alan_b_morrison,,1595.738,1600.631,"They certainly made that observation, but that was not the only reason relied upon by the Court of Appeals."
+2003.03-475,1,15049,antonin_scalia,scotus_justice,1619.452,1621.674,I'm surprised to hear that.
+2003.03-475,1,16500,alan_b_morrison,,1633.772,1640.868,--I thought I had been pretty clear in my brief saying that executive privilege was certainly something that could be claimed down the road.
+2003.03-475,1,15049,antonin_scalia,scotus_justice,1647.332,1649.954,It should make no difference to the outcome of this.
+2003.03-475,1,16500,alan_b_morrison,,1649.954,1650.555,--It makes no difference.
+2003.03-475,1,15042,david_h_souter,scotus_justice,1651.194,1668.055,"But there is an interim position in which one would say, well, it makes a difference to this extent, that until the executive privilege has been claimed and has been ruled upon, the extent of... to which they have a plausible separation of powers argument is not clear."
+2003.03-475,1,16500,alan_b_morrison,,1671.008,1671.619,Yes.
+2003.03-475,1,15049,antonin_scalia,scotus_justice,1684.616,1699.827,"It would also require acceptance of the position that executive privilege is a definable doctrine only applicable to certain matters, and that it is, it is the function of this court to decide what it can be asserted for and what it can't be asserted for."
+2003.03-475,1,16500,alan_b_morrison,,1747.52,1761.532,"Well, leaving aside the question of the interpretation of the United States against Nixon as to whether that decision agrees with Your Honor's interpretation, we don't have to get to that issue in this case, and... and the--"
+2003.03-475,1,15139,stephen_g_breyer,scotus_justice,1761.532,1764.714,I don't want to delay this.
+2003.03-475,1,16500,alan_b_morrison,,1771.987,1772.608,--Yes.
+2003.03-475,1,15139,stephen_g_breyer,scotus_justice,1772.608,1781.033,"I know you don't want to, but for argument's sake, then what they are really asking for is a separate exception from the collateral order."
+2003.03-475,1,16500,alan_b_morrison,,1812.395,1818.048,I don't read the Government's brief as being that narrow.
+2003.03-475,1,15084,ruth_bader_ginsburg,scotus_justice,1842.563,1843.754,What kind of a--
+2003.03-475,1,15049,antonin_scalia,scotus_justice,1843.754,1844.536,--Mr. Morrison--
+2003.03-475,1,15084,ruth_bader_ginsburg,scotus_justice,1844.536,1847.946,"--You can't appeal from, you can't appeal from the denial of the motion to dismiss."
+2003.03-475,1,16500,alan_b_morrison,,1849.518,1869.262,"--Well, Your Honor, but... the notion that there is a special kind of immunity from discovery of the President and Vice President, a situation like this which is what I understand their argument to be, that's the functional equivalent of an immunity defense for which there is an exception under the collateral order rule."
+2003.03-475,1,15084,ruth_bader_ginsburg,scotus_justice,1875.056,1876.207,Are you saying--
+2003.03-475,1,15113,anthony_m_kennedy,scotus_justice,1876.207,1877.169,--I wonder about that.
+2003.03-475,1,16500,alan_b_morrison,,1887.675,1893.141,But nothing has happened of any legal significance in the case from that time on.
+2003.03-475,1,15049,antonin_scalia,scotus_justice,1895.654,1897.425,Discovery order.
+2003.03-475,1,16500,alan_b_morrison,,1913.087,1914.419,"Your Honor, with all respect--"
+2003.03-475,1,15049,antonin_scalia,scotus_justice,1914.419,1919.621,"And so that is a new injury to the, to the executive which they are trying to bring up here."
+2003.03-475,1,16500,alan_b_morrison,,1919.621,1932.761,"--With all respect, Your Honor, if you read the District Court's opinion, the principal grounds on which the District Court refused to dismiss the case was that discovery was required both with respect to the de facto officer issue and with respect to--"
+2003.03-475,1,15141,william_h_rehnquist,scotus_justice,1932.761,1936.845,"Ordinarily, that would be summary judgment, not motion to dismiss."
+2003.03-475,1,16500,alan_b_morrison,,1941.276,1949.702,"--Well, the Government, Your Honor, had offered in evidence the Executive Order creating the task force and a copy of the final report."
+2003.03-475,1,15060,john_paul_stevens,scotus_justice,1952.694,1955.366,Then why wasn't that the end of the case?
+2003.03-475,1,16500,alan_b_morrison,,1960.427,1961.188,"No, Your Honor."
+2003.03-475,1,15060,john_paul_stevens,scotus_justice,1961.188,1963.96,What relief can you get if you win the lawsuit?
+2003.03-475,1,16500,alan_b_morrison,,1963.96,1967.964,"Well, if Your Honors will look--"
+2003.03-475,1,15060,john_paul_stevens,scotus_justice,1967.964,1968.544,No.
+2003.03-475,1,16500,alan_b_morrison,,1970.284,1975.24,--We can get a declaration that it was... that de facto has to apply.
+2003.03-475,1,15060,john_paul_stevens,scotus_justice,1977.641,1978.69,So you get discovery.
+2003.03-475,1,16500,alan_b_morrison,,1978.69,1980.032,"No, Your Honor."
+2003.03-475,1,15060,john_paul_stevens,scotus_justice,1982.413,1985.625,"You get more discovery, or what did you get if you win the lawsuit?"
+2003.03-475,1,16500,alan_b_morrison,,1987.956,1993.692,--We get copies of all the papers that were exchanged in the entire advisory committee process.
+2003.03-475,1,15060,john_paul_stevens,scotus_justice,1993.692,1995.632,Have you not asked for those in discovery?
+2003.03-475,1,16500,alan_b_morrison,,1995.632,2002.788,We have asked for document... for discovery requests which the Government contends are very broad and could include some of those things.
+2003.03-475,1,15060,john_paul_stevens,scotus_justice,2004.657,2005.409,And are they right?
+2003.03-475,1,16500,alan_b_morrison,,2005.409,2012.713,"--They could be interpreted as being right, but not in light of what the District Court said in his order denying the motion to dismiss."
+2003.03-475,1,15060,john_paul_stevens,scotus_justice,2023.441,2024.892,What is this de facto officer?
+2003.03-475,1,16500,alan_b_morrison,,2026.512,2030.234,--It comes from a case that was decided in the D.C. Circuit in 1993.
+2003.03-475,1,15060,john_paul_stevens,scotus_justice,2030.234,2034.268,"It did not involve this particular exception from the FACA, though."
+2003.03-475,1,16500,alan_b_morrison,,2034.268,2035.369,"Yes, it did, Your Honor."
+2003.03-475,1,15060,john_paul_stevens,scotus_justice,2035.369,2040.364,It did not involve... it did not involve a committee composed entirely of government employees.
+2003.03-475,1,16500,alan_b_morrison,,2040.364,2041.115,"Oh, yes, it did, Your Honor."
+2003.03-475,1,15060,john_paul_stevens,scotus_justice,2054.081,2054.612,Yes.
+2003.03-475,1,16500,alan_b_morrison,,2059.204,2059.784,"No, Your Honor."
+2003.03-475,1,15060,john_paul_stevens,scotus_justice,2065.12,2070.925,"And they were defined, they were identified in the order appointing the committee, the working groups."
+2003.03-475,1,16500,alan_b_morrison,,2077.998,2080.452,"Not in the order appointing the committee, Your Honor."
+2003.03-475,1,15060,john_paul_stevens,scotus_justice,2083.253,2086.043,That people not named in the order are really members.
+2003.03-475,1,16500,alan_b_morrison,,2086.043,2087.674,--Which were specifically authorized--
+2003.03-475,1,15060,john_paul_stevens,scotus_justice,2087.674,2089.226,Which is different from that other case.
+2003.03-475,1,16500,alan_b_morrison,,2089.226,2090.746,--It is arguably different.
+2003.03-475,1,15141,william_h_rehnquist,scotus_justice,2108.568,2114.414,"That's a rather strange doctrine, that we can't tinker with what the Court of Appeals has done, even though we disagree with it."
+2003.03-475,1,16500,alan_b_morrison,,2114.414,2114.883,No.
+2003.03-475,1,15141,william_h_rehnquist,scotus_justice,2122.789,2129.451,And so you say that we then are prohibited from saying the Court of Appeals de facto doctrine is wrong?
+2003.03-475,1,16500,alan_b_morrison,,2129.451,2130.874,"I didn't say prohibiting, Your Honor."
+2003.03-475,1,15139,stephen_g_breyer,scotus_justice,2150.579,2151.64,"Well, why isn't it wrong?"
+2003.03-475,1,16500,alan_b_morrison,,2167.028,2167.87,"--No, Your Honor--"
+2003.03-475,1,15139,stephen_g_breyer,scotus_justice,2167.87,2169.822,"And if you turn it into the latter, you will stop--"
+2003.03-475,1,16500,alan_b_morrison,,2169.822,2170.872,--It is partially--
+2003.03-475,1,15139,stephen_g_breyer,scotus_justice,2170.872,2181.089,--you will stop every... you'll stop every lower level official in government when he is creating legislative policy from getting on the phone and calling up whoever he pleases.
+2003.03-475,1,16500,alan_b_morrison,,2183.37,2184.111,--All right.
+2003.03-475,1,15049,antonin_scalia,scotus_justice,2222.095,2223.235,That would require voting.
+2003.03-475,1,16500,alan_b_morrison,,2223.235,2224.948,"--Not necessarily, Your Honor."
+2003.03-475,1,15049,antonin_scalia,scotus_justice,2224.948,2229.65,"I have... I have always been puzzled by that in your briefs, to participate in the same manner as other committee members."
+2003.03-475,1,16500,alan_b_morrison,,2242.001,2258.33,"That, Your Honor, I suggest is a question of law as to whether voting is required, but we believe that if outsiders participated in the marking up of drafts, they had input into the drafts, particularly at the subgroup level, even though they had no formal vote--"
+2003.03-475,1,15049,antonin_scalia,scotus_justice,2258.33,2259.272,Why is that?
+2003.03-475,1,16500,alan_b_morrison,,2269.269,2270.669,--They were--
+2003.03-475,1,15049,antonin_scalia,scotus_justice,2270.669,2271.45,Certainly not.
+2003.03-475,1,16500,alan_b_morrison,,2271.45,2274.191,"--They did lose the exception, Your Honor, because they were full-time government employees."
+2003.03-475,1,15049,antonin_scalia,scotus_justice,2274.191,2275.553,I'm not asking whether they lost the exception.
+2003.03-475,1,16500,alan_b_morrison,,2292.468,2294.428,"It is certainly a plausible interpretation, Your Honor."
+2003.03-475,1,15049,antonin_scalia,scotus_justice,2294.428,2295.24,--Not plausible to me.
+2003.03-475,1,16500,alan_b_morrison,,2295.24,2301.363,"Well, the statute says the exception is composed of, wholly composed of full-time government employees."
+2003.03-475,1,15060,john_paul_stevens,scotus_justice,2318.687,2324.661,What do you say about the presumption that high officials of the government obey the statutory provisions that they are supposed to follow?
+2003.03-475,1,16500,alan_b_morrison,,2324.661,2325.529,Well--
+2003.03-475,1,15060,john_paul_stevens,scotus_justice,2325.529,2331.383,"You don't have any information and belief that the people who are said to have been appointed were really not appointed, do you?"
+2003.03-475,1,16500,alan_b_morrison,,2331.383,2332.084,--They were appointed.
+2003.03-475,1,15113,anthony_m_kennedy,scotus_justice,2358.944,2363.678,"But that's all you would get if you won the suit, and it goes back to Justice Stevens' question."
+2003.03-475,1,16500,alan_b_morrison,,2375.435,2387.612,"--Your Honor, we would get properly reined in discovery, as the District Court understood it, we would get the basic information about who went to the meetings, who had access to the drafts, whether anybody had the right to vote."
+2003.03-475,1,15113,anthony_m_kennedy,scotus_justice,2391.967,2399.781,Do you think those are fairly concluded within the separation of powers privilege that the Government is asserting?
+2003.03-475,1,16500,alan_b_morrison,,2399.781,2405.865,I do not think that the Government has any right to withhold that kind of information in this kind of case.
+2003.03-475,1,15113,anthony_m_kennedy,scotus_justice,2407.407,2408.998,"But that's, but that's the issue."
+2003.03-475,1,16500,alan_b_morrison,,2408.998,2409.909,--Yes.
+2003.03-475,1,15084,ruth_bader_ginsburg,scotus_justice,2424.559,2429.373,"Only if the District judge enters a default judgment, but that's just one of many options."
+2003.03-475,1,16500,alan_b_morrison,,2432.355,2433.274,--No.
+2003.03-475,1,15141,william_h_rehnquist,scotus_justice,2439.199,2440.671,"--Thank you, Mr. Morrison."
+2003.03-475,2,38209,paul_j_orfanedes,,2444.825,2453.29,"Mr. Chief Justice, and may it please the Court:"
+2003.03-475,2,15141,william_h_rehnquist,scotus_justice,2473.242,2479.497,"Well, that surely is one thing that's not before us, is it, is the District Court's denial of the motion to dismiss?"
+2003.03-475,2,38209,paul_j_orfanedes,,2479.497,2482.04,"Well, no--"
+2003.03-475,2,15141,william_h_rehnquist,scotus_justice,2482.04,2483.11,"I mean, it's not appealable."
+2003.03-475,2,38209,paul_j_orfanedes,,2483.11,2484.602,--That's correct.
+2003.03-475,2,15139,stephen_g_breyer,scotus_justice,2496.918,2504.804,"They are arguing that it's not before us... what they are arguing is that this statute doesn't apply, so therefore there was no discovery."
+2003.03-475,2,38209,paul_j_orfanedes,,2511.839,2515.141,--I think that's indistinguishable from arguing--
+2003.03-475,2,15139,stephen_g_breyer,scotus_justice,2515.141,2515.792,Okay.
+2003.03-475,2,38209,paul_j_orfanedes,,2516.551,2517.353,--If you could allow me to proceed.
+2003.03-475,2,15049,antonin_scalia,scotus_justice,2551.188,2563.997,"Involvement of private individuals in the task force does not equate with membership of private individuals in the task force, and I wonder what your view is about the question that I asked to Mr. Morrison."
+2003.03-475,2,38209,paul_j_orfanedes,,2577.568,2583.081,"I think the court in the AAPS case, that the District Court was relying on, and that the Circuit Court was also--"
+2003.03-475,2,15049,antonin_scalia,scotus_justice,2583.081,2584.18,Yes.
+2003.03-475,2,38209,paul_j_orfanedes,,2595.971,2605.438,"--I think it's not looking just at voting, but whether or not there is anything that functionally distinguishes the members, the de facto members from the actual members."
+2003.03-475,2,15049,antonin_scalia,scotus_justice,2605.438,2605.786,There is.
+2003.03-475,2,38209,paul_j_orfanedes,,2609.599,2610.51,It could be a vote.
+2003.03-475,2,15049,antonin_scalia,scotus_justice,2614.154,2617.146,"If it's more than that, you are not talking about de facto members."
+2003.03-475,2,38209,paul_j_orfanedes,,2620.278,2632.924,"In this particular instance, there was one allegation we set forth in our complaint of policy recommendations that were conveyed to the Vice President and those recommendations did end up mirroring recommendations that were--"
+2003.03-475,2,15139,stephen_g_breyer,scotus_justice,2632.924,2633.585,--Exactly.
+2003.03-475,2,38209,paul_j_orfanedes,,2643.162,2643.973,--That's correct.
+2003.03-475,2,15139,stephen_g_breyer,scotus_justice,2643.973,2647.526,You are Assistant Secretary of HHS in charge of drug policy.
+2003.03-475,2,38209,paul_j_orfanedes,,2705.603,2708.305,"I think that's correct, Justice Breyer."
+2003.03-475,2,15139,stephen_g_breyer,scotus_justice,2709.494,2710.336,"Well, you don't think it's correct."
+2003.03-475,2,38209,paul_j_orfanedes,,2710.336,2715.798,"--I don't think... I don't think Congress would have created such a statute, and I don't think they did create such a statute."
+2003.03-475,2,15139,stephen_g_breyer,scotus_justice,2715.798,2716.649,Cause.
+2003.03-475,2,38209,paul_j_orfanedes,,2716.649,2731.471,"The case law that has interpreted the statute and the statute themselves requires a certain degree of formality, structure and continuity to an advisory committee before, before the requirements of the statute begin to apply."
+2003.03-475,2,15139,stephen_g_breyer,scotus_justice,2744.629,2751.224,Explain the degree of formality that you think triggers the statute.
+2003.03-475,2,38209,paul_j_orfanedes,,2751.224,2756.676,"Well, certainly there has to be an establishing document, according to FACA."
+2003.03-475,2,15139,stephen_g_breyer,scotus_justice,2766.103,2775.968,The Attorney General of the United States turns to the head of the Antitrust Division and says I want a legislative proposal about Webb-Pomerene acts.
+2003.03-475,2,38209,paul_j_orfanedes,,2793.202,2796.002,"That, that may trigger the questions that we made."
+2003.03-475,2,15139,stephen_g_breyer,scotus_justice,2820.981,2832.697,"If the interagency task force creates the FACA situation in your view, imagine that I have repeated my first question, but simply applied it to interagency task forces."
+2003.03-475,2,38209,paul_j_orfanedes,,2835.848,2836.829,Sorry.
+2003.03-475,2,15139,stephen_g_breyer,scotus_justice,2836.829,2837.5,All right.
+2003.03-475,2,38209,paul_j_orfanedes,,2838.421,2845.405,I think again what becomes important is the membership of that task force.
+2003.03-475,2,15049,antonin_scalia,scotus_justice,2865.438,2874.834,"Those subgroups would report to the full committee, I assume, they would not have any dispositive authority over what the report of the committee says, would they?"
+2003.03-475,2,38209,paul_j_orfanedes,,2874.834,2880.517,"Well, there was nothing in the originating document that described who those subgroups would report to."
+2003.03-475,2,15049,antonin_scalia,scotus_justice,2880.517,2883.559,"Well, they are called subgroups, aren't they?"
+2003.03-475,2,38209,paul_j_orfanedes,,2883.559,2884.661,--That's whether or not--
+2003.03-475,2,15049,antonin_scalia,scotus_justice,2884.661,2886.18,That seems to indicate that they are under somebody.
+2003.03-475,2,38209,paul_j_orfanedes,,2888.704,2893.637,It could very well be whether they reported to the committee as a whole or to the executive--
+2003.03-475,2,15049,antonin_scalia,scotus_justice,2893.637,2894.528,"Well, that's fine."
+2003.03-475,2,38209,paul_j_orfanedes,,2896.359,2905.645,"--They are not the committee, but FACA includes within its definition of an advisory committee any subgroups or working groups of a committee."
+2003.03-475,2,15113,anthony_m_kennedy,scotus_justice,2905.645,2926.658,"Well, if the, if the statute requires disclosure of all these things, at the end of the day, as a final order, and discovery, when they are hit with a discovery order, it gives them all the same information, why isn't the Government right, that this really is the essence of the suit and we should hear the merits of it now."
+2003.03-475,2,38209,paul_j_orfanedes,,2926.658,2928.902,I don't think it is the essence of the suit.
+2003.03-475,2,15113,anthony_m_kennedy,scotus_justice,2939.521,2940.973,I don't know how the Court of Appeals--
+2003.03-475,2,38209,paul_j_orfanedes,,2940.973,2941.431,--and to what extent--
+2003.03-475,2,15113,anthony_m_kennedy,scotus_justice,2941.431,2945.314,--can give any advice at all if it says it has no jurisdiction or the case is improperly before it.
+2003.03-475,2,38209,paul_j_orfanedes,,2945.314,2955.933,"--Well, I think... and also a significant point to be considered in that regard is that the Government did not object to the scope of this, of the discovery that it was... as it was served."
+2003.03-475,2,15141,william_h_rehnquist,scotus_justice,2985.132,2991.534,"Suggesting that they... they consented to the discovery, but just they did not make specific objections?"
+2003.03-475,2,38209,paul_j_orfanedes,,2991.534,2993.297,--They did not make specific objections.
+2003.03-475,2,15042,david_h_souter,scotus_justice,3013.329,3022.137,"In any case, they did not avail themselves of the opportunity that the Court of Appeals has clearly given them now to whittle that order down."
+2003.03-475,2,38209,paul_j_orfanedes,,3022.137,3022.866,That's correct.
+2003.03-475,2,15060,john_paul_stevens,scotus_justice,3023.557,3030.202,"But you are... am I correct in thinking your case in the District Court was just a mandamus action, right?"
+2003.03-475,2,38209,paul_j_orfanedes,,3048.023,3054.866,"Justice Stevens, we had actually several different counts in our complaint, which included, first of all, we did assert a count under FACA."
+2003.03-475,2,15060,john_paul_stevens,scotus_justice,3057.159,3059.771,The FACA doesn't create a private cause of action.
+2003.03-475,2,38209,paul_j_orfanedes,,3059.771,3062.423,--That was ultimately the basis for the dismissal.
+2003.03-475,2,15141,william_h_rehnquist,scotus_justice,3062.423,3063.525,That's why it was dismissed.
+2003.03-475,2,38209,paul_j_orfanedes,,3063.525,3065.615,But we also had an... an APA claim.
+2003.03-475,2,15060,john_paul_stevens,scotus_justice,3066.944,3072.829,"But you don't... that also has no merit because the Vice President is not an agency, and neither is the group."
+2003.03-475,2,38209,paul_j_orfanedes,,3072.829,3076.291,"--Well, the reasoning behind the APA claim--"
+2003.03-475,2,15060,john_paul_stevens,scotus_justice,3076.291,3080.215,"The only viable claim you had was the mandamus claim, as I understand it."
+2003.03-475,2,38209,paul_j_orfanedes,,3080.215,3084.188,"--Well, the APA claim is continuing with respect to the agency defendants."
+2003.03-475,2,15060,john_paul_stevens,scotus_justice,3086.328,3089.24,"And they have given you discovery you asked for, if I understand it?"
+2003.03-475,2,38209,paul_j_orfanedes,,3089.24,3090.92,"Actually, they have--"
+2003.03-475,2,15060,john_paul_stevens,scotus_justice,3090.92,3094.543,It's only the group itself that refuses to give any discovery.
+2003.03-475,2,38209,paul_j_orfanedes,,3100.167,3109.313,"--The agency defendants have given us some discovery, but at the same time, they also asserted objections as to executive privilege and deliberative process in answering our questions."
+2003.03-475,2,15042,david_h_souter,scotus_justice,3117.721,3123.615,Could you just embellish your answer to Justice Stevens' question a little bit?
+2003.03-475,2,38209,paul_j_orfanedes,,3137.826,3148.872,"I guess I just want to... is this as a comparison to the discovery that, that was ordered?"
+2003.03-475,2,15042,david_h_souter,scotus_justice,3148.872,3150.212,Whatever the discovery is.
+2003.03-475,2,38209,paul_j_orfanedes,,3158.95,3174.872,"If discovery is limited to the narrowing that the appellate court suggested, none of that information, I believe, would be something that we would get under the statute if we were to win."
+2003.03-475,2,15042,david_h_souter,scotus_justice,3184.209,3186.128,You are saying you get more discovery?
+2003.03-475,2,38209,paul_j_orfanedes,,3186.128,3189.981,"I wouldn't... no, we don't get more discovery."
+2003.03-475,2,15042,david_h_souter,scotus_justice,3189.981,3195.405,What are these documents that you would get that you would not already have gotten at the discovery stage?
+2003.03-475,2,38209,paul_j_orfanedes,,3195.405,3205.573,"Well, the documents the appellate court was talking about, and in addition to interrogatories which we don't get... and actually, at one point the Government actually suggested that discovery take place on the basis of interrogatories."
+2003.03-475,2,15042,david_h_souter,scotus_justice,3207.244,3207.885,So you would get documents?
+2003.03-475,2,38209,paul_j_orfanedes,,3207.885,3209.257,We would get documents.
+2003.03-475,2,15042,david_h_souter,scotus_justice,3209.257,3210.646,And what documents would you get?
+2003.03-475,2,38209,paul_j_orfanedes,,3210.646,3219.292,"We would get, I believe the statute allows disclosure of all of the documents of the task force subject to the limitations of FOIA."
+2003.03-475,2,15042,david_h_souter,scotus_justice,3228.307,3229.479,So you'd get a broad disclosure is what you are saying?
+2003.03-475,2,38209,paul_j_orfanedes,,3229.479,3230.1,That's right.
+2003.03-475,2,15049,antonin_scalia,scotus_justice,3298.416,3300.98,When does that... I don't see how that's--
+2003.03-475,2,15060,john_paul_stevens,scotus_justice,3300.98,3301.558,--What does that prove?
+2003.03-475,2,38209,paul_j_orfanedes,,3301.558,3304.881,--The point is that this shows the involvement of outside--
+2003.03-475,2,15060,john_paul_stevens,scotus_justice,3304.881,3309.816,"They talked to a lot of people, got a lot of advice, but does that make them de facto members of the committee?"
+2003.03-475,2,38209,paul_j_orfanedes,,3309.816,3313.268,"--Well, that's the question that we are seeking to answer through our discovery."
+2003.03-475,2,15060,john_paul_stevens,scotus_justice,3318.22,3319.209,"Well, I'm not sure that's right."
+2003.03-475,2,38209,paul_j_orfanedes,,3323.593,3342.627,"Well, if you put that together, the allegations of the individuals that were met with, with the statement in the memorandum that allows the Vice President discretion to create working groups, we think it does at least raise a significant question as to whether outside individuals were participating in these working groups and participating in the committee as a whole."
+2003.03-475,2,15141,william_h_rehnquist,scotus_justice,3353.963,3354.594,Yes.
+2003.03-475,3,43165,theodore_b_olson,,3378.103,3379.284,"Thank you, Justice Scalia."
+2003.03-475,3,15113,anthony_m_kennedy,scotus_justice,3403.148,3406.049,Overall within the scope of the order that the District Court gave?
+2003.03-475,3,43165,theodore_b_olson,,3406.049,3406.73,--Yes.
+2003.03-475,3,15084,ruth_bader_ginsburg,scotus_justice,3442.053,3449.62,"General Olson, I thought that the, what the Court of Appeals said is there could be discovery on two issues."
+2003.03-475,3,43165,theodore_b_olson,,3469.975,3470.774,"Well, of course."
+2003.03-475,3,15139,stephen_g_breyer,scotus_justice,3490.666,3492.218,"The point is it's different, isn't it?"
+2003.03-475,3,43165,theodore_b_olson,,3492.218,3492.939,--It's--
+2003.03-475,3,15139,stephen_g_breyer,scotus_justice,3492.939,3496.072,They want stuff on discovery that has to do with who said what to who.
+2003.03-475,3,43165,theodore_b_olson,,3501.326,3501.896,"--Well, it's--"
+2003.03-475,3,15139,stephen_g_breyer,scotus_justice,3501.896,3502.727,Is that right?
+2003.03-475,3,43165,theodore_b_olson,,3502.727,3512.583,"--It's different, but it... everything that they have asked for in those requests for admissions and those interrogatories, Justice Breyer, include everything they would get under FACA and a whole lot more."
+2003.03-475,3,15141,william_h_rehnquist,scotus_justice,3661.234,3662.064,"Thank you, General Olson."

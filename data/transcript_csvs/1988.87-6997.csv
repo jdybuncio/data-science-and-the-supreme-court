@@ -1,0 +1,53 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1988.87-6997,0,15141,william_h_rehnquist,scotus_justice,0.0,12.308,"We'll hear argument next on in 87-6997, Eugene John Carella v. California."
+1988.87-6997,0,18618,christopher_d_cerf,,12.308,16.11,"Thank you, Mr. Chief Justice, and may it please the Court:"
+1988.87-6997,0,15092,sandra_day_oconnor,scotus_justice,226.345,232.683,"Mr. Cerf, I take it the State now says, though, that the error in the case might be harmless."
+1988.87-6997,0,18618,christopher_d_cerf,,232.683,241.189,"It does suggest that, uh, and indeed, I believe that is the only remaining issue in the case, unless, and let me turn my attention to that, if I may."
+1988.87-6997,0,15092,sandra_day_oconnor,scotus_justice,248.276,252.797,"Oh, I thought Sandstrom applied a harmless error analysis, didn't it?"
+1988.87-6997,0,18618,christopher_d_cerf,,252.797,254.763,"--Sandstrom, I believe, did not."
+1988.87-6997,0,15092,sandra_day_oconnor,scotus_justice,255.815,256.965,Rose v. Clark did.
+1988.87-6997,0,18618,christopher_d_cerf,,261.519,264.738,--It is certainly subject to that construction.
+1988.87-6997,0,15092,sandra_day_oconnor,scotus_justice,344.557,349.576,"Oh, the state now says, well, embezzlement in California requires less."
+1988.87-6997,0,18618,christopher_d_cerf,,349.576,351.026,"--It, it does say that now."
+1988.87-6997,0,15141,william_h_rehnquist,scotus_justice,378.828,383.213,"Well, doesn't this suggest the desirability of letting the California Court of Appeal make this determination?"
+1988.87-6997,0,18618,christopher_d_cerf,,392.135,394.17,"They, they certainly can speak with final authority on that."
+1988.87-6997,0,15113,anthony_m_kennedy,scotus_justice,638.011,640.53,"Did the defendant test, take stand in the case?"
+1988.87-6997,0,18618,christopher_d_cerf,,640.53,642.399,"He did not, Justice Kennedy."
+1988.87-6997,0,15113,anthony_m_kennedy,scotus_justice,647.367,659.261,"Was the testimony from, I guess his girlfriend, that he went to the, with a lot of money to the gas station next to the rental car place, was that on an affidavit, or was that something she testified to at trial?"
+1988.87-6997,0,18618,christopher_d_cerf,,659.261,667.598,"The Appeal was conducted pursuant to one of California's what is known as the Settled Statement of Fact on Appeal, in lieu of a transcript."
+1988.87-6997,0,15141,william_h_rehnquist,scotus_justice,713.662,715.129,"Very well, Mr. Cerf."
+1988.87-6997,1,16013,arnold_t_guminski,,726.937,729.603,"Mr. Chief Justice, and may it please the Court:"
+1988.87-6997,1,15071,byron_r_white,scotus_justice,769.78,775.518,"Well, did you, what position did the state take in the lower courts?"
+1988.87-6997,1,16013,arnold_t_guminski,,775.518,779.719,"The position taken by the state in the lower court was precisely the same, Your Honor."
+1988.87-6997,1,15071,byron_r_white,scotus_justice,792.379,794.212,"And, and what did the court do?"
+1988.87-6997,1,16013,arnold_t_guminski,,794.212,805.12,"And the court below thought it, in their wisdom, not to take our advice, and, and it is in the nature of meant to err, and I suppose that is true, of course, as well."
+1988.87-6997,1,15071,byron_r_white,scotus_justice,815.309,817.578,"Did you, uh, I don't recall."
+1988.87-6997,1,16013,arnold_t_guminski,,825.366,827.968,"Uh, we filed a motion to dismiss the appeal, your Honor."
+1988.87-6997,1,15071,byron_r_white,scotus_justice,827.968,830.687,Why did you do that?
+1988.87-6997,1,16013,arnold_t_guminski,,830.687,853.101,"Uh, well, because, we took the position in that that this Court could, in the first instance, review the case for harmless error review, uh, as to whether there was harmless error, and I, we reconsidered our position, and, uh, thought that it would be more appropriate for the court below to undertake that inquiry."
+1988.87-6997,1,15141,william_h_rehnquist,scotus_justice,1116.738,1120.04,"But that's... there's nothing we can do about that, Mr. Guminski."
+1988.87-6997,1,16013,arnold_t_guminski,,1127.427,1145.305,"But we would like to point out, your Honor, that in terms of re... a remand for determination of the harmless error doctrine, it would be appropriate and would give the court below a reopportunity to rethink what is the applicable California law."
+1988.87-6997,2,18618,christopher_d_cerf,,1226.625,1232.796,"I too have a hard act to follow, being limited to the English language, but I only have one or two very, very brief points."
+1988.87-6997,2,15049,antonin_scalia,scotus_justice,1275.89,1286.681,"Don't you agree that an evaluation of the harmless error issue does require us to decide what California is, uh, law is on, on the permanent versus temporary, uh, deprivation of property?"
+1988.87-6997,2,18618,christopher_d_cerf,,1286.681,1287.697,I don't agree with that.
+1988.87-6997,2,15049,antonin_scalia,scotus_justice,1287.697,1289.966,"You don't agree with that, why don't you agree with that?"
+1988.87-6997,2,18618,christopher_d_cerf,,1289.966,1300.239,Because this jury was charged on four different occasions that intent to deprive the owner of permanent possession was an element of the law of theft in California.
+1988.87-6997,2,15049,antonin_scalia,scotus_justice,1314.781,1319.918,"Charge to the jury goes beyond, uh, what is necessary to establish the, the crime, and--"
+1988.87-6997,2,18618,christopher_d_cerf,,1319.918,1321.235,--I believe that's right.
+1988.87-6997,2,15049,antonin_scalia,scotus_justice,1322.687,1323.37,--Do you have any many cases for that?
+1988.87-6997,2,18618,christopher_d_cerf,,1346.385,1349.52,"--With respect, I would, I would disagree, and I would disagree on two grounds."
+1988.87-6997,2,15049,antonin_scalia,scotus_justice,1358.71,1359.376,"Sure, sure."
+1988.87-6997,2,18618,christopher_d_cerf,,1366.297,1368.216,I have no cases precisely for that.
+1988.87-6997,2,15092,sandra_day_oconnor,scotus_justice,1382.626,1393.097,"Well, Mr. Cerf, I gather that on the Appellate Review, which was granted without opinion, that it upheld the conviction below in, in California."
+1988.87-6997,2,18618,christopher_d_cerf,,1393.097,1393.533,It did.
+1988.87-6997,2,15092,sandra_day_oconnor,scotus_justice,1394.516,1397.085,So it's more than just a trial court instruction.
+1988.87-6997,2,18618,christopher_d_cerf,,1402.805,1404.472,--The instruction was approved.
+1988.87-6997,2,15104,thurgood_marshall,scotus_justice,1416.111,1417.979,Where is the record in this case?
+1988.87-6997,2,18618,christopher_d_cerf,,1417.979,1418.463,--I'm sorry?
+1988.87-6997,2,15104,thurgood_marshall,scotus_justice,1418.463,1419.915,Where is the transcript?
+1988.87-6997,2,18618,christopher_d_cerf,,1419.915,1424.45,"Well, there has been some back and forth on that over the last, uh, several months."
+1988.87-6997,2,15104,thurgood_marshall,scotus_justice,1427.469,1434.572,"Well, how in the world can we decide that it's harmless error without a transcript?"
+1988.87-6997,2,18618,christopher_d_cerf,,1434.572,1451.867,"--I think, I think you can, Justice Marshall, because the case was decided by the court below on something called a Settled Statement of Fact on Appeal, which under the law of California stands in the place of a transcript, and that is before this Court, and it's in the Joint Appendix today."
+1988.87-6997,2,15104,thurgood_marshall,scotus_justice,1451.867,1457.121,--law in California is a good law here.
+1988.87-6997,2,18618,christopher_d_cerf,,1457.121,1457.704,I believe it is.
+1988.87-6997,2,15141,william_h_rehnquist,scotus_justice,1459.623,1460.59,"Thank you, Mr. Cerf."

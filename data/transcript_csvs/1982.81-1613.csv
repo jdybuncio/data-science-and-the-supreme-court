@@ -1,0 +1,86 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1982.81-1613,0,15073,warren_e_burger,scotus_justice,0.0,8.887,"We'll hear arguments next in Memphis Bank & Trust Company against Riley C. Garner, et al.."
+1982.81-1613,0,34023,k_martin_worthy,,86.932,89.853,"Mr. Chief Justice, and may it please the Court:"
+1982.81-1613,0,15045,harry_a_blackmun,scotus_justice,192.856,197.276,"Mr. Worthy, do you pay another separate franchise tax in Tennessee?"
+1982.81-1613,0,34023,k_martin_worthy,,197.276,198.228,"Yes, sir."
+1982.81-1613,0,15092,sandra_day_oconnor,scotus_justice,344.312,356.087,"Mr. Worthy, is that question to be determined as a matter of federal law, do you think, whether it's a franchise tax within the meaning of Section 742?"
+1982.81-1613,0,34023,k_martin_worthy,,356.087,359.757,"Yes, Justice O'Connor, I think it is to be determined as a matter of federal law."
+1982.81-1613,0,15071,byron_r_white,scotus_justice,426.244,437.771,"So what your argument now is that even if Tennessee obligations were included in the basis of the tax, the tax is not one permitted by the federal statute."
+1982.81-1613,0,34023,k_martin_worthy,,437.771,439.054,"That's correct, Justice White."
+1982.81-1613,0,15092,sandra_day_oconnor,scotus_justice,880.311,888.152,"Mr. Worthy, do you think that Section 548 of Title 12 U.S. Code has any impact here?"
+1982.81-1613,0,34023,k_martin_worthy,,888.152,890.558,"Does it have any... I'm sorry, Justice O'Connor?"
+1982.81-1613,0,15092,sandra_day_oconnor,scotus_justice,890.558,893.37,Any effect here on the result of the case?
+1982.81-1613,0,34023,k_martin_worthy,,893.37,894.727,"No, I do not think so."
+1982.81-1613,0,15073,warren_e_burger,scotus_justice,960.719,964.56,Did you cite a Pennsylvania Supreme Court case?
+1982.81-1613,0,34023,k_martin_worthy,,964.56,965.48,"Yes, sir, I did."
+1982.81-1613,0,15073,warren_e_burger,scotus_justice,966.79,970.291,That's not listed in your... at least I don't find it readily.
+1982.81-1613,0,34023,k_martin_worthy,,970.291,972.194,"--Yes, sir."
+1982.81-1613,0,15073,warren_e_burger,scotus_justice,980.084,981.569,I've got it.
+1982.81-1613,0,34023,k_martin_worthy,,981.569,983.207,"--Yes, sir."
+1982.81-1613,0,15073,warren_e_burger,scotus_justice,1230.997,1240.009,Mr. Creecy?
+1982.81-1613,1,29632,jimmy_c_creecy,,1240.009,1243.102,"Mr. Chief Justice, and Justices, may it please the Court:"
+1982.81-1613,1,15045,harry_a_blackmun,scotus_justice,1426.464,1429.977,Then you have two franchise taxes on banks in Tennessee.
+1982.81-1613,1,29632,jimmy_c_creecy,,1429.977,1433.178,"That's correct, Mr. Justice."
+1982.81-1613,1,15045,harry_a_blackmun,scotus_justice,1455.31,1458.81,"Of course, I suppose the labels don't mean anything."
+1982.81-1613,1,29632,jimmy_c_creecy,,1458.81,1464.729,"Well, I think it's the effect of the tax primarily that's important."
+1982.81-1613,1,15104,thurgood_marshall,scotus_justice,1478.518,1486.797,"Is there any way for us to rule with you without declaring that this is a ""franchise"" tax?"
+1982.81-1613,1,29632,jimmy_c_creecy,,1489.297,1497.185,"Well, Mr. Justice, I think the term 742 is a generic term."
+1982.81-1613,1,15073,warren_e_burger,scotus_justice,1686.729,1691.4,Does the state of Tennessee levy any kind of a tax on the Tennessee Valley Authority?
+1982.81-1613,1,29632,jimmy_c_creecy,,1691.4,1695.881,"No, Your Honor, we do not."
+1982.81-1613,1,15073,warren_e_burger,scotus_justice,1710.827,1711.218,Then I'll put it another way.
+1982.81-1613,1,29632,jimmy_c_creecy,,1718.606,1726.339,"Because the Tennessee Valley Authority is an instrumentality of the federal government, it's very doubtful that we could, Mr. Justice."
+1982.81-1613,1,15092,sandra_day_oconnor,scotus_justice,1726.339,1734.24,"Counsel, a minor point, if I may, while you're interrupted."
+1982.81-1613,1,29632,jimmy_c_creecy,,1753.265,1772.257,"Under the facts and the situation of this case, Madame Justice, the minimum tax does not come into play because under the minimum tax computation it is based upon the book value... 60 percent of the book value of the bank less the appraised value of real or intangible personal property."
+1982.81-1613,1,15092,sandra_day_oconnor,scotus_justice,1780.894,1785.971,"But in effect, you've stipulated that there would be none owing on the minimum tax."
+1982.81-1613,1,29632,jimmy_c_creecy,,1785.971,1786.47,That's correct.
+1982.81-1613,1,15092,sandra_day_oconnor,scotus_justice,1786.47,1787.609,Thank you.
+1982.81-1613,1,29632,jimmy_c_creecy,,1787.609,1793.512,The tax is imposed at the rate of 3 percent of net earnings.
+1982.81-1613,1,15073,warren_e_burger,scotus_justice,1847.618,1854.099,"Very well, Mr. Creecy."
+1982.81-1613,2,33192,j_minor_tait_jr,,1855.488,1858.973,"Mr. Chief Justice, and may it please the Court:"
+1982.81-1613,2,15141,william_h_rehnquist,scotus_justice,2086.1,2095.362,I thought the cases Mr. Worthy was quoting from indicated only that you can't treat state bonds better than you can treat federal bonds.
+1982.81-1613,2,33192,j_minor_tait_jr,,2095.362,2116.493,"That was what he was arguing to the Court, but it's our position that these cases do not hold that; that there's a common thread throughout the holdings of this Court that when you talk about discrimination in the context of a franchise tax, what you're talking about is a direct effort by the state to single out the federal obligations for taxation."
+1982.81-1613,2,15141,william_h_rehnquist,scotus_justice,2116.493,2120.771,Why should intent make any difference in this area?
+1982.81-1613,2,33192,j_minor_tait_jr,,2151.461,2159.926,"Well, the main reason, Justice Rehnquist, is because that is what the decisions, in my judgment, of this Court have held for over 100 years."
+1982.81-1613,2,15071,byron_r_white,scotus_justice,2183.605,2186.541,"Well, isn't this explicitly discriminatory, though?"
+1982.81-1613,2,33192,j_minor_tait_jr,,2193.369,2196.165,"Justice White, we say that it is not."
+1982.81-1613,2,15071,byron_r_white,scotus_justice,2199.521,2202.785,"Or, it explicitly excludes the... which does it?"
+1982.81-1613,2,33192,j_minor_tait_jr,,2206.439,2211.922,--The bank tax simply uses taxable federal income as the base for the tax.
+1982.81-1613,2,15071,byron_r_white,scotus_justice,2257.293,2260.246,So there is an explicit classification there.
+1982.81-1613,2,33192,j_minor_tait_jr,,2260.246,2264.652,"--Well, that's not done by the state of Tennessee, though, it's done by the federal government in their federal tax structure."
+1982.81-1613,2,15071,byron_r_white,scotus_justice,2264.652,2266.917,"I know, but the state of Tennessee picks it up."
+1982.81-1613,2,33192,j_minor_tait_jr,,2266.917,2268.134,They do.
+1982.81-1613,2,15071,byron_r_white,scotus_justice,2268.134,2278.881,"Picks it up, and it says we'll take this base that includes the income from federal bonds but which excludes the state bond income."
+1982.81-1613,2,33192,j_minor_tait_jr,,2278.881,2281.442,The state bonds are excluded under the federal taxable income.
+1982.81-1613,2,15045,harry_a_blackmun,scotus_justice,2281.442,2283.626,One could almost say it was accidental.
+1982.81-1613,2,33192,j_minor_tait_jr,,2287.108,2289.53,It's not done by the state of Tennessee legislature.
+1982.81-1613,2,15045,harry_a_blackmun,scotus_justice,2295.325,2299.294,My remark was merely directed to these comments about intent.
+1982.81-1613,2,33192,j_minor_tait_jr,,2306.416,2313.941,--I think it's clear from this record that the Tennessee legislature itself did nothing to tax federal obligations.
+1982.81-1613,2,15060,john_paul_stevens,scotus_justice,2327.64,2337.482,"Mr. Tait, am I mistaken or do I recall correctly that your tax law does impose a tax on the income from other state bonds; not Tennessee but, say, West Virginia?"
+1982.81-1613,2,33192,j_minor_tait_jr,,2337.482,2343.574,"On the basis from federal taxable income, the state act adds in the obligations from other states."
+1982.81-1613,2,15060,john_paul_stevens,scotus_justice,2343.574,2347.93,"Now, that's not in the... even though the federal government doesn't tax those."
+1982.81-1613,2,33192,j_minor_tait_jr,,2347.93,2349.274,"That's correct, Your Honor."
+1982.81-1613,2,15060,john_paul_stevens,scotus_justice,2349.274,2355.241,"So what they did, in effect, is they added into the federal base all state income except from Tennessee bonds."
+1982.81-1613,2,33192,j_minor_tait_jr,,2355.241,2355.818,Except Tennessee.
+1982.81-1613,2,15060,john_paul_stevens,scotus_justice,2443.655,2444.812,May I ask this question?
+1982.81-1613,2,33192,j_minor_tait_jr,,2456.214,2468.646,"--I think if it's not a 742 non-discriminatory franchise tax, or it's not a 548 tax under the national bank shares, then the state of Tennessee could not tax federal obligations."
+1982.81-1613,2,15060,john_paul_stevens,scotus_justice,2470.3,2477.19,"But could they include it in the... oh, all right."
+1982.81-1613,2,33192,j_minor_tait_jr,,2480.377,2482.267,"--Not... well, it depends on what you're saying--"
+1982.81-1613,2,15060,john_paul_stevens,scotus_justice,2482.267,2485.016,"Well, you're saying you really don't reach the discriminatory issue in that situation."
+1982.81-1613,2,33192,j_minor_tait_jr,,2485.016,2491.95,"--There's a difference in taxing the property itself, and there's a difference in using the property as the measure of the tax."
+1982.81-1613,2,15060,john_paul_stevens,scotus_justice,2499.508,2509.646,"But would you say they could even go up... increase the rate to 10 or 15 percent and base it on income and say we'll call this thing a franchise tax, and it would be all right?"
+1982.81-1613,2,33192,j_minor_tait_jr,,2509.646,2511.487,I don't think that it's what they called it.
+1982.81-1613,2,15104,thurgood_marshall,scotus_justice,2545.287,2548.255,How many franchise taxes could you put on a bank?
+1982.81-1613,2,33192,j_minor_tait_jr,,2548.255,2550.302,--As I understand the--
+1982.81-1613,2,15104,thurgood_marshall,scotus_justice,2550.302,2551.566,"It's unlimited, isn't it?"
+1982.81-1613,2,33192,j_minor_tait_jr,,2552.845,2559.767,--I don't think there's any limit to the amount of franchise or privilege taxes the state can assess as long as they're not arbitrary and unreasonable.
+1982.81-1613,2,15092,sandra_day_oconnor,scotus_justice,2578.008,2588.756,"Mr. Tait, would you agree that the Tennessee bonds and securities are in substantial competition with the federal securities here?"
+1982.81-1613,2,33192,j_minor_tait_jr,,2588.756,2594.332,"Justice O'Connor, we raised that in our brief, and that is a question of fact."
+1982.81-1613,2,15060,john_paul_stevens,scotus_justice,2668.488,2673.219,Can I ask you one question before you sit down.
+1982.81-1613,2,33192,j_minor_tait_jr,,2681.123,2682.979,The positions are identical.
+1982.81-1613,2,15060,john_paul_stevens,scotus_justice,2682.979,2686.605,I wonder why you filed separate briefs and had separate arguments?
+1982.81-1613,2,33192,j_minor_tait_jr,,2686.605,2708.923,"Well, the money goes to the county and city; it does not go to the state... the state has an interest in the constitutionality of the statute in question, and I might point out that this is of utmost concern to the state of Tennessee because the formula that we use in the bank tax is the same formula that we use in our excise tax."
+1982.81-1613,2,15060,john_paul_stevens,scotus_justice,2708.923,2711.547,"I'm not questioning your right, either of you."
+1982.81-1613,2,33192,j_minor_tait_jr,,2718.702,2723.901,"Well, I was going to argue and the state wanted to be heard because of the constitutionality, and that's basically what happened."
+1982.81-1613,2,15073,warren_e_burger,scotus_justice,2736.02,2738.882,Mr. Worthy?
+1982.81-1613,3,34023,k_martin_worthy,,2738.882,2741.834,"Mr. Chief Justice, may it please the Court:"
+1982.81-1613,3,15073,warren_e_burger,scotus_justice,2857.392,2860.375,"Thank you gentlemen, the case is submitted."

@@ -1,0 +1,351 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2007.06-989,0,15086,john_g_roberts_jr,scotus_justice,0.0,7.308,"We'll hear argument first today in Case 06-989, Hall Street Associates v. Mattel, Inc.."
+2007.06-989,0,19760,carter_g_phillips,,8.244,20.462,"Thank you, Mr. Chief Justice, and may it please the Court: In this case two very sophisticated parties agreed to arbitrate an ongoing dispute that was pending in litigation before the United States District Court for the District of Oregon."
+2007.06-989,0,15084,ruth_bader_ginsburg,scotus_justice,47.581,56.92,"Mr. Phillips, would you say the same thing if the agreement provided for de novo review in the district court?"
+2007.06-989,0,19760,carter_g_phillips,,56.92,70.393,I would be more concerned about identifying a standard of review for the district court than identifying a standard for modifying the arbitration award pursuant to the agreement.
+2007.06-989,0,15084,ruth_bader_ginsburg,scotus_justice,82.218,98.497,"That would be... I am assuming that the parties wrote that standard into their contract, so to the extent you're relying on party autonomy why couldn't the parties elect whatever standard of review they wish?"
+2007.06-989,0,19760,carter_g_phillips,,98.497,101.531,"Justice Ginsburg, I recognize that there is a limit to party autonomy."
+2007.06-989,0,15113,anthony_m_kennedy,scotus_justice,123.545,130.598,"Well, in some... one of the functions of a judicial... what about an agreement, arbitration agreement, that the district court can find facts de novo?"
+2007.06-989,0,19760,carter_g_phillips,,130.598,146.393,"That one I think worries me less because it doesn't... it doesn't suggest... I mean it just says that we will leave to the district, to the district court the findings, and essentially renders the arbitration agreement--"
+2007.06-989,0,15113,anthony_m_kennedy,scotus_justice,146.393,156.932,"Well, suppose it's a complex matter of monitoring emissions, looking at water quality, and the arbitrator has to sit by the river for a month, the district judge had to go down and sit by the river for a month."
+2007.06-989,0,19760,carter_g_phillips,,156.932,166.888,"--But again, the parties under those circumstances it seems to me are perfectly free to decide whether they want those issues to be decided conclusively by the arbitrator or to have them adjudicated at the end of the day by the Federal court."
+2007.06-989,0,15049,antonin_scalia,scotus_justice,182.464,186.534,"Indeed, are there not such things as nonbinding arbitration's?"
+2007.06-989,0,19760,carter_g_phillips,,186.534,187.884,"Precisely, Justice Scalia."
+2007.06-989,0,15049,antonin_scalia,scotus_justice,187.884,192.938,Which in effect say that when we're done the district court will do it as an original matter.
+2007.06-989,0,19760,carter_g_phillips,,192.938,193.371,Right.
+2007.06-989,0,15068,samuel_a_alito_jr,scotus_justice,219.07,226.491,Doesn't the arbitration agreement in this case set out a standard of review and say on findings of fact they have to be supported by substantial evidence?
+2007.06-989,0,19760,carter_g_phillips,,226.491,230.81,"They do, but that issue... that standard of review is not at issue in this particular case."
+2007.06-989,0,15086,john_g_roberts_jr,scotus_justice,242.599,243.151,Mr. Phillips--
+2007.06-989,0,15084,ruth_bader_ginsburg,scotus_justice,243.151,255.858,"But they were both... they were both in this agreement, both the substantial evidence rule and the standard of review of legal error."
+2007.06-989,0,19760,carter_g_phillips,,271.351,271.868,No.
+2007.06-989,0,15113,anthony_m_kennedy,scotus_justice,296.983,298.768,But you have to give us a standard.
+2007.06-989,0,19760,carter_g_phillips,,313.043,327.753,"Well, the problem there... and again, I think this is largely a fanciful concern because I don't think serious parties who are engaged in arbitration agreements are likely to come up with standards that are completely alien to the judicial process, and indeed there's no empirical evidence to support that."
+2007.06-989,0,15086,john_g_roberts_jr,scotus_justice,363.711,366.746,"--Mr. Phillips, why do you care?"
+2007.06-989,0,19760,carter_g_phillips,,382.939,395.663,"That's absolutely true, particularly in this context, Mr. Chief Justice, because here we have a situation where we were before the district court, this arrangement came out of the mediation process, the district court reviewed it, blessed it, sent it to the arbitrator--"
+2007.06-989,0,15086,john_g_roberts_jr,scotus_justice,395.663,396.349,So you should lose.
+2007.06-989,0,19760,carter_g_phillips,,396.349,397.082,--and it came right back.
+2007.06-989,0,15086,john_g_roberts_jr,scotus_justice,397.082,397.899,So you should lose.
+2007.06-989,0,19760,carter_g_phillips,,397.899,398.665,"No, no, I should win."
+2007.06-989,0,15086,john_g_roberts_jr,scotus_justice,398.665,399.251,No.
+2007.06-989,0,19760,carter_g_phillips,,421.128,430.734,"Because the problem here is not what happens in the instance if, Section 9 not applying, that we're suddenly... we go back to square one and start over."
+2007.06-989,0,15086,john_g_roberts_jr,scotus_justice,438.573,441.858,"Is there a basis... well, the Federal Arbitration Act doesn't provide jurisdiction anyway."
+2007.06-989,0,19760,carter_g_phillips,,443.894,444.46,"Diversity, Your Honor."
+2007.06-989,0,15086,john_g_roberts_jr,scotus_justice,444.46,445.294,--in the first place.
+2007.06-989,0,19760,carter_g_phillips,,448.631,450.498,"Right, and that's exactly what we would ask this Court to be doing here."
+2007.06-989,0,15086,john_g_roberts_jr,scotus_justice,450.498,460.77,"No, you're asking us to bring it under the Federal Arbitration Act and say that the district court must confirm it despite the fact that you've changed the standards under Section 9 to 11."
+2007.06-989,0,19760,carter_g_phillips,,460.77,463.138,"No, Mr. Chief Justice, you've flipped it around."
+2007.06-989,0,15086,john_g_roberts_jr,scotus_justice,470.892,471.577,Right.
+2007.06-989,0,19760,carter_g_phillips,,471.577,476.029,Both the underlying lease agreement and the arbitration agreement.
+2007.06-989,0,15086,john_g_roberts_jr,scotus_justice,481.6,482.233,But my point--
+2007.06-989,0,19760,carter_g_phillips,,482.233,483.052,--because of the Federal Arbitration Act.
+2007.06-989,0,15086,john_g_roberts_jr,scotus_justice,483.052,491.139,"--My point is that if you have an ordinary contract action the district court will, because your contract provides a particular standard of review, enforce that."
+2007.06-989,0,19760,carter_g_phillips,,492.241,492.525,Right.
+2007.06-989,0,15139,stephen_g_breyer,scotus_justice,495.527,508.084,"On that point... the reason I think you're... there's a little chaos here is because you said... your question is phrased, does the FAA preclude enforcement of your arbitration agreement?"
+2007.06-989,0,19760,carter_g_phillips,,512.052,512.654,Right.
+2007.06-989,0,15139,stephen_g_breyer,scotus_justice,512.654,514.871,It doesn't require it; it doesn't preclude it.
+2007.06-989,0,19760,carter_g_phillips,,574.645,575.779,I thought that--
+2007.06-989,0,15139,stephen_g_breyer,scotus_justice,575.779,583.334,"My temptation is to say they're open questions and they'd have to be argued on remand, which makes this case the case of the century, I guess, in a certain respect."
+2007.06-989,0,19760,carter_g_phillips,,585.167,587.552,"--I was just looking for the case of the day, Your Honor, actually."
+2007.06-989,0,15139,stephen_g_breyer,scotus_justice,588.236,588.586,All right.
+2007.06-989,0,19760,carter_g_phillips,,597.675,615.887,"Well, we know that... I think the answer to that is that Section 2 of the Federal Arbitration Act, which this Court has recognized repeatedly has a very strong preference for enforcing the agreement of the parties, is a part of the answer to that."
+2007.06-989,0,15139,stephen_g_breyer,scotus_justice,654.512,659.047,Have you ever argued that this is a matter governed by Oregon law and it is enforceable?
+2007.06-989,0,19760,carter_g_phillips,,659.047,659.832,--Right.
+2007.06-989,0,15139,stephen_g_breyer,scotus_justice,660.349,661.099,Have you ever argued that?
+2007.06-989,0,19760,carter_g_phillips,,661.099,662.382,--That it is enforceable?
+2007.06-989,0,15139,stephen_g_breyer,scotus_justice,662.382,663.451,"Yes, under Oregon law."
+2007.06-989,0,19760,carter_g_phillips,,664.784,665.569,"No, we've never argued--"
+2007.06-989,0,15139,stephen_g_breyer,scotus_justice,665.569,666.019,No?
+2007.06-989,0,19760,carter_g_phillips,,666.019,666.569,--Oregon law.
+2007.06-989,0,15139,stephen_g_breyer,scotus_justice,666.569,669.037,"Well, then it's not surprising they haven't argued that Oregon law doesn't apply."
+2007.06-989,0,19760,carter_g_phillips,,669.037,669.454,"No, no."
+2007.06-989,0,15086,john_g_roberts_jr,scotus_justice,669.454,670.254,But they have in fact.
+2007.06-989,0,19760,carter_g_phillips,,678.543,688.999,"Right, but the State law contract action that they're talking about is precisely the State law contract action we brought in this case before the Federal district court under diversity jurisdiction."
+2007.06-989,0,15086,john_g_roberts_jr,scotus_justice,692.47,692.97,"No, no."
+2007.06-989,0,19760,carter_g_phillips,,693.253,694.253,--the district judge's determination--
+2007.06-989,0,15086,john_g_roberts_jr,scotus_justice,694.253,694.603,--No.
+2007.06-989,0,19760,carter_g_phillips,,709.263,711.048,--Because it falls squarely within the Federal Arbitration Act.
+2007.06-989,0,15086,john_g_roberts_jr,scotus_justice,711.048,715.332,"Well, it doesn't fall squarely within it because the Federal Arbitration Act sets different standards of review."
+2007.06-989,0,19760,carter_g_phillips,,738.448,739.198,Right.
+2007.06-989,0,15049,antonin_scalia,scotus_justice,760.278,760.578,Excuse me.
+2007.06-989,0,19760,carter_g_phillips,,775.907,777.24,"No, we clearly can't do that."
+2007.06-989,0,15049,antonin_scalia,scotus_justice,777.24,779.025,You clearly can't do that.
+2007.06-989,0,19760,carter_g_phillips,,779.025,779.442,Right.
+2007.06-989,0,15049,antonin_scalia,scotus_justice,779.442,783.061,So somebody has to decide on this arbitration provision.
+2007.06-989,0,19760,carter_g_phillips,,783.061,784.411,Right.
+2007.06-989,0,15086,john_g_roberts_jr,scotus_justice,787.715,792.333,"The arbitration provision, the arbitration agreement is just a contract."
+2007.06-989,0,19760,carter_g_phillips,,792.867,793.619,--To be sure.
+2007.06-989,0,15086,john_g_roberts_jr,scotus_justice,793.619,797.903,"Well, then I don't understand why it's not enforceable as a contract."
+2007.06-989,0,19760,carter_g_phillips,,797.903,802.724,"I don't think we disagree on that, Mr. Chief Justice."
+2007.06-989,0,15086,john_g_roberts_jr,scotus_justice,804.34,806.676,"Well, if it's enforceable... I'm obviously missing something here."
+2007.06-989,0,19760,carter_g_phillips,,814.096,818.798,"Well, the benefit is the efficiency that the Federal Arbitration Act is trying to promote."
+2007.06-989,0,15086,john_g_roberts_jr,scotus_justice,844.198,852.887,"What do you do if you have a contract, an arbitration agreement that's not covered by Section 2, it's not concerning a maritime transaction or involving commerce?"
+2007.06-989,0,19760,carter_g_phillips,,852.887,854.621,Those are regulated by State law.
+2007.06-989,0,15086,john_g_roberts_jr,scotus_justice,854.621,855.237,Okay.
+2007.06-989,0,19760,carter_g_phillips,,855.237,856.423,Purely by State law.
+2007.06-989,0,15049,antonin_scalia,scotus_justice,859.475,873.968,"But this... but this one isn't, and if we say that you lose under the Federal Arbitration Act, is it open to the State court to say, well, that's what the Federal Arbitration Act says, but we handle arbitration differently?"
+2007.06-989,0,19760,carter_g_phillips,,873.968,877.503,"Well, that's sort of the core question I think that sort of comes out of Southland and--"
+2007.06-989,0,15049,antonin_scalia,scotus_justice,877.503,881.704,"I think if you lose on the arbitration here, you've got to lose on the arbitration before State court."
+2007.06-989,0,19760,carter_g_phillips,,881.704,883.006,"--I mean, I think that's what Southland--"
+2007.06-989,0,15049,antonin_scalia,scotus_justice,883.006,884.006,I mean you don't have to admit that.
+2007.06-989,0,19760,carter_g_phillips,,884.59,886.275,"--That's the logic of Southland, Your Honor."
+2007.06-989,0,15086,john_g_roberts_jr,scotus_justice,886.275,887.658,Why in the... why is that the case?
+2007.06-989,0,19760,carter_g_phillips,,899.952,900.518,Right.
+2007.06-989,0,15086,john_g_roberts_jr,scotus_justice,900.518,902.202,--if you fall within the criteria.
+2007.06-989,0,19760,carter_g_phillips,,905.237,918.68,"But I think the answer to the conundrum you've raised, Mr. Chief Justice, is that if you're not in Section 9, then you ought to be in Section 2, and there you should do precisely what the contract says, which is that you should vacate or set aside the arbitration agreement--"
+2007.06-989,0,15086,john_g_roberts_jr,scotus_justice,918.68,919.147,"Oh, no."
+2007.06-989,0,19760,carter_g_phillips,,919.747,921.281,--unless... if there's an error in law.
+2007.06-989,0,15086,john_g_roberts_jr,scotus_justice,921.281,929.887,"--I agree that you're in Section 2, and the State court can't invalidate your agreement under some special rule that applies only to arbitration."
+2007.06-989,0,19760,carter_g_phillips,,932.173,932.689,"No, I--"
+2007.06-989,0,15086,john_g_roberts_jr,scotus_justice,932.689,937.208,--that the district court must confirm the arbitration award if it meets certain standards.
+2007.06-989,0,19760,carter_g_phillips,,937.208,938.427,"--No, I don't need Section 9."
+2007.06-989,0,15086,john_g_roberts_jr,scotus_justice,957.205,957.889,But the only basis--
+2007.06-989,0,19760,carter_g_phillips,,957.889,959.074,That's what I want under Section 2.
+2007.06-989,0,15086,john_g_roberts_jr,scotus_justice,959.074,965.894,--The only basis you have for getting them to correct the award is a different standard of review than the one provided in Section 10.
+2007.06-989,0,19760,carter_g_phillips,,965.894,971.381,"That's true, but that's... it seems to me that just makes my point, which is I don't need Section 9, Your Honor."
+2007.06-989,0,15042,david_h_souter,scotus_justice,981.07,982.872,It's not that you don't need Section 9.
+2007.06-989,0,19760,carter_g_phillips,,984.839,985.808,That's quite true.
+2007.06-989,0,15042,david_h_souter,scotus_justice,985.808,990.776,--because Section 9 on its face seems to provide the opposite to what you're asking.
+2007.06-989,0,19760,carter_g_phillips,,991.795,993.312,"Well, I don't know that that's the problem."
+2007.06-989,0,15042,david_h_souter,scotus_justice,1005.452,1012.208,"Why isn't... I mean the argument that it is meant to be controlling is an argument, first, for the plain language."
+2007.06-989,0,19760,carter_g_phillips,,1012.208,1012.775,"I'm sorry, Justice Souter."
+2007.06-989,0,15042,david_h_souter,scotus_justice,1012.775,1013.408,Pardon me?
+2007.06-989,0,19760,carter_g_phillips,,1013.408,1015.743,"When you say ""it's meant to be controlling"", I don't--"
+2007.06-989,0,15042,david_h_souter,scotus_justice,1015.743,1016.643,Section 9.
+2007.06-989,0,19760,carter_g_phillips,,1016.643,1017.027,--Section 9.
+2007.06-989,0,15042,david_h_souter,scotus_justice,1017.643,1020.312,"Number one, the plain language of the statute."
+2007.06-989,0,19760,carter_g_phillips,,1059.603,1060.32,Yes.
+2007.06-989,0,15042,david_h_souter,scotus_justice,1068.807,1079.032,"Well, it may not... it may not say it for the simple reason that it says unequivocally what should happen, and you are asking for a variation on what it unequivocally provides."
+2007.06-989,0,19760,carter_g_phillips,,1082.066,1091.339,"--Well, I think... well, first of all, it would seem to me less likely that that's true, given the common law history that comes out of Justice Story's opinion, which said restrictive arbitrations are common."
+2007.06-989,0,15042,david_h_souter,scotus_justice,1091.339,1091.905,All right.
+2007.06-989,0,19760,carter_g_phillips,,1113.019,1116.907,"Justice Souter, there are two... there are two questions there, so let me try to answer both of your questions."
+2007.06-989,0,15042,david_h_souter,scotus_justice,1137.501,1141.553,"Then how can you get any award enforced, even subject to your terms?"
+2007.06-989,0,19760,carter_g_phillips,,1141.553,1150.476,Because under Section 2 the parties have... have provided a mechanism for that by saying that the district court will correct an award if it's erroneous as a matter of law.
+2007.06-989,0,15042,david_h_souter,scotus_justice,1150.476,1159.665,Then you have to grapple with the question whether in fact under Section 2 you can provide for confirmation in a manner consistent with the provision for confirmation under Section 9.
+2007.06-989,0,19760,carter_g_phillips,,1159.665,1160.7,Right.
+2007.06-989,0,15042,david_h_souter,scotus_justice,1166.319,1175.793,"You simply... I... I don't... maybe I'm missing something, but you seem to stand there and just say baldly: Section 9 doesn't apply."
+2007.06-989,0,19760,carter_g_phillips,,1181.447,1193.638,"--Well, hopefully I can persuade you by rereading the portion of the statute, that the first sentence of Section 9, which is at Appendix 1: ""If the parties""--"
+2007.06-989,0,15060,john_paul_stevens,scotus_justice,1193.638,1194.155,Where is it?
+2007.06-989,0,19760,carter_g_phillips,,1194.155,1196.457,--1a of the appendix to the petition.
+2007.06-989,0,15060,john_paul_stevens,scotus_justice,1202.694,1203.177,Uh-huh.
+2007.06-989,0,19760,carter_g_phillips,,1203.177,1205.979,--These parties didn't agree that a judgment would be entered on the award.
+2007.06-989,0,15042,david_h_souter,scotus_justice,1214.851,1215.318,Okay.
+2007.06-989,0,19760,carter_g_phillips,,1223.524,1224.94,Correct.
+2007.06-989,0,15042,david_h_souter,scotus_justice,1224.94,1228.826,--we still have a right to have the award confirmed and enforced--
+2007.06-989,0,19760,carter_g_phillips,,1228.826,1229.428,Correct.
+2007.06-989,0,15042,david_h_souter,scotus_justice,1229.428,1231.578,--because we agreed to it under Section 2.
+2007.06-989,0,19760,carter_g_phillips,,1231.578,1233.13,Both parties agreed to it under Section 2.
+2007.06-989,0,15042,david_h_souter,scotus_justice,1233.13,1248.556,"And the question, I think, is when you argue in that fashion: Do you have a right under Section 2 to provide for confirmation and enforcement under terms which are inconsistent with the provision in Section 9."
+2007.06-989,0,19760,carter_g_phillips,,1251.441,1270.153,"Well, if you... if you want to make a judgment call and you think there's really a judgment you have to make as between Section 2 and Section 9, then it seems to me that all of the Court's decisions have recognized that the single most important objective of the Federal Arbitration Act is embodied in Section 2, which is... which is to enforce the intent of the parties--"
+2007.06-989,0,15042,david_h_souter,scotus_justice,1270.153,1270.838,The... the cases--
+2007.06-989,0,19760,carter_g_phillips,,1270.838,1271.738,--is you way you should come out.
+2007.06-989,0,15042,david_h_souter,scotus_justice,1271.738,1278.759,--The intent of the parties that's being enforced in those myriad cases is the intent of the parties to arbitrate.
+2007.06-989,0,19760,carter_g_phillips,,1294.953,1295.453,Yes.
+2007.06-989,0,15042,david_h_souter,scotus_justice,1295.453,1296.703,--for consummation and enforcement--
+2007.06-989,0,19760,carter_g_phillips,,1296.703,1297.322,What do you do?
+2007.06-989,0,15042,david_h_souter,scotus_justice,1297.322,1305.892,--but you have a different contractual provision and its terms are different from the enforcement terms under Section 9--
+2007.06-989,0,19760,carter_g_phillips,,1305.892,1306.511,Right.
+2007.06-989,0,15042,david_h_souter,scotus_justice,1306.511,1308.644,--can that contract be recognized?
+2007.06-989,0,19760,carter_g_phillips,,1313.265,1314.015,"But, Justice Souter--"
+2007.06-989,0,15042,david_h_souter,scotus_justice,1314.015,1315.45,And that's what you've got to come to grips with.
+2007.06-989,0,19760,carter_g_phillips,,1316.1,1317.567,"--Well, I think I have come to grips with it."
+2007.06-989,0,15042,david_h_souter,scotus_justice,1317.567,1325.556,"--No, but it does not answer that question simply to say there are lots of cases saying that the intent of the parties to arbitrate should be enforced."
+2007.06-989,0,19760,carter_g_phillips,,1327.425,1328.675,"No, it's not the intent of the parties to arbitrate."
+2007.06-989,0,15042,david_h_souter,scotus_justice,1333.745,1340.315,"Where do you... do you have a case that says every facet of the agreement, no matter how inconsistent arguably with other sections of the statute?"
+2007.06-989,0,19760,carter_g_phillips,,1341.601,1342.617,"Well, of course not, Justice Souter."
+2007.06-989,0,15042,david_h_souter,scotus_justice,1342.617,1343.601,That's why we've got this case here.
+2007.06-989,0,19760,carter_g_phillips,,1343.601,1344.553,"Well, to be sure."
+2007.06-989,0,15042,david_h_souter,scotus_justice,1364.581,1365.3,"Okay, but--"
+2007.06-989,0,19760,carter_g_phillips,,1365.3,1366.35,--if you go to Section 10--
+2007.06-989,0,15042,david_h_souter,scotus_justice,1366.35,1369.335,"--If we do that, we've got to dispose of the red herring."
+2007.06-989,0,19760,carter_g_phillips,,1370.435,1370.801,--Okay.
+2007.06-989,0,15049,antonin_scalia,scotus_justice,1396.569,1397.419,"--That is, indeed, the issue."
+2007.06-989,0,19760,carter_g_phillips,,1423.886,1424.286,No.
+2007.06-989,0,15049,antonin_scalia,scotus_justice,1425.902,1428.671,"In other words, I think both the Illinois rule and the New York rule were default rules."
+2007.06-989,0,19760,carter_g_phillips,,1428.671,1429.873,That's exactly right.
+2007.06-989,0,15049,antonin_scalia,scotus_justice,1429.873,1431.89,And you're arguing that this is the default rule?
+2007.06-989,0,19760,carter_g_phillips,,1431.89,1432.325,Correct.
+2007.06-989,0,15084,ruth_bader_ginsburg,scotus_justice,1432.325,1433.542,--It doesn't read like one.
+2007.06-989,0,19760,carter_g_phillips,,1436.994,1449.302,"Well, I think the important part about Section 10 to keep in mind is... is their argument also is predicated on the assumption that Section 10 exhaustively lists all of the grounds for modifying an... vacating an arbitration award."
+2007.06-989,0,15084,ruth_bader_ginsburg,scotus_justice,1457.573,1460.359,--What else is there besides the manifest whatever?
+2007.06-989,0,19760,carter_g_phillips,,1461.042,1464.311,The manifest disregard of the law and the... and public policy.
+2007.06-989,0,15060,john_paul_stevens,scotus_justice,1468.346,1484.689,"Mr. Phillips, on the question of whether it's just a default rule or a self-executing definition of what's permissible, supposing the agreement between the parties provided that the judgment by the court must be entered in 6 months rather than a year, and it would be vitiated if it were entered after that."
+2007.06-989,0,19760,carter_g_phillips,,1485.891,1492.961,"I... I think, yes, I think it probably would, because--"
+2007.06-989,0,15060,john_paul_stevens,scotus_justice,1492.961,1494.561,I think under your theory you'd have to--
+2007.06-989,0,19760,carter_g_phillips,,1494.561,1498.114,--I don't think Congress meant for it to be... I don't think Congress intended for this to be not subject to change.
+2007.06-989,0,15060,john_paul_stevens,scotus_justice,1498.114,1498.681,--Yeah.
+2007.06-989,0,19760,carter_g_phillips,,1498.681,1507.054,"I mean, you know, there are... the question in all of these provisions is are there some components of the FAA that are meant to be mandatory, and there are others that are all subject to change."
+2007.06-989,0,15086,john_g_roberts_jr,scotus_justice,1515.708,1516.391,"Thank you, Mr. Phillips."
+2007.06-989,1,17414,beth_s_brinkmann,,1527.766,1541.691,"Mr. Chief Justice, and may it please the Court: Sections 9, 10 and 11 of the Federal Arbitration Act provide the exclusive grounds on which a court can vacate, modify, correct an arbitration award under the FAA."
+2007.06-989,1,15049,antonin_scalia,scotus_justice,1553.749,1562.153,"What do you do about the fact that our opinions have said that there is another ground under 10, which is manifest miscarriage of justice?"
+2007.06-989,1,17414,beth_s_brinkmann,,1563.188,1567.89,"Your Honor, manifest disregard is Section 10 (A)(4), exceeding the power."
+2007.06-989,1,15049,antonin_scalia,scotus_justice,1584.601,1587.969,Why... why did we go... go to the trouble of expressing it differently?
+2007.06-989,1,17414,beth_s_brinkmann,,1587.969,1588.719,Because--
+2007.06-989,1,15049,antonin_scalia,scotus_justice,1588.719,1589.869,Why not just say Section 4?
+2007.06-989,1,17414,beth_s_brinkmann,,1589.869,1593.687,"--It was required in Wilko, because there were two different questions there."
+2007.06-989,1,15084,ruth_bader_ginsburg,scotus_justice,1634.145,1635.847,What about public policy?
+2007.06-989,1,17414,beth_s_brinkmann,,1639.049,1639.766,Yes.
+2007.06-989,1,15049,antonin_scalia,scotus_justice,1681.71,1684.576,What would happen in situations like this?
+2007.06-989,1,17414,beth_s_brinkmann,,1703.456,1705.741,You can't in that situation--
+2007.06-989,1,15049,antonin_scalia,scotus_justice,1705.741,1714.264,Is there no such thing as... as failure of the contract for a misunderstanding of the law?
+2007.06-989,1,17414,beth_s_brinkmann,,1714.264,1720.066,"--That would be a common law action that the Chief Justice was referring to, to simply enforce an award."
+2007.06-989,1,15049,antonin_scalia,scotus_justice,1728.672,1736.843,You think... you think the State can enforce an arbitration award that would not be enforceable under the FAA?
+2007.06-989,2,19760,carter_g_phillips,,1736.843,1738.812,Under Section 9.
+2007.06-989,2,15086,john_g_roberts_jr,scotus_justice,1778.82,1782.324,What happens outside... that happens all the time.
+2007.06-989,3,17414,beth_s_brinkmann,,1796.316,1802.303,"--There are a couple of differences, I would also say, with the consent decree from the Section 9 enforcement of the award, Your Honor."
+2007.06-989,3,15086,john_g_roberts_jr,scotus_justice,1825.068,1828.536,I have the same question for you that I had for your friend: Why do you care?
+2007.06-989,3,17414,beth_s_brinkmann,,1842.696,1850.534,"Well, we gain a little of what we try to get through arbitration: Finality, the cessation of the time and cost that this litigation has arisen."
+2007.06-989,3,15042,david_h_souter,scotus_justice,1862.474,1873.215,"What do you say to Mr. Phillips' argument that, within the meaning of the first sentence of Section 9, you don't have any agreement at all; and, therefore, you have no right to enforce anything?"
+2007.06-989,3,17414,beth_s_brinkmann,,1878.703,1882.488,That's really a repackaging of Petitioner's severability argument from below.
+2007.06-989,3,15049,antonin_scalia,scotus_justice,1904.703,1917.594,"Assume we agree with you that this is a quick and dirty way to get arbitration agreements enforced if you want to bring it within 9 and 10, and if you don't, you're free not to; you can go to the State courts."
+2007.06-989,3,17414,beth_s_brinkmann,,1937.741,1939.657,"--Your Honor, this is under Section 9."
+2007.06-989,3,15049,antonin_scalia,scotus_justice,1944.395,1945.361,I don't understand that.
+2007.06-989,3,17414,beth_s_brinkmann,,1945.361,1946.097,We thought--
+2007.06-989,3,15084,ruth_bader_ginsburg,scotus_justice,1946.097,1952.417,"Miss Brinkmann, can we back up a bit, because this agreement had an usual genesis."
+2007.06-989,3,17414,beth_s_brinkmann,,2008.254,2014.574,"--Two responses, at least to that, Your Honor: Then the parties should have asked the court to appoint a special master."
+2007.06-989,3,15086,john_g_roberts_jr,scotus_justice,2031.516,2033.551,You don't have to go back to State court.
+2007.06-989,3,17414,beth_s_brinkmann,,2036.237,2038.689,"--Yes, Your Honor, that's right."
+2007.06-989,3,15139,stephen_g_breyer,scotus_justice,2038.689,2042.224,That's why just what you said is actually what's worrying me about the case.
+2007.06-989,3,17414,beth_s_brinkmann,,2103.963,2117.604,"Well, first of all, Your Honor, if it comes to a question about the particular facts in this case involving the scenario that Justice Ginsburg put forth of the very unusual situation of a Federal district court being there, we would, of course, dismiss the writ as improperly granted."
+2007.06-989,3,15139,stephen_g_breyer,scotus_justice,2121.556,2128.412,"Oh, no, because there is a holding in the whole Ninth Circuit, which accounts for a large percent of the country, that the district judge can't do this."
+2007.06-989,3,17414,beth_s_brinkmann,,2133.649,2142.236,"--That would be the question, Your Honor, if when faced with something that a judge wants to peel off, you have to look at what tools a Federal judge has been given."
+2007.06-989,3,15084,ruth_bader_ginsburg,scotus_justice,2152.611,2166.954,"Why not use... why not use Rule 16, pretrial procedure, and the parties and the judge can work out what they think is the most efficient way to resolve this controversy?"
+2007.06-989,3,17414,beth_s_brinkmann,,2182.463,2191.069,"--The arbitrator is what introduces these different elements, because that's a private judge chosen by the parties, paid by the parties."
+2007.06-989,3,15084,ruth_bader_ginsburg,scotus_justice,2196.973,2201.092,That's a strange argument in this respect.
+2007.06-989,3,17414,beth_s_brinkmann,,2230.361,2233.563,"--It's because it's a matter of contract law, Justice Ginsburg."
+2007.06-989,3,15113,anthony_m_kennedy,scotus_justice,2250.357,2255.178,But... but the question is whether or not that streamlined process is the only process.
+2007.06-989,3,17414,beth_s_brinkmann,,2278.175,2296.171,"--Well, Your Honor, we are not suggesting that it's the only means to get an award enforced, but if you are doing the Section 9 route, the grounds in the statute are the only grounds on which that can be done, and the policy about whether or not those transaction costs, when parties want further review on an arbitration, is shifted to the courts."
+2007.06-989,3,15113,anthony_m_kennedy,scotus_justice,2297.488,2306.527,But you're... you're asking us to interpret the statute; and let us assume that it's a plausible interpretation and interpret the statute as the Petitioner would.
+2007.06-989,3,17414,beth_s_brinkmann,,2336.629,2342.533,"--But, Your Honor, I think that's where we get to... between when we are talking about Section 2 and the purpose is that the parties control how the arbitration progresses."
+2007.06-989,3,15113,anthony_m_kennedy,scotus_justice,2355.721,2357.257,"Well, we're arguing about that textually."
+2007.06-989,3,17414,beth_s_brinkmann,,2373.599,2374.651,"--Well, two things, Your Honor."
+2007.06-989,3,15060,john_paul_stevens,scotus_justice,2384.907,2386.109,Can I interrupt on that for just a minute?
+2007.06-989,3,17414,beth_s_brinkmann,,2406.455,2408.721,"--Your Honor, that actually brings me to a red herring."
+2007.06-989,3,15084,ruth_bader_ginsburg,scotus_justice,2451.4,2452.017,Are there any--
+2007.06-989,3,17414,beth_s_brinkmann,,2452.017,2452.817,"Now, when Justice Scalia--"
+2007.06-989,3,15084,ruth_bader_ginsburg,scotus_justice,2452.817,2457.904,--Are there any... are there any such States left today that are using the Illinois model?
+2007.06-989,3,17414,beth_s_brinkmann,,2457.904,2459.371,"--I believe not, Your Honor."
+2007.06-989,3,15049,antonin_scalia,scotus_justice,2486.49,2500.065,"But... but the old Illinois and the old New York rules, you don't have any cases which say... which establish that those rules were not just default rules, but you... but you were not allowed to depart from them."
+2007.06-989,3,17414,beth_s_brinkmann,,2500.065,2502.081,We think the language in those cases will speak--
+2007.06-989,3,15049,antonin_scalia,scotus_justice,2502.081,2503.95,You don't... you don't have any case that holds that?
+2007.06-989,3,17414,beth_s_brinkmann,,2503.95,2508.302,"--The cases say things like on the statutory grounds, where they do say it."
+2007.06-989,3,15049,antonin_scalia,scotus_justice,2511.956,2513.739,You don't have any case that holds that.
+2007.06-989,3,17414,beth_s_brinkmann,,2513.739,2514.273,--No.
+2007.06-989,3,15084,ruth_bader_ginsburg,scotus_justice,2515.925,2523.931,Is there a possibility that the reason the language in the statute is as it is... when was the Federal Arbitration Act; what year was it?
+2007.06-989,3,17414,beth_s_brinkmann,,2523.931,2524.681,1925.
+2007.06-989,3,15084,ruth_bader_ginsburg,scotus_justice,2524.681,2529.917,And there was still abroad in the land considerable distrust of arbitrators.
+2007.06-989,3,17414,beth_s_brinkmann,,2551.748,2554.081,"If you choose that... yes, Your Honor."
+2007.06-989,3,15113,anthony_m_kennedy,scotus_justice,2576.826,2584.08,"Would you... would you agree that what we hold in this case applies to suits in admiralty, where you don't go to State court under Section 8?"
+2007.06-989,3,17414,beth_s_brinkmann,,2584.08,2586.266,"--That's a difficult question, Your Honor."
+2007.06-989,3,15113,anthony_m_kennedy,scotus_justice,2603.709,2606.93,"Well, at this point you don't have a State court fallback for your argument."
+2007.06-989,3,17414,beth_s_brinkmann,,2606.93,2608.33,Well--
+2007.06-989,3,15113,anthony_m_kennedy,scotus_justice,2608.33,2624.439,And I... I can't say why it isn't... I just repeat my earlier point... quite consistent with encouraging confidence in admiralty arbitration to allow district courts to review rulings on a matter of law if the parties so choose.
+2007.06-989,3,17414,beth_s_brinkmann,,2624.439,2632.426,"--I think that question, though, perhaps goes to more or not whether the Section 9 is the exclusive means for enforcing an award, and it isn't."
+2007.06-989,3,15139,stephen_g_breyer,scotus_justice,2636.33,2647.519,"Oh, if there is, then let's think... suppose that in the middle of a trial, the parties say, judge, this is so complicated factually, we have a way that we can get an agreed statement of facts."
+2007.06-989,3,17414,beth_s_brinkmann,,2661.028,2663.48,"Well, that sign would have to be changed."
+2007.06-989,3,15139,stephen_g_breyer,scotus_justice,2664.197,2664.914,We know... I'm sorry.
+2007.06-989,3,17414,beth_s_brinkmann,,2683.892,2684.759,--There are a couple of things.
+2007.06-989,3,15139,stephen_g_breyer,scotus_justice,2686.078,2688.328,"Well, no... I just say... well, I'll ask you the next question."
+2007.06-989,3,17414,beth_s_brinkmann,,2690.945,2691.897,I have to say--
+2007.06-989,3,15086,john_g_roberts_jr,scotus_justice,2691.897,2692.531,Isn't there--
+2007.06-989,3,17414,beth_s_brinkmann,,2692.531,2693.714,--the court would not be bound by that.
+2007.06-989,3,15139,stephen_g_breyer,scotus_justice,2696.183,2696.749,I'm sorry.
+2007.06-989,3,15086,john_g_roberts_jr,scotus_justice,2713.259,2713.775,--Sure.
+2007.06-989,3,15139,stephen_g_breyer,scotus_justice,2713.775,2714.544,He can?
+2007.06-989,3,17414,beth_s_brinkmann,,2714.544,2715.877,"I think, I think there would be a State bar--"
+2007.06-989,3,15086,john_g_roberts_jr,scotus_justice,2715.877,2720.346,"Sure, if the parties agree, and here's our stipulation: We agree that he is a citizen of Pennsylvania and you're a citizen of--"
+2007.06-989,3,15139,stephen_g_breyer,scotus_justice,2720.346,2722.048,"All right, so there are public policy limitations."
+2007.06-989,3,17414,beth_s_brinkmann,,2722.048,2722.714,"--Well, and it's collusion."
+2007.06-989,3,15139,stephen_g_breyer,scotus_justice,2724.064,2726.333,"Well, is there anything wrong here?"
+2007.06-989,3,17414,beth_s_brinkmann,,2734.106,2739.491,I think it would have depended on what the court did with it.
+2007.06-989,3,15139,stephen_g_breyer,scotus_justice,2750.263,2750.663,All right.
+2007.06-989,3,17414,beth_s_brinkmann,,2760.719,2763.152,"That's difficult, because it's an award--"
+2007.06-989,3,15139,stephen_g_breyer,scotus_justice,2763.152,2765.171,"What I'm driving at, whether I've asked it well or not--"
+2007.06-989,3,17414,beth_s_brinkmann,,2765.171,2765.704,"--Yes, right."
+2007.06-989,3,15139,stephen_g_breyer,scotus_justice,2765.704,2768.906,--is is how is it any different from coming in with an agreed statement of facts?
+2007.06-989,3,17414,beth_s_brinkmann,,2768.906,2770.606,Because this is an arbitration award.
+2007.06-989,3,15060,john_paul_stevens,scotus_justice,2782.647,2783.832,May I ask this sort of basic question?
+2007.06-989,3,17414,beth_s_brinkmann,,2791.652,2798.341,"Congress wanted to give parties an option for a quick, simple, cost-effective and final way--"
+2007.06-989,3,15060,john_paul_stevens,scotus_justice,2798.341,2801.377,Why would they want to prohibit an option that takes a little bit longer?
+2007.06-989,3,17414,beth_s_brinkmann,,2801.377,2810.066,"--Because that would be a different action where you have to look to State contract law, contract law defenses, whether there are State arbitration laws... it's a different animal."
+2007.06-989,3,15086,john_g_roberts_jr,scotus_justice,2818.486,2822.938,--I thought your answer would be part the point Justice Stevens brought up earlier.
+2007.06-989,3,17414,beth_s_brinkmann,,2826.723,2827.206,Uh-huh.
+2007.06-989,3,15086,john_g_roberts_jr,scotus_justice,2827.206,2836.447,"--And so what the Federal Arbitration Act says is, all right, in the narrow circumstances where the parties agreed, subject to this narrow standard, you have to enforce it."
+2007.06-989,3,17414,beth_s_brinkmann,,2839.815,2840.415,That's right.
+2007.06-989,3,15060,john_paul_stevens,scotus_justice,2844.684,2848.171,Why do they want to prevent the parties from choosing the option they chose in this case?
+2007.06-989,3,17414,beth_s_brinkmann,,2850.655,2856.742,"They can choose another option, but they may have a full-blown trial about contract law in the award, and that's what Section 9 would--"
+2007.06-989,3,15060,john_paul_stevens,scotus_justice,2856.742,2857.877,But then there'd be no arbitration at all.
+2007.06-989,3,17414,beth_s_brinkmann,,2858.511,2859.761,--I also have--
+2007.06-989,3,15060,john_paul_stevens,scotus_justice,2859.761,2865.998,But I just don't understand why it makes any sense at all to say this type of arbitration agreement is invalid.
+2007.06-989,3,15113,anthony_m_kennedy,scotus_justice,2865.998,2866.831,And I would add--
+2007.06-989,3,17414,beth_s_brinkmann,,2866.831,2868.081,"--Well, Your Honor, we're not saying it's invalid."
+2007.06-989,3,15113,anthony_m_kennedy,scotus_justice,2868.081,2870.967,--I would add that in admiralty you don't have the back-up of State law.
+2007.06-989,3,17414,beth_s_brinkmann,,2870.967,2872.919,"We're not saying it's invalid, Your Honor."
+2007.06-989,3,15042,david_h_souter,scotus_justice,2888.411,2893.565,"No, but the question is still here: Why should there be a limit if the parties themselves agree?"
+2007.06-989,3,17414,beth_s_brinkmann,,2906.306,2908.508,"--It would be under a different cause of action, Justice Souter."
+2007.06-989,3,15042,david_h_souter,scotus_justice,2908.508,2909.142,Pardon me?
+2007.06-989,3,17414,beth_s_brinkmann,,2909.142,2910.11,You'd be under State contract law.
+2007.06-989,3,15042,david_h_souter,scotus_justice,2928.255,2929.488,That's true in any diversity case.
+2007.06-989,3,17414,beth_s_brinkmann,,2929.488,2933.04,"--But, Your Honor, this would be under the Federal Arbitration Act."
+2007.06-989,3,15042,david_h_souter,scotus_justice,2938.394,2940.963,"Okay, why didn't Congress give any guidance?"
+2007.06-989,3,17414,beth_s_brinkmann,,2968.613,2969.565,It was--
+2007.06-989,3,15042,david_h_souter,scotus_justice,2969.565,2979.088,"We will, in effect... we will say: Look, you got to enforce these contracts, arbitration contracts, but you don't have to go one step further."
+2007.06-989,3,17414,beth_s_brinkmann,,2986.325,2988.277,"--With all respect, I think not."
+2007.06-989,3,15084,ruth_bader_ginsburg,scotus_justice,3042.861,3043.544,Is that what--
+2007.06-989,3,17414,beth_s_brinkmann,,3043.544,3048.146,"--courts would get mired in under a common law development standard of review, according to what--"
+2007.06-989,3,15139,stephen_g_breyer,scotus_justice,3048.146,3051.884,Has that been a nightmare... has it been the nightmare you suggest in labor arbitration?
+2007.06-989,3,17414,beth_s_brinkmann,,3054.919,3055.602,--It does.
+2007.06-989,3,15139,stephen_g_breyer,scotus_justice,3055.602,3066.893,And has that turned into some kind of terrible nightmare where there are dozens of rules and they have a long complicated labor set of regulations on it?
+2007.06-989,3,17414,beth_s_brinkmann,,3068.526,3072.38,"Well, Your Honor, I'm not as familiar with that perhaps as I should be, but I know--"
+2007.06-989,3,15139,stephen_g_breyer,scotus_justice,3072.38,3075.999,"Well, if we run that pretty well, why wouldn't you run this pretty well--"
+2007.06-989,3,17414,beth_s_brinkmann,,3075.999,3076.749,--I think the--
+2007.06-989,3,15139,stephen_g_breyer,scotus_justice,3076.749,3079.284,"--given a back-up, looking at it as a default?"
+2007.06-989,3,17414,beth_s_brinkmann,,3079.284,3083.903,--I think they're very different policies and different statutory frameworks that apply.
+2007.06-989,3,15084,ruth_bader_ginsburg,scotus_justice,3083.903,3090.092,"--Well, let's take this statute and let's take the circuits that have the rule, the opposite rule."
+2007.06-989,3,17414,beth_s_brinkmann,,3099.28,3100.397,Yes.
+2007.06-989,3,15084,ruth_bader_ginsburg,scotus_justice,3100.397,3102.149,What has been the experience there?
+2007.06-989,3,17414,beth_s_brinkmann,,3102.149,3104.851,There has not been widespread use of this provision.
+2007.06-989,3,15084,ruth_bader_ginsburg,scotus_justice,3142.191,3156.134,"I think a lot of those horribles, Mr. Phillips would agree with you because he hesitated even on de novo, and I think he thought that trying to control an appeal from the district court, that would be out of the ballpark."
+2007.06-989,3,17414,beth_s_brinkmann,,3156.134,3160.069,--I think it would create a hybrid animal that is not what the Arbitration Act is about.
+2007.06-989,3,15049,antonin_scalia,scotus_justice,3160.069,3163.621,Why couldn't you limit it reasonably by saying the parties can agree to anything?
+2007.06-989,3,17414,beth_s_brinkmann,,3178.215,3179.316,With all due respect--
+2007.06-989,3,15049,antonin_scalia,scotus_justice,3179.316,3181.934,Which means the court would decide the questions of law.
+2007.06-989,3,17414,beth_s_brinkmann,,3181.934,3185.82,"--With all due respect, Your Honor, that would be for Congress to do, not this Court."
+2007.06-989,3,15049,antonin_scalia,scotus_justice,3189.688,3190.54,"I understand, but that would be a limit."
+2007.06-989,3,17414,beth_s_brinkmann,,3193.107,3202.932,"No, but you're putting... you are, I think, as this Court itself has said, you're breeding litigation from a statute whose whole point was to minimize and limit litigation."
+2007.06-989,3,15084,ruth_bader_ginsburg,scotus_justice,3220.309,3232.034,"But one problem that I have with your position is you say that the... you should continue to prevail, although that would be in violation of the parties' agreement."
+2007.06-989,3,17414,beth_s_brinkmann,,3243.073,3245.275,"That's the severability point that they lost on, Your Honor."
+2007.06-989,3,15113,anthony_m_kennedy,scotus_justice,3259.785,3267.874,"Could the parties have an arbitration agreement in which they said, if there are contested issues of law, either party may seek declaratory judgment?"
+2007.06-989,3,17414,beth_s_brinkmann,,3267.874,3270.659,In court?
+2007.06-989,3,15113,anthony_m_kennedy,scotus_justice,3270.659,3273.628,"In a Federal court, under the Declaratory Judgment Act."
+2007.06-989,3,17414,beth_s_brinkmann,,3273.628,3277.646,I don't know if that would be an arbitration agreement.
+2007.06-989,3,15113,anthony_m_kennedy,scotus_justice,3278.496,3280.932,My hypothetical is it's in the arbitration agreement.
+2007.06-989,3,17414,beth_s_brinkmann,,3291.323,3299.31,"--I hesitate because it sounds like that may just be an advisory opinion, and there might be an Article III problem with that."
+2007.06-989,3,15113,anthony_m_kennedy,scotus_justice,3299.31,3299.679,No.
+2007.06-989,3,17414,beth_s_brinkmann,,3304.713,3306.099,Then they can go and have--
+2007.06-989,3,15113,anthony_m_kennedy,scotus_justice,3306.099,3309.967,I think the reason you hesitated to answer yes might be inconsistent with your position.
+2007.06-989,3,17414,beth_s_brinkmann,,3310.584,3311.486,"--No, I don't think so, Your Honor."
+2007.06-989,3,15113,anthony_m_kennedy,scotus_justice,3318.14,3320.592,There are lots of other things for the arbitrator to do.
+2007.06-989,3,17414,beth_s_brinkmann,,3323.461,3329.448,--I don't see how that is inconsistent with a party independently going for a declaratory judgment action.
+2007.06-989,3,15086,john_g_roberts_jr,scotus_justice,3332.181,3333.15,"Thank you, Ms. Brinkmann."
+2007.06-989,4,19760,carter_g_phillips,,3335.852,3337.418,"Thank you, Mr. Chief Justice."
+2007.06-989,4,15042,david_h_souter,scotus_justice,3382.464,3389.569,What do you say about her argument that we are limited in considering your argument by the severability ruling that you didn't appeal?
+2007.06-989,4,19760,carter_g_phillips,,3389.569,3404.21,"--I don't see how the severability ruling has any relevance to this particular problem, because what we're saying is we are entitled to enforce the... the agreement of the parties with respect to exactly what the district court has the authority to do."
+2007.06-989,4,15042,david_h_souter,scotus_justice,3414.701,3428.425,"No, but it does... it does preclude... I mean, her answer is an answer to the argument that you were making in response to a question of mine earlier, that in fact you don't have an agreement within the meaning of the preamble portion of Section 9."
+2007.06-989,4,19760,carter_g_phillips,,3433.662,3438.214,"--Right, but all I'm saying is that I think that puts the cart before the horse."
+2007.06-989,4,15049,antonin_scalia,scotus_justice,3469.419,3474.989,"Remind me why Section 9 doesn't get you there... because of the ""if"" clause."
+2007.06-989,4,19760,carter_g_phillips,,3474.989,3475.422,--Right.
+2007.06-989,4,15049,antonin_scalia,scotus_justice,3476.255,3481.476,"If the parties in their agreement have agreed that a judgment of a court shall be entered upon the award made pursuant to... but they have agreed to that, haven't they?"
+2007.06-989,4,19760,carter_g_phillips,,3481.476,3481.909,Well no--
+2007.06-989,4,15049,antonin_scalia,scotus_justice,3481.909,3482.761,The question is simply--
+2007.06-989,4,19760,carter_g_phillips,,3482.761,3489.249,--Subject to the condition that the district court would make a determination that there was no error in law.
+2007.06-989,4,15049,antonin_scalia,scotus_justice,3491.867,3501.973,"--Why is, why is that condition excluded from the 10 are not excluded from the ""if"" clause?"
+2007.06-989,4,19760,carter_g_phillips,,3508.31,3508.643,--Right.
+2007.06-989,4,15068,samuel_a_alito_jr,scotus_justice,3529.373,3539.829,"Well, if you agree on condition and the conditions are satisfied, are you saying that the district court must enforce under Section 9, or are you saying that enforcement would be under some other authority?"
+2007.06-989,4,19760,carter_g_phillips,,3539.829,3551.97,"I think the enforcement would be under the existing authority that the district court had in this particular case, because this was a case that was pending before the district court under diversity jurisdiction seeking to enforce the lease agreement."
+2007.06-989,4,15113,anthony_m_kennedy,scotus_justice,3571.967,3584.358,"I'm not sure why you have to give the answer you just gave to Justice Alito, if what you told Justice Scalia is correct, that the ""if"" clause includes the condition that the court reviewed for issues... for errors of law."
+2007.06-989,4,19760,carter_g_phillips,,3584.358,3590.012,"I'm not sure there is any inconsistency between those two things, between those two things... statements."
+2007.06-989,4,15113,anthony_m_kennedy,scotus_justice,3590.012,3594.566,"Well... but you're arguing to Justice Scalia that Section 9 works because you could interpret the ""if"" clause that way."
+2007.06-989,4,19760,carter_g_phillips,,3594.566,3595.016,Right.
+2007.06-989,4,15113,anthony_m_kennedy,scotus_justice,3595.016,3597.101,"Now you're telling Justice Scalia, oh, well, it's a different action."
+2007.06-989,4,19760,carter_g_phillips,,3598.318,3598.718,Right.
+2007.06-989,4,15086,john_g_roberts_jr,scotus_justice,3636.893,3638.209,"Thank you, Mr. Phillips."

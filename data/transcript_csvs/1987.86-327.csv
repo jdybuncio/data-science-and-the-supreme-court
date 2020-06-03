@@ -1,0 +1,112 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1987.86-327,0,15141,william_h_rehnquist,scotus_justice,0.0,59.789,"Mr. Solomons, you may proceed whenever you are ready."
+1987.86-327,0,36729,mark_e_solomons,,59.789,73.964,"Mr. Chief Justice, and may it please the Court, the Black Lung Benefits Act is a federally based workers compensation program which provides benefits on account of total disability or death of a coalminer due to black lung disease."
+1987.86-327,0,15092,sandra_day_oconnor,scotus_justice,196.759,222.059,"Mr. Solomons, I am a little unclear how this argument you are making squares with what the SG tells us is the true doubt rule that is applied in these cases, and I would like you to tell me whether you are suggesting in effect or implicitly asking us to say there isn't any such thing as a true doubt."
+1987.86-327,0,36729,mark_e_solomons,,241.288,244.84,"Well, I think we are going just a little bit beyond the true doubt rule."
+1987.86-327,0,15092,sandra_day_oconnor,scotus_justice,290.805,301.161,"Well, do we even have to decide in this case whether there is such a thing as a true doubt rule and the burden of persuasion issue that you are discussing?"
+1987.86-327,0,36729,mark_e_solomons,,301.161,304.029,"--Well, I don't think the Court has to decide whether there is a true doubt rule."
+1987.86-327,0,15092,sandra_day_oconnor,scotus_justice,329.596,331.196,"Well, you can't have it both ways."
+1987.86-327,0,36729,mark_e_solomons,,354.545,356.43,"--No, I don't think you have to do that."
+1987.86-327,0,15049,antonin_scalia,scotus_justice,613.078,617.447,"It is not a total mismatch, at least as to (a) 1."
+1987.86-327,0,36729,mark_e_solomons,,619.732,622.584,"Well, Your Honor--"
+1987.86-327,0,15049,antonin_scalia,scotus_justice,622.584,624.619,--the evidence for the (a) 1 presumption.
+1987.86-327,0,36729,mark_e_solomons,,624.619,627.738,"--Justice Scalia, we might be able to in one circuit."
+1987.86-327,0,15049,antonin_scalia,scotus_justice,666.446,681.373,"Well, I thought that the rule... maybe you are arguing from a different rule, for a different rule than the government, but I thought that the only evidence you were going to allow to come in under (a) is evidence of the same sort, but you want all evidence."
+1987.86-327,0,36729,mark_e_solomons,,681.373,681.74,No--
+1987.86-327,0,15049,antonin_scalia,scotus_justice,681.74,685.694,"Well, if you only allow evidence of the same sort to come in, then you still face to some degree--"
+1987.86-327,0,15141,william_h_rehnquist,scotus_justice,685.694,688.812,Justice Scalia will finish his question at 1:00 o'clock.
+1987.86-327,0,15049,antonin_scalia,scotus_justice,713.444,732.924,You were making the point that we had to adopt the position you were urging because otherwise you would have an opportunity to rebut the data under Subsection (a).
+1987.86-327,0,36729,mark_e_solomons,,811.739,817.376,"Well, you are right about their position, I am relatively sure, and we agree with it completely."
+1987.86-327,0,15049,antonin_scalia,scotus_justice,829.684,840.705,"Okay, but then you are bound to acknowledge that even under your position the statute doesn't make a whole lot of sense, that there is some evidence that you are never going to be able to use to refute other evidence, right?"
+1987.86-327,0,36729,mark_e_solomons,,840.705,854.065,"Well, our position is that once you get to the rebuttal inquiry, the evidence that we could be... that is properly considered in the invocation inquiry doesn't have much of a place once you finally get to rebuttal."
+1987.86-327,0,15049,antonin_scalia,scotus_justice,899.761,911.838,"Under your rule it is just a lesser amount of contradictory evidence that has no place, but you will have to admit that there is some contradictory evidence that will have no place, even under your rule."
+1987.86-327,0,36729,mark_e_solomons,,921.026,933.934,"Well, the autopsy is considered in part of the invocation analysis where you determine whether the autopsy by itself or the autopsy in conjunction with other autopsy reports invokes the presumption."
+1987.86-327,0,15049,antonin_scalia,scotus_justice,937.869,940.238,You cannot use it to refute a ventilatory study.
+1987.86-327,0,36729,mark_e_solomons,,940.238,940.838,"--No, you cannot."
+1987.86-327,0,15049,antonin_scalia,scotus_justice,940.838,942.707,"Anywhere, neither under (a) nor (b)."
+1987.86-327,0,36729,mark_e_solomons,,942.707,943.107,Right.
+1987.86-327,0,15049,antonin_scalia,scotus_justice,943.107,943.757,"Well, why is that?"
+1987.86-327,0,36729,mark_e_solomons,,944.309,957.717,What you can do with an autopsy study arguably is use it in the first instance to determine under the first section of the invocation provision whether the individual has coalworkers' pneumoconiosis.
+1987.86-327,0,15049,antonin_scalia,scotus_justice,1190.235,1203.543,"What do you do about what the government points out in Footnote 30 of its brief, which is that the APA is excluded in cases where it is otherwise provided by regulations of the secretary?"
+1987.86-327,0,36729,mark_e_solomons,,1203.543,1210.148,"Well, the reliance placed there is on Section 422 (a) of the Black Lung Act."
+1987.86-327,0,15049,antonin_scalia,scotus_justice,1237.731,1241.683,"It does say that, except as otherwise provided by regulations, et cetera."
+1987.86-327,0,36729,mark_e_solomons,,1241.683,1247.67,It says the Longshore Act applies except as otherwise provided by regulations of the Secretary.
+1987.86-327,0,15141,william_h_rehnquist,scotus_justice,1279.558,1281.091,"Thank you, Mr. Solomons."
+1987.86-327,1,36128,michael_k_kellogg,,1282.843,1308.391,"Mr. Chief Justice, and may it please the Court, under the regulations at issue here, a miner with ten or more years of coal mine experience need only establish one of four basic facts in order to create a presumption of compensable disability."
+1987.86-327,1,15049,antonin_scalia,scotus_justice,1522.03,1524.549,"It also is hard to say it more accurately, isn't it?"
+1987.86-327,1,36128,michael_k_kellogg,,1533.505,1535.357,"--That's correct, Justice Scalia."
+1987.86-327,1,15049,antonin_scalia,scotus_justice,1547.831,1559.555,"Now, does the agency interpret the plural when it is used in the other sections, such as studies, ventilatory studies, does the preponderance there have to be a preponderance that is composed of more than one study?"
+1987.86-327,1,36128,michael_k_kellogg,,1559.555,1560.789,No.
+1987.86-327,1,15049,antonin_scalia,scotus_justice,1566.126,1571.88,"That is very unfortunate, because that is just not consistent with what you have just been saying."
+1987.86-327,1,36128,michael_k_kellogg,,1571.88,1620.344,"--Well, it is consistent insofar as the reference to studies clearly indicates that all existing studies are to be considered and weighed in the process of determining whether, for example, under Category (b)2 the person has established the existence of a pulmonary impairment, or under category b(3) whether the studies have demonstrated a respiratory disease, and the reference there clearly indicates that there is to be a weighing process, and that more than one study can be relevant, but it has been the consistent interpretation of the director that a single study will suffice in the absence of countervailing studies proving the contrary."
+1987.86-327,1,15092,sandra_day_oconnor,scotus_justice,1620.344,1631.485,"Mr. Kellogg, does the true doubt rule that you refer to in the brief apply at the interim presumption stage?"
+1987.86-327,1,36128,michael_k_kellogg,,1631.485,1634.27,It would apply only at the interim presumption stage.
+1987.86-327,1,15092,sandra_day_oconnor,scotus_justice,1635.237,1637.572,And not at the rebuttal stage?
+1987.86-327,1,36128,michael_k_kellogg,,1637.572,1638.988,"No, not at the rebuttal stage."
+1987.86-327,1,15092,sandra_day_oconnor,scotus_justice,1653.165,1660.569,"Well, how can you say in one breath that there is a burden of persuasion by a preponderance and yet have the true doubt rule?"
+1987.86-327,1,36128,michael_k_kellogg,,1660.569,1662.854,"--Well, the true doubt rule--"
+1987.86-327,1,15092,sandra_day_oconnor,scotus_justice,1662.854,1665.723,And where do we find the true doubt rule?
+1987.86-327,1,36128,michael_k_kellogg,,1665.723,1674.828,--The true doubt rule is published in the Federal Register accompanying the interim regulations in a discussion of the rebuttal provisions.
+1987.86-327,1,15092,sandra_day_oconnor,scotus_justice,1748.293,1752.095,"Well, I see."
+1987.86-327,1,36128,michael_k_kellogg,,1758.065,1762.117,You cannot prove that by virtue of the same sort of evidence.
+1987.86-327,1,15049,antonin_scalia,scotus_justice,1762.117,1766.671,"But that being one category of respiratory disease, it comes to the same, you are saying."
+1987.86-327,1,36128,michael_k_kellogg,,1766.671,1767.704,That's correct.
+1987.86-327,1,15060,john_paul_stevens,scotus_justice,1775.944,1779.162,Let me just be sure I understand that.
+1987.86-327,1,36128,michael_k_kellogg,,1795.107,1798.642,It would depend on which invocation category we used.
+1987.86-327,1,15060,john_paul_stevens,scotus_justice,1798.642,1799.809,"Well, Number 2."
+1987.86-327,1,36128,michael_k_kellogg,,1799.809,1801.094,"In Number, 2--"
+1987.86-327,1,15060,john_paul_stevens,scotus_justice,1801.094,1805.546,Ventilatory studies establish the presence of a chronic respiratory or pulmonary disease.
+1987.86-327,1,36128,michael_k_kellogg,,1809.181,1810.45,--That's correct.
+1987.86-327,1,15060,john_paul_stevens,scotus_justice,1810.45,1819.556,"Now, having triggered the presumption, may they offer evidence that tends to disprove that narrow fact, that there was the presence of such a disease?"
+1987.86-327,1,36128,michael_k_kellogg,,1819.556,1820.389,Yes.
+1987.86-327,1,15060,john_paul_stevens,scotus_justice,1848.758,1862.55,"Why wouldn't the doctor's opinion be admissible at the preliminary stage to show that the studies do not in fact establish the conclusion because doctors don't interpret them that way, just as in reading x-rays the distinction between the x-ray and the interpretation of the x-ray."
+1987.86-327,1,36128,michael_k_kellogg,,1872.822,1877.393,"--Well, because the (a)2 invocation category relies on specific values."
+1987.86-327,1,15141,william_h_rehnquist,scotus_justice,1901.258,1904.127,"Thank you, Mr. Kellogg."
+1987.86-327,2,19476,c_randall_lowe,,1905.977,1926.89,"Thank you, Mr. Chief Justice, and may it please the Court, the petitioner asserts that the administrative agency's interpretation of the invocation provision at 203 is reasonable and entitled to substantial deference."
+1987.86-327,2,15049,antonin_scalia,scotus_justice,2063.844,2076.07,Does the presumption that is established in (a) amount to any more than saying that a tie goes to the claimant?
+1987.86-327,2,19476,c_randall_lowe,,2089.161,2094.547,"Well, Justice, we are saying that, for example, x-ray evidence, if--"
+1987.86-327,2,15049,antonin_scalia,scotus_justice,2094.547,2095.565,Just answer that question.
+1987.86-327,2,19476,c_randall_lowe,,2107.124,2108.774,"--Yes, we... the burden--"
+1987.86-327,2,15049,antonin_scalia,scotus_justice,2108.774,2119.514,"If that is the case then, isn't this all a tempest in a teapot, because the agency is saying anyway that the tie goes to the claimant."
+1987.86-327,2,19476,c_randall_lowe,,2129.037,2132.155,"--The problem is, they speak of the true doubt rule."
+1987.86-327,2,15049,antonin_scalia,scotus_justice,2143.194,2146.662,Which amounts to saying there is a presumption that the claimant wins.
+1987.86-327,2,19476,c_randall_lowe,,2154.05,2156.935,"The problem is, who carries the burden."
+1987.86-327,2,15049,antonin_scalia,scotus_justice,2474.191,2476.893,Which regulations exclude it?
+1987.86-327,2,19476,c_randall_lowe,,2476.893,2479.009,Sir?
+1987.86-327,2,15049,antonin_scalia,scotus_justice,2479.009,2481.695,Which regulations exclude it?
+1987.86-327,2,19476,c_randall_lowe,,2481.695,2522.922,"We would state that under (a), that the (a) and (b) show what you have to produce for the persuasion to be shifted to the code operator or the director, and then under (b), with all relevant evidence to be considered, it sets forth a showing that all evidence or the preponderance of the evidence rule will then be applied, so before any decision or final decision is made by an arbitrator, in this case Administrative Law Judge, the preponderance evidence is applied."
+1987.86-327,2,15049,antonin_scalia,scotus_justice,2573.855,2581.727,"Is your position that a biopsy, (a)1 means just a single biopsy, what about (a)2?"
+1987.86-327,2,19476,c_randall_lowe,,2587.115,2592.083,"It means one study, Justice, but--"
+1987.86-327,2,15049,antonin_scalia,scotus_justice,2592.083,2610.961,"I thought you were urging... it seems to me that the foundation of your argument is the literal language of the statute that says a chest roentgenogram leaves a, simply one, you are saying, but (a)2 says ventilatory studies."
+1987.86-327,2,19476,c_randall_lowe,,2613.929,2619.733,"--Well, but under the context of the regulation it takes three studies to make one."
+1987.86-327,2,15071,byron_r_white,scotus_justice,2678.203,2689.143,"If the claimant fails to invoke the presumption, he still... he isn't through, is he?"
+1987.86-327,2,19476,c_randall_lowe,,2699.316,2703.768,"--Well, no, Justice, I would disagree."
+1987.86-327,2,15071,byron_r_white,scotus_justice,2748.063,2752.099,"Well, isn't there any other way to prove you have got the disease?"
+1987.86-327,2,19476,c_randall_lowe,,2752.099,2754.617,Not under 203(a).
+1987.86-327,2,15071,byron_r_white,scotus_justice,2756.153,2758.938,"Well, that just goes to whether the presumption is invoked."
+1987.86-327,2,19476,c_randall_lowe,,2758.938,2772.412,--But under 203 those are the only things that you can offer to prove that you suffer from pneumoconiosis and that you are disabled.
+1987.86-327,2,15071,byron_r_white,scotus_justice,2772.412,2778.332,I was just reading the government's Footnote 3.
+1987.86-327,2,19476,c_randall_lowe,,2802.098,2810.585,"There are other regulations you can turn to, but if you can't get it here I don't think in reality you are going to get it at all."
+1987.86-327,2,15060,john_paul_stevens,scotus_justice,2866.604,2869.79,"Before you sit down, may I ask you to comment?"
+1987.86-327,2,19476,c_randall_lowe,,2888.287,2909.45,"I would take that to mean that the x-ray, based upon the standard that the x-ray has to be in, which is, 1/0 is the first step to show that you have pneumoconiosis, I would take that to mean that that x-ray shows or proves that you have pneumoconiosis, that it is not negative."
+1987.86-327,2,15060,john_paul_stevens,scotus_justice,2909.45,2914.985,Even if there are ten other x-rays that support the contrary conclusion?
+1987.86-327,2,19476,c_randall_lowe,,2914.985,2940.469,"Supports the contrary, it is our position that your presumption is invoked and then, unlike the director in not being able to look at any other x-ray, we believe that under (b) we look at all of the evidence then and determine if those, if in the Administrative Law Judge's opinion those other nine x-rays show that you do not have pneumoconiosis."
+1987.86-327,2,15060,john_paul_stevens,scotus_justice,2940.469,2944.421,I thought I understood this before.
+1987.86-327,2,19476,c_randall_lowe,,2950.508,2950.86,Yes.
+1987.86-327,2,15060,john_paul_stevens,scotus_justice,2950.86,2956.079,And in addition establishes the presumption of causal connection and total disability and all the rest.
+1987.86-327,2,19476,c_randall_lowe,,2956.079,2957.329,"Yes, sir."
+1987.86-327,2,15060,john_paul_stevens,scotus_justice,2957.329,2959.197,So that it performs two functions under your view.
+1987.86-327,2,19476,c_randall_lowe,,2967.201,2967.751,That's correct.
+1987.86-327,2,15060,john_paul_stevens,scotus_justice,2967.751,2968.753,Yes.
+1987.86-327,2,19476,c_randall_lowe,,2977.075,2988.633,"I would think ""establish"" means ""prove"", and does not set forth a burden of proof of preponderance of the evidence as the director thinks it established."
+1987.86-327,2,15060,john_paul_stevens,scotus_justice,2988.633,2994.537,"But do you agree with your opponent's reading of the word ""establish"" when you are talking about rebuttal?"
+1987.86-327,2,19476,c_randall_lowe,,2994.537,2995.937,"No, I do not agree."
+1987.86-327,2,15060,john_paul_stevens,scotus_justice,3000.256,3002.358,You mean they win with just some evidence then?
+1987.86-327,2,19476,c_randall_lowe,,3002.358,3016.618,"--203(b) says in adjudicating a claim under this subpart, all relevant evidence shall be considered, and I think under (b) that is where the preponderance of the evidence is established in the head of that subpart."
+1987.86-327,2,15141,william_h_rehnquist,scotus_justice,3028.357,3029.492,"Thank you, Mr. Lowe."
+1987.86-327,3,36729,mark_e_solomons,,3031.878,3045.451,"Although it is not terribly relevant to the case, I would like to clear up one misconception about mine operators overwhelming the record with evidence in these cases."
+1987.86-327,3,15071,byron_r_white,scotus_justice,3062.147,3064.849,There could be eight or ten different doctors.
+1987.86-327,3,36729,mark_e_solomons,,3064.849,3065.615,"Yes, that's right."
+1987.86-327,3,15071,byron_r_white,scotus_justice,3066.582,3069.634,Without the claimant's consent.
+1987.86-327,3,36729,mark_e_solomons,,3069.634,3078.774,"The claimant can do the same thing, and the Labor Department will pay for it, or if the claimant wins, then we pay for it."
+1987.86-327,3,15141,william_h_rehnquist,scotus_justice,3119.417,3123.118,"Thank you, Mr. Solomons."

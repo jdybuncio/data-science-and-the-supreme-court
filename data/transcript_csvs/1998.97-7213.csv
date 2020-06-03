@@ -1,0 +1,161 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1998.97-7213,0,15141,william_h_rehnquist,scotus_justice,0.0,9.689,"We'll hear argument next in Number 97-7213, Sylvester Mosley v. The United States."
+1998.97-7213,0,21197,donald_j_mccauley,,46.712,49.814,"Mr. Chief Justice, and may it please the Court:"
+1998.97-7213,0,15141,william_h_rehnquist,scotus_justice,52.064,52.849,"Just a moment, Mr. McCauley."
+1998.97-7213,0,21197,donald_j_mccauley,,61.153,76.179,"--The issue in this case is, if this Court is to imply a mens rea element in the Federal bank robbery statute, as both sides concede it must, then the Court's decision in Morissette v. The United States governs."
+1998.97-7213,0,15141,william_h_rehnquist,scotus_justice,88.07,96.759,"There, the statute itself had no intent requirement, did it, in Morissette, statute by its terms."
+1998.97-7213,0,21197,donald_j_mccauley,,96.759,162.737,"That's correct, although I believe there was mention of a knowingly in the Morissette case, a general intent, and this Court held that where the legislature, Congress was codifying a crime that was a crime at common law, it considered the whole tradition of the common law, wherein an evil intent had always been either a specific element of the statute of common law, or the understanding of the case law common law, so when the Congress was legislating against that common law backdrop, this Court held a statute that did not have the literal word intent, or evil will, that was not deleted by Congress through inadvertence, that the Court would require a specific statutory statement by the Congress saying that it intended and directing that its intention was contrary to the common law understanding that an evil intent was always there."
+1998.97-7213,0,15141,william_h_rehnquist,scotus_justice,162.737,171.843,"What we're talking about here, I guess the question presented is whether bank larceny is a lesser-included offense of bank robbery, is that right?"
+1998.97-7213,0,21197,donald_j_mccauley,,171.843,172.476,Yes.
+1998.97-7213,0,15141,william_h_rehnquist,scotus_justice,172.476,177.247,"And the reason that intent is important, and that's why you're talking about it, is what?"
+1998.97-7213,0,21197,donald_j_mccauley,,177.247,191.405,"Is the larceny statute specifically has an element, intent to steal, whereas the current codification of the bank robbery statute does not have the word intent."
+1998.97-7213,0,15141,william_h_rehnquist,scotus_justice,201.612,213.92,"And if intent is read into it, then it... bank larceny is a lesser-included offense, and if intent is not read into the robbery statute, then bank larceny is not a lesser-included offense?"
+1998.97-7213,0,21197,donald_j_mccauley,,213.92,216.805,"Yes, Your Honor, under this Court's holding in Schmuck."
+1998.97-7213,0,15042,david_h_souter,scotus_justice,228.513,273.459,"Well, even if that is so, don't you have a problem in this case, because the lesser-included offense that you ask the charge to be given on was the more serious of the two larceny offenses, i.e., theft of something more than 1,000, and there's no requirement of value of more than 1,000 in the robbery statute, so is it not... I guess another way to put my question is, is it not the case that if you're right so far, the lesser of the two larceny statutes may be a lesser-included offense, but the one you asked for, which requires proof of more than 1,000, is not?"
+1998.97-7213,0,21197,donald_j_mccauley,,273.459,275.176,"No, Justice Souter."
+1998.97-7213,0,15042,david_h_souter,scotus_justice,284.449,285.732,"Well, why isn't it?"
+1998.97-7213,0,21197,donald_j_mccauley,,293.205,300.894,"I submit that the 1,000 threshold is to distinguish between a felony larceny, felony bank larceny--"
+1998.97-7213,0,15042,david_h_souter,scotus_justice,300.894,301.544,Mm-hmm.
+1998.97-7213,0,21197,donald_j_mccauley,,301.544,303.178,--and a misdemeanor bank larceny.
+1998.97-7213,0,15042,david_h_souter,scotus_justice,315.119,322.141,"Yes, but the test is not whether this is lesser-included within the meaning of the indictment as it charged the crime in fact."
+1998.97-7213,0,21197,donald_j_mccauley,,333.949,344.388,"--That's why it is our position, and we urge the Court, that the 1,000 dollars mentioned in the two paragraphs of the larceny statute is not a requisite element."
+1998.97-7213,0,15042,david_h_souter,scotus_justice,344.388,349.292,"But if we take the position that it is a requisite element, that's the end of your case, right?"
+1998.97-7213,0,21197,donald_j_mccauley,,349.292,356.195,"I don't believe so, because there's language in the robbery statute regarding monetary value."
+1998.97-7213,0,15042,david_h_souter,scotus_justice,356.195,358.461,"Yes, but there's nothing about 1,000 dollars."
+1998.97-7213,0,21197,donald_j_mccauley,,370.955,371.921,No.
+1998.97-7213,0,15139,stephen_g_breyer,scotus_justice,374.873,378.991,"I take it you think the 1,000 dollars is simply an amount that triggers different punishment levels."
+1998.97-7213,0,21197,donald_j_mccauley,,378.991,392.75,"Yes, and I think it's illustrated by the indictment requirement, the Fifth Amendment right to indictment, where any felony we're entitled to a right to an indictment, where you wouldn't be entitled to a right to an indictment on a misdemeanor larceny."
+1998.97-7213,0,15049,antonin_scalia,scotus_justice,392.75,410.545,"Well, you said in your brief that the model instructions for this crime also support your position, but those model instructions tell the jury first to find whether there's been larceny, and then if they do find it, the jury finds whether there's been 1,000 dollars or more of value involved."
+1998.97-7213,0,21197,donald_j_mccauley,,414.414,414.98,Yes.
+1998.97-7213,0,15049,antonin_scalia,scotus_justice,416.063,418.432,"Well, why would it go to the jury if it's just a sentencing factor?"
+1998.97-7213,0,21197,donald_j_mccauley,,418.432,420.348,--Only if that issue is being litigated.
+1998.97-7213,0,15049,antonin_scalia,scotus_justice,420.348,423.3,Why would it go to the jury even if it's being litigated?
+1998.97-7213,0,21197,donald_j_mccauley,,424.669,429.787,If there were... if there was evidence issues regarding the exact amount of the money the triggers--
+1998.97-7213,0,15049,antonin_scalia,scotus_justice,429.787,432.406,"When there's evidence issues on a sentencing factor, it goes to the jury?"
+1998.97-7213,0,21197,donald_j_mccauley,,432.406,433.858,--No.
+1998.97-7213,0,15049,antonin_scalia,scotus_justice,439.142,446.082,"Under those model instructions the question of 1,000 dollars goes to the jury I think because it's a separate crime."
+1998.97-7213,0,21197,donald_j_mccauley,,452.469,456.038,"--In a footnote, they said this is not an element."
+1998.97-7213,0,15049,antonin_scalia,scotus_justice,472.4,481.338,"Mr. McCauley, I know you didn't intend this, but when you set forth section 2113 on page 2 of your brief I find it misleading."
+1998.97-7213,0,21197,donald_j_mccauley,,515.393,516.844,"Oh, it is a critical difference."
+1998.97-7213,0,15049,antonin_scalia,scotus_justice,516.844,520.88,"Well then, why didn't you set forth the whole statute instead of just that one paragraph?"
+1998.97-7213,0,21197,donald_j_mccauley,,520.88,535.14,"Well, we apologize if that... we did not believe that that was at issue, that the Third Circuit, the court below dropped a footnote, said this is not an element, it's clearly a distinction between felonious... a felony and a misdemeanor."
+1998.97-7213,0,15113,anthony_m_kennedy,scotus_justice,579.133,598.095,"Suppose the statute first said that robbery must be done with intent to steal and to take away, then 2 years later the Congress excises that phrase intent."
+1998.97-7213,0,21197,donald_j_mccauley,,603.664,621.043,"--Under the Court's holding in Morissette, and reaffirmed 4 years ago in Staples and X-Citement Video, you would require a specific statutory statement saying that we are acting contrary to the common law understandings of a common law crime."
+1998.97-7213,0,15113,anthony_m_kennedy,scotus_justice,621.043,635.636,"In other words, you understand Morissette to say that Congress has to say, we are enacting the statute contrary to the common law and the foregoing paragraph is to be interpreted accordingly?"
+1998.97-7213,0,21197,donald_j_mccauley,,636.753,637.553,Yes.
+1998.97-7213,0,15113,anthony_m_kennedy,scotus_justice,673.393,676.345,"Well, but Morissette didn't... or maybe it did."
+1998.97-7213,0,21197,donald_j_mccauley,,692.937,695.472,--Yes.
+1998.97-7213,0,15113,anthony_m_kennedy,scotus_justice,702.726,703.726,Felonious did.
+1998.97-7213,0,21197,donald_j_mccauley,,709.796,727.857,"--Yes, the same rule, because the Court in Morissette said, anything, these critical elements, whether they be actus reis or mens reas, that had been established in the more important part of criminal jurisprudence, they are not changed--"
+1998.97-7213,0,15113,anthony_m_kennedy,scotus_justice,727.857,727.94,Well--
+1998.97-7213,0,21197,donald_j_mccauley,,727.94,728.673,--by inadvertence.
+1998.97-7213,0,15141,william_h_rehnquist,scotus_justice,728.673,747.152,"--Well, that was an... that's an extraordinary position you're taking, that in... the statute at one time says with intent to steal, and Congress passes a law saying, we repeal the requirement that there be an intent to steal, and you're saying in effect Congress can't do that."
+1998.97-7213,0,21197,donald_j_mccauley,,747.152,747.635,No.
+1998.97-7213,0,15141,william_h_rehnquist,scotus_justice,752.223,759.127,"So all you need, then, is an express repeal by Congress of an intent requirement that was formerly there."
+1998.97-7213,0,21197,donald_j_mccauley,,759.127,759.96,Yes.
+1998.97-7213,0,15049,antonin_scalia,scotus_justice,761.912,762.962,But you have that here.
+1998.97-7213,0,21197,donald_j_mccauley,,763.562,764.045,No.
+1998.97-7213,0,15049,antonin_scalia,scotus_justice,768.399,769.649,--I don't care about the legislative history.
+1998.97-7213,0,21197,donald_j_mccauley,,773.451,779.671,--And it was explained in the Prince case as a change in phraseology to tidy up the statutes.
+1998.97-7213,0,15049,antonin_scalia,scotus_justice,779.671,798.251,"Well, but then you have to answer the Chief Justice's question differently, and you have to appeal to legislative history instead of simply asking... answering his question that it... that you accept the fact that if the word is there, and is then repealed by Congress, the common law requirement is eliminated, because that is the situation here."
+1998.97-7213,0,21197,donald_j_mccauley,,798.251,807.94,"I understand the Chief Justice's question to say if Congress says we're repealing that, that is a specific statement to the contrary--"
+1998.97-7213,0,15049,antonin_scalia,scotus_justice,807.94,810.523,Congress has to say it in addition to passing the statute that says it?
+1998.97-7213,0,21197,donald_j_mccauley,,810.523,814.61,--A specific indication that it is acting contrary to the common law--
+1998.97-7213,0,15049,antonin_scalia,scotus_justice,814.61,820.162,"You need legislative history to confirm what the statue says, or else the statute is ineffective to do that?"
+1998.97-7213,0,21197,donald_j_mccauley,,820.162,821.514,--If you have it.
+1998.97-7213,0,15141,william_h_rehnquist,scotus_justice,833.987,837.123,"That's an equally extraordinary position, it seems to me."
+1998.97-7213,0,21197,donald_j_mccauley,,862.591,863.157,--Yes.
+1998.97-7213,0,15141,william_h_rehnquist,scotus_justice,869.494,871.994,"Well, it isn't a... it's not a specific statement."
+1998.97-7213,0,21197,donald_j_mccauley,,876.612,880.148,"Yes, and it is changing."
+1998.97-7213,0,15049,antonin_scalia,scotus_justice,882.933,889.872,"That is not the situation here because the legislative history, in your estimation, shows what?"
+1998.97-7213,0,21197,donald_j_mccauley,,889.872,903.596,"--That felonious was deleted as a matter of phraseology to tidy up the statutes in 1948 that had become cumbersome through the repeated use of the term, felony and misdemeanors."
+1998.97-7213,0,15042,david_h_souter,scotus_justice,903.596,917.606,"We don't... as I understand it, we wouldn't necessarily have to go to legislative history for that conclusion, would we, because I assume what we would find, if we went through the codification, is that two things happened."
+1998.97-7213,0,21197,donald_j_mccauley,,946.625,956.814,"Yes, and what they did not delete... and in 1937, that was the first modification of the original bank robbery statute that was enacted in 1934."
+1998.97-7213,0,15084,ruth_bader_ginsburg,scotus_justice,1006.597,1008.616,"They said the words, lesser offenses?"
+1998.97-7213,0,21197,donald_j_mccauley,,1008.616,1009.266,Yes.
+1998.97-7213,0,15084,ruth_bader_ginsburg,scotus_justice,1009.266,1023.792,"Because it's one thing to say they filled a gap that the bank robbery statute left open, and another to say that the way they filled it was by creating a lesser-included offense."
+1998.97-7213,0,21197,donald_j_mccauley,,1023.792,1025.075,Yes.
+1998.97-7213,0,15141,william_h_rehnquist,scotus_justice,1032.731,1035.433,"But Prince deals with the merger of offenses, doesn't it?"
+1998.97-7213,0,21197,donald_j_mccauley,,1039.734,1041.02,That's correct.
+1998.97-7213,0,15084,ruth_bader_ginsburg,scotus_justice,1131.578,1136.981,Then what you're saying is that the bank larceny statute is simply redundant.
+1998.97-7213,0,21197,donald_j_mccauley,,1158.997,1171.305,"They were used... at common law the statutes had used the word take, and also carry away, as delineating various elements."
+1998.97-7213,0,15084,ruth_bader_ginsburg,scotus_justice,1176.625,1185.998,"Would the bank larceny statute be any different, would it cover anything less, if it simply read, takes, and left out the words, carries away with intent to steal?"
+1998.97-7213,0,21197,donald_j_mccauley,,1185.998,1193.135,"If the carries away was taken out, there wouldn't be this asportation, of the movement--"
+1998.97-7213,0,15084,ruth_bader_ginsburg,scotus_justice,1193.135,1194.218,"All right, with intent to steal."
+1998.97-7213,0,21197,donald_j_mccauley,,1194.551,1196.134,--of the property with intent to steal.
+1998.97-7213,0,15084,ruth_bader_ginsburg,scotus_justice,1196.134,1196.417,--If it just said take--
+1998.97-7213,0,21197,donald_j_mccauley,,1196.417,1206.623,"Yes, and I say the greater offense, robbery, also has this asportation requirement in the definition of steal, and take--"
+1998.97-7213,0,15049,antonin_scalia,scotus_justice,1206.623,1211.575,"--What if it says, takes and carries away, but does not say, with intent to steal or purloin?"
+1998.97-7213,0,21197,donald_j_mccauley,,1211.575,1214.21,--Then it's not a larceny.
+1998.97-7213,0,15049,antonin_scalia,scotus_justice,1218.596,1221.296,And we wouldn't read that element in?
+1998.97-7213,0,21197,donald_j_mccauley,,1221.296,1222.682,"No, not that actus reis."
+1998.97-7213,0,15049,antonin_scalia,scotus_justice,1222.682,1224.667,We would not read it in?
+1998.97-7213,0,21197,donald_j_mccauley,,1229.619,1229.719,I--
+1998.97-7213,0,15049,antonin_scalia,scotus_justice,1229.719,1232.737,"Why wouldn't we do the same thing to (b), if that phrase was not in (b)?"
+1998.97-7213,0,21197,donald_j_mccauley,,1232.737,1241.427,"--Because the evil intent was always a critical element, the means rea element, whereas whatever actus reis may have been required, but not--"
+1998.97-7213,0,15049,antonin_scalia,scotus_justice,1241.427,1255.75,"Gee, I really don't understand your case, then, because I had thought that your case was, in describing common law crimes, Congress is often a little sloppy, and sometimes they leave out a word like feloniously."
+1998.97-7213,0,21197,donald_j_mccauley,,1276.997,1288.119,"--I don't understand... if they take out the intent to steal element of larceny, my answer was that then it wasn't a larceny by definition in common law."
+1998.97-7213,0,15049,antonin_scalia,scotus_justice,1288.119,1298.225,"Now, I... oh, maybe what you... maybe the reason we're not... I don't mean that they take it away with the intent of taking it away."
+1998.97-7213,0,21197,donald_j_mccauley,,1321.09,1323.542,And they still labeled that bank larceny.
+1998.97-7213,0,15049,antonin_scalia,scotus_justice,1323.542,1324.192,Yes.
+1998.97-7213,0,21197,donald_j_mccauley,,1327.41,1334.981,"Absent a contrary expression that they were rewriting the common law, the Court could imply that requisite element."
+1998.97-7213,0,15084,ruth_bader_ginsburg,scotus_justice,1334.981,1342.551,"I thought your position was that the word takes does it all, so why should the word takes be any different when you're talking about larceny than a robbery?"
+1998.97-7213,0,21197,donald_j_mccauley,,1357.644,1372.82,"In the bank robbery statute, I'm relying on the Court's holding in Morissette and its prodigy to put that critical mens rea intent element in where felonious had been, and felonious had modified the definitional term of steal."
+1998.97-7213,0,15060,john_paul_stevens,scotus_justice,1422.42,1423.253,But there's another--
+1998.97-7213,0,21197,donald_j_mccauley,,1423.253,1424.87,--which they recodified in 1948.
+1998.97-7213,0,15060,john_paul_stevens,scotus_justice,1424.87,1429.157,"--Isn't there another problem, that the criminal intent can be one of two kinds?"
+1998.97-7213,0,21197,donald_j_mccauley,,1443.916,1445.366,Yes.
+1998.97-7213,0,15060,john_paul_stevens,scotus_justice,1445.366,1453.272,"And I think one of the Government's argument is that, well, you have the former in (a) but not necessarily the latter, and what is your response to that?"
+1998.97-7213,0,21197,donald_j_mccauley,,1453.272,1468.282,"Well, that essentially turns the reasoning of Morissette on its head, because Morissette said, when we're dealing with statutory definitions or codification of common law offenses, we will imply this evil mens rea, specific intent."
+1998.97-7213,0,15139,stephen_g_breyer,scotus_justice,1489.612,1511.359,"I don't understand these words, specific intent, et cetera, so in my own mind it comes down to just what Justice Stevens said, that the difference, whether there's a specific intent or not, from any practical point of view, is whether a person who goes into a bank, puts out a gun, takes the money, goes out of the bank, but he did it with an intent to return the money, you see."
+1998.97-7213,0,21197,donald_j_mccauley,,1522.084,1522.517,Yes.
+1998.97-7213,0,15139,stephen_g_breyer,scotus_justice,1522.517,1547.782,"Yes, and if it comes down to that, have you found any case, ever, in history, where there was such a person, where in fact he put the gun up... I mean, we found one, almost, in the Sentencing Commission, where a person who took some money with a toy gun to pay his veterinarian and... because he wanted the dog cured, and gave back the money when the dog died, I mean, but that was... that was an unusual case, and I'm not sure it applies."
+1998.97-7213,0,21197,donald_j_mccauley,,1563.661,1567.879,"The intent, in any case--"
+1998.97-7213,0,15139,stephen_g_breyer,scotus_justice,1567.879,1569.897,I don't want to use words like intent.
+1998.97-7213,0,21197,donald_j_mccauley,,1594.68,1600.667,"--There wouldn't be a reported case because I submit it's not a robbery, and he may not have been indicted."
+1998.97-7213,0,15139,stephen_g_breyer,scotus_justice,1600.667,1601.267,"No, no, there could be."
+1998.97-7213,0,21197,donald_j_mccauley,,1614.408,1618.961,"I'm not aware of a case that, Your Honor, Justice Breyer--"
+1998.97-7213,0,15049,antonin_scalia,scotus_justice,1618.961,1630.483,"I think I recall a case in which somebody walked in and was under the impression that money that was in the hands of a teller belonged to him, rather than to the bank."
+1998.97-7213,0,21197,donald_j_mccauley,,1657.336,1658.169,--Yes.
+1998.97-7213,0,15084,ruth_bader_ginsburg,scotus_justice,1658.169,1664.823,"In the Brittain case, the Tenth Circuit... the Tenth Circuit gave two examples that seemed rather far out."
+1998.97-7213,0,21197,donald_j_mccauley,,1682.617,1690.057,"Well, Justice Ginsburg, with respect to the first hypothetical, that I really thought it was my money, that had been a defense at common law."
+1998.97-7213,0,15049,antonin_scalia,scotus_justice,1732.717,1733.067,I don't understand that.
+1998.97-7213,0,21197,donald_j_mccauley,,1747.477,1748.244,"--Oh, it doesn't."
+1998.97-7213,0,15049,antonin_scalia,scotus_justice,1762.986,1766.021,"--No, I--"
+1998.97-7213,0,21197,donald_j_mccauley,,1766.021,1767.288,--If the money is in the care of the bank--
+1998.97-7213,0,15049,antonin_scalia,scotus_justice,1767.288,1770.423,"--No, it isn't really his money."
+1998.97-7213,0,21197,donald_j_mccauley,,1773.209,1775.544,--Then I would say that's a completed robbery.
+1998.97-7213,0,15113,anthony_m_kennedy,scotus_justice,1775.544,1785.067,"I'd like to ask you, if I could, about section... subsection (c), which is at page 2a of the petition in the Government's brief."
+1998.97-7213,0,21197,donald_j_mccauley,,1792.688,1793.672,Yes.
+1998.97-7213,0,15113,anthony_m_kennedy,scotus_justice,1793.672,1794.374,Not under (a).
+1998.97-7213,0,21197,donald_j_mccauley,,1794.374,1795.057,Yes.
+1998.97-7213,0,15113,anthony_m_kennedy,scotus_justice,1795.057,1798.076,Which way does that cut?
+1998.97-7213,0,21197,donald_j_mccauley,,1800.961,1805.563,"Well, this distinction, I believe it helps us both, because it illustrates--"
+1998.97-7213,0,15113,anthony_m_kennedy,scotus_justice,1805.563,1807.848,"That doesn't help me much, but--"
+1998.97-7213,0,21197,donald_j_mccauley,,1808.665,1812.45,--This Court's opinion in Gaddis interprets this statute.
+1998.97-7213,0,15113,anthony_m_kennedy,scotus_justice,1840.517,1854.991,"No, but on the other hand, it seems to me to help the Government in that the statute seems to envisage a situation in which property has not... in which there has been a robbery, but property has not been stolen, and that, it seems to me, helps the Government."
+1998.97-7213,0,21197,donald_j_mccauley,,1854.991,1875.172,"--Well, why it's not a lesser-included offense, and I would submit it's not a lesser-included offense of the robbery, where I submit (b) is, is because there's an additional element and there's additional purpose behind the text, and it's to go at other individuals, a different class of individuals, receivers of property, and that's what the Gaddis opinion explains."
+1998.97-7213,0,15141,william_h_rehnquist,scotus_justice,1883.927,1885.296,"Thank you, Mr. McCauley."
+1998.97-7213,1,20869,david_c_frederick,,1887.914,1898.604,"Thank you, Mr. Chief Justice, and may it please the Court:"
+1998.97-7213,1,15092,sandra_day_oconnor,scotus_justice,1911.928,1916.648,"Well, it might be if we read in the intent to steal requirement."
+1998.97-7213,1,20869,david_c_frederick,,1916.648,1931.574,"--No, Justice O'Connor, that's not correct, because even if you were to read in an intent to steal element in the bank robbery offense, there are two other textual indicators that suggest strongly that Schmuck test has not been met."
+1998.97-7213,1,15092,sandra_day_oconnor,scotus_justice,1931.574,1939.061,"Well, you say the take and carry, but robbery requires taking from, and that's close enough for Government work, as they--"
+1998.97-7213,1,20869,david_c_frederick,,1939.711,1943.715,"Not this Government, Justice O'Connor."
+1998.97-7213,1,15084,ruth_bader_ginsburg,scotus_justice,1982.09,1995.248,"On that point, then, suppose the scenario is, somebody grabs 10,000 dollars from the bank, they didn't use any force or intimidation, and they start walking away."
+1998.97-7213,1,20869,david_c_frederick,,2003.919,2013.275,"--Well, that's correct in those common law jurisdictions that it construed carrying away to go beyond the curtilage of the particular edifice."
+1998.97-7213,1,15084,ruth_bader_ginsburg,scotus_justice,2013.275,2014.561,I'm asking about this statute.
+1998.97-7213,1,20869,david_c_frederick,,2028.952,2041.894,"We would prosecute that person, and we would argue that carrying away had been satisfied, because the place where the person had taken the money or gained caption over it very likely was where the teller is, and the person had--"
+1998.97-7213,1,15049,antonin_scalia,scotus_justice,2041.894,2044.144,"So as soon as he takes one step, he's carrying it away."
+1998.97-7213,1,20869,david_c_frederick,,2044.144,2046.262,"--It's a... that's correct, Justice Scalia."
+1998.97-7213,1,15049,antonin_scalia,scotus_justice,2046.262,2047.881,This is a finely crafted statute.
+1998.97-7213,1,20869,david_c_frederick,,2056.435,2061.688,"Well, the commentators noted that the asportation requirement was a minimal one."
+1998.97-7213,1,15092,sandra_day_oconnor,scotus_justice,2075.366,2086.054,"Yes, but here we just want to know if this particular statute is a lesser-included offense of the bank robbery, so you're telling me that the difference between the two is one step."
+1998.97-7213,1,20869,david_c_frederick,,2093.909,2103.849,"--You have to make a carrying-away movement, and the jury must find that after it has been put in the indictment and proved beyond a reasonable doubt by the Government."
+1998.97-7213,1,15042,david_h_souter,scotus_justice,2105.301,2108.586,"--No, finish your answer."
+1998.97-7213,1,20869,david_c_frederick,,2108.586,2120.061,"--No, I... in the same way that the Government must plead in the indictment under larceny that the amount taken was above 1,000 dollars and the jury must find that."
+1998.97-7213,1,15042,david_h_souter,scotus_justice,2127.147,2130.182,Was it ever an element of the robbery offense at common law?
+1998.97-7213,1,20869,david_c_frederick,,2130.182,2130.649,--No.
+1998.97-7213,1,15042,david_h_souter,scotus_justice,2130.649,2141.888,"So therefore, even on your position, even before the word feloniously was eliminated that still was not an element, and there was never this identity."
+1998.97-7213,1,20869,david_c_frederick,,2141.888,2144.79,"The monetary requirement, or the feloniously requirement."
+1998.97-7213,1,15042,david_h_souter,scotus_justice,2145.425,2160.969,"When feloniously was removed from the statute, assuming it did nothing more than have this tidying up, or classifying a function, it did not... it would be easier, I guess, to go back to my original question."
+1998.97-7213,1,20869,david_c_frederick,,2179.847,2194.29,"--Yes, but let me explain further, because the asportation requirement was a requirement of robbery at common law, and feloniously did not encompass the asportation requirement."

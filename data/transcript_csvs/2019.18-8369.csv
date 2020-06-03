@@ -1,0 +1,128 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2019.18-8369,0,15086,john_g_roberts_jr,scotus_justice,0.0,7.88,"We'll hear argument this morning in Case 18-8369, Lomax versus Ortiz-Marquez. Mr. Burgess."
+2019.18-8369,0,22017,eric_a_burgess,,7.88,23.76,"Mr. Chief Justice, and may it please the Court: Without-prejudice dismissals for failure to state a claim are not strikes under Section 1915(g) for three reasons. First, the statute uses a familiar legal phrase with a well-established meaning in the context relevant here."
+2019.18-8369,0,15084,ruth_bader_ginsburg,scotus_justice,140.56,174.96,"You -- you are assuming that the preclusion question and the IFP status go hand in hand, but it could well be that a dismissal without prejudice will not have preclusive effect, but, at the same time, it could mean that you have to pay the filing fee. You -- you seem to be assuming that these two go hand in hand, but that's not necessarily so."
+2019.18-8369,0,22017,eric_a_burgess,,174.96,177.76,I think it's true that they are analytically separable.
+2019.18-8369,0,15094,elena_kagan,scotus_justice,264.84,278.36,"Mister -- Mr. Burgess, could you go back to your basic argument from the language? And you're, of course, right that there is a default rule that is used when somebody just says dismissal for a 12(b)(6) motion."
+2019.18-8369,0,22017,eric_a_burgess,,301.56,319.88,"It -- it is a different context, but we think it's an analogous context in that in both 1915(g) and in the preclusion context, you're looking to determine what the effect of a prior dismissal is on a future action. And we think the implication of the other side's approach makes it a very unusual type of without-prejudice dismissal."
+2019.18-8369,0,15086,john_g_roberts_jr,scotus_justice,341.16,342.04,Does 19 --
+2019.18-8369,0,15084,ruth_bader_ginsburg,scotus_justice,342.04,345.24,But I suggest that that's not necessarily so.
+2019.18-8369,0,22017,eric_a_burgess,,358.88,360.92,That's right.
+2019.18-8369,0,15086,john_g_roberts_jr,scotus_justice,397.64,424.64,"I understand your -- your point that there's a different level of blameworthiness, if you would, between frivolous, malicious, and failure to state a claim. On the other hand, 1915 was designed to ease the burden and expense on -- on courts. You -- you have, I think, the -- the marshal doing the service, the time of the court looking at the -- the claim before it can decide that it ought to dismiss."
+2019.18-8369,0,22017,eric_a_burgess,,469.32,474.2,"I -- I do think it's a relevant consideration, but I think it supports our view of the statute."
+2019.18-8369,0,15086,john_g_roberts_jr,scotus_justice,509.76,524.24,"Well, my point is the clogging of the dockets, the expense, that that has already occurred before the court can say, I'm going to dismiss this, this action. So, to that extent, the -- the impact on the system is the same for the other grounds for -- for denial."
+2019.18-8369,0,22017,eric_a_burgess,,524.24,525.96,I -- I think that's right.
+2019.18-8369,0,15131,sonia_sotomayor,scotus_justice,579.32,589.12,"Mr. Burgess, turning to that question, sort of two analytically tied questions."
+2019.18-8369,0,22017,eric_a_burgess,,666.68,671.72,"You're certainly correct about the question presented, but it -- it encompasses both types of dismissals."
+2019.18-8369,0,15131,sonia_sotomayor,scotus_justice,718.32,753.72,"You take nothing from the fact that the bio wanted us to reframe this question and to include a question about whether Heck qualified as a dismissal for Heck purposes, which, frankly, there are two sets of splits out there, one on the question presented, whether a dismissal without prejudice or with prejudice should be treated as a strike, and there's a circuit split among the circuits as to whether a Heck dismissal is subject to a strike. We only granted on the first."
+2019.18-8369,0,22017,eric_a_burgess,,753.72,759.64,"That's -- that's right. There -- I mean, there are quite a few circuit splits involving the PLRA that are out -- that are outstanding."
+2019.18-8369,0,15131,sonia_sotomayor,scotus_justice,759.64,760.2,Exactly.
+2019.18-8369,0,22017,eric_a_burgess,,770.48,770.76,Yeah.
+2019.18-8369,0,15131,sonia_sotomayor,scotus_justice,770.76,771.56,-- below.
+2019.18-8369,0,22017,eric_a_burgess,,778.96,779.96,"No, that -- that's right."
+2019.18-8369,0,17766,brett_m_kavanaugh,scotus_justice,829.52,829.64,On your --
+2019.18-8369,0,22017,eric_a_burgess,,829.64,831.44,-- under the 12(b)(6) standard.
+2019.18-8369,0,17766,brett_m_kavanaugh,scotus_justice,831.44,859.16,"-- excuse me -- on your upset the balance argument of the PLRA, how should we think about Rule 15, leave to amend, which is granted once as a matter of course in response to the responsive pleading, and then district judges often and have the discretion to grant further leave to amend, which occurred in this case and occurs also in other cases, of course?"
+2019.18-8369,0,22017,eric_a_burgess,,859.16,859.56,Sure.
+2019.18-8369,0,17766,brett_m_kavanaugh,scotus_justice,896.4,898.56,"Suppose that it does, though."
+2019.18-8369,0,22017,eric_a_burgess,,898.56,899.0,Sure.
+2019.18-8369,0,17766,brett_m_kavanaugh,scotus_justice,899.0,914.88,Then it does seem to mitigate some of the unfairness that you talk about that could occur from just routine correction of something in the complaint will usually happen or could happen under Rule 15 and often does happen.
+2019.18-8369,0,22017,eric_a_burgess,,914.88,919.76,It -- it would mitigate the unfairness with respect to just pure pleading deficiencies.
+2019.18-8369,0,17766,brett_m_kavanaugh,scotus_justice,950.56,976.92,"What's your understanding of how different district courts treat Rule 15 as compared to dismissals without prejudice? Is it your understanding, in other words, that Judge in Courtroom 1 will routinely do a dismissal without prejudice, Judge in Courtroom 2 will do grant leave to amend over and over again and not dismiss without prejudice, and -- and, if that's so, how should we think about that?"
+2019.18-8369,0,22017,eric_a_burgess,,976.92,984.28,"My general sense is that, particularly dealing with prisoner cases, there's not a consistent practice across the board and across the country."
+2019.18-8369,0,15068,samuel_a_alito_jr,scotus_justice,1015.72,1023.76,"What is the standard that a district court applies in deciding whether to dismiss with or without prejudice, and is that enforced on appeal?"
+2019.18-8369,0,22017,eric_a_burgess,,1023.76,1028.52,"The general standard -- so, again, I think there are two categories."
+2019.18-8369,0,15068,samuel_a_alito_jr,scotus_justice,1060.4,1060.68,And --
+2019.18-8369,0,15094,elena_kagan,scotus_justice,1060.68,1061.48,And as to -- sorry.
+2019.18-8369,0,15068,samuel_a_alito_jr,scotus_justice,1061.48,1071.12,"And if a court dismisses with prejudice, are there cases in which courts of appeals reverse that on the ground this should have been done without prejudice?"
+2019.18-8369,0,22017,eric_a_burgess,,1071.12,1077.56,"There are certainly in the category of cases, for example, Heck dismissals or things that are --"
+2019.18-8369,0,15068,samuel_a_alito_jr,scotus_justice,1077.56,1079.48,But in the other category?
+2019.18-8369,0,22017,eric_a_burgess,,1079.48,1089.32,"In the cat -- they suggest that -- I mean, yes, usually it will be in -- in the context of this was not clearly -- there -- there should have been an opportunity to cure this."
+2019.18-8369,0,15068,samuel_a_alito_jr,scotus_justice,1092.96,1102.16,I'm just wondering about the incentives that the rule that you're advocating will provide for district courts.
+2019.18-8369,0,22017,eric_a_burgess,,1121.44,1137.6,"That if -- no, I don't think so, because I think that would be reversible error if they are dismissing something with prejudice, without an opportunity to amend, and that there is a basis that -- in which the -- the complaint could be reformed to adequately state a claim."
+2019.18-8369,0,15084,ruth_bader_ginsburg,scotus_justice,1167.04,1167.56,Isn't that what happened here?
+2019.18-8369,0,22017,eric_a_burgess,,1167.56,1169.16,"-- in appropriate cases. I'm sorry, Justice Ginsburg?"
+2019.18-8369,0,15084,ruth_bader_ginsburg,scotus_justice,1169.16,1171.88,Wasn't -- weren't there successive Heck claims here?
+2019.18-8369,0,22017,eric_a_burgess,,1171.88,1174.16,There were two different Heck claims.
+2019.18-8369,0,15084,ruth_bader_ginsburg,scotus_justice,1174.44,1176.84,"Well, you think the second one should have been dismissed as frivolous?"
+2019.18-8369,0,22017,eric_a_burgess,,1176.84,1182.52,I think the court would have well been within its discretion to potentially dismiss it as frivolous or malicious.
+2019.18-8369,0,15084,ruth_bader_ginsburg,scotus_justice,1196.52,1220.32,"That it would have been -- from a litigation fairness point of view, it would have been appropriate for the district court to say you brought a Heck claim once, we dismissed it, and now you did the same thing again, nothing has changed, so it's frivolous, out you go? That's -- that would have been an appropriate solution to this case?"
+2019.18-8369,0,22017,eric_a_burgess,,1220.32,1252.84,"I -- I think -- I think the court would have been within its discretion to do that, and I think, going forward, if there's a clear rule that without-prejudice dismissals for failure to state a claim do not result in a strike, in the category of cases like Heck that it is analytically something that is going to be without prejudice, courts can deal with that in the appropriate way by recognizing that, in some circumstances, it might be frivolous or malicious, but not every Heck-barred claim will be frivolous, and those that are not, that there's a real -- a good-faith argument about whether the Heck bar applies should not result in a strike because it's a --"
+2019.18-8369,0,15084,ruth_bader_ginsburg,scotus_justice,1252.84,1260.96,"But, here, it was the identical claim, right? There's nothing different in the second?"
+2019.18-8369,0,22017,eric_a_burgess,,1260.96,1264.4,I think that they were slightly different claims.
+2019.18-8369,0,15086,john_g_roberts_jr,scotus_justice,1365.08,1378.32,"Why -- why do you assume that a procedural defect doesn't tax the resources of the -- of the court? And it's not just the court; it's the entire judicial system and -- and the, you know -- as I said, the service of process and all these other things."
+2019.18-8369,0,22017,eric_a_burgess,,1416.96,1419.2,I think it would be possible to have that view.
+2019.18-8369,0,15086,john_g_roberts_jr,scotus_justice,1474.2,1512.08,"Well, you can -- it -- it may seem odd, but you can -- you have frivolous cases that are dismissed as frivolous without prejudice, right? I mean, it -- it's -- if you've got the -- you're suing the wrong person, you thought Tom Smith was the guard that did this and it was Fred Jones instead, it could be characterized as frivolous because there's no possibility of success because the guy you're naming was, you know, off that day. And, yes, you -- and yet you -- you would probably want that to be without prejudice because the suit's, you know, completely compelling as long as you get the right guy."
+2019.18-8369,0,22017,eric_a_burgess,,1512.08,1512.88,I agree with that.
+2019.18-8369,0,15086,john_g_roberts_jr,scotus_justice,1512.88,1525.4,"So the dichotomy that -- I don't know if there are three of them, what it's called, if it's a dichotomy -- between frivolous and failure to state a case -- a claim that you're trying to draw is -- is not as airtight as you suggest."
+2019.18-8369,0,22017,eric_a_burgess,,1525.4,1567.04,"I -- I -- I don't think that's right, because a dismissal based on lack of jurisdiction, for example, courts have recognized that that could be dismissed as frivolous because you could be making an argument that is just so -- it has no basis in the law that it deserves that sanction of being something that is an abuse of the courts, over and above filing an action that can't succeed because it's been filed in the wrong place. So frivolous and malicious provide courts with an opportunity to recognize -- even though this procedural defect goes above and beyond because there has been an abuse of the court process in a way that is not true of a normal -- normal assertion of this court has jurisdiction when it, in fact, does not."
+2019.18-8369,0,15086,john_g_roberts_jr,scotus_justice,1578.04,1581.44,"Thank you, counsel. Mr. Olson."
+2019.18-8369,1,63225,eric_r_olson,,1581.44,1596.96,"Mr. Chief Justice, and may it please the Court: The text, structure, and history of the Prison Litigation Reform Act all support giving ""was dismissed"" its ordinary meaning in the three strikes provision."
+2019.18-8369,1,17766,brett_m_kavanaugh,scotus_justice,1712.2,1731.0,"Suppose a prisoner files a suit and the district judge, instead of granting leave to amend, dismisses without prejudice; the prisoner corrects the error, fixes the defect, files a suit and prevails. Not only is it sufficient to state a claim, prevails in the case."
+2019.18-8369,1,63225,eric_r_olson,,1735.36,1740.96,"Well, if it was -- we look at the statutory text, which says an action was dismissed."
+2019.18-8369,1,17766,brett_m_kavanaugh,scotus_justice,1740.96,1741.28,Yes.
+2019.18-8369,1,63225,eric_r_olson,,1741.28,1752.56,"And if the first action was dismissed, even though they won a subsequent case on the same set of operative facts, it would be a different action, so that first strike would count. Of course --"
+2019.18-8369,1,17766,brett_m_kavanaugh,scotus_justice,1752.56,1759.32,"Doesn't that strike you as odd, that you have a winning case and you get a strike under the PLRA?"
+2019.18-8369,1,63225,eric_r_olson,,1759.32,1762.76,"Well, no, it doesn't because Congress is look -- looking for an administrable rule."
+2019.18-8369,1,17766,brett_m_kavanaugh,scotus_justice,1786.12,1789.48,"I guess that raises another question, which is -- I alluded to earlier."
+2019.18-8369,1,63225,eric_r_olson,,1817.8,1819.44,"Yes, in -- in that circumstance."
+2019.18-8369,1,17766,brett_m_kavanaugh,scotus_justice,1819.44,1827.72,Does that -- does that make sense to treat those two functionally-identical things from the prisoner's perspective differently?
+2019.18-8369,1,63225,eric_r_olson,,1827.72,1834.64,"It does under the text of the statute, which says -- which asks the courts to look at what happened to the action."
+2019.18-8369,1,15094,elena_kagan,scotus_justice,1845.16,1848.76,"Well, suppose we find the statutory language at least ambiguous."
+2019.18-8369,1,63225,eric_r_olson,,1852.4,1889.88,"Well -- well, a clear rule on this will help courts adjust their behavior, so -- regardless of whether the text, the -- the statute is ambiguous or not, but, secondly, I think, given Rule 15, given the focus on amendment and fixing complaints rather than just dismissing them, I think a rule from this Court and -- and the ample tools that we have for courts to fix -- to find out if there is a way to state a claim before a dismissal, will not lead to unjust results. In fact, most circuits have the rule that we advocate here in -- in effect."
+2019.18-8369,1,15084,ruth_bader_ginsburg,scotus_justice,1890.2,1907.84,"Why wouldn't it lead to an unjust result? I mean, even if a dismissal is made without prejudice, for preclusion purposes, it doesn't bar a subsequent action."
+2019.18-8369,1,63225,eric_r_olson,,1919.96,1969.08,"Well, three responses, Justice Ginsburg. First, it is a three-strikes provision, and prisoners -- every prisoner gets three non-meritorious on-their-face dismissals before the three-strikes provision applies. Secondly, under either rule, there are going to be some prisoners who are not going to be able to, after having three strikes, come to court and -- and seek redress without prepaying the filing fee. And, third, I think there are -- there's an exception in the statute for imminent bodily injury, imminent danger of bodily injury, excuse me, that allow for the -- the extreme cases to come through. What Congress was trying to do with the Prison Litigation Reform Act was reduce the amount of prisoner litigation that was coming to the court."
+2019.18-8369,1,15131,sonia_sotomayor,scotus_justice,2061.56,2065.12,"Mr. Olson, you're factually incorrect about one thing."
+2019.18-8369,1,63225,eric_r_olson,,2081.92,2083.6,"That's correct, Justice Sotomayor."
+2019.18-8369,1,15131,sonia_sotomayor,scotus_justice,2083.6,2096.52,"So, in those cases where there's a failure to state a claim but the court believes that there's the potential of a legitimate claim, it certainly has the right to dismiss the complaint but with leave to refile?"
+2019.18-8369,1,63225,eric_r_olson,,2096.52,2098.4,"Correct, the statute focused on an action."
+2019.18-8369,1,15131,sonia_sotomayor,scotus_justice,2098.4,2123.76,"Now I think that was what Justice Kavanaugh was getting to, which is, and what your adversary is saying, that if a court erroneously -- and courts do do that erroneously, because one presumes if they say you can file a complaint without prejudice, it means -- and dismisses the action, that they're really saying the same thing: We're dismissing with leave to appeal."
+2019.18-8369,1,63225,eric_r_olson,,2135.08,2138.72,Treat the circumstance where there is a complaint dismissed?
+2019.18-8369,1,15131,sonia_sotomayor,scotus_justice,2138.72,2139.36,Yes.
+2019.18-8369,1,63225,eric_r_olson,,2139.72,2141.52,But not the action?
+2019.18-8369,1,15131,sonia_sotomayor,scotus_justice,2141.52,2154.28,"Well, why don't we read a dismissal of the action without prejudice to be the functional equivalent of dismissal of the complaint with leave to refile? Because that's what without prejudice means."
+2019.18-8369,1,63225,eric_r_olson,,2154.28,2160.04,"Well, when we look at the text of the statute, it focuses on the action being dismissed."
+2019.18-8369,1,15094,elena_kagan,scotus_justice,2187.4,2208.2,"I -- I think, Mr. Olson, your answer suggests that there's a real reason why courts would pick one thing rather than the other, why they would dismiss the complaint with leave to amend on the one hand or dismiss the entire action without prejudice on the other. And what people are suggesting to you is maybe there's not a reason."
+2019.18-8369,1,63225,eric_r_olson,,2258.84,2286.64,"Because the Prison Litigation Reform Act did not remove that broad discretion that all district courts have that, as you say, manifests itself in some difference in practice throughout the country. But what it did do was put forth in this text an administrable rule that was easy for one district court to determine what another district court did, and that easily administrable rule uses the language: An action was dismissed for failure to state a claim. Period."
+2019.18-8369,1,15094,elena_kagan,scotus_justice,2288.4,2292.88,"Yeah, and I think, you know, there is a statutory argument, and we can talk about the statutory argument."
+2019.18-8369,1,63225,eric_r_olson,,2318.84,2323.16,It's a better rule because of its clarity and administrability.
+2019.18-8369,1,17766,brett_m_kavanaugh,scotus_justice,2345.4,2352.2,"The -- the other rule is easily administrable as well, though, dismissal with prejudice."
+2019.18-8369,1,63225,eric_r_olson,,2357.72,2361.08,"Well, it is administrable but -- but not in the broader context."
+2019.18-8369,1,17766,brett_m_kavanaugh,scotus_justice,2377.44,2378.92,"No, it just has to be dismissed with prejudice."
+2019.18-8369,1,63225,eric_r_olson,,2378.92,2379.4,"The -- oh, sure."
+2019.18-8369,1,17766,brett_m_kavanaugh,scotus_justice,2385.44,2387.12,You don't have to label it frivolous.
+2019.18-8369,1,63225,eric_r_olson,,2394.32,2406.24,"But the problem with that approach is that the with prejudice, as Justice Ginsburg pointed out earlier, the preclusive effects are much, much greater than whether or not you have to pay your filing fee in installments."
+2019.18-8369,1,17766,brett_m_kavanaugh,scotus_justice,2406.24,2407.2,Right.
+2019.18-8369,1,63225,eric_r_olson,,2407.2,2411.56,And -- and with prejudice means that you cannot bring a case on those set of operative facts again.
+2019.18-8369,1,17766,brett_m_kavanaugh,scotus_justice,2411.56,2415.64,That's why district judges are going to be loath to do that right out of the box.
+2019.18-8369,1,63225,eric_r_olson,,2415.64,2416.12,Right.
+2019.18-8369,1,17766,brett_m_kavanaugh,scotus_justice,2452.04,2452.16,Can --
+2019.18-8369,1,63225,eric_r_olson,,2452.16,2452.76,-- and better rule.
+2019.18-8369,1,17766,brett_m_kavanaugh,scotus_justice,2452.76,2462.6,"-- can I ask one related question? It's alluded to in Footnote 7 of the reply brief, which is, do you think the PLRA allows sua sponte dismissals without leave to amend?"
+2019.18-8369,1,63225,eric_r_olson,,2462.6,2470.4,"Well, as Mr. Burgess identified, I think the general practice is to -- to give amendment where it is required."
+2019.18-8369,1,17766,brett_m_kavanaugh,scotus_justice,2488.44,2493.36,I think you're saying then the PLRA should not be read to override Rule 15?
+2019.18-8369,1,63225,eric_r_olson,,2493.36,2495.36,"Correct, yes."
+2019.18-8369,1,15086,john_g_roberts_jr,scotus_justice,2596.72,2610.76,"Thank you, counsel. General Rosen."
+2019.18-8369,2,63226,jeffrey_a_rosen,,2610.76,2689.08,"Mr. Chief Justice, and may it please the Court: What I would like to do is that while we maintain that all the usual tools of statutory construction point to affirmance, I want to return just briefly to the plain text of the PLRA for the simple reason that it is both the most important and we maintain it is alone, in this case, sufficient to resolve the case. We have a situation where we have an inmate in prison for a felony sexual assault who brought three actions during the period of 2013 and 2014, each of which was dismissed for failure to state a claim, which is one of the enumerated actions. And in Section 1915(g), the text of the statute says that if we have a -- a prisoner who, on three or more prior occasions while incarcerated, brought an action or an appeal in the courts of the United States that was dismissed on the grounds that it is frivolous, malicious, or fails to state a claim upon which relief may be granted, they are barred, they are subject to the three-strikes rule. So, as in the Coleman case, we have a situation where it is literally what the words of the statute say."
+2019.18-8369,2,15086,john_g_roberts_jr,scotus_justice,2705.4,2708.48,"Well, it's -- it's a little more ambiguous than that."
+2019.18-8369,2,63226,jeffrey_a_rosen,,2728.16,2732.6,"So, respectfully, I might say I don't think it's -- that it can mean either."
+2019.18-8369,2,15094,elena_kagan,scotus_justice,2752.52,2763.44,"But, General, when -- when an action is dismissed for failure to state a claim, it's always a dismissal with prejudice unless the order says something otherwise."
+2019.18-8369,2,63226,jeffrey_a_rosen,,2799.44,2802.92,"Well, the -- the word ""dismissal"" encompasses both."
+2019.18-8369,2,15094,elena_kagan,scotus_justice,2859.24,2865.44,But Congress writes its statute against a backdrop of the way people use language.
+2019.18-8369,2,63226,jeffrey_a_rosen,,2896.36,2899.8,"You don't have to, but you are permitted to do it either way."
+2019.18-8369,2,15086,john_g_roberts_jr,scotus_justice,2948.8,2949.36,It -- it --
+2019.18-8369,2,63226,jeffrey_a_rosen,,2949.36,2950.4,And --
+2019.18-8369,2,15086,john_g_roberts_jr,scotus_justice,2950.4,2961.92,"-- as I mentioned to your -- your friend on the other side, the list of terms you have there, frivolous, malicious, failure to state a claim, the first two are plainly pejorative."
+2019.18-8369,2,63226,jeffrey_a_rosen,,3002.76,3003.56,Precisely.
+2019.18-8369,2,15086,john_g_roberts_jr,scotus_justice,3150.88,3151.84,"Well, I suppose --"
+2019.18-8369,2,63226,jeffrey_a_rosen,,3151.84,3152.28,-- Heck actions.
+2019.18-8369,2,15086,john_g_roberts_jr,scotus_justice,3152.28,3156.72,-- I suppose in that scenario at some point the filings would become malicious.
+2019.18-8369,2,63226,jeffrey_a_rosen,,3156.72,3173.04,"At -- at some point. There's obviously precedent from this Court in the In Re McDonnell and subsequent cases where some of the excessive litigants have come to this Court and the Court has said enough, and lower courts have done something similar, but those are really aberrations."
+2019.18-8369,2,15131,sonia_sotomayor,scotus_justice,3177.24,3177.72,General --
+2019.18-8369,2,63226,jeffrey_a_rosen,,3177.72,3178.2,-- that.
+2019.18-8369,2,15131,sonia_sotomayor,scotus_justice,3178.2,3197.48,"-- the system bears that anyway, given that at least your co-counselor or counsel on the -- on your side argue that courts are free to permit litigants to amend their complaints. Litigants can do exactly that."
+2019.18-8369,2,15086,john_g_roberts_jr,scotus_justice,3228.2,3229.84,You -- you may answer briefly.
+2019.18-8369,2,63226,jeffrey_a_rosen,,3229.84,3235.68,"Thank you. Respectfully, the history since the PLRA was enacted shows -- shows otherwise."
+2019.18-8369,2,15086,john_g_roberts_jr,scotus_justice,3258.08,3261.68,"Thank you, General. Four minutes, Mr. Burgess."
+2019.18-8369,3,22017,eric_a_burgess,,3261.68,3263.96,Thank you.
+2019.18-8369,3,15086,john_g_roberts_jr,scotus_justice,3483.92,3485.4,"Thank you, counsel."

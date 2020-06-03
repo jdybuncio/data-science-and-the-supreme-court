@@ -1,0 +1,255 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2009.09-60,0,15086,john_g_roberts_jr,scotus_justice,0.0,6.57,"We will hear argument first this morning in Case 09-60, Carachuri-Rosendo v. Holder."
+2009.09-60,0,42056,sri_srinivasan,,8.054,28.115,"Thank you, Mr. Chief Justice, and may it please the Court: Long-time lawful permanent resident aliens with two convictions for minor drug possession offenses are subject to removal from the United States, but they are not categorically ineligible to seek discretionary relief from removal from the Attorney General based on their connections and deep family ties to the country."
+2009.09-60,0,15084,ruth_bader_ginsburg,scotus_justice,60.487,84.035,"Mr. Srinivasan, as a threshold question, is there a mootness problem here, because, as I understand it, the Petitioner came back to the country illegally and committed another minor crime?"
+2009.09-60,0,42056,sri_srinivasan,,112.771,115.156,"That's not correct, Justice Ginsburg, in our view."
+2009.09-60,0,15049,antonin_scalia,scotus_justice,156.916,158.516,I -- I -- I'm not sure I understand what you're saying.
+2009.09-60,0,42056,sri_srinivasan,,164.703,166.355,"--No, it's not that his reentry wasn't illegal."
+2009.09-60,0,15049,antonin_scalia,scotus_justice,173.759,174.309,I see.
+2009.09-60,0,42056,sri_srinivasan,,174.309,184.067,"And so, if the original removal order would have been extinguished by a grant of the cancellation order, then that carries forward to the reinstatement of the original removal -- removal order as well."
+2009.09-60,0,15113,anthony_m_kennedy,scotus_justice,184.067,184.717,But -- but does--
+2009.09-60,0,42056,sri_srinivasan,,184.717,186.435,Nothing additional happens because of the reentry.
+2009.09-60,0,15113,anthony_m_kennedy,scotus_justice,186.435,193.005,--But does it make the -- the second unlawful entry now lawful?
+2009.09-60,0,42056,sri_srinivasan,,193.005,194.789,It doesn't make the--
+2009.09-60,0,15113,anthony_m_kennedy,scotus_justice,194.789,205.83,"I thought -- I thought it's a separate offense to enter, to reenter improperly, and -- and that stays no matter, isn't that correct, regardless of the correctness of the prior removal order?"
+2009.09-60,0,42056,sri_srinivasan,,205.83,207.013,"--It does, Justice Kennedy--"
+2009.09-60,0,15113,anthony_m_kennedy,scotus_justice,207.013,207.882,Or am I wrong?
+2009.09-60,0,42056,sri_srinivasan,,207.882,222.025,--but I think -- I think the way that gets taken into account is it would be one of the discretionary considerations that the Attorney General could take into account in determining whether to grant discretionary relief in the same way that the original conviction for drug possession could be taken into account.
+2009.09-60,0,15084,ruth_bader_ginsburg,scotus_justice,222.692,230.428,I -- I -- I think also in the picture is that he never contested removability.
+2009.09-60,0,42056,sri_srinivasan,,245.355,257.996,"--The removal order would stand, but if cancellation were granted, then he couldn't be removed pursuant to that removal order, because the -- the effect of granting cancellation would be that he's no longer removable."
+2009.09-60,0,15131,sonia_sotomayor,scotus_justice,325.24,335.246,What elements would a State conviction have to contain to qualify as a finding of recidivism in your view?
+2009.09-60,0,42056,sri_srinivasan,,335.246,336.113,What elements?
+2009.09-60,0,15131,sonia_sotomayor,scotus_justice,336.113,336.546,Yes.
+2009.09-60,0,42056,sri_srinivasan,,351.089,363.432,"Justice Sotomayor, at the very least what would have had to have happened is that he would have had to have been found to be a recidivist under a State provision that attaches sentencing consequences to being found to have been a recidivist."
+2009.09-60,0,15131,sonia_sotomayor,scotus_justice,368.484,374.388,"Do you know of any State law that is analogous to the Federal law, precisely analogous?"
+2009.09-60,0,42056,sri_srinivasan,,374.388,381.125,"Well, analogous enough to count, in the sense that what you need under the Federal law is a finding of recidivism at least."
+2009.09-60,0,15131,sonia_sotomayor,scotus_justice,382.192,384.26,That's what I'm trying to -- to get to.
+2009.09-60,0,42056,sri_srinivasan,,405.84,409.977,It's a determination by the court that--
+2009.09-60,0,15131,sonia_sotomayor,scotus_justice,409.977,411.044,"--Which court now, the State court?"
+2009.09-60,0,42056,sri_srinivasan,,411.044,412.477,--By the State convicting court.
+2009.09-60,0,15131,sonia_sotomayor,scotus_justice,424.052,429.023,So are you arguing that a State court has to make a finding of a valid prior conviction; is that it?
+2009.09-60,0,42056,sri_srinivasan,,429.023,431.475,"Yes, in -- in the context of a State conviction."
+2009.09-60,0,15049,antonin_scalia,scotus_justice,431.925,433.426,But it doesn't have to be a State felony?
+2009.09-60,0,42056,sri_srinivasan,,433.426,435.242,"--It doesn't have to be a State felony, no."
+2009.09-60,0,15049,antonin_scalia,scotus_justice,435.242,436.378,"The felony has to be a Federal felony, right?"
+2009.09-60,0,42056,sri_srinivasan,,436.378,436.944,That's correct.
+2009.09-60,0,15049,antonin_scalia,scotus_justice,441.48,444.365,Punishable as a felony under the Federal Act.
+2009.09-60,0,42056,sri_srinivasan,,444.365,444.865,Right.
+2009.09-60,0,15049,antonin_scalia,scotus_justice,444.865,450.686,But this was punishable as a felony because it was his second drug offense.
+2009.09-60,0,42056,sri_srinivasan,,466.148,468.933,"But -- but, Justice Scalia, he has to have been convicted of the felony."
+2009.09-60,0,15049,antonin_scalia,scotus_justice,471.802,475.086,He can't be convicted of a Federal felony in a State court.
+2009.09-60,0,42056,sri_srinivasan,,478.788,479.238,--He has to have been convicted of a crime--
+2009.09-60,0,15049,antonin_scalia,scotus_justice,479.238,488.894,"--which may be a misdemeanor, which would subject him to a felony conviction in Federal court under the Controlled Substances Act."
+2009.09-60,0,42056,sri_srinivasan,,501.634,502.167,--He was--
+2009.09-60,0,15049,antonin_scalia,scotus_justice,502.167,504.819,--in Federal court under the -- under the Controlled Substances Act.
+2009.09-60,0,42056,sri_srinivasan,,504.819,509.89,"--He was not punishable as a felon in Federal court for two reasons: First, he was convicted of drug possession."
+2009.09-60,0,15068,samuel_a_alito_jr,scotus_justice,531.804,532.304,Isn't the--
+2009.09-60,0,42056,sri_srinivasan,,532.304,533.437,That didn't happen in the State court.
+2009.09-60,0,15068,samuel_a_alito_jr,scotus_justice,533.437,542.243,"--Isn't the crux of your argument that for present purposes the term ""conviction"" must include a determination of recidivism?"
+2009.09-60,0,42056,sri_srinivasan,,542.243,543.612,"For present purposes, that's correct."
+2009.09-60,0,15068,samuel_a_alito_jr,scotus_justice,569.693,570.543,"Well, what would you say--"
+2009.09-60,0,42056,sri_srinivasan,,570.543,571.193,Here we have the latter.
+2009.09-60,0,15068,samuel_a_alito_jr,scotus_justice,571.193,577.264,"--What do you say about 21 U.S.C. section 851, the Federal recidivism provision, which says:"
+2009.09-60,0,42056,sri_srinivasan,,590.874,591.29,Under--
+2009.09-60,0,15068,samuel_a_alito_jr,scotus_justice,591.29,591.94,Isn't that right?
+2009.09-60,0,42056,sri_srinivasan,,591.94,601.331,"--Under that statute -- different statutes conceive of it different ways, but the applicable definition of ""conviction"" here, because we're talking about an immigration consequence, is the definition of ""conviction"" under the Immigration and Nationality Act."
+2009.09-60,0,15049,antonin_scalia,scotus_justice,667.69,672.076,Let's assume we're not talking about immigration consequences.
+2009.09-60,0,42056,sri_srinivasan,,701.761,702.327,"--Oh, sure."
+2009.09-60,0,15049,antonin_scalia,scotus_justice,708.915,709.465,Yes.
+2009.09-60,0,42056,sri_srinivasan,,709.465,719.722,"--and in that Federal court proceeding, you can take account of the prior State court conviction, but in that second proceeding, the fact that he was convicted previously in State court would have to have been found by the Federal court."
+2009.09-60,0,15049,antonin_scalia,scotus_justice,729.911,738.367,"No, but -- the crucial word here is ""punishable"" as a felony under the Controlled Substances Act."
+2009.09-60,0,42056,sri_srinivasan,,757.93,764.667,"He has to be convicted of a felony, Justice Scalia, and in the absence of a finding of recidivism, he can't have been convicted of the felony."
+2009.09-60,0,15086,john_g_roberts_jr,scotus_justice,790.466,798.138,"Under the applicable State law, what's required before the recidivist sentence is triggered?"
+2009.09-60,0,42056,sri_srinivasan,,801.756,805.541,"--It doesn't have to be by a jury, and I think it would depend on the State, Mr. Chief Justice."
+2009.09-60,0,15049,antonin_scalia,scotus_justice,814.831,815.683,And we've held that's okay--
+2009.09-60,0,42056,sri_srinivasan,,815.683,816.299,--And you've held--
+2009.09-60,0,15049,antonin_scalia,scotus_justice,816.299,816.999,--that you don't need a jury.
+2009.09-60,0,42056,sri_srinivasan,,816.999,817.633,--that's okay as a constitutional matter.
+2009.09-60,0,15113,anthony_m_kennedy,scotus_justice,818.218,821.087,"But we have five States, isn't it, that have no recidivist provisions?"
+2009.09-60,0,42056,sri_srinivasan,,821.087,821.77,--There are--
+2009.09-60,0,15113,anthony_m_kennedy,scotus_justice,821.77,838.513,"Is the thrust of your argument or the logical consequence of your argument, if you have one of those States with no recidivist provisions and you have ten separate possession convictions, they're still not a recidivist under the Federal rules?"
+2009.09-60,0,42056,sri_srinivasan,,838.513,844.266,"--It is in those five States, Justice Kennedy, but I don't think that should give the Court a great deal of pause, for the following two reasons."
+2009.09-60,0,15113,anthony_m_kennedy,scotus_justice,844.266,844.702,"No, no."
+2009.09-60,0,42056,sri_srinivasan,,851.522,857.01,What would happen is this: The person would not be categorically ineligible for discretionary relief.
+2009.09-60,0,15113,anthony_m_kennedy,scotus_justice,857.01,858.393,Because there is no recidivist finding.
+2009.09-60,0,42056,sri_srinivasan,,858.393,860.378,They wouldn't have been convicted of recidivist possession.
+2009.09-60,0,15086,john_g_roberts_jr,scotus_justice,930.156,938.545,"No, but the State prosecutors often prosecute when they have a recidivist provision under that, rather than the much more difficult illicit trafficking crime."
+2009.09-60,0,42056,sri_srinivasan,,945.568,957.876,"--Well, sure, but if a State -- two responses, Mr. Chief Justice: If a State prosecutor does prosecute under an available recidivist possession offense, then that would count because the State prosecutor would have brought the charge, the finding by hypothesis would have been made."
+2009.09-60,0,15139,stephen_g_breyer,scotus_justice,1037.578,1038.144,I don't know.
+2009.09-60,0,42056,sri_srinivasan,,1070.799,1071.332,Right.
+2009.09-60,0,15139,stephen_g_breyer,scotus_justice,1071.332,1077.053,"Well, if those were the facts, I would say it is analogous to the Federal felony where this person was sentenced to more than a year."
+2009.09-60,0,42056,sri_srinivasan,,1077.053,1079.255,"I don't think it would be, Justice Breyer, because--"
+2009.09-60,0,15139,stephen_g_breyer,scotus_justice,1079.255,1080.605,"Well, we could argue that one--"
+2009.09-60,0,42056,sri_srinivasan,,1080.605,1081.107,--Sure.
+2009.09-60,0,15139,stephen_g_breyer,scotus_justice,1081.107,1081.74,--but I don't see where--
+2009.09-60,0,42056,sri_srinivasan,,1088.693,1089.376,Lopez?
+2009.09-60,0,15139,stephen_g_breyer,scotus_justice,1089.376,1089.962,--What?
+2009.09-60,0,42056,sri_srinivasan,,1089.962,1090.878,Is it Lopez?
+2009.09-60,0,15139,stephen_g_breyer,scotus_justice,1091.445,1092.095,"Yes, Lopez."
+2009.09-60,0,42056,sri_srinivasan,,1108.59,1109.24,--Correct.
+2009.09-60,0,15139,stephen_g_breyer,scotus_justice,1109.24,1114.16,That's what proscribes conduct punishable as a felony under that Federal law.
+2009.09-60,0,42056,sri_srinivasan,,1143.18,1143.897,"Well, I--"
+2009.09-60,0,15139,stephen_g_breyer,scotus_justice,1143.897,1144.847,"So you say, what do you do?"
+2009.09-60,0,42056,sri_srinivasan,,1154.036,1158.439,"--Well -- well, with respect, Justice Breyer, I don't think that's the inquiry that's called for even by this sentence."
+2009.09-60,0,15139,stephen_g_breyer,scotus_justice,1166.712,1168.645,"Why -- where does it say ""offense element""?"
+2009.09-60,0,42056,sri_srinivasan,,1168.645,1171.18,Because I think that's the -- the necessary inquiry that's--
+2009.09-60,0,15139,stephen_g_breyer,scotus_justice,1171.18,1171.847,Where does it say that?
+2009.09-60,0,42056,sri_srinivasan,,1171.847,1173.616,--It's -- it's necessarily what's at issue.
+2009.09-60,0,15139,stephen_g_breyer,scotus_justice,1174.149,1174.599,Why?
+2009.09-60,0,42056,sri_srinivasan,,1174.599,1176.901,--This sentence doesn't necessarily -- it asks whether--
+2009.09-60,0,15139,stephen_g_breyer,scotus_justice,1176.901,1178.52,"Well, where in the statute--"
+2009.09-60,0,42056,sri_srinivasan,,1178.52,1179.736,--It asks whether it proscribes conduct.
+2009.09-60,0,15139,stephen_g_breyer,scotus_justice,1179.736,1180.703,"--does it say ""offense elements""?"
+2009.09-60,0,42056,sri_srinivasan,,1180.703,1185.505,It asks whether -- the sentence asks whether the State offense proscribes conduct.
+2009.09-60,0,15139,stephen_g_breyer,scotus_justice,1185.505,1186.021,Yes.
+2009.09-60,0,42056,sri_srinivasan,,1186.021,1189.389,"And I read ""proscribes conduct"" to mean there would be offense elements of proscribed conduct."
+2009.09-60,0,15139,stephen_g_breyer,scotus_justice,1189.389,1190.389,"Well, you say that it says ""elements""."
+2009.09-60,0,42056,sri_srinivasan,,1214.688,1215.54,Justice Breyer--
+2009.09-60,0,15139,stephen_g_breyer,scotus_justice,1215.54,1215.973,--that that counts.
+2009.09-60,0,42056,sri_srinivasan,,1218.658,1219.042,--No--
+2009.09-60,0,15139,stephen_g_breyer,scotus_justice,1219.042,1221.125,"But, I mean, I'm interested in why you do, since that isn't your case."
+2009.09-60,0,42056,sri_srinivasan,,1221.125,1240.506,"--Yes, I don't want to take issue -- I don't want to argue against myself, certainly, but I would just make the following point: That if I'm understanding what Your Honor is saying correctly, and I'm not sure that I am, but if I'm understanding what you're saying correctly, I would just point out to the Court that the Court dealt with that sort of situation in the four corners of Lopez itself when it talked about -- talks about what happens with possession with intent to distribute."
+2009.09-60,0,15139,stephen_g_breyer,scotus_justice,1258.95,1269.341,"I know, but the reason I ask my question is it seems to me your approach, which I think is consistent with Lopez and Nijhawan absolutely--"
+2009.09-60,0,42056,sri_srinivasan,,1269.341,1269.908,Okay.
+2009.09-60,0,15139,stephen_g_breyer,scotus_justice,1269.908,1272.877,--does raise the question you are talking about.
+2009.09-60,0,42056,sri_srinivasan,,1285.035,1291.604,"I -- I have to confess, I'm not exactly sure what Your Honor is asking."
+2009.09-60,0,15139,stephen_g_breyer,scotus_justice,1292.121,1292.623,Okay.
+2009.09-60,0,42056,sri_srinivasan,,1294.706,1295.325,--I think--
+2009.09-60,0,15068,samuel_a_alito_jr,scotus_justice,1295.325,1296.175,Could I ask you this question--
+2009.09-60,0,15131,sonia_sotomayor,scotus_justice,1296.175,1297.225,Could I--
+2009.09-60,0,15068,samuel_a_alito_jr,scotus_justice,1297.225,1302.229,--If -- suppose a State makes simple possession a felony.
+2009.09-60,0,42056,sri_srinivasan,,1305.681,1306.231,--Right.
+2009.09-60,0,15068,samuel_a_alito_jr,scotus_justice,1306.231,1306.814,All right.
+2009.09-60,0,42056,sri_srinivasan,,1325.192,1333.096,"It wouldn't constitute the analogy to the Federal offense of recidivist possession, Justice -- Justice Alito, because that could also happen in the Federal system."
+2009.09-60,0,15068,samuel_a_alito_jr,scotus_justice,1341.968,1342.903,But what's missing there?
+2009.09-60,0,42056,sri_srinivasan,,1342.903,1344.503,You don't have--
+2009.09-60,0,15068,samuel_a_alito_jr,scotus_justice,1344.503,1360.115,"What is the difference between that and -- and a situation where, just because of the vagary of State law, recidivism is something that has to be proven in order to bring the offense into the -- into the felony level?"
+2009.09-60,0,42056,sri_srinivasan,,1360.115,1366.603,"--Two things are missing, Justice Alito: First, you don't have a formal judgment of guilt entered by the court, which is what a conviction requires."
+2009.09-60,0,15068,samuel_a_alito_jr,scotus_justice,1422.272,1428.443,That seems to be a totally formalistic distinction that's based on the vagaries of State law.
+2009.09-60,0,42056,sri_srinivasan,,1454.493,1454.876,Well--
+2009.09-60,0,15068,samuel_a_alito_jr,scotus_justice,1454.876,1458.195,What is the -- is there any functional difference between those two situations?
+2009.09-60,0,42056,sri_srinivasan,,1458.195,1468.151,"--Well, I think there is, Justice Alito, and let me just say as a preliminary matter it's not based on the vagaries of State law, because it's -- I'm applying the same analysis to State convictions as I do to -- to Federal convictions."
+2009.09-60,0,15068,samuel_a_alito_jr,scotus_justice,1508.128,1512.513,"But does it matter in that situation that that's an element, that has to be an element of the offense?"
+2009.09-60,0,42056,sri_srinivasan,,1512.513,1516.401,It has to be a sentencing factor that raises the statutory maximum.
+2009.09-60,0,15086,john_g_roberts_jr,scotus_justice,1542.782,1544.218,"Thank you, Mr. Srinivasan."
+2009.09-60,1,37291,nicole_saharsky,,1552.074,1564.882,"Mr. Chief Justice, and may it please the Court: Congress's judgment here was that all aliens who engage in the same serious conduct would be treated the same for immigration purposes."
+2009.09-60,1,15139,stephen_g_breyer,scotus_justice,1589.83,1594.317,"The exact words of Lopez, which I think are important:"
+2009.09-60,1,37291,nicole_saharsky,,1606.492,1607.042,Yes.
+2009.09-60,1,15139,stephen_g_breyer,scotus_justice,1607.042,1607.692,Under Federal law.
+2009.09-60,1,37291,nicole_saharsky,,1699.735,1703.203,Because this is a two-step inquiry and you only did step one.
+2009.09-60,1,15139,stephen_g_breyer,scotus_justice,1703.203,1704.32,"What do you mean, ""a two-step inquiry""?"
+2009.09-60,1,37291,nicole_saharsky,,1704.32,1704.722,A two-step inquiry.
+2009.09-60,1,15139,stephen_g_breyer,scotus_justice,1719.279,1719.613,Okay.
+2009.09-60,1,37291,nicole_saharsky,,1719.613,1725.75,"--But there's a second question, which is: If it corresponds to a Federal offense, how would that Federal offense be punishable?"
+2009.09-60,1,15139,stephen_g_breyer,scotus_justice,1731.071,1731.521,No--
+2009.09-60,1,37291,nicole_saharsky,,1731.521,1732.256,If in addition to that--
+2009.09-60,1,15139,stephen_g_breyer,scotus_justice,1732.256,1734.256,--Where does it say that?
+2009.09-60,1,37291,nicole_saharsky,,1751.55,1752.184,--Yes.
+2009.09-60,1,15139,stephen_g_breyer,scotus_justice,1752.184,1753.519,It is a misdemeanor.
+2009.09-60,1,37291,nicole_saharsky,,1786.307,1791.877,"The conduct is what the State statute proscribes, but there's an additional question of how it is punishable--"
+2009.09-60,1,15139,stephen_g_breyer,scotus_justice,1791.877,1792.494,Where is the additional question?
+2009.09-60,1,37291,nicole_saharsky,,1804.369,1804.885,--Okay.
+2009.09-60,1,15139,stephen_g_breyer,scotus_justice,1826.115,1826.634,Yes.
+2009.09-60,1,37291,nicole_saharsky,,1828.267,1828.834,Right.
+2009.09-60,1,15139,stephen_g_breyer,scotus_justice,1828.834,1830.586,--by State law.
+2009.09-60,1,37291,nicole_saharsky,,1842.827,1846.279,Recidivism isn't part of the offense.
+2009.09-60,1,15084,ruth_bader_ginsburg,scotus_justice,1899.947,1913.756,"Ms. Saharsky, do we take into account at all -- I mean, in Lopez as I understand it, the petitioner prevailed because it would not have been a felony under the Federal law."
+2009.09-60,1,37291,nicole_saharsky,,1914.856,1916.375,Yes.
+2009.09-60,1,15084,ruth_bader_ginsburg,scotus_justice,1916.375,1919.894,Here we're talking about two crimes.
+2009.09-60,1,37291,nicole_saharsky,,1977.349,1987.204,"We don't think that there is another way, because the Court said in Lopez in interpreting the statutory language that the State's judgment about how an offense is punished does not control."
+2009.09-60,1,15131,sonia_sotomayor,scotus_justice,1995.06,1995.71,But it has--
+2009.09-60,1,15113,anthony_m_kennedy,scotus_justice,1995.71,1996.46,Can you tell me what--
+2009.09-60,1,37291,nicole_saharsky,,1996.46,1996.993,--particularly--
+2009.09-60,1,15113,anthony_m_kennedy,scotus_justice,1996.993,1999.612,--What would happen if there -- forget the State.
+2009.09-60,1,37291,nicole_saharsky,,2025.08,2037.053,"--That would count as an aggravated felony, as punishable as a felony, because the aggravated felony language incorporates the word ""punishable"", how it could be treated under Federal law, not how it actually was punished."
+2009.09-60,1,15131,sonia_sotomayor,scotus_justice,2046.075,2047.125,--So you're telling us--
+2009.09-60,1,37291,nicole_saharsky,,2047.125,2048.342,"--repeated drug possession, and treat them the same."
+2009.09-60,1,15113,anthony_m_kennedy,scotus_justice,2048.342,2048.861,What -- what would--
+2009.09-60,1,15131,sonia_sotomayor,scotus_justice,2048.861,2066.387,--So something's not a Federal felony and it's now subject -- because he hasn't been convicted in Federal court of recidivism -- now he's being punished under the INA or removed under the INA for what is not a felony under Federal law?
+2009.09-60,1,37291,nicole_saharsky,,2066.387,2078.546,"Because it's punishable -- yes, because it's punishable as a felony under Federal law, because Congress made a judgment that those two drug possession offenses, the fact of recidivism makes it serious enough that it could be--"
+2009.09-60,1,15131,sonia_sotomayor,scotus_justice,2078.546,2079.663,Could I just ask you one--
+2009.09-60,1,15113,anthony_m_kennedy,scotus_justice,2079.663,2082.415,--If -- if I could just finish on this one -- this one.
+2009.09-60,1,37291,nicole_saharsky,,2106.698,2111.601,--It -- it's well established that those kind of challenges can't be brought in immigration court.
+2009.09-60,1,15113,anthony_m_kennedy,scotus_justice,2115.736,2117.421,"No, what -- our hypothetical here is Federal."
+2009.09-60,1,37291,nicole_saharsky,,2117.421,2118.371,"--Oh, I'm sorry."
+2009.09-60,1,15113,anthony_m_kennedy,scotus_justice,2118.371,2118.871,Right.
+2009.09-60,1,37291,nicole_saharsky,,2118.871,2126.777,In that case if it -- the individual would need to seek relief in Federal court in terms of getting his conviction--
+2009.09-60,1,15084,ruth_bader_ginsburg,scotus_justice,2126.777,2144.673,"I thought if it's in the Federal court, and the -- they are going to use it as a recidivist offense, (a) the defendant is notified of that, and (b) is given an opportunity to say there's something infirm about that first conviction."
+2009.09-60,1,37291,nicole_saharsky,,2170.89,2176.877,"--With respect, we disagree because Congress made different judgments in the immigration context and in the criminal context."
+2009.09-60,1,15139,stephen_g_breyer,scotus_justice,2213.3,2215.002,You go ahead.
+2009.09-60,1,37291,nicole_saharsky,,2215.002,2223.025,"--I was just going to say, if you look all through the aggravated felony provisions -- they are in our brief; there are 21 of them -- for none of those provisions was Congress concerned about notice or the like."
+2009.09-60,1,15084,ruth_bader_ginsburg,scotus_justice,2226.727,2244.521,"But my point is that if it all happened in the Federal court, if these two possession offenses all happened in the Federal court, at the time of the second one the -- the defendant would have gotten the notice and the opportunity to knock it out."
+2009.09-60,1,37291,nicole_saharsky,,2261.131,2261.816,That's right.
+2009.09-60,1,15084,ruth_bader_ginsburg,scotus_justice,2310.58,2335.531,"Do we know practically, both on the State side and on the Federal side, do prosecutors presented with a simple possession case, do they -- do we ever see in real life this combination that somebody's going to be convicted as a recidivist when it's one marijuana cigarette on one time and one pill on another?"
+2009.09-60,1,37291,nicole_saharsky,,2339.066,2341.268,--I -- I can't speak to State prosecutors.
+2009.09-60,1,15139,stephen_g_breyer,scotus_justice,2372.187,2378.025,"Can I ask you a related question, which will show what I'm trying -- another thing that's worrying me."
+2009.09-60,1,37291,nicole_saharsky,,2422.187,2431.926,"--Well, to the extent that the burglary definition depends on the Court's modified categorical approach, you just look to see what he had been convicted of and not the individual--"
+2009.09-60,1,15139,stephen_g_breyer,scotus_justice,2431.926,2432.443,Correct.
+2009.09-60,1,37291,nicole_saharsky,,2432.443,2433.194,--circumstances of the case.
+2009.09-60,1,15139,stephen_g_breyer,scotus_justice,2433.194,2440.115,"The answer is of course, because we are not looking to whether he is the pussycat burglar or the cat burglar."
+2009.09-60,1,37291,nicole_saharsky,,2500.57,2509.842,"With respect, I think that our position is entirely consistent and, in fact, follows from Lopez and Nijhawan and is consistent with the Court's modified categorical approach."
+2009.09-60,1,15131,sonia_sotomayor,scotus_justice,2555.923,2556.506,--Under the Federal--
+2009.09-60,1,37291,nicole_saharsky,,2556.506,2557.456,--albeit in a second--
+2009.09-60,1,15131,sonia_sotomayor,scotus_justice,2557.456,2572.783,"--Under the Federal statute, it's only punishable on -- for recidivism purposes if the prior conviction was valid, because, as Justice Ginsburg pointed out, the statute permits a defendant to object."
+2009.09-60,1,37291,nicole_saharsky,,2608.455,2618.596,"--What makes an offense punishable as a felony under the Federal Controlled Substances Act is contained in section 844, which defines the substantive punishments available."
+2009.09-60,1,15131,sonia_sotomayor,scotus_justice,2631.304,2635.106,But only under a process that requires notice--
+2009.09-60,1,37291,nicole_saharsky,,2635.106,2635.791,"--Well, this is what is interesting."
+2009.09-60,1,15131,sonia_sotomayor,scotus_justice,2635.791,2636.491,--And--
+2009.09-60,1,37291,nicole_saharsky,,2636.491,2638.041,I'm sorry.
+2009.09-60,1,15131,sonia_sotomayor,scotus_justice,2686.969,2700.027,"--Counsel, you would suggest, then, that even if a prior State court conviction was secured without the advice of counsel, that would qualify as a Federal offense of recidivism."
+2009.09-60,1,37291,nicole_saharsky,,2720.04,2732.581,"--Well, that -- that raises a very narrow question that, so far as we are aware, has never been addressed in the immigration context, which is whether there could be a proceeding to challenge the narrow question of a conviction obtained in the complete absence of counsel."
+2009.09-60,1,15068,samuel_a_alito_jr,scotus_justice,2768.004,2781.162,Could a -- could a defendant whose prior conviction was under a State recidivism statute claim that that conviction was invalid because that defendant was at that time deprived of the right of counsel?
+2009.09-60,1,37291,nicole_saharsky,,2796.987,2799.539,"Yes, I think that they're potentially distinguishable."
+2009.09-60,1,15068,samuel_a_alito_jr,scotus_justice,2811.014,2812.081,"Well, why are they distinguishable?"
+2009.09-60,1,37291,nicole_saharsky,,2830.494,2839.433,"--Yes, but I think recidivism -- I think there's some confusion in the Court's discussion, perhaps, that recidivism is not an element of the offense."
+2009.09-60,1,15113,anthony_m_kennedy,scotus_justice,2860.111,2862.23,What -- what case do I read to establish that?
+2009.09-60,1,37291,nicole_saharsky,,2862.23,2864.063,--That recidivism is separate and unique?
+2009.09-60,1,15113,anthony_m_kennedy,scotus_justice,2864.063,2864.496,Right.
+2009.09-60,1,37291,nicole_saharsky,,2864.496,2866.532,Almendarez-Torres would be one.
+2009.09-60,1,15113,anthony_m_kennedy,scotus_justice,2868.865,2872.868,"Well, but Almendarez-Torres was a different offense; was it not?"
+2009.09-60,1,37291,nicole_saharsky,,2900.003,2912.244,"Well, what this Court said in Rodriguez generally about recidivist punishments is you're always being punished for the last offense, but you're being punished more severely because it's shown that incapacitation and deterrence isn't working for you."
+2009.09-60,1,15139,stephen_g_breyer,scotus_justice,2912.244,2915.279,"That's what was worrying me, that's why I asked the other question."
+2009.09-60,1,37291,nicole_saharsky,,2959.041,2959.974,Right.
+2009.09-60,1,15139,stephen_g_breyer,scotus_justice,3022.482,3022.982,It did?
+2009.09-60,1,37291,nicole_saharsky,,3027.119,3030.737,"--Well, we think that that refers to the first part of the definition."
+2009.09-60,1,15084,ruth_bader_ginsburg,scotus_justice,3084.802,3085.502,May I ask you--
+2009.09-60,1,37291,nicole_saharsky,,3085.502,3085.969,--and deceit offense.
+2009.09-60,1,15084,ruth_bader_ginsburg,scotus_justice,3085.969,3088.054,--because your time is running out.
+2009.09-60,1,37291,nicole_saharsky,,3100.546,3105.099,"Yes, and I think that's because Congress has said when it wants the -- the timing to matter."
+2009.09-60,1,15084,ruth_bader_ginsburg,scotus_justice,3189.969,3203.527,"There was another crime, I thought a more serious crime, though still a misdemeanor, in this picture, but the Texas prosecutor didn't make anything of that."
+2009.09-60,1,37291,nicole_saharsky,,3209.847,3213.133,You might be thinking of his prior offense for domestic violence.
+2009.09-60,1,15084,ruth_bader_ginsburg,scotus_justice,3213.133,3213.585,Yes.
+2009.09-60,1,37291,nicole_saharsky,,3213.585,3222.857,"That that may have been able to be used to -- to enhance his -- his drug crime to an enhanced sentence, but that -- there wasn't an enhancement sought on that."
+2009.09-60,1,15084,ruth_bader_ginsburg,scotus_justice,3222.857,3223.357,Yes--
+2009.09-60,1,37291,nicole_saharsky,,3223.357,3224.906,That was a -- a 2003 conviction.
+2009.09-60,1,15084,ruth_bader_ginsburg,scotus_justice,3224.906,3244.787,"--So we respect that judgment on the part of the prosecutor, not to make it a -- a ground for a recidivist charge, but we don't respect the prosecutor -- Texas prosecutor saying I'm just going to treat this like it's a first-time misdemeanor; that's it."
+2009.09-60,1,37291,nicole_saharsky,,3244.787,3247.306,In neither case does the prosecutor's judgment matter.
+2009.09-60,1,15086,john_g_roberts_jr,scotus_justice,3330.726,3332.078,"Thank you, Ms. Saharsky."
+2009.09-60,2,42056,sri_srinivasan,,3334.445,3334.863,Thank you--
+2009.09-60,2,15113,anthony_m_kennedy,scotus_justice,3334.863,3340.684,We usually think of recidivism when we talk about statistics as being repeated for any crime.
+2009.09-60,2,42056,sri_srinivasan,,3350.206,3354.091,"--Right, and because it's essential to the Federal statute, it's necessarily a part of our argument."
+2009.09-60,2,15049,antonin_scalia,scotus_justice,3413.13,3413.813,How do you--
+2009.09-60,2,42056,sri_srinivasan,,3413.813,3415.582,--even though no felony sentence could be imposed.
+2009.09-60,2,15049,antonin_scalia,scotus_justice,3415.582,3418.034,--How do you distinguish Nijhawan?
+2009.09-60,2,42056,sri_srinivasan,,3433.51,3436.895,"There were -- there were two things that made it a Federal felony, Justice Scalia."
+2009.09-60,2,15049,antonin_scalia,scotus_justice,3439.347,3439.964,That's right.
+2009.09-60,2,42056,sri_srinivasan,,3439.964,3442.549,And then -- and that had to be found by the convicting court.
+2009.09-60,2,15049,antonin_scalia,scotus_justice,3442.549,3443.066,Right.
+2009.09-60,2,42056,sri_srinivasan,,3443.066,3443.816,There was no issue about that.
+2009.09-60,2,15049,antonin_scalia,scotus_justice,3443.918,3444.351,No issue.
+2009.09-60,2,42056,sri_srinivasan,,3444.351,3445.034,--Our point is that--
+2009.09-60,2,15049,antonin_scalia,scotus_justice,3445.034,3447.203,"Well, what about the $10,000?"
+2009.09-60,2,42056,sri_srinivasan,,3447.586,3448.07,--That's the--
+2009.09-60,2,15049,antonin_scalia,scotus_justice,3448.07,3454.54,"--He was never convicted of having obtained by fraud more than $10,000 from the victim."
+2009.09-60,2,42056,sri_srinivasan,,3454.54,3465.515,"--But -- but there's a very important textual distinction, Justice Scalia, because under the provision at issue in Nijhawan, the offense had to involve fraud, and then there was a separator in which the loss exceeds $10,000."
+2009.09-60,2,15049,antonin_scalia,scotus_justice,3489.63,3491.832,"You still had the word ""convicted""."
+2009.09-60,2,42056,sri_srinivasan,,3491.832,3492.782,You had -- sure.
+2009.09-60,2,15049,antonin_scalia,scotus_justice,3492.782,3494.101,Which is what you're relying on.
+2009.09-60,2,42056,sri_srinivasan,,3503.54,3513.328,"Because, again, the test -- the text also had ""in which"", which the Court found critical -- that text is lacking here -- and because the statute would have had no practical consequence, absent the Court's interpretation."
+2009.09-60,2,15139,stephen_g_breyer,scotus_justice,3513.328,3513.862,"Well, that's -- that--"
+2009.09-60,2,42056,sri_srinivasan,,3513.862,3514.528,That's not true here.
+2009.09-60,2,15139,stephen_g_breyer,scotus_justice,3514.528,3527.572,"--Because she got to that argument at the end, and she said my -- I wrote that, I think, and I -- when I used as an example or the text uses an example, this provision is one where you don't look to real conduct."
+2009.09-60,2,42056,sri_srinivasan,,3560.959,3566.947,"Because for both reasons that the Court found that you could look to the circumstances in Nijhawan, neither of those two reasons applies here."
+2009.09-60,2,15086,john_g_roberts_jr,scotus_justice,3603.988,3605.588,Make your second point short.
+2009.09-60,2,42056,sri_srinivasan,,3605.588,3606.274,"--Thank you, Mr. Chief Justice."
+2009.09-60,2,15086,john_g_roberts_jr,scotus_justice,3630.305,3631.239,"Thank you, counsel."

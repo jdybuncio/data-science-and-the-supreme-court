@@ -1,0 +1,206 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2015.15-446,0,15086,john_g_roberts_jr,scotus_justice,0.0,8.09,"We'll hear argument next in Case 15-446, Cuozzo Speed Technologies v. Lee. Mr. Beeney."
+2015.15-446,0,24997,garrard_r_beeney,,8.09,54.755,"Mr. Chief Justice, and may it please the Court: I'd like to begin this morning with why the use of the broadest-reasonable-interpretation expedient in no way comports with the congressional purpose of inter partes review, and then address why the Board's ultra vires determination in instituting inter partes review is subject to judicial review. Consistent with history, Congress left to the judiciary to determine construction standards, and therefore, in the American Invents Act, there is no explicit statutory language directing the Patent and Trademark Office to use any particular standard of claim construction. But this Court should reverse, as a matter of statutory construction, for four reasons."
+2015.15-446,0,15131,sonia_sotomayor,scotus_justice,90.1,106.2,"I might be moved by your argument if Congress had not given any right for the Board to amend, because that would be consistent with practices in the district court, where district court can't amend under any circumstance."
+2015.15-446,0,24997,garrard_r_beeney,,116.42,126.415,"I think -- Justice Sotomayor, I think there is a distinction between allowing a party to make a motion to amend and the absolute right to amend even once."
+2015.15-446,0,15086,john_g_roberts_jr,scotus_justice,169.895,172.275,What's the second of your four?
+2015.15-446,0,24997,garrard_r_beeney,,172.275,188.065,"The second reason why, Your Honor, the -- the result below should be reversed is because the -- Congress, in establishing inter partes review, intended inter partes review to adjudicate property rights."
+2015.15-446,0,15068,samuel_a_alito_jr,scotus_justice,295.59,306.63,Is the standard -- is the standard of proof for invalidity the same in an infringement action in district court as it is in inter partes review?
+2015.15-446,0,24997,garrard_r_beeney,,306.63,308.08,"It is not, Justice Alito."
+2015.15-446,0,15068,samuel_a_alito_jr,scotus_justice,448.23,472.245,"Do the Board's institution decisions always set out what it understands the broadest reasonable interpretation to be? And -- and if they do, is it -- must the Board stick with that throughout the proceeding? And in that -- if that is true, why does the patentholder need more than one opportunity to amend?"
+2015.15-446,0,24997,garrard_r_beeney,,472.245,481.765,"The -- IPR proceeds in two separate stages, as -- as your question implicates, Justice Alito."
+2015.15-446,0,15084,ruth_bader_ginsburg,scotus_justice,544.04,549.65,"How does this work? I mean, suppose you're right and it should be ordinary meaning."
+2015.15-446,0,24997,garrard_r_beeney,,554.575,568.955,"What would happen, Your Honor, if the Court agrees with us that the Board should be using the ordinary-meaning test, is that the case should be remanded to the Board to give Cuozzo's claims their appropriate construction."
+2015.15-446,0,15113,anthony_m_kennedy,scotus_justice,620.77,643.135,"Well, if -- if the -- if the patent is invalid under its broadest, reasonable interpretation, doesn't -- doesn't that mean the PTO should never have issued the patent in the first place, and doesn't that give very significant meaning and structure to this process?"
+2015.15-446,0,24997,garrard_r_beeney,,643.135,645.91,"Not necessarily, Justice Kennedy."
+2015.15-446,0,15113,anthony_m_kennedy,scotus_justice,695.24,703.22,"Well, I -- I guess I was -- was thinking of the mind-set that -- that the process, the structure, that the PTO uses in the first place."
+2015.15-446,0,24997,garrard_r_beeney,,717.12,721.315,"They do, but not to determine whether the claims are patentable."
+2015.15-446,0,15139,stephen_g_breyer,scotus_justice,774.335,783.229,"But the question that Justice Kennedy asked, and I think it's an important one, to me, anyway, was, if you -- forget this proceeding."
+2015.15-446,0,24997,garrard_r_beeney,,801.31,802.66,It's not a question --
+2015.15-446,0,15139,stephen_g_breyer,scotus_justice,802.66,805.76,"It's either right or wrong. You can tell me I'm right, or you can tell me I'm wrong."
+2015.15-446,0,24997,garrard_r_beeney,,805.76,809.1,There isn't an iterative process with the right to amend --
+2015.15-446,0,15139,stephen_g_breyer,scotus_justice,809.1,809.63,I know that.
+2015.15-446,0,24997,garrard_r_beeney,,809.63,809.87,So --
+2015.15-446,0,15139,stephen_g_breyer,scotus_justice,809.87,810.52,I know that.
+2015.15-446,0,24997,garrard_r_beeney,,819.315,820.02,That's correct.
+2015.15-446,0,15139,stephen_g_breyer,scotus_justice,820.02,820.28,Okay.
+2015.15-446,0,24997,garrard_r_beeney,,820.44,820.96,That is correct.
+2015.15-446,0,15139,stephen_g_breyer,scotus_justice,820.96,831.125,"-- if that's so, you could look at this new law as -- as -- as you were looking at it, as trying to build a little court proceeding."
+2015.15-446,0,24997,garrard_r_beeney,,938.345,943.67,"Justice Breyer, if I agreed -- and respectfully, I'd like to explain why I disagree."
+2015.15-446,0,15139,stephen_g_breyer,scotus_justice,943.67,943.805,Uh-huh.
+2015.15-446,0,24997,garrard_r_beeney,,943.805,951.345,"But -- but even if I did agree, I -- I would say that Congress, in fact, established exactly what Your Honor described."
+2015.15-446,0,15131,sonia_sotomayor,scotus_justice,1013.095,1014.865,I'm sorry.
+2015.15-446,0,24997,garrard_r_beeney,,1023.15,1023.87,I'm sorry?
+2015.15-446,0,15131,sonia_sotomayor,scotus_justice,1023.87,1037.105,How would you have a plain meaning that a district court would apply if language is ambiguous? How could it say that you have a valid property right in something that's ambiguous?
+2015.15-446,0,24997,garrard_r_beeney,,1037.105,1044.09,"The test of the ordinary meaning, as enunciated by Philips and its progeny, will first look at the claim language."
+2015.15-446,0,15131,sonia_sotomayor,scotus_justice,1077.64,1106.57,"Aren't those tools used in determining the broadest -- the broadest reasonable reading, meaning how can the PTO decide what a broad reasonable reading is unless it looks at all of those factors and decides that the specifications and all the other things don't cure, continue to provide ambiguity in the patent?"
+2015.15-446,0,24997,garrard_r_beeney,,1106.57,1107.52,It -- it does not.
+2015.15-446,0,15086,john_g_roberts_jr,scotus_justice,1171.07,1171.17,Why --
+2015.15-446,0,24997,garrard_r_beeney,,1171.17,1189.775,"-- if one looks at -- if one looks at the manual in Section 2111, the PTO tells its examiners that one of the reasons we use the broadest reasonable interpretation is because, unlike the courts, we don't have before us a fully-developed prosecution history."
+2015.15-446,0,15086,john_g_roberts_jr,scotus_justice,1196.365,1219.435,"How does the relationship between the district court infringement action and the proceeding before the Board actually work out in practice? If you're suing someone, here's my patent, you're infringing it, and the infringer goes to the -- the Board and says I want you to determine the validity of the patent, and the district court is doing the same thing, or at least determining the scope of the patent and whether or not it infringes?"
+2015.15-446,0,24997,garrard_r_beeney,,1219.435,1233.53,"What typically happens, Mr. Chief Justice, is in those situations where a patent is not subjected to inter partes review, and I file an infringement case, is that the defendant may then seek to file a petition before the Board --"
+2015.15-446,0,15086,john_g_roberts_jr,scotus_justice,1233.53,1233.65,Right.
+2015.15-446,0,24997,garrard_r_beeney,,1233.65,1253.89,"-- seeking review of the patent and CICA stay in the district court. And in fact, in this rather substantial transfer of the adjudicatory function from the judiciary to the administrative agency, we find that about 85 percent of patents that are being adjudicated by the Board are subject to district court litigation."
+2015.15-446,0,15086,john_g_roberts_jr,scotus_justice,1270.64,1273.32,I would think that's a little burdensome to the district court.
+2015.15-446,0,24997,garrard_r_beeney,,1282.115,1313.47,"Well, that, in fact, what happens is that should a claim survive inter partes review, then there are various estoppel provisions that Congress enacted in the America Invents Act that prevent the relitigation of the identical prior art that may have been adjudicated by the Board in IPR. So the district courts don't need to revisit what happened in inter partes review, which is yet another example of why Congress intended inter partes review to be a substitute for district court litigation."
+2015.15-446,0,15113,anthony_m_kennedy,scotus_justice,1313.47,1323.37,"Well, in the district court -- please correct me if I'm wrong -- does the district court have the obligation to -- to interpret the statute in a way that preserves the patent's validity?"
+2015.15-446,0,24997,garrard_r_beeney,,1323.37,1330.77,"Only -- as I was going through that litany of steps with Justice Sotomayor, only when the claims are ambiguous."
+2015.15-446,0,15113,anthony_m_kennedy,scotus_justice,1337.26,1343.22,"But I would not think that the -- the -- that in the IPR, that rule would prevail."
+2015.15-446,0,24997,garrard_r_beeney,,1343.22,1346.615,In -- in inter partes review there is no presumption of validity.
+2015.15-446,0,15113,anthony_m_kennedy,scotus_justice,1347.58,1349.855,That -- that shows a difference in these proceedings.
+2015.15-446,0,24997,garrard_r_beeney,,1349.855,1352.89,There no doubt is a difference in the proceeding.
+2015.15-446,0,15094,elena_kagan,scotus_justice,1379.065,1380.52,Are -- please.
+2015.15-446,0,24997,garrard_r_beeney,,1380.52,1380.775,No.
+2015.15-446,0,15094,elena_kagan,scotus_justice,1383.27,1396.825,"Is -- is your argument, Mr. Beeney, that Congress couldn't have thought anything else except that the ordinary-meaning standard would control? Because if I look at the statute, I mean, it just doesn't say one way or the other."
+2015.15-446,0,24997,garrard_r_beeney,,1399.735,1420.57,"I think not, Justice Kagan. And I think your -- your first sentence is perhaps really only at the margin in exaggeration of our position, and -- and it is because of this: Take one factor that -- that Congress enacted in IPR, a 12-month period from which the time the Board must reach its final decision absent good cause."
+2015.15-446,0,15094,elena_kagan,scotus_justice,1452.11,1462.725,"I mean, I guess if I'm trying to put myself in Congress's position, I'm -- I'm looking at the PTO, and it does pretty much everything by this broadest-construction standard."
+2015.15-446,0,24997,garrard_r_beeney,,1472.78,1479.535,"I think not, Justice Kagan, for the historical reason that Congress has never addressed claim-construction issues."
+2015.15-446,0,15084,ruth_bader_ginsburg,scotus_justice,1537.97,1538.425,Kind of a hybrid.
+2015.15-446,0,24997,garrard_r_beeney,,1570.67,1594.715,"I think, Justice Ginsburg, there are differences, but none of them go to the fundamental fact of the claim-construction standard. The system that Congress established is consistent only with ordinary meaning. And if you look again at this ability to amend, in fact, in -- in examinational proceedings, patent applications are almost always amended."
+2015.15-446,0,15084,ruth_bader_ginsburg,scotus_justice,1683.36,1694.48,"Then I have just one question about that. Then this statute is doing no work, because there would be a bar on interlocutory review under the final judgment rule, in any event."
+2015.15-446,0,24997,garrard_r_beeney,,1706.34,1727.855,"Correct, Justice Ginsburg. But -- but what the statute does do that the Administrative Procedures Act does not do is, number one, bars appeal forever of decisions not to institute. Because those decisions will never become part of the final decision which you can appeal under a separate statutory scheme under the American Invents Act."
+2015.15-446,0,15086,john_g_roberts_jr,scotus_justice,1735.365,1736.475,"Thank you, counsel."
+2015.15-446,0,24997,garrard_r_beeney,,1736.475,1739.195,Thank you.
+2015.15-446,0,15086,john_g_roberts_jr,scotus_justice,1739.195,1742.25,Mr. Gannon.
+2015.15-446,1,19038,curtis_e_gannon,,1742.25,1759.59,"Mr. Chief Justice, and may it please the Court: The PTO has reasonably decided to use its longstanding broadest-reasonable-construction approach in inter partes review proceedings because, as Justice Ginsburg just noted, that they are a hybrid between -- they're -- they're not exactly like anything that has gone before."
+2015.15-446,1,15131,sonia_sotomayor,scotus_justice,1785.05,1785.38,Mr. --
+2015.15-446,1,15086,john_g_roberts_jr,scotus_justice,1785.38,1785.67,I'm not --
+2015.15-446,1,15131,sonia_sotomayor,scotus_justice,1785.67,1786.71,I'm sorry.
+2015.15-446,1,15086,john_g_roberts_jr,scotus_justice,1786.71,1787.915,"Please, please."
+2015.15-446,1,15131,sonia_sotomayor,scotus_justice,1787.915,1791.715,"Mr. Gannon, I'm -- I'm a little bit confused."
+2015.15-446,1,19038,curtis_e_gannon,,1811.995,1815.965,Clear enough and also satisfies the -- the requirements of patentability.
+2015.15-446,1,15131,sonia_sotomayor,scotus_justice,1815.965,1816.59,All right.
+2015.15-446,1,19038,curtis_e_gannon,,1836.365,1843.75,"Well, I do think that it is the case that in most circumstances, these two different forms of construction are going to end up in the same place."
+2015.15-446,1,15131,sonia_sotomayor,scotus_justice,1848.85,1849.13,All right.
+2015.15-446,1,19038,curtis_e_gannon,,1850.93,1863.11,It doesn't end up in the same place basically when you get to the very end and the Court has to apply the presumption of validity that Justice Kennedy was discussing before that requires the Court to adopt a saving construction of a patent.
+2015.15-446,1,15131,sonia_sotomayor,scotus_justice,1888.07,1889.48,That's what I -- that's what I --
+2015.15-446,1,19038,curtis_e_gannon,,1889.48,1891.055,-- because it's already in existence.
+2015.15-446,1,15086,john_g_roberts_jr,scotus_justice,1963.61,1964.6,Go ahead.
+2015.15-446,1,19038,curtis_e_gannon,,1964.6,1970.77,-- in saying that the vast majority of motions to amend in IPRs have thus far been denied.
+2015.15-446,1,15086,john_g_roberts_jr,scotus_justice,2024.96,2025.38,But the one --
+2015.15-446,1,19038,curtis_e_gannon,,2025.38,2032.92,"-- what's happening here is the PTO is denying motions because even with the amendment, they would read on prior art and be unpatentable."
+2015.15-446,1,15086,john_g_roberts_jr,scotus_justice,2032.92,2041.995,"I think as Justice Ginsburg described it, we're dealing with a hybrid entity with characteristics of the PTO and the district court."
+2015.15-446,1,19038,curtis_e_gannon,,2063.53,2067.3,"It's supposed to take the place to some extent, but not to the ultimate extent."
+2015.15-446,1,15086,john_g_roberts_jr,scotus_justice,2092.52,2113.315,"Yeah, but I think we ought -- we shouldn't, except as far as the number of broadest different procedures as we -- we can, it's a very extraordinary animal in legal culture to have two different proceedings addressing the same question that lead to different results."
+2015.15-446,1,19038,curtis_e_gannon,,2113.315,2122.78,"That's true, Mr. Chief Justice. But they -- they can lead to different results here for multiple reasons, even setting aside the question of whether the broadest reasonable interpretation applies here."
+2015.15-446,1,15086,john_g_roberts_jr,scotus_justice,2122.78,2129.95,"Well, you're just saying that, okay, there's a problem here, and so we should accept another problem that's presented where we don't have to do it."
+2015.15-446,1,19038,curtis_e_gannon,,2129.95,2140.57,"Well, we -- we do think that the reason why this ultimately ends up being more like a Board proceeding or a PTO proceeding is because there's the ability to make claim amendments."
+2015.15-446,1,15086,john_g_roberts_jr,scotus_justice,2152.43,2154.15,"Well, are you saying in the IPR proceeding?"
+2015.15-446,1,19038,curtis_e_gannon,,2154.15,2154.99,In the IPR that's --
+2015.15-446,1,15086,john_g_roberts_jr,scotus_justice,2154.99,2157.515,"Well, that's happened six times ever."
+2015.15-446,1,19038,curtis_e_gannon,,2157.515,2160.88,"It's -- it -- the -- out of -- yes, it's a small number so far."
+2015.15-446,1,15086,john_g_roberts_jr,scotus_justice,2214.52,2225.925,"But there's already been -- there's already been a case where you've had contrary results with respect to the same patent, right? In the same -- in other words, parallel litigation; one says A and the other says not A."
+2015.15-446,1,19038,curtis_e_gannon,,2225.925,2227.4,"Yes, that can happen."
+2015.15-446,1,15086,john_g_roberts_jr,scotus_justice,2227.4,2229.135,"Well, what do you do in that case?"
+2015.15-446,1,19038,curtis_e_gannon,,2229.135,2237.925,"Well, in that case, if the patent has been invalidated by the PTO, then the district court litigation is -- is going to abate."
+2015.15-446,1,15086,john_g_roberts_jr,scotus_justice,2239.98,2246.91,"So you put the district court to all the trouble? I mean, we're talking about district courts that don't do patent cases on a regular basis."
+2015.15-446,1,19038,curtis_e_gannon,,2260.11,2268.43,"Well, the -- I think this is the reason why the -- most district court proceedings have been stayed while pending a parallel IPR proceeding before the Board."
+2015.15-446,1,15139,stephen_g_breyer,scotus_justice,2312.51,2312.68,All right.
+2015.15-446,1,15113,anthony_m_kennedy,scotus_justice,2312.92,2340.18,"Is there a difference in the -- in the -- the Board proceeding, the IPR, and -- and the district court litigation, in this respect: With district court litigation, we're very concerned because of Article III, and we have to have a specific controversy, specific injury, and so forth, but that an IPR proceeding can be more speculative, in that the Board and the parties can say this could be interpreted in the future in a particular way."
+2015.15-446,1,19038,curtis_e_gannon,,2349.09,2356.92,"Well, I think that, ultimately, the question in the IPR is -- is narrow, because it's only devoted to a couple types of unpatentability."
+2015.15-446,1,15113,anthony_m_kennedy,scotus_justice,2368.63,2371.86,"Well, you say it's a -- it's narrow, but we have the broadest possible construction."
+2015.15-446,1,19038,curtis_e_gannon,,2374.56,2385.81,"But what I mean by ""narrower"" is that in -- in a district court proceeding, there are other grounds that could be used to challenge the patents and -- and it -- it could proceed along different lines."
+2015.15-446,1,15139,stephen_g_breyer,scotus_justice,2426.37,2439.365,"What's the evidence? That is to say, I picked that up from your brief, that this statute is, in part -- call it a partial-Groundhog-Day statute."
+2015.15-446,1,19038,curtis_e_gannon,,2513.525,2515.78,"Well, I think we have two different types of evidence."
+2015.15-446,1,15086,john_g_roberts_jr,scotus_justice,2598.31,2612.97,"Is there -- what -- is the district court free to disagree with the PTO reading of the patent? Could it say, fine, this is a pertinent fact, a mixed question of law, in fact, in litigation pending before me."
+2015.15-446,1,19038,curtis_e_gannon,,2624.79,2625.59,Yes.
+2015.15-446,1,15086,john_g_roberts_jr,scotus_justice,2636.305,2636.56,Well --
+2015.15-446,1,19038,curtis_e_gannon,,2636.56,2652.25,"But otherwise, the claim construction that is adopted in -- in -- along the way in getting to upholding the patent claim isn't going to bind the district court any more than the district court claim construction would bind a different district court or the PTO."
+2015.15-446,1,15086,john_g_roberts_jr,scotus_justice,2652.25,2664.625,"Well, can it say that I understand what PTO thinks the scope of the patent is, but my responsibility is to interpret it pursuant to a different standard, and under my different standard I have a different result?"
+2015.15-446,1,19038,curtis_e_gannon,,2664.625,2665.34,Yes.
+2015.15-446,1,15086,john_g_roberts_jr,scotus_justice,2684.135,2691.92,"So if the district court interprets the patent, is -- is that binding on the PTO?"
+2015.15-446,1,19038,curtis_e_gannon,,2691.92,2692.41,No.
+2015.15-446,1,15086,john_g_roberts_jr,scotus_justice,2692.41,2696.04,"And if the PTO interprets the patent, that's not binding on the district court."
+2015.15-446,1,19038,curtis_e_gannon,,2696.04,2697.0,That's right.
+2015.15-446,1,15086,john_g_roberts_jr,scotus_justice,2698.15,2698.27,Well --
+2015.15-446,1,19038,curtis_e_gannon,,2698.27,2699.815,The same thing --
+2015.15-446,1,15086,john_g_roberts_jr,scotus_justice,2699.815,2700.98,I'm sorry.
+2015.15-446,1,19038,curtis_e_gannon,,2711.9,2735.64,"Well, with respect to the question of whether the patent still exists, if the PTO cancels the claims at the end of the proceeding, then there won't be something to be litigating about in district court. If the PTO holds that the burden of proving that this claim is unpatentable has not been satisfied, then somebody else can take another shot at that before the district court. This particular party who proceeded before the IPR --"
+2015.15-446,1,15086,john_g_roberts_jr,scotus_justice,2735.64,2735.86,Right.
+2015.15-446,1,19038,curtis_e_gannon,,2735.86,2742.18,"-- won't be able to, because they'll be estopped by Section 315 from pursuing the same arguments in both forums."
+2015.15-446,1,15086,john_g_roberts_jr,scotus_justice,2742.18,2743.965,Even though they're different standards of proof?
+2015.15-446,1,19038,curtis_e_gannon,,2743.965,2745.74,Even though they're different standards of proof.
+2015.15-446,1,15086,john_g_roberts_jr,scotus_justice,2745.74,2747.54,Is that how estoppel normally works?
+2015.15-446,1,19038,curtis_e_gannon,,2747.54,2755.73,"Here, Congress has expressly prescribed that you cannot use, in the district proceeding, an argument that you could have advanced --"
+2015.15-446,1,15086,john_g_roberts_jr,scotus_justice,2755.73,2760.1,"So the answer to my question is, no, that's not the way estoppel normally works."
+2015.15-446,1,19038,curtis_e_gannon,,2760.1,2761.17,That's right.
+2015.15-446,1,15086,john_g_roberts_jr,scotus_justice,2774.16,2792.205,"Is there another example where you have a complaint filed that puts an issue before the district court during which the -- the parties can take that issue away from the district court and come up with an answer that then binds -- well, I guess you're saying it doesn't bind the district court."
+2015.15-446,1,19038,curtis_e_gannon,,2792.205,2808.65,"I -- I'm saying that if the PTO has the ability in the meantime to cancel the claim, to find that, yes, it is correct, this is one of those patents we never ought to have issued in the first instance, and that's true because when we've applied our broadest-reasonable-construction approach --"
+2015.15-446,1,15086,john_g_roberts_jr,scotus_justice,2808.65,2808.83,Right.
+2015.15-446,1,19038,curtis_e_gannon,,2808.83,2814.35,"-- and the patent owner has -- has proffered amendments, they can't come up with something that is actually patentable --"
+2015.15-446,1,15086,john_g_roberts_jr,scotus_justice,2814.35,2814.44,Right.
+2015.15-446,1,19038,curtis_e_gannon,,2832.945,2850.86,"It is true that a district court, as long as the patent still exists and the district court has jurisdiction over the parties and the parties aren't precluded from -- from raising those claims, it could end up at a different result at the end of the day, precisely because of a higher burden of proof and the fact that it -- it has to adopt the saving construction --"
+2015.15-446,1,15086,john_g_roberts_jr,scotus_justice,2850.86,2851.49,And this is under --
+2015.15-446,1,19038,curtis_e_gannon,,2851.49,2852.975,-- that the PTO would not need to adopt.
+2015.15-446,1,15086,john_g_roberts_jr,scotus_justice,2852.975,2859.655,And this is under a statute designed to make the patent system more reasonable and more expeditious in reaching judgments?
+2015.15-446,1,19038,curtis_e_gannon,,2859.655,2860.38,Yes.
+2015.15-446,1,15139,stephen_g_breyer,scotus_justice,2870.465,2877.94,"How -- how does this happen? I -- I thought we send it back, and the PTO says we shouldn't have issued it."
+2015.15-446,1,19038,curtis_e_gannon,,2877.94,2878.48,And if --
+2015.15-446,1,15139,stephen_g_breyer,scotus_justice,2878.48,2880.12,They say that we cancel it.
+2015.15-446,1,19038,curtis_e_gannon,,2880.12,2880.39,If --
+2015.15-446,1,15139,stephen_g_breyer,scotus_justice,2880.39,2883.2,So there is nothing in the district court; isn't that right?
+2015.15-446,1,19038,curtis_e_gannon,,2883.2,2883.93,Yes.
+2015.15-446,1,15139,stephen_g_breyer,scotus_justice,2888.18,2890.77,Can appeal what? Can appeal the cancelation?
+2015.15-446,1,19038,curtis_e_gannon,,2890.77,2897.64,Can appeal the decision that -- the final written decision of the Board is one that will say --
+2015.15-446,1,15139,stephen_g_breyer,scotus_justice,2897.64,2908.58,"And if they never issue a patent, I apply for a patent because I have this thing that instead of putting red cellophane on the speedometer, I put purple cellophane on the speedometer. It signals the presence of a hot dog stand."
+2015.15-446,1,15139,stephen_g_breyer,scotus_justice,2909.35,2911.24,I -- I then try to patent it.
+2015.15-446,1,19038,curtis_e_gannon,,2917.28,2918.38,"Well, if -- if -- I'm sorry."
+2015.15-446,1,15139,stephen_g_breyer,scotus_justice,2918.38,2918.63,I'm sorry.
+2015.15-446,1,19038,curtis_e_gannon,,2919.59,2920.0,But the point --
+2015.15-446,1,15139,stephen_g_breyer,scotus_justice,2920.0,2921.01,I have an application.
+2015.15-446,1,19038,curtis_e_gannon,,2921.01,2921.31,The point --
+2015.15-446,1,15139,stephen_g_breyer,scotus_justice,2921.31,2924.04,They don't issue a patent. Can I appeal their decision to the Court?
+2015.15-446,1,19038,curtis_e_gannon,,2924.04,2927.33,"You would be able to -- yes. And -- and so here, ultimately --"
+2015.15-446,1,15086,john_g_roberts_jr,scotus_justice,2927.33,2927.64,I'm sorry.
+2015.15-446,1,19038,curtis_e_gannon,,2931.895,2935.18,"That -- that -- he was talking about a patent application, yes."
+2015.15-446,1,15086,john_g_roberts_jr,scotus_justice,2945.06,2945.84,But I -- what I was asking --
+2015.15-446,1,19038,curtis_e_gannon,,2945.84,2947.195,"-- ultimately, that's --"
+2015.15-446,1,15086,john_g_roberts_jr,scotus_justice,2947.195,2947.74,I'm sorry.
+2015.15-446,1,19038,curtis_e_gannon,,2969.34,2970.81,That's correct.
+2015.15-446,1,15131,sonia_sotomayor,scotus_justice,2976.935,2987.87,"Mr. Gannon, could you give an example? I'm -- so far I'm halfway with you. If the PTO has canceled the patent, the lawsuit in the district court ends."
+2015.15-446,1,19038,curtis_e_gannon,,2987.87,2988.29,Yes.
+2015.15-446,1,15131,sonia_sotomayor,scotus_justice,2988.29,2990.2,There's nothing else for it to do.
+2015.15-446,1,19038,curtis_e_gannon,,2990.2,2990.705,And --
+2015.15-446,1,15131,sonia_sotomayor,scotus_justice,2990.705,2992.16,But let's assume --
+2015.15-446,1,19038,curtis_e_gannon,,2992.16,2995.02,But although the patent owner in the meantime could have appealed to the Federal Circuit --
+2015.15-446,1,15131,sonia_sotomayor,scotus_justice,2995.02,2995.77,Federal Circuit and --
+2015.15-446,1,19038,curtis_e_gannon,,2995.77,2996.25,-- and determined --
+2015.15-446,1,15131,sonia_sotomayor,scotus_justice,2996.25,3001.845,"-- assuming it loses in the Federal Circuit, the district court case has ended, correct?"
+2015.15-446,1,19038,curtis_e_gannon,,3001.845,3005.96,"Well, if the patent is gone, then -- then they're not going to be litigating about it in district court."
+2015.15-446,1,15131,sonia_sotomayor,scotus_justice,3005.96,3006.73,All right.
+2015.15-446,1,19038,curtis_e_gannon,,3036.8,3036.95,Well --
+2015.15-446,1,15131,sonia_sotomayor,scotus_justice,3036.95,3040.12,What's going to happen with -- in the district court?
+2015.15-446,1,19038,curtis_e_gannon,,3040.12,3040.26,It -- it --
+2015.15-446,1,15131,sonia_sotomayor,scotus_justice,3040.26,3041.9,Or what can happen in the district court?
+2015.15-446,1,19038,curtis_e_gannon,,3041.9,3055.65,"It -- in the context of the district court proceeding, I agree with the Chief Justice that the district court may still find some reason to think that if it's not applying the broadest-reasonable-construction approach, that -- that it -- it's going to end up in a different place, and it's not going to --"
+2015.15-446,1,15131,sonia_sotomayor,scotus_justice,3055.65,3057.25,How is it going to end up in a different place?
+2015.15-446,1,19038,curtis_e_gannon,,3057.25,3057.9,"Well, I'm not sure."
+2015.15-446,1,15131,sonia_sotomayor,scotus_justice,3057.96,3058.84,Give me a concrete.
+2015.15-446,1,19038,curtis_e_gannon,,3058.84,3060.05,I -- I'm not sure.
+2015.15-446,1,15131,sonia_sotomayor,scotus_justice,3065.13,3069.88,"Well, it can only make a differences for the district court finding the patent invalid, no?"
+2015.15-446,1,19038,curtis_e_gannon,,3069.88,3070.41,No.
+2015.15-446,1,15131,sonia_sotomayor,scotus_justice,3101.66,3102.1,Before you --
+2015.15-446,1,19038,curtis_e_gannon,,3102.1,3103.19,-- be bound to -- to adopt --
+2015.15-446,1,15131,sonia_sotomayor,scotus_justice,3103.19,3103.73,-- time runs out --
+2015.15-446,1,19038,curtis_e_gannon,,3103.73,3104.51,-- exactly what the PTO did.
+2015.15-446,1,15131,sonia_sotomayor,scotus_justice,3104.51,3108.445,-- I do want to go back to the appealability issue.
+2015.15-446,1,19038,curtis_e_gannon,,3108.445,3109.345,Uh-huh.
+2015.15-446,1,15131,sonia_sotomayor,scotus_justice,3109.345,3142.995,"Assuming I start from the EEOC, the Mach Mining -- Mach Mining v. EOC, which we don't easily think that Congress is intending to prevent courts from enforcing its directives to Federal agencies, okay? Number two, this is a very specific statute with steps about what -- when and when not the PTO can institute one of these reviews."
+2015.15-446,1,19038,curtis_e_gannon,,3198.24,3199.92,"Well, I -- I'd say a couple things."
+2015.15-446,1,15131,sonia_sotomayor,scotus_justice,3270.29,3282.965,So what do we do with the Federal Circuit's reading in Portola -- Portola -- Portola where it basically had similar language and said it's appealable only at the end?
+2015.15-446,1,19038,curtis_e_gannon,,3282.965,3300.87,"I -- we -- we think -- I'm -- I'm not sure which case Your Honor is discussing, but we think that here, the -- the reading -- the language that -- of the scope of what Congress has made final and nonappealable is the entire decision whether to institute an inter partes review under this section."
+2015.15-446,1,15084,ruth_bader_ginsburg,scotus_justice,3300.87,3331.47,"Mr. Gannon, would you look at the reply brief at page 19, and they give a series of rulings that the Board might make that, under your view, would be immune from any judicial review. So the Board goes ahead and institutes an IPR, even though the requester for that IPR has already filed a parallel civil action, something that the statute says should not happen."
+2015.15-446,1,19038,curtis_e_gannon,,3337.455,3340.47,We -- we think that they would not be subject to an appeal.
+2015.15-446,1,15084,ruth_bader_ginsburg,scotus_justice,3430.345,3440.53,May I ask you a question that relates to the other -- other issue? The district court holds that a patent is valid.
+2015.15-446,1,19038,curtis_e_gannon,,3463.7,3464.67,Yes.
+2015.15-446,1,15084,ruth_bader_ginsburg,scotus_justice,3485.42,3494.07,"So -- and so it wouldn't -- so the district court decision wouldn't be preclusive, and the -- the PTO has the last word, then?"
+2015.15-446,1,19038,curtis_e_gannon,,3494.07,3496.97,"With respect to the ex parte proceeding, yes."
+2015.15-446,1,15086,john_g_roberts_jr,scotus_justice,3496.97,3503.905,Isn't that an appeal from the district court judgment to an administrative agency?
+2015.15-446,1,19038,curtis_e_gannon,,3503.905,3507.15,It -- it's not an appeal from the district court judgment.
+2015.15-446,1,15086,john_g_roberts_jr,scotus_justice,3517.865,3532.945,"So -- so the district court reaches a judgment saying, you win based on my reading of the patent, and then you can go to the PTO and say, no, the reading of the patent of the district court was wrong, so you lose?"
+2015.15-446,1,19038,curtis_e_gannon,,3532.945,3546.575,"Well, my understanding of Justice Ginsburg's hypothetical was that the -- the director of the PTO could institute the reexamination proceeding in -- in light of issues that were revealed for the time in the district court proceeding."
+2015.15-446,1,15086,john_g_roberts_jr,scotus_justice,3546.575,3558.1,"And then can the losing party in the district court go back to the district court, or if it's on appeal, to the court of appeals, and say the district court was wrong? The PTO said that, and I should win."
+2015.15-446,1,19038,curtis_e_gannon,,3558.1,3563.76,"They -- they could say that. If they already have a final judgment, then that's not going to be an issue."
+2015.15-446,1,15086,john_g_roberts_jr,scotus_justice,3574.075,3577.2,"Thank you, counsel. Mr. Beeney, you have a minute left."
+2015.15-446,2,24997,garrard_r_beeney,,3577.2,3589.015,"Thank you, Mr. Chief Justice. Let me just begin by saying that as with the government's brief, we heard nothing today that suggests that the use of the ordinary-claim construction would not accomplish Congress's purpose."
+2015.15-446,2,15086,john_g_roberts_jr,scotus_justice,3663.43,0.0,"Thank you, counsel. The case is submitted."

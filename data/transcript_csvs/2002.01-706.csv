@@ -1,0 +1,154 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2002.01-706,0,15141,william_h_rehnquist,scotus_justice,0.0,9.297,"We'll hear argument next in No. 01-706, Rex Sprietsma v. Mercury Marine."
+2002.01-706,0,34170,leslie_a_brueckner,,60.976,66.432,"Mr. Chief Justice, and may it please the Court:"
+2002.01-706,0,15113,anthony_m_kennedy,scotus_justice,139.268,143.401,What would happen if there were no savings clause in this case?
+2002.01-706,0,34170,leslie_a_brueckner,,143.401,156.859,"If there were no savings clause, our position is that there would still be no express preemption because section 4306 of the Boat Safety Act, by its terms, in our view does not encompass common law claims."
+2002.01-706,0,15113,anthony_m_kennedy,scotus_justice,157.694,161.992,"Well, except that... that this clause is different, say, than the one we had in Geier."
+2002.01-706,0,34170,leslie_a_brueckner,,177.01,191.232,"--That's true, Your Honor, but here, as in Geier, reading this preemption clause as encompassing common law claims would render the savings clause of this statute superfluous, and that is exactly the result that this Court rejected in Geier."
+2002.01-706,0,15113,anthony_m_kennedy,scotus_justice,191.232,208.446,"Well, suppose a State said there can be a common law action in the courts of this State for the violation of any safety regulation which this legislature proposes, and we hereby direct that there be a propeller... a guard on every propeller."
+2002.01-706,0,34170,leslie_a_brueckner,,213.133,224.522,"In our view that statute would be valid because we read 4306 as not even preempting State positive law, that is, laws and regulations, unless there's an actual Coast Guard standard."
+2002.01-706,0,15113,anthony_m_kennedy,scotus_justice,227.066,229.014,But... but 4306 doesn't require a Coast Guard standard.
+2002.01-706,0,34170,leslie_a_brueckner,,239.494,244.741,--Section 4306 in our view can be read... read two different ways.
+2002.01-706,0,15139,stephen_g_breyer,scotus_justice,278.903,281.662,"Not... not when... I mean, that's why I think yours is the better view, actually."
+2002.01-706,0,34170,leslie_a_brueckner,,292.666,293.875,"Absolutely, Your Honor."
+2002.01-706,0,15139,stephen_g_breyer,scotus_justice,293.875,296.115,And I've never... I guess it's a better question for the Government.
+2002.01-706,0,15113,anthony_m_kennedy,scotus_justice,299.533,311.353,"Well, let's... let's take the Government's position which is that the State could not pass a statute on a... requiring a propeller... a propeller guard."
+2002.01-706,0,34170,leslie_a_brueckner,,320.677,326.57,Because that is what Congress made clear in section 4311(g) that juries should be able to do.
+2002.01-706,0,15049,antonin_scalia,scotus_justice,327.908,332.163,"Ms. Brueckner, here's... here's my problem with 4311(g)."
+2002.01-706,0,34170,leslie_a_brueckner,,371.212,372.595,"--I agree, Justice Scalia."
+2002.01-706,0,15049,antonin_scalia,scotus_justice,372.595,376.119,"So you... you have to limit State law to mean, well, not all State law."
+2002.01-706,0,34170,leslie_a_brueckner,,397.887,408.352,"First, Your Honor, the fact that this savings clause is slightly broader than that at issue in Geier, because of the reference to State law, is not a reason to construe it narrowly."
+2002.01-706,0,15141,william_h_rehnquist,scotus_justice,426.656,435.146,"Well, that really is a bit of a stretch, isn't it, to say you're talking... when you say State law, you're only talking about wrongfully tendered an act and that sort of thing?"
+2002.01-706,0,34170,leslie_a_brueckner,,435.146,445.13,"I don't think so, Your Honor, because section 4311(g)'s language is... is quite clear and it is set forth at the blue brief at page 6."
+2002.01-706,0,15141,william_h_rehnquist,scotus_justice,445.13,451.084,"Well, to say it's quite clear... it does not relieve a person from liability at common law or under State law."
+2002.01-706,0,34170,leslie_a_brueckner,,456.907,482.379,"I disagree, Your Honor, because the reference to liability at common law or under State law to my mind suggests a reference to liability under State law, and liability under State law in this context is liability by which the measure of damages is a State statute, such as the wrongful death statute or the survival statute here that this complaint arises under."
+2002.01-706,0,15141,william_h_rehnquist,scotus_justice,482.379,485.064,I guess you have a different meaning of clear than I do.
+2002.01-706,0,34170,leslie_a_brueckner,,485.064,486.744,"That... that may be, Your Honor."
+2002.01-706,0,15139,stephen_g_breyer,scotus_justice,508.533,509.35,Why do you need that?
+2002.01-706,0,34170,leslie_a_brueckner,,535.106,536.882,"--You're absolutely right, Your Honor."
+2002.01-706,0,15139,stephen_g_breyer,scotus_justice,536.882,538.869,"So you don't need this damages thing, do you?"
+2002.01-706,0,34170,leslie_a_brueckner,,538.869,540.477,"No, we don't, Your Honor."
+2002.01-706,0,15049,antonin_scalia,scotus_justice,540.477,543.277,"Well, no, but the savings clause says even those that do, don't."
+2002.01-706,1,36722,malcolm_l_stewart,,1077.496,1088.405,"Mr. Chief Justice, and may it please the Court:"
+2002.01-706,1,15141,william_h_rehnquist,scotus_justice,1146.323,1147.003,Go ahead.
+2002.01-706,1,36722,malcolm_l_stewart,,1147.003,1151.875,--For many years the Coast Guard has required compliance with standards by inspected vessels.
+2002.01-706,1,15141,william_h_rehnquist,scotus_justice,1173.382,1174.927,Is he... is the Commandant a lawyer?
+2002.01-706,1,36722,malcolm_l_stewart,,1174.927,1180.787,"--I'm not sure whether the Commandant was a lawyer, but the... the questions were submitted to him in written form."
+2002.01-706,1,15113,anthony_m_kennedy,scotus_justice,1184.683,1197.639,"But the Commandant's lawyer or the Commandant might well admit that if, as Justice Ginsburg pointed out, there's defective design, if... if the propeller falls apart and... that then there's liability."
+2002.01-706,1,36722,malcolm_l_stewart,,1197.639,1198.72,I think... I think what--
+2002.01-706,1,15113,anthony_m_kennedy,scotus_justice,1198.72,1202.437,So that... this... this thing that you quote us just brings us right back to where we began.
+2002.01-706,1,36722,malcolm_l_stewart,,1202.437,1206.317,"--Well, I think a couple of things are noteworthy about the way that the Commandant responded."
+2002.01-706,1,15113,anthony_m_kennedy,scotus_justice,1226.201,1226.448,Would--
+2002.01-706,1,15049,antonin_scalia,scotus_justice,1226.448,1229.031,--What do we care whether the Coast Guard was happy?
+2002.01-706,1,36722,malcolm_l_stewart,,1235.041,1244.48,"Well, I think part of the argument on the other side has been that whatever the text of the statute might say, the Court should strain to hold common law claims--"
+2002.01-706,1,15139,stephen_g_breyer,scotus_justice,1244.48,1244.791,"Well, maybe."
+2002.01-706,1,36722,malcolm_l_stewart,,1296.364,1307.437,"--Well, first of all, the tort judgment is not identical because it fulfills an important purpose that the prescriptive standard doesn't, namely compensating people who have actually been injured by reason of defects."
+2002.01-706,1,15139,stephen_g_breyer,scotus_justice,1307.437,1319.758,"You could say we don't care if, in fact, the rules that we're about to promulgate are totally ignored by the States, as long as the purpose is to compensate someone."
+2002.01-706,1,36722,malcolm_l_stewart,,1319.758,1332.532,"Well, as this Court made clear in Geier, the effect of holding that State common law suits are not categorically preempted is not that the Federal judgments can be ignored; that is, there's still a role for principles of conflict preemption."
+2002.01-706,1,15049,antonin_scalia,scotus_justice,1351.222,1353.103,The Commandant didn't seem to understand that.
+2002.01-706,1,36722,malcolm_l_stewart,,1367.867,1381.471,I think what he is saying is we have always understood that compliance with our regulatory requirements will not furnish a categorical defense to suits at common law and we would understand the same--
+2002.01-706,1,15092,sandra_day_oconnor,scotus_justice,1381.471,1399.907,"Well... well, maybe it ought to be interpreted, to try to make sense of this scheme, as certainly covering the situation where the State by its common law doctrine tries to make a requirement that the Coast Guard has... and the Federal Government has flatly contradicted by regulation."
+2002.01-706,1,36722,malcolm_l_stewart,,1424.157,1429.372,--That's exactly right and that's precisely the analysis that the Court went through in Geier and it's the analysis we urge the--
+2002.01-706,1,15113,anthony_m_kennedy,scotus_justice,1429.372,1433.102,"But... but under your... your rationale, you say, oh, but there's a duty to compensate, and that's different."
+2002.01-706,1,36722,malcolm_l_stewart,,1439.705,1453.087,"--I mean, I think the Court has often pointed out in various contexts that even where it can be said that a primary goal of Congress was X, we shouldn't assume that Congress intended to pursue that goal at all costs."
+2002.01-706,1,15092,sandra_day_oconnor,scotus_justice,1491.866,1494.727,"Well, maybe... maybe it doesn't do that much."
+2002.01-706,1,36722,malcolm_l_stewart,,1507.584,1515.68,"--I... well, the... the same could have been said of the savings clause in Geier, but the Court, nevertheless, concluded that common law actions were not categorically preempted."
+2002.01-706,1,15139,stephen_g_breyer,scotus_justice,1530.126,1531.891,I... I don't see how you... you talk about straining.
+2002.01-706,1,36722,malcolm_l_stewart,,1559.604,1560.397,--I think that may--
+2002.01-706,1,15139,stephen_g_breyer,scotus_justice,1560.397,1561.934,So wouldn't I reach that same position here?
+2002.01-706,1,36722,malcolm_l_stewart,,1561.934,1581.85,"--That... that might be a legitimate rule to follow in the absence of statutory language expressly addressing the subject, but here we have one provision that says a State may not establish a law requirement of setting forth a safety standard or requirement for associated equipment unless it is identical to a Federal safety standard."
+2002.01-706,1,15139,stephen_g_breyer,scotus_justice,1608.622,1608.864,Very simple.
+2002.01-706,1,15113,anthony_m_kennedy,scotus_justice,1613.53,1614.438,Design defect.
+2002.01-706,1,36722,malcolm_l_stewart,,1614.438,1632.729,"--But... but if... if the same rule of preemption were applied to common law suits as to prescriptive regulations, namely that the State couldn't do anything that was not identical to Federal law, it could never be the case that a manufacturer who complied with Federal law could, nevertheless, be held liable at common law."
+2002.01-706,1,15113,anthony_m_kennedy,scotus_justice,1642.412,1643.514,That's... that's not... that's not true.
+2002.01-706,1,36722,malcolm_l_stewart,,1658.513,1666.413,But I... I don't think anyone would have contended that such a suit would be preempted by the preemption clause even in the absence of the savings clause.
+2002.01-706,1,15049,antonin_scalia,scotus_justice,1677.907,1684.337,"Geier didn't have the same clause, and I... I think it's a big difference when it says under common law or State law--"
+2002.01-706,1,36722,malcolm_l_stewart,,1684.337,1685.13,--But it does refer--
+2002.01-706,1,15049,antonin_scalia,scotus_justice,1685.13,1689.549,"--because you... you have to distinguish State... not just State common law, but State statutes."
+2002.01-706,1,36722,malcolm_l_stewart,,1694.704,1696.649,"--Well, it does refer to... may I finish?"
+2002.01-706,1,15141,william_h_rehnquist,scotus_justice,1696.649,1698.286,Yes.
+2002.01-706,1,36722,malcolm_l_stewart,,1698.286,1708.543,"It refers to liability under... at common law or under State law, and therefore State law is most naturally taken to be a reference to laws that accomplish purposes similar to those of the common law."
+2002.01-706,1,15141,william_h_rehnquist,scotus_justice,1708.543,1709.694,"Thank you, Mr. Stewart."
+2002.01-706,2,42002,stephen_m_shapiro,,1712.33,1716.655,"Thank you, Mr. Chief Justice, and may it please the Court:"
+2002.01-706,2,15092,sandra_day_oconnor,scotus_justice,1787.561,1790.781,Unless there's just no Federal regulation at all on this.
+2002.01-706,2,42002,stephen_m_shapiro,,1790.781,1791.61,--And... and--
+2002.01-706,2,15092,sandra_day_oconnor,scotus_justice,1791.61,1798.515,"Maybe the Federal Government has not... acting through the Coast Guard, has made no requirement, no decision at all."
+2002.01-706,2,42002,stephen_m_shapiro,,1798.515,1807.134,"--And the... the wisdom of this statute is that until the Coast Guard makes a decision about a device like propeller guards, they may not be imposed on the public."
+2002.01-706,2,15049,antonin_scalia,scotus_justice,1821.733,1822.754,"Well, not necessarily."
+2002.01-706,2,42002,stephen_m_shapiro,,1851.731,1859.82,"Well, we agree with the statement in Garmon that the Court, for preemption purposes, should assume compliance and then ask what are the implications."
+2002.01-706,2,15084,ruth_bader_ginsburg,scotus_justice,1865.858,1867.461,On the basis of one jury verdict?
+2002.01-706,2,42002,stephen_m_shapiro,,1867.461,1868.326,Or one or--
+2002.01-706,2,15084,ruth_bader_ginsburg,scotus_justice,1868.326,1872.411,It's like in tort actions in general.
+2002.01-706,2,42002,stephen_m_shapiro,,1882.754,1891.753,"--Well, after the first jury verdict, then the... in come the claims for punitive damages in the next case, and there is a powerful coercive effect from damage actions."
+2002.01-706,2,15060,john_paul_stevens,scotus_justice,1892.926,1903.714,"Mr. Shapiro, isn't it true that there all... aren't there... isn't it true there are all sorts of cases in which different designs of boats may have a... be more dangerous than other designs, depending on whether they have a propeller guard?"
+2002.01-706,2,42002,stephen_m_shapiro,,1924.169,1924.819,"Well, what's--"
+2002.01-706,2,15060,john_paul_stevens,scotus_justice,1924.819,1927.044,So that you get some preemption and some not.
+2002.01-706,2,42002,stephen_m_shapiro,,1927.044,1936.584,"--The... what the safety council found, the Coast Guard's committee of 21 experts, was that for all boats that travel more than 10 miles an hour, these are infeasible devices."
+2002.01-706,2,15084,ruth_bader_ginsburg,scotus_justice,1945.131,1947.843,But the... the Coast Guard itself didn't find anything.
+2002.01-706,2,42002,stephen_m_shapiro,,1960.178,1968.394,"Well, the... the Coast Guard said that the available accident data compiled by the 21 experts did not support a propeller guard requirement under the--"
+2002.01-706,2,15084,ruth_bader_ginsburg,scotus_justice,1968.394,1969.918,But they were still watching it.
+2002.01-706,2,42002,stephen_m_shapiro,,1977.881,1987.265,"--And in April of 2001, they looked at this again, and the Coast Guard representative on the safety council said we realize we cannot mandate installation of propeller guards."
+2002.01-706,2,15084,ruth_bader_ginsburg,scotus_justice,1993.189,1998.284,"This is something that's published, that's... that's a formal kind of action?"
+2002.01-706,2,42002,stephen_m_shapiro,,1998.284,1998.51,Yes.
+2002.01-706,2,15042,david_h_souter,scotus_justice,2007.256,2012.274,"No, but did they... did they go through any, in effect, administrative procedure kind of formal action?"
+2002.01-706,2,42002,stephen_m_shapiro,,2012.274,2015.573,"Well, but under this statute, that isn't necessary, Your Honor."
+2002.01-706,2,15042,david_h_souter,scotus_justice,2016.758,2027.807,"Well, it may be... it may not be necessary in the sense that they are under an obligation to do it, but if they don't do something like that, I... I don't know that their... their announcement has any particular status that's relevant here."
+2002.01-706,2,42002,stephen_m_shapiro,,2027.807,2039.972,"--Well, because of the wording of this statute, which is so different from Geier... it's the exact opposite of Geier... under this statute, unless there's an identical Coast Guard regulation in place, State law is preempted."
+2002.01-706,2,15139,stephen_g_breyer,scotus_justice,2039.972,2042.866,I don't see how it is so different from Geier.
+2002.01-706,2,42002,stephen_m_shapiro,,2051.621,2060.467,"Well, as to equipment, associated equipment, for boats, unless there's a Coast Guard regulation in place, the States can't mandate that equipment."
+2002.01-706,2,15139,stephen_g_breyer,scotus_justice,2060.467,2060.75,All right.
+2002.01-706,2,42002,stephen_m_shapiro,,2080.172,2080.804,Well--
+2002.01-706,2,15139,stephen_g_breyer,scotus_justice,2080.804,2082.851,"Now, I mean, I grant you that's a possible reading."
+2002.01-706,2,42002,stephen_m_shapiro,,2099.23,2100.142,--Your Honor--
+2002.01-706,2,15139,stephen_g_breyer,scotus_justice,2100.142,2100.7,But not when there isn't.
+2002.01-706,2,42002,stephen_m_shapiro,,2100.7,2114.821,"--Your Honor, we... we think that overlooks the history that I began with because under this Court's decisions, the States could not impose requirements for equipment or... or construction, design or structure for boats moving in interstate waters."
+2002.01-706,2,15084,ruth_bader_ginsburg,scotus_justice,2119.156,2131.078,"But, Mr. Shapiro, in... in this very setting, the Coast Guard said, when this Boat Safety Act was new, States, until we get around to doing this, your law controls."
+2002.01-706,2,42002,stephen_m_shapiro,,2147.575,2151.473,"Oh, yes, there... there are three exceptions to the preemption provision."
+2002.01-706,2,15084,ruth_bader_ginsburg,scotus_justice,2169.514,2171.014,But I'm talking about in the interim.
+2002.01-706,2,42002,stephen_m_shapiro,,2173.688,2174.334,"Yes, Your Honor."
+2002.01-706,2,15084,ruth_bader_ginsburg,scotus_justice,2174.334,2183.35,"The rules that applied were State rules because the Coast Guard said, States, your law controls while we haven't got any yet."
+2002.01-706,2,42002,stephen_m_shapiro,,2183.35,2184.593,"That's the key point, Your Honor."
+2002.01-706,2,15084,ruth_bader_ginsburg,scotus_justice,2192.183,2192.953,But it shows that there must have been State law.
+2002.01-706,2,42002,stephen_m_shapiro,,2200.638,2201.463,Yes.
+2002.01-706,2,15084,ruth_bader_ginsburg,scotus_justice,2201.463,2205.674,The Coast Guard must have thought there were standards in existence that could be applied.
+2002.01-706,2,42002,stephen_m_shapiro,,2205.674,2219.57,"What... what was happening, according to the legislative history, is the States were beginning to require battery covers, anchors, lines, and other pieces of associated equipment, including warning decals on the boats, and Congress says, this has to stop."
+2002.01-706,2,15084,ruth_bader_ginsburg,scotus_justice,2258.748,2259.619,"Well, what do you--"
+2002.01-706,2,15049,antonin_scalia,scotus_justice,2259.619,2260.666,--How do you treat the savings clause?
+2002.01-706,2,42002,stephen_m_shapiro,,2262.127,2264.347,It does not address preemption at all.
+2002.01-706,2,15042,david_h_souter,scotus_justice,2292.362,2292.558,Right.
+2002.01-706,2,42002,stephen_m_shapiro,,2305.677,2308.348,"It has a huge scope of operation, unlike Geier."
+2002.01-706,2,15042,david_h_souter,scotus_justice,2331.213,2331.389,Okay.
+2002.01-706,2,42002,stephen_m_shapiro,,2335.404,2338.53,--The... the next thing the Coast Guard referred to is express warranty.
+2002.01-706,2,15042,david_h_souter,scotus_justice,2347.427,2347.63,Okay.
+2002.01-706,2,42002,stephen_m_shapiro,,2348.953,2359.222,"--Negligent installation is certainly covered, and defective manufacture is also protected by the savings clause."
+2002.01-706,2,15113,anthony_m_kennedy,scotus_justice,2365.387,2367.431,I... I suppose there would be some close cases.
+2002.01-706,2,42002,stephen_m_shapiro,,2394.825,2396.52,--It is possible and for this reason.
+2002.01-706,2,15060,john_paul_stevens,scotus_justice,2438.43,2440.478,"Mr. Shapiro, I'm not sure you answered my question before."
+2002.01-706,2,42002,stephen_m_shapiro,,2459.51,2462.435,"--Well, because the manufacturer doesn't know--"
+2002.01-706,2,15060,john_paul_stevens,scotus_justice,2462.435,2463.209,"Well, it's the design."
+2002.01-706,2,42002,stephen_m_shapiro,,2464.916,2465.322,--Yes.
+2002.01-706,2,15060,john_paul_stevens,scotus_justice,2465.322,2471.108,--that seems to be particularly hazardous if you had the propeller too close to the person operating the boat or something like that.
+2002.01-706,2,42002,stephen_m_shapiro,,2471.108,2482.885,"Well, the reason that's preempted and that that is a requirement for associated equipment, even in the case that you give, is because the manufacturer has no idea what hull is going to be put together with this motor."
+2002.01-706,2,15060,john_paul_stevens,scotus_justice,2502.175,2509.286,"Yes, but what if the manufacturer of the propeller is on notice that it's being... was being purchased for a particularly dangerous design, as I've described?"
+2002.01-706,2,42002,stephen_m_shapiro,,2514.279,2528.957,"--Well, we... we rely on the logic of this committee report which says that... that for all planing boats that go 10 miles an hour or faster, these devices are counterproductive because they interfere with steering."
+2002.01-706,2,15060,john_paul_stevens,scotus_justice,2547.876,2556.923,"But you could... it seems to me as a matter of defense to tort liability, you could put all that evidence in, and say in this particular case, our design was sensible for the very reasons you just described."
+2002.01-706,2,42002,stephen_m_shapiro,,2557.954,2570.765,"Well, that's true in many of these preemption cases, but all it takes is an errant jury verdict or two or three to coerce a decision by the manufacturer to install devices that are very hazardous to the public."
+2002.01-706,2,15139,stephen_g_breyer,scotus_justice,2570.765,2575.963,"Then all you'd have to do is go to the Coast Guard and say, look what's happened, and then they'd be explicit, if you're right."
+2002.01-706,2,42002,stephen_m_shapiro,,2579.985,2581.71,"Justice Breyer, that's cold comfort."
+2002.01-706,2,15139,stephen_g_breyer,scotus_justice,2587.242,2587.783,"Well, fine."
+2002.01-706,2,42002,stephen_m_shapiro,,2593.108,2595.449,"Well, because Congress had a different vision."
+2002.01-706,2,15084,ruth_bader_ginsburg,scotus_justice,2599.064,2602.278,"Well, why did Congress then say minimum standards?"
+2002.01-706,2,42002,stephen_m_shapiro,,2611.768,2614.378,"Well, the legislative history is very explicit on that."
+2002.01-706,2,15060,john_paul_stevens,scotus_justice,2662.408,2665.106,"Mr. Shapiro, do you cite Kelly against Washington in your brief?"
+2002.01-706,2,42002,stephen_m_shapiro,,2665.106,2666.774,--We did not.
+2002.01-706,2,15060,john_paul_stevens,scotus_justice,2675.475,2676.538,"It's critically important, but you didn't even cite it."
+2002.01-706,2,42002,stephen_m_shapiro,,2676.538,2678.855,"Well, it's quoted in the cases that we do cite."
+2002.01-706,2,15042,david_h_souter,scotus_justice,2705.972,2714.445,"Well, I mean, that may be true if you're talking about commercial boating, but it's not true of recreational boating."
+2002.01-706,2,42002,stephen_m_shapiro,,2714.445,2715.783,"--Oh, yes, it is."
+2002.01-706,2,15042,david_h_souter,scotus_justice,2717.882,2718.659,Little motorboats?
+2002.01-706,2,42002,stephen_m_shapiro,,2718.659,2719.817,--Absolutely.
+2002.01-706,2,15042,david_h_souter,scotus_justice,2719.817,2722.099,5-foot skiffs and little put-puts?
+2002.01-706,2,42002,stephen_m_shapiro,,2722.099,2731.588,"Since the '40s and the '50s, this Court, and later in Foremost and in Sisson, this Court has held that recreational boats fall squarely within the maritime jurisdiction."
+2002.01-706,2,15113,anthony_m_kennedy,scotus_justice,2731.588,2733.08,Even in New Hampshire?
+2002.01-706,3,34170,leslie_a_brueckner,,3476.171,3480.604,"Your Honor, the... the maritime argument was waived."
+2002.01-706,3,15141,william_h_rehnquist,scotus_justice,3668.048,3669.843,"Thank you, Ms. Brueckner."

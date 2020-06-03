@@ -1,0 +1,114 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2016.16-254,0,15086,john_g_roberts_jr,scotus_justice,0.0,6.505,"We'll hear argument next in case 16-254, Water Splash v. Menon. Mr. Gaston."
+2016.16-254,0,62825,jeremy_gaston,,6.505,19.89,"Thank you, Mr. Chief Justice, and may it please the Court: At issue in this case is whether The Hague Service Convention permits service of process by mail if the State of destination does not object."
+2016.16-254,0,15131,sonia_sotomayor,scotus_justice,49.48,59.615,"Counsel, your adversary basically starts from the proposition that this text is unambiguous."
+2016.16-254,0,62825,jeremy_gaston,,59.615,60.65,Yes.
+2016.16-254,0,15131,sonia_sotomayor,scotus_justice,60.65,65.025,Do you agree with that proposition?
+2016.16-254,0,62825,jeremy_gaston,,65.025,66.17,No.
+2016.16-254,0,15131,sonia_sotomayor,scotus_justice,115.55,115.91,All right.
+2016.16-254,0,62825,jeremy_gaston,,123.48,160.34,"The -- -- the -- the best -- there's a practical answer and then there's a -- a legal answer. The practical answer -- and this involves the circumstances leading up to the treaty -- is that there were three prior treaties dating back to 1896, where a French term ""addressee"" was used in the analogous provision, and that, in French, was also not a term of art for ""service."" There were two other French terms of art for ""service,"" and the convention used ""nova casiam"" and ""signif casiam"" as terms for service."
+2016.16-254,0,15113,anthony_m_kennedy,scotus_justice,206.26,234.43,"Is it -- is it fair to say that your first argument, you were talking about the first argument text, but then it seems to me that you went a little bit beyond text. Is one of your arguments that maybe ""send"" is ambiguous when you look at (a), but when you look at (b) and (c), you know why they used the word ""send"" and so it's not ambiguous -- even though it's ambiguous, the much better interpretation is your interpretation, just by looking at (a), (b), and (c)? Is that your argument? Is that your first argument?"
+2016.16-254,0,62825,jeremy_gaston,,234.43,234.65,No.
+2016.16-254,0,15113,anthony_m_kennedy,scotus_justice,245.98,246.54,Right.
+2016.16-254,0,62825,jeremy_gaston,,246.54,249.77,-- despite a presumption that different words usually mean different things.
+2016.16-254,0,15068,samuel_a_alito_jr,scotus_justice,281.97,294.37,"There's a body of law, a body of international law regarding the way in which treaties should be interpreted, and there are certain rules about the interpretation of treaties."
+2016.16-254,0,62825,jeremy_gaston,,315.505,335.69,"And -- and I think, luckily, this case I don't think rings up the conflict, because the only way you remove the ambiguity in a -- in a way against Petitioner's position is to take a canon that words usually mean different things and make it irrebuttable, and that's -- that's not the law under -- under Federal law."
+2016.16-254,0,15084,ruth_bader_ginsburg,scotus_justice,578.8,584.65,There have been a number of countries that have said: We don't want you to use mail.
+2016.16-254,0,62825,jeremy_gaston,,586.775,587.64,Yes.
+2016.16-254,0,15084,ruth_bader_ginsburg,scotus_justice,633.33,636.51,Have positively said we don't object.
+2016.16-254,0,62825,jeremy_gaston,,636.51,638.47,Yes.
+2016.16-254,0,15084,ruth_bader_ginsburg,scotus_justice,638.47,650.595,"If -- if you -- you are right, does Menon, does she get any chance to defend on the merits? Or if she suffered a default judgment, is that it?"
+2016.16-254,0,62825,jeremy_gaston,,650.595,667.57,"In -- in general, that is not it because the convention has two provisions in Articles 15 and 16 that enable a person to -- to potentially void a judgment or to extend the time to appeal if certain conditions are shown."
+2016.16-254,0,15131,sonia_sotomayor,scotus_justice,693.44,694.909,The articles.
+2016.16-254,0,62825,jeremy_gaston,,696.23,697.33,Articles 15 and 16.
+2016.16-254,0,15131,sonia_sotomayor,scotus_justice,697.33,698.545,"No, what do they say?"
+2016.16-254,0,62825,jeremy_gaston,,698.545,717.41,"So Article 15 precludes the entry of a default judgment depending on whether the forum State -- and in this case, that's the United States -- whether they have opted to go in the first half of Article 15 or the second half of Article 15. The first half of Article 15 based --"
+2016.16-254,0,15131,sonia_sotomayor,scotus_justice,717.41,722.835,Where does the person get to raise the defense that they didn't actually receive notice?
+2016.16-254,0,62825,jeremy_gaston,,722.835,734.545,They can certainly raise it in the -- in the proceeding where the judgment was entered within a reasonable time after they got actual notice of the judgment.
+2016.16-254,0,15086,john_g_roberts_jr,scotus_justice,755.995,776.93,"Thank you, counsel. Ms. Goldenberg."
+2016.16-254,1,22331,elaine_j_goldenberg,,776.93,801.01,"Mr. Chief Justice, and may it please the Court: Article 10(a) of the Hague Service Convention permits service through postal channels on persons abroad if the law of the forum State -- that's the State where the case is pending -- authorizes such service and if the receiving State where the mail will be delivered hasn't objected to Article 10(a). And I'd like to start with this permit authorize framework, because I think there's been a lot of confusion in the lower courts on this subject."
+2016.16-254,1,15084,ruth_bader_ginsburg,scotus_justice,878.56,878.71,Did they --
+2016.16-254,1,22331,elaine_j_goldenberg,,878.71,879.48,-- it's done in a certain way.
+2016.16-254,1,15084,ruth_bader_ginsburg,scotus_justice,879.48,891.43,"Did they make a distinction, any of them, between the initiating document, the complaint, as distinguished from documents later on in the litigation?"
+2016.16-254,1,22331,elaine_j_goldenberg,,891.43,892.76,"None of them do, no."
+2016.16-254,1,15094,elena_kagan,scotus_justice,971.96,975.25,Why do you think they used a different word?
+2016.16-254,1,22331,elaine_j_goldenberg,,975.25,980.66,"I think my friend correctly gave the reasons, which is there is a historical reason and a practical reason."
+2016.16-254,1,15086,john_g_roberts_jr,scotus_justice,1098.925,1104.004,"Thank you, counsel. Mr. Hootman."
+2016.16-254,2,62826,timothy_a_hootman,,1104.004,1136.71,"Mr. Chief Justice, and may it please the Court: Before I get into the -- into the thrust of my argument, I'd like to address a couple of questions that came up here. Why is -- was a different word used, okay? The lead scholar on this, which is cited to in both the -- the Solicitor General's brief and my -- my opponent's brief, Bruno Ristau, he's -- he's the acknowledged expert in this whole area of -- of extrajudicial service."
+2016.16-254,2,15131,sonia_sotomayor,scotus_justice,1170.68,1183.95,"I -- I think that leading scholar -- maybe I'm wrong, but I thought I read it, thought that it -- that it may have been the scrivener's mistake, but the intent was clearly to effect service by the --"
+2016.16-254,2,62826,timothy_a_hootman,,1183.95,1186.81,It clearly comes down on -- on their side of the camp.
+2016.16-254,2,15131,sonia_sotomayor,scotus_justice,1188.26,1196.22,"So this leading scholar calls it a misuse of words, but that the intent was clear in -- for all the reasons everyone else is giving?"
+2016.16-254,2,62826,timothy_a_hootman,,1196.22,1196.925,Exactly.
+2016.16-254,2,15131,sonia_sotomayor,scotus_justice,1208.56,1236.78,"So why is this clear? Your adversary says isn't the lack of clarity inherent in the question; what do they mean by ""send""? They don't define ""send."" They don't define ""service."" So doesn't that automatically create an ambiguity? And why isn't the ambiguity approached the way the other side says?"
+2016.16-254,2,62826,timothy_a_hootman,,1236.78,1237.44,Okay.
+2016.16-254,2,15084,ruth_bader_ginsburg,scotus_justice,1284.97,1304.855,"Is it a convention on the service of documents? It's not a convention about sending documents, but it's a convention -- everything in this convention relates to service, and the whole purpose of it was to facilitate international cooperation in litigation."
+2016.16-254,2,62826,timothy_a_hootman,,1304.855,1306.07,No doubt about it.
+2016.16-254,2,15084,ruth_bader_ginsburg,scotus_justice,1306.07,1324.62,"And so just -- just as in -- in this case, the service is sought to be made in Canada, there will be cases where courts abroad want to serve somebody in the United States."
+2016.16-254,2,62826,timothy_a_hootman,,1336.425,1338.26,No doubt about it.
+2016.16-254,2,15084,ruth_bader_ginsburg,scotus_justice,1395.71,1403.91,"I'm -- I'm not grasping what you mean by ""process."" It's on the -- the convention is on the service of documents."
+2016.16-254,2,62826,timothy_a_hootman,,1403.91,1405.81,Yes.
+2016.16-254,2,15084,ruth_bader_ginsburg,scotus_justice,1408.09,1409.465,Yes.
+2016.16-254,2,62826,timothy_a_hootman,,1432.905,1433.63,Right.
+2016.16-254,2,15131,sonia_sotomayor,scotus_justice,1603.525,1604.18,"Well, I'm sorry."
+2016.16-254,2,62826,timothy_a_hootman,,1612.93,1614.62,Service by mail was --
+2016.16-254,2,15131,sonia_sotomayor,scotus_justice,1614.62,1629.36,"Or your position is -- is that we did; that in the treaty, we intended, by signing the treaty, to give up the power of States to authorize the service by mail?"
+2016.16-254,2,62826,timothy_a_hootman,,1629.36,1633.3,Service by mail was actually not talked about in the Senate hearings.
+2016.16-254,2,15131,sonia_sotomayor,scotus_justice,1634.09,1656.67,"I'm asking you, do you think it's a fair reading of a treaty for us to read it to constrict the rights of States to effect service consistent with due process? Because there's no doubt that we consider mail service consistent with due process."
+2016.16-254,2,62826,timothy_a_hootman,,1656.67,1657.44,Okay --
+2016.16-254,2,15131,sonia_sotomayor,scotus_justice,1657.44,1660.99,"The United States authorize it, right?"
+2016.16-254,2,62826,timothy_a_hootman,,1660.99,1678.23,"Well, the -- under -- according to Brockmeyer, the case -- the -- the position that the Solicitor General wants the Court to adopt, the actual holding in that case was that the Article 10(a) does -- does not authorize service by mail."
+2016.16-254,2,15131,sonia_sotomayor,scotus_justice,1679.52,1679.8,All right.
+2016.16-254,2,62826,timothy_a_hootman,,1679.8,1681.54,"-- meaning, you've got to look at the local law --"
+2016.16-254,2,15131,sonia_sotomayor,scotus_justice,1681.54,1682.285,I -- I accept that.
+2016.16-254,2,62826,timothy_a_hootman,,1685.09,1691.68,"Well, Texas doesn't, according to the majority opinion in this case, because all four of my points were sustained in the -- in the lower court."
+2016.16-254,2,15084,ruth_bader_ginsburg,scotus_justice,1697.61,1703.22,But -- take Rule -- Rule 4(e) of the Federal Rules of Civil Procedure.
+2016.16-254,2,62826,timothy_a_hootman,,1724.91,1727.68,I'm sure some States somewhere do.
+2016.16-254,2,15084,ruth_bader_ginsburg,scotus_justice,1815.52,1824.95,"Well, if it's -- if it's permitted under a Federal treaty, then how can Texas not permit it?"
+2016.16-254,2,62826,timothy_a_hootman,,1824.95,1829.625,Because unless -- that took me a long time to figure that distinction out.
+2016.16-254,2,15131,sonia_sotomayor,scotus_justice,1895.325,1895.895,I'm sorry.
+2016.16-254,2,62826,timothy_a_hootman,,1956.23,1956.88,Right.
+2016.16-254,2,15131,sonia_sotomayor,scotus_justice,1963.42,1963.81,Right.
+2016.16-254,2,62826,timothy_a_hootman,,1963.81,1964.21,Right.
+2016.16-254,2,15131,sonia_sotomayor,scotus_justice,1971.61,1977.295,So why wasn't the service here pursuant to one of those authorized Texas ways?
+2016.16-254,2,62826,timothy_a_hootman,,1977.295,1983.79,"Well, the short answer is because the Texas court said it wasn't the proper way to do it."
+2016.16-254,2,15094,elena_kagan,scotus_justice,2095.315,2103.155,Do you think it's a problem for your position that no other court in the world has construed the treaty this way?
+2016.16-254,2,62826,timothy_a_hootman,,2103.155,2109.505,That's clearly a problem. That's why I focused so hard on text. (Laughter.)
+2016.16-254,2,62826,timothy_a_hootman,,2109.505,2111.46,I mean -- I mean --
+2016.16-254,2,15086,john_g_roberts_jr,scotus_justice,2111.46,2114.85,"Someone's got to be first, right? (Laughter.)"
+2016.16-254,2,62826,timothy_a_hootman,,2114.85,2128.14,"Then that now -- that is why I cited to -- I forgot what they call it, but it's basically the -- the restatement of law in Europe. That's why I cited to that, to see what their mindset is."
+2016.16-254,2,15094,elena_kagan,scotus_justice,2148.59,2151.0,"Well, this goes back to Justice Alito's question."
+2016.16-254,2,62826,timothy_a_hootman,,2159.875,2161.1,No doubt about it.
+2016.16-254,2,15094,elena_kagan,scotus_justice,2176.03,2182.925,"Well, one question I suppose might be whether that is in fact producing the disparity in -- in judgments."
+2016.16-254,2,62826,timothy_a_hootman,,2219.47,2223.64,"Clearly, we've got to be respectful to our foreign friends."
+2016.16-254,2,15084,ruth_bader_ginsburg,scotus_justice,2240.42,2254.58,You are taking a statement from a -- it's not exactly restatement; it's sort of this European project written by a law professor in Denmark.
+2016.16-254,2,62826,timothy_a_hootman,,2282.31,2316.535,"I'm definitely no European legal scholar, by any means, but I do -- I do believe that -- that cite that I gave, I did some research to see how respected it was, and I believe -- maybe I'm wrong on that, but I think it's on par with our restatement. Do they -- do they do what we do here? Well, if you look at the Vienna Convention -- And someone brought that up, by the way. The Vienna Convention says how you're supposed to interpret treaties. They actually do the opposite of that, that quote that -- that you're -- that I gave you and now you're giving back to me."
+2016.16-254,2,15084,ruth_bader_ginsburg,scotus_justice,2360.69,2370.385,The -- the source that you cite is not talking about the interpretation of statutes; it's talking about the interpretation of private contracts between two individuals.
+2016.16-254,2,62826,timothy_a_hootman,,2370.385,2374.09,"That's primarily the -- yes, I would agree with that."
+2016.16-254,2,15086,john_g_roberts_jr,scotus_justice,2386.31,2392.96,"Well, one of the -- I mean, if you are talking about -- and I think this is a distinction between statutes and treaties."
+2016.16-254,2,62826,timothy_a_hootman,,2414.52,2423.83,"I have a real problem -- and I realize the cases make this analogy to contracts -- but I have a real problem with that analogy, because it -- it doesn't factor in the -- the Constitution."
+2016.16-254,2,15086,john_g_roberts_jr,scotus_justice,2705.44,2706.515,"Thank you, counsel."
+2016.16-254,2,62826,timothy_a_hootman,,2706.515,2707.15,Thank you.
+2016.16-254,2,15086,john_g_roberts_jr,scotus_justice,2707.15,2709.57,"Mr. Gaston, you have seven minutes."
+2016.16-254,3,62825,jeremy_gaston,,2709.57,2711.25,"Thank you, Mr. Chief Justice."
+2016.16-254,3,15131,sonia_sotomayor,scotus_justice,2711.25,2729.685,"Mr. Gaston, would you start with the Brockmeyer question? Do you agree with the government on the issue that the treaty only permits, doesn't necessarily authorize? And then your adversary's position that the Texas court has already said that under Texas law, you can't serve this way."
+2016.16-254,3,62825,jeremy_gaston,,2729.685,2747.405,"Yes, Justice Sotomayor. We -- Petitioner agrees with the United States' position and it points out, actually, an ambiguity in the world ""authorize,"" which is the question presented that -- that -- that ambiguity is my responsibility, because ""authorized"" can mean empower or it can mean permit."
+2016.16-254,3,15086,john_g_roberts_jr,scotus_justice,2850.33,2853.5,Is that preemption question before us?
+2016.16-254,3,62825,jeremy_gaston,,2853.5,2854.99,No.
+2016.16-254,3,15086,john_g_roberts_jr,scotus_justice,2866.265,2872.775,"Well, we're not being asked to rule on that because I gather the Texas Court of Appeals has a different view on that."
+2016.16-254,3,62825,jeremy_gaston,,2872.775,2886.535,"I think the Texas Court of Appeals has the same view, which is that -- that if the treaty prohibits service by mail, the fact that it's authorized under Texas law is dead letter and therefore --"
+2016.16-254,3,15084,ruth_bader_ginsburg,scotus_justice,2886.535,2899.295,But we were told by the other side that Texas law -- forget about treaties -- Texas law does not permit service of process by mail period.
+2016.16-254,3,62825,jeremy_gaston,,2899.295,2903.13,And that is nowhere in the court of appeals decision.
+2016.16-254,3,15139,stephen_g_breyer,scotus_justice,2916.36,2929.63,"If you win in -- this Article 10, in fact, permits service by mail, then you'll go back to Texas and you'll say, see, it permits it expressly."
+2016.16-254,3,62825,jeremy_gaston,,2938.5,2939.21,Yes.
+2016.16-254,3,15139,stephen_g_breyer,scotus_justice,2939.21,2940.425,So we should send it back.
+2016.16-254,3,15086,john_g_roberts_jr,scotus_justice,2940.425,2941.86,It doesn't say that at all.
+2016.16-254,3,62825,jeremy_gaston,,2953.965,2954.69,Yes.
+2016.16-254,3,15139,stephen_g_breyer,scotus_justice,2954.69,2956.245,Absolutely say it doesn't.
+2016.16-254,3,62825,jeremy_gaston,,2956.245,2959.29,"Yes, that is absolutely our position."
+2016.16-254,3,15086,john_g_roberts_jr,scotus_justice,2959.29,2961.775,But the Court of Appeals said otherwise?
+2016.16-254,3,62825,jeremy_gaston,,2961.775,2983.67,"No, the court of appeals held that The Hague Service Convention prohibits service of process by mail and, therefore, it sustained the Respondent's challenge to the trial court judgment on the basis that there was no valid service of process because the service that was effected was prohibited by The Hague Service Convention."
+2016.16-254,3,15094,elena_kagan,scotus_justice,2985.51,2994.765,"So, I'm sorry, you're saying it just never got to this question of what Texas law says."
+2016.16-254,3,62825,jeremy_gaston,,2994.765,2995.56,Correct.
+2016.16-254,3,15094,elena_kagan,scotus_justice,2995.56,2997.504,Okay.
+2016.16-254,3,62825,jeremy_gaston,,2997.504,3025.755,"On our blue brief at 32 and 33, I think it's clear, not only did the negotiator for the United States tell the Senate that this treaty involved service -- allowed service by mail and the Executive Branch internally relayed that message to the -- to the President, so it's very clear internally that the United States Executive Branch understood that the United States' intent was that it allowed service by mail."
+2016.16-254,3,15086,john_g_roberts_jr,scotus_justice,3073.839,0.0,"Thank you, counsel. The case is submitted."

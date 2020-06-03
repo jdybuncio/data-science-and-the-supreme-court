@@ -1,0 +1,239 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2007.06-179,0,15086,john_g_roberts_jr,scotus_justice,0.0,8.057,"We'll hear argument first this morning in case 06-179, Riegel v. Medtronic, Inc.."
+2007.06-179,0,17307,allison_m_zieve,,8.887,24.412,"Mr. Chief Justice, and may it please the Court: The question in this case is whether Section 360k(a) of the Medical Device Amendment to the Food, Drug, and Cosmetic Act preempts State law claims seeking damages for injuries caused by a device that received pre-market approval."
+2007.06-179,0,15086,john_g_roberts_jr,scotus_justice,108.456,123.981,"Isn't that situation addressed by the requirement that the manufacturer alert the FDA to new information and at least file annual reports, and then the FDA can pull back the pre-market approval if they think these problems require it to do so?"
+2007.06-179,0,17307,allison_m_zieve,,123.981,126.309,"--Well, yes and no."
+2007.06-179,0,15049,antonin_scalia,scotus_justice,160.56,166.448,What if the manufacturer wants to make what you call an improvement?
+2007.06-179,0,17307,allison_m_zieve,,173.603,179.397,"--Depending on whether it is a design or labeling change, the answer is different."
+2007.06-179,0,15049,antonin_scalia,scotus_justice,192.609,197.39,Even if it is designed to improve safety and effectiveness?
+2007.06-179,0,17307,allison_m_zieve,,197.39,198.748,That's right.
+2007.06-179,0,15049,antonin_scalia,scotus_justice,217.273,221.114,"Right, but those devices had not been... they were just grandfathered."
+2007.06-179,0,17307,allison_m_zieve,,227.971,229.439,--Right.
+2007.06-179,0,15113,anthony_m_kennedy,scotus_justice,240.889,274.094,"Well, before that decision is reached, let me ask you this... under State law, either generally or specifically under the law of the State that you are trying to invoke here, does the jury... does the finder of fact weigh the potential risks of injury and illness against the probable benefits to the health of the patient?"
+2007.06-179,0,17307,allison_m_zieve,,288.854,293.852,"Well, the standard in New York is whether the product is unreasonably hazardous."
+2007.06-179,0,15113,anthony_m_kennedy,scotus_justice,295.133,301.395,"Alright, now isn't that exactly what the FDA measured in the PMA process?"
+2007.06-179,0,17307,allison_m_zieve,,309.283,311.047,--That's right.
+2007.06-179,0,15113,anthony_m_kennedy,scotus_justice,312.391,315.202,So the jury is doing the same thing that the FDA did.
+2007.06-179,0,17307,allison_m_zieve,,315.202,316.639,--Yes.
+2007.06-179,0,15113,anthony_m_kennedy,scotus_justice,322.871,328.306,"Well, but that was under the expedited 510(k)."
+2007.06-179,0,17307,allison_m_zieve,,334.07,343.551,What the FDA does before the product reaches the market is different in the PMA context as opposed to 510(k).
+2007.06-179,0,15049,antonin_scalia,scotus_justice,366.118,368.538,What was the State requirement there?
+2007.06-179,0,17307,allison_m_zieve,,378.272,380.771,The design requirement in Lohr?
+2007.06-179,0,15049,antonin_scalia,scotus_justice,380.771,381.427,Yeah.
+2007.06-179,0,17307,allison_m_zieve,,381.427,389.471,"It had to be substantially equivalent, safety and effectiveness, to a device that was grandfathered in, that's right."
+2007.06-179,0,15049,antonin_scalia,scotus_justice,403.918,422.504,"Well, but the point is that the... to follow up on Justice Kennedy's question, the point is that the FDA in Lohr had never made a determination of weighing the risks against the benefits, as they do for the issuance of PMA's."
+2007.06-179,0,17307,allison_m_zieve,,432.359,445.291,"--I don't think that goes to preemption under 360k(a) which looks for a specific Federal requirement, a State device requirement, and then looks at... compares the two to see if there are counterparts."
+2007.06-179,0,15084,ruth_bader_ginsburg,scotus_justice,445.291,457.537,"And how does it... how does it compare with another process that the FDA looks at very closely, I think even more closely than new devices... new drugs."
+2007.06-179,0,17307,allison_m_zieve,,481.371,499.129,"Under the common law of most or all States, compliance with Federal law is a defense on the merits, and it is not usually dispositive, but in some States... in some States it is."
+2007.06-179,0,15084,ruth_bader_ginsburg,scotus_justice,499.129,502.456,"So it would certainly be at least the same here, right?"
+2007.06-179,0,17307,allison_m_zieve,,507.064,508.189,Absolutely.
+2007.06-179,0,15084,ruth_bader_ginsburg,scotus_justice,514.577,522.511,"Is there a reason... as I understand it, tort suits are not preempted with respect to new drugs."
+2007.06-179,0,17307,allison_m_zieve,,530.024,536.146,"--Well, there is no express preemption provision in the Food, Drug, and Cosmetic Act with respect to drugs."
+2007.06-179,0,15084,ruth_bader_ginsburg,scotus_justice,536.146,536.708,So that's the difference.
+2007.06-179,0,17307,allison_m_zieve,,540.067,540.395,Right.
+2007.06-179,0,15049,antonin_scalia,scotus_justice,622.471,633.467,"Does that mean that, under the Food and Drug regulation, the States can issue their own regulations that contradict the Federal approval?"
+2007.06-179,0,17307,allison_m_zieve,,633.467,641.027,"Well, they couldn't issue regulations that contradict the Federal approvals because of the express preemption provision."
+2007.06-179,0,15049,antonin_scalia,scotus_justice,643.12,643.276,No.
+2007.06-179,0,17307,allison_m_zieve,,646.338,647.885,--That would be a conflict preemption question.
+2007.06-179,0,15049,antonin_scalia,scotus_justice,647.885,650.039,"--Well, no."
+2007.06-179,0,17307,allison_m_zieve,,659.8,662.657,"Well, if there's no conflicts, then there would be no preemption."
+2007.06-179,0,15049,antonin_scalia,scotus_justice,662.657,669.437,--Then the States can issue regulations that go beyond... beyond what the FDA says in drug matters?
+2007.06-179,0,17307,allison_m_zieve,,672.498,676.2,"Well, if there's... the only basis for preemption with respect to drugs is conflict preemption."
+2007.06-179,0,15049,antonin_scalia,scotus_justice,681.744,682.729,And is that the only basis here?
+2007.06-179,0,17307,allison_m_zieve,,687.586,696.363,"--Well, here, if there is not a specific Federal requirement that is the counterpart to a State requirement, there is no preemption."
+2007.06-179,0,15049,antonin_scalia,scotus_justice,699.534,710.716,They can add additional requirements so long as... and I suppose they can do this by regulation... so long as these additional requirement dos not prevent complying with the Federal requirements?
+2007.06-179,0,17307,allison_m_zieve,,718.901,719.182,--No.
+2007.06-179,0,15049,antonin_scalia,scotus_justice,719.807,721.057,"It is field preemption, isn't it?"
+2007.06-179,0,17307,allison_m_zieve,,721.057,724.181,"--No, I don't think so."
+2007.06-179,0,15084,ruth_bader_ginsburg,scotus_justice,738.815,739.081,Take a--
+2007.06-179,0,15049,antonin_scalia,scotus_justice,739.081,739.533,If it--
+2007.06-179,0,15084,ruth_bader_ginsburg,scotus_justice,739.533,749.826,--Take a concrete situation where the FDA is asked: We'd like to make this improvement.
+2007.06-179,0,17307,allison_m_zieve,,770.662,797.697,"If the... if 360k(a) ever preempts tort claims, I think that would be a situation, but if... only the tort claim is... is specific in that way, that you... that the company failed in its duty of care because it didn't design the device in the specific way that the FDA had rejected."
+2007.06-179,0,15049,antonin_scalia,scotus_justice,797.697,800.494,"--Well, that's not the way I would... the jury has to say that?"
+2007.06-179,0,17307,allison_m_zieve,,805.507,805.679,"Well, that--"
+2007.06-179,0,15049,antonin_scalia,scotus_justice,805.679,813.114,"--In fact, that's what's going on, but it could have been safe if... if they had made the change that the FDA rejected."
+2007.06-179,0,17307,allison_m_zieve,,818.191,818.348,"--Well, the--"
+2007.06-179,0,15049,antonin_scalia,scotus_justice,818.348,827.751,"The trial is, you know, had he... had he made this change, it would have been safe, but he didn't make the change and, therefore, you, ladies and gentlemen of the jury, should hold the company liable."
+2007.06-179,0,17307,allison_m_zieve,,827.751,835.545,"--But if that's the theory of the case, I think that's basically the one-inch/two-inch hearing aid fix of Justice Breyer's example in Lohr."
+2007.06-179,0,15049,antonin_scalia,scotus_justice,835.545,836.232,So it just--
+2007.06-179,0,17307,allison_m_zieve,,836.232,836.841,But most tort claims--
+2007.06-179,0,15049,antonin_scalia,scotus_justice,836.841,838.513,--It just has to be the theory of the case.
+2007.06-179,0,17307,allison_m_zieve,,846.774,851.397,"--Well, it's... it's not actually that hard, because most tort claims are--"
+2007.06-179,0,15084,ruth_bader_ginsburg,scotus_justice,851.397,861.346,"I thought your response was it wouldn't go to the jury if the FDA had said no, you cannot make this, and the plaintiff's point is you must make it in order to make this device safe."
+2007.06-179,0,17307,allison_m_zieve,,877.589,877.933,--Yes.
+2007.06-179,0,15049,antonin_scalia,scotus_justice,879.636,892.41,"That's under State law, but you... you don't say that Federal preemption requires that; you say that by the grace of New York State, that may be the situation, but New York State can change that law, as far as you're concerned, right?"
+2007.06-179,0,17307,allison_m_zieve,,892.41,893.395,--Can... I'm sorry.
+2007.06-179,0,15049,antonin_scalia,scotus_justice,894.207,899.721,"New York State can let it go to the jury, despite... despite what the FDA has done."
+2007.06-179,0,17307,allison_m_zieve,,909.952,912.154,I think that's a different point.
+2007.06-179,0,15049,antonin_scalia,scotus_justice,912.904,915.182,I thought that's the point Justice Ginsburg was implying.
+2007.06-179,0,15084,ruth_bader_ginsburg,scotus_justice,915.182,920.82,"I was asking you, if it was... as a matter of Federal law, if the FDA says... rejects."
+2007.06-179,0,17307,allison_m_zieve,,920.82,921.055,--Yes.
+2007.06-179,0,15084,ruth_bader_ginsburg,scotus_justice,921.055,928.71,"--a proposed change, can a State court say, well, we think the FDA was wrong in rejecting that, so we're going to let it go to the jury."
+2007.06-179,0,17307,allison_m_zieve,,943.532,944.703,Yes.
+2007.06-179,0,15084,ruth_bader_ginsburg,scotus_justice,962.867,963.976,How about the--
+2007.06-179,0,17307,allison_m_zieve,,963.976,964.789,--The relevance of--
+2007.06-179,0,15084,ruth_bader_ginsburg,scotus_justice,964.789,976.487,--Another variation... the FDA says you must include X in this device or we won't give you the pre-market approval.
+2007.06-179,0,17307,allison_m_zieve,,1013.472,1016.314,--Yes.
+2007.06-179,0,15086,john_g_roberts_jr,scotus_justice,1036.011,1036.369,Right.
+2007.06-179,0,17307,allison_m_zieve,,1055.926,1056.221,--Exactly.
+2007.06-179,0,15086,john_g_roberts_jr,scotus_justice,1056.221,1058.799,"They should have made the change to make it safer, right?"
+2007.06-179,0,17307,allison_m_zieve,,1058.799,1059.501,That's right.
+2007.06-179,0,15086,john_g_roberts_jr,scotus_justice,1059.501,1060.298,"Well, if that's--"
+2007.06-179,0,17307,allison_m_zieve,,1060.298,1060.782,And if you look at--
+2007.06-179,0,15086,john_g_roberts_jr,scotus_justice,1060.782,1084.288,"--Well, if that's what happens, what, as a... what's going to happen for patients at a time when your theory comes up, the manufacturer looks at it and says, well, maybe this is a better device; we don't want to risk these tort suits, so we're going to stop selling our old device that's been approved, but now we have got to get FDA approval of the new device and that might take forever or at least a year, let's say."
+2007.06-179,0,17307,allison_m_zieve,,1088.804,1098.704,"--Well, first of all, if the device is reasonably safe and effective, then the company is just not going to stop marketing it because of tort suits."
+2007.06-179,0,15086,john_g_roberts_jr,scotus_justice,1099.72,1104.405,"But your theory is that although this device has been approved, here's a better one."
+2007.06-179,0,17307,allison_m_zieve,,1114.464,1114.98,--Right.
+2007.06-179,0,15086,john_g_roberts_jr,scotus_justice,1126.601,1131.957,What do you want them to do if you think it's negligent for them to market the approved product?
+2007.06-179,0,17307,allison_m_zieve,,1134.066,1140.953,"--Well, I... they should make their devices as safe as they can be."
+2007.06-179,0,15086,john_g_roberts_jr,scotus_justice,1146.451,1147.373,It's not that it is not reasonably safe.
+2007.06-179,0,17307,allison_m_zieve,,1159.024,1159.415,--That's right.
+2007.06-179,0,15049,antonin_scalia,scotus_justice,1172.331,1174.331,"Of course, this is all a little unrealistic."
+2007.06-179,0,17307,allison_m_zieve,,1218.158,1221.919,"Well, any one of us might have drawn the line differently."
+2007.06-179,0,15139,stephen_g_breyer,scotus_justice,1234.384,1237.179,I thought that was something a little different than that.
+2007.06-179,0,17307,allison_m_zieve,,1280.817,1285.802,There's not a lot of discovery about the design of the catheter.
+2007.06-179,0,15139,stephen_g_breyer,scotus_justice,1285.802,1286.535,I know.
+2007.06-179,0,17307,allison_m_zieve,,1287.847,1296.921,The general theory is that the design was unreasonably safe because the catheter should not have... should have been strong enough--
+2007.06-179,0,15139,stephen_g_breyer,scotus_justice,1296.921,1301.512,What is it about the design that you are saying is not safe?
+2007.06-179,0,17307,allison_m_zieve,,1317.178,1319.896,--The strength of the balloon and the way in which--
+2007.06-179,0,15139,stephen_g_breyer,scotus_justice,1319.896,1327.769,You are saying the material of the balloon should have been of a different material or a different thickness; is that right?
+2007.06-179,0,17307,allison_m_zieve,,1327.769,1331.204,--Or designed to burst in a different way.
+2007.06-179,0,15139,stephen_g_breyer,scotus_justice,1331.204,1332.251,What does that mean?
+2007.06-179,0,17307,allison_m_zieve,,1334.359,1336.531,I don't know how you design a balloon.
+2007.06-179,0,15139,stephen_g_breyer,scotus_justice,1337.093,1342.651,"If you don't know how to design the balloon, what are you basing the design claim on?"
+2007.06-179,0,17307,allison_m_zieve,,1342.651,1348.588,"--As I said, the design claim in this case was not significantly developed."
+2007.06-179,0,15084,ruth_bader_ginsburg,scotus_justice,1356.819,1359.428,What about the label... that you're pressing?
+2007.06-179,0,17307,allison_m_zieve,,1366.05,1397.631,"--The labeling claim is that the label was... inadequately warned or was misleading because although at one place it lists among 12 precautions not to inflate the balloon above the rate of burst pressure, which was eight, at another place it says to... it has a chart that shows inflation up to 13 atmosphere, and at another place in the instructions, it says inflate to the nominal pressure, which is--"
+2007.06-179,0,15086,john_g_roberts_jr,scotus_justice,1397.631,1399.99,So that's just like a car speedometer.
+2007.06-179,0,17307,allison_m_zieve,,1404.706,1411.844,--But the car doesn't come with a chart that shows you safe usage of up to 100 miles either.
+2007.06-179,0,15113,anthony_m_kennedy,scotus_justice,1412.516,1415.858,Was Medtronic free to alter this label without the FDA's consent?
+2007.06-179,0,17307,allison_m_zieve,,1415.858,1417.733,--Yes.
+2007.06-179,0,15113,anthony_m_kennedy,scotus_justice,1427.712,1429.18,What's the citation for that?
+2007.06-179,0,17307,allison_m_zieve,,1429.18,1432.601,--21 CFR 814.39(d).
+2007.06-179,0,15139,stephen_g_breyer,scotus_justice,1432.601,1443.472,"Let me tell you why I asked my question, because I don't want to leave... you to leave with an unfavorable impression in my mind on your issue without your having a chance to see."
+2007.06-179,0,17307,allison_m_zieve,,1488.469,1498.762,"Of course, it... I freely admit that at trial if the plaintiff couldn't articulate the design theory any better than I did here, the plaintiff is not going to lose on the design claim."
+2007.06-179,0,15086,john_g_roberts_jr,scotus_justice,1529.89,1530.734,"Thank you, counsel."
+2007.06-179,1,43165,theodore_b_olson,,1534.465,1547.008,"Mr. Chief Justice, and may it please the Court: I think that the key central focus of this case was touched upon by Justice Kennedy's question."
+2007.06-179,1,15084,ruth_bader_ginsburg,scotus_justice,1581.072,1588.491,"Why, Mr. Olson, is it more essential to this scheme than the new drugs?"
+2007.06-179,1,43165,theodore_b_olson,,1601.876,1606.593,"They're similar, but they're also quite different, Justice Ginsburg."
+2007.06-179,1,15084,ruth_bader_ginsburg,scotus_justice,1621.398,1637.112,"Well, there's an argument that what it was intended to do was to cut out State pre-market approval, where States like California came in when there was a Federal void and said we shouldn't let the manufacturers put out whatever they'd like."
+2007.06-179,1,43165,theodore_b_olson,,1648.717,1664.336,"--If there was such a State pre-market approval process, it would be something like the Federal process which would involve a very detailed application which would have everything about the design, the manufacture, and the warning labels in it."
+2007.06-179,1,15086,john_g_roberts_jr,scotus_justice,1709.224,1710.909,What if the FDA hasn't done it?
+2007.06-179,1,43165,theodore_b_olson,,1726.873,1728.856,--This is a continuous process.
+2007.06-179,1,15113,anthony_m_kennedy,scotus_justice,1740.741,1746.895,Is the manufacturer free to continue to sell the device after newly discovered risks--
+2007.06-179,1,43165,theodore_b_olson,,1746.895,1747.677,--Yes--
+2007.06-179,1,15113,anthony_m_kennedy,scotus_justice,1747.677,1752.55,--pending the FDA's acting on the same information?
+2007.06-179,1,43165,theodore_b_olson,,1752.55,1753.987,"--Yes, Justice Kennedy."
+2007.06-179,1,15113,anthony_m_kennedy,scotus_justice,1772.276,1776.228,It takes time for the FDA to act.
+2007.06-179,1,43165,theodore_b_olson,,1785.819,1791.176,--What I'm suggesting is that the FDA can act as promptly or as slowly--
+2007.06-179,1,15113,anthony_m_kennedy,scotus_justice,1791.176,1794.642,I was asking you about the manufacturer's duty pending the FDA's action.
+2007.06-179,1,43165,theodore_b_olson,,1794.642,1800.093,--It's dependent upon the manufacturer providing information to the one centralized agency--
+2007.06-179,1,15060,john_paul_stevens,scotus_justice,1800.093,1803.78,"Mr. Olson, suppose the manufacturer did not provide information."
+2007.06-179,1,43165,theodore_b_olson,,1806.091,1810.434,"--Yes, Justice Stevens, because in that case--"
+2007.06-179,1,15060,john_paul_stevens,scotus_justice,1810.434,1816.711,"At least as a theoretical possibility, there could be a newly discovered risk that the FDA never knew about."
+2007.06-179,1,43165,theodore_b_olson,,1819.086,1819.414,--Yes.
+2007.06-179,1,15042,david_h_souter,scotus_justice,1851.666,1857.602,"Mr. Olson, that still leaves the... sort of the hiatus that Justice Kennedy's question was addressed to."
+2007.06-179,1,43165,theodore_b_olson,,1888.839,1889.401,"--Yes, it does."
+2007.06-179,1,15042,david_h_souter,scotus_justice,1889.401,1889.948,Okay.
+2007.06-179,1,43165,theodore_b_olson,,1889.948,1892.681,"And the reason for that, Justice Souter, is that someone must make a judgment."
+2007.06-179,1,15068,samuel_a_alito_jr,scotus_justice,1923.496,1930.493,Do you know whether the PMA process in this case considered the design defects that the Petitioner seems to be relying on?
+2007.06-179,1,43165,theodore_b_olson,,1930.493,1933.79,"Well, all... no, I don't know the answer to that specifically, Justice Alito."
+2007.06-179,1,15068,samuel_a_alito_jr,scotus_justice,2035.889,2036.545,If you look at the file of a--
+2007.06-179,1,43165,theodore_b_olson,,2044.525,2047.117,"--No, I don't think you can."
+2007.06-179,1,15084,ruth_bader_ginsburg,scotus_justice,2094.177,2106.141,"Why isn't there... to... to take care of that kind of hypothetical where the FDA says this isn't it, to say that kind of suit can't be brought."
+2007.06-179,1,43165,theodore_b_olson,,2131.678,2143.329,"I think if there's a violation of the requirements... now, it's no... there's no question that there are requirements, because every aspect of this approval incorporates the design and all of those things."
+2007.06-179,1,15086,john_g_roberts_jr,scotus_justice,2163.478,2164.978,You... you agree that that was not preemptive.
+2007.06-179,1,43165,theodore_b_olson,,2164.978,2175.412,"--That was... we agree that was not preempted, and... and the court of appeals came to that same conclusion, but affirmed the district court that dismissed it on summary judgment because there was no evidence to support it."
+2007.06-179,1,15084,ruth_bader_ginsburg,scotus_justice,2175.412,2183.815,--You would say the same thing for... for design and labeling if the manufacturer did not do what the FDA approved?
+2007.06-179,1,43165,theodore_b_olson,,2183.815,2185.875,"That's correct, Justice Ginsburg."
+2007.06-179,1,15084,ruth_bader_ginsburg,scotus_justice,2281.15,2294.286,"Mr. Olson, what about the argument that once you've got this very valuable pre-market approval, even though you could make that device safer, you have no incentive to do that."
+2007.06-179,1,43165,theodore_b_olson,,2313.152,2315.074,"Well, I think the real world answers that question."
+2007.06-179,1,15113,anthony_m_kennedy,scotus_justice,2366.084,2380.485,"If the manufacturer finds just from its own laboratory experiments and not because of any data it's received from doctors and patients that there's a better way to do this, does it have the obligation to notify the FDA?"
+2007.06-179,1,43165,theodore_b_olson,,2380.485,2382.485,"--I don't think so, Justice Kennedy."
+2007.06-179,1,15086,john_g_roberts_jr,scotus_justice,2431.651,2448.504,"Mr. Olson, I'm looking at the Government's brief on page 4 which says that in the annual reports, the... the manufacturer has to disclose unpublished reports of data from clinical investigations or nonclinical laboratory studies involving the device."
+2007.06-179,1,43165,theodore_b_olson,,2454.33,2454.658,--Yes.
+2007.06-179,1,15060,john_paul_stevens,scotus_justice,2498.561,2499.796,Could you answer one thing for me on that?
+2007.06-179,1,43165,theodore_b_olson,,2505.762,2510.666,--That... what the Chief Justice was referring to was an annual requirement--
+2007.06-179,1,15060,john_paul_stevens,scotus_justice,2510.666,2510.9,--Right.
+2007.06-179,1,43165,theodore_b_olson,,2510.9,2528.284,"--but there also are requirements... and I haven't... can't give you the exact citation, there's a lot of subparagraphs in these sections... with respect to information that comes into the possession of the manufacturer that's pertinent to adverse consequences or effects of the device that must be given promptly to the FDA."
+2007.06-179,1,15049,antonin_scalia,scotus_justice,2528.284,2540.889,"Mr. Olson, the other side says well, you know, these are all horribles but, in fact, we have had tort suits and manufacturers haven't taken their products off the market."
+2007.06-179,1,43165,theodore_b_olson,,2544.81,2547.824,"Well, I don't agree with that, Justice Scalia."
+2007.06-179,1,15060,john_paul_stevens,scotus_justice,2561.661,2565.175,But of course the FDA took this contrary position some years ago.
+2007.06-179,1,43165,theodore_b_olson,,2565.175,2612.437,"--Yes, it did, and it... and it learned from experience... the unique experience that you described the FDA having, in your opinion in the Lohr case, has been brought to bear in this case; and there's a reasoned explanation for the FDA's... the Government's position today, as to why it took one position then... there were some proposed regulations that are no longer on the table... but there's a reasoned explanation by the agency that you said and quite correctly in my judgment had a unique experience, and unique capability of determining the effect of take... State court suits on the process that it's involved in, and that's reflected in the Government's briefs that are filed in this case just earlier."
+2007.06-179,1,15086,john_g_roberts_jr,scotus_justice,2692.905,2693.873,"Thank you, Mr. Olson."
+2007.06-179,2,22617,edwin_s_kneedler,,2711.397,2727.75,"Mr. Chief Justice, and may it please the Court: I think it might be useful to begin by focusing on the consequences of Petitioner's argument that the PMA approval of an application does not result in requirements that are preemptive for purposes of the preemptive provision."
+2007.06-179,2,15084,ruth_bader_ginsburg,scotus_justice,2767.234,2780.042,"I thought that you conceded that there would be conflict preemption, that the States could not... either through a State agency or through a jury... come up with a requirement that would conflict with an FDA requirement."
+2007.06-179,2,22617,edwin_s_kneedler,,2780.042,2796.566,"--But we think that the express preemption provision embodies that very important conflict, or maybe in this context it is best to conceptualize it as field preemption, of the things that are included within the application that is submitted to the FDA and the labeling."
+2007.06-179,2,15049,antonin_scalia,scotus_justice,2796.566,2799.595,Additional requirements are not necessarily conflicting requirements.
+2007.06-179,2,22617,edwin_s_kneedler,,2801.002,2803.97,"Yes, that is... that is definitely true."
+2007.06-179,2,15049,antonin_scalia,scotus_justice,2803.97,2806.828,--It is clear that Congress didn't want additional requirements.
+2007.06-179,2,22617,edwin_s_kneedler,,2806.828,2810.497,"That's... that's entirely correct, and if I could just elaborate on that--"
+2007.06-179,2,15139,stephen_g_breyer,scotus_justice,2810.497,2811.763,How are they not conflicting?
+2007.06-179,2,22617,edwin_s_kneedler,,2814.684,2844.203,"--Well, what I was going to say... to elaborate on the point that I made, Petitioner concedes that if there is an FDA PMA requirement, the State may not impose its own PMA requirement; and that has to be correct, because in the State PMA approval, the State could withhold its approval unless the manufacturer changed the device or changed the labeling in some way to get it cleared through--"
+2007.06-179,2,15084,ruth_bader_ginsburg,scotus_justice,2844.203,2850.701,"Everybody agrees that far, that the States were not to be in the business of issuing PMA's."
+2007.06-179,2,22617,edwin_s_kneedler,,2854.606,2856.777,--But it's important to understand why.
+2007.06-179,2,15084,ruth_bader_ginsburg,scotus_justice,2875.517,2877.299,Isn't it... isn't it--
+2007.06-179,2,22617,edwin_s_kneedler,,2877.299,2877.502,--the product should be differently.
+2007.06-179,2,15084,ruth_bader_ginsburg,scotus_justice,2877.502,2894.2,"--If you compared drugs, which... I think you will... you will concede... go through a very arduous process, new drugs, why... maybe you think that the same preemption applies there, although there's no preemption clause."
+2007.06-179,2,22617,edwin_s_kneedler,,2894.2,2898.136,There is... there is no express preemption clause there.
+2007.06-179,2,15049,antonin_scalia,scotus_justice,2935.058,2936.588,It was also a different Congress.
+2007.06-179,2,22617,edwin_s_kneedler,,2936.588,2937.838,It was a different Congress.
+2007.06-179,2,15049,antonin_scalia,scotus_justice,2937.838,2940.18,How much... how many years later?
+2007.06-179,2,22617,edwin_s_kneedler,,2940.18,2942.227,This was 1976 when we--
+2007.06-179,2,15049,antonin_scalia,scotus_justice,2942.227,2944.21,Why did we expect them to come out with the same--
+2007.06-179,2,22617,edwin_s_kneedler,,2944.21,2952.582,"--Right, and they were only addressing devices in that... these were not general FDA amendments; they were addressing... they were addressing the--"
+2007.06-179,2,15084,ruth_bader_ginsburg,scotus_justice,2952.582,2962.203,"Did anyone... when this preemption clause was put in the new Medical Device, did the government... when was the government change?"
+2007.06-179,2,22617,edwin_s_kneedler,,2969.106,2979.525,"--Well, the government filed a brief in... in late 1997 taking a position that PMA approval did not... did not have preemptive effect."
+2007.06-179,2,15113,anthony_m_kennedy,scotus_justice,3024.365,3036.438,"Suppose a label is approved in a very specific form under PMA, and then a year later, it turns out, unforeseen by anyone, that doctors are just... many good doctors are just reading it the wrong way and it's dangerous."
+2007.06-179,2,22617,edwin_s_kneedler,,3045.965,3049.198,--Yes.
+2007.06-179,2,15113,anthony_m_kennedy,scotus_justice,3068.253,3068.894,Just take--
+2007.06-179,2,22617,edwin_s_kneedler,,3068.894,3069.69,--with what--
+2007.06-179,2,15113,anthony_m_kennedy,scotus_justice,3069.69,3070.752,--Just take my hypothetical.
+2007.06-179,2,22617,edwin_s_kneedler,,3070.752,3076.781,--And it... what I was going to say is it's possible that the labeling would be regarded as misleading for some reason.
+2007.06-179,2,15113,anthony_m_kennedy,scotus_justice,3086.591,3097.023,And you could... and the manufacturer continued to sell the device knowing that the label is being misconstrued by very good doctors pending FDA action?
+2007.06-179,2,22617,edwin_s_kneedler,,3097.023,3098.944,"Ordinarily, yes."
+2007.06-179,2,15113,anthony_m_kennedy,scotus_justice,3104.628,3106.222,"Yes, it's very serious."
+2007.06-179,2,22617,edwin_s_kneedler,,3106.222,3111.345,"--In that event, FDA has variety of tools that it can take and so does the manufacturer."
+2007.06-179,2,15113,anthony_m_kennedy,scotus_justice,3130.385,3136.57,Does the failure to give that notice subject the manufacturer to liability if the manufacturer continues to sell the device?
+2007.06-179,2,22617,edwin_s_kneedler,,3136.57,3139.257,"It would not subject it to State tort liability, no."
+2007.06-179,2,15042,david_h_souter,scotus_justice,3184.067,3194.423,"Mr. Kneedler, let me ask you to... a textual question which perhaps would be better directed to counsel for the Petitioner, but let me get your take on it."
+2007.06-179,2,22617,edwin_s_kneedler,,3221.474,3224.332,I... if it was just... I think that's a good point.
+2007.06-179,2,15042,david_h_souter,scotus_justice,3231.845,3232.72,"""Addition to"" would be--"
+2007.06-179,2,22617,edwin_s_kneedler,,3232.72,3233.345,--Right.
+2007.06-179,2,15042,david_h_souter,scotus_justice,3233.72,3234.031,--Okay.
+2007.06-179,2,22617,edwin_s_kneedler,,3234.031,3261.863,"And also I think the FDA regulations promulgated when this was put out, soon after the '76 amendments were passed, I think reinforced the conclusion that... and, in fact, there was a regulation that specifically talks about the application of general adulteration standards in a way that might require a specific label change to be made by a manufacturer, and we think that's basically precisely this lawsuit."
+2007.06-179,2,15086,john_g_roberts_jr,scotus_justice,3312.875,3314.858,"Thank you, Mr. Kneedler."
+2007.06-179,2,22617,edwin_s_kneedler,,3314.858,3315.28,Thank you.
+2007.06-179,2,15086,john_g_roberts_jr,scotus_justice,3315.28,3319.732,"Ms. Zieve, you have 4 minutes remaining."
+2007.06-179,3,17307,allison_m_zieve,,3319.732,3327.493,"First of all, it's not our position, Justice Souter, that only State PMA's are preempted."
+2007.06-179,3,15042,david_h_souter,scotus_justice,3349.359,3356.075,And how do you draw the line between those instances and the ones that you say are not preempted?
+2007.06-179,3,17307,allison_m_zieve,,3356.075,3360.961,"--Those were specific requirements for devices, and they had counterparts--"
+2007.06-179,3,15042,david_h_souter,scotus_justice,3360.961,3363.164,"They... they were requirements, in other words, of positive law?"
+2007.06-179,3,17307,allison_m_zieve,,3365.321,3369.177,"--Addressed specifically to devices, and they had--"
+2007.06-179,3,15042,david_h_souter,scotus_justice,3369.177,3369.645,So the--
+2007.06-179,3,17307,allison_m_zieve,,3369.645,3370.457,--direct Federal counterparts.
+2007.06-179,3,15042,david_h_souter,scotus_justice,3370.457,3370.815,--Okay.
+2007.06-179,3,17307,allison_m_zieve,,3376.504,3381.783,I think that's what Congress was intending.
+2007.06-179,3,15042,david_h_souter,scotus_justice,3381.783,3383.533,"No, I just want to make sure--"
+2007.06-179,3,17307,allison_m_zieve,,3383.533,3383.877,I think under--
+2007.06-179,3,15042,david_h_souter,scotus_justice,3383.877,3384.158,--what your position is.
+2007.06-179,3,17307,allison_m_zieve,,3386.392,3387.142,--Yes.
+2007.06-179,3,15042,david_h_souter,scotus_justice,3387.142,3387.797,Okay.
+2007.06-179,3,17307,allison_m_zieve,,3387.797,3389.343,I don't--
+2007.06-179,3,15086,john_g_roberts_jr,scotus_justice,3389.343,3392.951,Didn't the Court... didn't the majority of the Court reject that line in Lohr?
+2007.06-179,3,17307,allison_m_zieve,,3392.951,3398.653,--The holding of Lohr didn't reject it.
+2007.06-179,3,15113,anthony_m_kennedy,scotus_justice,3473.903,3480.65,What do I read in order to verify your statement that the... that manufacturers can cure the label without FDA approval?
+2007.06-179,3,17307,allison_m_zieve,,3481.619,3482.539,Without prior approval?
+2007.06-179,3,15113,anthony_m_kennedy,scotus_justice,3482.539,3483.148,Yes.
+2007.06-179,3,17307,allison_m_zieve,,3483.148,3485.663,814.39(d).
+2007.06-179,3,15086,john_g_roberts_jr,scotus_justice,3485.663,3486.038,Thank you.
+2007.06-179,3,17307,allison_m_zieve,,3486.038,3497.034,"After FDA approved the PMA, any of the listed changes can be placed into effect prior to the receipt of a written FDA order approving the PMA supplement."
+2007.06-179,3,15086,john_g_roberts_jr,scotus_justice,3497.034,3500.516,If I could... I'm sorry... I've been thinking about your example of ambiguity.
+2007.06-179,3,17307,allison_m_zieve,,3507.967,3508.545,Right.
+2007.06-179,3,15086,john_g_roberts_jr,scotus_justice,3508.545,3512.793,"Well, doesn't that obvious mean if the blockage is clear, you don't keep inflating it to the bursting pressure."
+2007.06-179,3,17307,allison_m_zieve,,3519.525,3521.852,Yes.
+2007.06-179,3,15086,john_g_roberts_jr,scotus_justice,3536.564,3539.282,Even though the label said eight is the bursting pressure?
+2007.06-179,3,17307,allison_m_zieve,,3539.282,3541.531,"The rate at burst pressure, yeah."
+2007.06-179,3,15086,john_g_roberts_jr,scotus_justice,3541.531,3542.484,Okay.
+2007.06-179,3,17307,allison_m_zieve,,3542.484,3548.669,I also want to mention... we don't come to this case on a blank slate.
+2007.06-179,3,15086,john_g_roberts_jr,scotus_justice,3606.521,3607.505,"Thank you, Ms. Zieve."

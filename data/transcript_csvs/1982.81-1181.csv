@@ -1,0 +1,77 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1982.81-1181,0,15073,warren_e_burger,scotus_justice,0.0,7.448,We'll hear arguments next in Lockheed Aircraft against United States.
+1982.81-1181,0,44760,warner_w_gardner,,92.598,96.333,"Mr. Chief Justice, and may it please the Court:"
+1982.81-1181,0,15141,william_h_rehnquist,scotus_justice,466.479,483.051,"Well, Mr. Gardner, isn't that a fairly rational drafting of a sentence that starts with the noun ""liability"" and then is talking about the liability... what liability, the liability to, and then starting in the sixth line, to the employee, his legal representative--"
+1982.81-1181,0,44760,warner_w_gardner,,483.051,485.016,"Yes, sir, I think it's an entirely rational statute."
+1982.81-1181,0,15141,william_h_rehnquist,scotus_justice,607.11,611.887,"--Well, as you read the statute I take it you don't find any of that surplussage."
+1982.81-1181,0,44760,warner_w_gardner,,611.887,612.792,"No, sir."
+1982.81-1181,0,15141,william_h_rehnquist,scotus_justice,612.792,618.809,And would you say that the term
+1982.81-1181,0,44760,warner_w_gardner,,631.132,631.943,"No, sir."
+1982.81-1181,0,15141,william_h_rehnquist,scotus_justice,631.943,632.832,Why not?
+1982.81-1181,0,44760,warner_w_gardner,,632.832,645.891,I would say that under the very familiar principles of ejusdem generis that coverall phrase is intended to refer to others of the same class.
+1982.81-1181,0,15141,william_h_rehnquist,scotus_justice,1193.557,1201.961,"Mr. Gardner, what in your case is the analog to the Public Vessels Act in Weyerhaeuser... the Federal Tort Claims Act?"
+1982.81-1181,0,44760,warner_w_gardner,,1201.961,1203.197,"Yes, sir."
+1982.81-1181,0,15092,sandra_day_oconnor,scotus_justice,1203.197,1210.816,"Mr. Gardner, are you going to touch on the independent duty and derivative?"
+1982.81-1181,0,44760,warner_w_gardner,,1210.816,1217.251,"I plan, if Your Honor will give me a minute or two to, in the vernacular, go to town on that one."
+1982.81-1181,0,15092,sandra_day_oconnor,scotus_justice,1560.844,1582.521,"Mr. Gardner, may I ask, even if we were to agree with you on your interpretation of the Section 8116(c), what would we do about determining whether there is a substantive right to indemnity under the D.C. law?"
+1982.81-1181,0,44760,warner_w_gardner,,1584.413,1589.424,"That has already been determined, Your Honor."
+1982.81-1181,0,15092,sandra_day_oconnor,scotus_justice,1607.685,1610.98,"But, of course, the Court of Appeals didn't agree."
+1982.81-1181,0,44760,warner_w_gardner,,1610.98,1613.476,The Court of Appeals did not face that question.
+1982.81-1181,0,15045,harry_a_blackmun,scotus_justice,1651.398,1660.52,"Mr. Gardner, if you lose this case, do you still have a claim under the Suits and Admiralty Act?"
+1982.81-1181,0,44760,warner_w_gardner,,1660.52,1662.364,"It's not worth very much, Your Honor."
+1982.81-1181,0,15045,harry_a_blackmun,scotus_justice,1666.895,1668.065,So you... you would not press it.
+1982.81-1181,0,44760,warner_w_gardner,,1668.065,1687.181,"--We think it unlikely that we have an admiralty claim, but no one could be absolutely sure whether this vessel... this aircraft starting out from Saigon to the Philippines was discharging the traditional duties of a surface vessel."
+1982.81-1181,0,15073,warren_e_burger,scotus_justice,1694.586,1696.321,Very well.
+1982.81-1181,1,18561,carolyn_f_corwin,,1698.177,1706.269,"Mr. Chief Justice, and may it please the Court:"
+1982.81-1181,1,15045,harry_a_blackmun,scotus_justice,1794.265,1800.543,"Ms. Corwin, there were nine employees injured and who died in the crash, weren't there?"
+1982.81-1181,1,18561,carolyn_f_corwin,,1800.543,1801.604,That is correct.
+1982.81-1181,1,15045,harry_a_blackmun,scotus_justice,1804.603,1807.29,Has the Government conceded liability as to those?
+1982.81-1181,1,18561,carolyn_f_corwin,,1807.29,1819.238,"The Government has entered into agreements with Petitioner under which, as Petitioner's counsel indicated, there will be payment of a portion of the settlement liability."
+1982.81-1181,1,15141,william_h_rehnquist,scotus_justice,1985.495,2003.456,"Ms. Corwin, is there any weight of authority among state decisions interpreting state workmen's compensation laws as to whether the governmental employer would be liable in a situation like this or whether a private employer would be liable in a situation like this?"
+1982.81-1181,1,18561,carolyn_f_corwin,,2003.456,2011.687,"There is indeed authority to that effect, and I believe we've cited in our brief some of the summary discussion of that issue by Professor Larson."
+1982.81-1181,1,15141,william_h_rehnquist,scotus_justice,2011.687,2012.14,Yeah.
+1982.81-1181,1,18561,carolyn_f_corwin,,2021.854,2022.247,No.
+1982.81-1181,1,15141,william_h_rehnquist,scotus_justice,2109.351,2114.834,"These were the 1949 hearings, not the original enactment of the LHWCA."
+1982.81-1181,1,18561,carolyn_f_corwin,,2114.834,2115.864,That's correct.
+1982.81-1181,1,15092,sandra_day_oconnor,scotus_justice,2290.137,2294.18,"How do you overcome the Weyerhaeuser case, however?"
+1982.81-1181,1,18561,carolyn_f_corwin,,2294.18,2303.254,--I think that this Court in the Weyerhaeuser case was looking at a rather different situation than what we have in this case.
+1982.81-1181,1,15092,sandra_day_oconnor,scotus_justice,2403.48,2408.401,"But the language used certainly is broad enough to have some implications here, wouldn't you agree?"
+1982.81-1181,1,18561,carolyn_f_corwin,,2408.401,2430.218,"--I think that the Court did make some statements about the language in Weyerhaeuser that do appear to be broad, but I think the language that you're referring to is not necessary to the Court's decision in that case, and I think in fact what the Court concluded was that the language simply was not enough to allow it to answer that question that was before it in Weyerhaeuser."
+1982.81-1181,1,15071,byron_r_white,scotus_justice,2475.188,2487.994,"But wasn't the claim in Weyerhaeuser, didn't it arise out of the... out of... out of the injury or death of a crewman?"
+1982.81-1181,1,18561,carolyn_f_corwin,,2487.994,2497.941,"Indeed, the element of damages at issue in Weyerhaueser was in fact the amount that had been paid to an employee who had previously received compensation."
+1982.81-1181,1,15071,byron_r_white,scotus_justice,2497.941,2502.285,And that's what... that's what the Court said could be claimed over.
+1982.81-1181,1,18561,carolyn_f_corwin,,2502.285,2508.158,"Well, the Court was not necessarily talking about a claim over in that case."
+1982.81-1181,1,15071,byron_r_white,scotus_justice,2540.878,2544.922,But how did... how did the case get started in Weyerhaeuser?
+1982.81-1181,1,18561,carolyn_f_corwin,,2544.922,2549.095,"Well, the case started essentially when the two ships ran into each other."
+1982.81-1181,1,15071,byron_r_white,scotus_justice,2549.095,2553.013,"Well, I know, but the lawsuit, what lawsuits, what lawsuit was brought?"
+1982.81-1181,1,18561,carolyn_f_corwin,,2553.013,2569.572,"I think there was a... my knowledge of admiralty is limited, but I believe that there was a... probably a limited... limitation on liability proceeding, and there was... the question at issue before the court was--"
+1982.81-1181,1,15071,byron_r_white,scotus_justice,2569.572,2576.599,"Well, did the injured person get a judgment against the third party other than the employer?"
+1982.81-1181,1,18561,carolyn_f_corwin,,2576.599,2578.785,--I believe there was a settlement.
+1982.81-1181,1,15071,byron_r_white,scotus_justice,2581.753,2582.361,I guess the third party.
+1982.81-1181,1,18561,carolyn_f_corwin,,2582.361,2583.251,I beg your pardon?
+1982.81-1181,1,15071,byron_r_white,scotus_justice,2583.251,2585.063,"I guess the third party, third party--"
+1982.81-1181,1,18561,carolyn_f_corwin,,2585.063,2585.594,That's correct.
+1982.81-1181,1,15071,byron_r_white,scotus_justice,2585.594,2587.376,--In the sense somebody other than the employer.
+1982.81-1181,1,18561,carolyn_f_corwin,,2587.376,2588.296,That's correct.
+1982.81-1181,1,15071,byron_r_white,scotus_justice,2598.903,2602.994,And did the third party bring in the Government in that suit or what?
+1982.81-1181,1,18561,carolyn_f_corwin,,2602.994,2617.816,"I believe that the third party then in the separate proceeding involving how you ought to apportion the damages, including the property damages from the collision, then said we ought to put in this other element of damages as well."
+1982.81-1181,1,15071,byron_r_white,scotus_justice,2617.816,2622.97,"Well, so there was a claim over; please pay part of the damages that we've had to pay."
+1982.81-1181,1,18561,carolyn_f_corwin,,2622.97,2624.421,"Well, I think that--"
+1982.81-1181,1,15071,byron_r_white,scotus_justice,2624.421,2625.922,That's what it was.
+1982.81-1181,1,18561,carolyn_f_corwin,,2625.922,2643.619,"--One could argue that it is the same sort of thing, but I think this Court saw it in a somewhat different context, in the context of a proceeding that was really part of the rules and rights and liabilities of the individuals who were out there sailing around the ocean."
+1982.81-1181,1,15060,john_paul_stevens,scotus_justice,2643.619,2649.382,"Yes, but the... those rules survived the enactment of this statute."
+1982.81-1181,1,18561,carolyn_f_corwin,,2663.405,2672.982,I am not aware of any effort to try to overturn that sort of court-created admiralty rule.
+1982.81-1181,1,15060,john_paul_stevens,scotus_justice,2675.965,2680.836,"Well, in a sense it was an admiralty rule, but it was also construction of this very provision we have before us."
+1982.81-1181,1,18561,carolyn_f_corwin,,2684.93,2696.501,"It quotes the same language, but as I suggested, I think the conclusion was the language simply wasn't enough to answer the question before the Court concerning what you do with this divided damages rule."
+1982.81-1181,1,15060,john_paul_stevens,scotus_justice,2696.501,2704.295,"--What do you do with your opponent's argument that if the statute meant what you say it means, why don't you just stop after the word ""instrumentality""?"
+1982.81-1181,1,18561,carolyn_f_corwin,,2706.155,2710.62,"Well, I think there are several answers to that question."
+1982.81-1181,1,15060,john_paul_stevens,scotus_justice,2730.688,2731.626,"Well, it doesn't take it away."
+1982.81-1181,1,18561,carolyn_f_corwin,,2737.23,2748.524,"Well, Petitioner's counsel suggests that the first part in fact would grant exclusive liability, but the fact that it's been expanded upon in the latter part of the section somehow takes it away."
+1982.81-1181,1,15060,john_paul_stevens,scotus_justice,2778.545,2783.65,But to the extent that it's the same as the Longshoremen's Act doesn't the Ryan case cut against you?
+1982.81-1181,1,18561,carolyn_f_corwin,,2783.65,2784.98,"No, I think not."
+1982.81-1181,1,15060,john_paul_stevens,scotus_justice,2890.013,2893.293,But even your emphasis on that language just... it might have been written
+1982.81-1181,1,18561,carolyn_f_corwin,,2905.775,2907.834,"Well, I agree there are many different ways."
+1982.81-1181,2,44760,warner_w_gardner,,3389.061,3399.382,"If I can indulge the Court's patience for about one and a half to two minutes, I have a comment or two I would like to make."
+1982.81-1181,2,15073,warren_e_burger,scotus_justice,3399.382,3400.837,You have four minutes remaining.
+1982.81-1181,2,44760,warner_w_gardner,,3400.837,3405.365,"Maybe I can hand back a half a minute of a minute, sir."
+1982.81-1181,2,15073,warren_e_burger,scotus_justice,3653.669,3654.434,"Thank you, counsel."

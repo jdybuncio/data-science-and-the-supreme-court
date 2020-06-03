@@ -1,0 +1,229 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2010.09-804,0,15086,john_g_roberts_jr,scotus_justice,0.0,6.57,"We will hear argument first this morning in Case 09-804, Cigna Corporation v. Amara."
+2010.09-804,0,43165,theodore_b_olson,,7.954,10.622,"Mr. Chief Justice, and may it please the Court:"
+2010.09-804,0,15084,ruth_bader_ginsburg,scotus_justice,180.948,221.275,"Mr. Olson, when you say the employees had no choice, but the district court found, didn't it, that the reason for this plan summary being misleading was that the employer, Cigna, feared that there might be a backlash on the part of the employees if they found out, if they were told the truth about this plan; that is, that it was less favorable, that they would not have the same benefits that they had under the prior plan?"
+2010.09-804,0,43165,theodore_b_olson,,221.275,223.625,"--That is correct, Justice Ginsburg."
+2010.09-804,0,15094,elena_kagan,scotus_justice,267.402,281.376,"Well, Mr. Olson, we have several times referred to the plan as having a range of documents associated with it, not as having just a single written instrument, but we referred to documents and instruments governing the plan."
+2010.09-804,0,43165,theodore_b_olson,,303.408,313.531,"--It's quite clear from the structure of the statute that is correct, as you suggest, that there may be multiple instruments or documents that are the -- create the plan itself."
+2010.09-804,0,15094,elena_kagan,scotus_justice,413.462,415.931,"Well, I was struck by something else, Mr. Olson."
+2010.09-804,0,43165,theodore_b_olson,,451.921,457.758,"Well, the written instruments, as these things turn out, are long, complex documents."
+2010.09-804,0,15049,antonin_scalia,scotus_justice,478.989,480.441,Am I missing something?
+2010.09-804,0,43165,theodore_b_olson,,487.761,489.813,--Well -- if the -- if the--
+2010.09-804,0,15049,antonin_scalia,scotus_justice,489.813,493.598,"So the one cannot be more detailed than the other, can it?"
+2010.09-804,0,43165,theodore_b_olson,,493.598,496.866,--The plan can be more detailed than the SPD.
+2010.09-804,0,15049,antonin_scalia,scotus_justice,496.866,497.15,Right.
+2010.09-804,0,15094,elena_kagan,scotus_justice,497.15,498.735,But can't the SPD--
+2010.09-804,0,15049,antonin_scalia,scotus_justice,498.735,501.937,Whatever is in the SPD must be in the plan; isn't that right?
+2010.09-804,0,43165,theodore_b_olson,,501.937,505.239,"Well, if the plan is -- if the SPD complies with ERISA, yes."
+2010.09-804,0,15049,antonin_scalia,scotus_justice,506.322,506.589,Yes.
+2010.09-804,0,43165,theodore_b_olson,,507.839,508.772,"--Yes, exactly."
+2010.09-804,0,15094,elena_kagan,scotus_justice,520.913,522.699,"--But, Mr. Olson, what about the opposite?"
+2010.09-804,0,43165,theodore_b_olson,,532.12,547.464,"--Well, I submit that that is not the way the statute is written, and subsections (2) and (4) of the provision that I was referring to make that clear if the word ""summary"" itself did not make that clear."
+2010.09-804,0,15084,ruth_bader_ginsburg,scotus_justice,619.678,637.39,"I thought that what the district court said was that they would treat the plan as containing what the summary said, not that -- that it was part of the plan itself, not an amendment, amendment."
+2010.09-804,0,43165,theodore_b_olson,,640.009,656.868,"I think in the -- on the page of the -- this is the summary to the cert petition, page 218, which is the district court's -- the conclusions of the district court's decision."
+2010.09-804,0,15049,antonin_scalia,scotus_justice,688.173,690.875,"It can't be part of the plan without modifying the plan, can it--"
+2010.09-804,0,43165,theodore_b_olson,,690.875,692.641,--That's correct.
+2010.09-804,0,15049,antonin_scalia,scotus_justice,692.641,693.993,--because it contradicts other provisions.
+2010.09-804,0,43165,theodore_b_olson,,693.993,694.26,That's correct.
+2010.09-804,0,15094,elena_kagan,scotus_justice,717.525,729.333,"But the SPD can't negate the force of ERISA, and if ERISA says that the summary has to be consistent with the plan documents nothing in the SPD can negate that requirement."
+2010.09-804,0,43165,theodore_b_olson,,729.333,730.75,--That's correct.
+2010.09-804,0,15084,ruth_bader_ginsburg,scotus_justice,778.914,786.919,But they can't do that because the statute requires a summary to be understandable and not prolix.
+2010.09-804,0,43165,theodore_b_olson,,786.919,802.779,"That's Catch 22, because if there is a discrepancy because they have to be short, summary, and intelligible, then we are have -- we're faced with the proposition that someone's going to say, well, I read the SPD and it didn't say what was in the plan."
+2010.09-804,0,15094,elena_kagan,scotus_justice,849.474,857.23,"But the very question here is if there is an SPD that is inconsistent in some way with the written instrument, what happens?"
+2010.09-804,0,43165,theodore_b_olson,,868.186,874.007,I would submit that it can't modify the plan unless the plan permits that.
+2010.09-804,0,15094,elena_kagan,scotus_justice,877.109,879.661,I do think you are over-reading Curtiss-Wright.
+2010.09-804,0,43165,theodore_b_olson,,900.724,905.294,"It seems to me -- I think we might disagree about that, respectfully."
+2010.09-804,0,15139,stephen_g_breyer,scotus_justice,930.243,940.182,"So far we are just discussing, I take it, whether under (1) the other side is entitled to their benefits even if they weren't hurt, on a contract theory."
+2010.09-804,0,43165,theodore_b_olson,,940.182,940.649,That--
+2010.09-804,0,15139,stephen_g_breyer,scotus_justice,940.649,941.215,All right.
+2010.09-804,0,43165,theodore_b_olson,,943.217,943.534,--Yes.
+2010.09-804,0,15139,stephen_g_breyer,scotus_justice,943.534,950.721,"And that is: I will assume you are right, it should have come under (3), but I don't know if that is harmful, whether it was (3) or (1)."
+2010.09-804,0,43165,theodore_b_olson,,998.416,1001.535,"Well, in the first place, it is important which section."
+2010.09-804,0,15139,stephen_g_breyer,scotus_justice,1001.535,1005.439,"I agree, but I don't understand -- I'm with you on this one so far."
+2010.09-804,0,43165,theodore_b_olson,,1005.439,1007.289,So because it's a different defendant.
+2010.09-804,0,15139,stephen_g_breyer,scotus_justice,1055.288,1057.622,You are sounding to me as if you are saying there wasn't likely harm.
+2010.09-804,0,43165,theodore_b_olson,,1076.785,1077.985,--Absolutely we are not.
+2010.09-804,0,15139,stephen_g_breyer,scotus_justice,1077.985,1078.601,All right.
+2010.09-804,0,43165,theodore_b_olson,,1081.037,1085.241,Six circuit courts of appeals have held that detrimental reliance is required.
+2010.09-804,0,15139,stephen_g_breyer,scotus_justice,1098.399,1100.334,"Does ""likely harm"" capture that idea?"
+2010.09-804,0,43165,theodore_b_olson,,1100.334,1105.936,"""Likely harm"" is not a demonstration of prejudicial reliance."
+2010.09-804,0,15139,stephen_g_breyer,scotus_justice,1105.936,1106.321,Why not?
+2010.09-804,0,43165,theodore_b_olson,,1111.29,1119.479,"Well, in the first place, it comes out of the blue, ""likely harm"", as I suggested, since this was a legal lawful change."
+2010.09-804,0,15139,stephen_g_breyer,scotus_justice,1126.532,1134.305,"You object to this decision, saying the following: Of course, the lower court said likely harm is necessary."
+2010.09-804,0,43165,theodore_b_olson,,1152.867,1155.985,--That would not be justified at all.
+2010.09-804,0,15084,ruth_bader_ginsburg,scotus_justice,1195.546,1216.459,"But wasn't the -- wasn't the meaning of ""likely harm"" simply that they were promised one thing in the plan documents, and so what likely harm is, is we have to do away with what they call, what is it, the wear-away effect?"
+2010.09-804,0,43165,theodore_b_olson,,1231.219,1241.341,"--And that would be an action to seek benefits under the plan, which would be an (a)(1)(B) action against the plan itself."
+2010.09-804,0,15084,ruth_bader_ginsburg,scotus_justice,1241.341,1241.591,Yes.
+2010.09-804,0,43165,theodore_b_olson,,1241.591,1242.942,Against the plan.
+2010.09-804,0,15086,john_g_roberts_jr,scotus_justice,1269.391,1270.26,Then you can't--
+2010.09-804,0,15113,anthony_m_kennedy,scotus_justice,1270.26,1272.193,"Excuse me, Chief Justice."
+2010.09-804,0,15086,john_g_roberts_jr,scotus_justice,1272.193,1280.863,"--Then you can't require, it seems to me, each individual to make a calculation about whether they have actually been harmed, whether there is detrimental reliance."
+2010.09-804,0,43165,theodore_b_olson,,1297.724,1302.212,"Well, Chief Justice -- Mr. Chief Justice, that is the statute."
+2010.09-804,0,15084,ruth_bader_ginsburg,scotus_justice,1324.976,1325.494,But it couldn't--
+2010.09-804,0,43165,theodore_b_olson,,1325.494,1326.077,Under the rules--
+2010.09-804,0,15084,ruth_bader_ginsburg,scotus_justice,1326.077,1337.468,"--But it couldn't be brought as a class action, and isn't that a large piece of this picture, that proceeding as they did they can proceed as a class?"
+2010.09-804,0,43165,theodore_b_olson,,1348.257,1357.263,--The Rules Enabling Act provides that a class mechanism cannot change the substantive provisions of law.
+2010.09-804,0,15084,ruth_bader_ginsburg,scotus_justice,1364.869,1378.027,"No, the question is, under the -- under the section that the district court proceeded under, not the one that you say is proper, a class action would be appropriate."
+2010.09-804,0,43165,theodore_b_olson,,1378.027,1383.581,A class action might be appropriate but it would not change the detrimental reliance requirement.
+2010.09-804,0,15113,anthony_m_kennedy,scotus_justice,1384.297,1389.25,"Well, turning to (a)(3), I have two questions."
+2010.09-804,0,43165,theodore_b_olson,,1407.029,1416.902,"--Well, the Second Circuit suggested, and the government and Respondents, particularly the Respondents, say if there's a material difference likely harm is presumed."
+2010.09-804,0,15049,antonin_scalia,scotus_justice,1418.554,1420.039,Likely harm to whom?
+2010.09-804,0,43165,theodore_b_olson,,1421.056,1421.889,--That is the question.
+2010.09-804,0,15049,antonin_scalia,scotus_justice,1421.889,1424.491,"--that Justice Kennedy is asking, and I have the same question."
+2010.09-804,0,15113,anthony_m_kennedy,scotus_justice,1434.965,1435.798,Or -- or a significant number?
+2010.09-804,0,15049,antonin_scalia,scotus_justice,1435.798,1436.665,Or a majority?
+2010.09-804,0,43165,theodore_b_olson,,1439.083,1442.469,I -- I totally agree with the import of those questions.
+2010.09-804,0,15113,anthony_m_kennedy,scotus_justice,1444.071,1444.954,My question had no import.
+2010.09-804,0,43165,theodore_b_olson,,1447.473,1460.614,"--Well, the answer -- the answer is what the district court ordered and the government seeks and the Respondents seek, is they are all harmed by this, that there is any material disparity, then everybody--"
+2010.09-804,0,15139,stephen_g_breyer,scotus_justice,1460.614,1461.681,Maybe it wouldn't be too hard.
+2010.09-804,0,43165,theodore_b_olson,,1488.514,1490.364,--It defies reality--
+2010.09-804,0,15139,stephen_g_breyer,scotus_justice,1490.364,1491.08,Why?
+2010.09-804,0,43165,theodore_b_olson,,1491.08,1504.774,"--Justice Breyer, to suggest that the 27,000 people -- each one occupy a different position in terms of the length of their employment, when they might be retiring, what their benefits might be, whether they might take a lump sum or an annuity."
+2010.09-804,0,15139,stephen_g_breyer,scotus_justice,1507.642,1508.409,"Well, it depends on the facts."
+2010.09-804,0,43165,theodore_b_olson,,1509.343,1517.681,"--The only way they could have been harmed, Justice Breyer, is if they had otherwise decided to leave the employ of the company and go someplace else."
+2010.09-804,0,15113,anthony_m_kennedy,scotus_justice,1520.399,1521.401,Your white light -- just one more thing.
+2010.09-804,0,43165,theodore_b_olson,,1530.091,1531.674,--I think it would.
+2010.09-804,0,15113,anthony_m_kennedy,scotus_justice,1532.407,1533.876,"Well, then -- then you are not offering us much."
+2010.09-804,0,43165,theodore_b_olson,,1538.095,1539.28,"--In the first place, that's Congress's choice."
+2010.09-804,0,15086,john_g_roberts_jr,scotus_justice,1572.718,1573.418,"Thank you, Mr. Olson."
+2010.09-804,1,41041,stephen_r_bruce,,1582.457,1585.409,"Mr. Chief Justice, and may it please the Court:"
+2010.09-804,1,15113,anthony_m_kennedy,scotus_justice,1634.806,1652.934,"Well, that seems to me like just a roundabout, complex way of saying that you must recover under the plan, because if reliance is not required then there must be some basis on which you must recover, and that recovery must be under the plan."
+2010.09-804,1,41041,stephen_r_bruce,,1653.719,1655.369,The -- the--
+2010.09-804,1,15113,anthony_m_kennedy,scotus_justice,1655.369,1671.879,"--If you say injury is not required, then -- then I don't see how the SPD can give you recovery, unless the SPD is the plan, which brings us right back to the argument, which is your argument, under the first -- under the first section, under (a)."
+2010.09-804,1,41041,stephen_r_bruce,,1671.879,1673.831,--Under either (a)--
+2010.09-804,1,15113,anthony_m_kennedy,scotus_justice,1673.831,1674.814,"--(a)(1), (a)(1)."
+2010.09-804,1,41041,stephen_r_bruce,,1674.814,1692.225,"--Under -- our understanding is that under either (a)(1)(B) or (a)(3), that the court is effectively providing an injunction in a case like this, where -- where an action violates the statute."
+2010.09-804,1,15068,samuel_a_alito_jr,scotus_justice,1708.635,1717.506,"If the -- if the SPD is part of the plan, then where does the ""likely harm"" standard come from?"
+2010.09-804,1,41041,stephen_r_bruce,,1717.506,1736.67,"--I think, as we've said in our brief, we think that the likely harm, possible prejudice, and the material conflict that -- that is used in the Third Circuit in Burstein, we think that all of those standards are very similar, that they are really looking at whether--"
+2010.09-804,1,15068,samuel_a_alito_jr,scotus_justice,1736.67,1741.389,"No, but why is there any requirement whatsoever, other than the fact that it's in the plan?"
+2010.09-804,1,41041,stephen_r_bruce,,1761.785,1780.783,"--Well, I think, Justice Alito, we see this more as a nondisclosure issue, that the unfavorable provisions in the plan were not disclosed, and that the effect of the statute is to make those unfavorable plan provisions ineffective."
+2010.09-804,1,15086,john_g_roberts_jr,scotus_justice,1815.187,1828.014,"It seems to me that it's a very tough argument to say -- to make a nondisclosure claim on the theory that the summary is part of the plan, because the whole point of a summary is not to disclose everything."
+2010.09-804,1,41041,stephen_r_bruce,,1840.321,1850.01,Our position is that the SPD is one of the documents or instruments governing the plan.
+2010.09-804,1,15084,ruth_bader_ginsburg,scotus_justice,1874.726,1900.376,"But is it -- I think the brief -- the Petitioner's brief pointed out, it governs the plan only when it's more favorable to the participants, because you wouldn't say, if the plan were more favorable and the summary would show fewer benefits, that the summary would then govern."
+2010.09-804,1,41041,stephen_r_bruce,,1900.376,1925.593,"I think the favorable/unfavorable is that the way -- the way I see it is that an unfavorable plan term, when you look at Curtiss-Wright, an unfavorable plan term must be validly adopted and it must be disclosed in accordance with ERISA in order to be effective."
+2010.09-804,1,15113,anthony_m_kennedy,scotus_justice,1965.968,1970.789,So there's a presumption that everything in the plan is favorable?
+2010.09-804,1,41041,stephen_r_bruce,,1976.693,1988.501,"The, the -- the Congress in ERISA is concerned with unfavorable effects on participants."
+2010.09-804,1,15139,stephen_g_breyer,scotus_justice,2042.635,2044.587,Are you finished with that?
+2010.09-804,1,41041,stephen_r_bruce,,2044.587,2045.387,"Yes, sir."
+2010.09-804,1,15139,stephen_g_breyer,scotus_justice,2045.387,2057.561,"If you are finished: As I understand what you have been saying and written, you don't mean that the SPD, the summary, is a contract?"
+2010.09-804,1,41041,stephen_r_bruce,,2144.517,2145.184,Now--
+2010.09-804,1,15139,stephen_g_breyer,scotus_justice,2145.184,2148.286,So there's some reason it doesn't seem to appear in the opinions.
+2010.09-804,1,41041,stephen_r_bruce,,2154.974,2156.141,"--No, it is in the opinion."
+2010.09-804,1,15139,stephen_g_breyer,scotus_justice,2156.141,2157.224,It is?
+2010.09-804,1,41041,stephen_r_bruce,,2157.224,2160.443,The district court found a violation.
+2010.09-804,1,15049,antonin_scalia,scotus_justice,2191.582,2193.115,What is that provision?
+2010.09-804,1,15139,stephen_g_breyer,scotus_justice,2193.115,2193.884,(h).
+2010.09-804,1,15049,antonin_scalia,scotus_justice,2194.684,2197.385,Does it appear anywhere in the briefs?
+2010.09-804,1,41041,stephen_r_bruce,,2201.337,2218.097,"It appears in our petition for certiorari, because after the district court found a violation of it the district court declined to provide relief because there had been an intermediate interim amendment that might have--"
+2010.09-804,1,15139,stephen_g_breyer,scotus_justice,2218.097,2219.215,I understand that.
+2010.09-804,1,15049,antonin_scalia,scotus_justice,2265.01,2266.227,Why not?
+2010.09-804,1,41041,stephen_r_bruce,,2266.227,2275.985,"--That's -- that's -- that's one way that it would be -- that's the way it's approached under the Securities Act, where there is an expressed reliance requirement."
+2010.09-804,1,15139,stephen_g_breyer,scotus_justice,2275.985,2288.459,"What happens in a trust law where, let's say, there are 10 or 50,000 beneficiaries in a trust, and -- and the trustee has indeed made an error."
+2010.09-804,1,41041,stephen_r_bruce,,2305.787,2350.699,"Well, we didn't go based on a trust law case involving a big class, but we based it on Bogert and on section 173 in the Restatement of Trusts, that when there is a breach of the duty to disclose all of the material information that the beneficiary needs to know in interacting with a third party, which in this case would be Cigna with respect to their employment, that then there is no requirement of proving reliance; that the trustee can prove -- as the Second Circuit set up, that the trustee can try and prove that the beneficiary had all the information that they needed."
+2010.09-804,1,15113,anthony_m_kennedy,scotus_justice,2350.699,2362.741,"So you say under standard trust law once you show there's a breach, the burden shifts to the trustee to show that there's no harm?"
+2010.09-804,1,41041,stephen_r_bruce,,2362.741,2365.359,For a breach of the duties to the--
+2010.09-804,1,15113,anthony_m_kennedy,scotus_justice,2365.359,2374.799,"I understand that to be the Second Circuit rule, but I didn't understand that to be the rule generally in the law of trusts and I quarrel with the Government's brief on that."
+2010.09-804,1,41041,stephen_r_bruce,,2384.94,2406.77,"--My understanding is -- I mean, that's the law that's been -- that this Court has adopted in securities cases where we have nondisclosures to broad classes, is that there's a presumption of reliance, which -- because it's unrealistic for thousands of people to prove reliance in -- in--"
+2010.09-804,1,15113,anthony_m_kennedy,scotus_justice,2406.77,2411.774,"But that's not under trust -- trust law, or correct me if I'm wrong."
+2010.09-804,1,41041,stephen_r_bruce,,2411.774,2425.933,"--Well, that's -- that's what I'm saying, that there's a commonality between the securities cases, trust law as stated in the comment to section 173 and in Bogert, and what the Second Circuit is doing."
+2010.09-804,1,15086,john_g_roberts_jr,scotus_justice,2425.933,2440.007,"Can I just stop -- the securities cases, does that involve stock traded in a market, in which case the inference of harm would be much more obvious and follow more logically than in the trust context?"
+2010.09-804,1,41041,stephen_r_bruce,,2440.007,2453.001,"Well, one -- one of this Court's very first ERISA cases was Teamsters v. Daniel, in which the Securities and Exchange Commission had considered pension plans to be a security."
+2010.09-804,1,15068,samuel_a_alito_jr,scotus_justice,2492.792,2508.337,"Could I ask you this: If this were an individual action and it -- and it were under (a)(3), what would either the plaintiff or the defendant have to show, depending on what the burden, who has the burden, on the issue of likely harm?"
+2010.09-804,1,41041,stephen_r_bruce,,2515.874,2527.482,"""Likely harm"" can include that the -- that if the person knew about the provision, they might have asked for the provision to be changed."
+2010.09-804,1,15139,stephen_g_breyer,scotus_justice,2558.603,2563.305,"Could they here have gone -- could they also have said to the company: Look, why are you doing this?"
+2010.09-804,1,41041,stephen_r_bruce,,2585.338,2587.038,The district court--
+2010.09-804,1,15139,stephen_g_breyer,scotus_justice,2587.038,2588.622,They could -- they might have talked the company into it.
+2010.09-804,1,41041,stephen_r_bruce,,2588.622,2598.495,"--Well, the district court found that there was a real prospect of employee backlash if the employees knew about these benefit reductions."
+2010.09-804,1,15113,anthony_m_kennedy,scotus_justice,2663.004,2676.328,"Under your proposal I assume, if you prevail, under your position, the summaries will now become part of the plan."
+2010.09-804,1,41041,stephen_r_bruce,,2689.738,2703.348,"Well, as we said in the brief, there are already cases that -- that recognize exceptions to liability here, and one of them is for prompt correction of any problem."
+2010.09-804,1,15068,samuel_a_alito_jr,scotus_justice,2722.226,2742.623,"If an administrator -- if an administrator issues a summary plan description that is 100 pages long and is basically the same thing as the written instrument and that's a violation of the requirement in ERISA that it be a summary and that it be intelligible to ordinary readers, what remedy is available to a beneficiary?"
+2010.09-804,1,41041,stephen_r_bruce,,2742.623,2751.979,"I think that that's -- obviously, injunctive relief in terms of an order to correct that would be available."
+2010.09-804,1,15068,samuel_a_alito_jr,scotus_justice,2775.427,2781.415,"Well, doesn't that put the -- think of the incentives for the administrator in that situation or for the plan sponsor."
+2010.09-804,1,41041,stephen_r_bruce,,2813.302,2823.758,"Well, intentional errors should not be countenanced and here Cigna was deliberately misleading employees."
+2010.09-804,1,15086,john_g_roberts_jr,scotus_justice,2827.646,2828.612,"Thank you, counsel."
+2010.09-804,1,41041,stephen_r_bruce,,2828.612,2829.179,Thank you.
+2010.09-804,1,15086,john_g_roberts_jr,scotus_justice,2829.179,2846.857,Mr. Kneedler.
+2010.09-804,2,22617,edwin_s_kneedler,,2846.857,2849.392,"Mr. Chief Justice, and may it please the Court:"
+2010.09-804,2,15094,elena_kagan,scotus_justice,2870.906,2878.844,"Mr. Kneedler, do you view this as essentially a contract case, as that just suggested, or instead a trust case?"
+2010.09-804,2,22617,edwin_s_kneedler,,2878.844,2881.363,We view it as basically a contract case.
+2010.09-804,2,15068,samuel_a_alito_jr,scotus_justice,2920.505,2923.79,"If this is a contract case, then where does the ""likely harm"" standard come from?"
+2010.09-804,2,22617,edwin_s_kneedler,,2936.181,2936.867,Right.
+2010.09-804,2,15068,samuel_a_alito_jr,scotus_justice,2939.735,2941.052,Do you think likely harm is required?
+2010.09-804,2,22617,edwin_s_kneedler,,2941.052,2957.03,"--In this sense: If the -- if the SPD contains these sorts of representations such that the employee could reasonably be expected to rely upon them in defining her benefits, then that controls."
+2010.09-804,2,15049,antonin_scalia,scotus_justice,2964.617,2967.136,But the likely harm -- that's not the likely harm.
+2010.09-804,2,22617,edwin_s_kneedler,,2969.088,2970.838,But the--
+2010.09-804,2,15049,antonin_scalia,scotus_justice,2970.838,2977.877,"You are saying once you make the offense, you have to cough up what you stated in the -- in the summary."
+2010.09-804,2,22617,edwin_s_kneedler,,2977.877,2981.896,--Unless the participant actually knew or couldn't reasonably depend upon it.
+2010.09-804,2,15049,antonin_scalia,scotus_justice,3001.309,3002.825,"Well, then it's not contract."
+2010.09-804,2,15113,anthony_m_kennedy,scotus_justice,3002.825,3004.261,The minute you get away from contract--
+2010.09-804,2,15049,antonin_scalia,scotus_justice,3004.261,3005.111,Is it contract or not contract?
+2010.09-804,2,22617,edwin_s_kneedler,,3005.111,3010.331,"--No, it is contract, because -- because in that -- it -- it's -- the question is what is the contract."
+2010.09-804,2,15139,stephen_g_breyer,scotus_justice,3014.283,3016.319,But the SPD is written by the fiduciary.
+2010.09-804,2,22617,edwin_s_kneedler,,3016.319,3017.102,Yes.
+2010.09-804,2,15139,stephen_g_breyer,scotus_justice,3017.102,3021.437,"And the other is written by the -- by the person who is giving the money, the employer."
+2010.09-804,2,22617,edwin_s_kneedler,,3046.421,3052.139,"Well, the underlying formal document is -- is what controls, unless the SP -- unless there is a conflict."
+2010.09-804,2,15139,stephen_g_breyer,scotus_justice,3052.708,3060.829,"I said that there can be conflicts, sometimes favorable to the employee, sometimes unfavorable, sometimes neutral."
+2010.09-804,2,22617,edwin_s_kneedler,,3088.914,3090.381,--It forms -- it forms part of the contract.
+2010.09-804,2,15139,stephen_g_breyer,scotus_justice,3101.989,3103.091,That isn't my question.
+2010.09-804,2,22617,edwin_s_kneedler,,3121.652,3122.402,--As to--
+2010.09-804,2,15139,stephen_g_breyer,scotus_justice,3122.402,3123.069,How should it be worked out?
+2010.09-804,2,22617,edwin_s_kneedler,,3123.069,3132.36,"--As to the first point, it is -- it is common and it was critically true here that the -- that the employer, the plan sponsor, is involved in -- in drafting the SPD."
+2010.09-804,2,15139,stephen_g_breyer,scotus_justice,3137.912,3145.601,I think the fact that this individual in this case happened to be the same group or person is beside the point of my question.
+2010.09-804,2,22617,edwin_s_kneedler,,3145.601,3146.101,--Okay.
+2010.09-804,2,15049,antonin_scalia,scotus_justice,3184.126,3186.995,Is this governed by ERISA or are these things governed by ERISA?
+2010.09-804,2,22617,edwin_s_kneedler,,3186.995,3189.797,--Some of them may be and some of them may not be.
+2010.09-804,2,15084,ruth_bader_ginsburg,scotus_justice,3190.18,3191.981,"Where does the rule come from, then?"
+2010.09-804,2,22617,edwin_s_kneedler,,3191.981,3204.306,"--The -- the rule is a common insurance rule that in -- in the group insurance situation, where you have an underlying policy that the individual insured is not going to see."
+2010.09-804,2,15049,antonin_scalia,scotus_justice,3204.306,3208.241,But we have a statute here which says that it is the plan that governs.
+2010.09-804,2,22617,edwin_s_kneedler,,3211.729,3222.668,"Well, but it's also a statute that as this Court said in Curtiss-Wright that the SPD is designed to -- to furnish the employee the essential information under the plan."
+2010.09-804,2,15139,stephen_g_breyer,scotus_justice,3222.668,3224.453,Is that true of the certificate of insurance?
+2010.09-804,2,22617,edwin_s_kneedler,,3229.79,3231.123,That's what it's supposed to be.
+2010.09-804,2,15139,stephen_g_breyer,scotus_justice,3232.642,3233.925,Is there an example that I can look at?
+2010.09-804,2,22617,edwin_s_kneedler,,3236.844,3240.812,"It's not in the record in this case, but -- but we cite some insurance treatises."
+2010.09-804,2,15049,antonin_scalia,scotus_justice,3242.248,3243.981,They use a likely harm standard?
+2010.09-804,2,22617,edwin_s_kneedler,,3245.7,3249.568,"--No, the likely harm standard was a formulation of the -- of the Second Circuit."
+2010.09-804,2,15049,antonin_scalia,scotus_justice,3249.568,3250.437,That's nice.
+2010.09-804,2,22617,edwin_s_kneedler,,3252.937,3262.678,"Well, I -- I think it was -- it was -- it was an effort to judge whether the -- whether the particular statements in the SPD were of the sort that -- I think it really gets at materiality."
+2010.09-804,2,15094,elena_kagan,scotus_justice,3262.678,3271.433,"Mr. Kneedler, I think it's a hard question here as to whether to think of this as more like a contract dispute or more like a -- a trust issue."
+2010.09-804,2,22617,edwin_s_kneedler,,3277.254,3290.895,"I think it would be -- I think it would be the same thing where you -- where you have a -- either in this case an affirmative representation of what the -- of what benefits will be due, or you could have a situation where there was a -- a failure to disclose."
+2010.09-804,2,15113,anthony_m_kennedy,scotus_justice,3290.895,3299.085,"--Well, if it's a contract case that you are submitting then the burden shifting rules it seems to me that apply in trust don't apply."
+2010.09-804,2,22617,edwin_s_kneedler,,3299.085,3316.212,"Well, the burden shifting rule would apply to the extent that enabling the administrator of the plan or the employer to demonstrate that the employee actually knew or that there were other documents that would have informed the employee so that he would not have been mislead by the statements in the -- in the SPD."
+2010.09-804,2,15113,anthony_m_kennedy,scotus_justice,3316.212,3324.318,"Well, and in all of that, I think under trust law there has to be a showing of breach and harm before there is -- the burden shifts on causation."
+2010.09-804,2,22617,edwin_s_kneedler,,3333.424,3339.578,"There is harm, because the employee was not told of what the -- of what the terms of his -- of his deal were."
+2010.09-804,2,15084,ruth_bader_ginsburg,scotus_justice,3339.578,3340.528,Mr. Kneedler--
+2010.09-804,2,22617,edwin_s_kneedler,,3340.528,3346.399,He goes to work every day expecting to earn his wages and expecting to earn the -- the benefits set forth in the SPD.
+2010.09-804,2,15084,ruth_bader_ginsburg,scotus_justice,3347.182,3363.127,"--Do you put -- do you put any weight on Congress insisting that the summary that each -- each participant get a copy of that summary, but there is no such requirement with respect to the plan?"
+2010.09-804,2,22617,edwin_s_kneedler,,3363.127,3386.726,"--That's -- that is critical to our position, and again, the insurance/certificate of insurance analogy, it is all the same reasons that we say under ERISA; that that's the only document that is given, it's given for the obvious purpose of -- of telling the employee the essential aspects of the deal that he's going to get, and ERISA identifies, itemizes what they are and requires that the plan administrator not -- not minimize what they are."
+2010.09-804,2,15049,antonin_scalia,scotus_justice,3386.726,3389.595,So it can't -- can't amend the plan contrary to what we said.
+2010.09-804,2,22617,edwin_s_kneedler,,3389.595,3391.428,It's not an amendment to the plan.
+2010.09-804,2,15049,antonin_scalia,scotus_justice,3391.428,3391.962,It's not an amendment?
+2010.09-804,2,22617,edwin_s_kneedler,,3391.962,3395.748,"The SPD -- the SPD is part of the plan, and it is--"
+2010.09-804,2,15049,antonin_scalia,scotus_justice,3395.748,3396.464,"Well, wait -- wait."
+2010.09-804,2,22617,edwin_s_kneedler,,3409.508,3412.876,--It -- it -- it controls.
+2010.09-804,2,15049,antonin_scalia,scotus_justice,3413.543,3414.276,"Oh, all right, okay."
+2010.09-804,2,22617,edwin_s_kneedler,,3416.728,3419.03,"--Well, that -- that's the explanation--"
+2010.09-804,2,15139,stephen_g_breyer,scotus_justice,3419.03,3420.63,--Does it control when it's less favorable?
+2010.09-804,2,22617,edwin_s_kneedler,,3420.63,3421.649,--It does not.
+2010.09-804,2,15139,stephen_g_breyer,scotus_justice,3422.132,3425.518,"It only controls when it's more favorable, but not when it's less favorable."
+2010.09-804,2,22617,edwin_s_kneedler,,3425.518,3426.001,--Because--
+2010.09-804,2,15139,stephen_g_breyer,scotus_justice,3426.001,3428.22,What theory of contract law gets you to that conclusion?
+2010.09-804,2,22617,edwin_s_kneedler,,3428.22,3431.172,--Because you have two different documents that may be part of the contract.
+2010.09-804,2,15086,john_g_roberts_jr,scotus_justice,3452.918,3454.203,"Thank you, Mr. Kneedler."
+2010.09-804,3,43165,theodore_b_olson,,3456.653,3459.039,"Thank you, Mr. Chief Justice."
+2010.09-804,3,15139,stephen_g_breyer,scotus_justice,3469.597,3470.13,(j).
+2010.09-804,3,43165,theodore_b_olson,,3470.13,3495.547,"--Well, (g), I'm talking about that's what they -- I refer you to page 212 of the cert petition appendix under Roman numeral VI where the district court specifically said: Plaintiffs also seek to assert their claim under ERISA's anti-cutback provision 204(g), that claim has been rejected in the liability decision."
+2010.09-804,3,15049,antonin_scalia,scotus_justice,3554.153,3555.502,Why didn't that (h) apply here?
+2010.09-804,3,43165,theodore_b_olson,,3560.389,3566.376,I -- I don't think that the -- the notice that was involved was referring to the SPD.
+2010.09-804,3,15139,stephen_g_breyer,scotus_justice,3598.08,3613.441,"Yes, but I still have the same question Justice Scalia had, which is why didn't this (h) thing apply here, because they didn't have, their claim, the notice wasn't good, and if the notice wasn't good then the plan didn't change, and if the plan didn't change they should have gotten the money."
+2010.09-804,3,43165,theodore_b_olson,,3614.707,3617.226,That provision applies to the SPD and they did not bring that case.
+2010.09-804,3,15049,antonin_scalia,scotus_justice,3617.226,3620.361,"Why didn't it apply to the SPD, isn't that a notice?"
+2010.09-804,3,43165,theodore_b_olson,,3620.361,3623.896,I think it's a different type of notice.
+2010.09-804,3,15068,samuel_a_alito_jr,scotus_justice,3623.896,3627.598,"Well, there was a notice, wasn't there?"
+2010.09-804,3,43165,theodore_b_olson,,3627.598,3628.431,There was a notice.
+2010.09-804,3,15068,samuel_a_alito_jr,scotus_justice,3628.431,3633.085,And is the claim based on that or is it based on the SPD?
+2010.09-804,3,43165,theodore_b_olson,,3633.085,3642.19,The claim is based upon the SPD and the district court decided that the SPD had amended the plan and that's inconsistent with what the statute provides.
+2010.09-804,3,15094,elena_kagan,scotus_justice,3642.19,3651.796,"Mr. Olson, on your view of showing detrimental reliance, I take it you would require each employee to come forward and say yes, I read this SPD, is that correct?"
+2010.09-804,3,43165,theodore_b_olson,,3651.796,3652.313,Yes.
+2010.09-804,3,15094,elena_kagan,scotus_justice,3653.515,3658.117,And doesn't that really misunderstand the realities of the workplace?
+2010.09-804,3,43165,theodore_b_olson,,3685.719,3690.755,--The -- I refer to what Justice Kennedy was referring to.
+2010.09-804,3,15086,john_g_roberts_jr,scotus_justice,3711.871,3712.837,"Thank you, Mr. Olson."

@@ -1,0 +1,248 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2003.02-1389,0,15141,william_h_rehnquist,scotus_justice,0.0,8.423,"We'll hear argument now in No. 02-1389, the United States v. Abel Cosmo Galletti."
+2003.02-1389,0,33864,kent_l_jones,,9.91,13.169,"Mr. Chief Justice, and may it please the Court:"
+2003.02-1389,0,15113,anthony_m_kennedy,scotus_justice,33.315,36.742,Did the Government have to wait until the partnership failed to pay?
+2003.02-1389,0,33864,kent_l_jones,,41.982,47.926,"You've addressed an... an unanswered question that isn't presented here, of course."
+2003.02-1389,0,15049,antonin_scalia,scotus_justice,51.27,55.522,"It... it's not presented, depending on what you mean by derivative liability."
+2003.02-1389,0,33864,kent_l_jones,,67.717,82.206,"--And... and I agree with that, and... and the Uniform Partnership Act, which California has adopted, contains a provision that specifies that the creditor must exhaust his efforts to recover from the partnership before he can recover from the partners."
+2003.02-1389,0,15049,antonin_scalia,scotus_justice,82.206,82.578,I see.
+2003.02-1389,0,33864,kent_l_jones,,82.578,87.779,And... and so that's what makes it clear this indeed a derivative secondary liability.
+2003.02-1389,0,15049,antonin_scalia,scotus_justice,87.779,89.265,You think maybe the United States may not be bound by that.
+2003.02-1389,0,33864,kent_l_jones,,95.747,98.142,It's not so much I don't want to concede.
+2003.02-1389,0,15113,anthony_m_kennedy,scotus_justice,129.905,134.179,"Well, can you tell me as a matter of practice if... if you know?"
+2003.02-1389,0,33864,kent_l_jones,,146.894,147.144,"Well, there--"
+2003.02-1389,0,15113,anthony_m_kennedy,scotus_justice,147.144,147.903,--ever do that?
+2003.02-1389,0,33864,kent_l_jones,,147.903,155.045,"There... there is an... the uniform... in the case law, there's a discussion of situations where the partnership is known to be insolvent."
+2003.02-1389,0,15113,anthony_m_kennedy,scotus_justice,165.781,181.878,"And I take it in that situation... you correct me if I'm wrong... but you can't just levy on the account if the tax has not been assessed against that partner individually, but you can commence some other sorts of proceedings which would allow a subsequent levy."
+2003.02-1389,0,33864,kent_l_jones,,183.364,196.617,"--Well, you've brought me through... to a lot of levels of complexity, but I think the answer to the question is we... we don't dispute that you need to give a... a notice of assessment in order to collect administratively through liens and levies."
+2003.02-1389,0,15113,anthony_m_kennedy,scotus_justice,200.044,200.415,Of course.
+2003.02-1389,0,33864,kent_l_jones,,200.415,211.849,"But, nonetheless, there is case law that says that when you give notice to the partnership of its liability, that's sufficient as constructive notice to the partners to permit administrative collection through liens and levies."
+2003.02-1389,0,15084,ruth_bader_ginsburg,scotus_justice,211.849,228.567,"Mr. Kent, if you're not right about that and you do have to have individual notice and demand to the partners, then there's a consequence other than liens and levies, isn't there, where you have whopping penalties and interest attached?"
+2003.02-1389,0,33864,kent_l_jones,,240.456,250.281,"I'm... I'm familiar with the... the concept of interest doesn't run until notice of the assessment is made, but nonetheless again, notice to the partnership would be constructive to the partners."
+2003.02-1389,0,15084,ruth_bader_ginsburg,scotus_justice,250.281,258.91,"But if you're wrong about that constructive notice, then you could still say, well, the statute has been extended 10 years because of the assessment."
+2003.02-1389,0,33864,kent_l_jones,,266.795,273.937,"Well, I... I don't mean to be... I don't mean to sound like I'm retreating from that issue."
+2003.02-1389,0,15084,ruth_bader_ginsburg,scotus_justice,278.19,290.738,"Well, it would be to the extent on... if... if this thing is remanded with instructions that the assessment counts against all of them, that there would be the question remaining about the interest and penalties."
+2003.02-1389,0,33864,kent_l_jones,,290.738,299.755,"--That's... I don't... it is possible, and if the Court were to reverse and remand for further proceedings, it's possible that that issue would be raised."
+2003.02-1389,0,15084,ruth_bader_ginsburg,scotus_justice,299.755,305.682,Are you... are you saying that we should maybe flag it but not decide it?
+2003.02-1389,0,33864,kent_l_jones,,306.425,309.564,I don't... I don't know what your practice would be.
+2003.02-1389,0,15141,william_h_rehnquist,scotus_justice,321.536,326.699,--Why don't you go ahead with the issues that are presented?
+2003.02-1389,0,33864,kent_l_jones,,326.699,327.359,Okay.
+2003.02-1389,0,15141,william_h_rehnquist,scotus_justice,437.085,443.234,But you... you agree that it's the law of California that imposes the derivative liability on the partners?
+2003.02-1389,0,33864,kent_l_jones,,443.234,444.97,That's the way the cases describe it.
+2003.02-1389,0,15141,william_h_rehnquist,scotus_justice,450.626,451.08,What more do you want?
+2003.02-1389,0,33864,kent_l_jones,,451.08,451.823,Pardon me?
+2003.02-1389,0,15141,william_h_rehnquist,scotus_justice,451.823,453.105,I say what more do you want.
+2003.02-1389,0,33864,kent_l_jones,,453.105,454.508,"Well, I don't want more."
+2003.02-1389,0,15060,john_paul_stevens,scotus_justice,641.381,642.701,May I interrupt for this question?
+2003.02-1389,0,33864,kent_l_jones,,657.357,681.134,"--I think that in... in Commissioner v. Bresson where the Ninth Circuit addressed that very point, they... they were... they wrote a very useful opinion that seems to me to be perfectly correct, that the... that if it is the passage of time after the United States acquires its right that causes the claim to expire, that that is what is barred by the Summerlin rationale because the sovereign rights of the United States can't be extinguished."
+2003.02-1389,0,15139,stephen_g_breyer,scotus_justice,696.822,697.565,Why not?
+2003.02-1389,0,33864,kent_l_jones,,753.664,756.886,So you're talking about a... a private contractual right--
+2003.02-1389,0,15139,stephen_g_breyer,scotus_justice,756.886,757.052,Yes.
+2003.02-1389,0,33864,kent_l_jones,,757.674,760.274,--that the United States somehow obtained rights under by--
+2003.02-1389,0,15139,stephen_g_breyer,scotus_justice,760.274,760.646,--Yes.
+2003.02-1389,0,33864,kent_l_jones,,760.646,761.927,"--levying, for example--"
+2003.02-1389,0,15139,stephen_g_breyer,scotus_justice,761.927,762.382,"Yes, yes."
+2003.02-1389,0,33864,kent_l_jones,,762.382,763.125,--on the... on the right.
+2003.02-1389,0,15139,stephen_g_breyer,scotus_justice,763.125,764.777,"Yes, yes, and then I'm going to say why isn't this that."
+2003.02-1389,0,33864,kent_l_jones,,764.777,769.319,That's... that's a... that's exactly frankly what happened in Summerlin--
+2003.02-1389,0,15139,stephen_g_breyer,scotus_justice,769.319,769.941,Yes.
+2003.02-1389,0,33864,kent_l_jones,,769.941,773.406,--except Summerlin involved a housing program instead of the Internal Revenue Code.
+2003.02-1389,0,15139,stephen_g_breyer,scotus_justice,790.746,814.067,"So if I... if I enter into a promise with you and say in return for my lending, you know, whatever it is, I... I promise that I will pay your tax debts, but by the way, I don't want to pay any tax debt that isn't definite before January the 5th, 2004 or 2010."
+2003.02-1389,0,33864,kent_l_jones,,815.737,829.217,"It's a limit... if you're talking about a substantive limitation in the document itself, well, the United States takes its... stands in the shoes of the assignor in that situation, and we don't get a better substantive right... substantive right."
+2003.02-1389,0,15139,stephen_g_breyer,scotus_justice,829.217,829.589,--Okay.
+2003.02-1389,0,33864,kent_l_jones,,831.447,834.048,"Well, certainly that's the way the Court has looked at it, and I--"
+2003.02-1389,0,15049,antonin_scalia,scotus_justice,834.048,854.936,"But you know, in... in other cases, let's say when the... when the Federal Government creates a Federal right without establishing a statute of limitations for that Federal right, State law does not govern, but Federal law looks to the... to the State statute of limitations as a matter of Federal law."
+2003.02-1389,0,33864,kent_l_jones,,863.088,863.371,--No.
+2003.02-1389,0,15049,antonin_scalia,scotus_justice,877.206,877.744,Of course.
+2003.02-1389,0,33864,kent_l_jones,,877.744,888.684,"And under... under Updike, what this Court concluded in Updike was that there is a Federal statute of limitations that applies to these proceedings in court to collect the taxes, which includes the derivative claim."
+2003.02-1389,0,15049,antonin_scalia,scotus_justice,888.684,888.89,"Well, that... that's fine."
+2003.02-1389,0,33864,kent_l_jones,,901.483,902.309,"Well, it doesn't--"
+2003.02-1389,0,15049,antonin_scalia,scotus_justice,902.309,903.135,"I mean, a claim by the United States."
+2003.02-1389,0,33864,kent_l_jones,,903.135,903.59,--It doesn't--
+2003.02-1389,0,15049,antonin_scalia,scotus_justice,903.59,904.044,I think it does.
+2003.02-1389,0,33864,kent_l_jones,,906.645,907.016,--Exactly.
+2003.02-1389,0,15049,antonin_scalia,scotus_justice,907.016,909.867,But it applies because of adoption by the United States.
+2003.02-1389,0,33864,kent_l_jones,,909.867,924.744,"If the... if the Court were to find it appropriate in a particular instance to adopt a State rule, that would not interfere with Summerlin, but that would... that would... I can't think of a case exactly like that."
+2003.02-1389,0,15049,antonin_scalia,scotus_justice,927.7,929.269,I can't imagine our not doing it.
+2003.02-1389,0,33864,kent_l_jones,,931.248,931.991,--Most--
+2003.02-1389,0,15049,antonin_scalia,scotus_justice,931.991,934.963,--the clock keeps ticking on Federal claims forever and ever.
+2003.02-1389,0,33864,kent_l_jones,,934.963,941.65,"--Most Federal claims come within some general statute of limitations, and this is certainly a situation like that."
+2003.02-1389,0,15084,ruth_bader_ginsburg,scotus_justice,941.65,955.025,"Is it... is this question really academic in this case because you have not one but two Federal limitations, one, the regular 3-year period, then the extension by 10 years following an assessment?"
+2003.02-1389,0,33864,kent_l_jones,,955.025,963.903,"Well, I think the Updike case makes this discussion somewhat hypothetical, and I understood Justice Scalia's question to be in that vein."
+2003.02-1389,0,15084,ruth_bader_ginsburg,scotus_justice,963.903,969.597,"But here, what you're relying on are the Federal limitations period."
+2003.02-1389,0,33864,kent_l_jones,,975.996,988.71,"I... I don't need to worry about them, and I... but I'm only addressing them because respondents have raised them at this point in the case, and so I'm just discussing the two theories that this Court has applied in rejecting that kind of contention."
+2003.02-1389,0,15141,william_h_rehnquist,scotus_justice,988.71,993.047,You're saying it's doubly hypothetical because they can't raise the whole issue--
+2003.02-1389,0,33864,kent_l_jones,,993.047,993.623,Yes.
+2003.02-1389,0,15141,william_h_rehnquist,scotus_justice,993.623,994.078,--at this point anyway.
+2003.02-1389,0,33864,kent_l_jones,,994.078,994.532,"Yes, sir."
+2003.02-1389,0,15084,ruth_bader_ginsburg,scotus_justice,994.532,1006.998,"I thought their primary position, though, was that the partners are not secondarily liable, they're primarily liable, so that they are the taxpayer and they're entitled to assessment notice and demand."
+2003.02-1389,0,33864,kent_l_jones,,1006.998,1019.879,"That is now clearly their primary position, and for the reasons I've already described that position can't be reconciled with the Uniform Partnership Act or with... or with the Federal law that applies to these taxes."
+2003.02-1389,0,15113,anthony_m_kennedy,scotus_justice,1019.879,1036.226,"Can you... can you tell me in the case of a corporation, if the responsible officer does not withhold employment taxes, I... I take it... I thought I remembered that... that the responsible officer is personally liable."
+2003.02-1389,0,33864,kent_l_jones,,1038.045,1039.038,Yes.
+2003.02-1389,0,15113,anthony_m_kennedy,scotus_justice,1044.361,1045.354,"Ah, but you have to assess it."
+2003.02-1389,0,33864,kent_l_jones,,1045.354,1047.749,It... it authorizes the assessment.
+2003.02-1389,0,15113,anthony_m_kennedy,scotus_justice,1051.138,1053.86,Can... can you proceed against the responsible officer without the assessment?
+2003.02-1389,0,33864,kent_l_jones,,1053.86,1063.148,"--If you have a claim based on State law or common law, and that's the reason we have a responsible officer statute is that this is a Federal claim."
+2003.02-1389,0,15113,anthony_m_kennedy,scotus_justice,1071.776,1088.949,"Well, if... if in the case of corporate officers, there must be an assessment, then by analogy it would seem that it wouldn't be too much trouble for the IRS to assess the partners in your case."
+2003.02-1389,0,33864,kent_l_jones,,1088.949,1096.751,"Well, sometimes it is troublesome, but it's not required in any situation under our understanding of the existing law."
+2003.02-1389,0,15113,anthony_m_kennedy,scotus_justice,1096.751,1101.209,I... I thought that it was required in the... in... in the corporate case.
+2003.02-1389,0,33864,kent_l_jones,,1103.771,1104.143,"Oh, I'm sorry."
+2003.02-1389,0,15113,anthony_m_kennedy,scotus_justice,1113.863,1141.561,"I'm simply wondering if... if that isn't a model, if that's what happens in the corporate instance, in this case where the statute is... is silent on the point, whether we shouldn't just assume that since it's not too much of a burden on the Government in the corporate context to require it to assess the responsible officer before the tax can be collected, that we shouldn't say the same thing here."
+2003.02-1389,0,33864,kent_l_jones,,1141.561,1142.016,There is--
+2003.02-1389,0,15113,anthony_m_kennedy,scotus_justice,1142.016,1142.47,I'm just--
+2003.02-1389,0,33864,kent_l_jones,,1142.47,1143.008,--I understand.
+2003.02-1389,0,15113,anthony_m_kennedy,scotus_justice,1176.239,1176.877,--There's a--
+2003.02-1389,0,33864,kent_l_jones,,1176.877,1177.725,--where the similar thing happened.
+2003.02-1389,0,15084,ruth_bader_ginsburg,scotus_justice,1353.144,1360.574,--Are you conceding then that there could be no liens and levies against the partners here because there was no notice and demand--
+2003.02-1389,0,33864,kent_l_jones,,1360.574,1361.196,I--
+2003.02-1389,0,15084,ruth_bader_ginsburg,scotus_justice,1361.196,1362.022,--individually to them?
+2003.02-1389,0,33864,kent_l_jones,,1362.022,1365.775,--I don't think the record discusses whether there was notice to the partnership.
+2003.02-1389,0,15084,ruth_bader_ginsburg,scotus_justice,1365.775,1366.701,"No, no."
+2003.02-1389,0,33864,kent_l_jones,,1367.633,1368.005,No.
+2003.02-1389,0,15084,ruth_bader_ginsburg,scotus_justice,1368.005,1369.657,You just explained these two different routes.
+2003.02-1389,0,33864,kent_l_jones,,1369.657,1370.112,Yes.
+2003.02-1389,0,15084,ruth_bader_ginsburg,scotus_justice,1370.112,1372.963,And you said that this is a judicial collection proceeding.
+2003.02-1389,0,33864,kent_l_jones,,1372.963,1373.501,Yes.
+2003.02-1389,0,15084,ruth_bader_ginsburg,scotus_justice,1373.501,1374.904,So the other doesn't apply.
+2003.02-1389,0,33864,kent_l_jones,,1391.705,1399.795,Let me... I can't say what we did or didn't do in notice because there's nothing in the record on that in this case because administrative collection isn't involved in this case.
+2003.02-1389,0,15084,ruth_bader_ginsburg,scotus_justice,1399.795,1403.594,"Well, let's assume you gave notice and demand only to the partnership."
+2003.02-1389,0,33864,kent_l_jones,,1403.594,1404.875,"Okay, let's assume that."
+2003.02-1389,0,15141,william_h_rehnquist,scotus_justice,1516.226,1517.274,"Very well, Mr. Jones."
+2003.02-1389,1,20979,david_r_haberbush,,1519.586,1524.333,"Mr. Chief Justice, and may it please the Court:"
+2003.02-1389,1,15141,william_h_rehnquist,scotus_justice,1537.297,1543.363,"Now, the Government says you... you did not raise what is now your principal argument until your merits brief."
+2003.02-1389,1,20979,david_r_haberbush,,1544.849,1546.335,"--Your Honor, no, I don't."
+2003.02-1389,1,15049,antonin_scalia,scotus_justice,1570.484,1572.341,Wait.
+2003.02-1389,1,20979,david_r_haberbush,,1602.972,1605.823,"Yes, we did in the courts below and our briefs below."
+2003.02-1389,1,15049,antonin_scalia,scotus_justice,1605.823,1608.423,You asserted that it was governed by a State statute of limitations.
+2003.02-1389,1,20979,david_r_haberbush,,1608.423,1622.335,"Your Honor, what we argued was that if the Federal statutes did not apply, section 6303 requiring notice and demand, if these partners are not taxpayers under the Internal Revenue Code, then State law would govern."
+2003.02-1389,1,15141,william_h_rehnquist,scotus_justice,1623.738,1625.679,Did the court of appeals touch on it?
+2003.02-1389,1,20979,david_r_haberbush,,1625.679,1635.051,"The court of appeals did not need to touch upon it, because the court of appeals felt and decided that these partners are taxpayers under the Internal Revenue Code."
+2003.02-1389,1,15060,john_paul_stevens,scotus_justice,1637.939,1641.366,Did you raise the statute of limitations point in your pleadings in the district court?
+2003.02-1389,1,20979,david_r_haberbush,,1641.366,1647.105,"In the United... this originated in the bankruptcy court, so the district court--"
+2003.02-1389,1,15060,john_paul_stevens,scotus_justice,1647.105,1647.848,"Well, I mean in the bankruptcy court."
+2003.02-1389,1,20979,david_r_haberbush,,1647.848,1650.282,"--Your Honor, we did."
+2003.02-1389,1,15042,david_h_souter,scotus_justice,1656.477,1659.549,Did you raise it as an affirmative defense under State law?
+2003.02-1389,1,20979,david_r_haberbush,,1659.549,1665.681,"Well, we objected to the proof of claim which is akin to an answer, and yes--"
+2003.02-1389,1,15042,david_h_souter,scotus_justice,1665.681,1669.024,And one ground of your objection was under State law it's barred?
+2003.02-1389,1,20979,david_r_haberbush,,1669.024,1672.824,--Our objection was a fairly generic objection in all honesty--
+2003.02-1389,1,15049,antonin_scalia,scotus_justice,1672.824,1682.278,"So we're talking about did you ever say this claim is barred by... it... it is too late under this State statute of limitations, citing the State statute of limitations?"
+2003.02-1389,1,20979,david_r_haberbush,,1682.278,1682.65,"--Yes, we did."
+2003.02-1389,1,15049,antonin_scalia,scotus_justice,1682.65,1684.507,Would you provide us with--
+2003.02-1389,1,15049,antonin_scalia,scotus_justice,1684.507,1685.416,--Where can we find that in the record?
+2003.02-1389,1,15049,antonin_scalia,scotus_justice,1685.416,1686.076,Where will we find that?
+2003.02-1389,1,20979,david_r_haberbush,,1686.076,1691.732,I believe you'll find that at the... the district court level after the bankruptcy court.
+2003.02-1389,1,15049,antonin_scalia,scotus_justice,1691.732,1692.475,"Well, isn't the place to raise it in the bankruptcy court?"
+2003.02-1389,1,20979,david_r_haberbush,,1698.048,1699.784,"If indeed it is an affirmative defense, yes."
+2003.02-1389,1,15113,anthony_m_kennedy,scotus_justice,1709.072,1712.499,As a Federal--
+2003.02-1389,1,15113,anthony_m_kennedy,scotus_justice,1712.499,1717.207,"--Under California practice, I assume statute of limitations is an affirmative defense?"
+2003.02-1389,1,20979,david_r_haberbush,,1717.207,1718.943,"Yes, Your... Your Honor, it is."
+2003.02-1389,1,15139,stephen_g_breyer,scotus_justice,1785.073,1787.303,"This would be an odd State law, wouldn't it?"
+2003.02-1389,1,20979,david_r_haberbush,,1823.423,1830.815,"Your Honor, we believe the State statute is... is one that does not require exhaustion of remedies as against the partnership."
+2003.02-1389,1,15139,stephen_g_breyer,scotus_justice,1830.815,1831.968,It has nothing to do with exhaustion of remedies.
+2003.02-1389,1,15139,stephen_g_breyer,scotus_justice,1831.968,1842.249,"I'm... and I'm talking about States... the State insofar as it sees the partner as a guarantor of the liability that is created by a different entity, namely the partnership."
+2003.02-1389,1,20979,david_r_haberbush,,1856.739,1857.703,That would--
+2003.02-1389,1,15139,stephen_g_breyer,scotus_justice,1857.703,1864.373,There's no State law that says you have to sue the guarantor before the liability that he's guaranteeing is determined.
+2003.02-1389,1,20979,david_r_haberbush,,1864.373,1865.655,--That is correct.
+2003.02-1389,1,15139,stephen_g_breyer,scotus_justice,1865.655,1866.231,All right.
+2003.02-1389,1,20979,david_r_haberbush,,1868.089,1873.252,What we're arguing about here is that this is not a suretyship or a secondary liability--
+2003.02-1389,1,15139,stephen_g_breyer,scotus_justice,1873.252,1873.406,"Yes, yes."
+2003.02-1389,1,20979,david_r_haberbush,,1893.064,1896.324,"--Well, unless Federal law controls."
+2003.02-1389,1,15139,stephen_g_breyer,scotus_justice,1896.324,1896.862,Right.
+2003.02-1389,1,20979,david_r_haberbush,,1896.862,1900.556,"Unless these parties are taxpayers under Federal law, in which case--"
+2003.02-1389,1,15139,stephen_g_breyer,scotus_justice,1900.556,1900.722,"No, no."
+2003.02-1389,1,20979,david_r_haberbush,,1915.045,1915.667,--I think not.
+2003.02-1389,1,15139,stephen_g_breyer,scotus_justice,1915.667,1917.236,That's my... that's what I'm thinking.
+2003.02-1389,1,20979,david_r_haberbush,,1917.236,1917.525,I think not.
+2003.02-1389,1,15049,antonin_scalia,scotus_justice,1973.957,1988.779,"Do you have... have any cases for that, that a tax claim loses its character as a tax claim when relief is sought not against the person primarily liable but against somebody derivatively liable?"
+2003.02-1389,1,20979,david_r_haberbush,,1990.675,1992.987,"No, Your Honor, we do not have authority for that."
+2003.02-1389,1,15049,antonin_scalia,scotus_justice,1994.269,1995.505,I wouldn't expect you to find any.
+2003.02-1389,1,20979,david_r_haberbush,,1995.505,2009.13,"--However, if they are liable for the tax, this Court has already stated on a number of occasions, including the most recent case of U.S. v. Kraft, someone who is subject to the tax is someone who pays it, someone who is liable for it."
+2003.02-1389,1,15042,david_h_souter,scotus_justice,2039.678,2049.83,"No, but you say that they're taxpayers because they're partners, and therefore they... and... and that's why the... their... their right to an assessment can be claimed."
+2003.02-1389,1,20979,david_r_haberbush,,2070.801,2072.947,"--Well, Your Honor, I don't think that we do."
+2003.02-1389,1,15141,william_h_rehnquist,scotus_justice,2112.661,2115.634,We don't ordinarily decide questions of State law here.
+2003.02-1389,1,20979,david_r_haberbush,,2121.411,2123.269,"--Well, certainly that's true."
+2003.02-1389,1,15141,william_h_rehnquist,scotus_justice,2124.55,2125.543,"I said, we would think."
+2003.02-1389,1,20979,david_r_haberbush,,2126.119,2132.313,"--Well, thank you."
+2003.02-1389,1,15139,stephen_g_breyer,scotus_justice,2151.632,2153.257,The last part.
+2003.02-1389,1,20979,david_r_haberbush,,2163.354,2164.263,"Well, Your Honor--"
+2003.02-1389,1,15139,stephen_g_breyer,scotus_justice,2164.263,2166.947,"And State law makes them, in effect, guarantors of debts."
+2003.02-1389,1,20979,david_r_haberbush,,2174.088,2193.696,"--All of the cases referred to for the coterminous statute of limitations, which is what would be suggested would be applied here if in fact they are liable for this tax debt and therefore the provisions of the Internal Revenue Code apply, are all cases where specific enabling provisions created the liability of those persons."
+2003.02-1389,1,15084,ruth_bader_ginsburg,scotus_justice,2304.37,2309.777,"Whether they could or not, they're saying that the question here is a judicial action."
+2003.02-1389,1,20979,david_r_haberbush,,2309.777,2311.513,Well--
+2003.02-1389,1,15084,ruth_bader_ginsburg,scotus_justice,2311.513,2317.169,"And... and so maybe they're wrong and maybe they're right about that, but that's not before the Court."
+2003.02-1389,1,20979,david_r_haberbush,,2317.169,2328.519,"--That's not... that may not be before the Court, but the Government has taken the position the only way, the sole and single way, it can collect taxes is to file suits against partners."
+2003.02-1389,1,15042,david_h_souter,scotus_justice,2353.289,2360.432,It... it would also cause an enormous number of assessments to be made that ultimately would have no... no use.
+2003.02-1389,1,20979,david_r_haberbush,,2365.595,2371.372,"--Well, the amount of suits could be staggering as well to collect these kinds of taxes."
+2003.02-1389,1,15139,stephen_g_breyer,scotus_justice,2371.372,2373.851,What is the problem?
+2003.02-1389,1,20979,david_r_haberbush,,2441.012,2444.234,Very well.
+2003.02-1389,1,15141,william_h_rehnquist,scotus_justice,2512.881,2517.556,"Mr. Haberbush, do you defend the decision of the Ninth Circuit in this case?"
+2003.02-1389,1,20979,david_r_haberbush,,2517.556,2518.099,"--Yes, we do."
+2003.02-1389,1,15141,william_h_rehnquist,scotus_justice,2518.099,2524.953,"That in order to collect against the partners, an assessment would have to be made against them?"
+2003.02-1389,1,20979,david_r_haberbush,,2524.953,2527.759,"No, not within that specific limitation."
+2003.02-1389,1,15141,william_h_rehnquist,scotus_justice,2533.231,2540.54,"Well, I thought... I thought the reasoning of the Ninth Circuit was that you couldn't collect against the partners unless you assess them too."
+2003.02-1389,1,20979,david_r_haberbush,,2540.54,2556.765,"--To that extent, the opinion is wrong for the reason that it is a well-held proposition that suit or assessment may be brought under section 6501 within the 3-year period, so that it's not exclusively assessment that's involved."
+2003.02-1389,1,15060,john_paul_stevens,scotus_justice,2568.941,2572.369,And the filing of a claim in a bankruptcy court is insufficient because?
+2003.02-1389,1,20979,david_r_haberbush,,2572.369,2573.567,It's untimely.
+2003.02-1389,1,15060,john_paul_stevens,scotus_justice,2577.161,2578.851,So this is simply a statute of limitations case.
+2003.02-1389,1,20979,david_r_haberbush,,2578.851,2580.254,--That's our position.
+2003.02-1389,1,15092,sandra_day_oconnor,scotus_justice,2614.024,2630.371,"Mr. Haberbush, would you be able, after the argument, to furnish the Court with the places in the record available to us where it shows that you raised the State statute of limitations issue below?"
+2003.02-1389,1,20979,david_r_haberbush,,2630.371,2630.537,"--Yes, I can."
+2003.02-1389,1,15092,sandra_day_oconnor,scotus_justice,2630.537,2631.114,Thank you.
+2003.02-1389,1,20979,david_r_haberbush,,2631.114,2632.683,"Yes, I can."
+2003.02-1389,1,15084,ruth_bader_ginsburg,scotus_justice,2632.683,2640.802,Why shouldn't an assessment against the partnership be good as to the partners as well?
+2003.02-1389,1,20979,david_r_haberbush,,2652.807,2657.249,"Well, the assessment is the notation or recording of the liability."
+2003.02-1389,1,15084,ruth_bader_ginsburg,scotus_justice,2694.873,2703.789,Is it... does it... would it matter if in fact the partners knew... had received the... I assume that the notice and demand would come to the partnership.
+2003.02-1389,1,20979,david_r_haberbush,,2711.098,2714.646,"--Your Honor, that might make a difference."
+2003.02-1389,1,15084,ruth_bader_ginsburg,scotus_justice,2749.569,2751.798,But certainly they had actual notice.
+2003.02-1389,1,20979,david_r_haberbush,,2759.228,2760.593,"I don't disagree with that, Your Honor."
+2003.02-1389,1,15084,ruth_bader_ginsburg,scotus_justice,2771.737,2772.73,But you addressed it in your brief.
+2003.02-1389,1,20979,david_r_haberbush,,2777.764,2777.93,--Yes.
+2003.02-1389,1,15084,ruth_bader_ginsburg,scotus_justice,2856.775,2866.806,"It said that... but I thought Judge Easterbrook said that that was irrelevant, that there might have been a fact question about that whether there were individual assessments."
+2003.02-1389,1,20979,david_r_haberbush,,2869.656,2870.399,--That is correct.
+2003.02-1389,1,15084,ruth_bader_ginsburg,scotus_justice,3039.851,3043.277,Nothing would stop a partner from paying the tax.
+2003.02-1389,1,20979,david_r_haberbush,,3043.277,3045.218,"If the partner knows, that is correct."
+2003.02-1389,1,15113,anthony_m_kennedy,scotus_justice,3046.25,3049.389,Isn't it reasonable to assume most partners know what's happening in their business?
+2003.02-1389,1,20979,david_r_haberbush,,3049.389,3055.045,"--I don't know that it's unreasonable to assume that, but I suppose it is reasonable."
+2003.02-1389,1,15113,anthony_m_kennedy,scotus_justice,3063.757,3067.965,"Yes, but I... I would think, by and large, most partners know what's going on."
+2003.02-1389,1,20979,david_r_haberbush,,3071.559,3076.76,"--Unfortunately, I'm only involved in my law partnership and I know what's going on there."
+2003.02-1389,1,15049,antonin_scalia,scotus_justice,3077.753,3081.384,Maybe you shouldn't be a general partner if... if you're not prepared to know what's going on.
+2003.02-1389,1,20979,david_r_haberbush,,3088.815,3089.763,--That's exactly right.
+2003.02-1389,1,15049,antonin_scalia,scotus_justice,3089.763,3094.471,So don't become a general partner if you're not willing to know what's going on in the partnership.
+2003.02-1389,1,20979,david_r_haberbush,,3095.586,3098.27,"Well, Your Honor, I don't know whether that--"
+2003.02-1389,1,15049,antonin_scalia,scotus_justice,3098.27,3099.673,That's what it means to be a general partner.
+2003.02-1389,1,20979,david_r_haberbush,,3107.725,3115.693,"--Well, yes, it is, Your Honor, for the reason that does that mean that every partner has to go through every single piece of mail that enters the partnership and be familiar with every single thing that occurs?"
+2003.02-1389,1,15113,anthony_m_kennedy,scotus_justice,3115.693,3120.151,"No, but when you accumulate tax liabilities of several hundred thousand dollars, they ought to find that... be able to find that out."
+2003.02-1389,1,20979,david_r_haberbush,,3120.151,3123.95,"Well, Your Honor, these are over a number of quarters."
+2003.02-1389,1,15113,anthony_m_kennedy,scotus_justice,3126.634,3128.574,Which is all the more reason they should have known about it a lot earlier.
+2003.02-1389,1,20979,david_r_haberbush,,3128.574,3134.147,"Well, husbands oftentimes hide things from their wives who are a joint taxpayer as well."
+2003.02-1389,1,15084,ruth_bader_ginsburg,scotus_justice,3134.147,3139.432,But we're talking about a partnership that has not paid... what was it... FICA and FUTA taxes.
+2003.02-1389,1,20979,david_r_haberbush,,3145.748,3147.317,There's nothing in the record that suggests--
+2003.02-1389,1,15049,antonin_scalia,scotus_justice,3147.317,3149.258,Who was responding to these letters from the Government?
+2003.02-1389,1,20979,david_r_haberbush,,3150.167,3151.653,--Your Honor--
+2003.02-1389,1,15049,antonin_scalia,scotus_justice,3151.653,3155.824,"I mean, does she take it in to... to her boss who was presumably one of the general partners and say, hey, you know--"
+2003.02-1389,1,20979,david_r_haberbush,,3155.824,3156.446,--If it's a--
+2003.02-1389,1,15049,antonin_scalia,scotus_justice,3156.446,3157.765,--the Government says we owe a lot of money.
+2003.02-1389,1,20979,david_r_haberbush,,3157.765,3161.563,"--If it's a managing... if it's a managing general partner, I assume that that's the case."
+2003.02-1389,1,15113,anthony_m_kennedy,scotus_justice,3175.121,3182.285,"No, but you shouldn't rely on the United States Government to tell you what you... how your financial affairs are coming along and be the primary source of information."
+2003.02-1389,1,20979,david_r_haberbush,,3182.285,3192.21,"That may be so, but if the... if the Government were required to do so, partners would at every point in time be encouraged to cause the partnership to meet its financial obligations."
+2003.02-1389,1,15049,antonin_scalia,scotus_justice,3192.21,3195.083,It doesn't place that kind of a burden on the partners that you're talking about.
+2003.02-1389,1,20979,david_r_haberbush,,3197.312,3198.677,"Well, that's... that's correct."
+2003.02-1389,1,15049,antonin_scalia,scotus_justice,3198.677,3205.447,But... but the problem is they're going to be liable for whatever debts are incurred by the partnership if they don't do it.
+2003.02-1389,1,20979,david_r_haberbush,,3206.683,3211.02,"Well, Your Honor, and looking at burdens there is no... there is no insignificant... excuse me."
+2003.02-1389,1,15042,david_h_souter,scotus_justice,3221.051,3225.509,And it's not a very significant burden to a partner to say you better make sure they're paying the taxes.
+2003.02-1389,1,20979,david_r_haberbush,,3225.509,3226.874,"Well, of course."
+2003.02-1389,1,15042,david_h_souter,scotus_justice,3231.704,3233.356,You better be careful who you form a partnership--
+2003.02-1389,1,20979,david_r_haberbush,,3233.356,3236.617,"--Well, yes, and there are cases cited in the briefs that say exactly that."
+2003.02-1389,1,15060,john_paul_stevens,scotus_justice,3252.304,3254.245,--Does an assessment affect your credit rating?
+2003.02-1389,1,20979,david_r_haberbush,,3254.245,3256.846,"--Yes, it does."
+2003.02-1389,1,15060,john_paul_stevens,scotus_justice,3257.772,3259.447,So... so you want... all right.
+2003.02-1389,1,15141,william_h_rehnquist,scotus_justice,3259.447,3261.926,"Thank you, Mr. Haberbush."
+2003.02-1389,1,20979,david_r_haberbush,,3261.926,3262.502,Thank you.
+2003.02-1389,2,33864,kent_l_jones,,3264.527,3267.786,Thank you.
+2003.02-1389,2,15139,stephen_g_breyer,scotus_justice,3382.132,3383.535,"See, that's what I'm really wondering about."
+2003.02-1389,2,33864,kent_l_jones,,3401.162,3407.933,"The reason it should be Federal is because all of these actions are designed, as the Court stressed in Updike, to collect the tax."
+2003.02-1389,2,15084,ruth_bader_ginsburg,scotus_justice,3525.749,3536.811,"Mr. Jones, why isn't Mr. Haberbush right at least when he says everybody would be better off if you went ahead and listed the partners as well on the assessment and gave them notice and demand?"
+2003.02-1389,2,33864,kent_l_jones,,3543.377,3546.925,"--I think it's a question for Congress what's... you know, what makes everybody better off."
+2003.02-1389,2,15084,ruth_bader_ginsburg,scotus_justice,3556.585,3563.189,Do you think you're impeded that you have no authority to give the partners notice individually?
+2003.02-1389,2,33864,kent_l_jones,,3563.189,3575.549,"We... well, we have authority to give them notice of an assessment and collect from them administratively, but in terms of, if you will, making an assessment them directly, we're supposed to assess the party whose subject to the tax."
+2003.02-1389,2,15141,william_h_rehnquist,scotus_justice,3575.549,3576.442,"Thank you, Mr. Jones."

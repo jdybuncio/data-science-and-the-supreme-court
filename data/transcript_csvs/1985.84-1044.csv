@@ -1,0 +1,51 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1985.84-1044,0,15073,warren_e_burger,scotus_justice,0.0,74.564,"Mr. Harris, I think you may proceed whenever your are ready now."
+1985.84-1044,0,39568,robert_l_harris,,74.564,79.625,"Mr. Chief Justice, and may it please the Court:"
+1985.84-1044,0,15141,william_h_rehnquist,scotus_justice,188.144,189.519,What case holds that?
+1985.84-1044,0,39568,robert_l_harris,,189.519,196.423,"First National Bank of Boston versus Bellotti, decided in 1978."
+1985.84-1044,0,15141,william_h_rehnquist,scotus_justice,229.066,239.485,Did that case hold that the kind of Wooley versus Maynard type of First Amendment rights the right not to carry a message you don't agree with applied to corporations?
+1985.84-1044,0,39568,robert_l_harris,,239.485,243.405,That case was not faced with that issue.
+1985.84-1044,0,15141,william_h_rehnquist,scotus_justice,243.405,244.435,"Do, it didn't hold it?"
+1985.84-1044,0,39568,robert_l_harris,,244.435,250.87,It did not hold that a person had a right... that a corporation had a right not to carry somebody else's message.
+1985.84-1044,0,15141,william_h_rehnquist,scotus_justice,250.87,255.307,"So, what case of ours do you rely for that proposition?"
+1985.84-1044,0,39568,robert_l_harris,,255.307,270.627,"There is no case that specifically holds that in the case of a corporation, however, we do rely heavily upon at least two cases, Miami Herald versus Tornillo and Wooley versus Maynard."
+1985.84-1044,0,15073,warren_e_burger,scotus_justice,311.549,324.871,"Do you think there is a difference between a newspaper, which is not a regulated enterprise, and a public utility, which is quite strictly regulated, a difference for these purposes?"
+1985.84-1044,0,39568,robert_l_harris,,324.871,332.493,"For these purposes, I think that the same principle that applies in Tornillo should apply here."
+1985.84-1044,0,15073,warren_e_burger,scotus_justice,379.911,384.675,"Yes, but hasn't the Court distinguished between different kinds of media?"
+1985.84-1044,0,39568,robert_l_harris,,403.824,416.804,"In the case of Red Lion, there Red Lion did not rest upon the basis that the broadcasters had a monopoly."
+1985.84-1044,0,15092,sandra_day_oconnor,scotus_justice,443.745,457.553,"Mr. Harris, do you concede that the Public Utilities Commission can require PG&E to carry in its billing envelopes notices of public rate hearings or things of that kind?"
+1985.84-1044,0,39568,robert_l_harris,,457.553,461.629,"Justice O'Connor, we have, indeed, carried such notices."
+1985.84-1044,0,15092,sandra_day_oconnor,scotus_justice,462.549,471.452,"Well, I am asking if you concede whether the Public Utilities Commission can properly, under the First Amendment, require the company to do that?"
+1985.84-1044,0,39568,robert_l_harris,,471.452,473.045,"Yes, we do concede that."
+1985.84-1044,0,15092,sandra_day_oconnor,scotus_justice,473.045,475.467,"And, why is that different in your view?"
+1985.84-1044,0,39568,robert_l_harris,,475.467,513.764,"That is different because in the case of a government notice, here an informational notice, informing utility customers that a hearing is going to be on such and such date or that there is a public health or safety matter pending somewhere concerning the utility, it is quite different from compelling PG&E to carry in its billing envelope the fund raising message of a third party unregulated by the Commission, a third party who is free to--"
+1985.84-1044,0,15140,william_j_brennan_jr,scotus_justice,513.764,529.024,"Does this argument suggest, Mr. Harris, that the PUC order that we have before us, you would not object to it if they permitted TURN to insert only factual matter that dealt with the public utility business?"
+1985.84-1044,0,39568,robert_l_harris,,529.024,530.897,"--No, it would not, Justice Brennan."
+1985.84-1044,0,15140,william_j_brennan_jr,scotus_justice,536.613,549.937,I asked you that question because I thought you answered Justice O'Connor that the PUC could require you to insert matter that dealt with rates.
+1985.84-1044,0,39568,robert_l_harris,,549.937,557.043,"--As I understand Justice O'Connor, it was whether or not we could be compelled to carry a state's notice."
+1985.84-1044,1,35811,mark_fogelman,,1617.834,1623.066,"Thank you, Mr. Chief Justice, and may it please the Court:"
+1985.84-1044,1,15073,warren_e_burger,scotus_justice,1625.659,1628.564,"Would you raise your voice some, Mr. Fogelman?"
+1985.84-1044,1,35811,mark_fogelman,,1628.564,1628.954,"--Yes, Your Honor."
+1985.84-1044,1,15073,warren_e_burger,scotus_justice,1681.527,1683.745,"Well, to some extent, for the stop orders too, isn't there?"
+1985.84-1044,1,35811,mark_fogelman,,1683.745,1685.417,"--Not really, Your Honor, because--"
+1985.84-1044,1,15073,warren_e_burger,scotus_justice,1685.417,1687.524,Doesn't it produce the revenue?
+1985.84-1044,1,35811,mark_fogelman,,1690.133,1698.738,"--Well, it is an operating expense and all of their operating expenses are recovered in rates, I believe."
+1985.84-1044,1,15073,warren_e_burger,scotus_justice,1698.738,1703.956,"--Well, aren't the operating expenses shared by the rate payers and the stockholders?"
+1985.84-1044,1,35811,mark_fogelman,,1703.956,1708.985,It is my understanding that 100 percent of operating expenses would be recovered.
+1985.84-1044,1,15073,warren_e_burger,scotus_justice,1716.137,1723.979,What are the limits on how this authority of the Commission can be used?
+1985.84-1044,1,35811,mark_fogelman,,1723.979,1741.174,The Commission is limited by its state-authorized authority under the State Constitution and it is limited by the United States Constitution.
+1985.84-1044,1,15073,warren_e_burger,scotus_justice,1773.177,1775.879,Who is going to define those limits?
+1985.84-1044,1,35811,mark_fogelman,,1775.879,1779.158,"Your Honor, ultimately the Commission will do so."
+1985.84-1044,1,15073,warren_e_burger,scotus_justice,1779.158,1804.695,"Suppose someone comes in and says here is a... in the next election there is going to be a recall of three state Supreme Court Justices on the ballot and we aren't taking any position as to whether they should be recalled or not recalled, but here we want this message put in that you should be sure to vote on this because that is a exercise of your right to control your public servants, including the courts."
+1985.84-1044,1,35811,mark_fogelman,,1806.352,1810.054,"Well, under this program they certainly wouldn't and that is the only--"
+1985.84-1044,1,15073,warren_e_burger,scotus_justice,1810.054,1811.896,"I didn't get that, under what?"
+1985.84-1044,1,35811,mark_fogelman,,1811.896,1814.395,"--Under this program, they certainly would not."
+1985.84-1044,1,15073,warren_e_burger,scotus_justice,1814.395,1814.786,Why not?
+1985.84-1044,1,35811,mark_fogelman,,1814.786,1829.795,"Because the purpose of this program, the primary purpose, the reason why the state has done what it has done here, is to permit consumer groups to solicit funds to increase their participation in Commission proceedings involving PG&E."
+1985.84-1044,1,15071,byron_r_white,scotus_justice,1841.181,1859.579,"Well, the predicate for its act was though that... for the order was that the space belongs to the consumer, and, hence, we will act as proxy for the consumer and send them out something that we think they might be interested in."
+1985.84-1044,1,35811,mark_fogelman,,1859.579,1860.564,"Well, Your Honor--"
+1985.84-1044,1,15071,byron_r_white,scotus_justice,1860.564,1873.495,"Based on that I wouldn't think the utility... doesn't own the space, I wouldn't think the utility would have standing to object to whatever it was the--"
+1985.84-1044,1,35811,mark_fogelman,,1873.495,1880.806,"--Your Honor, there is no question in our mind that the determination of rate payer property is an independent basis for the decision."
+1985.84-1044,2,39568,robert_l_harris,,3406.628,3410.83,"Mr. Chief Justice, and may it please the Court:"
+1985.84-1044,2,15071,byron_r_white,scotus_justice,3466.198,3474.087,You wouldn't ask us though here to second guess a state court on what is the property interest?
+1985.84-1044,2,39568,robert_l_harris,,3474.087,3474.727,"No, no."

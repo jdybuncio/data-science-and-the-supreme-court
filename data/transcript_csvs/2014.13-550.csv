@@ -1,0 +1,75 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2014.13-550,0,15086,john_g_roberts_jr,scotus_justice,0.0,7.82,"We'll hear argument next today in 13-550, Tibble v. Edison International. Mr. Frederick."
+2014.13-550,1,30716,jonathan_hacker,,1507.745,1519.36,"Mr. Chief Justice, and may it please the Court: I agree to be sure that there are no serious differences between the parties with respect to the core legal question on which this Court granted review."
+2014.13-550,1,15094,elena_kagan,scotus_justice,1525.49,1526.62,"Mr. Hacker, I don't know what that means."
+2014.13-550,1,30716,jonathan_hacker,,1535.19,1538.98,We -- we are not supporting that position because that's not the Ninth Circuit's position.
+2014.13-550,1,15084,ruth_bader_ginsburg,scotus_justice,1559.28,1560.67,"Well, the district court said more than that."
+2014.13-550,1,30716,jonathan_hacker,,1619.08,1629.54,"With all due respect, Justice Ginsburg, the district court opinion does not say that. It cites the Phillips case on page 180, describes the holding of Phillips."
+2014.13-550,1,15113,anthony_m_kennedy,scotus_justice,1643.06,1644.18,Where -- where are you reading from?
+2014.13-550,1,30716,jonathan_hacker,,1644.18,1659.785,"Page 180 of the Petition Appendix. ""The Court"" -- and it goes onto say, ""The Court said that although the trustee's conduct could be viewed as a series of breaches, the statute of limitations did not begin anew because each breach was of the same character."" It's referring back to the failure to rectify."
+2014.13-550,1,15084,ruth_bader_ginsburg,scotus_justice,1686.02,1692.47,"Mr. Hacker, Mr. Frederick cited Petition Appendix page 18 and 19."
+2014.13-550,1,30716,jonathan_hacker,,1692.47,1692.82,Right.
+2014.13-550,1,15084,ruth_bader_ginsburg,scotus_justice,1692.82,1702.84,He said that is a statement of the Ninth Circuit law that Petitioners think is incorrect and that they would like to have this Court correct.
+2014.13-550,1,30716,jonathan_hacker,,1702.84,1739.33,"A couple points on that one if I may, Your Honor. First of all, the passage that Mr. Frederick pointed to on page 18 says, ""Characterizing the mere continued offering of a plan option"" -- and I agree with him, the key words are the next two that follow -- ""without more as a subsequent breach would render the"" -- ""the statute meaningless,"" et cetera, et cetera. The ""without more"" is clearly referring to establishing a breach of the duty to monitor in that process. If you don't come into court and show that there was a problem or flaw in the monitoring process, you can't win a claim -- a challenge to the monitoring process."
+2014.13-550,1,15068,samuel_a_alito_jr,scotus_justice,1759.68,1763.44,On what point -- on what point of law do you and Mr. Frederick now disagree?
+2014.13-550,1,30716,jonathan_hacker,,1763.44,1766.74,We certainly don't disagree on the -- the question presented.
+2014.13-550,1,15094,elena_kagan,scotus_justice,1811.63,1812.36,"No, I don't think --"
+2014.13-550,1,15068,samuel_a_alito_jr,scotus_justice,1812.36,1817.75,"I mean -- I mean, at a higher level of -- level of abstraction than that."
+2014.13-550,1,30716,jonathan_hacker,,1843.495,1845.42,Not a word of it.
+2014.13-550,1,15094,elena_kagan,scotus_justice,1845.42,1849.32,"Well, Mr. Hacker, here's what you say -- here's what you say in your brief."
+2014.13-550,1,30716,jonathan_hacker,,1867.335,1886.195,"That's -- that comes straight out of trust law, because that is what the typical duty to monitor is what you're looking for are significant changes because, as Mr. Frederick says, and I fully agree, how else -- I think it was Ms. Saharsky, actually -- how else would you know if there had been changes if you're not looking for them? We are not suggesting -- I think Ms. Saharsky was wrong about this."
+2014.13-550,1,15094,elena_kagan,scotus_justice,1889.88,1900.07,"As I see the difference, you say you're monitoring only for significant changes in the value and risks of the investment, and they're saying, look, you have this periodic duty."
+2014.13-550,1,30716,jonathan_hacker,,1925.425,1925.71,Right.
+2014.13-550,1,15094,elena_kagan,scotus_justice,2019.1,2034.185,"Now, really, are you saying -- what kind of disruption could be worth, on an ongoing basis, for people who have invested in funds for 30 and 40 years and where there's a significant difference in fees, what kind of disruption could be worth the price of that?"
+2014.13-550,1,30716,jonathan_hacker,,2034.185,2037.37,"Well, but -- but the problem is -- and this is the third point I was going to make, is --"
+2014.13-550,1,15094,elena_kagan,scotus_justice,2037.37,2039.84,"Well, why don't you answer that one? (Laughter.)"
+2014.13-550,1,30716,jonathan_hacker,,2039.84,2044.44,"Well, because it's not just -- it's -- it's oversimplifying the kind of disruption we're talking about."
+2014.13-550,1,15139,stephen_g_breyer,scotus_justice,2094.06,2094.76,That's -- that's the nature or --
+2014.13-550,1,30716,jonathan_hacker,,2094.76,2095.57,-- institutional-share class.
+2014.13-550,1,15139,stephen_g_breyer,scotus_justice,2095.57,2124.54,"You're talking about the nature of the fiduciary's duty to continuously monitor. Isn't that your subject? I'd like before doing that, since you seem to agree there is some such duty, but you may disagree of what it consists of and nobody so far in the lower courts has really gone into that, probably we should send it back on that, say they agree about that. But then you want it dismissed because you say that that issue wasn't fairly raised."
+2014.13-550,1,30716,jonathan_hacker,,2145.53,2145.75,Yes.
+2014.13-550,1,15139,stephen_g_breyer,scotus_justice,2145.75,2150.245,"They're quoting the Seventh Circuit. So when I read that, they're making the argument pretty clearly."
+2014.13-550,1,30716,jonathan_hacker,,2204.51,2204.85,Right.
+2014.13-550,1,15139,stephen_g_breyer,scotus_justice,2229.35,2262.615,"Well, what you say, I have this that you said. The Ninth Circuit held that a statute -- that ""a claim challenging the selection of mutual funds"" -- da, da, da -- ""is barred by the six-year statute if the claim challenges funds that were selected more than six years before, and the claim does not allege that any materially new circumstances arose within the previous six years."" So that sounds like the very characterization of the Ninth Circuit that they are saying was mistaken."
+2014.13-550,1,30716,jonathan_hacker,,2262.615,2262.96,Right.
+2014.13-550,1,15139,stephen_g_breyer,scotus_justice,2262.96,2268.62,So it seems as if you are agreeing that the Ninth Circuit made a mistake.
+2014.13-550,1,30716,jonathan_hacker,,2295.535,2296.01,Well --
+2014.13-550,1,15139,stephen_g_breyer,scotus_justice,2296.01,2298.09,-- and -- and you agree what the right holding is.
+2014.13-550,1,30716,jonathan_hacker,,2302.02,2305.025,"Well, there are a few problems in that, but most of them just quibbles."
+2014.13-550,1,15084,ruth_bader_ginsburg,scotus_justice,2333.14,2341.02,"Because they thought that was the circuit law, that they had to show changed circumstance; otherwise, they wouldn't have a monitoring claim."
+2014.13-550,1,30716,jonathan_hacker,,2341.02,2344.47,"There was no circuit law like that, there was no precedent saying that."
+2014.13-550,1,15139,stephen_g_breyer,scotus_justice,2410.54,2411.13,What about this --
+2014.13-550,1,30716,jonathan_hacker,,2411.13,2412.45,They never pointed to any changed circumstances.
+2014.13-550,1,15139,stephen_g_breyer,scotus_justice,2412.45,2418.28,"-- about this result? Two paragraphs: The parties agree that there is this ongoing monitoring, et cetera."
+2014.13-550,1,30716,jonathan_hacker,,2437.07,2439.31,That would -- I don't disagree with most of that.
+2014.13-550,1,15094,elena_kagan,scotus_justice,2461.45,2466.735,"Mr. Hacker, here is what you argued to the Ninth Circuit -- what you argued to the Ninth Circuit."
+2014.13-550,1,30716,jonathan_hacker,,2521.98,2542.77,"The last point I was going to make, which I didn't get a chance to get back to it, Justice Breyer, was we do think it's appropriate, if you don't like the language that the Ninth Circuit used, if you it don't read it the way I do, and think that the Ninth Circuit is announcing a categorical rule that says nobody can proceed on a monitoring challenge unless they approve changed circumstances, that's not the argument we believe is the correct argument."
+2014.13-550,1,15094,elena_kagan,scotus_justice,2547.47,2548.11,That was -- that was --
+2014.13-550,1,30716,jonathan_hacker,,2548.11,2549.6,But if you -- if you disagree with that --
+2014.13-550,1,15094,elena_kagan,scotus_justice,2549.6,2550.51,-- page 22.
+2014.13-550,1,30716,jonathan_hacker,,2558.73,2560.51,That's during the periodic monitoring process.
+2014.13-550,1,15113,anthony_m_kennedy,scotus_justice,2616.83,2621.09,"Well, you certainly do, if that's what a prudent trustee would do."
+2014.13-550,1,30716,jonathan_hacker,,2621.09,2628.96,"And there's no evidence, in all of the trust -- none of the trust law sources, zero of them that either side cites, suggests that that's what a prudent fiduciary would do."
+2014.13-550,1,15084,ruth_bader_ginsburg,scotus_justice,2690.38,2696.1,How about just saying that the changed circumstances seems to have confused everybody? The Ninth Circuit used it.
+2014.13-550,1,30716,jonathan_hacker,,2704.07,2706.4,And that was the point I was getting to earlier.
+2014.13-550,1,15084,ruth_bader_ginsburg,scotus_justice,2819.99,2821.735,He didn't say the cheapest fund.
+2014.13-550,1,30716,jonathan_hacker,,2829.745,2838.145,"Well, the only difference with respect to the particular fund, I don't disagree, is the -- is the fees."
+2014.13-550,1,15094,elena_kagan,scotus_justice,2873.42,2874.39,"No, I don't think he said that."
+2014.13-550,1,30716,jonathan_hacker,,2892.75,2903.245,"I understood the question to be more -- the question and the answer to be more general. But it's even better if you talk about this specific case because there is evidence on it, which tells you, by the way, that there was a trial on this and they understood they could do it."
+2014.13-550,1,15094,elena_kagan,scotus_justice,2942.61,2943.37,How might a lessor of --
+2014.13-550,1,15086,john_g_roberts_jr,scotus_justice,2943.37,2952.11,"How was there investor confusion? It seems to me one sentence saying, well, we have been paying .3 percent, this is .2 percent, that's why we're changing."
+2014.13-550,1,30716,jonathan_hacker,,2957.56,2960.13,"But it was -- first of all, that's contrary."
+2014.13-550,1,15094,elena_kagan,scotus_justice,2976.93,2979.13,They don't like changes. They would rather have fees?
+2014.13-550,1,30716,jonathan_hacker,,2979.13,2982.25,"No, what they care about is performance, and this is performance --"
+2014.13-550,1,15094,elena_kagan,scotus_justice,2982.25,2983.68,Mr. Hacker -- MR. HACKER -- fee.
+2014.13-550,1,15094,elena_kagan,scotus_justice,2983.68,2996.92,"-- the day when you get from your mutual funds a notice that says, by the way, you're a preferred investor, we're switching you, it's the exact same fund under a different name, now you don't pay fees -- that's a red-letter day for an investor."
+2014.13-550,1,30716,jonathan_hacker,,2996.92,2999.06,But that's not how it works in this situation.
+2014.13-550,1,15068,samuel_a_alito_jr,scotus_justice,3048.65,3056.555,"With respect to all or some of these funds, did the plan qualify for the institutional shares or did it have to get a waiver from the administrator?"
+2014.13-550,1,30716,jonathan_hacker,,3056.555,3058.4,That was an issue tried at trial.
+2014.13-550,1,15068,samuel_a_alito_jr,scotus_justice,3102.36,3107.5,"Just so I understand this, you're saying that as to some funds, it was necessary to get a waiver."
+2014.13-550,1,30716,jonathan_hacker,,3111.16,3117.96,"As to the three funds that remain in the case, the record is not clear on that. There was inquiries, the court asked about that, and there wasn't evidence."
+2014.13-550,1,15068,samuel_a_alito_jr,scotus_justice,3137.52,3144.44,This is a very big pension plan and it seems odd that it would not have enough funds to qualify for institutional shares.
+2014.13-550,1,30716,jonathan_hacker,,3152.075,3152.33,Right.
+2014.13-550,1,15068,samuel_a_alito_jr,scotus_justice,3187.94,3192.13,"That seems like a potentially important point, but maybe it's not."
+2014.13-550,1,30716,jonathan_hacker,,3223.19,3225.43,But these are exactly the kinds of things you would have a trial about.
+2014.13-550,1,15086,john_g_roberts_jr,scotus_justice,3313.045,3317.655,"Thank you, counsel. Mr. Frederick, four minutes."

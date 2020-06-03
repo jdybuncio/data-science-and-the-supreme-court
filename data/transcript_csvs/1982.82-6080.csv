@@ -1,0 +1,262 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1982.82-6080,0,15073,warren_e_burger,scotus_justice,0.0,7.121,We will hear arguments next in Barefoot against Estelle.
+1982.82-6080,0,30616,jack_greenberg,,114.248,139.146,"Mr. Chief Justice, and may it please the Court, I shall argue first as a friend of the Court on the issue of standards for granting stays of execution on denials of petitions for writ of habeas corpus in capital case, and Mr. Gray shall argue for the Petitioner on the merits of the case with regard to the admissibility of the psychiatric testimony."
+1982.82-6080,0,15141,william_h_rehnquist,scotus_justice,211.674,216.11,"Mr. Greenberg, do those two actions strike you as being at all inconsistent?"
+1982.82-6080,0,30616,jack_greenberg,,216.11,217.015,--Yes.
+1982.82-6080,0,15073,warren_e_burger,scotus_justice,347.003,353.831,"I have a little difficulty, Mr. Greenberg, tracking the matter of the substitution of the judge."
+1982.82-6080,0,30616,jack_greenberg,,356.221,365.405,"--Such preparation as the judge might have been able to make even on that short notice was not possible for Judge Randall, who just showed up at the last moment, certainly through not fault of her own."
+1982.82-6080,0,15073,warren_e_burger,scotus_justice,365.405,379.272,"Well, you must be aware that, for example, one Justice of this Court for many years came on the bench without knowing anything but the name of the case, and did so deliberately."
+1982.82-6080,0,30616,jack_greenberg,,383.147,393.579,"No, I certainly was not suggesting it was a disqualification, but certainly it was an indication of not adequate opportunity for study and reflection on a matter that was complex and difficult."
+1982.82-6080,0,15073,warren_e_burger,scotus_justice,393.579,398.375,But a matter that had been through the state court systems up to that time.
+1982.82-6080,0,30616,jack_greenberg,,398.375,411.04,"The matter had been through the state court system, but Petitioner had a Congressionally mandated statutory right to federal habeas corpus review of his constitutional claims in the federal courts and had not yet had that."
+1982.82-6080,0,15092,sandra_day_oconnor,scotus_justice,446.012,455.102,"Mr. Greenberg, I know you stress first application, but there just isn't anything in the rules or the statute that refer to the first application, and I--"
+1982.82-6080,0,30616,jack_greenberg,,455.102,457.976,"--But there is something that refers to second application, and that is--"
+1982.82-6080,0,15092,sandra_day_oconnor,scotus_justice,457.976,459.005,--distinguish.
+1982.82-6080,0,30616,jack_greenberg,,459.005,466.22,"--There is something that refers to second application, and that is the Rule 9(b) of the rules governing federal habeas corpus."
+1982.82-6080,0,15092,sandra_day_oconnor,scotus_justice,468.5,477.98,But nothing as far as the rules concerning the stay are concerned that would limit it to a first application.
+1982.82-6080,0,30616,jack_greenberg,,477.98,488.743,"--Well, but he is not going to have... he is not going to have his hearing unless he gets a stay, because he will be executed before his case has been heard on the merits, so the two are intimately involved one with another."
+1982.82-6080,0,15092,sandra_day_oconnor,scotus_justice,488.743,500.099,"Well, but I think we have to be conscious of the fact that there are successive petitions typically filed, and we will have to address this for successive petitions."
+1982.82-6080,0,30616,jack_greenberg,,500.099,512.077,"I do not for a moment suggest that a successive petition requires the same consideration that an initial petition requires, although some successive petitions have succeeded in the Courts of Appeals, and indeed in this Court, so they are not all to be viewed as automatically--"
+1982.82-6080,0,15141,william_h_rehnquist,scotus_justice,512.077,518.933,"Well, then, how would you distinguish them, as opposed to just saying you don't see why one would have to be treated the same as the other for stay purposes?"
+1982.82-6080,0,30616,jack_greenberg,,518.933,522.856,--I think a successive petition deserves much more cursory treatment.
+1982.82-6080,0,15073,warren_e_burger,scotus_justice,739.214,746.447,Very well.
+1982.82-6080,1,44833,william_e_gray_jr,,747.352,765.956,"Mr. Chief Justice, and may it please the Court, the state in this case put on at the guilt stage of the trial... Texas has a bifurcated procedure in capital cases... put on all of the evidence that was later incorporated in the hypothetical questions to two psychiatrists."
+1982.82-6080,1,15045,harry_a_blackmun,scotus_justice,840.004,841.548,"Is now deceased, did you say?"
+1982.82-6080,1,44833,william_e_gray_jr,,841.548,842.753,"--Yes, Your Honor."
+1982.82-6080,1,15073,warren_e_burger,scotus_justice,899.792,903.336,"Well, the jury could disbelieve the testimony, could they not?"
+1982.82-6080,1,44833,william_e_gray_jr,,903.336,929.357,"They... well, not under the... there is nothing a defendant can present under the Texas procedure in mitigation of punishment unless it bears directly on future dangerousness, and even then, when he introduces such evidence, there are no provisions whatsoever in the Texas law that the jury be instructed to consider that mitigating evidence or to balance the mitigating evidence against the aggravating facts of the case."
+1982.82-6080,1,15141,william_h_rehnquist,scotus_justice,929.357,939.508,"Well, Mr. Gray, couldn't you cross examine the psychiatrist and on the basis of your cross examination urge to the jury that his opinion out not to be credited by them?"
+1982.82-6080,1,44833,william_e_gray_jr,,939.508,940.401,Well--
+1982.82-6080,1,15141,william_h_rehnquist,scotus_justice,940.401,942.6,Could you or could you not?
+1982.82-6080,1,44833,william_e_gray_jr,,942.6,947.99,--You could not do it and protect a defendant's constitutional rights.
+1982.82-6080,1,15141,william_h_rehnquist,scotus_justice,957.266,958.767,I said cross examine.
+1982.82-6080,1,44833,william_e_gray_jr,,960.686,961.126,--All right.
+1982.82-6080,1,15141,william_h_rehnquist,scotus_justice,973.933,978.947,Can't you argue that fact to the jury as a reason for not crediting his testimony?
+1982.82-6080,1,44833,william_e_gray_jr,,978.947,979.961,"You can argue it, but--"
+1982.82-6080,1,15141,william_h_rehnquist,scotus_justice,979.961,981.79,"Well, you said you couldn't argue it."
+1982.82-6080,1,44833,william_e_gray_jr,,982.914,994.737,"--Well, no, you can't... you can't present any mitigating evidence, and if you bring on... you can't get any other psychiatrist to testify, because they don't believe that any predictions of future dangerousness can be made."
+1982.82-6080,1,15092,sandra_day_oconnor,scotus_justice,997.252,1000.516,"Well, couldn't you put someone on the stand to say so?"
+1982.82-6080,1,44833,william_e_gray_jr,,1008.28,1011.621,"--Well, then you are not balancing one psychiatric opinion against another."
+1982.82-6080,1,15092,sandra_day_oconnor,scotus_justice,1014.043,1015.743,"But you could do that, could you not?"
+1982.82-6080,1,44833,william_e_gray_jr,,1015.743,1016.429,"--You can do that, surely."
+1982.82-6080,1,15092,sandra_day_oconnor,scotus_justice,1016.429,1016.835,Yes.
+1982.82-6080,1,44833,william_e_gray_jr,,1016.835,1019.381,If the lawyers are prepared to do so.
+1982.82-6080,1,15092,sandra_day_oconnor,scotus_justice,1029.489,1036.016,"Well, the state of Texas not pay for expert witnesses for a defendant in a capital case?"
+1982.82-6080,1,44833,william_e_gray_jr,,1036.016,1040.797,"They will pay up to $500, and you can't get a psychiatrist to come in off the street for $500."
+1982.82-6080,1,15119,lewis_f_powell_jr,scotus_justice,1105.693,1118.327,"Are you arguing, Mr. Gray, that the state should not be permitted to introduce any psychiatric testimony even from acknowledged national experts?"
+1982.82-6080,1,44833,william_e_gray_jr,,1118.327,1122.309,"Well, I don't think we have to go that far in this case."
+1982.82-6080,1,15119,lewis_f_powell_jr,scotus_justice,1172.711,1175.051,But you are saying it is unconstitutional to use it?
+1982.82-6080,1,44833,william_e_gray_jr,,1175.051,1188.25,"I am saying, given what this Court has held, that a more strict determination is required in capital cases, I submit that it is inadmissible."
+1982.82-6080,1,15104,thurgood_marshall,scotus_justice,1198.01,1203.805,"Mr. Gray, you don't emphasize the fact that this first man didn't testify as an expert."
+1982.82-6080,1,44833,william_e_gray_jr,,1205.337,1205.977,--He did.
+1982.82-6080,1,15104,thurgood_marshall,scotus_justice,1206.663,1207.256,Both of them did.
+1982.82-6080,1,44833,william_e_gray_jr,,1207.256,1208.336,--He did not give his opinion.
+1982.82-6080,1,15104,thurgood_marshall,scotus_justice,1229.186,1231.717,There was not... They didn't examine Barefoot?
+1982.82-6080,1,44833,william_e_gray_jr,,1231.717,1233.09,They did not examine him.
+1982.82-6080,1,15073,warren_e_burger,scotus_justice,1245.007,1259.19,"Are you representing to us, Mr. Gray, that in Texas for $500 you could not get a psychiatrist to come in and challenge the testimony of this particular psychiatrist?"
+1982.82-6080,1,44833,william_e_gray_jr,,1259.19,1261.206,I don't know of any.
+1982.82-6080,1,15045,harry_a_blackmun,scotus_justice,1314.621,1318.135,Where does Dr. Grigson practice?
+1982.82-6080,1,44833,william_e_gray_jr,,1318.135,1326.476,"--He practices... I think he has an office in Dallas, but he practices all over the state, wherever the prosecution needs his type of testimony."
+1982.82-6080,1,15045,harry_a_blackmun,scotus_justice,1326.476,1330.644,Has the medical association ever zeroed in on him?
+1982.82-6080,1,44833,william_e_gray_jr,,1330.644,1332.411,I am not sure about that.
+1982.82-6080,1,15092,sandra_day_oconnor,scotus_justice,1348.527,1353.807,"Well, I suppose you can bring that out on cross examination and let the jury know that."
+1982.82-6080,1,44833,william_e_gray_jr,,1353.807,1354.899,"Sure, you could do that."
+1982.82-6080,1,15092,sandra_day_oconnor,scotus_justice,1354.899,1356.681,"And you do that, suppose."
+1982.82-6080,1,44833,william_e_gray_jr,,1356.681,1365.88,"Absolutely, but that's just like admitting an involuntary confession and telling the jury not to consider it."
+1982.82-6080,1,15073,warren_e_burger,scotus_justice,1420.123,1446.159,"Would it be you view, Mr. Gray, that if a defendant at this stage of the trial brought in a psychiatrist who testified that he had examined the man, that he had looked over his entire record, and that in his opinion, professional opinion, he would not be dangerous, would you say that testimony was admissible?"
+1982.82-6080,1,44833,william_e_gray_jr,,1446.159,1457.14,"Well, I would say it would not be admissible unless a state was granted a collateral right to have him examined by a psychiatrist of their own selection."
+1982.82-6080,1,15073,warren_e_burger,scotus_justice,1458.907,1462.764,"Then you are right back to the adversary system, aren't you?"
+1982.82-6080,1,44833,william_e_gray_jr,,1462.764,1479.851,"--Well, given what the American Psychiatric Association says in their brief in this case, and based upon the studies that they have made, this testimony even to non-dangerousness would be unreliable and should not be admissible, but I am saying if--"
+1982.82-6080,1,15073,warren_e_burger,scotus_justice,1479.851,1497.345,"But as has been suggested to you by questions from the bench, that lack of reliability can be laid before the fact-finders, the jurors, both by cross examination and by other experts."
+1982.82-6080,1,44833,william_e_gray_jr,,1497.345,1498.577,--It can be.
+1982.82-6080,1,15073,warren_e_burger,scotus_justice,1501.919,1511.93,"Well, do you conclude from that or do you suggest we conclude from that that therefore it is an unconstitutional practice because it isn't successful?"
+1982.82-6080,1,44833,william_e_gray_jr,,1511.93,1513.836,"I'm not saying that, Your Honor."
+1982.82-6080,1,15073,warren_e_burger,scotus_justice,1540.59,1541.885,That is not this case.
+1982.82-6080,1,44833,william_e_gray_jr,,1541.885,1545.54,"--I understand, but this is even more fantastic testimony."
+1982.82-6080,1,15073,warren_e_burger,scotus_justice,1569.728,1575.851,"You are not suggesting that all psychiatrists agree with the American Psychiatric Association, are you?"
+1982.82-6080,1,44833,william_e_gray_jr,,1575.851,1577.321,"Well, I don't know."
+1982.82-6080,1,15071,byron_r_white,scotus_justice,1635.654,1654.567,"If you held the introduction of this kind of testimony to be unconstitutional, it would be on the ground, I suppose, that it is just too unreliable, as the association says."
+1982.82-6080,1,44833,william_e_gray_jr,,1655.269,1655.58,Absolutely.
+1982.82-6080,1,15071,byron_r_white,scotus_justice,1656.504,1668.983,"Well, isn't that an assertion then that the whole notion of predicting future dangerousness is unconstitutional?"
+1982.82-6080,1,44833,william_e_gray_jr,,1668.983,1671.139,"I think it is, Your Honor, but--"
+1982.82-6080,1,15071,byron_r_white,scotus_justice,1671.139,1676.042,"Well, then, that just means overturning part of Jurek."
+1982.82-6080,1,44833,william_e_gray_jr,,1676.042,1679.82,"--Absolutely, because I don't think this Court--"
+1982.82-6080,1,15071,byron_r_white,scotus_justice,1679.82,1711.152,"So you are... Don't we have to, to agree with you, don't we have to reverse part of Jurek, because we seem to... the Court seems to have accepted there the notion of this prediction, and if it is so uncertain that even a psychiatrist can't testify to it, you would think its use as a basis for imposing the death penalty would be completely unconstitutional in itself, but that isn't what Jurek held."
+1982.82-6080,1,44833,william_e_gray_jr,,1711.152,1719.567,--I think this Court didn't really examine this specific problem in Jurek.
+1982.82-6080,1,15071,byron_r_white,scotus_justice,1720.102,1732.907,"Well, not the specific one, but we must not have thought that... or the Court must not have thought that it was a... that the prediction was so uncertain that it would be unconstitutional."
+1982.82-6080,1,44833,william_e_gray_jr,,1732.907,1741.946,"--Well, at that time, it was represented to this Court that the state would permit the introduction of mitigating evidence, and that the jury would consider facts in mitigation."
+1982.82-6080,1,15071,byron_r_white,scotus_justice,1748.463,1749.024,"Well, that may be."
+1982.82-6080,1,44833,william_e_gray_jr,,1752.289,1752.694,--Well--
+1982.82-6080,1,15071,byron_r_white,scotus_justice,1752.694,1767.281,--but you are suggesting to us that no psychiatric testimony may be used because the business of prediction is unconstitutionally uncertain.
+1982.82-6080,1,44833,william_e_gray_jr,,1767.281,1767.905,--I'm--
+1982.82-6080,1,15071,byron_r_white,scotus_justice,1767.905,1768.392,Isn't that right?
+1982.82-6080,1,44833,william_e_gray_jr,,1769.734,1772.514,"--Well, sort of, but--"
+1982.82-6080,1,15071,byron_r_white,scotus_justice,1772.514,1773.2,Sort of?
+1982.82-6080,1,44833,william_e_gray_jr,,1775.186,1782.385,"--What I am saying is, and the American Psychiatric Association agrees with this, the psychiatrists are wrong two out of three times."
+1982.82-6080,1,15071,byron_r_white,scotus_justice,1782.385,1782.869,They may be.
+1982.82-6080,1,44833,william_e_gray_jr,,1784.117,1785.587,And lay persons are wrong two out of three times.
+1982.82-6080,1,15071,byron_r_white,scotus_justice,1785.587,1791.272,"But their submission is that it is too uncertain for them to testify about it, that the testimony is utterly meaningless."
+1982.82-6080,1,44833,william_e_gray_jr,,1791.272,1792.161,Absolutely.
+1982.82-6080,1,15071,byron_r_white,scotus_justice,1792.161,1800.0,"Well, and hence the whole business of prediction, predicting future dangerousness is just out of bounds."
+1982.82-6080,1,44833,william_e_gray_jr,,1800.0,1801.126,"It is, because--"
+1982.82-6080,1,15071,byron_r_white,scotus_justice,1801.126,1805.701,"Well, then, if that is the case, it seems to me you would have to tear up part of Jurek."
+1982.82-6080,1,44833,william_e_gray_jr,,1835.964,1839.981,"--I am not saying that, Your Honor, and that's not what the American Psychiatric Association is saying."
+1982.82-6080,1,15073,warren_e_burger,scotus_justice,1867.328,1880.572,"Is that two out of three based on the examination of cases where the testimony of the psychiatrist was that the person would not be dangerous, and then he went out a committed other crimes, including murder?"
+1982.82-6080,1,44833,william_e_gray_jr,,1880.572,1902.7,"Yes, there have been a number of studies, and they all bear out that general... general overprediction by psychiatrists, and when you add that overprediction to testimony that the jurors are competent according to this Court to determine and make a... reach a decision on, it--"
+1982.82-6080,1,15073,warren_e_burger,scotus_justice,1902.7,1904.966,"Well, are you narrowing your point just to capital cases?"
+1982.82-6080,1,44833,william_e_gray_jr,,1904.966,1910.698,"--Yes, Your Honor, absolutely, and I think that's the thrust of the American Psychiatric Association's brief also."
+1982.82-6080,1,15073,warren_e_burger,scotus_justice,1910.698,1933.706,"In other words, a psychiatrist is to be permitted to testify after a person has been found not guilty by reason of insanity in a murder case, and goes to St. Elizabeth Hospital, and you would say it is all right for the psychiatrist then to testify 60 or 90 days later that his release will not endanger the community?"
+1982.82-6080,1,44833,william_e_gray_jr,,1933.706,1939.625,"Yes, and that's because in those cases they are only making short-range predictions of dangerousness."
+1982.82-6080,1,15071,byron_r_white,scotus_justice,1943.341,1947.326,"Well, it isn't... if you are going to release them, it isn't very short range."
+1982.82-6080,1,44833,william_e_gray_jr,,1954.744,1956.822,But the fallacy--
+1982.82-6080,1,15071,byron_r_white,scotus_justice,1956.822,1967.628,"--And also, just remember that one of the standards for a civil commitment is whether a person is dangerous to himself or others."
+1982.82-6080,1,44833,william_e_gray_jr,,1967.628,1982.967,"--Right, but Grigson and his compadres in Texas have refined this testimony to the point that they testify 100 percent absolute that a defendant will be a danger in the penitentiary also, so that--"
+1982.82-6080,1,15071,byron_r_white,scotus_justice,1982.967,1990.276,"Well, if you were making a submission based on Dr. Grigson, that might be one thing, but you are making a general submission here."
+1982.82-6080,1,44833,william_e_gray_jr,,2000.209,2014.031,"--Absolutely, as far as Mr. Barefoot is concerned, but as far the Texas procedure generally, and the use of psychiatric testimony, Texas is the only state that utilizes this in capital cases."
+1982.82-6080,1,15073,warren_e_burger,scotus_justice,2014.031,2022.81,Very well.
+1982.82-6080,2,20602,douglas_m_becker,,2024.401,2038.334,"Mr. Chief Justice, and may it please the Court, by way of background upon the stay issue, I wish to state at the outset, as the Court has said in another context, death is indeed different."
+1982.82-6080,2,15045,harry_a_blackmun,scotus_justice,2112.785,2114.676,"I don't think I follow you, Mr. Becker."
+1982.82-6080,2,20602,douglas_m_becker,,2119.297,2121.188,"--That's right, Your Honor."
+1982.82-6080,2,15045,harry_a_blackmun,scotus_justice,2123.75,2125.076,So the state of Texas was wrong.
+1982.82-6080,2,20602,douglas_m_becker,,2125.076,2127.607,"--If the state of Texas was wrong, yes, sir."
+1982.82-6080,2,15045,harry_a_blackmun,scotus_justice,2127.607,2128.636,If.
+1982.82-6080,2,20602,douglas_m_becker,,2130.839,2131.416,"Yes, sir."
+1982.82-6080,2,15045,harry_a_blackmun,scotus_justice,2131.416,2132.293,All right.
+1982.82-6080,2,20602,douglas_m_becker,,2132.293,2133.307,"Yes, that's correct."
+1982.82-6080,2,15045,harry_a_blackmun,scotus_justice,2153.753,2161.716,Somewhere in your argument I trust you will tell me why the District Court issued a certificate of probable cause.
+1982.82-6080,2,20602,douglas_m_becker,,2161.716,2168.497,"Well, Your Honor, it is because he believed that at least one of the claims was not frivolous."
+1982.82-6080,2,15141,william_h_rehnquist,scotus_justice,2196.172,2200.983,"Well, do you know right off where that is in the... is that in one of the briefs we have?"
+1982.82-6080,2,20602,douglas_m_becker,,2200.983,2201.732,--The language?
+1982.82-6080,2,15141,william_h_rehnquist,scotus_justice,2219.318,2221.116,"Did you file a joint appendix, or who... somebody?"
+1982.82-6080,2,20602,douglas_m_becker,,2223.191,2225.239,--I've got one.
+1982.82-6080,2,15141,william_h_rehnquist,scotus_justice,2227.27,2231.595,Go ahead.
+1982.82-6080,2,20602,douglas_m_becker,,2231.595,2232.094,All right.
+1982.82-6080,2,15141,william_h_rehnquist,scotus_justice,2275.293,2284.289,So he thought... the District Judge thought the standard for granting or vacating a stay was different from the standard for issuing a certificate of probable cause?
+1982.82-6080,2,20602,douglas_m_becker,,2284.289,2292.425,"Patently he did, just as the District Court in the Brooks case thought the same thing, and just as the Fifth Circuit judges have thought the same thing and indeed said the same thing."
+1982.82-6080,2,15045,harry_a_blackmun,scotus_justice,2292.425,2296.11,Does that mean that he should not have issued a certificate of probable cause?
+1982.82-6080,2,20602,douglas_m_becker,,2296.11,2296.783,"No, sir."
+1982.82-6080,2,15092,sandra_day_oconnor,scotus_justice,2333.689,2346.748,"Well, it just seems so illogical to have a different standard for when you issue a certificate of probable cause than you do for the issuance of a stay so that issue can be resolved."
+1982.82-6080,2,20602,douglas_m_becker,,2350.963,2353.369,"Well, because we are under different statutes, Your Honor."
+1982.82-6080,2,15092,sandra_day_oconnor,scotus_justice,2366.818,2369.33,"Well, neither one of them articulate the standard."
+1982.82-6080,2,20602,douglas_m_becker,,2369.33,2374.392,"Well, that's correct, but I think there are different... there are different things involved."
+1982.82-6080,2,15045,harry_a_blackmun,scotus_justice,2420.904,2425.934,"Well, there certainly is a great Pyhrric victory, isn't it, to get a certificate of probable cause only to be executed?"
+1982.82-6080,2,20602,douglas_m_becker,,2425.934,2431.491,"--Well, Your Honor, I think you have to look and see what happened after he got his certificate of probable cause."
+1982.82-6080,2,15045,harry_a_blackmun,scotus_justice,2479.662,2481.238,"General Becker, don't misunderstand me."
+1982.82-6080,2,20602,douglas_m_becker,,2502.135,2506.526,--The Fifth Circuit never went so far as to call the issue frivolous.
+1982.82-6080,2,15071,byron_r_white,scotus_justice,2515.99,2524.628,"They did summarily deal with the merits, and their ultimate conclusion was that there was no semblance of merit to any of the issues."
+1982.82-6080,2,20602,douglas_m_becker,,2524.628,2525.579,That's correct.
+1982.82-6080,2,15071,byron_r_white,scotus_justice,2537.216,2538.296,But they did address the merits--
+1982.82-6080,2,20602,douglas_m_becker,,2538.296,2542.136,"They did address the merits, and I am not sure about your use of the word ""summary"", Your Honor."
+1982.82-6080,2,15071,byron_r_white,scotus_justice,2547.322,2550.649,--It wasn't the normal... it wasn't the normal time period.
+1982.82-6080,2,20602,douglas_m_becker,,2550.649,2555.317,"--It was the normal for a stay proceeding, which are common and routine in the Fifth Circuit."
+1982.82-6080,2,15104,thurgood_marshall,scotus_justice,2555.317,2556.163,How much time was it?
+1982.82-6080,2,20602,douglas_m_becker,,2556.163,2556.818,"All right, sir."
+1982.82-6080,2,15104,thurgood_marshall,scotus_justice,2556.818,2557.52,For briefing?
+1982.82-6080,2,20602,douglas_m_becker,,2557.52,2567.218,"He had from the time he first briefed his... the hypothetical question issue, he had a number of years to prepare that."
+1982.82-6080,2,15104,thurgood_marshall,scotus_justice,2567.218,2569.921,I am talking about what you are talking about.
+1982.82-6080,2,20602,douglas_m_becker,,2572.077,2572.888,"Well, Your Honor--"
+1982.82-6080,2,15104,thurgood_marshall,scotus_justice,2572.888,2575.965,The court wasn't considering it 100 years ago.
+1982.82-6080,2,20602,douglas_m_becker,,2575.965,2576.62,--All right.
+1982.82-6080,2,15104,thurgood_marshall,scotus_justice,2578.714,2580.105,Why can't you give me a date?
+1982.82-6080,2,20602,douglas_m_becker,,2580.105,2580.714,"--Yes, sir."
+1982.82-6080,2,15060,john_paul_stevens,scotus_justice,2597.817,2598.207,Wait a minute.
+1982.82-6080,2,20602,douglas_m_becker,,2603.815,2606.58,"--Well, that was the original one."
+1982.82-6080,2,15060,john_paul_stevens,scotus_justice,2606.58,2606.97,Yes.
+1982.82-6080,2,20602,douglas_m_becker,,2606.97,2609.314,He was resentenced after the District Court in this case--
+1982.82-6080,2,15060,john_paul_stevens,scotus_justice,2609.314,2613.685,"Yes, but he... and he was in the state system for about three years before he even started the federal proceeding."
+1982.82-6080,2,20602,douglas_m_becker,,2613.685,2614.356,"--Yes, sir."
+1982.82-6080,2,15060,john_paul_stevens,scotus_justice,2618.482,2622.743,"But that is not the death sentence, that is just a scheduling of the execution, wasn't it?"
+1982.82-6080,2,20602,douglas_m_becker,,2622.743,2623.492,"--Yes, I'm sorry."
+1982.82-6080,2,15060,john_paul_stevens,scotus_justice,2623.492,2624.384,Not the death sentence.
+1982.82-6080,2,20602,douglas_m_becker,,2624.384,2624.93,That's correct.
+1982.82-6080,2,15060,john_paul_stevens,scotus_justice,2624.93,2625.585,Quite a difference.
+1982.82-6080,2,20602,douglas_m_becker,,2625.585,2626.303,"Yes, sir, it is."
+1982.82-6080,2,15071,byron_r_white,scotus_justice,2700.241,2713.655,"Do you think the Court of Appeals would have been justified in terms of the procedures that it followed in concluding... in concluding... well, it concluded... I will start that way... it concluded the motion for stay should be denied."
+1982.82-6080,2,20602,douglas_m_becker,,2715.344,2717.123,"--Yes, sir."
+1982.82-6080,2,15071,byron_r_white,scotus_justice,2717.123,2723.386,Do you think it could as well have concluded that the judgment of the District Court should be affirmed?
+1982.82-6080,2,20602,douglas_m_becker,,2723.386,2728.351,"No, sir."
+1982.82-6080,2,15071,byron_r_white,scotus_justice,2729.099,2732.757,"What makes you think, then, that it really considered the merits of the appeal?"
+1982.82-6080,2,20602,douglas_m_becker,,2732.757,2734.944,--Because they said they did.
+1982.82-6080,2,15071,byron_r_white,scotus_justice,2736.161,2744.47,"Well, then, why didn't they... why didn't they... why didn't they affirm the judgment of the District Court?"
+1982.82-6080,2,20602,douglas_m_becker,,2744.47,2745.11,--Well--
+1982.82-6080,2,15071,byron_r_white,scotus_justice,2745.11,2747.328,This implies there was something left to be done.
+1982.82-6080,2,20602,douglas_m_becker,,2747.328,2760.899,"--Well, I suppose besides the possibility that some other court might stay the execution and things might be left, the inquiry they were making was not whether he was right or wrong in any of the assertions he was making on the merits."
+1982.82-6080,2,15071,byron_r_white,scotus_justice,2767.052,2768.99,"Well, that is... and you are defending that."
+1982.82-6080,2,20602,douglas_m_becker,,2768.99,2770.316,"--Yes, sir, I am defending what--"
+1982.82-6080,2,15071,byron_r_white,scotus_justice,2770.316,2782.857,"Well, I think certainly part of the issue here is whether or not the Court of Appeals could possibly deny the stay without also ruling on the appeal."
+1982.82-6080,2,20602,douglas_m_becker,,2782.857,2784.573,"--Well, they gave him an easier burden."
+1982.82-6080,2,15071,byron_r_white,scotus_justice,2791.228,2801.629,"Well, tell me, what would have been wrong, what would have been legally wrong if the Court of Appeals had concluded on the merits of the appeal that the judgment is affirmed?"
+1982.82-6080,2,20602,douglas_m_becker,,2801.629,2802.378,--Well--
+1982.82-6080,2,15071,byron_r_white,scotus_justice,2802.378,2804.081,Tell me what would have been wrong.
+1982.82-6080,2,20602,douglas_m_becker,,2804.081,2813.934,"--The only thing I know that would be wrong is, they hadn't been doing that in prior cases, and under Garrison and this Court's authorities I don't know if the Petitioner was on notice that he was going to be actually affirmed on all his positions."
+1982.82-6080,2,15071,byron_r_white,scotus_justice,2813.934,2819.184,"Well, I take it you think he was on notice... you claim he was on notice that he was going to have to address the merits."
+1982.82-6080,2,20602,douglas_m_becker,,2819.184,2822.604,"Most certainly, and that he would have to show a substantial issue."
+1982.82-6080,2,15071,byron_r_white,scotus_justice,2826.838,2834.661,"Well, if he couldn't show he had an issue that had any semblance of merit, why didn't... why would you suggest it would be wrong for the Court of Appeals just to affirm?"
+1982.82-6080,2,20602,douglas_m_becker,,2834.661,2837.067,"--If that was their routine policy, I think they could."
+1982.82-6080,2,15071,byron_r_white,scotus_justice,2837.067,2838.066,"But it wasn't, was it?"
+1982.82-6080,2,20602,douglas_m_becker,,2838.066,2839.161,"No, sir, it wasn't."
+1982.82-6080,2,15071,byron_r_white,scotus_justice,2880.157,2883.608,Do you suggest that what the Court of Appeals did is consistent with Garrison?
+1982.82-6080,2,20602,douglas_m_becker,,2883.608,2886.514,"I am suggesting it is consistent with Garrison, yes."
+1982.82-6080,2,15071,byron_r_white,scotus_justice,2886.514,2907.504,"Well, Garrison suggests... said you could use summary procedures, and you could collapse... you could collapse the question of stay and the merits, but it never suggested that you could avoid ruling on the merits with finality, and there was no ruling on the merits with finality here."
+1982.82-6080,2,20602,douglas_m_becker,,2907.504,2908.643,"Well, Your Honor--"
+1982.82-6080,2,15071,byron_r_white,scotus_justice,2908.643,2909.517,What would happen to the appeal?
+1982.82-6080,2,20602,douglas_m_becker,,2913.954,2919.016,"--Well, Your Honor, it would be mooted by his execution if Barefoot--"
+1982.82-6080,2,15071,byron_r_white,scotus_justice,2919.016,2924.557,"And then... and then it would just be dismissed as moot, I take it."
+1982.82-6080,2,20602,douglas_m_becker,,2924.557,2927.182,"--Correct, which is exactly what happened in the appeal of Charlie Brooks."
+1982.82-6080,2,15060,john_paul_stevens,scotus_justice,2967.741,2970.756,May I ask you a question at this point about the timing of the thing?
+1982.82-6080,2,20602,douglas_m_becker,,2996.448,3003.739,"--Well, Your Honor, I think it is appropriate for the focus in these proceedings to be upon the trial, the direct appeal, and the first certiorari petition."
+1982.82-6080,2,15060,john_paul_stevens,scotus_justice,3005.022,3007.443,But couldn't they be done more rapidly than three years?
+1982.82-6080,2,20602,douglas_m_becker,,3007.443,3013.441,"--Well, I wish that they had been, and in this case, the trial itself, the conviction occurred three and a half months after the crime."
+1982.82-6080,2,15060,john_paul_stevens,scotus_justice,3013.441,3014.097,Right.
+1982.82-6080,2,20602,douglas_m_becker,,3014.097,3018.83,Then it was on appeal in the Court of Criminal Appeals for 17 months before a result was obtained--
+1982.82-6080,2,15060,john_paul_stevens,scotus_justice,3018.83,3021.985,That compares with what period of time in the federal appellate system?
+1982.82-6080,2,20602,douglas_m_becker,,3021.985,3022.516,"--Yes, sir."
+1982.82-6080,2,15073,warren_e_burger,scotus_justice,3086.896,3088.238,How many judges did you say?
+1982.82-6080,2,20602,douglas_m_becker,,3088.238,3089.595,"Fifty-one, Your Honor."
+1982.82-6080,2,15104,thurgood_marshall,scotus_justice,3093.455,3097.796,"I would assume you counted the Court of Appeals each time, the same judges."
+1982.82-6080,2,20602,douglas_m_becker,,3097.796,3106.371,"No... well... No, sir, there was... between his first appeal and his second and third state habeas corpus appeals, there was a large turnover on the Court of Criminal Appeals."
+1982.82-6080,2,15060,john_paul_stevens,scotus_justice,3112.961,3116.007,"Apart from the cert petition, which of course would be nine of the judges here--"
+1982.82-6080,2,20602,douglas_m_becker,,3116.007,3116.353,"Yes, sir."
+1982.82-6080,2,15060,john_paul_stevens,scotus_justice,3116.353,3117.976,"--there was only one federal judge at that point, wasn't there?"
+1982.82-6080,2,20602,douglas_m_becker,,3117.976,3122.238,"Well, and at this point there had been a federal district judge, of course."
+1982.82-6080,2,15060,john_paul_stevens,scotus_justice,3122.238,3122.538,That's right.
+1982.82-6080,2,20602,douglas_m_becker,,3122.538,3130.905,"Before that, twice, now, incidentally, he also denied an additional habeas corpus writ on March 28th by Mr. Barefoot based upon different grounds."
+1982.82-6080,2,15060,john_paul_stevens,scotus_justice,3130.905,3132.017,That is later.
+1982.82-6080,2,20602,douglas_m_becker,,3132.017,3132.61,Um-hm.
+1982.82-6080,2,15060,john_paul_stevens,scotus_justice,3137.766,3149.761,"But is it your submission, just so I get it, that once the case reached the Federal Court of Appeals for the first time, then everything should accelerated at a radically different rate than ordinary litigation?"
+1982.82-6080,2,20602,douglas_m_becker,,3149.761,3167.831,"Well, ordinary litigation is subject to motions to stay pending appeal."
+1982.82-6080,2,15060,john_paul_stevens,scotus_justice,3176.108,3176.67,"Well, I understand."
+1982.82-6080,2,20602,douglas_m_becker,,3191.945,3193.212,"Well, yes."
+1982.82-6080,2,15060,john_paul_stevens,scotus_justice,3193.212,3198.037,"And if so, how much... what should it be, ten-day briefing, or what is the regular procedure they ought to follow?"
+1982.82-6080,2,20602,douglas_m_becker,,3198.037,3213.793,"Well, Your Honor, the Fifth Circuit has to allow the briefing that the time constraints will allow in terms of the execution and then if there hasn't been adequate time for them to get briefs that they thought were satisfactory, or to decide the issues presented by the briefs, then I said they should stop the execution, they should stay it."
+1982.82-6080,2,15060,john_paul_stevens,scotus_justice,3234.509,3236.63,"No, but you are asking... I just want to be sure I understand you."
+1982.82-6080,2,20602,douglas_m_becker,,3246.675,3247.206,Um-hm.
+1982.82-6080,2,15060,john_paul_stevens,scotus_justice,3247.206,3250.142,--which will then accelerate the proceedings in the Court of Appeals.
+1982.82-6080,2,20602,douglas_m_becker,,3250.142,3254.06,And then we will be fighting for a stay of execution or opposing a stay of execution.
+1982.82-6080,2,15060,john_paul_stevens,scotus_justice,3292.093,3299.872,"And it would be your view that if he did show a substantial issue and they weren't quite prepared to decide it, they should then have a second argument."
+1982.82-6080,2,20602,douglas_m_becker,,3306.664,3316.613,"Well, if they didn't have time to decide the question, which is what they said in the O'Bryan case, then they grant the stay of execution, and what would happen is, then they went ahead with the normal briefing schedule."
+1982.82-6080,2,15060,john_paul_stevens,scotus_justice,3323.846,3339.51,"It seems to me it is a... maybe this shouldn't be a consideration, but the procedure you advocate will be more burdensome for the Federal Courts of Appeals, because they will have to take the first look at it on an expedited basis, and if they think there is a serious question, then they set it down for a second briefing and argument."
+1982.82-6080,2,20602,douglas_m_becker,,3339.51,3340.212,"Well, Your Honor--"
+1982.82-6080,2,15060,john_paul_stevens,scotus_justice,3340.212,3341.12,That's the routine you ask for.
+1982.82-6080,2,20602,douglas_m_becker,,3341.12,3349.037,"--Rule 8 is probably burdensome to the... more burdensome to the Court of Appeals than life would be without it, because in those cases, too, they have to do the same thing."
+1982.82-6080,2,15073,warren_e_burger,scotus_justice,3362.783,3365.423,"We will resume there at 1:00 o'clock, counsel."
+1982.82-6080,2,20602,douglas_m_becker,,3389.599,3396.911,"Your Honors, I have attempted to reduce my argument upon the stay question to a syllogism."
+1982.82-6080,2,15045,harry_a_blackmun,scotus_justice,3699.262,3703.108,"Texas law is alone in its provisions, isn't it?"
+1982.82-6080,2,20602,douglas_m_becker,,3705.12,3707.823,"--Well, Your Honor, not exactly, no."
+1982.82-6080,2,15045,harry_a_blackmun,scotus_justice,3712.712,3713.398,How many?
+1982.82-6080,2,20602,douglas_m_becker,,3713.398,3715.867,--Five that I know of.
+1982.82-6080,2,15045,harry_a_blackmun,scotus_justice,3717.193,3718.226,Five out of 50?
+1982.82-6080,2,20602,douglas_m_becker,,3718.226,3721.287,"--Well, out of the 33 that have the death penalty, or all 50, yes, sir."
+1982.82-6080,2,15045,harry_a_blackmun,scotus_justice,3722.785,3727.472,Who are you using now that Dr. Holbrook is gone?
+1982.82-6080,2,20602,douglas_m_becker,,3727.472,3732.813,"--Well, Your Honor, I am not sure I understand the question."
+1982.82-6080,2,15045,harry_a_blackmun,scotus_justice,3736.031,3738.811,Are you using just Dr. Grigson in all these cases?
+1982.82-6080,2,20602,douglas_m_becker,,3738.811,3742.715,"--Well, now, it is up to the individual district attorneys as to who they want to use."
+1982.82-6080,2,15045,harry_a_blackmun,scotus_justice,3761.877,3764.533,"Well, he has been here in every case we have had from Texas."
+1982.82-6080,2,20602,douglas_m_becker,,3764.533,3765.142,"Yes, sir."
+1982.82-6080,2,15045,harry_a_blackmun,scotus_justice,3824.07,3825.946,"Of course, he had no other alternative."
+1982.82-6080,2,20602,douglas_m_becker,,3830.165,3831.819,"--Well, Your Honor, but he could--"
+1982.82-6080,2,15045,harry_a_blackmun,scotus_justice,3831.819,3833.539,You can't criticize him for having done this.
+1982.82-6080,2,20602,douglas_m_becker,,3833.539,3837.832,"--Well, he could have presented evidence of his own to further substantiate his claim."
+1982.82-6080,2,15141,william_h_rehnquist,scotus_justice,3902.977,3908.865,"Mr. Becker, if we agreed with you, we would affirm the judgment of the District Court, wouldn't we?"
+1982.82-6080,2,20602,douglas_m_becker,,3908.865,3910.257,"Yes, sir."
+1982.82-6080,2,15073,warren_e_burger,scotus_justice,3910.257,3918.485,I am not sure.

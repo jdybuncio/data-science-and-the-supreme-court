@@ -1,0 +1,160 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2019.18-6943,0,15086,john_g_roberts_jr,scotus_justice,0.0,7.72,"We'll hear argument next in Case 18-6943, Banister versus Davis. Mr. Burgess."
+2019.18-6943,0,63197,brian_t_burgess,,7.72,22.52,"Thank you, Mr. Chief Justice, and may it please the Court: The Fifth Circuit's decision should be reversed for either of two independent reasons. First, a Rule 59(e) motion filed within 20 days of judgment is part of the first full opportunity to pursue habeas relief."
+2019.18-6943,0,15084,ruth_bader_ginsburg,scotus_justice,147.04,161.04,"But the -- but the motion is repetitive of the habeas petition. That is, it's -- and it's made after the entry of judgment."
+2019.18-6943,0,63197,brian_t_burgess,,182.44,182.64,Right.
+2019.18-6943,0,15068,samuel_a_alito_jr,scotus_justice,201.6,212.44,"What if a pro se, within the 28 days, files what is styled as a petition -- as a second petition?"
+2019.18-6943,0,63197,brian_t_burgess,,212.44,219.24,We -- we think it probably should be characterized as a Rule 59(e) motion in that context to the extent it is seeking to alter or amend the judgment.
+2019.18-6943,0,15084,ruth_bader_ginsburg,scotus_justice,223.96,225.52,It would -- it would have to meet the 28-day --
+2019.18-6943,0,63197,brian_t_burgess,,225.52,237.96,"It would -- it would have to meet the 28-day deadline, and, of course, it wouldn't have the sort of effect under Rule 4(a) for suspending the time to appeal because, to get that suspension, in fact, it actually has to be a motion --"
+2019.18-6943,0,15068,samuel_a_alito_jr,scotus_justice,237.96,258.44,"So, basically, what you're saying is that although AEDPA restricts the filing of a second or successive habeas petition, a prisoner can, in effect, file a second or successive habeas petition, indeed, one that is styled as a habeas petition, so long as it's done within 28 days?"
+2019.18-6943,0,63197,brian_t_burgess,,258.44,262.24,"I mean, I think on our view or their view, there's going to be a cutoff time."
+2019.18-6943,0,15068,samuel_a_alito_jr,scotus_justice,282.08,297.92,"When we have two rules here, two laws here -- one is the habeas statute which was enacted by Congress; the other is a rule governing habeas proceedings which took effect under the Rules Enabling Act -- are they of equal stature?"
+2019.18-6943,0,63197,brian_t_burgess,,297.92,297.96,No.
+2019.18-6943,0,15068,samuel_a_alito_jr,scotus_justice,312.08,333.04,But since the habeas statute was actually enacted by Congress -- it is a law under the Constitution -- shouldn't we take special care to make sure that it is heeded and not compromise it based on a rule that cannot alter a statute?
+2019.18-6943,0,63197,brian_t_burgess,,333.04,368.2,"I -- I certainly agree that the statute gets precedence, but you have to interpret the key term, ""second or successive."" And on that term, this Court has recognized that that's a term of art that basically carried forward pre-AEDPA practice and precedent as sort of relevant to incorporating it. So AEDPA no doubt tightened the restrictions on when a second or successive application could be allowed, both sort of substantively in terms of when it would be allowed and procedurally you have to first go to the court of appeals and get preclearance. But, in terms of what would count as being second or successive in the first place, that's a term of art that basically carries forward."
+2019.18-6943,0,15068,samuel_a_alito_jr,scotus_justice,377.76,378.44,"Well, why wouldn't --"
+2019.18-6943,0,15086,john_g_roberts_jr,scotus_justice,378.44,379.16,What if --
+2019.18-6943,0,15068,samuel_a_alito_jr,scotus_justice,379.16,379.76,-- what -- I'm sorry.
+2019.18-6943,0,15086,john_g_roberts_jr,scotus_justice,379.76,387.04,"I -- I don't know if this is the same question Justice Alito was -- was asking or that you answered, where things that are styled second habeas."
+2019.18-6943,0,63197,brian_t_burgess,,405.48,414.36,"I think within -- you know, our rule is within the 28 days, when the court still has authority because -- and -- and the filing of a motion can suspend the judgment, that, no, we don't think that that should be treated --"
+2019.18-6943,0,15131,sonia_sotomayor,scotus_justice,414.36,438.44,"How about putting the labels aside a moment? One could argue that restyling the first as a Rule 59(e) is a motion for reconsideration. But how about a totally new claim, one that indisputably is not a reconsideration motion but a motion to amend basically --"
+2019.18-6943,0,63197,brian_t_burgess,,438.44,438.84,Uh-huh.
+2019.18-6943,0,15131,sonia_sotomayor,scotus_justice,438.84,452.4,"-- to add a claim, something like what happened in the one decision in those 50 years that did say that adding a due process claim was an abuse of the writ, okay?"
+2019.18-6943,0,63197,brian_t_burgess,,452.4,452.52,Right.
+2019.18-6943,0,15131,sonia_sotomayor,scotus_justice,452.52,460.04,It was not a proper 59(e); it was an abuse of the writ because it was adding a new claim.
+2019.18-6943,0,63197,brian_t_burgess,,462.04,480.8,"So our position is that the right way to think about that is -- is exactly that it is not a proper use of Rule 59(e) and that it is certainly going to fail for that reason, but it should not be treated as a second habeas application if it is filed within that time period. That's how the Third Circuit, for example, in the Blystone decision dealt with that situation."
+2019.18-6943,0,62836,neil_gorsuch,scotus_justice,519.72,520.32,Is it -- is -- is --
+2019.18-6943,0,15086,john_g_roberts_jr,scotus_justice,520.32,527.64,And it would be jurisdictional I guess in the sense that it would not toll the statute of limitations or the time -- I mean the time to appeal?
+2019.18-6943,0,63197,brian_t_burgess,,527.64,531.56,If it were not a -- if it were not a real Rule 59(e) motion?
+2019.18-6943,0,15086,john_g_roberts_jr,scotus_justice,531.56,533.28,"Yeah, the one you just described, yeah."
+2019.18-6943,0,63197,brian_t_burgess,,533.28,551.52,"Well, I think the question about whether it's going to suspend the judgment turns on just whether it is seeking Rule 59(e) relief in terms of whether it is actually seeking to alter or amend the judgment. And if it is also raising arguments that you just can't get under Rule 59, I think that is different. And, you know, this goes to our second argument."
+2019.18-6943,0,15068,samuel_a_alito_jr,scotus_justice,564.76,615.08,"Well, before you get to that, can we come back to what we can or can't infer from pre-AEDPA practice? In those days, whether to entertain a second or successive petition was within the discretion of the district court. So how natural would it be for a district court in that situation, upon receiving a 59(e) motion, to say before I get to this discretionary question about whether I would entertain this if it was a second or successive petition, I have to decide whether it is something that has to be considered that or can be considered a Rule 59(e) motion. Wouldn't there be a natural tendency for the judge just to jump to the final question about whether the judge is going to entertain it in -- as -- as a discretionary matter?"
+2019.18-6943,0,63197,brian_t_burgess,,615.08,620.32,"I think that's quite right, but it supports our point because discretion wasn't to be open-ended."
+2019.18-6943,0,15131,sonia_sotomayor,scotus_justice,669.72,707.96,"Mr. Burgess, if I'm understanding your argument right, you're basically saying our definition of ""second and successive habeas"" should be defined by whether you had a first full opportunity not just to receive a judgment but to appeal that judgment. Yes, yeah, that it -- it -- that it's the -- that that first judgment, that first habeas terminates at the time in which your appeal terminates --"
+2019.18-6943,0,63197,brian_t_burgess,,707.96,708.8,We don't --
+2019.18-6943,0,15131,sonia_sotomayor,scotus_justice,708.8,709.68,-- the right to it.
+2019.18-6943,0,63197,brian_t_burgess,,709.68,715.4,So there are courts that have taken that position that -- that the first is not over until the whole appellate process completes.
+2019.18-6943,0,15131,sonia_sotomayor,scotus_justice,715.4,715.56,Right.
+2019.18-6943,0,63197,brian_t_burgess,,715.56,719.64,We -- we don't think the Court needs to resolve that and it doesn't need to go that far to rule in our favor.
+2019.18-6943,0,15131,sonia_sotomayor,scotus_justice,719.64,720.12,Why not?
+2019.18-6943,0,63197,brian_t_burgess,,720.12,740.24,"Because, in our situation, the court -- the -- Mr. Banister filed his petition within the 28 days when the district court still had discretion or still had the ability to revise the judgment. And we think that's important because, as a result of the way Rule 59(e) operates in conjunction with appellate Rule 4(a), the filing of it suspends the finality of the judgment."
+2019.18-6943,0,15131,sonia_sotomayor,scotus_justice,743.04,744.76,"Yes, that's -- I'm sorry."
+2019.18-6943,0,63197,brian_t_burgess,,751.16,751.96,Sure.
+2019.18-6943,0,62836,neil_gorsuch,scotus_justice,765.96,781.44,Is my recollection correct then -- please do tell me it's not if it isn't -- that Rule 59 motions are discretionary in terms of their treatment by the district court and reviewed by -- for abuse of discretion by -- by the courts of appeals?
+2019.18-6943,0,63197,brian_t_burgess,,781.44,783.96,"That's the correct standard of review, that's right."
+2019.18-6943,0,62836,neil_gorsuch,scotus_justice,796.48,799.88,"So, if it's -- it's just an appended repetition of the complaint --"
+2019.18-6943,0,63197,brian_t_burgess,,799.88,800.68,Right.
+2019.18-6943,0,62836,neil_gorsuch,scotus_justice,800.68,809.44,-- there's never going to be an abuse of discretion? It would be very unlikely for there to be an abuse of discretion to refuse to --
+2019.18-6943,0,63197,brian_t_burgess,,809.44,810.36,To deny the motion?
+2019.18-6943,0,62836,neil_gorsuch,scotus_justice,810.36,810.72,"Yeah, to deny it."
+2019.18-6943,0,63197,brian_t_burgess,,810.72,812.24,"No, that's quite -- that's quite right."
+2019.18-6943,0,15094,elena_kagan,scotus_justice,845.16,848.24,"Mr. Burgess, were you finished? Sorry."
+2019.18-6943,0,63197,brian_t_burgess,,848.24,849.88,"Sure, Justice Kagan."
+2019.18-6943,0,15094,elena_kagan,scotus_justice,849.88,881.0,"Your friends on the other side cite Crosby, Gonzalez v. Crosby, and -- and note that there was no distinction made there between petitions -- Rule 60(b) petitions that were filed within the 28 days and after the 28 days. So what is your response to that? Is it -- is it a feature of your argument that a Rule 60(b) motion even within the 28 days would be treated differently from a Rule 59 motion?"
+2019.18-6943,0,63197,brian_t_burgess,,881.0,881.8,"Well, no."
+2019.18-6943,0,15094,elena_kagan,scotus_justice,924.04,931.12,"So all courts are doing that now, they essentially convert -- whatever you label it, they treat it as a Rule 59 motion?"
+2019.18-6943,0,63197,brian_t_burgess,,931.12,933.84,Certainly for purposes of the timing to appeal.
+2019.18-6943,0,15094,elena_kagan,scotus_justice,950.0,958.36,"And does it bother you at all that, say, a Rule 60(b) motion filed on the 29th day will be treated very differently from the Rule 59 motion?"
+2019.18-6943,0,63197,brian_t_burgess,,958.36,961.48,It doesn't because the rules set that up to have different effects.
+2019.18-6943,0,17766,brett_m_kavanaugh,scotus_justice,989.52,996.68,Can you -- can you address the Solicitor General's reference to 2266 and how you would respond to that argument?
+2019.18-6943,0,63197,brian_t_burgess,,996.68,997.8,Sure.
+2019.18-6943,0,15068,samuel_a_alito_jr,scotus_justice,1068.44,1078.8,Why is your position favorable to habeas petitioners in general? Wouldn't it be easier for them just to ask for a certificate of appealability?
+2019.18-6943,0,63197,brian_t_burgess,,1078.8,1080.92,"Certainly, they can do that."
+2019.18-6943,0,15068,samuel_a_alito_jr,scotus_justice,1204.68,1211.56,But AEDPA was intended to move habeas petitions along quickly and is full of deadlines.
+2019.18-6943,0,63197,brian_t_burgess,,1216.92,1220.44,There's no deadline for ruling on a habeas petition either.
+2019.18-6943,0,15086,john_g_roberts_jr,scotus_justice,1416.08,1421.44,"Thank you, counsel. Mr. Hawkins."
+2019.18-6943,1,63066,kyle_d_hawkins,,1421.44,1442.16,"Mr. Chief Justice, and may it please the Court: A ruling for Banister would give every habeas petitioner the right to file a second round of merits briefing, demand a second decision on his claims, extend automatically his deadline to appeal, and delay the repose of his sentence."
+2019.18-6943,1,15084,ruth_bader_ginsburg,scotus_justice,1548.2,1569.68,"May -- may I ask, your introductory statement, this will -- will be -- give an opportunity to file new briefs and all that, but that's not what happened here. The 59(e) motion was filed, and I think it was denied, what, five days later, and there were no briefings."
+2019.18-6943,1,63066,kyle_d_hawkins,,1589.56,1594.6,"Well, Your Honor, first, there was an extension that Banister effectively granted himself."
+2019.18-6943,1,15084,ruth_bader_ginsburg,scotus_justice,1615.28,1619.76,"But the district court had just ruled on the same thing, and it had no problem --"
+2019.18-6943,1,63066,kyle_d_hawkins,,1619.76,1648.2,"And in this case, Justice Ginsburg, it's true that the district court was able to dispose of that relatively quickly, but it's worth noting that Banister's original motions practice in district court totaled almost a thousand pages of material, much of which was stylized as a stage play complete with stage directions. If he'd simply refiled that thousand pages' worth of material stylized as a Rule 59(e) motion, it likely would have taken the district court much longer to go through that and figure out whether there's any --"
+2019.18-6943,1,62836,neil_gorsuch,scotus_justice,1648.2,1650.32,Or it might have taken the district court no time at all.
+2019.18-6943,1,63066,kyle_d_hawkins,,1713.92,1721.12,"Well, Justice Gorsuch, we've got the better of the efficiencies argument because AEDPA is about moving cases along to the next stage."
+2019.18-6943,1,15084,ruth_bader_ginsburg,scotus_justice,1734.12,1763.48,"How do you deal with just -- just look at Federal Rule of Appellate Procedure 4(a)(14), if a party timely files -- it doesn't say properly files -- it says timely files a motion to alter or amend the judgment, the time to file an appeal from the judgment runs from the entry of the order disposing of the motion. Why isn't that instruction dispositive of this case?"
+2019.18-6943,1,63066,kyle_d_hawkins,,1763.48,1770.92,"Well, Your Honor, this Court has recognized that baked into that is a requirement that the motion satisfy the preconditions to filing."
+2019.18-6943,1,15131,sonia_sotomayor,scotus_justice,1808.76,1811.92,But you're -- you're defeating your own point.
+2019.18-6943,1,63066,kyle_d_hawkins,,1837.6,1841.32,"Well, Justice Sotomayor, two answers to that."
+2019.18-6943,1,15131,sonia_sotomayor,scotus_justice,1849.76,1851.64,Suggesting they're not very long.
+2019.18-6943,1,63066,kyle_d_hawkins,,1851.64,1853.56,"I don't think that's correct, Justice Sotomayor."
+2019.18-6943,1,15139,stephen_g_breyer,scotus_justice,1880.08,1895.96,"Well, we can -- I don't know if we can find that out, but, I mean, intuitively, I do not have that experience, but there are judges on this bench who do have the experience of being a district judge, so I guess they'll have a view. Absent the agree, I'm thinking first there's one appeal."
+2019.18-6943,1,63066,kyle_d_hawkins,,1933.16,1935.44,"Because that's before final judgment, Justice Breyer."
+2019.18-6943,1,15139,stephen_g_breyer,scotus_justice,1935.44,1959.12,"Well, is that the reason, or is it because it's an efficient way of getting the judge to correct his own errors? You don't have to answer that, but what I'm thinking of is you're right, that if 59 does about the same thing after the final judgment, in 28 days, most of them will be dismissed, 28-day extension, 20-day extension."
+2019.18-6943,1,63066,kyle_d_hawkins,,2010.48,2012.64,"Well, Justice Breyer, if you --"
+2019.18-6943,1,15139,stephen_g_breyer,scotus_justice,2012.64,2013.76,"That was his argument, I think."
+2019.18-6943,1,63066,kyle_d_hawkins,,2017.92,2019.84,"Well, Justice Breyer, a few things in response."
+2019.18-6943,1,15139,stephen_g_breyer,scotus_justice,2031.36,2056.44,"No, 2244(b), I thought, has these words ""second or successive."" And the issue in front of us is, is the 59(b) second or successive, or is it part of the same case during a 28-day period, you can -- it's not too late -- get that judgment amended, and that's part of the same case."
+2019.18-6943,1,63066,kyle_d_hawkins,,2067.84,2074.48,"Justice Breyer, if the concern is efficiency in correcting errors, Rule 60(a) allows the district court to correct clerical errors."
+2019.18-6943,1,62836,neil_gorsuch,scotus_justice,2082.8,2123.2,"There are -- there are other things besides clerical errors, though, right? And what do we do -- I guess what was instructive to me was the historian's brief and that the difference between 60 and 59 is a dichotomy that's pretty ancient and that trial courts have since time out of mind, I guess, had the authority to amend their judgments to correct errors, not just clerical ones but other significant ones that they wished to, so long as the court's in session. And -- and that is the end, when it divests itself, when it finishes its term, that's when it goes off to the court of appeals, and that that's what 59 and 60 were aimed to mimic."
+2019.18-6943,1,63066,kyle_d_hawkins,,2123.2,2127.72,"I think, Justice Gorsuch, the best place to draw that line is at the final judgment."
+2019.18-6943,1,62836,neil_gorsuch,scotus_justice,2134.52,2136.8,I understand that. I understand that.
+2019.18-6943,1,63066,kyle_d_hawkins,,2164.2,2172.08,"Well, Your Honor, in -- in enacting 2244, Congress made the decision that whatever the history might have been, it wants this going to the court of appeals."
+2019.18-6943,1,15094,elena_kagan,scotus_justice,2183.04,2183.4,"Well, I thought that that --"
+2019.18-6943,1,63066,kyle_d_hawkins,,2183.4,2183.64,AEDPA --
+2019.18-6943,1,15094,elena_kagan,scotus_justice,2183.64,2213.16,"-- was not the precedent of this Court, Mr. Hawkins, that with respect to the meaning of ""second and successive"" as compared to many, many other things that AEDPA did that were departures from what had preceded it, but that with respect to the meaning of ""second and successive,"" this Court has said multiple times that we are going to look back to the history. And the history suggests what Justice Gorsuch says it did, that Rule 60 motions were treated very differently from Rule 59 motions."
+2019.18-6943,1,63066,kyle_d_hawkins,,2213.16,2218.08,"Well, Your Honor, the Court in Gonzalez didn't look to history at all. It started with the plain text of AEDPA."
+2019.18-6943,1,15084,ruth_bader_ginsburg,scotus_justice,2226.96,2236.56,"But 60 -- 60(b) is a discrete proceeding, and it results in a separate appeal from the ruling."
+2019.18-6943,1,63066,kyle_d_hawkins,,2294.88,2301.52,"Well, two responses, Justice Ginsburg. First, I think the same thing would be true of a 60(b) filed within 28 days."
+2019.18-6943,1,15084,ruth_bader_ginsburg,scotus_justice,2302.36,2307.52,"Yes, and I think that that was conceded, that that is the equivalent of 59(e)."
+2019.18-6943,1,63066,kyle_d_hawkins,,2307.52,2312.72,"Your Honor, Justice Ginsburg, I'll ask you to look at the way AEDPA treats the final judgment."
+2019.18-6943,1,17766,brett_m_kavanaugh,scotus_justice,2340.24,2345.72,But the pre- -- the pre-AEDPA practice was to treat 59 and 60 differently.
+2019.18-6943,1,63066,kyle_d_hawkins,,2374.12,2387.0,"Well, Justice Kavanaugh, I think that Congress did include text that clearly supplanted that, and it is the second or successive bar in Section 2244 which says that if you're filing a piece of paper that has habeas claims and it's --"
+2019.18-6943,1,17766,brett_m_kavanaugh,scotus_justice,2387.0,2388.36,How about an amended complaint then?
+2019.18-6943,1,63066,kyle_d_hawkins,,2388.36,2395.24,"Justice Kavanaugh, an amended complaint is not a second or successive habeas application because it comes prior to final judgment."
+2019.18-6943,1,15094,elena_kagan,scotus_justice,2408.12,2414.52,"Well, why isn't the dividing line when the court has power over the case? The court still has power over the case at this point."
+2019.18-6943,1,63066,kyle_d_hawkins,,2422.8,2425.4,"Because it -- a couple answers, Justice Kagan."
+2019.18-6943,1,15084,ruth_bader_ginsburg,scotus_justice,2435.84,2436.12,But it's the final --
+2019.18-6943,1,63066,kyle_d_hawkins,,2436.12,2436.96,-- it's a general rule of --
+2019.18-6943,1,15084,ruth_bader_ginsburg,scotus_justice,2436.96,2444.8,-- judgment that gets suspended at least for appeal purposes. The finality is suspended.
+2019.18-6943,1,63066,kyle_d_hawkins,,2444.8,2446.48,"That's not correct, Justice Ginsburg."
+2019.18-6943,1,15084,ruth_bader_ginsburg,scotus_justice,2454.28,2456.48,"Yes, but, for purposes of appeal, it isn't."
+2019.18-6943,1,63066,kyle_d_hawkins,,2460.28,2462.24,"No, that's also not correct, Justice Ginsburg."
+2019.18-6943,1,15084,ruth_bader_ginsburg,scotus_justice,2497.32,2509.32,"What do you do with the merger that -- that this is treated -- if the motion is denied, it merges into the final judgment?"
+2019.18-6943,1,63066,kyle_d_hawkins,,2509.32,2512.52,"Well, Your Honor, I don't think that has any impact on my argument at all."
+2019.18-6943,1,15139,stephen_g_breyer,scotus_justice,2542.28,2557.48,"So is your -- is it your -- is -- do I have this right or not? In your -- in your view, on day 42, after the original complaint was filed and they had a trial and hearing and so forth, judgment comes in."
+2019.18-6943,1,63066,kyle_d_hawkins,,2595.8,2597.6,"Not quite, Justice Breyer."
+2019.18-6943,1,15139,stephen_g_breyer,scotus_justice,2605.28,2605.84,Yeah.
+2019.18-6943,1,63066,kyle_d_hawkins,,2605.84,2609.76,But I'm not saying that AEDPA divests district courts of their inherent --
+2019.18-6943,1,15139,stephen_g_breyer,scotus_justice,2609.76,2609.88,I didn't --
+2019.18-6943,1,63066,kyle_d_hawkins,,2609.88,2610.56,-- power sua sponte --
+2019.18-6943,1,15139,stephen_g_breyer,scotus_justice,2610.56,2610.88,-- say that.
+2019.18-6943,1,63066,kyle_d_hawkins,,2627.88,2629.28,"May I respond, Mr. Chief Justice?"
+2019.18-6943,1,15086,john_g_roberts_jr,scotus_justice,2629.28,2629.76,Sure.
+2019.18-6943,1,63066,kyle_d_hawkins,,2629.76,2637.76,"Well, Your Honor, as was indicated earlier, to the extent there's a policy judgment being made here, Congress has clearly determined that it wants these going to the court of appeals."
+2019.18-6943,1,15086,john_g_roberts_jr,scotus_justice,2650.72,2652.4,"Thank you, counsel."
+2019.18-6943,1,63066,kyle_d_hawkins,,2652.4,2655.68,Thank you.
+2019.18-6943,1,15086,john_g_roberts_jr,scotus_justice,2655.68,2663.08,Mr. Snyder.
+2019.18-6943,2,63198,benjamin_snyder,,2663.08,2690.12,"Mr. Chief Justice, and may it please the Court: Justice Breyer, I'd like to start with the -- the last question that you asked, and then I'd entertain any other questions. To the extent that what you're doing here is you're making a practical determination, I think it's relevant that while Petitioner says that this -- that his rule will allow courts to correct obvious errors, he has not identified a single case since AEDPA was enacted in which a district court has actually granted a Rule 59(e) motion in this posture."
+2019.18-6943,2,17766,brett_m_kavanaugh,scotus_justice,2744.52,2744.84,Well --
+2019.18-6943,2,63198,benjamin_snyder,,2744.84,2745.12,-- the benefits --
+2019.18-6943,2,17766,brett_m_kavanaugh,scotus_justice,2745.12,2748.92,-- 59(e) is not wildly successful in any context.
+2019.18-6943,2,63198,benjamin_snyder,,2761.96,2774.76,"So, Your Honor, I think that the key distinction is that in the context of habeas, when you're talking largely about pro se litigants, you're dealing with people who don't have the same constraints in terms of the motions that they're willing to file as regular litigants."
+2019.18-6943,2,17766,brett_m_kavanaugh,scotus_justice,2785.68,2788.08,"I don't know if that's true, but keep going. (Laughter.)"
+2019.18-6943,2,63198,benjamin_snyder,,2788.08,2791.96,"So there may be some that are not meritorious, but they're going to be --"
+2019.18-6943,2,62836,neil_gorsuch,scotus_justice,2791.96,2794.84,"Lawyers sure have incentive to file them, don't they?"
+2019.18-6943,2,63198,benjamin_snyder,,2794.84,2802.76,"They may, but lawyers also have responsibilities to their clients to move the case along to the court of appeals. And so, in our view, that's what Congress was doing here."
+2019.18-6943,2,17766,brett_m_kavanaugh,scotus_justice,2816.36,2821.32,But 59(e) motions had not been considered second or successive before.
+2019.18-6943,2,63198,benjamin_snyder,,2821.32,2822.72,"Justice Kavanaugh, I don't agree with that."
+2019.18-6943,2,15094,elena_kagan,scotus_justice,2855.24,2868.36,"But isn't that very different from what courts did with respect to Rule 60(b)? So Rule 60(b) provides a kind of comparator, and you can see the -- the -- the very divergent way that courts treated Rule 59 motions."
+2019.18-6943,2,63198,benjamin_snyder,,2868.36,2879.52,"So I -- there were far more Rule 60(b) motions in the pre-AEDPA period. And one key reason for that was that at the time AEDPA was enacted, you had to file a Rule 59(e) motion within 10 days."
+2019.18-6943,2,17766,brett_m_kavanaugh,scotus_justice,2929.6,2931.96,"It wouldn't bar all 59(e) motions, right?"
+2019.18-6943,2,63198,benjamin_snyder,,2931.96,2933.68,It wouldn't bar all 59(e) motions.
+2019.18-6943,2,17766,brett_m_kavanaugh,scotus_justice,2933.68,2948.0,"And -- and the argument on the other side is, therefore, the district court's going to have to make a threshold jurisdictional determination which could be complicated and mixed, there might be mixed questions there, and what's the point?"
+2019.18-6943,2,63198,benjamin_snyder,,2948.0,2954.12,"So -- so, Your Honor, in -- in Gonzalez, this Court said that making that determination in most cases would be relatively simple."
+2019.18-6943,2,17766,brett_m_kavanaugh,scotus_justice,3006.52,3014.04,"I think their main argument was that would not be a proper 59(e) motion, and would not be a successful -- I'm sorry -- 59(e) motion."
+2019.18-6943,2,63198,benjamin_snyder,,3016.4,3020.04,"I -- I think that's fair, Your Honor."
+2019.18-6943,2,15139,stephen_g_breyer,scotus_justice,3083.32,3087.76,"Well, why is -- I move for summary judgment, denied."
+2019.18-6943,2,63198,benjamin_snyder,,3093.68,3094.08,I'm not --
+2019.18-6943,2,15139,stephen_g_breyer,scotus_justice,3094.08,3095.48,So they're successive.
+2019.18-6943,2,63198,benjamin_snyder,,3099.64,3103.52,"So -- so, if you move for summary judgment, I mean, or something equivalent in --"
+2019.18-6943,2,15139,stephen_g_breyer,scotus_justice,3103.52,3105.32,You don't have to deal with that seriously.
+2019.18-6943,2,63198,benjamin_snyder,,3105.92,3107.04,"No, no, no, but --"
+2019.18-6943,2,15139,stephen_g_breyer,scotus_justice,3107.04,3114.2,"-- there might be many examples in a trial where you repeat what you already said, and, therefore, the question is not answered in the statute."
+2019.18-6943,2,63198,benjamin_snyder,,3114.2,3114.44,But --
+2019.18-6943,2,15139,stephen_g_breyer,scotus_justice,3114.44,3118.8,"Is it still part of the same case, or is it a new thing?"
+2019.18-6943,2,63198,benjamin_snyder,,3118.8,3124.6,"Well, Your Honor, though, you're eliding -- again, respectfully, you're eliding again the distinction between -- it's not the same case."
+2019.18-6943,2,15094,elena_kagan,scotus_justice,3155.84,3160.36,"I guess I don't know how, if you draw the line there, you deal with an amended application."
+2019.18-6943,2,63198,benjamin_snyder,,3162.76,3165.92,"That's true, Your Honor, and the statute expressly provides for that."
+2019.18-6943,2,15086,john_g_roberts_jr,scotus_justice,3270.44,3274.52,"Thank you, counsel. Five minutes, Mr. Burgess."
+2019.18-6943,3,63197,brian_t_burgess,,3274.52,3278.2,"Thank you, Mr. Chief Justice. Three quick points."
+2019.18-6943,3,15086,john_g_roberts_jr,scotus_justice,3532.0,3533.2,"Thank you, counsel."

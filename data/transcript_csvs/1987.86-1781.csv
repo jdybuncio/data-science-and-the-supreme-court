@@ -1,0 +1,81 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1987.86-1781,0,15141,william_h_rehnquist,scotus_justice,0.0,61.031,"General Fried, you may begin whenever you are ready."
+1987.86-1781,0,18942,charles_fried,,61.031,65.141,"Thank you, Mr. Chief Justice and may it please the Court:"
+1987.86-1781,0,15045,harry_a_blackmun,scotus_justice,538.149,539.561,And there are many of them.
+1987.86-1781,0,18942,charles_fried,,539.561,543.612,"There have been many of them, yes."
+1987.86-1781,0,15045,harry_a_blackmun,scotus_justice,543.612,546.464,"However, the initial determination has been upset."
+1987.86-1781,0,18942,charles_fried,,546.464,549.767,There have been many of them.
+1987.86-1781,0,15049,antonin_scalia,scotus_justice,739.696,752.954,"What the Respondents are saying, General Fried, is that's a remedy, but a remedy for a different wrong; that they're not complaining here about the denial of benefits."
+1987.86-1781,0,18942,charles_fried,,766.914,782.976,"They are, of course, complaining of the denial of benefits, but they add adverbs to that complaint: they say we were denied benefits and we were done so illegally, unconstitutionally."
+1987.86-1781,0,15141,william_h_rehnquist,scotus_justice,794.294,796.835,What damages are they seeking here--
+1987.86-1781,0,18942,charles_fried,,796.835,811.773,"--They are seeking damages for emotional distress and the Complaints states that they are seeking damages for loss of the food, medicine, and other necessities which they were deprived of."
+1987.86-1781,0,15141,william_h_rehnquist,scotus_justice,824.442,827.815,--They did get benefits retroactively?
+1987.86-1781,0,18942,charles_fried,,827.815,828.325,They did.
+1987.86-1781,0,15060,john_paul_stevens,scotus_justice,861.931,866.616,"General Fried, is their claim comparable to the claim the Court sustained in First English?"
+1987.86-1781,0,18942,charles_fried,,866.616,880.234,"I don't believe so, because the First English case dealt with a Fifth Amendment taking violation."
+1987.86-1781,0,15060,john_paul_stevens,scotus_justice,880.234,888.401,"I understand the legal theory is different, but they, in effect, are saying it's not enough to give us our property back after all the litigation is over."
+1987.86-1781,0,18942,charles_fried,,893.433,895.604,The Court certainly did.
+1987.86-1781,0,15141,william_h_rehnquist,scotus_justice,932.602,938.126,"In adhering to a precedent that had been decided some fifty years before, you might also say."
+1987.86-1781,0,18942,charles_fried,,946.261,949.383,It was an exciting case.
+1987.86-1781,0,15060,john_paul_stevens,scotus_justice,979.912,984.435,"I'm not sure the plain language is quite as persuasive as you make it, because the clause says,"
+1987.86-1781,0,18942,charles_fried,,996.145,998.136,That is correct.
+1987.86-1781,0,15060,john_paul_stevens,scotus_justice,998.136,998.336,Yes.
+1987.86-1781,0,18942,charles_fried,,998.336,1005.001,"But the ""due process of law"" clause does not say ""without just compensation""."
+1987.86-1781,0,15060,john_paul_stevens,scotus_justice,1005.001,1005.162,No.
+1987.86-1781,0,18942,charles_fried,,1005.162,1011.395,"And that, I think, is... thereby hangs that particular tale, I would suggest."
+1987.86-1781,0,15060,john_paul_stevens,scotus_justice,1011.395,1020.711,"You would say that you remedy the one by providing the ""just compensation"" that was not provided; and you remedy the other by providing the ""due process"" not provided, I presume?"
+1987.86-1781,0,18942,charles_fried,,1020.711,1027.327,"Well, that, I would say that the Constitution requires no more than that you provide the ""due process""."
+1987.86-1781,1,35187,laurence_h_tribe,,1201.565,1208.14,Mr. Chief Justice and may it please the Court:
+1987.86-1781,1,15141,william_h_rehnquist,scotus_justice,1383.814,1397.173,Mr. Fried... at some point... it doesn't have to have been... I'd appreciate your describing just briefly in perhaps more detail what it is that the Respondent claimed that the Petitioners did?
+1987.86-1781,1,35187,laurence_h_tribe,,1397.173,1418.267,"--Yes, Mr. Chief Justice: they claim in the Complaint, and the case arose on the dismissal of that Complaint... they had arbitrary quotas saying a fixed number of people, regardless of any evidence of disability, have got to be cut from the rolls... we call it being tossed overboard... in order to meet the pressure from ""on high""."
+1987.86-1781,1,15141,william_h_rehnquist,scotus_justice,1496.872,1512.313,"As to the individual benefit denials... if a particular respondent felt that he had been ""tossed off"" because deliberately they were paying no attention, he could have challenged that in court, could he not, under the Social Security Act?"
+1987.86-1781,1,35187,laurence_h_tribe,,1512.313,1534.529,"Mr. Chief Justice, as the Solicitor-General calls them, 405> [""], he could have run immediately to court, and that is what it appears, the Solicitor-General counsels, that the best solution is not damages which might deter this misconduct, but judicial interference without even exhausting remedies, he suggests, immediate declaratory and injunctive relief."
+1987.86-1781,1,15141,william_h_rehnquist,scotus_justice,1553.845,1555.796,But that's true of any option--
+1987.86-1781,1,35187,laurence_h_tribe,,1555.796,1556.947,"Well, it is true--"
+1987.86-1781,1,15141,william_h_rehnquist,scotus_justice,1556.947,1559.489,"--if you don't take advantage of it, it doesn't do you any good."
+1987.86-1781,1,35187,laurence_h_tribe,,1559.489,1565.702,"--Well, if you take advantage of Bivens, at least after the fact, it won't, to answer Justice O'Connor's question, be too late."
+1987.86-1781,1,15141,william_h_rehnquist,scotus_justice,1587.686,1589.809,I don't mean injunctive relief.
+1987.86-1781,1,35187,laurence_h_tribe,,1604.251,1610.472,"--Well, these particular Respondents did go to court and filed the Complaint under 1331 seeking that relief."
+1987.86-1781,1,15060,john_paul_stevens,scotus_justice,1692.077,1704.696,"Mr. Tribe, could I ask you: suppose there hadn't been any constitutional violation and simply a denial of benefits wrongfully under the statute, in all good faith, but it was wrongfully denied."
+1987.86-1781,1,35187,laurence_h_tribe,,1746.355,1748.799,"Well, there are several answers, I think, Justice Scalia."
+1987.86-1781,1,15049,antonin_scalia,scotus_justice,1763.63,1769.194,"But why not the consequential damages along with those benefits, which would follow?"
+1987.86-1781,1,35187,laurence_h_tribe,,1769.194,1776.408,"It seems to me that, to answer the question of what Congress sort of had in mind in this area as it revisited it over and over,"
+1987.86-1781,1,15092,sandra_day_oconnor,scotus_justice,1982.915,1989.83,"This case seems a lot closer to Bush against Lucas than any of those, I must say."
+1987.86-1781,1,35187,laurence_h_tribe,,1989.83,2005.519,"Well, Justice O'Connor, the principal reason that is given by the Solicitor-General that this is a lot like Bush against Lucas in his brief, is that the social security system is too big; too complex; and the remedies are too comprehensive."
+1987.86-1781,1,15060,john_paul_stevens,scotus_justice,2071.716,2077.449,"Mr. Tribe, of course there you have the same complex remedial system in the law enforcement area."
+1987.86-1781,1,35187,laurence_h_tribe,,2077.449,2077.75,"Well, but--"
+1987.86-1781,1,15060,john_paul_stevens,scotus_justice,2077.75,2084.155,But let me ask you a different question: Justice Scalia asked you about... you may have the same kind of damage from statutory violations.
+1987.86-1781,1,35187,laurence_h_tribe,,2109.162,2114.525,"--We think, Justice Stevens, after Daniels and Davidson, that it's part of the constitutional violation."
+1987.86-1781,1,15060,john_paul_stevens,scotus_justice,2174.114,2182.61,So there would be a defense in this case if the Secretary put on evidence that he got bad staff advice; he thought he was doing something reasonable; so that would be a complete difference?
+1987.86-1781,1,35187,laurence_h_tribe,,2182.61,2191.255,"Well, in Harlow v. Fitzgerald, the Court spelled out really the contours of that defense: if it would have been in good faith and a reasonable person could have thought he was complying, it was constitutional."
+1987.86-1781,1,15060,john_paul_stevens,scotus_justice,2191.255,2191.405,"Well, that's an immunity."
+1987.86-1781,1,35187,laurence_h_tribe,,2195.198,2195.769,There may well be.
+1987.86-1781,1,15113,anthony_m_kennedy,scotus_justice,2219.425,2227.082,And is emotional distress recovery lie at the core of this violation that you posit?
+1987.86-1781,1,35187,laurence_h_tribe,,2227.082,2232.588,"Well, Justice Kennedy, I think emotional distress and other kinds of consequential damages lie at the core."
+1987.86-1781,1,15141,william_h_rehnquist,scotus_justice,2358.634,2366.107,"But any time someone is denied workmens' compensation benefits; disability benefits; because the Agency says,"
+1987.86-1781,1,35187,laurence_h_tribe,,2369.68,2371.841,"--No, Chief Justice Rhenquist."
+1987.86-1781,1,15141,william_h_rehnquist,scotus_justice,2388.603,2404.924,"Well, but to say it's deliberately inflicted would be right; but to say it's a stigma is something else, I think, because I thought our cases used the word, ""stigma"" in the sense of something that is generally recognized perhaps as a badge of obloquy or something like that."
+1987.86-1781,1,35187,laurence_h_tribe,,2410.247,2423.157,"Well, some might regard it as good news to be told that you are no longer disabled, but others might say that if they spent their working lives putting into a system, and are then told that they're lying about their disability, which is what this message is, it might be stigmatizing."
+1987.86-1781,1,15049,antonin_scalia,scotus_justice,2428.329,2432.173,I'm not sure it bears on a question of what the damages ought to be either.
+1987.86-1781,1,35187,laurence_h_tribe,,2444.451,2444.991,"Well, of course the ALJ--"
+1987.86-1781,1,15049,antonin_scalia,scotus_justice,2444.991,2468.767,"--the emotional distress; the trauma; is the same; your client is lying in this hospital bed; he gets exactly the same news; and you're telling us that in the one case, if he sues on a Bivens theory, he's entitled to consequential damages; whereas under the statute, where the same thing happens as far as the effect on him is concerned, all he's entitled to is to get the benefits that were denied."
+1987.86-1781,1,35187,laurence_h_tribe,,2469.829,2471.141,"--Justice Scalia, let me... in fact, that does not sound so sensible."
+1987.86-1781,1,15141,william_h_rehnquist,scotus_justice,2499.323,2509.759,"That may be quite true, but then you import the term, ""stigma"" as if that somehow adds to the fact it's been a deliberate violation of the Constitution."
+1987.86-1781,1,35187,laurence_h_tribe,,2509.759,2518.064,"Mr. Chief Justice, if I am understood as suggesting that stigma retroactively colors the existence of a violation, I don't mean to be suggesting that."
+1987.86-1781,1,15049,antonin_scalia,scotus_justice,2539.689,2541.658,That's what we're talking about damages.
+1987.86-1781,1,35187,laurence_h_tribe,,2568.04,2594.287,"--Well, certainly the harm... for example, if monthly benefits needed to purchase medicines are withheld, once you've crossed the threshold of saying that they were withheld as a result of a deliberate violation, then in calculating the damage, the lost health... which will have nothing to do with the number of dollars that the government saved by not paying for the medicine, may be quite right, Justice Scalia."
+1987.86-1781,1,15060,john_paul_stevens,scotus_justice,2763.591,2766.773,May I ask you one more question?
+1987.86-1781,1,35187,laurence_h_tribe,,2766.773,2766.964,--Yes?
+1987.86-1781,1,15060,john_paul_stevens,scotus_justice,2933.857,2938.579,"Have you computed the realistic exposure of the defendants in this case, assuming you're right?"
+1987.86-1781,1,35187,laurence_h_tribe,,2938.579,2951.228,"--Justice Stevens, the suggestion of the Solicitor-General that it's in the billions of dollars, I think assumes the capacity of proof on the part of Respondents, that in my wildest imagination, I would not assume."
+1987.86-1781,1,15060,john_paul_stevens,scotus_justice,2953.208,2953.679,What is the damages?
+1987.86-1781,1,35187,laurence_h_tribe,,2954.851,2959.054,"--They pray for at least $10,000 each against each Respondent."
+1987.86-1781,1,15060,john_paul_stevens,scotus_justice,2959.054,2960.364,And how many members of the class?
+1987.86-1781,1,35187,laurence_h_tribe,,2960.364,2961.796,It's not a class action.
+1987.86-1781,1,15141,william_h_rehnquist,scotus_justice,3068.942,3069.87,"Your time has expired, Mr. Tribe."
+1987.86-1781,1,35187,laurence_h_tribe,,3069.87,3070.871,"Thank you, Mr. Justice."
+1987.86-1781,1,15141,william_h_rehnquist,scotus_justice,3070.871,3072.003,"Thank you, Mr. Tribe."
+1987.86-1781,2,18942,charles_fried,,3075.056,3096.15,First it's important to note that Judge Friendly's decision in Ellis preceded Bush v. Lucas; and I don't think he would have decided the case the same way after this Court's guidance in Bush v. Lucas.
+1987.86-1781,2,15092,sandra_day_oconnor,scotus_justice,3116.945,3124.82,"Well, Mr. Fried, do you think the Court gave that less than a literal reading in Bowan against Michigan Academy?"
+1987.86-1781,2,18942,charles_fried,,3124.82,3153.849,"The Michigan Academy case is very important on that point because the Court recognized that it had... that it was rowing uphill; but that it was willing to do so because, had there not been a remedy that was implied under 1331, there would have been no way for those particular claims to be brought before any court whatsoever."
+1987.86-1781,2,15141,william_h_rehnquist,scotus_justice,3371.263,3372.024,"Thank you, General Fried."

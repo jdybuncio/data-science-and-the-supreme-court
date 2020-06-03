@@ -1,0 +1,339 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2008.07-513,0,15086,john_g_roberts_jr,scotus_justice,0.0,6.487,"We'll hear argument first today in Case 07-513, Herring v. United States."
+2008.07-513,0,38065,pamela_s_karlan,,7.154,23.079,"Thank you, Mr. Chief Justice and may it please the Court: In February 2004, the Dale County circuit clerk told the local sheriff's department that the court was recalling a warrant that had been issued earlier for Petitioner's arrest."
+2008.07-513,0,15086,john_g_roberts_jr,scotus_justice,50.581,55.283,Didn't they have some regular system for updating the computer base?
+2008.07-513,0,38065,pamela_s_karlan,,57.485,58.168,No.
+2008.07-513,0,15086,john_g_roberts_jr,scotus_justice,75.262,83.385,"So people who are, you know, the warrant is served, they're arrested, they go to trial, they're in jail, their name still shows up as having a warrant out for their arrest."
+2008.07-513,0,38065,pamela_s_karlan,,83.385,92.908,"--We don't know, Mr. Chief Justice, because this is a department that as far as the record reflects conducts no audits of any kind to update its files."
+2008.07-513,0,15086,john_g_roberts_jr,scotus_justice,105.816,110.619,"Well then, how did this warrant clerk, I guess is what I'd call her, discover the error?"
+2008.07-513,0,38065,pamela_s_karlan,,112.821,119.808,"She discovered it because what happened is a clerk in another police department called and said, is there a warrant for Petitioner's arrest."
+2008.07-513,0,15086,john_g_roberts_jr,scotus_justice,138.27,143.757,Why did the first -- first person in that scenario need a physical copy of the warrant?
+2008.07-513,0,38065,pamela_s_karlan,,143.757,152.362,"The record doesn't reflect that, but she simply I guess wanted to verify that there actually was a warrant because they were picking Petitioner up in a different county."
+2008.07-513,0,15068,samuel_a_alito_jr,scotus_justice,152.362,157.933,Does your argument depend on the quality of the recordkeeping in this particular department?
+2008.07-513,0,38065,pamela_s_karlan,,167.455,169.339,"That's correct, Justice Alito."
+2008.07-513,0,15068,samuel_a_alito_jr,scotus_justice,185.417,189.385,You're not asking for Arizona v. Evans to be overruled are you.
+2008.07-513,0,38065,pamela_s_karlan,,189.385,189.868,No.
+2008.07-513,0,15086,john_g_roberts_jr,scotus_justice,225.225,227.76,"Well, there was something done in this particular case, though, right?"
+2008.07-513,0,38065,pamela_s_karlan,,232.395,233.262,"--Yes, Mr. Chief Justice."
+2008.07-513,0,15086,john_g_roberts_jr,scotus_justice,233.262,236.264,--that the warrant -- that the information she had given 10 minutes before was inaccurate.
+2008.07-513,0,38065,pamela_s_karlan,,236.264,237.947,"Yes, Mr. Chief Justice."
+2008.07-513,0,15068,samuel_a_alito_jr,scotus_justice,243.684,245.62,"But none of that matters for your argument, does it?"
+2008.07-513,0,38065,pamela_s_karlan,,245.62,245.97,"Oh, no."
+2008.07-513,0,15068,samuel_a_alito_jr,scotus_justice,245.97,254.726,You want to make it -- you want to draw a clear line between errors by -- by clerical court employees versus errors by police employees.
+2008.07-513,0,38065,pamela_s_karlan,,254.726,255.192,That's correct.
+2008.07-513,0,15068,samuel_a_alito_jr,scotus_justice,265.598,273.853,How expeditious would it be -- suppose there's negligence on the part of both a court employee and a police department employee.
+2008.07-513,0,38065,pamela_s_karlan,,281.559,285.411,I don't think it would be exactly a comparative negligence determination.
+2008.07-513,0,15049,antonin_scalia,scotus_justice,303.057,305.492,I thought negligence is irrelevant here.
+2008.07-513,0,38065,pamela_s_karlan,,327.94,332.892,"--Well, Justice Scalia, I was answering Justice Alito's question and if I could just give a little bit of--"
+2008.07-513,0,15049,antonin_scalia,scotus_justice,332.892,338.463,"I know you were answering his question, but you want to answer it in a way that's consistent with your argument here."
+2008.07-513,0,38065,pamela_s_karlan,,338.463,339.582,"--Well, it is, Justice Scalia."
+2008.07-513,0,15049,antonin_scalia,scotus_justice,356.674,358.043,"You've injected the word ""negligence""."
+2008.07-513,0,38065,pamela_s_karlan,,358.043,361.161,"Okay, let me take the word ""negligence"" out then."
+2008.07-513,0,15049,antonin_scalia,scotus_justice,365.53,367.232,"Alone, but--"
+2008.07-513,0,38065,pamela_s_karlan,,367.232,367.799,--that's correct.
+2008.07-513,0,15049,antonin_scalia,scotus_justice,367.799,369.267,--there is dual causality.
+2008.07-513,0,38065,pamela_s_karlan,,369.267,369.651,Yes.
+2008.07-513,0,15049,antonin_scalia,scotus_justice,369.651,370.684,It isn't a matter of simple negligence.
+2008.07-513,0,38065,pamela_s_karlan,,370.684,371.234,"No, that's correct."
+2008.07-513,0,15086,john_g_roberts_jr,scotus_justice,372.386,373.319,How is it going to keep--
+2008.07-513,0,15068,samuel_a_alito_jr,scotus_justice,373.319,379.457,How are -- how are you going to determine whether there's error without determining whether there's negligence?
+2008.07-513,0,38065,pamela_s_karlan,,408.726,409.642,There would be no police error there.
+2008.07-513,0,15068,samuel_a_alito_jr,scotus_justice,409.642,410.511,--what their duty was.
+2008.07-513,0,38065,pamela_s_karlan,,416.13,418.415,Because in that case there would be no police error.
+2008.07-513,0,15068,samuel_a_alito_jr,scotus_justice,436.709,438.245,Let me give you another example.
+2008.07-513,0,38065,pamela_s_karlan,,481.357,486.059,The police -- the police department person caused that by writing down the wrong number.
+2008.07-513,0,15068,samuel_a_alito_jr,scotus_justice,486.059,488.678,How do you know that the police department wrote down the wrong number?
+2008.07-513,0,38065,pamela_s_karlan,,488.678,489.978,"Well, it's the same question as--"
+2008.07-513,0,15068,samuel_a_alito_jr,scotus_justice,489.978,490.98,How do you know what number was--
+2008.07-513,0,38065,pamela_s_karlan,,490.98,493.498,"--Well, it's the same question as in Evans: How do we know who made the mistake?"
+2008.07-513,0,15049,antonin_scalia,scotus_justice,506.156,521.149,"Just so I have your theory firmly in mind, you would say there is police error even if what happened was that there was an unpredictable and unavoidable computer glitch, no negligence on anybody's part?"
+2008.07-513,0,38065,pamela_s_karlan,,535.009,535.425,That's correct.
+2008.07-513,0,15139,stephen_g_breyer,scotus_justice,537.861,540.111,"Why, if there is no negligence?"
+2008.07-513,0,38065,pamela_s_karlan,,547.983,563.726,"Well, here's the problem: There are two kinds of negligence you might have; that is, you might have the negligence of an individual employee, or what you might have is a decision to use a shoddy recordkeeping system that doesn't catch those errors."
+2008.07-513,0,15139,stephen_g_breyer,scotus_justice,564.678,567.046,"Well, either of those things are negligence or worse."
+2008.07-513,0,38065,pamela_s_karlan,,567.046,567.33,--Yes.
+2008.07-513,0,15139,stephen_g_breyer,scotus_justice,567.33,580.271,So what I didn't understand is why you would charge the police with anything or suppress a warrant where there was a mistake but no one was negligent or worse.
+2008.07-513,0,38065,pamela_s_karlan,,580.271,588.627,"Well, we have had some difficulty finding any reported cases in which there is a police error of the kind of computer glitch that was just hypothesized."
+2008.07-513,0,15139,stephen_g_breyer,scotus_justice,589.86,591.746,But what you argued for--
+2008.07-513,0,38065,pamela_s_karlan,,591.746,592.262,--Yes.
+2008.07-513,0,15139,stephen_g_breyer,scotus_justice,592.646,597.665,"--you said, it should be suppressed even if no one is negligent or worse."
+2008.07-513,0,38065,pamela_s_karlan,,603.653,614.444,"--Well, part of what I'm trying to get at in my answer to your question is it's unclear in that situation whether anyone has done something wrong; that is, whether somebody in the police department programmed the police department computer--"
+2008.07-513,0,15113,anthony_m_kennedy,scotus_justice,614.444,618.996,Let's just assume the hypothetical -- the hypothetical: The computer malfunctions.
+2008.07-513,0,38065,pamela_s_karlan,,618.996,625.717,"--Well, you could have an act of God exception to the exclusionary rule, if you wanted to, but this case doesn't ask you to do that."
+2008.07-513,0,15113,anthony_m_kennedy,scotus_justice,625.717,626.3,"I'm sure a computer might be compared to God, but let's ----"
+2008.07-513,0,15060,john_paul_stevens,scotus_justice,627.267,629.752,Could I ask this question--
+2008.07-513,0,38065,pamela_s_karlan,,629.752,630.769,It's more powerful sometimes.
+2008.07-513,0,15060,john_paul_stevens,scotus_justice,630.769,631.954,--Could I ask this question?
+2008.07-513,0,38065,pamela_s_karlan,,642.492,644.428,There is no question that as a matter of fact--
+2008.07-513,0,15060,john_paul_stevens,scotus_justice,644.428,645.878,The question is whether it can be justified.
+2008.07-513,0,38065,pamela_s_karlan,,645.878,646.38,--Yes.
+2008.07-513,0,15086,john_g_roberts_jr,scotus_justice,655.569,657.452,--It's a separate question.
+2008.07-513,0,38065,pamela_s_karlan,,679.935,684.469,"--Well, that case of course is not this case, and you might want to leave open the question of the--"
+2008.07-513,0,15086,john_g_roberts_jr,scotus_justice,684.469,695.961,"No, but you have this difficulty: Do we have to get into negligence, or should we assume, as I understand to be your theory, as Justice Breyer put it, that you would still suppress the evidence when no one has done anything wrong?"
+2008.07-513,0,38065,pamela_s_karlan,,695.961,701.598,--We are asking in this case for you to suppress when someone has done something wrong.
+2008.07-513,0,15084,ruth_bader_ginsburg,scotus_justice,701.598,702.717,But how do you know?
+2008.07-513,0,38065,pamela_s_karlan,,704.717,707.769,"Well, we do know that someone did something wrong here, because we know--"
+2008.07-513,0,15113,anthony_m_kennedy,scotus_justice,707.769,708.537,But we want an answer--
+2008.07-513,0,38065,pamela_s_karlan,,708.537,709.321,"--No, I'm trying to answer--"
+2008.07-513,0,15113,anthony_m_kennedy,scotus_justice,709.321,710.387,--We want an answer to the question.
+2008.07-513,0,38065,pamela_s_karlan,,710.387,710.971,"--No, I'm trying--"
+2008.07-513,0,15113,anthony_m_kennedy,scotus_justice,710.971,712.406,Let's assume no one did anything wrong.
+2008.07-513,0,38065,pamela_s_karlan,,712.406,712.989,--I know.
+2008.07-513,0,15113,anthony_m_kennedy,scotus_justice,713.989,716.791,--because this bears on the fact of why are we doing this at all.
+2008.07-513,0,38065,pamela_s_karlan,,716.791,717.227,No.
+2008.07-513,0,15049,antonin_scalia,scotus_justice,741.006,742.175,--Exactly.
+2008.07-513,0,38065,pamela_s_karlan,,748.246,749.796,We would be happen with the negligence theory.
+2008.07-513,0,15049,antonin_scalia,scotus_justice,749.796,759.22,"--the noose is not as wide, but on the other hand it's a lot harder to calculate whether you -- every case involves an inquiry into whether there's police negligence or not."
+2008.07-513,0,38065,pamela_s_karlan,,759.22,760.387,That's exactly what I'm--
+2008.07-513,0,15049,antonin_scalia,scotus_justice,760.387,761.854,"A much easier rule, was there a warrant or not?"
+2008.07-513,0,38065,pamela_s_karlan,,764.605,771.027,"--Well, that's exactly why I -- why I said I think the easier rule for judges faced with suppression hearings is a rule that says--"
+2008.07-513,0,15139,stephen_g_breyer,scotus_justice,771.027,773.896,"I mean, I don't know what the underlying law is here."
+2008.07-513,0,38065,pamela_s_karlan,,784.002,785.069,"--Well, that's like--"
+2008.07-513,0,15139,stephen_g_breyer,scotus_justice,785.069,787.637,Or the mother said it's John and it's really Joe.
+2008.07-513,0,38065,pamela_s_karlan,,792.775,793.391,--Sure.
+2008.07-513,0,15139,stephen_g_breyer,scotus_justice,793.391,794.81,--but do they suppress things then?
+2008.07-513,0,38065,pamela_s_karlan,,795.793,796.643,"Well, there are two different--"
+2008.07-513,0,15139,stephen_g_breyer,scotus_justice,796.643,798.012,--but maybe they do.
+2008.07-513,0,38065,pamela_s_karlan,,798.012,807.7,"--There are two different kinds of cases where police arrest people: One set of cases where the policeman is arresting on the basis of probable cause, and there, there's a lot of room for error that is based on the facts."
+2008.07-513,0,15139,stephen_g_breyer,scotus_justice,813.188,813.871,But do we suppress?
+2008.07-513,0,38065,pamela_s_karlan,,813.871,814.271,"No, you do not--"
+2008.07-513,0,15139,stephen_g_breyer,scotus_justice,814.271,814.604,We do not?
+2008.07-513,0,38065,pamela_s_karlan,,815.187,815.704,--There was not even a Fourth--
+2008.07-513,0,15139,stephen_g_breyer,scotus_justice,815.704,829.197,"So there's no reason then, if we don't suppress when there's no error in the part of the policeman, none, it was just a weird circumstance, then I don't understand why we would suppress here."
+2008.07-513,0,38065,pamela_s_karlan,,842.838,843.204,--No.
+2008.07-513,0,15049,antonin_scalia,scotus_justice,855.598,856.998,Isn't there probable cause here?
+2008.07-513,0,38065,pamela_s_karlan,,856.998,859.233,Probable cause to do what?
+2008.07-513,0,15049,antonin_scalia,scotus_justice,859.233,861.433,He thought he had a warrant; he had probable cause to arrest.
+2008.07-513,0,38065,pamela_s_karlan,,861.433,863.768,There is no such thing as probable cause to believe there's a warrant.
+2008.07-513,0,15086,john_g_roberts_jr,scotus_justice,869.856,871.774,"Well, that's just rephrasing it."
+2008.07-513,0,38065,pamela_s_karlan,,877.261,882.581,"This Court has never said that before, which is it's not probable cause to believe there's a crime because there's a warrant."
+2008.07-513,0,15049,antonin_scalia,scotus_justice,886.867,887.817,"It doesn't seem to make sense, though."
+2008.07-513,0,38065,pamela_s_karlan,,889.319,890.519,"--Well, because here--"
+2008.07-513,0,15049,antonin_scalia,scotus_justice,890.519,902.829,"If the policeman is mistaken about whether he saw this guy picking somebody's pocket, he's mistaken about that, and in that case, the search is -- the product of the search is admitted."
+2008.07-513,0,38065,pamela_s_karlan,,908.114,921.14,"--Well, for two reasons: One is, even in the probable cause case, if the reason he thought there was probable cause is another officer told him there was probable cause and that officer was wrong, this Court said in Leon you continue to suppress."
+2008.07-513,0,15086,john_g_roberts_jr,scotus_justice,936.216,939.585,"So, you would impose a burden on the officer on the street serving a warrant?"
+2008.07-513,0,38065,pamela_s_karlan,,954.012,966.069,"No, I would not, Mr. Chief Justice, because if you announce that police error is going to lead to the suppression of evidence, the police will do a better job of maintaining their records."
+2008.07-513,0,15086,john_g_roberts_jr,scotus_justice,966.069,968.419,"Yes, but I mean I don't know what the situation is like--"
+2008.07-513,0,38065,pamela_s_karlan,,968.419,968.752,And then you won't have this problem.
+2008.07-513,0,15086,john_g_roberts_jr,scotus_justice,968.752,970.819,--I don't know what the situation is like in Dale County.
+2008.07-513,0,38065,pamela_s_karlan,,980.477,985.679,But there's not a Barney Fife defense to the violation of the Fourth Amendment either.
+2008.07-513,0,15086,john_g_roberts_jr,scotus_justice,994.134,1000.204,"Well, you said this wasn't anything in the record about what type of program they might have, whether they were updated."
+2008.07-513,0,38065,pamela_s_karlan,,1002.721,1008.125,"--Which suggests if they had been doing a good job of maintaining their records all along, this violation never would have occurred."
+2008.07-513,0,15068,samuel_a_alito_jr,scotus_justice,1008.125,1014.798,"--Well, what's the justification for drawing a distinction between a court employee and everybody who works for the police department?"
+2008.07-513,0,38065,pamela_s_karlan,,1049.602,1055.756,"Well, three things: One is the police themselves are often unionized and protected from retaliation."
+2008.07-513,0,15068,samuel_a_alito_jr,scotus_justice,1056.541,1059.743,What if it's not a police officer; it is not a law enforcement officer?
+2008.07-513,0,38065,pamela_s_karlan,,1063.028,1069.515,"--Well, I think that the clearest line is inside the police and outside, and let me give you a couple of reasons why."
+2008.07-513,0,15084,ruth_bader_ginsburg,scotus_justice,1070.749,1077.87,"Well, one is that you -- you are stuck with the Arizona v. Evans, which says if it's the court--"
+2008.07-513,0,38065,pamela_s_karlan,,1077.87,1083.608,"--Well, if it's the court, yes; but I -- I was going to give some reasons why the police department should be treated as an integrated whole."
+2008.07-513,0,15086,john_g_roberts_jr,scotus_justice,1103.62,1103.986,Sure.
+2008.07-513,0,38065,pamela_s_karlan,,1103.986,1111.374,"--this Court, for just a moment, is clerical personnel, support personnel -- there is a reason they are called ""support personnel""."
+2008.07-513,0,15086,john_g_roberts_jr,scotus_justice,1121.414,1125.532,"But the Coffee County people aren't called ""support officers"" for the Dale County police."
+2008.07-513,0,38065,pamela_s_karlan,,1125.532,1127.568,"--They are support for the police, and this Court has--"
+2008.07-513,0,15086,john_g_roberts_jr,scotus_justice,1127.568,1129.184,Now you keep saying this when you did this in your brief.
+2008.07-513,0,38065,pamela_s_karlan,,1138.774,1144.226,"--This Court, at least since Elkins, has recognized that police departments often operate across the board."
+2008.07-513,0,15049,antonin_scalia,scotus_justice,1172.459,1173.626,That's crucial to your case--
+2008.07-513,0,38065,pamela_s_karlan,,1173.626,1174.028,Yes.
+2008.07-513,0,15049,antonin_scalia,scotus_justice,1174.028,1181.165,"--really, that you -- that the police will not keep good records unless -- unless we let the criminals go."
+2008.07-513,0,38065,pamela_s_karlan,,1181.165,1183.017,That they need a powerful incentive.
+2008.07-513,0,15049,antonin_scalia,scotus_justice,1183.017,1185.201,And that's the theory of the exclusionary rule as--
+2008.07-513,0,38065,pamela_s_karlan,,1185.201,1185.719,Yes.
+2008.07-513,0,15049,antonin_scalia,scotus_justice,1185.719,1189.504,--as has been expressed in writings in some of our prior cases.
+2008.07-513,0,38065,pamela_s_karlan,,1227.88,1247.876,"Well, we don't think this is a severe remedy, and we think that the professionalism of the police is in substantial part a response to the message that the exclusionary rule sends, which is either you professionalize your police departments or the evidence they obtain is going to be suppressed; either you maintain good records or the reliance on those records is going to lead to suppression."
+2008.07-513,0,15049,antonin_scalia,scotus_justice,1247.876,1248.876,You don't think that--
+2008.07-513,0,15084,ruth_bader_ginsburg,scotus_justice,1248.876,1251.411,"--We don't know if these records are good, bad, or indifferent."
+2008.07-513,0,38065,pamela_s_karlan,,1259.601,1268.622,"It could be, and if I can just point to -- if you look at the Government's brief at page 48, they talk about how the FBI maintains its ""Wanted"" lists now."
+2008.07-513,0,15086,john_g_roberts_jr,scotus_justice,1294.172,1298.892,"So you are back to arguing that there was negligence, and that that's pertinent."
+2008.07-513,0,38065,pamela_s_karlan,,1298.892,1301.761,"--Well, in this case there was negligence, and you need not go any further than that."
+2008.07-513,0,15086,john_g_roberts_jr,scotus_justice,1305.146,1305.963,"Thank you, Miss Karlan."
+2008.07-513,1,35719,michael_r_dreeben,,1309.098,1325.976,"Thank you, Mr. Chief Justice, and may it please the Court: The exclusionary rule under this Court's cases has always been a balance between the interest in achieving some deterrence of police misconduct and the high cost of excluding probative evidence of criminal activity."
+2008.07-513,1,15086,john_g_roberts_jr,scotus_justice,1357.495,1361.982,Do we assume on the basis of the record that there is negligence in this case?
+2008.07-513,1,35719,michael_r_dreeben,,1361.982,1364.934,The district court did find that there was negligence.
+2008.07-513,1,15086,john_g_roberts_jr,scotus_justice,1394.703,1411.38,"Now, Ms. Karlan made the point -- and I'd like to get your response to it -- that if we adopt something that depends on the showing of negligence, that that will require extensive hearings in every case into exactly what their computer update system was, and so on."
+2008.07-513,1,35719,michael_r_dreeben,,1411.38,1424.14,"Mr. Chief Justice, I actually think that negligence alone should not be enough to justify suppression, because it would not produce the appreciable form of deterrence that this Court has said is warranted."
+2008.07-513,1,15042,david_h_souter,scotus_justice,1425.206,1426.758,May I interrupt you there?
+2008.07-513,1,35719,michael_r_dreeben,,1451.04,1455.159,"--I'm not sure that it won't affect conduct to some degree, Justice Souter."
+2008.07-513,1,15042,david_h_souter,scotus_justice,1462.098,1464.717,Don't you think it's probable that it will affect conduct?
+2008.07-513,1,35719,michael_r_dreeben,,1477.374,1484.928,"--I think the incremental change in police behavior will be modest at best, and I think this is crucial to my view of the case."
+2008.07-513,1,15049,antonin_scalia,scotus_justice,1484.928,1487.796,They -- they won't know that they are going to lose a case.
+2008.07-513,1,35719,michael_r_dreeben,,1501.056,1502.34,That's precisely so.
+2008.07-513,1,15049,antonin_scalia,scotus_justice,1502.34,1504.008,So they are saving themselves nothing.
+2008.07-513,1,35719,michael_r_dreeben,,1522.653,1524.255,"Justice Scalia, if you take it--"
+2008.07-513,1,15042,david_h_souter,scotus_justice,1524.255,1525.621,But they -- but they also--
+2008.07-513,1,35719,michael_r_dreeben,,1525.621,1526.055,--if you take it--
+2008.07-513,1,15042,david_h_souter,scotus_justice,1526.055,1533.527,"--But they also, as in this case, in the course of -- of committing their -- their negligent arrest find evidence of a crime."
+2008.07-513,1,35719,michael_r_dreeben,,1533.527,1534.027,--They do.
+2008.07-513,1,15042,david_h_souter,scotus_justice,1538.413,1547.102,"They can't know that, but we all know, as a practical matter, that that's why police want the -- the greatest scope to the arrest power."
+2008.07-513,1,35719,michael_r_dreeben,,1547.102,1547.787,"--No, I think that--"
+2008.07-513,1,15042,david_h_souter,scotus_justice,1547.787,1551.489,"Because in the course of doing incidental searches, they find things."
+2008.07-513,1,35719,michael_r_dreeben,,1552.973,1563.063,"--Justice Souter, what I think it's important for the Court to know is that the police have ample incentives as it stands to try to make their recordkeeping systems as accurately as possible."
+2008.07-513,1,15113,anthony_m_kennedy,scotus_justice,1594.934,1597.234,Is there a 1983 violation here?
+2008.07-513,1,35719,michael_r_dreeben,,1597.234,1603.54,"--On the facts of this case, Justice Kennedy, I would not say there is 1983 liability."
+2008.07-513,1,15113,anthony_m_kennedy,scotus_justice,1625.954,1634.56,"I suppose if the concern were that the police would become sloppy, then a 1983 suit would be more likely?"
+2008.07-513,1,35719,michael_r_dreeben,,1634.56,1634.927,Yes.
+2008.07-513,1,15060,john_paul_stevens,scotus_justice,1643.348,1646.867,"Mr. Dreeben, can I go back to your point you were just making."
+2008.07-513,1,35719,michael_r_dreeben,,1656.592,1661.394,"Well, that assumes, I think, contrary to this Court's presumption of good faith on governmental actors--"
+2008.07-513,1,15060,john_paul_stevens,scotus_justice,1661.394,1664.079,If you put aside good faith for the moment.
+2008.07-513,1,35719,michael_r_dreeben,,1669.547,1669.814,--No.
+2008.07-513,1,15060,john_paul_stevens,scotus_justice,1673.601,1677.72,The existence or nonexistence of the warrant doesn't affect the danger.
+2008.07-513,1,35719,michael_r_dreeben,,1677.72,1685.908,"Oh, it certainly does, because it converts what would otherwise be not a stop at all or a reasonable suspicion stop into a felony arrest."
+2008.07-513,1,15060,john_paul_stevens,scotus_justice,1693.764,1696.148,But the incentive exists whether there is a warrant in his pocket or not.
+2008.07-513,1,35719,michael_r_dreeben,,1696.148,1698.3,"--If there is no warrant, there will be no arrest."
+2008.07-513,1,15084,ruth_bader_ginsburg,scotus_justice,1706.037,1722.081,"Mr. Dreeben, what you've said about the danger to the arresting office -- officer and so they don't undertake an arrest lightly, doesn't fit with the facts of this case."
+2008.07-513,1,35719,michael_r_dreeben,,1745.947,1762.206,"Well, Justice Ginsburg, I assume that the Court will make its decision not based on the conduct of Officer Anderson in this case, but in an assessment nationwide of whether the exclusionary rule is necessary because the police lack incentives to keep warrant systems up to date."
+2008.07-513,1,15113,anthony_m_kennedy,scotus_justice,1768.544,1769.646,And there are three reasons.
+2008.07-513,1,35719,michael_r_dreeben,,1777.45,1779.502,The second reason is police resources.
+2008.07-513,1,15139,stephen_g_breyer,scotus_justice,1830.851,1837.939,"There is one question I have in my mind, and it's the only factor I thought of hypothetically that cuts against you."
+2008.07-513,1,35719,michael_r_dreeben,,1923.211,1926.312,Justice Breyer--
+2008.07-513,1,15139,stephen_g_breyer,scotus_justice,1926.312,1928.348,What is your substitute?
+2008.07-513,1,35719,michael_r_dreeben,,1928.348,1937.287,"--Well, my first answer, Justice Breyer, is that this Court's exclusionary rule jurisprudence already draws a number of careful lines based on the balance that--"
+2008.07-513,1,15139,stephen_g_breyer,scotus_justice,1937.287,1937.854,Right.
+2008.07-513,1,35719,michael_r_dreeben,,1955.749,1967.223,"--Well, the rule, to state it simply, that I think should govern this case is: An isolated and negligent police clerical error in the maintenance of warrant records should not lead to suppression."
+2008.07-513,1,15139,stephen_g_breyer,scotus_justice,1977.329,1978.679,So now we have -- let's think about that.
+2008.07-513,1,35719,michael_r_dreeben,,2015.037,2016.47,--I think it's highly administrable.
+2008.07-513,1,15113,anthony_m_kennedy,scotus_justice,2038.367,2043.687,"And if there were pervasive deficiencies, I assume that's exactly what we would inquire about under 1983?"
+2008.07-513,1,35719,michael_r_dreeben,,2043.687,2045.723,"That's correct, Justice Kennedy."
+2008.07-513,1,15113,anthony_m_kennedy,scotus_justice,2045.723,2048.525,And would you add 1983 as number four to your list?
+2008.07-513,1,35719,michael_r_dreeben,,2048.525,2059.816,"Yes, I would add number -- I would add 1983 possible liability as an additional incentive, just as it was remarked in Hudson that it provides for additional incentive for--"
+2008.07-513,1,15139,stephen_g_breyer,scotus_justice,2059.816,2060.383,One other question.
+2008.07-513,1,35719,michael_r_dreeben,,2081.129,2082.062,"--Well, I think--"
+2008.07-513,1,15139,stephen_g_breyer,scotus_justice,2082.062,2088.033,"Well, I mean does that count as a clerical error if, in fact, it's the man's partner who tells him this negligently?"
+2008.07-513,1,35719,michael_r_dreeben,,2088.033,2089.7,--I'm with Miss Karlan on this one.
+2008.07-513,1,15139,stephen_g_breyer,scotus_justice,2093.687,2094.137,Negligent.
+2008.07-513,1,35719,michael_r_dreeben,,2095.537,2095.972,--Yes.
+2008.07-513,1,15139,stephen_g_breyer,scotus_justice,2096.589,2099.008,That's negligent error.
+2008.07-513,1,35719,michael_r_dreeben,,2110.982,2114.851,"I think that that's a very close case, and I don't think that this Court--"
+2008.07-513,1,15139,stephen_g_breyer,scotus_justice,2114.851,2126.908,"There must be millions -- not millions, but there must have been cases where two policemen or one policeman goes off to arrest someone and negligently arrests the wrong man."
+2008.07-513,1,35719,michael_r_dreeben,,2131.645,2141.251,"--What we know about that from this Court's cases is that if one police officer has a warrant and it's, he obtained it based on an affidavit, that's purely a bare-bones--"
+2008.07-513,1,15139,stephen_g_breyer,scotus_justice,2141.251,2141.751,That's Leon.
+2008.07-513,1,35719,michael_r_dreeben,,2142.418,2143.62,"--No, it's actually not Leon."
+2008.07-513,1,15139,stephen_g_breyer,scotus_justice,2152.059,2153.343,I'm not thinking of a warrant.
+2008.07-513,1,35719,michael_r_dreeben,,2171.437,2173.572,I don't think it's so clear from this Court's cases.
+2008.07-513,1,15139,stephen_g_breyer,scotus_justice,2173.572,2174.706,"Well, there must have been a lot of cases."
+2008.07-513,1,35719,michael_r_dreeben,,2174.706,2175.841,"Well, not in this Court."
+2008.07-513,1,15139,stephen_g_breyer,scotus_justice,2175.841,2177.741,But what about the lower courts?
+2008.07-513,1,35719,michael_r_dreeben,,2178.46,2181.26,I'm not so aware that there are so many of them in the lower courts where it's negligence.
+2008.07-513,1,15113,anthony_m_kennedy,scotus_justice,2200.369,2205.921,"Do we use the word or the phrase ""good faith"" in writing the opinion if we write it your way?"
+2008.07-513,1,35719,michael_r_dreeben,,2205.921,2209.039,"--I don't think the Court needs to use the word ""good faith""."
+2008.07-513,1,15049,antonin_scalia,scotus_justice,2232.923,2236.875,You would allow all of that inquiry every time there's a motion to exclude.
+2008.07-513,1,35719,michael_r_dreeben,,2244.029,2244.814,I don't want it.
+2008.07-513,1,15049,antonin_scalia,scotus_justice,2252.302,2252.802,Thank you.
+2008.07-513,1,35719,michael_r_dreeben,,2253.402,2253.954,--Yes.
+2008.07-513,1,15042,david_h_souter,scotus_justice,2254.637,2267.644,"What about reaching -- what about reaching your standard in cases in which the arrest is wrong, not because there's no warrant, but because there's just slightly less than probable cause?"
+2008.07-513,1,35719,michael_r_dreeben,,2276.417,2282.154,"--I think that's a very different -- well, whether it violates the Fourth Amendment or not would turn on whether there is in fact probable cause."
+2008.07-513,1,15042,david_h_souter,scotus_justice,2285.273,2285.606,No.
+2008.07-513,1,35719,michael_r_dreeben,,2299.532,2300.582,--Yes.
+2008.07-513,1,15042,david_h_souter,scotus_justice,2300.582,2309.59,"The warrant itself may be subject to attack, but at least that's sort of the front line of our objective reasonableness inquiry."
+2008.07-513,1,35719,michael_r_dreeben,,2327.635,2341.709,"I think it's simply a different inquiry, Justice Souter, because, as I tried to explain, in this area the Court can note a number of incentives that law enforcement has to keep its warrant databases accurate and up to speed."
+2008.07-513,1,15060,john_paul_stevens,scotus_justice,2341.709,2343.994,"Mr. Dreeben, can I ask a background question?"
+2008.07-513,1,35719,michael_r_dreeben,,2347.113,2351.5,"In my experience, Justice Stevens, not that frequently."
+2008.07-513,1,15060,john_paul_stevens,scotus_justice,2351.5,2352.75,"That's my understanding, too."
+2008.07-513,1,35719,michael_r_dreeben,,2352.75,2353.567,And I think--
+2008.07-513,1,15060,john_paul_stevens,scotus_justice,2353.567,2356.821,It seems to me the case may have more symbolic importance than practical importance.
+2008.07-513,1,35719,michael_r_dreeben,,2356.821,2367.26,"--Well, I think that the practical importance of it and the legal importance of it is what, kind of a balance is the Court going to strike under the exclusionary rule."
+2008.07-513,1,15060,john_paul_stevens,scotus_justice,2379.668,2383.388,Are there any cases where -- this is a drug peddler here that was caught.
+2008.07-513,1,35719,michael_r_dreeben,,2388.09,2396.029,"--Some in the lower courts have involved violent crime, and I think this case would look and feel very different if evidence of a murder had been discovered in the car."
+2008.07-513,1,15049,antonin_scalia,scotus_justice,2402.116,2416.876,"Mr. Dreeben, if we adopt your formulation that isolated negligence doesn't count, is it clear that that's all there was in this case?"
+2008.07-513,1,35719,michael_r_dreeben,,2416.876,2419.709,"Well, that's all that the district court found."
+2008.07-513,1,15042,david_h_souter,scotus_justice,2444.443,2448.978,"Well, if Miss Karlan's figures are correct in Alabama there would be suppression."
+2008.07-513,1,35719,michael_r_dreeben,,2448.978,2453.799,"Well, there was no record made whatsoever on what Alabama's overall--"
+2008.07-513,1,15042,david_h_souter,scotus_justice,2453.799,2454.265,No.
+2008.07-513,1,35719,michael_r_dreeben,,2463.488,2473.962,"--Unless -- if the Court is prepared to say that the exclusionary rule is going to function differently on a State by State basis depending on the statewide error rate, which I think is an unusual thing for the Court to do--"
+2008.07-513,1,15042,david_h_souter,scotus_justice,2473.962,2479.08,"Well, it's going to function -- even on your theory, it's going to function differently on a department to department basis depending on the error rate."
+2008.07-513,1,35719,michael_r_dreeben,,2479.08,2490.972,"--Upon a -- Not just upon a showing of an error rate, but upon a showing that a particular recordkeeping system that produced an error was conducted in a manner so that you could say much more than negligence was involved here."
+2008.07-513,1,15042,david_h_souter,scotus_justice,2490.972,2494.626,"Well, if you've got a 13 percent error rate I think you've got a pretty good prima facie case."
+2008.07-513,1,35719,michael_r_dreeben,,2494.626,2495.376,You do.
+2008.07-513,1,15042,david_h_souter,scotus_justice,2501.196,2515.004,"But the fact is unless the 13 percent error rate in a negligence-free system, you would have suppression there and you would not have suppression there in the town next door or the county next door or the State next door."
+2008.07-513,1,35719,michael_r_dreeben,,2515.004,2525.227,"--If the Court adopts a rule that says that a showing of more than isolated negligence would justify suppression, you're correct."
+2008.07-513,1,15042,david_h_souter,scotus_justice,2526.977,2529.763,But I thought that basically was the distinction that you were arguing for.
+2008.07-513,1,35719,michael_r_dreeben,,2529.763,2530.113,--No.
+2008.07-513,1,15042,david_h_souter,scotus_justice,2542.606,2557.283,"But I take it if you're not accepting -- if you're not accepting -- I mean, you're not accepting the proposition that the 13 percent error rate which is not somehow shown to be non-negligent should have a different result, you are saying in the 13 percent case we're still not going to suppress."
+2008.07-513,1,35719,michael_r_dreeben,,2557.283,2571.523,--I would reserve the right to argue that the exclusionary rule's costs outweigh its benefits even if that is shown in a particular case because there are a myriad of other reasons why the police would have an incentive to improve that.
+2008.07-513,1,15042,david_h_souter,scotus_justice,2571.523,2583.664,"But if you -- if you were to make that argument and it came down to that bald a proposition, I assume you would come in with some kind of evidentiary basis to tell us exactly what the cost is."
+2008.07-513,1,35719,michael_r_dreeben,,2597.991,2599.11,Well I think--
+2008.07-513,1,15042,david_h_souter,scotus_justice,2599.11,2599.693,--beyond the record.
+2008.07-513,1,35719,michael_r_dreeben,,2599.693,2604.228,--It's manifested in it every case in which reliable probative evidence is suppressed.
+2008.07-513,1,15042,david_h_souter,scotus_justice,2604.228,2604.763,"Sure, sure it is."
+2008.07-513,1,35719,michael_r_dreeben,,2627.76,2632.497,"I don't think, Justice Souter, that the Court has ever looked for an empirical count of how many cases."
+2008.07-513,1,15042,david_h_souter,scotus_justice,2632.497,2649.292,"Don't you think we should if we are in effect -- if you are making what sounds to me like an empirical argument -- there is a cost to society, cases are being lost, criminals are going free -- don't you think that we ought to have a factual basis to know what that cost is?"
+2008.07-513,1,35719,michael_r_dreeben,,2649.292,2658.564,"If the Court wants one in order to justify the exclusionary rule, then it probably needs to go back to scratch and start all over again."
+2008.07-513,1,15042,david_h_souter,scotus_justice,2658.564,2669.02,"We've done an exclusionary rule now and in effect you are arguing for an exception to it because the cost is too great, and it seems to me the burden is on you to tell us what the cost figure is."
+2008.07-513,1,35719,michael_r_dreeben,,2669.02,2671.372,"I will say this, Justice Souter."
+2008.07-513,1,15042,david_h_souter,scotus_justice,2680.828,2686.981,"But if you take that argument to the extreme, we won't have an exclusionary rule at all, I suppose."
+2008.07-513,1,35719,michael_r_dreeben,,2686.981,2706.962,But my argument today does not require the Court to take that step at all because this is an area in which there is a local geography of incentives pertaining to the accuracy of warrants that allows the Court to conduct the balance in a way distinct from what it might do if it's confronted with police negligence or if it's confronted with a widespread pattern of negligence.
+2008.07-513,1,15060,john_paul_stevens,scotus_justice,2706.962,2715.068,"Of course, if you did the cost-benefit analysis the way Justice Stewart would, the cost is always zero to the State because they would not have had the evidence if they had obeyed the law."
+2008.07-513,1,35719,michael_r_dreeben,,2715.068,2741.283,"Yes, but I think, Justice Stevens, that form of looking at the question has been rejected in this Court's cases that have recognized that the exclusionary rule has to pay its way because in every case in which it results in suppression there is a cost to society and the benefit therefore needs to be appreciable and this Court needs to be confident of that before it concludes that what the Court called the ""massive remedy of exclusion"" is applied in any particular case."
+2008.07-513,1,15086,john_g_roberts_jr,scotus_justice,2741.283,2742.968,"We know what the cost was here, right?"
+2008.07-513,1,35719,michael_r_dreeben,,2754.626,2755.042,Correct.
+2008.07-513,1,15042,david_h_souter,scotus_justice,2763.112,2771.699,But don't you take -- I understood you to take the position and I thought the Court had previously taken the position that the cost benefit analysis had to be a systemic one.
+2008.07-513,1,35719,michael_r_dreeben,,2771.699,2785.108,"I think that that's correct, Justice Souter, but I'm not aware of any case in which the Court has said the exclusionary rule has costs and now we need to see the numbers of statistically how many cases result in suppression."
+2008.07-513,1,15042,david_h_souter,scotus_justice,2787.791,2789.893,"No, I think that's -- I think that's true."
+2008.07-513,1,35719,michael_r_dreeben,,2811.557,2836.605,"Well, Justice Souter what my case comes down to today I believe is the proposition that when we are talking about clerical errors made by the police, there are ample incentives for the police not to make those clerical errors that I've described earlier, such that the incremental benefit of the exclusionary rule which we know has a cost; it has a tangible cost in every case in which it's applied; does not pay its own way."
+2008.07-513,1,15084,ruth_bader_ginsburg,scotus_justice,2875.396,2881.467,"But that's not what we have here, and we have a 13 percent error rate."
+2008.07-513,1,35719,michael_r_dreeben,,2895.458,2923.691,"--Well, it does matter, Justice Ginsburg, because the police officers that I'm familiar with and the agencies that I'm familiar with as exemplified by the NCIC which is the national database, says that the last thing that we want to do is send officers mistakenly out on a felony arrest where they are going to be placed in a potentially dangerous situation spending community police resources to arrest somebody who should not be arrested."
+2008.07-513,1,15113,anthony_m_kennedy,scotus_justice,2977.426,2999.275,"In Hudson versus Michigan, didn't the Court engage in a very broad balancing of the social costs and the potential for increase in violations in saying that there was no necessity for the suppression rule in the no-knock case?"
+2008.07-513,1,35719,michael_r_dreeben,,2999.275,3041.035,"Yes, Justice Kennedy; the Court did just that and it began with the outset that the massive remedy of suppression of evidence is a high social cost that should not be borne by society, not just the police, by all of us, unless appreciable deterrence will result as a benefit; and the Court then examined the incentives that the police had not to make illegal no-knock entries and to add that whatever incremental benefit there might be from exclusion was not justified in light of the possibility of 198e liability and the increased professionalism of the police which has made it less necessary to make the exclusionary rule a remedy of first resort rather than last resort."
+2008.07-513,1,15084,ruth_bader_ginsburg,scotus_justice,3063.199,3084.528,"How many 1983 recoveries have there been when someone says the police, they convicted me on the basis of this evidence that wasn't suppressed, but they committed a Fourth Amendment violation so I should prevail in the 1983 action?"
+2008.07-513,1,35719,michael_r_dreeben,,3090.449,3110.263,"--No one knows, Justice Ginsburg, because a great many of these cases will settle out of court, but our brief does provide examples of conduct that was more serious and more egregious than anything involved in this case resulting in situations where courts denied summary judgments to the defendants and ordered the cases to go to trial."
+2008.07-513,1,15086,john_g_roberts_jr,scotus_justice,3125.705,3126.891,"Thank you, Mr. Dreeben."
+2008.07-513,1,15139,stephen_g_breyer,scotus_justice,3129.307,3133.378,Can I use 30 seconds of your eight minutes because I want some clarity on this.
+2008.07-513,2,38065,pamela_s_karlan,,3133.378,3133.995,Absolutely.
+2008.07-513,2,15139,stephen_g_breyer,scotus_justice,3133.995,3151.357,"Divide in your mind two separate things: The nature of the bad conduct: is it negligent, reckless, deliberate; and the other question is who engaged in it -- a police department official or some other official?"
+2008.07-513,2,38065,pamela_s_karlan,,3202.922,3211.211,"The answer to your question, Justice Breyer, is if the police officer in your hypothetical was negligent the evidence would be suppressed."
+2008.07-513,2,15139,stephen_g_breyer,scotus_justice,3217.882,3218.484,He was not.
+2008.07-513,2,38065,pamela_s_karlan,,3218.484,3219.484,--Then he was not negligent.
+2008.07-513,2,15139,stephen_g_breyer,scotus_justice,3219.484,3221.0,I want to know if he is negligent.
+2008.07-513,2,38065,pamela_s_karlan,,3221.0,3221.852,If he is negligent--
+2008.07-513,2,15139,stephen_g_breyer,scotus_justice,3221.852,3224.186,"Excuse me, because I think I'm getting a different view from the government."
+2008.07-513,2,38065,pamela_s_karlan,,3224.186,3236.279,"--I'm absolutely certain that the answer is if he was negligent then there was not probable cause; if there was not probable cause and one of the other exceptions to the exclusionary rule does not apply, then the evidence will be suppressed."
+2008.07-513,2,15113,anthony_m_kennedy,scotus_justice,3236.279,3239.48,And the definition of negligence is that he was not objectively reasonable?
+2008.07-513,2,38065,pamela_s_karlan,,3239.48,3240.113,That's correct.
+2008.07-513,2,15139,stephen_g_breyer,scotus_justice,3240.113,3240.697,All right.
+2008.07-513,2,38065,pamela_s_karlan,,3241.48,3260.192,"And the rule we are asking for here -- the narrow rule for our Petitioner is when you have negligent error by police officials, you suppress but as Justice Scalia pointed out in my colloquy with him earlier, that rule is perhaps slightly less workable than a rule that says all error."
+2008.07-513,2,15113,anthony_m_kennedy,scotus_justice,3311.807,3320.596,But in that -- but in that hypothetical I think it might be easy to say that the policeman on the beat was not objectively reasonable in relying.
+2008.07-513,2,38065,pamela_s_karlan,,3320.596,3321.863,--But Justice Kennedy--
+2008.07-513,2,15113,anthony_m_kennedy,scotus_justice,3321.863,3322.948,But that's certainly not the case here.
+2008.07-513,2,38065,pamela_s_karlan,,3322.948,3329.952,"--But Justice Kennedy, if you believe in the government's rule we should have a right to audit that system to show that 13 percent of the warrants--"
+2008.07-513,2,15049,antonin_scalia,scotus_justice,3329.952,3330.802,I agree with that.
+2008.07-513,2,38065,pamela_s_karlan,,3354.551,3355.419,--Yes.
+2008.07-513,2,15049,antonin_scalia,scotus_justice,3355.869,3356.786,And a major -- major trial.
+2008.07-513,2,15086,john_g_roberts_jr,scotus_justice,3356.786,3358.455,Not the procedures of the police.
+2008.07-513,2,38065,pamela_s_karlan,,3369.894,3379.285,"--But one of the things we know from the oral argument and the transcript in Evans is that clerk said this is the first time there has ever been an error, and it turned out there were four errors them made the same day."
+2008.07-513,2,15086,john_g_roberts_jr,scotus_justice,3379.285,3379.635,Okay.
+2008.07-513,2,38065,pamela_s_karlan,,3391.859,3392.176,Right.
+2008.07-513,2,15068,samuel_a_alito_jr,scotus_justice,3412.138,3414.34,Isn't your rule also going to require hearings.
+2008.07-513,2,38065,pamela_s_karlan,,3415.875,3416.675,The hearing in this case--
+2008.07-513,2,15068,samuel_a_alito_jr,scotus_justice,3416.675,3419.16,--you are going to have to have a hearing on whether there was negligence.
+2008.07-513,2,38065,pamela_s_karlan,,3426.481,3432.301,"--Justice Alito, we had a hearing in this case that's adequate to the rule that we have and it took approximately two hours."
+2008.07-513,2,15068,samuel_a_alito_jr,scotus_justice,3432.301,3435.586,And will that be the case in every instance?
+2008.07-513,2,38065,pamela_s_karlan,,3435.586,3441.173,It will be the case more often then that you'll have a two-hour hearing that you have to show isolated--
+2008.07-513,2,15068,samuel_a_alito_jr,scotus_justice,3442.359,3441.173,How do you know that?
+2008.07-513,2,38065,pamela_s_karlan,,3444.625,3448.596,--Hearings in which there was no warrant?
+2008.07-513,2,15113,anthony_m_kennedy,scotus_justice,3474.628,3484.769,"Suppose it were an agency like INS or Customs in which they have many people that are not sworn officers or some that are, does it make a difference who answered the phone?"
+2008.07-513,2,38065,pamela_s_karlan,,3484.769,3487.721,I don't think the sworn officer distinction makes a difference.
+2008.07-513,2,15113,anthony_m_kennedy,scotus_justice,3525.346,3530.215,In Rand we said this is exactly the inquiry we are not going to make.
+2008.07-513,2,38065,pamela_s_karlan,,3530.215,3531.667,--I'm not sure.
+2008.07-513,2,15113,anthony_m_kennedy,scotus_justice,3531.667,3538.237,Rand was where we had a traffic stop made by a narcotics officer.
+2008.07-513,2,38065,pamela_s_karlan,,3546.843,3547.493,That's correct.
+2008.07-513,2,15113,anthony_m_kennedy,scotus_justice,3547.493,3547.993,That's Rand.
+2008.07-513,2,38065,pamela_s_karlan,,3547.993,3548.509,No.
+2008.07-513,2,15049,antonin_scalia,scotus_justice,3568.906,3572.291,"That's your bottom line position, it has to be a negligent error?"
+2008.07-513,2,38065,pamela_s_karlan,,3572.291,3573.774,"In this case, yes."
+2008.07-513,2,15049,antonin_scalia,scotus_justice,3576.076,3577.595,What is the position you're arguing for?
+2008.07-513,2,38065,pamela_s_karlan,,3577.595,3578.862,--We are arguing for negligent--
+2008.07-513,2,15049,antonin_scalia,scotus_justice,3578.862,3580.647,You want to adopt a rule that's only when it's a negligent error?
+2008.07-513,2,38065,pamela_s_karlan,,3580.647,3587.284,--We are arguing for that rule but wanted you to understand that there is a tradeoff as you identified earlier.
+2008.07-513,2,15086,john_g_roberts_jr,scotus_justice,3633.063,3635.515,So that's assuming bad faith on the part of the police.
+2008.07-513,2,38065,pamela_s_karlan,,3635.515,3636.481,"--No, it's good faith."
+2008.07-513,2,15086,john_g_roberts_jr,scotus_justice,3636.481,3640.65,"They want to arrest him, so they follow him until they find a motor vehicle violation."
+2008.07-513,2,38065,pamela_s_karlan,,3640.65,3643.585,This Court has said it's absolutely fine and it's not bad faith.
+2008.07-513,2,15086,john_g_roberts_jr,scotus_justice,3643.585,3645.371,But you're suggesting it's bad faith--
+2008.07-513,2,38065,pamela_s_karlan,,3645.371,3646.171,"No, I'm not suggesting that."
+2008.07-513,2,15086,john_g_roberts_jr,scotus_justice,3646.171,3649.823,--because they -- because they don't want to have to worry about getting a warrant that might be wrong?
+2008.07-513,2,38065,pamela_s_karlan,,3649.823,3650.44,"No, no."
+2008.07-513,2,15086,john_g_roberts_jr,scotus_justice,3653.024,3656.261,"What was the point of -- well, sure, as long as I'm asking the questions, you can answer."
+2008.07-513,2,38065,pamela_s_karlan,,3668.319,3668.669,--No.
+2008.07-513,2,15049,antonin_scalia,scotus_justice,3689.733,3692.1,"May I ask one question, Chief."
+2008.07-513,2,15086,john_g_roberts_jr,scotus_justice,3692.1,3692.917,Sure.
+2008.07-513,2,15049,antonin_scalia,scotus_justice,3692.917,3700.79,Your -- your comment seems to assume that these warrants just lie there and the police only use them incidentally.
+2008.07-513,2,38065,pamela_s_karlan,,3709.562,3715.883,"Well, there are really two very different kinds of warrants out there, Justice Scalia, as I understand it."
+2008.07-513,2,15086,john_g_roberts_jr,scotus_justice,3747.319,3749.437,"Thank you Miss Karlan, the case is submitted."

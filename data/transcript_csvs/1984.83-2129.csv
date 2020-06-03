@@ -1,0 +1,100 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1984.83-2129,0,15073,warren_e_burger,scotus_justice,0.0,59.639,"Mr. Bizar, I think you may proceed whenever you're ready."
+1984.83-2129,0,28495,irving_bizar,,59.639,77.183,"Mr. Chief Justice, and may it please the Court; the issue in this case is whether the statutory language enacted by the Congress for section 14(e) in the Williams Act is to be given a different construction in the plain meaning of the words used."
+1984.83-2129,0,15071,byron_r_white,scotus_justice,330.41,332.193,Are those the only Circuits?
+1984.83-2129,0,28495,irving_bizar,,332.193,334.128,--We think those are the only Circuits.
+1984.83-2129,0,15071,byron_r_white,scotus_justice,338.766,340.466,As the Third Circuit?
+1984.83-2129,0,28495,irving_bizar,,340.466,342.968,As the Third Circuit and the Second Circuit.
+1984.83-2129,0,15071,byron_r_white,scotus_justice,342.968,351.424,So the Sixth Circuit is the only... the Sixth Circuit is the only one supporting your position?
+1984.83-2129,0,28495,irving_bizar,,351.424,351.807,Yes.
+1984.83-2129,0,15071,byron_r_white,scotus_justice,364.065,365.334,I see--
+1984.83-2129,0,28495,irving_bizar,,365.334,376.705,"Now I start my argument with the construction of the statute itself, the fact that there are three provisions, three subdivisions, each of which are preceded by the disjunctive ""or""."
+1984.83-2129,0,15141,william_h_rehnquist,scotus_justice,505.757,511.661,"--The three words you were talking about a moment ago are ""fraudulent"", ""deceptive"" or ""manipulative""; is that right?"
+1984.83-2129,0,28495,irving_bizar,,511.661,513.013,That is correct.
+1984.83-2129,0,15141,william_h_rehnquist,scotus_justice,513.013,520.017,"Do you think there is any overlap between ""fraudulent"" and ""deceptive""?"
+1984.83-2129,0,28495,irving_bizar,,520.017,524.302,"No, I think not, Your Honor, although it is somewhat unclear."
+1984.83-2129,0,15141,william_h_rehnquist,scotus_justice,571.599,578.52,"I was really more interested in trying to find out whether you thought there was any overlap at all between the words ""fraudulent"" and ""deceptive""."
+1984.83-2129,0,28495,irving_bizar,,578.52,580.638,--I do not believe there is an overlap.
+1984.83-2129,0,15141,william_h_rehnquist,scotus_justice,580.638,582.304,Those mean two distinct different things?
+1984.83-2129,0,28495,irving_bizar,,582.304,585.006,I think they mean two distinct different categories.
+1984.83-2129,0,15141,william_h_rehnquist,scotus_justice,601.452,606.439,"And you say ""manipulative"", the third word, does not require any element of deception?"
+1984.83-2129,0,28495,irving_bizar,,606.439,607.439,"That is correct, Your Honor."
+1984.83-2129,0,15141,william_h_rehnquist,scotus_justice,607.439,616.462,"That isn't consistent with our Court's construction of that word in that earlier, what is it, the Santa Fe case."
+1984.83-2129,0,28495,irving_bizar,,617.395,621.865,"Let me address that case, because I think that case is distinguishable."
+1984.83-2129,0,15060,john_paul_stevens,scotus_justice,801.463,813.788,"--Mr. Bizar, at an appropriate time it would be helpful to me if we assume, for a moment, that you are right, that you need something more... there may be cases that don't involve deception, the manipulation word has some meaning."
+1984.83-2129,0,28495,irving_bizar,,828.615,836.22,Let me start by saying that none of the lower courts considered the question of whether our complaint stated a claim for manipulation.
+1984.83-2129,0,15060,john_paul_stevens,scotus_justice,920.39,924.961,Would you say that every breach of contract suit was also a violation of 14(e)?
+1984.83-2129,0,28495,irving_bizar,,930.046,940.954,"--Our situation does not involve, necessarily, a breach of contract, and I think that's my brother's attempt to characterize the complaint, but it is not a breach of contract."
+1984.83-2129,0,15060,john_paul_stevens,scotus_justice,992.321,999.993,"Is it essential in your theory that there be a breach of some fiduciary obligation by the inside management, by the existing management?"
+1984.83-2129,0,28495,irving_bizar,,999.993,1000.809,"Yeah, I think so."
+1984.83-2129,0,15060,john_paul_stevens,scotus_justice,1263.714,1267.583,"Mr. Bizar, wouldn't most of these cases be brought as class actions on behalf of the entire body?"
+1984.83-2129,0,28495,irving_bizar,,1267.583,1268.566,Let me address that.
+1984.83-2129,0,15060,john_paul_stevens,scotus_justice,1272.32,1276.189,"I know, but usually somebody gets there first and that's the one that proceeds, isn't it?"
+1984.83-2129,0,28495,irving_bizar,,1276.189,1278.408,Which state would have the class action?
+1984.83-2129,0,15060,john_paul_stevens,scotus_justice,1286.078,1288.613,"Well, that's true of any corporate class litigation, isn't it?"
+1984.83-2129,0,28495,irving_bizar,,1288.613,1288.929,--No.
+1984.83-2129,0,15060,john_paul_stevens,scotus_justice,1288.929,1290.715,"There are a lot of them that are rather successful, as I remember it."
+1984.83-2129,0,28495,irving_bizar,,1290.715,1291.131,No.
+1984.83-2129,0,15060,john_paul_stevens,scotus_justice,1313.831,1323.52,"Yes, but aren't these problems that experts like yourself regularly deal with and regularly know what state it's best to proceed in, and it's part of the daily business of bringing these actions?"
+1984.83-2129,0,28495,irving_bizar,,1323.52,1324.053,--No.
+1984.83-2129,0,15071,byron_r_white,scotus_justice,1373.535,1384.325,I take it your position is that you need not even prove in a case like this that the action complained of artificially affected the market price.
+1984.83-2129,0,28495,irving_bizar,,1384.325,1386.693,"I would have to prove that, I would guess, perhaps."
+1984.83-2129,0,15071,byron_r_white,scotus_justice,1406.507,1420.1,I take it the Second Circuit in Buffalo Forge has said that manipulative acts reached only transactions that might mislead investors in the making of investment decisions.
+1984.83-2129,0,28495,irving_bizar,,1421.8,1422.333,No.
+1984.83-2129,0,15071,byron_r_white,scotus_justice,1424.652,1425.202,I know.
+1984.83-2129,0,28495,irving_bizar,,1427.42,1433.924,--I must prove that the market was artificially locked up by the defendant's conduct.
+1984.83-2129,0,15071,byron_r_white,scotus_justice,1433.924,1435.443,"Well, would that mislead investors?"
+1984.83-2129,0,28495,irving_bizar,,1435.443,1456.039,"It is not a question of misleading investors because frequently these facts are disclosed to the investors well after the fact and the so-called potential white knights or whatever say well, we can't go into this situation because we have to bid for 30 million, 40 million, we have to raise $200 million in a relatively short period of time."
+1984.83-2129,0,15060,john_paul_stevens,scotus_justice,1465.045,1470.699,"May I ask on that point about the locked-up price, are you contending the price went up too high or down too low?"
+1984.83-2129,0,28495,irving_bizar,,1470.699,1473.668,I make no contention with respect to the price itself.
+1984.83-2129,0,15073,warren_e_burger,scotus_justice,1501.151,1506.739,Very well.
+1984.83-2129,1,35651,marc_p_cherno,,1508.755,1528.469,"Mr. Chief Justice and may it please the Court: The question in this case, as we see it, is whether Congress, when it enacted the Williams Act, meant for the courts to fashion, without any congressional guidelines or any standards, a Federal common law of contract or of corporate governance."
+1984.83-2129,1,15071,byron_r_white,scotus_justice,1985.849,1992.853,"When you said ""fraud"" there, that would include misleading investors?"
+1984.83-2129,1,35651,marc_p_cherno,,1992.853,1995.888,Fraud would require the misleading of investors.
+1984.83-2129,1,15071,byron_r_white,scotus_justice,1995.888,1999.09,And that would be an example of the kind of fraud you are talking about?
+1984.83-2129,1,35651,marc_p_cherno,,1999.09,2004.894,That's the kind of fraud which has traditionally been required to state a claim under the Federal securities laws.
+1984.83-2129,1,15071,byron_r_white,scotus_justice,2009.547,2010.997,You mean the Court's opinion.
+1984.83-2129,1,35651,marc_p_cherno,,2010.997,2022.789,"--The Court's opinion, I am sorry, that you authored and Santa Fe stated, and I think it is consistent with every other decision of this Court which deals with the Federal securities laws."
+1984.83-2129,1,15060,john_paul_stevens,scotus_justice,2357.254,2360.205,"Mr. Cherno, can I ask you kind of a general question?"
+1984.83-2129,1,35651,marc_p_cherno,,2368.459,2368.809,That's right.
+1984.83-2129,1,15060,john_paul_stevens,scotus_justice,2368.809,2375.548,"And he says that if we have added all those words in the word ""manipulation"" must mean something other than fraud or deception."
+1984.83-2129,1,35651,marc_p_cherno,,2378.583,2388.039,"I think manipulation means, in this statute, conduct intended to mislead investors by artificially affecting market activity."
+1984.83-2129,1,15060,john_paul_stevens,scotus_justice,2392.341,2401.18,"Well, would you say that... I'm not an expert on the use of these terms, but he said somehow or other you locked out a white knight or scared him away or did something about a potential white knight."
+1984.83-2129,1,35651,marc_p_cherno,,2402.615,2404.098,"Certainly not, Your Honor."
+1984.83-2129,1,15060,john_paul_stevens,scotus_justice,2408.2,2408.533,I understand.
+1984.83-2129,1,35651,marc_p_cherno,,2411.602,2411.918,--No.
+1984.83-2129,1,15060,john_paul_stevens,scotus_justice,2431.346,2445.839,"But assume for the moment that everything was above-board in the sense of full disclosure but the arrangement somehow or other gave special inducements to inside management, which in turn made it implausible for a third party to make an offer to take over the company."
+1984.83-2129,1,35651,marc_p_cherno,,2451.06,2452.077,--Although that is not this case--
+1984.83-2129,1,15060,john_paul_stevens,scotus_justice,2452.077,2452.66,I understand.
+1984.83-2129,1,35651,marc_p_cherno,,2452.66,2456.381,--I would say that that does not violate section 14(e).
+1984.83-2129,1,15060,john_paul_stevens,scotus_justice,2464.468,2467.938,And you don't think Congress was at all concerned with that kind of problem in the Williams Act?
+1984.83-2129,1,35651,marc_p_cherno,,2467.938,2472.306,"--If you read the legislative history, you see no concern whatever with that kind of problem."
+1984.83-2129,1,15071,byron_r_white,scotus_justice,2544.42,2545.92,"But it's also fraud, in your view?"
+1984.83-2129,1,35651,marc_p_cherno,,2545.92,2548.055,"--Yes, it's also fraud, in my view."
+1984.83-2129,1,15071,byron_r_white,scotus_justice,2548.055,2553.708,So you don't think manipulation means something different from fraud?
+1984.83-2129,1,35651,marc_p_cherno,,2553.708,2556.56,I think manipulation is a species of fraud.
+1984.83-2129,1,15071,byron_r_white,scotus_justice,2566.166,2570.201,"So this was just a piece of bad draftsmanship in writing the Williams Act in saying ""or""?"
+1984.83-2129,1,35651,marc_p_cherno,,2570.201,2574.836,"--Well, I think 10(b)(5), Justice White, was drafted the same way."
+1984.83-2129,1,15071,byron_r_white,scotus_justice,2576.271,2576.638,"Well, that may be."
+1984.83-2129,1,35651,marc_p_cherno,,2583.759,2587.996,"--Well, I don't think 10(b)(5) was sloppy, nor do I think that the--"
+1984.83-2129,1,15071,byron_r_white,scotus_justice,2587.996,2591.38,"Well, it took a lot of cases to prove that it wasn't, didn't it?"
+1984.83-2129,1,35651,marc_p_cherno,,2591.38,2605.272,"--Nor do I think the Court's Santa Fe opinion, which said that manipulative conduct would have to include deceptive conduct, despite the use of the word ""or"" was a sloppy opinion."
+1984.83-2129,1,15071,byron_r_white,scotus_justice,2642.463,2646.432,"Well, that argument certainly carried the day in 10(b)(5), didn't it?"
+1984.83-2129,1,35651,marc_p_cherno,,2646.432,2651.253,I would hope it would carry the day in section 14(e) also.
+1984.83-2129,1,15060,john_paul_stevens,scotus_justice,3155.213,3161.517,"Mr. Cherno, can I ask you one more question about... I perhaps should ask your adversary this about your understanding of the theory of the complaint."
+1984.83-2129,1,35651,marc_p_cherno,,3170.539,3173.106,"You know, I'm puzzled by the whole theory of the case."
+1984.83-2129,1,15060,john_paul_stevens,scotus_justice,3207.962,3214.033,I'm not sure whether the wrong is withdrawing the first offer or the form of the second offer.
+1984.83-2129,1,35651,marc_p_cherno,,3214.033,3227.091,"I'm not sure either, but in either case I think it's posited on the wholly fallacious theory that somehow once an offeror starts a tender offer he has... shareholders have the right to that price."
+1984.83-2129,1,15060,john_paul_stevens,scotus_justice,3243.183,3251.639,I suppose the law could contemplate a situation in which you had a legal right to withdraw but you might nevertheless withdraw for an improper reason or part of an improper conspiracy.
+1984.83-2129,1,35651,marc_p_cherno,,3251.639,3257.026,"I think that the law can contemplate that, Justice Stevens, and that's what's in front of the Delaware Chancery Court."
+1984.83-2129,1,15073,warren_e_burger,scotus_justice,3287.997,3292.866,Mr. Bizar.
+1984.83-2129,2,28495,irving_bizar,,3292.866,3299.889,"Mr. Chief Justice, let me attempt to address some of the arguments made by my brother Cherno."
+1984.83-2129,2,15060,john_paul_stevens,scotus_justice,3331.508,3334.11,"Mr. Bizar, can I just ask you this one question?"
+1984.83-2129,2,28495,irving_bizar,,3339.864,3343.382,"It is a combination of both, because I suppose, Justice Stevens--"
+1984.83-2129,2,15060,john_paul_stevens,scotus_justice,3343.382,3350.155,Does it then follow that if we didn't have a first offer but they just come in with the second offer and that's all there was alleged there would be nothing wrong with that?
+1984.83-2129,2,28495,irving_bizar,,3350.155,3350.988,--That's correct.
+1984.83-2129,2,15060,john_paul_stevens,scotus_justice,3351.972,3352.272,I see.
+1984.83-2129,2,28495,irving_bizar,,3356.308,3356.691,--That's right.
+1984.83-2129,2,15060,john_paul_stevens,scotus_justice,3380.924,3383.209,it's the agreement you say they could have made if they hadn't made the first offer?
+1984.83-2129,2,28495,irving_bizar,,3383.209,3385.245,--That is correct.
+1984.83-2129,2,15073,warren_e_burger,scotus_justice,3452.853,3454.222,"Thank you, gentlemen."

@@ -1,0 +1,280 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2008.08-305,0,15086,john_g_roberts_jr,scotus_justice,0.0,7.745,"This morning we will first hear argument in Case 08-305, Forest Grove School District v. T.A.."
+2008.08-305,0,25278,gary_s_feinerman,,9.262,26.733,"Thank you, Mr. Chief Justice, and may it please the Court: The 1997 amendments to IDEA prohibit tuition reimbursement awards for students who are unilaterally placed in private school without first having received special education services from the public school district."
+2008.08-305,0,15084,ruth_bader_ginsburg,scotus_justice,79.785,105.15,"Mr. Feinerman, but the -- the first provision that you read, sub (i), says that there will be no reimbursement if the agency has made a free appropriate public education available to the child and the parents elected to place the child in private school."
+2008.08-305,0,25278,gary_s_feinerman,,122.195,123.762,--That's correct.
+2008.08-305,0,15084,ruth_bader_ginsburg,scotus_justice,123.762,135.337,"So if the child was entitled to a free appropriate public education and didn't get it, then under this sub (i), wouldn't the parents be entitled to tuition reimbursement?"
+2008.08-305,0,25278,gary_s_feinerman,,135.337,137.039,No.
+2008.08-305,0,15084,ruth_bader_ginsburg,scotus_justice,146.708,147.441,"Well, that's your--"
+2008.08-305,0,25278,gary_s_feinerman,,147.441,148.075,--those who are not--
+2008.08-305,0,15084,ruth_bader_ginsburg,scotus_justice,148.075,149.31,--That's your construction.
+2008.08-305,0,25278,gary_s_feinerman,,169.538,174.925,--That -- that might be the implication if there weren't subsection (C)(ii) through (C)(iv).
+2008.08-305,0,15049,antonin_scalia,scotus_justice,232.63,242.236,"Of course, (ii) through (iv) don't -- don't limit or contradict any explicit requirement of (i)."
+2008.08-305,0,25278,gary_s_feinerman,,242.236,243.07,"--Oh, no."
+2008.08-305,0,15049,antonin_scalia,scotus_justice,243.52,253.043,"(i) is only at most a negative implication, which -- which one would not draw in light of (ii) through (iv), is what you're saying."
+2008.08-305,0,25278,gary_s_feinerman,,253.043,254.393,"--Yes, that's exactly what I'm saying."
+2008.08-305,0,15084,ruth_bader_ginsburg,scotus_justice,281.111,296.37,"--Then -- then what happens in a case which I think is like this one, where the child doesn't receive special education because the school has determined that the child is not eligible?"
+2008.08-305,0,25278,gary_s_feinerman,,320.688,326.592,"--If -- if it's an incorrect determination by the school district, the problem is remedied rather quickly."
+2008.08-305,0,15049,antonin_scalia,scotus_justice,329.378,340.233,"Of course, the parents here didn't -- didn't run off to a private school only after the school district had found that their child didn't require any special education, did they?"
+2008.08-305,0,25278,gary_s_feinerman,,340.233,341.185,--That's correct.
+2008.08-305,0,15049,antonin_scalia,scotus_justice,341.185,345.47,They -- they put him in a private school without even consulting the schools.
+2008.08-305,0,25278,gary_s_feinerman,,345.47,345.937,Right.
+2008.08-305,0,15049,antonin_scalia,scotus_justice,348.589,349.889,"Saying by the way, we can get some money."
+2008.08-305,0,25278,gary_s_feinerman,,356.111,358.761,"--Well, it's -- the tuition is $5,200 a month."
+2008.08-305,0,15049,antonin_scalia,scotus_justice,358.761,359.497,A month?
+2008.08-305,0,25278,gary_s_feinerman,,359.497,367.217,"Yes, and then there's a $5,200 alumni services fee, a $1,500 interview fee."
+2008.08-305,0,15042,david_h_souter,scotus_justice,367.753,371.205,"Mr. Feinerman, can we go back to the time frame again?"
+2008.08-305,0,25278,gary_s_feinerman,,400.224,400.957,"--No, there isn't."
+2008.08-305,0,15042,david_h_souter,scotus_justice,401.757,403.859,Isn't that the -- isn't that the kicker here?
+2008.08-305,0,25278,gary_s_feinerman,,430.909,432.945,"--That's correct, but there's no need to wait years."
+2008.08-305,0,15084,ruth_bader_ginsburg,scotus_justice,438.949,441.717,But if you can explain what the process is--
+2008.08-305,0,25278,gary_s_feinerman,,441.717,442.117,--Yes.
+2008.08-305,0,15084,ruth_bader_ginsburg,scotus_justice,442.117,445.253,--because Justice Scalia said the parents just went away.
+2008.08-305,0,25278,gary_s_feinerman,,454.759,455.825,That's correct.
+2008.08-305,0,15084,ruth_bader_ginsburg,scotus_justice,457.894,458.394,--Yes.
+2008.08-305,0,25278,gary_s_feinerman,,458.394,469.201,"--at page 39 of the petition to the -- of the appendix to the petition, page 39 note 3, the district judge noted that the 2001 evaluation is an appropriate part of this case."
+2008.08-305,0,15084,ruth_bader_ginsburg,scotus_justice,490.448,491.248,Is that hearing--
+2008.08-305,0,25278,gary_s_feinerman,,491.248,491.681,--the hearing officer--
+2008.08-305,0,15084,ruth_bader_ginsburg,scotus_justice,491.681,498.619,"--Is that hearing on eligible or not, or is it on what the IEP should be?"
+2008.08-305,0,25278,gary_s_feinerman,,498.619,499.237,"--Well, it's--"
+2008.08-305,0,15084,ruth_bader_ginsburg,scotus_justice,499.237,507.14,"When the school said not eligible, is there -- is that question resolved first before we ever get to the IEP?"
+2008.08-305,0,25278,gary_s_feinerman,,507.14,517.432,"--I think, in a situation where the school district finds the child ineligible and there is an appeal, both the eligibility and the appropriate placement are decided in front of the hearing officer."
+2008.08-305,0,15084,ruth_bader_ginsburg,scotus_justice,526.954,536.977,"Well, wouldn't the school say, we -- we have no obligation to get up an IEP until the question of eligibility is determined?"
+2008.08-305,0,25278,gary_s_feinerman,,536.977,543.131,--I suppose if the school district were to get a stay of the hearing officer's decision pending appeal to the district court.
+2008.08-305,0,15042,david_h_souter,scotus_justice,581.839,583.256,What happens when we get to court?
+2008.08-305,0,25278,gary_s_feinerman,,583.256,584.458,Excuse me?
+2008.08-305,0,15042,david_h_souter,scotus_justice,584.458,586.491,What happens when we get to court?
+2008.08-305,0,25278,gary_s_feinerman,,588.325,607.303,"It turns into a matter of years, but in the interim this school district, Forest Grove School District, while it was litigating in the district court, Forest Grove School District offered an IEP, and at that point T.A.'s parents could have tried the IEP out, sent the child to receive services in the public school district--"
+2008.08-305,0,15084,ruth_bader_ginsburg,scotus_justice,607.303,612.274,The IEP -- they did the IEP after the hearing officer was finished?
+2008.08-305,0,25278,gary_s_feinerman,,612.274,613.074,--Yes.
+2008.08-305,0,15042,david_h_souter,scotus_justice,622.897,623.247,Okay.
+2008.08-305,0,25278,gary_s_feinerman,,659.922,666.076,"It can go on for a long, long time if the parents file for a due process hearing, and that it can--"
+2008.08-305,0,15042,david_h_souter,scotus_justice,666.076,668.694,"No, but they get the due process hearing."
+2008.08-305,0,25278,gary_s_feinerman,,697.963,703.617,--But all the parents have to do in that situation is to give the IEP a try and send their child to public school.
+2008.08-305,0,15042,david_h_souter,scotus_justice,703.617,706.652,"Yes, but doesn't that get to the point of something pretty formalistic?"
+2008.08-305,0,25278,gary_s_feinerman,,718.107,720.392,I don't think one day could be right.
+2008.08-305,0,15049,antonin_scalia,scotus_justice,731.6,733.183,Maybe -- I'm sorry.
+2008.08-305,0,15086,john_g_roberts_jr,scotus_justice,733.183,742.205,"I remember, perhaps incorrectly, from the prior argument here that the period that they had to try out the school plan was ten days?"
+2008.08-305,0,25278,gary_s_feinerman,,742.205,749.443,That -- that's a discretionary factor that courts and hearing officers can -- it's not a hard and fast rule.
+2008.08-305,0,15086,john_g_roberts_jr,scotus_justice,749.443,750.226,Not a hard and fast rule.
+2008.08-305,0,25278,gary_s_feinerman,,750.226,752.561,But I think it's probably good as a general benchmark.
+2008.08-305,0,15086,john_g_roberts_jr,scotus_justice,752.561,756.881,So is that -- is that a period that your client's prepared to accept?
+2008.08-305,0,25278,gary_s_feinerman,,756.881,765.468,"Yes, so long as -- in the ordinary case, ten days would -- it's in the statute, so we have that textual indication."
+2008.08-305,0,15068,samuel_a_alito_jr,scotus_justice,800.208,801.958,Do you think that's realistic?
+2008.08-305,0,25278,gary_s_feinerman,,815.718,818.92,It's certainly plausible under certain circumstances.
+2008.08-305,0,15084,ruth_bader_ginsburg,scotus_justice,823.989,841.785,"Isn't it also plausible that the district will say, ten days is not a fair trial for this system, this is a child with severe learning disabilities and to give this IEP a fair chance we need ten months?"
+2008.08-305,0,25278,gary_s_feinerman,,841.785,855.859,At that point those arguments can be made under (C)(iii) and (C)(iv) because at that point the child would no -- the parents would no longer be categorically barred from seeking tuition reimbursement and those are arguments that you can make to the hearing officer.
+2008.08-305,0,15042,david_h_souter,scotus_justice,855.859,869.602,"But you are basically saying that the -- that the only necessary delay in order to satisfy a condition for eligibility, if the parents otherwise prevail, is a ten-day delay."
+2008.08-305,0,25278,gary_s_feinerman,,871.22,874.089,I -- I don't think I'm saying that.
+2008.08-305,0,15042,david_h_souter,scotus_justice,874.622,875.306,Okay.
+2008.08-305,0,15049,antonin_scalia,scotus_justice,875.306,877.558,This school does not have to come up with an IEP.
+2008.08-305,0,25278,gary_s_feinerman,,895.836,902.174,--I think that assumes that the school district is not going to abide by the order of the independent hearing officer.
+2008.08-305,0,15113,anthony_m_kennedy,scotus_justice,903.858,905.208,What about before?
+2008.08-305,0,25278,gary_s_feinerman,,923.237,923.403,Right.
+2008.08-305,0,15068,samuel_a_alito_jr,scotus_justice,944.9,946.333,"Well, what happens in the case where--"
+2008.08-305,0,15049,antonin_scalia,scotus_justice,946.333,948.185,Could the district appeal?
+2008.08-305,0,25278,gary_s_feinerman,,951.137,952.687,"Absolutely, the district can appeal."
+2008.08-305,0,15049,antonin_scalia,scotus_justice,952.687,956.256,"And if it does, does it have to take any action in the interim."
+2008.08-305,0,25278,gary_s_feinerman,,956.256,962.093,"I suppose it, yes, unless it gets a stay of the hearing officer's ruling."
+2008.08-305,0,15049,antonin_scalia,scotus_justice,962.093,962.878,Which is--
+2008.08-305,0,25278,gary_s_feinerman,,962.878,965.897,But that didn't happen here and I am not aware of any cases which it did happen.
+2008.08-305,0,15060,john_paul_stevens,scotus_justice,988.91,991.429,I still don't understand your answer to Justice Scalia.
+2008.08-305,0,25278,gary_s_feinerman,,1002.82,1010.926,I think the assumption is that the school district would not abide by a lawful order of a hearing officer.
+2008.08-305,0,15060,john_paul_stevens,scotus_justice,1010.926,1012.526,"Well, they got a stay and they wanted to appeal it."
+2008.08-305,0,25278,gary_s_feinerman,,1014.128,1019.58,In that situation there would be no -- and I'm not aware of that situation ever happening--
+2008.08-305,0,15060,john_paul_stevens,scotus_justice,1019.58,1021.948,But they don't have a risk under your view of the law as I understand it.
+2008.08-305,0,25278,gary_s_feinerman,,1026.769,1034.522,"--There would be a delay in that situation, but I'm not aware of any case where that situation -- where a school district."
+2008.08-305,0,15060,john_paul_stevens,scotus_justice,1034.522,1042.111,"But that's the consequence of your position as I understand it, that they could do that and they would not have any risk of liability."
+2008.08-305,0,25278,gary_s_feinerman,,1042.111,1047.782,"I think that's a hypothetical risk, because again I haven't seen any situations where that actually has occurred."
+2008.08-305,0,15113,anthony_m_kennedy,scotus_justice,1047.782,1051.901,"Well, but it's not that hypothetical when -- there are two prongs."
+2008.08-305,0,25278,gary_s_feinerman,,1065.894,1071.465,"That's true, and I think -- I think the answer to the question -- it's really, this is really a legislative question."
+2008.08-305,0,15060,john_paul_stevens,scotus_justice,1088.442,1097.782,"Doesn't your interpretation of the statute create an incentive for the school board to just say, we'll never provide any kind of education, special education, we will just tough it out?"
+2008.08-305,0,25278,gary_s_feinerman,,1102.769,1110.023,"--I -- I suppose hypothetically it does, but my understanding is that that just doesn't happen."
+2008.08-305,0,15049,antonin_scalia,scotus_justice,1114.243,1142.061,"--Would you be surprised to find a court decision which says that when the reason that the plaintiff cannot comply with the requirement that he first be in a plan, when the reason is -- is the district's refusal to abide by an order to prepare a plan, that subsection (2) does not apply?"
+2008.08-305,0,25278,gary_s_feinerman,,1142.061,1142.677,--Your--
+2008.08-305,0,15049,antonin_scalia,scotus_justice,1142.677,1146.346,You can't profit by your own malfeasance.
+2008.08-305,0,25278,gary_s_feinerman,,1146.346,1147.048,--That's correct.
+2008.08-305,0,15049,antonin_scalia,scotus_justice,1165.509,1181.186,"But you -- you don't think -- you don't think a court could say the only reason these people could not comply with (ii) is that the school district made it impossible by not complying with the order to provide an IEP; and, therefore, they -- they can recover for the private placement?"
+2008.08-305,0,25278,gary_s_feinerman,,1181.186,1184.238,--It's conceivable that -- that a court could hold that.
+2008.08-305,0,15049,antonin_scalia,scotus_justice,1184.854,1185.756,I think it's more than conceivable.
+2008.08-305,0,15042,david_h_souter,scotus_justice,1187.473,1199.094,"But your position is that there are basically two situations: One, the situation in which there is an administrative order to do an IEP and the school district says, no, we won't do it."
+2008.08-305,0,25278,gary_s_feinerman,,1236.537,1241.44,"--That's the scheme that Congress wrote in the statute, yes, under -- under (C)(ii)."
+2008.08-305,0,15113,anthony_m_kennedy,scotus_justice,1323.408,1329.796,The -- the problem that the government and the parents have is they have to give some work to (ii).
+2008.08-305,0,25278,gary_s_feinerman,,1376.743,1381.947,I think the -- the Court already has adopted that presumption in Schaffer v. Weast.
+2008.08-305,0,15113,anthony_m_kennedy,scotus_justice,1386.668,1397.893,"Well, this -- this would be a clear and convincing evidence presumption that the -- that the IEP is -- that the school district designs is right, that its diagnosis is right."
+2008.08-305,0,25278,gary_s_feinerman,,1401.344,1401.844,Well--
+2008.08-305,0,15113,anthony_m_kennedy,scotus_justice,1401.844,1406.748,But would we have authority to do that if we were to reject your interpretation of the statute?
+2008.08-305,0,25278,gary_s_feinerman,,1406.748,1410.283,--I suppose you would have the authority to do that.
+2008.08-305,0,15084,ruth_bader_ginsburg,scotus_justice,1410.283,1413.985,How have -- how have hearing officers been proceeding?
+2008.08-305,0,25278,gary_s_feinerman,,1445.687,1451.908,There is some deference given to -- are you talking about the deference that the district court gives to the hearing officer?
+2008.08-305,0,15084,ruth_bader_ginsburg,scotus_justice,1451.908,1453.276,"No, the hearing officer."
+2008.08-305,0,25278,gary_s_feinerman,,1477.891,1479.524,Not -- not in this case.
+2008.08-305,0,15086,john_g_roberts_jr,scotus_justice,1486.747,1487.397,Counsel--
+2008.08-305,0,25278,gary_s_feinerman,,1487.397,1488.58,--on the question of eligibility.
+2008.08-305,0,15086,john_g_roberts_jr,scotus_justice,1488.58,1497.786,--why isn't it the case that the school's diagnosis is a related service under the statutory provision?
+2008.08-305,0,25278,gary_s_feinerman,,1503.757,1507.744,I -- I think that the diagnosis is more in terms of eligibility.
+2008.08-305,0,15086,john_g_roberts_jr,scotus_justice,1519.568,1522.603,"No, I'm talking about what the parents received."
+2008.08-305,0,25278,gary_s_feinerman,,1535.144,1537.363,I -- I don't think that's the way it works.
+2008.08-305,0,15086,john_g_roberts_jr,scotus_justice,1554.642,1555.392,"Thank you, counsel."
+2008.08-305,1,21494,david_b_salmons,,1562.978,1576.221,"That you, Mr. Chief Justice, and may it please the Court: The school district in this case improperly denied T.A., a child with a disability who had always been enrolled in public schools, access to all public special education services."
+2008.08-305,1,15086,john_g_roberts_jr,scotus_justice,1590.565,1592.048,What is wrong with ten days?
+2008.08-305,1,21494,david_b_salmons,,1606.105,1610.073,"I think there are several problems with that reading of the statute, Your Honor."
+2008.08-305,1,15086,john_g_roberts_jr,scotus_justice,1623.031,1627.434,"Oh, yes, the first day -- the first day they say, look, we don't think this is going to work out, so we are notifying you what we are going to do."
+2008.08-305,1,21494,david_b_salmons,,1630.903,1638.207,"But that's -- that's simply not the way these things work as a general matter, and let me just point out a few things about the normal process of developing IEP's."
+2008.08-305,1,15086,john_g_roberts_jr,scotus_justice,1674.582,1691.025,"Well, I suppose that's right, but once the law is clarified, schools that specialize in -- in treating these kids would be able -- they would understand as well, and they would understand you've got to -- the people who are going to be sending -- most of the people who will be sending their children to the school have to wait ten days."
+2008.08-305,1,21494,david_b_salmons,,1697.246,1711.255,"--But, again, Your Honor, if you focus on the terms of the statute, the -- even under Petitioner's reading, the requirement would be to have previously received special education services, not to have tried out a particular plan."
+2008.08-305,1,15086,john_g_roberts_jr,scotus_justice,1720.544,1721.646,"Well, which way does that cut?"
+2008.08-305,1,21494,david_b_salmons,,1723.596,1724.765,"--Well, I--"
+2008.08-305,1,15086,john_g_roberts_jr,scotus_justice,1724.765,1725.798,Here's a -- here's a new plan.
+2008.08-305,1,21494,david_b_salmons,,1731.002,1741.125,"--I think the way that cuts, Your Honor, is -- is that that reading of what you are positing, I guess, in this exchange what Congress might have had in mind, is not what they said in the statute."
+2008.08-305,1,15086,john_g_roberts_jr,scotus_justice,1748.298,1756.384,"With respect, counsel, what Congress provided is that the child must have previously received special education and related services."
+2008.08-305,1,21494,david_b_salmons,,1756.384,1757.236,That's right.
+2008.08-305,1,15086,john_g_roberts_jr,scotus_justice,1757.236,1761.688,So I think they did provide that you've got to try it out at least for a minimal period.
+2008.08-305,1,21494,david_b_salmons,,1761.688,1765.509,"But not the particular plan that is the subject of the IEP, Your Honor."
+2008.08-305,1,15086,john_g_roberts_jr,scotus_justice,1772.663,1773.163,Okay.
+2008.08-305,1,21494,david_b_salmons,,1778.317,1801.515,"Well -- well, if I -- if I may, the way we read this provision, and it's set forth on pages 3 and 4 on the addendum to the blue brief, and we think it's important that we read this as a whole and in context, is that subsection (C)(i) provides the general rule to govern the payment of private school tuition based on a unilateral placement by the parents."
+2008.08-305,1,15049,antonin_scalia,scotus_justice,1825.548,1829.25,Except that you are reading (C)(i) to say something that it doesn't say.
+2008.08-305,1,21494,david_b_salmons,,1837.538,1838.305,That is what--
+2008.08-305,1,15049,antonin_scalia,scotus_justice,1838.305,1845.294,"And you read it to say you must pay whenever it hasn't made, and it just doesn't say that."
+2008.08-305,1,21494,david_b_salmons,,1868.827,1877.063,"--Well, that's where we part company, Your Honor, because, in fact, that negative inference that you refer to is precisely what Petitioners attempt to read into subsection (C)(ii)."
+2008.08-305,1,15086,john_g_roberts_jr,scotus_justice,1884.95,1887.45,"In reading -- in reading it that way, you are reading the phrase"
+2008.08-305,1,21494,david_b_salmons,,1896.841,1897.358,"No, Your Honor."
+2008.08-305,1,15086,john_g_roberts_jr,scotus_justice,1902.293,1906.28,"Yeah, so it doesn't matter whether they previously received or not."
+2008.08-305,1,21494,david_b_salmons,,1906.28,1920.004,"It does matter, Your Honor, because the provisions that follow in (C)(iii) and (C)(iv) that guide the exercise of discretion, in that category of cases that were of concern to Congress, only apply to the cases that are defined in subsection (C)(ii)."
+2008.08-305,1,15086,john_g_roberts_jr,scotus_justice,1930.779,1942.537,"So you are saying Congress went to the trouble of spelling out this elaborate provision in (C)(iii) and (ii) and all the other things, but that was not the universe of the situations in which there could be reimbursement?"
+2008.08-305,1,21494,david_b_salmons,,1948.607,1949.091,"--Well, that's right."
+2008.08-305,1,15049,antonin_scalia,scotus_justice,1970.354,1980.845,"Yes, but if -- if you avoid that collaborative relationship entirely and just run off to a prior -- to a private school right away, you get reimbursement."
+2008.08-305,1,21494,david_b_salmons,,1981.795,1983.461,Well you don't automatically get reimbursement.
+2008.08-305,1,15049,antonin_scalia,scotus_justice,1983.461,1984.461,Why would Congress -- huh?
+2008.08-305,1,21494,david_b_salmons,,1984.461,1987.58,"You don't -- you don't automatically get reimbursement, Your Honor."
+2008.08-305,1,15139,stephen_g_breyer,scotus_justice,2001.404,2002.44,What about more than that?
+2008.08-305,1,21494,david_b_salmons,,2002.44,2003.19,The alternative--
+2008.08-305,1,15139,stephen_g_breyer,scotus_justice,2003.19,2009.493,"Why not -- I mean, suppose -- the part I don't understand in this statute, which may not be relevant -- I would appreciate the help."
+2008.08-305,1,21494,david_b_salmons,,2028.74,2029.323,--Your Honor--
+2008.08-305,1,15049,antonin_scalia,scotus_justice,2029.323,2029.99,I'm not following this.
+2008.08-305,1,15139,stephen_g_breyer,scotus_justice,2031.023,2035.311,"It's at the very beginning, at the end of addendum page 1."
+2008.08-305,1,21494,david_b_salmons,,2035.311,2040.465,"--This is what's -- Your Honor, this is what's known as the child find provision."
+2008.08-305,1,15139,stephen_g_breyer,scotus_justice,2040.465,2041.398,What is that?
+2008.08-305,1,21494,david_b_salmons,,2041.398,2057.49,"What it provides is that for -- let me just step back for a moment and remind the Court that the obligation on the State is to ensure that children, all children with disabilities, regardless of whether they are in public or private school, have the opportunity for a free appropriate public education."
+2008.08-305,1,15139,stephen_g_breyer,scotus_justice,2080.506,2080.956,All right.
+2008.08-305,1,21494,david_b_salmons,,2081.356,2082.958,--to provide benefits that are available to all children.
+2008.08-305,1,15139,stephen_g_breyer,scotus_justice,2082.958,2090.647,"--a parent who has a disabled child who never thinks about the public school system still gets some money, but not as much, for the disabled child?"
+2008.08-305,1,21494,david_b_salmons,,2090.647,2091.947,"It's not money to the parents, Your Honor."
+2008.08-305,1,15139,stephen_g_breyer,scotus_justice,2091.947,2092.93,It's money to the school.
+2008.08-305,1,21494,david_b_salmons,,2092.93,2096.717,"It funds programs, for example speech therapy or something like that."
+2008.08-305,1,15139,stephen_g_breyer,scotus_justice,2096.717,2097.117,To the school.
+2008.08-305,1,21494,david_b_salmons,,2097.117,2100.503,That they would then allow children in private school to -- to benefit from.
+2008.08-305,1,15139,stephen_g_breyer,scotus_justice,2100.503,2103.288,"And so, it's money that goes to the school for a program?"
+2008.08-305,1,21494,david_b_salmons,,2103.288,2105.99,It's not even necessarily money that goes to the private school.
+2008.08-305,1,15139,stephen_g_breyer,scotus_justice,2105.99,2106.757,Money that the children can get.
+2008.08-305,1,21494,david_b_salmons,,2107.29,2112.161,"It goes to the public schools, that they provide services that they may make available to children regardless of their placement."
+2008.08-305,1,15139,stephen_g_breyer,scotus_justice,2112.161,2112.611,All right.
+2008.08-305,1,21494,david_b_salmons,,2157.606,2160.375,"That's not -- I would not describe it that way, Your Honor, if I -- I don't mean to--"
+2008.08-305,1,15139,stephen_g_breyer,scotus_justice,2160.375,2161.994,I am reading the language.
+2008.08-305,1,21494,david_b_salmons,,2169.897,2171.765,"--I mean, again, just keep in mind the facts of this case."
+2008.08-305,1,15139,stephen_g_breyer,scotus_justice,2173.634,2175.584,--You haven't heard my amendment.
+2008.08-305,1,21494,david_b_salmons,,2175.584,2176.253,--Okay.
+2008.08-305,1,15139,stephen_g_breyer,scotus_justice,2177.303,2192.529,"My amendment is the norm will be give the public school a shot, but there could be circumstances, you're getting the run-around, there is need to put that child in a public school now."
+2008.08-305,1,21494,david_b_salmons,,2216.978,2221.948,"I would submit that the way we read the statute, Your Honor, in fact, does precisely that."
+2008.08-305,1,15139,stephen_g_breyer,scotus_justice,2225.084,2240.994,"But you have to be willing to accept that it's an unusual situation, though it may well exist, that the judge is going to reimburse the parent where that parent didn't give the public school a shot."
+2008.08-305,1,21494,david_b_salmons,,2244.481,2246.031,--The -- the difficulty I have--
+2008.08-305,1,15139,stephen_g_breyer,scotus_justice,2246.031,2247.1,Is that all right with you or not?
+2008.08-305,1,21494,david_b_salmons,,2247.1,2253.769,"--Well, the difficulty I have with your question, Your Honor, is that the school district always has a shot under the Act."
+2008.08-305,1,15139,stephen_g_breyer,scotus_justice,2262.459,2265.394,"Well, you are simply saying that it was reasonable for the parent here."
+2008.08-305,1,21494,david_b_salmons,,2266.811,2280.654,"--No, not just that it's reasonable, but in the process of assessing the child, in developing an individual education plan that is appropriate for that child, that is precisely the shot that the statute gives the public school system to get it right."
+2008.08-305,1,15084,ruth_bader_ginsburg,scotus_justice,2281.454,2293.061,"Mr. Salmons, I thought that the -- the courts, the district court, will not provide for tuition reimbursement, unless at least two things are shown."
+2008.08-305,1,21494,david_b_salmons,,2310.356,2311.256,--That is absolutely correct.
+2008.08-305,1,15084,ruth_bader_ginsburg,scotus_justice,2311.256,2322.664,"So you must find both, not just that the private school was a good place, but that the school district did not offer an adequate education for the child."
+2008.08-305,1,21494,david_b_salmons,,2322.664,2324.766,That is -- that is correct.
+2008.08-305,1,15084,ruth_bader_ginsburg,scotus_justice,2346.929,2351.75,But procedurally we -- we know that there is a provision addressed to a court for equitable relief.
+2008.08-305,1,21494,david_b_salmons,,2370.212,2371.33,"Thank you, Your Honor."
+2008.08-305,1,15049,antonin_scalia,scotus_justice,2441.039,2450.811,"Are any of these other procedures -- I took these to be procedures that have to be provided by the school district, not -- not by the hearing officer."
+2008.08-305,1,21494,david_b_salmons,,2450.811,2471.058,"These are -- these are required -- this whole section, Your Honor, 1412, is entitled ""State Eligibility"", and these are all requirements that States have to provide for process in order to obtain funds under the Act, and so it is a requirement that States provide hearing officers that have the ability to award reimbursement--"
+2008.08-305,1,15049,antonin_scalia,scotus_justice,2471.058,2471.658,But it doesn't say hearing officers.
+2008.08-305,1,21494,david_b_salmons,,2475.962,2477.228,--Those complaints--
+2008.08-305,1,15049,antonin_scalia,scotus_justice,2477.228,2479.33,--to present the complaint to the principal.
+2008.08-305,1,21494,david_b_salmons,,2479.33,2480.33,"--No, Your Honor."
+2008.08-305,1,15042,david_h_souter,scotus_justice,2488.27,2492.322,"No, but the reference is to a right to be heard on certain subjects."
+2008.08-305,1,21494,david_b_salmons,,2507.664,2508.099,Right.
+2008.08-305,1,15042,david_h_souter,scotus_justice,2529.847,2545.022,But can you raise the -- you can raise the claim to eligibility to a -- a private education here without the hearing officer having the authority to order the school district to provide it.
+2008.08-305,1,21494,david_b_salmons,,2545.022,2559.616,"That has not been the interpretation of this Act, Your Honor, and I would refer the Court to 34 CFR 300.148(b), which is a regulation that states that hearing officers can award reimbursement and that has been around since the mid1980s."
+2008.08-305,1,15042,david_h_souter,scotus_justice,2592.503,2603.245,"No, but it might make senses to say that the hearing officer can determine eligibility; it is then up to the school to pay it; and if the school does not pay it, then you have got to go into court and get an award."
+2008.08-305,1,21494,david_b_salmons,,2603.245,2614.203,"In fact, Your Honor, the hearing officers have always been permitted to award reimbursement, as occurred in this case, and then the school district can decide either to pay that or to seek review if they -- if they so choose."
+2008.08-305,1,15049,antonin_scalia,scotus_justice,2614.203,2626.677,"And it might make also sense to say that if the hearing officer has no authority to award a certain type of relief, neither does a court, under that general provision that--"
+2008.08-305,1,21494,david_b_salmons,,2626.677,2636.549,But of course this Court in Burlington held the court did have that authority and it relied on the fact that it has always been understood that hearing officers have that authority in reaching that conclusion in Burlington.
+2008.08-305,1,15049,antonin_scalia,scotus_justice,2636.549,2645.905,"--That's right, but -- but with these new provisions, if the hearing officer doesn't have the authority to award the kind of relief that was awarded here, then the court wouldn't either."
+2008.08-305,1,21494,david_b_salmons,,2645.905,2649.959,"Well, I -- with respect, I think there is nothing in the '97 amendments--"
+2008.08-305,1,15049,antonin_scalia,scotus_justice,2649.959,2654.494,"Well, you agree they go, as we say, in pari passu--"
+2008.08-305,1,21494,david_b_salmons,,2654.494,2656.863,"--Well, I do think that it doesn't make sense to say--"
+2008.08-305,1,15049,antonin_scalia,scotus_justice,2656.863,2659.713,"--that -- that whatever the hearing officer can do, the court can do."
+2008.08-305,1,21494,david_b_salmons,,2659.713,2660.298,--I think generally--
+2008.08-305,1,15049,antonin_scalia,scotus_justice,2660.298,2662.565,"--and whatever he can't do, the court can't do."
+2008.08-305,1,21494,david_b_salmons,,2662.565,2664.533,"--I think they ought to be read together, yes, Your Honor."
+2008.08-305,1,15084,ruth_bader_ginsburg,scotus_justice,2753.341,2760.43,I thought in 2001 even the parents agreed that he didn't -- that they didn't want to put him in special education?
+2008.08-305,1,21494,david_b_salmons,,2760.43,2781.427,"--The parents agreed, Your Honor, that he did not qualify for the learning disabilities they tested him for, but they had an obligation under the Act -- and this was found by the hearing officer and the complaint that was filed was filed within the two-year limitation to challenge that 2001 determination, and that that was there, they had an obligation to test him for those other health impairments at that time."
+2008.08-305,1,15086,john_g_roberts_jr,scotus_justice,2781.427,2782.244,"Thank you, counsel."
+2008.08-305,1,21494,david_b_salmons,,2782.244,2782.76,Thank you.
+2008.08-305,1,15086,john_g_roberts_jr,scotus_justice,2782.76,2793.402,Mr. Miller.
+2008.08-305,2,22857,eric_d_miller,,2793.402,2809.244,"Mr. Chief Justice, and may it please the Court: Had Petitioner provided T.A. a special education that was later determined to be inadequate, there would be no question that the district court would have authority and discretion to determine whether an award of private school tuition reimbursement was appropriate."
+2008.08-305,2,15086,john_g_roberts_jr,scotus_justice,2831.11,2833.66,"Well, for 10 days, right?"
+2008.08-305,2,22857,eric_d_miller,,2839.014,2839.514,--Well--
+2008.08-305,2,15086,john_g_roberts_jr,scotus_justice,2839.514,2844.917,"And then they would have -- then they would have previously received special education services, and they could proceed."
+2008.08-305,2,22857,eric_d_miller,,2844.917,2847.969,--We were not assuming bad faith.
+2008.08-305,2,15086,john_g_roberts_jr,scotus_justice,2848.904,2851.104,"""Stonewall"" sounds to me like bad faith."
+2008.08-305,2,22857,eric_d_miller,,2851.104,2851.554,--Well there--
+2008.08-305,2,15086,john_g_roberts_jr,scotus_justice,2851.554,2852.44,That was the word you used.
+2008.08-305,2,22857,eric_d_miller,,2852.44,2860.796,--I -- Congress -- there is no reason to suppose that Congress wanted to create an incentive or to reward districts that do do that.
+2008.08-305,2,15084,ruth_bader_ginsburg,scotus_justice,2860.796,2863.079,But we are talking about two different things.
+2008.08-305,2,22857,eric_d_miller,,2876.556,2877.639,That's absolutely right.
+2008.08-305,2,15086,john_g_roberts_jr,scotus_justice,2888.21,2892.731,"Well, let's move to the situation where they have a plan that the parents regard as inadequate."
+2008.08-305,2,22857,eric_d_miller,,2892.731,2893.431,--In the case--
+2008.08-305,2,15086,john_g_roberts_jr,scotus_justice,2893.431,2898.552,In that situation all they would have to do is to have the child try the plan for 10 days.
+2008.08-305,2,22857,eric_d_miller,,2898.552,2912.776,"--Well if the -- to the extent that there is an interest in having parents try out the plan, Petitioner's reading of the statute is poorly tailored to that objective, because it doesn't require that they try the specific plan that's being proposed for 10 days."
+2008.08-305,2,15042,david_h_souter,scotus_justice,2924.869,2927.987,But the odds are that it would be under the plan.
+2008.08-305,2,22857,eric_d_miller,,2933.289,2943.581,"--Well, not necessarily because there's a new plan at least once a year under the statute, and they are typically proposed at the end of a school year for the start of the new school year."
+2008.08-305,2,15084,ruth_bader_ginsburg,scotus_justice,2977.002,2997.047,"And the parents -- I think you agree that the parents would have the burden of showing both that the school did not provide an adequate education, an appropriate education, and that the private school does?"
+2008.08-305,2,22857,eric_d_miller,,2997.047,2998.432,--That's -- that's absolutely right.
+2008.08-305,2,15113,anthony_m_kennedy,scotus_justice,3008.604,3037.724,"Suppose we thought it were sensible to add to that burden the further rule that the school district is presumed to have made the correct diagnosis and, if there is a plan in that kind of case, that the plan was adequate, and that the parent would have to show by clear and convincing evidence that this is not so, rather than just inventing it and pulling it out of the sky."
+2008.08-305,2,22857,eric_d_miller,,3061.672,3086.105,"--Well, a clear and convincing evidence presumption would be difficult to reconcile, I think, with 1415(i)(2)(C)(iii), which says that the district court decision should be based on the preponderance of the evidence, but it is certainly within the district court's discretion and it would be within this Court's discretion, I think, to prescribe principles to guide the exercise of the district courts' equitable discretion--"
+2008.08-305,2,15084,ruth_bader_ginsburg,scotus_justice,3086.105,3088.906,The district court doesn't get into the act until the hearing officer is done.
+2008.08-305,2,22857,eric_d_miller,,3088.906,3090.358,--Right.
+2008.08-305,2,15084,ruth_bader_ginsburg,scotus_justice,3090.358,3104.618,"And so it would be odd to have a presumption applicable in court that isn't also applicable to the hearing officer, because the court is reviewing a decision by the hearing officer."
+2008.08-305,2,22857,eric_d_miller,,3104.618,3105.268,Right.
+2008.08-305,2,15049,antonin_scalia,scotus_justice,3138.072,3139.358,(i)(2)(B)(iii)--
+2008.08-305,2,15084,ruth_bader_ginsburg,scotus_justice,3139.358,3139.791,Is the department--
+2008.08-305,2,15049,antonin_scalia,scotus_justice,3139.791,3140.558,--(i)(2)(B)(iii)?
+2008.08-305,2,22857,eric_d_miller,,3140.558,3144.56,"Oh, it's (i)(2)(B) -- it's been amended in 2004."
+2008.08-305,2,15049,antonin_scalia,scotus_justice,3146.262,3147.445,It's now (C)?
+2008.08-305,2,22857,eric_d_miller,,3147.445,3147.895,--(C).
+2008.08-305,2,15049,antonin_scalia,scotus_justice,3147.895,3148.38,(C)(iii).
+2008.08-305,2,15084,ruth_bader_ginsburg,scotus_justice,3148.38,3164.807,--Does the -- does the department have a regulation that says the hearing officer may order the private school -- the parents to be reimbursed for private school tuition?
+2008.08-305,2,22857,eric_d_miller,,3166.509,3184.47,34 C.F.R. 300.148(b) says that disagreements between the parents and a public agency regarding the availability of a program appropriate for the child and the question of financial reimbursement are subject to the due process hearing procedures.
+2008.08-305,2,15086,john_g_roberts_jr,scotus_justice,3202.099,3204.832,"Counsel, this is Spending Clause legislation."
+2008.08-305,2,22857,eric_d_miller,,3213.906,3228.63,"--I think of the additional costs of treating special education children, above those of educating other children, I think approximately 10 percent, 10 to 12 percent, is reimbursed by the Federal Government."
+2008.08-305,2,15086,john_g_roberts_jr,scotus_justice,3228.63,3238.605,"So if this interpretation vastly expands the liability of school districts in that particular area, isn't that a consideration we should consider?"
+2008.08-305,2,22857,eric_d_miller,,3251.329,3260.885,"There's no basis for supposing that there would be a vast expansion of liability, and there are some statistics on this in the National Disability Rights Network's amicus brief at pages 13 and 14."
+2008.08-305,2,15113,anthony_m_kennedy,scotus_justice,3296.024,3296.726,If the--
+2008.08-305,2,22857,eric_d_miller,,3296.726,3297.226,--they're going to be--
+2008.08-305,2,15113,anthony_m_kennedy,scotus_justice,3297.226,3306.416,"--If the parents are entitled and the child is entitled to the special education and the school doesn't give it, and there are two schools -- private schools in the community, A and B."
+2008.08-305,2,22857,eric_d_miller,,3327.33,3327.73,--No.
+2008.08-305,2,15084,ruth_bader_ginsburg,scotus_justice,3344.291,3354.313,"Or there could be, I suppose, an order that any tuition in excess of a certain amount would be the parents' responsibility."
+2008.08-305,2,22857,eric_d_miller,,3354.313,3355.599,That's -- that's right.
+2008.08-305,2,15049,antonin_scalia,scotus_justice,3377.762,3378.745,Let me be clear.
+2008.08-305,2,22857,eric_d_miller,,3411.685,3428.295,"There would be no categorical bar in the statute in that situation, but a district court confronted with those facts would most likely conclude that the parents had not genuinely sought a free appropriate public education and hadn't appropriately cooperated with the school district."
+2008.08-305,2,15086,john_g_roberts_jr,scotus_justice,3428.295,3429.245,"Thank you, counsel."
+2008.08-305,2,22857,eric_d_miller,,3429.245,3429.73,Thank you.
+2008.08-305,2,15086,john_g_roberts_jr,scotus_justice,3429.73,3432.932,"Mr. Feinerman, you have 4 minutes remaining."
+2008.08-305,3,25278,gary_s_feinerman,,3432.932,3435.032,"Thank you, Mr. Chief Justice."
+2008.08-305,3,15084,ruth_bader_ginsburg,scotus_justice,3478.978,3479.494,Where are you reading this?
+2008.08-305,3,25278,gary_s_feinerman,,3479.494,3483.948,This isn't -- this regulation was brought up at argument.
+2008.08-305,3,15139,stephen_g_breyer,scotus_justice,3622.772,3627.426,"Well, what happens -- what happens if the hearing officer can't, but why couldn't the court?"
+2008.08-305,3,25278,gary_s_feinerman,,3645.554,3646.038,"--That's correct, but--"
+2008.08-305,3,15139,stephen_g_breyer,scotus_justice,3646.038,3646.554,Why not?
+2008.08-305,3,25278,gary_s_feinerman,,3650.423,3652.958,"--The Spending Clause, the headings that Congress used--"
+2008.08-305,3,15139,stephen_g_breyer,scotus_justice,3652.958,3653.392,All right.
+2008.08-305,3,25278,gary_s_feinerman,,3654.91,3681.561,"--At any rate -- and it's a system that doesn't make any sense, because for children who did previously receive and go to the hearing officer to challenge either an eligibility determination or an improper IEP, the hearing officer could award tuition reimbursement, but for children who didn't previously receive and then they went in front of the hearing officer, they would have to -- I don't know what the word would be -- appeal to the district court in order to get tuition reimbursement."
+2008.08-305,3,15139,stephen_g_breyer,scotus_justice,3685.096,3688.131,You're saying the statute says the hearing officer can't do that no matter what.
+2008.08-305,3,25278,gary_s_feinerman,,3689.065,3691.2,"--That's correct, but I'm saying if--"
+2008.08-305,3,15139,stephen_g_breyer,scotus_justice,3691.2,3691.783,All right.
+2008.08-305,3,25278,gary_s_feinerman,,3691.783,3693.635,"--If T.A. is right, that would be the system."
+2008.08-305,3,15086,john_g_roberts_jr,scotus_justice,3694.569,3695.154,"Thank you, counsel."

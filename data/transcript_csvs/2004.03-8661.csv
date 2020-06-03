@@ -1,0 +1,304 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2004.03-8661,0,15060,john_paul_stevens,scotus_justice,0.0,5.212,We'll hear argument in the case of Smith against Massachusetts.
+2004.03-8661,0,21313,david_j_nathanson,,45.636,48.168,"Justice Stevens, and may it please the Court:"
+2004.03-8661,0,15084,ruth_bader_ginsburg,scotus_justice,83.916,84.624,No.
+2004.03-8661,0,21313,david_j_nathanson,,120.36,122.889,"Well, first of all, obviously, that's a civil case."
+2004.03-8661,0,15084,ruth_bader_ginsburg,scotus_justice,149.596,157.203,"Yes, but I looked at Martin Linen, and there, there was something labeled judgment of acquittal entered."
+2004.03-8661,0,21313,david_j_nathanson,,167.801,169.521,"--Allowed, and it was attested by the clerk."
+2004.03-8661,0,15084,ruth_bader_ginsburg,scotus_justice,169.521,170.04,Yes.
+2004.03-8661,0,21313,david_j_nathanson,,191.1,191.881,"No, Your Honor."
+2004.03-8661,0,15113,anthony_m_kennedy,scotus_justice,201.237,224.362,"Well, suppose you have a State and the State has a statute, and the statute says any motion for acquittal may be granted by the... the trial court at the close of the prosecution's evidence, but that motion shall not be deemed final and may be reviewed by the district court at any time before... or by the trial court at any time before the submission of the case to the jury."
+2004.03-8661,0,21313,david_j_nathanson,,242.767,256.797,"Well, to answer the first question, I think that if... if such a statute were enacted, I'm willing to grant, for purposes of this case, that it wouldn't be a double jeopardy problem."
+2004.03-8661,0,15113,anthony_m_kennedy,scotus_justice,269.822,272.642,"Okay, well, let... let's just assume that you've conceded that."
+2004.03-8661,0,21313,david_j_nathanson,,280.749,286.581,"Well, first of all, the Supreme Judicial Court of Massachusetts is the one who promulgated the rules in this case."
+2004.03-8661,0,15113,anthony_m_kennedy,scotus_justice,290.876,293.007,"Well, but they put a gloss on the rule by their decision."
+2004.03-8661,0,21313,david_j_nathanson,,293.007,295.764,"--Well, that was the Massachusetts Appeals Court, I might add."
+2004.03-8661,0,15139,stephen_g_breyer,scotus_justice,306.556,307.825,They've held that in this case.
+2004.03-8661,0,21313,david_j_nathanson,,314.647,315.667,--Actually--
+2004.03-8661,0,15139,stephen_g_breyer,scotus_justice,315.667,321.585,"Well, if it isn't their law, then I don't know how... why they affirmed this conviction rather than reversing it."
+2004.03-8661,0,21313,david_j_nathanson,,321.585,323.431,"--I'm not sure I know either, Your Honor."
+2004.03-8661,0,15139,stephen_g_breyer,scotus_justice,323.431,328.94,"All right, but I mean, I... I take it that it is their law, otherwise I'd see reversal, wouldn't I, and not affirmance?"
+2004.03-8661,0,21313,david_j_nathanson,,328.94,330.584,Actually I think what they did--
+2004.03-8661,0,15139,stephen_g_breyer,scotus_justice,330.584,330.949,What?
+2004.03-8661,0,21313,david_j_nathanson,,330.949,347.72,"--Your Honor, is they assumed that there was an error in... in... when dealing strictly with the rule, at the... at the end of the section dealing with this, they assume that there was an error and said no prejudice, which I've contended in the brief--"
+2004.03-8661,0,15139,stephen_g_breyer,scotus_justice,347.72,352.787,"So... so in other words, they're saying that in this case... how could there not be prejudice?"
+2004.03-8661,0,21313,david_j_nathanson,,363.394,374.3,"--As for finality, the rule I propose is, first of all, we have to start with the basic foundation, which is an acquittal, under Martin Linen with a resolution--"
+2004.03-8661,0,15139,stephen_g_breyer,scotus_justice,374.3,377.006,"What I'm saying is, for double jeopardy purposes--"
+2004.03-8661,0,21313,david_j_nathanson,,377.006,377.3,--Yes.
+2004.03-8661,0,15139,stephen_g_breyer,scotus_justice,377.3,383.175,--an acquittal in your view is an acquittal for double jeopardy purposes when?
+2004.03-8661,0,21313,david_j_nathanson,,383.175,388.709,There's... there's three things that I think Court should look at.
+2004.03-8661,0,15139,stephen_g_breyer,scotus_justice,402.605,402.753,No.
+2004.03-8661,0,21313,david_j_nathanson,,420.72,421.05,--Yes.
+2004.03-8661,0,15139,stephen_g_breyer,scotus_justice,421.05,422.402,According... I know what their rule is.
+2004.03-8661,0,21313,david_j_nathanson,,447.996,449.62,"No, Your Honor."
+2004.03-8661,0,15139,stephen_g_breyer,scotus_justice,449.62,450.178,Okay.
+2004.03-8661,0,21313,david_j_nathanson,,450.821,458.125,"The... your first question... the constitutional point of no return, shall we say, is further proceedings."
+2004.03-8661,0,15139,stephen_g_breyer,scotus_justice,461.563,469.461,"There is no further proceeding if he writes the word acquittal, I guess until he changes his mind."
+2004.03-8661,0,21313,david_j_nathanson,,474.93,486.512,"--Well, then at that point you look to other indicia of finality that this... this Court referenced that in... in Vincent, and that... that's generally compliance with State procedure."
+2004.03-8661,0,15139,stephen_g_breyer,scotus_justice,488.1,490.01,But I need to write a simple rule.
+2004.03-8661,0,21313,david_j_nathanson,,513.02,514.38,--No.
+2004.03-8661,0,15139,stephen_g_breyer,scotus_justice,514.846,515.144,Okay.
+2004.03-8661,0,21313,david_j_nathanson,,515.806,522.745,"--The rule is that the judge cannot change it, as a matter of Federal constitutional law, if there are further proceedings."
+2004.03-8661,0,15092,sandra_day_oconnor,scotus_justice,531.3,534.045,But your answer just isn't responsive.
+2004.03-8661,0,21313,david_j_nathanson,,537.54,539.497,It ripens at the--
+2004.03-8661,0,15092,sandra_day_oconnor,scotus_justice,539.497,539.766,When?
+2004.03-8661,0,21313,david_j_nathanson,,546.977,550.095,--What I'm suggesting is--
+2004.03-8661,0,15092,sandra_day_oconnor,scotus_justice,550.095,551.425,What is your proposed rule?
+2004.03-8661,0,21313,david_j_nathanson,,553.184,555.469,--What... what I'm suggesting is... is two things.
+2004.03-8661,0,15092,sandra_day_oconnor,scotus_justice,555.469,557.389,Just one thing.
+2004.03-8661,0,21313,david_j_nathanson,,560.384,566.085,It... it becomes final when there are further proceedings initiated.
+2004.03-8661,0,15139,stephen_g_breyer,scotus_justice,566.085,567.569,Sorry.
+2004.03-8661,0,15092,sandra_day_oconnor,scotus_justice,568.424,569.561,That doesn't make sense.
+2004.03-8661,0,21313,david_j_nathanson,,569.561,573.349,The... the... that is the line drawn by most of the lower courts.
+2004.03-8661,0,15139,stephen_g_breyer,scotus_justice,573.349,574.864,You're not understanding my question then.
+2004.03-8661,0,21313,david_j_nathanson,,596.658,599.271,It is not final--
+2004.03-8661,0,15139,stephen_g_breyer,scotus_justice,599.271,600.438,It is not final.
+2004.03-8661,0,21313,david_j_nathanson,,600.438,605.965,--if... if the defense has not been forced at that point to choose to rest or put on a case.
+2004.03-8661,0,15139,stephen_g_breyer,scotus_justice,607.632,608.442,Say that again.
+2004.03-8661,0,21313,david_j_nathanson,,608.442,611.37,--If the defense is forced to rest or put on a case.
+2004.03-8661,0,15139,stephen_g_breyer,scotus_justice,611.37,613.364,But he wrote the word acquittal.
+2004.03-8661,0,21313,david_j_nathanson,,617.002,622.029,"Well, I think we're talking about two separate things."
+2004.03-8661,0,15139,stephen_g_breyer,scotus_justice,625.951,626.89,Let's try single-count.
+2004.03-8661,0,21313,david_j_nathanson,,627.227,627.655,Okay.
+2004.03-8661,0,15139,stephen_g_breyer,scotus_justice,627.655,628.158,There he is.
+2004.03-8661,0,21313,david_j_nathanson,,645.264,652.952,"I'm not entirely sure of the answer to the question, Your Honor, but I... I think, first of all, we look at compliance with State procedure."
+2004.03-8661,0,15139,stephen_g_breyer,scotus_justice,652.952,653.422,Okay.
+2004.03-8661,0,21313,david_j_nathanson,,665.77,675.304,"If we're talking about a clerical error, Your Honor, the Massachusetts rules and the Federal rules provide for correction of clerical errors."
+2004.03-8661,0,15092,sandra_day_oconnor,scotus_justice,684.007,684.87,"Well, was your client--"
+2004.03-8661,0,15084,ruth_bader_ginsburg,scotus_justice,684.87,685.806,But a very plain error--
+2004.03-8661,0,15092,sandra_day_oconnor,scotus_justice,685.806,692.9,--was your client prejudiced in any way by not putting on some evidence that the... he would have put on?
+2004.03-8661,0,21313,david_j_nathanson,,692.9,695.732,"May I begin, Your Honor--"
+2004.03-8661,0,15092,sandra_day_oconnor,scotus_justice,695.732,697.882,Just answer the question for once.
+2004.03-8661,0,21313,david_j_nathanson,,697.882,699.99,"--Yes, Your Honor."
+2004.03-8661,0,15084,ruth_bader_ginsburg,scotus_justice,709.84,716.59,"--But that was a terribly risky defense because his main defense is I wasn't there, I didn't do it, somebody else did it."
+2004.03-8661,0,21313,david_j_nathanson,,744.8,751.086,"--Your Honor, counsel for co-defendant, Felicia Brown, presented just such a defense and she was acquitted."
+2004.03-8661,0,15084,ruth_bader_ginsburg,scotus_justice,758.542,760.326,Nobody charged her with possessing a gun.
+2004.03-8661,0,21313,david_j_nathanson,,760.326,761.869,--But what I'm saying is--
+2004.03-8661,0,15084,ruth_bader_ginsburg,scotus_justice,761.869,783.532,"That's... look, there were a lot of charges in this case, and we're dealing with what is a relatively lesser offense of this whole string of events so that Brown being acquitted of other offenses doesn't say anything about this offense, which relates to the possession of a gun."
+2004.03-8661,0,21313,david_j_nathanson,,786.482,793.813,"--What I'm saying is that it wasn't risky, Your Honor, because the... this jury was willing to consider an alternative defense that would have otherwise appeared as a concession."
+2004.03-8661,0,15084,ruth_bader_ginsburg,scotus_justice,795.185,804.209,"But he would be... the defendant... you know, he hasn't gone to the jury yet, and the jury would say, my goodness, this is like a common law pleader."
+2004.03-8661,0,21313,david_j_nathanson,,828.463,831.978,"I'd just respectfully disagree, Your Honor."
+2004.03-8661,0,15113,anthony_m_kennedy,scotus_justice,860.558,865.16,"Well, but if... if... you know, we shape the expectation by what we say."
+2004.03-8661,0,21313,david_j_nathanson,,876.223,884.949,"What Massachusetts law says in... in the Zavala case, they said that there is not a right to reopen where the judge has determined that the evidence is insufficient."
+2004.03-8661,0,15084,ruth_bader_ginsburg,scotus_justice,887.264,890.397,That is when the case is not ongoing.
+2004.03-8661,0,21313,david_j_nathanson,,942.405,944.044,"--He didn't say that, Your Honor."
+2004.03-8661,0,15084,ruth_bader_ginsburg,scotus_justice,944.044,944.916,But he could have.
+2004.03-8661,0,21313,david_j_nathanson,,949.986,955.025,"Well, I... I don't think prejudice is a factor in double jeopardy jurisprudence."
+2004.03-8661,0,15084,ruth_bader_ginsburg,scotus_justice,959.005,970.795,"Yes, but you have to set a... a point in time, and your point is... well, it's not exactly clear, but there's one point that says when the jury is discharged."
+2004.03-8661,0,21313,david_j_nathanson,,990.53,1000.912,"Because if... if discharge of the jury is the rule, then the judge can reconsider an acquittal at any point in a defendant's case."
+2004.03-8661,0,15084,ruth_bader_ginsburg,scotus_justice,1004.459,1015.14,"The question... we're talking about a Federal constitutional rule, and suppose... you pointed out this went only to an intermediate appellate court."
+2004.03-8661,0,21313,david_j_nathanson,,1036.82,1038.94,"I don't think that's permissible, Your Honor."
+2004.03-8661,0,15042,david_h_souter,scotus_justice,1077.129,1098.01,"Well, you do agree, I take it, that if the judge says, yes, I agree with you, there isn't a scintilla of evidence, and... and at some point I'm... I'm going to enter an acquittal, but I'm not going to do it now just in case I have a second thought, but at least by the... the end of the trial, I'll take care of it, you, I take it, concede that that is permissible."
+2004.03-8661,0,21313,david_j_nathanson,,1098.01,1099.857,I think that is permissible because--
+2004.03-8661,0,15042,david_h_souter,scotus_justice,1099.857,1109.065,"Well, if that... if that's permissible, if you win this case, isn't that going to be the way trials are conducted when... when there are mid-trial motions like yours?"
+2004.03-8661,0,21313,david_j_nathanson,,1121.327,1123.345,"--No, I don't think so, Your Honor."
+2004.03-8661,0,15042,david_h_souter,scotus_justice,1142.483,1154.205,"No, but every judge knows he drops a catch once in a while, and... and if he wants to guard against wrecking the whole trial or... or creating an appellate issue later, he's just going to be cautious and hold onto it."
+2004.03-8661,0,21313,david_j_nathanson,,1154.205,1156.122,"And judges should be cautious, Your Honor."
+2004.03-8661,0,15060,john_paul_stevens,scotus_justice,1156.122,1161.092,"But isn't it also important to know, though, whether the defendant has to put on a case or not?"
+2004.03-8661,0,21313,david_j_nathanson,,1166.047,1168.576,"That... that is, in fact, the point, Justice Stevens."
+2004.03-8661,0,15042,david_h_souter,scotus_justice,1181.27,1182.216,But does... does--
+2004.03-8661,0,15113,anthony_m_kennedy,scotus_justice,1182.216,1185.495,Did the defendant here ask to be... to have the right to reopen?
+2004.03-8661,0,21313,david_j_nathanson,,1185.495,1186.96,He did not.
+2004.03-8661,0,15092,sandra_day_oconnor,scotus_justice,1186.96,1188.623,May I ask--
+2004.03-8661,0,15042,david_h_souter,scotus_justice,1188.623,1188.894,--Did he--
+2004.03-8661,0,15092,sandra_day_oconnor,scotus_justice,1188.894,1190.225,--you another question here?
+2004.03-8661,0,21313,david_j_nathanson,,1197.906,1198.395,"Yes, Your Honor."
+2004.03-8661,0,15092,sandra_day_oconnor,scotus_justice,1198.395,1200.691,Assault with intent to murder.
+2004.03-8661,0,21313,david_j_nathanson,,1200.691,1201.405,Yes.
+2004.03-8661,0,15092,sandra_day_oconnor,scotus_justice,1201.405,1204.368,Assault and battery by means of a dangerous weapon.
+2004.03-8661,0,21313,david_j_nathanson,,1204.368,1205.13,Yes.
+2004.03-8661,0,15092,sandra_day_oconnor,scotus_justice,1205.13,1207.223,The jury convicted on all three.
+2004.03-8661,0,21313,david_j_nathanson,,1207.223,1207.937,Yes.
+2004.03-8661,0,15092,sandra_day_oconnor,scotus_justice,1207.937,1211.809,"Now, he was given concurrent sentences."
+2004.03-8661,0,21313,david_j_nathanson,,1211.809,1212.38,"Yes, Your Honor."
+2004.03-8661,0,15092,sandra_day_oconnor,scotus_justice,1212.38,1212.975,Is that correct?
+2004.03-8661,0,21313,david_j_nathanson,,1212.975,1213.435,"Yes, Your Honor."
+2004.03-8661,0,15092,sandra_day_oconnor,scotus_justice,1213.435,1220.834,So would you explain to me if there's any practical effect to your winning in this case?
+2004.03-8661,0,21313,david_j_nathanson,,1220.834,1221.899,There is a practical effect.
+2004.03-8661,0,15092,sandra_day_oconnor,scotus_justice,1221.899,1222.42,What is it?
+2004.03-8661,0,21313,david_j_nathanson,,1222.42,1231.084,Firearm possession offenses in Massachusetts have restrictions as to parole and good time deductions that the other offenses do not have.
+2004.03-8661,0,15139,stephen_g_breyer,scotus_justice,1264.158,1278.122,"What I was thinking is... I mean, here a judge... I guess she was harried in the trial, she's thinking to herself, well, let's see, is there any evidence here that this was less than the shotgun... this was not a shotgun."
+2004.03-8661,0,21313,david_j_nathanson,,1325.495,1327.836,So your hypothetical is that there's evidence of two guns?
+2004.03-8661,0,15139,stephen_g_breyer,scotus_justice,1327.836,1331.52,"I thought here there was evidence there was a pistol, but maybe I'm wrong."
+2004.03-8661,0,21313,david_j_nathanson,,1331.52,1332.466,I'm sorry.
+2004.03-8661,0,15139,stephen_g_breyer,scotus_justice,1334.226,1335.564,There was evidence it was a pistol.
+2004.03-8661,0,21313,david_j_nathanson,,1353.715,1354.875,--She... she clearly didn't forget.
+2004.03-8661,0,15139,stephen_g_breyer,scotus_justice,1361.871,1368.461,"Well, I'm quite sure... not quite sure then why she wrote down there was no evidence it wasn't a shotgun, but she had some reason."
+2004.03-8661,0,21313,david_j_nathanson,,1401.452,1404.138,"--In a single-count case, Your Honor--"
+2004.03-8661,0,15139,stephen_g_breyer,scotus_justice,1404.138,1408.07,I don't care whether it's single-count or double-count or triple-count.
+2004.03-8661,0,21313,david_j_nathanson,,1411.341,1422.929,--It... compliance with State procedure informs the inquiry and once... once we have what is determined to be a resolution--
+2004.03-8661,0,15049,antonin_scalia,scotus_justice,1422.929,1426.521,"Once it's final under State procedure, right?"
+2004.03-8661,0,21313,david_j_nathanson,,1438.179,1439.128,"--That's correct, Your Honor."
+2004.03-8661,0,15049,antonin_scalia,scotus_justice,1439.128,1439.978,And sometimes it's wrong.
+2004.03-8661,0,21313,david_j_nathanson,,1439.978,1440.779,That's correct.
+2004.03-8661,0,15049,antonin_scalia,scotus_justice,1440.779,1444.072,But it'd be sometimes wrong no matter how you define final.
+2004.03-8661,0,15139,stephen_g_breyer,scotus_justice,1446.367,1447.642,That's excellent.
+2004.03-8661,0,15049,antonin_scalia,scotus_justice,1447.642,1460.789,"--let's all the evidence on and... and does it after all the evidence is there, and then she... and then at the close of all the evidence, she gives a directed verdict for... for the defendant, and then discharges the jury, and as soon as the jury walks out, oh, my God, what a mistake I made."
+2004.03-8661,0,21313,david_j_nathanson,,1463.906,1465.163,"Correct, Your Honor."
+2004.03-8661,0,15139,stephen_g_breyer,scotus_justice,1465.883,1466.401,Excellent.
+2004.03-8661,0,21313,david_j_nathanson,,1497.16,1505.596,"--If... if State procedure, as in this--"
+2004.03-8661,0,15139,stephen_g_breyer,scotus_justice,1505.596,1506.787,I'm thinking of this case.
+2004.03-8661,0,21313,david_j_nathanson,,1506.787,1507.36,--Yes.
+2004.03-8661,0,15139,stephen_g_breyer,scotus_justice,1507.36,1511.266,"Suppose I took Justice Scalia's rule and I said, that's the rule."
+2004.03-8661,0,21313,david_j_nathanson,,1534.887,1544.086,"Well, there's... there clearly is a line beyond which the State cannot go, and that's what Justice Brennan was talking about in his concurrence in Lydon."
+2004.03-8661,0,15049,antonin_scalia,scotus_justice,1579.046,1593.457,Does the State have the power to say whether... whether an acquittal under State law constitutes an acquittal for purposes of Federal constitutional double jeopardy purposes?
+2004.03-8661,0,21313,david_j_nathanson,,1595.684,1596.239,No.
+2004.03-8661,0,15049,antonin_scalia,scotus_justice,1598.78,1599.028,I thought it was.
+2004.03-8661,0,21313,david_j_nathanson,,1599.028,1600.861,--this Court said that in Smalis quite clearly.
+2004.03-8661,0,15060,john_paul_stevens,scotus_justice,1644.543,1645.018,Yes.
+2004.03-8661,1,19726,cathryn_a_neaves,,1649.676,1653.09,"Justice Stevens, and may it please the Court:"
+2004.03-8661,1,15049,antonin_scalia,scotus_justice,1696.793,1707.192,"What if... what if this had been the sole count, the gun possession count had been the sole count, and... and the same ruling had been made by the judge?"
+2004.03-8661,1,19726,cathryn_a_neaves,,1711.739,1714.11,Not so long as the jury was still there.
+2004.03-8661,1,15049,antonin_scalia,scotus_justice,1745.3,1746.037,And what if it's a bench trial?
+2004.03-8661,1,19726,cathryn_a_neaves,,1746.037,1749.076,A bench trial is a very difficult situation.
+2004.03-8661,1,15049,antonin_scalia,scotus_justice,1762.516,1763.457,I know it's difficult.
+2004.03-8661,1,19726,cathryn_a_neaves,,1764.157,1775.504,"--My answer to that is I believe that if the judge stated the evidence is insufficient, as... as the judge did in Smalis, as the trier of fact and law, I find the evidence--"
+2004.03-8661,1,15049,antonin_scalia,scotus_justice,1775.504,1775.904,It's over.
+2004.03-8661,1,19726,cathryn_a_neaves,,1775.904,1776.463,--It's over.
+2004.03-8661,1,15113,anthony_m_kennedy,scotus_justice,1777.718,1778.515,The minute--
+2004.03-8661,1,15060,john_paul_stevens,scotus_justice,1778.515,1779.02,What if in the case--
+2004.03-8661,1,15113,anthony_m_kennedy,scotus_justice,1779.02,1779.545,--the minute he--
+2004.03-8661,1,15060,john_paul_stevens,scotus_justice,1779.545,1785.967,--we have before us the State allowed an interlocutory appeal on behalf of the prosecution right after the judge's ruling?
+2004.03-8661,1,19726,cathryn_a_neaves,,1785.967,1788.179,"In a jury case, Your Honor?"
+2004.03-8661,1,15060,john_paul_stevens,scotus_justice,1788.179,1788.872,Yes.
+2004.03-8661,1,19726,cathryn_a_neaves,,1788.872,1789.857,I think--
+2004.03-8661,1,15060,john_paul_stevens,scotus_justice,1789.857,1795.498,Conceivably they could allow an interlocutory appeal from a judgment of acquittal at the close of the prosecution's case.
+2004.03-8661,1,19726,cathryn_a_neaves,,1795.498,1808.697,"--If such a... if such a process could be put in place where there was an appellate panel that would be willing and available to hear that while the jury remained empaneled, I don't think it would run afoul of the Double Jeopardy Clause."
+2004.03-8661,1,15042,david_h_souter,scotus_justice,1808.697,1809.137,Well--
+2004.03-8661,1,15139,stephen_g_breyer,scotus_justice,1809.137,1809.793,But is that necessary?
+2004.03-8661,1,19726,cathryn_a_neaves,,1838.466,1839.787,That is--
+2004.03-8661,1,15139,stephen_g_breyer,scotus_justice,1839.787,1844.193,"Or is there any... is there any, in other words, to reconcile our case that you're talking about, Smalis?"
+2004.03-8661,1,19726,cathryn_a_neaves,,1844.193,1845.081,--The Smalis case?
+2004.03-8661,1,15139,stephen_g_breyer,scotus_justice,1845.081,1845.705,"Yes, yes."
+2004.03-8661,1,19726,cathryn_a_neaves,,1845.705,1847.296,I think there are a number of ways to reconcile it.
+2004.03-8661,1,15042,david_h_souter,scotus_justice,1859.828,1870.373,"--Yes, but isn't... isn't the significance supposedly the existence or nonexistence of our continuation of the jury panel, going back to Justice Stevens' question?"
+2004.03-8661,1,19726,cathryn_a_neaves,,1892.396,1894.256,I don't think it would.
+2004.03-8661,1,15042,david_h_souter,scotus_justice,1894.256,1894.893,Why?
+2004.03-8661,1,19726,cathryn_a_neaves,,1894.893,1906.589,"I think... I think for a... I think for my... to my way of thinking about the cases, the jury is what matters and it's the defendant's right to his particular tribunal, and that's the first jury that's empaneled--"
+2004.03-8661,1,15042,david_h_souter,scotus_justice,1906.589,1908.582,"No, but on my hypothesis he's going to get the same jury."
+2004.03-8661,1,19726,cathryn_a_neaves,,1908.582,1909.238,--Exactly.
+2004.03-8661,1,15042,david_h_souter,scotus_justice,1909.238,1909.966,They have not been discharged.
+2004.03-8661,1,19726,cathryn_a_neaves,,1909.966,1910.727,Exactly.
+2004.03-8661,1,15049,antonin_scalia,scotus_justice,1930.512,1915.631,Wow.
+2004.03-8661,1,15042,david_h_souter,scotus_justice,1932.012,1932.393,All right.
+2004.03-8661,1,19726,cathryn_a_neaves,,1938.381,1941.778,"--Because he... he is the trier of fact, and I think at that point--"
+2004.03-8661,1,15042,david_h_souter,scotus_justice,1941.778,1942.818,"Well, the jury is the trier of fact."
+2004.03-8661,1,19726,cathryn_a_neaves,,1942.818,1943.418,--That's--
+2004.03-8661,1,15042,david_h_souter,scotus_justice,1943.418,1951.014,"I mean, on the hypothesis before, you're saying if they don't discharge the jury and it can go back to them, no double jeopardy problem."
+2004.03-8661,1,19726,cathryn_a_neaves,,1956.563,1962.187,"--Well, I think the difference is the... the judge in Smalis was the trier of fact."
+2004.03-8661,1,15084,ruth_bader_ginsburg,scotus_justice,1975.2,1975.951,Isn't it very true--
+2004.03-8661,1,15113,anthony_m_kennedy,scotus_justice,1975.951,1986.584,"--Is... is another... is another difference... and I don't know if this... is another difference that in the hypothetical case with the jury, the jury has not yet deliberated--"
+2004.03-8661,1,19726,cathryn_a_neaves,,1986.584,1987.181,Thank you.
+2004.03-8661,1,15113,anthony_m_kennedy,scotus_justice,1987.181,1988.385,--in order to consider the facts.
+2004.03-8661,1,19726,cathryn_a_neaves,,1988.385,1988.79,Yes.
+2004.03-8661,1,15113,anthony_m_kennedy,scotus_justice,1988.79,1989.4,Whereas in your--
+2004.03-8661,1,15060,john_paul_stevens,scotus_justice,1989.4,1990.175,"Yes, but--"
+2004.03-8661,1,15113,anthony_m_kennedy,scotus_justice,1990.175,1992.591,"--your case, the... the judge is... is--"
+2004.03-8661,1,15060,john_paul_stevens,scotus_justice,1992.591,1993.546,--May I ask this?
+2004.03-8661,1,15113,anthony_m_kennedy,scotus_justice,1993.546,1994.592,--apparently deliberating--
+2004.03-8661,1,15060,john_paul_stevens,scotus_justice,1994.592,1995.218,Is it not true that in this--
+2004.03-8661,1,19726,cathryn_a_neaves,,1995.218,1995.988,That's where I was headed.
+2004.03-8661,1,15060,john_paul_stevens,scotus_justice,1995.988,2000.198,--in this case the judge did not reconsider until the end of the defense case?
+2004.03-8661,1,19726,cathryn_a_neaves,,2000.198,2001.443,"That is correct, Justice Stevens."
+2004.03-8661,1,15060,john_paul_stevens,scotus_justice,2001.443,2011.864,"Now, during that period, did the defense lawyer have the right to rely on the acquittal in deciding whether or not to put in defensive evidence on the count from which he thought his client had been acquitted?"
+2004.03-8661,1,19726,cathryn_a_neaves,,2011.864,2016.983,"Well, he certainly had some sense of reliance, but it wasn't a double jeopardy reliance."
+2004.03-8661,1,15060,john_paul_stevens,scotus_justice,2019.774,2028.263,"Of course, if the Double Jeopardy Clause did apply, if it were treated as a true acquittal, he could just say, well, we can forget about that, send your witnesses home, we won't have to worry about it."
+2004.03-8661,1,19726,cathryn_a_neaves,,2039.643,2041.045,"--Absolutely, Justice Stevens."
+2004.03-8661,1,15139,stephen_g_breyer,scotus_justice,2041.582,2049.791,What... what about a judge who thinks... should the judge... should a judge in trial be able to change his mind as long as the jury is still there?
+2004.03-8661,1,19726,cathryn_a_neaves,,2050.8,2051.8,--Yes.
+2004.03-8661,1,15139,stephen_g_breyer,scotus_justice,2051.8,2056.13,Should you be able to take an appeal in the same circumstance while the jury is still there?
+2004.03-8661,1,19726,cathryn_a_neaves,,2069.324,2083.51,"I... Justice Breyer, I... I certainly believe that the... that the double jeopardy rule that we're... we're advocating would permit that, but I... I think that most trial judges would not be very pleased about doing something like that."
+2004.03-8661,1,15139,stephen_g_breyer,scotus_justice,2085.659,2092.21,"By the way, if it's constitutional, it's pretty easy to see a State might well say, let's do that, what a good idea."
+2004.03-8661,1,19726,cathryn_a_neaves,,2110.361,2114.748,--I... I have to stick with the rule that... that--
+2004.03-8661,1,15139,stephen_g_breyer,scotus_justice,2114.748,2115.026,All right.
+2004.03-8661,1,19726,cathryn_a_neaves,,2116.072,2135.793,"--I think it... I... well, it's... it's... I think if... I think if you accept the notion that jury discharge is what matters for purposes of the Double Jeopardy Clause and permitting a trial judge to reconsider a legal ruling up to that point, then if a State court could fashion an interlocutory review process of that legal ruling, that would not violate the Double Jeopardy Clause."
+2004.03-8661,1,15049,antonin_scalia,scotus_justice,2135.793,2140.183,What is the conceptual basis for saying that jury discharge makes the difference?
+2004.03-8661,1,19726,cathryn_a_neaves,,2142.316,2153.671,I think this Court has said over and over again that it is the jury... the defendant's right to hold onto his chosen jury that matters in a number of different contexts in the double jeopardy area.
+2004.03-8661,1,15092,sandra_day_oconnor,scotus_justice,2175.852,2189.17,"I would think prejudice to the defendant should be a factor, and if the defendant is misled by what the judge says into not putting on part of the case that otherwise would have been put on, that's a pretty serious matter."
+2004.03-8661,1,19726,cathryn_a_neaves,,2189.17,2195.487,"--That is a very serious matter, and it is the sort of prejudice that falls within the rubric of due process and... and--"
+2004.03-8661,1,15049,antonin_scalia,scotus_justice,2195.487,2196.434,"No, but we usually don't use--"
+2004.03-8661,1,19726,cathryn_a_neaves,,2196.434,2197.174,--would grant you a retrial.
+2004.03-8661,1,15049,antonin_scalia,scotus_justice,2197.174,2204.863,"--we don't use the... I mean, you could use the Due Process Clause for everything, for double jeopardy, for all of the other protections in the Constitution."
+2004.03-8661,1,19726,cathryn_a_neaves,,2218.672,2219.353,No.
+2004.03-8661,1,15139,stephen_g_breyer,scotus_justice,2220.455,2220.909,What about--
+2004.03-8661,1,15049,antonin_scalia,scotus_justice,2220.909,2230.618,"So this a problem created by the judge's dismissal, which this defendant had every reason to rely upon as being the end of that part of the case."
+2004.03-8661,1,19726,cathryn_a_neaves,,2238.802,2251.473,"Well, with respect, Justice Scalia, I would say it is the sort of reliance that a... that a defendant may have, as for example the case in Sanabria, where a... where a judge excludes certain evidence, and the case goes forward."
+2004.03-8661,1,15060,john_paul_stevens,scotus_justice,2304.642,2308.593,"Did I understand you correctly to say that if the defendant is acquitted, the remedy is a retrial?"
+2004.03-8661,1,19726,cathryn_a_neaves,,2308.593,2309.065,"--No, no, no."
+2004.03-8661,1,15139,stephen_g_breyer,scotus_justice,2317.333,2321.704,--What is the reason you didn't want a fairly simple rule that I was thinking of?
+2004.03-8661,1,19726,cathryn_a_neaves,,2337.324,2339.092,I could live with that rule.
+2004.03-8661,1,15139,stephen_g_breyer,scotus_justice,2339.092,2342.655,"Now, so you haven't found something in your research that suggests that... that--"
+2004.03-8661,1,19726,cathryn_a_neaves,,2342.655,2343.478,"No, no."
+2004.03-8661,1,15113,anthony_m_kennedy,scotus_justice,2344.893,2355.373,"--Well, under... under that view of things, suppose in this... in this case there's a motion for acquittal and the judge says, yes, I... I think there's no evidence on the gun."
+2004.03-8661,1,19726,cathryn_a_neaves,,2373.117,2382.323,"I think that because if it's a jury trial and the case is still... and the jury is still there, it could be done without violating the Double Jeopardy Clause."
+2004.03-8661,1,15113,anthony_m_kennedy,scotus_justice,2382.323,2384.063,I think you have to say that under your view.
+2004.03-8661,1,19726,cathryn_a_neaves,,2384.063,2384.913,I think so.
+2004.03-8661,1,15084,ruth_bader_ginsburg,scotus_justice,2401.349,2412.677,"--Then why did the Massachusetts Supreme Court say... and I thought it did say this in its rules... trial judge, you rule on the spot when a motion to acquit is made?"
+2004.03-8661,1,19726,cathryn_a_neaves,,2432.619,2437.28,"--That is correct, Justice Ginsburg, and if I misunderstood the hypothetical, that... that was my mistake."
+2004.03-8661,1,15084,ruth_bader_ginsburg,scotus_justice,2447.064,2456.774,So... so part of Justice Breyer's question needs editing because it would not be possible under Massachusetts law for the judge to say--
+2004.03-8661,1,19726,cathryn_a_neaves,,2456.774,2458.583,That is correct.
+2004.03-8661,1,15084,ruth_bader_ginsburg,scotus_justice,2458.583,2459.287,--I reserve.
+2004.03-8661,1,19726,cathryn_a_neaves,,2459.287,2460.035,That is correct.
+2004.03-8661,1,15060,john_paul_stevens,scotus_justice,2516.039,2529.098,"Yes, but your position would be the same if the... if the Massachusetts law provided that the motions at the end of the prosecution's case shall not be ruled on unless... after they're written briefs filed by both sides and they have 3 days of argument."
+2004.03-8661,1,19726,cathryn_a_neaves,,2530.41,2531.148,--That's true.
+2004.03-8661,1,15049,antonin_scalia,scotus_justice,2531.148,2551.368,"And in fact, the... the quick and dirty procedure you describe is probably a boon to prosecutors because a judge is... is not likely to take the serious step of dismissing a charge on the basis of... of such a procedure and is more likely to say, well, we'll let the trial go ahead and see what the evidence discloses."
+2004.03-8661,1,19726,cathryn_a_neaves,,2559.409,2563.167,I... I wouldn't want to characterize--
+2004.03-8661,1,15049,antonin_scalia,scotus_justice,2563.167,2565.994,This is a very unusual judge I would think to--
+2004.03-8661,1,19726,cathryn_a_neaves,,2565.994,2566.288,--Yes.
+2004.03-8661,1,15049,antonin_scalia,scotus_justice,2566.288,2572.07,--to whip it out like that and... and enter an acquittal without... without letting it go forward.
+2004.03-8661,1,19726,cathryn_a_neaves,,2572.07,2593.585,"I would say it is unusual, but it happens where... and I think the trial judge certainly in this case who believes that if she's mistaken, can... can correct her ruling and send it to the jury, then feels somewhat free to... to do what the defendant asks, if it seems reasonable, and... and knows that if... if it can be corrected--"
+2004.03-8661,1,15049,antonin_scalia,scotus_justice,2593.585,2595.536,You may... you may regret what you've asked for.
+2004.03-8661,1,19726,cathryn_a_neaves,,2595.536,2598.115,"--I hope not, Justice Scalia."
+2004.03-8661,1,15084,ruth_bader_ginsburg,scotus_justice,2601.092,2618.958,"What would happen... I think one of the briefs suggested that suppose you have a multi-defendant case and the judge says, after the prosecution case is done, defendant A, I'm going to grant a motion to acquit. He's out of it, but there was enough evidence to require the... the defense to go on for B and C."
+2004.03-8661,1,19726,cathryn_a_neaves,,2652.545,2665.915,"--Justice Ginsburg, I don't think it presents a double jeopardy bar, but a defendant has a right to be present at his trial, and so it certainly would be a reversible error if... if a trial judge--"
+2004.03-8661,1,15084,ruth_bader_ginsburg,scotus_justice,2665.915,2666.158,No.
+2004.03-8661,1,19726,cathryn_a_neaves,,2671.491,2674.051,--Then there's certainly no double jeopardy bar to that.
+2004.03-8661,1,15139,stephen_g_breyer,scotus_justice,2674.051,2678.584,--There could be a problem that you have to have a fair chance to present evidence and so forth.
+2004.03-8661,1,19726,cathryn_a_neaves,,2678.584,2680.717,"Absolutely, Justice Breyer, and... and--"
+2004.03-8661,1,15139,stephen_g_breyer,scotus_justice,2680.717,2683.162,I guess there are a lot of rules in Massachusetts that deal with that.
+2004.03-8661,1,19726,cathryn_a_neaves,,2685.97,2686.397,"--Well, certainly."
+2004.03-8661,1,15060,john_paul_stevens,scotus_justice,2703.542,2705.341,"Thank you, Ms. Neaves."
+2004.03-8661,1,19726,cathryn_a_neaves,,2705.341,2705.914,Thank you.
+2004.03-8661,1,15060,john_paul_stevens,scotus_justice,2705.914,2712.5,Mr.... Mr. Srinivasan.
+2004.03-8661,2,42056,sri_srinivasan,,2712.5,2717.962,"Thank you, Justice Stevens, and may it please the Court:"
+2004.03-8661,2,15060,john_paul_stevens,scotus_justice,2730.357,2733.14,May I ask you the same question I asked your... your colleague?
+2004.03-8661,2,42056,sri_srinivasan,,2746.235,2748.588,--Would we have the same appraisal as the State?
+2004.03-8661,2,15060,john_paul_stevens,scotus_justice,2749.559,2749.804,Yes.
+2004.03-8661,2,42056,sri_srinivasan,,2754.067,2754.84,--No.
+2004.03-8661,2,15060,john_paul_stevens,scotus_justice,2768.491,2775.744,"But my question is assuming a State procedure in which the interlocutory appeal was permissible, you... you would say the Double Jeopardy Clause would bar that appeal."
+2004.03-8661,2,42056,sri_srinivasan,,2775.744,2778.054,"--Right, because we read that to be the holding of Smalis."
+2004.03-8661,2,15113,anthony_m_kennedy,scotus_justice,2839.755,2844.658,Would... would you allow a trial judge to reopen... to... to permit the prosecution to reopen the case?
+2004.03-8661,2,42056,sri_srinivasan,,2844.658,2857.796,"We would, Justice Kennedy, but it raises a distinct problem because one value that's served by the Double Jeopardy Clause is the defendant's interest in preventing the prosecution from honing its evidentiary case by repeated efforts."
+2004.03-8661,2,15042,david_h_souter,scotus_justice,2942.507,2960.697,"Why... why doesn't the... the prosecution gets its full and fair opportunity if we have a rule that says to trial judges, when you make a ruling on acquittal, you better be serious and you better not make a snap judgment, think it over, because once you've done it, it sticks?"
+2004.03-8661,2,42056,sri_srinivasan,,2970.634,2978.756,"Justice Souter, we think a constitutional rule that would turn on the definitiveness of a trial court ruling would be flawed in three respects."
+2004.03-8661,2,15060,john_paul_stevens,scotus_justice,3022.741,3029.422,"In all these cases... we've had several, not too many over the... the whole line of cases... and the trial judge has always committed a rather plain error."
+2004.03-8661,2,42056,sri_srinivasan,,3042.38,3047.121,"--I don't... I'm not quite sure I'm following what you're saying, Justice Stevens, because--"
+2004.03-8661,2,15060,john_paul_stevens,scotus_justice,3047.121,3056.999,"I say as a typical matter these double jeopardy claims arise in cases in which the judge made a rather plain error, and when you look at it later, you say, gee, he goofed."
+2004.03-8661,2,42056,sri_srinivasan,,3062.859,3070.374,--But... but I don't... but the reason why the Court accepts errors in some situations is because there's some other value under the Double Jeopardy Clause.
+2004.03-8661,2,15060,john_paul_stevens,scotus_justice,3070.374,3072.632,The value of finality is what is really at stake here.
+2004.03-8661,2,42056,sri_srinivasan,,3072.632,3074.765,"Well, it's not just the value of finality."
+2004.03-8661,2,15060,john_paul_stevens,scotus_justice,3093.431,3094.462,But here it was not a matter of minutes.
+2004.03-8661,2,42056,sri_srinivasan,,3094.462,3094.998,--In this--
+2004.03-8661,2,15060,john_paul_stevens,scotus_justice,3094.998,3095.489,Here it was--
+2004.03-8661,2,42056,sri_srinivasan,,3095.489,3096.172,--No.
+2004.03-8661,2,15092,sandra_day_oconnor,scotus_justice,3117.37,3122.433,Does it matter if the... if the ruling is conveyed to the jury even though the jury isn't discharged?
+2004.03-8661,2,42056,sri_srinivasan,,3122.433,3131.401,"It would matter, Justice O'Connor, but I don't think it would necessarily preclude the prosecution from going forward on the charge under the Double Jeopardy Clause."
+2004.03-8661,2,15113,anthony_m_kennedy,scotus_justice,3134.348,3137.198,You had three... three reasons you were going to give Justice Souter.
+2004.03-8661,2,42056,sri_srinivasan,,3142.806,3146.187,"And the third is... it's an issue that you raised earlier, Justice Kennedy."
+2004.03-8661,2,15042,david_h_souter,scotus_justice,3176.435,3178.216,Why isn't the distinction the right to rely?
+2004.03-8661,2,42056,sri_srinivasan,,3178.216,3195.336,"It... there... there... that would be the basis of a claim, Justice Souter, but the right to rely is, in essence, a notice prejudice sort of claim and that could be handled in the way that trial courts typically handle claims by the defendant that they've detrimentally relied on an initial ruling the trial court has subsequently reconsidered."
+2004.03-8661,2,15049,antonin_scalia,scotus_justice,3224.385,3226.392,Why... why shouldn't you have... what's magic about the jury?
+2004.03-8661,2,42056,sri_srinivasan,,3237.465,3239.913,"Well, it would depend."
+2004.03-8661,2,15049,antonin_scalia,scotus_justice,3250.032,3251.504,What... what is the line?
+2004.03-8661,2,42056,sri_srinivasan,,3254.88,3255.171,--No.
+2004.03-8661,2,15049,antonin_scalia,scotus_justice,3260.495,3261.05,--But it's not dismissal of the jury.
+2004.03-8661,2,42056,sri_srinivasan,,3262.398,3276.464,"--It can't be discharge of the jury, but I think where the Court would look, first and foremost, in defining a line for bench trials, if the issue would ever arise, would be a ruling that would essentially have resulted in discharge of the jury if the trial were before a jury."
+2004.03-8661,2,15092,sandra_day_oconnor,scotus_justice,3278.571,3282.074,But how do we... how does Smalis fit into this discussion?
+2004.03-8661,2,42056,sri_srinivasan,,3285.704,3298.033,"--It was, Justice O'Connor, for purposes of an appeal, and that's why I think the critical distinction between Smalis and this case is that where the prosecution might not have authority to take an appeal from a ruling on the insufficiency of the evidence."
+2004.03-8661,2,15113,anthony_m_kennedy,scotus_justice,3298.033,3308.561,"Your line would be something like if it... if... from all of the transcript, it appears that the judge is... is giving consideration to the entire case or something like that in a bench trial."
+2004.03-8661,2,42056,sri_srinivasan,,3308.561,3315.601,"In a bench trial, that... that would be part of the inquiry, Justice Kennedy, and I would also point, by the way, to... can I just finish the thought, Justice Stevens?"
+2004.03-8661,2,15060,john_paul_stevens,scotus_justice,3330.419,3330.799,--Thank you.
+2004.03-8661,3,21313,david_j_nathanson,,3334.912,3337.792,"Justice Stevens, may it please the Court:"
+2004.03-8661,3,15049,antonin_scalia,scotus_justice,3435.725,3436.355,Honing?
+2004.03-8661,3,21313,david_j_nathanson,,3436.355,3437.296,--Honing.
+2004.03-8661,3,15060,john_paul_stevens,scotus_justice,3525.696,3526.755,"Mr. Nathanson, thank you."

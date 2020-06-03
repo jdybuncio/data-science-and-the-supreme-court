@@ -1,0 +1,231 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2013.12-609,0,15086,john_g_roberts_jr,scotus_justice,0.0,6.107,"We'll hear argument first this morning in Case 12-609, Kansas v. Cheever."
+2013.12-609,0,21539,derek_l_schmidt,,7.561,10.543,"Mr. Chief Justice, and may it please the Court:"
+2013.12-609,0,15049,antonin_scalia,scotus_justice,76.922,87.434,"Of course, that would -- that would be true, the last would be true even if the Defendant had not sought to introduce expert evidence of his own, right?"
+2013.12-609,0,21539,derek_l_schmidt,,87.434,89.527,"--It -- that would be true, Your Honor."
+2013.12-609,0,15113,anthony_m_kennedy,scotus_justice,99.305,102.397,"Well, but just -- I have the same concern as Justice Scalia."
+2013.12-609,0,21539,derek_l_schmidt,,119.78,128.073,"Your Honor, that may well be true and the language of this Court's precedence through Smith and Buchanan, for example, suggests that the rule may be broader than the minimum that we're asking for today."
+2013.12-609,0,15049,antonin_scalia,scotus_justice,128.073,130.932,"Of course, the issue is not whether the State can call its own expert."
+2013.12-609,0,21539,derek_l_schmidt,,138.414,139.85,"Yes, Your Honor."
+2013.12-609,0,15049,antonin_scalia,scotus_justice,139.85,141.974,"--without which the expert can testify, right?"
+2013.12-609,0,21539,derek_l_schmidt,,141.974,144.082,"Yes, Your Honor."
+2013.12-609,0,15084,ruth_bader_ginsburg,scotus_justice,160.42,161.701,General -- general--
+2013.12-609,0,15113,anthony_m_kennedy,scotus_justice,161.701,171.024,If I could just make -- it seems to me that it's not necessary to make our decision depend on whether or not another expert has been called.
+2013.12-609,0,21539,derek_l_schmidt,,197.748,209.306,"And, Your Honor, the -- the hypothetical Your Honor posits is closely related to the second question Kansas presented, which was not granted in this case, which would be the impeachment use once the Defendant himself has testified."
+2013.12-609,0,15084,ruth_bader_ginsburg,scotus_justice,209.306,220.38,"--But he -- the Defendant would have to introduce the issue of his mental state either by his own testimony or an expert, but there's an oddity about this case."
+2013.12-609,0,21539,derek_l_schmidt,,246.245,253.334,"Your Honor, Kansas law makes the distinction between voluntary intoxication as a defense and mental disease or defect as a defense."
+2013.12-609,0,15084,ruth_bader_ginsburg,scotus_justice,260.16,277.872,"This -- this case was voluntary intoxication and -- and under Kansas procedure, the -- the prosecution could not have called a witness absent insanity or a mental disease; is that right?"
+2013.12-609,0,21539,derek_l_schmidt,,277.872,285.165,"Justice Ginsburg, it is correct that Kansas could not have called a witness under a voluntary intoxication defense -- could not have obtained a court-ordered mental evaluation."
+2013.12-609,0,15068,samuel_a_alito_jr,scotus_justice,303.237,317.512,"General Schmidt, am I wrong to think that the issue in this case is whether there was compulsion at the time when the statement was made to the -- the court-ordered expert?"
+2013.12-609,0,21539,derek_l_schmidt,,317.512,319.059,Justice Alito--
+2013.12-609,0,15068,samuel_a_alito_jr,scotus_justice,319.059,319.668,That's the issue.
+2013.12-609,0,21539,derek_l_schmidt,,343.689,347.984,"--Well, Your Honor, the -- the compulsion question is a threshold question."
+2013.12-609,0,15068,samuel_a_alito_jr,scotus_justice,372.365,373.724,"Well, that's the issue, as I see it."
+2013.12-609,0,21539,derek_l_schmidt,,398.027,400.417,"That would certainly be true, Justice Alito, absolutely."
+2013.12-609,0,15068,samuel_a_alito_jr,scotus_justice,400.417,403.369,So what happened in -- in State court really is -- is irrelevant to this.
+2013.12-609,0,21539,derek_l_schmidt,,412.959,417.255,"If the compulsion test settles the matter, Justice Alito, yes, that is correct."
+2013.12-609,0,15113,anthony_m_kennedy,scotus_justice,422.737,429.624,But -- but why doesn't it settle the matter as a -- as you understand the case that's being presented -- as a constitutional matter?
+2013.12-609,0,21539,derek_l_schmidt,,438.933,440.933,"Your Honor, I think it can."
+2013.12-609,0,15049,antonin_scalia,scotus_justice,473.045,494.63,"But sort of coming back to Justice Ginsburg's question, the Kansas Supreme Court held that the introduction of -- of the allegedly compelled testimony given to the -- to the psychiatrist violated the Federal Constitution."
+2013.12-609,0,21539,derek_l_schmidt,,520.401,529.335,"Your Honor, I don't know why the Kansas Supreme Court chose to settle this by interpreting the Fifth Amendment in a manner that we believe is incorrect."
+2013.12-609,0,15049,antonin_scalia,scotus_justice,530.554,531.741,That's what they did.
+2013.12-609,0,21539,derek_l_schmidt,,542.721,551.857,"Your Honor, I suspect that if this case is remanded, there will be a variety of other issues presented to the Kansas court and it will have to determine how to resolve them."
+2013.12-609,0,15084,ruth_bader_ginsburg,scotus_justice,551.857,564.088,"One issue is whether the expert, the government's expert, went beyond the scope of the direct, the experts for the defendant."
+2013.12-609,0,21539,derek_l_schmidt,,582.331,591.233,"Justice Ginsburg, it may well be likely that upon remand the scope issue would come before the Kansas court to be resolved under principles of Kansas evidentiary law."
+2013.12-609,0,15049,antonin_scalia,scotus_justice,607.585,611.225,"And that is, as you say, a question of -- of Kansas law."
+2013.12-609,0,21539,derek_l_schmidt,,615.427,618.567,"Well, Your Honor, I think that is a question of Fifth Amendment law."
+2013.12-609,0,15049,antonin_scalia,scotus_justice,624.766,639.87,"I'm saying the question of whether the -- the cross-examination went beyond the scope of the direct and whether that invalidated it, that wouldn't be resolved under the Federal Rules of Civil Procedure, but rather under Kansas law, right?"
+2013.12-609,0,21539,derek_l_schmidt,,639.87,641.667,"Your Honor, I believe that is correct."
+2013.12-609,0,15139,stephen_g_breyer,scotus_justice,664.61,666.298,Should we say anything about that?
+2013.12-609,0,21539,derek_l_schmidt,,737.301,748.671,"Justice Breyer, if the Court wishes to speak to scope, I think it could reaffirm that the constitutional standard, as it suggested in both Magatha and Brown, is reasonably related or relevant to the -- the direct examination."
+2013.12-609,0,15139,stephen_g_breyer,scotus_justice,748.671,749.155,All right.
+2013.12-609,0,21539,derek_l_schmidt,,769.429,771.13,“ Reasonably related ” was the phrase.
+2013.12-609,0,15139,stephen_g_breyer,scotus_justice,771.13,776.472,--reasonably related to the defense of insanity that the defendant himself raised.
+2013.12-609,0,21539,derek_l_schmidt,,779.892,786.156,"And on the facts here, Your Honor, we think there are very good facts on both sides that I suspect this Court doesn't want to--"
+2013.12-609,0,15139,stephen_g_breyer,scotus_justice,786.156,791.31,"Well, you'd bring up arguments why this is okay and they would bring up arguments why it isn't reasonably related, and Kansas would decide."
+2013.12-609,0,15131,sonia_sotomayor,scotus_justice,791.31,793.263,Can I go back to the line drawing?
+2013.12-609,0,21539,derek_l_schmidt,,793.263,794.715,--I'm sorry?
+2013.12-609,0,15131,sonia_sotomayor,scotus_justice,794.715,796.325,Can I go back to the line drawing?
+2013.12-609,0,21539,derek_l_schmidt,,796.325,797.075,"Yes, ma'am."
+2013.12-609,0,15131,sonia_sotomayor,scotus_justice,797.075,800.995,A question that some of my colleagues have focused on.
+2013.12-609,0,21539,derek_l_schmidt,,820.487,824.625,"If it is not constitutionally impermissible in the nature of the compulsion, yes, Your Honor."
+2013.12-609,0,15131,sonia_sotomayor,scotus_justice,824.625,825.594,Seems a somewhat--
+2013.12-609,0,15068,samuel_a_alito_jr,scotus_justice,825.594,826.484,Why would that--
+2013.12-609,0,15131,sonia_sotomayor,scotus_justice,826.484,828.063,--If I may finish?
+2013.12-609,0,15068,samuel_a_alito_jr,scotus_justice,828.063,828.202,"--Yes, sure."
+2013.12-609,0,15131,sonia_sotomayor,scotus_justice,828.202,844.431,"Assuming that I'm troubled by that holding, then what's the line we draw with respect to the question Justice Kennedy asked you as to when it is permissible."
+2013.12-609,0,21539,derek_l_schmidt,,871.764,872.513,Yes.
+2013.12-609,0,15131,sonia_sotomayor,scotus_justice,872.513,876.089,--which is how broadly do we hold.
+2013.12-609,0,21539,derek_l_schmidt,,892.317,893.253,"Yes, Justice Sotomayor."
+2013.12-609,0,15084,ruth_bader_ginsburg,scotus_justice,915.043,918.557,Isn't that an academic question in this case?
+2013.12-609,0,21539,derek_l_schmidt,,959.026,961.899,"I believe it is not the case before us, Your Honor."
+2013.12-609,0,15086,john_g_roberts_jr,scotus_justice,969.942,973.239,Thank you.
+2013.12-609,1,37291,nicole_saharsky,,990.871,994.214,"Mr. Chief Justice, and may it please the Court:"
+2013.12-609,1,15086,john_g_roberts_jr,scotus_justice,1028.122,1036.103,"Even if -- even if the defendant does not submit an expert of his own, but simply puts his mental state in issue?"
+2013.12-609,1,37291,nicole_saharsky,,1036.103,1037.743,I think that that's a different case.
+2013.12-609,1,15086,john_g_roberts_jr,scotus_justice,1086.959,1089.926,Why would it only be for -- why would it only be for impeachment purposes?
+2013.12-609,1,37291,nicole_saharsky,,1110.715,1118.649,"Well, I think this goes back to the questions that Justice Alito started asking about, which have to do with where there is compulsion here, if at all."
+2013.12-609,1,15094,elena_kagan,scotus_justice,1173.891,1174.782,Ms. Saharsky--
+2013.12-609,1,15068,samuel_a_alito_jr,scotus_justice,1174.782,1179.39,Isn't the question here whether Rule 12.2 is constitutional?
+2013.12-609,1,37291,nicole_saharsky,,1197.991,1202.754,"Well -- well, if the question is, is Rule.12 constitutional, we think the answer is pretty clearly yes."
+2013.12-609,1,15094,elena_kagan,scotus_justice,1230.134,1242.145,"--I'm wondering whether you way overread the cases that you rely on, because in all of those cases what we were talking about was an examination that had specifically requested by the defendant."
+2013.12-609,1,37291,nicole_saharsky,,1260.403,1264.449,"That's a factual difference from, for example, Buchanan and Powell."
+2013.12-609,1,15049,antonin_scalia,scotus_justice,1293.688,1294.108,It seems to me--
+2013.12-609,1,15094,elena_kagan,scotus_justice,1294.108,1303.541,"Not to belabor this, but the -- the holding of the case is that the prosecution may rebut this presentation with evidence from the reports of the examination that the defendant's requested."
+2013.12-609,1,37291,nicole_saharsky,,1303.541,1307.103,Right.
+2013.12-609,1,15094,elena_kagan,scotus_justice,1310.555,1318.772,I mean -- I guess the question is that you say it's a factual difference; it might be a factual difference between compulsion and lack of compulsion.
+2013.12-609,1,37291,nicole_saharsky,,1318.772,1319.911,--Okay.
+2013.12-609,1,15049,antonin_scalia,scotus_justice,1353.101,1354.023,"--Well, wait."
+2013.12-609,1,37291,nicole_saharsky,,1386.042,1387.011,That's right.
+2013.12-609,1,15049,antonin_scalia,scotus_justice,1413.938,1417.781,"More precisely, it's not that the State can have its own expert."
+2013.12-609,1,37291,nicole_saharsky,,1433.885,1434.823,--Sure.
+2013.12-609,1,15094,elena_kagan,scotus_justice,1451.283,1452.532,So is that a waiver theory?
+2013.12-609,1,37291,nicole_saharsky,,1468.652,1485.083,"--We've called it a waiver by the Defendant's conduct for two reasons: One, that's what this Court called it in Powell when it was describing its holding in Buchanan; two, that's what this Court has called it -- and I'd point you to page 15 of the gray brief -- in the cases about what happens when a defendant takes the stand, that in the act of taking the stand, he has waived his Fifth Amendment rights."
+2013.12-609,1,15084,ruth_bader_ginsburg,scotus_justice,1512.09,1522.475,Are you suggesting that the government can answer in -- in a like manner as the defendant?
+2013.12-609,1,37291,nicole_saharsky,,1539.906,1541.531,That's right.
+2013.12-609,1,15131,sonia_sotomayor,scotus_justice,1552.965,1572.393,"Well, I'm presuming that if a defendant takes the stand and says something completely contrary to what he tells a government psychiatrist, that you would rely on the Brown line of cases, that you could cross-examine him on the contrary statement to the psychiatrist."
+2013.12-609,1,37291,nicole_saharsky,,1572.393,1575.891,"Again, we think that's the second question presented that the court didn't grant."
+2013.12-609,1,15131,sonia_sotomayor,scotus_justice,1591.448,1594.743,"Well, that would be a different issue."
+2013.12-609,1,15086,john_g_roberts_jr,scotus_justice,1599.29,1601.772,"Counsel, your time has expired."
+2013.12-609,1,37291,nicole_saharsky,,1601.772,1604.053,Thank you.
+2013.12-609,1,15086,john_g_roberts_jr,scotus_justice,1604.053,1609.49,Mr. Katyal.
+2013.12-609,2,37171,neal_kumar_katyal,,1609.49,1613.939,"Thank you, Mr. Chief Justice, and may it please the Court:"
+2013.12-609,2,15084,ruth_bader_ginsburg,scotus_justice,1640.898,1649.66,"Mr. Katyal, if this had played out entirely in the Federal court, the examination of the Defendant was pursuant to Federal Rule 12.2."
+2013.12-609,2,37171,neal_kumar_katyal,,1694.955,1697.033,"Your Honor, we think that that's partially right."
+2013.12-609,2,15068,samuel_a_alito_jr,scotus_justice,1740.454,1745.076,"That would be -- that's not a -- that's not a self-incrimination question, though, isn't it?"
+2013.12-609,2,37171,neal_kumar_katyal,,1752.043,1754.792,"Your Honor, it's the clash between -- it's just like Simmons."
+2013.12-609,2,15068,samuel_a_alito_jr,scotus_justice,1769.286,1778.376,"No, but there wouldn't be at that point -- suppose the Federal Rules simply said you can't have an expert testify about mental condition, period."
+2013.12-609,2,37171,neal_kumar_katyal,,1784.516,1784.733,--Quite.
+2013.12-609,2,15068,samuel_a_alito_jr,scotus_justice,1784.733,1785.749,Okay.
+2013.12-609,2,37171,neal_kumar_katyal,,1785.749,1786.499,Quite right.
+2013.12-609,2,15068,samuel_a_alito_jr,scotus_justice,1786.499,1787.874,"Up to that point, we're not quite at the Fifth Amendment."
+2013.12-609,2,37171,neal_kumar_katyal,,1787.874,1789.467,"Quite right, Your Honor."
+2013.12-609,2,15139,stephen_g_breyer,scotus_justice,1810.426,1825.671,You're -- you're -- the State admits that all that they could put on was information from the psychiatrist that is reasonably related to the defense that the defendant raised.
+2013.12-609,2,37171,neal_kumar_katyal,,1827.686,1828.327,--No.
+2013.12-609,2,15139,stephen_g_breyer,scotus_justice,1829.982,1831.56,All right.
+2013.12-609,2,37171,neal_kumar_katyal,,1832.091,1832.856,--We agree on the legal standard.
+2013.12-609,2,15139,stephen_g_breyer,scotus_justice,1832.856,1833.747,--Fine.
+2013.12-609,2,37171,neal_kumar_katyal,,1840.212,1841.9,"And that's what we think you should say, Your Honor."
+2013.12-609,2,15139,stephen_g_breyer,scotus_justice,1841.9,1847.726,And now we send it back to the Kansas court and say: We are not going to go through the record here because you should do it.
+2013.12-609,2,37171,neal_kumar_katyal,,1847.726,1849.117,"That's precisely right, Justice Breyer."
+2013.12-609,2,15139,stephen_g_breyer,scotus_justice,1850.239,1851.942,Then why are we here?
+2013.12-609,2,37171,neal_kumar_katyal,,1852.801,1858.19,"Well, that is -- that is ultimately what we think -- and it avoids the constitutional question by doing that."
+2013.12-609,2,15049,antonin_scalia,scotus_justice,1865.203,1874.48,"But Kansas decided the constitutional question, and we can't send it back unless we reverse the Supreme Court of Kansas."
+2013.12-609,2,37171,neal_kumar_katyal,,1881.196,1887.663,"--Your Honor, I think you can vacate the decision of the Kansas Supreme Court and remand for them to look at whether or not--"
+2013.12-609,2,15049,antonin_scalia,scotus_justice,1887.663,1888.927,On what basis can we vacate?
+2013.12-609,2,37171,neal_kumar_katyal,,1894.238,1900.985,"--Well, that it -- that it reached to ultimately decide this constitutional question on 12.2 that it didn't have to--"
+2013.12-609,2,15049,antonin_scalia,scotus_justice,1900.985,1902.61,That's -- that's error?
+2013.12-609,2,37171,neal_kumar_katyal,,1918.805,1927.584,"--Your Honor, I certainly think that's available to you, particularly in the context of this case, in which there is such an interrelationship between the scope issue and the ultimate merits question of the Fifth Amendment."
+2013.12-609,2,15084,ruth_bader_ginsburg,scotus_justice,1927.584,1928.115,But this--
+2013.12-609,2,15049,antonin_scalia,scotus_justice,1928.115,1928.755,I don't think so.
+2013.12-609,2,37171,neal_kumar_katyal,,1934.191,1944.89,"Well, Justice Scalia, if I could just try -- try -- if you look at even Kansas' opening brief at page 9, at page 12, at page 40, at page 42, it's all about the scope question."
+2013.12-609,2,15084,ruth_bader_ginsburg,scotus_justice,1949.139,1963.57,"--But the scope question wasn't decided by the Kansas court, and they wouldn't get to it unless they held that, yes, you can have this rebuttal testimony."
+2013.12-609,2,37171,neal_kumar_katyal,,1990.044,1991.372,--That's quite right.
+2013.12-609,2,15084,ruth_bader_ginsburg,scotus_justice,2015.971,2030.981,"Mr. Katyal, would you -- you said, in answer to my question, that Federal Rule of Criminal Procedure 12.2 violates the Fifth Amendment in small part."
+2013.12-609,2,37171,neal_kumar_katyal,,2063.297,2064.561,I think that's mostly right.
+2013.12-609,2,15084,ruth_bader_ginsburg,scotus_justice,2086.208,2100.594,"You think it's unconstitutional to say to the defendant, you have a choice; if you introduce this testimony, then the government can follow where you have led; if you don't introduce the testimony, then of course the government has nothing to rebut."
+2013.12-609,2,37171,neal_kumar_katyal,,2100.594,2102.312,--I don't think that's what 12.2(c)(4) says.
+2013.12-609,2,15084,ruth_bader_ginsburg,scotus_justice,2113.386,2113.855,Yes.
+2013.12-609,2,37171,neal_kumar_katyal,,2113.855,2121.945,"And it's not clear to me whether or not that's talking about a Buchanan situation, one in which the defense has requested the exam or not."
+2013.12-609,2,15084,ruth_bader_ginsburg,scotus_justice,2121.945,2122.664,It says
+2013.12-609,2,37171,neal_kumar_katyal,,2126.522,2127.85,Exactly.
+2013.12-609,2,15049,antonin_scalia,scotus_justice,2146.937,2163.805,"Of course, there is nothing unusual about saying if the defendant introduces certain evidence, he has to forfeit some of his Fifth Amendment self-incrimination rights."
+2013.12-609,2,37171,neal_kumar_katyal,,2163.805,2164.961,--Absolutely.
+2013.12-609,2,15049,antonin_scalia,scotus_justice,2164.961,2167.475,It happens every time the defendant chooses to testify.
+2013.12-609,2,37171,neal_kumar_katyal,,2167.475,2168.443,"Absolutely, Justice Scalia."
+2013.12-609,2,15049,antonin_scalia,scotus_justice,2168.443,2178.267,"He need not testify, but if he introduces that evidence he must submit to cross-examination and has to incriminate himself."
+2013.12-609,2,37171,neal_kumar_katyal,,2191.513,2200.884,"Well, we agree with the first 75 percent of that; that is, that certainly it's the case that when the defendant takes the stand, they are subject to cross-examination."
+2013.12-609,2,15049,antonin_scalia,scotus_justice,2216.753,2217.846,I understand that.
+2013.12-609,2,37171,neal_kumar_katyal,,2226.656,2227.547,"No, it--"
+2013.12-609,2,15049,antonin_scalia,scotus_justice,2227.547,2236.963,"--That the defendant does one thing, he has to accept what goes along with it, and that includes waiving or forfeiting his -- his right not to incriminate himself."
+2013.12-609,2,37171,neal_kumar_katyal,,2236.963,2237.338,--I don't think so.
+2013.12-609,2,15049,antonin_scalia,scotus_justice,2262.14,2265.483,That's not getting into the defendant's mind.
+2013.12-609,2,37171,neal_kumar_katyal,,2265.483,2267.061,"Oh, I think that cuts the other way."
+2013.12-609,2,15049,antonin_scalia,scotus_justice,2267.061,2275.105,It's only the psychiatrist who can get into the defendant's mind when he is -- when he is raising a mental capacity defense.
+2013.12-609,2,37171,neal_kumar_katyal,,2275.105,2277.463,"And, Justice Scalia, that precisely cuts the other way."
+2013.12-609,2,15086,john_g_roberts_jr,scotus_justice,2286.444,2292.989,It's just the fact that the evidence here is based on the defendant's statements.
+2013.12-609,2,37171,neal_kumar_katyal,,2330.456,2339.203,"Mr. Chief Justice, I think what does the work in your ballistics example is precisely that it isn't the defendant's own words; it's something else, and so it's wholly outside of the Fifth Amendment."
+2013.12-609,2,15086,john_g_roberts_jr,scotus_justice,2344.747,2345.935,No.
+2013.12-609,2,37171,neal_kumar_katyal,,2360.82,2361.023,--Yes.
+2013.12-609,2,15113,anthony_m_kennedy,scotus_justice,2374.206,2379.016,"Well, we're going -- we're going right back -- the defense expert here peered into his mind."
+2013.12-609,2,37171,neal_kumar_katyal,,2383.39,2383.482,--Exactly.
+2013.12-609,2,15113,anthony_m_kennedy,scotus_justice,2383.482,2387.45,But the -- the expert is Dr. Evans.
+2013.12-609,2,37171,neal_kumar_katyal,,2400.399,2402.554,We would have a constitutional objection.
+2013.12-609,2,15113,anthony_m_kennedy,scotus_justice,2402.554,2404.132,And that constitutional objection would be?
+2013.12-609,2,37171,neal_kumar_katyal,,2404.132,2410.223,"Exactly what I was saying to Justice Ginsburg, that this choice, a Simons-like choice was forced upon the defendant."
+2013.12-609,2,15113,anthony_m_kennedy,scotus_justice,2411.176,2419.034,"So in your view -- in your view, the defendant can be interviewed by his own psychiatrist, but not by a prosecution psychiatrist."
+2013.12-609,2,37171,neal_kumar_katyal,,2419.034,2420.845,"--That -- that is correct, Your Honor."
+2013.12-609,2,15084,ruth_bader_ginsburg,scotus_justice,2425.842,2443.96,"Mr. Katyal, if that's your position, then you must disagree with the D.C. circuit decision which was already mentioned, United States against Byers, which took the position that where the defendant leads, the government may follow."
+2013.12-609,2,37171,neal_kumar_katyal,,2461.189,2471.356,"--We -- we do ultimately disagree, Your Honor, with the bottom-line holding in the Byers case that -- that yourself and Justice Scalia was on."
+2013.12-609,2,15084,ruth_bader_ginsburg,scotus_justice,2496.893,2497.939,I didn't know that it was policy.
+2013.12-609,2,37171,neal_kumar_katyal,,2535.409,2541.736,"--But, Justice Ginsburg, we think that Byers ultimately, the language, the way it got there was purely policy."
+2013.12-609,2,15094,elena_kagan,scotus_justice,2551.153,2555.979,"Well, but if that's policy, why isn't the -- the cross-examination analogy policy as well?"
+2013.12-609,2,37171,neal_kumar_katyal,,2577.455,2578.565,I don't quite think that's right.
+2013.12-609,2,15113,anthony_m_kennedy,scotus_justice,2595.37,2601.711,Can you give me the -- can you give me the black letter formulation that you are asking this Court to adopt?
+2013.12-609,2,37171,neal_kumar_katyal,,2602.836,2614.003,When a defendant is forced to undergo a psychological examination as the price for putting on his mental state defense.
+2013.12-609,2,15049,antonin_scalia,scotus_justice,2621.751,2629.559,"When you say as the price for putting on his defense, you mean as the price for introducing the testimony of a psychological expert."
+2013.12-609,2,37171,neal_kumar_katyal,,2629.559,2630.7,"--That is correct, Justice Scalia."
+2013.12-609,2,15139,stephen_g_breyer,scotus_justice,2630.7,2631.481,The authority for that is what?
+2013.12-609,2,37171,neal_kumar_katyal,,2631.481,2634.932,"It's -- it's several cases, but I think Simmons is the best case."
+2013.12-609,2,15139,stephen_g_breyer,scotus_justice,2637.057,2638.604,"Well, I mean, you know, the obvious, it's not a question of policy."
+2013.12-609,2,37171,neal_kumar_katyal,,2675.777,2676.621,"--Oh, disagree entirely."
+2013.12-609,2,15139,stephen_g_breyer,scotus_justice,2676.621,2676.933,Really?
+2013.12-609,2,37171,neal_kumar_katyal,,2676.933,2680.978,"The government can put experts on, psychiatric experts, but they can't put on--"
+2013.12-609,2,15139,stephen_g_breyer,scotus_justice,2680.978,2681.447,No.
+2013.12-609,2,37171,neal_kumar_katyal,,2684.462,2687.132,"--That's the problem, absolutely."
+2013.12-609,2,15139,stephen_g_breyer,scotus_justice,2687.132,2687.539,--All right.
+2013.12-609,2,37171,neal_kumar_katyal,,2688.039,2688.742,And that is wholly foreign--
+2013.12-609,2,15139,stephen_g_breyer,scotus_justice,2688.742,2691.601,--But that -- that puts the government in a -- in an impossible position.
+2013.12-609,2,37171,neal_kumar_katyal,,2700.596,2708.999,"--I'm saying that -- that in a circumstance -- that either way, if it's the price for putting on the defense, then yes, it's unconstitutional."
+2013.12-609,2,15139,stephen_g_breyer,scotus_justice,2708.999,2710.436,You're -- I'm giving you a hypothetical.
+2013.12-609,2,37171,neal_kumar_katyal,,2710.436,2710.795,I don't think--
+2013.12-609,2,15139,stephen_g_breyer,scotus_justice,2710.795,2716.715,"Psychiatrist A, hired by the defense, examines the witness."
+2013.12-609,2,37171,neal_kumar_katyal,,2764.186,2764.702,--No.
+2013.12-609,2,15139,stephen_g_breyer,scotus_justice,2764.983,2767.561,That means it's something -- I can't imagine how the Fifth Amendment can say that.
+2013.12-609,2,37171,neal_kumar_katyal,,2767.685,2768.451,--That is not our argument.
+2013.12-609,2,15139,stephen_g_breyer,scotus_justice,2768.451,2769.169,What is your argument?
+2013.12-609,2,37171,neal_kumar_katyal,,2769.169,2772.59,"The prosecution can still put on an expert witness, they just can't--"
+2013.12-609,2,15139,stephen_g_breyer,scotus_justice,2772.59,2773.199,"No, no."
+2013.12-609,2,37171,neal_kumar_katyal,,2777.431,2782.476,"--Your imaginary psychiatrist can't be put on under our system and indeed under Kansas's own system, Justice Breyer."
+2013.12-609,2,15139,stephen_g_breyer,scotus_justice,2782.476,2782.976,"Well, that may be."
+2013.12-609,2,37171,neal_kumar_katyal,,2786.741,2787.538,I think it does.
+2013.12-609,2,15139,stephen_g_breyer,scotus_justice,2787.538,2788.179,Because--
+2013.12-609,2,37171,neal_kumar_katyal,,2788.179,2799.347,This Court has never once accepted the idea that a -- that the government can force someone to talk to your psychiatrist B and introduce his own words against him.
+2013.12-609,2,15068,samuel_a_alito_jr,scotus_justice,2807.828,2840.361,"Well, suppose we -- suppose we agree with you and the response is the adoption of a new Federal rule of evidence or a State rule of evidence that says that evidence of a -- that an expert who testifies for the defense as to the mental -- the insanity or mental state of a defendant is very unreliable if there has not been an opportunity for the defendant to be examined by another expert and therefore is just inadmissible."
+2013.12-609,2,37171,neal_kumar_katyal,,2844.188,2850.873,"--If it's -- it's simply a rule of evidence that doesn't condition one right against the other, no, I don't think so."
+2013.12-609,2,15139,stephen_g_breyer,scotus_justice,2853.154,2854.154,--What do we do with this?
+2013.12-609,2,37171,neal_kumar_katyal,,2897.604,2898.885,"--I think that's right, Justice Breyer."
+2013.12-609,2,15131,sonia_sotomayor,scotus_justice,2910.943,2922.954,"Mr. Katyal, assuming the incredulity of my colleagues continues with your argument, which way would you rather lose?"
+2013.12-609,2,37171,neal_kumar_katyal,,2935.652,2941.384,"--Well, certainly I think lack of compulsion is not something that really is being advanced by the government in this case."
+2013.12-609,2,15094,elena_kagan,scotus_justice,2959.643,2963.142,"Mr. Katyal, could I go back to the cross-examination analogy."
+2013.12-609,2,37171,neal_kumar_katyal,,3002.58,3022.823,"--I don't quite think that the cross-examination cases go so far as to say that it leads to the same way and gets you so far as to say that if someone testifies by -- if an expert testifies using the defendant's own words, that that opens the door to the prosecution doing so."
+2013.12-609,2,15113,anthony_m_kennedy,scotus_justice,3056.857,3084.736,"Well, that's something of an overstatement because he also had the psychiatrist who testified that in his expert opinion he did not have the requisite mental state and he -- and he prefaced that by indicating how many people he had examined that had used meth and there was neurotoxicity, so this defense expert did testify to that."
+2013.12-609,2,37171,neal_kumar_katyal,,3084.736,3086.157,"--Well, he certainly testified to--"
+2013.12-609,2,15113,anthony_m_kennedy,scotus_justice,3086.157,3091.734,So I think you quite overstate when you say the fact the Defendant testified.
+2013.12-609,2,37171,neal_kumar_katyal,,3091.734,3114.318,"--Well, what the defense expert testified to, voluntary incapacitation under methamphetamine and certainly the prosecution expert did that as well, but then the prosecution expert went a lot further to talk about his -- it's a suggested anti-social personality disorder, to suggest outlaws and the outlaws evidence was introduced by the State first in the context of direct."
+2013.12-609,2,15131,sonia_sotomayor,scotus_justice,3114.318,3115.255,But that's scope issues.
+2013.12-609,2,37171,neal_kumar_katyal,,3116.568,3116.57,Right.
+2013.12-609,2,15084,ruth_bader_ginsburg,scotus_justice,3133.516,3146.917,"Mr. Katyal, you have conceded, I think, in response to Justice Alito's question that the rules could be changed to say, Defendant, you cannot put on these experts."
+2013.12-609,2,37171,neal_kumar_katyal,,3184.621,3186.057,--I'm not sure that they would favor it or not.
+2013.12-609,2,15049,antonin_scalia,scotus_justice,3224.573,3228.838,I'll bet you the prosecution would accept your alternative in a heartbeat.
+2013.12-609,2,37171,neal_kumar_katyal,,3236.586,3236.911,It may be.
+2013.12-609,2,15084,ruth_bader_ginsburg,scotus_justice,3241.707,3242.817,What do you need to hammer out?
+2013.12-609,2,37171,neal_kumar_katyal,,3262.466,3288.033,"--We think that if the Court follows our rule which suggests that you can't put the defendant to this choice, the State has the option of modifying the voluntary intoxication defense possibly making it an affirmative defense or putting restrictions on experts, any number of things that may be possible in that circumstance or the legislative process not through some Fifth Amendment interpretation of this Court to try and deal with a policy concern."
+2013.12-609,2,15084,ruth_bader_ginsburg,scotus_justice,3288.033,3298.107,Is there really a huge difference between mental state as an element of the defense and mental state as an affirmative defense.
+2013.12-609,2,37171,neal_kumar_katyal,,3337.53,3343.728,"No, Your Honor, our brief at Page 36 points out that under Kansas law it's an element of the offense, they carry the burden of proof."
+2013.12-609,2,15086,john_g_roberts_jr,scotus_justice,3383.417,3384.683,"Thank you, Mr. Katyal."
+2013.12-609,3,21539,derek_l_schmidt,,3386.121,3391.321,"Thank you, Mr. Chief Justice."
+2013.12-609,3,15139,stephen_g_breyer,scotus_justice,3422.356,3429.946,"I think what he's saying is that, look, in Simmons, there is a Fourth Amendment problem and the defendant wants to testify in a Fourth Amendment hearing."
+2013.12-609,3,21539,derek_l_schmidt,,3466.714,3474.929,"I think, Your Honor, the Simmons circumstance is not applicable here and, in fact, the Court would have to substantially expand Simmons in order to find it to fit these facts."
+2013.12-609,3,15139,stephen_g_breyer,scotus_justice,3474.929,3480.521,You'd have to say then there's difference between the Fifth Amendment and the Fourth Amendment and that difference would be what?
+2013.12-609,3,21539,derek_l_schmidt,,3480.521,3496.983,"Well, Your Honor, in the Simmons case, what the government sought to do was to take the defendant's unvarnished statements from the prior hearing and to introduce them without the defendant having put those issues into the fact-finding portion of the trial as affirmative evidence in the government's case-in-chief."
+2013.12-609,3,15086,john_g_roberts_jr,scotus_justice,3541.997,3553.65,"What if -- what happens if the defendant is going through this examination, they ask him this, he tells them this, that, and all of a sudden they ask him a question, he said, I'd rather not answer that."
+2013.12-609,3,21539,derek_l_schmidt,,3556.29,3556.628,"Yes, Your Honor."
+2013.12-609,3,15086,john_g_roberts_jr,scotus_justice,3556.628,3556.649,Why?
+2013.12-609,3,21539,derek_l_schmidt,,3558.024,3568.083,"In fact, on the record here, the government's expert, Dr. Welner, specifically advised the Respondent before the examination began that if at any point he wanted to terminate the examination, he was free to do so."
+2013.12-609,3,15086,john_g_roberts_jr,scotus_justice,3570.129,3570.895,That's a little bit different.
+2013.12-609,3,21539,derek_l_schmidt,,3577.189,3583.358,"Well, on -- on particular questions, I suppose the Respondent could invoke at that time."
+2013.12-609,3,15131,sonia_sotomayor,scotus_justice,3599.695,3613.174,"I'm not quite sure I understand why we shouldn't follow the Simmons analogy because, as I understand it, we haven't ruled on the last question of whether you can use the compelled statements as impeachment."
+2013.12-609,3,15086,john_g_roberts_jr,scotus_justice,3639.617,3640.959,Don't forget it.
+2013.12-609,3,21539,derek_l_schmidt,,3643.787,3644.411,"Thank you, Mr. Chief Justice."
+2013.12-609,3,15086,john_g_roberts_jr,scotus_justice,3661.685,3663.013,"Thank you, counsel."

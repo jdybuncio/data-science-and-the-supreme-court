@@ -1,0 +1,194 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1996.96-511,0,15141,william_h_rehnquist,scotus_justice,0.0,0.5,"We'll hear argument next in Number 96-511, Janet Reno v. The American Civil Liberties Union."
+1996.96-511,0,42213,seth_p_waxman,,10.772,11.272,Thank you.
+1996.96-511,0,15141,william_h_rehnquist,scotus_justice,90.074,90.991,That is (d)(1)(A)?
+1996.96-511,0,42213,seth_p_waxman,,90.991,92.51,--That is (d)(1)(B).
+1996.96-511,0,15141,william_h_rehnquist,scotus_justice,92.51,93.36,(d)(1)(B).
+1996.96-511,0,42213,seth_p_waxman,,93.793,105.401,"When read together with the statutory defenses, this provision permits persons to post indecent material on the Internet so long as they take reasonably effective steps not to expose it to children."
+1996.96-511,0,15092,sandra_day_oconnor,scotus_justice,137.372,141.741,"Mr. Waxman, does that technology require use of something called CGI--"
+1996.96-511,0,42213,seth_p_waxman,,141.741,142.693,It does--
+1996.96-511,0,15092,sandra_day_oconnor,scotus_justice,142.693,145.276,"--in order to screen it out, in effect?"
+1996.96-511,0,42213,seth_p_waxman,,148.395,164.439,"--The... Justice O'Connor, the mechanism by which a Web site can screen for age, or a particular page, or indecent material on a Web site could screen for age is, or at least at the time of the hearing was by the use of something called CGI script."
+1996.96-511,0,15049,antonin_scalia,scotus_justice,191.756,192.723,"Of course, the problem is not at that end."
+1996.96-511,0,42213,seth_p_waxman,,203.914,231.333,"--Exactly, and what the record... what the district court found as fact was that on the World Wide Web it is technologically feasible and economically feasible, either by use of a credit card, which is more expensive, or by requiring the punching in of an adult ID code that is available from a third party for as little as $5 a year, to get access, but the technology on the World Wide Web exists to display this."
+1996.96-511,0,15092,sandra_day_oconnor,scotus_justice,231.333,240.606,"Well, how does that fit in with use of Web sites by noncommercial users, or just private individuals or libraries, or something of that kind?"
+1996.96-511,0,42213,seth_p_waxman,,240.606,246.093,"Do you mean use, that is that they want to view material, or use that they want to post indecent material?"
+1996.96-511,0,15092,sandra_day_oconnor,scotus_justice,246.093,246.676,Both.
+1996.96-511,0,42213,seth_p_waxman,,246.676,247.243,Okay.
+1996.96-511,0,15092,sandra_day_oconnor,scotus_justice,247.243,257.817,"I mean, the library wants to have material on its Web site which might be viewed as indecent, I guess."
+1996.96-511,0,42213,seth_p_waxman,,260.101,260.401,That's right.
+1996.96-511,0,15092,sandra_day_oconnor,scotus_justice,260.401,260.634,--are we?
+1996.96-511,0,42213,seth_p_waxman,,260.634,261.053,That's right.
+1996.96-511,0,15092,sandra_day_oconnor,scotus_justice,261.503,264.722,We're talking about some other category of material.
+1996.96-511,0,42213,seth_p_waxman,,264.722,265.638,--Let me address the example of the library.
+1996.96-511,0,15092,sandra_day_oconnor,scotus_justice,265.638,276.796,"And while you're at it, I want you to tell me how... what percentage of Web sites are incapable of using this CGI script, do you think?"
+1996.96-511,0,42213,seth_p_waxman,,276.796,277.43,Okay.
+1996.96-511,0,15092,sandra_day_oconnor,scotus_justice,277.913,280.332,"Not all of them can use it, and so I--"
+1996.96-511,0,42213,seth_p_waxman,,280.332,305.947,"--Well, let me answer your second question first and then go to your library example, but the testimony in the record before the district court was that on... for certain third party access providers like America Online and CompuServe, which allow customers to create their own Web sites for free, they do not currently have CGI software, so for example I, I am a member of America Online."
+1996.96-511,0,15084,ruth_bader_ginsburg,scotus_justice,391.219,396.623,"--Mr. Waxman, may I ask you to go back to the first point that you were answering, because I'm puzzled."
+1996.96-511,0,42213,seth_p_waxman,,419.222,426.559,"--That is correct, and we do not think that that finding, as we read it, Justice Ginsburg, is either clearly in error or in error at all."
+1996.96-511,0,15060,john_paul_stevens,scotus_justice,516.735,522.121,--May I ask you just for a little more clarification about your specific example of the Carnegie--
+1996.96-511,0,42213,seth_p_waxman,,522.121,522.472,Yes.
+1996.96-511,0,15060,john_paul_stevens,scotus_justice,522.472,529.393,--the library posting a card that they know would violate the statute if it is read by an... 17-year-old.
+1996.96-511,0,42213,seth_p_waxman,,542.368,552.825,"What the... Justice Stevens, what the... if the library found that there were any library cards that contained material that could be deemed patently offensive, they would take the--"
+1996.96-511,0,15060,john_paul_stevens,scotus_justice,552.825,553.675,"Let's assume they know something would be, so it--"
+1996.96-511,0,42213,seth_p_waxman,,553.675,553.908,--Okay.
+1996.96-511,0,15060,john_paul_stevens,scotus_justice,568.268,575.339,"--So that everyone who does not have the adult identification equipment, whatever it is, those people just don't see it."
+1996.96-511,0,42213,seth_p_waxman,,575.339,576.024,--That's right.
+1996.96-511,0,15060,john_paul_stevens,scotus_justice,576.024,582.028,"So that in order to get access to that if you're a viewer, you have to do whatever's necessary to become an identified adult."
+1996.96-511,0,42213,seth_p_waxman,,582.028,582.645,That's right.
+1996.96-511,0,15060,john_paul_stevens,scotus_justice,587.665,587.999,What if--
+1996.96-511,0,42213,seth_p_waxman,,587.999,593.319,Pittsburgh may have an ordinance that requires that patently offensive material be kept--
+1996.96-511,0,15060,john_paul_stevens,scotus_justice,593.319,594.402,--What if an identified--
+1996.96-511,0,42213,seth_p_waxman,,594.402,595.219,--in a different room and supervised.
+1996.96-511,0,15060,john_paul_stevens,scotus_justice,595.219,605.21,"--What if an identified adult wrote the library a letter and said, I have the adult stuff, but I have a 17-year-old son that I'm going to have watch this with me."
+1996.96-511,0,42213,seth_p_waxman,,606.91,614.233,"Well, the act does not make illegal the provision to adults of this material."
+1996.96-511,0,15060,john_paul_stevens,scotus_justice,616.066,619.018,They would know there's a 17-year-old the audience.
+1996.96-511,0,42213,seth_p_waxman,,619.018,624.272,"--If... well, I think here it depends a little on the mode of communication."
+1996.96-511,0,15060,john_paul_stevens,scotus_justice,633.444,642.566,"No, but my motive is that I'm Anthony Comstock, and I don't want this stuff to go out, so I'm telling you I've got a 17-year-old son who's going to help me police the airwaves."
+1996.96-511,0,42213,seth_p_waxman,,642.566,655.643,"--Then I... then under the specific child and transmission provisions as well as the display provision, you could not send it, but there is nothing to... there is nothing in this act that in any way gets in the way of adult-to-adult communication."
+1996.96-511,0,15049,antonin_scalia,scotus_justice,668.034,674.271,You're saying that any adult has a heckler's veto on the whole operation by simply saying I'm going to let my child watch it?
+1996.96-511,0,42213,seth_p_waxman,,674.271,674.804,"Oh, no."
+1996.96-511,0,15049,antonin_scalia,scotus_justice,676.389,676.906,Well--
+1996.96-511,0,42213,seth_p_waxman,,676.906,694.518,"The only thing that is prohibited under... if I can separate out the provisions, under the two more specific provisions, what we call the transmission and specific child provision, they only apply to transmissions where you know that the recipient, or a recipient is a child."
+1996.96-511,0,15049,antonin_scalia,scotus_justice,699.22,699.922,"--It's more than knowing it, isn't it?"
+1996.96-511,0,42213,seth_p_waxman,,703.974,704.591,--Yes.
+1996.96-511,0,15049,antonin_scalia,scotus_justice,705.224,710.461,"And it seems to me if you're sending it to the adult and he says, by the way, I'm going to have a child watching, you're not sending it to the child."
+1996.96-511,0,42213,seth_p_waxman,,710.461,711.095,--That is--
+1996.96-511,0,15049,antonin_scalia,scotus_justice,711.095,711.896,You're sending it to the adult.
+1996.96-511,0,42213,seth_p_waxman,,711.896,712.946,--That is absolutely right.
+1996.96-511,0,15092,sandra_day_oconnor,scotus_justice,718.383,718.966,Yes.
+1996.96-511,0,42213,seth_p_waxman,,726.822,732.893,"They are actually very, very important to us in terms of our prosecutions of sexual predators."
+1996.96-511,0,15141,william_h_rehnquist,scotus_justice,732.893,735.012,Which two provisions are you talking about?
+1996.96-511,0,42213,seth_p_waxman,,735.012,739.464,"This is... I think it's (a)(1)(D), the--"
+1996.96-511,0,15141,william_h_rehnquist,scotus_justice,739.464,740.514,Transmission--
+1996.96-511,0,42213,seth_p_waxman,,740.514,747.32,"--transmission provision, and (d)(1)(A), the specific transmission, the specific child provision."
+1996.96-511,0,15139,stephen_g_breyer,scotus_justice,752.723,767.566,"--Well, is it the case under those provisions that... suppose a group of high school students decide to communicate across the Internet, and they want to tell each other about their sexual experiences, whether those are real or imagined."
+1996.96-511,0,42213,seth_p_waxman,,775.72,779.874,"If high school... I mean, when you say they want to talk about their sexual experiences--"
+1996.96-511,0,15139,stephen_g_breyer,scotus_justice,779.874,781.257,That's been known to happen in high school.
+1996.96-511,0,42213,seth_p_waxman,,781.974,788.147,--I'm shocked to learn that there is gambling in this establishment.
+1996.96-511,0,15139,stephen_g_breyer,scotus_justice,802.387,815.13,"Well, I mean, I even imagine high school students might read from, let's say, books or magazines that have what people might think of as patently offensive ways of describing those experiences."
+1996.96-511,0,42213,seth_p_waxman,,821.618,822.434,It may.
+1996.96-511,0,15139,stephen_g_breyer,scotus_justice,822.434,836.727,"And so my concern is whether, analogizing this to the telephone, it would suddenly make large numbers of high school students across the country guilty of Federal crimes as they try to communicate to each other either singly or in groups."
+1996.96-511,0,42213,seth_p_waxman,,838.412,855.189,"If high school students, like anybody else, communicates what a jury would find and what this Court would establish, given its responsibility to create a constitutional floor to be patently offensive within the meaning of this statute, they would violate it, because the alternative--"
+1996.96-511,0,15049,antonin_scalia,scotus_justice,855.189,857.124,There's no high school student exemption?
+1996.96-511,0,42213,seth_p_waxman,,857.691,864.195,"--Justice Scalia, you may find it in the legislative history, but it is not apparent on the face of the statute."
+1996.96-511,1,17601,bruce_j_ennis_jr,,1999.748,2017.626,"Mr. Chief Justice, and may it please the Court:"
+1996.96-511,1,15049,antonin_scalia,scotus_justice,2083.085,2083.685,Excuse me.
+1996.96-511,1,17601,bruce_j_ennis_jr,,2111.521,2112.404,"Well, Justice--"
+1996.96-511,1,15049,antonin_scalia,scotus_justice,2112.404,2113.721,You can't get into... into some of the other--
+1996.96-511,1,17601,bruce_j_ennis_jr,,2113.721,2115.473,"--Justice Scalia, let me try to answer that question this way."
+1996.96-511,1,15049,antonin_scalia,scotus_justice,2144.893,2145.243,"--But, look."
+1996.96-511,1,17601,bruce_j_ennis_jr,,2176.114,2193.039,"--Your Honor, in Southeastern Promotions, in Schad, in Bolger, in case after case, the Court has held, both under intermediate scrutiny and under strict scrutiny... particularly under strict scrutiny... that the possibility of a functionally equivalent alternative does not save the Government."
+1996.96-511,1,15141,william_h_rehnquist,scotus_justice,2277.192,2280.061,Why are the others incapable of screening for age?
+1996.96-511,1,17601,bruce_j_ennis_jr,,2280.061,2300.325,"Because the... the unique ways that cyberspace works, you have to be able to have a computer software program that has a form that can be filled in, you can interrogate the listener who is trying to have access to your speech, and then you can have other data processing to figure out whether the listener can have access or not."
+1996.96-511,1,15049,antonin_scalia,scotus_justice,2308.163,2308.73,Is that still true?
+1996.96-511,1,17601,bruce_j_ennis_jr,,2318.353,2320.138,"Justice Scalia, it is still true."
+1996.96-511,1,15141,william_h_rehnquist,scotus_justice,2367.583,2367.933,"Well, it could be done, then."
+1996.96-511,1,17601,bruce_j_ennis_jr,,2371.904,2379.474,"Your Honor, Chief Justice Rehnquist, it is technologically possible on some Web sites to screen for age."
+1996.96-511,1,15141,william_h_rehnquist,scotus_justice,2391.048,2396.519,"What does it mean when they say ""prohibitively expensive"" or ""economically prohibitive""?"
+1996.96-511,1,17601,bruce_j_ennis_jr,,2396.519,2397.119,Let me try to--
+1996.96-511,1,15141,william_h_rehnquist,scotus_justice,2397.119,2398.804,Those are value-laden adverbs.
+1996.96-511,1,17601,bruce_j_ennis_jr,,2398.804,2400.604,"--Well, let... let me try to explain, Chief Justice."
+1996.96-511,1,15141,william_h_rehnquist,scotus_justice,2414.231,2416.599,"So if you're a commercial speaker, they will?"
+1996.96-511,1,17601,bruce_j_ennis_jr,,2416.599,2418.483,They will verify if you're a commercial speaker.
+1996.96-511,1,15141,william_h_rehnquist,scotus_justice,2418.483,2420.385,"And what... what do you mean by a ""commercial speaker""?"
+1996.96-511,1,17601,bruce_j_ennis_jr,,2420.385,2425.539,A speaker who is charging for access to his or her speech.
+1996.96-511,1,15141,william_h_rehnquist,scotus_justice,2433.042,2438.179,"Well, the credit card people will verify for the commercial speaker because he can pay for it or because--"
+1996.96-511,1,17601,bruce_j_ennis_jr,,2438.179,2438.662,That's right.
+1996.96-511,1,15141,william_h_rehnquist,scotus_justice,2438.662,2441.381,"--In other words, they would verify for anyone who could pay for it?"
+1996.96-511,1,17601,bruce_j_ennis_jr,,2441.381,2443.75,"Well, there are two questions... two points."
+1996.96-511,1,15141,william_h_rehnquist,scotus_justice,2468.716,2474.785,"Well, what about the first radio people, you know, before the Federal Radio Act in 1927?"
+1996.96-511,1,17601,bruce_j_ennis_jr,,2489.629,2501.603,"Chief Justice Rehnquist, there is an enormous difference between some burden, some cost... which this Court has upheld in other contexts... and a burden or cost that is economically prohibitive."
+1996.96-511,1,15141,william_h_rehnquist,scotus_justice,2522.45,2526.052,And that's prohibitively expensive for the Carnegie Library?
+1996.96-511,1,17601,bruce_j_ennis_jr,,2526.052,2527.202,"Yes, it is, Your Honor."
+1996.96-511,1,15049,antonin_scalia,scotus_justice,2529.587,2530.504,Mr. Ennis--
+1996.96-511,1,17601,bruce_j_ennis_jr,,2566.629,2579.353,"Let me answer that, Justice Scalia, first, by saying and emphasizing that we did not challenge this law insofar as it prohibits obscene speech, child pornography, solicitation of minors, harassment of minors."
+1996.96-511,1,15042,david_h_souter,scotus_justice,2620.161,2626.298,"Mr. Ennis, there is one thing I don't want to lose before you go away from the prohibitively expensive point."
+1996.96-511,1,17601,bruce_j_ennis_jr,,2643.009,2647.247,"Justice Souter, Mr. Waxman said there was unrebutted evidence below."
+1996.96-511,1,15042,david_h_souter,scotus_justice,2680.468,2685.788,"Would it be effective, in effect, in all Web transmissions and display?"
+1996.96-511,1,17601,bruce_j_ennis_jr,,2685.788,2687.688,Not in all Web transmissions.
+1996.96-511,1,15139,stephen_g_breyer,scotus_justice,2714.79,2721.628,"Can you at some point... Mr. Ennis, could you at some point, at your choice, address the question of severability?"
+1996.96-511,1,17601,bruce_j_ennis_jr,,2740.09,2742.725,"Justice Breyer, the District Court did focus on that question."
+1996.96-511,1,15092,sandra_day_oconnor,scotus_justice,2787.321,2791.706,How about narrowing the definition of what's patently offensive?
+1996.96-511,1,17601,bruce_j_ennis_jr,,2791.706,2798.962,"Well, Your Honor, again, you would have to do violence to the text of the Act and to the legislative history."
+1996.96-511,1,15092,sandra_day_oconnor,scotus_justice,2800.831,2801.88,The Act just isn't specific.
+1996.96-511,1,17601,bruce_j_ennis_jr,,2805.699,2807.651,"--On the text of the Act, it's not, Justice O'Connor."
+1996.96-511,1,15141,william_h_rehnquist,scotus_justice,2847.859,2853.096,"--Well, we construed the term ""patently offensive"" in our Denver Area opinions last term."
+1996.96-511,1,17601,bruce_j_ennis_jr,,2853.096,2861.036,"Chief Justice Rehnquist, I think that, with respect to the vagueness argument, the Denver Area case is dramatically different from this case."
+1996.96-511,1,15141,william_h_rehnquist,scotus_justice,2887.101,2898.475,"Well, you might say that the... what the Court came up with in Denver maybe was too lenient for a criminal statute, but certainly the term was construed there."
+1996.96-511,1,17601,bruce_j_ennis_jr,,2898.475,2900.594,"--It was, Chief Justice Rehnquist, but it--"
+1996.96-511,1,15141,william_h_rehnquist,scotus_justice,2900.594,2903.796,"It was construed in a quite limited way, was it not?"
+1996.96-511,1,17601,bruce_j_ennis_jr,,2903.796,2905.315,--Let me answer it this way.
+1996.96-511,1,15141,william_h_rehnquist,scotus_justice,2905.315,2907.698,"Was it construed, do you think, in a limited way?"
+1996.96-511,1,17601,bruce_j_ennis_jr,,2907.698,2912.052,I don't think that the term was actually construed in any particularly limited way in Denver Area.
+1996.96-511,1,15084,ruth_bader_ginsburg,scotus_justice,2914.421,2919.306,I thought the Court adhered to Pacifica in... in defining indecency.
+1996.96-511,1,17601,bruce_j_ennis_jr,,2919.306,2921.408,"--I think the Court did refer to Pacifica, Justice Ginsburg."
+1996.96-511,1,15084,ruth_bader_ginsburg,scotus_justice,2943.504,2950.777,"Mr. Ennis, you did say in... in your opening that you were going to tell us about a less restrictive, more effective means."
+1996.96-511,1,17601,bruce_j_ennis_jr,,2956.498,2958.198,Yes.
+1996.96-511,1,15141,william_h_rehnquist,scotus_justice,2992.937,2994.539,"Those cost money, though, don't they?"
+1996.96-511,1,17601,bruce_j_ennis_jr,,2994.539,2998.491,"Chief Justice Rehnquist, the basic ones don't cost a thing."
+1996.96-511,1,15141,william_h_rehnquist,scotus_justice,3023.808,3028.027,"So, there will be no cost involved in any part of this alternative to the parents?"
+1996.96-511,1,17601,bruce_j_ennis_jr,,3028.027,3030.979,Not if the listener uses those software programs.
+1996.96-511,1,15092,sandra_day_oconnor,scotus_justice,3042.154,3046.305,"Well, Mr. Ennis, the Government says that these programs aren't effective."
+1996.96-511,1,17601,bruce_j_ennis_jr,,3050.209,3054.327,"--Justice O'Connor, with respect, I don't think that's a fair characterization."
+1996.96-511,1,15049,antonin_scalia,scotus_justice,3098.873,3099.656,Mr. Ennis--
+1996.96-511,1,17601,bruce_j_ennis_jr,,3099.656,3100.725,That's not a first amendment problem.
+1996.96-511,1,15049,antonin_scalia,scotus_justice,3102.558,3106.546,"--Mr. Ennis, so much of your argument is based upon what is currently available."
+1996.96-511,1,17601,bruce_j_ennis_jr,,3130.745,3131.345,Not--
+1996.96-511,1,15049,antonin_scalia,scotus_justice,3131.345,3132.828,Or next year or in two years?
+1996.96-511,1,17601,bruce_j_ennis_jr,,3132.828,3135.447,"--Not as it is presently worded, Justice Scalia."
+1996.96-511,1,15049,antonin_scalia,scotus_justice,3158.645,3165.668,But it depends on the... on the security of the safe harbor.
+1996.96-511,1,17601,bruce_j_ennis_jr,,3176.207,3177.807,"Well, I'm glad you asked that question, Justice Scalia."
+1996.96-511,1,15049,antonin_scalia,scotus_justice,3178.04,3178.507,--what is going to be what.
+1996.96-511,1,17601,bruce_j_ennis_jr,,3242.565,3244.351,"--Justice Scalia, that was an issue below."
+1996.96-511,1,15141,william_h_rehnquist,scotus_justice,3255.307,3260.111,"Well, we don't... we don't decide cases here on the basis of concessions, Mr. Ennis."
+1996.96-511,1,17601,bruce_j_ennis_jr,,3262.979,3264.596,"--That's correct, Chief Justice Rehnquist."
+1996.96-511,1,15141,william_h_rehnquist,scotus_justice,3361.491,3368.395,"But if 70 percent is shielded and 30 percent isn't, what kind of an argument is that against the constitutionality of the statute?"
+1996.96-511,1,17601,bruce_j_ennis_jr,,3368.395,3371.681,"First, Chief Justice Rehnquist, I think it's more like 50/50 today."
+1996.96-511,1,15141,william_h_rehnquist,scotus_justice,3371.681,3373.549,"Well, whatever the situation is."
+1996.96-511,1,17601,bruce_j_ennis_jr,,3373.549,3374.583,"Well, here's why."
+1996.96-511,1,15141,william_h_rehnquist,scotus_justice,3400.866,3402.052,"Well, it would certainly... it would certainly go halfway."
+1996.96-511,1,17601,bruce_j_ennis_jr,,3402.535,3403.418,"Well, Your Honor--"
+1996.96-511,1,15049,antonin_scalia,scotus_justice,3403.418,3410.456,"What about 500 bookstores, 500 obscene bookstores, and the Government eliminates 250 of them; would that be no progress at all?"
+1996.96-511,1,17601,bruce_j_ennis_jr,,3410.456,3411.324,"--If they're obscene, they can eliminate them all, Justice Scalia."
+1996.96-511,1,15049,antonin_scalia,scotus_justice,3411.641,3412.558,Never mind obscene... pornographic--
+1996.96-511,1,17601,bruce_j_ennis_jr,,3412.558,3414.058,Pornographic--
+1996.96-511,1,15049,antonin_scalia,scotus_justice,3414.058,3419.378,"--succeeds in excluding children from 250 out of 500, that's no use?"
+1996.96-511,1,17601,bruce_j_ennis_jr,,3419.378,3436.189,"--Justice Scalia, the way the Internet works, a child using a search engine can sit down at their typewriter and they type in, if they want to go somewhere... and it's important to stress that in cyberspace, listeners must affirmatively choose where they want to go."
+1996.96-511,1,15113,anthony_m_kennedy,scotus_justice,3483.135,3484.07,Does this statute--
+1996.96-511,1,17601,bruce_j_ennis_jr,,3484.07,3486.403,And this Act would be completely ineffective in achieving that goal.
+1996.96-511,1,15113,anthony_m_kennedy,scotus_justice,3486.403,3496.128,"--Does this statute, with respect to foreign speech, prohibit United States users to post information that goes abroad?"
+1996.96-511,1,17601,bruce_j_ennis_jr,,3496.128,3499.08,"It doesn't specifically address that question at all, Justice Kennedy."
+1996.96-511,1,15139,stephen_g_breyer,scotus_justice,3532.134,3537.705,"Why, just out of curiosity, is it not applicable to messages that emanate from abroad?"
+1996.96-511,1,17601,bruce_j_ennis_jr,,3537.705,3548.643,"It's not applicable, Your Honor, because, first of all, as a practical matter, the Government would not have personal jurisdiction over foreign speakers, and could not realistically expect--"
+1996.96-511,1,15139,stephen_g_breyer,scotus_justice,3548.643,3549.345,"Well, I mean if they came here."
+1996.96-511,1,17601,bruce_j_ennis_jr,,3552.964,3555.499,"--Well, there may be one or two or 10 or 20 applications--"
+1996.96-511,1,15139,stephen_g_breyer,scotus_justice,3555.499,3557.082,Is it totally practically or is there some legal reason?
+1996.96-511,1,17601,bruce_j_ennis_jr,,3557.082,3558.868,"--Well, there are also legal reasons, Your Honor."
+1996.96-511,1,15141,william_h_rehnquist,scotus_justice,3592.805,3598.843,So Congress could cure this constitutional defect as you see it simply by making it clear that the law applied everywhere?
+1996.96-511,1,17601,bruce_j_ennis_jr,,3598.843,3604.397,"--No, it wouldn't cure the second problem, Your Honor, because that would then be a conflict with the laws of those many foreign countries--"
+1996.96-511,1,15141,william_h_rehnquist,scotus_justice,3604.397,3606.782,"Well, but supposing the Congress said we don't care if there's a conflict?"
+1996.96-511,1,17601,bruce_j_ennis_jr,,3606.782,3610.634,"--Well, Congress could violate that standard of statutory interpretation."
+1996.96-511,1,15141,william_h_rehnquist,scotus_justice,3610.634,3616.99,"Well, when Congress expressly provides something, it's not violating a standard of statutory interpretation."
+1996.96-511,1,17601,bruce_j_ennis_jr,,3616.99,3623.477,"Your Honor, I... I agree that Congress could have drafted a much different statute than the one it drafted."
+1996.96-511,1,15141,william_h_rehnquist,scotus_justice,3642.705,3643.974,But I'm talking about broader statute.
+1996.96-511,1,17601,bruce_j_ennis_jr,,3653.346,3656.198,It would take care of that defect.
+1996.96-511,1,15049,antonin_scalia,scotus_justice,3657.865,3658.248,"Well, I'm not sure."
+1996.96-511,1,17601,bruce_j_ennis_jr,,3681.747,3683.115,"Justice Scalia, this is not that case."
+1996.96-511,1,15049,antonin_scalia,scotus_justice,3683.115,3685.065,"--I mean if that's your only argument, I'm saying--"
+1996.96-511,1,17601,bruce_j_ennis_jr,,3685.065,3685.717,It's not... it's not the only argument.
+1996.96-511,1,15049,antonin_scalia,scotus_justice,3687.367,3689.503,--I think it's a pretty weak argument.
+1996.96-511,1,17601,bruce_j_ennis_jr,,3689.503,3691.288,"But it's not the only argument at all, Justice Scalia."
+1996.96-511,1,15084,ruth_bader_ginsburg,scotus_justice,3692.621,3695.507,I thought you were making the point that it would be ineffective because--
+1996.96-511,1,17601,bruce_j_ennis_jr,,3695.507,3696.323,--That's correct.
+1996.96-511,2,42213,seth_p_waxman,,4055.006,4056.958,I have five points.
+1996.96-511,2,15042,david_h_souter,scotus_justice,4103.938,4108.057,"But that's' not true under the display... that's not true under the display provision here, is it?"
+1996.96-511,2,42213,seth_p_waxman,,4108.057,4110.009,It is true under the display provision.
+1996.96-511,2,15042,david_h_souter,scotus_justice,4112.109,4113.544,I thought that was not a knowing offense?
+1996.96-511,2,42213,seth_p_waxman,,4113.544,4115.327,--Excuse me?
+1996.96-511,2,15042,david_h_souter,scotus_justice,4115.327,4117.595,The display provision is not a knowing offense.
+1996.96-511,2,42213,seth_p_waxman,,4117.595,4119.948,"Well, you have to knowingly display it."
+1996.96-511,2,15141,william_h_rehnquist,scotus_justice,4147.432,4149.182,"I think you've... I think you've... Mr. Waxman, I think you've answered the question."
+1996.96-511,2,42213,seth_p_waxman,,4149.182,4149.682,--Thank you.
+1996.96-511,2,15141,william_h_rehnquist,scotus_justice,4149.682,4150.814,The case is submitted.

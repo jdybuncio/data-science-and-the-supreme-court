@@ -1,0 +1,165 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2014.13-684,0,15086,john_g_roberts_jr,scotus_justice,0.0,9.456,"We'll hear argument next in Case 13-684, Jesinoski v. Countrywide Home Loans."
+2014.13-684,0,20869,david_c_frederick,,10.439,12.891,"Thank you, Mr. Chief Justice, and may it please the Court:"
+2014.13-684,0,15049,antonin_scalia,scotus_justice,79.783,87.522,"Well, let's talk -- let's talk about the first thing you say rescission is affected by."
+2014.13-684,0,20869,david_c_frederick,,144.476,148.777,"--Well, Congress could have written Section 1635(a) that way, but it didn't."
+2014.13-684,0,15049,antonin_scalia,scotus_justice,175.011,175.745,"Well, wait, wait, wait, wait."
+2014.13-684,0,20869,david_c_frederick,,192.472,196.941,"--Well, the statute actually does say that in the (b) provision, Justice Scalia."
+2014.13-684,0,15049,antonin_scalia,scotus_justice,215.572,247.374,"Yes, but -- but in common law you had to give back in what you had received, and you have -- you -- you are urging that the statute creates a system in which a -- a creditor who has a secured interest, simply because somebody comes up almost 3 years later and says, you didn't give me two copies of this particular document, I got only one copy, and even if that's not true, immediately the secured interest is converted into an unsecured interest."
+2014.13-684,0,20869,david_c_frederick,,256.732,261.551,"Well, the language of the statute actually makes that very clear, and so do the regulations."
+2014.13-684,0,15068,samuel_a_alito_jr,scotus_justice,297.424,299.576,Could you just explain how you -- how you think this would play out?
+2014.13-684,0,20869,david_c_frederick,,317.787,318.353,--Correct.
+2014.13-684,0,15068,samuel_a_alito_jr,scotus_justice,318.353,322.138,"And what if the obligor says at that point, I don't have it, I've spent it."
+2014.13-684,0,20869,david_c_frederick,,322.138,322.705,Okay.
+2014.13-684,0,15068,samuel_a_alito_jr,scotus_justice,322.988,323.538,Then what happens?
+2014.13-684,0,20869,david_c_frederick,,324.923,332.01,"--The statute answers that question, Justice Alito, in 1635(b), and that's the second page of the addendum to our blue brief."
+2014.13-684,0,15068,samuel_a_alito_jr,scotus_justice,332.01,332.427,How does it answer it?
+2014.13-684,0,20869,david_c_frederick,,332.427,341.715,"It answers the question by making clear that the process that you set forth is what's supposed to happen automatically, but then the very last sentence, which reads,"
+2014.13-684,0,15113,anthony_m_kennedy,scotus_justice,406.908,411.543,"Well, suppose -- suppose the rescission notice is really improper."
+2014.13-684,0,20869,david_c_frederick,,441.829,442.681,That -- that's right.
+2014.13-684,0,15113,anthony_m_kennedy,scotus_justice,474.633,484.758,So -- so the borrower has to send its notice that it's not -- does not agree with the right to rescind within the 3-year period?
+2014.13-684,0,20869,david_c_frederick,,484.758,486.943,"The -- the -- yes, that's right."
+2014.13-684,0,15113,anthony_m_kennedy,scotus_justice,489.562,496.982,"Suppose -- suppose the -- suppose the notice comes 3 days before the 3-year period ends, and the bank just doesn't have time?"
+2014.13-684,0,20869,david_c_frederick,,496.982,507.689,"--No, the bank under the procedures in Section (b) has 20 days in which to tend -- to pay back the loan proceeds that had been conferred to the borrower."
+2014.13-684,0,15131,sonia_sotomayor,scotus_justice,537.559,549.366,"Mr. Frederick, the bank, as soon as it receives the notice of rescission -- one of the benefits for people who don't want to pay a mortgage is that it suspends the mortgage payments; correct?"
+2014.13-684,0,20869,david_c_frederick,,549.366,550.416,That's correct.
+2014.13-684,0,15131,sonia_sotomayor,scotus_justice,550.416,551.1,All right.
+2014.13-684,0,20869,david_c_frederick,,552.652,553.585,Although if I could interrupt--
+2014.13-684,0,15131,sonia_sotomayor,scotus_justice,553.585,554.335,--isn't it -- I'm sorry.
+2014.13-684,0,20869,david_c_frederick,,554.335,554.654,--Sorry.
+2014.13-684,0,15131,sonia_sotomayor,scotus_justice,559.906,566.645,"But for those who don't, the bank can file a declaratory judgment suit?"
+2014.13-684,0,20869,david_c_frederick,,566.645,567.145,That's correct.
+2014.13-684,0,15131,sonia_sotomayor,scotus_justice,567.145,568.028,All right.
+2014.13-684,0,20869,david_c_frederick,,570.964,571.38,That's correct.
+2014.13-684,0,15084,ruth_bader_ginsburg,scotus_justice,637.169,654.964,"Before -- before you do, Mr. Frederick, you are recognizing that the only recourse the lender has if the borrower is -- is claiming something that is baseless, the only recourse is to bring a declaratory judgment action?"
+2014.13-684,0,20869,david_c_frederick,,654.964,655.647,No.
+2014.13-684,0,15094,elena_kagan,scotus_justice,710.284,715.771,So why do you think it is that Congress didn't say how we resolve disputes in this context?
+2014.13-684,0,20869,david_c_frederick,,715.771,731.715,"Well, I think that the -- the answer to that is that Congress expected that this unilateral right of rescission was going to be exercised in a simple way through the written notification and that what has happened is--"
+2014.13-684,0,15094,elena_kagan,scotus_justice,731.715,739.486,"But Congress couldn't have thought that every time there was a notification, the -- the lender was going to agree with the borrower that it was appropriate."
+2014.13-684,0,20869,david_c_frederick,,751.111,754.396,"--It is a puzzling feature, Justice Kagan, and I can't deny that."
+2014.13-684,0,15068,samuel_a_alito_jr,scotus_justice,853.01,855.877,You're reading an awful lot into that section.
+2014.13-684,0,20869,david_c_frederick,,866.416,867.199,That's right.
+2014.13-684,0,15131,sonia_sotomayor,scotus_justice,904.388,914.846,"Mr. Frederick, does your argument depend on us agreeing with the proposition that the rescission is completed at the time the notice is set?"
+2014.13-684,0,20869,david_c_frederick,,914.846,921.599,"I think that it -- no, but it does depend on accepting the idea that rescission is just cancellation."
+2014.13-684,0,15086,john_g_roberts_jr,scotus_justice,931.205,932.141,"Thank you, counsel."
+2014.13-684,1,22331,elaine_j_goldenberg,,944.882,947.834,"Mr. Chief Justice, and may it please the Court:"
+2014.13-684,1,15131,sonia_sotomayor,scotus_justice,995.982,996.782,Or the statute of limitations.
+2014.13-684,1,22331,elaine_j_goldenberg,,996.782,1001.901,"--Or a statute of limitations as this Court has already decided in Beach, that was one of the holdings of Beach."
+2014.13-684,1,15113,anthony_m_kennedy,scotus_justice,1067.861,1071.982,Suppose the bank -- suppose the bank thinks that the notice of rescission is just completely baseless.
+2014.13-684,1,22331,elaine_j_goldenberg,,1075.184,1075.517,--No.
+2014.13-684,1,15113,anthony_m_kennedy,scotus_justice,1075.517,1078.136,It can -- it can just sit there and wait and be sued.
+2014.13-684,1,22331,elaine_j_goldenberg,,1078.136,1078.919,"That's right, Your Honor."
+2014.13-684,1,15113,anthony_m_kennedy,scotus_justice,1098.215,1100.199,"Excuse me, (b), boy?"
+2014.13-684,1,22331,elaine_j_goldenberg,,1100.199,1100.917,"--(B), boy, yes."
+2014.13-684,1,15084,ruth_bader_ginsburg,scotus_justice,1121.231,1138.524,"How would that apply in this case where I take it the -- the lender's position is we're being charged with not providing a second copy, and we did provide a second copy; therefore, this is a baseless claim."
+2014.13-684,1,22331,elaine_j_goldenberg,,1138.524,1148.398,"At that point, I think the lender is making -- going to have to make a judgment in this case and in other cases about whether it thinks the notice is valid."
+2014.13-684,1,15068,samuel_a_alito_jr,scotus_justice,1189.475,1201.867,"What would you do if you were the lender or the lender's attorney and you had a situation where just before the 3 years expire, the borrower sends a letter and they say: We didn't get two copies?"
+2014.13-684,1,22331,elaine_j_goldenberg,,1222.196,1224.882,I think what you would do would depend on the circumstances.
+2014.13-684,1,15068,samuel_a_alito_jr,scotus_justice,1224.882,1226.132,Those are the circumstances.
+2014.13-684,1,22331,elaine_j_goldenberg,,1228.567,1229.034,Right.
+2014.13-684,1,15068,samuel_a_alito_jr,scotus_justice,1320.174,1326.697,Mr. Frederick just said that what has happened in a lot of these cases is like mini-bankruptcy proceedings in State court.
+2014.13-684,1,22331,elaine_j_goldenberg,,1327.697,1340.204,"Well, I think what's happened under Section 1635(b) is that courts have taken that last sentence of Section 1635(b) as essentially the power to do equity in a particular case."
+2014.13-684,1,15086,john_g_roberts_jr,scotus_justice,1467.301,1469.136,"Thank you, counsel."
+2014.13-684,2,42213,seth_p_waxman,,1480.611,1484.146,"Thank you, Mr. Chief Justice, and may it please the Court:"
+2014.13-684,2,15084,ruth_bader_ginsburg,scotus_justice,1530.625,1548.253,"Mr. Waxman, please review what you just said because, as I understand it, the lender has to give the borrower a notice of opportunity to rescind which says, the borrower may cancel."
+2014.13-684,2,42213,seth_p_waxman,,1568.85,1571.186,That's correct.
+2014.13-684,2,15113,anthony_m_kennedy,scotus_justice,1672.067,1675.771,But that's not the position that the government has.
+2014.13-684,2,42213,seth_p_waxman,,1692.731,1710.859,"Well, that is our position, and when my friend, Mr. Frederick says, you know, we've never found any case of a windfall under (b), the answer isn't because in an amendment in 1995 Congress said that -- in the last sentence of (b) -- that a court can modify this."
+2014.13-684,2,15113,anthony_m_kennedy,scotus_justice,1721.816,1723.752,But it happens in the law all the time.
+2014.13-684,2,42213,seth_p_waxman,,1738.945,1740.262,That's correct.
+2014.13-684,2,15131,sonia_sotomayor,scotus_justice,1741.13,1743.097,But you don't get the right to rescission.
+2014.13-684,2,42213,seth_p_waxman,,1759.008,1780.605,"--That is not our position, and I don't think the other side has ever cited a case in which -- we can debate whether this is called a statute of repose, but let's just accept what this Court said in Beach, which is after 3 years the substantive right for which the remedy of rescission is available expires."
+2014.13-684,2,15084,ruth_bader_ginsburg,scotus_justice,1780.605,1784.241,But in Beach there was no notice within the 3 years.
+2014.13-684,2,42213,seth_p_waxman,,1784.241,1796.298,"Justice Ginsburg, I don't think anybody is disagreeing that everything that the Court said in Beach was not -- that we're each relying on, is dicta because there was no notice."
+2014.13-684,2,15084,ruth_bader_ginsburg,scotus_justice,1850.351,1851.418,This isn't at common law.
+2014.13-684,2,42213,seth_p_waxman,,1860.69,1869.98,And there is -- nobody is arguing that Congress didn't tinker with the common law procedure either in law or equity.
+2014.13-684,2,15086,john_g_roberts_jr,scotus_justice,1881.537,1903.217,"That's a very -- that's a very -- you're putting an awful lot of weight on a tiny, one-sentence provision in (g) that's called “ additional relief ” that -- I think it would be very odd if that's where Congress decided to place the provision that tells you what happened -- what happens when there's exercise of the right to rescind."
+2014.13-684,2,42213,seth_p_waxman,,1903.217,1908.605,"Well, Mr. Chief Justice, I think one needs to understand the context in which that provision was enacted."
+2014.13-684,2,15094,elena_kagan,scotus_justice,1936.272,1942.259,"Well, that seems right, Mr. Waxman, that people understood that there would be litigation and (g) is an acknowledgment of that."
+2014.13-684,2,42213,seth_p_waxman,,1980.884,2022.796,"Justice Kagan, the -- (g) was intended -- and we know this very clearly and I think it's pretty obvious from the language -- what had happened in litigation before 1995 was that borrowers -- where a lender said, nope that's not valid, I'm not rescinding, I'm not going to go through the unwinding process of (b), the borrowers had a choice of filing a suit for damages under 1640, which has a 1-year statute of limitations, or pursuing in an action for rescission, for a court award of rescission."
+2014.13-684,2,15049,antonin_scalia,scotus_justice,2080.316,2081.499,"For rescission, you mean?"
+2014.13-684,2,42213,seth_p_waxman,,2081.499,2082.851,"--For rescission, I'm sorry."
+2014.13-684,2,15131,sonia_sotomayor,scotus_justice,2109.502,2115.156,It hasn't spoken directly when it sets out a specific procedure for the parties to follow?
+2014.13-684,2,42213,seth_p_waxman,,2115.156,2116.24,--It sets out a--
+2014.13-684,2,15131,sonia_sotomayor,scotus_justice,2116.24,2119.624,It spells out -- tells the borrower: Put the notice.
+2014.13-684,2,42213,seth_p_waxman,,2129.665,2161.97,"--Spoken utterly clearly about all of those things and it also said what happens in the mine run of these late notification cases that -- I mean between 3 days and 3 years of the consummation of the transaction, that if the borrower -- if the lender says your notice is invalid, no rescission -- by any definition rescission has not taken place and the borrower's recourse is a suit for an award of rescission as it would have been under common law."
+2014.13-684,2,15049,antonin_scalia,scotus_justice,2164.755,2175.794,Am I correct the government says rescission has taken place if the borrower is right and it has not taken place if the borrower is wrong?
+2014.13-684,2,42213,seth_p_waxman,,2175.794,2180.432,--I'm not exactly sure what the government's position is.
+2014.13-684,2,15049,antonin_scalia,scotus_justice,2188.104,2189.838,"No, no, no, no."
+2014.13-684,2,42213,seth_p_waxman,,2200.845,2224.211,"Well, our -- I don't know what the government's position is on that, but I know what our position is, which is if the lender receives the notice and says, yep, this is timely, subsection (b) very specifically -- you know, with respect to the common law -- explains the steps that have to occur to achieve rescission."
+2014.13-684,2,15113,anthony_m_kennedy,scotus_justice,2250.011,2253.396,"Well, I take it they do have to occur or there are going to be damages at least."
+2014.13-684,2,42213,seth_p_waxman,,2273.81,2276.36,"--So here's what happens, if the bank--"
+2014.13-684,2,15113,anthony_m_kennedy,scotus_justice,2276.36,2277.029,There is a rescission.
+2014.13-684,2,42213,seth_p_waxman,,2277.029,2291.938,--There is a rescission -- I think there are two very different things here that address -- in 1635(g) and 1640 and this Court's decision in Beach underscores just exactly how much those two things are different.
+2014.13-684,2,15131,sonia_sotomayor,scotus_justice,2408.496,2412.284,"Let's talk about (g), about the rescission occurring or not."
+2014.13-684,2,42213,seth_p_waxman,,2415.15,2415.802,--Yes.
+2014.13-684,2,15131,sonia_sotomayor,scotus_justice,2416.202,2421.723,But the exercise of the right doesn't mean that the act will have come about.
+2014.13-684,2,42213,seth_p_waxman,,2421.723,2422.823,--Of course.
+2014.13-684,2,15131,sonia_sotomayor,scotus_justice,2422.823,2428.81,You -- you answered me earlier that a court doesn't have to finish within the three years.
+2014.13-684,2,42213,seth_p_waxman,,2437.483,2438.466,"No, no--"
+2014.13-684,2,15131,sonia_sotomayor,scotus_justice,2438.466,2440.618,Why is that so illogical?
+2014.13-684,2,42213,seth_p_waxman,,2444.086,2445.088,--The right--
+2014.13-684,2,15131,sonia_sotomayor,scotus_justice,2445.088,2448.707,An exercise of a right is in accordance with the terms of the contract.
+2014.13-684,2,42213,seth_p_waxman,,2448.707,2458.846,"--The question -- I mean, the right of rescission means in (a), as it says, the timely -- I mean, it doesn't define what the right of rescission is."
+2014.13-684,2,15131,sonia_sotomayor,scotus_justice,2495.871,2502.192,You just gave -- you just gave your case away when you said the exercise of the right is when you sent the notice.
+2014.13-684,2,42213,seth_p_waxman,,2502.192,2504.377,"No, but the -- but the problem -- no, no."
+2014.13-684,2,15131,sonia_sotomayor,scotus_justice,2532.894,2536.179,The question is whether that's the exercise of the right within three years.
+2014.13-684,2,42213,seth_p_waxman,,2536.179,2555.677,"--And the answer is no, because where the -- where the lender says I'm not -- I don't agree and we are not going to accomplish rescission in (b), the statute says, very commonsensically, the party that wants this extraordinary remedy can sue for an award of rescission."
+2014.13-684,2,15139,stephen_g_breyer,scotus_justice,2569.486,2570.669,Where does it say all that?
+2014.13-684,2,42213,seth_p_waxman,,2595.701,2596.951,No argument.
+2014.13-684,2,15139,stephen_g_breyer,scotus_justice,2596.951,2597.487,That's the end of it.
+2014.13-684,2,42213,seth_p_waxman,,2616.312,2618.48,"You are -- yes, Justice Breyer."
+2014.13-684,2,15139,stephen_g_breyer,scotus_justice,2618.48,2619.999,"Now -- now, how -- how do you get out of that?"
+2014.13-684,2,42213,seth_p_waxman,,2624.218,2625.484,"Justice Breyer, the “ it ”--"
+2014.13-684,2,15139,stephen_g_breyer,scotus_justice,2625.484,2625.986,--What?
+2014.13-684,2,42213,seth_p_waxman,,2625.986,2626.72,--when you say “ doing it ”--
+2014.13-684,2,15139,stephen_g_breyer,scotus_justice,2626.72,2627.286,Yes.
+2014.13-684,2,42213,seth_p_waxman,,2627.286,2630.705,--the “ it ” that you're required doing is sending the notice.
+2014.13-684,2,15139,stephen_g_breyer,scotus_justice,2634.257,2635.859,"No, that's not what it says at the beginning."
+2014.13-684,2,42213,seth_p_waxman,,2642.346,2644.382,"Yes, exactly."
+2014.13-684,2,15139,stephen_g_breyer,scotus_justice,2645.115,2648.849,So it doesn't say that's notice by notifying the creditor.
+2014.13-684,2,42213,seth_p_waxman,,2662.009,2663.642,--Let me -- let -- I don't think so.
+2014.13-684,2,15139,stephen_g_breyer,scotus_justice,2665.794,2666.261,I know you don't.
+2014.13-684,2,42213,seth_p_waxman,,2666.694,2680.72,"--You have to view the statute as a whole, and you have to view it in the context of how rescission -- what rescission meant at common law, what rescission means today, and how the rescissionary process -- what constitutes rescission."
+2014.13-684,2,15049,antonin_scalia,scotus_justice,2739.675,2741.611,Could I -- could I interrupt before you get to that?
+2014.13-684,2,42213,seth_p_waxman,,2759.655,2760.522,Yes.
+2014.13-684,2,15049,antonin_scalia,scotus_justice,2760.522,2771.646,"That -- that the notice is simply an exercise of your right to rescind, but rescission does not occur until there's the exchange that the common law?"
+2014.13-684,2,42213,seth_p_waxman,,2771.646,2771.996,Yes.
+2014.13-684,2,15094,elena_kagan,scotus_justice,2781.852,2787.656,"But, Mr. Waxman, if that's right, so exercising the right to rescind is by notice."
+2014.13-684,2,42213,seth_p_waxman,,2806.969,2809.086,"--No, I think it's not."
+2014.13-684,2,15094,elena_kagan,scotus_justice,2809.788,2817.942,"But it just says right there it's the right to rescission shall expire, and you agree that exercising the right of rescission is done by notice."
+2014.13-684,2,42213,seth_p_waxman,,2817.942,2820.044,--The -- as the -- no.
+2014.13-684,2,15139,stephen_g_breyer,scotus_justice,2905.58,2913.417,"By that, if you say the rescission doesn't -- the right to rescission has to be -- it just expires after three years."
+2014.13-684,2,42213,seth_p_waxman,,2917.705,2918.971,Well--
+2014.13-684,2,15139,stephen_g_breyer,scotus_justice,2918.971,2921.257,So -- so he -- we're just as much in the dark.
+2014.13-684,2,42213,seth_p_waxman,,2927.426,2928.193,--Deliberative.
+2014.13-684,2,15139,stephen_g_breyer,scotus_justice,2928.943,2933.997,"And -- and ten years later, there it is, sitting on his docket and -- and nobody knows."
+2014.13-684,2,42213,seth_p_waxman,,2940.834,2953.811,"Justice -- Justice Breyer, no one is contending in this -- in this case that a statute of repose, that is, a statute provides that an underlying right expires after some date certain."
+2014.13-684,2,15139,stephen_g_breyer,scotus_justice,2961.815,2962.198,Of course not.
+2014.13-684,2,42213,seth_p_waxman,,2962.198,2962.749,Of course not.
+2014.13-684,2,15139,stephen_g_breyer,scotus_justice,2962.749,2963.233,Of course not.
+2014.13-684,2,42213,seth_p_waxman,,2969.237,2969.67,Because--
+2014.13-684,2,15139,stephen_g_breyer,scotus_justice,2969.67,2975.422,--Since the -- the filing of the lawsuit no more determines the validity of the notice than it was determined three days before.
+2014.13-684,2,42213,seth_p_waxman,,2975.422,3006.626,"--Because -- because 1635(f) refers to the obligor's right of rescission and where the obligor has not obtained the rescission that he or she claims he has a right to, he can go to a court for an award of rescission and the statute tells him, you have to have a live underlying right of rescission before you invoke the court's jurisdiction to do it, which is exactly what happened at the common law in these circumstances."
+2014.13-684,2,15049,antonin_scalia,scotus_justice,3091.546,3092.232,What about the Board?
+2014.13-684,2,42213,seth_p_waxman,,3094.665,3097.967,There's nothing to say about Chevron in this case.
+2014.13-684,2,15131,sonia_sotomayor,scotus_justice,3270.031,3273.649,"Well, they'd have to do that anyway to foreclose."
+2014.13-684,2,42213,seth_p_waxman,,3284.107,3303.352,"In most -- most foreclosure -- first of all, foreclosures may or may not occur, depending on whether the bank wants it and many, many, if not most, foreclosures are nonjudicial; so there's no judicial proceeding and a sale at foreclosure will, by everybody's understanding, vitiate the underlying right."
+2014.13-684,2,15086,john_g_roberts_jr,scotus_justice,3303.885,3304.669,"Thank you, counsel."
+2014.13-684,3,20869,david_c_frederick,,3306.204,3308.989,"Thank you, Mr. Chief Justice."
+2014.13-684,3,15131,sonia_sotomayor,scotus_justice,3393.058,3394.408,Why are two of these?
+2014.13-684,3,20869,david_c_frederick,,3394.408,3394.841,--I'm sorry?
+2014.13-684,3,15131,sonia_sotomayor,scotus_justice,3394.841,3396.176,Why are two of these?
+2014.13-684,3,20869,david_c_frederick,,3406.332,3407.449,And let me explain that.
+2014.13-684,3,15131,sonia_sotomayor,scotus_justice,3487.351,3497.908,"It -- it's always -- you know, I've signed two loans in I don't know how many years, two homes, but I thought at closing, I signed something acknowledging--"
+2014.13-684,3,20869,david_c_frederick,,3497.908,3498.441,Yes.
+2014.13-684,3,15131,sonia_sotomayor,scotus_justice,3499.075,3502.11,"--the bank kept one and presumably, it gave me another."
+2014.13-684,3,20869,david_c_frederick,,3503.245,3505.314,"--No, it's actually you get two."
+2014.13-684,3,15131,sonia_sotomayor,scotus_justice,3506.514,3510.299,I don't remember sending it back to the bank saying--
+2014.13-684,3,20869,david_c_frederick,,3510.299,3513.335,"--No, because you probably didn't cancel yours, Justice Sotomayor."
+2014.13-684,3,15131,sonia_sotomayor,scotus_justice,3513.335,3513.868,--Ah.
+2014.13-684,3,20869,david_c_frederick,,3513.868,3514.403,You keep the two--
+2014.13-684,3,15049,antonin_scalia,scotus_justice,3514.987,3518.639,But it -- but it's not too late.
+2014.13-684,3,15131,sonia_sotomayor,scotus_justice,3519.805,3522.274,It already is.
+2014.13-684,3,20869,david_c_frederick,,3524.293,3526.659,Well -- but I -- but I do want to make one -- I do want to make one point.
+2014.13-684,3,15086,john_g_roberts_jr,scotus_justice,3602.059,3603.075,"Thank you, counsel."

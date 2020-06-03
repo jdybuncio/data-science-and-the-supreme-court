@@ -1,0 +1,153 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2010.09-1205,0,15086,john_g_roberts_jr,scotus_justice,0.0,7.82,"We will hear argument next this morning in case 09-1205, Smith versus Bayer Corporation."
+2010.09-1205,0,39987,richard_monahan,,8.687,11.706,"Mr. Chief Justice, and may it please the Court:"
+2010.09-1205,0,15068,samuel_a_alito_jr,scotus_justice,116.141,128.266,"Well, suppose a class action based on diversity is filed in one of the Federal districts in West Virginia and the district court denies class certification."
+2010.09-1205,0,39987,richard_monahan,,148.827,153.845,"Your Honor, under the -- yes, under those circumstances, as outlined by -- by Your Honor."
+2010.09-1205,0,15084,ruth_bader_ginsburg,scotus_justice,153.845,156.897,All you have to do is get a new named plaintiff?
+2010.09-1205,0,39987,richard_monahan,,156.897,158.647,"Yes, as long as it's not the same party."
+2010.09-1205,0,15084,ruth_bader_ginsburg,scotus_justice,159.58,162.265,And it can be the same attorney?
+2010.09-1205,0,39987,richard_monahan,,162.265,163.732,"--Yes, it could be the same attorney."
+2010.09-1205,0,15084,ruth_bader_ginsburg,scotus_justice,172.136,194.334,"Would the -- would the decision that's saying -- saying Rule 23 standards have not been met, the individual issues predominate over the common issue -- doesn't that deserve some measure of respect when the same thing is tried again?"
+2010.09-1205,0,39987,richard_monahan,,194.334,202.44,"Yes, Your Honor, but that would be under stare decisis principles, we believe, and that's the situation, since it is a different party, since it's not the same party itself."
+2010.09-1205,0,15068,samuel_a_alito_jr,scotus_justice,210.963,213.915,"But they have no obligation to follow another district court opinion, do they?"
+2010.09-1205,0,39987,richard_monahan,,213.915,219.2,"Technically, no, Your Honor."
+2010.09-1205,0,15084,ruth_bader_ginsburg,scotus_justice,227.723,232.959,"And this one was determined by the multidistrict panel, right?"
+2010.09-1205,0,39987,richard_monahan,,232.959,233.759,Yes.
+2010.09-1205,0,15084,ruth_bader_ginsburg,scotus_justice,295.717,301.271,But the absent class members retain their individual right.
+2010.09-1205,0,39987,richard_monahan,,309.627,312.745,"That's -- that's true, Your Honor."
+2010.09-1205,0,15084,ruth_bader_ginsburg,scotus_justice,339.662,354.656,"Am I right to read the supplemental brief as saying that now, the West Virginia Supreme Court agrees with the multidistrict panel on what the content of West Virginia law is?"
+2010.09-1205,0,39987,richard_monahan,,354.656,356.222,"That's not correct, Your Honor."
+2010.09-1205,0,15094,elena_kagan,scotus_justice,391.911,409.557,"Well, Mr. Monahan, do you mean by that that you would have a blanket rule that a decision on Federal Rule of Civil Procedure 23 can never be preclusive as to a State Rule of Civil Procedure 23?"
+2010.09-1205,0,39987,richard_monahan,,409.557,425.05,"Your Honor, I believe it would depend upon whether or not that State has said that not only are we going to look at these Federal decisions as being persuasive, but we're going to consider ourself bound by the decisions of the Fourth Circuit or the United States District Court for the Southern District of West Virginia."
+2010.09-1205,0,15094,elena_kagan,scotus_justice,425.05,437.023,"Well, suppose the State says: We will not consider ourselves bound; we do have our own law with respect to Rule 23, but sometimes we'll go along with the Federal rule and sometimes we won't."
+2010.09-1205,0,39987,richard_monahan,,453.467,459.621,"Well, for instance, what Your Honor suggested is essentially what the West Virginia Supreme Court of Appeals does."
+2010.09-1205,0,15068,samuel_a_alito_jr,scotus_justice,491.425,498.995,What is -- what is the difference between the Federal law and the West Virginia law on the class certification issue?
+2010.09-1205,0,39987,richard_monahan,,507.351,513.771,"The main difference, Justice Alito, is that our court has -- and they cite this in In re Rezulin, for instance."
+2010.09-1205,0,15131,sonia_sotomayor,scotus_justice,556.45,574.829,"On the ground that the court here, the Federal court, decided that they weren't predominant issues based mostly on the fact that, like the Virginia court has now, it's decided that there is no economic loss, what were the differences?"
+2010.09-1205,0,39987,richard_monahan,,580.316,598.11,"Well, for instance -- and this is an interesting aspect of this case -- the court's not only trying to bind us on the procedural ruling, but is also trying to bind us in a substantive ruling as to what the elements of the claims in West Virginia are and as to what's needed to prove those claims."
+2010.09-1205,0,15131,sonia_sotomayor,scotus_justice,617.105,618.105,The -- I'm sorry.
+2010.09-1205,0,39987,richard_monahan,,642.62,645.405,"--Yes, very similar, Your Honor."
+2010.09-1205,0,15131,sonia_sotomayor,scotus_justice,662.915,671.853,"You're almost treating it as a property right, and -- and you're basically saying we're equating it with, essentially, a property right."
+2010.09-1205,0,39987,richard_monahan,,671.853,695.117,"--Well, I think -- I think what I'm trying to say, Your Honor, is that these type of procedural rights -- whenever you have a substantive claim, which is a property right, and you seek to litigate them, you shall have available to you all the Rules of Civil Procedure which have been adopted and recognized, and those procedural elements of the claim should be treated or adjudicated just the same as a substantive claim, consistent with due process--"
+2010.09-1205,0,15131,sonia_sotomayor,scotus_justice,695.117,726.655,"If we disagree with you, because there is a difference of some sort between procedure and substantive rights, then what would command the due process violation in a situation in which the Federal litigation has applied essentially the same standard that the State has and there has been adequate representation on the procedural question, where no substantive right of a plaintiff has been extinguished?"
+2010.09-1205,0,39987,richard_monahan,,739.194,749.669,"--I believe that the basic -- because we are not the same party, we believe the basic elements are just the notice and the right to be heard, which our party has never had."
+2010.09-1205,0,15131,sonia_sotomayor,scotus_justice,750.269,752.453,You're extinguishing a substantive right?
+2010.09-1205,0,39987,richard_monahan,,759.124,775.486,"--Well, this particular procedural right is very closely connected -- I mean, one of the main purposes of a class action is to level the economic playing field and to enable people with small individual claims to aggregate them in order to seek justice."
+2010.09-1205,0,15131,sonia_sotomayor,scotus_justice,776.452,776.886,Actually not true.
+2010.09-1205,0,39987,richard_monahan,,799.382,815.511,"--No, Your Honor, what -- what -- the assumptions you just made I don't believe are correct in this -- in this particular case, because, one, obviously if we lose the CCPA claim in light of the White case, there would be no statutory attorney fees."
+2010.09-1205,0,15086,john_g_roberts_jr,scotus_justice,871.476,874.594,What if -- how far does your procedural right extend?
+2010.09-1205,0,39987,richard_monahan,,904.863,912.017,"Your Honor, I think the court does have some flexibility, depending upon the procedural role at issue."
+2010.09-1205,0,15086,john_g_roberts_jr,scotus_justice,921.206,930.562,So now it's not only that you're entitled to your day in court substantively; you're -- you're entitled to your day in court procedurally as to some procedural aspects but not others?
+2010.09-1205,0,39987,richard_monahan,,930.562,937.315,"--Well, I certainly think the Court needs to examine the procedural aspect and its importance, and the part that it plays."
+2010.09-1205,0,15139,stephen_g_breyer,scotus_justice,970.851,987.044,"If a totally different party, if a person, say an intervenor, joins a litigation late, and there have been a lot of procedural rulings, I guess that that intervenor takes the case as he finds it?"
+2010.09-1205,0,39987,richard_monahan,,1027.919,1035.274,"No, Your Honor, because -- I mean, for instance, this Court has noted -- and they note it, I believe in the -- you noted it in the Richards case."
+2010.09-1205,0,15084,ruth_bader_ginsburg,scotus_justice,1065.543,1073.113,"Here you have a different forum; pick up a different plaintiff, and you go to a different forum."
+2010.09-1205,0,39987,richard_monahan,,1085.604,1088.722,"Your Honor, I don't -- I don't believe so."
+2010.09-1205,0,15084,ruth_bader_ginsburg,scotus_justice,1101.428,1106.581,"But we have a new plaintiff, so that plaintiff wouldn't have had notice and an opportunity to be -- to be heard."
+2010.09-1205,0,39987,richard_monahan,,1106.581,1109.116,"For preclusion purposes, that's correct."
+2010.09-1205,0,15084,ruth_bader_ginsburg,scotus_justice,1137.017,1137.767,"Yes, but there are 50 States."
+2010.09-1205,0,39987,richard_monahan,,1137.767,1138.784,"--I'm sorry, Your Honor?"
+2010.09-1205,0,15084,ruth_bader_ginsburg,scotus_justice,1138.784,1139.786,There are 50 States.
+2010.09-1205,0,39987,richard_monahan,,1143.404,1163.651,"Yes, Your Honor, and the issue with that, though, is this Court has -- in Taylor v. Sturgell, for instance, which Your Honor authored, the government argued in that case that, you know, we should adopt this virtual representation theory because of repetitive litigation."
+2010.09-1205,0,15068,samuel_a_alito_jr,scotus_justice,1183.779,1186.398,What kind of notice do you think due process would require?
+2010.09-1205,0,39987,richard_monahan,,1214.064,1216.131,"Your Honor, I -- I believe so."
+2010.09-1205,0,15094,elena_kagan,scotus_justice,1327.166,1341.592,"When -- when Congress enacted CAFA, did Congress think about this precise issue, the issue that Justice Ginsburg is raising about a lawyer going from State to State with a different named plaintiff?"
+2010.09-1205,0,39987,richard_monahan,,1346.527,1350.515,"Yes, Justice Kagan, it's my understanding that that was something they were concerned about."
+2010.09-1205,0,15068,samuel_a_alito_jr,scotus_justice,1393.775,1412.653,Wouldn't it be a violation -- wouldn't it be a violation of due process if Congress enacted a statute or if there were a rule adopted that said that the first ruling on class certification by a Federal court binds all members of the class in any other Federal litigation?
+2010.09-1205,0,39987,richard_monahan,,1422.508,1436.851,"In all other Federal cases, I believe that that might survive a due process challenge; because you're limiting it to the same legal standard in those cases."
+2010.09-1205,0,15068,samuel_a_alito_jr,scotus_justice,1454.729,1457.412,"Well, is there a due process right to have class action?"
+2010.09-1205,0,39987,richard_monahan,,1457.412,1462.733,"Your Honor, this Court has noted a procedural right to seek class certification."
+2010.09-1205,0,15068,samuel_a_alito_jr,scotus_justice,1465.482,1468.934,What if Congress just decided to get rid of class actions altogether?
+2010.09-1205,0,39987,richard_monahan,,1470.75,1480.242,"Your Honor, I -- certainly would hope that they would provide notice and an opportunity for people to come and make their arguments and to argue both sides of the question."
+2010.09-1205,0,15139,stephen_g_breyer,scotus_justice,1482.125,1503.321,"Did it ever happen, did you ever come across an instance before where in a Federal court a judge in a district court said, no, you can't have a certification, no; and then a different plaintiff went to a different Federal court in a different part of the country and asked for a similar certification?"
+2010.09-1205,0,39987,richard_monahan,,1509.641,1510.608,"Yes, Your Honor."
+2010.09-1205,0,15139,stephen_g_breyer,scotus_justice,1516.16,1525.783,"And did they say -- did they say in -- in that case that the second judge is bound as a matter of stare decisis, or is he bound as a matter of collateral estoppel?"
+2010.09-1205,0,39987,richard_monahan,,1525.783,1529.319,"Based on a collateral estoppel preclusion principles, Your Honor."
+2010.09-1205,0,15139,stephen_g_breyer,scotus_justice,1530.069,1531.521,So it's the same issue as here?
+2010.09-1205,0,39987,richard_monahan,,1531.521,1545.829,"--Well, it's even somewhat worse in my opinion, because not only do they have a different party, but they went from a nationwide class to a statewide class, and that itself is -- you know, that's -- even Bridgestone; that would be all right under."
+2010.09-1205,0,15049,antonin_scalia,scotus_justice,1545.829,1561.439,"Of course you -- you would say that the subsequent plaintiff is not bound if he was not given notice and an opportunity to opt out, even if he came back to the same court, right?"
+2010.09-1205,0,39987,richard_monahan,,1564.891,1565.724,"Yes, Your Honor."
+2010.09-1205,0,15049,antonin_scalia,scotus_justice,1565.724,1567.242,And he's probably going to lose.
+2010.09-1205,0,39987,richard_monahan,,1569.176,1576.431,"Yes, yes, because he's not the same party -- but the legal standard would be the same and it would not be a wise move."
+2010.09-1205,0,15086,john_g_roberts_jr,scotus_justice,1576.431,1579.8,"Thank you, counsel."
+2010.09-1205,1,37675,philip_s_beck,,1598.345,1601.38,"Mr. Chief Justice, and may it please the Court:"
+2010.09-1205,1,15094,elena_kagan,scotus_justice,1618.822,1638.57,"When you said on that issue, Mr. Beck, on what issue, because I think that there is an argument in this case that the West Virginia approach to class certification is different from the Eighth Circuit's approach, that Rezulin would not have been the way that the Eighth Circuit would have approached the class certification question."
+2010.09-1205,1,37675,philip_s_beck,,1638.57,1678.88,"The issue that was decided and preclusive was the issue of predominance, Your Honor, and what happened there is that Judge Davis, the judge who was supervising the multidistrict litigation, he made a determination under West Virginia law as to what's required to make out an economic loss claim, and he concluded that what is required is individual proof of injury as well as individual proof of causation, and then he went on to describe what kind of evidence would be necessary to do that."
+2010.09-1205,1,15084,ruth_bader_ginsburg,scotus_justice,1771.422,1778.043,"They couldn't know, they -- when they went to the West Virginia Supreme Court, that was before this White v. Wyatt."
+2010.09-1205,1,37675,philip_s_beck,,1832.761,1833.228,--Yes.
+2010.09-1205,1,15084,ruth_bader_ginsburg,scotus_justice,1855.557,1861.395,"But sometimes Federal judges, they try their best, they're not the last word on what the State law is."
+2010.09-1205,1,37675,philip_s_beck,,1861.395,1895.484,"And some -- and Your Honor, if -- if for example, Judge Davis had found as he did in McCollins, and then he had issued the same injunction, and then the White case had come down the other way, that -- that says that there is no requirement of injury, then conceivably the Petitioners could have gone back to Judge Davis and asked for relief from his injunction, and then we would have an interesting question."
+2010.09-1205,1,15084,ruth_bader_ginsburg,scotus_justice,1895.484,1896.751,Not these Petitioners.
+2010.09-1205,1,37675,philip_s_beck,,1898.601,1901.869,"No, but they were -- they were parties to the injunction proceeding."
+2010.09-1205,1,15094,elena_kagan,scotus_justice,1950.516,1963.091,"Mr. Beck, I'm -- I'm not sure that White answers the question that I asked, because White decided a matter of substantive liability, and the question I asked was whether the approach to class certification was different in the Eighth Circuit and in West Virginia."
+2010.09-1205,1,37675,philip_s_beck,,1963.091,1963.574,--Yes.
+2010.09-1205,1,15094,elena_kagan,scotus_justice,1963.574,1979.417,"If you look at Rezulin, if you compare to it some Eighth Circuit cases, there seems to be a difference in at least tone, shall we say, about the extent to which a finding is required that common issues predominate."
+2010.09-1205,1,37675,philip_s_beck,,1979.417,2006.667,"I think that, actually, Judge Davis took into account the difference in tone, and he looked very carefully at Rezulin, and he said that what Rezulin was focusing on was individual questions of damages, which defendants often argue is enough so that individual questions predominate, individual questions of reliance, which we also often argue mean that individual questions predominate."
+2010.09-1205,1,15084,ruth_bader_ginsburg,scotus_justice,2105.229,2111.383,How do you answer that they have claims that do not involve the consumer?
+2010.09-1205,1,37675,philip_s_beck,,2117.703,2118.637,"A warranty claim, Your Honor."
+2010.09-1205,1,15084,ruth_bader_ginsburg,scotus_justice,2176.742,2201.124,"Mr. Beck, if you're right about issue preclusion, then if Bayer had gone into the West Virginia court and said, West Virginia court, Judge Davis has decided this case in Minnesota Federal District Court; issue preclusion, that's one thing."
+2010.09-1205,1,37675,philip_s_beck,,2257.028,2277.774,"Well, Your Honor, the -- any time that someone invokes the relitigation exception to the Anti-Injunction Act, by definition, an alternative would be to go into the second court and -- and just simply plead preclusion."
+2010.09-1205,1,15113,anthony_m_kennedy,scotus_justice,2353.522,2355.39,"Well, of course you're arguing the principle."
+2010.09-1205,1,37675,philip_s_beck,,2373.435,2392.396,"If the -- if the West Virginia court had denied class certification on an issue that is present in Rule 23, then it would be preclusive under Rule 23."
+2010.09-1205,1,15094,elena_kagan,scotus_justice,2441.829,2447.816,"Mr. Beck, the relitigation exception of the Anti-Injunction Act speaks in terms of judgments."
+2010.09-1205,1,37675,philip_s_beck,,2451.268,2456.589,"I'm not sure that it would be in -- in the mine-run case, but we don't have it."
+2010.09-1205,1,15094,elena_kagan,scotus_justice,2465.462,2472.881,"But the judgment, if I understood it correctly, there was just a contemporaneous summary judgment motion, and the court granted summary judgment as well."
+2010.09-1205,1,37675,philip_s_beck,,2478.185,2481.904,"Well, but it is -- it is merged into the judgment."
+2010.09-1205,1,15094,elena_kagan,scotus_justice,2490.558,2493.343,So that sounds like a very contingent answer to my question.
+2010.09-1205,1,37675,philip_s_beck,,2508.103,2508.638,"No, Your Honor."
+2010.09-1205,1,15084,ruth_bader_ginsburg,scotus_justice,2543.076,2561.62,"That's true about -- that's true about preclusion, but -- and so that you might go into the West Virginia court and say this second plaintiff should be precluded, but as Justice Kagan pointed out, you're dealing with the anti-injunction statute that talks about judgment."
+2010.09-1205,1,37675,philip_s_beck,,2561.62,2611.903,"--And I was about to say, Your Honor, that -- that under the Anti-Injunction Act it might actually be a different analysis, and because the issue isn't present here, we haven't briefed it, but I could see under the -- looking at the statutory language of the re-litigation exception that talks about judgments and also looking to the Federalism concerns that -- that inform the -- the Anti-Injunction Act, one could argue, in an appropriate case, that whatever the law is as to preclusion generally, when it comes to the Anti-Injunction Act, we're going to require more in the form of a -- of a formal judgment that -- that incorporates the particular ruling."
+2010.09-1205,1,15094,elena_kagan,scotus_justice,2614.172,2622.409,"Oh, but why isn't it really, because here what happened was that there was a denial of class certification and there was a granting of a summary judgment motion at one and the same time?"
+2010.09-1205,1,37675,philip_s_beck,,2634.919,2653.047,"--I think it's actually -- while -- while it was collateral to the summary judgment motion on Mr. McCollins' individual claim, it's actually essential to the judgment in -- in terms including it, in terms of who's bound by -- by -- by the judgment."
+2010.09-1205,1,15131,sonia_sotomayor,scotus_justice,2728.575,2745.871,"Counsel, under the Anti-Injunction Act, would it permit a blanket injunction that says, against all future State court class proceedings across the United States?"
+2010.09-1205,1,37675,philip_s_beck,,2752.458,2754.743,"I don't believe so, Your Honor."
+2010.09-1205,1,15131,sonia_sotomayor,scotus_justice,2782.829,2785.212,That's my question to you.
+2010.09-1205,1,37675,philip_s_beck,,2785.212,2785.614,Yes.
+2010.09-1205,1,15131,sonia_sotomayor,scotus_justice,2785.614,2795.054,So articulate what we're comparing when we're saying that the relitigation bar can apply to a procedural ruling.
+2010.09-1205,1,37675,philip_s_beck,,2795.054,2795.62,Yes.
+2010.09-1205,1,15131,sonia_sotomayor,scotus_justice,2795.62,2797.589,We started a little bit on the question.
+2010.09-1205,1,37675,philip_s_beck,,2806.277,2821.287,"Oh, I think -- I think that for the -- for -- for preclusion to apply, even before one gets to the Anti-Injunction Act, there's a requirement that the issue be fully and fairly litigated."
+2010.09-1205,1,15131,sonia_sotomayor,scotus_justice,2862.947,2865.247,Let's say -- you talked about different standards.
+2010.09-1205,1,37675,philip_s_beck,,2891.212,2896.016,Judge Davis's opinion was not based in any way on reliance.
+2010.09-1205,1,15131,sonia_sotomayor,scotus_justice,2896.016,2898.301,I -- I -- I'm posing it as a hypothetical.
+2010.09-1205,1,37675,philip_s_beck,,2898.301,2898.784,"Oh, I'm sorry."
+2010.09-1205,1,15131,sonia_sotomayor,scotus_justice,2899.218,2900.018,As a hypothetical.
+2010.09-1205,1,37675,philip_s_beck,,2900.018,2929.238,"If a State court had said that this thing, that -- that reliance or whatever, that is talked about so much in Federal courts, we don't care about that, that's not part of our standard, then -- then that would be -- and that was the basis of the Federal court's decision, then I think you would be applying different standards, and under Chick Kam Choo, there wouldn't be preclusion."
+2010.09-1205,1,15131,sonia_sotomayor,scotus_justice,2929.238,2961.709,"You see, the problem is that I don't know how you get and when you get to the question of whether reliance needs to be proven or not, if you're going to bar the State court from reaching that -- that substantive question, not that substantive issue, but that substantive question, which is not very different from here, which is what does economic loss require in terms of proof?"
+2010.09-1205,1,37675,philip_s_beck,,2961.709,2977.92,"Well, we're -- we're moving now from what is in Rule 23 in Federal and State jurisprudence to what is the underlying cause of action when we -- when -- you know, whether reliance is a part of the plan."
+2010.09-1205,1,15131,sonia_sotomayor,scotus_justice,2979.336,2982.138,"Well, I'm shifting them only to try to get--"
+2010.09-1205,1,37675,philip_s_beck,,2982.138,2982.855,--Okay.
+2010.09-1205,1,15131,sonia_sotomayor,scotus_justice,2982.855,2985.324,--a sense of what different standards mean--
+2010.09-1205,1,37675,philip_s_beck,,2985.324,2985.84,Okay.
+2010.09-1205,1,15131,sonia_sotomayor,scotus_justice,2987.109,2992.411,"--to you, and how we articulate that rule in a way that doesn't preclude -- doesn't permit the barring--"
+2010.09-1205,1,37675,philip_s_beck,,2992.411,2993.613,--I think--
+2010.09-1205,1,15131,sonia_sotomayor,scotus_justice,2993.613,2995.965,--of claims when there is a different standard.
+2010.09-1205,1,37675,philip_s_beck,,2995.965,3009.956,"--I think -- I think, Justice Sotomayor, that you have to distinguish between Rule 23 and the underlying State law that's the subject of the lawsuit."
+2010.09-1205,1,15049,antonin_scalia,scotus_justice,3055.67,3067.644,"I'm -- I'm the -- I'm the party trying to bring the later class action, and you tell me I can't do it because somebody else sought a class action and -- and it -- and it was denied."
+2010.09-1205,1,37675,philip_s_beck,,3101.448,3106.833,"Well, Your Honor, there was that determination in this case at the injunction stage."
+2010.09-1205,1,15049,antonin_scalia,scotus_justice,3121.862,3125.897,"You do that ex post, you litigate this later?"
+2010.09-1205,1,37675,philip_s_beck,,3125.897,3154.047,"Well, adequacy of course is part of rule 23 analysis, but it's also independently a part of preclusion law analysis where in order to be precluded, for a nonparty to be precluded, then you have to do the analysis that's called for in Taylor v. Sturgell, where you have to say in order to preclude a nonparty, does it meet the two-part test of Taylor v. Sturgell."
+2010.09-1205,1,15086,john_g_roberts_jr,scotus_justice,3177.495,3181.048,But that's a very subjective decision whether the lawyer is -- right here.
+2010.09-1205,1,37675,philip_s_beck,,3181.048,3181.481,I'm sorry.
+2010.09-1205,1,15086,john_g_roberts_jr,scotus_justice,3181.481,3184.516,--whether the -- the lawyer is adequate or not.
+2010.09-1205,1,37675,philip_s_beck,,3197.324,3208.382,"Well -- and in every preclusion case there's a -- there's a question about adequacy, and it focuses not on whether someone likes the lawyer or they've got a brother-in-law who is a lawyer."
+2010.09-1205,1,15049,antonin_scalia,scotus_justice,3245.322,3246.538,But if it -- I'm sorry.
+2010.09-1205,1,15086,john_g_roberts_jr,scotus_justice,3246.538,3249.524,"You know, to say -- it's odd to say you're precluded."
+2010.09-1205,1,37675,philip_s_beck,,3258.194,3282.328,"--And -- and that is exactly the question that is posed by nonparty preclusion; and -- and as this Court's opinion in Taylor v. Sturgell said, there are circumstances where a nonparty can be precluded based on litigation from someone else, and I -- I referenced the test, and the first point I wanted to make--"
+2010.09-1205,1,15049,antonin_scalia,scotus_justice,3282.328,3289.982,How can you -- how can you possibly find that in the first action the lawyer understood that he was acting in a representative capacity?
+2010.09-1205,1,37675,philip_s_beck,,3289.982,3290.732,--Well if--
+2010.09-1205,1,15049,antonin_scalia,scotus_justice,3290.732,3294.934,He tried to act in a rep -- but -- but his representation was denied.
+2010.09-1205,1,37675,philip_s_beck,,3294.934,3311.96,"--It's the party rather than the lawyer, and -- and it's when -- when he commenced that litigation and when he litigated the issue that we're talking about of class certification, there's no doubt in the world that he is -- that he understood himself to be acting on behalf of a class."
+2010.09-1205,1,15084,ruth_bader_ginsburg,scotus_justice,3346.45,3354.139,"But that's -- that's often theoretical because on these small claims, it's class action or nothing."
+2010.09-1205,1,37675,philip_s_beck,,3359.007,3361.792,"--These I don't think fall in that category, Your Honor."
+2010.09-1205,1,15086,john_g_roberts_jr,scotus_justice,3402.819,3403.403,"Thank you, counsel."
+2010.09-1205,2,39987,richard_monahan,,3407.107,3416.629,"In this case, the MDL court did not seek to bind any parties."
+2010.09-1205,2,15084,ruth_bader_ginsburg,scotus_justice,3462.158,3475.232,"Well, you have to -- I think you would concede that the Seventh Circuit, now two decisions, one in Bridgestone and then the other in Thorogood, the Seventh Circuit thinks it can do this."
+2010.09-1205,2,39987,richard_monahan,,3475.232,3494.027,"Yes, Your Honor, and the Seventh Circuit for instance in Bridgestone, which -- which the Eighth Circuit relied on in this case, indicated that adequate representation was one of the factors, our right to appeal was one of the factors, and then our individual claims still existing, consisted sufficient due process."
+2010.09-1205,2,15113,anthony_m_kennedy,scotus_justice,3513.239,3517.456,"But just on notice, does the record show when the client first came to the attorney?"
+2010.09-1205,2,39987,richard_monahan,,3517.456,3523.629,"Your Honor, our case was filed in September 2001."
+2010.09-1205,2,15139,stephen_g_breyer,scotus_justice,3551.78,3557.533,"Do we know that in the record, that the attorneys didn't even know about each other's cases?"
+2010.09-1205,2,39987,richard_monahan,,3560.718,3563.004,"Your Honor, we've argued that throughout."
+2010.09-1205,2,15084,ruth_bader_ginsburg,scotus_justice,3628.113,3630.648,Can I just go back to what you said before?
+2010.09-1205,2,39987,richard_monahan,,3637.568,3654.697,"--Yes, they added -- they added a syllabus point 6, the last paragraph of the opinion, a paragraph that says that from now on that -- that prescription drug purchasers cannot have such a claim; and that was unknown to anybody, it was not raised in part of the certified question and had not been litigated or argued."
+2010.09-1205,2,15086,john_g_roberts_jr,scotus_justice,3657.132,3658.565,"Thank you, counsel, counsel."

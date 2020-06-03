@@ -1,0 +1,240 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1991.91-159,0,15141,william_h_rehnquist,scotus_justice,0.0,10.356,"We'll hear argument next in 91-159, William Barnhill v. Elliot Johnson."
+1991.91-159,0,43756,william_j_arland_iii,,45.029,48.731,"Mr. Chief Justice, and may it please the Court:"
+1991.91-159,0,15045,harry_a_blackmun,scotus_justice,193.125,195.41,Do you know why it was post-dated one day?
+1991.91-159,0,43756,william_j_arland_iii,,195.41,199.695,"I do not know why it was post-dated one day, Justice Blackmun."
+1991.91-159,0,15045,harry_a_blackmun,scotus_justice,206.183,210.837,Would it be any difference if it were post-dated a month or so?
+1991.91-159,0,43756,william_j_arland_iii,,210.837,216.907,"If it were post-dated a month or so, I believe it would be different, Justice Blackmun."
+1991.91-159,0,15045,harry_a_blackmun,scotus_justice,254.366,255.199,That's the final date here.
+1991.91-159,0,43756,william_j_arland_iii,,255.199,256.281,--I'm sorry--
+1991.91-159,0,15045,harry_a_blackmun,scotus_justice,256.281,258.151,"That's the final date here, November 20."
+1991.91-159,0,43756,william_j_arland_iii,,258.151,261.353,"--November 20, Justice Blackmun, is the final date here, yes."
+1991.91-159,0,15141,william_h_rehnquist,scotus_justice,261.353,268.923,"Well, does your response to Justice Blackmun... is it based partly on 547(c) as well as 547(b)?"
+1991.91-159,0,43756,william_j_arland_iii,,268.923,274.243,"No, Mr. Chief Justice, it's not based on 547(c) itself."
+1991.91-159,0,15141,william_h_rehnquist,scotus_justice,313.286,323.943,Is your answer based in part on the fact that the hypothesis of a 1-month post-dating would have brought the date written on the check within the preference period?
+1991.91-159,0,43756,william_j_arland_iii,,323.943,326.878,"Yes, it would, Mr. Chief Justice."
+1991.91-159,0,15092,sandra_day_oconnor,scotus_justice,384.298,394.69,"Would the same be true if a check were given as sort of a security deposit not to be cashed until certain events occurred, or unless certain events occurred?"
+1991.91-159,0,43756,william_j_arland_iii,,394.69,404.795,"In any... if... I believe, Justice O'Connor, speaking specifically about 547(c), in which it is as surety for it, I believe that it would be."
+1991.91-159,0,15092,sandra_day_oconnor,scotus_justice,407.33,408.53,It would be what?
+1991.91-159,0,43756,william_j_arland_iii,,408.53,417.552,"It would be a credit transaction until the date of the check, at which time it does become a cash transaction."
+1991.91-159,0,15049,antonin_scalia,scotus_justice,436.68,454.142,Are you sure that the UCC considers it not to come within that rule if it's cashed within 30 days of its date but beyond 30 days after the actual delivery of it?
+1991.91-159,0,43756,william_j_arland_iii,,455.525,465.367,"Justice Scalia, the two issues that are raised are, one, the reasonable period of time from presentment for honor from date of the check is 30 days."
+1991.91-159,0,15049,antonin_scalia,scotus_justice,483.828,486.113,--30 days from the date... the date on the check.
+1991.91-159,0,43756,william_j_arland_iii,,486.113,487.113,--30 days from the date on the check is reasonable.
+1991.91-159,0,15049,antonin_scalia,scotus_justice,487.113,488.246,"Right, that's what I understand."
+1991.91-159,0,43756,william_j_arland_iii,,488.246,495.719,"Subsequent to the 30 days if it is presented for honor that is not reasonable, and that is considered the day of the transaction at that point in time."
+1991.91-159,0,15049,antonin_scalia,scotus_justice,495.719,501.039,"Right, but it doesn't matter for that purpose when the check is actually handed over."
+1991.91-159,0,43756,william_j_arland_iii,,509.026,511.478,"Yes, it does, Justice Scalia... it does."
+1991.91-159,0,15049,antonin_scalia,scotus_justice,551.138,555.007,If you post-date the check there are two conditions.
+1991.91-159,0,43756,william_j_arland_iii,,569.6,575.671,"I would agree with you, Justice Scalia, only in the instance where the post-dating of the check exceeds 30 days."
+1991.91-159,0,15060,john_paul_stevens,scotus_justice,601.904,605.956,May I just ask a little different question on post-dating?
+1991.91-159,0,43756,william_j_arland_iii,,623.066,632.237,"I would... Justice Stevens, I think that in that instance the date of the check is the critical date."
+1991.91-159,0,15060,john_paul_stevens,scotus_justice,632.237,641.545,"So the date of delivery rule for which you're arguing is one... the date of delivery or date of the check, whichever is later."
+1991.91-159,0,43756,william_j_arland_iii,,641.545,643.545,"Yes, Justice Stevens, whichever is later."
+1991.91-159,0,15049,antonin_scalia,scotus_justice,726.765,727.348,What is conveyed?
+1991.91-159,0,43756,william_j_arland_iii,,735.502,748.844,"I believe, Justice Scalia, that the definition under 101(48) says the transfer of an interest of a debtor in property, as opposed to the transfer of interest to property."
+1991.91-159,0,15113,anthony_m_kennedy,scotus_justice,784.981,799.674,"But a representation by the payor is not a transfer of an interest, it's just a representation, and in fact UCC says, as I understand it... correct me if I'm wrong... that the check does not operate as an assignment of the funds."
+1991.91-159,0,43756,william_j_arland_iii,,799.674,803.126,"We are not talking about an assignment of the funds, Justice Scalia."
+1991.91-159,0,15113,anthony_m_kennedy,scotus_justice,803.126,819.402,"Well, the question is what interest in property is transferred, and your answer to Justice Scalia was that there is a representation made that funds are in the bank, but that doesn't sound to me like a transfer of any property."
+1991.91-159,0,43756,william_j_arland_iii,,819.402,821.003,"Well, the transfer of the--"
+1991.91-159,0,15071,byron_r_white,scotus_justice,821.003,823.07,The question here is if he can stop payment on the check.
+1991.91-159,0,43756,william_j_arland_iii,,823.07,845.619,"--He may stop payment on the check, but I believe that once the check is delivered, Justice Kennedy and Justice White, and if I can answer Justice Scalia's question and consolidate my answer here, is that when a check is transferred that is the end of a transaction, a previous transaction, a transaction where you have a vendor or a vendee."
+1991.91-159,0,15113,anthony_m_kennedy,scotus_justice,862.179,863.997,Not if the check isn't honored.
+1991.91-159,0,43756,william_j_arland_iii,,863.997,869.568,"--If the... but it is a conditional transfer, Justice Kennedy, which is covered under 101(54)."
+1991.91-159,0,15113,anthony_m_kennedy,scotus_justice,869.568,872.436,"Well, then it seems rather odd to say the transaction is ended but it's conditional."
+1991.91-159,0,43756,william_j_arland_iii,,872.436,877.388,"The conditional portion, Justice Kennedy, with all due respect is the check."
+1991.91-159,0,15060,john_paul_stevens,scotus_justice,901.567,913.108,"But if you look at the matter as a completed transaction under your analysis at the time of the delivery, it is a completed transaction which did not involve the transfer of an interest in property."
+1991.91-159,0,43756,william_j_arland_iii,,913.108,916.644,It transferred an interest in property--
+1991.91-159,0,15060,john_paul_stevens,scotus_justice,916.644,917.344,In what property?
+1991.91-159,0,43756,william_j_arland_iii,,917.344,922.463,--In the property that is represented by the cash in the bank.
+1991.91-159,0,15060,john_paul_stevens,scotus_justice,922.463,925.332,"Did it transfer an interest in the bank account, do you think?"
+1991.91-159,0,43756,william_j_arland_iii,,925.332,932.902,"It transfer... it conditionally transfers it upon honoring, but it relates back to the date of delivery, Justice Stevens."
+1991.91-159,0,15141,william_h_rehnquist,scotus_justice,953.916,958.284,"Well, wouldn't it be more accurate to describe the transaction that way, rather than as a transfer of property?"
+1991.91-159,0,43756,william_j_arland_iii,,969.675,981.399,"Mr. Chief Justice, in fact the Uniform Commercial Code under article 3802 tells us that the receiver of the check, the payee on the check, has his option."
+1991.91-159,0,15049,antonin_scalia,scotus_justice,986.367,989.902,Why isn't this a conditional transfer of a chose in action?
+1991.91-159,0,43756,william_j_arland_iii,,991.985,995.389,"No, Justice Scalia, there's nothing in the UCC that prohibits that."
+1991.91-159,0,15049,antonin_scalia,scotus_justice,995.906,1001.627,"The person who has money in the bank has a cause of action against the bank for the amount of that deposit, right?"
+1991.91-159,0,43756,william_j_arland_iii,,1001.627,1002.993,"--Correct, Justice Scalia."
+1991.91-159,0,15049,antonin_scalia,scotus_justice,1002.993,1008.863,And he can assign to another person outright or conditionally part of his claim against the bank.
+1991.91-159,0,43756,william_j_arland_iii,,1012.732,1013.398,Correct.
+1991.91-159,0,15049,antonin_scalia,scotus_justice,1015.767,1017.2,So it's a chose in action that's been transferred.
+1991.91-159,0,43756,william_j_arland_iii,,1017.2,1018.366,Correct.
+1991.91-159,0,15071,byron_r_white,scotus_justice,1018.366,1022.668,"So if the bank chose to honor it, it's in trouble with the drawer."
+1991.91-159,0,43756,william_j_arland_iii,,1022.668,1030.508,"Yes, Justice White, you're correct, the bank is in trouble... if it wrongfully fails to honor it the bank is in trouble with the drawer."
+1991.91-159,0,15071,byron_r_white,scotus_justice,1032.758,1033.71,But not with the drawee.
+1991.91-159,0,43756,william_j_arland_iii,,1033.71,1037.162,"--Not with the drawee, no, that's correct, Justice White."
+1991.91-159,0,15071,byron_r_white,scotus_justice,1037.162,1044.147,"So how come if it's a transfer, why isn't the bank in trouble with the drawee?"
+1991.91-159,0,43756,william_j_arland_iii,,1051.754,1055.373,He cannot for wrongfully dishonoring.
+1991.91-159,0,15071,byron_r_white,scotus_justice,1059.325,1064.729,"Well, why can you ever say it was a transfer to him, conditional or otherwise?"
+1991.91-159,0,43756,william_j_arland_iii,,1064.729,1067.931,--Because of the relation back doctrine.
+1991.91-159,0,15071,byron_r_white,scotus_justice,1067.931,1071.633,"I mean, what happened to his interest in the property that you say was transferred?"
+1991.91-159,0,43756,william_j_arland_iii,,1076.387,1077.187,If the bank--
+1991.91-159,0,15071,byron_r_white,scotus_justice,1077.187,1079.255,It disappears into thin air.
+1991.91-159,0,43756,william_j_arland_iii,,1079.255,1087.427,"--Justice White, if the bank wrongfully dishonors the check I believe that in fact the payor on the check would have a cause of action against the bank as well."
+1991.91-159,0,15071,byron_r_white,scotus_justice,1087.427,1087.977,"Why, sure, but not the payee."
+1991.91-159,0,43756,william_j_arland_iii,,1087.977,1089.494,The payee does not have--
+1991.91-159,0,15071,byron_r_white,scotus_justice,1089.494,1092.664,But you say that there was a transfer to the payee--
+1991.91-159,0,43756,william_j_arland_iii,,1092.664,1094.048,--That's correct--
+1991.91-159,0,15071,byron_r_white,scotus_justice,1094.048,1095.548,--at the time of delivery of the check.
+1991.91-159,0,43756,william_j_arland_iii,,1095.548,1096.731,"--There's a transfer of an interest in property, a conditional transfer."
+1991.91-159,0,15071,byron_r_white,scotus_justice,1096.731,1097.516,"Well, what happened to his interest?"
+1991.91-159,0,43756,william_j_arland_iii,,1097.516,1101.452,"The payee's interest is, by not--"
+1991.91-159,0,15071,byron_r_white,scotus_justice,1101.452,1102.502,I mean the drawee... the drawee.
+1991.91-159,0,43756,william_j_arland_iii,,1107.522,1108.522,"--Yes, Justice White."
+1991.91-159,0,15071,byron_r_white,scotus_justice,1108.522,1109.724,And you say that was a transfer.
+1991.91-159,0,43756,william_j_arland_iii,,1109.724,1110.541,"Yes, it is."
+1991.91-159,0,15071,byron_r_white,scotus_justice,1110.541,1111.926,A conditional transfer.
+1991.91-159,0,43756,william_j_arland_iii,,1111.926,1113.043,"Yes, Justice White."
+1991.91-159,0,15071,byron_r_white,scotus_justice,1113.043,1123.731,But then you would think that he had an interest in the property that he should be able to vindicate against the bank if the bank wrongfully dishonors the check.
+1991.91-159,0,43756,william_j_arland_iii,,1123.731,1129.735,"I don't believe that's the case, Justice White, because the transaction... it's a three-party transaction."
+1991.91-159,0,15049,antonin_scalia,scotus_justice,1155.701,1158.135,"So we know what we're talking about, isn't the drawee the bank?"
+1991.91-159,0,43756,william_j_arland_iii,,1159.254,1160.454,--There is a drawee bank.
+1991.91-159,0,15049,antonin_scalia,scotus_justice,1166.741,1168.157,"--The bank is the drawee bank, right?"
+1991.91-159,0,43756,william_j_arland_iii,,1168.774,1169.041,That's correct.
+1991.91-159,0,15049,antonin_scalia,scotus_justice,1169.041,1170.943,And the payor is also the drawer.
+1991.91-159,0,43756,william_j_arland_iii,,1170.943,1171.859,That's correct.
+1991.91-159,0,15049,antonin_scalia,scotus_justice,1171.859,1172.459,On the drawee.
+1991.91-159,0,43756,william_j_arland_iii,,1172.459,1175.847,"Yes, that's correct."
+1991.91-159,0,15071,byron_r_white,scotus_justice,1175.847,1180.049,I'm talking about the fellow to whom the check was delivered.
+1991.91-159,0,43756,william_j_arland_iii,,1182.167,1183.151,That's correct.
+1991.91-159,0,15071,byron_r_white,scotus_justice,1183.151,1183.884,--At that time.
+1991.91-159,0,43756,william_j_arland_iii,,1183.884,1184.886,"That's correct, Justice White."
+1991.91-159,0,15071,byron_r_white,scotus_justice,1184.886,1193.19,"And yet he cannot vindicate that interest that was transferred to him, you say, by a suit against the bank."
+1991.91-159,0,43756,william_j_arland_iii,,1193.19,1202.58,The transfer of interest was not the payor's actions against the bank itself for wrongful dishonor of the check.
+1991.91-159,0,15071,byron_r_white,scotus_justice,1213.436,1223.494,"Well then, why can't the payee sue the bank, then?"
+1991.91-159,0,43756,william_j_arland_iii,,1223.494,1224.628,Because he--
+1991.91-159,0,15071,byron_r_white,scotus_justice,1224.628,1227.78,He's had something transferred to him.
+1991.91-159,0,43756,william_j_arland_iii,,1227.78,1230.398,"--Because, Justice White, it is not an assignment."
+1991.91-159,0,15049,antonin_scalia,scotus_justice,1235.052,1240.872,"It isn't perfected yet, and the Bankruptcy Code anticipates that some of these things could be perfected later."
+1991.91-159,0,43756,william_j_arland_iii,,1254.68,1256.465,"Justice Scalia, that is correct--"
+1991.91-159,0,15049,antonin_scalia,scotus_justice,1256.465,1261.453,And that's why the Bankruptcy Code talks about perfection.
+1991.91-159,0,43756,william_j_arland_iii,,1261.453,1266.921,"--At 547(e), Justice Scalia, is where the Bankruptcy Code directs its attention to perfection."
+1991.91-159,0,15113,anthony_m_kennedy,scotus_justice,1278.896,1304.613,"Well, 547 also talks about a substantially contemporaneous transfer, which I take it at least can be interpreted as the attempt of the Bankruptcy Code to accommodate this delay between the time the check is given and the time that it is honored, and that language has the effect of showing that even if you wait till the time that it's honored it's substantially contemporaneous."
+1991.91-159,0,43756,william_j_arland_iii,,1304.613,1330.228,"Yes, 547(c) adopts that, Justice Kennedy, that's correct, and for the purposes of (c)(1) and (c)(2) this furthers... we want to have a substantially contemporaneous exchange or a cash transaction represented by a check because the purpose of 547(c), the exceptions to 547(b), is to promote vendors doing business with a debtor or a vendee who's sliding into bankruptcy."
+1991.91-159,0,15141,william_h_rehnquist,scotus_justice,1334.18,1339.167,"But 547(c) deals with the normal course of business, doesn't it?"
+1991.91-159,0,43756,william_j_arland_iii,,1339.167,1340.7,"Yes, it does, Mr. Chief Justice."
+1991.91-159,0,15141,william_h_rehnquist,scotus_justice,1340.7,1352.807,"So how you would treat a check under the normal course of business section might not be determined, I would think, for 547(b) purposes."
+1991.91-159,0,43756,william_j_arland_iii,,1352.807,1374.405,"That is certainly the position of the trustee in this case, and I would submit to the Court that to serve the purpose of the uniformity of the law as espoused in McKenzie v. Irving Trust, that in fact it makes no sense and it is illogical to have two different dates apply within the same section or subsection of the Bankruptcy Code."
+1991.91-159,0,15141,william_h_rehnquist,scotus_justice,1375.59,1383.779,"If you're talking about two different purposes, one is to determine was this the kind of transaction you would expect in the normal course of business?"
+1991.91-159,0,43756,william_j_arland_iii,,1399.372,1412.096,"--Mr. Chief Justice, if in fact the date of honor rule were to satisfy an equality of distribution among creditors, which in fact 547(b) is designed to do, then I could not quarrel with you."
+1991.91-159,0,15141,william_h_rehnquist,scotus_justice,1479.324,1493.5,"I would think when you talk about treating creditors equally you mean treating similarly situated creditors equally, and on the facts you give I think a very good argument can be made those creditors are not similarly situated."
+1991.91-159,0,43756,william_j_arland_iii,,1493.5,1501.254,"I think if they're trade creditors both based on antecedent debts, Mr. Chief Justice, that they are similarly situated creditors."
+1991.91-159,0,15060,john_paul_stevens,scotus_justice,1536.308,1542.379,"May I just ask one little... your position is date of delivery, assuming the check is honored within 30 days."
+1991.91-159,0,43756,william_j_arland_iii,,1542.379,1544.212,"--That is correct, Justice Stevens."
+1991.91-159,0,15071,byron_r_white,scotus_justice,1549.949,1553.818,"And you can answer this question in a word, I think."
+1991.91-159,0,43756,william_j_arland_iii,,1579.218,1588.658,"--I believe that the person to whom the check is delivered is faced with an election of remedies, Justice White, where he may either sue on the check or sue on the transaction."
+1991.91-159,0,15071,byron_r_white,scotus_justice,1588.658,1590.026,May he sue on the check?
+1991.91-159,0,43756,william_j_arland_iii,,1590.026,1594.312,"He may sue on the check, Justice White, or he may sue on the transaction at his option."
+1991.91-159,0,15071,byron_r_white,scotus_justice,1594.312,1601.668,"What would be his cause of action on the check, that there was an assignment, or what?"
+1991.91-159,0,43756,william_j_arland_iii,,1601.668,1608.654,His cause of action on the check would be against the payor on the check probably for fraud.
+1991.91-159,0,15071,byron_r_white,scotus_justice,1615.308,1616.677,"Is this an action for fraud, or what?"
+1991.91-159,0,43756,william_j_arland_iii,,1616.677,1617.277,--Pardon me?
+1991.91-159,0,15071,byron_r_white,scotus_justice,1617.277,1619.129,"What is this, an action for fraud?"
+1991.91-159,0,43756,william_j_arland_iii,,1619.129,1620.645,It would be an action for civil fraud.
+1991.91-159,0,15141,william_h_rehnquist,scotus_justice,1620.645,1623.497,"But the payor warrants that the check will be paid, does he not?"
+1991.91-159,0,43756,william_j_arland_iii,,1623.497,1627.116,"He warrants... yes, Mr. Chief Justice, Justice White's--"
+1991.91-159,0,15141,william_h_rehnquist,scotus_justice,1627.116,1631.52,"So you don't need an action for fraud, it's an action on the warranty that's implied by the drawing of a check."
+1991.91-159,0,43756,william_j_arland_iii,,1631.52,1633.053,--It--
+1991.91-159,0,15049,antonin_scalia,scotus_justice,1633.053,1634.636,You have to have knowledge for fraud.
+1991.91-159,0,43756,william_j_arland_iii,,1639.373,1647.896,"--Under the facts that were presented by Justice White, if you write a check one day and withdraw all the funds the next day before that check has had a chance to clear, you may have sufficient grounds for fraud."
+1991.91-159,0,15071,byron_r_white,scotus_justice,1649.063,1655.966,"I'm just really giving you an opportunity to say well, this shows there must have been a transfer if you can sue on the check."
+1991.91-159,0,43756,william_j_arland_iii,,1655.966,1659.62,"--It's a conditional transfer, yes, it is, Justice White."
+1991.91-159,0,15141,william_h_rehnquist,scotus_justice,1664.155,1665.69,"Very well, Mr. Arland."
+1991.91-159,1,37048,nancy_s_cusack,,1667.657,1669.49,Thank you.
+1991.91-159,1,15071,byron_r_white,scotus_justice,1728.362,1731.648,For purposes of this case it's irrelevant that it was post-dated.
+1991.91-159,1,37048,nancy_s_cusack,,1731.648,1735.717,"--I don't think in fact it is irrelevant, because--"
+1991.91-159,1,15071,byron_r_white,scotus_justice,1735.717,1744.138,"Well, the check became a cash transaction the next day, which was before the 90th day."
+1991.91-159,1,37048,nancy_s_cusack,,1744.138,1746.657,"--Well, Your Honor--"
+1991.91-159,1,15071,byron_r_white,scotus_justice,1746.657,1747.057,Is that right?
+1991.91-159,1,37048,nancy_s_cusack,,1747.057,1765.987,"--Well, under... our contention is that when a transfer takes place it is to be determined in accordance with State law, and under State law, in fact, a post-dated check is considered generally speaking to be effective as of the date of honor."
+1991.91-159,1,15071,byron_r_white,scotus_justice,1765.987,1773.141,Is that the... that is the unmistakable law of New Mexico?
+1991.91-159,1,37048,nancy_s_cusack,,1773.141,1774.593,"I believe it is, sir."
+1991.91-159,1,15049,antonin_scalia,scotus_justice,1774.593,1775.61,"What do you mean, effective?"
+1991.91-159,1,37048,nancy_s_cusack,,1779.644,1782.477,Our position is also that--
+1991.91-159,1,15049,antonin_scalia,scotus_justice,1782.477,1783.893,"On the date of honor, of course--"
+1991.91-159,1,37048,nancy_s_cusack,,1783.893,1785.929,--Currently dated check is also the date of honor.
+1991.91-159,1,15049,antonin_scalia,scotus_justice,1785.929,1786.445,--Yes.
+1991.91-159,1,37048,nancy_s_cusack,,1806.258,1809.21,"Well, Your Honor, we would say that that's not what the whole thing is."
+1991.91-159,1,15049,antonin_scalia,scotus_justice,1823.352,1838.98,"Well, for the transfer to be perfected that has to happen, and that's why the code in a later section says what the rules are for perfection, and that occurred within the requisite period here, the honor."
+1991.91-159,1,37048,nancy_s_cusack,,1838.98,1861.893,"--But... I'm sorry to disagree with you, but as... I don't see that there is an assignment, because of the fact that had there been a valid assignment, a valid transfer, in fact the transferor would have had no further ability to deal with those funds and the transferee would have had the ability to deal with those funds, and that's not what happens."
+1991.91-159,1,15071,byron_r_white,scotus_justice,1900.887,1914.111,"Counsel, you really were suggesting that the word transfer as used in the Bankruptcy Code, and which is defined in the Bankruptcy Code, is controlled by State law."
+1991.91-159,1,37048,nancy_s_cusack,,1928.787,1932.572,"Well, actually, Your Honor, I do think it's a question of State law."
+1991.91-159,1,15071,byron_r_white,scotus_justice,1932.572,1935.708,The word transfer in all the--
+1991.91-159,1,37048,nancy_s_cusack,,1935.708,1953.82,"The Court... under the context of the Bankruptcy Code, first of all Congress has received constitutional authority to establish uniform laws on the subject of bankruptcies throughout the United States, and Congress exercised that authority by enacting the Bankruptcy Code."
+1991.91-159,1,15071,byron_r_white,scotus_justice,2001.836,2003.002,"--Of course, that isn't what the court of appeals decided, is it?"
+1991.91-159,1,37048,nancy_s_cusack,,2003.002,2007.054,"--Well, in fact the court of appeals did refer to the McKenzie case."
+1991.91-159,1,15071,byron_r_white,scotus_justice,2007.054,2016.394,"I know it referred to it, but it didn't for a minute suggest that a transfer is... only takes place when State law says it does."
+1991.91-159,1,37048,nancy_s_cusack,,2016.394,2021.429,"That wasn't the specific holding of the court of appeals, no, sir, you're right."
+1991.91-159,1,15071,byron_r_white,scotus_justice,2031.404,2037.807,And it thought the... it thought that its holding was consistent with the Uniform Commercial Code.
+1991.91-159,1,37048,nancy_s_cusack,,2037.807,2038.657,Absolutely.
+1991.91-159,1,15071,byron_r_white,scotus_justice,2038.657,2040.259,As adopted in New Mexico.
+1991.91-159,1,37048,nancy_s_cusack,,2040.259,2045.461,"As adopted in the State of New Mexico, which again provides that a transfer takes place upon honor."
+1991.91-159,1,15049,antonin_scalia,scotus_justice,2045.461,2066.724,"Mrs. Cusack, what do you make of subsection (e)(1), which is on page 33a of the petition... I'm sorry, (e)(2), which seems to make a distinction between two types of transfer, just a transfer plain and simple and a perfected transfer."
+1991.91-159,1,37048,nancy_s_cusack,,2107.516,2120.656,"Well, let me remind the Court that in this specific instance what we're doing is attempting to recover the money, and with respect to money you cannot have a transfer made until you have it in hand."
+1991.91-159,1,15049,antonin_scalia,scotus_justice,2162.233,2165.102,I think your mistake is to say that this is a transfer of money.
+1991.91-159,1,37048,nancy_s_cusack,,2172.224,2183.848,"But there's no enforceable... again, what... first of all, what we're seeking to recover under 547(b) is not a recovery of that claim for money."
+1991.91-159,1,15042,david_h_souter,scotus_justice,2206.179,2213.201,"You would agree that if the payee could enforce it against the bank, if the bank dishonors it, then your position would be different."
+1991.91-159,1,37048,nancy_s_cusack,,2213.201,2220.205,"I think our position in that instance would be different if he could enforce it against the bank, but in fact he cannot."
+1991.91-159,1,15141,william_h_rehnquist,scotus_justice,2246.756,2251.707,"I thought a minute ago, Mrs. Cusack, you told Justice White that that was a matter of State law."
+1991.91-159,1,37048,nancy_s_cusack,,2251.707,2267.633,"--The Federal question has not been answered, and consequently in accordance with the McKenzie case the Court has said that in the event that that question is not answered pursuant to law, then it becomes a matter of deference to the State."
+1991.91-159,1,15141,william_h_rehnquist,scotus_justice,2270.935,2274.703,You mean if it's not answered by the Federal statutory provision.
+1991.91-159,1,37048,nancy_s_cusack,,2274.703,2284.076,"If it's not answered by the Federal statute, and it's certainly... the issue of when a transfer is made specifically is not answered within the statute."
+1991.91-159,1,15092,sandra_day_oconnor,scotus_justice,2284.076,2296.986,"Ms. Cusack, do you take the position that under New Mexico law when the check is delivered that it does not at least conditionally transfer a chose in action to the payee?"
+1991.91-159,1,37048,nancy_s_cusack,,2296.986,2297.669,No.
+1991.91-159,1,15092,sandra_day_oconnor,scotus_justice,2297.669,2306.258,Would New Mexico recognize that it conditionally transfers a chose in action to the payee when the check is delivered?
+1991.91-159,1,37048,nancy_s_cusack,,2306.258,2329.873,"What New Mexico recognizes is that when a check is tendered there is a conditional payment and there is a doctrine of relation back that is in effect in the State of New Mexico, and what New Mexico recognizes is that that conditional payment is subject to the condition of a transfer taking place."
+1991.91-159,1,15092,sandra_day_oconnor,scotus_justice,2329.873,2335.194,Is New Mexico's law substantially different from that of most other States--
+1991.91-159,1,37048,nancy_s_cusack,,2335.194,2337.313,"No, I think it's very similar."
+1991.91-159,1,37048,nancy_s_cusack,,2337.313,2338.896,"--In this regard, or is it the same?"
+1991.91-159,1,37048,nancy_s_cusack,,2338.896,2340.229,It's the same as the law in most States.
+1991.91-159,1,15092,sandra_day_oconnor,scotus_justice,2340.229,2361.825,"And when you look at the definition in the Bankruptcy Code 101 of what a transfer means, it means every mode, absolute or conditional... or conditional... of disposing or parting with property or with an interest in property."
+1991.91-159,1,37048,nancy_s_cusack,,2368.415,2376.985,I think that the delivery of the check comes within the definition of what a transfer is under 101--
+1991.91-159,1,15092,sandra_day_oconnor,scotus_justice,2376.985,2377.735,Under 101.
+1991.91-159,1,37048,nancy_s_cusack,,2377.735,2393.578,"--Because 101 is a very expansive definition and it indicates, at least in my mind, that one way that an individual can make a transfer of an interest in property is indirectly through the delivery of the check."
+1991.91-159,1,15060,john_paul_stevens,scotus_justice,2455.001,2461.739,"May I just question that, because perhaps it's the same point Justice Scalia made, but I want to be sure I understand your answer."
+1991.91-159,1,37048,nancy_s_cusack,,2502.132,2520.094,"Okay, our contention is with respect to money, the assets that we are seeking to recover, there is no transfer of those funds until such time as the transferor loses dominion or control over those funds--"
+1991.91-159,1,15060,john_paul_stevens,scotus_justice,2520.094,2521.712,I understand--
+1991.91-159,1,37048,nancy_s_cusack,,2521.712,2524.581,--And the transferee is able to exercise control and in this circumstance--
+1991.91-159,1,15060,john_paul_stevens,scotus_justice,2524.581,2529.366,--But would you not agree that the point you're describing is the point at which the transfer has been perfected?
+1991.91-159,1,37048,nancy_s_cusack,,2529.366,2534.418,--But it's also the point in time when the transfer has been made.
+1991.91-159,1,15060,john_paul_stevens,scotus_justice,2534.418,2539.888,"You're saying that with respect to checks, delivery of checks, there is no difference between the transfer date and the perfection date."
+1991.91-159,1,37048,nancy_s_cusack,,2539.888,2542.757,"When you're dealing with a check, that's correct."
+1991.91-159,1,15049,antonin_scalia,scotus_justice,2542.757,2547.244,"Mrs. Cusack, you're not seeking money any more than the payee of the check is seeking money."
+1991.91-159,1,37048,nancy_s_cusack,,2558.034,2558.969,"No, sir, we're not--"
+1991.91-159,1,15049,antonin_scalia,scotus_justice,2558.969,2564.003,"You say that the bank owes the estate money, isn't that what you're saying?"
+1991.91-159,1,37048,nancy_s_cusack,,2564.003,2564.453,"--No, sir, we're not."
+1991.91-159,1,15049,antonin_scalia,scotus_justice,2579.363,2579.882,Paid to him by whom?
+1991.91-159,1,37048,nancy_s_cusack,,2579.882,2587.119,"--It was paid to him by the debtor, so we're not seeking to recover any money from the bank."
+1991.91-159,1,15049,antonin_scalia,scotus_justice,2590.321,2603.462,"No, but to the extent you say that money that the bank gave to the petitioner here should have been given to the trustee, or should have remained in the estate, you're asserting a chose in action."
+1991.91-159,1,37048,nancy_s_cusack,,2606.914,2618.721,"Well, we're asserting a claim for those funds once Mr. Barnhill's check is honored, which will in effect increase our estate."
+1991.91-159,1,15049,antonin_scalia,scotus_justice,2620.59,2624.375,"Against the bank, for any money that the bank has, not any particular money."
+1991.91-159,1,37048,nancy_s_cusack,,2630.946,2643.622,"--That's correct, and if Mr. Barnhill issues us a check and it's not honored, then there will be no transfer of any funds and no increase for the benefit of the estate, that is correct."
+1991.91-159,1,15042,david_h_souter,scotus_justice,2656.179,2658.465,"Yes, but that just means that it's conditional, doesn't it?"
+1991.91-159,1,37048,nancy_s_cusack,,2662.017,2667.904,"--The payment is conditional, and it is conditional upon the transfer being made."
+1991.91-159,1,15042,david_h_souter,scotus_justice,2669.704,2680.312,"Well, but for that proposition you rely, as I understand it, on the position that the payee cannot enforce it against the bank."
+1991.91-159,1,37048,nancy_s_cusack,,2680.312,2689.151,"--That's right, the payee cannot enforce it against the bank because again he has no right to exercise any kind of dominion or control."
+1991.91-159,1,15141,william_h_rehnquist,scotus_justice,2689.151,2698.923,But don't you also rely on the proposition that the payor may stop payment or may also withdraw his funds before the check clears?
+1991.91-159,1,37048,nancy_s_cusack,,2698.923,2702.042,"Absolutely, or that the funds may be garnished or levied against."
+1991.91-159,1,15113,anthony_m_kennedy,scotus_justice,2957.61,2964.014,Are you aware of any States where the result would be different than it is under New Mexico law according to your view of the case?
+1991.91-159,1,37048,nancy_s_cusack,,2964.014,2966.899,I'm not aware of any States where that would be different.
+1991.91-159,1,15141,william_h_rehnquist,scotus_justice,3012.447,3023.218,"Thank you, Ms. Cusack."
+1991.91-159,2,43756,william_j_arland_iii,,3027.889,3031.241,"Yes, Mr. Chief Justice, I'd like to take the 2 minutes for rebuttal if I might."
+1991.91-159,2,15042,david_h_souter,scotus_justice,3031.241,3033.86,"Mr. Arland, may I ask you one question?"
+1991.91-159,2,43756,william_j_arland_iii,,3033.86,3034.543,"Yes, Justice."
+1991.91-159,2,15042,david_h_souter,scotus_justice,3034.543,3044.966,Why isn't your position that there's a conditional transfer here defeated by the fact that the payee cannot enforce that transfer against the bank if it's dishonored?
+1991.91-159,2,43756,william_j_arland_iii,,3044.966,3056.44,"My position is that because the nature of a check is that it is a conditional transfer, and that it is recognized within the Uniform Commercial Code and in the bankruptcy courts."
+1991.91-159,2,15042,david_h_souter,scotus_justice,3056.44,3059.641,Then why can't it be enforced against the bank?
+1991.91-159,2,43756,william_j_arland_iii,,3059.641,3065.729,Because the concept of how commerce works and how banks honor checks does not permit it.
+1991.91-159,2,15042,david_h_souter,scotus_justice,3100.718,3124.251,"But isn't... you say it's a relation back, but doesn't the relation back occur only because the check is an authorization to pay, and if the person authorized accepts the authorization then the payment subject to conditions you've mentioned relates back, but it is not a chose in action in the sense that it can be enforced against the bank as the holder of funds."
+1991.91-159,2,43756,william_j_arland_iii,,3124.251,3132.274,The definition of property under 541 would cover a conveyance by check.
+1991.91-159,2,15042,david_h_souter,scotus_justice,3134.19,3136.059,A nonenforceable authorization to a third party?
+1991.91-159,2,43756,william_j_arland_iii,,3136.059,3137.192,"I'm sorry, Justice Souter."
+1991.91-159,2,15042,david_h_souter,scotus_justice,3137.192,3141.01,A nonenforceable authorization to a third party would fall within the definition of property?
+1991.91-159,2,43756,william_j_arland_iii,,3141.01,3143.462,I do not believe it unenforceable.
+1991.91-159,2,15042,david_h_souter,scotus_justice,3144.545,3146.245,"Well, you can't enforce it against the bank."
+1991.91-159,2,43756,william_j_arland_iii,,3147.83,3150.449,--You can present it to the bank for honoring.
+1991.91-159,2,15042,david_h_souter,scotus_justice,3163.506,3165.423,"If it's wrongfully dishonored, can it sue the bank?"
+1991.91-159,2,43756,william_j_arland_iii,,3167.707,3172.795,"--The payee can... if it's wrongfully dishonored, he cannot, but what he can do is he may sue the payor."
+1991.91-159,2,15042,david_h_souter,scotus_justice,3176.063,3177.765,"Well, that's great, but it doesn't affect the transfer."
+1991.91-159,2,43756,william_j_arland_iii,,3180.349,3193.192,"But it does affect the transfer, Justice Souter, with all due respect, if one looks to the Bankruptcy Code, and the Bankruptcy Code under section 101(54) provides for conditional transfer."
+1991.91-159,2,15141,william_h_rehnquist,scotus_justice,3206.083,3208.333,"I think you've answered the question, Mr. Arland."

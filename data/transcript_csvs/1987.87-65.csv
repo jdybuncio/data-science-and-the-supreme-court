@@ -1,0 +1,153 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1987.87-65,0,15141,william_h_rehnquist,scotus_justice,0.0,57.503,"Mr. Parrillo, you may proceed whenever you're ready."
+1987.87-65,0,40211,robert_d_parrillo,,57.503,60.305,"Mr. Chief Justice, and may it please the Court:"
+1987.87-65,0,15141,william_h_rehnquist,scotus_justice,252.83,253.949,What day of the week was this?
+1987.87-65,0,40211,robert_d_parrillo,,255.749,256.315,"No, Your Honor."
+1987.87-65,0,15092,sandra_day_oconnor,scotus_justice,268.423,279.897,"Mr. Parrillo, I guess you concede, do you not, that there was, indeed, no basis on which the Judge could properly enter a restraining order here?"
+1987.87-65,0,40211,robert_d_parrillo,,279.897,282.849,"No, Your Honor, I'm afraid I cannot concede that."
+1987.87-65,0,15092,sandra_day_oconnor,scotus_justice,282.849,283.299,You don't.
+1987.87-65,0,40211,robert_d_parrillo,,283.299,283.751,I suggest--
+1987.87-65,0,15092,sandra_day_oconnor,scotus_justice,283.751,286.185,You think it was perfectly lawful?
+1987.87-65,0,40211,robert_d_parrillo,,286.185,288.67,"--I can't say that either, Your Honor."
+1987.87-65,0,15092,sandra_day_oconnor,scotus_justice,291.389,291.672,I see.
+1987.87-65,0,40211,robert_d_parrillo,,306.815,315.32,"Well, Your Honor, it's true that the 1st Amendment... any order impinging is going to be presumptively invalid."
+1987.87-65,0,15092,sandra_day_oconnor,scotus_justice,334.734,341.472,"Well, how could the Journal have been responsible for any 4th Amendment violations?"
+1987.87-65,0,40211,robert_d_parrillo,,341.472,346.376,"The Journal, in and of itself, could not."
+1987.87-65,0,15092,sandra_day_oconnor,scotus_justice,410.984,427.428,"I somehow thought we took the case just assuming that the issuance of the restraining order was error, and took it for the purpose of deciding whether the Court, nonetheless, whether it can be raised in the contempt proceedings."
+1987.87-65,0,40211,robert_d_parrillo,,427.428,429.529,"--That gets to the heart of it, Your Honor."
+1987.87-65,0,15092,sandra_day_oconnor,scotus_justice,429.529,431.814,But you don't want to concede that it was unlawful?
+1987.87-65,0,40211,robert_d_parrillo,,431.814,432.697,"I just don't know, Your Honor."
+1987.87-65,0,15049,antonin_scalia,scotus_justice,451.645,464.786,"Mr. Parrillo, before you get too deep into the merits, would you say a couple of words about the motion that we have to dismiss the writ because... well, essentially, the caption of this case is United States of America v. Providence Journal Company."
+1987.87-65,0,40211,robert_d_parrillo,,495.138,496.674,"Correct, Your Honor."
+1987.87-65,0,15049,antonin_scalia,scotus_justice,496.674,500.126,"Now, how can we entertain this suit in light of Section 518(a)?"
+1987.87-65,0,40211,robert_d_parrillo,,502.911,512.433,This is a suit that was originally brought entitled In the Matter of Application to Adjudge the Journal and its Editor in Contempt.
+1987.87-65,0,15049,antonin_scalia,scotus_justice,534.299,535.615,Under a criminal statute.
+1987.87-65,0,40211,robert_d_parrillo,,535.615,538.601,"Under a criminal statute, 401, yes, Your Honor."
+1987.87-65,0,15049,antonin_scalia,scotus_justice,552.01,561.032,"That can be vindicated up to the Court of Appeals level without having you come here, without the permission of the Attorney General or the Solicitor General."
+1987.87-65,0,40211,robert_d_parrillo,,576.459,581.53,"Well, Your Honor, I can understand your... that reading of the statute."
+1987.87-65,0,15049,antonin_scalia,scotus_justice,581.53,583.13,"Well, give me another reading."
+1987.87-65,0,40211,robert_d_parrillo,,587.248,588.35,"Yes, Your Honor."
+1987.87-65,0,15049,antonin_scalia,scotus_justice,588.35,594.253,"Well, the statute says that the United States will be represented here by the Solicitor General or the Attorney General."
+1987.87-65,0,40211,robert_d_parrillo,,594.253,597.555,"I understand that, Your Honor, and I think that criminal prosecutions--"
+1987.87-65,0,15049,antonin_scalia,scotus_justice,597.555,602.276,"And they don't want this case here, apparently, or they would have brought it here themselves."
+1987.87-65,0,40211,robert_d_parrillo,,608.18,608.913,"--Perhaps, Your Honor."
+1987.87-65,0,15071,byron_r_white,scotus_justice,614.251,620.571,And perhaps the United States shouldn't be filing a brief here as amicus?
+1987.87-65,0,40211,robert_d_parrillo,,620.571,624.623,That may be correct as well.
+1987.87-65,0,15071,byron_r_white,scotus_justice,624.623,625.357,On your side.
+1987.87-65,0,40211,robert_d_parrillo,,625.357,626.975,That's correct.
+1987.87-65,0,15104,thurgood_marshall,scotus_justice,663.232,664.184,All of the people?
+1987.87-65,0,40211,robert_d_parrillo,,664.184,664.867,"Yes, Your Honor."
+1987.87-65,0,15104,thurgood_marshall,scotus_justice,665.7,668.552,Including the Judge?
+1987.87-65,0,40211,robert_d_parrillo,,668.552,673.039,"Well, the Judge as a citizen, but not as a party."
+1987.87-65,0,15104,thurgood_marshall,scotus_justice,674.489,679.026,"Once we start doing that, we are going to get into some trouble."
+1987.87-65,0,40211,robert_d_parrillo,,709.213,711.58,"--At that point, Your Honor, yes, it would."
+1987.87-65,0,15049,antonin_scalia,scotus_justice,711.58,718.068,Can the United States Attorney petition for certiorari even though the Solicitor General and the Attorney General don't want it?
+1987.87-65,0,40211,robert_d_parrillo,,718.068,723.888,"No, he couldn't, because that would become an executive function once the Justice Department accepted it."
+1987.87-65,0,15049,antonin_scalia,scotus_justice,723.888,727.34,But it's the same suit; it's the very same prosecution.
+1987.87-65,0,40211,robert_d_parrillo,,727.34,728.274,"Well,--"
+1987.87-65,0,15071,byron_r_white,scotus_justice,728.274,736.613,I take it that the Solicitor General doesn't believe his authorization was necessary for you to come here.
+1987.87-65,0,40211,robert_d_parrillo,,736.613,738.065,"--He does not, Your Honor."
+1987.87-65,0,15071,byron_r_white,scotus_justice,738.765,740.715,Footnote 2 of his brief indicates that.
+1987.87-65,0,40211,robert_d_parrillo,,740.715,748.454,"He does, Your Honor, and later in his memorandum regarding the motion to dismiss, he says the same thing again."
+1987.87-65,0,15049,antonin_scalia,scotus_justice,752.741,764.38,"Does that answer mean that you think if anybody walks in off the street and tries to bring an appeal to this Court in a federal case, so long as the Attorney General says it's okay, it's proper for us to entertain it?"
+1987.87-65,0,40211,robert_d_parrillo,,764.38,772.119,"Well, that statute says that if the Attorney General authorizes it first and then it's all right for that person, but for anybody off the street--"
+1987.87-65,0,15049,antonin_scalia,scotus_justice,772.119,773.488,But he hasn't authorized you.
+1987.87-65,0,40211,robert_d_parrillo,,776.94,778.107,"--That's correct, Your Honor."
+1987.87-65,0,15049,antonin_scalia,scotus_justice,778.107,789.681,"So, can he say that to anybody, anybody at all can bring a matter before us simply because the Attorney General says that's okay by me, Section 518(a) isn't that important as far as I'm concerned?"
+1987.87-65,0,40211,robert_d_parrillo,,789.681,793.2,"Well, that's the position of the Solicitor General."
+1987.87-65,0,15049,antonin_scalia,scotus_justice,802.388,808.209,Would it be a judicial function if it had been given to the United States Attorney?
+1987.87-65,0,40211,robert_d_parrillo,,808.209,823.754,"I think then, Your Honor, it would be an executive prosecution, and in this case, if the executive, after the 1st Circuit, reversed the contempt, made a prosecutorial decision not to go forward, then the executive need not go any further."
+1987.87-65,0,15104,thurgood_marshall,scotus_justice,857.475,866.915,"Assuming we rule against you, who did we send the bill to?"
+1987.87-65,0,40211,robert_d_parrillo,,872.419,880.507,"Well, Your Honor, the Chief Judge authorized us to go forward and pay the expenses to bring the action."
+1987.87-65,0,15104,thurgood_marshall,scotus_justice,880.507,886.494,But I don't think that the Chief Judge has very much jurisdiction over us.
+1987.87-65,0,40211,robert_d_parrillo,,886.494,889.08,"No, Your Honor."
+1987.87-65,0,15104,thurgood_marshall,scotus_justice,890.846,894.434,We might have to explain that to him.
+1987.87-65,0,40211,robert_d_parrillo,,899.402,903.171,"Well, Your Honor, I'm here under Young, essentially."
+1987.87-65,0,15049,antonin_scalia,scotus_justice,908.325,910.277,You were in the lower courts under Young.
+1987.87-65,0,40211,robert_d_parrillo,,935.492,937.161,"Thank you, Mr. Chief Justice."
+1987.87-65,0,15092,sandra_day_oconnor,scotus_justice,1210.77,1220.376,"Mr. Parrillo, does Section 18 U.S. Code Section 401 have any bearing on the case?"
+1987.87-65,0,40211,robert_d_parrillo,,1228.066,1228.666,"That's right, Your Honor."
+1987.87-65,0,15092,sandra_day_oconnor,scotus_justice,1234.22,1238.422,"So, do we need to look and see if this was a lawful order then?"
+1987.87-65,0,40211,robert_d_parrillo,,1238.422,1244.008,"It has to be a lawful order before there could be any punishment for contempt of it, yes."
+1987.87-65,0,15092,sandra_day_oconnor,scotus_justice,1244.008,1254.097,And do you think that any temporary restraining order issued for the purpose of letting the Court determine its own jurisdiction is a lawful order?
+1987.87-65,0,40211,robert_d_parrillo,,1254.097,1255.316,"Absolutely, Your Honor."
+1987.87-65,0,15060,john_paul_stevens,scotus_justice,1287.604,1295.358,"But, Mr. Parrillo, was this matter held in status quo for the purpose of enabling the District Judge to determine his jurisdiction?"
+1987.87-65,0,40211,robert_d_parrillo,,1295.358,1310.184,"Well, Your Honor, I think at the time it was presented to him, according anyway to his rescript, I think it's at page 812 in the appendix to the brief, he stated that the Journal hadn't presented any question about jurisdiction at the time."
+1987.87-65,0,15060,john_paul_stevens,scotus_justice,1310.184,1314.422,"I know, which would suggest to me that he didn't have any doubt about his jurisdiction."
+1987.87-65,0,40211,robert_d_parrillo,,1314.422,1315.255,He may not have.
+1987.87-65,0,15060,john_paul_stevens,scotus_justice,1315.255,1318.64,"So, he didn't need time to make the jurisdictional inquiry."
+1987.87-65,0,40211,robert_d_parrillo,,1333.849,1356.832,"Well, Your Honor, I think that there is, and perhaps Judge Boyle openly made a mistake in judgment in thinking that there was jurisdiction, if, indeed, my brother is right and there isn't, because there is enough federal question raised and presented to him which was not easy to answer, I think, at the time, to allow him at least a short period to reflect on it."
+1987.87-65,0,15060,john_paul_stevens,scotus_justice,1360.051,1367.556,"Yes, but I understood from my reading of it, maybe I have it wrong, is that he was reflecting on the merits rather than whether there was any jurisdiction at all."
+1987.87-65,0,40211,robert_d_parrillo,,1367.556,1375.21,"He may well have been simply focusing on the merits, Your Honor, although the federal defendants did raise the jurisdictional question."
+1987.87-65,0,15060,john_paul_stevens,scotus_justice,1375.21,1377.628,Did they raise it at that very first conference?
+1987.87-65,0,40211,robert_d_parrillo,,1377.628,1378.262,"Yes, Your Honor."
+1987.87-65,0,15060,john_paul_stevens,scotus_justice,1378.262,1378.53,They did?
+1987.87-65,0,40211,robert_d_parrillo,,1378.53,1380.164,They did.
+1987.87-65,0,15104,thurgood_marshall,scotus_justice,1401.444,1404.932,"Counsel, where is the judgment in this case?"
+1987.87-65,0,40211,robert_d_parrillo,,1406.915,1407.564,"Yes, Your Honor."
+1987.87-65,0,15104,thurgood_marshall,scotus_justice,1411.835,1412.951,Do you have an order?
+1987.87-65,0,40211,robert_d_parrillo,,1416.62,1418.839,"As I say, the caption was In the Matter of."
+1987.87-65,0,15104,thurgood_marshall,scotus_justice,1418.839,1420.024,In the Matter of.
+1987.87-65,0,40211,robert_d_parrillo,,1424.559,1426.761,"No, Your Honor."
+1987.87-65,0,15104,thurgood_marshall,scotus_justice,1426.761,1427.911,"Well, who put it in there?"
+1987.87-65,0,40211,robert_d_parrillo,,1428.63,1433.599,"I did, Your Honor."
+1987.87-65,0,15060,john_paul_stevens,scotus_justice,1491.203,1501.893,"I understand that insofar as you're addressing the merits, but I think that we do take a little different approach if the Court was entirely without jurisdiction of the litigation at all."
+1987.87-65,0,40211,robert_d_parrillo,,1501.893,1509.349,"Well, if the Court was entirely without jurisdiction and that's so clear, then it wouldn't be a lawful order."
+1987.87-65,0,15060,john_paul_stevens,scotus_justice,1509.349,1514.319,What do you think is the strongest argument supporting federal jurisdiction in the case?
+1987.87-65,0,40211,robert_d_parrillo,,1514.319,1527.394,"Well, Your Honor, as has been said not only by our trial judge in this case but other judges, there is at least the ability to look over the law and think about it."
+1987.87-65,0,15049,antonin_scalia,scotus_justice,1582.38,1583.613,"Mr. Parrillo, I'm not clear."
+1987.87-65,0,40211,robert_d_parrillo,,1600.342,1602.711,"Has to be a colorable basis for jurisdiction, Your Honor."
+1987.87-65,0,15049,antonin_scalia,scotus_justice,1609.447,1614.332,"So, a judge is not given any time to determine whether there's a colorable basis; he has to figure that out right away?"
+1987.87-65,0,40211,robert_d_parrillo,,1614.332,1619.236,"Well, maybe going backwards in time, that's what you say."
+1987.87-65,0,15141,william_h_rehnquist,scotus_justice,1661.08,1662.415,"Thank you, Mr. Parrillo."
+1987.87-65,1,23503,floyd_abrams,,1665.451,1668.169,"Thank you, Mr. Chief Justice, and may it please the Court:"
+1987.87-65,1,15141,william_h_rehnquist,scotus_justice,1759.043,1762.412,"Mr. Abrams, where in the brief is the letter of the Solicitor General?"
+1987.87-65,1,23503,floyd_abrams,,1762.412,1764.697,--There is a brief.
+1987.87-65,1,15141,william_h_rehnquist,scotus_justice,1777.755,1779.374,Thank you.
+1987.87-65,1,23503,floyd_abrams,,1779.374,1796.049,"In that letter, he urges the proposition that the Young case of this Court did not resolve the question of whether authorization of the Solicitor General was necessary and then concludes that if it is necessary, he declines to authorize it."
+1987.87-65,1,15060,john_paul_stevens,scotus_justice,1815.88,1838.06,"Mr. Abrams, is there anything in the legislative history of this Section 518(a) to suggest that Congress intended that language to apply to a case like this or to a case where a special prosecutor possibly prosecuting the Attorney General or the Solicitor General, that in such a case it's still up to the Solicitor General and Attorney General to decide whether review would be proper?"
+1987.87-65,1,23503,floyd_abrams,,1838.06,1851.553,"Justice Stevens, the legislative history of this statute is very... of great long standing, but of little revelation in the sense of a direct response to your question."
+1987.87-65,1,15060,john_paul_stevens,scotus_justice,1875.668,1891.445,"I understand the plain language argument, but do you think if Congress had asked itself the question, do we want the Attorney General to decide in the case in which he is interested as an individual, as opposed to the United States, is he able to control review, do you think Congress would have said yes, we still want him to do it?"
+1987.87-65,1,23503,floyd_abrams,,1891.445,1920.047,"--Yes, I think Congress would have said we want one place to go out of which the position of the United States of America comes to the Supreme Court of the United States, and that to the extent that there is self-interest, there will always be self-interest by some branch of government about some course of conduct, and that the Congress, having decided to put the power in the executive branch, said that is where it should repose."
+1987.87-65,1,15060,john_paul_stevens,scotus_justice,2003.318,2011.224,"Of course, that's a constitutional decision interpreting the power of the President rather than the statutory interpretation question of what Congress might have intended in a situation like this."
+1987.87-65,1,23503,floyd_abrams,,2011.224,2023.432,"--Absolutely, Your Honor, except insofar as the argument made against us is the separation of powers argument that Congress could not provide the executive branch with this power and it is to that that I am responding."
+1987.87-65,1,15071,byron_r_white,scotus_justice,2023.432,2031.554,Would there be any problem here if the special prosecutor had headed the case up differently?
+1987.87-65,1,23503,floyd_abrams,,2031.554,2037.524,"It would be just the same, Justice, but I'm not basing this on the special prosecutor using the words ""United States""."
+1987.87-65,1,15071,byron_r_white,scotus_justice,2039.226,2041.126,"Well, how was it headed up in the lower courts?"
+1987.87-65,1,23503,floyd_abrams,,2041.126,2052.951,"In the Matter of The... I don't have it in front of me, Your Honor, but is In the Matter of the Contempt Proceeding brought against the Providence Journal."
+1987.87-65,1,15071,byron_r_white,scotus_justice,2058.705,2059.973,You would be making the same argument?
+1987.87-65,1,23503,floyd_abrams,,2059.973,2066.377,"Exactly, Your Honor, exactly, and if it had been captioned differently, obviously I'd be saying all the same things to you."
+1987.87-65,1,15104,thurgood_marshall,scotus_justice,2079.518,2082.835,Do you not... both of you can't give us jurisdiction.
+1987.87-65,1,23503,floyd_abrams,,2082.835,2083.505,I'm sorry?
+1987.87-65,1,15104,thurgood_marshall,scotus_justice,2084.237,2086.005,Do you agree?
+1987.87-65,1,23503,floyd_abrams,,2086.005,2096.646,"There is no jurisdiction and that's our argument to you, and we don't think that you can be vested with it in the face of this explicit statute."
+1987.87-65,1,15141,william_h_rehnquist,scotus_justice,2178.467,2187.24,"Mr. Abrams, if we were to adopt that point of view, we would not be following the judgment or the reasoning of the Court of Appeals in the case, would we?"
+1987.87-65,1,23503,floyd_abrams,,2187.24,2187.94,"That's right, Your Honor."
+1987.87-65,1,15092,sandra_day_oconnor,scotus_justice,2258.836,2266.442,"Mr. Abrams, does a court always have jurisdiction at least to determine its own jurisdiction?"
+1987.87-65,1,23503,floyd_abrams,,2266.442,2282.867,"Justice O'Connor, a court has jurisdiction to decide jurisdiction, but where the claim to jurisdiction is itself frivolous and someone disobeys the order, he cannot be held liable and in contempt for having done so."
+1987.87-65,1,15092,sandra_day_oconnor,scotus_justice,2283.534,2285.836,"Well, that's a different concept."
+1987.87-65,1,23503,floyd_abrams,,2295.275,2296.461,"--No, Your Honor."
+1987.87-65,1,15092,sandra_day_oconnor,scotus_justice,2308.685,2324.711,What if the judge had recited on the face of the order that he wasn't sure if he had jurisdiction and he entered the order only to preserve the status quo until he could make that determination?
+1987.87-65,1,23503,floyd_abrams,,2324.711,2336.169,"I would distinguish, Your Honor, between situations in which one might criticize the judge, one might well not criticize him in a situation like that, and in which what he entered was a valid order."
+1987.87-65,1,15141,william_h_rehnquist,scotus_justice,2376.829,2416.121,"What if in one of the states that has capital punishment, someone is scheduled to be executed in a few hours, goes into the federal District Court and says, look, I got these claims, and the federal judge looks at him and says, geez, it certainly doesn't look like much, but I just am not absolutely sure, I'm going to enter a stay anyway, and, so, he... the state says, well, this guy just didn't have jurisdiction, we're going to ahead and execute the fellow anyway, it's contested later, do you think a court would be very receptive to the idea that that judge simply had no power to enter the stay?"
+1987.87-65,1,23503,floyd_abrams,,2416.121,2416.571,No.
+1987.87-65,1,15141,william_h_rehnquist,scotus_justice,2616.6,2623.154,"Mr. Abrams, what do you think of the upshot of the Court of Appeals observation that you ought to at least seek appellate review?"
+1987.87-65,1,23503,floyd_abrams,,2629.558,2633.776,--I read the Court of Appeals opinion to mean that you can publish at your peril.
+1987.87-65,1,15141,william_h_rehnquist,scotus_justice,2633.776,2638.497,"Then, you would be subject to the UMW ruling."
+1987.87-65,1,23503,floyd_abrams,,2638.497,2641.032,I would think so.
+1987.87-65,1,15141,william_h_rehnquist,scotus_justice,2710.01,2738.779,"Well, but, I mean, supposing on this branch, on the Court of Appeals statement that you have to at least seek appellate relief, supposing Judge Boyle has ruled against you, you go to Judge Selia on the Court of Appeals and you present your case to him and he says, I think Judge Boyle was right, I refuse to set aside the injunction, then are you bound by the traditional rule that a valid court order is binding?"
+1987.87-65,1,23503,floyd_abrams,,2738.779,2741.314,--I have two separate answers.
+1987.87-65,1,15141,william_h_rehnquist,scotus_justice,2763.561,2765.963,"You could have found a judge within that, couldn't you?"
+1987.87-65,1,23503,floyd_abrams,,2765.963,2766.513,That's right.
+1987.87-65,1,15060,john_paul_stevens,scotus_justice,2887.042,2889.178,"Before you get to that, may I just ask you one question?"
+1987.87-65,1,23503,floyd_abrams,,2889.178,2889.778,Yes.
+1987.87-65,1,15060,john_paul_stevens,scotus_justice,2889.778,2905.92,"One of the elements that your opponent stresses is the fact that at that conference, counsel for the newspaper seemed more or less acquiescent to a two-day delay, partly because the questions were novel and he might have needed time and so forth, so there was a little bit of an element of almost a consent order."
+1987.87-65,1,23503,floyd_abrams,,2934.107,2940.543,"If counsel quite literally stipulated to the entry of a prior restraint, and if there was jurisdiction in the court,--"
+1987.87-65,1,15060,john_paul_stevens,scotus_justice,2940.543,2941.01,Correct.
+1987.87-65,1,23503,floyd_abrams,,2941.01,2946.997,"--assuming that for the moment, I think he'd probably be bound by it."
+1987.87-65,1,15060,john_paul_stevens,scotus_justice,2947.866,2952.818,"What if, just to take it a little step closer, what if he said, I have no objection to that order, Your Honor?"
+1987.87-65,1,23503,floyd_abrams,,2960.174,2971.28,"--I really don't think it is, Justice Stevens, and this is a case in which counsel, and the record, I think, is clear on this, opposed and only opposed the entry of the prior restraint."
+1987.87-65,1,15141,william_h_rehnquist,scotus_justice,3190.107,3191.374,"Thank you, Mr. Abrams."
+1987.87-65,2,40211,robert_d_parrillo,,3196.078,3198.144,"Thank you, Mr. Chief Justice."
+1987.87-65,2,15141,william_h_rehnquist,scotus_justice,3272.392,3273.308,"Thank you, Mr. Parrillo."
+1987.87-65,3,18203,clerk,,3275.908,3279.341,The Honorable Court is now adjourned until Monday next at 10:00.

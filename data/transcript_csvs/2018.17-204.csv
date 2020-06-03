@@ -1,0 +1,227 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2018.17-204,0,15086,john_g_roberts_jr,scotus_justice,0.0,6.56,"We'll hear argument first this morning in Case 17-204, Apple versus Pepper. Mr. Wall."
+2018.17-204,0,63056,daniel_m_wall,,6.56,46.8,"Thank you, Mr. Chief Justice, and may it please the Court: The only damages theory in this monopolization action is rooted in a 30 percent commission that Apple charges app developers and which allegedly causes those developers to increase app prices to consumers. The case is barred by the Court's Illinois Brick doctrine because the developers' pricing decisions are necessarily in the causal chain that links the commission to any consumer damages. If the commission increases beyond the competitive level, but apps developers do not change their apps prices, consumers suffer no damages."
+2018.17-204,0,15084,ruth_bader_ginsburg,scotus_justice,57.88,62.4,"Is there any -- in -- in your view, is there any first buyer in this picture?"
+2018.17-204,0,63056,daniel_m_wall,,62.4,63.64,Excuse me?
+2018.17-204,0,15084,ruth_bader_ginsburg,scotus_justice,63.64,66.0,Is there any first buyer in this picture?
+2018.17-204,0,63056,daniel_m_wall,,66.0,68.88,"Well, there's -- there's two different buyers in this picture."
+2018.17-204,0,15084,ruth_bader_ginsburg,scotus_justice,89.52,100.96,"My -- my question was within Illinois Brick, is there in this case anyone who would qualify as a first buyer with standing to sue Apple?"
+2018.17-204,0,63056,daniel_m_wall,,100.96,120.88,"The developers, yes. Without a doubt, the developers are the ones who, in the first instance, pay the 30 percent commission. I think it's -- it is -- it is important to root the analysis in the common ground, which has been conceded, that the only damages theory is based upon that 30 percent commission."
+2018.17-204,0,15131,sonia_sotomayor,scotus_justice,132.76,142.04,"I'm sorry, the -- the first sale is from Apple to the customer. It's the customer who pays the 30 percent."
+2018.17-204,0,63056,daniel_m_wall,,142.04,154.84,"But there has always been a -- a transaction between Apple and the developer before that, which has the pricing decision of what the developer is going to do on account of the 30 percent commission."
+2018.17-204,0,15131,sonia_sotomayor,scotus_justice,155.24,156.2,Could I ask you something --
+2018.17-204,0,63056,daniel_m_wall,,156.2,156.44,Sure.
+2018.17-204,0,15131,sonia_sotomayor,scotus_justice,156.44,176.76,"-- more generally about Illinois Brick? That was a case of a vertical monopoly: A concrete block person, manufacturer, monopolizes the next intermediate market who then sells to a customer."
+2018.17-204,0,63056,daniel_m_wall,,176.76,177.32,Yes.
+2018.17-204,0,15131,sonia_sotomayor,scotus_justice,177.32,178.0,All right.
+2018.17-204,0,63056,daniel_m_wall,,183.56,188.32,"It is a closed loop, but in terms of the injury theory, which is what is at issue in --"
+2018.17-204,0,15131,sonia_sotomayor,scotus_justice,188.32,191.12,They're not claiming the 30 percent is their injury.
+2018.17-204,0,63056,daniel_m_wall,,191.12,191.28,No.
+2018.17-204,0,15131,sonia_sotomayor,scotus_justice,191.56,200.56,"They're -- they're claiming their injury is the suppression of -- of a cheaper price, doesn't have to be 30 percent."
+2018.17-204,0,63056,daniel_m_wall,,227.52,228.8,"No, they are not."
+2018.17-204,0,15131,sonia_sotomayor,scotus_justice,241.92,245.8,"Apple took 30 percent from the customer, not from the developer."
+2018.17-204,0,63056,daniel_m_wall,,245.8,256.2,"Apple collects the -- the funds, but even the Ninth Circuit here agreed that -- that the process -- the payment flow is immaterial to the Illinois Brick issue."
+2018.17-204,0,15139,stephen_g_breyer,scotus_justice,256.2,265.96,"Certainly, I wouldn't think that's true, even if they concluded it. And in a simple theory, I would have thought it would have been in antitrust for at least 100 years."
+2018.17-204,0,63056,daniel_m_wall,,271.2,272.4,Apple.
+2018.17-204,0,15139,stephen_g_breyer,scotus_justice,272.4,272.84,Apple.
+2018.17-204,0,63056,daniel_m_wall,,300.24,301.6,Everything in Illinois Brick --
+2018.17-204,0,15139,stephen_g_breyer,scotus_justice,301.6,302.36,All right.
+2018.17-204,0,63056,daniel_m_wall,,302.72,303.4,-- conflicts with that.
+2018.17-204,0,15139,stephen_g_breyer,scotus_justice,303.4,303.72,Yeah.
+2018.17-204,0,63056,daniel_m_wall,,303.72,311.76,"The -- the emphasis in all three of this Court's decision on both pass-on defenses and damages theories, that's what the doctrine disallows."
+2018.17-204,0,15139,stephen_g_breyer,scotus_justice,313.04,328.8,"Yeah, it says that if -- I don't mean to interrupt you, but I don't want to -- you to miss the point I'm making. If Joe Smith buys from Bill, who bought from the monopolist, then we have something indirect."
+2018.17-204,0,63056,daniel_m_wall,,347.36,358.04,"What conflicts with that in this case is that the alleged monopolization, which is over the distribution function, allegedly first manifests in a 30 percent commission."
+2018.17-204,0,15094,elena_kagan,scotus_justice,374.28,397.44,"Does your answer to Justice Breyer depend on what you said, that the alleged monopolization is in the distribution function? Because I understood the -- the Respondents now to be saying, no, that's wrong; the alleged monopolization is in the apps themselves. In other words, the consumer says you have a monopoly on apps."
+2018.17-204,0,63056,daniel_m_wall,,407.24,408.2,In --
+2018.17-204,0,15094,elena_kagan,scotus_justice,408.2,413.76,"So, in responding to Justice Breyer, you said: Well, it's because the alleged monopoly is the distribution function."
+2018.17-204,0,63056,daniel_m_wall,,416.16,420.8,"Well, two points, Justice Kagan. First of all, it is correct."
+2018.17-204,0,15139,stephen_g_breyer,scotus_justice,456.84,463.24,"You know, there are an awful lot of words in this case that I tend to have trouble understanding."
+2018.17-204,0,63056,daniel_m_wall,,467.12,467.32,Uh-huh.
+2018.17-204,0,15139,stephen_g_breyer,scotus_justice,467.32,469.56,So I go by simple analogy.
+2018.17-204,0,63056,daniel_m_wall,,535.6,554.16,"But the difference here is -- is that there -- there is -- there is no third-party intermediary that is setting the price and exercising its independent determination as to whether any or all of the initial over-charge, which is some part or all of the commission, is going to manifest itself in the app's price."
+2018.17-204,0,15094,elena_kagan,scotus_justice,587.64,651.96,"Well, Mr. Wall, I think you're avoiding the question a bit because, I mean, the questions that are being put to you by my colleagues are really, what was Illinois Brick about? Was it about a vertical supply chain or, instead, was it about a pass-through theory? Now, in the facts of Illinois Brick and, indeed, in the facts of all the Illinois Brick cases that we've discussed, you had both. So you didn't have to separate the two. And now, here, you don't have both, because this is not a vertical supply chain, but there still is a pass-through mechanism. So then the question is, does Illinois Brick apply to that or not? And I think what Justice Breyer was suggesting to you, that as long as it's not that vertical supply chain where the person is not buying from the monopolist itself, here, the person is transacting with the monopolist itself, that that's what separates this case from Illinois Brick and makes it entirely different, notwithstanding that there's some kind of pass-through mechanism involved."
+2018.17-204,0,63056,daniel_m_wall,,651.96,657.68,I completely agree with you that the key to this is deciding what Illinois Brick was about.
+2018.17-204,0,15068,samuel_a_alito_jr,scotus_justice,712.0,721.48,"Mr. Wall, could I ask you about what troubles me about your position, and -- and it is this: Illinois Brick was not about economic theory."
+2018.17-204,0,63056,daniel_m_wall,,768.76,769.76,Tens of thousands.
+2018.17-204,0,15068,samuel_a_alito_jr,scotus_justice,769.76,769.96,Yeah.
+2018.17-204,0,63056,daniel_m_wall,,773.76,774.56,None have ever sued.
+2018.17-204,0,62836,neil_gorsuch,scotus_justice,811.16,835.72,"Well, Mr. Wall, along those lines, I -- I take your point that Illinois Brick and Hanover Shoe might be read about the economic realities of the pass-through mechanism being important, rather than the contractual formalities, whether it's a sales agent or a formal purchase between the manufacturer and the distributor. And antitrust normally accounts for economics, rather than forms of contract."
+2018.17-204,0,63056,daniel_m_wall,,835.72,835.84,Indeed.
+2018.17-204,0,62836,neil_gorsuch,scotus_justice,835.84,855.76,"I take your point. But building on what Justice Alito had in mind, Illinois Brick has been questioned by 31 states before this Court in an amicus brief. You're asking us to extend Illinois Brick, admittedly, only because of a contractual formality and the economic realities are the same."
+2018.17-204,0,63056,daniel_m_wall,,889.36,889.72,Right.
+2018.17-204,0,62836,neil_gorsuch,scotus_justice,889.72,894.84,And indirect purchasers may be better suited to enforce the antitrust laws.
+2018.17-204,0,63056,daniel_m_wall,,896.08,896.28,Okay.
+2018.17-204,0,62836,neil_gorsuch,scotus_justice,896.28,898.48,"Sorry, but there -- there's the pitch."
+2018.17-204,0,63056,daniel_m_wall,,898.48,898.76,Sure.
+2018.17-204,0,15084,ruth_bader_ginsburg,scotus_justice,935.12,939.88,Why? Why is that so if the Court created the doctrine in the first place?
+2018.17-204,0,63056,daniel_m_wall,,939.88,965.04,"Because I don't think it's fair to say that the Court just created it. What the Court did was it applied the foundational principle of all Section 4 jurisprudence, which is the proximate cause principle of damages not going past the first step, and then it -- it dealt with that in the context of the potential for duplicative pass-through over-charge claims, which are a unique problem in antitrust. It's not a general problem of all damage theories."
+2018.17-204,0,15086,john_g_roberts_jr,scotus_justice,1002.96,1008.96,"Thank you, counsel. General Francisco."
+2018.17-204,1,37093,noel_j_francisco,,1008.96,1025.72,"Mr. Chief Justice, and may it please the Court: I'd like to begin where Mr. Wall left out, and I think it addresses many of the questions that have been asked here. At bottom, Illinois Brick and Hanover Shoe, properly understood, prohibit pass-through theories."
+2018.17-204,1,15094,elena_kagan,scotus_justice,1050.12,1065.6,"General, I have to say I find that a not intuitive argument, I mean, because it just seems to me that when you're looking at the relationship between the consumer and Apple, that there is only one step. I mean, I pick up my iPhone."
+2018.17-204,1,37093,noel_j_francisco,,1093.6,1094.44,Right.
+2018.17-204,1,17766,brett_m_kavanaugh,scotus_justice,1120.36,1129.56,"How do we know that? How do we know that, given that Apple really operates as a retailer in many respects here, as Justice Kagan points out?"
+2018.17-204,1,37093,noel_j_francisco,,1129.56,1130.0,Right.
+2018.17-204,1,17766,brett_m_kavanaugh,scotus_justice,1130.0,1135.72,And how do we know that the 30 percent charge is not affecting the price?
+2018.17-204,1,37093,noel_j_francisco,,1135.72,1136.32,"Well, you don't know --"
+2018.17-204,1,17766,brett_m_kavanaugh,scotus_justice,1136.32,1142.0,In the same way that any retailer that adds 30 percent would affect the ultimate price paid by the consumer?
+2018.17-204,1,37093,noel_j_francisco,,1142.0,1145.32,"You don't know for sure, but that's the whole point."
+2018.17-204,1,17766,brett_m_kavanaugh,scotus_justice,1164.68,1166.52,But the consumers are harmed then too.
+2018.17-204,1,37093,noel_j_francisco,,1166.52,1170.4,"Yes, Your Honor. And that's the whole point of Illinois Brick and Hanover Shoe."
+2018.17-204,1,17766,brett_m_kavanaugh,scotus_justice,1180.84,1192.56,"But we have ambiguity about what Illinois Brick means here, and shouldn't that ambiguity, if -- if there is such ambiguity, be resolved by looking at the text of the statute? Any person injured?"
+2018.17-204,1,37093,noel_j_francisco,,1192.56,1193.52,"Yes, Your Honor."
+2018.17-204,1,17766,brett_m_kavanaugh,scotus_justice,1193.52,1194.84,That's broad.
+2018.17-204,1,37093,noel_j_francisco,,1194.84,1213.16,"And what I think that Illinois Brick reflects is the type of statutory interpretation that this Court has engaged in in a variety of cases, including the RICO cases, including the Lexmark cases, where you interpret background principles of proximate cause to be built into the statute, including the rule that damages stop at the first step."
+2018.17-204,1,15094,elena_kagan,scotus_justice,1213.16,1225.72,"Does it make a difference, General, that -- that Apple is influencing the prices here? In other words, this is -- you're suggesting that the app developers are just sort of setting these prices independently --"
+2018.17-204,1,37093,noel_j_francisco,,1225.72,1226.2,Uh-huh.
+2018.17-204,1,15094,elena_kagan,scotus_justice,1226.2,1231.72,-- but I'll give you sort of two ways in which that's not true. The first way is this 99 cent charge --
+2018.17-204,1,37093,noel_j_francisco,,1231.72,1232.08,Uh-huh.
+2018.17-204,1,15094,elena_kagan,scotus_justice,1232.08,1242.8,"-- which you might say, well, that doesn't matter because, you know, it could be 99 cents or it could be $100.99. But, in fact, these are all low-cost products for the most part."
+2018.17-204,1,37093,noel_j_francisco,,1253.0,1253.08,Sure.
+2018.17-204,1,15094,elena_kagan,scotus_justice,1253.08,1254.56,-- or 32 cents.
+2018.17-204,1,37093,noel_j_francisco,,1272.2,1272.64,Right.
+2018.17-204,1,15094,elena_kagan,scotus_justice,1272.64,1290.92,"And in that event, it -- it sure seems as though, you know, Apple -- you know, it happened to set up this commission that puts it in the ambit of Illinois Brick, but it could have done a thousand other things that are essentially the same that would have taken it out of the Illinois Brick rule."
+2018.17-204,1,37093,noel_j_francisco,,1290.92,1291.48,Sure.
+2018.17-204,1,15094,elena_kagan,scotus_justice,1320.52,1328.0,"But if you have to bid in $10 increments and the -- and the true alternative prices are $3, $5, and $7 --"
+2018.17-204,1,37093,noel_j_francisco,,1328.0,1328.36,Right.
+2018.17-204,1,15094,elena_kagan,scotus_justice,1328.36,1330.16,"-- then, indeed, you are setting the price."
+2018.17-204,1,37093,noel_j_francisco,,1330.16,1332.04,"And, well, that's my second point, Your Honor."
+2018.17-204,1,15131,sonia_sotomayor,scotus_justice,1354.0,1359.28,"General, the problem is that they're not measuring damages by that."
+2018.17-204,1,37093,noel_j_francisco,,1359.28,1359.32,I --
+2018.17-204,1,15131,sonia_sotomayor,scotus_justice,1359.32,1372.76,"As I understand, they're saying it's not the 30 percent; it is what the price would be if we could buy apps outside of this closed loop."
+2018.17-204,1,37093,noel_j_francisco,,1372.76,1373.44,I --
+2018.17-204,1,15131,sonia_sotomayor,scotus_justice,1373.44,1388.28,"And it could be theoretically a lot higher than the markup, it could well be within it, but the point is that that 30 percent -- that 30 percent or whatever that 30 --"
+2018.17-204,1,37093,noel_j_francisco,,1388.28,1388.56,Uh-huh.
+2018.17-204,1,15131,sonia_sotomayor,scotus_justice,1388.56,1391.16,"-- percent figure is, is not the measure of our damages."
+2018.17-204,1,37093,noel_j_francisco,,1392.64,1393.32,Yeah --
+2018.17-204,1,15131,sonia_sotomayor,scotus_justice,1393.32,1404.68,"-- that they're saying the developers may have their own claim, their damages likely have to stay within the 30 percent, but we don't measure our damages by that."
+2018.17-204,1,37093,noel_j_francisco,,1404.68,1437.52,"So, respectfully, I'll disagree with that, and in explaining it, Justice Kagan, I think I can also answer the second part of your question. The harm to the consumers here is that they have to pay higher prices for apps, and the reason they have to pay higher prices for apps -- and, Justice Kagan, this goes to your question -- is because Apple controls the pipeline that connects app makers on the one hand and iPhone users on the other. And the way they exploit that pipeline through their alleged monopoly is by charging that 30 percent commission."
+2018.17-204,1,15139,stephen_g_breyer,scotus_justice,1471.16,1474.36,I wouldn't have thought that was the antitrust violation.
+2018.17-204,1,37093,noel_j_francisco,,1489.36,1489.84,For sure.
+2018.17-204,1,15139,stephen_g_breyer,scotus_justice,1489.84,1503.56,"-- Alcoa did not charge higher than competitive prices, and that's why Learned Hand said the easy life, not necessarily higher prices, is the reward, often, of monopoly."
+2018.17-204,1,37093,noel_j_francisco,,1504.24,1504.72,For sure --
+2018.17-204,1,15139,stephen_g_breyer,scotus_justice,1504.72,1526.92,"-- I would have thought it's a matter for proof at the damages stage whether, in fact, Apple, assuming they prove it is a monopoly, has extracted higher than competitive prices from those particular people, the plaintiffs, or whether they've just had the easy life."
+2018.17-204,1,37093,noel_j_francisco,,1526.92,1527.84,Right.
+2018.17-204,1,15139,stephen_g_breyer,scotus_justice,1527.84,1530.16,Now I don't think that's the stage we're at in this case.
+2018.17-204,1,37093,noel_j_francisco,,1531.72,1532.24,Well --
+2018.17-204,1,15139,stephen_g_breyer,scotus_justice,1532.24,1533.12,-- then they must win.
+2018.17-204,1,37093,noel_j_francisco,,1533.12,1546.6,"-- no -- so what I wanted to say is that, for sure, the Illinois Brick theory doesn't apply across the board, but it does apply when somebody is bringing an over-charge theory, as in Illinois Brick, as in Hanover Shoe, and as here."
+2018.17-204,1,15139,stephen_g_breyer,scotus_justice,1546.84,1550.28,Have we had trial on that?
+2018.17-204,1,37093,noel_j_francisco,,1550.28,1577.56,"Your Honor, where you have that kind of over-charge theory, what Illinois Brick says -- asks is, under basic principles of proximate cause, is there some party other than the monopolist that's standing in between the plaintiffs' injury in the form of higher prices and the monopolist's violation in the form of the commission. And whenever the price setter, the ultimate price setter, is somebody other than the monopolist, it's never the monopolist's over-charge that is the direct cause of the injury."
+2018.17-204,1,17766,brett_m_kavanaugh,scotus_justice,1577.56,1592.0,"But -- but if the app developer -- if Apple bought the apps from the app developer and then added 30 percent to it and sold it to the consumer, you would agree that a claim could lie there, correct?"
+2018.17-204,1,37093,noel_j_francisco,,1592.0,1594.76,"Your Honor, I want to make sure I understand the hypothetical."
+2018.17-204,1,17766,brett_m_kavanaugh,scotus_justice,1595.4,1600.08,Apple's buying the app from the app developer for a price --
+2018.17-204,1,37093,noel_j_francisco,,1600.08,1601.16,Right.
+2018.17-204,1,17766,brett_m_kavanaugh,scotus_justice,1601.16,1605.6,-- Apple's then adding 30 percent to that price and selling it to the consumer.
+2018.17-204,1,37093,noel_j_francisco,,1613.28,1623.16,"Yes, you can sue Apple directly, but you can't sue Apple if the -- if -- if Apple isn't the price-setting party, but the app maker is the price-setting party."
+2018.17-204,1,15086,john_g_roberts_jr,scotus_justice,1638.72,1644.12,"Thank you, counsel. Mr. Frederick."
+2018.17-204,2,20869,david_c_frederick,,1644.12,1664.88,"Thank you, Mr. Chief Justice, and may it please the Court: Apple directed anticompetitive restraints at iPhone owners to prevent them from buying apps anywhere other than Apple's monopoly App Store."
+2018.17-204,2,15086,john_g_roberts_jr,scotus_justice,1774.6,1784.56,"There's -- there's one antitrust violation under your theory, which is the increase, the 30 percent increase that Apple imposes when it -- when it's -- when, as you put it, it sells the apps?"
+2018.17-204,2,20869,david_c_frederick,,1784.56,1784.96,Wrong.
+2018.17-204,2,15086,john_g_roberts_jr,scotus_justice,1802.12,1833.64,"But, when it comes to the -- the 30 percent increase, you're -- you're obviously saying the purchasers, again, under your theory of the apps, are harmed by that and recover -- can recover damages for that, and also that the developers are harmed by that and they can recover damages for it as well. In other words, to the extent it might be said that Apple is a two-sided market, they're -- they're subject to suit on both sides of the market for a single antitrust price increase that they're alleged to have imposed."
+2018.17-204,2,20869,david_c_frederick,,1833.64,1856.96,"So, Mr. Chief Justice, I think that your question kind of gets to the core of a lot of the confusion here because, by having a wholly-owned monopoly App Store, Apple is able to distort the market at the supply chain and at the retail chain for consumers. We, representing consumer iPhone owners, are suing only for the damages that we incur."
+2018.17-204,2,15086,john_g_roberts_jr,scotus_justice,1874.56,1878.56,"No, no, I understand -- I understand your claim on your side of the market."
+2018.17-204,2,20869,david_c_frederick,,1882.64,1883.4,"Well, I have no grief --"
+2018.17-204,2,15086,john_g_roberts_jr,scotus_justice,1883.4,1884.24,It's the same?
+2018.17-204,2,20869,david_c_frederick,,1884.24,1885.96,I have -- it's not the same.
+2018.17-204,2,15086,john_g_roberts_jr,scotus_justice,1887.04,1889.2,For -- for the same price increase --
+2018.17-204,2,20869,david_c_frederick,,1889.2,1889.48,No --
+2018.17-204,2,15086,john_g_roberts_jr,scotus_justice,1889.48,1890.2,-- for the same --
+2018.17-204,2,20869,david_c_frederick,,1890.2,1893.12,"-- I disagree with that, Mr. Chief Justice."
+2018.17-204,2,15086,john_g_roberts_jr,scotus_justice,1921.8,1927.12,"Well, I think you're just saying that the measure of damages would be different between the two sides of the market?"
+2018.17-204,2,20869,david_c_frederick,,1927.12,1929.64,And -- but they would be different damages.
+2018.17-204,2,15094,elena_kagan,scotus_justice,1929.64,1934.36,"In other words, you are saying the consumer says, I'm paying a higher price for the product."
+2018.17-204,2,20869,david_c_frederick,,1981.4,1982.12,That's correct.
+2018.17-204,2,62836,neil_gorsuch,scotus_justice,1982.12,1982.8,"Well, but, Mister --"
+2018.17-204,2,15068,samuel_a_alito_jr,scotus_justice,1982.8,1985.84,"That's an interesting theory, but is that the theory -- is that your claim?"
+2018.17-204,2,20869,david_c_frederick,,1985.84,1986.12,Yes.
+2018.17-204,2,15068,samuel_a_alito_jr,scotus_justice,1986.12,1989.08,I thought this case was all about the 30 percent.
+2018.17-204,2,20869,david_c_frederick,,1989.08,1993.44,"Well, the other side has been trying, Justice Alito, to make the case all about the 30 percent."
+2018.17-204,2,15068,samuel_a_alito_jr,scotus_justice,1994.16,1996.2,So the 30 percent has nothing to do with this?
+2018.17-204,2,20869,david_c_frederick,,1996.2,2003.12,"The -- what the 30 percent is, is an allegation that Apple is monopolizing the sale of apps."
+2018.17-204,2,62836,neil_gorsuch,scotus_justice,2031.0,2034.72,"Mr. Frederick, I think you'd agree that there can only be one monopoly rent."
+2018.17-204,2,20869,david_c_frederick,,2111.0,2111.4,Because --
+2018.17-204,2,62836,neil_gorsuch,scotus_justice,2111.4,2113.96,-- the plaintiffs' bar is not making that argument before this Court.
+2018.17-204,2,20869,david_c_frederick,,2113.96,2114.2,Because --
+2018.17-204,2,62836,neil_gorsuch,scotus_justice,2114.2,2116.6,So there -- there's a whole -- a whole bunch of things for you to chew on.
+2018.17-204,2,20869,david_c_frederick,,2116.6,2117.0,Okay.
+2018.17-204,2,62836,neil_gorsuch,scotus_justice,2127.76,2136.12,Say I don't -- say I don't buy the formalistic contractual -- it seems to me an argument in -- in -- in the law of contracts rather than the law of antitrust. So help me out with economics.
+2018.17-204,2,20869,david_c_frederick,,2136.12,2138.32,"Economics, we paid money."
+2018.17-204,2,62836,neil_gorsuch,scotus_justice,2148.52,2148.96,"Again -- again, that --"
+2018.17-204,2,20869,david_c_frederick,,2148.96,2150.68,-- before sending 70 percent on.
+2018.17-204,2,62836,neil_gorsuch,scotus_justice,2150.68,2152.6,-- that's based on the form of the relationship.
+2018.17-204,2,20869,david_c_frederick,,2152.6,2152.92,But that --
+2018.17-204,2,62836,neil_gorsuch,scotus_justice,2152.92,2158.52,"Talk to me about the possibility, the problem that the app producer might absorb the monopoly rent."
+2018.17-204,2,20869,david_c_frederick,,2160.96,2161.52,Okay.
+2018.17-204,2,62836,neil_gorsuch,scotus_justice,2183.88,2185.44,I understand the 99 cent argument.
+2018.17-204,2,20869,david_c_frederick,,2185.44,2185.64,Okay.
+2018.17-204,2,62836,neil_gorsuch,scotus_justice,2185.64,2187.48,Let's put that aside.
+2018.17-204,2,20869,david_c_frederick,,2187.48,2188.36,All right.
+2018.17-204,2,15139,stephen_g_breyer,scotus_justice,2321.72,2349.68,"Unless we're -- unless we're prepared to overrule, which wasn't our case, Alcoa, I think all you'd have to show is, one, they have monopoly power, and, two, they achieved it through less restrictive -- for more restrictive than necessary practices, end of your burden. In your case -- and -- and Justice Gorsuch is quite right, there's only one monopoly profit to be earned."
+2018.17-204,2,20869,david_c_frederick,,2363.92,2364.76,That's correct.
+2018.17-204,2,15139,stephen_g_breyer,scotus_justice,2364.76,2367.16,And you're adding one thing.
+2018.17-204,2,20869,david_c_frederick,,2395.68,2404.92,"Yes, you have, Justice Breyer. I mean, the basic problem in this case as it comes to this Court is who gets to complain about the monopoly App Store."
+2018.17-204,2,17766,brett_m_kavanaugh,scotus_justice,2422.68,2434.12,They say it would be different if Apple purchased the apps from the app developer and then added 30 percent on the sale. And why is that not different?
+2018.17-204,2,20869,david_c_frederick,,2434.12,2435.2,Because it's irrelevant.
+2018.17-204,2,15131,sonia_sotomayor,scotus_justice,2495.96,2496.12,Now --
+2018.17-204,2,62836,neil_gorsuch,scotus_justice,2496.12,2497.8,Are we going to create a -- I'm sorry.
+2018.17-204,2,15131,sonia_sotomayor,scotus_justice,2500.08,2518.96,"The General said that if, in fact, Apple bought these products from suppliers and paid them and then added 30 percent to you, that that would be a classic antitrust violation. You're saying -- that's basically what they're doing here anyway."
+2018.17-204,2,20869,david_c_frederick,,2538.4,2573.76,"So we would still be direct purchasers if, under your hypothetical, we're buying it from Apple and then Apple is engaging in the Justice Gorsuch form over function situations in terms of how the money gets moved around. I think that the -- in that situation, we are still directly purchasing and we're still able to complain about Apple's violation. And I think, under your hypothetical, Justice Sotomayor, we have to keep the idea that Apple is still operating a monopoly App Store. It's no different than if there was a grocery store chain that monopolized the sale of all vegetables."
+2018.17-204,2,62836,neil_gorsuch,scotus_justice,2584.36,2588.64,"Well, I think Justice Sotomayor's question is a -- requires further exploration."
+2018.17-204,2,20869,david_c_frederick,,2616.88,2617.04,Well -- well --
+2018.17-204,2,62836,neil_gorsuch,scotus_justice,2617.04,2618.12,They're two separate questions.
+2018.17-204,2,20869,david_c_frederick,,2618.12,2618.28,-- okay.
+2018.17-204,2,62836,neil_gorsuch,scotus_justice,2658.56,2665.08,"Well -- well, assume for the moment that -- that I believe the economics underlying the two arrangements are very similar."
+2018.17-204,2,20869,david_c_frederick,,2673.64,2709.44,"No, I think in that hypothetical, I would be prepared to say if we were paying the developer directly for the app and the app developer could set whatever price it wanted to set, okay, keep with me on that assumption, the app developer operating in a free market can set whatever it wants to set, and then Apple comes after the app developer and says, hey, you bought it -- the consumer bought it through our store, we want whatever we want, that becomes not a problem with the consumer; that becomes a problem between the developer and the app -- and the seller of the app."
+2018.17-204,2,62836,neil_gorsuch,scotus_justice,2709.44,2712.88,"Ah, so pricing control is really important to proximate cause then?"
+2018.17-204,2,20869,david_c_frederick,,2712.88,2713.8,I beg your pardon?
+2018.17-204,2,62836,neil_gorsuch,scotus_justice,2713.8,2716.96,So pricing control is really important to proximate cause?
+2018.17-204,2,20869,david_c_frederick,,2716.96,2749.88,"No, pricing control is not important to pricing -- to proximate cause in the sense that whether -- I think, under direct proximate cause, we're buying the app directly from the app developer, and, remember, a key part of my answer was the app developer can set that price competitively in a competitive market. What arrangements happen between Apple exercising its monopoly control through the App Store and the supplier is not something we are proximately --"
+2018.17-204,2,17766,brett_m_kavanaugh,scotus_justice,2749.88,2750.16,Your -- your --
+2018.17-204,2,20869,david_c_frederick,,2750.16,2751.08,-- affected by that.
+2018.17-204,2,17766,brett_m_kavanaugh,scotus_justice,2751.08,2752.12,Sorry to interrupt.
+2018.17-204,2,20869,david_c_frederick,,2756.48,2757.48,That's correct.
+2018.17-204,2,15068,samuel_a_alito_jr,scotus_justice,2863.32,2872.2,What concerns me about your argument is that it doesn't seem to be based on the way in which this claim was understood by the lower courts. Maybe they misunderstood it.
+2018.17-204,2,20869,david_c_frederick,,2891.32,2894.2,"The district court just missed it, Justice Alito, respectfully."
+2018.17-204,2,15068,samuel_a_alito_jr,scotus_justice,2894.2,2902.44,And where -- okay. Where -- can you point to me where in the Ninth Circuit's opinion they understood your claim in the way that you've characterized it this morning?
+2018.17-204,2,20869,david_c_frederick,,2902.44,2947.12,"Yeah, they said on page 21a of the petition app -- I think that's the page -- that this is simply about a monopoly distribution and that it is a simple case as a result of that. If you look at the bottom of 21a, the very last paragraph: ""Instead, we rest our analysis, as compelled by Hanover Shoe, Illinois Brick, UtiliCorp, and Delaware Valley, on the fundamental distinction between a manufacturer or producer on the one hand and a distributor on the other."" Apple is a distributor of the iPhone apps, selling them directly to purchasers through its App Store. And because of that, we have standing to complain that they are the seller of the apps."
+2018.17-204,2,15094,elena_kagan,scotus_justice,2973.8,2987.24,"And -- and -- and the rule of the end in 99-cent requirement in that theory is what? In other words, would your theory be the same if no such requirement existed, or would it not?"
+2018.17-204,2,20869,david_c_frederick,,2987.24,3012.84,"It would be still an over-charge case, Justice Kagan, because the theory economically is that, if you are having to buy only from a monopoly, you are paying more than you would if there was a, you know, discount apps warehouse or you could buy directly from the app's developer. Our assertion is that, with multiple sellers, multiple suppliers of the apps, we would be able to buy them at a lower price. It's that competition."
+2018.17-204,2,15094,elena_kagan,scotus_justice,3012.84,3015.28,So what's the significance of that end in 99-cent rule?
+2018.17-204,2,20869,david_c_frederick,,3015.28,3022.92,The significance of it is that it informs the price elevation and the price over-charge.
+2018.17-204,2,15086,john_g_roberts_jr,scotus_justice,3045.16,3048.4,"Well, if it's that significant, why didn't you include it in the complaint?"
+2018.17-204,2,20869,david_c_frederick,,3048.4,3062.04,"Because it's not significant from this perspective, Mr. Chief Justice, and that is that, with a monopoly store, the prices are over-charged, our theory is relatively simple."
+2018.17-204,2,62836,neil_gorsuch,scotus_justice,3077.44,3078.44,Sounds kind of late in the day --
+2018.17-204,2,17766,brett_m_kavanaugh,scotus_justice,3078.44,3078.92,It's another --
+2018.17-204,2,62836,neil_gorsuch,scotus_justice,3078.92,3080.48,-- to come up with a new litigation theory.
+2018.17-204,2,20869,david_c_frederick,,3080.48,3084.0,"Well, no, we're at a pleadings stage, Justice Gorsuch."
+2018.17-204,2,62836,neil_gorsuch,scotus_justice,3084.0,3087.12,"In the Supreme Court, a blue brief, really?"
+2018.17-204,2,20869,david_c_frederick,,3087.12,3087.6,"Well, it's their --"
+2018.17-204,2,62836,neil_gorsuch,scotus_justice,3087.6,3093.92,"I mean, should we be taking that up now? I mean, maybe you can amend your complaint or something like that on remand, but should we be addressing that?"
+2018.17-204,2,20869,david_c_frederick,,3093.92,3097.72,"Well, Justice Gorsuch, they were the ones, is what I'm saying, that brought up the 99 cents."
+2018.17-204,2,62836,neil_gorsuch,scotus_justice,3098.64,3098.88,But we're usually --
+2018.17-204,2,17766,brett_m_kavanaugh,scotus_justice,3098.88,3099.64,It's not --
+2018.17-204,2,62836,neil_gorsuch,scotus_justice,3099.64,3101.72,"-- a court of review, not first view, right."
+2018.17-204,2,20869,david_c_frederick,,3101.72,3129.0,"Well, no, our point was that when they raised the 99 cents is somehow proof that the developer actually gets to set the price, we say, no, it's actually irrelevant for the reasons which I've already stated. But, secondly, it's just wrong because, if you're constraining what 99 percent of the pricing options are, you know, that -- that's -- it is what it is. But it also has the effect economically of raising the prices --"
+2018.17-204,2,17766,brett_m_kavanaugh,scotus_justice,3129.0,3129.36,It's going to --
+2018.17-204,2,20869,david_c_frederick,,3129.36,3131.0,-- that the consumers have -- have to pay.
+2018.17-204,2,17766,brett_m_kavanaugh,scotus_justice,3131.0,3133.76,"It's going to add to your damages, correct?"
+2018.17-204,2,20869,david_c_frederick,,3133.76,3134.32,"Well, it --"
+2018.17-204,2,17766,brett_m_kavanaugh,scotus_justice,3134.32,3135.12,Potentially.
+2018.17-204,2,20869,david_c_frederick,,3135.12,3139.64,-- it could potentially add to the damages or it could subtract from the damages.
+2018.17-204,2,17766,brett_m_kavanaugh,scotus_justice,3139.64,3140.12,Correct.
+2018.17-204,2,20869,david_c_frederick,,3140.12,3140.68,We don't know.
+2018.17-204,2,17766,brett_m_kavanaugh,scotus_justice,3150.16,3152.88,Your theory doesn't depend on the 99 cent?
+2018.17-204,2,20869,david_c_frederick,,3152.88,3156.6,Our theory of damages or our theory of the violation?
+2018.17-204,2,17766,brett_m_kavanaugh,scotus_justice,3156.6,3156.8,"Well, the --"
+2018.17-204,2,20869,david_c_frederick,,3156.8,3163.08,The theory of the violation is the wholly-owned monopoly App Store as the place to sell apps.
+2018.17-204,2,15068,samuel_a_alito_jr,scotus_justice,3204.48,3224.44,"If this case were to go to trial as a class action, would every app purchaser potentially be entitled to three times the 30 percent over-charge, or would it depend on the particular app?"
+2018.17-204,2,20869,david_c_frederick,,3224.44,3229.96,"Your Honor, I -- I think that -- I don't know the answer to your question fully."
+2018.17-204,2,15086,john_g_roberts_jr,scotus_justice,3355.44,3358.08,"Thank you, counsel. Three minutes, Mr. Wall."
+2018.17-204,3,63056,daniel_m_wall,,3358.08,3385.52,"Thank you, Mr. Chief Justice. I think I need to begin with the experience I had in this case for its first nine years, and that is it was about a 30 percent commission. Paragraph 48 of the complaint is -- is -- is the key allegation, which is the root of the damages theory, which maintains that the 30 percent commission is a monopoly price. It's called a monopoly price. It's elsewhere called a super-competitive price."
+2018.17-204,3,15084,ruth_bader_ginsburg,scotus_justice,3422.08,3448.56,"Mr. Wall, I have a question about this Court's case law, and I'd -- I'd like your answer to it. If Apple had in every agreement with an iPhone owner a provision that you can sue -- you can't sue, you have to go to an arbitrable forum in a one-by-one, then Apple would be home free in this case?"
+2018.17-204,3,63056,daniel_m_wall,,3448.56,3450.28,We -- we do not have such a provision.
+2018.17-204,3,15084,ruth_bader_ginsburg,scotus_justice,3458.76,3463.52,"Yeah, I -- I know -- I know you don't, but suppose you did."
+2018.17-204,3,63056,daniel_m_wall,,3463.52,3468.12,"If -- if that were the case, then this would be a matter for arbitration, and I don't think it changes the legal question."
+2018.17-204,3,15084,ruth_bader_ginsburg,scotus_justice,3468.12,3476.76,"And -- and it would take this case out of this Court, put it in an arbitrable forum, with a single complainant?"
+2018.17-204,3,63056,daniel_m_wall,,3476.76,3479.28,"Indeed, it -- it would, but that's not this case."
+2018.17-204,3,15086,john_g_roberts_jr,scotus_justice,3607.04,3608.16,"Thank you, counsel."

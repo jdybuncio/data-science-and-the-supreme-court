@@ -1,0 +1,189 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1986.85-1033,0,15141,william_h_rehnquist,scotus_justice,0.0,64.989,"Mr. Schuman, you may start whenever you're ready."
+1986.85-1033,0,20089,carl_j_schuman,,64.989,67.458,Mr. Chief Justice and may it please the Court:
+1986.85-1033,0,15092,sandra_day_oconnor,scotus_justice,269.109,282.152,"I'd like to ask, Mr. Schuman, are there same states that do treat restitution orders as debts and collectable as civil judgments?"
+1986.85-1033,0,20089,carl_j_schuman,,282.152,289.898,"--There are some states, Your Honor, that do treat restitution orders as collectable similar to civil judgments."
+1986.85-1033,0,15092,sandra_day_oconnor,scotus_justice,289.898,293.913,I guess in the state of Connecticut they're not so treated?
+1986.85-1033,0,20089,carl_j_schuman,,293.913,294.991,"That's correct, Your Honor."
+1986.85-1033,0,15092,sandra_day_oconnor,scotus_justice,294.991,303.862,"Well, what would the result be in a state where they are treated as collectable civil judgments, under your theory?"
+1986.85-1033,0,20089,carl_j_schuman,,303.862,305.159,The result would be no different.
+1986.85-1033,0,15092,sandra_day_oconnor,scotus_justice,306.315,306.94,Why is that?
+1986.85-1033,0,20089,carl_j_schuman,,306.94,321.496,"--Because in those states in which the states have treated the restitution order as in part collectable similar to a civil judgment, they have just chosen different and perhaps innovative ways of enforcing their criminal statutes."
+1986.85-1033,0,15092,sandra_day_oconnor,scotus_justice,329.401,336.664,"But for purposes of the bankruptcy law, do you normally lock to the state law to determine whether something is a collectable debt?"
+1986.85-1033,0,20089,carl_j_schuman,,336.664,343.069,"--No, the question of whether it's a debt within the meaning of the Bankruptcy Code is a federal question."
+1986.85-1033,0,15092,sandra_day_oconnor,scotus_justice,387.738,404.918,"Well, I just... if you look at the language of the statute, though, under the Bankruptcy Code, it becomes a little bit tricky, because it says a debt means liability on a claim, and a claim means a right to payment, whether or not it's reduced to judgment."
+1986.85-1033,0,20089,carl_j_schuman,,415.742,424.552,"Well, even in those cases, Your Honor, that conclusion would mean that the victim would be the creditor in Bankruptcy Court."
+1986.85-1033,0,15092,sandra_day_oconnor,scotus_justice,436.437,441.123,"But in any event, it wouldn't prevent the state, in your view, from coming in and getting it--"
+1986.85-1033,0,20089,carl_j_schuman,,441.123,443.56,"Well, if Your Honor is suggesting--"
+1986.85-1033,0,15092,sandra_day_oconnor,scotus_justice,443.56,447.481,"--This is a peculiar case, though, because here the state was also the victim."
+1986.85-1033,0,20089,carl_j_schuman,,447.481,453.541,"--Yes, but we would submit that it makes no difference whether the state is the victim in terms of the ultimate outcome."
+1986.85-1033,0,15045,harry_a_blackmun,scotus_justice,504.457,511.533,"Mr. Schuman, you stated the agency or the state did not file objections to the discharge."
+1986.85-1033,0,20089,carl_j_schuman,,515.5,517.312,"No, Your Honor."
+1986.85-1033,0,15045,harry_a_blackmun,scotus_justice,550.424,551.814,"Yes, but a claim was filed, wasn't it?"
+1986.85-1033,0,20089,carl_j_schuman,,551.814,555.952,"The state did not file a proof of claim, Your Honor, no."
+1986.85-1033,0,15071,byron_r_white,scotus_justice,560.202,574.15,"Mr. Schuman, there's no suggestion in this case that if this restitution order or this claim is discharged, that the state could not say this is a breach of probation and put them in jail?"
+1986.85-1033,0,20089,carl_j_schuman,,574.15,575.555,"--We concede that, Your Honor."
+1986.85-1033,0,15071,byron_r_white,scotus_justice,585.895,587.535,You may?
+1986.85-1033,0,20089,carl_j_schuman,,587.535,589.207,"No, we believe--"
+1986.85-1033,0,15071,byron_r_white,scotus_justice,589.207,589.613,You may not?
+1986.85-1033,0,20089,carl_j_schuman,,589.613,597.64,--We believe that if this Court finds that restitution was discharged that the anti-discrimination clauses of the Bankruptcy Code--
+1986.85-1033,0,15071,byron_r_white,scotus_justice,597.64,605.153,"Well, it was a condition of his probation that he not be... that he make restitution."
+1986.85-1033,0,20089,carl_j_schuman,,605.153,606.809,"--Yes, Your Honor."
+1986.85-1033,0,15071,byron_r_white,scotus_justice,606.809,615.477,"And maybe he can avoid some civil action against him in bankruptcy, but that's all that the discharge does, isn't it?"
+1986.85-1033,0,20089,carl_j_schuman,,615.477,617.54,The civil obligation is discharged.
+1986.85-1033,0,15071,byron_r_white,scotus_justice,619.053,632.58,"Well, do you concede that the discharge of the civil obligation means that the state can't say he's breached his probation?"
+1986.85-1033,0,20089,carl_j_schuman,,632.58,634.969,"As I understood your question, Your Honor, you were assuming--"
+1986.85-1033,0,15071,byron_r_white,scotus_justice,634.969,640.857,Can you put him in jail for claiming his discharge in bankruptcy?
+1986.85-1033,0,20089,carl_j_schuman,,640.857,649.324,--We can't put him in jail... we can put him in jail if this Court concludes that the restitution obligation was not discharged.
+1986.85-1033,0,15071,byron_r_white,scotus_justice,649.324,650.713,"Oh, yes, oh, yes."
+1986.85-1033,0,20089,carl_j_schuman,,658.695,659.211,No.
+1986.85-1033,0,15071,byron_r_white,scotus_justice,660.241,661.397,"Well, what is he free of?"
+1986.85-1033,0,20089,carl_j_schuman,,661.397,666.005,He's free... she in this case is free of the obligation to make restitution.
+1986.85-1033,0,15071,byron_r_white,scotus_justice,669.426,677.174,But is she also free... does her criminal sentence... does her probation end?
+1986.85-1033,0,20089,carl_j_schuman,,677.174,679.235,"No, her probation continues."
+1986.85-1033,0,15071,byron_r_white,scotus_justice,682.718,685.686,But that condition that she make restitution is just wiped out?
+1986.85-1033,0,20089,carl_j_schuman,,685.686,689.668,"--If this Court concludes that restitution is a debt, yes."
+1986.85-1033,0,15104,thurgood_marshall,scotus_justice,689.668,691.87,"Mr. Schuman, are you going to get to the waiver point?"
+1986.85-1033,0,20089,carl_j_schuman,,691.87,692.744,"Yes, Your Honor."
+1986.85-1033,0,15104,thurgood_marshall,scotus_justice,696.82,698.742,You brought up the waiver point.
+1986.85-1033,0,20089,carl_j_schuman,,698.742,702.162,"--the consequences of our failure to file exceptions, yes, Your Honor."
+1986.85-1033,0,15104,thurgood_marshall,scotus_justice,703.397,704.084,At your own time.
+1986.85-1033,0,20089,carl_j_schuman,,704.084,705.551,"--Thank you very much, Your Honor."
+1986.85-1033,0,15060,john_paul_stevens,scotus_justice,720.764,722.702,May I interrupt there for just a second.
+1986.85-1033,0,20089,carl_j_schuman,,727.495,729.838,In all probability we would have in this case.
+1986.85-1033,0,15060,john_paul_stevens,scotus_justice,729.838,739.006,"Well, why is it irrational, if a statute has time to become known in the legal community, why is it irrational to have the prosecutor just recognize this is one thing he has to do in these cases?"
+1986.85-1033,0,20089,carl_j_schuman,,739.006,743.458,"Because in the next case it will be extremely difficult, and in the case after that it will--"
+1986.85-1033,0,15060,john_paul_stevens,scotus_justice,743.458,744.052,Why is it difficult?
+1986.85-1033,0,20089,carl_j_schuman,,748.003,755.657,"--Let's say, Your Honor, the next case is a drunk driving case in which restitution has been imposed, and which it is on occasion in Connecticut."
+1986.85-1033,0,15060,john_paul_stevens,scotus_justice,796.219,798.389,You're saying some other case might present your problem.
+1986.85-1033,0,20089,carl_j_schuman,,802.341,805.932,"Well, ultimately we would probably win if we filed an exception to discharge."
+1986.85-1033,0,15060,john_paul_stevens,scotus_justice,805.932,806.62,Probably?
+1986.85-1033,0,20089,carl_j_schuman,,812.26,813.383,"Yes, Your Honor."
+1986.85-1033,0,15060,john_paul_stevens,scotus_justice,819.382,822.442,"Well, but that's the only case we have to decide today."
+1986.85-1033,0,20089,carl_j_schuman,,824.52,840.889,"Well, I would submit, Your Honor, that the decision in this case, if this Court concludes that restitution is a debt subject to bankruptcy, will affect restitution in all other cases, in which it will be hard in some cases and impossible in other cases for state... for prosecutors to file exceptions to bankruptcy."
+1986.85-1033,0,15060,john_paul_stevens,scotus_justice,866.347,867.722,"Well, that's not just the prosecutor."
+1986.85-1033,0,20089,carl_j_schuman,,878.655,879.405,--Certainly.
+1986.85-1033,0,15060,john_paul_stevens,scotus_justice,879.405,882.81,"And when a person defaults, isn't there a follow-up procedure that's set up?"
+1986.85-1033,0,20089,carl_j_schuman,,896.773,904.615,"Again, Your Honor, in this case I will admit that state agencies were a little perplexed because this was the first time it happened."
+1986.85-1033,0,15060,john_paul_stevens,scotus_justice,930.371,933.979,What kind of restitution could you have in a negligent homicide case?
+1986.85-1033,0,20089,carl_j_schuman,,936.275,942.601,"Well, in Connecticut restitution has been imposed in a negligent homicide case to pay the victim's funeral expenses, for example."
+1986.85-1033,0,15060,john_paul_stevens,scotus_justice,942.601,942.961,I see.
+1986.85-1033,0,20089,carl_j_schuman,,942.961,945.881,"Now, take for example a drug case."
+1986.85-1033,0,15141,william_h_rehnquist,scotus_justice,984.147,991.94,"Well, Mr. Schuman, you've certainly given us some very good practical reasons why we would want to find in your favor."
+1986.85-1033,0,20089,carl_j_schuman,,1084.137,1099.319,"Well, we contend, Your Honor, that a restitution order, although it has a compensatory effect and does constitute compensation in terms of its effect, in purpose does not serve to compensate people."
+1986.85-1033,0,15071,byron_r_white,scotus_justice,1111.424,1114.72,xxx your loss and this replaces it.
+1986.85-1033,0,20089,carl_j_schuman,,1114.72,1117.749,"--That's the effect of it, Your Honor."
+1986.85-1033,0,15071,byron_r_white,scotus_justice,1117.749,1121.075,"Well, isn't that enough to satisfy (a)(7)?"
+1986.85-1033,0,20089,carl_j_schuman,,1121.075,1124.153,"Well, Your Honor, that is an alternative argument."
+1986.85-1033,0,15092,sandra_day_oconnor,scotus_justice,1158.373,1160.34,"Well, is a criminal fine a debt?"
+1986.85-1033,0,20089,carl_j_schuman,,1160.34,1161.262,No.
+1986.85-1033,0,15092,sandra_day_oconnor,scotus_justice,1249.838,1264.16,"That comment that you're referring to in the House report was really made with regard to the provision for automatic stays, where the Congress was saying that criminal proceedings don't have to be automatically stayed."
+1986.85-1033,0,20089,carl_j_schuman,,1271.158,1278.202,"--Well, Your Honor, the comment is associated in the historical note, or in the legislative history, with the automatic stay."
+1986.85-1033,0,15049,antonin_scalia,scotus_justice,1324.981,1333.96,"523(a)(7) isn't very helpful, arguably not helpful in this case, because it is compensation for actual pecuniary loss."
+1986.85-1033,0,20089,carl_j_schuman,,1333.96,1340.895,"Well, Your Honor, we would submit that that might be its effect, but it's not its purpose, and that for the most part--"
+1986.85-1033,0,15049,antonin_scalia,scotus_justice,1340.895,1346.83,"No, I'm saying it wouldn't fit here because here it is compensation for actual pecuniary loss, wouldn't you say?"
+1986.85-1033,0,20089,carl_j_schuman,,1346.83,1347.611,"--No, I wouldn't."
+1986.85-1033,0,15049,antonin_scalia,scotus_justice,1347.611,1348.268,Why not?
+1986.85-1033,0,20089,carl_j_schuman,,1348.268,1349.268,"Well, for two reasons."
+1986.85-1033,0,15049,antonin_scalia,scotus_justice,1358.188,1361.342,Does that mean it's not compensation for actual--
+1986.85-1033,0,20089,carl_j_schuman,,1361.342,1363.717,"--Well, it's certainly not full compensation."
+1986.85-1033,0,15049,antonin_scalia,scotus_justice,1378.507,1379.007,"--Well, of course."
+1986.85-1033,0,20089,carl_j_schuman,,1406.685,1412.7,"Well, we would submit, Your Honor, that again restitution is not a compensatory device."
+1986.85-1033,0,15049,antonin_scalia,scotus_justice,1415.869,1424.553,"Even if it were, though, (a)(7) wouldn't be very useful in most cases anyway because... are these restitution remedies normally payable to a governmental unit?"
+1986.85-1033,0,20089,carl_j_schuman,,1427.348,1428.473,--Not to my knowledge.
+1986.85-1033,0,15092,sandra_day_oconnor,scotus_justice,1467.989,1469.863,"Well, why do you suppose Congress didn't say so?"
+1986.85-1033,0,20089,carl_j_schuman,,1469.863,1475.048,"Because, Your Honor, it did not need to."
+1986.85-1033,0,15104,thurgood_marshall,scotus_justice,1535.65,1539.038,Don't the U.S. Attorney's Offices have a civil division?
+1986.85-1033,0,20089,carl_j_schuman,,1539.038,1542.224,"--Yes, they do, Your Honor, yes."
+1986.85-1033,0,15104,thurgood_marshall,scotus_justice,1555.86,1559.467,Would it cost them any more than this case has?
+1986.85-1033,0,20089,carl_j_schuman,,1559.467,1560.951,"I'm sorry, Your Honor, I didn't hear the question."
+1986.85-1033,0,15104,thurgood_marshall,scotus_justice,1560.951,1567.277,Would it cost the state any more to have gone into Bankruptcy Court than it has cost you to date in this case?
+1986.85-1033,0,20089,carl_j_schuman,,1567.277,1569.791,Perhaps in this case no--
+1986.85-1033,0,15104,thurgood_marshall,scotus_justice,1569.791,1570.432,Yes or no?
+1986.85-1033,0,20089,carl_j_schuman,,1570.432,1571.182,--No.
+1986.85-1033,0,15104,thurgood_marshall,scotus_justice,1571.182,1572.104,Thank you.
+1986.85-1033,0,20089,carl_j_schuman,,1572.104,1579.243,"In other cases, the cost to society will be that a person sentenced to make restitution will be able to commit the perfect crime."
+1986.85-1033,0,15141,william_h_rehnquist,scotus_justice,1581.085,1583.554,"Thank you, Mr. Schuman."
+1986.85-1033,1,23803,francis_x_dineen,,1587.739,1596.438,Mr. Chief Justice and may it please the Court:
+1986.85-1033,1,15141,william_h_rehnquist,scotus_justice,1698.588,1703.773,And therefore it isn't a discharge... it is discharged regardless of 523(a)(7)?
+1986.85-1033,1,23803,francis_x_dineen,,1703.773,1733.885,"Therefore, I present those facts to show that this really is... that simply illustrates that this was really compensation for actual pecuniary loss, and therefore the non-dischargeability section, 523(a)(7), simply does not apply because, one, it was compensation for actual pecuniary loss; and two, as has been discussed, even though it had a penal function, it would have to have a penal function for 423(a)(7) to apply in the first instance."
+1986.85-1033,1,15071,byron_r_white,scotus_justice,1733.885,1742.898,"Well, it's interesting that the pecuniary loss language appears in the section with respect to a fine, penalty, or forfeiture."
+1986.85-1033,1,23803,francis_x_dineen,,1750.849,1753.395,"Other than restitution, no."
+1986.85-1033,1,15071,byron_r_white,scotus_justice,1753.395,1757.706,"No, do you think restitution is a fine, penalty, or forfeiture?"
+1986.85-1033,1,23803,francis_x_dineen,,1757.706,1760.314,"If it is not a fine, penalty, or forfeiture, then--"
+1986.85-1033,1,15071,byron_r_white,scotus_justice,1760.314,1767.841,"My question is, do you know of any fines, penalties, or forfeitures that are compensation for pecuniary loss."
+1986.85-1033,1,23803,francis_x_dineen,,1767.841,1768.404,--Yes.
+1986.85-1033,1,15071,byron_r_white,scotus_justice,1768.404,1769.465,What?
+1986.85-1033,1,23803,francis_x_dineen,,1769.465,1772.309,"Restitution, as in this case."
+1986.85-1033,1,15071,byron_r_white,scotus_justice,1772.309,1775.714,"So you think restitution is a fine, penalty, or forfeiture?"
+1986.85-1033,1,23803,francis_x_dineen,,1775.714,1777.058,"Yes, I think restitution is."
+1986.85-1033,1,15071,byron_r_white,scotus_justice,1813.873,1836.848,"Yes, but if you decided restitution is not a fine, penalty, or forfeiture, but that there were some fines, penalties, or forfeitures that were compensation for pecuniary loss, you would certainly conclude that Congress intended some fines to be dischargeable if they were compensation for pecuniary loss."
+1986.85-1033,1,23803,francis_x_dineen,,1836.848,1837.957,"Yes, some fines."
+1986.85-1033,1,15071,byron_r_white,scotus_justice,1841.253,1842.096,Are dischargeable.
+1986.85-1033,1,23803,francis_x_dineen,,1842.096,1845.501,"--Well, 523(a)(7) doesn't say they are dischargeable."
+1986.85-1033,1,15071,byron_r_white,scotus_justice,1860.558,1860.996,Unless.
+1986.85-1033,1,23803,francis_x_dineen,,1860.996,1865.978,"Unless, and one exception is if they're payable for the benefit of a private individual."
+1986.85-1033,1,15071,byron_r_white,scotus_justice,1865.978,1874.256,"So you think if it fit under one of the other exceptions, so be it?"
+1986.85-1033,1,23803,francis_x_dineen,,1874.256,1877.972,"If it fit under one of the other exceptions, that it would be non-dischargeable."
+1986.85-1033,1,15071,byron_r_white,scotus_justice,1906.508,1908.07,But the creditor has to come in.
+1986.85-1033,1,23803,francis_x_dineen,,1908.07,1911.178,--But the creditor has to come in under 523(c).
+1986.85-1033,1,15141,william_h_rehnquist,scotus_justice,2031.208,2040.439,"Mr. Dineen, what sort of proceedings would have taken place in the Bankruptcy Court if the state had filed a proof of its claim and made an objection?"
+1986.85-1033,1,23803,francis_x_dineen,,2040.439,2044.11,"Well, the normal proceeding is what we call an adversary proceeding."
+1986.85-1033,1,15141,william_h_rehnquist,scotus_justice,2053.654,2056.621,What are the elements that the state would have to prove?
+1986.85-1033,1,23803,francis_x_dineen,,2056.621,2061.042,"In this case, it would have to prove that this was a debt for larceny."
+1986.85-1033,1,15141,william_h_rehnquist,scotus_justice,2073.897,2080.112,Would the state court judgment be admissible or would it be conclusive on those issues?
+1986.85-1033,1,23803,francis_x_dineen,,2080.112,2096.529,"--This Court ruled in Brown against Felson that, although res judicata does not apply, that collateral estoppel may well apply with respect to issues that had been litigated in the state court, with respect to factual findings that had been litigated."
+1986.85-1033,1,15092,sandra_day_oconnor,scotus_justice,2103.338,2114.725,"Well, Mr. Dineen, if you're right, though, then a good many restitution orders that are typically entered all around the country, as in negligent homicide cases, just wouldn't qualify at all, would they?"
+1986.85-1033,1,23803,francis_x_dineen,,2114.725,2117.817,"--There are some, Your Honor--"
+1986.85-1033,1,15092,sandra_day_oconnor,scotus_justice,2117.817,2118.957,"Well, there are many."
+1986.85-1033,1,23803,francis_x_dineen,,2166.344,2179.808,"--Your Honor, I think a good deal of the restitution orders that would be entered would fit within the ambit of the various non-dischargeability sections as they appear in 523(a)."
+1986.85-1033,1,15092,sandra_day_oconnor,scotus_justice,2180.776,2182.025,Some of them might.
+1986.85-1033,1,23803,francis_x_dineen,,2182.025,2183.041,"--Yes, Your Honor."
+1986.85-1033,1,15049,antonin_scalia,scotus_justice,2353.065,2383.709,"Mr. Dineen, as to those, as to those restitution orders that the provisions of the Bankruptcy Code don't happen to provide for... and you must admit, it seems to be sort of haphazard as to whether they will provide for them or not... it's not only a question of the judge when entering such a restitution order having to have in mind what the consequences will be, as you've describe them and as any creditor must do, although it seems strange to analogize a judge giving a sentence to a creditor."
+1986.85-1033,1,23803,francis_x_dineen,,2419.272,2422.568,There was a time gap between the enactment--
+1986.85-1033,1,15049,antonin_scalia,scotus_justice,2422.568,2423.037,That's right.
+1986.85-1033,1,23803,francis_x_dineen,,2423.037,2426.41,"--and the promulgation of the code, and actually the code taking effect, too."
+1986.85-1033,1,15049,antonin_scalia,scotus_justice,2426.41,2435.205,"And you're asking us to read the statute to in effect amount to the Federal Government saying: Yes, there are a lot of state criminal penalties out there, but we're going to set them aside."
+1986.85-1033,1,23803,francis_x_dineen,,2436.095,2446.279,"Well, yes, the Bankruptcy Code does establish a set of priorities, a set of kinds of conduct that are not going to be discharged."
+1986.85-1033,1,15092,sandra_day_oconnor,scotus_justice,2470.347,2492.165,"Well, Congress may have had in mind only, though, those obligations arising out of the civil system, and perhaps it didn't have in mind at all abrogating existing systems of criminal law and procedures in the various 52 states."
+1986.85-1033,1,23803,francis_x_dineen,,2492.165,2502.177,"The reason why we claim that this provision relates to criminal fines and penalties and forfeitures, I've stated them generally in the brief."
+1986.85-1033,1,15071,byron_r_white,scotus_justice,2562.247,2563.137,They were not discharged.
+1986.85-1033,1,23803,francis_x_dineen,,2563.137,2566.871,"--That is correct, they were not discharged nor were they allowed."
+1986.85-1033,1,15071,byron_r_white,scotus_justice,2568.322,2569.151,And you didn't have to file.
+1986.85-1033,1,23803,francis_x_dineen,,2569.151,2570.245,"I beg your pardon, Your Honor?"
+1986.85-1033,1,15071,byron_r_white,scotus_justice,2570.245,2571.743,You didn't have to file.
+1986.85-1033,1,23803,francis_x_dineen,,2574.898,2577.367,You did not have to file a claim.
+1986.85-1033,1,15071,byron_r_white,scotus_justice,2577.367,2579.272,And they weren't considered a debt.
+1986.85-1033,1,23803,francis_x_dineen,,2579.272,2581.505,That is correct.
+1986.85-1033,1,15071,byron_r_white,scotus_justice,2608.919,2614.043,"How would restitution have been treated under the old Act, restitution orders?"
+1986.85-1033,1,23803,francis_x_dineen,,2615.995,2618.041,"--Well, it's interesting, Your Honor--"
+1986.85-1033,1,15071,byron_r_white,scotus_justice,2618.041,2625.476,"You said a while ago that a restitution order, a criminal restitution order, could very well be considered a fine, penalty, or forfeiture."
+1986.85-1033,1,23803,francis_x_dineen,,2625.476,2626.601,--And as I said--
+1986.85-1033,1,15071,byron_r_white,scotus_justice,2626.601,2635.254,"And hence, under the old law it shouldn't have been dischargeable, shouldn't have been provably wouldn't have been a debt."
+1986.85-1033,1,23803,francis_x_dineen,,2638.988,2653.921,"--Because the Congress made a significant change both in the definition of what is a debt, what is a claim, and the legislative history that this Court has cited in the case of Ohio against Kovacs said it's the broadest possible definition."
+1986.85-1033,1,15071,byron_r_white,scotus_justice,2664.478,2670.601,Did the non-dischargeability of fines and forfeitures under the old law appear in the non-dischargeability section?
+1986.85-1033,1,23803,francis_x_dineen,,2670.601,2672.834,"Under the old law, no."
+1986.85-1033,1,15071,byron_r_white,scotus_justice,2672.834,2673.475,"No, it didn't."
+1986.85-1033,1,23803,francis_x_dineen,,2674.473,2675.458,Yes.
+1986.85-1033,1,15071,byron_r_white,scotus_justice,2675.458,2685.72,"And you don't have... to say something is non-dischargeable, you're excluding those claims or debts that are not dischargeable?"
+1986.85-1033,1,23803,francis_x_dineen,,2685.72,2693.077,"You're saying that they're not dischargeable, but on the other hand you're allowing them--"
+1986.85-1033,1,15071,byron_r_white,scotus_justice,2693.077,2701.121,"Well, you're saying the reason they're not dischargeable, the reason you say that they're not dischargeable is because they are a claim, and you want to exclude certain claims from dischargeability."
+1986.85-1033,1,23803,francis_x_dineen,,2701.121,2705.573,"--Yes, I'm saying fines and penalties and forfeitures are--"
+1986.85-1033,1,15071,byron_r_white,scotus_justice,2705.573,2707.789,Otherwise it wouldn't be in (a)(7).
+1986.85-1033,1,23803,francis_x_dineen,,2707.789,2708.383,--That's correct.
+1986.85-1033,1,15141,william_h_rehnquist,scotus_justice,2710.273,2716.49,"So that tends to support your argument that fines and penalties are debts, because otherwise they wouldn't be excepted from discharge."
+1986.85-1033,1,23803,francis_x_dineen,,2716.49,2718.552,"Precisely, Your Honor."
+1986.85-1033,1,15049,antonin_scalia,scotus_justice,2718.974,2721.722,"xxx possibilities, of course."
+1986.85-1033,1,23803,francis_x_dineen,,2721.722,2723.503,--That's a possibility.
+1986.85-1033,1,15071,byron_r_white,scotus_justice,2764.534,2771.188,"But the non-dischargeability, so-called, wasn't written into the statute, was it, under the old law?"
+1986.85-1033,1,23803,francis_x_dineen,,2771.188,2773.219,"Under the old law, it was not, it was not."
+1986.85-1033,1,15071,byron_r_white,scotus_justice,2773.219,2776.875,You couldn't find anything about fines and penalties in the old law.
+1986.85-1033,1,23803,francis_x_dineen,,2776.875,2782.247,"Only in the allowability section, 57(j), which said penalties and forfeitures were not allowed."
+1986.85-1033,1,15071,byron_r_white,scotus_justice,2782.247,2782.7,Not allowed.
+1986.85-1033,1,23803,francis_x_dineen,,2782.7,2785.465,"But in the dischargeability, no, you could not find it."
+1986.85-1033,1,15071,byron_r_white,scotus_justice,2811.953,2816.624,But claims or debts are still allowable or not allowable.
+1986.85-1033,1,23803,francis_x_dineen,,2816.624,2824.98,"Yes, fines and penalties and forfeitures are now allowed and will be paid, but they have a reduced level of priority in the code."
+1986.85-1033,1,15092,sandra_day_oconnor,scotus_justice,2849.376,2863.543,"Is it possible that that second exception, not for pecuniary loss, might mean loss to the Government itself, the governmental entity imposing the fine, and be limited to that?"
+1986.85-1033,1,23803,francis_x_dineen,,2867.65,2874.554,"Well, we have some history about the phrase to the extent that really that language came out of 57(j)."
+1986.85-1033,2,20089,carl_j_schuman,,3374.568,3376.115,"Yes, Mr. Chief Justice."
+1986.85-1033,2,15141,william_h_rehnquist,scotus_justice,3473.591,3475.216,"Thank you, Mr. Schuman."

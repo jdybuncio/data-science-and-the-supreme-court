@@ -1,0 +1,182 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1991.90-7477,0,15141,william_h_rehnquist,scotus_justice,0.0,9.122,"We'll hear argument now in 90-7477, William Lewis Smith v. Wayne S. Barry."
+1991.90-7477,0,41365,steven_h_goldblatt,,10.513,12.824,"Mr. Chief Justice, and may it please the Court:"
+1991.90-7477,0,15045,harry_a_blackmun,scotus_justice,65.147,67.27,"That's rather a trap, isn't it?"
+1991.90-7477,0,41365,steven_h_goldblatt,,67.27,73.954,There is no argument made here that that notice of appeal on its own may vest jurisdiction.
+1991.90-7477,0,15141,william_h_rehnquist,scotus_justice,91.901,97.476,"The original of... at least when I used to practice, the original of the notice of appeal was filed with the district court."
+1991.90-7477,0,41365,steven_h_goldblatt,,98.601,99.882,"That is correct, Mr. Chief Justice."
+1991.90-7477,0,15092,sandra_day_oconnor,scotus_justice,113.829,117.844,But the brief here was not filed with the district court.
+1991.90-7477,0,41365,steven_h_goldblatt,,117.844,119.342,"--That is correct, Justice O'Connor."
+1991.90-7477,0,15092,sandra_day_oconnor,scotus_justice,121.56,125.09,And yet you want the brief to be considered the notice of appeal.
+1991.90-7477,0,41365,steven_h_goldblatt,,125.09,126.324,That is correct.
+1991.90-7477,0,15113,anthony_m_kennedy,scotus_justice,148.409,158.514,"Would your rule be that any appellant's brief is a sufficient notice of appeal, or is it somehow confined to the circumstances present in this case?"
+1991.90-7477,0,41365,steven_h_goldblatt,,158.514,173.134,"I think the rule that we're relying on is the rule that's stated in the comment to Rule 3(c), which is that any paper that serves the function of notice will vest jurisdiction in the court of appeals."
+1991.90-7477,0,15113,anthony_m_kennedy,scotus_justice,173.134,180.771,"So if you prevail, then any appellant can satisfy the notice of appeal by simply filing a brief."
+1991.90-7477,0,41365,steven_h_goldblatt,,180.771,197.967,"I think the answer to that would be yes, but I would qualify it by saying that in the ordinary course that is not likely to occur, and I think a brief like any... it would be... the modification in this case would be to say that a brief cannot serve that purpose, although any other document can, Justice Kennedy."
+1991.90-7477,0,15113,anthony_m_kennedy,scotus_justice,197.967,215.913,"The problem, of course, with that is that notice of appeal is really what starts the time ticking for compiling of the record, and without having the record before them, the appellee who has to answer the brief within the prescribed time is at a serious disadvantage."
+1991.90-7477,0,41365,steven_h_goldblatt,,230.641,233.109,I think the equities are what should prevail here.
+1991.90-7477,0,15113,anthony_m_kennedy,scotus_justice,236.561,247.166,"Well, if the equities prevail I want... I need to know what the rule is, and of course not all the equities are on your side, since your client's own attorney advised him that the original notice of appeal was invalid."
+1991.90-7477,0,41365,steven_h_goldblatt,,247.166,256.942,"--That's correct, Justice Kennedy, but at the time that his attorney sent him that letter, which is in the Joint Appendix, he was under instructions from the Fourth Circuit to file a brief."
+1991.90-7477,0,15049,antonin_scalia,scotus_justice,290.523,304.08,"But the rule about not being able to take it... you know, if you take it too soon it's ineffective, that doesn't seem to me to be consistent with this rule you're urging upon us, is it?"
+1991.90-7477,0,41365,steven_h_goldblatt,,304.08,304.284,I think it is.
+1991.90-7477,0,15049,antonin_scalia,scotus_justice,317.685,325.243,But why would the rule state that if the rule maker was only concerned about the other side having notice?
+1991.90-7477,0,41365,steven_h_goldblatt,,332.257,364.9,"And that would apply to the notice of appeal that he in fact filed, but for purposes of what is known as the functional equivalent doctrine, that brief that he filed in the appellate court within the appropriate 30-day time frame served every purpose that the other side would have gotten had he filed a new notice of appeal, as the rules would otherwise require, and that concept that an equivalent document, if it serves the purpose of notice, vests jurisdiction, has its origins in Rule 3(c) itself, in the comment to Rule 3(c), and in fact even before the 1979 amendments."
+1991.90-7477,0,15141,william_h_rehnquist,scotus_justice,434.418,442.057,Could a court of appeals suspend the 30-day time limit for filing a notice of appeal?
+1991.90-7477,0,41365,steven_h_goldblatt,,442.057,455.362,"--No it could not, because under Rule 26(b)... Rule 2 is specifically limited by Rule 26(b), which says nothing in these rules shall give the courts the authority to extend the time for filing an appeal, and 26(b) is the limit on the equitable powers of the court."
+1991.90-7477,0,15092,sandra_day_oconnor,scotus_justice,456.909,476.245,"Mr. Goldblatt, the form of brief that was filed here does not expressly name the individuals against whom the claims are being made, does it?"
+1991.90-7477,0,41365,steven_h_goldblatt,,476.245,477.605,"That is correct, Justice O'Connor, it does not."
+1991.90-7477,0,15092,sandra_day_oconnor,scotus_justice,477.605,493.725,"And it would be quite a stretch, wouldn't it, to say that whatever else it might do that it gave any kind of notice to Dr. Barry, who'd been dismissed years before by the court."
+1991.90-7477,0,41365,steven_h_goldblatt,,497.364,501.423,"It provided notice to Barry, Justice O'Connor, because it was served upon Dr. Barry."
+1991.90-7477,0,15092,sandra_day_oconnor,scotus_justice,505.75,516.933,"Do you think that a fair reading of it would give any indication that Dr. Barry was subject to it, or being noticed?"
+1991.90-7477,0,41365,steven_h_goldblatt,,516.933,527.055,"--I think so, if one distinguishes between notice merely alerting the party that the judgment has an appeal... been appealed, as opposed to notice of what the issues are that you intend to raise."
+1991.90-7477,0,15049,antonin_scalia,scotus_justice,543.347,555.684,"Yes, and if I got a notice of appeal I would understand that to be the case, and therefore I would think even though it doesn't name my... the cause of action against me in particular, I have got to assume that it may involve me."
+1991.90-7477,0,41365,steven_h_goldblatt,,565.275,575.504,"I think not, and I think an example of that is certainly Dr. Barry, even before he received that brief, just by having notice that an appeal had been taken, he had identified the very issue that we ultimately, when we were appointed, raised in the case."
+1991.90-7477,0,15049,antonin_scalia,scotus_justice,606.587,617.285,"If this brief hadn't been filed within the 30-day period after final... suppose the final judgment still hadn't entered when this brief was filed, then you'd be out of court?"
+1991.90-7477,0,41365,steven_h_goldblatt,,617.285,618.675,"Yes, I would, Justice Scalia."
+1991.90-7477,0,15049,antonin_scalia,scotus_justice,618.675,620.643,Until you filed your reply brief.
+1991.90-7477,0,41365,steven_h_goldblatt,,624.158,633.389,"I would suggest that any document that served the purpose of notice, if it's filed within the 30-day time frame, under the rule, under the Advisory Committee note, will serve the purpose."
+1991.90-7477,0,15042,david_h_souter,scotus_justice,663.986,665.61,"But it did one thing more, didn't it?"
+1991.90-7477,0,41365,steven_h_goldblatt,,682.652,710.342,"Justice Souter, my answer there, I think is that here you have to look at that pleading as a pro se pleading, so I don't think the Court would look at that pleading if it was submitted by a lawyer in the same way, and that is with solicitude, and I think that when he answers the question, what relief do you want, a new trial on all issues triable by jury, that gave the other side enough information to recognize the possibility of any issue being raised on appeal."
+1991.90-7477,0,15141,william_h_rehnquist,scotus_justice,710.342,715.247,"Well, you say that that is the same as saying you're appealing from the final judgment."
+1991.90-7477,0,41365,steven_h_goldblatt,,715.247,719.636,"Mr. Chief Justice, yes, I am, for a pro se litigant."
+1991.90-7477,0,15141,william_h_rehnquist,scotus_justice,719.636,721.027,What's your authority for that?
+1991.90-7477,0,41365,steven_h_goldblatt,,721.027,726.852,"I don't have any express authority, other than this Court's admonition that pro se pleadings are to be construed liberally."
+1991.90-7477,0,15141,william_h_rehnquist,scotus_justice,729.585,733.005,"Well, we said that about a pleading which attempts to state a claim for relief."
+1991.90-7477,0,41365,steven_h_goldblatt,,735.942,738.862,Not to my knowledge.
+1991.90-7477,0,15141,william_h_rehnquist,scotus_justice,749.639,751.544,And why should we construe a notice of appeal liberally?
+1991.90-7477,0,41365,steven_h_goldblatt,,751.544,757.074,--Because the alternative is to have cases dismissed for want of jurisdiction.
+1991.90-7477,0,15141,william_h_rehnquist,scotus_justice,757.074,758.667,"Well, what's the matter with that?"
+1991.90-7477,0,41365,steven_h_goldblatt,,758.667,765.305,"The problem with that, I think, particularly for pro se litigants... first of all, I think Rule 3(c) itself says that it's not to occur."
+1991.90-7477,0,15141,william_h_rehnquist,scotus_justice,782.235,789.092,"Well, but how many rules do we have to bend to give the sort of breaks you want given to pro se litigants?"
+1991.90-7477,0,41365,steven_h_goldblatt,,789.092,795.543,I don't think you have to bend anything more than the solicitude that their pleadings are entitled to.
+1991.90-7477,0,15141,william_h_rehnquist,scotus_justice,802.774,809.678,"So then you really don't have to rely, you say, on any particular solicitude for pro se litigants."
+1991.90-7477,0,41365,steven_h_goldblatt,,809.678,810.786,I don't think we have to.
+1991.90-7477,0,15049,antonin_scalia,scotus_justice,831.637,837.525,"Do you have any case that involves a document such as this, which is not even intended as a notice of appeal?"
+1991.90-7477,0,41365,steven_h_goldblatt,,853.05,876.307,"Justice Scalia, that language, if you look to the explanation in the Advisory Committee note, which this Court has of course indicated is of significance in interpreting this, refers to a Judge Wisdom opinion in Cobb v. Lewis where a petition to appeal under 1292(b) was allowed... was denied, but the court treated it as a notice of appeal under 1292(a)."
+1991.90-7477,0,15049,antonin_scalia,scotus_justice,891.067,896.236,"You don't think it referred to just the holding of the case, you think it referred to every example that the case gave?"
+1991.90-7477,0,41365,steven_h_goldblatt,,896.236,922.647,"--I think it did, especially in light of the reference in the 1967 comment to Coppedge v. United States, which is a case decided by this Court, in which the Court in a footnote indicated pro se appellants have not had trouble with the notice of appeal requirements because of the liberal attitude the courts have taken, and proceeded to string-cite any number of cases, including motions to proceed in forma pauperis, letters to judges, any manner of document that can serve notice."
+1991.90-7477,0,15049,antonin_scalia,scotus_justice,934.377,942.827,"Should the court of appeals have taken this brief and sent it down to the district court for filing there, as it's supposed to do when it erroneously gets a notice of appeal?"
+1991.90-7477,0,41365,steven_h_goldblatt,,946.091,946.841,That's what Rule 4 says.
+1991.90-7477,0,15049,antonin_scalia,scotus_justice,948.215,949.527,"Didn't do that, did it?"
+1991.90-7477,0,41365,steven_h_goldblatt,,949.527,950.027,"--No, because--"
+1991.90-7477,0,15049,antonin_scalia,scotus_justice,950.027,951.464,So the court didn't think it was a notice of appeal.
+1991.90-7477,0,41365,steven_h_goldblatt,,951.464,956.476,"--Well, no, the court actually appointed counsel to brief the question of whether it was a notice of appeal or not."
+1991.90-7477,0,15049,antonin_scalia,scotus_justice,961.475,961.756,Would have sent it down to the district court.
+1991.90-7477,0,41365,steven_h_goldblatt,,961.756,965.474,"In other words, I think this isn't the type of situation where you necessarily collapse the rules."
+1991.90-7477,0,15113,anthony_m_kennedy,scotus_justice,1031.492,1058.671,"Yes, except that an appellant's brief, as I've indicated, starts the time ticking for the filing of a responding brief, and at that point there is no record, so it seems to me quite plausible to say that we do have a rule that a brief cannot be a notice of appeal, because otherwise all of the time limits in the Federal Rules of Appellate Procedure are skewed."
+1991.90-7477,0,41365,steven_h_goldblatt,,1058.671,1064.044,"Justice Kennedy, the reason we get this informal brief is because he filed an untimely notice of appeal."
+1991.90-7477,0,15060,john_paul_stevens,scotus_justice,1103.309,1110.15,Plus the fact I suppose such a brief would seldom be filed within the time permitted for a notice of appeal.
+1991.90-7477,0,41365,steven_h_goldblatt,,1110.15,1120.802,"Justice Stevens, I would say for lawyers that would be almost remarkable that that would be done, and they're not going to file a brief 40 days early to avoid filing a one-page document."
+1991.90-7477,0,15141,william_h_rehnquist,scotus_justice,1238.458,1240.13,"Very well, Mr. Goldblatt."
+1991.90-7477,1,20540,david_h_bamberger,,1241.864,1254.61,"Mr. Chief Justice, and may it please the Court:"
+1991.90-7477,1,15141,william_h_rehnquist,scotus_justice,1351.04,1358.333,"You're referring to some of the court decisions that are referred to in, say, the footnote in Coppedge or something like that?"
+1991.90-7477,1,20540,david_h_bamberger,,1358.333,1360.488,"--Yes, Mr. Chief Justice, that's correct."
+1991.90-7477,1,15092,sandra_day_oconnor,scotus_justice,1396.27,1405.72,"Mr. Bamberger, do you agree with the Fourth Circuit's suggestion that an appellate brief can never serve as a notice of appeal?"
+1991.90-7477,1,20540,david_h_bamberger,,1405.72,1407.937,"Yes, Justice O'Connor, that would be our position."
+1991.90-7477,1,15049,antonin_scalia,scotus_justice,1407.937,1424.041,"Well, couldn't one maintain that position and say that all it leads to is the conclusion that once you decide it will be treated as a notice of appeal it shall no longer be treated as a brief?"
+1991.90-7477,1,20540,david_h_bamberger,,1445.64,1450.374,"I believe it does, Justice Scalia, in the sense that what the rules really require are two separate filings."
+1991.90-7477,1,15049,antonin_scalia,scotus_justice,1450.374,1450.64,Right.
+1991.90-7477,1,20540,david_h_bamberger,,1450.64,1468.82,"And it is true that Rule 3 states that informality of form or title would not be the basis for disallowing a notice of appeal, so hypothetically I suppose if were titled, brief, and it were treated as a notice of appeal, there would be a requirement for a second filing of a document that would serve as a brief."
+1991.90-7477,1,15060,john_paul_stevens,scotus_justice,1472.864,1474.724,Why can't we do that in this case?
+1991.90-7477,1,20540,david_h_bamberger,,1474.724,1478.69,--There was no further brief.
+1991.90-7477,1,15060,john_paul_stevens,scotus_justice,1478.69,1480.346,"Well, but the court didn't need it."
+1991.90-7477,1,20540,david_h_bamberger,,1501.26,1504.431,It's clear that the court of appeals in this case did not treat--
+1991.90-7477,1,15060,john_paul_stevens,scotus_justice,1504.431,1508.49,"Well, I understand, but the question is whether... your position is, it didn't have power to treat it as a notice of appeal."
+1991.90-7477,1,20540,david_h_bamberger,,1508.49,1508.85,--Yes.
+1991.90-7477,1,15060,john_paul_stevens,scotus_justice,1508.85,1509.475,Yes.
+1991.90-7477,1,20540,david_h_bamberger,,1509.475,1511.161,That's correct.
+1991.90-7477,1,15060,john_paul_stevens,scotus_justice,1547.1,1554.159,I thought you just answered that argument a moment ago by saying the court could treat one... treat the brief as a notice and then require another brief.
+1991.90-7477,1,20540,david_h_bamberger,,1556.315,1560.049,"--Perhaps I misunderstood your question, Justice Stevens."
+1991.90-7477,1,15060,john_paul_stevens,scotus_justice,1560.049,1572.122,"You're saying that because it's labeled a brief and has all the contents of a brief, the court has no power to treat it as a notice of appeal and say, Mr. Appellant, you've filed the wrong document, please now file a further brief."
+1991.90-7477,1,20540,david_h_bamberger,,1572.122,1575.605,The rules require two separate filings.
+1991.90-7477,1,15060,john_paul_stevens,scotus_justice,1575.605,1588.224,"Well, I know, and I'm hypothesizing a case in which a brief is filed incorrectly that has all the requirements of complying with the rules and the court, concerned about the concern you're describing now, says, we're entitled to two documents."
+1991.90-7477,1,20540,david_h_bamberger,,1599.578,1602.952,"It could take... yes, Justice Stevens, it could take care of it."
+1991.90-7477,1,15060,john_paul_stevens,scotus_justice,1602.952,1607.201,"Because we're not talking about questions of administration, we're talking about questions of power."
+1991.90-7477,1,20540,david_h_bamberger,,1607.201,1608.013,Yes.
+1991.90-7477,1,15092,sandra_day_oconnor,scotus_justice,1614.182,1624.523,So you're backing away from the answer you gave me earlier in saying that you take the position that a brief can never serve as a notice of appeal.
+1991.90-7477,1,20540,david_h_bamberger,,1628.771,1643.405,"--Justice O'Connor, if a paper is filed... and I'm not sure what the absolute... what the complete hypothetical is, but if a paper is filed which fulfills the content requirements of Rule 3, it could be treated by the court as--"
+1991.90-7477,1,15092,sandra_day_oconnor,scotus_justice,1643.405,1647.247,Even if it's a brief... an appellate brief.
+1991.90-7477,1,20540,david_h_bamberger,,1647.247,1649.513,"--If it were designated as such, yes."
+1991.90-7477,1,15092,sandra_day_oconnor,scotus_justice,1649.513,1654.557,"Designated as a brief, but meets all the requirements of giving notice."
+1991.90-7477,1,20540,david_h_bamberger,,1654.557,1654.823,Yes.
+1991.90-7477,1,15092,sandra_day_oconnor,scotus_justice,1654.823,1657.541,It could be treated as a notice of appeal.
+1991.90-7477,1,20540,david_h_bamberger,,1657.541,1658.337,Yes.
+1991.90-7477,1,15092,sandra_day_oconnor,scotus_justice,1658.337,1660.867,"Okay, and that's not the answer you gave me previously."
+1991.90-7477,1,20540,david_h_bamberger,,1660.867,1662.32,I'm sorry if I misspoke.
+1991.90-7477,1,15113,anthony_m_kennedy,scotus_justice,1665.632,1677.486,"And I take it the circuit, under its internal operating procedures, could not say in cases of this type that the notice of appeal shall also include an informal statement of the issues to be relied upon."
+1991.90-7477,1,20540,david_h_bamberger,,1681.28,1685.888,"--According to the Federal Rules of Appellate Procedures, it contemplates two papers."
+1991.90-7477,1,15113,anthony_m_kennedy,scotus_justice,1685.888,1690.839,"Well, suppose the two papers... one paper has two captions."
+1991.90-7477,1,20540,david_h_bamberger,,1699.133,1715.533,"Justice Scalia, with all due deference to the concept of solicitude for pro se litigants or for incarcerated individuals, I would submit that it's not requiring too much of an individual to know what a brief is."
+1991.90-7477,1,15113,anthony_m_kennedy,scotus_justice,1723.357,1731.432,"Well, this circuit specifically does not require that a brief be filed, because it has a procedure for these informal briefs, which is just the court's form."
+1991.90-7477,1,20540,david_h_bamberger,,1738.383,1761.06,"Well, at the same time the court has a procedure for entering an order that, although it does not mandate the filing of an informal brief, requires the clerk to send the briefs out to counsel and to the pro se parties with an instruction that if the briefs are to be filed, they must be filed by a certain date, which would certainly be a strong suggestion that the court would be interested in having the issues briefed."
+1991.90-7477,1,15060,john_paul_stevens,scotus_justice,1800.795,1806.917,"May I ask, just because it was raised earlier, do you rely at all on the fact that it was... the document was filed in the wrong court?"
+1991.90-7477,1,20540,david_h_bamberger,,1806.917,1808.229,"No, Your Honor."
+1991.90-7477,1,15141,william_h_rehnquist,scotus_justice,1808.229,1824.114,"Mr. Bamberger, if a brief, as you now apparently think, could serve as a notice of appeal, why did this brief not serve as a notice of appeal?"
+1991.90-7477,1,20540,david_h_bamberger,,1824.114,1830.174,"In this instance, the brief was filed as a brief, it was not treated by the court as such."
+1991.90-7477,1,15141,william_h_rehnquist,scotus_justice,1832.579,1841.934,"So if the court of appeals had treated this as a notice of appeal, that would make it different for our purposes?"
+1991.90-7477,1,20540,david_h_bamberger,,1841.934,1843.761,"Perhaps, Your Honor."
+1991.90-7477,1,15141,william_h_rehnquist,scotus_justice,1843.761,1845.48,You say perhaps.
+1991.90-7477,1,20540,david_h_bamberger,,1850.103,1876.483,"In this instance, the brief did not reflect the level of intention, the level of control, the level of specificity, that's required by the rules to constitute a notice of appeal, nor did it reflect the level of intention which typically in prior case law has been required to recognize another paper as the functional equivalent of a notice of appeal."
+1991.90-7477,1,15141,william_h_rehnquist,scotus_justice,1893.725,1906.877,"So when you say that an appellate brief could serve as a notice of appeal, what you meant was something that had everything that you would have in a notice of appeal, but was simply captioned as his appellate brief."
+1991.90-7477,1,20540,david_h_bamberger,,1906.877,1919.701,"Yes, that is what I meant, because Rule 3(c) clearly requires that informality of title shall not preclude the notice of appeal serving as such, so if someone inadvertently captioned it, brief, then that would not stand in the way."
+1991.90-7477,1,15060,john_paul_stevens,scotus_justice,1930.508,1944.002,"Yes, but may I ask this: supposing the document filed, the first page of it was a carbon copy out of the forms that attach to the rules... a notice of appeal naming the party, and so forth... and then the next 30 pages were a legal argument with a summary of argument and citation of authorities, and so forth."
+1991.90-7477,1,20540,david_h_bamberger,,1945.736,1948.126,--The rules require two filings.
+1991.90-7477,1,15060,john_paul_stevens,scotus_justice,1948.126,1966.274,"I know, but say he made the mistake of filing them both at the same time under one cover, the first page has just everything in it you put in the notice of appeal, but it's not even called notice of appeal, it just has the information there, and then the rest of it's just a brief and the caption is called, brief, appellant's brief."
+1991.90-7477,1,20540,david_h_bamberger,,1971.522,1973.63,And that's the only document that would be filed?
+1991.90-7477,1,15060,john_paul_stevens,scotus_justice,1973.63,1974.13,It's the only document that's filed.
+1991.90-7477,1,20540,david_h_bamberger,,1974.13,1977.145,"The rules require two filings, Justice Stevens."
+1991.90-7477,1,15060,john_paul_stevens,scotus_justice,1977.145,1978.88,"But your answer is, that would not be sufficient."
+1991.90-7477,1,20540,david_h_bamberger,,1978.88,1979.208,"Yes, sir."
+1991.90-7477,1,15113,anthony_m_kennedy,scotus_justice,1980.253,2009.116,"It seems to me that the petitioner here could argue that the appellees, or the putative appellees, had far more notice of what the issues were and what the judgment was and what the basis of the appeal was from this informal brief than it would from just the one-line statement that's required by the rules that notice is hereby given that an appeal is taken... want a new trial, he complains about medical evidence, he complains about his counsel."
+1991.90-7477,1,20540,david_h_bamberger,,2027.89,2031.452,"I guess in response to that, Justice Kennedy, I would say two things."
+1991.90-7477,1,15042,david_h_souter,scotus_justice,2059.362,2061.471,"Yes, but we don't have to stretch it that far."
+1991.90-7477,1,20540,david_h_bamberger,,2081.822,2094.426,"Justice Souter, with respect to even the defendants who defended the case at trial, there were certain defendants who got out on directed verdict, there were others against whom only one claim was tried."
+1991.90-7477,1,15042,david_h_souter,scotus_justice,2105.297,2111.483,"Isn't the answer to that to ask him what he means, rather than say he can't appeal anything at all?"
+1991.90-7477,1,20540,david_h_bamberger,,2111.483,2136.752,"Well, again, as I stated earlier, I think you could probably take virtually any appellate brief and say that it sufficiently discusses the issues to provide notice and it also identifies the party taking the appeal and the court to whom the appeal is being taken, but yet the rules require two separate filings, the giving of notice first, and then, at a later date, the brief."
+1991.90-7477,1,15042,david_h_souter,scotus_justice,2136.752,2139.423,"They don't really require two separate filings, do they?"
+1991.90-7477,1,20540,david_h_bamberger,,2155.246,2165.771,"I believe that once a notice of appeal, a proper notice of appeal has been filed, the normal process would be for the appellate court to issue an order as to the date when briefs are due."
+1991.90-7477,1,15042,david_h_souter,scotus_justice,2165.771,2180.859,"Oh, perfectly true, and if one party doesn't file a brief the appellate court can take whatever action is appropriate, but the question is, did they... was appellate jurisdiction established, and the fact is, all you need is one document to do that, you don't need two."
+1991.90-7477,1,20540,david_h_bamberger,,2182.531,2184.187,That is true.
+1991.90-7477,1,15071,byron_r_white,scotus_justice,2303.749,2316.883,"Well, I take it you aren't really defending the court of appeals decision that a brief can never operate as a notice of appeal."
+1991.90-7477,1,20540,david_h_bamberger,,2316.883,2333.907,"What I'm suggesting, Justice White, is that a document which fulfills the content requirements of a notice of appeal but is simply captioned, brief, I would not suggest that that is invalid, because the rule clearly states--"
+1991.90-7477,1,15071,byron_r_white,scotus_justice,2333.907,2336.329,"Well, what do you think the court of appeals held in this case?"
+1991.90-7477,1,20540,david_h_bamberger,,2345.34,2349.306,"--They relied on the Cooper case, and--"
+1991.90-7477,1,15071,byron_r_white,scotus_justice,2349.306,2350.322,"Well, what did it say?"
+1991.90-7477,1,20540,david_h_bamberger,,2355.773,2357.475,"--Yes, that's right."
+1991.90-7477,1,15071,byron_r_white,scotus_justice,2357.475,2360.49,"And you're not defending that, I don't think."
+1991.90-7477,1,20540,david_h_bamberger,,2361.927,2371.689,"I'm trying to draw a distinction, Justice White, between a document that is essentially a notice of appeal that is miscaptioned, which was a hypothetical that we discussed earlier--"
+1991.90-7477,1,15071,byron_r_white,scotus_justice,2371.689,2380.358,"Well, what if we think the court of appeals was just wrong on saying it can never operate as a notice of appeal?"
+1991.90-7477,1,20540,david_h_bamberger,,2388.37,2392.665,--I guess that would be the result--
+1991.90-7477,1,15071,byron_r_white,scotus_justice,2392.665,2400.194,"Because we... you know, there are a lot of things about this case that we probably don't know."
+1991.90-7477,1,20540,david_h_bamberger,,2418.233,2428.744,"--If it came down to deciding which briefs do and which briefs don't serve as a notice of appeal, that certainly would appear to be a function more appropriate to the court of appeals, based on the facts of this particular case."
+1991.90-7477,1,15060,john_paul_stevens,scotus_justice,2439.458,2443.52,May I ask you a kind of related question?
+1991.90-7477,1,20540,david_h_bamberger,,2458.171,2462.044,"I'm not sure I'm prepared to answer that, Justice Stevens."
+1991.90-7477,1,15071,byron_r_white,scotus_justice,2513.21,2524.736,"Did the court of appeals rely on the things you were just talking about for turning down... for dismissing the case, that contentwise it wasn't sufficient?"
+1991.90-7477,1,20540,david_h_bamberger,,2524.736,2527.205,"No, it did not, it excluded it from its holding."
+1991.90-7477,1,15141,william_h_rehnquist,scotus_justice,2579.575,2581.575,"Thank you, Mr. Bamberger."
+1991.90-7477,2,41365,steven_h_goldblatt,,2584.683,2586.353,"Thank you, Mr. Chief Justice."
+1991.90-7477,2,15049,antonin_scalia,scotus_justice,2600.988,2617.278,"Well, I think they did rely in addition to... upon the broadest ground, upon the somewhat narrower ground that this particular brief wasn't even a brief initiated by this appellant but was in response to the request."
+1991.90-7477,2,41365,steven_h_goldblatt,,2618.356,2624.806,"They make reference to that, they make reference to the fact that solicitude that ordinarily would be given would not necessarily--"
+1991.90-7477,2,15049,antonin_scalia,scotus_justice,2624.806,2626.853,They don't refer to the incompleteness of the content.
+1991.90-7477,2,41365,steven_h_goldblatt,,2626.853,2627.727,--But then they--
+1991.90-7477,2,15049,antonin_scalia,scotus_justice,2627.727,2633.334,"But they do say, this is not even your ordinary brief, it's a step below that."
+1991.90-7477,2,41365,steven_h_goldblatt,,2637.988,2639.145,--That's correct.
+1991.90-7477,2,15113,anthony_m_kennedy,scotus_justice,2695.497,2698.793,How did that sequence come about?
+1991.90-7477,2,41365,steven_h_goldblatt,,2700.449,2700.965,The informal--
+1991.90-7477,2,15113,anthony_m_kennedy,scotus_justice,2700.965,2702.572,--And then there's a question about jurisdiction--
+1991.90-7477,2,41365,steven_h_goldblatt,,2702.572,2708.633,"--The way... no, the way... Barry files his informal brief, Smith then files his informal brief,--"
+1991.90-7477,2,15113,anthony_m_kennedy,scotus_justice,2708.633,2708.93,--Yes.
+1991.90-7477,2,41365,steven_h_goldblatt,,2708.93,2721.206,"--Then the next thing that happens is this Court decides West v. Atkins on June 20th, 1988, which essentially knocks out Barry's sole basis for getting out of the case."
+1991.90-7477,2,15113,anthony_m_kennedy,scotus_justice,2763.564,2768.094,"But was the brief that you filed addressed to all of the issues, or just to the jurisdictional point?"
+1991.90-7477,2,41365,steven_h_goldblatt,,2768.094,2781.135,"All the issues... jurisdictional point, plus the issues on the merits as to why it should be reversed as to Dr. Barry, and why it should be reversed as to the remaining respondents, and in that sense, that's the issue that was before the Fourth Circuit, and there can't be any doubt about it."
+1991.90-7477,2,15141,william_h_rehnquist,scotus_justice,2816.136,2830.739,"Mr. Goldblatt, I can understand how you would say that about some things required of a pro se litigant, but to file a notice of appeal when you've got a form in the back of the rulebook and it can be one sentence long, I really don't understand that."
+1991.90-7477,2,41365,steven_h_goldblatt,,2838.596,2841.533,"Mr. Chief Justice, I would agree with that."
+1991.90-7477,2,15071,byron_r_white,scotus_justice,2881.515,2893.808,"Where was the functional equivalent rule first invented, or was it invented?"
+1991.90-7477,2,41365,steven_h_goldblatt,,2895.214,2896.573,It's not in the rule itself.
+1991.90-7477,2,15141,william_h_rehnquist,scotus_justice,2917.751,2919.328,Coppedge was in 1961.
+1991.90-7477,2,41365,steven_h_goldblatt,,2919.328,2934.042,"Oh, I'm sorry, I misspoke, but it referred back to cases that had been relied on up to that point, so it's been in there since before the language in 3(c) was adopted, and the Advisory Committee note makes it clear that that is the intended way."
+1991.90-7477,2,15071,byron_r_white,scotus_justice,2934.042,2937.103,"When did we last use it, in Torres?"
+1991.90-7477,2,41365,steven_h_goldblatt,,2937.103,2942.101,Torres would have been the last case where you construed one of the requirements in 3(c).
+1991.90-7477,2,15071,byron_r_white,scotus_justice,2954.098,2959.391,Do the rule writers recognize the rule?
+1991.90-7477,2,41365,steven_h_goldblatt,,2959.391,2967.341,"The rule writers I would suggest did recognize the rule in their comments, making it very clear as to how it should be applied."
+1991.90-7477,2,15141,william_h_rehnquist,scotus_justice,2991.738,2993.019,"Thank you, Mr. Goldblatt."

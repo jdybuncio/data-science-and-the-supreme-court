@@ -1,0 +1,139 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1987.86-986,0,15141,william_h_rehnquist,scotus_justice,0.0,9.539,"We'll hear argument this morning in Case No. 86-986, Eric Schneiderwind versus ANR Pipeline Company."
+1987.86-986,0,21076,don_l_keskey,,11.808,19.895,"Mr. Chief Justice, and may it please the Court."
+1987.86-986,0,15092,sandra_day_oconnor,scotus_justice,146.724,155.347,"Mr. Keskey, what is the purpose exactly of the Michigan State statutes in this regard?"
+1987.86-986,0,21076,don_l_keskey,,155.347,163.603,"The purpose of the Michigan statutes is to protect the public interest, the public health safety and welfare."
+1987.86-986,0,15092,sandra_day_oconnor,scotus_justice,163.603,166.186,Be a little more specific.
+1987.86-986,0,21076,don_l_keskey,,167.888,190.817,"One of the major purposes is to ensure that the extensive pipeline facilities and storage facilities, the property located within the State does not become over collateralized, the company doesn't become over capitalized so that the maintenance and the safety and environmental concerns regarding those facilities are not harmed."
+1987.86-986,0,15092,sandra_day_oconnor,scotus_justice,213.517,221.273,Is it intended at all to make available gas to Michigan consumers at reasonable rates?
+1987.86-986,0,21076,don_l_keskey,,221.273,232.045,"It can protect the rate payers by ensuring that over capitalization does not result, to ensure that there are not abuses in financings."
+1987.86-986,0,15092,sandra_day_oconnor,scotus_justice,232.045,236.616,"Well, is an effect on rates one of the purposes of the legislation?"
+1987.86-986,0,21076,don_l_keskey,,236.616,237.083,No.
+1987.86-986,0,15092,sandra_day_oconnor,scotus_justice,241.401,249.356,Did your State Court ever find that one of the purposes was to ensure reasonable utility rates?
+1987.86-986,0,21076,don_l_keskey,,249.356,252.808,The State Court indicates that's one of the purposes.
+1987.86-986,0,15092,sandra_day_oconnor,scotus_justice,252.808,254.327,But you disavow that as a purpose?
+1987.86-986,0,21076,don_l_keskey,,254.327,256.027,"No, no, not whatsoever."
+1987.86-986,0,15049,antonin_scalia,scotus_justice,308.379,317.485,"Actually the State does not impose this what you describe as Securities regulation on any companies except rate regulated companies, though, isn't that right?"
+1987.86-986,0,21076,don_l_keskey,,322.888,329.042,"It applies to public utilities and to natural gas companies, or interstate electric companies."
+1987.86-986,0,15049,antonin_scalia,scotus_justice,341.1,342.885,So the answer to my question is?
+1987.86-986,0,21076,don_l_keskey,,342.885,344.318,That this?
+1987.86-986,0,15049,antonin_scalia,scotus_justice,344.318,350.122,"It is imposed only on rate regulated public utilities, certain rate regulated public utilities?"
+1987.86-986,0,21076,don_l_keskey,,350.122,362.847,"Essentially public utility type companies upon which there's a heavy dependence by the public on these companies or a monopoly type companies, strong nexus of public interest to these companies."
+1987.86-986,0,15049,antonin_scalia,scotus_justice,362.847,366.5,So why don't we call it public utility regulation instead of security regulation?
+1987.86-986,0,21076,don_l_keskey,,366.5,372.487,"It's really the same thing, or they're extremely closely related."
+1987.86-986,0,15049,antonin_scalia,scotus_justice,372.487,377.373,"Does the Securities and Exchange Commission, for example, do anything of this sort--"
+1987.86-986,0,21076,don_l_keskey,,377.373,385.312,The Securities and Exchange Commission has Acts which involve registration and the filing of information.
+1987.86-986,0,15049,antonin_scalia,scotus_justice,385.312,387.331,"--It doesn't police the dead equity ratio of companies, does it?"
+1987.86-986,0,21076,don_l_keskey,,387.331,387.914,"No, it does not."
+1987.86-986,0,15141,william_h_rehnquist,scotus_justice,434.526,446.267,"Well, there's constitutional doctrine, isn't there, that a company is entitled, constitutionally entitled to a reasonable return on its investments, and the State probably has an interest in looking at what those investments are."
+1987.86-986,0,21076,don_l_keskey,,446.267,450.802,It's really pretty much dealing with the problem before the fact.
+1987.86-986,0,15141,william_h_rehnquist,scotus_justice,480.988,485.475,Is there any limitation on the companies on which this is applied?
+1987.86-986,0,21076,don_l_keskey,,491.462,498.716,"It is to every public utility that operates in the State of Michigan, including electric, gas, telephone companies."
+1987.86-986,0,15140,william_j_brennan_jr,scotus_justice,536.825,550.25,"Mr. Keskey, when the Attleboro doctrine prevailed, who regulated the issuance of securities for companies like these, the State agencies, or?"
+1987.86-986,0,21076,don_l_keskey,,550.25,555.988,The State governments were involved in extensive public utility regulation prior to any Federal Acts.
+1987.86-986,0,15140,william_j_brennan_jr,scotus_justice,555.988,561.475,Specifically as to the regulation of the issuance of securities?
+1987.86-986,0,21076,don_l_keskey,,561.475,562.125,Yes.
+1987.86-986,0,15140,william_j_brennan_jr,scotus_justice,573.647,583.621,It doesn't matter as far as the regulation is concerned whether the regulated company by Michigan is a Michigan corporation or of some other State.
+1987.86-986,0,21076,don_l_keskey,,583.621,597.881,"--One of the respondents happens to be a Michigan corporation, but the important thing here is the substance of their relationship to Michigan and the substantial presence and importance to Michigan, not specific--"
+1987.86-986,0,15140,william_j_brennan_jr,scotus_justice,597.881,604.452,"Well, if your answer to me is, it does not matter whether it's a Michigan Corporation or of some other State?"
+1987.86-986,0,21076,don_l_keskey,,604.452,625.281,"--That is an additional item that does matter, but the primary thing we're looking at here besides the corporation filing requirements and the regulation as a Michigan Corporation is the substantial context and important nexus of these companies to Michigan's public interest."
+1987.86-986,0,15049,antonin_scalia,scotus_justice,643.327,648.481,"Well, any interstate pipeline that goes into Michigan is the life blood to Michigan, isn't it?"
+1987.86-986,0,21076,don_l_keskey,,648.481,653.283,"To certain segments or portions of Michigan, that's correct."
+1987.86-986,0,15049,antonin_scalia,scotus_justice,653.283,663.907,"So you're asserting that that gives Michigan authority to regulate, you certainly wouldn't assert that gives Michigan the authority to regulate all interstate pipelines just because they're essential to Michigan?"
+1987.86-986,0,21076,don_l_keskey,,663.907,673.429,"We're not trying to regulate any Federal area, such as rates, transportation, sales for resale."
+1987.86-986,0,15049,antonin_scalia,scotus_justice,689.724,699.247,"What happens, Mr. Keskey, if the State does not allow a particular issuance of debt securities?"
+1987.86-986,0,21076,don_l_keskey,,766.741,777.347,Michigan's review primarily looks at the relationship of the overall capital compared to the overall value of the property and the business.
+1987.86-986,0,15049,antonin_scalia,scotus_justice,785.77,786.971,I don't care what Michigan looks at.
+1987.86-986,0,21076,don_l_keskey,,809.135,829.131,I would presume in that situation that the Company would go to the Commission and present the rate decision of FERC which you're giving me an example of FERC providing a hypothetical requiring a hypothetical capital structure.
+1987.86-986,0,15049,antonin_scalia,scotus_justice,829.131,831.166,"Well, they always do when they make rates."
+1987.86-986,0,21076,don_l_keskey,,831.166,832.766,Very rarely.
+1987.86-986,0,15049,antonin_scalia,scotus_justice,832.766,838.004,They only allow return on justifiable equity.
+1987.86-986,0,21076,don_l_keskey,,838.004,842.206,Hypothetical capital structures in the rate regulation business is very rare.
+1987.86-986,0,15049,antonin_scalia,scotus_justice,896.943,908.35,I've read a lot of rate cases where the rate making agency has disallowed return on equity because the agency said there shouldn't be that much equity.
+1987.86-986,0,21076,don_l_keskey,,908.35,909.3,That's correct.
+1987.86-986,0,15049,antonin_scalia,scotus_justice,910.35,911.552,"That's not uncommon at all, is it?"
+1987.86-986,0,21076,don_l_keskey,,911.552,914.004,"In terms of percentage of cases, it's rare."
+1987.86-986,0,15049,antonin_scalia,scotus_justice,932.782,933.699,"Well, what would happen here?"
+1987.86-986,0,21076,don_l_keskey,,949.343,960.718,It's extremely difficult in a hypothetical and we're dealing here with a hypothetical that hasn't happened in the 78 years that the Michigan Act has been in effect.
+1987.86-986,0,15049,antonin_scalia,scotus_justice,977.645,979.763,Assume the reasons most favorable to Michigan.
+1987.86-986,0,21076,don_l_keskey,,979.763,1014.52,"There is a theoretical possibility that Michigan... and it's most theoretical... that Michigan could require that no more debt be issued because the company was over capitalized or because it was issuing debts for an unlawful purpose, and FERC would have required them indirectly... not directly, indirectly... by not reflecting full rates for common equity, let's say, that there is this situation."
+1987.86-986,0,15049,antonin_scalia,scotus_justice,1014.52,1023.209,I consider that pretty direct when you're dealing with a company whose business is to collect rates not to allow you to collect any rates on a particular issuance.
+1987.86-986,0,21076,don_l_keskey,,1043.02,1050.693,It's not necessarily that sitting here in this hypothetical and the facts presented it would be unlawful.
+1987.86-986,0,15060,john_paul_stevens,scotus_justice,1064.536,1066.553,This is sort of a discovery mechanism?
+1987.86-986,0,21076,don_l_keskey,,1066.553,1067.238,--In part.
+1987.86-986,0,15060,john_paul_stevens,scotus_justice,1070.357,1074.974,"In order to get your discovery, I don't suppose you'd have to be able to say, no, to a prospective investment."
+1987.86-986,0,21076,don_l_keskey,,1080.828,1094.722,I think the best way to answer it is to give you an example of how Michigan used this statute to protect its local interests without affecting any interests that are national or involve interstate commerce.
+1987.86-986,0,15049,antonin_scalia,scotus_justice,1289.299,1291.049,--Did you have to use it against ANR?
+1987.86-986,0,21076,don_l_keskey,,1294.001,1303.392,"No, because ANR was the one that had planned the entire transaction, ANR was engaging in these securities, ANR controlled MichCon."
+1987.86-986,0,15049,antonin_scalia,scotus_justice,1303.392,1304.942,Weren't MichCon securities involved?
+1987.86-986,0,21076,don_l_keskey,,1304.942,1311.379,"MichCon securities were involved, ANR securities were involved, and even a third holding company that--"
+1987.86-986,0,15049,antonin_scalia,scotus_justice,1311.379,1314.165,I don't understand why you couldn't do it through your regulation of MichCon.
+1987.86-986,0,21076,don_l_keskey,,1314.165,1317.199,"--Well, that's an actual case which is not here."
+1987.86-986,0,15092,sandra_day_oconnor,scotus_justice,1378.857,1386.046,"Mr. Keskey, you also assert jurisdiction to regulate the Respondent's storage company, do you not?"
+1987.86-986,0,21076,don_l_keskey,,1386.046,1387.363,Yes.
+1987.86-986,0,15092,sandra_day_oconnor,scotus_justice,1387.363,1393.2,"And that has no customers at all in Michigan, is that correct?"
+1987.86-986,0,21076,don_l_keskey,,1393.2,1398.77,All of its other contexts are with Michigan except for the fact that they have chosen to--
+1987.86-986,0,15092,sandra_day_oconnor,scotus_justice,1398.77,1403.155,"Well, aren't its suppliers and customers all outside of Michigan?"
+1987.86-986,0,21076,don_l_keskey,,1403.155,1406.959,"--Its customers are all outside of Michigan, that's correct."
+1987.86-986,0,15092,sandra_day_oconnor,scotus_justice,1406.959,1408.226,And suppliers?
+1987.86-986,0,21076,don_l_keskey,,1415.815,1416.498,That's correct.
+1987.86-986,0,15092,sandra_day_oconnor,scotus_justice,1417.598,1420.6,And what is the interest of Michigan there then do you suppose?
+1987.86-986,0,21076,don_l_keskey,,1420.6,1444.132,"--The storage company has these vast facilities in Northern Michigan which have to be adequately maintained, they have to be adequately engineered, you can only put a certain amount of gas in these facilities, otherwise you can damage the cap rock, and have tremendously dangerous blowouts."
+1987.86-986,0,15092,sandra_day_oconnor,scotus_justice,1466.665,1474.069,"You mean, you're talking about some physical accident that might occur and injure people?"
+1987.86-986,0,21076,don_l_keskey,,1474.069,1474.687,--Yes.
+1987.86-986,0,15092,sandra_day_oconnor,scotus_justice,1474.687,1481.94,And you can't directly require safety standards for employees?
+1987.86-986,0,21076,don_l_keskey,,1481.94,1489.696,"Well, the Michigan Commission does get involved in safety by assisting FERC as the eyes and ears of FERC with respect to safety requirements."
+1987.86-986,0,15092,sandra_day_oconnor,scotus_justice,1672.114,1680.12,"Does any other State regulate presently the securities issued by natural gas companies, Mr. Keskey?"
+1987.86-986,0,21076,don_l_keskey,,1680.12,1680.62,Yes.
+1987.86-986,0,15049,antonin_scalia,scotus_justice,1707.001,1714.174,"Interstate gas companies, was your answer meant to say 33 States are regulating interstate gas companies?"
+1987.86-986,0,21076,don_l_keskey,,1714.174,1714.657,Yes.
+1987.86-986,0,15049,antonin_scalia,scotus_justice,1726.798,1728.698,Thank you.
+1987.86-986,0,15141,william_h_rehnquist,scotus_justice,1728.698,1731.1,"Thank you, Mr. Keskey."
+1987.86-986,1,28253,howard_j_trienens,,1733.302,1735.568,"Chief Justice, may it please the Court."
+1987.86-986,1,15049,antonin_scalia,scotus_justice,2020.231,2028.437,Did they ever in fact alter the proposed manner of financing?
+1987.86-986,1,28253,howard_j_trienens,,2028.437,2028.904,"Yes, sir."
+1987.86-986,1,15092,sandra_day_oconnor,scotus_justice,2039.093,2048.998,Will FERC condition the granting of the certificate on the issuance of certain types and amounts of securities?
+1987.86-986,1,28253,howard_j_trienens,,2048.998,2050.233,Yes.
+1987.86-986,1,15092,sandra_day_oconnor,scotus_justice,2058.755,2069.795,"Would it be concerned only with the construction of facilities for the transportation of gas, rather than some unrelated business that the holding company might be going into?"
+1987.86-986,1,28253,howard_j_trienens,,2074.433,2075.466,The answer is twofold.
+1987.86-986,1,15092,sandra_day_oconnor,scotus_justice,2086.904,2092.324,Or any other legitimate business activity that the company might be engaged in.
+1987.86-986,1,28253,howard_j_trienens,,2092.324,2097.11,"--The answer is that as to the certification power, FERC would not."
+1987.86-986,1,15092,sandra_day_oconnor,scotus_justice,2111.369,2112.638,"Well, don't talk baseball."
+1987.86-986,1,28253,howard_j_trienens,,2129.648,2138.587,"--The only business that these two entities before the Court, Pipeline and Storage are in, are the transportation and storage of natural gas."
+1987.86-986,1,15141,william_h_rehnquist,scotus_justice,2173.26,2180.533,Certainly some of the corporate interrelationships in the days of Samuel Insull and so forth caused concern among lots of people.
+1987.86-986,1,28253,howard_j_trienens,,2191.821,2198.911,"The Public Utility Holding Company Act, when the company is subject to it, did deal with those matters."
+1987.86-986,1,15141,william_h_rehnquist,scotus_justice,2425.136,2430.123,"If you were doing it in the State, you'd be subject to the State Blue Sky Laws in any case, wouldn't you?"
+1987.86-986,1,28253,howard_j_trienens,,2430.123,2430.456,"Oh, my, yes."
+1987.86-986,1,15141,william_h_rehnquist,scotus_justice,2430.456,2438.045,"So your timing argument, you know, it frustrates the company's best interest, but that doesn't mean the State can't do it."
+1987.86-986,1,28253,howard_j_trienens,,2438.045,2447.734,"Or the company can go to Europe, or the company can decide not to sell in Michigan, or the company can get a Blue Sky which is a very automatic thing."
+1987.86-986,1,15141,william_h_rehnquist,scotus_justice,2618.827,2621.463,"This is a facial attack, isn't it, Mr. Trienens."
+1987.86-986,1,28253,howard_j_trienens,,2629.218,2640.542,"--That's correct, and I'm also saying that we're not speculating about it because this club in the closet... to use a phrase in the reply brief... has been taken out of the closet and we still feel the bruises from it."
+1987.86-986,1,15049,antonin_scalia,scotus_justice,2734.652,2739.372,"Mr. Trienens, any legitimate State authority can be abused."
+1987.86-986,1,28253,howard_j_trienens,,2758.869,2771.527,"--It seems to me it's an argument when they say, oh, this is facial and you're speculating and we come and petition this Court because they're just speculating about things to tell you not only what they did with this Statute, but what they plan to do with it."
+1987.86-986,1,15141,william_h_rehnquist,scotus_justice,2929.462,2934.783,"This is a Commerce Clause argument, not a preemption argument?"
+1987.86-986,1,28253,howard_j_trienens,,2934.783,2936.235,So far.
+1987.86-986,1,15071,byron_r_white,scotus_justice,3125.339,3129.326,"Mr. Trienens, you argue both preemption and the commerce clause."
+1987.86-986,1,28253,howard_j_trienens,,3133.445,3138.83,"Well, that's a difficult question to answer, Justice White, in this sense."
+1987.86-986,1,15071,byron_r_white,scotus_justice,3140.265,3145.051,"Well, we're going to have to... I suppose we'll have to make up our mind as to which one to deal with first?"
+1987.86-986,1,28253,howard_j_trienens,,3145.051,3145.753,--Yeah.
+1987.86-986,1,15071,byron_r_white,scotus_justice,3158.393,3160.445,"Is what you call a preemption argument, is that it?"
+1987.86-986,1,28253,howard_j_trienens,,3160.445,3161.728,"Yeah, when they occupied the field."
+1987.86-986,1,15071,byron_r_white,scotus_justice,3161.728,3164.464,I suppose at bottom that's a constitutional issue?
+1987.86-986,1,28253,howard_j_trienens,,3164.464,3166.166,It's a Supremacy Clause argument.
+1987.86-986,1,15071,byron_r_white,scotus_justice,3166.166,3170.134,But sometimes it's called sort of a statutory?
+1987.86-986,1,28253,howard_j_trienens,,3170.134,3175.355,"I think the logic is you get to that first, although when you get into the Commerce Clause history to show--"
+1987.86-986,1,15071,byron_r_white,scotus_justice,3175.355,3176.472,"Well, what if we agreed with you on that?"
+1987.86-986,1,28253,howard_j_trienens,,3178.557,3181.692,"--I wouldn't feel that you'd be obliged to at all, no."
+1987.86-986,1,15071,byron_r_white,scotus_justice,3181.692,3189.615,"Well, which point would you like us to agree with you on?"
+1987.86-986,1,28253,howard_j_trienens,,3189.615,3195.435,"I'm tempted to answer that in a more flip way than I ought to, but I won't."
+1987.86-986,1,15071,byron_r_white,scotus_justice,3195.435,3196.951,"Either one, I suppose, yeah."
+1987.86-986,1,28253,howard_j_trienens,,3198.387,3199.703,That's correct.
+1987.86-986,1,15071,byron_r_white,scotus_justice,3213.147,3222.669,"So you don't think there's any real inconsistency in saying, of course, this is not preempted but it violates the Commerce Clause?"
+1987.86-986,1,28253,howard_j_trienens,,3222.669,3229.84,"All I'm saying is, it violates the Commerce Clause if there'd never been a Natural Gas Act."
+1987.86-986,1,15071,byron_r_white,scotus_justice,3229.84,3243.599,"Well, then suppose we disagree with you on preemption that Congress never intended to preempt this kind of thing, but nevertheless, it violates the Commerce Clause, a dormant Commerce Clause?"
+1987.86-986,1,28253,howard_j_trienens,,3243.599,3244.299,That's surely our position.
+1987.86-986,1,15071,byron_r_white,scotus_justice,3244.299,3247.868,"Well, you haven't answered my question, yet, I guess."
+1987.86-986,1,28253,howard_j_trienens,,3247.868,3254.288,"Well, if I have to take a choice, I think I'd write the opinion dealing with the legislation first, and that would be the end of it."
+1987.86-986,1,15141,william_h_rehnquist,scotus_justice,3256.474,3260.009,"Thank you, Mr. Trienens."
+1987.86-986,2,21076,don_l_keskey,,3263.413,3267.632,"Your Honor, this is a facial attack."
+1987.86-986,2,15141,william_h_rehnquist,scotus_justice,3350.952,3352.636,"Thank you, Mr. Keskey."

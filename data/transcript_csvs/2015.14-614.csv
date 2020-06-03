@@ -1,0 +1,195 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2015.14-614,0,15086,john_g_roberts_jr,scotus_justice,0.0,12.095,"We will hear argument this morning in Case No. 14-614, Hughes, Chairman of the Maryland Public Service Commission, v. Talen Energy Marketing and the consolidated case. Mr. Strauss."
+2015.14-614,0,62669,scott_h_strauss,,12.095,43.495,"Mr. Chief Justice, and may it please the Court: Maryland determined that new generation was needed for local reliability, so it directed its retail utilities to sign 20-year contracts with a competitively selected project developer. Maryland's action did not intrude on Federal authority, primarily for two reasons. The first reason is that Maryland's new resource did not distort the wholesale capacity auction. FERC revised its auction bidding rules to require the Maryland resource to bid on the basis of its cost, backing out any State contract revenue."
+2015.14-614,0,15086,john_g_roberts_jr,scotus_justice,57.54,60.794,"Well, if it doesn't suppress prices, why did Maryland do it?"
+2015.14-614,0,62669,scott_h_strauss,,60.794,69.36,"Maryland did it, Your Honor, because they saw a need for generation going forward. As is clear in the generation order, Maryland perceived a problem."
+2015.14-614,0,15113,anthony_m_kennedy,scotus_justice,81.81,84.755,"But if that hadn't happened, prices would have been higher."
+2015.14-614,0,62669,scott_h_strauss,,87.015,99.1,"No, it was not to suppress prices, and, frankly, Your Honor, could not have suppressed prices. FERC revised the rules in 2011 to be clear that the resource had to bid on the basis of its costs without regard to the State revenue."
+2015.14-614,0,15084,ruth_bader_ginsburg,scotus_justice,117.23,129.925,"Well, why was this done through stepping on FERC's turf at all? I mean, could it have been done by requiring long-term contracts with the new generator?"
+2015.14-614,0,62669,scott_h_strauss,,129.925,150.205,"It was done through long-term contracts, Your Honor, but the question of getting involved with FERC's turf is as follows: FERC has -- has set up the capacity auction in PJM, and when under that auction, PJM procures three years in advance for a one-year period all the capacity the region needs, and then it allocates the cost of that capacity among all the utilities."
+2015.14-614,0,15068,samuel_a_alito_jr,scotus_justice,213.32,214.59,"Well, there's another key difference."
+2015.14-614,0,62669,scott_h_strauss,,224.2,224.57,Yes.
+2015.14-614,0,15068,samuel_a_alito_jr,scotus_justice,225.92,232.755,"Only after you lost in the Fourth Circuit did you concede that, isn't that correct, on the very day of the Fourth Circuit's decision?"
+2015.14-614,0,62669,scott_h_strauss,,232.755,234.19,"No, Your Honor."
+2015.14-614,0,15068,samuel_a_alito_jr,scotus_justice,234.19,234.35,No.
+2015.14-614,0,62669,scott_h_strauss,,234.35,235.775,In the district -- let me explain why.
+2015.14-614,0,15068,samuel_a_alito_jr,scotus_justice,254.555,259.03,But your initial position was that it did not have to be reviewed by FERC; wasn't that -- isn't that right?
+2015.14-614,0,62669,scott_h_strauss,,259.03,259.78,That's -- that's correct.
+2015.14-614,0,15094,elena_kagan,scotus_justice,291.905,304.505,"I'm not sure why it is that when you say it was subject to FERC's jurisdiction, that doesn't end the case right there against you, because if it's subject to FERC's jurisdiction, that means it's a wholesale sale."
+2015.14-614,0,62669,scott_h_strauss,,314.76,315.69,"No, that's -- no, no."
+2015.14-614,0,15094,elena_kagan,scotus_justice,344.13,349.19,Are you saying that Maryland didn't set the rates just because they use an auction? Is that what you're saying?
+2015.14-614,0,62669,scott_h_strauss,,349.19,352.365,Maryland did not set the rate because Maryland did not select the price.
+2015.14-614,0,15094,elena_kagan,scotus_justice,353.89,357.37,"That's true of FERC itself. FERC doesn't set rates anymore, either."
+2015.14-614,0,62669,scott_h_strauss,,375.965,383.32,"The -- the auction -- the auction that FERC designed, the wholesale auction, permits, if not incentivizes, exactly what was done here."
+2015.14-614,0,15113,anthony_m_kennedy,scotus_justice,393.25,402.785,"But you used the auction dynamic, the auction mechanism to go outside of the -- of that dynamic."
+2015.14-614,0,62669,scott_h_strauss,,402.785,406.61,"What we did was perfect -- yes, Your Honor, but that's perfectly permissible. Remember, the --"
+2015.14-614,0,15113,anthony_m_kennedy,scotus_justice,406.61,408.0,That -- that's -- I --
+2015.14-614,0,62669,scott_h_strauss,,408.0,408.56,Let me explain.
+2015.14-614,0,15113,anthony_m_kennedy,scotus_justice,408.56,412.289,I'm -- I'm sure that that's one of the issues in the case.
+2015.14-614,0,62669,scott_h_strauss,,412.289,414.52,"Yes, Your Honor."
+2015.14-614,0,15068,samuel_a_alito_jr,scotus_justice,453.405,463.1,"But the -- as originally set up, CPV had no incentive to -- to bid anything other than zero; isn't that right? All it was interested in was clearing the market."
+2015.14-614,0,62669,scott_h_strauss,,463.1,463.92,That is -- that is correct.
+2015.14-614,0,15068,samuel_a_alito_jr,scotus_justice,463.92,469.67,"And that affects the dynamic of the -- of the PJM auction, does it not?"
+2015.14-614,0,62669,scott_h_strauss,,469.67,469.875,Yes.
+2015.14-614,0,15131,sonia_sotomayor,scotus_justice,506.79,526.51,"But -- but I have to say that they also looked at a long-term contract -- FERC did, and PJM -- in the PJM Interconnection order, and it determined that a seven-year lock-in period for a new generator was unfair, unjust and unreasonable."
+2015.14-614,0,62669,scott_h_strauss,,549.34,555.195,FERC determined that under the auction it would not allow a guarantee of more than three years.
+2015.14-614,0,15131,sonia_sotomayor,scotus_justice,572.25,574.335,How is it different than your contract?
+2015.14-614,0,62669,scott_h_strauss,,574.335,577.605,It's different in that this is a 20-year agreement.
+2015.14-614,0,15131,sonia_sotomayor,scotus_justice,577.605,581.135,"I know the years are different, but I'm talking about the mechanics."
+2015.14-614,0,62669,scott_h_strauss,,581.135,585.81,"The mechanics of it are that it operates outside the auction, but bids into the auction."
+2015.14-614,0,15094,elena_kagan,scotus_justice,648.34,648.99,Mr. Strauss --
+2015.14-614,0,15139,stephen_g_breyer,scotus_justice,648.99,661.18,"I didn't -- I -- I didn't -- I have to admit for myself, in this kind of brief, it would have been much, much easier if people had used simplified examples with real numbers."
+2015.14-614,0,62669,scott_h_strauss,,699.975,701.12,"I believe that is, Your Honor."
+2015.14-614,0,15139,stephen_g_breyer,scotus_justice,701.12,738.92,"If that's correct, then if I have a generator up somewhere in the hills of -- of surrounding their hills in Maryland, and it's more expensive to get coal up into those hills or oil or natural gas, and so I have a generator that I can -- that's 500 megawatts, and it allows me, based on cost, to charge, if I were to charge the full cost, and that depends on the banks and loans and so forth, it allows me to charge $220 a megawatt-day."
+2015.14-614,0,62669,scott_h_strauss,,739.845,740.59,Okay.
+2015.14-614,0,15139,stephen_g_breyer,scotus_justice,740.59,750.88,"Does that? I can go to FERC, and I can say 70 percent of that is what I am going to put into the pool, because I know that Maryland will give me the rest."
+2015.14-614,0,62669,scott_h_strauss,,798.28,798.84,"Well, Your Honor --"
+2015.14-614,0,15139,stephen_g_breyer,scotus_justice,798.84,800.94,"If it's right, it seems like the end of the matter."
+2015.14-614,0,62669,scott_h_strauss,,803.81,805.7,"Here's what's going on, Your Honor."
+2015.14-614,0,15139,stephen_g_breyer,scotus_justice,815.95,819.93,"Now, I'm assuming that the cost is higher than the 70 percent."
+2015.14-614,0,62669,scott_h_strauss,,819.93,825.77,"That -- that might -- that might be a problem, but I have two answers to that, Your Honor. First of all, that was not this case."
+2015.14-614,0,15139,stephen_g_breyer,scotus_justice,840.25,843.83,So you're asking only for the case where it's below.
+2015.14-614,0,62669,scott_h_strauss,,849.35,851.05,"Well, that is actually what happens, Your Honor."
+2015.14-614,0,15139,stephen_g_breyer,scotus_justice,851.05,852.06,I'm not saying what happens.
+2015.14-614,0,62669,scott_h_strauss,,857.48,859.84,"I think it does not include your example, Your Honor."
+2015.14-614,0,15139,stephen_g_breyer,scotus_justice,877.015,880.205,I don't want to use up all your time.
+2015.14-614,0,62669,scott_h_strauss,,880.205,882.005,I'd like to reserve the balance for rebuttal.
+2015.14-614,0,15086,john_g_roberts_jr,scotus_justice,882.675,894.44,"Thank you, counsel. Mr. Elgarten."
+2015.14-614,1,62670,clifton_s_elgarten,,894.44,900.745,"Mr. Chief Justice, and may it please the Court: Let me respond first to Justice Kagan's comment."
+2015.14-614,1,15094,elena_kagan,scotus_justice,963.9,986.35,"If I understand what you just said, you're not relying on Mr. Strauss's argument. Mr. Strauss said that this wasn't a -- setting a wholesale rate because Maryland did it by auction. But you're saying that's irrelevant; that Maryland could have just picked a price, and -- and that that would have been fine so long as at some point FERC had the power to review and veto it."
+2015.14-614,1,62670,clifton_s_elgarten,,988.51,989.02,No.
+2015.14-614,1,15094,elena_kagan,scotus_justice,997.155,997.48,Well --
+2015.14-614,1,62670,clifton_s_elgarten,,997.48,1012.3,"The -- the long-standing rule of FERC has been if it's competitively set by the seller, leaving the seller free to respond to the -- to the bid of the purchaser, then it is subject to FERC, and that review process is there."
+2015.14-614,1,15094,elena_kagan,scotus_justice,1020.73,1021.19,I guess I --
+2015.14-614,1,62670,clifton_s_elgarten,,1021.19,1021.51,Yes.
+2015.14-614,1,15094,elena_kagan,scotus_justice,1021.51,1032.07,"-- I don't understand that. I mean, just take a hypothetical case where -- where Maryland said to all its utilities, this is the price and this is the only price that you will pay for electricity."
+2015.14-614,1,62670,clifton_s_elgarten,,1032.07,1032.605,Crosses the line.
+2015.14-614,1,15094,elena_kagan,scotus_justice,1032.605,1033.73,Are you -- are you saying that --
+2015.14-614,1,62670,clifton_s_elgarten,,1033.73,1034.14,I belive that would --
+2015.14-614,1,15094,elena_kagan,scotus_justice,1034.14,1035.01,-- Maryland could do that?
+2015.14-614,1,62670,clifton_s_elgarten,,1035.01,1039.85,"I believe -- there's a case from -- from the Commission, says that would cross the line."
+2015.14-614,1,15094,elena_kagan,scotus_justice,1044.36,1044.61,Okay.
+2015.14-614,1,62670,clifton_s_elgarten,,1066.54,1071.6,We -- we had a competitive bid to bid -- build a power plant.
+2015.14-614,1,15113,anthony_m_kennedy,scotus_justice,1223.73,1241.42,"Would it be correct or incorrect to say that under Maryland law, you entered -- you entered the auction, and as a result, you altered the consequences of that auction in a way that was inconsistent with FERC's policy."
+2015.14-614,1,62670,clifton_s_elgarten,,1242.77,1247.595,"No, it is not fair, because FERC's policy, it was expressed."
+2015.14-614,1,15139,stephen_g_breyer,scotus_justice,1340.31,1342.55,Why? That's another problem I have here.
+2015.14-614,1,62670,clifton_s_elgarten,,1358.38,1359.0,Uh-huh.
+2015.14-614,1,15139,stephen_g_breyer,scotus_justice,1359.0,1363.08,And then -- and then it seemed to go we don't have FERC's opinion.
+2015.14-614,1,62670,clifton_s_elgarten,,1374.33,1376.9,We want to be in front of -- of the Commission.
+2015.14-614,1,15068,samuel_a_alito_jr,scotus_justice,1390.21,1390.8,Of course.
+2015.14-614,1,62670,clifton_s_elgarten,,1390.8,1391.71,-- being presented --
+2015.14-614,1,15068,samuel_a_alito_jr,scotus_justice,1391.71,1393.48,"Well, I don't understand your position."
+2015.14-614,1,62670,clifton_s_elgarten,,1401.265,1402.95,Adversely affects the auction.
+2015.14-614,1,15068,samuel_a_alito_jr,scotus_justice,1403.18,1403.44,Why --
+2015.14-614,1,62670,clifton_s_elgarten,,1403.44,1404.02,-- the auction --
+2015.14-614,1,15068,samuel_a_alito_jr,scotus_justice,1404.02,1406.97,Why has FERC filed a brief arguing the opposite? I --
+2015.14-614,1,62670,clifton_s_elgarten,,1406.97,1407.36,I -- if you read --
+2015.14-614,1,15068,samuel_a_alito_jr,scotus_justice,1407.36,1409.395,You're arguing as if they're not even here.
+2015.14-614,1,62670,clifton_s_elgarten,,1409.395,1424.83,"If you -- if you read the FERC's decisions that we've cited, the 135 and 137 FERC -- that's how it's numbered in the briefs -- if you read that and you read the quotes that are included in the Joint Appendix, you will see that FERC has determined that these bids are competitive if they are submitted in this way."
+2015.14-614,1,15113,anthony_m_kennedy,scotus_justice,1424.92,1428.055,So you're saying that FERC -- FERC doesn't understand its own order?
+2015.14-614,1,62670,clifton_s_elgarten,,1428.055,1437.72,"I'm saying FERC's -- as happened in the Morgan Stanley case, there is a little bit of changing of -- of tunes that's at issue here."
+2015.14-614,1,15131,sonia_sotomayor,scotus_justice,1483.07,1483.51,I'm sorry.
+2015.14-614,1,62670,clifton_s_elgarten,,1483.78,1485.12,Does it artificially do that?
+2015.14-614,1,15131,sonia_sotomayor,scotus_justice,1485.12,1492.92,How would this work normally? Meaning forget that a lawsuit was started. You enter into this contract.
+2015.14-614,1,62670,clifton_s_elgarten,,1495.93,1497.62,No.
+2015.14-614,1,15131,sonia_sotomayor,scotus_justice,1506.67,1508.055,But a protest here?
+2015.14-614,1,62670,clifton_s_elgarten,,1508.055,1509.34,They didn't.
+2015.14-614,1,15084,ruth_bader_ginsburg,scotus_justice,1615.65,1616.08,You wouldn't --
+2015.14-614,1,62670,clifton_s_elgarten,,1616.08,1616.46,They should not --
+2015.14-614,1,15084,ruth_bader_ginsburg,scotus_justice,1616.46,1619.96,-- get to conflict preemption if field preemption applies.
+2015.14-614,1,62670,clifton_s_elgarten,,1619.96,1627.38,"That's absolutely correct. And so on the issue of field preemption, have we exercised an authority that belongs to FERC? No."
+2015.14-614,1,15084,ruth_bader_ginsburg,scotus_justice,1649.74,1657.165,"What is your explanation for why FERC is on the other side now, when you're saying it was in your corner earlier?"
+2015.14-614,1,62670,clifton_s_elgarten,,1657.165,1669.64,"FERC -- FERC, as the Commission through its rulings and orders based on evidence and appeal, as reflected in the New Jersey appeal, the NJPBU, appeal of that order, they were on our side."
+2015.14-614,1,15086,john_g_roberts_jr,scotus_justice,1686.08,1691.635,"Thank you, counsel. Mr. Clement."
+2015.14-614,2,37772,paul_d_clement,,1691.635,1709.24,"Mr. Chief Justice, and may it please the Court: Maryland's effort to dictate what CPV receives in connection with its wholesale sales to the wholesale market operator is plainly preempted. Maryland's targeting of the Federal market was direct in this case."
+2015.14-614,2,15139,stephen_g_breyer,scotus_justice,1738.72,1763.15,"Why? The -- the way that they've described it to me -- I'll try this once more. Because truer words were never spoke, than I am not quite on top of how this thing works. But the -- the -- the way he described is, what are they bidding into the PJM is their real cost. And when they are bidding their real cost, Maryland isn't going to pay them a dime."
+2015.14-614,2,15139,stephen_g_breyer,scotus_justice,1783.27,1785.42,"No? No, I have got it right? I don't know."
+2015.14-614,2,37772,paul_d_clement,,1789.91,1790.08,"Well, I --"
+2015.14-614,2,15139,stephen_g_breyer,scotus_justice,1790.08,1791.23,-- which is understanding this.
+2015.14-614,2,37772,paul_d_clement,,1791.23,1794.34,"Well, there's a difference to your problem, which is, I think, first, there's a factual premise there --"
+2015.14-614,2,15139,stephen_g_breyer,scotus_justice,1794.34,1794.43,Yes.
+2015.14-614,2,37772,paul_d_clement,,1794.43,1807.65,"-- which is -- I think it's pretty much conceded that, at least in the first couple of years of this, the expectation is that CPV is going to be receiving an additional payment, a forced payment, from the LSC, the loading serving entity, to PJM."
+2015.14-614,2,15139,stephen_g_breyer,scotus_justice,1810.08,1813.07,But are they bidding their true cost into PJM?
+2015.14-614,2,37772,paul_d_clement,,1813.07,1815.91,"Well, they sure didn't start that way. And let me start here."
+2015.14-614,2,15139,stephen_g_breyer,scotus_justice,1944.29,1957.29,"Well, that's another way of saying that the bid that -- that -- that FERC says that they have to make is not their actual costs --"
+2015.14-614,2,37772,paul_d_clement,,1957.29,1957.72,What --
+2015.14-614,2,15139,stephen_g_breyer,scotus_justice,1957.72,1978.19,"-- because if in fact it's based on a cost of capital that is lower than what the cost of capital really is, that is a misstatement of their cost or a -- an -- a lower-than-actual cost, just as much as if the steel were in fact less expensive than what they actually have to pay."
+2015.14-614,2,37772,paul_d_clement,,1978.19,1978.9,Absolutely.
+2015.14-614,2,15086,john_g_roberts_jr,scotus_justice,2029.61,2035.17,"But you'd have -- you'd have no objection if Maryland just decided to subsidize the construction of the plant, would you?"
+2015.14-614,2,37772,paul_d_clement,,2035.17,2036.225,"We would, Your Honor."
+2015.14-614,2,15113,anthony_m_kennedy,scotus_justice,2064.5,2067.81,How do you define the field that's preempted?
+2015.14-614,2,37772,paul_d_clement,,2067.81,2075.415,"Well, I think the field that is preempted is the ability of a government actor to set wholesale rates for wholesale sales."
+2015.14-614,2,15113,anthony_m_kennedy,scotus_justice,2088.52,2092.39,Are they -- are they setting rates by having ended the auction?
+2015.14-614,2,37772,paul_d_clement,,2092.39,2098.16,"We certainly think so, and more importantly, I think, for purposes of this case, so did the district court."
+2015.14-614,2,15113,anthony_m_kennedy,scotus_justice,2122.47,2129.9,"In a sense, I guess all of the bidders in the conventional auction in effect set their rates by their bid."
+2015.14-614,2,37772,paul_d_clement,,2129.9,2130.49,Sure.
+2015.14-614,2,15113,anthony_m_kennedy,scotus_justice,2132.79,2134.685,So why is this -- why is this different?
+2015.14-614,2,37772,paul_d_clement,,2134.685,2143.91,"Well, it's -- it's not, because I -- I think the point is, if Maryland is not setting the rates here, than FERC's not setting any wholesale rates, and that's not right."
+2015.14-614,2,15086,john_g_roberts_jr,scotus_justice,2168.87,2173.37,So is Maryland setting the rates when it subsidizes the construction of a power plant?
+2015.14-614,2,37772,paul_d_clement,,2173.37,2180.22,"Well, if -- Mr. Chief Justice, suppose they decided to -- I mean, potentially they could."
+2015.14-614,2,15131,sonia_sotomayor,scotus_justice,2204.49,2209.51,"Mr. Clement, can you tell me how I write this opinion? And I'll ask you why."
+2015.14-614,2,37772,paul_d_clement,,2209.51,2210.05,Okay.
+2015.14-614,2,15131,sonia_sotomayor,scotus_justice,2210.05,2224.92,"As I look at the relevant statutory provisions, what it says is that FERC has the power to ensure that rates that are set are fair, are just and reasonable."
+2015.14-614,2,37772,paul_d_clement,,2270.84,2271.275,Sure.
+2015.14-614,2,15131,sonia_sotomayor,scotus_justice,2271.275,2288.09,"Because as I understand it, and I don't think you -- you've told me any differently, that the people who are auctioning in the market can and do enter into contracts with States on a regular basis."
+2015.14-614,2,37772,paul_d_clement,,2288.09,2289.93,"Oh, not with contracts with the States."
+2015.14-614,2,15131,sonia_sotomayor,scotus_justice,2297.29,2298.08,Exactly.
+2015.14-614,2,37772,paul_d_clement,,2298.08,2299.78,And that is not what's happened here.
+2015.14-614,2,15131,sonia_sotomayor,scotus_justice,2299.78,2300.32,All right.
+2015.14-614,2,37772,paul_d_clement,,2303.455,2303.92,Right.
+2015.14-614,2,15131,sonia_sotomayor,scotus_justice,2303.92,2308.575,Why is this involuntary? Because of the State --
+2015.14-614,2,37772,paul_d_clement,,2308.575,2315.615,Because the State told the load-serving entities that they had to make these payments to CPV.
+2015.14-614,2,15131,sonia_sotomayor,scotus_justice,2315.615,2316.48,All right.
+2015.14-614,2,37772,paul_d_clement,,2343.475,2349.98,"I think it's both, Your Honor. I think part of the reason this is difficult is because it's like an overdetermined equation."
+2015.14-614,2,15131,sonia_sotomayor,scotus_justice,2360.02,2362.89,"So give me a simple -- sir, when I write this opinion --"
+2015.14-614,2,37772,paul_d_clement,,2362.89,2363.99,Right.
+2015.14-614,2,15131,sonia_sotomayor,scotus_justice,2363.99,2366.46,-- give me -- give me the first paragraph.
+2015.14-614,2,37772,paul_d_clement,,2369.22,2378.745,This conflicts with FERC's determination that the PJM rates for the PJM auctions are just and reasonable.
+2015.14-614,2,15139,stephen_g_breyer,scotus_justice,2439.51,2441.76,Let me try that with the example.
+2015.14-614,2,37772,paul_d_clement,,2552.575,2567.77,"Here's your response, Justice Breyer, and it comes in two parts, because there's at least two parts to that question. First, I take issue with the premise because it may be that some new generation will come in, in your hypothetical, but it won't necessarily be this one."
+2015.14-614,2,15139,stephen_g_breyer,scotus_justice,2578.82,2579.78,"No, no, I am agreeing with you."
+2015.14-614,2,37772,paul_d_clement,,2580.17,2581.2,That is a huge --
+2015.14-614,2,15139,stephen_g_breyer,scotus_justice,2581.2,2583.29,I'm not shrugging my shoulders.
+2015.14-614,2,37772,paul_d_clement,,2583.29,2594.5,"This is a huge difference, because this -- the message this all sends to my clients is don't take FERC's direction that you should be competing based on market forces and efficiency."
+2015.14-614,2,15094,elena_kagan,scotus_justice,2841.79,2869.38,"Mr. Clement, it -- it does seem to me important what the kind of State action is. And this goes back to the question that the Chief Justice raised with you. If the State had just said we need another power plant and had delivered a load of money to CPV and said go build a power plant, you're not saying that that would be preempted, are you? If it's not at all, it -- it -- you know, that's going to have an effect on the kind of bids that CPV is going to make."
+2015.14-614,2,37772,paul_d_clement,,2878.835,2879.965,It would depend.
+2015.14-614,2,37772,paul_d_clement,,2885.55,2891.99,"But if they conditioned all of that money on a bid-and-clear requirement, I would be saying that that was preempted."
+2015.14-614,2,15086,john_g_roberts_jr,scotus_justice,2899.615,2910.705,"Thank you, counsel. Ms. O'Connell."
+2015.14-614,3,16657,ann_oconnell,,2910.705,2936.88,"Mr. Chief Justice, and may it please the Court: In the government's view, the Maryland Generation Order is preempted because by requiring the State-selected generator to bid into and clear the PJM capacity auction in order to receive the guaranteed payments provided in the contract, the Maryland program directly intrudes on the Federal auction, and it also interferes with the free market mechanism that FERC has approved for setting capacity prices in that auction."
+2015.14-614,3,15086,john_g_roberts_jr,scotus_justice,2936.88,2945.665,"Do you have a position on the question that Mr. Clement avoided, about what if the State -- what if the State subsidized the power plant? Is that good or bad?"
+2015.14-614,3,16657,ann_oconnell,,2945.665,2947.96,I -- I agree with Mr. Clement's answer.
+2015.14-614,3,15086,john_g_roberts_jr,scotus_justice,2948.78,2951.92,What -- what was Mr. Clement's answer? (Laughter.)
+2015.14-614,3,16657,ann_oconnell,,2951.92,2958.29,"If the State -- if the State just paid to build a power plant, that's not directly targeting what's happening in the PJM auction."
+2015.14-614,3,15131,sonia_sotomayor,scotus_justice,2995.19,2997.049,So that's the conflict?
+2015.14-614,3,16657,ann_oconnell,,2997.049,2998.26,Yes.
+2015.14-614,3,15131,sonia_sotomayor,scotus_justice,2998.52,3012.805,That's -- that's because -- you're articulating it as -- and correct me if I'm wrong -- that the conflict is in affecting the bid price in any way.
+2015.14-614,3,16657,ann_oconnell,,3015.68,3016.895,Yes.
+2015.14-614,3,15131,sonia_sotomayor,scotus_justice,3017.16,3018.085,-- determining it.
+2015.14-614,3,16657,ann_oconnell,,3018.085,3026.66,"It's in creating a conflict, changing the incentives of the people in the market in a way that conflicts with the market mechanism that FERC has set up."
+2015.14-614,3,15094,elena_kagan,scotus_justice,3029.95,3034.13,"Ms. O'Connell, you -- you have both arguments field and conflict."
+2015.14-614,3,15094,elena_kagan,scotus_justice,3041.61,3042.635,And why?
+2015.14-614,3,16657,ann_oconnell,,3042.635,3050.295,"I mean, I think that field preemption is probably a better way to decide the case, and it would -- it would be a broader ruling."
+2015.14-614,3,15131,sonia_sotomayor,scotus_justice,3062.06,3073.33,"But for -- that -- that answers the earlier question: No, they can't give money to build a generator because that changes the incentives."
+2015.14-614,3,16657,ann_oconnell,,3079.47,3093.88,"If -- if the State is just acting completely outside of the auction with no requirement to bid into and clear in the auction, then that is not something that changes the incentives of the folks that are participating in the auction, which is what happened here. The -- the cost --"
+2015.14-614,3,15094,elena_kagan,scotus_justice,3093.88,3112.43,"Well, why do you even need the sort of change-in-incentives language? Why isn't the field preemption argument more that this -- this -- this scheme essentially takes the rate that the auction produces and changes that rate for CPV and for all the utilities in Maryland?"
+2015.14-614,3,16657,ann_oconnell,,3112.43,3135.74,"I think -- Justice Kagan, the -- the reason why we don't agree with that broader interpretation is because we -- FERC does not think that just receiving extra money in -- in connection with capacity that's being sold into the auction is necessarily preempted, and let me explain why. There's something that happens in this industry, a widespread practice called contracts for differences."
+2015.14-614,3,15094,elena_kagan,scotus_justice,3145.67,3165.415,"No, but that's -- but that's -- when Mr. Clement said that there's a real difference here between voluntary agreements -- you know, if there's a contract for differences, fine, but that this is Maryland coming in and effectively forcing the LSCs to enter into such a contract, and by doing so, changing the wholesale rate."
+2015.14-614,3,16657,ann_oconnell,,3165.415,3171.37,"Well, I think the -- the problem that -- that FERC sees with this is the effect that it has on the auction."
+2015.14-614,3,15094,elena_kagan,scotus_justice,3204.11,3204.61,"See, when we --"
+2015.14-614,3,15086,john_g_roberts_jr,scotus_justice,3204.61,3214.47,How far does your -- how far do you think your authority reaches with respect to indirect effects on the auction? I guess that was the point of my question on the subsidies.
+2015.14-614,3,16657,ann_oconnell,,3220.485,3221.54,Yes.
+2015.14-614,3,15068,samuel_a_alito_jr,scotus_justice,3254.86,3257.83,"Well, why doesn't the -- the MOPR correct the problem?"
+2015.14-614,3,16657,ann_oconnell,,3257.83,3290.305,"The MOPR corrects it to some extent because the MOPR is choosing what -- what FERC thinks is a fair price for a new generator to bid in at. The MOPR isn't a complete solution because, as we've described in our brief, if somebody bids in at the minimum-offer price rule but its costs are actually higher, it is necessarily going to knock somebody out of the auction that would have cleared otherwise, and the price of the auction will go down. But -- and I -- I think, as Mr. Clement correctly pointed out, the MOPR is not a -- a perfect solution to this."
+2015.14-614,3,15094,elena_kagan,scotus_justice,3342.565,3344.35,"Well, but I don't see how that could be true."
+2015.14-614,3,16657,ann_oconnell,,3349.905,3359.305,I don't think that's right. I think the conflict is still with the -- the market mechanism that FERC set up in order to determine wholesale capacity rates in the auction.
+2015.14-614,3,15139,stephen_g_breyer,scotus_justice,3402.77,3403.34,I can see it.
+2015.14-614,3,16657,ann_oconnell,,3415.37,3415.66,Well --
+2015.14-614,3,15139,stephen_g_breyer,scotus_justice,3415.66,3432.89,"-- as, and -- and now, look, billions of actions of States affect the cost of the generator and thereby affect the bid price into the PJM auction. Now, 99.99999 percent we want the State to do."
+2015.14-614,3,16657,ann_oconnell,,3454.82,3454.97,Right.
+2015.14-614,3,15139,stephen_g_breyer,scotus_justice,3454.97,3455.655,What are the words?
+2015.14-614,3,16657,ann_oconnell,,3455.655,3460.76,I think directly targeting the auction to take some words from ONEOK would be a fine way to do it.
+2015.14-614,3,15139,stephen_g_breyer,scotus_justice,3460.76,3461.34,I see targeting.
+2015.14-614,3,16657,ann_oconnell,,3461.34,3465.605,The -- the -- the field that we're talking about is the PJM auction.
+2015.14-614,3,15086,john_g_roberts_jr,scotus_justice,3526.505,3530.42,"Thank you, counsel. Mr. Strauss, you have three minutes remaining."
+2015.14-614,4,62669,scott_h_strauss,,3530.42,3539.655,"Thank you, Your Honor. We did not -- Maryland did not require CPV to bid into the auction."
+2015.14-614,4,15086,john_g_roberts_jr,scotus_justice,3704.51,0.0,"Thank you, counsel. Case is submitted."

@@ -1,0 +1,195 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2012.11-817,0,15086,john_g_roberts_jr,scotus_justice,0.0,6.237,"Mr. Garre, welcome back."
+2012.11-817,0,25346,gregory_g_garre,,6.237,9.022,"Thank you, Your Honor, and may it please the Court:"
+2012.11-817,0,15049,antonin_scalia,scotus_justice,17.093,18.878,Are you for or against the dog this time?
+2012.11-817,0,25346,gregory_g_garre,,18.878,20.578,"For it again, Your Honor."
+2012.11-817,0,15049,antonin_scalia,scotus_justice,20.578,21.629,For it again.
+2012.11-817,0,25346,gregory_g_garre,,21.629,37.173,"The Florida supreme court answered that question by erecting what we think is an extraordinary set of evidentiary requirements that, in effect, puts the dog on trial in any suppression hearing in which defendant chooses to challenge the reliability of the dog."
+2012.11-817,0,15131,sonia_sotomayor,scotus_justice,65.442,65.858,Mr. Garre--
+2012.11-817,0,15084,ruth_bader_ginsburg,scotus_justice,65.858,100.449,"That -- that goes to the field performance; but, the other requirements, that the -- some showing -- the test -- that the training program is reputable, some showing that the handler, not only the dog, that is -- has had training, it seems to me those two are not -- there's nothing improper about that."
+2012.11-817,0,25346,gregory_g_garre,,100.449,119.843,"--Well, and I think, Your Honor, under our view of it, it's okay to inquire into whether or not the dog has successfully completed a bona fide training program, which -- which we think is a training program in which the dog is going to be tested for proficiency, including in a setting where some vehicles have drugs and some vehicles don't."
+2012.11-817,0,15084,ruth_bader_ginsburg,scotus_justice,150.096,152.648,Then why did -- then why didn't they get the dog recertified?
+2012.11-817,0,25346,gregory_g_garre,,158.535,159.57,"It was a lapse, Your Honor."
+2012.11-817,0,15084,ruth_bader_ginsburg,scotus_justice,174.58,179.866,"Well, what do you -- what do you have to show to establish that the dog was well trained."
+2012.11-817,0,25346,gregory_g_garre,,179.866,186.304,"Well, Your Honor, I think the most important thing is successful completion of proficiency testing."
+2012.11-817,0,15084,ruth_bader_ginsburg,scotus_justice,199.945,204.599,"Well, if it were just that -- you have the show that the program was reputable."
+2012.11-817,0,25346,gregory_g_garre,,204.599,207.968,"Well, certainly that it was authentic, Your Honor."
+2012.11-817,0,15131,sonia_sotomayor,scotus_justice,222.728,228.298,--I thought all of these training facilities were private entities that contracted with police departments.
+2012.11-817,0,25346,gregory_g_garre,,228.298,229.531,"--No, Your Honor."
+2012.11-817,0,15131,sonia_sotomayor,scotus_justice,241.772,245.093,Could I go back to Justice Ginsburg's question?
+2012.11-817,0,25346,gregory_g_garre,,256.666,257.268,Yes.
+2012.11-817,0,15131,sonia_sotomayor,scotus_justice,257.268,263.305,"There's no national standard that defines what's adequate training, correct."
+2012.11-817,0,25346,gregory_g_garre,,263.305,264.422,That's right.
+2012.11-817,0,15131,sonia_sotomayor,scotus_justice,264.888,267.089,So -- let me just finish my question.
+2012.11-817,0,25346,gregory_g_garre,,301.93,313.487,--And I think that the central inquiry that we would think the judge would undertake is to determine whether or not the dog was performing successfully in proficiency testing.
+2012.11-817,0,15131,sonia_sotomayor,scotus_justice,315.637,322.76,"But you still have to ask what that training was, and the judge still has to determine whether the judge believes it was adequate, correct?"
+2012.11-817,0,25346,gregory_g_garre,,325.295,340.388,"--Well, Your Honor, in our view, we don't think it's -- it's an appropriate role for the Court to delve into the contours of the training, what specific methods were used to train or distract or -- you know, all the contours that they bring up in their brief."
+2012.11-817,0,15131,sonia_sotomayor,scotus_justice,340.388,345.024,"So what does a judge do, just say, the police department says this is adequate, so I have to accept it's adequate."
+2012.11-817,0,25346,gregory_g_garre,,345.024,348.208,"Not -- you would have to accept it, Your Honor, on its face."
+2012.11-817,0,15131,sonia_sotomayor,scotus_justice,357.433,362.235,"Mr. Garre, I -- I have no problem that this record -- with this record."
+2012.11-817,0,25346,gregory_g_garre,,394.689,395.939,--I think it would be close--
+2012.11-817,0,15131,sonia_sotomayor,scotus_justice,395.939,396.205,--with that rule.
+2012.11-817,0,25346,gregory_g_garre,,396.205,396.905,--close to that.
+2012.11-817,0,15131,sonia_sotomayor,scotus_justice,404.778,410.365,"No certification, no questioning of the handler and the handler's training?"
+2012.11-817,0,25346,gregory_g_garre,,415.435,416.435,--Certification is not required.
+2012.11-817,0,15131,sonia_sotomayor,scotus_justice,446.037,459.428,"So it's not enough for you to win by us saying that a court can't insist on performance in the field records, that it has to look at the totality of the circumstances."
+2012.11-817,0,25346,gregory_g_garre,,482.377,483.495,--Your Honor--
+2012.11-817,0,15131,sonia_sotomayor,scotus_justice,483.495,484.662,--that one factor alone.
+2012.11-817,0,25346,gregory_g_garre,,484.662,491.916,"--I think one area where the Court mentioned that was in the Lago Vista case, where it talked about the importance of clear rules for police officers--"
+2012.11-817,0,15049,antonin_scalia,scotus_justice,491.916,510.58,"You know, I suppose that if the reasonableness of a search depended upon some evidence given by a medical doctor, the Court would not go back and examine how well that doctor was trained at Harvard Medical School and, you know, what classes he took and so forth, right."
+2012.11-817,0,25346,gregory_g_garre,,510.58,510.88,--Absolutely.
+2012.11-817,0,15084,ruth_bader_ginsburg,scotus_justice,521.787,526.489,"Mr. Garre, you said there was the certification, training program, but you gave a third."
+2012.11-817,0,25346,gregory_g_garre,,547.003,559.227,"Your Honor, I think that that would be the unusual case, and it probably would be captured by the other factors; but, what we meant by including that is that there's no limit on the types of evidence that the police could submit to show reliability."
+2012.11-817,0,15084,ruth_bader_ginsburg,scotus_justice,585.195,587.795,"And I think you'll agree that the handler, too, the handler would have to--"
+2012.11-817,0,25346,gregory_g_garre,,587.795,593.015,"Well, Your Honor, we don't think there is a Fourth Amendment requirement of certification for handlers."
+2012.11-817,0,15084,ruth_bader_ginsburg,scotus_justice,595.634,600.205,"--Not -- not certification, but that the handler has been -- has been trained--"
+2012.11-817,0,25346,gregory_g_garre,,600.205,600.838,Yes.
+2012.11-817,0,15084,ruth_bader_ginsburg,scotus_justice,600.838,603.573,--to work with drug detection dogs.
+2012.11-817,0,25346,gregory_g_garre,,603.573,604.057,That's correct.
+2012.11-817,0,15131,sonia_sotomayor,scotus_justice,652.137,669.765,"Counsel, I'm somewhat troubled by all of the studies that have been presented to the Court, particularly the Australian one where, under a controlled setting, one dog alerted correctly only 12 percent of the time."
+2012.11-817,0,25346,gregory_g_garre,,690.195,692.88,--We don't think the Fourth Amendment puts a number on it.
+2012.11-817,0,15131,sonia_sotomayor,scotus_justice,696.765,700.901,"Well, I'm deeply troubled by a dog that alerts only 12 percent of the time."
+2012.11-817,0,25346,gregory_g_garre,,710.257,717.929,"--But, but let me -- let me address the, the South Wales study, Your Honor, which I think is the one that you were referring to and it's the primary one relied on by the other side."
+2012.11-817,0,15131,sonia_sotomayor,scotus_justice,750.9,755.638,That doesn't answer what happens to the dogs who have -- dogs grow old.
+2012.11-817,0,25346,gregory_g_garre,,765.76,769.897,"--Well, primarily by looking at whether the dog has successfully completed training."
+2012.11-817,0,15094,elena_kagan,scotus_justice,841.926,844.076,"Well, Mr. Garre, could I understand your argument?"
+2012.11-817,0,25346,gregory_g_garre,,896.143,901.114,"--Your Honor, I think that the defendant can call the handler and can ask those sorts of questions."
+2012.11-817,0,15094,elena_kagan,scotus_justice,911.487,913.07,But you can ask questions like how did the dog do in training.
+2012.11-817,0,25346,gregory_g_garre,,913.07,914.836,"Yes, and that was done here."
+2012.11-817,0,15094,elena_kagan,scotus_justice,914.836,926.794,"And how about if you really, if there were some articles that said, you know, that there was a certain kind of method that, for example, led to a lot of subconscious cueing by the handler."
+2012.11-817,0,25346,gregory_g_garre,,932.965,934.983,"I -- I don't think so, Your Honor."
+2012.11-817,0,15094,elena_kagan,scotus_justice,942.589,957.247,"I'm using “ cueing ” not in terms of any intentionality, but one thing that I learned in reading all of this was that one difficulty here is that dogs respond to subconscious cues and that there are different ways of training that make that less or more of a problem."
+2012.11-817,0,25346,gregory_g_garre,,957.247,970.257,"And our position is, is that you can inquire into cueing during this hearing, that the defendants can -- can argue that the dog was cued, and in -- in the course of that argument you might be able to get into those sorts of things."
+2012.11-817,0,15094,elena_kagan,scotus_justice,984.249,985.032,"Yes, I didn't mean to say that."
+2012.11-817,0,25346,gregory_g_garre,,987.201,987.551,Right.
+2012.11-817,0,15086,john_g_roberts_jr,scotus_justice,1012.084,1012.867,"Thank you, counsel."
+2012.11-817,0,25346,gregory_g_garre,,1012.867,1013.367,Thank you.
+2012.11-817,0,15086,john_g_roberts_jr,scotus_justice,1013.367,1021.089,Mr. Palmore.
+2012.11-817,1,32447,joseph_r_palmore,,1021.089,1023.457,Mr. Chief Justice and may it please the Court:
+2012.11-817,1,15131,sonia_sotomayor,scotus_justice,1033.83,1035.849,"Counsel, I have two separate questions for you."
+2012.11-817,1,32447,joseph_r_palmore,,1060.314,1066.653,"--Yes, we believe that an alert by a trained dog is sufficient to establish probable cause."
+2012.11-817,1,15131,sonia_sotomayor,scotus_justice,1066.653,1091.936,"So that, without any other information about -- unlike the earlier case or this one, where the police officer saw the individual being nervous, et cetera, et cetera -- that all -- all it takes is a dog alert, despite the fact that there is no study that says the dogs reliably alert 100 percent of the time?"
+2012.11-817,1,32447,joseph_r_palmore,,1091.936,1096.172,100 percent of the time is of course not required for probable cause.
+2012.11-817,1,15131,sonia_sotomayor,scotus_justice,1096.172,1096.939,"No, I -- I understand."
+2012.11-817,1,32447,joseph_r_palmore,,1096.939,1102.993,"It's a fair probability standard and certainty is not required, and I think that was the principal and fundamental flaw of the Florida supreme court."
+2012.11-817,1,15131,sonia_sotomayor,scotus_justice,1109.647,1124.407,"So -- so shouldn't we be addressing the question whether a -- an alert, especially outside a home in particular, should be, standing by itself, enough?"
+2012.11-817,1,32447,joseph_r_palmore,,1124.407,1129.061,--I think what the Court -- of course reliability is important.
+2012.11-817,1,15131,sonia_sotomayor,scotus_justice,1163.33,1168.533,"Well, only because the officer said that he satisfactorily performed--"
+2012.11-817,1,32447,joseph_r_palmore,,1168.533,1169.283,Well--
+2012.11-817,1,15131,sonia_sotomayor,scotus_justice,1169.283,1172.085,--and what the Florida court said: But we don't know what that means.
+2012.11-817,1,32447,joseph_r_palmore,,1172.085,1174.187,"--Well, we -- I think we do know what it means, Your Honor."
+2012.11-817,1,15086,john_g_roberts_jr,scotus_justice,1218.399,1221.668,And you agree that that's an appropriate area of inquiry?
+2012.11-817,1,32447,joseph_r_palmore,,1221.668,1222.953,We think it is.
+2012.11-817,1,15086,john_g_roberts_jr,scotus_justice,1222.953,1231.44,"The judge, presented with, here's Aldo, he was -- went to this school, he was certified, the judge can say, when was he last tested, right?"
+2012.11-817,1,32447,joseph_r_palmore,,1233.309,1236.011,"Yes, I think the judge can ask those kinds of questions."
+2012.11-817,1,15086,john_g_roberts_jr,scotus_justice,1236.011,1239.98,--The -- the only thing really you say they can't ask about is what's -- what's his record.
+2012.11-817,1,32447,joseph_r_palmore,,1239.98,1245.2,"Well, there is a question -- there are a couple sub-issues here."
+2012.11-817,1,15113,anthony_m_kennedy,scotus_justice,1274.136,1277.588,And judges do this thousands of times in thousands of cases.
+2012.11-817,1,32447,joseph_r_palmore,,1296.099,1302.905,"--I think that's right, Your Honor, but I think the -- the critical aspect of reliability in this context is the dog's performance in a controlled setting."
+2012.11-817,1,15084,ruth_bader_ginsburg,scotus_justice,1302.905,1341.63,"Mr. Palmore, you criticize the Florida supreme court for requiring evidence of field performance; and, assuming that that evidence is not required, if the defendant, in preparing for the suppression motion, wants what information there is, would it be proper to seek -- for the defendant -- would it be permissible for the defendant to speak -- to seek through discovery whatever field performance records there are?"
+2012.11-817,1,32447,joseph_r_palmore,,1341.63,1344.815,"We don't think so, certainly not as a routine basis."
+2012.11-817,1,15094,elena_kagan,scotus_justice,1452.601,1461.357,"If you take out the Florida supreme court and this one trial court in Massachusetts, basically you think what courts have been doing is the right thing?"
+2012.11-817,1,32447,joseph_r_palmore,,1461.357,1463.142,In general.
+2012.11-817,1,15094,elena_kagan,scotus_justice,1486.758,1494.827,"But where at the same time they'll allow a defendant to question the handler about that training, about how the dog has performed in that training; is that right?"
+2012.11-817,1,32447,joseph_r_palmore,,1494.827,1495.411,--Yes.
+2012.11-817,1,15086,john_g_roberts_jr,scotus_justice,1544.244,1552.866,"Do you -- I'm not sure it's relevant, but do dogs -- does their ability -- is it even across the board?"
+2012.11-817,1,32447,joseph_r_palmore,,1559.437,1563.941,"--No, there -- well, I think any dog could be trained in either discipline."
+2012.11-817,1,15086,john_g_roberts_jr,scotus_justice,1580.95,1590.158,"So you don't know whether -- in other words, are dogs good at sniffing things, or are they -- can they be good at bombs, but not good at meth?"
+2012.11-817,1,32447,joseph_r_palmore,,1590.158,1593.027,"Well, I don't know the specific answer to that."
+2012.11-817,1,15049,antonin_scalia,scotus_justice,1600.014,1602.299,You don't want coon dogs chasing squirrels.
+2012.11-817,1,32447,joseph_r_palmore,,1602.299,1602.916,--Right.
+2012.11-817,1,15086,john_g_roberts_jr,scotus_justice,1619.76,1620.527,"Thank you, counsel."
+2012.11-817,2,25354,glen_p_gifford,,1629.7,1632.152,"Mr. Chief Justice, and may it please the Court:"
+2012.11-817,2,15113,anthony_m_kennedy,scotus_justice,1654.316,1659.469,Do you understand the government to disagree with that general position?
+2012.11-817,2,25354,glen_p_gifford,,1665.123,1669.241,I do understand the government to disagree about the relevance of field performance.
+2012.11-817,2,15139,stephen_g_breyer,scotus_justice,1678.364,1683.918,I didn't think they disagreed about what he may do; I thought they disagreed about what he must do.
+2012.11-817,2,25354,glen_p_gifford,,1691.107,1700.296,"Well, the Florida supreme court did have several passages in its opinion where it talked about what the state must produce."
+2012.11-817,2,15139,stephen_g_breyer,scotus_justice,1716.656,1717.424,"Well, that's a totally different matter."
+2012.11-817,2,25354,glen_p_gifford,,1737.402,1740.687,"I don't believe the Constitution requires it, and I don't believe--"
+2012.11-817,2,15139,stephen_g_breyer,scotus_justice,1740.687,1742.955,Doesn't the Supreme Court believes the Constitution requires it?
+2012.11-817,2,25354,glen_p_gifford,,1742.955,1746.657,"--No, I don't think so, even though they used the word must."
+2012.11-817,2,15139,stephen_g_breyer,scotus_justice,1761.167,1761.684,But what--
+2012.11-817,2,15084,ruth_bader_ginsburg,scotus_justice,1761.684,1776.194,"So if the state doesn't keep -- if the state doesn't keep any performance records, then there would be no field performance to show, but that doesn't mean the state loses; is that what you're saying?"
+2012.11-817,2,25354,glen_p_gifford,,1784.199,1792.953,"--If the state does not keep field performance records, that is a fact, that is a lack of evidence that could be held against the state in the suppression hearing."
+2012.11-817,2,15049,antonin_scalia,scotus_justice,1804.244,1807.279,Now I thought the court said -- held against the state.
+2012.11-817,2,25354,glen_p_gifford,,1815.033,1817.302,They did use--
+2012.11-817,2,15049,antonin_scalia,scotus_justice,1817.302,1818.202,--the search is invalid.
+2012.11-817,2,25354,glen_p_gifford,,1818.202,1819.67,--The court did use the word must--
+2012.11-817,2,15049,antonin_scalia,scotus_justice,1819.67,1820.604,Yes.
+2012.11-817,2,25354,glen_p_gifford,,1820.604,1826.073,--but it's not -- it's not a specific recipe that can't be deviated from.
+2012.11-817,2,15049,antonin_scalia,scotus_justice,1836.263,1837.048,Even worse.
+2012.11-817,2,25354,glen_p_gifford,,1837.048,1844.119,"So it's not a specific recipe, and it's talking about what -- if these records exist, they must be produced."
+2012.11-817,2,15084,ruth_bader_ginsburg,scotus_justice,1844.119,1854.677,"Are you conceding that the Florida supreme court, at least with respect to the field performance records, was wrong, that they -- it is not a Fourth Amendment requirement?"
+2012.11-817,2,25354,glen_p_gifford,,1854.677,1860.664,I don't think they -- I don't think they require field performance records to establish--
+2012.11-817,2,15084,ruth_bader_ginsburg,scotus_justice,1860.664,1867.4,"But they outline what the government must prove, and that was one of them."
+2012.11-817,2,25354,glen_p_gifford,,1867.4,1871.436,--They said what the government must produce if those records exist.
+2012.11-817,2,15049,antonin_scalia,scotus_justice,1918.35,1919.233,Is that a requirement too?
+2012.11-817,2,25354,glen_p_gifford,,1927.523,1933.86,"No, but that's an indicator of reliability, which is the ultimate test here, has this team been trained and certified together--"
+2012.11-817,2,15049,antonin_scalia,scotus_justice,1933.86,1934.295,"Well, fine."
+2012.11-817,2,25354,glen_p_gifford,,1949.804,1952.006,"--That's correct, there is no such evidence."
+2012.11-817,2,15049,antonin_scalia,scotus_justice,1952.006,1954.958,"Yes, and therefore end of case, right?"
+2012.11-817,2,25354,glen_p_gifford,,1954.958,1956.408,"No, not end of case."
+2012.11-817,2,15049,antonin_scalia,scotus_justice,1964.148,1965.364,Well--
+2012.11-817,2,15084,ruth_bader_ginsburg,scotus_justice,1965.364,1969.968,Doesn't this -- this officer has been working with this dog for many months.
+2012.11-817,2,25354,glen_p_gifford,,1989.18,1993.065,"Well, first, this weekly training is maintenance training."
+2012.11-817,2,15049,antonin_scalia,scotus_justice,2009.26,2011.462,--What -- what -- what are the -- what are the incentives here?
+2012.11-817,2,25354,glen_p_gifford,,2027.389,2032.125,The incentive is to acquire probable cause to search when it wouldn't otherwise -- otherwise be available.
+2012.11-817,2,15049,antonin_scalia,scotus_justice,2032.125,2033.542,And that's a good thing?
+2012.11-817,2,25354,glen_p_gifford,,2033.542,2035.91,Is that a good thing?
+2012.11-817,2,15049,antonin_scalia,scotus_justice,2035.91,2038.862,"I mean, you acquire probable cause, you go in and there's nothing there."
+2012.11-817,2,25354,glen_p_gifford,,2043.164,2046.802,And -- and you've invaded the privacy of an individual motorist who was innocent.
+2012.11-817,2,15049,antonin_scalia,scotus_justice,2046.802,2054.872,"Well, maybe the police department doesn't care about that, but it certainly cares about wasting the time of its police officers in fruitless searches."
+2012.11-817,2,25354,glen_p_gifford,,2054.872,2061.478,The incentive of the officer to be able to conduct a search when he doesn't otherwise have probable cause is a powerful incentive.
+2012.11-817,2,15049,antonin_scalia,scotus_justice,2067.049,2067.549,Willy-nilly.
+2012.11-817,2,25354,glen_p_gifford,,2082.475,2087.443,--Officers like to search so that they can get probable cause so that they can advance their career.
+2012.11-817,2,15049,antonin_scalia,scotus_justice,2089.395,2095.866,"They like to search where they're likely to find something, and that only exists when the dog is well trained."
+2012.11-817,2,25354,glen_p_gifford,,2098.485,2111.41,"But the question goes back to the dog's reliability, what the officer knows objectively, and what that officer can demonstrate on the stand to the trial court to determine by the totality of the circumstances that that dog is well trained."
+2012.11-817,2,15086,john_g_roberts_jr,scotus_justice,2111.41,2117.046,Getting back to -- I'm confused about the difference between must and is required.
+2012.11-817,2,25354,glen_p_gifford,,2144.632,2149.334,It is reversible error if we know what went into the training and certification.
+2012.11-817,2,15086,john_g_roberts_jr,scotus_justice,2155.939,2162.093,"You have, I guess, experts testify about whether -- what constitutes a good training program."
+2012.11-817,2,25354,glen_p_gifford,,2162.093,2174.067,"--No, not necessarily experts, but simply the -- the officer who participated with the dog can testify as to what he and the dog went through to obtain the training certificate and the -- and the certification."
+2012.11-817,2,15049,antonin_scalia,scotus_justice,2174.067,2181.155,"Oh, I assure you that if we agree with you there will be a whole body of experts that will spring into being about dog training."
+2012.11-817,2,25354,glen_p_gifford,,2184.506,2186.374,Those experts already exist.
+2012.11-817,2,15131,sonia_sotomayor,scotus_justice,2188.826,2212.942,"I understood the Florida supreme court, counselor, to say that the deficit in the training records here was because there was no evidence of false positives, that the reports didn't say, the training reports didn't say, if the dog was alerting falsely."
+2012.11-817,2,25354,glen_p_gifford,,2232.237,2237.189,That would be one of several showings that would make the training records adequate.
+2012.11-817,2,15131,sonia_sotomayor,scotus_justice,2272.897,2284.353,"I -- I guess what I'm asking you is, as a matter of law you want us to hold that training records are inadequate unless what?"
+2012.11-817,2,25354,glen_p_gifford,,2288.657,2289.507,No.
+2012.11-817,2,15049,antonin_scalia,scotus_justice,2316.891,2321.895,"But, counsel, you're defending a Florida supreme court opinion which says “ must ”."
+2012.11-817,2,25354,glen_p_gifford,,2342.908,2346.426,That is -- that is not the holding on which I'm relying here.
+2012.11-817,2,15049,antonin_scalia,scotus_justice,2379.833,2391.974,"But this is absent in the totality of the circumstances and you nonetheless hold that there was probable cause, then “ must ” does not mean “ must ”, right?"
+2012.11-817,2,25354,glen_p_gifford,,2391.974,2396.342,--“ Must ” means “ must ” if the State has the records.
+2012.11-817,2,15084,ruth_bader_ginsburg,scotus_justice,2400.394,2401.263,That's not what the Florida supreme court said?
+2012.11-817,2,25354,glen_p_gifford,,2409.334,2421.743,"--I read that as: If those records exist, the State must produce them, because not only does it bear the burden of proof; it's the only party that can produce these records because it keeps the dog."
+2012.11-817,2,15084,ruth_bader_ginsburg,scotus_justice,2421.743,2432.282,"Suppose it's -- it's a dog that's just completed the training, training course, top-performing dog in the training program, but there's no field record."
+2012.11-817,2,25354,glen_p_gifford,,2432.282,2444.073,"If that -- if the training is sufficient, if it has those elements that demonstrate that the dog is reliable, those are the circumstances."
+2012.11-817,2,15068,samuel_a_alito_jr,scotus_justice,2453.279,2478.58,"What is wrong with the State's argument that field performance records are not very probative because dogs detect odors, they don't detect the physical presence of the substance that created the odor, and therefore so-called false alerts, cases in which a search was performed and no contraband was found are not really cases of false alerts."
+2012.11-817,2,25354,glen_p_gifford,,2479.313,2486.686,"Well, you don't know whether they're cases of false alerts or not, because the State will always point to the possibility of residual odor as a reason."
+2012.11-817,2,15068,samuel_a_alito_jr,scotus_justice,2508.265,2516.371,"Well, that may all be true, but then what -- what can one infer from the fact that a dog alerted a number of times when no contraband was found?"
+2012.11-817,2,25354,glen_p_gifford,,2532.631,2545.272,"Well, what you can infer is this dog is not a very accurate indicator of probable cause, because probable cause tests whether drugs are likely to be found in a search that follows an alert."
+2012.11-817,2,15049,antonin_scalia,scotus_justice,2546.14,2552.794,"But they are likely to be found if there is a residual odor of drugs, even though the drugs are no longer there."
+2012.11-817,2,25354,glen_p_gifford,,2558.948,2577.676,"--But if a dog has -- but if a dog has previously alerted and no drugs have been found because the dog's hyperacuity causes him to smell drugs that were there two days or two weeks ago, then the next time that dog alerts, it's less likely, the probability declines that drugs will be found."
+2012.11-817,2,15131,sonia_sotomayor,scotus_justice,2589.051,2594.038,"Counsel, how is that any different than a police officer who comes to a car and smells marijuana?"
+2012.11-817,2,25354,glen_p_gifford,,2623.057,2624.04,That's correct.
+2012.11-817,2,15068,samuel_a_alito_jr,scotus_justice,2683.596,2684.215,"Well, excuse me."
+2012.11-817,2,25354,glen_p_gifford,,2707.311,2711.365,"--No, it doesn't mean that there wasn't residual odor."
+2012.11-817,2,15086,john_g_roberts_jr,scotus_justice,2733.112,2735.564,What's the magic number?
+2012.11-817,2,25354,glen_p_gifford,,2744.003,2760.013,"Well, this Court has always hesitated to assign percentages to probable cause; but, in the lower courts, once you get below 50 percent, probable cause is much less likely to be found, assuming that there is no other corroborative evidence, no other reasonable suspicion factors."
+2012.11-817,2,15084,ruth_bader_ginsburg,scotus_justice,2930.306,2943.631,"The alert -- the alert here could have been to residual odor, or it could have been to drugs inside the pickup truck."
+2012.11-817,2,25354,glen_p_gifford,,2985.375,2988.16,--It can constitute probable cause.
+2012.11-817,2,15113,anthony_m_kennedy,scotus_justice,2994.664,2995.081,Excuse me.
+2012.11-817,2,25354,glen_p_gifford,,2996.783,2997.1,--It may.
+2012.11-817,2,15049,antonin_scalia,scotus_justice,3040.212,3044.914,But at least we don't have to worry about mothballs in this case; is that right?
+2012.11-817,2,25354,glen_p_gifford,,3046.933,3047.383,No.
+2012.11-817,2,15068,samuel_a_alito_jr,scotus_justice,3048.985,3057.591,"Was that the holding in the Florida supreme court, that there was no probable cause because the dog alerted to the wrong part of the truck?"
+2012.11-817,2,25354,glen_p_gifford,,3057.591,3060.876,"No, Your Honor."
+2012.11-817,2,15068,samuel_a_alito_jr,scotus_justice,3060.876,3062.476,Was it any part of their reasoning?
+2012.11-817,2,25354,glen_p_gifford,,3062.476,3070.982,They were concerned about residual odor alerting without any explanation by the State as to how residual odor alerting supports probable cause.
+2012.11-817,2,15084,ruth_bader_ginsburg,scotus_justice,3082.972,3098.815,"--And if we think they were wrong in that respect, I suppose that you would say the Court shouldn't reverse, but should vacate and remand because the question did alert him to the door handle, was that enough?"
+2012.11-817,2,25354,glen_p_gifford,,3103.803,3108.107,"Well, I don't think the door handle itself is -- is dispositive."
+2012.11-817,2,15086,john_g_roberts_jr,scotus_justice,3142.344,3143.244,"Thank you, counsel."
+2012.11-817,3,25346,gregory_g_garre,,3144.946,3147.482,"Thank you, Your Honor."
+2012.11-817,3,15049,antonin_scalia,scotus_justice,3231.152,3233.254,Would you -- would you allow counsel to ask about that?
+2012.11-817,3,25346,gregory_g_garre,,3233.254,3235.456,"--I think they could ask about it, Your Honor."
+2012.11-817,3,15086,john_g_roberts_jr,scotus_justice,3299.713,3301.796,"Thank you, counsel."
+2012.11-817,3,25346,gregory_g_garre,,3301.796,3302.546,"Thank you, Your Honor."
+2012.11-817,3,15086,john_g_roberts_jr,scotus_justice,3302.546,3302.915,The case is submitted.

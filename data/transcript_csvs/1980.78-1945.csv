@@ -1,0 +1,163 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1980.78-1945,0,15073,warren_e_burger,scotus_justice,0.0,7.482,We'll hear arguments in Universities Research Association v. Coutu.
+1980.78-1945,0,39981,robert_e_mann,,50.34,53.791,"Good morning, Mr. Chief Justice, and may it please the Court:"
+1980.78-1945,0,15060,john_paul_stevens,scotus_justice,539.768,543.048,"Mr. Mann, could I just be sure I understand your position."
+1980.78-1945,0,39981,robert_e_mann,,573.363,586.717,"We have taken the position on that question, Mr. Justice Stevens, that there is under the Act no private right of action at all, even to recover under express provisions."
+1980.78-1945,0,15060,john_paul_stevens,scotus_justice,603.366,604.522,Did you take that position in the 7th Circuit?
+1980.78-1945,0,39981,robert_e_mann,,604.522,613.644,"The position of the 7th Circuit... that question was not asked in the 7th Circuit, and that issue was not actually before us."
+1980.78-1945,0,15060,john_paul_stevens,scotus_justice,613.644,615.69,But you didn't raise that in the 7th Circuit?
+1980.78-1945,0,39981,robert_e_mann,,615.69,616.143,That's correct.
+1980.78-1945,0,15060,john_paul_stevens,scotus_justice,616.143,616.94,Or in the trial court?
+1980.78-1945,0,39981,robert_e_mann,,616.94,626.701,In the trial court the question of the private right of action per se was raised in the context of the jurisdiction of the court to revise the contract.
+1980.78-1945,0,15060,john_paul_stevens,scotus_justice,658.611,667.687,"Well, I understand the distinction between predetermination and postdetermination, but it seems to me that's quite a different question than the question whether there is a private cause of action."
+1980.78-1945,0,39981,robert_e_mann,,682.46,702.859,"--Well, I believe the private cause of action comes in, Your Honor, in connection with the question of whether or not there is a private cause of action in the context of this case, to in effect secure a coverage determination by the federal court as opposed to the contracting agency."
+1980.78-1945,0,15060,john_paul_stevens,scotus_justice,702.859,713.403,"But would you say the contracting agency could, after the contract was performed, come in and say, we'd like to make a new, a postcontract coverage determination?"
+1980.78-1945,0,39981,robert_e_mann,,713.403,729.91,"I believe that the evolved law under the Davis-Bacon Act would hold that if the agency wishes to come in and amend the contract, the agency may find itself liable for increased cost, as an amendment for the convenience of the Government, for example."
+1980.78-1945,0,15060,john_paul_stevens,scotus_justice,761.555,765.429,"Well, if they assume the responsibility for paying the difference, I suppose anybody could do that."
+1980.78-1945,0,39981,robert_e_mann,,765.429,765.788,--That's correct.
+1980.78-1945,0,15060,john_paul_stevens,scotus_justice,766.226,767.475,"But assuming they're saying, no."
+1980.78-1945,0,39981,robert_e_mann,,778.566,780.863,--Our view of the law is that they cannot.
+1980.78-1945,0,15060,john_paul_stevens,scotus_justice,780.863,786.251,"In other words, it seems to me that if I understand your position correctly, it's the same whether the Government were the plaintiff or the employee was the plaintiff?"
+1980.78-1945,0,39981,robert_e_mann,,786.251,788.328,"That's correct, Your Honor."
+1980.78-1945,0,15060,john_paul_stevens,scotus_justice,788.328,791.936,"So the private cause of action issue, it seems to me, is a red herring in this case."
+1980.78-1945,0,39981,robert_e_mann,,791.936,797.387,"Well, except that the private cause of action raises a question as to who is going to control the terms of the contract."
+1980.78-1945,0,15060,john_paul_stevens,scotus_justice,823.035,824.41,"Well, if he's just saying, I want an amendment."
+1980.78-1945,0,39981,robert_e_mann,,831.843,833.421,--I would assume that.
+1980.78-1945,0,15060,john_paul_stevens,scotus_justice,833.421,837.981,So the public policy in the private cause of action issue is just a question of where he sues.
+1980.78-1945,0,39981,robert_e_mann,,837.981,841.418,"If there's an express term in the contract, that's correct."
+1980.78-1945,0,15043,potter_stewart,scotus_justice,842.496,845.682,"And that was in the McDaniel case by hypothesis, wasn't it?"
+1980.78-1945,0,39981,robert_e_mann,,845.682,846.337,--By hypothesis; that's correct.
+1980.78-1945,0,15141,william_h_rehnquist,scotus_justice,855.771,868.219,"In this case there never would have been a lawsuit had not a private individual claiming a private cause of action under the Davis-Bacon Act brought it, would there?"
+1980.78-1945,0,39981,robert_e_mann,,868.219,870.766,"So far as we know, that's right, Mr. Justice Rehnquist."
+1980.78-1945,0,15043,potter_stewart,scotus_justice,874.967,884.948,"So, if there is no... so, in other words, the question addressed in part II of your brief is the threshold question, is it not?"
+1980.78-1945,0,39981,robert_e_mann,,884.948,887.214,The private cause of action right?
+1980.78-1945,0,15043,potter_stewart,scotus_justice,887.214,887.448,Right.
+1980.78-1945,0,39981,robert_e_mann,,899.193,900.599,"Yes, Your Honor."
+1980.78-1945,0,15043,potter_stewart,scotus_justice,912.28,917.779,"If there's no private right of action in federal district court, that's the end of that case."
+1980.78-1945,0,39981,robert_e_mann,,917.779,918.293,That's the end of the court case.
+1980.78-1945,0,15073,warren_e_burger,scotus_justice,928.199,941.85,Mrs. Shapiro.
+1980.78-1945,1,28176,harriet_s_shapiro,,941.85,950.643,"Mr. Chief Justice, and may it please the Court:"
+1980.78-1945,1,15060,john_paul_stevens,scotus_justice,1211.349,1232.793,"Mrs. Shapiro, in a case such as you're describing where there is a clear determination that the Davis-Bacon Act is to be performed and to be paid for at the regular rates, assume there was a slip-up and for some reason an employee did not get paid the amount required by the statute and by the predetermination and all the rest of it, and for some reason the Government missed it in its review and paid out the contract."
+1980.78-1945,1,28176,harriet_s_shapiro,,1240.275,1243.774,In your hypothetical the provisions are in the contract?
+1980.78-1945,1,15060,john_paul_stevens,scotus_justice,1243.774,1244.32,Yes.
+1980.78-1945,1,28176,harriet_s_shapiro,,1244.32,1244.758,Yes.
+1980.78-1945,1,15060,john_paul_stevens,scotus_justice,1244.758,1248.381,He would only be... in the federal court he'd have such a cause of action?
+1980.78-1945,1,28176,harriet_s_shapiro,,1248.381,1249.631,Probably not in the federal court.
+1980.78-1945,1,15060,john_paul_stevens,scotus_justice,1250.24,1252.13,Why not in a federal?
+1980.78-1945,1,28176,harriet_s_shapiro,,1252.13,1252.941,--he would have an action on his contract.
+1980.78-1945,1,15060,john_paul_stevens,scotus_justice,1252.941,1253.457,Right.
+1980.78-1945,1,28176,harriet_s_shapiro,,1253.457,1254.519,It wouldn't be on the Davis-Bacon Act.
+1980.78-1945,1,15060,john_paul_stevens,scotus_justice,1256.019,1259.784,"He didn't have a contract with the employer, but he had a contract for a lesser amount with the employer."
+1980.78-1945,1,28176,harriet_s_shapiro,,1259.784,1262.094,--He's a third-party beneficiary of the contract that was written.
+1980.78-1945,1,15060,john_paul_stevens,scotus_justice,1262.094,1266.328,And in your view he'd have the remedy but would be confined to the state court?
+1980.78-1945,1,28176,harriet_s_shapiro,,1266.328,1267.514,That's correct?
+1980.78-1945,1,15060,john_paul_stevens,scotus_justice,1268.67,1270.326,So you ask us basically to overrule--
+1980.78-1945,1,28176,harriet_s_shapiro,,1272.638,1272.84,--Yes.
+1980.78-1945,1,15060,john_paul_stevens,scotus_justice,1272.84,1274.777,"Yes, and there's no federal remedy for violation--"
+1980.78-1945,1,28176,harriet_s_shapiro,,1274.777,1278.603,"Well, but... in that he certainly has an express remedy under the Davis-Bacon Act too."
+1980.78-1945,1,15060,john_paul_stevens,scotus_justice,1278.603,1281.196,"--Well, if he has a remedy... does he have a remedy?"
+1980.78-1945,1,28176,harriet_s_shapiro,,1281.196,1281.602,Like the Miller Act bond.
+1980.78-1945,1,15060,john_paul_stevens,scotus_justice,1282.149,1282.962,"No, no."
+1980.78-1945,1,28176,harriet_s_shapiro,,1287.897,1288.303,"--Yes, yes, that's right."
+1980.78-1945,1,15060,john_paul_stevens,scotus_justice,1288.303,1295.816,"And sometime later he then could sue his employer but you'd say, just as a matter of third-party beneficiary of a contract, but he has no federally protected rights."
+1980.78-1945,1,28176,harriet_s_shapiro,,1295.816,1297.503,That's right.
+1980.78-1945,1,15060,john_paul_stevens,scotus_justice,1297.862,1298.784,That's the Government's position?
+1980.78-1945,1,28176,harriet_s_shapiro,,1298.784,1306.092,"--as Mr. Justice Stewart pointed out, that's basically one... that's what we thought was involved in the McDaniel case."
+1980.78-1945,1,15060,john_paul_stevens,scotus_justice,1306.092,1313.34,You don't think he was still within the Cort v. Ash test of a person who was specifically intended to be the specific beneficiary of the statute in that case?
+1980.78-1945,1,28176,harriet_s_shapiro,,1313.34,1315.371,"Well, but--"
+1980.78-1945,1,15060,john_paul_stevens,scotus_justice,1315.371,1320.009,If the likelihood of a slip-up is so remote that he wouldn't--
+1980.78-1945,1,28176,harriet_s_shapiro,,1320.009,1324.57,"--In your case there has been no violation of the Davis-Bacon Act, because--"
+1980.78-1945,1,15060,john_paul_stevens,scotus_justice,1324.57,1326.148,"--Well, he wasn't paid as the--"
+1980.78-1945,1,28176,harriet_s_shapiro,,1326.148,1332.349,"--Well, what the Davis-Bacon Act requires is that the provisions be put in the contract."
+1980.78-1945,1,15060,john_paul_stevens,scotus_justice,1332.349,1337.315,--The Act does not require that the contract be performed in accordance with the law?
+1980.78-1945,1,28176,harriet_s_shapiro,,1337.315,1347.265,It gives certain remedies that are available but the contract... I mean--
+1980.78-1945,1,15060,john_paul_stevens,scotus_justice,1347.265,1352.78,"Well, then he shouldn't even have a remedy under state law, if I understand you correctly, because the law, as you said, has been complied with."
+1980.78-1945,1,28176,harriet_s_shapiro,,1354.419,1365.197,"--No, I mean, where he has under... whatever remedy he has under state law is not on the Davis-Bacon Act, it's on the contract provisions which require payment of the wages that he didn't get."
+1980.78-1945,1,15060,john_paul_stevens,scotus_justice,1458.673,1459.891,"Mrs. Shapiro, can I just refresh my recollection?"
+1980.78-1945,1,28176,harriet_s_shapiro,,1468.561,1469.653,--No.
+1980.78-1945,1,15060,john_paul_stevens,scotus_justice,1469.653,1470.794,I'm sorry.
+1980.78-1945,1,28176,harriet_s_shapiro,,1470.794,1472.683,I don't believe--
+1980.78-1945,1,15060,john_paul_stevens,scotus_justice,1472.683,1474.855,You took the position in that case that the 7th Circuit was wrong?
+1980.78-1945,1,28176,harriet_s_shapiro,,1474.855,1476.276,"--Yes, we did."
+1980.78-1945,1,15060,john_paul_stevens,scotus_justice,1517.275,1518.134,Right.
+1980.78-1945,1,28176,harriet_s_shapiro,,1518.134,1523.178,"And so that, on that theory... and we didn't think that... as a matter of fact, the decision--"
+1980.78-1945,1,15060,john_paul_stevens,scotus_justice,1523.178,1527.13,Your view then was there was never any federal implied cause of action under any circumstances?
+1980.78-1945,1,28176,harriet_s_shapiro,,1527.13,1535.673,"--But, the petitioner in McDaniel had not raised that particular question."
+1980.78-1945,1,15073,warren_e_burger,scotus_justice,1655.204,1663.045,Mr. Nye.
+1980.78-1945,2,40082,robert_jay_nye,,1663.045,1665.497,"Mr. Chief Justice, and may it please the Court:"
+1980.78-1945,2,15141,william_h_rehnquist,scotus_justice,1735.968,1739.123,Why'd you sue in federal court rather that state court?
+1980.78-1945,2,40082,robert_jay_nye,,1739.123,1743.56,"--Because, Your Honor, we have a federal right of action."
+1980.78-1945,2,15141,william_h_rehnquist,scotus_justice,1769.674,1771.126,"That refers to the Miller Act, doesn't it?"
+1980.78-1945,2,40082,robert_jay_nye,,1771.126,1780.684,"Well, if it does, Your Honor, and if it is to be so construed, it was not so construed in the Binghamton case, but of course that case did not involve the question."
+1980.78-1945,2,15141,william_h_rehnquist,scotus_justice,1809.861,1828.603,"That may be, but it would not seem to me to necessarily follow that because the employer hasn't provided a bond which Congress has required him to file, that gives an employee a private right of action in a federal court."
+1980.78-1945,2,40082,robert_jay_nye,,1828.603,1836.414,"If the Court please, the question, as the 7th Circuit has said in the McDaniel cases, is not the existence of a private right of action."
+1980.78-1945,2,15141,william_h_rehnquist,scotus_justice,1838.678,1843.426,We granted certiorari here to review the judgment of the 7th Circuit.
+1980.78-1945,2,40082,robert_jay_nye,,1843.426,1844.051,"Yes, Your Honor."
+1980.78-1945,2,15141,william_h_rehnquist,scotus_justice,1856.858,1868.119,Did they say in so many words that an employee shall have a private right of action against an employer for failure to comply with the Davis-Bacon Act?
+1980.78-1945,2,40082,robert_jay_nye,,1868.119,1871.508,--In my interpretation of that language--
+1980.78-1945,2,15141,william_h_rehnquist,scotus_justice,1871.508,1878.725,"Well, I mean... certainly; you're a lawyer, I was a lawyer and like to think of myself as still being one."
+1980.78-1945,2,40082,robert_jay_nye,,1900.652,1905.54,"--I say... I must take two positions, Your Honor."
+1980.78-1945,2,15141,william_h_rehnquist,scotus_justice,1907.306,1907.712,Where?
+1980.78-1945,2,40082,robert_jay_nye,,1907.712,1909.337,--grant the employee that right of action.
+1980.78-1945,2,15141,william_h_rehnquist,scotus_justice,1940.496,1944.683,Give me the exact language of Section 3(b) as you rely on it.
+1980.78-1945,2,40082,robert_jay_nye,,1944.683,1945.79,--I am quoting it.
+1980.78-1945,2,15141,william_h_rehnquist,scotus_justice,1966.252,1977.482,"Yes, but that refers to... that refers back to the right of action conferred by law upon persons furnishing labor or material."
+1980.78-1945,2,40082,robert_jay_nye,,1979.232,1981.919,"--Well, that may be the decision of this Court."
+1980.78-1945,2,15141,william_h_rehnquist,scotus_justice,2018.996,2033.866,"But would you say the same thing if a contractor went into bankruptcy, the Miller Act funds were exhausted, and even given the wage priority, your clients simply couldn't recover?"
+1980.78-1945,2,40082,robert_jay_nye,,2033.866,2038.318,"If they can't recover, they can't recover, Your Honor, if there are no funds."
+1980.78-1945,2,15073,warren_e_burger,scotus_justice,2060.716,2068.525,What do you have to say about the 1964 amendments on this issue of whether a cause of action should be implied?
+1980.78-1945,2,40082,robert_jay_nye,,2068.525,2076.6,"The 1964 amendments to my recollection, Your Honor, had nothing to do with the existence or nonexistence of the right of action."
+1980.78-1945,2,15073,warren_e_burger,scotus_justice,2076.6,2082.191,Wasn't there an effort at that time to amend the statute to provide expressly for--
+1980.78-1945,2,40082,robert_jay_nye,,2082.191,2105.697,"Representative Goodell in his attempt to place an amendment in the Act, which did not pass, sought to open up the entire area of judicial review concerning all aspects of the Act, at least according to his proposed bill, his proposed amendments."
+1980.78-1945,2,15141,william_h_rehnquist,scotus_justice,2496.993,2502.427,--But that isn't the same question as saying where they have a right to sue on those contracts.
+1980.78-1945,2,40082,robert_jay_nye,,2502.427,2504.505,That's a separate question.
+1980.78-1945,2,15141,william_h_rehnquist,scotus_justice,2507.941,2521.889,"Do you disagree with your opponent's reply brief at pages 14 and 15, as to his account of how he claims to have raised it in the 7th Circuit treatment of McDaniel I, McDaniel II?"
+1980.78-1945,2,40082,robert_jay_nye,,2528.542,2530.76,"Well, if I may examine that?"
+1980.78-1945,2,15141,william_h_rehnquist,scotus_justice,2530.76,2531.588,"Well, no, don't--"
+1980.78-1945,2,40082,robert_jay_nye,,2531.588,2535.117,"He did not raise it, it was not dealt with in that."
+1980.78-1945,2,15071,byron_r_white,scotus_justice,2586.113,2588.535,--That was available then?
+1980.78-1945,2,40082,robert_jay_nye,,2588.535,2591.096,"Or is available today, Your Honor."
+1980.78-1945,2,15071,byron_r_white,scotus_justice,2591.096,2591.581,I know.
+1980.78-1945,2,40082,robert_jay_nye,,2596.063,2596.641,"No, your Honor."
+1980.78-1945,2,15071,byron_r_white,scotus_justice,2608.245,2610.431,"After... I know, after the contract issued."
+1980.78-1945,2,40082,robert_jay_nye,,2610.431,2610.728,That's right.
+1980.78-1945,2,15071,byron_r_white,scotus_justice,2610.728,2611.916,"Well, how about before?"
+1980.78-1945,2,40082,robert_jay_nye,,2611.916,2615.055,"He was not a wage earner for this petitioner before, Your Honor."
+1980.78-1945,2,15141,william_h_rehnquist,scotus_justice,2698.506,2714.218,"Well, Mr. Nye, considering the fact that federal courts are courts of limited jurisdiction, on what jurisdictional section of the Title 28 do you rely for being in court here?"
+1980.78-1945,2,40082,robert_jay_nye,,2714.218,2727.214,"Section 1337, Your Honor, a civil action, a civil case arising under any statute, any federal statute affecting interstate commerce."
+1980.78-1945,2,15071,byron_r_white,scotus_justice,2992.559,3026.123,"So, any time the agency issues a contract and has made a determination that there is no coverage, that it isn't covered, I suppose you would... the contract would issue and there wouldn't be a surety bond, and in any of those circumstances if you allege that the agency mistakenly decided that there was no coverage, you would have... you should be able to have the court redetermine coverage."
+1980.78-1945,2,40082,robert_jay_nye,,3026.123,3031.215,"--Well, I know that Your Honor wants direct answers so I'm going to give you one: yes, Your Honor."
+1980.78-1945,2,15071,byron_r_white,scotus_justice,3031.215,3031.543,Yes.
+1980.78-1945,2,40082,robert_jay_nye,,3032.026,3032.729,That's true.
+1980.78-1945,2,15071,byron_r_white,scotus_justice,3033.948,3034.244,Oh.
+1980.78-1945,2,40082,robert_jay_nye,,3034.244,3038.867,There is no coverage determination saying that the Davis-Bacon Act does not apply in this case.
+1980.78-1945,2,15071,byron_r_white,scotus_justice,3038.867,3042.679,"I know, but they didn't... but they didn't provide for it."
+1980.78-1945,2,40082,robert_jay_nye,,3042.679,3051.566,"If the Court please, they referred to it, they spoke about it, they did everything except put a long list of stipulations in the contract."
+1980.78-1945,2,15043,potter_stewart,scotus_justice,3062.763,3066.466,"Well, that ""long list of stipulations"", as you call it, is required by the Davis-Bacon Act, is it not?"
+1980.78-1945,2,40082,robert_jay_nye,,3066.466,3070.418,The Davis-Bacon Act requires that there be certain stipulations; that's--
+1980.78-1945,2,15043,potter_stewart,scotus_justice,3070.418,3075.119,And therefore its absence indicates that the parties determined that the Davis-Bacon Act is inapplicable.
+1980.78-1945,2,40082,robert_jay_nye,,3075.119,3089.863,"--Well... or the parties... well, I know the reason why they did not include that: because they intended that all Davis-Bacon work under this Davis-Bacon contract was to be subcontracted, and that the subcontracts would include those stipulations."
+1980.78-1945,2,15043,potter_stewart,scotus_justice,3102.03,3103.45,I see.
+1980.78-1945,2,40082,robert_jay_nye,,3115.57,3117.476,"That's what I contend, even--"
+1980.78-1945,2,15060,john_paul_stevens,scotus_justice,3117.476,3121.521,"Do you rely on paragraph 33, is that the paragraph you rely on for that, or is it a different paragraph?"
+1980.78-1945,2,40082,robert_jay_nye,,3121.521,3125.911,"--No, it's a letter, a memorandum of understanding in our joint appendix."
+1980.78-1945,2,15060,john_paul_stevens,scotus_justice,3174.844,3186.714,"But don't you run into the same problem Justice Stewart just identified, though, the very fact that it was not subsequently modified tends to indicate that the two parties agreed that no Davis-Bacon Act work had been performed?"
+1980.78-1945,2,40082,robert_jay_nye,,3186.714,3198.132,"Well, if the Court please, even this Davis-Bacon committee... it's an informal committee; it's not as formal as counsel would let us believe, and I was present at the depositions where it was described."
+1980.78-1945,2,15060,john_paul_stevens,scotus_justice,3253.345,3267.573,"But Mr. Nye, just sticking with that for just a second, is it not true that if that happened the way you describe, the Government had a duty not to pay the contract price until they were satisfied that the employees had been paid the appropriate wages, isn't that true?"
+1980.78-1945,2,40082,robert_jay_nye,,3267.573,3271.493,"--Well, there's question as to how that's effectuated, if the Court please."
+1980.78-1945,2,15060,john_paul_stevens,scotus_justice,3288.862,3299.56,"Well, is it not true as a sort of a general proposition that the Government has a duty not to pay out in full on the contract until it's satisfied that there's been no violation of the Davis-Bacon Act?"
+1980.78-1945,2,40082,robert_jay_nye,,3299.56,3300.936,I think that there is such a duty.
+1980.78-1945,2,15071,byron_r_white,scotus_justice,3449.953,3456.903,I take it that the heart of the Government's submission is that the agency determination of coverage is just unreviewable?
+1980.78-1945,2,40082,robert_jay_nye,,3456.903,3469.897,"If the Court please, I suggest that the agency has no function in deciding or not deciding with any binding effect that a contract is covered or not."
+1980.78-1945,2,15071,byron_r_white,scotus_justice,3469.897,3473.177,"I know that, but don't you understand the Government to assert what I say?"
+1980.78-1945,2,40082,robert_jay_nye,,3473.177,3473.724,"Yes, Your Honor."
+1980.78-1945,2,15071,byron_r_white,scotus_justice,3473.724,3489.234,"And that if the agency makes a determination before contracting and that is subject to appeal, I suppose, to the Department of Labor, but the Department of Labor's decision may or may not bind the agency."
+1980.78-1945,2,40082,robert_jay_nye,,3495.872,3497.12,"I assume that that's what they are saying, and to that extent--"
+1980.78-1945,2,15043,potter_stewart,scotus_justice,3497.12,3505.569,"I thought, rather, that the specific question exposed by my brother White was one that the Government took no position on?"
+1980.78-1945,2,40082,robert_jay_nye,,3521.048,3523.796,--It is--
+1980.78-1945,2,15071,byron_r_white,scotus_justice,3523.796,3526.403,"--Or where there wasn't... at least, where there's no administrative remedy now?"
+1980.78-1945,2,40082,robert_jay_nye,,3526.403,3529.044,"--There is no... absolutely, there is no administrative remedy."
+1980.78-1945,2,15073,warren_e_burger,scotus_justice,3548.74,3551.348,Do you have anything further?
+1980.78-1945,3,39981,robert_e_mann,,3551.348,3554.378,"Just one, comment, Jr. Chief Justice."
+1980.78-1945,3,15060,john_paul_stevens,scotus_justice,3595.189,3600.922,May I just ask one other question in response to something Mr. Nye had said?
+1980.78-1945,3,39981,robert_e_mann,,3620.054,3622.96,"If they provided that, yes, sir."

@@ -1,0 +1,154 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1984.84-249,0,15073,warren_e_burger,scotus_justice,0.0,40.041,"Mr. Parr, you may proceed whenever you're ready."
+1984.84-249,0,27805,henry_l_parr_jr,,40.041,47.481,"Mr. Chief Justice, and may it please the Court:"
+1984.84-249,0,15071,byron_r_white,scotus_justice,129.183,130.718,What kind of an action did they bring?
+1984.84-249,0,27805,henry_l_parr_jr,,130.718,135.603,--They brought an action under Section 1983 and under the Constitution itself.
+1984.84-249,0,15071,byron_r_white,scotus_justice,135.603,141.324,And did they purport to bring an action under state law?
+1984.84-249,0,27805,henry_l_parr_jr,,141.324,144.193,They invoked Section 12-47-220.
+1984.84-249,0,15071,byron_r_white,scotus_justice,144.193,145.478,Which is what kind of an action?
+1984.84-249,0,27805,henry_l_parr_jr,,145.478,148.097,It is a waiver of sovereign immunity.
+1984.84-249,0,15071,byron_r_white,scotus_justice,150.263,151.381,But is it a refund?
+1984.84-249,0,27805,henry_l_parr_jr,,154.333,155.183,"Yes, Your Honor."
+1984.84-249,0,15071,byron_r_white,scotus_justice,155.183,158.952,"That's really the state's remedy, to sue for a refund, isn't it?"
+1984.84-249,0,27805,henry_l_parr_jr,,158.952,159.654,"Yes, Your Honor."
+1984.84-249,0,15071,byron_r_white,scotus_justice,159.654,166.741,And as part of that your refund was going to be based on the unconstitutionality of the law.
+1984.84-249,0,27805,henry_l_parr_jr,,166.741,168.024,That is correct.
+1984.84-249,0,15141,william_h_rehnquist,scotus_justice,218.693,231.5,"Mr. Parr, certainly there are some limits to the broad proposition I understand... for instance, the Federal Rules of Civil Procedure, although passed by Congress, are not the law in South Carolina courts, are they?"
+1984.84-249,0,27805,henry_l_parr_jr,,231.5,233.05,"--That's correct, Your Honor."
+1984.84-249,0,15141,william_h_rehnquist,scotus_justice,239.454,244.858,So the question is whether Congress intended Section 1983 to be mandatory on the state courts.
+1984.84-249,0,27805,henry_l_parr_jr,,244.858,247.81,"Well, I don't think that is the question."
+1984.84-249,0,15141,william_h_rehnquist,scotus_justice,290.82,295.623,"Well, you say the existence of jurisdiction creates an obligation to exercise it."
+1984.84-249,0,27805,henry_l_parr_jr,,300.008,314.935,"It means that when a court has the judicial power to enforce a law and the law is applicable in that court's domain, the court must enforce that law under the Supremacy Clause."
+1984.84-249,0,15141,william_h_rehnquist,scotus_justice,314.935,320.839,"Well, so that regardless of what Congress intended, that rule applied?"
+1984.84-249,0,27805,henry_l_parr_jr,,320.839,330.095,"If Congress intended to give the federal courts exclusive jurisdiction over a cause of action, the state courts would not have the obligation or the jurisdiction to enforce the law."
+1984.84-249,0,15141,william_h_rehnquist,scotus_justice,330.095,341.235,"Well, but what if the intent of Congress was to say federal courts have jurisdiction of 1983 controversies; state courts may take jurisdiction of them if they want, but they don't have to?"
+1984.84-249,0,27805,henry_l_parr_jr,,345.973,360.983,"It is conceivable that Congress might have had that intent, except that I don't think Congress would have enacted Section 1983 and left a whole class of those cases without any forum in which they could be brought."
+1984.84-249,0,15141,william_h_rehnquist,scotus_justice,360.983,374.825,"But if Congress did have that particular intent in mind, it would prevail over the kind of assertion that the existence of jurisdiction obligates one to exercise or whatever it was you said, wouldn't it?"
+1984.84-249,0,27805,henry_l_parr_jr,,374.825,383.598,"I will concede that if Congress specifically said we do not intend for state courts to have to enforce this law, that the Supremacy Clause would not require them to do so."
+1984.84-249,0,15141,william_h_rehnquist,scotus_justice,383.598,394.204,"And what if we went back, even though Congress hadn't expressly said it, and came to the conclusion from reading the legislative debates that that was exactly what Congress intended; wouldn't the same conclusion be required?"
+1984.84-249,0,27805,henry_l_parr_jr,,394.204,405.028,"I think it would require a very clear showing of congressional intent, and I am not aware of any extensive debate on Section 1 of the 1871 Civil Rights Act which indicates that."
+1984.84-249,0,15073,warren_e_burger,scotus_justice,413.016,423.823,"Well, are you arguing, Mr. Parr, that Section 1988 is the tail of 1983 that follows the dog when it goes into state courts?"
+1984.84-249,0,27805,henry_l_parr_jr,,423.823,438.583,"I'm arguing, Your Honor, just as this Court declared in Maine v. Thiboutot, that Section 1988 attorney's fees are part of the remedies available under Section 1983, and they come as one package."
+1984.84-249,0,15092,sandra_day_oconnor,scotus_justice,476.024,486.564,"Mr. Parr, are there any circumstances in your view under which a state court could refuse to entertain a Section 1983 claim?"
+1984.84-249,0,27805,henry_l_parr_jr,,486.564,492.551,It can do so when its refusal to entertain the claim does not frustrate Congress' policy.
+1984.84-249,0,15092,sandra_day_oconnor,scotus_justice,505.477,509.245,How about failure to exhaust state administrative remedies?
+1984.84-249,0,27805,henry_l_parr_jr,,509.245,528.743,"That is a very subtle question which this Court has yet to address and, I would like to point out, need not address in this case, and not in a category of cases like this in South Carolina, because the state court in South Carolina has said exhaustion is not required in tax cases when only constitutional and legal issues are involved."
+1984.84-249,0,15092,sandra_day_oconnor,scotus_justice,529.209,532.611,What about a jurisdiction that does require it.
+1984.84-249,0,27805,henry_l_parr_jr,,532.611,544.768,--In the other cases this Court would have to look very carefully at the considerations that led to its opinion in Patsy requiring exhaustion in federal courts to see if those same considerations apply in state courts.
+1984.84-249,0,15092,sandra_day_oconnor,scotus_justice,558.178,569.034,"Well, I suppose exhaustion could be a matter of a prerequisite to state court jurisdiction, depending on how it's set up in the state."
+1984.84-249,0,27805,henry_l_parr_jr,,569.034,577.74,"--It could be, but if it were imposed in a way to frustrate the intent of Congress, I don't think that the Supremacy Clause would allow a state to do that."
+1984.84-249,0,15141,william_h_rehnquist,scotus_justice,577.74,592.733,Could a state court pass an anti-injunction act as a counterpart of the federal anti-injunction act to preclude injunctive relief when you're seeking a tax... when you're making a constitutional tax claim in a state court?
+1984.84-249,0,27805,henry_l_parr_jr,,592.733,598.153,I don't think a state court could do that in a way that would frustrate the intent of Congress.
+1984.84-249,0,15141,william_h_rehnquist,scotus_justice,598.153,601.189,"Well, how would you know whether it frustrated the intent of Congress?"
+1984.84-249,0,27805,henry_l_parr_jr,,601.189,604.724,You would have to have a particular case in front of you.
+1984.84-249,0,15141,william_h_rehnquist,scotus_justice,612.228,626.137,"Well, suppose that in your case you had sought injunctive relief from this kind of tax levy, and South Carolina had a statute saying that the courts do not enjoin the enforcement of the tax act."
+1984.84-249,0,27805,henry_l_parr_jr,,628.487,630.672,I don't think that the statute--
+1984.84-249,0,15071,byron_r_white,scotus_justice,630.672,633.041,"South Carolina has that type of rule, doesn't it?"
+1984.84-249,0,27805,henry_l_parr_jr,,633.041,635.576,"--Yes, Your Honor, it does have that kind of rule."
+1984.84-249,0,15071,byron_r_white,scotus_justice,635.576,636.126,Sure.
+1984.84-249,0,27805,henry_l_parr_jr,,640.897,654.704,"Well, the supreme court of South Carolina has said that the statute prohibiting injunctions is not enforceable unless there is an adequate remedy at law, because the constitution of South Carolina gives the circuit courts general jurisdiction."
+1984.84-249,0,15141,william_h_rehnquist,scotus_justice,654.704,662.541,"Well, what if the supreme court of South Carolina was suing for a refund as an adequate remedy; you nonetheless sought an injunction."
+1984.84-249,0,27805,henry_l_parr_jr,,672.832,679.902,"If there were a conflict between 1983 and the anti-injunction act passed by the state legislature, 1983 would prevail."
+1984.84-249,0,15071,byron_r_white,scotus_justice,711.791,713.557,What about a declaratory judgment?
+1984.84-249,0,27805,henry_l_parr_jr,,713.557,715.826,--Declaratory--
+1984.84-249,0,15071,byron_r_white,scotus_justice,715.826,733.287,"Do you think that a taxpayer just couldn't come in and say... the Spencers couldn't have come in and just brought an action under state law to say I want a declaratory judgment that this tax provision is unconstitutional, because I don't want them to be collecting it from me any more."
+1984.84-249,0,27805,henry_l_parr_jr,,733.287,741.31,--In that case a declaratory judgment would be bound by equitable principles as well if they didn't also follow the refund system provided by state law.
+1984.84-249,0,15071,byron_r_white,scotus_justice,819.576,835.685,And you wouldn't suggest that if the Spencers had gone into federal court under 1983 they could have successfully claimed that they should be in federal court because the remedy in South Carolina was insufficient because it didn't allow attorney's fees?
+1984.84-249,0,27805,henry_l_parr_jr,,835.685,844.858,"I think that the rule of Testa v. Katt would have made their argument erroneous, because it would have been clear that the state courts were obligated to enforce the federal law."
+1984.84-249,0,15071,byron_r_white,scotus_justice,844.858,858.284,"And so the Testa against Katt would have made the state... would have made the state give attorney's fees, is that it?"
+1984.84-249,0,27805,henry_l_parr_jr,,858.284,864.271,"Would have made the state enforce Section 1988, and therefore, there would have been a remedy available in state courts."
+1984.84-249,0,15071,byron_r_white,scotus_justice,864.271,867.223,"Well, that just assumes you're right in this case."
+1984.84-249,0,27805,henry_l_parr_jr,,867.223,871.775,"And I would say likewise, if for some reason the state courts were not obligated--"
+1984.84-249,0,15071,byron_r_white,scotus_justice,871.775,884.649,But you wouldn't think that just per se that the unavailability of attorney's fees in a state remedy would just make that remedy inadequate for purposes of the Tax Injunction Act?
+1984.84-249,0,27805,henry_l_parr_jr,,884.649,887.268,"--I would say that, Mr. Justice White."
+1984.84-249,0,15060,john_paul_stevens,scotus_justice,1009.979,1014.699,May I ask you a question about the scope of your position?
+1984.84-249,0,27805,henry_l_parr_jr,,1019.001,1020.52,"That is correct, Justice Stevens."
+1984.84-249,0,15060,john_paul_stevens,scotus_justice,1020.52,1035.197,"And what is your position; that any time you make a 1983 claim, and that supposing the Court could grant relief to your client on state law grounds alone without reaching the constitutional issue, would you be entitled to fees then?"
+1984.84-249,0,27805,henry_l_parr_jr,,1035.197,1047.337,"Yes, you would, as this Court pointed out in Maher v. Gagne when it cited the House report on the Civil Rights Attorney's Fees Act, when there is a substantial constitutional claim that would justify federal jurisdiction under--"
+1984.84-249,0,15060,john_paul_stevens,scotus_justice,1047.337,1068.668,"Does that mean that in every case in which you've got two alternative theories... one, a state law claim that would not require reaching a constitutional issue, and also a federal constitutional claim... that it becomes the duty of the trial judge to make at least a summary appraisal of the merits of the constitutional issue in order to decide whether you're entitled to fees?"
+1984.84-249,0,27805,henry_l_parr_jr,,1068.668,1069.468,"--Yes, Your Honor."
+1984.84-249,0,15060,john_paul_stevens,scotus_justice,1069.468,1082.593,"So that Congress, in effect, has reversed one of our principles of constitutional adjudication, that we try to avoid constitutional issues whenever we can, and says in every case when one is raised, you at least give a tentative appraisal of the merits of the claim."
+1984.84-249,0,27805,henry_l_parr_jr,,1082.593,1089.764,Congress tried to accommodate that principle to the extent that it could and also accomplish what it wanted to accomplish.
+1984.84-249,0,15060,john_paul_stevens,scotus_justice,1100.972,1113.613,"But... and not only federal courts but state courts must always take a good, hard look at the federal constitutional claim, even though it's perfectly clear that as a matter of state law you might have prevailed under your state constitution."
+1984.84-249,0,27805,henry_l_parr_jr,,1117.349,1118.517,--That is.
+1984.84-249,0,15045,harry_a_blackmun,scotus_justice,1122.235,1128.389,"Mr. Parr, if you prevail here, are you assured of getting attorney's fees?"
+1984.84-249,0,27805,henry_l_parr_jr,,1128.389,1138.911,"There has been no exercise of discretion in the courts below, but the rule, as this Court has acknowledged, is that attorney's fees are normally available unless it would be unjust to award them."
+1984.84-249,0,15045,harry_a_blackmun,scotus_justice,1141.213,1147.85,"There is an element of discretion so that you might win now and still not get fees ultimately, I suppose."
+1984.84-249,0,27805,henry_l_parr_jr,,1147.85,1156.539,Our position is the discretion is very limited and that there is no evidence in this record of any unjustness in awarding attorney's fees to the Spencers in this case.
+1984.84-249,0,15141,william_h_rehnquist,scotus_justice,1156.539,1163.11,"The result suggested by Mr. Justice Blackmun would make your victory even more tasteless, I suppose."
+1984.84-249,0,27805,henry_l_parr_jr,,1163.276,1163.942,"Yes, Your Honor."
+1984.84-249,0,15073,warren_e_burger,scotus_justice,1163.942,1172.632,Does South Carolina have any limitation that the attorney's fee award can't be any higher than the award in the lawsuit itself?
+1984.84-249,0,27805,henry_l_parr_jr,,1172.632,1173.865,"No, Your Honor."
+1984.84-249,0,15073,warren_e_burger,scotus_justice,1181.321,1181.738,No.
+1984.84-249,0,27805,henry_l_parr_jr,,1188.057,1191.176,"--I know of no such limitation, Mr. Chief Justice."
+1984.84-249,0,15045,harry_a_blackmun,scotus_justice,1193.276,1201.198,"--Well, of course, if you knock a statute out which reaches far longer than the Spencers."
+1984.84-249,0,27805,henry_l_parr_jr,,1201.198,1205.067,"--That is our position, Mr. Justice Blackmun."
+1984.84-249,0,15104,thurgood_marshall,scotus_justice,1207.352,1212.637,I am sure that the framers of 1983 meant for it to apply to banks.
+1984.84-249,0,27805,henry_l_parr_jr,,1212.637,1226.33,"--I don't think they were thinking about banks, Mr. Justice Marshall, but they were thinking about people, individuals whose constitutional rights had been deprived, and that is who is before the Court today."
+1984.84-249,0,15073,warren_e_burger,scotus_justice,1230.098,1234.502,Mr. Stevens.
+1984.84-249,1,40452,ray_n_stevens,,1234.502,1237.621,"Mr. Chief Justice, and may it please the Court:"
+1984.84-249,1,15141,william_h_rehnquist,scotus_justice,1437.702,1441.554,"But here there was a statement under protest and an action to recover, wasn't there?"
+1984.84-249,1,40452,ray_n_stevens,,1441.554,1442.937,"That's correct, Your Honor."
+1984.84-249,1,15141,william_h_rehnquist,scotus_justice,1464.77,1479.679,"Well, but is it a sufficient answer, as you suggest, this neutral principles point that you're... if Congress had said in so many words the state courts of South Carolina must entertain 1983 actions?"
+1984.84-249,1,40452,ray_n_stevens,,1479.679,1481.964,"Your Honor, that point is well taken."
+1984.84-249,1,15073,warren_e_burger,scotus_justice,1533.064,1543.436,"Well, did I understand you to say that the state court did acknowledge this as a 1983 action as part of its conclusion?"
+1984.84-249,1,40452,ray_n_stevens,,1543.436,1549.507,The opinion of our South Carolina supreme court does not expressly answer that question.
+1984.84-249,1,15073,warren_e_burger,scotus_justice,1556.779,1559.381,"Well, what did the trial court think it was doing?"
+1984.84-249,1,40452,ray_n_stevens,,1559.381,1566.035,--The trial court thought that it was giving relief under the payment under protest provision of 12-47-220.
+1984.84-249,1,15073,warren_e_burger,scotus_justice,1566.035,1567.487,And not 1983?
+1984.84-249,1,40452,ray_n_stevens,,1567.487,1569.47,"And not 1983, no, sir."
+1984.84-249,1,15071,byron_r_white,scotus_justice,1647.689,1668.853,"Do you think South Carolina in this case could have... say the South Carolina, court said well, we understand you're alleging a violation of the Constitution as part of your suit for a refund, but we just don't entertain federal constitutional claims in our courts."
+1984.84-249,1,40452,ray_n_stevens,,1668.853,1673.488,"--Your Honor, they could not have said that and survived constitutional muster."
+1984.84-249,1,15071,byron_r_white,scotus_justice,1673.488,1683.295,"Well, I know, but would they... why couldn't they have said that, which would have meant the remedy was inadequate, and the taxpayers go to federal court?"
+1984.84-249,1,40452,ray_n_stevens,,1699.455,1709.078,"They would have had to have heard it if he had satisfied the jurisdictional requirements of the state and 12-47-220, the South Carolina--"
+1984.84-249,1,15071,byron_r_white,scotus_justice,1709.078,1716.6,"Well, at least your submission certainly is that South Carolina entertains constitutional claims all the time."
+1984.84-249,1,40452,ray_n_stevens,,1716.6,1717.816,--That's exactly right.
+1984.84-249,1,15071,byron_r_white,scotus_justice,1717.816,1718.951,As part of the refund claim.
+1984.84-249,1,40452,ray_n_stevens,,1718.951,1720.068,That's exactly right.
+1984.84-249,1,15071,byron_r_white,scotus_justice,1750.94,1761.362,"You say that as long as South Carolina doesn't turn down federal constitutional claims, it may decide just not to award attorney's fees."
+1984.84-249,1,40452,ray_n_stevens,,1761.362,1763.73,"Yes, sir, in this instance, until--"
+1984.84-249,1,15071,byron_r_white,scotus_justice,1763.73,1778.99,"Or in any other instance that the legislature... if the South Carolina legislature says in no case... everybody pays his own attorney's fees, no fee shifting at all in any case, you would say that should go for federal constitutional claims as well."
+1984.84-249,1,40452,ray_n_stevens,,1778.99,1783.328,"--Yes, sir, until Congress directs otherwise."
+1984.84-249,1,15073,warren_e_burger,scotus_justice,1783.328,1783.911,"Yes, yes."
+1984.84-249,1,40452,ray_n_stevens,,1799.42,1806.407,"Your Honor, my position would be that if 1983 comes into the state court, 1988 does follow it."
+1984.84-249,1,15073,warren_e_burger,scotus_justice,1808.026,1811.211,You're saying then that 1983 wasn't in the state court here.
+1984.84-249,1,40452,ray_n_stevens,,1811.211,1812.195,--That's correct.
+1984.84-249,1,15073,warren_e_burger,scotus_justice,1812.195,1815.615,But the court of... what did the state supreme court say about that?
+1984.84-249,1,40452,ray_n_stevens,,1815.615,1830.209,"The state supreme court said that 1983 was, as I recall the decision, was in the complaint but that it did not hear the complaint because it already had given a remedy under the state statute, and its language was not all that specific."
+1984.84-249,1,15073,warren_e_burger,scotus_justice,1859.209,1870.5,That is true in a great many 1983 cases where the attorney's fees vastly exceed what's involved economically; is that not so?
+1984.84-249,1,40452,ray_n_stevens,,1870.5,1871.6,"--That is so, Your Honor."
+1984.84-249,1,15071,byron_r_white,scotus_justice,2098.611,2109.403,So you think the policy and indeed the content of the anti-injunction act just ought to be applied to the 1983 remedy in state courts?
+1984.84-249,1,40452,ray_n_stevens,,2111.77,2120.376,"--Your Honor, that is correct, because the question before the Court is did Congress require 1983."
+1984.84-249,1,15071,byron_r_white,scotus_justice,2175.195,2185.736,What remedy short... if you don't want to pay... is there an administrative remedy if you don't want to pay your tax first?
+1984.84-249,1,40452,ray_n_stevens,,2189.521,2195.008,In South Carolina we have a relatively new statute called the Administrative Procedures Act statute.
+1984.84-249,1,15071,byron_r_white,scotus_justice,2201.412,2203.195,And keep your taxes unless you lose.
+1984.84-249,1,40452,ray_n_stevens,,2203.195,2205.197,"Not necessarily, Your Honor."
+1984.84-249,1,15071,byron_r_white,scotus_justice,2228.395,2234.216,"So for all practical purposes, there's only one remedy really: pay and sue."
+1984.84-249,1,40452,ray_n_stevens,,2234.216,2236.066,"That's correct, Your Honor."
+1984.84-249,1,15071,byron_r_white,scotus_justice,2247.741,2248.993,That's an administrative--
+1984.84-249,1,40452,ray_n_stevens,,2248.993,2254.147,"--It has much of the characteristics of an administrative function, yes, Your Honor."
+1984.84-249,1,15071,byron_r_white,scotus_justice,2254.147,2256.53,"--And if you get it turned down, then you bring your suit for a refund."
+1984.84-249,1,40452,ray_n_stevens,,2256.53,2257.248,That's correct.
+1984.84-249,1,15060,john_paul_stevens,scotus_justice,2441.951,2443.803,May I ask one question before you--
+1984.84-249,1,40452,ray_n_stevens,,2443.803,2444.253,"Yes, sir."
+1984.84-249,1,15060,john_paul_stevens,scotus_justice,2444.253,2453.842,"--I don't know if the complaint is in the papers before us or not, but were there separate counts when the complaint was filed, one based on 1983 and another on Georgia provisions?"
+1984.84-249,1,40452,ray_n_stevens,,2453.842,2456.128,"Your Honor, there were numerous counts in the complaint."
+1984.84-249,1,15060,john_paul_stevens,scotus_justice,2460.681,2466.918,Did the factual allegations in the 1983 count differ in any respect from those on which the Court granted relief?
+1984.84-249,1,40452,ray_n_stevens,,2475.005,2475.521,Yes.
+1984.84-249,1,15060,john_paul_stevens,scotus_justice,2475.521,2477.873,"One of which was a 1983 count, and another was a Georgia--"
+1984.84-249,1,40452,ray_n_stevens,,2477.873,2478.373,"Yes, sir."
+1984.84-249,1,15060,john_paul_stevens,scotus_justice,2478.839,2479.589,--I mean a South Carolina--
+1984.84-249,1,40452,ray_n_stevens,,2479.589,2480.089,"--Yes, sir."
+1984.84-249,1,15073,warren_e_burger,scotus_justice,2482.055,2485.993,"Do you have anything further, Mr. Parr?"
+1984.84-249,2,27805,henry_l_parr_jr,,2485.993,2487.109,"Yes, Your Honor."
+1984.84-249,2,15071,byron_r_white,scotus_justice,2514.66,2514.993,But it didn't address it.
+1984.84-249,2,27805,henry_l_parr_jr,,2514.993,2516.36,It did not address it.
+1984.84-249,2,15071,byron_r_white,scotus_justice,2516.36,2518.528,Or decide... or purport to decide under it.
+1984.84-249,2,27805,henry_l_parr_jr,,2518.528,2519.278,That is correct.
+1984.84-249,2,15073,warren_e_burger,scotus_justice,2653.698,2668.307,"If I understood your friend correctly, he suggested... and maybe I didn't understand him correctly... that 1983 actions in the state courts are in the category of cases that the state court can take or leave."
+1984.84-249,2,27805,henry_l_parr_jr,,2672.028,2675.996,I think that is what the Respondents have said.
+1984.84-249,2,15073,warren_e_burger,scotus_justice,2703.38,2714.438,"Well, as Justice Marshall suggested, probably Congress in enacting 1983 wasn't thinking about banks and bankers so much as it was thinking about some other people."
+1984.84-249,2,27805,henry_l_parr_jr,,2714.438,2715.471,That's right.
+1984.84-249,2,15092,sandra_day_oconnor,scotus_justice,2798.525,2813.202,What do you rely on specifically for the determination that Congress wanted to require states to entertain 1983 actions instead of just allowing them to?
+1984.84-249,2,27805,henry_l_parr_jr,,2813.202,2818.756,My argument is not based on discernible intent to require states to entertain them.
+1984.84-249,2,15073,warren_e_burger,scotus_justice,2845.673,2846.54,Very well.

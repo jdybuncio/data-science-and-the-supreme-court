@@ -1,0 +1,96 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1987.86-6867,0,15141,william_h_rehnquist,scotus_justice,0.0,69.31,"Mr. Klingsberg, you may proceed whenever you are ready."
+1987.86-6867,0,21071,david_klingsberg,,69.31,87.789,"Mr. Chief Justice, and may it please the Court, this is an appeal on writ of certiorari limited to two issues as to which the Court of Appeals for the Fifth Circuit with one dissent denied petitioner's application for writ of habeas corpus to set aside the death sentence imposed upon him."
+1987.86-6867,0,15071,byron_r_white,scotus_justice,197.093,206.635,Was there some sort of a stipulation as to what the judge should do or say when the jury came back and said they were in great distress?
+1987.86-6867,0,21071,david_klingsberg,,206.635,218.091,There is reference to a discussion in chambers which is not on the record in which it appears that there is a stipulation as to the polling procedure.
+1987.86-6867,0,15071,byron_r_white,scotus_justice,218.526,222.228,"If it isn't in the record, how do you know about it?"
+1987.86-6867,0,21071,david_klingsberg,,222.228,228.314,--The judge stated on the record that there was a discussion in chambers where there was a stipulation--
+1987.86-6867,0,15071,byron_r_white,scotus_justice,228.314,230.25,As to how he should proceed?
+1987.86-6867,0,21071,david_klingsberg,,230.25,272.077,"--That's correct, Your Honor, and I might also add in that connection that earlier that morning, right after the jury came in with the note, and right after the vote, there were motions for a mistrial in which defense counsel objected to the entire procedure of continuing on in the face of a Louisiana code provision which expressly provided that in the event of a lack of unanimity on the part of the jury or the jury's inability to agree that a sentence of life without parole or probation must be imposed."
+1987.86-6867,0,15060,john_paul_stevens,scotus_justice,289.22,302.263,"May I ask, since you have been interrupted, on this point about, we don't know the specifics of the stipulation, but generally the procedures to be followed, is it your understanding that the stipulation contemplated that the jurors who voted each way on this issue would be identified?"
+1987.86-6867,0,21071,david_klingsberg,,302.263,305.299,"--It appears that way from the record, Your Honor."
+1987.86-6867,0,15092,sandra_day_oconnor,scotus_justice,305.299,314.754,Was any specific objection made on the record by the petitioner to the polling of the jurors by name?
+1987.86-6867,0,21071,david_klingsberg,,314.754,316.522,"No, Your Honor, there was not."
+1987.86-6867,0,15092,sandra_day_oconnor,scotus_justice,316.522,318.891,"That was not raised in the Fifth Circuit, either?"
+1987.86-6867,0,21071,david_klingsberg,,318.891,356.831,"That was not... that has not been raised, and indeed, as indicated in our reply brief at Note 6, it does not under the law of Louisiana and this Court result in any lack of preservation of that point because the Louisiana courts consider on death penalty cases all matters, whether objection was raised, and this was dealt with on the merits in the state and federal habeas proceedings as well as in the Supreme Court of Louisiana."
+1987.86-6867,0,15049,antonin_scalia,scotus_justice,422.876,434.516,"When you said minority, do we know that the four who said that there would be no use in continuing were the four, were four who were voting against the death penalty?"
+1987.86-6867,0,21071,david_klingsberg,,434.516,435.999,"We don't know for sure, but we know this--"
+1987.86-6867,0,15049,antonin_scalia,scotus_justice,435.999,440.503,"I mean, I might have been in the majority and thought there would be no use going any further."
+1987.86-6867,0,21071,david_klingsberg,,440.503,449.376,"--Well, we know, Your Honor, that there were some jurors who opposed the death penalty being recommended in this case."
+1987.86-6867,0,15049,antonin_scalia,scotus_justice,475.343,481.914,"I don't see why logic would dictate that, unless you assumed that the jury was not following the court's instructions, which we normally don't assume."
+1987.86-6867,0,21071,david_klingsberg,,511.849,541.453,"Well, one might draw an analogy, Your Honor, to the Adams versus Texas situation where this Court said that it was hypothetically possible that the juror who stated his views on the death penalty might be believing in an eye for an eye, but it was undeniable and logical that among the jurors who identified themselves as being subject to influence by the death penalty were likely to be those who opposed it, and I think the same logic would prevail in this particular case."
+1987.86-6867,0,15049,antonin_scalia,scotus_justice,547.607,552.76,How do you account for the fact that it goes from just four to one after the second vote?
+1987.86-6867,0,21071,david_klingsberg,,576.876,623.69,"--One can say, and all we need to establish here is a risk or a probability that there was an improper influence on the jury, that when the court instructed the jury that if they voted to stop deliberations or if they couldn't reach an agreement that a life sentence would be imposed, and then the court engaged in these repetitive procedures and didn't call a halt, that a message was coming from the judge that the judge favored the death penalty, and this was emphasized in the modified Allen charge where the judge said the jury should have the objective of reaching a just verdict, a verdict only being necessary to impose death, cessation of deliberations leading to an imposition of life sentence."
+1987.86-6867,0,15049,antonin_scalia,scotus_justice,623.69,624.39,That may be.
+1987.86-6867,0,21071,david_klingsberg,,643.151,665.367,"Well, as Justice Stone recognized in the Brasfield case and Chieft Justice Burger recognized in Gypsum, there is no way to ascertain for sure what the effect of these practices are on the jurors, and what this Court has to ascertain, and this is consonant with the Court's death penalty jurisprudence is whether there was a risk."
+1987.86-6867,0,15049,antonin_scalia,scotus_justice,744.219,746.352,"Again, we don't really know that."
+1987.86-6867,0,21071,david_klingsberg,,756.859,757.876,"That's correct, Your Honor, but--"
+1987.86-6867,0,15049,antonin_scalia,scotus_justice,757.876,764.549,That may have been one of the... the jury may have been split eleven to one in favor of capital punishment.
+1987.86-6867,0,21071,david_klingsberg,,782.261,782.577,--That--
+1987.86-6867,0,15049,antonin_scalia,scotus_justice,782.577,787.379,You are just assuming that the one individual is the one that was voting against capital punishment.
+1987.86-6867,0,21071,david_klingsberg,,788.498,799.972,"--We can't ever know for sure in these situations, and that is why this Court has consistently said that it is going to examine into the probability of improper influence on the jury."
+1987.86-6867,0,15049,antonin_scalia,scotus_justice,884.726,904.723,"You acknowledge, at least, Mr. Klingsberg, that it is a lot less threatening to the jury for the judge to look at them and say, how many of you think it will be of any use to deliberate further than it is to say to them, how many of you voted against, you know, how many of you are in the minority voting against the majority verdict?"
+1987.86-6867,0,21071,david_klingsberg,,906.992,907.992,"Yes, Your Honor, although--"
+1987.86-6867,0,15049,antonin_scalia,scotus_justice,907.992,909.794,And that is not the question that was asked here.
+1987.86-6867,0,21071,david_klingsberg,,909.794,921.751,"--That's correct, Your Honor, but I think that compared, for example, to Brasfield, there the Court did not ascertain which side each one on the count was."
+1987.86-6867,0,15092,sandra_day_oconnor,scotus_justice,1223.764,1244.242,"Well, why isn't that narrowing provided by the fact that the jurors have to consider mitigating circumstances at the sentencing hearing, and tailor the decision to this individual after consideration of those mitigating circumstances."
+1987.86-6867,0,21071,david_klingsberg,,1244.242,1251.997,"As this Court recognized in Zant, Your Honor, it is the aggravating circumstance which provides the narrowing function."
+1987.86-6867,0,15092,sandra_day_oconnor,scotus_justice,1268.126,1283.719,Do you think Zant and Jurek stand for the proposition that the sentencer has to consider the aggravating circumstances as opposed to having the legislative body define which aggravating circumstances would narrow?
+1987.86-6867,0,21071,david_klingsberg,,1283.719,1290.456,"Well, in Jurek there was some suggestion in the Court's opinion that some narrowing occurred at the guilt phase."
+1987.86-6867,0,15092,sandra_day_oconnor,scotus_justice,1334.735,1339.489,"They certainly were with regard to mitigation, weren't they?"
+1987.86-6867,0,21071,david_klingsberg,,1339.489,1340.072,"I am sorry, Your Honor?"
+1987.86-6867,0,15092,sandra_day_oconnor,scotus_justice,1340.072,1343.441,They certainly were with regard to mitigating circumstances.
+1987.86-6867,0,21071,david_klingsberg,,1343.441,1363.505,"Yes, Your Honor, but Number One, this Court has never held that it would be constitutional to have, say, a mandatory statute that certain types of crimes are mandated to first degree murder and only in mitigating circumstances, because the jury here just has to consider mitigating circumstances."
+1987.86-6867,0,15049,antonin_scalia,scotus_justice,1363.505,1372.376,"We didn't hold that, but on the other hand, last term we had a case somewhere in which the issue was precisely that."
+1987.86-6867,0,21071,david_klingsberg,,1372.376,1372.71,Yes.
+1987.86-6867,0,15049,antonin_scalia,scotus_justice,1372.71,1374.478,It was a much easier case.
+1987.86-6867,0,21071,david_klingsberg,,1410.401,1410.918,Yes.
+1987.86-6867,0,15141,william_h_rehnquist,scotus_justice,1441.671,1443.707,What is your answer to Justice Scalia's question?
+1987.86-6867,0,21071,david_klingsberg,,1462.501,1465.72,--The only thing that the Court decided in that case--
+1987.86-6867,0,15141,william_h_rehnquist,scotus_justice,1465.72,1468.272,"I am talking about the Court's analysis, not what it decided."
+1987.86-6867,0,21071,david_klingsberg,,1468.272,1469.357,--Yes.
+1987.86-6867,0,15141,william_h_rehnquist,scotus_justice,1504.197,1513.636,"In your view, would the Nevada statute have been unconstitutional even though it allowed for consideration of mitigating circumstances?"
+1987.86-6867,0,21071,david_klingsberg,,1513.636,1542.136,"The Nevada statute would be constitutional if it provides at some point when the jury has in mind that it is engaged in, or a judge has in mind that he is engaged in a sentencing function and engaged in the kind of individual assessment that this Court has repeatedly said is required for capital punishment sentencing, that there is some narrowing, some principled narrowing, some standards."
+1987.86-6867,0,15141,william_h_rehnquist,scotus_justice,1542.136,1545.422,"Mr. Klingsberg, I wonder if you could answer the question more specifically."
+1987.86-6867,0,21071,david_klingsberg,,1566.604,1589.601,"In my analysis, Your Honor, it would not be constitutional unless the jury has to make some finding at a time when it is focusing on death sentence or not, that there is some standard, some finding that it has to make apart from just going out and considering all the mitigating circumstances that there are, which is a totally discretionary activity."
+1987.86-6867,0,15141,william_h_rehnquist,scotus_justice,1604.813,1605.346,Okay.
+1987.86-6867,1,31858,john_m_mamoulides,,1613.316,1632.313,"Mr. Chief Justice, and may it please the Court, I would like to address at this time the second phase of the two issues, the constitutionality of the Louisiana state statute on the death penalty, and go back to the first issue afterwards."
+1987.86-6867,1,15060,john_paul_stevens,scotus_justice,2039.294,2047.816,May I ask you a question about the Louisiana procedure at the sentending phase?
+1987.86-6867,1,31858,john_m_mamoulides,,2060.992,2078.454,"The statute merely says that the judge will allow the, if I recall, will allow the list of mitigating circumstances and aggravating circumstances to be taken into the courtroom, into the deliberation room with them, and that is a change in Louisiana."
+1987.86-6867,1,15060,john_paul_stevens,scotus_justice,2081.322,2082.406,I see.
+1987.86-6867,1,31858,john_m_mamoulides,,2082.406,2094.563,The jury had access to those items while it was deliberating.
+1987.86-6867,1,15060,john_paul_stevens,scotus_justice,2255.403,2261.891,"May I ask at that point, I asked your opponent this, too, but on Page 52 there is a description."
+1987.86-6867,1,31858,john_m_mamoulides,,2281.118,2283.237,It doesn't indicate that.
+1987.86-6867,1,15060,john_paul_stevens,scotus_justice,2314.525,2317.227,"Yes, but that is polling them after they have returned a verdict."
+1987.86-6867,1,31858,john_m_mamoulides,,2320.429,2341.693,"Yes, but when they decided they would poll the jury, it was decided that it should not be done orally to identify them, that it should be done by them writing it down, and the only thing the judge had to go on to determine whether or not that procedure was valid was Article 812, and that's the reason the names are put down."
+1987.86-6867,1,15060,john_paul_stevens,scotus_justice,2341.693,2352.298,"I understand, but at least as far as the record tells us about the stipulation, I don't find that there was a stipulation that the names of the jurors would appear on these pieces of paper."
+1987.86-6867,1,31858,john_m_mamoulides,,2356.602,2360.154,"The stipulation was agreed to by counsel, Your Honor."
+1987.86-6867,1,15060,john_paul_stevens,scotus_justice,2551.095,2554.731,"But Mr.... but there was none of that in Braswell, either."
+1987.86-6867,1,31858,john_m_mamoulides,,2554.731,2555.647,There was an open counting.
+1987.86-6867,1,15060,john_paul_stevens,scotus_justice,2644.288,2647.657,May I ask you one other question about Louisiana procedure?
+1987.86-6867,1,31858,john_m_mamoulides,,2659.815,2662.832,"No, Your Honor."
+1987.86-6867,1,15060,john_paul_stevens,scotus_justice,2662.832,2665.884,He must maintain a neutral aspect with regard to that?
+1987.86-6867,1,31858,john_m_mamoulides,,2665.884,2680.811,"Absolutely, and as a matter of fact I think in his charge and in the Allen charge to be able to say that the judge's charge leaned toward death penalty is just not correct."
+1987.86-6867,1,15104,thurgood_marshall,scotus_justice,2725.506,2726.189,Would he have--
+1987.86-6867,1,31858,john_m_mamoulides,,2726.189,2726.973,"--Yes, sir?"
+1987.86-6867,1,15104,thurgood_marshall,scotus_justice,2726.973,2734.029,--Would he have given the Allen charge if it were eleven to one for acquittal?
+1987.86-6867,1,31858,john_m_mamoulides,,2734.029,2741.516,"If he knew that, Your Honor, no, but I don't think anyone could have told what the number or the count was."
+1987.86-6867,1,15104,thurgood_marshall,scotus_justice,2741.516,2746.086,I thought that the defense did make one objection to that charge.
+1987.86-6867,1,31858,john_m_mamoulides,,2761.612,2765.898,"Well, what the attorney was requesting was not proper and was not legal."
+1987.86-6867,1,15104,thurgood_marshall,scotus_justice,2774.004,2775.439,He did object to it.
+1987.86-6867,1,31858,john_m_mamoulides,,2775.439,2778.558,"--Yes, Your Honor, he objected to that for the reason that he wanted--"
+1987.86-6867,1,15104,thurgood_marshall,scotus_justice,2778.558,2779.474,"All right, that--"
+1987.86-6867,1,31858,john_m_mamoulides,,2779.474,2799.221,"--but I don't think that the charge or the judge's telling this jury on several occasions that if they could not reach a verdict the state would grant a unanimous verdict... correction, the state would grant a life imprisonment verdict was something that they didn't understand."
+1987.86-6867,1,15104,thurgood_marshall,scotus_justice,2799.221,2806.225,--When it was eleven to one there was automatically going to be life imprisonment.
+1987.86-6867,1,31858,john_m_mamoulides,,2806.225,2807.408,If they could not--
+1987.86-6867,1,15104,thurgood_marshall,scotus_justice,2807.408,2808.66,If it had stayed eleven to one.
+1987.86-6867,1,31858,john_m_mamoulides,,2808.66,2809.543,"--Absolutely, Your Honor."
+1987.86-6867,1,15104,thurgood_marshall,scotus_justice,2811.362,2814.997,"So knowing that, the judge gave the Allen charge."
+1987.86-6867,1,31858,john_m_mamoulides,,2814.997,2815.947,"Your Honor, the--"
+1987.86-6867,1,15104,thurgood_marshall,scotus_justice,2815.947,2821.551,Knowing that the jury had already given him life imprisonment.
+1987.86-6867,1,31858,john_m_mamoulides,,2821.551,2826.121,--This was the first time this jury had indicated it had any problems at all.
+1987.86-6867,1,15141,william_h_rehnquist,scotus_justice,2885.16,2886.377,"Thank you, Mr. Mamoulides."
+1987.86-6867,2,21071,david_klingsberg,,2888.695,2889.479,"Thank you, Your Honor."
+1987.86-6867,2,15049,antonin_scalia,scotus_justice,2893.516,2904.805,"Mr. Klingsberg, before you get to that, I have a question about, I don't know, I guess it almost goes to standing to complain about the absence of aggravating circumstances."
+1987.86-6867,2,21071,david_klingsberg,,2968.814,3037.291,"The basis for our claim, Your Honor, is that the jury did not meaningfully undertake to engage in a fresh finding of fact regarding this aggravating circumstance, and where you have a jury which deliberated for ten hours it certainly cannot be a foregone conclusion that if they had been directed to make a meaningful finding and hadn't been told by the prosecutor that they had already found that so they don't have to bother with it again, what that result might be, and where there is a legal element which is lacking in the procedure, particularly in a death sentence case, that does not seem to me to be the kind of thing, as the Court indicated, for example, in Gray against Mississippi, that should be... that is so basic that it should not be treated as a harmless error type of situation."
+1987.86-6867,2,15141,william_h_rehnquist,scotus_justice,3178.751,3181.27,"Thank you, Mr. Klingsberg."

@@ -1,0 +1,278 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2015.14-770,0,15086,john_g_roberts_jr,scotus_justice,0.0,9.605,"We'll hear argument first this morning in Case 14-770, Bank Markazi v. Peterson. Mr. Lamken."
+2015.14-770,0,31508,jeffrey_a_lamken,,9.605,29.405,"Thank you, Mr. Chief Justice, and may it please the Court: For nearly 200 years, Congress never enacted a statute that purported to limit the effect to one and only one specified case pending before Article III courts disclaiming any reach beyond that solitary monetary dispute."
+2015.14-770,0,15084,ruth_bader_ginsburg,scotus_justice,29.405,40.84,"Mr. Lamken, is it one case? I mean, this is a consolidation for purposes of reaching assets -- it's a consolidation of some 19 cases?"
+2015.14-770,0,31508,jeffrey_a_lamken,,40.84,43.95,"No, Your Honor, it is not a consolidation of 19 cases."
+2015.14-770,0,15084,ruth_bader_ginsburg,scotus_justice,56.22,56.88,Is there -- are there any --
+2015.14-770,0,15113,anthony_m_kennedy,scotus_justice,56.88,58.965,"Well, suppose there were three unrelated cases."
+2015.14-770,0,31508,jeffrey_a_lamken,,58.965,59.465,Pardon?
+2015.14-770,0,15113,anthony_m_kennedy,scotus_justice,59.465,62.245,Suppose there were three unrelated cases.
+2015.14-770,0,31508,jeffrey_a_lamken,,64.315,65.135,Yes.
+2015.14-770,0,15113,anthony_m_kennedy,scotus_justice,70.89,72.77,"Yes, it specifies them by number and so forth."
+2015.14-770,0,31508,jeffrey_a_lamken,,72.77,75.64,By number. We believe that the result would be the same.
+2015.14-770,0,15113,anthony_m_kennedy,scotus_justice,86.01,94.03,"I -- I inadvertently interrupted Justice Ginsburg, but in the -- in the 19 cases here, you don't find that principle?"
+2015.14-770,0,31508,jeffrey_a_lamken,,94.03,94.73,"No, Your Honor."
+2015.14-770,0,15084,ruth_bader_ginsburg,scotus_justice,98.16,106.11,"One case for purposes of executing, but there are -- there are 19 judgments involving thousands."
+2015.14-770,0,31508,jeffrey_a_lamken,,106.11,107.09,That -- that's correct.
+2015.14-770,0,15084,ruth_bader_ginsburg,scotus_justice,109.55,122.885,"Are there -- are there any in this category, that is, cases litigated to judgment for terrorist acts, that are not in this package of 19 cases?"
+2015.14-770,0,31508,jeffrey_a_lamken,,122.885,128.125,I don't know whether there are any others that -- where they were denied intervention here.
+2015.14-770,0,15094,elena_kagan,scotus_justice,137.17,141.54,"What if there were 19 cases, Mr. Lamken, and Congress specified them all?"
+2015.14-770,0,31508,jeffrey_a_lamken,,141.54,141.9,Yes.
+2015.14-770,0,15094,elena_kagan,scotus_justice,152.43,153.37,"Well, I guess what I'm asking --"
+2015.14-770,0,31508,jeffrey_a_lamken,,153.37,154.495,-- that some kind of prospectus --
+2015.14-770,0,15094,elena_kagan,scotus_justice,154.495,162.54,"I guess what I'm asking is what that means, ""a limited category."" Is the number irrelevant if Congress specifies them? I mean, Congress could specify a hundred."
+2015.14-770,0,31508,jeffrey_a_lamken,,163.71,173.72,I think -- I think it would be. When Congress is not willing to make the law applicable generally to categories of cases but singles out particular pending cases to alter the course of proceedings --
+2015.14-770,0,15068,samuel_a_alito_jr,scotus_justice,173.72,208.175,"Is it the -- is it the use of the case name in the -- or the number in the statute that is the offending characteristic? I imagine that a -- a -- a creative drafter could draft a statute that makes no reference to a particular case or to particular cases but could put so many limitations on the scope of the law that, in fact, it applies only to one case or to a small number of cases exactly the ones that Congress wants to target. Congress does that; is it different?"
+2015.14-770,0,31508,jeffrey_a_lamken,,208.175,208.36,Right.
+2015.14-770,0,15049,antonin_scalia,scotus_justice,226.67,228.17,"You know, we -- we had a case."
+2015.14-770,0,31508,jeffrey_a_lamken,,281.085,288.39,"Well, in fact, the statute at issue in Plaut that -- that reversed Lampf was a generally applicable case to all pending cases."
+2015.14-770,0,15113,anthony_m_kennedy,scotus_justice,316.19,320.715,What about the Robertson case? Is -- isn't that the case involving the timber?
+2015.14-770,0,31508,jeffrey_a_lamken,,320.715,321.19,Yes.
+2015.14-770,0,15113,anthony_m_kennedy,scotus_justice,340.7,348.83,"Well, as Justice Alito indicated, actually it named cases by -- didn't it reference the case by number?"
+2015.14-770,0,31508,jeffrey_a_lamken,,348.83,354.41,And the court said it referenced the case by number to identify the statutes that were the basis of the suit.
+2015.14-770,0,15049,antonin_scalia,scotus_justice,369.48,380.51,Where do you get the notion that Congress can only act by generality? It acts all the time on individual matters.
+2015.14-770,0,31508,jeffrey_a_lamken,,390.825,398.755,"Justice Scalia, our principle is not that Congress can't act on a certain bridge, a single parcel of land, a single set of presidential papers."
+2015.14-770,0,15049,antonin_scalia,scotus_justice,405.39,417.355,"Why is that? So long as it is not overturning a judgment that the court has made in that case, as it did in Lampf or whatever the name -- was it Plaut? I don't think it was Plaut."
+2015.14-770,0,31508,jeffrey_a_lamken,,417.355,418.66,Plaut wrote it.
+2015.14-770,0,15049,antonin_scalia,scotus_justice,418.66,419.39,I -- I wrote it.
+2015.14-770,0,31508,jeffrey_a_lamken,,449.48,461.28,"I think the principle is not whether it happens to affect a particular case. Congress can regularly -- well, often the problems will come to Congress's attention because of cases, and it may enact a law even thinking about that case."
+2015.14-770,0,15113,anthony_m_kennedy,scotus_justice,466.1,476.395,"Because it violates what -- what principle? At -- at -- at the end of the day, I suppose maybe bill of attainder if there's a real intent to punish."
+2015.14-770,0,31508,jeffrey_a_lamken,,483.21,483.72,Yes.
+2015.14-770,0,15139,stephen_g_breyer,scotus_justice,487.5,497.61,"What do we do about all of the -- what used to be when I worked in the Senate Judiciary Committee? Every year we would get dozens, maybe hundreds, past dozens of private bills."
+2015.14-770,0,31508,jeffrey_a_lamken,,516.51,524.21,"And I think the history of private bills actually proves our point, because the private bills, the vast majority, as you point out, don't affect a specified case at all."
+2015.14-770,0,15139,stephen_g_breyer,scotus_justice,526.33,528.11,"Well, considering the ones that do --"
+2015.14-770,0,31508,jeffrey_a_lamken,,528.11,528.7,Even the -- even the --
+2015.14-770,0,15139,stephen_g_breyer,scotus_justice,528.7,531.2,-- very often the person sued.
+2015.14-770,0,31508,jeffrey_a_lamken,,542.25,542.87,Exactly.
+2015.14-770,0,15139,stephen_g_breyer,scotus_justice,545.21,545.34,Yes --
+2015.14-770,0,31508,jeffrey_a_lamken,,545.34,556.3,"-- traditional context, the government has -- the Federal government has expansive authority to waive its defenses, to relinquish its claims, to expand or contract --"
+2015.14-770,0,15139,stephen_g_breyer,scotus_justice,556.3,557.95,I understand you --
+2015.14-770,0,31508,jeffrey_a_lamken,,557.95,562.91,"-- or in that context, and in that context alone, the government -- the Federal government has extraordinary power to determine --"
+2015.14-770,0,15139,stephen_g_breyer,scotus_justice,562.91,566.815,"Well, what -- now -- now, suppose it's a private person on the other side."
+2015.14-770,0,31508,jeffrey_a_lamken,,602.425,617.845,"Setting aside other constitutional provisions, Justice Breyer, the difference is this: Congress has full power to waive the United States defenses, to relinquish its own claims, to contract or expand its immunity."
+2015.14-770,0,15139,stephen_g_breyer,scotus_justice,624.87,625.36,Because?
+2015.14-770,0,31508,jeffrey_a_lamken,,625.36,626.5,Pardon?
+2015.14-770,0,15139,stephen_g_breyer,scotus_justice,626.5,627.64,Because I think --
+2015.14-770,0,31508,jeffrey_a_lamken,,627.64,629.505,Those aren't the government rights.
+2015.14-770,0,15139,stephen_g_breyer,scotus_justice,629.86,630.46,"Oh, oh."
+2015.14-770,0,31508,jeffrey_a_lamken,,664.505,673.49,"I think the answer is when it comes to deciding individual cases, particularly individual cases between private parties, that is the domain of the courts, and not Congress."
+2015.14-770,0,15094,elena_kagan,scotus_justice,673.49,674.37,Could Congress do it --
+2015.14-770,0,31508,jeffrey_a_lamken,,674.37,674.785,But from the --
+2015.14-770,0,15094,elena_kagan,scotus_justice,674.785,687.865,"Could Congress do it the day before a lawsuit is filed? In other words, Congress knows that a lawsuit is going to be filed on a particular subject and just creates the rule for that lawsuit, but the lawsuit hadn't actually been commenced yet?"
+2015.14-770,0,31508,jeffrey_a_lamken,,687.865,694.83,"So long as this law is of general applicability -- it's going to apply to laws for the future, then it is not going to be --"
+2015.14-770,0,15094,elena_kagan,scotus_justice,694.83,708.405,"Suppose it weren't. Supposed it was like Congress amends the law so that assets held in Clearstream Citibank account is subject to execution by Deborah Peterson, before Deborah Peterson brought suit."
+2015.14-770,0,31508,jeffrey_a_lamken,,708.405,708.955,Right.
+2015.14-770,0,15049,antonin_scalia,scotus_justice,717.54,719.625,There's no lawsuit. There's no lawsuit yet.
+2015.14-770,0,31508,jeffrey_a_lamken,,719.625,720.09,Yes.
+2015.14-770,0,15049,antonin_scalia,scotus_justice,739.65,744.09,"By ""one case,"" you mean not -- not one filed case?"
+2015.14-770,0,31508,jeffrey_a_lamken,,744.09,744.44,Yes.
+2015.14-770,0,15049,antonin_scalia,scotus_justice,744.44,745.46,For -- for one -- one --
+2015.14-770,0,31508,jeffrey_a_lamken,,745.46,745.6,Yes.
+2015.14-770,0,15049,antonin_scalia,scotus_justice,745.6,746.505,-- person?
+2015.14-770,0,31508,jeffrey_a_lamken,,746.505,749.48,"For one expected controversy and person, correct."
+2015.14-770,0,15049,antonin_scalia,scotus_justice,767.76,769.13,"Well, there's no lawsuit yet."
+2015.14-770,0,31508,jeffrey_a_lamken,,783.74,793.82,"Well, Justice Scalia, to be clear, our principle is not that it can act -- must act general laws in the sense that you can't law -- enact a law for one bridge, or one parcel of land, or one set of assets."
+2015.14-770,0,15049,antonin_scalia,scotus_justice,799.55,800.415,I don't -- no.
+2015.14-770,0,31508,jeffrey_a_lamken,,800.955,801.28,Okay.
+2015.14-770,0,15086,john_g_roberts_jr,scotus_justice,813.08,817.525,"Sorry, Mr. Lamken. I don't understand the fixation on how many cases we're talking about."
+2015.14-770,0,31508,jeffrey_a_lamken,,849.725,852.33,I think that certainly exacerbates the problem.
+2015.14-770,0,15068,samuel_a_alito_jr,scotus_justice,877.415,883.93,"Based on what you said this morning, I don't really understand the -- excuse me -- the limiting principle of your argument."
+2015.14-770,0,31508,jeffrey_a_lamken,,903.16,911.73,"So I think for this case, the Court need only rule -- because it was never been -- it wasn't argued below and it wasn't argued in the brief in opposition if it was anything but one case."
+2015.14-770,0,15094,elena_kagan,scotus_justice,918.17,918.75,But that seems silly --
+2015.14-770,0,31508,jeffrey_a_lamken,,918.75,919.21,Apart from that --
+2015.14-770,0,15094,elena_kagan,scotus_justice,919.21,939.73,"-- Mr. Lamken, and that's why you've been saying that the number doesn't matter, and it doesn't matter whether it's the day before or the day after suit, and it doesn't matter if Congress has specified the docket number because any of those limitations, you would say, well, Congress could do, you know, pretty much the exact same thing except it would be in two cases, or except it would be without the docket number."
+2015.14-770,0,31508,jeffrey_a_lamken,,946.015,961.08,"Let me explain why I wouldn't be concerned and then give you the principle that would govern the remaining cases. I would not be concerned about the limiting principle here because Congress, for 200 years, didn't get near this line because States, for almost 200 years, have had the exact same principles."
+2015.14-770,0,15094,elena_kagan,scotus_justice,1031.615,1054.23,"Why doesn't it make a difference that this is in the area of foreign affairs? I had thought that our cases were pretty clear that the political branches -- especially the executive, so I concede that there's a difference there -- but that the political branches have a great deal of power in this area, even when it comes to very particular controversies."
+2015.14-770,0,31508,jeffrey_a_lamken,,1054.23,1054.44,Right.
+2015.14-770,0,15113,anthony_m_kennedy,scotus_justice,1090.635,1106.13,"Well, perhaps -- perhaps they are when the assets are held by a country as to which we have very delicate relations with matters particularly involving dangerous acts allegedly perpetrated by that country."
+2015.14-770,0,31508,jeffrey_a_lamken,,1106.13,1115.63,"Justice Kennedy, I don't think the executive branch would submit to the courts a suggestion of State law because foreign affairs principles were at issue, and expect the States --"
+2015.14-770,0,15113,anthony_m_kennedy,scotus_justice,1115.63,1116.39,Any suggestion --
+2015.14-770,0,31508,jeffrey_a_lamken,,1116.39,1123.16,"A suggestion of State law as opposed to a suggestion of immunity, because the State law is something that has existence apart from what the executive believes the right --"
+2015.14-770,0,15139,stephen_g_breyer,scotus_justice,1123.16,1129.845,"The State law is what would apply, perhaps, in the absence of a congressional statute."
+2015.14-770,0,31508,jeffrey_a_lamken,,1174.235,1180.42,"Justice Breyer, if I understand the hypothetical, the executive's authority to implement the law --"
+2015.14-770,0,15139,stephen_g_breyer,scotus_justice,1180.42,1180.49,No.
+2015.14-770,0,31508,jeffrey_a_lamken,,1224.31,1243.755,"So if the President were given the power to confiscate and distribute these assets, which frankly he has not, if he were given that power, that would exacerbate the separation of powers problem, because the executive branch and the political branches should take accountability for seizing the assets, confiscating them, distributing them."
+2015.14-770,0,15094,elena_kagan,scotus_justice,1250.4,1262.02,"Suppose there's -- suppose Iran were holding a great many American hostages, and Iran said, we'll release these hostages if you stop execution in a suit like this."
+2015.14-770,0,31508,jeffrey_a_lamken,,1268.595,1268.975,Right.
+2015.14-770,0,15094,elena_kagan,scotus_justice,1304.02,1313.72,"I'm not quite sure I understood that answer, and -- and you're -- you're suggesting that if Congress has a good reason to extinguish these claims, then Congress can do it, but if not, not."
+2015.14-770,0,31508,jeffrey_a_lamken,,1313.72,1314.21,No.
+2015.14-770,0,15094,elena_kagan,scotus_justice,1320.73,1320.79,No.
+2015.14-770,0,31508,jeffrey_a_lamken,,1323.535,1324.41,Yeah.
+2015.14-770,0,15094,elena_kagan,scotus_justice,1324.41,1326.03,-- affects this deal.
+2015.14-770,0,31508,jeffrey_a_lamken,,1326.03,1326.45,Yeah.
+2015.14-770,0,15113,anthony_m_kennedy,scotus_justice,1337.83,1346.66,"Well, your -- your answers seem to be that if the President does something, that he has more power, more authority than when the President acting with Congress does something."
+2015.14-770,0,31508,jeffrey_a_lamken,,1348.465,1353.255,"Well, Your Honor, I think the -- the -- if Congress delegates the power to the President, that's one thing."
+2015.14-770,0,15113,anthony_m_kennedy,scotus_justice,1364.85,1368.305,I assume that the President signed this legislation.
+2015.14-770,0,31508,jeffrey_a_lamken,,1370.495,1370.89,No.
+2015.14-770,0,15084,ruth_bader_ginsburg,scotus_justice,1390.2,1402.12,"Mr. Lamken, can you tell me about -- I mean, when we set up the Iran U.S. Claims Commission, there were a lot of suits pending that had to be stopped."
+2015.14-770,0,31508,jeffrey_a_lamken,,1409.3,1409.85,Yeah.
+2015.14-770,0,15113,anthony_m_kennedy,scotus_justice,1432.135,1441.68,"Well, suppose -- suppose the -- the executive and the President determines that if you have this legislation, then a settlement will be easier down the road."
+2015.14-770,0,31508,jeffrey_a_lamken,,1445.585,1461.3,"If they want to act on the assets, if they want to act on anything -- a particular race -- that is one thing, but it is quite another to take one case and one case only and purport to dictate the outcome. If there are no further questions, I'd like to reserve the remainder of my time for rebuttal."
+2015.14-770,0,15086,john_g_roberts_jr,scotus_justice,1461.3,1467.989,"Thank you, counsel. Mr. Olson."
+2015.14-770,1,43165,theodore_b_olson,,1467.989,1481.245,"Thank you, Mr. Chief Justice, and may it please the Court: Mr. Lamken's entire case is summed up by the one single pending case."
+2015.14-770,1,15086,john_g_roberts_jr,scotus_justice,1552.83,1555.23,"Well, the issue doesn't have to do with liability."
+2015.14-770,1,43165,theodore_b_olson,,1557.75,1558.54,"Yes, it does."
+2015.14-770,1,15086,john_g_roberts_jr,scotus_justice,1558.54,1559.98,-- which is a -- which is a separate matter.
+2015.14-770,1,43165,theodore_b_olson,,1559.98,1572.06,"Yes, it is a separate matter. But my point is -- and the -- the cases that are involved in this litigation are at pages 2a and 2b of the red brief appendix."
+2015.14-770,1,15113,anthony_m_kennedy,scotus_justice,1580.38,1582.185,"Well -- well, suppose -- suppose it were one case."
+2015.14-770,1,43165,theodore_b_olson,,1599.3,1600.29,"Yes, Your Honor."
+2015.14-770,1,15113,anthony_m_kennedy,scotus_justice,1603.83,1604.13,No.
+2015.14-770,1,43165,theodore_b_olson,,1610.65,1655.685,"The legislation in the Plaut case involved specific pending pieces of litigation, some of which had not been reduced to a judgment; some of them had been reduced to a judgment, but that judgment had not been final in the sense that the appeals were not exhausted; and one case in which the appeals had been exhausted, and that judgment was final. This Court found that that violated the separation of powers, but that the change of the statute of limitations and the opinion for the Court in that case by Justice Scalia points out specifically that Congress can legislate to change an element of a cause of action, to change a rule of evidence that's an impediment to the plaintiff recovering, and can change the statute of limitations."
+2015.14-770,1,15113,anthony_m_kennedy,scotus_justice,1663.05,1663.26,No.
+2015.14-770,1,43165,theodore_b_olson,,1682.565,1683.02,Yes.
+2015.14-770,1,15084,ruth_bader_ginsburg,scotus_justice,1701.305,1707.745,"In -- in answer to -- to Justice Kennedy's question, there might be a problem, but not separation of powers."
+2015.14-770,1,15113,anthony_m_kennedy,scotus_justice,1711.545,1712.98,Or delimiting.
+2015.14-770,1,15086,john_g_roberts_jr,scotus_justice,1712.98,1714.02,"Well, what if --"
+2015.14-770,1,43165,theodore_b_olson,,1714.02,1715.62,Yes. May I answer?
+2015.14-770,1,15086,john_g_roberts_jr,scotus_justice,1715.62,1716.515,Sure.
+2015.14-770,1,43165,theodore_b_olson,,1716.515,1717.16,Yes.
+2015.14-770,1,15086,john_g_roberts_jr,scotus_justice,1738.25,1764.42,"What if, Mr. Olson, Congress passed a law that said, you know, there are a lot of challenges to the statutory interpretation under a particular statute, say the Health Care Act, and it said in any case involving a challenge to the statutory interpretation of the Secretary of HHS of that act, once it finds jurisdiction, the Court will enter judgment agreeing with the Secretary's purpose."
+2015.14-770,1,43165,theodore_b_olson,,1764.42,1787.24,"I think that comes somewhat closer to the Klein case, where the Court was talking about an -- an area where the Supreme Court, this Court, in -- in the McCardle case and the other case that's mentioned in that -- in that decision, where the -- where Congress was directing a result that was inconsistent with decisions that this Court had already made with respect to the pardon power."
+2015.14-770,1,15086,john_g_roberts_jr,scotus_justice,1787.61,1792.135,"Well -- well, but -- I mean, this Court has a lot of decisions about how to interpret statutes."
+2015.14-770,1,43165,theodore_b_olson,,1802.15,1810.42,"In -- in pending cases, that would be much like the Robertson case where there were two pending cases involving property --"
+2015.14-770,1,15086,john_g_roberts_jr,scotus_justice,1810.42,1812.795,"But by -- by saying that, you're saying it's okay."
+2015.14-770,1,43165,theodore_b_olson,,1812.795,1833.17,"I'm saying that it's okay -- I -- I -- I believe it's okay, under the circumstances, because what the -- this Court said in Robertson in a unanimous opinion was that that -- that that type of legislation is, to the extent it is changing the underlying substantive law, that is permissible. Congress may do that. Now, the --"
+2015.14-770,1,15086,john_g_roberts_jr,scotus_justice,1833.17,1835.33,I think that's a little surprising.
+2015.14-770,1,43165,theodore_b_olson,,1846.55,1860.71,"Well, what I think the -- your -- your hypothetical included two components. One where the Congress of the United States passed a statute saying that hereinafter this particular law will be interpreted in this particular way."
+2015.14-770,1,15086,john_g_roberts_jr,scotus_justice,1864.65,1865.75,Not in a particular way.
+2015.14-770,1,43165,theodore_b_olson,,1873.975,1874.32,Then --
+2015.14-770,1,15086,john_g_roberts_jr,scotus_justice,1874.32,1876.22,We don't know what the interpretation is going to be.
+2015.14-770,1,43165,theodore_b_olson,,1877.81,1877.9,Well --
+2015.14-770,1,15086,john_g_roberts_jr,scotus_justice,1877.9,1879.25,-- more than we trust the courts.
+2015.14-770,1,43165,theodore_b_olson,,1879.25,1887.975,"Unfortunately, I guess, I know some might say that Congress does that all the time, by providing authority in administrative officials to interpret the statute."
+2015.14-770,1,15086,john_g_roberts_jr,scotus_justice,1895.75,1899.41,But there's a difference between causing -- affording deference and entering a judgment.
+2015.14-770,1,43165,theodore_b_olson,,1899.41,1899.77,I -- if --
+2015.14-770,1,15086,john_g_roberts_jr,scotus_justice,1899.77,1911.905,"Let's make it even clearer: The -- the -- the Court has issued its decision saying it agrees with the Plaintiff's interpretation, but the mandate hasn't issued yet, and Congress says, boy, we don't like that decision."
+2015.14-770,1,43165,theodore_b_olson,,1917.05,1923.77,"I -- I -- I believe that as long as that case is pending and is not final, allow the Plaut case."
+2015.14-770,1,15086,john_g_roberts_jr,scotus_justice,1938.7,1942.99,"Well, they don't say, ""We're changing."" What we say, ""We want you to enter judgment in this case in favor of the Secretary."""
+2015.14-770,1,43165,theodore_b_olson,,1942.99,1959.195,"Well, I think that you now moved it further, to the point where the Congress is directing, with respect to a particular case, the outcome between A and B. But to the extent -- and this is Robertson. So the -- and -- and that argument was made, and that argument was sort of adopted in the Ninth Circuit."
+2015.14-770,1,15086,john_g_roberts_jr,scotus_justice,1972.58,1995.81,"And just so you understand what I'm concerned about. You know, there are places in the world where courts function just the way our courts do, except every now and then, when there's a case that the -- the strong man who runs the country is interested in because a crony is one of the parties or whatever, and he picks up the phone and he tells the court, You decide this case this way."
+2015.14-770,1,43165,theodore_b_olson,,1999.16,1999.48,Yes.
+2015.14-770,1,15086,john_g_roberts_jr,scotus_justice,1999.48,2001.54,I'm not sure I see what the difference is here.
+2015.14-770,1,43165,theodore_b_olson,,2001.54,2002.28,"Well, I do."
+2015.14-770,1,15049,antonin_scalia,scotus_justice,2053.99,2055.735,What about the Equal Protection Clause?
+2015.14-770,1,43165,theodore_b_olson,,2055.735,2056.04,The --
+2015.14-770,1,15049,antonin_scalia,scotus_justice,2056.04,2057.44,This law applies only to me.
+2015.14-770,1,43165,theodore_b_olson,,2061.385,2062.0,Yes.
+2015.14-770,1,15049,antonin_scalia,scotus_justice,2063.05,2065.43,Don't you think there -- don't you think there can be an equal protection --
+2015.14-770,1,43165,theodore_b_olson,,2065.43,2072.775,The Federal Constitution imports equal protection principles in the Due Process Clause; that is correct.
+2015.14-770,1,15139,stephen_g_breyer,scotus_justice,2099.74,2107.6,"Is that the ground? I'd like you to perhaps repeat, but I think pursue what the chief justice was bringing up."
+2015.14-770,1,43165,theodore_b_olson,,2155.14,2162.88,That presents more significant difficulties that are closer to the line that the Chief Justice is pursuing --
+2015.14-770,1,15139,stephen_g_breyer,scotus_justice,2162.88,2163.3,What?
+2015.14-770,1,43165,theodore_b_olson,,2163.3,2180.355,"To the extent -- to the extent that this is Robertson, to the extent that that court can interpret that under these circumstances, the law, with respect to attaching the trusts or commingling of assets, will be thus."
+2015.14-770,1,15113,anthony_m_kennedy,scotus_justice,2185.3,2188.76,"When you say it's closer to the line, what line? That's what we're trying to ask."
+2015.14-770,1,43165,theodore_b_olson,,2188.76,2210.49,"The line of directing an outcome in a particular case with respect -- and this is Klein, where the Supreme Court was directing the outcome, the interpretation -- where Congress was directing the interpretation of the meaning and significance given to a pardon where the court had already decided in a final decision what the outcome of that case --"
+2015.14-770,1,15139,stephen_g_breyer,scotus_justice,2210.49,2229.275,"Well, I thought your answer to the hypothetical -- have you got the hypothetical in mind? All we have is a statute that says in case 1, 2, 3, you can, in effect, reach the assets, winning plaintiff in the two 10b-5s of the Spendthrift trust. And that's all it says."
+2015.14-770,1,43165,theodore_b_olson,,2249.37,2258.985,"Well, I -- and I think there is no not deciding for particular case principle embedded in the separation of powers concept."
+2015.14-770,1,15139,stephen_g_breyer,scotus_justice,2280.65,2293.66,"Now, can I do this? Can I say perhaps, the case I just gave you, Spendthrift trust, legislation for this one plaintiff, maybe they can't do that."
+2015.14-770,1,43165,theodore_b_olson,,2311.85,2312.87,Yes.
+2015.14-770,1,15086,john_g_roberts_jr,scotus_justice,2358.27,2371.94,"I suppose this applied to us as well, right? Congress can tell us how to rule on cases pending before us? You know, they have a committee every year at the start of the term."
+2015.14-770,1,43165,theodore_b_olson,,2386.62,2398.54,"I think that there is probably a point where if the Congress is directing the court to decide a case a certain way, irrespective -- and what you said in the Miller case --"
+2015.14-770,1,15086,john_g_roberts_jr,scotus_justice,2398.54,2401.0,"Well, it doesn't have to say the petitioner wins."
+2015.14-770,1,43165,theodore_b_olson,,2414.23,2431.74,"Well, Mr. Chief Justice, what you said in Miller, quoting the Robertson case and quoting the Plaut case, is whatever the precise scope of Klein -- because I think that's what you're referring to -- later decisions have made clear that its prohibition does not take hold when Congress amends applicable law."
+2015.14-770,1,15094,elena_kagan,scotus_justice,2431.74,2444.005,"Does that mean, Mr. Olson, if I could, you're conceding that Congress could not say, we have a particular case, Smith v. Jones, Smith ought to win? Congress cannot say that, right?"
+2015.14-770,1,43165,theodore_b_olson,,2444.005,2445.06,Well -- and yes.
+2015.14-770,1,15094,elena_kagan,scotus_justice,2450.3,2457.71,"No, just under the straight separation of powers argument, that would be adjudicating if Congress said Smith wins in this case?"
+2015.14-770,1,43165,theodore_b_olson,,2457.71,2470.6,"I think that unless the Court feels that what Congress is really doing is changing the underlying statute, the substantive provision that ordains that result --"
+2015.14-770,1,15094,elena_kagan,scotus_justice,2470.6,2472.55,I was giving you a simple hypothetical.
+2015.14-770,1,43165,theodore_b_olson,,2479.235,2481.16,"I agree with you, but --"
+2015.14-770,1,15094,elena_kagan,scotus_justice,2481.16,2481.73,That's no good.
+2015.14-770,1,15086,john_g_roberts_jr,scotus_justice,2481.73,2483.23,Agree with her what?
+2015.14-770,1,43165,theodore_b_olson,,2483.23,2489.805,"Agree that that would implicate concerns about separation of power, just directing a judgment."
+2015.14-770,1,15094,elena_kagan,scotus_justice,2491.06,2497.28,"So if that's right, now Congress takes a look at this case and says, we can't just say Smith wins."
+2015.14-770,1,43165,theodore_b_olson,,2513.27,2513.65,Yes.
+2015.14-770,1,15086,john_g_roberts_jr,scotus_justice,2520.74,2522.48,It's not the Plaut -- it's not the Plaut case.
+2015.14-770,1,43165,theodore_b_olson,,2543.69,2548.15,"You have -- in order to win, you have to have a statute of limitations that comes out this way."
+2015.14-770,1,15086,john_g_roberts_jr,scotus_justice,2556.88,2559.355,And all this Court has to do is sign on the dotted line?
+2015.14-770,1,43165,theodore_b_olson,,2559.355,2567.8,"Well, Congress has made a determination by using its power to change something that will affect the outcome of a case."
+2015.14-770,1,15049,antonin_scalia,scotus_justice,2633.5,2634.42,It does say that.
+2015.14-770,1,43165,theodore_b_olson,,2652.03,2664.51,"What is -- what is, Justice Scalia, something like this, as -- as you did point out in that footnote in the Plaut case, there have been individual pieces of legislation, special bills throughout the Court's history."
+2015.14-770,1,15049,antonin_scalia,scotus_justice,2675.03,2679.98,Doesn't name -- doesn't name a particular case and say for purposes of that case --
+2015.14-770,1,43165,theodore_b_olson,,2679.98,2680.37,"Well, if you're --"
+2015.14-770,1,15049,antonin_scalia,scotus_justice,2680.37,2681.91,-- the law will be thus and such.
+2015.14-770,1,15049,antonin_scalia,scotus_justice,2681.91,2685.27,Do you have a single case where -- where Congress has ever done that?
+2015.14-770,1,43165,theodore_b_olson,,2685.27,2685.52,Yeah.
+2015.14-770,1,15086,john_g_roberts_jr,scotus_justice,2708.48,2727.21,"Thank you, counsel. Mr. Kneedler."
+2015.14-770,2,22617,edwin_s_kneedler,,2727.21,2740.13,"Mr. Chief Justice, and may it please the court: This Court has held since the days of the Schooner Peggy that Congress may amend the law and make it applicable to pending cases, and the court must give effect to that law."
+2015.14-770,2,15094,elena_kagan,scotus_justice,2746.425,2753.42,"But usually when we say that, we're talking about amending the law that has effect beyond the particular pending case."
+2015.14-770,2,22617,edwin_s_kneedler,,2778.595,2780.9,"I -- I think not, Justice Kagan."
+2015.14-770,2,15094,elena_kagan,scotus_justice,2860.265,2869.53,"Mr. Kneedler, do you -- do you agree with what Mr. Olson said, that Congress can't just pick a winner in a particular suit? Congress can't say Smith wins in this case --"
+2015.14-770,2,22617,edwin_s_kneedler,,2869.53,2870.4,Absolutely.
+2015.14-770,2,15094,elena_kagan,scotus_justice,2875.13,2875.32,Okay.
+2015.14-770,2,22617,edwin_s_kneedler,,2875.52,2877.14,-- directing a result under existing law.
+2015.14-770,2,15094,elena_kagan,scotus_justice,2877.14,2897.29,"The question that I gave Mr. Olson -- and I -- I'm searching here for an answer -- is -- is what happens if rather than just picking the winner, Congress amends the law, tweaks the law, modifies the law in such a way -- as to only this case -- in such a way that it's absolutely clear that the effect of that will be to pick a winner?"
+2015.14-770,2,22617,edwin_s_kneedler,,2897.29,2900.66,"I think if Congress is amending the law, it can do that."
+2015.14-770,2,15113,anthony_m_kennedy,scotus_justice,2932.32,2940.08,But your -- your answer was there's a difference between amending the law and directing a result in the same case.
+2015.14-770,2,22617,edwin_s_kneedler,,2945.435,2945.73,No.
+2015.14-770,2,15113,anthony_m_kennedy,scotus_justice,2946.02,2953.765,What -- what is the principle that would prohibit directing the result in a specific case? A separation of powers principle?
+2015.14-770,2,22617,edwin_s_kneedler,,2953.765,2954.72,Yes.
+2015.14-770,2,15113,anthony_m_kennedy,scotus_justice,2954.72,2966.435,"So we are -- so -- so if we interpret this matter before us as directing a result in a particular case, the Petitioners prevail?"
+2015.14-770,2,22617,edwin_s_kneedler,,2966.435,2972.11,If -- if it's directing a result under preexisting law without an amendment.
+2015.14-770,2,15113,anthony_m_kennedy,scotus_justice,2977.49,2980.01,I'm -- I'm not -- I'm -- you're quite articulate.
+2015.14-770,2,22617,edwin_s_kneedler,,2981.35,2982.01,Well --
+2015.14-770,2,15113,anthony_m_kennedy,scotus_justice,2982.01,2989.54,All -- all of a sudden now we find that there is a separation of powers of principle; that you cannot direct a result in a particular case.
+2015.14-770,2,22617,edwin_s_kneedler,,2994.105,2994.38,No.
+2015.14-770,2,15113,anthony_m_kennedy,scotus_justice,3006.49,3006.82,Suppose they --
+2015.14-770,2,22617,edwin_s_kneedler,,3006.82,3007.04,-- this way.
+2015.14-770,2,15113,anthony_m_kennedy,scotus_justice,3007.04,3010.155,Suppose they've changed the law for this particular case?
+2015.14-770,2,22617,edwin_s_kneedler,,3010.155,3014.14,"It is still an amendment of the law, whether it's for a particular case or a general -- general --"
+2015.14-770,2,15113,anthony_m_kennedy,scotus_justice,3014.14,3016.27,"Well, I find that a very odd distinction."
+2015.14-770,2,15086,john_g_roberts_jr,scotus_justice,3016.27,3018.49,You're saying Congress has to be cute about it.
+2015.14-770,2,22617,edwin_s_kneedler,,3030.765,3030.98,But --
+2015.14-770,2,15086,john_g_roberts_jr,scotus_justice,3030.98,3033.07,It's just a cute way of saying Smith wins.
+2015.14-770,2,22617,edwin_s_kneedler,,3033.07,3033.26,No.
+2015.14-770,2,15086,john_g_roberts_jr,scotus_justice,3043.52,3049.48,"It becomes a problem -- with respect, it becomes a problem because our job is to decide cases."
+2015.14-770,2,22617,edwin_s_kneedler,,3062.495,3068.55,But Congress has amended the law by -- by making assets attachable that would not otherwise have been attachable.
+2015.14-770,2,15139,stephen_g_breyer,scotus_justice,3068.55,3072.605,"If you want to be cute, Congress has 4,000 ways of being cute."
+2015.14-770,2,22617,edwin_s_kneedler,,3076.64,3077.3,And Congress --
+2015.14-770,2,15139,stephen_g_breyer,scotus_justice,3077.3,3090.79,"And -- and indeed, I think I'm right in saying we had hundreds of private bills that were written in all kinds of ways and weren't -- to benefit individuals, and some of them might have been subject to cases and others not."
+2015.14-770,2,22617,edwin_s_kneedler,,3094.91,3098.82,"It refers to the assets in a particular docket number, and we think that's -- that's --"
+2015.14-770,2,15139,stephen_g_breyer,scotus_justice,3098.82,3114.3,"Can't anyone join? That is to say, if a person today, or if there is some person who has the appropriate judgment, an antiterrorism judgment against Iran, are they perfectly free to join into this case?"
+2015.14-770,2,22617,edwin_s_kneedler,,3114.3,3115.85,"Under the statute, they would be."
+2015.14-770,2,15139,stephen_g_breyer,scotus_justice,3116.27,3116.73,I would --
+2015.14-770,2,22617,edwin_s_kneedler,,3116.73,3132.38,"-- could just say what's -- what's also critical about this case is the foreign relations context in which it arises. This -- this Court has recognized, for example, the ability of the executive to suggest immunity or nonimmunity in individual cases for foreign sovereign immunity."
+2015.14-770,2,15131,sonia_sotomayor,scotus_justice,3152.31,3159.59,"Mr. Kneedler, why is this different than the Chief Justice's example?"
+2015.14-770,2,22617,edwin_s_kneedler,,3159.59,3164.86,"Because what -- Congress changed the law, and it did not purport to direct a result under existing law."
+2015.14-770,2,15131,sonia_sotomayor,scotus_justice,3175.35,3176.92,But for only this case.
+2015.14-770,2,22617,edwin_s_kneedler,,3176.92,3178.03,"Yes, but -- but --"
+2015.14-770,2,15131,sonia_sotomayor,scotus_justice,3178.03,3179.47,And only this sovereign.
+2015.14-770,2,22617,edwin_s_kneedler,,3179.47,3185.06,"But -- as long as Congress is amending the law, there is not a separation of powers problem."
+2015.14-770,2,15139,stephen_g_breyer,scotus_justice,3197.77,3209.57,"Can we -- would this resolve the case correctly, in your view on your side, were we to say whatever the general principle is, this is a case which is against you."
+2015.14-770,2,22617,edwin_s_kneedler,,3242.58,3243.34,And that is certainly --
+2015.14-770,2,15139,stephen_g_breyer,scotus_justice,3243.34,3244.08,Is that true or not true?
+2015.14-770,2,22617,edwin_s_kneedler,,3244.08,3245.83,That -- that is certainly true in this case.
+2015.14-770,2,15131,sonia_sotomayor,scotus_justice,3288.84,3303.615,Does the government have a position on the Respondent's argument that we have an alternative ground to affirm on? And that would be that their -- these assets were -- could be executed under Section 201(a)?
+2015.14-770,2,22617,edwin_s_kneedler,,3303.615,3305.35,We have not taken a position on that.
+2015.14-770,2,15086,john_g_roberts_jr,scotus_justice,3349.77,3355.415,"Thank you -- thank you, counsel. Mr. Lamken, you have six minutes remaining."
+2015.14-770,3,31508,jeffrey_a_lamken,,3355.415,3374.89,"Thank you. I'd like to begin by going back in history to answer Justice Kennedy's question about a law that says we're going to lift the statute of limitations from one plaintiff and one plaintiff only and nobody else. And the answer to that is early in the nation's history, State court after State court said, You cannot do that."
+2015.14-770,3,15068,samuel_a_alito_jr,scotus_justice,3414.38,3419.905,"Well, could it be that Congress just thinks that's very unfair and that's why they haven't done it?"
+2015.14-770,3,31508,jeffrey_a_lamken,,3419.905,3461.8,"That -- that is one, but it could have been the same thing in Plaut, that for 200 years Congress thought it was unfair to get rid of a final judgment and eliminate repose. But the matter of the fact is that the fact that is also unfair, the fact that there may be individual liberty guarantees associated with it, doesn't mean it's not a separation of powers problem. Because separation of powers protects this Court. It doesn't -- and it does -- when it does so, it also has the effect of guaranteeing fairness and individual liberties for individuals. So separation of powers is important even if one would think that the law might be unconstitutional on other grounds. It's this Court's authority to say what the law is and to decide cases, without Congress passing a law saying, for this one case and this one case only."
+2015.14-770,3,15068,samuel_a_alito_jr,scotus_justice,3461.8,3473.285,You think the issue here is the protection of the judiciary rather than providing a certain element of equal treatment for the people who are the litigants in the case? I would think it would be the opposite.
+2015.14-770,3,31508,jeffrey_a_lamken,,3473.285,3476.315,"I -- in this case, I think it is the rule of law."
+2015.14-770,3,15139,stephen_g_breyer,scotus_justice,3481.48,3486.79,"What's lacking in the integrity if you have an enemy country, let's say. We've had many wars."
+2015.14-770,3,31508,jeffrey_a_lamken,,3512.62,3534.43,"If the political branches give that power to the President, that only exacerbates the separation of powers problem with doing it this way. Because they do that and accept the accountability that goes with it, but they cannot try to give it an air of judicial legitimacy by instead taking and commandeering one case pending before the court and making --"
+2015.14-770,3,15049,antonin_scalia,scotus_justice,3534.43,3540.09,You think that two -- one case -- is it one case or 17 cases or 34 cases? What is -- what is your position?
+2015.14-770,3,31508,jeffrey_a_lamken,,3540.09,3546.17,"My position is at least for one case and one case only, like this one, it is unconstitutional."
+2015.14-770,3,15049,antonin_scalia,scotus_justice,3546.17,3547.71,17 would be okay?
+2015.14-770,3,31508,jeffrey_a_lamken,,3547.71,3551.75,The only -- the limiting principle I would put on it: If it dictates the outcome.
+2015.14-770,3,15049,antonin_scalia,scotus_justice,3554.49,3556.23,Limited -- limited category.
+2015.14-770,3,31508,jeffrey_a_lamken,,3557.41,3557.78,Single --
+2015.14-770,3,15049,antonin_scalia,scotus_justice,3557.78,3559.55,"-- is a limited -- is a limited category, right?"
+2015.14-770,3,31508,jeffrey_a_lamken,,3559.55,3560.72,Single defendants --
+2015.14-770,3,15049,antonin_scalia,scotus_justice,3560.72,3561.19,Yes.
+2015.14-770,3,31508,jeffrey_a_lamken,,3561.19,3562.3,-- dictates the outcome.
+2015.14-770,3,15049,antonin_scalia,scotus_justice,3562.3,3563.32,Has to be a single defendant?
+2015.14-770,3,31508,jeffrey_a_lamken,,3563.32,3564.88,Not willing to make -- not willing to make it --
+2015.14-770,3,15049,antonin_scalia,scotus_justice,3564.88,3567.24,"If there are a hundred different defendants, it's okay."
+2015.14-770,3,31508,jeffrey_a_lamken,,3567.24,3567.91,No.
+2015.14-770,3,15049,antonin_scalia,scotus_justice,3569.46,3569.55,Yes.
+2015.14-770,3,31508,jeffrey_a_lamken,,3569.55,3572.4,"-- and it's willing to make it -- yes, I think at some point it crosses the line to mean --"
+2015.14-770,3,15139,stephen_g_breyer,scotus_justice,3572.4,3575.74,A single defendant that represents a hundred million people?
+2015.14-770,3,31508,jeffrey_a_lamken,,3575.74,3583.19,"At some point, Justice Breyer, the line is between adjudicating a particular case and actually enacting law."
+2015.14-770,3,15094,elena_kagan,scotus_justice,3585.99,3589.025,"And when you say, dictates the outcome, what do you mean by that phrase?"
+2015.14-770,3,31508,jeffrey_a_lamken,,3589.025,3595.05,"I mean when the -- when Congress enacts the law, there's only one conceivable result. And that is exactly this case."
+2015.14-770,3,15084,ruth_bader_ginsburg,scotus_justice,3611.98,3621.33,"Mr. Lamken, you -- even -- let's assume your argument prevails, your one-case argument prevails."
+2015.14-770,3,31508,jeffrey_a_lamken,,3632.465,3633.39,Correct.
+2015.14-770,3,15084,ruth_bader_ginsburg,scotus_justice,3633.39,3640.39,"So that would have to be -- if you succeeded on the issue that you're raising here, would have to be returned."
+2015.14-770,3,31508,jeffrey_a_lamken,,3640.39,3641.07,Yes.
+2015.14-770,3,15086,john_g_roberts_jr,scotus_justice,3683.715,0.0,"Thank you, counsel. The case is submitted."

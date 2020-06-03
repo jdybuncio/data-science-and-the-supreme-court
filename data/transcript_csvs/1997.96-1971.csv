@@ -1,0 +1,88 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1997.96-1971,0,15141,william_h_rehnquist,scotus_justice,0.0,8.946,"We'll hear argument now in Number 96-1971, Mary Anna Rivet v. the Regions Bank of Louisiana."
+1997.96-1971,0,32253,john_g_odom,,9.888,12.77,"Mr. Chief Justice, and may it please the Court:"
+1997.96-1971,0,15060,john_paul_stevens,scotus_justice,128.134,131.708,Am I correct in understanding you're explaining why res judicata won't bar your claim?
+1997.96-1971,0,32253,john_g_odom,,131.708,137.982,"Your Honor, I'm just trying to give a little background to the facts, because I feel that... I feel that it would be important."
+1997.96-1971,0,15060,john_paul_stevens,scotus_justice,167.001,170.994,"May I ask, does that have anything to do with any issue except whether there's estoppel here?"
+1997.96-1971,0,32253,john_g_odom,,174.935,200.072,"--Your Honor, it's important for us, we believe, to show the Court exactly how far this doctrine will go if a res judicata exception is carved out on the facts of this case and, that being so, you would have to see that this is not even a proper res judicata situation, because two of the four persons were not even... two of the four persons we sued were not even a part of the bankruptcy proceeding."
+1997.96-1971,0,15060,john_paul_stevens,scotus_justice,224.496,229.832,"But your point, as I understand your brief, is that even a narrow res judicata exception should not be recognized."
+1997.96-1971,0,32253,john_g_odom,,229.832,230.411,"Absolutely, Your Honor."
+1997.96-1971,0,15060,john_paul_stevens,scotus_justice,230.411,232.323,So you're just saying this is the parade of horribles.
+1997.96-1971,0,32253,john_g_odom,,234.534,235.024,"Yes, sir."
+1997.96-1971,0,15113,anthony_m_kennedy,scotus_justice,329.307,338.864,"And I take it if we adopted your position we could leave intact the doctrine that originated in Avco v. Aero Lodge, the preemptive... the preemption doctrine."
+1997.96-1971,0,32253,john_g_odom,,338.864,339.503,"--Yes, Your Honor."
+1997.96-1971,0,15084,ruth_bader_ginsburg,scotus_justice,394.699,401.922,"Well, they could be to the extent the Anti Injunction Act makes an exception, the relitigation exception."
+1997.96-1971,0,32253,john_g_odom,,408.798,421.758,"--Your Honor, that does show that Congress has recognized the relitigation situation, has addressed it in the appropriate way after full consideration, and has crafted the relitigation exception to section 2283."
+1997.96-1971,0,15084,ruth_bader_ginsburg,scotus_justice,468.117,474.572,"Your claim, leaving aside the bankruptcy, is wholly State in origin."
+1997.96-1971,0,32253,john_g_odom,,476.882,478.284,"That's absolutely correct, Your Honor."
+1997.96-1971,0,15141,william_h_rehnquist,scotus_justice,668.328,673.08,"What do you do with the footnote in our Moitie case, Mr. Odom?"
+1997.96-1971,0,32253,john_g_odom,,673.08,686.531,"Your Honor, the more one reads Moitie, the more difficult it is to see how so many people became convinced that this Court was articulating a new theory of removal jurisdiction based on res judicata."
+1997.96-1971,0,15084,ruth_bader_ginsburg,scotus_justice,773.829,781.155,"Well, what made the case... what was the Federal character of the claim, as distinguished from the preclusion defense?"
+1997.96-1971,0,32253,john_g_odom,,781.155,802.009,"Your Honors, it's clear from reading the Moitie opinion and the opinions below that the sufficient Federal... sufficiently Federal character of the claims brought in State court was an intent to rely on Federal law, an intent to really state Federal claims in State law disguise."
+1997.96-1971,0,15139,stephen_g_breyer,scotus_justice,914.402,917.034,What did they... I'm somewhat curious.
+1997.96-1971,0,32253,john_g_odom,,924.06,924.157,"--Yes, sir."
+1997.96-1971,0,15139,stephen_g_breyer,scotus_justice,924.648,927.349,"Then they left out the word antitrust, so what were they claiming in the State court?"
+1997.96-1971,0,32253,john_g_odom,,927.349,933.724,"--In the State court below, Your Honor, they alleged unfair competition and breach of contract."
+1997.96-1971,0,15139,stephen_g_breyer,scotus_justice,934.755,940.809,"All right, so they had a list of defendants' activities they said that violate Federal antitrust, then they leave out the word antitrust, they say the same thing violates State law."
+1997.96-1971,0,32253,john_g_odom,,940.809,942.109,"--State law, various--"
+1997.96-1971,0,15139,stephen_g_breyer,scotus_justice,942.109,943.541,State... unfair competition law--
+1997.96-1971,0,32253,john_g_odom,,943.541,943.901,"--Yes, sir."
+1997.96-1971,0,15139,stephen_g_breyer,scotus_justice,943.901,944.651,"--contract law, or something."
+1997.96-1971,0,32253,john_g_odom,,944.651,944.991,"Yes, sir."
+1997.96-1971,0,15139,stephen_g_breyer,scotus_justice,944.991,949.455,"Well... they'd say, well, different claim."
+1997.96-1971,0,32253,john_g_odom,,949.455,950.845,Well--
+1997.96-1971,0,15139,stephen_g_breyer,scotus_justice,950.845,960.011,"A single activity can violate State law, it can also violate Federal law, and we said in Federal court it violated Federal law, and now we say the same thing violates State law, a different law."
+1997.96-1971,0,32253,john_g_odom,,960.011,981.836,"--Well, the artful pleading doctrine, Your Honor, exists for situations where the claim can be recharacterized as a Federal claim and I believe, on a straightforward basis, that's what the judge in the Moitie case did and that is what this Court was doing in saying that at least some of those claims were sufficiently Federal in character to support removal jurisdiction."
+1997.96-1971,0,15084,ruth_bader_ginsburg,scotus_justice,1045.548,1066.692,"Can you explain that a little further, because there are many instances, for example, constitutional law, where the facts are the same and a claim may be brought under the Federal Constitution, and then the same claim is made in the State court saying the State constitution means something different, or more, so why is it different in the antitrust context?"
+1997.96-1971,0,32253,john_g_odom,,1066.692,1080.041,"--Well, Your Honors, if a claim is brought under... if we're assuming that a claim is originally brought in State court, and it also asserts violations of the Federal Constitution, I say that claim is immediately removable to Federal court on the--"
+1997.96-1971,0,15084,ruth_bader_ginsburg,scotus_justice,1080.041,1084.603,"No, I'm supposing a case in Federal court first."
+1997.96-1971,0,32253,john_g_odom,,1084.603,1085.415,"--Yes, ma'am."
+1997.96-1971,0,15084,ruth_bader_ginsburg,scotus_justice,1085.415,1089.256,"And the Federal court says, you don't have that Federal constitutional right."
+1997.96-1971,0,32253,john_g_odom,,1098.753,1107.127,"Well, in my view, Your Honor, that would be easily distinguished because the State constitution is a separate document and many of them are very, very different from the Federal Constitution."
+1997.96-1971,0,15049,antonin_scalia,scotus_justice,1114.854,1119.148,"Well, isn't that the same thing with Federal antitrust law and State Valentine acts?"
+1997.96-1971,0,32253,john_g_odom,,1127.651,1128.923,"No, sir, they're not."
+1997.96-1971,0,15049,antonin_scalia,scotus_justice,1131.344,1134.707,"So then, how do you explain the consequence in Moitie?"
+1997.96-1971,0,32253,john_g_odom,,1134.707,1136.597,"--Your Honor, in that case--"
+1997.96-1971,0,15049,antonin_scalia,scotus_justice,1136.597,1137.048,The outcome.
+1997.96-1971,0,32253,john_g_odom,,1137.048,1146.234,"--In that case the judge literally drew a chart, which is also in the record upstairs, of the differences... of the differences in the claims."
+1997.96-1971,0,15060,john_paul_stevens,scotus_justice,1221.114,1237.574,"What if we were to say it stops with the first cases in which the answer turns on an interpretation of a Federal order, which here I guess one could... part of your argument would be the scope of the bankruptcy's court's order, just what it means, and maybe you... maybe we could say that's the scope of the doctrine."
+1997.96-1971,0,32253,john_g_odom,,1237.574,1247.47,"--Well, Your Honor, if one does that, then it's easy to see that the courts below will get into all kinds of factual considerations, such as who were exactly the parties before the court?"
+1997.96-1971,0,15060,john_paul_stevens,scotus_justice,1284.353,1285.896,Let me ask you this one other question.
+1997.96-1971,0,32253,john_g_odom,,1289.519,1295.182,"Federal res judicata law, Your Honor."
+1997.96-1971,0,15060,john_paul_stevens,scotus_justice,1295.182,1295.683,Federal.
+1997.96-1971,0,32253,john_g_odom,,1296.462,1316.564,"Yes, sir, and I believe the State court would apply Federal res judicata law and Your Honors, there is... as Justice Ginsburg indicated, there is a remedy if anyone feels aggrieved by someone trying to relitigate something previously decided in Federal court."
+1997.96-1971,0,15141,william_h_rehnquist,scotus_justice,1360.925,1361.955,"Very well, Mr. Odom."
+1997.96-1971,0,32253,john_g_odom,,1361.955,1362.506,Thank you.
+1997.96-1971,0,15141,william_h_rehnquist,scotus_justice,1362.506,1363.808,"Mr. Stern, we'll hear from you."
+1997.96-1971,1,20053,charles_l_stern_jr,,1363.808,1374.063,"Mr. Chief Justice, and may it please the Court:"
+1997.96-1971,1,15141,william_h_rehnquist,scotus_justice,1441.897,1445.129,"Well, Mr. Stern, it was your client who removed the action, was it not?"
+1997.96-1971,1,20053,charles_l_stern_jr,,1445.129,1445.39,That is correct.
+1997.96-1971,1,15141,william_h_rehnquist,scotus_justice,1445.39,1451.734,"And in order to remove it, you have to comply with 1441(b), is that right?"
+1997.96-1971,1,20053,charles_l_stern_jr,,1451.734,1451.925,No question.
+1997.96-1971,1,15141,william_h_rehnquist,scotus_justice,1451.925,1461.399,"Any civil action in which the district courts have original jurisdiction, and how do you phrase your argument that a district court would have had original jurisdiction?"
+1997.96-1971,1,20053,charles_l_stern_jr,,1461.399,1466.875,"Well, the... that goes back to the question of how the artful pleading doctrine works in the first place."
+1997.96-1971,1,15141,william_h_rehnquist,scotus_justice,1515.896,1520.23,And why does that make it a civil action in which the district court would have had original jurisdiction?
+1997.96-1971,1,20053,charles_l_stern_jr,,1520.23,1531.717,"Well, if it's either an appeal or a Rule 60 motion the original court would have had... the district court would have had original jurisdiction, essentially ancillary to the bankruptcy jurisdiction that it had in the first place."
+1997.96-1971,1,15141,william_h_rehnquist,scotus_justice,1539.872,1541.915,"Well, but this was filed in State court, wasn't it?"
+1997.96-1971,1,20053,charles_l_stern_jr,,1551.663,1557.856,"Well, but that's the whole point of the artful pleading doctrine, is that you try to disguise what is, in effect, a Federal claim."
+1997.96-1971,1,15141,william_h_rehnquist,scotus_justice,1565.59,1571.864,But it seems to me you're expanding the artful pleading doctrine a good ways with your submission.
+1997.96-1971,1,20053,charles_l_stern_jr,,1590.939,1599.094,"Well, the... I would agree that the procedural context here makes it unique, but it's a procedural context that occurs over and over in bankruptcy."
+1997.96-1971,1,15141,william_h_rehnquist,scotus_justice,1625.861,1640.03,"But are you saying that any time a plaintiff in State court, perhaps without legal justification, files an action which would require the State court to review some previous proceeding in Federal court, that that is automatically removable?"
+1997.96-1971,1,20053,charles_l_stern_jr,,1640.03,1645.482,There are two or three different arguments that we've made.
+1997.96-1971,1,15049,antonin_scalia,scotus_justice,1665.497,1668.329,"Well, let me give you a very narrow way to interpret Moitie."
+1997.96-1971,1,20053,charles_l_stern_jr,,1709.026,1721.983,"--Whether the Court was endorsing the finding, so to speak, Your Honor, I think, though, to some extent begs the question, because the Court had to consider whether the case was properly before it in the first place and--"
+1997.96-1971,1,15049,antonin_scalia,scotus_justice,1721.983,1737.122,"Ah, but we have a lot of jurisdiction that says... a lot of jurisprudence that says, where question of jurisdiction is just accepted or assumed by the Court and not considered and ruled on, it won't be considered precedential--"
+1997.96-1971,1,20053,charles_l_stern_jr,,1737.122,1737.473,--Well--
+1997.96-1971,1,15049,antonin_scalia,scotus_justice,1737.473,1738.534,--and I don't know that this isn't that.
+1997.96-1971,1,20053,charles_l_stern_jr,,1738.534,1738.805,--Well--
+1997.96-1971,1,15049,antonin_scalia,scotus_justice,1738.805,1742.388,"We will not question here that factual finding, is the bottom line."
+1997.96-1971,1,20053,charles_l_stern_jr,,1742.388,1758.728,"--Well, with all due respect, first of all the jurisdictional issue was clearly brought to the Court's attention, because there is a dissent by Justice Brennan, 90 percent of which is devoted to the jurisdictional issues, and footnote 2 makes clear that the Court is considering the issue."
+1997.96-1971,1,15113,anthony_m_kennedy,scotus_justice,1771.066,1779.0,"Well, if we take out the word factual in that last sentence, then Justice Scalia's explanation would be quite sufficient, would it not?"
+1997.96-1971,1,20053,charles_l_stern_jr,,1779.0,1781.414,"Well, it would be sufficient to this extent."
+1997.96-1971,1,15141,william_h_rehnquist,scotus_justice,1795.841,1800.997,"Well, every single statement in a Supreme Court opinion isn't a pearl, so to speak."
+1997.96-1971,1,20053,charles_l_stern_jr,,1810.931,1813.872,"Well, I recognize I'm speaking to the author of that footnote, so--"
+1997.96-1971,1,15049,antonin_scalia,scotus_justice,1840.52,1881.129,"Well, if you're right about that and that artful pleading consists of bringing a cause of action to which there is a defense that a Federal... a prior Federal case gives a res judicata defense, then what would follow is not only you can remove it, but that State law claim to which there is a possible Federal res judicata defense can be brought originally in Federal court, so any State law claim, you know, how clear does the Federal bankruptcy defense or the other Federal res judicata defense have to be?"
+1997.96-1971,1,20053,charles_l_stern_jr,,1881.129,1893.345,"Let me suggest that in this case, if you want to view Moitie at its narrowest... and let's take your construction of Moitie, Justice Scalia."
+1997.96-1971,2,32253,john_g_odom,,3070.054,3074.997,"Thank you, Your Honor."
+1997.96-1971,2,15084,ruth_bader_ginsburg,scotus_justice,3221.917,3223.049,But that all goes to the merits--
+1997.96-1971,2,32253,john_g_odom,,3223.049,3223.63,--It does.

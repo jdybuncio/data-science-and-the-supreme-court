@@ -1,0 +1,101 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1992.91-1229,0,15141,william_h_rehnquist,scotus_justice,0.0,11.891,"We'll hear argument first this morning in No. 91-1229, United States, by and through the Internal Revenue Service v. Bruce J. McDermott."
+1992.91-1229,0,30335,james_a_feldman,,19.045,21.663,"Mr. Chief Justice, and may it please the Court:"
+1992.91-1229,0,15092,sandra_day_oconnor,scotus_justice,208.301,228.964,"May I ask, Mr. Feldman, now, if we weren't dealing with after-acquired property but had a judgment lien on all property of the debtor, would you think a subsequently filed Federal lien would take priority?"
+1992.91-1229,0,30335,james_a_feldman,,228.964,234.452,"If, well, I think that that is exactly what this Court decided in the case of United States against Vermont."
+1992.91-1229,0,15092,sandra_day_oconnor,scotus_justice,234.452,236.32,"Yes, I thought so too."
+1992.91-1229,0,30335,james_a_feldman,,236.32,247.526,"And the issue in that case was whether a lien is sufficiently specific, that is if it just identifies all of the debtor's property rather than giving a specific legal description of the property."
+1992.91-1229,0,15092,sandra_day_oconnor,scotus_justice,247.526,250.395,"That's pretty specific, if it attaches to all."
+1992.91-1229,0,30335,james_a_feldman,,250.395,250.678,Right.
+1992.91-1229,0,15092,sandra_day_oconnor,scotus_justice,267.773,278.481,"Well, is it enough that you can say it's clear that any subsequently acquired property will be immediately covered by the judgment lien?"
+1992.91-1229,0,30335,james_a_feldman,,280.849,283.801,"--Yes, I don't think... there's no question under state law that judgment lien--"
+1992.91-1229,0,15092,sandra_day_oconnor,scotus_justice,283.801,285.768,So specificity isn't a problem.
+1992.91-1229,0,30335,james_a_feldman,,285.768,286.837,--Right.
+1992.91-1229,0,15092,sandra_day_oconnor,scotus_justice,307.25,314.32,"Well, whose lien attached first in your view, or were they simultaneous?"
+1992.91-1229,0,30335,james_a_feldman,,314.32,318.022,"Well, that actually gets to the second question I mentioned."
+1992.91-1229,0,15092,sandra_day_oconnor,scotus_justice,333.298,337.166,"Well, what's the statute designed to protect, reliance interests--"
+1992.91-1229,0,30335,james_a_feldman,,337.166,337.5,--Yes.
+1992.91-1229,0,15092,sandra_day_oconnor,scotus_justice,337.5,339.101,--of the creditor?
+1992.91-1229,0,30335,james_a_feldman,,339.101,340.268,"Yes, primarily."
+1992.91-1229,0,15092,sandra_day_oconnor,scotus_justice,340.268,349.743,"And does the creditor have the judgment lien credit or have any reliance interest on property subsequently acquired, do you think?"
+1992.91-1229,0,30335,james_a_feldman,,349.743,350.259,I don't think he does.
+1992.91-1229,0,15092,sandra_day_oconnor,scotus_justice,384.464,404.561,"If there had been no Federal Government here but we had a situation of private parties, what would be the result under the Uniform Commercial Code of state law generally for after-acquired property?"
+1992.91-1229,0,30335,james_a_feldman,,404.561,413.667,"It's a little bit hard to answer that question because the Federal Tax Lien, I'm not sure what, how, that is not something that is governed by the Uniform Commercial Code."
+1992.91-1229,0,15060,john_paul_stevens,scotus_justice,445.935,453.04,Is your argument that nothing turns on when the Federal tax lien was perfected?
+1992.91-1229,0,30335,james_a_feldman,,453.04,457.576,"Nothing turns on when it attached, and I think that follows from a number of--"
+1992.91-1229,0,15060,john_paul_stevens,scotus_justice,457.576,460.528,"Well, is that the same as perfected?"
+1992.91-1229,0,30335,james_a_feldman,,460.528,461.896,"--Yes, I think that's part of perfection."
+1992.91-1229,0,15060,john_paul_stevens,scotus_justice,476.906,486.612,"So everything turns on when the judgement creditor's lien perfected, but nothing turns on when the Government's lien was perfected?"
+1992.91-1229,0,30335,james_a_feldman,,486.612,486.879,Right.
+1992.91-1229,0,15060,john_paul_stevens,scotus_justice,525.887,529.374,What happens with the proceeds in a title company?
+1992.91-1229,0,30335,james_a_feldman,,556.525,564.179,"The question there would be whether you trace the proceeds of the property, whether the lien on the property attaches also... you trace the priorities through to the proceeds."
+1992.91-1229,0,15141,william_h_rehnquist,scotus_justice,568.433,583.025,"What if the South Street property here had been purchased with an exchange of other real property to which the judgment creditor's lien had attached, then surely it would carry over to the South Street property, would it not?"
+1992.91-1229,0,30335,james_a_feldman,,583.025,583.292,Right.
+1992.91-1229,0,15141,william_h_rehnquist,scotus_justice,593.865,599.952,"Well, how was the, what was the consideration for the acquisition of the South Street property?"
+1992.91-1229,0,30335,james_a_feldman,,599.952,604.256,The debtor had previously owned the property and had sold the property.
+1992.91-1229,0,15141,william_h_rehnquist,scotus_justice,613.878,617.246,And therefore the judgment creditor lien didn't attach?
+1992.91-1229,0,30335,james_a_feldman,,617.246,622.65,It didn't attach because it was personal property at that time and the judgment lien only attaches under state law to real property.
+1992.91-1229,0,15042,david_h_souter,scotus_justice,635.458,644.148,"Mr. Feldman, in a case of simultaneous perfection do you take the position that 6323(a) breaks the tie?"
+1992.91-1229,0,30335,james_a_feldman,,644.148,651.153,"I think our position is that, if you mean a case of simultaneous attachment, if we're talking specifically about that type of perfection--"
+1992.91-1229,0,15042,david_h_souter,scotus_justice,651.153,652.836,Yes.
+1992.91-1229,0,30335,james_a_feldman,,652.836,676.101,"--It would be our view that both the amendments, the clear intent of the amendments which is to limit the extent of a security interest in after-acquired property for a period of 45 days and only in certain given cases which did not include judgment liens, it would be our position that both that and 6323(a) and (c), I'm sorry, 6321 and 6323(a), all of those support our position."
+1992.91-1229,0,15042,david_h_souter,scotus_justice,718.178,724.748,"What does that tell you about simultaneity, when two of them attach at precisely the same moment?"
+1992.91-1229,0,30335,james_a_feldman,,724.748,741.692,"I guess, I think the import of our argument is that the date that the Federal tax lien attaches in an after-acquired property case is not a legally significant date, that Congress set those legally significant dates as being either when they're assessed or when the tax lien is filed."
+1992.91-1229,0,15113,anthony_m_kennedy,scotus_justice,808.986,813.556,"Mr. Feldman, are you talking about Congress' decision... you're talking about the 1966 decision?"
+1992.91-1229,0,30335,james_a_feldman,,813.556,814.856,"Yes, because that's where it--"
+1992.91-1229,0,15113,anthony_m_kennedy,scotus_justice,814.856,821.929,Is it your view that the law with respect to the issue that's before us today changed in 1966?
+1992.91-1229,0,30335,james_a_feldman,,821.929,822.912,"--No, it's not."
+1992.91-1229,0,15113,anthony_m_kennedy,scotus_justice,823.379,829.9,"So we really, the 1966 act really does shed any light on the problem that we have before us, does it?"
+1992.91-1229,0,30335,james_a_feldman,,829.9,831.435,"--Well, let me put it this way."
+1992.91-1229,0,15113,anthony_m_kennedy,scotus_justice,839.021,839.79,So you don't need to rely on it.
+1992.91-1229,0,30335,james_a_feldman,,839.79,847.027,"I don't have to rely on that, but I do think Congress then enacted those amendments in 1966 in reliance on that."
+1992.91-1229,0,15113,anthony_m_kennedy,scotus_justice,847.027,853.448,In other words you're relying on what you perceive to be Congress' understanding in 1966 as to what the law then was?
+1992.91-1229,0,30335,james_a_feldman,,853.448,853.967,That's correct.
+1992.91-1229,0,15113,anthony_m_kennedy,scotus_justice,880.534,886.319,Where do you first quote the 1966 statute in your briefs or cert petition?
+1992.91-1229,0,30335,james_a_feldman,,886.319,888.471,In the brief... excuse me?
+1992.91-1229,0,15113,anthony_m_kennedy,scotus_justice,888.471,893.173,"Where do you first quote it in your papers, the 1966... I know it's in the reply brief."
+1992.91-1229,0,30335,james_a_feldman,,893.606,894.791,"Oh, no, it was in our brief."
+1992.91-1229,0,15113,anthony_m_kennedy,scotus_justice,907.599,908.633,"--Oh, I had the wrong brief."
+1992.91-1229,0,30335,james_a_feldman,,909.967,927.612,"--There's another line of cases that also suggests the same result, and that is this Court has never specifically addressed a case involved after-acquired property but it has addressed cases involving a very closely analogous situation, and that is what might be called after-acquired debt or after-incurred debt."
+1992.91-1229,0,15141,william_h_rehnquist,scotus_justice,972.308,975.327,What was the reasoning in those cases?
+1992.91-1229,0,30335,james_a_feldman,,980.897,984.849,"--You know, I'm not sure what the rule was before 1966 as to interest."
+1992.91-1229,0,15141,william_h_rehnquist,scotus_justice,1017.32,1019.206,What was the reasoning of the Court?
+1992.91-1229,0,30335,james_a_feldman,,1019.206,1033.365,"It was applying the test for perfection that I have suggested here, which is, in those cases the amount of the debt... you remember the test requires the identity of the lienholder, the amount of the debt, and the property subject to the debt be established."
+1992.91-1229,0,15141,william_h_rehnquist,scotus_justice,1033.365,1036.15,"That would go for interest too, I would think."
+1992.91-1229,0,30335,james_a_feldman,,1036.15,1037.617,"It probably would, yes."
+1992.91-1229,0,15141,william_h_rehnquist,scotus_justice,1038.217,1040.602,It seems a rather strange ruling.
+1992.91-1229,0,30335,james_a_feldman,,1040.602,1041.085,That's right.
+1992.91-1229,0,15141,william_h_rehnquist,scotus_justice,1081.179,1096.022,"You agree, don't you, Mr. Feldman, that if the South Street property had been owned by the debtor here at the time that the judgment lien was filed in Salt Lake County, then the judgment creditor lien would be prior?"
+1992.91-1229,0,30335,james_a_feldman,,1096.022,1096.289,Yes.
+1992.91-1229,0,15141,william_h_rehnquist,scotus_justice,1127.558,1129.577,"Very well, Mr. Feldman."
+1992.91-1229,1,42590,t_richard_davis,,1139.985,1143.103,"Mr. Chief Justice, and may it please the Court:"
+1992.91-1229,1,15141,william_h_rehnquist,scotus_justice,1273.054,1286.912,"The Government's argument, Mr. Davis, as I understand it, is that the property used to purchase the South Street property was property to which the judgment creditor's lien did not attach under Utah law."
+1992.91-1229,1,42590,t_richard_davis,,1288.214,1288.631,I do not.
+1992.91-1229,1,15141,william_h_rehnquist,scotus_justice,1289.764,1301.222,So that when the South Street property came into the hands of the debtor it had not been previously subject to any lien under state law.
+1992.91-1229,1,42590,t_richard_davis,,1301.222,1307.209,Not pursuant... that is correct as the facts in this case have been shaved down.
+1992.91-1229,1,15049,antonin_scalia,scotus_justice,1362.945,1365.664,I don't know... I don't see how the third requirement is met.
+1992.91-1229,1,42590,t_richard_davis,,1386.561,1391.214,"This issue, I think it's a difference between the word identified and established."
+1992.91-1229,1,15049,antonin_scalia,scotus_justice,1430.757,1434.577,"It was all, it covered all extant property."
+1992.91-1229,1,42590,t_richard_davis,,1454.139,1467.882,"There's no question the facts are different, and I agree, but I think this is not an illogical step to say that a general lien which is established upon all property, either now or hereafter acquired, is still on all property, whether now or hereafter acquired."
+1992.91-1229,1,15049,antonin_scalia,scotus_justice,1478.554,1493.164,"Well, I don't find, I find that not only not in accord with the 1966 understanding of Congress, but not in accord with what in general commercial law is regarded to be the perfection of a lien."
+1992.91-1229,1,42590,t_richard_davis,,1517.997,1520.183,I believe that's the case with the Uniform Commercial Code.
+1992.91-1229,1,15049,antonin_scalia,scotus_justice,1562.176,1582.055,"--I understand, of course the UCC applies only to personal property, but what I'm suggesting is that it made an innovation with respect to personal property, and that the old law with respect to personal property was the same as the old law with respect to real property, that you don't have a perfected lien until you know what the property is."
+1992.91-1229,1,42590,t_richard_davis,,1591.613,1595.747,Certainly there could be no lien until the property was established upon which that lien could be set.
+1992.91-1229,1,15141,william_h_rehnquist,scotus_justice,1595.747,1599.183,Sure.
+1992.91-1229,1,42590,t_richard_davis,,1630.535,1636.872,"The debtor had no real property interest in that, in the South Street property, that's correct."
+1992.91-1229,1,15141,william_h_rehnquist,scotus_justice,1636.872,1646.414,"Well, no... yeah, no real property, so this is certainly a case that is not in any way controlled by the Vermont case."
+1992.91-1229,1,42590,t_richard_davis,,1646.414,1653.151,"It's not controlled by it, it's just the same reasoning that I would put forth that a specific lien is not required, a general is sufficient."
+1992.91-1229,1,15141,william_h_rehnquist,scotus_justice,1653.151,1672.045,"Well, but, but in, the words may not be all that important but under Vermont law as of the time the lien was filed you could, you knew what specific pieces of real property that lien attached to."
+1992.91-1229,1,42590,t_richard_davis,,1672.045,1673.295,"It would be discoverable, that's correct."
+1992.91-1229,1,15141,william_h_rehnquist,scotus_justice,1673.295,1673.745,Yeah.
+1992.91-1229,1,42590,t_richard_davis,,1680.132,1681.901,Generally that is correct.
+1992.91-1229,1,15141,william_h_rehnquist,scotus_justice,1696.326,1699.128,"But that doesn't, that doesn't affect the lien."
+1992.91-1229,1,42590,t_richard_davis,,1699.128,1710.218,"--That did not affect the lien, but it gave, Zions had knowledge that that would be coming into, that the property would be coming into Mr. McDermott's hands because of the nature and the assessing of the foreclosure notices."
+1992.91-1229,1,15141,william_h_rehnquist,scotus_justice,1710.218,1717.74,"But that can't bind another judgment and it certainly can't bind the Government, the fact that Zions may have had knowledge."
+1992.91-1229,1,42590,t_richard_davis,,1717.74,1720.776,All parties had knowledge because that was recorded.
+1992.91-1229,1,15141,william_h_rehnquist,scotus_justice,1760.686,1772.209,"But how does that fit into the congressional statute here, the fact that the competing judgment lien creditor may have relied on the judgment debtor to eventually acquire property?"
+1992.91-1229,1,42590,t_richard_davis,,1772.209,1777.695,I think the statute is silent as to after acquired property.
+1992.91-1229,1,15141,william_h_rehnquist,scotus_justice,1792.305,1800.411,I didn't know that choateness had anything to do with reliance.
+1992.91-1229,1,42590,t_richard_davis,,1800.411,1819.439,"I think the reason for, the choateness doctrine requires that the lien be, that the lienor be identified, the amount be ascertained, and the property be established."
+1992.91-1229,1,15141,william_h_rehnquist,scotus_justice,2112.013,2113.546,"Thank you, Mr. Davis."
+1992.91-1229,2,30335,james_a_feldman,,2116.715,2135.295,"I just wanted to mention, Mr. Chief Justice section 6323(e), in response to your question before, would give the holder of a security interest that's superior to a tax lien a right to the interest that accrues even after the tax lien was filed."

@@ -1,0 +1,145 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2009.08-1341,0,15086,john_g_roberts_jr,scotus_justice,0.0,6.041,"We'll hear argument next in Case 08-1341, United States v. Marcus."
+2009.08-1341,0,22857,eric_d_miller,,6.668,25.004,"Mr. Chief Justice, and may it please the Court: The court of appeals erred in holding that reversal of Respondent's conviction was appropriate on plain error review if there was any possibility, no matter how unlikely, that the jury's verdict was based entirely on conduct predating the enactment of the statute."
+2009.08-1341,0,15084,ruth_bader_ginsburg,scotus_justice,110.485,118.311,Are there errors that are -- that are so basic that they would call for an automatic new trial?
+2009.08-1341,0,22857,eric_d_miller,,123.525,137.567,"This Court has reserved the question of whether, for example, a structural error would automatically satisfy the ""affects substantial rights"" component of the -- of prong three of the Olano test."
+2009.08-1341,0,15084,ruth_bader_ginsburg,scotus_justice,137.567,139.365,"What do you mean by ""structural""?"
+2009.08-1341,0,22857,eric_d_miller,,139.365,146.844,"Well, the sort of error that, if properly preserved, would result in automatic reversal without an assessment of harmlessness."
+2009.08-1341,0,15084,ruth_bader_ginsburg,scotus_justice,146.844,153.606,"Yes, but if you can be concrete, other than a reasonable doubt charge, what else would be structural?"
+2009.08-1341,0,22857,eric_d_miller,,153.606,167.458,"Well, I mean in Johnson, for example, the Court had not yet decided Neder, and so in Johnson it was unclear whether the omission of one element, the failure to instruct the jury on one element of the offense, was a structural error."
+2009.08-1341,0,15068,samuel_a_alito_jr,scotus_justice,221.091,222.047,Can I ask you this?
+2009.08-1341,0,22857,eric_d_miller,,241.35,244.005,"--Well, that's -- that's right."
+2009.08-1341,0,15113,anthony_m_kennedy,scotus_justice,293.049,293.954,Under three.
+2009.08-1341,0,22857,eric_d_miller,,293.954,294.984,--Under prong three.
+2009.08-1341,0,15113,anthony_m_kennedy,scotus_justice,314.726,321.347,"You answered Justice Alito by saying there are cases in which your inquiry is more searching, more demanding, under four."
+2009.08-1341,0,22857,eric_d_miller,,339.153,351.963,"If, under three, the defendant fails, then you don't need to apply prong four, because prong four -- prong four is essentially an implementation of the discretion conferred by the word--"
+2009.08-1341,0,15113,anthony_m_kennedy,scotus_justice,351.963,352.337,Yes.
+2009.08-1341,0,22857,eric_d_miller,,352.337,353.554,--52(b).
+2009.08-1341,0,15113,anthony_m_kennedy,scotus_justice,359.925,360.175,Yes.
+2009.08-1341,0,22857,eric_d_miller,,361.13,370.985,"--There is some overlap in the inquiries, but we think that, you know, as the Court made clear in Puckett, rule four requires a fact-intensive, case-specific inquiry."
+2009.08-1341,0,15068,samuel_a_alito_jr,scotus_justice,370.985,398.082,"So under -- under three, the court could conclude that the defendant has shown that it isn't clear beyond a reasonable doubt, for a constitutional error, that the error didn't affect the outcome, so the defendant would clear prong three, but in prong four, a defendant might still lose if it's fairly clear, but not beyond a reasonable doubt that -- is that -- that how it would work?"
+2009.08-1341,0,22857,eric_d_miller,,398.082,417.654,"Or if, you know, as in the -- my Melendez-Diaz example, or if the nature of the evidence in the case shows that, you know, apart from the effect on the defendant's rights of that particular error, that error, in the context of the case, doesn't undermine public confidence in the outcome."
+2009.08-1341,0,15049,antonin_scalia,scotus_justice,465.337,466.963,"You don't want us to do it, right?"
+2009.08-1341,0,22857,eric_d_miller,,469.974,475.862,--This Court's usual practice when there's an issue that wasn't passed upon below is to leave it to be considered on remand.
+2009.08-1341,0,15113,anthony_m_kennedy,scotus_justice,507.503,542.302,"The point may be tangential, but if both counsel were aware of the date problem, that 2001 was the enactment of the statute, and the jury was later properly instructed, do you think that the government would find it important to introduce the evidence of the pre-enactment conduct, just to set forth scheme, plan, design, purpose, to tell the jury the story?"
+2009.08-1341,0,22857,eric_d_miller,,542.302,543.522,"--Indeed, it would."
+2009.08-1341,0,15084,ruth_bader_ginsburg,scotus_justice,590.359,608.918,"What about the argument that was made that in the pre-enactment period the Web site was created, and that's when the -- that was the really hard labor, as compared to just keeping it up to date?"
+2009.08-1341,0,22857,eric_d_miller,,608.918,613.506,"Well, there -- I mean, the statute refers to ""labor or services""."
+2009.08-1341,0,15060,john_paul_stevens,scotus_justice,637.044,637.875,"Mr. Miller, can I ask you this question?"
+2009.08-1341,0,22857,eric_d_miller,,661.786,673.766,--I think in Johnson the Court quite clearly said that even very serious constitutional errors are subject to the same analysis under Rule 52(b).
+2009.08-1341,0,15049,antonin_scalia,scotus_justice,674.421,683.215,"--Well -- well, but the same constitutional analysis includes step four, which is whether it undermines confidence in the result."
+2009.08-1341,0,22857,eric_d_miller,,690.932,691.946,--Absolutely.
+2009.08-1341,0,15060,john_paul_stevens,scotus_justice,696.616,702.63,Would it not also be possible that some constitutional violations undermine confidence a little more than others?
+2009.08-1341,0,22857,eric_d_miller,,702.63,703.02,--Yes.
+2009.08-1341,0,15060,john_paul_stevens,scotus_justice,712.734,721.059,Then why is the Second Circuit so wrong to say: We think ex post facto violations are perhaps a little more serious than some others.
+2009.08-1341,0,22857,eric_d_miller,,721.059,731.304,"Well, because the error, the essential error in this case, was the failure to give the jury an instruction telling them that they could not convict on the basis of pre-enactment conduct."
+2009.08-1341,0,15060,john_paul_stevens,scotus_justice,742.503,745.86,"Are all omissions in jury instructions fungible, then?"
+2009.08-1341,0,22857,eric_d_miller,,763.619,770.79,"--I think in the context of an error like this, there isn't any reason to attach extra weight--"
+2009.08-1341,0,15049,antonin_scalia,scotus_justice,770.79,784.812,"I suppose if the instruction told the jury in a criminal case that you can find the defendant guilty if you think it more likely than not that he committed the crime, that might be different, don't you think?"
+2009.08-1341,0,22857,eric_d_miller,,784.812,785.409,--Yes.
+2009.08-1341,0,15113,anthony_m_kennedy,scotus_justice,788.127,794.577,"Do you agree that this is ex post facto, as opposed to a general due process violation?"
+2009.08-1341,0,22857,eric_d_miller,,794.577,795.091,No.
+2009.08-1341,0,15113,anthony_m_kennedy,scotus_justice,824.033,826.67,"Well, you -- you agree that there is a violation?"
+2009.08-1341,0,22857,eric_d_miller,,826.67,828.67,There is a violation in the failure to instruct.
+2009.08-1341,0,15086,john_g_roberts_jr,scotus_justice,846.273,847.431,"Thank you, counsel."
+2009.08-1341,1,26978,herald_p_fahringer,,853.475,866.015,"Mr. Chief Justice, and if it please the Court: We do believe there are errors that are so basic that they require a reversal automatically."
+2009.08-1341,1,15113,anthony_m_kennedy,scotus_justice,880.682,896.347,"Well, except that I think most trial judges would have admitted this evidence with the proper instruction to the jury, that it's background evidence so you -- you can't tell the jury the story and just begin in 2001, or it doesn't make much sense to them."
+2009.08-1341,1,26978,herald_p_fahringer,,896.347,896.799,--That's--
+2009.08-1341,1,15113,anthony_m_kennedy,scotus_justice,896.799,900.752,"Now, I agree there was not a proper instruction here, there should have been an objection, and so forth."
+2009.08-1341,1,26978,herald_p_fahringer,,907.795,913.277,"--What's so important about that, if it please Your Honor, is that he couldn't have been convicted on that evidence."
+2009.08-1341,1,15113,anthony_m_kennedy,scotus_justice,915.836,919.228,"Of -- of -- of course, the jury would have to be instructed very carefully."
+2009.08-1341,1,26978,herald_p_fahringer,,919.228,939.045,"--But here, Your Honor, all this evidence came in, and he could be convicted and was convicted on the -- what we lend -- we think lends an awful lot of force to our argument here is that the government has conceded that he could have been convicted exclusively on the pre-enactment conduct alone."
+2009.08-1341,1,15084,ruth_bader_ginsburg,scotus_justice,939.934,947.835,"Convicted, but not -- there was a possibility, but not a reasonable possibility."
+2009.08-1341,1,26978,herald_p_fahringer,,962.018,980.84,"--Well, Your Honor, I understand that, but I certainly -- I'd like to say first, in terms of the concession that was made here, you are talking about 2 years of conduct that came into a trial that is really quite extraordinary and terribly dynamic."
+2009.08-1341,1,15113,anthony_m_kennedy,scotus_justice,1022.791,1025.322,And this was a long -- a long jury deliberation.
+2009.08-1341,1,26978,herald_p_fahringer,,1025.322,1028.102,"It was out for 7 days, Your Honor."
+2009.08-1341,1,15084,ruth_bader_ginsburg,scotus_justice,1030.602,1043.845,"Justice Kennedy suggested that, even though the conduct was pre-enactment, it would have come in to show pattern, scheme."
+2009.08-1341,1,26978,herald_p_fahringer,,1063.868,1074.004,"But -- but, Your Honor, I wanted to mention to the Court, of course, Rule 403 that says that if the prejudice of the evidence outweighs the probative value."
+2009.08-1341,1,15113,anthony_m_kennedy,scotus_justice,1089.715,1092.293,"Well, you can be pleased that I was not the trial judge."
+2009.08-1341,1,26978,herald_p_fahringer,,1094.461,1096.119,"--Sorry to hear that, Your Honor."
+2009.08-1341,1,15068,samuel_a_alito_jr,scotus_justice,1122.749,1123.326,Does the--
+2009.08-1341,1,15139,stephen_g_breyer,scotus_justice,1123.326,1125.981,"I assume you could make all that argument on remand, if we remand it."
+2009.08-1341,1,26978,herald_p_fahringer,,1135.025,1135.571,Well--
+2009.08-1341,1,15139,stephen_g_breyer,scotus_justice,1135.571,1140.975,"And it says that all the other circuits say: This is our set of standards, and we've set them forth."
+2009.08-1341,1,26978,herald_p_fahringer,,1148.443,1149.083,--Well--
+2009.08-1341,1,15139,stephen_g_breyer,scotus_justice,1149.083,1150.582,"Now, nobody else uses that."
+2009.08-1341,1,26978,herald_p_fahringer,,1157.08,1157.673,--Yes.
+2009.08-1341,1,15139,stephen_g_breyer,scotus_justice,1157.673,1164.387,"Because unless I can hear a justification, I would guess I would vote to say send it back and let them use the same standard anybody else does."
+2009.08-1341,1,26978,herald_p_fahringer,,1164.387,1166.528,"Well, one point you make, Your Honor, that I--"
+2009.08-1341,1,15139,stephen_g_breyer,scotus_justice,1166.528,1167.371,What's your response to that?
+2009.08-1341,1,26978,herald_p_fahringer,,1167.371,1171.402,"--It's certainly welcome, and that is that we are seeking a retrial here."
+2009.08-1341,1,15139,stephen_g_breyer,scotus_justice,1206.853,1208.027,So why don't you make the--
+2009.08-1341,1,15049,antonin_scalia,scotus_justice,1208.027,1210.386,Address the test used by the Second Circuit.
+2009.08-1341,1,26978,herald_p_fahringer,,1211.602,1211.821,"--Oh, I'm sorry."
+2009.08-1341,1,15049,antonin_scalia,scotus_justice,1211.821,1213.603,And that's what the question pertained to.
+2009.08-1341,1,26978,herald_p_fahringer,,1223.176,1233.094,"Your Honor, I think -- and I choose my words carefully -- I think that this test under this circumstance was justified."
+2009.08-1341,1,15139,stephen_g_breyer,scotus_justice,1240.202,1244.277,--The very magnitude of the error would argue for -- you'd win on any test.
+2009.08-1341,1,26978,herald_p_fahringer,,1273.59,1303.203,"--I think -- to answer Your Honor's question, which is a -- an incisive one, and that is because, Your Honor, it's only -- the court made it very clear, we're only applying this test to ex post facto, and I think in this instance you are right, the magnitude of the error prompted them to say that if there was any possibility that this 2 years of conduct -- the jury could have based their verdict exclusively on that, we think we had to be granted a new trial."
+2009.08-1341,1,15060,john_paul_stevens,scotus_justice,1303.203,1307.312,"Mr. -- may I ask this question about the -- I -- I should know this, but I don't."
+2009.08-1341,1,26978,herald_p_fahringer,,1316.2,1319.339,"The -- the Olano test, Your Honor?"
+2009.08-1341,1,15060,john_paul_stevens,scotus_justice,1319.339,1319.807,Yes.
+2009.08-1341,1,26978,herald_p_fahringer,,1319.807,1325.696,"Well, the possibility test has been used in the Third Circuit in the Tykarsky case."
+2009.08-1341,1,15060,john_paul_stevens,scotus_justice,1329.037,1330.269,Were those ex post--
+2009.08-1341,1,26978,herald_p_fahringer,,1330.269,1330.849,--Georgia being one.
+2009.08-1341,1,15060,john_paul_stevens,scotus_justice,1330.849,1332.113,--ex post facto cases?
+2009.08-1341,1,26978,herald_p_fahringer,,1332.113,1332.581,Yes.
+2009.08-1341,1,15060,john_paul_stevens,scotus_justice,1334.172,1344.436,So that it isn't necessarily a conflict between this case and all other plain error cases; it's a narrow category of cases involving ex post facto violations?
+2009.08-1341,1,26978,herald_p_fahringer,,1344.436,1347.996,"--In the -- in this very narrow category, Your Honor."
+2009.08-1341,1,15049,antonin_scalia,scotus_justice,1347.996,1353.447,"Well, you call it an ex post facto violation, but I -- I -- I rather agree with the government; it's a due process violation."
+2009.08-1341,1,26978,herald_p_fahringer,,1353.447,1353.884,Well--
+2009.08-1341,1,15049,antonin_scalia,scotus_justice,1353.884,1360.739,"--what happened is improper evidence was admitted, because it concerned pre -- pre-statute conduct."
+2009.08-1341,1,26978,herald_p_fahringer,,1386.137,1390.025,"--Your Honor, as I know, you are aware of the Marks case."
+2009.08-1341,1,15049,antonin_scalia,scotus_justice,1421.03,1432.509,"And when a State court allows pre-law conduct to uphold a conviction, that is an ex post facto violation, and we would reverse the State court judgment."
+2009.08-1341,1,15060,john_paul_stevens,scotus_justice,1457.666,1463.647,"But it not only allowed the evidence before the jury, but it also told the jury it was sufficient to convict."
+2009.08-1341,1,26978,herald_p_fahringer,,1463.647,1465.429,"--Your Honor, that's right."
+2009.08-1341,1,15068,samuel_a_alito_jr,scotus_justice,1475.923,1484.03,--What if the -- what if the period -- the -- the period that was charged started 1 day before the statute took effect?
+2009.08-1341,1,26978,herald_p_fahringer,,1484.03,1486.342,"--Well, if it was -- Your Honor, my stand--"
+2009.08-1341,1,15068,samuel_a_alito_jr,scotus_justice,1486.342,1487.137,Would -- would the test be different?
+2009.08-1341,1,26978,herald_p_fahringer,,1506.253,1517.234,"--My argument is, Your Honor, that no person in this country under our Constitution should be tried for 1 day on conduct that did not violate a law."
+2009.08-1341,1,15139,stephen_g_breyer,scotus_justice,1517.842,1518.763,That's true.
+2009.08-1341,1,26978,herald_p_fahringer,,1542.798,1543.797,"--Well, it's different, Your Honor."
+2009.08-1341,1,15049,antonin_scalia,scotus_justice,1582.156,1585.799,"And -- and, therefore, no violation of the Ex Post Facto Clause."
+2009.08-1341,1,26978,herald_p_fahringer,,1585.799,1586.438,--I beg your pardon.
+2009.08-1341,1,15049,antonin_scalia,scotus_justice,1586.438,1597.15,"There's also no violation of the Ex Post Facto Clause, which is in Article I of the Constitution and which says no ex post facto Law shall be passed."
+2009.08-1341,1,26978,herald_p_fahringer,,1597.15,1598.058,"But, Your Honor--"
+2009.08-1341,1,15049,antonin_scalia,scotus_justice,1598.058,1602.305,You don't have -- you don't have an ex post facto law that was passed here.
+2009.08-1341,1,26978,herald_p_fahringer,,1613.052,1632.541,"--But, Your Honor, I -- I -- in all due respect, I invite your attention to your case in Marks and -- and the Harris case where they have said that we have extended ex post facto to obviously a -- a whole host of cases now that involve judicial precedent and -- and the actions of prosecutors and what not."
+2009.08-1341,1,15049,antonin_scalia,scotus_justice,1663.266,1666.467,"I'm looking for Marks, where is that in -- is that in your brief somewhere?"
+2009.08-1341,1,26978,herald_p_fahringer,,1666.467,1668.027,"--Beg your pardon, Your Honor."
+2009.08-1341,1,15049,antonin_scalia,scotus_justice,1668.027,1670.932,You have mentioned several times the Marks case.
+2009.08-1341,1,26978,herald_p_fahringer,,1671.525,1672.574,M-A-R-K-S.
+2009.08-1341,1,15049,antonin_scalia,scotus_justice,1672.574,1673.182,--Where is that?
+2009.08-1341,1,26978,herald_p_fahringer,,1673.182,1674.98,That's in -- in our--
+2009.08-1341,1,15049,antonin_scalia,scotus_justice,1674.98,1675.838,Is it in your brief?
+2009.08-1341,1,26978,herald_p_fahringer,,1675.838,1679.086,"--I -- I believe it was cited in our brief, Your Honor."
+2009.08-1341,1,15049,antonin_scalia,scotus_justice,1690.316,1692.204,"I mean, see, I don't know what that case is."
+2009.08-1341,1,26978,herald_p_fahringer,,1710.543,1713.37,--I think this comment is relevant to what you just said.
+2009.08-1341,1,15084,ruth_bader_ginsburg,scotus_justice,1761.303,1780.107,"What is your position that two concurring judges said that evidence should not have been -- not that it shouldn't have come in, but the jury should have been told you can convict only on post -- whatever the date was?"
+2009.08-1341,1,26978,herald_p_fahringer,,1806.253,1809.938,"--I -- I understand that, and I think I know what you are referring to, Your Honor."
+2009.08-1341,1,15049,antonin_scalia,scotus_justice,1850.002,1850.392,Okay.
+2009.08-1341,1,26978,herald_p_fahringer,,1918.722,1919.833,In all due--
+2009.08-1341,1,15049,antonin_scalia,scotus_justice,1919.833,1921.487,--is because it occurred pre-statute.
+2009.08-1341,1,26978,herald_p_fahringer,,1921.487,1934.906,"--In all due respect, Your Honor, I believe the cases and Supreme Court cases have held that the ex post facto law has been extended to judicial precedent."
+2009.08-1341,1,15113,anthony_m_kennedy,scotus_justice,1937.386,1947.228,"Well, I -- I thought what we have said that it's just a violation of due process to convict someone for conduct that was not criminal when the conduct was -- was made."
+2009.08-1341,1,26978,herald_p_fahringer,,1952.507,1959.379,"I think you're right, Your Honor, in the sense that it's an ex post facto law being applied through the Due Process Clause."
+2009.08-1341,1,15049,antonin_scalia,scotus_justice,2013.996,2019.759,"Courtesy -- courtesy of Justice Kennedy, I have -- I have before me the Marks case."
+2009.08-1341,1,26978,herald_p_fahringer,,2044.825,2049.762,"--And the only thing that I would think of immediately of that is, is the statute here."
+2009.08-1341,1,15049,antonin_scalia,scotus_justice,2062.849,2067.145,"And, therefore, the Due Process Clause was violated when the court let that in."
+2009.08-1341,1,26978,herald_p_fahringer,,2067.145,2068.674,--I don't have a quarrel with you on that.
+2009.08-1341,1,15049,antonin_scalia,scotus_justice,2068.674,2084.888,"So you -- you have to persuade us that there is something special about a violation of the Due Process Clause that lets in evidence which is pre-statute, as opposed to violations that let in other evidence that should not properly be used to convict the defendant."
+2009.08-1341,1,26978,herald_p_fahringer,,2087.451,2094.212,"Your Honor, I'm endeavoring to pursue it, but somewhat unsuccessfully."
+2009.08-1341,1,15068,samuel_a_alito_jr,scotus_justice,2132.993,2138.585,"Well, what if the conduct that -- we didn't have -- what if we did not have pre-enactment conduct?"
+2009.08-1341,1,26978,herald_p_fahringer,,2153.048,2155.89,If all the conduct that was proven at the--
+2009.08-1341,1,15068,samuel_a_alito_jr,scotus_justice,2155.89,2160.874,"Instead of having pre-enactment conduct, you have conduct in Canada, Mexico, someplace else."
+2009.08-1341,1,26978,herald_p_fahringer,,2160.874,2163.545,--I -- I think it would--
+2009.08-1341,1,15060,john_paul_stevens,scotus_justice,2163.545,2168.915,And the jury was instructed that he could be convicted on the basis of what had happened in Canada.
+2009.08-1341,1,26978,herald_p_fahringer,,2169.976,2170.881,"--Yes, that's right."
+2009.08-1341,1,15068,samuel_a_alito_jr,scotus_justice,2201.398,2213.751,"No, of course, but the question is whether the mere possibility standard would apply in that case as well, or whether you think this mere possibility standard applies only in the case of pre-enactment conduct?"
+2009.08-1341,1,26978,herald_p_fahringer,,2213.751,2222.279,I think the possibility standard only applies to ex post facto statute cases and pre-enactment conduct.
+2009.08-1341,1,15084,ruth_bader_ginsburg,scotus_justice,2304.665,2316.555,"So your position is, essentially, plain error doesn't apply in this area; it's just error because it involved evidence pre-enactment?"
+2009.08-1341,1,26978,herald_p_fahringer,,2319.803,2320.583,"I'm sorry, Your Honor."
+2009.08-1341,1,15084,ruth_bader_ginsburg,scotus_justice,2320.583,2322.973,--It doesn't have to meet the standard for plain error?
+2009.08-1341,1,26978,herald_p_fahringer,,2322.973,2324.284,"Yes, absolutely."
+2009.08-1341,1,15086,john_g_roberts_jr,scotus_justice,2430.101,2431.38,"Thank you, Mr. Fahringer."
+2009.08-1341,2,22857,eric_d_miller,,2434.051,2442.938,"Just very brief -- excuse me -- very briefly, I'd like to make two points."
+2009.08-1341,2,15086,john_g_roberts_jr,scotus_justice,2480.938,2482.346,"Thank you, counsel."

@@ -1,0 +1,51 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1985.84-1160,0,15073,warren_e_burger,scotus_justice,0.0,8.254,We will hear arguments next in Pembaur against Cincinnati.
+1985.84-1160,0,39916,robert_e_manley,,71.262,82.654,"Mr. Chief Justice, and may it please the Court, to a certain extent this case can be characterized as the opposite of the Tuttle case which this Court decided several months ago."
+1985.84-1160,0,15141,william_h_rehnquist,scotus_justice,128.949,134.27,"Would you classify him as a superior, Mr. Manley?"
+1985.84-1160,0,39916,robert_e_manley,,134.27,142.025,"--Well, he is the policymaker in terms of legal matters for the county, because the statute under which--"
+1985.84-1160,0,15141,william_h_rehnquist,scotus_justice,142.025,146.06,Can he instruct the chief of police what to do?
+1985.84-1160,0,39916,robert_e_manley,,146.06,149.612,--He can instruct county agencies what to do.
+1985.84-1160,0,15141,william_h_rehnquist,scotus_justice,155.083,156.952,But this is the city of Cincinnati.
+1985.84-1160,0,39916,robert_e_manley,,156.952,162.254,"Well, the matter before this Court only involves the county of Hamilton."
+1985.84-1160,0,15141,william_h_rehnquist,scotus_justice,162.254,162.906,"The county, Hamilton County."
+1985.84-1160,0,39916,robert_e_manley,,162.906,164.389,The Hamilton County deputy sheriffs.
+1985.84-1160,0,15141,william_h_rehnquist,scotus_justice,175.93,191.189,"So if the prosecuting... if the county attorney, if that is the term in Hamilton County, wants a particular item seized by the police, he can tell the chief of police, go out and seize that item, I think it is legal to do so?"
+1985.84-1160,0,39916,robert_e_manley,,191.189,192.541,"Well, in this particular--"
+1985.84-1160,0,15141,william_h_rehnquist,scotus_justice,192.541,194.558,Can you answer the question more generally?
+1985.84-1160,0,39916,robert_e_manley,,194.558,199.862,"--Well, I don't know that he can do that to the chief of the Cincinnati police department."
+1985.84-1160,0,15071,byron_r_white,scotus_justice,204.016,205.816,You mean he has line authority over him?
+1985.84-1160,0,39916,robert_e_manley,,205.816,210.837,"--No, the sheriff is elected, and his line authority, but we have a peculiar statute in Ohio."
+1985.84-1160,0,15071,byron_r_white,scotus_justice,210.837,211.187,I know.
+1985.84-1160,0,39916,robert_e_manley,,220.026,226.846,"Well, as a matter of fact, the statute expressly gives them the authority to give instructions."
+1985.84-1160,0,15092,sandra_day_oconnor,scotus_justice,234.535,238.504,Where is that in... are you referring to something before us?
+1985.84-1160,0,39916,robert_e_manley,,238.504,243.472,--It is cited in our reply brief at Page 2.
+1985.84-1160,0,15071,byron_r_white,scotus_justice,243.472,247.174,Is it quoted?
+1985.84-1160,0,39916,robert_e_manley,,247.174,249.793,I am not certain whether it is quoted.
+1985.84-1160,1,39276,roger_e_friedmann,,1424.971,1443.35,"Mr. Chief Justice, and may it please the Court, on behalf of the respondent Hamilton County, Ohio, we would urge this Court to affirm the decision of the Sixth Circuit Court of Appeals, which found that the petitioner had suffered no constitutional deprivation because of a policy of Hamilton County, Ohio."
+1985.84-1160,1,15071,byron_r_white,scotus_justice,1558.889,1563.609,Do you agree that the prosecutor has line authority over the sheriff?
+1985.84-1160,1,39276,roger_e_friedmann,,1563.609,1565.909,"--I certainly do not, Your Honor."
+1985.84-1160,1,15071,byron_r_white,scotus_justice,1565.909,1576.433,"Footnote 8 of the petitioner's brief that counsel referred to, it says the prosecutor is also the legal advisor for all county officers."
+1985.84-1160,1,39276,roger_e_friedmann,,1578.535,1580.018,"I believe it is, Your Honor."
+1985.84-1160,1,15071,byron_r_white,scotus_justice,1598.08,1605.953,"It may be he doesn't have line authority, but that doesn't necessarily mean that he couldn't and didn't set policy."
+1985.84-1160,1,39276,roger_e_friedmann,,1605.953,1614.458,"Your Honor, I believe that there probably are situations where the prosecuting attorney may set policy for certain items or certain areas."
+1985.84-1160,1,15071,byron_r_white,scotus_justice,1617.827,1628.699,I suppose you defend the Court of Appeals statement that the prosecutor's advice was consistent with the existing constitutional law at that time.
+1985.84-1160,1,39276,roger_e_friedmann,,1628.699,1630.201,"--I would agree with that, Your Honor."
+1985.84-1160,1,15071,byron_r_white,scotus_justice,1630.201,1657.802,"If that is the case, do you have a very... I suppose the county or the state could have a policy of monitoring searches more closely than the Constitution requires, but surely no rule of law forbade this particular invasion of these premises at that time."
+1985.84-1160,1,39276,roger_e_friedmann,,1657.802,1660.837,"As the prosecutor understood the law at that time, Your Honor, that is correct."
+1985.84-1160,1,15071,byron_r_white,scotus_justice,1660.837,1662.689,And you defend that view.
+1985.84-1160,1,39276,roger_e_friedmann,,1662.689,1664.391,I would defend that view for his decision--
+1985.84-1160,1,15071,byron_r_white,scotus_justice,1664.391,1667.26,And now you wouldn't defend it today because of Steagald.
+1985.84-1160,1,39276,roger_e_friedmann,,1667.26,1673.062,"--If the question were to arise today and I were the prosecuting attorney, I would say Steagald says I must get a search warrant."
+1985.84-1160,1,15071,byron_r_white,scotus_justice,1673.062,1684.62,"Do you argue or if not, why not, do you argue that Steagald should not be applied retroactively?"
+1985.84-1160,1,39276,roger_e_friedmann,,1684.62,1693.994,I think that in those exclusionary cases and the search cases in criminal proceedings the Fourth Amendment decisions generally are not applied retroactively.
+1985.84-1160,1,15071,byron_r_white,scotus_justice,1693.994,1706.718,"And so if there had been an evidentiary problem and the question of the application of the exclusionary rule, the rule wouldn't have applied."
+1985.84-1160,1,39276,roger_e_friedmann,,1706.718,1707.885,"I think that's correct, Your Honor."
+1985.84-1160,1,15071,byron_r_white,scotus_justice,1707.885,1718.776,But you... do you concede or do you not concede that Steagald is retroactive in this case for these purposes?
+1985.84-1160,1,39276,roger_e_friedmann,,1718.776,1730.934,In the sense that it provides a basis of potential constitutional remedy under 42 USC 1983.
+1985.84-1160,1,15071,byron_r_white,scotus_justice,1730.934,1745.093,"Well, Steagald, if you assume it was a completely new rule of law, would not be retroactive for the deterrent purposes of the exclusionary rule, would it?"
+1985.84-1160,1,39276,roger_e_friedmann,,1745.093,1747.545,"Under the criminal proceedings, I think that is correct, Your Honor."
+1985.84-1160,1,15071,byron_r_white,scotus_justice,1747.545,1759.686,You think that for 1983 purposes the county should nevertheless be liable even though at the time it was acting completely consistent with constitutional law?
+1985.84-1160,1,39276,roger_e_friedmann,,1759.686,1765.674,"Your Honor, I don't know that I would concede liability on the part of the county in that position."
+1985.84-1160,1,15141,william_h_rehnquist,scotus_justice,1765.674,1778.064,"If there is no constitutional wrong, then you don't have to worry about policy or anything else, because the action depends on the existence of a constitutional violation here."
+1985.84-1160,1,39276,roger_e_friedmann,,1778.064,1779.849,"That is correct, Your Honor."
+1985.84-1160,2,39916,robert_e_manley,,2864.138,2868.44,"Mr. Chief Justice, and may it please the Court, I have a few matters."

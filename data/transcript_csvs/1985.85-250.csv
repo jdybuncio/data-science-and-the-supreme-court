@@ -1,0 +1,70 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1985.85-250,0,15073,warren_e_burger,scotus_justice,0.0,7.587,We will hear arguments next in Lyng against Castillo.
+1985.85-250,0,31838,jeffrey_p_minear,,11.706,26.631,"Thank you, Mr. Chief Justice, and may it please the Court, the government defends the constitutionality of Section 3(i) of the Food Stamp Act, which provides that parents and children or siblings who live together shall be treated as a single household for food stamp entitlement purposes."
+1985.85-250,0,15140,william_j_brennan_jr,scotus_justice,240.083,245.052,"Is there anything in the record, Mr. Minear, which shows the difference in cost between the two programs?"
+1985.85-250,0,31838,jeffrey_p_minear,,245.052,271.704,"It is not clear from the record, but it is clear from the regulations themselves, and the regulations provide, for instance, that an eight-member household would receive 75 percent of the benefits that would be given to eight separate households, and that two four-member households receive 110 percent of the benefits of the eight-member household."
+1985.85-250,0,15140,william_j_brennan_jr,scotus_justice,484.64,492.393,"Well, Mr. Minear, were these amendments' principal purpose to prevent fraud?"
+1985.85-250,0,31838,jeffrey_p_minear,,492.393,497.113,They were designed both to prevent fraud and also to improve program efficiency.
+1985.85-250,0,15140,william_j_brennan_jr,scotus_justice,497.113,509.604,"As far as they were designed to prevent fraud, is it rational to assume that families are more likely to defraud the government than unrelated individuals?"
+1985.85-250,0,31838,jeffrey_p_minear,,509.604,523.495,"I think it is clear that families are better situation in fact to falsely claim separate household status, and it also seems that family members are more likely to purchase and prepare their meals together."
+1985.85-250,0,15071,byron_r_white,scotus_justice,554.364,564.822,That carries with it then the suggestion that it would just be impossible to prove that there is fraud or collusion.
+1985.85-250,0,31838,jeffrey_p_minear,,564.822,566.272,"I think that that's true, Your Honor."
+1985.85-250,0,15071,byron_r_white,scotus_justice,567.088,570.04,That certainly wouldn't be true in all the cases I don't suppose.
+1985.85-250,0,31838,jeffrey_p_minear,,570.04,573.675,"--But it would be difficult, and it would be rather intrusive as well."
+1985.85-250,0,15071,byron_r_white,scotus_justice,585.716,587.166,How about unrelated people?
+1985.85-250,0,31838,jeffrey_p_minear,,587.166,590.703,"It is also true that it is difficult in those cases, but--"
+1985.85-250,0,15071,byron_r_white,scotus_justice,590.703,594.405,But you certainly take all of those cases on.
+1985.85-250,0,31838,jeffrey_p_minear,,594.405,597.273,"--Yes, but it is also a more limited number of cases."
+1985.85-250,0,15071,byron_r_white,scotus_justice,598.623,600.725,But a growing number.
+1985.85-250,0,31838,jeffrey_p_minear,,600.725,610.415,"--Yes, it might be a growing number as well, and it might be, too, that Congress will eventually determine that in fact no one should be able to claim separate household status when they live together."
+1985.85-250,0,15073,warren_e_burger,scotus_justice,750.736,752.322,Very well.
+1985.85-250,1,36257,maria_norma_martinez,,760.944,770.149,"Chief Justice Burger, and may it please the Court, 7 USC 2012 (i), the family... unconstitutional--"
+1985.85-250,1,15073,warren_e_burger,scotus_justice,770.149,771.183,Would you raise your voice a little?
+1985.85-250,1,36257,maria_norma_martinez,,775.537,788.345,"--Seven USC 2012(i), the family rule, unconstitutionally interferes with the appellees' family choices of... family choices of living together."
+1985.85-250,1,15060,john_paul_stevens,scotus_justice,1646.091,1647.857,"Ms. Martinez, could I ask you one question?"
+1985.85-250,1,36257,maria_norma_martinez,,1669.271,1671.14,"Yes, I believe so."
+1985.85-250,1,15060,john_paul_stevens,scotus_justice,1677.976,1687.165,"How does the agency follow up on determining... say they have an initial interview, and they describe their living arrangements, and they take it at face value."
+1985.85-250,1,36257,maria_norma_martinez,,1696.121,1706.144,"It is not in the record, but for unrelated families, they generally take the statement of the unrelated person."
+1985.85-250,1,15060,john_paul_stevens,scotus_justice,1706.144,1707.36,And that is the end of the inquiry?
+1985.85-250,1,36257,maria_norma_martinez,,1707.36,1711.031,And that is generally the end of it.
+1985.85-250,1,15060,john_paul_stevens,scotus_justice,1711.031,1720.319,And of course in the related family situation there just wouldn't be any followup at all under the rules now because they are just presumed to always share their food together.
+1985.85-250,1,36257,maria_norma_martinez,,1720.319,1728.673,That is right.
+1985.85-250,1,15073,warren_e_burger,scotus_justice,1959.739,1963.775,"Do you have anything further, Mr. Minear?"
+1985.85-250,2,31838,jeffrey_p_minear,,1963.775,1968.079,"Just a few minutes, Mr. Chief Justice, and may it please the Court."
+1985.85-250,2,15071,byron_r_white,scotus_justice,2001.65,2009.256,What about the unrelated families?
+1985.85-250,2,31838,jeffrey_p_minear,,2016.076,2018.094,"That might be right, Your Honor."
+1985.85-250,2,15119,lewis_f_powell_jr,scotus_justice,2044.81,2054.951,"Mr. Minear, what about aid based on indigent children, aid to dependent children?"
+1985.85-250,2,31838,jeffrey_p_minear,,2054.951,2056.101,"Yes, sir."
+1985.85-250,2,15119,lewis_f_powell_jr,scotus_justice,2056.101,2061.371,Are food stamps also being given to families who receive that sort of aid?
+1985.85-250,2,31838,jeffrey_p_minear,,2061.371,2062.337,"Yes, Your Honor."
+1985.85-250,2,15119,lewis_f_powell_jr,scotus_justice,2064.823,2068.175,What about the program with respect to disabled persons?
+1985.85-250,2,31838,jeffrey_p_minear,,2068.175,2069.627,That is correct also.
+1985.85-250,2,15119,lewis_f_powell_jr,scotus_justice,2071.16,2075.447,"If you add all three together and they gave them to a family, you would come to some limit?"
+1985.85-250,2,31838,jeffrey_p_minear,,2076.931,2086.487,"--I am not certain about the regulations here, but I believe it might be... some of those sources of income might be treated as income for the food stamp program itself."
+1985.85-250,2,15119,lewis_f_powell_jr,scotus_justice,2086.487,2092.641,"But the greater the number of children and the greater the number of disabled people, of course, the greater the aid."
+1985.85-250,2,31838,jeffrey_p_minear,,2093.357,2094.724,"Yes, that's right, Your Honor."
+1985.85-250,2,15060,john_paul_stevens,scotus_justice,2131.782,2134.568,May I just ask another question just to get it straight in my mind?
+1985.85-250,2,31838,jeffrey_p_minear,,2145.526,2145.909,Yes.
+1985.85-250,2,15060,john_paul_stevens,scotus_justice,2145.909,2160.285,"--whereas if two unrelated persons lived together and they came in and filed the appropriate applications and made a representation that one worked a night shift and the other a day shift, so they purchased their food and prepared it separately, they would then get a somewhat larger benefit."
+1985.85-250,2,31838,jeffrey_p_minear,,2160.285,2161.451,That is generally true.
+1985.85-250,2,15060,john_paul_stevens,scotus_justice,2189.536,2195.256,"Say they come in and say they don't do that, they just happen to live in the same facility, and they work different hours and so forth."
+1985.85-250,2,31838,jeffrey_p_minear,,2198.826,2199.36,They would be eligible--
+1985.85-250,2,15060,john_paul_stevens,scotus_justice,2199.36,2199.71,Make it simple.
+1985.85-250,2,31838,jeffrey_p_minear,,2200.793,2201.243,--Sure.
+1985.85-250,2,15060,john_paul_stevens,scotus_justice,2205.23,2214.92,"And then after they apply and they are granted initial, what kind of followup is there to find out, well, maybe their hours changed and they now have decided they could eat at the same time?"
+1985.85-250,2,31838,jeffrey_p_minear,,2214.92,2223.876,"The regulations provide for three types of documentation in these matters, first documentary evidence which might in fact indicate that two persons worked different shifts."
+1985.85-250,2,15060,john_paul_stevens,scotus_justice,2227.228,2228.762,You say they qualify initially.
+1985.85-250,2,31838,jeffrey_p_minear,,2233.864,2234.366,Yes.
+1985.85-250,2,15060,john_paul_stevens,scotus_justice,2245.705,2248.926,--And so that only has to be done for the unrelated persons.
+1985.85-250,2,31838,jeffrey_p_minear,,2248.926,2251.143,"--Yes, Your Honor."
+1985.85-250,2,15104,thurgood_marshall,scotus_justice,2251.143,2254.628,I think I missed your first point.
+1985.85-250,2,31838,jeffrey_p_minear,,2260.984,2264.103,"Well, the government has no interest in whether they should live together or not."
+1985.85-250,2,15104,thurgood_marshall,scotus_justice,2268.571,2272.624,Doesn't that depend on whether they live together or not?
+1985.85-250,2,31838,jeffrey_p_minear,,2272.624,2273.424,"Well, yes, Your Honor."
+1985.85-250,2,15104,thurgood_marshall,scotus_justice,2273.424,2277.743,And what interest does the federal government have in whether people live together or not?
+1985.85-250,2,31838,jeffrey_p_minear,,2277.743,2278.528,"Well, Your Honor, this is--"
+1985.85-250,2,15104,thurgood_marshall,scotus_justice,2278.528,2282.73,Does the federal government have the right to say that you must get rid of your children?
+1985.85-250,2,31838,jeffrey_p_minear,,2282.73,2284.349,"--No, Your Honor, it does not."
+1985.85-250,2,15104,thurgood_marshall,scotus_justice,2293.972,2296.157,"Well, what are they going to do next?"
+1985.85-250,3,36257,maria_norma_martinez,,2296.157,2301.542,"Well, Your Honor, I simply can't answer that question."
+1985.85-250,3,15073,warren_e_burger,scotus_justice,2303.078,2304.678,"Thank you, counsel."

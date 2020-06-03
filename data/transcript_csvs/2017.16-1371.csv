@@ -1,0 +1,288 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2017.16-1371,0,15086,john_g_roberts_jr,scotus_justice,0.0,6.84,"We'll hear argument first this morning in Case 16-1371, Byrd versus United States. Mr. Loeb."
+2017.16-1371,0,62939,robert_m_loeb,,6.84,55.48,"Mr. Chief Justice, and may it please the Court: In this case, the government seeks to transform a violation of a car rental agreement into a rule where unlisted drivers have no ability to even invoke the Fourth Amendment. The government's proposed rule should be rejected for at least three reasons: First, ignoring a person's privacy expectations when he locks his personal property in a car's locked trunk with the permission of the renter is contrary to this Court's reasonable -- of expectation of privacy test, which looks to privacy expectations and not contract terms and not property rights. And while the contract violation alleged here does not negate Fourth Amendment rights, it's notable that Mr. Byrd's presence in the car -- and the government does not dispute this -- was not improper."
+2017.16-1371,0,15084,ruth_bader_ginsburg,scotus_justice,60.32,66.76,"Could he have been -- could he have been the renter, given his criminal record?"
+2017.16-1371,0,62939,robert_m_loeb,,66.76,76.88,"Perhaps not, Your Honor. But he was given permission by the renter to store his items in the locked trunk, and the government does not argue that that was impermissible."
+2017.16-1371,0,15084,ruth_bader_ginsburg,scotus_justice,76.88,81.96,Suppose he had been just a passenger and the renter was there.
+2017.16-1371,0,62939,robert_m_loeb,,81.96,98.92,"Likewise, even if he is just a passenger, if the person who has rented the car gives him permission to lock his own personal property in the trunk of the car, he has a reasonable expectation of privacy that strangers will not rummage through his personal property in that locked trunk."
+2017.16-1371,0,15086,john_g_roberts_jr,scotus_justice,98.92,114.04,"What if the Budget rental agreement had, you know, in big letters on it, if anyone is stopped driving this car, they must consent to police search? You know, Budget doesn't want to be involved in promoting criminal activity."
+2017.16-1371,0,62939,robert_m_loeb,,114.04,121.24,"Your Honor, the -- first of all, Mr. Byrd didn't sign the agreement."
+2017.16-1371,0,15086,john_g_roberts_jr,scotus_justice,121.24,125.0,So that -- so that allows him to escape from those provisions?
+2017.16-1371,0,62939,robert_m_loeb,,125.0,131.08,"Moreover, those provisions would not define what a person's constitutional rights are."
+2017.16-1371,0,15086,john_g_roberts_jr,scotus_justice,134.64,146.16,"Okay, well, what if -- what if Reed told him, look, I don't -- you know, I -- I know your background; I don't want you transporting flak jackets and heroin in the trunk of this car that I've rented?"
+2017.16-1371,0,62939,robert_m_loeb,,146.16,154.24,That would be different than that he was not given permission by the renter to store his personal property in the trunk.
+2017.16-1371,0,15086,john_g_roberts_jr,scotus_justice,155.52,161.84,So then in that case the police -- he -- the police could go through the trunk without a warrant?
+2017.16-1371,0,62939,robert_m_loeb,,161.84,164.4,"I don't think so, Your Honor."
+2017.16-1371,0,15086,john_g_roberts_jr,scotus_justice,165.0,171.12,So -- so Reed tells him don't put stuff in my trunk and -- but you can take the car?
+2017.16-1371,0,62939,robert_m_loeb,,171.12,187.4,"I'm sorry, in your hypothetical where he's barred from -- from doing that, I would -- I would agree that he doesn't -- that he may -- doesn't have permission to use the trunk and he may be more like the passengers in -- in the Rakas case. It would be a little -- I would still say he has a Fourth Amendment right to invoke there --"
+2017.16-1371,0,15086,john_g_roberts_jr,scotus_justice,187.4,187.64,If the --
+2017.16-1371,0,62939,robert_m_loeb,,187.64,189.16,-- but a more difficult situation.
+2017.16-1371,0,15086,john_g_roberts_jr,scotus_justice,189.16,211.24,"So -- but if the police have access to, going back to my first hypothetical, the -- the rental agreement, which they probably would, you've got to have the rental agreement in the car, they say let me see your license or -- or title, and then he gives them the Budget agreement and the agreement says you must consent to police search if you're stopped. What about that?"
+2017.16-1371,0,62939,robert_m_loeb,,211.24,214.64,"Again, that kind of contract of adhesion you wouldn't ordinarily read --"
+2017.16-1371,0,15086,john_g_roberts_jr,scotus_justice,214.64,215.56,Contract of adhesion?
+2017.16-1371,0,62939,robert_m_loeb,,215.56,221.84,"When you go into a rental agreement, it pops up on a little screen where they tell you to use their electronic signature thing and sign off on it."
+2017.16-1371,0,15086,john_g_roberts_jr,scotus_justice,222.64,226.24,They don't want to rent the car to somebody who's going to put illegal stuff in the car.
+2017.16-1371,0,62939,robert_m_loeb,,239.8,239.92,Well --
+2017.16-1371,0,15086,john_g_roberts_jr,scotus_justice,239.92,245.08,"In other words, he knows that Budget doesn't want him to have an expectation of privacy in the trunk."
+2017.16-1371,0,62939,robert_m_loeb,,245.08,250.56,"Again, Your Honor, the -- there could be a contract violation in that context."
+2017.16-1371,0,15086,john_g_roberts_jr,scotus_justice,256.16,262.08,"Well, he knows that the owner of the car, Budget, does not want to give him any privacy in the trunk."
+2017.16-1371,0,62939,robert_m_loeb,,270.76,272.88,"Your Honor, that may be a harder case because of the expectation --"
+2017.16-1371,0,15086,john_g_roberts_jr,scotus_justice,272.88,277.24,"Well, I know it's a harder case, but -- but I'm trying to get to the limits of your theory."
+2017.16-1371,0,62939,robert_m_loeb,,277.24,285.44,"Well, in our theory, you have a person in Mr. Byrd's position, he's been given permission to use the trunk, to lock his items in the trunk --"
+2017.16-1371,0,15086,john_g_roberts_jr,scotus_justice,285.44,288.16,"No, no, I'm asking about my case."
+2017.16-1371,0,62939,robert_m_loeb,,288.16,288.64,Yes.
+2017.16-1371,0,15139,stephen_g_breyer,scotus_justice,308.2,308.96,"Yeah, but --"
+2017.16-1371,0,15068,samuel_a_alito_jr,scotus_justice,308.96,323.56,"And what if the -- what if the rental agreement said that if any unauthorized person uses the car, we consent to a search by the police?"
+2017.16-1371,0,62939,robert_m_loeb,,323.56,337.16,"Here, if they had called Budget and -- and Budget had said as owner we -- we -- we authorize the search, it may be that they could have searched the car."
+2017.16-1371,0,15068,samuel_a_alito_jr,scotus_justice,338.48,347.4,"So if -- if they had called Budget and Budget had said it's okay to search our car because Mr. Byrd is not authorized to drive it, that would be all right?"
+2017.16-1371,0,62939,robert_m_loeb,,347.4,366.2,"It -- it's -- but that would be a very -- a different scenario where if you look to this Court's Chapman case, they said an inchoate right to properly -- to possibly eject someone from a leased apartment would not provide a basis for denying someone the ability to invoke the Fourth Amendment."
+2017.16-1371,0,15113,anthony_m_kennedy,scotus_justice,367.36,380.04,"Justice Alito -- Justice Alito can protect his own question, but could you answer his question? Would that be all right? If they phoned the car rental company and the car rental said okay to search, yes or no, could you answer that, please?"
+2017.16-1371,0,62939,robert_m_loeb,,380.04,384.76,I -- I think the owner can -- can grant them consent to -- to search the -- the car.
+2017.16-1371,0,15068,samuel_a_alito_jr,scotus_justice,384.76,387.84,"Well, if that's the case -- I don't know what Budget's policy is on this."
+2017.16-1371,0,62939,robert_m_loeb,,400.72,412.88,"Your Honor, if there is such a provision, the consumers can decide whether they want to rent a car with Budget where it has a sort of Fourth Amendment free zone provision and has that sort of forced consent in a contract of adhesion."
+2017.16-1371,0,15139,stephen_g_breyer,scotus_justice,414.6,420.72,"But -- but, see, I just wanted to get the legalism if I can out of it for a minute."
+2017.16-1371,0,62939,robert_m_loeb,,451.64,453.36,"He would, Your Honor."
+2017.16-1371,0,15139,stephen_g_breyer,scotus_justice,453.36,455.6,He would? He would? Even though he heard dad say --
+2017.16-1371,0,62939,robert_m_loeb,,455.6,455.76,Right.
+2017.16-1371,0,15139,stephen_g_breyer,scotus_justice,455.76,458.92,-- nobody but Bill can drive this car?
+2017.16-1371,0,62939,robert_m_loeb,,458.92,462.8,Dad might have claims he could bring against the friend who drives the car.
+2017.16-1371,0,15139,stephen_g_breyer,scotus_justice,462.8,475.0,"All right, so what's the rule? When -- when somebody is driving a car and they know they don't have permission from the owner, they still have an expectation of privacy and the police can't search it?"
+2017.16-1371,0,62939,robert_m_loeb,,475.0,475.2,Well --
+2017.16-1371,0,15139,stephen_g_breyer,scotus_justice,475.2,478.8,Everybody knows. What -- what's the rule -- is that the rule?
+2017.16-1371,0,62939,robert_m_loeb,,478.8,480.52,"Well, the rule also takes into account --"
+2017.16-1371,0,15139,stephen_g_breyer,scotus_justice,480.52,484.04,"I mean, who -- who doesn't -- who doesn't? I don't have this expectation of privacy."
+2017.16-1371,0,62939,robert_m_loeb,,489.28,489.92,"Well, it's -- so you look at the --"
+2017.16-1371,0,15139,stephen_g_breyer,scotus_justice,489.92,491.4,-- have expectation? Does a thief?
+2017.16-1371,0,62939,robert_m_loeb,,491.4,505.36,"-- the real life expectations, do you expect a -- the -- a stranger to be able to rummage through the car in that circumstance? So when you're in possession and in control of the car, and you have the key to the car, and in our case, when you've been given permission --"
+2017.16-1371,0,15139,stephen_g_breyer,scotus_justice,505.36,508.36,I never expect a stranger to rummage through the car.
+2017.16-1371,0,62939,robert_m_loeb,,524.84,525.4,So then you're more --
+2017.16-1371,0,15139,stephen_g_breyer,scotus_justice,525.4,526.52,Do I have an expectation?
+2017.16-1371,0,62939,robert_m_loeb,,526.52,533.8,-- more like the expectation of the -- the passengers in Rakas where they were never given access to the glove compartment.
+2017.16-1371,0,15131,sonia_sotomayor,scotus_justice,570.28,572.08,Could I ask why we're here on --
+2017.16-1371,0,15113,anthony_m_kennedy,scotus_justice,572.08,581.88,"Well, he had his property in the trunk because he was the driver, and the case is presented as if -- as if the car was just lent to him for a few minutes."
+2017.16-1371,0,62939,robert_m_loeb,,596.56,617.76,"Well, Your Honor, that puts Mr. Byrd in the same position of, if there's an apartment which says no sublets will be allowed without the authorization of the owner, and they know the owner doesn't like to approve them, but the renter goes ahead and sublets the house or the apartment to a family, under the government's view, because there's been a violation of that lease, there can be no expectation of privacy."
+2017.16-1371,0,15139,stephen_g_breyer,scotus_justice,617.76,621.56,But here let me be straightforward as to what my problem is.
+2017.16-1371,0,62939,robert_m_loeb,,657.48,668.68,"Our rule is that if you are given permission by the renter to store items, of your personal items in the trunk, you have a reasonable expectation of privacy in it, especially when, as the government concedes, his presence in the car --"
+2017.16-1371,0,15131,sonia_sotomayor,scotus_justice,668.68,678.68,How will the government know that? How will the police know that? The police come up to a rental car. They ask for your license and your registration.
+2017.16-1371,0,62939,robert_m_loeb,,686.92,692.52,The police were under the same exact scenario if I am borrowing a friend's car and given permission to use the car and the trunk.
+2017.16-1371,0,15086,john_g_roberts_jr,scotus_justice,697.28,697.28,No --
+2017.16-1371,0,15068,samuel_a_alito_jr,scotus_justice,697.28,699.0,"Well, you mentioned the rental situation."
+2017.16-1371,0,15086,john_g_roberts_jr,scotus_justice,699.0,700.44,Go ahead.
+2017.16-1371,0,15068,samuel_a_alito_jr,scotus_justice,700.44,716.4,"What about this: A homeowner is going away for a long weekend, arranges with a teenager in the neighborhood to come in and walk and feed the cat and spend quality time with the cat -- (Laughter.)"
+2017.16-1371,0,15068,samuel_a_alito_jr,scotus_justice,716.4,741.04,"-- but says under no circumstances may you bring anybody else into the house. But the teen -- and the teenager says okay, fine, and then goes ahead and gives the keys to a friend who uses the house to sell drugs, and the police come in and they conduct a search. Can that trespasser claim that his Fourth Amendment rights were violated?"
+2017.16-1371,0,62939,robert_m_loeb,,741.04,770.28,"So this Court has carved out an exception for the criminal trespasser, for the -- the car thief, for it's an exception for when someone's mere presence in the house or the apartment or the car is itself a criminal act, the mere presence is criminal, and where it's an intrusion on another person's privacy. So the friend coming in who's a, in your hypothetical, a criminal trespasser under the Rakas Footnotes 9 and 12, would be considered perhaps in a category of people who cannot invoke Fourth Amendment rights."
+2017.16-1371,0,15068,samuel_a_alito_jr,scotus_justice,770.28,779.84,"I mean, what's the -- what is the difference between the -- the -- the kid who's selling drugs from the house and Mr. Byrd who's using the car to transport drugs?"
+2017.16-1371,0,62939,robert_m_loeb,,779.84,780.92,Very different.
+2017.16-1371,0,15084,ruth_bader_ginsburg,scotus_justice,810.76,843.2,"May I stop you there, because you mentioned apartment rental, house rental. Do any of our decisions involve a case where the owner of the property says: No rentals, no subleases, but the -- the renter subleases anyway? I thought it was assumed in our cases that the -- the -- that the -- the guest was there with the permission of the owner."
+2017.16-1371,0,62939,robert_m_loeb,,843.2,846.64,"Well, Jones itself was a rental case."
+2017.16-1371,0,15084,ruth_bader_ginsburg,scotus_justice,852.36,862.04,"But -- but there wasn't anything in that case about the owner having said no, as there is in this case, nobody but the one we authorize."
+2017.16-1371,0,62939,robert_m_loeb,,862.04,865.88,"That's correct, Your Honor. But I think this Court's Chapman case is instructive on that."
+2017.16-1371,0,15131,sonia_sotomayor,scotus_justice,916.24,917.48,Mr. Rakas --
+2017.16-1371,0,15086,john_g_roberts_jr,scotus_justice,917.48,917.8,I don't --
+2017.16-1371,0,15131,sonia_sotomayor,scotus_justice,917.8,958.44,"-- our decision in -- I'm sorry, counselor -- our decision in Rakas was premised on a number of things, most importantly that the defendant didn't claim any possession or privacy interest in the goods searched or in the things in the glove compartment, et cetera. Why -- what's happened here? Meaning, is your client -- how did the information that he was given permission to store things in the trunk come before the Court?"
+2017.16-1371,0,62939,robert_m_loeb,,958.44,969.44,"Well, in the suppression hearing, his testimony was that he had the permission of Ms. Reed and that he had the permission to lock his personal items in the trunk and that he did store his clothing in the car and in the trunk."
+2017.16-1371,0,15131,sonia_sotomayor,scotus_justice,978.16,1011.4,"So I'm having -- I'm having a problem with this case, which is why are we here? Meaning, once he admitted that the -- that the goods in the trunk were his, I don't know why that doesn't give him automatic standing to challenge the search. I thought in Rakas it was the fact that the defendants had repeated three or four or five different times that the defendants claimed no proprietary interest in the goods searched."
+2017.16-1371,0,62939,robert_m_loeb,,1013.4,1013.88,Exactly.
+2017.16-1371,0,15131,sonia_sotomayor,scotus_justice,1014.76,1018.04,So why are we here on this legal issue at all?
+2017.16-1371,0,62939,robert_m_loeb,,1018.04,1026.84,"We're -- we're here because the government and the Third Circuit has advocated a rule -- a blanket rule that, if you're an unlisted driver, you never have an expectation of privacy."
+2017.16-1371,0,15131,sonia_sotomayor,scotus_justice,1026.84,1033.92,"Even if you don't have an expectation of privacy in the trunk, you've claimed an expectation of privacy in the property."
+2017.16-1371,0,62939,robert_m_loeb,,1033.92,1034.56,And here --
+2017.16-1371,0,15131,sonia_sotomayor,scotus_justice,1034.56,1038.8,"And absent probable cause, there's no right to search."
+2017.16-1371,0,62939,robert_m_loeb,,1041.52,1045.0,"We agree 100 percent on that, Your Honor."
+2017.16-1371,0,15084,ruth_bader_ginsburg,scotus_justice,1045.0,1047.08,You're here because you lost below. (Laughter.)
+2017.16-1371,0,62939,robert_m_loeb,,1047.08,1047.8,We lost below.
+2017.16-1371,0,15131,sonia_sotomayor,scotus_justice,1047.8,1057.4,"But I'm not -- she's absolutely right, counselor, but I'm asking why are you pitching this case on the automobile exception."
+2017.16-1371,0,62939,robert_m_loeb,,1073.36,1073.76,"Right, Your Honor."
+2017.16-1371,0,15131,sonia_sotomayor,scotus_justice,1073.76,1084.68,"All right? If you're claiming an interest in the property at issue, he's claimed it, he testified, he has a right."
+2017.16-1371,0,62939,robert_m_loeb,,1087.04,1087.64,"Right, Your Honor."
+2017.16-1371,0,62836,neil_gorsuch,scotus_justice,1116.28,1116.8,Mr. Loeb --
+2017.16-1371,0,15086,john_g_roberts_jr,scotus_justice,1116.8,1117.36,So your argument --
+2017.16-1371,0,62836,neil_gorsuch,scotus_justice,1117.36,1130.12,-- if I can -- if I can follow up on -- on Justice Sotomayor's question and -- and Justice Breyer's in terms of what's the clear line we can draw here. You've raised two theories on which you might prevail.
+2017.16-1371,0,62939,robert_m_loeb,,1199.28,1219.44,"We think the property interest here, the right that he -- that Mr. Byrd would have had to bring a trespass action, demands a recognition of his right to invoke the Fourth Amendment, and it's a very clear and simple rule. So the old adage is possession is nine-tenths of the law, and as you state in your question, that has roots in the common law going back to the 1600s and 1700s."
+2017.16-1371,0,15068,samuel_a_alito_jr,scotus_justice,1219.44,1219.92,But the problem --
+2017.16-1371,0,15094,elena_kagan,scotus_justice,1219.92,1221.4,Wouldn't that apply to criminals too?
+2017.16-1371,0,15068,samuel_a_alito_jr,scotus_justice,1221.4,1223.8,The problem -- go ahead.
+2017.16-1371,0,15094,elena_kagan,scotus_justice,1223.8,1236.92,Wouldn't that apply to criminals too? We've been very clear that criminals don't have Fourth Amendment rights. The property-based concepts that Justice Gorsuch was stating would say that criminals have that kind of property interest.
+2017.16-1371,0,62939,robert_m_loeb,,1236.92,1238.16,"No, Justice Kagan."
+2017.16-1371,0,15068,samuel_a_alito_jr,scotus_justice,1261.52,1287.88,"I mean, the problem with going down this property route is that we go off in search of a type of case that almost never arose, if it ever did arose -- arise at common law, where an unauthorized sub-bailee brings an action for trespass to chattel against a law enforcement officer. When would that ever have happened in 18th-century America? Never."
+2017.16-1371,0,62939,robert_m_loeb,,1287.88,1292.04,"Well, it's your right to bring a trespass action against a stranger."
+2017.16-1371,0,15068,samuel_a_alito_jr,scotus_justice,1292.04,1292.28,Yeah.
+2017.16-1371,0,62939,robert_m_loeb,,1292.28,1295.88,The fact that you can exclude a stranger and bring a trespass action against him --
+2017.16-1371,0,15068,samuel_a_alito_jr,scotus_justice,1295.88,1296.04,It's --
+2017.16-1371,0,62939,robert_m_loeb,,1296.04,1298.8,-- is what supports your property right under the Constitution --
+2017.16-1371,0,15068,samuel_a_alito_jr,scotus_justice,1298.8,1303.88,"It's hard enough to find the case where it's the stranger, where it's the private-party stranger."
+2017.16-1371,0,62939,robert_m_loeb,,1319.0,1322.08,"Well, their -- their rights -- the police right is confined."
+2017.16-1371,0,15139,stephen_g_breyer,scotus_justice,1342.88,1349.76,Is this your rule? Is this -- I -- I'm still trying to think of the rule.
+2017.16-1371,0,62939,robert_m_loeb,,1375.72,1376.04,"Yes, Your Honor."
+2017.16-1371,0,15139,stephen_g_breyer,scotus_justice,1377.72,1378.32,You accept that?
+2017.16-1371,0,62939,robert_m_loeb,,1378.32,1379.08,-- easy to apply.
+2017.16-1371,0,15139,stephen_g_breyer,scotus_justice,1379.72,1380.16,Yes.
+2017.16-1371,0,62939,robert_m_loeb,,1380.16,1385.08,That -- that is supported by both common law principles and objective expectations of privacy --
+2017.16-1371,0,15139,stephen_g_breyer,scotus_justice,1385.08,1385.32,Uh-huh.
+2017.16-1371,0,62939,robert_m_loeb,,1385.32,1391.56,-- that when you're in a car and you're in sole possession and control of it -- the troopers themselves recognized he was no criminal.
+2017.16-1371,0,15139,stephen_g_breyer,scotus_justice,1403.12,1421.24,"So a person who goes into a house and has all the indicia of being the owner, as far as anyone else can tell or has a right to be there, also can exclude the police from a search unless in being in that house he is committing a crime?"
+2017.16-1371,0,62939,robert_m_loeb,,1421.24,1421.48,Right.
+2017.16-1371,0,15139,stephen_g_breyer,scotus_justice,1429.2,1431.0,"That's impossible. Okay, let's see what --"
+2017.16-1371,0,62939,robert_m_loeb,,1431.0,1433.32,-- you have an expectation of privacy in that space.
+2017.16-1371,0,15068,samuel_a_alito_jr,scotus_justice,1451.72,1460.48,"The Constitution uses the word ""property"" numerous times, but the word ""property"" doesn't appear in the Fourth Amendment."
+2017.16-1371,0,62939,robert_m_loeb,,1501.44,1517.76,"I think if the common law recognizes your right to replevin or to trespass against a stranger, then both under common law and common sense, that it makes sense to recognize a right to invoke a Fourth Amendment right. And still, we're not saying that the police don't have adequate tools here."
+2017.16-1371,0,15094,elena_kagan,scotus_justice,1527.24,1532.6,"Mr. Loeb, we've always said that there's a normative component to expectations of privacy."
+2017.16-1371,0,62939,robert_m_loeb,,1579.12,1606.4,"Because society recognizes that when you put your personal items in a locked space, if you put it, in Chadwick, in a locked footlocker, you have an expectation of privacy regarding it. And the courts don't look behind this to say, well, are you really engaged in criminal conduct, are you a bad guy? The question is a question of if you're sitting in a car which you have locked and you can lock the car and you've locked the trunk and your personal items, society recognizes an expectation of privacy in that."
+2017.16-1371,0,15084,ruth_bader_ginsburg,scotus_justice,1640.48,1649.28,"In your brief, you made something of the familial relationship between the person who rented the car and -- and Byrd."
+2017.16-1371,0,62939,robert_m_loeb,,1666.0,1667.76,"No, Your Honor."
+2017.16-1371,0,15086,john_g_roberts_jr,scotus_justice,1690.36,1708.88,"Thank you, counsel. Mr. Feigin."
+2017.16-1371,1,22289,eric_j_feigin,,1708.88,1734.92,"Thank you, Mr. Chief Justice, and may it please the Court: To challenge the search in this case, Petitioner has the affirmative burden to prove a connection to Budget's car that would justify treating it as his effect for purposes of the Fourth Amendment. He can't do that when he sent Reed into the rental office alone to rent a car he never could have rented, subject to terms that didn't allow him to drive it, and then he took the keys and drove off with it. It's a very --"
+2017.16-1371,1,15131,sonia_sotomayor,scotus_justice,1734.92,1736.88,Let's assume he wasn't a criminal.
+2017.16-1371,1,22289,eric_j_feigin,,1749.56,1753.32,I think as a matter of law he would be.
+2017.16-1371,1,15131,sonia_sotomayor,scotus_justice,1758.56,1766.88,"I -- I don't disagree with you, but I'm asking a question, which is: Police can search a car when they have probable cause, correct?"
+2017.16-1371,1,22289,eric_j_feigin,,1766.88,1767.16,Yes.
+2017.16-1371,1,15131,sonia_sotomayor,scotus_justice,1767.16,1772.92,"And they're free to do that of any car driven even by a licensed driver, correct?"
+2017.16-1371,1,22289,eric_j_feigin,,1772.92,1773.72,Yes.
+2017.16-1371,1,15131,sonia_sotomayor,scotus_justice,1773.72,1778.28,Or a licensed co-driver on a rental agreement.
+2017.16-1371,1,22289,eric_j_feigin,,1812.96,1819.72,"Well, Your Honor, I think there's no evidence that there's a widespread practice of that because for one thing it's impractical."
+2017.16-1371,1,15131,sonia_sotomayor,scotus_justice,1819.72,1825.56,"Well, the police here said we stopped him because he was driving a rental car."
+2017.16-1371,1,15131,sonia_sotomayor,scotus_justice,1837.36,1855.96,"And they waited until he made a turn that was not authorized by the traffic laws. So to say that there isn't a practice is a little bit disingenuous, Mr. Feigin."
+2017.16-1371,1,22289,eric_j_feigin,,1885.96,1890.0,It's -- it refers to a doctrine the Court has sometimes referred to as standing.
+2017.16-1371,1,15131,sonia_sotomayor,scotus_justice,1899.4,1909.04,"Their own effect. Well, we know that he was told that he could use the trunk and put things in it, whether he's a passenger or a driver."
+2017.16-1371,1,22289,eric_j_feigin,,1918.52,1918.88,Your Honor --
+2017.16-1371,1,15131,sonia_sotomayor,scotus_justice,1918.88,1923.12,Why that claim of an interest is inadequate.
+2017.16-1371,1,22289,eric_j_feigin,,1923.12,1924.88,"Well, let me say a couple of things, Your Honor."
+2017.16-1371,1,15131,sonia_sotomayor,scotus_justice,1948.44,1961.0,"So every criminal defendant where their suitcase has been searched would have to say, I'm more than just the owner of the suitcase?"
+2017.16-1371,1,22289,eric_j_feigin,,1961.0,1961.12,"No, Your Honor."
+2017.16-1371,1,15131,sonia_sotomayor,scotus_justice,1961.12,1967.16,"I'm the owner of the drugs? Let's assume he came in and said, I was the owner of the suitcase."
+2017.16-1371,1,22289,eric_j_feigin,,1967.16,1972.96,"So, Your Honor, if he -- there are cases like this in the courts of appeals, and they've handled this different ways."
+2017.16-1371,1,15131,sonia_sotomayor,scotus_justice,1995.08,2003.64,"I thought he made claims to the -- to the trunk, that he said I was given permission to store my things in the trunk, and that's what I did."
+2017.16-1371,1,22289,eric_j_feigin,,2003.64,2006.16,"Your Honor, the trunk is simply part of the car."
+2017.16-1371,1,15068,samuel_a_alito_jr,scotus_justice,2039.32,2039.92,"Well, there was a --"
+2017.16-1371,1,15094,elena_kagan,scotus_justice,2039.92,2040.84,"Well, sometimes --"
+2017.16-1371,1,15068,samuel_a_alito_jr,scotus_justice,2040.84,2045.32,There was a violation of one of the terms of the contract.
+2017.16-1371,1,22289,eric_j_feigin,,2064.44,2065.84,"No, Your Honor."
+2017.16-1371,1,62836,neil_gorsuch,scotus_justice,2082.08,2082.88,"Well, Mr. Feigin --"
+2017.16-1371,1,15086,john_g_roberts_jr,scotus_justice,2082.88,2087.92,"Well, it's a pretty big connection that the person who has the right to drive the car told him that he could."
+2017.16-1371,1,22289,eric_j_feigin,,2090.36,2101.12,"Well, that is an authority that she didn't have, that she signed in a couple of different places that she didn't have, and that it is well-known that people do not have when they rent cars, unless otherwise allowed to do so."
+2017.16-1371,1,15086,john_g_roberts_jr,scotus_justice,2101.84,2105.68,"Well, but this is probably not the only time it's ever happened."
+2017.16-1371,1,15086,john_g_roberts_jr,scotus_justice,2106.56,2115.72,"-- I think what -- I think the understanding is, well, you're probably going to have trouble with insurance and all if so-and-so gets into an accident."
+2017.16-1371,1,22289,eric_j_feigin,,2131.68,2135.8,"Well, it's criminally unlawful at least in Ohio, Your Honor, as we point out in our brief."
+2017.16-1371,1,15094,elena_kagan,scotus_justice,2147.4,2147.76,As --
+2017.16-1371,1,15139,stephen_g_breyer,scotus_justice,2147.76,2149.16,"Yeah, the problem is -- I've got that point."
+2017.16-1371,1,22289,eric_j_feigin,,2149.16,2149.28,Okay.
+2017.16-1371,1,15139,stephen_g_breyer,scotus_justice,2149.28,2183.76,"Now, what do you think of the -- of the rule that we just sort of came up with maybe, or maybe he's been advancing it, look, the problem with your rule, it seems to me, is that there are cars, houses, apartments, sublets, summer cabins, all kinds of things which have all kinds of contracts, understandings, leases, et cetera. And over a wide range, who knows what's in them? And what can be expected? That's awfully complicated."
+2017.16-1371,1,22289,eric_j_feigin,,2228.6,2228.88,Well --
+2017.16-1371,1,15139,stephen_g_breyer,scotus_justice,2228.88,2235.84,"But the virtue of what he just said, it seemed to me, your -- your opponent here, was that that's pretty simple, comparatively speaking."
+2017.16-1371,1,22289,eric_j_feigin,,2236.04,2240.2,"I don't think -- I don't think that's going to be particularly simple, Your Honor."
+2017.16-1371,1,15139,stephen_g_breyer,scotus_justice,2268.88,2274.24,"No, because it's a crime for him to be there, and so, therefore, he falls within the exception."
+2017.16-1371,1,22289,eric_j_feigin,,2274.24,2280.84,"So, Your Honor, I think it's going to actually wind up being much more difficult to apply in practice, and I don't think it makes a particular amount of sense."
+2017.16-1371,1,15139,stephen_g_breyer,scotus_justice,2280.84,2305.28,"What do you suggest as a rule? You suggest as a rule that what we look to see is under the law, as we've heard, it could extend back to the 18th Century, et cetera, under -- under the law of bailments and a lot of other things, does this person have the legal right to be in that particular place where he is doing those things he's doing at the time, which are relevant to appearance of ownership?"
+2017.16-1371,1,22289,eric_j_feigin,,2305.28,2305.96,"Your Honor, he has shown --"
+2017.16-1371,1,15139,stephen_g_breyer,scotus_justice,2305.96,2306.72,That's your legal rule?
+2017.16-1371,1,22289,eric_j_feigin,,2306.72,2307.4,He has -- no.
+2017.16-1371,1,15139,stephen_g_breyer,scotus_justice,2307.4,2308.92,Is that -- what is your legal rule?
+2017.16-1371,1,22289,eric_j_feigin,,2308.92,2326.88,"So the principle that we'd propose resolves this case, and I don't mean to keep repeating myself here, but where the assertion of Fourth Amendment rights comes from an act that is contrary to the legal norms of a well-established commercial industry --"
+2017.16-1371,1,15094,elena_kagan,scotus_justice,2326.88,2334.92,But you've just told Justice Alito that that can't possibly be your test because there are all kinds of provisions in this contract and people violate some of them.
+2017.16-1371,1,22289,eric_j_feigin,,2378.72,2399.44,"Well, Your Honor, I think it'll be helpful in a second if I can turn back to -- and finish my answer to Justice Alito's question and make clear why this is different from other kinds of contract breaches, but to answer your question, you -- someone who takes the wheel of a car that they are not authorized to drive is not entitled to treat it as their effect under the Fourth Amendment."
+2017.16-1371,1,15094,elena_kagan,scotus_justice,2399.84,2414.68,"Well, Justice Alito's question is very much related to mine, because there are all kinds of contract terms where if you're -- if you're sitting behind the wheel of a car and you're -- you're driving on gravel, you're in violation of the contract. You know, there are tens of them."
+2017.16-1371,1,22289,eric_j_feigin,,2423.64,2425.6,So let me address that in full.
+2017.16-1371,1,62836,neil_gorsuch,scotus_justice,2443.68,2470.88,"Mr. Feigin, you keep saying that, but as a matter of property law now and forever, a possessor would have a right to exclude other people but for those with better title. So someone in these position would have a right, I think you'd agree, to exclude someone who's attempting to get in the car to hijack it, carjack it. You'd also have a right to throw out a hitchhiker who had overstayed his welcome."
+2017.16-1371,1,22289,eric_j_feigin,,2480.08,2481.2,"I don't think so, Your Honor."
+2017.16-1371,1,62836,neil_gorsuch,scotus_justice,2495.76,2498.28,"Well, that's been -- that's been the common law of property forever, right?"
+2017.16-1371,1,22289,eric_j_feigin,,2498.28,2501.28,"Well, Your Honor, in Rakas, when the Court said that --"
+2017.16-1371,1,62836,neil_gorsuch,scotus_justice,2501.28,2502.56,I'm not talking about thieves.
+2017.16-1371,1,22289,eric_j_feigin,,2502.56,2502.8,Okay.
+2017.16-1371,1,62836,neil_gorsuch,scotus_justice,2502.8,2504.56,We put that aside.
+2017.16-1371,1,22289,eric_j_feigin,,2504.56,2519.28,"Well, it's interesting that one -- the reason -- the one of the cases the Court used to reject the car thief scenario in Rakas actually relied on this trespasser theory that Your Honor is advancing now, and the Court said it found it inconceivable that --"
+2017.16-1371,1,62836,neil_gorsuch,scotus_justice,2519.28,2521.4,Inconceivable with respect to thieves.
+2017.16-1371,1,22289,eric_j_feigin,,2524.96,2525.0,"Well, you --"
+2017.16-1371,1,62836,neil_gorsuch,scotus_justice,2525.0,2532.28,Isn't it the fact that the government is asking for a special license here that would not be available to any other third person?
+2017.16-1371,1,22289,eric_j_feigin,,2532.28,2533.0,"No, Your Honor."
+2017.16-1371,1,62836,neil_gorsuch,scotus_justice,2536.84,2541.88,"Well, then let me ask you this: Do you agree that -- that Mr. Byrd could have excluded a carjacker?"
+2017.16-1371,1,22289,eric_j_feigin,,2541.88,2545.8,"I think by virtue of simply being in the car, he probably could have --"
+2017.16-1371,1,62836,neil_gorsuch,scotus_justice,2545.8,2546.64,By virtue of his possession --
+2017.16-1371,1,22289,eric_j_feigin,,2546.64,2548.8,-- fended off a carjacker and we wouldn't oppose --
+2017.16-1371,1,62836,neil_gorsuch,scotus_justice,2548.8,2549.44,"Yes, and -- and --"
+2017.16-1371,1,22289,eric_j_feigin,,2549.44,2550.04,-- his right to do that.
+2017.16-1371,1,62836,neil_gorsuch,scotus_justice,2550.04,2550.72,-- he would have a right to do so.
+2017.16-1371,1,22289,eric_j_feigin,,2552.92,2554.64,But if someone had sued the --
+2017.16-1371,1,62836,neil_gorsuch,scotus_justice,2554.64,2555.84,So why not the government?
+2017.16-1371,1,22289,eric_j_feigin,,2555.84,2561.64,"Well, Your Honor, that is not a principle that this Court has incorporated to create Fourth Amendment rights --"
+2017.16-1371,1,15131,sonia_sotomayor,scotus_justice,2561.64,2562.2,But where have -- where else --
+2017.16-1371,1,22289,eric_j_feigin,,2562.2,2564.0,-- I think because it produces very --
+2017.16-1371,1,15131,sonia_sotomayor,scotus_justice,2564.0,2568.28,We have never incorporated private rights into the Fourth Amendment.
+2017.16-1371,1,22289,eric_j_feigin,,2608.0,2609.04,And --
+2017.16-1371,1,15131,sonia_sotomayor,scotus_justice,2609.04,2610.92,-- because they possess it.
+2017.16-1371,1,22289,eric_j_feigin,,2610.92,2618.08,"Well, not because they possess it, Your Honor, but because, as Justice Ginsburg was pointing out, there actually is a legitimate connection there."
+2017.16-1371,1,15131,sonia_sotomayor,scotus_justice,2620.84,2620.84,"Oh, no."
+2017.16-1371,1,22289,eric_j_feigin,,2670.72,2672.32,"Well, Your Honor --"
+2017.16-1371,1,15131,sonia_sotomayor,scotus_justice,2672.32,2674.8,"For the police, rather than for the person involved."
+2017.16-1371,1,22289,eric_j_feigin,,2674.8,2676.68,-- I don't think that's our position.
+2017.16-1371,1,15068,samuel_a_alito_jr,scotus_justice,2794.6,2811.92,And then what do you do about the cases with the -- the illegal sublessee or the individuals who occupy a rental unit in violation of a provision that specifies the maximum number of people who can stay there?
+2017.16-1371,1,22289,eric_j_feigin,,2811.92,2815.88,So I think there probably would be a legitimate expectation of privacy in those cases.
+2017.16-1371,1,15131,sonia_sotomayor,scotus_justice,2867.6,2869.64,But they -- they also say that --
+2017.16-1371,1,15086,john_g_roberts_jr,scotus_justice,2869.64,2905.4,"How important is it -- how important is it that -- that the police have access to the actual agreement? One of the things that I think is very important in these types of cases is the ability to give clear guidance, not only to the courts, but to the police who have pulled a car over in the middle of a situation -- that is the most dangerous situation they confront. And, you know, you're saying, well, are they supposed to conduct an inquisition, you know, who gave you permission to use this car, what did she say, all that. Is there anything wrong, from your perspective, in a rule that is very simple which is if it's a rental agreement -- a rental car, look at the agreement."
+2017.16-1371,1,22289,eric_j_feigin,,2923.44,2923.96,In the car?
+2017.16-1371,1,15086,john_g_roberts_jr,scotus_justice,2923.96,2924.12,Uh-huh.
+2017.16-1371,1,22289,eric_j_feigin,,2924.12,2927.96,We would -- I think the fact the rental agreement is in the car is very helpful to us.
+2017.16-1371,1,15086,john_g_roberts_jr,scotus_justice,2940.56,2947.12,"Yeah, but, I mean, maybe it's paradoxical; you think, well, if there's no rental agreement, they ought to have a greater authority."
+2017.16-1371,1,22289,eric_j_feigin,,2964.16,2976.32,"So, Your Honor, if the existence of the rental -- the presence of the rental agreement which was required to be in the glove compartment in this case, resolves this case for Your Honor, then the Court doesn't need to go any further than that. I guess one thing --"
+2017.16-1371,1,15131,sonia_sotomayor,scotus_justice,2976.32,2977.48,"Oh, yes, we do --"
+2017.16-1371,1,15084,ruth_bader_ginsburg,scotus_justice,2977.48,2978.68,Mr. Feigin --
+2017.16-1371,1,22289,eric_j_feigin,,2978.68,2979.52,-- I would add is --
+2017.16-1371,1,15084,ruth_bader_ginsburg,scotus_justice,2979.52,2987.2,"-- I have this problem: you said, well, cars are different than homes."
+2017.16-1371,1,22289,eric_j_feigin,,3017.88,3051.6,"Well, Your Honor, I think what the Court was getting at with the car exception are still principles that apply when we're doing a expectation of privacy inquiry because the car exception arises out of the fact that there is a lesser expectation of privacy in cars. And I think one important thing to note -- note about this case is any rule the Court writes that is broad enough to encompass the conduct in which Petitioner engaged in this case would be giving the imprimatur of the Fourth Amendment on what is, I think, really fairly described as wrongful conduct."
+2017.16-1371,1,15094,elena_kagan,scotus_justice,3052.32,3067.12,"Do you think anything depends on knowledge? So suppose that in this case Byrd had been told, don't worry, I have you down as an un -- as an authorized driver. Would that be different, if he thought he was an authorized driver?"
+2017.16-1371,1,22289,eric_j_feigin,,3067.12,3071.88,Nothing in this Court's cases to this point have turned on the defendant's knowledge.
+2017.16-1371,1,15094,elena_kagan,scotus_justice,3084.08,3085.16,"No, obviously he --"
+2017.16-1371,1,22289,eric_j_feigin,,3085.16,3085.52,Yeah.
+2017.16-1371,1,15094,elena_kagan,scotus_justice,3085.52,3092.52,"-- knew that he was an unauthorized driver, but I'm saying how about if he didn't? What if he was an -- what if he thought he was an authorized driver?"
+2017.16-1371,1,22289,eric_j_feigin,,3092.52,3093.08,So I think --
+2017.16-1371,1,15094,elena_kagan,scotus_justice,3093.08,3094.04,And you're saying same rule?
+2017.16-1371,1,22289,eric_j_feigin,,3094.04,3108.2,"I think we would say same rule, and one of the reasons why -- I think the Court could draw the distinction, but there would be a couple reasons I would urge the Court not to draw that distinction. One is that it would give more privacy rights to someone who is not diligent than to someone who is."
+2017.16-1371,1,15131,sonia_sotomayor,scotus_justice,3138.88,3139.24,How about when they --
+2017.16-1371,1,15094,elena_kagan,scotus_justice,3139.24,3140.28,If I understand --
+2017.16-1371,1,15131,sonia_sotomayor,scotus_justice,3140.28,3156.88,"-- came and got the -- became an authorized driver by lying, I don't have a criminal conviction, and he's listed, what happens then? Is that a violation of the contract sufficient enough to invalidate his expectation of privacy?"
+2017.16-1371,1,22289,eric_j_feigin,,3156.88,3161.04,"I think it probably would, Your Honor, because he procured the contract through lying."
+2017.16-1371,1,15131,sonia_sotomayor,scotus_justice,3161.52,3162.08,So we've now --
+2017.16-1371,1,22289,eric_j_feigin,,3162.08,3162.92,-- to the Chief Justice's --
+2017.16-1371,1,15131,sonia_sotomayor,scotus_justice,3162.92,3164.64,-- criminalized a contract --
+2017.16-1371,1,22289,eric_j_feigin,,3164.64,3166.04,"Well, Your Honor --"
+2017.16-1371,1,15131,sonia_sotomayor,scotus_justice,3166.04,3167.04,-- and a contract breach.
+2017.16-1371,1,22289,eric_j_feigin,,3167.04,3171.8,"-- Your Honor, what we would -- no, Your Honor, I don't think that's the right way to think about it."
+2017.16-1371,1,15131,sonia_sotomayor,scotus_justice,3173.16,3174.68,"I know you don't, but I -- I -- (Laughter.)"
+2017.16-1371,1,22289,eric_j_feigin,,3174.68,3189.6,"Well, maybe I'll add something to that assertion, which is that the reason I don't think that's the right way to think about that is because the Fourth Amendment doesn't just protect people's expectations of privacy writ large, it protects persons in their houses and their effects. And so, if -- for someone to claim --"
+2017.16-1371,1,15131,sonia_sotomayor,scotus_justice,3189.6,3209.76,"So, Mr. Feigin, the rule you want us to write in this opinion is, if you are an unauthorized driver of a rental car, even if you have permission of the authorized driver, the police can search the trunk without any probable cause?"
+2017.16-1371,1,22289,eric_j_feigin,,3209.76,3215.2,I would phrase it as the -- you do not have enough of a connection to the car to treat it as --
+2017.16-1371,1,15131,sonia_sotomayor,scotus_justice,3215.2,3217.52,"Yeah, but the bottom line is the one I announced."
+2017.16-1371,1,22289,eric_j_feigin,,3217.52,3234.08,"-- your effect for purposes of the Fourth Amendment. That would be the effect of the rule. I would add that there are other Fourth Amendment protections that protect against what Your Honor is proposing. First of all, you need reasonable suspicion both to stop the car and for the entire duration of the search. He hasn't challenged the duration of the search and the -- sorry, the duration of the stop."
+2017.16-1371,1,62836,neil_gorsuch,scotus_justice,3242.8,3243.32,Mr. Feigin.
+2017.16-1371,1,22289,eric_j_feigin,,3243.32,3243.64,Yeah?
+2017.16-1371,1,62836,neil_gorsuch,scotus_justice,3243.64,3262.72,"One thing we're struggling with here is you say some contract terms are so common, kind of an empirical argument, that we should take cognizance of them. On the other hand, you kind of make a normative argument that some contract terms we should disregard even if they are common, like the cell phone breach."
+2017.16-1371,1,22289,eric_j_feigin,,3283.48,3286.52,"Your Honor, if -- if you don't mind, if I could just take the first part of your question first."
+2017.16-1371,1,62836,neil_gorsuch,scotus_justice,3295.08,3305.24,"You -- you've made several times this argument that it's very common, that anyone in the country would know that this is a breach, and that that, therefore, informs the reasonable expectation of privacy test."
+2017.16-1371,1,22289,eric_j_feigin,,3325.16,3326.52,"Your Honor, I'll get to that in just one minute."
+2017.16-1371,1,62836,neil_gorsuch,scotus_justice,3326.52,3328.48,"No, if you could get to that straight away."
+2017.16-1371,1,22289,eric_j_feigin,,3328.48,3329.68,Okay. (Laughter.)
+2017.16-1371,1,22289,eric_j_feigin,,3329.68,3329.88,Sure.
+2017.16-1371,1,62836,neil_gorsuch,scotus_justice,3337.6,3338.08,I know that.
+2017.16-1371,1,22289,eric_j_feigin,,3340.44,3342.2,Yeah.
+2017.16-1371,1,15131,sonia_sotomayor,scotus_justice,3397.32,3418.04,"Does the son of a father who owns the car but is not an authorized driver on insurance and, as a result, is not listed on the registration or the insurance card, does that son -- now we're out of the renter situation, we're in the ownership situation -- does that son have an expectation of privacy?"
+2017.16-1371,1,22289,eric_j_feigin,,3418.04,3425.84,"So if a father tells the son you can go ahead and drive my car, then he does have a legitimate expectation of privacy. He has a connection to the owner of the car --"
+2017.16-1371,1,15131,sonia_sotomayor,scotus_justice,3425.84,3429.08,But why? He's breaking the law.
+2017.16-1371,1,22289,eric_j_feigin,,3439.28,3442.36,"Again, Your Honor, it's not about the law writ large."
+2017.16-1371,1,15094,elena_kagan,scotus_justice,3445.64,3454.12,"Well, suppose, Mr. Feigin, that in this case Reed had said to Byrd, you know, the car is parked outside the house."
+2017.16-1371,1,22289,eric_j_feigin,,3470.56,3471.84,I -- I think the answer --
+2017.16-1371,1,15094,elena_kagan,scotus_justice,3471.84,3475.28,But he's been sitting there and using it as a place where he has some privacy.
+2017.16-1371,1,22289,eric_j_feigin,,3475.28,3477.76,I think the answer there would be no for two reasons.
+2017.16-1371,1,15094,elena_kagan,scotus_justice,3492.88,3493.16,I'm sorry --
+2017.16-1371,1,22289,eric_j_feigin,,3493.16,3493.68,-- of privacy.
+2017.16-1371,1,15094,elena_kagan,scotus_justice,3493.68,3494.56,-- I just didn't understand.
+2017.16-1371,1,22289,eric_j_feigin,,3494.8,3512.24,"So, I don't know that you can have a legitimate expectation of privacy placing your person or your possessions in a space, the very function of which is to move around and you're not allowed to move it. But in this particular case, his only assertion of a reasonable expectation of privacy in the car isn't -- I'm --"
+2017.16-1371,1,15086,john_g_roberts_jr,scotus_justice,3512.24,3514.08,You can finish the sentence.
+2017.16-1371,1,22289,eric_j_feigin,,3514.08,3522.76,"-- is coming from the fact that he is the driver of a car that he didn't own, that he didn't rent, and that he wasn't legitimately in."
+2017.16-1371,1,15086,john_g_roberts_jr,scotus_justice,3523.36,3526.36,"Thank you, counsel. Two minutes, Mr. Loeb."
+2017.16-1371,2,62939,robert_m_loeb,,3526.36,3537.96,"Thank you, Your Honor. The government says that Mr. Byrd's conduct would violate criminal law in Ohio. That is not true, as explained in Footnote 2 of our -- of our reply brief."
+2017.16-1371,2,15068,samuel_a_alito_jr,scotus_justice,3631.48,3652.24,"What about other criminal activity? So why do you draw a line between a criminal trespasser and somebody who has an open -- an open bottle of alcohol in the car, or someone who gets in the car intoxicated or someone who is ingesting other control -- controlled substances in the car?"
+2017.16-1371,2,62939,robert_m_loeb,,3652.24,3653.88,Because Rakas and --
+2017.16-1371,2,15068,samuel_a_alito_jr,scotus_justice,3653.88,3656.64,Or somebody who doesn't have a license.
+2017.16-1371,2,62939,robert_m_loeb,,3656.64,3683.84,"Rakas, and the Court before it in Jones, talked about wrongful presence in the car and gave the example in the Rakas footnotes of the car thief and -- and the criminal trespasser. So what's different about those crimes is those are crimes where your mere presence in the car is criminal itself and you're -- you're intruding upon someone else's privacy and dispossessing them of their privacy interests by your criminal presence in the car. There's other examples."
+2017.16-1371,2,15086,john_g_roberts_jr,scotus_justice,3709.44,3709.64,Thank you.
+2017.16-1371,2,62939,robert_m_loeb,,3709.64,3712.0,-- that there's no ability to invoke the Fourth Amendment at all.
+2017.16-1371,2,15086,john_g_roberts_jr,scotus_justice,3712.0,3712.8,"Thank you, counsel."

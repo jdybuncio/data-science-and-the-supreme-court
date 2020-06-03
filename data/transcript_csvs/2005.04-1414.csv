@@ -1,0 +1,254 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2005.04-1414,0,15086,john_g_roberts_jr,scotus_justice,0.0,6.708,"We'll hear argument first today in No. 04-1414, United States v. Grubbs."
+2005.04-1414,0,35719,michael_r_dreeben,,8.173,11.563,"Mr. Chief Justice, and may it please the Court--"
+2005.04-1414,0,15042,david_h_souter,scotus_justice,101.632,116.909,"I think, Mr. Dreeben, at the end of the day, I agree with you on the particularity argument, but do you take the... does the Government take the position that the... that the... that a valid warrant need not contain an indication of the time within which it may be served, executed?"
+2005.04-1414,0,35719,michael_r_dreeben,,116.909,118.974,"That's right, Justice Souter."
+2005.04-1414,0,15042,david_h_souter,scotus_justice,125.334,126.648,As far as--
+2005.04-1414,0,15113,anthony_m_kennedy,scotus_justice,126.648,129.226,What would prevent the issuance of just a blanket warrant?
+2005.04-1414,0,35719,michael_r_dreeben,,134.059,147.852,What would prevent the valid execution of a warrant that had no time limits whatsoever would be the requirement that a warrant must be supported by probable cause.
+2005.04-1414,0,15049,antonin_scalia,scotus_justice,170.36,175.736,I suppose that a warrant like a... like a contract has a... a reasonable life.
+2005.04-1414,0,35719,michael_r_dreeben,,186.876,211.109,"I think it absolutely just lasts a reasonable time, Justice Scalia, and the reason why there is very little law and very little litigation on this is that since the 1917 statute that Congress originally wrote to provide for the issuance of Federal search warrants, it's provided for a 10-day execution period, and that 10-day limit has been contained and continued in the Federal Rules of Criminal Procedure."
+2005.04-1414,0,15086,john_g_roberts_jr,scotus_justice,212.163,220.307,"Mr. Dreeben, I understood you to say a short while ago that if it were executed before the triggering event, it would be invalid because there was no probable cause."
+2005.04-1414,0,35719,michael_r_dreeben,,220.307,224.359,"--Well, I... I don't want to say that there's no probable cause for the warrant."
+2005.04-1414,0,15086,john_g_roberts_jr,scotus_justice,224.359,226.967,"No, you don't because then the warrant shouldn't have issued."
+2005.04-1414,0,35719,michael_r_dreeben,,226.967,227.427,No.
+2005.04-1414,0,15049,antonin_scalia,scotus_justice,260.656,270.918,Even... even if the warrant did not specifically say that it was an anticipatory warrant and that... and that you can only execute it after the delivery?
+2005.04-1414,0,35719,michael_r_dreeben,,270.918,279.905,"That's right, Justice Scalia, because there is an independent requirement that probable cause must exist at the time of the execution of the warrant."
+2005.04-1414,0,15049,antonin_scalia,scotus_justice,281.19,284.881,But I thought that's supposed to be a... a magistrate's determination.
+2005.04-1414,0,35719,michael_r_dreeben,,284.881,286.786,--There are two separate things that are going on.
+2005.04-1414,0,15113,anthony_m_kennedy,scotus_justice,328.549,336.16,"If they become aware, but the... it's a big leap from that to say that they must make their own determination of probable cause."
+2005.04-1414,0,35719,michael_r_dreeben,,336.16,341.696,"--Well, I... I think, Justice Kennedy, the easiest example to... to see why this--"
+2005.04-1414,0,15113,anthony_m_kennedy,scotus_justice,341.696,347.194,"You... you indicated a warrant can't be served unless they determine there's probable cause, but that's for the magistrate to do, as Justice Scalia--"
+2005.04-1414,0,35719,michael_r_dreeben,,347.194,359.952,"--I... what I... I'm making a separate point here, which is that officers have a continuing obligation to act reasonably in the execution of a warrant, and of course, they fulfill that in a variety of ways."
+2005.04-1414,0,15060,john_paul_stevens,scotus_justice,396.983,400.835,"Well, does that mean that the executing officer must be the same officer who got the warrant?"
+2005.04-1414,0,35719,michael_r_dreeben,,400.835,403.082,"No, it certainly doesn't, Justice Stevens."
+2005.04-1414,0,15060,john_paul_stevens,scotus_justice,403.082,408.788,I don't know why he's going to give a warrant to his... some just call in a police officer and say I want you to execute this warrant.
+2005.04-1414,0,35719,michael_r_dreeben,,413.675,424.024,"Well, I... I think in the ordinary instance, it would be reasonable for the team of executing officers to be responsible for the inquiry that I'm talking about and any individual officer--"
+2005.04-1414,0,15113,anthony_m_kennedy,scotus_justice,424.024,426.031,"--Well, there's no... there's no authority for that."
+2005.04-1414,0,35719,michael_r_dreeben,,437.777,440.395,"--Well, the warrant is obtained based on an affidavit by--"
+2005.04-1414,0,15113,anthony_m_kennedy,scotus_justice,440.395,447.043,"I mean, if you want us to write the opinion with this qualification in it, it seems to me that you're making a big change in the way search warrants are used."
+2005.04-1414,0,35719,michael_r_dreeben,,447.043,455.277,"--Oh, I don't think it's a big change at all, Justice Kennedy, and I... I think what I'm trying to make clear here is that there's an ongoing obligation of reasonableness."
+2005.04-1414,0,15042,david_h_souter,scotus_justice,459.548,467.994,"--But... but, Mr. Dreeben, there's an ongoing obligation of reasonableness in the manner of which the... in... in the manner in which the search is carried out."
+2005.04-1414,0,15084,ruth_bader_ginsburg,scotus_justice,535.998,541.044,The affidavit... wasn't the affidavit available to the executing officer?
+2005.04-1414,0,35719,michael_r_dreeben,,541.044,544.474,"--Well, in this case, Justice Ginsburg, the... the affidavit was on the scene."
+2005.04-1414,0,15042,david_h_souter,scotus_justice,579.658,584.681,"It... it was... I take it it was, in fact, not attached but it was somewhere on the premises."
+2005.04-1414,0,35719,michael_r_dreeben,,584.681,586.646,--It was not... it was not physically attached.
+2005.04-1414,0,15042,david_h_souter,scotus_justice,587.609,591.551,So an officer who picked up the warrant would not be able to tell necessarily.
+2005.04-1414,0,35719,michael_r_dreeben,,601.019,616.948,"--Well, in the abstract, I suppose that that's right, but in... in the concrete circumstances of this case... and I think it's consistent with what I was trying to explain is reasonable search warrant execution... all of the search team was fully familiar with the process that was going on."
+2005.04-1414,0,15086,john_g_roberts_jr,scotus_justice,635.222,643.427,"Well, but the facts of the triggering event are not always going to be so clean, and in many cases they're going to require an exercise of judgment by the officer."
+2005.04-1414,0,35719,michael_r_dreeben,,662.011,664.569,"--Well, I don't think that is the point of the Fourth Amendment."
+2005.04-1414,0,15042,david_h_souter,scotus_justice,725.953,738.591,"Yes, but doesn't that simply... isn't the analogy there that when a... when a search warrant says you may... you may pick up implements of drug traffic, all it covers is drug traffic."
+2005.04-1414,0,35719,michael_r_dreeben,,747.969,754.156,"Well, the point, Justice Souter, is that they have to make a judgment that criminal conversations are what is going to be intercepted."
+2005.04-1414,0,15042,david_h_souter,scotus_justice,754.156,757.267,But those... those are judgments about facts that they are finding.
+2005.04-1414,0,35719,michael_r_dreeben,,762.272,766.414,"Well, they're... they're not judgments here about probable cause either because the magistrate has--"
+2005.04-1414,0,15042,david_h_souter,scotus_justice,766.414,767.649,"Well, it is."
+2005.04-1414,0,35719,michael_r_dreeben,,776.334,780.867,"--Well, that's a separate question, and I think the magistrate's question is, is there probable cause?"
+2005.04-1414,0,15042,david_h_souter,scotus_justice,784.136,788.87,"And his judgment, though, is there will be probable cause when the triggering event occurs."
+2005.04-1414,0,35719,michael_r_dreeben,,788.87,789.762,That's right.
+2005.04-1414,0,15042,david_h_souter,scotus_justice,789.762,790.533,And so the triggering--
+2005.04-1414,0,35719,michael_r_dreeben,,790.533,790.794,No.
+2005.04-1414,0,15042,david_h_souter,scotus_justice,791.286,798.257,"--the triggering event has a probable cause implication, which the selection of objects to be seized does not have."
+2005.04-1414,0,35719,michael_r_dreeben,,798.257,806.12,--I... I have to say that I disagree fundamentally with the suggestion that he's saying there will be probable cause when the triggering event occurs.
+2005.04-1414,0,15042,david_h_souter,scotus_justice,816.181,817.613,"Well, he's saying two things."
+2005.04-1414,0,35719,michael_r_dreeben,,836.983,854.002,"Well, I... I don't think that there's any reason linguistically to prefer your formulation, Justice Souter, to the formulation that says there's probable cause to believe now that when the warrant is executed, in accordance with the triggering condition's occurrence, the property will be found."
+2005.04-1414,0,15113,anthony_m_kennedy,scotus_justice,854.002,857.193,"Of course, that's not what the... what the warrant says."
+2005.04-1414,0,35719,michael_r_dreeben,,865.968,873.161,"Well, Justice Kennedy, I think the warrant should be read as a whole and not, as this Court has indicated in many cases, a technical sense."
+2005.04-1414,0,15060,john_paul_stevens,scotus_justice,901.928,905.728,The affidavit itself says there is now concealed a certain person or property.
+2005.04-1414,0,35719,michael_r_dreeben,,907.012,908.959,"--Well, I think the... that is correct, too, because this--"
+2005.04-1414,0,15060,john_paul_stevens,scotus_justice,908.959,911.677,"--If you read the whole affidavit, you know it doesn't mean what it says there."
+2005.04-1414,0,35719,michael_r_dreeben,,911.677,922.089,"--I think that not only do you know that the... this was clearly intended to be an anticipatory warrant as to the videotape, but it also authorized the search for other items that were related to--"
+2005.04-1414,0,15060,john_paul_stevens,scotus_justice,922.089,924.777,May I ask you this question?
+2005.04-1414,0,35719,michael_r_dreeben,,940.905,953.312,"--Wiretaps, Justice Stevens, are regulated extensively by Federal statute, and under Federal statute, a wiretap order contains a myriad of details that are not specified by the Fourth Amendment."
+2005.04-1414,0,15060,john_paul_stevens,scotus_justice,958.726,976.95,"No, but I mean in describing the authority of the investigating officer to execute the warrant, does it describe it just in terms of a physical number that can be listened, or one or more numbers, plus a time period, or does... does it say you may listen only when he's talking about foreign affairs or--"
+2005.04-1414,0,35719,michael_r_dreeben,,976.95,983.179,--It specifies the crimes that are being investigated and it contains a minimization requirement which--
+2005.04-1414,0,15060,john_paul_stevens,scotus_justice,983.179,986.799,"--It's a minimization as to what they will transcribe, isn't it?"
+2005.04-1414,0,35719,michael_r_dreeben,,986.799,997.883,--It's a minimization as to what conversations they will intercept if they listen to a conversation and determine that it falls outside the scope of what they're authorized to intercept.
+2005.04-1414,0,15049,antonin_scalia,scotus_justice,1023.108,1034.141,"Mr. Dreeben, could... could I ask you if the Government would... would defend a... an anticipatory warrant in these circumstances?"
+2005.04-1414,0,35719,michael_r_dreeben,,1075.815,1082.917,"Justice Scalia, I... I would certainly with respect to search of common areas."
+2005.04-1414,0,15049,antonin_scalia,scotus_justice,1085.454,1091.111,"Well, then... then... well, I'm sorry to hear you say that because then you are really not saying that there has to be probable cause."
+2005.04-1414,0,35719,michael_r_dreeben,,1091.111,1091.432,--No.
+2005.04-1414,0,15049,antonin_scalia,scotus_justice,1091.983,1099.695,Because at the outset there's no probable cause to believe that any one of those 17... unless you think one seventeenth is enough for probable cause.
+2005.04-1414,0,35719,michael_r_dreeben,,1099.695,1102.393,"--Well, I think one seventeenth is pushing it for probable cause--"
+2005.04-1414,0,15049,antonin_scalia,scotus_justice,1102.393,1102.563,Yes.
+2005.04-1414,0,35719,michael_r_dreeben,,1102.563,1105.552,--which is why my answer was as to the common area.
+2005.04-1414,0,15049,antonin_scalia,scotus_justice,1115.913,1117.559,"Yes, but I'm not talking about a particular location."
+2005.04-1414,0,35719,michael_r_dreeben,,1122.732,1123.185,Yes.
+2005.04-1414,0,15049,antonin_scalia,scotus_justice,1123.185,1127.097,We want a warrant that will let us go in immediately when we see it delivered.
+2005.04-1414,0,35719,michael_r_dreeben,,1128.0,1133.937,With... if what you're talking about is invading the individual expectations of privacy of... of 50--
+2005.04-1414,0,15049,antonin_scalia,scotus_justice,1133.937,1134.308,Yes.
+2005.04-1414,0,35719,michael_r_dreeben,,1135.843,1142.633,"--No, I... I wouldn't because I don't think that... that one fiftieth in those circumstances would... would be probable cause without more."
+2005.04-1414,0,15086,john_g_roberts_jr,scotus_justice,1143.384,1146.735,"No, but there's no... there's no probable cause until the triggering event."
+2005.04-1414,0,35719,michael_r_dreeben,,1156.05,1171.9,"--This case is different because there... you... you can subtract out all of the variables except will the postal officials, in fact, deliver it to the place where they're saying they will deliver it and they say that they're delivering it to a household that has actually placed the order."
+2005.04-1414,0,15086,john_g_roberts_jr,scotus_justice,1171.9,1172.081,"Well, that's not true."
+2005.04-1414,0,35719,michael_r_dreeben,,1175.4,1180.013,Then the... then the warrant should not be executed because this affidavit said that--
+2005.04-1414,0,15086,john_g_roberts_jr,scotus_justice,1180.013,1182.1,So there are a lot more things than just the delivery.
+2005.04-1414,0,35719,michael_r_dreeben,,1183.665,1200.436,"--I think that that... it's fair to say that it's not 100 percent controlled by the Postal Service, but I wouldn't say that there are a lot of things that are left up in the air or that there's any more that's left up in the air than in the kind of experience that goes on in installing a wiretap."
+2005.04-1414,0,15084,ruth_bader_ginsburg,scotus_justice,1200.897,1203.213,"Well, what... what... take this variable."
+2005.04-1414,0,35719,michael_r_dreeben,,1234.344,1245.066,--Not under this warrant because it was secured by an affidavit that represented that it... the warrant will not be executed unless and until the item is taken inside the house.
+2005.04-1414,0,15049,antonin_scalia,scotus_justice,1294.939,1297.595,"Yes, but you don't want us to decide the case on that ground."
+2005.04-1414,0,35719,michael_r_dreeben,,1297.897,1300.605,"--Well, I don't think this was such a warrant, Justice Scalia."
+2005.04-1414,0,15086,john_g_roberts_jr,scotus_justice,1315.41,1323.254,Could you elaborate just a little bit for me on why you think this case is different from Justice Scalia's hypothetical with the 17 people?
+2005.04-1414,0,35719,michael_r_dreeben,,1335.408,1338.178,It's... it's fundamentally different.
+2005.04-1414,0,15049,antonin_scalia,scotus_justice,1376.211,1383.604,--It is probable that this package will be delivered to this individual.
+2005.04-1414,0,35719,michael_r_dreeben,,1386.945,1387.276,That's right.
+2005.04-1414,0,15049,antonin_scalia,scotus_justice,1387.276,1389.663,And that's the probable cause you're relying on.
+2005.04-1414,0,35719,michael_r_dreeben,,1389.663,1389.964,That's right.
+2005.04-1414,0,15049,antonin_scalia,scotus_justice,1389.964,1393.132,It is probable that this package will be delivered to this individual.
+2005.04-1414,0,35719,michael_r_dreeben,,1393.132,1393.513,That's right.
+2005.04-1414,0,15060,john_paul_stevens,scotus_justice,1394.626,1403.471,But that probability does not support the truth of the statement that the person or property so described is now concealed at the place for the issuance of the warrant.
+2005.04-1414,0,35719,michael_r_dreeben,,1403.471,1422.506,"--Well, I... I think this takes me back to the fact that this warrant, number one, should be construed as a whole and not... not by virtue of which box was checked and, number two, that there were many items that were specified in the warrant that... and the warrant application that the agent had reason to believe were then concealed at the time."
+2005.04-1414,0,15060,john_paul_stevens,scotus_justice,1430.963,1438.134,"Of course, if the... if the stuff was already there that supports the warrant and the search, we don't even reach the question of a... of the anticipatory warrant."
+2005.04-1414,0,35719,michael_r_dreeben,,1438.134,1439.197,"Well, I think you do in--"
+2005.04-1414,0,15060,john_paul_stevens,scotus_justice,1439.197,1446.428,I should say I... I've approached the case on the assumption that the only thing we're worried about is whether... whether the anticipatory part is okay.
+2005.04-1414,0,35719,michael_r_dreeben,,1446.428,1446.82,--And that is--
+2005.04-1414,0,15060,john_paul_stevens,scotus_justice,1446.82,1450.63,"But it doesn't seem to me to be a fair response to say, well, we had other grounds for--"
+2005.04-1414,0,35719,michael_r_dreeben,,1450.63,1451.281,--No.
+2005.04-1414,0,15060,john_paul_stevens,scotus_justice,1476.345,1481.429,--But... but you would defend the warrant even if the only thing they were looking for was the stuff delivered at the... at the time.
+2005.04-1414,0,35719,michael_r_dreeben,,1481.429,1483.466,"--Yes, and that's the only thing that's before the Court."
+2005.04-1414,0,15060,john_paul_stevens,scotus_justice,1483.466,1486.274,"And as to that aspect of it, the warrant is incorrect."
+2005.04-1414,0,35719,michael_r_dreeben,,1486.274,1487.726,Yes.
+2005.04-1414,0,15060,john_paul_stevens,scotus_justice,1487.726,1488.136,The warrant itself.
+2005.04-1414,0,35719,michael_r_dreeben,,1488.136,1490.612,The... the box on the warrant is.
+2005.04-1414,0,15060,john_paul_stevens,scotus_justice,1491.868,1493.332,"Well, it's not really a box."
+2005.04-1414,0,35719,michael_r_dreeben,,1500.212,1501.867,--The same response that I gave to Justice Kennedy.
+2005.04-1414,0,15086,john_g_roberts_jr,scotus_justice,1630.32,1631.361,"Thank you, Mr. Dreeben."
+2005.04-1414,1,36577,mark__j_reichel,,1635.915,1640.59,"Mr. Chief Justice, and may... may it please the Court--"
+2005.04-1414,1,15049,antonin_scalia,scotus_justice,1688.202,1708.463,"Mr. Reichel, it... it seems to me it's part of your case that the probable cause must be in existence at the moment the warrant is issued and that the magistrate cannot take into account the passage of time."
+2005.04-1414,1,36577,mark__j_reichel,,1753.106,1763.378,"Yes, because the magistrate has determined that there's probable cause to believe that at the time of the search, the contraband, the purpose of the search, will be present in that particularly described location."
+2005.04-1414,1,15049,antonin_scalia,scotus_justice,1763.378,1766.067,"Right, and... and likewise, it... it would work the other way."
+2005.04-1414,1,36577,mark__j_reichel,,1781.379,1781.85,That is correct.
+2005.04-1414,1,15049,antonin_scalia,scotus_justice,1781.85,1789.381,"So the magistrate is always looking to the condition when... when the warrant is executed, and that's all that's happening here."
+2005.04-1414,1,36577,mark__j_reichel,,1824.346,1832.017,"Justice Scalia, what the magistrate is predicting is that there will be receipt, but the magistrate is... is not predicting that there will be contraband inside of that house at that point."
+2005.04-1414,1,15049,antonin_scalia,scotus_justice,1835.679,1836.05,"--No, but it's probable."
+2005.04-1414,1,36577,mark__j_reichel,,1860.073,1862.047,It is probable that he's going to be receiving it.
+2005.04-1414,1,15084,ruth_bader_ginsburg,scotus_justice,1887.795,1902.799,"Mr. Reichel, one of the concerns about the position you're taking, the alternative would be that the police officer, expecting that this package is going to be delivered at a certain time, is on the lookout for it."
+2005.04-1414,1,36577,mark__j_reichel,,1954.492,1963.41,"--That is correct, and I'm... and, Justice Ginsburg, that's why telephonic warrants are simple and easy, one of the many alternatives to anticipatory warrants, which do not require any--"
+2005.04-1414,1,15084,ruth_bader_ginsburg,scotus_justice,1963.41,1973.822,"But I just... I made the opposite argument, that a telephone warrant has to be done on the basis of minimum information."
+2005.04-1414,1,36577,mark__j_reichel,,2012.837,2014.794,"--Yes, there is, Justice Ginsburg."
+2005.04-1414,1,15084,ruth_bader_ginsburg,scotus_justice,2047.281,2051.001,So there has to be... when does he get the... when does the magistrate get the affidavit?
+2005.04-1414,1,36577,mark__j_reichel,,2051.001,2055.445,"--Well before the delivery of the package in such a circumstance, Your Honor."
+2005.04-1414,1,15092,sandra_day_oconnor,scotus_justice,2067.757,2073.132,"Mr. Reichel, did you take the position in the proceedings below that anticipatory warrants are invalid?"
+2005.04-1414,1,36577,mark__j_reichel,,2073.132,2075.739,"No, Your Honor."
+2005.04-1414,1,15092,sandra_day_oconnor,scotus_justice,2075.739,2076.17,No.
+2005.04-1414,1,36577,mark__j_reichel,,2081.806,2082.157,"No, Your Honor."
+2005.04-1414,1,15092,sandra_day_oconnor,scotus_justice,2082.157,2082.558,No.
+2005.04-1414,1,36577,mark__j_reichel,,2095.094,2098.455,"Your Honor, if I... Justice O'Connor, if I can elaborate."
+2005.04-1414,1,15049,antonin_scalia,scotus_justice,2154.955,2155.426,Can I--
+2005.04-1414,1,15139,stephen_g_breyer,scotus_justice,2155.426,2155.446,I don't see--
+2005.04-1414,1,15049,antonin_scalia,scotus_justice,2155.446,2159.558,--can I take you through my... a variation of my earlier hypothetical?
+2005.04-1414,1,36577,mark__j_reichel,,2205.576,2214.46,"--Textually he... textually under the language of the Fourth Amendment, he cannot issue the warrant for service at 6:30 when probable cause--"
+2005.04-1414,1,15049,antonin_scalia,scotus_justice,2214.46,2226.186,"Doesn't it strike you as... as strange that it's perfectly okay if he issues it at 6 o'clock, knowing that it'll be... won't... that there isn't probable cause now, but there will be at 6:30 when it will be served."
+2005.04-1414,1,36577,mark__j_reichel,,2231.943,2248.474,"--If it... if it is textually okay, if the warrant is valid under the Fourth Amendment, that it must be clearly stated that the time and the... and the significant limit on the officer's power to search is the time of 6:30, that must be clearly stated on the warrant to satisfy the Particularity Clause of the Fourth Amendment."
+2005.04-1414,1,15049,antonin_scalia,scotus_justice,2248.474,2249.015,"Oh, I see."
+2005.04-1414,1,36577,mark__j_reichel,,2255.715,2257.33,It must be on there.
+2005.04-1414,1,15084,ruth_bader_ginsburg,scotus_justice,2260.198,2261.52,Where... where is time?
+2005.04-1414,1,36577,mark__j_reichel,,2270.77,2272.114,--It is inherent.
+2005.04-1414,1,15084,ruth_bader_ginsburg,scotus_justice,2296.437,2315.174,"I think time... time is certainly relevant to probable cause, but the... the Fourth Amendment says what you have to identify with particularity are places and the items and the person."
+2005.04-1414,1,15092,sandra_day_oconnor,scotus_justice,2333.377,2335.092,Let me give you another example.
+2005.04-1414,1,36577,mark__j_reichel,,2339.637,2339.687,--Yes.
+2005.04-1414,1,15092,sandra_day_oconnor,scotus_justice,2339.687,2343.066,And they are often anticipatory.
+2005.04-1414,1,36577,mark__j_reichel,,2372.585,2373.416,"Thank you, Your Honor."
+2005.04-1414,1,15092,sandra_day_oconnor,scotus_justice,2408.291,2412.926,"Well, the Constitution still applies to it, and they are inherently anticipatory."
+2005.04-1414,1,36577,mark__j_reichel,,2412.926,2420.609,"--And I... and I believe that wiretap laws... the wiretap laws require a showing of present probable cause, not probable cause in the future."
+2005.04-1414,1,15092,sandra_day_oconnor,scotus_justice,2423.148,2433.267,Probable cause that there... this is somebody who's going to use a certain telephone number and that there may be reason to suspect a crime will be discussed.
+2005.04-1414,1,36577,mark__j_reichel,,2433.267,2434.611,I believe this Court announced in--
+2005.04-1414,1,15092,sandra_day_oconnor,scotus_justice,2434.611,2436.906,And... and this is no different than that.
+2005.04-1414,1,36577,mark__j_reichel,,2436.906,2453.086,"--I believe in... in... this Court announced, Justice O'Connor, in the Berger opinion that for a wiretap warrant to be authorized under the Fourth Amendment, there must be a crime undertaken, presently being committed, or about to be committed, additional evidence of a crime that's already been committed."
+2005.04-1414,1,15049,antonin_scalia,scotus_justice,2461.71,2464.378,"I mean, the conversation is not occurring right now."
+2005.04-1414,1,36577,mark__j_reichel,,2484.792,2489.024,"Justice Scalia, I believe that wiretaps are different for a few reasons."
+2005.04-1414,1,15060,john_paul_stevens,scotus_justice,2501.631,2506.266,I'm not sure the Framers used controlled deliveries either.
+2005.04-1414,1,36577,mark__j_reichel,,2506.696,2508.241,"--I agree, Your Honor."
+2005.04-1414,1,15139,stephen_g_breyer,scotus_justice,2508.241,2508.492,--All right.
+2005.04-1414,1,36577,mark__j_reichel,,2609.623,2612.301,"Thank you, Justice Breyer."
+2005.04-1414,1,15139,stephen_g_breyer,scotus_justice,2624.088,2624.919,"Oh, no, it's not supported."
+2005.04-1414,1,36577,mark__j_reichel,,2657.036,2665.623,"Justice... Justice Breyer, it says that they may enter into that house, but only upon the occurrence of a significant event, a specific occurrence."
+2005.04-1414,1,15139,stephen_g_breyer,scotus_justice,2665.623,2666.094,Where does it say that?
+2005.04-1414,1,36577,mark__j_reichel,,2666.094,2669.172,That is in the affidavit--
+2005.04-1414,1,15139,stephen_g_breyer,scotus_justice,2669.172,2669.826,"No, no."
+2005.04-1414,1,36577,mark__j_reichel,,2686.595,2686.995,"--Well, it--"
+2005.04-1414,1,15139,stephen_g_breyer,scotus_justice,2686.995,2700.618,"It says... mine says, you may command to search on or before April 27th for 10 days the person/place named and make the search in the daytime between 6:00 and 10:00."
+2005.04-1414,1,36577,mark__j_reichel,,2701.199,2702.18,--Justice--
+2005.04-1414,1,15139,stephen_g_breyer,scotus_justice,2702.18,2703.967,Then there's an affidavit about probable cause.
+2005.04-1414,1,36577,mark__j_reichel,,2705.592,2713.223,"--Justice Breyer, I think that highlights and it supports the court of appeals decision in this case, specifically because if it's not stated on the face of the warrant, such as--"
+2005.04-1414,1,15139,stephen_g_breyer,scotus_justice,2713.223,2714.276,--What's not stated?
+2005.04-1414,1,36577,mark__j_reichel,,2714.276,2716.464,--The limit on the officers' power to search.
+2005.04-1414,1,15139,stephen_g_breyer,scotus_justice,2716.464,2717.797,Where is there a limit?
+2005.04-1414,1,36577,mark__j_reichel,,2717.797,2719.613,Their limit is in the triggering event.
+2005.04-1414,1,15139,stephen_g_breyer,scotus_justice,2721.628,2721.758,It is?
+2005.04-1414,1,36577,mark__j_reichel,,2721.758,2722.629,Yes.
+2005.04-1414,1,15139,stephen_g_breyer,scotus_justice,2722.629,2724.474,What is it that tells us that?
+2005.04-1414,1,15049,antonin_scalia,scotus_justice,2733.734,2735.126,Doesn't the Government concede this point?
+2005.04-1414,1,36577,mark__j_reichel,,2763.02,2764.404,"That is correct, Justice Scalia."
+2005.04-1414,1,15139,stephen_g_breyer,scotus_justice,2771.195,2783.942,"--Well... well, he says in his affidavit he's not going to execute it until this package is delivered, but that... if I read it in a common sense way, say, of course, he isn't going to because he wants to get everything at once."
+2005.04-1414,1,15060,john_paul_stevens,scotus_justice,2796.809,2802.176,"But, of course, if you take that view, why did they bother to put the words, anticipatory search warrant, on the document?"
+2005.04-1414,1,15139,stephen_g_breyer,scotus_justice,2808.974,2809.225,Maybe that's the answer.
+2005.04-1414,1,36577,mark__j_reichel,,2809.225,2813.988,--I believe the particularity requirement also does not assume that the officers seeking the warrant will be the officers serving the warrant.
+2005.04-1414,1,15086,john_g_roberts_jr,scotus_justice,2813.988,2818.27,What else is there in this joined at the hip particularity requirement?
+2005.04-1414,1,36577,mark__j_reichel,,2833.586,2839.295,"Mr. Chief Justice, I believe they are joined at the hip because the... the particularity requirement--"
+2005.04-1414,1,15086,john_g_roberts_jr,scotus_justice,2839.295,2839.615,No.
+2005.04-1414,1,36577,mark__j_reichel,,2850.708,2858.772,"--If there's a... Mr. Chief Justice, if there's a significant limit on the time of the execution of the warrant, then that does become part of the Particularity Clause."
+2005.04-1414,1,15086,john_g_roberts_jr,scotus_justice,2858.772,2859.242,That's time.
+2005.04-1414,1,36577,mark__j_reichel,,2863.144,2877.93,"Not that I... if it is significant... if it is a significant limit on the officer's power to search and if it serves the other purposes of the particularity requirement, the measurement of the... providing the homeowner the notice of what is going on."
+2005.04-1414,1,15086,john_g_roberts_jr,scotus_justice,2877.93,2880.648,"Well, there's all sorts of, as Mr. Dreeben explained, reasonableness."
+2005.04-1414,1,36577,mark__j_reichel,,2893.745,2896.134,"Mr. Chief Justice, that's correct."
+2005.04-1414,1,15049,antonin_scalia,scotus_justice,2905.022,2905.973,So who--
+2005.04-1414,1,15086,john_g_roberts_jr,scotus_justice,2905.973,2908.23,It doesn't have to be spelled out in the warrant itself.
+2005.04-1414,1,36577,mark__j_reichel,,2908.23,2911.299,The manner of entry... the method of entry does not have to be spelled out.
+2005.04-1414,1,15049,antonin_scalia,scotus_justice,2911.299,2916.584,"--So who, what, and where includes when, but it doesn't include how."
+2005.04-1414,1,36577,mark__j_reichel,,2920.917,2954.518,"I believe that not for... for all cases, I cannot answer the question, but for cases of anticipatory search warrants where the officers are going to finalize the issuing process, the officers are completely in control of the manufacture and completely in control of the completion of the delivery of the contraband, and if a magistrate has allowed them to make that decision in the field, that has to be clearly stated to satisfy the particularity requirement on the front page of the warrant so that any officer executing it, not just those who... who seek the warrant, but the officer executing it, is keenly aware of his limit to search."
+2005.04-1414,1,15060,john_paul_stevens,scotus_justice,2960.397,2961.118,--May I ask--
+2005.04-1414,1,36577,mark__j_reichel,,2961.118,2962.543,--the Groh v. Ramirez opinion.
+2005.04-1414,1,15060,john_paul_stevens,scotus_justice,2962.543,2963.937,--may I ask you this question?
+2005.04-1414,1,36577,mark__j_reichel,,2985.924,2987.538,"That... that is correct, Justice Stevens."
+2005.04-1414,1,15060,john_paul_stevens,scotus_justice,2987.538,2994.038,"Now, why would that not also have satisfied the objection of the warrant... the argument you make in this Court?"
+2005.04-1414,1,36577,mark__j_reichel,,3003.807,3007.659,It will make the warrant valid under the Particularity Clause.
+2005.04-1414,1,15060,john_paul_stevens,scotus_justice,3007.659,3015.222,Will it also satisfy the text of the Constitution that says no warrant shall issue except upon probable cause?
+2005.04-1414,1,36577,mark__j_reichel,,3024.238,3036.565,"Because the text of the... of the probable cause requirement in the Fourth Amendment has clearly been announced by this Court to always require the magistrate's determination of the facts, as well as the legal grounds, after studied caution to make that determination."
+2005.04-1414,1,15060,john_paul_stevens,scotus_justice,3036.565,3041.22,"Well, he has made a determination of the facts that will establish probable cause."
+2005.04-1414,1,36577,mark__j_reichel,,3041.22,3049.324,"He has, Justice Stevens, but he has ceded his discretion to finalize that... to finalize that decision."
+2005.04-1414,1,15139,stephen_g_breyer,scotus_justice,3049.324,3052.152,Will you... will you just help me with this?
+2005.04-1414,1,36577,mark__j_reichel,,3100.268,3100.688,That does not--
+2005.04-1414,1,15139,stephen_g_breyer,scotus_justice,3100.688,3119.915,"I understand that, but it's not going to support you enough unless you connect this anxiety I'm having now about this being buried in page 28 of an affidavit when it's an important condition of the warrant, the only clue to that fact being the word anticipatory."
+2005.04-1414,1,36577,mark__j_reichel,,3129.697,3134.953,"--Justice Breyer, they are prone to abuse by nature."
+2005.04-1414,1,15139,stephen_g_breyer,scotus_justice,3135.583,3136.297,"No, please don't."
+2005.04-1414,1,36577,mark__j_reichel,,3166.196,3168.523,"--Thank you, Justice Breyer."
+2005.04-1414,1,15049,antonin_scalia,scotus_justice,3191.713,3194.1,"Of course, all... this whole argument begs the question."
+2005.04-1414,1,36577,mark__j_reichel,,3217.489,3225.234,"Justice Scalia, I... I can... it is inherent in the place, the objects, and the persons to be searched in a particularity--"
+2005.04-1414,1,15049,antonin_scalia,scotus_justice,3225.234,3230.81,"I understand that's your argument, but you agree that if... if that argument is wrong, you're done."
+2005.04-1414,1,36577,mark__j_reichel,,3230.81,3231.421,--That's correct.
+2005.04-1414,1,15084,ruth_bader_ginsburg,scotus_justice,3247.591,3253.048,They have first the outer limit of the 10 days in the warrant itself.
+2005.04-1414,1,36577,mark__j_reichel,,3260.399,3261.954,"--That's correct, Justice Ginsburg."
+2005.04-1414,1,15084,ruth_bader_ginsburg,scotus_justice,3261.954,3284.933,"--And could it be if the officer knows that this package... let's say it's loaded with dynamite or guns or drugs... is going to be delivered at a certain time and it... the delivery occurs, and then the officer busts in and says, there's exigent circumstances."
+2005.04-1414,1,36577,mark__j_reichel,,3292.656,3295.424,That might happen.
+2005.04-1414,1,15084,ruth_bader_ginsburg,scotus_justice,3299.717,3317.46,"Well, my... my question is, isn't it better to have the police go to the magistrate when there's time for the magistrate to reflect, than to have this scenario where the police will say this was really dangerous stuff, exigent circumstances?"
+2005.04-1414,1,36577,mark__j_reichel,,3322.928,3325.264,"Justice... Justice Ginsburg, yes, I would."
+2005.04-1414,1,15084,ruth_bader_ginsburg,scotus_justice,3336.979,3344.582,Even... wasn't this man... magistrate told we've set this whole thing up?
+2005.04-1414,1,36577,mark__j_reichel,,3352.447,3353.881,"--Yes, Justice Ginsburg."
+2005.04-1414,1,15084,ruth_bader_ginsburg,scotus_justice,3353.881,3360.039,So why was there a need for a second call when exactly that happened?
+2005.04-1414,1,36577,mark__j_reichel,,3360.039,3365.887,"Well, specifically what was highlighted in this case is that the individual receiving the package was his wife, Justice Ginsburg."
+2005.04-1414,1,15084,ruth_bader_ginsburg,scotus_justice,3394.06,3395.454,Didn't... was... he was on the premises?
+2005.04-1414,1,36577,mark__j_reichel,,3395.454,3396.457,--He was inside the--
+2005.04-1414,1,15084,ruth_bader_ginsburg,scotus_justice,3396.457,3398.482,"And he said, I know why they're here."
+2005.04-1414,1,36577,mark__j_reichel,,3398.482,3401.821,"--Justice Ginsburg, he was inside the house, and he walked outside thereafter."
+2005.04-1414,1,15049,antonin_scalia,scotus_justice,3401.821,3408.121,"Well, and they... and they found other... other videotapes besides the one that had just been delivered, didn't they, in the course of the search?"
+2005.04-1414,1,36577,mark__j_reichel,,3408.121,3410.426,"They did, Justice Scalia."
+2005.04-1414,1,15042,david_h_souter,scotus_justice,3429.083,3437.026,And exactly the same thing would be true if they had stated the triggering event clearly somewhere in... in the warrant.
+2005.04-1414,1,36577,mark__j_reichel,,3442.022,3455.083,"But this does... Justice Souter, this highlights why the triggering event must be clearly, specifically drawn by a magistrate with studied caution about the exact factors for probable cause which would allow this search."
+2005.04-1414,1,15086,john_g_roberts_jr,scotus_justice,3469.173,3470.387,"Thank you, counsel."
+2005.04-1414,1,36577,mark__j_reichel,,3470.387,3471.981,Thank you.
+2005.04-1414,1,15086,john_g_roberts_jr,scotus_justice,3471.981,3475.323,"Mr. Dreeben, you have 3 minutes remaining."
+2005.04-1414,1,15049,antonin_scalia,scotus_justice,3475.323,3477.267,"Mr. Dreeben, a quick yes or no."
+2005.04-1414,2,35719,michael_r_dreeben,,3486.205,3496.255,"Yes, Justice Scalia, because the representations that are made to the magistrate to secure the warrant include the fact that the warrant will not be executed and the agents should--"
+2005.04-1414,2,15060,john_paul_stevens,scotus_justice,3496.255,3497.478,But that... that puzzles me a little.
+2005.04-1414,2,35719,michael_r_dreeben,,3509.645,3515.905,--That's true because I think that the magistrate is making the common sense judgment that this will be... we don't know exactly when--
+2005.04-1414,2,15060,john_paul_stevens,scotus_justice,3515.905,3524.259,"I mean, not even... it is not only the warrant, but the affidavit itself doesn't say we merely request permission to search after the... after the event."
+2005.04-1414,2,35719,michael_r_dreeben,,3526.276,3539.907,"--It makes the representation, and I think what draws the link between the conditions that are represented to occur before the warrant will be executed and the warrant itself are paragraphs 1, 2, and 3 of the items that are to be seized because those pertain--"
+2005.04-1414,2,15060,john_paul_stevens,scotus_justice,3539.907,3540.187,No.
+2005.04-1414,2,35719,michael_r_dreeben,,3543.676,3545.281,"--I understand that, Justice Stevens."
+2005.04-1414,2,15060,john_paul_stevens,scotus_justice,3551.733,3555.002,"Yes, but the authority is broader than the authority to search for those items."
+2005.04-1414,2,35719,michael_r_dreeben,,3555.002,3555.653,That's true.
+2005.04-1414,2,15060,john_paul_stevens,scotus_justice,3575.772,3581.282,But it takes a step of reasoning beyond merely saying we incorporate the... the affidavit into the warrant.
+2005.04-1414,2,35719,michael_r_dreeben,,3581.282,3591.191,"--I think it takes a very small step of logical inference, but I agree with you, Justice Stevens, that it doesn't say everything that is logically implied in the magistrate's probable cause finding."
+2005.04-1414,2,15139,stephen_g_breyer,scotus_justice,3633.897,3636.537,"So you just want us to say, look, the Ninth Circuit is wrong."
+2005.04-1414,2,35719,michael_r_dreeben,,3648.112,3654.098,"No, I don't want the Court to send it back to the Ninth Circuit to impose yet new requirements on the execution of warrants."
+2005.04-1414,2,15086,john_g_roberts_jr,scotus_justice,3676.647,3677.3,"Thank you, Mr. Dreeben."

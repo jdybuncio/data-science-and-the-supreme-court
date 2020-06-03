@@ -1,0 +1,202 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2014.13-854,0,15086,john_g_roberts_jr,scotus_justice,0.0,7.123,"We will hear argument first this morning in Case 13-854, Teva Pharmaceuticals v. Sandoz."
+2014.13-854,0,45148,william_m_jay,,9.309,10.153,"Mr. Chief Justice, and may it please the Court:"
+2014.13-854,0,15084,ruth_bader_ginsburg,scotus_justice,48.185,59.883,Can you bring it down to this case and tell -- tell us what are the facts to which the Federal Circuit should have applied clearly erroneous rule?
+2014.13-854,0,45148,william_m_jay,,59.883,60.992,"Certainly, Justice Ginsburg."
+2014.13-854,0,15113,anthony_m_kennedy,scotus_justice,112.517,119.296,"I -- I want you to answer that, but would -- would you say that it's whether a skilled artisan would make this inference?"
+2014.13-854,0,45148,william_m_jay,,120.937,122.593,--Part of the finding is the knowledge of a skilled artisan.
+2014.13-854,0,15068,samuel_a_alito_jr,scotus_justice,190.879,194.362,"Well, that's not true of terms of art in statutes, is it?"
+2014.13-854,0,45148,william_m_jay,,194.362,200.689,"Terms of art in statutes, Justice Alito, are not -- are nonetheless written to be read by the general public."
+2014.13-854,0,15068,samuel_a_alito_jr,scotus_justice,206.952,216.26,"Well, some of them are very technical, and I doubt that the -- the general public has any understanding of some very technical terms that appear in statutes."
+2014.13-854,0,45148,william_m_jay,,223.335,231.238,I think it's very rare for Congress to adopt statutes that have terms -- that have terms that are meant to be read by a specialized audience--
+2014.13-854,0,15068,samuel_a_alito_jr,scotus_justice,231.238,232.238,"Well, I'll give you an example."
+2014.13-854,0,45148,william_m_jay,,240.501,245.842,"--I -- I expect that it has an established meaning, but -- although I certainly don't know for sure."
+2014.13-854,0,15068,samuel_a_alito_jr,scotus_justice,245.842,250.919,Among the general public or among people who are knowledgeable in that particular area?
+2014.13-854,0,45148,william_m_jay,,250.919,256.901,I think when you're interpreting a statute that it's generally clear at least what the right frame of reference is.
+2014.13-854,0,15131,sonia_sotomayor,scotus_justice,279.454,286.482,"Mr. Jay, could you tell me what you see as the difference between your position and the government's?"
+2014.13-854,0,45148,william_m_jay,,286.482,295.526,I think that the government agrees with us that the answer to the question presented is that Rule 52(a) applies and that clear error review should apply to findings of fact.
+2014.13-854,0,15131,sonia_sotomayor,scotus_justice,295.765,298.337,"To some, because they differentiate others."
+2014.13-854,0,45148,william_m_jay,,298.337,306.167,"--I think that -- I think that our test is largely the same as well, but we disagree on how the test comes out on these facts."
+2014.13-854,0,15131,sonia_sotomayor,scotus_justice,320.927,329.246,"If you and the government can't agree, why should we defer to a district court?"
+2014.13-854,0,45148,william_m_jay,,337.914,344.221,"Respectfully, Justice Sotomayor, what's been done forever is deferring to district courts on matters of subsidiary findings."
+2014.13-854,0,15131,sonia_sotomayor,scotus_justice,358.671,365.231,"What we did -- in Markman, we -- we talked about claim construction being the odd hybrid."
+2014.13-854,0,45148,william_m_jay,,365.231,368.683,"--It is an odd hybrid -- well, it is a hybrid."
+2014.13-854,0,15113,anthony_m_kennedy,scotus_justice,389.847,402.031,"In the Markman context, the trial judge says to the jury: Now, the construction of the claim is for the court, and the court's construction of the claim is X, Y, Z."
+2014.13-854,0,45148,william_m_jay,,414.415,416.602,"Sir, I may have missed the--"
+2014.13-854,0,15113,anthony_m_kennedy,scotus_justice,416.602,428.848,"It's a jury case like Markman and Markman says the construction of the claim is for the court, and the court tells the jury: This claim is to be construed as follows, A, B, C, D."
+2014.13-854,0,45148,william_m_jay,,441.968,445.902,--A claim construction can contain factual determinations.
+2014.13-854,0,15049,antonin_scalia,scotus_justice,466.333,474.236,"Well, is -- is it the same question whether a particular fact has to be submitted to the jury?"
+2014.13-854,0,45148,william_m_jay,,481.886,483.391,"They are not the same question, Justice Scalia."
+2014.13-854,0,15049,antonin_scalia,scotus_justice,483.391,484.466,I didn't think they were.
+2014.13-854,0,45148,william_m_jay,,484.466,497.744,"This Court resolved the judge/jury question for claim construction in Markman, but -- and there were no subsidiary fact-findings of the type that we've been talking about in Markman, because Mr. Markman's expert was an expert in document construction."
+2014.13-854,0,15086,john_g_roberts_jr,scotus_justice,503.117,509.02,You -- you've referred several times to subsidiary facts.
+2014.13-854,0,45148,william_m_jay,,517.751,533.353,"I simply mean, Justice -- Mr. Chief Justice, that the ultimate question this Court said in Markman is a question of law, but it often rests on factual findings, knowledge of the -- excuse me -- of the state of the art and of how the art works."
+2014.13-854,0,15086,john_g_roberts_jr,scotus_justice,536.868,538.554,"Well, what's your definition of subsidiary fact?"
+2014.13-854,0,45148,william_m_jay,,538.554,547.519,"A subsidiary fact is a fact that is not the ultimate question the court is looking at, but one that is an ingredient in that -- in that judgment."
+2014.13-854,0,15084,ruth_bader_ginsburg,scotus_justice,579.366,580.991,Then maybe the evidence shouldn't have come in.
+2014.13-854,0,45148,william_m_jay,,580.991,582.178,"I'm sorry, Justice Ginsburg."
+2014.13-854,0,15084,ruth_bader_ginsburg,scotus_justice,582.178,583.552,The evidence should not have come in.
+2014.13-854,0,45148,william_m_jay,,583.552,592.563,"Well, Justice Ginsburg, the court may not anticipate at the time what the -- what the ultimate outcome is going to be."
+2014.13-854,0,15084,ruth_bader_ginsburg,scotus_justice,609.785,618.784,"If these are -- these are truly fact questions, then what happened to the Seventh Amendment?"
+2014.13-854,0,45148,william_m_jay,,618.784,624.542,"--I think, Justice Ginsburg, that -- first of all, this is not a jury case."
+2014.13-854,0,15084,ruth_bader_ginsburg,scotus_justice,659.552,671.55,"And the government's brief said -- and I think you agree with this, but you'll tell me -- that inferences to be drawn from fact-findings get de novo review."
+2014.13-854,0,45148,william_m_jay,,689.588,689.702,No.
+2014.13-854,0,15068,samuel_a_alito_jr,scotus_justice,730.104,730.617,Isn't your--
+2014.13-854,0,15094,elena_kagan,scotus_justice,730.617,731.039,Mr. Jay--
+2014.13-854,0,15068,samuel_a_alito_jr,scotus_justice,731.039,732.754,--Go ahead.
+2014.13-854,0,15094,elena_kagan,scotus_justice,732.754,740.995,--I -- I just want to make sure I understand your answer to what the gap is between a certain kind of fact and then the ultimate question of law.
+2014.13-854,0,45148,william_m_jay,,777.865,783.332,"Well, the difference is that the instances, and they will be frequent, where it's not kind of the same thing."
+2014.13-854,0,15094,elena_kagan,scotus_justice,834.075,844.95,"So what you're saying is that in certain cases the factual finding truly is the legal determination, but that in other cases, other matters can come in to drive a wedge between the two."
+2014.13-854,0,45148,william_m_jay,,844.95,845.255,Correct.
+2014.13-854,0,15113,anthony_m_kennedy,scotus_justice,853.159,857.422,"Two -- two cases, and this is part of Justice Kagan's question, I think."
+2014.13-854,0,45148,william_m_jay,,876.962,883.584,"--I think, as I understand your question, Justice Kennedy, in each question the person on the stand is actually opining about the ultimate question."
+2014.13-854,0,15049,antonin_scalia,scotus_justice,908.682,912.807,But to say -- to say -- I don't -- I don't agree with your response to Justice Kagan.
+2014.13-854,0,45148,william_m_jay,,946.872,949.776,--I do agree that it's not the same.
+2014.13-854,0,15094,elena_kagan,scotus_justice,969.894,971.69,But how would you define the standard?
+2014.13-854,0,45148,william_m_jay,,994.214,1001.571,The expert is not testifying to how the person of ordinary skill would understand the patent writ large.
+2014.13-854,0,15139,stephen_g_breyer,scotus_justice,1025.555,1031.283,"So let me try this and if you don't agree with it, just say no and I'll stop."
+2014.13-854,0,45148,william_m_jay,,1031.71,1033.297,Okay.
+2014.13-854,0,15139,stephen_g_breyer,scotus_justice,1033.297,1050.781,"I thought the classical distinction is pretty much what I think Justice Scalia was driving at, that there are a certain number of factual questions where the question is of the kind, does this label belong on this thing, this thing being not in dispute."
+2014.13-854,0,45148,william_m_jay,,1082.033,1084.408,"I think that that's basically right, Justice Breyer."
+2014.13-854,0,15139,stephen_g_breyer,scotus_justice,1090.921,1091.233,Yes.
+2014.13-854,0,45148,william_m_jay,,1125.345,1126.328,Well--
+2014.13-854,0,15139,stephen_g_breyer,scotus_justice,1126.328,1127.762,And that at least is a legal question.
+2014.13-854,0,45148,william_m_jay,,1130.316,1131.952,--That's more or less what they've said.
+2014.13-854,0,15139,stephen_g_breyer,scotus_justice,1131.952,1133.248,And what do you say in response?
+2014.13-854,0,45148,william_m_jay,,1133.248,1135.154,I -- I say two important things in response.
+2014.13-854,0,15068,samuel_a_alito_jr,scotus_justice,1213.075,1244.843,"In a recent law review article written by two authors, one of whom is a -- is the deputy solicitor in the Patent and Trademark Office, the office -- the authors said that they surveyed a very large number of cases to try to find any in which the difference between de novo review and clear error review of factual questions by the Federal Circuit made a difference in the outcome and they couldn't find any case in which this fascinating legal debate had a practical significance."
+2014.13-854,0,45148,william_m_jay,,1266.852,1268.605,"It is, Justice Alito."
+2014.13-854,0,15086,john_g_roberts_jr,scotus_justice,1357.017,1358.079,"Thank you, Mr. Jay."
+2014.13-854,1,24885,ginger_anders,,1367.56,1369.763,"Mr. Chief Justice, and may it please the Court:"
+2014.13-854,1,15084,ruth_bader_ginsburg,scotus_justice,1470.893,1477.313,Why do you reject what Mr. Jay tells us were also fact-findings?
+2014.13-854,1,24885,ginger_anders,,1477.313,1479.047,"--I'm sorry, Justice Ginsburg?"
+2014.13-854,1,15084,ruth_bader_ginsburg,scotus_justice,1479.047,1486.389,"I think you have just told us that the peak, that that's a fact-finding."
+2014.13-854,1,24885,ginger_anders,,1498.008,1502.74,"Well, to take SEC first, I think what -- I think we agree--"
+2014.13-854,1,15049,antonin_scalia,scotus_justice,1502.74,1503.662,To take what first?
+2014.13-854,1,24885,ginger_anders,,1503.662,1508.145,"--SEC, which is the use of size exclusion chromatography in the specification."
+2014.13-854,1,15094,elena_kagan,scotus_justice,1557.246,1566.447,"But suppose an expert just says, in my field skilled artisans think that molecular weight means the following."
+2014.13-854,1,24885,ginger_anders,,1574.693,1586.064,"I think -- well, first of all, that's not what the district -- what the expert testified to here and what the district court found, so I think we disagree about what the district court actually said in its opinion."
+2014.13-854,1,15086,john_g_roberts_jr,scotus_justice,1641.698,1661.801,"Under your view, two different district courts construing the same patent could come out to opposite results based on a subsidiary factual finding, and neither of those would be clearly erroneous, and yet on a public patent that is going to bind a lot of other people, people won't know what to do."
+2014.13-854,1,24885,ginger_anders,,1666.391,1669.828,"Well, I think that concern is overstated for -- for two -- two reasons."
+2014.13-854,1,15086,john_g_roberts_jr,scotus_justice,1699.317,1701.295,"Well, that's just kind of avoiding the question."
+2014.13-854,1,24885,ginger_anders,,1717.845,1725.138,"--Well, I think another point is that district courts I think have a way, have ample tools to try to avoid that scenario from occurring."
+2014.13-854,1,15139,stephen_g_breyer,scotus_justice,1743.412,1750.472,What do we do when there's a bus accident on a technical thing and different people who were injured sue in different places at different times?
+2014.13-854,1,24885,ginger_anders,,1753.455,1754.516,I'm--
+2014.13-854,1,15139,stephen_g_breyer,scotus_justice,1754.516,1755.704,Same problem.
+2014.13-854,1,24885,ginger_anders,,1771.484,1772.242,--I think that is exactly right and I think--
+2014.13-854,1,15139,stephen_g_breyer,scotus_justice,1772.242,1772.933,All right.
+2014.13-854,1,15086,john_g_roberts_jr,scotus_justice,1773.56,1773.623,No.
+2014.13-854,1,15139,stephen_g_breyer,scotus_justice,1784.538,1784.991,--Right.
+2014.13-854,1,15086,john_g_roberts_jr,scotus_justice,1784.991,1785.835,He doesn't know.
+2014.13-854,1,15139,stephen_g_breyer,scotus_justice,1789.212,1803.27,"Yeah, I was actually curious what we did, because I can think of examples in antitrust, I can think of examples in corporate law, I can think of examples versus every area of the law, where often it does happen, as the Chief Justice says, it could -- the different factual things have enormous public implications."
+2014.13-854,1,24885,ginger_anders,,1808.08,1809.658,"--Well, I would make two points."
+2014.13-854,1,15049,antonin_scalia,scotus_justice,1833.945,1838.195,"I guess a deed is a private document that's -- has public effect, right?"
+2014.13-854,1,24885,ginger_anders,,1859.529,1860.263,I think that is right.
+2014.13-854,1,15068,samuel_a_alito_jr,scotus_justice,1883.595,1887.9,"And you say that factual findings that are subject to clear error review must be, quote,"
+2014.13-854,1,24885,ginger_anders,,1904.826,1919.775,"Well, it means that the district court is making a finding based on -- based on science, based on expertise, somebody's -- somebody's expertise in the field and making a finding about a matter that isn't just what does this term mean in the patent."
+2014.13-854,1,15068,samuel_a_alito_jr,scotus_justice,1941.468,1943.227,"Well, that sounds like every factual finding."
+2014.13-854,1,24885,ginger_anders,,1950.106,1963.506,"Well, I think that is a factual finding, but then what the district court has to do is take that information which allows it to assume the -- the perspective of a skilled artisan and then decide what it tells it about the patent itself."
+2014.13-854,1,15086,john_g_roberts_jr,scotus_justice,1977.782,1979.11,"Thank you, Ms. Anders."
+2014.13-854,2,19760,carter_g_phillips,,1985.255,1987.655,"Thank you, Mr. Chief Justice, and may it please the Court:"
+2014.13-854,2,15139,stephen_g_breyer,scotus_justice,2050.879,2060.532,"I think that Markman just dealt with judge/jury, not which court gets the fact up -- decides the facts basically, which is where I do start."
+2014.13-854,2,19760,carter_g_phillips,,2109.451,2110.06,"Actually, that's not true."
+2014.13-854,2,15139,stephen_g_breyer,scotus_justice,2110.06,2140.876,"And that, I think, is a very powerful reason for saying in a technical case, don't overturn the judge's factual findings whether they are -- particularly scientific matters, but no particularly here -- unless those three judges who will not even read the whole record normally and certainly won't hear those witnesses, don't let them do it unless they are convinced that it is clearly erroneous."
+2014.13-854,2,19760,carter_g_phillips,,2144.188,2145.547,Right.
+2014.13-854,2,15139,stephen_g_breyer,scotus_justice,2145.639,2152.325,Whether or not it is different from the -- it's different from -- it's the same as any technical case.
+2014.13-854,2,19760,carter_g_phillips,,2154.105,2163.007,"--I think, Judge, that's the question the Chief Justice asked, which isn't it possible and isn't it likely when we gave you the example of seven district courts interpreting three--"
+2014.13-854,2,15139,stephen_g_breyer,scotus_justice,2163.007,2168.022,"But I mean, that same thing, as we know, could happen in dozens of -- of technical cases."
+2014.13-854,2,19760,carter_g_phillips,,2168.022,2168.38,--Right.
+2014.13-854,2,15139,stephen_g_breyer,scotus_justice,2168.787,2172.27,"And you go on importance, I could make up some important hypotheticals."
+2014.13-854,2,19760,carter_g_phillips,,2184.686,2185.015,--Yes.
+2014.13-854,2,15084,ruth_bader_ginsburg,scotus_justice,2190.387,2193.027,Can we go -- can we go back to the question?
+2014.13-854,2,19760,carter_g_phillips,,2208.521,2209.707,--Right.
+2014.13-854,2,15094,elena_kagan,scotus_justice,2276.228,2276.993,Mr. Phillips--
+2014.13-854,2,19760,carter_g_phillips,,2276.993,2277.384,And that--
+2014.13-854,2,15094,elena_kagan,scotus_justice,2277.384,2278.383,--I'm sorry.
+2014.13-854,2,19760,carter_g_phillips,,2278.383,2278.945,"--No, go ahead."
+2014.13-854,2,15094,elena_kagan,scotus_justice,2278.945,2295.018,"Is your argument that there are no subordinate factual determinations in these kinds of cases or as you opened by saying, as your argument, sure, there are factual determinations; we can come up with a zillion of them, but it's not worth the candle to figure out which is which."
+2014.13-854,2,19760,carter_g_phillips,,2295.018,2307.106,It's not -- it's not worth the candle because all you're going to do is create a cottage industry of trial lawyers fighting with the judge about which bucket some particular evidence fits into and whether you can -- whether it's--
+2014.13-854,2,15139,stephen_g_breyer,scotus_justice,2307.106,2310.541,"But normally, normally is not difficult to distinguish the one from the other."
+2014.13-854,2,19760,carter_g_phillips,,2346.371,2351.853,"--Justice Breyer, I think that -- I mean, I don't want to go to war with your -- I don't want to go to war with your hypothetical."
+2014.13-854,2,15139,stephen_g_breyer,scotus_justice,2351.853,2352.197,I want the answer.
+2014.13-854,2,19760,carter_g_phillips,,2352.681,2362.318,The problem with the hypothetical is that it assumes that there -- that there will be instances in which the question of pure science is a matter about which there is disagreement.
+2014.13-854,2,15139,stephen_g_breyer,scotus_justice,2362.882,2363.482,What happened in--
+2014.13-854,2,19760,carter_g_phillips,,2363.482,2371.159,"--And it's very, very uncommon and that's why it's not worth -- this Court -- this Court said it specifically in Markman."
+2014.13-854,2,15094,elena_kagan,scotus_justice,2392.018,2402.077,"But Mr. Phillips, if that's your argument, I mean, then you'd just have to deal with Rule 52(a) because Rule 52(a) sets out the very blanket rule."
+2014.13-854,2,19760,carter_g_phillips,,2409.527,2429.971,"--But if -- but if, as this Court said in Markman, treating interpretative issues as purely legal and the reason for doing that is to avoid the problem the Chief Justice identified, which is that otherwise, you're going to end up with a single document that is binding on the rest of the world having inconsistent meanings and, therefore, it is different."
+2014.13-854,2,15084,ruth_bader_ginsburg,scotus_justice,2435.828,2447.996,"The same way it's different from obviousness because the other side said, well, why shouldn't the fact law division for claim construction be the same as it is for obviousness."
+2014.13-854,2,19760,carter_g_phillips,,2447.996,2448.621,--Right.
+2014.13-854,2,15139,stephen_g_breyer,scotus_justice,2554.408,2556.751,"--I mean, it isn't that I like it better."
+2014.13-854,2,19760,carter_g_phillips,,2596.596,2603.875,I'm -- I'm not sure I -- I agree with your assessment about how comfortable the world is with the district courts making fact-finding in the patent context.
+2014.13-854,2,15139,stephen_g_breyer,scotus_justice,2604.344,2604.891,I don't know.
+2014.13-854,2,19760,carter_g_phillips,,2605.704,2610.39,--And it seems to me Markman answered 52(a).
+2014.13-854,2,15068,samuel_a_alito_jr,scotus_justice,2618.886,2620.433,So if a patent is--
+2014.13-854,2,15131,sonia_sotomayor,scotus_justice,2620.433,2624.041,Can I clarify a point that you made in response a little earlier?
+2014.13-854,2,19760,carter_g_phillips,,2630.178,2630.912,Doesn't have to be.
+2014.13-854,2,15131,sonia_sotomayor,scotus_justice,2637.723,2638.581,So there was no live hearing.
+2014.13-854,2,19760,carter_g_phillips,,2638.581,2640.237,"There was no live hearing on this, no."
+2014.13-854,2,15113,anthony_m_kennedy,scotus_justice,2640.237,2644.173,"Well, Markman hearings certainly have expert testimony, don't they?"
+2014.13-854,2,19760,carter_g_phillips,,2644.173,2644.704,They can.
+2014.13-854,2,15113,anthony_m_kennedy,scotus_justice,2646.72,2655.153,"When they do have expert testimony, you want it to say that that's -- it doesn't involve any findings of fact to which the court of appeals must defer."
+2014.13-854,2,19760,carter_g_phillips,,2655.153,2655.622,--Yes.
+2014.13-854,2,15049,antonin_scalia,scotus_justice,2700.996,2702.152,So what do you want the district court to do?
+2014.13-854,2,19760,carter_g_phillips,,2713.13,2713.63,Of course.
+2014.13-854,2,15049,antonin_scalia,scotus_justice,2713.63,2720.112,Or to take at least written testimony where there's what you say is a rare scientific question comes up?
+2014.13-854,2,19760,carter_g_phillips,,2720.112,2720.815,No--
+2014.13-854,2,15049,antonin_scalia,scotus_justice,2720.815,2727.001,"Even if it's going to be decided by the court of appeals, why should the -- why should the district court have any witnesses at all?"
+2014.13-854,2,15113,anthony_m_kennedy,scotus_justice,2727.001,2735.169,"And why should it say that if you want also just to follow the same question just -- not to separate conclusions of law -- findings of fact and conclusions of law, that's all out."
+2014.13-854,2,19760,carter_g_phillips,,2735.169,2738.325,"--Well, in reality--"
+2014.13-854,2,15113,anthony_m_kennedy,scotus_justice,2738.325,2738.949,No findings of fact at all.
+2014.13-854,2,19760,carter_g_phillips,,2738.949,2745.181,"--Well, I mean, actually, the claim construction analysis is just a claim construction analysis when she goes through it."
+2014.13-854,2,15049,antonin_scalia,scotus_justice,2755.145,2757.535,So this district judge should not have even taken this testimony; is that it?
+2014.13-854,2,19760,carter_g_phillips,,2757.535,2759.675,"Well, no, I think it's perfectly sensible to take the testimony."
+2014.13-854,2,15049,antonin_scalia,scotus_justice,2759.675,2759.744,Why?
+2014.13-854,2,19760,carter_g_phillips,,2760.815,2770.921,"Because it helps to inform even the district judge's understanding of what the patent is about in order to be able to apply the claim language, the specification, and the prosecution history."
+2014.13-854,2,15068,samuel_a_alito_jr,scotus_justice,2792.318,2795.771,"--Mr. Phillips, can I try this out and see if you agree with me."
+2014.13-854,2,19760,carter_g_phillips,,2810.093,2810.452,Right.
+2014.13-854,2,15068,samuel_a_alito_jr,scotus_justice,2810.452,2817.404,Any more than factual findings regarding the meaning of a statute are -- or the Constitution are entitled to plain error review.
+2014.13-854,2,19760,carter_g_phillips,,2840.471,2841.393,"Yes, I agree with that."
+2014.13-854,2,15068,samuel_a_alito_jr,scotus_justice,2842.893,2843.845,So it all turns on which -- how we--
+2014.13-854,2,19760,carter_g_phillips,,2843.845,2846.25,--Which one you think it's closer to.
+2014.13-854,2,15068,samuel_a_alito_jr,scotus_justice,2846.25,2846.594,--Okay.
+2014.13-854,2,19760,carter_g_phillips,,2846.594,2862.853,"But actually, I think Markman answered that, because I think Markman recognized that this is a public document that is going to be binding on third parties, and that therefore ought to be construed as a matter of law in order to ensure the stare decisis component of it."
+2014.13-854,2,15139,stephen_g_breyer,scotus_justice,2883.485,2886.421,"How many patents do they issue a year, do you have any rough idea?"
+2014.13-854,2,19760,carter_g_phillips,,2886.421,2886.859,--I'm sorry.
+2014.13-854,2,15139,stephen_g_breyer,scotus_justice,2887.375,2888.688,How many patents are issued every year?
+2014.13-854,2,19760,carter_g_phillips,,2890.952,2891.515,I don't.
+2014.13-854,2,15094,elena_kagan,scotus_justice,2897.278,2908.056,"Mr. Phillips, there might be very different kinds of factual determinations that are relevant to patentability than are relevant to interpretation of a statute, so let me just give you one."
+2014.13-854,2,19760,carter_g_phillips,,2917.1,2917.647,"Right, the priority date."
+2014.13-854,2,15094,elena_kagan,scotus_justice,2917.647,2922.708,And that was absolutely critical to your determination of whether a patent was valid.
+2014.13-854,2,19760,carter_g_phillips,,2928.8,2930.346,You mean -- or the jury.
+2014.13-854,2,15094,elena_kagan,scotus_justice,2930.346,2932.532,--How do I deal with that?
+2014.13-854,2,19760,carter_g_phillips,,2932.532,2938.498,"Yes, but that's -- that's the priority date and the priority date's always been recognized as a question of fact."
+2014.13-854,2,15094,elena_kagan,scotus_justice,2939.81,2944.839,"So a question of fact which the trial court ought to get deference on, no?"
+2014.13-854,2,19760,carter_g_phillips,,2944.839,2945.464,"--Yes, absolutely."
+2014.13-854,2,15094,elena_kagan,scotus_justice,2962.801,2971.11,"I see, but are you saying that there aren't similar things that could arise within the context of claim construction, just different people's view of what the facts on the ground are?"
+2014.13-854,2,19760,carter_g_phillips,,2975.969,2979.106,"Yes, but that's the whole point."
+2014.13-854,2,15131,sonia_sotomayor,scotus_justice,3035.444,3040.536,"Mr. Phillips, why do you think that the court below just didn't make that holding?"
+2014.13-854,2,19760,carter_g_phillips,,3048.313,3048.688,--Right.
+2014.13-854,2,15131,sonia_sotomayor,scotus_justice,3048.688,3049.61,But they didn't.
+2014.13-854,2,19760,carter_g_phillips,,3067.587,3067.948,Yes.
+2014.13-854,2,15139,stephen_g_breyer,scotus_justice,3114.661,3115.098,All right.
+2014.13-854,2,19760,carter_g_phillips,,3120.065,3121.252,"Well, you always get an answer from me."
+2014.13-854,2,15139,stephen_g_breyer,scotus_justice,3121.252,3144.352,"My question is, where are we going if we start carving out one aspect of the patent litigation, namely the construction, and say that fact matters underlying that, root facts, even when they are one witness versus another, are for the court on review to decide, but in all other matters, they're really clear error."
+2014.13-854,2,19760,carter_g_phillips,,3151.411,3151.88,I do.
+2014.13-854,2,15139,stephen_g_breyer,scotus_justice,3163.236,3164.939,"Oh, you've seen the figures in here."
+2014.13-854,2,19760,carter_g_phillips,,3173.545,3183.757,"But those numbers have continued to come down, and the reason they've continued to come down is that there was an enormous fight between both the district courts and the Federal Circuit about the methodology of claim construction."
+2014.13-854,2,15084,ruth_bader_ginsburg,scotus_justice,3239.36,3240.36,You're talking about Skidmore.
+2014.13-854,2,19760,carter_g_phillips,,3240.36,3241.062,"Skidmore, thank you."
+2014.13-854,2,15049,antonin_scalia,scotus_justice,3252.432,3255.306,"If you're right, we'll say the same thing."
+2014.13-854,2,19760,carter_g_phillips,,3259.133,3268.238,"--Well, it's a measure of -- but at least it gives the district court an incentive to do harder work in order to be in a position to lay claim to more deference."
+2014.13-854,2,15086,john_g_roberts_jr,scotus_justice,3365.729,3367.291,"Thank you, counsel."
+2014.13-854,3,45148,william_m_jay,,3369.244,3376.023,"Thank you, Mr. Chief Justice."
+2014.13-854,3,15084,ruth_bader_ginsburg,scotus_justice,3415.633,3418.381,Why does the government disagree with you about that?
+2014.13-854,3,45148,william_m_jay,,3418.381,3427.534,"The government agrees with us 100 percent about figure one and I think the government says, and we agree with this as well, the error on figure one is itself a sufficient basis to remand."
+2014.13-854,3,15084,ruth_bader_ginsburg,scotus_justice,3437.169,3442.59,From the facts that you say are facts and the government says do not qualify as to their test.
+2014.13-854,3,45148,william_m_jay,,3442.59,3453.618,"The government says that the SEC point about presumed meaning, and I think -- the government doesn't pay sufficient attention to the presumed meaning fact-finding."
+2014.13-854,3,15131,sonia_sotomayor,scotus_justice,3500.99,3503.081,"I'm sorry, you didn't answer my question."
+2014.13-854,3,45148,william_m_jay,,3511.812,3518.231,"It can't say that, Justice Sotomayor, because its own doctrine says -- what you're positing is some kind of disclaimer, and a disclaimer--"
+2014.13-854,3,15131,sonia_sotomayor,scotus_justice,3518.231,3521.075,"No, I'm positing an estoppel of some sort."
+2014.13-854,3,45148,william_m_jay,,3521.075,3529.243,"--Well, whichever way you see it, that rises -- that requires a clear and convincing standard, a clear and unambiguous standard that they did not apply here, they could not apply here."
+2014.13-854,3,15086,john_g_roberts_jr,scotus_justice,3539.562,3540.626,"Thank you, counsel."
+2014.13-854,3,45148,william_m_jay,,3541.71,3542.979,Thank you.

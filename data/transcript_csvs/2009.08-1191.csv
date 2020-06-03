@@ -1,0 +1,194 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2009.08-1191,0,15086,john_g_roberts_jr,scotus_justice,0.0,6.654,"We will hear argument next this morning in Case 08-1191, Morrison v. National Australia Bank."
+2009.08-1191,0,42594,thomas_dubbs,,7.27,10.206,"Mr. Chief Justice, and may it please the Court:"
+2009.08-1191,0,15049,antonin_scalia,scotus_justice,49.981,59.805,"I guess there's also the issue of whether, if everybody is agreed that it is not a jurisdictional question, that's the end of the case."
+2009.08-1191,0,42594,thomas_dubbs,,64.006,74.464,"Your Honor, it's our view that that -- that is a possible outcome, which of course as I understand it would leave -- leave the decision below standing."
+2009.08-1191,0,15049,antonin_scalia,scotus_justice,86.539,88.558,But you are not -- you are not pressing that?
+2009.08-1191,0,42594,thomas_dubbs,,88.558,98.164,"--No, we still believe that the best way to handle the case is to remand; but we leave that for the Court's discretion."
+2009.08-1191,0,15084,ruth_bader_ginsburg,scotus_justice,98.164,101.532,Why wouldn't that simply be going through the motions?
+2009.08-1191,0,42594,thomas_dubbs,,113.106,134.27,"Well, Your Honor, the question and the issue is inherently somewhat speculative as to what the Second Circuit would do, but we would rely not necessarily only on the subject matter jurisdiction issues being addressed -- and Your Honor is quite right that they may say, well, the label's changed, but everything else stays the same."
+2009.08-1191,0,15049,antonin_scalia,scotus_justice,176.413,178.532,"Well, it seems to me that isn't worth anything, right?"
+2009.08-1191,0,42594,thomas_dubbs,,181.667,183.185,"Well, they haven't conducted--"
+2009.08-1191,0,15049,antonin_scalia,scotus_justice,183.185,183.768,They just -- just appeared in court.
+2009.08-1191,0,42594,thomas_dubbs,,183.768,189.339,"--Well, they haven't conducted a full rulemaking that would be entitled to Chevron deference."
+2009.08-1191,0,15049,antonin_scalia,scotus_justice,189.339,189.639,Right.
+2009.08-1191,0,42594,thomas_dubbs,,189.639,191.889,But they have done something less than that.
+2009.08-1191,0,15049,antonin_scalia,scotus_justice,204.849,207.634,"Except that they don't come out on your side anyway, do they?"
+2009.08-1191,0,42594,thomas_dubbs,,207.634,217.09,"--Well, Your Honor, they come out on our side except for that last turn they make at the end, where they -- they bring in the intervening clause at the end of the last act."
+2009.08-1191,0,15084,ruth_bader_ginsburg,scotus_justice,218.609,223.744,How could they come down on your side if they say there is no private right of action?
+2009.08-1191,0,42594,thomas_dubbs,,223.744,226.028,"--Well, they didn't say there was no private right of action."
+2009.08-1191,0,15049,antonin_scalia,scotus_justice,240.252,241.788,We are only talking about this case.
+2009.08-1191,0,42594,thomas_dubbs,,242.321,242.487,--Sorry?
+2009.08-1191,0,15049,antonin_scalia,scotus_justice,242.487,244.587,"--We are only talking about this case, right?"
+2009.08-1191,0,42594,thomas_dubbs,,250.991,251.343,They--
+2009.08-1191,0,15049,antonin_scalia,scotus_justice,251.343,262.783,"So what could -- and that is going to change the Second Circuit's view of things, the fact that, in addition to their initial opinion, it has been reconfirmed, although on different grounds, by -- by the government?"
+2009.08-1191,0,42594,thomas_dubbs,,262.783,264.834,--Your Honor--
+2009.08-1191,0,15049,antonin_scalia,scotus_justice,264.834,266.352,There is no reason to send it back.
+2009.08-1191,0,42594,thomas_dubbs,,266.352,268.336,"--Well, Your Honor, it's -- it's up to the Court."
+2009.08-1191,0,15084,ruth_bader_ginsburg,scotus_justice,279.108,285.178,"Mr. Dubbs, you said something that I thought quite revealing in this -- in your brief."
+2009.08-1191,0,42594,thomas_dubbs,,337.092,337.778,No--
+2009.08-1191,0,15084,ruth_bader_ginsburg,scotus_justice,337.778,342.146,"Not just a question of proper forum, but the proper law?"
+2009.08-1191,0,42594,thomas_dubbs,,342.146,343.13,"--No, Your Honor."
+2009.08-1191,0,15084,ruth_bader_ginsburg,scotus_justice,369.411,376.267,"If all that were done and it were never communicated, there wouldn't be any violation."
+2009.08-1191,0,42594,thomas_dubbs,,376.267,377.601,"--That's correct, Your Honor."
+2009.08-1191,0,15084,ruth_bader_ginsburg,scotus_justice,377.601,382.355,And the communication was done in Australia by the Australian bank.
+2009.08-1191,0,42594,thomas_dubbs,,382.355,395.479,"The communication was done between Florida and -- and Australia, and the senior management of HomeSide in Florida created those numbers with the expectation and the knowledge that those would go into the financial statement."
+2009.08-1191,0,15084,ruth_bader_ginsburg,scotus_justice,430.169,434.723,Let's -- let's go back to the question that I asked you about the appropriate forum.
+2009.08-1191,0,42594,thomas_dubbs,,473.348,474.665,"--We meant two things, Your Honor."
+2009.08-1191,0,15068,samuel_a_alito_jr,scotus_justice,548.46,554.548,"Well, wouldn't your clients have an adequate remedy under Australian law in Australia, in the Australian court system?"
+2009.08-1191,0,42594,thomas_dubbs,,554.548,555.983,We might or we might not.
+2009.08-1191,0,15068,samuel_a_alito_jr,scotus_justice,557.852,559.785,"Well, let's assume that -- that they do not."
+2009.08-1191,0,42594,thomas_dubbs,,569.409,570.309,There--
+2009.08-1191,0,15068,samuel_a_alito_jr,scotus_justice,570.309,571.292,--that should override that?
+2009.08-1191,0,42594,thomas_dubbs,,571.292,573.544,--There is a strong United States interest.
+2009.08-1191,0,15084,ruth_bader_ginsburg,scotus_justice,587.871,595.958,"If we had only HomeSide's conduct, nothing else, there wouldn't be any violation of 10(b); is that right?"
+2009.08-1191,0,42594,thomas_dubbs,,595.958,597.06,"We do not agree with that, Your Honor."
+2009.08-1191,0,15084,ruth_bader_ginsburg,scotus_justice,607.181,609.45,But nothing has happened.
+2009.08-1191,0,42594,thomas_dubbs,,617.287,622.191,"--Your -- Your Honor, that goes to a different element of the cause of action."
+2009.08-1191,0,15084,ruth_bader_ginsburg,scotus_justice,627.929,638.887,"Now, I concede your argument that a big component of this fraud was what went on in Florida, but it needed to be disclosed to the public."
+2009.08-1191,0,42594,thomas_dubbs,,644.374,647.409,It was done in Australia and we can prove that.
+2009.08-1191,0,15068,samuel_a_alito_jr,scotus_justice,714.814,715.266,Which of your standards--
+2009.08-1191,0,15139,stephen_g_breyer,scotus_justice,715.266,718.55,"Now, that's -- I would like you to follow that up specifically."
+2009.08-1191,0,42594,thomas_dubbs,,813.223,815.823,I will try to keep the subparts in mind.
+2009.08-1191,0,15049,antonin_scalia,scotus_justice,949.659,962.817,"Well, but -- but Australia says: Look, it's up to us to decide whether there has been a misrepresentation, point one; and whether it's been relied upon by the -- by the plaintiffs, point two."
+2009.08-1191,0,42594,thomas_dubbs,,982.896,989.8,"Well, let me deal with the dragging in part in a minute, because that's subliminally very important to the case."
+2009.08-1191,0,15049,antonin_scalia,scotus_justice,1012.712,1013.628,Not to these plaintiffs.
+2009.08-1191,0,42594,thomas_dubbs,,1013.628,1014.245,--Sorry--
+2009.08-1191,0,15049,antonin_scalia,scotus_justice,1014.245,1018.449,You -- you have to join the misrepresentation to the plaintiff.
+2009.08-1191,0,42594,thomas_dubbs,,1018.449,1019.615,--We have joined--
+2009.08-1191,0,15049,antonin_scalia,scotus_justice,1019.615,1024.769,The only misrepresentation to these plaintiffs was made in Australia by an Australian company.
+2009.08-1191,0,42594,thomas_dubbs,,1024.769,1028.388,--There are two ways to connect the fraud to the plaintiffs.
+2009.08-1191,0,15049,antonin_scalia,scotus_justice,1071.43,1072.213,But that -- that isn't the issue.
+2009.08-1191,0,42594,thomas_dubbs,,1079.783,1080.467,They--
+2009.08-1191,0,15049,antonin_scalia,scotus_justice,1080.467,1093.126,We don't want the determination of whether there has been a misrepresentation on the Australian exchange and whether Australian purchasers relied upon that misrepresentation to be determined by an American court.
+2009.08-1191,0,42594,thomas_dubbs,,1093.126,1096.744,"--And we say more power to you, you can decide that question."
+2009.08-1191,0,15084,ruth_bader_ginsburg,scotus_justice,1097.311,1109.819,"Not if it's decided here, unless you want to say, the Australian court to say, the United States taking this case is so outrageous that we will not respect its judgment."
+2009.08-1191,0,42594,thomas_dubbs,,1125.162,1126.464,"--That's correct, Your Honor."
+2009.08-1191,0,15086,john_g_roberts_jr,scotus_justice,1219.605,1221.988,"Those derivatives are not at issue here, right?"
+2009.08-1191,0,42594,thomas_dubbs,,1221.988,1222.89,"--Well, they are only--"
+2009.08-1191,0,15086,john_g_roberts_jr,scotus_justice,1222.89,1224.407,"I presume -- I'm sorry, go ahead."
+2009.08-1191,0,42594,thomas_dubbs,,1224.407,1234.03,"--They are only at issue in the following sense, which is that the position on the mortgage servicing rights was hedged in New York."
+2009.08-1191,0,15084,ruth_bader_ginsburg,scotus_justice,1253.557,1254.973,I thought Morrison--
+2009.08-1191,0,42594,thomas_dubbs,,1254.973,1256.525,--disputing that most of the effects were over there.
+2009.08-1191,0,15084,ruth_bader_ginsburg,scotus_justice,1256.525,1266.198,"--Mr. Dubbs, Morrison, the first-named plaintiff, was a derivative holder."
+2009.08-1191,0,42594,thomas_dubbs,,1266.198,1268.0,"No, Your Honor."
+2009.08-1191,0,15084,ruth_bader_ginsburg,scotus_justice,1278.172,1294.983,"But do you have -- you have two classes of plaintiffs, one the Australians, who bought their shares in Australia; then you have Morrison, who has an ADR, and who is dismissed because he wasn't able to show damages."
+2009.08-1191,0,42594,thomas_dubbs,,1294.983,1295.883,--That's true.
+2009.08-1191,0,15084,ruth_bader_ginsburg,scotus_justice,1299.469,1304.604,So what U.S. investor was harmed?
+2009.08-1191,0,42594,thomas_dubbs,,1304.604,1309.925,"The -- the question is, were there effects on the U.S. market?"
+2009.08-1191,0,15139,stephen_g_breyer,scotus_justice,1346.262,1348.364,What do you -- do you want to finish?
+2009.08-1191,0,42594,thomas_dubbs,,1348.364,1348.864,"No, Your Honor."
+2009.08-1191,0,15139,stephen_g_breyer,scotus_justice,1348.864,1350.88,"Then -- I mean, I can see."
+2009.08-1191,0,42594,thomas_dubbs,,1362.103,1362.603,Yes.
+2009.08-1191,0,15139,stephen_g_breyer,scotus_justice,1362.603,1370.523,"Because what Australia is actually saying is what we don't like about -- about the American system, you know, their -- their common criticisms of class actions."
+2009.08-1191,0,42594,thomas_dubbs,,1400.125,1402.558,"Well, it was -- there are two issues."
+2009.08-1191,0,15113,anthony_m_kennedy,scotus_justice,1496.67,1500.805,I'm not sure that it happens in advance of considerable discovery.
+2009.08-1191,0,42594,thomas_dubbs,,1514.863,1519.35,"--I do know that and let me answer briefly, because I want to reserve my time for rebuttal."
+2009.08-1191,0,15086,john_g_roberts_jr,scotus_justice,1615.224,1618.676,"Thank you, Mr. Dubbs."
+2009.08-1191,1,25061,george_t_conway_iii,,1628.432,1634.436,"Thank you, Mr. Chief Justice, and may it please the Court: The judgment of the court of appeals should be affirmed for two reasons."
+2009.08-1191,1,15049,antonin_scalia,scotus_justice,1714.019,1719.023,"Well, what is your test for whether -- whether it's being applied internationally or not?"
+2009.08-1191,1,25061,george_t_conway_iii,,1719.023,1747.606,"--Well, our test is that, at a minimum, section 10b should be held not to apply to transactions involving shares of foreign issues on foreign exchanges, because that presents the greatest danger of conflict of foreign law, particularly in the context of the modern section 10b implied right, which has the fraud on the market presumption and holds issuers liable, as here for example, for two and a half years of trading, all on an Australian exchange."
+2009.08-1191,1,15060,john_paul_stevens,scotus_justice,1760.783,1773.824,May I ask you on that point: Supposing the class of plaintiffs included a group of Americans who were shareholders of the Australian bank and who -- but who purchased their stock over the Australian exchange.
+2009.08-1191,1,25061,george_t_conway_iii,,1773.824,1777.609,"We would -- well, we would submit that that rule should be the same."
+2009.08-1191,1,15139,stephen_g_breyer,scotus_justice,1805.158,1806.442,Give me reasons for it.
+2009.08-1191,1,25061,george_t_conway_iii,,1831.384,1832.001,--Yes.
+2009.08-1191,1,15139,stephen_g_breyer,scotus_justice,1832.001,1835.322,"Conduct took place in the United States, a terrible fraud."
+2009.08-1191,1,25061,george_t_conway_iii,,1851.747,1859.27,"Well, I disagree with that, Your Honor, I think the fraud is carried out when the transaction occurs in a foreign country."
+2009.08-1191,1,15139,stephen_g_breyer,scotus_justice,1861.786,1862.972,Sign the paper here in New York.
+2009.08-1191,1,25061,george_t_conway_iii,,1862.972,1863.338,--Yes.
+2009.08-1191,1,15139,stephen_g_breyer,scotus_justice,1863.338,1868.459,"Sign the paper, right here, and give me the money, because I have an urgent appointment."
+2009.08-1191,1,25061,george_t_conway_iii,,1868.459,1869.892,"Yes, sir."
+2009.08-1191,1,15139,stephen_g_breyer,scotus_justice,1879.331,1887.004,"Yes, but your position and hers is: That's no more a valid claim than this one or any other one we dream up."
+2009.08-1191,1,25061,george_t_conway_iii,,1890.471,1901.493,"Well, I think that -- I think the problem is, in order to have that conduct swept within the statute, you have to ignore the language and the presumption against extraterritoriality."
+2009.08-1191,1,15139,stephen_g_breyer,scotus_justice,1923.642,1924.292,--Or any other.
+2009.08-1191,1,25061,george_t_conway_iii,,1925.442,1925.894,--That's correct.
+2009.08-1191,1,15113,anthony_m_kennedy,scotus_justice,1959.097,1970.821,"Is the government going to tell us that its test, which differs from the foreign exchange test, is based on considerations like those suggested in Justice Breyer's Brooklyn Bridge hypothetical?"
+2009.08-1191,1,25061,george_t_conway_iii,,1970.821,1971.954,--I think they do.
+2009.08-1191,1,15084,ruth_bader_ginsburg,scotus_justice,1998.072,1998.622,What about the--
+2009.08-1191,1,15113,anthony_m_kennedy,scotus_justice,1998.622,2015.116,Would the limitations on discovery give you substantial protection were we to adopt the government's test or say the foreign exchange test with the subset exceptions for the -- that takes account of the government's test?
+2009.08-1191,1,25061,george_t_conway_iii,,2015.116,2031.562,"--Your Honor, I think the problem with the government's test and with the Second Circuit's test, is that it would still allow the application of U.S. law in a manner that would infringe the sovereign authority of other nations."
+2009.08-1191,1,15113,anthony_m_kennedy,scotus_justice,2074.055,2080.975,Is it a consideration that this discovery alone would be an offense to foreign--
+2009.08-1191,1,25061,george_t_conway_iii,,2080.975,2082.077,"Yes, discovery alone."
+2009.08-1191,1,15049,antonin_scalia,scotus_justice,2100.206,2118.0,"I'm not sure how you interpret the language that you -- that you just read, when you say to use or employ in connection with the purchase or sale of any security registered on the National Security Exchange or any security not so registered."
+2009.08-1191,1,25061,george_t_conway_iii,,2129.489,2130.808,It should only be applied--
+2009.08-1191,1,15049,antonin_scalia,scotus_justice,2130.808,2134.026,Securities purchased and sold in the United States?
+2009.08-1191,1,25061,george_t_conway_iii,,2134.46,2135.426,"--That -- that's correct, Your Honor."
+2009.08-1191,1,15084,ruth_bader_ginsburg,scotus_justice,2152.72,2154.637,--Purchased -- purchased or sold?
+2009.08-1191,1,25061,george_t_conway_iii,,2154.637,2156.505,"Purchased or sold, Your Honor."
+2009.08-1191,1,15049,antonin_scalia,scotus_justice,2156.505,2169.396,What if it's not -- what if it -- what if the fraud produces neither a purchase or a sale but induces somebody to hold on to stock that otherwise the person would dispose of?
+2009.08-1191,1,25061,george_t_conway_iii,,2169.396,2174.967,"Well, I -- I don't know that that would state a claim, a private claim under Blue Chip Stamps."
+2009.08-1191,1,15086,john_g_roberts_jr,scotus_justice,2201.617,2215.442,"Under these same facts if you had -- altering according to the hypothetical, you had U.S. plaintiffs who purchased National Australia Bank ADRs on the New York exchange, you don't doubt that they can sue, do you?"
+2009.08-1191,1,25061,george_t_conway_iii,,2215.442,2223.029,"No, and in fact, we told the district court, we did not move to defense on extraterritoriality grounds the claims of Mr. Morrison, who inexplicably is still here."
+2009.08-1191,1,15086,john_g_roberts_jr,scotus_justice,2223.029,2223.296,--Right.
+2009.08-1191,1,25061,george_t_conway_iii,,2223.296,2240.473,"We argued that Mr. Morrison's claims should be defeated on the grounds that he had no damages, which was an absolutely ironclad calculation best based on a -- on a provision of the PSLRA, and we also argued that all of the claims should be dismissed for failure to plead fraud with the requisite particularity of the PSLRA."
+2009.08-1191,1,15086,john_g_roberts_jr,scotus_justice,2256.483,2260.571,And presumably that would impose the same discovery on the bank as the Sudanese case.
+2009.08-1191,1,25061,george_t_conway_iii,,2260.571,2262.756,"--It could, Your Honor, that's absolutely true."
+2009.08-1191,1,15113,anthony_m_kennedy,scotus_justice,2300.993,2316.336,"--Suppose there were litigation with substantial allegations of wire fraud violations as predicate for RICO violations, and the case begins to proceed, and then there is a second cause of action under the securities law."
+2009.08-1191,1,25061,george_t_conway_iii,,2334.231,2337.702,I think the -- I think you have to take each statute separately.
+2009.08-1191,1,15084,ruth_bader_ginsburg,scotus_justice,2361.9,2388.8,"On the -- on the extraterritorial presumption against it, your colleague on the other side tells us that in all the cases where the presumption applied, all of the conduct was someplace else, and they give the Aramco case and say that was an employee hired in -- was it Saudi Arabia--"
+2009.08-1191,1,25061,george_t_conway_iii,,2388.8,2389.434,--That--
+2009.08-1191,1,15084,ruth_bader_ginsburg,scotus_justice,2389.434,2391.669,--and everything happened outside the country.
+2009.08-1191,1,25061,george_t_conway_iii,,2391.669,2392.419,"--Well, my--"
+2009.08-1191,1,15084,ruth_bader_ginsburg,scotus_justice,2392.419,2399.256,"Here, I mean, you have to concede that a component of the alleged fraud occurred in Florida."
+2009.08-1191,1,25061,george_t_conway_iii,,2399.256,2411.147,"--We do concede that some of the conduct that ultimately, you know, led -- in a but-for causal relationship to what happened in the Australia occurred in the United States, but that's true in a lot of other cases."
+2009.08-1191,1,15049,antonin_scalia,scotus_justice,2568.457,2569.493,"Well, is that your only point?"
+2009.08-1191,1,25061,george_t_conway_iii,,2573.461,2574.028,That's--
+2009.08-1191,1,15049,antonin_scalia,scotus_justice,2574.028,2575.413,--were read as broadly.
+2009.08-1191,1,25061,george_t_conway_iii,,2575.413,2576.413,--That's absolutely right.
+2009.08-1191,1,15139,stephen_g_breyer,scotus_justice,2659.55,2664.454,"How does it hurt the other countries if what we would say on their reading of this is, Congress has said,"
+2009.08-1191,1,25061,george_t_conway_iii,,2687.468,2688.753,"--Well, it hurts Australia--"
+2009.08-1191,1,15139,stephen_g_breyer,scotus_justice,2688.753,2690.37,Or France or England or any of these others?
+2009.08-1191,1,25061,george_t_conway_iii,,2690.37,2694.057,--Exactly the same way this Court said it hurts in Empagran.
+2009.08-1191,1,15086,john_g_roberts_jr,scotus_justice,2774.224,2775.724,"Thank you, Mr. Conway."
+2009.08-1191,2,36594,matthew_d_roberts,,2785.663,2787.965,"Mr. Chief Justice, and may it please the Court:"
+2009.08-1191,2,15086,john_g_roberts_jr,scotus_justice,2805.994,2809.195,There are -- there are a lot of moving parts in that test.
+2009.08-1191,2,36594,matthew_d_roberts,,2817.884,2821.019,"No, Your Honor, we don't think so."
+2009.08-1191,2,15086,john_g_roberts_jr,scotus_justice,2847.32,2849.522,That's only for the private companies?
+2009.08-1191,2,36594,matthew_d_roberts,,2849.522,2849.905,--That's right.
+2009.08-1191,2,15086,john_g_roberts_jr,scotus_justice,2862.846,2866.865,"Well, what if -- what if significant elements of the fraud occur in four different countries?"
+2009.08-1191,2,36594,matthew_d_roberts,,2866.865,2875.571,--If -- if -- the critical question is whether there's significant conduct here that's material to the broad success.
+2009.08-1191,2,15139,stephen_g_breyer,scotus_justice,2899.269,2901.286,"So it's not as easy to apply this, you think?"
+2009.08-1191,2,36594,matthew_d_roberts,,2918.128,2919.497,Schmidt is in Germany?
+2009.08-1191,2,15139,stephen_g_breyer,scotus_justice,2919.497,2920.247,Schmidt is in Germany.
+2009.08-1191,2,36594,matthew_d_roberts,,2920.797,2921.897,The defrauder is in Germany?
+2009.08-1191,2,15139,stephen_g_breyer,scotus_justice,2921.897,2929.603,All -- everything -- you have to assume he's going to buy the thing on the exchange in Germany but the fraud is in Brooklyn.
+2009.08-1191,2,36594,matthew_d_roberts,,2946.628,2947.897,"I'm sorry, Your Honor, can I ask you if everybody is in Germany?"
+2009.08-1191,2,15139,stephen_g_breyer,scotus_justice,2947.897,2948.997,--No.
+2009.08-1191,2,36594,matthew_d_roberts,,2954.134,2955.117,Okay.
+2009.08-1191,2,15139,stephen_g_breyer,scotus_justice,2955.117,2962.055,"And they communicate the lie by calling Schmidt in Berlin on the telephone, directly."
+2009.08-1191,2,36594,matthew_d_roberts,,2962.055,2963.757,Okay.
+2009.08-1191,2,15049,antonin_scalia,scotus_justice,2963.757,2965.123,Schmidt is the German.
+2009.08-1191,2,36594,matthew_d_roberts,,2969.575,2971.193,I'm sorry.
+2009.08-1191,2,15139,stephen_g_breyer,scotus_justice,2971.193,2972.493,I'm looking--
+2009.08-1191,2,36594,matthew_d_roberts,,2972.493,2975.312,"The question is, is there significant conduct in the United States--"
+2009.08-1191,2,15139,stephen_g_breyer,scotus_justice,2975.312,2979.431,"--No, I'm focusing on the last pages of your brief."
+2009.08-1191,2,36594,matthew_d_roberts,,2984.351,2984.601,--That's right.
+2009.08-1191,2,15139,stephen_g_breyer,scotus_justice,2989.653,2991.421,I'm accepting that for the moment.
+2009.08-1191,2,36594,matthew_d_roberts,,3029.361,3032.329,--If the conduct is directed or controlled from the United States--
+2009.08-1191,2,15139,stephen_g_breyer,scotus_justice,3032.329,3032.813,Correct.
+2009.08-1191,2,36594,matthew_d_roberts,,3032.813,3037.133,--then it would -- then the direct causation test would be -- would be met.
+2009.08-1191,2,15139,stephen_g_breyer,scotus_justice,3041.335,3042.535,You think that's the question here?
+2009.08-1191,2,36594,matthew_d_roberts,,3047.22,3059.977,"--In terms of a private plaintiff suing, in our view, the question is whether the United States' conduct has a close enough connection to their -- to -- to their injury--"
+2009.08-1191,2,15139,stephen_g_breyer,scotus_justice,3059.977,3062.743,Let's skip -- skip my question because other people may ask.
+2009.08-1191,2,15068,samuel_a_alito_jr,scotus_justice,3062.743,3077.939,"If the plaintiffs in this case had clearly alleged in their complaint that nobody in Australia reviewed the numbers that were sent from Florida to any degree, they just directly copied them, some low-level clerk directly copied them, would the direct cause test be met?"
+2009.08-1191,2,36594,matthew_d_roberts,,3077.939,3082.557,"--Yes, if the action was just ministerial over overseas, it would -- it would be met."
+2009.08-1191,2,15084,ruth_bader_ginsburg,scotus_justice,3094.214,3094.964,Mr. Roberts--
+2009.08-1191,2,15113,anthony_m_kennedy,scotus_justice,3094.964,3097.833,"Well, then you give no weight to the fact that it was on the Australian exchange?"
+2009.08-1191,2,36594,matthew_d_roberts,,3097.833,3128.787,"The -- the fact that the transaction happens on the Australian exchange is not dispositive, because if -- if somebody in the United States is directly -- is -- is executing the fraud -- if it turned on just a transaction on the Australian exchange, then a domestic investor could be injured by a fraud that is hatched entirely here that is executed entirely here, and he is tricked into executing a transaction on an overseas exchange."
+2009.08-1191,2,15084,ruth_bader_ginsburg,scotus_justice,3128.787,3133.405,"--Mr. Roberts, because your time is running out, there is a basic question here."
+2009.08-1191,2,36594,matthew_d_roberts,,3156.355,3167.828,"Yes, the -- the -- the private litigants are -- have numerous elements that they have to show that the SEC doesn't have to show: Reliance, loss, loss causation."
+2009.08-1191,2,15049,antonin_scalia,scotus_justice,3185.124,3201.734,"I am frankly less concerned with your -- your test for the private cause of action, the direct cause test -- I -- I guess I could work with that -- than I am with your test for -- for the jurisdiction of the -- of the SEC, which is sort of a totality of the circumstances test."
+2009.08-1191,2,36594,matthew_d_roberts,,3210.255,3217.928,"We don't think it's a -- a jurisdictional question in the sense of the subject matter jurisdiction, Your Honor."
+2009.08-1191,2,15049,antonin_scalia,scotus_justice,3223.499,3224.449,"Well, okay."
+2009.08-1191,2,36594,matthew_d_roberts,,3224.449,3239.292,"And it's true that bright line rules -- it's true that bright line rules are easier to administer, but the -- there is a danger in bright line rules for fraud prohibitions because they can provide a road map for evasion of the statute."
+2009.08-1191,2,15086,john_g_roberts_jr,scotus_justice,3239.292,3243.994,Do you have any indication that our friends around the world are comfortable with your test?
+2009.08-1191,2,36594,matthew_d_roberts,,3243.994,3252.949,"Well, the briefs that have been filed by Australia and United Kingdom and France are limited to the private right of action."
+2009.08-1191,2,15049,antonin_scalia,scotus_justice,3288.705,3293.24,"I guess we don't have to say anything about -- about what the government can do, do we?"
+2009.08-1191,2,36594,matthew_d_roberts,,3293.24,3294.423,"No, Your Honor."
+2009.08-1191,2,15086,john_g_roberts_jr,scotus_justice,3303.445,3311.515,"Mr. Roberts, you urge deference to the SEC's interpretation in administrative adjudications?"
+2009.08-1191,2,36594,matthew_d_roberts,,3311.515,3312.634,Yes.
+2009.08-1191,2,15086,john_g_roberts_jr,scotus_justice,3312.634,3317.353,Do you have anything other than those two proceedings over the last 35 years?
+2009.08-1191,2,36594,matthew_d_roberts,,3317.353,3320.305,Those are the two administrative adjudications.
+2009.08-1191,2,15086,john_g_roberts_jr,scotus_justice,3392.35,3393.367,"Thank you, Mr. Roberts."
+2009.08-1191,3,42594,thomas_dubbs,,3396.285,3400.756,"Thank you, Your Honor."
+2009.08-1191,3,15086,john_g_roberts_jr,scotus_justice,3596.245,3597.295,"Thank you, counsel."

@@ -1,0 +1,71 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1993.91-1950,0,15141,william_h_rehnquist,scotus_justice,0.0,10.456,"We'll hear argument next in Number 91-1950, American Dredging Company v. William Robert Miller."
+1993.91-1950,0,43425,thomas_j_wagner,,82.654,109.304,"Mr. Chief Justice, may it please the Court:"
+1993.91-1950,0,15084,ruth_bader_ginsburg,scotus_justice,157.968,166.074,"Wasn't the first time that this Court enunciated that doctrine and recognized it was not in admiralty, it was in a diversity case... Gulf Oil?"
+1993.91-1950,0,43425,thomas_j_wagner,,166.074,187.487,"Your Honor, I would suggest that the first time this Court officially recognized that doctrine was in the Belgenland case in 1885, where it recognized that the Court could dismiss a claim in dicta for the same reasons as forum non conveniens, although they did not articulate the Latin phrase, forum non conveniens."
+1993.91-1950,0,15084,ruth_bader_ginsburg,scotus_justice,187.487,210.42,"My concern is that you're constantly associating this with admiralty, and yet as far as I know it was part of equity, and it was also... in Gulf Oil it was a straight law case for damages, so forum non conveniens seems to me across-the-board doctrine that applies in cases at law, equity, and in admiralty."
+1993.91-1950,0,43425,thomas_j_wagner,,210.42,222.395,"Your Honor, the first articulation of the doctrine using the term, forum non conveniens, did appear in a nonadmiralty case, but that case draws its roots, or has its roots exclusively in the admiralty."
+1993.91-1950,0,15141,william_h_rehnquist,scotus_justice,247.093,247.826,What about in England--
+1993.91-1950,0,43425,thomas_j_wagner,,259.769,260.22,Right.
+1993.91-1950,0,15141,william_h_rehnquist,scotus_justice,260.22,263.655,It was applied in admiralty cases and in other kinds of cases.
+1993.91-1950,0,43425,thomas_j_wagner,,263.655,276.129,"Your Honor, I... Mr. Chief Justice, we agree that... with that principle, that is now a doctrine, whose efficacy, whose utility has been recognized in many other areas of law."
+1993.91-1950,0,15049,antonin_scalia,scotus_justice,276.129,289.455,"Mr. Wagner, even if you're correct that it was first enunciated in dictum in admiralty cases in this country, was it first enunciated in the common law in admiralty cases?"
+1993.91-1950,0,43425,thomas_j_wagner,,295.859,303.28,"I think, Justice Scalia, that the first consideration of it that I'm aware of was in cases in Scotland which were not--"
+1993.91-1950,1,42690,timothy_j_falcon,,1438.985,1447.923,"Mr. Chief Justice, and may it please the Court:"
+1993.91-1950,1,15084,ruth_bader_ginsburg,scotus_justice,1479.96,1490.167,"Mr. Falcon, one puzzling piece of this is that Louisiana now has a general forum non conveniens provision, and it exempts Jones Act and maritime."
+1993.91-1950,1,42690,timothy_j_falcon,,1510.331,1515.049,"--If I can clarify, the Louisiana statute is not now a broad forum non conveniens application."
+1993.91-1950,1,15084,ruth_bader_ginsburg,scotus_justice,1538.831,1540.516,Not a transfer--
+1993.91-1950,1,42690,timothy_j_falcon,,1540.516,1554.007,"--I'm sorry, a dismissal on forum non conveniens to an out-of-State court if it was premised on a Federal statute only, and at the same time, they decided to exempt the Jones Act from that type of dismissal."
+1993.91-1950,1,15084,ruth_bader_ginsburg,scotus_justice,1554.007,1555.942,--But not the FELA.
+1993.91-1950,1,42690,timothy_j_falcon,,1555.942,1564.214,"Well, in fact, as the statute operates, the FELA claim can be transferred... I'm sorry, dismissed on forum non conveniens."
+1993.91-1950,1,15084,ruth_bader_ginsburg,scotus_justice,1564.214,1572.201,"So what was the reason for distinguishing these two claims that are so close in substance, FELA and Jones Act?"
+1993.91-1950,1,42690,timothy_j_falcon,,1572.201,1572.987,"Yes, ma'am."
+1993.91-1950,1,15092,sandra_day_oconnor,scotus_justice,1612.028,1623.836,"Well, what about the situation of a case where one of the parties is foreign and the operative events occur beyond the borders of the United States?"
+1993.91-1950,1,42690,timothy_j_falcon,,1631.09,1634.626,The first thing you'd have to look at in that situation is whether or not the Jones Act applies.
+1993.91-1950,1,15113,anthony_m_kennedy,scotus_justice,1671.382,1676.869,"Well, the Louisiana statute doesn't require that it be... that the corporation... the defendant be doing business there, does it?"
+1993.91-1950,1,42690,timothy_j_falcon,,1678.819,1682.772,--The Louisiana statute is the same requirements as this Court's constitutional requirements.
+1993.91-1950,1,15113,anthony_m_kennedy,scotus_justice,1682.772,1685.058,"All right, but that's minimum contacts, not doing business."
+1993.91-1950,1,42690,timothy_j_falcon,,1685.058,1685.824,Right.
+1993.91-1950,1,15113,anthony_m_kennedy,scotus_justice,1699.651,1704.953,But that's not... is that a limitation on the jurisdictions in which the defendant may be sued?
+1993.91-1950,1,42690,timothy_j_falcon,,1704.953,1707.655,--No.
+1993.91-1950,1,15084,ruth_bader_ginsburg,scotus_justice,1718.213,1722.147,But you have to meet a venue requirement in order to bring a Jones Act case.
+1993.91-1950,1,42690,timothy_j_falcon,,1722.147,1727.735,"Yes, but if this case... if we did not meet the jurisdiction requirements, American Dredging could have got out."
+1993.91-1950,1,15092,sandra_day_oconnor,scotus_justice,1733.539,1736.907,Was American Dredging doing business in Louisiana?
+1993.91-1950,1,42690,timothy_j_falcon,,1736.907,1738.443,"Yes, ma'am, they were doing business."
+1993.91-1950,1,15092,sandra_day_oconnor,scotus_justice,1743.93,1746.563,Anything other than having an agent?
+1993.91-1950,1,42690,timothy_j_falcon,,1746.563,1756.238,"They were soliciting business through the American... I'm sorry, through the Corps of Engineers in order to get more work."
+1993.91-1950,1,15141,william_h_rehnquist,scotus_justice,1859.738,1861.924,"Thank you, Mr. Falcon."
+1993.91-1950,2,31702,john_f_manning,,1864.29,1871.28,"Thank you, Mr. Chief Justice, and may it please the Court:"
+1993.91-1950,2,15092,sandra_day_oconnor,scotus_justice,1938.488,1944.309,"Mr. Manning, would you address the forum party situation, please?"
+1993.91-1950,2,31702,john_f_manning,,1944.309,1944.994,"Yes, Your Honor."
+1993.91-1950,2,15113,anthony_m_kennedy,scotus_justice,2006.133,2007.918,So there are two different doctrines?
+1993.91-1950,2,31702,john_f_manning,,2019.226,2029.482,"Well, Justice Kennedy, the question is whether... is the Federal interest in the case, and we believe that there is a difference in the Federal interest that's implicated when foreign parties are involved."
+1993.91-1950,2,15113,anthony_m_kennedy,scotus_justice,2029.482,2035.819,"Is it fair to say... you're saying that there are two different forum non conveniens doctrines, one for foreign parties and the other for domestic parties?"
+1993.91-1950,2,31702,john_f_manning,,2035.819,2039.456,"Your Honor, we're saying that there might be, and that the Court should reserve the question in this case."
+1993.91-1950,2,15084,ruth_bader_ginsburg,scotus_justice,2039.456,2040.64,You're talking about admiralty peculiarly?
+1993.91-1950,2,31702,john_f_manning,,2043.758,2051.429,"That's true, Justice Ginsburg, but in the admiralty cases traditionally the doctrine was applied most strongly wherein foreign parties are involved."
+1993.91-1950,2,15084,ruth_bader_ginsburg,scotus_justice,2059.869,2071.761,"You reserve two questions, one is whether, when you're in a State court but the defendants are from abroad, that forum non conveniens might have a Federal flavor?"
+1993.91-1950,2,31702,john_f_manning,,2071.761,2072.627,That's correct.
+1993.91-1950,2,15084,ruth_bader_ginsburg,scotus_justice,2072.627,2077.415,"For... no matter what the character of the case, equity law, or admiralty?"
+1993.91-1950,2,31702,john_f_manning,,2077.415,2083.985,"Well, Your Honor, it might be different in admiralty cases, because there is a tradition of admiralty preemption that emanates from Article III."
+1993.91-1950,2,15084,ruth_bader_ginsburg,scotus_justice,2101.463,2117.29,"What do you make of the nonremovability of these claims, because if the Federal... if Congress wanted to give effect to the Federal policy, it could do that very easily simply by making these cases removable and then the Federal court could apply Federal forum non conveniens."
+1993.91-1950,2,31702,john_f_manning,,2117.29,2127.496,"--We do find that highly significant, and in the domestic context we would note that the Jones Act has a venue provision that applies, as this Court has held, only in Federal court."
+1993.91-1950,2,15084,ruth_bader_ginsburg,scotus_justice,2154.248,2156.781,I have a question on what you meant by reciprocity.
+1993.91-1950,2,31702,john_f_manning,,2167.405,2181.232,"--Your Honor, traditionally in the doctrine... in the application of the doctrine of forum non conveniens in Federal admiralty cases, this Court has considered whether there was an interest on the part of a foreign party in whether this dispute should be resolved."
+1993.91-1950,2,15084,ruth_bader_ginsburg,scotus_justice,2209.4,2213.969,"But if it's a Jones Act case, then we're talking about U.S. substantive law applying."
+1993.91-1950,2,31702,john_f_manning,,2213.969,2228.213,"--That's right, Your Honor, and that goes to the question of choice of law, which as counsel for respondent indicated depends in part on the flag of the vessel, the nationality of the seaman, the nationality of the shipowner--"
+1993.91-1950,2,15084,ruth_bader_ginsburg,scotus_justice,2228.213,2234.283,"If it weren't in the U.S. interest, if this were a totally foreign situation, the Jones Act wouldn't apply."
+1993.91-1950,2,31702,john_f_manning,,2234.283,2242.371,"--It's very likely that the Jones Act would not apply, and the cases which would suggest that are Romero and Lauritsen v. Larson, which are cited in our brief."
+1993.91-1950,2,15141,william_h_rehnquist,scotus_justice,2243.889,2244.989,"Thank you, Mr. Manning."
+1993.91-1950,3,43425,thomas_j_wagner,,2248.341,2250.292,"Thank you, Mr. Chief Justice."
+1993.91-1950,3,15084,ruth_bader_ginsburg,scotus_justice,2311.617,2315.819,"Mr. Wagner, you would have no case, would you, if this plaintiff came from Mississippi instead of Louisiana?"
+1993.91-1950,3,43425,thomas_j_wagner,,2315.819,2318.604,--If he came from Louisiana instead of Mississippi?
+1993.91-1950,3,15084,ruth_bader_ginsburg,scotus_justice,2319.806,2321.139,Louisiana... I'm sorry.
+1993.91-1950,3,43425,thomas_j_wagner,,2321.139,2325.71,"Yes, Your Honor, I would have no case whatsoever, and that's exactly my point."
+1993.91-1950,3,15084,ruth_bader_ginsburg,scotus_justice,2325.71,2331.613,"This is all about the distance that this man lives, and he lives inside Mississippi instead of Louisiana."
+1993.91-1950,3,43425,thomas_j_wagner,,2334.398,2339.184,"I would have no case, but I respectfully disagree that it's just about that."
+1993.91-1950,3,15084,ruth_bader_ginsburg,scotus_justice,2346.79,2351.175,All that changes if he moved... how many miles would he have to move to be inside the Louisiana borders?
+1993.91-1950,3,43425,thomas_j_wagner,,2351.175,2360.698,"--Maybe 60 miles, Your Honor, but the whole point... what changes, Your Honor, is we have taken away the power of the trial judge to decide what's fair and what's not fair."
+1993.91-1950,3,15049,antonin_scalia,scotus_justice,2402.21,2415.784,The Government suggests that the last situation you describe could be handled by leaving open the possibility of a separate rule for cases where you have foreign defendants or plaintiffs.
+1993.91-1950,3,43425,thomas_j_wagner,,2425.473,2431.896,"There's something terribly wrong in principle with that, and that is, it's the anathema of the general maritime law, and how do we divide that?"
+1993.91-1950,3,15141,william_h_rehnquist,scotus_justice,2559.412,2560.612,"Thank you, Mr. Wagner."

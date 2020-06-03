@@ -1,0 +1,216 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1993.92-1639,0,15141,william_h_rehnquist,scotus_justice,0.0,7.026,"We'll hear argument now in Number 92-1639, the City of Chicago v. The Environmental Defense Fund."
+1993.92-1639,0,35039,lawrence_rosenthal,,8.117,10.54,Mr. Chief Justice and may it please the Court:
+1993.92-1639,0,15092,sandra_day_oconnor,scotus_justice,123.605,137.654,"Mr. Rosenthal, you seem to acknowledge, then, that at the end of the day the ash may contain material that under the ordinary definition would be considered hazardous waste."
+1993.92-1639,0,35039,lawrence_rosenthal,,137.654,141.167,"Given the posture we are in today, yes, I think the Court--"
+1993.92-1639,0,15092,sandra_day_oconnor,scotus_justice,141.167,141.788,Okay.
+1993.92-1639,0,35039,lawrence_rosenthal,,141.788,142.429,--has to take that as given.
+1993.92-1639,0,15092,sandra_day_oconnor,scotus_justice,142.429,147.951,And would you explain the scope of your position?
+1993.92-1639,0,35039,lawrence_rosenthal,,154.646,156.127,That's correct.
+1993.92-1639,0,15092,sandra_day_oconnor,scotus_justice,156.127,160.09,And what does it do with the ash at the end of the day?
+1993.92-1639,0,35039,lawrence_rosenthal,,160.09,168.145,"The city contracts first with a hauler to take the ash to a landfill and second with the landfill, at which the ash is disposed."
+1993.92-1639,0,15092,sandra_day_oconnor,scotus_justice,168.145,169.857,And the landfill is out of State.
+1993.92-1639,0,35039,lawrence_rosenthal,,169.857,172.178,At one point in this case it was.
+1993.92-1639,0,15092,sandra_day_oconnor,scotus_justice,177.111,179.892,Not owned or operated by the city.
+1993.92-1639,0,35039,lawrence_rosenthal,,179.892,180.633,That's correct.
+1993.92-1639,0,15092,sandra_day_oconnor,scotus_justice,180.633,182.083,A private landfill.
+1993.92-1639,0,35039,lawrence_rosenthal,,182.083,183.185,It has a contract with the city.
+1993.92-1639,0,15092,sandra_day_oconnor,scotus_justice,183.185,203.157,"Now, do you take the position that the plain language of the statutes mean that there is an exemption all the way down the line, even in the private landfill and with regard to what the owner of the private landfill does with the ash?"
+1993.92-1639,0,35039,lawrence_rosenthal,,203.157,215.746,"I do, Justice O'Connor, and the reason for that is because that is in fact what the household waste exclusion was when originally promulgated, and what was continued by Congress--"
+1993.92-1639,0,15092,sandra_day_oconnor,scotus_justice,215.746,247.819,"I ask that because the statute, 6921, refers to the exclusion for the resource recovery facility, and what it does in treating, storing, disposing, or otherwise managing the waste, and so do you think it's clear from the plain language of the statute that the exemption extends to down the line private landfills?"
+1993.92-1639,0,35039,lawrence_rosenthal,,247.819,254.263,--I think it is both from the language of the statute and when it's placed in the context of what Congress was trying to clarify.
+1993.92-1639,0,15092,sandra_day_oconnor,scotus_justice,255.002,264.529,"Well, as I understood it, you make a plain language argument, and I just wondered what the plain language was that you thought covered the private landfill."
+1993.92-1639,0,35039,lawrence_rosenthal,,264.529,278.447,"--Well, it is the deeming clause, because the statute says that the resource recovery facility shall not be deemed to be treating, storing, disposing or otherwise managing hazardous waste."
+1993.92-1639,0,15042,david_h_souter,scotus_justice,311.679,318.084,It seems to me you wouldn't be deeming it to dispose of hazardous waste because it was disposing of hazardous waste.
+1993.92-1639,0,35039,lawrence_rosenthal,,332.864,355.548,"--That's correct, and what that means, I take it, is that if you think that the resource recovery facility... in this case EDF argues that as the employees of the resource recovery facility are sweeping out the ash from the incinerator and trying to figure out what to do with it, the employees are supposed to treat that ash as hazardous waste and ship it and dispose of it under those regulations."
+1993.92-1639,0,15042,david_h_souter,scotus_justice,355.548,405.23,"Well, there may be a period of uncertainty as to when one regime ends and another begins, but I don't see how you can read this as defining the ash as nonhazardous waste as opposed to directing that the recovery facility shall not deemed to be dealing with it, and if you do not read this... and in its plain language it is not a definition of hazardous waste, nor is it a provision saying ash is not, then at most, it seems to me, you can get by plain language is that you don't treat the ash as hazardous waste until it leaves the hands of the recovery facility, but at that point, I don't see how anything in this statute by its terms covers the ash."
+1993.92-1639,0,35039,lawrence_rosenthal,,405.23,430.268,"Of course, the only defendant in this case is the resource recovery facility, because I take it even EDF doesn't think that Congress intended to create an exemption where if the resource recovery facility disposes of the material on site at its own landfill, adjacent to the incinerator, Congress would treat all that as exempt, but the fortuity that you instead use an independent contractor off-site, that would trigger a different result."
+1993.92-1639,0,15084,ruth_bader_ginsburg,scotus_justice,448.89,453.104,"Mr. Rosenthal, one question about this chronology."
+1993.92-1639,0,35039,lawrence_rosenthal,,485.355,486.955,EDS did the testing.
+1993.92-1639,0,15084,ruth_bader_ginsburg,scotus_justice,488.487,490.978,When did that occur chronologically?
+1993.92-1639,0,35039,lawrence_rosenthal,,493.25,494.201,--It was.
+1993.92-1639,0,15084,ruth_bader_ginsburg,scotus_justice,498.134,511.624,"So was it appreciated that the ash, as distinguished from the household waste that went to the incinerator, would have hazardous potential?"
+1993.92-1639,0,35039,lawrence_rosenthal,,511.624,518.96,The city had always taken the position that the ash was not hazardous waste under the EPA regulation.
+1993.92-1639,0,15084,ruth_bader_ginsburg,scotus_justice,538.852,544.416,"But your answer is that the testing occurred after that initial exclusion, not before."
+1993.92-1639,0,35039,lawrence_rosenthal,,544.416,544.897,That's correct.
+1993.92-1639,0,15092,sandra_day_oconnor,scotus_justice,567.149,582.33,"Well, Mr. Rosenthal, from '85 to '92, was the official position of the EPA to the effect that the ash was subject to subtitle C regulation?"
+1993.92-1639,0,35039,lawrence_rosenthal,,582.33,594.759,"The official position in... EPA put out a statement in 1985 which by 1987, when Mr. Porter testified before Congress they were already saying, our position doesn't really make a lot of sense."
+1993.92-1639,0,15092,sandra_day_oconnor,scotus_justice,594.759,597.31,"Well, is your answer yes, or no?"
+1993.92-1639,0,35039,lawrence_rosenthal,,597.31,599.753,I'm not sure.
+1993.92-1639,0,15092,sandra_day_oconnor,scotus_justice,608.298,610.88,And what happened during that interval?
+1993.92-1639,0,35039,lawrence_rosenthal,,616.503,617.134,Never.
+1993.92-1639,0,15141,william_h_rehnquist,scotus_justice,689.85,699.277,"How broad is this principle of which you speak, Mr. Rosenthal, that Congress is deemed to approve existing administrative construction when it legislates?"
+1993.92-1639,0,35039,lawrence_rosenthal,,705.963,710.036,"And of course, we need go no further in this case than that."
+1993.92-1639,0,15141,william_h_rehnquist,scotus_justice,710.036,714.178,"But first answer my question, will you, before commenting on it?"
+1993.92-1639,0,35039,lawrence_rosenthal,,714.178,726.085,"In cases like North Haven Board of Education v. Bell, the Court has applied this principle even when the Congress amends other portions of the statute, but not the pertinent portion of the statute."
+1993.92-1639,0,15042,david_h_souter,scotus_justice,735.722,737.001,"Well, may I interrupt you there?"
+1993.92-1639,0,35039,lawrence_rosenthal,,755.377,766.042,"--It was not, because it was issued pursuant to EPA's delegated power to define what hazardous waste is, so it is written in terms of the definition of hazardous waste."
+1993.92-1639,0,15042,david_h_souter,scotus_justice,778.291,805.209,"Well, maybe... Congress sometimes engages in the use of euphemism, and if in fact what Congress did was to come up with a text which was in some significant way different from what it purported to be clarifying, we've got to give some significance to the text, and it seems to me that one big significance is, EPA said, ash isn't hazardous."
+1993.92-1639,0,35039,lawrence_rosenthal,,819.809,826.723,"Well, when you start... I think it is appropriate to take Congress at its word."
+1993.92-1639,0,15042,david_h_souter,scotus_justice,828.025,833.359,"Well, which word, the word of the text, or the word of the title?"
+1993.92-1639,0,35039,lawrence_rosenthal,,833.359,836.241,"--Well, of course, Congress enacted--"
+1993.92-1639,0,15042,david_h_souter,scotus_justice,836.241,843.444,What if we find that the plain language of the text is less a clarification than a modification?
+1993.92-1639,0,35039,lawrence_rosenthal,,843.444,848.48,"--Well, of course, Justice Souter, Congress enacted all those words, and I think they all have to be taken at their word."
+1993.92-1639,0,15141,william_h_rehnquist,scotus_justice,871.734,877.278,"Well, aren't you confusing ratifying with clarifying?"
+1993.92-1639,0,35039,lawrence_rosenthal,,877.278,891.055,"I'm trying not to, because it is clear that Congress did clarify in two respects that are not in dispute, which I think is one of the reasons why the language does not precisely track EPA's household waste exclusion."
+1993.92-1639,0,15141,william_h_rehnquist,scotus_justice,891.055,908.476,"But if you say, if Congress says we're clarifying something, that suggests that the meaning may have been indeterminate before, and that Congress may be giving it at least a partially new meaning, whereas if you say ratifying, that means that Congress is approving the previous administrative construction."
+1993.92-1639,0,35039,lawrence_rosenthal,,908.476,912.53,"I quite agree, and it is our view that Congress was clarifying, not ratifying."
+1993.92-1639,0,15113,anthony_m_kennedy,scotus_justice,1028.016,1037.342,"The statute, counsel, has two definitions, a definition of disposal, and a definition of hazardous waste generation."
+1993.92-1639,0,35039,lawrence_rosenthal,,1045.468,1050.229,"I'm not sure I understand your question, Justice Kennedy."
+1993.92-1639,0,15113,anthony_m_kennedy,scotus_justice,1050.229,1079.768,"Well, it seems to me... let me put it this way... that it's essential to your case to show that the facility that treats the household waste is disposing of the waste when it stores the ash on-site, or when it ships it off, but then in other instances, other facilities would be said to be generating a hazardous waste when it did that."
+1993.92-1639,0,35039,lawrence_rosenthal,,1079.768,1086.183,"Well, of course, hazardous disposal is a defined term."
+1993.92-1639,0,15113,anthony_m_kennedy,scotus_justice,1111.03,1133.885,"But hazardous waste generation is also a defined term, and it does not seem to me that your argument takes that into account, or that if it does, your position must be that one of these exempt facilities can be said to be disposing of wastes when other facilities would be generating it."
+1993.92-1639,0,35039,lawrence_rosenthal,,1133.885,1135.567,"Well, I--"
+1993.92-1639,0,15113,anthony_m_kennedy,scotus_justice,1135.567,1140.66,It seems to me that you're saying that there's an overlap between what the statute treats as two discrete categories.
+1993.92-1639,0,35039,lawrence_rosenthal,,1140.66,1163.445,"--Well, what we have here is a situation where the precise act by which the ash is generated, incineration, is already covered by the statute, because that act is treatment within the meaning of the statute, and Congress put treatment in, so it would have been surplusage to also put generation in."
+1993.92-1639,0,15113,anthony_m_kennedy,scotus_justice,1168.08,1177.557,"Well, if you had another facility that was not exempt, it would be proper for the Government to say that the creation of the ash was hazardous waste generation, would it not?"
+1993.92-1639,0,35039,lawrence_rosenthal,,1192.415,1202.571,"If the act of generating is already exempt under another term that Congress put into the statute, and in my view it is, it's already exempt because it's treatment."
+1993.92-1639,0,15084,ruth_bader_ginsburg,scotus_justice,1202.571,1206.675,"But the legislative report did include both words, did it not?"
+1993.92-1639,0,35039,lawrence_rosenthal,,1206.675,1207.366,It did.
+1993.92-1639,0,15084,ruth_bader_ginsburg,scotus_justice,1289.929,1300.786,"A couple of times, referring to the landfill, you said the fortuity that the city didn't own the landfill, is that... is it common that the landfill is independently owned and operated?"
+1993.92-1639,0,35039,lawrence_rosenthal,,1300.786,1303.187,It is frequent.
+1993.92-1639,0,15042,david_h_souter,scotus_justice,1310.404,1322.401,"Mr. Rosenthal, even on the least generous view of EDA's position, the statute is not completely useless, is it, because it does clarify the significance of receiving nonhazardous industrial waste?"
+1993.92-1639,0,35039,lawrence_rosenthal,,1322.401,1332.666,"It does not clarify that at all if it only deals with the incoming wastestream, because that incoming wastestream was already exempt because it is by definition nonhazardous."
+1993.92-1639,0,15042,david_h_souter,scotus_justice,1332.666,1337.841,"You mean, it was already exempt even if it included both household and industrial nonhazardous?"
+1993.92-1639,0,35039,lawrence_rosenthal,,1337.841,1351.81,"If it included... if the incoming wastestream included only household waste and nonhazardous commercial and industrial waste, nothing in that incoming wastestream would be subject to hazardous waste regulation under RCRA, prior to 1984."
+1993.92-1639,0,15141,william_h_rehnquist,scotus_justice,1359.577,1363.479,"Very well, Mr. Rosenthal."
+1993.92-1639,1,31838,jeffrey_p_minear,,1364.869,1378.427,Mr. Chief Justice and may it please the Court:
+1993.92-1639,1,15141,william_h_rehnquist,scotus_justice,1431.454,1433.565,Isn't this situation a little bit different from Chevron?
+1993.92-1639,1,31838,jeffrey_p_minear,,1437.398,1447.994,"--It is actually a memorandum issued from the director, the Administrator of EPA, to the regional administrators directing them how they should enforce the act."
+1993.92-1639,1,15092,sandra_day_oconnor,scotus_justice,1476.783,1496.096,"Mr. Minear, I'm troubled, still, by the fact that the statute that we are asked to interpret deals with what we do with a resource recovery facility and what conduct of that facility is exempt from subtitle C--"
+1993.92-1639,1,31838,jeffrey_p_minear,,1496.096,1497.616,"Yes, Your Honor."
+1993.92-1639,1,15092,sandra_day_oconnor,scotus_justice,1497.616,1522.603,"--and the EPA memorandum seems to be addressed more to whether ash itself should be treated as a hazardous waste, which presumably would take it all the way down the line, and I'm having some difficulty with understanding how we interpret the statute as applied, ultimately, to the private landfill."
+1993.92-1639,1,31838,jeffrey_p_minear,,1522.603,1539.413,"One of the problems in this area obviously is that EPA's household waste exclusion, which it passed as a legislative rule in 1980, exempts a wastestream from the time that the household waste is picked up at curbside until it finds its ultimate destination in an incinerator or a landfill."
+1993.92-1639,1,15092,sandra_day_oconnor,scotus_justice,1609.02,1610.683,"Well, what about when it's in the landfill?"
+1993.92-1639,1,31838,jeffrey_p_minear,,1619.149,1629.894,"--Well, the statute itself is ambiguous on this, and that... for that reason, the EPA has made the interpretation that the exemption continues to apply, just as if household waste alone was incinerated."
+1993.92-1639,1,15092,sandra_day_oconnor,scotus_justice,1631.206,1633.137,Do we have to decide that here?
+1993.92-1639,1,31838,jeffrey_p_minear,,1640.971,1641.592,--That's right.
+1993.92-1639,1,15084,ruth_bader_ginsburg,scotus_justice,1661.615,1666.83,"Mr. Minear, isn't it crucial to the city to know whether they have to pay $453 a ton to the landfill?"
+1993.92-1639,1,31838,jeffrey_p_minear,,1666.83,1673.695,"--Yes, that's right, and EPA, as I say, has now clarified that in the interpretive memorandum that Administrator Reilly issued."
+1993.92-1639,1,15084,ruth_bader_ginsburg,scotus_justice,1677.338,1688.636,"In answer to Justice O'Connor's question, though, I take it that what you said is, well, to decide this case, you can leave it hanging whether that $453 price tag has to be picked up by the City of Chicago."
+1993.92-1639,1,31838,jeffrey_p_minear,,1688.636,1697.832,"Technically, this case is only against the resource recovery facility, and that is all I meant to imply by whether you could decide the issue, you needed to decide the issue in this case."
+1993.92-1639,1,15084,ruth_bader_ginsburg,scotus_justice,1705.699,1706.898,Mr. Minear--
+1993.92-1639,1,31838,jeffrey_p_minear,,1711.101,1711.923,That is correct.
+1993.92-1639,1,15060,john_paul_stevens,scotus_justice,1711.923,1714.995,"May I ask, just... maybe it's in the papers and I just forgot it."
+1993.92-1639,1,31838,jeffrey_p_minear,,1717.567,1721.269,There's about 150 resource recovery facilities.
+1993.92-1639,1,15060,john_paul_stevens,scotus_justice,1721.269,1722.469,Has the EPA ever proceeded against any of them?
+1993.92-1639,1,31838,jeffrey_p_minear,,1722.469,1723.34,"No, it has not."
+1993.92-1639,1,15049,antonin_scalia,scotus_justice,1723.34,1729.645,"Mr. Minear, why was there no need for notice and comment for this interpretive regulation?"
+1993.92-1639,1,31838,jeffrey_p_minear,,1729.645,1735.866,I think it's important to remember that this regulation is... or this statement by the Agency is a statement of nonregulation.
+1993.92-1639,1,15049,antonin_scalia,scotus_justice,1759.054,1761.344,Is that the requirement for notice and comment?
+1993.92-1639,1,31838,jeffrey_p_minear,,1761.344,1762.666,"--No, it is not."
+1993.92-1639,1,15049,antonin_scalia,scotus_justice,1772.58,1776.484,All of them that are interpretive regulations the Agency was just doing voluntarily.
+1993.92-1639,1,31838,jeffrey_p_minear,,1776.484,1778.535,"In many cases, it is."
+1993.92-1639,1,15042,david_h_souter,scotus_justice,1787.281,1800.47,"Mr. Minear, with respect to the question whether the ash stream itself is exempt for as far as it may go, would you explain to me by reference to the text of the statute what is ambiguous about it?"
+1993.92-1639,1,31838,jeffrey_p_minear,,1811.267,1815.571,"I think there's even disagreement about the ambiguity, but let me point to two sources of ambiguity."
+1993.92-1639,1,15141,william_h_rehnquist,scotus_justice,1821.665,1825.168,You're reading from the beginning of 3001(i)?
+1993.92-1639,1,31838,jeffrey_p_minear,,1825.168,1825.989,--That is correct.
+1993.92-1639,1,15042,david_h_souter,scotus_justice,1843.894,1849.668,"Well, but that ambiguity goes to the question of what resource recovery facility is covered."
+1993.92-1639,1,31838,jeffrey_p_minear,,1860.683,1869.69,"Because if Congress is only concerned with the recovering energy from the mass burning of waste, it presumably is only concerned with the incineration process and not other parts of the facilities operations."
+1993.92-1639,1,15042,david_h_souter,scotus_justice,1869.69,1897.319,"No, but let's... I'm worried... I'm concerned about not the problem of where the exemption stops and starts within the facility, if you will, I'm concerned with whether there is an exemption that survives the point at which the ash leaves the facility and goes to a landfill, and as to that, which raises the question whether the ash is exempt or the facility is exempt, as to that, where is the ambiguity?"
+1993.92-1639,1,31838,jeffrey_p_minear,,1897.319,1899.909,"On that point, the statute in fact is silent."
+1993.92-1639,1,15042,david_h_souter,scotus_justice,1903.002,1908.715,"Well, it's silent, isn't it, in the sense that it doesn't talk about ash, it just talks about recovery facilities?"
+1993.92-1639,1,31838,jeffrey_p_minear,,1908.715,1919.972,"--That's right, but it's meant to clarify EPA's regulation, the household waste exclusion, which did indicate that treated waste... in other words, ash... would continue to be exempt, so in fact--"
+1993.92-1639,1,15042,david_h_souter,scotus_justice,1919.972,1921.775,"Well, it's a very strange clarification."
+1993.92-1639,1,31838,jeffrey_p_minear,,1939.586,1942.529,--This might help to clarify the issue.
+1993.92-1639,1,15141,william_h_rehnquist,scotus_justice,1958.467,1960.681,"Thank you, Mr. Minear."
+1993.92-1639,2,39819,richard_j_lazarus,,1962.762,1972.189,"Mr. Chief Justice, and may it please the Court:"
+1993.92-1639,2,15141,william_h_rehnquist,scotus_justice,2073.014,2076.637,"Well, Mr. Lazarus, did you bring this lawsuit... did your organization?"
+1993.92-1639,2,39819,richard_j_lazarus,,2076.637,2078.668,"Yes, it did."
+1993.92-1639,2,15141,william_h_rehnquist,scotus_justice,2078.668,2084.522,"Well, if you were concerned about the private landfill operator, why didn't you join the private landfill operator?"
+1993.92-1639,2,39819,richard_j_lazarus,,2084.522,2092.377,"Because it was essential in this case, Your Honor, to prove that there was a violation by the resource recovery facility itself."
+1993.92-1639,2,15113,anthony_m_kennedy,scotus_justice,2140.638,2160.65,"Well, does the Government, or the petitioner speak correctly, then, when it says that you would not challenge the legitimacy of the storage of the ash on the resource recovery facility's site?"
+1993.92-1639,2,39819,richard_j_lazarus,,2160.65,2162.443,"No, they do not."
+1993.92-1639,2,15113,anthony_m_kennedy,scotus_justice,2163.923,2165.315,"Well, what is your position?"
+1993.92-1639,2,39819,richard_j_lazarus,,2165.315,2176.071,"On that issue, our position is that section 3001(i) was regulating one kind of activity from the resource recovery facility, and that is the recovery process itself."
+1993.92-1639,2,15113,anthony_m_kennedy,scotus_justice,2177.223,2183.617,"So that if the ash were stored on site, that would be a violation of the act--"
+1993.92-1639,2,39819,richard_j_lazarus,,2183.617,2184.175,Right--
+1993.92-1639,2,15113,anthony_m_kennedy,scotus_justice,2184.175,2185.247,--or would be outside the exemption.
+1993.92-1639,2,39819,richard_j_lazarus,,2185.247,2189.931,"--and that would be distinct from our generator argument and our downstream argument, but let me explain why."
+1993.92-1639,2,15113,anthony_m_kennedy,scotus_justice,2208.952,2214.028,So at what point does the facility lose its exemption with respect to the treatment of the waste?
+1993.92-1639,2,39819,richard_j_lazarus,,2214.028,2218.329,It loses its exemption at the moment the incineration resource recovery process is over.
+1993.92-1639,2,15113,anthony_m_kennedy,scotus_justice,2236.001,2242.027,"So the phrase, disposing of, applies simply to the waste that it receives and not to the ash that it generates."
+1993.92-1639,2,39819,richard_j_lazarus,,2242.027,2242.476,That's right.
+1993.92-1639,2,15141,william_h_rehnquist,scotus_justice,2248.919,2253.534,"But what good does that do the city, if it's as narrow as you say?"
+1993.92-1639,2,39819,richard_j_lazarus,,2261.469,2264.251,"Chief Justice Rehnquist, it does the city an incredible amount of good."
+1993.92-1639,2,15049,antonin_scalia,scotus_justice,2292.718,2294.24,But household waste was already excluded--
+1993.92-1639,2,39819,richard_j_lazarus,,2294.24,2295.452,"--Well, Your Honor--"
+1993.92-1639,2,15049,antonin_scalia,scotus_justice,2295.452,2296.381,--before this amendment.
+1993.92-1639,2,39819,richard_j_lazarus,,2296.381,2297.042,--Yes.
+1993.92-1639,2,15084,ruth_bader_ginsburg,scotus_justice,2313.895,2320.168,"Mr. Lazarus, the difference between that $42 a ton price tag and $453 is enormous."
+1993.92-1639,2,39819,richard_j_lazarus,,2332.887,2333.799,"Yes, absolutely, Your Honor."
+1993.92-1639,2,15084,ruth_bader_ginsburg,scotus_justice,2342.975,2343.967,Because of State regulation?
+1993.92-1639,2,39819,richard_j_lazarus,,2343.967,2344.557,--Yes.
+1993.92-1639,2,15141,william_h_rehnquist,scotus_justice,2408.681,2411.372,Do they reach the RCRA segregated?
+1993.92-1639,2,39819,richard_j_lazarus,,2411.372,2413.433,--Excuse me?
+1993.92-1639,2,15141,william_h_rehnquist,scotus_justice,2413.433,2423.14,"Does the kind of ash that proves to be hazardous, does the metal that makes up that come separately to the RCRA from the household ash?"
+1993.92-1639,2,39819,richard_j_lazarus,,2423.14,2439.59,"It comes from the household ash and it also can come from the nonhazardous industrial and commercial waste, and that's because although the industrial and commercial waste may be nonhazardous, they may contain hazardous constituents, and those hazardous constituents, because of the incineration process, do two things:"
+1993.92-1639,2,15060,john_paul_stevens,scotus_justice,2473.673,2486.611,"May I ask, just... the chemistry and the amounts involved are hard for me to follow, but I assume there is some hazardous waste in the incoming stream of waste that is exempt, and you agree that that's exempt."
+1993.92-1639,2,39819,richard_j_lazarus,,2486.611,2487.242,That's right.
+1993.92-1639,2,15060,john_paul_stevens,scotus_justice,2488.423,2502.992,"If we assume that the process of incineration produces a new ash that contains no larger percentage of hazardous materials than the incoming stream, would they then be subject to subchapter C?"
+1993.92-1639,2,39819,richard_j_lazarus,,2502.992,2504.922,"Yes, they would, because they would have generated a hazardous waste."
+1993.92-1639,2,15060,john_paul_stevens,scotus_justice,2504.922,2510.135,Even if they have not enhanced the hazardous percentage of the total amount of garbage processed?
+1993.92-1639,2,39819,richard_j_lazarus,,2510.135,2512.828,"Yes, because... they have, obviously, in this case, Your Honor."
+1993.92-1639,2,15060,john_paul_stevens,scotus_justice,2512.828,2519.652,"Isn't it inevitable, then, that no matter what they do, that because they start with some hazardous waste, they're going to end up with some hazardous waste?"
+1993.92-1639,2,39819,richard_j_lazarus,,2519.652,2524.487,"But they're going to end up with much, much less, Your Honor, in terms of the volume of it."
+1993.92-1639,2,15060,john_paul_stevens,scotus_justice,2528.12,2528.808,"I understand they could do something better, but--"
+1993.92-1639,2,39819,richard_j_lazarus,,2528.808,2531.99,"Well, they could try source separation in the first instance."
+1993.92-1639,2,15060,john_paul_stevens,scotus_justice,2534.043,2543.16,"--No, but just, even doing what they do, which is not the best, as I understand it, do they increase the ratio of hazardous to nonhazardous waste in the stream of garbage that they process?"
+1993.92-1639,2,39819,richard_j_lazarus,,2543.16,2543.978,"--Oh, yes, they do, Your Honor."
+1993.92-1639,2,15060,john_paul_stevens,scotus_justice,2544.649,2547.22,"But you say that's not legally required, but you say they just--"
+1993.92-1639,2,39819,richard_j_lazarus,,2547.22,2548.382,"--They certainly do, and let me explain."
+1993.92-1639,2,15084,ruth_bader_ginsburg,scotus_justice,2611.705,2616.827,"--Mr. Lazarus, you're not questioning that EPA originally in 1980 had a wastestream exemption?"
+1993.92-1639,2,39819,richard_j_lazarus,,2616.827,2618.297,"No, we're not questioning that."
+1993.92-1639,2,15084,ruth_bader_ginsburg,scotus_justice,2659.165,2665.148,And silently changed what had been a wastestream exemption into a facility exemption.
+1993.92-1639,2,39819,richard_j_lazarus,,2665.148,2666.189,"Well, not silently, Your Honor."
+1993.92-1639,2,15141,william_h_rehnquist,scotus_justice,2700.404,2709.019,How about the city's argument that when Congress legislates it's presumed to have ratified a prior administrative construction?
+1993.92-1639,2,39819,richard_j_lazarus,,2709.019,2732.565,"Your Honor, in this case, first of all that doesn't apply, because section 3001(i)... excuse me, the prior administrative construction wouldn't have covered this situation, and that is a situation of the mixture, and whatever presumption might exist, Your Honor, that presumption is clearly overcome by the plain meaning of the statute, which did not adopt the word and the language of that prior regulation."
+1993.92-1639,2,15141,william_h_rehnquist,scotus_justice,2739.678,2741.22,"What do you mean by the term, mixture?"
+1993.92-1639,2,39819,richard_j_lazarus,,2741.22,2758.302,"Before 1984, a resource recovery facility which mixed household waste with nonhousehold waste, waste from commercial industrial sources, had no benefit from the household waste exclusion."
+1993.92-1639,2,15092,sandra_day_oconnor,scotus_justice,2781.648,2789.432,"Now, you say the cost estimates if we agree with petitioner are incorrect?"
+1993.92-1639,2,39819,richard_j_lazarus,,2789.432,2790.563,Yes.
+1993.92-1639,2,15092,sandra_day_oconnor,scotus_justice,2793.806,2797.857,What do we have in the record to clarify that for us?
+1993.92-1639,2,39819,richard_j_lazarus,,2797.857,2804.081,"--Well, Your Honor, in the record, there's really nothing in the record to support their claims or our claims."
+1993.92-1639,2,15092,sandra_day_oconnor,scotus_justice,2834.553,2839.356,"Well, does EPA need to promulgate a rule if it decides not to regulate something?"
+1993.92-1639,2,39819,richard_j_lazarus,,2839.356,2869.156,"In a case like this, Your Honor, where EPA had said in a prior interpretive rule in 1985 that its existing legislative rule made this ash subject to subchapter C regulation, if the EPA is going to change its interpretation of an existing legislative rule, it should do it by a legislative rule, it shouldn't do it by an interpretive rule, and this memorandum in this case is at best an interpretive rule, because even interpretive rules are supposed to be published in the Federal Register under the Administrative Procedure Act, and this rule was not."
+1993.92-1639,2,15141,william_h_rehnquist,scotus_justice,2886.927,2888.249,Where do we find these?
+1993.92-1639,2,39819,richard_j_lazarus,,2888.249,2891.461,"--Actually, they're cited in their reply brief."
+1993.92-1639,2,15141,william_h_rehnquist,scotus_justice,2891.461,2892.893,The yellow brief?
+1993.92-1639,2,39819,richard_j_lazarus,,2892.893,2893.362,Yes.
+1993.92-1639,2,15141,william_h_rehnquist,scotus_justice,2895.104,2904.762,They're just cited?
+1993.92-1639,2,39819,richard_j_lazarus,,2904.762,2905.18,--Yes.
+1993.92-1639,2,15141,william_h_rehnquist,scotus_justice,2906.972,2908.943,And you don't give the text in your brief?
+1993.92-1639,2,39819,richard_j_lazarus,,2908.943,2910.395,"--No, we did not, Your Honor."
+1993.92-1639,2,15113,anthony_m_kennedy,scotus_justice,3118.192,3133.823,"Suppose the city segregated the waste as you suggest so that it initially put the stuff in piles where the more hazardous stuff was in one pile, and left it there, and then it started to seep out into the land, would that be a violation of the act?"
+1993.92-1639,2,39819,richard_j_lazarus,,3133.823,3143.069,"Well, Your Honor, actually, under our reading of the statute, actually under the way the resource recovery facility works, it's actually not... you don't have to segregate it."
+1993.92-1639,2,15113,anthony_m_kennedy,scotus_justice,3146.382,3148.633,"No, no... no, I have a different hypothetical."
+1993.92-1639,2,39819,richard_j_lazarus,,3166.154,3171.698,--Since we believe that the exemption does apply to the waste that they receive in the first place--
+1993.92-1639,2,15113,anthony_m_kennedy,scotus_justice,3171.698,3178.212,What is it about the statute that triggers the loss of the exemption when the ash is created?
+1993.92-1639,2,39819,richard_j_lazarus,,3181.946,3192.935,"--Because under the words of the statute, the only activities that are referred to in section 3001(i) are the receiving and burning of the waste and the recovering of energy from the mass burning."
+1993.92-1639,2,15113,anthony_m_kennedy,scotus_justice,3192.935,3193.626,No.
+1993.92-1639,2,39819,richard_j_lazarus,,3195.527,3207.223,"Right, but the only thing that it says does not amount to treating, storing, or disposing, or otherwise managing, is the resource recovery facility recovering energy from the mass burning."
+1993.92-1639,2,15113,anthony_m_kennedy,scotus_justice,3215.999,3216.831,--Tell me where I'm supposed to--
+1993.92-1639,2,39819,richard_j_lazarus,,3219.111,3226.555,"--Under section... subsection 1(A), such facility receives and burns only, and describes there."
+1993.92-1639,2,15113,anthony_m_kennedy,scotus_justice,3227.356,3228.809,Is the subject of the--
+1993.92-1639,2,39819,richard_j_lazarus,,3234.403,3245.578,"--Yes, but that is saying that certain acts shall not be considered to be treating, storing, disposing, and we think the act which is not considered to be treating, storing, is the recovering energy from the mass burning."
+1993.92-1639,2,15060,john_paul_stevens,scotus_justice,3245.578,3248.75,"Yes, but those terms just modify the word, recovery facility."
+1993.92-1639,2,39819,richard_j_lazarus,,3248.75,3249.84,"Well, we think--"
+1993.92-1639,2,15060,john_paul_stevens,scotus_justice,3249.84,3254.925,They're modifiers describing what kind of recovery facility shall not be deemed--
+1993.92-1639,2,39819,richard_j_lazarus,,3254.925,3258.177,"--That's right, and it's that activity which shall not be deemed to be managing."
+1993.92-1639,2,15049,antonin_scalia,scotus_justice,3269.985,3284.477,"--You assume that the subject of the sentence is a resource recovery facility recovering energy, and maybe the subject is a resource recovery facility."
+1993.92-1639,2,39819,richard_j_lazarus,,3284.477,3310.373,"Well, Your Honor, it seems quite clear to us that if the city changed the nature of their facility and said, well, this isn't just going to be a resource recovery facility, this is now going to be a landfill disposal facility, that they wouldn't be entitled to the benefit of section 3001(i), that Congress was not, in intending to promote resource recovery facilities by exempting from 3004, allowing the city to put a different kind of facility there, such as a disposal facility."
+1993.92-1639,2,15049,antonin_scalia,scotus_justice,3310.373,3314.404,"No, it has to be recovering energy from mass burning, but it may be doing other things as well."
+1993.92-1639,2,39819,richard_j_lazarus,,3314.404,3319.869,"No, Your Honor, we think that the only thing that 3001(i) addressed was an exemption--"
+1993.92-1639,2,15049,antonin_scalia,scotus_justice,3319.869,3323.33,"Well, you think that, but I'm not sure that the language is clear on that point."
+1993.92-1639,2,39819,richard_j_lazarus,,3323.33,3334.957,"--Well, I think... Your Honor, I think the language was quite clear, and in all events the language was quite clear that in no event are they entitled to any exemption from the generator requirements, and in no event is any other kind of facility entitled--"
+1993.92-1639,2,15049,antonin_scalia,scotus_justice,3334.957,3345.405,"Well then, storing the household waste prior to its combustion isn't covered, because that is not a resource recovery facility recovering energy."
+1993.92-1639,2,39819,richard_j_lazarus,,3347.096,3358.515,"--Your Honor, I... in terms of receiving it, we believe that there is enough language in the statute to support the notion that if they're doing that because--"
+1993.92-1639,2,15049,antonin_scalia,scotus_justice,3358.515,3360.686,Not if we agree with the argument you've just made.
+1993.92-1639,2,39819,richard_j_lazarus,,3360.686,3376.615,"--Well, we think that... I pointed out a moment ago that we have an elaboration upon the receiving... Your Honor, if this Court were to rule that they weren't entitled to the exemption, either, which is an issue not presented in this case, I would probably have to talk to my client, and maybe they might agree with that reading."
+1993.92-1639,2,15049,antonin_scalia,scotus_justice,3383.529,3387.844,"You don't want us to go so far as to agree with the logic of what you've said, right?"
+1993.92-1639,2,39819,richard_j_lazarus,,3388.473,3394.487,I would not object to this Court giving section 3001(i) a narrow reading.
+1993.92-1639,2,15141,william_h_rehnquist,scotus_justice,3407.046,3409.877,And how do we tell a remedial statute from a nonremedial statute?
+1993.92-1639,2,39819,richard_j_lazarus,,3409.877,3419.123,"Well, I think in this case, when you have a statute designed to protect human health and the natural environment, that is the paradigmatic case of remedial statute."
+1993.92-1639,2,15141,william_h_rehnquist,scotus_justice,3420.754,3422.416,"Thank you, Mr. Lazarus."
+1993.92-1639,3,35039,lawrence_rosenthal,,3530.699,3429.372,Thank you.
+1993.92-1639,3,15141,william_h_rehnquist,scotus_justice,3531.27,3532.662,"Thank you, Mr. Rosenthal."

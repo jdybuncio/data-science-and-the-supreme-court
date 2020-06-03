@@ -1,0 +1,209 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2013.12-3,0,15086,john_g_roberts_jr,scotus_justice,0.0,7.737,"We will hear argument next in Case 12-3, Lawson and Zang v. FMR LLC."
+2013.12-3,0,23226,eric_schnapper,,8.687,10.856,"Mr. Chief Justice, and may it please the Court:"
+2013.12-3,0,15068,samuel_a_alito_jr,scotus_justice,106.167,116.625,"Is it your position that employees of any officer, employee, contractor, subcontractor or agent of a public company are covered?"
+2013.12-3,0,23226,eric_schnapper,,118.993,127.099,I'm not -- it's our position that employees of contractors and subcontractors are covered.
+2013.12-3,0,15084,ruth_bader_ginsburg,scotus_justice,127.099,129.316,All employees or would you limit it--
+2013.12-3,0,23226,eric_schnapper,,129.316,130.301,We--
+2013.12-3,0,15084,ruth_bader_ginsburg,scotus_justice,130.301,133.087,--to the ones that had a hand in executing the contract?
+2013.12-3,0,23226,eric_schnapper,,133.087,145.327,"--We -- if I understand the question correctly, we -- we have not taken a position and the standard we advanced does not address the question of a -- of a personal employee of an employer, such as Ken Lay--"
+2013.12-3,0,15068,samuel_a_alito_jr,scotus_justice,145.327,146.727,"Well, if doesn't--"
+2013.12-3,0,23226,eric_schnapper,,146.727,147.679,--It doesn't raise distinct issues--
+2013.12-3,0,15068,samuel_a_alito_jr,scotus_justice,147.679,152.648,"--If it doesn't include that, then -- then how do you avoid that with your reading of the text?"
+2013.12-3,0,23226,eric_schnapper,,152.648,164.122,"--Your Honor, our view of this is that the -- the meaning of the term 〝 employee ″ depends on the context in which it's used and it ought to be assessed separately for each of the actors."
+2013.12-3,0,15049,antonin_scalia,scotus_justice,202.028,203.663,"Well, that's sort of peculiar."
+2013.12-3,0,23226,eric_schnapper,,238.086,251.078,--The -- the statute forbids retaliation for protected activity related either to the securities law or to certain criminal fraud provisions.
+2013.12-3,0,15049,antonin_scalia,scotus_justice,276.176,277.128,But it is--
+2013.12-3,0,23226,eric_schnapper,,277.128,278.845,So this is also an antifraud statute.
+2013.12-3,0,15049,antonin_scalia,scotus_justice,278.845,280.413,--It is limited to those subjects.
+2013.12-3,0,23226,eric_schnapper,,287.917,289.136,"No, Your Honor."
+2013.12-3,0,15139,stephen_g_breyer,scotus_justice,302.946,305.213,So what's the limitation?
+2013.12-3,0,23226,eric_schnapper,,371.654,372.938,"Yes, I understand, I understand."
+2013.12-3,0,15139,stephen_g_breyer,scotus_justice,372.938,377.724,But I'm trying to foresee is are you arguing for no limitation or--
+2013.12-3,0,23226,eric_schnapper,,377.724,385.496,"I think there are two relevant limitations here, one of them statutory and one of them practical."
+2013.12-3,0,15139,stephen_g_breyer,scotus_justice,413.599,414.182,--Yes.
+2013.12-3,0,23226,eric_schnapper,,414.182,423.388,"And so if someone from a private firm goes down to Walmart, buys a box of rubber bands, that in ordinary parlance wouldn't be referred to as a contractor."
+2013.12-3,0,15049,antonin_scalia,scotus_justice,429.725,434.596,"Of course, it also rules out the accounting firm that is only used once, right?"
+2013.12-3,0,23226,eric_schnapper,,434.596,437.981,"Well, it would have to be very fast."
+2013.12-3,0,15049,antonin_scalia,scotus_justice,443.719,448.154,"Well, you just hire them for this one audit; are they a contractor?"
+2013.12-3,0,23226,eric_schnapper,,448.154,452.64,--I think an audit takes long enough that they would be.
+2013.12-3,0,15139,stephen_g_breyer,scotus_justice,464.115,476.006,"Could you limit it as also ruling out frauds by companies that are not publicly traded themselves of course, but where the fraud has nothing to do with the contract?"
+2013.12-3,0,23226,eric_schnapper,,481.208,484.612,"That's the way the Congress wrote the statute, and we think for two kinds of reasons."
+2013.12-3,0,15049,antonin_scalia,scotus_justice,507.859,509.061,I'm not sure.
+2013.12-3,0,23226,eric_schnapper,,511.346,514.965,--I'd have to remember the exact question.
+2013.12-3,0,15139,stephen_g_breyer,scotus_justice,514.965,521.119,Can you rule out frauds where the fraud at issue--
+2013.12-3,0,23226,eric_schnapper,,521.119,521.819,No.
+2013.12-3,0,15139,stephen_g_breyer,scotus_justice,521.819,523.654,--has absolutely nothing to do with the contract?
+2013.12-3,0,23226,eric_schnapper,,523.654,525.037,The statute isn't written that way.
+2013.12-3,0,15139,stephen_g_breyer,scotus_justice,525.037,526.273,It isn't written that way.
+2013.12-3,0,15094,elena_kagan,scotus_justice,526.273,530.975,"Mr. Schnapper, that's the position that the SEC took in its amicus brief to the First Circuit."
+2013.12-3,0,23226,eric_schnapper,,566.898,569.95,"Well, it's certainly possible."
+2013.12-3,0,15131,sonia_sotomayor,scotus_justice,572.352,575.687,I didn't hear you.
+2013.12-3,0,23226,eric_schnapper,,575.687,577.288,"--It's a possible reading, but we think it's not the correct reading."
+2013.12-3,0,15131,sonia_sotomayor,scotus_justice,577.288,580.673,So you are rejecting the district court's limitation as well.
+2013.12-3,0,23226,eric_schnapper,,580.673,581.123,Yes.
+2013.12-3,0,15049,antonin_scalia,scotus_justice,581.473,582.025,Why?
+2013.12-3,0,23226,eric_schnapper,,593.065,593.75,I'm not sure I want to go down the road.
+2013.12-3,0,15131,sonia_sotomayor,scotus_justice,598.035,599.285,Suppose that the -- I suppose the--
+2013.12-3,0,15086,john_g_roberts_jr,scotus_justice,599.285,599.821,Justice Breyer.
+2013.12-3,0,15139,stephen_g_breyer,scotus_justice,599.821,611.027,"The road is when you see a statute that says 〝 any policeman ″, they don't mean a policeman on Mars, nor are they likely to mean a policeman in Europe."
+2013.12-3,0,23226,eric_schnapper,,640.796,647.218,"As I said, we think that's -- we think that's not the correct reading of the statute, for a couple of reasons."
+2013.12-3,0,15068,samuel_a_alito_jr,scotus_justice,663.577,684.725,"Well, to go back to Justice Breyer's hypothetical which gets at this point where you have the gardening -- the gardening company, privately held, that's working for a public company, and there's some kind of employee of the contractor is fired and claims that the company is engaging in some kind of fraud that has nothing to do with the public company."
+2013.12-3,0,23226,eric_schnapper,,699.067,704.054,"Justice Alito, I think that's just the way they wrote the statute."
+2013.12-3,0,15068,samuel_a_alito_jr,scotus_justice,708.773,709.058,But why?
+2013.12-3,0,23226,eric_schnapper,,712.327,718.314,"Well, this is sort of a hybrid piece of legislation dealing with corporate problems and fraud, and they kind of melded the two here."
+2013.12-3,0,15113,anthony_m_kennedy,scotus_justice,844.914,852.068,"Is one of the limitations in the statute where it says, in sub (1),"
+2013.12-3,0,23226,eric_schnapper,,888.341,889.443,It's a--
+2013.12-3,0,15113,anthony_m_kennedy,scotus_justice,889.443,893.078,"--The shareholders -- in other words, does 〝 shareholder ″ apply just to the publicly registered company?"
+2013.12-3,0,23226,eric_schnapper,,893.078,898.632,"--I would think so, Your Honor, but that--"
+2013.12-3,0,15113,anthony_m_kennedy,scotus_justice,898.632,899.482,You would think so.
+2013.12-3,0,23226,eric_schnapper,,899.482,900.049,--I think so.
+2013.12-3,0,15113,anthony_m_kennedy,scotus_justice,914.558,919.462,So 〝 fraud against shareholders ″ just modifies the last clause or any provision of Federal law?
+2013.12-3,0,23226,eric_schnapper,,919.462,920.612,"--Yes, it modifies the last clause, exactly."
+2013.12-3,0,15086,john_g_roberts_jr,scotus_justice,923.914,925.783,"Thank you, counsel."
+2013.12-3,1,37291,nicole_saharsky,,943.244,946.712,"Mr. Chief Justice, and may it please the Court:"
+2013.12-3,1,15068,samuel_a_alito_jr,scotus_justice,999.564,1014.507,"It's not -- it's not unlikely that an employee of a subcontractor will have information about something that can be -- that can be alleged to be mail fraud by that -- by the contractor, that's not at all unlikely."
+2013.12-3,1,37291,nicole_saharsky,,1019.828,1020.878,--Right.
+2013.12-3,1,15068,samuel_a_alito_jr,scotus_justice,1020.878,1021.78,Do you disagree with that?
+2013.12-3,1,37291,nicole_saharsky,,1021.78,1022.913,No.
+2013.12-3,1,15068,samuel_a_alito_jr,scotus_justice,1052.149,1052.699,Yes.
+2013.12-3,1,37291,nicole_saharsky,,1060.436,1069.475,"I think that it can be fraud by the contractor while the contractor is fulfilling its role as a contractor for the public company, not the contractor in some other capacity."
+2013.12-3,1,15068,samuel_a_alito_jr,scotus_justice,1069.475,1070.059,What do you mean while?
+2013.12-3,1,37291,nicole_saharsky,,1072.577,1073.027,In that capacity.
+2013.12-3,1,15068,samuel_a_alito_jr,scotus_justice,1073.027,1074.462,And where do you see that in the statute?
+2013.12-3,1,37291,nicole_saharsky,,1074.462,1075.379,〝 Of such company ″.
+2013.12-3,1,15068,samuel_a_alito_jr,scotus_justice,1079.932,1083.218,"It says, 〝 The contractor of such company ″, not 〝 the fraud of such company ″."
+2013.12-3,1,37291,nicole_saharsky,,1083.218,1083.718,--Right.
+2013.12-3,1,15139,stephen_g_breyer,scotus_justice,1091.24,1115.272,"The argument about this, the reason that we're -- that I've brought this up is -- is because I think that the strongest argument in those courts of appeals that kind of held against you is that they fear that otherwise this statute would create any fraud by any gardener, any cook, anybody that had one employee in the entire United States and engaged in any alleged fraud would be covered."
+2013.12-3,1,37291,nicole_saharsky,,1137.019,1137.869,--Yes.
+2013.12-3,1,15113,anthony_m_kennedy,scotus_justice,1164.77,1167.638,"Well, you say -- you say this is -- this is a mainstream application."
+2013.12-3,1,37291,nicole_saharsky,,1178.013,1179.396,"No, Justice Kennedy."
+2013.12-3,1,15113,anthony_m_kennedy,scotus_justice,1189.502,1189.868,"Well, that -- that was your second point."
+2013.12-3,1,37291,nicole_saharsky,,1204.344,1205.511,--I'm sorry.
+2013.12-3,1,15113,anthony_m_kennedy,scotus_justice,1220.889,1222.039,I understand that and I -- I think that's a plausible reading.
+2013.12-3,1,37291,nicole_saharsky,,1227.793,1239.185,"What I was trying to suggest, Justice Kennedy, is that this is a contractor retaliating against its own employees and it's within the work that the contractor is doing for the mutual fund."
+2013.12-3,1,15049,antonin_scalia,scotus_justice,1243.986,1268.954,"I understand that, but -- but I think you're -- I don't agree with you that -- that we don't have to get into these -- these other situations, because to my mind, the principal argument made by the Respondent is if you read the statute literally the way you like, it covers a wide range of things that -- that one would have no reason to believe Congress wanted to cover."
+2013.12-3,1,37291,nicole_saharsky,,1293.319,1294.252,Right.
+2013.12-3,1,15094,elena_kagan,scotus_justice,1339.383,1342.502,"Ms. Saharsky, if I could take you back to second."
+2013.12-3,1,37291,nicole_saharsky,,1373.121,1373.821,Yes.
+2013.12-3,1,15094,elena_kagan,scotus_justice,1373.821,1388.547,"In other words, inherent in the -- in the word〝 contractor ″ or in the phrase 〝 contractor of such company ″ is a sort of status of a company, and that one should not read this statute as applying outside that particular status."
+2013.12-3,1,37291,nicole_saharsky,,1388.547,1390.566,I think that that's right.
+2013.12-3,1,15049,antonin_scalia,scotus_justice,1403.474,1404.759,"This is not the Petitioner's position, however."
+2013.12-3,1,37291,nicole_saharsky,,1409.544,1411.862,--That -- that is my understanding as well.
+2013.12-3,1,15084,ruth_bader_ginsburg,scotus_justice,1427.524,1428.074,But it came up.
+2013.12-3,1,37291,nicole_saharsky,,1455.091,1457.627,--It's because the agency has been given this authority.
+2013.12-3,1,15086,john_g_roberts_jr,scotus_justice,1471.72,1475.839,"Well, even though it delegated rulemaking authority to a different agency, right?"
+2013.12-3,1,37291,nicole_saharsky,,1475.839,1476.722,No.
+2013.12-3,1,15139,stephen_g_breyer,scotus_justice,1481.176,1482.626,Then why isn't the SEC -- sorry.
+2013.12-3,1,15086,john_g_roberts_jr,scotus_justice,1482.626,1488.579,And the SEC has no rulemaking authority that would cover this provision?
+2013.12-3,1,37291,nicole_saharsky,,1488.579,1489.764,--Not for this provision.
+2013.12-3,1,15086,john_g_roberts_jr,scotus_justice,1500.554,1507.06,"As I understand the ARB's decisions, they said that they were bound by OSHA's interpretation, right?"
+2013.12-3,1,37291,nicole_saharsky,,1507.06,1510.012,"They said that, but then they also cited several of their--"
+2013.12-3,1,15086,john_g_roberts_jr,scotus_justice,1510.012,1517.332,And OSHA made it quite clear in its interpretation that it -- and its rule that it had no authority to issue statutory interpretations.
+2013.12-3,1,37291,nicole_saharsky,,1517.332,1524.253,"--It said that it was not providing an interpretation, but I want to make sure the Court realizes that there are many other things that the Spinner decision relied on."
+2013.12-3,1,15086,john_g_roberts_jr,scotus_justice,1540.731,1544.149,So we should ignore the part where it said it's bound by OSHA's interpretation?
+2013.12-3,1,37291,nicole_saharsky,,1544.149,1547.101,--I don't think that the agency -- may I finish?
+2013.12-3,1,15086,john_g_roberts_jr,scotus_justice,1547.101,1547.718,Go ahead.
+2013.12-3,1,37291,nicole_saharsky,,1547.718,1553.339,--should be worse off because everyone who has considered this question within the agency has come to the same conclusion over a period of a decade.
+2013.12-3,1,15086,john_g_roberts_jr,scotus_justice,1553.339,1554.707,"Thank you, counsel."
+2013.12-3,2,36483,mark_a_perry,,1563.563,1566.681,"Mr. Chief Justice, and may it please the Court:"
+2013.12-3,2,15068,samuel_a_alito_jr,scotus_justice,1698.833,1719.497,What happens if another Enron situation comes along and the corporation's accounting firm retaliates against an employee of the accounting firm because that employee wants to report illegal activity by the corporation?
+2013.12-3,2,36483,mark_a_perry,,1719.497,1722.967,"Justice Alito, the accounting firms are not covered by 806, and let me explain that."
+2013.12-3,2,15084,ruth_bader_ginsburg,scotus_justice,1738.943,1740.762,Can an accountant be a contractor?
+2013.12-3,2,36483,mark_a_perry,,1740.762,1749.118,"--No, Your Honor, because the -- the contractor that's being referred to here -- there's nothing in the statute, nothing in the legislative history, that suggests that an accountant is a contractor."
+2013.12-3,2,15084,ruth_bader_ginsburg,scotus_justice,1751.384,1764.461,"But then -- but the bottom line of your argument Mr. Perry, is that the whistleblower who is working for the accountant -- you say there are separate provisions that deal with the accounting firm and the law firm."
+2013.12-3,2,36483,mark_a_perry,,1781.755,1786.224,"--Justice Ginsburg, that is the matter that the Congress left to the expert agencies."
+2013.12-3,2,15084,ruth_bader_ginsburg,scotus_justice,1790.009,1792.628,"But the answer to my question is right, they wouldn't have--"
+2013.12-3,2,36483,mark_a_perry,,1792.628,1793.813,"Your Honor, if the--"
+2013.12-3,2,15084,ruth_bader_ginsburg,scotus_justice,1793.813,1797.349,--a whistleblower claim against the accounting firm or the law firm?
+2013.12-3,2,36483,mark_a_perry,,1797.349,1800.634,"--To this day, the agencies have not written rules requiring that."
+2013.12-3,2,15084,ruth_bader_ginsburg,scotus_justice,1823.082,1823.516,I'm sorry.
+2013.12-3,2,36483,mark_a_perry,,1830.92,1831.636,"--Correct, Your Honor."
+2013.12-3,2,15084,ruth_bader_ginsburg,scotus_justice,1831.636,1833.488,Which agency?
+2013.12-3,2,36483,mark_a_perry,,1833.488,1834.89,The SEC for the lawyers.
+2013.12-3,2,15086,john_g_roberts_jr,scotus_justice,1843.211,1844.996,What about the ARB?
+2013.12-3,2,36483,mark_a_perry,,1844.996,1852.334,"The ARB is nowhere involved with lawyers or accountants, as this Court made clear in the -- in the PCAOB case."
+2013.12-3,2,15139,stephen_g_breyer,scotus_justice,1879.769,1902.701,"When you're ready to go through this, I'd appreciate your telling in your opinion -- what the statute says, taking the extraneous words out, is that no contractor of a publicly-traded company may discharge, demote, et cetera, any employee because of his lawful act in reporting a fraud."
+2013.12-3,2,36483,mark_a_perry,,1923.448,1925.248,"Let me answer that in two steps, Justice Breyer."
+2013.12-3,2,15139,stephen_g_breyer,scotus_justice,1933.138,1939.474,"Or any -- I just eliminated the extraneous words and instead of the not the word 〝 such ″, I put in what 〝 such ″ refers."
+2013.12-3,2,36483,mark_a_perry,,1939.474,1943.509,--It's not extraneous here because it is -- it is subordinating the contractors to the public employees.
+2013.12-3,2,15139,stephen_g_breyer,scotus_justice,1985.355,1985.672,All right.
+2013.12-3,2,36483,mark_a_perry,,2025.73,2026.163,Your Honor--
+2013.12-3,2,15139,stephen_g_breyer,scotus_justice,2026.163,2028.765,"Now, all that's a conceivable reading, I agree."
+2013.12-3,2,36483,mark_a_perry,,2028.765,2029.265,--We--
+2013.12-3,2,15139,stephen_g_breyer,scotus_justice,2029.265,2032.317,But what is it that leads you to that conclusion other than--
+2013.12-3,2,36483,mark_a_perry,,2032.317,2034.753,"--Three points here, Your Honor."
+2013.12-3,2,15049,antonin_scalia,scotus_justice,2086.971,2090.94,"It's sort of post-legislative history, which we usually don't pay attention to."
+2013.12-3,2,36483,mark_a_perry,,2120.359,2122.394,"Justice Scalia, it's not just firing."
+2013.12-3,2,15049,antonin_scalia,scotus_justice,2127.731,2132.0,I don't -- I don't see how it can harass or threaten either if it's -- if it's an employee of another company--
+2013.12-3,2,36483,mark_a_perry,,2132.0,2132.733,"--Sure, Your Honor."
+2013.12-3,2,15049,antonin_scalia,scotus_justice,2132.733,2134.535,--that it has no power to fire.
+2013.12-3,2,36483,mark_a_perry,,2134.535,2148.728,"Your Honor, it can -- there have contractors that are in the operation, management consultants and others that are working side by side with public company employees who can make their lives difficult, who can make their lives intolerable, who can lead to a constructive discharge if it's bad enough."
+2013.12-3,2,15049,antonin_scalia,scotus_justice,2164.404,2169.458,But you -- you're -- you're eliminating the -- the principal contractors who might have that kind of power.
+2013.12-3,2,36483,mark_a_perry,,2170.392,2173.66,The accountants and lawyers.
+2013.12-3,2,15049,antonin_scalia,scotus_justice,2173.66,2174.362,"Yes, yes, yes."
+2013.12-3,2,36483,mark_a_perry,,2174.362,2174.746,Absolutely.
+2013.12-3,2,15049,antonin_scalia,scotus_justice,2197.894,2199.761,Including by accountants and lawyers.
+2013.12-3,2,36483,mark_a_perry,,2199.761,2203.529,"--Against the public company's employees, I -- I absolutely agree."
+2013.12-3,2,15049,antonin_scalia,scotus_justice,2203.529,2206.667,How so if -- if accountants and lawyers are not -- are not contractors?
+2013.12-3,2,36483,mark_a_perry,,2206.667,2208.95,"If I said that, I -- I misspoke, Your Honor."
+2013.12-3,2,15049,antonin_scalia,scotus_justice,2216.189,2217.973,What does it mean that they're not regulated as contractors here?
+2013.12-3,2,36483,mark_a_perry,,2221.341,2223.441,--Let me -- let me try to be much clearer.
+2013.12-3,2,15084,ruth_bader_ginsburg,scotus_justice,2262.502,2269.822,"Apparently, that's not the view of the SEC because I think they are -- they are represented by the government."
+2013.12-3,2,36483,mark_a_perry,,2286.783,2290.152,"Your Honor, they -- they are defending the ARB's decision."
+2013.12-3,2,15084,ruth_bader_ginsburg,scotus_justice,2309.214,2311.483,It's a lot like the dissent in the First Circuit.
+2013.12-3,2,36483,mark_a_perry,,2311.483,2326.592,"Your Honor, the dissent in the First Circuit, like the ARB, I agree, disassociates the statute, the language 〝 an employee ″ from its context, from its grammar, from its syntax, from the title of the statute, from the legislative history."
+2013.12-3,2,15139,stephen_g_breyer,scotus_justice,2346.122,2347.506,--You're right on that.
+2013.12-3,2,36483,mark_a_perry,,2411.014,2425.441,"Your Honor, first, the very need for this discussion about limitations, which is found nowhere in the statute and nowhere in the legislative history, is eliminated if the Court were to construe the statute as Chief Judge Lynch and the majority did below for--"
+2013.12-3,2,15139,stephen_g_breyer,scotus_justice,2425.441,2428.143,"Oh, that itself is a big limitation."
+2013.12-3,2,36483,mark_a_perry,,2428.793,2429.66,--That's exactly right.
+2013.12-3,2,15113,anthony_m_kennedy,scotus_justice,2467.235,2471.153,That was fraud under 1343?
+2013.12-3,2,36483,mark_a_perry,,2471.153,2473.172,"--As wire fraud, Your Honor, correct."
+2013.12-3,2,15113,anthony_m_kennedy,scotus_justice,2473.172,2476.041,"Well, was that what the fraud was in this--"
+2013.12-3,2,36483,mark_a_perry,,2476.041,2477.224,"In the Lockheed case, correct."
+2013.12-3,2,15086,john_g_roberts_jr,scotus_justice,2519.32,2521.22,"Well, those -- that's an easy hypothetical."
+2013.12-3,2,36483,mark_a_perry,,2528.008,2534.412,"Your Honor, there are still the state law protections, of course, for public policy and other protections."
+2013.12-3,2,15131,sonia_sotomayor,scotus_justice,2612.929,2621.518,So doesn't that drama reduce itself if we accept the government's limitation that it has to do only with the fraud related to the public company?
+2013.12-3,2,36483,mark_a_perry,,2621.518,2622.068,Your Honor--
+2013.12-3,2,15131,sonia_sotomayor,scotus_justice,2622.068,2627.272,Because that was the center of this bill -- what motivated this bill.
+2013.12-3,2,36483,mark_a_perry,,2627.272,2630.624,"--Your Honor, I agree that would be a -- a limitation."
+2013.12-3,2,15131,sonia_sotomayor,scotus_justice,2651.47,2654.339,But we're not being asked to give deference to the Petitioner.
+2013.12-3,2,36483,mark_a_perry,,2656.691,2659.56,"--That's why I pointed to the ARB's decision in Lockheed, Your Honor."
+2013.12-3,2,15139,stephen_g_breyer,scotus_justice,2671.034,2672.736,They didn't say that today.
+2013.12-3,2,36483,mark_a_perry,,2692.747,2702.422,"--Justice -- Justice Breyer, if I could return to the point of this discussion of limitations, which is fascinating, but we are having it for the first time in the Supreme Court of the United States."
+2013.12-3,2,15068,samuel_a_alito_jr,scotus_justice,2708.326,2711.361,"What the statute says is 〝 any conduct ″,"
+2013.12-3,2,36483,mark_a_perry,,2729.572,2736.243,"It is not in the terms of the statute, Your Honor, and, as I just said, that was the holding of the Lockheed case in ARB."
+2013.12-3,2,15049,antonin_scalia,scotus_justice,2736.243,2737.678,It's a very sensible limitation.
+2013.12-3,2,36483,mark_a_perry,,2740.312,2745.182,"Your Honor, that's the danger of moving beyond the text of the statute."
+2013.12-3,2,15139,stephen_g_breyer,scotus_justice,2768.696,2776.451,"So it may be that you have a good point, that it's the SEC we should defer to and not the Labor Department."
+2013.12-3,2,36483,mark_a_perry,,2789.342,2796.532,"--Your Honor, they have not had that rulemaking since this statute was enacted in 2002, and we don't know whether they will have that rulemaking."
+2013.12-3,2,15049,antonin_scalia,scotus_justice,2803.769,2811.042,"I assume you would say that that rulemaking would be ultra vires, if it took the position that the government's taking here, right?"
+2013.12-3,2,36483,mark_a_perry,,2811.042,2817.295,"Your Honor, Ms. Saharsky said that the SEC has no power to make rules under Section 806."
+2013.12-3,2,15049,antonin_scalia,scotus_justice,2819.897,2829.669,"But even if they did and they came out with a rule that reads just the way the government presented it today, you would say that that is an unreasonable reading of the statute, wouldn't you?"
+2013.12-3,2,36483,mark_a_perry,,2829.669,2845.763,"We would, but we would also have a rulemaking record and a cost-benefit analysis of the impact on private companies and the impact on employment and all of the things that agencies have to take into account when they make these determinations, none of which exists on this record."
+2013.12-3,2,15139,stephen_g_breyer,scotus_justice,2888.708,2891.827,Why is it -- we may have to get to this.
+2013.12-3,2,36483,mark_a_perry,,2918.561,2925.75,"To be quite blunt, Justice Breyer, before the government's concession 20 minutes ago, I would have thought the same thing."
+2013.12-3,2,15139,stephen_g_breyer,scotus_justice,2925.75,2936.273,"Well, so I mean, I don't know that we should interpret that provision since no one has briefed, given -- on that basis."
+2013.12-3,2,36483,mark_a_perry,,2936.273,2937.807,"We can certainly say this, though."
+2013.12-3,2,15068,samuel_a_alito_jr,scotus_justice,3058.385,3065.407,It gives the reference to the subcontractors or to contractors and the subcontractors such a narrow meaning.
+2013.12-3,2,36483,mark_a_perry,,3078.965,3080.55,"--Justice Alito, it gives employees two things."
+2013.12-3,2,15068,samuel_a_alito_jr,scotus_justice,3103.115,3104.332,My question wasn't clear.
+2013.12-3,2,36483,mark_a_perry,,3122.344,3123.779,You have the axe-wielding specialist.
+2013.12-3,2,15068,samuel_a_alito_jr,scotus_justice,3127.398,3129.85,"Yes, it can happen, but it's really very small, isn't it?"
+2013.12-3,2,36483,mark_a_perry,,3129.85,3134.218,"Well, Your Honor, that was one of six cases the ARB decided under this statute in 2009."
+2013.12-3,2,15139,stephen_g_breyer,scotus_justice,3199.327,3200.696,Where did it come from?
+2013.12-3,2,36483,mark_a_perry,,3211.718,3212.587,--Justice Breyer--
+2013.12-3,2,15049,antonin_scalia,scotus_justice,3212.587,3213.287,"Who was it, counsel?"
+2013.12-3,2,15139,stephen_g_breyer,scotus_justice,3215.456,3216.689,Some of us are interested in that.
+2013.12-3,2,36483,mark_a_perry,,3217.356,3225.644,"--Justice Breyer, it appears -- that formulation appears for the first time in the history of the United States Code in this law."
+2013.12-3,2,15139,stephen_g_breyer,scotus_justice,3225.644,3226.077,I know.
+2013.12-3,2,36483,mark_a_perry,,3231.215,3233.167,We know -- we don't know the -- I don't know the individual.
+2013.12-3,2,15139,stephen_g_breyer,scotus_justice,3237.785,3238.952,Let's go back to the hearings.
+2013.12-3,2,36483,mark_a_perry,,3240.271,3248.51,"The only hearing testimony was, for example, the National Whistleblowers Center, one of the amici here, said corporate insiders, publicly traded companies."
+2013.12-3,2,15113,anthony_m_kennedy,scotus_justice,3272.375,3275.827,--But the language did talk about Arthur Andersen and Enron.
+2013.12-3,2,36483,mark_a_perry,,3275.827,3277.294,"It did, Your Honor."
+2013.12-3,2,15086,john_g_roberts_jr,scotus_justice,3362.85,3364.085,"Thank you, counsel."
+2013.12-3,3,23226,eric_schnapper,,3365.918,3367.104,"Thank you, Your Honor."
+2013.12-3,3,15086,john_g_roberts_jr,scotus_justice,3384.465,3386.917,But we know they don't have rulemaking authority in this area.
+2013.12-3,3,23226,eric_schnapper,,3386.917,3390.785,"I agree with that, but -- but the question came up about what their views were."
+2013.12-3,3,15086,john_g_roberts_jr,scotus_justice,3606.74,3607.523,"Thank you, counsel."

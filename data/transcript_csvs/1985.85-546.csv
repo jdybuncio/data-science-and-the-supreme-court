@@ -1,0 +1,90 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1985.85-546,0,15073,warren_e_burger,scotus_justice,0.0,8.037,We'll here arguments next in United States versus Mottaz.
+1985.85-546,0,22617,edwin_s_kneedler,,76.522,80.383,"Thank you, Mr. Chief Justice, and may it please the Court."
+1985.85-546,0,15140,william_j_brennan_jr,scotus_justice,120.27,125.883,"Mr. Kneedler, before you get into that, this is a suit to recover money damages, isn't it?"
+1985.85-546,0,22617,edwin_s_kneedler,,125.883,149.318,"--It's a suit to recover money damages in terms of the relief that's requested, but the Respondent and the Court of Appeals have treated the request for money damages as the equivalent of a request for the return of the land itself, on the premise that the land is now situated within the Chippewa National Forest and that Respondent should, in the Court of Appeals' words, should,"
+1985.85-546,0,15140,william_j_brennan_jr,scotus_justice,155.623,159.404,"Well, to the extent it is a suit for money damages, isn't it a Tucker Act suit?"
+1985.85-546,0,22617,edwin_s_kneedler,,159.404,167.632,"If viewed as a suit for money damages, it would be, although the theory of a Tucker Act suit is somewhat different than the one--"
+1985.85-546,0,15140,william_j_brennan_jr,scotus_justice,167.632,177.307,"Well, may I ask, if it is a Tucker Act suit, doesn't the Tucker Act require this appeal to go to the Federal Circuit rather than the Eighth Circuit?"
+1985.85-546,0,22617,edwin_s_kneedler,,177.307,183.36,"--Yes, to the extent it--"
+1985.85-546,0,15140,william_j_brennan_jr,scotus_justice,183.36,191.916,Then why shouldn't we just vacate and send it back with instructions to send it to the Federal Circuit?
+1985.85-546,0,22617,edwin_s_kneedler,,191.916,196.581,"--To the extent it would be a Tucker Act suit, that would be appropriate."
+1985.85-546,0,15092,sandra_day_oconnor,scotus_justice,233.756,233.934,And how much is that?
+1985.85-546,0,22617,edwin_s_kneedler,,240.639,245.922,There is not a specification of that.
+1985.85-546,0,15092,sandra_day_oconnor,scotus_justice,247.604,258.24,"Well, doesn't that... isn't that important to know for purposes of knowing whether the district court jurisdiction or Claims Court jurisdiction was appropriate?"
+1985.85-546,0,22617,edwin_s_kneedler,,258.24,259.84,"--For those purposes, it would be."
+1985.85-546,0,15092,sandra_day_oconnor,scotus_justice,273.481,276.472,"So is the amount at issue less than $10,000?"
+1985.85-546,0,22617,edwin_s_kneedler,,276.472,282.566,"The case has been litigated on that assumption, that it is, and we have not to my knowledge suggested otherwise."
+1985.85-546,0,15045,harry_a_blackmun,scotus_justice,282.566,288.95,"Well, if you've been in the depths of the Chippewa National Forest, I think that's a pretty good assumption."
+1985.85-546,0,22617,edwin_s_kneedler,,288.95,291.692,"Yes, I think it is."
+1985.85-546,0,15092,sandra_day_oconnor,scotus_justice,291.692,294.244,And that means district court jurisdiction?
+1985.85-546,0,22617,edwin_s_kneedler,,294.244,295.503,"That would mean district court jurisdiction, yes."
+1985.85-546,0,15071,byron_r_white,scotus_justice,295.503,299.437,But not Court of Appeals?
+1985.85-546,0,22617,edwin_s_kneedler,,299.437,304.55,District court jurisdiction and Court of Appeals jurisdiction for the Quiet Title Acts.
+1985.85-546,0,15060,john_paul_stevens,scotus_justice,342.177,344.688,"But that's not the theory of the district court's decision, is it?"
+1985.85-546,0,22617,edwin_s_kneedler,,344.688,349.652,"--The theory of the district court, the district court's theory is somewhat unclear."
+1985.85-546,0,15060,john_paul_stevens,scotus_justice,349.652,351.345,He applied the six year statute.
+1985.85-546,0,22617,edwin_s_kneedler,,351.345,367.146,"He applied the six year statute of limitations, but it's unclear whether the district court viewed the suit as a Tucker Act suit or whether it viewed it as arising under the allotment statute, Section 345 of Title 25, and the jurisdictional counterpart in Section 1353 of Title 28."
+1985.85-546,0,15060,john_paul_stevens,scotus_justice,1212.591,1218.206,"Mr. Kneedler, can I just ask you one question about that, going back to Justice Brennan's inquiry at the beginning."
+1985.85-546,0,22617,edwin_s_kneedler,,1244.073,1257.199,"If you view it as... to the extent you view it as a Tucker Act suit, then to that extent I think the proper disposition would be to vacate the judgment below and--"
+1985.85-546,0,15060,john_paul_stevens,scotus_justice,1257.199,1261.774,"In other words, all we would have jurisdiction to decide would be the quiet title question?"
+1985.85-546,0,22617,edwin_s_kneedler,,1261.774,1263.857,--And the Section 345 question.
+1985.85-546,0,15060,john_paul_stevens,scotus_justice,1263.857,1264.916,"Yes, I understand that."
+1985.85-546,0,22617,edwin_s_kneedler,,1264.916,1269.691,"But to the extent it would be a Tucker Act suit, I believe that's correct."
+1985.85-546,0,15071,byron_r_white,scotus_justice,1279.228,1284.67,"But if we hold for you on the quiet tile phase, the case is over, isn't it?"
+1985.85-546,0,22617,edwin_s_kneedler,,1284.67,1285.659,That's correct.
+1985.85-546,0,15071,byron_r_white,scotus_justice,1285.659,1288.193,We never get to the Tucker Act.
+1985.85-546,0,22617,edwin_s_kneedler,,1288.193,1299.891,"That's correct, because we believe that its necessary to look at the central claim of Respondent and, although Respondent claims damages in this case, as I said, that's just substituting money for land."
+1985.85-546,0,15071,byron_r_white,scotus_justice,1302.332,1309.614,"But if you win the quiet title suit on the statute of limitations grounds, that terminates the case."
+1985.85-546,0,22617,edwin_s_kneedler,,1309.614,1311.196,--That's true.
+1985.85-546,0,15071,byron_r_white,scotus_justice,1333.21,1336.102,"Before he can get anything, he has to have some right to the land."
+1985.85-546,0,22617,edwin_s_kneedler,,1336.102,1338.325,"--Well, that's--"
+1985.85-546,0,15071,byron_r_white,scotus_justice,1338.325,1339.355,And the right must not be barred.
+1985.85-546,0,22617,edwin_s_kneedler,,1339.355,1340.977,--And the right must not be barred.
+1985.85-546,0,15060,john_paul_stevens,scotus_justice,1370.929,1374.54,"That's right, but it's a pretty realistic option on the facts of this case, I assume."
+1985.85-546,0,22617,edwin_s_kneedler,,1374.54,1377.031,That the United States would want to keep it?
+1985.85-546,0,15060,john_paul_stevens,scotus_justice,1377.031,1378.213,Would want to keep the land.
+1985.85-546,0,22617,edwin_s_kneedler,,1378.213,1380.514,"That may be, although--"
+1985.85-546,0,15060,john_paul_stevens,scotus_justice,1380.514,1383.066,It doesn't really affect the ultimate question.
+1985.85-546,0,22617,edwin_s_kneedler,,1383.066,1386.519,"Yes, it wouldn't affect the statute of limitations or the jurisdiction."
+1985.85-546,0,15073,warren_e_burger,scotus_justice,1429.038,1430.828,Very well.
+1985.85-546,1,20510,derck_amerman,,1434.121,1437.784,Mr. Chief Justice and may it please the Court:
+1985.85-546,1,15092,sandra_day_oconnor,scotus_justice,1547.966,1553.67,"Mr. Amerman, would you mind telling us what you think the basis of the suit is?"
+1985.85-546,1,20510,derck_amerman,,1556.662,1560.125,--This case is a 345 case.
+1985.85-546,1,15092,sandra_day_oconnor,scotus_justice,1593.795,1598.119,It's not an action to establish title to the land?
+1985.85-546,1,20510,derck_amerman,,1598.119,1609.926,"--It's an action that says you never took title a way from us, there is still an ongoing trust; you attempted to do it, you attempted to take title, but you didn't do it the right way; it wasn't legal."
+1985.85-546,1,15092,sandra_day_oconnor,scotus_justice,1620.512,1623.935,"Well, to win you have to establish that title is in the name of your client?"
+1985.85-546,1,20510,derck_amerman,,1623.935,1626.567,I'm sorry?
+1985.85-546,1,15092,sandra_day_oconnor,scotus_justice,1626.567,1636.114,"In order to win the suit, it would have to be established that your client has title of her share of the allotted land."
+1985.85-546,1,20510,derck_amerman,,1636.114,1636.995,That's correct.
+1985.85-546,1,15092,sandra_day_oconnor,scotus_justice,1636.995,1642.028,"That sounds a lot like a quiet title action to me, somehow."
+1985.85-546,1,20510,derck_amerman,,1642.028,1645.691,"Well, there are I think some important distinctions."
+1985.85-546,1,15104,thurgood_marshall,scotus_justice,1706.902,1709.102,What part do damages play?
+1985.85-546,1,20510,derck_amerman,,1709.102,1717.918,"Well, damages in our opinion is the only workable solution to this yet uncertified class action."
+1985.85-546,1,15104,thurgood_marshall,scotus_justice,1725.862,1729.014,You don't want the lands; you want the damages?
+1985.85-546,1,20510,derck_amerman,,1729.014,1730.386,Right.
+1985.85-546,1,15104,thurgood_marshall,scotus_justice,1732.197,1734.14,"Well, how do you get out of the Tucker Act?"
+1985.85-546,1,20510,derck_amerman,,1734.14,1735.089,--Pardon me?
+1985.85-546,1,15104,thurgood_marshall,scotus_justice,1735.089,1737.55,How do you escape the Tucker Act?
+1985.85-546,1,20510,derck_amerman,,1737.55,1744.386,Because it's a... 345 grants specific rights to Indians under allotment land.
+1985.85-546,1,15104,thurgood_marshall,scotus_justice,1786.855,1787.586,We can't can we?
+1985.85-546,1,20510,derck_amerman,,1787.586,1788.527,--I'm sorry.
+1985.85-546,1,15104,thurgood_marshall,scotus_justice,1789.398,1792.909,We can't treat it as a Tucker Act case.
+1985.85-546,1,20510,derck_amerman,,1792.909,1794.451,I don't think it's proper to do that.
+1985.85-546,1,15104,thurgood_marshall,scotus_justice,1794.451,1795.653,It didn't come here that way.
+1985.85-546,1,20510,derck_amerman,,1795.653,1797.493,That's right.
+1985.85-546,1,15104,thurgood_marshall,scotus_justice,1797.493,1798.245,You can't change it here.
+1985.85-546,1,20510,derck_amerman,,1798.245,1798.605,Yes.
+1985.85-546,1,15104,thurgood_marshall,scotus_justice,1800.947,1801.635,That's what I thought.
+1985.85-546,1,20510,derck_amerman,,1801.635,1803.227,--I don't think it's a Tucker Act case.
+1985.85-546,1,15140,william_j_brennan_jr,scotus_justice,1803.227,1808.609,"Well, if it were a Tucker Act case, it should have gone to the Federal Circuit, should it not?"
+1985.85-546,1,20510,derck_amerman,,1809.481,1810.492,I don't know the answer to that question.
+1985.85-546,1,15141,william_h_rehnquist,scotus_justice,1961.89,1969.275,"Are you suggesting, Mr. Amerman, that the Government ought not to raise a defense that it might arguably say Congress had given it in an action?"
+1985.85-546,1,20510,derck_amerman,,1969.275,1972.758,"Well, I don't think they--"
+1985.85-546,1,15141,william_h_rehnquist,scotus_justice,1972.758,1978.001,That would be a rather strange interpretation of the Government's responsibility to litigate for the United States.
+1985.85-546,1,20510,derck_amerman,,1978.001,1983.124,"--Historically, they never used it in 345 cases."
+1985.85-546,1,15073,warren_e_burger,scotus_justice,2377.052,2381.657,"Do you have anything further, Mr. Kneedler?"
+1985.85-546,2,22617,edwin_s_kneedler,,2381.657,2388.432,"Yes, Mr. Chief Justice."
+1985.85-546,2,15092,sandra_day_oconnor,scotus_justice,2674.808,2678.751,"Well, it did refer to Indian trust lands, of course."
+1985.85-546,2,22617,edwin_s_kneedler,,2678.751,2684.483,It referred to Indian trust lands in terms of exempting them where the United States was essentially the defendant on behalf of Indians.
+1985.85-546,2,15073,warren_e_burger,scotus_justice,2789.282,2790.253,"Thank you, gentlemen."

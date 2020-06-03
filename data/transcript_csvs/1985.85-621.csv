@@ -1,0 +1,94 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1985.85-621,0,15073,warren_e_burger,scotus_justice,0.0,7.737,We will hear arguments next in Commodity Futures Trading Commission against Schor and the consolidated case.
+1985.85-621,0,35240,lawrence_g_wallace,,63.573,92.693,"Mr. Chief Justice, and may it please the Court, this is a case in which the respondent is claiming a right to an Article III adjudication in a situation where he was afforded that right by the governing statute, but elected instead to use an administrative remedy provided by Congress as a convenient alternative."
+1985.85-621,0,15141,william_h_rehnquist,scotus_justice,537.046,544.033,"Of course, there is no question that the counterclaim could have involved a disputed legal issue, and it still would have been before the CFTC."
+1985.85-621,0,35240,lawrence_g_wallace,,544.033,547.235,"That is correct, Mr. Justice."
+1985.85-621,0,15141,william_h_rehnquist,scotus_justice,566.731,576.087,"But, of course, a state issue involving Utah law... what Court of Appeals would that come before on review of the CFTC?"
+1985.85-621,0,35240,lawrence_g_wallace,,576.087,584.091,"Well, it would be the appropriate Court of Appeals, and I am not sure that I can answer the question without reference back to the statute."
+1985.85-621,0,15141,william_h_rehnquist,scotus_justice,587.229,591.596,It wouldn't necessarily be the Court of Appeals where some judges from that state might be sitting?
+1985.85-621,0,35240,lawrence_g_wallace,,591.596,594.298,--It would not necessarily be that.
+1985.85-621,0,15092,sandra_day_oconnor,scotus_justice,594.298,601.988,"I guess there also could be state law defenses to a counterclaim, could there not?"
+1985.85-621,0,35240,lawrence_g_wallace,,601.988,604.94,Those would be heard by the Commission.
+1985.85-621,0,15092,sandra_day_oconnor,scotus_justice,605.656,624.985,Do you take the position that Congress can routinely give agencies pendant or ancillary jurisdiction over state law claims that relate in some way to the adjudication of a federal statutory right?
+1985.85-621,0,35240,lawrence_g_wallace,,624.985,652.671,"Well, we have argued in our brief that even in the absence of consent of the parties, Congress could require the adjudication of the complete transaction in all claims between the parties in the administrative agency with authority over the claim, but we frankly do not believe that question need be reached here, because the consent of the parties was so evident."
+1985.85-621,0,15141,william_h_rehnquist,scotus_justice,784.572,793.51,"Well, except if the parties submit their dispute to an arbitrator, there is no question of the allocation of the powers of the federal government being involved at all."
+1985.85-621,0,35240,lawrence_g_wallace,,801.266,803.635,That is true.
+1985.85-621,0,15141,william_h_rehnquist,scotus_justice,848.83,866.876,"What if... in the old Habrins case, I think it was, where this Court said that judicial officers shouldn't be passing and validating pension claims where their decisions weren't final, would it have made any difference there if the legislation said, you don't have to submit it to the justices, but if you want to, go ahead?"
+1985.85-621,0,35240,lawrence_g_wallace,,866.876,877.866,"Well, there is no improper use of Article III judges or courts in this case."
+1985.85-621,0,15073,warren_e_burger,scotus_justice,996.992,1003.331,"We will resume there at 1:00 o'clock, Mr. Wallace."
+1985.85-621,1,38620,robert_l_byman,,1022.642,1051.245,"Mr. Chief Justice, and if it may please the Court, although both the Commission and Conti in their briefs tried to craft a single sentence to frame the issue in this case, there really are three basic issued presented by this case: Number One, did Congress intend that the Commission have jurisdiction over common law counterclaims; Number Two, may Congress provide for non-Article III dispute resolution where the parties consent to such resolutions; and Number Three, was there consent here?"
+1985.85-621,1,15071,byron_r_white,scotus_justice,1170.073,1175.042,Are these counterclaims compulsory?
+1985.85-621,1,38620,robert_l_byman,,1175.042,1177.708,"--In the federal sense, Your Honor?"
+1985.85-621,1,15071,byron_r_white,scotus_justice,1177.708,1188.85,"Yes, if someone gets sued before the Commission, does the Commission say there should be a counterclaim if there is one?"
+1985.85-621,1,38620,robert_l_byman,,1188.85,1189.633,"No, Justice White."
+1985.85-621,1,15071,byron_r_white,scotus_justice,1202.025,1209.513,"But certainly it is permitted, counterclaim is permitted."
+1985.85-621,1,38620,robert_l_byman,,1209.513,1210.263,--Absolutely.
+1985.85-621,1,15071,byron_r_white,scotus_justice,1210.263,1221.671,"And Congress, you say, intended it, so anybody who sues, a plaintiff who sues before the Commission, what do you say, he brings an action, or what does he do before the Commission?"
+1985.85-621,1,38620,robert_l_byman,,1221.671,1223.487,He brings a reparations action to seek redress.
+1985.85-621,1,15071,byron_r_white,scotus_justice,1223.487,1224.439,"All right, he brings a reparation."
+1985.85-621,1,38620,robert_l_byman,,1226.989,1228.741,"Exactly, and Schor knew that."
+1985.85-621,1,15071,byron_r_white,scotus_justice,1242.75,1245.102,"But Schor couldn't go any place else, could he?"
+1985.85-621,1,38620,robert_l_byman,,1245.102,1245.802,--Pardon me?
+1985.85-621,1,15071,byron_r_white,scotus_justice,1245.802,1247.971,Schor couldn't go any place else.
+1985.85-621,1,38620,robert_l_byman,,1247.971,1251.09,He could have gone to voluntary arbitration if the parties had agreed.
+1985.85-621,1,15071,byron_r_white,scotus_justice,1251.09,1252.123,Could he go to court anywhere?
+1985.85-621,1,38620,robert_l_byman,,1252.123,1254.208,He could have gone to state court at that time.
+1985.85-621,1,15071,byron_r_white,scotus_justice,1261.446,1263.064,"But in any event, he could have gone to court somewhere."
+1985.85-621,1,38620,robert_l_byman,,1263.064,1266.1,"--That is right, and in fact he was in court."
+1985.85-621,1,15071,byron_r_white,scotus_justice,1266.1,1272.169,"And he still could today if... I mean, any person in his position could now go to court."
+1985.85-621,1,38620,robert_l_byman,,1272.169,1273.119,"That is right, Your Honor."
+1985.85-621,1,15071,byron_r_white,scotus_justice,1273.119,1274.455,But he would have to go to federal court.
+1985.85-621,1,38620,robert_l_byman,,1274.455,1275.105,That is right.
+1985.85-621,1,15071,byron_r_white,scotus_justice,1291.065,1297.452,"Well, like now, if he goes through a federal court, he is going to have to face a counterclaim."
+1985.85-621,1,38620,robert_l_byman,,1297.452,1302.956,"Well, if he were to go to a federal court now, Your Honor, he would be estopped by res judicata, since he is litigating--"
+1985.85-621,1,15071,byron_r_white,scotus_justice,1302.956,1305.075,"Well, I know, but I mean an ordinary plaintiff."
+1985.85-621,1,38620,robert_l_byman,,1305.075,1306.558,"--That's right, Your Honor."
+1985.85-621,1,15071,byron_r_white,scotus_justice,1306.558,1309.879,He knows that he may face a state law counterclaim.
+1985.85-621,1,38620,robert_l_byman,,1309.879,1311.062,"Exactly, Your Honor."
+1985.85-621,1,15073,warren_e_burger,scotus_justice,1311.062,1315.014,"Would there be a risk of time factor, too, in some circumstances?"
+1985.85-621,1,38620,robert_l_byman,,1315.014,1316.283,"There could be, Your Honor."
+1985.85-621,1,15071,byron_r_white,scotus_justice,1449.203,1454.088,"Well, Mr. Byman, no one thinks that the Federal Mediation Service is unconstitutional, does it?"
+1985.85-621,1,38620,robert_l_byman,,1454.088,1457.475,"The Mediation Service, of course, doesn't issue binding orders."
+1985.85-621,1,15140,william_j_brennan_jr,scotus_justice,1489.947,1492.48,"What is the extended judicial review, Mr. Byman?"
+1985.85-621,1,38620,robert_l_byman,,1492.48,1494.064,"--Under the current system, Your Honor?"
+1985.85-621,1,15140,william_j_brennan_jr,scotus_justice,1494.064,1494.647,Yes.
+1985.85-621,1,38620,robert_l_byman,,1494.647,1508.372,"Justice Brennan, at this point, the judicial review is that after the Commission has entered a binding order, an appeal may be taken as of right to the Circuit Court of Appeals for the district... for the circuit, rather, in which the reparations proceeding was held."
+1985.85-621,1,15140,william_j_brennan_jr,scotus_justice,1508.372,1511.09,"Now, the counterclaim, what is the standard of review?"
+1985.85-621,1,38620,robert_l_byman,,1511.09,1516.327,"The same standard, Your Honor, and it is a standard of the substantial weight of the evidence."
+1985.85-621,1,15071,byron_r_white,scotus_justice,1522.131,1525.166,Where does the reparations action have to be brought?
+1985.85-621,1,38620,robert_l_byman,,1525.166,1530.737,The reparations action may be brought in any location in which either the broker or the customer are located.
+1985.85-621,1,15073,warren_e_burger,scotus_justice,1619.961,1622.33,Very well.
+1985.85-621,2,34308,leslie_j_carson_jr,,1626.199,1645.695,"Mr. Chief Justice, and may it please the Court, the first construction of the Commodity Exchange Act with respect to counterclaims and reparations proceedings was by the CFTC and took place when it was promulgating its proposed regulations implementing that program."
+1985.85-621,2,15092,sandra_day_oconnor,scotus_justice,1926.628,1932.215,"May I inquire, Mr. Carson, about that argument?"
+1985.85-621,2,34308,leslie_j_carson_jr,,1962.301,1964.503,"--That is true, Justice O'Connor."
+1985.85-621,2,15092,sandra_day_oconnor,scotus_justice,2024.875,2034.617,"Well, I suppose in the Thomas case the form of consent relied upon was not even as explicit as it was in this case, was it?"
+1985.85-621,2,34308,leslie_j_carson_jr,,2034.617,2036.783,The form of consent--
+1985.85-621,2,15092,sandra_day_oconnor,scotus_justice,2036.783,2041.254,It was just consenting to submit to the registration scheme.
+1985.85-621,2,34308,leslie_j_carson_jr,,2041.254,2063.869,"--That... while it was not explicit in the sense that there was a provision in the statute relative to consent, the statute itself called for individuals to accede to this system in order to be a part of it."
+1985.85-621,2,15141,william_h_rehnquist,scotus_justice,2147.94,2160.931,"Mr. Carson, what is the evil, if I may call it that, which our Article III jurisprudence cases seem to be directed?"
+1985.85-621,2,34308,leslie_j_carson_jr,,2166.483,2178.291,"Well, of course, the objective of the tenure and salary protection provisions of Article III was to render the judges appointed thereunder as--"
+1985.85-621,2,15141,william_h_rehnquist,scotus_justice,2178.291,2189.081,Then is it to keep federal judges employed to make sure that all conceivably judicial business goes to federal judges and not somebody else in the federal system.
+1985.85-621,2,34308,leslie_j_carson_jr,,2189.081,2207.46,"--It is, I believe, certainly a fair reading of Article III, in fact, the judicial power of the United States is to be exercised by judges who benefit from those tenure and salary protection provisions."
+1985.85-621,2,15141,william_h_rehnquist,scotus_justice,2207.46,2216.482,Is that then a right that is for the benefit of the individuals who are to have their cases decided by those judges?
+1985.85-621,2,34308,leslie_j_carson_jr,,2216.482,2218.434,It certainly is.
+1985.85-621,2,15071,byron_r_white,scotus_justice,2254.207,2263.797,"Well, maybe it was to ensure the litigants that the judges weren't being pushed around by the parties or by politicians operating under undue influence."
+1985.85-621,2,34308,leslie_j_carson_jr,,2263.797,2265.331,"Absolutely, Justice White."
+1985.85-621,2,15141,william_h_rehnquist,scotus_justice,2272.735,2277.056,"But insofar as it is a right of the parties, it certainly could be waived by consent."
+1985.85-621,2,34308,leslie_j_carson_jr,,2277.056,2282.524,"No, I do not agree with that, Justice Rehnquist."
+1985.85-621,2,15073,warren_e_burger,scotus_justice,2308.575,2321.335,Do you question the right of an individual to make a binding agreement to waive his right to use an Article III judge and to go final and binding nonreviewable arbitration?
+1985.85-621,2,34308,leslie_j_carson_jr,,2321.335,2323.018,"I do, Mr. Chief Justice."
+1985.85-621,2,15141,william_h_rehnquist,scotus_justice,2373.268,2385.175,"What does Mr. Schor lose by having Judge Painter as opposed to perhaps a New Jersey state judge, an Illinois state judge, of a federal judge decide his case?"
+1985.85-621,2,34308,leslie_j_carson_jr,,2385.175,2405.922,What does he lose by having Judge Painter... what he loses by having Judge Painter decide his case is that his personal loss is perhaps not the answer to your question.
+1985.85-621,2,15141,william_h_rehnquist,scotus_justice,2420.499,2429.37,"But if it is the state law element of the case that is so important, he might well go before a state court judge who didn't have any great amount of tenure either."
+1985.85-621,2,34308,leslie_j_carson_jr,,2429.37,2470.947,"That, I think, Justice Rehnquist, goes to the exact point that we are making here, which is that the treatment or the decision by federal authorities of state created rights, the adjudication of those rights is something that was limited by the framers in the context of the rather significant controversy over whether such authority would be conferred upon the federal judiciary, whether it could decide in the context of diversity, the narrow context of diversity, state created rights."
+1985.85-621,2,15141,william_h_rehnquist,scotus_justice,2549.633,2551.566,Independent of whom?
+1985.85-621,2,34308,leslie_j_carson_jr,,2551.566,2552.916,Independent of Congress.
+1985.85-621,2,15141,william_h_rehnquist,scotus_justice,2772.007,2790.053,"But, Mr. Carson, when you are given two alternative methods of proceeding to try to get the relief that you want one by the Commission with a rule providing for counterclaims, and another going to federal court where you will get your Article III judge, you choose the first of them."
+1985.85-621,2,34308,leslie_j_carson_jr,,2793.588,2827.392,"Mr. Justice Rehnquist, as I have said before, consent is not relevant to the decision in this case, we submit, but in addition to that our selection was made, as Mr. Byman mentioned, prior to this Court's decision in Merrill Lynch versus Curran, and in that case that was the first case, that was the case which settled the issue of whether there was a private cause of action based on the Commodity Exchange Act and violations thereof."
+1985.85-621,2,15092,sandra_day_oconnor,scotus_justice,2849.441,2856.911,"Was the circuit in which you were acting a circuit which had recognized the jurisdiction over counterclaims, however?"
+1985.85-621,2,34308,leslie_j_carson_jr,,2856.911,2857.827,--The Seventh Circuit had.
+1985.85-621,2,15092,sandra_day_oconnor,scotus_justice,2857.827,2862.463,"Yes, so as far as you were concerned in that circuit that was the rule."
+1985.85-621,2,34308,leslie_j_carson_jr,,2862.463,2886.763,"That was the rule in the circuit, but the issue of whether or not that would have prevailed by the conclusion of the case was far from certain because there was obviously a conflict in the circuits, and clearly it was going to be dealt with ultimately by this Court, and this Court by one vote upheld a private right of action."
+1985.85-621,2,15073,warren_e_burger,scotus_justice,2939.898,2940.215,Very well.
+1985.85-621,3,35240,lawrence_g_wallace,,2941.915,2959.542,"Mr. Chief Justice, and may it please the Court, the Commission in its first notice of proposed rulemaking did propose a counterclaim rule that would be limited to claims under the CEA."
+1985.85-621,3,15073,warren_e_burger,scotus_justice,3209.023,3211.873,"Thank you, gentlemen."

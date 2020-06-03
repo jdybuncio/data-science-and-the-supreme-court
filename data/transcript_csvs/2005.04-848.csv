@@ -1,0 +1,402 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2005.04-848,0,15086,john_g_roberts_jr,scotus_justice,0.0,5.053,We'll hear argument today in Dolan versus United States Postal Service.
+2005.04-848,0,32630,james_r_radmore,,6.538,9.899,"Mr. Chief Justice, and may it please the Court--"
+2005.04-848,0,15092,sandra_day_oconnor,scotus_justice,98.484,109.326,"Mr. Radmore, what was the purpose of the enactment of the waiver of Federal sovereign immunity here?"
+2005.04-848,0,32630,james_r_radmore,,115.203,116.298,"--Well, the--"
+2005.04-848,0,15092,sandra_day_oconnor,scotus_justice,116.298,118.022,Was that basically the purpose?
+2005.04-848,0,32630,james_r_radmore,,118.022,133.376,"--Justice O'Connor, this Court's decision in Kosak tells us that one of the main purposes in enacting the Federal Tort Claims Act was to allow private persons to be able to make claims against the Postal Service from motor vehicle--"
+2005.04-848,0,15092,sandra_day_oconnor,scotus_justice,133.376,134.007,Arising--
+2005.04-848,0,32630,james_r_radmore,,134.007,134.357,--accidents.
+2005.04-848,0,15092,sandra_day_oconnor,scotus_justice,134.357,135.141,--out of auto accidents.
+2005.04-848,0,32630,james_r_radmore,,135.141,135.141,Correct.
+2005.04-848,0,15092,sandra_day_oconnor,scotus_justice,135.141,142.943,And do we normally construe waivers of sovereign immunity narrowly?
+2005.04-848,0,32630,james_r_radmore,,142.943,145.691,"Well, once you--"
+2005.04-848,0,15092,sandra_day_oconnor,scotus_justice,145.691,146.274,I thought we did.
+2005.04-848,0,32630,james_r_radmore,,146.274,149.925,--But once there's a broad waiver--
+2005.04-848,0,15092,sandra_day_oconnor,scotus_justice,149.925,151.71,For auto accidents.
+2005.04-848,0,32630,james_r_radmore,,151.71,151.9,--Well--
+2005.04-848,0,15092,sandra_day_oconnor,scotus_justice,151.9,157.547,"Now, why should we interpret the exception broadly?"
+2005.04-848,0,32630,james_r_radmore,,157.547,194.026,"--Well, the exception... this Court has told us, in both Smith and Kosak, that it is the... the lower courts and this Court, when they're viewing an exception to the Federal Tort Claims Act... that they shouldn't extend the waiver, nor should they view it more narrowly, that they should look at the waiver... they should look at the exception and make a determination as to what the meaning of the words are, and what the reason for the exception was, and they should do no more, nor no less, than that."
+2005.04-848,0,15049,antonin_scalia,scotus_justice,194.026,202.351,"Well, I guess we've already construed it broadly, haven't we, in... or, excuse me... yes, construed the waiver broadly."
+2005.04-848,0,32630,james_r_radmore,,221.739,240.925,"Well, that's exactly what the point... that our point is, is that, because the Government, in this case in... and the Court, in Kosak, has told us that automobile accidents are not barred, are... from... by... they're not barred--"
+2005.04-848,0,15049,antonin_scalia,scotus_justice,240.925,241.546,It could--
+2005.04-848,0,32630,james_r_radmore,,241.546,241.726,--in the case--
+2005.04-848,0,15049,antonin_scalia,scotus_justice,241.726,244.925,--have been within the literal. It could have been negligent... what is it +/?
+2005.04-848,0,32630,james_r_radmore,,245.816,246.249,--Negligent--
+2005.04-848,0,15049,antonin_scalia,scotus_justice,246.249,247.352,--in the delivery of mail?
+2005.04-848,0,15084,ruth_bader_ginsburg,scotus_justice,247.352,248.083,Negligent--
+2005.04-848,0,32630,james_r_radmore,,248.083,248.524,--Negligent--
+2005.04-848,0,15084,ruth_bader_ginsburg,scotus_justice,248.524,248.896,--transmission.
+2005.04-848,0,32630,james_r_radmore,,248.896,249.226,--transmission.
+2005.04-848,0,15049,antonin_scalia,scotus_justice,249.226,249.237,Yes.
+2005.04-848,0,15084,ruth_bader_ginsburg,scotus_justice,249.237,260.189,"But an automobile accident is something, as the Government points out, that any agency of Government can be involved in, not peculiar to the Postal Service."
+2005.04-848,0,32630,james_r_radmore,,280.18,292.445,"Justice Ginsburg, in isolation, we admit that the word ""transmission"" could have the broad interpretation that the Government as... is urging this Court to follow."
+2005.04-848,0,15086,john_g_roberts_jr,scotus_justice,349.427,356.317,"How... wait, I... it's not true that only mail can be lost, or only mail can be delivered to the wrong location."
+2005.04-848,0,32630,james_r_radmore,,360.842,367.02,"--Well, they can do all those things, but they don't have the benefit of the... of sovereign immunity."
+2005.04-848,0,15086,john_g_roberts_jr,scotus_justice,367.02,370.451,What do you consider covered by negligent transmission?
+2005.04-848,0,32630,james_r_radmore,,381.031,386.517,"Any damage to the mail, itself, would be covered to the exception... by the exception."
+2005.04-848,0,15086,john_g_roberts_jr,scotus_justice,412.187,412.397,Right.
+2005.04-848,0,32630,james_r_radmore,,419.267,422.255,"--That's not covered, because that's an act of ordinary negligence."
+2005.04-848,0,15060,john_paul_stevens,scotus_justice,453.076,457.12,"Wouldn't the term ""negligent transmission"" probably cover late deliveries?"
+2005.04-848,0,32630,james_r_radmore,,457.12,459.125,It would cover late deliveries.
+2005.04-848,0,15060,john_paul_stevens,scotus_justice,459.125,460.009,Or incorrect deliveries in--
+2005.04-848,0,32630,james_r_radmore,,460.009,461.653,It would... could.
+2005.04-848,0,15060,john_paul_stevens,scotus_justice,461.653,463.598,"--to the wrong address, something like that."
+2005.04-848,0,32630,james_r_radmore,,463.598,464.562,Delay or damage--
+2005.04-848,0,15060,john_paul_stevens,scotus_justice,464.562,465.062,Yes.
+2005.04-848,0,32630,james_r_radmore,,465.062,465.815,--to the--
+2005.04-848,0,15049,antonin_scalia,scotus_justice,465.815,484.51,"It could cover, under your theory, this very act, just dumping the stuff there on the porch, if the consequence of that had not been that the homeowner tripped over it, but that rain destroyed the contents of the... of the letters so that they were illegible."
+2005.04-848,0,32630,james_r_radmore,,484.51,484.971,--That's correct.
+2005.04-848,0,15049,antonin_scalia,scotus_justice,484.971,485.292,You would--
+2005.04-848,0,32630,james_r_radmore,,485.292,485.552,I--
+2005.04-848,0,15049,antonin_scalia,scotus_justice,485.552,486.153,--say that that would--
+2005.04-848,0,32630,james_r_radmore,,486.153,486.475,--Justice--
+2005.04-848,0,15049,antonin_scalia,scotus_justice,486.475,486.153,--be covered.
+2005.04-848,0,32630,james_r_radmore,,486.153,494.447,"--Scalia, that's correct, that the exception would bar suit against the Government for any damage to the actual contents of the package, itself."
+2005.04-848,0,15049,antonin_scalia,scotus_justice,494.447,505.14,"So, in... it seems to me a little strange that this same act is both within the exception and not within the exception, the same act of negligence."
+2005.04-848,0,32630,james_r_radmore,,505.14,507.065,"Well, it's not really the same act."
+2005.04-848,0,15060,john_paul_stevens,scotus_justice,536.163,536.714,But it--
+2005.04-848,0,32630,james_r_radmore,,536.714,540.153,--would all be responsible for creating a hazardous condition on the porch.
+2005.04-848,0,15060,john_paul_stevens,scotus_justice,540.153,542.931,--But isn't your response to Justice Scalia... you could make the same argument.
+2005.04-848,0,32630,james_r_radmore,,556.601,560.584,Precisely the same under our interpretation of--
+2005.04-848,0,15049,antonin_scalia,scotus_justice,560.584,561.085,That is a good answer.
+2005.04-848,0,15086,john_g_roberts_jr,scotus_justice,563.262,571.003,"What does ""negligent transmission"" add to ""loss"" or ""miscarriage""?"
+2005.04-848,0,32630,james_r_radmore,,571.003,576.459,"--Well, the... ""loss"" doesn't cover mail that would be delayed or damaged."
+2005.04-848,0,15086,john_g_roberts_jr,scotus_justice,576.459,578.073,"But I supposed ""miscarriage"" does."
+2005.04-848,0,32630,james_r_radmore,,578.073,581.413,"""Miscarriage"" would be mail that went to the wrong location."
+2005.04-848,0,15086,john_g_roberts_jr,scotus_justice,586.94,593.66,"Or miscarried, like handled in a way that it's damaged, or put in a place where it's going to be damaged."
+2005.04-848,0,32630,james_r_radmore,,601.432,623.517,"Well, you could look at every term in the exception, and, if you gave it the broadest definition possible, you could say that all of the words are superfluous, that ""loss"" would cover mail that was, you know, lost and not delivered to the postal patron within two weeks, and, for that period of time, the mail was lost."
+2005.04-848,0,15086,john_g_roberts_jr,scotus_justice,626.505,627.297,"No, that doesn't work."
+2005.04-848,0,32630,james_r_radmore,,648.178,652.953,"--Well, ""miscarriage"" doesn't mean that the mail was damaged."
+2005.04-848,0,15086,john_g_roberts_jr,scotus_justice,670.095,670.596,"--What about ""delay""?"
+2005.04-848,0,32630,james_r_radmore,,675.491,679.0,"--No, ""delayed"" wouldn't be within either term."
+2005.04-848,0,15049,antonin_scalia,scotus_justice,684.006,684.566,Right.
+2005.04-848,0,15139,stephen_g_breyer,scotus_justice,684.566,698.054,"So, if, in fact, they... the Post Office negligently delays the knowledge that would come to me in the letter, that I have 15 days to claim my billion dollar inheritance--"
+2005.04-848,0,32630,james_r_radmore,,699.608,700.582,You couldn't sue.
+2005.04-848,0,15139,stephen_g_breyer,scotus_justice,700.582,708.784,"All right. Well, suppose what they do is... this is... it seems to me this case is like a first year law school hypothetical."
+2005.04-848,0,32630,james_r_radmore,,729.289,735.856,I have that same problem.
+2005.04-848,0,15139,stephen_g_breyer,scotus_justice,741.964,756.036,"I mean, what I... to sort of my cards on the... I was thinking, ""Well, that comes close"", but maybe it... maybe it is within the... within the... within the exception."
+2005.04-848,0,15049,antonin_scalia,scotus_justice,758.633,759.618,I think--
+2005.04-848,0,15139,stephen_g_breyer,scotus_justice,759.618,759.808,--I think--
+2005.04-848,0,15049,antonin_scalia,scotus_justice,759.808,760.609,--I think you're covered.
+2005.04-848,0,15139,stephen_g_breyer,scotus_justice,760.609,761.162,--on the other--
+2005.04-848,0,15049,antonin_scalia,scotus_justice,761.162,762.255,I think that's negligence transmission.
+2005.04-848,0,15139,stephen_g_breyer,scotus_justice,762.255,769.786,"--On the other... no, they... see, it... he put it on the porch, which is transmitting it, in such a way that it fell open."
+2005.04-848,0,32630,james_r_radmore,,785.955,790.671,"--Well, obviously, a line has to be drawn somewhere."
+2005.04-848,0,15139,stephen_g_breyer,scotus_justice,790.671,793.017,But what's the principle according to which we're drawing it?
+2005.04-848,0,32630,james_r_radmore,,793.017,802.162,"Well, I think anything... any claim that would arise from the unique governmental duty to deliver the mail on time and in good condition would be barred."
+2005.04-848,0,15049,antonin_scalia,scotus_justice,803.016,803.677,Excuse me--
+2005.04-848,0,15139,stephen_g_breyer,scotus_justice,803.677,803.889,But the--
+2005.04-848,0,15049,antonin_scalia,scotus_justice,803.889,805.553,--I don't understand your last... your last answer.
+2005.04-848,0,32630,james_r_radmore,,810.587,813.508,"--Oh, no, it wouldn't be barred, because that's an ordinary tort."
+2005.04-848,0,15049,antonin_scalia,scotus_justice,813.508,813.508,--Okay.
+2005.04-848,0,32630,james_r_radmore,,813.508,822.393,"But the mail... in that hypothetical, the mail still arrived on time and in good condition if they bopped somebody on the head."
+2005.04-848,0,15139,stephen_g_breyer,scotus_justice,823.527,830.135,"--Well, ordinary tort doesn't quite work, because I guess my public humiliation case is... could be an ordinary tort."
+2005.04-848,0,32630,james_r_radmore,,847.434,847.835,--But they don't have a duty.
+2005.04-848,0,15139,stephen_g_breyer,scotus_justice,869.49,871.244,Doesn't it have a... in good condition.
+2005.04-848,0,32630,james_r_radmore,,894.783,899.076,"Well, it's not good condition for purposes of ordinary torts."
+2005.04-848,0,15084,ruth_bader_ginsburg,scotus_justice,931.533,939.857,"As is a automobile accident, and it... the Chief suggested to you that there are other kinds of people who deliver items."
+2005.04-848,0,32630,james_r_radmore,,947.872,951.901,"--I'm sorry, I don't--"
+2005.04-848,0,15084,ruth_bader_ginsburg,scotus_justice,951.901,952.134,That--
+2005.04-848,0,32630,james_r_radmore,,952.134,952.505,--understand your--
+2005.04-848,0,15084,ruth_bader_ginsburg,scotus_justice,952.505,953.227,--That you say--
+2005.04-848,0,32630,james_r_radmore,,953.227,953.778,"--question, Justice Ginsburg."
+2005.04-848,0,15084,ruth_bader_ginsburg,scotus_justice,953.778,954.962,--I'm sorry.
+2005.04-848,0,32630,james_r_radmore,,956.356,957.297,Correct.
+2005.04-848,0,15084,ruth_bader_ginsburg,scotus_justice,957.297,968.75,"So, there, you're saying that the Post Office is just... it's just like everyone else with respect to automobile accidents, right?"
+2005.04-848,0,32630,james_r_radmore,,968.75,969.693,"Yes, Justice Ginsburg."
+2005.04-848,0,15084,ruth_bader_ginsburg,scotus_justice,969.693,981.206,"But... and... you... therefore, it should be just like everyone else with respect to this negligent delivery in--"
+2005.04-848,0,32630,james_r_radmore,,981.206,983.211,With respect to ordinary torts.
+2005.04-848,0,15060,john_paul_stevens,scotus_justice,1012.64,1023.573,"Mr. Radmore, I don't think you're quite correct when you say, with regard to an automobile accident, it's just like a private entity delivering mail... or delivering packages."
+2005.04-848,0,32630,james_r_radmore,,1038.777,1041.465,"That's absolutely correct, Justice Stevens."
+2005.04-848,0,15049,antonin_scalia,scotus_justice,1120.059,1124.946,"Well, you... the... you assert that would be the case, don't you?"
+2005.04-848,0,32630,james_r_radmore,,1124.946,1126.008,"No, I--"
+2005.04-848,0,15049,antonin_scalia,scotus_justice,1126.008,1128.926,"I mean, you assert that they would be able to sue."
+2005.04-848,0,32630,james_r_radmore,,1128.926,1130.29,"--Oh, not at all."
+2005.04-848,0,15049,antonin_scalia,scotus_justice,1130.29,1131.333,Oh.
+2005.04-848,0,32630,james_r_radmore,,1132.107,1138.515,"If the... any... anytime that the mail is lost, the mail is delivered to the wrong location, the mail is damaged or--"
+2005.04-848,0,15049,antonin_scalia,scotus_justice,1138.515,1138.615,Yes.
+2005.04-848,0,32630,james_r_radmore,,1138.615,1138.756,--delayed--
+2005.04-848,0,15049,antonin_scalia,scotus_justice,1138.756,1139.076,Okay.
+2005.04-848,0,32630,james_r_radmore,,1139.256,1145.625,"--through negligence, regardless if it's a motor vehicle accident, then the Government is protected."
+2005.04-848,0,15086,john_g_roberts_jr,scotus_justice,1146.797,1157.789,"But I guess... I... following up on Justice Stevens' question, your theory with respect to negligent transmission is that the Postal Service should be liable in the same way that private parties are."
+2005.04-848,0,32630,james_r_radmore,,1161.711,1162.092,--That's not--
+2005.04-848,0,15086,john_g_roberts_jr,scotus_justice,1162.092,1162.833,"Well, then, what is your--"
+2005.04-848,0,32630,james_r_radmore,,1162.833,1168.94,"--Our theory is, if there's damage to the mail, there's an exception to--"
+2005.04-848,0,15086,john_g_roberts_jr,scotus_justice,1168.94,1169.911,"--Well, that's--"
+2005.04-848,0,32630,james_r_radmore,,1169.911,1170.121,--some--
+2005.04-848,0,15086,john_g_roberts_jr,scotus_justice,1170.121,1172.089,--I would have thought that was miscarriage.
+2005.04-848,0,32630,james_r_radmore,,1172.089,1173.092,--Damage?
+2005.04-848,0,15086,john_g_roberts_jr,scotus_justice,1173.092,1174.034,Or loss.
+2005.04-848,0,32630,james_r_radmore,,1174.034,1182.779,"Well, if it was... if it was the same as miscarriage or loss, then that makes the whole term ""negligent transmission"" superfluous."
+2005.04-848,0,15086,john_g_roberts_jr,scotus_justice,1194.526,1196.501,"Well, it's only superfluous under your reading."
+2005.04-848,0,32630,james_r_radmore,,1204.836,1213.973,"--Well, in a broad... that's true if you're going to read the words so broadly that... it would then make ""loss"" and ""miscarriage"" superfluous."
+2005.04-848,0,15042,david_h_souter,scotus_justice,1213.973,1215.447,But you're using--
+2005.04-848,0,15086,john_g_roberts_jr,scotus_justice,1215.447,1215.647,No.
+2005.04-848,0,15042,david_h_souter,scotus_justice,1215.647,1215.647,"--You're... no, please."
+2005.04-848,0,15086,john_g_roberts_jr,scotus_justice,1215.647,1219.267,I was just... it wouldn't make it superfluous at all.
+2005.04-848,0,32630,james_r_radmore,,1229.175,1247.489,"But the broad interpretation that the Government asks for, and that the Third Circuit followed, was that ""negligent transmission"" covered anything that occurred to the mail from the time the mail was dropped off at the Post Office until it arrived at a third... to the third person."
+2005.04-848,0,15042,david_h_souter,scotus_justice,1263.577,1279.936,"But you're taking as your prime... or a prime example of what would be covered by the exception of ""negligent transmission"" the package that is delivered to the right place on time and all the china inside the box is smashed."
+2005.04-848,0,32630,james_r_radmore,,1282.605,1283.828,That's correct.
+2005.04-848,0,15042,david_h_souter,scotus_justice,1283.828,1284.149,Yes.
+2005.04-848,0,32630,james_r_radmore,,1284.149,1285.453,There would be a bar.
+2005.04-848,0,15042,david_h_souter,scotus_justice,1287.229,1307.701,"And you would... you would say that's supported by the... you know, the noscitur a sociis argument, because it's damage of... to the mail, or the condition of the mail, or the manner in which the mail itself is delivered, but it... that's more or less where you... where you think the exception should stop."
+2005.04-848,0,32630,james_r_radmore,,1307.701,1308.863,"That's more, rather--"
+2005.04-848,0,15042,david_h_souter,scotus_justice,1308.863,1309.205,Yes.
+2005.04-848,0,32630,james_r_radmore,,1309.205,1309.486,--than less.
+2005.04-848,0,15092,sandra_day_oconnor,scotus_justice,1310.539,1317.92,"Yes, your theory is basically that the exception just deals with bad things that happen to the mail."
+2005.04-848,0,32630,james_r_radmore,,1317.92,1331.782,"--Well, it also would protect the Government when there is a... either a personal injury or some kind of loss, a personal injury or an economic loss that arises from the damage or delay to the mail."
+2005.04-848,0,15042,david_h_souter,scotus_justice,1342.746,1352.905,"But that would be, in each case... in each example you're giving, as I understand it, that would be as a consequence to a violation that affected the mail, itself, in the first place."
+2005.04-848,0,32630,james_r_radmore,,1352.905,1353.999,"--Yes, Justice Souter."
+2005.04-848,0,15042,david_h_souter,scotus_justice,1353.999,1357.078,"I lose the... I lose the money, because the mail is slow, or whatever."
+2005.04-848,0,32630,james_r_radmore,,1357.078,1359.062,"Yes, Justice Souter, exactly."
+2005.04-848,0,15086,john_g_roberts_jr,scotus_justice,1364.64,1366.104,"Thank you, Mr. Radmore."
+2005.04-848,1,38150,patricia_a_millett,,1366.104,1380.445,"Mr. Chief Justice, and may it please the Court--"
+2005.04-848,1,15060,john_paul_stevens,scotus_justice,1403.354,1414.014,"But isn't it true that it falls squarely within the word ""transmission"", just exactly as an automobile accident arising out of carrying... transmitting mail does?"
+2005.04-848,1,38150,patricia_a_millett,,1414.014,1414.667,--It falls with--
+2005.04-848,1,15060,john_paul_stevens,scotus_justice,1414.667,1416.862,They are both equally within the plain language.
+2005.04-848,1,38150,patricia_a_millett,,1416.862,1419.738,"--It falls within the word ""transmission"", but the relevant phrase is"
+2005.04-848,1,15060,john_paul_stevens,scotus_justice,1423.602,1426.3,Which is happening in the... in the truck when it has an accident.
+2005.04-848,1,38150,patricia_a_millett,,1426.3,1435.575,--But what you're suing over in that case... and this is exactly the line this Court drew in Kosak... your claim isn't... it has to arise out of the negligent transmission of mail.
+2005.04-848,1,15113,anthony_m_kennedy,scotus_justice,1452.908,1465.515,"Well, suppose you have a big crate that the postman uses, because you've been away for a week and yet the mail... and he leaves a crate there, and you trip on the crate."
+2005.04-848,1,38150,patricia_a_millett,,1471.883,1486.255,"--I think, at that point, sort of, the crate and the mail have become one thing, as if he left it in a bag or he... they put a plastic bag around it to protect it from the rain, and technically you would trip over the plastic bag, but it's the lump of mail that you're tripping over."
+2005.04-848,1,15060,john_paul_stevens,scotus_justice,1511.308,1512.822,"But the key word in the statute is ""transmission"", not"
+2005.04-848,1,38150,patricia_a_millett,,1515.981,1519.339,"--The key words, I think, are the whole exception, which is"
+2005.04-848,1,15060,john_paul_stevens,scotus_justice,1530.333,1530.616,But--
+2005.04-848,1,38150,patricia_a_millett,,1530.616,1531.137,And just as if you're--
+2005.04-848,1,15060,john_paul_stevens,scotus_justice,1531.137,1536.513,"--But if that's true, why do you need the words ""miscarried""... why do you need the word ""miscarriage"" in the statute?"
+2005.04-848,1,38150,patricia_a_millett,,1536.513,1544.204,"--I think ""miscarriage"" captures delivery to the wrong person, which doesn't harm the mail, itself."
+2005.04-848,1,15060,john_paul_stevens,scotus_justice,1544.204,1548.847,"But you... but so would the word ""transmission"" if you... under your reading, you don't need the word ""miscarriage""."
+2005.04-848,1,38150,patricia_a_millett,,1548.847,1560.061,"What... ""transmission"" adds a lot... I think if you look, sort of, sequentially, the way Congress was thinking... and it may not have been at, sort of, this level... but ""loss"" is mail that doesn't go anywhere, it doesn't get there."
+2005.04-848,1,15049,antonin_scalia,scotus_justice,1576.299,1577.471,"It covers damage, for one thing."
+2005.04-848,1,38150,patricia_a_millett,,1577.471,1578.142,--It covers--
+2005.04-848,1,15049,antonin_scalia,scotus_justice,1578.142,1578.312,You--
+2005.04-848,1,38150,patricia_a_millett,,1578.312,1579.036,--It covers damage.
+2005.04-848,1,15049,antonin_scalia,scotus_justice,1579.566,1583.958,"--Which ""loss"" doesn't, and ""miscarriage"" doesn't."
+2005.04-848,1,38150,patricia_a_millett,,1583.958,1584.579,--Absolutely.
+2005.04-848,1,15139,stephen_g_breyer,scotus_justice,1646.09,1651.757,"So, how does it hurt you, say, in the live alligator, et cetera, case?"
+2005.04-848,1,38150,patricia_a_millett,,1691.724,1701.503,"First of all, that... if the... if the exception, as I understand it, is that of harms to or from the content of the mail, that isn't going to--"
+2005.04-848,1,15139,stephen_g_breyer,scotus_justice,1701.503,1704.191,"What we'd look to is, you'd look to the purpose of this."
+2005.04-848,1,38150,patricia_a_millett,,1760.968,1766.654,"--It hurts us... I mean, my starting point, first of all, is this text, and not legislative history or purpose--"
+2005.04-848,1,15139,stephen_g_breyer,scotus_justice,1766.654,1767.235,"Well, you can't get too far--"
+2005.04-848,1,38150,patricia_a_millett,,1767.235,1767.415,--which is--
+2005.04-848,1,15139,stephen_g_breyer,scotus_justice,1767.415,1767.475,--with the text.
+2005.04-848,1,38150,patricia_a_millett,,1772.789,1772.879,--Okay.
+2005.04-848,1,15139,stephen_g_breyer,scotus_justice,1773.409,1780.951,"The question is, If I think the text is perfectly ambiguous on this, I look to the purpose, suppose I came out the way I just said."
+2005.04-848,1,38150,patricia_a_millett,,1783.749,1797.829,"--What the Government is hurt by is the fact that you're... some... you're allowing torts for the one activity that is distinct to the Postal Service amongst governmental agencies, and that is the act of delivering."
+2005.04-848,1,15113,anthony_m_kennedy,scotus_justice,1837.137,1837.678,"Well, how is mail--"
+2005.04-848,1,15086,john_g_roberts_jr,scotus_justice,1837.678,1837.858,And what if it's for--
+2005.04-848,1,15113,anthony_m_kennedy,scotus_justice,1837.858,1842.351,"--mail specific any different than the grocery boy... I mean, than the grocery specific, under your view?"
+2005.04-848,1,38150,patricia_a_millett,,1842.351,1846.01,"--No, but it's clear that Congress wanted to capture negligence."
+2005.04-848,1,15113,anthony_m_kennedy,scotus_justice,1856.433,1857.054,But you're--
+2005.04-848,1,38150,patricia_a_millett,,1857.054,1857.564,--the actual--
+2005.04-848,1,15113,anthony_m_kennedy,scotus_justice,1857.564,1860.382,--But you're saying... you're... you want us to say that mail is somehow unique.
+2005.04-848,1,38150,patricia_a_millett,,1862.788,1868.346,"--It... whether or not it's unique, Congress focused on the presence of mail in a mail specific judgment."
+2005.04-848,1,15113,anthony_m_kennedy,scotus_justice,1869.348,1869.99,But I'm saying--
+2005.04-848,1,38150,patricia_a_millett,,1869.99,1869.348,--the text--
+2005.04-848,1,15113,anthony_m_kennedy,scotus_justice,1869.348,1872.877,"--it's not mail specific, because all delivery people have the same problem."
+2005.04-848,1,38150,patricia_a_millett,,1872.877,1873.528,--The mail--
+2005.04-848,1,15113,anthony_m_kennedy,scotus_justice,1873.528,1875.014,"So, why is it mail specific?"
+2005.04-848,1,38150,patricia_a_millett,,1875.014,1879.867,"--First of all, the decision to put it into a mailbox is a uniquely postal--"
+2005.04-848,1,15049,antonin_scalia,scotus_justice,1879.867,1890.389,"Well, and letters are carried in a mail truck, but we allow a cause of action for negligence of the driver of the mail truck."
+2005.04-848,1,38150,patricia_a_millett,,1892.014,1895.463,--Drive the... driving is not unique to the mail.
+2005.04-848,1,15049,antonin_scalia,scotus_justice,1899.855,1900.476,You're leaving something--
+2005.04-848,1,38150,patricia_a_millett,,1900.476,1900.76,--And it--
+2005.04-848,1,15049,antonin_scalia,scotus_justice,1900.76,1905.723,"--That was the very point, leaving something on the porch where somebody can trip on it isn't unique to mail--"
+2005.04-848,1,38150,patricia_a_millett,,1905.723,1906.136,--It doesn't--
+2005.04-848,1,15049,antonin_scalia,scotus_justice,1906.136,1907.56,--just as driving a truck isn't.
+2005.04-848,1,38150,patricia_a_millett,,1907.56,1917.499,"--It doesn't have to be unique to mail. If it is unique to mail, if there's no private party analog, the Federal Tort Claims Act doesn't apply, by its own terms."
+2005.04-848,1,15139,stephen_g_breyer,scotus_justice,1922.976,1923.747,"So, if--"
+2005.04-848,1,38150,patricia_a_millett,,1923.747,1923.747,And if it--
+2005.04-848,1,15139,stephen_g_breyer,scotus_justice,1923.747,1939.302,"--in fact, you have a driver of the truck, the postal truck, and what he does is, he puts the mail in the truck, so my skis, which I have shipped by mail, happen to stick out the side, and, as he walk... drives along, he just mows down the pedestrians."
+2005.04-848,1,38150,patricia_a_millett,,1942.098,1945.819,"--The... if your damage... harms to and from the mail, yes."
+2005.04-848,1,15113,anthony_m_kennedy,scotus_justice,1975.007,1975.207,"Well, let--"
+2005.04-848,1,38150,patricia_a_millett,,1975.207,1975.658,--it happens.
+2005.04-848,1,15113,anthony_m_kennedy,scotus_justice,1975.658,1976.491,--let me ask you about defenses.
+2005.04-848,1,38150,patricia_a_millett,,1993.45,1995.496,I'd--
+2005.04-848,1,15113,anthony_m_kennedy,scotus_justice,1995.496,1997.263,Let's assume there's liability.
+2005.04-848,1,38150,patricia_a_millett,,1997.263,1997.534,--Uh huh.
+2005.04-848,1,15113,anthony_m_kennedy,scotus_justice,1997.534,2001.224,Let's assume that your interpretation of the statute does not prevail here.
+2005.04-848,1,38150,patricia_a_millett,,2007.383,2024.083,"I'm not going to say here that we wouldn't have some defenses that me may want to invoke at a future time, but I'm not very optimistic, because I think the fact that you... they may not have a box doesn't mean that we could put it... assuming your theory that we're liable... put it somewhere negligently--"
+2005.04-848,1,15113,anthony_m_kennedy,scotus_justice,2024.083,2024.373,Is--
+2005.04-848,1,38150,patricia_a_millett,,2024.373,2024.605,--as opposed--
+2005.04-848,1,15113,anthony_m_kennedy,scotus_justice,2024.605,2024.936,--Are there--
+2005.04-848,1,38150,patricia_a_millett,,2024.936,2025.446,--nonnegligently.
+2005.04-848,1,15113,anthony_m_kennedy,scotus_justice,2025.446,2029.698,--Are there regulations requiring that the mail be put in a reasonably safe place?
+2005.04-848,1,38150,patricia_a_millett,,2034.551,2035.706,It--
+2005.04-848,1,15113,anthony_m_kennedy,scotus_justice,2035.706,2040.979,"You... because you quote... you quote, on page 2, the footnote... you quote the regulation."
+2005.04-848,1,38150,patricia_a_millett,,2050.791,2057.982,"--I mean, I think they make the... as a practical... is there text in the Domestic Mail Manual that specifically says,"
+2005.04-848,1,15113,anthony_m_kennedy,scotus_justice,2074.469,2075.702,"Well, I guess my point--"
+2005.04-848,1,38150,patricia_a_millett,,2075.702,2076.003,--once it's on the--
+2005.04-848,1,15113,anthony_m_kennedy,scotus_justice,2076.003,2082.942,"--my point is, if there's a duty, then it seems to me the Post Office is used to making these judgments."
+2005.04-848,1,38150,patricia_a_millett,,2085.501,2086.362,--Well--
+2005.04-848,1,15113,anthony_m_kennedy,scotus_justice,2086.362,2088.23,I'm not saying--
+2005.04-848,1,38150,patricia_a_millett,,2088.23,2088.42,--The--
+2005.04-848,1,15113,anthony_m_kennedy,scotus_justice,2088.42,2089.491,--that you're creating a cause of action.
+2005.04-848,1,38150,patricia_a_millett,,2089.491,2089.623,--Right.
+2005.04-848,1,15113,anthony_m_kennedy,scotus_justice,2089.623,2091.308,I'm just saying that you're not--
+2005.04-848,1,38150,patricia_a_millett,,2091.308,2091.518,The except--
+2005.04-848,1,15113,anthony_m_kennedy,scotus_justice,2091.518,2094.858,--that much different than any institution faced with slip and fall cases.
+2005.04-848,1,38150,patricia_a_millett,,2094.858,2099.801,--The except... it is different... the exception applies whether we do it negligently or nonnegligently.
+2005.04-848,1,15139,stephen_g_breyer,scotus_justice,2117.345,2124.416,"But are... you got the... well, that's exactly the point I'd like you to hone in on, because I don't see what's... you say, ""Well, we're defenseless""."
+2005.04-848,1,38150,patricia_a_millett,,2153.462,2163.13,"--Because... because we... first of all, we leave it there for 37 cents, and we leave it in a volume... 660 million pieces of... a day."
+2005.04-848,1,15086,john_g_roberts_jr,scotus_justice,2166.77,2167.733,"--Well, are you talking about--"
+2005.04-848,1,38150,patricia_a_millett,,2167.733,2167.914,--of that amount.
+2005.04-848,1,15086,john_g_roberts_jr,scotus_justice,2167.914,2169.778,"--You're talking about letters, though, right?"
+2005.04-848,1,38150,patricia_a_millett,,2174.801,2175.012,No.
+2005.04-848,1,15086,john_g_roberts_jr,scotus_justice,2175.012,2175.593,--of the size that have to be left--
+2005.04-848,1,38150,patricia_a_millett,,2175.593,2176.397,No.
+2005.04-848,1,15086,john_g_roberts_jr,scotus_justice,2176.557,2176.557,--on the porch?
+2005.04-848,1,38150,patricia_a_millett,,2176.557,2179.255,--660 million includes letters and packages.
+2005.04-848,1,15086,john_g_roberts_jr,scotus_justice,2179.255,2179.696,Right.
+2005.04-848,1,38150,patricia_a_millett,,2179.696,2184.038,"UPS does, I think, about 12 million a day; FedEx, about 5 million."
+2005.04-848,1,15086,john_g_roberts_jr,scotus_justice,2184.038,2187.78,"Well, what's the Postal Service number for large packages?"
+2005.04-848,1,38150,patricia_a_millett,,2187.78,2188.671,Large?
+2005.04-848,1,15086,john_g_roberts_jr,scotus_justice,2190.606,2190.688,Yes.
+2005.04-848,1,38150,patricia_a_millett,,2190.688,2192.553,"--medium, or what will fit inside the mailbags."
+2005.04-848,1,15139,stephen_g_breyer,scotus_justice,2193.606,2193.797,All right.
+2005.04-848,1,38150,patricia_a_millett,,2194.167,2194.831,--on that.
+2005.04-848,1,15139,stephen_g_breyer,scotus_justice,2195.031,2195.915,--that's what people are likely to trip over.
+2005.04-848,1,38150,patricia_a_millett,,2198.06,2206.545,"--A number of letters bundled... I wouldn't... I wouldn't be surprised to see what could happen if, in fact, the liability is allowed."
+2005.04-848,1,15084,ruth_bader_ginsburg,scotus_justice,2215.469,2216.42,Do we have any sense--
+2005.04-848,1,38150,patricia_a_millett,,2216.42,2215.629,--maybe all that it takes.
+2005.04-848,1,15084,ruth_bader_ginsburg,scotus_justice,2215.629,2219.776,--of how many claims of this nature there are?
+2005.04-848,1,38150,patricia_a_millett,,2229.381,2230.332,I--
+2005.04-848,1,15084,ruth_bader_ginsburg,scotus_justice,2230.332,2230.522,It--
+2005.04-848,1,38150,patricia_a_millett,,2230.522,2230.802,--don't remember.
+2005.04-848,1,15084,ruth_bader_ginsburg,scotus_justice,2230.802,2230.802,--goes--
+2005.04-848,1,38150,patricia_a_millett,,2230.802,2233.891,"I know it was in our brief in opposition, but I don't recall if I did in this."
+2005.04-848,1,15084,ruth_bader_ginsburg,scotus_justice,2233.891,2244.15,"--In the brief here... well, it's... it surprised me that there were those two cases."
+2005.04-848,1,38150,patricia_a_millett,,2250.471,2252.808,I can give you a rough estimate.
+2005.04-848,1,15084,ruth_bader_ginsburg,scotus_justice,2271.63,2272.171,You concede--
+2005.04-848,1,38150,patricia_a_millett,,2272.171,2272.321,--we've been able to--
+2005.04-848,1,15084,ruth_bader_ginsburg,scotus_justice,2272.321,2276.131,--liability for a slippery fall in the Post Office.
+2005.04-848,1,38150,patricia_a_millett,,2276.131,2276.562,--Yes.
+2005.04-848,1,15084,ruth_bader_ginsburg,scotus_justice,2276.732,2277.012,Yes.
+2005.04-848,1,38150,patricia_a_millett,,2277.012,2286.68,"--concede liability for that, because that... just like... that's not handling of the mail, that's handling of a building or handling of a vehicle, which we see different from handling of--"
+2005.04-848,1,15084,ruth_bader_ginsburg,scotus_justice,2286.68,2287.101,"Well, there was--"
+2005.04-848,1,38150,patricia_a_millett,,2287.101,2287.301,--the mail.
+2005.04-848,1,15084,ruth_bader_ginsburg,scotus_justice,2287.301,2292.504,"--there was, in one of the briefs, an example where there's a puddle created by the janitor."
+2005.04-848,1,38150,patricia_a_millett,,2306.819,2313.379,"If we break... if we break... whatever damage is done to the mail, and the package in the mail, the liquid in the mail cannot be sued over."
+2005.04-848,1,15084,ruth_bader_ginsburg,scotus_justice,2316.648,2317.871,"So, you agree--"
+2005.04-848,1,38150,patricia_a_millett,,2317.871,2318.392,--is our conception.
+2005.04-848,1,15084,ruth_bader_ginsburg,scotus_justice,2318.392,2319.063,--that that hypothetical--
+2005.04-848,1,38150,patricia_a_millett,,2319.063,2319.304,Yes.
+2005.04-848,1,15084,ruth_bader_ginsburg,scotus_justice,2319.304,2319.804,--is correct?
+2005.04-848,1,38150,patricia_a_millett,,2355.631,2360.587,"If you're tripping over mail, and the mail bag has mail in it, there's no liability."
+2005.04-848,1,15049,antonin_scalia,scotus_justice,2385.099,2393.111,Except that you... my biggest hangup... and I wish you'd go through your distinguishing of it again... is the... is the Kosak case.
+2005.04-848,1,38150,patricia_a_millett,,2412.741,2436.904,"--I think... in... first of all, it's just dicta in Kosak, which, in fact, construed the customs exception to include both... you know, not to turn upon the type of damage that ensued, so we actually are asking for the sort of same analysis of the holding in Kosak... the dicta in Kosak about motor vehicles is different... I think if I could just... for the logical reason, if someone rear ends you, you don't--"
+2005.04-848,1,15049,antonin_scalia,scotus_justice,2436.904,2437.194,Excuse me.
+2005.04-848,1,38150,patricia_a_millett,,2437.194,2437.988,--Uh huh.
+2005.04-848,1,15049,antonin_scalia,scotus_justice,2437.988,2443.242,"You're... I assume the Government has conceded Kosak, the dictum in Kosak."
+2005.04-848,1,38150,patricia_a_millett,,2443.242,2443.815,Yes.
+2005.04-848,1,15049,antonin_scalia,scotus_justice,2443.815,2445.349,"Now, do you concede that point, or not?"
+2005.04-848,1,38150,patricia_a_millett,,2445.349,2445.92,We--
+2005.04-848,1,15049,antonin_scalia,scotus_justice,2445.92,2447.735,"If you concede the point, it doesn't matter whether it's dictum."
+2005.04-848,1,38150,patricia_a_millett,,2447.735,2449.45,"--I agree, but--"
+2005.04-848,1,15049,antonin_scalia,scotus_justice,2449.45,2450.102,"So, you--"
+2005.04-848,1,38150,patricia_a_millett,,2450.102,2451.104,--I wanted to point out that the holding--
+2005.04-848,1,15049,antonin_scalia,scotus_justice,2451.104,2455.496,--you are trying to draw a distinction between driving the mail in the truck and leaving the mail on the doorstep.
+2005.04-848,1,38150,patricia_a_millett,,2457.051,2473.56,"--And that language has to be read against the backdrop of the holding of Kosak, which recognized that when you have exceptions that are written in these broad terms, the form of the injury, the particular type of personal injury... there, it was property injury... that ensues doesn't change whether the exception applies."
+2005.04-848,1,15086,john_g_roberts_jr,scotus_justice,2497.971,2498.372,But if the--
+2005.04-848,1,38150,patricia_a_millett,,2498.372,2499.445,"--30,000 feet, it's all--"
+2005.04-848,1,15086,john_g_roberts_jr,scotus_justice,2499.445,2506.846,"--But if the postman throws the box onto the porch and hits somebody there, you say that's within the exception?"
+2005.04-848,1,38150,patricia_a_millett,,2506.846,2507.589,"--Yes, that's... if we--"
+2005.04-848,1,15086,john_g_roberts_jr,scotus_justice,2507.589,2508.13,"But you don't say,"
+2005.04-848,1,38150,patricia_a_millett,,2512.692,2520.023,"--Your claim arises out of how we handled the mail, not how handled a vehicle, not how we handled a building, not how we handled--"
+2005.04-848,1,15086,john_g_roberts_jr,scotus_justice,2520.023,2520.354,Your claim--
+2005.04-848,1,38150,patricia_a_millett,,2520.354,2521.116,--mail apparatus.
+2005.04-848,1,15086,john_g_roberts_jr,scotus_justice,2521.116,2522.781,"--arises out of how he handled the box, just like--"
+2005.04-848,1,38150,patricia_a_millett,,2522.781,2523.142,Yes.
+2005.04-848,1,15086,john_g_roberts_jr,scotus_justice,2523.142,2528.608,--in the other case it arises out of how he handled the vehicle. You don't care whether it's the mail or not.
+2005.04-848,1,38150,patricia_a_millett,,2538.126,2539.42,Perhaps I misunderstood.
+2005.04-848,1,15086,john_g_roberts_jr,scotus_justice,2541.999,2541.999,Yes.
+2005.04-848,1,38150,patricia_a_millett,,2541.999,2546.431,--out of... and if the box... but your injury arises... if it's to or from the mail--
+2005.04-848,1,15086,john_g_roberts_jr,scotus_justice,2546.431,2547.525,Right.
+2005.04-848,1,38150,patricia_a_millett,,2547.525,2552.749,"--it's within the exception. And, yes, there are fine lines, as with any of these distinctions."
+2005.04-848,1,15086,john_g_roberts_jr,scotus_justice,2565.369,2565.609,I suppose your--
+2005.04-848,1,38150,patricia_a_millett,,2565.609,2565.879,--about delivering--
+2005.04-848,1,15086,john_g_roberts_jr,scotus_justice,2565.879,2566.28,--defense affects the process.
+2005.04-848,1,38150,patricia_a_millett,,2575.095,2576.389,--I think that's exactly right.
+2005.04-848,1,15113,anthony_m_kennedy,scotus_justice,2652.997,2653.508,"Yes, but you're--"
+2005.04-848,1,38150,patricia_a_millett,,2653.508,2654.151,--unless it's registered.
+2005.04-848,1,15113,anthony_m_kennedy,scotus_justice,2654.151,2657.058,"--you're using the word ""deliver"", but the statutory word is ""transmit""."
+2005.04-848,1,38150,patricia_a_millett,,2663.207,2665.033,There--
+2005.04-848,1,15113,anthony_m_kennedy,scotus_justice,2665.033,2673.275,"Is the word... because it seems to me... the omission of ""delivery"", it seems to me, is a real problem for you, in your theory of the case."
+2005.04-848,1,38150,patricia_a_millett,,2673.275,2673.788,"--No, I don't think so."
+2005.04-848,1,15139,stephen_g_breyer,scotus_justice,2736.034,2748.62,"What about... but I'm surprised that there's no empirical examples of what... well, I would think it would have happened, in 50 years and tens of millions of packages, that a package falls off a truck."
+2005.04-848,1,38150,patricia_a_millett,,2765.571,2767.808,"--My guess is that we did not pay, because that--"
+2005.04-848,1,15139,stephen_g_breyer,scotus_justice,2767.808,2768.189,Really?
+2005.04-848,1,38150,patricia_a_millett,,2768.189,2769.082,--would be an injury rising--
+2005.04-848,1,15139,stephen_g_breyer,scotus_justice,2769.082,2769.292,Is there any--
+2005.04-848,1,38150,patricia_a_millett,,2769.292,2770.106,--to and from the--
+2005.04-848,1,15139,stephen_g_breyer,scotus_justice,2770.106,2770.717,"--Do we actually know, either of us?"
+2005.04-848,1,38150,patricia_a_millett,,2772.811,2784.815,"--I don't, off the top of my head, but I... you know, the distinctions that... in talking with the Postal Service here, I mean, it may... it... one would... think it might have happened, but perhaps it hasn't."
+2005.04-848,1,15049,antonin_scalia,scotus_justice,2803.992,2804.515,"Yes, but I don't--"
+2005.04-848,1,38150,patricia_a_millett,,2804.515,2804.986,--that really no one else--
+2005.04-848,1,15049,antonin_scalia,scotus_justice,2804.986,2807.884,--I don't understand your last distinction.
+2005.04-848,1,38150,patricia_a_millett,,2822.839,2828.365,"--The claim for the... if we're assuming it's a mispacking of the mail into the truck, is the--"
+2005.04-848,1,15049,antonin_scalia,scotus_justice,2828.365,2828.819,Right.
+2005.04-848,1,38150,patricia_a_millett,,2828.819,2829.169,--is the claim--
+2005.04-848,1,15049,antonin_scalia,scotus_justice,2829.169,2832.518,"Which happens all the time in other trucks, not just mail trucks."
+2005.04-848,1,38150,patricia_a_millett,,2832.518,2842.247,"--then that is... that is an... I mean, plain text of the statute, that is a... an allegation that we negligently transmitted the mail."
+2005.04-848,1,15049,antonin_scalia,scotus_justice,2845.475,2849.668,But you can say the same thing about the driving of the truck that contains the mail.
+2005.04-848,1,38150,patricia_a_millett,,2849.668,2857.069,"--You can say that, but what... when someone's... you know, sues, what they're upset about is how you handled the vehicle, not how you handled the mail."
+2005.04-848,1,15049,antonin_scalia,scotus_justice,2875.512,2876.284,Same thing with the--
+2005.04-848,1,38150,patricia_a_millett,,2876.284,2875.512,--to that liability.
+2005.04-848,1,15049,antonin_scalia,scotus_justice,2875.512,2881.469,--same thing with the person who veers to avoid the package that falls off the back of the mail truck.
+2005.04-848,1,38150,patricia_a_millett,,2881.469,2886.294,"No, but that... what they've been injured by... the presence of mail is the cause of the accident--"
+2005.04-848,1,15113,anthony_m_kennedy,scotus_justice,2886.294,2886.805,But that does--
+2005.04-848,1,38150,patricia_a_millett,,2886.805,2887.628,--and the way it was packed--
+2005.04-848,1,15113,anthony_m_kennedy,scotus_justice,2887.628,2889.112,"--but the person who trips doesn't say,"
+2005.04-848,1,38150,patricia_a_millett,,2893.585,2894.256,"""Who put this mail here? """
+2005.04-848,1,15042,david_h_souter,scotus_justice,2912.672,2913.353,"No, but--"
+2005.04-848,1,38150,patricia_a_millett,,2913.353,2913.814,And that is transmission--
+2005.04-848,1,15042,david_h_souter,scotus_justice,2913.814,2929.519,"--your argument, as I understand it, on the... on the truck accident and on the package that falls out of the truck... is that the fact that mail transmission is going on at the same time is utterly irrelevant to the cause of the damage."
+2005.04-848,1,38150,patricia_a_millett,,2979.98,2983.319,--It's the character as mail that matters.
+2005.04-848,1,15042,david_h_souter,scotus_justice,2986.84,2990.99,"No, but you can say... then you can say exactly the same thing about the package that falls off the truck."
+2005.04-848,1,15049,antonin_scalia,scotus_justice,2997.6,2998.344,She says that.
+2005.04-848,1,38150,patricia_a_millett,,2998.344,2999.759,--What direct--
+2005.04-848,1,15042,david_h_souter,scotus_justice,2999.759,2999.959,Pardon me?
+2005.04-848,1,38150,patricia_a_millett,,3006.428,3009.516,--It may not be delivering mail at the time it has an accident with you.
+2005.04-848,1,15060,john_paul_stevens,scotus_justice,3040.107,3041.139,But can I just--
+2005.04-848,1,38150,patricia_a_millett,,3041.139,3041.461,--volume of mail.
+2005.04-848,1,15060,john_paul_stevens,scotus_justice,3041.461,3049.173,"--this question? The case is a little bit on the border, because it's a slip and fall, and it does... there may not have been negligence."
+2005.04-848,1,38150,patricia_a_millett,,3056.835,3063.716,"Not if it's transmission of the mail, because the exception only applies to negligent transmission of the mail."
+2005.04-848,1,15060,john_paul_stevens,scotus_justice,3068.129,3068.359,I see.
+2005.04-848,1,38150,patricia_a_millett,,3068.359,3069.0,--the exception.
+2005.04-848,1,15060,john_paul_stevens,scotus_justice,3069.0,3069.0,Okay.
+2005.04-848,1,15042,david_h_souter,scotus_justice,3069.0,3073.032,"Would that... this is neither here nor there, I guess, but would that be within the waiver?"
+2005.04-848,1,15084,ruth_bader_ginsburg,scotus_justice,3073.032,3075.117,Negligence--
+2005.04-848,1,15042,david_h_souter,scotus_justice,3075.117,3075.628,It's--
+2005.04-848,1,15084,ruth_bader_ginsburg,scotus_justice,3075.628,3075.94,--Intentional--
+2005.04-848,1,15042,david_h_souter,scotus_justice,3075.94,3076.461,--It's--
+2005.04-848,1,15084,ruth_bader_ginsburg,scotus_justice,3076.461,3076.961,--torts aren't covered--
+2005.04-848,1,15042,david_h_souter,scotus_justice,3076.961,3077.274,--Yes.
+2005.04-848,1,15084,ruth_bader_ginsburg,scotus_justice,3077.274,3077.274,"--by it, are they?"
+2005.04-848,1,38150,patricia_a_millett,,3077.274,3080.803,"No, actually negligent or wrongful acts are covered."
+2005.04-848,1,15042,david_h_souter,scotus_justice,3101.567,3101.807,"Well, only--"
+2005.04-848,1,38150,patricia_a_millett,,3101.807,3102.528,--that's fault of the--
+2005.04-848,1,15042,david_h_souter,scotus_justice,3102.528,3104.133,--because you weren't intention... your--
+2005.04-848,1,38150,patricia_a_millett,,3104.133,3104.635,--Right.
+2005.04-848,1,15042,david_h_souter,scotus_justice,3104.635,3105.829,--intent was not to deliver anthrax.
+2005.04-848,1,38150,patricia_a_millett,,3105.829,3106.05,Right.
+2005.04-848,1,15042,david_h_souter,scotus_justice,3106.701,3109.519,But if the intent is to hit the person with the alligator that you're swinging--
+2005.04-848,1,38150,patricia_a_millett,,3109.519,3111.184,--But not... right.
+2005.04-848,1,15042,david_h_souter,scotus_justice,3111.184,3111.975,--that would be an intentional--
+2005.04-848,1,38150,patricia_a_millett,,3111.975,3112.426,But not all--
+2005.04-848,1,15042,david_h_souter,scotus_justice,3112.426,3112.666,--tort in--
+2005.04-848,1,38150,patricia_a_millett,,3112.666,3114.51,--intentional torts fall within 2680(h).
+2005.04-848,1,15086,john_g_roberts_jr,scotus_justice,3181.941,3182.685,"Thank you, Counsel."
+2005.04-848,2,32630,james_r_radmore,,3185.953,3188.282,Just one point.
+2005.04-848,2,15086,john_g_roberts_jr,scotus_justice,3208.512,3214.429,"Do you have any... I mean, you'll be responsible, if you prevail, for all of us having to go down to the Post Office every time we get--"
+2005.04-848,3,38150,patricia_a_millett,,3217.297,3218.901,"Well, then I'll probably--"
+2005.04-848,3,15086,john_g_roberts_jr,scotus_justice,3218.901,3221.339,--do you have any response to that policy concern?
+2005.04-848,3,38150,patricia_a_millett,,3218.901,3225.488,"--Then I'll probably be subject to some intentional torts, myself."
+2005.04-848,3,15084,ruth_bader_ginsburg,scotus_justice,3225.852,3255.67,"What about the practical problem that was raised that, in the automobile accident, there's witnesses, there's a police report, usually; but a slip and fall over mail, nobody's around, these are easily made up, and the Post Office has no opportunity to check?"
+2005.04-848,4,32630,james_r_radmore,,3255.67,3261.096,"The Post Office has every opportunity, just as in any ordinary tort."
+2005.04-848,4,15084,ruth_bader_ginsburg,scotus_justice,3276.842,3286.248,"But the point that... I think that they were making is that there will be an investigation, on the spot, ordinarily, in the case of a vehicle collision."
+2005.04-848,4,32630,james_r_radmore,,3292.98,3296.47,--But that's... that's the situation in any tort.
+2005.04-848,4,15086,john_g_roberts_jr,scotus_justice,3311.404,3313.832,"Yes, but the volume is unique."
+2005.04-848,4,32630,james_r_radmore,,3329.096,3334.013,That's what you'd have to do to a UPS or a Federal Express employee.
+2005.04-848,4,15086,john_g_roberts_jr,scotus_justice,3406.189,3409.68,"Thank you, Counsel."

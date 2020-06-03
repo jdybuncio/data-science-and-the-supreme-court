@@ -1,0 +1,281 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2007.07-552,0,15086,john_g_roberts_jr,scotus_justice,0.0,9.293,"We'll hear argument first today in Case 07-552, Sprint Communications Company v. APCC Services, Inc.."
+2007.07-552,0,19760,carter_g_phillips,,10.353,23.927,"Thank you, Mr. Chief Justice, and may it please the Court: Chief Judge Sentelle observed in his dissent below that there are assignments and there are assignments, and that's essentially going to be the theme of my presentation this morning."
+2007.07-552,0,15049,antonin_scalia,scotus_justice,57.335,58.115,Say it again?
+2007.07-552,0,19760,carter_g_phillips,,60.069,80.217,"--I think the second part of the common ground is that if all that the assignee receives is the power of attorney, that is to serve as the lawyer for the assignor, under those circumstances the assignee doesn't... cannot... has no common stake than I or my clients do in these particular cases, any more than I do in my client's interest in these particular cases, and there I don't think anybody disputes that Article III is not satisfied."
+2007.07-552,0,15086,john_g_roberts_jr,scotus_justice,118.717,130.119,"So that if these contracts provided that the aggregators will turn over all of the proceeds of the litigation except for one penny, then you'd be satisfied?"
+2007.07-552,0,19760,carter_g_phillips,,130.119,131.789,"Well, I'm not sure I'd be satisfied."
+2007.07-552,0,15049,antonin_scalia,scotus_justice,161.401,163.541,"Well then, this is not really a very significant case, is it?"
+2007.07-552,0,19760,carter_g_phillips,,189.141,192.904,"But it is a big deal, not necessarily because of the importance of the article."
+2007.07-552,0,15084,ruth_bader_ginsburg,scotus_justice,235.12,244.74,"But it would be just the same, Mr. Phillips, would it not, if the arrangement was that the aggregator gets a piece of the action?"
+2007.07-552,0,19760,carter_g_phillips,,288.895,294.362,"Well, and I would... I would still assert those same prudential objections in the hypothetical you pose."
+2007.07-552,0,15049,antonin_scalia,scotus_justice,312.12,313.762,"Go ahead, I'm sorry."
+2007.07-552,0,19760,carter_g_phillips,,313.762,316.76,"--In that context, Justice Ginsburg, you do have the problems."
+2007.07-552,0,15049,antonin_scalia,scotus_justice,336.8,351.902,What if all of the claimants assign their claims to something called an agglomeration trust and the... the person who's bringing suit here brings it as a trustee?
+2007.07-552,0,19760,carter_g_phillips,,364.568,373.907,"I mean, there is a long tradition of allowing trustees to bring litigation on behalf of the trust because that's the only way that a trust can in fact enforce its rights."
+2007.07-552,0,15049,antonin_scalia,scotus_justice,373.907,374.719,"So once again, it's no big deal."
+2007.07-552,0,19760,carter_g_phillips,,375.3,380.451,"Well, it is a big deal, because trust relationships carry all kinds of additional legal consequences."
+2007.07-552,0,15042,david_h_souter,scotus_justice,392.118,396.697,He would do the same thing in Justice Scalia's example if it were an irrevocable trust.
+2007.07-552,0,19760,carter_g_phillips,,401.976,407.88,"That's true, but there are additional trust responsibilities that would attach to that process."
+2007.07-552,0,15042,david_h_souter,scotus_justice,409.705,421.81,"--that might protect those who assigned their interest to the trust, but I don't offhand see what difference it would make, what difference those responsibilities would make vis a vis you and your client."
+2007.07-552,0,19760,carter_g_phillips,,421.81,428.555,"Well, again, Justice Souter, I think the answer probably is going to depend on how the Court interprets the prudential standing doctrine."
+2007.07-552,0,15042,david_h_souter,scotus_justice,438.475,441.552,But the real issue is not whether the trustee can sue.
+2007.07-552,0,19760,carter_g_phillips,,443.787,445.628,Right.
+2007.07-552,0,15042,david_h_souter,scotus_justice,447.706,452.44,"It seems to me in his example if the trust can sue, why can't the aggregator sue?"
+2007.07-552,0,19760,carter_g_phillips,,465.947,467.432,"Well, there are two differentiations."
+2007.07-552,0,15060,john_paul_stevens,scotus_justice,505.48,507.103,You mentioned discovery.
+2007.07-552,0,19760,carter_g_phillips,,511.821,514.179,--Because they're not a party to the litigation.
+2007.07-552,0,15060,john_paul_stevens,scotus_justice,515.443,517.553,Subpoenas out there and depositions.
+2007.07-552,0,19760,carter_g_phillips,,517.553,538.17,"--But, Justice Stevens, if you sue me, you hail me into court, you put me to the burdens of being a defendant in litigation, the least I ought to get out of that is that I can turn to you and ask you to admit certain facts, I can turn to you and ask you to answer certain interrogatories, and I don't have to go chasing you down, because you've already submitted yourself to the personal jurisdiction of that court."
+2007.07-552,0,15060,john_paul_stevens,scotus_justice,538.17,539.964,"Of course, in this particular situation you can do the same thing."
+2007.07-552,0,19760,carter_g_phillips,,547.853,553.382,"Well, I can serve them on the aggregator, but I cannot serve them on the party who in fact has the relevant information that I need."
+2007.07-552,0,15060,john_paul_stevens,scotus_justice,555.663,557.005,I would assume the aggregators have the relevant information.
+2007.07-552,0,19760,carter_g_phillips,,557.005,557.956,"I'm sorry, Justice Stevens?"
+2007.07-552,0,15060,john_paul_stevens,scotus_justice,557.956,560.8,I would assume the aggregator would have the relevant information.
+2007.07-552,0,19760,carter_g_phillips,,560.8,564.707,In some instances it might or it might not.
+2007.07-552,0,15060,john_paul_stevens,scotus_justice,567.845,574.124,But they have to... they have the burden of proof in the case and I assume they have to investigate the facts and be prepared for trial.
+2007.07-552,0,19760,carter_g_phillips,,574.124,579.217,"And that would help on the affirmative case that they have to put together, but it doesn't help with respect to the counterclaims."
+2007.07-552,0,15113,anthony_m_kennedy,scotus_justice,618.185,628.007,But you can make that same answer if it's just a standard assignee for collection of... of a debt for single person.
+2007.07-552,0,19760,carter_g_phillips,,628.007,635.209,"Right, but if it's a simple assignee for a debt and nothing more than that, just a power of attorney... or are you talking about a full assignment?"
+2007.07-552,0,15113,anthony_m_kennedy,scotus_justice,635.209,635.926,"No, no."
+2007.07-552,0,19760,carter_g_phillips,,637.861,638.723,But in no circumstance--
+2007.07-552,0,15113,anthony_m_kennedy,scotus_justice,638.723,641.628,"You can make the same argument: Oh, he might not have all the information."
+2007.07-552,0,19760,carter_g_phillips,,641.628,647.126,"--Right, but at least there he is also responsible for both... he has the entirety of the right."
+2007.07-552,0,15139,stephen_g_breyer,scotus_justice,672.285,674.801,You have a discovery problem.
+2007.07-552,0,19760,carter_g_phillips,,725.905,726.358,"--But, Justice--"
+2007.07-552,0,15139,stephen_g_breyer,scotus_justice,726.358,729.886,"Or you could go to the FCC and you say, FCC, you got us into this."
+2007.07-552,0,19760,carter_g_phillips,,744.334,756.828,"--Well, there are two elements of the standing problem: The first one is we're all... let's be clear... we're talking about a hypothetical that's different from this case because we're talking about a hypothetical where in fact the assignee has a concrete interest in the outcome of this dispute."
+2007.07-552,0,15084,ruth_bader_ginsburg,scotus_justice,831.206,831.69,But--
+2007.07-552,0,15049,antonin_scalia,scotus_justice,831.69,838.093,--What do you do about... about aggregated plaintiffs who are not in the field of Federal regulation?
+2007.07-552,0,19760,carter_g_phillips,,856.273,870.908,"Well, I think when the Court is considering the questions of prudence, you know, it can certainly take it into account, and maybe that would argue in the alternative in another case if there weren't such an available vehicle that the Court might be more inclined to entertain it under those circumstances."
+2007.07-552,0,15084,ruth_bader_ginsburg,scotus_justice,870.908,872.125,--Would there be review?
+2007.07-552,0,19760,carter_g_phillips,,888.402,890.399,"I mean, Justice Ginsburg, that is Spiller."
+2007.07-552,0,15084,ruth_bader_ginsburg,scotus_justice,916.949,918.357,What is the advantage?
+2007.07-552,0,19760,carter_g_phillips,,927.541,931.62,From my perspective or from the plaintiffs' perspective.
+2007.07-552,0,15084,ruth_bader_ginsburg,scotus_justice,931.62,934.556,Why would the plaintiff make such a choice if the agency--
+2007.07-552,0,19760,carter_g_phillips,,934.556,942.316,"Because the... the plaintiffs here, the payphone operators, get a free pass in this proceeding."
+2007.07-552,0,15139,stephen_g_breyer,scotus_justice,961.419,962.947,How is that different?
+2007.07-552,0,19760,carter_g_phillips,,962.947,963.447,When--
+2007.07-552,0,15139,stephen_g_breyer,scotus_justice,963.447,967.448,Just on that very point... I need clarification on this.
+2007.07-552,0,19760,carter_g_phillips,,978.55,979.271,--Right.
+2007.07-552,0,15139,stephen_g_breyer,scotus_justice,979.271,982.332,And there you might foreclose on the secured interests.
+2007.07-552,0,19760,carter_g_phillips,,988.469,989.234,"Well, I don't know--"
+2007.07-552,0,15139,stephen_g_breyer,scotus_justice,989.234,991.09,In the respect you were just talking about.
+2007.07-552,0,19760,carter_g_phillips,,991.09,991.359,--Right.
+2007.07-552,0,15139,stephen_g_breyer,scotus_justice,997.606,1000.527,"I know, but I mean, there may be many reasons for that."
+2007.07-552,0,19760,carter_g_phillips,,1006.79,1010.397,"--Right, but most of that's litigated in State courts, in which case there's no serious problem--"
+2007.07-552,0,15139,stephen_g_breyer,scotus_justice,1010.397,1013.505,"Go back to my question, I'd like to get an answer to it."
+2007.07-552,0,19760,carter_g_phillips,,1013.505,1014.067,--Certainly.
+2007.07-552,0,15139,stephen_g_breyer,scotus_justice,1014.067,1028.451,"In respect to the problem you were just mentioning, the discovery problem of counterclaims or those problems, is this case any different than the financing case I just mentioned?"
+2007.07-552,0,19760,carter_g_phillips,,1028.451,1029.028,"No, I don't think so."
+2007.07-552,0,15139,stephen_g_breyer,scotus_justice,1029.028,1029.434,No.
+2007.07-552,0,19760,carter_g_phillips,,1029.434,1032.388,I think those exact problems would arise in that context as well.
+2007.07-552,0,15042,david_h_souter,scotus_justice,1051.818,1052.379,Could you explain that?
+2007.07-552,0,19760,carter_g_phillips,,1076.981,1084.102,"I guess I would encourage you to ask counsel on the other side, because personally I would think that they would have a full and fair remedy--"
+2007.07-552,0,15042,david_h_souter,scotus_justice,1084.102,1085.584,So you don't know of any benefits?
+2007.07-552,0,19760,carter_g_phillips,,1085.584,1086.056,--I'm sorry?
+2007.07-552,0,15042,david_h_souter,scotus_justice,1086.056,1087.787,You don't know of any benefits?
+2007.07-552,0,19760,carter_g_phillips,,1087.787,1093.394,"I don't know... well, other than the ones I've already articulated, where I think they get some advantages of being in a Federal court and have--"
+2007.07-552,0,15042,david_h_souter,scotus_justice,1093.394,1095.161,"Well, you eliminate step one."
+2007.07-552,0,19760,carter_g_phillips,,1106.204,1110.404,"--Well, and that may well be his answer."
+2007.07-552,0,15113,anthony_m_kennedy,scotus_justice,1110.404,1115.839,"Well, I'd like you to go back to the question that Justice Stevens, Justice Breyer, and I asked you."
+2007.07-552,0,19760,carter_g_phillips,,1141.109,1143.015,"Right, there is Article III."
+2007.07-552,0,15113,anthony_m_kennedy,scotus_justice,1143.015,1144.061,And Article III.
+2007.07-552,0,19760,carter_g_phillips,,1144.061,1144.61,Right.
+2007.07-552,0,15113,anthony_m_kennedy,scotus_justice,1147.843,1157.946,"If you're saying, if you're saying that it's the aggregation that makes it difficult to reach everybody, well, that's a question of discovery, and it's still the aggregator's responsibility."
+2007.07-552,0,19760,carter_g_phillips,,1162.993,1164.584,"--Well, that may or may not have happen."
+2007.07-552,0,15084,ruth_bader_ginsburg,scotus_justice,1204.32,1204.773,--But you said--
+2007.07-552,0,19760,carter_g_phillips,,1204.773,1205.365,"--I am sorry, Your Honor."
+2007.07-552,0,15084,ruth_bader_ginsburg,scotus_justice,1205.365,1232.385,--You said the aggregator had... that the aggregator could sue on behalf of these 1400 plaintiffs naming every one of them as a named plaintiff in this complaint and still the aggregator would run the show because they each authorized the aggregator to conduct the litigation.
+2007.07-552,0,19760,carter_g_phillips,,1232.385,1232.962,Right.
+2007.07-552,0,15084,ruth_bader_ginsburg,scotus_justice,1232.962,1244.209,"Now, it seems to me that it's not very prudential to require that there be 1400 named plaintiffs instead of one."
+2007.07-552,0,19760,carter_g_phillips,,1244.209,1257.907,"Well, I mean, the price you pay... bless you... is that when you bring Federal court litigation... is that you have to have... you have to expose yourself to exactly the burdens that come with it."
+2007.07-552,0,15042,david_h_souter,scotus_justice,1257.907,1259.249,You also pay a price.
+2007.07-552,0,19760,carter_g_phillips,,1265.09,1265.667,Right.
+2007.07-552,0,15084,ruth_bader_ginsburg,scotus_justice,1269.45,1274.819,But I thought your position was they could all join in one complaint just as long as they're all named separately.
+2007.07-552,0,19760,carter_g_phillips,,1274.819,1277.07,They can join in a single complaint.
+2007.07-552,0,15113,anthony_m_kennedy,scotus_justice,1316.681,1317.897,"Well, I don't like to be the broken record."
+2007.07-552,0,19760,carter_g_phillips,,1329.83,1341.341,"--Well, I don't doubt that the trial court can do that, but the question is: Why do we have to go to the burden of having to chase all of that in the first instance?"
+2007.07-552,0,15042,david_h_souter,scotus_justice,1381.529,1382.091,I'm sorry.
+2007.07-552,0,19760,carter_g_phillips,,1442.627,1451.467,"I think the answer to that is that when you... when you deal with mass tort litigation, the Rules of Civil Procedure ought to apply in that context as it applies in every other place."
+2007.07-552,0,15042,david_h_souter,scotus_justice,1476.085,1479.208,What does that have to do with... I guess that goes to prudential standing.
+2007.07-552,0,19760,carter_g_phillips,,1479.208,1479.91,It goes directly--
+2007.07-552,0,15042,david_h_souter,scotus_justice,1479.91,1481.002,It has nothing to do with Article III standing.
+2007.07-552,0,19760,carter_g_phillips,,1481.002,1481.845,"--No, to be sure."
+2007.07-552,0,15042,david_h_souter,scotus_justice,1510.053,1528.841,"Are you saying, in effect, that if we get to the prudential-standing point, the answer is that in the absence of a rule comparable to Rule 23 we should not recognize prudential standing, but that if we adopted a rule that sort of regulated how this would work, prudential standing would be appropriate?"
+2007.07-552,0,19760,carter_g_phillips,,1529.516,1532.608,"--I think that's the right answer, is that the Court shouldn't just make it up as it goes along."
+2007.07-552,0,15084,ruth_bader_ginsburg,scotus_justice,1548.257,1559.315,Is there any significance to this being the... this assignment transfers legal title.
+2007.07-552,0,19760,carter_g_phillips,,1596.236,1609.245,That... I mean the proceeds... I assume... do those claims arise out of the relationship between the payphone operators and the aggregator?
+2007.07-552,0,15084,ruth_bader_ginsburg,scotus_justice,1609.245,1609.717,No.
+2007.07-552,0,19760,carter_g_phillips,,1609.717,1610.934,It's completely unrelated to that?
+2007.07-552,0,15084,ruth_bader_ginsburg,scotus_justice,1611.994,1612.84,These are just the creditors.
+2007.07-552,0,19760,carter_g_phillips,,1616.51,1623.834,I assume those moneys could be taken out of the aggregator and then the PSP would have a claim over against the aggregator for breach of contract.
+2007.07-552,0,15086,john_g_roberts_jr,scotus_justice,1626.317,1627.097,"Thank you, Mr. Phillips."
+2007.07-552,1,39134,roy_t_englert,,1630.552,1639.579,"Thank you, Mr. Chief Justice, and may it please the Court: One of the last things Mr. Phillips said was there's no need to change the law in this case and I strongly agree with that."
+2007.07-552,1,15049,antonin_scalia,scotus_justice,1654.168,1659.775,But also not one in which the issue of standing was raised and decided.
+2007.07-552,1,39134,roy_t_englert,,1669.146,1677.658,"Justice Scalia, a single decision, a small body of decisions that don't address the issue of standing, can be looked at in that way."
+2007.07-552,1,15049,antonin_scalia,scotus_justice,1684.357,1687.278,I don't consider two decisions an enormous body.
+2007.07-552,1,39134,roy_t_englert,,1687.278,1689.747,--But there is an enormous body in the lower courts under Rule 17.
+2007.07-552,1,15049,antonin_scalia,scotus_justice,1689.747,1691.322,"Well, we don't count the lower courts."
+2007.07-552,1,15042,david_h_souter,scotus_justice,1692.074,1702.927,"Mr. Englert, with respect to what weight we should give to those decisions, I just want to put a simple hypo and I'll ask a question on it."
+2007.07-552,1,39134,roy_t_englert,,1736.619,1737.133,Absolutely.
+2007.07-552,1,15042,david_h_souter,scotus_justice,1737.133,1751.488,"Now, my question is, you're taking that position, I think, just as you did in response to Justice Scalia, on the grounds that there is a huge body of law that assignment for collection conveys adequate standing."
+2007.07-552,1,39134,roy_t_englert,,1771.258,1776.32,"Justice Souter, the cases don't always discuss the way in which the assignment arose."
+2007.07-552,1,15049,antonin_scalia,scotus_justice,1788.066,1791.127,What's the earliest of those cases in our Court?
+2007.07-552,1,39134,roy_t_englert,,1791.127,1793.236,The earliest case--
+2007.07-552,1,15049,antonin_scalia,scotus_justice,1793.236,1804.512,"The earliest case in our Court that upholds this that, without specifically addressing the standing issue, gives judgment?"
+2007.07-552,1,39134,roy_t_englert,,1804.512,1807.808,--The earliest case that gives judgment is Spiller in 1920.
+2007.07-552,1,15049,antonin_scalia,scotus_justice,1807.808,1809.087,1920?
+2007.07-552,1,39134,roy_t_englert,,1809.087,1809.727,Yes.
+2007.07-552,1,15049,antonin_scalia,scotus_justice,1809.727,1832.672,"In Vermont Agency, in the Vermont Agency case, which dealt with qui tam, that many people, including the Justice Department, thought did not confer Article III standing, we held to the contrary that it did confer Article III standing, mainly because it had been around forever."
+2007.07-552,1,39134,roy_t_englert,,1854.146,1862.456,"Well, assignee standing, not assignee for collection standing but assignee standing, is referred to in Blackstone's Commentaries contemporaneously with the Constitution."
+2007.07-552,1,15049,antonin_scalia,scotus_justice,1862.456,1863.349,"Sure, but--"
+2007.07-552,1,39134,roy_t_englert,,1863.349,1864.94,This wrinkle of arguing--
+2007.07-552,1,15049,antonin_scalia,scotus_justice,1864.94,1865.908,--It's more than a wrinkle.
+2007.07-552,1,39134,roy_t_englert,,1867.221,1873.375,--But the wrinkle of arguing that that makes a difference as far as I know first arose in the 19th century.
+2007.07-552,1,15049,antonin_scalia,scotus_justice,1879.262,1882.963,What's the earliest Federal court case you have?
+2007.07-552,1,39134,roy_t_englert,,1882.963,1885.588,Late 18th... late 19th century.
+2007.07-552,1,15049,antonin_scalia,scotus_justice,1885.588,1886.851,Late 19th century?
+2007.07-552,1,39134,roy_t_englert,,1886.851,1887.4,Yes.
+2007.07-552,1,15086,john_g_roberts_jr,scotus_justice,1887.4,1889.116,We're not under any body of law.
+2007.07-552,1,39134,roy_t_englert,,1899.802,1904.972,"Well, as you know, I argue that the Vermont Agency case strongly supports us."
+2007.07-552,1,15068,samuel_a_alito_jr,scotus_justice,1910.046,1920.059,"Well, aren't Titus and Spiller different in that there the assignee is suing on a judgment that was obtained in a forum where Article III didn't apply?"
+2007.07-552,1,39134,roy_t_englert,,1920.059,1921.884,"No, absolutely not, Justice Alito."
+2007.07-552,1,15068,samuel_a_alito_jr,scotus_justice,1921.884,1922.839,Why isn't that irrelevant?
+2007.07-552,1,39134,roy_t_englert,,1922.839,1924.539,Because for the exact reason Mr. Phillips gave you.
+2007.07-552,1,15086,john_g_roberts_jr,scotus_justice,1973.006,1979.925,"Counsel, you say in your brief that there is no reason for concern about the absence of concrete adverseness."
+2007.07-552,1,39134,roy_t_englert,,1985.454,1986.25,My client--
+2007.07-552,1,15086,john_g_roberts_jr,scotus_justice,1986.25,1987.454,It's all the same to him.
+2007.07-552,1,39134,roy_t_englert,,1990.34,1993.858,"--Well, that's... that's false in every possible respect, Your Honor."
+2007.07-552,1,15086,john_g_roberts_jr,scotus_justice,2000.417,2003.493,I thought the question came to us on the assumption that he doesn't retain any of the money.
+2007.07-552,1,39134,roy_t_englert,,2003.493,2005.228,"--On the assumption, but not the fact."
+2007.07-552,1,15086,john_g_roberts_jr,scotus_justice,2013.866,2023.189,But I thought our cases made clear that that kind of... I forget what we call it... it's a separate interest from the injury that you're alleging in the lawsuit.
+2007.07-552,1,39134,roy_t_englert,,2032.404,2032.857,No.
+2007.07-552,1,15086,john_g_roberts_jr,scotus_justice,2038.902,2041.869,"Well, but then why is the assignee bringing the lawsuit?"
+2007.07-552,1,39134,roy_t_englert,,2041.869,2042.587,The assignee--
+2007.07-552,1,15086,john_g_roberts_jr,scotus_justice,2042.587,2044.022,He had no independent injury.
+2007.07-552,1,39134,roy_t_englert,,2044.022,2048.741,--The assignee is bringing the lawsuit for the most pragmatic of all possible reasons.
+2007.07-552,1,15086,john_g_roberts_jr,scotus_justice,2072.995,2074.462,"I'm sorry, we got off the track here."
+2007.07-552,1,39134,roy_t_englert,,2074.462,2074.777,--We did.
+2007.07-552,1,15086,john_g_roberts_jr,scotus_justice,2074.777,2078.15,I'm trying to find out what the assignee's injury is.
+2007.07-552,1,39134,roy_t_englert,,2078.15,2080.275,The... the assignee's injury--
+2007.07-552,1,15086,john_g_roberts_jr,scotus_justice,2080.275,2083.036,And how it's redressed by the receipt of the money.
+2007.07-552,1,39134,roy_t_englert,,2083.036,2088.551,"--It is, as this Court said in Vermont Agency, the assignor's injury and it is redressed by--"
+2007.07-552,1,15086,john_g_roberts_jr,scotus_justice,2088.551,2088.909,No.
+2007.07-552,1,39134,roy_t_englert,,2095.909,2104.577,"--Here that's not the case, but the reasoning of Vermont Agency specifically rejected the proposition that the bounty was helpful to the assignee's standing."
+2007.07-552,1,15084,ruth_bader_ginsburg,scotus_justice,2116.12,2141.327,"I thought it said... I thought it said, Mr. Englert, that, that the United States has... is treated as having assigned part of its claim for damages to the qui tam relator, and that gave the qui tam plaintiff a stake in the action, a stake in the proceeds."
+2007.07-552,1,15049,antonin_scalia,scotus_justice,2155.665,2160.165,"I was under the same misimpression, I have to say, and I wrote it."
+2007.07-552,1,39134,roy_t_englert,,2162.115,2167.176,"The... the assignment in this case conveys all right, title and interest."
+2007.07-552,1,15049,antonin_scalia,scotus_justice,2207.599,2218.967,"I must say we seem to have come full circle from Flash v. Cohen, which said that the doctrine of standing had nothing whatever to do with Article III."
+2007.07-552,1,39134,roy_t_englert,,2238.646,2240.413,"Oh, Justice Scalia--"
+2007.07-552,1,15049,antonin_scalia,scotus_justice,2240.413,2250.548,"Is there a combination of the two that's possible, that maybe one of the elements of Article III standing is that both parties have a stake in winning and losing?"
+2007.07-552,1,39134,roy_t_englert,,2250.548,2253.563,--There is tremendous concrete adverseness in this case.
+2007.07-552,1,15086,john_g_roberts_jr,scotus_justice,2279.74,2287.176,"The Sierra Club protect... undertakes activities to protect the environment, but that doesn't give it standing in every environmental case to sue."
+2007.07-552,1,39134,roy_t_englert,,2294.842,2297.592,My client is not in the business of suing on the behalf of payphone operators.
+2007.07-552,1,15113,anthony_m_kennedy,scotus_justice,2304.997,2309.29,"Can you tell me is this 1,400 causes of action or is it one?"
+2007.07-552,1,39134,roy_t_englert,,2309.29,2309.883,One.
+2007.07-552,1,15113,anthony_m_kennedy,scotus_justice,2309.883,2313.396,How does that come about?
+2007.07-552,1,39134,roy_t_englert,,2321.395,2322.287,Sure.
+2007.07-552,1,15113,anthony_m_kennedy,scotus_justice,2323.691,2333.561,"And how does the law express the metaphysical process in which 1,400 causes of action become one cause of action?"
+2007.07-552,1,39134,roy_t_englert,,2333.561,2340.042,"--Well, they are all assigned to one entity that brings the cause of action just as a trustee brings causes of action--"
+2007.07-552,1,15113,anthony_m_kennedy,scotus_justice,2340.042,2343.088,"Well, there is not a representative cause of action."
+2007.07-552,1,39134,roy_t_englert,,2347.147,2358.377,"--The point at which they are all assigned to one entity that then brings the cause of action, and importantly, has authority to settle the cause of action without any further permission from the clients."
+2007.07-552,1,15113,anthony_m_kennedy,scotus_justice,2361.688,2363.922,I'm still missing something here.
+2007.07-552,1,39134,roy_t_englert,,2371.34,2378.308,"--Every Rule 23 class action, every associational standing case, every trustee action."
+2007.07-552,1,15113,anthony_m_kennedy,scotus_justice,2378.308,2380.916,I interrupted you and I talked over you.
+2007.07-552,1,39134,roy_t_englert,,2384.461,2387.772,"Every associational standing case, every action brought by a trustee."
+2007.07-552,1,15113,anthony_m_kennedy,scotus_justice,2387.772,2396.611,"Well, associational standing, Sierra Club v. Morton, they are interested in an ongoing injury in which there is a common... in which there is a common injury."
+2007.07-552,1,39134,roy_t_englert,,2399.283,2402.001,"But that's not uncommon, Your Honor."
+2007.07-552,1,15113,anthony_m_kennedy,scotus_justice,2422.759,2429.505,Those are usually ongoing injuries as to which there's a common interest in stopping the injury.
+2007.07-552,1,39134,roy_t_englert,,2433.081,2435.643,It's actually not entirely liquidated amounts.
+2007.07-552,1,15113,anthony_m_kennedy,scotus_justice,2441.671,2447.747,I might understand it if was some sort of injunction actions... in the future please pay what you're supposed to pay.
+2007.07-552,1,39134,roy_t_englert,,2447.747,2448.277,No.
+2007.07-552,1,15113,anthony_m_kennedy,scotus_justice,2462.334,2469.876,But that's allowed because the requisites for class actions have been met and that's authorized by the rule.
+2007.07-552,1,39134,roy_t_englert,,2471.108,2473.031,Because we have something much better here.
+2007.07-552,1,15113,anthony_m_kennedy,scotus_justice,2479.73,2485.12,There are a lot of better procedures that are in the rules but it is not in the rule.
+2007.07-552,1,39134,roy_t_englert,,2485.12,2485.962,--Actually there is.
+2007.07-552,1,15060,john_paul_stevens,scotus_justice,2500.051,2501.069,May I ask a fact question?
+2007.07-552,1,39134,roy_t_englert,,2514.592,2516.0,"--You're not missing something, Justice Stevens."
+2007.07-552,1,15049,antonin_scalia,scotus_justice,2524.621,2525.759,Except for counterclaims.
+2007.07-552,1,39134,roy_t_englert,,2527.538,2538.208,"He says he has some counterclaims, but in nine years of litigation his clients have never used Rule 19; they have never used Rule 22; they have never made any effort... he says we have asserted they have to go out and bring 1,400 separate lawsuits."
+2007.07-552,1,15084,ruth_bader_ginsburg,scotus_justice,2543.004,2543.503,"Well, what did they do?"
+2007.07-552,1,39134,roy_t_englert,,2575.475,2587.642,"--Well, Your Honor, my point is that there are many procedural devices available to deal with many situations like this, Rule 19 and Rule 22 and separate lawsuits."
+2007.07-552,1,15139,stephen_g_breyer,scotus_justice,2669.649,2675.318,Well I guess it could be that you're asking them to go back into records that are somewhat old.
+2007.07-552,1,39134,roy_t_englert,,2702.509,2703.371,"No, they do."
+2007.07-552,1,15139,stephen_g_breyer,scotus_justice,2704.042,2716.661,"--They say maybe the time necessary to go through those records, to figure out whether you should give 12 cents to the person who ran that payphone, is really not worth it."
+2007.07-552,1,39134,roy_t_englert,,2716.661,2717.285,--Well--
+2007.07-552,1,15139,stephen_g_breyer,scotus_justice,2717.285,2725.859,"And therefore, if they are right in some claim like that, is there a way to get this worked out at the FCC?"
+2007.07-552,1,39134,roy_t_englert,,2748.212,2750.4,"--Your Honor, several points if I may."
+2007.07-552,1,15139,stephen_g_breyer,scotus_justice,2765.376,2766.905,I'm aware of that system.
+2007.07-552,1,39134,roy_t_englert,,2767.763,2775.341,"Well, as... and there is about $200 million at stake in this case so this is not about each 24-cent payphone call individually."
+2007.07-552,1,15139,stephen_g_breyer,scotus_justice,2777.762,2778.651,Right.
+2007.07-552,1,39134,roy_t_englert,,2784.134,2784.633,There are.
+2007.07-552,1,15139,stephen_g_breyer,scotus_justice,2784.633,2791.208,And it could be quite expensive to track down each of those calls individually.
+2007.07-552,1,39134,roy_t_englert,,2803.359,2816.027,"Your Honor, my client has brought scores of these actions... my clients have brought scores of these actions, some before the FCC, the largest ones... and this is the largest one of all... in Federal court to get the advantage of the discovery processes in Federal court."
+2007.07-552,1,15139,stephen_g_breyer,scotus_justice,2835.643,2837.534,In settlement they may work out.
+2007.07-552,1,39134,roy_t_englert,,2874.595,2884.717,"Well, this case was brought in Federal court under a statute that permits the plaintiffs to choose whether to go to Federal Supreme Court or the FCC."
+2007.07-552,1,15049,antonin_scalia,scotus_justice,2907.3,2913.344,"Mr. Englert, is this one lawsuit or 1,400 lawsuits, or however many clients you have?"
+2007.07-552,1,39134,roy_t_englert,,2913.344,2915.017,It's one lawsuit.
+2007.07-552,1,15049,antonin_scalia,scotus_justice,2915.017,2920.282,"How can it be... how is it one lawsuit when there are, I mean, just a lot of different individual claims?"
+2007.07-552,1,39134,roy_t_englert,,2922.905,2932.619,"We, after Judge Sentelle dismissed this case, we moved to the alternative to amend our complaint to add either 1,400 individual plaintiffs or a class action."
+2007.07-552,1,15049,antonin_scalia,scotus_justice,2936.242,2941.6,"They opposed it on what seems to be a reasonable ground, that each of these claims is quite different."
+2007.07-552,1,39134,roy_t_englert,,2952.3,2953.532,"--That's really not true, Justice Scalia."
+2007.07-552,1,15113,anthony_m_kennedy,scotus_justice,2965.041,2967.805,Do you agree that this could not have been brought as a class action?
+2007.07-552,1,39134,roy_t_englert,,2967.805,2969.213,"No, I disagree, Justice Kennedy."
+2007.07-552,1,15113,anthony_m_kennedy,scotus_justice,2969.213,2970.461,Why didn't you bring it as a class action?
+2007.07-552,1,39134,roy_t_englert,,2970.461,2971.163,I'm sorry?
+2007.07-552,1,15113,anthony_m_kennedy,scotus_justice,2971.163,2973.241,Then why didn't you bring it as a class action?
+2007.07-552,1,39134,roy_t_englert,,2974.349,2988.25,"Because it's so much better to bring it on behalf of individuals who have expressly consented to be bound, than on behalf of people who may not even know about it and who may not have consented to be bound and may not want to be bound as in the typical class action."
+2007.07-552,1,15139,stephen_g_breyer,scotus_justice,3019.474,3021.501,Do you... this is giving me a thought here.
+2007.07-552,1,39134,roy_t_englert,,3071.419,3071.918,Yes.
+2007.07-552,1,15139,stephen_g_breyer,scotus_justice,3071.918,3072.733,Other than standing.
+2007.07-552,1,39134,roy_t_englert,,3072.733,3074.075,Push the parties to settle.
+2007.07-552,1,15139,stephen_g_breyer,scotus_justice,3075.872,3080.996,"Well, the defendant says... now your client, I am not going to settle; there are no such claims."
+2007.07-552,1,39134,roy_t_englert,,3083.933,3099.597,"--Yeah, the client says millions for defense, but not one cent... one cent for tribute and every lawyer gets happy, because the client wants to litigate to the death instead of just surrendering to extortion, in that kind of case they have to decide whether the economically rational thing is to set a bad precedent or is to settle."
+2007.07-552,1,15086,john_g_roberts_jr,scotus_justice,3103.687,3104.424,--Speaking... speaking--
+2007.07-552,1,39134,roy_t_englert,,3104.424,3105.298,# but this case is not of that nature.
+2007.07-552,1,15086,john_g_roberts_jr,scotus_justice,3105.298,3110.075,"Speaking of one cent for tribute, it's easy to get rid of this problem, isn't it?"
+2007.07-552,1,39134,roy_t_englert,,3110.075,3113.167,--Prospectively.
+2007.07-552,1,15086,john_g_roberts_jr,scotus_justice,3113.167,3119.102,Why don't your agreements just say you get to keep $10 out of every sum that your recover?
+2007.07-552,1,39134,roy_t_englert,,3120.584,3123.423,"I agree, and we made that point in our brief in opposition to cert.."
+2007.07-552,1,15086,john_g_roberts_jr,scotus_justice,3132.501,3133.141,So why--
+2007.07-552,1,39134,roy_t_englert,,3133.141,3133.609,--So my clients--
+2007.07-552,1,15086,john_g_roberts_jr,scotus_justice,3133.609,3136.623,--Why doesn't the tie go to Article III?
+2007.07-552,1,39134,roy_t_englert,,3144.854,3151.554,--Article III is a proper and important limit on court jurisdiction when it restricts court jurisdiction.
+2007.07-552,1,15086,john_g_roberts_jr,scotus_justice,3161.346,3161.923,"Well, but--"
+2007.07-552,1,39134,roy_t_englert,,3161.923,3162.597,What Article III--
+2007.07-552,1,15086,john_g_roberts_jr,scotus_justice,3162.597,3165.659,"--Well, Article III does trump tradition."
+2007.07-552,1,39134,roy_t_englert,,3180.481,3189.212,"--The... on the assumption on which this case comes to the Court, the aggregators' injury is the assigned injury of the assignors."
+2007.07-552,1,15084,ruth_bader_ginsburg,scotus_justice,3213.389,3213.951,The significance--
+2007.07-552,1,15049,antonin_scalia,scotus_justice,3213.951,3214.887,"Mr. Englert, could you--"
+2007.07-552,1,15084,ruth_bader_ginsburg,scotus_justice,3214.887,3223.741,"--to the legal title, would it make a difference if the assignee did not have legal title, was just--"
+2007.07-552,1,39134,roy_t_englert,,3223.741,3226.116,"Oh, it would make a huge difference, Justice Ginsburg."
+2007.07-552,1,15084,ruth_bader_ginsburg,scotus_justice,3226.116,3228.928,--So... but is that just a formality?
+2007.07-552,1,39134,roy_t_englert,,3251.67,3259.762,"Well, if we assume insolvency and we assume a secured creditor, then, yes, I think the PSPs are general unsecured creditors, and the secured creditor is in line ahead of them."
+2007.07-552,1,15084,ruth_bader_ginsburg,scotus_justice,3276.877,3279.143,How about for tax purposes?
+2007.07-552,1,39134,roy_t_englert,,3285.685,3287.417,"Your Honor, I'm sorry."
+2007.07-552,1,15049,antonin_scalia,scotus_justice,3296.648,3316.235,"--Mr. Englert, can you explain to me again how it is that when you acquire 14 separate choses in action, 14 separate claims, against the same defendant, just by your acquiring them they sort of melt into one cause of action."
+2007.07-552,1,39134,roy_t_englert,,3317.784,3320.439,That happens the same way it happens under Rule 23.
+2007.07-552,1,15086,john_g_roberts_jr,scotus_justice,3344.584,3354.221,"In all of those cases, the class action, the trustee, you know, the named plaintiff, the named trustee has concrete injury and redressability to themselves?"
+2007.07-552,1,39134,roy_t_englert,,3354.221,3355.862,No more than my clients.
+2007.07-552,1,15086,john_g_roberts_jr,scotus_justice,3355.862,3357.141,Very much more than your clients.
+2007.07-552,1,39134,roy_t_englert,,3372.587,3374.166,"I respectfully disagree, Your Honor."
+2007.07-552,1,15113,anthony_m_kennedy,scotus_justice,3383.771,3388.364,But why do we have Rule 23 that requires certification of a class action?
+2007.07-552,1,39134,roy_t_englert,,3392.626,3393.734,--For very good reasons.
+2007.07-552,1,15086,john_g_roberts_jr,scotus_justice,3434.218,3435.388,"Thank you, Mr. Englert."
+2007.07-552,2,19760,carter_g_phillips,,3444.779,3446.307,"Thank you, Mr. Chief Justice."
+2007.07-552,2,15113,anthony_m_kennedy,scotus_justice,3474.98,3475.838,And are problems--
+2007.07-552,2,19760,carter_g_phillips,,3475.838,3476.31,--to litigate the issue.
+2007.07-552,2,15113,anthony_m_kennedy,scotus_justice,3476.31,3488.851,--Are the requirements of typicality and... the same type of injury designed in part to preserve the rights of the defendant?
+2007.07-552,2,19760,carter_g_phillips,,3488.851,3495.753,"Yes, of course, because you don't want to have all this litigation being heaped on a particular defendant under these circumstances."
+2007.07-552,2,15084,ruth_bader_ginsburg,scotus_justice,3507.655,3508.812,But wouldn't you--
+2007.07-552,2,19760,carter_g_phillips,,3508.812,3509.186,--or associational standing.
+2007.07-552,2,15084,ruth_bader_ginsburg,scotus_justice,3509.186,3514.81,--Suppose this had been mounted as a class action.
+2007.07-552,2,19760,carter_g_phillips,,3517.29,3518.853,"To be sure, and my answer is--"
+2007.07-552,2,15084,ruth_bader_ginsburg,scotus_justice,3518.853,3529.756,"And one of the reasons would be that these are all different situations, different amounts involved in each case?"
+2007.07-552,2,19760,carter_g_phillips,,3536.409,3538.531,"--Absolutely, Justice Ginsburg."
+2007.07-552,2,15060,john_paul_stevens,scotus_justice,3559.693,3567.208,"Mr. Phillips, do you attach any significance to the fact that every member of the so-called class here has individually agreed to be bound by the judgment?"
+2007.07-552,2,19760,carter_g_phillips,,3567.208,3579.655,"Well, it's interesting because they... in one... in the assignment part of it they say they are bound, but on the... on the separate set of the agreement it talks about the reasonable discretion of the assignor... assignee."
+2007.07-552,2,15060,john_paul_stevens,scotus_justice,3584.421,3587.294,"Which... the assignees, but the assignors have agreed to be bound--"
+2007.07-552,2,19760,carter_g_phillips,,3587.294,3590.34,"Well, if it's reasonable... it says reasonable discretion."
+2007.07-552,2,15086,john_g_roberts_jr,scotus_justice,3633.27,3634.272,"Thank you, Mr. Phillips."

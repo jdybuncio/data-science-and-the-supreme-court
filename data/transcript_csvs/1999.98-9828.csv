@@ -1,0 +1,192 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1999.98-9828,0,15141,william_h_rehnquist,scotus_justice,0.0,9.197,"We'll hear argument first this morning in Number 98-9828, Maria Suzuki Ohler v. the United States."
+1999.98-9828,0,17557,benjamin_l_coleman,,10.49,13.388,"Mr. Chief Justice, and may it please the Court:"
+1999.98-9828,0,15141,william_h_rehnquist,scotus_justice,33.029,37.929,"You mean, when you say mitigate the sting, when she gets on the stand and testifies herself about it."
+1999.98-9828,0,17557,benjamin_l_coleman,,37.929,38.705,--Correct.
+1999.98-9828,0,15141,william_h_rehnquist,scotus_justice,53.029,57.24,"Well, what specific language do you rely on to support your position?"
+1999.98-9828,0,17557,benjamin_l_coleman,,57.24,68.807,"We rely on the 1990 amendment to Rule 609, which specifically removed the cross examination limitation with respect to when evidence could be admitted under Rule 609."
+1999.98-9828,0,15141,william_h_rehnquist,scotus_justice,68.807,75.174,But that simply allowed the testimony to come in on direct as... as well as cross.
+1999.98-9828,0,17557,benjamin_l_coleman,,77.216,96.538,"We believe it supports our position because we do not think that Congress would have intended to lay a trap for the unwary to on the one hand specifically authorize attempts to mitigate the sting, but on the other hand silently provide for the fact that such attempts, which are authorized, constitute waivers of the right to appeal without making any such indication in the rules of evidence."
+1999.98-9828,0,15049,antonin_scalia,scotus_justice,99.776,106.486,"I don't know, I mean, you really... are most rules of waiver reflected in the Federal rules?"
+1999.98-9828,0,17557,benjamin_l_coleman,,115.759,122.325,"With respect to the first part of the question, I believe that usually the waiver rules are incorporated in the Federal rules."
+1999.98-9828,0,15141,william_h_rehnquist,scotus_justice,155.251,160.415,"Well, we've held, haven't we, that most rights generally are waivable?"
+1999.98-9828,0,17557,benjamin_l_coleman,,169.048,173.683,--I believe there's a presumption in favor of the availability of waiver.
+1999.98-9828,0,15141,william_h_rehnquist,scotus_justice,177.331,183.879,"Well, what's the difference between a presumption in favor of waiver and a presumption as to the availability of waiver?"
+1999.98-9828,0,17557,benjamin_l_coleman,,183.879,195.126,"--The difference is that with respect to a presumption of the availability of waiver, that means that unless there is a specific provision saying that you cannot waive this, no ifs, ands, or buts, waiver is available."
+1999.98-9828,0,15141,william_h_rehnquist,scotus_justice,203.979,206.846,But there isn't any presumption against waiver in general.
+1999.98-9828,0,17557,benjamin_l_coleman,,210.039,213.452,--I believe Barker v. Wingo says that the presumption is against waiver.
+1999.98-9828,0,15141,william_h_rehnquist,scotus_justice,213.452,218.576,"Well, Barker v. Wingo was decided a long time before the more recent cases."
+1999.98-9828,0,17557,benjamin_l_coleman,,218.576,219.554,That is true.
+1999.98-9828,0,15049,antonin_scalia,scotus_justice,238.902,250.144,"Oh, I don't... I don't think it's a matter of presuming waiver when it's your client herself that put the evidence in."
+1999.98-9828,0,17557,benjamin_l_coleman,,263.262,279.802,"Again, if she had not objected beforehand to the introduction of this evidence and received a ruling beforehand, then I agree, she would have waived, but in this instance the only reason why she is putting in the evidence is because she has articulated an objection, that objection has been overruled."
+1999.98-9828,0,15049,antonin_scalia,scotus_justice,279.802,289.312,The Government might have decided that its case was strong enough that it wouldn't take a chance on the ruling and wouldn't introduce the evidence.
+1999.98-9828,0,17557,benjamin_l_coleman,,293.113,299.076,I believe on the record that we have here there was absolutely no question that the Government was going to use this conviction.
+1999.98-9828,0,15049,antonin_scalia,scotus_justice,304.126,306.522,Before it knew how the trial had gone.
+1999.98-9828,0,17557,benjamin_l_coleman,,320.645,326.924,I think that Your Honor is articulating a policy concern that was articulated in Luce v. United States.
+1999.98-9828,0,15084,ruth_bader_ginsburg,scotus_justice,350.729,371.001,"Mr. Coleman, could not the defense have, to be sure about this, said to the judge, out of the hearing of the jury, just before the defendant testified, judge, I don't want to bring out this conviction if I can avoid it, but if your ruling is going to stick, let me know now?"
+1999.98-9828,0,17557,benjamin_l_coleman,,387.698,388.822,He could have done that.
+1999.98-9828,0,15113,anthony_m_kennedy,scotus_justice,421.473,427.455,"Well, of course, even if that's true, it wouldn't quite answer the problem that Justice Scalia raised."
+1999.98-9828,0,17557,benjamin_l_coleman,,447.971,456.274,"--I believe if the Government articulates a question as to whether they are going to admit the evidence beforehand, then that would be a different result, yes."
+1999.98-9828,0,15042,david_h_souter,scotus_justice,456.274,461.471,"Isn't that what the Government will do all the time, if you win this case?"
+1999.98-9828,0,17557,benjamin_l_coleman,,461.471,464.486,"I don't believe so, for essentially three reasons."
+1999.98-9828,0,15042,david_h_souter,scotus_justice,469.066,472.25,"Well, it's not that they have to be dishonest about it."
+1999.98-9828,0,17557,benjamin_l_coleman,,518.188,521.034,"Well, I think there are two reasons why the Government won't always do that."
+1999.98-9828,0,15042,david_h_souter,scotus_justice,534.111,538.258,"Yes, but that's... is that a realworld scenario?"
+1999.98-9828,0,15060,john_paul_stevens,scotus_justice,543.968,553.695,"It seems to me the real world scenario is, if the Government has such a strong case it doesn't need to use it, at the end of its case it simply advises the judge, I've decided not to use this impeaching evidence."
+1999.98-9828,0,17557,benjamin_l_coleman,,553.695,554.321,--Exactly.
+1999.98-9828,0,15060,john_paul_stevens,scotus_justice,554.321,555.725,And then they would avoid this risk.
+1999.98-9828,0,17557,benjamin_l_coleman,,555.725,557.959,"Exactly, and we do believe it's the Government's burden."
+1999.98-9828,0,15049,antonin_scalia,scotus_justice,557.959,567.438,"Mr. Coleman, you sort of assume throughout all of this that the defendant doesn't have to pay a price for removing the sting."
+1999.98-9828,0,17557,benjamin_l_coleman,,612.827,620.159,"Well, for... specifically with respect to Rule 609 evidence, again, I think it does come back to the 1990 amendment to Rule 609."
+1999.98-9828,0,15049,antonin_scalia,scotus_justice,631.411,631.67,Why?
+1999.98-9828,0,17557,benjamin_l_coleman,,641.416,652.856,"We don't believe that that was the normal rule, that in fact the Second Circuit and the D.C. Circuits before the Federal Rules of Evidence were enacted had specifically indicated that there was no waiver under the circumstances."
+1999.98-9828,0,15139,stephen_g_breyer,scotus_justice,652.856,659.213,"Is it relevant here or not... I've been thinking, not about Rule 609 but 103."
+1999.98-9828,0,17557,benjamin_l_coleman,,721.655,737.591,"I agree with the basic concept that if there's a case where the evidence is so overwhelming that an appellate court would take a look at this and say, well, maybe the prosecutor would not have used the conviction, in any event that error is going to be harmless anyhow."
+1999.98-9828,0,15139,stephen_g_breyer,scotus_justice,744.472,748.98,"Well, I was thinking that that's what the case is about."
+1999.98-9828,0,17557,benjamin_l_coleman,,763.665,765.671,I certainly agree with--
+1999.98-9828,0,15139,stephen_g_breyer,scotus_justice,765.671,766.144,Is that right?
+1999.98-9828,0,17557,benjamin_l_coleman,,766.144,766.554,--Yes.
+1999.98-9828,0,15139,stephen_g_breyer,scotus_justice,766.554,770.783,Don't let me think this way if I'm making some error in the basic--
+1999.98-9828,0,17557,benjamin_l_coleman,,770.783,771.882,"No, I agree with that."
+1999.98-9828,0,15042,david_h_souter,scotus_justice,771.882,790.772,"--When you assume that the defendant is put to, into the position of bringing it out herself, you're assuming something which I guess most of us assume, and that is that she's really going to reap a significant advantage by doing so."
+1999.98-9828,0,17557,benjamin_l_coleman,,802.876,813.771,In response in our reply brief we cited a study that conducted empirical studies which contradicted the one article cited by the Solicitor General.
+1999.98-9828,0,15042,david_h_souter,scotus_justice,833.309,835.68,"Well, my thought was maybe we shouldn't have."
+1999.98-9828,0,17557,benjamin_l_coleman,,837.397,845.083,"I do think you got it right, and I think that Congress has indicated that you got it right, because they specifically authorized such attempts to mitigate the sting, and--"
+1999.98-9828,0,15042,david_h_souter,scotus_justice,845.083,845.348,Well--
+1999.98-9828,0,15084,ruth_bader_ginsburg,scotus_justice,845.348,847.411,--And defense attorneys respond that way.
+1999.98-9828,0,17557,benjamin_l_coleman,,857.397,863.571,"--That's correct, and it's standard operating procedure for Government trial attorneys when they use an informant or a cooperating witness."
+1999.98-9828,0,15141,william_h_rehnquist,scotus_justice,872.349,879.001,Would the Government have a similar right to appeal if the trial court made an adverse ruling on its informant's testimony?
+1999.98-9828,0,17557,benjamin_l_coleman,,879.001,879.627,No.
+1999.98-9828,0,15141,william_h_rehnquist,scotus_justice,879.627,880.755,Why not?
+1999.98-9828,0,17557,benjamin_l_coleman,,880.755,884.502,"Once jeopardy has attached, they couldn't appeal under--"
+1999.98-9828,0,15141,william_h_rehnquist,scotus_justice,884.502,890.548,"Well, how about an interlocutory appeal of the type you described that might be taken under section 3731?"
+1999.98-9828,0,17557,benjamin_l_coleman,,890.548,900.255,--The problem is that under 3731 it says that the Government can appeal a ruling that either excludes or suppresses evidence.
+1999.98-9828,0,15141,william_h_rehnquist,scotus_justice,907.052,908.075,But you could.
+1999.98-9828,0,17557,benjamin_l_coleman,,908.075,914.398,"We certainly couldn't take an interlocutory appeal, but we would be able to appeal after the final judgment."
+1999.98-9828,0,15141,william_h_rehnquist,scotus_justice,914.398,915.927,If you win this case.
+1999.98-9828,0,17557,benjamin_l_coleman,,915.927,916.652,Correct.
+1999.98-9828,0,15084,ruth_bader_ginsburg,scotus_justice,916.652,927.075,"You agree, seem to agree with the Government that waiver is the right concept, but it seems to me that the rule the Government is urging is really forfeiture."
+1999.98-9828,0,17557,benjamin_l_coleman,,942.302,960.024,"I don't believe so, because again the distinction between the forfeiture and the waiver would be that under forfeiture we at least would have been able to obtain plain error review on appeal, but what the Government is arguing and what the Ninth Circuit held was that we're not entitled to any review whatsoever, and that's why it's waiver, and so I don't think that the Government is simply arguing forfeiture."
+1999.98-9828,0,15113,anthony_m_kennedy,scotus_justice,965.024,981.878,"Under your view, would it be an abuse of discretion for a trial judge to say at the beginning of every criminal trial, it's a matter of policy in this court that I will not make advance rulings on prior convictions?"
+1999.98-9828,0,17557,benjamin_l_coleman,,992.368,1000.171,It would be difficult for me to say whether it would be abuse of discretion.
+1999.98-9828,0,15113,anthony_m_kennedy,scotus_justice,1021.591,1025.766,"Well, the district court says, I'm going to... my good cause is, I might get reversed if I make a mistake."
+1999.98-9828,0,15049,antonin_scalia,scotus_justice,1027.897,1030.373,Defer it from when?
+1999.98-9828,0,17557,benjamin_l_coleman,,1076.674,1083.345,--We do believe he did make a ruling for purposes of Rule 103 and in order to obtain appellate review--
+1999.98-9828,0,15139,stephen_g_breyer,scotus_justice,1083.345,1083.904,--But he didn't--
+1999.98-9828,0,17557,benjamin_l_coleman,,1083.904,1085.57,--I'm sorry.
+1999.98-9828,1,17846,barbara_b_mcdowell,,1605.346,1610.45,"Mr. Chief Justice, and may it please the Court:"
+1999.98-9828,1,15113,anthony_m_kennedy,scotus_justice,1643.533,1648.687,What happens in some of the other in limine ruling areas that we were discussing?
+1999.98-9828,1,17846,barbara_b_mcdowell,,1678.39,1680.446,We would take the position that that's a waiver.
+1999.98-9828,1,15113,anthony_m_kennedy,scotus_justice,1682.906,1692.192,So you don't know any case in which the in limine ruling entitles the defendant to anticipate?
+1999.98-9828,1,17846,barbara_b_mcdowell,,1692.192,1700.216,--Only under the rulings of those circuits who have allowed the contrary of the rule applied by the Ninth Circuit in this--
+1999.98-9828,1,15113,anthony_m_kennedy,scotus_justice,1700.216,1703.422,"You wait, you just wait for the rebuttal stage of the... the defendant should wait for the rebuttal stage of the case."
+1999.98-9828,1,17846,barbara_b_mcdowell,,1716.716,1725.926,"--Well, there are other instances in which there's evidence that a district court has allowed in only as rebuttal evidence other sorts of impeachment evidence in addition to Rule 609--"
+1999.98-9828,1,15113,anthony_m_kennedy,scotus_justice,1725.926,1727.343,"In an impeachment context, sure, I understand that."
+1999.98-9828,1,17846,barbara_b_mcdowell,,1729.888,1731.263,"--Typically not, Your Honor--"
+1999.98-9828,1,15113,anthony_m_kennedy,scotus_justice,1731.263,1731.447,Yes.
+1999.98-9828,1,17846,barbara_b_mcdowell,,1731.447,1731.931,--that's correct.
+1999.98-9828,1,15092,sandra_day_oconnor,scotus_justice,1731.931,1743.025,"Ms. McDowell, does your position depend on taking the view that the judge's ruling was necessarily tentative?"
+1999.98-9828,1,17846,barbara_b_mcdowell,,1743.025,1752.041,"It doesn't depend on that, Justice O'Connor, although that's one of the reasons why we think the rule is particularly justified in those 609(a)(1) cases."
+1999.98-9828,1,15092,sandra_day_oconnor,scotus_justice,1752.041,1756.652,"I'm very curious because, as you know, there is a proposed amendment to Rule... is it 103?"
+1999.98-9828,1,17846,barbara_b_mcdowell,,1756.652,1757.691,That's correct.
+1999.98-9828,1,15092,sandra_day_oconnor,scotus_justice,1757.691,1771.502,"That then will speak in terms of definitive rulings and preservation of objections and so forth, so I wondered to what extent your argument depends on the notion that it's not a definitive ruling."
+1999.98-9828,1,17846,barbara_b_mcdowell,,1771.502,1793.508,"Well, we would take the position that even with respect to those evidentiary issues that the authors of the rule and those courts that have adopted the definitive nondefinitive distinction would classify as definitive, for example, rulings under 609(a)(2) with respect to whether a conviction involves dishonesty or false statement."
+1999.98-9828,1,15092,sandra_day_oconnor,scotus_justice,1799.197,1803.221,"Well, can't this be resolved definitively by the judge?"
+1999.98-9828,1,17846,barbara_b_mcdowell,,1803.221,1803.588,"--No, it can't."
+1999.98-9828,1,15092,sandra_day_oconnor,scotus_justice,1803.588,1804.431,No?
+1999.98-9828,1,17846,barbara_b_mcdowell,,1804.431,1805.814,"No, it cannot."
+1999.98-9828,1,15092,sandra_day_oconnor,scotus_justice,1805.814,1811.178,"The judge can't say, look, if the Government wants to introduce it, it can."
+1999.98-9828,1,17846,barbara_b_mcdowell,,1816.532,1821.326,"In order to be definitive, a ruling has to possess two characteristics."
+1999.98-9828,1,15092,sandra_day_oconnor,scotus_justice,1828.382,1829.295,The question--
+1999.98-9828,1,17846,barbara_b_mcdowell,,1829.295,1830.469,--prejudicial and probative--
+1999.98-9828,1,15092,sandra_day_oconnor,scotus_justice,1830.469,1841.845,"--The question presented to the judge is, by the prosecution, judge, I intend to offer evidence at trial of the prior conviction of this defendant."
+1999.98-9828,1,17846,barbara_b_mcdowell,,1849.251,1859.787,"--It's definitive in some sense, but it's the sort of ruling that requires the court to keep an open mind in the course of trial as to whether it's actually going to come in, because--"
+1999.98-9828,1,15049,antonin_scalia,scotus_justice,1859.787,1863.356,"He can always change his mind later, even if he... I know I said it was definitive--"
+1999.98-9828,1,17846,barbara_b_mcdowell,,1863.356,1863.982,--Yes.
+1999.98-9828,1,15049,antonin_scalia,scotus_justice,1863.982,1866.986,"--but I hadn't seen all the evidence, and I've... you know, I've reconsidered it."
+1999.98-9828,1,17846,barbara_b_mcdowell,,1873.146,1873.63,That's correct.
+1999.98-9828,1,15141,william_h_rehnquist,scotus_justice,1876.256,1882.737,"Yes, but a lawyer isn't going to get very far if he badgers a judge after the judge says, I have made up my mind and that's it."
+1999.98-9828,1,17846,barbara_b_mcdowell,,1888.605,1893.439,"No, but it's not offensive to a judge to simply renew an objection and to point out--"
+1999.98-9828,1,15113,anthony_m_kennedy,scotus_justice,1893.439,1900.414,"Well, but isn't that the thrust of rule... the proposed Rule 103, which is at A-5 of the blue brief?"
+1999.98-9828,1,17846,barbara_b_mcdowell,,1907.44,1909.192,"--Yes, but--"
+1999.98-9828,1,15113,anthony_m_kennedy,scotus_justice,1909.192,1915.339,"It says, once the court makes a definitive ruling, it assumes there is such an animal as a definitive ruling."
+1999.98-9828,1,17846,barbara_b_mcdowell,,1915.339,1926.157,"--Yes, but those courts that have adopted that distinction have said that Rule 609(a)(1) rulings are not definitive because they require a balancing of probative value of prejudicial effects."
+1999.98-9828,1,15113,anthony_m_kennedy,scotus_justice,1926.157,1930.366,So in other words there's now going to be a whole classification of rulings that by their nature cannot be definitive?
+1999.98-9828,1,17846,barbara_b_mcdowell,,1930.366,1938.189,"That's correct, and the advisory committee cited two cases holding that, or stating that in its notes, so what we suggest is--"
+1999.98-9828,1,15113,anthony_m_kennedy,scotus_justice,1938.189,1940.944,"I've read the notes, but I'm concerned with the text of the ruling."
+1999.98-9828,1,17846,barbara_b_mcdowell,,1946.103,1950.01,--The text raises the question of what is definitive.
+1999.98-9828,1,15113,anthony_m_kennedy,scotus_justice,1950.01,1953.505,"--agree that it's more helpful to the petitioner than it is to you, absent the advisory comments?"
+1999.98-9828,1,17846,barbara_b_mcdowell,,1953.505,1961.068,The meaning of the word definitive is something that is not clear on its face.
+1999.98-9828,1,15113,anthony_m_kennedy,scotus_justice,1970.276,1973.216,But in the civil area all the time this happens.
+1999.98-9828,1,17846,barbara_b_mcdowell,,2006.146,2017.013,"--Generally under the rule applied in most circuits today, you would have to make a contemporaneous objection at trial to evidence that you wanted to exclude and that you wanted to--"
+1999.98-9828,1,15113,anthony_m_kennedy,scotus_justice,2017.013,2018.551,How about evidence that you want to introduce?
+1999.98-9828,1,17846,barbara_b_mcdowell,,2018.551,2025.666,"--If it's evidence that you want to introduce, there's no reason, presumably, why you would want to preserve an objection to its admission."
+1999.98-9828,1,15139,stephen_g_breyer,scotus_justice,2025.666,2029.637,"Wait, suppose... let's leave out the definitive part, as follows."
+1999.98-9828,1,17846,barbara_b_mcdowell,,2109.543,2115.142,"As we indicated, I believe in footnote 12 of our brief, that approach would be much less problematic."
+1999.98-9828,1,15139,stephen_g_breyer,scotus_justice,2115.142,2115.382,"Oh, no."
+1999.98-9828,1,17846,barbara_b_mcdowell,,2122.365,2130.982,"We would say that it's still a waiver because the defendant is still trying to introduce adverse evidence as his own, for his own practical purposes."
+1999.98-9828,1,15139,stephen_g_breyer,scotus_justice,2130.982,2132.919,So finality has nothing to do with it in my case.
+1999.98-9828,1,17846,barbara_b_mcdowell,,2135.259,2136.247,"Well, there's a second reason as well."
+1999.98-9828,1,15139,stephen_g_breyer,scotus_justice,2136.247,2136.403,--Fine.
+1999.98-9828,1,17846,barbara_b_mcdowell,,2156.836,2158.552,That's it's still a waiver.
+1999.98-9828,1,15139,stephen_g_breyer,scotus_justice,2158.552,2160.621,"I know that, but I mean, I want to know why?"
+1999.98-9828,1,17846,barbara_b_mcdowell,,2161.275,2171.303,"Well, in the first place because it's contrary to generally accepted evidentiary law that if you introduce evidence yourself you can't complain about it later."
+1999.98-9828,1,15049,antonin_scalia,scotus_justice,2171.303,2176.058,The ruling... I think your answer is that the ruling didn't affect... didn't affect the client at all.
+1999.98-9828,1,17846,barbara_b_mcdowell,,2181.107,2181.991,The client's decision to testify.
+1999.98-9828,1,15049,antonin_scalia,scotus_justice,2181.991,2182.746,--introduced.
+1999.98-9828,1,15139,stephen_g_breyer,scotus_justice,2182.746,2185.505,I would say that would have to be your answer.
+1999.98-9828,1,15049,antonin_scalia,scotus_justice,2185.505,2189.247,"It is ultimately the client who put in the evidence, and that's what hurt the client, not the ruling."
+1999.98-9828,1,15139,stephen_g_breyer,scotus_justice,2189.247,2189.921,Fine.
+1999.98-9828,1,17846,barbara_b_mcdowell,,2203.773,2207.345,"Well, it's not--"
+1999.98-9828,1,15084,ruth_bader_ginsburg,scotus_justice,2239.863,2252.541,"But Ms. McDowell, if... isn't it a factor that the defendant is going to look like she had something to hide if she keeps her mouth shut on direct, then the prosecutor brings it out?"
+1999.98-9828,1,17846,barbara_b_mcdowell,,2261.321,2279.243,"Yes, but she can diffuse it in other ways as well, as I was saying, by her explanation of the conviction on redirect, by the way she answers the question put to her by the prosecutor on cross examination, by seeking instructions saying that the jury is not to draw any inference from who introduces the conviction."
+1999.98-9828,1,15049,antonin_scalia,scotus_justice,2281.473,2283.354,"I suppose his lawyer could ask her, you're not an angel, are you?"
+1999.98-9828,1,15060,john_paul_stevens,scotus_justice,2291.632,2296.082,"Would that constitute a waiver under your view, if the defense lawyer asked her--"
+1999.98-9828,1,17846,barbara_b_mcdowell,,2304.76,2309.281,--It might be well... might well be viewed as opening the door to the subject matter.
+1999.98-9828,1,15060,john_paul_stevens,scotus_justice,2309.281,2310.049,So it would be a waiver.
+1999.98-9828,1,17846,barbara_b_mcdowell,,2312.304,2313.302,"It might well, yes."
+1999.98-9828,1,15139,stephen_g_breyer,scotus_justice,2313.302,2314.404,"--No, but that's not a waiver--"
+1999.98-9828,1,15060,john_paul_stevens,scotus_justice,2314.404,2319.04,--Maybe we have the same kind of problem here as whether the trial judge's ruling is definitive or not.
+1999.98-9828,1,17846,barbara_b_mcdowell,,2323.147,2339.902,"That's correct, and there's another principle to remember here, and that's when we're dealing with these threshold evidentiary procedural questions, it's often beneficial to have a bright line rule, even if there are some cases where the rationale for the rule is not as--"
+1999.98-9828,1,15060,john_paul_stevens,scotus_justice,2339.902,2341.558,So there would be benefit... excuse me.
+1999.98-9828,1,15141,william_h_rehnquist,scotus_justice,2341.558,2342.047,Go on.
+1999.98-9828,1,17846,barbara_b_mcdowell,,2355.848,2356.891,--That's correct.
+1999.98-9828,1,15141,william_h_rehnquist,scotus_justice,2356.891,2359.277,--without regard to the introducibility of prior convictions.
+1999.98-9828,1,17846,barbara_b_mcdowell,,2359.277,2359.671,Yes.
+1999.98-9828,1,15139,stephen_g_breyer,scotus_justice,2360.829,2366.467,"Yes, but our question is not the correctness of the introduction."
+1999.98-9828,1,17846,barbara_b_mcdowell,,2387.645,2393.309,--Not if the defendant has introduced the issue sufficiently herself.
+1999.98-9828,1,15113,anthony_m_kennedy,scotus_justice,2404.561,2420.302,"In the hypothetical Justice Breyer put, where just at the close of the direct examination of the defendant by the defendant's own attorney he says, there's one more question, and the judge turns in a... what do they call these now +/?"
+1999.98-9828,1,17846,barbara_b_mcdowell,,2433.755,2441.703,"Yes, because in many circumstances, or at least some circumstances, the prosecutor may want to know how the rest of the cross examination goes."
+1999.98-9828,1,15113,anthony_m_kennedy,scotus_justice,2461.725,2469.274,"But the forthright prosecutor who knows that the prosecutor is going to introduce the statement should say, well, yes, judge, I'm going to do it no matter."
+1999.98-9828,1,17846,barbara_b_mcdowell,,2469.274,2477.945,"--Yes, if that's his true intent, but it would still be a waiver, we would submit, even in that circumstance."
+1999.98-9828,1,15084,ruth_bader_ginsburg,scotus_justice,2491.339,2501.368,"When you say the judge, the judge said before the examination of the defendant, obviously the prior conviction can be used for impeachment purposes."
+1999.98-9828,1,17846,barbara_b_mcdowell,,2517.006,2526.142,"Of course, all of those statements were made before trial, and an in limine motion of this kind is made with the implicit assumption that a district court can reconsider it."
+1999.98-9828,1,15060,john_paul_stevens,scotus_justice,2528.851,2531.969,"Yes, but it's really made with the implicit understanding that this is the rule for this trial."
+1999.98-9828,1,17846,barbara_b_mcdowell,,2548.256,2553.006,"--Well, they may not explicitly say that, Your Honor, but certainly if they see an error arising--"
+1999.98-9828,1,15060,john_paul_stevens,scotus_justice,2553.006,2553.779,"And this is not the most complex issue in the world, either."
+1999.98-9828,1,15141,william_h_rehnquist,scotus_justice,2566.773,2571.828,"Ms. McDowell, what was our ruling... what was our holding in Luce?"
+1999.98-9828,1,17846,barbara_b_mcdowell,,2571.828,2587.874,"--The Court held that a defendant could be required to choose whether to take the stand, be impeached with a prior conviction, and preserve the objection for appeal, or alternatively choose not to testify and abandon the issue, and the Court said that was permissible."
+1999.98-9828,1,15113,anthony_m_kennedy,scotus_justice,2587.874,2598.247,"Of course, one of the problems with Luce was that if the Court had ruled the other way, every defendant would have announced that but for the ruling he would have taken the stand."
+1999.98-9828,1,17846,barbara_b_mcdowell,,2605.129,2606.496,That's correct.
+1999.98-9828,1,15113,anthony_m_kennedy,scotus_justice,2606.496,2607.914,"And that makes this a harder case than Luce, it seems to me."
+1999.98-9828,1,17846,barbara_b_mcdowell,,2607.914,2616.618,"It may be, but there's still the question of not knowing whether the district court actually would have admitted the conviction or whether the Government would have tried to introduce it."
+1999.98-9828,1,15141,william_h_rehnquist,scotus_justice,2616.618,2620.949,"Well, do you know for sure that the defendant is going to take the stand in this case?"
+1999.98-9828,1,17846,barbara_b_mcdowell,,2620.949,2625.22,"Not until she takes the stand, no."
+1999.98-9828,1,15113,anthony_m_kennedy,scotus_justice,2627.245,2628.742,"And if she doesn't, Luce applies."
+1999.98-9828,1,17846,barbara_b_mcdowell,,2628.742,2629.69,That's correct.
+1999.98-9828,1,15139,stephen_g_breyer,scotus_justice,2629.69,2631.741,What does happen... I don't know this.
+1999.98-9828,1,17846,barbara_b_mcdowell,,2662.586,2663.259,"Yes, it is."
+1999.98-9828,1,15139,stephen_g_breyer,scotus_justice,2663.259,2666.607,"Yes, and the case that I... I just look that up in a regular treatise."
+1999.98-9828,1,17846,barbara_b_mcdowell,,2668.449,2678.548,"The issue has generally arisen after motions in limine have been decided on the matter, specifically with respect to prior convictions."
+1999.98-9828,1,15139,stephen_g_breyer,scotus_justice,2681.951,2683.982,"I mean, you could think it would come up in all kinds of conduct... contexts."
+1999.98-9828,1,17846,barbara_b_mcdowell,,2718.101,2721.573,"Well, typically the issue arises only with respect to impeachment evidence."
+1999.98-9828,1,15139,stephen_g_breyer,scotus_justice,2722.995,2726.198,Never rose in other circumstances that you know of?
+1999.98-9828,1,17846,barbara_b_mcdowell,,2726.198,2727.181,--Not that I'm aware of.
+1999.98-9828,1,15049,antonin_scalia,scotus_justice,2743.517,2750.981,"It's rather... is it your proposal that is hypothetical, or is it the other one that was hypothetical?"
+1999.98-9828,1,17846,barbara_b_mcdowell,,2773.28,2776.303,I believe it is.
+1999.98-9828,1,15139,stephen_g_breyer,scotus_justice,2776.303,2777.246,I didn't think it was.
+1999.98-9828,1,15049,antonin_scalia,scotus_justice,2789.441,2789.951,"No, it--"
+1999.98-9828,1,17846,barbara_b_mcdowell,,2789.951,2790.849,I think it's the same.
+1999.98-9828,1,15141,william_h_rehnquist,scotus_justice,2798.648,2799.88,"--Very well, Ms. McDowell."
+1999.98-9828,2,17557,benjamin_l_coleman,,2802.889,2805.972,"Your Honor, unless there are any questions, I have no further rebuttal."
+1999.98-9828,2,15141,william_h_rehnquist,scotus_justice,2805.972,2807.122,Very well.

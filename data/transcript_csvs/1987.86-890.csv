@@ -1,0 +1,252 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1987.86-890,0,15141,william_h_rehnquist,scotus_justice,0.0,66.624,"You may proceed whenever you are ready, Mr. Etzweiler."
+1987.86-890,0,34393,larry_r_etzweiler,,66.624,79.494,"Mr. Chief Justice, and may it please the Court, we are here today asking this Court to overturn a decision which threatens grave interference with state grand jury proceedings."
+1987.86-890,0,15141,william_h_rehnquist,scotus_justice,340.473,346.647,"Mr. Etzweiler, some time in your argument are you going to address your opponent's claim that the case is moot?"
+1987.86-890,0,34393,larry_r_etzweiler,,346.647,353.442,"--I wasn't initially intending to, but I will be happy to entertain questions on that question."
+1987.86-890,0,15141,william_h_rehnquist,scotus_justice,353.442,355.473,"Well, I don't know that I have any questions."
+1987.86-890,0,34393,larry_r_etzweiler,,368.482,370.193,With respect to the damages claim?
+1987.86-890,0,15060,john_paul_stevens,scotus_justice,370.193,374.768,"Well, is basically what is at issue, what is your argument here is whether the damage claim should be dismissed?"
+1987.86-890,0,34393,larry_r_etzweiler,,374.768,389.255,"Well, we are arguing both that the District Court has discretion to dismiss the damage claim and also that the District Court was correct with respect to the Younger proceedings on the injunctive claim."
+1987.86-890,0,15060,john_paul_stevens,scotus_justice,389.255,398.59,"Why do we have to fight about the injunction now, when, as I understand it, they no longer seek injunctive relief, and everybody agrees you can fight these issues out in the state court?"
+1987.86-890,0,34393,larry_r_etzweiler,,398.59,404.246,They have agreed that they would amend the complaint.
+1987.86-890,0,15060,john_paul_stevens,scotus_justice,430.102,431.562,But involving the same parties?
+1987.86-890,0,34393,larry_r_etzweiler,,431.562,433.375,"Involving the same parties, yes."
+1987.86-890,0,15049,antonin_scalia,scotus_justice,437.145,440.108,Is there some likelihood that is going to happen?
+1987.86-890,0,34393,larry_r_etzweiler,,440.108,443.931,"Well, that... I can't--"
+1987.86-890,0,15049,antonin_scalia,scotus_justice,443.931,448.943,"It can, but is it any more likely to happen to them than it is to anybody else walking around?"
+1987.86-890,0,34393,larry_r_etzweiler,,448.943,452.276,--There is an ongoing criminal investigation going on.
+1987.86-890,0,15049,antonin_scalia,scotus_justice,461.312,464.715,You say they haven't dismissed their complaint yet.
+1987.86-890,0,34393,larry_r_etzweiler,,475.27,492.474,"--What they have said is that if this Court will dismiss the claim as moot, we will... if this Court will dismiss the petition as moot, we will amend the complaint to delete our request for injunctive damages."
+1987.86-890,0,15049,antonin_scalia,scotus_justice,492.474,493.743,What more could they have done?
+1987.86-890,0,34393,larry_r_etzweiler,,508.161,516.587,"I don't know, Your Honor, but there is another factor, and that is that not all the plaintiffs have been indicted."
+1987.86-890,0,15049,antonin_scalia,scotus_justice,537.982,539.865,Mr. James is not a party.
+1987.86-890,0,34393,larry_r_etzweiler,,539.865,545.628,"--Yes, he is, Your Honor, He is one of the respondents, and he is also a party who has not been indicted."
+1987.86-890,0,15071,byron_r_white,scotus_justice,547.038,551.742,xxx agreed not to seek an injunction?
+1987.86-890,0,34393,larry_r_etzweiler,,554.434,559.386,I think they have agreed to amend their complaint if this Court will dismiss the case as--
+1987.86-890,0,15071,byron_r_white,scotus_justice,559.386,561.567,--Both the indicted and the unindicted.
+1987.86-890,0,34393,larry_r_etzweiler,,561.567,568.082,--I don't know if they have agreed to do so dispositively on the merits and not come back into court and petition--
+1987.86-890,0,15071,byron_r_white,scotus_justice,568.082,571.444,"Yes, but they are all in the same position, all of the respondents."
+1987.86-890,0,34393,larry_r_etzweiler,,571.444,576.859,"--Well, they are not quite all in the same position in that only some of them have been indicted and some have not."
+1987.86-890,0,15071,byron_r_white,scotus_justice,576.859,584.524,"As regards their agreement with respect to the injunction, they are all in the same boat."
+1987.86-890,0,34393,larry_r_etzweiler,,584.524,599.744,"They are not quite in the same boat because the plaintiffs who have been indicted would of necessity resolve their Fourth Amendment claims, I presume, in the course of the state criminal litigation."
+1987.86-890,0,15071,byron_r_white,scotus_justice,602.275,610.37,"Well, the respondents have also said it is all right just to stay, that their damage suit be stayed, haven't they?"
+1987.86-890,0,34393,larry_r_etzweiler,,610.37,614.203,"--They have offered that, yes."
+1987.86-890,0,15071,byron_r_white,scotus_justice,614.203,621.747,"No injunction, and stay the damages suit until the Fourth Amendment issue is settled in the state court."
+1987.86-890,0,34393,larry_r_etzweiler,,621.747,624.07,"That is the offer which they have made, yes."
+1987.86-890,0,15060,john_paul_stevens,scotus_justice,624.07,625.941,And isn't that the relief you seek?
+1987.86-890,0,34393,larry_r_etzweiler,,625.941,630.963,"No, we seek a reinsertion of the District Court opinion."
+1987.86-890,0,15060,john_paul_stevens,scotus_justice,633.935,639.12,"But the only difference is that you get a dismissal of the damage claim, but it is not with prejudice."
+1987.86-890,0,34393,larry_r_etzweiler,,639.12,640.78,--That's correct.
+1987.86-890,0,15060,john_paul_stevens,scotus_justice,640.78,647.585,"So whether you stay it or you just, you know, close the case and let them file it two years from now, what difference does it make?"
+1987.86-890,0,34393,larry_r_etzweiler,,647.585,651.326,"Well, the pendency of the damages action has a chilling effect."
+1987.86-890,0,15060,john_paul_stevens,scotus_justice,651.326,656.231,"Does it have any more chilling effect than a letter to you saying, as soon as these proceedings are over I am going to refile the case?"
+1987.86-890,0,34393,larry_r_etzweiler,,656.231,658.432,Psychologically it does.
+1987.86-890,0,15060,john_paul_stevens,scotus_justice,658.432,660.063,But that is all that we are asked.
+1987.86-890,0,34393,larry_r_etzweiler,,663.605,665.906,"Well, but these are very important for the states--"
+1987.86-890,0,15060,john_paul_stevens,scotus_justice,665.906,668.988,"I understand, but we generally decide lawsuits."
+1987.86-890,0,34393,larry_r_etzweiler,,672.22,679.135,"--Yes, I know, but this is an important factor under the Younger comity considerations."
+1987.86-890,0,15071,byron_r_white,scotus_justice,706.414,713.998,"--Yes, but if it was just dismissed without prejudice, people who really know what they are doing would have the same concern."
+1987.86-890,0,34393,larry_r_etzweiler,,723.184,725.865,"--I beg your pardon, Your Honor?"
+1987.86-890,0,15071,byron_r_white,scotus_justice,727.297,728.417,Can't they file the case again?
+1987.86-890,0,34393,larry_r_etzweiler,,737.353,738.165,--Yes.
+1987.86-890,0,15092,sandra_day_oconnor,scotus_justice,746.68,750.223,They are not required to do that.
+1987.86-890,0,34393,larry_r_etzweiler,,750.223,751.532,--I agree.
+1987.86-890,0,15092,sandra_day_oconnor,scotus_justice,751.532,752.834,And you are not asserting that.
+1987.86-890,0,34393,larry_r_etzweiler,,758.827,760.52,"That's correct, Your Honor."
+1987.86-890,0,15092,sandra_day_oconnor,scotus_justice,760.52,760.918,Sure.
+1987.86-890,0,34393,larry_r_etzweiler,,775.278,776.509,It very well may be.
+1987.86-890,0,15141,william_h_rehnquist,scotus_justice,781.471,798.724,So long as the state proceeding goes first if New Jersey law allows it you will get the benefit of res judicata from any favorable findings that the state court makes on the Fourth Amendment issue.
+1987.86-890,0,34393,larry_r_etzweiler,,798.724,799.774,"I think that is probably correct, Your Honor."
+1987.86-890,0,15141,william_h_rehnquist,scotus_justice,799.774,804.977,"And that is true whether the federal damages suit is stayed or dismissed, isn't it?"
+1987.86-890,0,34393,larry_r_etzweiler,,804.977,834.286,"That's correct, but with respect to the question of the stay or dismiss, another reason we think that the District Court should have discretion in these matters is that plaintiffs whose desire is to impede the grad jury investigation are going to have an incentive to attach damage claims to equity actions when they file 1983 lawsuits."
+1987.86-890,0,15141,william_h_rehnquist,scotus_justice,834.286,855.119,"But you are not arguing here, as I understand it, and as I understand your response to Justice O'Connor, you are not arguing that there is no proper damages action here in the event that it is determined either in the state court or somewhere else that there has been a violation of the Fourth Amendment."
+1987.86-890,0,34393,larry_r_etzweiler,,862.436,866.439,"We are arguing that the District Court has discretion, yes."
+1987.86-890,0,15060,john_paul_stevens,scotus_justice,866.439,869.371,Let me pursue that just a second.
+1987.86-890,0,34393,larry_r_etzweiler,,886.311,892.936,"We would submit that it would, but of course our case is much easier, because we have got the--"
+1987.86-890,0,15060,john_paul_stevens,scotus_justice,892.936,895.167,And say the statute of limitations is going to run.
+1987.86-890,0,34393,larry_r_etzweiler,,905.024,908.147,--He would have--
+1987.86-890,0,15060,john_paul_stevens,scotus_justice,908.147,909.716,Say they had never filed an equitable action.
+1987.86-890,0,34393,larry_r_etzweiler,,917.65,923.524,"--Well, because we don't view the dismissal again as a dismissal on the merits."
+1987.86-890,0,15060,john_paul_stevens,scotus_justice,931.819,933.882,Even if there had never been an equitable claim asserted?
+1987.86-890,0,34393,larry_r_etzweiler,,933.882,936.234,"--We would submit that, but that it not--"
+1987.86-890,0,15060,john_paul_stevens,scotus_justice,936.234,938.975,"He doesn't like cases like this, so he will dismiss it?"
+1987.86-890,0,34393,larry_r_etzweiler,,938.975,940.117,--I beg your pardon?
+1987.86-890,0,15060,john_paul_stevens,scotus_justice,940.117,941.406,I don't understand your theory.
+1987.86-890,0,34393,larry_r_etzweiler,,946.84,982.443,"Well, he can do it under the comity considerations which underlie the Younger abstention doctrine, underlie, for example, this Court's opinion in Fair Assessment versus McNulty on the theory that the pendency even of the stayed damages action is going to have a chilling effect upon these investigators as they attempt to pursue the criminal prosecution, and also for policy--"
+1987.86-890,0,15060,john_paul_stevens,scotus_justice,982.443,984.874,It seems to me you have got pretty timid investigators in New Jersey.
+1987.86-890,0,34393,larry_r_etzweiler,,984.874,1001.997,"--We also have in this case other facets which supported the district court's discretion in this matter, and that's the many questions of state law that were very much entwined... intertwined with the federal claims."
+1987.86-890,0,15060,john_paul_stevens,scotus_justice,1007.4,1010.191,xxx stay.
+1987.86-890,0,34393,larry_r_etzweiler,,1010.692,1012.062,--They may be resolved.
+1987.86-890,0,15060,john_paul_stevens,scotus_justice,1017.475,1025.683,--But they are not... the difference in whether the federal court resolves them first has nothing to do with whether you have a stay or a dismissal.
+1987.86-890,0,34393,larry_r_etzweiler,,1031.226,1034.188,"--That's correct, Your Honor, yes."
+1987.86-890,0,15092,sandra_day_oconnor,scotus_justice,1156.286,1166.264,Presumably you could get a protective order from the Federal District Court if the District Court is going to delay hearing the case in any event.
+1987.86-890,0,34393,larry_r_etzweiler,,1166.264,1185.996,"Yes, Your Honor, but of course the... ascertaining whether the protective order is appropriate may very well require the federal judge to look into the grand jury investigation to ascertain what information should be privileged, what information should not be privileged."
+1987.86-890,0,15060,john_paul_stevens,scotus_justice,1209.67,1225.813,"But again that would not happen if you were to enter an order vacating the judgment of the Court of Appeals and directing that in accordance with the representation of the opponents, the equitable claims all be dismissed and the damage action be stayed."
+1987.86-890,0,34393,larry_r_etzweiler,,1227.943,1242.834,"We would be protected, but the rule allowing a permanent stay is not necessarily a good rule for this Court to adopt as national policy."
+1987.86-890,0,15060,john_paul_stevens,scotus_justice,1242.834,1246.557,I am just wondering about disposing of this litigation.
+1987.86-890,0,34393,larry_r_etzweiler,,1252.49,1261.335,"Well, it is still going... it would not protect our investigators as they go out and apply for mortgages as they have the--"
+1987.86-890,0,15060,john_paul_stevens,scotus_justice,1261.335,1267.049,"Well, it would protect them... you were talking about the concerns of discovery and the federal judge butting into the state procedure."
+1987.86-890,0,34393,larry_r_etzweiler,,1268.449,1271.023,"--Yes, it would protect us from that."
+1987.86-890,0,15060,john_paul_stevens,scotus_justice,1271.512,1273.655,But not the credit rating of the officers involved.
+1987.86-890,0,34393,larry_r_etzweiler,,1274.346,1274.614,--Right.
+1987.86-890,0,15060,john_paul_stevens,scotus_justice,1276.486,1279.097,Nothing but a judgment on the merits will do that.
+1987.86-890,0,34393,larry_r_etzweiler,,1279.097,1282.421,--Or a judgment of dismissal not on the merits.
+1987.86-890,0,15060,john_paul_stevens,scotus_justice,1282.421,1287.483,"Well, if the claim isn't destroyed, if it isn't with prejudice, it won't protect them."
+1987.86-890,0,34393,larry_r_etzweiler,,1287.483,1295.427,But the pending litigation will not be hanging over these... the subjects of the investigation.
+1987.86-890,0,15049,antonin_scalia,scotus_justice,1346.492,1359.959,"Of course, I suspect the only reason in Younger itself we didn't enter a stay instead of direct dismissal is simply because what was asked for was something we simply would not do."
+1987.86-890,0,34393,larry_r_etzweiler,,1405.0,1408.041,"There very well may be, yes."
+1987.86-890,0,15049,antonin_scalia,scotus_justice,1408.041,1411.843,At least there would have to be a stay.
+1987.86-890,0,34393,larry_r_etzweiler,,1411.843,1413.424,I think Mr. Justice--
+1987.86-890,0,15049,antonin_scalia,scotus_justice,1413.424,1414.566,Why do you oppose a stay?
+1987.86-890,0,34393,larry_r_etzweiler,,1414.566,1422.1,--We oppose... we submit that the matter should be in the discretion of the district court.
+1987.86-890,0,15071,byron_r_white,scotus_justice,1422.1,1422.44,Why?
+1987.86-890,0,34393,larry_r_etzweiler,,1424.791,1431.897,Because... essentially for three reasons.
+1987.86-890,0,15049,antonin_scalia,scotus_justice,1508.066,1513.271,A negative impact would have occurred in Younger no matter when you did it.
+1987.86-890,0,34393,larry_r_etzweiler,,1534.443,1546.521,A rule which would always mandate that stay would again... I guess there's two possibilities with the stay.
+1987.86-890,0,15071,byron_r_white,scotus_justice,1594.153,1596.897,Could I ask you a question?
+1987.86-890,0,34393,larry_r_etzweiler,,1604.531,1606.351,--An indictment was returned.
+1987.86-890,0,15071,byron_r_white,scotus_justice,1606.812,1609.304,An indictment was returned.
+1987.86-890,0,34393,larry_r_etzweiler,,1609.304,1610.035,With respect to this--
+1987.86-890,0,15071,byron_r_white,scotus_justice,1610.035,1611.958,And what is the status of the criminal proceeding?
+1987.86-890,0,34393,larry_r_etzweiler,,1611.958,1613.508,--The indictment?
+1987.86-890,0,15071,byron_r_white,scotus_justice,1616.26,1627.086,"Well, has there been a motion to return the material, and is there some proceeding pending to decide whether there was a violation of the Fourth Amendment?"
+1987.86-890,0,34393,larry_r_etzweiler,,1627.086,1630.528,My understanding is that the plaintiffs have not yet filed such a motion.
+1987.86-890,0,15071,byron_r_white,scotus_justice,1639.314,1643.208,"Isn't there some limit, some time limit on when they can do that?"
+1987.86-890,0,34393,larry_r_etzweiler,,1643.208,1645.278,There may be.
+1987.86-890,0,15141,william_h_rehnquist,scotus_justice,1660.188,1661.47,"Thank you, Mr. Etzweiler."
+1987.86-890,1,22290,edward_n_fitzpatrick,,1708.68,1714.764,"That is our position, and it is our position for all of our clients, including Mr. James, who is not under indictment."
+1987.86-890,1,15141,william_h_rehnquist,scotus_justice,1714.764,1717.886,And you speak for all of your clients.
+1987.86-890,1,22290,edward_n_fitzpatrick,,1717.886,1731.845,"I speak for all of our clients in this Court and below, and we said that, Mr. Chief Justice, because in essence what has occurred here is, events have overtaken the need for injunctive relief."
+1987.86-890,1,15071,byron_r_white,scotus_justice,1749.267,1751.357,That just relates to some of the material.
+1987.86-890,1,22290,edward_n_fitzpatrick,,1751.357,1758.523,"--It relates to some of the materials, and there is a motion pending with respect to our other Fourth Amendment claims as well."
+1987.86-890,1,15071,byron_r_white,scotus_justice,1785.911,1787.061,"Has that motion been argued, Mr. Fitzpatrick?"
+1987.86-890,1,22290,edward_n_fitzpatrick,,1787.061,1788.583,"--It has not been argued, Your Honor."
+1987.86-890,1,15071,byron_r_white,scotus_justice,1823.135,1823.495,I know.
+1987.86-890,1,22290,edward_n_fitzpatrick,,1831.77,1839.704,"That was the issue when we were seeking injunctive relief, because it is the injunctive--"
+1987.86-890,1,15071,byron_r_white,scotus_justice,1839.704,1841.737,"I know, but the claim is that the entire case should have been dismissed."
+1987.86-890,1,22290,edward_n_fitzpatrick,,1841.737,1860.468,"--I understand that, but it should have been dismissed because of the alleged intrusion on the investigative process by our seeking injunctive relief, not by our seeking damages, and what they argue, that since we sought injunctive relief, our claim not only for injunctive relief but for damages should be dismissed--"
+1987.86-890,1,15071,byron_r_white,scotus_justice,1860.468,1861.529,And that still is the claim.
+1987.86-890,1,22290,edward_n_fitzpatrick,,1861.529,1864.302,"--And that still is the claim, but we are not making it--"
+1987.86-890,1,15071,byron_r_white,scotus_justice,1864.302,1866.573,That raises an issue right here in this Court.
+1987.86-890,1,22290,edward_n_fitzpatrick,,1866.573,1871.057,"--But we are not seeking, we are no longer seeking the injunctive relief."
+1987.86-890,1,15071,byron_r_white,scotus_justice,1871.057,1872.566,"I know, but you are seeking to stay in court on the damages claim."
+1987.86-890,1,22290,edward_n_fitzpatrick,,1872.566,1873.277,"Yes, we are."
+1987.86-890,1,15071,byron_r_white,scotus_justice,1873.277,1876.74,The other side says you shouldn't even be in court on that basis.
+1987.86-890,1,22290,edward_n_fitzpatrick,,1876.74,1877.912,"Yes, Justice, we are."
+1987.86-890,1,15071,byron_r_white,scotus_justice,1885.295,1889.128,"Yes, you want to stay there and the other side says, no, you shouldn't even be there on that."
+1987.86-890,1,22290,edward_n_fitzpatrick,,1889.128,1889.569,That's correct.
+1987.86-890,1,15071,byron_r_white,scotus_justice,1891.29,1892.231,And so we have an issue under Younger.
+1987.86-890,1,22290,edward_n_fitzpatrick,,1892.231,1908.03,"--Well, you have an issue under Younger, but what we say is essentially it is a moot issue because the reason that Younger would be applicable, or the reason it was argued that Younger was applicable to us below is that we were seeking certain injunctive relief which we are no longer seeking."
+1987.86-890,1,15092,sandra_day_oconnor,scotus_justice,1909.762,1928.903,"Well, but up here the attorney for the state is telling us that even if the injunctive relief is no longer sought, that somehow Younger principles mandate that the trial court's decision to dismiss the remaining damages action is appropriate."
+1987.86-890,1,22290,edward_n_fitzpatrick,,1928.903,1932.646,"--They have argued that, Justice."
+1987.86-890,1,15092,sandra_day_oconnor,scotus_justice,1932.646,1935.458,"Yes, so why don't you address yourself to that?"
+1987.86-890,1,22290,edward_n_fitzpatrick,,1935.458,1955.72,"Well, with respect to that, I would say where is the intrusion, where is the necessity... where to comity principles come into play so as to deprive us of what the Congress... deprived our clients of what the Congress has given them, that is, a right to go into the federal court with a 1983 lawsuit."
+1987.86-890,1,15071,byron_r_white,scotus_justice,2038.615,2041.487,You are arguing the merits of one of the issues that is before us now.
+1987.86-890,1,22290,edward_n_fitzpatrick,,2041.487,2042.638,"I am sorry, Your Honor."
+1987.86-890,1,15071,byron_r_white,scotus_justice,2042.638,2045.38,You are arguing the merits of an issue that is before us now.
+1987.86-890,1,22290,edward_n_fitzpatrick,,2047.671,2062.511,"Yes, we believe the rule under... we believe that Younger allows, obviously, and mandates abstention under certain circumstances, and what are the circumstances?"
+1987.86-890,1,15141,william_h_rehnquist,scotus_justice,2064.973,2070.264,Abstention on the damages claim or on the injunctive claim?
+1987.86-890,1,22290,edward_n_fitzpatrick,,2070.264,2072.428,Well we say that only on the injunctive claim.
+1987.86-890,1,15141,william_h_rehnquist,scotus_justice,2079.891,2083.494,"Well, would there be a basis for staying the claim until--"
+1987.86-890,1,22290,edward_n_fitzpatrick,,2083.494,2083.885,Yes.
+1987.86-890,1,15141,william_h_rehnquist,scotus_justice,2094.742,2107.191,--So then the life part of this case is the petitioners are saying the District Court has discretion to dismiss rather than stay a damages claim in this situation.
+1987.86-890,1,22290,edward_n_fitzpatrick,,2111.723,2114.234,Whether they stay it or dismiss it?
+1987.86-890,1,15141,william_h_rehnquist,scotus_justice,2114.234,2114.685,Yes.
+1987.86-890,1,22290,edward_n_fitzpatrick,,2114.685,2115.487,Yes.
+1987.86-890,1,15071,byron_r_white,scotus_justice,2127.144,2147.897,"But the reason that there is no interference is that in this criminal proceeding where you are... the state proceeding that is going on is a criminal proceeding in which you are making a motion to return certain evidence, and there is no way in that proceeding to get damages."
+1987.86-890,1,22290,edward_n_fitzpatrick,,2147.897,2151.95,"That is only partially so, Justice, because--"
+1987.86-890,1,15071,byron_r_white,scotus_justice,2151.95,2160.656,"Well, if there was an ongoing state proceeding that would give you the remedy, you would be interfering with a state court."
+1987.86-890,1,22290,edward_n_fitzpatrick,,2160.656,2165.75,"--Justice, you see, our case goes far beyond our Fourth Amendment claims."
+1987.86-890,1,15071,byron_r_white,scotus_justice,2165.75,2166.25,Yes.
+1987.86-890,1,22290,edward_n_fitzpatrick,,2166.25,2170.852,"And what we say is, we now have a forum for Fourth Amendment claims."
+1987.86-890,1,15141,william_h_rehnquist,scotus_justice,2194.437,2203.215,"Now, were any of those claims other than the Fourth Amendment claim embraced in your request for an injunction against the state proceeding?"
+1987.86-890,1,22290,edward_n_fitzpatrick,,2203.215,2204.955,"No, they were not."
+1987.86-890,1,15060,john_paul_stevens,scotus_justice,2232.314,2233.994,May I ask you a question?
+1987.86-890,1,22290,edward_n_fitzpatrick,,2233.994,2234.685,Because it wasn't necessary.
+1987.86-890,1,15060,john_paul_stevens,scotus_justice,2234.685,2237.847,You say about the injunction you are not fighting for it.
+1987.86-890,1,22290,edward_n_fitzpatrick,,2252.006,2253.466,"Your Honor, we believe that would dispose of the--"
+1987.86-890,1,15060,john_paul_stevens,scotus_justice,2253.466,2254.317,--I know it would dispose.
+1987.86-890,1,22290,edward_n_fitzpatrick,,2258.58,2260.131,"--As a litigant, no."
+1987.86-890,1,15060,john_paul_stevens,scotus_justice,2268.599,2272.891,--So your litigants really have no interest in defending that portion of the Court of Appeals' judgment.
+1987.86-890,1,22290,edward_n_fitzpatrick,,2272.891,2273.762,--That's correct.
+1987.86-890,1,15060,john_paul_stevens,scotus_justice,2273.762,2276.243,The only thing you want to do is be able to maintain your damage action.
+1987.86-890,1,22290,edward_n_fitzpatrick,,2276.243,2276.804,That's correct.
+1987.86-890,1,15060,john_paul_stevens,scotus_justice,2282.156,2282.667,I understand.
+1987.86-890,1,22290,edward_n_fitzpatrick,,2284.137,2289.302,--We will take either of the opinions at the Third Circuit at this stage.
+1987.86-890,1,15060,john_paul_stevens,scotus_justice,2293.073,2295.436,"But you really don't care, your litigants really don't care."
+1987.86-890,1,22290,edward_n_fitzpatrick,,2295.436,2296.976,--The litigants do not care.
+1987.86-890,1,15049,antonin_scalia,scotus_justice,2305.171,2323.763,"The correctness of the District Court's action, whether it should dismiss or... should have dismissed or should have stayed depends on what the factual situation was at that time, at the time that it took that action, and at that action the injunction matter was alive."
+1987.86-890,1,22290,edward_n_fitzpatrick,,2332.409,2333.571,"Well, that's correct."
+1987.86-890,1,15049,antonin_scalia,scotus_justice,2333.571,2341.125,"And if there should have been a dismissal then because there was an injunction pending, why shouldn't we say that?"
+1987.86-890,1,22290,edward_n_fitzpatrick,,2456.6,2468.228,We allege that the investigation as carried out by the individual defendant petitioners in this case was conduct which violated the constitutional rights of the respondent.
+1987.86-890,1,15071,byron_r_white,scotus_justice,2484.49,2494.074,"You have got, in this criminal proceeding you have got the rest of your Fourth Amendment claim pending."
+1987.86-890,1,22290,edward_n_fitzpatrick,,2494.074,2495.095,"Yes, we do, Your Honor."
+1987.86-890,1,15071,byron_r_white,scotus_justice,2501.621,2502.569,Part of it is over.
+1987.86-890,1,22290,edward_n_fitzpatrick,,2502.569,2505.882,"Part is decided, part is before the Court, and part--"
+1987.86-890,1,15071,byron_r_white,scotus_justice,2505.882,2510.326,You don't want to go forward on the damages claim on that part in the federal court.
+1987.86-890,1,22290,edward_n_fitzpatrick,,2510.326,2513.158,"--See, we don't have--"
+1987.86-890,1,15071,byron_r_white,scotus_justice,2513.158,2516.18,"Because if you did and had it decided, it would foreclose the state court."
+1987.86-890,1,22290,edward_n_fitzpatrick,,2516.18,2522.685,"--You see, Your Honor, we don't have a Fourth Amendment claim for damages per se."
+1987.86-890,1,15141,william_h_rehnquist,scotus_justice,2579.73,2582.452,What were your clients indicted for?
+1987.86-890,1,22290,edward_n_fitzpatrick,,2582.452,2588.716,"--They were indicted for conspiracy, a bribery case essentially, conspiracy and bribery."
+1987.86-890,1,15141,william_h_rehnquist,scotus_justice,2669.28,2678.777,"You can challenge all of... you can raise all of these Fourth Amendment questions in state court now, the same way that you could sue for damages on them in the federal court, can't you?"
+1987.86-890,1,22290,edward_n_fitzpatrick,,2678.777,2691.453,"--We can raise them only insofar as they affect documents that are presently in the possession of the state or those that would be offered, say, in evidence, those that are evidence against us."
+1987.86-890,1,15071,byron_r_white,scotus_justice,2691.453,2696.377,Or any verbal testimony by officers gained contrary to the warrant.
+1987.86-890,1,22290,edward_n_fitzpatrick,,2696.377,2697.367,"Correct, Your Honor."
+1987.86-890,1,15071,byron_r_white,scotus_justice,2698.769,2700.111,"Well, could I ask to make sure--"
+1987.86-890,1,22290,edward_n_fitzpatrick,,2700.111,2700.869,But there won't be.
+1987.86-890,1,15071,byron_r_white,scotus_justice,2701.36,2705.933,--Weren't there more... how many defendants have been indicted?
+1987.86-890,1,22290,edward_n_fitzpatrick,,2707.675,2712.467,"--Two defendants, two at one company."
+1987.86-890,1,15071,byron_r_white,scotus_justice,2715.57,2718.902,How many of the plaintiffs have not been indicted?
+1987.86-890,1,22290,edward_n_fitzpatrick,,2718.902,2719.903,Three.
+1987.86-890,1,15071,byron_r_white,scotus_justice,2719.903,2721.333,"Three, and two of them--"
+1987.86-890,1,22290,edward_n_fitzpatrick,,2721.333,2723.794,"Three, but one individual, one partnership, and one company."
+1987.86-890,1,15071,byron_r_white,scotus_justice,2723.794,2724.535,--And one company.
+1987.86-890,1,22290,edward_n_fitzpatrick,,2728.208,2728.869,"Yes, Your Honor."
+1987.86-890,1,15060,john_paul_stevens,scotus_justice,2797.804,2805.188,Is it not true that the claims that are not... could not be decided in a state forum are all damages claims?
+1987.86-890,1,22290,edward_n_fitzpatrick,,2805.188,2811.363,"No, there are other claims which... there are other claims... I am sorry."
+1987.86-890,1,15060,john_paul_stevens,scotus_justice,2814.194,2820.629,"Are those claims that you say can only be decided in the federal court, such as trying to put pressure on your people to testify?"
+1987.86-890,1,22290,edward_n_fitzpatrick,,2826.063,2826.834,"--No, we did not."
+1987.86-890,1,15060,john_paul_stevens,scotus_justice,2826.834,2827.595,You just wanted damages.
+1987.86-890,1,22290,edward_n_fitzpatrick,,2827.595,2831.118,"We did not, and there is a state forum."
+1987.86-890,1,15060,john_paul_stevens,scotus_justice,2831.118,2832.677,"Oh, sure."
+1987.86-890,1,22290,edward_n_fitzpatrick,,2832.677,2837.729,"In all honesty I must say that we could file the exact pleading in the state court, but the Congress allowed us to file it in the federal court, and we chose to do it."
+1987.86-890,1,15060,john_paul_stevens,scotus_justice,2837.729,2838.26,Yes.
+1987.86-890,1,22290,edward_n_fitzpatrick,,2838.26,2841.272,So there is a forum.
+1987.86-890,1,15060,john_paul_stevens,scotus_justice,2842.314,2851.07,But it seems to me that to the extent that you are describing claims that you think you have no state remedy other than a 1983 claim are basically damage claims.
+1987.86-890,1,22290,edward_n_fitzpatrick,,2851.07,2856.003,--Yes.
+1987.86-890,1,15060,john_paul_stevens,scotus_justice,2858.694,2859.535,And you are willing to--
+1987.86-890,1,22290,edward_n_fitzpatrick,,2859.535,2863.418,"On all of them, even the one aspect of the Fourth Amendment that we can't raise as a damage claim."
+1987.86-890,1,15140,william_j_brennan_jr,scotus_justice,2869.332,2876.315,"--You did say, Mr. Fitzpatrick, you could have brought your 1983 claims for damages in the state court if you chose?"
+1987.86-890,1,22290,edward_n_fitzpatrick,,2876.315,2877.507,"Yes, we could have."
+1987.86-890,1,15140,william_j_brennan_jr,scotus_justice,2877.507,2879.657,But you had the option of federal or state court.
+1987.86-890,1,22290,edward_n_fitzpatrick,,2879.657,2881.59,"Yes, Justice, we had an option."
+1987.86-890,1,15071,byron_r_white,scotus_justice,2902.084,2928.601,"Let's just assume that the only claim that you had in the federal court for which you ask an injunction and damages was simply that there was a... certain of the evidence was seized in violation of the Fourth Amendment, and you won an injunction, and then there was an indictment, and you could raise... every claim you had except damages could be raised in the criminal proceeding."
+1987.86-890,1,22290,edward_n_fitzpatrick,,2932.662,2941.367,"--I would argue yes, and I also know I would be in a lot of trouble in this Court in arguing yes, but I would argue to you yes, but the fact is that--"
+1987.86-890,1,15071,byron_r_white,scotus_justice,2941.367,2941.857,"Well, yes, but--"
+1987.86-890,1,22290,edward_n_fitzpatrick,,2941.857,2942.368,--that is not our case.
+1987.86-890,1,15071,byron_r_white,scotus_justice,2942.368,2960.471,"--Well, I know, but you keep saying you could go forward on your damages claim, but if that proceeding, if the federal case was decided before the state case, you would be foreclosing the state court from deciding your Fourth Amendment claim."
+1987.86-890,1,22290,edward_n_fitzpatrick,,2960.471,2972.789,"Justice, I don't believe that in the real world, that there is any chance that that could happen, especially given the calendars, what they are in New Jersey today."
+1987.86-890,1,15071,byron_r_white,scotus_justice,2975.881,2983.105,Just say that you would never go forward on your damages claim in my example in the federal court.
+1987.86-890,1,22290,edward_n_fitzpatrick,,2983.105,2986.597,"I am sorry, you lost me."
+1987.86-890,1,15071,byron_r_white,scotus_justice,2988.668,3001.308,"I don't think the state criminal proceeding is as much, almost as much interfered with by a holding in the federal court that evidence has been seized in violation of the Fourth Amendment."
+1987.86-890,1,22290,edward_n_fitzpatrick,,3001.308,3005.891,"Yes, Your Honor, and I can understand it makes it a much closer--"
+1987.86-890,1,15071,byron_r_white,scotus_justice,3005.891,3018.408,"And if it takes as long to get to the criminal proceeding as this, as it may be that the federal court could get your damages case decided before anything significant happens in the state court."
+1987.86-890,1,22290,edward_n_fitzpatrick,,3018.408,3024.204,"--Most doubtful that that could happen, but let me get back to the earlier point, Justice, which you made."
+1987.86-890,1,15060,john_paul_stevens,scotus_justice,3133.283,3138.317,May I ask you one question about state procedure?
+1987.86-890,1,22290,edward_n_fitzpatrick,,3138.317,3138.658,"Yes, sir."
+1987.86-890,1,15060,john_paul_stevens,scotus_justice,3138.658,3145.391,"In this case, I don't remember his name, there is one state court judge that seems to have been supervising the grand jury, issued the--"
+1987.86-890,1,22290,edward_n_fitzpatrick,,3153.208,3154.41,That is most unusual.
+1987.86-890,1,15060,john_paul_stevens,scotus_justice,3172.028,3174.271,He doesn't automatically do that as assignment judge?
+1987.86-890,1,22290,edward_n_fitzpatrick,,3174.271,3176.101,"No, but he also had a second role."
+1987.86-890,1,15060,john_paul_stevens,scotus_justice,3196.025,3201.978,He is the one who is ruling on things like whether some documents were seized that were not described in the warrant and so forth.
+1987.86-890,1,22290,edward_n_fitzpatrick,,3206.682,3224.114,"It is because... frankly, I arrived on the scene on October 5th and got Judge Lenox on the phone, and I was the lawyer who complained that we weren't getting a receipt for these documents, so when Judge Lenox said that, he said, seal them all, and he put them under seal."
+1987.86-890,1,15060,john_paul_stevens,scotus_justice,3227.347,3228.405,You did that because he was the issuing--
+1987.86-890,1,22290,edward_n_fitzpatrick,,3228.405,3235.16,"He was the issuing magistrate or the issuing judge, but the chronology is important, Justice."
+1987.86-890,1,15104,thurgood_marshall,scotus_justice,3423.725,3433.982,"--After you have gone over all of this, do you agree that if we say injunction is out, damages are in, you are satisfied?"
+1987.86-890,1,22290,edward_n_fitzpatrick,,3433.982,3435.373,"I am satisfied and I will go home, Your Honor."
+1987.86-890,1,15104,thurgood_marshall,scotus_justice,3435.373,3436.792,"Well, what is all this argument about?"
+1987.86-890,1,22290,edward_n_fitzpatrick,,3436.792,3440.004,"It is over as far as I am concerned, Justice Marshall."
+1987.86-890,1,15141,william_h_rehnquist,scotus_justice,3441.857,3446.469,"Thank you, Mr. Fitzpatrick."
+1987.86-890,2,34393,larry_r_etzweiler,,3449.351,3472.167,"With respect to the mootness question, and it is particularly with respect to the mootness of the question whether state grand jury proceedings are judicial proceedings for the purposes of the Younger abstention doctrine, this is certainly a case which is capable of repetition but evasive of review."
+1987.86-890,2,15141,william_h_rehnquist,scotus_justice,3703.908,3706.599,"Thank you, Mr. Etzweiler."

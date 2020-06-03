@@ -1,0 +1,33 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1992.91-1300,0,15141,william_h_rehnquist,scotus_justice,0.0,7.92,"We'll hear argument now in Number 91-1300, United States against Sharon Dunnigan."
+1992.91-1300,0,38091,paul_j_larkin_jr,,9.606,12.474,"Thank you, Mr. Chief Justice, and may it please the Court:"
+1992.91-1300,0,15113,anthony_m_kennedy,scotus_justice,101.366,105.401,Does perjury imply a finding of willfulness?
+1992.91-1300,0,38091,paul_j_larkin_jr,,105.401,106.168,"Yes, Your Honor."
+1992.91-1300,0,15113,anthony_m_kennedy,scotus_justice,115.84,122.362,"Because he didn't say that she was convicted of... that she committed perjury in so many words, did he?"
+1992.91-1300,0,38091,paul_j_larkin_jr,,133.051,133.335,He doesn't.
+1992.91-1300,0,15113,anthony_m_kennedy,scotus_justice,148.328,153.965,"I think it would be rather difficult to say that it wasn't willful, given the circumstances of this case."
+1992.91-1300,0,38091,paul_j_larkin_jr,,153.965,154.282,But--
+1992.91-1300,0,15113,anthony_m_kennedy,scotus_justice,154.282,161.755,"In some cases the defendant might not be believed, but her testimony might not be willfully... willfully."
+1992.91-1300,0,38091,paul_j_larkin_jr,,161.755,162.355,"--Correct... correct, Your Honor."
+1992.91-1300,0,15092,sandra_day_oconnor,scotus_justice,632.541,643.549,"Mr. Larkin, what... what do you say is the level of the burden of proof to satisfy this guideline?"
+1992.91-1300,0,38091,paul_j_larkin_jr,,652.837,653.521,"--Yes, Your Honor."
+1992.91-1300,1,17440,brent_e_beveridge,,817.925,822.644,"Thank you, Mr. Chief Justice, and may it please the Court:"
+1992.91-1300,1,15049,antonin_scalia,scotus_justice,954.047,956.832,What was the situation before the guideline?
+1992.91-1300,1,17440,brent_e_beveridge,,956.832,960.867,Before the guidelines you would advise him that the judge has discretion.
+1992.91-1300,2,38091,paul_j_larkin_jr,,2616.696,2617.146,Your Honor--
+1992.91-1300,2,15113,anthony_m_kennedy,scotus_justice,2617.146,2628.251,"Mr. Larkin, can you tell us, is it the Government's position that if the trial judge is convinced that there's been perjury, that he must enhance?"
+1992.91-1300,2,38091,paul_j_larkin_jr,,2633.155,2639.909,"--Yes, Your Honor, a judge does not have the discretion to refuse to enhance the sentence once he makes the requisite finding."
+1992.91-1300,2,15113,anthony_m_kennedy,scotus_justice,2639.909,2647.348,Does he have the discretion not to make the finding if he's convinced that there's a fair probability of perjury?
+1992.91-1300,2,38091,paul_j_larkin_jr,,2647.348,2652.966,"Your Honor, if the judge, by a preponderance, finds that the defendant committed perjury, he must then go ahead and make the finding."
+1992.91-1300,2,15113,anthony_m_kennedy,scotus_justice,2652.966,2653.418,"No, no, no."
+1992.91-1300,2,38091,paul_j_larkin_jr,,2658.486,2658.736,Does he--
+1992.91-1300,2,15113,anthony_m_kennedy,scotus_justice,2658.736,2661.588,Does he have to proceed to make the inquiry--
+1992.91-1300,2,38091,paul_j_larkin_jr,,2661.588,2661.788,--Well--
+1992.91-1300,2,15113,anthony_m_kennedy,scotus_justice,2661.788,2666.142,"--if, say, he's convinced or there's probably cause to believe there's perjury."
+1992.91-1300,2,38091,paul_j_larkin_jr,,2666.142,2666.442,--Right.
+1992.91-1300,2,15113,anthony_m_kennedy,scotus_justice,2676.181,2678.616,"That someone being the Government, of course."
+1992.91-1300,2,38091,paul_j_larkin_jr,,2678.616,2682.937,Or the probation officer which has to prepare a probation report for the trial judge.
+1992.91-1300,2,15113,anthony_m_kennedy,scotus_justice,2694.376,2705.1,"But... but one step anterior to that he also must make the inquiry, at the request of the Government, if there's plausible ground for believing that perjury was committed."
+1992.91-1300,2,38091,paul_j_larkin_jr,,2705.1,2706.1,That's right.
+1992.91-1300,2,15049,antonin_scalia,scotus_justice,2706.1,2708.383,"Mr. Larkin, why must the Government make a request?"
+1992.91-1300,2,38091,paul_j_larkin_jr,,2720.591,2735.702,"Well, I think in any case where a district court does not make a finding and the Government then tries to say that the district court was wrong in not going ahead and making that finding, the courts of appeals have said the obligation is on the Government to urge the judge to make the finding."

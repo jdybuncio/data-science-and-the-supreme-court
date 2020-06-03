@@ -1,0 +1,228 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1967.53,0,15099,earl_warren,scotus_justice,0.0,12.611,"Number 53, James Cleveland Burgett versus Texas."
+1967.53,0,25381,gordon_gooch,,13.57,16.353,"Mr. Chief Justice, may it please the Court."
+1967.53,0,15043,potter_stewart,scotus_justice,164.881,166.528,That was a conviction for what?
+1967.53,0,25381,gordon_gooch,,166.528,167.792,Forgery Your Honor.
+1967.53,0,15043,potter_stewart,scotus_justice,167.792,169.712,A felony in Tennessee or?
+1967.53,0,25381,gordon_gooch,,169.712,174.189,"Yes, Your Honor."
+1967.53,0,15099,earl_warren,scotus_justice,300.644,308.565,How about the other two Tennessee convictions that were alleged in the indictment?
+1967.53,0,25381,gordon_gooch,,308.565,312.953,"Sir, the other two Tennessee convictions were never directly offered into evidence."
+1967.53,0,15097,john_m_harlan2,scotus_justice,328.204,337.839,"Well, didn't the Court's charge also advice the allegations of the indictment with respect to having a new conviction?"
+1967.53,0,25381,gordon_gooch,,337.839,338.451,"Yes, Your Honor."
+1967.53,0,15097,john_m_harlan2,scotus_justice,339.215,342.676,"They were told not to consider those allegations, did they not?"
+1967.53,0,25381,gordon_gooch,,342.676,353.256,"Yes, Your Honor they say -- the judge instructed them, the jury, not to consider the evidence that they had heard concerning any of the -- pending to show prior crimes, I believe is the language he used."
+1967.53,0,15097,john_m_harlan2,scotus_justice,353.256,354.846,Or the allegations in the indictment?
+1967.53,0,25381,gordon_gooch,,354.846,355.511,"Yes, Your Honor."
+1967.53,0,15099,earl_warren,scotus_justice,362.135,370.821,"There was one of the Tennessee indict or convictions that the -- they're concerning which there was no proof offered at all by the state, two of them."
+1967.53,0,25381,gordon_gooch,,370.821,371.695,Two.
+1967.53,0,15099,earl_warren,scotus_justice,372.453,372.503,Two of them.
+1967.53,0,25381,gordon_gooch,,372.503,377.021,-- that were admit -- in which there were no certified copies at all even tendered to the Court.
+1967.53,0,15099,earl_warren,scotus_justice,377.021,378.328,Yes.
+1967.53,0,25381,gordon_gooch,,390.216,391.998,"Thank you, Mr. Chief Justice."
+1967.53,0,15061,abe_fortas,scotus_justice,564.407,569.921,Do we know that there was no waiver of counsel in the Tennessee case?
+1967.53,0,25381,gordon_gooch,,569.921,584.572,"If the Court please, I cannot honestly say that for this reason insofar as the record before this Court is concerned there is no indication that petitioner waived counsel."
+1967.53,0,15061,abe_fortas,scotus_justice,590.951,591.548,"Well, (Inaudible) --"
+1967.53,0,25381,gordon_gooch,,591.548,593.272,-- and he did not waive it.
+1967.53,0,15061,abe_fortas,scotus_justice,593.272,595.541,I had to assume that --
+1967.53,0,25381,gordon_gooch,,595.541,595.846,"Yes, sir."
+1967.53,0,15061,abe_fortas,scotus_justice,595.846,596.511,-- you're going to do that.
+1967.53,0,25381,gordon_gooch,,596.511,602.415,"By the same token, the State of Texas never contended in the trial court that there was any waiver."
+1967.53,1,34363,leon_douglas,,1619.08,1621.917,Mr. Chief Justice and may it please the Court.
+1967.53,1,15099,earl_warren,scotus_justice,1630.213,1631.241,"On the way back, he what?"
+1967.53,1,34363,leon_douglas,,1631.241,1637.625,"On the way back to the cell, he stabbed the jailer and that is what he was convicted for, assault with intent to murder."
+1967.53,1,15061,abe_fortas,scotus_justice,1659.959,1670.433,"Well, what does -- what do those cases have to do with the problem as it's before us if there's no recidivist conviction as you now cite?"
+1967.53,1,34363,leon_douglas,,1670.433,1681.635,"The only thing in their Mr. Justice Fortas is that in the Mickelson case the -- it says, the limitation instructions on this subject are no different in this type of case than other cases."
+1967.53,1,15061,abe_fortas,scotus_justice,1689.55,1691.169,"Well, how about Spencer though."
+1967.53,1,34363,leon_douglas,,1691.169,1696.466,"It said, Spencer case to use that language and cited the Mickelson case in the opinion about --"
+1967.53,1,15061,abe_fortas,scotus_justice,1696.466,1708.789,"Well, do you see this case as it is here before us as a case involving Texas procedures under the recidivist statute or not?"
+1967.53,1,34363,leon_douglas,,1708.789,1713.833,"It started out that way Your Honor and ended up as a straight trial under assault, intent to murder."
+1967.53,1,15061,abe_fortas,scotus_justice,1713.833,1715.566,You mean the prosecution started out that --
+1967.53,1,34363,leon_douglas,,1715.566,1716.19,"Yes, Your Honor."
+1967.53,1,15061,abe_fortas,scotus_justice,1716.19,1718.975,And how about before us?
+1967.53,1,34363,leon_douglas,,1720.617,1723.839,This is not a recidivist case before you.
+1967.53,1,15061,abe_fortas,scotus_justice,1723.839,1748.266,"Well, just a question of whether the evidence introduced purportedly under the recidivist statute and then later excluded from jury consideration by instruction of the judge is -- undermines a conviction for assault with intent to murder."
+1967.53,1,34363,leon_douglas,,1748.266,1753.669,"That would be one of the main gist of the case, I believe it."
+1967.53,1,15104,thurgood_marshall,scotus_justice,1753.669,1760.331,"Mr. Douglas, if this is just an assault with murder, why did you put those two affidavits in your brief?"
+1967.53,1,34363,leon_douglas,,1760.331,1772.808,"Mr. Justice Fortas, this -- in the development of this case, if you would permit me, say that the Dallas conviction for burglary was offered."
+1967.53,1,15104,thurgood_marshall,scotus_justice,1788.622,1791.591,But did it look the same way when you got it --
+1967.53,1,34363,leon_douglas,,1791.591,1791.818,"Well, in the --"
+1967.53,1,15104,thurgood_marshall,scotus_justice,1791.818,1792.727,-- originally?
+1967.53,1,34363,leon_douglas,,1792.727,1797.891,"In the certified record before this Court, it looks like that the three is probably erased."
+1967.53,1,15104,thurgood_marshall,scotus_justice,1799.78,1804.528,"But I mean, didn't you see that before you introduced it in evidence?"
+1967.53,1,34363,leon_douglas,,1804.528,1807.245,"Your Honor, I'd the appellate lawyer before the Court of Criminal Appeals."
+1967.53,1,15104,thurgood_marshall,scotus_justice,1810.544,1813.2,"Well, are you defending the person who did offer it?"
+1967.53,1,34363,leon_douglas,,1813.2,1814.577,Yes Your Honor.
+1967.53,1,15104,thurgood_marshall,scotus_justice,1814.577,1816.733,Didn't he see it?
+1967.53,1,34363,leon_douglas,,1816.733,1820.571,"Yes, but I -- it is my contention that it made no difference."
+1967.53,1,15104,thurgood_marshall,scotus_justice,1824.193,1826.379,That brings me to my next point.
+1967.53,1,34363,leon_douglas,,1843.027,1847.61,"Your Honor, I do not agree that it's obviously invalid."
+1967.53,1,15104,thurgood_marshall,scotus_justice,1847.61,1851.75,"No, this one I'm talking about, it is obviously invalid."
+1967.53,1,34363,leon_douglas,,1851.75,1852.663,I -- maybe --
+1967.53,1,15104,thurgood_marshall,scotus_justice,1852.663,1854.843,Do you say you can use that --
+1967.53,1,34363,leon_douglas,,1854.843,1855.096,I don't see --
+1967.53,1,15104,thurgood_marshall,scotus_justice,1855.096,1856.751,-- any way?
+1967.53,1,34363,leon_douglas,,1856.751,1859.832,"If one is obviously invalid, I'd say you couldn't use it."
+1967.53,1,15140,william_j_brennan_jr,scotus_justice,1881.254,1887.551,"Of course, but didn't finally (Inaudible) say that if the record was silent, you could not incur a waiver?"
+1967.53,1,34363,leon_douglas,,1887.551,1890.289,"Your Honor, this is a collateral attack maybe once removed."
+1967.53,1,15140,william_j_brennan_jr,scotus_justice,1890.289,1894.097,"Collateral attack or not, didn't this -- not what the principle was determining (Inaudible)?"
+1967.53,1,34363,leon_douglas,,1894.097,1895.869,It says that he must show that --
+1967.53,1,15140,william_j_brennan_jr,scotus_justice,1895.869,1899.047,And did this record show that he had counsel?
+1967.53,1,34363,leon_douglas,,1899.047,1904.145,The record shows that -- and that -- I checked the Tennessee law and to see what these instruments were.
+1967.53,1,15140,william_j_brennan_jr,scotus_justice,1909.126,1917.514,"Isn't that -- I just wonder how these affidavits indicating that in fact he did, is this the one we're talking about, these affidavits in the (Voice Overlap)?"
+1967.53,1,34363,leon_douglas,,1917.514,1918.164,"Yes, Your Honor."
+1967.53,1,15140,william_j_brennan_jr,scotus_justice,1937.284,1938.852,They're not really properly before us.
+1967.53,1,34363,leon_douglas,,1938.852,1940.731,Necessary to the opinion Your Honor.
+1967.53,1,15099,earl_warren,scotus_justice,1943.317,1946.734,"They're just not properly here, isn't that right?"
+1967.53,1,34363,leon_douglas,,1946.734,1948.91,I -- if that's what the Court says Your Honor.
+1967.53,1,15099,earl_warren,scotus_justice,1949.417,1951.879,"Well, do you -- how do you defend it?"
+1967.53,1,34363,leon_douglas,,1952.104,1953.105,"I don't -- Your Honor, I don't defend it."
+1967.53,1,15099,earl_warren,scotus_justice,1953.105,1957.031,(Inaudible) to say that they're properly here or they're not properly here?
+1967.53,1,34363,leon_douglas,,1957.031,1959.226,"Well, this -- I will say that they're not proper here."
+1967.53,1,15099,earl_warren,scotus_justice,1959.667,1960.533,I thought (Voice Overlap) --
+1967.53,1,34363,leon_douglas,,1960.533,1962.996,-- matters come up -- pardon me?
+1967.53,1,15099,earl_warren,scotus_justice,1962.996,1963.962,No.
+1967.53,1,34363,leon_douglas,,1975.725,1979.259,"Alright, Your Honor, (Inaudible)."
+1967.53,1,15099,earl_warren,scotus_justice,2055.641,2060.716,Why was it -- it couldn't -- you couldn't put the Tennessee conviction in?
+1967.53,1,34363,leon_douglas,,2060.716,2074.253,"They couldn't put the Tennessee convictions in because for a circuit conviction, it must be of like character and the forgery is not of like character to assault, intent to murder under Texas law."
+1967.53,1,15061,abe_fortas,scotus_justice,2080.01,2082.48,"Well, why didn't you put it in your indictment?"
+1967.53,1,34363,leon_douglas,,2082.48,2093.837,"Because -- assuming that the Dallas County conviction was good in which the record and the law that I've cited in the brief I think would show was good, used the Dallas County conviction then we could go to the Tennessee conviction."
+1967.53,1,15061,abe_fortas,scotus_justice,2101.106,2103.773,"Well, you have cited four convictions here."
+1967.53,1,34363,leon_douglas,,2103.773,2104.781,"Yes, Your Honor."
+1967.53,1,15061,abe_fortas,scotus_justice,2104.781,2106.459,And you read them to the jury.
+1967.53,1,34363,leon_douglas,,2106.459,2107.499,"Yes, Your Honor."
+1967.53,1,15061,abe_fortas,scotus_justice,2107.499,2115.106,"Now -- and then none of them was eventually submitted to the jury, none of them proved out."
+1967.53,1,34363,leon_douglas,,2122.006,2123.289,That's right.
+1967.53,1,15061,abe_fortas,scotus_justice,2123.289,2138.236,"And nevertheless the -- when they hadn't obtain the conviction at least for assault with murder and -- that the ambiguities to what effect a defendant of recidivist statute had, is that right?"
+1967.53,1,34363,leon_douglas,,2138.236,2142.145,"Yes, sir."
+1967.53,1,15099,earl_warren,scotus_justice,2142.145,2155.229,"Mr. Douglas, may I ask where in the record we can find that the -- that these Tennessee convictions could not be introduced by the prosecution."
+1967.53,1,34363,leon_douglas,,2155.229,2161.666,"Your Honor, I cite in my brief the fact of the Texas law under 62."
+1967.53,1,15099,earl_warren,scotus_justice,2161.826,2173.606,Was there anything in the record that shows that the prosecutor made a valid attempt to introduce the Tennessee convictions.
+1967.53,1,34363,leon_douglas,,2176.898,2179.93,"No, sir, only as a matter of law when the Dallas County conviction was ruled out."
+1967.53,1,15099,earl_warren,scotus_justice,2179.93,2186.806,Ruled out -- the record shows nothing of that and it develops only when you write a brief in this Court.
+1967.53,1,34363,leon_douglas,,2186.806,2187.689,"Yes, Your Honor."
+1967.53,1,15099,earl_warren,scotus_justice,2187.689,2187.955,Alright.
+1967.53,1,34363,leon_douglas,,2241.472,2242.369,"Well, if it would be --"
+1967.53,1,15099,earl_warren,scotus_justice,2242.369,2251.548,I just -- you said we have to overrule Spencer and I just want to know what comfort you'd get out of Spencer if you think Spencer said anything of that kind?
+1967.53,1,34363,leon_douglas,,2251.548,2256.834,"In Reed Your Honor, there were eight prior convictions and you needed three."
+1967.53,1,15099,earl_warren,scotus_justice,2291.252,2297.06,Did you offer them to show you good faith in having charged them in the indictment?
+1967.53,1,34363,leon_douglas,,2297.06,2298.943,May I go on to this good faith.
+1967.53,1,15099,earl_warren,scotus_justice,2309.108,2313.482,"But he wouldn't expect them to -- that they were all bad, would you?"
+1967.53,1,34363,leon_douglas,,2313.482,2315.27,"Your Honor, I don't know if they're bad."
+1967.53,1,15099,earl_warren,scotus_justice,2315.421,2316.789,(Inaudible)
+1967.53,1,34363,leon_douglas,,2316.789,2319.88,"The Tennessee law, we could look at that just a moment."
+1967.53,1,15099,earl_warren,scotus_justice,2374.402,2377.73,"So rather that's a presumption there, I think."
+1967.53,1,34363,leon_douglas,,2377.73,2380.968,"Well, it -- when no cases had -- there was, excuse me."
+1967.53,1,15104,thurgood_marshall,scotus_justice,2431.732,2438.649,"But Mr. Douglas, did he know what those prior convictions were when the indictment was read?Had he seen them?"
+1967.53,1,34363,leon_douglas,,2438.649,2440.127,"I don't know, Your Honor."
+1967.53,1,15104,thurgood_marshall,scotus_justice,2442.953,2444.173,But he did the best he could.
+1967.53,1,34363,leon_douglas,,2448.094,2448.166,Your Honor --
+1967.53,1,15104,thurgood_marshall,scotus_justice,2448.166,2449.766,There's no other way you could do it.
+1967.53,1,34363,leon_douglas,,2449.766,2457.023,"You Honor, that motion to quash only contained allegations to this effect, that they were indefinite that the indictments were indefinite."
+1967.53,1,15104,thurgood_marshall,scotus_justice,2457.023,2462.18,"Well, isn't that all he could do at that time under the law of Texas."
+1967.53,1,34363,leon_douglas,,2462.18,2463.086,We have procedure.
+1967.53,1,15104,thurgood_marshall,scotus_justice,2468.67,2469.735,At that time?
+1967.53,1,34363,leon_douglas,,2469.735,2471.276,-- develop the facts or motions to quash --
+1967.53,1,15104,thurgood_marshall,scotus_justice,2471.276,2475.109,Would it have -- would've had breached those indictments?
+1967.53,1,34363,leon_douglas,,2476.439,2486.507,"I have not found a case particularly in point on that, but the statute sets out a motion to quash in exception to the indictment, a motion to change venue, and a separate hearing, separate statement of facts on appeal."
+1967.53,1,15104,thurgood_marshall,scotus_justice,2486.507,2494.601,"Well, my whole point was he made the point that he can object to the reading of the indictment and I was merely raising a question."
+1967.53,1,34363,leon_douglas,,2498.948,2507.592,"They were alleged the dates for forgery, the dates of the conviction, the place of the conviction, and the amount and the time they were alleged in the indictment."
+1967.53,1,15104,thurgood_marshall,scotus_justice,2507.592,2509.631,"But he didn't see them, did he?"
+1967.53,1,34363,leon_douglas,,2509.631,2512.244,I have in -- he -- there's nothing in the record that showed he asked for it.
+1967.53,1,15104,thurgood_marshall,scotus_justice,2517.687,2525.764,"Well, if you're going to say he waived something, we ought to be able to know whether he intelligently waived the objections of the reading of the indictment or not?"
+1967.53,1,34363,leon_douglas,,2525.764,2526.406,"Well, if there's no objection --"
+1967.53,1,15104,thurgood_marshall,scotus_justice,2526.406,2527.533,Would you think so?
+1967.53,1,34363,leon_douglas,,2527.533,2530.732,"If there's no objection in the record, I don't know."
+1967.53,1,15104,thurgood_marshall,scotus_justice,2530.732,2534.667,"Well, do you think there was a waiver?"
+1967.53,1,34363,leon_douglas,,2534.667,2540.94,"Not until this case -- the Spencer case, now there was objection in the Spencer case to the reading of it."
+1967.53,1,15089,hugo_l_black,scotus_justice,2545.387,2546.613,Was it read?
+1967.53,1,34363,leon_douglas,,2546.613,2547.652,Beg -- Yes.
+1967.53,1,15089,hugo_l_black,scotus_justice,2547.652,2548.958,Was it read?
+1967.53,1,34363,leon_douglas,,2548.958,2549.78,"It was read, Your Honor."
+1967.53,1,15089,hugo_l_black,scotus_justice,2549.78,2550.726,In open court?
+1967.53,1,34363,leon_douglas,,2550.726,2551.875,"In open court, yes, sir."
+1967.53,1,15089,hugo_l_black,scotus_justice,2551.875,2553.335,By the defendant's lawyer?
+1967.53,1,34363,leon_douglas,,2553.335,2555.724,"Yes, sir."
+1967.53,1,15089,hugo_l_black,scotus_justice,2555.724,2556.807,And how the jury was.
+1967.53,1,34363,leon_douglas,,2556.807,2558.401,"Yes, Your Honor."
+1967.53,1,15140,william_j_brennan_jr,scotus_justice,2564.398,2567.854,"Excuse me Mr. Douglas, may -- I just like to get your Texas procedure straight."
+1967.53,1,34363,leon_douglas,,2567.854,2568.209,"Yes, sir."
+1967.53,1,15140,william_j_brennan_jr,scotus_justice,2568.209,2579.738,"Do I understand that the recidivist cases in order to get an enhanced penalty, there must be established two other convictions?"
+1967.53,1,34363,leon_douglas,,2579.738,2580.952,For a life sentence case?
+1967.53,1,15140,william_j_brennan_jr,scotus_justice,2580.952,2581.656,For life sentence.
+1967.53,1,34363,leon_douglas,,2581.656,2582.277,"Yes, Your Honor."
+1967.53,1,15140,william_j_brennan_jr,scotus_justice,2582.277,2591.423,"Now, what actually happened here as I read this part is initially, 6711 of Tennessee was offered and the judge reserved."
+1967.53,1,34363,leon_douglas,,2593.357,2594.984,The Dallas County conviction.
+1967.53,1,15140,william_j_brennan_jr,scotus_justice,2594.984,2596.006,The Dallas County.
+1967.53,1,34363,leon_douglas,,2603.127,2603.978,Yes sir.
+1967.53,1,15140,william_j_brennan_jr,scotus_justice,2603.978,2616.967,"So that left the record at that point with just the 6711, which subsequently, as I read the record in the second version was finally admitted in evidence, actually received in evidence, is that right?"
+1967.53,1,34363,leon_douglas,,2616.967,2617.553,Yes sir.
+1967.53,1,15140,william_j_brennan_jr,scotus_justice,2617.553,2626.813,"Now, in that posture of the case, without any thinking more in the way of prior convictions, could there have been enhanced penalty?"
+1967.53,1,34363,leon_douglas,,2626.813,2628.629,"No, Your Honor, could not."
+1967.53,1,15140,william_j_brennan_jr,scotus_justice,2628.629,2631.497,"And the prosecutor offered nothing more thereafter, is that it?"
+1967.53,1,34363,leon_douglas,,2631.497,2632.413,That's right.
+1967.53,1,15140,william_j_brennan_jr,scotus_justice,2632.413,2634.659,"Whatever the reason may be, he offered nothing else."
+1967.53,1,34363,leon_douglas,,2651.468,2651.806,"Yes, sir."
+1967.53,1,15140,william_j_brennan_jr,scotus_justice,2651.806,2654.197,Is that what actually happened?
+1967.53,1,34363,leon_douglas,,2654.197,2661.873,"The Dallas County conviction was actually introduced and later withdrawn, the way I remember the record, Your Honor."
+1967.53,1,15140,william_j_brennan_jr,scotus_justice,2661.873,2662.419,"Oh, I see."
+1967.53,1,34363,leon_douglas,,2664.262,2664.801,"Yes, Your Honor --"
+1967.53,1,15140,william_j_brennan_jr,scotus_justice,2664.801,2664.854,"Oh, I see (Voice Overlap) --"
+1967.53,1,34363,leon_douglas,,2664.854,2668.067,"And later withdrawn when they got to the sentence, that's the way I remember the record."
+1967.53,1,15071,byron_r_white,scotus_justice,2668.067,2669.862,"Oh, I don't know."
+1967.53,1,15140,william_j_brennan_jr,scotus_justice,2669.862,2672.401,"I didn't read it that way, because I don't know this material."
+1967.53,1,34363,leon_douglas,,2689.726,2690.871,Yes sir.
+1967.53,1,15140,william_j_brennan_jr,scotus_justice,2690.871,2693.918,"-- as to which the prosecutor offered no proof, is that right?"
+1967.53,1,34363,leon_douglas,,2693.918,2694.26,That's right.
+1967.53,1,15140,william_j_brennan_jr,scotus_justice,2694.26,2705.502,But he had read when he read in the presence of a jury at the opening of the trial those provisions of the indictment which alleged this other Tennessee conviction.
+1967.53,1,34363,leon_douglas,,2705.502,2707.017,Yes sir.
+1967.53,1,15071,byron_r_white,scotus_justice,2707.017,2714.496,"Well, your brief says that the Court didn't admit the Texas conviction and so that's what records meant to show."
+1967.53,1,34363,leon_douglas,,2722.904,2736.41,"I think there was no objection to the first of the Dallas conviction and then somewhere in there, it was later -- at the time, it was withdrawn then and it came in first without objection and went further to the sentence and then it was withdrawn then."
+1967.53,1,15071,byron_r_white,scotus_justice,2736.41,2737.709,"What, Dallas, the Dallas County?"
+1967.53,1,34363,leon_douglas,,2737.709,2739.775,"Yes, Your Honor."
+1967.53,1,15140,william_j_brennan_jr,scotus_justice,2742.992,2744.557,That isn't what your brief says.
+1967.53,1,34363,leon_douglas,,2744.557,2748.507,I might have shortened it a little bit your Honor in a thumbnail of summary.
+1967.53,1,15099,earl_warren,scotus_justice,2749.215,2757.189,"Well, did the -- the judge found, did he not that the Texas conviction was an unconstitutional conviction?"
+1967.53,1,34363,leon_douglas,,2757.189,2758.446,"He said its void, yes Your Honor."
+1967.53,1,15099,earl_warren,scotus_justice,2758.446,2758.971,Beg your pardon?
+1967.53,1,34363,leon_douglas,,2758.971,2760.786,The trial court said it was void Your Honor.
+1967.53,1,15099,earl_warren,scotus_justice,2760.786,2761.87,Yes.
+1967.53,1,34363,leon_douglas,,2767.502,2770.864,"No, he instructed the jury not to consider."
+1967.53,1,15099,earl_warren,scotus_justice,2770.864,2788.262,"Well, isn't there a great difference between instructing them not to consider that charge from advising him that the conviction was void and should not be considered against the defendant under any circumstances?"
+1967.53,1,34363,leon_douglas,,2788.262,2792.504,It would probably be different but most of our judges don't give reasons.
+1967.53,1,15099,earl_warren,scotus_justice,2792.504,2792.986,Beg your pardon?
+1967.53,1,34363,leon_douglas,,2792.986,2798.949,"Most of our judges do not give reasons for making the ruling that they make, they don't say --"
+1967.53,1,15099,earl_warren,scotus_justice,2798.949,2805.447,"He never told the jury, I understand that it was void in his instructions to them."
+1967.53,1,34363,leon_douglas,,2805.447,2805.61,No.
+1967.53,1,15099,earl_warren,scotus_justice,2806.96,2814.543,"Yes, let it -- that would assumed that the -- that conviction stood but for some reason rather they shouldn't consider it."
+1967.53,1,34363,leon_douglas,,2814.543,2819.024,He said evidence to the effect of prior convictions in the reading of indictments before you.
+1967.53,1,15099,earl_warren,scotus_justice,2821.157,2822.635,"Yes, that's the way I --"
+1967.53,1,15140,william_j_brennan_jr,scotus_justice,2822.635,2824.186,"Well, is this the only one Mr. Douglas."
+1967.53,1,34363,leon_douglas,,2857.368,2858.767,"That's the charge, yes."
+1967.53,1,15140,william_j_brennan_jr,scotus_justice,2858.767,2864.303,"Oh, you are further instructed that the indictment read to you was not evidence and shall not be considered by your sentence."
+1967.53,1,34363,leon_douglas,,2864.303,2864.734,Yes sir.
+1967.53,1,15140,william_j_brennan_jr,scotus_justice,2864.734,2865.66,But that's the whole of it?
+1967.53,1,34363,leon_douglas,,2865.66,2867.095,Yes sir.
+1967.53,1,15140,william_j_brennan_jr,scotus_justice,2897.692,2899.067,In just capital cases?
+1967.53,1,34363,leon_douglas,,2899.067,2899.929,In all cases.
+1967.53,1,15140,william_j_brennan_jr,scotus_justice,2909.263,2910.901,So what happened here can't happen again or (Voice Overlap)?
+1967.53,1,34363,leon_douglas,,2910.901,2911.977,It cannot happen again.
+1967.53,1,15071,byron_r_white,scotus_justice,2969.227,2973.223,"What case did you cite a while ago as well as Spencer, was it Michelson or Mickelson or --?"
+1967.53,1,34363,leon_douglas,,2973.223,2974.93,"Michelson, M-I-C-H-E-L-S-O-N."
+1967.53,1,15071,byron_r_white,scotus_justice,2974.93,2976.732,Is that in your brief?
+1967.53,1,34363,leon_douglas,,2976.732,2979.274,"Your Honor, it is cited in the Spencer case and the --"
+1967.53,1,15071,byron_r_white,scotus_justice,2979.274,2981.12,"Oh, that's alright."
+1967.53,1,15099,earl_warren,scotus_justice,2984.645,2985.743,Mr. Gooch.
+1967.53,2,25381,gordon_gooch,,2985.743,2986.874,Thank you Mr. Chief Justice.
+1967.53,2,15140,william_j_brennan_jr,scotus_justice,3138.957,3155.749,"But Mr. Gooch, that's a different point really from the one that you're here on in this case, which is, as I understood you in light of the sentence here, there was prejudice and what happened about these other convictions, which entitles your man to a reversal of his -- of this conviction."
+1967.53,2,25381,gordon_gooch,,3155.749,3161.509,I believe that Mr. Burgett was prejudiced not only on the issue of punishment but also on the issue of guilt (Voice Overlap) --
+1967.53,2,15140,william_j_brennan_jr,scotus_justice,3161.509,3162.751,That's the (Voice Overlap) -- in this sentence --
+1967.53,2,25381,gordon_gooch,,3162.751,3163.516,Yes sir.
+1967.53,2,15140,william_j_brennan_jr,scotus_justice,3163.516,3168.036,"But I gather this new procedure could go only to the punishment phase, is it not?"
+1967.53,2,25381,gordon_gooch,,3168.036,3171.219,"That's true, sir, but he'd still be prejudiced when the jury gives (Voice Overlap) --"
+1967.53,2,15140,william_j_brennan_jr,scotus_justice,3171.219,3173.534,"Well, that's not -- that case isn't here."
+1967.53,2,25381,gordon_gooch,,3173.534,3174.041,But it --
+1967.53,2,15140,william_j_brennan_jr,scotus_justice,3174.041,3178.911,"You're here really on prejudice in the conviction itself, aren't you?"
+1967.53,2,25381,gordon_gooch,,3178.911,3181.041,And the punishment since the jury sets the punishment.
+1967.53,2,15140,william_j_brennan_jr,scotus_justice,3181.041,3187.422,It will be content if the result here where it would set aside for a new determination of punishment?
+1967.53,2,25381,gordon_gooch,,3187.422,3189.819,"If the Court please, I have to think about that."
+1967.53,2,15099,earl_warren,scotus_justice,3200.969,3202.587,Very well.

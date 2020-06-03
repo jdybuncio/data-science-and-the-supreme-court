@@ -1,0 +1,114 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1985.85-619,0,15073,warren_e_burger,scotus_justice,0.0,7.697,We Will hear arguments next in Merrell Dow Pharmaceuticals against Larry James Christopher Thompson.
+1985.85-619,0,24764,frank_c_woodside_iii,,77.601,89.909,"Mr. Chief Justice, and may it please the Court, in order to understand the pendent and federal question jurisdictional issues involved in this matter, it is first necessary to briefly understand the history of this litigation."
+1985.85-619,0,15071,byron_r_white,scotus_justice,411.486,428.319,"Why do we have to decide that if all the Court of Appeals held, as you have said, is that we do not need to decide anything about the fourth cause of action because of the first, because they could recover on a state cause of action?"
+1985.85-619,0,24764,frank_c_woodside_iii,,428.319,429.591,"Yes, sir, that--"
+1985.85-619,0,15071,byron_r_white,scotus_justice,429.591,436.577,Apparently you wouldn't be satisfied with our just reversing that holding.
+1985.85-619,0,24764,frank_c_woodside_iii,,436.577,438.888,"--Well, let me respond this way."
+1985.85-619,0,15071,byron_r_white,scotus_justice,465.364,467.054,"Well, suppose it isn't."
+1985.85-619,0,24764,frank_c_woodside_iii,,482.185,486.409,"--Your Honor, in all candor, I am not certain I understand the question."
+1985.85-619,0,15071,byron_r_white,scotus_justice,492.322,499.285,"Well, we would just tell the Court of Appeals it should have decided whether the fourth cause of action stated a federal question."
+1985.85-619,0,24764,frank_c_woodside_iii,,499.285,500.377,"--Oh, I understand."
+1985.85-619,0,15071,byron_r_white,scotus_justice,500.377,502.478,"Which it didn't decide, did it?"
+1985.85-619,0,24764,frank_c_woodside_iii,,502.478,503.98,"Well, we don't know for certain."
+1985.85-619,0,15071,byron_r_white,scotus_justice,534.389,536.42,I just don't understand that at all.
+1985.85-619,0,24764,frank_c_woodside_iii,,553.562,563.269,"--But you see, Your Honor, under the Franchise Tax Board decision, the court has to consider each of the individual claims for relief."
+1985.85-619,0,15071,byron_r_white,scotus_justice,563.269,564.809,I agree with you.
+1985.85-619,0,24764,frank_c_woodside_iii,,564.809,567.292,Maybe you and I agree.
+1985.85-619,0,15141,william_h_rehnquist,scotus_justice,638.216,639.588,Mr. Woodside.
+1985.85-619,0,24764,frank_c_woodside_iii,,639.588,640.059,"Yes, sir."
+1985.85-619,0,15141,william_h_rehnquist,scotus_justice,640.059,661.661,"It seems to me I can remember as long ago as I was in law school, which is a long time ago, reading a case involving some sort of a maritime collision, but it wasn't an admiralty case, it was a diversity case in a federal court, and the claim was that the operator of the boat hadn't steered the boat well, and also that it violated a Coast Guard standard."
+1985.85-619,0,24764,frank_c_woodside_iii,,685.558,687.36,"Absolutely not, Your Honor."
+1985.85-619,0,15141,william_h_rehnquist,scotus_justice,737.893,748.178,So federal question jurisdiction depends on whether the federal statute to which you refer in your negligence claim has a settled construction or an unsettled construction?
+1985.85-619,0,24764,frank_c_woodside_iii,,748.178,749.591,"Well, to some extent."
+1985.85-619,0,15060,john_paul_stevens,scotus_justice,803.434,806.669,May I interrupt you there for a moment?
+1985.85-619,0,24764,frank_c_woodside_iii,,810.911,836.446,"Absolutely not, but you see, in this particular situation, it is alleged that Merrell Dow Pharmaceuticals, Inc., violated the provisions of the Food, Drug, and Cosmetic Act, and as a result of those violations the company is presumed to be negligent, a rebuttable presumption, and that as a result of that violation, the plaintiffs have sustained damages."
+1985.85-619,0,15060,john_paul_stevens,scotus_justice,839.538,843.001,How is that different from the case Justice Rehnquist asked you about?
+1985.85-619,0,24764,frank_c_woodside_iii,,843.001,847.814,"--Oh, because in the case that he asked me about, the law is settled."
+1985.85-619,0,15060,john_paul_stevens,scotus_justice,890.582,895.625,"But even if you assume they do apply, where does that get you?"
+1985.85-619,0,24764,frank_c_woodside_iii,,906.243,911.936,"--Well, Your Honor, the problem is, you can't just presume it applies."
+1985.85-619,0,15060,john_paul_stevens,scotus_justice,964.201,966.271,It is not liable for violation of the statute.
+1985.85-619,0,24764,frank_c_woodside_iii,,969.493,970.304,Your Honor--
+1985.85-619,0,15060,john_paul_stevens,scotus_justice,970.304,974.756,I thought you agreed a moment ago there is no private cause of action for a violation of the federal statute.
+1985.85-619,0,24764,frank_c_woodside_iii,,974.756,975.908,--That is absolutely correct.
+1985.85-619,0,15060,john_paul_stevens,scotus_justice,1023.088,1030.783,"Yes, but if they prove a violation of the Act and they fail to prove negligence, they cannot recover unless there is a cause of action under the Act, can they?"
+1985.85-619,0,24764,frank_c_woodside_iii,,1030.783,1032.215,"--No, sir, I don't believe that that's--"
+1985.85-619,0,15060,john_paul_stevens,scotus_justice,1032.215,1035.317,You concede they can recover for a violation of the statute--
+1985.85-619,0,24764,frank_c_woodside_iii,,1035.317,1035.748,--No.
+1985.85-619,0,15060,john_paul_stevens,scotus_justice,1035.748,1037.077,--without proving negligence?
+1985.85-619,0,24764,frank_c_woodside_iii,,1037.077,1038.529,"No, but let me tell you why."
+1985.85-619,0,15060,john_paul_stevens,scotus_justice,1097.708,1111.927,"Why would this be any different than if you had a Canadian railroad or something like that, and they said you have violated the Federal Safety Appliance Act, and we allege the federal statute applies in Canada, and that is a federal question, and as a result of that violation we are going to recover for negligence?"
+1985.85-619,0,24764,frank_c_woodside_iii,,1113.319,1127.418,"--It might not be, but let me go back and respond to the first part of your question, that first, where there would be the federal question would be, is the Canadian railroad subject to the FELA Act."
+1985.85-619,0,15141,william_h_rehnquist,scotus_justice,1146.067,1154.234,"Mr. Woodside, is your answer to Justice Stevens hypothetical about the Canadian railroad that there is or is not federal question jurisdiction?"
+1985.85-619,0,24764,frank_c_woodside_iii,,1154.234,1158.476,--It depends on whether the railroad was operating in the United States.
+1985.85-619,0,15141,william_h_rehnquist,scotus_justice,1160.767,1169.423,"No, he says the railroad was operating in Canada, and it is pleaded that the federal law applies in this particular situation in Canada, as I understood it."
+1985.85-619,0,24764,frank_c_woodside_iii,,1169.423,1188.717,"--If that were the situation, I would say there is also a federal question created there because in order for the plaintiffs in that case to recover they would have to demonstrate that the FELA or whatever the federal statutes would be would be applicable to a Canadian railroad doing things in Canada."
+1985.85-619,0,15141,william_h_rehnquist,scotus_justice,1191.869,1208.479,"In my example earlier about the boating accident, I suppose if it was pleaded that the coast guard regulation applies even though it is doubtful whether these waters are navigable, if one can conceive of a pleading like that, that that would make it a federal question jurisdiction."
+1985.85-619,0,24764,frank_c_woodside_iii,,1208.479,1210.512,Your Honor--
+1985.85-619,0,15141,william_h_rehnquist,scotus_justice,1210.512,1214.574,"You are turning the whole thing just into a case by case analysis, it seems to me."
+1985.85-619,0,24764,frank_c_woodside_iii,,1214.574,1220.207,"--Well, to some extent I am, but the point I want to make is, it is a small number of cases."
+1985.85-619,0,15092,sandra_day_oconnor,scotus_justice,1253.559,1270.84,"Well, Mr. Woodside, if it doesn't happen very often, then isn't that a good reason to steer away from saying it is a federal question under the assumption that we could resolve a serious federal question by way of certiorari review from the state court?"
+1985.85-619,0,24764,frank_c_woodside_iii,,1270.84,1278.604,"In point of fact, Justice, that is probably a good point, except for one thing."
+1985.85-619,0,15141,william_h_rehnquist,scotus_justice,1317.681,1325.715,"But it is also true you may have 50 different state decisions, and in this country you have probably 12 different circuit decisions."
+1985.85-619,0,24764,frank_c_woodside_iii,,1330.039,1358.008,"Your Honor, that is quite correct, but in point of fact we are now before this Court, and it seems to me that this is now the time to rectify the situation and determined that based upon the Franchise Tax Board, that we have a situation where there is in fact a significant federal question involved, and there is in this circumstance federal jurisdiction, because when that happens, then the cases, the forum non conveniens decision of the trial court will be upheld, and the cases will be transferred back to either Canada or Scotland."
+1985.85-619,0,15092,sandra_day_oconnor,scotus_justice,1358.008,1380.091,"Mr. Woodside, how do you reconcile the different approaches, or can you, taken by this Court in the Moore decision and in the Smith decision and the language subsequently in Franchise Tax Board?"
+1985.85-619,0,24764,frank_c_woodside_iii,,1383.704,1385.784,"I believe there is, Justice O'Connor."
+1985.85-619,0,15092,sandra_day_oconnor,scotus_justice,1482.337,1490.184,"Well, you put a great deal of load bearing weight on the word ""substantial"" in your argument."
+1985.85-619,0,24764,frank_c_woodside_iii,,1490.184,1490.655,"Yes, ma'am."
+1985.85-619,0,15092,sandra_day_oconnor,scotus_justice,1490.655,1499.939,"And as Justice Rehnquist says, that would require a case by case review just to answer that question."
+1985.85-619,0,24764,frank_c_woodside_iii,,1505.124,1512.628,"There are a number of cases, some from this Court, dealing with what the definition of substantial is."
+1985.85-619,0,15073,warren_e_burger,scotus_justice,1561.5,1569.906,Mr. Chesley.
+1985.85-619,1,41160,stanley_m_chesley,,1569.906,1581.323,"Mr. Chief Justice, and may it please the Court, I believe that Justices Rehnquist and Powell have put the finger on the issue."
+1985.85-619,1,15045,harry_a_blackmun,scotus_justice,1660.615,1663.997,"And all those cases, have they gone to judgment?"
+1985.85-619,1,41160,stanley_m_chesley,,1663.997,1666.058,"No, Your Honor, they have not."
+1985.85-619,1,15045,harry_a_blackmun,scotus_justice,1680.998,1683.569,But they had gone to a verdict for the defendant.
+1985.85-619,1,41160,stanley_m_chesley,,1683.569,1686.912,--They had gone... but he said these are exempted from the verdict.
+1985.85-619,1,15045,harry_a_blackmun,scotus_justice,1693.497,1696.018,"Kind of a lucky strike, isn't it?"
+1985.85-619,1,41160,stanley_m_chesley,,1696.018,1696.699,Very lucky.
+1985.85-619,1,15071,byron_r_white,scotus_justice,2039.703,2061.106,"If there is no private cause of action in this case for misbranding, which I guess both sides agree that there is not, may a plaintiff nevertheless just go into a state court and sue for misbranding?"
+1985.85-619,1,41160,stanley_m_chesley,,2061.106,2075.087,"What would happen, Your Honor, the only place they could sue for misbranding as a practical consideration would be in the state of Ohio, because they would remove the person."
+1985.85-619,1,15071,byron_r_white,scotus_justice,2075.087,2083.111,"There is no private cause of action, and if it were brought in a federal court, there just wouldn't be any private cause of action."
+1985.85-619,1,41160,stanley_m_chesley,,2084.052,2087.713,"I am sorry, Justice White."
+1985.85-619,1,15071,byron_r_white,scotus_justice,2088.344,2093.988,"Well, what does it mean that there is no private cause of action for violation of this misbranding provision?"
+1985.85-619,1,41160,stanley_m_chesley,,2093.988,2109.869,"--What it means, as I understand it, is that an individual plaintiff cannot address that... does not have a right, a private right of litigation based upon a violation of that statute."
+1985.85-619,1,15071,byron_r_white,scotus_justice,2109.869,2121.867,"So if he goes into state court and says, the defendant has violated this federal statute, this misbranding provision, and I want relief, he will get dismissed in the state court."
+1985.85-619,1,41160,stanley_m_chesley,,2121.867,2124.167,"Well, he may use it as a piece of evidence."
+1985.85-619,1,15071,byron_r_white,scotus_justice,2124.167,2125.739,"No, that is all he says."
+1985.85-619,1,41160,stanley_m_chesley,,2125.739,2127.37,"I believe that he would, Your Honor, under the--"
+1985.85-619,1,15071,byron_r_white,scotus_justice,2127.37,2128.682,He would be dismissed.
+1985.85-619,1,41160,stanley_m_chesley,,2128.682,2134.215,"--I believe if that is the only thing you have, that I am here because they violated, you are not protected."
+1985.85-619,1,15071,byron_r_white,scotus_justice,2145.723,2152.676,"Yes, which... you would have a right under state law to sue for negligence."
+1985.85-619,1,41160,stanley_m_chesley,,2152.676,2173.64,"Yes, Your Honor, and the question is, was it the negligence of the misbranding that was the proximate cause, and in using this evidence, your experts or whatever, you could utilize as a standard of conduct the misbranding statute under 302 et sec of the--"
+1985.85-619,1,15071,byron_r_white,scotus_justice,2173.64,2192.934,"Well, suppose in the state cause of action for negligence based on this misbranding, it becomes clear that the misbranding that is claimed has been held by a federal court in an action by the Food and Drug Administration that this is not misbranding at all."
+1985.85-619,1,41160,stanley_m_chesley,,2203.241,2221.342,"--If I understand your question, yes, there is a construction of the federal statute which is part of the evidence mechanism, but as I can give a real true analogy, a case cited by the plaintiff... pardon me, by the defendants is a case that we had, which is the best example of what happens relative to private right."
+1985.85-619,1,15073,warren_e_burger,scotus_justice,2302.275,2305.638,"Do you have anything further, Mr. Woodside?"
+1985.85-619,2,24764,frank_c_woodside_iii,,2305.638,2313.853,I have only one or two brief remarks.
+1985.85-619,2,15060,john_paul_stevens,scotus_justice,2416.062,2431.48,"Mr. Woodside, would your Bell v. Hood argument go so far as to say every time a plaintiff alleges that there is a private cause of action on some federal statute, even though it was pretty clear there was not, that there nevertheless would be jurisdiction to decide whether or not that was a good plan?"
+1985.85-619,2,24764,frank_c_woodside_iii,,2439.417,2450.433,"I believe the situation is that if that allegation is made, the Court then has jurisdiction to determine that there is in fact no cause of action stated."
+1985.85-619,2,15060,john_paul_stevens,scotus_justice,2451.685,2460.2,"So you could always defeat removal by... I mean, as long as that kind of allegation is in the complaint, a plaintiff could always sustain federal jurisdiction."
+1985.85-619,2,24764,frank_c_woodside_iii,,2460.2,2463.363,"Well, let's look at it the other way around."
+1985.85-619,2,15060,john_paul_stevens,scotus_justice,2465.183,2468.686,If the plaintiff is foolish enough to have such an allegation in the complaint.
+1985.85-619,2,24764,frank_c_woodside_iii,,2468.686,2469.277,"Yes, sir."
+1985.85-619,2,15060,john_paul_stevens,scotus_justice,2469.277,2470.185,Yes.
+1985.85-619,2,24764,frank_c_woodside_iii,,2470.185,2475.411,So I think that is another reason why there is in fact federal jurisdiction here.
+1985.85-619,2,15071,byron_r_white,scotus_justice,2475.411,2484.584,"Even though if the suit had been brought in the federal court here, the federal court would have dismissed it on what ground?"
+1985.85-619,2,24764,frank_c_woodside_iii,,2484.584,2488.047,"Forum non conveniens, as it did many before and several since."
+1985.85-619,2,15071,byron_r_white,scotus_justice,2488.047,2490.851,"Well, forget forum non conveniens for a moment."
+1985.85-619,2,24764,frank_c_woodside_iii,,2497.074,2497.474,"Yes, sir."
+1985.85-619,2,15071,byron_r_white,scotus_justice,2497.474,2499.244,--because there is no private cause of action.
+1985.85-619,2,24764,frank_c_woodside_iii,,2499.244,2499.855,"Yes, sir."
+1985.85-619,2,15071,byron_r_white,scotus_justice,2499.855,2501.568,But not because there isn't jurisdiction.
+1985.85-619,2,24764,frank_c_woodside_iii,,2501.568,2506.951,"Well, it would depend upon what all the allegations of the complaint were."
+1985.85-619,2,15071,byron_r_white,scotus_justice,2506.951,2514.164,"Well, that is the only allegation there is, that there was misbranding, and I want relief."
+1985.85-619,2,24764,frank_c_woodside_iii,,2514.164,2523.389,"If that were the only allegation in the complaint, what in fact would happen would be, a motion to dismiss for failure to state a cause of action would be granted and the entire case would be dismissed."
+1985.85-619,2,15071,byron_r_white,scotus_justice,2523.389,2527.844,And the reason is because there is no private cause of action.
+1985.85-619,2,24764,frank_c_woodside_iii,,2527.844,2529.985,"Correct, and the court always--"
+1985.85-619,2,15071,byron_r_white,scotus_justice,2529.985,2531.995,"That is not a jurisdictional ruling, you say."
+1985.85-619,2,24764,frank_c_woodside_iii,,2531.995,2535.348,--The Court always has jurisdiction to determine whether or not--
+1985.85-619,2,15071,byron_r_white,scotus_justice,2535.348,2535.578,Yes.
+1985.85-619,2,24764,frank_c_woodside_iii,,2535.578,2536.57,--there is a cause of action stated.
+1985.85-619,2,15071,byron_r_white,scotus_justice,2536.57,2537.351,Yes.
+1985.85-619,2,24764,frank_c_woodside_iii,,2537.351,2543.803,"And so the Court would have jurisdiction to say, there is no private cause of action, therefore the lawsuit is dismissed."
+1985.85-619,2,15071,byron_r_white,scotus_justice,2543.803,2558.403,But you say that this case should not be remanded to the state court because even though there is no private cause of action there was jurisdiction to entertain this suit on removal.
+1985.85-619,2,24764,frank_c_woodside_iii,,2558.403,2561.718,Correct.
+1985.85-619,2,15073,warren_e_burger,scotus_justice,2614.111,2614.792,"Thank you, gentlemen."

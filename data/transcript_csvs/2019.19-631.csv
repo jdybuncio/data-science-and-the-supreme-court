@@ -1,0 +1,188 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2019.19-631,0,15086,john_g_roberts_jr,scotus_justice,0.0,15.6,"We'll hear argument next in Case 19-631, William Barr, Attorney General versus the American Association of Political Consultants. Before we get started, I would like to remind everyone to turn their cell phones off. Mr. Stewart."
+2019.19-631,0,36722,malcolm_l_stewart,,15.6,26.36,"Thank you, Mr. Chief Justice, and may it please the Court: In 1991, Congress enacted the TCPA's basic restriction on the placement of automated calls to cell phones."
+2019.19-631,0,15086,john_g_roberts_jr,scotus_justice,151.68,152.12,"Mr. Stewart, your --"
+2019.19-631,0,36722,malcolm_l_stewart,,152.12,152.84,So that --
+2019.19-631,0,15086,john_g_roberts_jr,scotus_justice,152.84,177.92,"-- your -- one of your basic points to avoid strict scrutiny under the First Amendment is that you're not really looking at the content of the communication in this case, but, rather, it's more properly viewed as part of an economic relationship. I don't see how that gets you out of the content category."
+2019.19-631,0,36722,malcolm_l_stewart,,193.08,197.28,"Well, I think that as -- let me -- let me address Reed first and foremost."
+2019.19-631,0,15086,john_g_roberts_jr,scotus_justice,279.72,280.84,"Counsel, I'd like --"
+2019.19-631,0,36722,malcolm_l_stewart,,280.84,281.92,The fact that they're here --
+2019.19-631,0,15086,john_g_roberts_jr,scotus_justice,281.92,285.84,-- I'd like to jump ahead a little bit and get to the severance question.
+2019.19-631,0,36722,malcolm_l_stewart,,313.48,330.8,"I guess the two things I would say are, first, it's important to look at the temporal sequence that produced the current state of affairs; that is, the basic restriction was enacted in 1991 and the government-debt exception was enacted in a separate public law in 2015."
+2019.19-631,0,15086,john_g_roberts_jr,scotus_justice,331.12,332.48,Okay.
+2019.19-631,0,36722,malcolm_l_stewart,,334.72,343.2,"The second point is that the ultimate question of severability is one of congressional intent, what result would Congress have preferred."
+2019.19-631,0,15086,john_g_roberts_jr,scotus_justice,365.72,366.04,Thank you --
+2019.19-631,0,36722,malcolm_l_stewart,,366.04,367.56,-- would clearly have --
+2019.19-631,0,15086,john_g_roberts_jr,scotus_justice,367.56,369.64,"-- thank you, counsel. Justice Thomas?"
+2019.19-631,0,15100,clarence_thomas,scotus_justice,369.64,383.08,"Thank you, Chief Justice. Mr. Stewart, it would seem a bit odd, as you suggest, that we sever the exception, but, here, it doesn't seem -- this remedy doesn't seem to give anything to Respondent."
+2019.19-631,0,36722,malcolm_l_stewart,,394.96,421.08,"I mean, that -- that may be true, but the Court's task in determining the appropriate remedy is to kind of follow established principles of severability, to look to indicia of Congress's likely intent. And if the result is that the plaintiff at the end of the day doesn't get the practical result that it was looking for, that's not a reason to kind of re-jigger the constitution -- the severability analysis."
+2019.19-631,0,15100,clarence_thomas,scotus_justice,466.68,496.76,"Well, I'd like to shift gears and -- and focus, just ask the question about your strict scrutiny analysis. You seem to focus on the interest that the individual has in privacy of the cell phone. But it would seem to me that that privacy interest is actually not nearly as great as you would -- as a person would have in the landline phone at home or in even someone knocking on their front door."
+2019.19-631,0,36722,malcolm_l_stewart,,496.76,521.04,"Well, I think it -- it -- at the time that the statute was enacted, cell phones were obviously a lot less prevalent. They may have been used on -- on rare occasions, and -- and most people didn't own them. I think now cell phones are, as we explained in the reply brief, are ubiquitous. They are an integral part of daily life for most individuals."
+2019.19-631,0,15086,john_g_roberts_jr,scotus_justice,569.52,576.72,"Thank you, counsel. Justice Ginsburg?"
+2019.19-631,0,15084,ruth_bader_ginsburg,scotus_justice,576.72,583.4,"Counsel, I don't see how you can escape a content-based distinction."
+2019.19-631,0,36722,malcolm_l_stewart,,616.6,630.6,"I think, as -- as we've said in our briefs, it -- it is true that often a court in determining whether the government-debt exception applied would look in part to the content of the call. But you wouldn't be looking exclusively to the content of the call."
+2019.19-631,0,15084,ruth_bader_ginsburg,scotus_justice,690.96,708.6,"Switching to the severance, we're told that if we strike only the government-debt exemption, that will leave the political groups with no incentive at all to assert their First Amendment claim."
+2019.19-631,0,36722,malcolm_l_stewart,,725.92,729.6,"Well, a couple of responses to that."
+2019.19-631,0,15086,john_g_roberts_jr,scotus_justice,757.52,759.24,Counsel. Justice -- Justice Breyer?
+2019.19-631,0,15139,stephen_g_breyer,scotus_justice,759.24,781.24,"Well, what your last statement, and Justice Ginsburg leads me to ask a somewhat philosophical question, which you need not answer if you don't want to, but my question is, what is content discrimination? All human life is carried on through speech."
+2019.19-631,0,36722,malcolm_l_stewart,,824.28,854.84,"I don't think we have any succinct test that would capture all cases, but I would point the Court or remind the Court of certain guideposts that it set up. One is, if you can tell exclusively from the content of a message whether a particular law applies, then that's very likely or almost certain to be content-based. The second is, as I was referring to earlier, the Court in Reed referred to content-based laws as those that target space -- speech based on its communicative content."
+2019.19-631,0,15139,stephen_g_breyer,scotus_justice,908.36,910.36,Thank you.
+2019.19-631,0,15086,john_g_roberts_jr,scotus_justice,911.68,914.48,Justice Alito?
+2019.19-631,0,15068,samuel_a_alito_jr,scotus_justice,914.48,920.68,"Mr. Stewart, the so-called severability issue in this case is really fascinating."
+2019.19-631,0,36722,malcolm_l_stewart,,956.76,973.12,"I don't think either side has a precedent that was specifically in the First Amendment area, where the Court discussed whether severability principles should apply and, if so, how do they apply. I think our best precedents are cases like Morales-Santana and Ross."
+2019.19-631,0,15068,samuel_a_alito_jr,scotus_justice,1004.28,1004.56,"Well, what's your --"
+2019.19-631,0,36722,malcolm_l_stewart,,1004.56,1005.8,"-- obviously, the --"
+2019.19-631,0,15068,samuel_a_alito_jr,scotus_justice,1005.8,1015.04,"-- what is your response to this counterargument? In an equal protection case, what the complaining party is objecting to is unequal treatment."
+2019.19-631,0,36722,malcolm_l_stewart,,1045.04,1051.92,"I think, with respect, that -- that conflates what the complaining party wants with what is it -- with what it is entitled to."
+2019.19-631,0,15086,john_g_roberts_jr,scotus_justice,1102.88,1106.08,"Thank you, counsel. Justice Sotomayor?"
+2019.19-631,0,15131,sonia_sotomayor,scotus_justice,1106.08,1124.32,"Counsel, the -- the difficulty in my mind with this case has been just touched upon by Justice Alito. Assume that I do think -- or assume not that I think -- but assume that this law is content-based."
+2019.19-631,0,36722,malcolm_l_stewart,,1223.36,1227.72,Let me say two or three things about this.
+2019.19-631,0,15086,john_g_roberts_jr,scotus_justice,1322.88,1324.08,"Thank you, counsel. Justice Kagan?"
+2019.19-631,0,15094,elena_kagan,scotus_justice,1324.08,1325.88,"Good afternoon, Mr. Stewart."
+2019.19-631,0,36722,malcolm_l_stewart,,1357.4,1402.96,"Well, let me preface my answer by -- by pointing to a hypothetical that's noted in the Respondents' brief that we think is a good illustration of when it would be appropriate to focus on an exception. At page 22, Respondents hypothesize a statute that has a categorical ban on all automated calls except for automated calls to a residential landline that endorse the re-election of Donald Trump and that are approved by the Trump campaign. Now we think an exception like that for calls made to endorse a single political candidate would surely violate the First Amendment."
+2019.19-631,0,15094,elena_kagan,scotus_justice,1427.28,1429.2,So is this statute --
+2019.19-631,0,36722,malcolm_l_stewart,,1429.2,1431.16,And in that circumstance --
+2019.19-631,0,15094,elena_kagan,scotus_justice,1431.16,1433.12,-- is this statute like that statute?
+2019.19-631,0,36722,malcolm_l_stewart,,1433.12,1435.64,I don't think it's like that statute.
+2019.19-631,0,15094,elena_kagan,scotus_justice,1438.36,1445.36,"I mean, it's obviously not in the sense that it's not -- the -- the -- the exemption is not viewpoint-based to the extent that that statute is."
+2019.19-631,0,36722,malcolm_l_stewart,,1455.76,1467.96,"I mean, I think, at the very -- at the very most, you would treat the exemption in the same way that you would treat it if a restriction were imposed based on the same criteria."
+2019.19-631,0,15086,john_g_roberts_jr,scotus_justice,1525.72,1528.16,"Thank you, counsel. Justice Gorsuch?"
+2019.19-631,0,62836,neil_gorsuch,scotus_justice,1528.16,1529.68,"Good morning, counsel."
+2019.19-631,0,36722,malcolm_l_stewart,,1608.84,1619.08,"I mean, I think that you could do it that way and the court of appeals could have done it that way."
+2019.19-631,0,62836,neil_gorsuch,scotus_justice,1693.16,1728.72,"Let me come at it from yet another angle, and that's the separation of powers. The government's remedy proposed here is essentially that we should suppose or -- or reimagine that Congress would have preferred a regime in which more speech is suppressed than one in which less is suppressed. On -- on what authority do we have the right to make that kind of judgment as opposed to simply enforcing the First Amendment, finding a violation, and -- and -- and liberating the speech that's -- that's been wrongly suppressed?"
+2019.19-631,0,36722,malcolm_l_stewart,,1728.72,1731.84,Let me say two or three different things about that.
+2019.19-631,0,62836,neil_gorsuch,scotus_justice,1758.48,1759.32,If I might --
+2019.19-631,0,36722,malcolm_l_stewart,,1759.32,1759.84,-- individuals might --
+2019.19-631,0,62836,neil_gorsuch,scotus_justice,1759.84,1783.04,"-- stop you -- if I might stop you there, I'm sorry, but I -- I -- the equal protection analogy, suppose that doesn't work for me because equal protection is -- is a guarantee of equality, not of a -- of a substance, so you can level up or level down and satisfy equal protection. But the First Amendment is about a guarantee of speech, so it has content in a different way."
+2019.19-631,0,36722,malcolm_l_stewart,,1784.72,1785.0,Let me say that --
+2019.19-631,0,62836,neil_gorsuch,scotus_justice,1785.0,1786.24,Then what do you have?
+2019.19-631,0,36722,malcolm_l_stewart,,1786.24,1799.72,-- let me say I think what we have is the temporal sequence here where we had one public law in 1991 that enacted the basic autodial restriction and then a second public law that was enacted in 2015.
+2019.19-631,0,15086,john_g_roberts_jr,scotus_justice,1809.48,1810.88,"Thank you, counsel."
+2019.19-631,0,17766,brett_m_kavanaugh,scotus_justice,1813.4,1818.4,"Thank you, Mr. Chief Justice. Good afternoon, Mr. Stewart."
+2019.19-631,0,36722,malcolm_l_stewart,,1830.72,1832.28,That's correct.
+2019.19-631,0,17766,brett_m_kavanaugh,scotus_justice,1834.84,1834.88,Yes.
+2019.19-631,0,36722,malcolm_l_stewart,,1834.88,1837.32,-- strict scrutiny but not the content-based exception.
+2019.19-631,0,17766,brett_m_kavanaugh,scotus_justice,1837.32,1837.68,Okay.
+2019.19-631,0,36722,malcolm_l_stewart,,1859.12,1866.2,I think the -- the two strongest points -- and I'll link the second to Communications Act severability clause.
+2019.19-631,0,17766,brett_m_kavanaugh,scotus_justice,1904.36,1905.0,So a key --
+2019.19-631,0,36722,malcolm_l_stewart,,1905.0,1907.4,-- there is a severability --
+2019.19-631,0,17766,brett_m_kavanaugh,scotus_justice,1907.4,1909.24,Go ahead.
+2019.19-631,0,36722,malcolm_l_stewart,,1909.24,1928.44,"I was going to say, there is a severability clause that says if any provision of the Communications Act, of which the TCPA is -- is a part, is held to be invalid, the remedy won't extend beyond striking down that provision. And for purposes of determining which is the invalid provision, I'd refer back to my point about temporal sequence."
+2019.19-631,0,17766,brett_m_kavanaugh,scotus_justice,1932.36,1947.2,"So a key point I think you just underscored there is that the premise of your severability argument, a essential premise, is that the underlying ban is thoroughly constitutional."
+2019.19-631,0,36722,malcolm_l_stewart,,1947.2,1951.76,Or at least that the underlying ban was constitutional before 2015.
+2019.19-631,0,17766,brett_m_kavanaugh,scotus_justice,1951.76,1954.0,"Yeah, that's -- without the exception."
+2019.19-631,0,36722,malcolm_l_stewart,,1959.96,1961.04,Yes.
+2019.19-631,0,17766,brett_m_kavanaugh,scotus_justice,1961.04,1963.68,Okay.
+2019.19-631,0,36722,malcolm_l_stewart,,1988.4,1990.0,"I mean, I think --"
+2019.19-631,0,17766,brett_m_kavanaugh,scotus_justice,1990.0,1992.72,-- of what Congress would have intended?
+2019.19-631,0,36722,malcolm_l_stewart,,1992.72,2000.12,-- I -- I think certainly this was not unnoticed legislation. It's not legislation that fixed a technical problem.
+2019.19-631,0,15086,john_g_roberts_jr,scotus_justice,2021.64,2022.84,"Thank you, counsel."
+2019.19-631,0,36722,malcolm_l_stewart,,2024.84,2026.08,Thank you.
+2019.19-631,0,15086,john_g_roberts_jr,scotus_justice,2063.56,2068.36,"Thank you, counsel. Mr. Martinez."
+2019.19-631,1,56052,roman_martinez,,2068.36,2079.64,"Mr. Chief Justice, and may it please the Court: My clients are political organizations that want to engage in political speech at the core of the First Amendment."
+2019.19-631,1,15086,john_g_roberts_jr,scotus_justice,2201.36,2225.92,"Mr. Martinez, I'd like you to focus on the argument based on our decision in Williams-Yulee, which is that when Congress takes steps that help cure a constitutional problem, they don't have to do everything at once. You object to the fact that some speech is allowed, but the -- the allowance doesn't reach more broadly."
+2019.19-631,1,56052,roman_martinez,,2248.8,2251.56,"Right, Your Honor."
+2019.19-631,1,15086,john_g_roberts_jr,scotus_justice,2325.96,2326.36,Your --
+2019.19-631,1,56052,roman_martinez,,2326.36,2326.88,And I think that was debate --
+2019.19-631,1,15086,john_g_roberts_jr,scotus_justice,2326.88,2348.64,"-- your -- your friend on the other side on the severance question makes a very strong point, that Congress had this law for 25 years and then they added this, you know, pretty discrete exception that created the problem we have today. It seems pretty obvious that the way they would solve it is get rid of this exception."
+2019.19-631,1,56052,roman_martinez,,2369.72,2372.0,"Well -- well, two -- two points on that, Your Honor."
+2019.19-631,1,15086,john_g_roberts_jr,scotus_justice,2404.2,2405.4,Thank you --
+2019.19-631,1,56052,roman_martinez,,2405.4,2406.68,But even as to the intent --
+2019.19-631,1,15086,john_g_roberts_jr,scotus_justice,2406.68,2410.36,-- counsel. Justice Thomas?
+2019.19-631,1,15100,clarence_thomas,scotus_justice,2410.36,2413.64,"Thank you, Mr. Martinez."
+2019.19-631,1,56052,roman_martinez,,2458.72,2459.32,Right.
+2019.19-631,1,15100,clarence_thomas,scotus_justice,2468.76,2469.16,Yes.
+2019.19-631,1,56052,roman_martinez,,2469.16,2492.8,"And it defines the scope of the restriction and therefore triggers strict scrutiny. But, number two, and more importantly for purposes of our constitutional theory, what the exception does is it reveals the underlying frailty, the underlying insufficiency of the justification for the restriction. And why does it do that? It does it because you have Congress saying because we want to get more money, we are willing to trade off privacy for revenue."
+2019.19-631,1,15100,clarence_thomas,scotus_justice,2498.44,2499.08,So what --
+2019.19-631,1,56052,roman_martinez,,2499.08,2499.68,And I think --
+2019.19-631,1,15100,clarence_thomas,scotus_justice,2499.68,2504.28,-- would your argument be if the exception did not exist?
+2019.19-631,1,56052,roman_martinez,,2504.28,2519.16,"If the exception did not exist and we were looking at the law today, I think -- I think our argument would be weaker, but I think we would still be able to show that the restriction would be unjustified. And I think the --"
+2019.19-631,1,15100,clarence_thomas,scotus_justice,2519.16,2520.0,But what would the --
+2019.19-631,1,56052,roman_martinez,,2520.0,2521.0,-- main thing we would --
+2019.19-631,1,15100,clarence_thomas,scotus_justice,2521.0,2523.4,"-- content-based -- I mean, what would the analysis be?"
+2019.19-631,1,56052,roman_martinez,,2523.4,2558.48,"The -- the analysis, it would -- the statute would no longer be content-based, so we'd be applying intermediate scrutiny, but I think in the context of applying intermediate scrutiny, we would look at the fact that calls to residential phones, where -- you know, call -- calls to the home, where privacy matters the most, these same types of political and non-commercial calls that my client wants to make are perfectly allowed. And so Congress and the FCC have made a judgment -- and this is clear if you look at the -- the 1992 order from the FCC."
+2019.19-631,1,15086,john_g_roberts_jr,scotus_justice,2610.36,2615.12,"Thank you, counsel. Justice Ginsburg?"
+2019.19-631,1,15084,ruth_bader_ginsburg,scotus_justice,2615.12,2619.32,Your challenge is predicated on the government-debt exemption.
+2019.19-631,1,56052,roman_martinez,,2637.88,2647.2,"It's true that the definition of -- of person, or at least as interpreted by the FCC, is that the -- the statute does not apply to -- to the government itself."
+2019.19-631,1,15084,ruth_bader_ginsburg,scotus_justice,2647.2,2651.24,And -- and no one challenged that exemption for 20-odd years.
+2019.19-631,1,56052,roman_martinez,,2678.12,2715.04,"Well -- well, Your -- Your Honor, with respect, I do think it's -- it's fair to say that this is a restriction on a certain manner of making calls, but the types of calls that are either made legal or illegal -- you know, the dividing line between what's allowed and what's not allowed turns on the content of the calls. I think that if -- if -- if you were facing a statute that said, you know, for example, you are not allowed to advocate for Libertarians using email or using phone calls or using handbills, all of those would be manner restrictions, but I think that -- that we would all recognize that those are content-based restrictions that would trigger strict scrutiny and -- and would inevitably fail."
+2019.19-631,1,15084,ruth_bader_ginsburg,scotus_justice,2715.04,2729.36,"On your severability, we know that what Congress wanted to stop were out-of-the-blue calls, calls that you had no reason to anticipate."
+2019.19-631,1,56052,roman_martinez,,2748.32,2756.04,"I -- Your Honor, I -- with respect, I don't think that that's the original justification for -- for this particular provision."
+2019.19-631,1,15086,john_g_roberts_jr,scotus_justice,2824.04,2824.72,Thank you --
+2019.19-631,1,56052,roman_martinez,,2824.72,2825.24,-- then there's no reason --
+2019.19-631,1,15086,john_g_roberts_jr,scotus_justice,2825.24,2841.44,-- counsel. Justice -- Justice Breyer? Justice Breyer? (No response.)
+2019.19-631,1,15086,john_g_roberts_jr,scotus_justice,2841.44,2842.52,Justice Alito?
+2019.19-631,1,15068,samuel_a_alito_jr,scotus_justice,2842.52,2914.76,"Mr. Martinez, I'm interested in your analysis of the severability question, and I wonder if you could say whether your position depends on either the breadth of an exception or exceptions or the manifestation of congressional intent. So let me give you an example, a fanciful example that tries to reduce both of those things perhaps to their lowest limit. Suppose there was a total ban on automated calls to cell phones or to all phones, but there was one tiny exception for, let's say, calls between noon and 1 p.m. on the 4th of July that contained this simple message: Happy Birthday, America. And let's say that the statute allowing this contains a provision that says that if the inclusion of this exception renders the statute unconstitutional, the statute itself shall remain in force and the exception shall be stricken. So would you say even in that situation the whole statute would have to fall?"
+2019.19-631,1,56052,roman_martinez,,2914.76,2948.24,"Your Honor, let me -- let me try to address that in each of the two pieces because I think it's a -- it's a nuanced question and deserves a nuanced answer. First of all, with respect to the narrowness of that particular ban, I think that the fact that that particular restriction or exception is so narrow, I think that probably, you know, looking at the totality of the circumstances, we would look at that and we would think the existence of this one tiny exception and the fact that this really isn't going to invade privacy that much, I think that would probably be a reason to conclude that the restriction is not unconstitutional."
+2019.19-631,1,15068,samuel_a_alito_jr,scotus_justice,2997.96,3006.0,"That does seem to thwart a pretty clear manifestation of congressional intent, but you think that's irrelevant in this situation?"
+2019.19-631,1,56052,roman_martinez,,3006.0,3010.92,"Well, I think in a circumstance, Your Honor, I don't think this is -- I don't think the government disagrees with us on this."
+2019.19-631,1,15086,john_g_roberts_jr,scotus_justice,3066.8,3071.84,"Thank you, counsel. Justice Sotomayor?"
+2019.19-631,1,15131,sonia_sotomayor,scotus_justice,3071.84,3094.64,"Mr. Martinez, are you taking the position that all restrictions of robo-calls are unconstitutional or that just a broad -- a broad restriction like this one is unconstitutional? Because there's some types of speech that should not be covered."
+2019.19-631,1,56052,roman_martinez,,3094.64,3099.28,"Well, I think, Your Honor, in this case, obviously, we're dealing with -- with the statute at hand."
+2019.19-631,1,15131,sonia_sotomayor,scotus_justice,3128.88,3129.28,Well --
+2019.19-631,1,56052,roman_martinez,,3129.28,3130.16,-- kind of statute is much --
+2019.19-631,1,15131,sonia_sotomayor,scotus_justice,3130.16,3132.0,-- Mr. Martinez -- and I agree with you.
+2019.19-631,1,56052,roman_martinez,,3170.72,3171.36,"Well, Your Honor --"
+2019.19-631,1,15131,sonia_sotomayor,scotus_justice,3171.36,3171.88,Why should we be --
+2019.19-631,1,56052,roman_martinez,,3171.88,3172.04,-- your --
+2019.19-631,1,15131,sonia_sotomayor,scotus_justice,3172.04,3201.44,"-- why should we be striking down the entire statute? Now you would have to prove -- and I don't know that the Court has done this below -- that restricting political speech is not -- is -- is -- is not narrowly tailored, and I don't know that that's been done in this case, but, if the issue is the remedy, shouldn't we let the circuit below decide that question?"
+2019.19-631,1,56052,roman_martinez,,3201.44,3204.68,"Your Honor, two points on that."
+2019.19-631,1,15086,john_g_roberts_jr,scotus_justice,3267.0,3270.04,"Thank you, counsel. Justice Breyer?"
+2019.19-631,1,15139,stephen_g_breyer,scotus_justice,3270.04,3270.68,"Yeah, thank you."
+2019.19-631,1,15139,stephen_g_breyer,scotus_justice,3278.6,3280.64,And we got it straightened out. Okay.
+2019.19-631,1,56052,roman_martinez,,3377.72,3381.28,"Your Honor, a couple points on that."
+2019.19-631,1,15139,stephen_g_breyer,scotus_justice,3393.44,3398.32,You realize that what I'm doing is I -- I dissented and I'm wondering whether to stick to that approach or not.
+2019.19-631,1,56052,roman_martinez,,3403.48,3407.28,"Well, I would -- I would hope that stare decisis would be a factor even if you disagreed with me."
+2019.19-631,1,15139,stephen_g_breyer,scotus_justice,3407.28,3407.48,Yes.
+2019.19-631,1,56052,roman_martinez,,3412.32,3414.16,"Fair enough, Your Honor."
+2019.19-631,1,15139,stephen_g_breyer,scotus_justice,3422.96,3426.32,"Yes, that's what I want the answer to, exactly why."
+2019.19-631,1,56052,roman_martinez,,3426.32,3426.48,Right.
+2019.19-631,1,15139,stephen_g_breyer,scotus_justice,3460.8,3461.24,And isn't --
+2019.19-631,1,15086,john_g_roberts_jr,scotus_justice,3461.24,3461.64,Justice Kagan?
+2019.19-631,1,15139,stephen_g_breyer,scotus_justice,3461.64,3462.24,Thanks.
+2019.19-631,1,15086,john_g_roberts_jr,scotus_justice,3462.24,3462.44,Justice Kagan?
+2019.19-631,1,15094,elena_kagan,scotus_justice,3462.44,3464.88,"Good afternoon, Mr. Martinez."
+2019.19-631,1,56052,roman_martinez,,3464.88,3466.08,Good afternoon.
+2019.19-631,1,15094,elena_kagan,scotus_justice,3466.08,3469.36,I'll give you a hypothetical.
+2019.19-631,1,56052,roman_martinez,,3484.48,3497.2,"Your Honor, I think that in -- in that circumstance, the -- the -- the -- the regulation would not turn on the content of the calls, and so I don't think strict scrutiny would apply for that reason."
+2019.19-631,1,15094,elena_kagan,scotus_justice,3497.2,3497.48,Right.
+2019.19-631,1,56052,roman_martinez,,3530.84,3541.88,"Well, with respect, and perhaps I misunderstood the hypothetical, Justice Kagan, but I thought in your hypothetical that the -- as long as the relationship element was satisfied, the call could be on any subject whatsoever."
+2019.19-631,1,15094,elena_kagan,scotus_justice,3543.04,3543.56,"Oh, yeah."
+2019.19-631,1,56052,roman_martinez,,3554.28,3577.2,"Well, with respect, Justice Kagan, I'm -- I'm not sure that's right, and the FCC has expressly addressed this situation in their August 2016 order at page 9087, where the FCC has contemplated -- it -- it's discussing and addressing the content of the calls at issue being made by -- by collectors of government-backed debt, and it contemplates that -- that the subject matter of the call might range beyond the collection of government-backed debt."
+2019.19-631,1,15094,elena_kagan,scotus_justice,3597.8,3598.24,"Well, I guess a technical issue --"
+2019.19-631,1,56052,roman_martinez,,3598.24,3599.0,-- is different here.
+2019.19-631,1,15094,elena_kagan,scotus_justice,3599.0,3599.6,Excuse me.
+2019.19-631,1,56052,roman_martinez,,3652.72,3662.48,"Your Honor, I think that the -- that the robust test for content-based speech restrictions this Court adopted in Reed is important because it protects liberty."
+2019.19-631,1,15086,john_g_roberts_jr,scotus_justice,3694.44,3698.44,"Thank you, counsel. Justice -- Justice Gorsuch?"
+2019.19-631,1,62836,neil_gorsuch,scotus_justice,3698.44,3738.68,"Counsel, I'd like to just turn back to the -- the intuitive appeal of the government's severability argument. If, as I think you've -- you've conceded, that the -- the statute before the government-debt exception would not have been content-based and might have been permissible under the First Amendment, Congress then comes in and adds the government-debt exception, and that changes the equation. The intuitive argument based on that sequence of events is, well, just get rid of the government-debt exception and we go back to the status quo ante where everything was fine. Why -- why should we reject that intuition?"
+2019.19-631,1,56052,roman_martinez,,3738.68,3742.96,I think there's -- there's a philosophical reason and a historical reason.
+2019.19-631,1,62836,neil_gorsuch,scotus_justice,3836.12,3841.8,"Let me see if I -- if I've got at least that second point, my hands around it."
+2019.19-631,1,56052,roman_martinez,,3878.12,3907.84,"I think that sums it up, with one small caveat, which is that we are talking now on the assumption that this -- there -- that there is a severability analysis that's required here that turns on intent. I do think our -- our primary position is that the nature of the First Amendment and the nature of the constitutional flaw in this statute, which is the -- the flaw with the restriction, we think that that means that essentially, under -- under everyone's understanding of -- of severability principles, the restriction must be struck down."
+2019.19-631,1,15086,john_g_roberts_jr,scotus_justice,3907.84,3908.64,"Thank you, counsel."
+2019.19-631,1,62836,neil_gorsuch,scotus_justice,3908.64,3909.0,And then --
+2019.19-631,1,15086,john_g_roberts_jr,scotus_justice,3909.0,3910.04,"I'm sorry, Justice Gorsuch?"
+2019.19-631,1,62836,neil_gorsuch,scotus_justice,3910.04,3911.36,"No, I'm fine."
+2019.19-631,1,15086,john_g_roberts_jr,scotus_justice,3912.76,3913.12,Justice Kavanaugh?
+2019.19-631,1,17766,brett_m_kavanaugh,scotus_justice,3913.12,3917.56,"Thank you, Chief Justice. Good afternoon, Mr. Martinez."
+2019.19-631,1,56052,roman_martinez,,3919.0,3920.64,Good afternoon.
+2019.19-631,1,17766,brett_m_kavanaugh,scotus_justice,3920.64,3936.68,"-- we have no precedent either way on severability, as I understand it, when the First Amendment problem is created by an exception to a ban on speech, rather than the First Amendment problem being created by the underlying ban without the exception."
+2019.19-631,1,56052,roman_martinez,,3968.2,3968.68,Yes.
+2019.19-631,1,17766,brett_m_kavanaugh,scotus_justice,3983.64,3985.24,Let me just -- let me make sure I have you exactly right.
+2019.19-631,1,56052,roman_martinez,,3999.16,4005.48,We would say yes based primarily on the differential treatment of the residential call bans.
+2019.19-631,1,17766,brett_m_kavanaugh,scotus_justice,4013.36,4014.04,Correct.
+2019.19-631,1,56052,roman_martinez,,4014.04,4046.04,"I think that the 2015 law, if you think about that law as evidence -- as evidence of what Congress thought about privacy, the fact that it wasn't passed doesn't mean that deep down Congress believed in privacy more than we later -- you know, than was later revealed. And so I think it's important to recognize that, in our argument, the role of the 2015 exception is not merely to introduce the textual content-based distinction, but it's also to reveal the underlying lack of justification, which was always there."
+2019.19-631,1,17766,brett_m_kavanaugh,scotus_justice,4046.6,4053.04,"Well, I'm not -- I guess on that point I would pick up on what the Chief Justice said and -- and the states' amicus brief."
+2019.19-631,1,56052,roman_martinez,,4070.76,4072.52,I think aspects of the law are popular.
+2019.19-631,1,17766,brett_m_kavanaugh,scotus_justice,4109.56,4110.0,"Well, even if --"
+2019.19-631,1,56052,roman_martinez,,4110.0,4110.24,-- to opt --
+2019.19-631,1,17766,brett_m_kavanaugh,scotus_justice,4110.24,4110.72,-- even if you --
+2019.19-631,1,56052,roman_martinez,,4110.72,4111.64,-- out.
+2019.19-631,1,17766,brett_m_kavanaugh,scotus_justice,4111.64,4130.16,"-- even -- sorry. Even if you lose this case, Congress can, of course, scale back when you view as overbroad restrictions, but if you lose this case, Congress will still have in place a restriction that's been on the books for 30 years and that has been perceived as constitutional and that is very popular."
+2019.19-631,1,56052,roman_martinez,,4130.16,4146.96,"Well -- well, I -- I -- I -- I -- I guess what I would say is that I think the right way to think about this is to apply the doctrinal tools that you always apply in First Amendment cases, even in cases where the speech involved is not popular. I mean, the First Amendment is there not just to protect speech that people like but to protect speech --"
+2019.19-631,1,17766,brett_m_kavanaugh,scotus_justice,4146.96,4147.2,Yeah.
+2019.19-631,1,56052,roman_martinez,,4147.2,4149.0,-- that people might find offensive or -- or annoying.
+2019.19-631,1,15086,john_g_roberts_jr,scotus_justice,4150.0,4151.44,"Thank you, counsel."
+2019.19-631,1,56052,roman_martinez,,4154.4,4164.16,"Thank you, Your Honor. The -- the core purpose of the First Amendment is to protect the free exchange of political speech, even when people might find that speech to be a nuisance."
+2019.19-631,1,15086,john_g_roberts_jr,scotus_justice,4185.84,4189.4,"Thank you, counsel. Mr. Stewart, you have rebuttal?"
+2019.19-631,2,36722,malcolm_l_stewart,,4189.4,4231.52,"Thank you, Mr. Chief Justice. I took Mr. Martinez to acknowledge that if -- if this were a restriction on speech undertaken to collect a government-backed debt, it would be subject at most to intermediate scrutiny because it would be commercial speech and would be subject to distinct First Amendment treatment on that basis. And the -- the position of the other side is this provision should be reviewed more skeptically, should be subject to more certiorari review because its effect is to take particular speech out from under regulation rather than to regulate it. And that's contrary to the -- the usual understanding that the First Amendment exists to foster speech."
+2019.19-631,2,15086,john_g_roberts_jr,scotus_justice,4371.12,4373.12,"Thank you, counsel."

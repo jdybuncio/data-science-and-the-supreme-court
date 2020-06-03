@@ -1,0 +1,79 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1980.79-1388,0,15073,warren_e_burger,scotus_justice,0.0,7.482,We'll hear arguments next in the case of Kirchberg v. Feenstra.
+1980.79-1388,0,17013,alan_f_schoenberger,,67.77,81.562,"Mr. Chief Justice, and may it please the Court:"
+1980.79-1388,0,15073,warren_e_burger,scotus_justice,192.173,194.876,"This is the equivalent of a foreclosure in any other state, isn't it?"
+1980.79-1388,0,17013,alan_f_schoenberger,,194.876,195.109,"Yes, sir."
+1980.79-1388,0,15071,byron_r_white,scotus_justice,374.788,376.38,To whom?
+1980.79-1388,0,17013,alan_f_schoenberger,,380.864,386.955,"We do not believe that it does, Your Honor, and this is part and parcel of the problem."
+1980.79-1388,0,15071,byron_r_white,scotus_justice,392.531,395.264,"Well, if you didn't think it applied to you, why did you appeal?"
+1980.79-1388,0,17013,alan_f_schoenberger,,399.278,407.743,"--Your Honor, we are saying that if the decision applies it is purely prospectively."
+1980.79-1388,0,15071,byron_r_white,scotus_justice,411.288,412.71,"--Well, does it apply to your client or doesn't it?"
+1980.79-1388,0,17013,alan_f_schoenberger,,412.71,420.487,"--Your Honor, it says, reversed, applied prospectively, on the motion for summary judgment."
+1980.79-1388,0,15071,byron_r_white,scotus_justice,420.487,422.487,You just told me you didn't think it applied to your client.
+1980.79-1388,0,17013,alan_f_schoenberger,,422.487,426.705,"Your Honor, this is part of the problem."
+1980.79-1388,0,15071,byron_r_white,scotus_justice,447.899,452.74,"Well, what is... so, you want to come up here to have us declare your mortgage invalid?"
+1980.79-1388,0,17013,alan_f_schoenberger,,452.74,453.037,"No, no, Your Honor."
+1980.79-1388,0,15141,william_h_rehnquist,scotus_justice,475.606,490.007,"But then there's no case or controversy, no live case or controversy, it's just purely a decision of an abstract proposition which doesn't have any effect on concrete rights of the parties."
+1980.79-1388,0,17013,alan_f_schoenberger,,490.007,490.476,I... this--
+1980.79-1388,1,18027,barbara_hausman_smith,,1712.972,1717.61,"Mr. Chief Justice, and may it please the Court:"
+1980.79-1388,1,15071,byron_r_white,scotus_justice,1809.027,1811.322,"What do you mean, include them?"
+1980.79-1388,1,18027,barbara_hausman_smith,,1813.822,1819.992,--An unconstitutional holding that Article 2404 would apply to the parties litigant.
+1980.79-1388,1,15071,byron_r_white,scotus_justice,1819.992,1823.02,But not to other--
+1980.79-1388,1,18027,barbara_hausman_smith,,1823.02,1824.051,Exactly.
+1980.79-1388,1,15071,byron_r_white,scotus_justice,1824.051,1826.331,--Other people who had made mortgages before?
+1980.79-1388,1,18027,barbara_hausman_smith,,1826.331,1826.627,Exactly.
+1980.79-1388,1,15141,william_h_rehnquist,scotus_justice,1827.299,1840.701,"Ms. Hausman-Smith, hasn't there always been kind of an uneasiness with the case in controversy requirement about this Court's retroactivity holdings, and prospective-only holdings?"
+1980.79-1388,1,18027,barbara_hausman_smith,,1852.821,1853.274,"--Absolutely, Your Honor."
+1980.79-1388,1,15073,warren_e_burger,scotus_justice,1892.712,1895.022,"Any of them, or those executed after 1980?"
+1980.79-1388,1,18027,barbara_hausman_smith,,1895.022,1898.647,"--That is correct, Your Honor, those executed after 1980."
+1980.79-1388,1,15141,william_h_rehnquist,scotus_justice,1955.327,1963.559,But Louisiana is not the only state that operates under a community property system.
+1980.79-1388,1,18027,barbara_hausman_smith,,1994.093,2006.463,"Your Honor, I agree with that, but there is in no sense a holding, or as Ms. Feenstra is seeking to have held, that the community property system is unconstitutional."
+1980.79-1388,1,15141,william_h_rehnquist,scotus_justice,2025.221,2048.025,"Well, the law may have changed since I practised in Arizona but Arizona had a community property statute where the husband could alienate property on his own signature unless it was in fraud of the rights of the wife."
+1980.79-1388,1,18027,barbara_hausman_smith,,2048.025,2065.72,"My understanding is that Louisiana is at this point, was... in 1976 when this lawsuit was brought, was the only state with that kind of provision, but I certainly may be incorrect, Your Honor."
+1980.79-1388,1,15141,william_h_rehnquist,scotus_justice,2065.72,2068.922,"Well, you may--"
+1980.79-1388,1,18027,barbara_hausman_smith,,2068.922,2092.148,"I would like to point out that a holding, prospective-only holding in this case would also go against the holdings in prospective cases of the Louisiana Supreme Court."
+1980.79-1388,1,15045,harry_a_blackmun,scotus_justice,2124.243,2126.539,--Did you say that was a dissenting opinion?
+1980.79-1388,1,18027,barbara_hausman_smith,,2126.539,2146.266,"That was the three-justice dissent in Corpus Christi, Your Honor, and it is the only case law where the Louisiana Supreme Court has grappled with an unconstitutional holding of Article 2404 and come up with a solution as far as application to the parties, or retroactive application."
+1980.79-1388,1,15071,byron_r_white,scotus_justice,2146.266,2148.139,So it's not a ruling of the Louisiana Supreme Court?
+1980.79-1388,1,18027,barbara_hausman_smith,,2148.139,2148.92,That is correct.
+1980.79-1388,1,15141,william_h_rehnquist,scotus_justice,2172.568,2178.847,Of course they may not have the same case or controversy requirements that the federal judicial system has.
+1980.79-1388,1,18027,barbara_hausman_smith,,2178.847,2191.918,"Absolutely, and a case in controversy is at the basis of the appellee's claim that she has included in the 5th Circuit."
+1980.79-1388,1,15141,william_h_rehnquist,scotus_justice,2305.203,2306.609,How about the other community property states though that are in the 9th Circuit?
+1980.79-1388,1,18027,barbara_hausman_smith,,2306.609,2322.383,"--Well, as I stated before, I'm not aware of any, and I doubt that any could be, because I did not believe that they were able to have the husband alienating community property without the wife's consent, as Louisiana did."
+1980.79-1388,1,15141,william_h_rehnquist,scotus_justice,2374.379,2409.817,"Actually, the State of Louisiana has moved to dismiss as moot, hasn't it?"
+1980.79-1388,1,18027,barbara_hausman_smith,,2409.817,2436.446,"Yes, which was... well, they'd moved to dismiss as moot, but they also made much of... their motion was based on the fact that there wasn't a case or controversy below, and now they find that the repeal of the head and master statutes, Article 2404, in their opinion that was moot."
+1980.79-1388,1,15073,warren_e_burger,scotus_justice,2533.423,2535.391,Within the first six months or after the first six months?
+1980.79-1388,1,18027,barbara_hausman_smith,,2535.391,2538.312,--After the first six months.
+1980.79-1388,1,15141,william_h_rehnquist,scotus_justice,2564.785,2571.251,How about an antenuptial agreement?
+1980.79-1388,1,18027,barbara_hausman_smith,,2571.251,2596.476,"An antenuptial agreement was possible under Louisiana law, but Appellee Feenstra would maintain that at all points that that was not, did not cure the burdens on her; that an antenuptial contract would have to be signed by both the parties, and a husband therefore would have to give up, be required to give up the power that Louisiana had given him under the head and master principle."
+1980.79-1388,1,15141,william_h_rehnquist,scotus_justice,2603.831,2608.814,"Well, if it's an antenuptial agreement, she can refuse to marry him, I suppose."
+1980.79-1388,1,18027,barbara_hausman_smith,,2608.814,2609.532,I suppose; yes.
+1980.79-1388,1,15071,byron_r_white,scotus_justice,2932.105,2937.37,What was your claim against the State of Louisiana?
+1980.79-1388,1,18027,barbara_hausman_smith,,2937.37,2943.07,The State of Louisiana was enforcing by the mortgage an unconstitutional--
+1980.79-1388,1,15071,byron_r_white,scotus_justice,2943.07,2950.286,"So you asked that there be, that the provision be declared unconstitutional and the State be enjoined from enforcing it?"
+1980.79-1388,1,18027,barbara_hausman_smith,,2950.286,2951.473,--Yes.
+1980.79-1388,1,15071,byron_r_white,scotus_justice,2954.706,2959.033,"And what do you think is left of... you won your case, didn't you?"
+1980.79-1388,1,18027,barbara_hausman_smith,,2959.033,2960.797,Below in the 5th Circuit; yes.
+1980.79-1388,1,15071,byron_r_white,scotus_justice,2960.797,2969.482,And what do you think... what relief against the State is left after its prospective ruling?
+1980.79-1388,1,18027,barbara_hausman_smith,,2969.482,2973.215,There is really none at this time.
+1980.79-1388,1,15071,byron_r_white,scotus_justice,2982.602,2995.253,"I would say that, isn't your position that the State is enjoined from enforcing the provision with respect to your mortgage?"
+1980.79-1388,1,18027,barbara_hausman_smith,,2995.253,2995.846,--Absolutely.
+1980.79-1388,1,15071,byron_r_white,scotus_justice,2995.846,3003.171,But it is not enjoined from enforcing the provision with respect to any other mortgage?
+1980.79-1388,1,18027,barbara_hausman_smith,,3003.171,3006.326,"Yes, with respect to any other mortgage signed--"
+1980.79-1388,1,15104,thurgood_marshall,scotus_justice,3006.326,3009.404,But these are just counterclaims you've filed.
+1980.79-1388,1,18027,barbara_hausman_smith,,3011.138,3011.7,"--That is correct, Your Honor."
+1980.79-1388,1,15141,william_h_rehnquist,scotus_justice,3011.7,3034.332,"Counsel, how about the second paragraph of what used to be Article 2404 where it describes the role of the husband in marriage, and where it says he can make no conveyance inter vivos by a gratuitous title of the immovables of the community?"
+1980.79-1388,1,18027,barbara_hausman_smith,,3047.232,3053.105,"Well, it might not, but fortunately that has all been solved by the repeal of that act as of January 1, 1980."
+1980.79-1388,1,15141,william_h_rehnquist,scotus_justice,3053.105,3065.007,But we still have the problem of the time between the handing down of the 5th Circuit's decision and the adoption of the new system on January 1.
+1980.79-1388,1,18027,barbara_hausman_smith,,3065.007,3065.991,"Yes, Your Honor."
+1980.79-1388,1,15141,william_h_rehnquist,scotus_justice,3065.991,3097.431,It's on page A42 of the statement of jurisdiction.
+1980.79-1388,1,18027,barbara_hausman_smith,,3097.431,3117.407,"That also includes movables too, and that is something that is totally out of the realm of what the 5th Circuit decision on articles... what they declared as unconstitutional."
+1980.79-1388,1,15141,william_h_rehnquist,scotus_justice,3122.014,3130.09,"But actually, as to the immovables, the statute already proscribed them."
+1980.79-1388,1,18027,barbara_hausman_smith,,3130.09,3130.699,That's true; so--
+1980.79-1388,1,15043,potter_stewart,scotus_justice,3130.699,3150.566,"And since January 1, 1980, under the then and now-existing statutes of Louisiana, a mortgage such as that involved in this case would have had to have been signed by a husband and wife, is that it?"
+1980.79-1388,1,18027,barbara_hausman_smith,,3150.566,3162.139,"--Yes; a mortgage on property held in both their names, community property, or of property held in the name of one spouse would have to be signed by both parties."
+1980.79-1388,1,15043,potter_stewart,scotus_justice,3162.483,3164.498,If the property had been acquired during the marriage?
+1980.79-1388,1,18027,barbara_hausman_smith,,3164.498,3165.872,--Yes.
+1980.79-1388,2,17013,alan_f_schoenberger,,3296.178,3298.662,A few brief comments.
+1980.79-1388,2,15073,warren_e_burger,scotus_justice,3328.572,3330.135,"Well, the 5th Circuit acknowledged that, did they not?"
+1980.79-1388,2,17013,alan_f_schoenberger,,3330.135,3330.385,"--Right, right."

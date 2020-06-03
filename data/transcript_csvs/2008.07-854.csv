@@ -1,0 +1,147 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2008.07-854,0,15086,john_g_roberts_jr,scotus_justice,0.0,6.737,"We'll hear argument next this morning in Case 07-854, Van De Kamp v. Goldstein."
+2008.07-854,0,42553,timothy_t_coates,,8.487,21.08,"Mr. Chief Justice, and may it please the Court: This case arises from a Ninth Circuit opinion that essentially creates an exception to absolute prosecutorial immunity for chief advocates and supervising advocates."
+2008.07-854,0,15113,anthony_m_kennedy,scotus_justice,135.587,157.302,"Was -- was there an element in Imbler of the fact that you have to make tactical and strategic decisions at -- at the moment that are difficult, that call for judgment that has to be exercised on the spur of the moment?"
+2008.07-854,0,42553,timothy_t_coates,,173.878,179.966,"Well, the court in Imbler did mention a time frame in which decisions have to be made -- quickly made by individual prosecutors."
+2008.07-854,0,15060,john_paul_stevens,scotus_justice,236.036,242.19,May I ask you kind of perhaps a farfetched hypothetical question just so I get the case law in mind?
+2008.07-854,0,42553,timothy_t_coates,,279.815,280.481,The--
+2008.07-854,0,15060,john_paul_stevens,scotus_justice,280.481,281.215,--in my example?
+2008.07-854,0,42553,timothy_t_coates,,281.215,282.381,--The lay person--
+2008.07-854,0,15060,john_paul_stevens,scotus_justice,282.381,283.067,Yes.
+2008.07-854,0,42553,timothy_t_coates,,283.067,287.218,"--The layperson, as a private actor, I think would not be."
+2008.07-854,0,15060,john_paul_stevens,scotus_justice,312.369,322.975,"Well, why -- why is it qualified immunity if a separate person does it, but not qualified immunity if precisely the same task is performed by somebody who happens also to be a prosecutor?"
+2008.07-854,0,42553,timothy_t_coates,,322.975,325.51,Because it's not so much the physical task of doing it.
+2008.07-854,0,15060,john_paul_stevens,scotus_justice,339.519,347.625,And in my hypothetical is it or is it not a prosecutorial -- does the layperson perform or not perform a prosecutorial function?
+2008.07-854,0,42553,timothy_t_coates,,347.625,352.244,"If he is just collating data, then that is -- that's -- that's a task."
+2008.07-854,0,15060,john_paul_stevens,scotus_justice,366.087,370.955,"No, but I'm trying to divorce the information in the particular case from developing the program."
+2008.07-854,0,42553,timothy_t_coates,,370.955,373.857,"Well, I -- perhaps I misunderstood the question."
+2008.07-854,0,15060,john_paul_stevens,scotus_justice,391.2,393.419,Even if it's made by a layman?
+2008.07-854,0,42553,timothy_t_coates,,393.419,395.104,"Setting up the program, no."
+2008.07-854,0,15113,anthony_m_kennedy,scotus_justice,461.213,464.331,"Well, I -- I suppose that is why the Petitioners seemed to change their theory."
+2008.07-854,0,42553,timothy_t_coates,,490.399,492.434,I couldn't say what the best case is for them.
+2008.07-854,0,15113,anthony_m_kennedy,scotus_justice,500.571,510.729,"That is why the case is hard, and I -- I almost have to see what the violation would be before I could determine the qualified immunity aspect of the case."
+2008.07-854,0,42553,timothy_t_coates,,510.729,511.746,"--Well, indeed."
+2008.07-854,0,15113,anthony_m_kennedy,scotus_justice,523.054,525.089,That's what we are deciding in sort of in a vacuum.
+2008.07-854,0,42553,timothy_t_coates,,525.789,527.441,Precisely.
+2008.07-854,0,15113,anthony_m_kennedy,scotus_justice,577.088,593.716,The Monell case -- does the Monell case rest on the assumption that there can be instances where a policy makes the policy of those who adopted the policy liable?
+2008.07-854,0,42553,timothy_t_coates,,593.716,594.45,I think that's right.
+2008.07-854,0,15086,john_g_roberts_jr,scotus_justice,715.562,722.133,"Thank you, Mr. Coates."
+2008.07-854,1,35719,michael_r_dreeben,,728.27,746.914,"Thank you, Mr. Chief Justice, and may it please the Court: This Court recognized absolute prosecutorial immunity for line prosecutors who are charged with violating an obligation that falls uniquely on prosecutors, namely the obligation to disclose exculpatory evidence."
+2008.07-854,1,15086,john_g_roberts_jr,scotus_justice,770.297,773.416,Is there such a constitutional obligation?
+2008.07-854,1,35719,michael_r_dreeben,,773.416,775.868,"Not in our view, Mr. Chief Justice."
+2008.07-854,1,15086,john_g_roberts_jr,scotus_justice,821.831,825.7,I think you have the flip side of the same problem your friend has.
+2008.07-854,1,35719,michael_r_dreeben,,842.412,854.303,"Well, it certainly is true that if there were a constitutional obligation under Giglio and Brady, it would be one that is intimately tied to the judicial process, and it should receive absolute prosecutorial immunity."
+2008.07-854,1,15113,anthony_m_kennedy,scotus_justice,854.303,872.181,"In the broad ethical scheme of things, apart from liability under this statute, it seems to me that a newly elected district attorney would take seriously the obligation to make sure that everybody was following Brady."
+2008.07-854,1,35719,michael_r_dreeben,,872.181,885.655,"Absolutely, Justice Kennedy, and I think that a formulation of policies to achieve that, whether or not required by the Constitution, is something that relates directly and intimately to the prosecutor's duties to assure--"
+2008.07-854,1,15113,anthony_m_kennedy,scotus_justice,885.655,886.774,"Well, that's the next point."
+2008.07-854,1,35719,michael_r_dreeben,,897.797,909.704,"--Only in the sense, I think, that -- that a supervisor who has the power to cause or prevent constitutional violations may be under some obligation not to cause constitutional violations."
+2008.07-854,1,15113,anthony_m_kennedy,scotus_justice,911.056,912.472,"Well, I think it's more than that."
+2008.07-854,1,35719,michael_r_dreeben,,917.793,918.71,--You certainly should not.
+2008.07-854,1,15113,anthony_m_kennedy,scotus_justice,918.71,922.947,--consistent with his or her obligations to perform their duties.
+2008.07-854,1,35719,michael_r_dreeben,,922.947,934.588,"But I think that the deliberated indifference question that you raise, Justice Kennedy, is really a direct counterpart of the absolute immunity argument that we are making here."
+2008.07-854,1,15060,john_paul_stevens,scotus_justice,951.347,953.883,"Mr. Dreeben, what do you do with my hypothetical?"
+2008.07-854,1,35719,michael_r_dreeben,,954.918,960.387,"I remember it, Justice Stevens, and I think that the -- I agree with Mr. Coates on this one."
+2008.07-854,1,15060,john_paul_stevens,scotus_justice,965.457,967.909,"No, I'm -- my hypothetical is they hire a layman--"
+2008.07-854,1,35719,michael_r_dreeben,,967.909,968.426,--Yes.
+2008.07-854,1,15060,john_paul_stevens,scotus_justice,968.426,975.665,--to develop a policy that will keep separate from prosecutors information about the way witnesses are developed.
+2008.07-854,1,35719,michael_r_dreeben,,985.37,986.637,"That's the allegation, of course."
+2008.07-854,1,15060,john_paul_stevens,scotus_justice,997.745,1001.53,But that's true even without -- without an immunity.
+2008.07-854,1,35719,michael_r_dreeben,,1001.53,1008.85,But I think that the point is that the immunity prevents the prosecutors from having to fear that they will be subject to those kind of suits.
+2008.07-854,1,15060,john_paul_stevens,scotus_justice,1026.978,1044.373,"Of course, the next question is, if that's true, and if there is -- you can compartmentalize the prosecutor's work in the office and he develops a separate chapter of his own duty to just do that performance, why is that trial-related?"
+2008.07-854,1,35719,michael_r_dreeben,,1044.373,1053.313,--I think the flaw in Respondent's theory is the attempt to bifurcate what the prosecutor is doing into an administrative function and a prosecutorial function.
+2008.07-854,1,15086,john_g_roberts_jr,scotus_justice,1259.745,1260.778,"Thank you, Mr. Dreeben."
+2008.07-854,2,23018,e_joshua_rosenkranz,,1266.149,1277.29,"Mr. Chief Justice, and may it please the Court: This case is not about whether a chief D.A. can set policies about trial strategy."
+2008.07-854,2,15086,john_g_roberts_jr,scotus_justice,1333.108,1333.527,Why isn't--
+2008.07-854,2,15084,ruth_bader_ginsburg,scotus_justice,1333.527,1338.746,This is creating -- this is creating a database.
+2008.07-854,2,23018,e_joshua_rosenkranz,,1343.149,1347.617,"The prosecution, Your Honor, was in 1979, it began."
+2008.07-854,2,15084,ruth_bader_ginsburg,scotus_justice,1350.469,1361.694,And back in 1979 we did not have the information-gathering electronic capability that we now have.
+2008.07-854,2,23018,e_joshua_rosenkranz,,1369.533,1374.085,"Well, Your Honor, so that's getting to the merits of the actual claim."
+2008.07-854,2,15086,john_g_roberts_jr,scotus_justice,1410.544,1412.877,"--Well, but that goes to the merits, doesn't it?"
+2008.07-854,2,23018,e_joshua_rosenkranz,,1438.194,1446.181,"Well, Your Honor, this Court has said as clearly as it can possibly say that the location of the injury is irrelevant."
+2008.07-854,2,15086,john_g_roberts_jr,scotus_justice,1464.442,1473.098,"You drew a distinction earlier on between a determination by a prosecutor not to turn over certain material, which is absolutely immune, and said this was different."
+2008.07-854,2,23018,e_joshua_rosenkranz,,1485.323,1488.191,"Well, Your Honor, the answer is quite simple."
+2008.07-854,2,15086,john_g_roberts_jr,scotus_justice,1530.37,1535.941,"Why isn't that the same as the determination by the supervisor that, don't turn this information over."
+2008.07-854,2,23018,e_joshua_rosenkranz,,1547.498,1550.617,"--Well, Your Honor, if the decree comes from on high,"
+2008.07-854,2,15049,antonin_scalia,scotus_justice,1577.018,1585.956,"That is certainly -- you know, that's an interesting theory, but it's certainly not the theory on which the decision below was based."
+2008.07-854,2,23018,e_joshua_rosenkranz,,1613.774,1614.274,That's what--
+2008.07-854,2,15049,antonin_scalia,scotus_justice,1614.274,1617.643,They are talking about supervising prosecutors.
+2008.07-854,2,23018,e_joshua_rosenkranz,,1625.248,1634.287,"--Your Honor, the passage you read from was the broad passage that the court was referring to when it said this sets up a bunch of hard questions."
+2008.07-854,2,15049,antonin_scalia,scotus_justice,1654.701,1655.684,Page 5?
+2008.07-854,2,23018,e_joshua_rosenkranz,,1655.684,1658.47,Page 5 of the petition appendix at the top.
+2008.07-854,2,15049,antonin_scalia,scotus_justice,1678.049,1681.918,They are not talking about just collecting information.
+2008.07-854,2,23018,e_joshua_rosenkranz,,1681.918,1682.868,Your Honor--
+2008.07-854,2,15049,antonin_scalia,scotus_justice,1682.868,1699.047,"They are talking about, as they clarify later on, a -- a system in which they train and supervise and develop an officewide policy regarding the Giglio obligations."
+2008.07-854,2,23018,e_joshua_rosenkranz,,1699.047,1711.354,"--Your Honor, no, they -- the court was very clear that it was talking about supervising and training, about the internal function of circulation of information within the D.A.'s office."
+2008.07-854,2,15042,david_h_souter,scotus_justice,1711.737,1715.472,Let's assume that's -- that's what they did mean.
+2008.07-854,2,23018,e_joshua_rosenkranz,,1783.633,1786.318,--And he's directing that order to trial lawyers?
+2008.07-854,2,15042,david_h_souter,scotus_justice,1786.318,1786.851,That's right.
+2008.07-854,2,23018,e_joshua_rosenkranz,,1786.851,1787.351,"Yes, Your Honor."
+2008.07-854,2,15042,david_h_souter,scotus_justice,1792.822,1802.428,"Well, you know if in a given case, if they had this system, and the lawyer comes to him and says, okay, I've consulted our system and I realize we that have got a Giglio obligation."
+2008.07-854,2,23018,e_joshua_rosenkranz,,1808.498,1809.498,"--There absolutely would, Your Honor."
+2008.07-854,2,15042,david_h_souter,scotus_justice,1809.498,1810.098,Okay.
+2008.07-854,2,23018,e_joshua_rosenkranz,,1810.098,1811.034,And my point is--
+2008.07-854,2,15042,david_h_souter,scotus_justice,1811.034,1816.235,Why would the -- why would the answer be any different if he says don't bother me with particular cases?
+2008.07-854,2,23018,e_joshua_rosenkranz,,1827.459,1829.995,"--Your Honor, I can imagine an argument on either side."
+2008.07-854,2,15042,david_h_souter,scotus_justice,1832.363,1833.913,What's your answer?
+2008.07-854,2,23018,e_joshua_rosenkranz,,1833.913,1839.867,--I don't have an answer to that hypothetical because it's so different from our case.
+2008.07-854,2,15042,david_h_souter,scotus_justice,1839.867,1850.925,"The trouble is if you don't have an answer to that hypothetical, then we got to leave open the possibilities as far as your case is concerned that he would have absolute immunity in that case."
+2008.07-854,2,23018,e_joshua_rosenkranz,,1871.07,1871.588,If--
+2008.07-854,2,15042,david_h_souter,scotus_justice,1871.588,1881.944,"If you can get everything you want, and all the prosecutor has got to say is: Keep it under your hat and there is going to be absolute immunity and nobody gets anything."
+2008.07-854,2,23018,e_joshua_rosenkranz,,1884.646,1887.681,"--Well, Your Honor, that may well be a consequence of Imbler."
+2008.07-854,2,15042,david_h_souter,scotus_justice,1905.393,1928.508,"But if the backroom function is reduced to an absolute nullity by an immunized decision to -- to bury the Giglio information in every case, then I don't see the point of saying there's no immunity for the supposed backroom function, because nothing will be accomplished even if there is no absolute immunity."
+2008.07-854,2,23018,e_joshua_rosenkranz,,1928.508,1928.958,"--Sure, Your Honor."
+2008.07-854,2,15068,samuel_a_alito_jr,scotus_justice,1999.871,2003.989,Can't you say anything about training subordinates in any office.
+2008.07-854,2,23018,e_joshua_rosenkranz,,2027.005,2031.593,--I can see the plaintiff in a case using our argument to advance that point.
+2008.07-854,2,15068,samuel_a_alito_jr,scotus_justice,2036.194,2054.489,So a plaintiff could say that it could sue a -- a district attorney for failing to have adequate training as to subordinates before you -- they are sent in to deliver a summation so that they know they are not supposed to comment on the failure of a defendant to take the stand--
+2008.07-854,2,23018,e_joshua_rosenkranz,,2054.489,2055.058,--As I said--
+2008.07-854,2,15068,samuel_a_alito_jr,scotus_justice,2055.058,2059.16,"--They are not supposed to vouch for witnesses, that would be a viable theory in your opinion?"
+2008.07-854,2,23018,e_joshua_rosenkranz,,2059.16,2061.678,--I -- I believe that there is an argument.
+2008.07-854,2,15084,ruth_bader_ginsburg,scotus_justice,2078.723,2092.881,"--Mr. Rosenkranz, you have, it seems to me, a theory of this case that is not the theory that the Ninth Circuit went on."
+2008.07-854,2,23018,e_joshua_rosenkranz,,2157.474,2163.043,"So, Your Honor, let me ask -- let me answer the first half first, which is about what the Ninth Circuit held."
+2008.07-854,2,15084,ruth_bader_ginsburg,scotus_justice,2238.977,2251.351,And there is nothing in the Ninth Circuit -- there was nothing that was presented to the Ninth Circuit by Mr. Goldstein that had to do with this talk about training?
+2008.07-854,2,23018,e_joshua_rosenkranz,,2251.351,2252.553,"--There was, Your Honor."
+2008.07-854,2,15139,stephen_g_breyer,scotus_justice,2362.775,2373.499,"But I would like to follow that up a bit by saying, one, I'm not sure what this difference between what you are arguing now and what you are arguing then matters."
+2008.07-854,2,23018,e_joshua_rosenkranz,,2396.159,2397.193,I don't think it does matter.
+2008.07-854,2,15139,stephen_g_breyer,scotus_justice,2397.193,2397.528,All right.
+2008.07-854,2,23018,e_joshua_rosenkranz,,2466.172,2484.217,"Your Honor, my response to that is very simple: I don't know of any other trial right -- prosecutorial misconduct, that can be controlled -- excuse me, where you can evade immunity under our theory the way you can with a theory that is based on the management--"
+2008.07-854,2,15139,stephen_g_breyer,scotus_justice,2484.217,2484.867,"Sure, it's easy."
+2008.07-854,2,23018,e_joshua_rosenkranz,,2524.275,2530.595,"--No, Your Honor, and I was beginning to say before that there is nothing at all exotic about the theory."
+2008.07-854,2,15068,samuel_a_alito_jr,scotus_justice,2586.931,2591.133,Your theory applies to any system of data dissemination.
+2008.07-854,2,23018,e_joshua_rosenkranz,,2592.585,2595.804,"Any one that is constitutionally based, Your Honor."
+2008.07-854,2,15068,samuel_a_alito_jr,scotus_justice,2602.208,2621.689,"If the prosecutor has the policy of failing to distribute to the line attorneys the latest Ninth Circuit decision or the latest decisions of this Court on important issues of criminal constitutional procedure, because they just don't like the way the law is developing in these areas."
+2008.07-854,2,23018,e_joshua_rosenkranz,,2629.508,2637.964,"Well, you have to imagine a world in which the district attorney is depriving people of the tools of their trade so that they can't get it elsewhere."
+2008.07-854,2,15060,john_paul_stevens,scotus_justice,2667.467,2668.919,Can I ask you this question?
+2008.07-854,2,23018,e_joshua_rosenkranz,,2700.189,2704.241,You are asking whether the policy--
+2008.07-854,2,15060,john_paul_stevens,scotus_justice,2704.241,2711.329,The policy when they -- when they deny someone his Giglio rights or so on and so on.
+2008.07-854,2,23018,e_joshua_rosenkranz,,2719.768,2721.168,--That such a cause of action--
+2008.07-854,2,15060,john_paul_stevens,scotus_justice,2721.168,2726.006,Can be brought under 1983 for such a general policy?
+2008.07-854,2,23018,e_joshua_rosenkranz,,2726.006,2730.374,--In the absence of a constitutional injury?
+2008.07-854,2,15060,john_paul_stevens,scotus_justice,2730.374,2734.778,That it will produce on a regular basis constitutional--
+2008.07-854,2,23018,e_joshua_rosenkranz,,2734.778,2740.182,"No, Your Honor, I am aware of any such case, but I will say--"
+2008.07-854,2,15060,john_paul_stevens,scotus_justice,2740.182,2748.002,--Then it seems to me that in this case the absolute immunity question is harder than the question that you present on the merits.
+2008.07-854,2,23018,e_joshua_rosenkranz,,2748.002,2751.137,"--Your Honor, it's actually not, and I will tell you why."
+2008.07-854,2,15084,ruth_bader_ginsburg,scotus_justice,2793.732,2810.676,"But the bottom line would be, if you are right, that every district attorney in the country, large or small office, would have to have a data bank that can be shared by all prosecutors, informants that are used."
+2008.07-854,2,23018,e_joshua_rosenkranz,,2817.682,2819.298,"Not necessarily, Your Honor."
+2008.07-854,2,15086,john_g_roberts_jr,scotus_justice,2848.551,2856.307,"I was surprised by your answer to Justice Stevens's hypothetical, because I thought it undermines your case."
+2008.07-854,2,23018,e_joshua_rosenkranz,,2892.146,2897.3,"Yes, Your Honor, and that is true of almost every prosecutorial immunity case."
+2008.07-854,2,15086,john_g_roberts_jr,scotus_justice,2904.37,2905.003,Exactly.
+2008.07-854,2,23018,e_joshua_rosenkranz,,2912.309,2913.876,"No, Your Honor, not any more--"
+2008.07-854,2,15086,john_g_roberts_jr,scotus_justice,2913.876,2917.547,"Even though the data system, as you've said, doesn't cause a constitutional violation."
+2008.07-854,2,23018,e_joshua_rosenkranz,,2923.115,2929.169,"--Well, not any more, Your Honor, than Buckley or Burns were circumnavigating around Imbler."
+2008.07-854,2,15086,john_g_roberts_jr,scotus_justice,2950.018,2958.755,But you began this dialogue by suggesting that you don't -- I am saying -- you don't have to prove that what you are complaining about causes a -- is a constitutional violation.
+2008.07-854,2,23018,e_joshua_rosenkranz,,2961.757,2962.226,"Right, Your Honor."
+2008.07-854,2,15086,john_g_roberts_jr,scotus_justice,2962.226,2965.678,"In all the examples you just gave me, it seems to me the allegation would be that--"
+2008.07-854,2,23018,e_joshua_rosenkranz,,2965.678,2976.117,"No, not -- under Cedank, Your Honor, it was not -- it would not be a constitutional violation to extract a confession from someone until that confession is used in the courtroom."
+2008.07-854,2,15086,john_g_roberts_jr,scotus_justice,2976.117,2979.069,"--Well, but that gets -- it seems to me a fundamental tension in your case."
+2008.07-854,2,23018,e_joshua_rosenkranz,,2993.912,2995.412,"Well, Your Honor, that's exactly right."
+2008.07-854,2,15060,john_paul_stevens,scotus_justice,3022.412,3034.12,But your client's standing to challenge this whole policy is the fact that he was the victim of the -- of the use of the policy in a particular case for which the prosecutor has absolute immunity.
+2008.07-854,2,23018,e_joshua_rosenkranz,,3034.12,3038.19,"--Yes, Your Honor, and that is always true in an immunity case."
+2008.07-854,2,15060,john_paul_stevens,scotus_justice,3055.033,3066.675,But I think you told me earlier that there are no prior cases in which such -- a person who suffered such an injury can bring an independent 1983 case challenging the policy at large.
+2008.07-854,2,23018,e_joshua_rosenkranz,,3066.675,3070.393,"--Well, that's correct, Your Honor, but it's a rare event that gets discovered."
+2008.07-854,2,15086,john_g_roberts_jr,scotus_justice,3072.162,3073.112,"Thank you, counsel."
+2008.07-854,3,42553,timothy_t_coates,,3080.6,3082.167,"Thank you, Mr. Chief Justice."
+2008.07-854,3,15139,stephen_g_breyer,scotus_justice,3174.396,3188.287,"I suppose the distinction he's trying to make maybe -- I'm not sure I've got it right, but you see there are certain kinds of systems that maybe administratively an office ought to have."
+2008.07-854,3,42553,timothy_t_coates,,3241.437,3251.979,"--Well, I think it's hard for him to get away from the manner in which he is trying to characterize it as being just administrative because it's not information just sitting there in a vacuum."
+2008.07-854,3,15139,stephen_g_breyer,scotus_justice,3253.879,3257.681,"Training in today's world or he wants to say in that day's world, whatever it was."
+2008.07-854,3,42553,timothy_t_coates,,3272.473,3275.675,--I think that is -- that is the point.
+2008.07-854,3,15086,john_g_roberts_jr,scotus_justice,3339.765,3341.55,"Thank you, counsel."

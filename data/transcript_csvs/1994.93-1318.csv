@@ -1,0 +1,99 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1994.93-1318,0,15141,william_h_rehnquist,scotus_justice,0.0,9.689,"We'll hear argument next in Number 93-1318, Interstate Commerce Commission v. Transcon Lines."
+1994.93-1318,0,35240,lawrence_g_wallace,,68.727,72.512,"Thank you, Mr. Chief Justice, and may it please the Court:"
+1994.93-1318,0,15084,ruth_bader_ginsburg,scotus_justice,421.837,453.125,"Mr. Wallace, could you clarify for me what this... what you've been calling the liquidated damages which the respondents call the bureau rate, when, other than in the context of liquidated damages for failure to pay on time, would this bureau rate apply, and in connection with that, what rate would apply to someone who is shipping these same goods on these same routes who pays on delivery, who doesn't get credit terms?"
+1994.93-1318,0,35240,lawrence_g_wallace,,455.693,457.612,--That is correct.
+1994.93-1318,0,15084,ruth_bader_ginsburg,scotus_justice,469.067,472.086,--But wouldn't... I'm positing no delay in payment.
+1994.93-1318,0,35240,lawrence_g_wallace,,481.31,492.952,"--That could be, and as far as I'm aware was, the same discount rate, although there might be some further discount for cash payment which is not reflected in anything I've read in this case."
+1994.93-1318,0,15084,ruth_bader_ginsburg,scotus_justice,495.987,499.356,--So does the bureau rate... it certainly doesn't apply to one who pays promptly.
+1994.93-1318,0,35240,lawrence_g_wallace,,504.741,506.926,"So far as I'm aware, it does not."
+1994.93-1318,0,15113,anthony_m_kennedy,scotus_justice,603.173,609.577,"--Well, could the trustee, in an action brought by the shipper, raise this as a defense?"
+1994.93-1318,0,35240,lawrence_g_wallace,,609.577,619.349,"Well, ordinarily it's... it's the other way around that it occurs."
+1994.93-1318,0,15113,anthony_m_kennedy,scotus_justice,659.343,665.58,"Well, I was going to ask you, do you have a position as to whether or not the defense is available in the action itself?"
+1994.93-1318,0,35240,lawrence_g_wallace,,665.58,694.766,"We have briefed the case on the assumption that it would not be available to the shippers under the rationale of the Commercial Metals case, but I think in candor an argument could be made that Commercial Metals should not extend that far because what was directly involved in Commercial Metals was an effort not to pay the transportation rate itself, which--"
+1994.93-1318,0,15113,anthony_m_kennedy,scotus_justice,694.766,714.228,"Well, if it's an invalid rate, then under our K Mart line of... under the K Mart case, it would seem to me that it's just a nonenforceable rate in the court, and it would seem to me that that would almost have to be the premise if you're to prevail here."
+1994.93-1318,0,35240,lawrence_g_wallace,,717.363,722.334,"--Well, we do take some solace from the K Mart case."
+1994.93-1318,0,15084,ruth_bader_ginsburg,scotus_justice,1384.065,1393.671,"Mr. Wallace, did that occur in the Ninth Circuit after reargument and fresh briefing, or when the response to Reiter--"
+1994.93-1318,0,35240,lawrence_g_wallace,,1393.671,1395.873,"--It was rebriefed, I'm told."
+1994.93-1318,0,15084,ruth_bader_ginsburg,scotus_justice,1399.491,1402.793,"--and reargued before the same... not reargued, just rebriefed."
+1994.93-1318,0,35240,lawrence_g_wallace,,1402.793,1404.812,"--Not reargued, just rebriefed, apparently."
+1994.93-1318,0,15049,antonin_scalia,scotus_justice,1490.164,1502.456,"Mr. Wallace, I'm not sure I quite understand what the Government's position is regarding provisions that are in rate filings because they are required to be there by these regulations."
+1994.93-1318,0,35240,lawrence_g_wallace,,1511.312,1539.462,"Well, I wouldn't say quite that they don't enjoy the protections, but it is important that they're not required by statute to be filed rates that govern, rather than any contract to the contrary, the payment for transportation and services, and--"
+1994.93-1318,0,15049,antonin_scalia,scotus_justice,1539.462,1547.235,Aren't there a number of things that might be optionally included in rates but do not have to be included in rates?
+1994.93-1318,0,35240,lawrence_g_wallace,,1547.235,1585.008,"--We think that these are rules relating to the rates, rather than rates themselves, rules about what is to be done in the nonpayment, but part of the relevance of this in the case is that respondents are arguing in some of their amici that there would be discrimination if these rates were not evenhandedly applied to all shippers, even though long after the fact and even though there were violations of these regulations, but the prohibition--"
+1994.93-1318,0,15049,antonin_scalia,scotus_justice,1585.008,1589.062,"Do you think that's because of enforcement discretion, because you could move against some and not against others?"
+1994.93-1318,0,35240,lawrence_g_wallace,,1589.062,1593.014,"--Well, I don't want to make their argument for them."
+1994.93-1318,0,15141,william_h_rehnquist,scotus_justice,1620.699,1622.366,"Very well, Mr. Wallace."
+1994.93-1318,1,34488,leonard_l_gumport,,1623.735,1629.805,"Mr. Chief Justice, and may it please the Court:"
+1994.93-1318,1,15084,ruth_bader_ginsburg,scotus_justice,1712.709,1732.957,"Not if you read the filed rate as the discounted rate, and the liquidated... what you call the bureau rate, what they call the liquidated damage provision, if you read that as simply a credit term, not... the filed rate, the rate is the discounted rate."
+1994.93-1318,1,34488,leonard_l_gumport,,1738.693,1754.036,"Justice Ginsburg, if one could reasonably do that, that would be right, but in this case it was impossible to do that, and there's at least four reasons why it's impossible."
+1994.93-1318,1,15084,ruth_bader_ginsburg,scotus_justice,1783.805,1821.68,"Why shouldn't the Commission's own rules be treated as a supplement to the tariff, since admittedly you can have this higher rate, bureau rate, liquidated damage rate, you can have it only by virtue of the credit provisions, so why not say, as a supplement to this tariff, we read in the ICC conditions, forgetting the liquidated damages, put it in the bill, 90 days passes, send them another notice... why shouldn't those ICC credit regulations in effect be treated as a supplement to the tariff?"
+1994.93-1318,1,34488,leonard_l_gumport,,1821.68,1823.047,"There are several reasons, Your Honor."
+1994.93-1318,1,15049,antonin_scalia,scotus_justice,1851.634,1858.52,"That was for the purpose of a defense by the shipper, isn't that right--"
+1994.93-1318,1,34488,leonard_l_gumport,,1858.52,1859.32,"--Yes, Your--"
+1994.93-1318,1,15049,antonin_scalia,scotus_justice,1859.32,1862.239,--not for purposes of suit by somebody else.
+1994.93-1318,1,34488,leonard_l_gumport,,1887.79,1897.996,"--Your Honor, first of all the ICC could retroactively reject that kind of tariff, it could reject it, it could suspend it, and that is not this case."
+1994.93-1318,1,15049,antonin_scalia,scotus_justice,1897.996,1905.751,"But until it did that, you are entitled to go ahead and execute the contract, in fact obliged to, as you'd say, under--"
+1994.93-1318,1,34488,leonard_l_gumport,,1905.751,1909.719,"Your Honor, let's take your hypothetical, precisely your hypothetical."
+1994.93-1318,1,15049,antonin_scalia,scotus_justice,1921.111,1923.296,--How can you have criminal penalties for complying with Federal law?
+1994.93-1318,1,34488,leonard_l_gumport,,1928.867,1929.417,--Yes.
+1994.93-1318,1,15049,antonin_scalia,scotus_justice,1929.417,1932.585,--because it's there in the rate and it hasn't been set aside by the ICC?
+1994.93-1318,1,34488,leonard_l_gumport,,1932.585,1933.719,"Your Honor, it's--"
+1994.93-1318,1,15049,antonin_scalia,scotus_justice,1933.719,1938.973,"Surely... I mean, I think the law against murder is just a State law, and this is Federal law, which supersedes it."
+1994.93-1318,1,34488,leonard_l_gumport,,1939.339,1968.842,"--Your Honor, it's a question of remedy, because in the Maislin case there was no question, and the Court pointed out in footnote 12 of its decision that if the carrier was lying to shippers about what it's real rates were, it was a crime, and nevertheless in Maislin the Court held that the ICC could not have a valid policy which created a remedy that operated to prevent the carrier from enforcing its filed rate."
+1994.93-1318,1,15084,ruth_bader_ginsburg,scotus_justice,1983.401,1986.219,"But here there is another rate, and that does make it different."
+1994.93-1318,1,34488,leonard_l_gumport,,1986.219,1987.321,"--Your Honor, let me--"
+1994.93-1318,1,15084,ruth_bader_ginsburg,scotus_justice,1987.321,1994.725,"Let me ask you just to clarify this point, which I think is clear, but if it's not, tell me."
+1994.93-1318,1,34488,leonard_l_gumport,,2013.287,2014.306,"--We disagree, Your Honor."
+1994.93-1318,1,15084,ruth_bader_ginsburg,scotus_justice,2014.306,2020.042,"Where do you get the authority to put in the two-track system, other than the credit regulations?"
+1994.93-1318,1,34488,leonard_l_gumport,,2020.042,2030.998,"Your Honor, there is nothing in the regulations of the ICC that says you can't have a loss of discount tariff provision except under our credit regulations."
+1994.93-1318,1,15084,ruth_bader_ginsburg,scotus_justice,2037.052,2045.575,"Please clarify for me, then, the extent to which you disagree with Mr. Wallace, who said this was not possible until the eighties rulemaking."
+1994.93-1318,1,34488,leonard_l_gumport,,2071.559,2087.335,"Your Honor, in 1985, the ICC authorized the filing of tariffs giving discounts for early payment, and in that 1985 regulatory decision they said, we're not sure you can do this, but we're now specifically authorizing you to do it."
+1994.93-1318,1,15084,ruth_bader_ginsburg,scotus_justice,2092.739,2094.757,"I'm sorry, I don't know that you've answered my question."
+1994.93-1318,1,34488,leonard_l_gumport,,2100.744,2102.361,"--Your Honor, I don't know."
+1994.93-1318,1,15049,antonin_scalia,scotus_justice,2189.886,2193.354,You don't consider it a liquidated damages provision.
+1994.93-1318,1,34488,leonard_l_gumport,,2194.688,2195.69,It's a rate.
+1994.93-1318,1,15049,antonin_scalia,scotus_justice,2199.575,2200.008,"Well, indulge me."
+1994.93-1318,1,34488,leonard_l_gumport,,2205.646,2207.896,"--Your Honor, I think arguments could be made either way."
+1994.93-1318,1,15084,ruth_bader_ginsburg,scotus_justice,2215.268,2216.302,You say it's both.
+1994.93-1318,1,34488,leonard_l_gumport,,2216.302,2217.954,Excuse me?
+1994.93-1318,1,15084,ruth_bader_ginsburg,scotus_justice,2217.954,2235.331,"The credit regulations said one way of calculating liquid damages is what you have put in as the bureau rate, and you have followed that way of calculating liquidated damages, so was your answer to Justice Scalia that it's both?"
+1994.93-1318,1,34488,leonard_l_gumport,,2235.331,2247.139,"My answer is, it doesn't matter, but my answer... when put to the test of how would you characterize it, I would say it's a liquidated damages provision."
+1994.93-1318,1,15139,stephen_g_breyer,scotus_justice,2257.579,2259.114,I'm curious abut the statute.
+1994.93-1318,1,34488,leonard_l_gumport,,2310.796,2314.665,"But Your Honor, the question isn't whether the regulations were violated."
+1994.93-1318,1,15139,stephen_g_breyer,scotus_justice,2318.235,2318.535,I know.
+1994.93-1318,1,34488,leonard_l_gumport,,2327.605,2334.811,This statute's language says one important thing about what's to be in the regulations.
+1994.93-1318,1,15139,stephen_g_breyer,scotus_justice,2342.398,2342.916,Maybe I don't have it right.
+1994.93-1318,1,34488,leonard_l_gumport,,2347.368,2348.987,"--""# and preventing discrimination""."
+1994.93-1318,1,15139,stephen_g_breyer,scotus_justice,2348.987,2352.606,"--Yes, but I take it this was governing the payment for transportation."
+1994.93-1318,1,34488,leonard_l_gumport,,2352.606,2370.318,"Your Honor, there's no question that it's governing the payment, but the question is, what is the remedy, and the statutory language tells us not only that they govern payment but that they are to be regulations ""preventing discrimination"", and preventing discrimination is a judicially defined term."
+1994.93-1318,1,15139,stephen_g_breyer,scotus_justice,2385.41,2388.695,You mean their regulations are unlawful because they don't deal with discrimination?
+1994.93-1318,1,34488,leonard_l_gumport,,2388.695,2408.241,"--They are unlawful insofar as they are applied to create a judicial injunction preventing the carrier from performing its statutory duty to collect the filed rate, and that's because, just as in Maislin, there was a broad grant of power to the Commission to prohibit unreasonable practices."
+1994.93-1318,1,15141,william_h_rehnquist,scotus_justice,2435.26,2441.997,And that's simply because of the term... the statute says one of the things is preventing discrimination?
+1994.93-1318,1,34488,leonard_l_gumport,,2445.532,2453.388,"I don't just place all that weight on those two words, which have been defined... were defined by this Court before those words were put in the statute, and the definition was reaffirmed."
+1994.93-1318,1,15141,william_h_rehnquist,scotus_justice,2524.318,2528.703,"Well, why shouldn't the Commission have considerable discretion in interpreting its own regulation?"
+1994.93-1318,1,34488,leonard_l_gumport,,2528.703,2543.779,"Because under Chevron, Your Honor, the Commission has no discretion to interpret its regulations when Congress has specifically addressed the issue, and in this statute, which uses the words, ""preventing discrimination"", which is a judicially defined term--"
+1994.93-1318,1,15141,william_h_rehnquist,scotus_justice,2543.779,2550.349,"That seems to... I still think that just puts a great deal of weight, that it won't bear, on two words in a fairly long statute."
+1994.93-1318,1,34488,leonard_l_gumport,,2550.349,2556.837,"--Your Honor, I can only... I can only refer--"
+1994.93-1318,1,15141,william_h_rehnquist,scotus_justice,2556.837,2557.887,"Well, I realize."
+1994.93-1318,1,34488,leonard_l_gumport,,2569.327,2572.679,--This case is a far more compelling case than Maislin.
+1994.93-1318,1,15113,anthony_m_kennedy,scotus_justice,2601.782,2603.484,"Mr. Gumport, can I just clarify one thing?"
+1994.93-1318,1,34488,leonard_l_gumport,,2606.935,2609.304,"Invalid as applied, not on their face."
+1994.93-1318,1,15060,john_paul_stevens,scotus_justice,2609.304,2612.923,What... are there any valid applications of the regulations?
+1994.93-1318,1,34488,leonard_l_gumport,,2612.923,2613.539,Absolutely.
+1994.93-1318,1,15060,john_paul_stevens,scotus_justice,2627.433,2630.801,So the Commission's only remedy is to an injunction against future extensions--
+1994.93-1318,1,34488,leonard_l_gumport,,2630.801,2632.92,"--Absolutely not, Justice Stevens."
+1994.93-1318,1,15113,anthony_m_kennedy,scotus_justice,2641.609,2643.676,--Let me just... I want to be sure I understand your position.
+1994.93-1318,1,34488,leonard_l_gumport,,2650.246,2650.696,--Absolutely.
+1994.93-1318,1,15060,john_paul_stevens,scotus_justice,2651.513,2656.15,The regulations on their face do command conduct that the ICC can command.
+1994.93-1318,1,34488,leonard_l_gumport,,2656.15,2657.117,"Yes, Your Honor."
+1994.93-1318,1,15060,john_paul_stevens,scotus_justice,2657.117,2660.286,And your client has not obeyed that command?
+1994.93-1318,1,34488,leonard_l_gumport,,2660.286,2661.638,"Your Honor, that's not--"
+1994.93-1318,1,15113,anthony_m_kennedy,scotus_justice,2661.638,2662.571,Is that true?
+1994.93-1318,1,34488,leonard_l_gumport,,2662.571,2663.488,"--That's not accurate, Your Honor."
+1994.93-1318,1,15113,anthony_m_kennedy,scotus_justice,2671.409,2672.326,Let me just shorten it a little.
+1994.93-1318,1,34488,leonard_l_gumport,,2676.147,2678.08,"I'm... no, I am not, Your Honor."
+1994.93-1318,2,35240,lawrence_g_wallace,,3299.064,3299.514,Well--
+1994.93-1318,2,15049,antonin_scalia,scotus_justice,3299.514,3301.45,That doesn't seem to make much sense.
+1994.93-1318,2,35240,lawrence_g_wallace,,3301.45,3304.152,--that isn't the only thing that I'm saying.
+1994.93-1318,2,15141,william_h_rehnquist,scotus_justice,3444.709,3445.995,"Thank you, Mr. Wallace."

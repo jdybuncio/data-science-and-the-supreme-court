@@ -1,0 +1,169 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1985.85-217,0,15073,warren_e_burger,scotus_justice,0.0,22.829,"Mr. Goldburg, I think you may proceed whenever you're ready."
+1985.85-217,0,19013,charles_r_goldburg,,22.829,26.281,"Mr. Chief Justice, and may it please the Court:"
+1985.85-217,0,15141,william_h_rehnquist,scotus_justice,105.115,111.971,"Then it is your submission, Mr. Goldburg, that a defense like this could have been raised even for the first time on appeal?"
+1985.85-217,0,19013,charles_r_goldburg,,111.971,113.604,"That is correct, Justice Rehnquist."
+1985.85-217,0,15141,william_h_rehnquist,scotus_justice,113.604,122.077,"And what if the judgment had finally become final, could you collaterally attack the judgment because of lack of jurisdiction?"
+1985.85-217,0,19013,charles_r_goldburg,,122.077,130.349,"No, I do not believe that the judgment could be collaterally attacked."
+1985.85-217,0,15141,william_h_rehnquist,scotus_justice,150.862,164.772,"I got the impression from your brief that some of your arguments about subject matter jurisdiction were based on the idea that it can be raised, or based on cases arising in the federal courts."
+1985.85-217,0,19013,charles_r_goldburg,,169.974,185.685,Because in Garmon I believe that this Court held that Congress deprived the states of subject matter jurisdiction to rule on this type of a controversy.
+1985.85-217,0,15141,william_h_rehnquist,scotus_justice,189.72,198.659,"Well, of course, the Supreme Court of Alabama answered that by saying that our trial courts of general jurisdiction have jurisdiction to try in this representation case."
+1985.85-217,0,19013,charles_r_goldburg,,198.659,222.792,"--But the fact that... well, I think all states have courts of general jurisdiction, and if merely by the state giving one of its trial courts general jurisdiction they could overrule Congress on a decision to take subject matter jurisdiction away, national labor policy would be frustrated."
+1985.85-217,0,15141,william_h_rehnquist,scotus_justice,222.792,226.762,"Well, does the term... does the Garmon case use the term subject matter jurisdiction?"
+1985.85-217,0,19013,charles_r_goldburg,,226.762,228.562,It says jurisdiction?
+1985.85-217,0,15141,william_h_rehnquist,scotus_justice,228.562,232.047,"Yes, but why do you use the term subject matter jurisdiction?"
+1985.85-217,0,19013,charles_r_goldburg,,232.047,278.628,"Well, I think that's the only jurisdiction that the Court could have been talking about because the Court was very concerned with a variety of local procedures being applied by the states and a variety of attitudes being possessed by the states on labor controversies, and I think the only way that Congress could ensure that these types of issues were submitted to the Board and that the conduct that Congress intended to be protected under Section 7 would be protected would be if state courts did not have the jurisdiction to reach the merits of this type of controversy."
+1985.85-217,0,15141,william_h_rehnquist,scotus_justice,278.628,284.432,"Well, do you know why this point wasn't raised until after trial in this case?"
+1985.85-217,0,19013,charles_r_goldburg,,284.432,286.801,I think it was purely inadvertence.
+1985.85-217,0,15141,william_h_rehnquist,scotus_justice,289.003,299.109,"It wasn't... well, I suppose the Alabama courts could look at it as an effort to get a favorable judgment on the merits, and if you don't get that, then you raise this point afterward."
+1985.85-217,0,19013,charles_r_goldburg,,299.109,309.147,But I just don't see how we can infer a strategic motivation because we... you say favorable judgment.
+1985.85-217,0,15141,william_h_rehnquist,scotus_justice,319.188,323.974,"Well, you know, I agree that it's perfectly possible, I suppose, the union could win the case before the jury, wasn't it?"
+1985.85-217,0,19013,charles_r_goldburg,,323.974,336.234,"--Well, if the defense of federal preemption had not been upheld, say, on a pretrial motion, they still would have gotten a jury trial."
+1985.85-217,0,15141,william_h_rehnquist,scotus_justice,372.823,384.548,"Well, that would be a rather strange rule of law to require a trial court to raise an issue that a party was in a far better position to raise than the trial court."
+1985.85-217,0,19013,charles_r_goldburg,,384.548,393.236,"Well, under the Alabama rules of civil procedure, the court is to raise subject matter jurisdiction sua sponte."
+1985.85-217,0,15141,william_h_rehnquist,scotus_justice,396.438,413.298,"Well, yes, but presumably, you know, you have your typical generalist trial court judge has to be familiar with a number of different areas of law, to expect him to raise it when a party in whose interest it is to raise it doesn't know enough to raise it would be a rather strange rule."
+1985.85-217,0,19013,charles_r_goldburg,,413.298,431.009,But I think this Court said in Lockridge that the Court designed the arguably protected standard so state trial courts could very easily police themselves in this area.
+1985.85-217,0,15060,john_paul_stevens,scotus_justice,490.9,499.922,"Mr. Goldburg, can I ask you, do you think it makes any difference what kind preemption it is?"
+1985.85-217,0,19013,charles_r_goldburg,,518.067,524.454,"Justice Stevens, as I read Garmon, the same standard applies for arguable or actual."
+1985.85-217,0,15060,john_paul_stevens,scotus_justice,524.454,537.695,"Well, if you take that view, supposing you had a case in which you had an arguable remedy before the labor board so that you can't go forward in the state court, and the party went before the labor board and then lost and determined that it no longer was arguably prohibited?"
+1985.85-217,0,19013,charles_r_goldburg,,541.833,559.127,"Yes, I think once there has been a clear determination by the labor board, not just the regional director, by at least general counsel of the labor board, once there has been a clear determination, that supervisors are involved, I believe at that point that the states could apply their law, that they would have jurisdiction."
+1985.85-217,0,15060,john_paul_stevens,scotus_justice,559.127,565.781,So it is conceivable that there is a temporary total foreclosure of jurisdiction rather than just sort of a defer to the--
+1985.85-217,0,19013,charles_r_goldburg,,565.781,566.398,Yes.
+1985.85-217,0,15071,byron_r_white,scotus_justice,566.398,573.804,--But there has to... don't you think there has to be some opportunity to get the arguable question before the board?
+1985.85-217,0,19013,charles_r_goldburg,,573.804,574.637,Well--
+1985.85-217,0,15071,byron_r_white,scotus_justice,574.637,579.708,How could this plaintiff have proceeded before the board?
+1985.85-217,0,19013,charles_r_goldburg,,579.708,584.91,--He could have filed a charge under Section 8(a)(1) or Section 8(a)(3)--
+1985.85-217,0,15071,byron_r_white,scotus_justice,584.91,585.41,About what?
+1985.85-217,0,19013,charles_r_goldburg,,585.41,594.55,"--That his discharge was coercive, that is, that the other superintendents in the unit were discouraged--"
+1985.85-217,0,15071,byron_r_white,scotus_justice,594.55,598.835,He files it... he files it under... he files against the company?
+1985.85-217,0,19013,charles_r_goldburg,,598.835,601.871,"--Yes, file against the company under 8(a)(1) or 8(a)(3)."
+1985.85-217,0,15071,byron_r_white,scotus_justice,601.871,605.323,How about against the union?
+1985.85-217,0,19013,charles_r_goldburg,,609.31,610.777,"Yes, but--"
+1985.85-217,0,15071,byron_r_white,scotus_justice,610.777,613.512,Can a union misrepresentation be an unfair labor practice?
+1985.85-217,0,19013,charles_r_goldburg,,613.512,619.349,--A union misrepresentation can generally be an unfair labor practice.
+1985.85-217,0,15071,byron_r_white,scotus_justice,628.789,643.864,"Well, then, what... how can you possibly argue that this plaintiff should be foreclosed from a state court suit when there is no way that he could get any remedy against the union before the board?"
+1985.85-217,0,19013,charles_r_goldburg,,643.864,653.054,"--Well, if he had followed his procedure before the board, he wouldn't have needed a remedy as far as the ILA was concerned."
+1985.85-217,0,15071,byron_r_white,scotus_justice,691.881,692.847,"Well, that's way down the line."
+1985.85-217,0,19013,charles_r_goldburg,,692.847,693.147,Yes.
+1985.85-217,0,15060,john_paul_stevens,scotus_justice,730.922,734.374,"Mr. Goldburg, could I go back to the question I asked you a minute ago?"
+1985.85-217,0,19013,charles_r_goldburg,,734.374,735.008,Yes.
+1985.85-217,0,15060,john_paul_stevens,scotus_justice,735.008,736.743,Because I'm still trying to think your position through.
+1985.85-217,0,19013,charles_r_goldburg,,760.541,768.195,"Well, my view is they would have to dismiss the case without prejudice since they wouldn't have any subject matter jurisdiction."
+1985.85-217,0,15060,john_paul_stevens,scotus_justice,768.195,775.451,"Without prejudice, and then, I take it, if they then come back later after losing before the labor board, you would be able to plead the statute of limitations."
+1985.85-217,0,19013,charles_r_goldburg,,775.451,790.978,"Well, I... many states have an extension of the statute of limitations for that type of a situation where, say that the first action is dismissed on a technical ground that doesn't make--"
+1985.85-217,0,15060,john_paul_stevens,scotus_justice,790.978,791.695,It's not a technical ground.
+1985.85-217,0,19013,charles_r_goldburg,,793.43,799.75,--But subject matter jurisdiction is addressed to the jurisdiction of the court.
+1985.85-217,0,15060,john_paul_stevens,scotus_justice,799.75,800.333,Right.
+1985.85-217,0,19013,charles_r_goldburg,,800.333,808.756,It's not addressed to the question of whether substantively plaintiff would have had a course of action if the court had jurisdiction.
+1985.85-217,0,15071,byron_r_white,scotus_justice,873.215,881.22,What... was there a collective bargaining contract?
+1985.85-217,0,19013,charles_r_goldburg,,884.506,906.103,"No, the parties did not proceed to the point of collective bargaining although the superintendents signed authorization cards; the union never got to the point of sitting down with the employer, perhaps once the coercive discharges of Davis and Trione took place, the organizational drive really fell apart."
+1985.85-217,0,15071,byron_r_white,scotus_justice,1105.465,1108.834,But only against... only against the company.
+1985.85-217,0,19013,charles_r_goldburg,,1108.834,1110.952,--Yes.
+1985.85-217,0,15141,william_h_rehnquist,scotus_justice,1121.075,1122.76,But that's rather scant relief.
+1985.85-217,0,19013,charles_r_goldburg,,1131.115,1134.817,"Justice Rehnquist, I don't believe it's scant relief at all."
+1985.85-217,0,15141,william_h_rehnquist,scotus_justice,1148.725,1166.703,"Well, if... it is scant relief, I suggest, to a plaintiff who says I have a complaint for misrepresentation against B to tell him, well, you can't sue B for misrepresentation but you can sue A for something else."
+1985.85-217,0,19013,charles_r_goldburg,,1166.703,1173.257,"But if he gets complete relief, I think that satisfies the state's concern."
+1985.85-217,0,15141,william_h_rehnquist,scotus_justice,1173.257,1188.034,"Well, I would assume that Alabama feels it has a concern to protect its people against misrepresentation, and part of that is making plaintiffs whole, but part of it is mulcting defendants and damages."
+1985.85-217,0,19013,charles_r_goldburg,,1188.034,1205.328,But I don't think that the state can properly focus on the union's activity until there has been a clear determination that it's supervisors as opposed to employees that are--
+1985.85-217,0,15071,byron_r_white,scotus_justice,1205.328,1219.755,"Well, why do you say that the only... under our cases, that the board is the only agency that is entitled to decide whether somebody is a supervisor or an employee."
+1985.85-217,0,19013,charles_r_goldburg,,1219.755,1233.165,"--Well, in... there's a case, I believe it's the Perko case, that this Court said that the issue is wisely entrusted to the NLRB because--"
+1985.85-217,0,15071,byron_r_white,scotus_justice,1233.165,1240.069,"Well, if it's entrusted, it is entitled to decide it, that's right, but exclusive of any other thing?"
+1985.85-217,0,19013,charles_r_goldburg,,1240.069,1261.732,"--Well, as I read Hanna Mine and also the Beasley case from this Court... I believe it is Beasley v. Food Fair, I believe that what the Court was saying there is that the states cannot apply their law to--"
+1985.85-217,0,15071,byron_r_white,scotus_justice,1261.732,1284.114,"Well, what if this employee, this superintendent, had gone to the board saying I was illegally fired, I was an employee, and he files it with the regional director, the regional director says you're a supervisor, friend; you have no protection, and he appeals it to the general counsel, the general counsel says the same thing."
+1985.85-217,0,19013,charles_r_goldburg,,1304.677,1307.213,"--But at that point, the Court--"
+1985.85-217,0,15071,byron_r_white,scotus_justice,1307.213,1317.235,And would you then... wouldn't you then say that the state court... certainly you think it is bound by what the board said?
+1985.85-217,0,19013,charles_r_goldburg,,1317.235,1321.723,--That is an issue of collateral estoppel which would be up to the state court at that point.
+1985.85-217,0,15071,byron_r_white,scotus_justice,1321.723,1323.223,"Yes, but... yes."
+1985.85-217,0,19013,charles_r_goldburg,,1330.309,1331.943,Yes--
+1985.85-217,0,15071,byron_r_white,scotus_justice,1331.943,1346.319,"--I mean, the only way that a collateral estoppel issue could come up is if you brought it up, and the only... and if you say the court could, the state court could adjudicate it, it can adjudicate whether somebody is a supervisor."
+1985.85-217,0,19013,charles_r_goldburg,,1346.319,1357.393,--My argument at that point would be that I wouldn't be collaterally estopped by the board determination because there is no opportunity for judicial review.
+1985.85-217,0,15071,byron_r_white,scotus_justice,1369.434,1373.82,"I know, but there would be the issue, the state court would have to decide it."
+1985.85-217,0,19013,charles_r_goldburg,,1373.82,1375.005,But one--
+1985.85-217,0,15071,byron_r_white,scotus_justice,1375.005,1376.188,Was he a supervisor or wasn't he?
+1985.85-217,0,19013,charles_r_goldburg,,1376.188,1384.794,"--But once there's been a clear determination, the state only has jurisdiction to rule on that issue once there's been a clear determination."
+1985.85-217,0,15071,byron_r_white,scotus_justice,1386.563,1389.447,You mean once the board's opportunity to decide it has been exhausted.
+1985.85-217,0,19013,charles_r_goldburg,,1389.447,1389.964,--Yes.
+1985.85-217,0,15071,byron_r_white,scotus_justice,1419.867,1442.149,"What if... what if these gentlemen had gone to this, had gone to a lawyer, had gone out and hired a lawyer and said can we organize, and the lawyer says of course you can organize, but if you are a supervisor, you have no protection."
+1985.85-217,0,19013,charles_r_goldburg,,1484.643,1485.543,--That's a--
+1985.85-217,0,15071,byron_r_white,scotus_justice,1485.543,1491.063,"Would they have to say sorry, take the supervisor question to the board?"
+1985.85-217,0,19013,charles_r_goldburg,,1491.063,1495.015,"--Justice White, that's a stronger case for the plaintiff."
+1985.85-217,0,15071,byron_r_white,scotus_justice,1496.217,1498.819,"Well, why is there a difference between the union and that lawyer?"
+1985.85-217,0,19013,charles_r_goldburg,,1498.819,1505.307,--Because I don't think there's a fiduciary obligation between the union and the prospective--
+1985.85-217,0,15071,byron_r_white,scotus_justice,1505.307,1506.223,There isn't?
+1985.85-217,0,19013,charles_r_goldburg,,1506.223,1514.746,--I don't believe that the... that Mr. Davis was a member of the union at that point.
+1985.85-217,0,15071,byron_r_white,scotus_justice,1529.172,1530.988,"Well, that cuts both ways, too, doesn't it then?"
+1985.85-217,0,19013,charles_r_goldburg,,1540.128,1549.067,"--But because there's a Section 7 interest, the union is entitled to more leeway than that which an attorney would be."
+1985.85-217,0,15071,byron_r_white,scotus_justice,1550.769,1559.775,And this is you sole answer to my... to you are trying to distinguish between a union and that lawyer I was talking about a while ago.
+1985.85-217,0,19013,charles_r_goldburg,,1559.775,1570.147,--Because there's a federal statutory right involved that grants the union more leeway than an attorney would have because there is no federal statute protecting the right to practice law.
+1985.85-217,0,15071,byron_r_white,scotus_justice,1606.005,1610.79,"Well, is that a federal question?"
+1985.85-217,0,19013,charles_r_goldburg,,1610.79,1619.829,"I believe that there are several cases, Linn and Farmer, where this Court said that--"
+1985.85-217,0,15071,byron_r_white,scotus_justice,1619.829,1625.65,"Well, we would have to extend that, those cases, to this situation, to say malice."
+1985.85-217,0,19013,charles_r_goldburg,,1628.184,1644.194,"--Yes, but in Linn and Farmer, this Court also held that the state trial court must be under a strict duty to make sure that the damages awarded are not excessive, so the excessiveness, I believe, would be a federal question."
+1985.85-217,0,15141,william_h_rehnquist,scotus_justice,1644.194,1646.463,Did you raise this argument before the Supreme Court of Alabama?
+1985.85-217,0,19013,charles_r_goldburg,,1646.463,1647.332,Yes.
+1985.85-217,0,15141,william_h_rehnquist,scotus_justice,1647.332,1649.482,Did they pass on it?
+1985.85-217,0,19013,charles_r_goldburg,,1649.482,1658.871,They didn't reach it per se because they felt that the issue of federal preemption had been waived.
+1985.85-217,0,15141,william_h_rehnquist,scotus_justice,1663.275,1671.03,"They say at the end of their opinion, we have carefully reviewed the appellant's alternative state law grounds for reversal and find each of them to be without merit."
+1985.85-217,0,15071,byron_r_white,scotus_justice,1671.03,1679.517,I am surprised that they didn't at least mention your Linn argument if you had made it.
+1985.85-217,0,19013,charles_r_goldburg,,1679.517,1695.578,"Well, I think that in their footnote they said that even if the defense had not been waived on its merits, they didn't think that there was any merit to the defense of federal preemption."
+1985.85-217,0,15071,byron_r_white,scotus_justice,1695.578,1722.646,"Well, suppose we agree with you that the defense wasn't waived and the preemption issue here, you think the state court has actually decided the issue, and that if we agree with you, we also then have to face the preemption question."
+1985.85-217,0,19013,charles_r_goldburg,,1722.646,1725.415,"That's correct, Justice White, based on their footnote."
+1985.85-217,0,15073,warren_e_burger,scotus_justice,1728.283,1739.174,Mr. Biles?
+1985.85-217,1,17487,bayless_e_biles,,1739.174,1742.292,"Mr. Chief Justice, and may it please the Court:"
+1985.85-217,1,15071,byron_r_white,scotus_justice,1797.343,1807.549,"If they were wrong on that, however, I take it that the Alabama law would be that you could raise that subject matter jurisdiction issue at any time."
+1985.85-217,1,17487,bayless_e_biles,,1807.549,1812.269,If they were wrong with respect to--
+1985.85-217,1,15071,byron_r_white,scotus_justice,1812.269,1819.172,Let's assume that they were wrong as to whether they thought preemption was subject matter jurisdiction issue.
+1985.85-217,1,17487,bayless_e_biles,,1826.843,1833.516,"--If we are talking about the type of subject matter jurisdiction that cannot be waived, certainly."
+1985.85-217,1,15071,byron_r_white,scotus_justice,1833.516,1838.068,"Well, you mean there is, there is a type of subject matter jurisdiction in Alabama that--"
+1985.85-217,1,17487,bayless_e_biles,,1838.068,1840.17,I would like to take that back.
+1985.85-217,1,15071,byron_r_white,scotus_justice,1844.824,1845.307,--All right.
+1985.85-217,1,17487,bayless_e_biles,,1845.307,1847.223,"But Alabama, as--"
+1985.85-217,1,15071,byron_r_white,scotus_justice,1847.223,1853.794,"So if they had thought preemption was subject matter jurisdiction, it would not have been waived by failure to raise it."
+1985.85-217,1,17487,bayless_e_biles,,1853.794,1854.579,--That is correct.
+1985.85-217,1,15141,william_h_rehnquist,scotus_justice,1856.596,1864.702,What sort of matters does the Alabama Supreme Court consider to be subject matter jurisdiction so far as the circuit courts go?
+1985.85-217,1,17487,bayless_e_biles,,1864.702,1872.124,--Those matters which truly challenge the power of the Court to hear the case.
+1985.85-217,1,15141,william_h_rehnquist,scotus_justice,1900.375,1903.977,Does the circuit court have a limited jurisdiction moneywise?
+1985.85-217,1,17487,bayless_e_biles,,1903.977,1906.679,"No, Your Honor, it does not."
+1985.85-217,1,15071,byron_r_white,scotus_justice,1906.679,1913.384,What is your answer to the... are you familiar with the Curry case?
+1985.85-217,1,17487,bayless_e_biles,,1913.384,1918.153,"No, sir, but if you could give me the facts, I would certainly try--"
+1985.85-217,1,15071,byron_r_white,scotus_justice,1918.153,1920.705,"Well, it is a question about subject matter jurisdiction."
+1985.85-217,1,17487,bayless_e_biles,,1920.705,1927.442,--I was going to address the Michigan v. Long case which--
+1985.85-217,1,15071,byron_r_white,scotus_justice,1927.442,1929.961,You go ahead.
+1985.85-217,1,17487,bayless_e_biles,,1932.496,1933.163,--Thank you.
+1985.85-217,1,15071,byron_r_white,scotus_justice,2428.349,2437.038,Part of their story also was that they didn't say that we will get your job back if you're fired.
+1985.85-217,1,17487,bayless_e_biles,,2437.038,2441.092,"Yes, sir, that was part of their story, and it didn't go over with--"
+1985.85-217,1,15071,byron_r_white,scotus_justice,2441.092,2448.496,"And... well, I know, but their story was that they said that if it turns out you're a supervisor, why, you can be fired."
+1985.85-217,1,17487,bayless_e_biles,,2450.532,2452.015,--That was Mr. Holland's story.
+1985.85-217,1,15071,byron_r_white,scotus_justice,2452.015,2453.531,"Yes, that was part of their story."
+1985.85-217,1,17487,bayless_e_biles,,2453.531,2467.291,It was interesting to note in the facts of the case that Mr. Holland also put on two other people who were with the union who were at that infamous meeting that night who didn't remember that Mr. Holland said those things.
+1985.85-217,1,15071,byron_r_white,scotus_justice,2532.817,2541.489,Do you think the... do you think the submission to the regional director which was unappealed sort of ends the matter anyway?
+1985.85-217,1,17487,bayless_e_biles,,2541.489,2562.236,"Your Honor, this Court has pointed out in Hanna Mining that a final ruling by the general counsel clears it up with unclouded legal significance, but this Court has never held that in the first instance you must have that type of question answered by the National Labor Relations Board."
+1985.85-217,1,15071,byron_r_white,scotus_justice,2564.271,2565.354,How about my question?
+1985.85-217,1,17487,bayless_e_biles,,2582.816,2585.102,"--That's not my position, no, sir."
+1985.85-217,1,15071,byron_r_white,scotus_justice,2631.797,2641.153,"What, on their appeal from the judgment of the trial court, did they appeal directly to the Alabama Supreme Court?"
+1985.85-217,1,17487,bayless_e_biles,,2641.153,2641.819,"Yes, sir."
+1985.85-217,1,15071,byron_r_white,scotus_justice,2641.819,2650.175,Did they then... did the union then claim that this gentleman was not a supervisor?
+1985.85-217,1,17487,bayless_e_biles,,2650.175,2655.662,They did.
+1985.85-217,1,15071,byron_r_white,scotus_justice,2655.662,2659.947,"You mean even though they had conceded it, you say, in the trial court?"
+1985.85-217,1,17487,bayless_e_biles,,2659.947,2674.457,"They did, just as they are arguing to this Court today, that he is arguably an employee when there are absolutely no facts on the record to support that he was an employee."
+1985.85-217,1,15071,byron_r_white,scotus_justice,2674.457,2679.778,"Alabama Supreme Court didn't, because of their disposition, didn't discuss supervisor or not, did it?"
+1985.85-217,1,17487,bayless_e_biles,,2679.778,2680.711,"No, sir."
+1985.85-217,1,15071,byron_r_white,scotus_justice,2694.621,2749.173,"What would you say if an employer seeks to get an injunction against a union on the grounds that it's... he's picketing to get representation when, at a time when he shouldn't, when it shouldn't, and the state court issues an injunction against the picketing, and against the argument that this is an arguable unfair labor practice, and comes up here and we say that the state court should not have issued the injunction at all, and we say we reverse the Judgment below as beyond the power of the Georgia courts."
+1985.85-217,1,17487,bayless_e_biles,,2771.288,2776.24,There is no question but that there are--
+1985.85-217,1,15071,byron_r_white,scotus_justice,2776.24,2778.458,Did you cite Curry in your brief?
+1985.85-217,1,17487,bayless_e_biles,,2778.458,2779.258,"--No, sir, I did not."
+1985.85-217,1,15071,byron_r_white,scotus_justice,2816.067,2816.4,Correct.
+1985.85-217,1,17487,bayless_e_biles,,2831.493,2839.58,"Yes, sir, but they never reached the merits of the preemption issue."
+1985.85-217,1,15060,john_paul_stevens,scotus_justice,2839.58,2842.032,Just said what they would do if they did reach the merits.
+1985.85-217,1,17487,bayless_e_biles,,2842.032,2843.484,Said what they would do if they did reach it.
+1985.85-217,1,15060,john_paul_stevens,scotus_justice,2843.484,2843.867,Yes.
+1985.85-217,1,17487,bayless_e_biles,,2843.867,2858.994,"This Court further has held in Sears that with respect to the ILA's argument, and their argument is that they are arguably protected, this Court... and I quote, if I may..."
+1985.85-217,1,15071,byron_r_white,scotus_justice,2956.574,2968.881,"Well, you don't suggest that this plaintiff had any remedy before the board against the union, do you?"
+1985.85-217,1,17487,bayless_e_biles,,2968.881,2969.733,"--No, sir."
+1985.85-217,1,15071,byron_r_white,scotus_justice,2972.3,2974.369,The only remedy he had was against the employer?
+1985.85-217,1,17487,bayless_e_biles,,2974.369,2977.137,"--That's the way I read it, your Honor."
+1985.85-217,1,15073,warren_e_burger,scotus_justice,3086.276,3088.009,Do you have anything further?
+1985.85-217,2,19013,charles_r_goldburg,,3089.811,3109.991,"First of all, to respond to what Justice White asked on the Curry case, we should have cited the Curry case in our brief, but I believe the Court said in the Curry case that Plaintiff alleged in the Complaint allegations which show that--"
+1985.85-217,2,15071,byron_r_white,scotus_justice,3109.991,3113.943,"Yes, but if you had cited it, the opposition might have had a good response to it."
+1985.85-217,2,19013,charles_r_goldburg,,3113.943,3132.507,"--To respond to what Justice Stevens asked on the statute of limitations problem, there is also nothing to stop the state from establishing a toll for administrative proceedings of their limitations statute."
+1985.85-217,2,15073,warren_e_burger,scotus_justice,3181.337,3183.071,"Thank you, gentlemen."

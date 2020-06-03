@@ -1,0 +1,74 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2014.13-352,0,15086,john_g_roberts_jr,scotus_justice,0.0,6.237,"We'll hear argument first this morning in Case 13352, B&B Hardware v. Hargis Industries."
+2014.13-352,0,45148,william_m_jay,,7.087,9.706,"Mr. Chief Justice, and may it please the Court:"
+2014.13-352,0,15084,ruth_bader_ginsburg,scotus_justice,34.571,53.635,"Mr. Jay, there are exceptions to preclusion even though you would see the identical issue, and one of them is when the stakes are higher in the second proceeding than in the first and, indeed, the restatement of judgments."
+2014.13-352,0,45148,william_m_jay,,66.358,76.231,"There is an exception for when 5 when the stakes are different, Justice Ginsburg, but I think that the difference has to be a difference of an order of magnitude greater than we're dealing with here."
+2014.13-352,0,15084,ruth_bader_ginsburg,scotus_justice,98.93,102.882,I don't think that your example of small claims court is the closest.
+2014.13-352,0,45148,william_m_jay,,127.699,136.972,"The matter immediately in controversy, though, in -- in this case, the matter is the same and the -- the way that--"
+2014.13-352,0,15084,ruth_bader_ginsburg,scotus_justice,136.972,142.109,"The matter of controversy is registration, and in the second proceeding, it's infringement."
+2014.13-352,0,45148,william_m_jay,,142.109,143.459,--That's correct.
+2014.13-352,0,15049,antonin_scalia,scotus_justice,197.26,197.676,I suppose--
+2014.13-352,0,15131,sonia_sotomayor,scotus_justice,197.676,197.926,"Well, just--"
+2014.13-352,0,15049,antonin_scalia,scotus_justice,197.926,208.132,"--I suppose in one sense the -- the trademark determination is broader rather than narrower than the infringement determination, right?"
+2014.13-352,0,45148,william_m_jay,,222.141,230.411,"Well, in the -- in an opposition or cancellation proceeding, Justice Scalia, there -- there is a concrete dispute between the holders of two marks."
+2014.13-352,0,15084,ruth_bader_ginsburg,scotus_justice,238.251,242.136,But -- but the person who uses the mark could continue to use it.
+2014.13-352,0,45148,william_m_jay,,259.247,268.203,"But I think you could say the same, Justice Ginsburg, if the Trademark Trial and Appeal Board's decision were appealed to a U.S. District Court or to the Federal Circuit."
+2014.13-352,0,15068,samuel_a_alito_jr,scotus_justice,305.39,319.633,"Would you agree that if we accept your argument, the number of cases in which the elements of issue preclusion will be met by the TTAB proceeding will be relatively rare?"
+2014.13-352,0,45148,william_m_jay,,328.323,340.381,"I think, Justice Alito, that the number of circumstances in which the -- our rule would apply depends on the number of circumstances in which people seek to register the same goods that they are actually using."
+2014.13-352,0,15131,sonia_sotomayor,scotus_justice,379.606,383.06,"--I have a bit of a problem, okay?"
+2014.13-352,0,45148,william_m_jay,,432.806,436.444,"That is certainly our position, that the proceedings were the same."
+2014.13-352,0,15131,sonia_sotomayor,scotus_justice,449.518,449.802,No.
+2014.13-352,0,45148,william_m_jay,,455.922,456.338,"--Oh, I see."
+2014.13-352,0,15131,sonia_sotomayor,scotus_justice,456.338,459.724,So what's the charge the court gives?
+2014.13-352,0,45148,william_m_jay,,466.044,466.46,I think--
+2014.13-352,0,15131,sonia_sotomayor,scotus_justice,466.46,468.56,It didn't have evidence that existed before.
+2014.13-352,0,45148,william_m_jay,,468.56,472.281,"--Well, I think that there are -- there are two different questions."
+2014.13-352,0,15131,sonia_sotomayor,scotus_justice,511.323,514.358,So you're talking about the effects of full preclusion.
+2014.13-352,0,45148,william_m_jay,,514.358,515.441,--Well--
+2014.13-352,0,15131,sonia_sotomayor,scotus_justice,515.441,516.66,"If you could have, you should have."
+2014.13-352,0,45148,william_m_jay,,516.66,518.227,"--If you could have, you should have."
+2014.13-352,0,15139,stephen_g_breyer,scotus_justice,561.355,565.557,Suppose the -- and maybe this is what is worrying some people.
+2014.13-352,0,45148,william_m_jay,,596.695,598.88,--Louis Vuitton thinks this or the--
+2014.13-352,0,15139,stephen_g_breyer,scotus_justice,598.88,607.986,"No, the -- the competitor in one small thing like a lipstick or something, he doesn't think there is going to be Louis Vuitton lipstick, though there may be."
+2014.13-352,0,45148,william_m_jay,,640.623,654.881,"--Well, it is true that whichever forum he goes to first, whether it's the trademark board or a court considering infringement, yes, he's supposed to give his all the first time because the judgment can be preclusive in future litigation."
+2014.13-352,0,15094,elena_kagan,scotus_justice,750.959,757.513,Do you happen to know what proportion of people in the situation that Justice Breyer indicated do go to the board?
+2014.13-352,0,45148,william_m_jay,,762.084,764.119,"That's a difficult question, Justice Kagan."
+2014.13-352,0,15113,anthony_m_kennedy,scotus_justice,819.353,824.824,"When you say “ to final judgment ”, you mean final judgment before the board or file judgment after review in the courts?"
+2014.13-352,0,45148,william_m_jay,,824.824,827.109,"I mean final judgment before the board, Justice Kennedy."
+2014.13-352,0,15131,sonia_sotomayor,scotus_justice,843.721,852.41,You have alternatively argued in your brief for some form of deference if we're not going to call it preclusive.
+2014.13-352,0,45148,william_m_jay,,887.583,890.433,"The -- first, Justice Sotomayor, let me be clear."
+2014.13-352,0,15084,ruth_bader_ginsburg,scotus_justice,951.006,954.875,Were those in days before you could get a jury trial in a Title VII case?
+2014.13-352,0,45148,william_m_jay,,954.875,958.177,"The Court, I believe, had not held that at that point, Justice Ginsburg."
+2014.13-352,0,15084,ruth_bader_ginsburg,scotus_justice,971.753,981.692,What disturbed the Eighth Circuit on that point was that the jury would be powerfully confused; it has enough to deal with what the charge in the infringement case is.
+2014.13-352,0,45148,william_m_jay,,981.692,996.201,"It -- it certainly would require an explanation of what went on, but I think that that would have been better than instructing the jury, as was done here, that the two proceedings involved completely different issues and that the jury should not give it any weight at all."
+2014.13-352,0,15086,john_g_roberts_jr,scotus_justice,999.153,999.986,"Thank you, counsel."
+2014.13-352,1,29118,john_f_bash,,1007.007,1008.826,"Mr. Chief Justice, and may it please the Court:"
+2014.13-352,1,15094,elena_kagan,scotus_justice,1017.948,1022.286,"Mr. Bash, that's a very much stronger statement than your briefs make."
+2014.13-352,1,29118,john_f_bash,,1030.106,1038.711,"--Well, the likely's or probably's were an opening for Respondent to identify a material difference between the suit and the board proceeding."
+2014.13-352,1,15131,sonia_sotomayor,scotus_justice,1073.983,1074.267,All right.
+2014.13-352,1,29118,john_f_bash,,1095.498,1102.652,"So the only difference that Respondent has identified is what we would characterize as a different mark, “ Sealtite Building Fasteners ” versus “ Sealtite ”."
+2014.13-352,1,15084,ruth_bader_ginsburg,scotus_justice,1187.089,1222.426,"Well, how do you respond to the question I asked Mr. Jay, that is, as the Restatement of Judgments says, if one aspect of the first proceeding is to assure expeditiousness, then confining the stakes to that issue of registration makes sense so that the parties will not be induced to dispute the administrative proceeding in anticipation of its effect on another proceeding."
+2014.13-352,1,29118,john_f_bash,,1222.426,1226.047,"--Justice Ginsburg, I think that's a correct statement of the law, but it's inapplicable here."
+2014.13-352,1,15084,ruth_bader_ginsburg,scotus_justice,1256.832,1257.915,There are some differences.
+2014.13-352,1,29118,john_f_bash,,1259.634,1273.625,"--There is -- there's no live testimony, but I don't think that has ever been understood as the sort of difference between an administrative tribunal and a judicial proceeding that could effectively mean that there wasn't a full and fair opportunity to litigate the question."
+2014.13-352,1,15094,elena_kagan,scotus_justice,1273.625,1280.698,"One of the amicus briefs suggests that this is very, very much less expensive, so that it's like 10 percent of the cost of an infringement suit."
+2014.13-352,1,29118,john_f_bash,,1281.515,1288.285,"Because in an infringement suit, the most discovery-intensive aspects, I think, are often damages and injunctive relief."
+2014.13-352,1,15049,antonin_scalia,scotus_justice,1303.644,1316.221,"I -- I find it hard to believe that this board proceeding is -- is intended to -- to be expeditious, because the losing party can go up to the district court and start all over again de novo."
+2014.13-352,1,29118,john_f_bash,,1316.221,1317.021,"Thank you, Justice Scalia."
+2014.13-352,1,15049,antonin_scalia,scotus_justice,1317.021,1317.821,How is that expeditious?
+2014.13-352,1,29118,john_f_bash,,1319.406,1322.524,I was going to follow on to my answer to Justice Ginsburg by making that point.
+2014.13-352,1,15139,stephen_g_breyer,scotus_justice,1354.643,1366.468,"That's -- that's what I think you'll hear in a minute, because in the brief, the red brief, on pages 30 to 31 and 8 and 9, there is discussion about the evidentiary procedures before the board."
+2014.13-352,1,29118,john_f_bash,,1402.907,1403.274,I will address that.
+2014.13-352,1,15094,elena_kagan,scotus_justice,1505.572,1519.063,"Mr. Bash, could you go back, I think it was to Justice Alito's question before, and just talk a little bit about, do you think that this is an unusual case in that the issues are the same or a usual case?"
+2014.13-352,1,29118,john_f_bash,,1519.063,1523.448,"I don't have statistics, so I'm just sort of speaking just from my experience reading the case law."
+2014.13-352,1,15086,john_g_roberts_jr,scotus_justice,1623.381,1624.297,"Thank you, counsel."
+2014.13-352,2,45148,william_m_jay,,3438.641,3440.927,"Thank you, Mr. Chief Justice."
+2014.13-352,2,15139,stephen_g_breyer,scotus_justice,3501.731,3505.767,This -- remember the case we had where you can trademark a color.
+2014.13-352,2,45148,william_m_jay,,3505.767,3506.519,--Right.
+2014.13-352,2,15139,stephen_g_breyer,scotus_justice,3506.519,3510.754,And it was a peculiar shade of green and used on dry cleaning pads.
+2014.13-352,2,45148,william_m_jay,,3538.69,3540.973,"Let me -- I think no, but let me contrast with--"
+2014.13-352,2,15139,stephen_g_breyer,scotus_justice,3540.973,3541.273,No.
+2014.13-352,2,45148,william_m_jay,,3541.273,3547.094,"--But the reason why -- what Hargis could put in, what it needed to put in, this just goes to the essential difference."
+2014.13-352,2,15094,elena_kagan,scotus_justice,3634.318,3639.806,Mr. Katyal suggested that -- he read from two cases which suggest some kind of different standard.
+2014.13-352,2,45148,william_m_jay,,3639.806,3648.478,"The difference, Justice Kagan, is if both cases recite modems as to good, the board doesn't look beyond that and say, oh, fancy modems and cheap modems."
+2014.13-352,2,15086,john_g_roberts_jr,scotus_justice,3657.501,3658.517,"Thank you, counsel."

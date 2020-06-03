@@ -1,0 +1,354 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1979.79-198,0,15073,warren_e_burger,scotus_justice,0.0,94.715,We'll hear arguments next in Supreme Court of Virginia against the Consumers' Union.
+1979.79-198,0,35656,marshall_coleman,,100.276,103.806,"Mr. Chief Justice, if it may please the Court."
+1979.79-198,0,15141,william_h_rehnquist,scotus_justice,183.88,191.379,"Did you concede, General Coleman, that the Supreme Court of Virginia is a person under 1983?"
+1979.79-198,0,35656,marshall_coleman,,191.379,192.487,No.
+1979.79-198,0,15141,william_h_rehnquist,scotus_justice,199.453,202.104,I'm not talking about judicial immunity.
+1979.79-198,0,35656,marshall_coleman,,221.164,237.224,"Well, during the course of this litigation, which was quite protracted, there was, and I think in the record there is a proposed order that could give rise to the thought that there was a concession on that point."
+1979.79-198,0,15073,warren_e_burger,scotus_justice,255.947,272.449,"Is there any connection between Mr. Justice Rehnquist's question, the subject he's bringing up, and the fact that the party named was -- the named parties are the Supreme Court, presumably as an entity, and Lawrence I'Anson, the Chief Justice?"
+1979.79-198,0,35656,marshall_coleman,,272.449,275.648,"Well, they were named, as was the state bar, and --"
+1979.79-198,0,15073,warren_e_burger,scotus_justice,275.648,277.447,"Clearly, he is a person."
+1979.79-198,0,35656,marshall_coleman,,277.556,278.451,That's right.
+1979.79-198,0,15073,warren_e_burger,scotus_justice,845.526,848.721,Ms. Broadman.
+1979.79-198,1,21931,ellen_broadman,,848.721,852.448,Mr. Chief Justice and may it please the Court.
+1979.79-198,1,15141,william_h_rehnquist,scotus_justice,875.399,884.769,"Ms. Broadman, I take it, you do contend that the Supreme Court of Virginia, as an entity, is a person under Section 1983 and 1941?"
+1979.79-198,1,21931,ellen_broadman,,884.769,901.477,"Mr. Justice Rehnquist, we feel that this Court does not need to reach that question because we did name the chief justice in his official capacity as a defendant, so that we clearly do have a defendant who is a person within meaning of 1983."
+1979.79-198,1,15043,potter_stewart,scotus_justice,901.645,905.116,But did the chief justice promulgate these rules?
+1979.79-198,1,21931,ellen_broadman,,905.116,905.256,He was --
+1979.79-198,1,15141,william_h_rehnquist,scotus_justice,905.256,906.282,It was the court.
+1979.79-198,1,21931,ellen_broadman,,906.282,908.561,"Well, it was the court but he is a member of the court."
+1979.79-198,1,15043,potter_stewart,scotus_justice,908.561,910.368,"Yes, but he didn't --"
+1979.79-198,1,15073,warren_e_burger,scotus_justice,910.368,912.556,He's not all of them.
+1979.79-198,1,21931,ellen_broadman,,912.556,913.008,"No, he's certainly not all of them."
+1979.79-198,1,15043,potter_stewart,scotus_justice,913.008,915.782,"He was an appropriate defendant alone in this case, was he?"
+1979.79-198,1,21931,ellen_broadman,,915.782,916.755,That's correct.
+1979.79-198,1,15141,william_h_rehnquist,scotus_justice,916.755,919.822,Suppose that you had sued just as the Supreme Court of Virginia.
+1979.79-198,1,21931,ellen_broadman,,926.312,943.683,"Well, when we refer to the Virginia Supreme Court, we intended to refer to each of the members of the Supreme Court in their official capacity, so when we refer to it as an entity, we're really referring to each of the individual justices in their official capacity and they are persons."
+1979.79-198,1,15071,byron_r_white,scotus_justice,1007.21,1009.681,And what happened to-- was there a damages claim in this case?
+1979.79-198,1,21931,ellen_broadman,,1009.681,1010.173,No.
+1979.79-198,1,15071,byron_r_white,scotus_justice,1012.695,1023.216,"But, I suppose if -- I suppose that if you win, they could have and would -- and should be entitled to damages under 1983?"
+1979.79-198,1,21931,ellen_broadman,,1023.216,1032.377,"Well, that would depend on whether or not this Court characterizes the issuance and enforcing of the disciplinary rules as judicial or as administrative in nature."
+1979.79-198,1,15071,byron_r_white,scotus_justice,1042.042,1042.346,Right.
+1979.79-198,1,21931,ellen_broadman,,1042.346,1044.209,-- and injunctive relief that protects rights in the future.
+1979.79-198,1,15071,byron_r_white,scotus_justice,1044.209,1048.436,"Well, what about attorney's fees for the injunction?"
+1979.79-198,1,21931,ellen_broadman,,1048.436,1054.855,"Okay, it's our contention that Hutto v. Finney establishes that the attorney fee award in this case is correct."
+1979.79-198,1,15071,byron_r_white,scotus_justice,1088.578,1090.185,But not damages.
+1979.79-198,1,21931,ellen_broadman,,1090.185,1092.218,"Not damages, no, attorney's fees."
+1979.79-198,1,15141,william_h_rehnquist,scotus_justice,1095.826,1102.123,"Well, then, Judge Stump, I take it, in Stump against Sparkman, would have been liable for attorney's fees?"
+1979.79-198,1,15071,byron_r_white,scotus_justice,1102.123,1103.718,But not damages?
+1979.79-198,1,21931,ellen_broadman,,1103.718,1110.117,"If the parties had won on the-- had obtained declaratory and injunctive relief, yes."
+1979.79-198,1,15071,byron_r_white,scotus_justice,1113.765,1113.972,"Yes, but they r --"
+1979.79-198,1,21931,ellen_broadman,,1113.972,1114.881,To --
+1979.79-198,1,15071,byron_r_white,scotus_justice,1114.881,1119.035,But they got sopped by immunity.
+1979.79-198,1,21931,ellen_broadman,,1119.035,1119.855,"Well, there, the court --"
+1979.79-198,1,15071,byron_r_white,scotus_justice,1119.855,1131.684,"And you -- and I suppo -- and I think you say that -- and you say that action, on judicial capacity, a judge is immune for, at least from damages -- for damages."
+1979.79-198,1,21931,ellen_broadman,,1131.684,1132.379,That's right.
+1979.79-198,1,15071,byron_r_white,scotus_justice,1133.698,1133.9,Yes.
+1979.79-198,1,21931,ellen_broadman,,1133.9,1136.996,-- that holds that judges are immune from damage liability.
+1979.79-198,1,15071,byron_r_white,scotus_justice,1136.996,1137.403,Yes.
+1979.79-198,1,21931,ellen_broadman,,1137.403,1140.673,"However, damages are very different than attorney's fee."
+1979.79-198,1,15141,william_h_rehnquist,scotus_justice,1151.763,1165.711,"What do you rely on if a -- other than the citation to the string of cases in the committee report that the Congress, in enacting the Civil Rights Attorney's Fee Act, intended to at -- abolish damages?"
+1979.79-198,1,21931,ellen_broadman,,1165.711,1184.795,"Okay, this language in the Senate report that was cited in Hutto v. Finney in which the Senate recognizes that, in this case, the state officers usually wi -- or often will be the defendants and that, in order to assure that parties can protect their constitutional rights from infringement, Congress intends to provide for reimbursement from state funds."
+1979.79-198,1,15141,william_h_rehnquist,scotus_justice,1184.795,1199.646,"Certainly, there's nothing in the Act itself that suggests that persons who have had immunity in the past should be liable for attorney's fees, is there?"
+1979.79-198,1,21931,ellen_broadman,,1199.646,1200.234,Yes.
+1979.79-198,1,15141,william_h_rehnquist,scotus_justice,1201.59,1208.193,"Until -- people who have had, say, a judicial immunity."
+1979.79-198,1,21931,ellen_broadman,,1208.193,1210.7,Judicial immunity from prospective relief?
+1979.79-198,1,15141,william_h_rehnquist,scotus_justice,1210.7,1215.878,"Well, I don't know that Pierson against Ray, for example, broke it down that way."
+1979.79-198,1,21931,ellen_broadman,,1219.416,1224.868,"Okay, Pierson v. Ray was a damages case, as was Stump versus Sparkman."
+1979.79-198,1,15071,byron_r_white,scotus_justice,1265.667,1268.819,"But that's in a House report, not in the statute, right?"
+1979.79-198,1,21931,ellen_broadman,,1268.819,1269.295,That's correct.
+1979.79-198,1,15043,potter_stewart,scotus_justice,1271.664,1274.738,The underlying lawsuit here was under Section 1983.
+1979.79-198,1,21931,ellen_broadman,,1274.738,1275.872,That's correct.
+1979.79-198,1,15043,potter_stewart,scotus_justice,1275.872,1280.864,And its -- in which the Plaintiffs prevailed?
+1979.79-198,1,21931,ellen_broadman,,1280.864,1281.592,Yes.
+1979.79-198,1,15043,potter_stewart,scotus_justice,1281.592,1292.407,And is the validity of that lawsuit now being attacked or the validity of that judgment or the validity of bringing a 1983 action against --
+1979.79-198,1,21931,ellen_broadman,,1292.407,1292.826,Well --
+1979.79-198,1,15043,potter_stewart,scotus_justice,1292.826,1294.564,-- the court and its chief justice?
+1979.79-198,1,21931,ellen_broadman,,1294.564,1298.698,"Okay, the Virginia Supreme Court now concedes that its rule was unconstitutional--"
+1979.79-198,1,15043,potter_stewart,scotus_justice,1298.698,1299.059,"Well, that's not either --"
+1979.79-198,1,21931,ellen_broadman,,1299.059,1299.854,And it's the tenth --
+1979.79-198,1,15043,potter_stewart,scotus_justice,1299.854,1300.833,That's neither here nor there.
+1979.79-198,1,21931,ellen_broadman,,1309.179,1311.358,"Okay, the Virginia Supreme Court--"
+1979.79-198,1,15043,potter_stewart,scotus_justice,1311.358,1312.726,Under 1983?
+1979.79-198,1,21931,ellen_broadman,,1312.726,1313.674,"The Sup-- well, the Virgi--"
+1979.79-198,1,15043,potter_stewart,scotus_justice,1313.674,1314.947,Could it?
+1979.79-198,1,21931,ellen_broadman,,1314.947,1315.634,Could it?
+1979.79-198,1,15043,potter_stewart,scotus_justice,1315.634,1326.086,Could a plaintiff sue a state legislature under Section 1983 for enacting a law that was allegedly and concededly unconstitutional?
+1979.79-198,1,21931,ellen_broadman,,1326.086,1328.842,"No, they could not under Tenney versus Brandhove."
+1979.79-198,1,15043,potter_stewart,scotus_justice,1328.842,1329.77,Well--
+1979.79-198,1,21931,ellen_broadman,,1329.77,1330.179,"Well, here --"
+1979.79-198,1,15104,thurgood_marshall,scotus_justice,1330.179,1330.37,Couldn't he --
+1979.79-198,1,21931,ellen_broadman,,1330.37,1330.845,The --
+1979.79-198,1,15104,thurgood_marshall,scotus_justice,1330.845,1336.49,-- couldn't he sue each one of them officially as you did here?
+1979.79-198,1,21931,ellen_broadman,,1336.49,1337.746,Each one of the legislators?
+1979.79-198,1,15104,thurgood_marshall,scotus_justice,1337.746,1338.682,Yes.
+1979.79-198,1,21931,ellen_broadman,,1338.682,1340.551,"Well, no."
+1979.79-198,1,15104,thurgood_marshall,scotus_justice,1342.001,1344.74,"Well, you sued each one of these judges, you say --"
+1979.79-198,1,21931,ellen_broadman,,1344.74,1345.413,Yes.
+1979.79-198,1,15104,thurgood_marshall,scotus_justice,1345.413,1347.092,-- in their official capacity.
+1979.79-198,1,21931,ellen_broadman,,1347.092,1347.858,That's correct.
+1979.79-198,1,15104,thurgood_marshall,scotus_justice,1347.858,1350.279,And that's okay.
+1979.79-198,1,21931,ellen_broadman,,1355.412,1361.495,"Well, legislative immunity protects legislators from suits that attempt to interfere with their speeches and debates, so that, if we try --"
+1979.79-198,1,15043,potter_stewart,scotus_justice,1361.495,1366.529,"Also, a le -- a state legislature might not be a person within the meaning of 1983."
+1979.79-198,1,21931,ellen_broadman,,1366.529,1367.853,"Well, that's -- yes, that's a separate issue."
+1979.79-198,1,15043,potter_stewart,scotus_justice,1367.853,1368.948,That's a separate issue.
+1979.79-198,1,21931,ellen_broadman,,1368.948,1369.481,Right.
+1979.79-198,1,15104,thurgood_marshall,scotus_justice,1369.481,1375.754,Was -- I don't see how you can make the court a person and can't make the legislature a person.
+1979.79-198,1,21931,ellen_broadman,,1375.754,1376.25,"Well, no."
+1979.79-198,1,15043,potter_stewart,scotus_justice,1381.631,1382.505,"Well, my --"
+1979.79-198,1,21931,ellen_broadman,,1382.505,1382.69,Here --
+1979.79-198,1,15043,potter_stewart,scotus_justice,1382.69,1385.013,"Going back to my original question, before we got a little feel --"
+1979.79-198,1,21931,ellen_broadman,,1385.013,1385.353,Yes.
+1979.79-198,1,15043,potter_stewart,scotus_justice,1385.353,1389.286,-- on my behest.
+1979.79-198,1,21931,ellen_broadman,,1394.626,1395.155,Yes.
+1979.79-198,1,15043,potter_stewart,scotus_justice,1406.051,1406.202,Any --
+1979.79-198,1,21931,ellen_broadman,,1406.202,1406.519,From --
+1979.79-198,1,15043,potter_stewart,scotus_justice,1406.519,1410.651,Any pre -- quite apart from attorney's fees which are --
+1979.79-198,1,21931,ellen_broadman,,1410.651,1411.173,That's right.
+1979.79-198,1,15043,potter_stewart,scotus_justice,1411.173,1412.852,-- auxiliary to this --
+1979.79-198,1,21931,ellen_broadman,,1412.852,1416.074,"They are attempting to defeat that, but solely to defeat the fee award."
+1979.79-198,1,15043,potter_stewart,scotus_justice,1430.392,1443.637,"Although, arguably, it could have defended on -- the defendants could have defended on basis of judicial immunity, they could have defended on the basis on the fact that the defendants named were not a “person” within the meaning of 1983 --"
+1979.79-198,1,21931,ellen_broadman,,1443.637,1443.757,They never --
+1979.79-198,1,15043,potter_stewart,scotus_justice,1443.757,1444.544,-- or by the other defenses?
+1979.79-198,1,21931,ellen_broadman,,1444.544,1444.952,That's right.
+1979.79-198,1,15043,potter_stewart,scotus_justice,1444.952,1445.093,They did not --
+1979.79-198,1,21931,ellen_broadman,,1445.093,1445.411,They never raised those.
+1979.79-198,1,15043,potter_stewart,scotus_justice,1445.411,1447.122,Defend this --
+1979.79-198,1,21931,ellen_broadman,,1447.122,1455.706,"And, in fact, judicial immunity does not preclude declaratory and injunctive relief, prospective relief from constitutional wrongs."
+1979.79-198,1,15141,william_h_rehnquist,scotus_justice,1471.996,1477.842,Are you suggesting that the three-judge district court has review authority over the Supreme Court of Virginia?
+1979.79-198,1,21931,ellen_broadman,,1477.842,1489.755,"Under 1983, the three-judge district court does have authority to issue prospective relief from unconstitutional acts of the Supreme Court of Virginia."
+1979.79-198,1,15071,byron_r_white,scotus_justice,1489.755,1491.863,Do you mean the administrative acts?
+1979.79-198,1,21931,ellen_broadman,,1491.863,1494.65,"Well, that's -- well, either judicial or administrative."
+1979.79-198,1,15071,byron_r_white,scotus_justice,1499.742,1519.48,"Well, now, let's just assume the Virginia Supreme Court decides the case that your clients were involved in and you happen to think it's -- it had been decided wrong under the federal constitution and, the su -- that Supreme Court ordered some relief against you."
+1979.79-198,1,21931,ellen_broadman,,1519.48,1519.799,Yes.
+1979.79-198,1,15071,byron_r_white,scotus_justice,1519.799,1521.394,Can you go into a three-judge court and --
+1979.79-198,1,21931,ellen_broadman,,1521.394,1521.497,No.
+1979.79-198,1,15071,byron_r_white,scotus_justice,1521.497,1522.491,Get an injunction?
+1979.79-198,1,21931,ellen_broadman,,1522.491,1522.679,No.
+1979.79-198,1,15071,byron_r_white,scotus_justice,1522.928,1525.38,"Well, you just said to Justice Rehnquist you could."
+1979.79-198,1,21931,ellen_broadman,,1525.38,1533.349,"Okay, in that situation, the reason you could not do that is not because of judicial immunity, but because of the Doctrines of Comity and Res Judicata."
+1979.79-198,1,15071,byron_r_white,scotus_justice,1533.349,1534.44,"Well, that may be."
+1979.79-198,1,21931,ellen_broadman,,1541.117,1541.195,Where --
+1979.79-198,1,15071,byron_r_white,scotus_justice,1541.195,1541.758,Virginia Supreme Court.
+1979.79-198,1,21931,ellen_broadman,,1541.758,1546.063,"-- Where there is a right to appeal from an unconstitutional act, no."
+1979.79-198,1,15073,warren_e_burger,scotus_justice,1546.063,1546.384,You mean --
+1979.79-198,1,15071,byron_r_white,scotus_justice,1546.384,1548.158,What do you mean where there's a right to appeal?
+1979.79-198,1,21931,ellen_broadman,,1548.158,1556.671,"Okay, the situation that we posit, where the highest court of the state rules against my client, there's a right to appeal to this Court in order to correct."
+1979.79-198,1,15071,byron_r_white,scotus_justice,1556.671,1561.681,"Well, let's assume that -- let's assume there's a decision in the Virginia Trial Court against your client."
+1979.79-198,1,21931,ellen_broadman,,1561.681,1562.846,Yes?
+1979.79-198,1,15071,byron_r_white,scotus_justice,1562.846,1568.583,"And, there's a right to appeal under the Virginia Supreme Court, you don't appeal and you come to the three-judge court."
+1979.79-198,1,21931,ellen_broadman,,1570.42,1575.876,"There, also, the three-judge district court should not hear that case because of Doctrines of Comity."
+1979.79-198,1,15071,byron_r_white,scotus_justice,1576.024,1577.322,Of res judicata?
+1979.79-198,1,21931,ellen_broadman,,1577.322,1579.336,"And-- well, if it went up to the highest court, then it would be res judicata."
+1979.79-198,1,15071,byron_r_white,scotus_justice,1579.336,1581.119,"Well, it just stops there."
+1979.79-198,1,21931,ellen_broadman,,1586.699,1589.931,"Okay, their Doctrines of Comity would prevent a party from --"
+1979.79-198,1,15071,byron_r_white,scotus_justice,1589.931,1590.126,What doc --
+1979.79-198,1,21931,ellen_broadman,,1590.126,1590.513,Circumvented --
+1979.79-198,1,15071,byron_r_white,scotus_justice,1590.513,1593.521,What doctrine are you talking about?
+1979.79-198,1,21931,ellen_broadman,,1593.521,1595.905,There are basic rights to appeal.
+1979.79-198,1,15071,byron_r_white,scotus_justice,1616.96,1618.289,"That's really your answer, isn't it?"
+1979.79-198,1,21931,ellen_broadman,,1622.649,1622.744,That's correct.
+1979.79-198,1,15071,byron_r_white,scotus_justice,1622.744,1624.311,"So, there's no question of judicial immunity."
+1979.79-198,1,21931,ellen_broadman,,1624.311,1624.778,That's correct.
+1979.79-198,1,15071,byron_r_white,scotus_justice,1638.871,1644.337,"Well, you just said quite the contrary, just the contrary, just three minutes ago."
+1979.79-198,1,21931,ellen_broadman,,1644.337,1646.761,"Well, let me try and clarify."
+1979.79-198,1,15071,byron_r_white,scotus_justice,1646.859,1650.628,Let's say that the Virginia Supreme Court performed a judicial act.
+1979.79-198,1,21931,ellen_broadman,,1650.628,1651.007,Correct.
+1979.79-198,1,15071,byron_r_white,scotus_justice,1651.007,1651.658,Finally.
+1979.79-198,1,21931,ellen_broadman,,1651.658,1652.628,Yes.
+1979.79-198,1,15071,byron_r_white,scotus_justice,1652.628,1657.503,"Now, are you going to go into a three-judge court and get a declaratory judgment against them?"
+1979.79-198,1,21931,ellen_broadman,,1657.503,1658.969,"Okay, it would depend."
+1979.79-198,1,15071,byron_r_white,scotus_justice,1658.969,1659.813,Wha -- on what?
+1979.79-198,1,21931,ellen_broadman,,1659.813,1663.476,Whether there was a right to appeal.
+1979.79-198,1,15071,byron_r_white,scotus_justice,1663.476,1664.828,To where?
+1979.79-198,1,21931,ellen_broadman,,1664.828,1665.073,Okay.
+1979.79-198,1,15071,byron_r_white,scotus_justice,1685.795,1687.82,I hope that's not your strongest argument.
+1979.79-198,1,21931,ellen_broadman,,1687.82,1692.217,Let me go on to the administrative act or the non-judicial act argument.
+1979.79-198,1,15141,william_h_rehnquist,scotus_justice,1718.414,1721.049,Would you call it a legislative act then?
+1979.79-198,1,21931,ellen_broadman,,1721.049,1723.363,"No, we would not call it legislative."
+1979.79-198,1,15141,william_h_rehnquist,scotus_justice,1723.363,1723.521,Because of --
+1979.79-198,1,21931,ellen_broadman,,1723.521,1723.851,The legislature --
+1979.79-198,1,15141,william_h_rehnquist,scotus_justice,1723.851,1726.676,Because of Tenney against Brandhove?
+1979.79-198,1,21931,ellen_broadman,,1726.676,1730.787,"Because, here, the Virginia Supreme Court has authority to enforce the rules."
+1979.79-198,1,15141,william_h_rehnquist,scotus_justice,1759.285,1759.505,"Well, su --"
+1979.79-198,1,21931,ellen_broadman,,1759.505,1760.718,Legislative immunity --
+1979.79-198,1,15141,william_h_rehnquist,scotus_justice,1760.718,1781.938,Supposing you have a case like the Chief Justice wrote in 1970 or 1971 involving the Rapley proceedings in the Wisconsin legislature where there the Wisconsin legislature had rules bringing somebody before the bar of the legislature and asking them questions or ordering them confined until the end of the session.
+1979.79-198,1,21931,ellen_broadman,,1785.771,1786.943,I'm not familiar with the case.
+1979.79-198,1,15141,william_h_rehnquist,scotus_justice,1789.522,1791.466,"Well, no."
+1979.79-198,1,21931,ellen_broadman,,1791.631,1791.968,Or --
+1979.79-198,1,15141,william_h_rehnquist,scotus_justice,1791.968,1804.26,"They were telling him that he was going to have to either desist from certain conduct or -- I don't remember the particular facts, but it was an action of the legislature enforcing its own rules."
+1979.79-198,1,21931,ellen_broadman,,1804.26,1811.089,"Well, as far as where the legislature starts enforcing the rules, the purposes for legislative immunity no longer apply."
+1979.79-198,1,15073,warren_e_burger,scotus_justice,1818.561,1826.471,Are you saying that a legislative body doesn't have the right to -- and the power to protect the integrity of its own proceedings?
+1979.79-198,1,21931,ellen_broadman,,1834.426,1834.757,Well --
+1979.79-198,1,15073,warren_e_burger,scotus_justice,1834.757,1836.795,That's not a legislative act --
+1979.79-198,1,21931,ellen_broadman,,1836.795,1837.749,"Well, enforcing --"
+1979.79-198,1,15073,warren_e_burger,scotus_justice,1837.749,1839.479,When they found someone in contempt?
+1979.79-198,1,21931,ellen_broadman,,1839.479,1844.458,"Well, enforcing their own proceedings is somewhat different than enforcing their own -- the laws that they issue."
+1979.79-198,1,15073,warren_e_burger,scotus_justice,1850.495,1863.448,"Congress of United States, until recent times, enforced its contempt determinations by decreeing confinement of the person in contempt."
+1979.79-198,1,21931,ellen_broadman,,1877.311,1885.021,That is a legislative act because it's inherently involved in permitting them to freely speak if they gather information in order to pass laws.
+1979.79-198,1,15071,byron_r_white,scotus_justice,1921.54,1927.659,"But did you ju – I -- didn't you just attack these rules on their face, or not?"
+1979.79-198,1,21931,ellen_broadman,,1927.659,1928.72,That's correct.
+1979.79-198,1,15071,byron_r_white,scotus_justice,1928.72,1932.567,You said this rule that you've passed is unconstitutional.
+1979.79-198,1,21931,ellen_broadman,,1932.567,1934.303,That's correct.
+1979.79-198,1,15071,byron_r_white,scotus_justice,1934.303,1942.828,And the court had either inherent or delegated power from the legislature or from the vir -- state constitution to pass these rules.
+1979.79-198,1,21931,ellen_broadman,,1942.828,1943.558,"That's correct, for the state constitution."
+1979.79-198,1,15071,byron_r_white,scotus_justice,1943.558,1947.104,"So, it had a brand of legislative power?"
+1979.79-198,1,21931,ellen_broadman,,1947.104,1950.858,"Well, its inherent authorities certainly are not legislative, and that --"
+1979.79-198,1,15071,byron_r_white,scotus_justice,1950.858,1957.537,"Well, it may not be, but you do say that these weren't judicial acts."
+1979.79-198,1,21931,ellen_broadman,,1957.537,1957.634,That's --
+1979.79-198,1,15071,byron_r_white,scotus_justice,1957.634,1958.229,These were something.
+1979.79-198,1,21931,ellen_broadman,,1959.33,1961.617,We characterize them as administrative to the extent that they are delegated --
+1979.79-198,1,15071,byron_r_white,scotus_justice,1961.617,1963.596,"Administrative, they made some rules."
+1979.79-198,1,21931,ellen_broadman,,1963.596,1964.19,That's correct.
+1979.79-198,1,15071,byron_r_white,scotus_justice,1964.19,1967.393,And that's part of the administration -- administrative?
+1979.79-198,1,21931,ellen_broadman,,1967.393,1967.873,That's right.
+1979.79-198,1,15071,byron_r_white,scotus_justice,1972.429,1988.598,"What would be -- suppose the Congress passes a law and you sued all 100 senators, for example, for having passed an unconstitutional Act which you claim is unconstitutional."
+1979.79-198,1,21931,ellen_broadman,,1991.622,1994.591,"Yes, they would, but that's very different than the case before the Court now."
+1979.79-198,1,15141,william_h_rehnquist,scotus_justice,1994.591,2010.104,"Does your characterization, if this is administrative ver -- and not judicial and not legislative, is that motivated in any way by our cases of Pierson against Ray and Tenney against Brandhove and Butz versus Economou?"
+1979.79-198,1,21931,ellen_broadman,,2010.104,2017.236,"Well, we argue that it's administrative in nature because we believe it is administrative and it's not necessarily motivated by all those cases."
+1979.79-198,1,15141,william_h_rehnquist,scotus_justice,2043.348,2056.045,"Well, what if the Virginia legislature had passed exactly this same set of standards governing lawyer conduct in the state."
+1979.79-198,1,21931,ellen_broadman,,2058.531,2064.237,"No, that -- we would sue whoever is responsible for enforcing that law, which is precisely what we did here."
+1979.79-198,1,15071,byron_r_white,scotus_justice,2072.86,2084.536,I suppose one easy way of -- one certainly surefire way of raising the validity of the rule is if the Virginia court moved against somebody to enforce the rule.
+1979.79-198,1,21931,ellen_broadman,,2084.536,2086.175,We could not do that here.
+1979.79-198,1,15071,byron_r_white,scotus_justice,2088.331,2088.583,"Well, I know, but I --"
+1979.79-198,1,21931,ellen_broadman,,2088.583,2089.391,In our directory.
+1979.79-198,1,15071,byron_r_white,scotus_justice,2089.391,2089.693,"I know, but let's --"
+1979.79-198,1,21931,ellen_broadman,,2089.693,2090.244,Yes.
+1979.79-198,1,15071,byron_r_white,scotus_justice,2090.244,2090.96,Let's assume --
+1979.79-198,1,21931,ellen_broadman,,2090.96,2091.157,Okay.
+1979.79-198,1,15071,byron_r_white,scotus_justice,2091.157,2095.543,Let's assume that the Supreme Court was enforcing the rule against some lawyer.
+1979.79-198,1,21931,ellen_broadman,,2099.606,2099.908,Sure.
+1979.79-198,1,15071,byron_r_white,scotus_justice,2099.908,2102.846,He could resist on the grounds that it was unconstitutional.
+1979.79-198,1,21931,ellen_broadman,,2102.846,2103.893,That's true.
+1979.79-198,1,15071,byron_r_white,scotus_justice,2103.893,2108.708,"And, I suppose, he -- I suppose, if he want, he could get attorney's fee."
+1979.79-198,1,21931,ellen_broadman,,2108.708,2112.117,"If he prevailed, that's correct."
+1979.79-198,1,15045,harry_a_blackmun,scotus_justice,2131.453,2134.487,That's what happened in Bates.
+1979.79-198,1,21931,ellen_broadman,,2134.487,2135.09,That's --
+1979.79-198,1,15045,harry_a_blackmun,scotus_justice,2135.09,2140.201,"In other words, Arizona attorneys are more enterprising than Virginia ones?"
+1979.79-198,1,21931,ellen_broadman,,2140.201,2143.518,"Well, in Virginia, the attorneys were not willing to participate in our directory."
+1979.79-198,1,15060,john_paul_stevens,scotus_justice,2150.672,2162.479,"Ms. Broadman, I understood you to say in answer to Justice White's question, if you had the procedural question you had in Bates that the lawyers could get fees from the court, I don't understand that to be the case."
+1979.79-198,1,21931,ellen_broadman,,2162.479,2163.661,"Well, I guess, no."
+1979.79-198,1,15060,john_paul_stevens,scotus_justice,2165.701,2174.413,"It's sort of ironic that where you have a clear case of standing, the lawyers get no fees when they have a less clear case as they do here, I'm not saying it's adequate, they do get fees."
+1979.79-198,1,21931,ellen_broadman,,2174.413,2176.144,"Well, in the Bates proceeding, you're correct."
+1979.79-198,1,15060,john_paul_stevens,scotus_justice,2184.645,2186.211,"Well, even against the bar association."
+1979.79-198,1,21931,ellen_broadman,,2193.798,2194.225,You're correct.
+1979.79-198,1,15060,john_paul_stevens,scotus_justice,2194.225,2194.427,And they --
+1979.79-198,1,21931,ellen_broadman,,2194.427,2194.883,You're correct.
+1979.79-198,1,15060,john_paul_stevens,scotus_justice,2194.883,2198.312,"They did not, I don't know what basis they could get fees in that--"
+1979.79-198,1,21931,ellen_broadman,,2198.312,2198.746,You're correct.
+1979.79-198,1,15060,john_paul_stevens,scotus_justice,2207.504,2223.187,"Of course, Hutto on which you rely very heavily is a case in which, I suppose, it would have been appropriate to award damages against the -- if the -- against the prison officials, but I think you concede no damages could be awarded here."
+1979.79-198,1,21931,ellen_broadman,,2223.187,2224.629,We're not seeking damages.
+1979.79-198,1,15060,john_paul_stevens,scotus_justice,2231.307,2241.412,"To the extent that Hutto analogized the free recovery to punitive and all the rest of it, it analogizes that the damages, it seems to me, cuts against you to a certain extent."
+1979.79-198,1,21931,ellen_broadman,,2241.412,2241.515,"Well, --"
+1979.79-198,1,15060,john_paul_stevens,scotus_justice,2241.515,2246.791,"Because, here, I think you must concede that you could not get damages because of judicial immunity."
+1979.79-198,1,21931,ellen_broadman,,2246.791,2247.597,Well --
+1979.79-198,1,15043,potter_stewart,scotus_justice,2247.597,2249.162,"You do concede that, don't you?"
+1979.79-198,1,21931,ellen_broadman,,2249.162,2250.072,We're not seeking --
+1979.79-198,1,15043,potter_stewart,scotus_justice,2250.072,2250.399,Wel l--
+1979.79-198,1,21931,ellen_broadman,,2250.399,2250.671,Damages.
+1979.79-198,1,15043,potter_stewart,scotus_justice,2250.671,2251.673,Do you concede that you couldn't?
+1979.79-198,1,21931,ellen_broadman,,2251.673,2252.66,Could not.
+1979.79-198,1,15060,john_paul_stevens,scotus_justice,2264.476,2269.148,"That basis of the opinion cuts against you, the basis of fees, as part of cost, cuts for you."
+1979.79-198,1,21931,ellen_broadman,,2269.148,2280.499,"Well, the bad -- my reading of the bad face sc-- well, the Court need not reach that question because you're deciding the case here on the basis of statutory interpretation of the Civil Rights Attorney Fee Award Act."
+1979.79-198,1,15060,john_paul_stevens,scotus_justice,2300.335,2305.746,"But I -- as I understand your brief, you do rely primarily on the federal statute, the Attorney's Fee Award Act."
+1979.79-198,1,21931,ellen_broadman,,2305.746,2306.044,Entire--
+1979.79-198,1,15060,john_paul_stevens,scotus_justice,2306.044,2306.36,In which --
+1979.79-198,1,21931,ellen_broadman,,2306.36,2306.695,Absolutely.
+1979.79-198,1,15060,john_paul_stevens,scotus_justice,2306.695,2312.949,"In which reliance, you don't have to recover damages in the question of bad faith, and all the rest of it is totally irrelevant."
+1979.79-198,1,21931,ellen_broadman,,2312.949,2313.866,Exactly.
+1979.79-198,1,15071,byron_r_white,scotus_justice,2314.927,2315.295,Well --
+1979.79-198,1,21931,ellen_broadman,,2315.295,2316.824,There's no --
+1979.79-198,1,15071,byron_r_white,scotus_justice,2316.824,2328.507,If the Supreme Court of Virginia moved against a particular lawyer for violating one of its rules and the lawyer defended on the ground that the rule is unconstitutional.
+1979.79-198,1,21931,ellen_broadman,,2359.117,2363.892,"I think, in that situation, what we'd be saying is not that they can't decide the case that way."
+1979.79-198,1,15071,byron_r_white,scotus_justice,2363.892,2364.426,"Well, you --"
+1979.79-198,1,21931,ellen_broadman,,2364.426,2364.66,But --
+1979.79-198,1,15071,byron_r_white,scotus_justice,2364.66,2366.907,You'd say we want – we --
+1979.79-198,1,21931,ellen_broadman,,2366.907,2367.2,Would they be immune.
+1979.79-198,1,15071,byron_r_white,scotus_justice,2367.2,2371.415,"Your rules are unconstitutional and, therefore, you must not decide --"
+1979.79-198,1,21931,ellen_broadman,,2371.415,2371.942,I think --
+1979.79-198,1,15071,byron_r_white,scotus_justice,2371.942,2372.074,This is a --
+1979.79-198,1,21931,ellen_broadman,,2372.074,2378.138,"I think that that's a distinct situation because, there, the court is acting in a capacity of deciding cases in controversies."
+1979.79-198,1,15071,byron_r_white,scotus_justice,2378.138,2378.575,It is.
+1979.79-198,1,21931,ellen_broadman,,2378.741,2380.312,It's not issuing regulations.
+1979.79-198,1,15071,byron_r_white,scotus_justice,2380.412,2385.527,"Well, it submits it's -- it issued a final judgment that the fellow violated the rule."
+1979.79-198,1,21931,ellen_broadman,,2389.201,2390.126,I think we might have standing.
+1979.79-198,1,15071,byron_r_white,scotus_justice,2395.287,2399.065,"Well, you make the same claim as you do here."
+1979.79-198,1,21931,ellen_broadman,,2404.281,2404.638,Unconstitutional rule.
+1979.79-198,1,15071,byron_r_white,scotus_justice,2404.638,2406.331,Rule of yours and you're wrong.
+1979.79-198,1,21931,ellen_broadman,,2411.138,2415.419,"Well, I think in that-- now, in that situation, the court is interpreting the rule."
+1979.79-198,1,15073,warren_e_burger,scotus_justice,2445.291,2448.067,"Now, let me ask you a question that relates somewhat to that."
+1979.79-198,1,21931,ellen_broadman,,2461.883,2462.647,That's correct.
+1979.79-198,1,15073,warren_e_burger,scotus_justice,2462.647,2476.031,"Now, suppose Chief Justice I'Anson had dissented from the rulemaking and the other justices were the only ones that were responsible for putting it into effect, could you have a joined Chief Justice I'Anson in this action?"
+1979.79-198,1,21931,ellen_broadman,,2476.031,2477.213,That's an interesting question.
+1979.79-198,1,15073,warren_e_burger,scotus_justice,2482.279,2485.292,And he had a perfect defense that he had no part of this --
+1979.79-198,1,21931,ellen_broadman,,2485.292,2485.788,That's right.
+1979.79-198,1,15073,warren_e_burger,scotus_justice,2485.788,2487.35,“Wrongful act.”
+1979.79-198,1,21931,ellen_broadman,,2487.35,2488.145,That's right.
+1979.79-198,1,15073,warren_e_burger,scotus_justice,2490.096,2491.812,"Then, how would you get here?"
+1979.79-198,1,21931,ellen_broadman,,2493.4,2499.324,"Well, we would bring an action against the individual -- the justices who had approved of and had voted for the rule."
+1979.79-198,1,15073,warren_e_burger,scotus_justice,2499.324,2503.356,"You didn't bring -- you didn't bring that kind of an action here, did you?"
+1979.79-198,1,21931,ellen_broadman,,2503.356,2503.51,"Yes, we --"
+1979.79-198,1,15073,warren_e_burger,scotus_justice,2503.51,2507.281,"Because the named party is the Supreme Court, not the --"
+1979.79-198,1,21931,ellen_broadman,,2507.281,2508.85,"Well, the chief justice is also a named party."
+1979.79-198,1,15073,warren_e_burger,scotus_justice,2508.85,2512.361,"Yes, I know, but the name -- the other justices are not named, are they?"
+1979.79-198,1,21931,ellen_broadman,,2512.361,2513.314,"No, they're not."
+1979.79-198,1,15104,thurgood_marshall,scotus_justice,2536.97,2537.648,Ms. Broadman.
+1979.79-198,1,21931,ellen_broadman,,2537.648,2538.143,Yes?
+1979.79-198,1,15104,thurgood_marshall,scotus_justice,2538.143,2540.393,Back up a minute.
+1979.79-198,1,21931,ellen_broadman,,2547.204,2548.567,We asked attorneys whether they'd be willing --
+1979.79-198,1,15104,thurgood_marshall,scotus_justice,2548.567,2549.005,Right.
+1979.79-198,1,21931,ellen_broadman,,2549.005,2549.23,Yes.
+1979.79-198,1,15104,thurgood_marshall,scotus_justice,2549.23,2569.78,"Now, suppose they did advertise in your directory and they were ordered to be disbarred, and they sued the Supreme Court that disbarred them; one, could they sue the Supreme Court in the federal court?"
+1979.79-198,1,21931,ellen_broadman,,2569.78,2571.257,Could consumers' union sue?
+1979.79-198,1,15104,thurgood_marshall,scotus_justice,2571.681,2572.582,Could the lawyer.
+1979.79-198,1,21931,ellen_broadman,,2572.582,2573.826,The Lawyers.
+1979.79-198,1,15104,thurgood_marshall,scotus_justice,2574.029,2576.526,The man that's involved is the lawyer.
+1979.79-198,1,21931,ellen_broadman,,2576.526,2577.647,"There, the procedure is for the lawyers."
+1979.79-198,1,15104,thurgood_marshall,scotus_justice,2579.293,2584.001,"But, my case is he had been disbarred."
+1979.79-198,1,21931,ellen_broadman,,2590.336,2590.453,No.
+1979.79-198,1,15104,thurgood_marshall,scotus_justice,2590.453,2592.536,"The lawyer, he can't sue?"
+1979.79-198,1,21931,ellen_broadman,,2592.536,2593.799,No because that lawyer --
+1979.79-198,1,15104,thurgood_marshall,scotus_justice,2593.799,2596.773,"And, number two, therefore, he can't get counsel fees."
+1979.79-198,1,21931,ellen_broadman,,2596.773,2598.586,That's correct.
+1979.79-198,1,15104,thurgood_marshall,scotus_justice,2598.586,2601.954,"Well, how does it so happen that you can?"
+1979.79-198,1,21931,ellen_broadman,,2601.954,2609.704,Because the lawyer has procedures that the lawyer is supposed to follow to review that disciplinary proceeding.
+1979.79-198,1,15043,potter_stewart,scotus_justice,2617.681,2618.66,"Yes, but --"
+1979.79-198,1,21931,ellen_broadman,,2618.66,2618.971,We don't.
+1979.79-198,1,15043,potter_stewart,scotus_justice,2618.971,2623.889,Justice Marshall's question is those procedures were all over and he's been disbarred.
+1979.79-198,1,21931,ellen_broadman,,2623.889,2629.563,He's already been disbarred and he appeals to the United States Supreme Court -- and he appeals to the United States Supreme Court and the cert is denied?
+1979.79-198,1,15043,potter_stewart,scotus_justice,2629.563,2630.505,No.
+1979.79-198,1,15104,thurgood_marshall,scotus_justice,2630.505,2631.432,Yes.
+1979.79-198,1,21931,ellen_broadman,,2631.432,2631.53,Okay.
+1979.79-198,1,15104,thurgood_marshall,scotus_justice,2631.53,2634.151,"And then, he goes into the United States District Court of Virginia."
+1979.79-198,1,21931,ellen_broadman,,2634.151,2636.401,"Res adjudicata, he can't do it."
+1979.79-198,1,15104,thurgood_marshall,scotus_justice,2636.401,2638.183,Is there any other reason he can't do it?
+1979.79-198,1,21931,ellen_broadman,,2638.183,2640.767,"Well, I would argue comity, both res adjudicate --"
+1979.79-198,1,15104,thurgood_marshall,scotus_justice,2640.767,2642.318,Comity?
+1979.79-198,1,21931,ellen_broadman,,2642.318,2646.399,"Well, because if the federal district court takes -- well, really, res adjudicata is the main reason."
+1979.79-198,1,15104,thurgood_marshall,scotus_justice,2646.399,2648.227,"Well, could he have filed the --"
+1979.79-198,1,21931,ellen_broadman,,2648.227,2648.563,Yes.
+1979.79-198,1,15104,thurgood_marshall,scotus_justice,2648.563,2654.03,Could he have filed an action in the district court originally before he was disbarred?
+1979.79-198,1,21931,ellen_broadman,,2654.03,2657.24,"No, and the reason for that is because of comity."
+1979.79-198,1,15104,thurgood_marshall,scotus_justice,2663.779,2668.648,My new question is he wasn't disbarred.
+1979.79-198,1,21931,ellen_broadman,,2689.876,2695.749,"Okay, that raises a difficult question because, there, he could argue that the appellate procedures are inadequate, but somehow it could show that they were."
+1979.79-198,1,15104,thurgood_marshall,scotus_justice,2695.749,2702.219,"My point was would he -- win or lose, would he get counsel fees?"
+1979.79-198,1,21931,ellen_broadman,,2702.219,2704.8,"Well, if he brings an action and wins."
+1979.79-198,1,15104,thurgood_marshall,scotus_justice,2704.8,2706.904,I said win or lose.
+1979.79-198,1,21931,ellen_broadman,,2706.904,2709.093,"Okay, if he loses, he's not going to get counsel fees because counsel --"
+1979.79-198,1,15104,thurgood_marshall,scotus_justice,2709.093,2710.998,"But if he wins, he gets counsel fees."
+1979.79-198,1,21931,ellen_broadman,,2710.998,2711.36,That's right.
+1979.79-198,1,15104,thurgood_marshall,scotus_justice,2726.124,2735.337,My point is that -- aren't you asking us the only door where anybody can do what a lawyer can't do?
+1979.79-198,1,21931,ellen_broadman,,2735.337,2735.901,"Well, no."
+1979.79-198,1,15104,thurgood_marshall,scotus_justice,2749.197,2751.922,But comity doesn't apply to you.
+1979.79-198,1,21931,ellen_broadman,,2751.922,2757.435,"To us, because there -- that's correct, because there was no other recourse that we had."
+1979.79-198,1,15141,william_h_rehnquist,scotus_justice,2757.435,2760.064,I'm going to get just straight out.
+1979.79-198,1,21931,ellen_broadman,,2773.384,2783.674,"Well, the standards applied to administrative officials are good faith immunity, so that where the court was acting in good faith, no damages could be obtained."
+1979.79-198,1,15141,william_h_rehnquist,scotus_justice,2787.489,2789.703,But just no judicial immunity.
+1979.79-198,1,21931,ellen_broadman,,2789.703,2790.43,That's correct.
+1979.79-198,1,15141,william_h_rehnquist,scotus_justice,2790.43,2794.466,Just administrative -- the standards for administrative would apply.
+1979.79-198,1,21931,ellen_broadman,,2794.466,2796.747,If the Court finds this to be an administrative act.
+1979.79-198,1,15073,warren_e_burger,scotus_justice,2826.083,2828.964,But it's really a qualified immunity that you would then grant.
+1979.79-198,1,21931,ellen_broadman,,2828.964,2832.072,That's correct from damages.
+1979.79-198,1,15073,warren_e_burger,scotus_justice,2834.504,2836.253,"Do you have anything further, Mr. Attorney General?"
+1979.79-198,2,35656,marshall_coleman,,2836.253,2838.14,"Just a couple of comments, Mr. Chief Justice."
+1979.79-198,2,15073,warren_e_burger,scotus_justice,2959.937,2960.756,"Thank you, counsel."

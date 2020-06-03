@@ -1,0 +1,122 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1969.57,0,15073,warren_e_burger,scotus_justice,0.0,6.519,"Number 57, Ashe against Swenson."
+1969.57,0,18602,clark_m_clifford,,13.333,17.34,"Mr. Chief Justice, may it please the Court."
+1969.57,0,15043,potter_stewart,scotus_justice,207.222,223.262,"Mr. Clifford, I want to be sure I fully understand the facts, it is -- I think you said and did I understand it correctly that these men not only scooped up what was on the table, but also personally went into the pockets of each one of the players?"
+1969.57,0,18602,clark_m_clifford,,223.262,227.742,"Yes, Your Honor and I was going to give you more detail on that regard."
+1969.57,0,15043,potter_stewart,scotus_justice,773.998,785.217,"Was it the state's theory at all that four men were involved, but that only three came in to the basement and that the other was the driver of the get away car, or anything along those lines?"
+1969.57,0,18602,clark_m_clifford,,785.217,787.058,It was not explained.
+1969.57,0,15073,warren_e_burger,scotus_justice,806.544,822.999,"Is it not normal, usual, Mr. Clifford, in the situation where you have three people or four people robbing or committing some other crime against four, five or six that you have this kind of a confused picture?"
+1969.57,0,18602,clark_m_clifford,,832.112,833.956,It is not uncommon.
+1969.57,0,15073,warren_e_burger,scotus_justice,998.561,1001.744,Was there any legal impediment to the defense calling him that you know of?
+1969.57,0,18602,clark_m_clifford,,1001.744,1003.79,There was not.
+1969.57,1,26231,gene_e_voigts,,1551.832,1556.124,Mr. Chief Justice and may it please the Court.
+1969.57,1,15104,thurgood_marshall,scotus_justice,1705.404,1710.307,On the questions of the facts I'm a little worried.
+1969.57,1,26231,gene_e_voigts,,1720.622,1744.481,"Your Honor, I think as Mr. Clifford previously indicated, at both of the trials, it was not clear and there was not any clear cut identification as to which one of the four robbers took the money out of, shall we say Mr. Knight's pocket, who was the robbery victim in the first trial or Mr. Roberts' pocket in the second trial."
+1969.57,1,15104,thurgood_marshall,scotus_justice,1744.481,1752.157,"Well, is it the state's position that Ashe could be charged with robbing all six?"
+1969.57,1,26231,gene_e_voigts,,1752.157,1755.167,He was in fact charged with robbing all six Your Honor.
+1969.57,1,15104,thurgood_marshall,scotus_justice,1755.167,1758.485,"Well, isn't that contrary to all the evidence?"
+1969.57,1,26231,gene_e_voigts,,1765.396,1766.718,"That is right, Your Honor."
+1969.57,1,15104,thurgood_marshall,scotus_justice,1766.825,1769.463,But you think you could charge him with that?
+1969.57,1,26231,gene_e_voigts,,1769.463,1785.833,He was so charged and the instructions to the jury -- instructed the jury to return a verdict of guilty if they found that he did these certain specified elements either acting alone or knowingly acting in concert with the others.
+1969.57,1,15104,thurgood_marshall,scotus_justice,1785.833,1787.17,Rob all six of them?
+1969.57,1,26231,gene_e_voigts,,1787.17,1790.298,"That is correct, Your Honor."
+1969.57,1,15104,thurgood_marshall,scotus_justice,1790.298,1794.874,So he could be convicted six times?
+1969.57,1,26231,gene_e_voigts,,1794.874,1795.84,It is possible.
+1969.57,1,15104,thurgood_marshall,scotus_justice,1818.175,1820.171,And third?
+1969.57,1,26231,gene_e_voigts,,1820.171,1822.071,"Of course, obviously, I believe that there's --"
+1969.57,1,15104,thurgood_marshall,scotus_justice,1822.071,1826.479,"Well, are the information still outstanding for the others?"
+1969.57,1,26231,gene_e_voigts,,1826.479,1827.778,"Your Honor, I do not know."
+1969.57,1,15104,thurgood_marshall,scotus_justice,1846.353,1849.008,So the four might still be sitting there?
+1969.57,1,26231,gene_e_voigts,,1849.008,1849.542,"Yes, of course."
+1969.57,1,15073,warren_e_burger,scotus_justice,1858.308,1862.448,"You never -- pretty good speedy trial defense claim, wouldn't he?"
+1969.57,1,26231,gene_e_voigts,,1862.448,1867.629,"I should think so, Your Honor."
+1969.57,1,15089,hugo_l_black,scotus_justice,1867.629,1872.874,"In the trial where he was acquitted, did he plead an alibi?"
+1969.57,1,26231,gene_e_voigts,,1872.874,1873.441,"No, Your Honor."
+1969.57,1,15089,hugo_l_black,scotus_justice,1912.74,1928.412,"Well, if he had been acquitted and the issue on which he was acquitted was that he was not there and did not participate, would your same argument be valid?"
+1969.57,1,26231,gene_e_voigts,,1928.412,1940.559,I think so to the extent Your Honor that we suggest that the principle of collateral estoppel would not be constitutionally required to be applied by the state in this situation.
+1969.57,1,15073,warren_e_burger,scotus_justice,1940.559,1943.577,Does Missouri have a special verdict or general (Voice Overlap)?
+1969.57,1,26231,gene_e_voigts,,1943.577,1945.352,"No, Your Honor, it's a general verdict."
+1969.57,1,15089,hugo_l_black,scotus_justice,1959.928,1982.052,"Well, I suppose if a man was acquitted on an issue which would absolutely absolve him from all the guilt such as that would, that you'd have a pretty hard time, wouldn't you in saying it although called collateral estoppel didn't amount to double jeopardy?"
+1969.57,1,26231,gene_e_voigts,,1982.052,1992.421,"That may be, Your Honor, but what we are suggesting is that you do not go beyond those issues which necessarily had to be found."
+1969.57,1,15089,hugo_l_black,scotus_justice,2060.003,2062.946,Did they return the verdict for acquittal for of the others?
+1969.57,1,26231,gene_e_voigts,,2062.946,2063.132,No.
+1969.57,1,15089,hugo_l_black,scotus_justice,2064.44,2065.55,Separate --
+1969.57,1,26231,gene_e_voigts,,2065.55,2069.106,Just Mr. Ashe was involved in this particular trial.
+1969.57,1,15089,hugo_l_black,scotus_justice,2072.889,2078.797,How do you explain that jury verdict? You have studied the record and I'm just asking.
+1969.57,1,26231,gene_e_voigts,,2078.797,2090.52,Your Honor I cannot explain the jury verdict and I do not frankly believe that it is necessary that I do explain the jury verdict.
+1969.57,1,15089,hugo_l_black,scotus_justice,2090.52,2096.02,I just want to know what was your impression of the record as to why he was acquitted?
+1969.57,1,26231,gene_e_voigts,,2096.02,2104.697,I think it's very possible that the jury found that there was a lack of sufficient identification of Mr. Ashe as one of the participants in this.
+1969.57,1,15071,byron_r_white,scotus_justice,2179.499,2184.925,And isn't it an element of the crime in Missouri that the victim be in fear of his life?
+1969.57,1,26231,gene_e_voigts,,2184.925,2187.144,"Yes, it is, Your Honor."
+1969.57,1,15071,byron_r_white,scotus_justice,2187.144,2192.313,Would that -- could that fact vary between the defendant -- they'd do in the victim?
+1969.57,1,26231,gene_e_voigts,,2192.313,2200.707,It might well have done so I must say in all candid though that I don't think that the record necessarily clearly indicates that this was an element.
+1969.57,1,15089,hugo_l_black,scotus_justice,2336.415,2340.029,What difference -- what difference are you emphasizing on that?
+1969.57,1,26231,gene_e_voigts,,2340.029,2343.635,The difference as was indicated by Mr. Justice White from one thing.
+1969.57,1,15089,hugo_l_black,scotus_justice,2382.2,2392.373,"In other words, you don't -- go going on the basis that each robber, each person must be considered as two separate offenses?"
+1969.57,1,26231,gene_e_voigts,,2392.373,2393.638,"That's right, Your Honor."
+1969.57,1,15089,hugo_l_black,scotus_justice,2422.03,2423.863,Any other differences?
+1969.57,1,26231,gene_e_voigts,,2423.863,2425.169,"No, Your Honor."
+1969.57,1,15089,hugo_l_black,scotus_justice,2425.169,2430.65,Merely the difference of robbing two different people?
+1969.57,1,26231,gene_e_voigts,,2430.65,2434.579,"Yes, Your Honor, if I understand the question."
+1969.57,1,15104,thurgood_marshall,scotus_justice,2434.579,2438.951,Any evidence that Ashe pointed a gun at either one of them?
+1969.57,1,26231,gene_e_voigts,,2438.951,2439.828,I'm sorry Your Honor.
+1969.57,1,15104,thurgood_marshall,scotus_justice,2439.828,2444.895,Is there any evidence in the record that Ashe pointed a gun at either?
+1969.57,1,26231,gene_e_voigts,,2444.895,2445.127,No.
+1969.57,1,15104,thurgood_marshall,scotus_justice,2469.637,2478.895,"Well, which -- what evidence is in the record that Ashe threatened either one of these first two people?"
+1969.57,1,26231,gene_e_voigts,,2478.895,2496.955,"The evidence is essentially that at the second trial and I believe at the first trial that once again that the people who came down into the basement, Your Honor, with the guns forced these six participants in the card games to go over against the wall at one point."
+1969.57,1,15104,thurgood_marshall,scotus_justice,2511.264,2513.644,"(Voice Overlap) the same witnesses, in both sides?"
+1969.57,1,26231,gene_e_voigts,,2513.644,2514.898,Yes.
+1969.57,1,15104,thurgood_marshall,scotus_justice,2518.212,2521.311,But the same witnesses were at both trials?
+1969.57,1,26231,gene_e_voigts,,2521.311,2521.664,Yes sir.
+1969.57,1,15104,thurgood_marshall,scotus_justice,2521.664,2526.65,And they testified substantially the same thing at both trials?
+1969.57,1,26231,gene_e_voigts,,2526.65,2535.309,With the exception Your Honor that the question of identification was developed much more extensively at the second trial.
+1969.57,1,15104,thurgood_marshall,scotus_justice,2535.309,2535.483,Why?
+1969.57,1,26231,gene_e_voigts,,2535.483,2536.599,And in addition --
+1969.57,1,15104,thurgood_marshall,scotus_justice,2536.599,2538.634,Why?
+1969.57,1,26231,gene_e_voigts,,2541.106,2550.107,"I don't know but I think it's quite obvious, Your Honor, that this is one of the problems apparently that it concerned the prosecutor at the first trial."
+1969.57,1,15104,thurgood_marshall,scotus_justice,2550.668,2556.838,"And it's one of the reasons why a man shouldn't be put in jeopardy twice too, isn't it?"
+1969.57,1,26231,gene_e_voigts,,2556.838,2557.684,But under the test of --
+1969.57,1,15104,thurgood_marshall,scotus_justice,2557.684,2563.202,"Why if he'd be -- he was acquitted this time, then the third time, they really wouldn't have something here."
+1969.57,1,26231,gene_e_voigts,,2563.202,2573.361,"I'm suggesting that there is protection to this man though Your Honor, by virtue of a -- if you will, a fundamental unfairness type test."
+1969.57,1,15104,thurgood_marshall,scotus_justice,2581.205,2585.475,"Well, Benton would suggest its at the second trial, wouldn't it?"
+1969.57,1,26231,gene_e_voigts,,2585.475,2586.108,I'm sorry Your Honor.
+1969.57,1,15104,thurgood_marshall,scotus_justice,2586.108,2590.83,Benton would suggest that at the second stage it becomes unfair.
+1969.57,1,26231,gene_e_voigts,,2590.83,2595.415,I would suggest that that's not necessarily a conclusion that must follow from Benton.
+1969.57,1,15104,thurgood_marshall,scotus_justice,2595.415,2598.023,"Well, what would you suggest?"
+1969.57,1,26231,gene_e_voigts,,2598.023,2599.146,I would suggest --
+1969.57,1,15104,thurgood_marshall,scotus_justice,2599.146,2602.459,Because six -- is it six information against this man?
+1969.57,1,26231,gene_e_voigts,,2602.459,2603.189,Yes Your Honor.
+1969.57,1,15104,thurgood_marshall,scotus_justice,2603.189,2608.418,Where would you think the cutoff point would be?
+1969.57,1,26231,gene_e_voigts,,2608.418,2615.22,"Once again, Your Honor, I've suggested that I do not feel that I can indicate a mathematical number to this Court."
+1969.57,1,15071,byron_r_white,scotus_justice,2810.669,2835.99,"Mr. Voigts, let's assume that there'd had been a trial to the court and the court at the -- in the first go around they had found Ashe not guilty and made his findings and said that I find that Ashe wasn't there and then Ashe is tried again --"
+1969.57,1,26231,gene_e_voigts,,2835.99,2836.367,Well --
+1969.57,1,15071,byron_r_white,scotus_justice,2836.367,2841.663,-- for robbing Roberts or whoever such a man was (Voice Overlap) --
+1969.57,1,26231,gene_e_voigts,,2841.663,2841.844,If on --
+1969.57,1,15071,byron_r_white,scotus_justice,2841.844,2849.173,"In Missouri, in the state courts, would he have a plea of collateral estoppel in that event?"
+1969.57,1,26231,gene_e_voigts,,2849.173,2854.981,"Your Honor, I must frankly say, I do not think that that question has been adjudicated by the courts of Missouri"
+1969.57,1,15071,byron_r_white,scotus_justice,2854.981,2855.152,Well its been adjudicated --
+1969.57,1,26231,gene_e_voigts,,2855.152,2855.444,"I frankly, I would suggest --"
+1969.57,1,15071,byron_r_white,scotus_justice,2855.444,2858.75,"It's been adjudicated in the federal courts, hasn't it?"
+1969.57,1,26231,gene_e_voigts,,2858.75,2876.383,"Yes, sir and I would suggest that under those circumstances if there were express findings of fact that the principle of collateral estoppel would be applicable without getting into the question as to whether or not the principle of collateral estoppel rises to the level of being constitutional applicable."
+1969.57,1,15071,byron_r_white,scotus_justice,2876.383,2876.589,Yes.
+1969.57,1,26231,gene_e_voigts,,2885.242,2887.266,As I understand it Your Honor it has been applied (Voice Overlap) situations.
+1969.57,1,15071,byron_r_white,scotus_justice,2887.266,2890.789,Would there be a double jeopardy?
+1969.57,1,26231,gene_e_voigts,,2890.789,2903.615,"The cases which I have examined on that question, Your Honor, deal with it I believe as a principle of collateral estoppel without elevating it necessarily to the level of a constitutional guarantee."
+1969.57,1,15071,byron_r_white,scotus_justice,2903.615,2910.121,"Well, what would be your view though, wholly aside from the cases, would that be a double jeopardy if the --"
+1969.57,1,26231,gene_e_voigts,,2910.121,2918.881,"Obviously, my view has to be in this case, Your Honor, that collateral estoppel does not rise to the level of a constitutional guarantee."
+1969.57,1,15071,byron_r_white,scotus_justice,2926.367,2930.903,Why wouldn't it be double jeopardy in the facts I posed?
+1969.57,1,26231,gene_e_voigts,,2934.383,2948.979,"That's right, Your Honor because it is collateral estoppel I would submit is not a part of the definition of double jeopardy as would be applied by our constitution."
+1969.57,1,15071,byron_r_white,scotus_justice,2948.979,2950.415,Thank you.
+1969.57,1,26231,gene_e_voigts,,2950.415,2969.571,"For those reasons then, we would submit that this Court should affirm the judgment of the United States Court of Appeals for the Eighth Circuit; first, on the basis that the actions here brought in question did not constitute a fundamental unfairness to the petitioner."
+1969.57,1,15073,warren_e_burger,scotus_justice,3005.443,3007.085,Thank you Mr. Voigts.
+1969.57,2,18602,clark_m_clifford,,3009.193,3011.685,"Yes, Mr. Chief Justice."
+1969.57,2,15073,warren_e_burger,scotus_justice,3064.216,3067.383,"That didn't involve multiple parties, did it?"
+1969.57,2,18602,clark_m_clifford,,3067.383,3069.447,It did not in that instance.
+1969.57,2,15104,thurgood_marshall,scotus_justice,3145.111,3147.081,Not as the constitutional argument?
+1969.57,2,18602,clark_m_clifford,,3147.081,3154.152,"It was not, it was not, but it was -- on those particular facts he said that this should apply."
+1969.57,2,15073,warren_e_burger,scotus_justice,3352.106,3354.457,Would you just give us this page cite on that?
+1969.57,2,18602,clark_m_clifford,,3354.457,3354.728,"Yes sir, it's 107 --"
+1969.57,2,15073,warren_e_burger,scotus_justice,3354.728,3356.847,"(Voice Overlap), I think your time is up."
+1969.57,2,18602,clark_m_clifford,,3356.847,3360.393,Its 107 Your Honor and I just want to say this.
+1969.57,2,15073,warren_e_burger,scotus_justice,3388.397,3389.774,Thank you Mr. Clifford.
+1969.57,2,18602,clark_m_clifford,,3401.116,3402.672,Thank you Your Honor.

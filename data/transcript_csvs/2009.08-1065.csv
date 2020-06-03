@@ -1,0 +1,234 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2009.08-1065,0,15086,john_g_roberts_jr,scotus_justice,0.0,7.67,"We will hear argument first this morning in Case 08-1065, Pottawattamie County v. McGhee."
+2009.08-1065,0,42101,stephen_sanders,,8.687,11.356,"Mr. Chief Justice, and may it please the Court:"
+2009.08-1065,0,15113,anthony_m_kennedy,scotus_justice,37.137,44.743,Your -- your case here is a polite way of telling us we wasted our time in Buckley v. Fitzsimmons.
+2009.08-1065,0,42101,stephen_sanders,,44.743,45.96,Your Honor--
+2009.08-1065,0,15113,anthony_m_kennedy,scotus_justice,45.96,48.629,"I mean, we were just spinning our wheels in that case?"
+2009.08-1065,0,42101,stephen_sanders,,48.629,50.564,"--Your Honor, I don't believe so at all."
+2009.08-1065,0,15084,ruth_bader_ginsburg,scotus_justice,84.702,108.418,"Does that mean that, even if we were dealing with police officers who did what the prosecutors were alleged to have done at the investigation stage, no prosecutor, only police investigators, the fact that a trial and a conviction had occurred would mean that the police officers were not liable, either?"
+2009.08-1065,0,42101,stephen_sanders,,108.418,135.753,"Your Honor, the fact that a trial and conviction had occurred could mean that the police officers were liable because of the due process violation at the trial, but in footnote 5 of Buckley, this Court was very clear and insisted that there is no disjunction between observing that a prosecutor, like a police officer, has only qualified immunity during the investigation while, at the same time, insisting that that does not affect the fact that the prosecutor has absolute--"
+2009.08-1065,0,15113,anthony_m_kennedy,scotus_justice,135.753,138.019,Take two cases.
+2009.08-1065,0,42101,stephen_sanders,,157.582,165.438,"--Your Honor, it should be the same if the prosecutor in the second case that you hypothesize had nothing to do with the later prosecution."
+2009.08-1065,0,15084,ruth_bader_ginsburg,scotus_justice,196.275,262.35,"I'm not sure that I fully grasp your answer to my first question and to Justice Kennedy's, that is, yes or no, if everything that happened was alleged to have happened, but it was done by a police officer or a different prosecutor, nonetheless, the trial went on, the fabricated evidence was introduced, without any participation by the actual prosecutor in that fabrication, does a conviction -- does the -- do the police officers or the prosecutors that was not involved in the trial get absolute -- are they -- are they no more liable, not because they have absolute immunity, but because the trial and conviction at which the evidence was used overtakes what liability they might have had, absent the trial?"
+2009.08-1065,0,42101,stephen_sanders,,263.852,266.888,"--Your Honor, our position is -- I believe I would agree with you."
+2009.08-1065,0,15049,antonin_scalia,scotus_justice,292.455,294.888,You're not answering the question clearly.
+2009.08-1065,0,42101,stephen_sanders,,305.81,306.46,--Yes.
+2009.08-1065,0,15049,antonin_scalia,scotus_justice,307.762,308.312,Good.
+2009.08-1065,0,42101,stephen_sanders,,309.445,309.881,--Yes.
+2009.08-1065,0,15049,antonin_scalia,scotus_justice,319.337,324.89,"Well, she's more concerned about the prosecutor, and the prosecutor, also, would be treated just like a police officer?"
+2009.08-1065,0,42101,stephen_sanders,,324.89,327.758,"If the prosecutor performed no prosecutorial function, that's correct."
+2009.08-1065,0,15049,antonin_scalia,scotus_justice,327.758,328.342,In the case?
+2009.08-1065,0,42101,stephen_sanders,,328.342,329.358,"That's correct, Your Honor."
+2009.08-1065,0,15086,john_g_roberts_jr,scotus_justice,329.358,332.794,But only if the -- only if the evidence is presented at trial?
+2009.08-1065,0,42101,stephen_sanders,,332.794,337.798,But only if the evidence is presented at trial because that's the only way the evidence can provide injury and so--
+2009.08-1065,0,15113,anthony_m_kennedy,scotus_justice,337.798,343.368,"So the -- so the law is the more deeply you're involved in the wrong, the more likely you are to be immune?"
+2009.08-1065,0,42101,stephen_sanders,,345.002,355.16,"--Your Honor, I think it's not the more deeply you are involved, it's whether you are in the unique position of a prosecutor to cause injury by use of the evidence at trial."
+2009.08-1065,0,15084,ruth_bader_ginsburg,scotus_justice,368.9,394.201,"But it's strange to say you can have a prosecutor, who wasn't involved in the trial, would have liability, but as long as the prosecutor, in effect, turns the investigatory stage material over to himself, rather than to another prosecutor, then there's absolute immunity."
+2009.08-1065,0,42101,stephen_sanders,,394.201,404.324,"Your Honor, that is correct, but I think the Court, more than 80 years ago, when it summarily affirmed Yaselli v. Goff from the Second Circuit, spoke to this question."
+2009.08-1065,0,15084,ruth_bader_ginsburg,scotus_justice,417.149,420.868,"No, but the -- the question is not at trial, nothing about trial."
+2009.08-1065,0,42101,stephen_sanders,,423.637,430.891,"--The -- the odd thing about -- if we are taking out reference to the trial itself, then there simply can be no claim."
+2009.08-1065,0,15084,ruth_bader_ginsburg,scotus_justice,438.961,449.768,"But you said that there -- that there would be liability, as long as it wasn't the same person involved in the investigation and the trial."
+2009.08-1065,0,42101,stephen_sanders,,465.528,484.322,"--Your Honor, looking to the common law, the rationale for that would be a form of malicious prosecution, but as you observed in your concurrence in Albright, asserting malicious prosecution against a prosecutor would be anomalous because it's the prosecutor who is exclusively responsible for causing the kind of injury."
+2009.08-1065,0,15131,sonia_sotomayor,scotus_justice,502.617,523.197,"But that makes no sense because, if you go down that road, then what you're saying is that neither the -- neither a police officer or a different prosecutor who fabricated evidence could be liable, either, because the only person who causes the deprivation is the prosecutor who uses the false evidence at trial."
+2009.08-1065,0,42101,stephen_sanders,,523.197,530.434,"--Your Honor, this Court has not spoken to that question, but as you stated, that would be the rationale of the restatement actually."
+2009.08-1065,0,15131,sonia_sotomayor,scotus_justice,538.921,548.829,"Now, the Second Circuit in its decision, Judge Newman, looked at it and said there are two causes to the injury here."
+2009.08-1065,0,42101,stephen_sanders,,574.094,574.644,Uh-hmm.
+2009.08-1065,0,15131,sonia_sotomayor,scotus_justice,574.644,580.331,Why doesn't that theory fit the same prosecutor who commits two different acts?
+2009.08-1065,0,42101,stephen_sanders,,580.331,581.117,"Your Honor, I think--"
+2009.08-1065,0,15131,sonia_sotomayor,scotus_justice,581.117,591.973,"One commits the direct violation, and the other act, the investigatory act, contributes to it, leads to it as a joint activity with it."
+2009.08-1065,0,42101,stephen_sanders,,591.973,596.959,"--Your Honor, I believe the analysis is not that it -- because it leads to the injury itself."
+2009.08-1065,0,15131,sonia_sotomayor,scotus_justice,618.456,623.194,You're confusing -- the constitutional injury is the deprivation of liberty.
+2009.08-1065,0,42101,stephen_sanders,,624.76,625.396,--That's correct.
+2009.08-1065,0,15131,sonia_sotomayor,scotus_justice,625.396,631.382,What causes that injury is not an element of the crime.
+2009.08-1065,0,42101,stephen_sanders,,636.703,637.186,Well--
+2009.08-1065,0,15131,sonia_sotomayor,scotus_justice,637.186,642.607,So why does the use define the scope of the injury?
+2009.08-1065,0,42101,stephen_sanders,,642.607,645.559,--Because that is the way a prosecutor would be held liable.
+2009.08-1065,0,15084,ruth_bader_ginsburg,scotus_justice,667.523,674.042,What about the view that Judge Fairchild expressed very simply.
+2009.08-1065,0,42101,stephen_sanders,,681.898,689.838,"--Your Honor, as we discussed in our opening brief in this case, I think that Judge Fairchild's reasoning is classic malicious prosecution reasoning."
+2009.08-1065,0,15084,ruth_bader_ginsburg,scotus_justice,730.479,732.748,Was there no injury in the period before?
+2009.08-1065,0,42101,stephen_sanders,,740.271,745.739,"--Your Honor, I think any earlier deprivation of liberty would be covered by the Fourth Amendment."
+2009.08-1065,0,15060,john_paul_stevens,scotus_justice,767.735,770.437,Would you clear up one thing for me I really don't quite understand.
+2009.08-1065,0,42101,stephen_sanders,,774.739,779.126,"Your Honor, this Court has not addressed that issue."
+2009.08-1065,0,15060,john_paul_stevens,scotus_justice,782.078,785.114,Are you assuming that to be correct or are you disputing that?
+2009.08-1065,0,42101,stephen_sanders,,785.114,787.399,"We're assuming that to be correct, but if I--"
+2009.08-1065,0,15060,john_paul_stevens,scotus_justice,787.399,793.386,"But if that's true, why doesn't the trial immunize the police officers because they didn't cause the trial?"
+2009.08-1065,0,42101,stephen_sanders,,798.52,801.353,--A police officer would never get immunity at trial because--
+2009.08-1065,0,15060,john_paul_stevens,scotus_justice,801.353,804.155,"Not to get immunity, but why is he liable?"
+2009.08-1065,0,42101,stephen_sanders,,809.357,819.348,"--The theory of the common law on malicious prosecution would be that the police officer is liable because his fabrication of evidence impelled the proceeding, caused the proceeding."
+2009.08-1065,0,15060,john_paul_stevens,scotus_justice,819.348,821.148,But it was not a malicious prosecution.
+2009.08-1065,0,42101,stephen_sanders,,829.436,839.126,"The basis for liability precisely against the police officer would be the violation of the due process right to a fair trial, Wrongful conviction on the basis of the introduction--"
+2009.08-1065,0,15060,john_paul_stevens,scotus_justice,839.126,842.344,Why doesn't the theory apply to the facts of this case also?
+2009.08-1065,0,42101,stephen_sanders,,842.344,850.517,--This theory wouldn't apply to the facts of this case because in this case the prosecutors made the decision independently to initiate the prosecution.
+2009.08-1065,0,15060,john_paul_stevens,scotus_justice,865.21,870.863,This investigation by the prosecutor could not have caused injury but for the immunized act of going forward with the trial.
+2009.08-1065,0,42101,stephen_sanders,,870.863,872.465,"But, Your Honor, I think--"
+2009.08-1065,0,15060,john_paul_stevens,scotus_justice,872.465,873.282,What's the difference?
+2009.08-1065,0,42101,stephen_sanders,,873.282,901.933,"--I think that that reasoning would be to what this Court affirmed in Yaselli and what this Court has said -- and which the Court has repeatedly cited favorably, and that is -- and it would also run up against the concerns that Justice Kennedy indicated in his concurrence in Buckley, which this -- the majority in Buckley also disputed and said there is no disjunction between qualified immunity for a prosecutor during an investigation but absolute immunity for the act of setting the prosecution in motion."
+2009.08-1065,0,15086,john_g_roberts_jr,scotus_justice,921.679,922.463,"Thank you, counsel."
+2009.08-1065,1,37171,neal_kumar_katyal,,936.021,938.406,"Thank you, Mr. Chief Justice and may it please the Court:"
+2009.08-1065,1,15139,stephen_g_breyer,scotus_justice,965.056,966.306,Why do we need that theory?
+2009.08-1065,1,37171,neal_kumar_katyal,,997.511,1001.896,Respondents' primary submission before this Court is not that argument.
+2009.08-1065,1,15139,stephen_g_breyer,scotus_justice,1002.498,1003.065,All right.
+2009.08-1065,1,37171,neal_kumar_katyal,,1004.331,1009.485,"--Right, and with respect to that I think we have several, several responses."
+2009.08-1065,1,15139,stephen_g_breyer,scotus_justice,1016.823,1019.141,Mere foreseeability.
+2009.08-1065,1,37171,neal_kumar_katyal,,1045.325,1056.883,"I think there are practical and conceptual problems, which is why Buckley reserved precisely this question in footnote 5, and here's the basic policy or conceptual concern."
+2009.08-1065,1,15139,stephen_g_breyer,scotus_justice,1072.725,1073.944,I interrupt you right there.
+2009.08-1065,1,37171,neal_kumar_katyal,,1082.45,1097.96,"--And, Justice Breyer, I'm saying to do that requires you to read the due process violation as occurring sometime before the trial, and then we're back to the free-standing rationale and the opening up of the due process clause to something this Court has never, ever accepted."
+2009.08-1065,1,15139,stephen_g_breyer,scotus_justice,1097.96,1099.579,So I agree with you on that.
+2009.08-1065,1,37171,neal_kumar_katyal,,1135.085,1141.656,The conceptual problem is that this Court has been explicit that section 1983 is not the font of tort law.
+2009.08-1065,1,15049,antonin_scalia,scotus_justice,1158.617,1161.902,And how do you get the policeman who has fabricated the evidence?
+2009.08-1065,1,37171,neal_kumar_katyal,,1161.902,1179.447,"Because the policeman essentially induces the prosecution at an earlier point of time and acts through the innocent agent, the prosecutor, that introduction of evidence at trial is not something as to which the policeman has any sort of absolute immunity."
+2009.08-1065,1,15113,anthony_m_kennedy,scotus_justice,1190.387,1195.04,What if a prosecutor knows that it's fabricated evidence?
+2009.08-1065,1,37171,neal_kumar_katyal,,1206.598,1207.198,Right.
+2009.08-1065,1,15113,anthony_m_kennedy,scotus_justice,1207.198,1207.998,Suppose he knows?
+2009.08-1065,1,37171,neal_kumar_katyal,,1207.998,1214.102,"And if the prosecutor does know, we don't think that there is a Fifth Amendment due process violation."
+2009.08-1065,1,15113,anthony_m_kennedy,scotus_justice,1214.102,1214.954,Against the policeman?
+2009.08-1065,1,37171,neal_kumar_katyal,,1214.954,1217.906,"Against -- against the policeman in that circumstance, because the--"
+2009.08-1065,1,15113,anthony_m_kennedy,scotus_justice,1217.906,1221.524,"Again, the more aggravated the tort, the greater the immunity."
+2009.08-1065,1,37171,neal_kumar_katyal,,1221.524,1223.074,--And I agree that that seems a little odd--
+2009.08-1065,1,15113,anthony_m_kennedy,scotus_justice,1223.074,1229.63,"You're basically saying that you cannot aid and abet someone who is immune, and that's just not the law."
+2009.08-1065,1,37171,neal_kumar_katyal,,1229.63,1235.867,"--No, what I'm saying and what this Court's decisions have said is that absolute immunity doesn't exist to protect bad apples."
+2009.08-1065,1,15131,sonia_sotomayor,scotus_justice,1260.066,1267.637,A prosecutor is not going to flinch when he suspects evidence is perjured or fabricated?
+2009.08-1065,1,37171,neal_kumar_katyal,,1280.646,1283.598,"Justice Sotomayor, we absolutely want to send that message."
+2009.08-1065,1,15131,sonia_sotomayor,scotus_justice,1292.554,1299.791,Am I right that none of the -- neither of the two prosecutors in this case were sanctioned in any way for their conduct?
+2009.08-1065,1,37171,neal_kumar_katyal,,1299.791,1303.762,"--I believe that is correct, and I also believe that no ethics complaints were ever brought."
+2009.08-1065,1,15131,sonia_sotomayor,scotus_justice,1310.349,1326.091,"But you have no reason to dispute the numerous studies we were provided that show that as a matter of routine prosecutors are not sanctioned for improper prosecutorial conduct in the investigatory stage, are you?"
+2009.08-1065,1,37171,neal_kumar_katyal,,1326.091,1333.531,"Well, I do think that there is a debate in the briefs before this Court, including the brief by 12,400 or so prosecutors that takes the reverse view."
+2009.08-1065,1,15113,anthony_m_kennedy,scotus_justice,1348.624,1356.194,"Well, you can't have it both ways and say this is a policy we should take into account and then when Justice Sotomayor asks you a question, say: Oh, well, that's for the legislature."
+2009.08-1065,1,37171,neal_kumar_katyal,,1359.579,1376.608,"Well, with respect to a cause of action and whether the principles of absolute immunity apply to this, I think this Court has already recognized several times that the overriding interest is protecting the judicial process and not letting information be chilled and not come in."
+2009.08-1065,1,15060,john_paul_stevens,scotus_justice,1449.589,1463.563,"I don't understand why at the time of introducing the evidence, the policy concerns that you've described arise, because we were criticizing what he did before he introduced the evidence."
+2009.08-1065,1,37171,neal_kumar_katyal,,1463.563,1472.217,"When -- when the evidence is introduced and it's the prosecutor himself who developed that evidence, maybe through flipping a witness or something like that, that--"
+2009.08-1065,1,15060,john_paul_stevens,scotus_justice,1472.217,1475.102,"Right, and he would know whether or not it was fabricated."
+2009.08-1065,1,37171,neal_kumar_katyal,,1475.102,1481.79,"--Well, he would know whether or not it's fabricated, but the question is whether he would know that he could insulate himself from an allegation of wrongdoing."
+2009.08-1065,1,15060,john_paul_stevens,scotus_justice,1506.473,1512.294,But haven't we said that during the investigating stage their conduct is subject to different rules than during the trial?
+2009.08-1065,1,37171,neal_kumar_katyal,,1512.294,1515.246,"--For purposes of absolute immunity, and we agree with that."
+2009.08-1065,1,15060,john_paul_stevens,scotus_justice,1533.406,1543.996,"I just don't see the -- I don't to see if I can understand the reason why the time in which the violation is completed, namely after the trial, goes to the question of whether there is liability for pretrial conduct."
+2009.08-1065,1,37171,neal_kumar_katyal,,1543.996,1552.517,"--Well, we think there is no liability for pretrial conduct, and so long as you agree with me that the due process clause violation begins only at the trial--"
+2009.08-1065,1,15060,john_paul_stevens,scotus_justice,1552.517,1558.338,"It was completed at the trial, but it began when the -- the phony investigation started."
+2009.08-1065,1,37171,neal_kumar_katyal,,1558.338,1570.729,"--The -- the text of the due process clause says the deprivation of life, liberty, property with -- under due process of law, and due process under this Court's decisions is what happens at trial, not before."
+2009.08-1065,1,15086,john_g_roberts_jr,scotus_justice,1570.729,1572.079,"Thank you, Mr. Katyal."
+2009.08-1065,2,37772,paul_d_clement,,1575.364,1591.207,"Mr. Chief Justice, and may it please the Court: As I listen to Petitioners, I hear two arguments to why there ought to be liability for the prosecutor -- rather, for the police officer and not the prosecutor, and both of those are arguments this Court has already heard and rejected."
+2009.08-1065,2,15068,samuel_a_alito_jr,scotus_justice,1628.163,1642.072,"When the issue, when the -- the claim is based on the evaluation of the truthfulness of a witness who eventually testifies at trial, where's the line to be drawn between the investigative stage and the prosecutorial stage?"
+2009.08-1065,2,37772,paul_d_clement,,1642.072,1647.79,"--Well, I think, Justice Alito, the place to draw the line is the place this Court drew the line in Buckley, which is probable cause."
+2009.08-1065,2,15068,samuel_a_alito_jr,scotus_justice,1663.133,1669.12,What concerns me about your argument is the -- is a real fear that it will eviscerate Imbler.
+2009.08-1065,2,37772,paul_d_clement,,1765.264,1772.187,"Well, Justice Alito, let me try to answer it this way, which is you mentioned both organized crime cases and insider trading cases."
+2009.08-1065,2,15068,samuel_a_alito_jr,scotus_justice,1791.713,1796.765,"Well, I mean, that might be true as an empirical matter, but I don't understand why it would be hard to allege."
+2009.08-1065,2,37772,paul_d_clement,,1796.765,1797.617,--What would you--
+2009.08-1065,2,15068,samuel_a_alito_jr,scotus_justice,1797.617,1802.235,What would you have to allege to get by Iqbal or to get by summary judgment?
+2009.08-1065,2,37772,paul_d_clement,,1822.481,1823.348,--I don't--
+2009.08-1065,2,15068,samuel_a_alito_jr,scotus_justice,1823.348,1825.1,You certainly get by 12(b)(6).
+2009.08-1065,2,37772,paul_d_clement,,1825.1,1832.171,"--As I hear your hypothetical, I don't think so, because the thing that's missing is the allegation that the prosecutors fabricated that evidence."
+2009.08-1065,2,15086,john_g_roberts_jr,scotus_justice,1834.289,1836.325,"Well, but what -- what if there's an acquittal?"
+2009.08-1065,2,37772,paul_d_clement,,1846.43,1847.613,"Well, two things, Your Honor."
+2009.08-1065,2,15068,samuel_a_alito_jr,scotus_justice,1875.55,1877.35,Why is it difficult to allege fabrication?
+2009.08-1065,2,37772,paul_d_clement,,1907.671,1909.404,"Well, Justice Alito, let me say this."
+2009.08-1065,2,15049,antonin_scalia,scotus_justice,1917.893,1919.812,I don't know what you mean by that.
+2009.08-1065,2,37772,paul_d_clement,,1919.812,1939.725,"--In -- in the typical case, if -- if the witness perhaps in the first instance comes up with one testimony and later comes up in -- with a different story later, the question for purposes of absolute immunity is going to be, did all of the conduct that you're alleging, the fabrication, did all of it take place before probable cause attached?"
+2009.08-1065,2,15068,samuel_a_alito_jr,scotus_justice,1946.912,1953.283,"That's an entirely false picture of the way any sophisticated prosecution is handled today, completely false."
+2009.08-1065,2,37772,paul_d_clement,,1961.222,1962.906,"--And, again--"
+2009.08-1065,2,15068,samuel_a_alito_jr,scotus_justice,1962.906,1973.677,"And so then you have to go back and determine whether there was -- if there wasn't probable cause before the interview, then there is liability."
+2009.08-1065,2,37772,paul_d_clement,,1978.248,1985.402,"--I think if I understand your hypothetical, the question would actually be whether there was probable cause before the re-interview, because if at the point--"
+2009.08-1065,2,15068,samuel_a_alito_jr,scotus_justice,1985.402,1999.345,"Before the re-interview, because the prosecutor doesn't want to take the case to the grand jury before looking this witness in the eye and seeing whether this -- this guy who's got a lot of impeachment baggage is -- is a -- is a credible witness."
+2009.08-1065,2,37772,paul_d_clement,,1999.345,2001.145,"--Well, two things, Justice Alito."
+2009.08-1065,2,15086,john_g_roberts_jr,scotus_justice,2039.22,2047.807,"How -- how do you -- I mean, we hear that type of argument every time, because there is usually a circuit conflict here, and you look at one circuit and say the world hasn't fallen."
+2009.08-1065,2,37772,paul_d_clement,,2059.347,2070.036,"--I think if you look at reported, both unpublished and published Second Circuit decisions at the district court level and the court of appeals level, you would find very few cases that even cite Zahrey."
+2009.08-1065,2,15086,john_g_roberts_jr,scotus_justice,2074.107,2077.909,Do you think there will be -- do you think there will be more if we agree with your theory?
+2009.08-1065,2,37772,paul_d_clement,,2077.909,2079.259,In the Second Circuit?
+2009.08-1065,2,15086,john_g_roberts_jr,scotus_justice,2107.744,2109.78,"Well, but it's also you don't really know, right?"
+2009.08-1065,2,37772,paul_d_clement,,2118.886,2121.754,"Well, Your Honor, we don't know for sure."
+2009.08-1065,2,15086,john_g_roberts_jr,scotus_justice,2175.156,2180.542,What -- what is the basis for the 1983 claim without the submission at trial?
+2009.08-1065,2,37772,paul_d_clement,,2180.542,2185.494,"--Without the submission at trial -- I mean, it would depend, I suppose, on the circumstances."
+2009.08-1065,2,15086,john_g_roberts_jr,scotus_justice,2187.196,2192.434,"Well, you know I'm not talking about the Fourth Amendment violation, which is complete whether there's a trial or not."
+2009.08-1065,2,37772,paul_d_clement,,2192.434,2195.802,--Well -- and then maybe I just need a concrete hypothetical.
+2009.08-1065,2,15113,anthony_m_kennedy,scotus_justice,2247.652,2252.806,What's -- what's -- what's your best authority for the proposition that there's liability in the case the Chief Justice put?
+2009.08-1065,2,37772,paul_d_clement,,2253.539,2258.21,"--I -- I -- I'm not sure I have a best case for that, Justice Kennedy."
+2009.08-1065,2,15113,anthony_m_kennedy,scotus_justice,2329.02,2329.92,You will have to refresh my memory.
+2009.08-1065,2,37772,paul_d_clement,,2332.389,2333.805,It was a Fourth Amendment violation.
+2009.08-1065,2,15113,anthony_m_kennedy,scotus_justice,2333.805,2335.441,So that -- so that's not--
+2009.08-1065,2,37772,paul_d_clement,,2335.441,2343.197,"No, I think it illustrates the principle, which is you don't have to have a completed constitutional violation in your 1983 action."
+2009.08-1065,2,15049,antonin_scalia,scotus_justice,2360.908,2379.703,The difference here is that the -- the absolutely immune act which follows the -- the unlawful act is -- is an absolutely immune act by the very actor who performed the earlier act that -- that you say induces liability.
+2009.08-1065,2,37772,paul_d_clement,,2394.813,2395.63,"Well, the--"
+2009.08-1065,2,15049,antonin_scalia,scotus_justice,2395.63,2396.748,That's the difference.
+2009.08-1065,2,37772,paul_d_clement,,2408.472,2409.355,--Well--
+2009.08-1065,2,15060,john_paul_stevens,scotus_justice,2409.355,2411.188,That's the reason the rule seems perverse.
+2009.08-1065,2,37772,paul_d_clement,,2411.188,2411.955,--What's that?
+2009.08-1065,2,15060,john_paul_stevens,scotus_justice,2411.955,2415.759,That's the very reason the rule they're arguing for seems perverse.
+2009.08-1065,2,37772,paul_d_clement,,2415.759,2423.429,"Well, I would ask -- I would ask both of you to go back and read two things, and I would particularly like Justice Scalia to go back and read your separate opinion in Burns."
+2009.08-1065,2,15086,john_g_roberts_jr,scotus_justice,2460.102,2470.91,"If you cannot rely on anything that goes on at the trial to establish the due process violation, what do you rely on to establish the violation?"
+2009.08-1065,2,37772,paul_d_clement,,2470.91,2472.01,"Well, Mr. Chief Justice--"
+2009.08-1065,2,15086,john_g_roberts_jr,scotus_justice,2472.01,2477.314,"I guess the question is where is it complete, or do you say it doesn't have to be a complete violation?"
+2009.08-1065,2,37772,paul_d_clement,,2477.314,2485.669,"--Well, I guess what I would do, Mr. Chief Justice, is try to take issue with your premise, which is that we can't advert to the absolute immune act at all."
+2009.08-1065,2,15086,john_g_roberts_jr,scotus_justice,2487.519,2494.525,"Well, let's say that you -- let's say that you can't because we read Imbler as conferring absolute immunity on what goes on at the trial."
+2009.08-1065,2,37772,paul_d_clement,,2499.977,2519.974,"--Well, I would still say we do, but please let me try to take one more crack at the premise, which is Imbler is not a use immunity case and this Court has rejected the proposition that just because you're absolutely immune for an act there's no evidentiary use of that in going after conduct that was earlier in the causal chain."
+2009.08-1065,2,15086,john_g_roberts_jr,scotus_justice,2532.598,2533.566,Against -- against the judge?
+2009.08-1065,2,37772,paul_d_clement,,2533.566,2537.352,"--It wasn't against the judge, but I -- but with all due respect, I don't think that matters."
+2009.08-1065,2,15086,john_g_roberts_jr,scotus_justice,2538.268,2540.72,"Well, that's the distinction here in this case, isn't it?"
+2009.08-1065,2,37772,paul_d_clement,,2540.72,2543.839,"--Well, but -- but it's a distinction without a difference."
+2009.08-1065,2,15086,john_g_roberts_jr,scotus_justice,2596.891,2605.597,"In terms of the chilling impact on the prosecutor, what difference does it make whether it's at trial or pretrial for use at trial?"
+2009.08-1065,2,37772,paul_d_clement,,2605.597,2619.672,"Well, I think it makes all the difference in the world in the sense that if -- if they know that everything they do at trial is going to be protected, those functions, which is the basis of this Court's functional approach to absolute immunity, are going to be protected."
+2009.08-1065,2,15049,antonin_scalia,scotus_justice,2620.256,2621.256,But it won't be protected.
+2009.08-1065,2,37772,paul_d_clement,,2652.493,2658.731,"--Well, I think there is going to be an effect on the deterrent effect on the prosecutor pretrial, which is they will be procured."
+2009.08-1065,2,15139,stephen_g_breyer,scotus_justice,2683.782,2688.734,"There's a different tendency, which I would say this is a slight fluke, what you're describing."
+2009.08-1065,2,37772,paul_d_clement,,2732.762,2733.797,Well--
+2009.08-1065,2,15139,stephen_g_breyer,scotus_justice,2733.797,2739.266,"Or is there something -- I mean, I can see Buckley with the, you know, probable cause."
+2009.08-1065,2,37772,paul_d_clement,,2757.58,2764.151,"--Well, Justice Breyer, I mean, I would say that there is no reason for this Court to disturb the line it drew in Buckley."
+2009.08-1065,2,15139,stephen_g_breyer,scotus_justice,2765.417,2768.286,We have amicus briefs here that give us a lot of reason.
+2009.08-1065,2,37772,paul_d_clement,,2781.028,2782.012,--Well--
+2009.08-1065,2,15139,stephen_g_breyer,scotus_justice,2782.012,2783.662,"And they say they do it in Chicago, I think."
+2009.08-1065,2,37772,paul_d_clement,,2785.064,2794.42,"--Well, I mean, another thing presumably, Justice Breyer, you want to encourage is having the police officers come to the prosecutors and get legal advice about what they're doing."
+2009.08-1065,2,15113,anthony_m_kennedy,scotus_justice,2803.692,2817.535,"--Well, could you answer Justice Breyer's question, which I -- I think raises a -- a critical point in terms of Justice Alito's examples of talking to the witness."
+2009.08-1065,2,37772,paul_d_clement,,2829.676,2831.128,"--Well, Justice Kennedy, let me respond."
+2009.08-1065,2,15113,anthony_m_kennedy,scotus_justice,2839.449,2842.853,"No, but probable cause doesn't work because you have -- you have probable cause once you fabricate the evidence."
+2009.08-1065,2,37772,paul_d_clement,,2842.853,2843.619,"Well, I think--"
+2009.08-1065,2,15113,anthony_m_kennedy,scotus_justice,2843.619,2844.536,That's circular.
+2009.08-1065,2,37772,paul_d_clement,,2844.536,2845.971,"--No, I don't think so."
+2009.08-1065,2,15113,anthony_m_kennedy,scotus_justice,2901.022,2914.949,"Suppose the prosecutor isn't sure there's probable cause and he calls -- calls in the accountant, the CFO, and really doesn't begin to believe his story, so he starts probing and finally he gets the CFO to change his story with the plea -- plea bargain."
+2009.08-1065,2,37772,paul_d_clement,,2921.353,2927.757,"I think at the point -- if the interview begins and he doesn't think he has probable cause, I think that that--"
+2009.08-1065,2,15113,anthony_m_kennedy,scotus_justice,2927.757,2928.273,"Well, he's trying to find out."
+2009.08-1065,2,37772,paul_d_clement,,2928.74,2930.223,--Of course he is trying to find out.
+2009.08-1065,2,15139,stephen_g_breyer,scotus_justice,2943.266,2961.494,"Well, also, you're making me more worried because I think, if 85 percent of all the defendants -- or 90 percent plead guilty, it might be a highly desirable thing to get prosecutors involved in the truth-discovering process, I mean, so that they don't just see themselves as the job of -- well, we're going to take somebody, put them in jail."
+2009.08-1065,2,37772,paul_d_clement,,2966.298,2971.767,"Well -- you know, I'm not sure what the logical place to push it back any further is, and I think -- you know--"
+2009.08-1065,2,15139,stephen_g_breyer,scotus_justice,2971.767,2972.619,Where have you got it now?
+2009.08-1065,2,37772,paul_d_clement,,2977.939,2978.772,--Yes.
+2009.08-1065,2,15139,stephen_g_breyer,scotus_justice,2978.772,2979.722,Someone?
+2009.08-1065,2,37772,paul_d_clement,,2982.474,2983.091,That's right.
+2009.08-1065,2,15139,stephen_g_breyer,scotus_justice,2983.091,2984.759,Uh-huh.
+2009.08-1065,2,37772,paul_d_clement,,2984.759,2992.413,"And let me say this, Justice Breyer, I mean, I know you don't want to talk about Burns, but I'd like to, just for a second, because I think it's a very similar policy concern."
+2009.08-1065,2,15086,john_g_roberts_jr,scotus_justice,3007.073,3007.989,"Well, we thought it was -- I'm sorry."
+2009.08-1065,2,37772,paul_d_clement,,3009.023,3011.689,--I just wanted to say the incentive would really be perverse.
+2009.08-1065,2,15086,john_g_roberts_jr,scotus_justice,3035.054,3040.975,"I was going to suggest in response to your point that -- you know, qualified immunity is really significant."
+2009.08-1065,2,37772,paul_d_clement,,3073.379,3088.975,"And, again, the Court addressed exactly this Court in the -- exactly that issue in the Buckley decision and said, sure -- you know, from -- with the benefit of hindsight, you can sort of retrospectively look and make anything in the investigatory stage part of -- and part and parcel of the prosecution."
+2009.08-1065,2,15068,samuel_a_alito_jr,scotus_justice,3102.383,3119.094,"In -- in answer to Justice Breyer's question, would -- would it be a -- would it be practical and conceptually correct to draw the line at the stage at which the prosecutor is interviewing witnesses to evaluate credibility?"
+2009.08-1065,2,37772,paul_d_clement,,3126.164,3129.45,"Well, if I could add, I mean, I suppose I might be able--"
+2009.08-1065,2,15068,samuel_a_alito_jr,scotus_justice,3129.45,3133.402,Not on whether there is probable cause because probable cause is -- is evanescent.
+2009.08-1065,2,37772,paul_d_clement,,3144.375,3164.123,"--And let me say this: If I could add a couple of words, I think we could probably live with that line, which is, if the prosecutor is interviewing those witnesses with an eye towards credibility for use at trial, I mean, that's a line that, I think, would be, I think, probably pretty consistent with probable cause, but something that we could live with, but--"
+2009.08-1065,2,15068,samuel_a_alito_jr,scotus_justice,3164.123,3179.549,"But with a line toward investigating credibility for use at a trial, which is -- which is, at that point, foreordained, but, if the evaluation is being done for the purpose of determining whether there should be a trial, then, no."
+2009.08-1065,2,37772,paul_d_clement,,3180.299,3183.6,"--Well, I mean, I worry that words are being put in my mouth."
+2009.08-1065,2,15086,john_g_roberts_jr,scotus_justice,3202.814,3207.652,"Well, your approach, then, encourages prosecutors to be trigger happy."
+2009.08-1065,2,37772,paul_d_clement,,3215.822,3221.56,"--Well, shoot first -- you mean go to an impartial magistrate and try to get somebody arrested or--"
+2009.08-1065,2,15086,john_g_roberts_jr,scotus_justice,3221.56,3222.994,"No, just begin the formulation."
+2009.08-1065,2,37772,paul_d_clement,,3230.898,3231.767,"--Well, I suppose--"
+2009.08-1065,2,15086,john_g_roberts_jr,scotus_justice,3231.767,3243.991,"In Justice Alito's hypothetical, you've got a CFO, you can -- you know, you've probably got probable cause to go after him as well, but you want to begin interviewing him, to see if he's going to flip in your case against the CEO."
+2009.08-1065,2,37772,paul_d_clement,,3243.991,3250.062,"--Well, if you have probable cause, then I think you're on the other side of the Buckley line, and that's an objective determination, and I think--"
+2009.08-1065,2,15086,john_g_roberts_jr,scotus_justice,3250.062,3254.181,"So you've got -- you've got to make that decision early in the process, rather than later."
+2009.08-1065,2,37772,paul_d_clement,,3254.181,3257.383,"--Well, I think it's -- I'm not sure it's a decision you have to make."
+2009.08-1065,2,15086,john_g_roberts_jr,scotus_justice,3370.953,3372.221,"Thank you, Mr. Clement."
+2009.08-1065,3,42101,stephen_sanders,,3375.09,3376.506,"Thank you, Mr. Chief Justice."
+2009.08-1065,3,15049,antonin_scalia,scotus_justice,3413.965,3416.417,What -- what does that prove?
+2009.08-1065,3,42101,stephen_sanders,,3435.359,3436.645,"--No, Your Honor."
+2009.08-1065,3,15049,antonin_scalia,scotus_justice,3445.75,3446.233,--Yes.
+2009.08-1065,3,42101,stephen_sanders,,3455.356,3456.808,I'm not sure I understand the question.
+2009.08-1065,3,15049,antonin_scalia,scotus_justice,3456.808,3457.524,Okay.
+2009.08-1065,3,42101,stephen_sanders,,3457.524,3468.449,"The -- I think it's important to understand the consequences of affirming the courts below, either on the basis of the Zahrey theory or on the freestanding due process theory offered by respondents."
+2009.08-1065,3,15084,ruth_bader_ginsburg,scotus_justice,3525.535,3535.908,"I want, before you're finished, to get a clear picture of your view of the dimensions of the claim because you rely heavily on the trial part."
+2009.08-1065,3,42101,stephen_sanders,,3555.555,3556.924,--Uh-huh.
+2009.08-1065,3,15084,ruth_bader_ginsburg,scotus_justice,3556.924,3561.125,Is anyone in this picture liable?
+2009.08-1065,3,42101,stephen_sanders,,3571.914,3574.349,"Your Honor, I believe there would be no due process liability."
+2009.08-1065,3,15084,ruth_bader_ginsburg,scotus_justice,3604.737,3614.926,"You said -- I think your position is that due process begins when trial is underway, and before that due process doesn't enter the picture?"
+2009.08-1065,3,42101,stephen_sanders,,3614.926,3624.699,"Your Honor, I believe that this Court's decisions make clear that due process applies to the judicial process; that is, the filing of charges and the later conduct of the prosecuting--"
+2009.08-1065,3,15060,john_paul_stevens,scotus_justice,3624.699,3626.484,"Yes, but what about the pretrial detention?"
+2009.08-1065,3,42101,stephen_sanders,,3628.436,3631.804,"--Your Honor, it would be, but that would be Fourth Amendment territory."
+2009.08-1065,3,15060,john_paul_stevens,scotus_justice,3631.804,3633.087,Why would it be Fourth Amendment?
+2009.08-1065,3,42101,stephen_sanders,,3637.791,3653.134,"Your Honor, this Court -- seven justices in this Court's decision in Albright agreed that there was no due process cause of action for the wrongful institution of criminal proceedings, that in that case there may be some sort of Fourth Amendment claim."
+2009.08-1065,3,15060,john_paul_stevens,scotus_justice,3657.955,3666.728,"But that case talked about the institution of prosecution, not the deprivation of liberty during pretrial detention, which is a different matter."
+2009.08-1065,3,42101,stephen_sanders,,3666.728,3687.641,"--Your Honor, I believe the Court's Fourth Amendment jurisprudence would still indicate that that is a concern of the Fourth Amendment, not the Due Process Clause, and that pursuant to Paul v. Davis and Parrot v. Taylor, there may indeed be some sort of State law cause of action for defamation or loss of status, but that there is no support for a Federal due process claim."
+2009.08-1065,3,15086,john_g_roberts_jr,scotus_justice,3687.641,3688.491,"Thank you, Counsel."

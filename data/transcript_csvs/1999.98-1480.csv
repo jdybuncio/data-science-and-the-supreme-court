@@ -1,0 +1,258 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1999.98-1480,0,15141,william_h_rehnquist,scotus_justice,0.0,8.567,"We'll hear argument first this morning in Number 98-1480, Robert A. Beck v. Ronald Prupis."
+1999.98-1480,0,33100,jay_starkman,,9.947,13.35,"Mr. Chief Justice, and may it please the Court:"
+1999.98-1480,0,15113,anthony_m_kennedy,scotus_justice,82.905,88.21,"Well, he wasn't injured by the formation of the agreement, and that was the conspiracy."
+1999.98-1480,0,33100,jay_starkman,,88.21,91.72,"Yes, that's correct, he's not injured..."
+1999.98-1480,0,15113,anthony_m_kennedy,scotus_justice,91.72,93.843,And that's all the conspiracy was.
+1999.98-1480,0,33100,jay_starkman,,93.843,96.846,"The conspiracy itself, though, has several objects."
+1999.98-1480,0,15113,anthony_m_kennedy,scotus_justice,150.551,154.734,"Well, let's say that we rule against you on this point."
+1999.98-1480,0,33100,jay_starkman,,177.119,195.651,"But here, the way that the statute was drafted, Justice Kennedy, the statute itself created four separate causes of action, and this Court in Salinas defined the words, to conspire, which only appear in the statute once, as being this criminal animal."
+1999.98-1480,0,15141,william_h_rehnquist,scotus_justice,195.651,198.533,"Well, that was a criminal case, was it not, Salinas?"
+1999.98-1480,0,33100,jay_starkman,,198.533,208.44,"Yes, sir, but just because those words are defined in a criminal context, they shouldn't have a different meaning in another section when that other section refers to them."
+1999.98-1480,0,15113,anthony_m_kennedy,scotus_justice,208.44,213.683,"Well, you say it creates four separate causes of action, but that's the issue, does it?"
+1999.98-1480,0,33100,jay_starkman,,213.683,217.544,"It is the...  well, it's the way the statute's written, though."
+1999.98-1480,0,15113,anthony_m_kennedy,scotus_justice,239.549,241.161,"Well, all of those were criminal acts."
+1999.98-1480,0,33100,jay_starkman,,244.812,246.184,The question here...
+1999.98-1480,0,15113,anthony_m_kennedy,scotus_justice,246.184,249.056,"I mean, you're just stating the conclusion when you say that."
+1999.98-1480,0,33100,jay_starkman,,249.056,258.333,"The question here, Justice Kennedy, is whether or not 1964(c) provides a civil remedy for each of those causes of action."
+1999.98-1480,0,15049,antonin_scalia,scotus_justice,258.333,265.686,"Well, they could provide a remedy for (d) without necessarily providing a remedy that gives you recovery here."
+1999.98-1480,0,33100,jay_starkman,,314.729,315.898,"Yes, sir."
+1999.98-1480,0,15049,antonin_scalia,scotus_justice,315.898,321.812,"Now, how has your client been harmed by the act of conspiring, directly harmed by the act of conspiring?"
+1999.98-1480,0,33100,jay_starkman,,321.812,329.089,Section 1964(c) requires an injury committed by reason of this section.
+1999.98-1480,0,15049,antonin_scalia,scotus_justice,329.089,332.361,By reason of a violation of 62.
+1999.98-1480,0,33100,jay_starkman,,332.361,335.881,"Yes, and that violation, the conspiracy..."
+1999.98-1480,0,15049,antonin_scalia,scotus_justice,335.881,338.535,You're using the noun again.
+1999.98-1480,0,15060,john_paul_stevens,scotus_justice,338.535,339.705,Stick with the verb.
+1999.98-1480,0,15049,antonin_scalia,scotus_justice,339.705,344.837,"How did the conspiring, the formation of that agreement harm your client?"
+1999.98-1480,0,33100,jay_starkman,,344.837,356.395,There had to be overt acts that are performed as a result of that these people conspire in order to trigger 1964(c)'s injury requirement.
+1999.98-1480,0,15049,antonin_scalia,scotus_justice,356.395,365.142,"That may well be, and he may have been injured by the overt act, but I don't see how he was injured by the violation of (d), which is the conspiring."
+1999.98-1480,0,33100,jay_starkman,,365.142,378.29,"In order to have this conspiring of people, they have to have an object, which is the three subsections of...  the three prior subsections of 1962."
+1999.98-1480,0,15049,antonin_scalia,scotus_justice,397.891,399.113,"Well, that's further down the line, though."
+1999.98-1480,0,33100,jay_starkman,,415.595,426.952,"No, it's directly down the line, Justice Scalia, from the decision that's made in the conspiracy that we have to continue with this conspiracy, and to do that we have to get rid of this person."
+1999.98-1480,0,15049,antonin_scalia,scotus_justice,458.692,460.943,But it wasn't one of the predicate acts.
+1999.98-1480,0,33100,jay_starkman,,460.943,461.364,No.
+1999.98-1480,0,15049,antonin_scalia,scotus_justice,461.364,467.477,"I mean, your argument for direct results of the conspiracy would be much stronger if, indeed, it was one of the predicate acts."
+1999.98-1480,0,33100,jay_starkman,,467.477,480.157,"Yes, it would, Justice Scalia, but there's no basis to make a distinction between overt acts committed in furtherance of the conspiracy and predicate acts committed in furtherance of the conspiracy when we're under 1962(d)."
+1999.98-1480,0,15049,antonin_scalia,scotus_justice,480.157,481.488,"If we're under (d), right?"
+1999.98-1480,0,33100,jay_starkman,,481.488,484.291,"If we're under (d), and here that's all that we're under."
+1999.98-1480,0,15139,stephen_g_breyer,scotus_justice,515.611,522.496,"What do you say about, is the...  the language of 1964(c) is very similar to the private treble damage antitrust suit."
+1999.98-1480,0,33100,jay_starkman,,522.496,523.066,"Yes, sir."
+1999.98-1480,0,15139,stephen_g_breyer,scotus_justice,523.066,528.709,And can a whistleblower bring an antitrust suit against a group of price fixers?
+1999.98-1480,0,33100,jay_starkman,,528.709,530.422,Probably not.
+1999.98-1480,0,15139,stephen_g_breyer,scotus_justice,530.422,534.103,"Not, all right, so how...  what's the distinction?"
+1999.98-1480,0,33100,jay_starkman,,534.103,535.996,The distinction is an antitrust.
+1999.98-1480,0,15139,stephen_g_breyer,scotus_justice,554.015,559.141,So I thought perhaps this...  your opponents are basically saying...  it's the same concept that's here.
+1999.98-1480,0,33100,jay_starkman,,568.968,571.691,That is what my opponents are saying in this case.
+1999.98-1480,0,15084,ruth_bader_ginsburg,scotus_justice,585.878,588.71,"But Mr. Starkman, it does undercut your plain meaning."
+1999.98-1480,0,33100,jay_starkman,,626.967,631.98,"There are three answers to that, Justice Ginsburg."
+1999.98-1480,0,15049,antonin_scalia,scotus_justice,659.46,681.662,"I find it ironic that you're appealing to what Congress intended, and you tell us it intended to reach organized crime, which indeed I think it did, which...  you know, I view that as people in pin-striped suits carrying machine guns, and here you're going after people in doctor's robes carrying scalpels."
+1999.98-1480,0,33100,jay_starkman,,694.131,699.905,We only need to go so far as what the language itself says.
+1999.98-1480,0,15049,antonin_scalia,scotus_justice,737.208,743.743,I don't think it reads in anything to say that you have not been hurt by the conspiring.
+1999.98-1480,0,33100,jay_starkman,,761.915,770.52,"But the conspiring is not just the conspiring to commit the predicate acts that happens when they first sit down, Justice Scalia."
+1999.98-1480,0,15049,antonin_scalia,scotus_justice,790.814,797.268,"Well, I think you're right, I think the strongest argument...  incidentally, I don't think it's your opponent who makes the argument about the conspiring."
+1999.98-1480,0,33100,jay_starkman,,799.199,800.15,"Yes, sir, Washington Law Foundation."
+1999.98-1480,0,15049,antonin_scalia,scotus_justice,800.15,824.467,"And the weakest point of that argument, it seems to me, which the amicus is willing to accept, is that if that argument is right, you would not only...  your client would not only be not able to recover for a...  an act that is in furtherance of the conspiracy but not one of the predicate acts..."
+1999.98-1480,0,33100,jay_starkman,,824.467,824.757,Uh-huh.
+1999.98-1480,0,15049,antonin_scalia,scotus_justice,824.757,827.896,your client wouldn't even be able to recover for a predicate act.
+1999.98-1480,0,33100,jay_starkman,,827.896,828.917,Yes.
+1999.98-1480,0,15049,antonin_scalia,scotus_justice,828.917,831.539,And you say that deprives (d) of all of its meaning.
+1999.98-1480,0,33100,jay_starkman,,831.539,832.801,Which it does.
+1999.98-1480,0,15049,antonin_scalia,scotus_justice,832.801,835.773,But why does it deprive (d) of all of its meaning?
+1999.98-1480,0,33100,jay_starkman,,873.811,881.285,"Because, Justice Scalia, in order to do that, we have to take the words, to conspire, and give them two completely different meanings in two different sections."
+1999.98-1480,0,15049,antonin_scalia,scotus_justice,905.391,908.463,But I'm not giving them two different meanings.
+1999.98-1480,0,33100,jay_starkman,,951.764,953.533,"It is a procedural device, then."
+1999.98-1480,0,15049,antonin_scalia,scotus_justice,984.553,988.476,Although that is the usual consequence of conspiracy law in the civil context.
+1999.98-1480,0,33100,jay_starkman,,988.476,988.806,Yes.
+1999.98-1480,0,15049,antonin_scalia,scotus_justice,988.806,990.418,It renders more people liable.
+1999.98-1480,0,33100,jay_starkman,,993.431,1016.885,"Yes, Justice Scalia, but here, 1962(d) is identified as one of the prohibited conduct, areas of conduct, and in Salinas this Court defined what that was, and all 1964(c) says, its plain language is that we are going to recognize a civil remedy, a civil action for that criminal violation."
+1999.98-1480,0,15060,john_paul_stevens,scotus_justice,1048.285,1053.29,"May I ask in that connection, how significant to your case is it that there may be a whistleblower involved?"
+1999.98-1480,0,33100,jay_starkman,,1056.933,1060.694,"I think it does, Justice Stevens, but it's not crucial."
+1999.98-1480,0,15060,john_paul_stevens,scotus_justice,1067.048,1072.391,"Is that because he's a whistleblower, or independent of his possibility of doing any whistleblowing?"
+1999.98-1480,0,33100,jay_starkman,,1072.391,1090.134,"It's independent, because for example, if they were just retaliating, and this whistleblower...  for blowing the whistle, first it's not in furtherance of the conspiracy, but it's also not proximately caused by the conspiracy, so it's not the fundamental issue of whistleblowing."
+1999.98-1480,0,15060,john_paul_stevens,scotus_justice,1094.056,1098.207,"What under the allegations of the complaint, what was the nature of his threat?"
+1999.98-1480,0,33100,jay_starkman,,1098.207,1104.401,That he could cause the conspiracy to cease to exist.
+1999.98-1480,0,15060,john_paul_stevens,scotus_justice,1112.169,1119.024,Would you translate that to facts instead of sort of a general...  what did he do that prevented the conspiracy from being consummated?
+1999.98-1480,0,33100,jay_starkman,,1119.024,1123.366,"Well, one thing he did was, report this to the regulators."
+1999.98-1480,0,15060,john_paul_stevens,scotus_justice,1124.668,1126.307,But if he's already done that...
+1999.98-1480,0,33100,jay_starkman,,1126.307,1129.67,He began to report it to the regulators.
+1999.98-1480,0,15060,john_paul_stevens,scotus_justice,1131.97,1138.154,And your notion is that by firing him they would prevent him from reporting facts to the regulators?
+1999.98-1480,0,33100,jay_starkman,,1138.154,1138.445,No.
+1999.98-1480,0,15060,john_paul_stevens,scotus_justice,1170.226,1179.432,"Would you say, in an analogy, as Justice Breyer suggested to the antitrust cases, is this like firing a salesman who refuses to go to price-fixing meetings?"
+1999.98-1480,0,33100,jay_starkman,,1179.432,1194.842,"No, it's not, because there you again have...  well, it is on some levels, but the analogy isn't apropos because you have the antitrust injury requirement, which this Court has rejected in the RICO context."
+1999.98-1480,0,15141,william_h_rehnquist,scotus_justice,1200.436,1205.7,"Well, you say that we've rejected the antitrust injury concept in RICO."
+1999.98-1480,0,33100,jay_starkman,,1207.662,1208.183,"Yes, sir."
+1999.98-1480,0,15141,william_h_rehnquist,scotus_justice,1208.183,1209.162,In Sedima?
+1999.98-1480,0,33100,jay_starkman,,1209.162,1210.214,In Holmes.
+1999.98-1480,0,15139,stephen_g_breyer,scotus_justice,1210.214,1211.035,In Holmes?
+1999.98-1480,0,33100,jay_starkman,,1211.035,1236.44,"It was actually stated in a footnote that...  and this is almost a literal quote...  the antitrust injury requirement has no analogue to the...  to RICO, and it was for this very reason that there is no underlying, or there's no countervailing policy to promote racketeering that would work in the RICO setting."
+1999.98-1480,0,15049,antonin_scalia,scotus_justice,1236.44,1242.474,So it's any injury that is a consequence of an act that's necessary for the completion of the conspiracy.
+1999.98-1480,0,33100,jay_starkman,,1242.474,1245.166,If that satisfies proximate cause.
+1999.98-1480,0,15049,antonin_scalia,scotus_justice,1245.166,1245.987,"Yes, well, okay."
+1999.98-1480,0,33100,jay_starkman,,1245.987,1247.627,Because proximate cause can go further.
+1999.98-1480,0,15049,antonin_scalia,scotus_justice,1247.627,1260.806,"Let's assume that in order to complete their scheme they have to close one factory and give the business of that factory to another factory, and they do it."
+1999.98-1480,0,33100,jay_starkman,,1268.26,1268.681,No.
+1999.98-1480,0,15049,antonin_scalia,scotus_justice,1268.681,1269.472,Why not?
+1999.98-1480,0,33100,jay_starkman,,1269.472,1271.302,Because they would not be direct victims.
+1999.98-1480,0,15049,antonin_scalia,scotus_justice,1271.302,1272.974,Why wouldn't they be direct victims?
+1999.98-1480,0,33100,jay_starkman,,1272.974,1273.435,Because...
+1999.98-1480,0,15049,antonin_scalia,scotus_justice,1273.435,1280.979,"It is essential to the scheme that you close A, just as it was essential to their scheme here, according to your complaint, that they get rid of your client."
+1999.98-1480,0,33100,jay_starkman,,1280.979,1286.495,The factory is the nearest analogy to Beck.
+1999.98-1480,0,15049,antonin_scalia,scotus_justice,1293.478,1294.85,They hurt the factory?
+1999.98-1480,0,33100,jay_starkman,,1294.85,1299.622,"Let's assume the factory was a separate subsidiary, because then I think it makes a little more sense."
+1999.98-1480,0,15049,antonin_scalia,scotus_justice,1310.39,1312.801,Take the factory out of the picture.
+1999.98-1480,0,33100,jay_starkman,,1331.084,1337.289,"Yes, because they are proximately injured by the act of conspiring."
+1999.98-1480,0,15049,antonin_scalia,scotus_justice,1337.289,1339.639,But if they were executives of the factory...
+1999.98-1480,0,33100,jay_starkman,,1339.639,1341.22,If the...
+1999.98-1480,0,15049,antonin_scalia,scotus_justice,1341.22,1342.372,they wouldn't have a cause of action.
+1999.98-1480,0,33100,jay_starkman,,1342.372,1348.194,"Assuming the factory is a separate animal, that it's a separate company, then the company would have that action."
+1999.98-1480,0,15049,antonin_scalia,scotus_justice,1350.996,1353.858,I assume these were executives of a separate company.
+1999.98-1480,0,33100,jay_starkman,,1353.858,1354.359,"No, because..."
+1999.98-1480,0,15049,antonin_scalia,scotus_justice,1354.359,1355.888,Then they wouldn't have a cause of action.
+1999.98-1480,0,33100,jay_starkman,,1355.888,1359.662,"No, I don't believe so, sir, because I don't think that their injury is direct."
+1999.98-1480,0,15042,david_h_souter,scotus_justice,1382.457,1397.697,"But I take it on Justice Scalia's hypothetical if you don't interpose the subsidiary structure, if they simply close the factory that's part of their operation, every employee in the factory would have the RICO cause, for the same reason that the executives would in the second hypo."
+1999.98-1480,0,33100,jay_starkman,,1397.697,1399.908,"I think so, Justice Souter."
+1999.98-1480,0,15113,anthony_m_kennedy,scotus_justice,1399.908,1400.338,Yes.
+1999.98-1480,0,33100,jay_starkman,,1400.338,1402.188,I think so under the plain language of the statute.
+1999.98-1480,0,15113,anthony_m_kennedy,scotus_justice,1442.366,1442.646,I find it...
+1999.98-1480,0,15049,antonin_scalia,scotus_justice,1442.646,1443.385,I'm sorry.
+1999.98-1480,0,15042,david_h_souter,scotus_justice,1445.588,1461.918,"As I understand it, when you say the conspiracy, you mean by conspiracy an agreement to do everything that is necessary, ultimately to effect a predicate act."
+1999.98-1480,0,33100,jay_starkman,,1461.918,1467.371,Ultimately to effect the objects of the conspiracy.
+1999.98-1480,0,15042,david_h_souter,scotus_justice,1467.371,1468.943,Which is ultimately a predicate act.
+1999.98-1480,0,33100,jay_starkman,,1468.943,1469.984,"Maybe, and maybe not."
+1999.98-1480,0,15042,david_h_souter,scotus_justice,1469.984,1471.424,"Well, it must include a predicate act."
+1999.98-1480,0,15049,antonin_scalia,scotus_justice,1471.424,1472.275,"All right, I...  yes."
+1999.98-1480,0,15141,william_h_rehnquist,scotus_justice,1473.555,1473.885,Yes.
+1999.98-1480,0,33100,jay_starkman,,1473.885,1474.526,Ultimately...
+1999.98-1480,0,15139,stephen_g_breyer,scotus_justice,1474.526,1475.157,Yes.
+1999.98-1480,0,33100,jay_starkman,,1475.157,1480.07,"the object has to be to invest the proceeds, for example, of the predicate acts."
+1999.98-1480,0,15084,ruth_bader_ginsburg,scotus_justice,1480.07,1480.3,Yes.
+1999.98-1480,0,33100,jay_starkman,,1480.3,1492.598,"Or to acquire control of the enterprise, or the situation which would come the closest here, 1962(c), which is the conducting of the affairs of the enterprise through a pattern."
+1999.98-1480,0,15113,anthony_m_kennedy,scotus_justice,1496.142,1496.683,Yes.
+1999.98-1480,0,33100,jay_starkman,,1496.683,1506.266,"Then the overt acts, or...  that are taken, that are necessary, to use Your Honor's words, or the heart, or the goal, would..."
+1999.98-1480,0,15042,david_h_souter,scotus_justice,1506.266,1507.598,Reasonably necessary.
+1999.98-1480,0,33100,jay_starkman,,1507.598,1507.899,Reasonably.
+1999.98-1480,0,15049,antonin_scalia,scotus_justice,1507.899,1508.299,Yes.
+1999.98-1480,0,33100,jay_starkman,,1508.299,1511.482,But I don't want to get into a debate about what is the most efficient one.
+1999.98-1480,0,15113,anthony_m_kennedy,scotus_justice,1515.503,1515.723,Mm-hmm.
+1999.98-1480,0,15049,antonin_scalia,scotus_justice,1515.723,1547.212,"Mr. Starkman, don't you see any inconsistency between your insistence upon absolute proximity of causation with respect to the issue we've just been talking about, who can sue because of a nonpredicate act, and your willingness to allow quite extensive causation, not at all proximate, on the very basic issue of whether (d) makes unlawful the consequences of a conspiracy, or just the conspiring?"
+1999.98-1480,0,33100,jay_starkman,,1547.212,1548.234,No.
+1999.98-1480,0,15049,antonin_scalia,scotus_justice,1548.234,1560.733,"I mean, on that issue, you know, when I put it to you that all it makes unlawful is the conspiring, you say, well, the conspiring, that automatically includes not only the predicate acts, but any acts that are ultimately necessary to conduct the conspiracy."
+1999.98-1480,0,33100,jay_starkman,,1566.206,1570.598,"No, I don't think it is, because we're not focusing then on the language, to conspire."
+1999.98-1480,0,15139,stephen_g_breyer,scotus_justice,1572.641,1574.211,"I'm still curious, while you have a chance..."
+1999.98-1480,0,33100,jay_starkman,,1574.211,1575.042,"Yes, sir."
+1999.98-1480,0,15139,stephen_g_breyer,scotus_justice,1575.042,1576.692,why isn't it just like the antitrust laws?
+1999.98-1480,0,33100,jay_starkman,,1576.692,1577.203,Again...
+1999.98-1480,0,15139,stephen_g_breyer,scotus_justice,1577.203,1582.078,"I mean, the policy of the antitrust laws are simply, treble damages is a very big gun..."
+1999.98-1480,0,33100,jay_starkman,,1582.078,1582.736,Right.
+1999.98-1480,0,15139,stephen_g_breyer,scotus_justice,1582.736,1591.742,"and since it's a huge gun, we're going to keep the court's attention fixed on the real harm that flows from this, not side issues, where there are other laws that can help the people."
+1999.98-1480,0,33100,jay_starkman,,1594.904,1598.147,Because there's no countervailing policy...
+1999.98-1480,0,15139,stephen_g_breyer,scotus_justice,1598.147,1600.208,I just said what the policy was.
+1999.98-1480,0,33100,jay_starkman,,1616.09,1622.624,"I don't think that's accurate, though, because the evil here that we're combatting is not the racketeering activity."
+1999.98-1480,0,15042,david_h_souter,scotus_justice,1637.443,1638.953,"Mr. Starkman, I'm sorry, but I would like to ask you a question."
+1999.98-1480,0,33100,jay_starkman,,1692.168,1692.679,"No, sir."
+1999.98-1480,0,15042,david_h_souter,scotus_justice,1692.679,1693.631,Why isn't that what you're doing?
+1999.98-1480,0,33100,jay_starkman,,1693.631,1697.321,Because proximate cause is the limiting factor.
+1999.98-1480,0,15042,david_h_souter,scotus_justice,1700.964,1708.86,"Yes, but I'm saying...  forget the labels, overt, predicate for a minute, just, act that causes injury which is actionable under the statute."
+1999.98-1480,0,33100,jay_starkman,,1727.24,1729.333,"It has to be at the heart of the conspiracy, though."
+1999.98-1480,0,15042,david_h_souter,scotus_justice,1749.777,1758.271,"You're saying, in effect, you...  when you conspire to rob a bank, you conspire to get by the guard, and you're saying, that's pretty darned close to the core of it."
+1999.98-1480,0,33100,jay_starkman,,1760.053,1760.473,Yes.
+1999.98-1480,0,15084,ruth_bader_ginsburg,scotus_justice,1760.473,1760.924,Yes.
+1999.98-1480,0,33100,jay_starkman,,1760.924,1773.643,"That guard...  there's a question about whether the guard's incidental, but if the conspiracy was, we've got to get past that guard also, because he's stopped all of these things, and we're going to take care of him one way or another, then that would be act..."
+1999.98-1480,0,15084,ruth_bader_ginsburg,scotus_justice,1773.643,1776.975,"Suppose, as a matter of fact, Beck was not all that essential."
+1999.98-1480,0,33100,jay_starkman,,1786.591,1795.776,"Essentiality shouldn't really be the question here, because, for example, what if they could have just intercepted his mail to prevent it from going to the regulators."
+1999.98-1480,0,15141,william_h_rehnquist,scotus_justice,1804.111,1805.794,"Thank you, Mr. Starkman."
+1999.98-1480,1,36582,michael_m_rosenbaum,,1809.116,1816.82,"Mr. Chief Justice, if it please the Court:"
+1999.98-1480,1,15113,anthony_m_kennedy,scotus_justice,1893.961,1906.029,"Sedima did say, though, that Congress did not want to have the standing problems that antitrust cases had."
+1999.98-1480,1,36582,michael_m_rosenbaum,,1908.79,1921.767,"In a way, Your Honor, but Sedima ultimately stands for the proposition that there must be predicate act-type injury as opposed to the more amorphous concept of racketeering injury."
+1999.98-1480,1,15139,stephen_g_breyer,scotus_justice,1921.767,1922.298,Correct.
+1999.98-1480,1,36582,michael_m_rosenbaum,,1922.298,1927.092,"Holmes, which flows from Sedima, comes to a similar conclusion, comes to a..."
+1999.98-1480,1,15139,stephen_g_breyer,scotus_justice,1927.092,1937.038,"His better argument I think was that the essential nature of RICO is to talk about an enterprise, and the harm involved is a certain kind of a company."
+1999.98-1480,1,36582,michael_m_rosenbaum,,1960.483,1968.09,"I think the analysis, the analogue to antitrust, applies even in the situation that you described, Your Honor."
+1999.98-1480,1,15049,antonin_scalia,scotus_justice,2068.916,2071.888,"But that was under a (c), that was under a (c) claim, right..."
+1999.98-1480,1,36582,michael_m_rosenbaum,,2071.888,2072.286,That's correct.
+1999.98-1480,1,15049,antonin_scalia,scotus_justice,2072.286,2072.907,not under a (d) claim.
+1999.98-1480,1,36582,michael_m_rosenbaum,,2072.907,2074.319,"That's correct, but the..."
+1999.98-1480,1,15049,antonin_scalia,scotus_justice,2074.319,2075.608,"I mean, you had to do it under (c)."
+1999.98-1480,1,36582,michael_m_rosenbaum,,2076.068,2086.877,"I think you also have to do it under (d), because 1964 (c) is equally as applicable to (d) as it is to (c)."
+1999.98-1480,1,15042,david_h_souter,scotus_justice,2099.574,2123.83,"But his argument is that it makes no sense, as a practical matter, and hence should make no sense in construing the statute, to think of the...  to conceptualize the conspiracy to commit the predicate acts without including a conspiracy to do at least what is in some close sense necessary to effect those acts."
+1999.98-1480,1,36582,michael_m_rosenbaum,,2148.207,2175.894,"My answer to that, Your Honor, is that on this record...  on this record, and I think my adversary essentially conceded away his argument when stating that if it is a conspiracy which is interfered with as a result of the termination, you should have standing, but if it's in retaliation for already having blown the whistle...  he made that response to one of the questions...  then obviously the retaliation is not in furtherance of the conspiracy."
+1999.98-1480,1,15049,antonin_scalia,scotus_justice,2185.45,2185.761,"Okay, but that's..."
+1999.98-1480,1,15042,david_h_souter,scotus_justice,2185.761,2187.223,That's your only response to that argument?
+1999.98-1480,1,36582,michael_m_rosenbaum,,2199.171,2214.99,"Because, aside from the factual basis on which this case came to this Court, the injury sustained by the whistleblower, even if it was allegedly in furtherance of the conspiracy, are tangential to, are tangential to the principle goal of the conspiracy, which was to commit the predicate acts..."
+1999.98-1480,1,15042,david_h_souter,scotus_justice,2214.99,2222.155,"Yes, but you're...  that...  it seems...  maybe I misunderstand you, but it seems to me that you're in effect just denying the predicate of his argument."
+1999.98-1480,1,36582,michael_m_rosenbaum,,2255.165,2258.467,My answer to that lies in the Holmes analysis.
+1999.98-1480,1,15042,david_h_souter,scotus_justice,2262.742,2272.209,"Yes, but that's a proximate cause analysis, and you apply proximate cause analysis once you...  once you have identified the acts which are wrongful."
+1999.98-1480,1,36582,michael_m_rosenbaum,,2289.569,2295.843,Every wrongful act under this statute does not necessarily result in standing.
+1999.98-1480,1,15042,david_h_souter,scotus_justice,2308.641,2326.322,"Does it...  does your argument assume that there may be...  I think your argument, however, as you're making it now, assumes that there may be some nonpredicate acts which are within the concept of the conspiracy and, hence, actionable."
+1999.98-1480,1,36582,michael_m_rosenbaum,,2341.522,2364.437,"I tried to think of examples, prior to coming here today, of where some nonpredicate acts could be the basis of RICO standing, and I, at least within my own thinking, have been unable to come up with any, based upon the underlying theme in my argument that any act not a predicate act, even an act which may be necessary for..."
+1999.98-1480,1,15049,antonin_scalia,scotus_justice,2364.437,2366.469,"Well, take a simple...  no, you go."
+1999.98-1480,1,36582,michael_m_rosenbaum,,2434.745,2448.982,"That may be so, Justice Scalia, but the answer to the question that I think is being posed to me is whether or not that goal, albeit essential to the completion of the conspiracy, still provides a basis for RICO standing."
+1999.98-1480,1,15049,antonin_scalia,scotus_justice,2502.809,2505.52,"I don't see how you get there through the text, is my problem."
+1999.98-1480,1,36582,michael_m_rosenbaum,,2505.52,2506.131,"I'm sorry, Justice..."
+1999.98-1480,1,15049,antonin_scalia,scotus_justice,2506.131,2507.892,I don't see how you get there through the text.
+1999.98-1480,1,36582,michael_m_rosenbaum,,2513.796,2514.607,I get...
+1999.98-1480,1,15049,antonin_scalia,scotus_justice,2514.607,2517.679,"1964 makes a violation of (a), (b), (c), and (d) unlawful."
+1999.98-1480,1,36582,michael_m_rosenbaum,,2538.602,2539.812,I get there this way.
+1999.98-1480,1,15049,antonin_scalia,scotus_justice,2609.496,2611.869,Cat burglar in suburban Virginia.
+1999.98-1480,1,36582,michael_m_rosenbaum,,2614.351,2616.442,I thought you might remember it.
+1999.98-1480,1,15049,antonin_scalia,scotus_justice,2696.304,2696.684,"Okay, but..."
+1999.98-1480,1,15060,john_paul_stevens,scotus_justice,2701.317,2701.818,Yes.
+1999.98-1480,1,36582,michael_m_rosenbaum,,2701.818,2702.238,That is my...
+1999.98-1480,1,15049,antonin_scalia,scotus_justice,2702.238,2704.009,that are done in furtherance of the conspiracy.
+1999.98-1480,1,36582,michael_m_rosenbaum,,2704.009,2704.299,That is my point.
+1999.98-1480,1,15049,antonin_scalia,scotus_justice,2704.299,2706.332,Not for foreseeable acts.
+1999.98-1480,1,36582,michael_m_rosenbaum,,2706.332,2707.37,"That is my point, Justice..."
+1999.98-1480,1,15049,antonin_scalia,scotus_justice,2707.37,2709.013,That does get you where you want to go.
+1999.98-1480,1,15042,david_h_souter,scotus_justice,2710.563,2727.375,"I mean, it may well be that we would still reverse the judgment below on the basis that Mr. Starkman claims, and you would go back to the court to argue whether in fact there was sufficient...  sufficiently tortious character in what was done here."
+1999.98-1480,1,15139,stephen_g_breyer,scotus_justice,2736.72,2738.993,"I'm probably missing...  no, go ahead."
+1999.98-1480,1,36582,michael_m_rosenbaum,,2742.703,2743.074,"No, I haven't."
+1999.98-1480,1,15049,antonin_scalia,scotus_justice,2969.414,2980.1,"We really didn't take this case to determine whether, you know, whether Beck was terminated because what he...  of what he had already done, or what he would do."
+1999.98-1480,1,36582,michael_m_rosenbaum,,3016.973,3025.39,"I'm arguing, Justice Scalia, that even if it was in furtherance of, he doesn't have standing, a) because this is not, as I said before, a..."
+1999.98-1480,1,15049,antonin_scalia,scotus_justice,3025.39,3026.019,Not in furtherance.
+1999.98-1480,1,36582,michael_m_rosenbaum,,3026.019,3029.251,"Not...  no, this is not a whistleblower statute."
+1999.98-1480,1,15049,antonin_scalia,scotus_justice,3040.899,3043.48,I thought you were arguing they were punishing him for past conduct.
+1999.98-1480,1,36582,michael_m_rosenbaum,,3043.48,3048.335,"From a factual standpoint, yes, but I'm trying to respond to Your Honor's question."
+1999.98-1480,1,15113,anthony_m_kennedy,scotus_justice,3061.702,3062.093,That's fine.
+1999.98-1480,1,36582,michael_m_rosenbaum,,3062.093,3083.908,"Even so, he lacks standing, a) because this is not a whistleblower statute...  Congress has enacted whistleblower statutes in other contexts when seeking to enforce violations of other...  other violations of other types of statutes, environmental statutes, civil rights statutes, so on and so forth, so had Congress intended to do that, it certainly knew how and could have."
+1999.98-1480,1,15084,ruth_bader_ginsburg,scotus_justice,3083.908,3106.842,"Mr. Rosenbaum, you keep using the term standing, and I think Mr. Starkman did also, I thought what's presented here is did Congress create a civil right of action of this nature, where the act complained of is not a predicate act."
+1999.98-1480,1,36582,michael_m_rosenbaum,,3122.774,3124.815,"Yes, it is, Justice Ginsburg."
+1999.98-1480,1,15092,sandra_day_oconnor,scotus_justice,3146.948,3160.077,"Mr. Rosenbaum, section 1962(d) I gather has been held to give rise to criminal liability as well as a civil cause of action."
+1999.98-1480,1,36582,michael_m_rosenbaum,,3160.077,3161.179,"Absolutely, Justice O'Connor."
+1999.98-1480,1,15092,sandra_day_oconnor,scotus_justice,3161.808,3169.534,And could there be a criminal prosecution brought here without proof of any predicate act?
+1999.98-1480,1,36582,michael_m_rosenbaum,,3169.534,3170.303,Absolutely.
+1999.98-1480,1,15092,sandra_day_oconnor,scotus_justice,3173.365,3174.206,Or overt act...
+1999.98-1480,1,36582,michael_m_rosenbaum,,3174.206,3175.488,Yes.
+1999.98-1480,1,15092,sandra_day_oconnor,scotus_justice,3175.488,3183.011,Or an act...  proof of an overt act would not be required if it were a criminal prosecution.
+1999.98-1480,1,36582,michael_m_rosenbaum,,3183.011,3183.452,That's correct.
+1999.98-1480,1,15141,william_h_rehnquist,scotus_justice,3220.936,3225.5,But is an overt act required for liability in a criminal conspiracy?
+1999.98-1480,1,36582,michael_m_rosenbaum,,3225.5,3225.851,No.
+1999.98-1480,1,15141,william_h_rehnquist,scotus_justice,3225.851,3228.532,"An attempt, yes, but not a criminal conspiracy."
+1999.98-1480,1,36582,michael_m_rosenbaum,,3228.532,3232.145,"It's not necessary to show, but it's certainly helpful in demonstrating that there is a conspiracy."
+1999.98-1480,1,15092,sandra_day_oconnor,scotus_justice,3232.145,3243.683,But the effect of this is that we have very different rules applicable in the civil action context...
+1999.98-1480,1,36582,michael_m_rosenbaum,,3243.683,3244.243,That's correct...
+1999.98-1480,1,15092,sandra_day_oconnor,scotus_justice,3244.243,3245.415,under the very same statute.
+1999.98-1480,1,36582,michael_m_rosenbaum,,3245.415,3248.227,"That's correct, Justice O'Connor, for a very good reason."
+1999.98-1480,1,15060,john_paul_stevens,scotus_justice,3281.897,3283.72,May I ask one question at this point.
+1999.98-1480,1,36582,michael_m_rosenbaum,,3309.236,3310.908,"I'm sorry, Justice, why isn't..."
+1999.98-1480,1,15060,john_paul_stevens,scotus_justice,3310.908,3317.992,"Why isn't that covered with...  as an overt act in pursuance of the conspiracy, even if the statute has nothing to do with whistleblowers?"
+1999.98-1480,1,36582,michael_m_rosenbaum,,3317.992,3327.128,"For the same reason that it's not covered as a basis of whistleblower standing in antitrust cases, which...  in which the Clayton Act uses the same language as 1964(c)."
+1999.98-1480,1,15092,sandra_day_oconnor,scotus_justice,3393.542,3397.273,"You know, I thought we had gotten over the use of the standing point."
+1999.98-1480,1,36582,michael_m_rosenbaum,,3406.159,3411.013,"It's a violation of the statute, Justice O'Connor, to unlawfully conspire."
+1999.98-1480,1,15113,anthony_m_kennedy,scotus_justice,3448.076,3448.657,I disagree with that.
+1999.98-1480,1,15049,antonin_scalia,scotus_justice,3448.657,3449.949,That is simply wrong.
+1999.98-1480,1,36582,michael_m_rosenbaum,,3493.366,3495.046,"That's correct, Justice Scalia."
+1999.98-1480,1,15139,stephen_g_breyer,scotus_justice,3495.046,3499.701,"If that's correct, then...  your language permits your interpretation and his, in my view."
+1999.98-1480,1,36582,michael_m_rosenbaum,,3516.762,3517.063,My...
+1999.98-1480,1,15139,stephen_g_breyer,scotus_justice,3517.063,3519.073,I can't get anywhere beyond the policy.
+1999.98-1480,1,36582,michael_m_rosenbaum,,3521.173,3522.906,It certainly is like the anti...
+1999.98-1480,1,15139,stephen_g_breyer,scotus_justice,3522.906,3523.136,Because?
+1999.98-1480,1,36582,michael_m_rosenbaum,,3523.136,3527.839,"It certainly is like the antitrust laws, because section 4 of the Clayton Act, the language is..."
+1999.98-1480,1,15139,stephen_g_breyer,scotus_justice,3527.839,3529.672,"No, the language is identical."
+1999.98-1480,1,36582,michael_m_rosenbaum,,3538.774,3546.111,"If the law is to protect those who are improperly terminated, there are more than adequate State law remedies to protect that."
+1999.98-1480,1,15042,david_h_souter,scotus_justice,3573.569,3582.304,"But that answer leaves open, it seems to me, the basic policy, the broader policy question that Justice Breyer's question to you raises."
+1999.98-1480,1,36582,michael_m_rosenbaum,,3605.72,3608.001,May I respond to your question?
+1999.98-1480,1,15141,william_h_rehnquist,scotus_justice,3608.692,3609.553,"Yes, shortly."
+1999.98-1480,1,36582,michael_m_rosenbaum,,3609.553,3615.047,"I think the answer to that question, the policy reasons lies in this Court's opinion in Holmes."
+1999.98-1480,1,15141,william_h_rehnquist,scotus_justice,3630.226,3630.947,Thank you.
+1999.98-1480,1,36582,michael_m_rosenbaum,,3630.947,3632.059,"Thank you, Your Honor."
+1999.98-1480,1,15141,william_h_rehnquist,scotus_justice,3632.059,3632.82,"Thank you, Mr. Rosenbaum."

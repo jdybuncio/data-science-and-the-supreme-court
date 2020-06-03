@@ -1,0 +1,138 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1994.93-981,0,15141,william_h_rehnquist,scotus_justice,0.0,8.279,"We'll hear argument now in Number 93-981, United States v. Reshat Shabani."
+1994.93-981,0,40548,richard_h_seamon,,9.294,13.355,Mr. Chief Justice and may it please the Court--
+1994.93-981,0,15092,sandra_day_oconnor,scotus_justice,151.517,175.18,"Mr. Seamon, in the Felix case, I guess Justice Stevens in his separate concurrence argued that the overt acts didn't establish an essential element of the conspiracy, and the majority opinion did not seem to accept that view as expressed by Justice Stevens."
+1994.93-981,0,40548,richard_h_seamon,,182.037,183.334,"--No, Justice O'Connor."
+1994.93-981,0,15084,ruth_bader_ginsburg,scotus_justice,251.228,267.892,"Mr. Seamon, this was an avoidable controversy, was it not, because the overt acts were proved, but the prosecutor insisted that the charge not include that specification?"
+1994.93-981,0,40548,richard_h_seamon,,280.028,288.869,"It is correct that overt acts were proven in this case, and that as a general matter they won't be difficult to prove in a conspiracy case."
+1994.93-981,0,15084,ruth_bader_ginsburg,scotus_justice,319.169,326.681,But the prosecutor could have mooted this controversy by allowing the charge to be made?
+1994.93-981,0,40548,richard_h_seamon,,326.681,329.679,"Yes, that's correct."
+1994.93-981,0,15084,ruth_bader_ginsburg,scotus_justice,340.363,343.846,"She chose not to do so, is that right?"
+1994.93-981,0,40548,richard_h_seamon,,343.846,349.28,"Actually, the prosecutor who brought the charge was different from the prosecutor who tried the case."
+1994.93-981,0,15042,david_h_souter,scotus_justice,352.123,357.418,But she could not have solved the problem of the allegation.
+1994.93-981,0,40548,richard_h_seamon,,363.494,364.4,That's right.
+1994.93-981,0,15060,john_paul_stevens,scotus_justice,375.599,380.442,"Mr. Seamon, is it necessary to prove an overt act to establish venue in a particular district where the case is brought?"
+1994.93-981,0,40548,richard_h_seamon,,380.442,381.753,--Yes.
+1994.93-981,0,15060,john_paul_stevens,scotus_justice,389.578,391.952,"So you have to prove it, even if you don't have to allege it?"
+1994.93-981,0,40548,richard_h_seamon,,391.952,396.356,--It does have to be proven if it's a matter of dispute.
+1994.93-981,0,15060,john_paul_stevens,scotus_justice,399.589,399.871,"Normally does, yes--"
+1994.93-981,0,40548,richard_h_seamon,,399.871,404.197,"--allege something to establish venue, and the question here--"
+1994.93-981,0,15060,john_paul_stevens,scotus_justice,404.197,411.646,"--Couldn't the formation of the conspiracy establish the venue, that the conspirators convened at a particular place?"
+1994.93-981,0,40548,richard_h_seamon,,411.646,413.006,"--Yes, Justice Scalia."
+1994.93-981,0,15049,antonin_scalia,scotus_justice,413.006,418.489,"And that wouldn't be an overt act in furtherance of the conspiracy in the normal meaning of that term, would it?"
+1994.93-981,0,40548,richard_h_seamon,,418.489,419.426,That's correct.
+1994.93-981,0,15049,antonin_scalia,scotus_justice,453.162,459.659,"Or maybe you could put it, maybe, that it should not be punished in all the other circuits in the country, just as it is not in the Ninth."
+1994.93-981,0,40548,richard_h_seamon,,463.049,465.484,I'm sure that's the way our opponent would phrase the question.
+1994.93-981,1,21397,dennis_p_riordan,,808.486,815.249,"Mr. Chief Justice Rehnquist, and may it please the Court--"
+1994.93-981,1,15141,william_h_rehnquist,scotus_justice,937.73,943.055,You don't regard the comparison of 371 with the language of 846 as being legislative history?
+1994.93-981,1,21397,dennis_p_riordan,,943.055,948.038,"We do in this sense we think it helps us, and here's why, Your Honor."
+1994.93-981,1,15141,william_h_rehnquist,scotus_justice,992.286,1005.155,"But at least you have in 846 a prohibition against conspiracy which says nothing about an overt act, and you have in 371 a prohibition against conspiracy which does require an overt act."
+1994.93-981,1,21397,dennis_p_riordan,,1005.155,1018.042,"Absolutely, Your Honor, and if, as I say, 846 was intended to be definitional, to contain... if we could discern from it an intent by Congress to state the elements of conspiracy, then that argument would be persuasive."
+1994.93-981,1,15042,david_h_souter,scotus_justice,1087.997,1093.402,"Well, one place we locate it is under the general rule of following common law definitions."
+1994.93-981,1,21397,dennis_p_riordan,,1093.402,1094.261,Ah--
+1994.93-981,1,15042,david_h_souter,scotus_justice,1094.261,1095.65,"If we do that, you lose."
+1994.93-981,1,21397,dennis_p_riordan,,1095.65,1117.657,"--No, we don't, Your Honor, and here's why, because again, in the sources that we've cited, the Pollack article, the Sayre article, the Harno article, the definitive studies of the common law, there's a consensus that over 800 years of English history, and it hardly should come as a surprise, that conspiracy meant different things at different times."
+1994.93-981,1,15042,david_h_souter,scotus_justice,1164.075,1168.747,"The 1970 view was Sir Edward Cook's view, wasn't it?"
+1994.93-981,1,21397,dennis_p_riordan,,1168.747,1189.159,"--Well, I would suggest to you, Your Honor, if we could be certain of one thing, if there was a celestial magnetic resonance imaging machine that could produce a graph of what Congress was thinking in 1970 when it passed this statute, I'd suggest we'd find that it wasn't thinking about the issue of an overt act--"
+1994.93-981,1,15042,david_h_souter,scotus_justice,1189.159,1197.828,"Well, if we had a celestial resonance machine that could bring up the image of a common law lawyer, we'd get Sir Edward Cook right in the front of the line, wouldn't we?"
+1994.93-981,1,21397,dennis_p_riordan,,1200.764,1202.451,--But Congress--
+1994.93-981,1,15042,david_h_souter,scotus_justice,1202.451,1203.092,Isn't that right?
+1994.93-981,1,21397,dennis_p_riordan,,1203.092,1205.919,--Cook did say that.
+1994.93-981,1,15042,david_h_souter,scotus_justice,1207.637,1209.199,That counts for the other side.
+1994.93-981,1,21397,dennis_p_riordan,,1209.199,1237.641,"But that was hardly the only definition of conspiracy given at common law, but more importantly, what the Government is saying is that when Congress didn't speak to this question at all, the overt act being in or out, it must have been thinking about the common law, and it must have been thinking about those precedents, Nash and Singer, which suggest that if you don't say anything about an overt act, then you're getting the common law definition."
+1994.93-981,1,15084,ruth_bader_ginsburg,scotus_justice,1243.092,1260.304,"If you go back to your first argument, the text of the statute, and you say that 846 was not an attempt to define the word conspiracy, that might be more persuasive if 371, the general conspiracy statute, had read, if two or more persons agree, but it doesn't."
+1994.93-981,1,21397,dennis_p_riordan,,1277.109,1281.17,"--I'm lucky, because the answer to the two pending questions is the same."
+1994.93-981,1,15049,antonin_scalia,scotus_justice,1305.77,1307.582,On the basis of statutes that did that.
+1994.93-981,1,21397,dennis_p_riordan,,1307.582,1308.754,--That's right.
+1994.93-981,1,15049,antonin_scalia,scotus_justice,1312.347,1315.796,"That is, on the basis of statutes that included an overt act requirement."
+1994.93-981,1,21397,dennis_p_riordan,,1315.796,1340.897,"--That's right, and the question is whether, in 1970, after a statute, admittedly a statute which expressly included an overt act requirement, and 100 years of judicial gloss on that statute, Congress, when it was standing around putting two different offenses in a statute, assumed that the word conspiracy meant what it had meant for 100 years under 371, but--"
+1994.93-981,1,15049,antonin_scalia,scotus_justice,1340.897,1351.408,I assume that the majority of people in Congress really had no knowledge of those cases at all and wrote a... you really think a majority of people in Congress knew all the cases we're talking about?
+1994.93-981,1,21397,dennis_p_riordan,,1351.408,1352.033,"--No, we're--"
+1994.93-981,1,15049,antonin_scalia,scotus_justice,1352.033,1353.843,Or even knew who Sir Edward Cook was?
+1994.93-981,1,21397,dennis_p_riordan,,1353.843,1356.389,"--We're in complete agreement, Your Honor."
+1994.93-981,1,15049,antonin_scalia,scotus_justice,1366.464,1371.68,"We're left with the language that Congress adopted, and we have to take our best shot at what the meaning of that language is."
+1994.93-981,1,21397,dennis_p_riordan,,1371.68,1372.008,--Right.
+1994.93-981,1,15049,antonin_scalia,scotus_justice,1372.008,1376.397,"Now, in other instances where Congress has wanted an overt act, it's said it."
+1994.93-981,1,21397,dennis_p_riordan,,1378.491,1391.438,"That's true, but as I say, Your Honor, if... if we can say that Congress was focused on the definition... we know that they did not provide... they did not suggest one element of the crime of attempt."
+1994.93-981,1,15141,william_h_rehnquist,scotus_justice,1402.418,1405.574,"371 doesn't define conspiracy, either."
+1994.93-981,1,21397,dennis_p_riordan,,1407.791,1408.01,--Right.
+1994.93-981,1,15141,william_h_rehnquist,scotus_justice,1408.01,1412.023,--of the two statutes we're talking about purport to define the offense of conspiracy.
+1994.93-981,1,21397,dennis_p_riordan,,1412.023,1424.847,"I quite agree, Your Honor, which means that we're in the position of attempting to figure out whether Congress put all of the elements in there, and if it didn't put all of the elements in there, where do we look to find them?"
+1994.93-981,1,15141,william_h_rehnquist,scotus_justice,1424.847,1435.562,"Well, but you're also faced with the question why Congress required an overt act in 371 and why Congress didn't require an overt act in 846."
+1994.93-981,1,21397,dennis_p_riordan,,1435.562,1447.307,"Right, and I would suggest to the Court that we are in a situation where I think that we could be relatively certain that Congress didn't think at all about this issue."
+1994.93-981,1,15141,william_h_rehnquist,scotus_justice,1447.307,1456.131,"What reason is there to think that Congress thought about it in 1867 and put in the overt act, but didn't think about it in 1970?"
+1994.93-981,1,21397,dennis_p_riordan,,1456.131,1475.733,"Because according to the cases that have interpreted 371 from this Court, the Court said that in 1867 when they were writing a general Federal conspiracy statute for the first time, they made a conscious decision to reject the common law model, so we know that's why they did it."
+1994.93-981,1,15141,william_h_rehnquist,scotus_justice,1542.66,1546.314,It always has the option to correct it the other way if we rule against you.
+1994.93-981,1,21397,dennis_p_riordan,,1546.314,1566.182,"That's absolutely true, Your Honor, and what ultimately we are saying in this case is that there is not only a reason, there are many reasons to doubt the interpretation that the Government relies on here, that they are saying that Congress made a conscious decision to eliminate an overt act requirement."
+1994.93-981,1,15084,ruth_bader_ginsburg,scotus_justice,1567.508,1577.129,"Is it your argument that Congress would have to say, and there is no overt act requirement, in order to give a conspiracy statute that effect?"
+1994.93-981,1,21397,dennis_p_riordan,,1589.203,1591.421,--It sure would have helped.
+1994.93-981,1,15084,ruth_bader_ginsburg,scotus_justice,1591.421,1593.139,But is it necessary?
+1994.93-981,1,21397,dennis_p_riordan,,1596.716,1597.466,Right.
+1994.93-981,1,15084,ruth_bader_ginsburg,scotus_justice,1597.466,1601.042,--what must it do to accomplish that intent?
+1994.93-981,1,21397,dennis_p_riordan,,1601.042,1611.88,"If it doesn't want an overt act, the easiest and simplest thing to do, since we all agree that if possible this is the way we should interpret statutes, is to put it on the face of the statute."
+1994.93-981,1,15084,ruth_bader_ginsburg,scotus_justice,1614.989,1620.877,"Putting it on the face of the statute means, and we do not mean that there be any overt act requirement, is that it?"
+1994.93-981,1,21397,dennis_p_riordan,,1620.877,1620.955,--That's right.
+1994.93-981,1,15084,ruth_bader_ginsburg,scotus_justice,1635.513,1636.387,How does it do that?
+1994.93-981,1,21397,dennis_p_riordan,,1636.387,1642.79,"--Well, the committee reports could make clear that, unlike 371... I realize that the--"
+1994.93-981,1,15049,antonin_scalia,scotus_justice,1642.79,1644.197,Why do you look at me when you say that?
+1994.93-981,1,21397,dennis_p_riordan,,1646.429,1660.909,"--I realize that there are some... there's doubt in some quarters of whether that's a reliable source, but it would be more helpful to either side if it were there rather than complete silence."
+1994.93-981,1,15141,william_h_rehnquist,scotus_justice,1686.772,1690.911,"But you also have Nash and Singer, which say otherwise with respect to different kinds of statutes."
+1994.93-981,1,21397,dennis_p_riordan,,1690.911,1693.52,"--They're a very thin read, Your Honor, for this reason."
+1994.93-981,1,15141,william_h_rehnquist,scotus_justice,1754.574,1763.007,"But they did say in the Nash case that an overt act was not required to support a conspiracy conviction under the Sherman Act, did they not?"
+1994.93-981,1,21397,dennis_p_riordan,,1763.007,1764.507,They most assuredly did.
+1994.93-981,1,15141,william_h_rehnquist,scotus_justice,1764.507,1766.927,"Why, then, is it a thin read?"
+1994.93-981,1,21397,dennis_p_riordan,,1766.927,1777.547,"Well, because we're dealing not with an antitrust statute or a selective service statute, we're dealing with a statute that's traditionally in the criminal area."
+1994.93-981,1,15141,william_h_rehnquist,scotus_justice,1777.547,1784.108,What difference does it make whether... the particular substantive offenses that we're talking about?
+1994.93-981,1,21397,dennis_p_riordan,,1793.308,1805.896,"Right, but we're talking about, as this Court said in MCI, the really relevant period of time to figure out statutory intent is the time that the law was passed, which is 1970."
+1994.93-981,1,15141,william_h_rehnquist,scotus_justice,1805.896,1811.518,At which time the Congress had the Singer and the Nash precedents which it could have relied on.
+1994.93-981,1,21397,dennis_p_riordan,,1811.518,1817.329,"And had it been explicit in doing so, our task would be very easy, but--"
+1994.93-981,1,15141,william_h_rehnquist,scotus_justice,1817.329,1831.106,"You say, then, that Congress, in order to rely on the Singer and Nash precedents in drafting a statute, must say, either in the legislative history or in the statute, we're relying on these precedents, rather than simply following what they suggest?"
+1994.93-981,1,21397,dennis_p_riordan,,1831.106,1849.096,"--Well, if this legislative history indicated the slightest cognizance of Nash and Singer, no, they don't have to state it explicitly, but again, it would help if there was even the faintest footprint of Nash and Singer in the developmental process of this statute."
+1994.93-981,1,15141,william_h_rehnquist,scotus_justice,1982.105,1991.227,"But they would have read the cases you're referring to and seen that those cases originated out of a statute, which itself required an overt act."
+1994.93-981,1,21397,dennis_p_riordan,,1991.227,1992.945,"--Well, I think we--"
+1994.93-981,1,15141,william_h_rehnquist,scotus_justice,1992.945,1994.038,Would they not have?
+1994.93-981,1,21397,dennis_p_riordan,,1994.038,2001.02,"--Well, I think that we both agree that we're discussing a level of fantasy here, because this is all legal fiction."
+1994.93-981,1,15141,william_h_rehnquist,scotus_justice,2001.02,2002.957,"Well, you're the one that began fantasizing."
+1994.93-981,1,21397,dennis_p_riordan,,2002.957,2003.457,"Well, I--"
+1994.93-981,1,15060,john_paul_stevens,scotus_justice,2045.299,2046.627,"Mr. Riordan, may I ask you this question?"
+1994.93-981,1,21397,dennis_p_riordan,,2051.297,2063.65,"It is neither our view nor the view of the Ninth Circuit, and this came up during the argument before, because the Ninth Circuit has never held that the act had to be alleged, it merely has held that it had to be proven, and the Government has--"
+1994.93-981,1,15060,john_paul_stevens,scotus_justice,2063.65,2064.588,And there has to be an instruction.
+1994.93-981,1,21397,dennis_p_riordan,,2068.478,2069.476,--That's right.
+1994.93-981,1,15084,ruth_bader_ginsburg,scotus_justice,2070.351,2078.005,"Are you taking the position that even when the statute on its face requires an overt act, the Government doesn't have to allege it in the indictment, it's enough that they prove it?"
+1994.93-981,1,21397,dennis_p_riordan,,2078.005,2081.768,"--I don't know the answer to that question, Your Honor."
+1994.93-981,1,15084,ruth_bader_ginsburg,scotus_justice,2097.56,2106.478,You have no rule for when it has to be both alleged and proved and when it suffices to have it proved even if it isn't alleged?
+1994.93-981,1,21397,dennis_p_riordan,,2106.478,2107.9,--That's right.
+1994.93-981,1,15113,anthony_m_kennedy,scotus_justice,2143.479,2150.133,"But given that explanation, your understanding of Ninth Circuit law is that it is still an element of the crime?"
+1994.93-981,1,21397,dennis_p_riordan,,2150.133,2159.691,"In the sense that it is something that has to be proven beyond a reasonable doubt in order to sustain a conviction, yes, that is the position the Ninth Circuit has taken."
+1994.93-981,1,15049,antonin_scalia,scotus_justice,2159.691,2167.283,Does the Ninth Circuit hold that any other elements of any other crimes need not be alleged in the indictment but must be proven?
+1994.93-981,1,21397,dennis_p_riordan,,2167.283,2187.43,"Well, I should know the answer to this question, Your Honor, but I'll tell you as a criminal lawyer it's never been my impression that there's a statutory requirement that all elements of the offense have to be alleged in the indictment in order to go to the jury, either under State or Federal law."
+1994.93-981,1,15049,antonin_scalia,scotus_justice,2200.036,2204.409,Notice pleading for criminal offenses?
+1994.93-981,1,21397,dennis_p_riordan,,2204.409,2216.34,"Well, in the sense... in the sense that each element of the offense, each mental state element, for instance, is not included within the pleading."
+1994.93-981,1,15084,ruth_bader_ginsburg,scotus_justice,2219.168,2225.04,I thought it was hard book law that essential elements of a crime must be pled in an indictment.
+1994.93-981,1,21397,dennis_p_riordan,,2232.429,2240.566,"--It's a very good thing that the answer to that question isn't critical to the Court's decision of this case, because I will confess that I don't know the answer, Your Honor."
+1994.93-981,1,15084,ruth_bader_ginsburg,scotus_justice,2240.566,2252.905,"I'm glad you clarified your position, because I thought you were disagreeing with the Ninth Circuit to the extent that they didn't require the act to be alleged, but you think the Ninth Circuit is right in its middle view?"
+1994.93-981,1,21397,dennis_p_riordan,,2252.905,2268.444,"I want to make absolutely clear that the issue of whether the Ninth Circuit was right in rejecting the contention that the elements had to... the overt act had to be pled is not before the Court, and I am taking no position on it."
+1994.93-981,1,15141,william_h_rehnquist,scotus_justice,2333.279,2338.48,But you're not saying it's any different than 371 in that respect?
+1994.93-981,1,21397,dennis_p_riordan,,2338.48,2343.789,"I'm sorry, Your Honor, in which respect?"
+1994.93-981,1,15141,william_h_rehnquist,scotus_justice,2343.789,2350.505,"Well, you say 846 is a statute that doesn't purport to define conspiracy, it just sets penalties."
+1994.93-981,1,21397,dennis_p_riordan,,2350.505,2351.16,Right.
+1994.93-981,1,15141,william_h_rehnquist,scotus_justice,2351.16,2356.347,"You're not suggesting that in that respect it's any different from 371, are you?"
+1994.93-981,1,21397,dennis_p_riordan,,2356.347,2366.608,"Well, it is different in this respect, Your Honor Many States have classified felonies A, B, C, and D, and there's a whole group of felonies that fit in each class."
+1994.93-981,1,15141,william_h_rehnquist,scotus_justice,2379.87,2385.272,Are you explaining now why you think 846 is different from 371?
+1994.93-981,1,21397,dennis_p_riordan,,2385.272,2386.006,"--Yes, I am, Your Honor."
+1994.93-981,1,15141,william_h_rehnquist,scotus_justice,2395.502,2397.018,Why does that make any difference?
+1994.93-981,1,21397,dennis_p_riordan,,2397.018,2413.495,"--Well, I suggest that since we know from the case precedent that Congress... the courts have uniformly declared that Congress wasn't focusing on the elements of attempt, I think it's fair to infer in this very statute that they weren't focusing on the elements of conspiracy."
+1994.93-981,1,15141,william_h_rehnquist,scotus_justice,2413.495,2418.26,"Well, and what makes you think they were focusing on the elements of conspiracy in 371?"
+1994.93-981,1,21397,dennis_p_riordan,,2418.26,2451.355,"Well, the legislative... the courts' interpretations of that seems to be that since this was the first general conspiracy statute in 871, they were focused on the fact that they wanted to create a statute that had an overt act requirement that didn't exist at the Star Chamber and at English common law, and we would suggest that, 100 years later, there may well have been Congressmen thinking the overt act requirement had worked its way into the warp and woof of the definition of conspiracy in this country, that that's the American definition of conspiracy."
+1994.93-981,1,15049,antonin_scalia,scotus_justice,2451.355,2454.401,"Mr. Riordan, what Federal criminal statutes do define crime?"
+1994.93-981,1,21397,dennis_p_riordan,,2469.675,2470.753,"Well, I--"
+1994.93-981,1,15049,antonin_scalia,scotus_justice,2470.753,2476.159,"They use a common law term and say, the punishment shall be thus, or a common sensical term."
+1994.93-981,1,21397,dennis_p_riordan,,2476.159,2507.91,"--I'm sure that's true, Your Honor, but in Joyce and Monduhano, the Federal court said, look, we don't get any guidance on what the term attempt means from the statute itself, and all we're saying is, we think the same is true of the conspiracy end of the statute, and that the courts have to look elsewhere to figure out what the heck this means, and we think that one reasonable interpretation is that Congress thought that when it uses conspiracy and conspire, it was referring to the kind of offense contained in the general Federal conspiracy statute."
+1994.93-981,1,15141,william_h_rehnquist,scotus_justice,2533.884,2535.259,"Thank you, Mr. Riordan."
+1994.93-981,1,21397,dennis_p_riordan,,2535.259,2535.82,Thank you.
+1994.93-981,2,40548,richard_h_seamon,,2537.945,2542.193,"Unless the Court has further questions, I have nothing further."
+1994.93-981,2,15139,stephen_g_breyer,scotus_justice,2542.193,2545.113,"I do have a question, actually."
+1994.93-981,2,40548,richard_h_seamon,,2625.253,2626.363,We--
+1994.93-981,2,15139,stephen_g_breyer,scotus_justice,2626.363,2628.455,So what is your specific response to that?
+1994.93-981,2,40548,richard_h_seamon,,2635.484,2635.874,--Thank you.
+1994.93-981,2,15141,william_h_rehnquist,scotus_justice,2668.236,2671.086,"Thank you, Mr. Seamon."

@@ -1,0 +1,218 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2013.12-794,0,15086,john_g_roberts_jr,scotus_justice,0.0,6.592,"We will hear argument next in Case 12-794, White v. Woodall."
+2013.12-794,0,41656,susan_r_lenz,,7.935,11.123,"Mr. Chief Justice, and may it please the Court:"
+2013.12-794,0,15094,elena_kagan,scotus_justice,49.387,50.262,"Ms. Lenz, could I ask you about what you just said?"
+2013.12-794,0,41656,susan_r_lenz,,105.554,112.346,"Well, there's -- there is a gap between Mitchell and Carter."
+2013.12-794,0,15131,sonia_sotomayor,scotus_justice,158.125,166.732,Do you think it would have been okay for the trial court to instruct the jury that they could use the defendant's silence against him?
+2013.12-794,0,41656,susan_r_lenz,,173.823,176.274,I do not think it would have been proper.
+2013.12-794,0,15131,sonia_sotomayor,scotus_justice,180.586,181.178,"No, I didn't ask about Kentucky law."
+2013.12-794,0,41656,susan_r_lenz,,188.285,195.109,--No.
+2013.12-794,0,15131,sonia_sotomayor,scotus_justice,195.109,200.171,Use silence to punish him because he's just a bad person.
+2013.12-794,0,41656,susan_r_lenz,,200.171,202.638,I -- I don't think so.
+2013.12-794,0,15131,sonia_sotomayor,scotus_justice,202.638,203.497,"I mean, that doesn't--"
+2013.12-794,0,15049,antonin_scalia,scotus_justice,203.497,207.481,"Under Federal law, you don't think the judge could say, ladies and gentlemen of the jury, this defendant has already pleaded guilty to a horrible crime."
+2013.12-794,0,41656,susan_r_lenz,,247.793,247.917,"Oh, absolutely."
+2013.12-794,0,15049,antonin_scalia,scotus_justice,248.48,249.839,"Well, then your answer should have been otherwise."
+2013.12-794,0,41656,susan_r_lenz,,249.839,259.601,"Well, I guess I interpreted Justice Sotomayor's question a little bit different because she wasn't referring to facts in evidence or -- or to some type of evidence."
+2013.12-794,0,15049,antonin_scalia,scotus_justice,270.16,271.128,Of course.
+2013.12-794,0,41656,susan_r_lenz,,271.128,272.83,And Mitchell specifically left that open.
+2013.12-794,0,15131,sonia_sotomayor,scotus_justice,274.938,281.451,"--Well, there was a factual dispute as to how much the witness -- the victim had suffered."
+2013.12-794,0,41656,susan_r_lenz,,286.2,291.072,"--Well, I don't think there was actually a dispute about how much the victim suffered."
+2013.12-794,0,15094,elena_kagan,scotus_justice,310.69,323.95,"But take the -- take the hypothetical, Ms. Lenz, that suppose, you know, the prosecutor had said you just heard testimony from our expert that -- the blood spattering expert, that the victim's suffering was especially prolonged, and look, the defendant didn't take the stand."
+2013.12-794,0,41656,susan_r_lenz,,333.212,336.305,"--Yes, Justice Kagan."
+2013.12-794,0,15094,elena_kagan,scotus_justice,359.076,371.807,"So you're suggesting that what we haven't decided, if you will, goes beyond the remorse question of -- that we -- that we talked about in -- not Mitchell, but -- is it Mitchell?"
+2013.12-794,0,41656,susan_r_lenz,,371.807,373.758,"Mitchell, yes."
+2013.12-794,0,15094,elena_kagan,scotus_justice,373.758,376.821,It goes beyond the remorse question.
+2013.12-794,0,41656,susan_r_lenz,,397.685,405.511,I think that the core purpose of the Fifth Amendment has -- has been protected.
+2013.12-794,0,15139,stephen_g_breyer,scotus_justice,408.479,418.147,"What do we do about -- I mean, I think the relevant pages are -- it's at 526 U.S. 328 to 330."
+2013.12-794,0,41656,susan_r_lenz,,538.567,548.359,"Well, in Estelle, that sentencing factors future dangerousness, and the prosecution had to prove that beyond a reasonable doubt in order to make Mr. Smith eligible for the death penalty."
+2013.12-794,0,15139,stephen_g_breyer,scotus_justice,560.809,574.131,"Well, I thought the facts -- what was at issue here, he has put on witnesses that show that he had a bad childhood and he didn't himself testify about his bad childhood."
+2013.12-794,0,41656,susan_r_lenz,,597.028,599.497,--The difference is the burden of proof.
+2013.12-794,0,15068,samuel_a_alito_jr,scotus_justice,616.785,624.611,"Ms. Lenz, am I correct, the instruction that was requested but not given was as follows: Quote,"
+2013.12-794,0,41656,susan_r_lenz,,633.262,633.824,"Yes, sir."
+2013.12-794,0,15068,samuel_a_alito_jr,scotus_justice,633.824,649.476,"So suppose that the -- you put on evidence of -- to show that he was qualified for the death penalty and put on evidence of aggravating factors, and the defense put on absolutely no mitigation evidence."
+2013.12-794,0,41656,susan_r_lenz,,661.033,663.0,"That's exactly right, Your Honor."
+2013.12-794,0,15049,antonin_scalia,scotus_justice,670.889,671.294,"In this case, of course, the question is even narrower."
+2013.12-794,0,41656,susan_r_lenz,,697.514,699.642,That's exactly right.
+2013.12-794,0,15131,sonia_sotomayor,scotus_justice,701.454,705.265,Could you call him to ask him if he feels sorry?
+2013.12-794,0,41656,susan_r_lenz,,717.04,729.895,"--No, Justice Sotomayor, because there are two rulings in Mitchell, and the first ruling in Mitchell says that -- said that Mitchell still had the Fifth Amendment right in the sentencing proceeding after the guilty plea."
+2013.12-794,0,15084,ruth_bader_ginsburg,scotus_justice,753.573,770.193,Is your position basically that this is in the nature of a -- an affirmative defense and that defendant carries the burden on remorse -- and what was the other one that Mitchell saved out?
+2013.12-794,0,41656,susan_r_lenz,,771.504,773.301,--Yes.
+2013.12-794,0,15084,ruth_bader_ginsburg,scotus_justice,774.378,785.328,"So if defendant says nothing, then he hasn't -- he hasn't proved a mitigator."
+2013.12-794,0,41656,susan_r_lenz,,785.328,793.309,"That's right, and -- and he bears the burden of proof on that and he bears the consequences from failing to meet his burden on that."
+2013.12-794,0,15113,anthony_m_kennedy,scotus_justice,797.12,817.361,"So would it have been an acceptable and workable rule to say that in a sentencing hearing, on any point where the defendant has the burden of proof the government is entitled to testimony, that silence can be the basis for an adverse inference?"
+2013.12-794,0,41656,susan_r_lenz,,817.361,823.577,Could you repeat the question?
+2013.12-794,0,15113,anthony_m_kennedy,scotus_justice,823.577,845.912,"Would it be an acceptable, workable rule to say that in a sentencing hearing, on any issue where the defendant has the burden of proof the prosecution is entitled to an instruction that silence can be the basis for an inference against the defendant on those issues?"
+2013.12-794,0,41656,susan_r_lenz,,863.032,871.982,"Well, I think no, and remorse is different because again that's a mitigating circumstance upon which Woodall has the burden of proof."
+2013.12-794,0,15131,sonia_sotomayor,scotus_justice,871.982,874.886,I'm sorry.
+2013.12-794,0,15113,anthony_m_kennedy,scotus_justice,876.901,883.227,I don't understand why you're not entitled to the instruction on all issues as to which the defendant has the burden of proof--
+2013.12-794,0,41656,susan_r_lenz,,883.227,885.321,"Well, it makes sense--"
+2013.12-794,0,15113,anthony_m_kennedy,scotus_justice,885.321,886.089,--in a sentencing hearing.
+2013.12-794,0,41656,susan_r_lenz,,886.089,902.234,"--It makes sense to not -- the purpose of the no-adverse-inference instruction is to protect the defendant from the prosecution shifting its burden of proof, in other words using his silence to prove one of the elements that the prosecution is required to prove."
+2013.12-794,0,15113,anthony_m_kennedy,scotus_justice,902.234,910.185,The -- the assumption in my question is that the defendant has the burden of proof on a certain number of issues in the sentencing hearing.
+2013.12-794,0,41656,susan_r_lenz,,928.506,932.177,"You need to know why remorse is different, is that what you're asking?"
+2013.12-794,0,15113,anthony_m_kennedy,scotus_justice,932.177,935.761,"Well, that's one way of asking it, yes."
+2013.12-794,0,41656,susan_r_lenz,,935.761,936.291,Yes.
+2013.12-794,0,15068,samuel_a_alito_jr,scotus_justice,955.556,976.19,"Well, when a party has the burden of producing evidence on something, isn't the customary way of dealing with that to instruct the jury that the defendant had the burden of producing evidence to show this, rather than to -- to talk about inferences that can be drawn from their failure, from that party's failure to produce evidence."
+2013.12-794,0,41656,susan_r_lenz,,976.19,984.03,"Well, in this case the jury was not instructed that Mr. Woodall had the burden of proof on the mitigating circumstances."
+2013.12-794,0,15049,antonin_scalia,scotus_justice,987.216,990.497,"They also weren't instructed to draw any inferences, were they?"
+2013.12-794,0,41656,susan_r_lenz,,990.497,991.151,"No, they were not."
+2013.12-794,0,15049,antonin_scalia,scotus_justice,991.151,1001.79,"I mean the -- the issue here is whether you must instruct them not to draw inferences, not -- not whether -- whether -- anyway."
+2013.12-794,0,15068,samuel_a_alito_jr,scotus_justice,1001.79,1003.663,"Well, the jury was instructed:"
+2013.12-794,0,41656,susan_r_lenz,,1034.713,1036.633,I don't think it speaks to who has the burden.
+2013.12-794,0,15084,ruth_bader_ginsburg,scotus_justice,1039.055,1046.615,I thought we -- it wasn't controversial that on mitigating factors the defendant does have the burden.
+2013.12-794,0,41656,susan_r_lenz,,1046.615,1047.816,--He does.
+2013.12-794,0,15084,ruth_bader_ginsburg,scotus_justice,1049.988,1075.774,"So is -- is there a difference between the prosecutor saying, judge, I want you to charge this jury that they can use defendant's silence against him, or a judge on his own telling the jury that, or the judge, as here, simply refusing to say you can't take it into account?"
+2013.12-794,0,41656,susan_r_lenz,,1075.774,1076.68,"Well, I do think--"
+2013.12-794,0,15084,ruth_bader_ginsburg,scotus_justice,1076.68,1080.649,Are all those the same or would you distinguish them?
+2013.12-794,0,41656,susan_r_lenz,,1080.649,1092.331,"--I think there -- there is a difference between the prosecution and the court not telling the jury that, that they can take the defendant's silence into consideration, I do."
+2013.12-794,0,15094,elena_kagan,scotus_justice,1092.331,1094.284,"Well, where does that difference come from?"
+2013.12-794,0,41656,susan_r_lenz,,1118.384,1135.752,"Well, the -- the only situation that I I'm aware of that the Court has, that it has extended Griffin with this Carter instruction is in the guilt phase, where the prosecution is still required to prove guilt."
+2013.12-794,0,15094,elena_kagan,scotus_justice,1135.752,1136.924,I guess I'm asking a different question.
+2013.12-794,0,41656,susan_r_lenz,,1154.666,1163.554,"Well, you said that in every case, but one, I suppose, except for Mitchell; and that's the most important case here."
+2013.12-794,0,15139,stephen_g_breyer,scotus_justice,1172.061,1173.346,I didn't see that in Mitchell.
+2013.12-794,0,41656,susan_r_lenz,,1292.816,1296.736,--All right.
+2013.12-794,0,15139,stephen_g_breyer,scotus_justice,1316.43,1318.367,I see.
+2013.12-794,0,41656,susan_r_lenz,,1318.367,1320.71,"Carter is talking about guilt, and it's limited."
+2013.12-794,0,15131,sonia_sotomayor,scotus_justice,1336.58,1340.454,"But Mitchell did, though, the sentencing aspect."
+2013.12-794,0,41656,susan_r_lenz,,1340.454,1341.392,I'm sorry?
+2013.12-794,0,15131,sonia_sotomayor,scotus_justice,1341.392,1342.845,Mitchell was about sentencing.
+2013.12-794,0,41656,susan_r_lenz,,1342.845,1344.671,"Yes, Mitchell was about sentencing."
+2013.12-794,0,15139,stephen_g_breyer,scotus_justice,1368.005,1369.786,Does it overrule -- does it overrule Estelle?
+2013.12-794,0,41656,susan_r_lenz,,1369.786,1370.88,--Does Mitchell overrule Estelle?
+2013.12-794,0,15139,stephen_g_breyer,scotus_justice,1370.88,1371.364,Yes.
+2013.12-794,0,41656,susan_r_lenz,,1381.251,1383.39,"Well, I don't think Mitchell says that."
+2013.12-794,0,15139,stephen_g_breyer,scotus_justice,1385.093,1385.568,"No, Mitchell doesn't."
+2013.12-794,0,41656,susan_r_lenz,,1385.568,1386.834,Or excuse me.
+2013.12-794,0,15094,elena_kagan,scotus_justice,1407.04,1412.144,"But in not making that distinction, I mean, it does speak very broadly, and it says, you know -- I'm reading another quotation from it."
+2013.12-794,0,41656,susan_r_lenz,,1436.199,1443.118,"Well, the rule against adverse inferences from Carter is all about incrimination and guilt."
+2013.12-794,0,15094,elena_kagan,scotus_justice,1459.949,1474.073,"I think my question was just the breadth of these statements about everything that applies at trial with respect to adverse inferences also applies at the sentencing phase, with the possible exception of adverse inferences about remorse."
+2013.12-794,0,41656,susan_r_lenz,,1477.494,1496.423,"Well, I'm not sure I agree with your reading of the cases, but even if -- even if that is the correct reading of the case and that adverse inferences apply to everything but factors such as lack of remorse or downward adjustment in the sentencing guidelines, that leaves a huge hole in Mitchell."
+2013.12-794,0,15086,john_g_roberts_jr,scotus_justice,1518.447,1519.402,"Thank you, counsel."
+2013.12-794,1,34686,laurence_e_komp,,1527.91,1531.3,"Mr. Chief Justice, and may it please the Court:"
+2013.12-794,1,15084,ruth_bader_ginsburg,scotus_justice,1581.639,1584.935,But the courts in those cases had a specific issue before it.
+2013.12-794,1,34686,laurence_e_komp,,1603.989,1618.656,"Your Honor, if I may, and just to -- to -- under Kentucky law, there is -- I think Justice Alito sort of spoke to this, or I forget which justice."
+2013.12-794,1,15068,samuel_a_alito_jr,scotus_justice,1653.046,1654.75,Let me -- let me give you this example.
+2013.12-794,1,34686,laurence_e_komp,,1739.201,1749.009,"Well, in that case, again, if -- if there's no mitigating evidence presented, you don't know if it's what Instruction 4 will look -- look like."
+2013.12-794,1,15068,samuel_a_alito_jr,scotus_justice,1770.268,1771.36,"No, it doesn't really."
+2013.12-794,1,34686,laurence_e_komp,,1783.886,1792.195,And that's right -- that's the -- that's straight out of the Carter--
+2013.12-794,1,15068,samuel_a_alito_jr,scotus_justice,1792.195,1795.101,"Well, just tell me what I'm supposed to do as a juror."
+2013.12-794,1,34686,laurence_e_komp,,1807.689,1815.514,"--Well, but he can't -- again, I think in your hypothetical that he's presented nothing."
+2013.12-794,1,15131,sonia_sotomayor,scotus_justice,1822.87,1823.682,Nothing -- zero equals zero.
+2013.12-794,1,34686,laurence_e_komp,,1823.682,1825.79,--Correct.
+2013.12-794,1,15131,sonia_sotomayor,scotus_justice,1826.853,1831.913,And the zero just can't be added onto or taken away from.
+2013.12-794,1,34686,laurence_e_komp,,1834.444,1834.903,--Right.
+2013.12-794,1,15131,sonia_sotomayor,scotus_justice,1835.359,1846.845,"So you can't take away from the zero, create evidence from his silence, just as you can't from his silence outweigh the aggravating circumstances; correct?"
+2013.12-794,1,34686,laurence_e_komp,,1846.845,1847.361,--Correct.
+2013.12-794,1,15113,anthony_m_kennedy,scotus_justice,1847.361,1851.126,But that still doesn't answer Justice Alito's dilemma.
+2013.12-794,1,34686,laurence_e_komp,,1866.337,1881.721,"In -- in that circumstance, again, he -- he can't -- they can't, for instance, Kentucky is a nonweighing State, so that means that they can -- that nonstatutory aggravation is on the table, anything they want to consider."
+2013.12-794,1,15084,ruth_bader_ginsburg,scotus_justice,1903.79,1909.725,"Was there any other -- defendant didn't say, I'm sorry."
+2013.12-794,1,34686,laurence_e_komp,,1921.753,1922.237,"--In this -- in this case, no."
+2013.12-794,1,15139,stephen_g_breyer,scotus_justice,1929.219,1932.732,"A low IQ and a personality disorder, I take it, were the mitigating factors?"
+2013.12-794,1,34686,laurence_e_komp,,1932.732,1934.559,Correct.
+2013.12-794,1,15139,stephen_g_breyer,scotus_justice,1934.559,1945.571,"So in a case where there are witnesses who says there are two mitigating factors, he has a very low IQ and he has a personality disorder, he says nothing."
+2013.12-794,1,34686,laurence_e_komp,,1965.5,1966.86,Correct.
+2013.12-794,1,15139,stephen_g_breyer,scotus_justice,1966.86,1970.373,"Is that -- that -- so that jurors are perfectly clear, I would think."
+2013.12-794,1,34686,laurence_e_komp,,2034.05,2038.002,My -- my response to that is -- is twofold.
+2013.12-794,1,15094,elena_kagan,scotus_justice,2059.742,2068.412,"Well, Estelle might not have been overruled, but there's a caveat that Mitchell puts in, and it's a caveat about remorse and that remorse might be different."
+2013.12-794,1,34686,laurence_e_komp,,2098.556,2108.13,"--Two points, and one is, when this instruction was requested, Mitchell had not been decided."
+2013.12-794,1,15086,john_g_roberts_jr,scotus_justice,2123.671,2132.013,"Well, but then the reservation certainly suggests that at the time the instruction was requested, it wasn't beyond any fair-minded dispute, which is the standard."
+2013.12-794,1,34686,laurence_e_komp,,2155.487,2169.621,"I think you have -- we have to examine what Mitchell -- Mitchell, again, was framed as a Federal sentencing guidelines case, and that passage I read earlier from Mitchell, the next sentence is:"
+2013.12-794,1,15086,john_g_roberts_jr,scotus_justice,2208.685,2209.857,Not only that.
+2013.12-794,1,34686,laurence_e_komp,,2215.852,2222.022,It's clear that that relates to fair -- to Federal sentencing guidelines cases.
+2013.12-794,1,15086,john_g_roberts_jr,scotus_justice,2222.022,2222.616,Right.
+2013.12-794,1,34686,laurence_e_komp,,2222.616,2230.254,"Or possibly noncapital cases, because this Court didn't simultaneously accept Estelle as the clearly existing law and then cut it."
+2013.12-794,1,15086,john_g_roberts_jr,scotus_justice,2230.254,2249.761,"Well, but you're saying it has to be clear, objectively beyond reasonable disagreement, to say that when the court says lack of remorse in a sentencing guideline case it still thinks there's a different rule for lack of remorse in a selection case such as this."
+2013.12-794,1,34686,laurence_e_komp,,2249.761,2276.813,"But I think the answer is found within Estelle, because Estelle was based on the future dangerousness, and the psychiatrist that -- or, pardon me, psychologist that testified in Estelle, his finding of future dangerousness, which is a selection question which has nothing to do with eligibility, his finding of future dangerousness was based on lack of remorse."
+2013.12-794,1,15086,john_g_roberts_jr,scotus_justice,2280.86,2288.92,I thought your friend told us that future dangerousness was an eligibility factor rather than a mere selection criteria.
+2013.12-794,1,34686,laurence_e_komp,,2288.92,2299.587,"Under this Court's -- the then Texas statute as defined by this Court in Jurek, that special circumstances question at that time was a selection factor."
+2013.12-794,1,15084,ruth_bader_ginsburg,scotus_justice,2382.571,2384.913,I'm curious about one facet of this case.
+2013.12-794,1,34686,laurence_e_komp,,2409.824,2420.478,"I -- I can't speak -- I don't want to speak too broadly for what happens, but it's -- I think when both parties usually agree, the instruction is given."
+2013.12-794,1,15049,antonin_scalia,scotus_justice,2438.751,2440.829,It doesn't demonstrate anything of the sort.
+2013.12-794,1,34686,laurence_e_komp,,2443.25,2445.717,"--Well, I -- I think--"
+2013.12-794,1,15049,antonin_scalia,scotus_justice,2445.717,2448.512,Maybe he was a very bad lawyer.
+2013.12-794,1,34686,laurence_e_komp,,2456.712,2457.274,--I--
+2013.12-794,1,15049,antonin_scalia,scotus_justice,2457.274,2462.163,"At most, it shows that he didn't think that there was anything wrong with it."
+2013.12-794,1,34686,laurence_e_komp,,2465.1,2466.506,"--Oh, absolutely not, Your Honor."
+2013.12-794,1,15049,antonin_scalia,scotus_justice,2466.506,2467.193,Okay.
+2013.12-794,1,34686,laurence_e_komp,,2467.193,2467.35,Absolutely not.
+2013.12-794,1,15068,samuel_a_alito_jr,scotus_justice,2468.256,2485.703,"Well, what it may show is that the prosecutor didn't think that it was going to make a difference, and so why raise an objection that could create everything that's happened since then, over something that isn't going to make a difference in a case where you have an incredibly heinous crime."
+2013.12-794,1,34686,laurence_e_komp,,2491.965,2493.715,--I think that--
+2013.12-794,1,15068,samuel_a_alito_jr,scotus_justice,2493.715,2495.057,You don't think that's a possibility?
+2013.12-794,1,34686,laurence_e_komp,,2495.057,2514.799,"--I -- I think as a -- as a lawyer, if you -- your -- the basis of your objection or your failure to object is based on what you believe is -- is legally required, especially when you're a prosecutor, and -- and you have that added burden of not seeking a conviction or not seeking the death sentence--"
+2013.12-794,1,15139,stephen_g_breyer,scotus_justice,2514.799,2525.001,"What I say -- what we said here, what I've gathered from the record, as best we've been able to see it, is in that sentencing hearing -- you were there?"
+2013.12-794,1,34686,laurence_e_komp,,2525.001,2526.547,--I was not.
+2013.12-794,1,15139,stephen_g_breyer,scotus_justice,2526.547,2527.485,But you know it pretty well.
+2013.12-794,1,34686,laurence_e_komp,,2527.485,2528.031,Yes.
+2013.12-794,1,15139,stephen_g_breyer,scotus_justice,2528.031,2528.064,Okay.
+2013.12-794,1,34686,laurence_e_komp,,2577.061,2580.061,The -- in -- in--
+2013.12-794,1,15139,stephen_g_breyer,scotus_justice,2580.061,2586.339,"Is there anything else any juror might have thought, oh, he didn't testify about this other thing, too?"
+2013.12-794,1,34686,laurence_e_komp,,2588.573,2594.728,"--It doesn't, Your Honor, it just doesn't go to mitigation, because I -- I think that goes--"
+2013.12-794,1,15139,stephen_g_breyer,scotus_justice,2594.728,2595.976,That's not what I'm thinking of.
+2013.12-794,1,34686,laurence_e_komp,,2595.976,2596.788,--But -- but -- right.
+2013.12-794,1,15139,stephen_g_breyer,scotus_justice,2597.257,2606.754,"I'm thinking of what is it that we -- is there an issue in this case about whether the instruction, on top of whatever other problems it had, was too broad?"
+2013.12-794,1,15049,antonin_scalia,scotus_justice,2623.952,2626.231,"He's trying to help you, counsel."
+2013.12-794,1,15139,stephen_g_breyer,scotus_justice,2626.231,2630.106,He's got the point.
+2013.12-794,1,34686,laurence_e_komp,,2634.572,2640.056,--In this -- in this -- pardon me.
+2013.12-794,1,15049,antonin_scalia,scotus_justice,2662.28,2663.061,What about remorse?
+2013.12-794,1,34686,laurence_e_komp,,2664.389,2667.95,--Remorse wasn't put at issue by -- by Mr. Woodall.
+2013.12-794,1,15049,antonin_scalia,scotus_justice,2667.95,2670.494,"Well, whatever."
+2013.12-794,1,34686,laurence_e_komp,,2676.243,2686.692,"It -- it can be a factor, but it can't -- this -- the lack of remorse as the nonstatutory aggravator cannot be premised upon his silence."
+2013.12-794,1,15139,stephen_g_breyer,scotus_justice,2686.692,2689.925,But was his remorse an issue at the hearing?
+2013.12-794,1,15049,antonin_scalia,scotus_justice,2689.925,2691.845,Right.
+2013.12-794,1,34686,laurence_e_komp,,2691.845,2693.47,"Yes, his lack of remorse."
+2013.12-794,1,15139,stephen_g_breyer,scotus_justice,2694.204,2694.953,Then the answer--
+2013.12-794,1,34686,laurence_e_komp,,2694.953,2695.718,Yes.
+2013.12-794,1,15094,elena_kagan,scotus_justice,2695.718,2697.874,I'm sorry.
+2013.12-794,1,34686,laurence_e_komp,,2727.004,2732.594,Estelle dealt with that in the capital context.
+2013.12-794,1,15086,john_g_roberts_jr,scotus_justice,2760.275,2761.431,I'm sorry.
+2013.12-794,1,34686,laurence_e_komp,,2763.259,2764.305,--I'm -- pardon me.
+2013.12-794,1,15113,anthony_m_kennedy,scotus_justice,2768.118,2779.159,"Suppose we read Estelle as saying that on the issue of remorse, it is an open question whether or not the self-incrimination privilege is applicable."
+2013.12-794,1,34686,laurence_e_komp,,2801.042,2804.961,Could you -- could you please repeat the -- the first part?
+2013.12-794,1,15113,anthony_m_kennedy,scotus_justice,2805.21,2826.937,"Suppose we read Mitchell as saying that on the -- where remorse is at issue, it is not settled whether or not there is a Fifth Amendment self-incrimination right; and it is not settled that the defendant is entitled to an instruction about silence, number one."
+2013.12-794,1,34686,laurence_e_komp,,2843.226,2851.333,--I -- I disagree.
+2013.12-794,1,15131,sonia_sotomayor,scotus_justice,2881.149,2882.618,But we could--
+2013.12-794,1,15113,anthony_m_kennedy,scotus_justice,2882.618,2883.257,But your -- your answer that is what the law should be.
+2013.12-794,1,34686,laurence_e_komp,,2889.538,2908.55,"--I believe that Estelle settled this and Mitchell did not cut back on Estelle in the capital sentencing context, and that Estelle imported the no-adverse instruction that's required by Carter."
+2013.12-794,1,15049,antonin_scalia,scotus_justice,2908.55,2909.043,It is.
+2013.12-794,1,34686,laurence_e_komp,,2926.537,2927.708,I -- pardon me.
+2013.12-794,1,15049,antonin_scalia,scotus_justice,2932.518,2936.283,No reasonable jurors could say otherwise?
+2013.12-794,1,34686,laurence_e_komp,,2936.283,2946.169,"--One, I don't think this Court in Williams said that -- that -- or not -- that AEDPA is not a subjective juror/judge contest."
+2013.12-794,1,15086,john_g_roberts_jr,scotus_justice,2990.886,3003.005,"So -- so your argument is when Mitchell said -- whether it applies to lack of remorse or acceptance of responsibility for the sentencing guidelines, that's a separate question."
+2013.12-794,1,34686,laurence_e_komp,,3011.003,3011.941,Right.
+2013.12-794,1,15086,john_g_roberts_jr,scotus_justice,3012.347,3013.113,But that's perfectly clear.
+2013.12-794,1,34686,laurence_e_komp,,3035.354,3053.676,"--I -- no, we would think it's an open issue, because if you -- if you go through the -- the Mitchell opinion and how it builds on the no adverse -- no adverse inference and talks about Griffin and Estelle, and then the -- the key language is at -- at 329:"
+2013.12-794,1,15084,ruth_bader_ginsburg,scotus_justice,3064.827,3069.966,"How could this be -- let's assume that you're right, that there was error."
+2013.12-794,1,34686,laurence_e_komp,,3096.237,3108.982,"I think in two manners: One is when you're -- relates to using the right to silence as a penalty, which is the natural inclination of -- of the jurors."
+2013.12-794,1,15131,sonia_sotomayor,scotus_justice,3122.225,3123.772,--Did the prosecutor argue that?
+2013.12-794,1,34686,laurence_e_komp,,3123.772,3125.693,--No.
+2013.12-794,1,15131,sonia_sotomayor,scotus_justice,3126.24,3128.693,So how would they have put that on the scale?
+2013.12-794,1,34686,laurence_e_komp,,3128.693,3135.77,"Well, they -- that's the natural, what this Court recognizes, the natural inclinations of what jurors do."
+2013.12-794,1,15049,antonin_scalia,scotus_justice,3206.194,3219.065,"And you think that made the difference, that the jury would not have condemned your client to death had it not been for the fact that they drew an adverse inference from -- they knew all the horrific details of the crime."
+2013.12-794,1,34686,laurence_e_komp,,3233.978,3236.322,--Absolutely.
+2013.12-794,1,15049,antonin_scalia,scotus_justice,3236.322,3236.853,Really?
+2013.12-794,1,34686,laurence_e_komp,,3236.853,3237.822,Absolutely.
+2013.12-794,1,15049,antonin_scalia,scotus_justice,3245.115,3245.803,"Well, what--"
+2013.12-794,1,15094,elena_kagan,scotus_justice,3245.803,3249.146,"Mr. Komp, did the Sixth Circuit apply the wrong harmlessness standard here?"
+2013.12-794,1,34686,laurence_e_komp,,3255.502,3260.407,I believe that they cited Brecht and they cited O'Neal appropriately.
+2013.12-794,1,15094,elena_kagan,scotus_justice,3260.407,3262.484,Because it seems to rely primarily on Carter.
+2013.12-794,1,34686,laurence_e_komp,,3268.668,3285.021,"I think the reference to Carter was to talk about -- we're talking about assessing the harmfulness of this error or the harmlessness of this error in the context of an instruction that wasn't given, where the instruction that's not given prevents negative inferences."
+2013.12-794,1,15068,samuel_a_alito_jr,scotus_justice,3307.467,3308.996,What do you think is the worse adverse inference they might have drawn?
+2013.12-794,1,34686,laurence_e_komp,,3308.996,3324.443,"In this case, I think it's -- it's not offering an apology, not -- not saying why or not explaining how."
+2013.12-794,1,15086,john_g_roberts_jr,scotus_justice,3328.254,3331.377,You can finish your--
+2013.12-794,1,34686,laurence_e_komp,,3331.377,3336.422,"--that a juror wants to hear, naturally wants to hear."
+2013.12-794,1,15086,john_g_roberts_jr,scotus_justice,3341.982,3342.966,"--Thank you, counsel."
+2013.12-794,2,41656,susan_r_lenz,,3345.247,3351.432,Thank you.
+2013.12-794,2,15086,john_g_roberts_jr,scotus_justice,3387.745,3391.932,Your friend says Jurek reads to the contrary.
+2013.12-794,2,41656,susan_r_lenz,,3391.932,3397.772,"No, Jurek does not read to the contrary, no."
+2013.12-794,2,15131,sonia_sotomayor,scotus_justice,3418.046,3430.977,"If the only criteria to determine harmlessness is the gruesome -- gruesome nature of the crime, it appears to me that in almost every death-eligible case I've come across, gruesomeness is inherent."
+2013.12-794,2,41656,susan_r_lenz,,3441.645,3446.471,"That's not true, Justice Sotomayor, because it would depend on what the violation is, what the error is."
+2013.12-794,2,15131,sonia_sotomayor,scotus_justice,3465.699,3467.15,But the mitigation was very close to Wiggins.
+2013.12-794,2,41656,susan_r_lenz,,3467.15,3468.838,--The mitigation was?
+2013.12-794,2,15131,sonia_sotomayor,scotus_justice,3468.838,3469.852,Was very close to the Wiggins case.
+2013.12-794,2,41656,susan_r_lenz,,3469.852,3472.477,I'm sorry?
+2013.12-794,2,15131,sonia_sotomayor,scotus_justice,3472.477,3479.52,"The mitigation evidence offered here was very close to the Wiggins case, similar mitigation."
+2013.12-794,2,41656,susan_r_lenz,,3479.52,3480.036,I think--
+2013.12-794,2,15131,sonia_sotomayor,scotus_justice,3480.036,3481.8,And there we held there was harmful error.
+2013.12-794,2,41656,susan_r_lenz,,3481.8,3491.142,--I think the mitigation was -- was negligible in comparison to -- to the rest of the crimes.
+2013.12-794,2,15086,john_g_roberts_jr,scotus_justice,3504.573,3505.854,"Thank you, counsel."

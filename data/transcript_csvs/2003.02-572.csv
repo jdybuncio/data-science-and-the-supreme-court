@@ -1,0 +1,169 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2003.02-572,0,15141,william_h_rehnquist,scotus_justice,0.0,9.371,"We'll hear argument next in No. 02-572, the Intel Corporation v. Advanced Micro Devices."
+2003.02-572,0,42213,seth_p_waxman,,90.158,93.251,"Mr. Chief Justice, and may it please the Court:"
+2003.02-572,0,15049,antonin_scalia,scotus_justice,214.078,221.22,"Mr. Waxman, I... I... it seems to make a lot of sense, but I need a... I need a... a hook to hang it on."
+2003.02-572,0,42213,seth_p_waxman,,233.397,234.14,Justice--
+2003.02-572,0,15049,antonin_scalia,scotus_justice,234.14,244.543,"You can fall back, I suppose, on... on guided discretion until, you know, we can tell the lower courts never to do it unless its available in foreign... but I don't see it in the language."
+2003.02-572,0,42213,seth_p_waxman,,244.543,279.548,"--Justice Scalia, I'm... I'm confident that our successive briefs in this case provide a number of hooks, but I'm going to give you one or two that I think are particularly applicable with respect to textual interpretation, although obviously we also would urge the Court, because this is a procedural statute, not one that grants substantive rights, that it can and must announce general rules of supervisory power that outline where a... where discretion ends and abuse begins because another operative word in the statute is may."
+2003.02-572,0,15049,antonin_scalia,scotus_justice,317.732,317.882,I understand that.
+2003.02-572,0,42213,seth_p_waxman,,329.127,330.408,"--Well, we... we think--"
+2003.02-572,0,15049,antonin_scalia,scotus_justice,330.408,332.637,Which is... which is the... the major point you were addressing.
+2003.02-572,0,42213,seth_p_waxman,,332.637,333.092,--Yes.
+2003.02-572,0,15049,antonin_scalia,scotus_justice,333.092,334.04,I don't see any... any--
+2003.02-572,0,42213,seth_p_waxman,,334.04,346.588,"Everybody will come... everybody who argues today will give you some definition of what interested person is, and none of them are the limits of definitional possibility."
+2003.02-572,0,15084,ruth_bader_ginsburg,scotus_justice,352.616,354.473,--Why not at least a complainant?
+2003.02-572,0,42213,seth_p_waxman,,425.145,426.714,"To be... to be sure... to be sure, Justice Ginsburg."
+2003.02-572,0,15141,william_h_rehnquist,scotus_justice,464.403,466.261,Some... some discovery rights in this country?
+2003.02-572,0,42213,seth_p_waxman,,466.261,471.174,"In... in the foreign country, that is, for the foreign sovereign who's being assisted."
+2003.02-572,0,15084,ruth_bader_ginsburg,scotus_justice,545.439,553.074,"But even so, if you take a typical civil law proceeding a... between private litigants, you can't go out and get discovery on your own."
+2003.02-572,0,42213,seth_p_waxman,,577.86,594.107,"--Justice Ginsburg, I... I think... I mean, I think this Court ought to announce that since the manifest purpose of the statute is to assist, quote, foreign tribunals and litigants before those tribunals, that the indeterminate words of the statute should be read in that context."
+2003.02-572,0,15113,anthony_m_kennedy,scotus_justice,659.223,673.052,"What happens when AMD goes to the court of first instance, disappointed with what the EU commission or that the EU committee has done, and then it goes to the court of first instance?"
+2003.02-572,0,42213,seth_p_waxman,,677.593,684.198,"I believe, Justice Kennedy, that the answer to that question is no."
+2003.02-572,0,15113,anthony_m_kennedy,scotus_justice,690.159,691.728,I'm sure he'll... I'm sure he'll be glad you asked him to do that.
+2003.02-572,1,19760,carter_g_phillips,,1108.003,1122.121,"Thank you, Mr. Chief Justice, and may it please the Court:"
+2003.02-572,1,15113,anthony_m_kennedy,scotus_justice,1173.435,1174.755,And the court of first instance can't expand the record.
+2003.02-572,1,19760,carter_g_phillips,,1174.755,1175.293,No.
+2003.02-572,1,15084,ruth_bader_ginsburg,scotus_justice,1185.984,1188.213,Where does this proceeding stand now?
+2003.02-572,1,19760,carter_g_phillips,,1196.469,1199.154,The commission has not made a preliminary determination.
+2003.02-572,1,15139,stephen_g_breyer,scotus_justice,1281.464,1283.405,How does that fit in the rule then?
+2003.02-572,1,19760,carter_g_phillips,,1289.349,1289.804,--We... we--
+2003.02-572,1,15139,stephen_g_breyer,scotus_justice,1289.804,1296.202,"Do you say if the commission doesn't want it, then don't give it to them, but if they do want it, do?"
+2003.02-572,1,19760,carter_g_phillips,,1297.195,1297.771,--Well--
+2003.02-572,1,15139,stephen_g_breyer,scotus_justice,1297.771,1300.167,How do you interpret the statute to get the result that you're arguing for?
+2003.02-572,1,19760,carter_g_phillips,,1300.167,1306.733,--Let me give you a preliminary answer and then I'll tell you... the... the real answer as how... we would interpret it through the word tribunal.
+2003.02-572,1,15139,stephen_g_breyer,scotus_justice,1309.871,1313.975,"Well, with a tribunal you... I don't think it is a tribunal probably, but I'll hear more on the other side."
+2003.02-572,1,19760,carter_g_phillips,,1320.851,1323.08,"To be sure, Justice Breyer."
+2003.02-572,1,15139,stephen_g_breyer,scotus_justice,1364.856,1373.318,"That would do it, but they have... I think they have the alternative ground here, that even if you're not a tribunal, the Ninth Circuit says it could lead to a proceeding in the court of first instance."
+2003.02-572,1,19760,carter_g_phillips,,1375.342,1377.821,"--They make that argument, but that would be an alternative theory."
+2003.02-572,1,15139,stephen_g_breyer,scotus_justice,1377.821,1377.943,All right.
+2003.02-572,1,19760,carter_g_phillips,,1388.8,1389.543,Well--
+2003.02-572,1,15139,stephen_g_breyer,scotus_justice,1389.543,1389.893,All right.
+2003.02-572,1,19760,carter_g_phillips,,1395.199,1410.448,"--Well, the... the next step, obviously, and it's not one that the commission argues for specifically, but it's one that... that Intel makes, which is that even if... if you're going to use the court as the ultimate tribunal, then what is the nexus between this request for information and a proceeding before that court."
+2003.02-572,1,15060,john_paul_stevens,scotus_justice,1417.035,1424.177,I assume that the EU committee would be a tribunal under the first sentence if it asked for the documents.
+2003.02-572,1,19760,carter_g_phillips,,1424.177,1427.315,"No, it would not regard itself as a tribunal under those circumstances."
+2003.02-572,1,15042,david_h_souter,scotus_justice,1517.269,1518.959,How does it increase the commission's workload?
+2003.02-572,1,19760,carter_g_phillips,,1518.959,1520.157,"--Well, it... it--"
+2003.02-572,1,15042,david_h_souter,scotus_justice,1520.157,1523.334,In the sense that you look at it if they give it to you?
+2003.02-572,1,19760,carter_g_phillips,,1523.334,1526.472,--In that sense and it also provides an incentive.
+2003.02-572,1,15042,david_h_souter,scotus_justice,1526.472,1527.687,Why... why don't you just say we're not going to look at--
+2003.02-572,1,19760,carter_g_phillips,,1527.687,1535.844,It... it provides an incentive for more filings with the commission in order to use this device in order to obtain discovery that you otherwise could not get.
+2003.02-572,1,15084,ruth_bader_ginsburg,scotus_justice,1598.092,1601.315,--What about the one that comes up in the reply brief?
+2003.02-572,1,19760,carter_g_phillips,,1629.589,1640.818,"Yes, well, the commission is certainly supportive of that notion because the commission believes that when and if it needs these... this information, it will be able to obtain it directly from the party."
+2003.02-572,1,15113,anthony_m_kennedy,scotus_justice,1695.142,1698.197,What... what's our authority to announce a supervisory rule?
+2003.02-572,1,19760,carter_g_phillips,,1699.395,1701.912,"Oh, geez."
+2003.02-572,1,15139,stephen_g_breyer,scotus_justice,1710.996,1714.544,Interpretation of what comity consists of in this instance.
+2003.02-572,1,19760,carter_g_phillips,,1714.544,1721.027,"--Well, the... the comity principle are the cases like M'Culloch and the... and the... that we cited in the brief, and obviously Charming Betsy."
+2003.02-572,1,15141,william_h_rehnquist,scotus_justice,1726.061,1727.092,"Thank you, Mr. Phillips."
+2003.02-572,2,38097,patrick_lynch,,1731.262,1733.862,"Mr. Chief Justice, and may it please the Court:"
+2003.02-572,2,15139,stephen_g_breyer,scotus_justice,1802.222,1808.788,"In Israel, for example, if you have a... a criminal prosecutor, it looks just like our prosecutor."
+2003.02-572,2,38097,patrick_lynch,,1828.767,1839.745,"Well, I... I think that the... the question of whether a victim is an interested person arises--"
+2003.02-572,2,15139,stephen_g_breyer,scotus_justice,1839.745,1840.283,"No, no."
+2003.02-572,2,38097,patrick_lynch,,1875.494,1875.494,"--Your Honor, I believe that the answer is that the court to which you can go in Israel and ask them to direct the prosecutor to bring a prosecution has to be a tribunal within the meaning of the statute."
+2003.02-572,2,15139,stephen_g_breyer,scotus_justice,1875.494,1887.549,No.
+2003.02-572,2,38097,patrick_lynch,,1889.035,1890.15,But the prosecutor is not a tribunal.
+2003.02-572,2,15139,stephen_g_breyer,scotus_justice,1890.15,1890.316,I don't want to just repeat it again.
+2003.02-572,2,38097,patrick_lynch,,1914.177,1916.899,A person... the prosecutor would not be a tribunal.
+2003.02-572,2,15139,stephen_g_breyer,scotus_justice,1916.899,1917.437,Fine.
+2003.02-572,2,38097,patrick_lynch,,1919.007,1919.257,The--
+2003.02-572,2,15139,stephen_g_breyer,scotus_justice,1919.257,1925.777,--and I agree with you... how does this particular tribunal differ from the one I just described?
+2003.02-572,2,38097,patrick_lynch,,1932.06,1940.112,"--Because under the European rules of procedure which I can't relate to Israel, but I can relate to the United States--"
+2003.02-572,2,15139,stephen_g_breyer,scotus_justice,1940.112,1940.383,Forget Israel.
+2003.02-572,2,38097,patrick_lynch,,1942.119,1942.274,--Under the--
+2003.02-572,2,15139,stephen_g_breyer,scotus_justice,1942.274,1943.15,You've got my question.
+2003.02-572,2,38097,patrick_lynch,,1943.15,1944.143,--Under the--
+2003.02-572,2,15139,stephen_g_breyer,scotus_justice,1944.143,1946.744,And I want to know how they differ from what I just said.
+2003.02-572,2,38097,patrick_lynch,,1946.744,1960.983,"--Under the European rules of procedure, Justice Breyer, the... the European Commission has to consider the facts, has to apply the law to the facts, has to reach a decision which is reviewable by a court."
+2003.02-572,2,15139,stephen_g_breyer,scotus_justice,1961.726,1971.923,"And that differs from my case, which was our U.S. Attorney who can be brought to court for not prosecuting on those kinds of grounds."
+2003.02-572,2,38097,patrick_lynch,,1979.93,1980.385,--Well--
+2003.02-572,2,15139,stephen_g_breyer,scotus_justice,1980.385,1983.524,So is... you can elaborate on that or give me another one too.
+2003.02-572,2,38097,patrick_lynch,,1983.524,1992.274,--I believe that the... the process I described is a classic example of quasi-judicial activity by an administrative body.
+2003.02-572,2,15049,antonin_scalia,scotus_justice,1995.329,1999.044,The prosecutor has no authority on his own to impose a fine.
+2003.02-572,2,38097,patrick_lynch,,2020.805,2021.092,Yes.
+2003.02-572,2,15139,stephen_g_breyer,scotus_justice,2022.141,2023.256,That's very important.
+2003.02-572,2,15049,antonin_scalia,scotus_justice,2023.256,2023.439,That's--
+2003.02-572,2,38097,patrick_lynch,,2026.311,2027.676,He cannot do anything on his own.
+2003.02-572,2,15139,stephen_g_breyer,scotus_justice,2029.533,2032.793,And so what is the difference there between... and I... I'm serious about this question.
+2003.02-572,2,38097,patrick_lynch,,2054.032,2068.914,"The... the order of the EC, the order of the commission is a final, enforceable judgment in Europe unless the party, the respondent to that order, takes an appeal to the community courts."
+2003.02-572,2,15139,stephen_g_breyer,scotus_justice,2080.514,2083.364,"When they review it, do they give a leg up to the commission?"
+2003.02-572,2,38097,patrick_lynch,,2083.364,2086.708,--When... when the... the commission--
+2003.02-572,2,15139,stephen_g_breyer,scotus_justice,2086.708,2108.461,"If it goes to court, is the... is the issue in the court in the EU an issue like review of the NLRB, that the NLRB wins, unless they're quite wrong, or is it like a court reviewing a decision of the Antitrust Division to bring a tying case where the court will say, we'll make up our mind on our own?"
+2003.02-572,2,38097,patrick_lynch,,2110.979,2113.458,--It... I think it's some of both.
+2003.02-572,2,15139,stephen_g_breyer,scotus_justice,2114.983,2116.097,It has to be either one or the other.
+2003.02-572,2,38097,patrick_lynch,,2122.003,2138.805,"--If the agency purports to be deciding on a question of law, like is this tying, they would review the decision of the agency the same way a U.S. court would and say, whether or not this is tying under article 82 or article 81, is ultimately a decision of law and ultimately the community courts have the last word on it."
+2003.02-572,2,15139,stephen_g_breyer,scotus_justice,2157.835,2158.783,--How about fact-finding?
+2003.02-572,2,38097,patrick_lynch,,2158.783,2167.123,--The fact-finding process is... I'm... I'm at a loss to relate it to U.S. process.
+2003.02-572,2,15139,stephen_g_breyer,scotus_justice,2168.942,2169.768,"No, I'm not talking about process."
+2003.02-572,2,38097,patrick_lynch,,2173.938,2182.704,"--It... I think it clearly defers, but I can't find that standard of review because the commission has been reversed in the Gregarian case, for example, which is cited in the briefs."
+2003.02-572,2,15139,stephen_g_breyer,scotus_justice,2189.004,2199.944,"My impression, which only comes from the newspapers, is that the courts there are taking a much more active role and it's becoming like they're vis-a-vis the Antitrust Division and it's not like vis-a-vis a commission."
+2003.02-572,2,38097,patrick_lynch,,2201.02,2201.596,--I would... I would say--
+2003.02-572,2,15139,stephen_g_breyer,scotus_justice,2201.596,2203.098,--I'm wrong on that.
+2003.02-572,2,38097,patrick_lynch,,2203.098,2210.845,"--with... with all respect, I would say it would be like this Court vis-a-vis the district courts or vis-a-vis administrative agencies as opposed to prosecutors."
+2003.02-572,2,15042,david_h_souter,scotus_justice,2225.911,2230.824,But did it... did it undertake to dictate to us that we should exceed our standards?
+2003.02-572,2,38097,patrick_lynch,,2264.344,2266.944,"Your Honor, I think that is a false premise here."
+2003.02-572,2,15042,david_h_souter,scotus_justice,2290.972,2293.656,"So, in other words, you're simply saying we can't... we could sue here."
+2003.02-572,2,38097,patrick_lynch,,2300.797,2304.513,"--With all respect, I would say we are in a litigant's position."
+2003.02-572,2,15042,david_h_souter,scotus_justice,2307.857,2312.936,But not in... not in the sense of being a party as... as you would be if you brought a private antitrust complaint.
+2003.02-572,2,38097,patrick_lynch,,2313.845,2328.706,"--In the sense of being a party in that our application has the same standing under European procedural law as a complaint would have here, that when we file that complaint, the commission ipso facto owes us an obligation to make an adjudication."
+2003.02-572,2,15042,david_h_souter,scotus_justice,2338.571,2339.025,Okay.
+2003.02-572,2,38097,patrick_lynch,,2354.015,2366.397,"I'm... I would say it slightly differently, that whether you call us in the position of an American plaintiff right now or whether you say there is no direct analogy, we are a litigant in any practical sense of the word."
+2003.02-572,2,15113,anthony_m_kennedy,scotus_justice,2378.907,2379.983,Do they... do they--
+2003.02-572,2,15042,david_h_souter,scotus_justice,2379.983,2380.055,--May I go--
+2003.02-572,2,15113,anthony_m_kennedy,scotus_justice,2380.055,2386.503,"--Must they consider... and I... I think this is along the lines of what Justice Souter is asking, so I hope I'm not interrupting."
+2003.02-572,2,38097,patrick_lynch,,2390.136,2390.691,--They must.
+2003.02-572,2,15113,anthony_m_kennedy,scotus_justice,2390.691,2396.042,Or can they say that it's... that... that there's a... certain relevancy rules that... that you must adhere to?
+2003.02-572,2,38097,patrick_lynch,,2396.042,2396.906,Well--
+2003.02-572,2,15113,anthony_m_kennedy,scotus_justice,2396.906,2403.882,"Because what's happening, it seems to me, is that you want to force them to consider things they don't want to consider."
+2003.02-572,2,38097,patrick_lynch,,2403.882,2408.219,"--Well, I... with all respect, I don't know that they've ever said they don't want to consider it."
+2003.02-572,2,15113,anthony_m_kennedy,scotus_justice,2430.632,2432.368,"But haven't they, in effect, said that?"
+2003.02-572,2,38097,patrick_lynch,,2434.43,2435.339,--They have not said that.
+2003.02-572,2,15049,antonin_scalia,scotus_justice,2450.571,2451.48,But they don't want it.
+2003.02-572,2,15042,david_h_souter,scotus_justice,2451.48,2451.664,Isn't the--
+2003.02-572,2,15049,antonin_scalia,scotus_justice,2451.664,2452.24,--But they don't want it.
+2003.02-572,3,31838,jeffrey_p_minear,,2960.822,2963.256,"Mr. Chief Justice, and may it please the Court:"
+2003.02-572,3,15084,ruth_bader_ginsburg,scotus_justice,2970.026,2979.314,This interested person and the proceeding is initiated doesn't have to be the judicial proceeding or unless I was wrong in--
+2003.02-572,3,31838,jeffrey_p_minear,,2979.314,2982.946,If I can go back and... and try and clarify my answer.
+2003.02-572,3,15084,ruth_bader_ginsburg,scotus_justice,3019.316,3029.18,"--And you say tribunal, you're talking about the EC because the court of first instance and the ECJ would not be asking for material."
+2003.02-572,3,31838,jeffrey_p_minear,,3029.18,3030.6,That... that's correct.
+2003.02-572,3,15049,antonin_scalia,scotus_justice,3033.267,3036.611,"Before you do that, explain what you've just... what you've just said."
+2003.02-572,3,31838,jeffrey_p_minear,,3042.805,3045.034,"We disagree with that, Your Honor."
+2003.02-572,3,15049,antonin_scalia,scotus_justice,3045.034,3056.956,You... you think that... that the... the commission is a tribunal even in the preliminary stages when it's investigating and... and is... has... is not adjudicating?
+2003.02-572,3,31838,jeffrey_p_minear,,3056.956,3061.297,"Yes, we think it... it is and we can point to several reasons why that is the case."
+2003.02-572,3,15139,stephen_g_breyer,scotus_justice,3073.723,3082.557,"Yes, but that's... that's... there are criminal investigations in most countries other than Britain and the United States where the investigating magistrate is a judge."
+2003.02-572,3,31838,jeffrey_p_minear,,3082.557,3083.838,That's correct.
+2003.02-572,3,15139,stephen_g_breyer,scotus_justice,3083.838,3084.786,"Of course, they're a tribunal."
+2003.02-572,3,31838,jeffrey_p_minear,,3111.701,3112.777,"No, Your Honor."
+2003.02-572,3,15139,stephen_g_breyer,scotus_justice,3112.777,3115.045,"And suddenly we're going to... we're going to start getting all... I mean, no."
+2003.02-572,3,31838,jeffrey_p_minear,,3118.843,3124.333,"Your Honor, I think part of the confusion here is the procedures that are actually in place by the European Commission."
+2003.02-572,3,15139,stephen_g_breyer,scotus_justice,3141.877,3150.134,"Well, I read through some, my clerk read through some, and I ended up by thinking there are some that are rather like the FTC, but then there are a certain number that are really very different."
+2003.02-572,3,31838,jeffrey_p_minear,,3174.654,3180.394,"--Perhaps, but I would point out the similarities to an adjudication before I... I move on to answer that question."
+2003.02-572,3,15141,william_h_rehnquist,scotus_justice,3211.517,3214.201,Proceedings in which they participate before the commission.
+2003.02-572,3,31838,jeffrey_p_minear,,3215.482,3220.766,"Primarily by submitting written documents, by responding in written form."
+2003.02-572,3,15139,stephen_g_breyer,scotus_justice,3271.582,3274.182,It sort of sloughed over a point I think was pretty critical.
+2003.02-572,3,31838,jeffrey_p_minear,,3309.227,3314.799,"--Well, that's a question, it seems to me, that goes to the district court's discretion, determining whether or not to allow the evidence."
+2003.02-572,3,15139,stephen_g_breyer,scotus_justice,3323.222,3333.996,And it would be within this statute even if the only indication we had whichever... there would ever be a case is there's 1 chance in 50 that there will be a case 18 years from now.
+2003.02-572,3,31838,jeffrey_p_minear,,3333.996,3334.989,"--Well, it's--"
+2003.02-572,3,15139,stephen_g_breyer,scotus_justice,3334.989,3338.826,That would fall within this statute and it's just some kind of discretion that keeps it out.
+2003.02-572,3,31838,jeffrey_p_minear,,3338.826,3341.881,--The district court has to make that judgment of whether or not the action--
+2003.02-572,3,15139,stephen_g_breyer,scotus_justice,3341.881,3342.874,Even in the example I just gave?
+2003.02-572,3,31838,jeffrey_p_minear,,3342.874,3348.651,"--Well, in the example you just gave, there's been a complaint that's been filed and one of two things... I can say one of three things will happen."
+2003.02-572,3,15139,stephen_g_breyer,scotus_justice,3376.349,3391.293,"You want 800 judges to review this even in the extreme case I mentioned, and unless... as long as you can find some in your favor, you can just go file a complaint over there and get all your competitors' documents and put everybody to about $5 million or $6 million worth of costs, et cetera."
+2003.02-572,3,31838,jeffrey_p_minear,,3391.293,3392.862,"By no means at all, Your Honor."
+2003.02-572,3,15113,anthony_m_kennedy,scotus_justice,3402.167,3403.719,And what's our authority to do that?
+2003.02-572,3,31838,jeffrey_p_minear,,3403.719,3408.466,--The authority is the type of authority that is described in Thomas v. Arn.
+2003.02-572,3,15141,william_h_rehnquist,scotus_justice,3416.268,3422.834,"Yes, but how... how are we to know what guidance to provide without a great deal of experience one way or another in... in the lower courts?"
+2003.02-572,3,31838,jeffrey_p_minear,,3422.834,3427.413,"Well, we agree with that as well, and we think that type of guidance at this stage would be premature."
+2003.02-572,3,15141,william_h_rehnquist,scotus_justice,3432.493,3440.228,And so now we go back to the 800 district judges and their discretion even in the kind of rather extreme case that Justice Breyer describes.
+2003.02-572,3,31838,jeffrey_p_minear,,3440.228,3451.728,"Well, Your Honor, the district courts have been at work at this area and there are about 20 cases now over the past 40 years in... that have construed section 1782, and they... those cases do provide guidance."
+2003.02-572,3,15113,anthony_m_kennedy,scotus_justice,3462.874,3471.791,But it's... it's an odd reading of the statute that we have these discoveries for use in a proceeding in a tribunal and the tribunal said it isn't for our use.
+2003.02-572,3,31838,jeffrey_p_minear,,3472.905,3474.391,"--Well, Your Honor, I think--"
+2003.02-572,3,15113,anthony_m_kennedy,scotus_justice,3474.391,3476.21,How can that be for use if it's counterproductive?
+2003.02-572,3,31838,jeffrey_p_minear,,3476.21,3480.957,"--Your Honor, we need to pay close attention to what the commission said and what it did not say."
+2003.02-572,3,15139,stephen_g_breyer,scotus_justice,3535.199,3539.49,"Now, given their brief in this, which seems to me could not be more clear--"
+2003.02-572,3,31838,jeffrey_p_minear,,3539.49,3540.15,--The--
+2003.02-572,3,15139,stephen_g_breyer,scotus_justice,3540.15,3548.406,"--and your belief that looked what happened, what we have even this court granting some discovery, even though the principle is they shouldn't--"
+2003.02-572,3,31838,jeffrey_p_minear,,3548.406,3549.315,--But that issue--
+2003.02-572,3,15139,stephen_g_breyer,scotus_justice,3549.315,3553.197,--then what are we supposed to write that makes real what you--
+2003.02-572,3,31838,jeffrey_p_minear,,3553.197,3560.295,"--Your Honor, first of all, I think you... you need to resolve the issue of statutory construction on the rule of the question of foreign discoverability."
+2003.02-572,3,15141,william_h_rehnquist,scotus_justice,3562.69,3563.267,"--Thank you, Mr. Minear."
+2003.02-572,4,42213,seth_p_waxman,,3566.322,3568.634,"Thank you, Mr. Chief Justice."
+2003.02-572,4,15141,william_h_rehnquist,scotus_justice,3760.544,3761.537,"Thank... thank you, Mr. Waxman."

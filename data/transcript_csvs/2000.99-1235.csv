@@ -1,0 +1,104 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2000.99-1235,0,15141,william_h_rehnquist,scotus_justice,0.0,10.925,"We'll hear argument now in number 99-1235, the Green Tree Financial Corporation v. Larketta Randolph."
+2000.99-1235,0,19760,carter_g_phillips,,63.603,71.528,"Thank you, Mr. Chief Justice and may it please the Court--"
+2000.99-1235,0,15141,william_h_rehnquist,scotus_justice,98.489,114.78,"I can understand your characterization of the second holding that way about the possibility that the arbitration might entail costs, but the jurisdictional holding, do you think that manifests a hostility to arbitration?"
+2000.99-1235,0,19760,carter_g_phillips,,114.78,129.604,"I do, Mr. Chief Justice, largely because it's reasonably clear that had the Court treated that order as an interlocutory order, then this matter would have gone immediately to arbitration, and the arbitration process would have been allowed to go forward."
+2000.99-1235,0,15092,sandra_day_oconnor,scotus_justice,137.256,147.902,"Well, Mr. Phillips, there was a crucial difference here. The Court purported to dismiss all the claims."
+2000.99-1235,0,19760,carter_g_phillips,,173.191,179.865,"--There is no question, Justice O'Connor, that this case would have and probably should have been dealt with as a stay order."
+2000.99-1235,0,15092,sandra_day_oconnor,scotus_justice,179.865,180.105,Yes.
+2000.99-1235,0,19760,carter_g_phillips,,180.105,190.422,"Section 3 of the Federal Arbitration Act quite plainly states that the Court shall enter a stay. In this context I think he did this to clear his docket, although that was not specifically our request."
+2000.99-1235,0,15084,ruth_bader_ginsburg,scotus_justice,192.204,204.985,"Well, why is that wrong, Mr. Phillips, if what the district judge says is, gee, there's nothing before me, I think every single issue in this case belongs in the arbitral forum, so I'm going to dismiss, and I look at section 3."
+2000.99-1235,0,19760,carter_g_phillips,,241.109,254.757,"Well, I think at the end of the day this is still an embedded proceeding, and even though he ultimately dismisses everything, it is certainly available to come back to him at the end of the arbitration and have these issues reviewed, and it would certainly be much easier--"
+2000.99-1235,0,15084,ruth_bader_ginsburg,scotus_justice,254.757,255.437,What issues?
+2000.99-1235,0,19760,carter_g_phillips,,255.437,255.842,--as a matter of judicial--
+2000.99-1235,0,15084,ruth_bader_ginsburg,scotus_justice,255.842,260.136,"What issues? In this case, as I understand it, I understand the formal distinction."
+2000.99-1235,0,19760,carter_g_phillips,,289.302,289.593,--Right.
+2000.99-1235,0,15084,ruth_bader_ginsburg,scotus_justice,289.593,295.633,"Just like erroneously entering summary judgment, we don't say it isn't the final judgment."
+2000.99-1235,0,19760,carter_g_phillips,,309.992,320.719,"Well, if you take it to the flip side, though, Justice Ginsburg, what happens in the situation where you deny summary judgment but style it as formally a final judgment, even though it in fact isn't a final--"
+2000.99-1235,0,15084,ruth_bader_ginsburg,scotus_justice,320.719,323.413,It doesn't matter how you style it. You've got something before you.
+2000.99-1235,0,19760,carter_g_phillips,,335.897,336.241,"--Well, I--"
+2000.99-1235,0,15084,ruth_bader_ginsburg,scotus_justice,336.241,337.522,"This district judge says, out."
+2000.99-1235,0,19760,carter_g_phillips,,344.29,372.921,"--Clearly that's not what the judge did here, and the question is, what should an appellate court do when it's presented with this particular problem, and my answer to you is to recognize that the dismissal in this context was an inappropriate way to proceed, treat it as a stay, and therefore conclude that it was not appropriate to go beyond that, and entertain the question of arbitrability, because to do that is to create a new class of problems under section 16 that otherwise wouldn't exist."
+2000.99-1235,0,15084,ruth_bader_ginsburg,scotus_justice,378.995,379.866,--But when you say treat it as--
+2000.99-1235,0,19760,carter_g_phillips,,379.866,380.587,--but that's the only case like that.
+2000.99-1235,0,15084,ruth_bader_ginsburg,scotus_justice,380.587,385.688,"--When you say treat it as, you're already saying... this district judge says, dismissed."
+2000.99-1235,0,19760,carter_g_phillips,,436.288,455.067,"Well, the ultimate question, it seems to me, Justice Ginsburg, is going to be whether you treat form or substance in this context as the most important, because it's pretty clear to me that while the judge did, in fact, formally dismiss the action, what was both required under section 3 of the Federal Arbitration Act and what we asked for him to do was to stay this."
+2000.99-1235,0,15042,david_h_souter,scotus_justice,495.493,502.403,"Sure, but if you lose this case it won't take another 5 years and another case, because everybody will know pretty much where we stand."
+2000.99-1235,0,19760,carter_g_phillips,,502.403,503.564,"--Well, there's no question--"
+2000.99-1235,0,15042,david_h_souter,scotus_justice,503.564,508.377,"I mean, the problem of the long litigation here is that you've got an unresolved question."
+2000.99-1235,0,19760,carter_g_phillips,,508.377,510.591,"--There's no question about that, Justice Souter."
+2000.99-1235,0,15042,david_h_souter,scotus_justice,510.591,510.804,Yes.
+2000.99-1235,0,19760,carter_g_phillips,,511.129,511.873,What we need is an answer.
+2000.99-1235,0,15042,david_h_souter,scotus_justice,511.873,517.501,--You said the... we should see this as a choice of form versus substance.
+2000.99-1235,0,19760,carter_g_phillips,,567.518,582.489,"I think where we ought to look for the appropriate legal standard is the statutory scheme, and I think Congress clearly incorporated embedded versus independent into the subcomponents of section 16."
+2000.99-1235,0,15049,antonin_scalia,scotus_justice,603.561,623.771,"Well, it did set forth specific rules, but it certainly didn't adopt the embedded nonembedded criterion as a test for anything else, and the word it used for appealability was a classic word that has nothing to do with embedded versus nonembedded."
+2000.99-1235,0,19760,carter_g_phillips,,636.462,650.431,"To be sure, Congress could have been clearer here, and I think what the Court said in Cortez Byrd last term applies equally here, that enlightenment is not going to come from parsing the language of this particular statute."
+2000.99-1235,0,15139,stephen_g_breyer,scotus_justice,678.07,678.814,What did they mean--
+2000.99-1235,0,19760,carter_g_phillips,,678.814,678.07,--be able to line up behind that rule.
+2000.99-1235,0,15139,stephen_g_breyer,scotus_justice,678.07,712.369,"--What did the... the only... I'm totally puzzled, frankly, by this statute, and I did notice the only people who seem to understand it, because I guess they wrote it, was the judicial conference, and they put in the legislative history that it would allow appeals from final judgments, including the final judgment in an action to compel arbitration, or a final action dismissing an action in deference to arbitration, so I didn't see that last... what could that last statement mean, other than this case?"
+2000.99-1235,0,19760,carter_g_phillips,,712.369,720.546,"I think that last statement could be read directly to apply to this case. Whether or not it was meant, and whether Congress adopted that, I've no idea."
+2000.99-1235,0,15139,stephen_g_breyer,scotus_justice,720.546,727.176,"I mean, it's not a... an obvious thing that you would want to allow an appeal in this kind of a case."
+2000.99-1235,0,19760,carter_g_phillips,,727.176,727.708,Exactly.
+2000.99-1235,0,15139,stephen_g_breyer,scotus_justice,727.708,728.815,And it's not obvious that you wouldn't.
+2000.99-1235,0,19760,carter_g_phillips,,728.815,730.77,"Oh, I think it's quite obvious you would not want--"
+2000.99-1235,0,15139,stephen_g_breyer,scotus_justice,730.77,731.05,Why not?
+2000.99-1235,0,19760,carter_g_phillips,,731.05,732.664,"--to appeal in this... no, Justice Breyer... that's wrong."
+2000.99-1235,0,15139,stephen_g_breyer,scotus_justice,741.626,751.024,"But you do the other way. You see, there's situation A, where a plaintiff... a plaintiff wants arbitration, and the defendant doesn't."
+2000.99-1235,0,19760,carter_g_phillips,,751.024,753.816,An independent action you're talking about.
+2000.99-1235,1,32775,joseph_m_sellers,,1629.575,1637.572,"Mr. Chief Justice, may it please the Court--"
+2000.99-1235,1,15084,ruth_bader_ginsburg,scotus_justice,1675.102,1699.038,"But Mr. Sellers, if you took the position that I thought Mr. Phillips... he will straighten us out on it... was embracing at this argument, although not in his brief, that Alabama... the amici, The Housing Institute took, they said, yeah, you could say this was a dismissal in the final judgment, but the Eleventh Circuit should say, district judge, you're wrong, because you don't have any authority to dismiss."
+2000.99-1235,1,32775,joseph_m_sellers,,1703.026,1718.646,"Actually, Justice Ginsburg, I don't think that's a fair reading of the Federal Arbitration Act. Section 3 says you must stay, but there's nothing inconsistent about section 3, as the majority of the circuit courts have recognized, and ultimate dismissal."
+2000.99-1235,1,15084,ruth_bader_ginsburg,scotus_justice,1740.389,1741.345,They alternately--
+2000.99-1235,1,32775,joseph_m_sellers,,1741.345,1741.613,--requested--
+2000.99-1235,1,15084,ruth_bader_ginsburg,scotus_justice,1741.613,1742.359,--Alternately they--
+2000.99-1235,1,32775,joseph_m_sellers,,1742.359,1751.401,"--Alternately, that's correct, and the district court, if nothing else in responding to Green Tree's request for relief, was properly... acted properly in granting that request."
+2000.99-1235,1,15141,william_h_rehnquist,scotus_justice,1766.194,1770.771,"--Well, even if there is something improper about a dismissal, it's nonetheless a dismissal--"
+2000.99-1235,1,32775,joseph_m_sellers,,1770.771,1771.907,"--That's correct, Your Honor."
+2000.99-1235,1,15141,william_h_rehnquist,scotus_justice,1771.907,1772.086,--isn't it?
+2000.99-1235,1,32775,joseph_m_sellers,,1778.155,1784.508,"That's correct, and the Eleventh Circuit permit... was legitimately entitled to rely on the dismissal as a basis for appeal--"
+2000.99-1235,1,15139,stephen_g_breyer,scotus_justice,1784.508,1789.061,"Well, suppose that you... this is what's bothering me a lot."
+2000.99-1235,1,32775,joseph_m_sellers,,1802.584,1803.678,--That--
+2000.99-1235,1,15139,stephen_g_breyer,scotus_justice,1803.678,1804.163,Appeal?
+2000.99-1235,1,32775,joseph_m_sellers,,1804.163,1811.078,"--That I think would be reversible error, Your Honor, because I think it's clear that that would not be an interlocutory... that would be an interlocutory--"
+2000.99-1235,1,15139,stephen_g_breyer,scotus_justice,1811.078,1813.298,So you'd have to... the other side would have to cross appeal.
+2000.99-1235,1,32775,joseph_m_sellers,,1817.532,1818.747,--That's correct.
+2000.99-1235,1,15139,stephen_g_breyer,scotus_justice,1818.747,1818.911,All right.
+2000.99-1235,1,32775,joseph_m_sellers,,1853.83,1854.518,But--
+2000.99-1235,1,15139,stephen_g_breyer,scotus_justice,1854.518,1867.344,"And pretty soon rules of law will develop as to just when it's the one, and when it's the other, and all that means, delay, delay, delay, the very opposite of what the Arbitration Act is designed to do."
+2000.99-1235,1,32775,joseph_m_sellers,,1867.344,1873.82,"--Justice Breyer, I think the rules could be articulated fairly clearly that will avoid the multiplicity of appeals that concern you."
+2000.99-1235,1,15139,stephen_g_breyer,scotus_justice,1882.691,1882.8,Mm hmm.
+2000.99-1235,1,32775,joseph_m_sellers,,1882.8,1895.744,"--I think it would be reversible error to dismiss the case, or if it was dismissed it would be treated as an interlocutory and the court of appeals could legitimately direct the court to reinstate the case, and--"
+2000.99-1235,1,15139,stephen_g_breyer,scotus_justice,1895.744,1908.594,"And you don't think you as a lawyer will be capable, even in my imaginary case, of arguing that, although the judge thought it had nothing to do with it, or it really did, or the judge thought it did but it really didn't, et cetera?"
+2000.99-1235,1,32775,joseph_m_sellers,,1908.594,1911.914,"--I don't think so, Your Honor."
+2000.99-1235,1,15049,antonin_scalia,scotus_justice,1932.08,1937.962,"I don't understand what you mean by saying, if it's dismissed it would be treated as interlocutory."
+2000.99-1235,1,32775,joseph_m_sellers,,1937.962,1938.574,I'm sorry.
+2000.99-1235,1,15084,ruth_bader_ginsburg,scotus_justice,1937.962,1949.52,"And the court of appeals would then instruct the district judges, when there's something left over, of course you don't enter a final dismissal."
+2000.99-1235,1,32775,joseph_m_sellers,,1949.52,1950.084,That's correct.
+2000.99-1235,1,15084,ruth_bader_ginsburg,scotus_justice,1950.084,1952.586,And that would be... and that would be the end of it.
+2000.99-1235,1,32775,joseph_m_sellers,,1952.586,1952.586,That would be the end of it.
+2000.99-1235,1,15084,ruth_bader_ginsburg,scotus_justice,1952.586,1964.217,"The... so the court of appeals would take it to final judgment and then say, if there are issues left over, you must stay, not dismiss."
+2000.99-1235,1,32775,joseph_m_sellers,,1969.311,1969.528,Right.
+2000.99-1235,1,15084,ruth_bader_ginsburg,scotus_justice,1981.326,1989.596,What is your take on the argument that was made in that amicus brief that under section... is it 3?
+2000.99-1235,1,32775,joseph_m_sellers,,1989.596,1991.056,"16(a)3, Your Honor."
+2000.99-1235,1,15084,ruth_bader_ginsburg,scotus_justice,1991.056,1995.097,"16(a)3, the words say, must stay."
+2000.99-1235,1,32775,joseph_m_sellers,,1996.114,1996.766,"Oh, I'm sorry, section 3."
+2000.99-1235,1,15084,ruth_bader_ginsburg,scotus_justice,1996.766,1997.226,--Yes.
+2000.99-1235,1,32775,joseph_m_sellers,,1997.536,1998.099,Section 3.
+2000.99-1235,1,15084,ruth_bader_ginsburg,scotus_justice,1998.099,1998.265,--Section 3.
+2000.99-1235,1,32775,joseph_m_sellers,,1998.265,1998.525,Forgive me.
+2000.99-1235,1,15084,ruth_bader_ginsburg,scotus_justice,1998.525,1999.015,Yes.
+2000.99-1235,1,32775,joseph_m_sellers,,1999.015,2004.17,"The term, must stay, we read to mean that it may not permit."
+2000.99-1235,1,15084,ruth_bader_ginsburg,scotus_justice,2024.809,2025.631,Okay.
+2000.99-1235,1,32775,joseph_m_sellers,,2028.997,2029.206,Certainly.
+2000.99-1235,2,19760,carter_g_phillips,,3282.179,3287.634,"Thank you, Mr. Chief Justice."
+2000.99-1235,2,15084,ruth_bader_ginsburg,scotus_justice,3362.758,3364.647,What about the notion that she wanted to have--
+2000.99-1235,2,19760,carter_g_phillips,,3364.647,3364.841,--that those costs were unconscionable.
+2000.99-1235,2,15084,ruth_bader_ginsburg,scotus_justice,3364.841,3362.758,"--discovery into what the arbitration proceeding would be, and why couldn't one assume that that discovery would inevitably involve issues about the costs of arbitration?"
+2000.99-1235,2,19760,carter_g_phillips,,3362.758,3380.487,There's no problem with seeking discovery.
+2000.99-1235,2,15084,ruth_bader_ginsburg,scotus_justice,3381.621,3384.903,But I thought that she was told she couldn't have discovery in the district court.
+2000.99-1235,2,19760,carter_g_phillips,,3384.903,3386.187,--It's not in the record in this case.
+2000.99-1235,2,15084,ruth_bader_ginsburg,scotus_justice,3421.807,3422.592,Including whether--
+2000.99-1235,2,19760,carter_g_phillips,,3422.592,3435.283,"But Cole and reasonableness and unconscionability are questions that need to be resolved in a framework that is fundamentally different from a litigant who throws up her hands and says, I'm not going to participate in this particular process."
+2000.99-1235,2,15084,ruth_bader_ginsburg,scotus_justice,3435.283,3439.071,--But you are asking us to reject the D.C. Circuit solution.
+2000.99-1235,2,19760,carter_g_phillips,,3472.495,3475.794,"It may be wrong, if we have the right facts."
+2000.99-1235,2,15141,william_h_rehnquist,scotus_justice,3513.104,3513.882,"Thank you, Mr. Phillips."

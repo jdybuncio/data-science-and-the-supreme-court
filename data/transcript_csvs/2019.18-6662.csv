@@ -1,0 +1,199 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2019.18-6662,0,15086,john_g_roberts_jr,scotus_justice,0.235,12.34500005,"We'll hear argument first this morning in Case 18-6662, Shular versus United States. Mr. Summa."
+2019.18-6662,0,63222,richard_m_summa,,12.34500005,34.085,"Mr. Chief Justice, and may it please the Court: Mr. Shular has prior convictions for drug offenses lacking the mens rea element necessary to distinguish between blameworthy and otherwise innocent conduct. In 1986, one state, North Dakota, had dispensed with the element of guilty knowledge for its drug trafficking crimes."
+2019.18-6662,0,15068,samuel_a_alito_jr,scotus_justice,196.405,230.78,"The difference between the Florida statute and the federal statute, as I understand it, is the following, but you'll correct me if I'm wrong: Under the federal statute, the prosecution has to prove that the defendant knew that the substance in question was a controlled substance; whereas under Florida, that is an affirmative defense, so if the defendant raises the affirmative defense, then the state has to prove beyond a reasonable doubt that the defendant knew it was a controlled substance. Is that the -- the substance of the difference between the two?"
+2019.18-6662,0,63222,richard_m_summa,,230.78,235.89,"Well, I think that's the correct conclusion based upon a Florida jury instruction."
+2019.18-6662,0,15068,samuel_a_alito_jr,scotus_justice,259.535,259.98,Right.
+2019.18-6662,0,63222,richard_m_summa,,260.3,260.42,And --
+2019.18-6662,0,15068,samuel_a_alito_jr,scotus_justice,260.42,270.95,"-- if the affirmative defense is raised, then the situation is the same as it is under federal law? It has to be proven beyond a reasonable doubt?"
+2019.18-6662,0,63222,richard_m_summa,,270.95,280.03,"That is a reasonable assumption, but the Florida Supreme Court has never actually ruled which party has the burden of -- ultimate burden of proof."
+2019.18-6662,0,15084,ruth_bader_ginsburg,scotus_justice,280.03,286.905,"But, in any event, I think it was an exaggeration to call this a strict liability crime."
+2019.18-6662,0,63222,richard_m_summa,,286.905,290.25,It -- it may be an exaggeration.
+2019.18-6662,0,15068,samuel_a_alito_jr,scotus_justice,311.02,312.05,"Well, there's a mens rea."
+2019.18-6662,0,63222,richard_m_summa,,327.8,336.47,"Yes, but the -- the Florida decisions are clear that the intent of doing the act is -- they do not consider that a mens rea."
+2019.18-6662,0,15084,ruth_bader_ginsburg,scotus_justice,348.29,368.08000005,"What about knowing what you're selling? In -- in other words, doesn't the state have to prove that it was cocaine that was being sold, not sugar?"
+2019.18-6662,0,63222,richard_m_summa,,368.08000005,371.49,"No, Your Honor."
+2019.18-6662,0,15084,ruth_bader_ginsburg,scotus_justice,385.295,395.96,"Because if he -- he has no idea that it's cocaine, he think it's an innocuous substance, the -- the prosecution doesn't have to show that, you say?"
+2019.18-6662,0,63222,richard_m_summa,,395.96,397.275,"That's correct, Your Honor."
+2019.18-6662,0,15084,ruth_bader_ginsburg,scotus_justice,397.275,399.6,What I think is --
+2019.18-6662,0,15131,sonia_sotomayor,scotus_justice,399.6,400.61,Can I go back to --
+2019.18-6662,0,15084,ruth_bader_ginsburg,scotus_justice,400.61,431.845,"-- odd -- odd about this case -- you -- you're claiming the interest of uniformity is served by your approach, and yet in every other state, someone who did exactly what this defendant did would not escape from -- under ACCA, so he gets to avoid ACCA, although he is similarly situated to people in every other state who couldn't."
+2019.18-6662,0,63222,richard_m_summa,,431.845,441.21,"Your Honor, it depends on how you define the term ""conduct."" When I think of conduct, I think of criminal conduct."
+2019.18-6662,0,15084,ruth_bader_ginsburg,scotus_justice,458.63,470.15499995,I'm talking -- I'm talking about the actuality of the situation. People in other states who did exactly what this defendant did would get the ACCA enhancement.
+2019.18-6662,0,63222,richard_m_summa,,470.15499995,480.475,But the Florida statute does not involve the same conduct because the Florida -- the conduct in the Florida statute does not include a guilty knowledge.
+2019.18-6662,0,15068,samuel_a_alito_jr,scotus_justice,488.065,495.02,"In these cases where your client was previously convicted of a Florida drug offense, did he go to trial or did he plead guilty?"
+2019.18-6662,0,63222,richard_m_summa,,495.02,496.705,"No, he pled guilty, Your Honor."
+2019.18-6662,0,15068,samuel_a_alito_jr,scotus_justice,496.705,497.03,All right.
+2019.18-6662,0,63222,richard_m_summa,,504.9,506.255,"No, he didn't."
+2019.18-6662,0,15068,samuel_a_alito_jr,scotus_justice,520.84,529.86,I -- I look forward to every new ACCA case because the -- the distance between the law and the reality gets bigger and bigger.
+2019.18-6662,0,63222,richard_m_summa,,537.47,538.84,"Yes, sir -- yes, Your Honor."
+2019.18-6662,0,15068,samuel_a_alito_jr,scotus_justice,538.84,555.685,"He is in a strange situation, because he keeps selling a substance, which he thinks is legal and cheap, and, darn it, every single time it turns out actually to be something that is expensive and illegal."
+2019.18-6662,0,63222,richard_m_summa,,556.92,557.08,Yeah.
+2019.18-6662,0,15068,samuel_a_alito_jr,scotus_justice,557.08,558.61,How does this happen to him?
+2019.18-6662,0,63222,richard_m_summa,,558.61,569.36,"I don't know how this happens to him, but, Your Honor, I am not trying to convince the Court that Mr. Shular himself acted without guilty knowledge."
+2019.18-6662,0,15131,sonia_sotomayor,scotus_justice,599.315,619.97,"Mr. Summa, could you clarify two things for me? Part of what Justice Alito said, I must say, I didn't focus in on this. The affirmative defense in the Florida jury instructions, the prosecutor bears the burden of proving knowledge if the affirmative defense is raised."
+2019.18-6662,0,63222,richard_m_summa,,621.665,622.75,The -- the --
+2019.18-6662,0,15131,sonia_sotomayor,scotus_justice,622.75,630.58,I assumed if it was an affirmative defense that the -- that the defendant had to prove the element.
+2019.18-6662,0,63222,richard_m_summa,,630.58,634.78,"Your Honor, there are two points in the Florida jury instructions."
+2019.18-6662,0,15131,sonia_sotomayor,scotus_justice,661.39,662.16,All right.
+2019.18-6662,0,63222,richard_m_summa,,673.92,674.8,That's correct.
+2019.18-6662,0,15131,sonia_sotomayor,scotus_justice,704.87,724.11,"I'm getting now a little confused. As I understood it, your knowledge element goes, according to the Florida courts, goes to possession with intent to distribute. They've explicitly said you need knowledge that the substance was cocaine."
+2019.18-6662,0,63222,richard_m_summa,,725.26,727.75,"Not under the present law, Your Honor."
+2019.18-6662,0,15131,sonia_sotomayor,scotus_justice,727.75,728.58,"Ah, okay."
+2019.18-6662,0,63222,richard_m_summa,,731.86,737.88,You don't need knowledge that substance is a controlled substance with any offense under the Florida law.
+2019.18-6662,0,15131,sonia_sotomayor,scotus_justice,737.88,748.26,"But does the government have to prove that the substance that you actually manufactured or you actually sold was, in fact, cocaine?"
+2019.18-6662,0,63222,richard_m_summa,,748.26,749.63,"Yeah, they would have to prove that."
+2019.18-6662,0,15131,sonia_sotomayor,scotus_justice,749.63,750.22,All right.
+2019.18-6662,0,63222,richard_m_summa,,755.06,757.10499995,"Exactly, Your Honor."
+2019.18-6662,0,15094,elena_kagan,scotus_justice,757.10499995,758.48,Mr. Summa --
+2019.18-6662,0,15131,sonia_sotomayor,scotus_justice,758.48,761.11,"The -- I'm sorry, no, thank you."
+2019.18-6662,0,15094,elena_kagan,scotus_justice,761.11,803.85,"Can we go back to the -- the language of the statute and -- and I'm hoping you can explain to me where exactly you see this knowing requirement coming from. As I understand the solicitor general's position, he says, yes, this is a categorical approach, but it, you know, the -- the -- the language of the statute just says ""an offense involving manufacturing, distributing, or possessing with intent."" And the word ""knowing"" is not there. So, you know, the Florida statute, I think the solicitor general would say, is a state law that involves manufacturing, distributing, or possessing with intent. What's the problem there?"
+2019.18-6662,0,63222,richard_m_summa,,803.85,808.845,The implication of the mens rea element comes from two sources.
+2019.18-6662,0,15094,elena_kagan,scotus_justice,841.16,845.055,"I thought the federal statute specifically says ""knowingly manufacture."""
+2019.18-6662,0,63222,richard_m_summa,,845.055,848.79,"And this state provision does not, but that's -- that's --"
+2019.18-6662,0,15094,elena_kagan,scotus_justice,848.79,857.02,"Well, not only the state provision does not, but this provision saying what the term serious drug offense means does not."
+2019.18-6662,0,63222,richard_m_summa,,859.035,864.54,That's exactly the situation where the presumption of mens rea applies.
+2019.18-6662,0,62836,neil_gorsuch,scotus_justice,912.46,913.03,Counsel --
+2019.18-6662,0,63222,richard_m_summa,,913.03,913.88,-- the Rosillo rule.
+2019.18-6662,0,62836,neil_gorsuch,scotus_justice,913.88,944.835,"Counsel, I think -- I think we would all agree with you that normally in a criminal provision mens rea would be something we would take very seriously. But here -- and I think Justice Kagan is getting at it -- we have -- we've got two strikes against you. One is that the federal statute that you say this language parallels expressly includes the word ""knowing."" It's not here. Strike one. And strike two is there's the word ""intent"" with respect to manufacturing or distributing in -- in the next clause."
+2019.18-6662,0,63222,richard_m_summa,,952.645,956.71,"Well, Your Honor, let me refer -- refer to strike two first."
+2019.18-6662,0,62836,neil_gorsuch,scotus_justice,973.23,984.605,"I -- I'm not sure I follow that because it seems to me that language would capture inchoate offenses, right, things that aren't completed, crimes that involve an intent to do these things, but not necessarily completion of them."
+2019.18-6662,0,63222,richard_m_summa,,984.605,1027.58,"I agree that the term ""involving"" may be broad enough to incorporate inchoate offenses that -- because that's a part of the federal drug trafficking crimes which qualify, correct, but the government says a -- a -- a trafficking statute that criminalized trafficking by possession of a specific quantity of drugs would qualify here because that necessarily entails an intent, but Congress -- my friend from the government is writing the intent requirement right out of the statute because it's a plain text requirement and it should be found by a jury, not by the judge, in a federal sentencing proceeding."
+2019.18-6662,0,62836,neil_gorsuch,scotus_justice,1027.58,1058.715,"Let me try it one more time. I think the solicitor general would say that he has to show either a state law involving manufacturing or distribution or a crime involving possession with the intent to do those other things, manufacturing, distribution, whether or not they actually complete the manufacturing or distribution. So those two clauses would do independent work, and the first one, notably, doesn't contain any mens rea while the second one does."
+2019.18-6662,0,63222,richard_m_summa,,1058.715,1089.095,"But the -- the -- the -- my -- my friend's argument would also be so broad and indeterminate that it would sweep in convictions for purchases of -- of relatively minor amounts of drugs, personal use quantities. And my friend would be arguing that on a theory that a purchase of a minor quantity of drugs necessarily entails a distribution from the seller to the buyer."
+2019.18-6662,0,17766,brett_m_kavanaugh,scotus_justice,1089.095,1099.555,But didn't Congress get at that by the ten years of imprisonment minimum so that would weed out minor state offenses?
+2019.18-6662,0,63222,richard_m_summa,,1099.555,1100.765,"No, Your Honor."
+2019.18-6662,0,17766,brett_m_kavanaugh,scotus_justice,1117.435,1161.15,"Then more broadly on your mens rea argument, which I think would have a great force if we were a Florida court interpreting the Florida statute, and should we interpret the Florida statute to require particular mens rea, but that's not what this statute is. It's a recidivist statute in trying to prevent the possession of firearms by people who have prior violent offenses or drug offenses. And Congress, because of the violence caused by people who have firearms and prior histories, wanted to really cast a broad net with what prior offenses would be captured and would trigger a duty on that person, don't possess firearms."
+2019.18-6662,0,63222,richard_m_summa,,1175.14,1184.29,My response is that including offenses such as prescribed by Florida does -- is not consistent with the purpose of the statute.
+2019.18-6662,0,15139,stephen_g_breyer,scotus_justice,1210.04,1210.6,That person --
+2019.18-6662,0,17766,brett_m_kavanaugh,scotus_justice,1210.6,1211.145,To trigger --
+2019.18-6662,0,63222,richard_m_summa,,1211.145,1212.865,-- to point B.
+2019.18-6662,0,15139,stephen_g_breyer,scotus_justice,1212.865,1226.44,"That -- that person, I gather, under Florida law, that that person would say he has the right to say, Judge, I didn't know what was in the truck."
+2019.18-6662,0,63222,richard_m_summa,,1327.83,1330.57,"Your Honor, I have two responses."
+2019.18-6662,0,15139,stephen_g_breyer,scotus_justice,1330.57,1330.67,Yeah.
+2019.18-6662,0,63222,richard_m_summa,,1330.67,1336.22,"One is that the affirmative defense doesn't offer what it seems to offer, because in the examples that --"
+2019.18-6662,0,15139,stephen_g_breyer,scotus_justice,1336.22,1337.685,But have I got the issue right?
+2019.18-6662,0,63222,richard_m_summa,,1337.685,1338.815,"Yes, Your Honor."
+2019.18-6662,0,15139,stephen_g_breyer,scotus_justice,1338.815,1340.16,That's what I --
+2019.18-6662,0,63222,richard_m_summa,,1340.16,1373.83,"In the examples that I'm familiar with, the threat or the coercion of criminal -- criminal prosecution is so great that the defendant who is actually innocent may bargain away his affirmative defense for a lesser sentence and actually plead guilty. The second comment I have is that the distinction between ""is"" and ""involving"" is highly overrated because the term ""is"" was not the driver of the generic offense analysis and so it cannot be viewed as a prerequisite for the generic offense analysis."
+2019.18-6662,0,17766,brett_m_kavanaugh,scotus_justice,1414.08,1429.135,"And in your truck example, again, I think if you're in Florida court, that's a great argument, construe this narrowly, don't construe it broadly, this is unfair, this is a due process kind of problem, a Morissette kind of problem."
+2019.18-6662,0,63222,richard_m_summa,,1454.68,1465.24,But I think we agree here that the point that we're trying to decide here is whether Congress intended this type of crime to qualify.
+2019.18-6662,0,15086,john_g_roberts_jr,scotus_justice,1522.615,1523.4,"Thank you, counsel."
+2019.18-6662,0,63222,richard_m_summa,,1523.4,1527.8350001,Thank you.
+2019.18-6662,0,15086,john_g_roberts_jr,scotus_justice,1527.8350001,1532.5,Mr. Bond.
+2019.18-6662,1,62924,jonathan_c_bond,,1532.5,1544.77,"Mr. Chief Justice, and may it please the Court: Section 924(e)(2)(A)(ii) prescribes a categorical approach to determine whether a state drug offense qualifies as an ACCA predicate."
+2019.18-6662,1,15084,ruth_bader_ginsburg,scotus_justice,1658.65,1667.28,"We're told that, under Florida law, you could have a pretty low level offense, we just heard that, and -- and have a 15-year maximum."
+2019.18-6662,1,62924,jonathan_c_bond,,1667.28,1692.5,"So it's true that there are substantial sentences, although as the colloquy pointed out and we explained in our brief, under Florida law knowledge of illicit -- of the illicit nature or lack of such knowledge is an affirmative defense. So for an element that's not specified in the statute -- in the federal statute at all, it seems particularly unlikely that Congress meant the burden of -- or the allocation of the burden of proof on that element to drive the -- the ACCA analysis."
+2019.18-6662,1,15068,samuel_a_alito_jr,scotus_justice,1692.5,1692.85,What is the --
+2019.18-6662,1,15084,ruth_bader_ginsburg,scotus_justice,1692.85,1705.435,"In federal prosecutions, how does it work? How is this element -- how does the prosecutor prove the -- the defendant knew that the substance was illegal?"
+2019.18-6662,1,62924,jonathan_c_bond,,1705.435,1745.435,"So, under the federal Controlled Substances Act, which expressly requires a knowing mens rea, as this Court explained in McFadden, that extends to the -- the substance itself, the defendant must either know what the substance is or know that it's a controlled substance. But as McFadden pointed out, that knowledge can be shown by the fact of a prior arrest for possessing or selling that substance. It's very unlikely that in a recidivist statute like this, where Congress is only imposing this enhancement for those who have multiple past convictions, the Congress was worried about the unlikely scenario where a person repeatedly sells an illicit substance believing it to be innocent or believing it not to be a controlled substance. We think that's just not a plausible understanding of what Congress was getting at here."
+2019.18-6662,1,15068,samuel_a_alito_jr,scotus_justice,1758.055,1777.93,Why isn't the answer to Justice Ginsburg's question that under the federal scheme the -- the knowledge of the illegal nature of the substance is almost always inferred from the defendant's conduct? It's not based on -- it's not generally based on direct evidence; isn't that right?
+2019.18-6662,1,62924,jonathan_c_bond,,1777.93,1778.5,"Yes, that's right."
+2019.18-6662,1,15068,samuel_a_alito_jr,scotus_justice,1814.92,1829.65,"Under the federal scheme, are there a lot of cases in which a defendant is acquitted based on lack of knowledge of the illegal nature of the substance involved, without actually testifying I didn't know that it was an illegal substance?"
+2019.18-6662,1,62924,jonathan_c_bond,,1829.65,1831.05,I'm -- I'm not aware of statistics on that.
+2019.18-6662,1,15131,sonia_sotomayor,scotus_justice,1943.57,1957.235,"Mr. Bond, do you think Congress intended to criminalize a mailman's delivery or Postal Service delivery? I -- I -- I doubt it."
+2019.18-6662,1,62924,jonathan_c_bond,,1999.81,2000.01,So --
+2019.18-6662,1,15131,sonia_sotomayor,scotus_justice,2000.01,2007.71,How -- how can you manufacture a controlled substance if you don't know it's a controlled substance? It seems like a non sequitur.
+2019.18-6662,1,62924,jonathan_c_bond,,2007.71,2009.0,So a few different points on that.
+2019.18-6662,1,15131,sonia_sotomayor,scotus_justice,2026.17,2052.805,"You think so? I don't know why, because under yours it says, ""any person who sells, manufactures, or delivers or possesses with intent to sell, manufacture, or deliver."" So whether the box is opaque or not, under the theory as your briefs gave it to me, if it's a controlled substance in the box, you intend to possess it."
+2019.18-6662,1,62924,jonathan_c_bond,,2052.805,2064.53,"So I think there's an important twist in federal -- or in Florida law here that explains where how that state would address this circumstance. Until 2002, the state courts had interpreted the statute to require knowledge of the illicit nature."
+2019.18-6662,1,17766,brett_m_kavanaugh,scotus_justice,2095.81,2095.94,If we --
+2019.18-6662,1,62924,jonathan_c_bond,,2095.94,2096.86,So all of that is about Florida --
+2019.18-6662,1,17766,brett_m_kavanaugh,scotus_justice,2096.86,2119.35,"If we -- if we had a federal statute, not a recidivist statute, but a straight up federal statute that said it's unlawful to manufacture, distribute or possess with intent to manufacture, distribute a controlled substance, it is 100 percent, or close to it, that we would require mens rea and knowledge of the substance. Don't you agree with that?"
+2019.18-6662,1,62924,jonathan_c_bond,,2119.35,2123.3,So we agree that ordinarily you would read in a -- you would presume a mens rea requirement.
+2019.18-6662,1,17766,brett_m_kavanaugh,scotus_justice,2125.48,2135.235,"So you -- so if you agree, if this were a straight up federal statute, that mens rea would be read in, why not read it in to a recidivist statute?"
+2019.18-6662,1,62924,jonathan_c_bond,,2135.235,2149.355,"For some of the reasons that came up in the colloquy earlier, that in a recidivist statute there is no concern about fair notice of what you were already convicted of. And in addition, Congress isn't using the mens rea for a particular offense as the substantive threshold for how serious something is."
+2019.18-6662,1,17766,brett_m_kavanaugh,scotus_justice,2198.61,2213.065,"But as Justice Ginsburg said, and counsel said, the penalty might not be that much of a filter, given the severe penalties attached to certain seemingly low-level offenses. And you -- can you respond to that again?"
+2019.18-6662,1,62924,jonathan_c_bond,,2213.065,2213.42,Sure.
+2019.18-6662,1,17766,brett_m_kavanaugh,scotus_justice,2223.15,2223.5,So then that --
+2019.18-6662,1,62924,jonathan_c_bond,,2223.5,2224.425,-- required mens rea.
+2019.18-6662,1,17766,brett_m_kavanaugh,scotus_justice,2224.425,2225.27,Sorry to interrupt.
+2019.18-6662,1,62924,jonathan_c_bond,,2227.605,2233.78,I think it is a filter and would have -- would have been viewed by Congress as a meaningful filter in the vast majority of cases.
+2019.18-6662,1,62836,neil_gorsuch,scotus_justice,2289.62,2289.93,Mr. Bond --
+2019.18-6662,1,62924,jonathan_c_bond,,2289.93,2290.79,So I think that's what was driving it.
+2019.18-6662,1,62836,neil_gorsuch,scotus_justice,2290.79,2292.55,"Mr. Bond, I have two questions."
+2019.18-6662,1,62924,jonathan_c_bond,,2347.7,2349.22,So if I can take them in order.
+2019.18-6662,1,15139,stephen_g_breyer,scotus_justice,2378.09,2399.56,"How do you draw -- how do you draw the line he's referring to? I mean, suppose the state legalizes marijuana but it has a criminal provision which says anyone who sells marijuana at a price that is higher than X, you see, is committing a -- or lower than Y, is committing a serious offense, et cetera."
+2019.18-6662,1,62924,jonathan_c_bond,,2410.54,2412.15,"Yeah, so I -- I don't think that --"
+2019.18-6662,1,15139,stephen_g_breyer,scotus_justice,2412.15,2413.555,"It involves it, I mean."
+2019.18-6662,1,62924,jonathan_c_bond,,2413.555,2417.59,I think you have to look to the elements of the offense as -- as under categorical approach generally.
+2019.18-6662,1,15139,stephen_g_breyer,scotus_justice,2421.78,2422.2,"Yeah, it is."
+2019.18-6662,1,62924,jonathan_c_bond,,2422.2,2422.45,Right --
+2019.18-6662,1,15139,stephen_g_breyer,scotus_justice,2422.45,2424.78,What do you want it to say? I'll --
+2019.18-6662,1,62924,jonathan_c_bond,,2424.78,2424.88,Sure.
+2019.18-6662,1,15139,stephen_g_breyer,scotus_justice,2424.88,2425.665,-- I'll agree to everything.
+2019.18-6662,1,62924,jonathan_c_bond,,2425.665,2430.54,"If -- if the statute is divisible and has one element, one alternative element, that involves the sale of drugs --"
+2019.18-6662,1,15139,stephen_g_breyer,scotus_justice,2430.54,2430.61,Yeah.
+2019.18-6662,1,62924,jonathan_c_bond,,2430.61,2431.34,-- and one that does not --
+2019.18-6662,1,15139,stephen_g_breyer,scotus_justice,2431.34,2431.96,It says marijuana.
+2019.18-6662,1,62924,jonathan_c_bond,,2431.96,2432.72,-- involve the sale of drugs -- sure.
+2019.18-6662,1,15139,stephen_g_breyer,scotus_justice,2433.02,2433.96,It's a controlled substance.
+2019.18-6662,1,62924,jonathan_c_bond,,2441.705,2446.18,"Yes, and a number of states do impose an aggravating circumstance based on --"
+2019.18-6662,1,15139,stephen_g_breyer,scotus_justice,2446.18,2457.01,"Ten years, and that's -- if you did that, then this statute kicks in, even though what he really did was make a price agreement, or he didn't get the right license, et cetera."
+2019.18-6662,1,62924,jonathan_c_bond,,2457.01,2461.06,"Yes, I think that's -- that's correct, that that would -- that would fall under the federal definition."
+2019.18-6662,1,15139,stephen_g_breyer,scotus_justice,2461.06,2465.0,"Well, then there's another way of doing it, he says, you don't have to go that broad at all."
+2019.18-6662,1,62924,jonathan_c_bond,,2494.79,2506.85,"So a few -- a few points. A state crime for possession with intent to distribute would be picked up under the plain language of the statute, and the fact states might or might not require additional elements doesn't change the meaning of the words or what Congress was trying to capture."
+2019.18-6662,1,15139,stephen_g_breyer,scotus_justice,2506.85,2507.12,"No, no."
+2019.18-6662,1,62924,jonathan_c_bond,,2538.125,2540.425,"So if I can take on ""involves"" directly."
+2019.18-6662,1,62836,neil_gorsuch,scotus_justice,2602.88,2607.1,I -- I understand there's tricky sides -- tricky questions for the Petitioner.
+2019.18-6662,1,62924,jonathan_c_bond,,2668.115,2674.51,So I think the concern would be addressed because it would only pick up state offenses whose elements as a categorical matter involve --
+2019.18-6662,1,62836,neil_gorsuch,scotus_justice,2674.51,2674.62,Sure.
+2019.18-6662,1,62924,jonathan_c_bond,,2695.635,2705.725,"So I think the -- the answer under -- under the existing law is that if the state has imposed a ten-year or more sentence and the defendant has three or more convictions under that statute, yes, it can be an ACCA predicate."
+2019.18-6662,1,15139,stephen_g_breyer,scotus_justice,2713.53,2717.705,"Well, I -- well, any person -- who knows what California will pass as a law."
+2019.18-6662,1,62924,jonathan_c_bond,,2746.67,2747.48,So I think --
+2019.18-6662,1,15139,stephen_g_breyer,scotus_justice,2747.48,2761.1,"-- is to not give a special meaning to ""involve,"" but just look at what has been the traditional meaning of ""distribution with intent to distribute,"" of ""manufacture with intent to distribute,"" of ""selling,"" et cetera, et cetera."
+2019.18-6662,1,62924,jonathan_c_bond,,2768.595,2769.68,So a couple of points.
+2019.18-6662,1,15139,stephen_g_breyer,scotus_justice,2769.68,2771.22,Ours is on the first part.
+2019.18-6662,1,62836,neil_gorsuch,scotus_justice,2771.22,2803.735,"Yeah, and just to put a friendly amendment to that, I don't mean to prolong it, but ""involve"" has to end somewhere along the chain, right? At some point, you're going so say it no longer ""involves,"" I would think, a drug crime. Where is that? Is it enough for the state -- if the state just simply says some attachment to a drug, you know, five -- five layers removed, and a drug crime was involved, is that enough? Or does the government have some position on whether that might not be enough at some point in the causal chain?"
+2019.18-6662,1,62924,jonathan_c_bond,,2803.735,2811.04,It might not be enough at some point in the causal chain if you can't say with confidence that it -- that the elements necessarily entail this particular result.
+2019.18-6662,1,15068,samuel_a_alito_jr,scotus_justice,2812.14,2813.95,"And why -- I'm sorry, go ahead."
+2019.18-6662,1,62924,jonathan_c_bond,,2813.95,2815.96,It depends on the particular crime at issue.
+2019.18-6662,1,15131,sonia_sotomayor,scotus_justice,2842.25,2843.96,Sorry.
+2019.18-6662,1,62924,jonathan_c_bond,,2868.43,2871.5,So the -- the state offenses that we're aware of have used a 28-gram threshold.
+2019.18-6662,1,15131,sonia_sotomayor,scotus_justice,2876.76,2877.855,But the Fourth didn't.
+2019.18-6662,1,62924,jonathan_c_bond,,2888.41,2888.86,That's right.
+2019.18-6662,1,15131,sonia_sotomayor,scotus_justice,2889.04,2896.065,And you can't read a presumption into an intent with -- with that. So -- but you are.
+2019.18-6662,1,62924,jonathan_c_bond,,2906.705,2912.35,"Well, I think at that point it would be much more difficult to say that a state law is -- is presuming intent based on that statute."
+2019.18-6662,1,15131,sonia_sotomayor,scotus_justice,2912.35,2922.33,"So why don't we read it literally? It has to involve the -- possession with intent to distribute, not a presumption of intent to distribute."
+2019.18-6662,1,62924,jonathan_c_bond,,2922.33,2922.62,Sure.
+2019.18-6662,1,15131,sonia_sotomayor,scotus_justice,2945.69,2955.415,"Yeah, but I'm really worried about the fact that you've -- on that delta, you said the Eleventh Circuit is right, right only because a state has used the label."
+2019.18-6662,1,62924,jonathan_c_bond,,2955.415,2958.17,I don't think it's because the state has used the label.
+2019.18-6662,1,15068,samuel_a_alito_jr,scotus_justice,2984.01,2996.215,"What does this have to do with the question in this case? It totally -- it's a totally different question. The quantity of drugs from which you can infer that there was an intent to distribute, what -- what does that have to do with anything in this case?"
+2019.18-6662,1,62924,jonathan_c_bond,,2996.215,3013.76,"So we -- we agree that the question here is much more straightforward and doesn't turn on exactly what you conclude involves means, whether you think that a particular quantity is -- can -- can be used as the basis to infer that -- that possession with intent to distribute will necessarily be entailed by the conduct or not. The question here is simply --"
+2019.18-6662,1,15068,samuel_a_alito_jr,scotus_justice,3013.76,3024.955,"You can intend -- you can be convicted -- am I wrong -- of possession with intent to distribute, even a very small amount of drugs, if there's proof that you intended to distribute it."
+2019.18-6662,1,62924,jonathan_c_bond,,3024.955,3025.44,Certainly.
+2019.18-6662,1,15068,samuel_a_alito_jr,scotus_justice,3025.86,3050.765,"And so that's a separate question of when you can -- when you can infer from the quantity of drugs that there was an intent to distribute. You could have a state, if you want to hypothesize, draconian state law that says if you intend to distribute one gram, that is -- that is a felony punishable by 50 years in jail. That would raise potentially other questions, but has nothing to do with the issue here."
+2019.18-6662,1,62924,jonathan_c_bond,,3050.765,3051.95,"That's exactly right, Your Honor."
+2019.18-6662,1,17766,brett_m_kavanaugh,scotus_justice,3057.05,3070.59,"And so to be clear, just to be very clear, if you win here, to Justice Alito's question, the question where to draw the line on state possession statutes would remain open for litigation in future cases."
+2019.18-6662,1,62924,jonathan_c_bond,,3070.9,3090.2,"So you will still have the question of what particular crimes necessarily entail distribution, manufacture, or possession with intent to distribute, but that litigation and that kind of uncertainty is dwarfed by the litigation that Petitioner's theory is presenting, which would require you not just to figure out what that specific thing means but the elements of the complete offense or of each of these three offenses in 1986."
+2019.18-6662,1,15086,john_g_roberts_jr,scotus_justice,3090.2,3090.925,You also --
+2019.18-6662,1,17766,brett_m_kavanaugh,scotus_justice,3090.925,3092.34,And also -- I'm sorry.
+2019.18-6662,1,15086,john_g_roberts_jr,scotus_justice,3092.34,3111.2,"I was just going to say you emphasize in your brief the difficulty of -- I -- I -- I'll just quote -- ""attempting to synthesize generic versions of these offenses from the motley raw material of state and federal laws."" Your office will keep that in mind the next time you urge us to adopt a generic approach? (Laughter.)"
+2019.18-6662,1,62924,jonathan_c_bond,,3111.2,3134.52,"I think there's a -- there's a material difference between state drug trafficking laws in 1986, and I think Petitioner acknowledges, and the offenses that Congress recognized were sufficiently well defined in 1986 that it could refer to them by name and understand that -- and courts would understand what Congress was referring to, particularly the offenses that previously had already been defined in the ACCA before the 1986 amendments, like burglary and robbery, which is no longer --"
+2019.18-6662,1,62836,neil_gorsuch,scotus_justice,3134.52,3134.59,I -- I --
+2019.18-6662,1,62924,jonathan_c_bond,,3134.59,3134.83,-- defined.
+2019.18-6662,1,62836,neil_gorsuch,scotus_justice,3134.83,3152.885,"I wonder whether you'll also keep in mind this -- this question about involves, you know, the use and carry provision of 924 has kept courts awfully busy, right, what is a ""use""? Are we going to, you know, what is our assurance we're not going to have similar amounts of concern and litigation about what's an ""involving""?"
+2019.18-6662,1,62924,jonathan_c_bond,,3152.885,3163.305,"So, again, both sides have the same problem with respect to the word ""involving."" And the ordinary meaning of it, as the Court explained in Kawashima, is relatively straightforward. And, again, you look to the ordinary meaning of these words."
+2019.18-6662,1,62836,neil_gorsuch,scotus_justice,3169.93,3177.38,"The use of a gun involves -- the government has told us involves bartering, it involves -- it's in the room, it's somewhere in the house, it's in the neighborhood."
+2019.18-6662,1,62924,jonathan_c_bond,,3182.405,3185.76,I don't think that the language compels you to go down the road.
+2019.18-6662,1,15131,sonia_sotomayor,scotus_justice,3193.37,3202.63,"Mr. Bond, Florida is the only state that takes out mens rea; 49 other states don't."
+2019.18-6662,1,62924,jonathan_c_bond,,3219.93,3221.78,So --
+2019.18-6662,1,15131,sonia_sotomayor,scotus_justice,3221.78,3229.98,"Yes, there might be production uses but I -- I'm not quite sure what the worry on your part is."
+2019.18-6662,1,62924,jonathan_c_bond,,3229.98,3238.855,"Well, so -- I think -- if I can challenge the premise about what was clear in 1968, as Petitioner acknowledges, the North Dakota Supreme Court had directly rejected this mens rea requirement."
+2019.18-6662,1,15131,sonia_sotomayor,scotus_justice,3249.28,3253.22500005,"But right now, 49 other states include it."
+2019.18-6662,1,62924,jonathan_c_bond,,3253.22500005,3259.02,We're not aware of any other state besides Florida that has emphatically rejected this -- this knowledge requirement as Florida has done.
+2019.18-6662,1,15131,sonia_sotomayor,scotus_justice,3259.02,3261.555,"Either as expressed or implied, correct?"
+2019.18-6662,1,62924,jonathan_c_bond,,3261.555,3264.07,We're not aware of a -- of a state that falls in that category.
+2019.18-6662,1,17766,brett_m_kavanaugh,scotus_justice,3267.53,3274.71,The point of the statute is to tell people who have these prior convictions not to possess firearms?
+2019.18-6662,1,62924,jonathan_c_bond,,3274.71,3275.17,Exactly.
+2019.18-6662,1,17766,brett_m_kavanaugh,scotus_justice,3277.34,3284.84,And there are a lot of people in Florida or who have prior Florida offenses who Congress didn't want to possess firearms.
+2019.18-6662,1,62924,jonathan_c_bond,,3284.84,3285.79,That's exactly right.
+2019.18-6662,1,15086,john_g_roberts_jr,scotus_justice,3312.92,3316.105,"Thank you, counsel. Mr. Summa, five minutes."
+2019.18-6662,2,63222,richard_m_summa,,3316.105,3329.425,The purpose of the statute is not exactly to tell people who have prior convictions not to possess firearms.
+2019.18-6662,2,15068,samuel_a_alito_jr,scotus_justice,3539.185,3572.925,"If Congress had before it when it drafted this provision of ACCA these two models, the federal model where the prosecution has to prove that guilty knowledge of the nature of the substance, and the Florida model, which differs only in that the defendant has to raise this as a -- an affirmative defense, has to say I didn't know that it was an illegal substance, Congress would think there's enough difference between those two models to say that only the former is included and not the latter?"
+2019.18-6662,2,63222,richard_m_summa,,3572.925,3586.04,"I think Congress -- yes, Congress would have decided the law is so overwhelmingly in favor of a mens rea element, that's what we generally would contemplate."
+2019.18-6662,2,15068,samuel_a_alito_jr,scotus_justice,3586.04,3589.995,"Is there any practical difference between those two? I -- I mean, I don't see it."
+2019.18-6662,2,63222,richard_m_summa,,3603.01499995,3613.23,"Well, Your Honor, I respectfully say that you are giving short shrift to the general requirement -- my time's up, may I --"
+2019.18-6662,2,15086,john_g_roberts_jr,scotus_justice,3613.23,3613.38,You may.
+2019.18-6662,2,63222,richard_m_summa,,3613.77,3646.55,"You are giving general short shrift to the significance of jury findings. If a jury does not find, as it does in the Florida law, that the defendant has engaged in blameworthy conduct, the court, in a federal court, in a sentencing proceeding should assume that the defendant did not have that guilty knowledge because the -- the -- the federal sentencing court cannot make that finding for the first time in a collateral sentencing proceeding."
+2019.18-6662,2,15086,john_g_roberts_jr,scotus_justice,3647.72,3648.565,"Thank you, counsel."

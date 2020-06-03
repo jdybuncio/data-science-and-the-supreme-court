@@ -1,0 +1,228 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2011.10-8505,0,15086,john_g_roberts_jr,scotus_justice,0.0,5.468,"We will hear argument next in Case 10-8505, Williams v. Illinois."
+2011.10-8505,0,17502,brian_w_carroll,,6.154,9.622,"Mr. Chief Justice, and may it please the Court:"
+2011.10-8505,0,15131,sonia_sotomayor,scotus_justice,87.889,94.462,"Counsel, it hasn't been the focus of the briefing, but you've just made it the focus here."
+2011.10-8505,0,17502,brian_w_carroll,,126.933,129.316,As--
+2011.10-8505,0,15131,sonia_sotomayor,scotus_justice,129.316,141.541,"Because she testified that in her records she sees that her lab -- and she says -- I think those records were produced, I could be wrong -- that--"
+2011.10-8505,0,17502,brian_w_carroll,,141.541,143.209,--The shipping records were produced.
+2011.10-8505,0,15131,sonia_sotomayor,scotus_justice,143.209,145.41,--They were produced and admitted into evidence.
+2011.10-8505,0,17502,brian_w_carroll,,164.989,171.295,"No, Your Honor, at this stage we are not challenging the admission of the shipping record."
+2011.10-8505,0,15049,antonin_scalia,scotus_justice,171.295,176.114,"Well, that would just show that the material went to and came back from the lab."
+2011.10-8505,0,17502,brian_w_carroll,,181.684,182.934,"That's correct, Your Honor."
+2011.10-8505,0,15049,antonin_scalia,scotus_justice,182.934,187.754,And what other evidence was there of the results besides her testimony?
+2011.10-8505,0,17502,brian_w_carroll,,187.754,189.756,There was no other evidence.
+2011.10-8505,0,15049,antonin_scalia,scotus_justice,189.756,190.256,No other.
+2011.10-8505,0,15084,ruth_bader_ginsburg,scotus_justice,190.256,201.747,"In the case of the blood that was tested in the police lab, there the person who tested did testify at the trial, right?"
+2011.10-8505,0,17502,brian_w_carroll,,208.001,215.574,The -- the person who tested or who analyzed Mr. Williams' blood did testify live at trial.
+2011.10-8505,0,15084,ruth_bader_ginsburg,scotus_justice,215.574,215.957,Yes.
+2011.10-8505,0,15113,anthony_m_kennedy,scotus_justice,215.957,226.196,"Abbinanti testified that she did the blood test and it went into the State database with reference to the other crime, not this crime; am I correct?"
+2011.10-8505,0,17502,brian_w_carroll,,226.196,227.881,"Yes, Your Honor."
+2011.10-8505,0,15113,anthony_m_kennedy,scotus_justice,231.95,241.222,"But she is an expert, she testified how she did the test, and what the -- and that she put the DNA result into -- into the data bank?"
+2011.10-8505,0,17502,brian_w_carroll,,241.222,242.641,"That's correct, Your Honor."
+2011.10-8505,0,15068,samuel_a_alito_jr,scotus_justice,242.641,276.129,"Hasn't it long been accepted that experts may testify to the facts that form the basis for their opinions on the ground that when the experts go over those facts they are not -- that information is not being introduced to prove the truth of the matter asserted, the truth of those underlying fact; only that those are the facts that the expert has relied on in reaching an opinion?"
+2011.10-8505,0,17502,brian_w_carroll,,296.976,320.841,"In this case, where the -- where the basis evidence that the expert testifies to, where it's -- the expert's opinion depends on those statements being considered true, in those instances then, yes, we are arguing that the Confrontation Clause does not allow--"
+2011.10-8505,0,15068,samuel_a_alito_jr,scotus_justice,320.841,321.441,"Well, let's say that--"
+2011.10-8505,0,17502,brian_w_carroll,,321.441,321.907,--Right.
+2011.10-8505,0,15068,samuel_a_alito_jr,scotus_justice,321.907,322.741,--Let me put it this way.
+2011.10-8505,0,17502,brian_w_carroll,,355.945,364.718,"If the -- if the expert is not, you know, asserting that the statements are true, then no."
+2011.10-8505,0,15049,antonin_scalia,scotus_justice,369.255,373.307,"It would be utterly irrelevant, would it not, if the statements were not true?"
+2011.10-8505,0,17502,brian_w_carroll,,403.495,404.845,--That's correct.
+2011.10-8505,0,15049,antonin_scalia,scotus_justice,404.845,409.399,That seems to me quite different from the -- from the ordinary hypothetical put to an expert.
+2011.10-8505,0,15139,stephen_g_breyer,scotus_justice,409.399,410.899,"Yes, I would have thought -- yes."
+2011.10-8505,0,17502,brian_w_carroll,,412.082,413.034,"No, I was just going to--"
+2011.10-8505,0,15139,stephen_g_breyer,scotus_justice,413.034,550.52,You were going to agree with that.
+2011.10-8505,0,17502,brian_w_carroll,,574.301,590.328,"--Well, Your Honor, the Confrontation Clause guarantees the defendant to right to confront and cross-examine the witnesses against him, and that's the reason why this Court should not make an exception--"
+2011.10-8505,0,15139,stephen_g_breyer,scotus_justice,590.328,591.145,"Well, I'll go further in--"
+2011.10-8505,0,15049,antonin_scalia,scotus_justice,591.145,593.113,"You are not objecting to hearsay, are you, counsel?"
+2011.10-8505,0,17502,brian_w_carroll,,596.582,597.465,--That's right.
+2011.10-8505,0,15049,antonin_scalia,scotus_justice,597.465,602.319,"--which is quite different from what -- what Mr. Wigmore was writing about, which was hearsay."
+2011.10-8505,0,15139,stephen_g_breyer,scotus_justice,602.319,609.641,"--Yes, but Wigmore actually believed that the Confrontation Clause simply encapsulated the hearsay rule."
+2011.10-8505,0,15049,antonin_scalia,scotus_justice,609.641,611.541,"We have said the contrary, though, haven't we?"
+2011.10-8505,0,15139,stephen_g_breyer,scotus_justice,613.093,616.478,"I'm asking you the question, and I -- I will go further in your direction."
+2011.10-8505,0,17502,brian_w_carroll,,678.134,689.524,"Well, Your Honor, I think that this Court's decisions in Crawford and Melendez-Diaz and Bullcoming largely foreclose on making such an exception."
+2011.10-8505,0,15049,antonin_scalia,scotus_justice,690.341,695.012,Justice Breyer dissented from those opinions.
+2011.10-8505,0,15139,stephen_g_breyer,scotus_justice,697.697,698.23,"I did, but--"
+2011.10-8505,0,15049,antonin_scalia,scotus_justice,698.23,699.314,--not just Justice Breyer.
+2011.10-8505,0,15139,stephen_g_breyer,scotus_justice,699.314,716.192,"--And I mean it, because I see extending those cases from one individual from a laboratory being familiar with the results to requiring in ordinary cases the calling of what could be up to ten technicians."
+2011.10-8505,0,15084,ruth_bader_ginsburg,scotus_justice,740.305,743.074,"Mr. Carroll, are we talking about ten witnesses?"
+2011.10-8505,0,17502,brian_w_carroll,,748.244,755.334,"--Yes, on this record, Your Honor, the -- the statements that were produced were the statements of the authors of the report."
+2011.10-8505,0,15084,ruth_bader_ginsburg,scotus_justice,755.984,757.35,"That's one person, not ten."
+2011.10-8505,0,17502,brian_w_carroll,,757.35,760.635,--I believe there are two signatories to the report.
+2011.10-8505,0,15068,samuel_a_alito_jr,scotus_justice,760.635,764.02,"Well, ten is not -- ten is not a far-fetched hypothetical."
+2011.10-8505,0,17502,brian_w_carroll,,816.372,832.584,"No, Your Honor, because even in the worst case scenario described in the New York County's brief, not all 12 people in that situation make testimonial statements and not all 12 people's testimonial statements are presented at trial."
+2011.10-8505,0,15049,antonin_scalia,scotus_justice,842.522,848.943,"It's up to the prosecutor which of those 12 he wants to bring in, whether he wants to bring in all 12 or just one."
+2011.10-8505,0,17502,brian_w_carroll,,856.015,857.215,"That's correct, Your Honor."
+2011.10-8505,0,15049,antonin_scalia,scotus_justice,857.215,861.936,But he has to bring in the one and not hearsay about what the one would say.
+2011.10-8505,0,15068,samuel_a_alito_jr,scotus_justice,861.936,865.305,How will bringing in one satisfy the Confrontation Clause problem?
+2011.10-8505,0,17502,brian_w_carroll,,877.013,877.963,"No, Your Honor."
+2011.10-8505,0,15068,samuel_a_alito_jr,scotus_justice,880.647,881.015,You don't?
+2011.10-8505,0,17502,brian_w_carroll,,881.015,886.484,"No, we don't, because the question is whose statement is being presented."
+2011.10-8505,0,15068,samuel_a_alito_jr,scotus_justice,924.326,926.209,Why is that not a testimonial statement?
+2011.10-8505,0,17502,brian_w_carroll,,926.209,933.532,"--Well, just performing a test is not a testimonial statement."
+2011.10-8505,0,15068,samuel_a_alito_jr,scotus_justice,936.484,939.686,"If the person were in court, the person would say: This is what I did."
+2011.10-8505,0,17502,brian_w_carroll,,939.686,943.138,--If the person was in court--
+2011.10-8505,0,15068,samuel_a_alito_jr,scotus_justice,943.138,944.021,And that's not testimony?
+2011.10-8505,0,17502,brian_w_carroll,,944.021,947.692,"--In that case, it would be testimony."
+2011.10-8505,0,15094,elena_kagan,scotus_justice,966.77,983.965,"Mr. Carroll, I'm just trying to figure out -- this out, and I'm -- here's my question: Suppose you had two witnesses, one from -- one who had done the lab analysis on Mr. Williams and one who had done the lab analysis from the victim."
+2011.10-8505,0,17502,brian_w_carroll,,995.956,997.642,"--That's correct, Your Honor."
+2011.10-8505,0,15094,elena_kagan,scotus_justice,997.642,998.058,Okay.
+2011.10-8505,0,17502,brian_w_carroll,,1013.067,1014.234,"That's correct, Your Honor."
+2011.10-8505,0,15094,elena_kagan,scotus_justice,1014.234,1018.555,So why is that a Confrontation Clause issue?
+2011.10-8505,0,17502,brian_w_carroll,,1024.792,1035.415,It's a Confrontation Clause issue because the prosecution presented the statement of the person who did the analysis on the victim's vaginal swabs.
+2011.10-8505,0,15094,elena_kagan,scotus_justice,1035.415,1036.0,"Well, is that right?"
+2011.10-8505,0,17502,brian_w_carroll,,1065.519,1068.019,"Well, you are missing something, Your Honor."
+2011.10-8505,0,15068,samuel_a_alito_jr,scotus_justice,1103.658,1112.764,"Well, what did the Illinois appellate court say about that, about whether the information, whether the evidence was admitted for the truth of the matter asserted?"
+2011.10-8505,0,17502,brian_w_carroll,,1112.764,1128.04,The appellate court held as a matter of Illinois law these statements considered -- statements that serve as the basis of an expert's opinion are generally deemed not to be admitted for their truth.
+2011.10-8505,0,15068,samuel_a_alito_jr,scotus_justice,1152.841,1157.56,But isn't Justice Kagan's question there the correct question?
+2011.10-8505,0,17502,brian_w_carroll,,1163.714,1165.066,"No, Your Honor."
+2011.10-8505,0,15068,samuel_a_alito_jr,scotus_justice,1165.066,1174.087,Was there sufficient foundation laid for the introduction of the expert's testimony?
+2011.10-8505,0,17502,brian_w_carroll,,1174.087,1175.421,"No, Your Honor."
+2011.10-8505,0,15068,samuel_a_alito_jr,scotus_justice,1175.421,1178.639,That was addressed by the Illinois court?
+2011.10-8505,0,17502,brian_w_carroll,,1178.639,1180.408,"No, Your Honor."
+2011.10-8505,0,15086,john_g_roberts_jr,scotus_justice,1231.274,1236.078,But that's just because the photographing is something that people wouldn't dispute.
+2011.10-8505,0,17502,brian_w_carroll,,1290.562,1298.485,Because that person's testimony that the results we got back were connected to the samples we sent--
+2011.10-8505,0,15086,john_g_roberts_jr,scotus_justice,1298.485,1300.437,They did not -- she does not say that.
+2011.10-8505,0,17502,brian_w_carroll,,1317.716,1332.725,"--Your Honor, I still believe that would be a Confrontation Clause violation because the writing on the data sheet that said ""crime scene"", a person at Cellmark had to write that down on the data sheet."
+2011.10-8505,0,15086,john_g_roberts_jr,scotus_justice,1338.143,1342.847,And all the witness is -- all the witness is testifying to is what they sent and what they got back.
+2011.10-8505,0,17502,brian_w_carroll,,1369.249,1380.722,"--Well, Your Honor, hypothetically the State could -- I believe the State could present its evidence through circumstantial evidence, but that's not what happened in this case."
+2011.10-8505,0,15113,anthony_m_kennedy,scotus_justice,1401.803,1405.105,And she goes further.
+2011.10-8505,0,17502,brian_w_carroll,,1430.222,1431.455,"That's correct, Your Honor."
+2011.10-8505,0,15139,stephen_g_breyer,scotus_justice,1431.455,1448.951,"That's true whenever -- whenever an expert -- an expert makes a statement, there is a conceptual difference between their testifying to something out of court for its truth and that being the basis for the expert opinion."
+2011.10-8505,0,17502,brian_w_carroll,,1463.793,1464.31,"That's correct, Your Honor."
+2011.10-8505,0,15139,stephen_g_breyer,scotus_justice,1464.31,1464.66,All right.
+2011.10-8505,0,17502,brian_w_carroll,,1475.101,1477.12,"I do not believe so, Your Honor."
+2011.10-8505,0,15113,anthony_m_kennedy,scotus_justice,1511.474,1523.849,"You are saying that the State of Illinois case is weaker here than in Melendez, where they had a certificate, and in Bullcoming, where they had somebody from the lab testify as to lab procedures."
+2011.10-8505,0,17502,brian_w_carroll,,1527.217,1528.486,"--That's right, Your Honor."
+2011.10-8505,0,15086,john_g_roberts_jr,scotus_justice,1528.486,1529.769,"Thank you, counsel."
+2011.10-8505,1,15385,anita_alvarez,,1534.556,1535.689,May it please the Court.
+2011.10-8505,1,15131,sonia_sotomayor,scotus_justice,1537.508,1549.316,"Counsel, on your theory of this case, I think you say first it's not a statement; and second that if it is it was not offered for the truth."
+2011.10-8505,1,15385,anita_alvarez,,1562.557,1565.426,--The Cellmark report was not introduced as evidence--
+2011.10-8505,1,15131,sonia_sotomayor,scotus_justice,1565.426,1566.792,I'm changing the facts.
+2011.10-8505,1,15385,anita_alvarez,,1566.792,1567.278,--And if she had--
+2011.10-8505,1,15131,sonia_sotomayor,scotus_justice,1567.278,1574.032,"Under your theory, she could have introduced the lab report?"
+2011.10-8505,1,15385,anita_alvarez,,1574.032,1582.287,"--If we offered her -- the Cellmark report into evidence for the truth of the matter asserted, it would be a different situation."
+2011.10-8505,1,15131,sonia_sotomayor,scotus_justice,1582.287,1583.687,I don't understand the difference.
+2011.10-8505,1,15385,anita_alvarez,,1591.159,1595.111,The -- Ms. Lambatos testified consistent with the Confrontation Clause here.
+2011.10-8505,1,15131,sonia_sotomayor,scotus_justice,1595.645,1600.515,She testified that she reviewed lab samples.
+2011.10-8505,1,15385,anita_alvarez,,1600.515,1601.699,--As an expert.
+2011.10-8505,1,15131,sonia_sotomayor,scotus_justice,1601.699,1603.967,That matched the defendant.
+2011.10-8505,1,15385,anita_alvarez,,1615.008,1620.412,"She did not parrot the Cellmark report, as we have seen in Bullcoming."
+2011.10-8505,1,15131,sonia_sotomayor,scotus_justice,1628.366,1628.682,No.
+2011.10-8505,1,15385,anita_alvarez,,1635.172,1635.688,Right.
+2011.10-8505,1,15131,sonia_sotomayor,scotus_justice,1635.688,1637.105,So she said that.
+2011.10-8505,1,15385,anita_alvarez,,1637.105,1652.966,Because the vaginal swab that was taken from the victim -- and there was a chain of custody here and proper foundation that was laid -- the vaginal swab that was taken from the victim -- and this bore out through the business records that came in on the shipping manifest--
+2011.10-8505,1,15131,sonia_sotomayor,scotus_justice,1652.966,1659.887,So what's the difference between this and Justice Kennedy's question about Bullcoming?
+2011.10-8505,1,15385,anita_alvarez,,1687.304,1702.564,"--If the expert in Bullcoming did more than what he simply did in Bullcoming and that was just simply read the report and testify that that's what that lab did, if he actually did his own independent analysis based on his expertise, based on his skill--"
+2011.10-8505,1,15131,sonia_sotomayor,scotus_justice,1702.564,1703.014,"No, no."
+2011.10-8505,1,15385,anita_alvarez,,1712.438,1720.609,"--If he were -- if he were to give his independent opinion, based on his analysis and what he had done, then we would have seen a situation closer to this."
+2011.10-8505,1,15131,sonia_sotomayor,scotus_justice,1720.609,1721.127,He has done nothing.
+2011.10-8505,1,15385,anita_alvarez,,1735.235,1740.47,"If that report is being used, is being offered to prove the truth of the matter asserted--"
+2011.10-8505,1,15131,sonia_sotomayor,scotus_justice,1740.47,1759.101,"All right, but you're not telling me why that's not the same here because what this expert said is, the Cellmark report is from this victim so it's the same set of numbers as in Bullcoming."
+2011.10-8505,1,15385,anita_alvarez,,1767.204,1776.726,"--But no -- what happened here is Ms. Lambatos testified based on -- and gave her own independent expert opinion based on her skills, her knowledge, her expertise."
+2011.10-8505,1,15084,ruth_bader_ginsburg,scotus_justice,1777.743,1780.778,"You said independent, and I don't -- you said that in your brief."
+2011.10-8505,1,15385,anita_alvarez,,1798.34,1808.462,"--But an expert can always testify about the material that they relied on, whether that material is ever admitted into evidence and sometimes that material could never be admitted into evidence."
+2011.10-8505,1,15049,antonin_scalia,scotus_justice,1813.333,1819.67,"No, but didn't she say, I relied on stuff that I received from Caremark -- whatever the name of the lab was."
+2011.10-8505,1,15385,anita_alvarez,,1819.67,1820.339,--Cellmark.
+2011.10-8505,1,15049,antonin_scalia,scotus_justice,1820.339,1832.747,"She said: I relied on material that was a swab containing the DNA, the sperm of this particular individual."
+2011.10-8505,1,15385,anita_alvarez,,1834.68,1838.484,She testified that she relied on those materials and she can testify--
+2011.10-8505,1,15049,antonin_scalia,scotus_justice,1838.484,1843.786,She didn't just say: I got something back from the lab and I relied on whatever that said.
+2011.10-8505,1,15385,anita_alvarez,,1853.56,1871.455,--She knew from the procedures and the chain of custody and the shipping manifest that what was sent initially to Cellmark after preliminary tests were done at the Illinois State police crime lab showing the presence of sperm that it was sent to Cellmark and it was analyzed at Cellmark and came back--
+2011.10-8505,1,15049,antonin_scalia,scotus_justice,1871.455,1873.338,She didn't know if they had incompetent people there.
+2011.10-8505,1,15385,anita_alvarez,,1913.449,1929.659,"--The testimony of Ms. Lambatos satisfies the Confrontation Clause because she is the witness against the accused in this case, and the fact that she testified that she relies on material that was generated by Cellmark does not make Cellmark the witness against the accused."
+2011.10-8505,1,15049,antonin_scalia,scotus_justice,1929.659,1932.176,But she said that -- I would agree with you.
+2011.10-8505,1,15385,anita_alvarez,,1944.568,1949.555,"She had no personal knowledge of that, and that came through during this cross-examination."
+2011.10-8505,1,15068,samuel_a_alito_jr,scotus_justice,1955.709,1959.661,"Well, there are two types of evidence that are -- that are involved here."
+2011.10-8505,1,15385,anita_alvarez,,2014.897,2015.297,Right.
+2011.10-8505,1,15113,anthony_m_kennedy,scotus_justice,2039.879,2043.664,But -- the -- the chain of custody are just supporting actors.
+2011.10-8505,1,15385,anita_alvarez,,2065.829,2067.613,--But the matching--
+2011.10-8505,1,15113,anthony_m_kennedy,scotus_justice,2067.613,2079.673,"And -- and it seems to me, in -- as in response to Justice Scalia, not -- not only does he indicate that this is hard to distinguish from Bullcoming, in Bullcoming at least you had an expert say how the laboratory works."
+2011.10-8505,1,15385,anita_alvarez,,2085.075,2091.245,--Ms. Lambatos did testify both on direct examination and cross-examination that Cellmark was an accredited lab.
+2011.10-8505,1,15113,anthony_m_kennedy,scotus_justice,2095.616,2097.901,"In Bullcoming, we said that was not sufficient."
+2011.10-8505,1,15385,anita_alvarez,,2100.336,2104.988,--But -- but Ms. Lambatos -- we never introduced any Cellmark reports in this case.
+2011.10-8505,1,15113,anthony_m_kennedy,scotus_justice,2148.417,2151.452,I don't know how that's any different from Bullcoming and Melendez-Diaz.
+2011.10-8505,1,15385,anita_alvarez,,2151.452,2158.123,"--Well, I -- well, Melendez-Diaz, what we had in Melendez-Diaz was in fact a certificate, an affidavit."
+2011.10-8505,1,15113,anthony_m_kennedy,scotus_justice,2160.225,2162.327,"In other words, you had something more than you have here."
+2011.10-8505,1,15385,anita_alvarez,,2165.279,2176.168,"--No, I think in Melendez-Diaz, it's clear because that was -- that report was drafted, created, for the primary purpose of being used as substitute of live testimony."
+2011.10-8505,1,15084,ruth_bader_ginsburg,scotus_justice,2207.82,2216.826,"But if the report had been introduced, the Cellmark -- the Cellmark report, it would be testimonial; is that -- is that right?"
+2011.10-8505,1,15385,anita_alvarez,,2216.826,2221.63,"--Well, I -- I believe if -- if the State had tried to introduce that Cellmark report--"
+2011.10-8505,1,15084,ruth_bader_ginsburg,scotus_justice,2221.63,2222.047,Right.
+2011.10-8505,1,15385,anita_alvarez,,2222.047,2224.148,--it would have been offered for the truth of the matter asserted.
+2011.10-8505,1,15084,ruth_bader_ginsburg,scotus_justice,2229.302,2230.268,"Well, how does it become--"
+2011.10-8505,1,15385,anita_alvarez,,2230.268,2231.035,--but that's not what happened here.
+2011.10-8505,1,15084,ruth_bader_ginsburg,scotus_justice,2231.035,2237.572,--how does it become non-testimonial when it's relayed by the recipient of the report?
+2011.10-8505,1,15385,anita_alvarez,,2242.64,2243.156,Right.
+2011.10-8505,1,15094,elena_kagan,scotus_justice,2262.051,2263.569,"How -- how do we know that, Ms. Alvarez?"
+2011.10-8505,1,15385,anita_alvarez,,2276.127,2276.577,--There is.
+2011.10-8505,1,15113,anthony_m_kennedy,scotus_justice,2294.523,2299.743,If the limited purpose of -- of explaining the basis for her opinion.
+2011.10-8505,1,15385,anita_alvarez,,2304.713,2307.846,"--I'm sorry, Your Honor, I--"
+2011.10-8505,1,15113,anthony_m_kennedy,scotus_justice,2307.846,2310.531,Her opinion is that this is a match to Lambatos.
+2011.10-8505,1,15385,anita_alvarez,,2320.406,2323.608,"--Well, not irrelevant, but I believe it goes to the weight of her testimony."
+2011.10-8505,1,15094,elena_kagan,scotus_justice,2343.938,2348.84,"Suppose the State had not presented evidence of the shipments, so that you didn't even have that."
+2011.10-8505,1,15385,anita_alvarez,,2352.794,2354.896,"--No, Your Honor."
+2011.10-8505,1,15094,elena_kagan,scotus_justice,2372.356,2382.395,"But I guess what I'm trying to suggest is that if there's no evidence in the case that the -- that the match is to the victim, where is your case?"
+2011.10-8505,1,15385,anita_alvarez,,2382.395,2389.565,"--Well then, we probably would have problems with the Illinois evidentiary rules, and -- and the law in Illinois."
+2011.10-8505,1,15049,antonin_scalia,scotus_justice,2436.879,2438.231,But -- but Cellmark says
+2011.10-8505,1,15385,anita_alvarez,,2465.299,2468.267,--And she can testify to what she relied on.
+2011.10-8505,1,15049,antonin_scalia,scotus_justice,2475.504,2481.993,"You know, I -- I would believe that if the prosecution put the question to her this way:"
+2011.10-8505,1,15385,anita_alvarez,,2544.849,2551.255,"--Yes, the -- again, our position is that her testimony was consistent with the Confrontation Clause."
+2011.10-8505,1,15084,ruth_bader_ginsburg,scotus_justice,2591.396,2601.102,I think you earlier recognized that her -- her opinion could not be independent of the test results; it depended entirely on the test results.
+2011.10-8505,1,15385,anita_alvarez,,2609.458,2614.945,"Well, I think, you know, what we saw in Bullcoming was not an independent opinion of an expert."
+2011.10-8505,1,15084,ruth_bader_ginsburg,scotus_justice,2694.547,2697.13,Does Illinois -- does Illinois have notice and demand?
+2011.10-8505,1,15385,anita_alvarez,,2697.13,2697.665,--No.
+2011.10-8505,1,15084,ruth_bader_ginsburg,scotus_justice,2697.665,2698.932,It does not.
+2011.10-8505,1,15385,anita_alvarez,,2698.932,2699.615,No.
+2011.10-8505,1,15049,antonin_scalia,scotus_justice,2729.719,2733.354,"She was asked, just -- just to be clear what she was testifying to:"
+2011.10-8505,1,15385,anita_alvarez,,2758.236,2772.229,"She -- she is accepting and she is relying on the material that was generated by Cellmark, but again, the State did not admit into evidence or -- or -- or try to admit into evidence the Cellmark report or any statements from Cellmark."
+2011.10-8505,1,15086,john_g_roberts_jr,scotus_justice,2772.229,2773.262,"Thank you, counsel."
+2011.10-8505,2,35719,michael_r_dreeben,,2781.001,2785.569,"Thank you, Mr. Chief Justice, and may it please the Court:"
+2011.10-8505,2,15131,sonia_sotomayor,scotus_justice,2854.561,2857.596,"But, Mr. Dreeben, she did repeat what Cellmark said."
+2011.10-8505,2,35719,michael_r_dreeben,,2906.512,2916.718,"Well, first of all, Justice Sotomayor, that did come in on cross-examination and I don't think that Petitioner is contending evidence that he himself elicits on cross-examination would violate the Confrontation Clause."
+2011.10-8505,2,15131,sonia_sotomayor,scotus_justice,2916.718,2917.601,All right.
+2011.10-8505,2,35719,michael_r_dreeben,,2921.272,2922.372,Can I focus on -- on--
+2011.10-8505,2,15131,sonia_sotomayor,scotus_justice,2922.372,2923.788,--Could the State have done this?
+2011.10-8505,2,35719,michael_r_dreeben,,2923.788,2925.924,--Can I focus on your question?
+2011.10-8505,2,15113,anthony_m_kennedy,scotus_justice,2960.178,2964.382,"If -- if that's so, why isn't there insufficient evidence in this case?"
+2011.10-8505,2,35719,michael_r_dreeben,,2964.382,2971.035,And this brings me to my second reason for saying that this is not a Confrontation Clause problem.
+2011.10-8505,2,15113,anthony_m_kennedy,scotus_justice,2995.151,2998.036,None of -- none of which has anything to do with the accuracy of the test.
+2011.10-8505,2,35719,michael_r_dreeben,,2998.036,2998.636,--Correct.
+2011.10-8505,2,15086,john_g_roberts_jr,scotus_justice,3024.353,3025.403,"No, it doesn't -- it doesn't though."
+2011.10-8505,2,35719,michael_r_dreeben,,3038.863,3039.497,"--Yes, yes."
+2011.10-8505,2,15086,john_g_roberts_jr,scotus_justice,3039.497,3041.132,The State can make its case a lot stronger--
+2011.10-8505,2,35719,michael_r_dreeben,,3041.132,3049.987,And it did that here by saying that Cellmark is an accredited laboratory and Sandra Lambatos participated in designing proficiency examination.
+2011.10-8505,2,15113,anthony_m_kennedy,scotus_justice,3068.049,3084.159,"As you understand our precedents, would this have been a stronger or a weaker case if a representative, and employee of Cellmark had come and said although I didn't do this sample, I want to tell you how our procedures worked and why we are a respectable lab, etcetera, etcetera?"
+2011.10-8505,2,35719,michael_r_dreeben,,3084.159,3095.866,It would have been relatively stronger had a witness been able to actually come from Cellmark and validate that Cellmark is an accredited laboratory and conducts procedures in a certain way.
+2011.10-8505,2,15131,sonia_sotomayor,scotus_justice,3097.301,3117.547,"Mr. Dreeben, if no expert from either lab came in, if an expert had the Cellmark information and the Illinois State police information, not offered for the truth of the matter, and came in and said I match this and I match that, and it's the defendant -- could that have been done?"
+2011.10-8505,2,35719,michael_r_dreeben,,3117.547,3129.105,--Only if as a matter of State law there was a sufficient foundation for the fact finder to conclude that the DNA actually came from the blood and the DNA came from the semen.
+2011.10-8505,2,15049,antonin_scalia,scotus_justice,3129.105,3155.755,"Mr. Dreeben, that seems to me extra -- I mean, we have a Confrontation Clause which requires that the witnesses against the defendant appear and testify personally, and -- and the crucial evidence here is the testing of the semen found on the swab."
+2011.10-8505,2,35719,michael_r_dreeben,,3178.618,3184.005,"The Confrontation Clause, Justice Scalia, does not obligate the State to present a strong case."
+2011.10-8505,2,15094,elena_kagan,scotus_justice,3245.494,3260.419,"I suppose the problem is, Mr. Dreeben, that if the State put up Ms. Lambatos and Ms. Lambatos had to say: I did a match -- I was given two reports; there is a match, but I have no idea where this other report came from."
+2011.10-8505,2,35719,michael_r_dreeben,,3298.879,3299.395,No.
+2011.10-8505,2,15049,antonin_scalia,scotus_justice,3329.095,3330.43,What is the instruction here?
+2011.10-8505,2,35719,michael_r_dreeben,,3331.33,3334.916,"There is no instruction here, Justice Scalia, because this is a bench trial."
+2011.10-8505,2,15049,antonin_scalia,scotus_justice,3340.82,3348.909,--So we simply have a presumption even though -- even though the court's statement seems to indicate that he does take it for the truth of the matter.
+2011.10-8505,2,35719,michael_r_dreeben,,3348.909,3349.526,--Well the only--
+2011.10-8505,2,15049,antonin_scalia,scotus_justice,3349.526,3352.461,"And you're saying, well he couldn't have because that would be against the law."
+2011.10-8505,2,35719,michael_r_dreeben,,3352.461,3362.735,--The Illinois Supreme Court found as a matter of State law that he did comply with State evidentiary rules and he did not take the Cellmark report for the truth of the matter asserted.
+2011.10-8505,2,15086,john_g_roberts_jr,scotus_justice,3391.253,3392.438,"--Thank you, counsel."
+2011.10-8505,3,17502,brian_w_carroll,,3395.04,3397.357,"Thank you, Your Honor."
+2011.10-8505,3,15131,sonia_sotomayor,scotus_justice,3468.453,3475.957,Are you saying that we owe no deference to the Illinois Supreme Court's judgment on this evidentiary issue?
+2011.10-8505,3,17502,brian_w_carroll,,3486.962,3492.249,I think deference is due but you shouldn't take it given the record in this case.
+2011.10-8505,3,15049,antonin_scalia,scotus_justice,3492.249,3496.034,Why is deference given?
+2011.10-8505,3,17502,brian_w_carroll,,3508.761,3509.894,"Well, if the Court--"
+2011.10-8505,3,15049,antonin_scalia,scotus_justice,3509.894,3512.813,"We owe deference to its interpretation of Illinois law, I suppose."
+2011.10-8505,3,17502,brian_w_carroll,,3512.813,3520.919,"--I guess I -- if this Court would like not to give the Illinois Supreme Court deference, I would be more than happy--"
+2011.10-8505,3,15049,antonin_scalia,scotus_justice,3520.919,3526.572,I think we should give it deference where deference is due and not give it deference where deference is not due.
+2011.10-8505,3,17502,brian_w_carroll,,3534.326,3535.411,"--Yes, Your Honor."
+2011.10-8505,3,15086,john_g_roberts_jr,scotus_justice,3535.411,3547.653,"We do think our law has established though that a jury will follow an instruction in this situation to -- not to take the testimony for truth of the evidence, for truth of the matter."
+2011.10-8505,3,17502,brian_w_carroll,,3547.653,3550.105,"Not in this situation, Your Honor."
+2011.10-8505,3,15086,john_g_roberts_jr,scotus_justice,3550.105,3555.073,Do we have any case saying that instruction is inadequate in a case like this?
+2011.10-8505,3,17502,brian_w_carroll,,3555.073,3560.627,Not in this particular fact pattern.
+2011.10-8505,3,15113,anthony_m_kennedy,scotus_justice,3577.922,3583.742,"Are you aware that in Illinois they have an instruction -- assuming it was a jury case, this is a bench case, but if it were a jury case,"
+2011.10-8505,3,17502,brian_w_carroll,,3596.234,3598.086,"--Yes, Your Honor."
+2011.10-8505,3,15113,anthony_m_kennedy,scotus_justice,3602.89,3604.956,And then they routinely give that to juries?
+2011.10-8505,3,17502,brian_w_carroll,,3604.956,3608.375,"I believe they do, Your Honor."
+2011.10-8505,3,15131,sonia_sotomayor,scotus_justice,3645.415,3649.969,"I'm sorry, I'm going back to Justice Kennedy's question."
+2011.10-8505,3,17502,brian_w_carroll,,3657.638,3669.713,"I believe there is a recommended jury instruction for -- that the basic evidence is not to be considered for its truth, Your Honor."
+2011.10-8505,3,15068,samuel_a_alito_jr,scotus_justice,3669.713,3684.39,"Under rule 703 of the Illinois rules of evidence, are the facts that an expert takes into account in reaching his or her opinion introduced for the truth of the matter asserted?"
+2011.10-8505,3,17502,brian_w_carroll,,3684.39,3687.242,"Not under the language of the rule, Your Honor, no."
+2011.10-8505,3,15086,john_g_roberts_jr,scotus_justice,3687.242,3688.427,"Thank you, Counsel."

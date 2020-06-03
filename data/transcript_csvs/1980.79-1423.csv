@@ -1,0 +1,127 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1980.79-1423,0,15073,warren_e_burger,scotus_justice,0.0,9.684,We will hear arguments in the case of Western and Southern Life Insurance Company v. California.
+1980.79-1423,0,17181,alan_r_vogeler,,45.608,46.639,"Thank you, Mr. Chief Justice."
+1980.79-1423,0,15073,warren_e_burger,scotus_justice,236.312,245.449,"Now, in using this term retaliatory throughout, how would you distinguish that from the traditional reciprocity statute?"
+1980.79-1423,0,17181,alan_r_vogeler,,245.449,258.585,"Reciprocity, Your Honor, is a situation in which one state recognizes and defers to legislation or some comity in another state."
+1980.79-1423,0,15073,warren_e_burger,scotus_justice,258.585,263.66,"Well, as it's typically, we'll treat your corporations the same way you treat ours, isn't it?"
+1980.79-1423,0,17181,alan_r_vogeler,,263.66,264.442,"That's correct, Your Honor."
+1980.79-1423,0,15141,william_h_rehnquist,scotus_justice,362.933,364.401,Mr. Vogeler?
+1980.79-1423,0,17181,alan_r_vogeler,,364.401,365.51,"Yes, Mr. Justice Rehnquist?"
+1980.79-1423,0,15141,william_h_rehnquist,scotus_justice,365.51,380.941,"In the opinion of the California Court of Appeal, the taxes are variously referred to as discriminatory, comparative, and new you characterize it as retaliatory."
+1980.79-1423,0,17181,alan_r_vogeler,,380.941,381.503,"Yes, Your Honor."
+1980.79-1423,0,15141,william_h_rehnquist,scotus_justice,460.268,463.36,But it is only one tax that we're talking about?
+1980.79-1423,0,17181,alan_r_vogeler,,463.36,470.92,"It is one tax, Your Honor."
+1980.79-1423,0,15071,byron_r_white,scotus_justice,493.255,499.174,"Well, what if the tax in the other jurisdiction on California companies is lower?"
+1980.79-1423,0,17181,alan_r_vogeler,,501.674,504.08,California still levies its normal tax.
+1980.79-1423,0,15045,harry_a_blackmun,scotus_justice,542.83,545.858,But that washes out if the other one goes one way?
+1980.79-1423,0,17181,alan_r_vogeler,,545.858,547.248,"That is correct, Your Honor."
+1980.79-1423,0,15141,william_h_rehnquist,scotus_justice,557.245,559.838,"But that's been repealed, hasn't it?"
+1980.79-1423,0,17181,alan_r_vogeler,,559.838,564.179,"It has been repealed, but in all of the years in issue in this case it's presently in effect."
+1980.79-1423,0,15141,william_h_rehnquist,scotus_justice,567.24,569.662,It affects the judgment in this case?
+1980.79-1423,0,17181,alan_r_vogeler,,569.662,569.973,"Yes, Your Honor."
+1980.79-1423,0,15071,byron_r_white,scotus_justice,684.521,687.77,"Well, the equal protection issue was in Benjamin, wasn't it?"
+1980.79-1423,0,17181,alan_r_vogeler,,687.77,689.457,"--I'm sorry; I did not hear, Your Honor."
+1980.79-1423,0,15071,byron_r_white,scotus_justice,689.457,692.674,There was an equal protection issue in Benjamin.
+1980.79-1423,0,17181,alan_r_vogeler,,692.674,695.657,"Well, I will explain where I think--"
+1980.79-1423,0,15071,byron_r_white,scotus_justice,695.657,697.562,All right.
+1980.79-1423,0,17181,alan_r_vogeler,,697.562,700.031,--where I think that there may not have been the equal protection issue that is before Court.
+1980.79-1423,1,42960,timothy_g_laddish,,1707.624,1710.841,"Mr. Chief Justice, and may it please the Court:"
+1980.79-1423,1,15043,potter_stewart,scotus_justice,1908.653,1911.089,But in any event you've told us that the Ohio tax is irrelevant?
+1980.79-1423,1,42960,timothy_g_laddish,,1911.089,1913.089,"They are irrelevant, Your Honor."
+1980.79-1423,1,15043,potter_stewart,scotus_justice,1913.089,1915.527,What we're concerned with here is the California tax?
+1980.79-1423,1,42960,timothy_g_laddish,,1915.527,1917.807,California tax; that is true.
+1980.79-1423,1,15060,john_paul_stevens,scotus_justice,1950.215,1957.993,"But General Laddish, is it not true that the discrimination in Ohio is between domestic companies and all foreign insurance companies?"
+1980.79-1423,1,42960,timothy_g_laddish,,1957.993,1958.477,That is true.
+1980.79-1423,1,15060,john_paul_stevens,scotus_justice,1958.477,1968.005,"Whereas in California the discrimination is, say, between an Oklahoma insurance company and an Ohio insurance company and a Georgia insurance company; might pay three different tax rates?"
+1980.79-1423,1,42960,timothy_g_laddish,,1968.005,1969.458,"Yes, Your Honor."
+1980.79-1423,1,15060,john_paul_stevens,scotus_justice,1969.458,1971.223,Quite a different problem.
+1980.79-1423,1,42960,timothy_g_laddish,,1971.223,1972.878,Right.
+1980.79-1423,1,15060,john_paul_stevens,scotus_justice,1972.878,1975.345,"That is, the former claim that we had in the Benjamin case."
+1980.79-1423,1,42960,timothy_g_laddish,,1975.345,1983.155,"But, Your Honor, I think where we need to keep things straight is the fact of whether we're talking about the basic premiums tax law or talking about the retaliatory tax law."
+1980.79-1423,1,15060,john_paul_stevens,scotus_justice,1987.84,1988.324,I understand.
+1980.79-1423,1,42960,timothy_g_laddish,,2003.693,2007.083,"That's correct, Your Honor, and I will move on to the--"
+1980.79-1423,1,15060,john_paul_stevens,scotus_justice,2007.083,2029.167,"And while I've interrupted you, would the issue be the same if, say, we thought of it in terms of individual income tax and the State of Virginia used a retaliatory scheme against, say, Maryland and West Virginia, and so that a Maryland citizen working in Virginia paid one tax rate to Virginia and a West Virginia citizen working across the, commuting across, might pay a different rate."
+1980.79-1423,1,42960,timothy_g_laddish,,2030.011,2033.306,"--Well, it would certainly be a different case, Your Honor, because there's--"
+1980.79-1423,1,15060,john_paul_stevens,scotus_justice,2033.306,2035.243,"But in equal protection terms, would it be the same issue?"
+1980.79-1423,1,42960,timothy_g_laddish,,2035.243,2039.289,"--Equal protection terms, when we get into that, it would be--"
+1980.79-1423,1,15060,john_paul_stevens,scotus_justice,2039.289,2040.756,The idea being that--
+1980.79-1423,1,42960,timothy_g_laddish,,2040.756,2058.717,"--very similar, and yet you cannot ignore the fact that here we have an interstate business, that the business of insurance is an interstate, is in interstate commerce, where the Congress has removed the Commerce Clause... upon the state."
+1980.79-1423,1,15060,john_paul_stevens,scotus_justice,2058.717,2062.701,--I'm assuming the McCarran Act has taken all the Commerce Clause issues out of the case.
+1980.79-1423,1,42960,timothy_g_laddish,,2064.715,2077.086,"But remaining, Your Honor, is what is left, and what can the states do to perhaps take up the slack a bit and protect this interstate commerce on their own behalf?"
+1980.79-1423,1,15060,john_paul_stevens,scotus_justice,2089.706,2095.376,California is trying to encourage interstate insurance commerce by charging out-of-state companies more?
+1980.79-1423,1,42960,timothy_g_laddish,,2095.376,2099.919,"--That's what I have to convince you of, Your Honor, and I think--"
+1980.79-1423,1,15060,john_paul_stevens,scotus_justice,2099.919,2100.45,"Well, may I ask--"
+1980.79-1423,1,42960,timothy_g_laddish,,2120.896,2128.097,"--Your Honor, I have not considered that out of the current context of the case, which I think is a very special case."
+1980.79-1423,1,15140,william_j_brennan_jr,scotus_justice,2144.527,2149.93,"Mr. Laddish, I just want to be clear in your response to my brother Stewart a moment ago."
+1980.79-1423,1,42960,timothy_g_laddish,,2162.614,2175.156,"Your Honor... for purposes of the California tax, it is not a part of the mechanism that there must be a determination in Ohio."
+1980.79-1423,1,15140,william_j_brennan_jr,scotus_justice,2177.592,2178.763,"Well, the reason I asked--"
+1980.79-1423,1,42960,timothy_g_laddish,,2178.763,2189.993,"I think it is to the opinion of this Court as to whether or not... it certainly, the retaliatory tax is certainly more than one purpose, which I will be getting to."
+1980.79-1423,1,15140,william_j_brennan_jr,scotus_justice,2198.974,2218.246,"--Well, what that means to me, Mr. Laddish, is that California's purpose is, if possible, to get Ohio... since we're dealing with Ohio corporations doing business in California... so to adjust its tax structure as to... over it, so that you don't have to charge the higher rate, is that right?"
+1980.79-1423,1,42960,timothy_g_laddish,,2218.246,2219.654,"--That's part of it, Your Honor, yes, sir."
+1980.79-1423,1,15140,william_j_brennan_jr,scotus_justice,2230.085,2241.472,"Well, Mr. Vogeler suggested that he did not think that the California tax had had any impact whatever on the Ohio tax structure, to change it in any way."
+1980.79-1423,1,42960,timothy_g_laddish,,2242.034,2251.92,There has not been a change in the Ohio tax since the current California retaliatory tax statutes came into effect.
+1980.79-1423,1,15140,william_j_brennan_jr,scotus_justice,2268.647,2278.472,"Well, do you think it's a sufficient defense for the California tax if the only purpose were to try to get other states to lower theirs?"
+1980.79-1423,1,42960,timothy_g_laddish,,2278.472,2278.894,"Yes, Your Honor."
+1980.79-1423,1,15140,william_j_brennan_jr,scotus_justice,2278.894,2282.049,You think that's enough of a defense against--
+1980.79-1423,1,42960,timothy_g_laddish,,2282.049,2284.548,"Well, excuse me, Your Honor, I sprang to that answer."
+1980.79-1423,1,15071,byron_r_white,scotus_justice,2506.991,2510.317,--Are you arguing now Equal Protection or Commerce or both?
+1980.79-1423,1,42960,timothy_g_laddish,,2510.317,2516.626,--Right now I am trying to... I will tie in all the rules.
+1980.79-1423,1,15141,william_h_rehnquist,scotus_justice,2633.285,2640.327,"Mr. Laddish, you have dealt at some length with the purpose of the Ohio tax."
+1980.79-1423,1,42960,timothy_g_laddish,,2640.327,2643.748,"--No, this is the purpose of the California retaliatory tax."
+1980.79-1423,1,15141,william_h_rehnquist,scotus_justice,2643.748,2670.316,"Or of the California tax, and ordinarily in a state tax case it's presumed, you know, one state may tax income at ten percent, another at 30 percent, and we don't inquire into why one state chose to tax at ten percent and another at 30 percent."
+1980.79-1423,1,42960,timothy_g_laddish,,2678.11,2693.587,"Well, it certainly will become clear when we get to the equal protection argument, Your Honor, and also it is I think quite important here because I don't know if your reaction was the same as mine when I first heard of the California retaliatory tax."
+1980.79-1423,1,15141,william_h_rehnquist,scotus_justice,2783.848,2789.658,But we're not candidates for honorary membership in any of those amicus organizations.
+1980.79-1423,1,42960,timothy_g_laddish,,2791.86,2804.808,"Well, I know, Your Honor, but there have been questions as to whether or not the California stated purpose, whether it actually works is just pie-in-the-sky rhetoric?"
+1980.79-1423,1,15071,byron_r_white,scotus_justice,2824.784,2827.33,"Well, how many states have taxes similar to yours?"
+1980.79-1423,1,42960,timothy_g_laddish,,2827.33,2833.204,There are... I count 49 states that have taxes similar to ours.
+1980.79-1423,1,15071,byron_r_white,scotus_justice,2848.54,2853.367,"Do you think if you lose this case, all of those laws will--"
+1980.79-1423,1,42960,timothy_g_laddish,,2853.367,2854.288,"Yes, Your Honor."
+1980.79-1423,1,15060,john_paul_stevens,scotus_justice,2896.677,2901.098,"--General Laddish, I was unsuccessful with regard to the income tax."
+1980.79-1423,1,42960,timothy_g_laddish,,2919.12,2920.464,"Under the Equal Protection law, Your Honor, yes."
+1980.79-1423,1,15060,john_paul_stevens,scotus_justice,2942.206,2946.142,"But you're not arguing that there's anything unique about insurance, other than the history with the McCarran Act?"
+1980.79-1423,1,42960,timothy_g_laddish,,2953.062,2958.81,--It depends on exactly what we're grouping in the McCarran Act milieu there.
+1980.79-1423,1,15060,john_paul_stevens,scotus_justice,3008.726,3024.658,"As I understand the Equal Protection principle, it is that that discrimination that would otherwise be impermissible may be justified as rational if the motivation of it is to motivate the legislature of the state from which the nonresident comes to take some special action."
+1980.79-1423,1,42960,timothy_g_laddish,,3030.046,3037.605,"Yes, Your Honor, it's very similar to the case of Hawkins v. Moss that is cited on page 27 of the American Insurance Association brief."
+1980.79-1423,1,15060,john_paul_stevens,scotus_justice,3053.864,3061.486,"That's giving a... excusing a requirement, that you make them take a six-hour exam when nobody else did because they had a six-hour exam elsewhere."
+1980.79-1423,1,42960,timothy_g_laddish,,3061.486,3068.609,"--I don't see any difference, Your Honor, between saying you have to take this exam, and saying you have to take a six-hour exam."
+1980.79-1423,1,15140,william_j_brennan_jr,scotus_justice,3285.725,3299.954,"In other words, it wouldn't be enough, as I understand it, to prevent the application of the California tax that Ohio increased the rate for both domestic and foreign companies to the same level, but higher than California?"
+1980.79-1423,1,42960,timothy_g_laddish,,3299.954,3300.548,"That's correct, Your Honor."
+1980.79-1423,1,15140,william_j_brennan_jr,scotus_justice,3300.548,3305.076,You'd still tax the Ohio corporation in California on the difference.
+1980.79-1423,1,42960,timothy_g_laddish,,3305.076,3311.151,"That's correct, Your Honor, because of the purposes, in addition to discrimination, it's to--"
+1980.79-1423,1,15140,william_j_brennan_jr,scotus_justice,3311.151,3327.692,"So the only thing that would satisfy California is if your tax law had the impact of compelling the Ohio Legislature or leading them, in any event, to reducing the tax on at least the foreign corporation below the California tax?"
+1980.79-1423,1,42960,timothy_g_laddish,,3327.692,3328.113,--Or below.
+1980.79-1423,1,15071,byron_r_white,scotus_justice,3330.738,3336.532,It would be satisfactory if Ohio only reduced the tax on California companies?
+1980.79-1423,1,42960,timothy_g_laddish,,3336.532,3341.077,It would be satisfied if Ohio reduced the tax on California companies--
+1980.79-1423,1,15140,william_j_brennan_jr,scotus_justice,3341.077,3342.468,Not on foreign corporations?
+1980.79-1423,1,42960,timothy_g_laddish,,3344.232,3345.621,"--Well, they could."
+1980.79-1423,1,15071,byron_r_white,scotus_justice,3429.635,3434.82,--I take it that your argument on the Equal Protection Clause is wholly aside from the McCarran Act.
+1980.79-1423,1,42960,timothy_g_laddish,,3442.411,3459.998,"It's slightly different, Your Honor, in that Prudential v. Benjamin pointed out that here the states and Congress have acted together and that it would add even more strength to the presumption that the state tax statute is constitutional as against an equal protection challenge or any other constitutional challenges."
+1980.79-1423,1,15071,byron_r_white,scotus_justice,3459.998,3462.169,"Well, but that's... it barely mentioned equal protection."
+1980.79-1423,1,42960,timothy_g_laddish,,3462.169,3464.262,"They do mention, Your Honor--"
+1980.79-1423,1,15071,byron_r_white,scotus_justice,3464.262,3464.793,I know.
+1980.79-1423,1,42960,timothy_g_laddish,,3465.902,3467.025,--They barely mention--
+1980.79-1423,1,15071,byron_r_white,scotus_justice,3467.025,3471.821,But it wasn't one of the questions even raised and presented in the state courts or here.
+1980.79-1423,1,42960,timothy_g_laddish,,3471.821,3474.601,"--It was not raised by Prudential; no, Your Honor."
+1980.79-1423,1,15071,byron_r_white,scotus_justice,3488.72,3489.08,"Yes, I know."
+1980.79-1423,1,42960,timothy_g_laddish,,3489.08,3494.952,It does not... I'm sure you and I are both aware... but I am not relying upon Benjamin for--
+1980.79-1423,1,15071,byron_r_white,scotus_justice,3494.952,3496.436,Nor the McCarran Act.
+1980.79-1423,1,42960,timothy_g_laddish,,3496.436,3499.512,"--Nor the McCarran Act, Your Honor, directly."
+1980.79-1423,1,15140,william_j_brennan_jr,scotus_justice,3521.817,3526.08,And it's only the rationale of the level of scrutiny that applies.
+1980.79-1423,1,42960,timothy_g_laddish,,3526.08,3526.345,"Yes, Your Honor."
+1980.79-1423,1,15071,byron_r_white,scotus_justice,3551.304,3554.271,But the tax depends on residence?
+1980.79-1423,1,42960,timothy_g_laddish,,3557.271,3561.612,"Yes, Your Honor, the state of incorporation."
+1980.79-1423,1,15071,byron_r_white,scotus_justice,3561.612,3563.533,It doesn't make any difference where the principal office is?
+1980.79-1423,1,42960,timothy_g_laddish,,3563.533,3567.516,"That issue has never arisen, Your Honor, and it does not arise in this case."
+1980.79-1423,1,15071,byron_r_white,scotus_justice,3569.734,3585.009,"Well, I don't know why it wouldn't arise, if you're talking about equal protection, if you're talking about rationality to have your tax determined on just where you happen to be incorporated."
+1980.79-1423,1,42960,timothy_g_laddish,,3591.6,3596.286,"I think, Your Honor, you'll find that that's usually the case with insurance companies."
+1980.79-1423,1,15071,byron_r_white,scotus_justice,3601.174,3609.249,That's the... I suppose you say that is the determining factor in all these 49 laws?
+1980.79-1423,1,42960,timothy_g_laddish,,3609.249,3610.578,"I believe so, Your Honor; yes."
+1980.79-1423,1,15073,warren_e_burger,scotus_justice,3645.002,3646.454,Thank you.
+1980.79-1423,2,17181,alan_r_vogeler,,3647.657,3649.625,Yes.
+1980.79-1423,2,15073,warren_e_burger,scotus_justice,3649.625,3653.155,You have three minutes remaining.
+1980.79-1423,2,17181,alan_r_vogeler,,3653.155,3653.718,Thank you.
+1980.79-1423,2,15141,william_h_rehnquist,scotus_justice,3743.805,3750.132,What do you do with sun belt non-reciprocative admissions to the bar?
+1980.79-1423,2,17181,alan_r_vogeler,,3767.155,3767.951,"Yes, Your Honor."
+1980.79-1423,2,15141,william_h_rehnquist,scotus_justice,3780.791,3787.054,"Well, but we're talking about state power whether it's exercised by a court or by a legislature."
+1980.79-1423,2,17181,alan_r_vogeler,,3787.054,3787.664,"That's correct, Your Honor."
+1980.79-1423,2,15073,warren_e_burger,scotus_justice,3854.261,3855.98,"Thank you, gentlemen."

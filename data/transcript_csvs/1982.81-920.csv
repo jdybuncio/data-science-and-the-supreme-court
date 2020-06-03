@@ -1,0 +1,162 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1982.81-920,0,15073,warren_e_burger,scotus_justice,0.0,10.369,We will hear arguments first this morning in Verlinden against Central Bank of Nigeria.
+1982.81-920,0,15666,abram_chayes,,16.164,21.88,"Thank you, Mr. Chief Justice, and may it please the Court:"
+1982.81-920,0,15073,warren_e_burger,scotus_justice,176.395,180.08,Absent that act what would be the situation in this case?
+1982.81-920,0,15666,abram_chayes,,180.08,182.221,--Absent that act we don't believe there would be jurisdiction.
+1982.81-920,0,15073,warren_e_burger,scotus_justice,182.221,183.082,Wouldn't be anything.
+1982.81-920,0,15666,abram_chayes,,183.082,184.314,"No, sir."
+1982.81-920,0,15092,sandra_day_oconnor,scotus_justice,223.158,236.341,"Mr. Chayes, is the absence of sovereign immunity as defined in the act an element of the plaintiff's cause of action, or is it an affirmative defense, in your view?"
+1982.81-920,0,15666,abram_chayes,,236.341,257.785,"We believe it is an element of the plaintiff's case, because it is a jurisdictional requirement under 1330 that sovereign immunity must be absent the federal rules, and in the absence of the federal rules, general pleading principles require that the plaintiff plead and prove subject matter jurisdiction in order to establish his case."
+1982.81-920,0,15092,sandra_day_oconnor,scotus_justice,372.427,374.268,"Why was that, Mr. Chayes?"
+1982.81-920,0,15666,abram_chayes,,374.268,378.206,"--Well, that was because of the opinions of this Court."
+1982.81-920,0,15071,byron_r_white,scotus_justice,378.206,385.311,So it was a... Do you think it was grounded in the Constitution?
+1982.81-920,0,15666,abram_chayes,,385.311,386.185,No.
+1982.81-920,0,15141,william_h_rehnquist,scotus_justice,452.721,460.451,"Mr. Chayes, before the Foreign Sovereign Immunities Act, there would have been no jurisdictional basis for a federal court to entertain this particular suit, would there?"
+1982.81-920,0,15666,abram_chayes,,460.451,464.779,"--It is not clear, Your Honor."
+1982.81-920,0,15073,warren_e_burger,scotus_justice,599.397,611.139,"Would you say, Mr. Chayes, that this dichotomy that was developed in 1952 is somewhat analogous to the old concept of proprietary and governmental functions?"
+1982.81-920,0,15666,abram_chayes,,611.139,611.689,Yes.
+1982.81-920,0,15104,thurgood_marshall,scotus_justice,663.744,670.18,"Assuming that a foreign country had no assets in this country, how would you--"
+1982.81-920,0,15666,abram_chayes,,670.18,675.051,You could not enforce if there were no assets.
+1982.81-920,0,15141,william_h_rehnquist,scotus_justice,849.652,856.059,"--Mr. Chayes, you made the statement that it was the purpose of the Act to concentrate the litigation in the federal courts."
+1982.81-920,0,15666,abram_chayes,,856.059,856.776,"Yes, sir."
+1982.81-920,0,15141,william_h_rehnquist,scotus_justice,856.776,860.088,As opposed to state court suits?
+1982.81-920,0,15666,abram_chayes,,860.088,861.866,"Yes, indeed, Your Honor."
+1982.81-920,0,15071,byron_r_white,scotus_justice,1087.402,1096.445,We don't need to decide the case on any broader basis for you to win than to say that the Congress may vest the decision of any federal question on that.
+1982.81-920,0,15666,abram_chayes,,1096.445,1096.975,Yes.
+1982.81-920,0,15071,byron_r_white,scotus_justice,1097.615,1099.35,Whether it is in defense or--
+1982.81-920,0,15666,abram_chayes,,1099.35,1101.472,--That is correct.
+1982.81-920,0,15045,harry_a_blackmun,scotus_justice,1137.444,1142.143,--Does that still leave you with the question of a substantial connection?
+1982.81-920,0,15666,abram_chayes,,1142.143,1143.379,"No, Your Honor."
+1982.81-920,0,15073,warren_e_burger,scotus_justice,1189.405,1190.217,Very well.
+1982.81-920,1,37751,paul_m_bator,,1199.435,1223.971,"Mr. Chief Justice, and may it please the Court, it is the government's submission in this case that important diplomatic and foreign relations interests of the United States will be adversely affected if the holding of the court of appeals is affirmed, and if suits by foreigners against foreign countries are relegated to the state courts."
+1982.81-920,1,15141,william_h_rehnquist,scotus_justice,1276.122,1297.41,"Well, do you think under Article I Congress could simply pass a statute that said any time a foreign government wants to sue or be... or someone wants to sue a foreign government in this country, we aren't laying down any sort of law at all to govern the suits, but the federal district court shall have original jurisdiction?"
+1982.81-920,1,37751,paul_m_bator,,1297.41,1311.121,"There would be an antecedent question in that case, Justice Rehnquist, which is whether the transaction sued on has such connection to the United States that it is a legitimate, rational--"
+1982.81-920,1,15141,william_h_rehnquist,scotus_justice,1311.121,1315.512,"Well, supposing Congress said, we don't care whether the transaction had any rational connection."
+1982.81-920,1,37751,paul_m_bator,,1321.868,1334.658,"--Well, I can conceive of a case where the suit by a foreigner against a foreign country would be so foreign to any substantive American concern whatever that it shouldn't be in an American court at all."
+1982.81-920,1,15141,william_h_rehnquist,scotus_justice,1334.658,1337.018,Even though Congress had said it should?
+1982.81-920,1,37751,paul_m_bator,,1337.018,1357.993,"It is conceivable that there is a case that has nothing to do with the United States, and where it shouldn't be in an American court at all, but this statute and this case is so far from that extreme problem that really this Court, I think, does not need to be concerned with it."
+1982.81-920,1,15092,sandra_day_oconnor,scotus_justice,1357.993,1367.773,Under what provision of the Constitution would you determine under Justice Rehnquist's example that it could not be in the federal court?
+1982.81-920,1,37751,paul_m_bator,,1367.773,1383.234,"I assume that the relevant question whether it would be a rational judgment by Congress to decide that in regulating the foreign relations and foreign commerce of the United States, the case should be assigned to an American court."
+1982.81-920,1,15092,sandra_day_oconnor,scotus_justice,1385.078,1389.591,You would have to rest it on the federal protective jurisdiction concept.
+1982.81-920,1,37751,paul_m_bator,,1390.293,1402.366,"--It may be... it may be that... you see, if the case is going to be in an American court, then it seems to me there clearly must be protective jurisdiction to put it in a federal court."
+1982.81-920,1,15092,sandra_day_oconnor,scotus_justice,1475.961,1496.11,"Under your view, Mr. Bator, as I understand it, then, you think we cannot simply resolve the case by dealing with the arising under question discussed by Mr. Chayes, but in fact have to also discuss the protective jurisdiction question."
+1982.81-920,1,37751,paul_m_bator,,1497.72,1502.762,"No, I believe I misspoke if that is the impression I gave."
+1982.81-920,1,15073,warren_e_burger,scotus_justice,1637.724,1640.816,"Well, in the state court it could be moved rather readily, couldn't it?"
+1982.81-920,1,37751,paul_m_bator,,1640.816,1643.535,"It could be removed, Mr. Chief Justice?"
+1982.81-920,1,15073,warren_e_burger,scotus_justice,1643.535,1644.065,"Yes, could it?"
+1982.81-920,1,37751,paul_m_bator,,1644.408,1654.937,"Well, in order for the case to be removable by the foreign government, it would have to first be determined that it is a case arising under federal law for purposes of Article III."
+1982.81-920,1,15073,warren_e_burger,scotus_justice,1668.526,1670.944,Does this case arise under the '76 Act?
+1982.81-920,1,37751,paul_m_bator,,1670.944,1672.289,"Yes, Mr. Chief Justice."
+1982.81-920,1,15073,warren_e_burger,scotus_justice,1707.493,1712.286,What did Congress say about state court jurisdiction in the '76 Act?
+1982.81-920,1,37751,paul_m_bator,,1712.286,1733.983,"Congress permitted plaintiffs to choose a state court, but Congress very plainly said that in any case where the plaintiff chooses a state court, the defendant foreign government has an automatic right to take it to federal court, and Congress in its reports made it very clear why it wished that removal power to exist."
+1982.81-920,1,15073,warren_e_burger,scotus_justice,1757.536,1766.751,Is there any explanation in the legislative history as to why the state court jurisdiction provision was given and... with one hand and taken away with the other?
+1982.81-920,1,37751,paul_m_bator,,1766.751,1780.307,"I think, Your Honor, that the Congress did not feel it wanted to cut down on the plaintiff's right to choose a forum if the foreign government agreed to stay in state court."
+1982.81-920,1,15073,warren_e_burger,scotus_justice,1808.031,1809.965,Very well.
+1982.81-920,2,42052,stephen_n_shulman,,1814.419,1821.633,"Mr. Chief Justice, and may it please the Court, this is a suit on a letter of credit."
+1982.81-920,2,15141,william_h_rehnquist,scotus_justice,2022.114,2025.675,"The court of appeals didn't agree with you on that point, did it?"
+1982.81-920,2,42052,stephen_n_shulman,,2030.689,2032.299,"That is correct, Justice Rehnquist."
+1982.81-920,2,15141,william_h_rehnquist,scotus_justice,2179.892,2193.919,"But according to Mr. Chayes, to properly plead a case that will entitle you... the district court to have jurisdiction, you have to plead not only that it is a foreign sovereign, but that it is not entitled to immunity."
+1982.81-920,2,42052,stephen_n_shulman,,2193.919,2213.318,"That is correct, Justice Rehnquist, but the reason why you must plead it is because the federal rules require you to make a statement of the jurisdictional basis of the claim, and that same rule, which I believe is Federal Rule 8, goes on to say that the claim itself is set forth separately."
+1982.81-920,2,15104,thurgood_marshall,scotus_justice,2218.673,2220.736,And the statute requires it.
+1982.81-920,2,42052,stephen_n_shulman,,2232.294,2237.98,"Your Honor, the statute provides for jurisdiction when the foreign state is not immune."
+1982.81-920,2,15104,thurgood_marshall,scotus_justice,2239.322,2242.76,The state is not entitled to immunity.
+1982.81-920,2,42052,stephen_n_shulman,,2242.76,2243.867,"That is correct, Your Honor."
+1982.81-920,2,15104,thurgood_marshall,scotus_justice,2243.867,2246.803,"Well, if the statute says it, you certainly have to allege it."
+1982.81-920,2,42052,stephen_n_shulman,,2246.803,2250.567,You allege it as part of your jurisdictional statement.
+1982.81-920,2,15104,thurgood_marshall,scotus_justice,2250.567,2251.943,The statute says so.
+1982.81-920,2,42052,stephen_n_shulman,,2251.943,2271.105,"Justice Marshall, let me draw your attention to the legislative history of this statute, which is cited in the brief filed by Guinea as an amicus curiae, and I quote from the House report as follows:"
+1982.81-920,2,15104,thurgood_marshall,scotus_justice,2313.903,2319.398,"In this case, didn't the complaint set forth the reasons against sovereign immunity?"
+1982.81-920,2,42052,stephen_n_shulman,,2325.632,2335.767,"--Well, Your Honor, I do not have the specific complaint of the Verlinden Company in this case."
+1982.81-920,2,15104,thurgood_marshall,scotus_justice,2335.767,2337.331,"Well, this is a couple of weeks ago."
+1982.81-920,2,42052,stephen_n_shulman,,2337.331,2338.641,But the--
+1982.81-920,2,15104,thurgood_marshall,scotus_justice,2338.641,2341.874,I am trying to see how much of an issue this is.
+1982.81-920,2,42052,stephen_n_shulman,,2341.874,2347.731,--It is not... It is not an issue in the sense of arising under.
+1982.81-920,2,15141,william_h_rehnquist,scotus_justice,2380.436,2387.638,"Well, don't you have to allege all of the jurisdictional elements?"
+1982.81-920,2,42052,stephen_n_shulman,,2411.284,2428.825,"That is correct, Justice Rehnquist, but the logical extension of that point in terms of the point that Justice Marshall was making would mean that a diversity case was a case arising under a federal law, because you had to plead in your case as an element of your case the diverse citizenship of--"
+1982.81-920,2,15141,william_h_rehnquist,scotus_justice,2428.825,2436.039,"Well, but I think the difference is, diversity, the diversity statute confers jurisdiction only, without any substantive requirement."
+1982.81-920,2,42052,stephen_n_shulman,,2449.095,2467.029,"--That doesn't vary appreciably from the fact that you have to determine what the citizenship of a corporation is, and the standard, which is that the corporation would be a citizen of the states in which it does business and the state in which it is incorporated, is a substantive law, if you will, in that same sense."
+1982.81-920,2,15141,william_h_rehnquist,scotus_justice,2467.029,2468.979,But there has to be a line somewhere.
+1982.81-920,2,42052,stephen_n_shulman,,2475.838,2480.724,"The Federal Arbitration Act, of course, does not provide jurisdiction."
+1982.81-920,2,15141,william_h_rehnquist,scotus_justice,2480.724,2482.537,"Oh, yes, it does, doesn't it?"
+1982.81-920,2,42052,stephen_n_shulman,,2482.537,2483.645,I don't believe so.
+1982.81-920,2,15141,william_h_rehnquist,scotus_justice,2483.645,2487.613,I thought it is a basis for federal jurisdiction.
+1982.81-920,2,42052,stephen_n_shulman,,2491.891,2501.762,"Mr. Justice, my impression of the Arbitration Act is that it is not jurisdictional."
+1982.81-920,2,15073,warren_e_burger,scotus_justice,2501.762,2517.286,--Must the complaint affirmatively recite that the transaction on which the claim is based was a transaction involving the proprietary commercial interests of the sovereign?
+1982.81-920,2,42052,stephen_n_shulman,,2521.084,2527.05,"I think the answer to that question, Mr. Chief Justice, is no."
+1982.81-920,2,15073,warren_e_burger,scotus_justice,2538.904,2545.822,"You let it go to the proof, the evidence, to determine that it was a proprietary commercial function."
+1982.81-920,2,42052,stephen_n_shulman,,2546.964,2551.539,"--Because, among other things, that is not the only basis for determining non-immunity."
+1982.81-920,2,15060,john_paul_stevens,scotus_justice,2569.188,2571.952,"Mr. Shulman, may I ask you another question?"
+1982.81-920,2,42052,stephen_n_shulman,,2602.724,2604.143,"Yes, there certainly would."
+1982.81-920,2,15060,john_paul_stevens,scotus_justice,2604.143,2611.154,"Does it not then follow that within the meaning of Article III, that the case arises under the laws of the United States?"
+1982.81-920,2,42052,stephen_n_shulman,,2611.154,2617.089,"No, it does not follow, because Article III requires two things."
+1982.81-920,2,15060,john_paul_stevens,scotus_justice,2647.47,2651.998,"If the letter was not breached, but assume they enter a judgment against the foreign sovereign, is my hypothetical."
+1982.81-920,2,42052,stephen_n_shulman,,2651.998,2654.824,--In the case where the judgment was entered against the foreign sovereign--
+1982.81-920,2,15060,john_paul_stevens,scotus_justice,2654.824,2655.37,Right.
+1982.81-920,2,42052,stephen_n_shulman,,2655.37,2658.978,"--then this Court would review, and in that case you would have a case or controversy."
+1982.81-920,2,15060,john_paul_stevens,scotus_justice,2658.978,2663.181,You would have a case arising under this constitutional or federal law.
+1982.81-920,2,42052,stephen_n_shulman,,2663.181,2663.727,That's correct.
+1982.81-920,2,15060,john_paul_stevens,scotus_justice,2663.727,2665.493,"Why don't we have that now, then?"
+1982.81-920,2,42052,stephen_n_shulman,,2665.493,2670.131,Because in the context of original jurisdiction--
+1982.81-920,2,15060,john_paul_stevens,scotus_justice,2670.131,2673.628,But the Article III doesn't draw that distinction.
+1982.81-920,2,42052,stephen_n_shulman,,2673.628,2690.03,"--The whole basis of the independent state ground rule, Your Honor, is, I believe, that whenever the Court has appellate jurisdiction, it does not necessarily follow that a federal court had original jurisdiction."
+1982.81-920,2,15060,john_paul_stevens,scotus_justice,2690.03,2700.667,"I know that is true as a statutory matter, but just confining our attention to the language of the first few words of Article III, Section 2, I am not sure that you don't have a problem."
+1982.81-920,2,42052,stephen_n_shulman,,2700.667,2709.083,"I believe that is because you are excluding from that confining the words ""case or controversy""."
+1982.81-920,2,15060,john_paul_stevens,scotus_justice,2709.083,2710.912,But we do have a case or controversy.
+1982.81-920,2,42052,stephen_n_shulman,,2710.912,2719.44,Because you do not have a case or controversy under... involving the Foreign Sovereign Immunities Act until that issue is raised and litigated.
+1982.81-920,2,15060,john_paul_stevens,scotus_justice,2748.148,2750.3,"But that case would not have been reviewable here, either."
+1982.81-920,2,42052,stephen_n_shulman,,2761.064,2762.159,--That's correct.
+1982.81-920,2,15060,john_paul_stevens,scotus_justice,2762.159,2779.618,"So it seems to me that as long as the sovereign immunity defense is maintained, and if you agree that we would have appellate jurisdiction over a state case which has no other federal question in it, then does it not follow within the meaning of Article III that that case arises under federal law?"
+1982.81-920,2,42052,stephen_n_shulman,,2779.618,2780.838,No.
+1982.81-920,2,15073,warren_e_burger,scotus_justice,2801.938,2807.436,What if on these facts the case had been brought prior to 1976 and before the Act?
+1982.81-920,2,42052,stephen_n_shulman,,2808.591,2814.386,"Prior to 1976, there would be no basis for federal jurisdiction in this case."
+1982.81-920,2,15073,warren_e_burger,scotus_justice,2814.386,2819.931,--Even if the executive branch raised no objection?
+1982.81-920,2,42052,stephen_n_shulman,,2819.931,2823.413,There would have been no way to get into the federal court.
+1982.81-920,2,15073,warren_e_burger,scotus_justice,2828.988,2830.646,How about state court?
+1982.81-920,2,42052,stephen_n_shulman,,2830.646,2833.317,The case could have been brought in a state court.
+1982.81-920,2,15073,warren_e_burger,scotus_justice,2859.008,2873.002,"But now, in 1976, Congress has said a suit may be brought in states and granting removal jurisdiction to a federal court, has it not?"
+1982.81-920,2,42052,stephen_n_shulman,,2873.002,2875.534,"That's correct, and I believe--"
+1982.81-920,2,15073,warren_e_burger,scotus_justice,2875.534,2882.467,Then does that act... does not that action arise under that statute?
+1982.81-920,2,42052,stephen_n_shulman,,2882.467,2902.756,"--Mr. Chief Justice, the question of when a claim arises, a claim arises under a statute involves whether or not the source of the right that you are asserting is a federal law or not."
+1982.81-920,2,15071,byron_r_white,scotus_justice,3044.246,3058.147,"Why is that... Why would you say that is arising under, or why would you say that... certainly the substantive rule of those removal cases isn't necessarily federal law."
+1982.81-920,2,42052,stephen_n_shulman,,3058.147,3074.685,"That's correct, Your Honor, but the necessity for a federal officer to be able to perform his duties without impediment by the state is a federal matter of... basic to the whole issue."
+1982.81-920,2,15071,byron_r_white,scotus_justice,3074.685,3087.023,You don't think the federal government has the same sort of an interest in assuring foreign governments that they can litigate in the right forum?
+1982.81-920,2,42052,stephen_n_shulman,,3087.023,3118.824,"That is exactly the point that I am trying to get at, Mr. Justice White, and it is that there is a difference between the federal interest in the ultimate issue at stake and the federal interest in an issue along the way, that the issue, the ultimate issue at stake here is whether or not this letter of credit has been breached, and whether or not this letter of credit is enforceable, and the federal government doesn't have any interest in that question at all."
+1982.81-920,2,15071,byron_r_white,scotus_justice,3118.824,3124.884,It's got an interest in not making some foreign government made.
+1982.81-920,2,42052,stephen_n_shulman,,3129.774,3144.144,It's interest in making sure that a foreign sovereign does not get mad can be adequately taken care of through appellate review of state court determinations on non-federal issues with non-diverse parties.
+1982.81-920,2,15071,byron_r_white,scotus_justice,3144.144,3150.14,"That's a long way around the mulberry bush, isn't it?"
+1982.81-920,2,42052,stephen_n_shulman,,3150.14,3161.324,"You know, the state has an interest, the state has an interest in making determinations as to the enforceability of contracts within its state."
+1982.81-920,2,15104,thurgood_marshall,scotus_justice,3180.799,3184.956,Didn't Congress say that they had an interest in this?
+1982.81-920,2,42052,stephen_n_shulman,,3184.956,3187.253,"Yes, they did."
+1982.81-920,2,15104,thurgood_marshall,scotus_justice,3191.265,3198.619,"Well, who better... What better area of government is to determine that, what the federal interest is, than Congress?"
+1982.81-920,2,42052,stephen_n_shulman,,3198.619,3205.697,"Your Honor, Congress clearly in the arm of government to determine what its federal interest is."
+1982.81-920,2,15104,thurgood_marshall,scotus_justice,3205.697,3212.74,"And Congress said that in this type of case, the federal courts shall be open to this type of action."
+1982.81-920,2,42052,stephen_n_shulman,,3212.74,3220.051,And this Court... Then this Court sits to ensure that the Congress does not open federal courts to cases--
+1982.81-920,2,15104,thurgood_marshall,scotus_justice,3220.051,3227.64,"Then it violates the Constitution of the United States, the action of Congress?"
+1982.81-920,2,42052,stephen_n_shulman,,3228.673,3230.935,--If it calls for--
+1982.81-920,2,15104,thurgood_marshall,scotus_justice,3230.935,3231.608,--Does it?
+1982.81-920,2,42052,stephen_n_shulman,,3231.608,3232.388,--Yes.
+1982.81-920,2,15104,thurgood_marshall,scotus_justice,3232.388,3234.245,It does violate the Constitution--
+1982.81-920,2,42052,stephen_n_shulman,,3234.245,3234.717,Yes.
+1982.81-920,2,15104,thurgood_marshall,scotus_justice,3234.717,3235.793,--What provision?
+1982.81-920,2,42052,stephen_n_shulman,,3235.793,3247.446,Article III of the Constitution which provides that the judicial power shall exist in cases or controversies where there is a case arising under the laws--
+1982.81-920,2,15104,thurgood_marshall,scotus_justice,3247.446,3252.491,Doesn't it also say Congress shall determine the jurisdiction of the federal courts?
+1982.81-920,2,42052,stephen_n_shulman,,3252.491,3253.333,"--No, it does not, Your Honor."
+1982.81-920,2,15104,thurgood_marshall,scotus_justice,3263.094,3275.915,"And what in the Constitution decided that you cannot determine this action, this case?"
+1982.81-920,2,42052,stephen_n_shulman,,3275.915,3281.398,"Your Honor, the Article III--"
+1982.81-920,2,15104,thurgood_marshall,scotus_justice,3281.398,3282.369,I will make the question simpler.
+1982.81-920,2,42052,stephen_n_shulman,,3282.369,3283.04,--Thank you.
+1982.81-920,2,15104,thurgood_marshall,scotus_justice,3283.04,3295.176,"What, if anything, is there in the Constitution that says that this case shall not be decided by this Court?"
+1982.81-920,2,42052,stephen_n_shulman,,3295.176,3301.688,There is nothing in the Constitution that says this case shall not be decided by this Court.
+1982.81-920,2,15104,thurgood_marshall,scotus_justice,3310.482,3311.903,Could not?
+1982.81-920,2,42052,stephen_n_shulman,,3311.903,3312.778,Right.
+1982.81-920,2,15104,thurgood_marshall,scotus_justice,3318.712,3320.557,I know we will.
+1982.81-920,2,42052,stephen_n_shulman,,3320.557,3329.85,"That is the function of the judiciary, is to determine the constitutionality of legislative encroachments on the judiciary."
+1982.81-920,2,15104,thurgood_marshall,scotus_justice,3342.095,3343.907,Is the statute unconstitutional?
+1982.81-920,2,42052,stephen_n_shulman,,3343.907,3352.058,"If it means that the plaintiff does not have to be a citizen, it is unconstitutional, Your Honor."
+1982.81-920,2,15060,john_paul_stevens,scotus_justice,3376.265,3381.608,"Mr. Shulman, in your reference to the protective jurisdiction, you took care of the first three problems, but you didn't get to Tidwater."
+1982.81-920,2,42052,stephen_n_shulman,,3381.608,3465.014,All right.
+1982.81-920,2,15073,warren_e_burger,scotus_justice,3465.997,3468.45,Thank you.
+1982.81-920,3,15666,abram_chayes,,3473.087,3473.948,Mr. Chief Justice... Thank you.
+1982.81-920,3,15060,john_paul_stevens,scotus_justice,3620.871,3623.62,"Well, that is if the operation of an embassy is a proprietary function."
+1982.81-920,3,15666,abram_chayes,,3623.62,3630.226,"No, because it is a lease, and it would be a commercial contract within the meaning of 1605(a)(2)."
+1982.81-920,3,15073,warren_e_burger,scotus_justice,3641.066,3641.862,"Thank you, gentlemen."

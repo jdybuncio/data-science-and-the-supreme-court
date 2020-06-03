@@ -1,0 +1,234 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2008.07-1601,0,15086,john_g_roberts_jr,scotus_justice,0.0,9.772,"We will hear argument first this morning in Case 07-1601, Burlington Northern and Santa Fe Railway Company et al. v. United States."
+2008.07-1601,0,33975,kathleen_m_sullivan,,10.772,34.553,"Mr. Chief Justice, and may it please the Court: The court of appeals in this case untethered CERCLA liability for response costs from the plain statutory language of CERCLA section 107(a)( 3), and in so doing also imposed potentially crippling liability on entities with only the most attenuated connection to any harm."
+2008.07-1601,0,15086,john_g_roberts_jr,scotus_justice,101.33,121.409,"What if your shipper here knew that every time he delivered one of these truckloads of the chemical, one-third of it would end up on the ground and seeping through the ground, and no doubt about it, he knew that, and yet they kept sending it?"
+2008.07-1601,0,33975,kathleen_m_sullivan,,125.98,126.963,"--No, Your Honor."
+2008.07-1601,0,15113,anthony_m_kennedy,scotus_justice,147.793,162.819,"Well, suppose that it's Shell's truck -- that isn't this case, but suppose it's Shell's truck, and every time they make a delivery the driver catches the waste in a can, four or five gallons, and dumps it in the creek."
+2008.07-1601,0,33975,kathleen_m_sullivan,,165.402,172.639,"--Justice Kennedy, Shell might well be liable there, but not under 107(a)( 3), rather under 107(a)( 2), which provides--"
+2008.07-1601,0,15113,anthony_m_kennedy,scotus_justice,172.639,174.341,"I mean, hasn't it arranged for the disposal of the--"
+2008.07-1601,0,33975,kathleen_m_sullivan,,174.341,185.364,"--You wouldn't reach arranger liability there, Your Honor, because as in the Amcast case, when Judge Posner said the truck is a facility, the truck would be a facility that Shell owns or operates in that instance."
+2008.07-1601,0,15113,anthony_m_kennedy,scotus_justice,189.767,191.969,"--Well, I'm -- I'm not sure that I agree with your answer."
+2008.07-1601,0,33975,kathleen_m_sullivan,,200.473,206.912,"Well, Your Honor, we believe, under arranger liability, Shell would never be an arranger here."
+2008.07-1601,0,15042,david_h_souter,scotus_justice,208.129,211.847,What if Shell went out of business and it had some stuff left in the tanks?
+2008.07-1601,0,33975,kathleen_m_sullivan,,216.335,217.301,"--That's correct, Your Honor."
+2008.07-1601,0,15042,david_h_souter,scotus_justice,217.301,220.303,"--That would be an eccentric situation, but it could happen."
+2008.07-1601,0,33975,kathleen_m_sullivan,,220.303,230.927,"Justice Souter, if Shell had residual waste product that it was seeking to dispose, then the natural reading of 107(a)( 3) would apply because that would be waste product--"
+2008.07-1601,0,15113,anthony_m_kennedy,scotus_justice,230.927,242.402,Why isn't that the case in my hypothetical -- it's just a hypothetical -- where the driver catches the five gallons that spills out of the hose every week and dumps it in the creek?
+2008.07-1601,0,33975,kathleen_m_sullivan,,242.402,243.552,--Your Honor--
+2008.07-1601,0,15113,anthony_m_kennedy,scotus_justice,243.552,248.556,"That's really the same as the question you answered Justice Souter, and that's an arranger under 3."
+2008.07-1601,0,33975,kathleen_m_sullivan,,248.556,259.578,"--Your Honor, the key difference in the two hypotheticals that you've posed is that Shell is the owner and operator of the disposal of waste there, and therefore it would be a 107(a)( 2) case, not an arranger case."
+2008.07-1601,0,15084,ruth_bader_ginsburg,scotus_justice,261.864,289.633,"So, Ms. Sullivan, would it be altogether different if, instead of the FOB destination> [""] term, Shell continued as owner of the product until it had gone from -- from the hose or whatever delivers it, so that there is no transfer of ownership until the delivery is complete?"
+2008.07-1601,0,33975,kathleen_m_sullivan,,289.633,291.966,"--Yes, Justice Ginsburg, that would be a different case."
+2008.07-1601,0,15084,ruth_bader_ginsburg,scotus_justice,320.866,364.245,"The problem I have with that line you're pursuing is the FOB destination> [""] term is an eminently fixable connection, and CERCLA is -- can be a punishing statute, but the one thing that was not intended was for the party to arrange themselves out of arranger liability by providing neatly that the moment the product reaches a destination there's no continuing responsibility on the part of the seller."
+2008.07-1601,0,33975,kathleen_m_sullivan,,364.245,368.799,"--Justice Ginsburg, that is correct with respect to arranging for the disposal of waste."
+2008.07-1601,0,15113,anthony_m_kennedy,scotus_justice,391.163,393.164,Isn't it waste when it spills?
+2008.07-1601,0,33975,kathleen_m_sullivan,,398.318,403.687,"--Justice Kennedy, it only matters for 3 if we arrange for it to spill."
+2008.07-1601,0,15113,anthony_m_kennedy,scotus_justice,408.441,411.126,They know that -- hypothetical.
+2008.07-1601,0,33975,kathleen_m_sullivan,,416.83,425.469,"--Well, Justice Kennedy, the district court found in this case that Shell had knowledge of spills at the site of the bulk unloading."
+2008.07-1601,0,15113,anthony_m_kennedy,scotus_justice,431.557,432.173,"I know, but--"
+2008.07-1601,0,33975,kathleen_m_sullivan,,432.173,432.773,--or.07 percent.
+2008.07-1601,0,15113,anthony_m_kennedy,scotus_justice,432.773,435.508,"--all I'm talking about is just a hypothetical definition of ""waste"", and then--"
+2008.07-1601,0,33975,kathleen_m_sullivan,,435.508,443.347,"Your Honor, even if the spills are waste, the key for arranger liability, the key for arranger liability is that you arrange for the spills."
+2008.07-1601,0,15113,anthony_m_kennedy,scotus_justice,443.347,454.322,"--But we were talking about waste, and I just wanted to get your agreement -- maybe you won't agree -- that when the product is delivered and 5 percent of it spills, that is waste."
+2008.07-1601,0,33975,kathleen_m_sullivan,,456.455,470.082,"Your Honor, the statute, CERCLA, by cross-reference to the Solid Waste Disposal Act, does include spills and leaks as possible waste, and the natural application of that definition would be to spills or leaks in a waste disposal."
+2008.07-1601,0,15068,samuel_a_alito_jr,scotus_justice,498.767,499.417,And what if Shell--
+2008.07-1601,0,33975,kathleen_m_sullivan,,499.417,500.001,--or that Shell knew about it.
+2008.07-1601,0,15068,samuel_a_alito_jr,scotus_justice,500.001,509.94,"--had the choice between two companies to do the shipping, and one would deliver it with no spillage whatsoever, but the other would deliver it with a certain amount, a small amount of spillage?"
+2008.07-1601,0,33975,kathleen_m_sullivan,,513.725,514.76,If Shell--
+2008.07-1601,0,15068,samuel_a_alito_jr,scotus_justice,514.76,517.426,Would it not be arranging under those circumstances?
+2008.07-1601,0,33975,kathleen_m_sullivan,,517.426,524.882,--It might well be because there would be an economic benefit to Shell from the arrangement for shipment in the leaky truck.
+2008.07-1601,0,15042,david_h_souter,scotus_justice,534.152,566.706,"But I thought your definition of -- of ""disposal"" implied the disposition of something whose use had, in effect, been exhausted, so that I would have thought your answer to Justice Alito's question would have been different because even in the case in which they hired a sloppy delivery, they're not getting rid of -- or the deliverer is not necessarily getting rid of a product whose use has been exhausted."
+2008.07-1601,0,33975,kathleen_m_sullivan,,566.706,567.606,"That is correct, Your Honor."
+2008.07-1601,0,15049,antonin_scalia,scotus_justice,568.273,580.264,I would have thought you would have similarly answered Justice Kennedy's question differently and would have said that just because something's wasted doesn't mean that it is waste.
+2008.07-1601,0,33975,kathleen_m_sullivan,,589.137,598.826,"--Justice Kennedy and Justice Souter, an easy way to hold this case and to reverse the court of appeals would be simply to hold that when a useful product is spilled, it is not waste."
+2008.07-1601,0,15086,john_g_roberts_jr,scotus_justice,615.604,622.876,But your -- your argument assumes a sharp distinction between useful product and waste.
+2008.07-1601,0,33975,kathleen_m_sullivan,,631.297,632.066,"--Correct, Your Honor."
+2008.07-1601,0,15086,john_g_roberts_jr,scotus_justice,675.409,675.826,"Well, that's--"
+2008.07-1601,0,33975,kathleen_m_sullivan,,675.826,676.778,--even if they had nothing to do with it.
+2008.07-1601,0,15086,john_g_roberts_jr,scotus_justice,676.778,678.611,--That's making it too easy for you.
+2008.07-1601,0,33975,kathleen_m_sullivan,,699.008,704.078,"Your Honor, there's no suggestion in the record here that we're in Justice Alito's example."
+2008.07-1601,0,15086,john_g_roberts_jr,scotus_justice,706.614,707.164,"No, no, I know."
+2008.07-1601,0,33975,kathleen_m_sullivan,,712.951,720.272,--There -- we believe there would not be because spilling a useful product while it's being delivered should not count as waste.
+2008.07-1601,0,15084,ruth_bader_ginsburg,scotus_justice,776.159,788.383,"Well, one -- one benefit would be avoiding CERCLA liability through a means other than what I call a fixable connection."
+2008.07-1601,0,33975,kathleen_m_sullivan,,813.748,828.091,"--Your Honor, this is the first and only case in the nation that has held that arranger liability applies to a mere sale of a useful product because a third-party purchaser, after acquiring possession and control, spilled the product."
+2008.07-1601,0,15060,john_paul_stevens,scotus_justice,853.741,854.825,"Ms. Sullivan, can I interrupt you?"
+2008.07-1601,0,33975,kathleen_m_sullivan,,867.983,869.335,"--No, we are not, Justice Stevens, and that's--"
+2008.07-1601,0,15060,john_paul_stevens,scotus_justice,869.335,871.203,I thought you did in your answer to Justice Alito.
+2008.07-1601,0,33975,kathleen_m_sullivan,,874.571,885.427,"--Justice Stevens, we concede that if there is a waste product that leaves Shell and Shell deliberately arranges for a leaky carrier, there would be no issue."
+2008.07-1601,0,15084,ruth_bader_ginsburg,scotus_justice,920.017,940.145,"I thought there was as part of this picture that Shell had a manual which told its purchasers how to handle this material, and that Shell was well aware that B&B was not following the precautions laid out in the manual."
+2008.07-1601,0,33975,kathleen_m_sullivan,,940.145,948.0,"--Justice Ginsburg, two points: The manual comes out only in 1978, and a Shell representative visits the site only in 1979."
+2008.07-1601,0,15086,john_g_roberts_jr,scotus_justice,977.437,978.787,"Thank you, counsel."
+2008.07-1601,1,36325,maureen_e_mahoney,,992.446,1011.693,"Mr. Chief Justice, and may it please the Court: I would like to start with section 912 of the Restatement because I think it really helps to demonstrate that the trial court fully understood and properly applied the common-law standards that govern the determination of apportionment in a pollution case."
+2008.07-1601,1,15084,ruth_bader_ginsburg,scotus_justice,1091.043,1094.431,"This court -- this court, Ms. Mahoney, didn't deny apportionment."
+2008.07-1601,1,36325,maureen_e_mahoney,,1126.383,1132.287,"--Your Honor, in note 16 of the Ninth Circuit's opinion it actually rejects that argument by the government."
+2008.07-1601,1,15084,ruth_bader_ginsburg,scotus_justice,1147.915,1154.569,Can you point to me the part of the district court opinion that conflicts with the part that I remember so well?
+2008.07-1601,1,36325,maureen_e_mahoney,,1158.771,1160.873,"--Oh, he does say that, Your Honor."
+2008.07-1601,1,15084,ruth_bader_ginsburg,scotus_justice,1197.998,1210.056,"Is it -- is it a judge's responsibility, no matter what evidence may be in the record from which one could make a finding, when a finding hasn't been sought?"
+2008.07-1601,1,36325,maureen_e_mahoney,,1210.056,1212.739,"--Well, Your Honor, the finding of apportionment was sought."
+2008.07-1601,1,15113,anthony_m_kennedy,scotus_justice,1291.191,1296.328,"And I suppose the district court, if it wanted additional evidence, could have said, I want additional evidence on this point."
+2008.07-1601,1,36325,maureen_e_mahoney,,1296.328,1297.378,--It absolutely could have.
+2008.07-1601,1,15086,john_g_roberts_jr,scotus_justice,1308.302,1320.693,"What if -- what if you have a situation where it's clear under apportionment one party is liable for one-tenth and the other is liable for nine-tenths, but one-tenth is enough to pollute the -- the water."
+2008.07-1601,1,36325,maureen_e_mahoney,,1323.062,1324.745,"It depends, but generally yes."
+2008.07-1601,1,15086,john_g_roberts_jr,scotus_justice,1337.739,1347.595,"Well, I assume it's not a linear, if that's the right word, progression, because once you've got to start a clean-up, you've got to start a clean-up, whether it's, you know, caused by one-tenth or -- or nine-tenths."
+2008.07-1601,1,36325,maureen_e_mahoney,,1347.595,1356.783,But it's that the whole cost -- the question under apportionment is: Are all of the damages attributable to the harm that was caused by the defendant?
+2008.07-1601,1,15084,ruth_bader_ginsburg,scotus_justice,1360.687,1364.889,But that hasn't been -- that hasn't been the position of most courts under CERCLA.
+2008.07-1601,1,36325,maureen_e_mahoney,,1390.456,1400.979,"--Well, Your Honor, under -- the government has acknowledged that the apportionment standards from the Restatement apply under the -- under CERCLA."
+2008.07-1601,1,15084,ruth_bader_ginsburg,scotus_justice,1444.341,1471.741,"I thought -- I thought -- and tell me if my recollection of the facts is incorrect -- that the -- the newer parcel that enabled B&B to expand its operation, the waste went into a pond, what was called South, that was on the other side, that was on the original B&B parcel."
+2008.07-1601,1,36325,maureen_e_mahoney,,1475.277,1497.493,"--The trial court found that it was plausible that some leakage, some spills on the railroad parcel, during the 13 years of the lease made it into the groundwater by traveling nearly two football fields in an area that hardly has any rain, but said that 9 percent was the maximum of damages that could possibly be attributable to this."
+2008.07-1601,1,15086,john_g_roberts_jr,scotus_justice,1556.764,1558.966,"Well, what about the issue of insolvency?"
+2008.07-1601,1,36325,maureen_e_mahoney,,1567.655,1575.393,"--Actually, that's -- Your Honor, what it actually says is that the district court in exceptional cases may deny apportionment due to insolvency."
+2008.07-1601,1,15086,john_g_roberts_jr,scotus_justice,1600.091,1600.959,"Thank you, counsel."
+2008.07-1601,2,36722,malcolm_l_stewart,,1605.928,1610.915,"Mr. Chief Justice, and may it please the Court: If I could begin with the issue of arranger liability."
+2008.07-1601,2,15139,stephen_g_breyer,scotus_justice,1639.334,1657.546,"So, how does that differ from you using your printer and there's an ink cartridge and you replace them after a while, and mine has a little thing attached that says don't put it in your ordinary garbage bin because it's dangerous or whatever it is, put it in this envelope and do something?"
+2008.07-1601,2,36722,malcolm_l_stewart,,1668.271,1669.488,"No, I don't think they would--"
+2008.07-1601,2,15139,stephen_g_breyer,scotus_justice,1669.488,1670.021,Because?
+2008.07-1601,2,36722,malcolm_l_stewart,,1670.021,1672.323,--I don't think they would be arrangers for the disposal.
+2008.07-1601,2,15139,stephen_g_breyer,scotus_justice,1672.323,1672.856,Because?
+2008.07-1601,2,36722,malcolm_l_stewart,,1672.856,1676.507,Because even though they might foresee that in some--
+2008.07-1601,2,15139,stephen_g_breyer,scotus_justice,1676.507,1677.376,"Oh, some?"
+2008.07-1601,2,36722,malcolm_l_stewart,,1683.113,1693.903,"--But I -- but first, I think under ordinary tort law principles a seller's knowledge that a certain percentage of its products would be misused would not be sufficient to give rise to liability--"
+2008.07-1601,2,15139,stephen_g_breyer,scotus_justice,1693.903,1695.338,Then how is that then different from Shell?
+2008.07-1601,2,36722,malcolm_l_stewart,,1707.729,1709.229,--There are two differences.
+2008.07-1601,2,15139,stephen_g_breyer,scotus_justice,1721.003,1727.309,"Well, now maybe HP knows that there is a particularly bad customer like Breyer who ----"
+2008.07-1601,2,36722,malcolm_l_stewart,,1734.13,1743.652,--The second difference here is that Shell arranged for the delivery and controlled the circumstances under which the delivery would be made.
+2008.07-1601,2,15139,stephen_g_breyer,scotus_justice,1755.21,1755.876,All right--
+2008.07-1601,2,36722,malcolm_l_stewart,,1755.876,1756.276,I think--
+2008.07-1601,2,15139,stephen_g_breyer,scotus_justice,1756.276,1766.398,"--So then, suddenly if HP, in fact, uses -- I guess they lease -- you know, they have a common carrier, imagine -- or suppose it's car batteries, same problem."
+2008.07-1601,2,36722,malcolm_l_stewart,,1781.091,1784.626,"--Again, at a certain point, once the product has been used by the customer--"
+2008.07-1601,2,15139,stephen_g_breyer,scotus_justice,1784.626,1785.993,I'm trying to find that point.
+2008.07-1601,2,36722,malcolm_l_stewart,,1804.706,1805.206,"--Well, no--"
+2008.07-1601,2,15139,stephen_g_breyer,scotus_justice,1805.206,1806.722,"Well, doesn't everybody do that?"
+2008.07-1601,2,36722,malcolm_l_stewart,,1806.722,1819.549,"--because the fact circumstance here was not that Shell or the common carrier transferred control of the D-D to B&B with instructions as to how it was to be used at a later date, and the customer then violated those instructions."
+2008.07-1601,2,15049,antonin_scalia,scotus_justice,1856.739,1857.172,Excuse me.
+2008.07-1601,2,36722,malcolm_l_stewart,,1873.267,1875.867,--The district court specifically declined to make a finding there.
+2008.07-1601,2,15049,antonin_scalia,scotus_justice,1876.385,1878.719,"What does FOB> [""] normally mean?"
+2008.07-1601,2,36722,malcolm_l_stewart,,1878.719,1882.02,"--It says FOB delivery> [""] or place of delivery."
+2008.07-1601,2,15049,antonin_scalia,scotus_justice,1895.261,1902.934,I think -- I think it's something of a misdescription to say that this spillage is occurring in the course of delivery.
+2008.07-1601,2,36722,malcolm_l_stewart,,1902.934,1903.767,--But the district court--
+2008.07-1601,2,15049,antonin_scalia,scotus_justice,1903.767,1906.886,"I think as far as Shell was concerned, delivery had been made when the truck pulled up."
+2008.07-1601,2,36722,malcolm_l_stewart,,1906.886,1914.14,"--Well, the district court specifically declined to find -- to make a finding as to who owned the D-D at the time it was spilled."
+2008.07-1601,2,15049,antonin_scalia,scotus_justice,1914.14,1914.825,You're making it.
+2008.07-1601,2,36722,malcolm_l_stewart,,1914.825,1927.632,"We don't think that our argument is dependent upon the question of ownership, because Shell undeniably had ownership and possession of the D-D at the time the arrangement was made, and--"
+2008.07-1601,2,15042,david_h_souter,scotus_justice,1927.632,1929.382,Is it dependent on the question of control?
+2008.07-1601,2,15060,john_paul_stevens,scotus_justice,1929.382,1930.084,But not at the time of the spill.
+2008.07-1601,2,36722,malcolm_l_stewart,,1930.084,1931.551,--That's correct.
+2008.07-1601,2,15139,stephen_g_breyer,scotus_justice,1947.713,1963.056,"So then, in your view, what it is, is a company arranges with a transporter for disposal when the company knows that the transporter on arrival may spill some of the product?"
+2008.07-1601,2,36722,malcolm_l_stewart,,1963.056,1963.739,--It's more than--
+2008.07-1601,2,15139,stephen_g_breyer,scotus_justice,1963.739,1975.463,"I guess then every oil company -- well, I mean, every liquid product company in the United States is going to be -- fall within that because a lot of people do spill things."
+2008.07-1601,2,36722,malcolm_l_stewart,,1975.463,1979.767,"--Knowledge might well be sufficient, but here we have more than knowledge; we have control."
+2008.07-1601,2,15042,david_h_souter,scotus_justice,1979.767,1982.802,"But why do we -- I mean, do we have control?"
+2008.07-1601,2,36722,malcolm_l_stewart,,2016.357,2022.261,"Well, as Ms. Sullivan said, the instructions were given in 1978, fairly far into the period of contamination."
+2008.07-1601,2,15042,david_h_souter,scotus_justice,2028.415,2032.985,"He says, we won't sell you to unless you -- you -- you have these tanks, correct?"
+2008.07-1601,2,36722,malcolm_l_stewart,,2032.985,2042.425,--And its contract with the common carrier required that the common carrier have particular equipment for pumping the D-D out of the truck and into the bulk storage facility.
+2008.07-1601,2,15042,david_h_souter,scotus_justice,2042.425,2047.476,"Okay, but what is your -- I mean, those -- no question, those are -- those are terms of their willingness to deal."
+2008.07-1601,2,36722,malcolm_l_stewart,,2057.35,2061.969,They have -- they have control of the process in the sense of defining the way it is to be done.
+2008.07-1601,2,15042,david_h_souter,scotus_justice,2082.216,2097.575,"So you don't -- maybe you do claim, I'm not sure of this -- that Shell actually could, in effect, get damages from its deliverer as a result of the -- the deliverer's incidental spillage."
+2008.07-1601,2,36722,malcolm_l_stewart,,2098.944,2099.727,--That is--
+2008.07-1601,2,15042,david_h_souter,scotus_justice,2099.727,2104.081,Is it that the spillage is a breach of the contract between the transporter and Shell?
+2008.07-1601,2,36722,malcolm_l_stewart,,2104.081,2113.021,"--Well, I think if -- if Shell had pursued such a cause of action, then the delivery company might well have argued that these -- this was foreseeable and that there was--"
+2008.07-1601,2,15042,david_h_souter,scotus_justice,2113.021,2118.239,"No, but do you have any basis for saying that if it had pursued that course of action, it would have -- Shell would have succeeded?"
+2008.07-1601,2,36722,malcolm_l_stewart,,2118.239,2118.925,--No.
+2008.07-1601,2,15042,david_h_souter,scotus_justice,2119.425,2122.127,Then -- then why is Shell in control?
+2008.07-1601,2,36722,malcolm_l_stewart,,2122.127,2124.193,"--I mean, that's my point."
+2008.07-1601,2,15042,david_h_souter,scotus_justice,2134.684,2154.181,"Well, yes, but you're saying that the delivery company would have had a defense, but you are -- are saying that Shell would have had at least a theoretical right under its actual contract with the deliverer to assert the -- the control over the manner of delivery that would have prevented the spill; is that what you're saying?"
+2008.07-1601,2,36722,malcolm_l_stewart,,2154.181,2163.887,"Well, it certainly insisted by contract on the use of the pumping equipment of -- to pump the D-D from the truck into the bulk storage facility."
+2008.07-1601,2,15042,david_h_souter,scotus_justice,2164.587,2169.857,"That's the -- that's the only way they could do it if the buyer did have bulk storage, isn't that correct?"
+2008.07-1601,2,36722,malcolm_l_stewart,,2169.857,2170.723,--That's correct.
+2008.07-1601,2,15042,david_h_souter,scotus_justice,2170.723,2171.323,Okay.
+2008.07-1601,2,36722,malcolm_l_stewart,,2171.323,2173.909,And so -- to use an analogy--
+2008.07-1601,2,15060,john_paul_stevens,scotus_justice,2173.909,2180.665,"May I ask, is it essential to your theory that Shell had title to the material until delivery?"
+2008.07-1601,2,36722,malcolm_l_stewart,,2180.665,2181.998,--It's not essential to our theory.
+2008.07-1601,2,15060,john_paul_stevens,scotus_justice,2189.521,2202.912,"What if it were a fungible product and the purchaser just agreed to take either some product of this -- this quantity and quality and so forth, but they could substitute other -- other goods from another source?"
+2008.07-1601,2,36722,malcolm_l_stewart,,2204.531,2211.2,"--I mean, I guess I would have to know more about the hypothetical in -- as to the circumstances in which the disposal occurred."
+2008.07-1601,2,15060,john_paul_stevens,scotus_justice,2211.2,2220.206,"Well, Shell gave all the same instructions they gave here, but they just didn't insist that it be their product rather than somebody else's, another oil company's product."
+2008.07-1601,2,36722,malcolm_l_stewart,,2220.206,2230.598,"I guess I just -- I don't really understand the hypothetical, because I don't understand the situation in which Shell would be indifferent as to whether its product was being bought or the product of a competitor was being bought."
+2008.07-1601,2,15060,john_paul_stevens,scotus_justice,2230.598,2231.331,Well--
+2008.07-1601,2,15042,david_h_souter,scotus_justice,2231.331,2236.133,"Mr. Stewart, could I go back to a -- we have been arguing about details."
+2008.07-1601,2,36722,malcolm_l_stewart,,2281.281,2290.386,"We agree that the term ""arrange for"" connotes intentionality, and we think it's satisfied here because Shell intentionally set in motion the process of delivery."
+2008.07-1601,2,15049,antonin_scalia,scotus_justice,2299.475,2299.992,Excuse me.
+2008.07-1601,2,15042,david_h_souter,scotus_justice,2299.992,2312.466,"But if we're not arguing about that, what you are arguing about, then, is the -- is the implication of disposal, as opposed to a more neutral term like ""transfer"" or ""delivery"" or what-not."
+2008.07-1601,2,36722,malcolm_l_stewart,,2313.466,2318.97,"--The further point I would make is that the term ""disposal"" is specifically defined to include spilling and leaking."
+2008.07-1601,2,15042,david_h_souter,scotus_justice,2318.97,2325.858,"Oh, but those are certainly ways in which disposal can occur, as I -- I think came out in the argument."
+2008.07-1601,2,36722,malcolm_l_stewart,,2353.627,2366.101,"To use a couple of analogies, I think if I know that my car leaks oil whenever it's operated and I choose to drive it on the public highway, I think I could naturally be said to have intentionally discharged oil onto the highway."
+2008.07-1601,2,15042,david_h_souter,scotus_justice,2366.768,2371.255,"Well, you have discharged, but you -- the question is whether it is disposal."
+2008.07-1601,2,36722,malcolm_l_stewart,,2371.255,2371.704,--Well--
+2008.07-1601,2,15042,david_h_souter,scotus_justice,2371.704,2373.271,"""Discharge"" is a more neutral term."
+2008.07-1601,2,36722,malcolm_l_stewart,,2373.271,2378.008,"--Well, again, the term ""disposal"" is specifically defined to include spilling and leaking."
+2008.07-1601,2,15042,david_h_souter,scotus_justice,2379.025,2381.694,"No, but I mean, that -- that -- that begs the question."
+2008.07-1601,2,36722,malcolm_l_stewart,,2387.348,2388.431,"--That's true, but--"
+2008.07-1601,2,15042,david_h_souter,scotus_justice,2388.431,2394.233,"The question is ""disposal"" versus ""transfer"" or some more neutral term."
+2008.07-1601,2,36722,malcolm_l_stewart,,2394.233,2407.726,"--If you had a situation where -- for instance, where the trash company was hauling waste and intended to dispose of it in a more classic sense by dumping it at a landfill, but along the way the truck leaked, and some of the items spilled out--"
+2008.07-1601,2,15042,david_h_souter,scotus_justice,2407.726,2408.193,When?
+2008.07-1601,2,36722,malcolm_l_stewart,,2408.193,2423.854,"--I think everybody acknowledges that there is disposal there, and I think we would also say that a company that contracted with that trash hauler, knowing that the vehicle tended to leak trash on -- on every delivery, could be said to have arranged for--"
+2008.07-1601,2,15139,stephen_g_breyer,scotus_justice,2423.854,2424.82,"No, but that's the point."
+2008.07-1601,2,36722,malcolm_l_stewart,,2424.82,2425.837,"--not only the ultimate disposal, but the--"
+2008.07-1601,2,15139,stephen_g_breyer,scotus_justice,2425.837,2438.78,"That is that point, because I think you're focusing on the word -- you don't use the word ""for"" disposal, and I think that is the key word, and the question is intention versus purpose."
+2008.07-1601,2,36722,malcolm_l_stewart,,2507.841,2520.066,"--I am following that, but I think that the court of appeals dealt with this and said: Our holding does not suggest that every manufacturer of a useful product is liable down the road if the customer ultimately disposes of it--"
+2008.07-1601,2,15139,stephen_g_breyer,scotus_justice,2520.066,2528.838,"It does say that, but my problem is I can't find in the distinctions that they made useful distinctions that will do that."
+2008.07-1601,2,36722,malcolm_l_stewart,,2555.339,2575.486,"--I mean, I think in a sense the argument for liability there would depend in part on an assumption that people will systematically violate the law, like it would be an easy thing for the Court to say we will not assume and we will not impose liability on the basis of the assumption that battery customers will systematically violate the law."
+2008.07-1601,2,15113,anthony_m_kennedy,scotus_justice,2611.176,2615.896,"Well, is Shell liable because it -- it knew of the transportation arrangements?"
+2008.07-1601,2,36722,malcolm_l_stewart,,2615.896,2619.347,I think it is a combination of knowledge and control.
+2008.07-1601,2,15042,david_h_souter,scotus_justice,2647.415,2651.985,"Yes, but you -- in that case, you have knowledge, but you don't have control because you're using a common carrier."
+2008.07-1601,2,36722,malcolm_l_stewart,,2651.985,2658.155,"--I have -- I have control in the sense that I have deliberately selected a mode of delivery, a particular common--"
+2008.07-1601,2,15042,david_h_souter,scotus_justice,2658.155,2661.857,Then you mean simply control over your own choice process?
+2008.07-1601,2,36722,malcolm_l_stewart,,2661.857,2664.209,--Well--
+2008.07-1601,2,15042,david_h_souter,scotus_justice,2664.209,2666.994,Not control over the behavior of your hauler?
+2008.07-1601,2,36722,malcolm_l_stewart,,2666.994,2671.213,--Not -- not control in the sense of using my own personnel to drive the truck.
+2008.07-1601,2,15113,anthony_m_kennedy,scotus_justice,2671.213,2683.254,"Well, you have -- you might have knowledge that one chemical broker is more careless than another in the way the product was ultimately sold."
+2008.07-1601,2,36722,malcolm_l_stewart,,2700.849,2707.036,"Again, because here Shell had control over the very aspect of the process that resulted in spills and leaks."
+2008.07-1601,2,15049,antonin_scalia,scotus_justice,2707.036,2709.988,You mean it could have -- could have adopted some other means?
+2008.07-1601,2,36722,malcolm_l_stewart,,2709.988,2710.738,Not only that--
+2008.07-1601,2,15049,antonin_scalia,scotus_justice,2710.738,2712.623,That's all you mean by having control over it.
+2008.07-1601,2,36722,malcolm_l_stewart,,2712.623,2717.511,"--Well, not only that it could have adopted some other means, but that it insisted upon the particular means--"
+2008.07-1601,2,15049,antonin_scalia,scotus_justice,2717.511,2717.894,All right.
+2008.07-1601,2,36722,malcolm_l_stewart,,2763.889,2768.526,"--Clearly, if the Court reads the term ""arrange for"" to require purpose, we lose in this case--"
+2008.07-1601,2,15049,antonin_scalia,scotus_justice,2768.526,2768.993,All right.
+2008.07-1601,2,36722,malcolm_l_stewart,,2768.993,2770.645,--because that was not the purpose of the transaction.
+2008.07-1601,2,15068,samuel_a_alito_jr,scotus_justice,2801.514,2807.068,Can I ask you a question about your argument that the Petitioners waived their apportionment argument?
+2008.07-1601,2,36722,malcolm_l_stewart,,2826.295,2839.622,"--We haven't used the word ""waiver"" in our brief and -- but we concede that the railroads and Shell, at least in a cursory way, raised the issue of apportionment at trial, and the Ninth Circuit found that was sufficient to preserve it."
+2008.07-1601,2,15086,john_g_roberts_jr,scotus_justice,2858.601,2875.961,"On the question of apportionment, is it really your position that because of the precision you would require, that if there's a big fight over whether it's 10 percent responsibility or 30 percent and there's no way to tell, that if the parties said, look, we'll take 40 percent, that that's no good?"
+2008.07-1601,2,36722,malcolm_l_stewart,,2875.961,2878.813,"--No, I think that would be an acceptable approach."
+2008.07-1601,2,15086,john_g_roberts_jr,scotus_justice,2879.43,2880.197,Isn't that what happened here?
+2008.07-1601,2,36722,malcolm_l_stewart,,2888.703,2890.386,"--Well, I guess we would have two responses."
+2008.07-1601,2,15068,samuel_a_alito_jr,scotus_justice,2928.478,2937.834,"Do you -- do you dispute what Ms. Mahoney said, that it costs a great deal more to clean up some of the other chemicals than the ones that the railroad was responsible for?"
+2008.07-1601,2,36722,malcolm_l_stewart,,2937.834,2945.838,"--Well, I think -- I don't think that the record kind of establishes the relative costs of different contaminants."
+2008.07-1601,2,15068,samuel_a_alito_jr,scotus_justice,2947.773,2949.224,"The volume, the volume of the--"
+2008.07-1601,2,36722,malcolm_l_stewart,,2949.224,2959.68,"--What I understood her to say was that the cost of the remedial action is proportional to the mass of chemicals to be removed, and we do dispute that proposition."
+2008.07-1601,2,15086,john_g_roberts_jr,scotus_justice,3008.763,3019.286,"But that still doesn't address the question, if you have varying degrees of whatever you want to call it -- fault or causal relationship -- that that's a sensible way to apportion the liability."
+2008.07-1601,2,36722,malcolm_l_stewart,,3019.286,3068.469,"--I think the first preliminary point is there's no reason to think that the cost of the remedy as a whole would be proportional to the mass of the contaminants because you have very substantial fixed costs, but the other point I would make is this is where the insolvency of B&B really seems to us to become crucial because, if you had all solvent defendants and the evidence showed that the remedy the government implemented would have been more or less the same if it had only been 10 percent of the contamination, 30 percent of the contamination, or 100 percent of the contamination, that so much of the costs were fixed costs that reducing the volume was really not going to affect the cost in any meaningful way -- if you had all solvent defendants, it might still be the case that dividing the costs up in proportion to the contamination they caused would do rough justice."
+2008.07-1601,2,15086,john_g_roberts_jr,scotus_justice,3068.469,3073.622,"Well, what -- what about Ms. Mahoney's three answers, when I asked that question of her?"
+2008.07-1601,2,36722,malcolm_l_stewart,,3073.622,3092.684,"Well, I believe her first answer was the cost of the remedy would be proportional to the amount of contamination, which we disagree with, and we don't think Dr. Kalinowski's testimony bears that out, because all he said was the amount of granular-activated carbon that would be necessary is proportional to the mass of contaminants."
+2008.07-1601,2,15086,john_g_roberts_jr,scotus_justice,3093.067,3102.623,"She also said that the Restatement comment h that you rely on cites no cases, and the Third Restatement backs away from that comment."
+2008.07-1601,2,36722,malcolm_l_stewart,,3102.623,3117.132,"--Well, as to the first point, the comment h, you're right, doesn't cite cases, and it does say that this -- the insolvency of the defendant need not prevent apportionment, only that it would provide a basis for doing so in exceptional cases."
+2008.07-1601,2,15086,john_g_roberts_jr,scotus_justice,3133.994,3145.885,So you don't -- you don't think that the insolvency should prevent apportionment if you have a situation where a party is 1 percent responsible and the 99 percent responsible party is insolvent?
+2008.07-1601,2,36722,malcolm_l_stewart,,3145.885,3170.869,"--Well, we would say even as to 10 or 20 percent, if it were established that the remedy the government would have been required to implement, had the only source of contamination been leakage on the railroad parcel -- if it were established that the government could have cleaned that up at 10 percent or 20 percent of the cost of the remedy that was actually chosen, then there might be a sound basis for apportionment despite the insolvency of B&B."
+2008.07-1601,2,15086,john_g_roberts_jr,scotus_justice,3182.927,3185.462,And what do we have in the way of findings on that question?
+2008.07-1601,2,36722,malcolm_l_stewart,,3185.462,3186.579,--We don't have findings either way.
+2008.07-1601,2,15086,john_g_roberts_jr,scotus_justice,3239.577,3240.096,But is that right?
+2008.07-1601,2,36722,malcolm_l_stewart,,3262.36,3273.484,"--Well, indeed, the Second Restatement says as a categorical matter that if either of two causes would have been independently sufficient to bring about the result, then there's joint and several liability."
+2008.07-1601,2,15049,antonin_scalia,scotus_justice,3324.45,3325.4,Is that a finding?
+2008.07-1601,2,36722,malcolm_l_stewart,,3329.404,3336.574,--I don't -- I think you should take it as a given because it was the defendants' burden to prove divisibility.
+2008.07-1601,2,15068,samuel_a_alito_jr,scotus_justice,3346.782,3355.305,"--What's the basis for thinking that every little detail in the latest Restatement, including comments, is binding in a CERCLA case?"
+2008.07-1601,2,36722,malcolm_l_stewart,,3355.305,3370.897,"--I don't think so, and this Court in Norfolk and Western -- it was dealing with a different statute, but it said when you're looking at the Restatement, it's more important what the state of the law was when Congress enacted the statute rather than what the common-law principles are now."
+2008.07-1601,2,15084,ruth_bader_ginsburg,scotus_justice,3409.17,3420.745,May I -- may I just ask one question about the -- the situation of -- of these two potentially responsible parties?
+2008.07-1601,2,36722,malcolm_l_stewart,,3428.417,3429.067,That's correct.
+2008.07-1601,2,15084,ruth_bader_ginsburg,scotus_justice,3429.067,3430.786,So it's only those two.
+2008.07-1601,2,36722,malcolm_l_stewart,,3462.774,3464.64,I guess that's true.
+2008.07-1601,2,15084,ruth_bader_ginsburg,scotus_justice,3484.003,3498.947,"And is it true, as Ms. Sullivan said, that there is no other arranger case like this one where the, quote, ""arranger"" is the seller of a product?"
+2008.07-1601,2,36722,malcolm_l_stewart,,3498.947,3510.071,"I think there is no ""arranger"" case going in either direction that's on all fours with this one where there is the sale of a useful product during the course of a delivery that the seller arranged -- that the seller controlled."
+2008.07-1601,2,15086,john_g_roberts_jr,scotus_justice,3510.071,3511.121,"Thank you, counsel."
+2008.07-1601,2,15113,anthony_m_kennedy,scotus_justice,3513.273,3523.728,"Ms. Sullivan, just on the apportionment point, do you agree that it's your burden to show that this is a divisible harm, and can you tell me how you showed that?"
+2008.07-1601,3,33975,kathleen_m_sullivan,,3523.728,3525.164,"Yes, Justice Kennedy."
+2008.07-1601,3,15086,john_g_roberts_jr,scotus_justice,3581.0,3584.802,I'm not sure I know what it means to say it's a divisible harm.
+2008.07-1601,3,33975,kathleen_m_sullivan,,3584.802,3586.285,--It's capable of apportionment.
+2008.07-1601,3,15086,john_g_roberts_jr,scotus_justice,3595.224,3602.128,"So that means that whatever percentage of responsibility the parties have, that's the percentage of cost that they--"
+2008.07-1601,3,33975,kathleen_m_sullivan,,3602.128,3602.761,--They should bear.
+2008.07-1601,3,15086,john_g_roberts_jr,scotus_justice,3613.518,3625.16,"--So does that mean that, let's say, the -- how does that work when it costs $2 million to sort of start a clean-up, no matter who, and then, you know, the more stuff there is, the extra million it is?"
+2008.07-1601,3,33975,kathleen_m_sullivan,,3629.445,3632.064,"--Well, Mr. Chief Justice, the district court here was conservative."
+2008.07-1601,3,15084,ruth_bader_ginsburg,scotus_justice,3673.64,3680.544,"That's not normally how -- when -- when someone has a burden of proof, it's a burden of coming forward."
+2008.07-1601,3,33975,kathleen_m_sullivan,,3707.944,3712.848,"--Justice Ginsburg, there's no question that both the railroads and Shell argued for zero percent liability."
+2008.07-1601,3,15113,anthony_m_kennedy,scotus_justice,3728.755,3743.764,"I'm really concerned about the time and the white light, but I'm -- I'm not sure you answered the Chief Justice's hypothetical about the $2 million, which was an initial clean-up that has to be expended no matter how large the -- the spill was."
+2008.07-1601,3,33975,kathleen_m_sullivan,,3752.303,3764.963,"--Justice Kennedy, here -- and I refer you to the petition appendix at page -- excuse me, to the joint appendix at page 288, to the expert Kalinowski who described this as a single mass removal scheme."
+2008.07-1601,3,15139,stephen_g_breyer,scotus_justice,3790.509,3801.934,"Well, no, but suppose that that cost -- that single thing cost $2 million, and you will have to hire that $2 million machine even if there is one drop."
+2008.07-1601,3,33975,kathleen_m_sullivan,,3825.932,3828.615,--May I answer?
+2008.07-1601,3,15086,john_g_roberts_jr,scotus_justice,3848.094,3849.194,"Thank you, counsel."

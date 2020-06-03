@@ -1,0 +1,251 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2008.08-295,0,15086,john_g_roberts_jr,scotus_justice,0.0,11.122,"We will hear argument first this morning in Case 08-295, Travelers Indemnity Company v. Bailey, and Common Law Settlement Counsel v. Bailey."
+2008.08-295,0,17925,barry_r_ostrager,,12.308,40.208,"Mr. Chief Justice, and may it please the Court: In 1988, the Second Circuit decided in two separate decisions that a bankruptcy court exercising its core jurisdiction had properly confirmed the plan of reorganization that resolved present and future claims against Johns-Manville and the insurers who funded Manville's reorganization plan."
+2008.08-295,0,15084,ruth_bader_ginsburg,scotus_justice,66.508,72.679,"Mr. Ostrager, you have characterized the Second Circuit's decision in a way the Second Circuit did not."
+2008.08-295,0,17925,barry_r_ostrager,,124.647,154.1,"--Justice Ginsburg, the bankruptcy court judge, interpreting his own order, explicitly held that the 1986 order was intended and was always intended to enjoin direct actions against Travelers based upon, arising out of, or relating to the insurance policies Manville purchased from Travelers."
+2008.08-295,0,15084,ruth_bader_ginsburg,scotus_justice,154.1,161.42,"At the time of the 1986 order, had these independent actions started?"
+2008.08-295,0,17925,barry_r_ostrager,,176.078,205.782,"Justice Ginsburg, at the time of the 1986 order there had been various forms of direct action filed against Manville, and the bankruptcy court concluded, and the Second Circuit recognized, that a settlement with the insurers was essential for the reorganization and rehabilitation of Manville--"
+2008.08-295,0,15084,ruth_bader_ginsburg,scotus_justice,205.782,207.165,"The insurers, to the extent of the insurance proceeds."
+2008.08-295,0,17925,barry_r_ostrager,,232.147,247.157,--The plan of reorganization as ultimately confirmed contained the language to which I directed the Court.
+2008.08-295,0,15042,david_h_souter,scotus_justice,282.663,290.667,"Well, Mr. Ostrager, is -- help me out, because this is an issue of fact, and I don't have the record in front of me now."
+2008.08-295,0,17925,barry_r_ostrager,,305.41,306.196,It did.
+2008.08-295,0,15042,david_h_souter,scotus_justice,307.196,317.735,I drew the implication from that that the -- that the bankruptcy court thought its order would be barring such actions if they had not already been filed.
+2008.08-295,0,17925,barry_r_ostrager,,320.504,322.306,You are right on the record point.
+2008.08-295,0,15042,david_h_souter,scotus_justice,349.756,358.795,"But he was saying that -- in effect, that was simply articulating rather more than he had done the first time around and what he intended the first time around."
+2008.08-295,0,17925,barry_r_ostrager,,358.795,370.519,"--Well, he certainly intended to make the cornerstone of the Manville reorganization work."
+2008.08-295,0,15068,samuel_a_alito_jr,scotus_justice,407.728,415.583,Was the Second Circuit's decision based on an interpretation of the confirmation order or was it based on subject matter jurisdiction?
+2008.08-295,0,17925,barry_r_ostrager,,415.583,428.975,The Second Circuit order was explicitly predicated on the theory that the bankruptcy court lacked subject matter jurisdiction back in 1986 to enjoin these direct actions.
+2008.08-295,0,15049,antonin_scalia,scotus_justice,458.91,466.814,"Well, there is a distinction between jurisdiction and whether the action taken by the bankruptcy court comes within the statute."
+2008.08-295,0,17925,barry_r_ostrager,,508.058,508.927,--Justice Scalia--
+2008.08-295,0,15049,antonin_scalia,scotus_justice,508.927,511.712,Do you think that would be within the bankruptcy power?
+2008.08-295,0,17925,barry_r_ostrager,,511.712,534.375,"--Justice Scalia, clearly the Congress in fashioning over the years expansive safeguards facilitating growth and change in the bankruptcy law as our nation's commerce has grown has done that."
+2008.08-295,0,15049,antonin_scalia,scotus_justice,534.375,535.91,They can do anything under the bankruptcy law?
+2008.08-295,0,17925,barry_r_ostrager,,535.91,536.41,No.
+2008.08-295,0,15049,antonin_scalia,scotus_justice,550.837,551.304,"Okay, that's fine."
+2008.08-295,0,17925,barry_r_ostrager,,570.566,573.083,I would agree that that is so.
+2008.08-295,0,15049,antonin_scalia,scotus_justice,573.083,573.483,Okay.
+2008.08-295,0,17925,barry_r_ostrager,,574.102,574.885,This is not our case.
+2008.08-295,0,15049,antonin_scalia,scotus_justice,574.885,579.773,"--Well, what you are saying is this does fall within the bankruptcy power."
+2008.08-295,0,17925,barry_r_ostrager,,591.747,612.91,"Justice Scalia, I would say that the bankruptcy court in this case unquestionably had jurisdiction over the Manville reorganization under 28 U.S.C. 1334(b) as the Manville reorganization was a civil proceeding arising under Title 11 of the Bankruptcy Code."
+2008.08-295,0,15084,ruth_bader_ginsburg,scotus_justice,612.91,627.254,"The Second Circuit's view was that the bankruptcy court has no authority, no subject matter jurisdiction, when the debtor -- debtor's liability is not in question."
+2008.08-295,0,17925,barry_r_ostrager,,667.795,682.555,"There were, Justice Ginsburg, 60 pages of findings of fact indicating that the direct action suits against Manville was an end run around the--"
+2008.08-295,0,15084,ruth_bader_ginsburg,scotus_justice,682.555,685.191,The direct actions against Travelers.
+2008.08-295,0,17925,barry_r_ostrager,,685.191,701.802,"--Against Travelers were an end run around the discharge of Manville, and that all of the claims against Travelers arose out of and flowed to the insurance relationship."
+2008.08-295,0,15060,john_paul_stevens,scotus_justice,701.802,702.802,"Mr. Ostrager, may I ask this question?"
+2008.08-295,0,17925,barry_r_ostrager,,717.562,722.132,"Well, what -- the reason that this is so critical is that, as the--"
+2008.08-295,0,15060,john_paul_stevens,scotus_justice,722.132,723.066,Can you answer my question?
+2008.08-295,0,17925,barry_r_ostrager,,723.066,734.956,"--They do not seek assets of the estate, although Travelers would potentially have contribution claims against Manville because all of the claims--"
+2008.08-295,0,15060,john_paul_stevens,scotus_justice,734.956,743.729,But -- but why does a bankruptcy court have jurisdiction to enjoin third-party actions against some creditor of the estate?
+2008.08-295,0,17925,barry_r_ostrager,,743.729,754.668,--The Respondents actually concede that bankruptcy courts have subject matter jurisdiction to enjoin actions against non-debtors in appropriate circumstances.
+2008.08-295,0,15060,john_paul_stevens,scotus_justice,757.37,765.893,"But if those actions won't affect the estate at all, I just don't understand sort of the basic theory, and I don't really understand the theory of the plaintiffs' cases, either."
+2008.08-295,0,17925,barry_r_ostrager,,782.002,803.351,"Justice Stevens, you are absolutely right that these direct action cases have never been sustained because they all relate to the discharge by Travelers of Travelers' obligations as Manville's insurer, and that's one of the reasons why the bankruptcy court judge issued the injunction."
+2008.08-295,0,15084,ruth_bader_ginsburg,scotus_justice,804.384,810.588,"These were cases in the State courts and, as I understand it, so far none of them has succeeded."
+2008.08-295,0,17925,barry_r_ostrager,,810.588,811.522,--That is correct.
+2008.08-295,0,15084,ruth_bader_ginsburg,scotus_justice,831.351,846.361,"How can you say they ignored it when they had several pages devoted to 524, and they said it was -- it didn't cover these so-called direct actions, which really aren't what we generally call ""direct actions""."
+2008.08-295,0,17925,barry_r_ostrager,,855.034,858.854,I would respectfully disagree.
+2008.08-295,0,15060,john_paul_stevens,scotus_justice,905.216,916.541,How do -- how do these pending actions have any impact on fulfilling the objections -- objectives of the channeling instruction or affect the disposition of the assets in the estate?
+2008.08-295,0,17925,barry_r_ostrager,,917.557,925.73,"The essential issue here, Justice Stevens, is that there would have been no Manville reorganization--"
+2008.08-295,0,15060,john_paul_stevens,scotus_justice,925.73,928.163,"Yes, but there has been one and it's been a success."
+2008.08-295,0,17925,barry_r_ostrager,,928.163,930.449,--It's been a remarkable success.
+2008.08-295,0,15060,john_paul_stevens,scotus_justice,937.788,938.921,None of whom would be affected--
+2008.08-295,0,17925,barry_r_ostrager,,938.921,940.239,--more than $2.8 billion.
+2008.08-295,0,15060,john_paul_stevens,scotus_justice,940.239,943.941,"--But none of whom would be affected if these suits go forward, as I understand it."
+2008.08-295,0,17925,barry_r_ostrager,,946.143,952.463,But the point is that there couldn't have been have a Manville reorganization without the insurance settlements.
+2008.08-295,0,15060,john_paul_stevens,scotus_justice,968.223,969.04,Why isn't it harmless error?
+2008.08-295,0,17925,barry_r_ostrager,,969.04,992.772,The -- 524(g)(4)(A)(2)(iii) specifically authorizes asbestos channeling injunctions that bar any claim against the third party to be directly or indirectly liable for claims against the debtor.
+2008.08-295,0,15086,john_g_roberts_jr,scotus_justice,992.772,1000.759,"So if -- if part of the settlement -- I mean, Travelers says, we need to get more out of this before we're going to put in all the policy funds."
+2008.08-295,0,17925,barry_r_ostrager,,1022.606,1031.028,"Mr. Chief Justice, that would not be covered, and that is certainly not what the bankruptcy court intended or said."
+2008.08-295,0,15086,john_g_roberts_jr,scotus_justice,1031.028,1034.83,"--No, I know they that didn't intend anything with respect to traffic accidents."
+2008.08-295,0,17925,barry_r_ostrager,,1037.932,1046.121,This Court has recognized in the Katz case that bankruptcy extends beyond the res.
+2008.08-295,0,15086,john_g_roberts_jr,scotus_justice,1047.304,1050.406,So there would be jurisdiction in the hypothetical that I posed?
+2008.08-295,0,17925,barry_r_ostrager,,1050.406,1052.775,--Not in the hypothetical you posed.
+2008.08-295,0,15086,john_g_roberts_jr,scotus_justice,1057.929,1058.629,"Right, on direct appeal."
+2008.08-295,0,17925,barry_r_ostrager,,1065.682,1069.736,"--Well, I don't think we need to reach that issue in this case."
+2008.08-295,0,15113,anthony_m_kennedy,scotus_justice,1090.65,1092.017,"Well, but it seems to me you--"
+2008.08-295,0,15049,antonin_scalia,scotus_justice,1092.017,1092.935,But you acknowledge that that's not true.
+2008.08-295,0,17925,barry_r_ostrager,,1113.598,1122.454,"In this order, the -- the limitation on the injunction was based upon"
+2008.08-295,0,15086,john_g_roberts_jr,scotus_justice,1129.689,1130.389,Why is that?
+2008.08-295,0,17925,barry_r_ostrager,,1149.267,1156.087,"Well, I -- I think we have an act of Congress, 524(g) and (h), which--"
+2008.08-295,0,15084,ruth_bader_ginsburg,scotus_justice,1156.087,1157.806,May I interrupt you there?
+2008.08-295,0,17925,barry_r_ostrager,,1186.642,1202.918,"--With -- with respect, I believe that there are express findings of fact that the bankruptcy court made which were adopted by the district court, which were embraced in full by the Second Circuit, and we have a -- a pure issue of law here."
+2008.08-295,0,15084,ruth_bader_ginsburg,scotus_justice,1202.918,1211.591,May I have an answer to my question about the Second Circuit ignoring 524(g) when they devoted two and a half pages to it?
+2008.08-295,0,17925,barry_r_ostrager,,1211.591,1219.447,I believe that they clearly misinterpreted the intent of 524(g) and (h).
+2008.08-295,0,15084,ruth_bader_ginsburg,scotus_justice,1227.517,1227.767,If it--
+2008.08-295,0,17925,barry_r_ostrager,,1227.767,1228.883,--in 524(g).
+2008.08-295,0,15084,ruth_bader_ginsburg,scotus_justice,1228.883,1259.619,"--Another mystery in this most mysterious case: If it was so clear that the original order, the 1986 order, ensured Travelers that it would have no liability for asbestos claims, period, then why did it put up $400 million, much more than it put up originally, in order to settle with people who were bringing precisely that kind of claim?"
+2008.08-295,0,17925,barry_r_ostrager,,1259.619,1273.962,"During the course of the 5 years of proceedings before the bankruptcy court, the case was referred to mediation before the Honorable Mario Cuomo."
+2008.08-295,0,15084,ruth_bader_ginsburg,scotus_justice,1290.507,1303.831,What was the difference between the release that you say flowed from the 1986 order and the releases that were obtained with the $400 million?
+2008.08-295,0,17925,barry_r_ostrager,,1303.831,1314.056,"One was a general -- one was a general release and the other was a release based upon, arising out of, or related to the Manville insurance policies that Travelers purchased--"
+2008.08-295,0,15084,ruth_bader_ginsburg,scotus_justice,1314.056,1322.125,"So, specifically what was not included in the 1986 release that was included as a result of the settlement negotiations?"
+2008.08-295,0,17925,barry_r_ostrager,,1322.125,1325.91,"--It -- an absolute, broad general release by 80,000 people."
+2008.08-295,0,15084,ruth_bader_ginsburg,scotus_justice,1327.16,1328.612,But I would like to know the difference.
+2008.08-295,0,17925,barry_r_ostrager,,1335.182,1336.149,--Potentially--
+2008.08-295,0,15084,ruth_bader_ginsburg,scotus_justice,1336.149,1339.818,--that they got freedom from as a result of this settlement?
+2008.08-295,0,17925,barry_r_ostrager,,1339.818,1346.122,--Potentially the traffic accident that Mr. Chief Justice referenced.
+2008.08-295,0,15084,ruth_bader_ginsburg,scotus_justice,1346.907,1355.43,So then -- so that the 2000 clarification order did exonerate them from traffic accidents?
+2008.08-295,0,17925,barry_r_ostrager,,1355.43,1356.613,--It's a general release.
+2008.08-295,0,15084,ruth_bader_ginsburg,scotus_justice,1388.365,1391.484,I have one question before you reserve the rest of your time.
+2008.08-295,0,17925,barry_r_ostrager,,1408.528,1411.397,--I would say that the--
+2008.08-295,0,15084,ruth_bader_ginsburg,scotus_justice,1411.397,1412.78,I haven't asked my question.
+2008.08-295,0,17925,barry_r_ostrager,,1412.78,1413.515,"--Oh, I'm sorry."
+2008.08-295,0,15084,ruth_bader_ginsburg,scotus_justice,1413.515,1426.989,"I would like to know what -- what notice did the people who were left out of the settlement, who were not part of the settlement, who say, so we want our day in court -- what notice did they have and what opportunity to be heard?"
+2008.08-295,0,17925,barry_r_ostrager,,1426.989,1437.011,There was broad notice to the people who would be affected by the issuance of the injunction.
+2008.08-295,0,15042,david_h_souter,scotus_justice,1438.613,1439.78,How did they get the notice?
+2008.08-295,0,17925,barry_r_ostrager,,1442.432,1453.973,"--There were newspaper blasts repeatedly, all sorts of public notice, radio announcements."
+2008.08-295,0,15084,ruth_bader_ginsburg,scotus_justice,1465.698,1473.054,How can it be successive when they didn't even get their -- I mean they -- these people haven't had a day in court.
+2008.08-295,0,17925,barry_r_ostrager,,1481.492,1485.527,--This is what Congress has made provision for in 524(g) and (h).
+2008.08-295,0,15084,ruth_bader_ginsburg,scotus_justice,1503.839,1513.345,The rule -- the particular rule that I am asking you about is that people who have not had their day in court can be precluded--
+2008.08-295,0,17925,barry_r_ostrager,,1513.345,1514.88,Yes.
+2008.08-295,0,15084,ruth_bader_ginsburg,scotus_justice,1514.88,1519.165,--on the basis of newspaper notice and radio announcements?
+2008.08-295,0,17925,barry_r_ostrager,,1519.165,1522.534,"As the Court said in Mullane, that"
+2008.08-295,0,15084,ruth_bader_ginsburg,scotus_justice,1528.723,1531.842,"That was the best possible notice, which included regular mail notice."
+2008.08-295,0,17925,barry_r_ostrager,,1531.842,1536.81,--Not -- not with respect to future claimants who haven't had any disease.
+2008.08-295,0,15086,john_g_roberts_jr,scotus_justice,1557.973,1558.742,"Thank you, counsel."
+2008.08-295,1,41535,samuel_issacharoff,,1565.163,1582.525,"Mr. Chief Justice, and may it please the Court: As the Court has indicated, this is a question of jurisdiction, and the issue is whether a bankruptcy court may enter an order that goes to a nondebtor, offers a release against independent State law claims."
+2008.08-295,1,15113,anthony_m_kennedy,scotus_justice,1582.525,1605.64,"Well, as to the 1986 order it seemed to me that the counsel for the Petitioner might have answered the question posed by the Chief Justice with the traffic accident hypothetical: That is an interesting question of subject matter jurisdiction, and maybe there is subject matter jurisdiction, maybe there isn't, but that issue as to the 1986 order is final."
+2008.08-295,1,41535,samuel_issacharoff,,1627.154,1631.689,"Well, the counsel for Petitioner can't give that answer for two separate reasons."
+2008.08-295,1,15113,anthony_m_kennedy,scotus_justice,1646.614,1659.589,"But putting aside questions of notice, if these parties had been represented in the appeal of the 1986 order, maybe the subject matter jurisdiction ruling was correct; maybe it was incorrect; but it's done."
+2008.08-295,1,41535,samuel_issacharoff,,1659.589,1670.564,"If -- if these parties had been present, if they had been appealed, if this had been in effect a settlement orchestrated through the bankruptcy court, then there might be the -- the ability to release as a class action--"
+2008.08-295,1,15113,anthony_m_kennedy,scotus_justice,1670.564,1672.78,So then it's just a question of personal jurisdiction and notice.
+2008.08-295,1,41535,samuel_issacharoff,,1675.099,1675.916,--It is--
+2008.08-295,1,15113,anthony_m_kennedy,scotus_justice,1675.916,1682.787,--because subject matter jurisdiction can be concluded in an earlier order and there can be no collateral attack if you've been a party.
+2008.08-295,1,41535,samuel_issacharoff,,1682.787,1690.191,"--Justice Kennedy, it is a question of subject matter jurisdiction if it is not to be a consensual agreement."
+2008.08-295,1,15139,stephen_g_breyer,scotus_justice,1695.179,1696.162,I don't think there's a notice question.
+2008.08-295,1,41535,samuel_issacharoff,,1710.455,1711.391,--They do know about it.
+2008.08-295,1,15139,stephen_g_breyer,scotus_justice,1711.841,1713.141,"Okay, so there is no notice problem."
+2008.08-295,1,41535,samuel_issacharoff,,1721.679,1726.416,"--Justice Breyer, I misunderstood Justice Kennedy's question to be about 1986, not about the present."
+2008.08-295,1,15139,stephen_g_breyer,scotus_justice,1732.554,1739.391,"Well, in the original confirmation, there are problems in asbestos cases, like other bankruptcy cases, of giving people notice."
+2008.08-295,1,41535,samuel_issacharoff,,1751.23,1752.713,"Well, the question is--"
+2008.08-295,1,15139,stephen_g_breyer,scotus_justice,1752.713,1754.099,And so what is -- is this about notice?
+2008.08-295,1,41535,samuel_issacharoff,,1754.099,1755.884,"--No, I don't believe it is about notice."
+2008.08-295,1,15139,stephen_g_breyer,scotus_justice,1755.884,1756.267,No.
+2008.08-295,1,41535,samuel_issacharoff,,1793.324,1793.957,I agree.
+2008.08-295,1,15139,stephen_g_breyer,scotus_justice,1793.957,1795.926,That's what -- that's what this Court said.
+2008.08-295,1,41535,samuel_issacharoff,,1839.455,1847.893,"In -- in your example, Justice Breyer, you rely upon this Court's decision in Celotex, which adopted the Pacor test from the Third Circuit."
+2008.08-295,1,15139,stephen_g_breyer,scotus_justice,1866.022,1871.592,"Is what you are saying also true of the various other asbestos cases that have, I think, done this?"
+2008.08-295,1,41535,samuel_issacharoff,,1871.592,1882.132,--There is no asbestos case that I am aware of that has released third-party claims that have no impact on the debtor.
+2008.08-295,1,15139,stephen_g_breyer,scotus_justice,1883.834,1886.685,"Well, of course, this has enormous practical impact on the debtor."
+2008.08-295,1,41535,samuel_issacharoff,,1892.053,1892.922,"No, I don't--"
+2008.08-295,1,15139,stephen_g_breyer,scotus_justice,1892.922,1903.961,--to go into this kind of thing if they are going to be sued for the very act of helping the debtor defend the asbestos cases.
+2008.08-295,1,41535,samuel_issacharoff,,1916.805,1928.327,--I think that the facts of record indicate that Travelers went into this particular deal full well knowing that it was not getting this kind of release because that kind of release was not available.
+2008.08-295,1,15042,david_h_souter,scotus_justice,1929.112,1948.407,"What do you -- what do you make of the provision of the 1986 order to the effect that, as I understand it and as I asked your brother a moment ago, existing claims based upon misbehavior of the -- of the insurance company were not cut off?"
+2008.08-295,1,41535,samuel_issacharoff,,1964.369,1966.236,"--Justice Souter, I would say two things."
+2008.08-295,1,15042,david_h_souter,scotus_justice,1986.713,1997.588,"Yes, but it was prospective liability based upon misconduct of the insurance company, not merely derivative of -- of its insurance contract in -- in the conventional sense."
+2008.08-295,1,41535,samuel_issacharoff,,1997.588,1998.305,I -- I understand that.
+2008.08-295,1,15139,stephen_g_breyer,scotus_justice,2060.125,2061.644,Why does it say -- it doesn't say that.
+2008.08-295,1,41535,samuel_issacharoff,,2122.366,2130.789,"Well, Your Honor, some of the releases that are in effect in this case go to conduct that occurred after 1986."
+2008.08-295,1,15113,anthony_m_kennedy,scotus_justice,2147.698,2149.583,"Well, settlement clauses often release future claims."
+2008.08-295,1,41535,samuel_issacharoff,,2152.785,2153.668,"--Absolutely, Your Honor."
+2008.08-295,1,15113,anthony_m_kennedy,scotus_justice,2172.782,2178.019,"But that's subject matter jurisdiction, and that is foreclosed."
+2008.08-295,1,41535,samuel_issacharoff,,2181.321,2182.287,"--No, I'm not talking--"
+2008.08-295,1,15113,anthony_m_kennedy,scotus_justice,2182.287,2189.827,"But you're talking about subject matter jurisdiction, and that has been foreclosed by the earlier circuit court of appeals' opinion."
+2008.08-295,1,41535,samuel_issacharoff,,2194.445,2195.731,"--I don't believe so, Your Honor."
+2008.08-295,1,15042,david_h_souter,scotus_justice,2212.091,2212.557,Okay.
+2008.08-295,1,41535,samuel_issacharoff,,2240.943,2245.462,"--I agree that that is the -- the general rule, that is correct."
+2008.08-295,1,15042,david_h_souter,scotus_justice,2263.273,2265.541,So it's a question of the scope of the order?
+2008.08-295,1,41535,samuel_issacharoff,,2265.541,2266.341,"--Yes, it is."
+2008.08-295,1,15042,david_h_souter,scotus_justice,2266.341,2266.827,Okay.
+2008.08-295,1,41535,samuel_issacharoff,,2266.827,2267.343,"Yes, it is."
+2008.08-295,1,15068,samuel_a_alito_jr,scotus_justice,2290.324,2291.19,But didn't this--
+2008.08-295,1,15042,david_h_souter,scotus_justice,2291.19,2293.692,I didn't mean to cut you off.
+2008.08-295,1,41535,samuel_issacharoff,,2294.192,2306.333,"--I don't think the Court has to address this here, Your Honor, because in this case, the initial order only went -- as affirmed by the Second Circuit, only went to the property of the estate."
+2008.08-295,1,15042,david_h_souter,scotus_justice,2306.933,2309.301,May I then raise a question there?
+2008.08-295,1,41535,samuel_issacharoff,,2418.94,2422.326,"--Your Honor, you gave two alternative definitions of ""jurisdiction""."
+2008.08-295,1,15042,david_h_souter,scotus_justice,2424.793,2426.862,Everybody accepts it's at least that much.
+2008.08-295,1,41535,samuel_issacharoff,,2426.862,2427.395,--Right.
+2008.08-295,1,15084,ruth_bader_ginsburg,scotus_justice,2477.711,2490.019,"Can you answer the question -- practically the insurers would not have settled, there would have been no 1986 order, if they didn't have this broader liability?"
+2008.08-295,1,41535,samuel_issacharoff,,2498.206,2500.808,"--We don't know that, Your Honor."
+2008.08-295,1,15068,samuel_a_alito_jr,scotus_justice,2570.638,2574.856,--Isn't that what the Congress gave them in the 1994 Bankruptcy Act?
+2008.08-295,1,41535,samuel_issacharoff,,2574.856,2575.875,--No.
+2008.08-295,1,15068,samuel_a_alito_jr,scotus_justice,2607.679,2615.583,Do you dispute the proposition that that statute was passed in large part for the purpose of codifying what was done in this case?
+2008.08-295,1,41535,samuel_issacharoff,,2615.583,2616.785,I do not--
+2008.08-295,1,15068,samuel_a_alito_jr,scotus_justice,2616.785,2618.269,The sort of thing that was done in this case?
+2008.08-295,1,41535,samuel_issacharoff,,2618.269,2619.404,--I do not dispute that at all.
+2008.08-295,1,15139,stephen_g_breyer,scotus_justice,2661.898,2692.1,"In your view, if Smith has a $2 billion or $4 billion claim against company X and the pension fund together, company X is in bankruptcy, and so the judge says: I want to enjoin this claim, we will settle it, you know, but the pension fund -- doesn't -- doesn't the bankruptcy judge -- if in fact without the pension fund you couldn't reorganize, wouldn't the bankruptcy judge have authority to cut off the claim against the pension fund?"
+2008.08-295,1,41535,samuel_issacharoff,,2697.102,2698.004,The rule--
+2008.08-295,1,15139,stephen_g_breyer,scotus_justice,2698.004,2700.437,--the pension fund was all mixed up in this together.
+2008.08-295,1,41535,samuel_issacharoff,,2700.437,2709.376,"--The rule of thumb, Justice Breyer, is that if there is an automatic indemnity against the -- the bankrupt--"
+2008.08-295,1,15139,stephen_g_breyer,scotus_justice,2709.376,2710.227,"No, there is nothing here in indemnity."
+2008.08-295,1,41535,samuel_issacharoff,,2710.227,2713.179,--Then our position is that it does not have authority.
+2008.08-295,1,15139,stephen_g_breyer,scotus_justice,2713.179,2718.75,And that would be true of all the workforce and they have claims against the individual members of the workforce?
+2008.08-295,1,41535,samuel_issacharoff,,2729.039,2732.391,"Well, I think that it comes down to two questions, Justice Breyer."
+2008.08-295,1,15139,stephen_g_breyer,scotus_justice,2737.545,2742.533,"Well, why not -- because there is a good constitutional protection; it's called the Due Process Clause."
+2008.08-295,1,41535,samuel_issacharoff,,2748.436,2751.138,"--No, I don't -- I -- I disagree with that, Justice Breyer."
+2008.08-295,1,15139,stephen_g_breyer,scotus_justice,2755.506,2757.542,"Well, there's language, broad language."
+2008.08-295,1,41535,samuel_issacharoff,,2757.542,2759.325,--Broad language in the statute?
+2008.08-295,1,15139,stephen_g_breyer,scotus_justice,2759.325,2760.077,Yes.
+2008.08-295,1,41535,samuel_issacharoff,,2760.077,2761.944,"Yes, there is broad language in the statute."
+2008.08-295,1,15086,john_g_roberts_jr,scotus_justice,2783.86,2785.026,"Thank you, counsel."
+2008.08-295,2,29704,jacob_c_cohn,,2798.083,2808.689,"Mr. Chief Justice, and may it please the Court: A discharge in bankruptcy wipes away a debtor's liability for its prepetition conduct."
+2008.08-295,2,15068,samuel_a_alito_jr,scotus_justice,2914.338,2920.61,Is it not the case that most of the claims are claims based on -- based on Manville?
+2008.08-295,2,29704,jacob_c_cohn,,2920.61,2923.978,Are they claims--
+2008.08-295,2,15068,samuel_a_alito_jr,scotus_justice,2923.978,2928.53,"Relating to what Travelers did in relation to Manville, rather than other companies."
+2008.08-295,2,29704,jacob_c_cohn,,2928.53,2930.299,--I don't think it's related to what they did.
+2008.08-295,2,15068,samuel_a_alito_jr,scotus_justice,2934.501,2935.12,No.
+2008.08-295,2,29704,jacob_c_cohn,,2954.098,2965.572,"--If an asbestos claimant, an independent action plaintiff, is seeking to recover from Travelers for Manville-derived liability, it's barred."
+2008.08-295,2,15042,david_h_souter,scotus_justice,2980.315,2987.319,"But isn't it the case, to make sure I understand it, the Wise complaints are the -- are the exception?"
+2008.08-295,2,29704,jacob_c_cohn,,2999.476,3001.728,The statutory -- not exactly.
+2008.08-295,2,15042,david_h_souter,scotus_justice,3051.927,3059.598,"No, I understand -- or maybe I don't -- maybe I don't understand the -- every step in the liability claim."
+2008.08-295,2,29704,jacob_c_cohn,,3081.28,3084.898,--I think not.
+2008.08-295,2,15042,david_h_souter,scotus_justice,3084.898,3085.498,No?
+2008.08-295,2,29704,jacob_c_cohn,,3085.498,3089.886,"I think that every asbestos claimant by and large has a claim against Manville, but that doesn't mean they are not--"
+2008.08-295,2,15042,david_h_souter,scotus_justice,3089.886,3091.802,Simply because of Manville's position in the--
+2008.08-295,2,29704,jacob_c_cohn,,3091.802,3099.742,"--The ubiquity of Manville asbestos and their activities makes practically everybody, if not everybody, a Manville claimant, at least--"
+2008.08-295,2,15042,david_h_souter,scotus_justice,3099.742,3110.181,"--So that -- so that you are saying in effect everybody ultimately is claiming against Manville, the Wise plaintiffs and every other set of plaintiffs in this -- in this group of direct liability claimants?"
+2008.08-295,2,29704,jacob_c_cohn,,3110.181,3111.3,"--Well, is or can."
+2008.08-295,2,15042,david_h_souter,scotus_justice,3121.421,3122.857,I -- I understand your cause of action.
+2008.08-295,2,29704,jacob_c_cohn,,3123.873,3153.293,"So, getting back to the next point I'd like to make is, as Mr. Issacharoff has stated, the Second Circuit was presented and the bankruptcy court was presented in 1986 with a plan and with an order that was stated to be premised upon the derivative liability of Travelers for Manville."
+2008.08-295,2,15139,stephen_g_breyer,scotus_justice,3153.293,3153.96,Who stated it?
+2008.08-295,2,29704,jacob_c_cohn,,3169.921,3182.062,"Well, the insurance settlement order, which is what is at issue here -- which is not the channeling injunction order, by the way; it was entered before that -- was premised upon the policies being property of the estate."
+2008.08-295,2,15139,stephen_g_breyer,scotus_justice,3182.562,3183.846,Is this the confirmation order?
+2008.08-295,2,29704,jacob_c_cohn,,3183.846,3186.431,--The confirmation order is actually not directly at issue.
+2008.08-295,2,15139,stephen_g_breyer,scotus_justice,3186.431,3186.898,That's different.
+2008.08-295,2,29704,jacob_c_cohn,,3188.1,3189.266,The confirmation order is purposely--
+2008.08-295,2,15139,stephen_g_breyer,scotus_justice,3189.266,3201.108,"--But there's another piece of paper called ""the insurance settlement order"", which says that the confirmation order and all these other definitions and the injunction just refer to derivative liability?"
+2008.08-295,2,29704,jacob_c_cohn,,3201.108,3202.309,--The--
+2008.08-295,2,15139,stephen_g_breyer,scotus_justice,3202.309,3203.275,Yes or no?
+2008.08-295,2,29704,jacob_c_cohn,,3203.275,3203.892,--definition of -- yes--
+2008.08-295,2,15139,stephen_g_breyer,scotus_justice,3203.892,3204.542,Yes?
+2008.08-295,2,29704,jacob_c_cohn,,3204.542,3205.011,--No.
+2008.08-295,2,15139,stephen_g_breyer,scotus_justice,3205.544,3206.011,No?
+2008.08-295,2,29704,jacob_c_cohn,,3207.161,3208.129,"--of ""policy claims"" is contained in the--"
+2008.08-295,2,15139,stephen_g_breyer,scotus_justice,3208.129,3208.963,"Well, then I don't see what it has to do with it."
+2008.08-295,2,29704,jacob_c_cohn,,3208.963,3214.7,"--Well, the definition of 18, 1986."
+2008.08-295,2,15139,stephen_g_breyer,scotus_justice,3217.033,3217.516,All right.
+2008.08-295,2,29704,jacob_c_cohn,,3222.187,3223.47,"--There are two injunctions, Your Honor."
+2008.08-295,2,15139,stephen_g_breyer,scotus_justice,3223.47,3224.356,Right.
+2008.08-295,2,29704,jacob_c_cohn,,3233.245,3235.614,That is the injunction in the insurance injunction.
+2008.08-295,2,15139,stephen_g_breyer,scotus_justice,3235.614,3237.03,And your other piece of paper says what?
+2008.08-295,2,29704,jacob_c_cohn,,3237.03,3239.066,The other piece of paper is even clearer.
+2008.08-295,2,15139,stephen_g_breyer,scotus_justice,3273.802,3274.435,You go on.
+2008.08-295,2,29704,jacob_c_cohn,,3275.754,3277.537,--Thank you.
+2008.08-295,2,15086,john_g_roberts_jr,scotus_justice,3277.537,3279.956,Why doesn't the Due Process Clause fully protect you?
+2008.08-295,2,29704,jacob_c_cohn,,3292.03,3308.809,"Chubb, Mr. Chief justice, in fact has an alternative argument that was never reached that, as a non-Manville insurer, it was in a position of an unrepresented future claimant, and in fact it cannot be constitutionally bound by res judicata to the 1986 order."
+2008.08-295,2,15086,john_g_roberts_jr,scotus_justice,3308.809,3317.747,"I saw in the -- I guess it was in the Travelers' reply brief, the suggestion that there was a future -- somebody representing future claimants."
+2008.08-295,2,29704,jacob_c_cohn,,3317.747,3321.283,"Future tort claimants, not future insurance defendants."
+2008.08-295,2,15086,john_g_roberts_jr,scotus_justice,3321.283,3322.633,Where is that?
+2008.08-295,2,29704,jacob_c_cohn,,3322.633,3323.985,Cause of action claimants.
+2008.08-295,2,15086,john_g_roberts_jr,scotus_justice,3323.985,3325.818,Where is that limitation spelled out?
+2008.08-295,2,29704,jacob_c_cohn,,3325.818,3344.649,"Well, if you look at the order that -- that appoints the future claims representative, it is to represent the interests of people who have been exposed to Manville asbestos but have not yet been -- manifested harm because of the long latency period of asbestos injuries."
+2008.08-295,2,15086,john_g_roberts_jr,scotus_justice,3344.649,3348.451,Is that a description of the clients at issue here?
+2008.08-295,2,29704,jacob_c_cohn,,3351.819,3353.605,"It's not a description of Chubb, Your Honor."
+2008.08-295,2,15086,john_g_roberts_jr,scotus_justice,3353.605,3355.622,"I know, but I'm asking about the claimants."
+2008.08-295,2,29704,jacob_c_cohn,,3355.622,3373.834,"The claimants presumably were people that were -- the individual independent action plaintiffs presumably were represented by the future claimants' representative in 1986 and were at that time future claimants or else their -- you know, their harm would have arisen well before and they wouldn't be in these cases in this decade."
+2008.08-295,2,15084,ruth_bader_ginsburg,scotus_justice,3376.953,3385.059,"Yes, in the -- at the time of 1986, there were many claims against Manville, of course, for Manville's liability."
+2008.08-295,2,29704,jacob_c_cohn,,3403.437,3404.87,--May I respond?
+2008.08-295,2,15086,john_g_roberts_jr,scotus_justice,3404.87,3405.37,Sure.
+2008.08-295,2,29704,jacob_c_cohn,,3405.37,3410.591,There were no independent actions of the flavor that you are seeing here.
+2008.08-295,2,15086,john_g_roberts_jr,scotus_justice,3431.921,3433.54,"Thank you, counsel."
+2008.08-295,3,17925,barry_r_ostrager,,3436.824,3437.441,Thank you.
+2008.08-295,3,15139,stephen_g_breyer,scotus_justice,3693.807,3698.278,Is there anything you want to say about the practical thing I have in the back of my mind which may be false?
+2008.08-295,3,17925,barry_r_ostrager,,3717.923,3718.525,--Precisely.
+2008.08-295,3,15139,stephen_g_breyer,scotus_justice,3718.525,3719.242,--Is that true?
+2008.08-295,3,17925,barry_r_ostrager,,3719.242,3721.042,"That is absolutely correct, Justice Breyer."
+2008.08-295,3,15139,stephen_g_breyer,scotus_justice,3721.042,3721.66,Is there anything to back that up?
+2008.08-295,3,17925,barry_r_ostrager,,3721.66,3730.849,"And I -- I wanted to point out that, in your dissent in the Ortiz case, you said that"
+2008.08-295,3,15084,ruth_bader_ginsburg,scotus_justice,3741.788,3742.99,That was the dissenting opinion.
+2008.08-295,3,15139,stephen_g_breyer,scotus_justice,3742.99,3743.757,I said that?
+2008.08-295,3,17925,barry_r_ostrager,,3744.823,3746.092,--I understand that.
+2008.08-295,3,15084,ruth_bader_ginsburg,scotus_justice,3757.067,3762.285,"But there are two decisions of this Court, Amchem and Ortiz, that reject that position."
+2008.08-295,3,17925,barry_r_ostrager,,3762.285,3779.73,"--In Ortiz, the -- the Court absolutely recognized that where you have a special statutory scheme that is designed as 524(g) and (h) is to deal with these types of issues, that is an exception to Hansberry v. Lee."
+2008.08-295,3,15086,john_g_roberts_jr,scotus_justice,3780.515,3781.248,"Thank you, counsel."

@@ -1,0 +1,60 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1986.85-1244,0,15141,william_h_rehnquist,scotus_justice,0.0,44.695,"You may proceed whenever you are ready, Mr. Corcoran."
+1986.85-1244,0,42577,thomas_g_corcoran_jr,,44.695,50.766,"Mr. Chief Justice, and may it please the Court:"
+1986.85-1244,0,15141,william_h_rehnquist,scotus_justice,118.493,121.279,"It is a part of the record, then; it's a part of the deposition?"
+1986.85-1244,0,42577,thomas_g_corcoran_jr,,121.279,122.362,"--Yes, Your Honor."
+1986.85-1244,0,15140,william_j_brennan_jr,scotus_justice,144.125,145.644,"I'm sorry, Mr. Corcoran."
+1986.85-1244,0,42577,thomas_g_corcoran_jr,,147.846,149.846,"--Yes, Your Honor."
+1986.85-1244,0,15140,william_j_brennan_jr,scotus_justice,151.048,156.583,"Yes, thank you."
+1986.85-1244,0,42577,thomas_g_corcoran_jr,,156.583,166.391,Next I'd like to draw the Court's attention to a reduced copy of the postal map of Pleasant Grove.
+1986.85-1244,0,15140,william_j_brennan_jr,scotus_justice,290.02,292.622,Thank you.
+1986.85-1244,0,42577,thomas_g_corcoran_jr,,296.608,297.608,"It does, Your Honor."
+1986.85-1244,1,30448,jerrold_j_ganzfried,,1354.451,1357.153,"Thank you, Mr. Chief Justice, and may it please the Court:"
+1986.85-1244,1,15141,william_h_rehnquist,scotus_justice,1377.816,1386.672,"Tell me, were there people in both the western addition and the Glasgow annexation?"
+1986.85-1244,1,30448,jerrold_j_ganzfried,,1386.672,1391.593,"At the time of the annexation, the Glasgow annexation, there were people living there."
+1986.85-1244,1,15141,william_h_rehnquist,scotus_justice,1409.621,1414.525,"Well, how did the annexation dilute anyone's voting rights?"
+1986.85-1244,1,30448,jerrold_j_ganzfried,,1414.525,1418.727,Our contention is not that it did dilute anyone's voting rights.
+1986.85-1244,1,15141,william_h_rehnquist,scotus_justice,1432.737,1434.887,"Well, but what's the effect of this step?"
+1986.85-1244,1,30448,jerrold_j_ganzfried,,1434.887,1437.155,It has no present effect.
+1986.85-1244,1,15104,thurgood_marshall,scotus_justice,1453.566,1469.076,"Mr. Ganzfried, I'm a little worried about having a continuous unit with white and black people, and then you bring in 1,000 white people and say it doesn't dilute anybody's vote."
+1986.85-1244,1,30448,jerrold_j_ganzfried,,1469.076,1472.278,It doesn't dilute the vote of anyone who is presently voting in the city.
+1986.85-1244,1,15104,thurgood_marshall,scotus_justice,1472.278,1473.647,"But it does, in the present--"
+1986.85-1244,1,30448,jerrold_j_ganzfried,,1473.647,1475.347,It certainly has a potential for diluting the vote.
+1986.85-1244,1,15104,thurgood_marshall,scotus_justice,1475.347,1476.516,--It doesn't dilute--
+1986.85-1244,1,30448,jerrold_j_ganzfried,,1476.516,1482.92,"--any black citizen that ever moves into Pleasant Grove, whether by way of moving or by way of being annexed into the city."
+1986.85-1244,1,15104,thurgood_marshall,scotus_justice,1482.92,1484.02,--But their vote--
+1986.85-1244,1,30448,jerrold_j_ganzfried,,1484.02,1486.037,It affects their vote.
+1986.85-1244,1,15104,thurgood_marshall,scotus_justice,1487.171,1489.739,--And will that dilute the Negro vote?
+1986.85-1244,1,30448,jerrold_j_ganzfried,,1489.739,1494.56,It will dilute the vote when the day comes that there are black voters in Pleasant Grove.
+1986.85-1244,1,15104,thurgood_marshall,scotus_justice,1499.345,1500.078,Okay.
+1986.85-1244,1,30448,jerrold_j_ganzfried,,1511.77,1513.522,--It will still be in Jefferson County.
+1986.85-1244,1,15104,thurgood_marshall,scotus_justice,1513.522,1515.188,"Well, they'll be in Jefferson County."
+1986.85-1244,1,30448,jerrold_j_ganzfried,,1515.188,1516.856,Jefferson County... the borders of Jefferson County--
+1986.85-1244,1,15104,thurgood_marshall,scotus_justice,1516.856,1523.893,"Jefferson County will have 2,000 more white votes and no more Negro votes."
+1986.85-1244,1,30448,jerrold_j_ganzfried,,1525.612,1531.149,"--It dilutes the vote in Jefferson County, but Jefferson County in this case has only grown internally."
+1986.85-1244,1,15049,antonin_scalia,scotus_justice,1585.116,1598.776,"Mr. Ganzfried, if I understood your response to the Chief Justice earlier, you concede that the city does not bear any burden of showing no discriminatory motive in not annexing the Pleasant Grove Highlands?"
+1986.85-1244,1,30448,jerrold_j_ganzfried,,1598.776,1610.166,"Well, Pleasant Grove Highlands, because if was a decision not to make an annexation, did not constitute a change that triggered the Section 5 pre-clearance."
+1986.85-1244,1,15049,antonin_scalia,scotus_justice,1610.166,1611.383,"So, that's relevant in view--"
+1986.85-1244,1,30448,jerrold_j_ganzfried,,1611.383,1611.799,It is relevant--
+1986.85-1244,1,15049,antonin_scalia,scotus_justice,1611.799,1617.837,"--It is relevant only because it is relevant to what their motive was in making the other, earlier annexations?"
+1986.85-1244,1,30448,jerrold_j_ganzfried,,1617.837,1622.307,"--Well, the western addition is not an earlier annexation."
+1986.85-1244,1,15049,antonin_scalia,scotus_justice,1636.401,1642.304,"What was the order of the decision on the two, and how much were they separated in time?"
+1986.85-1244,1,30448,jerrold_j_ganzfried,,1646.256,1651.16,--That was voted by the council on February 5th of 1979.
+1986.85-1244,1,15049,antonin_scalia,scotus_justice,1663.051,1664.401,"--February, April?"
+1986.85-1244,1,30448,jerrold_j_ganzfried,,1664.401,1679.929,"February, April and July, at the time that the western... that the Highlands petition was presented, the western addition matter was still pending in terms of being advertised in the local newspapers and was before the state legislature."
+1986.85-1244,1,15049,antonin_scalia,scotus_justice,1684.381,1703.443,"The theory you're asking us to accept is that we should consider it a dilution of voting rights if it has a potential to cause a dilution in the future, when a black person would have moved into Pleasant Grove, right?"
+1986.85-1244,1,30448,jerrold_j_ganzfried,,1707.228,1712.113,"At the time there was no dilution of anyone who was living in the city, at the time of the annexation."
+1986.85-1244,2,42577,thomas_g_corcoran_jr,,3140.036,3144.821,"Thank you, Mr. Chief Justice."
+1986.85-1244,2,15071,byron_r_white,scotus_justice,3271.533,3284.375,"I take it your argument... all of this is revolving around the validity of the conclusion below, that you hadn't carried your burden of showing no discriminatory purpose."
+1986.85-1244,2,42577,thomas_g_corcoran_jr,,3284.375,3285.092,"Yes, Your Honor."
+1986.85-1244,2,15071,byron_r_white,scotus_justice,3285.092,3288.327,"That's all it's about, isn't it?"
+1986.85-1244,2,42577,thomas_g_corcoran_jr,,3296.933,3297.783,It's not a holding.
+1986.85-1244,2,15071,byron_r_white,scotus_justice,3300.168,3300.852,They would have found--
+1986.85-1244,2,42577,thomas_g_corcoran_jr,,3300.852,3316.346,"--I think... I mean, I have to really look at the language, but my memory is that the District Court said, not only do we find they haven't carried out their burden of proof, but if the burden of proof was the other way would we rule the same way."
+1986.85-1244,2,15071,byron_r_white,scotus_justice,3316.346,3319.465,--We would have had no difficulty in finding and reading it?
+1986.85-1244,2,42577,thomas_g_corcoran_jr,,3319.465,3320.081,Yes.
+1986.85-1244,2,15141,william_h_rehnquist,scotus_justice,3320.081,3322.098,They spoke in the subjunctive?
+1986.85-1244,2,42577,thomas_g_corcoran_jr,,3322.098,3322.517,Yes.
+1986.85-1244,2,15092,sandra_day_oconnor,scotus_justice,3440.288,3443.09,"Well, why did the city ask for pre-clearance?"
+1986.85-1244,2,42577,thomas_g_corcoran_jr,,3443.09,3446.894,Because of the City of Richmond case.
+1986.85-1244,2,15141,william_h_rehnquist,scotus_justice,3559.565,3560.498,"Thank you, Mr. Corcoran."

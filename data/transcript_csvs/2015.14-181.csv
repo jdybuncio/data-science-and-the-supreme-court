@@ -1,0 +1,167 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2015.14-181,0,15086,john_g_roberts_jr,scotus_justice,0.0,9.125,"We'll hear argument this morning in Case 14-181, Gobeille v. Liberty Mutual Insurance Company. Ms. Asay."
+2015.14-181,0,17396,bridget_c_asay,,9.125,19.88,"Mr. Chief Justice, and may it please the Court: Under -- under the principles this Court adopted in Travelers, Vermont's collection of health care data is not preempted."
+2015.14-181,0,15113,anthony_m_kennedy,scotus_justice,45.58,60.925,"And it hasn't been argued by Liberty, and we can ask them about that, that this is burdensome, that it might be different from State to State and so forth, and it may be that this sounds more in conflict preemption than statutory preemption."
+2015.14-181,0,17396,bridget_c_asay,,83.935,98.93,"As implemented by the board, Your Honor, the -- the database requirements apply to Vermonters receiving health care services from a covered insurer regardless of their location, so both inside Vermont and outside Vermont, if it's paid for by a covered insurer."
+2015.14-181,0,15049,antonin_scalia,scotus_justice,113.08,117.065,You say it's chosen to. Does the statute authorize it to?
+2015.14-181,0,17396,bridget_c_asay,,117.065,119.785,"The statute authorizes it to do either, Your Honor."
+2015.14-181,0,15049,antonin_scalia,scotus_justice,119.785,123.075,"We -- we -- we ought to consider that, don't you think?"
+2015.14-181,0,17396,bridget_c_asay,,123.075,148.63,"I don't -- I don't believe so, Your Honor, because the -- the program that has been challenged here by Liberty Mutual is the program as it has been implemented by the board, and that -- that is how it has been implemented. And this kind of generally applicable health care regulation is not preempted for the reasons that this Court has expressed in a series of decisions, including Travelers, De Buono, Mackey, and Dillingham."
+2015.14-181,0,15084,ruth_bader_ginsburg,scotus_justice,148.63,172.929,"What of the point that Justice Kennedy suggested, that -- that States can have different reporting requirements? So it's a little bit like Egelhoff in that respect, that if there were uniform requirements, that would be less burdensome, but if each State has its own specifications, then that becomes burdensome and costly."
+2015.14-181,0,17396,bridget_c_asay,,172.929,175.31,"Your Honor, two responses to that."
+2015.14-181,0,15113,anthony_m_kennedy,scotus_justice,211.45,220.775,"Suppose States had different reporting requirements and the plan showed -- they haven't -- I don't think showed, but suppose they showed that this was burdensome."
+2015.14-181,0,17396,bridget_c_asay,,224.935,230.53,"Only in this way, Your Honor: I think that the Court's holding in Travelers can be distilled to basically three questions."
+2015.14-181,0,15049,antonin_scalia,scotus_justice,254.785,255.74,Excuse me.
+2015.14-181,0,17396,bridget_c_asay,,269.12,292.62,"Your Honor, ERISA governs plan financial reporting and plan disclosures to the members. It -- primarily the reporting requirements that ERISA sets out are about the plan finances: actuarial statements, statements of audited financial statements, information about how the plan is -- about the -- the degree of the plan's financial soundness."
+2015.14-181,0,15068,samuel_a_alito_jr,scotus_justice,296.11,297.23,Is that still true --
+2015.14-181,0,15086,john_g_roberts_jr,scotus_justice,297.23,297.725,Well --
+2015.14-181,0,15068,samuel_a_alito_jr,scotus_justice,297.725,314.51,-- after the Affordable Care Act? Doesn't the Affordable Care Act include in ERISA a section authorizing the Secretary to gather information from plans for the purpose of improving health outcomes?
+2015.14-181,0,17396,bridget_c_asay,,314.51,315.185,Yes.
+2015.14-181,0,15068,samuel_a_alito_jr,scotus_justice,354.47,355.07,But why does it matter --
+2015.14-181,0,17396,bridget_c_asay,,355.07,355.33,-- affect the --
+2015.14-181,0,15068,samuel_a_alito_jr,scotus_justice,355.33,359.69,-- why does it matter whether it was in ERISA as originally passed? It is in ERISA now.
+2015.14-181,0,17396,bridget_c_asay,,380.625,381.57,"That's right, Your Honor."
+2015.14-181,0,15068,samuel_a_alito_jr,scotus_justice,381.57,382.72,So what do you make of that?
+2015.14-181,0,17396,bridget_c_asay,,382.72,386.18,What I make of that is that it does not change the test for preemption either way.
+2015.14-181,0,15139,stephen_g_breyer,scotus_justice,407.18,408.68,It is health care regulation.
+2015.14-181,0,17396,bridget_c_asay,,427.34,429.42,They could -- they could have a standard for --
+2015.14-181,0,15139,stephen_g_breyer,scotus_justice,429.42,429.79,"No, no, no."
+2015.14-181,0,17396,bridget_c_asay,,433.045,433.93,It would be preempted --
+2015.14-181,0,15139,stephen_g_breyer,scotus_justice,433.93,434.1,Correct.
+2015.14-181,0,17396,bridget_c_asay,,434.1,434.97,-- as applied to the ERISA plan.
+2015.14-181,0,15139,stephen_g_breyer,scotus_justice,434.97,451.64,"Now, suppose, instead of that, what they say is, what we would like is that all fiduciaries of ERISA plans send us each month a report of all of the benefits under the retirement plan that they have paid to any member. Can they do that?"
+2015.14-181,0,17396,bridget_c_asay,,451.64,455.66,"Your Honor, I think the answer to that probably depends on the area in which the State is regulating."
+2015.14-181,0,15139,stephen_g_breyer,scotus_justice,455.66,472.37,So what they're doing is they have their -- their Secretary of Health and Human Services that would like to know how wealthy or poor the workers are.
+2015.14-181,0,17396,bridget_c_asay,,473.725,475.8,I think that would prevent a very close question.
+2015.14-181,0,15139,stephen_g_breyer,scotus_justice,475.8,476.94,You think that's a close question?
+2015.14-181,0,17396,bridget_c_asay,,476.94,478.99,That is a close question.
+2015.14-181,0,15139,stephen_g_breyer,scotus_justice,478.99,485.785,"Gee, I see case after case here that says that reporting requirements are a central function."
+2015.14-181,0,17396,bridget_c_asay,,494.64,497.185,I think that is primarily the job of the Labor Department.
+2015.14-181,0,15139,stephen_g_breyer,scotus_justice,498.36,505.37,"Because obviously, my question -- it's a good answer, because you're saying I'm not getting anywhere with this line of -- because you're -- because I'm going to say what about health care."
+2015.14-181,0,17396,bridget_c_asay,,539.15,539.77,And --
+2015.14-181,0,15139,stephen_g_breyer,scotus_justice,539.77,541.4,And I don't know the answer to that question.
+2015.14-181,0,17396,bridget_c_asay,,542.465,555.19,"And, Your Honor, the answer to that question is that, because this is classic health care regulation for which States are responsible -- insurance rate review, budget review, health care research -- it is an area in which States are permitted to regulate."
+2015.14-181,0,15068,samuel_a_alito_jr,scotus_justice,595.66,610.765,"I -- I see that -- I -- I see that argument as to ERISA as originally enacted, but I am very troubled by the fact that it now authorizes the collection of data for the purpose of improving health outcomes -- health care outcomes."
+2015.14-181,0,17396,bridget_c_asay,,634.455,644.09,"Your Honor, the -- the scope of ERISA's preemption provision in 1144 is governed by what Congress intended when it passed ERISA in 1974."
+2015.14-181,0,15068,samuel_a_alito_jr,scotus_justice,658.32,659.83,I really don't see how that can possibly be.
+2015.14-181,0,17396,bridget_c_asay,,676.62,686.02,"I would certainly say that was not preempted if it was added to Part 7, which says that Part 7 does not affect the test for ERISA preemption in 1144."
+2015.14-181,0,15049,antonin_scalia,scotus_justice,686.02,692.655,"Well, saying it doesn't affect the test is quite different from saying that -- that -- that nothing changes."
+2015.14-181,0,17396,bridget_c_asay,,715.135,726.46,"It would change the test, Your Honor, because if ERISA was now considered to have a broader, expansive scope that intruded into health care, that would change this Court's settled precedent in Travelers and De Buono."
+2015.14-181,0,15049,antonin_scalia,scotus_justice,727.03,728.22,"Well, that doesn't change the test."
+2015.14-181,0,17396,bridget_c_asay,,739.61,743.29,It has not made it a core function of ERISA.
+2015.14-181,0,15139,stephen_g_breyer,scotus_justice,769.06,770.71,But this is no problem for you.
+2015.14-181,0,17396,bridget_c_asay,,868.185,870.755,"And if I may try responding this way, Your Honor."
+2015.14-181,0,15139,stephen_g_breyer,scotus_justice,876.62,878.305,You're not going to collect anything.
+2015.14-181,0,17396,bridget_c_asay,,896.425,899.61,And it's possible that they may be able to do that.
+2015.14-181,0,15049,antonin_scalia,scotus_justice,901.59,904.64,"It -- it -- it isn't clear that they're able to do that, is it?"
+2015.14-181,0,17396,bridget_c_asay,,904.64,904.83,No.
+2015.14-181,0,15049,antonin_scalia,scotus_justice,904.83,912.045,"It isn't clear that a Federal agency can eliminate preemption by simply saying, okay, you can go ahead and do it."
+2015.14-181,0,15139,stephen_g_breyer,scotus_justice,912.045,912.76,I'm only asking.
+2015.14-181,0,15049,antonin_scalia,scotus_justice,912.97,916.54,"Even though it's otherwise preempted under the statute, we say it's okay."
+2015.14-181,0,17396,bridget_c_asay,,922.205,923.97,It's -- I think it's not clear that they can do that.
+2015.14-181,0,15113,anthony_m_kennedy,scotus_justice,929.22,932.88,"I -- I know your time is running up, but consider two cases."
+2015.14-181,0,17396,bridget_c_asay,,943.265,947.83,"Yes, Your Honor, same preemption analysis as in Travelers and De Buono and Mackey."
+2015.14-181,0,15113,anthony_m_kennedy,scotus_justice,947.83,949.22,And same result?
+2015.14-181,0,17396,bridget_c_asay,,949.22,950.735,"Yes, Your Honor, same result."
+2015.14-181,0,15131,sonia_sotomayor,scotus_justice,965.84,983.355,"On rebuttal, because I don't want to eat up more of your time, would you go through the -- through more careful -- more slowly, the fact that this information is all electronic, all of it already set out in the HIPAA regulations."
+2015.14-181,0,17396,bridget_c_asay,,995.9,1000.76,"I am not actually familiar with that, but I will -- if I may reserve my remaining time."
+2015.14-181,0,15086,john_g_roberts_jr,scotus_justice,1000.76,1001.63,"Thank you, counsel."
+2015.14-181,0,17396,bridget_c_asay,,1001.63,1007.125,Thank you.
+2015.14-181,0,15086,john_g_roberts_jr,scotus_justice,1007.125,1013.3,Mr. Bash.
+2015.14-181,1,29118,john_f_bash,,1013.3,1023.61,"Mr. Chief Justice, and may it please the Court: I would like to start, if I could, with Justice Breyer's questions, and then hopefully I can move on to Justice Alito's questions about the ACA and Justice Kennedy's questions about the burden here."
+2015.14-181,1,15094,elena_kagan,scotus_justice,1149.27,1155.045,Why isn't there also a requirement that the law just not be burdensome over a certain level?
+2015.14-181,1,29118,john_f_bash,,1155.045,1156.16,"It -- it is, Justice Kagan."
+2015.14-181,1,15113,anthony_m_kennedy,scotus_justice,1181.72,1191.825,"How is that any different than conflict preemption? How does that give any special effect to the statute here? I mean, you could make that argument if there was no preemption provision."
+2015.14-181,1,29118,john_f_bash,,1191.825,1214.375,"Well, I -- I think the way it's different than conflict preemption, or at least one way,1. Is that if it actually is in the core field governed by ERISA, I mean, if the State said, we just want to make sure these pension plans are well-funded, so we're going to ask for reports incident to that role, it would be preempted even if the requirements weren't particularly burdensome. I mean, the Court has never held that in a specific case, but I think the Court's analysis leans towards that direction."
+2015.14-181,1,15049,antonin_scalia,scotus_justice,1224.54,1230.05,The former sounds to me like standard field preemption and the latter like standard conflict preemption.
+2015.14-181,1,29118,john_f_bash,,1230.05,1230.85,"Well, I think there have been --"
+2015.14-181,1,15049,antonin_scalia,scotus_justice,1230.85,1231.56,Is that what you're saying?
+2015.14-181,1,29118,john_f_bash,,1231.56,1235.705,There have been some well-written separate opinions in this area that --
+2015.14-181,1,15049,antonin_scalia,scotus_justice,1235.705,1237.48,I know that. (Laughter.)
+2015.14-181,1,29118,john_f_bash,,1237.48,1247.235,"I don't think -- I don't think -- and here's what I would say about that: I mean, I know your opinion and the opinion of a few other justices have suggested we should shift to field preemption."
+2015.14-181,1,15139,stephen_g_breyer,scotus_justice,1267.68,1278.655,"Why aren't you on the other side of the case? That is, I was fine with you until I read a few of these amicus briefs, and then suddenly I saw 93 million people."
+2015.14-181,1,29118,john_f_bash,,1323.19,1328.1,"I see what you're saying. There's two pieces there, whether this actually has a burden and what we could do about it if there was."
+2015.14-181,1,15094,elena_kagan,scotus_justice,1347.12,1349.315,Then why hasn't that burden been shown?
+2015.14-181,1,29118,john_f_bash,,1349.315,1351.835,Respondent submitted nothing below.
+2015.14-181,1,15094,elena_kagan,scotus_justice,1353.81,1358.37,"There's something very intuitive about their argument, and it's -- it's essentially what Justice Kennedy said."
+2015.14-181,1,29118,john_f_bash,,1371.615,1372.59,Two points.
+2015.14-181,1,15086,john_g_roberts_jr,scotus_justice,1409.25,1438.34,"Well, but a consistent theme in our cases, when you say a mere burden is not enough, is that the government wants employers to, one, set things up -- they don't have to -- and two, they want the money to go to benefits, not to go to administrative and bureaucracy expenses. Is it your view in analyzing this question, do we look at what would happen if 50 States adopted different programs, or do we look at just Vermont because Vermont happens to be first?"
+2015.14-181,1,29118,john_f_bash,,1438.34,1439.125,The former.
+2015.14-181,1,15086,john_g_roberts_jr,scotus_justice,1442.91,1443.86,"Yeah, I think that's right."
+2015.14-181,1,29118,john_f_bash,,1454.625,1455.58,Not -- not on this record.
+2015.14-181,1,15086,john_g_roberts_jr,scotus_justice,1457.14,1459.29,What kind of a record do you need to show that?
+2015.14-181,1,29118,john_f_bash,,1459.29,1459.66,Well --
+2015.14-181,1,15086,john_g_roberts_jr,scotus_justice,1459.66,1466.34,Of course you can't have a record of what 50 States are doing if it's a hypothetical question.
+2015.14-181,1,29118,john_f_bash,,1466.34,1468.84,"Well, I think there's a couple ways Respondent could have made the showing here."
+2015.14-181,1,15139,stephen_g_breyer,scotus_justice,1481.63,1486.32,But you have pages 26 and 27 of the Blue Cross Blue Shield brief.
+2015.14-181,1,29118,john_f_bash,,1509.06,1513.58,"Going to the -- the chart point, I mean, the chart actually doesn't show conflicting requirements."
+2015.14-181,1,15139,stephen_g_breyer,scotus_justice,1522.49,1523.44,"I mean, I'm serious."
+2015.14-181,1,29118,john_f_bash,,1528.33,1536.365,"I think -- I think the opinion is written like this: One, this is a reporting requirement incident to a field that is not governed by ERISA, health care regulation."
+2015.14-181,1,15086,john_g_roberts_jr,scotus_justice,1565.71,1574.72,"So we go through at one point -- all of a sudden there -- the 11th State that does this, and it's the 11 different things, we say is that a burden? Is that a sufficient burden? We say no."
+2015.14-181,1,29118,john_f_bash,,1579.8,1582.21,"Well, I -- I don't think it should turn on that, Mr. Chief Justice."
+2015.14-181,1,15086,john_g_roberts_jr,scotus_justice,1595.885,1600.395,"Well, but this goes to basic, very comprehensive reporting of data."
+2015.14-181,1,29118,john_f_bash,,1617.58,1618.745,"May I respond, Mr. Chief Justice?"
+2015.14-181,1,15086,john_g_roberts_jr,scotus_justice,1618.745,1621.875,No. Of course you can. (Laughter.)
+2015.14-181,1,15086,john_g_roberts_jr,scotus_justice,1621.875,1622.615,Please.
+2015.14-181,1,29118,john_f_bash,,1622.615,1633.98,I think that the -- I'll try to do it in two sentences. I think that the burden here is far less substantial than the burden of complying with State apprenticeship regulations for the way you designed the program in Dillingham.
+2015.14-181,1,15086,john_g_roberts_jr,scotus_justice,1646.93,1654.6,"Thank you, counsel. Mr. Waxman."
+2015.14-181,2,42213,seth_p_waxman,,1654.6,1730.33,"Mr. Chief Justice, and may it please the Court: A signal goal of ERISA enacted in 1974 was to foster employee benefit plans that could operate nationally under nationally uniform rules of administration, first and foremost, rules about recordkeeping and reporting. Now, of course ERISA plans, like other regular businesses, are subject to ancillary regulation like maintaining a safe workplace, paying minimum wage and prevailing wage laws, paying their State real estate taxes on their headquarters, and if they choose to run a hospital, run a law firm for their legal services, benefit program, run a childcare center, they are subject to local regulation like other providers of those local services. But in every single case in this Court, and every lower court decision that I have found in which courts have upheld, State by State, reporting requirements, it has always been incident to a substantive obligation that the State could impose."
+2015.14-181,2,15094,elena_kagan,scotus_justice,1742.34,1749.215,"Mr. Waxman, why was it that you introduced absolutely no evidence of burden in the lower courts here?"
+2015.14-181,2,42213,seth_p_waxman,,1749.215,1751.02,"That is not true, Justice Kagan."
+2015.14-181,2,15139,stephen_g_breyer,scotus_justice,1818.06,1818.67,What about the converse --
+2015.14-181,2,42213,seth_p_waxman,,1818.67,1819.22,-- not State regulation.
+2015.14-181,2,15139,stephen_g_breyer,scotus_justice,1819.22,1830.255,What about the converse? What about the converse point for you that I was making before? The number that jumped out from the page is the 93 million people this affects.
+2015.14-181,2,42213,seth_p_waxman,,1837.3,1838.02,It's --
+2015.14-181,2,15139,stephen_g_breyer,scotus_justice,1838.02,1840.325,-- in raising costs. That's for you.
+2015.14-181,2,42213,seth_p_waxman,,1842.83,1843.34,"Well, that --"
+2015.14-181,2,15139,stephen_g_breyer,scotus_justice,1843.34,1887.175,"-- so I ask you: If it does come about, if it should come about and you lost this case, why can't your clients go right to the Department of Labor, whose regulations I've read, or possibly ACCA, and say, we want you to impose a uniform national data collection system or the equivalent, put limits, and then preempt the conflicting State limits? Now, it may be other members of the Court do not agree with this approach, but I've written a case, MetroMedia, where I think the agencies have a lot of power there, and I think they have more capacity to decide this kind of thing than a group of judges. So what about that for you?"
+2015.14-181,2,42213,seth_p_waxman,,1887.175,1923.18,"Justice Breyer, on a couple of points: First, in the lower court and in this Court, neither party on the other side has disputed what I think is the self-evident proposition, that the Department of Labor and now the Department of Labor and the Department of Health and Human Services, absolutely have the statutory authority under ERISA to impose the kind of recordkeeping and reporting requirements that Vermont and now 17 or 19 other States do."
+2015.14-181,2,15094,elena_kagan,scotus_justice,1932.43,1940.23,"Well, that sounds like a one-size-fits-all solution, and there's some value to States being able to think about their own health care needs."
+2015.14-181,2,42213,seth_p_waxman,,1940.23,1940.59,Of course.
+2015.14-181,2,15094,elena_kagan,scotus_justice,1940.59,1952.565,"And to think about what things they want. So I mean, just again, let's go back to this burden because it is a very intuitive idea that you have on your side: 50 different States; that's a lot of money."
+2015.14-181,2,42213,seth_p_waxman,,1990.415,1991.345,Oh.
+2015.14-181,2,15094,elena_kagan,scotus_justice,1991.345,1993.855,And why don't you have it in the record?
+2015.14-181,2,42213,seth_p_waxman,,1993.855,1994.31,Okay.
+2015.14-181,2,15084,ruth_bader_ginsburg,scotus_justice,2046.59,2065.935,"Well, we know -- we know, Mr. Waxman, that Blue -- Blue Cross is providing this information with respect to individuals that its own plans insure, and we're told that it is providing the information for other self-insured ERISA plans who didn't make this objection."
+2015.14-181,2,42213,seth_p_waxman,,2078.725,2114.87,"Justice Ginsburg, the Blue Cross Blue Shield Association has actually filed a brief in its -- in this case, and it explains at great detail, as does the brief of the multi-employer plans, which like Liberty Mutual operate in 50 States, about the burden, about the fact that Blue Cross Blue Shield doesn't have all this information in the normal course, the multi-employer plans don't have it, and Blue Cross Blue Shield, as a third-party administrator, has told this Court just exactly how burdensome and how expensive it is. Of course they could do it for Liberty Mutual in Vermont."
+2015.14-181,2,15086,john_g_roberts_jr,scotus_justice,2171.86,2180.16,"Is that information, the -- the -- the laundry list you went through, is that already available at Blue Cross Blue Shield and being reported somewhere else?"
+2015.14-181,2,42213,seth_p_waxman,,2180.16,2181.4,"No, it is not."
+2015.14-181,2,15139,stephen_g_breyer,scotus_justice,2252.06,2252.77,Why can't you do this?
+2015.14-181,2,42213,seth_p_waxman,,2252.77,2253.16,"Well, every --"
+2015.14-181,2,15139,stephen_g_breyer,scotus_justice,2253.16,2276.23,"Why can't you -- why can't you simply go -- and the statute says, 1143(a)(1) -- the statute says that the Secretary of Labor and the authorities -- broad in these -- has authority to undertake surveys and collect, compile, analyze, publish data information and statistics on welfare plans."
+2015.14-181,2,42213,seth_p_waxman,,2279.46,2280.02,Well --
+2015.14-181,2,15139,stephen_g_breyer,scotus_justice,2280.02,2292.92,"And you say, DOL, we want you to promulgate a reg that says you will collect some of this information, but even if you collect -- don't collect it all, you let the States collect the rest."
+2015.14-181,2,42213,seth_p_waxman,,2292.92,2293.17,Just --
+2015.14-181,2,15139,stephen_g_breyer,scotus_justice,2293.17,2296.07,"Now, they can prevent it from being burdensome."
+2015.14-181,2,42213,seth_p_waxman,,2296.07,2304.58,"Justice Breyer, I know how exciting it is to get in the middle of a jurisprudential debate between you and Justice Scalia."
+2015.14-181,2,15139,stephen_g_breyer,scotus_justice,2304.58,2305.26,But this --
+2015.14-181,2,15139,stephen_g_breyer,scotus_justice,2305.26,2308.04,I don't see -- this is not -- go ahead.
+2015.14-181,2,42213,seth_p_waxman,,2308.04,2310.81,I'm -- my -- my fingers are tingling at the prospect.
+2015.14-181,2,42213,seth_p_waxman,,2313.185,2393.94,"I am not sure that the Department of Labor has the regulatory authority to essentially excuse the preemption provision, but -- and you don't have to just go to the provision of ERISA that you quoted -- in 1024(a)(2)(B) of ERISA, it authorizes the Secretary of Labor to require the production of, quote, ""any information or data from an ERISA plan where he finds that such data or information is necessary to carry out the purposes of this subchapter."" And adverting to Justice Alito's comments, in the AHCA, the Secretary has the authority to require the production of -- from plans of, quote, ""any other information as determined appropriate by the Secretary."" So the notion that preemption here is sort of like an -- operates like an accordion -- if the Department of Labor has the authority to get it but hasn't chosen to exercise, it's not preempted; but if they did promulgate a regulation, either of your color or Justice Scalia's color, that it would be preempted -- is a crazy -- is a crazy notion."
+2015.14-181,2,15139,stephen_g_breyer,scotus_justice,2393.94,2401.075,"You might think this is not sane, but what I'm -- the way I'm seeing it here is there are two competing problems."
+2015.14-181,2,42213,seth_p_waxman,,2426.645,2449.6,"How to interpret this statute as to say that in exchange for blanket Federal regulation of these plans, now augmented in the context of health care plans by the Affordable Care Act, the -- by the Federal government, the States are preempted from regulating the core functions of what an ERISA plan does."
+2015.14-181,2,15094,elena_kagan,scotus_justice,2517.88,2520.84,"Mr. Waxman, I guess I just don't understand this argument."
+2015.14-181,2,42213,seth_p_waxman,,2573.18,2573.455,Okay.
+2015.14-181,2,15084,ruth_bader_ginsburg,scotus_justice,2696.13,2717.365,"You're -- you're saying that the State simply cannot have an all -- all-payer database, that that's out because ERISA precludes it, even though it's going to leave a big hole in the information that the State has about that health care being given to its citizens,"
+2015.14-181,2,42213,seth_p_waxman,,2717.365,2739.08,"I don't think that that's at all the case, Justice Ginsburg, and I don't want to be misunderstood about this. The State of Vermont, just to take one example: The database statute authorizes the relevant Secretary to obtain this information from everybody, not only who pays for health care in Vermont, but the hospitals and clinics that provide it."
+2015.14-181,2,15113,anthony_m_kennedy,scotus_justice,2836.29,2849.085,"Well -- well, as -- as you're explaining this, it just seems to me it's much easier to ask the plan provider than to ask 15 doctors in -- in -- in one small town, and 50 others, and all the patients --"
+2015.14-181,2,42213,seth_p_waxman,,2849.085,2849.71,You know --
+2015.14-181,2,15113,anthony_m_kennedy,scotus_justice,2849.71,2851.21,-- unless I misunderstand your point --
+2015.14-181,2,42213,seth_p_waxman,,2851.21,2851.68,"No, you're not."
+2015.14-181,2,15113,anthony_m_kennedy,scotus_justice,2851.68,2853.255,-- it seems to me it's much -- much easier.
+2015.14-181,2,42213,seth_p_waxman,,2853.255,2857.23,"It -- perhaps it's easier, but here's the point."
+2015.14-181,2,15084,ruth_bader_ginsburg,scotus_justice,3024.93,3033.18,"But this is -- this information is provided by Blue Cross for some self-insured plans, right?"
+2015.14-181,2,42213,seth_p_waxman,,3033.18,3046.93,"I believe that -- I believe that the record shows that Blue Cross Blue Shield provides this information to Vermont, not only on behalf of itself as an insurer, but also some other --"
+2015.14-181,2,15084,ruth_bader_ginsburg,scotus_justice,3046.93,3055.21,And do we know -- do we know what costs Blue Shield then passes on to those other self-insured plans?
+2015.14-181,2,42213,seth_p_waxman,,3055.21,3056.14,We don't know it.
+2015.14-181,2,15094,elena_kagan,scotus_justice,3137.21,3150.655,"Mr. Waxman, could a State pass a tax law that requires information about -- about pension disbursements, about claim payments, about assets held in trust? Could a State do that?"
+2015.14-181,2,42213,seth_p_waxman,,3150.655,3156.39,I don't think that a State -- when you're saying requested information or imposing a tax?
+2015.14-181,2,15094,elena_kagan,scotus_justice,3156.39,3160.405,A tax law that requires information of various kinds.
+2015.14-181,2,42213,seth_p_waxman,,3160.405,3166.67,I don't think a -- I don't think a State can impose a tax on benefits that are --
+2015.14-181,2,15094,elena_kagan,scotus_justice,3166.67,3175.655,"Not impose a tax, that requires information in order to ensure that the State is taxing the right things."
+2015.14-181,2,42213,seth_p_waxman,,3175.655,3180.19,"In other words, we want to tax the benefits that you're getting --"
+2015.14-181,2,15094,elena_kagan,scotus_justice,3180.19,3193.515,"Do you think that a State tax law can't require any information about any of the things that ERISA does, that the plans do, pension disbursements, assets, claim payments, nothing?"
+2015.14-181,2,42213,seth_p_waxman,,3193.515,3197.16,I -- I think not.
+2015.14-181,2,15086,john_g_roberts_jr,scotus_justice,3259.8,3267.475,"Thank you, counsel. Ms. Asay, you have three minutes remaining."
+2015.14-181,3,17396,bridget_c_asay,,3267.475,3285.775,"Thank you. I'd like to begin with Justice Sotomayor's question about the standardized data, because I think that ties in nicely with many questions from the Court about the question of burden. So the way that electronic claims transactions work is not something that the State of Vermont invented."
+2015.14-181,3,15086,john_g_roberts_jr,scotus_justice,3481.31,0.0,"Thank you, counsel. The case is submitted."

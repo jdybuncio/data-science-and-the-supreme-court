@@ -1,0 +1,50 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1982.81-6633,0,15073,warren_e_burger,scotus_justice,0.0,8.478,We will hear arguments next in Bearden against Georgia.
+1982.81-6633,0,31408,james_h_lohr,,69.391,83.839,"Mr. Chief Justice, and may it please the Court, this case involves the revocation of an indigent's probation for his failure to pay a fine and restitution which was imposed as a condition of his probation."
+1982.81-6633,1,26246,george_m_weaver,,1647.012,1654.367,"Mr. Chief Justice, may it please the Court, in this case, the petitioner raises an equal protection challenge to the revocation of his probation."
+1982.81-6633,1,15092,sandra_day_oconnor,scotus_justice,1743.799,1752.25,"Well, I suppose the defendant who is on probation has some kind of a liberty interest in remaining out of jail, does he not?"
+1982.81-6633,1,26246,george_m_weaver,,1752.25,1765.168,"--Yes, Your Honor, I think he has a conditional liberty interest, and that liberty can only be taken away if the requirements of the due process clause are met."
+1982.81-6633,1,15092,sandra_day_oconnor,scotus_justice,1778.77,1788.296,"Well, can he have his probation revoked solely because of circumstances beyond his control?"
+1982.81-6633,1,26246,george_m_weaver,,1802.338,1805.664,"I would say no, in that situation."
+1982.81-6633,1,15092,sandra_day_oconnor,scotus_justice,1805.664,1806.697,"Well, all right."
+1982.81-6633,1,26246,george_m_weaver,,1821.302,1829.717,"Well, Your Honor, in your hypothetical, I would say the revocation in those circumstances would be arbitrary, and therefore would violate the equal protection clause."
+1982.81-6633,1,15092,sandra_day_oconnor,scotus_justice,1829.717,1830.157,All right.
+1982.81-6633,1,26246,george_m_weaver,,1837.855,1853.694,"Justice O'Connor, I think the trial court could rationally have concluded that the petitioner's loss of his job and his failure to pay the fine, his inability to pay the fine from the record increased or made him a less acceptable probation risk."
+1982.81-6633,1,15104,thurgood_marshall,scotus_justice,1864.703,1872.779,Do you mean that a person who is poor is a bigger risk than a person who has money?
+1982.81-6633,1,26246,george_m_weaver,,1872.779,1874.311,"No, sir."
+1982.81-6633,1,15104,thurgood_marshall,scotus_justice,1876.043,1877.107,I thought you just said that.
+1982.81-6633,1,26246,george_m_weaver,,1877.107,1882.102,"--Well, I think a trial court could reasonably use--"
+1982.81-6633,1,15104,thurgood_marshall,scotus_justice,1882.102,1883.432,A trial court could say that?
+1982.81-6633,1,26246,george_m_weaver,,1883.432,1892.225,--A trial court could reasonably use a person's financial resources and their employment history as an index to their likely probation success.
+1982.81-6633,1,15104,thurgood_marshall,scotus_justice,1892.225,1896.316,"No, to the likelihood that they would commit a crime, is what you were talking about."
+1982.81-6633,1,26246,george_m_weaver,,1896.316,1899.955,Likelihood that they would commit a crime and probation success.
+1982.81-6633,1,15104,thurgood_marshall,scotus_justice,1899.955,1903.659,So a poor person is more likely to commit a crime than a person with money?
+1982.81-6633,1,26246,george_m_weaver,,1908.14,1911.606,"Your Honor, I am saying it is reasonable to use... Let me put it this way."
+1982.81-6633,1,15060,john_paul_stevens,scotus_justice,2030.557,2050.69,"Mr. Attorney General, would that be permissible as a matter of constitutional law if, say, his probation period lasted for three years, and he paid the $550 within the deadline, he used his last dime to pay the $550, and periodically his condition is reviewed, and the judge finds out he is totally broke, he has no money at all, he is indigent."
+1982.81-6633,1,26246,george_m_weaver,,2055.688,2056.421,"--No, sir."
+1982.81-6633,1,15060,john_paul_stevens,scotus_justice,2062.668,2067.964,What if one of the conditions is that he must appear to the judge periodically to be a good probation risk?
+1982.81-6633,1,26246,george_m_weaver,,2074.228,2078.946,"--If he violated a condition of probation, and the trial court--"
+1982.81-6633,1,15060,john_paul_stevens,scotus_justice,2078.946,2091.705,"Well, one of the conditions is, he satisfy the judge that he is still not a risk to society and that he is just generally still a good risk, and you leave that to the wide discretion of the sentencing judge, who always has very wide discretion in these matters."
+1982.81-6633,1,26246,george_m_weaver,,2099.215,2102.576,"--Your Honor, if that is a valid condition of probation, I would agree with you."
+1982.81-6633,1,15060,john_paul_stevens,scotus_justice,2102.576,2103.449,"Well, that is my question."
+1982.81-6633,1,26246,george_m_weaver,,2104.51,2106.043,I'm not sure that it is.
+1982.81-6633,1,15060,john_paul_stevens,scotus_justice,2116.037,2121.848,"Well, but I think your argument is that indigency is related to probation worthiness."
+1982.81-6633,1,26246,george_m_weaver,,2123.537,2127.659,I am saying that a person's financial resources--
+1982.81-6633,1,15060,john_paul_stevens,scotus_justice,2127.659,2129.706,Are related to his probation worthiness.
+1982.81-6633,1,26246,george_m_weaver,,2129.706,2130.844,"--Yes, sir."
+1982.81-6633,1,15060,john_paul_stevens,scotus_justice,2130.844,2137.465,"If that is true, I would not see any constitutional objection to a statute such as I hypothesize."
+1982.81-6633,1,26246,george_m_weaver,,2137.465,2144.044,"If that kind of condition would be legitimate, then I think probation probably could be revoked."
+1982.81-6633,1,15060,john_paul_stevens,scotus_justice,2144.044,2145.651,I think that is what the issue in the case is.
+1982.81-6633,1,26246,george_m_weaver,,2145.651,2146.384,"Yes, sir."
+1982.81-6633,1,15104,thurgood_marshall,scotus_justice,2148.353,2155.099,"Suppose the original case comes up, and the judge says, there are two people involved here."
+1982.81-6633,1,26246,george_m_weaver,,2172.78,2175.483,"--I'm not sure, Your Honor."
+1982.81-6633,1,15141,william_h_rehnquist,scotus_justice,2195.334,2202.299,Wouldn't some of the consideration you are talking about depend on the crime with which the person was charged?
+1982.81-6633,1,26246,george_m_weaver,,2225.867,2226.962,"Yes, sir."
+1982.81-6633,1,15092,sandra_day_oconnor,scotus_justice,2259.199,2264.195,Is that a due process kind of a concern rather than equal protection?
+1982.81-6633,1,26246,george_m_weaver,,2272.397,2289.559,"--Well, the due process clause is broad enough, I think, to include this issue, but as I understand the prior decisions of the Court, the equal protection clause has been used to decide whether state action is arbitrary or irrational."
+1982.81-6633,1,15092,sandra_day_oconnor,scotus_justice,2291.606,2293.7,"It is not altogether clear, is it?"
+1982.81-6633,1,26246,george_m_weaver,,2293.7,2294.511,--Your Honor?
+1982.81-6633,1,15092,sandra_day_oconnor,scotus_justice,2294.511,2299.853,It is not altogether clear what the basis of some of these prior decisions--
+1982.81-6633,1,26246,george_m_weaver,,2299.853,2300.711,"No, sir."
+1982.81-6633,2,31408,james_h_lohr,,2597.827,2603.196,"Mr. Chief Justice, I have just a couple of points."
+1982.81-6633,2,15073,warren_e_burger,scotus_justice,2697.585,2698.505,"Thank you, gentlemen."

@@ -1,0 +1,249 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2016.16-348,0,15086,john_g_roberts_jr,scotus_justice,0.0,6.165,"We will hear argument next in Case 16-348, Midland Funding v. Johnson. Mr. Shanmugam."
+2016.16-348,0,33978,kannon_k_shanmugam,,6.165,15.705,"Thank you, Mr. Chief Justice, and may it please the Court: The Bankruptcy Code sets up a process for evaluating claims that are subject to potential limitations defenses."
+2016.16-348,0,15084,ruth_bader_ginsburg,scotus_justice,48.85,63.09,"Under the Fair Debt Collection Practices Act, suppose there were a suit brought in court to collect on a debt that is time-barred."
+2016.16-348,0,33978,kannon_k_shanmugam,,71.825,75.5,"Justice Ginsburg, our view, perhaps not surprisingly, is no."
+2016.16-348,0,15113,anthony_m_kennedy,scotus_justice,139.695,150.725,"Are there -- are there any circumstances, just as a practical matter, where the trustee decides that the trustee is going to pay the time-barred debt, it's obviously prejudicial to the other creditors."
+2016.16-348,0,33978,kannon_k_shanmugam,,168.25,181.97,"No, and -- and -- and Justice Kennedy, I can't think of any instance either, and I think that that's precisely because the trustee has the statutory duty to object, to preserve the assets of the estate, and to do so for the creditors."
+2016.16-348,0,15131,sonia_sotomayor,scotus_justice,185.14,185.85,I'm sorry.
+2016.16-348,0,33978,kannon_k_shanmugam,,241.575,254.15,"So, Justice Sotomayor, I do not think that that is a valid understanding of our business model, and let me explain why. First, this debt was not time-barred at the time it was purchased."
+2016.16-348,0,15131,sonia_sotomayor,scotus_justice,266.0,272.21,Did you have a good-faith basis in this case to believe that the debt was not time-barred --
+2016.16-348,0,33978,kannon_k_shanmugam,,272.21,272.745,Well --
+2016.16-348,0,15131,sonia_sotomayor,scotus_justice,272.745,277.075,-- when you filed this claim? Forget about some of the others.
+2016.16-348,0,33978,kannon_k_shanmugam,,277.075,284.79,"Just to be clear, there is actually no allegation in this case that we knew that there was a valid limitations defense."
+2016.16-348,0,15131,sonia_sotomayor,scotus_justice,305.02,310.935,Did you have a good-faith basis to believe the statute of limitations was not applicable?
+2016.16-348,0,33978,kannon_k_shanmugam,,310.935,323.365,"Midland at the time would file proofs of claim without conducting some sort of exhaustive inquiry, and that's for the simple reason that Midland did not believe that that was legally required."
+2016.16-348,0,15131,sonia_sotomayor,scotus_justice,325.99,341.505,So what do you do with the committee notes that say that everyone who files a proof of claim has an obligation to do a good-faith inquiry as to whether it's an enforceable obligation or not?
+2016.16-348,0,33978,kannon_k_shanmugam,,341.505,346.86,I don't think that that is an accurate characterization of what the advisory committee did.
+2016.16-348,0,15131,sonia_sotomayor,scotus_justice,347.82,347.97,"No, no."
+2016.16-348,0,33978,kannon_k_shanmugam,,349.86,361.61,"I don't think that that's an accurate characterization of what they said, either. And let me explain why that's true. First of all, let me set out what the advisory committee actually did, because that's a critical part of our argument."
+2016.16-348,0,15131,sonia_sotomayor,scotus_justice,426.83,428.63,I agree with you.
+2016.16-348,0,33978,kannon_k_shanmugam,,456.05,466.76,"And our view, Justice Sotomayor, just to be clear, is that you have done exactly what the code itself contemplates. And this goes to the second reason why the advisory committee did not go further."
+2016.16-348,0,15131,sonia_sotomayor,scotus_justice,481.98,482.24,I'm sorry.
+2016.16-348,0,15131,sonia_sotomayor,scotus_justice,485.99,487.39,Or you can do it in your reply.
+2016.16-348,0,33978,kannon_k_shanmugam,,487.39,487.65,No.
+2016.16-348,0,15131,sonia_sotomayor,scotus_justice,490.03,490.06,Or --
+2016.16-348,0,33978,kannon_k_shanmugam,,490.06,513.02,"It's in our brief at page -- I believe it's at page 86 of the Agenda Book where the advisory committee working group discusses the proposal to require creditors to, quote, ""State whether the claim is timely under the relevant statute of limitations."" But let me explain that point in a little more detail, because I do think that this is really important to understanding our argument here."
+2016.16-348,0,15131,sonia_sotomayor,scotus_justice,583.06,586.02,I'm -- I'm -- I'm a little bit confused.
+2016.16-348,0,33978,kannon_k_shanmugam,,600.36,602.935,"Quite to the contrary, Justice Sotomayor."
+2016.16-348,0,15131,sonia_sotomayor,scotus_justice,622.19,629.265,"Contingent, unmatured, these are all words that suggest an entitlement to payment."
+2016.16-348,0,33978,kannon_k_shanmugam,,643.845,653.735,"I agree with the first half of your question, but not the second, Justice Sotomayor, because you're right: The code talks about an entitlement to payment."
+2016.16-348,0,15094,elena_kagan,scotus_justice,694.54,696.34,"Before you get to that language, Mr. Shanmugam."
+2016.16-348,0,33978,kannon_k_shanmugam,,731.775,733.85,"So, Justice Kagan, two responses to that."
+2016.16-348,0,15094,elena_kagan,scotus_justice,769.6,804.24,"But I -- but I -- the understanding here is that this case involves not claims which maybe they're barred by the statute of limitations and maybe they're not, but the issue, as presented to us, is as to claims where everybody knows, including the person who's filing the proof of claim, that they're barred by the statute of limitations. And what sense could it make for Congress to think, oh, that's a great idea for some -- for people just to file those claims and -- and, you know, the -- on the -- on -- the best thing that can happen is that those claims will be filtered out, and the worst thing that can happen is that they won't be."
+2016.16-348,0,33978,kannon_k_shanmugam,,808.175,808.56,Yeah.
+2016.16-348,0,15113,anthony_m_kennedy,scotus_justice,856.67,860.15,"Is part of that -- help me, it's on basic bankruptcy law."
+2016.16-348,0,33978,kannon_k_shanmugam,,874.76,882.1,"I think it should be listed for the simple reason that there is a valid claim and there is, therefore, a valid right to payment."
+2016.16-348,0,15113,anthony_m_kennedy,scotus_justice,882.1,888.725,"As a routine matter, does -- does the discharge extinguish that claim?"
+2016.16-348,0,33978,kannon_k_shanmugam,,888.725,890.085,"Yes, that is correct."
+2016.16-348,0,15084,ruth_bader_ginsburg,scotus_justice,891.21,897.58,"But why would need -- if a claim is time barred, you don't need a fresh start to get rid of that claim."
+2016.16-348,0,33978,kannon_k_shanmugam,,904.64,923.935,"Justice Ginsburg, I disagree with that solely because of the virtue of a discharge. And the virtue of a discharge is that in the language of the Code and the language in particular of Section 523(a)(3), the discharge prevents the creditor from taking any act to collect."
+2016.16-348,0,15113,anthony_m_kennedy,scotus_justice,938.58,944.67,It would also foreclose the possibility of the creditor arguing that there had been a waiver.
+2016.16-348,0,33978,kannon_k_shanmugam,,944.67,946.36,Yes.
+2016.16-348,0,15113,anthony_m_kennedy,scotus_justice,947.52,954.925,"In other words, if the debt is discharged, then the debtor doesn't have to worry about some claim that he had waived the statute of limitations."
+2016.16-348,0,33978,kannon_k_shanmugam,,954.925,955.5,Yes.
+2016.16-348,0,15084,ruth_bader_ginsburg,scotus_justice,996.76,1001.05,We are talking about the effect of the FDCPA.
+2016.16-348,0,33978,kannon_k_shanmugam,,1025.425,1036.42,"Well, again, I think that that question, Justice Ginsburg, presupposes a state of mind, which is simply not alleged and on which there is simply no record in this case or in other cases."
+2016.16-348,0,15094,elena_kagan,scotus_justice,1085.19,1086.67,"Well, Mr. -- I'm sorry."
+2016.16-348,0,33978,kannon_k_shanmugam,,1086.67,1091.95,"Well, I was going to bring this back to the language of the Code because I did want to address that, but Justice Kagan."
+2016.16-348,0,15094,elena_kagan,scotus_justice,1091.95,1095.11,"Let's suppose that you are right, that the Code allows this."
+2016.16-348,0,33978,kannon_k_shanmugam,,1130.66,1130.92,Yeah.
+2016.16-348,0,15131,sonia_sotomayor,scotus_justice,1199.95,1200.17,I'm sorry.
+2016.16-348,0,33978,kannon_k_shanmugam,,1215.135,1221.26,"Well, I don't think that -- that that even rises to the level of, in the parlance of the last argument, a drive-by holding."
+2016.16-348,0,15131,sonia_sotomayor,scotus_justice,1296.47,1304.865,So it's a breach of the trustee's duties if he or she lets the claim go through without objecting?
+2016.16-348,0,33978,kannon_k_shanmugam,,1304.865,1306.48,If some purpose would be served.
+2016.16-348,0,15131,sonia_sotomayor,scotus_justice,1308.84,1311.295,"Well, that was Justice Kennedy's initial question."
+2016.16-348,0,33978,kannon_k_shanmugam,,1318.19,1322.71,"The trustee should object where, in the language of the statute, some purpose would be served."
+2016.16-348,0,15131,sonia_sotomayor,scotus_justice,1338.11,1350.19,"Where -- where would that situation arise? The amount the creditor pays might be -- the debtor pays might be true, but every other creditor loses if an unenforceable debt is paid."
+2016.16-348,0,33978,kannon_k_shanmugam,,1350.19,1353.56,There -- there could be a case in which the unsecured creditors get nothing.
+2016.16-348,0,15131,sonia_sotomayor,scotus_justice,1359.71,1365.375,So those situations don't account for the $800 million you've collected on these old claims.
+2016.16-348,0,33978,kannon_k_shanmugam,,1365.375,1380.59,"Well, I don't -- I don't think that there is a record on how much we've collected with regard to this particular type of claim more generally. But leaving that aside, I want to make one very important point about the interplay between the Bankruptcy Code and the FDCPA here."
+2016.16-348,0,15068,samuel_a_alito_jr,scotus_justice,1408.88,1421.065,"Could I just ask you a practical question? Would there be anything -- suppose a trustee or the attorney for a debtor said, I am going to -- let's say this case is in Alabama."
+2016.16-348,0,33978,kannon_k_shanmugam,,1436.235,1450.31,"I mean, no, not necessarily, because at that point essentially what -- what would be happening is that the trustee would say there's a prima facie limitations defense here, we're going to raise an objection, and at that point the issue would be litigated."
+2016.16-348,0,15068,samuel_a_alito_jr,scotus_justice,1466.21,1473.38,"Well, I'll -- I'll ask Mr. Geyser the same question, but it -- I can't understand why a trustee or an attorney wouldn't take that -- wouldn't take that approach --"
+2016.16-348,0,33978,kannon_k_shanmugam,,1473.38,1474.04,Well --
+2016.16-348,0,15068,samuel_a_alito_jr,scotus_justice,1474.04,1479.75,-- automatically object to anything that is over the -- the statute of limitations.
+2016.16-348,0,33978,kannon_k_shanmugam,,1479.75,1500.78,"Well -- and I think that this illustrates the artificiality of taking the FDCPA and injecting it into the bankruptcy regime. To be sure, the FDCPA applies to debt collectors specifically, but I think in this context, what would either happen is that there will be an objection and the claim will be disallowed -- that's what took place in this case, albeit on somewhat different grounds."
+2016.16-348,0,15131,sonia_sotomayor,scotus_justice,1545.8,1546.33,I'm sorry.
+2016.16-348,0,33978,kannon_k_shanmugam,,1571.265,1591.475,"Speaking of time, I'd like to reserve the balance of mine, but let me answer your question, Justice Sotomayor. It is simply not true that the amount that the trustee gets paid is somehow dependent on the objections that the trustee raises, and I would revert to the fundamental principle underlying our argument. This is exactly how Congress thought the system should work."
+2016.16-348,0,15086,john_g_roberts_jr,scotus_justice,1602.59,1607.04,"Thank you, counsel. Mr. Geyser."
+2016.16-348,1,62794,daniel_l_geyser,,1607.04,1616.025,"Thank you, Mr. Chief Justice, and may it please the Court: Midland is, in fact, using a business model that intentionally floods bankruptcy courts with time-barred debts."
+2016.16-348,1,15086,john_g_roberts_jr,scotus_justice,1636.05,1656.7,"Are there other defenses to a debt that you would say are covered by your theory other than the statute of limitations? For example, that the -- the debt was incurred to a contract of adhesion or, you know, the -- the normal list of reasons that a debt might be unenforceable."
+2016.16-348,1,62794,daniel_l_geyser,,1658.495,1662.555,"Our theory, I think, is exactly what Justice Sotomayor said earlier in the argument."
+2016.16-348,1,15139,stephen_g_breyer,scotus_justice,1676.72,1691.325,"Well, then what that means is that not just in this case, not just with statute of limitations, that -- that there are a whole set of claims that can be brought in bankruptcy where you would say they don't."
+2016.16-348,1,62794,daniel_l_geyser,,1734.175,1739.54,"Your Honor, I think the point of the Bankruptcy Code is to have legitimate genuine disputes resolved in the Bankruptcy Code."
+2016.16-348,1,15139,stephen_g_breyer,scotus_justice,1739.54,1740.25,Really? Really.
+2016.16-348,1,62794,daniel_l_geyser,,1753.14,1753.68,Not -- not at all --
+2016.16-348,1,15139,stephen_g_breyer,scotus_justice,1753.68,1754.71,Is that outside its purpose?
+2016.16-348,1,62794,daniel_l_geyser,,1754.71,1755.24,Not at all.
+2016.16-348,1,15139,stephen_g_breyer,scotus_justice,1759.9,1759.97,Oh.
+2016.16-348,1,62794,daniel_l_geyser,,1768.16,1768.54,No.
+2016.16-348,1,15086,john_g_roberts_jr,scotus_justice,1795.98,1811.12,"Well -- well, but how do you know that's the case in the statute of limitations with respect to a statute of limitations defense? There are exceptions to the statutes of limitations that -- that -- totally -- you know, the whole list of -- so it's hard to say."
+2016.16-348,1,62794,daniel_l_geyser,,1827.465,1827.89,Yeah --
+2016.16-348,1,15086,john_g_roberts_jr,scotus_justice,1827.89,1834.175,How do we know? Do we -- is there some way we know that there wasn't a tolling argument that could be raised in this case?
+2016.16-348,1,62794,daniel_l_geyser,,1834.175,1841.085,"Your Honor, we -- first, we have alleged that Midland did, in fact, know there was no defense of limitations objection."
+2016.16-348,1,15086,john_g_roberts_jr,scotus_justice,1843.82,1846.65,There was a little disputed footnote battle about that --
+2016.16-348,1,62794,daniel_l_geyser,,1846.65,1846.74,Yes --
+2016.16-348,1,15086,john_g_roberts_jr,scotus_justice,1846.74,1848.71,-- in terms of what the record provided or not.
+2016.16-348,1,62794,daniel_l_geyser,,1848.71,1852.3,"So -- there was, Your Honor. We -- we think that the original complaint should have been clear in this."
+2016.16-348,1,15086,john_g_roberts_jr,scotus_justice,1856.205,1856.59,Okay.
+2016.16-348,1,62794,daniel_l_geyser,,1874.41,1880.44,All -- all they have to do is satisfy and discharge the obligation they have to satisfy and discharge under Rule 9011.
+2016.16-348,1,15086,john_g_roberts_jr,scotus_justice,1881.45,1882.58,"Well, tell me what that is."
+2016.16-348,1,62794,daniel_l_geyser,,1882.58,1895.4,"It's -- it is a reasonable belief, after a reasonable inquiry, that they have a -- a ground for the complaint, that the evidentiary allegations have some factual support, and that the claim isn't filed for --"
+2016.16-348,1,15086,john_g_roberts_jr,scotus_justice,1895.4,1902.19,"So it's -- it's not enough for them to say there might be, it's -- you know, there -- a tolling issue here."
+2016.16-348,1,62794,daniel_l_geyser,,1916.81,1920.74,Only when the affirmative defense is blindingly obvious on the face of the complaint.
+2016.16-348,1,15113,anthony_m_kennedy,scotus_justice,1923.815,1926.395,"Well, let -- let me -- let me ask this."
+2016.16-348,1,62794,daniel_l_geyser,,1950.86,1952.03,Your Honor --
+2016.16-348,1,15113,anthony_m_kennedy,scotus_justice,1952.03,1953.475,They may -- may not be raised?
+2016.16-348,1,62794,daniel_l_geyser,,1953.475,1954.1,What -- what --
+2016.16-348,1,15113,anthony_m_kennedy,scotus_justice,1954.1,1965.79,"If the defense isn't raised as an affirmative defense, as a matter of pleading I assume in some jurisdictions, and it goes to trial and you say, oh, judge, this is time barred, the judge will say, too late, you didn't raise the defense."
+2016.16-348,1,62794,daniel_l_geyser,,1965.79,1979.15,"An affirmative defense can't be -- can be waived, but I think what's important is that all five courts of appeals that have looked at this have said that if you bring the complaint knowing that it's subject to a complete defense, you're imposing unnecessary costs on a defendant to object."
+2016.16-348,1,15139,stephen_g_breyer,scotus_justice,1979.15,1979.82,It may not be.
+2016.16-348,1,62794,daniel_l_geyser,,2056.385,2057.56,We appreciate that.
+2016.16-348,1,15113,anthony_m_kennedy,scotus_justice,2082.92,2091.62,"But if -- if the States were so worried about that, why don't all States do what apparently two States do? They say if the statute of limitation runs, the debt is barred forever."
+2016.16-348,1,62794,daniel_l_geyser,,2096.985,2100.77,"They -- they do, Your Honor, but I think that States have the option --"
+2016.16-348,1,15113,anthony_m_kennedy,scotus_justice,2100.77,2102.475,And that's the trouble I'm having in this case.
+2016.16-348,1,62794,daniel_l_geyser,,2102.475,2110.65,"Well -- well, to be perfectly clear, even States that don't eliminate the debt, there's still not a right to payment, it's not enforceable in any way that's not purely voluntary."
+2016.16-348,1,15139,stephen_g_breyer,scotus_justice,2123.81,2129.95,"Is -- is it just the statute of limitations you're talking about, or is it all affirmative defenses?"
+2016.16-348,1,62794,daniel_l_geyser,,2129.95,2132.01,It's clearly at least the statute of limitations.
+2016.16-348,1,15139,stephen_g_breyer,scotus_justice,2134.23,2134.785,Sorry.
+2016.16-348,1,62794,daniel_l_geyser,,2139.88,2141.18,Any affirmative defense --
+2016.16-348,1,15139,stephen_g_breyer,scotus_justice,2141.18,2141.43,Okay.
+2016.16-348,1,62794,daniel_l_geyser,,2145.95,2146.23,And -- and --
+2016.16-348,1,15139,stephen_g_breyer,scotus_justice,2146.23,2164.46,"And, therefore, we're now going to have the Article III judge -- maybe not in some cases, but in many cases -- deciding pretty complicated things as matters of bankruptcy law growing out of a bankruptcy case. Now, if that's wrong, why is it wrong?"
+2016.16-348,1,62794,daniel_l_geyser,,2164.46,2167.17,I think it's wrong for -- for two reasons.
+2016.16-348,1,15139,stephen_g_breyer,scotus_justice,2179.22,2179.42,"No, no."
+2016.16-348,1,62794,daniel_l_geyser,,2183.05,2183.3,"Oh, I'm sorry."
+2016.16-348,1,15139,stephen_g_breyer,scotus_justice,2183.3,2186.99,Is the only affirmative defense statute of limitations?
+2016.16-348,1,62794,daniel_l_geyser,,2186.99,2187.26,No.
+2016.16-348,1,15139,stephen_g_breyer,scotus_justice,2187.51,2191.09,Then think of the most complicated one you can think of and let's talk about that one.
+2016.16-348,1,62794,daniel_l_geyser,,2191.09,2199.99,"Well, the most complicated one I can think of we can dispose of very quickly, because anytime there's a good-faith basis defense -- affirmative defense might not apply, we don't have an FDCPA claim."
+2016.16-348,1,15094,elena_kagan,scotus_justice,2199.99,2203.755,So what are the other affirmative defenses that your argument might apply to?
+2016.16-348,1,62794,daniel_l_geyser,,2203.755,2206.025,I think one example could be a release.
+2016.16-348,1,15094,elena_kagan,scotus_justice,2232.89,2244.875,Are there any affirmative defenses that your argument might apply to that are bankruptcy-related particularly? Or are these all kind of the sort of defenses that are involved in any suit?
+2016.16-348,1,62794,daniel_l_geyser,,2244.875,2248.38,"I think logically, it's any complete defense to the proof of claim."
+2016.16-348,1,15094,elena_kagan,scotus_justice,2251.5,2251.59,Right.
+2016.16-348,1,62794,daniel_l_geyser,,2259.165,2263.22,"I can't think of one off the top of my head, Justice Kagan."
+2016.16-348,1,15086,john_g_roberts_jr,scotus_justice,2275.075,2279.895,And -- and where -- where does the -- where do you litigate the issue of good faith?
+2016.16-348,1,62794,daniel_l_geyser,,2279.895,2283.835,"In good faith, you would litigate it in the FDCPA lawsuit."
+2016.16-348,1,15139,stephen_g_breyer,scotus_justice,2283.835,2303.33,"So what you're saying is a set of cases that would warrant a sanction under Rule 9011, if I said to the bankruptcy judge, who happens to know something about it because he's heard the case, if I were to ask him -- but who's going to bother to ask him? Because I get my attorneys' fees and a thousand dollars and et cetera."
+2016.16-348,1,62794,daniel_l_geyser,,2327.51,2329.56,"I do, I do, Justice Breyer."
+2016.16-348,1,15068,samuel_a_alito_jr,scotus_justice,2373.75,2377.66,May I ask you the question that I -- I asked your -- your adversary.
+2016.16-348,1,62794,daniel_l_geyser,,2396.975,2398.75,I think there are two reasons that they don't.
+2016.16-348,1,15068,samuel_a_alito_jr,scotus_justice,2413.39,2416.26,Why is there a big cost in -- in filing an objection?
+2016.16-348,1,62794,daniel_l_geyser,,2416.26,2425.15,"According to -- to the National Association of Bankruptcy Attorneys, it often takes two to three hours to do all the paperwork, serve the parties."
+2016.16-348,1,15068,samuel_a_alito_jr,scotus_justice,2430.82,2434.93,I can't believe you couldn't even have -- you could have a computer program that does this automatically.
+2016.16-348,1,62794,daniel_l_geyser,,2437.235,2446.03,"Your Honor, even if it took only an hour, you're talking about hundreds of thousands of claims filed each year, which, in the aggregate, amounts to an awful lot of time. The other reason that the trustees --"
+2016.16-348,1,15068,samuel_a_alito_jr,scotus_justice,2446.03,2449.34,But how many of these would there be in the typical Chapter 13?
+2016.16-348,1,62794,daniel_l_geyser,,2449.34,2461.305,"What -- what we've seen in at least the cases that have had a chance to go past the pleading stage is that the trustee, for example, the Middle District of Alabama processes between 6 and 7,000 claims a month."
+2016.16-348,1,15086,john_g_roberts_jr,scotus_justice,2465.34,2469.205,But what kind of claims are you talking about? These -- these kinds of claims?
+2016.16-348,1,62794,daniel_l_geyser,,2469.205,2470.73,"Well, claims filed in the bankruptcy."
+2016.16-348,1,15086,john_g_roberts_jr,scotus_justice,2475.08,2478.245,"So then it's logistically, it's every claim that they -- they look at?"
+2016.16-348,1,62794,daniel_l_geyser,,2478.245,2480.6,That -- those are the claims that they have to sort through.
+2016.16-348,1,15086,john_g_roberts_jr,scotus_justice,2481.27,2484.24,That doesn't tell us very much about how many of these claims there are.
+2016.16-348,1,62794,daniel_l_geyser,,2484.24,2504.795,"Well, sometimes we don't know how many claims of these nature there are because sometimes they slip through and no one notices them. And the other reason that the trustees don't always object, Justice Alito, and they've told us this -- the -- the Chapter 13 trustees at page 15 of their brief, there -- there's an information asymmetry. Trustees assume that creditors act in good faith."
+2016.16-348,1,15068,samuel_a_alito_jr,scotus_justice,2531.37,2547.5,"I find this is a very difficult case because if -- if your description of Midland's business model is correct, it doesn't seem to me that it has much, if any, social utility. On the other hand, I have real a problem with your -- with fitting your argument into the concept of an affirmative defense."
+2016.16-348,1,62794,daniel_l_geyser,,2593.05,2608.615,"Well, I -- I think that, again, we're -- we're not talking about affirmative defenses that aren't obvious on the face of the -- of the claim. Under Rule 9011 -- and -- and just thinking about the way a creditor would normally approach this, if they look and they realize there's a facially obvious time bar -- this case is a great example."
+2016.16-348,1,15139,stephen_g_breyer,scotus_justice,2618.2,2633.695,"In this case, is it -- is there something in the record? I mean, it's rather surprising to me that there is a company and their business model, you say, is to go around buying up debts that can't be enforced and are worthless, and then filing cases hoping that no one will notice."
+2016.16-348,1,62794,daniel_l_geyser,,2641.675,2646.02,"Your Honor, I think it comes from -- first, this was dismissed on the pleadings, so we can develop it in the case."
+2016.16-348,1,15139,stephen_g_breyer,scotus_justice,2649.97,2651.74,The FTC says that's what they did.
+2016.16-348,1,62794,daniel_l_geyser,,2651.74,2653.86,It says they buy debts for pennies on the dollar.
+2016.16-348,1,15139,stephen_g_breyer,scotus_justice,2654.78,2657.92,Why didn't the FTC then bring an action against them if that's what they're doing?
+2016.16-348,1,62794,daniel_l_geyser,,2657.92,2659.7,"Well, the government sometimes does."
+2016.16-348,1,15139,stephen_g_breyer,scotus_justice,2659.7,2661.975,We then have the FTC that could do such a thing.
+2016.16-348,1,62794,daniel_l_geyser,,2666.04,2667.36,"Congress wanted this, too."
+2016.16-348,1,15131,sonia_sotomayor,scotus_justice,2674.7,2683.47,"Counsel, I have been able to find only one judge who has been able to get around 911's limitation."
+2016.16-348,1,62794,daniel_l_geyser,,2685.53,2686.315,That's correct.
+2016.16-348,1,15131,sonia_sotomayor,scotus_justice,2686.315,2691.52,"You have to, like Rule 11, give notice to the other side that they're violating, right?"
+2016.16-348,1,62794,daniel_l_geyser,,2691.52,2692.44,That's correct.
+2016.16-348,1,15131,sonia_sotomayor,scotus_justice,2692.44,2697.015,"And if they withdraw the claim at that point, there's no sanctions, right?"
+2016.16-348,1,62794,daniel_l_geyser,,2697.015,2698.785,That -- that's right. Unless --
+2016.16-348,1,15131,sonia_sotomayor,scotus_justice,2698.785,2705.69,There's only one judge I found in the bankruptcy context who has used his inherent powers.
+2016.16-348,1,62794,daniel_l_geyser,,2711.085,2712.39,That's exactly --
+2016.16-348,1,15131,sonia_sotomayor,scotus_justice,2712.39,2714.415,This model -- this model is beautiful.
+2016.16-348,1,62794,daniel_l_geyser,,2724.58,2725.73,That's correct.
+2016.16-348,1,15131,sonia_sotomayor,scotus_justice,2725.73,2728.785,And it just keeps on going.
+2016.16-348,1,62794,daniel_l_geyser,,2728.785,2729.64,It -- it does.
+2016.16-348,1,15113,anthony_m_kennedy,scotus_justice,2775.97,2783.905,It's a little hard for -- to imagine how to write a opinion to say that the law is a trap for the unwary.
+2016.16-348,1,62794,daniel_l_geyser,,2786.67,2791.37,"Oh, not at all, Your Honor. Our law is actually -- our rule is exactly the opposite."
+2016.16-348,1,15113,anthony_m_kennedy,scotus_justice,2791.37,2796.55,The uncounseled person gets a notice of -- of demand for payment.
+2016.16-348,1,62794,daniel_l_geyser,,2804.72,2811.455,"Well, the FDCPA exists to protect the uncounseled person to avoid -- I'm sorry."
+2016.16-348,1,15086,john_g_roberts_jr,scotus_justice,2811.455,2812.83,You can finish your sentence.
+2016.16-348,1,62794,daniel_l_geyser,,2812.83,2815.02,-- to avoid the trap for the unwary.
+2016.16-348,1,15086,john_g_roberts_jr,scotus_justice,2817.33,2827.53,"Thank you, Counsel. Ms. Harrington?"
+2016.16-348,2,41442,sarah_e_harrington,,2827.53,2836.18,"Thank you, Mr. Chief Justice, and may it please the Court: In our view, no creditor is entitled to file a proof of claim in bankruptcy on a claim that the creditor knows is time barred."
+2016.16-348,2,15113,anthony_m_kennedy,scotus_justice,2837.4,2840.95,"Is that also true in a civil action generally, forget bankruptcy?"
+2016.16-348,2,41442,sarah_e_harrington,,2840.95,2841.34,Yes.
+2016.16-348,2,15113,anthony_m_kennedy,scotus_justice,2844.82,2853.34,"So if a -- if a creditor files suit on a debt that's time barred, the defendant doesn't raise it."
+2016.16-348,2,41442,sarah_e_harrington,,2862.38,2867.775,"Well, that's not -- there are lots of situations where a prevailing party can be sanctioned for litigation conduct."
+2016.16-348,2,15113,anthony_m_kennedy,scotus_justice,2874.47,2882.215,"Is that a plausible scenario? In other words, the -- the law allows recovery, but you sanction the attorney for getting it?"
+2016.16-348,2,41442,sarah_e_harrington,,2882.215,2887.44,"Well, I think it may be that most district courts would not -- would choose not to exercise their discretion by awarding sanctions."
+2016.16-348,2,15113,anthony_m_kennedy,scotus_justice,2887.44,2891.115,Do you think that that is -- that that is a plausible exercise of Rule 11 power?
+2016.16-348,2,41442,sarah_e_harrington,,2891.115,2893.21,"Well, let me -- let me put it this way."
+2016.16-348,2,15113,anthony_m_kennedy,scotus_justice,2893.77,2896.48,To sanction someone because they prevailed in a case.
+2016.16-348,2,41442,sarah_e_harrington,,2896.48,2897.03,I think it's --
+2016.16-348,2,15113,anthony_m_kennedy,scotus_justice,2897.03,2898.865,That's without any misleading.
+2016.16-348,2,41442,sarah_e_harrington,,2900.095,2902.205,"I think it is plausible, but unlikely to happen."
+2016.16-348,2,15139,stephen_g_breyer,scotus_justice,2938.64,2941.43,It's bankruptcy and that's what worries me.
+2016.16-348,2,41442,sarah_e_harrington,,2975.615,2976.35,Exactly.
+2016.16-348,2,15139,stephen_g_breyer,scotus_justice,2976.35,2982.14,They will go right into court and then we'll have two sets of courts and other people trying to decide the same question.
+2016.16-348,2,41442,sarah_e_harrington,,2988.385,2989.325,I'd love to tell you.
+2016.16-348,2,15086,john_g_roberts_jr,scotus_justice,3006.6,3007.92,"Well, bankruptcy is very different."
+2016.16-348,2,41442,sarah_e_harrington,,3026.83,3037.825,"Well, Mr. Chief Justice, it's a bedrock principle of bankruptcy that a creditor's rights with respect to a debt are defined by State law. When a debt is time barred, State law has determined that that debt is not judicially enforceable."
+2016.16-348,2,15084,ruth_bader_ginsburg,scotus_justice,3041.66,3055.9,"Do you place any weight on this Fair Debt Collection Act being limited to particular kinds of creditors; that is, this is not for your everyday creditor."
+2016.16-348,2,41442,sarah_e_harrington,,3058.425,3059.75,"That's right, Justice Ginsburg."
+2016.16-348,2,15139,stephen_g_breyer,scotus_justice,3066.16,3068.68,"If that's so, then why not -- what about this."
+2016.16-348,2,41442,sarah_e_harrington,,3100.715,3102.61,"So there are two reasons, I think, why that would not work."
+2016.16-348,2,15068,samuel_a_alito_jr,scotus_justice,3137.9,3141.47,Do you think this good faith defense is objective or subjective?
+2016.16-348,2,41442,sarah_e_harrington,,3141.47,3144.42,We think it's objective -- or it's the same -- it's basically the same.
+2016.16-348,2,15068,samuel_a_alito_jr,scotus_justice,3144.42,3145.34,It's objective?
+2016.16-348,2,41442,sarah_e_harrington,,3145.34,3146.12,It's objective.
+2016.16-348,2,15068,samuel_a_alito_jr,scotus_justice,3151.63,3157.83,And you said -- take the case of -- this was the third debt collection act. You're just talking about debt collectors.
+2016.16-348,2,41442,sarah_e_harrington,,3172.775,3175.97,"As a practical matter, it probably wouldn't be because they would withdraw."
+2016.16-348,2,15068,samuel_a_alito_jr,scotus_justice,3175.97,3178.31,"As legal matter, it would be under your interpretation."
+2016.16-348,2,41442,sarah_e_harrington,,3178.31,3184.535,If they didn't have a good-faith basis for believing that the limitations period didn't apply in that case because of tolling or some other equitable principle --
+2016.16-348,2,15068,samuel_a_alito_jr,scotus_justice,3184.535,3185.67,Subjective.
+2016.16-348,2,41442,sarah_e_harrington,,3190.21,3200.225,"Well, Rule 9011 requires a lawyer or another party to certify they have done a reasonable investigation and have a good-faith basis for believing that their claims are warranted by existing law."
+2016.16-348,2,15086,john_g_roberts_jr,scotus_justice,3210.615,3214.6,What other affirmative defenses does your theory apply to?
+2016.16-348,2,41442,sarah_e_harrington,,3214.6,3216.97,"Well, think about freedom from the defense of res judicata."
+2016.16-348,2,15086,john_g_roberts_jr,scotus_justice,3232.42,3238.94,A lot of these affirmative defenses though in -- aren't presented as abstractly as that.
+2016.16-348,2,41442,sarah_e_harrington,,3249.27,3254.65,"Only if it's obvious, and if the creditor doesn't -- is able to access all the information without discovery."
+2016.16-348,2,15113,anthony_m_kennedy,scotus_justice,3256.85,3258.95,The Rule applies to every affirmative defense.
+2016.16-348,2,41442,sarah_e_harrington,,3258.95,3262.26,Every obvious affirmative defense where the creditor or the plaintiff --
+2016.16-348,2,15113,anthony_m_kennedy,scotus_justice,3262.26,3265.325,Are there any nonobvious affirmative defenses to which it wouldn't apply?
+2016.16-348,2,41442,sarah_e_harrington,,3265.325,3273.5,"I mean, I think something like contributory negligence may be kind of a classic affirmative defense that would be -- it would be hard to -- to say that the plaintiff in the civil litigation had an --"
+2016.16-348,2,15113,anthony_m_kennedy,scotus_justice,3273.5,3276.06,How about a lack -- lack of personal jurisdiction?
+2016.16-348,2,41442,sarah_e_harrington,,3276.06,3278.25,"Lack -- I mean, I guess it depends on the circumstances."
+2016.16-348,2,15113,anthony_m_kennedy,scotus_justice,3279.71,3287.65,"You know -- you know there is no personal jurisdiction, but you filed a -- filed a suit anyway, and the Rule says that -- that it has -- you have to make an objection."
+2016.16-348,2,41442,sarah_e_harrington,,3287.65,3291.08,"I don't think that would arise in a bankruptcy context, but in a civil litigation context --"
+2016.16-348,2,15113,anthony_m_kennedy,scotus_justice,3291.08,3293.0,I'm talking about just -- as ordinary civil litigation.
+2016.16-348,2,41442,sarah_e_harrington,,3293.0,3296.785,"I think if -- what I would say is if the Court could sanction that under Rule 11, then we think --"
+2016.16-348,2,15084,ruth_bader_ginsburg,scotus_justice,3296.785,3302.63,"In the ordinary civil litigation, the defendant can always consent to personal jurisdiction."
+2016.16-348,2,15113,anthony_m_kennedy,scotus_justice,3305.065,3311.17,And he can always consent to the waiving of the statute of limitations by not raising it.
+2016.16-348,2,41442,sarah_e_harrington,,3311.17,3318.0,But -- but not in bankruptcy because it's -- if it -- the debtor cannot consent to the -- to the payment of a time-barred claim because that takes money away from other creditors --
+2016.16-348,2,15139,stephen_g_breyer,scotus_justice,3318.0,3331.735,"Why can't they consent? Suppose it's Chapter 11? Suppose they're trying to get a plan? Suppose the plan is a company that does business in countries -- I know you don't believe there are such countries, but there are, there are countries where it's a matter of honor to pay a debt."
+2016.16-348,2,41442,sarah_e_harrington,,3334.115,3334.97,I believe that.
+2016.16-348,2,15139,stephen_g_breyer,scotus_justice,3334.97,3335.61,All right.
+2016.16-348,2,41442,sarah_e_harrington,,3338.22,3338.97,"Justice Breyer, I --"
+2016.16-348,2,15139,stephen_g_breyer,scotus_justice,3338.97,3339.04,Yeah.
+2016.16-348,2,41442,sarah_e_harrington,,3339.04,3347.88,"-- I -- I think the one thing everyone agrees on in this case is that if the bankruptcy system works as Congress intended, 100 percent of time-barred claims will be disallowed. That is what Congress intended, but --"
+2016.16-348,2,15131,sonia_sotomayor,scotus_justice,3347.88,3348.23,Why --
+2016.16-348,2,15139,stephen_g_breyer,scotus_justice,3348.23,3349.95,"Well, in Chapter 11 I'm not sure they did --"
+2016.16-348,2,41442,sarah_e_harrington,,3349.95,3350.25,Because it --
+2016.16-348,2,15139,stephen_g_breyer,scotus_justice,3350.25,3351.69,But regardless of that dispute.
+2016.16-348,2,41442,sarah_e_harrington,,3351.69,3351.91,Okay.
+2016.16-348,2,15139,stephen_g_breyer,scotus_justice,3352.11,3357.135,Is -- is -- is the automatic stay applied to these actions or not?
+2016.16-348,2,41442,sarah_e_harrington,,3357.135,3357.52,Yes.
+2016.16-348,2,15139,stephen_g_breyer,scotus_justice,3359.8,3365.725,So -- so they can't proceed in the -- the -- under the ^ cap? debt act until the bankruptcy is over.
+2016.16-348,2,41442,sarah_e_harrington,,3365.725,3366.84,"That's true, yes."
+2016.16-348,2,15139,stephen_g_breyer,scotus_justice,3366.84,3367.01,Okay.
+2016.16-348,2,41442,sarah_e_harrington,,3367.01,3392.3,"And -- and also, you know, in terms of the discharge, the FDCPA gives the debtor the right to ask not to be contacted any more by a debt collector, which is basically the functional equivalent of a discharge, and the anti-discrimination provisions apply to any dischargeable debt, not just debt that has been discharged, and so that would apply to these -- to these types of debts. And so I just think it -- there is nothing in the code that gives a creditor the right to try to sneak one through when the creditor knows that if it's objected to, it should be disallowed --"
+2016.16-348,2,15094,elena_kagan,scotus_justice,3392.3,3392.99,Is your argument --
+2016.16-348,2,41442,sarah_e_harrington,,3392.99,3393.53,-- 100 percent of the time.
+2016.16-348,2,15094,elena_kagan,scotus_justice,3393.53,3396.92,-- dependent on a view of the code that precludes these kinds of claims?
+2016.16-348,2,41442,sarah_e_harrington,,3396.92,3397.49,Yes.
+2016.16-348,2,15094,elena_kagan,scotus_justice,3398.02,3411.025,"So if -- if one looked at the code and said, well, it seems as though these kinds of claims, although unenforceable, can be filed, if that was your view of the code, what do you think follows from that?"
+2016.16-348,2,41442,sarah_e_harrington,,3411.025,3415.17,"So then I think it would not be unfair and it would not misleading, and if I'd like -- if I could, I'd like to tell you why."
+2016.16-348,2,15086,john_g_roberts_jr,scotus_justice,3439.335,3441.67,"Thank you, counsel. Three minutes, Mr. Shanmugam."
+2016.16-348,3,33978,kannon_k_shanmugam,,3441.67,3446.31,"Thank you, Mr. Chief Justice. Just two points on rebuttal."
+2016.16-348,3,15086,john_g_roberts_jr,scotus_justice,3659.97,0.0,"Thank you, counsel. The case is submitted."

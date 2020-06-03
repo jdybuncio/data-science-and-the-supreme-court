@@ -1,0 +1,79 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1985.84-1913,0,15073,warren_e_burger,scotus_justice,0.0,9.372,"We will hear arguments next in AT&T Technologies, Incorporated, against Communications Workers of America."
+1985.84-1913,0,39761,rex_e_lee,,18.295,29.0,"Thank you, Mr. Chief Justice, and may it please the Court, in our view this is a simple case that requires a simple solution."
+1985.84-1913,0,15060,john_paul_stevens,scotus_justice,625.892,628.708,"Mr. Lee, I can't let you go through an entire argument without interrupting."
+1985.84-1913,0,39761,rex_e_lee,,628.708,630.144,"I was wondering if that was going to happen, Justice Stevens."
+1985.84-1913,0,15060,john_paul_stevens,scotus_justice,632.329,638.115,I have to raise this question that your argument troubles me with.
+1985.84-1913,0,39761,rex_e_lee,,658.546,659.546,Exactly.
+1985.84-1913,0,15060,john_paul_stevens,scotus_justice,659.546,672.987,"If there are two views of what the contract could mean, are you not conceding that the issue is arbitrable and therefore, although the Court of Appeals adopted the wrong rationale, that your opponent is right on the issue of arbitrability?"
+1985.84-1913,0,39761,rex_e_lee,,672.987,682.111,"No, I am really not, and so long as you carefully distinguish between that issue and what I prescribe, what I detailed as the second issue--"
+1985.84-1913,0,15060,john_paul_stevens,scotus_justice,682.111,682.778,Right.
+1985.84-1913,0,39761,rex_e_lee,,682.778,688.132,--then that really provides the answer to the case.
+1985.84-1913,0,15060,john_paul_stevens,scotus_justice,717.484,723.019,"What I have in mind, of course, is the language of Article VIII of the agreement, they failed to settle by negotiation."
+1985.84-1913,0,39761,rex_e_lee,,733.594,735.729,--See if this is helpful to you.
+1985.84-1913,0,15045,harry_a_blackmun,scotus_justice,886.325,890.294,--Are you asking us in effect to overrule Warrier and Gulf?
+1985.84-1913,0,39761,rex_e_lee,,890.294,891.463,Of course not.
+1985.84-1913,0,15092,sandra_day_oconnor,scotus_justice,932.773,944.564,"Mr. Lee, would you care to comment on the position taken in the amicus brief filed by the National Academy of Arbitrators?"
+1985.84-1913,0,39761,rex_e_lee,,944.564,952.854,"Well, they of course point but first of all that what the Seventh Circuit did was a dangerous position."
+1985.84-1913,0,15092,sandra_day_oconnor,scotus_justice,1023.633,1029.254,"Well, I wasn't as concerned about the terminology as the substance of their position."
+1985.84-1913,0,39761,rex_e_lee,,1029.254,1051.867,"Well, basically the substance of their position is similar to Mr. Gold's, and that is that you can interpret from some of the words that the lower court used that it perhaps did decide the arbitrability issue, and my answer to that is twofold."
+1985.84-1913,0,15073,warren_e_burger,scotus_justice,1139.391,1152.565,"Mr. Lee, I take it you do not disagree with the Academy's amicus brief that the decision of the jurisdiction is for the court, not the arbitrator."
+1985.84-1913,0,39761,rex_e_lee,,1152.565,1152.882,That is exactly right.
+1985.84-1913,0,15073,warren_e_burger,scotus_justice,1153.349,1163.439,And the court should not undertake to try to give some guidance to the arbitrator on how the merits should be decided.
+1985.84-1913,0,39761,rex_e_lee,,1166.591,1168.741,"Yes, we do, Mr. Chief Justice."
+1985.84-1913,0,15073,warren_e_burger,scotus_justice,1172.695,1175.797,Mr. Gold.
+1985.84-1913,1,34498,laurence_gold,,1175.797,1200.83,"Mr. Chief Justice, and may it please the Court, the petitioner's claim here is that both the District Court and the Court of Appeals failed to fulfill their judicial functions in determining whether or not to order arbitration of the union's grievance in this case."
+1985.84-1913,1,15073,warren_e_burger,scotus_justice,1263.372,1267.524,"You are concerned, I take it, only with the result, not how they got there."
+1985.84-1913,1,34498,laurence_gold,,1267.524,1293.907,"Well, we are concerned that we are able to demonstrate to you that they did get to the right place, and obviously, given the function of this Court, we are concerned to be of what aid we can in assuring that both the result and the words are right here."
+1985.84-1913,1,15060,john_paul_stevens,scotus_justice,1293.907,1297.826,"What you mean, I guess, is, it is a harmless error case."
+1985.84-1913,1,34498,laurence_gold,,1297.826,1346.809,"We think that the Court of Appeals made this in some ways harder than it really is, and we think it would be unfortunate if that led to radically expanding the role of the courts in this error, but in the final analysis we think that what the Court of Appeals did and equally as important what the District Court did is exactly what they should have done under the Steelworkers Trilogy, given the nature of the agreement here and the nature of the contentions that both sides have made."
+1985.84-1913,1,15045,harry_a_blackmun,scotus_justice,1346.809,1350.628,"I take it, Mr. Gold, you feel that there is less here than meets the eye."
+1985.84-1913,1,34498,laurence_gold,,1350.628,1353.58,"Yes, yes."
+1985.84-1913,1,15071,byron_r_white,scotus_justice,1358.232,1361.484,Which is sort of the position of your adversary.
+1985.84-1913,1,34498,laurence_gold,,1361.484,1374.526,"That's right, and if we could only agree on the fact that the substance of this dispute ought to move on to arbitration, there would be great harmony here."
+1985.84-1913,1,15141,william_h_rehnquist,scotus_justice,1629.373,1632.725,"Mr. Gold, was your case argued this way before the Seventh Circuit?"
+1985.84-1913,1,34498,laurence_gold,,1632.725,1633.544,Yes.
+1985.84-1913,1,15141,william_h_rehnquist,scotus_justice,1633.544,1639.731,And was your opponent's case argued the same way before the Seventh Circuit?
+1985.84-1913,1,34498,laurence_gold,,1639.731,1652.356,"I am sure that we will do this to each other, but the company's case has been argued in different ways."
+1985.84-1913,1,15141,william_h_rehnquist,scotus_justice,1665.246,1675.035,"But, you know, if the company's argument was presented in those terms to the Seventh Circuit, your argument was presented in the terms you have just presented to us."
+1985.84-1913,1,34498,laurence_gold,,1680.322,1685.274,I couldn't have been astounded because I wasn't participating at that point.
+1985.84-1913,1,15141,william_h_rehnquist,scotus_justice,1701.619,1711.908,You are saying the agreement... the court should have said this issue was arbitrable and the company is saying the court should have said this issue is not arbitrable?
+1985.84-1913,1,34498,laurence_gold,,1714.56,1725.418,It depends... we didn't say that the Court of Appeals should have said that the issue is arbitrable.
+1985.84-1913,1,15141,william_h_rehnquist,scotus_justice,1795.464,1799.116,"But that wasn't what the Court of Appeals said, and that wasn't its reasoning either."
+1985.84-1913,1,34498,laurence_gold,,1799.116,1846.164,"I wish that I could be more certain of what the Court of Appeals' reasoning was, because there are portions of the opinion which indicate that it went through... the Court of Appeals went through every correct element of the analysis, but I agree with you that the language of the opinion, by talking about leaving arbitrability to the arbitrator and so on makes this a harder case than a case which arose 25 years after Warrier and Gulf should be, and we are not asking the Court in any way, shape, or form to add to that unfortunate confusion."
+1985.84-1913,1,15071,byron_r_white,scotus_justice,1846.164,1850.599,Are you really just arguing that you want an affirmance on a different ground?
+1985.84-1913,1,34498,laurence_gold,,1850.599,1856.153,What we are arguing is that we want an affirmance on the ground of the--
+1985.84-1913,1,15071,byron_r_white,scotus_justice,1856.153,1856.67,Any ground you can get.
+1985.84-1913,1,34498,laurence_gold,,1856.67,1857.822,--On any ground we can get.
+1985.84-1913,1,15071,byron_r_white,scotus_justice,1913.424,1921.562,"Of course, if an arbitrator was to live up to the Court of Appeals' judgment, he would first have to consider arbitrability."
+1985.84-1913,1,34498,laurence_gold,,1921.562,1922.147,But--
+1985.84-1913,1,15071,byron_r_white,scotus_justice,1922.147,1923.38,"Wouldn't he, under the judgment?"
+1985.84-1913,1,34498,laurence_gold,,1923.38,1923.964,--Yes.
+1985.84-1913,1,15071,byron_r_white,scotus_justice,1923.964,1924.38,All right.
+1985.84-1913,1,34498,laurence_gold,,1924.38,1928.218,"But arbitrators always have, and the arbitrator as we point out--"
+1985.84-1913,1,15071,byron_r_white,scotus_justice,1928.218,1930.751,"Well, I know, but only after a court has said it is arbitrable."
+1985.84-1913,1,34498,laurence_gold,,1930.751,1933.153,--Only after a court--
+1985.84-1913,1,15071,byron_r_white,scotus_justice,1933.153,1934.055,And the court never said that.
+1985.84-1913,1,34498,laurence_gold,,1934.055,1936.005,--That is right.
+1985.84-1913,1,15071,byron_r_white,scotus_justice,1936.005,1939.557,So you would be asking for a different judgment.
+1985.84-1913,1,34498,laurence_gold,,1939.557,1961.389,"I guess if, as is contrary to all my experience, I was to get exactly what I wanted, I would ask that the following portion of the Court of Appeals judgment be affirmed."
+1985.84-1913,2,39761,rex_e_lee,,3022.686,3025.072,"Very briefly, Mr. Chief Justice."
+1985.84-1913,2,15073,warren_e_burger,scotus_justice,3040.098,3040.598,If the--
+1985.84-1913,2,39761,rex_e_lee,,3041.465,3043.2,Or what it would do if it had the case.
+1985.84-1913,2,15073,warren_e_burger,scotus_justice,3043.2,3049.521,"If it were possible to take an appeal directly from the District Court here, would you have undertaken to bring the case here?"
+1985.84-1913,2,39761,rex_e_lee,,3049.521,3059.643,"Well, what we are entitled to, of course, Mr. Chief Justice, is in any event an Appellate Court review of what the District Court did."
+1985.84-1913,2,15073,warren_e_burger,scotus_justice,3059.643,3067.749,"Well, let's suppose the Court of Appeals, then, to shorten it, said we adopt the opinion of the District Court."
+1985.84-1913,2,39761,rex_e_lee,,3067.749,3075.688,"Yes, we would have, Mr. Chief Justice, because I disagrees the Seventh Circuit disagrees with Mr. Gold's reading of the District Court's opinion."
+1985.84-1913,2,15071,byron_r_white,scotus_justice,3088.746,3090.015,Mr. Gold doesn't defend it.
+1985.84-1913,2,39761,rex_e_lee,,3090.015,3092.048,"That's right, and Mr. Gold doesn't defend it."
+1985.84-1913,2,15071,byron_r_white,scotus_justice,3094.967,3096.434,Or at least lukewarm.
+1985.84-1913,2,39761,rex_e_lee,,3096.434,3100.386,"--Well, and when you get a lukewarm defense, you know that he doesn't really defend it."
+1985.84-1913,2,15073,warren_e_burger,scotus_justice,3100.386,3101.822,He is defending the result.
+1985.84-1913,2,39761,rex_e_lee,,3101.822,3103.722,That is correct.
+1985.84-1913,2,15073,warren_e_burger,scotus_justice,3110.928,3112.094,We don't reverse opinions.
+1985.84-1913,2,39761,rex_e_lee,,3112.094,3128.054,"That's correct, the judgment has to be reversed, and under those circumstances the Seventh Circuit is going to have the opportunity on remand to say what it really meant and to write a very fine order that will do just exactly the right thing."
+1985.84-1913,2,15060,john_paul_stevens,scotus_justice,3185.909,3192.396,"But you would agree, would you not, that the bargaining history ought to relate to the question whether the dispute is arbitrable rather than the merits of the dispute?"
+1985.84-1913,2,39761,rex_e_lee,,3192.396,3205.49,"Exactly, and there is not one word, not one word in that bargaining history that pertains to whether the company does or does not have the right to layoff when there is no lack of work in Chicago."
+1985.84-1913,2,15071,byron_r_white,scotus_justice,3234.14,3235.259,And reform its judgment.
+1985.84-1913,2,39761,rex_e_lee,,3235.259,3244.681,"--and reform its judgment, and in the event that you elect to rewrite its opinion, I have a number of suggestions as to how that could be done."
+1985.84-1913,2,15073,warren_e_burger,scotus_justice,3244.681,3245.381,"Thank you, gentlemen."

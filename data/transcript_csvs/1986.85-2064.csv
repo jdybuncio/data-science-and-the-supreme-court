@@ -1,0 +1,150 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1986.85-2064,0,15141,william_h_rehnquist,scotus_justice,0.0,9.169,"We will hear arguments next in No. 85-2064, Greer against Miller."
+1986.85-2064,0,36592,mark_l_rotert,,13.964,16.167,"Mr. Chief Justice, and may it please the Court:"
+1986.85-2064,0,15049,antonin_scalia,scotus_justice,185.166,190.272,Why is that any less logically absurd?
+1986.85-2064,0,36592,mark_l_rotert,,190.272,192.491,"--Well, it's very similar to--"
+1986.85-2064,0,15049,antonin_scalia,scotus_justice,192.491,196.146,"I mean isn't... isn't... you've just told us, once you find a Doyle violation, that's the end of it."
+1986.85-2064,0,36592,mark_l_rotert,,206.893,215.858,"--Well, I don't equate the violation of Doyle rules with a violation of due process such as creates a fundamental unfairness."
+1986.85-2064,0,15049,antonin_scalia,scotus_justice,255.656,258.31,"Oh, well no, I didn't understand that."
+1986.85-2064,0,36592,mark_l_rotert,,260.92,261.795,Every Doyle--
+1986.85-2064,0,15049,antonin_scalia,scotus_justice,261.795,264.763,"I mean, every time you make that kind of a statement you haven't violated Doyle?"
+1986.85-2064,0,36592,mark_l_rotert,,264.763,274.744,"--You may violate the rule of the Doyle case, but that does not end the inquiry of whether or not you have violated due process of law by creating a fundamentally unfair proceeding."
+1986.85-2064,0,15049,antonin_scalia,scotus_justice,274.744,279.945,So every Doyle case involves a harmless error inquiry before you even find a Doyle violation?
+1986.85-2064,0,36592,mark_l_rotert,,279.945,282.708,"No, It's not precisely a harmless error inquiry."
+1986.85-2064,0,15060,john_paul_stevens,scotus_justice,304.092,305.699,May I just interrupt with one question?
+1986.85-2064,0,36592,mark_l_rotert,,312.525,315.415,"It does, Justice Stevens, and I appreciate that."
+1986.85-2064,0,15092,sandra_day_oconnor,scotus_justice,346.686,353.137,"Mr. Rotert, I didn't see that this was the question presented for review, what you're telling us this afternoon."
+1986.85-2064,0,36592,mark_l_rotert,,371.581,372.284,--I'm asking--
+1986.85-2064,0,15092,sandra_day_oconnor,scotus_justice,372.284,384.951,"And I thought the questions presented asked us to reexamine the remedy for a Doyle error, to wit, whether we apply the Chapman standard upon this error."
+1986.85-2064,0,36592,mark_l_rotert,,384.951,404.21,"--Well, I think that it... the question presented for review in the cert petition, if I may, was, whether, when considering violations of Doyle in Federal habeas corpus proceedings, which takes me to the second point, the standard of review should be whether the error substantially affected the course of the trial, rather than whether the error was harmless beyond a reasonable doubt."
+1986.85-2064,0,15092,sandra_day_oconnor,scotus_justice,418.955,429.373,"Well, it strikes me that might be a better idea than to set up some new standard, other than Chapman, if you find there has been a violation of due process."
+1986.85-2064,0,36592,mark_l_rotert,,432.373,434.199,I don't believe we're looking for a new standard.
+1986.85-2064,0,15092,sandra_day_oconnor,scotus_justice,517.573,523.26,"Well, is your argument that in this case there was no violation of due process at all?"
+1986.85-2064,0,36592,mark_l_rotert,,523.26,524.995,"--It is that, Justice O'Connor."
+1986.85-2064,0,15092,sandra_day_oconnor,scotus_justice,524.995,528.854,And it doesn't make any difference whether it's on Federal habeas or on direct review.
+1986.85-2064,0,36592,mark_l_rotert,,528.854,530.182,"That is correct, Justice O'Connor."
+1986.85-2064,0,15045,harry_a_blackmun,scotus_justice,545.223,558.828,"Mr. Rotert, just before Justice O'Connor asked her first question, do I understand you are not going along with Judge Easterbrook's isolated position below?"
+1986.85-2064,0,36592,mark_l_rotert,,558.828,564.967,"Not all of Judge Easterbrook's interesting dissent found its way into our brief, Justice Blackmun, that's fair to say."
+1986.85-2064,0,15045,harry_a_blackmun,scotus_justice,564.967,568.246,"Well, you're not supporting his thesis, that's what I want to know."
+1986.85-2064,0,36592,mark_l_rotert,,568.246,569.978,Not on this particular regard.
+1986.85-2064,0,15141,william_h_rehnquist,scotus_justice,583.646,590.519,"Well, any Doyle violation, I mean, has to be based on some constitutional shortcoming, doesn't it?"
+1986.85-2064,0,36592,mark_l_rotert,,590.519,591.597,"--Yes, it does, Justice."
+1986.85-2064,0,15141,william_h_rehnquist,scotus_justice,591.597,596.86,And are you saying that here there was no constitutional shortcoming?
+1986.85-2064,0,36592,mark_l_rotert,,596.86,601.843,"That's correct, because there wasn't an error that deprived the trial of its fundamental fairness."
+1986.85-2064,0,15141,william_h_rehnquist,scotus_justice,601.843,606.967,"So then... concomitantly, that means there was no, ""Doyle"" violation?"
+1986.85-2064,0,36592,mark_l_rotert,,606.967,608.717,There was a Doyle violation.
+1986.85-2064,0,15141,william_h_rehnquist,scotus_justice,619.041,619.963,You're saying sometimes it isn't?
+1986.85-2064,0,36592,mark_l_rotert,,619.963,620.65,Precisely.
+1986.85-2064,0,15071,byron_r_white,scotus_justice,621.728,624.242,"And you say obviously, it was in Doyle, because of the facts."
+1986.85-2064,0,36592,mark_l_rotert,,624.242,624.805,--That's correct.
+1986.85-2064,0,15071,byron_r_white,scotus_justice,624.805,628.163,And the Court had no occasion to say whether prejudice was essential.
+1986.85-2064,0,36592,mark_l_rotert,,628.163,629.49,"That's exactly right, Justice White."
+1986.85-2064,0,15141,william_h_rehnquist,scotus_justice,657.543,660.166,"Well, what does the Constitution say about breach of promise?"
+1986.85-2064,0,36592,mark_l_rotert,,660.166,668.429,"Well, there is a position that can be taken that Doyle is not directly rooted in any specific constitutional principle."
+1986.85-2064,0,15104,thurgood_marshall,scotus_justice,749.151,751.478,There's no conclusion to the contrary.
+1986.85-2064,0,36592,mark_l_rotert,,755.258,757.413,"--No, he did tell them in a written instruction later."
+1986.85-2064,0,15104,thurgood_marshall,scotus_justice,757.413,759.335,"No, he didn't tell them on that particular question."
+1986.85-2064,0,36592,mark_l_rotert,,759.335,760.88,Not on that particular point.
+1986.85-2064,0,15104,thurgood_marshall,scotus_justice,760.88,763.41,"So he says, that I will tell you about later."
+1986.85-2064,0,36592,mark_l_rotert,,765.285,771.189,"Well, Justice Marshall, that point might be well taken if the judge had said, I don't know what to do about this objection, I'll tell you later."
+1986.85-2064,0,15104,thurgood_marshall,scotus_justice,771.189,772.986,"I'm not talking about whether or not, I'm talking about what he said."
+1986.85-2064,0,36592,mark_l_rotert,,772.986,774.782,What he said was the objection is sustained.
+1986.85-2064,0,15104,thurgood_marshall,scotus_justice,774.782,777.234,He said he was going to explain it later and he didn't.
+1986.85-2064,0,36592,mark_l_rotert,,777.234,779.406,"Well, I dispute that reading of the record."
+1986.85-2064,0,15104,thurgood_marshall,scotus_justice,782.764,785.701,That's how you understand everything else to juries.
+1986.85-2064,0,36592,mark_l_rotert,,785.701,793.511,"But I think we have to indulge in the natural assumption the jurors in this case, as in every other case, followed the instructions given them by the judge."
+1986.85-2064,0,15104,thurgood_marshall,scotus_justice,793.511,795.635,And the instruction was to wait.
+1986.85-2064,0,36592,mark_l_rotert,,795.635,797.587,I beg your pardon?
+1986.85-2064,0,15104,thurgood_marshall,scotus_justice,797.587,799.93,And the instruction was to wait.
+1986.85-2064,0,36592,mark_l_rotert,,799.93,832.479,"Your Honors, the second issue that the petitioners have briefed, and that I would like to discuss this afternoon is whether, assuming, as we are willing to assume for the second argument, that a Doyle violation gets Chapman analysis, we submit that there are significant policy reasons why the Chapman v. California stringent standards, to demonstrate that error is harmless beyond a reasonable doubt, do not provide adequate utility in collateral review to justify their application."
+1986.85-2064,0,15141,william_h_rehnquist,scotus_justice,963.395,978.453,"You say in effect that if the state courts have concluded there's a constitutional violation but it was harmless under Chapman, and the Federal court agrees as to what the constitutional violation was, it may not then reexamine the Chapman question?"
+1986.85-2064,0,36592,mark_l_rotert,,978.453,984.388,"I believe that it should not then reexamine the question, and I believe that this Court should fashion a rule to that effect."
+1986.85-2064,0,15141,william_h_rehnquist,scotus_justice,984.388,987.451,"Well, I said it may not; you say it should not."
+1986.85-2064,0,36592,mark_l_rotert,,988.777,997.806,"Yes, because this Court has reaffirmed only last week that the scope of habeas corpus jurisdiction, as a matter of potential power, is extraordinarily broad."
+1986.85-2064,0,15141,william_h_rehnquist,scotus_justice,1077.07,1085.786,You're saying it's a question of fact under the section of the habeas statute that says you have to defer... the Federal court has to defer to state court factual determinations?
+1986.85-2064,0,36592,mark_l_rotert,,1085.786,1090.955,"--Well, no, I recognize that the Chapman analysis is essentially a Federal question."
+1986.85-2064,0,15141,william_h_rehnquist,scotus_justice,1131.002,1139.5,"Well, but even a fact question can be reviewed by the Federal Court, given unusual circumstances."
+1986.85-2064,0,36592,mark_l_rotert,,1145.122,1146.48,"No, I don't believe I am."
+1986.85-2064,0,15141,william_h_rehnquist,scotus_justice,1185.045,1191.605,But there is duplication of constitutional inquiry in almost every area of constitutional law and habeas corpus.
+1986.85-2064,0,36592,mark_l_rotert,,1191.605,1198.228,But the duplication of effort relates to the meaning and the extent of constitutional rights and principles.
+1986.85-2064,0,15071,byron_r_white,scotus_justice,1287.956,1290.861,Which one of your two arguments would you rather have us adopt?
+1986.85-2064,0,36592,mark_l_rotert,,1290.861,1293.219,"Oh, a win is a win, Justice White."
+1986.85-2064,0,15071,byron_r_white,scotus_justice,1294.422,1301.934,"I know, but on your Chapman on habeas argument, you'd never got to your first question."
+1986.85-2064,0,36592,mark_l_rotert,,1319.99,1320.584,--That's correct.
+1986.85-2064,0,15071,byron_r_white,scotus_justice,1432.305,1434.804,"Well, what do you do about Jackson."
+1986.85-2064,0,36592,mark_l_rotert,,1434.804,1436.256,Versus Virginia?
+1986.85-2064,0,15071,byron_r_white,scotus_justice,1436.256,1436.772,Yes.
+1986.85-2064,0,36592,mark_l_rotert,,1436.772,1440.598,"Well, I don't know that there is any Chapman--"
+1986.85-2064,0,15071,byron_r_white,scotus_justice,1440.598,1451.673,"Well, there is Federal judges saying that no reasonable jury could have found... could have returned a verdict of guilty in this case, and disagreeing flatly with the state courts."
+1986.85-2064,0,36592,mark_l_rotert,,1454.437,1454.984,"--Yes, sir."
+1986.85-2064,0,15071,byron_r_white,scotus_justice,1463.966,1473.243,"Well, I know, but you say Federal judges shouldn't upset... differ with the factual conclusions of state court judges."
+1986.85-2064,0,36592,mark_l_rotert,,1473.243,1486.113,"Well, to the extent that any case can't exist in a vacuum, every case that creates a constitutional error for review by any jurisdictional court has to be decided on the basis of its facts."
+1986.85-2064,0,15141,william_h_rehnquist,scotus_justice,1523.553,1526.74,"Thank you, Mr. Rotert."
+1986.85-2064,1,25899,gary_r_peterson,,1528.755,1537.034,"Mr. Chief Justice, may it please the Court:"
+1986.85-2064,1,15141,william_h_rehnquist,scotus_justice,1607.866,1610.818,"He was... but the witness was not allowed to answer, was he?"
+1986.85-2064,1,25899,gary_r_peterson,,1610.818,1612.099,"That's correct, Your Honor."
+1986.85-2064,1,15141,william_h_rehnquist,scotus_justice,1622.439,1625.923,Even if the comment is only in the form of a question to the witness?
+1986.85-2064,1,25899,gary_r_peterson,,1625.923,1627.593,"--That is correct, because such comment--"
+1986.85-2064,1,15141,william_h_rehnquist,scotus_justice,1627.593,1629.811,What case says that?
+1986.85-2064,1,25899,gary_r_peterson,,1629.811,1631.765,--Doyle itself says that.
+1986.85-2064,1,15141,william_h_rehnquist,scotus_justice,1632.436,1637.839,"Well, wasn't there argument in Doyle to the jury?"
+1986.85-2064,1,25899,gary_r_peterson,,1637.839,1640.291,"--Yes, there was."
+1986.85-2064,1,15049,antonin_scalia,scotus_justice,1729.867,1736.162,"Are you saying there is no sort of harmless error analysis in Doyle, then, under no standard at all?"
+1986.85-2064,1,25899,gary_r_peterson,,1736.162,1746.737,"No, we are willing to concede, Your Honor, that Doyle is the type of trial violation which in terms of looking at its effect on a trial as a whole may sometimes be harmless."
+1986.85-2064,1,15049,antonin_scalia,scotus_justice,1746.737,1749.173,That's not consistent with what you just said.
+1986.85-2064,1,25899,gary_r_peterson,,1749.173,1752.515,"No, fundamental--"
+1986.85-2064,1,15049,antonin_scalia,scotus_justice,1752.515,1755.561,"I meant it's either in and of itself fundamental, or it's in and of itself not fundamental; now, which is it?"
+1986.85-2064,1,25899,gary_r_peterson,,1755.561,1756.374,--I disagree.
+1986.85-2064,1,15049,antonin_scalia,scotus_justice,1767.418,1771.838,Not where the harmless error goes to showing that it hasn't been fundamentally unfair.
+1986.85-2064,1,25899,gary_r_peterson,,1777.79,1786.551,--The harmless error analysis goes to show if a trial as a whole is fundamentally unfair.
+1986.85-2064,1,15049,antonin_scalia,scotus_justice,1821.912,1824.613,"And so, not be fundamentally unfair?"
+1986.85-2064,1,25899,gary_r_peterson,,1824.613,1827.16,Would not be fundamentally unfair.
+1986.85-2064,1,15049,antonin_scalia,scotus_justice,1827.16,1828.723,Even though it was fundamentally unfair?
+1986.85-2064,1,25899,gary_r_peterson,,1828.723,1833.034,It would not be fundamentally unfair in terms of the trial as a whole.
+1986.85-2064,1,15141,william_h_rehnquist,scotus_justice,1839.47,1844.311,"The constitutional violation, which kind of fundamental unfairness?"
+1986.85-2064,1,25899,gary_r_peterson,,1844.311,1847.763,Fundamental unfairness in this case--
+1986.85-2064,1,15141,william_h_rehnquist,scotus_justice,1847.763,1852.354,"But I mean, you just described two different kinds of fundamental unfairness."
+1986.85-2064,1,25899,gary_r_peterson,,1854.745,1856.665,"--They're both constitutional, Your Honor."
+1986.85-2064,1,15060,john_paul_stevens,scotus_justice,1942.247,1951.151,"Mr. Peterson, I suppose your best example would be if there was fundamental unfairness by asking the question and the jury acquitted him; there'd be no prejudice there, but you'd have your fundamental unfairness."
+1986.85-2064,1,25899,gary_r_peterson,,1951.151,1951.495,"--That's true, Your Honor."
+1986.85-2064,1,15092,sandra_day_oconnor,scotus_justice,1953.745,1964.053,"Well, why shouldn't we ask in a case like this the initial question of whether it's fundamentally unfair, what happened here?"
+1986.85-2064,1,25899,gary_r_peterson,,1968.63,1974.517,"Well, that question in itself suggests to the jury that if the defendant's story were true--"
+1986.85-2064,1,15092,sandra_day_oconnor,scotus_justice,1974.517,1976.938,"Well, shouldn't we at least ask the question?"
+1986.85-2064,1,25899,gary_r_peterson,,1987.169,1991.512,"--I think that's why harmless error analysis is appropriate, Your Honor."
+1986.85-2064,1,15092,sandra_day_oconnor,scotus_justice,1997.166,2002.303,"Not every Doyle error, then, you concede, is a constitutional violation?"
+1986.85-2064,1,25899,gary_r_peterson,,2002.303,2003.225,"--No, I disagree."
+1986.85-2064,1,15092,sandra_day_oconnor,scotus_justice,2022.327,2031.464,"Well, if I understood the state's attorney, he's taking quite a different view and saying that not every Doyle error is a constitutional error?"
+1986.85-2064,2,36592,mark_l_rotert,,2031.464,2055.751,"I say that view is inconsistent with this Court's ruling last term in Wainwright v. Greenfield, where it reestablished the constitutional importance of Doyle, and reestablished that due process is violated, that fundamental fairness is violated, where the prosecutor asks the defendant... or when the prosecutor attempts to impeach the defendant with his post Miranda warning silence."
+1986.85-2064,2,15071,byron_r_white,scotus_justice,2055.751,2067.871,What... what do you... what do you think the difference is between you and your opponent with respect to the standard?
+1986.85-2064,3,25899,gary_r_peterson,,2091.549,2099.936,"I think the latter standard, the standard suggested by the state, is virtually impossible to show in terms of harmless error analysis."
+1986.85-2064,3,15071,byron_r_white,scotus_justice,2109.744,2115.789,"Well, we have standards like that with respect to some constitutional violations, don't we?"
+1986.85-2064,3,25899,gary_r_peterson,,2115.789,2118.726,"Certainly, judge... Justice White."
+1986.85-2064,3,15071,byron_r_white,scotus_justice,2118.726,2121.788,"Well, why wouldn't it be appropriate in this context?"
+1986.85-2064,3,25899,gary_r_peterson,,2121.788,2125.365,With respect to cases such as Strickland v. Washington--
+1986.85-2064,3,15071,byron_r_white,scotus_justice,2125.365,2128.567,Pretty fundamental right at stake there.
+1986.85-2064,3,25899,gary_r_peterson,,2128.567,2133.284,"--It certainly is, and United States v. Bagley is another situation."
+1986.85-2064,3,15141,william_h_rehnquist,scotus_justice,2147.561,2154.778,But it doesn't take a whole lot of reworking of those cases to say that perhaps there isn't a constitutional violation until there's prejudice.
+1986.85-2064,3,25899,gary_r_peterson,,2160.807,2164.416,--I'm not sure I understand the question.
+1986.85-2064,3,15141,william_h_rehnquist,scotus_justice,2164.416,2172.382,"Well, I mean, it doesn't take a whole lot of revisionist approach to Doyle to say that not every so-called ""Doyle"" quote violation is constitutional?"
+1986.85-2064,3,25899,gary_r_peterson,,2172.382,2177.754,"Well, perhaps not."
+1986.85-2064,3,15049,antonin_scalia,scotus_justice,2186.69,2188.954,"What is the deprivation, if it has not effect?"
+1986.85-2064,3,25899,gary_r_peterson,,2196.451,2201.294,--The deprivation here is the deprivation of the defendant's right to have a fair trial.
+1986.85-2064,3,15049,antonin_scalia,scotus_justice,2201.294,2202.855,Not if it's had no effect.
+1986.85-2064,3,25899,gary_r_peterson,,2224.674,2239.403,"There's a denial of... if he's... if he's found guilty based upon a fundamentally unfair conduct of the prosecutor, and there's a reasonable possibility that that conduct contributed to his conviction."
+1986.85-2064,3,15049,antonin_scalia,scotus_justice,2239.403,2246.322,"Well, but if there's a reasonable possibility that it contributed to the conviction, then there's a reasonable possibility there was a constitutional violation."
+1986.85-2064,3,25899,gary_r_peterson,,2246.322,2253.571,"I'm sure that can be said with regard to all constitutional errors, if it's--"
+1986.85-2064,3,15049,antonin_scalia,scotus_justice,2253.571,2269.971,"Only those which hang on the due process clause, which in and of itself requires a deprivation, to deprive somebody of due process, of life, liberty or property, you have to show that whatever happened affected a deprivation, which puts in a causality element, it seems to me."
+1986.85-2064,3,25899,gary_r_peterson,,2293.855,2300.087,"--Well, in every Doyle case, there is going to be an effect."
+1986.85-2064,3,15071,byron_r_white,scotus_justice,2317.052,2329.86,"Well, if that's true, you wouldn't... I don't know why you would be so worried if we said there was a prejudice component to a constitutional violation, because you say it would always be there."
+1986.85-2064,3,25899,gary_r_peterson,,2329.86,2334.889,"Prejudicial effect will always be there, that's correct."
+1986.85-2064,3,15060,john_paul_stevens,scotus_justice,2449.439,2450.813,"But Mr. Peterson, could I interrupt there?"
+1986.85-2064,3,25899,gary_r_peterson,,2465.165,2465.822,--No.
+1986.85-2064,3,15060,john_paul_stevens,scotus_justice,2497.749,2511.839,"But I think in... I think in most harmless error cases, I think of the Hastings case which came up from the Seventh Circuit too, there were a lot of witnesses who testified to the guilt of the defendants, but in finding the error harmless, the court must have decided their testimony was worthy of belief."
+1986.85-2064,3,25899,gary_r_peterson,,2518.008,2519.054,"Certainly, and I think--"
+1986.85-2064,3,15060,john_paul_stevens,scotus_justice,2519.054,2524.365,"Whenever there's overwhelming evidence, a lot of the overwhelming evidence is oral testimony."
+1986.85-2064,3,25899,gary_r_peterson,,2531.112,2542.078,"--Well, it's one thing to say that when you have a presumption of constitutional error, the error occurred in this, you can show that the error was harmless beyond a reasonable doubt."
+1986.85-2064,3,15141,william_h_rehnquist,scotus_justice,2867.626,2870.251,"Thank you, Mr. Peterson."
+1986.85-2064,4,36592,mark_l_rotert,,2873.14,2876.187,"Thank you, Mr. Chief Justice."
+1986.85-2064,4,15071,byron_r_white,scotus_justice,3002.324,3010.368,"You mean, by fundamental unfairness, I take it you mean something that has... makes a difference about the outcome?"
+1986.85-2064,4,36592,mark_l_rotert,,3010.368,3011.649,That's precisely correct.
+1986.85-2064,4,15141,william_h_rehnquist,scotus_justice,3084.028,3086.262,"Thank you, Mr. Rotert."

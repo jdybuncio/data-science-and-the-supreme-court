@@ -1,0 +1,277 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2015.15-5040,0,15086,john_g_roberts_jr,scotus_justice,0.0,7.225,"We'll hear argument next in Case 15-5040, Williams v. Pennsylvania. Mr. Lev."
+2015.15-5040,0,62672,stuart_b_lev,,7.225,43.98,"Mr. Chief Justice, and may it please the Court: Due process does not allow a district attorney to make the decision to seek the death penalty against the defendant, and then in the same case become a judge of the conduct of the prosecutor who carried out that decision and obtained that result. In this case, at -- when he was district attorney, Chief Justice Castille made a discretionary individualized decision based upon a review of the facts that in his view, death was the appropriate sentence to seek."
+2015.15-5040,0,15086,john_g_roberts_jr,scotus_justice,43.98,48.39,"Does that make a difference, the nature of his decision? Let's say he had a policy."
+2015.15-5040,0,62672,stuart_b_lev,,66.81,73.51,"I think there would be, yes, because that policy itself would be a decision that he makes."
+2015.15-5040,0,15086,john_g_roberts_jr,scotus_justice,76.01,78.45,"Oh, no, I know that, but it's a categorical decision."
+2015.15-5040,0,62672,stuart_b_lev,,91.48,100.09,"That would still raise due process concerns, because that policy would have led to a major decision within the adversary process."
+2015.15-5040,0,15068,samuel_a_alito_jr,scotus_justice,100.09,110.065,"Well, what if the case was simply in the office and he had supervisory responsibility over everything that occurs in the office, but it's a big office."
+2015.15-5040,0,62672,stuart_b_lev,,117.67,122.165,"Supervisory authority might be enough, depending upon the issue."
+2015.15-5040,0,15068,samuel_a_alito_jr,scotus_justice,132.815,133.74,"You see, the problem --"
+2015.15-5040,0,62672,stuart_b_lev,,133.74,134.99,-- that narrow circumstance --
+2015.15-5040,0,15068,samuel_a_alito_jr,scotus_justice,134.99,135.15,Yeah.
+2015.15-5040,0,62672,stuart_b_lev,,175.745,181.07,Because the issue is directly related to that supervisory authority.
+2015.15-5040,0,15113,anthony_m_kennedy,scotus_justice,181.07,192.025,"Well, what -- what is the rule, then, that you're formulating, so that we can answer Justice Alito's questions and similar questions? Recusal is required when, and fill in the blank."
+2015.15-5040,0,62672,stuart_b_lev,,192.025,203.009,"When the prosecutor has direct personal involvement in a substantial decision in the case, and the issue before the court reflects upon that decision."
+2015.15-5040,0,15084,ruth_bader_ginsburg,scotus_justice,203.009,218.19,"I -- I thought that your -- your particular position was that a judge cannot sit on any case where, as the district attorney, he signed on to the death penalty."
+2015.15-5040,0,62672,stuart_b_lev,,218.19,228.03,"That would be, Your Honor, an appropriate decision, an appropriate due process rule for this Court to reach, but it's not a rule you need to reach in this case."
+2015.15-5040,0,15084,ruth_bader_ginsburg,scotus_justice,228.03,241.7,"Well, what sort of that is? I thought -- I thought critical element is, he was the district attorney, he signed off on the death penalty; some 20 odd years later, he -- he's a judge, he cannot sit on that case."
+2015.15-5040,0,62672,stuart_b_lev,,243.855,251.54,"Our -- our case takes that, but also looks at the other circumstances of the case."
+2015.15-5040,0,15068,samuel_a_alito_jr,scotus_justice,253.975,256.12,But that's the -- that's the line-drawing problem.
+2015.15-5040,0,62672,stuart_b_lev,,263.58,267.57,I think the death penalty only matters for Eighth Amendment purposes.
+2015.15-5040,0,15068,samuel_a_alito_jr,scotus_justice,281.35,283.015,What if he signed the indictment?
+2015.15-5040,0,62672,stuart_b_lev,,283.015,284.03,I'm sorry?
+2015.15-5040,0,15068,samuel_a_alito_jr,scotus_justice,284.03,295.29,"He signed the indictment. Let's say the -- the former -- the then-prosecutor signed the indictment, and there are thousands of indictments in a county like Philadelphia, so --"
+2015.15-5040,0,62672,stuart_b_lev,,295.29,295.74,That --
+2015.15-5040,0,15068,samuel_a_alito_jr,scotus_justice,295.74,296.71,That would be enough?
+2015.15-5040,0,62672,stuart_b_lev,,296.71,297.155,No.
+2015.15-5040,0,15094,elena_kagan,scotus_justice,317.16,322.255,You're saying that the signature would not be enough because that could be pro forma? Is that what you're saying?
+2015.15-5040,0,62672,stuart_b_lev,,322.255,323.279,Yes.
+2015.15-5040,0,15086,john_g_roberts_jr,scotus_justice,323.279,341.2,"What if you had a situation where he was directly involved in a matter that had nothing to do with the issue that came up later? You know, he -- the -- the assistant comes in and says we've got a real question here, you know, he wants a third extension of the trial date and should we oppose it or not."
+2015.15-5040,0,62672,stuart_b_lev,,352.345,363.84,"If -- if the decision he's made was only about some procedural matter that had no substantive relationship to the crime, then that would certainly be a much weaker court."
+2015.15-5040,0,15086,john_g_roberts_jr,scotus_justice,366.0,369.83,Can you give me -- can you give me -- much weaker? Can you give me a yes-or-no on my hypothetical?
+2015.15-5040,0,62672,stuart_b_lev,,369.83,370.9,I would say no.
+2015.15-5040,0,15113,anthony_m_kennedy,scotus_justice,374.74,383.855,"Under that answer, then, why doesn't the Brady violation problem drop out of the case? And that's not an argument for -- for -- an extra argument for recusal."
+2015.15-5040,0,62672,stuart_b_lev,,383.855,392.2,Because I think in this case the Brady violation goes directly to his role in making the decision.
+2015.15-5040,0,15113,anthony_m_kennedy,scotus_justice,405.09,408.41,"Well, he didn't know about the Brady violation."
+2015.15-5040,0,62672,stuart_b_lev,,412.585,414.0,He -- the -- the record --
+2015.15-5040,0,15113,anthony_m_kennedy,scotus_justice,414.0,415.7,I mean after they sought the death penalty.
+2015.15-5040,0,62672,stuart_b_lev,,415.7,416.69,That -- that's correct.
+2015.15-5040,0,15113,anthony_m_kennedy,scotus_justice,430.95,447.88,"Well, then, that doesn't follow with the rule that you gave me at the outset. You should recuse yourself when, and now -- now you're adding -- if there's a question that involves a substantial integrity -- a substantial question involving the integrity of the office? So that's an added --"
+2015.15-5040,0,62672,stuart_b_lev,,447.88,448.97,In -- in that case --
+2015.15-5040,0,15113,anthony_m_kennedy,scotus_justice,448.97,451.41,That's an added factor in your analysis?
+2015.15-5040,0,62672,stuart_b_lev,,451.41,451.75,No.
+2015.15-5040,0,15094,elena_kagan,scotus_justice,459.95,460.64,So I'm -- I guess I'm --
+2015.15-5040,0,62672,stuart_b_lev,,460.64,461.815,-- to their personal involvement.
+2015.15-5040,0,15094,elena_kagan,scotus_justice,461.815,464.29,I guess I'm a little bit unclear as to what you're arguing.
+2015.15-5040,0,62672,stuart_b_lev,,478.885,496.52,"That would be, I think, a -- a rule consistent with this Court's ruling in Murchison that you can't have -- that a fair trial in a free society does not allow the prosecutor who prefers the charges to become the judge of that."
+2015.15-5040,0,15113,anthony_m_kennedy,scotus_justice,509.83,521.59,"I -- I still don't see how the Brady violation fits into the formula you want us to adopt, unless you're amending it to say anything that involves the integrity of the office while you were the head of the office."
+2015.15-5040,0,62672,stuart_b_lev,,521.59,534.87,"I think more importantly, Justice Kennedy, that the Brady violation fits in because that is how the trial prosecutor carried out the decision that Chief Justice Castille had made."
+2015.15-5040,0,15084,ruth_bader_ginsburg,scotus_justice,541.3,543.91,We don't have a Brady issue before us.
+2015.15-5040,0,62672,stuart_b_lev,,546.365,547.32,That's correct.
+2015.15-5040,0,15084,ruth_bader_ginsburg,scotus_justice,547.32,555.855,So we don't have -- the merits of the Brady issue are not in the case.
+2015.15-5040,0,62672,stuart_b_lev,,571.11,574.66,That we didn't raise the recusal issue? Is that what you're asking me --
+2015.15-5040,0,15084,ruth_bader_ginsburg,scotus_justice,574.66,574.75,Yes.
+2015.15-5040,0,62672,stuart_b_lev,,574.75,587.935,"-- Your Honor? In the prior post-conviction litigation, we didn't have the information that we have at this time, and that's the two critical pieces of evidence of information here."
+2015.15-5040,0,15086,john_g_roberts_jr,scotus_justice,623.965,626.82,"There is a concern about sandbagging, though."
+2015.15-5040,0,62672,stuart_b_lev,,647.145,650.35,I recognize the Court's concern of sandbagging.
+2015.15-5040,0,15086,john_g_roberts_jr,scotus_justice,672.7,674.26,"Well, Strickland's very different."
+2015.15-5040,0,62672,stuart_b_lev,,685.37,688.7,"I'm not sure I can agree with you, Your Honor, that it's unlikely."
+2015.15-5040,0,15086,john_g_roberts_jr,scotus_justice,696.345,697.28,Not against you.
+2015.15-5040,0,62672,stuart_b_lev,,697.28,700.39,Not against me. (Laughter.)
+2015.15-5040,0,62672,stuart_b_lev,,700.39,712.6,"But even if it is unlikely, I think sandbagging, for whatever concern, can be addressed by the lower courts and certainly isn't a reason to narrow or not apply a due process analysis."
+2015.15-5040,0,15086,john_g_roberts_jr,scotus_justice,712.6,724.805,"Well, I guess it's not a case of sandbagging, but it's somehow related in that the information you're talking about would have been information that seriously undermined the defense your client was presenting."
+2015.15-5040,0,62672,stuart_b_lev,,746.955,750.3,"In at least two different senses, I think."
+2015.15-5040,0,15086,john_g_roberts_jr,scotus_justice,775.78,782.265,"Is that -- well, just so I understand, you're saying the evidence might have been sufficient to persuade him not to lie?"
+2015.15-5040,0,62672,stuart_b_lev,,782.265,807.955,"Might have been sufficient for counsel to be able to develop the -- the understanding with the defendant about what facts were important and what wasn't, and what might be a better defense than the defense this 19-year-old -- this 19-year-old young man with little counseling hoped to present. But -- but I would say even more is -- is the materiality in this case goes to sentencing."
+2015.15-5040,0,15131,sonia_sotomayor,scotus_justice,817.165,834.84,"Counsel, am I correct that Mr. Draper, his accomplice, did not come forward until later? So he didn't know that the accomplice would say that there was a different story to tell at all, correct?"
+2015.15-5040,0,62672,stuart_b_lev,,834.84,835.74,That's correct.
+2015.15-5040,0,15131,sonia_sotomayor,scotus_justice,837.345,850.36,And he did not know that the sexual abuse could form a very potent defense to a death penalty because there was independent proof of it.
+2015.15-5040,0,62672,stuart_b_lev,,850.36,853.4,"For sentencing purposes, yes. And -- and the --"
+2015.15-5040,0,15131,sonia_sotomayor,scotus_justice,853.4,862.695,"The prosecutor, in fact, told the trial judge that there wasn't any independent evidence of sexual abuse by this man of other people, correct?"
+2015.15-5040,0,62672,stuart_b_lev,,862.695,863.285,Correct.
+2015.15-5040,0,15131,sonia_sotomayor,scotus_justice,863.285,866.235,"And in fact, the records show there was."
+2015.15-5040,0,62672,stuart_b_lev,,866.235,866.98,Correct.
+2015.15-5040,0,15086,john_g_roberts_jr,scotus_justice,866.98,871.36,"The independent evidence you're complaining about involved the defendant himself, correct?"
+2015.15-5040,0,62672,stuart_b_lev,,871.36,871.94,No.
+2015.15-5040,0,15068,samuel_a_alito_jr,scotus_justice,888.91,901.415,What do you do with the fact that Chief Justice Castille was not solely responsible for the decision in this case? This was a decision by the Pennsylvania Supreme Court.
+2015.15-5040,0,62672,stuart_b_lev,,921.1,922.44,It might be.
+2015.15-5040,0,15068,samuel_a_alito_jr,scotus_justice,935.54,937.675,Doesn't that mean it's not structural error?
+2015.15-5040,0,62672,stuart_b_lev,,937.675,944.985,I don't -- I don't think so because even there we don't know what his role within the decision-making process.
+2015.15-5040,0,15068,samuel_a_alito_jr,scotus_justice,963.97,973.985,"So he might have persuaded a majority to vote to reverse, and then he turned around and he wrote an opinion saying that there should be an affirmance."
+2015.15-5040,0,62672,stuart_b_lev,,973.985,981.825,"The problem is we don't know what happened within the decision-making structure, and we can't know what happened within the decision-making structure."
+2015.15-5040,0,15068,samuel_a_alito_jr,scotus_justice,992.93,1012.094,"If we agree with you, doesn't that lead inevitably to the rule that a majority of the judges on a multi-judge panel have the authority to require the recusal of a colleague?"
+2015.15-5040,0,62672,stuart_b_lev,,1012.094,1019.125,I -- that's an interesting question. (Laughter.)
+2015.15-5040,0,62672,stuart_b_lev,,1019.125,1022.62,And I think it would depend upon the rules of each court.
+2015.15-5040,0,15068,samuel_a_alito_jr,scotus_justice,1029.59,1036.73,"Well, wouldn't they -- wouldn't that have to be the consequences? Suppose that -- suppose you make a recusal motion."
+2015.15-5040,0,62672,stuart_b_lev,,1071.065,1072.51,Not necessarily.
+2015.15-5040,0,15068,samuel_a_alito_jr,scotus_justice,1073.04,1075.315,They could just take their chances.
+2015.15-5040,0,62672,stuart_b_lev,,1075.315,1080.31,Or the consequence of the rule could be that they informally go to the justice.
+2015.15-5040,0,15068,samuel_a_alito_jr,scotus_justice,1080.31,1082.4,"And he says, no, I disagree with you."
+2015.15-5040,0,62672,stuart_b_lev,,1082.4,1097.115,"If -- if the rule in the State court -- if the rule of the court is that the ultimate decision lies with the justice, then that's the rule. And they -- and they take the chances because that's the rule that the courts adopted, and that's a perfectly appropriate and fine rule."
+2015.15-5040,0,15094,elena_kagan,scotus_justice,1097.115,1098.35,There's something --
+2015.15-5040,0,15139,stephen_g_breyer,scotus_justice,1098.35,1102.615,What's awfully difficult in this case is not your case for me.
+2015.15-5040,0,15139,stephen_g_breyer,scotus_justice,1185.655,1190.575,"I mean, is there a way to do that, and what do you think of that? That's what they're suggesting."
+2015.15-5040,0,62672,stuart_b_lev,,1190.575,1195.46,Let -- there's a lot of -- of questions that fit in there.
+2015.15-5040,0,15139,stephen_g_breyer,scotus_justice,1217.83,1219.64,Can we tell them to do that?
+2015.15-5040,0,62672,stuart_b_lev,,1219.64,1220.21,Yes.
+2015.15-5040,0,15139,stephen_g_breyer,scotus_justice,1220.21,1220.69,Yes.
+2015.15-5040,0,62672,stuart_b_lev,,1220.69,1222.18,That's the remedy that we're asking for.
+2015.15-5040,0,15139,stephen_g_breyer,scotus_justice,1222.18,1236.17,"So -- so we could say, given all the facts, of which there are quite a few, and the filing of a motion for reconsideration, and the fact that they may not have done it, go reconsider it, period."
+2015.15-5040,0,62672,stuart_b_lev,,1238.705,1241.65,"I would simply phrase it slightly differently, and -- (Laughter.)"
+2015.15-5040,0,15139,stephen_g_breyer,scotus_justice,1241.65,1245.25,That's what I was hoping. (Laughter.)
+2015.15-5040,0,62672,stuart_b_lev,,1245.25,1252.375,And -- and say what we're not asking for is to reconsider the decision that's already been made.
+2015.15-5040,0,15094,elena_kagan,scotus_justice,1259.635,1260.8,"Well, do they have to hear --"
+2015.15-5040,0,15068,samuel_a_alito_jr,scotus_justice,1260.8,1261.59,Can we do that --
+2015.15-5040,0,15094,elena_kagan,scotus_justice,1261.59,1261.92,Excuse me.
+2015.15-5040,0,15068,samuel_a_alito_jr,scotus_justice,1261.92,1269.59,-- without holding that there was a dupe -- a constitutional violation? What would be our authority to require them to do it over again?
+2015.15-5040,0,62672,stuart_b_lev,,1269.59,1272.82,It would have to be because there's a constitutional violation.
+2015.15-5040,0,15094,elena_kagan,scotus_justice,1272.82,1295.605,"There's something unsatisfying about the remedy that you're requesting, right? Because if the idea is that one judge can affect a whole panel, which seems right to me, but presumably that effect doesn't go away the moment that we send it back and they have to deal with it again, so aren't -- don't they continue to be tainted in some way?"
+2015.15-5040,0,62672,stuart_b_lev,,1295.605,1314.89,"You faced that same issue in -- in the Caperton case and the Lavoie case in -- and -- and granted the relief of sending it back for a new appeal. That may be there, and it may be that -- that the remaining justices who heard the case -- and the Pennsylvania Supreme Court is constituted differently, should it go back."
+2015.15-5040,0,15084,ruth_bader_ginsburg,scotus_justice,1349.19,1370.88,"But there's one big difference between, I think, what Justice Breyer was suggesting and I think what you're asking. You wouldn't be satisfied if what the -- what the Pennsylvania Supreme Court was asked to do was simply to rule, again, on the matter of rehearing."
+2015.15-5040,0,62672,stuart_b_lev,,1374.93,1375.705,That's correct.
+2015.15-5040,0,15094,elena_kagan,scotus_justice,1375.705,1380.485,"What is the standard on rehearing? Is -- is -- it must be a very different standard, isn't it?"
+2015.15-5040,0,62672,stuart_b_lev,,1380.485,1398.1,"It's compelling circumstances. And the -- the examples that are given in the commentary to the rule are things like a ""known and obvious mistake of fact"" or ""mistake of law."" But it's a narrow remedy, rarely granted, of compelling circumstances."
+2015.15-5040,0,15086,john_g_roberts_jr,scotus_justice,1401.84,1408.29,"Counsel, I -- I understand your -- the first two of your three points, but I don't understand how the third works."
+2015.15-5040,0,62672,stuart_b_lev,,1423.87,1424.62,That's correct.
+2015.15-5040,0,15086,john_g_roberts_jr,scotus_justice,1424.62,1424.97,Okay.
+2015.15-5040,0,62672,stuart_b_lev,,1429.5,1441.015,"Our concern for that is that as -- as a candidate, Chief Justice Castille was reported to have said on multiple occasions, I sent 45 people to death row."
+2015.15-5040,0,15086,john_g_roberts_jr,scotus_justice,1459.08,1460.95,It's an evidentiary point for you.
+2015.15-5040,0,62672,stuart_b_lev,,1463.27,1464.39,Absolutely.
+2015.15-5040,0,15084,ruth_bader_ginsburg,scotus_justice,1469.3,1478.165,"What weight, if any, do you think we should give to the current moratorium in Pennsylvania on the death penalty?"
+2015.15-5040,0,62672,stuart_b_lev,,1478.165,1487.3,"The moratorium is really not particularly relevant to the question that's before the Court, and -- and not -- weight should not be given to it."
+2015.15-5040,0,15068,samuel_a_alito_jr,scotus_justice,1523.28,1536.79,"When was the last time a prisoner was executed in Pennsylvania, other than those instances in which the prisoner decided that he did not want to pursue appellate remedies?"
+2015.15-5040,0,62672,stuart_b_lev,,1536.79,1549.48,The -- the three executions in Pennsylvania since the passage of the new statute in 1978 were all -- were all cases of prisoners who gave up their rights.
+2015.15-5040,0,15068,samuel_a_alito_jr,scotus_justice,1555.475,1560.99,"So what's at issue here is only the death penalty, not the conviction itself, correct?"
+2015.15-5040,0,62672,stuart_b_lev,,1560.99,1561.7,That's right.
+2015.15-5040,0,15068,samuel_a_alito_jr,scotus_justice,1561.7,1570.235,And nobody has -- nobody other than these so-called volunteers has been convicted since 1978 -- has been executed since 1978?
+2015.15-5040,0,62672,stuart_b_lev,,1570.235,1574.59,That's right. But Mr. Williams remains on death row.
+2015.15-5040,0,15086,john_g_roberts_jr,scotus_justice,1582.96,1592.359,"Thank you, counsel. Mr. Eisenberg."
+2015.15-5040,1,39153,ronald_eisenberg,,1592.359,1608.08,"Mr. Chief Justice, and may it please the Court: Petitioner argues that it is Judge Castille's supposed direct and personal and substantial involvement with this case that creates the constitutional due process recusal obligation."
+2015.15-5040,1,15131,sonia_sotomayor,scotus_justice,1632.79,1640.515,What do you think of our jurisprudence that says you can't be judge -- you can't be a prosecutor and a judge.
+2015.15-5040,1,39153,ronald_eisenberg,,1700.4,1708.96,"Your Honor, I think that's exactly the point, that the -- that it's the ethical codes or statutes that really control for this sort of situation."
+2015.15-5040,1,15131,sonia_sotomayor,scotus_justice,1713.305,1713.61,Why?
+2015.15-5040,1,39153,ronald_eisenberg,,1713.61,1729.985,"Because -- because in this Court's Caperton decision, you made it very clear that it was the totality of the circumstances test that looked at the -- an intolerable probability of actual bias in the case, no bright lines, no automatic, no presumptions."
+2015.15-5040,1,15131,sonia_sotomayor,scotus_justice,1736.79,1752.795,"Do -- do you think that the public would find it unusual that someone who makes a decision as to whether to seek death penalty or not, that the public wouldn't perceive that as a great probability --"
+2015.15-5040,1,39153,ronald_eisenberg,,1752.795,1753.83,Your Honor -- I'm sorry.
+2015.15-5040,1,15131,sonia_sotomayor,scotus_justice,1753.83,1763.045,"-- of actual bias? Now, I don't want to talk about -- I don't, for the moment, the history that there is some cases he disagreed with."
+2015.15-5040,1,39153,ronald_eisenberg,,1770.155,1807.14,"I think, Your Honor, that after 30 years, maybe everybody wouldn't see it that way, especially if they looked at the rest of his record, as you have referred to. And I think that the major point, Your Honor, is that any sort of prior conduct by a judge in his prior life that gives rise to a -- an intolerable probability of actual bias as the test, it's not limited in some way to prosecutors, or even to people who previously had some brief involvement as counsel in a case. So as the Court has said, one looks at the psychological tendencies of human beings."
+2015.15-5040,1,15094,elena_kagan,scotus_justice,1882.53,1882.68,It's --
+2015.15-5040,1,15113,anthony_m_kennedy,scotus_justice,1882.68,1907.39,"Well, the number of amicus briefs filed by former prosecutors and attorneys belies and refutes that -- that suggestion, it seems to me. And Section 455 of 28 U.S.C., where we have rather mechanical recusal standards, also refutes that."
+2015.15-5040,1,39153,ronald_eisenberg,,1907.39,1913.535,"Well, Your Honor, my point is not that there can be no bright lines adopted as a matter of code or of statute."
+2015.15-5040,1,15113,anthony_m_kennedy,scotus_justice,1931.57,1934.42,"No, but you were arguing, well, this was going to be unworkable."
+2015.15-5040,1,39153,ronald_eisenberg,,1942.13,1952.46,"Well, they're -- they're workable, Your Honor, but it's very different to constitutionalize, in essence to raise the constitutional floor to the ceiling."
+2015.15-5040,1,15086,john_g_roberts_jr,scotus_justice,1960.91,1961.44,What would be --
+2015.15-5040,1,39153,ronald_eisenberg,,1961.44,1961.77,-- because --
+2015.15-5040,1,15086,john_g_roberts_jr,scotus_justice,1961.77,1970.19,"What would be your standard? I mean, I assume you would agree that in certain circumstances, a failure to recuse would raise a constitutional problem."
+2015.15-5040,1,39153,ronald_eisenberg,,1970.19,1970.37,Yes.
+2015.15-5040,1,15086,john_g_roberts_jr,scotus_justice,1970.37,1972.94,So how would you articulate the appropriate test?
+2015.15-5040,1,39153,ronald_eisenberg,,1972.94,2002.25,"I think the degree of the prior involvement, and the, among other factors, the -- the timing, the recency of the prior involvement have to meet the Caperton standard of an intolerable likelihood of actual bias in the case. And if the -- in a case like this where the district attorney presides over a large office, has many, many cases -- during his tenure there were over two thousand murders in the City of Philadelphia; a great number of the them were death eligible."
+2015.15-5040,1,15113,anthony_m_kennedy,scotus_justice,2010.02,2018.86,"Well, but here, of course, the essence of the Brady violation has alleged -- as alleged, is that the evidence was concealed for years; they didn't know about it."
+2015.15-5040,1,39153,ronald_eisenberg,,2018.86,2020.64,"And he didn't know about it either, Your Honor."
+2015.15-5040,1,15113,anthony_m_kennedy,scotus_justice,2028.27,2033.945,"He didn't know about it because subordinates in his -- his office, under his supervision, concealed the facts."
+2015.15-5040,1,39153,ronald_eisenberg,,2033.945,2036.14,"That's -- that was the allegation, Your Honor."
+2015.15-5040,1,15094,elena_kagan,scotus_justice,2054.37,2055.02,Mr. Eisenberg --
+2015.15-5040,1,15131,sonia_sotomayor,scotus_justice,2055.02,2055.88,Mr. -- I'm sorry.
+2015.15-5040,1,15094,elena_kagan,scotus_justice,2056.725,2070.655,"If I understood your answer to the Chief Justice, you said significant involvement in a critical trial decision would be a critical factor in deciding when a person had crossed the constitutional line."
+2015.15-5040,1,39153,ronald_eisenberg,,2079.2,2086.37,"I don't recall that I said significant involvement in a -- in a significant trial decision, Your Honor."
+2015.15-5040,1,15094,elena_kagan,scotus_justice,2093.51,2095.08,I'm not sure I understood the difference there.
+2015.15-5040,1,39153,ronald_eisenberg,,2104.635,2105.34,"No, Your Honor."
+2015.15-5040,1,15094,elena_kagan,scotus_justice,2111.97,2114.755,"Well, just -- I mean, just go back to what the test is."
+2015.15-5040,1,39153,ronald_eisenberg,,2118.79,2131.96,"Significant involvement in any matter, in any case or cause that would be likely, over that period of time, to create a -- an intolerable probability of actual bias in deciding the issue in that case."
+2015.15-5040,1,15094,elena_kagan,scotus_justice,2131.96,2133.845,And what time is the critical time?
+2015.15-5040,1,39153,ronald_eisenberg,,2133.845,2134.22,There --
+2015.15-5040,1,15094,elena_kagan,scotus_justice,2134.22,2137.225,Is it six months? Five years? Ten years?
+2015.15-5040,1,39153,ronald_eisenberg,,2137.225,2141.38,"There -- there is no bright line there, Your Honor, any more than there was in Caperton."
+2015.15-5040,1,15094,elena_kagan,scotus_justice,2177.19,2182.88,"But as I understand you, the one factor that seems to be controlling here is the time limit."
+2015.15-5040,1,39153,ronald_eisenberg,,2189.96,2193.79,"It's -- it is, as always, a balancing of factors, Your Honor."
+2015.15-5040,1,15094,elena_kagan,scotus_justice,2206.78,2209.76,He made the most important decision that could be made in this case.
+2015.15-5040,1,39153,ronald_eisenberg,,2209.76,2212.82,"He -- he concurred in the recommendation to do that, Your Honor."
+2015.15-5040,1,15131,sonia_sotomayor,scotus_justice,2212.82,2213.44,In what sense did he concur?
+2015.15-5040,1,15094,elena_kagan,scotus_justice,2213.44,2213.64,I'm sorry.
+2015.15-5040,1,39153,ronald_eisenberg,,2215.59,2220.18,"Well, there's something of a difference in terms of the implication about the level of his involvement."
+2015.15-5040,1,15094,elena_kagan,scotus_justice,2247.44,2250.665,Do you think he didn't take that decision extremely seriously?
+2015.15-5040,1,39153,ronald_eisenberg,,2250.665,2261.22,"I think he took it seriously, Your Honor, but I think that he took it less seriously than if he had been -- or involved less reflection on his part than if he had been making it for himself in the first --"
+2015.15-5040,1,15131,sonia_sotomayor,scotus_justice,2261.22,2262.115,"Did all 2,000 murders --"
+2015.15-5040,1,39153,ronald_eisenberg,,2262.115,2263.24,"I'm sorry, Your Honor."
+2015.15-5040,1,15131,sonia_sotomayor,scotus_justice,2263.24,2266.715,"Did all 2,000 cases get the death penalty treatment?"
+2015.15-5040,1,39153,ronald_eisenberg,,2266.715,2267.5,"No, your Honor."
+2015.15-5040,1,15131,sonia_sotomayor,scotus_justice,2269.55,2273.69,Were there cases where he said no to some death penalties?
+2015.15-5040,1,39153,ronald_eisenberg,,2273.69,2274.41,"No, Your Honor."
+2015.15-5040,1,15131,sonia_sotomayor,scotus_justice,2274.62,2279.69,Were there policies he's established to establish when death penalty was appropriate?
+2015.15-5040,1,39153,ronald_eisenberg,,2279.69,2282.49,"There was no sort of written policy, Your Honor."
+2015.15-5040,1,15131,sonia_sotomayor,scotus_justice,2282.49,2285.09,"Ah, that's an interesting use of words."
+2015.15-5040,1,39153,ronald_eisenberg,,2285.09,2286.72,"Well, I'm not aware of any --"
+2015.15-5040,1,15131,sonia_sotomayor,scotus_justice,2286.72,2290.05,"Somehow, someone had to make a decision of where to cut the line."
+2015.15-5040,1,39153,ronald_eisenberg,,2290.05,2292.07,They looked at each case on its merits.
+2015.15-5040,1,15131,sonia_sotomayor,scotus_justice,2295.725,2297.88,"I presume they looked at mitigators, too."
+2015.15-5040,1,39153,ronald_eisenberg,,2297.88,2300.78,"Well, they may or may not have, Your Honor."
+2015.15-5040,1,15131,sonia_sotomayor,scotus_justice,2302.39,2305.34,"Well, the memo required them to talk about some mitigating --"
+2015.15-5040,1,39153,ronald_eisenberg,,2305.34,2306.765,"That's not actually true, Your Honor."
+2015.15-5040,1,15131,sonia_sotomayor,scotus_justice,2306.765,2307.49,"Well, this memo --"
+2015.15-5040,1,39153,ronald_eisenberg,,2307.49,2309.97,This memo did spend a brief portion of time.
+2015.15-5040,1,15094,elena_kagan,scotus_justice,2339.46,2346.2,"Suppose this case were exactly the same, except he had done it three years ago. What would your answer be to that?"
+2015.15-5040,1,39153,ronald_eisenberg,,2346.2,2348.4,"I think that would be a much closer question, Your Honor."
+2015.15-5040,1,15094,elena_kagan,scotus_justice,2348.4,2349.625,What would your answer be?
+2015.15-5040,1,39153,ronald_eisenberg,,2349.625,2353.535,"I'm not sure, Your Honor."
+2015.15-5040,1,15068,samuel_a_alito_jr,scotus_justice,2353.535,2354.27,We're talking about --
+2015.15-5040,1,15113,anthony_m_kennedy,scotus_justice,2354.27,2358.52,So the fact that he spent 30 years in solitary confinement actually helps the State? (Laughter.)
+2015.15-5040,1,39153,ronald_eisenberg,,2358.52,2364.18,"Well, Your Honor, as we addressed in our brief, it's -- it's not exactly 30 years in solitary confinement."
+2015.15-5040,1,15068,samuel_a_alito_jr,scotus_justice,2379.77,2386.3,We are talking about a constitutional recusal rule which would have very serious consequences.
+2015.15-5040,1,39153,ronald_eisenberg,,2454.28,2460.82,"They are, Your Honor, but that's exactly the situation in Caperton that this Court addressed and ruled on."
+2015.15-5040,1,15113,anthony_m_kennedy,scotus_justice,2586.82,2595.79,"So I -- I suppose, for purposes of phrasing the question, to reach questions here, we -- we will assume that there is bias; we assume he should have recused."
+2015.15-5040,1,39153,ronald_eisenberg,,2602.07,2603.43,I wouldn't call it --
+2015.15-5040,1,15113,anthony_m_kennedy,scotus_justice,2603.43,2605.59,Is that a fair statement or not?
+2015.15-5040,1,39153,ronald_eisenberg,,2605.59,2618.7,"I wouldn't actually -- I don't think that the phrase ""harmless error"" is the best way to describe the situation, Your Honor, because with a multimember court, the process is the court, not any individual judge. At the trial level, the judge is literally the court."
+2015.15-5040,1,15086,john_g_roberts_jr,scotus_justice,2625.53,2633.8,"I -- just so I understand the scope of your argument, you would be arguing the same thing if there were three judges? One should have recused, that leaves two?"
+2015.15-5040,1,39153,ronald_eisenberg,,2633.8,2638.57,"What I would be arguing, Your Honor, is that, again, a totality of the circumstances test applies."
+2015.15-5040,1,15086,john_g_roberts_jr,scotus_justice,2651.95,2652.55,But there could be --
+2015.15-5040,1,15113,anthony_m_kennedy,scotus_justice,2652.55,2652.975,The --
+2015.15-5040,1,39153,ronald_eisenberg,,2652.975,2654.24,"I'm sorry, Your Honor."
+2015.15-5040,1,15086,john_g_roberts_jr,scotus_justice,2654.24,2663.45,The main circumstance is -- would seem to me to be is a -- a real fact matter is what the deliberations of the judges were like.
+2015.15-5040,1,39153,ronald_eisenberg,,2674.91,2681.07,"Your Honor, of course an individual justice can be persuasive to other judges or justices."
+2015.15-5040,1,15113,anthony_m_kennedy,scotus_justice,2700.72,2709.355,"Suppose you have a very brilliant trial judge, and the power of his reasoning is -- it's persuasive and -- and forceful but he's biased, end of case."
+2015.15-5040,1,39153,ronald_eisenberg,,2712.025,2713.405,"Yes, Your Honor."
+2015.15-5040,1,15139,stephen_g_breyer,scotus_justice,2719.5,2730.16,"Well, this is common in the situation where someone's appointed to this Court. There are a series of cases where he had sat, that judge."
+2015.15-5040,1,39153,ronald_eisenberg,,2735.35,2736.02,"Yes, Your Honor."
+2015.15-5040,1,15139,stephen_g_breyer,scotus_justice,2736.15,2739.77,"And in that case, there was nothing wrong with the participation at the time."
+2015.15-5040,1,39153,ronald_eisenberg,,2739.77,2740.71,"But, Your Honor --"
+2015.15-5040,1,15139,stephen_g_breyer,scotus_justice,2740.71,2746.485,"The harder point is the judge from Guam, I think, who wasn't supposed to sit in the Ninth Circuit."
+2015.15-5040,1,39153,ronald_eisenberg,,2770.755,2776.94,"Your Honor, I think that there are many cases where, after disqualification, the remainder of the panel goes on to decide the case."
+2015.15-5040,1,15139,stephen_g_breyer,scotus_justice,2776.94,2790.045,"No, I'm not saying -- what I'm looking for is a disqualification because of bias, because in that circumstance there's something biased about that judge being in that panel."
+2015.15-5040,1,39153,ronald_eisenberg,,2792.035,2792.6,Your Honor --
+2015.15-5040,1,15139,stephen_g_breyer,scotus_justice,2792.6,2795.23,-- I can think of a lot of others that I've just mentioned.
+2015.15-5040,1,39153,ronald_eisenberg,,2795.23,2795.83,Your Honor --
+2015.15-5040,1,15139,stephen_g_breyer,scotus_justice,2795.83,2803.16,"In that situation, are there instances -- how does it cut? What does the ABA say about that one and -- and what have you found?"
+2015.15-5040,1,39153,ronald_eisenberg,,2803.16,2812.7,I think it's addressed by Advisory Opinion No. 71 in the guide for -- for the counsel from the -- I believe from the judicial conference.
+2015.15-5040,1,15139,stephen_g_breyer,scotus_justice,2825.94,2827.7,Recuses because -- go ahead.
+2015.15-5040,1,39153,ronald_eisenberg,,2827.7,2832.61,"-- under -- under Section 455, Your Honor, which, as this Court has described it --"
+2015.15-5040,1,15139,stephen_g_breyer,scotus_justice,2832.61,2832.99,Uh-huh.
+2015.15-5040,1,39153,ronald_eisenberg,,2832.99,2837.475,-- covers both actual bias and the possibility of actual bias.
+2015.15-5040,1,15139,stephen_g_breyer,scotus_justice,2837.475,2837.64,Uh-huh.
+2015.15-5040,1,39153,ronald_eisenberg,,2837.79,2840.91,And there's no such distinctions made in the advisory rule.
+2015.15-5040,1,15139,stephen_g_breyer,scotus_justice,2858.93,2867.605,"No, no, but there -- there's a difference, you see, where the judge recuses himself during the process."
+2015.15-5040,1,39153,ronald_eisenberg,,2894.98,2899.65,"Your Honor, they -- they always take the other judges' opinions."
+2015.15-5040,1,15139,stephen_g_breyer,scotus_justice,2899.65,2906.1,Not -- not in an instance where you know that you shouldn't because that judge --
+2015.15-5040,1,39153,ronald_eisenberg,,2906.1,2906.2,But --
+2015.15-5040,1,15139,stephen_g_breyer,scotus_justice,2906.2,2908.13,-- should not have participated.
+2015.15-5040,1,39153,ronald_eisenberg,,2908.13,2911.105,"But under Petitioner's point of view, Your Honor, we can't know that."
+2015.15-5040,1,15139,stephen_g_breyer,scotus_justice,2911.74,2913.385,You can't know it at the moment.
+2015.15-5040,1,39153,ronald_eisenberg,,2913.385,2914.23,His whole --
+2015.15-5040,1,15139,stephen_g_breyer,scotus_justice,2914.23,2927.18,"But -- but what you -- what you do know at the moment is that the two judges, or six, or whoever were there didn't think we must ignore his situation, what he thinks."
+2015.15-5040,1,39153,ronald_eisenberg,,2945.205,2948.6,"But they can't know whether they were biased by it, Your Honor."
+2015.15-5040,1,15068,samuel_a_alito_jr,scotus_justice,2951.17,2951.42,In -- in --
+2015.15-5040,1,39153,ronald_eisenberg,,2951.42,2956.89,-- rely on the other judges to know what may have biased them from whether they were.
+2015.15-5040,1,15068,samuel_a_alito_jr,scotus_justice,2956.89,2957.02,"Well, I --"
+2015.15-5040,1,39153,ronald_eisenberg,,2957.02,2958.66,-- biased by the participation in some --
+2015.15-5040,1,15068,samuel_a_alito_jr,scotus_justice,2958.66,2964.81,"In this case, did the other justices of the Pennsylvania Supreme Court know about the recusal motion at the time of the decision?"
+2015.15-5040,1,39153,ronald_eisenberg,,2964.81,2968.76,"The recusal motion was -- was docketed, Your Honor, and so they undoubtedly knew about it."
+2015.15-5040,1,15131,sonia_sotomayor,scotus_justice,2982.4,2991.57,"But in the other cases in which that was the case, no one knew that he was actually signing off on a review of the cases."
+2015.15-5040,1,39153,ronald_eisenberg,,2991.57,2996.05,"They -- they knew that the allegation was that he was personally approving them, Your Honor."
+2015.15-5040,1,15131,sonia_sotomayor,scotus_justice,3124.915,3135.8,"I'm a little confused by this, and this line of argument. What is Pennsylvania? Each individual judge decides whether to recuse, right?"
+2015.15-5040,1,39153,ronald_eisenberg,,3135.8,3141.71,"Actually, in Pennsylvania, Your Honor, there was the opportunity for full court review, and Petitioner just didn't avail himself of it in this case."
+2015.15-5040,1,15084,ruth_bader_ginsburg,scotus_justice,3144.23,3151.83,I thought we were told that he had to go through the judge who wants to recuse. He cannot make a motion directly to the panel.
+2015.15-5040,1,39153,ronald_eisenberg,,3155.94,3160.275,"That is a -- a misstatement of the internal operating procedures, Your Honor."
+2015.15-5040,1,15084,ruth_bader_ginsburg,scotus_justice,3177.93,3191.685,"One thing is look at it. What triggers the look? That is, is the defendant permitted to say I want the judges who did not participate to make this decision?"
+2015.15-5040,1,39153,ronald_eisenberg,,3191.685,3192.55,"Yes, Your Honor."
+2015.15-5040,1,15084,ruth_bader_ginsburg,scotus_justice,3192.55,3192.865,So --
+2015.15-5040,1,39153,ronald_eisenberg,,3192.865,3196.35,And counsel did so in a prior case only several years ago.
+2015.15-5040,1,15131,sonia_sotomayor,scotus_justice,3237.74,3238.18,All right.
+2015.15-5040,1,39153,ronald_eisenberg,,3241.0,3242.64,They were never --
+2015.15-5040,1,15131,sonia_sotomayor,scotus_justice,3242.64,3247.62,"Meaning -- it doesn't mean that if a whole court looks at something, it's got it right."
+2015.15-5040,1,39153,ronald_eisenberg,,3247.62,3248.895,"Of course, it --"
+2015.15-5040,1,15131,sonia_sotomayor,scotus_justice,3248.895,3258.655,"If there's an ethical standard that says the judge who's been involved in a case shouldn't be there, then they got it wrong on their own rules."
+2015.15-5040,1,39153,ronald_eisenberg,,3267.07,3272.65,"Yes, Your Honor, but they still face a dilemma, because they have to make a decision about whether the --"
+2015.15-5040,1,15131,sonia_sotomayor,scotus_justice,3272.65,3285.24,"But they have to do it no matter what, meaning if -- if the State is telling them look at this, and recuse someone if it's appropriate to do so, then the State has imposed that obligation on them."
+2015.15-5040,1,39153,ronald_eisenberg,,3285.24,3289.66,"Well, the question is whether the Constitution imposes the obligation for the full court to look at."
+2015.15-5040,1,15131,sonia_sotomayor,scotus_justice,3291.53,3293.76,Nothing about a decision in this case would require that.
+2015.15-5040,1,39153,ronald_eisenberg,,3294.14,3294.35,In --
+2015.15-5040,1,15131,sonia_sotomayor,scotus_justice,3294.35,3297.01,That's a feature unique to Pennsylvania.
+2015.15-5040,1,39153,ronald_eisenberg,,3301.45,3342.765,"In his recusal motion, Your Honor, at page 200 in the Joint Appendix -- I'm sorry, at page 202 in the Joint Appendix, you'll see that the Petitioner made exactly this argument. He said, ""Indeed, due process requires"" -- emphasis in the original -- ""requires that the full court decide due process-based recusal claims."" And I think on Petitioner's theory, that would be true because it's a constitutional issue, and the failure to decide it potentially taints the rest of the court so that the action of the entire court is automatically invalid. And that's, I think, not what due process requires, because at the appellate level, the process is not the individual judge, it's the court."
+2015.15-5040,1,15113,anthony_m_kennedy,scotus_justice,3388.05,3395.465,"But if -- if we say that, then we say that being a judge on a 15-judge court doesn't really make much difference."
+2015.15-5040,1,39153,ronald_eisenberg,,3402.85,3410.98,"May I, Your Honor? Your Honor, I think the answer is what the Pennsylvania Supreme Court states in its Section 2 of its IOPs."
+2015.15-5040,1,15086,john_g_roberts_jr,scotus_justice,3423.42,3427.064,"Thank you, counsel. Mr. Lev, four minutes remaining."
+2015.15-5040,2,62672,stuart_b_lev,,3427.064,3434.325,Thank you. Let's start with the passage of time.
+2015.15-5040,2,15068,samuel_a_alito_jr,scotus_justice,3492.84,3506.399,"Well, this may be an extreme case, but if we do not say any personal participation requires recusal under the Constitution, what other clear line can you give us?"
+2015.15-5040,2,62672,stuart_b_lev,,3506.399,3514.12,"Well, to the extent that Caperton is not a clear line, I think we're -- we're still with Caperton."
+2015.15-5040,2,15086,john_g_roberts_jr,scotus_justice,3603.375,0.0,"Thank you, counsel. The case is submitted."

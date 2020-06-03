@@ -1,0 +1,74 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1985.84-1491,0,15073,warren_e_burger,scotus_justice,0.0,60.122,"Mr. Marion, I think you may proceed whenever you are ready."
+1985.84-1491,0,21231,david_h_marion,,60.122,62.823,"Mr. Chief Justice, and may it please the Court:"
+1985.84-1491,0,15092,sandra_day_oconnor,scotus_justice,276.811,298.958,"Mr. Marion, here we have a private figure case, and as I understand it, the defamatory statement was couched in very broad, general terms, something to the effect that federal investigators have found connections between Thrifty and underworld figures, something about that broad."
+1985.84-1491,0,21231,david_h_marion,,298.958,299.91,That--
+1985.84-1491,0,15092,sandra_day_oconnor,scotus_justice,299.91,318.138,"Now, Pennsylvania has a shield law, as I understand it, so that the plaintiff, the private figure plaintiff here would be unable to in the course of deposition and discovery find out the source of those broad allegations."
+1985.84-1491,0,21231,david_h_marion,,323.023,328.094,"--Well, I must respectfully take issue with Your Honor on both premises of your question."
+1985.84-1491,0,15092,sandra_day_oconnor,scotus_justice,349.59,357.929,"Well, what if the allegation were as broad as I read to you, and in a jurisdiction where there is a shield law?"
+1985.84-1491,0,21231,david_h_marion,,361.148,363.1,"Very simple, Your Honor."
+1985.84-1491,0,15060,john_paul_stevens,scotus_justice,464.881,465.814,"Mr. Marion, may I interrupt you for a moment, Mr. Marion?"
+1985.84-1491,0,21231,david_h_marion,,465.814,466.147,--Certainly--
+1985.84-1491,0,15060,john_paul_stevens,scotus_justice,466.147,479.805,"It seems to me this cuts in the other direction because if the allegedly defamatory statement is that Thrifty has connections with organized crime, and the issue is whether... say there is no doubt about the persons with whom Thrifty had connections."
+1985.84-1491,0,21231,david_h_marion,,502.587,510.509,"--If Your Honor please, in this case as in every case, the plaintiff has broad discovery rights."
+1985.84-1491,0,15060,john_paul_stevens,scotus_justice,528.304,530.57,"Well, that goes to whether they were negligent or not."
+1985.84-1491,0,21231,david_h_marion,,537.76,539.276,--Well--
+1985.84-1491,0,15060,john_paul_stevens,scotus_justice,539.276,546.616,"I mean, you... everybody admits he has these connections, but are they the kind that justified that comment?"
+1985.84-1491,0,21231,david_h_marion,,546.616,558.007,"--Well, in this case there was a Pennsylvania Crime Commission in existence which spends its entire existence studying organized crime and issues a report every year."
+1985.84-1491,0,15060,john_paul_stevens,scotus_justice,561.942,570.231,"No, but I'm suggesting that that kind of information is more apt to be available to the newspaper than it is to the individual who may or may not read all this stuff."
+1985.84-1491,0,21231,david_h_marion,,570.231,582.939,"--Well, with discovery... with discovery it is equally available to both sides, and it was in this case, and the plaintiff, by the plaintiff saying I know of no connections, you know, I dealt with A, B, and C, they're honest people, they're good people."
+1985.84-1491,0,15060,john_paul_stevens,scotus_justice,599.067,604.888,But all that seems to be persuasive to me of the point that you're perfectly able to discharge this burden of proof if it's placed on you.
+1985.84-1491,0,21231,david_h_marion,,608.856,616.093,"Because in a general matter, this case has to set a rule for all cases, and generally--"
+1985.84-1491,0,15060,john_paul_stevens,scotus_justice,616.093,617.693,Everybody wants us to decide some other case.
+1985.84-1491,0,21231,david_h_marion,,619.045,640.374,"--Well, if Your Honor please, in this case, looking only at this case, if you say to the jury the plaintiff said I know of no connections with organized crime, the defendant comes forward and says here are the connections, boom, boom, boom, one after another, the jury says I'm perplexed."
+1985.84-1491,1,40517,ronald_h_surkin,,1407.679,1415.635,"Mr. Chief Justice, and may it please the Court:"
+1985.84-1491,1,15045,harry_a_blackmun,scotus_justice,1552.507,1556.792,"Mr. Surkin, you referred to a decision of a Pennsylvania superior court."
+1985.84-1491,1,40517,ronald_h_surkin,,1556.792,1557.478,"--Yes, sir."
+1985.84-1491,1,15045,harry_a_blackmun,scotus_justice,1557.478,1564.215,Is the decision of the Pennsylvania Supreme Court in this case the first time it has ever so ruled--
+1985.84-1491,1,40517,ronald_h_surkin,,1564.215,1565.465,"No, sir."
+1985.84-1491,1,15045,harry_a_blackmun,scotus_justice,1590.615,1594.317,"--But it took a long time for the Supreme Court to make the flat statement, didn't it?"
+1985.84-1491,1,40517,ronald_h_surkin,,1594.317,1597.353,"--Yes, sir, it hadn't come up, quite frankly."
+1985.84-1491,1,15045,harry_a_blackmun,scotus_justice,1809.121,1818.144,"It is said, however, that the shield law is not particularly important because you are concerned here with information, not source."
+1985.84-1491,1,40517,ronald_h_surkin,,1820.413,1830.452,"--The Pennsylvania shield law, Your Honor, has been construed to apply to any information or any source which the reporter has chosen not to publish."
+1985.84-1491,1,15045,harry_a_blackmun,scotus_justice,1881.82,1890.925,"Well, I can accept all that, but why is the source so important when you are concerned with information, is my question."
+1985.84-1491,1,40517,ronald_h_surkin,,1890.925,1901.531,"Well, it was important in the sense that... of the example that I gave, we have a situation, we are assuming a situation where the reporter had no source, he made it up."
+1985.84-1491,1,15141,william_h_rehnquist,scotus_justice,1922.545,1950.945,"Mr. Surkin, do you think that the existence of the shield law in Pennsylvania is something that can be factored into the federal constitutional equation in a way that Pennsylvania can allocate the burden of proof the way it has in this case, at least where there's a shield law, even though perhaps some other state that didn't have a shield law might not for First Amendment purposes be able to have the burden of proof that way?"
+1985.84-1491,1,40517,ronald_h_surkin,,1950.945,1981.233,"I believe that that's a possible decision, conclusion that this Court could come to in this case, that in those states that do have shield laws, it would be unconstitutional and an improper balance of the rights to put the burden of proving falsity on the plaintiff, but I don't believe that the Court's decision should be based upon that because I believe under Gertz and the other decisions of the Court since Gertz that entire area should be left to the states to balance as they see fit, as long as they do not impose liability without fault."
+1985.84-1491,1,15071,byron_r_white,scotus_justice,2072.993,2078.813,"Mr. Surkin, if this weren't a private plaintiff but a public figure, what about the burden then?"
+1985.84-1491,1,40517,ronald_h_surkin,,2078.813,2091.038,"--I think in a public figure case, Your Honor, the burden of proving falsity is on the plaintiff, and I think because in that case the issue of falsity is inextricably intertwined with the issue of actual malice."
+1985.84-1491,1,15071,byron_r_white,scotus_justice,2096.774,2101.226,But you think you can separate the two in a private case?
+1985.84-1491,1,40517,ronald_h_surkin,,2101.226,2120.389,"I think clearly they can be separated, Your Honor, and I would also say that a jury can separate them because I think if special interrogatories were submitted to a jury and you submitted the issue of falsity to the jury and negligence to the jury, and the jury found falsity but not negligence, or vice versa, I don't believe a court would overturn that as being inconsistent."
+1985.84-1491,1,15071,byron_r_white,scotus_justice,2128.476,2141.219,"So a witness... so the plaintiff and his side of the case is in a sense saying all I have to do is just claim that these were true, and I am favored by a presumption, and so his case goes forward on the basis of the--"
+1985.84-1491,1,40517,ronald_h_surkin,,2141.219,2143.103,"The plaintiff claiming that they're true or false, sir?"
+1985.84-1491,1,15071,byron_r_white,scotus_justice,2143.103,2143.869,--That they're false.
+1985.84-1491,1,40517,ronald_h_surkin,,2143.869,2144.255,Yes.
+1985.84-1491,1,15071,byron_r_white,scotus_justice,2144.255,2154.611,"He says they're false, and I have a presumption that they're false, and he goes forward on the basis, if these statements are false, there was negligence."
+1985.84-1491,1,40517,ronald_h_surkin,,2154.611,2156.162,That's correct.
+1985.84-1491,1,15071,byron_r_white,scotus_justice,2160.78,2163.482,"Well, then, if he hasn't got the burden, that's probably the way he does it."
+1985.84-1491,1,40517,ronald_h_surkin,,2163.482,2167.87,"Well, I think as a practical matter, Your Honor, most plaintiffs will try to prove falsity."
+1985.84-1491,1,15071,byron_r_white,scotus_justice,2167.87,2168.386,On their side.
+1985.84-1491,1,40517,ronald_h_surkin,,2168.386,2170.905,"If they can, on their side of the case, rather than waiting for rebuttal."
+1985.84-1491,1,15071,byron_r_white,scotus_justice,2170.905,2173.624,Then he will ask for instructions; the instructions are that the defendant has the burden.
+1985.84-1491,1,40517,ronald_h_surkin,,2173.624,2176.19,"That's right, and that makes a big difference, Your Honor."
+1985.84-1491,1,15073,warren_e_burger,scotus_justice,2522.432,2539.443,"Is there any evidence in this record negating the suggestion that federal authorities were the source of this, that is, by bringing in the FBI and whoever else is involved and having them state that they gave no such information?"
+1985.84-1491,1,40517,ronald_h_surkin,,2539.443,2544.347,"Your Honor, we don't know who gave the information."
+1985.84-1491,1,15073,warren_e_burger,scotus_justice,2556.988,2570.562,"Was there anything to prevent you from, or the plaintiff from calling the FBI and the CIA and the United States Marshal and the prosecutor one by one and having them deny they ever gave any such information?"
+1985.84-1491,1,40517,ronald_h_surkin,,2570.562,2576.466,"No, but that would have involved having to call an enormous amount of people, Your Honor, because we don't even know who they had spoken to."
+1985.84-1491,1,15141,william_h_rehnquist,scotus_justice,2591.276,2594.328,I imagine you found a certain reluctance on the part of some of those sources to come and testify.
+1985.84-1491,1,40517,ronald_h_surkin,,2594.328,2614.241,"I'm sure, Your Honor, that were we to subpoena any of those people, we would get objections, motions to quash those subpoenas, invasion of grand jury secrecy, a variety of other things, claims that we were trying to somehow get into the grand jury to use it in our civil case or some other civil case, and I think as a practical matter, given that type of a situation--"
+1985.84-1491,1,15073,warren_e_burger,scotus_justice,2614.241,2618.395,"It would be one way of proving the man was a liar, wouldn't it be, however cumbersome?"
+1985.84-1491,1,40517,ronald_h_surkin,,2618.395,2624.215,"--It would be a way, but it would be enormously cumbersome and I think practically impossible in any given case, Your Honor."
+1985.84-1491,1,15073,warren_e_burger,scotus_justice,3140.416,3142.818,Do you have anything further?
+1985.84-1491,2,21231,david_h_marion,,3142.818,3143.568,"Yes, Your Honor."
+1985.84-1491,2,15073,warren_e_burger,scotus_justice,3145.234,3145.936,"Yes, you have."
+1985.84-1491,2,21231,david_h_marion,,3145.936,3150.222,I would like to face this issue of the shield law directly.
+1985.84-1491,2,15045,harry_a_blackmun,scotus_justice,3211.895,3215.764,"Mr. Marion, tell me again, how long has Pennsylvania had its shield law?"
+1985.84-1491,2,21231,david_h_marion,,3215.764,3220.834,"1937, I believe, and it's been re-enacted--"
+1985.84-1491,2,15045,harry_a_blackmun,scotus_justice,3220.834,3222.234,So it's an old one.
+1985.84-1491,2,21231,david_h_marion,,3222.234,3223.536,--It's an old one.
+1985.84-1491,2,15045,harry_a_blackmun,scotus_justice,3390.077,3392.529,"Well, are you talking about the common law of England?"
+1985.84-1491,2,21231,david_h_marion,,3393.346,3396.981,--The common law of England and carried forward right into America until Sullivan.
+1985.84-1491,2,15045,harry_a_blackmun,scotus_justice,3396.981,3398.95,When did... how did truth come to be a defense?
+1985.84-1491,2,21231,david_h_marion,,3398.95,3403.587,Truth came to be a defense by common law development because--
+1985.84-1491,2,15141,william_h_rehnquist,scotus_justice,3403.587,3404.387,Fox's libel law.
+1985.84-1491,2,21231,david_h_marion,,3406.304,3409.325,"--Yes, I believe so, and it was a common law decision that a plaintiff--"

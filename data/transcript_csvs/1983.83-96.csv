@@ -1,0 +1,117 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1983.83-96,0,15073,warren_e_burger,scotus_justice,0.0,63.09,"Mr. Farrin, I think you may proceed when you're ready."
+1983.83-96,0,39263,richard_c_farrin,,63.09,66.042,"Mr. Chief Justice, and may it please the Court:"
+1983.83-96,0,15092,sandra_day_oconnor,scotus_justice,138.138,151.196,"Mr. Farrin, did the Ohio Supreme Court apply state collateral estoppel principles in finding the state precluded by the Hooven & Allison decision?"
+1983.83-96,0,39263,richard_c_farrin,,151.196,178.865,"Justice O'Connor, the state... the Ohio Supreme Court accepted this Court's limitation on the doctrine of collateral estoppel enunciated in Commissioner v. Sunnen, but found that that limitation being that collateral estoppel is inapplicable where an intervening decision of this Court has changed the legal principles upon which the prior decision was based."
+1983.83-96,0,15092,sandra_day_oconnor,scotus_justice,178.865,184.586,"Well, so you think the Court was trying to apply federal preclusion principles."
+1983.83-96,0,39263,richard_c_farrin,,184.586,189.421,"Justice O'Connor, I believe the Court was applying federal law on the issue."
+1983.83-96,0,15092,sandra_day_oconnor,scotus_justice,192.107,192.557,Thank you.
+1983.83-96,0,39263,richard_c_farrin,,192.557,197.343,--Because it was basing its decision on a decision of this Court.
+1983.83-96,0,15060,john_paul_stevens,scotus_justice,199.528,201.428,"What is the source, if I may ask you?"
+1983.83-96,0,39263,richard_c_farrin,,210.92,221.542,"--Justice Stevens, I believe it's inherent in the basic power of a court that it must determine the scope of its own judgment."
+1983.83-96,0,15060,john_paul_stevens,scotus_justice,261.969,264.571,And what are those cases you're just referring to?
+1983.83-96,0,39263,richard_c_farrin,,264.571,286.484,"--Those... those cases... and I apologize; they were not cited in the brief, because I was not aware of them at the time... are Deposit Bank v. Frankfurt at 191 U.S. 499, and Stahl v. Gottlieb, 305 U.S. at 165."
+1983.83-96,0,15140,william_j_brennan_jr,scotus_justice,294.507,297.726,Do you mind restating what you say those cases stand for?
+1983.83-96,0,39263,richard_c_farrin,,297.726,299.192,"--Certainly, Mr. Justice Brennan."
+1983.83-96,0,15140,william_j_brennan_jr,scotus_justice,328.693,345.821,"Well, I thought... the way you stated it previously, was it the meaning, what the Court held in the prior cases a federal question, not the... not the... not the effect that must be given it in a state court."
+1983.83-96,0,39263,richard_c_farrin,,345.821,369.519,"Mr. Justice White, I believe what those cases and what the fundamental principle require is that where a... where collateral estoppel is to be applied based on a decision of this Court, that this Court must determine the scope and effect of that decision."
+1983.83-96,0,15071,byron_r_white,scotus_justice,386.812,389.098,"Well, that wouldn't depend on collateral estoppel or anything like that."
+1983.83-96,0,39263,richard_c_farrin,,400.122,416.465,"--Your Honor, I think that this Court in order to assure that the state court properly applies an earlier decision of this Court, particularly where there's an intervening decision of this Court--"
+1983.83-96,0,15071,byron_r_white,scotus_justice,416.465,416.998,"Right, right."
+1983.83-96,0,39263,richard_c_farrin,,416.998,419.934,--Is a decision that this Court must make.
+1983.83-96,0,15071,byron_r_white,scotus_justice,419.934,420.2,Yeah.
+1983.83-96,0,39263,richard_c_farrin,,425.337,427.789,"I apologize if I confused the issue earlier, Mr. Justice."
+1983.83-96,0,15141,william_h_rehnquist,scotus_justice,427.789,440.863,"--But if the earlier case had been Smith against Jones instead of involving Hooven against Allison, you still might have a question of what effect do you give to the decision of this Court."
+1983.83-96,0,39263,richard_c_farrin,,446.331,449.617,"Mr. Justice Rehnquist, that's correct."
+1983.83-96,0,15073,warren_e_burger,scotus_justice,473.165,478.652,"We'll resume at 1:00, counsel."
+1983.83-96,0,39263,richard_c_farrin,,478.652,494.164,Thank you.
+1983.83-96,0,15073,warren_e_burger,scotus_justice,494.164,497.6,"Mr. Farrin, you may resume your argument."
+1983.83-96,0,39263,richard_c_farrin,,497.6,499.2,Thank you.
+1983.83-96,0,15141,william_h_rehnquist,scotus_justice,605.919,618.712,Let me make sure I understand what you're saying about the holding of the tax... is it the Tax Commissioner you're referring to or the Supreme Court of Ohio?
+1983.83-96,0,39263,richard_c_farrin,,618.712,626.149,"Justice Rehnquist, there were decisions initially by the Ohio Board of Tax Appeals."
+1983.83-96,0,15141,william_h_rehnquist,scotus_justice,633.472,636.238,And it... it ruled how?
+1983.83-96,0,39263,richard_c_farrin,,636.238,645.01,It ruled that the Tax Commissioner was estopped from assessing its tax based on this Court's decision in Hooven.
+1983.83-96,0,15141,william_h_rehnquist,scotus_justice,645.01,645.779,Okay.
+1983.83-96,0,39263,richard_c_farrin,,655.318,656.435,"Yes, Justice Rehnquist."
+1983.83-96,0,15045,harry_a_blackmun,scotus_justice,670.511,673.697,No one has passed on the constitutional issue yet?
+1983.83-96,0,39263,richard_c_farrin,,673.697,674.882,"Correct, Justice."
+1983.83-96,0,15045,harry_a_blackmun,scotus_justice,768.574,776.514,"Of course, in Michelin the Court overruled Low v. Austin, but it didn't overrule Hooven."
+1983.83-96,0,39263,richard_c_farrin,,776.514,781.416,"Justice Blackmun, it did not expressly overrule Hooven."
+1983.83-96,0,15045,harry_a_blackmun,scotus_justice,814.972,818.274,Suppose we agree with you on the collateral estoppel issue.
+1983.83-96,0,39263,richard_c_farrin,,826.697,832.415,"Justice Blackmun, I would submit that it would be appropriate to decide the issue here."
+1983.83-96,0,15071,byron_r_white,scotus_justice,851.528,868.74,"Well, what... Mr. Attorney General, what would... what do you suppose your... the state court would have done if... if in Michelin we had specifically said that not only Low but Hooven is... are... is overruled?"
+1983.83-96,0,39263,richard_c_farrin,,868.74,879.396,"I feel confident that our court, in light of such a decision, would have upheld the imposition of Ohio's tax."
+1983.83-96,0,15071,byron_r_white,scotus_justice,879.914,890.287,Even though... even though it involved the same party that had had a favorable decision below... before.
+1983.83-96,0,39263,richard_c_farrin,,890.287,901.261,"--Justice White, I think it's clear that if this Court had specifically overruled Hooven, that the Ohio Supreme Court would not have applied collateral estoppel."
+1983.83-96,0,15071,byron_r_white,scotus_justice,901.261,915.921,"Well, let's assume that in... let's assume that in... let's assume that in Michelin the Court had said we overrule Low against Austin, but whether Hooven should be overruled we save for another day."
+1983.83-96,0,39263,richard_c_farrin,,921.741,934.482,"Justice White, I believe our court should have read the decision in Michelin and looked at the... the basic principles that were adopted in that decision."
+1983.83-96,0,15071,byron_r_white,scotus_justice,943.172,960.049,"You don't think it would have been required to... to say just what it did at... at Hooven... if Hooven 1 is overruled, it's going to have to be by the Supreme Court since it saved for itself that question for another day?"
+1983.83-96,0,39263,richard_c_farrin,,960.049,963.818,"Mr.... Or Justice White, I think it may have done so."
+1983.83-96,0,15071,byron_r_white,scotus_justice,980.88,981.297,Right.
+1983.83-96,0,39263,richard_c_farrin,,981.297,994.188,"--But then it also quoted some language from a lower court decision in the Penfield case, indicating that it was not within the province of a lower court to guess at what this Court might do."
+1983.83-96,0,15071,byron_r_white,scotus_justice,1012.668,1033.498,"But if... but if we had said in Michelin we put... we put off to another day the decision of Hooven, whether Hooven is overruled, would you think it would be... that that... would you be arguing that Ohio was constitutionally disentitled to apply collateral estoppel in this case?"
+1983.83-96,0,39263,richard_c_farrin,,1033.498,1040.252,"--Justice White, I think it would... it would have depended on the language that this Court used in... in... in--"
+1983.83-96,0,15071,byron_r_white,scotus_justice,1040.252,1043.653,"Well, I just gave you the language."
+1983.83-96,0,39263,richard_c_farrin,,1043.653,1054.745,"--If that were the only difference in the Michelin case, it would still be the Tax Commissioner's position that the Ohio Supreme Court should have refused to apply collateral estoppel."
+1983.83-96,0,15071,byron_r_white,scotus_justice,1054.745,1058.547,"That may be so, but as a matter of federal constitutional--"
+1983.83-96,0,39263,richard_c_farrin,,1058.547,1084.197,"As a matter of... Justice White, I think it's more a matter of applying the decision of this Court in Commissioner v. Sunnen and determining whether or not Michelin v. Wages changed or effected a growth or modification in the legal principles."
+1983.83-96,0,15071,byron_r_white,scotus_justice,1104.109,1111.365,"--But in my example it is... the Court says remember, fellows, Hooven isn't overruled by this case."
+1983.83-96,0,39263,richard_c_farrin,,1111.365,1127.357,"If the Court specifically stated that Hooven was not overruled and simply didn't say that we don't reach the question, I believe that the lower court would properly have applied collateral estoppel."
+1983.83-96,0,15141,william_h_rehnquist,scotus_justice,1127.357,1143.236,"Well, collateral estoppel and the constitutional issue are kind of blended together, aren't they, because the Sunnen case says if there's been a change in the law, collateral estoppel doesn't apply; and the argument here is whether there's been a change in the law."
+1983.83-96,0,39263,richard_c_farrin,,1143.236,1147.271,"I think that's correct, Justice Rehnquist."
+1983.83-96,0,15071,byron_r_white,scotus_justice,1185.813,1206.326,"If we just say here, well, under... reread Michelin and reread the old Hooven, and we think Michelin fatally wounded Hooven, Hooven won, and so Hooven is overruled, that's all we need to say."
+1983.83-96,0,39263,richard_c_farrin,,1208.078,1213.482,"Justice White, I believe that that would resolve the case."
+1983.83-96,0,15071,byron_r_white,scotus_justice,1213.482,1213.965,Yes.
+1983.83-96,0,39263,richard_c_farrin,,1213.965,1215.382,And I believe if that was--
+1983.83-96,0,15071,byron_r_white,scotus_justice,1215.382,1218.201,We needn't say anything about collateral estoppel then.
+1983.83-96,0,39263,richard_c_farrin,,1220.836,1227.557,"--I... I think that's probably correct, Justice White."
+1983.83-96,0,15045,harry_a_blackmun,scotus_justice,1243.851,1255.742,"--Yes, but that brings up my question, which I thought you answered, as to whether we go ahead and decide the constitutional issue."
+1983.83-96,0,39263,richard_c_farrin,,1255.742,1289.396,"Justice Blackmun, I believe if this Court held that Hooven was overruled that it would, in effect, decide the constitutional issue, because by overruling Hooven it would have specifically answered the second issue we present; that is, whether Ohio's tax can be constitutionally applied to imported raw materials, as well as imported goods held for resale, regardless of whether those goods were retained in their original package."
+1983.83-96,0,15140,william_j_brennan_jr,scotus_justice,1347.0,1349.585,"Well, but they were raised and argued, were they?"
+1983.83-96,0,39263,richard_c_farrin,,1349.585,1357.191,They... these... the... at the Ohio Supreme Court these matters were argued in the briefs.
+1983.83-96,0,15140,william_j_brennan_jr,scotus_justice,1375.952,1386.793,"Ordinarily, as you know, a respondent may support a judgment here on grounds raised and argued below."
+1983.83-96,0,39263,richard_c_farrin,,1392.611,1416.745,"--Mr.... or Justice Brennan, I don't believe that... or I do believe that the Ohio... that the failure to follow Ohio provisions with respect to raising those issues would preclude him raising those issues before this Court, even though I admit that those issues were specifically argued in the briefs in this matter and in oral argument before the Ohio Supreme Court."
+1983.83-96,0,15140,william_j_brennan_jr,scotus_justice,1416.745,1426.584,"Well, could we independently conclude that they were sufficiently raised for our purposes, notwithstanding your Ohio rule?"
+1983.83-96,0,39263,richard_c_farrin,,1426.584,1428.97,"I believe this Court has that authority, Justice Brennan."
+1983.83-96,0,15071,byron_r_white,scotus_justice,1428.97,1433.238,"Well, you say they weren't properly before the Ohio Supreme Court."
+1983.83-96,0,39263,richard_c_farrin,,1433.238,1441.861,"They were not properly before the Ohio Supreme Court, Justice White, because they were not specified in the notice of appeal to that court."
+1983.83-96,0,15141,william_h_rehnquist,scotus_justice,1441.861,1451.133,I thought it... I thought it was the... I thought the... the Hooven & Allison was the appellee in the Supreme Court of Ohio.
+1983.83-96,0,39263,richard_c_farrin,,1451.133,1456.037,"It was the appellant and cross-appellee, Justice Rehnquist."
+1983.83-96,0,15073,warren_e_burger,scotus_justice,1540.124,1541.491,Very well.
+1983.83-96,0,39263,richard_c_farrin,,1541.491,1543.459,Thank you.
+1983.83-96,0,15073,warren_e_burger,scotus_justice,1543.459,1550.063,Mr. Nims.
+1983.83-96,1,36410,michael_nims,,1550.063,1553.165,"Mr. Chief Justice, and may it please the Court:"
+1983.83-96,1,15141,william_h_rehnquist,scotus_justice,1659.867,1663.052,Were you... were you just reading from your brief in the Supreme Court of Ohio?
+1983.83-96,1,36410,michael_nims,,1663.052,1670.14,--I was reading from the notice of appeal filed in the Ohio Supreme Court by Hooven & Allison.
+1983.83-96,1,15140,william_j_brennan_jr,scotus_justice,1676.544,1677.027,I'm sorry.
+1983.83-96,1,36410,michael_nims,,1678.362,1686.167,"--Well, the appendix A-17 and 18 is the opinion of the Board of Tax Appeals."
+1983.83-96,1,15140,william_j_brennan_jr,scotus_justice,1697.69,1698.375,But it's in the record of the Court?
+1983.83-96,1,36410,michael_nims,,1698.375,1701.094,"It is in the record, yes."
+1983.83-96,1,15141,william_h_rehnquist,scotus_justice,1773.906,1822.887,"Well, now, Mr. Nims, does something, in your view, turn on the question of whether when this Court says we leave the question of whether Hooven & Allison I is still good law for another day, does that mean that this Court meant that only this Court was free to disavow that case in the light of Michelin, or perhaps, on the contrary, that any court having jurisdiction to consider constitutional questions could look at Michelin alongside Hooven & Allison and say certainly the Supreme Court of the United States did not expressly overrule, but it's nonetheless clear that Michelin is inconsistent with Hooven & Allison, and therefore, we decide that Hooven & Allison I is no longer good law?"
+1983.83-96,1,36410,michael_nims,,1822.887,1825.322,I think a court could do that.
+1983.83-96,1,15141,william_h_rehnquist,scotus_justice,1908.741,1915.911,"When you... when you say look at the facts of Hooven, you're not talking about the facts of the present case but the facts of Hooven I?"
+1983.83-96,1,36410,michael_nims,,1915.911,1916.945,No.
+1983.83-96,1,15141,william_h_rehnquist,scotus_justice,1918.447,1924.351,So you say there's nothing in the record that shows what factually happened in this case?
+1983.83-96,1,36410,michael_nims,,1924.351,1939.776,The only thing you know is that Ohio is seeking to assess an ad valorem personal property tax on imported raw materials which Hooven & Allison subsequently will incorporate into its manufacturing processes.
+1983.83-96,1,15141,william_h_rehnquist,scotus_justice,1952.184,1958.755,"Well, is that something the Board... the Ohio Tax Commissioner is apt to have a great deal of expertise?"
+1983.83-96,1,36410,michael_nims,,1958.755,1974.364,"No, they're not, but the point is that if you were to ask the Board of Tax Appeals or the Ohio Supreme Court to predict what this Court would do applying a Michelin analysis to Hooven facts, you've got to give it some facts."
+1983.83-96,1,15141,william_h_rehnquist,scotus_justice,1974.364,1984.388,"Well, but, you know, how do we know anything more about the Ohio... than the Ohio Board of Tax Appeals about how a certain tax impacts on the Third World or something like that?"
+1983.83-96,1,36410,michael_nims,,1984.388,1995.78,You don't out of this record because the Tax Commissioner chose consciously not to put anything on this record and argued Hooven in I has been implicitly overruled.
+1983.83-96,1,15141,william_h_rehnquist,scotus_justice,1995.78,2002.434,"Well, do we know all that much of our own knowledge in Michelin or in Hooven-Allison I?"
+1983.83-96,1,36410,michael_nims,,2011.456,2013.491,"Well, they're facts."
+1983.83-96,1,15071,byron_r_white,scotus_justice,2205.98,2218.121,Are there customs warehouses available for you to store your raw materials in before you take them out for incorporation into your product?
+1983.83-96,1,36410,michael_nims,,2218.121,2223.342,I believe... you're... you're getting a little beyond the knowledge I'm sure of.
+1983.83-96,1,15071,byron_r_white,scotus_justice,2245.622,2261.8,"Well, I'm not asking... I just... I just wondered is there a customs warehouse system available for... to protect against these kinds of duties until they're taken out for local consumption?"
+1983.83-96,1,36410,michael_nims,,2261.8,2264.336,"Like I say, I believe there is a duty-free warehouse--"
+1983.83-96,2,39263,richard_c_farrin,,2731.405,2741.444,"Mr. Chief Justice, and may it please the Court:"
+1983.83-96,2,15071,byron_r_white,scotus_justice,2928.451,2930.468,While they were in the warehouse.
+1983.83-96,2,39263,richard_c_farrin,,2930.468,2932.42,"--When removed from the warehouse, it--"
+1983.83-96,2,15071,byron_r_white,scotus_justice,2932.42,2935.188,How about for the period they were in the warehouse?
+1983.83-96,2,39263,richard_c_farrin,,2935.188,2947.912,"--Well, under the... under the customs-bonded warehouse statutes, it's my understanding that as long as they're put in those warehouses, they are presumed to be intended for use later in foreign commerce."
+1983.83-96,2,15071,byron_r_white,scotus_justice,2951.231,2963.874,"So if Hooven put their fibers in bonded warehouses and only took the fibers out when they were about to make some rope out of them, you would have some problems?"
+1983.83-96,2,39263,richard_c_farrin,,2963.874,2964.891,"Justice White, I don't believe--"
+1983.83-96,2,15071,byron_r_white,scotus_justice,2964.891,2969.595,For... for the period of time that the fibers were in the warehouse.
+1983.83-96,2,39263,richard_c_farrin,,2969.595,2974.58,"--Justice White, I don't think they would have been allowed to put their materials within that warehouse--"
+1983.83-96,2,15071,byron_r_white,scotus_justice,2974.58,2975.297,Unless they--
+1983.83-96,2,39263,richard_c_farrin,,2975.297,2979.367,--If... if they had stated they were going to use them in foreign commerce.
+1983.83-96,2,15073,warren_e_burger,scotus_justice,3060.253,3061.036,"Thank you, gentlemen,--"

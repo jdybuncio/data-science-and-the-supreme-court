@@ -1,0 +1,220 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2012.11-864,0,15086,john_g_roberts_jr,scotus_justice,0.0,8.504,"We'll hear argument first this morning in Case 11-864, Comcast Corporation v. Behrend."
+2012.11-864,0,35754,miguel_a_estrada,,9.939,13.891,"Thank you, Mr. Chief Justice, and may it please the Court:"
+2012.11-864,0,15084,ruth_bader_ginsburg,scotus_justice,53.516,61.622,"Mr. Estrada, you are limiting your argument to the determination of damages, as I understand it."
+2012.11-864,0,35754,miguel_a_estrada,,61.622,66.256,"I think you limited my argument to determination of damages, Justice Ginsburg."
+2012.11-864,0,15084,ruth_bader_ginsburg,scotus_justice,66.256,72.41,Because the -- because the Third Circuit agreed that as far as any antitrust impact--
+2012.11-864,0,35754,miguel_a_estrada,,72.41,73.01,Yes.
+2012.11-864,0,15084,ruth_bader_ginsburg,scotus_justice,73.01,75.362,--that could be established on a class basis.
+2012.11-864,0,35754,miguel_a_estrada,,75.362,81.099,"We -- we obviously -- as is obvious from our cert petition, we do not agree with that."
+2012.11-864,0,15084,ruth_bader_ginsburg,scotus_justice,90.805,91.955,But why -- why not?
+2012.11-864,0,35754,miguel_a_estrada,,133.698,144.07,"--Well, let me make two points in response to that question, Justice Ginsburg: One about what the legal standards are, and, you know, the second one, which is as important, about what the record in this case is."
+2012.11-864,0,15094,elena_kagan,scotus_justice,194.352,205.794,"Mr. Estrada, doesn't Justice Ginsburg's question actually point out that the -- the law that both the district court and the circuit court used in this case was actually quite favorable to you."
+2012.11-864,0,35754,miguel_a_estrada,,253.708,254.993,"--I don't think that's right, Justice Kagan."
+2012.11-864,0,15094,elena_kagan,scotus_justice,278.342,279.875,"Well, here's what the district court said."
+2012.11-864,0,35754,miguel_a_estrada,,317.3,330.791,"Well, I think that it is true that our position in the district court was that Hydrogen Peroxide controlled, and that the district court correctly stated the holding of the Third Circuit ruling in that case."
+2012.11-864,0,15084,ruth_bader_ginsburg,scotus_justice,495.416,498.535,It doesn't have to be the same for every member of the class.
+2012.11-864,0,35754,miguel_a_estrada,,502.42,506.557,"Well, and I'm happy to also deal with that question."
+2012.11-864,0,15113,anthony_m_kennedy,scotus_justice,571.416,590.645,"Are there cases in the -- in the ordinary course of class actions -- I know they are all different -- where the district court can find that common questions do predominate without addressing the question whether damages can be proven on a class-wide basis, or are they always interlinked?"
+2012.11-864,0,35754,miguel_a_estrada,,590.645,605.054,"--No, I think the text of (b)(20) -- of (b)(3) expressly requires that questions, whether they be damages or liability, that are common to the class predominate over those that are individual as to class members."
+2012.11-864,0,15139,stephen_g_breyer,scotus_justice,659.224,661.907,I completely agree with hornbook law.
+2012.11-864,0,35754,miguel_a_estrada,,678.269,678.936,--Right.
+2012.11-864,0,15139,stephen_g_breyer,scotus_justice,678.936,683.506,"This case, this case, hornbook law: Section 2 forbids monopolization."
+2012.11-864,0,35754,miguel_a_estrada,,726.216,741.009,"Well, I mean, the answer is -- I will take your first example and, in fact, I was going to give, you know, the example of a case that I had that was similar where, you know, three plastic cup manufacturers met in, you know, some airport and fixed the prices."
+2012.11-864,0,15139,stephen_g_breyer,scotus_justice,766.343,773.914,"Well, here, since what they are saying is they have two theories: Section 1, the agreements to keep other people out of this area are unlawful in themselves."
+2012.11-864,0,35754,miguel_a_estrada,,778.718,779.518,"No, but the question--"
+2012.11-864,0,15139,stephen_g_breyer,scotus_justice,779.518,781.336,"Now, that's the legal issue of liability."
+2012.11-864,0,35754,miguel_a_estrada,,794.994,795.794,--But the legal--
+2012.11-864,0,15139,stephen_g_breyer,scotus_justice,795.794,797.73,"Some paid some, some paid another."
+2012.11-864,0,35754,miguel_a_estrada,,802.083,814.324,"--No, but it isn't, because one key point that is missing from the hypothetical, Justice Breyer, is exactly what the theory of liability that is present in this case is as the case comes to the court."
+2012.11-864,0,15139,stephen_g_breyer,scotus_justice,816.357,832.05,"I saw the four theories and it seems to me that we are now on the theory of one of the pieces of exclusionary conduct was agreement through various mergers, et cetera, that potential competitors would not come in and compete."
+2012.11-864,0,35754,miguel_a_estrada,,854.279,854.846,--No.
+2012.11-864,0,15139,stephen_g_breyer,scotus_justice,859.367,859.9,--Is?
+2012.11-864,0,35754,miguel_a_estrada,,859.9,865.021,"--basically starts with the actual point of antitrust law, whether these people actually are potential competitors."
+2012.11-864,0,15139,stephen_g_breyer,scotus_justice,885.148,887.867,"I mean, that's liability."
+2012.11-864,0,35754,miguel_a_estrada,,887.867,889.319,"--Well, you are right--"
+2012.11-864,0,15139,stephen_g_breyer,scotus_justice,889.319,890.969,"You have the right to prove that they weren't, fine."
+2012.11-864,0,35754,miguel_a_estrada,,890.969,892.088,--I just said that.
+2012.11-864,0,15139,stephen_g_breyer,scotus_justice,908.198,909.133,"And this does, too--"
+2012.11-864,0,35754,miguel_a_estrada,,909.133,909.683,--in this case.
+2012.11-864,0,15139,stephen_g_breyer,scotus_justice,909.683,934.165,"--because if they prove their case, the question on damages is to what extent did the absence of competition from the overbuilders -- and it should have been DBS too from reading this, but nonetheless let me express no view on that -- but on -- on -- to what extent did the failure of competition from those people raise price above the competitive level?"
+2012.11-864,0,35754,miguel_a_estrada,,934.165,934.815,"I mean, I hate--"
+2012.11-864,0,15139,stephen_g_breyer,scotus_justice,934.815,935.45,And--
+2012.11-864,0,35754,miguel_a_estrada,,935.45,936.8,--Justice Breyer--
+2012.11-864,0,15139,stephen_g_breyer,scotus_justice,936.8,938.4,--the pipes--
+2012.11-864,0,35754,miguel_a_estrada,,938.4,951.31,"--I mean, I really hate to be so prosaic and you mentioned something -- something so contrary to the facts, but the fact is that the fundamental question here is that there is one theory they are permitted to pursue."
+2012.11-864,0,15094,elena_kagan,scotus_justice,983.097,984.081,"Well, Mr.--"
+2012.11-864,0,35754,miguel_a_estrada,,984.081,985.447,--If I could just finish.
+2012.11-864,0,15094,elena_kagan,scotus_justice,1042.985,1049.206,"--Mr. Estrada, as -- as the case comes to the Court, I guess I wonder why any of this is relevant."
+2012.11-864,0,35754,miguel_a_estrada,,1107.928,1111.03,"Well, I don't agree with you that we waived."
+2012.11-864,0,15084,ruth_bader_ginsburg,scotus_justice,1117.701,1120.635,"But you challenged the probity, Mr. Estrada."
+2012.11-864,0,35754,miguel_a_estrada,,1137.447,1139.399,"--No, that is not right, Justice Ginsburg."
+2012.11-864,0,15094,elena_kagan,scotus_justice,1170.985,1177.322,"The district court, Mr. Estrada, clearly understood you to be making an argument about weight and not about admissibility."
+2012.11-864,0,35754,miguel_a_estrada,,1192.934,1215.681,"--Well, but I think we -- we agree that he needed to conduct more than a Daubert hearing because we agree with the holding of the Seventh Circuit in American Honda that the question at the class cert hearing is not solely one of whether the evidence would be admissible, but also one of -- of whether the district judge himself is persuaded that this is class-wide proof that has not been impeached in his own mind."
+2012.11-864,0,15094,elena_kagan,scotus_justice,1250.287,1257.71,"Mr. Estrada, it seems like a remarkable proposition, honestly, especially with a client like yours that is well lawyered."
+2012.11-864,0,35754,miguel_a_estrada,,1291.681,1292.531,"But, Justice Kagan--"
+2012.11-864,0,15094,elena_kagan,scotus_justice,1292.531,1293.416,--to rule on admissibility.
+2012.11-864,0,35754,miguel_a_estrada,,1293.416,1298.787,"--But, Justice Kagan, I mean, I think we could go through chapter and verse to everything that we put in the reply brief."
+2012.11-864,0,15094,elena_kagan,scotus_justice,1326.752,1329.638,Did you ever file a motion to strike the expert report?
+2012.11-864,0,35754,miguel_a_estrada,,1329.638,1345.415,"--No, we did not, and we actually don't think that that's needed, because it would actually be sort of silly to engage in a motion to strike the evidence that we are asking the district judge to consider in order to decide whether it actually is reliable."
+2012.11-864,0,15131,sonia_sotomayor,scotus_justice,1345.415,1353.419,"Mr. Estrada, could you pronounce for me or give me the legal rule as you want us to articulate it?"
+2012.11-864,0,35754,miguel_a_estrada,,1373.25,1375.935,"I don't think that's fair, because I think--"
+2012.11-864,0,15131,sonia_sotomayor,scotus_justice,1375.935,1378.887,Did you use the word “ Daubert ” before the district court?
+2012.11-864,0,35754,miguel_a_estrada,,1378.887,1381.338,--We cited Daubert cases in the court of appeals.
+2012.11-864,0,15131,sonia_sotomayor,scotus_justice,1384.39,1385.157,Okay.
+2012.11-864,0,35754,miguel_a_estrada,,1387.675,1388.459,I think that's fair.
+2012.11-864,0,15131,sonia_sotomayor,scotus_justice,1388.459,1390.611,"--so let's get out of the Daubert language, okay?"
+2012.11-864,0,35754,miguel_a_estrada,,1424.682,1435.97,"There are two things that the district court has to do and both involve an assessment of the validity or, as you would put it, probity of the expert evidence."
+2012.11-864,0,15049,antonin_scalia,scotus_justice,1470.594,1474.864,"We must have thought that, I suppose, or else we wouldn't have reformulated the question this way, right?"
+2012.11-864,0,35754,miguel_a_estrada,,1474.864,1475.564,Well--
+2012.11-864,0,15049,antonin_scalia,scotus_justice,1475.564,1480.851,"That's the way you put the question initially, and we reformulated it to be a Daubert question."
+2012.11-864,0,35754,miguel_a_estrada,,1480.851,1497.045,"--I was -- I was going to point out by reference to one of your opinions, Justice Scalia, that there is a question sort of based on the Williams case, 504 U.S., as to, you know, the extent to which these issues are open to the Respondent to challenge as well."
+2012.11-864,0,15086,john_g_roberts_jr,scotus_justice,1528.58,1530.166,"Thank you, counsel."
+2012.11-864,1,17484,barry_barnett,,1537.42,1540.187,Mr. Chief Justice and may it please the Court:
+2012.11-864,1,15113,anthony_m_kennedy,scotus_justice,1582.03,1584.716,One of my -- one of my questions in the case is this.
+2012.11-864,1,17484,barry_barnett,,1620.973,1629.245,"I don't think it is a magic word approach at all, Your Honor, because it has tremendous significance to people who are actually litigating the case."
+2012.11-864,1,15113,anthony_m_kennedy,scotus_justice,1654.425,1659.162,"Well, I -- I take it there is no argument over whether or not the expert is qualified."
+2012.11-864,1,17484,barry_barnett,,1659.162,1660.329,"Indeed, Your Honor."
+2012.11-864,1,15113,anthony_m_kennedy,scotus_justice,1660.329,1664.065,The question is just whether his -- his theory makes any sense.
+2012.11-864,1,17484,barry_barnett,,1664.065,1664.698,That's true.
+2012.11-864,1,15113,anthony_m_kennedy,scotus_justice,1664.698,1667.017,And the Petitioner says it doesn't.
+2012.11-864,1,17484,barry_barnett,,1667.017,1670.652,"But, Justice Kennedy it's also the case that the judge saying,"
+2012.11-864,1,15113,anthony_m_kennedy,scotus_justice,1681.794,1690.816,"Well, I -- I can think of -- my initial reaction -- it has been an awful long time since I have been in the courtroom -- is that that's whether or not this man is -- is qualified to give an opinion."
+2012.11-864,1,17484,barry_barnett,,1690.816,1692.083,That was--
+2012.11-864,1,15113,anthony_m_kennedy,scotus_justice,1692.083,1692.75,That's one.
+2012.11-864,1,17484,barry_barnett,,1695.085,1708.427,"--The second step is using the -- the Court's opinions in Daubert, as well as in Carmichael, as well as in Joiner, which the Court has held applies to all kinds of expert testimony in Federal court."
+2012.11-864,1,15131,sonia_sotomayor,scotus_justice,1719.133,1724.621,"Excuse me, do you think -- that -- that's why I am trying to get away from magic words."
+2012.11-864,1,17484,barry_barnett,,1746.367,1753.288,"I completely agree, Justice Sotomayor, and we -- we embrace whatever Daubert standard anybody wants to apply retroactively."
+2012.11-864,1,15131,sonia_sotomayor,scotus_justice,1755.99,1759.025,So you are not disagreeing with your adversary on a legal standard.
+2012.11-864,1,17484,barry_barnett,,1781.041,1791.663,"--Justice Sotomayor, I agree with that proposition if such that there is a proper objection made such that the district court is put on notice that he or she needs to do the work."
+2012.11-864,1,15068,samuel_a_alito_jr,scotus_justice,1809.875,1815.612,In this case why doesn't the question of probative value subsume the Daubert question?
+2012.11-864,1,17484,barry_barnett,,1815.612,1817.395,"I don't think it does, Your Honor."
+2012.11-864,1,15068,samuel_a_alito_jr,scotus_justice,1839.977,1841.929,I think the problem is -- let me ask my question in a different way.
+2012.11-864,1,17484,barry_barnett,,1861.991,1864.51,"Well, it -- it certainly is not an admissibility question."
+2012.11-864,1,15049,antonin_scalia,scotus_justice,1880.435,1884.57,"You're -- you are saying it's inadmissible if it's inadequately probative, right?"
+2012.11-864,1,17484,barry_barnett,,1893.243,1897.73,--If -- if you are talking about at the hearing for the class certification--
+2012.11-864,1,15049,antonin_scalia,scotus_justice,1897.73,1898.547,"Well, whenever."
+2012.11-864,1,17484,barry_barnett,,1898.547,1899.48,--as opposed to a trial.
+2012.11-864,1,15049,antonin_scalia,scotus_justice,1899.48,1902.634,"I'm talking about what, what is the criterion for Daubert?"
+2012.11-864,1,17484,barry_barnett,,1902.634,1903.401,Daubert--
+2012.11-864,1,15049,antonin_scalia,scotus_justice,1903.401,1905.503,Is it adequately probative?
+2012.11-864,1,17484,barry_barnett,,1907.419,1911.621,--If it is unreliable then it is not admissible.
+2012.11-864,1,15049,antonin_scalia,scotus_justice,1911.621,1912.187,"Well, you want to say--"
+2012.11-864,1,17484,barry_barnett,,1912.187,1913.137,It is not adequately or inadequately--
+2012.11-864,1,15049,antonin_scalia,scotus_justice,1913.137,1915.256,"--You say unreliable, I say inadequately probative."
+2012.11-864,1,17484,barry_barnett,,1919.025,1921.143,"--It's -- okay, Your Honor."
+2012.11-864,1,15049,antonin_scalia,scotus_justice,1921.143,1922.345,There--
+2012.11-864,1,17484,barry_barnett,,1922.345,1929.348,"I am not going to quibble with you about that, but this case, Comcast, at the heart of this appeal it's Comcast--"
+2012.11-864,1,15094,elena_kagan,scotus_justice,1929.348,1934.652,"Mr. Barnett, it's always true, isn't it, that evidence that is inadequately probative is inadmissible?"
+2012.11-864,1,17484,barry_barnett,,1934.652,1936.085,--Is it always the case?
+2012.11-864,1,15094,elena_kagan,scotus_justice,1936.085,1938.687,"It's always been true, right, if evidence is not--"
+2012.11-864,1,17484,barry_barnett,,1938.687,1941.805,"If there is an objection, if there is an objection, there is a lot of authority--"
+2012.11-864,1,15094,elena_kagan,scotus_justice,1941.805,1942.339,--If that's the case.
+2012.11-864,1,17484,barry_barnett,,1955.713,1959.933,--I -- I am unaware of any time this Court has said it's okay not to object.
+2012.11-864,1,15086,john_g_roberts_jr,scotus_justice,1959.933,1968.539,"We are having an elaborate discussion, and you did in -- in the briefs about whether or not this was a claim that was waived below."
+2012.11-864,1,17484,barry_barnett,,1990.553,2002.927,"Your Honor, I agree that that's one of the options that Your Honor has, but of course it goes back with all the scuffs and scars and mess-ups that preceded it up until today."
+2012.11-864,1,15086,john_g_roberts_jr,scotus_justice,2002.927,2003.56,"Well, fine."
+2012.11-864,1,17484,barry_barnett,,2013.318,2014.851,"I agree, Mr. Chief Justice."
+2012.11-864,1,15139,stephen_g_breyer,scotus_justice,2014.851,2022.941,"The strongest argument I think for that point of view would be simply this, the Sniff Company makes widgets."
+2012.11-864,1,17484,barry_barnett,,2089.235,2091.251,I would love to talk about the model.
+2012.11-864,1,15139,stephen_g_breyer,scotus_justice,2091.251,2093.103,"--Could you talk about that a little bit, please?"
+2012.11-864,1,17484,barry_barnett,,2093.103,2093.687,"Yes, I--"
+2012.11-864,1,15139,stephen_g_breyer,scotus_justice,2093.687,2095.139,Did I get my analysis right?
+2012.11-864,1,17484,barry_barnett,,2095.139,2097.372,--I would love to talk about this model.
+2012.11-864,1,15139,stephen_g_breyer,scotus_justice,2097.939,2099.341,"No, no, that isn't what I want to really know."
+2012.11-864,1,17484,barry_barnett,,2129.46,2133.68,"--Yes, Your Honor, we do have to show that this is a fantastic model, which it is."
+2012.11-864,1,15139,stephen_g_breyer,scotus_justice,2133.68,2134.897,You don't have to show that much.
+2012.11-864,1,17484,barry_barnett,,2136.966,2137.549,All right.
+2012.11-864,1,15049,antonin_scalia,scotus_justice,2180.911,2189.249,"--You didn't say what -- there -- there were four possibilities that he took into account, right, as to what the anticompetitive conduct was?"
+2012.11-864,1,17484,barry_barnett,,2189.249,2190.367,"--And, Your Honor--"
+2012.11-864,1,15049,antonin_scalia,scotus_justice,2190.367,2195.236,"And as it turns out, only one of those was found to -- to be in the game."
+2012.11-864,1,17484,barry_barnett,,2195.236,2197.438,--I do want to make sure I -- I make the correction.
+2012.11-864,1,15049,antonin_scalia,scotus_justice,2230.159,2231.025,That was the basis for the claims.
+2012.11-864,1,17484,barry_barnett,,2231.025,2232.092,"--It was not, Your Honor."
+2012.11-864,1,15049,antonin_scalia,scotus_justice,2232.092,2233.027,It was not the basis?
+2012.11-864,1,17484,barry_barnett,,2240.598,2246.668,His -- his model was agnostic about what the anticompetitive conduct was.
+2012.11-864,1,15049,antonin_scalia,scotus_justice,2246.668,2257.976,"You can't be agnostic about what the anticompetitive conduct is, if you are going to do -- if you're going to do an analysis of what are the consequences of the -- of the anticompetitive conduct, you have to know the anticompetitive conduct you are talking about."
+2012.11-864,1,17484,barry_barnett,,2257.976,2261.444,"Again, I want to make sure I am being precise about this, Justice Scalia."
+2012.11-864,1,15139,stephen_g_breyer,scotus_justice,2288.095,2295.351,I guess in a monopolization case it is not the case that you have to trace the damages to the exclusionary conduct.
+2012.11-864,1,17484,barry_barnett,,2295.351,2295.967,Exactly.
+2012.11-864,1,15139,stephen_g_breyer,scotus_justice,2295.967,2304.54,"In the classical class of -- section 2 case, the damages are caused by the monopolization, which lacks skill, foresight and industry justification."
+2012.11-864,1,17484,barry_barnett,,2312.294,2313.663,"Exactly right, Justice Breyer."
+2012.11-864,1,15139,stephen_g_breyer,scotus_justice,2320.683,2322.752,But here is the difficulty that I am having.
+2012.11-864,1,17484,barry_barnett,,2326.554,2327.237,"--Yes, Your Honor."
+2012.11-864,1,15139,stephen_g_breyer,scotus_justice,2327.237,2331.857,"And because it's a regulated industry, the regulator in your view is doing one of the worst jobs in history."
+2012.11-864,1,17484,barry_barnett,,2359.342,2360.025,"Yes, Your Honor."
+2012.11-864,1,15139,stephen_g_breyer,scotus_justice,2360.025,2361.877,The districts that also have satellite.
+2012.11-864,1,17484,barry_barnett,,2361.877,2362.727,Indeed.
+2012.11-864,1,15139,stephen_g_breyer,scotus_justice,2362.727,2367.079,And that shouldn't be tough to do but I don't know if it's tough to do and I don't see how we're ever going to find out.
+2012.11-864,1,17484,barry_barnett,,2367.079,2368.547,The record says it can be done.
+2012.11-864,1,15139,stephen_g_breyer,scotus_justice,2369.38,2370.447,I don't know.
+2012.11-864,1,17484,barry_barnett,,2372.832,2376.803,--I would -- would cite you to -- let's see if I can find it.
+2012.11-864,1,15094,elena_kagan,scotus_justice,2438.877,2439.86,Mr. Barnett -- I'm sorry.
+2012.11-864,1,17484,barry_barnett,,2440.577,2442.662,"--No, Your Honor, I was about to change that subject."
+2012.11-864,1,15094,elena_kagan,scotus_justice,2442.662,2443.246,Okay.
+2012.11-864,1,17484,barry_barnett,,2528.0,2532.468,"I -- I do not, Your Honor, and I think Justice -- Judge Padova got it exactly right."
+2012.11-864,1,15068,samuel_a_alito_jr,scotus_justice,2550.163,2555.25,"Before you do that, let me ask a question related to what Justice Kagan just asked."
+2012.11-864,1,17484,barry_barnett,,2567.208,2582.067,"--If there is a proper objection, properly and timely presented, it's preserved up through the appellate courts and all the things that you need to do in order to be fair to the judge as well as make sure you get it -- give it as good a chance to be right as possible, the answer would be yes."
+2012.11-864,1,15068,samuel_a_alito_jr,scotus_justice,2583.919,2592.625,"Well, then the only remaining question is whether the issue was in the case as a factual -- as a matter of the record here; isn't that right?"
+2012.11-864,1,17484,barry_barnett,,2592.625,2595.977,"--Well, if the issue of admissibility is in the case, I don't think it is."
+2012.11-864,1,15068,samuel_a_alito_jr,scotus_justice,2620.609,2626.913,"Well, could this report be probative if it did not satisfy Daubert?"
+2012.11-864,1,17484,barry_barnett,,2626.913,2640.154,"The answer, Your Honor, and my source is Section 274 of Trial and Corpus Juris Secundum, well recognized in this Court, no doubt."
+2012.11-864,1,15113,anthony_m_kennedy,scotus_justice,2651.694,2655.996,That the court as the trier-of-fact chooses to.
+2012.11-864,1,17484,barry_barnett,,2664.069,2664.952,"No, Your Honor."
+2012.11-864,1,15113,anthony_m_kennedy,scotus_justice,2664.952,2676.144,"--It seems to me that, as I indicated before, that the whole question of weight and admissibility is somewhat less important when the trial judge is not the gatekeeper."
+2012.11-864,1,17484,barry_barnett,,2683.048,2689.968,"What's happening, Your Honor, is you have got to satisfy -- Rule 23(b)(3) says the judge has to make findings."
+2012.11-864,1,15113,anthony_m_kennedy,scotus_justice,2693.938,2696.138,"Well, he does what I said, but then he has 100 pages of findings."
+2012.11-864,1,17484,barry_barnett,,2696.138,2698.74,"Yes, Your Honor."
+2012.11-864,1,15113,anthony_m_kennedy,scotus_justice,2707.513,2710.881,"No, I think that's where we disagree."
+2012.11-864,1,17484,barry_barnett,,2716.769,2717.554,Absolutely.
+2012.11-864,1,15113,anthony_m_kennedy,scotus_justice,2718.321,2728.76,And that includes some factual inquiries as to the damages alleged and the cause of the injury and whether or not there is a common -- whether or not there's a commonality.
+2012.11-864,1,17484,barry_barnett,,2728.76,2736.932,"Justice Kennedy, the district judge asks: Prove to me -- to the plaintiff, that you can prove it at trial."
+2012.11-864,1,15113,anthony_m_kennedy,scotus_justice,2757.096,2760.898,"Well, that's not -- I'll think about it, but that's not my understanding."
+2012.11-864,1,17484,barry_barnett,,2774.557,2795.554,"--And the finding that the judge makes based on preponderance of the evidence, plaintiffs have shown to me that more likely than not, at trial, plaintiffs will be able to show on a class-wide basis, some evidence, enough to get a verdict that could be upheld, enough that satisfies to some evidence or whatever the test is at trial, that shows damages on a class-wide basis."
+2012.11-864,1,15131,sonia_sotomayor,scotus_justice,2880.041,2894.883,"Counsel, tell me -- you articulate for me what you think -- what the district court found when it accepted your expert's theory as adequate."
+2012.11-864,1,17484,barry_barnett,,2894.883,2895.45,What Judge--
+2012.11-864,1,15131,sonia_sotomayor,scotus_justice,2895.45,2898.252,What do you think that means legally?
+2012.11-864,1,17484,barry_barnett,,2898.252,2917.98,"--What Judge Padova found was that the McClave damages model is persuasive to him, sufficiently persuasive to him that it could be used at trial to prove damages on a class-wide basis."
+2012.11-864,1,15131,sonia_sotomayor,scotus_justice,2917.98,2921.368,And so what does sufficiently persuasive mean?
+2012.11-864,1,17484,barry_barnett,,2921.368,2924.32,That more likely than not--
+2012.11-864,1,15131,sonia_sotomayor,scotus_justice,2924.32,2926.27,"It sounds nice, but more likely than not--"
+2012.11-864,1,17484,barry_barnett,,2926.27,2935.359,"--More likely than not that it will be admissible at trial, and it will meet the standard that's required to get to a verdict."
+2012.11-864,1,15084,ruth_bader_ginsburg,scotus_justice,2963.092,2981.053,"Mr. Barnett, this is on a different issue, but you had originally suggested that you had -- that the motion -- that the settlement that's looming was a reason that this Court ought not to decide this case."
+2012.11-864,1,17484,barry_barnett,,2992.778,2999.032,"At this time, Your Honor, I think -- I think it has no bearing on what this Court does or does not do in this case."
+2012.11-864,1,15086,john_g_roberts_jr,scotus_justice,3004.003,3020.013,"Counsel, it -- it seems to me that your answer to Justice Sotomayor, which is whether it's more likely than not that this will be something that can be used at trial, one way to capture that is whether or not this evidence is usable, right?"
+2012.11-864,1,17484,barry_barnett,,3020.013,3022.38,I would not say that.
+2012.11-864,1,15086,john_g_roberts_jr,scotus_justice,3023.43,3027.034,"More likely than not whether it can be used at trial, that sounds like is it usable."
+2012.11-864,1,17484,barry_barnett,,3027.034,3029.651,"--Well, the reason I'm hesitating is because--"
+2012.11-864,1,15086,john_g_roberts_jr,scotus_justice,3029.651,3031.153,"Well, I know the reason you're hesitating."
+2012.11-864,1,17484,barry_barnett,,3031.153,3036.89,"--Well -- and also, it's because it's something you don't know."
+2012.11-864,1,15113,anthony_m_kennedy,scotus_justice,3047.263,3066.593,"Well, of course there matters for the trier of fact to determine at the merits stage, but under Daubert and under Rule 702 the judge has to say that the evidence is relevant to the task at hand, and it has a reliable foundation."
+2012.11-864,1,17484,barry_barnett,,3077.515,3080.836,"And Judge Padova could have done that, but he didn't do that."
+2012.11-864,1,15113,anthony_m_kennedy,scotus_justice,3106.101,3108.919,I'm -- I'm not sure what I just described is not Daubert.
+2012.11-864,1,17484,barry_barnett,,3108.919,3121.727,"--Your Honor, if you're in a trial court and somebody says Daubert or somebody says Rule 702 or somebody says I object to this expert's testimony, that has profound significance."
+2012.11-864,1,15131,sonia_sotomayor,scotus_justice,3140.475,3149.896,"--Counsel, the bottom line is, can a district court ever say that it's persuaded by unreliable or not probative evidence."
+2012.11-864,1,17484,barry_barnett,,3152.282,3153.632,I--
+2012.11-864,1,15131,sonia_sotomayor,scotus_justice,3153.632,3161.804,Does it commit legal error when it finds something that's unreliable and unpersuasive or unprobative?
+2012.11-864,1,17484,barry_barnett,,3161.804,3168.025,"--Well, Your Honor, I agree, and of course that's not the issue in the case, because Judge Padova was convinced it was reliable."
+2012.11-864,1,15131,sonia_sotomayor,scotus_justice,3169.977,3171.66,I -- I think that's a fair reading of what he said--
+2012.11-864,1,17484,barry_barnett,,3171.66,3172.346,Right.
+2012.11-864,1,15131,sonia_sotomayor,scotus_justice,3172.346,3174.846,--but if we're answering a legal question.
+2012.11-864,1,17484,barry_barnett,,3174.846,3181.035,We're talking about the -- the edges and all the -- where everything is done properly below.
+2012.11-864,1,15131,sonia_sotomayor,scotus_justice,3189.621,3200.579,The problem everyone's having is -- I think -- that why do you need Daubert to point out that something is not probative or unreliable?
+2012.11-864,1,17484,barry_barnett,,3208.935,3211.368,"Justice Sotomayor, let me just give you an example."
+2012.11-864,1,15049,antonin_scalia,scotus_justice,3256.516,3257.182,Mr.--
+2012.11-864,1,17484,barry_barnett,,3257.182,3269.723,"And the reason we got to that is because they finally did, on the eve of trial, file an actual Daubert motion, and that was our response, and they cited footnote 323 of their brief."
+2012.11-864,1,15049,antonin_scalia,scotus_justice,3269.723,3283.399,"--Mr. Barnett, suppose -- suppose we held that where -- where there's a bench trial, it doesn't make any difference what -- what -- whether the judge excludes the evidence under Daubert."
+2012.11-864,1,17484,barry_barnett,,3286.768,3289.22,"It depends on the time of day, Your Honor."
+2012.11-864,1,15049,antonin_scalia,scotus_justice,3289.22,3291.187,"Yes, I think you're right."
+2012.11-864,1,17484,barry_barnett,,3307.614,3308.214,I would--
+2012.11-864,1,15049,antonin_scalia,scotus_justice,3308.214,3309.8,"So the trial judge could say,"
+2012.11-864,1,17484,barry_barnett,,3317.204,3321.524,"--Justice Scalia, I would say what you're doing is what I suggest the Court ought to do."
+2012.11-864,1,15086,john_g_roberts_jr,scotus_justice,3342.438,3344.405,"Thank you, counsel."
+2012.11-864,2,35754,miguel_a_estrada,,3347.307,3351.21,"Thank you, Mr. Chief Justice."
+2012.11-864,2,15139,stephen_g_breyer,scotus_justice,3405.345,3405.795,Is that right?
+2012.11-864,2,35754,miguel_a_estrada,,3417.735,3418.419,"No, I think--"
+2012.11-864,2,15139,stephen_g_breyer,scotus_justice,3418.419,3419.687,--who bought those bananas?
+2012.11-864,2,35754,miguel_a_estrada,,3425.675,3426.475,--Story parchment.
+2012.11-864,2,15139,stephen_g_breyer,scotus_justice,3426.475,3427.658,"--Yes, all right."
+2012.11-864,2,35754,miguel_a_estrada,,3481.809,3482.511,"Well, no."
+2012.11-864,2,15086,john_g_roberts_jr,scotus_justice,3644.665,3647.034,"Thank you, counsel, the case is submitted."

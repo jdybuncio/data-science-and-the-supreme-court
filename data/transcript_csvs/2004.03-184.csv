@@ -1,0 +1,321 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2004.03-184,0,15060,john_paul_stevens,scotus_justice,0.0,7.142,The Court will now hear argument in Ballard against the Commissioner of Internal Revenue.
+2004.03-184,0,42002,stephen_m_shapiro,,7.802,10.569,"Thank you, Justice Stevens, and may it please the Court:"
+2004.03-184,0,15092,sandra_day_oconnor,scotus_justice,32.944,40.018,"Mr. Shapiro, can this case, in your view, be decided solely on the statutory question?"
+2004.03-184,0,42002,stephen_m_shapiro,,40.018,40.661,"Oh, yes, Your Honor."
+2004.03-184,0,15092,sandra_day_oconnor,scotus_justice,41.737,53.914,"There also are due process allegations, and I'm not sure I even quite understand what the precise due process violation is that's alleged."
+2004.03-184,0,42002,stephen_m_shapiro,,64.438,73.066,"The readiest ground for decision is the statutory basis, and we believe that the statute is a good means to avoid a complex due process question."
+2004.03-184,0,15092,sandra_day_oconnor,scotus_justice,101.551,109.232,"Well, would that include... if a Tax Court judge had a law clerk, would it include law clerk memos to the judge?"
+2004.03-184,0,42002,stephen_m_shapiro,,109.232,110.634,--We... we don't take that position.
+2004.03-184,0,15139,stephen_g_breyer,scotus_justice,124.38,125.661,"Now, why... why do you say that?"
+2004.03-184,0,42002,stephen_m_shapiro,,125.661,125.866,--and the only judge--
+2004.03-184,0,15139,stephen_g_breyer,scotus_justice,125.866,127.518,Would you elaborate for this reason?
+2004.03-184,0,42002,stephen_m_shapiro,,133.834,134.389,--Yes.
+2004.03-184,0,15139,stephen_g_breyer,scotus_justice,134.389,136.99,"Well, to me that's the whole conclusion of the case."
+2004.03-184,0,42002,stephen_m_shapiro,,174.529,177.689,There is only one rule 183 report.
+2004.03-184,0,15139,stephen_g_breyer,scotus_justice,187.599,188.092,How do we know that?
+2004.03-184,0,42002,stephen_m_shapiro,,206.09,210.011,Under rule 183(b) there is a report denominated as such.
+2004.03-184,0,15139,stephen_g_breyer,scotus_justice,230.156,231.271,Which--
+2004.03-184,0,42002,stephen_m_shapiro,,231.271,232.385,I'm sorry.
+2004.03-184,0,15139,stephen_g_breyer,scotus_justice,232.385,233.461,--Which... which brief--
+2004.03-184,0,42002,stephen_m_shapiro,,233.461,233.871,Oh.
+2004.03-184,0,15084,ruth_bader_ginsburg,scotus_justice,236.722,237.631,At least--
+2004.03-184,0,15049,antonin_scalia,scotus_justice,237.631,238.474,What... what page did you say?
+2004.03-184,0,15139,stephen_g_breyer,scotus_justice,238.474,239.283,--What... what page?
+2004.03-184,0,42002,stephen_m_shapiro,,239.283,241.612,"114a, 114a."
+2004.03-184,0,15084,ruth_bader_ginsburg,scotus_justice,242.15,247.928,"--Mr. Shapiro, why don't you simply read the text of 183(b)--"
+2004.03-184,0,42002,stephen_m_shapiro,,247.928,248.921,--Yes.
+2004.03-184,0,15084,ruth_bader_ginsburg,scotus_justice,248.921,251.15,--which is in the Government's brief at 4a?
+2004.03-184,0,42002,stephen_m_shapiro,,258.702,260.188,"That's correct, Your Honor."
+2004.03-184,0,15042,david_h_souter,scotus_justice,260.726,261.923,And... and if in fact--
+2004.03-184,0,42002,stephen_m_shapiro,,261.923,262.462,--it is presumed correct.
+2004.03-184,0,15042,david_h_souter,scotus_justice,262.462,267.663,"--you rely on the rule, do we even have to resolve the issue of meaning of report in the statute?"
+2004.03-184,0,42002,stephen_m_shapiro,,273.236,273.691,Absolutely.
+2004.03-184,0,15042,david_h_souter,scotus_justice,285.004,285.997,So you've really got three arguments.
+2004.03-184,0,42002,stephen_m_shapiro,,288.598,301.851,"--And it doesn't make the slightest difference that the superior judge caused the subordinate judge to say, I have changed my mind at a later stage in the proceeding, because it is the original report that is presumed correct under the rules."
+2004.03-184,0,15139,stephen_g_breyer,scotus_justice,301.851,302.101,All right.
+2004.03-184,0,15084,ruth_bader_ginsburg,scotus_justice,311.722,312.769,"No, not the Government's brief."
+2004.03-184,0,42002,stephen_m_shapiro,,314.255,316.007,That's... that's appendix 4a.
+2004.03-184,0,15084,ruth_bader_ginsburg,scotus_justice,316.007,316.463,4a of the Government's brief.
+2004.03-184,0,15049,antonin_scalia,scotus_justice,316.463,316.918,It's the rule.
+2004.03-184,0,42002,stephen_m_shapiro,,316.918,319.064,"Yes, it's the rule itself, 183(b)."
+2004.03-184,0,15113,anthony_m_kennedy,scotus_justice,326.494,339.952,"Can you make the argument that... maybe you can't... that the special trial judge can go to the Tax Court judge, with the permission of the chief judge, and say, now, here's what... kind of what I'm thinking?"
+2004.03-184,0,42002,stephen_m_shapiro,,352.583,355.888,The first... there is only one--
+2004.03-184,0,15113,anthony_m_kennedy,scotus_justice,355.888,361.749,"Well, I guess another way of saying it is, do the rules permit any consultation before the report is submitted?"
+2004.03-184,0,42002,stephen_m_shapiro,,362.947,368.641,"--The rules are silent on that, but Judge Dawson has no involvement in the case until the report is submitted."
+2004.03-184,0,15084,ruth_bader_ginsburg,scotus_justice,394.238,419.623,"Would... would that problem be overcome if the special trial judge simply... if his... the proceedings before him were simply videotaped and then the reviewing judge, Judge Dawson in this case, could look at the trial proceedings and would have as much of a notion of the credibility of the witnesses as the special tax judge?"
+2004.03-184,0,42002,stephen_m_shapiro,,419.623,435.309,"--I suppose that's a possibility, but in Anderson, the Court said absent some procedure like that, the trial judge is uniquely situated to evaluate demeanor and tone of voice, and because of that, great deference has to be given to the independent evaluation of the trial judge."
+2004.03-184,0,15049,antonin_scalia,scotus_justice,441.519,444.187,"In which case, they... they might well revise the language of their rule."
+2004.03-184,0,42002,stephen_m_shapiro,,444.187,445.673,"Yes, they... they might, and--"
+2004.03-184,0,15049,antonin_scalia,scotus_justice,445.673,451.989,Which currently requires that the finding of facts of the trial judge be presumed to be correct.
+2004.03-184,0,42002,stephen_m_shapiro,,451.989,471.391,"--That's correct, and after all, we should remember that the Government was supposed to present clear and convincing evidence of fraud in this case, and if there was a flip-flop of this sort going on behind the scenes, leaving no trace in the record, what could be more important to the reviewing court than to know what had occurred at the first stage and the second stage here?"
+2004.03-184,0,15113,anthony_m_kennedy,scotus_justice,492.567,495.047,"Let... let me ask this question, if I may."
+2004.03-184,0,42002,stephen_m_shapiro,,523.115,526.747,"Well, we haven't challenged the conversations as such."
+2004.03-184,0,15113,anthony_m_kennedy,scotus_justice,545.118,546.232,I'm asking if it's a violation of... of the rule.
+2004.03-184,0,42002,stephen_m_shapiro,,546.232,547.058,The--
+2004.03-184,0,15113,anthony_m_kennedy,scotus_justice,547.058,551.311,Because the... the rule says a special report shall be presumed to be correct.
+2004.03-184,0,42002,stephen_m_shapiro,,551.311,551.682,--Yes.
+2004.03-184,0,15113,anthony_m_kennedy,scotus_justice,551.682,562.169,"And if there's this initial review, he says, you know, I think it's really pretty incomplete until you do X, Y, Z, please do it over again, is that a violation of the rule?"
+2004.03-184,0,42002,stephen_m_shapiro,,562.169,569.228,"Well, I think the rule is silent on that, but the spirit of the rule, frankly, is that the STJ does his job."
+2004.03-184,0,15049,antonin_scalia,scotus_justice,631.93,646.337,"Of course, what you're asking us to do would... would just solve your problem in this case, and... and in the future, I suppose they could revise rule 183 as simply not to require a report."
+2004.03-184,0,42002,stephen_m_shapiro,,650.219,650.795,"Well, that's true."
+2004.03-184,0,15049,antonin_scalia,scotus_justice,653.024,661.364,"Well, they could... they could use them, but just say, instead of filing a report, he'll consult with the... with the deciding judge."
+2004.03-184,0,42002,stephen_m_shapiro,,661.364,663.221,--I... I suppose that could happen.
+2004.03-184,0,15049,antonin_scalia,scotus_justice,681.1,681.843,"Well, they confer with each other."
+2004.03-184,0,42002,stephen_m_shapiro,,683.701,689.728,--But it... it would be... it would be quite strange to have credibility determinations made by a judge who had never heard from any of the witnesses.
+2004.03-184,0,15139,stephen_g_breyer,scotus_justice,689.728,702.648,"--What happens in cases in agencies, you know, where... where... suppose the agency itself or a member thereof is going to make a decision, and there might be other members who would hear the witnesses."
+2004.03-184,0,42002,stephen_m_shapiro,,711.359,711.981,"Oh, yes."
+2004.03-184,0,15139,stephen_g_breyer,scotus_justice,711.981,715.157,"It's hard to find precisely the analogy, but it seems likely."
+2004.03-184,0,42002,stephen_m_shapiro,,715.157,719.327,The... the closest analogy in this Court's decisions is the Morgan II decision.
+2004.03-184,0,15139,stephen_g_breyer,scotus_justice,719.327,721.185,"Yes, which gives and takes away."
+2004.03-184,0,42002,stephen_m_shapiro,,721.185,732.952,"Now, Morgan II is really on point because there, a subordinate official drafted up findings, proposed findings, didn't serve them on the parties, but did give them to the decision-maker, the agency."
+2004.03-184,0,15139,stephen_g_breyer,scotus_justice,735.857,741.984,You have to have an opportunity to refute the information that's going to--
+2004.03-184,0,42002,stephen_m_shapiro,,741.984,742.356,Absolutely.
+2004.03-184,0,15139,stephen_g_breyer,scotus_justice,742.356,742.606,--Yes.
+2004.03-184,0,42002,stephen_m_shapiro,,742.606,751.977,And... and every administrative body that we know of in the Federal courts and in the State too... Chief Judge Vanderbilt pointed that out in the Mazza case.
+2004.03-184,0,15139,stephen_g_breyer,scotus_justice,758.21,762.751,If you analogize the STJ to the administrative ALJ.
+2004.03-184,0,42002,stephen_m_shapiro,,776.786,777.529,Yes.
+2004.03-184,0,15092,sandra_day_oconnor,scotus_justice,813.195,826.077,"Mr. Shapiro, is there any evidence in this record that the special trial judge in fact changed his report beyond the hearsay affidavit?"
+2004.03-184,0,42002,stephen_m_shapiro,,826.077,829.913,We don't know what is contained in that first report.
+2004.03-184,0,15084,ruth_bader_ginsburg,scotus_justice,844.197,854.312,"Mr. Shapiro, on credibility, which you have been emphasizing, are you overstating the case for it?"
+2004.03-184,0,42002,stephen_m_shapiro,,877.429,885.436,"Well, you'll see in perhaps a dozen situations, he says, I simply don't believe that witness, none of whom he heard."
+2004.03-184,0,15113,anthony_m_kennedy,scotus_justice,936.667,937.371,Would... would you comment on that?
+2004.03-184,0,42002,stephen_m_shapiro,,945.916,946.659,"--Oh, yes."
+2004.03-184,0,15049,antonin_scalia,scotus_justice,968.956,969.161,"Well, now, wait."
+2004.03-184,0,42002,stephen_m_shapiro,,996.16,997.729,"--Well, we defer to--"
+2004.03-184,0,15049,antonin_scalia,scotus_justice,997.729,999.504,Isn't that part of your due process case?
+2004.03-184,0,42002,stephen_m_shapiro,,999.504,1000.58,--It... it really is not.
+2004.03-184,0,15049,antonin_scalia,scotus_justice,1001.202,1003.681,"You think it satisfies due process just to show you the report, and then--"
+2004.03-184,0,42002,stephen_m_shapiro,,1003.681,1005.372,--To give... and make it part of the appellate record.
+2004.03-184,0,15049,antonin_scalia,scotus_justice,1009.133,1010.823,"--Well, then... then you're not relying on Morgan II."
+2004.03-184,0,42002,stephen_m_shapiro,,1010.823,1017.799,"--Well, we... we just rely on that as an example of the need to disclose this at an appropriate juncture."
+2004.03-184,0,15049,antonin_scalia,scotus_justice,1017.799,1021.886,There wasn't a need to disclose the point that Morgan II made.
+2004.03-184,0,42002,stephen_m_shapiro,,1023.372,1031.135,"Well, in Morgan II, the... the point was that any... any proposed findings that are drafted up have to be shared with the parties."
+2004.03-184,0,15084,ruth_bader_ginsburg,scotus_justice,1060.152,1080.176,"Do... do I understand that you would be satisfied if the Court simply looked to... what is it... 7482(a)(1), the appellate review section, which says that the Tax Court decisions shall be reviewed in the same manner and to the same extent as district court decisions?"
+2004.03-184,0,42002,stephen_m_shapiro,,1080.176,1080.714,Yes.
+2004.03-184,0,15084,ruth_bader_ginsburg,scotus_justice,1110.435,1110.973,--And where is it?
+2004.03-184,0,42002,stephen_m_shapiro,,1126.289,1126.782,"--Oh, yes."
+2004.03-184,0,15049,antonin_scalia,scotus_justice,1149.672,1150.787,Institutional memory.
+2004.03-184,0,42002,stephen_m_shapiro,,1153.182,1153.388,--It goes back.
+2004.03-184,0,15049,antonin_scalia,scotus_justice,1189.962,1192.191,"--Of course, that... that was decided under the APA, wasn't it?"
+2004.03-184,0,42002,stephen_m_shapiro,,1194.626,1196.112,"--Well, yes, that's true."
+2004.03-184,0,15084,ruth_bader_ginsburg,scotus_justice,1277.89,1305.094,"--Would the... the Tax Court rule... now, this 183(c)... says... it describes the special trial judge's report, which is submitted to the chief judge, and then the chief judge assigns a Tax Court judge, and then it says that... that the Tax Court judge may modify it, modify the special trial judge's report, or may reject it in whole or in part."
+2004.03-184,0,42002,stephen_m_shapiro,,1314.01,1323.132,"Oh, yes, and... and the remarkable thing is that every time it does that, it recites, we hereby adopt the findings and opinions of the trial judge."
+2004.03-184,0,15084,ruth_bader_ginsburg,scotus_justice,1325.694,1326.287,But that's one thing that they can do.
+2004.03-184,0,42002,stephen_m_shapiro,,1339.357,1339.745,"Oh, no."
+2004.03-184,0,15049,antonin_scalia,scotus_justice,1344.475,1346.211,They... they never say so in their opinion.
+2004.03-184,0,42002,stephen_m_shapiro,,1346.211,1346.887,--They don't--
+2004.03-184,0,15049,antonin_scalia,scotus_justice,1346.887,1349.488,They always say that they adopt the trial judge's report.
+2004.03-184,0,42002,stephen_m_shapiro,,1349.86,1350.01,--Yes.
+2004.03-184,0,15139,stephen_g_breyer,scotus_justice,1371.724,1377.874,"What... what is... can I ask you a really esoteric administrative law question, which I have never been able to figure out?"
+2004.03-184,0,42002,stephen_m_shapiro,,1463.157,1464.543,"Well, I... I haven't either."
+2004.03-184,0,15139,stephen_g_breyer,scotus_justice,1467.228,1469.373,He was a subordinate employee?
+2004.03-184,0,42002,stephen_m_shapiro,,1469.373,1470.116,"--Yes, he was."
+2004.03-184,0,15139,stephen_g_breyer,scotus_justice,1470.116,1474.574,"Rather than a member... is... is... if he's a subordinate employee, that's easy."
+2004.03-184,0,42002,stephen_m_shapiro,,1476.06,1482.376,"He... he is a subordinate because as the Government keeps telling us, the Tax Court judge is the only official spokesman for the court."
+2004.03-184,0,15084,ruth_bader_ginsburg,scotus_justice,1488.652,1488.858,These... these--
+2004.03-184,0,15049,antonin_scalia,scotus_justice,1488.858,1490.716,But you're... you're not asserting that the APA governs this.
+2004.03-184,0,42002,stephen_m_shapiro,,1490.716,1490.899,Oh--
+2004.03-184,0,15139,stephen_g_breyer,scotus_justice,1490.899,1490.982,No.
+2004.03-184,0,15049,antonin_scalia,scotus_justice,1491.354,1493.461,Isn't there an express exception for... for--
+2004.03-184,0,42002,stephen_m_shapiro,,1493.461,1494.88,"--Yes, and this a court."
+2004.03-184,0,15084,ruth_bader_ginsburg,scotus_justice,1503.697,1510.467,"--The... the special trial judge has no tenure, does she?"
+2004.03-184,0,42002,stephen_m_shapiro,,1510.467,1512.242,That's correct.
+2004.03-184,0,15060,john_paul_stevens,scotus_justice,1548.074,1548.983,"Yes, you may, of course."
+2004.03-184,1,42821,thomas_g_hungar,,1549.81,1558.355,"Justice Stevens, and may it please the Court:"
+2004.03-184,1,15084,ruth_bader_ginsburg,scotus_justice,1572.101,1587.705,"Mr. Hungar, before you proceed to your legal argument, I was very curious why the Government is defending this practice because the Government, after all, is on the other side of every case."
+2004.03-184,1,42821,thomas_g_hungar,,1630.43,1634.516,"Justice Ginsburg, we do know what the report of the special trial judge was."
+2004.03-184,1,15084,ruth_bader_ginsburg,scotus_justice,1640.794,1642.28,"No, it is not the report."
+2004.03-184,1,42821,thomas_g_hungar,,1666.733,1678.479,"The report is the... contains the recommended findings of fact and opinion, analysis of the law and application of the law to the fact, of the special trial judge."
+2004.03-184,1,15084,ruth_bader_ginsburg,scotus_justice,1681.617,1683.846,"Now, what is the 183(b) report?"
+2004.03-184,1,42821,thomas_g_hungar,,1683.846,1685.044,Well--
+2004.03-184,1,15084,ruth_bader_ginsburg,scotus_justice,1685.044,1686.158,There--
+2004.03-184,1,42821,thomas_g_hungar,,1686.158,1691.338,"--The... under rule 183(b), the... the special trial judge submits his report to the chief judge."
+2004.03-184,1,15084,ruth_bader_ginsburg,scotus_justice,1693.567,1702.483,"--So that report, the special trial judge's report, is a document prepared by the special trial judge which he gives to the chief judge."
+2004.03-184,1,42821,thomas_g_hungar,,1702.483,1703.392,Correct.
+2004.03-184,1,15042,david_h_souter,scotus_justice,1723.704,1724.547,But that's not the way the rule reads.
+2004.03-184,1,42821,thomas_g_hungar,,1738.293,1739.845,"It doesn't preclude it either, Your Honor."
+2004.03-184,1,15049,antonin_scalia,scotus_justice,1741.414,1755.449,"Yes, it does because it... it goes on to say that due regard shall be given to the circumstance that the special trial judge had the opportunity to evaluate and the findings of fact recommended by the special trial judge shall be presumed to be correct."
+2004.03-184,1,42821,thomas_g_hungar,,1765.191,1781.455,"--The Tax Court judge cannot report in... in the opinion that is issued by the Tax Court, he cannot say I'm adopting the opinion and findings of the special trial judge if the... if the Tax Court judge does not agree with those and the... and the special trial judge adheres to his original decision."
+2004.03-184,1,15049,antonin_scalia,scotus_justice,1790.743,1792.684,What report goes to the chief judge?
+2004.03-184,1,42821,thomas_g_hungar,,1792.684,1795.573,Originally the original report goes to the chief judge.
+2004.03-184,1,15049,antonin_scalia,scotus_justice,1795.573,1796.649,That's a report.
+2004.03-184,1,42821,thomas_g_hungar,,1797.68,1798.961,"It is a report, Your Honor."
+2004.03-184,1,15049,antonin_scalia,scotus_justice,1798.961,1801.274,Why doesn't that... why isn't that required to be... to be made public?
+2004.03-184,1,42821,thomas_g_hungar,,1801.274,1807.59,"Because if... because the... because the Tax Court has determined that it will not be made public, that it is part of internal deliberation."
+2004.03-184,1,15049,antonin_scalia,scotus_justice,1807.59,1807.84,It's a report.
+2004.03-184,1,42821,thomas_g_hungar,,1809.613,1810.439,"No, Your Honor."
+2004.03-184,1,15049,antonin_scalia,scotus_justice,1810.439,1810.911,That is a report.
+2004.03-184,1,42821,thomas_g_hungar,,1810.911,1811.366,"No, Your Honor."
+2004.03-184,1,15049,antonin_scalia,scotus_justice,1811.366,1811.654,And it goes to the--
+2004.03-184,1,42821,thomas_g_hungar,,1812.332,1818.731,"With respect, the tax... the... the statute says a report of the Tax Court must be made public."
+2004.03-184,1,15113,anthony_m_kennedy,scotus_justice,1820.467,1826.699,"Well, but the rule... the rule says that the first report, the document 1, has to be given deference."
+2004.03-184,1,42821,thomas_g_hungar,,1828.39,1832.272,"--Well, Justice Kennedy, if I may, I'd like first to finish my response to Justice Scalia."
+2004.03-184,1,15113,anthony_m_kennedy,scotus_justice,1832.272,1832.372,Sure.
+2004.03-184,1,42821,thomas_g_hungar,,1832.372,1837.268,The statutes... the... the disclosure requirement applies only to reports of the Tax Court.
+2004.03-184,1,15092,sandra_day_oconnor,scotus_justice,1852.007,1863.896,"Well, it's... it's very hard to understand how appellate review can function if that first report of the special trial judge is never disclosed."
+2004.03-184,1,15113,anthony_m_kennedy,scotus_justice,1868.354,1872.441,And how do we know that it was... that it was presumed to be correct under the rule?
+2004.03-184,1,15092,sandra_day_oconnor,scotus_justice,1872.441,1872.607,Yes.
+2004.03-184,1,42821,thomas_g_hungar,,1895.353,1906.953,"--We submit, Your Honor, that there is no evidentiary or probative value in an initial conclusion that the... that the person who reached that conclusion has abandoned, has concluded was wrong."
+2004.03-184,1,15092,sandra_day_oconnor,scotus_justice,1907.946,1908.084,"Well, the rule--"
+2004.03-184,1,42821,thomas_g_hungar,,1908.084,1909.16,--Couvillion rejected--
+2004.03-184,1,15092,sandra_day_oconnor,scotus_justice,1909.16,1918.076,--the rule... the rule 183 does provide for a certain degree of deference to be given to those findings of the special trial judge.
+2004.03-184,1,42821,thomas_g_hungar,,1918.076,1920.927,--To the recommended findings of the special trial judge.
+2004.03-184,1,15084,ruth_bader_ginsburg,scotus_justice,1940.124,1940.95,"Mr. Hungar, do you--"
+2004.03-184,1,42821,thomas_g_hungar,,1940.95,1942.065,--abandoned findings.
+2004.03-184,1,15084,ruth_bader_ginsburg,scotus_justice,1942.065,1950.032,"--Do you see somewhat of a problem, that we are not dealing here with the relationship between peers?"
+2004.03-184,1,42821,thomas_g_hungar,,1976.493,1981.24,"Justice Ginsburg, Judge Dawson actually is a senior judge who was recalled."
+2004.03-184,1,15084,ruth_bader_ginsburg,scotus_justice,1997.67,2010.839,"He has had a special... a... a long term and he is well-known and respected as a Tax Court judge who was appointed, as all other members of the court were appointed."
+2004.03-184,1,42821,thomas_g_hungar,,2010.839,2014.017,"--Well, Judge Couvillion has been a special trial judge, I think, for nearly 20 years."
+2004.03-184,1,15084,ruth_bader_ginsburg,scotus_justice,2026.526,2027.436,It seems to me--
+2004.03-184,1,42821,thomas_g_hungar,,2027.436,2028.734,--obligates independent decision-making.
+2004.03-184,1,15084,ruth_bader_ginsburg,scotus_justice,2028.734,2037.717,"--It seems to me that it's very much like, if you have to compare it with something, the relationship between a magistrate and a Federal district court judge."
+2004.03-184,1,42821,thomas_g_hungar,,2050.06,2056.126,"Well, one difference is that the district court judges, as I understand it, appoint the magistrate, not the chief judge."
+2004.03-184,1,15139,stephen_g_breyer,scotus_justice,2081.472,2081.927,So where does it say that?
+2004.03-184,1,15060,john_paul_stevens,scotus_justice,2082.737,2088.531,They're not requiring the... this case doesn't involve the question of whether they can make objections to the finding in... in the special report.
+2004.03-184,1,42821,thomas_g_hungar,,2089.728,2091.01,"--Yes, Your Honor."
+2004.03-184,1,15060,john_paul_stevens,scotus_justice,2094.315,2094.891,"No, I understand."
+2004.03-184,1,42821,thomas_g_hungar,,2100.835,2109.174,"Well, it certainly would be more cumbersome if they followed the procedure that they used to follow, which we submit, although the record is... they did not specifically state--"
+2004.03-184,1,15060,john_paul_stevens,scotus_justice,2109.174,2109.933,But they're not asking for that.
+2004.03-184,1,42821,thomas_g_hungar,,2111.685,2112.223,"--Yes, that's true, Your Honor."
+2004.03-184,1,15060,john_paul_stevens,scotus_justice,2117.219,2120.729,--And it's a particularly strong argument in a case... in several of the issues.
+2004.03-184,1,42821,thomas_g_hungar,,2143.968,2147.562,But the person who heard the witnesses is Special Trial Judge Couvillion.
+2004.03-184,1,15060,john_paul_stevens,scotus_justice,2147.562,2148.509,Has been convinced that he was wrong.
+2004.03-184,1,42821,thomas_g_hungar,,2148.509,2148.981,Yes.
+2004.03-184,1,15060,john_paul_stevens,scotus_justice,2148.981,2157.526,"And the question is, well, what was his... what was the basis for his original position when you're evaluating whether you've got a valid argument to make on appeal?"
+2004.03-184,1,42821,thomas_g_hungar,,2157.526,2163.803,"Under that rationale, Justice Stevens, every time a district court judge changes his mind, after giving further thought to a case--"
+2004.03-184,1,15060,john_paul_stevens,scotus_justice,2163.803,2163.992,"No, no, no."
+2004.03-184,1,42821,thomas_g_hungar,,2163.992,2165.19,--before he issues his final opinion--
+2004.03-184,1,15060,john_paul_stevens,scotus_justice,2165.19,2170.206,Only if he is required by a rule to make certain findings and to deliver a completed report to someone else.
+2004.03-184,1,42821,thomas_g_hungar,,2170.206,2173.716,"--Well, again, the... the rule does not preclude the practice."
+2004.03-184,1,15060,john_paul_stevens,scotus_justice,2174.997,2175.452,It doesn't forbid it.
+2004.03-184,1,42821,thomas_g_hungar,,2187.795,2188.538,"--Absolutely, Your Honor."
+2004.03-184,1,15042,david_h_souter,scotus_justice,2203.027,2210.086,No. But I don't see what is consistent with your notion of a deliberative process as producing the report and the presumption of correctness in the rule.
+2004.03-184,1,42821,thomas_g_hungar,,2225.03,2232.255,"If I may, Your Honor, the rule does not state that the, quote, original report shall receive a presumption of correctness."
+2004.03-184,1,15042,david_h_souter,scotus_justice,2238.904,2246.706,And aren't those findings of fact the findings of fact that are delivered to the chief judge in the report that is made to the chief judge before it is even assigned to a Tax Court judge?
+2004.03-184,1,42821,thomas_g_hungar,,2246.706,2253.931,"Not if... not if the tax... if the special trial judge has abandoned those recommendations, withdrawn those recommendations, and replaced them."
+2004.03-184,1,15042,david_h_souter,scotus_justice,2253.931,2265.548,"But he hasn't abandoned them at the point that he delivers them to the chief judge, and if that's what this is referring to, then the presumption of the... of... of correctness necessarily has to apply to whatever the document is that's delivered to the chief judge."
+2004.03-184,1,42821,thomas_g_hungar,,2265.548,2277.504,"Well, it applies to the report, but I submit that if the special trial judge withdraws in order to correct an error in the report, what he submits as the corrected report is then the, quote, report."
+2004.03-184,1,15113,anthony_m_kennedy,scotus_justice,2277.504,2277.876,You're... you're--
+2004.03-184,1,15084,ruth_bader_ginsburg,scotus_justice,2277.876,2280.476,"Why isn't that explained in the rules, if that's the process?"
+2004.03-184,1,15113,anthony_m_kennedy,scotus_justice,2280.476,2283.82,--have a condition subsequent.
+2004.03-184,1,42821,thomas_g_hungar,,2291.872,2297.899,The... the credibility... the due regard and presumption of--
+2004.03-184,1,15042,david_h_souter,scotus_justice,2297.899,2298.76,The presumption.
+2004.03-184,1,42821,thomas_g_hungar,,2298.76,2302.93,"--Well, it's important to understand also that, in fact, it would violate the Internal Revenue Code."
+2004.03-184,1,15042,david_h_souter,scotus_justice,2330.512,2333.5,So you're saying the rule itself in that respect is invalid?
+2004.03-184,1,42821,thomas_g_hungar,,2333.5,2335.895,"If construed as petitioners would have it, yes."
+2004.03-184,1,15042,david_h_souter,scotus_justice,2335.895,2337.298,"Well, how else could you possibly construe it?"
+2004.03-184,1,42821,thomas_g_hungar,,2340.575,2350.856,"In the tax context, Your Honor, the... there is a presumption of correctness that attaches to assessments and deficiency notices issued by--"
+2004.03-184,1,15042,david_h_souter,scotus_justice,2350.856,2368.772,"No, but you're saying there is... there is no presumption of correctness that can operate with respect to the report that goes first to the chief judge because, I understood you to say, to do that would violate the Internal Revenue Code provision that the fact-finder and the only fact-finder is the Tax Court judge."
+2004.03-184,1,42821,thomas_g_hungar,,2373.64,2380.411,"--Your Honor, presumption of correctness does not necessarily equate with clear error, deferential review."
+2004.03-184,1,15042,david_h_souter,scotus_justice,2380.949,2384.126,I'm... I'm not even getting to whatever the standard of review may be.
+2004.03-184,1,42821,thomas_g_hungar,,2396.143,2407.948,"What the presumption of correctness means in the tax context, with respect to deficiency determinations and the like, is that the burden of going forward is on the party seeking to change what... what... the determination that is presumed correct."
+2004.03-184,1,15042,david_h_souter,scotus_justice,2407.948,2412.695,But there's no party who is seeking to change at this point because the parties don't know what's in it.
+2004.03-184,1,42821,thomas_g_hungar,,2420.291,2420.913,"No, Your Honor."
+2004.03-184,1,15049,antonin_scalia,scotus_justice,2451.255,2463.802,"In... in that discussion, does the Tax Court judge have to give great weight to the findings of fact of the... of the special judge?"
+2004.03-184,1,42821,thomas_g_hungar,,2463.802,2467.229,"--No, Your Honor, not great weight because, again, that would violate the statute."
+2004.03-184,1,15042,david_h_souter,scotus_justice,2467.229,2467.601,Any weight?
+2004.03-184,1,42821,thomas_g_hungar,,2467.601,2473.917,"He is to give due... the due regard provision we think is essentially precatory, as the... as the Seventh Circuit said."
+2004.03-184,1,15042,david_h_souter,scotus_justice,2480.583,2483.184,So I... I think your... I think your answer then is not that this is invalid.
+2004.03-184,1,42821,thomas_g_hungar,,2488.84,2491.691,It's certainly not enforceable in an appellate court.
+2004.03-184,1,15042,david_h_souter,scotus_justice,2492.146,2493.361,Judicially it cannot be enforced.
+2004.03-184,1,42821,thomas_g_hungar,,2493.361,2496.483,"That's correct, because otherwise it would violate the statute if it imposed some meaningful limitation."
+2004.03-184,1,15084,ruth_bader_ginsburg,scotus_justice,2506.347,2507.257,Do they... do they ever?
+2004.03-184,1,42821,thomas_g_hungar,,2544.242,2545.523,--We cite--
+2004.03-184,1,15084,ruth_bader_ginsburg,scotus_justice,2545.523,2547.38,Do Tax Court opinions come out that way?
+2004.03-184,1,42821,thomas_g_hungar,,2547.38,2553.713,--We cite in footnote 4 a small number of cases from prior to the last rule change in which that occurred.
+2004.03-184,1,15084,ruth_bader_ginsburg,scotus_justice,2583.5,2598.256,"Because if one were just to rule this... read this rule straight: first, the report that goes to the chief judge, and then it says that the Tax Court judge may modify it, reject it in whole... adopt, modify, or reject in whole or in part."
+2004.03-184,1,42821,thomas_g_hungar,,2630.6,2640.26,"--Well, again, that assumes that the... that the... the rule compels the interpretation that the special trial judge is prohibited from withdrawing, correcting, and resubmitting his report."
+2004.03-184,1,15084,ruth_bader_ginsburg,scotus_justice,2642.861,2647.569,--The rule... the rule doesn't say anything about this consultation that you've described.
+2004.03-184,1,42821,thomas_g_hungar,,2664.203,2669.404,"--Well, I don't think it... I mean, I don't think it's... it's deceitful, the... the possibility that a court--"
+2004.03-184,1,15084,ruth_bader_ginsburg,scotus_justice,2669.404,2670.313,Misleading.
+2004.03-184,1,42821,thomas_g_hungar,,2687.237,2696.115,"--Your Honor, when the Tax Court adopted its present procedures in 1984, it... it certainly did not do so in as artful a manner as it could have."
+2004.03-184,1,15060,john_paul_stevens,scotus_justice,2743.714,2749.369,"I don't think there's any... any question they can change the report, but the one... the one... I'd like to ask you a question as a matter of information."
+2004.03-184,1,42821,thomas_g_hungar,,2774.444,2775.542,"--I don't know the answer to that, Your Honor."
+2004.03-184,1,15060,john_paul_stevens,scotus_justice,2776.657,2783.798,"Because if he did, it would seem almost necessary for him to disclose to the parties what the report they're arguing about would say."
+2004.03-184,1,42821,thomas_g_hungar,,2783.798,2796.43,"--Again, I... this is a holdover from the prior version of the rule in which the exceptions process was followed, and again, it may be that had the Tax Court given it further consideration, they might have viewed that unnecessary."
+2004.03-184,1,15060,john_paul_stevens,scotus_justice,2798.454,2811.252,But it certainly seems to contemplate deliberation by the judge to whom the case is assigned about whether or not to accept the report and deliberation which might be informed from input... input from the parties.
+2004.03-184,1,42821,thomas_g_hungar,,2813.936,2814.102,If--
+2004.03-184,1,15060,john_paul_stevens,scotus_justice,2814.102,2815.067,Maybe it's not practiced.
+2004.03-184,1,42821,thomas_g_hungar,,2815.067,2818.273,"--if the Tax Court judge so determines, yes."
+2004.03-184,1,15060,john_paul_stevens,scotus_justice,2820.974,2826.075,"And if he did then ask for further briefings, do you think that there would then have been a requirement to disclose the report?"
+2004.03-184,1,42821,thomas_g_hungar,,2826.075,2834.127,"Well, presumably it would be a waste of everyone's time unless he... I don't know that he would have to disclose the report, but he would need to direct their attention to the issue he would like them to brief."
+2004.03-184,1,15060,john_paul_stevens,scotus_justice,2834.127,2840.359,It seems to me that the author of this subsection (c) must have contemplated the possibility of disclosure of the report.
+2004.03-184,1,42821,thomas_g_hungar,,2840.359,2844.074,"Well, again, Your Honor, this language was adopted at a time when they followed the exception--"
+2004.03-184,1,15060,john_paul_stevens,scotus_justice,2844.074,2849.897,"When they followed a different procedure, and the question is to how much... how much did they intend the... to change that prior procedure."
+2004.03-184,1,42821,thomas_g_hungar,,2849.897,2856.789,"--Well, we know that the Tax Court has interpreted its rule to permit precisely the practice it followed here because it said so."
+2004.03-184,1,15113,anthony_m_kennedy,scotus_justice,2898.527,2908.475,Does the statute you just quoted prohibit the disclosure of other reports if we call this first draft something other than a report?
+2004.03-184,1,42821,thomas_g_hungar,,2908.475,2910.294,The statute doesn't--
+2004.03-184,1,15113,anthony_m_kennedy,scotus_justice,2910.294,2913.676,"In other words, would... would the rule go further than the statute?"
+2004.03-184,1,42821,thomas_g_hungar,,2913.676,2923.13,"--The statute does not prohibit the disclosure of other reports, but the rule clearly does not require the disclosure of reports."
+2004.03-184,1,15049,antonin_scalia,scotus_justice,2940.797,2949.221,"Mr. Hungar, you started to say that... that even the opinion of a... of a Tax Court judge is not a report of the Tax Court."
+2004.03-184,1,42821,thomas_g_hungar,,2949.221,2950.064,"Yes, Your Honor."
+2004.03-184,1,15049,antonin_scalia,scotus_justice,2950.064,2950.911,How does that work?
+2004.03-184,1,42821,thomas_g_hungar,,2950.911,2967.425,"Page 2a of the appendix to the gray brief, at the bottom of the page, section 7460(b) provides that the report of the division... and the Tax Court is now and has for many years been divided into one-judge divisions."
+2004.03-184,1,15049,antonin_scalia,scotus_justice,2968.994,2975.477,I was... I was going to ask you what... what 7461 referred to when it says the Tax Court and its divisions.
+2004.03-184,1,42821,thomas_g_hungar,,2975.477,2976.015,--Yes.
+2004.03-184,1,15049,antonin_scalia,scotus_justice,2976.015,2976.758,It also is referred to there.
+2004.03-184,1,42821,thomas_g_hungar,,2976.758,2979.359,"For a brief period of time, they sat in... in panels."
+2004.03-184,1,15049,antonin_scalia,scotus_justice,2979.359,2979.896,I see.
+2004.03-184,1,42821,thomas_g_hungar,,2979.896,2984.149,But they... the... the press of work force them to... to divide into one-judge divisions.
+2004.03-184,1,15049,antonin_scalia,scotus_justice,2984.149,2986.09,So it's a single judge is a division of the Tax Court.
+2004.03-184,1,42821,thomas_g_hungar,,2986.09,2986.19,"Yes, that's correct."
+2004.03-184,1,15049,antonin_scalia,scotus_justice,2986.19,2995.545,And the publicity of proceedings does say... it does say that all reports of the Tax Court--
+2004.03-184,1,42821,thomas_g_hungar,,2995.545,2996.409,"Yes, Your Honor."
+2004.03-184,1,15049,antonin_scalia,scotus_justice,2996.409,3002.808,"--And all evidence received by the Tax Court and its divisions, meaning its single judges."
+2004.03-184,1,42821,thomas_g_hungar,,3005.326,3023.12,"He... he prepares it and submits it to the chief judge under rule... under statute... under the statute 7460(b) where it says the report of the division shall become the report of the Tax Court within 30 days after such report by the division, unless the chief judge directs it to be reviewed by the full court."
+2004.03-184,1,15084,ruth_bader_ginsburg,scotus_justice,3030.717,3030.922,It's like an en banc.
+2004.03-184,1,42821,thomas_g_hungar,,3048.633,3048.822,"No, Your Honor."
+2004.03-184,1,15084,ruth_bader_ginsburg,scotus_justice,3074.873,3075.078,"--Oh, no."
+2004.03-184,1,42821,thomas_g_hungar,,3089.667,3102.92,"The... the Tax Court judge certainly has the authority to dissent, just as a special trial judge has the authority and, indeed, the obligation under the code of conduct to refuse to put his name on a... on a report if he doesn't agree with it."
+2004.03-184,1,15084,ruth_bader_ginsburg,scotus_justice,3111.936,3115.834,"Then he... then he can publish his... he can publish his dissent, just as a Tax Court judge can?"
+2004.03-184,1,42821,thomas_g_hungar,,3115.834,3122.422,"--No, but he can preclude the Tax Court judge from doing what the Tax Court judge did in this case, which is simply adopting his report."
+2004.03-184,1,15084,ruth_bader_ginsburg,scotus_justice,3125.001,3127.335,But then we still won't know what his report is.
+2004.03-184,1,42821,thomas_g_hungar,,3139.845,3145.994,"--Justice Ginsburg, if... if that were the case here, obviously our arguments would be more difficult."
+2004.03-184,1,15084,ruth_bader_ginsburg,scotus_justice,3148.389,3167.048,"I'm asking you just as the... the judge who disagrees with the... the full court can publish his dissent, can the special trial judge who disagrees with the Tax Court judge publish his dissent?"
+2004.03-184,1,42821,thomas_g_hungar,,3167.048,3179.225,"--In the... the one case involving a change in the opinion, where the Tax Court judge said, I don't adopt a portion of the opinion of the special trial judge, there was no published opinion of the special trial judge."
+2004.03-184,1,15084,ruth_bader_ginsburg,scotus_justice,3182.586,3183.855,Has there ever been?
+2004.03-184,1,42821,thomas_g_hungar,,3183.855,3186.417,--A published dissent by a special trial judge?
+2004.03-184,1,15084,ruth_bader_ginsburg,scotus_justice,3188.124,3194.251,And how... how often does the... is there a dissent when there's... when there's a full court review decision?
+2004.03-184,1,42821,thomas_g_hungar,,3194.251,3195.01,"--Well, there's often a dissent."
+2004.03-184,1,15042,david_h_souter,scotus_justice,3234.048,3260.631,Except that the... the relationship between the... the one judge and the full Tax Court is a relationship basically of people who are in the same boat with respect to what they know about or can know about law and what they can know about the evidence and the facts of the case; whereas the relationship between the special trial judge and the judge to whom it is assigned is... is quite different because only one of them has heard evidence and only one of them is the source of conclusion about fact.
+2004.03-184,1,42821,thomas_g_hungar,,3260.631,3260.881,"No, Your Honor."
+2004.03-184,1,15042,david_h_souter,scotus_justice,3263.832,3270.352,It certainly is not identical in... in the sense that the... the Tax Court judge then goes and listens to evidence.
+2004.03-184,1,42821,thomas_g_hungar,,3271.838,3273.696,"--Well, neither does the full Tax Court when it--"
+2004.03-184,1,15042,david_h_souter,scotus_justice,3273.696,3280.344,"Neither does the full Tax Court, but if the full Tax Court is disagreeing with one judge, the one judge and the full Tax Court are in the same boat."
+2004.03-184,1,42821,thomas_g_hungar,,3298.109,3298.731,"--No, Your Honor."
+2004.03-184,1,15042,david_h_souter,scotus_justice,3305.873,3306.039,I... I am quite aware of that.
+2004.03-184,1,42821,thomas_g_hungar,,3324.903,3332.212,"--Well, then if... if I understand the point you're making, it's a point of the... the... it's the hierarchy issue, if that's... if that's the point you're making."
+2004.03-184,1,15042,david_h_souter,scotus_justice,3332.212,3332.871,It's the knowledge issue.
+2004.03-184,1,42821,thomas_g_hungar,,3336.553,3337.918,So did the Tax Court judge--
+2004.03-184,1,15042,david_h_souter,scotus_justice,3337.918,3340.063,Nobody on the Tax Court did.
+2004.03-184,1,42821,thomas_g_hungar,,3340.063,3340.723,"--No, Your Honor."
+2004.03-184,1,15042,david_h_souter,scotus_justice,3341.261,3343.202,"In other words, they're... they're sitting hearing witnesses?"
+2004.03-184,1,42821,thomas_g_hungar,,3345.514,3350.799,"Your Honor, in a review... if a Tax Court judge... most Tax Court cases are tried by Tax Court judges."
+2004.03-184,1,15042,david_h_souter,scotus_justice,3354.309,3359.155,But we are talking about situations in which the trial judge is the special judge.
+2004.03-184,1,42821,thomas_g_hungar,,3359.155,3360.913,"--Well, I'm talking about the full Tax Court, Your Honor."
+2004.03-184,1,15060,john_paul_stevens,scotus_justice,3385.805,3386.631,"Mr. Hungar, I think we understand your answer."
+2004.03-184,1,42821,thomas_g_hungar,,3386.631,3387.17,Thank you.
+2004.03-184,1,15060,john_paul_stevens,scotus_justice,3387.17,3389.649,"Mr. Shapiro, you have about 4 minutes left."
+2004.03-184,2,42002,stephen_m_shapiro,,3389.649,3394.85,The question came up whether rule 183 forbids disclosure of this report.
+2004.03-184,2,15049,antonin_scalia,scotus_justice,3408.718,3413.548,Why does 7461 require its... its disclosure?
+2004.03-184,2,42002,stephen_m_shapiro,,3418.089,3419.137,Well--
+2004.03-184,2,15049,antonin_scalia,scotus_justice,3419.137,3422.564,That reports of the Tax Court that have to be disclosed.
+2004.03-184,2,42002,stephen_m_shapiro,,3422.564,3427.476,--Our view is that of... of the Tax Court means any report emanating from the Tax Court.
+2004.03-184,2,15049,antonin_scalia,scotus_justice,3430.409,3439.531,"Well, that... that would mean that... that you would have to make public the... the reports of a regular Tax Court judge in cases that then go on to the full court."
+2004.03-184,2,42002,stephen_m_shapiro,,3440.607,3446.013,"There's an exception for the en banc situation because legal issues are addressed en banc, not the factual issues."
+2004.03-184,2,15049,antonin_scalia,scotus_justice,3447.749,3447.971,"Well, but it doesn't matter."
+2004.03-184,2,42002,stephen_m_shapiro,,3464.96,3470.783,"Oh, we say there's a special statute dealing with the en banc situation that... that governs in that situation."
+2004.03-184,2,15049,antonin_scalia,scotus_justice,3472.641,3472.807,Why is that?
+2004.03-184,2,42002,stephen_m_shapiro,,3473.634,3482.3,"--That... that's the en banc provision that counsel referred to that said that when the case is heard en banc, the trial... the... the single judge's report is not made part of the record."
+2004.03-184,2,15113,anthony_m_kennedy,scotus_justice,3492.969,3498.913,"That's not a... that's not a de novo... they can rehear matters de novo on the en banc Tax Court, can they not?"
+2004.03-184,2,42002,stephen_m_shapiro,,3499.839,3502.051,"Yes, but it addresses legal issues."
+2004.03-184,2,15139,stephen_g_breyer,scotus_justice,3517.86,3520.794,I don't know if I'm getting... so that's his basic point.
+2004.03-184,2,42002,stephen_m_shapiro,,3563.518,3563.518,"I think you're right, and--"
+2004.03-184,2,15139,stephen_g_breyer,scotus_justice,3563.518,3565.459,You think I'm right just suddenly for the for the first time?
+2004.03-184,2,42002,stephen_m_shapiro,,3566.119,3571.189,"--Well, I... I think that the intent of this provision... and I know Your Honor consults the legislative history."
+2004.03-184,2,15049,antonin_scalia,scotus_justice,3582.706,3584.525,There's... there's a very careful use of language.
+2004.03-184,2,42002,stephen_m_shapiro,,3600.418,3613.05,"Well, we believe that the word all is a broad, generic inclusive term that should be applied, as Judge Cudahy stated, to an STJ report that actually has to be submitted to the chief judge and that has legal effect."
+2004.03-184,2,15084,ruth_bader_ginsburg,scotus_justice,3637.326,3649.958,"But we... we don't have to get into any of that if we accept your argument about 7482(a)(1), that is, the record will be in the same manner and to the same extent as decisions of the district court."
+2004.03-184,2,42002,stephen_m_shapiro,,3649.958,3650.208,"Absolutely, Your Honor."
+2004.03-184,2,15060,john_paul_stevens,scotus_justice,3671.961,3673.158,"Thank you, Mr. Shapiro."

@@ -1,0 +1,251 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2013.12-751,0,15086,john_g_roberts_jr,scotus_justice,0.0,8.592,"We'll hear argument this morning in Case 12-751, Fifth Third Bancorp v. Dudenhoeffer."
+2013.12-751,0,39797,robert_a_long_jr,,9.888,13.605,"Mr. Chief Justice, and may it please the Court:"
+2013.12-751,0,15113,anthony_m_kennedy,scotus_justice,41.391,45.827,You -- you want us to say that we have sort of a coach class trustee.
+2013.12-751,0,39797,robert_a_long_jr,,57.228,62.539,"Well, we're not asking for a coach class trustee."
+2013.12-751,0,15131,sonia_sotomayor,scotus_justice,90.121,96.618,"This does -- this plan didn't require you to invest solely in employer stock, did it?"
+2013.12-751,0,39797,robert_a_long_jr,,96.618,98.742,--This plan--
+2013.12-751,0,15131,sonia_sotomayor,scotus_justice,98.742,102.632,It gave you the option to do it and to go above the 10 percent.
+2013.12-751,0,39797,robert_a_long_jr,,107.285,118.578,"--Well -- well, ERISA, the statute, requires that an ESOP invest primarily in employer's stock."
+2013.12-751,0,15131,sonia_sotomayor,scotus_justice,134.79,137.524,Could you point to the part of your plan that did that?
+2013.12-751,0,39797,robert_a_long_jr,,143.207,156.688,"--If -- Your Honor, if you look at page 735 of the Joint Appendix, you'll find in -- in part 3.3, it states,"
+2013.12-751,0,15131,sonia_sotomayor,scotus_justice,204.808,206.074,"You use the word ""primarily""."
+2013.12-751,0,39797,robert_a_long_jr,,223.489,231.923,"--Well, what we say is that these duties -- again, we're not asking for coach class duties."
+2013.12-751,0,15131,sonia_sotomayor,scotus_justice,267.439,268.517,It doesn't say you have to.
+2013.12-751,0,39797,robert_a_long_jr,,272.686,275.498,"--Well, again, I mean, I -- I quoted the language."
+2013.12-751,0,15084,ruth_bader_ginsburg,scotus_justice,302.362,307.768,"Mr. Long, there is no presumption written into this statute."
+2013.12-751,0,39797,robert_a_long_jr,,339.192,344.33,"--Well -- well, we do think it comes from the text of the statute."
+2013.12-751,0,15094,elena_kagan,scotus_justice,372.211,372.771,Mr. Long--
+2013.12-751,0,15049,antonin_scalia,scotus_justice,372.771,390.297,"Section 1104 of ERISA, which this -- this plan is not exempted from, says that the fiduciaries must manage a plan, and I quote,"
+2013.12-751,0,39797,robert_a_long_jr,,400.86,402.966,--It -- it is.
+2013.12-751,0,15049,antonin_scalia,scotus_justice,413.15,414.275,"--Well, I don't add that."
+2013.12-751,0,39797,robert_a_long_jr,,417.117,418.288,"--Oh, yes."
+2013.12-751,0,15049,antonin_scalia,scotus_justice,418.288,422.569,--that's quite different from running a plan to -- to own stock in the company.
+2013.12-751,0,39797,robert_a_long_jr,,425.038,429.378,"Well, -- well, but, Justice Scalia, plans -- ERISA plans provide different kinds of benefits."
+2013.12-751,0,15113,anthony_m_kennedy,scotus_justice,465.271,470.3,Is there anything in the trust law or the common law that allows us to define benefits that way?
+2013.12-751,0,39797,robert_a_long_jr,,470.3,475.751,"Well, I mean, I don't think we're asking for a special definition of benefits."
+2013.12-751,0,15049,antonin_scalia,scotus_justice,510.876,524.496,"You say the benefits referred to in the -- providing benefits to participants, and you're saying the benefits to participants is their ownership of company stock, including worthless company stock."
+2013.12-751,0,39797,robert_a_long_jr,,524.496,526.854,"Well -- well, no, not at all, Justice Scalia."
+2013.12-751,0,15049,antonin_scalia,scotus_justice,532.821,535.773,"But when it ceases to be valuable, it seems to me you're not."
+2013.12-751,0,39797,robert_a_long_jr,,535.773,559.466,"--Well, and -- and we agree as -- as every court of appeals has -- has held, that has looked at this, all seven, that there -- there does come a time when the purpose of the ESOP, of allowing the employees to build an ownership stake in the company, can no longer be realized because the company is in serious peril, serious jeopardy."
+2013.12-751,0,15094,elena_kagan,scotus_justice,559.466,574.897,"--But -- but there are occasions, Mr. Long, outside of that very narrow category of cases that you define in which the stock is going to be way, way, way, overvalued relative to what the fiduciaries know is the company's actual value."
+2013.12-751,0,39797,robert_a_long_jr,,596.888,601.901,"Well, I mean, if I could take that in several steps."
+2013.12-751,0,15094,elena_kagan,scotus_justice,628.781,629.328,No.
+2013.12-751,0,39797,robert_a_long_jr,,643.136,657.864,"But when you -- when you get to that point of the analysis, and this is what all the courts have recognized, you have to then bring in securities law, and you have to recognize to trade on that inside information would violate securities laws."
+2013.12-751,0,15094,elena_kagan,scotus_justice,679.385,699.44,"Well, I -- I suppose it could, but a prudent manager might say that it would do greater damage to the -- to the participants in the plan to enable this misinformation to exist and to keep putting -- to keep buying stock, to keep putting more and more of their retirement investments into something that is really overvalued."
+2013.12-751,0,39797,robert_a_long_jr,,699.44,716.995,"--Well, I mean, our point is that that public announcement, that the ESOP has stopped allowing purchases of company stock, could cause a sort of collapse in the stock price that would be terrible for the participants, and saying that prudence requires that is kind of risky gamble."
+2013.12-751,0,15094,elena_kagan,scotus_justice,716.995,731.1,"Well, you assume that truthful information will out in the end, and is it better to keep on putting more money into something that is -- is -- you know, is really not a good investment for the participants and the beneficiaries?"
+2013.12-751,0,39797,robert_a_long_jr,,731.1,737.706,"Well, but -- but by -- you know, stopping immediately it could cause even greater harm."
+2013.12-751,0,15131,sonia_sotomayor,scotus_justice,739.081,753.512,So what's wrong with following the law and disclosing that material information to the public and stopping the -- the employees from losing more money in worthless stock--
+2013.12-751,0,39797,robert_a_long_jr,,753.512,754.918,--And I think that's ultimate--
+2013.12-751,0,15131,sonia_sotomayor,scotus_justice,754.918,755.511,--or almost worthless stock?
+2013.12-751,0,39797,robert_a_long_jr,,755.511,757.151,--That's ultimately where the government comes in.
+2013.12-751,0,15113,anthony_m_kennedy,scotus_justice,787.685,790.263,It's just background information for this point you're discussing.
+2013.12-751,0,39797,robert_a_long_jr,,824.287,824.996,"--Well, in several--"
+2013.12-751,0,15113,anthony_m_kennedy,scotus_justice,824.996,828.151,--Can you just tell us what the -- what the landscape is?
+2013.12-751,0,39797,robert_a_long_jr,,828.151,829.794,"--First -- first of all, it is common."
+2013.12-751,0,15086,john_g_roberts_jr,scotus_justice,865.154,865.748,"I mean, part of -- I'm sorry."
+2013.12-751,0,39797,robert_a_long_jr,,867.684,876.287,"--So -- so it's -- it's really not a solution, but it is common to have the officers of the company, and I think it's not just to save money."
+2013.12-751,0,15086,john_g_roberts_jr,scotus_justice,883.912,894.548,"--I mean, the dilemma we're talking about, which is you've got inside information and if you do something with it, it's going to hurt the beneficiary, I mean, isn't that just a reflection of the fact that these are really bad investments?"
+2013.12-751,0,39797,robert_a_long_jr,,902.045,902.405,Well--
+2013.12-751,0,15086,john_g_roberts_jr,scotus_justice,902.405,918.805,"So that's why you're in this awkward position of saying if the company is doing something bad, you know, having inside -- inside information that should be disclosed because it affects the stock price, then it's going to hurt not only the company, but also your retirement stock."
+2013.12-751,0,39797,robert_a_long_jr,,918.805,927.49,"--Well, I mean, first of all, it's quite right that an ESOP, because it's totally undiversified, is not by itself a good retirement plan."
+2013.12-751,0,15084,ruth_bader_ginsburg,scotus_justice,936.69,939.064,"But it is -- it is a purpose, Mr. Long, isn't it?"
+2013.12-751,0,39797,robert_a_long_jr,,947.639,949.762,"Oh, yes."
+2013.12-751,0,15049,antonin_scalia,scotus_justice,982.875,983.795,"Well, the participants--"
+2013.12-751,0,39797,robert_a_long_jr,,983.795,986.028,--but you don't shut it down as soon as there's trouble.
+2013.12-751,0,15049,antonin_scalia,scotus_justice,986.715,989.808,--Why do you need a special rule for -- for ESOPs?
+2013.12-751,0,39797,robert_a_long_jr,,1012.315,1013.19,--It's -- it's--
+2013.12-751,0,15049,antonin_scalia,scotus_justice,1013.19,1015.579,Is he going to outguess the market?
+2013.12-751,0,39797,robert_a_long_jr,,1015.579,1016.079,--Right.
+2013.12-751,0,15049,antonin_scalia,scotus_justice,1016.587,1019.659,Surely you don't demand that a prudent trustee outguess the market.
+2013.12-751,0,39797,robert_a_long_jr,,1026.715,1027.402,Inside--
+2013.12-751,0,15049,antonin_scalia,scotus_justice,1027.402,1028.23,--that causes him to know.
+2013.12-751,0,39797,robert_a_long_jr,,1028.23,1028.792,--And I want to come--
+2013.12-751,0,15049,antonin_scalia,scotus_justice,1028.792,1032.962,And you have the same problem about not being able to use that inside knowledge.
+2013.12-751,0,39797,robert_a_long_jr,,1032.962,1033.587,--You can't use it.
+2013.12-751,0,15049,antonin_scalia,scotus_justice,1034.853,1036.508,So -- so why do we need a special rule for ESOPs I'm saying?
+2013.12-751,0,39797,robert_a_long_jr,,1049.035,1052.626,"--Well, because if it were just an ordinary investment--"
+2013.12-751,0,15049,antonin_scalia,scotus_justice,1052.626,1053.22,Right.
+2013.12-751,0,39797,robert_a_long_jr,,1053.22,1055.951,--where the purpose really is just to maximize retirement benefits--
+2013.12-751,0,15049,antonin_scalia,scotus_justice,1055.951,1056.269,Right.
+2013.12-751,0,39797,robert_a_long_jr,,1056.269,1060.98,--there you do look at the risk-return ratio and the expenses and all--
+2013.12-751,0,15049,antonin_scalia,scotus_justice,1060.98,1061.131,No.
+2013.12-751,0,39797,robert_a_long_jr,,1088.065,1091.329,"--Well -- well, but, again, Justice Scalia, we're -- we are agreeing with the lower courts."
+2013.12-751,0,15094,elena_kagan,scotus_justice,1098.703,1108.353,"But even in saying that, Mr. Long, you have a category where you would say the duty of prudence applies, and it's this category of where the company is on the verge of collapse."
+2013.12-751,0,39797,robert_a_long_jr,,1116.648,1116.959,--Well--
+2013.12-751,0,15094,elena_kagan,scotus_justice,1116.959,1117.771,--the government's test.
+2013.12-751,0,39797,robert_a_long_jr,,1130.126,1131.142,"--Well, no."
+2013.12-751,0,15131,sonia_sotomayor,scotus_justice,1183.013,1184.325,That's not an ERISA responsibility.
+2013.12-751,0,39797,robert_a_long_jr,,1194.461,1196.1,--And -- and that's--
+2013.12-751,0,15131,sonia_sotomayor,scotus_justice,1196.1,1196.882,--would real--
+2013.12-751,0,39797,robert_a_long_jr,,1196.882,1199.288,"--that's really exactly our point, Justice Sotomayor."
+2013.12-751,0,15131,sonia_sotomayor,scotus_justice,1213.189,1226.996,--So what's -- what's wrong with a rule that simply says a fiduciary has to do whatever it's -- possible to protect beneficiaries within the bounds of the law?
+2013.12-751,0,39797,robert_a_long_jr,,1226.996,1227.854,"Well, it -- it--"
+2013.12-751,0,15131,sonia_sotomayor,scotus_justice,1227.854,1237.865,"And so if the law required you to disclose it, and you didn't, you've breached your duty of prudence and of loyalty, because you've protected the company--"
+2013.12-751,0,39797,robert_a_long_jr,,1237.865,1238.428,--Well--
+2013.12-751,0,15131,sonia_sotomayor,scotus_justice,1238.428,1239.631,--but not the beneficiaries.
+2013.12-751,0,39797,robert_a_long_jr,,1239.631,1242.067,"--It sounds good, but I think it would create serious problems."
+2013.12-751,0,15131,sonia_sotomayor,scotus_justice,1260.013,1263.683,You -- you don't -- you're -- you have an absolute duty to the beneficiary.
+2013.12-751,0,39797,robert_a_long_jr,,1263.683,1280.738,"Well, but -- but the -- I guess the point is, Justice Sotomayor, from the -- the fiduciary can say, Look, if there's been a securities law violation about disclosure or material misstatements, there's a securities law remedy for that, and the plan participants will get that remedy."
+2013.12-751,0,15094,elena_kagan,scotus_justice,1280.738,1281.41,"Well, then, what if the--"
+2013.12-751,0,15068,samuel_a_alito_jr,scotus_justice,1281.41,1294.264,"In an ESOP -- in an ESOP, can the fiduciary take into account the interests of the participants as employees as opposed to their interests as investors?"
+2013.12-751,0,39797,robert_a_long_jr,,1314.896,1318.035,"I mean, I -- I don't think you have to do that."
+2013.12-751,0,15068,samuel_a_alito_jr,scotus_justice,1335.083,1339.405,"No, I'm not saying only as employees, but I'm saying can you take that into account at all?"
+2013.12-751,0,39797,robert_a_long_jr,,1372.794,1378.809,"--Well, I mean, I think I'd say that that would be one way to sort of work this out."
+2013.12-751,0,15113,anthony_m_kennedy,scotus_justice,1391.294,1400.098,"Well, how do you fine -- define the standard or the duty that's responsive to Justice Alito's concern?"
+2013.12-751,0,39797,robert_a_long_jr,,1415.248,1417.667,"--Yes, I -- I think it is."
+2013.12-751,0,15113,anthony_m_kennedy,scotus_justice,1418.105,1419.886,"And if so, what is the duty?"
+2013.12-751,0,39797,robert_a_long_jr,,1419.886,1420.197,--The -- I think the--
+2013.12-751,0,15113,anthony_m_kennedy,scotus_justice,1420.197,1420.807,How do you define it?
+2013.12-751,0,39797,robert_a_long_jr,,1420.807,1440.675,"--I think the -- the duty is to maximize the returns for this special kind of a vehicle, which is a vehicle that owns stock in only one company, the -- the employee's company, and for reasons that -- this kind of goes to -- to Justice Alito's point but in a different way -- for reasons that go beyond just the returns."
+2013.12-751,0,15113,anthony_m_kennedy,scotus_justice,1456.761,1462.149,"Well, if I'm the trustee, I don't know what my duty is based on your answer."
+2013.12-751,0,39797,robert_a_long_jr,,1463.415,1473.723,"Well, I mean, the courts of appeals have had a fairly uniform approach to this for now almost 20 years, and it has -- it has not been causing a great deal of -- of trouble."
+2013.12-751,0,15086,john_g_roberts_jr,scotus_justice,1517.512,1518.72,"Thank you, Mr. Long."
+2013.12-751,1,40038,ronald_mann,,1528.233,1530.419,"Thank you, Mr. Chief Justice, and may it please the Court:"
+2013.12-751,1,15084,ruth_bader_ginsburg,scotus_justice,1562.453,1571.53,"Mr. Mann, I think the point that raised that the employee benefit--"
+2013.12-751,1,40038,ronald_mann,,1571.53,1577.435,"--Section 1002, Sub 3 describes employee benefit plans, which are the subject of ERISA."
+2013.12-751,1,15139,stephen_g_breyer,scotus_justice,1667.007,1671.647,"I would say that -- well, what the problem -- but can you give me any example of any case?"
+2013.12-751,1,40038,ronald_mann,,1688.452,1691.388,"--Oh, no, I -- I think there probably isn't such a case, but I would--"
+2013.12-751,1,15139,stephen_g_breyer,scotus_justice,1691.388,1692.498,You think there is not such a case?
+2013.12-751,1,40038,ronald_mann,,1692.498,1694.042,--I think there probably is not such a case.
+2013.12-751,1,15139,stephen_g_breyer,scotus_justice,1694.053,1694.225,Fine.
+2013.12-751,1,40038,ronald_mann,,1698.933,1699.072,"--Well, the--"
+2013.12-751,1,15139,stephen_g_breyer,scotus_justice,1699.072,1708.819,"The person has an obligation to act prudently in respect to the fiduciaries -- to the beneficiaries, of course."
+2013.12-751,1,40038,ronald_mann,,1717.549,1721.048,"--I -- I'm not sure what you mean by that, but I'd like to--"
+2013.12-751,1,15139,stephen_g_breyer,scotus_justice,1721.048,1723.751,What I mean by it is just what I said.
+2013.12-751,1,40038,ronald_mann,,1738.401,1739.167,--I think I--
+2013.12-751,1,15139,stephen_g_breyer,scotus_justice,1739.167,1741.868,--the SEC what their opinion is because they don't seem to appear on this brief.
+2013.12-751,1,40038,ronald_mann,,1741.868,1747.21,"--I think I would respectfully disagree with that, and I think it's important to understand why, Justice Breyer and Justice Kagan."
+2013.12-751,1,15139,stephen_g_breyer,scotus_justice,1747.21,1750.927,The answer is there's not been a case ever holding the contrary--
+2013.12-751,1,40038,ronald_mann,,1750.927,1751.74,But that's--
+2013.12-751,1,15139,stephen_g_breyer,scotus_justice,1751.74,1752.942,--but you yourself disagree with it.
+2013.12-751,1,40038,ronald_mann,,1752.942,1753.583,--But that is--
+2013.12-751,1,15139,stephen_g_breyer,scotus_justice,1753.583,1755.02,"Now, what the reason you disagree with it?"
+2013.12-751,1,40038,ronald_mann,,1755.02,1762.734,"--That is because the courts of appeals unanimously, as Mr. Long says, have held that the trustees of these plans have no duties at all."
+2013.12-751,1,15139,stephen_g_breyer,scotus_justice,1767.529,1768.982,I'm sorry.
+2013.12-751,1,40038,ronald_mann,,1799.048,1807.607,"--With respect to that particular question, and I -- I did not understand your question that way, and I don't -- I can't say whether there is or has never been such a case."
+2013.12-751,1,15131,sonia_sotomayor,scotus_justice,1820.57,1825.803,Let me just continue to Justice Breyer's question.
+2013.12-751,1,40038,ronald_mann,,1841.718,1851.606,"--I think that's clearly true, but I think they, at the same time, at their peril, breach their duties of loyalty to those for whom they've accepted a fiduciary duty."
+2013.12-751,1,15131,sonia_sotomayor,scotus_justice,1852.689,1866.114,So your claim rises and falls on the fact that you think they're -- they've breached their duty of loyalty by having the inside information and -- or exactly what is your claim?
+2013.12-751,1,40038,ronald_mann,,1870.643,1873.908,--My claim does not rise or fall at all on that.
+2013.12-751,1,15131,sonia_sotomayor,scotus_justice,1897.695,1898.195,How would they--
+2013.12-751,1,15068,samuel_a_alito_jr,scotus_justice,1898.195,1899.367,What do they have to do then?
+2013.12-751,1,40038,ronald_mann,,1912.377,1921.482,"Well, I wouldn't say that you always have to, but I do think that the situation is quite parallel to the situation that corporate directors face when they come into a conflicted situation."
+2013.12-751,1,15068,samuel_a_alito_jr,scotus_justice,1942.583,1945.941,"So you're basically saying that if it's not flatly prohibited, it is very unwise."
+2013.12-751,1,40038,ronald_mann,,1955.267,1968.307,"Well, I think it's a plain implication of Justice Kennedy's opinion in Glenn and the majority opinion in Glenn that the structure of the fiduciary and the relationship to the trust being conflicted should raise a red flag."
+2013.12-751,1,15139,stephen_g_breyer,scotus_justice,1968.307,1973.212,Here when you say -- I am totally with you on this.
+2013.12-751,1,40038,ronald_mann,,1999.014,2000.716,But that is our complaint.
+2013.12-751,1,15139,stephen_g_breyer,scotus_justice,2000.716,2001.481,But you want to go beyond that?
+2013.12-751,1,40038,ronald_mann,,2001.481,2001.934,No.
+2013.12-751,1,15139,stephen_g_breyer,scotus_justice,2008.682,2009.462,Not just information.
+2013.12-751,1,40038,ronald_mann,,2018.396,2019.505,--You are correct.
+2013.12-751,1,15113,anthony_m_kennedy,scotus_justice,2060.488,2063.191,Suppose you were a legislature or a congressman.
+2013.12-751,1,40038,ronald_mann,,2073.937,2076.492,--I think Congress has done a great job of writing the statute.
+2013.12-751,1,15113,anthony_m_kennedy,scotus_justice,2087.441,2093.564,"Well, once you say the trustee doesn't have the duty to diversify, it seems to me you are living in something of a different world."
+2013.12-751,1,40038,ronald_mann,,2093.564,2095.127,--I think that's right.
+2013.12-751,1,15086,john_g_roberts_jr,scotus_justice,2108.996,2111.322,"Well, but affected is not quite enough."
+2013.12-751,1,40038,ronald_mann,,2161.068,2166.534,"I think it's -- I'm glad that you asked that question, because I think that's central at the disagreement between respondents and petitioners."
+2013.12-751,1,15086,john_g_roberts_jr,scotus_justice,2226.322,2229.977,"Well, what is exactly the duty of prudence?"
+2013.12-751,1,40038,ronald_mann,,2243.394,2245.502,Okay.
+2013.12-751,1,15086,john_g_roberts_jr,scotus_justice,2256.732,2258.419,"Well, what's the answer to my question?"
+2013.12-751,1,40038,ronald_mann,,2258.419,2261.308,With respect to the duty -- so the duty of loyalty is enough to sustain--
+2013.12-751,1,15086,john_g_roberts_jr,scotus_justice,2261.308,2261.776,"No, no."
+2013.12-751,1,40038,ronald_mann,,2263.213,2263.385,--With respect to--
+2013.12-751,1,15086,john_g_roberts_jr,scotus_justice,2263.385,2271.446,"I asked a question of whether or not the trustee is imprudent because he buys the stock because it's gone down -- you know, gone down 10 percent."
+2013.12-751,1,40038,ronald_mann,,2271.446,2271.576,--Okay.
+2013.12-751,1,15068,samuel_a_alito_jr,scotus_justice,2328.391,2332.344,Do you think the trustee has a duty to acquire inside information?
+2013.12-751,1,40038,ronald_mann,,2344.54,2363.861,"--Our position is that the duty of the trustee is to behave as a prudent fiduciary would behave, and if the trustee is unable to do that because the trustee has conflicting interests to serve, then the trustee is violating the duty of loyalty and should arrange the situation differently."
+2013.12-751,1,15068,samuel_a_alito_jr,scotus_justice,2363.861,2365.266,What's the answer to my question?
+2013.12-751,1,40038,ronald_mann,,2366.61,2368.781,The answer to your question--
+2013.12-751,1,15068,samuel_a_alito_jr,scotus_justice,2368.781,2373.654,"--permissible for an insider to be in this position, can the insider behave like an outsider?"
+2013.12-751,1,40038,ronald_mann,,2373.654,2387.461,"--I think it's plain in the case that if the trustee does not undertake the investigation that a prudent fiduciary would take, because of their concern about acquiring insider information of the employer, then they would violate the ordinary standard of prudence."
+2013.12-751,1,15086,john_g_roberts_jr,scotus_justice,2387.461,2392.49,"Well, can we talk concretely instead of just saying, well, they've got to do what a prudent fiduciary can do?"
+2013.12-751,1,40038,ronald_mann,,2423.338,2429.943,I think the obligation of the fiduciary at all times is to behave prudently in managing investment prudently.
+2013.12-751,1,15086,john_g_roberts_jr,scotus_justice,2430.709,2432.162,I asked for an answer to the question.
+2013.12-751,1,40038,ronald_mann,,2435.785,2441.643,"--Well, I don't -- I don't believe that the question is whether they must sell or mustn't sell."
+2013.12-751,1,15139,stephen_g_breyer,scotus_justice,2449.624,2463.274,"In a way, what happens is that the trustee, knowing that the company has announced an enormous oil strike, is having to sit on a private meeting where three people come in and you say, yeah, there was an oil strike, but it's impossible to get the oil out."
+2013.12-751,1,40038,ronald_mann,,2465.821,2466.132,--If the--
+2013.12-751,1,15139,stephen_g_breyer,scotus_justice,2466.132,2468.085,"Now, what's that trustee supposed to do?"
+2013.12-751,1,40038,ronald_mann,,2468.085,2472.38,--I think I lost track of whether the oil strike was true or false.
+2013.12-751,1,15139,stephen_g_breyer,scotus_justice,2472.38,2472.771,No.
+2013.12-751,1,40038,ronald_mann,,2473.286,2473.818,Okay.
+2013.12-751,1,15139,stephen_g_breyer,scotus_justice,2473.818,2477.91,"He alone, when two other people, know that this oil is worthless."
+2013.12-751,1,40038,ronald_mann,,2484.032,2494.731,"I believe that the trustee violates the duty of loyalty and the duty of prudence if the trustee, believing that the stock is overvalued, in fact, does not take action to protect the beneficiaries."
+2013.12-751,1,15139,stephen_g_breyer,scotus_justice,2494.731,2495.091,Okay.
+2013.12-751,1,40038,ronald_mann,,2498.027,2499.306,I didn't say that.
+2013.12-751,1,15113,anthony_m_kennedy,scotus_justice,2502.274,2504.539,I just don't see what the trustee is supposed to do.
+2013.12-751,1,40038,ronald_mann,,2521.158,2529.889,"Well, we believe that the traditional fiduciary standard is not that hard to implement."
+2013.12-751,1,15084,ruth_bader_ginsburg,scotus_justice,2540.18,2542.945,--You said you were going to deal with the rock and a hard place.
+2013.12-751,1,40038,ronald_mann,,2556.705,2566.717,"We certainly believe that if the trustee's view, based on the information, is that selling the stock would be bad for the beneficiaries, then a decision not to sell is prudent."
+2013.12-751,1,15084,ruth_bader_ginsburg,scotus_justice,2613.823,2624.443,"But beyond the -- outside trustees, they have to get information from the insider and we're back in the same place."
+2013.12-751,1,40038,ronald_mann,,2624.443,2633.097,"--Well, of course, if you wait until you are in possession of information and you know the stock is overvalued, you can't solve the problem by stepping aside then."
+2013.12-751,1,15086,john_g_roberts_jr,scotus_justice,2665.319,2674.722,"--The status of the trustee, whether it's an interested party or a disinterested fiduciary, is disclosed to the beneficiaries, I take it, at the outset?"
+2013.12-751,1,40038,ronald_mann,,2680.406,2684.343,"--Yes, they are advised of that."
+2013.12-751,1,15086,john_g_roberts_jr,scotus_justice,2696.182,2701.492,"If they wanted -- but hopefully, they got four percent matching funds if they were in that fund?"
+2013.12-751,1,40038,ronald_mann,,2701.492,2702.46,That is correct.
+2013.12-751,1,15086,john_g_roberts_jr,scotus_justice,2734.852,2735.711,"Thank you, counsel."
+2013.12-751,2,22617,edwin_s_kneedler,,2748.941,2751.05,"Mr. Chief Justice, and may it please the Court:"
+2013.12-751,2,15131,sonia_sotomayor,scotus_justice,2804.278,2814.289,"Mr. Kneedler, a stock drop in and of itself, I don't think, can prove a lack of prudence because--"
+2013.12-751,2,22617,edwin_s_kneedler,,2814.289,2814.835,--Agree.
+2013.12-751,2,15131,sonia_sotomayor,scotus_justice,2814.835,2816.117,--You agree with that?
+2013.12-751,2,22617,edwin_s_kneedler,,2816.117,2817.414,"Yes, we do."
+2013.12-751,2,15131,sonia_sotomayor,scotus_justice,2830.799,2831.486,Exactly.
+2013.12-751,2,22617,edwin_s_kneedler,,2834.485,2839.983,At least we're not insisting that a fiduciary in order to be prudent must--
+2013.12-751,2,15131,sonia_sotomayor,scotus_justice,2839.983,2852.682,"So how do you deal with what has been vexing us, the issue of what a fiduciary should or can do when they are an insider and have only inside information, not public information?"
+2013.12-751,2,22617,edwin_s_kneedler,,2852.682,2852.759,--Right.
+2013.12-751,2,15131,sonia_sotomayor,scotus_justice,2852.759,2856.868,So where is the breach of fiduciary duty?
+2013.12-751,2,22617,edwin_s_kneedler,,2868.128,2868.941,Right.
+2013.12-751,2,15139,stephen_g_breyer,scotus_justice,2906.065,2915.531,"Well, the -- the union brief says the thing to do in that situation is, without saying anything, turn the trusteeship over to a person who doesn't have that knowledge."
+2013.12-751,2,22617,edwin_s_kneedler,,2944.018,2944.8,Well--
+2013.12-751,2,15139,stephen_g_breyer,scotus_justice,2944.8,2946.722,And maybe you can tell me.
+2013.12-751,2,22617,edwin_s_kneedler,,2953.517,2954.797,"--I mean, this is primarily a labor case."
+2013.12-751,2,15139,stephen_g_breyer,scotus_justice,2955.921,2957.546,--It might be you might have a good reason for it.
+2013.12-751,2,22617,edwin_s_kneedler,,2957.546,2958.623,--Right.
+2013.12-751,2,15139,stephen_g_breyer,scotus_justice,2958.623,2961.232,But right now I am supposed to write some words or join some words.
+2013.12-751,2,22617,edwin_s_kneedler,,2961.232,2961.621,Right.
+2013.12-751,2,15139,stephen_g_breyer,scotus_justice,2961.621,2981.193,"And those words will tell trustees of possibly -- I have no idea -- but maybe hundreds of billions, or maybe billions anyway, of -- of assets in the stock market, what they're supposed to do when they learn some inside information that affects the company's stock."
+2013.12-751,2,22617,edwin_s_kneedler,,2999.982,3004.432,"Well, that is, of course, one option if -- if circumstances get very bad."
+2013.12-751,2,15131,sonia_sotomayor,scotus_justice,3033.562,3034.357,I'm sorry.
+2013.12-751,2,22617,edwin_s_kneedler,,3038.669,3057.397,"--Investigate -- investigate the consequences of the nonpublic -- this would be true of public information, too, that the -- this is not -- a plan like this, even though it is exempt from -- from requirements of diversification, are still prudence duties, which include investigation and -- and monitoring of the -- of the investment."
+2013.12-751,2,15086,john_g_roberts_jr,scotus_justice,3065.472,3070.721,"Well, what exactly, concrete terms, what do you do as the trustee?"
+2013.12-751,2,22617,edwin_s_kneedler,,3091.024,3101.318,"In -- in the category of cases we're talking about here, and these are the ones that are of the greatest concern to the Department of Labor, the stock is materially overvalued because of the inside information."
+2013.12-751,2,15068,samuel_a_alito_jr,scotus_justice,3125.916,3128.729,But you say they should sell based on the inside information?
+2013.12-751,2,22617,edwin_s_kneedler,,3128.729,3133.383,"No, he can't -- he can't sell on the basis of inside information."
+2013.12-751,2,15139,stephen_g_breyer,scotus_justice,3136.365,3139.099,But the market will see through that in about two seconds.
+2013.12-751,2,22617,edwin_s_kneedler,,3139.677,3140.552,"--Well, no, this is the--"
+2013.12-751,2,15139,stephen_g_breyer,scotus_justice,3140.552,3141.051,--That isn't really my question.
+2013.12-751,2,22617,edwin_s_kneedler,,3161.823,3163.589,"--I don't know the amount of assets, but--"
+2013.12-751,2,15139,stephen_g_breyer,scotus_justice,3163.589,3164.119,About?
+2013.12-751,2,22617,edwin_s_kneedler,,3164.119,3169.493,"--as I -- as I recall, I think there are perhaps 12 or 14,000 ESOP plans."
+2013.12-751,2,15113,anthony_m_kennedy,scotus_justice,3207.008,3216.974,"But your -- your argument, at least according to the Petitioners's brief, and I think they're correct, you go away from the purity standard."
+2013.12-751,2,22617,edwin_s_kneedler,,3223.705,3228.469,--For inside -- where there's inside information and is it -- is it materially overvalued.
+2013.12-751,2,15113,anthony_m_kennedy,scotus_justice,3230.375,3235.889,--But -- but then -- but then you are creating a special standard which is just what you're accusing the Petitioners of doing.
+2013.12-751,2,22617,edwin_s_kneedler,,3235.889,3239.699,"--Well, the question is what's the general standard of prudence."
+2013.12-751,2,15068,samuel_a_alito_jr,scotus_justice,3254.63,3255.021,"Well, let me give you this example."
+2013.12-751,2,22617,edwin_s_kneedler,,3310.546,3313.873,There is no absolute answer in that situation.
+2013.12-751,2,15068,samuel_a_alito_jr,scotus_justice,3336.472,3337.254,"Well, that's -- no."
+2013.12-751,2,22617,edwin_s_kneedler,,3345.72,3348.812,--It would have to be disclosed.
+2013.12-751,2,15068,samuel_a_alito_jr,scotus_justice,3348.812,3349.625,Eventually.
+2013.12-751,2,22617,edwin_s_kneedler,,3349.625,3352.562,"If it's major, it might have to be disclosed within 4 days under -- under 8(k)."
+2013.12-751,2,15113,anthony_m_kennedy,scotus_justice,3364.058,3366.073,The Chief Justice indicated -- if I can ask just one question.
+2013.12-751,2,22617,edwin_s_kneedler,,3377.786,3380.457,--We think in this case it is -- it is the key issue.
+2013.12-751,2,15086,john_g_roberts_jr,scotus_justice,3411.226,3412.662,"Thank you, counsel."
+2013.12-751,3,39797,robert_a_long_jr,,3414.24,3442.025,"The ESOP association brief reports at page 2 that there are $1.07 trillion in these employee stock plans, and we think really that's the key, are all of the Courts of Appeals considering many cases, you know, with many different fact patterns have not disagreed."
+2013.12-751,3,15131,sonia_sotomayor,scotus_justice,3461.518,3463.658,I -- I appreciate that.
+2013.12-751,3,39797,robert_a_long_jr,,3499.268,3501.095,"--Well, again -- again--"
+2013.12-751,3,15131,sonia_sotomayor,scotus_justice,3501.095,3506.608,"It's like -- yes, it's a double remedy, but there's lots of things that provide double remedies."
+2013.12-751,3,39797,robert_a_long_jr,,3510.358,3514.636,"--Well, I mean, securities law will provide the first remedy."
+2013.12-751,3,15131,sonia_sotomayor,scotus_justice,3516.699,3517.714,"Well, it won't as a trustee."
+2013.12-751,3,39797,robert_a_long_jr,,3517.714,3517.715,--If you're going to add an additional--
+2013.12-751,3,15131,sonia_sotomayor,scotus_justice,3517.715,3519.542,It will against the company.
+2013.12-751,3,39797,robert_a_long_jr,,3519.542,3528.226,"--Well, but -- but the additional ERISA remedy in this ESOP context is going to create these tremendous problems."
+2013.12-751,3,15131,sonia_sotomayor,scotus_justice,3536.799,3537.518,Obey the law.
+2013.12-751,3,39797,robert_a_long_jr,,3540.924,3545.313,"--Well, but you will create two different centers of communication now out of each corporation with an ESOP."
+2013.12-751,3,15131,sonia_sotomayor,scotus_justice,3550.763,3554.434,You know they created the conflicts.
+2013.12-751,3,39797,robert_a_long_jr,,3554.434,3554.792,"Well, I think -- I think--"
+2013.12-751,3,15131,sonia_sotomayor,scotus_justice,3554.792,3561.744,I'm not shrugging my shoulder out of lack of sympathy but out of reality.
+2013.12-751,3,39797,robert_a_long_jr,,3573.567,3574.348,"--Well, but--"
+2013.12-751,3,15131,sonia_sotomayor,scotus_justice,3574.348,3584.062,"But I think your adversary was saying that's a self-induced problem, not one that the law should excuse you from following whatever the law is."
+2013.12-751,3,39797,robert_a_long_jr,,3584.062,3585.374,"--Well, but -- but two points."
+2013.12-751,3,15086,john_g_roberts_jr,scotus_justice,3717.93,3718.868,"Thank you, counsel."

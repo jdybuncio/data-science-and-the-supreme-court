@@ -1,0 +1,158 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2003.02-1183,0,15141,william_h_rehnquist,scotus_justice,0.0,8.173,"We'll hear argument now in No. 02-1183, the United States v. Samuel Francis Patane."
+2003.02-1183,0,35719,michael_r_dreeben,,9.825,12.982,"Mr. Chief Justice, and may it please the Court:"
+2003.02-1183,0,15049,antonin_scalia,scotus_justice,100.643,103.077,Is it a Fifth Amendment right or not a Fifth Amendment right?
+2003.02-1183,0,35719,michael_r_dreeben,,103.077,110.22,"Justice Scalia, as I understand it, it is a right that implements the Fifth Amendment's protection."
+2003.02-1183,0,15049,antonin_scalia,scotus_justice,110.22,113.108,It...  it has to be based on something in the Constitution.
+2003.02-1183,0,35719,michael_r_dreeben,,125.452,126.361,The Fifth Amendment.
+2003.02-1183,0,15049,antonin_scalia,scotus_justice,127.31,127.847,All right.
+2003.02-1183,0,35719,michael_r_dreeben,,128.507,152.467,What the Court concluded in Miranda and then reaffirmed in Dickerson is that the traditional totality of the circumstances test for ascertaining whether a statement is voluntary or has been compelled by the Government is not adequate when the statements are taken in the inherently pressuring environment of custodial interrogation.
+2003.02-1183,0,15049,antonin_scalia,scotus_justice,164.727,168.525,"Whether it's prophylactic or not, it is a constitutional right, is it not?"
+2003.02-1183,0,35719,michael_r_dreeben,,170.754,181.778,"Justice Scalia, it is a constitutional right that is distinct from the right not to have one's compelled statements used against oneself."
+2003.02-1183,0,15049,antonin_scalia,scotus_justice,181.778,188.094,"Well, so is the constitutional right not to be pistol-whipped in order to...  to confess."
+2003.02-1183,0,35719,michael_r_dreeben,,188.094,190.323,Well...
+2003.02-1183,0,15049,antonin_scalia,scotus_justice,190.323,197.398,"That's distinct from the introduction of the coerced confession at trial, but we don't distinguish between the two, do we?"
+2003.02-1183,0,35719,michael_r_dreeben,,197.398,198.967,"Oh, I think you do, Justice Scalia."
+2003.02-1183,0,15049,antonin_scalia,scotus_justice,228.317,231.085,Let me...  let me take out the pistol-whipping.
+2003.02-1183,0,35719,michael_r_dreeben,,249.661,258.122,"I would...  I'm not sure, Justice Scalia, that your question addresses what Miranda addressed."
+2003.02-1183,0,15060,john_paul_stevens,scotus_justice,285.903,289.413,May...  may I ask a...  a modified version of Justice Scalia's question?
+2003.02-1183,0,35719,michael_r_dreeben,,312.819,321.447,"If your hypothetical, Justice Stevens, presupposes an assertion of the Fifth Amendment right and actual compulsion of the..."
+2003.02-1183,0,15139,stephen_g_breyer,scotus_justice,321.447,322.645,"The threat of contempt, yeah."
+2003.02-1183,0,35719,michael_r_dreeben,,322.645,339.53,"information, presumably under a grant of immunity, then the gun would not be admissible, because this Court has defined a violation of the Fifth Amendment that involves actual compulsion as entailing two different evidentiary consequences."
+2003.02-1183,0,15084,ruth_bader_ginsburg,scotus_justice,357.696,379.92,"Mr. Dreeben...  Mr....  Miranda itself said, but unless and until such warnings and waivers are demonstrated by the prosecution at trial, no evidence obtained as a result of interrogation can be used against him, no evidence as a result of interrogation."
+2003.02-1183,0,35719,michael_r_dreeben,,385.765,400.709,"It does, Justice Ginsburg, and there are many things in the Miranda opinion that have not stood the test of later litigation in this Court, because they extended the implications of Miranda far beyond where this Court has gone."
+2003.02-1183,0,15092,sandra_day_oconnor,scotus_justice,422.385,447.937,"Well, how are we going to determine actual compulsion if it's a situation where the police knowingly engage in conversation hoping to pick up information without giving the Miranda warnings, and then the minute they start hearing something useful, give the warnings, but then rely on what they learned earlier to further that information gathering."
+2003.02-1183,0,35719,michael_r_dreeben,,450.166,468.249,"Justice O'Connor, the determination of whether the statements reflect voluntariness at the outset and then a knowing and...  and intelligent waiver of Miranda warnings later on after they are given needs to be determined based on the totality of the circumstances."
+2003.02-1183,0,15060,john_paul_stevens,scotus_justice,492.519,495.37,May I ask you...  you mentioned the public safety exception.
+2003.02-1183,0,35719,michael_r_dreeben,,500.487,516.091,"No, we still do, because the crucial thing about Miranda that is not challenged here is that a failure to issue Miranda warnings, followed by custodial interrogation, means that the unwarned statement is inadmissible in the Government's case in chief."
+2003.02-1183,0,15060,john_paul_stevens,scotus_justice,518.486,523.028,"But the core ruling of the public safety exception, as I remember it, is that you can use the gun."
+2003.02-1183,0,35719,michael_r_dreeben,,523.028,527.365,"No, the core ruling of the public safety exception is that you can use the statement."
+2003.02-1183,0,15042,david_h_souter,scotus_justice,562.492,563.03,Mr....
+2003.02-1183,0,35719,michael_r_dreeben,,585.692,600.47,"Justice Souter, if...  if I accept that that accurately describes this case, it does not accurately describe the large class of cases in which physical evidence is discovered as a result of unwarned statements."
+2003.02-1183,0,15084,ruth_bader_ginsburg,scotus_justice,601.379,605.178,"Mr. Dreeben, doesn't it occur...  cover quite a wide number of cases?"
+2003.02-1183,0,35719,michael_r_dreeben,,641.792,650.625,"Justice Ginsburg, that is my position, but I don't think it would be a prudent policy for law enforcement to adopt."
+2003.02-1183,0,15042,david_h_souter,scotus_justice,681.627,686.928,You don't think the gun on the shelf in the guy's bedroom is going to be sufficient to prove knowing possession?
+2003.02-1183,0,35719,michael_r_dreeben,,686.928,689.157,"Oh, I do in this case, Justice Souter."
+2003.02-1183,0,15042,david_h_souter,scotus_justice,689.157,689.983,You know what's in your bedroom.
+2003.02-1183,0,35719,michael_r_dreeben,,689.983,707.733,"I think that the Court should decide this case not based on the particularities of this factual scenario, but on the class of cases in which physical evidence is at issue, and should regard the question of what incentives the police may have as informed by the totality of cases that may arise."
+2003.02-1183,0,15141,william_h_rehnquist,scotus_justice,763.793,773.741,"Well, Mr. Dreeben, supposing that the police decide that they're going to follow this strategy that is perhaps suggested by Justice Ginsburg."
+2003.02-1183,0,35719,michael_r_dreeben,,787.281,794.257,"It would be evidence that a defendant could argue is relevant, but I don't think that it would be evidence of compulsion."
+2003.02-1183,0,15113,anthony_m_kennedy,scotus_justice,807.882,821.628,"If we were to reject your position and...  and say that this is purely a constitutional violation, would you then lose the case?"
+2003.02-1183,0,35719,michael_r_dreeben,,821.628,823.114,"No, Justice Kennedy."
+2003.02-1183,0,15113,anthony_m_kennedy,scotus_justice,835.996,836.451,What's your...
+2003.02-1183,0,35719,michael_r_dreeben,,841.447,856.68,What the Court has done in the Fourth Amendment context is deal with an actual violation of the Fourth Amendment and establish very exclusion...  various exclusionary rules that are designed to deter that kind of police conduct.
+2003.02-1183,0,15141,william_h_rehnquist,scotus_justice,878.106,887.227,"Well, we said last year in Chavez that the Miranda...  that the Constitution was not violated by failure to give Miranda warnings until they were offered in evidence, didn't we?"
+2003.02-1183,0,35719,michael_r_dreeben,,887.227,889.251,"That...  that is correct, Mr. Chief Justice."
+2003.02-1183,0,15084,ruth_bader_ginsburg,scotus_justice,891.768,894.906,"Is it correct, was there a majority to take that position?"
+2003.02-1183,0,15113,anthony_m_kennedy,scotus_justice,894.906,895.733,"That was the trial court's opinion, wasn't it?"
+2003.02-1183,0,15141,william_h_rehnquist,scotus_justice,895.733,899.281,That...  that...  I believe to...  you're taking all the opinions together.
+2003.02-1183,0,35719,michael_r_dreeben,,900.767,905.863,I think this Court will be better able than I am to say what Chavez held.
+2003.02-1183,0,15113,anthony_m_kennedy,scotus_justice,937.07,949.891,"Is part of your...  is...  is part of your reasoning that in the Fourth Amendment violation case, exclusion is the...  really the best available, most direct remedy?"
+2003.02-1183,0,35719,michael_r_dreeben,,965.744,966.487,That...  that's...
+2003.02-1183,0,15113,anthony_m_kennedy,scotus_justice,966.487,967.147,thrust of the argument.
+2003.02-1183,0,35719,michael_r_dreeben,,967.147,969.171,"That's the core of it, Justice Kennedy."
+2003.02-1183,0,15139,stephen_g_breyer,scotus_justice,990.514,992.493,What's the theory of the compulsion?
+2003.02-1183,0,35719,michael_r_dreeben,,1018.211,1043.93,"Justice Breyer, as the Court explained it in its immunity line of cases, the starting point of analysis is that a defendant under the Fifth Amendment can claim his privilege against testifying based not only on incrimination from the statements that he makes, but also that evidence that the Government can obtain as a result of the statements is incriminating."
+2003.02-1183,0,15139,stephen_g_breyer,scotus_justice,1071.71,1073.446,So why doesn't all that apply here?
+2003.02-1183,0,35719,michael_r_dreeben,,1105.89,1118.993,"Well, the...  the distinction between this situation and the true compulsion situation is, Miranda does not involve an actual finding of compulsion, and the Court has been very frank about this."
+2003.02-1183,0,15113,anthony_m_kennedy,scotus_justice,1168.079,1185.334,"So is this distinction that the...  that...  that one case is just more egregious, more an affront to the Constitution, more dangerous, i.e., physical compulsion as opposed to the compulsion that's just presumed from Miranda?"
+2003.02-1183,0,35719,michael_r_dreeben,,1185.334,1189.627,"One case, Justice Kennedy, involves a literal violation of the Fifth Amendment."
+2003.02-1183,0,15113,anthony_m_kennedy,scotus_justice,1192.599,1194.435,"Well, then...  then you're back into metaphysics."
+2003.02-1183,0,35719,michael_r_dreeben,,1194.435,1212.456,"It is a little metaphysical, Justice Kennedy, but there's a...  a pot of truth, I think, a pot of gold at the end of the rainbow here, which is that the Miranda presumption does not mean, this Court has held, that a statement is actually compelled."
+2003.02-1183,0,15113,anthony_m_kennedy,scotus_justice,1218.65,1224.345,But you don't think we should differentiate based on the gravity of the...  of the wrong in either case?
+2003.02-1183,0,35719,michael_r_dreeben,,1224.345,1227.111,"You could look at it that...  that way, Justice Kennedy."
+2003.02-1183,0,15060,john_paul_stevens,scotus_justice,1261.269,1262.384,"May...  may I ask this question, Mr. Dreeben?"
+2003.02-1183,0,35719,michael_r_dreeben,,1276.046,1286.41,"I...  I...  I don't want to go off into an excursion into rules of law that might occur to me as I stand here, Justice Stevens."
+2003.02-1183,0,15060,john_paul_stevens,scotus_justice,1291.666,1295.01,My understand...  you're...  you're...  there's...  there's a lot in the case that support what you say.
+2003.02-1183,0,35719,michael_r_dreeben,,1304.92,1305.579,It...
+2003.02-1183,0,15060,john_paul_stevens,scotus_justice,1305.579,1309.089,But you say that's new...  that's not true in this line of...  this area of the law?
+2003.02-1183,0,35719,michael_r_dreeben,,1309.089,1321.266,"There is language in the Miranda opinion, as Justice Ginsburg has mentioned, that would support the view that the original vision of Miranda was that it would constitute compulsion..."
+2003.02-1183,0,15060,john_paul_stevens,scotus_justice,1321.266,1321.842,Right.
+2003.02-1183,0,35719,michael_r_dreeben,,1321.842,1323.783,not merely presume it.
+2003.02-1183,0,15060,john_paul_stevens,scotus_justice,1351.852,1360.397,"Of course, one of the benefits of...  under the Miranda analysis, we will...  we avoid the necessity of resolving difficult issues of fact sometimes."
+2003.02-1183,0,35719,michael_r_dreeben,,1366.425,1377.82,"Well, I think the Court has put itself back into it by adopting the holdings that permit statements that are not warned to be used for impeachment and to be used to obtain leads for other witnesses."
+2003.02-1183,0,15113,anthony_m_kennedy,scotus_justice,1377.82,1382.772,"Well, I guess we tell juries they can disregard presumptions, but they can't disregard facts."
+2003.02-1183,0,35719,michael_r_dreeben,,1382.772,1394.289,"And I think that that's what the Court has really decided is the right approach when you are outside the core concern that the Miranda Court was addressing, namely the use of the unwarned statement itself."
+2003.02-1183,0,15042,david_h_souter,scotus_justice,1412.039,1418.355,"It's a terrible cost, but it's a terrible cost for which the law provides a ready means of avoidance."
+2003.02-1183,0,35719,michael_r_dreeben,,1433.959,1435.035,"Well, I..."
+2003.02-1183,0,15042,david_h_souter,scotus_justice,1435.035,1436.438,and is a...  let me just finish this sentence.
+2003.02-1183,0,35719,michael_r_dreeben,,1467.274,1473.468,"Well, there...  I...  the argument based on cost, Justice Souter, is...  is not weak, because the costs are quite real."
+2003.02-1183,0,15042,david_h_souter,scotus_justice,1476.031,1479.579,"The costs are quite real, but the state knows how to avoid having to pay those costs."
+2003.02-1183,0,35719,michael_r_dreeben,,1480.489,1494.995,"This Court has repeatedly recognized though that there are situations in which there are ambiguities in the way that Miranda actually applies, and law enforcement officers are going to make mistakes in the way that they apply Miranda."
+2003.02-1183,0,15084,ruth_bader_ginsburg,scotus_justice,1494.995,1506.7,"I thought the main rule was, the police, when they take someone into custody, are supposed to give them four warnings, and that seems to me a simple, clear rule."
+2003.02-1183,0,35719,michael_r_dreeben,,1515.411,1518.096,"Yes, Justice Ginsburg."
+2003.02-1183,0,15042,david_h_souter,scotus_justice,1564.08,1572.914,"Then...  then why do we have...  if that's the case, why do we have a case coming up in...  in a few minutes in which a...  a contrary policy has been adopted?"
+2003.02-1183,0,35719,michael_r_dreeben,,1586.66,1593.43,"Justice Souter, I think as the Court will hear more in the next hour, the...  the officer in that case acknowledged that he was rolling the dice."
+2003.02-1183,0,15042,david_h_souter,scotus_justice,1595.249,1597.6,And there was a policy to roll the dice.
+2003.02-1183,0,35719,michael_r_dreeben,,1597.6,1602.058,That officer testified that he had been trained to do that...
+2003.02-1183,0,15042,david_h_souter,scotus_justice,1602.058,1602.512,Yeah.
+2003.02-1183,0,35719,michael_r_dreeben,,1602.512,1604.604,and he decided that...  that he would in that case.
+2003.02-1183,0,15042,david_h_souter,scotus_justice,1621.005,1635.495,"No, I...  I'm...  I'm sure that that is the FBI policy, but it...  the point is, there is a substantial, apparently a substantial body of thought outside the FBI within American law enforcement that dice-rolling pays off."
+2003.02-1183,0,35719,michael_r_dreeben,,1635.495,1644.866,"Well, it...  I think that in many cases it pays off with risks that responsible law enforcement officers often choose not to run."
+2003.02-1183,0,15141,william_h_rehnquist,scotus_justice,1647.633,1648.665,"Very well, Mr. Dreeben."
+2003.02-1183,1,33688,jill_m_wichlens,,1650.744,1655.557,"Thank you, Mr. Chief Justice, and may it please the Court:"
+2003.02-1183,1,15141,william_h_rehnquist,scotus_justice,1681.48,1691.883,"Yeah, but I think, Ms. Wichlens, if you read through the entire opinion in Dickerson, it's clear that the warnings are required in order to make the statements admissible."
+2003.02-1183,1,33688,jill_m_wichlens,,1699.935,1704.355,"That's correct, Your Honor, but in this case they are seeking to admit the evidence."
+2003.02-1183,1,15092,sandra_day_oconnor,scotus_justice,1718.063,1719.587,"Well, is...  isn't this a fruits case?"
+2003.02-1183,1,33688,jill_m_wichlens,,1719.587,1721.073,"It is a fruits case, Your Honor."
+2003.02-1183,1,15092,sandra_day_oconnor,scotus_justice,1721.073,1721.611,It's not the statement.
+2003.02-1183,1,33688,jill_m_wichlens,,1721.611,1722.437,Correct.
+2003.02-1183,1,15092,sandra_day_oconnor,scotus_justice,1722.437,1725.659,It is...  it is derivatively obtained information.
+2003.02-1183,1,33688,jill_m_wichlens,,1725.659,1726.857,"Absolutely, absolutely."
+2003.02-1183,1,15092,sandra_day_oconnor,scotus_justice,1726.857,1728.222,Which might make a difference to you.
+2003.02-1183,1,33688,jill_m_wichlens,,1728.222,1729.724,"It could make a difference, and..."
+2003.02-1183,1,15092,sandra_day_oconnor,scotus_justice,1729.724,1731.089,At least I've thought so.
+2003.02-1183,1,33688,jill_m_wichlens,,1731.089,1743.099,"Absolutely, Your Honor, and following up on a question asked by Justice Kennedy, whether, if this is a constitutional violation, the derivative evidence rule, the fruits rule, would apply."
+2003.02-1183,1,15113,anthony_m_kennedy,scotus_justice,1752.387,1768.006,"Well, what...  what's the magic about that metaphysical rule when we're talking about a different amendment and a different kind of statement or a different kind of...  a different kind of evidence than is in the...  than the rule itself was designed for primarily?"
+2003.02-1183,1,33688,jill_m_wichlens,,1770.963,1782.563,"Your Honor, I'm speaking of Wong Sun for the general proposition that when we have a constitutional violation, turning to the Fifth Amendment specifically, the amendment that we're, of course, concerned with here."
+2003.02-1183,1,15139,stephen_g_breyer,scotus_justice,1817.819,1836.85,"Why...  why would there be any cost here to anything if you took the position, as we might take, that if a policeman goes in and purposely doesn't give the warnings when he knows that he should, or even if he reasonably should know and doesn't, we're not going to let in derivatives."
+2003.02-1183,1,33688,jill_m_wichlens,,1836.85,1837.715,Your Honor...
+2003.02-1183,1,15139,stephen_g_breyer,scotus_justice,1837.715,1851.34,"But in the unusual case, we're quite...  it was an honest mistake, as it could be here, because he tried to give the warnings and the defendant said, no, no, I know what they are, okay."
+2003.02-1183,1,33688,jill_m_wichlens,,1854.683,1860.089,"Justice Breyer, we need a bright line in this area of the law."
+2003.02-1183,1,15141,william_h_rehnquist,scotus_justice,1866.488,1878.543,"Well, we've had...  we've had, Ms. Wichlens, probably somewhere between 40 and 50 cases since Miranda was decided, deciding was this interrogation or was it not, was this custody or was it not."
+2003.02-1183,1,33688,jill_m_wichlens,,1882.38,1894.64,"I think Your Honor's cases, which were, particularly in the early years following Miranda, have now made those rules quite clear what is interrogation, what is custody..."
+2003.02-1183,1,15049,antonin_scalia,scotus_justice,1894.64,1902.237,"Well, we...  we apply in this area, as regrettably in a lot of others, what we call the totality of the circumstances test."
+2003.02-1183,1,33688,jill_m_wichlens,,1903.64,1904.921,Well...
+2003.02-1183,1,15049,antonin_scalia,scotus_justice,1904.921,1907.029,It seems to me the fuzziest of all lines.
+2003.02-1183,1,33688,jill_m_wichlens,,1907.029,1917.553,"For the voluntariness determination, it is a fuzzy totality of the circumstances, but no, in Miranda, we apply bright lines determining whether there was interrogation, whether there was custody."
+2003.02-1183,1,15139,stephen_g_breyer,scotus_justice,1922.094,1930.806,"Well, the brightest line, it seems to me, would be if the policeman knew or should have known that he was supposed to give a warning, fine, the evidence stays out."
+2003.02-1183,1,33688,jill_m_wichlens,,1930.806,1931.753,Your Honor...
+2003.02-1183,1,15139,stephen_g_breyer,scotus_justice,1931.753,1941.374,"But now all we're excluding, we're just letting in evidence in those cases where it genuinely is fuzzy and no policeman knows what he's supposed to do, or...  or it's at least reasonable for him not to know."
+2003.02-1183,1,33688,jill_m_wichlens,,1959.988,1967.668,"The answer to that is, drawing that bright line, if it is one, Your Honor, I think does require us to get inside the head of the police officer."
+2003.02-1183,1,15049,antonin_scalia,scotus_justice,1977.781,1985.788,"We're...  we're...  we're saying whether a reasonable police officer in the...  in the position of this police officer, would have...  would have made the mistake."
+2003.02-1183,1,33688,jill_m_wichlens,,1985.788,1986.615,If...
+2003.02-1183,1,15049,antonin_scalia,scotus_justice,1986.615,1989.875,"Just as...  just as you say, you say for custody we apply a bright line."
+2003.02-1183,1,33688,jill_m_wichlens,,2000.732,2001.93,"Perhaps, Your Honor, I..."
+2003.02-1183,1,15049,antonin_scalia,scotus_justice,2001.93,2003.333,That...  that is anything but bright.
+2003.02-1183,1,33688,jill_m_wichlens,,2003.333,2004.902,Perhaps I shouldn't say bright line.
+2003.02-1183,1,15049,antonin_scalia,scotus_justice,2015.926,2016.092,Okay.
+2003.02-1183,1,33688,jill_m_wichlens,,2017.95,2018.488,Under an...
+2003.02-1183,1,15049,antonin_scalia,scotus_justice,2018.488,2033.47,"If a reasonable police officer in the position of this police officer would...  would have been confused about the necessity of giving a Miranda warning, then you're...  we're at a different situation."
+2003.02-1183,1,33688,jill_m_wichlens,,2033.47,2040.446,"And if it is an objective test, Justice Scalia, then in this case the police officer fails that test."
+2003.02-1183,1,15092,sandra_day_oconnor,scotus_justice,2040.446,2042.182,"Well, not necessarily."
+2003.02-1183,1,33688,jill_m_wichlens,,2049.224,2053.178,"The record shows that the detective said, you have the right to remain silent."
+2003.02-1183,1,15139,stephen_g_breyer,scotus_justice,2067.379,2071.654,"No, wait, you left out...  he said it twice, you have the right to remain silent."
+2003.02-1183,1,33688,jill_m_wichlens,,2075.824,2076.024,Correct.
+2003.02-1183,1,15139,stephen_g_breyer,scotus_justice,2076.024,2079.079,"And the...  Patane says, yeah, yeah, I do."
+2003.02-1183,1,33688,jill_m_wichlens,,2079.079,2079.534,Correct.
+2003.02-1183,1,15139,stephen_g_breyer,scotus_justice,2080.377,2081.225,I know my rights.
+2003.02-1183,1,33688,jill_m_wichlens,,2081.225,2085.578,"What he didn't say was, do you know your right to have counsel here present, Mr. Patane?"
+2003.02-1183,1,15139,stephen_g_breyer,scotus_justice,2085.578,2091.793,"No, no, I understand that a lawyer might have...  who really knows this area, might have understood that you have to do more than that."
+2003.02-1183,1,33688,jill_m_wichlens,,2109.089,2112.394,It is absolutely fair to require that of a police officer.
+2003.02-1183,1,15092,sandra_day_oconnor,scotus_justice,2123.829,2127.544,"Well, we're talking here about fruits, the location of the gun and the gun."
+2003.02-1183,1,33688,jill_m_wichlens,,2127.544,2127.916,Correct.
+2003.02-1183,1,15092,sandra_day_oconnor,scotus_justice,2127.916,2140.88,"And ever since Oregon v. Elstad, which said it didn't apply to fruits, all the courts of appeals in the Federal circuits, but one, have said it comes in."
+2003.02-1183,1,33688,jill_m_wichlens,,2140.88,2142.405,"That's correct, Your Honor."
+2003.02-1183,1,15092,sandra_day_oconnor,scotus_justice,2142.405,2146.12,I...  this is the...  from the one circuit that holds otherwise.
+2003.02-1183,1,33688,jill_m_wichlens,,2146.12,2146.492,That's correct.
+2003.02-1183,1,15092,sandra_day_oconnor,scotus_justice,2146.492,2149.647,"And it hasn't resulted in disaster, has it?"
+2003.02-1183,1,33688,jill_m_wichlens,,2149.647,2157.637,"I think it is approaching disaster, Your Honor, and the case that's going to follow this one is at one end of the spectrum."
+2003.02-1183,1,15141,william_h_rehnquist,scotus_justice,2168.494,2179.064,"When you say violate, Miranda, Miranda is...  is not a command that prohibits police officers, or that requires police officers to give the statements."
+2003.02-1183,1,33688,jill_m_wichlens,,2185.129,2187.609,"I respectfully disagree with that, Your Honor."
+2003.02-1183,1,15141,william_h_rehnquist,scotus_justice,2191.24,2194.667,"I think...  well, I think, having written Dickerson, I think differently."
+2003.02-1183,2,35719,michael_r_dreeben,,3341.357,3344.163,"Thank you, Mr. Chief Justice."
+2003.02-1183,2,15060,john_paul_stevens,scotus_justice,3434.897,3442.866,"Well, I understand, but I noticed that in your brief, in your oral statement you said that they were unanimous, your brief said there was a strong majority in the Federal courts."
+2003.02-1183,2,35719,michael_r_dreeben,,3446.785,3457.105,"My understanding is that there are eight Federal circuits before Dickerson, including the Tenth Circuit, that it held that suppression of derivative physical evidence was not warranted."
+2003.02-1183,2,15139,stephen_g_breyer,scotus_justice,3482.551,3484.392,"Well, wait, can I...  if you have a minute."
+2003.02-1183,2,35719,michael_r_dreeben,,3491.535,3499.708,"In our view, Justice Breyer, no different rule is warranted in that situation, because Miranda continues to protect against the risk that it's aimed at."
+2003.02-1183,2,15141,william_h_rehnquist,scotus_justice,3507.343,3508.557,"Thank you, Mr. Dreeben."

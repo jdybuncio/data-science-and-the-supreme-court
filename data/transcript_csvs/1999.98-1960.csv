@@ -1,0 +1,194 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1999.98-1960,0,15141,william_h_rehnquist,scotus_justice,0.0,9.809,"We'll hear argument now in Number 98-1960, Cortez Byrd Chips, Inc. v. Bill Harbert Construction Company."
+1999.98-1960,0,20609,daniel_h_bromberg,,11.09,15.01,"Mr. Chief Justice, and may it please the Court:"
+1999.98-1960,0,15092,sandra_day_oconnor,scotus_justice,69.894,79.578,"Mr. Bromberg, do you think that the word may in section 9, 10, and 11 must be interpreted the same way?"
+1999.98-1960,0,20609,daniel_h_bromberg,,87.387,88.34,"--No, Your Honor."
+1999.98-1960,0,15049,antonin_scalia,scotus_justice,113.455,115.891,"Well, it may be permissive only because it's conditional."
+1999.98-1960,0,20609,daniel_h_bromberg,,141.898,146.911,"Your Honor, I think that is correct as far as it pertains--"
+1999.98-1960,0,15049,antonin_scalia,scotus_justice,146.911,149.16,So wouldn't that explain the may?
+1999.98-1960,0,20609,daniel_h_bromberg,,154.862,166.108,"--Well, Your Honor, the word may usually connotes discretion, and you're suggesting that the discretion is to not bring an action."
+1999.98-1960,0,15049,antonin_scalia,scotus_justice,166.108,166.545,Right.
+1999.98-1960,0,20609,daniel_h_bromberg,,166.545,168.356,That is a possible interpretation.
+1999.98-1960,0,15049,antonin_scalia,scotus_justice,168.356,168.935,There you are.
+1999.98-1960,0,20609,daniel_h_bromberg,,171.604,179.649,"Well, Your Honor, this court has interpreted may, of course, to indicate discretion."
+1999.98-1960,0,15084,ruth_bader_ginsburg,scotus_justice,179.649,182.069,But isn't there one case that doesn't do that?
+1999.98-1960,0,20609,daniel_h_bromberg,,198.579,233.877,"Your Honor, that's correct, Radzanower did apply prior decisions of this Court, but the national bank provision I would suggest is very different from the provision that is before this Court, because it was clear that Congress had a purpose to protect a particular party by limiting venue to a particular district and it is, I think, important to note that the provision at issue there, which of course has since been superseded, dealt not only with venue in Federal courts, but also with venue in State courts as well."
+1999.98-1960,0,15084,ruth_bader_ginsburg,scotus_justice,235.611,254.134,"There's a curiosity about the procedural history of this case, and I wonder if you could address it, and that is, as I understand it, the circuit, the Eleventh Circuit was relying on old Fifth Circuit precedent, which was since changed in the Fifth Circuit, is that right?"
+1999.98-1960,0,20609,daniel_h_bromberg,,254.134,255.071,--That's correct.
+1999.98-1960,0,15084,ruth_bader_ginsburg,scotus_justice,255.071,270.003,"And so the panel was stuck, yet you didn't ask for an en banc so the new Eleventh could consider the question afresh in light of what the current Fifth Circuit has held."
+1999.98-1960,0,20609,daniel_h_bromberg,,270.003,270.785,"Yes, Your Honor."
+1999.98-1960,0,15084,ruth_bader_ginsburg,scotus_justice,281.764,284.748,Even though most of the circuits go your way.
+1999.98-1960,0,20609,daniel_h_bromberg,,284.748,286.465,"Yes, Your Honor."
+1999.98-1960,0,15113,anthony_m_kennedy,scotus_justice,378.007,386.613,"Can you tell me, is it always crystal clear which district the award has been made in?"
+1999.98-1960,0,20609,daniel_h_bromberg,,395.577,399.639,"Your Honor, I am aware that there is some litigation on that question."
+1999.98-1960,0,15113,anthony_m_kennedy,scotus_justice,401.966,406.73,"If that is true, does that help or hurt you in your interpretation of the statute?"
+1999.98-1960,0,20609,daniel_h_bromberg,,412.696,430.346,"I think it does, because I think what respondent has argued is that their interpretation better fits with the policies underlying the act, because it would eliminate any questions about the proper venue, and would therefore be more consistent with the speedy and efficient resolution of disputes."
+1999.98-1960,0,15084,ruth_bader_ginsburg,scotus_justice,430.346,437.922,"In this case, it was not the parties but was the American Arbitration Association that specified a place for the arbitration, is that so?"
+1999.98-1960,0,20609,daniel_h_bromberg,,437.922,439.031,That's correct.
+1999.98-1960,0,15084,ruth_bader_ginsburg,scotus_justice,452.448,468.192,"The parties did stipulate for the application of Mississippi law, and yet, although they might have, they didn't provide for a forum for the enforcement of the award."
+1999.98-1960,0,20609,daniel_h_bromberg,,468.192,477.89,"That's correct, Your Honor, and I think that brings up one point, that... one difficulty with the restrictive interpretation that respondents have suggested."
+1999.98-1960,0,15049,antonin_scalia,scotus_justice,541.367,543.568,"Excuse me, applications to vacate would... no."
+1999.98-1960,0,20609,daniel_h_bromberg,,545.458,546.88,"I may have misspoke, Your Honor."
+1999.98-1960,0,15049,antonin_scalia,scotus_justice,546.88,549.364,Applications to confirm would be under 9.
+1999.98-1960,0,20609,daniel_h_bromberg,,549.364,551.801,Applications to confirm would be under 9.
+1999.98-1960,0,15049,antonin_scalia,scotus_justice,551.801,552.566,Applications to confirm would be under 9.
+1999.98-1960,0,20609,daniel_h_bromberg,,552.566,555.159,"And applications to correct, modify, or vacate--"
+1999.98-1960,0,15049,antonin_scalia,scotus_justice,555.159,555.814,Right.
+1999.98-1960,0,20609,daniel_h_bromberg,,555.814,560.516,--would be judged under the general rule which governs forum selection clauses.
+1999.98-1960,0,15141,william_h_rehnquist,scotus_justice,601.048,607.545,"Aren't the parties going to often be disputing which is the venue that they want, one wants one and one wants the other?"
+1999.98-1960,0,20609,daniel_h_bromberg,,607.545,623.554,"--They may, Your Honor, and in that situation I would suggest that a permissive interpretation would also be the more reasonable and sensible one, because it would allow for transfers under 1404(a) when a venue that is selected is inconvenient."
+1999.98-1960,0,15084,ruth_bader_ginsburg,scotus_justice,623.554,626.866,But what about the race to the courthouse problem?
+1999.98-1960,0,20609,daniel_h_bromberg,,641.751,660.416,"Well, Your Honor, I think that a restrictive interpretation would solve some but not all of that problem, because jurisdiction to enforce the FAA is concurrent with the State courts, and I don't think that sections 9, 10, and 11, which refer only to the United States district courts, would apply to State courts."
+1999.98-1960,0,15042,david_h_souter,scotus_justice,672.147,702.336,"Is there an argument to be made as with respect to convenience that if there really is a mutually convenient venue the parties will have selected it and, if they have selected it, the scheme of the statute is that, having selected it once, that should be the venue for all times whenever any issue on the merits is being litigated, whether it litigated before the arbitrator, or litigated later on on a motion to vacate or to modify."
+1999.98-1960,0,20609,daniel_h_bromberg,,704.789,708.553,"Your Honor, I think there are many situations in which that argument would not apply."
+1999.98-1960,0,15042,david_h_souter,scotus_justice,717.081,720.299,"Because, what, they want the arbitrator who lives there, is that--"
+1999.98-1960,0,20609,daniel_h_bromberg,,720.299,728.404,"--They may want the arbitrator who lives there, they may be trying to accommodate the convenience of witnesses, neither of which may be involved in a post arbitration proceeding."
+1999.98-1960,0,15049,antonin_scalia,scotus_justice,731.653,738.994,"--Well, they may not trust the courts of that jurisdiction, although they're willing to trust an arbitrator who's selected by the parties."
+1999.98-1960,0,20609,daniel_h_bromberg,,738.994,741.274,"That is quite possible as well, Your Honor."
+1999.98-1960,0,15049,antonin_scalia,scotus_justice,789.833,805.89,"Now, it would not be the consequence of your interpretation, would it, that if the parties agree in their arbitration agreement as to where litigation concerning the arbitration award will be conducted, that will govern?"
+1999.98-1960,0,20609,daniel_h_bromberg,,805.89,807.857,It would not be?
+1999.98-1960,0,15049,antonin_scalia,scotus_justice,807.857,808.857,It would not be.
+1999.98-1960,0,20609,daniel_h_bromberg,,809.263,814.355,"No, that would be, with I think two caveats, Your Honor."
+1999.98-1960,0,15049,antonin_scalia,scotus_justice,824.789,826.366,"Well, that's... of course."
+1999.98-1960,0,20609,daniel_h_bromberg,,829.99,830.584,Right.
+1999.98-1960,0,15049,antonin_scalia,scotus_justice,830.584,844.079,"--even if you had an agreement, would allow an order to vacate to be brought in the district where the award was made, whether or not the parties agreed to another district, isn't that right?"
+1999.98-1960,0,20609,daniel_h_bromberg,,844.079,848.124,"I think that's correct, Your Honor, and I would suggest that there is a sound reason for that."
+1999.98-1960,0,15141,william_h_rehnquist,scotus_justice,879.456,881.955,Can a defendant waive proper venue?
+1999.98-1960,0,20609,daniel_h_bromberg,,881.955,885.641,"Under a permissive interpretation, I think they can."
+1999.98-1960,0,15141,william_h_rehnquist,scotus_justice,885.641,887.016,"I mean, generally speaking."
+1999.98-1960,0,20609,daniel_h_bromberg,,898.402,899.668,"Yes, Your Honor."
+1999.98-1960,0,15084,ruth_bader_ginsburg,scotus_justice,903.417,911.446,It's generally the case that venue... venue is a highly waivable thing in the pecking order.
+1999.98-1960,0,20609,daniel_h_bromberg,,920.487,936.528,"Your Honor, I think that's correct, but it's not clear to me that that would be the case under the restrictive interpretation that respondents have suggested, for the reason that it's unclear under their interpretation why Congress would restrict applications to vacate to a single district."
+1999.98-1960,0,15049,antonin_scalia,scotus_justice,948.71,956.519,"But under your interpretation Congress also, you admit that 10 is exclusive, don't you?"
+1999.98-1960,0,20609,daniel_h_bromberg,,956.519,958.879,"That 10 is exclusive, Your Honor?"
+1999.98-1960,0,15049,antonin_scalia,scotus_justice,958.879,959.331,Yes.
+1999.98-1960,0,20609,daniel_h_bromberg,,970.124,971.108,"Yes, Your Honor."
+1999.98-1960,0,15084,ruth_bader_ginsburg,scotus_justice,971.108,973.811,"Which is the suit that you brought, is a suit to vacate."
+1999.98-1960,0,20609,daniel_h_bromberg,,973.811,981.714,"That's correct, Your Honor, and the reason that we reach that position, Your Honor, is that we think that sections 9, 10, and 11 have to be construed together."
+1999.98-1960,0,15049,antonin_scalia,scotus_justice,1094.855,1109.145,"May I ask you, what happens to the authorities conferred upon the court by section 11 if the suit is not brought in the court specified by section 11?"
+1999.98-1960,0,20609,daniel_h_bromberg,,1136.556,1137.275,Your Honor--
+1999.98-1960,0,15049,antonin_scalia,scotus_justice,1137.275,1140.555,You think any United States court would have that authority anyway?
+1999.98-1960,0,20609,daniel_h_bromberg,,1140.555,1146.848,"--I think, Your Honor, that... yes, Your Honor, I think they would as part of--"
+1999.98-1960,0,15049,antonin_scalia,scotus_justice,1146.848,1147.52,Then why did they say it?
+1999.98-1960,0,20609,daniel_h_bromberg,,1147.52,1148.363,--of section 11.
+1999.98-1960,0,15049,antonin_scalia,scotus_justice,1148.363,1149.987,"Why did they say it, then?"
+1999.98-1960,0,20609,daniel_h_bromberg,,1149.987,1163.779,"I think section 11 has substantive provisions, and it also has venue provisions, and the substantive provisions, after this Court's decision in Southland, I would suggest, have to be read broadly to apply to any court that is--"
+1999.98-1960,0,15049,antonin_scalia,scotus_justice,1163.779,1164.919,Even a court under 1331?
+1999.98-1960,0,20609,daniel_h_bromberg,,1180.337,1191.269,"--I think, Your Honor, that this Court should read the reference to the United States court in and for the district wherein the award was made as an allusion back to the standards in section 9."
+1999.98-1960,0,15049,antonin_scalia,scotus_justice,1203.749,1212.261,"--Well, I'm sure it does refer back to section 9, but section 9 only applies to a certain court, a court in the district where the award was made."
+1999.98-1960,0,20609,daniel_h_bromberg,,1212.261,1213.12,Your Honor--
+1999.98-1960,0,15049,antonin_scalia,scotus_justice,1213.12,1216.385,"Now, you say section 9 is not exclusive, and you can certainly bring the suit in another court."
+1999.98-1960,0,20609,daniel_h_bromberg,,1239.83,1249.717,"--Your Honor, I'm not suggesting that this is a perfectly clearly drafted statute, but I would suggest that the scenario that you are posing would cause certain problems."
+1999.98-1960,0,15049,antonin_scalia,scotus_justice,1259.338,1260.291,It's not my scenario that would do that.
+1999.98-1960,0,20609,daniel_h_bromberg,,1269.709,1271.396,"--Your Honor, actually I would suggest that the--"
+1999.98-1960,0,15060,john_paul_stevens,scotus_justice,1271.396,1273.801,It always could be brought in the place where your parties agreed on.
+1999.98-1960,0,20609,daniel_h_bromberg,,1273.801,1274.566,"--I'm sorry, Your Honor."
+1999.98-1960,0,15060,john_paul_stevens,scotus_justice,1274.566,1280.002,"It always could be brought where the parties agreed to have it brought, which might be different from this provision."
+1999.98-1960,0,20609,daniel_h_bromberg,,1280.002,1282.096,Under our interpretation that would be correct.
+1999.98-1960,0,15060,john_paul_stevens,scotus_justice,1282.096,1282.799,"Well, that's true."
+1999.98-1960,0,15049,antonin_scalia,scotus_justice,1282.799,1297.67,"And Your Honor, I would suggest that the problem that... Justice Scalia, the problem that you're identifying is a problem with the restrictive interpretation that respondents have suggested, because under their interpretation, where there is a forum selection clause that is--"
+1999.98-1960,0,15060,john_paul_stevens,scotus_justice,1297.67,1297.965,Right.
+1999.98-1960,0,20609,daniel_h_bromberg,,1297.965,1304.9,"--enforceable under section 9, you may have to bring motions to vacate or motions to modify in one district and motions to confirm in another."
+1999.98-1960,0,15049,antonin_scalia,scotus_justice,1304.9,1312.74,"I guess we can decide that issue in a later case, and be treated to this whole thing again, right?"
+1999.98-1960,0,20609,daniel_h_bromberg,,1312.74,1326.814,"Your Honor, I'd also like to address one argument that respondent has made, and that's that their interpretation, by posing a rigid and restrictive rule, would serve the purposes of the Federal Arbitration Act."
+1999.98-1960,0,15141,william_h_rehnquist,scotus_justice,1363.503,1368.141,"You talk about concurrent jurisdiction in State courts, Mr. Bromberg."
+1999.98-1960,0,20609,daniel_h_bromberg,,1375.795,1384.979,"Well, Your Honor, I think that is an issue that this Court has debated long and hard in Southland and its progeny."
+1999.98-1960,0,15141,william_h_rehnquist,scotus_justice,1393.539,1401.725,"Yes, certainly substantive provisions in Southland were held to apply, but what about provisions to vacate awards and that sort of thing?"
+1999.98-1960,0,20609,daniel_h_bromberg,,1401.725,1417.094,"Well, Your Honor, certainly actions to vacate, some actions to vacate must be brought in State court, because, as this Court recognized in Moses H. Cone, the Federal Arbitration Act does not provide for independent Federal subject matter jurisdiction."
+1999.98-1960,0,15141,william_h_rehnquist,scotus_justice,1427.56,1430.373,Even though it was subject to the Federal Arbitration Act?
+1999.98-1960,0,20609,daniel_h_bromberg,,1430.373,1431.747,"That's correct, Your Honor."
+1999.98-1960,0,15141,william_h_rehnquist,scotus_justice,1573.455,1574.815,"Very well, Mr. Bromberg."
+1999.98-1960,1,42282,susan_s_wagner,,1576.565,1580.267,"Mr. Chief Justice, and may it please the Court:"
+1999.98-1960,1,15141,william_h_rehnquist,scotus_justice,1622.312,1624.015,"Now, where will we find these?"
+1999.98-1960,1,42282,susan_s_wagner,,1627.951,1634.136,--I'd like to direct your attention particularly to section 4 of the FAA.
+1999.98-1960,1,15141,william_h_rehnquist,scotus_justice,1641.946,1642.68,--Page what?
+1999.98-1960,1,42282,susan_s_wagner,,1642.68,1649.287,"And then the... I'm sorry, the modern version is on page 12 of the red brief."
+1999.98-1960,1,15141,william_h_rehnquist,scotus_justice,1649.287,1652.364,You say... is it set out in haec verba there?
+1999.98-1960,1,42282,susan_s_wagner,,1652.364,1655.127,I'm sorry?
+1999.98-1960,1,15141,william_h_rehnquist,scotus_justice,1655.127,1657.954,Are the words to section 4 set out at page 12?
+1999.98-1960,1,42282,susan_s_wagner,,1657.954,1702.202,"In page 11 of the... I'm sorry, page 11 of our brief cites the language of the original 1925 version, I believe, and what that says is that a party who seeks to compel arbitration, in other words, a pre-arbitration type of proceeding, such a party may petition any court of the United States, which save for the arbitration agreement... I'm paraphrasing... would have jurisdiction under the judicial code, which is now title 28, of the subject matter of the suit arising out of the controversy between the parties."
+1999.98-1960,1,15139,stephen_g_breyer,scotus_justice,1756.216,1759.042,Why would Congress want to have done such a thing?
+1999.98-1960,1,42282,susan_s_wagner,,1826.582,1833.517,"--Justice Breyer, you asked certainly a compound question, and I'll try to answer it in turn."
+1999.98-1960,1,15084,ruth_bader_ginsburg,scotus_justice,1874.315,1882.437,"If it were analogous to an appeal, then why did Congress provide in section 9 that it could be any place the parties pick?"
+1999.98-1960,1,42282,susan_s_wagner,,1882.437,1888.419,"--Because section 9, Your Honor, is not really analogous to appeal."
+1999.98-1960,1,15084,ruth_bader_ginsburg,scotus_justice,1895.339,1903.728,"But in a section 9 proceeding, wouldn't a motion to vacate modify the compulsory counterclaim?"
+1999.98-1960,1,42282,susan_s_wagner,,1905.116,1928.2,"--Yes, it would, and in that instance certainly you would end up with, if you were in two different... if the parties agreed to a forum for confirmation that was different from the location of the arbitration award you would have the proceeding then going forward in another location, and that would occur in that instance, so it would still--"
+1999.98-1960,1,15060,john_paul_stevens,scotus_justice,1928.2,1930.872,"I must say, I'm troubled by your analogy to appellate review."
+1999.98-1960,1,42282,susan_s_wagner,,1945.414,1947.257,"--That's right, and of course--"
+1999.98-1960,1,15060,john_paul_stevens,scotus_justice,1947.257,1956.097,"Or that any... it would only be Hawaii courts that would have any particular ability to review the matter, either, so I don't find your analogy very persuasive."
+1999.98-1960,1,42282,susan_s_wagner,,1956.097,1966.654,"--My question, Justice Stevens, was... or my answer was directed to the question, why would they want to do this, and I think that provides us an answer, and again, it's just guesswork as to why--"
+1999.98-1960,1,15139,stephen_g_breyer,scotus_justice,1966.654,1991.552,"Would they have wanted this situation where the parties say, we absolutely agree, absolutely agree that when it comes time to confirm this award it will be here, at our home in Hawaii, and they write it right in, we love Hawaii."
+1999.98-1960,1,42282,susan_s_wagner,,2010.39,2018.137,"--The answer to that question relates to the fact, Justice Breyer, that this is a venue provision."
+1999.98-1960,1,15139,stephen_g_breyer,scotus_justice,2050.625,2051.813,Does that... I don't know how that works.
+1999.98-1960,1,42282,susan_s_wagner,,2078.38,2080.426,--They certainly can do that.
+1999.98-1960,1,15139,stephen_g_breyer,scotus_justice,2080.426,2081.879,Does that... is that normal?
+1999.98-1960,1,42282,susan_s_wagner,,2081.879,2082.723,I don't know--
+1999.98-1960,1,15084,ruth_bader_ginsburg,scotus_justice,2082.723,2083.362,I mean--
+1999.98-1960,1,42282,susan_s_wagner,,2083.362,2098.201,"--I don't know that it's normal, Justice Breyer, for the parties ever to agree on what is the best venue, which is part of the problem here, is that the idea that the parties after the arbitration is over are going to get together and say, hey, let's agree, I mean, if they do that--"
+1999.98-1960,1,15084,ruth_bader_ginsburg,scotus_justice,2098.201,2100.732,--But the forum selection clause would come before that.
+1999.98-1960,1,42282,susan_s_wagner,,2112.059,2129.036,"--The agreement can provide a forum selection clause, but the parties could alternatively agree after the arbitration is over as to an appropriate forum, and again, precisely as Justice Breyer has pointed out, the court can say, well, do I have venue, and the parties can say, well, judge, we'd rather be here."
+1999.98-1960,1,15042,david_h_souter,scotus_justice,2129.036,2164.787,"Well, Ms. Wagner, your answer... I think, if I understand your answer, it assumes an answer to Justice Scalia's question about the significance in section 11 of apparently empowering that, the court particularly mentioned in section 11, with the authority to modify an award, and I take it your answer assumes that any court with jurisdiction would have the authority to do that if the parties otherwise waive the venue, any... otherwise waive the restrictive venue provision, is that right?"
+1999.98-1960,1,42282,susan_s_wagner,,2164.787,2181.516,"I would agree that if venue is properly conferred by waiver, or in the case of section 9 by a forum selection clause, that the court would have the power, then, to do whatever later comes up in that case."
+1999.98-1960,1,15042,david_h_souter,scotus_justice,2219.297,2226.217,What's the source of the power of a Federal court to modify awards if it isn't section 11?
+1999.98-1960,1,42282,susan_s_wagner,,2226.217,2250.973,"--The... section 11 empowers a court to modify an award, but the provision as to which court may modify the award is one of venue, so it's really a compound provision in the sense that it grants power to the district court but specifies a venue for exercise of that power."
+1999.98-1960,1,15113,anthony_m_kennedy,scotus_justice,2250.973,2253.956,So in this respect you're in agreement with your colleague.
+1999.98-1960,1,42282,susan_s_wagner,,2257.502,2258.627,I--
+1999.98-1960,1,15113,anthony_m_kennedy,scotus_justice,2258.627,2265.764,"On venue you disagree, but insofar as the substantive authority of the court, you both agree that the statute is, shall we say, severable?"
+1999.98-1960,1,42282,susan_s_wagner,,2265.764,2269.06,"--That... I do agree with that, Your Honor, yes."
+1999.98-1960,1,15060,john_paul_stevens,scotus_justice,2346.2,2348.2,May I just ask this question about section 4?
+1999.98-1960,1,42282,susan_s_wagner,,2353.291,2353.76,That's correct.
+1999.98-1960,1,15060,john_paul_stevens,scotus_justice,2353.76,2359.821,"Now, obviously, you couldn't authorize venue for such a suit in the place where arbitration had taken place."
+1999.98-1960,1,42282,susan_s_wagner,,2359.821,2361.071,That's correct.
+1999.98-1960,1,15060,john_paul_stevens,scotus_justice,2361.071,2372.536,"So that you could read this broadly and then say you have the additional situation, if an arbitration is out in Hawaii or some place it is also permissible there, and it would all fit together, it seems to me."
+1999.98-1960,1,42282,susan_s_wagner,,2386.796,2391.888,"Justice Stevens, certainly Congress could have done that, but they didn't choose to do that."
+1999.98-1960,1,15060,john_paul_stevens,scotus_justice,2394.388,2394.732,"Well, that's the issue."
+1999.98-1960,1,42282,susan_s_wagner,,2394.732,2396.529,"--Well, the language--"
+1999.98-1960,1,15060,john_paul_stevens,scotus_justice,2396.529,2399.121,It doesn't seem to me that section 4 adds any enlightenment on the issue.
+1999.98-1960,1,42282,susan_s_wagner,,2411.616,2423.423,"--We say that section 4 has to be compared and contrasted, that the language of section 4 has to be read alongside with 9, 10, and 11 to see that they provide different venue."
+1999.98-1960,1,15084,ruth_bader_ginsburg,scotus_justice,2443.259,2455.176,"But you've already said it isn't a single court, because you could choose to have the award confirmed by agreement, and then the modification would be a compulsory counterclaim."
+1999.98-1960,1,42282,susan_s_wagner,,2455.176,2456.239,That's correct.
+1999.98-1960,1,15084,ruth_bader_ginsburg,scotus_justice,2456.239,2462.237,And so it would be in a place other than the place where arbitration was held.
+1999.98-1960,1,42282,susan_s_wagner,,2494.804,2507.409,"Let me draw another analogy, Your Honor, with respect to that question, and that is a simple case of two corporations having a dispute arbitrate their dispute in Alabama."
+1999.98-1960,1,15084,ruth_bader_ginsburg,scotus_justice,2549.08,2553.126,I wasn't asking about every place where the defendant does business.
+1999.98-1960,1,42282,susan_s_wagner,,2576.886,2587.63,"--Of course, under modern venue statutes the... a corporate defendant could have multiple residence, which is the hypothetical that I presented, but even under old law--"
+1999.98-1960,1,15084,ruth_bader_ginsburg,scotus_justice,2587.63,2600.141,"Well, I thought there's... there's still a distinction between residing, which would be place of incorporation, principal place of business, and other places where the defendant is doing business."
+1999.98-1960,1,42282,susan_s_wagner,,2600.141,2608.733,"--Under the old law there might have been just one residence, because the residence definitions have come since that time, since the original FAA--"
+1999.98-1960,1,15084,ruth_bader_ginsburg,scotus_justice,2608.733,2612.683,But doesn't 1391... do we have 1391 some place?
+1999.98-1960,1,42282,susan_s_wagner,,2612.683,2614.808,"--Yes, Your Honor."
+1999.98-1960,1,15042,david_h_souter,scotus_justice,2675.455,2686.513,"But why do you say it is presumptively convenient, because that was sort of the point that an earlier question of mine was aiming at, and I thought I got a very good answer to it."
+1999.98-1960,1,42282,susan_s_wagner,,2718.439,2740.788,"First, the arbitrator or the arbitration association is charged with the responsibility for selecting a convenient forum, and again, Congress, Your Honor, was trying to take those kinds of mundane considerations away from a position where they would be second-guessed by later court proceedings."
+1999.98-1960,1,15042,david_h_souter,scotus_justice,2751.581,2756.688,"Well, the place of the arbitration will not ne second-guessed, but that's not the question we've got."
+1999.98-1960,1,42282,susan_s_wagner,,2756.688,2778.897,"But the decision that the arbitration is the most convenient forum for the parties can carry forward with respect to later review, and second, to answer your question, certainly the defendant's residence may not be the best forum for review for a number of reasons."
+1999.98-1960,1,15049,antonin_scalia,scotus_justice,2818.46,2840.154,"Ms. Wagner, why shouldn't we just apply... you know, we have expressed a presumption in some of our cases that where you have a special venue provision we will presume it to be supplementary and not displacive unless it is made clear that the opposite is intended."
+1999.98-1960,1,42282,susan_s_wagner,,2861.037,2865.255,"Justice Scalia, the presumption has not been stated in those general terms."
+1999.98-1960,1,15049,antonin_scalia,scotus_justice,2877.72,2878.954,"Well, that's what we said."
+1999.98-1960,1,42282,susan_s_wagner,,2889.575,2893.574,"But that is what the cases say, and there is--"
+1999.98-1960,1,15049,antonin_scalia,scotus_justice,2893.574,2893.964,--I think not.
+1999.98-1960,1,42282,susan_s_wagner,,2907.459,2911.24,"--I have two responses to that, Justice Scalia."
+1999.98-1960,1,15049,antonin_scalia,scotus_justice,2911.24,2913.332,"And if we haven't said it, why shouldn't we say it?"
+1999.98-1960,1,42282,susan_s_wagner,,2913.332,2929.185,"There is a countervailing presumption that specific controls over general, that if Congress specified venue or had a specific venue provision for a particular act, particularly one that's incorporated as part of an overall legislative scheme--"
+1999.98-1960,1,15084,ruth_bader_ginsburg,scotus_justice,2929.185,2935.322,"But Ms. Wagner, that's hard to apply here, because the particular could be any place under the choice of forum clause--"
+1999.98-1960,1,42282,susan_s_wagner,,2935.322,2936.353,--That's correct.
+1999.98-1960,1,15084,ruth_bader_ginsburg,scotus_justice,2936.353,2943.164,"--which you concede, and then vacation comes in as a compulsory counterclaim, so it's the most general."
+1999.98-1960,1,42282,susan_s_wagner,,2944.585,2970.637,"It is... Your Honor, it is venue, certainly, and certainly, although this provides for exclusive forum, it is simply venue and can be waived, but the statute, by default, in the absence of such a post arbitration agreement with respect to 9 or 10, the default is whatever the arbitrator has decided or the parties have decided is the appropriate forum for the arbitration proceedings."
+1999.98-1960,1,15139,stephen_g_breyer,scotus_justice,2974.839,2985.07,"They say, if in doubt, and all the canons are pointing in different directions, and the language is somewhat ambiguous, I guess you could try to do what seems to make the most sense."
+1999.98-1960,1,42282,susan_s_wagner,,2985.07,2985.914,--Well--
+1999.98-1960,1,15139,stephen_g_breyer,scotus_justice,2985.914,3001.422,"And in your particular case you've said it does make sense to say that where Congress... what Congress intended was, well, where the parties don't decide it, and you say we're going to arbitrate in Alaska, do everything in Alaska."
+1999.98-1960,1,42282,susan_s_wagner,,3003.422,3003.422,--And--
+1999.98-1960,1,15139,stephen_g_breyer,scotus_justice,3003.422,3030.895,"But they pointed out about six ways in which, once we go down that road, it's actually going to produce all kinds of inconvenience and mix-up and division of cases in all sorts of ways, which suggests their way makes quite a lot of sense, and I don't want you to leave without responding to the various points that they've made as to how this is all going to get mixed up if we take your route because of the cases being divided."
+1999.98-1960,1,42282,susan_s_wagner,,3043.563,3046.514,"--Which they can do, because--"
+1999.98-1960,1,15139,stephen_g_breyer,scotus_justice,3046.514,3047.358,If they agreed.
+1999.98-1960,1,42282,susan_s_wagner,,3047.358,3058.149,"--Well, they can do, once that proceeding, Justice Breyer, is filed under section 3... under section 4 to compel arbitration, or under section 3 to stay a pending lawsuit."
+1999.98-1960,1,15084,ruth_bader_ginsburg,scotus_justice,3151.412,3171.356,"Isn't that what 1404(a) is meant to accomplish, though, and district judges, recognizing that one action is better than five, or even two, will say, okay, this is a place of proper jurisdiction and venue, but we're going to transfer to that other so that all the arbitrations will go forward... isn't that a typical use of 1404(a)?"
+1999.98-1960,1,42282,susan_s_wagner,,3171.356,3188.74,"--Certainly 1404(a) can be used, but the point is that FAA was intended to streamline, to simplify this procedure to avoid post arbitration arguments about procedural and matters of discretion."
+1999.98-1960,1,15113,anthony_m_kennedy,scotus_justice,3188.74,3199.596,"But in... it's in the cases that you put where arbitrations are often held in multiple cities, multiple venues, where the arbitrators themselves are from Chicago and New York and Los Angeles, it's not clear to me where the award is made."
+1999.98-1960,1,42282,susan_s_wagner,,3199.596,3207.609,"Courts that have addressed that issue, Justice Kennedy, have said that where the hearing takes place is venue for purposes under 9--"
+1999.98-1960,1,15113,anthony_m_kennedy,scotus_justice,3207.609,3209.202,But they have multiple hearings in multiple cities.
+1999.98-1960,1,42282,susan_s_wagner,,3209.202,3220.121,"--Then presumably any of those cities would be an appropriate forum if the award is made in a number of different places, with different aspects heard in different places."
+1999.98-1960,1,15084,ruth_bader_ginsburg,scotus_justice,3286.031,3298.042,"Your answer that if a motion to compel arbitration is brought in one court, that court could retain jurisdiction, cuts against your now answer that this is like an appellate proceeding."
+1999.98-1960,1,42282,susan_s_wagner,,3298.042,3300.526,"--That's right, but again, presumptively like an appeal."
+1999.98-1960,1,15084,ruth_bader_ginsburg,scotus_justice,3363.312,3364.39,"Thank you, Ms. Wagner."
+1999.98-1960,2,20609,daniel_h_bromberg,,3367.39,3374.123,"Your Honor, unless the Court has questions, I have no further argument."
+1999.98-1960,2,15084,ruth_bader_ginsburg,scotus_justice,3374.123,3403.375,"I have just one question, and that is, let's assume that you're right that Mississippi is a place of proper venue for this litigation, there is the general rule of the first to file is the one that goes... to be filed goes forward, but that's not an iron-clad rule, so could it be that the Alabama district court would say, well, we're not going to defer to the first suit."
+1999.98-1960,2,20609,daniel_h_bromberg,,3408.109,3422.963,"Well, Your Honor, we have not had the opportunity to brief that question, but I would add... I would point out that there are what I think several difficulties with a response like that."
+1999.98-1960,2,15141,william_h_rehnquist,scotus_justice,3475.021,3479.973,"Thank you, Mr. Bromberg."

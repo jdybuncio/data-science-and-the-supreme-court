@@ -1,0 +1,181 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2000.99-1331,0,15141,william_h_rehnquist,scotus_justice,0.0,8.842,"We'll hear argument next in Number 1999... correction, 1331, James Lewis v. Lewis & Clark Marine."
+2000.99-1331,0,39095,roy_c_dripps_iii,,66.116,69.161,"Mr. Chief Justice, and may it please the Court--"
+2000.99-1331,0,15141,william_h_rehnquist,scotus_justice,102.052,104.611,"That's true of both the Jones Act and FELA, is it?"
+2000.99-1331,0,39095,roy_c_dripps_iii,,104.611,116.432,"Yes, sir, and that statutory remedy is saved to Lewis by the saving to suitors clause, yet it can only be preserved in this case by dissolving the injunction against State court proceedings."
+2000.99-1331,0,15092,sandra_day_oconnor,scotus_justice,134.785,146.749,"Well, under what circumstances could the district court exercise its discretion and not dissolve the injunction and require litigation of liability in Federal court?"
+2000.99-1331,0,39095,roy_c_dripps_iii,,146.749,170.159,"Justice O'Connor, it would be only in a multiple claimant excess fund situation, and even then under the Jones Act there might be a question with regard to preserving multiple suitors claims under the Jones Act, but generally in a non Jones Act multiple claimant excess fund situation the vessel owner does have the right to maintain the exclusive jurisdiction of the admiralty court."
+2000.99-1331,0,15141,william_h_rehnquist,scotus_justice,170.159,175.271,"Well, what if you have excess funds, multiple, and the Jones Act?"
+2000.99-1331,0,39095,roy_c_dripps_iii,,184.22,185.454,Not necessarily.
+2000.99-1331,0,15092,sandra_day_oconnor,scotus_justice,206.547,215.448,Do you think that the courts and rule (f) preclude a single claimant exception?
+2000.99-1331,0,39095,roy_c_dripps_iii,,215.448,218.485,"Oh, absolutely not, Justice O'Connor."
+2000.99-1331,0,15092,sandra_day_oconnor,scotus_justice,236.92,239.574,But you think that rule (f) is invalid?
+2000.99-1331,0,39095,roy_c_dripps_iii,,239.574,241.343,I do.
+2000.99-1331,0,15141,william_h_rehnquist,scotus_justice,277.09,284.972,"But it's possible to rule for you here without holding that rule (f) is invalid just as a matter of interpretation, isn't it?"
+2000.99-1331,0,39095,roy_c_dripps_iii,,284.972,308.63,"Mr. Chief Justice, I agree completely that if the Court simply follows the Langnes case and says that the Jones Act allows this case to be brought in State court, and that that statutory remedy is preserved by the saving to suitors clause, and that the injunction should be dissolved on that basis, the Court need not reach the issue of the invalidity of rule (f) in this case."
+2000.99-1331,0,15084,ruth_bader_ginsburg,scotus_justice,308.63,322.005,But it might not... but it might not go that far if you had a mass disaster and there were many sailors injured and the vessel wasn't worth enough to cover all the claims.
+2000.99-1331,0,39095,roy_c_dripps_iii,,322.005,340.47,"Justice Ginsburg, I think that in that case the plain language of the limitation statute in anything other than fire requires the vessel owner to admit liability and cannot use the limitation statute as a method to shift the forum and then contest liability."
+2000.99-1331,0,15113,anthony_m_kennedy,scotus_justice,344.353,346.194,How does it work in practice?
+2000.99-1331,0,39095,roy_c_dripps_iii,,373.89,383.023,"Justice Kennedy, I don't believe that's a problem, because normally when you have a case like this you have separate or serial funds."
+2000.99-1331,0,15113,anthony_m_kennedy,scotus_justice,399.46,402.896,"Okay, so the priority is what solves the problem, then."
+2000.99-1331,0,39095,roy_c_dripps_iii,,402.896,403.388,--Exactly.
+2000.99-1331,0,15084,ruth_bader_ginsburg,scotus_justice,405.38,407.923,And also--
+2000.99-1331,0,15113,anthony_m_kennedy,scotus_justice,407.923,410.362,"--A chronology of when the claim was filed, or when the injury occurred?"
+2000.99-1331,0,39095,roy_c_dripps_iii,,410.362,421.185,"I believe that it is of the time of the judgment, except for wages, when it's a... wages are a lien that accrue as of the time--"
+2000.99-1331,0,15113,anthony_m_kennedy,scotus_justice,421.185,424.781,"Well, then I think there might be a problem with successive claims."
+2000.99-1331,0,39095,roy_c_dripps_iii,,441.975,452.887,"--Well, Justice Kennedy, I believe that would only be a problem if the vessel owner tenders the vessel to a trustee rather than posting security for value, which is what was done in this case."
+2000.99-1331,0,15084,ruth_bader_ginsburg,scotus_justice,480.753,484.899,Do I understand the limitation correctly?
+2000.99-1331,0,39095,roy_c_dripps_iii,,510.676,513.903,"There is no dispute concerning that, Justice Ginsburg."
+2000.99-1331,0,15084,ruth_bader_ginsburg,scotus_justice,547.539,551.199,But you sued later.
+2000.99-1331,0,39095,roy_c_dripps_iii,,560.705,568.553,"Well, Justice Ginsburg, I wouldn't use the term precipitously, but the complaint was filed on March 24 of 1998."
+2000.99-1331,0,15084,ruth_bader_ginsburg,scotus_justice,605.442,608.31,And their limitation proceeding was filed in which court?
+2000.99-1331,0,39095,roy_c_dripps_iii,,608.31,615.711,"--It was filed in the Eastern District of Missouri, United States District Court for the Eastern District of Missouri, across the river from Madison County, Illinois."
+2000.99-1331,0,15084,ruth_bader_ginsburg,scotus_justice,615.711,620.185,And--
+2000.99-1331,0,39095,roy_c_dripps_iii,,620.185,624.506,Rather than filing it in the Southern District of Illinois.
+2000.99-1331,0,15084,ruth_bader_ginsburg,scotus_justice,624.506,640.364,"--There was... seemed to be a concession that if only you had asked for a jury trial you'd be home free, because you can't get a jury trial in admiralty and that's what the savings to suitors clause saved."
+2000.99-1331,0,39095,roy_c_dripps_iii,,640.364,656.788,"And I think the Linton case from the Fifth Circuit in 1992 addresses that point specifically, Justice Ginsburg, and they say that the saving clause saves a nonjury Jones Act case because that's part of the seaman's remedy under the Jones Act."
+2000.99-1331,0,15141,william_h_rehnquist,scotus_justice,671.177,675.434,The defendant cannot ask for a jury trial in that situation?
+2000.99-1331,0,39095,roy_c_dripps_iii,,675.434,676.788,"That's true, Chief Justice."
+2000.99-1331,0,15141,william_h_rehnquist,scotus_justice,701.051,714.977,"Yes, but it's one thing to say, for Congress to say it can't be removed, but it seems to me it's quite another, a separate thing for Congress to say that the plaintiff can have a nonjury trial and the defendant cannot move for a jury."
+2000.99-1331,0,39095,roy_c_dripps_iii,,714.977,726.088,"That is what the Linton case said, and that point wasn't specifically brought up in the briefs, although I believe this Court has addressed that issue."
+2000.99-1331,0,15141,william_h_rehnquist,scotus_justice,729.149,731.892,"Yes, well, it certainly isn't directly involved here, is it?"
+2000.99-1331,0,39095,roy_c_dripps_iii,,731.892,732.481,"No, sir."
+2000.99-1331,0,15141,william_h_rehnquist,scotus_justice,734.768,743.74,"Well, we said in Singer, that Singer case, in the criminal case that the Government can move for a jury trial even though the defendant doesn't want one."
+2000.99-1331,0,39095,roy_c_dripps_iii,,743.74,756.884,And in this case Congress has specifically said that the injured employee has the option of determining whether or not it should be a jury or nonjury trial.
+2000.99-1331,0,15084,ruth_bader_ginsburg,scotus_justice,843.988,874.577,"Well, what have you conceded with respect to the limitation forum, because there'll be nothing... there'll be nothing... the only... this is the only lawsuit, this Jones... this is the only claim, so they have a shell of an action, but there's nothing to fill the shell because this case will go on in the State court, there'll be a decision, there's more than enough money in the till to pay the judgment, so what have you conceded by letting them keep the limitation action?"
+2000.99-1331,0,39095,roy_c_dripps_iii,,874.577,879.514,"Justice Ginsburg, what we've done is guaranteed that their limitation action will be successful."
+2000.99-1331,0,15084,ruth_bader_ginsburg,scotus_justice,883.634,887.198,"That your... that's your concession, that your claim is for less than the--"
+2000.99-1331,0,39095,roy_c_dripps_iii,,887.198,892.75,"Absolutely, although... and I don't think that's necessary, though, to a resolution of the case."
+2000.99-1331,0,15042,david_h_souter,scotus_justice,916.112,932.295,"--Well, your... what's left of the... what's in the shell, I guess, is a kind of interrorum jurisdiction to, in effect to guarantee the concessions, and it may never have to be... presumably it will never have to be exercised, but you're conceding that it could be."
+2000.99-1331,0,39095,roy_c_dripps_iii,,932.295,933.73,"Justice Souter, that's right."
+2000.99-1331,0,15042,david_h_souter,scotus_justice,961.0,961.413,All right.
+2000.99-1331,0,39095,roy_c_dripps_iii,,969.324,969.776,Sure.
+2000.99-1331,0,15042,david_h_souter,scotus_justice,969.776,970.253,Yes.
+2000.99-1331,0,39095,roy_c_dripps_iii,,970.253,976.921,"But they don't have the right to go beyond capping their liability, which is what they're seeking to do."
+2000.99-1331,0,15084,ruth_bader_ginsburg,scotus_justice,990.009,1026.598,"Do I correctly understand the picture on this exoneration that would go on if you... say you did have a collision, would go on in the admiralty forum, that the function is served by the defense that the shipowner can put into the Jones Act claim that is, there was no negligence here, and that is effectively what the exoneration plea would do?"
+2000.99-1331,0,39095,roy_c_dripps_iii,,1026.598,1030.368,"In some ways, Justice Ginsburg."
+2000.99-1331,0,15084,ruth_bader_ginsburg,scotus_justice,1056.322,1067.456,"From the shipowner's point of view, it's one thing to say the shipowner itself had no involvement in the negligence, it was the other deck hands."
+2000.99-1331,0,39095,roy_c_dripps_iii,,1094.653,1101.6,"That's true, that is the essence of the exoneration claim, and that's what they want the Federal court to decide."
+2000.99-1331,0,15084,ruth_bader_ginsburg,scotus_justice,1127.65,1141.136,"Well, that I don't follow, because if there was a determination of exoneration, that is, no liability at all, not limited but no liability at all, why wouldn't that have been preclusive in State court?"
+2000.99-1331,0,39095,roy_c_dripps_iii,,1141.136,1146.072,If it had not been reversed by this Court it would have been preclusive.
+2000.99-1331,0,15084,ruth_bader_ginsburg,scotus_justice,1146.072,1146.772,Ah.
+2000.99-1331,0,39095,roy_c_dripps_iii,,1146.772,1151.859,But this Court said that determination has to be made in State court and not in Federal court.
+2000.99-1331,0,15084,ruth_bader_ginsburg,scotus_justice,1151.859,1153.677,What determination?
+2000.99-1331,0,39095,roy_c_dripps_iii,,1153.677,1165.936,"The determination of liability and damage, and once it's made in State court, it is preclusive of the exoneration claim in Federal court under the rule of the Benefactor, which this Court decided in 1880."
+2000.99-1331,0,15084,ruth_bader_ginsburg,scotus_justice,1165.936,1177.729,"But if the Federal court had made the determination first, and that... and hadn't been reversed, then that would be preclusive."
+2000.99-1331,0,39095,roy_c_dripps_iii,,1177.729,1214.78,"Yes, it would, but the Court reversed it because the determination should have been made by the State court in the first instance rather than the Federal court, and that's the essence of the Langnes holding, that we're implementing the Jones Act's grant to the seamen, preserved through the saving to suitors clause, of the right to proceed in State court, rather than be forced into Federal court by the shipowner, and that holding was made without the presence of any stipulations regarding res judicata, and this Court said that the case will go back to State court for that determination."
+2000.99-1331,0,15084,ruth_bader_ginsburg,scotus_justice,1215.95,1231.998,"Well, that sounds like, entirely in sync with my suggestion that the defense of no negligence at all, which can be put into the Jones Act proceeding, is the equivalent of getting, in the Federal court, exoneration."
+2000.99-1331,0,39095,roy_c_dripps_iii,,1231.998,1235.14,"--That's absolutely true, Justice Ginsburg."
+2000.99-1331,0,15141,william_h_rehnquist,scotus_justice,1343.123,1344.597,When you say it meets every test.
+2000.99-1331,0,39095,roy_c_dripps_iii,,1347.881,1348.671,--For being substantive.
+2000.99-1331,0,15141,william_h_rehnquist,scotus_justice,1348.671,1349.474,For being substantive?
+2000.99-1331,0,39095,roy_c_dripps_iii,,1349.474,1386.964,"Yes, Your Honor, and that's why I say that if the Court adopts the analysis that the respondent has offered, then we need to grapple with the Rules Enabling Act analysis, and in that case the provision of conferring a substantive right to sue by rule violates the Rules Enabling Act because it conflicts with the congressional statutory scheme of the Jones Act by abridging or modifying Lewis' right to sue in State court and enlarges the vessel owner's right to seek limited liability in Federal court."
+2000.99-1331,0,15084,ruth_bader_ginsburg,scotus_justice,1386.964,1389.715,I'm not following your argument to this extent.
+2000.99-1331,0,39095,roy_c_dripps_iii,,1420.707,1425.819,"Well, normally, Justice Ginsburg, I would agree with you that that is what the rules do."
+2000.99-1331,0,15141,william_h_rehnquist,scotus_justice,1469.678,1471.654,"Very well, Mr. Dripps."
+2000.99-1331,1,32252,james_v_obrien,,1474.733,1482.317,"Mr. Chief Justice, and may it please the Court--"
+2000.99-1331,1,15141,william_h_rehnquist,scotus_justice,1545.3,1551.872,"Well, do you think the district court's view would have been different had the right to jury trial not been given up?"
+2000.99-1331,1,32252,james_v_obrien,,1551.872,1579.472,"--Mr. Chief Justice, our position in the case, and I believe the position of the Eighth Circuit was that if a jury trial had been requested, then a remedy that was not available in the district court would have been sought and therefore a saved remedy would have been sought, and therefore the stay, assuming the single claimant exception and the adequate fund exceptions were met, would have been allowed to proceed in Illinois State court."
+2000.99-1331,1,15141,william_h_rehnquist,scotus_justice,1579.472,1586.904,"So this case hinges, in your view at any rate, on the fact that the plaintiff had waived the right to a jury trial."
+2000.99-1331,1,32252,james_v_obrien,,1586.904,1588.865,To a large extent it does.
+2000.99-1331,1,15084,ruth_bader_ginsburg,scotus_justice,1590.809,1610.935,"You say that because you say, well then he doesn't need the State forum because he can get a nonjury trial in admiralty, but wouldn't one say equally, once the Jones Act plaintiff stipulates that he's not going to seek more than X amount of damages, you don't need the limitation proceeding?"
+2000.99-1331,1,32252,james_v_obrien,,1610.935,1633.23,"--Our position takes a step back, and our position looks back at the original origin of the single claimant exception that was set forth by this Court in Langnes v. Green, and what we say is that we know a number of things about what this Court... what the district courts have to do under the Limitation of Liability Act."
+2000.99-1331,1,15084,ruth_bader_ginsburg,scotus_justice,1688.155,1693.619,"I'd like to back up a little bit, because I don't think I followed you that far down the trail."
+2000.99-1331,1,32252,james_v_obrien,,1742.524,1748.522,--Because the Limitation of Liability Act has more than just to limit liability.
+2000.99-1331,1,15141,william_h_rehnquist,scotus_justice,1773.59,1781.526,What provision of the limitation act gives you the right to have an exoneration proceeding?
+2000.99-1331,1,32252,james_v_obrien,,1781.526,1793.523,"--Mr. Chief Justice, we believe that the entire act construed by this Court in the Norwich v. Wright case provides that right."
+2000.99-1331,1,15141,william_h_rehnquist,scotus_justice,1800.244,1804.104,And where is that in the appendix?
+2000.99-1331,1,32252,james_v_obrien,,1804.104,1809.438,"Well, the--"
+2000.99-1331,1,15141,william_h_rehnquist,scotus_justice,1809.438,1813.17,I see it's at pages 1 and 2 of the petition for certiorari.
+2000.99-1331,1,32252,james_v_obrien,,1813.17,1814.534,"--Yes, Your Honor."
+2000.99-1331,1,15141,william_h_rehnquist,scotus_justice,1830.247,1832.861,But pursuing the limitation of liability is one thing.
+2000.99-1331,1,32252,james_v_obrien,,1835.803,1836.479,"--Yes, sir."
+2000.99-1331,1,15084,ruth_bader_ginsburg,scotus_justice,1855.256,1872.9,"Were any of those cases single claimant cases where the fund was adequate to cover the injury, or were they all what one thinks of as limitation case, a rather larger disaster?"
+2000.99-1331,1,32252,james_v_obrien,,1872.9,1882.04,"The early cases, Justice Ginsburg, typically involved a petitioner limit after a judgment had already been obtained in a district court."
+2000.99-1331,1,15060,john_paul_stevens,scotus_justice,1955.793,1961.542,But wasn't that only on the assumption that there was jurisdiction under... just to seek limitation?
+2000.99-1331,1,32252,james_v_obrien,,1969.669,1971.909,"--Not per se, Your Honor."
+2000.99-1331,1,15060,john_paul_stevens,scotus_justice,1973.032,1975.917,"And the word exoneration is not in the statute itself, is it?"
+2000.99-1331,1,32252,james_v_obrien,,1975.917,1986.725,"It is not found in the statute, although it does state... the statute does state that the vessel owner's liability shall not exceed the value of the vessel--"
+2000.99-1331,1,15049,antonin_scalia,scotus_justice,1986.725,1987.682,"Right, but that's quite different from saying it shall not exist."
+2000.99-1331,1,32252,james_v_obrien,,1987.682,1998.768,"--Well, it also does not deny the district court... the same statute that gives the jurisdiction to decide limitation of liability does not deny to the district court the ability to decide exoneration."
+2000.99-1331,1,15060,john_paul_stevens,scotus_justice,1998.768,2017.792,"But wouldn't all these cases fit together if we simply held that in an appropriate case where the limitation of liability proceeding involves multiple claimants and an original intent to get more than the gross value of the ship, that in such a case, the... among the things the shipowner can do is seek a complete defense of a nonliability?"
+2000.99-1331,1,32252,james_v_obrien,,2023.51,2024.824,"Well, certainly that's one option."
+2000.99-1331,1,15060,john_paul_stevens,scotus_justice,2024.824,2025.588,Yes.
+2000.99-1331,1,32252,james_v_obrien,,2025.588,2036.347,"And I... we would certainly urge that on the Court, and I believe it's part of the limitation act that the shipowner should be entitled to seek exoneration in any case in which it seeks a limitation as well."
+2000.99-1331,1,15141,william_h_rehnquist,scotus_justice,2036.347,2044.131,"The Norwich, for example, under the Norwich was decided long before the Jones act was passed."
+2000.99-1331,1,32252,james_v_obrien,,2044.131,2044.632,"Yes, Your Honor."
+2000.99-1331,1,15141,william_h_rehnquist,scotus_justice,2044.632,2049.672,Do you think the Jones Act affects the holding in Norwich in any way?
+2000.99-1331,1,32252,james_v_obrien,,2049.672,2051.521,We do not.
+2000.99-1331,1,15141,william_h_rehnquist,scotus_justice,2063.697,2065.371,"Now, why do you say that?"
+2000.99-1331,1,32252,james_v_obrien,,2065.371,2077.239,--Because... for the reason that it's clear that if it had been a limitation proceeding with multiple claimants in a case where the claims asserted exceeded the value of the vessel--
+2000.99-1331,1,15141,william_h_rehnquist,scotus_justice,2077.239,2082.12,"Yes, but Langnes says the single claimant is different, does it not?"
+2000.99-1331,1,32252,james_v_obrien,,2082.12,2087.71,"--Well, what... Langnes really rests upon three distinct factors."
+2000.99-1331,1,15141,william_h_rehnquist,scotus_justice,2105.726,2109.393,Do you think the request for a jury trial was essential to the holding in Langnes?
+2000.99-1331,1,32252,james_v_obrien,,2109.393,2116.108,"--Your Honor, I do, and the reason is because it's the request for a jury trial that implicates a saved remedy."
+2000.99-1331,1,15139,stephen_g_breyer,scotus_justice,2129.086,2134.494,"As I read it, you're trying... you seem to be trying to make the tail wag the dog."
+2000.99-1331,1,32252,james_v_obrien,,2168.964,2169.257,Yes.
+2000.99-1331,1,15139,stephen_g_breyer,scotus_justice,2169.257,2169.846,--So we'll do it.
+2000.99-1331,1,32252,james_v_obrien,,2193.479,2212.223,"Justice Breyer, I think it's key to look at Langnes v. Green and see in that case that this Court stated emphatically that the procedure under the Limitation of Liability Act was to first look at exoneration and then, if liability was found, to look at limitation issues."
+2000.99-1331,1,15139,stephen_g_breyer,scotus_justice,2212.223,2217.302,"Of course that's true, provided that you are properly in the Federal court limiting your liability."
+2000.99-1331,1,32252,james_v_obrien,,2233.763,2249.301,"Well, let me state that initially... the initial claim filed in this case did exceed the limitation fund, and so that at the time the vessel owner instituted the proceeding, that was certainly in play and, indeed, when the initial claim was filed--"
+2000.99-1331,1,15084,ruth_bader_ginsburg,scotus_justice,2249.301,2253.223,"How did you know that, because the Federal suit was filed second."
+2000.99-1331,1,32252,james_v_obrien,,2263.257,2279.713,"--The short answer is that we know in this jurisdiction, where the State court suit could have been brought, that tripping over a wire could lead to a judgment in excess of the value of the vessel, and so therefore the--"
+2000.99-1331,1,15084,ruth_bader_ginsburg,scotus_justice,2279.713,2281.035,But this plaintiff--
+2000.99-1331,1,32252,james_v_obrien,,2281.035,2283.458,--vessel owner had a good faith reason for pursuing limitation.
+2000.99-1331,1,15084,ruth_bader_ginsburg,scotus_justice,2283.458,2285.467,--This plaintiff hadn't made any such claim then.
+2000.99-1331,1,32252,james_v_obrien,,2291.096,2291.728,No.
+2000.99-1331,1,15084,ruth_bader_ginsburg,scotus_justice,2327.074,2337.466,"I brought it up in answer to your assertion, we knew that he originally had a claim in excess of the value of the vessel."
+2000.99-1331,1,32252,james_v_obrien,,2343.128,2348.895,"--Well, knowing, I think, and having a good faith belief that the proceeding might be in the vessel owner's interest are too different things."
+2000.99-1331,1,15084,ruth_bader_ginsburg,scotus_justice,2354.03,2356.405,But you didn't have to make any prediction a week later.
+2000.99-1331,1,32252,james_v_obrien,,2356.405,2361.899,"--That's true, because we shortly thereafter had a claim in excess of the value of the vessel."
+2000.99-1331,1,15084,ruth_bader_ginsburg,scotus_justice,2361.899,2369.117,"And the prayer for relief was for in excess of 450,000 dollars?"
+2000.99-1331,1,32252,james_v_obrien,,2369.117,2369.745,Yes.
+2000.99-1331,1,15060,john_paul_stevens,scotus_justice,2380.839,2385.982,The question really is whether that did not satisfy the purposes of the limitation of liability proceeding.
+2000.99-1331,1,32252,james_v_obrien,,2385.982,2413.741,"--Well, Justice Stevens, our position is that once the jurisdiction of the limitation code is validly invoked, which it was in this case, that jurisdiction attaches, and under the Constitution and laws the district court is obligated to decide all those issues, and the only way to escape... for the claimant in this case to escape that jurisdiction is to point to a definite statutory right that allows him to defeat Federal jurisdiction."
+2000.99-1331,1,15060,john_paul_stevens,scotus_justice,2417.082,2419.098,"But the statutory right that he's talking about, there's two ways to define it."
+2000.99-1331,1,32252,james_v_obrien,,2428.359,2434.488,"--That's true, and... but we know a number of things about the saving to suitors clause."
+2000.99-1331,1,15141,william_h_rehnquist,scotus_justice,2470.658,2481.331,"Well, what about the practical advantage of a plaintiff who thinks he's going to get a better verdict in Madison County, Illinois, than he will in the Federal District Court for the Eastern District of Missouri?"
+2000.99-1331,1,32252,james_v_obrien,,2481.331,2498.073,"Well, that is his right, to sue where he thinks he can obtain the best verdict, unless there's some kind of illegal forum shopping going on, but that really is what this case is all about."
+2000.99-1331,1,15141,william_h_rehnquist,scotus_justice,2498.073,2499.012,I thought so.
+2000.99-1331,1,32252,james_v_obrien,,2499.012,2517.805,"The vessel owner is entitled to pursue limitation where it believes the purposes of the act will be furthered, in other words, where it sees that it has an opportunity to invoke exclusive Federal jurisdiction to adjudicate the rights from some accident occurring... occurring during some voyage."
+2000.99-1331,1,15084,ruth_bader_ginsburg,scotus_justice,2519.925,2537.361,"Do I understand you, then, that the vessel owner in every case where the sailor chooses to sue in State court and not ask for a jury trial the vessel owner can always pick the forum instead by filing a limitation proceeding?"
+2000.99-1331,1,32252,james_v_obrien,,2537.361,2545.448,"--Unless he pursues a right, the claimant pursues a right that is preserved under the saving to suitors clause I would agree with that."
+2000.99-1331,1,15084,ruth_bader_ginsburg,scotus_justice,2545.448,2572.975,"Well, what... you told me that the only thing that's preserved is jury trial, not the Jones Act claim, which is what I would have thought that... I would have thought, apart from entertaining your position that it's not the Jones Act claim, and the choice of forum that Congress has provided, but it's only the device of jury trial."
+2000.99-1331,1,32252,james_v_obrien,,2572.975,2576.954,"Well, it's really... what it is is... let me refine my comment."
+2000.99-1331,1,15084,ruth_bader_ginsburg,scotus_justice,2607.198,2611.512,"Well, why isn't the remedy the courthouse that's closest to my home that's most convenient for me?"
+2000.99-1331,1,32252,james_v_obrien,,2622.569,2631.861,"Well, the answer to that is that the rights under the saving to suitors clause are not absolute, and they never have been by this... held so by this Court or by any other Federal court."
+2000.99-1331,1,15084,ruth_bader_ginsburg,scotus_justice,2633.534,2643.448,"But your position was that that wasn't saved at all, because you could get a nonjury trial in the admiralty forum."
+2000.99-1331,1,32252,james_v_obrien,,2643.448,2655.038,"--Well, I don't think the decision whether or not the nonjury trial is saved or not is necessary to this Court's decision, nor was it addressed specifically... in fact, it was reserved specifically by the Eighth Circuit."
+2000.99-1331,1,15084,ruth_bader_ginsburg,scotus_justice,2681.975,2692.343,So practically what the position you're urging on us comes down to is that the Jones Act plaintiff can get his choice of forum as long as he insists on having a trial by jury.
+2000.99-1331,1,32252,james_v_obrien,,2699.179,2700.205,--That's correct.
+2000.99-1331,1,15084,ruth_bader_ginsburg,scotus_justice,2700.205,2701.16,That's your position?
+2000.99-1331,1,32252,james_v_obrien,,2701.16,2701.868,That's correct.
+2000.99-1331,1,15139,stephen_g_breyer,scotus_justice,2701.868,2703.031,Why would that be?
+2000.99-1331,1,32252,james_v_obrien,,2724.699,2727.897,"Well, the Federal reason that prefers the Federal--"
+2000.99-1331,1,15139,stephen_g_breyer,scotus_justice,2727.897,2729.397,"No, no, I mean, you're making both arguments."
+2000.99-1331,1,32252,james_v_obrien,,2755.619,2760.68,"--Well, Justice Breyer, I... number 1... my first response is, I don't believe that's our case."
+2000.99-1331,1,15139,stephen_g_breyer,scotus_justice,2760.68,2761.596,"All right, yes."
+2000.99-1331,1,32252,james_v_obrien,,2761.596,2762.87,We do have a Federal reason for being here.
+2000.99-1331,1,15139,stephen_g_breyer,scotus_justice,2762.87,2763.45,Okay.
+2000.99-1331,1,32252,james_v_obrien,,2763.45,2764.677,And the second response--
+2000.99-1331,1,15139,stephen_g_breyer,scotus_justice,2764.677,2769.414,"But if you didn't, if there were no reason favoring the Federal court, then would you say, give him his choice?"
+2000.99-1331,1,32252,james_v_obrien,,2769.414,2778.498,"--Well, I suppose that would be true, except that Congress has spoken to the situation when they've committed limitation of liability acts to the exclusive jurisdiction of the Federal courts."
+2000.99-1331,1,15139,stephen_g_breyer,scotus_justice,2778.498,2787.329,"Okay, but if you're prepared to go that far, then the case turns on whether there is a Federal reason, and the Federal reason you say is exoneration, so I understand that."
+2000.99-1331,1,32252,james_v_obrien,,2819.706,2827.689,"Well, I would prefer to think of exoneration not as the tail, perhaps the other set of legs of the same dog."
+2000.99-1331,1,15049,antonin_scalia,scotus_justice,2840.495,2851.605,"You have the statute, but it doesn't appear in the statute, and what is your response to the fact that if the only reference to it is in the Federal rules, that's ultra vires?"
+2000.99-1331,1,32252,james_v_obrien,,2851.605,2868.316,"--Well, my response, Justice Scalia, is 130 years of decisions from this Court and others, at least a half dozen cases from this Court holding that in a proceeding under the Limitation of Liability Act itself now the court determines exoneration as well as limitation."
+2000.99-1331,1,15141,william_h_rehnquist,scotus_justice,2874.658,2886.878,"Well now, are you saying that in the single claimant, stipulated claim less than the value of the vessel, we would have to overrule cases in order to rule against you here?"
+2000.99-1331,1,32252,james_v_obrien,,2886.878,2887.442,No.
+2000.99-1331,1,15141,william_h_rehnquist,scotus_justice,2887.442,2890.423,"Well, I thought that's what you just did say."
+2000.99-1331,1,32252,james_v_obrien,,2890.423,2890.548,No.
+2000.99-1331,1,15060,john_paul_stevens,scotus_justice,2952.861,2963.189,"Well, of course, can't you just read that as the... this is a particularly strong reason for vindicating the plaintiff's right to choose his own forum, that in one forum he gets a jury and in the other he doesn't?"
+2000.99-1331,1,32252,james_v_obrien,,2975.855,2983.6,"Justice Stevens, I don't think we'd be here if the courts had routinely held that you got a right to a forum."
+2000.99-1331,1,15060,john_paul_stevens,scotus_justice,3003.522,3007.078,"Well, he gets the same remedy whether it's a jury trial or a bench trial."
+2000.99-1331,1,32252,james_v_obrien,,3010.098,3027.478,"Well, the remedy, as the Court stated in Shilendez v. Luckenbach, the remedy is the means employed to seek the redress and in our view, and I think the cases bear this out, a jury trial is a specific form of remedy, a nonjury trial is another form of remedy."
+2000.99-1331,1,15141,william_h_rehnquist,scotus_justice,3197.255,3199.399,"Thank you, Mr. O'Brien."
+2000.99-1331,1,32252,james_v_obrien,,3199.399,3200.673,"--Thank you, Your Honor."
+2000.99-1331,1,15141,william_h_rehnquist,scotus_justice,3200.673,3204.058,"Mr. Dripps, you have 6 minutes remaining."
+2000.99-1331,2,39095,roy_c_dripps_iii,,3204.058,3205.564,"Thank you, Mr. Chief Justice."
+2000.99-1331,2,15060,john_paul_stevens,scotus_justice,3317.95,3319.878,"Well, I... go ahead."
+2000.99-1331,2,39095,roy_c_dripps_iii,,3321.201,3341.868,"--as Justice Stevens noted does not require a jury trial, but it simply said that a jury trial is one aspect that makes the State court forum desirable, and that's part of the Jones Act remedy to allow the injured employee that option of choosing either State or Federal court, and whether or not to have a jury trial in either forum."
+2000.99-1331,2,15141,william_h_rehnquist,scotus_justice,3379.405,3381.421,"Thank you, Mr. Dripps."

@@ -1,0 +1,34 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2000.00-292,0,15141,william_h_rehnquist,scotus_justice,0.0,14.843,"We'll hear argument now in Number 00-292, C & L Enterprises v. the Citizen Band Potawatomi Indian Tribe of Oklahoma."
+2000.00-292,0,31884,john_d_mashburn,,52.349,56.253,"Mr. Chief Justice, and may it please the court:"
+2000.00-292,0,15113,anthony_m_kennedy,scotus_justice,97.414,99.63,"Well, but it didn't use the magic phrase."
+2000.00-292,0,31884,john_d_mashburn,,101.282,102.332,"--That's correct, Your Honor."
+2000.00-292,0,15113,anthony_m_kennedy,scotus_justice,126.314,126.847,I understand.
+2000.00-292,0,31884,john_d_mashburn,,126.847,138.039,And the ambiguity that the respondent attempts to raise is regarding which court is being referred to where the phrase recites any court of competent jurisdiction.
+2000.00-292,0,15060,john_paul_stevens,scotus_justice,196.541,200.862,"But, what if the non-Indian brought the suit in the Tribal Court?"
+2000.00-292,0,31884,john_d_mashburn,,202.412,208.433,Because despite--
+2000.00-292,0,15060,john_paul_stevens,scotus_justice,208.433,210.051,You must be suing on the arbitration order.
+2000.00-292,0,31884,john_d_mashburn,,214.02,229.548,"--We believe that that type of jurisdiction is in fact subject matter jurisdiction because under the ruling in Montana v. United States, the court indicated that tribes don't have jurisdiction to hear matters unless it's been specifically given to them by the Constitution or statute."
+2000.00-292,0,15141,william_h_rehnquist,scotus_justice,229.548,238.82,"But, there's a consensual exception to Montana too, is there not, where there's a consensual transaction between the tribe and a non-Indian?"
+2000.00-292,0,31884,john_d_mashburn,,238.82,240.004,"Yes, Mr. Chief Justice."
+2000.00-292,0,15092,sandra_day_oconnor,scotus_justice,264.885,284.449,"Now, if the very same clause were in a contract that your client entered into with a state, do you think that we would have found a waiver of Eleventh Amendment immunity?"
+2000.00-292,0,31884,john_d_mashburn,,284.449,287.651,Yes.
+2000.00-292,0,15092,sandra_day_oconnor,scotus_justice,289.918,297.341,"I would have thought we wouldn't, that our cases would have said not, that wouldn't be enough to waive sovereign immunity."
+2000.00-292,0,31884,john_d_mashburn,,297.341,330.728,"Under this Court's ruling in Edelman v. Jordan regarding Eleventh Amendment immunity, the Court stated that the rule is that the waiver, and again this one applies, as you know, to Eleventh Amendment immunity from suit in federal court, but the courts even there stated that the ruling regarding whether a provision waives such immunity is that it must be stated by the most express language or by such overwhelming implications from the text as will leave no room for any other reasonable construction."
+2000.00-292,0,15141,william_h_rehnquist,scotus_justice,369.453,376.357,"Well, do you concede, Mr. Mashburn, that an Indian tribe has the same sort of immunity as the state under the Eleventh Amendment?"
+2000.00-292,0,31884,john_d_mashburn,,376.357,378.309,"--No, Mr. Chief Justice, we do not."
+2000.00-292,0,15092,sandra_day_oconnor,scotus_justice,389.598,395.084,"Well, in some ways, Indian tribes have been given more immunity than states, hasn't that been the--"
+2000.00-292,0,31884,john_d_mashburn,,395.084,403.924,There is some discussion of that in the dissenting opinion in Cairo that it appears that that's what the Court is doing.
+2000.00-292,0,15084,ruth_bader_ginsburg,scotus_justice,430.508,448.453,"--Mr. Mashburn, as this respects foreign sovereigns, Congress in 1988 made the specific provision that if you agreed to an arbitration dispute settlement mechanism, then you have no immunity."
+2000.00-292,0,31884,john_d_mashburn,,457.059,460.527,"No, Your Honor, we don't believe that it does."
+2000.00-292,0,15042,david_h_souter,scotus_justice,530.189,539.712,"You don't take the position do you, maybe you do, that any arbitration agreement necessarily implies the waiver of sovereign immunity?"
+2000.00-292,0,31884,john_d_mashburn,,539.712,544.533,"No, Your Honor, I believe you have to look to the specific term here in the arbitration agreement."
+2000.00-292,0,15042,david_h_souter,scotus_justice,544.533,545.966,You're dealing with this one.
+2000.00-292,0,31884,john_d_mashburn,,545.966,547.151,That's correct.
+2000.00-292,0,15049,antonin_scalia,scotus_justice,567.213,581.039,"Well, the Foreign Sovereign Immunities Act, of course, was just tracking developments in international law that had generally allowed suit on commercial transactions by states."
+2000.00-292,0,31884,john_d_mashburn,,590.478,593.014,"--That's correct, Your Honor."
+2000.00-292,1,25151,gregory_s_coleman,,1048.609,1056.097,"Thank you, Mr. Chief Justice, and may it please the court:"
+2000.00-292,2,36278,michael_minnis,,1652.18,1662.121,"Mr. Chief Justice, and may it please the court:"
+2000.00-292,3,25346,gregory_g_garre,,2604.644,2614.352,"Thank you, Mr. Chief Justice, and may it please the Court:"
+2000.00-292,4,31884,john_d_mashburn,,3206.383,3209.385,"Mr. Chief Justice, and may it please the court:"
+2000.00-292,4,15141,william_h_rehnquist,scotus_justice,3212.17,3213.789,"Thank you, Mr. Mashburn."

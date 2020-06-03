@@ -1,0 +1,222 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1993.92-741,0,15141,william_h_rehnquist,scotus_justice,0.0,10.678,"We'll hear argument first this morning in Number 92-741, the Federal Deposit Insurance Corporation v. John A. Meyer."
+1993.92-741,0,37685,paul_bender,,11.71,14.732,Mr. Chief Justice and may it please the Court:
+1993.92-741,0,15141,william_h_rehnquist,scotus_justice,132.058,135.501,"What position did the respondent here occupy, Mr. Bender?"
+1993.92-741,0,37685,paul_bender,,135.501,139.322,He was the head of the branch operations.
+1993.92-741,0,15042,david_h_souter,scotus_justice,184.842,186.051,"May I interrupt you, sir?"
+1993.92-741,0,37685,paul_bender,,192.546,198.08,"--If the bank had continued to operate and he had been fired, yes, so far as we can tell, he would have--"
+1993.92-741,0,15042,david_h_souter,scotus_justice,198.08,203.085,"He did have a right under his contract to pre... in effect, to pre-deprivation process, then?"
+1993.92-741,0,37685,paul_bender,,203.085,206.477,"--No, I don't think it was a right to process, it was a contract right."
+1993.92-741,0,15042,david_h_souter,scotus_justice,207.536,211.24,"No, but his due process claim was that he didn't get pre-deprivation process."
+1993.92-741,0,37685,paul_bender,,215.771,216.081,--No.
+1993.92-741,0,15060,john_paul_stevens,scotus_justice,258.209,261.783,"Mr. Bender, he didn't have a State law tort claim, did he?"
+1993.92-741,0,37685,paul_bender,,261.783,266.684,"He brought State law tort claims, but they didn't proceed to trial."
+1993.92-741,0,15060,john_paul_stevens,scotus_justice,268.377,273.159,"But as we analyze the case, don't we assume he has no tort remedy as a matter of State law?"
+1993.92-741,0,37685,paul_bender,,276.061,281.904,I don't think... I don't think it matters whether he has a tort remedy under State law.
+1993.92-741,0,15060,john_paul_stevens,scotus_justice,283.827,287.938,"If he had a tort remedy, couldn't it arguably be said then the Federal Tort Claims Act would prevail?"
+1993.92-741,0,37685,paul_bender,,287.938,298.416,"--Well, if he had a tort remedy under State law, he could try to assert that State law remedy against the Federal Government under the Federal Tort Claims Act, but that's not the right he alleges in this case."
+1993.92-741,0,15084,ruth_bader_ginsburg,scotus_justice,301.508,318.079,"If you're right, Mr. Bender, about your argument that there is no due process right of the nature claimed, wouldn't that go to the receiver, Pattullo, as well as to the... FSLIC?"
+1993.92-741,0,37685,paul_bender,,318.079,318.439,Yes.
+1993.92-741,0,15084,ruth_bader_ginsburg,scotus_justice,319.24,333.579,"So your position, if you would prevail on that second argument that you make that there is no due process right to tenure as against this Federal agency, then Pattullo should never have gone to trial."
+1993.92-741,0,37685,paul_bender,,333.579,334.07,That's right.
+1993.92-741,0,15084,ruth_bader_ginsburg,scotus_justice,334.07,336.721,You would never get to the question of qualified immunity.
+1993.92-741,0,37685,paul_bender,,336.721,337.102,That's right.
+1993.92-741,0,15141,william_h_rehnquist,scotus_justice,370.332,382.911,"Mr. Bender, the first question you present in your petition for certiorari is whether FSLIC can be held liable for tort damages arising on a Bivens cause of action."
+1993.92-741,0,37685,paul_bender,,387.595,387.903,--Yes.
+1993.92-741,0,15141,william_h_rehnquist,scotus_justice,395.86,397.831,"But I take it you're also going to argue, eventually, your--"
+1993.92-741,0,37685,paul_bender,,397.831,398.542,Absolutely.
+1993.92-741,0,15113,anthony_m_kennedy,scotus_justice,431.043,433.424,--Does this California law agree with that?
+1993.92-741,0,37685,paul_bender,,442.841,450.984,"--We think so, but that's irrelevant, because Federal law clearly supersedes California law, and the receiver here was appointed under Federal law."
+1993.92-741,0,15113,anthony_m_kennedy,scotus_justice,453.537,463.014,"Well, but your theory is, is that the company has gone out of business, and I just have some trouble with that."
+1993.92-741,0,37685,paul_bender,,476.281,487.3,"In fact, FDIC now has a policy of firing all employees immediately upon the onset of a receivership and hiring back those that it wants to hire back to do whatever the bank wants to do."
+1993.92-741,0,15049,antonin_scalia,scotus_justice,520.532,530.788,"Perhaps so, but why is it so that you would be without liability for breaking those contracts any more than you would be without liability for breaking other contracts?"
+1993.92-741,0,37685,paul_bender,,537.012,537.212,No.
+1993.92-741,0,15049,antonin_scalia,scotus_justice,538.254,539.643,"I mean, it's just a contract like that, I assume."
+1993.92-741,0,37685,paul_bender,,539.643,540.174,"No, it's not."
+1993.92-741,0,15049,antonin_scalia,scotus_justice,563.279,571.434,"Suppose it was a contract to provide desks, not just in the past, but in the future, wouldn't you be liable for the profit that is lost--"
+1993.92-741,0,37685,paul_bender,,571.434,572.384,It's quite clear--
+1993.92-741,0,15049,antonin_scalia,scotus_justice,572.384,572.856,--by terminating that contract?
+1993.92-741,0,37685,paul_bender,,572.856,579.598,--It's quite clear that the receiver has the power to terminate those kinds of executory contracts which haven't yet taken place.
+1993.92-741,0,15049,antonin_scalia,scotus_justice,589.686,590.978,Without liability?
+1993.92-741,0,37685,paul_bender,,590.978,597.302,"Without liability for future profits, without liability for services that had not been rendered."
+1993.92-741,0,15141,william_h_rehnquist,scotus_justice,612.432,621.188,"Well, it doesn't make much sense to talk about repudiating past... or liability for past contractual breaches, does it?"
+1993.92-741,0,37685,paul_bender,,628.542,634.366,"That's right, and so the main burden of the repudiation clause, it seems to me, has to be towards these future contracts."
+1993.92-741,0,15049,antonin_scalia,scotus_justice,639.22,647.245,"Well but, I mean, you can say repudiate... any businessman can repudiate a contract, but the issue is whether you're liable for the money under it."
+1993.92-741,0,37685,paul_bender,,649.997,657.68,"Right, but maybe the most fundamental point is, if you're liable, you're liable only on contract out of the assets of the bank."
+1993.92-741,0,15049,antonin_scalia,scotus_justice,698.977,709.485,"So it's not an essential part of your case, and you don't really argue here that when there is a repudiation there is necessarily no liability for the breach of future--"
+1993.92-741,0,37685,paul_bender,,709.485,717.66,"Not at all, although we do feel that there is no liability for the future work he was going to do, that the contract terminates."
+1993.92-741,0,15049,antonin_scalia,scotus_justice,720.212,721.043,--I don't have to agree with that.
+1993.92-741,0,37685,paul_bender,,721.043,722.055,"--No, you don't have to agree with that."
+1993.92-741,0,15042,david_h_souter,scotus_justice,722.055,737.064,And I suppose it's perhaps restating the same point that I take it you're not claiming that the Government is scot-free here of liability on the claim asserted simply because it was acting as a regulator and not as a mere successor to the originally contracting party?
+1993.92-741,0,37685,paul_bender,,737.064,737.482,No.
+1993.92-741,0,15141,william_h_rehnquist,scotus_justice,764.321,778.769,"But isn't there an inconsistency in your position, though, Mr. Bender, because you say that the receiver's rights are not dependent on State law, and that... that it has rights coming from the Federal regulations and that sort of thing, and yet his remedy is purely State law?"
+1993.92-741,0,37685,paul_bender,,778.769,798.795,"Well, because the receivership doesn't... although the receivership has the power, Federal law has the power to totally supersede State law, it hasn't done that, and it's clear that the receivership permits suits to be brought against the remaining assets of the bank for contracts on which the money had already been earned, such as contracts for past services."
+1993.92-741,0,15084,ruth_bader_ginsburg,scotus_justice,809.741,821.889,"In addition is the process that is due, is the claim that can be asserted against the assets of the failed association--"
+1993.92-741,0,37685,paul_bender,,821.889,822.46,Exactly.
+1993.92-741,0,15084,ruth_bader_ginsburg,scotus_justice,822.46,827.582,--And that is the full extent of the process that is constitutionally due.
+1993.92-741,0,37685,paul_bender,,827.582,827.963,"Exactly, right."
+1993.92-741,0,15060,john_paul_stevens,scotus_justice,856.51,880.818,"But Mr. Bender, isn't it at least theoretically possible that even... if he had a State law right to recover assets from the bank which in turn would give him a right to pretermination hearing, maybe he would lose against the... on his State contract claim but nevertheless be able to argue that if you'd given me the hearing to which I was entitled, I could have persuaded you not to fire me, because I really wasn't involved in all this stuff?"
+1993.92-741,0,37685,paul_bender,,880.818,894.025,"He can argue that, and he does, but that is not a... that is not a convincing argument, because the Federal law made clear at the time, then in the regulations, now in the statute, that the receiver can repudiate any contract which it considers burdensome."
+1993.92-741,0,15049,antonin_scalia,scotus_justice,944.889,946.741,Do ordinarily Federal agencies have to do that?
+1993.92-741,0,37685,paul_bender,,952.324,962.951,"I don't think so, because the right to recover damages for the breach of contract is the process that is due in the commercial world."
+1993.92-741,0,15060,john_paul_stevens,scotus_justice,970.686,972.278,"Before you do, let me just ask one question."
+1993.92-741,0,37685,paul_bender,,986.125,987.727,You're talking about a Federal agency?
+1993.92-741,0,15060,john_paul_stevens,scotus_justice,987.727,988.068,Yes.
+1993.92-741,0,37685,paul_bender,,988.068,993.742,"I think that if the statute makes it clear that it's in his sole discretion, then there wouldn't be a right to a hearing."
+1993.92-741,0,15141,william_h_rehnquist,scotus_justice,1017.996,1020.459,"Mr. Bender, you will get to your first point?"
+1993.92-741,0,37685,paul_bender,,1020.459,1022.61,"I'm about to, I hope."
+1993.92-741,0,15113,anthony_m_kennedy,scotus_justice,1095.247,1101.13,"So you say we reach that result without even referring to the Federal Tort Claims Act, just the--"
+1993.92-741,0,37685,paul_bender,,1101.13,1101.461,"Right, just--"
+1993.92-741,0,15113,anthony_m_kennedy,scotus_justice,1101.461,1102.883,--sue-and-be-sued clause alone.
+1993.92-741,0,37685,paul_bender,,1105.645,1105.995,--Yes.
+1993.92-741,0,15113,anthony_m_kennedy,scotus_justice,1105.995,1106.473,--we read into the language?
+1993.92-741,0,37685,paul_bender,,1106.473,1107.024,"Yes, that--"
+1993.92-741,0,15049,antonin_scalia,scotus_justice,1107.024,1110.788,"Just intuitive, we know that intuitively it means sue-and-be-sued commercially?"
+1993.92-741,0,37685,paul_bender,,1110.788,1119.553,"--That's the... that was the reason for the creation of the sue-and-be-sued liability, but you don't have to reach that here, because Congress clarified that, made that absolutely clear."
+1993.92-741,0,15113,anthony_m_kennedy,scotus_justice,1119.553,1122.706,"Well, we might not have to reach that, but we have to understand it, I think, to follow your argument."
+1993.92-741,0,37685,paul_bender,,1122.706,1124.225,"Right... no, you don't."
+1993.92-741,0,15113,anthony_m_kennedy,scotus_justice,1166.704,1173.399,"What about a false imprisonment claim, would that be under the sue-and-be-sued clause, or is that outside of the commercial realm?"
+1993.92-741,0,37685,paul_bender,,1176.492,1177.21,I don't think so.
+1993.92-741,0,15084,ruth_bader_ginsburg,scotus_justice,1206.949,1225.322,"Mr. Bender, is it part of your argument that the Bivens claim simply doesn't extend to agencies as distinguished from individuals, so that in no case... forgetting about the sue-and-be-sued clause... should one think of a Bivens claim as against an entity as distinguished from an individual?"
+1993.92-741,0,37685,paul_bender,,1225.322,1228.964,"That's right, and that's because there are only two kinds of agencies."
+1993.92-741,0,15049,antonin_scalia,scotus_justice,1253.622,1254.992,I thought your argument went beyond that.
+1993.92-741,0,37685,paul_bender,,1269.34,1269.671,That's right.
+1993.92-741,0,15049,antonin_scalia,scotus_justice,1270.342,1274.405,"Did you make that argument below as well, or is that being made for the first time here?"
+1993.92-741,0,37685,paul_bender,,1274.405,1276.747,"--I believe we made that argument below, yes."
+1993.92-741,0,15084,ruth_bader_ginsburg,scotus_justice,1284.37,1291.136,"--Mr. Bender, the sue-and-be-sued clause came in when, as opposed to when the Bivens claim was created?"
+1993.92-741,0,37685,paul_bender,,1291.136,1293.026,I think it's important to understand that.
+1993.92-741,0,15084,ruth_bader_ginsburg,scotus_justice,1368.036,1371.058,That language in the legislative history is not in the statute itself.
+1993.92-741,0,37685,paul_bender,,1371.058,1396.413,"--Well, I think the language in the statute itself is just as clear, because it refers to... it says the authority of any Federal agency to sue and be sued in its own name shall not be construed to authorize suits against such Federal agency on claims which are cognizable under the tort claims act, and it's clear from the legislative history that when they said, claims cognizable under the tort claims act, they meant all tort claims."
+1993.92-741,0,15042,david_h_souter,scotus_justice,1396.413,1396.673,Well--
+1993.92-741,0,37685,paul_bender,,1398.416,1399.185,That was pre-Bivens.
+1993.92-741,0,15049,antonin_scalia,scotus_justice,1399.185,1401.656,And that statement was true pre-Bivens.
+1993.92-741,0,37685,paul_bender,,1404.08,1406.181,"Well, it wasn't true before the tort claims act."
+1993.92-741,0,15049,antonin_scalia,scotus_justice,1413.975,1426.934,"I understand, but pre-Bivens, and given the new enactment of the tort claims act, that statement in the legislative history would be quite true, but it says nothing about what the effect of that act would be after you have Bivens."
+1993.92-741,0,37685,paul_bender,,1426.934,1442.946,"All right, then the question for this Court is, when the Court creates the Bivens cause of action, finds the Bivens cause of action in the Constitution, is that now going to be the only tort claim that you can bring against the agencies, even though you can't bring it against the United States?"
+1993.92-741,0,15084,ruth_bader_ginsburg,scotus_justice,1443.193,1443.584,Why not?
+1993.92-741,0,37685,paul_bender,,1446.997,1455.433,"--No, I think by cognizable under 1346(b), they meant tort claims, otherwise they could not possibly have said what they say in the next sentence of the committee report."
+1993.92-741,0,15084,ruth_bader_ginsburg,scotus_justice,1461.436,1467.69,"Again, you're referring to legislative history... legislative history prior to Bivens?"
+1993.92-741,0,37685,paul_bender,,1467.69,1468.752,"Yes, right."
+1993.92-741,0,15042,david_h_souter,scotus_justice,1468.752,1474.886,And you're simply reading out of the statute the description of the Government's liability as if it were a private party.
+1993.92-741,0,37685,paul_bender,,1486.073,1490.865,"That's right, but it's still a tort claim cognizable under the tort claims act for purposes of--"
+1993.92-741,0,15113,anthony_m_kennedy,scotus_justice,1490.865,1494.308,How do you define cognizable to reach this conclusion?
+1993.92-741,0,37685,paul_bender,,1494.308,1496.309,--I define it as a tort claim.
+1993.92-741,0,15113,anthony_m_kennedy,scotus_justice,1496.309,1499.851,"The word ""cognizable"" doesn't mean tort claim."
+1993.92-741,0,37685,paul_bender,,1499.851,1505.013,"Well, it says, cognizable under the tort claims act, which I think means recognizable under the tort claims act."
+1993.92-741,0,15092,sandra_day_oconnor,scotus_justice,1508.556,1516.684,"Well, how could it be cognizable if the court doesn't even have jurisdiction under the statute?"
+1993.92-741,0,37685,paul_bender,,1516.684,1520.915,"Well, take, for example, a case of the post office's negligent delivery of mail."
+1993.92-741,0,15060,john_paul_stevens,scotus_justice,1532.693,1537.277,"Well, because it has a State analog for private parties, which a constitutional tort doesn't."
+1993.92-741,0,37685,paul_bender,,1537.277,1541.019,"--Right, but just... that's a different reason."
+1993.92-741,0,15092,sandra_day_oconnor,scotus_justice,1557.199,1557.73,Well--
+1993.92-741,0,37685,paul_bender,,1557.73,1559.53,--and it's clear that many things excluded--
+1993.92-741,0,15092,sandra_day_oconnor,scotus_justice,1559.53,1567.656,"--Mr. Bender, I mean, if you just read the plain language of the statute, I think you have a hard time reaching your interpretation of what cognizable means."
+1993.92-741,0,37685,paul_bender,,1567.656,1585.408,"--I think if all you had was the language of the statute there would be a difficulty in reading it that way, but when you start to think about it and realize that a suit against the post office for negligent delivery of mail cannot be successfully brought under the tort claims act, nevertheless it is held cognizable."
+1993.92-741,0,15092,sandra_day_oconnor,scotus_justice,1590.579,1593.622,That's this Court's determination?
+1993.92-741,0,37685,paul_bender,,1593.622,1594.713,What is--
+1993.92-741,0,15113,anthony_m_kennedy,scotus_justice,1594.713,1599.117,"Have we said that it's cognizable, that that instance--"
+1993.92-741,0,37685,paul_bender,,1599.117,1599.446,--No.
+1993.92-741,0,15113,anthony_m_kennedy,scotus_justice,1599.446,1600.207,--that you gave is cognizable?
+1993.92-741,0,37685,paul_bender,,1604.2,1604.55,No.
+1993.92-741,0,15113,anthony_m_kennedy,scotus_justice,1605.57,1607.533,You said everybody agrees that this is cognizable.
+1993.92-741,0,37685,paul_bender,,1610.154,1614.516,--I think everybody agrees that you cannot sue the United States Postal Service for negligent delivery of the mail.
+1993.92-741,0,15113,anthony_m_kennedy,scotus_justice,1614.516,1617.047,"--But the question is, does everybody agree that that's what cognizable means?"
+1993.92-741,0,37685,paul_bender,,1617.047,1617.568,No.
+1993.92-741,0,15084,ruth_bader_ginsburg,scotus_justice,1619.959,1634.24,"Mr. Bender, what you're... you're making the argument that Congress really mean to bracket sue-and-be-sued agencies with all other agencies for tort claims act purposes but they used incomplete language so the court should kind of fix up the language and--"
+1993.92-741,0,37685,paul_bender,,1634.24,1635.299,It's not incomplete.
+1993.92-741,0,15060,john_paul_stevens,scotus_justice,1654.413,1657.685,"--No, but it could mean claims that have a counterpart in State law."
+1993.92-741,0,37685,paul_bender,,1657.685,1667.84,"It could mean claims that have a counterpart in State law, that's true, but Bivens, then, I think makes clear that you shouldn't assume... you shouldn't imply a cause of action against the agency."
+1993.92-741,0,15084,ruth_bader_ginsburg,scotus_justice,1701.664,1707.649,Does it also counsel hesitation that you'd have this anomaly of the difference between the sue-and-be-sued agencies and other agencies?
+1993.92-741,0,37685,paul_bender,,1707.649,1708.637,--I think it does.
+1993.92-741,0,15049,antonin_scalia,scotus_justice,1718.554,1721.125,"It didn't make clear that it wanted, even if you read the legislative history."
+1993.92-741,0,37685,paul_bender,,1729.781,1732.084,--May I answer Justice Scalia's question?
+1993.92-741,0,15141,william_h_rehnquist,scotus_justice,1744.682,1745.583,"Thank you, Mr. Bender."
+1993.92-741,1,25269,gennaro_a_filice_iii,,1747.503,1752.836,Mr. Chief Justice and may it please the Court:
+1993.92-741,1,15141,william_h_rehnquist,scotus_justice,1793.994,1799.407,What about the regulation that allows the receiver to terminate a contract that he deems burdensome?
+1993.92-741,1,25269,gennaro_a_filice_iii,,1799.407,1813.977,"Yes, that regulation exists, and the thrust of our case, Mr. Chief Justice, is that Mr. Meyer was entitled to due process in the decision-making process that led to a determination that his contract was burdensome."
+1993.92-741,1,15141,william_h_rehnquist,scotus_justice,1826.685,1835.311,And so that would be true of any employee that the receiver came in and decided to fire for the good of the institution.
+1993.92-741,1,25269,gennaro_a_filice_iii,,1842.935,1845.016,"Not an opportunity for a hearing, Your Honor."
+1993.92-741,1,15049,antonin_scalia,scotus_justice,1856.454,1859.098,And I assume that's true for all Government contracts.
+1993.92-741,1,25269,gennaro_a_filice_iii,,1870.385,1872.936,"Not necessarily so, Justice Scalia."
+1993.92-741,1,15049,antonin_scalia,scotus_justice,1908.449,1913.112,"Well, you're... then you're not claiming a violation of the Constitution, but just of the regulation."
+1993.92-741,1,25269,gennaro_a_filice_iii,,1919.797,1919.977,No.
+1993.92-741,1,15084,ruth_bader_ginsburg,scotus_justice,1975.272,1995.337,"--Well, if the Federal law is more favorable to the employee and says you must show that it's unsafe or unsound, we must find it burdensome... the Federal law's more favorable, then there is a constitutional right, but if the Federal law is harsher and just says, everyone goes, there is no constitutional right, that's a strange--"
+1993.92-741,1,25269,gennaro_a_filice_iii,,1995.337,2029.859,"--I don't believe that is strange, Your Honor, because if you look at Roth, which is the touchstone of the property interest we're talking about, it talks about reasonable expectations of the employee, and if you go to a savings and loan today and get a job, you know, under regulations as I understand them, that your job is forever subject to being terminated immediately upon a seizure, but at that time, Federal regulations provided that you could have an employment contract with your employer, and it was not prohibited so long as there was an adequate termination for cause provision."
+1993.92-741,1,15084,ruth_bader_ginsburg,scotus_justice,2029.859,2046.73,"--So when you're hired by the State entity, or by the savings and loan, you're... to determine the nature of your property interest, you're looking to the day when that institution is going to go under and be taken over by a Federal receiver, and that's--"
+1993.92-741,1,25269,gennaro_a_filice_iii,,2046.73,2076.88,"I believe that really is a legal fiction, but what you look to under Roth v. Board of Regents to define the property interest that Mr. Meyer is asserting is independent sources such as State law which define... which first of all create the property right, and at the same time define its scope, and California law defined the scope of this property interest as a right to continued employment absent just cause for dismissal, and that definition was completely consistent with Federal law on point."
+1993.92-741,1,15042,david_h_souter,scotus_justice,2091.67,2093.062,--Do you... I'm sorry.
+1993.92-741,1,25269,gennaro_a_filice_iii,,2093.953,2096.254,"--As apparently it would now, Justice Souter."
+1993.92-741,1,15042,david_h_souter,scotus_justice,2096.254,2110.003,"Do you claim that the State law has anything to do by way of... by way of law or analogy with defining the degree of process that you are entitled to, and protection of the right?"
+1993.92-741,1,25269,gennaro_a_filice_iii,,2110.003,2110.414,No.
+1993.92-741,1,15042,david_h_souter,scotus_justice,2122.851,2141.034,"Now, in deciding that, should we... could we reasonably ask the question, what process he would have had against the bank as a private entity if the bank had simply terminated him prior to the assumption by FDIC, or whatever, of the receivership?"
+1993.92-741,1,25269,gennaro_a_filice_iii,,2141.034,2146.047,"I'm not sure that that is a relevant question, because that's not... not--"
+1993.92-741,1,15141,william_h_rehnquist,scotus_justice,2146.047,2148.829,"You should assume it's a relevant question, since it's asked by a member of the--"
+1993.92-741,1,25269,gennaro_a_filice_iii,,2149.039,2150.791,"--I'm sorry, Chief Justice."
+1993.92-741,1,15042,david_h_souter,scotus_justice,2156.205,2158.866,Well said.
+1993.92-741,1,25269,gennaro_a_filice_iii,,2158.866,2182.372,"Because the definition of Mr. Meyer's property right was that he was entitled to continued employment absent just cause for dismissal, and so when... when the savings and loan was taken over, at that point in time he had an interest in continued employment the same as if he had had a written contract that said that he wouldn't be discharged except for just cause."
+1993.92-741,1,15042,david_h_souter,scotus_justice,2182.372,2183.864,Let me ask you a different question.
+1993.92-741,1,25269,gennaro_a_filice_iii,,2222.639,2239.55,"The constitutional right, Justice Scalia, comes from the Fifth Amendment, and when we are looking at property interests in employment, there's no question the Court has said this on numerous occasions, that you look to independent sources such as State law, so this is an employment case--"
+1993.92-741,1,15049,antonin_scalia,scotus_justice,2239.55,2242.011,"For the property, not for what procedure is due."
+1993.92-741,1,25269,gennaro_a_filice_iii,,2242.011,2242.572,--That's correct.
+1993.92-741,1,15049,antonin_scalia,scotus_justice,2242.572,2243.073,Okay.
+1993.92-741,1,25269,gennaro_a_filice_iii,,2243.073,2269.219,"And then the procedure that is due, you look to the Fifth Amendment, and you look to this Court's rulings in a number of cases, the most recent one being Burns v. United States, that says where an administrative regulation permits the Government to take property, or to... I'm sorry, it shouldn't be a taking... to deprive somebody of a liberty or property interest, that person should be entitled to due process, and if the--"
+1993.92-741,1,15084,ruth_bader_ginsburg,scotus_justice,2269.219,2275.063,But you've tacked onto the State-created property right the Federal regulation.
+1993.92-741,1,25269,gennaro_a_filice_iii,,2306.632,2314.528,--I believe that we need to have a Federal regulation which permits California to imply that contract right.
+1993.92-741,1,15084,ruth_bader_ginsburg,scotus_justice,2335.811,2353.142,"You know, we've had so many discussions about what is this... the contours of this right, it occurred to me that the qualified immunity defense that was available to Pattullo, why wasn't that available to the FSLIC as well?"
+1993.92-741,1,25269,gennaro_a_filice_iii,,2353.142,2362.099,"Well, first of all, the qualified immunity defense was not submitted, not pled, not raised as a defense by FSLIC."
+1993.92-741,1,15084,ruth_bader_ginsburg,scotus_justice,2403.846,2408.949,Except that Congress has made all other agencies totally immune.
+1993.92-741,1,25269,gennaro_a_filice_iii,,2408.949,2410.401,"--Well, Congress--"
+1993.92-741,1,15084,ruth_bader_ginsburg,scotus_justice,2410.401,2423.01,"That's my... what sense does it make to say that this agency, unlike the individual, is liable without a qualified immunity defense, and all other agencies are totally immune?"
+1993.92-741,1,25269,gennaro_a_filice_iii,,2423.01,2451.097,"--Well, I would say that there is some sense in this sense: this agency was an independent corporation that had both Government and nongovernmental funds, that operated with its own board of directors, that had its own budget, that was authorized to commit corporate funds for various expenses, so this agency in fact is different than a standard agency that is not an independent, sue-and-be-sued corporate agency."
+1993.92-741,1,15141,william_h_rehnquist,scotus_justice,2455.031,2461.615,Have we ever held an agency liable on a Bivens cause of action as opposed to individuals?
+1993.92-741,1,25269,gennaro_a_filice_iii,,2461.615,2466.227,"You have not, Your Honor, and I don't think you have been asked to do that, so far as I can tell."
+1993.92-741,1,15141,william_h_rehnquist,scotus_justice,2466.227,2468.688,I take it you're asking us to in this case?
+1993.92-741,1,25269,gennaro_a_filice_iii,,2468.688,2475.373,"Yes, we are, and the reason why we are, other... if I can move on to the sue-and-be-sued argument that we've gotten--"
+1993.92-741,1,15042,david_h_souter,scotus_justice,2475.373,2478.085,Can I ask you one question before you do?
+1993.92-741,1,25269,gennaro_a_filice_iii,,2478.085,2478.355,--Yes.
+1993.92-741,1,15042,david_h_souter,scotus_justice,2478.355,2480.747,It's not going to work into your argument later on.
+1993.92-741,1,25269,gennaro_a_filice_iii,,2531.601,2537.583,"Well, Your Honor, I said that that way... and let me just make clear what our position is."
+1993.92-741,1,15042,david_h_souter,scotus_justice,2574.678,2576.28,"I mistook you, I'm sorry."
+1993.92-741,1,25269,gennaro_a_filice_iii,,2576.28,2591.069,"I would say, however, that we do not gainsay the Government's right, broad right to act boldly when there's an FSLIC takeover of a savings and loan that has financial problems."
+1993.92-741,1,15084,ruth_bader_ginsburg,scotus_justice,2594.102,2602.447,"When you were talking about the scope of this, you didn't mean to imply that this would be a right that all employees would have."
+1993.92-741,1,25269,gennaro_a_filice_iii,,2607.238,2622.028,"--That's correct, and apparently, the way the Government now operates, probably nobody could make this claim, because the way the Government now operates, apparently you can only have an at-will employment contract with a savings and loan."
+1993.92-741,1,15113,anthony_m_kennedy,scotus_justice,2710.526,2711.397,--If you have to rely on--
+1993.92-741,1,25269,gennaro_a_filice_iii,,2728.017,2733.862,"In other words, if you say that the sue-and-be-sued clause does not waive sovereign immunity?"
+1993.92-741,1,15113,anthony_m_kennedy,scotus_justice,2733.862,2737.995,"Yes, except to the extent that it's waived under 1346(b)."
+1993.92-741,1,25269,gennaro_a_filice_iii,,2737.995,2743.057,I believe that probably would be the end of our case.
+1993.92-741,1,15084,ruth_bader_ginsburg,scotus_justice,2770.807,2790.678,"Then you wipe out the entire... the Federal Tort Claims Act is beside the point, because the immunity... we should go back and rethink the entire immunity doctrine, but even if you... even if we did that, you have a problem of extending Bivens to an agency something you conceded has never been done before."
+1993.92-741,1,25269,gennaro_a_filice_iii,,2809.723,2821.651,"I don't believe, Your Honor, that in fact this case is very different than the majority of Bivens cases, in that what we are talking about is an indirect impact on the Federal fisc."
+1993.92-741,1,15042,david_h_souter,scotus_justice,2859.285,2868.871,"Well, except there is one difference, and that is the Federal Government chooses, for whatever reason, voluntarily to pay in the one case and it doesn't choose in the other."
+1993.92-741,1,25269,gennaro_a_filice_iii,,2868.871,2869.61,Well--
+1993.92-741,1,15042,david_h_souter,scotus_justice,2869.61,2887.762,"The question... the issue of what is appropriate for the Court is what is it... in recognizing the Bivens action is a question of what is appropriate for the Court to do in imposing liability involuntarily, and you're suggesting an analogy with liability voluntarily assumed."
+1993.92-741,1,25269,gennaro_a_filice_iii,,2889.084,2894.027,"--Well, it is voluntarily assumed only with a gun at its head, so to speak."
+1993.92-741,1,15042,david_h_souter,scotus_justice,2894.397,2896.468,Where does the gun come from?
+1993.92-741,1,25269,gennaro_a_filice_iii,,2898.451,2923.806,"--Well, the gun comes from the practical consideration that if the Federal Government, after the creation of Bivens, then had a policy that it was not going to indemnify or provide a defense, which is another expense to any of its employees that were charged with Bivens actions, that would cause a tremendous morale problem among Federal employees and would be, in a practical sense, an impossible situation, so in fact--"
+1993.92-741,1,15042,david_h_souter,scotus_justice,2923.806,2928.1,"Well, it might cause timidity, and that may be why the Government wants to pay the bill."
+1993.92-741,1,25269,gennaro_a_filice_iii,,2932.382,2963.353,"--Well, it's voluntary in a sense, but it would cause timidity, or lack of zealousness in Government employees, or lack of morale, and so in a sense, when the court came down with the Bivens decision, it wasn't directly impacting the Federal fisc, but in a practical sense it was indirectly impacting the Federal fisc, because it would be hard for me to believe that the Government would ever take the position that it is never going to provide a defense, let alone indemnity, on every Bivens claim no matter how specious the claim is."
+1993.92-741,1,15141,william_h_rehnquist,scotus_justice,2963.353,2964.512,"Of course, you--"
+1993.92-741,1,25269,gennaro_a_filice_iii,,2978.263,2990.338,"Your decision in Smith dealt with the 1988 legislation, the 1988 Federal Employees Reform Act, which was in turn a response to your Westfall decision."
+1993.92-741,1,15141,william_h_rehnquist,scotus_justice,3040.542,3052.111,"Well, but that's your theory, and it may be factually distinguishable from Smith, but certainly the entire analysis of Smith suggests that your definition of cognizable is too narrow."
+1993.92-741,1,25269,gennaro_a_filice_iii,,3052.111,3058.644,"Well, as the court of appeals noted, it is difficult to interpret the sounds of legislative silence."
+1993.92-741,1,15141,william_h_rehnquist,scotus_justice,3073.723,3087.224,"I'm not talking about the legislative history of what happened in... I'm talking about our opinion in Smith, which assumes a much broader definition of cognizable, I think, than you're willing to concede."
+1993.92-741,1,25269,gennaro_a_filice_iii,,3087.224,3105.843,"Except that your definition, Your Honor, respectfully, in the Smith case again dealt with common law torts and with employees, and what you said in Smith was, excluded common law torts, implicitly or explicitly, excluded common law torts, would arguably still be cognizable under the act."
+1993.92-741,1,15141,william_h_rehnquist,scotus_justice,3131.262,3141.848,"But at the time Congress legislated 1346(b), which was 1946, there were no such thing as constitutional torts recognized."
+1993.92-741,1,25269,gennaro_a_filice_iii,,3141.848,3142.739,"That's true, but--"
+1993.92-741,1,15141,william_h_rehnquist,scotus_justice,3142.739,3157.258,"You can argue one way or the other from that, but just like you say that you can't really draw much analysis from the 1946 action since Bivens came much later, the whole idea of constitutional torts came much later."
+1993.92-741,1,25269,gennaro_a_filice_iii,,3157.258,3195.563,"--That's true, and as a matter of fact, the sue-and-be-sued clause was... that we're talking about for the FSLIC was drafted in the 1930's, but the point we are making is, is this Court has held that sue-and-be-sued clauses are to be liberally construed as general waivers of sovereign immunity unless one of three things occur, unless the suit in question is inconsistent with the statutory scheme, unless an implied restriction on the general waiver is necessary to avoid a grave interference with a governmental... performance of a governmental function, or unless it was clearly the purpose of Congress to use a sue-and-be-sued clause in a narrow sense."
+1993.92-741,1,15084,ruth_bader_ginsburg,scotus_justice,3213.265,3217.199,"With no thought at all, Mr. Filice, of anything like a Bivens claim."
+1993.92-741,1,25269,gennaro_a_filice_iii,,3217.199,3217.657,--That's true.
+1993.92-741,1,15049,antonin_scalia,scotus_justice,3261.647,3270.881,"Mr. Filice, 1346(b) provides liability if a private person would be liable to the claimant in accordance with the law of the place where the act or omission occurred."
+1993.92-741,1,25269,gennaro_a_filice_iii,,3286.472,3293.188,"Well, there is jurisprudence by this Court that would say no, that that is cognizable."
+1993.92-741,1,15049,antonin_scalia,scotus_justice,3293.188,3295.769,"Right, and it seems to me you're repudiating that jurisprudence."
+1993.92-741,1,25269,gennaro_a_filice_iii,,3295.769,3296.009,No.
+1993.92-741,1,15049,antonin_scalia,scotus_justice,3296.6,3297.399,Tell me why you're not.
+1993.92-741,1,25269,gennaro_a_filice_iii,,3297.399,3302.875,"--The way I justify our position, Your Honor, is that those actions are at least common law torts."
+1993.92-741,1,15049,antonin_scalia,scotus_justice,3330.672,3338.187,"So the difference between you and the Government is that the Government says cognizable means all torts, and you say that cognizable means just common law torts."
+1993.92-741,1,25269,gennaro_a_filice_iii,,3339.718,3342.319,"I believe that is one way to put it, Your Honor, yes."
+1993.92-741,1,15049,antonin_scalia,scotus_justice,3342.319,3343.932,"There's little choice in rotten eggs, it seems to me."
+1993.92-741,1,25269,gennaro_a_filice_iii,,3350.633,3364.064,"Well, we believe that our... well, I would say this about your hypothetical, your hypothetical, while certainly I am duty bound to answer it, is not the case that we have today."
+1993.92-741,1,15084,ruth_bader_ginsburg,scotus_justice,3364.064,3371.417,But you are asking us to extend the Bivens doctrine to so far new territory.
+1993.92-741,1,25269,gennaro_a_filice_iii,,3380.103,3381.194,Yes--
+1993.92-741,1,15084,ruth_bader_ginsburg,scotus_justice,3381.194,3385.669,--and you're asking us to extend that to one class of agency uniquely.
+1993.92-741,1,25269,gennaro_a_filice_iii,,3385.669,3431.538,"--Yes, I am, and it's my position that the logic of the Bivens action, namely, that this Court has the primary duty to enforce constitutionally protected rights, and that it should not be surprising that Article III courts, in protecting constitutionally protected rights would turn to traditional judicial remedies like damages to do that, applies with equal logic to a sue-and-be-sued agency, and that sue-and-be-sued agency has a waiver of sovereign immunity by Congress, so I believe that... I believe that your logic in Bivens makes perfect sense for a sue-and-be-sued agency, and there has been a waiver of sovereign immunity."
+1993.92-741,1,15141,william_h_rehnquist,scotus_justice,3463.601,3465.053,"Thank you, Mr. Filice."

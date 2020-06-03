@@ -1,0 +1,210 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2010.09-737,0,15086,john_g_roberts_jr,scotus_justice,0.0,6.824,"We will hear argument first this morning in Case 09-737, Ortiz v. Jordan."
+2010.09-737,0,21183,david_e_mills,,7.76,11.804,"Mr. Chief Justice, and may it please the Court:"
+2010.09-737,0,15086,john_g_roberts_jr,scotus_justice,31.952,43.729,"I'm sorry to interrupt so quickly, but that especially I take it -- I take it as a concession that there's a difference between claims for qualified immunity based on evidence and claims that are based on law."
+2010.09-737,0,21183,david_e_mills,,43.729,48.709,"--Well, there's a difference between defenses that depend on the evidence at trial."
+2010.09-737,0,15113,anthony_m_kennedy,scotus_justice,65.765,68.607,"Well, of course there is always -- there are always facts."
+2010.09-737,0,21183,david_e_mills,,80.446,82.884,"That is -- that is an issue of law, Your Honor."
+2010.09-737,0,15113,anthony_m_kennedy,scotus_justice,82.884,91.849,"And doesn't that fall within the ""except"" clause that the Chief Justice was talking to you about, which you haven't had much time to fill out, I understand."
+2010.09-737,0,21183,david_e_mills,,120.118,136.656,"Well, and that gets to what I think is the heart of the split in the circuits and the confusion, is that every circuit recognizes a very general rule that where the evidence at trial moots that at summary judgment we are not going to review the summary judgment decision."
+2010.09-737,0,15084,ruth_bader_ginsburg,scotus_justice,187.104,189.868,"So Mr. Mills, what then is the difference?"
+2010.09-737,0,21183,david_e_mills,,236.242,243.862,"Well, I think that's largely -- largely right, Justice Ginsburg, and here's an example of what did change in this case."
+2010.09-737,0,15068,samuel_a_alito_jr,scotus_justice,288.561,291.532,This gets to what troubles me about this case.
+2010.09-737,0,21183,david_e_mills,,344.524,348.352,"--Well, there's a couple points in there that I need to address."
+2010.09-737,0,15068,samuel_a_alito_jr,scotus_justice,377.089,382.211,"Well, suppose we were to hold that they couldn't review the denial of summary judgment."
+2010.09-737,0,21183,david_e_mills,,424.646,427.036,--And I agree with that last point.
+2010.09-737,0,15049,antonin_scalia,scotus_justice,471.363,479.173,"But that's not the point that you have made here, I mean, and that is not the point on which we granted certiorari."
+2010.09-737,0,21183,david_e_mills,,479.173,488.996,--That's right and I think -- I think what I just said about the 50(b) point is that I think it highlights that this really was a summary judgment review by the Sixth Circuit.
+2010.09-737,0,15094,elena_kagan,scotus_justice,488.996,493.98,"Mr. Mills, if I could just understand your answer to Justice Alito."
+2010.09-737,0,21183,david_e_mills,,506.068,510.799,"I do concede it, except to the extent that I concede they did an adequate review of the record."
+2010.09-737,0,15094,elena_kagan,scotus_justice,513.687,518.499,So they have that first paragraph where they suggest that they're ruling on a summary judgment motion.
+2010.09-737,0,21183,david_e_mills,,533.851,537.63,--There are certainly a number of instances where they definitely are talking about the trial.
+2010.09-737,0,15131,sonia_sotomayor,scotus_justice,595.823,604.632,"That answer is not addressing Justice Alito's point, which he said a Rule 50 motion is not jurisdictional."
+2010.09-737,0,21183,david_e_mills,,622.814,627.748,"Your Honor, I am not disputing that the Sixth Circuit had jurisdiction to consider the case."
+2010.09-737,0,15131,sonia_sotomayor,scotus_justice,663.235,670.358,"In claim processing rules we have said that, unless you object, the court doesn't lack power."
+2010.09-737,0,21183,david_e_mills,,685.851,701.016,"It's not waived because, while the general principle is that claims processing rules are indeed subject to waiver and forfeiture, in this particular context, as this Court has made clear, that the word ""power"" is not an accidental use."
+2010.09-737,0,15084,ruth_bader_ginsburg,scotus_justice,702.67,709.903,"Why is it -- power -- jurisdiction is power, power to proceed in a case."
+2010.09-737,0,21183,david_e_mills,,758.117,765.849,"Well, Justice Ginsburg, you are absolutely correct and I think that footnote 4 of Unitherm goes right to your point."
+2010.09-737,0,15068,samuel_a_alito_jr,scotus_justice,793.665,801.269,"Mr. Mills, I got you started on this, but none of this is the question on which we granted review, is it?"
+2010.09-737,0,21183,david_e_mills,,819.48,838.365,"--Justice Alito, that highlights another important point about this exchange, and that is that Respondents in the Sixth Circuit did not suggest that the Sixth Circuit did have the authority to take the summary judgment question and then look ahead to trial facts."
+2010.09-737,0,15084,ruth_bader_ginsburg,scotus_justice,864.566,890.136,"Are you saying then that if we explain to the Fifth Circuit -- to the Sixth Circuit, that the record they must look at is the trial record, so it's different from the summary judgment stage, if we told them that then maybe they would look at the evidence differently, even though they purported to look at the trial evidence?"
+2010.09-737,0,21183,david_e_mills,,890.136,893.603,"Well, I think if that order were given they would indeed do that."
+2010.09-737,0,15084,ruth_bader_ginsburg,scotus_justice,937.676,952.252,"So if you're right, then there has to be a remand to the Sixth Circuit with instructions to send the case back to the district court to ask the district court whether it thought the evidence was sufficient?"
+2010.09-737,0,21183,david_e_mills,,952.252,953.298,"I don't think so, Your Honor."
+2010.09-737,0,15068,samuel_a_alito_jr,scotus_justice,986.253,1006.073,"And your argument is that where the district court denies summary judgment on a qualified immunity issue that is based even purely on an issue of law, there can't be a review unless that's renewed -- there can't be appellate review unless that purely legal question is renewed in the Rule 50(b) motion."
+2010.09-737,0,21183,david_e_mills,,1007.337,1013.568,"That is my argument, with a couple key pieces -- first of all, they could of course take a collateral order appeal."
+2010.09-737,0,15068,samuel_a_alito_jr,scotus_justice,1036.416,1038.401,But what if the facts are utterly undisputed?
+2010.09-737,0,21183,david_e_mills,,1062.983,1067.436,"Well, it's certainly a less compelling case than this one where the facts indeed change."
+2010.09-737,0,15094,elena_kagan,scotus_justice,1084.599,1096.078,"Mr. Mills, when -- when Unitherm talks about the district court feeling the case and having a feel for the case, it's talking about having ae feel for the evidence and for the facts."
+2010.09-737,0,21183,david_e_mills,,1121.99,1128.735,"It -- it would still mean you would have to reverse in this case, and I think in Justice Alito's hypothetical perhaps, perhaps not."
+2010.09-737,0,15086,john_g_roberts_jr,scotus_justice,1154.617,1171.451,"I don't understand, counsel, how your argument that in every case you need to know the facts, every qualified immunity case you need to know the facts, and those only come out at trial -- is consistent with our recognizing that you can have a collateral order appeal of denial of summary judgment."
+2010.09-737,0,21183,david_e_mills,,1181.543,1182.651,You are absolutely right.
+2010.09-737,0,15086,john_g_roberts_jr,scotus_justice,1212.684,1217.216,"Well, so you are just saying your case on qualified immunity isn't like that case; Is that all?"
+2010.09-737,0,21183,david_e_mills,,1217.216,1226.446,"--Well, I'm saying it -- it's like that case to the extent that the court still has to understand, if it's going to enter judgment, what the conduct was."
+2010.09-737,0,15049,antonin_scalia,scotus_justice,1228.037,1229.648,"No, it doesn't -- doesn't have to know what it was."
+2010.09-737,0,21183,david_e_mills,,1233.676,1234.472,--That's right.
+2010.09-737,0,15049,antonin_scalia,scotus_justice,1234.472,1237.705,"At the summary judgment, you give the benefit of the doubt to the plaintiff."
+2010.09-737,0,21183,david_e_mills,,1237.705,1238.582,That's right.
+2010.09-737,0,15049,antonin_scalia,scotus_justice,1238.582,1241.156,So there is always a factual element to the -- to the ruling.
+2010.09-737,0,21183,david_e_mills,,1241.156,1241.846,That's right.
+2010.09-737,0,15049,antonin_scalia,scotus_justice,1261.522,1263.617,It's never going to be any better than what you assumed.
+2010.09-737,0,21183,david_e_mills,,1268.959,1271.333,"--Your Honor, it actually was in this case."
+2010.09-737,0,15049,antonin_scalia,scotus_justice,1271.333,1271.442,For -- for--
+2010.09-737,0,21183,david_e_mills,,1271.442,1275.58,It actually was better at trial in this case for the plaintiff.
+2010.09-737,0,15049,antonin_scalia,scotus_justice,1275.58,1278.111,--Why was that?
+2010.09-737,0,21183,david_e_mills,,1278.111,1294.242,It was -- one example I gave earlier: Ms. Ortiz before trial didn't have knowledge of what would have happened had Mrs. Jordan not violated prison procedures and immediately reported the first assault.
+2010.09-737,0,15131,sonia_sotomayor,scotus_justice,1310.769,1321.31,"It just -- just finish: Because if Ms. Jordan had reported the incident that she was required to, they would have put Ms. Ortiz in segregation automatically; is that it?"
+2010.09-737,0,21183,david_e_mills,,1321.31,1330.712,"--Not that they would have put her in segregation, but that they would have taken steps to separate her from the officer, whether that meant removing the officer from the location or putting her in another cell."
+2010.09-737,0,15086,john_g_roberts_jr,scotus_justice,1337.368,1347.19,"But you have an obligation in opposing summary judgment to, in your list of disputed facts or facts that preclude summary judgment, to put all that in."
+2010.09-737,0,21183,david_e_mills,,1352.626,1355.672,That is not something Ms. Ortiz would have knowledge of.
+2010.09-737,0,15086,john_g_roberts_jr,scotus_justice,1355.672,1356.468,I know.
+2010.09-737,0,15084,ruth_bader_ginsburg,scotus_justice,1356.951,1360.184,But you -- you prevailed on the summary judgment motion.
+2010.09-737,0,21183,david_e_mills,,1363.058,1363.982,That's right.
+2010.09-737,0,15084,ruth_bader_ginsburg,scotus_justice,1363.982,1376.07,So the -- we know that the district judge thought that at that point there was a case to be presented for trial based on the plaintiff's allegations.
+2010.09-737,0,21183,david_e_mills,,1376.07,1376.366,That's absolutely right.
+2010.09-737,0,15086,john_g_roberts_jr,scotus_justice,1376.819,1378.725,"--Well, but -- but you may prevail."
+2010.09-737,0,21183,david_e_mills,,1389.968,1405.949,"--Well, Your Honor, I -- I just can't see how Ms. Ortiz would have an obligation to put in some fact that is outside of her knowledge and, frankly, something that came out when a Respondent caved in a bit on cross-examination."
+2010.09-737,0,15139,stephen_g_breyer,scotus_justice,1405.949,1409.337,How would you put the rule about when you have to renew a motion?
+2010.09-737,0,21183,david_e_mills,,1428.14,1432.578,I think that -- that's a fair way to state it.
+2010.09-737,0,15139,stephen_g_breyer,scotus_justice,1432.578,1433.935,Is there any authority for that?
+2010.09-737,0,21183,david_e_mills,,1449.35,1451.179,Well--
+2010.09-737,0,15139,stephen_g_breyer,scotus_justice,1451.179,1453.194,"Not necessarily by you, but by somebody."
+2010.09-737,0,21183,david_e_mills,,1453.194,1455.441,"--Yes, indeed."
+2010.09-737,0,15139,stephen_g_breyer,scotus_justice,1483.213,1485.163,"No, but -- let -- let's imagine it has nothing to do with qualified immunity."
+2010.09-737,0,21183,david_e_mills,,1485.163,1485.292,Yes.
+2010.09-737,0,15139,stephen_g_breyer,scotus_justice,1485.292,1486.805,A bread and butter case.
+2010.09-737,0,21183,david_e_mills,,1486.805,1487.039,Yes.
+2010.09-737,0,15139,stephen_g_breyer,scotus_justice,1487.039,1490.116,You can't appeal a denial of motion for summary judgment.
+2010.09-737,0,21183,david_e_mills,,1513.294,1515.778,"Yes, I think it is."
+2010.09-737,0,15094,elena_kagan,scotus_justice,1517.494,1524.79,"And Mr. Mills, if that were the basic hornbook rule, your claims are all matters of fact or mixed questions of fact and law?"
+2010.09-737,0,21183,david_e_mills,,1524.79,1528.21,"--Our claims are mixed questions of fact and law, yes."
+2010.09-737,0,15094,elena_kagan,scotus_justice,1528.21,1530.02,There are no purely legal issues?
+2010.09-737,0,21183,david_e_mills,,1530.02,1534.173,There are purely legal components to those inquiries; there is no doubt about it.
+2010.09-737,0,15094,elena_kagan,scotus_justice,1540.171,1540.655,"Well, that's what I'm asking."
+2010.09-737,0,21183,david_e_mills,,1549.962,1556.193,At the end of the day these are factual inquiries in which you have to understand the officer's conduct.
+2010.09-737,0,15068,samuel_a_alito_jr,scotus_justice,1574.045,1578.359,The -- determining what is a mixed question is notoriously difficult.
+2010.09-737,0,21183,david_e_mills,,1595.29,1602.925,"Yes, it is, because that's a classic sufficiency challenge at Rule 50, to assume the -- that's what Rule 50 requires."
+2010.09-737,0,15086,john_g_roberts_jr,scotus_justice,1610.752,1611.485,"Thank you, counsel."
+2010.09-737,1,17897,benjamin_c_mizer,,1621.355,1623.745,"Mr. Chief Justice, and may it please the Court:"
+2010.09-737,1,15113,anthony_m_kennedy,scotus_justice,1637.565,1640.797,"Except that it begins, 2(a),"
+2010.09-737,1,17897,benjamin_c_mizer,,1667.272,1674.177,I think that the Sixth Circuit's word choice in the sentence that you just read was not perfectly clear.
+2010.09-737,1,15094,elena_kagan,scotus_justice,1674.177,1680.658,"Well, Mr. Mizer, you asked for an appeal of the summary judgment motion, so they might have chosen their words based on your request."
+2010.09-737,1,17897,benjamin_c_mizer,,1680.658,1686.094,"Actually, Your Honor, the summary judgment motion was only one of several orders listed in the notice of appeal."
+2010.09-737,1,15084,ruth_bader_ginsburg,scotus_justice,1706.212,1714.971,"But, Mr. Mizer, then you must concede that this opening sentence that Justice Kennedy just quoted is wrong."
+2010.09-737,1,17897,benjamin_c_mizer,,1727.842,1736.23,I think that what the Sixth Circuit meant there was that the issue of qualified immunity raised in summary judgment was preserved.
+2010.09-737,1,15131,sonia_sotomayor,scotus_justice,1748.179,1756.032,So that we should -- I think what that means to me is that you really ignore whether it was raised at summary judgment.
+2010.09-737,1,17897,benjamin_c_mizer,,1774.137,1781.414,"Well, and I don't think the Sixth Circuit was saying it was reviewing the summary judgment record, and that would have been not appropriate."
+2010.09-737,1,15139,stephen_g_breyer,scotus_justice,1789.178,1799.421,But surely it has to be raised post-trial if your legal argument is: Look at the facts; the facts of this case as proved do not support liability.
+2010.09-737,1,17897,benjamin_c_mizer,,1807.431,1808.542,--To the extent--
+2010.09-737,1,15139,stephen_g_breyer,scotus_justice,1808.542,1809.416,Am I wrong?
+2010.09-737,1,17897,benjamin_c_mizer,,1809.416,1812.321,"--Partly, yes, Your Honor."
+2010.09-737,1,15139,stephen_g_breyer,scotus_justice,1816.334,1817.586,Why not?
+2010.09-737,1,17897,benjamin_c_mizer,,1837.465,1840.011,--In your hypothetical?
+2010.09-737,1,15139,stephen_g_breyer,scotus_justice,1840.011,1840.37,Yes.
+2010.09-737,1,17897,benjamin_c_mizer,,1840.37,1840.697,Yes.
+2010.09-737,1,15139,stephen_g_breyer,scotus_justice,1840.697,1841.075,Okay.
+2010.09-737,1,17897,benjamin_c_mizer,,1854.474,1867.97,"The difference, Your Honor, is that this Court's case law concerning -- the Mitchell line of cases concerning collateral order appeals in the qualified immunity context divides qualified immunity claims into two halves."
+2010.09-737,1,15086,john_g_roberts_jr,scotus_justice,1872.841,1883.994,"Yes, that is right, and I find that in the context where that already matters, whether they are appealable as a collateral issue, already very difficult and complicated to sort out."
+2010.09-737,1,17897,benjamin_c_mizer,,1921.761,1931.054,"Well, first of all, I think that because it is a difficult question, it should have been raised by Ms. Ortiz properly, and she hasn't raised a 50(b) argument properly."
+2010.09-737,1,15049,antonin_scalia,scotus_justice,1942.421,1946.796,"The Johnson line isn't much of a map, is what the Chief Justice is suggesting."
+2010.09-737,1,17897,benjamin_c_mizer,,1956.822,1961.336,"--Because the converse rule, Your Honor, would create even more difficulties."
+2010.09-737,1,15049,antonin_scalia,scotus_justice,1963.427,1963.676,Why?
+2010.09-737,1,15084,ruth_bader_ginsburg,scotus_justice,1970.395,1972.127,"And in fact, you did."
+2010.09-737,1,17897,benjamin_c_mizer,,2024.465,2046.957,"--And that argument is a different species of argument than the argument on which -- than the reasoning on which the Sixth Circuit resolved the case, which is, even assuming all the facts as given by Ms. Ortiz and taking, treating those facts as uncontroverted, still there was not a violation of clearly established law."
+2010.09-737,1,15084,ruth_bader_ginsburg,scotus_justice,2057.186,2071.915,"Then what you are saying is you didn't even need to make the 50(a) motion, that that was just an unnecessary touching base with Rule 50(a)?"
+2010.09-737,1,17897,benjamin_c_mizer,,2073.147,2080.256,"--That is our position, yes, Your Honor, because a legal issue is adequately preserved once it's pressed and passed on in the district court."
+2010.09-737,1,15113,anthony_m_kennedy,scotus_justice,2105.806,2120.331,"I suppose there are some cases in which the failure of the court to give a requested instruction preserves the issue, and perhaps 50(b) is not required there."
+2010.09-737,1,17897,benjamin_c_mizer,,2128.157,2133.886,"There was a requested instruction regarding qualified immunity, yes, and it was not given."
+2010.09-737,1,15131,sonia_sotomayor,scotus_justice,2136.183,2136.947,What was that instruction?
+2010.09-737,1,17897,benjamin_c_mizer,,2136.947,2142.04,--The instruction was about the objective legal reasonableness standard under Harlow.
+2010.09-737,1,15131,sonia_sotomayor,scotus_justice,2145.507,2146.258,Do you have a cite to the record?
+2010.09-737,1,17897,benjamin_c_mizer,,2146.258,2148.93,--I don't have a cite to the record at the moment.
+2010.09-737,1,15084,ruth_bader_ginsburg,scotus_justice,2198.187,2201.997,Could you explain to me what -- you made a 50(a) motion.
+2010.09-737,1,17897,benjamin_c_mizer,,2210.152,2212.355,"I'm not aware of a reason, Your Honor."
+2010.09-737,1,15131,sonia_sotomayor,scotus_justice,2232.375,2232.878,How -- could you--
+2010.09-737,1,15084,ruth_bader_ginsburg,scotus_justice,2232.878,2251.806,"It's very clear from Rule 50 that 50(a) and 50(b) go together, and the explanation, as I indicated when Petitioner's counsel was speaking, is the re-examination clause of the Seventh Amendment."
+2010.09-737,1,17897,benjamin_c_mizer,,2293.571,2318.918,"But still, Your Honor, I think the question of whether particular conduct has been proven is a sufficiency question, and that differs in nature from the question of whether, taking that proven conduct as a given, assuming it to be true, without -- without questioning the correctness of the plaintiffs' version of the facts, that the -- then the Harlow question is a separate question."
+2010.09-737,1,15084,ruth_bader_ginsburg,scotus_justice,2318.918,2329.883,Do you know of any case holding that you don't have to couple a 50(a) motion with a 50(b) motion depending upon what's in your 50(a) motion?
+2010.09-737,1,17897,benjamin_c_mizer,,2329.883,2354.108,"I'm not aware of any case, no, although I am aware of cases including the K & T Enterprises case from the Seventh -- or sorry, from the Sixth Circuit, that we cite in our brief, which says that legal claims, purely legal claims may be raised in judgment as a matter of law motions under either 50(a) or 50(b), but that 50(b) is not required with respect to those motions."
+2010.09-737,1,15131,sonia_sotomayor,scotus_justice,2364.417,2379.801,"--Could -- could you articulate for me the line that you see between assuming all of the facts and it's not enough as a matter of law, and a sufficiency claim."
+2010.09-737,1,17897,benjamin_c_mizer,,2427.75,2439.211,"--The -- the Sixth Circuit held in this case that the retaliation claim is a different claim from the due process claim, that it would be based on--"
+2010.09-737,1,15131,sonia_sotomayor,scotus_justice,2439.211,2439.43,The First Amendment.
+2010.09-737,1,17897,benjamin_c_mizer,,2439.43,2441.318,--the First Amendment or some other amendment.
+2010.09-737,1,15131,sonia_sotomayor,scotus_justice,2441.552,2443.471,I'm trying to separate out your--
+2010.09-737,1,17897,benjamin_c_mizer,,2443.471,2444.157,--Yes.
+2010.09-737,1,15131,sonia_sotomayor,scotus_justice,2444.157,2444.784,"--your argument, however."
+2010.09-737,1,17897,benjamin_c_mizer,,2447.312,2466.43,"Our position is that the Sixth Circuit got it right, and Ms. Ortiz hasn't appealed to this Court on that holding, that as a -- as a matter of law under Sandin, placing an individual in segregated confinement does not amount to a due process violation vis a vis the -- the ordinary conditions of prison confinement."
+2010.09-737,1,15084,ruth_bader_ginsburg,scotus_justice,2474.49,2477.313,You -- you refer to Sandin.
+2010.09-737,1,17897,benjamin_c_mizer,,2488.311,2500.431,The -- the medical treatment claims were dismissed by the district court at summary judgment because Ms. Bright did not participate and did not have any knowledge of--
+2010.09-737,1,15084,ruth_bader_ginsburg,scotus_justice,2500.431,2506.475,"Well, is -- on the question of whether this treatment was punitive rather than just protective custody."
+2010.09-737,1,17897,benjamin_c_mizer,,2506.475,2519.924,"--And again, on the question of punitiveness the Sixth Circuit held that that was not preserved -- that claim was not preserved by Ms. Ortiz and she has not petitioned to this Court for review of that holding by the Sixth Circuit."
+2010.09-737,1,15084,ruth_bader_ginsburg,scotus_justice,2530.558,2538.244,"Well, wouldn't it be this, the segregated confinement in this case, not at large?"
+2010.09-737,1,17897,benjamin_c_mizer,,2538.244,2554.314,"The -- again, the Sixth Circuit's holding was that Sandin answered that -- that question as a matter of clearly established law, and since Ms. Ortiz hasn't petitioned for review on the merits of that question, I'm not sure how it's presented to this Court."
+2010.09-737,1,15068,samuel_a_alito_jr,scotus_justice,2554.314,2585.039,"Mr. Mizer, is it your understanding that -- that Unitherm was based on Seventh Amendment considerations, or was it based on prior decisions that in turn were grounded on considerations of fairness to the verdict-winner, namely the opportunity when a motion for judgment as a matter of law is made after the verdict to move for dismissal without prejudice or move for a new trial?"
+2010.09-737,1,17897,benjamin_c_mizer,,2585.039,2594.907,"I think Unitherm was more squarely the latter, although the Court did refer to the Seventh Amendment in responding to Justice Stevens' dissent."
+2010.09-737,1,15084,ruth_bader_ginsburg,scotus_justice,2606.185,2618.851,"Well, then you are saying, the category -- the mixed claims -- as Justice Breyer proposed, if it's a purely legal claim, then you're right."
+2010.09-737,1,17897,benjamin_c_mizer,,2624.974,2633.376,"--And I think those -- those categorization are -- are fairly slippery and would be difficult to apply, as I think the Chief Justice suggested."
+2010.09-737,1,15094,elena_kagan,scotus_justice,2652.008,2652.85,"Well, Mr. Mizer--"
+2010.09-737,1,15113,anthony_m_kennedy,scotus_justice,2652.85,2658.707,One way to make the formulation work is to say whether or not the issue depends on an assessment of the record.
+2010.09-737,1,17897,benjamin_c_mizer,,2658.707,2665.064,"--Well, qualified immunity is always going to be an application of clearly established law through fact."
+2010.09-737,1,15113,anthony_m_kennedy,scotus_justice,2668.811,2670.09,"Well, but we have been through this."
+2010.09-737,1,17897,benjamin_c_mizer,,2676.587,2677.667,--And that is--
+2010.09-737,1,15113,anthony_m_kennedy,scotus_justice,2677.667,2678.962,That's a pure issue of law.
+2010.09-737,1,17897,benjamin_c_mizer,,2678.962,2682.601,"--And as this Court has called it, that is correct and that is this case."
+2010.09-737,1,15131,sonia_sotomayor,scotus_justice,2682.601,2683.037,How is that--
+2010.09-737,1,15094,elena_kagan,scotus_justice,2683.037,2684.753,"--Is it this case, Mr. Mizer?"
+2010.09-737,1,17897,benjamin_c_mizer,,2707.931,2719.162,"It's different, Your Honor, because the -- the prong of the analysis in the deliberate indifference conduct that the Sixth Circuit was looking at was the objective prong of whether or not the response was reasonable."
+2010.09-737,1,15139,stephen_g_breyer,scotus_justice,2760.24,2760.598,Okay.
+2010.09-737,1,17897,benjamin_c_mizer,,2824.661,2835.157,"--The court said that you had can raise in a judgment as a matter of law motion legal arguments like the statute of limitations, collateral estoppel, preemption."
+2010.09-737,1,15139,stephen_g_breyer,scotus_justice,2835.984,2836.281,Okay.
+2010.09-737,1,17897,benjamin_c_mizer,,2856.275,2859.99,"--That would work just fine from our perspective, Your Honor, and in fact--"
+2010.09-737,1,15139,stephen_g_breyer,scotus_justice,2859.99,2864.662,"It would work fine, because it seems to me you have a lot of sufficiency of the evidence claims, but that's another question."
+2010.09-737,1,15049,antonin_scalia,scotus_justice,2864.662,2866.503,Excuse me.
+2010.09-737,1,17897,benjamin_c_mizer,,2927.759,2940.379,"--If Rule 50(b) -- if Rule 50(a) and 50(b) motions were required for all matters of law, then that would change the Hornbook understanding of what 50(b) is about."
+2010.09-737,1,15131,sonia_sotomayor,scotus_justice,2951.126,2956.121,--Is that the -- that is what the Chief Justice asked you earlier.
+2010.09-737,1,17897,benjamin_c_mizer,,2957.654,2965.822,"Your Honor, because it would radically change the way that 50(b) is currently treated by parties."
+2010.09-737,1,15131,sonia_sotomayor,scotus_justice,2968.853,2972.663,You -- I'm not sure that answers the question.
+2010.09-737,1,17897,benjamin_c_mizer,,3000.634,3010.223,"--Because, Your Honor, the Rule 50(b) motions would then become miniature -- or not even miniature -- full-blown appellate briefs."
+2010.09-737,1,15068,samuel_a_alito_jr,scotus_justice,3016.396,3020.05,The answer is it's a pointless gotcha rule.
+2010.09-737,1,17897,benjamin_c_mizer,,3044.819,3046.835,"That's correct, Your Honor."
+2010.09-737,1,15049,antonin_scalia,scotus_justice,3046.835,3056.534,"The point would be that therefore, you don't have to sort out whether there is any factual content to this issue."
+2010.09-737,1,17897,benjamin_c_mizer,,3065.686,3076.746,"Because, Your Honor, the district courts have never insisted, nor do the rules insist, that the district courts get multiple cracks at a legal question."
+2010.09-737,1,15084,ruth_bader_ginsburg,scotus_justice,3076.746,3094.565,"The purpose of -- of 50(b) -- Justice Alito brought out that it's not simply the historical background of the Seventh Amendment, but in that same line of cases, the court gave a practical reason."
+2010.09-737,1,17897,benjamin_c_mizer,,3154.369,3161.727,"But if a claim is not in a case, Your Honor, then there is no discretion as to whether or not to give it to the jury."
+2010.09-737,1,15139,stephen_g_breyer,scotus_justice,3180.873,3196.523,"Your case, anyway, is a case -- judging from what they wrote, I'm back to where I started with the mixed questions and fact-based questions -- where you really have to renew your motion, and reading your opinion it seems to me it's filled with determinations of fact."
+2010.09-737,1,17897,benjamin_c_mizer,,3220.216,3226.276,"--I would disagree with the characterization of the Sixth Circuit's opinion as resolving factual questions, because on the contrary, I think--"
+2010.09-737,1,15139,stephen_g_breyer,scotus_justice,3226.276,3228.853,"No, I mean they went on the jury's resolution of the facts."
+2010.09-737,1,17897,benjamin_c_mizer,,3228.853,3229.711,--That's correct.
+2010.09-737,1,15139,stephen_g_breyer,scotus_justice,3232.694,3237.585,"For that reason, they can't take the facts as they were in your motion for summary judgment."
+2010.09-737,1,17897,benjamin_c_mizer,,3242.3,3253.14,"--That goes to show, Your Honor, that the Sixth Circuit wasn't doing what Ms. Ortiz has -- what Ms. Ortiz has posited, which is that they were reviewing the summary judgment record order."
+2010.09-737,1,15094,elena_kagan,scotus_justice,3253.14,3254.138,"Well, Mr. Mizer, suppose that they were."
+2010.09-737,1,17897,benjamin_c_mizer,,3270.087,3271.039,Yes.
+2010.09-737,1,15094,elena_kagan,scotus_justice,3273.304,3284.893,"So your position rests, is dependent, on our finding that the Sixth Circuit was reviewing the final judgment order, which was not what the Sixth Circuit in fact said it was doing."
+2010.09-737,1,17897,benjamin_c_mizer,,3284.893,3296.058,"Again, I would disagree that that's what the Sixth Circuit said because of the language at the bottom of page 7A of the petition appendix, where they clearly say that there is an appeal from the verdict."
+2010.09-737,1,15113,anthony_m_kennedy,scotus_justice,3345.538,3348.942,I didn't hear your last -- are adequately preserved when?
+2010.09-737,1,17897,benjamin_c_mizer,,3348.942,3355.029,"Once they are pressed and passed on by the district court, and the qualified immunity claim here was pressed and passed on--"
+2010.09-737,1,15113,anthony_m_kennedy,scotus_justice,3355.029,3363.811,"So you are saying that if there is anything in the record of trial that indicates the judge ruled on the issue, there need not be a 50(b) motion?"
+2010.09-737,1,17897,benjamin_c_mizer,,3363.811,3373.664,"--That's correct, Your Honor, and the lower courts, I think, are well-equipped to assess whether or not an issue has adequately been pressed and passed on in the district court."
+2010.09-737,1,15086,john_g_roberts_jr,scotus_justice,3384.646,3386.378,I just want to be clear.
+2010.09-737,1,17897,benjamin_c_mizer,,3391.533,3392.64,That's correct.
+2010.09-737,1,15086,john_g_roberts_jr,scotus_justice,3392.64,3393.377,Okay.
+2010.09-737,1,17897,benjamin_c_mizer,,3393.377,3397.358,"If there are no further questions, we ask you to affirm the Sixth Circuit."
+2010.09-737,1,15086,john_g_roberts_jr,scotus_justice,3398.045,3399.574,"Thank you, Counsel."
+2010.09-737,2,21183,david_e_mills,,3402.71,3403.118,Thank you.
+2010.09-737,2,15131,sonia_sotomayor,scotus_justice,3490.986,3495.295,What's the rule you want us to adopt to answer the question presented?
+2010.09-737,2,21183,david_e_mills,,3505.76,3506.103,--Yes.
+2010.09-737,2,15131,sonia_sotomayor,scotus_justice,3513.759,3515.818,In no circumstances?
+2010.09-737,2,21183,david_e_mills,,3515.818,3519.644,I would say that the clearest rule is to say that in no circumstances.
+2010.09-737,2,15086,john_g_roberts_jr,scotus_justice,3540.416,3553.834,"So your rule, in response to Justice Sotomayor, would basically require anyone who has an assertion of qualified immunity to take their collateral appeal or interlocutory appeal."
+2010.09-737,2,21183,david_e_mills,,3553.834,3559.8,"It would only require it, Your Honor, to the extent that they wish to challenge that decision on the summary judgment record."
+2010.09-737,2,15086,john_g_roberts_jr,scotus_justice,3586.586,3598.737,"So they are put to a choice whether or not their qualified immunity claim rests entirely on law or might turn out, as you say it did in your case, to have some factual aspect?"
+2010.09-737,2,21183,david_e_mills,,3598.737,3599.645,That's right.
+2010.09-737,2,15086,john_g_roberts_jr,scotus_justice,3599.645,3602.254,"Well, that's kind of a tough choice to put them to, isn't it?"
+2010.09-737,2,21183,david_e_mills,,3602.254,3608.092,"Well, they have an absolute right to take that immediate appeal and -- and they chose not to."
+2010.09-737,2,15086,john_g_roberts_jr,scotus_justice,3608.092,3613.887,"So they have to take the immediate appeal, and when they do so, they lose the right to appeal at the end?"
+2010.09-737,2,21183,david_e_mills,,3613.887,3615.575,"No, they do not."
+2010.09-737,2,15086,john_g_roberts_jr,scotus_justice,3615.575,3617.042,"Well, why is that?"
+2010.09-737,2,21183,david_e_mills,,3617.042,3621.053,"They do not because if they lose the appeal and they go to trial, you've got a new case."
+2010.09-737,2,15049,antonin_scalia,scotus_justice,3631.532,3636.372,You assumed all the evidence in their favor at the summary judgment stage.
+2010.09-737,2,21183,david_e_mills,,3652.49,3653.959,It happened here.
+2010.09-737,2,15086,john_g_roberts_jr,scotus_justice,3653.959,3656.085,"Thank you, Counsel."

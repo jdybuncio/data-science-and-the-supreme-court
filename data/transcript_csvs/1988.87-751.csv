@@ -1,0 +1,84 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1988.87-751,0,15141,william_h_rehnquist,scotus_justice,0.0,0.0,"We'll hear argument next in No. 87-751, Frank C. Carlucci v. John Doe."
+1988.87-751,0,36128,michael_k_kellogg,,0.0,3.285,"Thank you, Mr. Chief Justice, and may it please the Court."
+1988.87-751,0,15071,byron_r_white,scotus_justice,200.462,207.135,What authority was the Secretary... or the agency acting under at this stage?
+1988.87-751,0,36128,michael_k_kellogg,,207.135,209.051,They were acting under dual authority.
+1988.87-751,0,15071,byron_r_white,scotus_justice,213.289,221.395,"Yes, but when the... when the agency first took action against him and started this procedure, what did it purport to act under?"
+1988.87-751,0,36128,michael_k_kellogg,,221.395,229.548,It was acting under its statutory authority to hire employees without regard to the Civil Service laws.
+1988.87-751,0,15071,byron_r_white,scotus_justice,237.07,243.824,And you say that that gave the agency the power to fire too.
+1988.87-751,0,36128,michael_k_kellogg,,243.824,244.424,--That's correct.
+1988.87-751,0,15071,byron_r_white,scotus_justice,246.61,249.045,And the agency had issued regulations?
+1988.87-751,0,36128,michael_k_kellogg,,249.045,250.178,--Yes.
+1988.87-751,0,15071,byron_r_white,scotus_justice,257.984,259.451,And that is what they were acting under?
+1988.87-751,0,36128,michael_k_kellogg,,260.27,260.636,--That's correct.
+1988.87-751,0,15060,john_paul_stevens,scotus_justice,279.231,286.837,"Mr. Kellogg, would you tell me what is the NSA regulation that required that the removal be for cause?"
+1988.87-751,0,36128,michael_k_kellogg,,286.837,289.622,Chapter 370--
+1988.87-751,0,15060,john_paul_stevens,scotus_justice,289.622,290.589,It's 370.
+1988.87-751,0,36128,michael_k_kellogg,,290.589,299.811,--of the NSA regulations says that removals are to be for such cause as will promote the efficiency of the service.
+1988.87-751,0,15060,john_paul_stevens,scotus_justice,299.811,303.013,And is that... is 370 in the appendix of the cert petition?
+1988.87-751,0,36128,michael_k_kellogg,,303.013,304.215,"Yes, it is."
+1988.87-751,0,15092,sandra_day_oconnor,scotus_justice,304.215,319.475,"Mr. Kellogg, doesn't Chapter 371 of the regulations say that it applies to actions to limit access to classified information and to suspend or terminate personnel for reasons of national security?"
+1988.87-751,0,36128,michael_k_kellogg,,319.475,320.591,"That's correct, Justice O'Connor."
+1988.87-751,0,15092,sandra_day_oconnor,scotus_justice,320.591,328.33,"It looked to me reading through it, frankly, like this was a 371 proceeding or should have been."
+1988.87-751,0,36128,michael_k_kellogg,,336.334,338.286,"No, they were not, Justice O'Connor."
+1988.87-751,0,15071,byron_r_white,scotus_justice,357.85,360.116,Then it becomes cause.
+1988.87-751,0,36128,michael_k_kellogg,,360.116,367.871,And then it becomes cause because possession of a clearance is a statutory requirement of employment at NSA.
+1988.87-751,0,15092,sandra_day_oconnor,scotus_justice,388.452,393.856,"I was a little troubled because reading the regulations, it did seem to me that they just didn't follow their own regulations."
+1988.87-751,0,36128,michael_k_kellogg,,393.856,395.073,"Well, I think that's not correct."
+1988.87-751,0,15141,william_h_rehnquist,scotus_justice,421.637,428.391,"So, you say this is not a national security case as defined in the preamble to the regulations."
+1988.87-751,0,36128,michael_k_kellogg,,428.391,429.591,That's correct.
+1988.87-751,0,15060,john_paul_stevens,scotus_justice,519.634,520.767,"Mr. Kellogg, may I ask you another question?"
+1988.87-751,0,36128,michael_k_kellogg,,523.836,524.686,That's correct.
+1988.87-751,0,15060,john_paul_stevens,scotus_justice,524.686,527.804,Does it... is every 7532 suspension one without pay?
+1988.87-751,0,36128,michael_k_kellogg,,527.804,530.858,"Well, I don't think it would have to be."
+1988.87-751,1,30449,john_g_gill_jr,,1140.311,1152.302,"Mr. Chief Justice, may it please the Court."
+1988.87-751,1,15141,william_h_rehnquist,scotus_justice,1272.462,1279.401,"But before that carries the day for you, you've got to show that 7532 is the exclusive provision for removal."
+1988.87-751,1,30449,john_g_gill_jr,,1279.401,1281.218,"Yes, Your Honor."
+1988.87-751,1,15141,william_h_rehnquist,scotus_justice,1307.635,1310.254,And you'll tell us why I suppose.
+1988.87-751,1,30449,john_g_gill_jr,,1310.254,1310.937,"Yes, Your Honor."
+1988.87-751,1,15060,john_paul_stevens,scotus_justice,1310.937,1313.706,Certainly the plain language of 7532 doesn't say that.
+1988.87-751,1,30449,john_g_gill_jr,,1319.524,1321.11,"Then it starts with suspension, Your Honor."
+1988.87-751,1,15060,john_paul_stevens,scotus_justice,1321.11,1322.86,--Suspension without pay.
+1988.87-751,1,30449,john_g_gill_jr,,1322.86,1323.176,And suspension is discretionary.
+1988.87-751,1,15060,john_paul_stevens,scotus_justice,1323.176,1323.71,Right.
+1988.87-751,1,30449,john_g_gill_jr,,1323.71,1328.697,"But then it gets to but when there's removal, the employee is entitled."
+1988.87-751,1,15060,john_paul_stevens,scotus_justice,1328.697,1335.953,"But that's an employee suspended under Subsection (a) of this section, so forth and so on, is entitled."
+1988.87-751,1,30449,john_g_gill_jr,,1335.953,1337.286,Well--
+1988.87-751,1,15060,john_paul_stevens,scotus_justice,1337.286,1340.322,That's the only mandatory language I see.
+1988.87-751,1,30449,john_g_gill_jr,,1340.322,1350.795,"--Well, we respectfully say that this... if it is in the interest of national security, this is the only option if it's truly an interest of national security case."
+1988.87-751,1,15060,john_paul_stevens,scotus_justice,1350.795,1351.645,I understand that's your position.
+1988.87-751,1,30449,john_g_gill_jr,,1354.447,1364.52,"Well, we point out in the... most of our record references are to the Court of Appeals' appendix, which we understand has been filed with the Clerk and circulated to the Justices."
+1988.87-751,1,15049,antonin_scalia,scotus_justice,1428.895,1429.312,Excuse me.
+1988.87-751,1,30449,john_g_gill_jr,,1433.283,1434.499,--This is not in the petition.
+1988.87-751,1,15141,william_h_rehnquist,scotus_justice,1530.761,1536.981,--But is there any contest about the revocation of his security clearance?
+1988.87-751,1,30449,john_g_gill_jr,,1538.331,1539.183,"Yes, Your Honor."
+1988.87-751,1,15141,william_h_rehnquist,scotus_justice,1540.133,1545.921,"So, this isn't... this isn't a proceeding in which it was sought to take away his security clearance."
+1988.87-751,1,30449,john_g_gill_jr,,1545.921,1548.789,"--Well, it's unclear."
+1988.87-751,1,15141,william_h_rehnquist,scotus_justice,1564.815,1570.219,"Well, did he argue in these proceedings that his security clearance shouldn't have been revoked?"
+1988.87-751,1,30449,john_g_gill_jr,,1570.219,1571.321,"--Yes, Your Honor."
+1988.87-751,1,15141,william_h_rehnquist,scotus_justice,1572.254,1575.29,And was this the proper forum in which he should argue that?
+1988.87-751,1,30449,john_g_gill_jr,,1575.29,1581.844,"Well, we contend that there should have been 371 rights that gave us these rights plus appeal to the Secretary of Defense."
+1988.87-751,1,15141,william_h_rehnquist,scotus_justice,1581.844,1583.046,That's under--
+1988.87-751,1,30449,john_g_gill_jr,,1583.046,1583.379,He was cut off.
+1988.87-751,1,15071,byron_r_white,scotus_justice,1591.866,1601.424,"--You would have had on top of this... if the agency said your security clearance is revoked, then you're going to have a 7532 hearing."
+1988.87-751,1,30449,john_g_gill_jr,,1601.424,1602.224,"--Yes, Your Honor."
+1988.87-751,1,15071,byron_r_white,scotus_justice,1602.224,1607.494,"And in which that decision to revoke will be relitigated, wouldn't it?"
+1988.87-751,1,30449,john_g_gill_jr,,1607.494,1609.427,"""Reviewed and readjudicated"" in the words of the executive order."
+1988.87-751,2,36128,michael_k_kellogg,,2924.48,2940.156,"In the Court's decision in Cole v. Young, the Court compared 7532... situations in which use of that statute was appropriate with ordinary removal procedures."
+1988.87-751,2,15049,antonin_scalia,scotus_justice,2981.466,2990.655,"Part of Mr. Gill's argument, Mr. Kellogg, is that even if you could have proceeded under one of these other provisions, you didn't."
+1988.87-751,2,36128,michael_k_kellogg,,3003.565,3009.469,--I think actually the agency was very careful in choosing the procedures that it followed here.
+1988.87-751,2,15060,john_paul_stevens,scotus_justice,3063.937,3068.821,But it's also true that Section 371 in its introductory sentence says:
+1988.87-751,2,36128,michael_k_kellogg,,3081.212,3091.004,"It would only support the proponent's... the opponent's view if it followed that once you revoke a clearance, you have to continue and can only use Section 7532."
+1988.87-751,2,15060,john_paul_stevens,scotus_justice,3115.619,3121.689,"So, are you saying that insofar as they went through the revocation of access procedure, they did follow 371?"
+1988.87-751,2,36128,michael_k_kellogg,,3125.058,3125.741,That's correct.
+1988.87-751,2,15104,thurgood_marshall,scotus_justice,3143.416,3153.058,"You maintain that you carefully tailored it for 371, but you never mention 371."
+1988.87-751,2,36128,michael_k_kellogg,,3153.058,3155.76,We carefully tailored it for 370.
+1988.87-751,2,15104,thurgood_marshall,scotus_justice,3155.76,3159.212,"Well, did you carefully not mention 371?"
+1988.87-751,2,36128,michael_k_kellogg,,3159.212,3164.866,I don't recall if 371 is specifically mentioned.
+1988.87-751,2,15104,thurgood_marshall,scotus_justice,3167.901,3169.817,He said it wasn't mentioned.
+1988.87-751,2,36128,michael_k_kellogg,,3169.817,3171.4,That's true.
+1988.87-751,2,15049,antonin_scalia,scotus_justice,3207.09,3216.846,"Yes, but unfortunately this combination of 370 and 371 is contradicted by the very first section of 371 which reads:"
+1988.87-751,2,36128,michael_k_kellogg,,3245.898,3247.817,That's correct.
+1988.87-751,2,15049,antonin_scalia,scotus_justice,3247.817,3249.5,--this thing says it's a dichotomy.
+1988.87-751,2,36128,michael_k_kellogg,,3255.804,3256.673,No.
+1988.87-751,2,15141,william_h_rehnquist,scotus_justice,3357.686,3359.371,"Thank you, Mr. Kellogg."

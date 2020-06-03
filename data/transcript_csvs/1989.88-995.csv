@@ -1,0 +1,187 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1989.88-995,0,15141,william_h_rehnquist,scotus_justice,0.0,8.998,"We'll hear argument next in Number 88-995, Northbrook National Insurance Company versus Larry Brewer."
+1989.88-995,0,38035,peter_michael_jung,,25.583,27.895,"Mr. Chief Justice, and may it please the Court:"
+1989.88-995,0,15141,william_h_rehnquist,scotus_justice,245.308,250.525,Do... do... do you get a jury trial in Louisiana on a negligence claim if you're a plaintiff?
+1989.88-995,0,38035,peter_michael_jung,,250.525,253.025,"--I regret to say I do not know that, Your Honor."
+1989.88-995,0,15141,william_h_rehnquist,scotus_justice,254.164,255.352,"Well, that... you're from Texas."
+1989.88-995,0,38035,peter_michael_jung,,255.352,269.612,"--That's correct, Your Honor, but the legislative history suggests that you do because Congress was concerned about plaintiffs choosing the federal courts so as to avoid the reexamination problem that prevailed in Louisiana state courts."
+1989.88-995,0,15060,john_paul_stevens,scotus_justice,397.248,398.529,May I stop you there.
+1989.88-995,0,38035,peter_michael_jung,,416.678,420.707,"It is not necessarily limited to negligence cases, Justice Stevens."
+1989.88-995,0,15060,john_paul_stevens,scotus_justice,420.707,423.191,You... you would apply it to a fire insurance policy?
+1989.88-995,0,38035,peter_michael_jung,,423.191,426.299,"No, Your Honor, because that is not a derivative liability."
+1989.88-995,0,15060,john_paul_stevens,scotus_justice,429.906,430.109,I see.
+1989.88-995,0,38035,peter_michael_jung,,430.109,430.594,--and the insurer.
+1989.88-995,0,15060,john_paul_stevens,scotus_justice,430.594,435.171,"So, it's insurance that insures the insured against liability to an approximate point--"
+1989.88-995,0,38035,peter_michael_jung,,435.171,435.451,"To another person, a third party."
+1989.88-995,0,15060,john_paul_stevens,scotus_justice,435.451,437.857,--which is exactly what workmen's compensation is.
+1989.88-995,0,38035,peter_michael_jung,,437.857,441.932,"Which is exactly what it is, Your Honor, in most states, but not in Texas and some other states."
+1989.88-995,0,15060,john_paul_stevens,scotus_justice,441.932,451.554,"Well, would you agree that in most states if the... if the employee had the option between suing the employer or the insurance company, it would be a direct action?"
+1989.88-995,0,38035,peter_michael_jung,,451.554,455.912,"I would stop just short of agreeing with that, Your Honor, and would say this."
+1989.88-995,0,15060,john_paul_stevens,scotus_justice,461.504,462.315,"Well, I understand that."
+1989.88-995,0,38035,peter_michael_jung,,462.315,464.034,It still takes the Court a little bit afield from that.
+1989.88-995,0,15060,john_paul_stevens,scotus_justice,471.235,479.7,"Well, then, why does it stop being a direction action because it's the legislature of Texas rather than the plaintiff who makes the decision that you shall always sue the insurance company?"
+1989.88-995,0,38035,peter_michael_jung,,479.7,489.79,"Well, the legislature not only decided that you shall sue the insurance company directly, it decided that you have no cause of action against the insured employer--"
+1989.88-995,0,15060,john_paul_stevens,scotus_justice,489.79,497.552,"Is that true if... if the insurance policy had lapsed or if, in fact, there was no insurance or sometimes the insurer... is the employer scot-free then?"
+1989.88-995,0,38035,peter_michael_jung,,497.552,501.363,--He is scot-free of liability for workers' compensation benefits.
+1989.88-995,0,15060,john_paul_stevens,scotus_justice,508.236,512.812,But he has no liability under the Texas workmens' compensation statute if he fails to insure?
+1989.88-995,0,38035,peter_michael_jung,,512.812,513.734,That is correct.
+1989.88-995,0,15060,john_paul_stevens,scotus_justice,529.134,529.836,But supposing he's not negligent?
+1989.88-995,0,38035,peter_michael_jung,,542.097,556.825,"Well, for falsely representing, he would risk criminal liability, but in fact, workers' compensation insurance is voluntary in Texas, and an employer who wishes to run the gauntlet of having common law liability is not obligated to purchase workers' compensation insurance."
+1989.88-995,0,15060,john_paul_stevens,scotus_justice,556.825,557.2,--I see.
+1989.88-995,0,38035,peter_michael_jung,,557.2,559.84,And that's a fairly unusual feature of the Texas scheme.
+1989.88-995,0,15060,john_paul_stevens,scotus_justice,581.394,585.47,And for that reason it's not a direct action?
+1989.88-995,0,38035,peter_michael_jung,,585.47,587.704,"For that reason it is not a direct action, Your Honor."
+1989.88-995,0,15060,john_paul_stevens,scotus_justice,587.704,588.921,What kind of an action is it?
+1989.88-995,0,38035,peter_michael_jung,,588.921,590.734,It's an action.
+1989.88-995,0,15060,john_paul_stevens,scotus_justice,591.92,592.248,"It's not an indirect action, is it?"
+1989.88-995,0,38035,peter_michael_jung,,592.248,606.851,"It is not an indirect action, and yet the courts have said that any action which is filed against an insurance carrier does not merely because it is filed directly against that insurance carrier qualify for the term of art direct action."
+1989.88-995,0,15060,john_paul_stevens,scotus_justice,613.224,614.77,You don't know what kind of an action it is.
+1989.88-995,0,38035,peter_michael_jung,,617.082,628.266,"That's correct, and there are many cases in the lower courts where there are suits on two-party insurance, say, against a fire insurer for failing to pay a claim, and the courts have said that is not a direct action."
+1989.88-995,0,15060,john_paul_stevens,scotus_justice,785.343,800.571,"May I ask, Mr. Jung, in the area of negligence insurance coverage and the like, are there cases resolving this by or against question where an insurance company might have brought suit against the prospective plaintiff and the insured to determine whether there was coverage or something like that?"
+1989.88-995,0,38035,peter_michael_jung,,800.571,803.57,"There are indeed, Your Honor, and ironically they're in the Fifth Circuit."
+1989.88-995,0,15060,john_paul_stevens,scotus_justice,844.445,847.553,Did they say it was not a direct action or it wasn't by the insurance company?
+1989.88-995,0,38035,peter_michael_jung,,847.553,849.505,They went off on by the insurance company--
+1989.88-995,0,15060,john_paul_stevens,scotus_justice,849.505,850.224,"Yeah, I understand."
+1989.88-995,0,38035,peter_michael_jung,,850.224,854.769,--and they distinguished... they limited Campbell to its facts is basically what the Fifth Circuit in this case said that they had done.
+1989.88-995,0,15113,anthony_m_kennedy,scotus_justice,854.769,860.251,Are there any cases in which an... insurance companies that originally bring an action have been realigned?
+1989.88-995,0,38035,peter_michael_jung,,860.251,870.247,I'm not aware of any cases in the diversity context where the party who physically brings the suit and files the complaint has been realigned as the defendant.
+1989.88-995,0,15113,anthony_m_kennedy,scotus_justice,889.958,896.315,"In diversity when there is a realignment, then there has to be a reassessment of the residence of the parties."
+1989.88-995,0,38035,peter_michael_jung,,908.451,916.948,"Well, I suppose that's theoretically possible, Justice Kennedy, but there has been, as I've said... there've been a lot of sorting out of who's adverse to whom."
+1989.88-995,0,15045,harry_a_blackmun,scotus_justice,942.922,948.841,Is there an overtone of a race to the courthouse in these circumstances?
+1989.88-995,0,38035,peter_michael_jung,,948.841,958.774,"Your Honor, unfortunately at some times in Texas workers' compensation litigation, there is a race to the courthouse because even in state court, there can be two different forums that are available."
+1989.88-995,0,15060,john_paul_stevens,scotus_justice,1024.045,1028.339,"Well, of course, Congress decided that wasn't all that important in negligence cases."
+1989.88-995,0,38035,peter_michael_jung,,1028.339,1032.743,"--Well, in negligence cases, Your Honor, you still have removal."
+1989.88-995,0,15060,john_paul_stevens,scotus_justice,1049.097,1050.94,"No, I'm saying... I'm talking about the--"
+1989.88-995,0,38035,peter_michael_jung,,1050.94,1051.784,--The direct action?
+1989.88-995,0,15060,john_paul_stevens,scotus_justice,1051.784,1054.001,--where the direct action statute clearly applies.
+1989.88-995,0,38035,peter_michael_jung,,1060.905,1063.451,"Looking only at the statute, one could come to that conclusion."
+1989.88-995,0,15060,john_paul_stevens,scotus_justice,1076.476,1080.194,And they thought this was not the kind of litigation that belongs... that belongs in federal court.
+1989.88-995,0,38035,peter_michael_jung,,1080.194,1094.703,"--Well, they were faced with the circumstance where plaintiffs, injured parties were filing suit, and there's nothing in there to suggest that they even thought about the situation where the injured party had filed suit in state court and the insurance company wanted to remove."
+1989.88-995,0,15060,john_paul_stevens,scotus_justice,1106.87,1111.727,"Of course, in these cases, I suppose, the prejudice against the insurance company is not to much because it's out of state."
+1989.88-995,0,38035,peter_michael_jung,,1113.258,1115.805,"Well, there can be that."
+1989.88-995,0,15141,william_h_rehnquist,scotus_justice,1194.196,1195.586,"Very well, Mr. Jung."
+1989.88-995,1,42684,timothy_m_fults,,1197.194,1209.314,"Mr. Chief Justice, and may it please the Court:"
+1989.88-995,1,15141,william_h_rehnquist,scotus_justice,1277.161,1283.471,"Well, Mr. Fults, when you described something as a local matter, do you mean that it turns on issues of local law?"
+1989.88-995,1,42684,timothy_m_fults,,1283.471,1295.092,"I mean that it turns on issues of local law, Your Honor, and also that the liability issue is one that is... that is between the individual and his employer."
+1989.88-995,1,15141,william_h_rehnquist,scotus_justice,1302.402,1302.746,But the--
+1989.88-995,1,42684,timothy_m_fults,,1302.746,1306.775,--employer was insured doesn't affect that basic liability issue.
+1989.88-995,1,15141,william_h_rehnquist,scotus_justice,1306.775,1319.316,"--But isn't that true of lots of diversity cases, that it's... all you need is one out-of-state party, and you do get a federal forum for what is essentially strictly local law?"
+1989.88-995,1,42684,timothy_m_fults,,1319.316,1332.764,"Those are the... there are certain types, Your Honor, and I believe what we have in the workers' compensation context is a history of legislative intent designed to take these types of cases."
+1989.88-995,1,15141,william_h_rehnquist,scotus_justice,1332.764,1337.403,And what... legislative intent found in the prohibition against removal?
+1989.88-995,1,42684,timothy_m_fults,,1337.403,1339.481,"Exactly, Your Honor."
+1989.88-995,1,15141,william_h_rehnquist,scotus_justice,1343.683,1346.041,"But there was no effort to remove here, was there?"
+1989.88-995,1,42684,timothy_m_fults,,1346.041,1348.29,--There was no effort to remove in this case.
+1989.88-995,1,15141,william_h_rehnquist,scotus_justice,1348.29,1356.989,"So, what... what else do you derive your conclusion that they... they... Congress didn't want workmen's compensation cases in federal court?"
+1989.88-995,1,42684,timothy_m_fults,,1356.989,1368.171,"From the legislative history, Your Honor, in almost those exact words, in Senate Report 1830 that no federal question is involved."
+1989.88-995,1,15141,william_h_rehnquist,scotus_justice,1369.249,1383.4,"But in... in Horton, this Court recognized, did it not, that where the insurance company brought the action in federal court and did not attempt to remove it, contrary to the statute, that that was consistent with Congressional policy."
+1989.88-995,1,42684,timothy_m_fults,,1383.4,1392.537,"--It... that is exactly what the holding in Horton was, Your Honor, because at the time Horton was decided in 1961 we did not have this proviso."
+1989.88-995,1,15141,william_h_rehnquist,scotus_justice,1434.458,1436.332,"Then something came after Horton, you see."
+1989.88-995,1,42684,timothy_m_fults,,1436.332,1444.219,"And then after Horton we have the amendment to or the direct action proviso, the amendment to section 1332(c)."
+1989.88-995,1,15104,thurgood_marshall,scotus_justice,1444.219,1448.139,How much money's involved in this case?
+1989.88-995,1,42684,timothy_m_fults,,1449.124,1459.213,"The board award, Your Honor, was $36,000, the board award being the award to Mr. Buer... Mr. Brewer by the Texas Agency, the Industrial Accident Board."
+1989.88-995,1,15104,thurgood_marshall,scotus_justice,1463.15,1465.522,That was the one case.
+1989.88-995,1,42684,timothy_m_fults,,1465.522,1465.71,"Yes, sir."
+1989.88-995,1,15141,william_h_rehnquist,scotus_justice,1470.801,1473.551,"Do you know when the proviso was enacted, Mr. Fults?"
+1989.88-995,1,42684,timothy_m_fults,,1473.551,1474.549,"--'64, Your Honor."
+1989.88-995,1,15141,william_h_rehnquist,scotus_justice,1474.549,1475.518,"'64, thank you."
+1989.88-995,1,42684,timothy_m_fults,,1475.518,1487.218,"It's important, I believe, in analyzing congressional intent in the workers' compensation context to look a little bit at the history."
+1989.88-995,1,15141,william_h_rehnquist,scotus_justice,1528.044,1533.229,But that doesn't mean jurisdictional statutes should be construed in favor of one party or the other.
+1989.88-995,1,42684,timothy_m_fults,,1533.229,1534.869,"Your Honor, it does not directly mean--"
+1989.88-995,1,15141,william_h_rehnquist,scotus_justice,1534.869,1538.649,"Well, I... I... I would suggest to you it doesn't mean it at all, directly or indirectly."
+1989.88-995,1,42684,timothy_m_fults,,1538.649,1550.753,"--Your Honor, I agree with that, but I do think that it is important because of the express congressional intent that a federal forum is not an appropriate forum for a workers' compensation case for a delay."
+1989.88-995,1,15141,william_h_rehnquist,scotus_justice,1550.753,1556.455,"Well, that's... that's quite a different argument, to say that your argument carries out congressional intent."
+1989.88-995,1,42684,timothy_m_fults,,1569.996,1600.359,"It's a different argument, Your Honor, but I think it takes us to the same place because what we see, Respondent contends, starting in 1954 with the Elbert case, going through the 1958 amendment to section 1445, through Horton and through the 1964 amendment that we're concerned with today is a history of recognition that a workers' compensation case is essentially local in character and should be decided in a local forum."
+1989.88-995,1,15104,thurgood_marshall,scotus_justice,1603.794,1605.872,"If it's a local forum, why are you here?"
+1989.88-995,1,42684,timothy_m_fults,,1605.872,1607.934,--We don't believe--
+1989.88-995,1,15104,thurgood_marshall,scotus_justice,1607.934,1609.683,Are you going to call us a local forum?
+1989.88-995,1,42684,timothy_m_fults,,1609.683,1615.462,"--No, Your Honor, and we do not believe that this case should be here for these reasons."
+1989.88-995,1,15141,william_h_rehnquist,scotus_justice,1653.291,1654.601,You say that's a federal purpose.
+1989.88-995,1,42684,timothy_m_fults,,1656.819,1659.958,"I meant to say an intent, a federal intent."
+1989.88-995,1,15141,william_h_rehnquist,scotus_justice,1662.754,1667.315,In the '64 statute?
+1989.88-995,1,42684,timothy_m_fults,,1667.315,1673.047,The 1964 legislative history does not mention workers' compensation directly.
+1989.88-995,1,15141,william_h_rehnquist,scotus_justice,1673.047,1675.797,"So, you're relying on the earlier 1958?"
+1989.88-995,1,42684,timothy_m_fults,,1675.797,1676.188,"Yes, your honor."
+1989.88-995,1,15141,william_h_rehnquist,scotus_justice,1676.188,1681.028,Which this court said in Horton still permitted the insurance company to become a plaintiff?
+1989.88-995,1,42684,timothy_m_fults,,1681.028,1681.966,"Yes, it does."
+1989.88-995,1,15141,william_h_rehnquist,scotus_justice,1692.993,1695.071,And where Congress said nothing about workmen's compensation?
+1989.88-995,1,42684,timothy_m_fults,,1695.071,1695.835,"--Yes, sir."
+1989.88-995,1,15060,john_paul_stevens,scotus_justice,1726.276,1728.76,May I ask?
+1989.88-995,1,42684,timothy_m_fults,,1745.502,1748.454,Texas does have a voluntary workers' compensation system.
+1989.88-995,1,15060,john_paul_stevens,scotus_justice,1751.281,1754.483,"So, the employee really has no right to be covered by the statute?"
+1989.88-995,1,42684,timothy_m_fults,,1754.483,1756.436,"That's right, and some are and some aren't."
+1989.88-995,1,15060,john_paul_stevens,scotus_justice,1756.436,1756.655,Yeah.
+1989.88-995,1,42684,timothy_m_fults,,1756.655,1758.904,And it... exactly.
+1989.88-995,1,15060,john_paul_stevens,scotus_justice,1758.904,1760.262,Yeah.
+1989.88-995,1,42684,timothy_m_fults,,1777.756,1778.052,"No, Your Honor."
+1989.88-995,1,15049,antonin_scalia,scotus_justice,1794.78,1802.433,Why does it contain the language against the insurer of a policy or contract of liability then?
+1989.88-995,1,42684,timothy_m_fults,,1802.433,1811.679,"I don't know why, Your Honor, and the Court has obviously put its finger on the weakest point of our case."
+1989.88-995,1,15049,antonin_scalia,scotus_justice,1824.127,1824.971,Right.
+1989.88-995,1,42684,timothy_m_fults,,1829.328,1837.043,"In answer to that... and that is at first blush, Your Honor, it does seem difficult or impossible to reconcile ""by"" with ""against""."
+1989.88-995,1,15049,antonin_scalia,scotus_justice,1855.301,1862.486,I might be willing to make that leap of faith if... if it... if it made no sense the way it's written.
+1989.88-995,1,42684,timothy_m_fults,,1884.524,1893.537,"In theory, Your Honor, I believe that that's true, and the theory I'm talking about is the theory of diversity jurisdiction that there really would be local prejudice."
+1989.88-995,1,15045,harry_a_blackmun,scotus_justice,1927.367,1930.819,"Your argument, certainly, is similar to that in the last case, isn't it?"
+1989.88-995,1,42684,timothy_m_fults,,1930.819,1932.989,"I'm sorry, Your Honor, I didn't hear you."
+1989.88-995,1,15045,harry_a_blackmun,scotus_justice,1932.989,1937.41,"I say, your argument is similar to that made in the preceding case today."
+1989.88-995,1,42684,timothy_m_fults,,1937.41,1938.237,"Yes, sir."
+1989.88-995,1,15092,sandra_day_oconnor,scotus_justice,1938.237,1940.485,You just haven't cited Holy Trinity yet.
+1989.88-995,1,42684,timothy_m_fults,,1961.883,1967.645,I think it would be a first policy... a first party liability case.
+1989.88-995,1,15113,anthony_m_kennedy,scotus_justice,1983.89,1991.494,"Well, does liability insurance... excuse me... does liability insurance have a well-understood meaning in the insurance industry?"
+1989.88-995,1,42684,timothy_m_fults,,1991.494,1998.321,"--The meaning cited by the Court is one that indemnifies against becoming liable, almost a... a self-definition."
+1989.88-995,1,15113,anthony_m_kennedy,scotus_justice,1998.321,2001.85,"Well, that isn't this kind of policy in Texas, though, is it?"
+1989.88-995,1,42684,timothy_m_fults,,2001.85,2008.567,It does indemnify the employer against liability for this action by his employee.
+1989.88-995,1,15113,anthony_m_kennedy,scotus_justice,2008.567,2011.316,Does the policy do that or does the state law do that?
+1989.88-995,1,42684,timothy_m_fults,,2013.143,2020.0,"No, the policy... if I follow the Court the policy does it because it's required under the state law."
+1989.88-995,1,15113,anthony_m_kennedy,scotus_justice,2020.0,2022.671,But it's not a liability policy.
+1989.88-995,1,42684,timothy_m_fults,,2044.567,2050.658,"That argument is raised... did not raise an oral argument... has been raised by the Petitioner in his written briefs, of course."
+1989.88-995,1,15113,anthony_m_kennedy,scotus_justice,2080.833,2091.11,"Well, if an employer purchases a health insurance policy for the employees as a fringe benefit, you wouldn't call that a liability policy, would you?"
+1989.88-995,1,42684,timothy_m_fults,,2091.11,2095.125,"No, because there would be no liability for those health benefits otherwise."
+1989.88-995,1,15113,anthony_m_kennedy,scotus_justice,2107.901,2109.48,"Well, not for workmen's compensation."
+1989.88-995,1,42684,timothy_m_fults,,2113.335,2119.677,"--Exactly, and because of the workers' compensation scheme he can insure with compensation insurance against that."
+1989.88-995,1,15045,harry_a_blackmun,scotus_justice,2161.74,2164.756,"Well, maybe Congress can remedy the damage."
+1989.88-995,1,42684,timothy_m_fults,,2164.756,2171.219,That would be possible with an amendment of section 1332(c).
+1989.88-995,1,15060,john_paul_stevens,scotus_justice,2171.219,2182.887,"Well, maybe the employee does have that right because if it's not... if, taking Justice Kennedy's point, if it's not a contract of liability of insurance, then the proviso doesn't apply, and they could just go on in federal court."
+1989.88-995,1,42684,timothy_m_fults,,2182.887,2186.402,"If that were... if that were the case, Your Honor, it could."
+1989.88-995,1,15060,john_paul_stevens,scotus_justice,2200.599,2205.285,"The Sixth Circuit relied on the by language, by or against point, and the direct action point."
+1989.88-995,1,42684,timothy_m_fults,,2205.285,2205.989,--Correct.
+1989.88-995,1,15060,john_paul_stevens,scotus_justice,2205.989,2209.485,But not on the... what the words liability insurance mean.
+1989.88-995,1,42684,timothy_m_fults,,2209.485,2209.735,Correct.
+1989.88-995,1,15060,john_paul_stevens,scotus_justice,2217.405,2225.574,"Of course, I suppose if we agree with your opponent on the ultimate outcome, I suppose we could straighten that out, couldn't we, and open the door to both."
+1989.88-995,1,42684,timothy_m_fults,,2236.101,2240.287,"What it would also do, Your Honor, that I think is more--"
+1989.88-995,1,15060,john_paul_stevens,scotus_justice,2240.287,2241.834,"Federal judges will have more business, too."
+1989.88-995,1,42684,timothy_m_fults,,2241.834,2244.223,--It would give judges a lot more business.
+1989.88-995,1,15141,william_h_rehnquist,scotus_justice,2286.689,2291.219,"But you have to a $50,000 to go into diversity now, don't you?"
+1989.88-995,1,42684,timothy_m_fults,,2291.219,2292.843,"Yes, Your Honor, you do now."
+1989.88-995,1,15141,william_h_rehnquist,scotus_justice,2292.843,2296.263,"Do most of those awards exceed $50,000, do you think?"
+1989.88-995,1,42684,timothy_m_fults,,2296.263,2299.215,The data is not compiled in that fashion.
+1989.88-995,1,15060,john_paul_stevens,scotus_justice,2408.218,2413.295,May I ask you a question about the Sixth Circuit case which I frankly haven't read yet.
+1989.88-995,1,42684,timothy_m_fults,,2416.356,2416.762,Tennessee.
+1989.88-995,1,15060,john_paul_stevens,scotus_justice,2416.762,2420.183,Does Tennessee have the same peculiarities as the Texas statute?
+1989.88-995,1,42684,timothy_m_fults,,2420.183,2422.088,There are some similarities.
+1989.88-995,1,15060,john_paul_stevens,scotus_justice,2424.337,2427.758,"For example, in Tennessee would the employer be liable?"
+1989.88-995,1,42684,timothy_m_fults,,2427.758,2431.209,"The employer... counsel are nodding, and I'm going to defer."
+1989.88-995,1,15060,john_paul_stevens,scotus_justice,2437.02,2450.67,"To the extent there are differences between the two states, you would have thought the Sixth Circuit might have decided the way the Fifth did and vice versa, isn't that right, that the... the... under that statute there's a stronger case for the... for your side of it, your side of the case."
+1989.88-995,1,42684,timothy_m_fults,,2450.67,2451.138,That would be true.
+1989.88-995,1,15060,john_paul_stevens,scotus_justice,2478.034,2482.562,"See, it would seem in that case you would pretty clearly have had a direct action, but maybe you don't."
+1989.88-995,1,42684,timothy_m_fults,,2494.496,2505.445,"Yes, indeed, Your Honor, and that is one of the bases of the Campbell holding, that being that this... the process viewed in its entirety is really--"
+1989.88-995,2,38035,peter_michael_jung,,2564.327,2567.263,"Mr. Chief Justice, and may it please the Court:"
+1989.88-995,2,15092,sandra_day_oconnor,scotus_justice,2643.451,2662.692,"Well, can't it be said that he has no liability unless he voluntarily subjects himself to some sort of scheme such as by buying the insurance in which case his liability is substituted by the insurance scheme?"
+1989.88-995,2,38035,peter_michael_jung,,2662.692,2666.988,He does not have any liability even if he buys the insurance.
+1989.88-995,2,15060,john_paul_stevens,scotus_justice,2706.863,2711.752,"Mr. Jung, lots of your... a major part of your argument really is unique to Texas, isn't it?"
+1989.88-995,2,38035,peter_michael_jung,,2711.752,2713.658,Texas and Washington State.
+1989.88-995,2,15060,john_paul_stevens,scotus_justice,2713.658,2716.376,"So, if we... we could agree with you without resolving the conflict, couldn't we?"
+1989.88-995,2,38035,peter_michael_jung,,2716.376,2717.843,I believe you could.
+1989.88-995,2,15060,john_paul_stevens,scotus_justice,2725.794,2731.354,"It certainly was no part of the justification for the Sixth Circuit's decision, which we thought... with which we thought there was a conflict?"
+1989.88-995,2,38035,peter_michael_jung,,2731.354,2739.21,"Absolutely not, although the Sixth Circuit did focus on the fact the employer and the insurance carrier were jointly and severally liable in Tennessee."
+1989.88-995,2,15071,byron_r_white,scotus_justice,2767.588,2771.306,"Well, it... it stuck to it, and that was the basis for its decision in this case."
+1989.88-995,2,38035,peter_michael_jung,,2771.306,2776.007,"It did so, Your Honor, because of the rule that one Fifth Circuit panel cannot overrule another Fifth Circuit panel."
+1989.88-995,2,15071,byron_r_white,scotus_justice,2776.007,2776.866,"Well, I agree with that."
+1989.88-995,2,38035,peter_michael_jung,,2776.866,2777.757,The Court did not--
+1989.88-995,2,15071,byron_r_white,scotus_justice,2777.757,2780.489,But the issue we have before us is whether that decision is right.
+1989.88-995,2,38035,peter_michael_jung,,2780.489,2781.583,"--That is correct, Your Honor."
+1989.88-995,2,15071,byron_r_white,scotus_justice,2793.36,2797.576,"So, we have to assume that the entire Fifth Circuit agrees with the rule of law in that circuit."
+1989.88-995,2,38035,peter_michael_jung,,2797.576,2806.714,"Well, that it does or that the case does not otherwise meet the extraordinary requirements necessary for en banc consideration, which I must admit--"
+1989.88-995,2,15060,john_paul_stevens,scotus_justice,2806.714,2809.385,"Not important enough for the Fifth Circuit, but important enough for us?"
+1989.88-995,2,38035,peter_michael_jung,,2809.385,2809.869,--Exactly.
+1989.88-995,2,15049,antonin_scalia,scotus_justice,2817.522,2825.487,"The difference between the Court of Appeals and this court on such matters is that this court can avoid cases, but cannot avoid en banc."
+1989.88-995,2,38035,peter_michael_jung,,2831.454,2834.436,"But, Mr. Justice Stevens is correct."
+1989.88-995,2,15141,william_h_rehnquist,scotus_justice,2954.81,2956.808,"Thank you, Mr. Jung."

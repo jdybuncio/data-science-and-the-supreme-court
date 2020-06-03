@@ -1,0 +1,73 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1983.82-1005,0,15073,warren_e_burger,scotus_justice,0.0,9.367,We'll hear arguments next in Chevron against National Resources Council.
+1983.82-1005,0,37751,paul_m_bator,,70.479,88.351,"Mr. Chief Justice, and may it please the Court, this case involves the validity of an important regulation issued by the Environmental Protection Agency under the Clean Air Act Amendments of 1977."
+1983.82-1005,0,15071,byron_r_white,scotus_justice,168.831,177.707,Do you suppose the Court of Appeals would have had the same view had the agency taken the same definition from the outset?
+1983.82-1005,0,37751,paul_m_bator,,177.707,180.02,We believe so.
+1983.82-1005,0,15071,byron_r_white,scotus_justice,183.483,184.773,That it's changed its mind.
+1983.82-1005,0,37751,paul_m_bator,,184.773,188.175,--that the agency has in fact exercised its discretion in a number of different--
+1983.82-1005,0,15071,byron_r_white,scotus_justice,188.175,189.714,"Ways, yes."
+1983.82-1005,0,37751,paul_m_bator,,189.714,194.899,--with a number of different resolutions of the problem from time to time.
+1983.82-1005,0,15060,john_paul_stevens,scotus_justice,380.76,385.743,"Mr. Bator, can I interrupt you right there, because this is one thing I wasn't clear on from the brief."
+1983.82-1005,0,37751,paul_m_bator,,389.957,392.358,"Part D does not define ""source""."
+1983.82-1005,0,15060,john_paul_stevens,scotus_justice,392.358,397.661,"Well, then, does the definition of 111--"
+1983.82-1005,0,37751,paul_m_bator,,397.661,401.675,That is one of the big disputes in the case.
+1983.82-1005,0,15060,john_paul_stevens,scotus_justice,401.675,402.764,"--Oh, so it is an issue as to whether that--"
+1983.82-1005,0,37751,paul_m_bator,,402.764,403.996,Whether that--
+1983.82-1005,0,15060,john_paul_stevens,scotus_justice,403.996,406.557,"--They don't agree with you, then, that there's no definition."
+1983.82-1005,0,37751,paul_m_bator,,406.557,407.068,--Right.
+1983.82-1005,0,15060,john_paul_stevens,scotus_justice,416.104,422.258,But there is a statutory definition of the term (a) the definition does not apply to Part D?
+1983.82-1005,0,37751,paul_m_bator,,422.258,427.591,"--That definition, Your Honor, was enacted by Congress in 1970--"
+1983.82-1005,0,15060,john_paul_stevens,scotus_justice,427.591,428.533,I understand.
+1983.82-1005,0,37751,paul_m_bator,,428.533,435.726,--in Section 111 in the context of a separate program called the new source performance standard program.
+1983.82-1005,0,15060,john_paul_stevens,scotus_justice,435.726,443.643,"And it's your position that in 1977, was it, they intended the word ""source"" to have a different meaning than it had in the already enacted statute?"
+1983.82-1005,0,37751,paul_m_bator,,443.643,449.865,We're saying that they did not intend to carry over or to incorporate the Section 111 definition.
+1983.82-1005,0,15060,john_paul_stevens,scotus_justice,471.249,473.53,And you think that would be necessary for us to assume--
+1983.82-1005,0,37751,paul_m_bator,,473.53,478.405,"Not always, Your Honor, but in this case there is additional history, Justice Stevens."
+1983.82-1005,0,15060,john_paul_stevens,scotus_justice,550.834,564.414,"--And of course the language of the definition tends to cut against you somewhat, I think, because it's any building or any facility, and you would say that if you've got three buildings in a plant, that you don't count the buildings separately."
+1983.82-1005,0,37751,paul_m_bator,,564.414,586.237,"Your Honor, our position is that even if the definition applies, the most sensible reading of it is that within the definition there is room to adapt it, and that the Congress must have intended some administrative discretion to adapt it to the functional needs of the various Clean Air Act programs."
+1983.82-1005,0,15092,sandra_day_oconnor,scotus_justice,633.577,668.141,"Mr. Bator, even assuming, arguendo, that your position is correct that the definition of source in the previous legislation was not carried over for the new source review, what appears to me to have been done here is that EPA has defined source for purposes of 7503 in Part D two different ways."
+1983.82-1005,0,37751,paul_m_bator,,704.213,717.302,"Your Honor, the reference to what counts for purposes of the imposition of LAER technology, which is the latter example used, is not meant to be a definition of the word ""source"" at all."
+1983.82-1005,0,15092,sandra_day_oconnor,scotus_justice,717.302,726.969,"Well, but it says ""source"" in the statute: The proposed source is required to comply with the lowest achievable emission rate."
+1983.82-1005,0,37751,paul_m_bator,,726.969,746.961,"Well, of course in order to get into LAER it has to be a source, but once you get to the imposition of LAER technology of course we are there talking on a unit-by-unit or machine basis because that's what the technology is imposed on."
+1983.82-1005,0,15092,sandra_day_oconnor,scotus_justice,746.961,766.606,"Well, it just seems to me that EPA has seized upon the word LAER purpose."
+1983.82-1005,0,37751,paul_m_bator,,766.606,772.69,"Your Honor, I think that EPA was not purporting to create a definition there."
+1983.82-1005,0,15140,william_j_brennan_jr,scotus_justice,840.897,858.596,"Well, is that the same, Mr. Bator, that while they use the plant-wide definition to determine whether a source is new or modified, once they've determined that it's modified they impose only, as you said, the machine LAER requirements?"
+1983.82-1005,0,37751,paul_m_bator,,858.596,858.977,Absolutely.
+1983.82-1005,0,15140,william_j_brennan_jr,scotus_justice,860.679,866.123,"Well, suppose they determine that it's a new, rather than a modified, a new source?"
+1983.82-1005,0,37751,paul_m_bator,,867.154,876.928,"--There are statutory definitions of what is a new and what is a modified source, and they have somewhat different significance."
+1983.82-1005,0,15140,william_j_brennan_jr,scotus_justice,876.928,878.581,"Well, perhaps I'm getting into something a little different."
+1983.82-1005,0,37751,paul_m_bator,,888.917,889.458,"Yes, sir."
+1983.82-1005,0,15140,william_j_brennan_jr,scotus_justice,889.458,896.173,"Now I understand that's done when they determine the source is modified, but what when they determine the source is new?"
+1983.82-1005,0,37751,paul_m_bator,,898.384,905.638,"When a source is new, the plant-wide and the--"
+1983.82-1005,0,15140,william_j_brennan_jr,scotus_justice,905.638,906.459,"Well, what about the--"
+1983.82-1005,0,37751,paul_m_bator,,906.459,907.4,--individual--
+1983.82-1005,0,15140,william_j_brennan_jr,scotus_justice,907.4,908.792,--What about the LAER standard?
+1983.82-1005,0,37751,paul_m_bator,,911.681,917.635,"--When you create a new plant, then by definition you have a source because you don't have an offset."
+1983.82-1005,0,15140,william_j_brennan_jr,scotus_justice,919.878,926.621,So then the LAER requirements apply over the whole plant when it's a new source?
+1983.82-1005,0,37751,paul_m_bator,,926.621,935.717,"The LAER requirement insists that when you're building a new plant, the state-of-the-art technology be imposed on all of the equipment--"
+1983.82-1005,1,20783,david_d_doniger,,1511.089,1525.379,"Mr. Chief Justice, and may it please the Court, as Mr. Justice Stevens has said, the question in this case is whether the statute defines the term ""stationary source"" for the purpose of this program, and we contend that it does."
+1983.82-1005,1,15071,byron_r_white,scotus_justice,1784.309,1798.828,"Well, even under the government's position, though, the state plan is going to have to, whether it uses the bubble concept or not, is going to have to have an annual improvement in the air quality."
+1983.82-1005,1,20783,david_d_doniger,,1807.284,1821.491,"The Government I think is arguing that if the plan makes up the lost ground by not having the source... not having the thing subject to the permit review, then it doesn't make any difference."
+1983.82-1005,1,15071,byron_r_white,scotus_justice,1822.863,1830.538,"All I was saying is that even under the government's view, the air quality is going to have to steadily improve."
+1983.82-1005,1,20783,david_d_doniger,,1830.538,1833.93,--That's correct.
+1983.82-1005,1,15071,byron_r_white,scotus_justice,1833.93,1837.844,It would just improve faster and more under your view.
+1983.82-1005,1,20783,david_d_doniger,,1837.844,1854.765,"Well, what we have here is Congress deciding that new sources were going to have to play a specific role in that reducing of pollution, and the plan was going to have to make whatever residual reduction was necessary from any other source the state--"
+1983.82-1005,2,37751,paul_m_bator,,3117.245,3120.057,"Yes, Your Honor."
+1983.82-1005,2,15071,byron_r_white,scotus_justice,3164.926,3166.997,"What was Senator Muskie talking about, for example?"
+1983.82-1005,2,37751,paul_m_bator,,3166.997,3187.141,"--Senator Muskie, from the Conference Report, made one statement which we discuss in our reply brief, which does seem to presuppose... although it's somewhat ambiguous; he may just have been saying that what he was insisting was that the new provisions do apply to modifications as well as to new construction."
+1983.82-1005,2,15071,byron_r_white,scotus_justice,3187.141,3188.703,What if that was what he was saying?
+1983.82-1005,2,37751,paul_m_bator,,3190.693,3194.326,"I don't think, if that's all he was saying, that it makes any difference."
+1983.82-1005,2,15092,sandra_day_oconnor,scotus_justice,3357.433,3363.016,"Well, I guess the question is whether Congress has mandated that."
+1983.82-1005,3,20783,david_d_doniger,,3365.879,3366.219,Yes.
+1983.82-1005,3,15092,sandra_day_oconnor,scotus_justice,3367.258,3368.961,--which policy makes the more sense.
+1983.82-1005,3,20783,david_d_doniger,,3371.251,3377.866,"And Mr. Doniger comes here and he says that Congress, by positive law, has eliminated the administrator's discretion."
+1983.82-1005,3,15060,john_paul_stevens,scotus_justice,3393.027,3403.462,"Well, your argument of course is that they intended to change the statutory definition and delegate to the administrator the power to define source without saying so in so many words."
+1983.82-1005,3,20783,david_d_doniger,,3403.462,3409.777,"Your Honor, that statutory definition that he speaks about was never an all purpose definition even back in--"
+1983.82-1005,3,15060,john_paul_stevens,scotus_justice,3409.777,3421.875,"No, but normally when you find a term defined in the statute and you don't find any alternative definitions, your first impression is it probably has the same meaning throughout the statute... at least that's the way I start when I read complicated statutes."
+1983.82-1005,3,20783,david_d_doniger,,3421.875,3426.547,"--Your Honor, in this case Congress was thinking about a particular program, which of course was machine-oriented."
+1983.82-1005,3,15060,john_paul_stevens,scotus_justice,3426.547,3438.515,"And one of the things they had to do was to redefine the term ""source"", but they just sort of did it implicitly, or allowed you to do it implicitly, or allowed your client to do it implicitly."
+1983.82-1005,3,20783,david_d_doniger,,3438.515,3448.902,"Your Honor, our submission is that Congress really wasn't focusing... wasn't focusing specifically on what should count as a ""source"" for new source performance."
+1983.82-1005,3,15071,byron_r_white,scotus_justice,3448.902,3453.885,"Well, I thought that part of your submission was that even with this alleged definition--"
+1983.82-1005,3,20783,david_d_doniger,,3453.885,3454.596,That is also the case.
+1983.82-1005,3,15071,byron_r_white,scotus_justice,3454.596,3460.891,--that there is enough room right within that language of buildings and so on for the agency to do--
+1983.82-1005,3,20783,david_d_doniger,,3460.891,3467.866,"That is our alternative argument, Justice White, and that is the one that the Court of Appeals, at least in these other contexts, accepted."

@@ -1,0 +1,135 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1980.80-242,0,15073,warren_e_burger,scotus_justice,0.0,5.635,We will hear arguments next in Lehman v. Nakshian.
+1980.80-242,0,22617,edwin_s_kneedler,,94.36,97.145,"Thank you, Mr. Chief Justice, and may it please the Court:"
+1980.80-242,0,15141,william_h_rehnquist,scotus_justice,392.588,398.408,"Mr. Kneedler, how did the Court of Appeals distinguish the Federal Tort Claims Act?"
+1980.80-242,0,22617,edwin_s_kneedler,,398.408,408.447,"As I recall, the Court of Appeals did not expressly address the question of the Federal Tort Claims Act."
+1980.80-242,0,15141,william_h_rehnquist,scotus_justice,408.447,414.767,Yet the Federal Tort Claims Act provides for suits against the Government but does not allow jury trials.
+1980.80-242,0,22617,edwin_s_kneedler,,414.767,415.551,That's correct.
+1980.80-242,0,15073,warren_e_burger,scotus_justice,415.551,420.103,"But it's express in Tort Claims Act, is it not?"
+1980.80-242,0,22617,edwin_s_kneedler,,420.103,438.98,"Well, yes, what... this is now codified in 28 United States Code 2402, that suits against the Federal Government under 1346 are to be tried without a jury with one exception, that's in tax refund suits."
+1980.80-242,0,15073,warren_e_burger,scotus_justice,486.647,492.301,But is this a suit at common law in the traditional terms?
+1980.80-242,0,22617,edwin_s_kneedler,,498.205,498.938,"No, there was not."
+1980.80-242,0,15140,william_j_brennan_jr,scotus_justice,650.667,654.786,"Well, I gather the Government's position anyway is that Yit has to be explicit, isn't it?"
+1980.80-242,0,22617,edwin_s_kneedler,,654.786,655.055,Yes.
+1980.80-242,0,15140,william_j_brennan_jr,scotus_justice,655.055,658.007,You can't find it by implication?
+1980.80-242,0,22617,edwin_s_kneedler,,658.007,658.79,That's right.
+1980.80-242,0,15141,william_h_rehnquist,scotus_justice,662.309,667.779,"It could be implicit even among private parties, as in Parklane Hosiery."
+1980.80-242,0,22617,edwin_s_kneedler,,667.779,671.397,"--Well, that's correct."
+1980.80-242,0,15043,potter_stewart,scotus_justice,678.268,685.24,"But the reason, it has to be explicit when it's an action against the United States Government."
+1980.80-242,0,22617,edwin_s_kneedler,,685.24,685.64,That's right.
+1980.80-242,0,15043,potter_stewart,scotus_justice,685.64,688.776,That's the only time in your argument that it has to be explicit.
+1980.80-242,0,22617,edwin_s_kneedler,,688.776,689.242,That's correct; yes.
+1980.80-242,0,15060,john_paul_stevens,scotus_justice,703.469,715.776,"May I ask you one question that's brought to mind that, what would you say about a suit against an officer of the United States, the Attorney General or someone, in his official capacity, seeking damages of a Bivens character, something like that?"
+1980.80-242,0,22617,edwin_s_kneedler,,715.776,724.199,"--Well, if it's a Bivens-type action, then that is a suit, that would be a suit while arising out of his official duties, it's a suit in his personal capacity."
+1980.80-242,0,15060,john_paul_stevens,scotus_justice,730.853,733.805,Is there... maybe I'm just totally off base.
+1980.80-242,0,22617,edwin_s_kneedler,,740.911,748.564,"That's correct it would be deemed a suit against the United States, which would invoke all normal rules as if the United States were the injured party."
+1980.80-242,0,15043,potter_stewart,scotus_justice,748.564,753.484,"And the doctrine coming from Ex Parte Young was only in equity, it wasn't a suit for damages?"
+1980.80-242,0,22617,edwin_s_kneedler,,753.484,753.984,That's correct.
+1980.80-242,0,15141,william_h_rehnquist,scotus_justice,802.064,814.122,"You could turn that argument around, could you not, and say that in the Federal Tort Claims Act it knew how to bar the right to jury trials and when it has not done so there is a right to jury trial?"
+1980.80-242,0,22617,edwin_s_kneedler,,814.122,860.651,"Mr. Justice Rehnquist, under Rule 38 certainly now the question we believe has to be whether Congress affirmatively granted it, granted the right, because Rule 38 provides for trial by jury guaranteed by the Seventh Amendment, whereas given by an act of Congress the mere absence of a prohibition does not in our view constitute the grant of a right to trial by jury, particularly when considered against the background of Congress's general practice of not granting a right to trial by jury in, for instance, the complete range of cases subject to the Tucker Act, which includes all monetary claims under the Constitution under any statute, under any contract, and all claims for liquidated or unliquidated damages sounding in tort."
+1980.80-242,0,15043,potter_stewart,scotus_justice,863.203,873.911,"Was Rule 38 or its predecessor, did it say the same thing at the time of the enactment of the Federal Tort Claims Act?"
+1980.80-242,0,22617,edwin_s_kneedler,,873.911,880.498,"Well, the Federal Tort Claims Act was enacted in 1946."
+1980.80-242,0,15043,potter_stewart,scotus_justice,880.498,881.364,"In '46 or '47, I think."
+1980.80-242,0,22617,edwin_s_kneedler,,881.364,887.484,"And the Rules of Civil Procedure were adopted, I believe, in 1937 or 1938."
+1980.80-242,0,15043,potter_stewart,scotus_justice,902.43,905.715,"Well, under your argument, Congress didn't need to provide, explicitly provide what it did provide?"
+1980.80-242,0,22617,edwin_s_kneedler,,905.715,906.048,That's correct.
+1980.80-242,0,15140,william_j_brennan_jr,scotus_justice,932.448,943.554,"Mr. Kneedler, as I recall it, Lorillard emphasized legal relief in 7(c), didn't it, as a basis for the conclusion that jury trial was intended there."
+1980.80-242,0,22617,edwin_s_kneedler,,947.708,949.425,"--Yes, they do, Mr. Justice Brennan."
+1980.80-242,0,15140,william_j_brennan_jr,scotus_justice,1028.927,1033.664,"And I notice we have an amicus brief from a number of Senators and Congressmen, or all they all Congressmen?"
+1980.80-242,0,22617,edwin_s_kneedler,,1033.664,1034.964,I believe they're all Congressmen; yes.
+1980.80-242,0,15140,william_j_brennan_jr,scotus_justice,1034.964,1035.6,All Congressmen.
+1980.80-242,0,22617,edwin_s_kneedler,,1047.272,1050.609,I didn't trace whether each of them did.
+1980.80-242,0,15140,william_j_brennan_jr,scotus_justice,1058.613,1059.465,Even when there were that many?
+1980.80-242,0,15073,warren_e_burger,scotus_justice,1059.465,1067.535,"This is one step removed, you suggest, from the usual post-events legislative history?"
+1980.80-242,0,22617,edwin_s_kneedler,,1067.535,1069.987,"--Yes, I would submit that it is."
+1980.80-242,0,15073,warren_e_burger,scotus_justice,1069.987,1072.023,How many years removed would this be?
+1980.80-242,0,22617,edwin_s_kneedler,,1072.023,1079.277,"Oh, this... the Act was extended to the Federal Goverment in 1974 so this would be six years, seven years."
+1980.80-242,0,15140,william_j_brennan_jr,scotus_justice,1079.277,1080.962,"Quite a few of these, I think, were there."
+1980.80-242,0,22617,edwin_s_kneedler,,1082.545,1083.247,Yes.
+1980.80-242,0,15141,william_h_rehnquist,scotus_justice,1086.449,1100.959,"Rule 38, by its terms, certainly... at least the copy I have, is maybe outdated... doesn't expressly bar a jury trial in a claim against the United States."
+1980.80-242,0,22617,edwin_s_kneedler,,1100.959,1113.849,"--No, but it does say, in the basic provisions dealing with jury trials, that there should be a right to jury trial as guaranteed by the Seventh Amendment or as given by a statute of the United States."
+1980.80-242,0,15141,william_h_rehnquist,scotus_justice,1124.99,1130.192,"Well, but then doesn't the Seventh Amendment come into play?"
+1980.80-242,0,22617,edwin_s_kneedler,,1130.192,1133.328,In a suit against the Federal Government?
+1980.80-242,0,15141,william_h_rehnquist,scotus_justice,1149.039,1156.776,"You say, then, that 38 simply doesn't apply to the Federal Government?"
+1980.80-242,0,22617,edwin_s_kneedler,,1156.776,1172.905,"Oh, it does apply, but what it requires is that you find, not that the Seventh Amendment does not apply to the Federal Government, so that part of the jury trial right that's preserved in Rule 38(a) does not apply to the Federal Government."
+1980.80-242,0,15141,william_h_rehnquist,scotus_justice,1195.152,1212.761,"Well, how about Curtis v. Loether and the other, the District of Columbia case and the 7th Circuit case where the right to trial by jury wasn't given by statute, but this Court found it was given by the Seventh Amendment?"
+1980.80-242,0,22617,edwin_s_kneedler,,1212.761,1213.713,That's correct; yes.
+1980.80-242,0,15060,john_paul_stevens,scotus_justice,1228.039,1237.229,"But isn't your reading of Rule 38 just a way of saying, the question is whether a right to trial by jury is or is not given by a statute?"
+1980.80-242,0,22617,edwin_s_kneedler,,1238.978,1239.545,That's right.
+1980.80-242,0,15060,john_paul_stevens,scotus_justice,1239.545,1242.014,So that Rule 38 doesn't add or subtract from anything as I see it.
+1980.80-242,0,22617,edwin_s_kneedler,,1242.014,1246.799,"Well, I think that's basically correct."
+1980.80-242,0,15043,potter_stewart,scotus_justice,1428.901,1434.555,"That kind of argument is pretty well foreclosed by what we said in the last term in the PPG opinion, isn't it?"
+1980.80-242,0,22617,edwin_s_kneedler,,1440.543,1453.201,"No, I'm not suggesting that that's a hard and fast rule, but in terms of looking at the indicia of legislative intent, if we look beyond the face of the statute, which we submit isn't even necessary here."
+1980.80-242,0,15043,potter_stewart,scotus_justice,1453.201,1454.469,Let's consider the face of the statute.
+1980.80-242,0,22617,edwin_s_kneedler,,1473.697,1478.334,"Well, I'm not suggesting that it's dispositive."
+1980.80-242,0,15141,william_h_rehnquist,scotus_justice,1710.502,1717.573,Doesn't Pfitsch turn almost entirely on the court in which the case is authorized to be brought?
+1980.80-242,0,22617,edwin_s_kneedler,,1727.511,1729.463,"Well, there are several things about Pfitsch."
+1980.80-242,0,15141,william_h_rehnquist,scotus_justice,1764.053,1767.921,"Well, it said so in so many words, didn't it?"
+1980.80-242,0,22617,edwin_s_kneedler,,1767.921,1774.575,"Well, but it says, it said that the trial would be according to the ordinary procedures of suits of law in federal district court."
+1980.80-242,0,15141,william_h_rehnquist,scotus_justice,1787.751,1790.284,What's your authority for that?
+1980.80-242,0,22617,edwin_s_kneedler,,1790.284,1809.498,"Well, I think one explanation for this is that at the time Pfitsch was decided there was the former 28 United States Code 770 which provided a statutory right for trial by jury in suits at law in the federal district courts."
+1980.80-242,0,15071,byron_r_white,scotus_justice,1840.602,1857.544,"Well, if this statute specifically said there would be no jury trial in suits against the Government which are consented to, I don't suppose Pfitsch would require a jury trial?"
+1980.80-242,0,22617,edwin_s_kneedler,,1857.544,1858.163,"No, that's correct."
+1980.80-242,0,15071,byron_r_white,scotus_justice,1858.163,1860.765,And you're simply lying that you read the statute that way?
+1980.80-242,0,22617,edwin_s_kneedler,,1860.765,1861.381,That's correct.
+1980.80-242,0,15073,warren_e_burger,scotus_justice,1864.9,1867.502,Very well.
+1980.80-242,1,37736,patricia_j_barry,,1869.435,1874.572,Mr. Chief Justice; may it please the Court:
+1980.80-242,1,15073,warren_e_burger,scotus_justice,1892.2,1898.104,Was this the kind of an action that existed at the time the Seventh Amendment was adopted?
+1980.80-242,1,37736,patricia_j_barry,,1898.104,1915.483,"No, Your Honor, but I believe in the Pernell case this Court indicated that often the common law theory of a right to a jury trial as it existed in 1789 or in 1791 is often extended if it can be analogized."
+1980.80-242,1,15073,warren_e_burger,scotus_justice,1917.099,1923.237,Did that case involve a situation with sovereign immunity being waived?
+1980.80-242,1,37736,patricia_j_barry,,1923.237,1927.624,"--No, Your Honor, I believe it was a landlord-tenant case coming out of here out of the District of Columbia."
+1980.80-242,1,15073,warren_e_burger,scotus_justice,1927.624,1928.724,Don't you think that makes some difference?
+1980.80-242,1,37736,patricia_j_barry,,1928.724,1932.527,"Your Honor, I don't believe so, for the following reasons."
+1980.80-242,1,15141,william_h_rehnquist,scotus_justice,2042.999,2052.187,"Ms. Barry, I suppose there was no Lever Act, as involved in the Pfitsch case, at common law in 1791?"
+1980.80-242,1,37736,patricia_j_barry,,2052.187,2055.489,"I don't think so, Your Honor !"
+1980.80-242,1,15141,william_h_rehnquist,scotus_justice,2064.579,2064.912,Right.
+1980.80-242,1,37736,patricia_j_barry,,2064.912,2075.351,"And I don't think that kind of writ could be obtained in the common law courts of the King, back in 1789 and 1791."
+1980.80-242,1,15045,harry_a_blackmun,scotus_justice,2245.48,2248.948,At least that's what the court of appeals majority said.
+1980.80-242,1,37736,patricia_j_barry,,2248.948,2255.085,"--Yes, sir, and as I understand that this Court has held in Pfitsch, Law, Wickwire, and Galloway."
+1980.80-242,1,15141,william_h_rehnquist,scotus_justice,2618.903,2631.644,"Well, Ms. Barry, you can see our difficulty with the case is that it would have been so easily resolved by Congress if it had said there will be a right to jury trial or there won't be a right to jury trial."
+1980.80-242,1,37736,patricia_j_barry,,2637.865,2654.493,"--Which is exactly why I think we're before this Court today is that the problem, I believe, that came up in October of '77 was, first of all, the focus of the '78 amendments was on the mandatory retirement age and then eliminating the upper age ceiling for federal employees."
+1980.80-242,1,15141,william_h_rehnquist,scotus_justice,2727.956,2744.383,"My point was that Congress in '46 in the Federal Tort Claims Act when it had not been around at all, so to speak, found itself perfectly able to say, there shall be no right of jury trial."
+1980.80-242,1,37736,patricia_j_barry,,2752.239,2764.212,"--Your Honor, I think I can distinguish that situation, because the Federal Tort Claims Act at 1346(b) is simply that one section found under a general statute that did not allow jury trials in the first place."
+1980.80-242,1,15141,william_h_rehnquist,scotus_justice,2790.714,2798.886,But there's also a standard principle that the Government waives its sovereign immunity only to the extent that it is stated by Congress.
+1980.80-242,1,37736,patricia_j_barry,,2798.886,2823.501,"--That is correct, Your Honor, but I don't think that is the same thing as what the petitioner is saying that there is a doctrine of sovereign immunity against jury trials unless there is an express grant, at least, as I understand the case law precedent in this area where courts have been called upon to construe the mode of trial procedure where the statute is silent and the Government is being sued, and the ordinary principles of statutory construction obtain."
+1980.80-242,1,15073,warren_e_burger,scotus_justice,3089.758,3093.043,"We'll resume there at 1 o'clock, Mrs. Barry."
+1980.80-242,1,37736,patricia_j_barry,,3093.043,3093.662,--Thank you.
+1980.80-242,1,15073,warren_e_burger,scotus_justice,3097.114,3106.986,"You may continue, Mrs. Barry."
+1980.80-242,1,37736,patricia_j_barry,,3106.986,3108.07,"Thank you, Your Honor."
+1980.80-242,1,15073,warren_e_burger,scotus_justice,3134.47,3135.739,What difference does it make?
+1980.80-242,1,37736,patricia_j_barry,,3135.739,3138.441,"--Oh, only in response to that question, Your Honor."
+1980.80-242,1,15073,warren_e_burger,scotus_justice,3139.257,3149.563,"You don't suggest it makes any difference whether they express that view as members of Congress, later members of Congress, or future members of Congress, do you?"
+1980.80-242,1,37736,patricia_j_barry,,3149.563,3164.656,"Well, Your Honor, I thought that in response to the Justice's question that perhaps the intent, those who wrote up the '78 amendments, who were close to the law and writing up the conference reports surrounding HR--"
+1980.80-242,1,15073,warren_e_burger,scotus_justice,3164.656,3167.858,"In order to do that, the best way would be to take a poll of the Congress, wouldn't it?"
+1980.80-242,1,37736,patricia_j_barry,,3167.858,3174.278,"--Yes, sir; yes, indeed, the best kind of legislative history is that that is contemporaneous with the law."
+1980.80-242,1,15073,warren_e_burger,scotus_justice,3255.915,3260.8,Don't those cases involve the surrender of sovereign immunity by the states?
+1980.80-242,1,37736,patricia_j_barry,,3260.8,3263.152,"--Your Honor, in that one--"
+1980.80-242,1,15073,warren_e_burger,scotus_justice,3263.152,3265.871,Or was it imposed on them from the outside?
+1980.80-242,1,37736,patricia_j_barry,,3265.871,3274.96,--I believe it was imposed upon them from the outside in 1974 when Congress amended 630 to include the definition of state employers under the purview of the Act.
+1980.80-242,1,15073,warren_e_burger,scotus_justice,3386.097,3393.62,"Well, as Justice Rehnquist suggested this morning, they know what words to use the other way too, don't they?"
+1980.80-242,1,37736,patricia_j_barry,,3393.62,3396.672,In making an express grant of jury trial?
+1980.80-242,1,15073,warren_e_burger,scotus_justice,3396.672,3399.607,"Yes, in saying what they mean, one way or the other."
+1980.80-242,1,37736,patricia_j_barry,,3399.607,3403.976,"Yes, sir, which they did in Section 7(c)(2), probably operating under the--"
+1980.80-242,1,15073,warren_e_burger,scotus_justice,3403.976,3407.028,"Congress has done it both ways in different settings, have they not?"
+1980.80-242,1,37736,patricia_j_barry,,3407.028,3408.194,"--That's correct, Your Honor."
+1980.80-242,1,15141,william_h_rehnquist,scotus_justice,3427.406,3431.059,Because the collector was the defendant rather than the United States.
+1980.80-242,1,37736,patricia_j_barry,,3431.059,3435.178,--I note the petitioner raised that but I think it's a very artificial one.
+1980.80-242,1,15141,william_h_rehnquist,scotus_justice,3455.025,3461.829,"Wasn't that the reason assigned, at any rate, even though it was concededly artificial or antiquated?"
+1980.80-242,1,37736,patricia_j_barry,,3461.829,3475.922,"--Well, Your Honor, I believe with... in passing in dicta, that I believe that this Court found in Wickwire that it really came from a fair implication from the statutory language, that is, it was an action at law."
+1980.80-242,1,15141,william_h_rehnquist,scotus_justice,3552.588,3554.957,What did Louis XIV say about government?
+1980.80-242,1,37736,patricia_j_barry,,3554.957,3561.861,"Being the Sun King, I'm sure he identified the state with himself."
+1980.80-242,1,15141,william_h_rehnquist,scotus_justice,3561.861,3562.278,"L'etat, c'est moi."
+1980.80-242,1,37736,patricia_j_barry,,3562.278,3569.015,I respectfully request that the decision of the Circuit Court of Appeals be affirmed.
+1980.80-242,1,15073,warren_e_burger,scotus_justice,3570.884,3573.086,"Do you have anything further, Mr. Kneedler?"
+1980.80-242,2,22617,edwin_s_kneedler,,3573.086,3576.138,"Thank you, Mr. Chief Justice."
+1980.80-242,2,15043,potter_stewart,scotus_justice,3622.25,3636.51,"Well, now, Mrs. Barry says that this argument, the logic of this argument would mean that none of the other provisions of the Act are applicable at all."
+1980.80-242,2,22617,edwin_s_kneedler,,3636.51,3638.544,"Well, Mr. Justice Stewart--"
+1980.80-242,2,15043,potter_stewart,scotus_justice,3638.544,3640.794,Liquidated damages or statute of limitations or--
+1980.80-242,2,22617,edwin_s_kneedler,,3640.794,3651.519,"--Well, of course, there is a standard statute of limitations provisions for suits against the Government under 28 United States Code 2401, for suits against the Government generally."
+1980.80-242,2,15043,potter_stewart,scotus_justice,3658.19,3658.792,--Right.
+1980.80-242,2,22617,edwin_s_kneedler,,3658.792,3659.958,--Section 15--
+1980.80-242,2,15043,potter_stewart,scotus_justice,3659.958,3662.494,She said the logic of your argument would lead to that conclusion.
+1980.80-242,2,22617,edwin_s_kneedler,,3662.494,3668.831,"--Oh, that's true, but we're not suggesting that the new subsection accomplished anything that wasn't in the statute before."
+1980.80-242,2,15043,potter_stewart,scotus_justice,3690.16,3696.398,"So you're content, and you say that the logical conclusion of your argument is the correct conclusion."
+1980.80-242,2,22617,edwin_s_kneedler,,3696.398,3700.933,"Is the correct conclusion, that Congress deliberately chose to do that; yes."
+1980.80-242,2,15073,warren_e_burger,scotus_justice,3700.933,3703.402,Very well.

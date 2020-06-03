@@ -1,0 +1,148 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1990.89-1106,0,15141,william_h_rehnquist,scotus_justice,0.0,9.988,"We'll hear argument now in No. 89-1106, Trinova Corporation v. Michigan Department of the Treasury."
+1990.89-1106,0,38326,peter_s_sheldon,,11.52,18.073,"Thank you, Mr. Chief Justice, and may it please the Court:"
+1990.89-1106,0,15045,harry_a_blackmun,scotus_justice,207.871,214.997,Suppose the facts were different and profit produced the greatest factor.
+1990.89-1106,0,38326,peter_s_sheldon,,219.361,233.048,"Perhaps not, Your Honor, if... if Trinova had had a tax base that was comprised of the profit component to a significant extent."
+1990.89-1106,0,15060,john_paul_stevens,scotus_justice,251.604,255.647,May I interrupt to... to follow up on Justice Blackmun's question?
+1990.89-1106,0,38326,peter_s_sheldon,,266.394,283.346,"It's not a matter of stipulation, Justice Stevens, but in the merits brief, appendix la contains a publication from the Department of Treasury that clearly sets forth for the average taxpayer what their components of tax base are."
+1990.89-1106,0,15049,antonin_scalia,scotus_justice,292.462,304.28,"Mr. Sheldon, let me put this question in terms of one of the examples given in one of the briefs taken from a law review article, as I recall."
+1990.89-1106,0,38326,peter_s_sheldon,,317.41,331.798,"The point, Justice Scalia, is that a tax has to be analyzed, in testing its constitutionality under the Due Process and Commerce Clauses, in terms of its practical effect, in terms of its economic reality."
+1990.89-1106,0,15049,antonin_scalia,scotus_justice,331.798,332.219,Right.
+1990.89-1106,0,38326,peter_s_sheldon,,332.219,340.526,"And here, this tax, by whatever label it may be called, is in practical effect and more than anything else a tax on compensation."
+1990.89-1106,0,15049,antonin_scalia,scotus_justice,340.526,348.641,"Well, suppose you, you could have... we have approved gross receipts taxes, right?"
+1990.89-1106,0,38326,peter_s_sheldon,,348.641,350.001,"Yes, Your Honor."
+1990.89-1106,0,15049,antonin_scalia,scotus_justice,350.001,365.15,"Now why isn't, why aren't they just as discriminatory against out-of-State, some out-of-State companies, and just as contrary to the other principles that you are urging as this tax is?"
+1990.89-1106,0,38326,peter_s_sheldon,,365.15,379.97,"Well, a gross receipts tax is generally aimed at determining a tax base that relates to the gross receipts, the actual gross receipts that is derived from activity within the taxing State."
+1990.89-1106,0,15049,antonin_scalia,scotus_justice,388.979,391.039,"The measure is the receipts in Michigan, right?"
+1990.89-1106,0,38326,peter_s_sheldon,,394.662,406.697,"The tax base of a value-added tax base that uses the additive method of calculation, such as the Michigan SBT, is comprised of--"
+1990.89-1106,0,15049,antonin_scalia,scotus_justice,406.697,410.33,"What you claim distorts this is the fact that they are using Michigan sales, isn't that it?"
+1990.89-1106,0,38326,peter_s_sheldon,,410.33,411.201,--That is correct.
+1990.89-1106,0,15049,antonin_scalia,scotus_justice,411.201,416.266,"But they could tax you 100 percent on Michigan sales, and we would say it's okay."
+1990.89-1106,0,38326,peter_s_sheldon,,429.424,433.548,"But it's not a tax on gross receipts, Your Honor, it's a tax on value added."
+1990.89-1106,0,15049,antonin_scalia,scotus_justice,438.543,445.516,"Well, this, this is a tax on value added, the same way the first tax I mentioned to you was a tax on sleeping."
+1990.89-1106,0,38326,peter_s_sheldon,,454.144,459.089,"But the measure of the tax, Your Honor, is not Michigan sales."
+1990.89-1106,0,15049,antonin_scalia,scotus_justice,465.703,467.856,"You have no complaint about that, that is okay."
+1990.89-1106,0,38326,peter_s_sheldon,,469.178,473.962,"--What distorts it, Your Honor, is the inclusion of an equally weighted sales factor--"
+1990.89-1106,0,15049,antonin_scalia,scotus_justice,473.962,474.14,Michigan sales.
+1990.89-1106,0,38326,peter_s_sheldon,,474.14,477.085,--in the three-factor apportionment formula.
+1990.89-1106,0,15141,william_h_rehnquist,scotus_justice,487.029,497.467,"But Justice Scalia's point is that the State of Michigan could have disregarded the site-specific factors and taxed you solely on your gross receipts, and you would be right about at the same place."
+1990.89-1106,0,38326,peter_s_sheldon,,498.729,510.046,"But... that may be true, Your Honor, but the State of Michigan has not elected to tax gross receipts."
+1990.89-1106,0,15049,antonin_scalia,scotus_justice,512.269,514.44,"It's a tax on sleeping, you say, right?"
+1990.89-1106,0,38326,peter_s_sheldon,,514.44,515.292,--I am saying that--
+1990.89-1106,0,15049,antonin_scalia,scotus_justice,515.292,516.974,But you just acknowledged that that doesn't matter.
+1990.89-1106,0,38326,peter_s_sheldon,,521.457,524.611,"--Your... Your Honor, and the measure of the tax is value added."
+1990.89-1106,0,15049,antonin_scalia,scotus_justice,524.611,526.804,"This is a tax on sleeping, not on shoes."
+1990.89-1106,0,38326,peter_s_sheldon,,526.804,545.167,"The practical effect of the tax, we submit, Your Honor, is a tax on value added, and the only way that Michigan could exact a positive contribution of tax from Trinova in this case is by taxing extra-territorial value, which the Due Process and Commerce Clauses--"
+1990.89-1106,0,15060,john_paul_stevens,scotus_justice,545.167,546.689,"Well, isn't there another answer to Justice Scalia?"
+1990.89-1106,0,38326,peter_s_sheldon,,555.187,556.259,--That's correct.
+1990.89-1106,0,15060,john_paul_stevens,scotus_justice,557.481,558.139,So it's not a tax on gross receipts.
+1990.89-1106,0,38326,peter_s_sheldon,,558.139,559.5,That is my point.
+1990.89-1106,0,15113,anthony_m_kennedy,scotus_justice,586.399,588.709,Is it all that clear?
+1990.89-1106,0,38326,peter_s_sheldon,,602.899,604.161,"That is correct, Your Honor."
+1990.89-1106,0,15113,anthony_m_kennedy,scotus_justice,604.161,617.401,"Suppose that the sales people were very, very important in giving information to the manufacturing component in the other State about the design requirements for this glass."
+1990.89-1106,0,38326,peter_s_sheldon,,634.755,665.152,"Your Honor, we acknowledge that sales activity, including, for instance, the intangible contributions of centralized management, functional integration, and economies of scale may indeed impact and influence taxpayer decisions that relate to the employment and deployment of labor, and to the acquisition and location of depreciable plant."
+1990.89-1106,0,15113,anthony_m_kennedy,scotus_justice,715.519,718.083,"Well, why is that necessarily so?"
+1990.89-1106,0,38326,peter_s_sheldon,,745.482,756.12,"The intangible factors only impact on the measure of the profit component of a value-added tax base, which we acknowledge may be properly subjected to three-factor formulary apportionment."
+1990.89-1106,0,15113,anthony_m_kennedy,scotus_justice,781.938,784.109,I don't understand why that is.
+1990.89-1106,0,38326,peter_s_sheldon,,784.109,796.468,"Well, translated, the cost with respect to the labor component is what the taxpayer pays its employees for the services they have performed."
+1990.89-1106,0,15113,anthony_m_kennedy,scotus_justice,845.983,860.482,"Is it your theory that the constitution requires that the State adopt the most precise mechanism available for apportionment, given the theory of the tax?"
+1990.89-1106,0,38326,peter_s_sheldon,,860.482,870.387,"We say, Your Honor, that with respect to the site-specific components of a value-added tax base, there is no need to apportion them."
+1990.89-1106,0,15092,sandra_day_oconnor,scotus_justice,928.177,934.611,How large does a discrepancy like that have to be before you say the Constitution prohibits it?
+1990.89-1106,0,38326,peter_s_sheldon,,936.834,950.412,"Well, Justice O'Connor, in the Hans Rees case, of course, a distortion of 250 percent, or about 2.5 times, was found to be significant, enough to justify a holding in the taxpayer's favor."
+1990.89-1106,0,15092,sandra_day_oconnor,scotus_justice,959.408,968.865,"Suppose that the taxpayer did have a sizable profit, unlike the taxpayer we have in this case."
+1990.89-1106,0,38326,peter_s_sheldon,,973.129,992.352,"--We have no quarrel with the application of the three-factor apportionment formula against the profit component of the value-added tax base, because, as this Court has observed on many prior occasions, and which we do not contest, income is difficult to source on a State-by-State basis."
+1990.89-1106,0,15141,william_h_rehnquist,scotus_justice,1024.786,1044.949,"--Mr.... surely Michigan is entitled to take into consideration the fact that the sales activity of Trinova to purchasers in Michigan, presumably automobile companies, is going to bring in a great deal of revenue to Trinova, is it not?"
+1990.89-1106,0,38326,peter_s_sheldon,,1044.949,1049.34,"Sales activity will derive revenue, that's right, Your Honor."
+1990.89-1106,0,15141,william_h_rehnquist,scotus_justice,1051.654,1056.005,"Well, why does Michigan have to settle for income?"
+1990.89-1106,0,38326,peter_s_sheldon,,1057.998,1061.299,"Well, it has not talked about revenue here."
+1990.89-1106,0,15049,antonin_scalia,scotus_justice,1069.128,1069.969,This is a tax on sleeping.
+1990.89-1106,0,38326,peter_s_sheldon,,1127.889,1131.072,I'm not sure I understand the full hypothetical.
+1990.89-1106,0,15049,antonin_scalia,scotus_justice,1141.441,1145.964,The total value of the business divided by those... those three factors.
+1990.89-1106,0,38326,peter_s_sheldon,,1145.964,1188.792,"Well, if you define the total value of the business in terms of value added principles, like Michigan has done here, most of the tax base is going to be compensation, and that three-factor formula will inevitably cause gross distortion, because the sales factor... the reason that is so is because the sales factor provides absolutely no clue whatsoever as to where the dominant site-specific productive activity that underlies payments of compensation and depreciation, which are the lion's share of the tax base, take place."
+1990.89-1106,0,15113,anthony_m_kennedy,scotus_justice,1202.28,1209.916,Does that translate to the theory that a distortion is measured against the theory of the tax?
+1990.89-1106,0,38326,peter_s_sheldon,,1209.916,1213.31,"--No, the distortion is measured--"
+1990.89-1106,0,15113,anthony_m_kennedy,scotus_justice,1213.31,1215.019,Because it seems to me that that has to be your argument.
+1990.89-1106,0,38326,peter_s_sheldon,,1215.019,1237.963,"--The components of tax base... what we are taxing here is we are taxing productive activity that is undertaken by the taxpayer, and the tax itself defines productive activity in terms of labor costs, in terms of capital costs, and to a very much lesser extent in terms of profit."
+1990.89-1106,0,15141,william_h_rehnquist,scotus_justice,1475.064,1477.305,"Very well, Mr. Sheldon."
+1990.89-1106,1,40276,richard_r_roesch,,1479.194,1485.25,"Thank you Mr. Chief Justice, and may it please the Court."
+1990.89-1106,1,15060,john_paul_stevens,scotus_justice,1521.792,1523.234,May I just interrupt you there?
+1990.89-1106,1,40276,richard_r_roesch,,1523.234,1523.375,--Yes.
+1990.89-1106,1,15060,john_paul_stevens,scotus_justice,1523.375,1525.298,You start by talking about the Federal income tax.
+1990.89-1106,1,40276,richard_r_roesch,,1529.92,1531.512,"Yes, that's very true, Your Honor."
+1990.89-1106,1,15060,john_paul_stevens,scotus_justice,1531.512,1535.556,So there isn't really a big disagreement about whether 90 percent of the items that are taxed are site specific.
+1990.89-1106,1,40276,richard_r_roesch,,1535.556,1536.027,"No, there is no disagreement."
+1990.89-1106,1,15060,john_paul_stevens,scotus_justice,1571.868,1573.761,Can I ask you a question right there?
+1990.89-1106,1,40276,richard_r_roesch,,1592.817,1601.555,"--Justice Stevens, if Michigan were to impose a payroll tax similar to a FICA tax upon payrolls, obviously Michigan wouldn't have a jurisdictional reach over Ohio components."
+1990.89-1106,1,15060,john_paul_stevens,scotus_justice,1601.555,1601.793,Why not?
+1990.89-1106,1,40276,richard_r_roesch,,1608.847,1612.811,"Wait, we are not... the Michigan tax is upon business activities."
+1990.89-1106,1,15060,john_paul_stevens,scotus_justice,1614.772,1619.806,"Well, I am hypothesizing a payroll tax on a unitary business apportioned by the formula."
+1990.89-1106,1,40276,richard_r_roesch,,1619.806,1628.972,"--A payroll tax, if it were simply upon payroll specifically, could not be justified under the unitary business--"
+1990.89-1106,1,15060,john_paul_stevens,scotus_justice,1628.972,1633.176,"But if it's payroll which is 90 percent and you add 10 percent more for profit, then it's all right to apportion it?"
+1990.89-1106,1,40276,richard_r_roesch,,1633.176,1635.247,"--That's not what I am saying, Your Honor."
+1990.89-1106,1,15060,john_paul_stevens,scotus_justice,1635.247,1635.928,You're not.
+1990.89-1106,1,40276,richard_r_roesch,,1635.928,1638.479,What I am saying is that the Michigan tax is not upon compensation.
+1990.89-1106,1,15060,john_paul_stevens,scotus_justice,1681.583,1693.213,"But the reason behind that was that it is impossible otherwise to find a fair way to apportion... to identify the site-specific nature of the profit, where the profit comes from, except by a formula."
+1990.89-1106,1,40276,richard_r_roesch,,1697.267,1702.17,"The factors can be identified, but you cannot identify where the value is added."
+1990.89-1106,1,15060,john_paul_stevens,scotus_justice,1743.832,1749.408,"What if the tax, instead of just value added, was a value added by labor tax, and then you apportion it."
+1990.89-1106,1,40276,richard_r_roesch,,1752.961,1754.803,--A value added by labor?
+1990.89-1106,1,15060,john_paul_stevens,scotus_justice,1754.803,1758.086,"A value added by labor, and you use... your component is payroll."
+1990.89-1106,1,40276,richard_r_roesch,,1762.209,1765.441,I believe that very well might be.
+1990.89-1106,1,15049,antonin_scalia,scotus_justice,1805.66,1810.554,"Mr.... Mr. Roesch, is it accurate to say that this is a tax upon business activity?"
+1990.89-1106,1,40276,richard_r_roesch,,1832.227,1832.728,"--Yes, Your Honor."
+1990.89-1106,1,15049,antonin_scalia,scotus_justice,1832.728,1834.04,"It's the shoes, not the sleeping."
+1990.89-1106,1,40276,richard_r_roesch,,1834.04,1845.129,"Yes, Your Honor, but for purposes of... for purposes of measuring, for purposes of measuring how much Michigan may get of these items, they are not site specific."
+1990.89-1106,1,15049,antonin_scalia,scotus_justice,1878.421,1885.016,"That's fine, but does that mean that simply because you can't identify it precisely you don't even have to try to identify it approximately?"
+1990.89-1106,1,40276,richard_r_roesch,,1885.016,1894.533,"If Michigan were to have separate taxes upon these components, and this is our major disagreement here."
+1990.89-1106,1,15113,anthony_m_kennedy,scotus_justice,1988.558,2001.588,"But why wouldn't the same result follow from Justice Stevens' first hypothetical that he gave you where there was a tax just on compensation, but that there was an apportionment measure used based on income?"
+1990.89-1106,1,40276,richard_r_roesch,,2009.575,2011.205,It seemed to me that--
+1990.89-1106,1,15113,anthony_m_kennedy,scotus_justice,2011.205,2021.844,"--Unless you are saying, unless you are conceding, which is what I thought Trinova should be arguing, which is that the theory of the tax and the measure of the tax must be in correlation."
+1990.89-1106,1,40276,richard_r_roesch,,2024.835,2033.361,--The theory of the tax and its apportion mechanism completely really unrelate.
+1990.89-1106,1,15113,anthony_m_kennedy,scotus_justice,2083.485,2092.241,"Well, suppose it was done on a formula that would, when applied by other States if they enacted a similar tax, was equitable to all."
+1990.89-1106,1,40276,richard_r_roesch,,2093.353,2109.174,"If... if you have no internal consistency problem, and that is what your question really implies, if other States enacted a similar tax and we would have... and it would be equitable, then I would have no hesitation to say yes, a State could enact that."
+1990.89-1106,1,15071,byron_r_white,scotus_justice,2187.751,2201.461,"You may successfully argue that Michigan isn't reaching beyond its borders to tax, but you still have to answer the question of whether it discriminates against... against--"
+1990.89-1106,1,40276,richard_r_roesch,,2201.461,2207.045,--The discrimination argument can be answered very simply once again as it was answered in Moorman.
+1990.89-1106,1,15060,john_paul_stevens,scotus_justice,2321.387,2324.66,"--Of course, Moorman was an attack on the apportionment formula."
+1990.89-1106,1,40276,richard_r_roesch,,2326.113,2326.263,No.
+1990.89-1106,1,15060,john_paul_stevens,scotus_justice,2326.263,2330.427,And here the basic attack is on the way that the tax base distorts the whole thing.
+1990.89-1106,1,40276,richard_r_roesch,,2330.427,2332.199,"Your Honor, Your Honor, you are correct."
+1990.89-1106,1,15060,john_paul_stevens,scotus_justice,2387.409,2392.574,But of course the purpose of the apportionment of the gross receipts there was to find out how many of those receipts took place within the taxing jurisdiction.
+1990.89-1106,1,40276,richard_r_roesch,,2400.589,2401.871,"--That is correct, Your Honor."
+1990.89-1106,1,15060,john_paul_stevens,scotus_justice,2407.085,2409.068,And here we are not taxing gross receipts.
+1990.89-1106,1,40276,richard_r_roesch,,2416.061,2417.473,"--That is correct, Your Honor."
+1990.89-1106,1,15060,john_paul_stevens,scotus_justice,2548.255,2554.33,"Except the additions here are 90 percent of the total, and in the typical income case your addition is a very small percentage of the total."
+1990.89-1106,1,40276,richard_r_roesch,,2554.33,2566.13,"Yes, but it has never been the rule that your apportionment, that the factors in your apportionment factor be reflected in the tax subject, in the tax base."
+1990.89-1106,1,15071,byron_r_white,scotus_justice,2577.016,2590.394,"Well, wasn't it hoped in Michigan that adopting this particular tax might... might attract some business to the State?"
+1990.89-1106,1,40276,richard_r_roesch,,2590.394,2590.774,The hope was--
+1990.89-1106,1,15071,byron_r_white,scotus_justice,2590.774,2591.916,"As a matter of fact, hasn't it?"
+1990.89-1106,1,40276,richard_r_roesch,,2591.916,2595.809,--That is very hard to say.
+1990.89-1106,1,15071,byron_r_white,scotus_justice,2598.922,2600.013,Wasn't it hoped that it would?
+1990.89-1106,1,40276,richard_r_roesch,,2600.013,2601.766,--It was hoped that it would.
+1990.89-1106,1,15071,byron_r_white,scotus_justice,2601.766,2609.609,And the reason was because it would be more favorable to be located in the State than to be located outside the State.
+1990.89-1106,1,40276,richard_r_roesch,,2609.609,2610.37,"That is incorrect, Your Honor."
+1990.89-1106,1,15071,byron_r_white,scotus_justice,2613.514,2614.704,You don't need to ask me a question.
+1990.89-1106,1,40276,richard_r_roesch,,2616.727,2619.449,"--Thank you, Justice White."
+1990.89-1106,1,15071,byron_r_white,scotus_justice,2639.974,2645.298,"Well, why did you adopt this new... this scheme replaced something else, like an income tax."
+1990.89-1106,1,40276,richard_r_roesch,,2645.298,2646.06,--Yes.
+1990.89-1106,1,15060,john_paul_stevens,scotus_justice,2972.216,2976.109,"May I ask you, you say a three-factor formula for gross receipts tax?"
+1990.89-1106,1,40276,richard_r_roesch,,2978.39,2979.121,Your Honor--
+1990.89-1106,1,15060,john_paul_stevens,scotus_justice,2979.121,2982.443,"There isn't a precedent for that, is there?"
+1990.89-1106,1,40276,richard_r_roesch,,2982.443,2983.554,--No.
+1990.89-1106,1,15060,john_paul_stevens,scotus_justice,2983.554,2992.741,"I thought all the formula unitary business cases were all income tax cases, because you need some formula to allocate the income."
+1990.89-1106,1,40276,richard_r_roesch,,2994.644,2995.703,"Your Honor, you are correct."
+1990.89-1106,1,15060,john_paul_stevens,scotus_justice,3007.801,3008.282,"It was mileage, which--"
+1990.89-1106,1,40276,richard_r_roesch,,3008.282,3015.167,"--against total gross receipts, meaning gross receipts may be apportionable as a measure of business activity."
+1990.89-1106,1,15060,john_paul_stevens,scotus_justice,3015.167,3018.209,"--Right, if you have some reasonable method of apportioning it."
+1990.89-1106,1,40276,richard_r_roesch,,3018.209,3019.151,That is correct.
+1990.89-1106,1,15060,john_paul_stevens,scotus_justice,3019.151,3023.051,And there is some relationship to predicting how many of the gross receipts were from that particular State.
+1990.89-1106,1,40276,richard_r_roesch,,3023.051,3031.649,"Well, the State was taxing business activity, and it said we are going to tax this business activity not by taxing a portion of your income, but a portion of your gross receipts."
+1990.89-1106,1,15060,john_paul_stevens,scotus_justice,3031.649,3031.889,Right.
+1990.89-1106,1,40276,richard_r_roesch,,3031.889,3034.022,And Michigan here says the same thing.
+1990.89-1106,1,15060,john_paul_stevens,scotus_justice,3073.919,3078.053,Because they'll have a bigger proportion of their other two factors in Michigan.
+1990.89-1106,1,40276,richard_r_roesch,,3078.053,3081.253,"That is possible, Your Honor."
+1990.89-1106,1,15060,john_paul_stevens,scotus_justice,3081.253,3082.655,"Well, that's the whole answer, isn't it?"
+1990.89-1106,1,40276,richard_r_roesch,,3082.655,3086.769,"No, that is not the whole answer."
+1990.89-1106,1,15141,william_h_rehnquist,scotus_justice,3150.852,3153.675,"Thank you, Mr. Roesch."
+1990.89-1106,1,40276,richard_r_roesch,,3153.675,3154.773,"Thank you, Mr. Chief Justice."
+1990.89-1106,1,15141,william_h_rehnquist,scotus_justice,3154.773,3155.444,"Mr. Sheldon, do you have rebuttal?"
+1990.89-1106,2,38326,peter_s_sheldon,,3155.444,3158.767,"Thank you, Your Honor, I do."
+1990.89-1106,2,15141,william_h_rehnquist,scotus_justice,3404.73,3407.273,"Thank you, Mr. Sheldon."

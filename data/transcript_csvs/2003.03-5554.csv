@@ -1,0 +1,193 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2003.03-5554,0,15141,william_h_rehnquist,scotus_justice,0.0,36.339,"We'll hear argument next in No. 03-5554, Larry D. Hiibel v. the Sixth Judicial District Court of Nevada."
+2003.03-5554,0,39039,robert_e_dolan,,60.855,62.022,"Your Honor, it's Hiibel."
+2003.03-5554,0,15141,william_h_rehnquist,scotus_justice,62.022,62.555,Hiibel.
+2003.03-5554,0,39039,robert_e_dolan,,64.638,66.007,"Thank you, Mr. Chief Justice."
+2003.03-5554,0,15092,sandra_day_oconnor,scotus_justice,91.722,95.859,"Could the officer have just said, show me your driver's license?"
+2003.03-5554,0,39039,robert_e_dolan,,95.859,97.159,"We don't believe so, Your Honor."
+2003.03-5554,0,15092,sandra_day_oconnor,scotus_justice,97.159,97.742,Why?
+2003.03-5554,0,39039,robert_e_dolan,,97.742,99.928,This was not a traffic stop.
+2003.03-5554,0,15092,sandra_day_oconnor,scotus_justice,107.334,113.654,But there was evidence... was it not clear that he had been driving and he got out of his vehicle?
+2003.03-5554,0,39039,robert_e_dolan,,117.356,118.14,"--No, Your Honor."
+2003.03-5554,0,15141,william_h_rehnquist,scotus_justice,134.567,136.284,What was the factual situation?
+2003.03-5554,0,39039,robert_e_dolan,,139.703,140.121,Yes.
+2003.03-5554,0,15092,sandra_day_oconnor,scotus_justice,183.716,186.167,But you don't think he could have asked for his driver's license?
+2003.03-5554,0,39039,robert_e_dolan,,186.167,186.8,"No, Your Honor."
+2003.03-5554,0,15092,sandra_day_oconnor,scotus_justice,190.369,196.623,"Well, because the officer had been told that in a truck... in that truck somebody was hitting somebody."
+2003.03-5554,0,39039,robert_e_dolan,,196.623,205.748,"Well, we believe that the deputy certainly had the right to ask for identity and... and we think equally so Mr. Hiibel was free not to respond."
+2003.03-5554,0,15049,antonin_scalia,scotus_justice,205.748,206.181,I see.
+2003.03-5554,0,39039,robert_e_dolan,,232.163,232.315,The--
+2003.03-5554,0,15049,antonin_scalia,scotus_justice,232.315,234.298,He... he can't even ask the name you say.
+2003.03-5554,0,39039,robert_e_dolan,,234.298,235.267,"--Well, Your Honor--"
+2003.03-5554,0,15049,antonin_scalia,scotus_justice,235.267,246.123,Can he ask what... what are you doing here if he sees somebody hanging around a jewelry store at 2:00 a.m. and... and so he... he conducts a Terry stop?
+2003.03-5554,0,39039,robert_e_dolan,,253.562,262.085,"--Well, we... we certainly believe that under the Fifth Amendment a person has no obligation to respond to... to that officer."
+2003.03-5554,0,15049,antonin_scalia,scotus_justice,288.402,288.935,"No, it hasn't."
+2003.03-5554,0,39039,robert_e_dolan,,290.535,291.068,--Just a Terry stop.
+2003.03-5554,1,19100,conrad_hafen,,1598.754,1602.558,"Mr. Chief Justice, and may it please the Court:"
+2003.03-5554,1,15139,stephen_g_breyer,scotus_justice,1630.375,1632.391,"Now, that... that goes beyond Byers."
+2003.03-5554,1,19100,conrad_hafen,,1651.703,1652.486,"Well, in regard--"
+2003.03-5554,1,15139,stephen_g_breyer,scotus_justice,1652.486,1657.506,"And... and Byers didn't take the position that you just take, that it's... that it's not testimonial."
+2003.03-5554,1,19100,conrad_hafen,,1662.076,1668.897,"--Well, Your Honor, in regard to Byers, it was a plurality opinion, but there was also a strong concurrence by Justice Harlan."
+2003.03-5554,1,15139,stephen_g_breyer,scotus_justice,1693.613,1706.855,"Well, I'll... I'll look at it again, but it seems to me even the Harlan opinion was in the context of what we might call the regulatory zone of... of automobile... automobile regulation and control."
+2003.03-5554,1,19100,conrad_hafen,,1706.855,1713.259,"They did talk about that, Your Honor, but in the same context, they also describe or they... they address it in the criminal context."
+2003.03-5554,1,15049,antonin_scalia,scotus_justice,1720.329,1728.452,"The plurality opinion said that noting a name... notes that a name, quote, identifies but does not by itself implicate anyone in criminal conduct--"
+2003.03-5554,1,19100,conrad_hafen,,1728.452,1729.102,--That's correct.
+2003.03-5554,1,15049,antonin_scalia,scotus_justice,1729.102,1729.985,--which is the same point.
+2003.03-5554,1,19100,conrad_hafen,,1729.985,1731.387,"That's correct, Your Honor."
+2003.03-5554,1,15084,ruth_bader_ginsburg,scotus_justice,1742.778,1744.944,You said name and address.
+2003.03-5554,1,19100,conrad_hafen,,1758.204,1761.156,"Your Honor, the statute in Nevada doesn't go that far."
+2003.03-5554,1,15084,ruth_bader_ginsburg,scotus_justice,1770.512,1785.705,But I'm asking you what fits... what fits within this neutral... you... you say that there are certain things you can ask a person that they can be required to respond to because they're not incriminating and they're not a violation of privacy.
+2003.03-5554,1,19100,conrad_hafen,,1794.727,1799.031,"--You could certainly make the argument that those other things that you suggested, Your Honor, are neutral."
+2003.03-5554,1,15084,ruth_bader_ginsburg,scotus_justice,1810.387,1814.808,I... I don't follow that really because I can understand the Terry stop.
+2003.03-5554,1,19100,conrad_hafen,,1838.673,1846.596,"--Well, Your Honor, going outside the record, based on my experience as a prosecutor, that information can be received in just a... a matter of minutes."
+2003.03-5554,1,15060,john_paul_stevens,scotus_justice,1874.713,1879.265,Does that... does not information convert reasonable suspicion into probable cause?
+2003.03-5554,1,19100,conrad_hafen,,1879.265,1879.798,Well--
+2003.03-5554,1,15060,john_paul_stevens,scotus_justice,1879.798,1881.533,Suppose he finds he's a real bad guy.
+2003.03-5554,1,19100,conrad_hafen,,1883.569,1889.806,"--That certainly adds into the equation, Your Honor, but that in and of itself wouldn't convert into probable cause."
+2003.03-5554,1,15060,john_paul_stevens,scotus_justice,1894.675,1900.994,"Well, the totality of the circumstances are in... in the beginning he has reasonable suspicion but not probable cause."
+2003.03-5554,1,19100,conrad_hafen,,1907.148,1913.671,"--Well, again, I... I don't believe so because there would be other factors that would... would have to be taken into consideration."
+2003.03-5554,1,15060,john_paul_stevens,scotus_justice,1913.671,1915.271,But I've already given you all the factors.
+2003.03-5554,1,19100,conrad_hafen,,1925.026,1927.292,No.
+2003.03-5554,1,15060,john_paul_stevens,scotus_justice,1927.292,1927.759,Why not?
+2003.03-5554,1,19100,conrad_hafen,,1947.773,1949.773,"Under your hypothetical, yes."
+2003.03-5554,1,15060,john_paul_stevens,scotus_justice,1949.773,1954.444,"Yes, but the likelihood of... the likelihood of getting that precise information is quite remote, I think, in most of these cases."
+2003.03-5554,1,19100,conrad_hafen,,1954.444,1956.294,That's... that's correct.
+2003.03-5554,1,15042,david_h_souter,scotus_justice,1956.294,1959.912,What about Berkemer?
+2003.03-5554,1,19100,conrad_hafen,,1959.912,1960.764,Excuse me?
+2003.03-5554,1,15139,stephen_g_breyer,scotus_justice,1960.764,1963.716,I... I've read the... the brief here.
+2003.03-5554,1,19100,conrad_hafen,,1986.479,1987.665,"Well, Your Honor, two responses."
+2003.03-5554,1,15139,stephen_g_breyer,scotus_justice,2000.323,2000.623,All right.
+2003.03-5554,1,19100,conrad_hafen,,2065.795,2083.324,"Well, in subsequent opinions that were cited by the petitioner, they discuss the... either a dissent or a concurring, and in those particular references, the Justice does say unsolved crimes, questions to unsolved crimes, or as Justice White said--"
+2003.03-5554,1,15139,stephen_g_breyer,scotus_justice,2083.324,2085.026,Then why complicate the matter?
+2003.03-5554,1,19100,conrad_hafen,,2114.86,2124.548,"--Because again, Your Honor, I don't believe in this particular issue where it's a stop and identify statute, that the Court has specifically addressed that."
+2003.03-5554,1,15139,stephen_g_breyer,scotus_justice,2124.548,2125.234,I thought your answer--
+2003.03-5554,1,19100,conrad_hafen,,2127.834,2129.019,That... that's correct.
+2003.03-5554,1,15141,william_h_rehnquist,scotus_justice,2129.019,2131.138,What case are you referring to when we said it in dictum?
+2003.03-5554,1,19100,conrad_hafen,,2131.138,2134.09,In Berkemer v. McCarty.
+2003.03-5554,1,15139,stephen_g_breyer,scotus_justice,2134.09,2136.706,"But even there, we did not say it was a Fifth Amendment violation."
+2003.03-5554,1,19100,conrad_hafen,,2164.29,2167.909,"That's correct, Your Honor, and that's when the Court would engage in a balancing test."
+2003.03-5554,1,15092,sandra_day_oconnor,scotus_justice,2169.711,2176.33,"But we have not expressly said that Nevada can require identification, or any other State."
+2003.03-5554,1,19100,conrad_hafen,,2178.382,2179.066,--That's correct.
+2003.03-5554,1,15141,william_h_rehnquist,scotus_justice,2179.066,2180.318,And the language is--
+2003.03-5554,1,19100,conrad_hafen,,2182.084,2182.853,That's correct.
+2003.03-5554,1,15139,stephen_g_breyer,scotus_justice,2182.853,2183.636,It is correct?
+2003.03-5554,1,19100,conrad_hafen,,2220.443,2223.328,"Well, are you... in regard to Berkemer?"
+2003.03-5554,1,15139,stephen_g_breyer,scotus_justice,2223.328,2223.911,Yes.
+2003.03-5554,1,19100,conrad_hafen,,2223.911,2234.119,"In regard to Berkemer, again that went back to a Miranda issue, whether an individual... whether an officer would have to read Miranda to a... during a traffic stop."
+2003.03-5554,1,15139,stephen_g_breyer,scotus_justice,2234.469,2238.088,But he says this while discussing Terry stops.
+2003.03-5554,1,19100,conrad_hafen,,2247.713,2248.279,--That... that's correct.
+2003.03-5554,1,15060,john_paul_stevens,scotus_justice,2263.638,2263.955,"Well, I--"
+2003.03-5554,1,19100,conrad_hafen,,2270.876,2273.244,"Your Honor, I... I don't know."
+2003.03-5554,1,15060,john_paul_stevens,scotus_justice,2284.719,2290.806,"Because they're quite different, and certainly the Fifth Amendment issue is important and perhaps even harder than the other issue."
+2003.03-5554,1,19100,conrad_hafen,,2290.806,2292.408,"To... to some extent, Your Honor."
+2003.03-5554,1,15060,john_paul_stevens,scotus_justice,2299.111,2309.601,But it... but it is the... the odd thing about this case is that the inquiry is made and it's significant only in the context of a criminal investigation.
+2003.03-5554,1,19100,conrad_hafen,,2314.219,2315.403,--That... that's correct.
+2003.03-5554,1,15060,john_paul_stevens,scotus_justice,2338.401,2343.519,"Well, I understand all the arguments on the Fourth Amendment, but for me the more difficult issue, frankly, is the Fifth Amendment."
+2003.03-5554,1,19100,conrad_hafen,,2365.469,2369.837,"--Well, in this particular case, the deputy did warn him."
+2003.03-5554,1,15060,john_paul_stevens,scotus_justice,2381.994,2382.763,Yes.
+2003.03-5554,1,19100,conrad_hafen,,2382.763,2385.463,"And so in this particular case, he was placed on notice--"
+2003.03-5554,1,15060,john_paul_stevens,scotus_justice,2385.463,2387.882,"Of course, the statute... but the statute didn't require that."
+2003.03-5554,1,19100,conrad_hafen,,2387.882,2389.167,--That... that's correct.
+2003.03-5554,1,15141,william_h_rehnquist,scotus_justice,2392.702,2396.504,"Well, ignorance of the law is generally no excuse, is it?"
+2003.03-5554,1,19100,conrad_hafen,,2396.504,2397.44,That's correct.
+2003.03-5554,1,15113,anthony_m_kennedy,scotus_justice,2397.44,2406.796,"Well, I agree that the Fifth Amendment is... is the hard... harder question in this case, especially given the convoluted opinions in Byers."
+2003.03-5554,1,19100,conrad_hafen,,2434.946,2451.241,"Well, to some extent, but going back to the videotape that... that the Court has, after Deputy Dove asked the... or informed Mr. Hiibel, I'm here because of a fight between the two of you, he indicates, I know nothing about that."
+2003.03-5554,1,15113,anthony_m_kennedy,scotus_justice,2483.046,2485.929,What... what's the closest case you have for us?
+2003.03-5554,1,19100,conrad_hafen,,2492.902,2495.519,"It would be Byers, and we rely upon Byers."
+2003.03-5554,1,15042,david_h_souter,scotus_justice,2501.94,2512.815,"I... I thought your... you were saying earlier that your strongest reason would be that he had already, in effect, taken himself out of Fifth Amendment protection by saying I know nothing about that."
+2003.03-5554,1,19100,conrad_hafen,,2512.815,2519.819,"In... in that context, yes, because now he, according to Deputy Dove, viewed objectively, is potentially a... a witness."
+2003.03-5554,1,15060,john_paul_stevens,scotus_justice,2519.819,2529.758,"Yes, but then your rationale for the arrest should be that you're a potential witness, and for that reason, we have a right to... we have a right to apprehend the witness to make him testify to the crime."
+2003.03-5554,1,19100,conrad_hafen,,2536.846,2542.417,"Well, but the reasonable suspicion was formed prior to meeting with... with Mr. Hiibel."
+2003.03-5554,1,15113,anthony_m_kennedy,scotus_justice,2546.869,2549.488,"From the standpoint of the Fifth Amendment, what rule do you want us to adopt?"
+2003.03-5554,1,19100,conrad_hafen,,2558.777,2575.221,"During... first of all, you have to make sure that there's reasonable suspicion to detain the person and at that point then when the officer asks the person for identification or what his name is, then if the person doesn't respond, then the person can be arrested."
+2003.03-5554,1,15113,anthony_m_kennedy,scotus_justice,2575.221,2589.029,What about our witness hypothetical where... the Chief Justice's hypothetical of... of the murder with five people standing there and my hypothetical... you don't... you don't think the police can demand identification at that point from witnesses?
+2003.03-5554,1,19100,conrad_hafen,,2589.029,2592.064,"Oh, they... they certainly could demand at that point."
+2003.03-5554,1,15113,anthony_m_kennedy,scotus_justice,2592.064,2594.664,What... could they be criminalized if they fail to give the answer?
+2003.03-5554,1,19100,conrad_hafen,,2594.664,2602.587,"Well, it depends if at that time there's reasonable suspicion to believe that one of those individuals may have committed a crime."
+2003.03-5554,1,15113,anthony_m_kennedy,scotus_justice,2602.587,2605.705,"Oh, so then you're abandoning the witness rationale."
+2003.03-5554,1,19100,conrad_hafen,,2615.679,2621.231,"Well, again, it's... it's going to depend on the... the search... the situation."
+2003.03-5554,1,15060,john_paul_stevens,scotus_justice,2621.231,2621.5,No.
+2003.03-5554,1,19100,conrad_hafen,,2637.343,2638.226,Right.
+2003.03-5554,1,15113,anthony_m_kennedy,scotus_justice,2648.984,2658.673,"Well, it would be rather odd that you could ask innocent people to give their name and not... and not a person under criminal suspicion."
+2003.03-5554,1,19100,conrad_hafen,,2658.673,2661.541,"Well, again, let... let me back up."
+2003.03-5554,1,15049,antonin_scalia,scotus_justice,2661.541,2666.962,"Do you think that maybe when he's invoking the Fifth Amendment, he has to invoke the Fifth Amendment?"
+2003.03-5554,1,19100,conrad_hafen,,2666.962,2667.479,Yes.
+2003.03-5554,1,15049,antonin_scalia,scotus_justice,2667.479,2681.972,"Do you think maybe... if he just can't say I won't answer... he can be arrested if he just says I won't answer, but if he says I won't answer on the ground that it might tend to incriminate me, then the policeman would probably have probable cause."
+2003.03-5554,1,19100,conrad_hafen,,2705.487,2706.187,"Well, they do--"
+2003.03-5554,1,15049,antonin_scalia,scotus_justice,2706.187,2708.439,Can they... can they just say I don't want to answer that question?
+2003.03-5554,1,19100,conrad_hafen,,2708.439,2709.472,--I don't believe so.
+2003.03-5554,1,15139,stephen_g_breyer,scotus_justice,2757.103,2757.953,May... may I interrupt?
+2003.03-5554,1,19100,conrad_hafen,,2779.233,2786.439,"--Well, that would certainly go to the Wade and the Gilbert cases that talk about voice analysis, lineup--"
+2003.03-5554,1,15141,william_h_rehnquist,scotus_justice,2786.439,2789.391,But this is... this is--
+2003.03-5554,1,19100,conrad_hafen,,2790.891,2791.757,--Thank you.
+2003.03-5554,1,15141,william_h_rehnquist,scotus_justice,2791.757,2802.949,"Mr. Srinivasan, we'll hear from you."
+2003.03-5554,2,42056,sri_srinivasan,,2802.949,2805.584,"Thank you, Mr. Chief Justice, and may it please the Court:"
+2003.03-5554,2,15060,john_paul_stevens,scotus_justice,2825.814,2826.947,Would you... may I just interrupt there?
+2003.03-5554,2,42056,sri_srinivasan,,2846.561,2858.301,"--Justice Stevens, it's true that a patdown authority provides a measure of protection for an officers, and it's... it's an important one, but the authority to determine a person's name and thereby run a background check is a highly significant, complementary measure."
+2003.03-5554,2,15049,antonin_scalia,scotus_justice,2858.301,2861.07,Do officers always pat down before they ask questions?
+2003.03-5554,2,42056,sri_srinivasan,,2868.574,2868.874,No.
+2003.03-5554,2,15049,antonin_scalia,scotus_justice,2869.574,2872.092,"We certainly want to encourage that kind of activity, would we?"
+2003.03-5554,2,42056,sri_srinivasan,,2873.544,2875.061,"--No, and a patdown authority is conditioned--"
+2003.03-5554,2,15049,antonin_scalia,scotus_justice,2875.061,2877.58,I think the Terry case does encourage that kind of activity.
+2003.03-5554,2,42056,sri_srinivasan,,2881.548,2888.887,"--Well, the authority to conduct a patdown search, first of all, is conditioned on there being reason... a reasonable basis for believing that the person is armed and dangerous."
+2003.03-5554,2,15060,john_paul_stevens,scotus_justice,2890.672,2901.945,"And my question is once he finds he's not armed, why is his officer... why is his safety implicated by not deciding to let him go instead of calling the station and detaining him further?"
+2003.03-5554,2,42056,sri_srinivasan,,2901.945,2904.497,--Because a patdown isn't foolproof.
+2003.03-5554,2,15060,john_paul_stevens,scotus_justice,2908.551,2909.634,"Well, and a patdown would not--"
+2003.03-5554,2,42056,sri_srinivasan,,2909.634,2910.234,--and in addition--
+2003.03-5554,2,15049,antonin_scalia,scotus_justice,2910.234,2916.788,"--A patdown would not occur unless he had reason to believe the person was armed, which in most cases he will not have."
+2003.03-5554,2,42056,sri_srinivasan,,2936.034,2936.651,--That's--
+2003.03-5554,2,15049,antonin_scalia,scotus_justice,2936.651,2938.153,--which usually they don't I assume.
+2003.03-5554,2,42056,sri_srinivasan,,2938.153,2939.17,"--That's right, Justice Scalia."
+2003.03-5554,2,15060,john_paul_stevens,scotus_justice,2946.49,2951.211,"There has to be a reasonable suspicion, but there doesn't have to be reasonable suspicion that he's armed."
+2003.03-5554,2,42056,sri_srinivasan,,2951.211,2951.644,There has--
+2003.03-5554,2,15060,john_paul_stevens,scotus_justice,2951.644,2952.561,That's not part of the inquiry.
+2003.03-5554,2,42056,sri_srinivasan,,2952.561,2959.4,--There has to be a reasonable basis for believing that the person is armed and dangerous before the authority to conduct a patdown frisk kicks in.
+2003.03-5554,2,15060,john_paul_stevens,scotus_justice,2970.19,2975.343,"Well, is it your position they should get the answer to the identity question before they pat him down?"
+2003.03-5554,2,42056,sri_srinivasan,,2975.343,2975.643,No.
+2003.03-5554,2,15060,john_paul_stevens,scotus_justice,2977.295,2983.432,Which comes first in your view in the normal police procedure where there is reasonable suspicion under Terry?
+2003.03-5554,2,42056,sri_srinivasan,,2983.432,2992.538,"Well, it would... first of all, it would depend on whether there's a reasonable basis for believing that the person is armed and dangerous because if there is not that reasonable basis, the authority doesn't have the authority to conduct a patdown at all."
+2003.03-5554,2,15042,david_h_souter,scotus_justice,2992.538,3010.582,"All right, but on your reasoning that he can ask for the... for the name for reasons of safety... and that's why it should be allowed without anything more... why doesn't exactly that same reason support an authority to... to patdown even in the absence of any reason to believe that the person may be armed and dangerous?"
+2003.03-5554,2,42056,sri_srinivasan,,3012.784,3026.092,"No, it would, but the... the reason why the Fourth Amendment requires a showing a reasonable basis to believe that they're armed and dangerous before conducting a patdown is because, as the Court described the patdown in Terry, it represents a severe intrusion on the person's personal security."
+2003.03-5554,2,15042,david_h_souter,scotus_justice,3033.447,3043.053,"So... so your argument really boils down to the... I mean, the... the crucial part of your argument is... is the... is the relatively... relative insignificance of the intrusion."
+2003.03-5554,2,42056,sri_srinivasan,,3043.053,3043.269,That's--
+2003.03-5554,2,15042,david_h_souter,scotus_justice,3043.269,3046.671,"But for that, we'd be in the same boat with name and patdown."
+2003.03-5554,2,42056,sri_srinivasan,,3046.671,3053.075,"--Well, that's critical to explaining why in all cases the officer should have an authority to compel the person to disclose his name."
+2003.03-5554,2,15042,david_h_souter,scotus_justice,3053.075,3055.193,The insignificance of the intrusion.
+2003.03-5554,2,42056,sri_srinivasan,,3055.193,3055.843,That's correct.
+2003.03-5554,2,15092,sandra_day_oconnor,scotus_justice,3055.843,3086.582,"Now, I thought... I thought under Terry we've held that a police officer may detain someone briefly without probable cause on a reasonable suspicion the person has committed or is about to commit a crime and during that process may ask all kinds of questions of the person, although, as far as I can find out, this Court has said the person does not have to respond to the questions."
+2003.03-5554,2,42056,sri_srinivasan,,3086.582,3092.902,"What you're pointing to, Justice O'Connor, I believe is the dictum that was discussed early in Berkemer v.... in Berkemer v. McCarty."
+2003.03-5554,2,15092,sandra_day_oconnor,scotus_justice,3123.255,3127.623,But we've just never said that the officer may require the identification.
+2003.03-5554,2,42056,sri_srinivasan,,3130.409,3138.28,"That's right, Justice O'Connor, but the Court specifically left the... the question open, at least on two occasions, both in Brown v. Texas and in Kolender v. Lawson."
+2003.03-5554,2,15092,sandra_day_oconnor,scotus_justice,3140.966,3154.642,And the right to do a patdown is something you do after the officer has made the initial decision to detain and ask some questions presumably.
+2003.03-5554,2,42056,sri_srinivasan,,3154.642,3155.009,That's right.
+2003.03-5554,2,15113,anthony_m_kennedy,scotus_justice,3162.046,3172.854,"Can we go back to... would you go back to the Fourth because I... I suppose the... the officer can ask, you know, and he doesn't get an answer, so he pats him down."
+2003.03-5554,2,42056,sri_srinivasan,,3174.904,3175.889,"--Well, if he has a reason to believe--"
+2003.03-5554,2,15113,anthony_m_kennedy,scotus_justice,3175.889,3185.995,"I mean, it's very, very unlikely I would think, unless you have some evidence to the contrary, that the officer who's in a Terry stop situation."
+2003.03-5554,2,42056,sri_srinivasan,,3257.941,3262.043,"--No, but Justice Breyer, I don't think the patdown eliminates the danger."
+2003.03-5554,2,15049,antonin_scalia,scotus_justice,3272.101,3280.088,"And... and you don't believe that the failure to give a name gives the officer reason to believe that the person is armed, do you?"
+2003.03-5554,2,42056,sri_srinivasan,,3284.575,3285.009,--No.
+2003.03-5554,2,15049,antonin_scalia,scotus_justice,3286.611,3287.294,"No, I wouldn't think so."
+2003.03-5554,2,42056,sri_srinivasan,,3312.476,3312.976,"--Well, I think--"
+2003.03-5554,2,15139,stephen_g_breyer,scotus_justice,3312.976,3318.178,"So, I mean, everybody is in a false position here because you're... you're being put in a slightly false position."
+2003.03-5554,2,42056,sri_srinivasan,,3318.178,3319.428,--I don't know that it's a false position.
+2003.03-5554,2,15139,stephen_g_breyer,scotus_justice,3319.428,3319.828,All right.
+2003.03-5554,2,42056,sri_srinivasan,,3323.196,3344.393,"Well, it's not only danger to the officer's safety, but it also could provide crucial information for the officer to... to assess the individual's conduct because if the officer learns that the person has previously been convicted of a crime that fits that pattern that he observed in deciding to detain the person, then that could go a long ways towards officer's determination that there's probable cause for an arrest."
+2003.03-5554,2,15139,stephen_g_breyer,scotus_justice,3353.415,3356.201,Then why... why do you stop at the name?
+2003.03-5554,2,42056,sri_srinivasan,,3359.755,3360.255,"No, that's true."
+2003.03-5554,2,15042,david_h_souter,scotus_justice,3371.313,3376.681,"So... so far as the... so far as Terry and the Fourth Amendment are concerned, I'm... I'm not sure I understand you."
+2003.03-5554,2,42056,sri_srinivasan,,3382.084,3382.418,--No.
+2003.03-5554,2,15042,david_h_souter,scotus_justice,3386.988,3389.404,"No, but I... I thought... is that... is that the position that you're taking?"
+2003.03-5554,2,42056,sri_srinivasan,,3389.404,3389.688,--No.
+2003.03-5554,2,15042,david_h_souter,scotus_justice,3394.906,3395.24,Okay.
+2003.03-5554,2,42056,sri_srinivasan,,3403.329,3405.448,--That's correct.
+2003.03-5554,2,15141,william_h_rehnquist,scotus_justice,3405.448,3407.65,"Thank you, Mr. Srinivasan."
+2003.03-5554,3,39039,robert_e_dolan,,3411.017,3414.135,"Thank you, Mr. Chief Justice."
+2003.03-5554,3,15060,john_paul_stevens,scotus_justice,3452.574,3455.51,"Well, you're... you're saying people can disobey the law to make it ineffective."
+2003.03-5554,3,39039,robert_e_dolan,,3459.462,3478.589,"--I'm saying that the... what... the government's argument is based upon the assumption that everyone will tell the truth during a Terry stop, and I don't believe that corresponds with common sense, especially if Machine Gun Harry is there."
+2003.03-5554,3,15092,sandra_day_oconnor,scotus_justice,3565.731,3577.705,"Well, but if there's reasonable suspicion to believe the person is committing a crime, it doesn't shock me that they'd use the identification mechanisms to check it out."
+2003.03-5554,3,39039,robert_e_dolan,,3583.693,3584.076,And... and--
+2003.03-5554,3,15092,sandra_day_oconnor,scotus_justice,3584.076,3585.561,--of committing a crime.
+2003.03-5554,3,39039,robert_e_dolan,,3585.561,3586.461,"--I would agree, Your Honor."
+2003.03-5554,3,15092,sandra_day_oconnor,scotus_justice,3586.461,3597.202,So why not let them check in the computer records to see if this is the worst prior offender they've ever had?
+2003.03-5554,3,39039,robert_e_dolan,,3597.202,3606.474,"Well... well, with respect to the Terry stop itself, it is for investigation related to whether or not a crime may occur or is about to occur."
+2003.03-5554,3,15141,william_h_rehnquist,scotus_justice,3667.096,3668.012,"Thank you, Mr. Dolan."

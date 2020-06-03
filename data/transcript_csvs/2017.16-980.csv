@@ -1,0 +1,334 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2017.16-980,0,15086,john_g_roberts_jr,scotus_justice,0.115,9.02,"We'll hear argument this morning in Case 16-980, Husted versus the A. Philip Randolph Institute. Mr. Murphy."
+2017.16-980,0,62682,eric_e_murphy,,9.02,28.42,"Mr. Chief Justice, and may it please the Court: Congress passed the NVRA to serve competing goals, increasing the number of eligible registered voters but decreasing the number of ineligible ones, and this congressional compromise is evident in the statute's conflicting mandates."
+2017.16-980,0,15113,anthony_m_kennedy,scotus_justice,48.38,59.33,I -- I know you have the -- the exceptions clause in -- in (b)(2). Would your case have been stronger without the enactment of section (b)?
+2017.16-980,0,62682,eric_e_murphy,,59.33,60.9,Without the --
+2017.16-980,0,15113,anthony_m_kennedy,scotus_justice,60.9,65.59,"In other words, could you rely just on (a) and (d)?"
+2017.16-980,0,62682,eric_e_murphy,,65.59,67.9,If -- if there was no what I call the failure to vote --
+2017.16-980,0,15113,anthony_m_kennedy,scotus_justice,67.9,69.8,Whether -- if there were no (b) at all?
+2017.16-980,0,62682,eric_e_murphy,,69.8,84.38,"I -- I -- I think -- certainly, I think, that if there is no failure to vote clause, that's one of the main prohibitions on which they are relying, but I think you have to interpret (b) in light of (d), of course."
+2017.16-980,0,15113,anthony_m_kennedy,scotus_justice,84.38,84.57,Yes.
+2017.16-980,0,62682,eric_e_murphy,,84.57,97.39,"And (d) clearly indicates that we -- if we -- so long as we send individuals a notice and so long as we wait two federal elections before we remove them, that that is acceptable."
+2017.16-980,0,15131,sonia_sotomayor,scotus_justice,97.39,98.27,So why bother --
+2017.16-980,0,15113,anthony_m_kennedy,scotus_justice,98.27,101.17,Because of -- because of the except clause?
+2017.16-980,0,62682,eric_e_murphy,,101.17,106.865,"Well, because you have to interpret the -- the -- the substantive provision in (b)(2), the failure-to-vote clause --"
+2017.16-980,0,15113,anthony_m_kennedy,scotus_justice,106.865,107.04,Right.
+2017.16-980,0,62682,eric_e_murphy,,107.04,117.905,-- in a way that reconciles it with the use of failure to vote. And only our position interprets (b) in a way that -- that allows the back-end use of non-voting in (d) because --
+2017.16-980,0,15084,ruth_bader_ginsburg,scotus_justice,117.905,136.26,"Mr. Murphy, the -- the Act itself gives a safe harbor provision that triggers the confirmation -- the notice. And that safe harbor provision doesn't rely at all on failure to vote."
+2017.16-980,0,62682,eric_e_murphy,,150.43,154.805,"I don't think so, Your Honor, because I think that is a safe harbor for something completely different."
+2017.16-980,0,15131,sonia_sotomayor,scotus_justice,173.49,203.78,"This is a very complicated system for a very simple position. If you have any reason to believe someone has changed address, just send them a notice and, after two election cycles, disqualify them. Why have the Post Office provision at all? Why have any other provision? As it is, I understand Ohio now is not waiting for people to miss two election cycles; they're waiting -- every year they're purging, right?"
+2017.16-980,0,62682,eric_e_murphy,,203.78,204.87,No.
+2017.16-980,0,15131,sonia_sotomayor,scotus_justice,206.98,207.19,Every year.
+2017.16-980,0,62682,eric_e_murphy,,207.19,208.99,-- but we still wait the -- we still wait until --
+2017.16-980,0,15131,sonia_sotomayor,scotus_justice,208.99,222.815,"Now, you have taken the position in your brief that you really don't need anything; you need -- you could send out a notice any time, any place, and if someone fails to respond to it, you can purge them."
+2017.16-980,0,62682,eric_e_murphy,,223.83,224.35,No.
+2017.16-980,0,15131,sonia_sotomayor,scotus_justice,231.58,236.17,But my point is you don't even need the failure to vote two years to use the notice --
+2017.16-980,0,62682,eric_e_murphy,,236.17,236.67,That's right.
+2017.16-980,0,15131,sonia_sotomayor,scotus_justice,250.17,251.17,"Well, let -- let's --"
+2017.16-980,0,62682,eric_e_murphy,,251.17,252.15,For sending the notice.
+2017.16-980,0,15131,sonia_sotomayor,scotus_justice,252.15,281.54,"The Senate report that supported the NVRA explicitly says that what they wanted to avoid was a mailing that is unresponded to being a cause for removing someone. So if that was its purpose, why wouldn't it make sense that the only reason that you can change -- send the notice is if you have some reasonable basis to believe someone has moved?"
+2017.16-980,0,62682,eric_e_murphy,,281.54,282.03,Well --
+2017.16-980,0,15131,sonia_sotomayor,scotus_justice,282.03,290.01,Failure to vote can't it be it because the Senate report says that they believe the failure to vote was a constitutional right.
+2017.16-980,0,62682,eric_e_murphy,,291.93,293.73,So there's a -- there's a couple points there.
+2017.16-980,0,15131,sonia_sotomayor,scotus_justice,337.54,341.625,So why have the three provisions having to do with the Post Office notice?
+2017.16-980,0,62682,eric_e_murphy,,341.625,342.69,Because that --
+2017.16-980,0,15131,sonia_sotomayor,scotus_justice,342.69,346.48,That seems like a very reasonable -- why -- why do you need it at all under your interpretation?
+2017.16-980,0,62682,eric_e_murphy,,346.48,349.96,Because that is the minimal effort on the other side of the balance.
+2017.16-980,0,15094,elena_kagan,scotus_justice,375.325,401.815,"But, General, if I can take you back to Justice Ginsburg's question because it seems as though you are effectively turning 8(d)(1) into a kind of safe harbor in this sense: 8(d)(1) says that these confirmation procedures are a permissible part of the program, even though part of the confirmation procedures are about not voting. So that's clear that 8(d)(1) says that."
+2017.16-980,0,62682,eric_e_murphy,,438.8,457.245,"So my response there would be you have to interpret the words of 8(b)(2), the failure-to-vote clause, in a way that would not prohibit what 8(d) requires. And it affirmatively requires the use of non-voting over two federal elections. We have the proximate cause argument for why the failure to respond to the notice breaks the causal link."
+2017.16-980,0,15094,elena_kagan,scotus_justice,459.74,481.78,"I -- I must say I don't understand the -- I think this is a little bit of a different question, but since you've raised it, the proximate cause argument, I don't understand, because essentially what the Ohio program does is it says non-voting, failure to respond, non-voting. And you're trying to pick out the middle piece of that and say that's the only proximate cause."
+2017.16-980,0,62682,eric_e_murphy,,485.76,492.48,"So I think clearly the ""by reason of"" adopts a proximate cause test. This Court has repeatedly said it's a flexible test."
+2017.16-980,0,15094,elena_kagan,scotus_justice,492.48,494.23,No -- no argument on that.
+2017.16-980,0,62682,eric_e_murphy,,499.48,521.72,"Well, exactly, and the Court has said that you have to pick the proximate cause test that fits the statute. And this statute, the last cause undoubtedly is failure to vote. That's why I think the best way to reconcile (b) and (d) is to say that a failure to respond to the notice breaks any causal prohibition between failure to vote and removal."
+2017.16-980,0,15068,samuel_a_alito_jr,scotus_justice,521.72,522.53,Why do you need the --
+2017.16-980,0,62682,eric_e_murphy,,522.53,524.695,And I think there was this debate --
+2017.16-980,0,15068,samuel_a_alito_jr,scotus_justice,524.695,550.01,Why do you need the proximate cause argument at all? What the statute says is that you -- someone may not be removed from the list by reason of the person's failure to vote. It can't mean but-for cause because then it would run -- because the -- the statute itself takes failure to vote into account in (d).
+2017.16-980,0,62682,eric_e_murphy,,571.94,574.16,That's absolutely correct.
+2017.16-980,0,15094,elena_kagan,scotus_justice,581.41,587.85,"Well, isn't that just adding a word into the statute that Congress wrote? The statute -- Congress said by reason to vote."
+2017.16-980,0,62682,eric_e_murphy,,612.165,616.85,"Well, we think it's the best reading to reconcile the two provisions. And there was this --"
+2017.16-980,0,15094,elena_kagan,scotus_justice,616.85,617.63,Which -- which two? The --
+2017.16-980,0,62682,eric_e_murphy,,617.63,620.48,"The -- the solely, because the -- the failure to respond --"
+2017.16-980,0,15094,elena_kagan,scotus_justice,620.48,621.92,The HAVA and the NFRA -- NVRA provision?
+2017.16-980,0,62682,eric_e_murphy,,621.92,622.83,"No, the (b) and (d) --"
+2017.16-980,0,15094,elena_kagan,scotus_justice,622.83,622.97,Okay.
+2017.16-980,0,62682,eric_e_murphy,,622.97,624.47,-- to reconcile the two provisions.
+2017.16-980,0,15094,elena_kagan,scotus_justice,635.6,639.56,"General, everybody is looking here for a way to reconcile these two provisions."
+2017.16-980,0,62682,eric_e_murphy,,677.495,681.38,"So, look, I think that may have been one reconcile -- one way to reconcile it."
+2017.16-980,0,15094,elena_kagan,scotus_justice,695.44,697.01,But the solely clause in HAVA --
+2017.16-980,0,15068,samuel_a_alito_jr,scotus_justice,697.01,698.585,And I'm looking at -- I'm listening --
+2017.16-980,0,15094,elena_kagan,scotus_justice,698.585,703.68,-- is a completely independent provision in a completely independent statute.
+2017.16-980,0,62682,eric_e_murphy,,736.38,760.46,"But what it did add in the same law, in the HAVA law that -- in the computerized list maintenance for statewide programs that uses solely, and then with respect to the failure-to-vote clause in the NVRA, it adopted a clarification amendment that said except that nothing in this provision shall be construed to prohibit the state from using the procedures in (c) and (d)."
+2017.16-980,0,15094,elena_kagan,scotus_justice,764.83,766.49,"Well, that's exactly what the clarifying amendment says."
+2017.16-980,0,15068,samuel_a_alito_jr,scotus_justice,780.55,782.405,And I'm missing -- I'm sorry.
+2017.16-980,0,15094,elena_kagan,scotus_justice,782.405,787.86,Don't -- don't interpret the failure-to-vote clause as barring the confirmation procedures.
+2017.16-980,0,62682,eric_e_murphy,,796.64,799.64,So -- so you still -- it's a -- it's a rule of clarification.
+2017.16-980,0,15131,sonia_sotomayor,scotus_justice,824.16,824.97,"Counsel, can you --"
+2017.16-980,0,62682,eric_e_murphy,,824.97,827.54,I also think the public context is really important here.
+2017.16-980,0,15131,sonia_sotomayor,scotus_justice,827.78,887.63,"Can we get to the essence of this case? It appears as if what you're -- you're reading is that the failure to vote is enough evidence to suggest that someone has moved. That seems to be your position because it can be the only one. But is that a reasonable effort to draw that conclusion when you do results in disenfranchising, disproportionately, certain cities where large groups of minorities live, where large groups of homeless people live, and across the country they're the group that votes the least, in -- in large measure because many of them work very long hours."
+2017.16-980,0,62682,eric_e_murphy,,1023.14,1023.83,We don't say --
+2017.16-980,0,15131,sonia_sotomayor,scotus_justice,1023.83,1027.91,"It's not a reasonable inference, so how could it be a reasonable effort?"
+2017.16-980,0,62682,eric_e_murphy,,1027.91,1036.745,"So the failure-to-vote clause says that failure to vote cannot be the sole basis for removal, not sending a notice, it says nothing about sending a notice."
+2017.16-980,0,15131,sonia_sotomayor,scotus_justice,1047.96,1054.73999995,"So if that's minimum, don't you think that maximum should say something a little bit more than the failure to vote?"
+2017.16-980,0,62682,eric_e_murphy,,1054.73999995,1056.17,"Well, it does because the --"
+2017.16-980,0,15131,sonia_sotomayor,scotus_justice,1056.17,1067.485,"I mean, you know, a change in the residence in accordance with (b), (c), and (d), and (b) has you using the Post Office, correct?"
+2017.16-980,0,62682,eric_e_murphy,,1067.485,1068.49,(c).
+2017.16-980,0,15131,sonia_sotomayor,scotus_justice,1068.49,1088.54500005,(c) has you using the Post Office. (b) says shall not be removed -- shall not result in the removal of the name of a person from any official list registered to vote in election for federal office by reason of the person's failure to vote.
+2017.16-980,0,62682,eric_e_murphy,,1089.77,1090.47,That's correct.
+2017.16-980,0,15131,sonia_sotomayor,scotus_justice,1097.74,1097.87,Well --
+2017.16-980,0,62682,eric_e_murphy,,1097.87,1100.71,-- nobody is removed solely by reason of their failure to vote.
+2017.16-980,0,15131,sonia_sotomayor,scotus_justice,1100.71,1100.95,Exactly.
+2017.16-980,0,62682,eric_e_murphy,,1102.14,1108.98,"They're -- they're removed -- they're removed if they fail to respond to a notice and fail to vote over six years, which is more than the minimum protections --"
+2017.16-980,0,15131,sonia_sotomayor,scotus_justice,1108.98,1131.425,"So please explain to me why a change of address is reasonable. What -- what are the statistics that show that the vast majority of people that you disenfranchise from voting, that you strike from the election rolls have actually moved?"
+2017.16-980,0,62682,eric_e_murphy,,1131.425,1139.43,So -- so there is no statistical evidence that is necessary because Congress made the determination of what evidence is necessary.
+2017.16-980,0,15131,sonia_sotomayor,scotus_justice,1140.99,1144.83,"No, when it gave you an example, it gave you an example of an independent trigger."
+2017.16-980,0,62682,eric_e_murphy,,1144.83,1155.44,"But that was an example from meeting our minimum duty on the other side to -- so there's a minimum duty, a minimum amount of protections for eligible voters and a minimum requirement on the states to undertake a minimum effort to --"
+2017.16-980,0,15131,sonia_sotomayor,scotus_justice,1155.44,1162.0,So there's a minimum requirement on the voter who gets your notice to respond.
+2017.16-980,0,62682,eric_e_murphy,,1162.0,1164.63,"Absolutely, the statute places a requirement on the voter to respond."
+2017.16-980,0,15131,sonia_sotomayor,scotus_justice,1164.63,1167.35,But that's after you have evidence that they've actually moved?
+2017.16-980,0,62682,eric_e_murphy,,1167.35,1186.03,"No, there's no -- there's nothing in the statute that sects -- suggests that there's limitations on the trigger. With respect to -- to minorities, I would add, by the way, that our position is not at all -- (b)(1) -- Congress responded to that concern, suggesting that the process must be uniform, non-discriminatory, and in compliance with the Voting Rights Act --"
+2017.16-980,0,15131,sonia_sotomayor,scotus_justice,1186.03,1187.18,"Well, that's the problem, is --"
+2017.16-980,0,62682,eric_e_murphy,,1187.18,1187.57,-- but that --
+2017.16-980,0,15131,sonia_sotomayor,scotus_justice,1187.57,1192.15,"-- that there's a strong argument this is -- that at least in impact, this is discriminatory."
+2017.16-980,0,62682,eric_e_murphy,,1198.07,1199.1,But they didn't raise a (b)(1) claim.
+2017.16-980,0,15131,sonia_sotomayor,scotus_justice,1199.1,1199.925,-- whether something is reasonable.
+2017.16-980,0,62682,eric_e_murphy,,1199.925,1201.26,They didn't raise a (b)(1) claim.
+2017.16-980,0,15086,john_g_roberts_jr,scotus_justice,1205.02,1208.76,I'll give you a couple more minutes so you can get more of your argument out.
+2017.16-980,0,62682,eric_e_murphy,,1208.76,1208.95,Okay.
+2017.16-980,0,15084,ruth_bader_ginsburg,scotus_justice,1278.54,1279.34,How -- how many states --
+2017.16-980,0,62682,eric_e_murphy,,1279.34,1280.71,I think if you read both of those together --
+2017.16-980,0,15084,ruth_bader_ginsburg,scotus_justice,1280.71,1287.35,"How many states do it this way? That is, you get the notice, as I understand it, if you've missed just one election."
+2017.16-980,0,62682,eric_e_murphy,,1287.35,1288.71,That's incorrect.
+2017.16-980,0,15084,ruth_bader_ginsburg,scotus_justice,1297.325,1297.75,Yeah.
+2017.16-980,0,62682,eric_e_murphy,,1300.365,1348.415,"There are several -- many states who -- I think around eight that use failure to vote as the trigger for the notice. I don't -- some -- some use two, some use three years, some use four years. But the problem with my -- my friend's position on the other side is it would not only outlaw all of those states, those who use failure to vote as the trigger for sending the notice; it would outlaw any state that takes into account failure to vote on the front end. And that includes many states that target individuals who have not voted recently with a non-forwardable mailing and then respond to that non-forwardable mailing with a confirmation notice for any -- any individuals who the non-forwardable mailing is bounced back to. That would be equally prohibited under the logic of their argument here today because they are saying any front-end use of non-voting would be illegal."
+2017.16-980,0,15086,john_g_roberts_jr,scotus_justice,1348.415,1349.97,"Thank -- thank you, counsel."
+2017.16-980,0,62682,eric_e_murphy,,1349.97,1350.15,Thank you.
+2017.16-980,0,15086,john_g_roberts_jr,scotus_justice,1350.15,1364.49,You'll have a couple minutes for rebuttal. General Francisco.
+2017.16-980,1,37093,noel_j_francisco,,1364.49,1369.785,"Mr. Chief Justice, and may it please the Court: If I could begin with Justice Kennedy's question."
+2017.16-980,1,15131,sonia_sotomayor,scotus_justice,1444.74,1474.7,"General, could you tell me, there's a 24-year history of solicitor generals of both political parties under both -- presidents of both political parties who have taken a position contrary to yours. Before the amendment and after the amendment. In fact, the Federal Election Commission, when it wrote to Congress with respect to the Help America Vote Act, took the position the old solicitor generals were taking."
+2017.16-980,1,37093,noel_j_francisco,,1509.25,1516.69,"Your Honor, what I'm saying is I think that the Help America Vote Act and the clarification amendment made it even clearer and after that clarification amendment --"
+2017.16-980,1,15131,sonia_sotomayor,scotus_justice,1516.69,1519.01,"Well, so please explain the change of position."
+2017.16-980,1,37093,noel_j_francisco,,1519.01,1519.46,Sure.
+2017.16-980,1,15131,sonia_sotomayor,scotus_justice,1519.46,1546.915,"After that many presidents, that many solicitor generals, this many years -- the vast majority of states, over 35 -- over 40, actually, who read it the way your opponents read it, most people read it that way -- how did the solicitor general change its mind? Do you believe this doesn't have an impact, a negative impact on certain groups in this society?"
+2017.16-980,1,37093,noel_j_francisco,,1546.915,1564.34,"Well, Your Honor, I believe that after Congress passed the clarification amendment, it clarified what was at the time an ongoing debate between the Department of Justice and the states. And the only plausible way to read that public context -- and with respect to some members of this Court, public context is not legislative history, it's --"
+2017.16-980,1,15131,sonia_sotomayor,scotus_justice,1564.34,1571.09,So point me where in the legislative history people say that with absolute clarity.
+2017.16-980,1,37093,noel_j_francisco,,1571.09,1571.44,Well -- yeah.
+2017.16-980,1,15131,sonia_sotomayor,scotus_justice,1571.44,1578.195,"As I understand the legislative history, both sides are saying, in its history, this helps us."
+2017.16-980,1,37093,noel_j_francisco,,1578.195,1578.99,"And, Your Honor --"
+2017.16-980,1,15131,sonia_sotomayor,scotus_justice,1578.99,1582.66,So it's as ambiguous as the language may be.
+2017.16-980,1,37093,noel_j_francisco,,1582.66,1585.6,Public context is not legislative history.
+2017.16-980,1,15084,ruth_bader_ginsburg,scotus_justice,1632.405,1650.45,"Was it the position of the United States -- I thought it was, but you correct me if I'm wrong -- I thought that -- that the United States was taking the position, consistently, that non-voting was not a reliable indicator of residence change."
+2017.16-980,1,37093,noel_j_francisco,,1650.45,1652.925,"Your Honor, that's partly correct."
+2017.16-980,1,15094,elena_kagan,scotus_justice,1701.47,1717.89,"General, it would be right, isn't it -- I think you acknowledge this -- that if your position is correct, that the failure to vote clause simply doesn't apply to removal programs for change of residence."
+2017.16-980,1,37093,noel_j_francisco,,1719.055,1720.4,Your Honor --
+2017.16-980,1,15094,elena_kagan,scotus_justice,1720.4,1725.52,"Because, of course, all those programs have to use the confirmation procedures, and your position --"
+2017.16-980,1,37093,noel_j_francisco,,1725.52,1725.67,Yeah.
+2017.16-980,1,15094,elena_kagan,scotus_justice,1725.67,1731.07,"-- is that if you use the confirmation procedures, that's a -- basically, that's an out for everything?"
+2017.16-980,1,37093,noel_j_francisco,,1731.07,1733.94,"That's correct, but it does have much broader application."
+2017.16-980,1,15094,elena_kagan,scotus_justice,1734.51,1743.165,"Not much broader application, because how could you possibly use failure to vote to -- for, you know, mental incapacity or criminal convictions."
+2017.16-980,1,37093,noel_j_francisco,,1745.14,1746.91,"Well, what I think it is -- it does a couple of things."
+2017.16-980,1,15094,elena_kagan,scotus_justice,1769.09,1769.18,Right.
+2017.16-980,1,37093,noel_j_francisco,,1802.04,1802.5,Sure.
+2017.16-980,1,15094,elena_kagan,scotus_justice,1802.5,1803.33,-- voting programs.
+2017.16-980,1,37093,noel_j_francisco,,1803.33,1817.565,"And I think it's because, and this comes out in some of the legislative history, prior to the NVRA, states simply used failure to vote as a proxy for the whole panoply of grounds for removal. They didn't necessarily tie it to this basis or that basis."
+2017.16-980,1,15094,elena_kagan,scotus_justice,1848.03,1862.75,"But with respect, General, I don't think you answered either of the two questions that I asked you, so I'll try again. Why wouldn't they just have said the failure-to-vote clause doesn't apply to -- to -- to -- to where a state uses the confirmation procedures?"
+2017.16-980,1,37093,noel_j_francisco,,1862.75,1865.22,"Well, Your Honor, I -- I don't know the answer to that."
+2017.16-980,1,15094,elena_kagan,scotus_justice,1872.03,1872.12,Okay.
+2017.16-980,1,37093,noel_j_francisco,,1879.265,1886.13,It takes completely off the table using failure to vote as a conclusive presumption for any other ground for removal.
+2017.16-980,1,15094,elena_kagan,scotus_justice,1886.13,1887.7,"Well, what other ground are we talking about?"
+2017.16-980,1,37093,noel_j_francisco,,1887.7,1888.48,"Well, prior to the"
+2017.16-980,1,15094,elena_kagan,scotus_justice,1888.48,1892.23,"I mean, it's not -- nobody used it as a presumption for mental incapacity."
+2017.16-980,1,37093,noel_j_francisco,,1892.23,1901.03,"Well, Your Honor, actually, the legislative history makes clear that prior to the NVRA, they used it as a presumption for meeting the whole panoply of different bases for removal."
+2017.16-980,1,15068,samuel_a_alito_jr,scotus_justice,1901.03,1911.11,"Well, wasn't it -- wasn't it itself considered to be a ground for being removed? It wasn't necessarily -- these states didn't regard it necessarily as a proxy for anything else."
+2017.16-980,1,37093,noel_j_francisco,,1920.35,1953.115,"That's absolutely correct, and that's why it meant to address both of those issues, those states that had a use-it-or-lose-it mentality, you can never do that, and those states that used it to conclusively presume that some other basis for removal has been met. But here Ohio joins the initial failure to vote with the very process that Congress established for determining whether somebody has been removed from the voter rolls. And with respect to the notion that somehow 8(d)(1)(B) does not set forth a separate process apart from the 8(c) Postal Service process, it clearly does."
+2017.16-980,1,15086,john_g_roberts_jr,scotus_justice,1973.275,1974.085,"Thank you, General."
+2017.16-980,1,37093,noel_j_francisco,,1974.085,1979.105,"Thank you, Mr. Chief Justice."
+2017.16-980,1,15086,john_g_roberts_jr,scotus_justice,1979.105,1983.67,Mr. Smith.
+2017.16-980,2,38319,paul_m_smith,,1983.67,1993.515,"Mr. Chief Justice, and may it please the Court: I think it's important to recognize that the Supplemental Process violates Section 8 of the NVRA in two distinct ways."
+2017.16-980,2,15068,samuel_a_alito_jr,scotus_justice,2031.4,2039.335,"Well, your argument is that failure to vote is not one of the listed grounds for being removed, right? That's -- that's the argument you just made."
+2017.16-980,2,38319,paul_m_smith,,2039.335,2040.14,"Yes, Your Honor."
+2017.16-980,2,15068,samuel_a_alito_jr,scotus_justice,2040.14,2058.32,"But is that what Ohio does? Does it say the failure to vote is a ground for removal, or does it say that moving out of the district is a ground for removal, and failure to vote plays a part in the determination of whether a person has moved out of the district? It's evidentiary."
+2017.16-980,2,38319,paul_m_smith,,2061.885,2070.52,"Well, of course, they do say that they are -- they're using the change of residency provision of 8(a) and that that's what they're trying to -- to justify the Supplemental Process with."
+2017.16-980,2,15068,samuel_a_alito_jr,scotus_justice,2089.77,2090.57,"Yeah, I understand that."
+2017.16-980,2,38319,paul_m_smith,,2102.29,2110.71,"Well, it plainly violates the Act, Your Honor, because the Act says you can't use failure to vote as the reason for purging somebody from the rolls."
+2017.16-980,2,15068,samuel_a_alito_jr,scotus_justice,2121.43,2129.2,"You think that if somebody hasn't voted for 20 years, that doesn't raise an inference that the person has moved or died?"
+2017.16-980,2,38319,paul_m_smith,,2129.2,2132.88,"Your Honor, in the legislative history, they rejected amendments precisely like that."
+2017.16-980,2,15068,samuel_a_alito_jr,scotus_justice,2139.24,2157.47,"In and of itself, but, I mean, that isn't enough even to spark an inquiry by sending a -- a postcard saying if, in fact, you've just decided you didn't want to vote for 20 years, but you really want to keep your name on the list, and you're still in the district, send this back."
+2017.16-980,2,38319,paul_m_smith,,2158.615,2163.47,"Your -- Your Honor, we're talking about the people who don't send it back, which, by the way, is the large majority of people."
+2017.16-980,2,15068,samuel_a_alito_jr,scotus_justice,2186.05,2191.28,"But if not getting the notice back tells you nothing, why did Congress make that part of the determination?"
+2017.16-980,2,38319,paul_m_smith,,2191.28,2192.76,"It is a safeguard, Your Honor."
+2017.16-980,2,15139,stephen_g_breyer,scotus_justice,2234.41,2243.585,"What are -- what are they supposed to do? That is, every year a certain number of people die and every year a certain number move to California."
+2017.16-980,2,38319,paul_m_smith,,2251.44,2253.5,"Well, the dead -- the dead people aren't a problem, Your Honor."
+2017.16-980,2,15139,stephen_g_breyer,scotus_justice,2256.09,2259.57,"They went and died in Hawaii, I don't know, they went and died in Alaska."
+2017.16-980,2,38319,paul_m_smith,,2274.18,2274.74,But I don't think there's any --
+2017.16-980,2,15139,stephen_g_breyer,scotus_justice,2274.74,2276.07,And I want to know your opinion.
+2017.16-980,2,38319,paul_m_smith,,2276.07,2278.47,"-- any realistic concern about the death issue, Your Honor."
+2017.16-980,2,15139,stephen_g_breyer,scotus_justice,2280.89,2281.35,What?
+2017.16-980,2,38319,paul_m_smith,,2281.35,2284.265,There are lists that are maintained by the federal government and the states.
+2017.16-980,2,15139,stephen_g_breyer,scotus_justice,2286.8,2288.215,"You know, I want to know what they are."
+2017.16-980,2,38319,paul_m_smith,,2290.25,2290.72,"Well, I'm -- I'm --"
+2017.16-980,2,15139,stephen_g_breyer,scotus_justice,2290.72,2293.935,I'm in Rhode Island. I see the statute.
+2017.16-980,2,38319,paul_m_smith,,2307.82,2319.31,"I do not have a detailed understanding of this since it wasn't really part of the issue for this case, but I understand that there is a national database maintained by the federal government with information provided by all the states that lists who's died in the past year, and you can compare it."
+2017.16-980,2,15086,john_g_roberts_jr,scotus_justice,2319.31,2322.805,"Well, what about people -- Justice Breyer's question also included people who moved."
+2017.16-980,2,38319,paul_m_smith,,2323.62,2339.365,"People who move, there are a variety of ways that you -- you find them. If they move within the state, the first thing that happens is the Bureau of Motor Vehicles has a change-of-address process, and under the NVRA and under Ohio process, if you change your driver's license address, your -- your registration is automatically updated."
+2017.16-980,2,15086,john_g_roberts_jr,scotus_justice,2342.14,2342.57,What about Justice --
+2017.16-980,2,15113,anthony_m_kennedy,scotus_justice,2342.57,2344.295,"Well, how often do you change your driver's license?"
+2017.16-980,2,38319,paul_m_smith,,2344.295,2349.25,"Well, when people move to a different place in Ohio, they're required to do -- to notify them within 10 days."
+2017.16-980,2,15113,anthony_m_kennedy,scotus_justice,2370.01,2374.545,"But are there -- are there statistics or -- is that just a commonsense argument, or are there statistics that show that?"
+2017.16-980,2,38319,paul_m_smith,,2374.545,2375.84,"Show what, Your Honor?"
+2017.16-980,2,15113,anthony_m_kennedy,scotus_justice,2375.84,2378.98,"That when you -- that when you move, you always notify -- notify the post office?"
+2017.16-980,2,38319,paul_m_smith,,2378.98,2379.63,"No, Your Honor."
+2017.16-980,2,15131,sonia_sotomayor,scotus_justice,2385.4,2386.34,"I'm sorry, Mr. Smith."
+2017.16-980,2,38319,paul_m_smith,,2388.79,2389.33,"No, Your Honor."
+2017.16-980,2,15113,anthony_m_kennedy,scotus_justice,2405.67,2416.82,"Under -- under your interpretation, could -- under your interpretation, could Ohio send address verification notices to the entire electorate and -- and then do what it's doing?"
+2017.16-980,2,38319,paul_m_smith,,2416.82,2425.995,"The confirmation -- the forwardable ones that they do under the confirmation process, if they did that to the entire electorate, it would not violate 8(b)(2), but it would most assuredly violate 8(a) because --"
+2017.16-980,2,15113,anthony_m_kennedy,scotus_justice,2425.995,2427.11,Right.
+2017.16-980,2,38319,paul_m_smith,,2433.235,2446.47,"No, it wouldn't, Your Honor, because what happens is if 70 percent of the people don't return them -- that's what the statistics show about the notices in 2011: 10 percent were returned as undeliverable, 20 percent were returned, and 1.2 million people just threw them in the circular file."
+2017.16-980,2,15139,stephen_g_breyer,scotus_justice,2446.47,2470.65,"What about sending a card? Look, the reason I'm asking these questions is because I don't believe Congress would have passed a statute that would prevent a state from purging a voting roll of people who have died or have moved out of the state. So I'm trying to reconcile the two. And, therefore, I ask you what the state's supposed to do for that latter objective."
+2017.16-980,2,38319,paul_m_smith,,2493.37,2502.32,"Your Honor, that is the precise system that 14 or so states use to identify people who have moved, and the key feature of it is that it's not forwardable because then it comes back if they have moved."
+2017.16-980,2,15139,stephen_g_breyer,scotus_justice,2502.32,2504.675,"Yes, that's right. And you think that's okay?"
+2017.16-980,2,38319,paul_m_smith,,2504.675,2507.31,The Justice Department for 20 years said that was okay.
+2017.16-980,2,15139,stephen_g_breyer,scotus_justice,2507.31,2508.26,I'm asking you if you think that's --
+2017.16-980,2,38319,paul_m_smith,,2508.26,2509.0,I think it's okay too.
+2017.16-980,2,15139,stephen_g_breyer,scotus_justice,2509.0,2509.34,Okay.
+2017.16-980,2,38319,paul_m_smith,,2509.46,2511.12,But you then have to go into the confirmation process.
+2017.16-980,2,15139,stephen_g_breyer,scotus_justice,2511.12,2511.32,All right.
+2017.16-980,2,38319,paul_m_smith,,2512.875,2513.125,Yes.
+2017.16-980,2,15139,stephen_g_breyer,scotus_justice,2513.125,2535.48000005,"Can I add one thing to it? I -- I'd like to add that because they don't want to send non-forwardable cards to everyone since it's expensive -- in a state like California, it might cost several -- tens of millions of dollars -- what they do is they send those non-forwardable cards to people who haven't voted for three or four years."
+2017.16-980,2,38319,paul_m_smith,,2537.68,2547.76,"If they only proceed to purge people when it comes back and says no longer at this dress -- address, undeliverable, I think it's fine, Your Honor, because it's not based on non-voting at that point."
+2017.16-980,2,15086,john_g_roberts_jr,scotus_justice,2550.39,2561.75,"So -- so the triggering event can be the failure to vote? I would have thought that's inconsistent with the rest of your argument, which says what's wrong with this case is that they used failure to vote to trigger the sending of the notice."
+2017.16-980,2,38319,paul_m_smith,,2561.75,2578.61,"Well, Your Honor, I -- I think that -- that you could differ -- reasonable people could differ about this, whether that is -- that is illegal, but I -- I think when you have an intervening cause that very clearly says this person has moved, just as when they return the confirmation notice and they say they've moved, then it's okay even if they -- the reason they got the notice was non-voting."
+2017.16-980,2,15086,john_g_roberts_jr,scotus_justice,2582.31,2592.97,"But -- but, I mean, then I would -- the response is really the -- the substance of your argument, which is it's still triggered by the failure to vote, and the law says you cannot use failure to vote in -- in one of these processes."
+2017.16-980,2,38319,paul_m_smith,,2592.97,2597.57,"Well, Your Honor, I think that -- what the law says is failure to vote can't be the reason you're purging them."
+2017.16-980,2,15113,anthony_m_kennedy,scotus_justice,2608.14,2616.715,The reason they're purging them is they want to protect the voter rolls from people that have not -- that -- that have moved and they're voting in the wrong district.
+2017.16-980,2,38319,paul_m_smith,,2625.22,2646.84,"And Congress thought the worst thing you could do to try to find people who have moved is just look at who isn't voting because there were two problems with it. Congress knew there were vast numbers of people who simply choose not to vote and that that was therefore a terribly inaccurate way to identify people who have moved, and it also said very specifically people -- it's unfortunate that people don't vote, but they have a right not to vote."
+2017.16-980,2,15086,john_g_roberts_jr,scotus_justice,2653.69,2658.22,"Is that -- is that true? I mean, you think there is a constitutional right not to vote?"
+2017.16-980,2,38319,paul_m_smith,,2658.22,2660.81,"This is a statutory right here, Your Honor, but I actually do think it's the -- the --"
+2017.16-980,2,15086,john_g_roberts_jr,scotus_justice,2660.81,2661.58,I understand it's a statutory.
+2017.16-980,2,38319,paul_m_smith,,2677.98,2684.2,"Well, I think there's a pretty persuasive argument to that effect in the National Libertarian brief that was filed in this case, filed by Wilmer."
+2017.16-980,2,15084,ruth_bader_ginsburg,scotus_justice,2695.17,2703.215,"Mr. Smith, in -- in your view, you know, we have what's been called the safe harbor; that is, you use the post office notice of change of address."
+2017.16-980,2,38319,paul_m_smith,,2705.77,2711.265,"There's the -- the non- -- the non-forwardable mail, the national change of address."
+2017.16-980,2,15068,samuel_a_alito_jr,scotus_justice,2749.04,2751.36,"I mean, this is a very -- it's a very important subject."
+2017.16-980,2,38319,paul_m_smith,,2779.28,2780.155,"Yes, Your Honor."
+2017.16-980,2,15068,samuel_a_alito_jr,scotus_justice,2780.155,2791.48,"How do you get -- if ""by reason of a person's failure to vote"" is not but-for cause, how do you get around the language of (b)(2)?"
+2017.16-980,2,38319,paul_m_smith,,2791.48,2809.24,"Well, Your Honor, the -- the language of (b)(2), I think, strongly supports our position because what it says is you can't have a system that uses non-voting as the reason for purging somebody, except you can use (c) and (d), which is to say you can use the confirmation process."
+2017.16-980,2,15068,samuel_a_alito_jr,scotus_justice,2813.77,2815.93,But that actually isn't what (b)(2) says.
+2017.16-980,2,38319,paul_m_smith,,2847.985,2857.53,"Right, but it is -- it is an explanation that the one kind of consideration of non-voting that -- that it -- that it should not be construed to prohibit is the part that comes in at the end of the process."
+2017.16-980,2,15068,samuel_a_alito_jr,scotus_justice,2874.39,2878.95,It says -- it says that -- that it's all right if you followed either (c) or (d).
+2017.16-980,2,38319,paul_m_smith,,2879.36,2881.47,"(c) and (d), Your Honor, with respect."
+2017.16-980,2,15068,samuel_a_alito_jr,scotus_justice,2881.47,2884.8,"Well, it says -- you think you have to follow (c) and (d)?"
+2017.16-980,2,38319,paul_m_smith,,2884.8,2885.65,"Well, I think you need to follow --"
+2017.16-980,2,15068,samuel_a_alito_jr,scotus_justice,2885.65,2886.3,That's not what it says.
+2017.16-980,2,38319,paul_m_smith,,2886.3,2920.07,"You need to follow something like (c) because clearly Congress anticipated that there would be something that would tell you that they have moved before you go into the confirmation process, because the confirmation process consists, if they don't get the notice back, of no evidence at all about whether they've moved from the notice. And four more years of non-voting, precisely the thing Congress said should not be the reason that you purge somebody. So the whole system only makes sense if you assume there's something like the NCOA process or some other indication that they have moved before you put them into the process, and if you don't have that, you're going to vastly over-purge people."
+2017.16-980,2,15068,samuel_a_alito_jr,scotus_justice,2932.39,2937.385,You just told me that it doesn't matter how many years is required by the trigger.
+2017.16-980,2,38319,paul_m_smith,,2939.445,2941.73,"Yes, Your Honor, because that's what the statute says."
+2017.16-980,2,15068,samuel_a_alito_jr,scotus_justice,2942.31,2944.08,"Well, where does the -- where does the statute say that?"
+2017.16-980,2,38319,paul_m_smith,,2944.08,2948.54,"The statute -- well, it says two things: It says A, don't purge people unless you have good reason to think they've moved."
+2017.16-980,2,15068,samuel_a_alito_jr,scotus_justice,2949.285,2949.46,And --
+2017.16-980,2,38319,paul_m_smith,,2949.46,2950.11,"And in (b), don't purge --"
+2017.16-980,2,15068,samuel_a_alito_jr,scotus_justice,2950.11,2952.64,-- and not voting for 20 years isn't good reason to think that they've moved?
+2017.16-980,2,38319,paul_m_smith,,2952.64,2954.54,"Well, it -- it -- they -- they might be."
+2017.16-980,2,15086,john_g_roberts_jr,scotus_justice,2989.67,2990.0,"Well, it doesn't --"
+2017.16-980,2,38319,paul_m_smith,,2990.0,2990.73,-- entire process is --
+2017.16-980,2,15086,john_g_roberts_jr,scotus_justice,2990.73,2992.04,-- it doesn't tell them nothing.
+2017.16-980,2,38319,paul_m_smith,,3002.37,3002.46,Well --
+2017.16-980,2,15086,john_g_roberts_jr,scotus_justice,3002.46,3029.815,"They have more evidence than just that they haven't voted. And you've indicated that under some circumstances, the method of the notification as we have in the states that you reference in pages 14 to 15, that that is okay, even though it's triggered solely by the failure to vote. So I -- I don't think you can maintain in a principled way the acceptance of the validity of those states' positions and -- and your argument against the position here."
+2017.16-980,2,38319,paul_m_smith,,3053.175,3053.33,But --
+2017.16-980,2,15086,john_g_roberts_jr,scotus_justice,3053.33,3059.525,"Now, maybe your position still is the same, but it can't just base on the fact of failure to vote being the trigger."
+2017.16-980,2,38319,paul_m_smith,,3059.525,3075.9,"We're -- we're talking about the people who don't return the notice. And I think it's clear that nobody would claim, and Ohio doesn't claim, that when they don't get anything back from the person, that that tells them anything about whether they're still living in the same place where they sent the notice or whether they moved to some other place. They're forwardable."
+2017.16-980,2,15086,john_g_roberts_jr,scotus_justice,3083.02,3084.72,"Well, but they say they get more information."
+2017.16-980,2,38319,paul_m_smith,,3091.43,3092.08,"Right, right."
+2017.16-980,2,15086,john_g_roberts_jr,scotus_justice,3111.2,3112.81,"Well, maybe I'm just repeating myself, but --"
+2017.16-980,2,38319,paul_m_smith,,3112.81,3113.695,"Maybe I am too, Your Honor."
+2017.16-980,2,15086,john_g_roberts_jr,scotus_justice,3113.695,3116.025,-- you don't just have the failure -- maybe we're both just repeating. (Laughter.)
+2017.16-980,2,15086,john_g_roberts_jr,scotus_justice,3116.025,3131.115,"We -- we don't -- you don't just have the failure to vote. You have the failure to vote, plus the notification that you need to do something because you haven't voted. Now, in some situations, you think the notification is sufficient, so you would say in those, it's not just the failure to vote."
+2017.16-980,2,38319,paul_m_smith,,3136.19,3143.215,"It's a fundamental difference between when you get back something the post office -- from the post office that is undeliverable, no longer at this address, and when you get nothing back."
+2017.16-980,2,15086,john_g_roberts_jr,scotus_justice,3143.215,3152.005,"Yeah, I understand that, but the point is that your argument then really turns on the adequacy of the notice and not simply the fact that the notice is triggered by a failure to vote."
+2017.16-980,2,38319,paul_m_smith,,3152.005,3201.71,"Well, I think, Your Honor, the -- the notice that's in the statute, the forwardable notice that Congress specifies has to be forwardable, was not designed to be a test of whether people have moved. It was designed to be a safeguard, a notice process telling people their rights were at risk, and they either have -- have to return it or they need to vote sometime pretty soon or they're going to lose their registration status. To turn it into the test, the -- the state says we can give this to everybody and -- and then purge people when they don't return the notice on the assumption that that means they haven't voted -- haven't -- they've moved, if they don't return the notice and they -- they don't vote for four years, it's -- the thing about that kind of notice is when it -- when 70 percent of the people don't return it, which is what happened in 2011 in Ohio, the ones who don't return it, you have no more idea whether they've moved or not moved, it's no more likely --"
+2017.16-980,2,15139,stephen_g_breyer,scotus_justice,3201.71,3220.25,"Is there any stat on that? I mean, this does seem at the moment to boil down to an empirical question. You think that sending a notice, which is forwardable, is not going to tell you not much when it comes back because so many people just don't return notices."
+2017.16-980,2,38319,paul_m_smith,,3220.25,3221.97,It's not going to tell you much when it doesn't come back.
+2017.16-980,2,15139,stephen_g_breyer,scotus_justice,3221.97,3222.9,"Yeah, when it doesn't --"
+2017.16-980,2,38319,paul_m_smith,,3222.9,3223.59,That's the problem.
+2017.16-980,2,15139,stephen_g_breyer,scotus_justice,3223.59,3224.0,Exactly.
+2017.16-980,2,38319,paul_m_smith,,3234.16,3235.17,"Well, it doesn't tell you --"
+2017.16-980,2,15139,stephen_g_breyer,scotus_justice,3235.17,3236.61,-- or it tells you next to nothing.
+2017.16-980,2,38319,paul_m_smith,,3236.61,3239.63,It doesn't tell you whether they -- it's been forwarded to the new address or whether they're --
+2017.16-980,2,15139,stephen_g_breyer,scotus_justice,3239.63,3244.0,You don't know where -- you don't know if they just got it at the old address or they had to forward it.
+2017.16-980,2,38319,paul_m_smith,,3248.775,3249.32,"Yes, Your Honor."
+2017.16-980,2,15139,stephen_g_breyer,scotus_justice,3249.32,3249.41,Okay.
+2017.16-980,2,38319,paul_m_smith,,3250.35,3250.56,"Good, good."
+2017.16-980,2,15139,stephen_g_breyer,scotus_justice,3250.56,3259.91,"Now, that's what you've just said. And if you're right on the first, then we have nothing left here or next to nothing left but the not voting."
+2017.16-980,2,38319,paul_m_smith,,3260.93,3261.455,Right.
+2017.16-980,2,15139,stephen_g_breyer,scotus_justice,3261.455,3263.77,His point is we have something else.
+2017.16-980,2,38319,paul_m_smith,,3270.1,3271.21,They -- they don't actually claim --
+2017.16-980,2,15139,stephen_g_breyer,scotus_justice,3271.21,3287.78,"Now, if that's so, all I'm asking is, is there any place in this record that I can look for some numbers or surveys or something hard that will either support you or will support them?"
+2017.16-980,2,38319,paul_m_smith,,3287.78,3297.78,"Your Honor, there is no evidence about whether or not people who failed to return the notice have moved, because they have never claimed it was evidence that they have moved."
+2017.16-980,2,15139,stephen_g_breyer,scotus_justice,3302.43,3306.07,But there might be surveys about how many people throw everything in the wastebasket.
+2017.16-980,2,38319,paul_m_smith,,3308.67,3309.79,Most people do.
+2017.16-980,2,15139,stephen_g_breyer,scotus_justice,3309.79,3312.24,I know that's what your opinion is.
+2017.16-980,2,38319,paul_m_smith,,3318.96,3324.08,"The evidence we have in the record is that most people throw it in the wastebasket, 70 percent."
+2017.16-980,2,15139,stephen_g_breyer,scotus_justice,3325.55,3326.125,Page?
+2017.16-980,2,38319,paul_m_smith,,3326.125,3328.59,That's Exhibit I to their brief in the trial court.
+2017.16-980,2,15131,sonia_sotomayor,scotus_justice,3344.54,3352.585,"Mr. Smith, there is one thing about -- and I maybe should have asked this of -- of Ohio -- of the state."
+2017.16-980,2,38319,paul_m_smith,,3357.51,3358.05,Right.
+2017.16-980,2,15131,sonia_sotomayor,scotus_justice,3358.05,3363.365,That means that you no longer -- does it mean you no longer get mailings about elections?
+2017.16-980,2,38319,paul_m_smith,,3363.365,3363.99,"Yes, Your Honor."
+2017.16-980,2,15131,sonia_sotomayor,scotus_justice,3369.33,3371.3,You're not sent any more reminders about --
+2017.16-980,2,38319,paul_m_smith,,3371.3,3372.965,That's my understanding. I -- I may --
+2017.16-980,2,15131,sonia_sotomayor,scotus_justice,3372.965,3375.98,It's one notice in four -- six years.
+2017.16-980,2,38319,paul_m_smith,,3375.98,3377.25,You disappear for purposes of mailing.
+2017.16-980,2,15131,sonia_sotomayor,scotus_justice,3377.25,3380.05,And -- and -- and you disappear from any further mailings.
+2017.16-980,2,38319,paul_m_smith,,3380.05,3384.53,"That's my understanding. I couldn't necessarily swear to it, Your Honor, but it's my understanding, that that's the --"
+2017.16-980,2,15131,sonia_sotomayor,scotus_justice,3384.53,3385.32,I'm sure Mr. Murphy will --
+2017.16-980,2,38319,paul_m_smith,,3385.32,3386.32,-- the consequence of the inactive status.
+2017.16-980,2,15131,sonia_sotomayor,scotus_justice,3386.32,3387.195,-- correct it if it's wrong.
+2017.16-980,2,38319,paul_m_smith,,3387.195,3387.815,Yes.
+2017.16-980,2,15068,samuel_a_alito_jr,scotus_justice,3455.235,3460.22,"So what is your standard of causation? It's not -- it's not solely, it's not proximate cause."
+2017.16-980,2,38319,paul_m_smith,,3462.485,3468.47,"I think that the -- the analysis ought to use the -- be based on the term ""reason,"" not ""cause,"" Your Honor."
+2017.16-980,2,15068,samuel_a_alito_jr,scotus_justice,3469.84,3470.28,What's the difference --
+2017.16-980,2,15094,elena_kagan,scotus_justice,3470.28,3477.33,"I don't understand why it's just -- it's proximate cause, but both -- strike one, strike two, strike three."
+2017.16-980,2,38319,paul_m_smith,,3479.715,3481.39,"Well, I agree with that, Your Honor, as well, Your Honor."
+2017.16-980,2,15068,samuel_a_alito_jr,scotus_justice,3488.41,3497.83,"Well, in HAVA, Congress used the term ""solely."" Could you say something about -- about that provision of -- of HAVA? That says that states shall include provisions."
+2017.16-980,2,38319,paul_m_smith,,3523.09,3535.62,"Well, Your Honor, I think the except clause is a reference to the same principle that's set forth in -- in (b)(2) -- (b)(2), which is to say the reason that you're getting put into the -- into the purge can't be simply not voting."
+2017.16-980,2,15068,samuel_a_alito_jr,scotus_justice,3535.62,3541.53,"Except -- but it -- it goes on to say: ""except that no registrant may be removed solely by reason of failure to vote."""
+2017.16-980,2,38319,paul_m_smith,,3541.53,3541.855,Right.
+2017.16-980,2,15068,samuel_a_alito_jr,scotus_justice,3541.855,3547.22,"Now, under Ohio's system, is someone removed solely because of failure to vote?"
+2017.16-980,2,38319,paul_m_smith,,3547.22,3548.66,"Yes, Your Honor. Absolutely."
+2017.16-980,2,15068,samuel_a_alito_jr,scotus_justice,3548.66,3557.46,"So the notices -- there's no requirement -- if somebody doesn't vote forever but returns that notice, the person would be removed from the list?"
+2017.16-980,2,38319,paul_m_smith,,3557.46,3559.31,We're talking about people who don't return the notice.
+2017.16-980,2,15068,samuel_a_alito_jr,scotus_justice,3561.715,3566.39,"No, I understand that, but I don't see how that -- how that's solely."
+2017.16-980,2,38319,paul_m_smith,,3566.39,3573.04,"Well, because the only evidence that they have that you have moved, which is the permissible category, is your non-voting."
+2017.16-980,2,15068,samuel_a_alito_jr,scotus_justice,3589.26,3593.995,"If somebody returns the notice, they never vote, but they return the notice, are they removed from the list?"
+2017.16-980,2,38319,paul_m_smith,,3593.995,3600.65,"The notice -- when they return the notice, the question is, what do they say? Do they say I'm still living on Main Street like I always have? Then they -- they stay on the list."
+2017.16-980,2,15131,sonia_sotomayor,scotus_justice,3686.16,3693.57,"Mr. Smith, could you give me concrete numbers? How many voters have been purged as a result of this system?"
+2017.16-980,2,38319,paul_m_smith,,3693.57,3706.01,"Well, Your Honor, I can't give you exact numbers, but I -- I would refer you to the biennial Election Assistance Commission reports that -- that look in detail at all the states' processes with respect to registration and perjury -- purge."
+2017.16-980,2,15131,sonia_sotomayor,scotus_justice,3723.75,3726.72,But you gave me 3 percent of people nationally move.
+2017.16-980,2,38319,paul_m_smith,,3726.72,3727.85,Move to a different county or state.
+2017.16-980,2,15131,sonia_sotomayor,scotus_justice,3727.85,3732.715,I -- I guess what I'm trying to get to is about how many people in Michigan actually move?
+2017.16-980,2,38319,paul_m_smith,,3732.715,3737.13,"Well, the -- the Ohio, the statistics that were put in were national."
+2017.16-980,2,15131,sonia_sotomayor,scotus_justice,3737.38,3738.435,"I'm sorry, I misspoke."
+2017.16-980,2,38319,paul_m_smith,,3740.12,3746.75,Ohio apparently thinks it's pretty -- the -- the -- the national statistics -- statistics represent Ohio because that's the statistics they put in.
+2017.16-980,2,15131,sonia_sotomayor,scotus_justice,3754.12,3755.565,I don't know. Three percent of what?
+2017.16-980,2,38319,paul_m_smith,,3755.565,3757.1,People move in each year.
+2017.16-980,2,15131,sonia_sotomayor,scotus_justice,3757.1,3758.04,I -- I understand that.
+2017.16-980,2,38319,paul_m_smith,,3760.62,3761.94,Of all people in the country.
+2017.16-980,2,15131,sonia_sotomayor,scotus_justice,3761.94,3763.52,Of all people in the country.
+2017.16-980,2,38319,paul_m_smith,,3763.52,3763.67,Yes.
+2017.16-980,2,15131,sonia_sotomayor,scotus_justice,3763.67,3766.05,So we have to divide it up and do that math.
+2017.16-980,2,38319,paul_m_smith,,3766.05,3772.07,"Well, it is -- it is -- in other words, only -- 97 percent of people do not move to another county or state in any given year."
+2017.16-980,2,15086,john_g_roberts_jr,scotus_justice,3789.48,3790.75,You can have a couple of minutes as well.
+2017.16-980,2,38319,paul_m_smith,,3790.75,3805.43,"And so, you know, the process is vastly overbroad in its design to try to find this relatively small group of people, starting with 50 or 60 percent in an -- in an -- in an off-year election don't vote; 70 percent don't return the notice."
+2017.16-980,2,15086,john_g_roberts_jr,scotus_justice,3818.47,3819.245,Okay.
+2017.16-980,3,62682,eric_e_murphy,,3823.425,3832.41,"Thank you, Mr. Chief Justice: The first question I'd like to answer is about the statistics of the number of people who move without notifying the Post Office. That is in the record."
+2017.16-980,3,15131,sonia_sotomayor,scotus_justice,3918.43,3923.445,"I'm sorry, they don't get -- people don't get notice that they have been struck."
+2017.16-980,3,62682,eric_e_murphy,,3927.41,3931.13,"Under the NVRA, you're only -- the minimum requirement is --"
+2017.16-980,3,15131,sonia_sotomayor,scotus_justice,3931.13,3932.175,I'm not asking --
+2017.16-980,3,62682,eric_e_murphy,,3932.175,3932.53,Yeah.
+2017.16-980,3,15131,sonia_sotomayor,scotus_justice,3932.53,3935.23,"Under Ohio's law, do they get only one notice?"
+2017.16-980,3,62682,eric_e_murphy,,3935.23,3936.19,"Only one notice, but --"
+2017.16-980,3,15131,sonia_sotomayor,scotus_justice,3936.19,3938.065,They don't get a notice when they're purged.
+2017.16-980,3,62682,eric_e_murphy,,3941.46,3943.67,That's why I was mentioning the ERIC program --
+2017.16-980,3,15131,sonia_sotomayor,scotus_justice,3943.67,3944.47,"Well, that -- that's --"
+2017.16-980,3,62682,eric_e_murphy,,3944.47,3950.715,-- because we just sent 1.6 million letters to all potentially eligible voters who -- who were not registered.
+2017.16-980,3,15131,sonia_sotomayor,scotus_justice,3950.715,3962.26,"Would you answer my question? Are they ever sent, anyone who's sent a notice and put on the inactive list, are they ever again sent any voting information outside of this ERIC program?"
+2017.16-980,3,62682,eric_e_murphy,,3962.26,3972.915,"So Matt Damschroder's declaration at Doc 38-2 suggested that the state ahead of the 2016 election sent absentee ballot applications, so you could vote because we have no excuse voting."
+2017.16-980,3,15086,john_g_roberts_jr,scotus_justice,3980.32,3982.03,"Thank you, counsel."

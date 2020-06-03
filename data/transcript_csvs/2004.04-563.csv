@@ -1,0 +1,198 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+2004.04-563,0,15141,william_h_rehnquist,scotus_justice,0.0,10.223,We'll hear argument next in Deneice A. Mayle v. Jacoby Lee Felix.
+2004.04-563,0,35663,matthew_km_chan,,60.778,64.025,"Mr. Chief Justice, and may it please the Court:"
+2004.04-563,0,15113,anthony_m_kennedy,scotus_justice,110.329,119.939,"Well, of course, I take it the issue doesn't even arise unless the amendment is accepted under 15(a)."
+2004.04-563,0,35663,matthew_km_chan,,119.939,121.278,"That's correct, Your Honor."
+2004.04-563,0,15113,anthony_m_kennedy,scotus_justice,121.278,133.576,"And if there's been lack of diligence, et cetera, and... or some prejudice to the State in the delay of the amendment, the Court just won't accept the amendment."
+2004.04-563,0,35663,matthew_km_chan,,133.576,134.637,I should clarify that--
+2004.04-563,0,15113,anthony_m_kennedy,scotus_justice,134.637,135.799,Or am I wrong about that?
+2004.04-563,0,35663,matthew_km_chan,,135.799,147.202,"--that in Civil Rule 15(a), the Court has discretion and grants... needs to grant leave to amend after a responsive pleading has been filed."
+2004.04-563,0,15092,sandra_day_oconnor,scotus_justice,156.466,160.94,"Well, it was filed before a responsive pleading--"
+2004.04-563,0,35663,matthew_km_chan,,160.94,162.327,In this case--
+2004.04-563,0,15092,sandra_day_oconnor,scotus_justice,162.327,162.861,--was filed--
+2004.04-563,0,35663,matthew_km_chan,,162.861,162.903,--Your Honor.
+2004.04-563,0,15092,sandra_day_oconnor,scotus_justice,162.903,163.532,--in this case.
+2004.04-563,0,15113,anthony_m_kennedy,scotus_justice,163.532,165.883,How long does it usually take to file a responsive pleading?
+2004.04-563,0,35663,matthew_km_chan,,165.883,170.187,"It depends, Your Honor."
+2004.04-563,0,15092,sandra_day_oconnor,scotus_justice,174.472,179.335,"But the State has a certain amount of flexibility in deciding when to respond, does it not?"
+2004.04-563,0,35663,matthew_km_chan,,179.335,186.476,"--Well, Your Honor, the rule does not require the State to respond to petition until ordered by the District Court."
+2004.04-563,0,15113,anthony_m_kennedy,scotus_justice,235.303,249.958,"Well, just before we leave 15(a), let's assume that we do not accept your position in this case and there's potential for a gaping hole in AEDPA."
+2004.04-563,0,35663,matthew_km_chan,,262.209,264.101,For pro--
+2004.04-563,0,15113,anthony_m_kennedy,scotus_justice,264.101,265.172,Do you see what I'm asking--
+2004.04-563,0,35663,matthew_km_chan,,265.172,266.245,"--I do understand, Your Honor."
+2004.04-563,0,15042,david_h_souter,scotus_justice,300.298,302.058,But you... you have--
+2004.04-563,0,15049,antonin_scalia,scotus_justice,302.058,303.194,"No, please, go ahead."
+2004.04-563,0,15042,david_h_souter,scotus_justice,303.194,334.27,"--I was going to say, if... on the scenario that you have raised, in which you don't even know that the petition has been filed, because the... you don't... the Court hasn't called for a response, the whole rationale behind the narrow reading is absent, as I understand it, because you point out that the rationale for the narrow reading is that the first pleadings put you on notice as to the case that you have to meet."
+2004.04-563,0,35663,matthew_km_chan,,365.103,374.014,"But even in that scenario, we are still prejudiced by the fact that now we have to address additional claims that would otherwise be time-barred."
+2004.04-563,0,15042,david_h_souter,scotus_justice,376.354,382.829,"No, but that... the problem with that is that a... the whole point of a relation-back rule is to get around the time bar."
+2004.04-563,0,35663,matthew_km_chan,,415.666,423.181,"--Well, I was addressing the situation in which we... in which we can answer first."
+2004.04-563,0,15042,david_h_souter,scotus_justice,430.268,431.435,"Oh, it would be."
+2004.04-563,0,35663,matthew_km_chan,,445.039,456.43,"Well, that situation would occur not as frequently as the situation in which we face an amendment after we have notice, Your Honor."
+2004.04-563,0,15049,antonin_scalia,scotus_justice,456.43,467.074,"Mr. Chan, there is really no way for the State entirely to protect itself by... even by filing an answer immediately."
+2004.04-563,0,35663,matthew_km_chan,,484.958,485.885,"That's right, Your Honor."
+2004.04-563,0,15049,antonin_scalia,scotus_justice,485.885,490.194,"There's no way to get any protection against that, no matter how promptly you respond."
+2004.04-563,0,35663,matthew_km_chan,,490.194,491.207,That's absolutely correct.
+2004.04-563,0,15084,ruth_bader_ginsburg,scotus_justice,503.617,505.563,The discretion--
+2004.04-563,0,15049,antonin_scalia,scotus_justice,505.563,506.235,Why--
+2004.04-563,0,35663,matthew_km_chan,,506.235,507.169,Liberally granted amendments.
+2004.04-563,0,15084,ruth_bader_ginsburg,scotus_justice,507.169,528.725,"--The discretion under 15(a), at least in the general run of civil proceedings, that is to be liberally exercised in favor of the pleaders, so it's a different... the 15(c) relation-back test is quite different from the general attitude to pleading amendments,"
+2004.04-563,0,35663,matthew_km_chan,,552.646,553.738,"No, Your Honor."
+2004.04-563,0,15141,william_h_rehnquist,scotus_justice,571.325,584.19,"Mr. Chan, do you think the Rules of Civil Procedure should be applied in habeas cases after AEDPA the same way they are in civil... other civil litigation?"
+2004.04-563,0,35663,matthew_km_chan,,584.19,603.705,"If the Court is referring to Rule 15(c)(2), our argument is that Rule 15(c)(2) is not a rule of automatic relation back, in civil terms, in civil cases; and, therefore, should not be applied as a rule of automatic relation back in habeas cases."
+2004.04-563,0,15141,william_h_rehnquist,scotus_justice,603.705,611.123,But what if we were to determine that in regular civil litigation it is relatively automatic?
+2004.04-563,0,35663,matthew_km_chan,,616.403,633.811,"Well, my argument would be that the habeas Rule 11 provides that, to the... to the extent that the civil rules are not inconsistent with the federal habeas provisions and rule, that they may be applied."
+2004.04-563,0,15049,antonin_scalia,scotus_justice,656.094,664.984,"--But you have more than Rule 11; you have Section 2244, which says that an application for habeas corpus, quote,"
+2004.04-563,0,35663,matthew_km_chan,,670.327,671.335,And that--
+2004.04-563,0,15049,antonin_scalia,scotus_justice,671.335,678.876,"So, I don't think it's even a close question whether the rules of procedure for amendment in civil actions apply."
+2004.04-563,0,35663,matthew_km_chan,,678.876,691.435,"--There's no question that... we are not questioning that Rule 15(c)(2) applied to habeas corpus, but Section 2242 does not give any guidance as to how 15(c)(2) should be interpreted."
+2004.04-563,0,15060,john_paul_stevens,scotus_justice,693.601,697.211,"Mr. Chan, can I ask you a question, based on your experience?"
+2004.04-563,0,35663,matthew_km_chan,,728.739,733.069,"For pro se petitions who have been assigned counsel, Your Honor?"
+2004.04-563,0,15060,john_paul_stevens,scotus_justice,733.069,745.533,"Well, no, normally... the issue of whether or not there should be... the petition may have the benefit of the relation back normally is... involves a delay of not more than, say, five or six months, in a normal case."
+2004.04-563,0,35663,matthew_km_chan,,745.533,747.672,"I don't have any statistics on that, Your Honor."
+2004.04-563,0,15060,john_paul_stevens,scotus_justice,751.522,753.271,You still lose the benefit of the statute.
+2004.04-563,0,35663,matthew_km_chan,,757.234,773.015,"--It can be a more serious problem in capital litigation, where you're dealing with many more claims, which could be more complex, which could require exhaustion for the... before the federal review."
+2004.04-563,0,15042,david_h_souter,scotus_justice,796.231,800.374,"But in the capital case, you've got a specific provision in there."
+2004.04-563,0,35663,matthew_km_chan,,817.228,818.736,"That's true, Your Honor."
+2004.04-563,0,15042,david_h_souter,scotus_justice,818.736,831.596,"And so, why... I mean, isn't the answer to the capital-case problem exactly the answer that Congress gave, and, if a state does not want to opt in, then the normal amendment rules apply?"
+2004.04-563,0,35663,matthew_km_chan,,831.596,844.87,Chapter 154 provisions do set forth a fast track for capital cases if the State can establish certain appointment procedures for counsel.
+2004.04-563,0,15084,ruth_bader_ginsburg,scotus_justice,859.003,864.529,What is your definition of the test under 15(c)(2)?
+2004.04-563,0,35663,matthew_km_chan,,878.102,879.196,"That's correct, Your Honor."
+2004.04-563,0,15084,ruth_bader_ginsburg,scotus_justice,879.196,892.715,"And is yours that every single objection that might be made in this entire trial record, every one, is a separate transaction or occurrence, for purposes of 15(c)?"
+2004.04-563,0,35663,matthew_km_chan,,892.715,903.388,"For purpose of 15(c)(2), our interpretation is that the kind of transaction occurrence is that core of operative facts that support the constitutional claims."
+2004.04-563,0,15113,anthony_m_kennedy,scotus_justice,945.425,962.555,"--The successive petition rules, or the rules prohibiting successive petition, seem to treat the entire attack as one... as one legal theory, as one case."
+2004.04-563,0,35663,matthew_km_chan,,969.761,993.233,"I think that the Respondent made a similar argument, based on a res judicata claim, and it was noted in the treatises that were cited that you have different intents behind res judicata and the relation-back doctrine, and its do not apply that way."
+2004.04-563,0,15141,william_h_rehnquist,scotus_justice,998.081,999.585,"Very well, Mr. Chan."
+2004.04-563,1,34099,lisa_schiavo_blatt,,1001.334,1014.193,"Thank you, Mr. Chief Justice, and may it please the Court:"
+2004.04-563,1,15084,ruth_bader_ginsburg,scotus_justice,1036.401,1047.66,"Are you, Ms. Blatt, taking the position that that is a tighter test than would apply ordinarily to the run of civil cases under 15(c)?"
+2004.04-563,1,34099,lisa_schiavo_blatt,,1047.66,1056.289,"I think, Justice Ginsburg, our fundamental point is, there is no counterpart to tort or contract action, with habeas."
+2004.04-563,1,15113,anthony_m_kennedy,scotus_justice,1079.045,1085.241,"It's a... it's a little odd for the statute to say that the rules apply; and then we look to the rules, but we interpret it differently."
+2004.04-563,1,34099,lisa_schiavo_blatt,,1090.447,1099.47,"Yeah, I just don't think it's different, both... regardless, you've got to come the case and figure out what is the relevant-conduct transaction or occurrence in a habeas petition."
+2004.04-563,1,15092,sandra_day_oconnor,scotus_justice,1145.715,1149.57,"Well, this case isn't as extreme as that, is it?"
+2004.04-563,1,34099,lisa_schiavo_blatt,,1153.048,1157.906,"It's... well, that's true, it takes in trial errors, but that's a lot."
+2004.04-563,1,15092,sandra_day_oconnor,scotus_justice,1174.765,1181.847,"Well, certainly in the civil-case context, generally, the interpretation has been pretty broad."
+2004.04-563,1,34099,lisa_schiavo_blatt,,1191.72,1192.802,--I'm not sure about that.
+2004.04-563,1,15092,sandra_day_oconnor,scotus_justice,1202.545,1206.679,Can you articulate the rule that you want?
+2004.04-563,1,34099,lisa_schiavo_blatt,,1209.729,1216.966,--It would be the set of facts that are asserted in support of the grounds for relief in the original habeas petition.
+2004.04-563,1,15042,david_h_souter,scotus_justice,1234.484,1235.418,How about--
+2004.04-563,1,15113,anthony_m_kennedy,scotus_justice,1235.418,1254.814,"If I sue for negligence or, in any civil action we might... we might imagine, there might be three or four ways in which the Defendant has injured me, and the Tiller case, the railroad case, tells us that it's a single action."
+2004.04-563,1,34099,lisa_schiavo_blatt,,1262.063,1262.547,I--
+2004.04-563,1,15113,anthony_m_kennedy,scotus_justice,1262.547,1263.433,Or do you concede that?
+2004.04-563,1,34099,lisa_schiavo_blatt,,1263.433,1269.928,"--I concede that... it's hard to answer that, Justice Kennedy, because a habeas proceeding is not a train accident."
+2004.04-563,1,15113,anthony_m_kennedy,scotus_justice,1270.828,1277.179,"Well, it's hard for me to figure it out, too, but it seems to me that what you're saying is that we have a different rule, because this is habeas."
+2004.04-563,1,34099,lisa_schiavo_blatt,,1277.179,1286.32,"--In the civil context, you always have a question of, Do we let in other loan transactions in a breach of contract, or, Do we let in another pattern or practice or... of similar products?"
+2004.04-563,1,15113,anthony_m_kennedy,scotus_justice,1306.734,1311.197,"So to complete Justice O'Connor's... the answer to Justice O'Connor's question, you say,"
+2004.04-563,1,34099,lisa_schiavo_blatt,,1315.613,1316.355,--I would be--
+2004.04-563,1,15113,anthony_m_kennedy,scotus_justice,1316.355,1317.368,You want us to interpret it differently.
+2004.04-563,1,34099,lisa_schiavo_blatt,,1317.368,1324.061,"--That would be totally acceptable, because of the distinct interest in not only the finality in the interest of society, and repose--"
+2004.04-563,1,15113,anthony_m_kennedy,scotus_justice,1324.061,1328.914,"Well, I'm sure it would be acceptable, but what's the authority for interpreting the rule two different ways, depending on the case?"
+2004.04-563,1,34099,lisa_schiavo_blatt,,1328.914,1337.085,"--Well, it's not like there's a habeas civil proceeding that we're asking for a habeas... habeas proceeding to be different."
+2004.04-563,1,15042,david_h_souter,scotus_justice,1361.682,1364.807,"--Well, let me... let me ask you how that would work in this case."
+2004.04-563,1,34099,lisa_schiavo_blatt,,1393.717,1396.011,"Well, we'd look to the common core."
+2004.04-563,1,15042,david_h_souter,scotus_justice,1402.373,1410.836,"Yeah, but if that's... if that's the line you're going to draw, then it seems to me that, in effect, what you are saying is, you can't amend."
+2004.04-563,1,34099,lisa_schiavo_blatt,,1422.76,1428.12,"--There's amendment all the time in the majority of Circuits that have applied the Government's test, and it comes up in two--"
+2004.04-563,1,15042,david_h_souter,scotus_justice,1428.12,1429.198,Not if you were the judge.
+2004.04-563,1,34099,lisa_schiavo_blatt,,1429.198,1431.426,"--No, that's not true, Justice Souter."
+2004.04-563,1,15042,david_h_souter,scotus_justice,1431.426,1431.702,"No, but, I mean, why--"
+2004.04-563,1,34099,lisa_schiavo_blatt,,1431.702,1432.608,Because--
+2004.04-563,1,15042,david_h_souter,scotus_justice,1432.608,1432.779,--why--
+2004.04-563,1,34099,lisa_schiavo_blatt,,1432.779,1453.92,"--Let me just say, on the attorney-ineffectiveness one, it's completely besides the point what the Government's view is, because the claims are completely derivative, and the prisoner gets no benefit whether he gets the amendment or not, because, in order to show procedural default, he's going to have to show attorney effectiveness, and he just doesn't get anything additional, one way or the other, and it really doesn't matter which claim he asserts first."
+2004.04-563,1,15042,david_h_souter,scotus_justice,1470.212,1474.963,"--So you can amend... you can amend your factual basis, as it were, but you can't amend your claims."
+2004.04-563,1,34099,lisa_schiavo_blatt,,1474.963,1495.847,"--No, the way you get claims, which is really the... the direct text on the rule says you can add a claim if it arises out of the same... is if the transaction relates to the... to give you an example, to an involuntary confession, you could have an amendment of a Miranda claim that arises out of that police... alleged police misconduct that culminated in the admission of the confession."
+2004.04-563,1,15060,john_paul_stevens,scotus_justice,1503.81,1518.972,"It seems to me that the reason for the... for defining the relation back the way the rule does is interest in fairness to the Defendant you don't want to let him be surprised; whereas, your claim, as I understand, is really based entirely on the interest in finality and repose."
+2004.04-563,1,34099,lisa_schiavo_blatt,,1518.972,1521.211,"Well, I think the interest of notice is part of it."
+2004.04-563,1,15060,john_paul_stevens,scotus_justice,1532.375,1533.44,"No, but the definition--"
+2004.04-563,1,34099,lisa_schiavo_blatt,,1533.44,1533.553,--and closure.
+2004.04-563,1,15060,john_paul_stevens,scotus_justice,1533.553,1538.928,"--in the rule is really to protect the interest in fairness, because interest in repose is always the same."
+2004.04-563,1,34099,lisa_schiavo_blatt,,1538.928,1553.952,"Well, that... it's to preserve the statute of limitations, but if the relevant transaction is something narrower than the conviction, then the interest of repose sets in."
+2004.04-563,1,15060,john_paul_stevens,scotus_justice,1560.182,1561.184,"Well, the interest in repose is always there."
+2004.04-563,1,34099,lisa_schiavo_blatt,,1564.933,1569.658,"--Well, I think what's at stake is Congress' intent in passing the one year."
+2004.04-563,1,15060,john_paul_stevens,scotus_justice,1581.135,1584.281,Even if they all come in just two or three months after the statute's run.
+2004.04-563,1,34099,lisa_schiavo_blatt,,1584.281,1585.194,--Well--
+2004.04-563,1,15060,john_paul_stevens,scotus_justice,1585.194,1586.105,It's really not a big deal.
+2004.04-563,1,34099,lisa_schiavo_blatt,,1586.105,1590.792,"--a six-month difference is a 50-percent extension of the limitations period, which is a big deal."
+2004.04-563,1,15084,ruth_bader_ginsburg,scotus_justice,1592.12,1593.369,"And here, it was five months."
+2004.04-563,1,34099,lisa_schiavo_blatt,,1593.369,1594.818,--I think it was five months.
+2004.04-563,1,15084,ruth_bader_ginsburg,scotus_justice,1594.818,1595.976,Here.
+2004.04-563,1,34099,lisa_schiavo_blatt,,1595.976,1596.52,It was five months.
+2004.04-563,1,15084,ruth_bader_ginsburg,scotus_justice,1597.132,1612.555,"Are you relying, Ms. Blatt, at all on the difference between the pleading rules for civil cases, generally, and habeas, where you do have a whole set of pleading rules, separate from the habeas rules?"
+2004.04-563,1,34099,lisa_schiavo_blatt,,1612.555,1613.899,--May I answer?
+2004.04-563,1,15141,william_h_rehnquist,scotus_justice,1618.315,1619.734,"Thank you, Ms. Blatt."
+2004.04-563,2,21381,david_m_porter,,1623.339,1628.763,Thank you.
+2004.04-563,2,15092,sandra_day_oconnor,scotus_justice,1694.694,1694.826,"Well, that's true."
+2004.04-563,2,21381,david_m_porter,,1707.775,1724.809,"--Your Honor, I believe that under this Court's decisions about how you determine what Congress did, Congress operated against a backdrop of how Rule 15(c) was applied by this Court and the lower courts."
+2004.04-563,2,15049,antonin_scalia,scotus_justice,1741.634,1745.806,"Well, that was... that was a rule for tort cases; it wasn't a rule for habeas cases."
+2004.04-563,2,21381,david_m_porter,,1798.248,1802.952,"That's a very good point I'd like to address, because I don't think we hit that... upon that in our briefs."
+2004.04-563,2,15141,william_h_rehnquist,scotus_justice,1859.015,1872.396,"Whatever the reason for it is, certainly you can interpret the rules to say that the pleading requirement being different and much more specific, the amendment process should be different."
+2004.04-563,2,21381,david_m_porter,,1872.396,1884.39,"I think that that's... Congress reasonably could have said that, and reasonably could have said that... amended 2242, for example, when it passed the Antiterrorism Act, and said,"
+2004.04-563,2,15141,william_h_rehnquist,scotus_justice,1892.07,1894.166,"But you don't need an amendment, I don't think."
+2004.04-563,2,21381,david_m_porter,,1904.73,1920.901,"I think that the only basis for determining what ""transaction"" is, you have to look at the... if you... if you're right, that we should have some kind of different rule for habeas than all other civil proceedings, well, then it has to be grounded in the habeas statutes."
+2004.04-563,2,15139,stephen_g_breyer,scotus_justice,1928.154,1928.325,But then--
+2004.04-563,2,21381,david_m_porter,,1928.325,1929.087,"--""laws which""--"
+2004.04-563,2,15139,stephen_g_breyer,scotus_justice,1929.087,1937.226,"--I mean, what's bothering me about this case is, I don't know that the Government needs to argue that there is a different rule."
+2004.04-563,2,21381,david_m_porter,,2013.567,2015.407,"--Well, I hope I can put those to rest."
+2004.04-563,2,15084,ruth_bader_ginsburg,scotus_justice,2052.574,2053.906,"But, Mr. Porter--"
+2004.04-563,2,21381,david_m_porter,,2053.906,2054.034,The first one--
+2004.04-563,2,15084,ruth_bader_ginsburg,scotus_justice,2054.034,2072.364,"--all that would be required to allege, to take the four-line complaint... all that the Plaintiff would have to say in that tort case is, ""The train was negligently operated"", with nothing more specific than that."
+2004.04-563,2,21381,david_m_porter,,2092.455,2101.948,"--I agree, Your Honor, but you... I think you need to step back and look at the purpose for the difference in the pleading rules."
+2004.04-563,2,15049,antonin_scalia,scotus_justice,2144.306,2155.021,"Can you file... can you file a request for a more specific statement in habeas, as you can in a civil case?"
+2004.04-563,2,21381,david_m_porter,,2155.021,2168.279,"Yes, under Rule 81 of the Federal Rules of Civil Procedure, and Rule 11, unless application of that rule is contrary to, or inconsistent with, the habeas statutes or rules, then it is applied."
+2004.04-563,2,15139,stephen_g_breyer,scotus_justice,2168.279,2169.297,Could we go back?
+2004.04-563,2,21381,david_m_porter,,2218.16,2226.464,"First of all, the response is that the statute... the rule does not use the term ""core operative facts""."
+2004.04-563,2,15139,stephen_g_breyer,scotus_justice,2226.464,2240.612,"No, but every lower court that has... not every one; you know better than I... but it seems like a commonly found expression when lower courts have interpreted the Rule 15 and have looked to Tiller."
+2004.04-563,2,21381,david_m_porter,,2243.375,2245.043,Not in the habeas context.
+2004.04-563,2,15139,stephen_g_breyer,scotus_justice,2245.262,2246.734,"No, of course not in the habeas context."
+2004.04-563,2,21381,david_m_porter,,2262.034,2262.529,--I don't believe so.
+2004.04-563,2,15139,stephen_g_breyer,scotus_justice,2263.205,2263.344,No?
+2004.04-563,2,21381,david_m_porter,,2263.344,2271.61,"--and Wright and Miller confirmed this, that actually courts have tried to develop different tests: Is it the same evidence that they're going to use?"
+2004.04-563,2,15139,stephen_g_breyer,scotus_justice,2280.986,2283.977,"But, of course, we're trying to decide what is the transaction."
+2004.04-563,2,21381,david_m_porter,,2283.977,2292.936,"Right, but the reason why is that there is a body of case law that determines... that's told us what that means."
+2004.04-563,2,15113,anthony_m_kennedy,scotus_justice,2292.936,2293.346,Let's--
+2004.04-563,2,21381,david_m_porter,,2293.346,2297.713,And Tiller tells us it means that it's the events leading up to the injury.
+2004.04-563,2,15113,anthony_m_kennedy,scotus_justice,2305.057,2305.531,--Let's take--
+2004.04-563,2,15141,william_h_rehnquist,scotus_justice,2305.531,2316.826,"What about... what about the case law in the lower courts that Justice Breyer referred to, dealing with the core operative facts and adopting--"
+2004.04-563,2,21381,david_m_porter,,2316.826,2325.92,"--Mr. Chief Justice, I think... they don't... I'm not aware of those cases using--"
+2004.04-563,2,15141,william_h_rehnquist,scotus_justice,2325.92,2340.938,"--you say let's look at all the cases that have followed Tiller, and... but apparently a lot of the courts adopting the core operative fact have developed that without full regard to Tiller."
+2004.04-563,2,21381,david_m_porter,,2340.938,2355.007,"--No, the lower courts... the most usual interpretation of Tiller that we've cited in our brief that the lower courts perform is this idea of any events leading up to the ultimate injury--"
+2004.04-563,2,15092,sandra_day_oconnor,scotus_justice,2355.007,2365.146,"But in the habeas context, haven't the majority of the Circuits had a more restrictive rule than the Seventh Circuit and the Ninth have espoused?"
+2004.04-563,2,21381,david_m_porter,,2365.146,2365.673,"--Yes, they have."
+2004.04-563,2,15092,sandra_day_oconnor,scotus_justice,2365.673,2366.11,Yeah.
+2004.04-563,2,21381,david_m_porter,,2370.168,2378.584,"And you should not, because what those courts failed to do is, they failed to appreciate that Congress has already spoken, in two different ways."
+2004.04-563,2,15113,anthony_m_kennedy,scotus_justice,2476.05,2477.217,--Let me... let me ask you.
+2004.04-563,2,21381,david_m_porter,,2510.442,2511.924,I don't believe so.
+2004.04-563,2,15113,anthony_m_kennedy,scotus_justice,2526.02,2529.071,"You would think no relation back, in the case I put--"
+2004.04-563,2,21381,david_m_porter,,2529.071,2532.89,--Because there... it does not relate to the same injury.
+2004.04-563,2,15060,john_paul_stevens,scotus_justice,2541.913,2542.389,"Well, the injury--"
+2004.04-563,2,21381,david_m_porter,,2542.389,2543.135,--of the United States.
+2004.04-563,2,15060,john_paul_stevens,scotus_justice,2543.135,2546.622,"--I suppose, in the... in the Miranda violation, is introducing the evidence at the time of trial."
+2004.04-563,2,21381,david_m_porter,,2546.622,2547.433,That's correct.
+2004.04-563,2,15060,john_paul_stevens,scotus_justice,2547.433,2547.949,That's the point.
+2004.04-563,2,21381,david_m_porter,,2551.97,2552.487,That's correct.
+2004.04-563,2,15139,stephen_g_breyer,scotus_justice,2553.403,2553.521,Right.
+2004.04-563,2,21381,david_m_porter,,2564.267,2568.795,"--Well, that the that's the problem with the... with the Warden's proposed test."
+2004.04-563,2,15139,stephen_g_breyer,scotus_justice,2594.166,2603.36,"Well, why doesn't the 1981... given... maybe I don't... haven't followed it correctly, but why doesn't the 1981 claim, then, relate back?"
+2004.04-563,2,21381,david_m_porter,,2609.851,2613.131,"--Well, maybe I wasn't following the hypothetical closely enough."
+2004.04-563,2,15139,stephen_g_breyer,scotus_justice,2613.131,2613.515,"Okay, I--"
+2004.04-563,2,21381,david_m_porter,,2613.515,2614.314,If--
+2004.04-563,2,15139,stephen_g_breyer,scotus_justice,2614.314,2614.442,--Forget it.
+2004.04-563,2,21381,david_m_porter,,2614.442,2614.943,--Okay.
+2004.04-563,2,15141,william_h_rehnquist,scotus_justice,2656.836,2667.918,"But the argument as to whether it was properly done, whether the ruling was proper, is going to go back to the time of the Miranda interrogation."
+2004.04-563,2,21381,david_m_porter,,2667.918,2674.084,"I agree that those facts are relevant, but it's the operative facts that are--"
+2004.04-563,2,15141,william_h_rehnquist,scotus_justice,2674.084,2676.723,"Well, why isn't that an operative fact?"
+2004.04-563,2,21381,david_m_porter,,2676.723,2683.997,"--Well, it is... the operative fact... what makes it actionable is that the statements were introduced at trial."
+2004.04-563,2,15141,william_h_rehnquist,scotus_justice,2683.997,2684.409,"Yeah, but--"
+2004.04-563,2,21381,david_m_porter,,2684.409,2685.726,If those statements weren't introduced at trial--
+2004.04-563,2,15141,william_h_rehnquist,scotus_justice,2685.726,2687.827,"--Well, you've switched."
+2004.04-563,2,21381,david_m_porter,,2693.299,2698.093,"--I believe those are the same principles, Your Honor."
+2004.04-563,2,15084,ruth_bader_ginsburg,scotus_justice,2698.093,2711.4,"Mr. Porter, if I understand you right, you are saying that, in the habeas context, the counterpart to an injury in a tort case is the unlawful detention, itself."
+2004.04-563,2,21381,david_m_porter,,2713.826,2714.214,That's correct.
+2004.04-563,2,15084,ruth_bader_ginsburg,scotus_justice,2714.214,2714.358,--I right?
+2004.04-563,2,21381,david_m_porter,,2714.358,2714.86,Yes.
+2004.04-563,2,15084,ruth_bader_ginsburg,scotus_justice,2714.86,2715.441,Okay.
+2004.04-563,2,21381,david_m_porter,,2736.71,2739.328,The Petitioner could file such a petition.
+2004.04-563,2,15139,stephen_g_breyer,scotus_justice,2757.275,2759.382,What about the other part of what's been bothering me?
+2004.04-563,2,21381,david_m_porter,,2808.144,2816.116,I think the answer to that is that statutes of limitations are ubiquitous in civil proceedings.
+2004.04-563,2,15084,ruth_bader_ginsburg,scotus_justice,2941.607,2948.955,"But I think that, first of all, the amendment may be made before there is a defensive plea."
+2004.04-563,2,21381,david_m_porter,,2974.864,2989.53,"--In Foman versus Davis, this Court responded to that concern and said that District Courts have ample authority under 15(a) to deny amendments to petitions... or amendments to initial pleadings."
+2004.04-563,2,15141,william_h_rehnquist,scotus_justice,3087.741,3092.227,"Thank you, Mr. Porter."
+2004.04-563,3,35663,matthew_km_chan,,3094.819,3114.957,"Mr. Felix assumes that Congress knew about the Tiller case, and assumed that Congress would know that Tiller would be interpreted in a way as to allow relation back in a situation such as this."
+2004.04-563,3,15141,william_h_rehnquist,scotus_justice,3149.515,3150.783,"Thank you, Mr. Chan."

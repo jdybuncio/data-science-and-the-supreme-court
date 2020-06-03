@@ -1,0 +1,212 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1994.93-823,0,15141,william_h_rehnquist,scotus_justice,0.0,8.95,"We'll hear argument next in Number 93-823, Nebraska Department of Revenue v. John Loewenstein."
+1994.93-823,0,34191,l_jay_bartel,,62.115,63.49,"Yes, Your... Mr. Chief Justice."
+1994.93-823,0,15141,william_h_rehnquist,scotus_justice,63.49,63.787,Mr. Bartel.
+1994.93-823,0,34191,l_jay_bartel,,63.787,71.112,"Mr. Chief Justice, and may it please the Court--"
+1994.93-823,0,15141,william_h_rehnquist,scotus_justice,149.815,157.39,"Could you describe in perhaps a little detail exactly what a typical agreement like this was, and why it was entered into?"
+1994.93-823,0,34191,l_jay_bartel,,157.39,170.463,"Repurchase agreements are called repos for short, and they're in essence contracts involving the simultaneous sale and future repurchase of an asset, usually Treasury securities."
+1994.93-823,0,15141,william_h_rehnquist,scotus_justice,201.012,204.214,Not dependent on the rate that the security pays?
+1994.93-823,0,34191,l_jay_bartel,,204.214,206.058,"That is correct, Mr. Chief Justice."
+1994.93-823,0,15049,antonin_scalia,scotus_justice,224.973,229.861,"But you could say the same thing about the normal sale of Treasury bonds, couldn't you?"
+1994.93-823,0,34191,l_jay_bartel,,250.947,253.289,That is true.
+1994.93-823,0,15049,antonin_scalia,scotus_justice,254.07,260.88,"And yet that transaction, you acknowledge, is exempt from taxation, is it not?"
+1994.93-823,0,34191,l_jay_bartel,,260.88,262.863,Yes.
+1994.93-823,0,15049,antonin_scalia,scotus_justice,280.871,294.539,"Yes, but I'm... that factor is irrelevant, once you acknowledge that in just a straight sale of a Treasury bond, it... the amount you pay for it has nothing to do with the interest rate on the face of the bond."
+1994.93-823,0,34191,l_jay_bartel,,302.677,318.668,"--It is in purposes of the overall analyzation, I think, of the nature of the agreements, because what we are contending, again, is that the real substance, the true substance of the agreements is that the mutual funds were not the true owners or substantive owners of the underlying obligations."
+1994.93-823,0,15092,sandra_day_oconnor,scotus_justice,318.668,329.931,"Well, what kind of unforeseen consequences would result from our characterization of this as a loan?"
+1994.93-823,0,34191,l_jay_bartel,,369.477,375.959,We are not asking the Court to adopt a secured loan characterization of all repos for all purposes.
+1994.93-823,0,15092,sandra_day_oconnor,scotus_justice,403.839,413.46,"Are there other instances where something is characterized one way for bankruptcy purposes, yet another way for security purposes, yet another way for tax purposes?"
+1994.93-823,0,34191,l_jay_bartel,,419.942,423.269,"I would not think so, although I don't have any ready examples."
+1994.93-823,0,15113,anthony_m_kennedy,scotus_justice,475.312,508.955,"In the respondent's brief, the red brief at about page... it's at page 26... he sets forth a hypothetical transaction where a 10,000 dollar Treasury bill is due in 360 days, and he has a series of hypotheticals, and the first one, of course, is if the taxpayer just holds it for 360 days, and he paid 9,500 dollars for it, he redeems it for 10,000 dollars, there's then 500 dollars worth of interest, and all of that is covered by the exemption."
+1994.93-823,0,34191,l_jay_bartel,,530.556,540.394,--It appears in the hypothetical that what he's dealing with is a shortterm Treasury bill that may be an obligation issued with discount.
+1994.93-823,0,15113,anthony_m_kennedy,scotus_justice,547.564,561.809,"So that it's correct that if I own a bill for 180 days, a 360-day bill, and I then transfer it to a second holder, we each split the exemption?"
+1994.93-823,0,34191,l_jay_bartel,,561.809,578.631,"--I believe under the OID rules under the Federal Income Tax Code there would be... if you are the actual holder and there is a transfer in substantive owner, then that holder who is a substantive owner is required to report that portion as income, that's correct."
+1994.93-823,0,15113,anthony_m_kennedy,scotus_justice,578.631,581.769,"Well, and they each get the exemption under Nebraska law, don't they?"
+1994.93-823,0,34191,l_jay_bartel,,581.769,583.675,"Yes, that's correct."
+1994.93-823,0,15113,anthony_m_kennedy,scotus_justice,583.675,583.941,All right.
+1994.93-823,0,34191,l_jay_bartel,,590.703,600.747,"No, we do not, Your Honor, because we believe it, again as we explain in our brief, fails to take into account the fact that the funds do not receive exempt interest from the Federal Government."
+1994.93-823,0,15113,anthony_m_kennedy,scotus_justice,600.747,611.321,"Under Nebraska law under your theory, if you prevail, will the full 500 dollars of exemption be accorded to someone in this transaction?"
+1994.93-823,0,34191,l_jay_bartel,,611.321,614.553,We believe that it is accorded to someone in the transaction.
+1994.93-823,0,15084,ruth_bader_ginsburg,scotus_justice,648.321,651.57,--Nebraska requires the addback?
+1994.93-823,0,34191,l_jay_bartel,,651.57,653.959,"Yes, most States do, that's correct."
+1994.93-823,0,15113,anthony_m_kennedy,scotus_justice,657.973,670.857,"Well, under Nebraska law in the repo transaction, would the original holder who is the sellerborrower receive under this hypothetical a 500 dollar exemption?"
+1994.93-823,0,34191,l_jay_bartel,,670.857,676.668,"Well, the effect of the addback provision could be to reduce the economic benefit."
+1994.93-823,0,15084,ruth_bader_ginsburg,scotus_justice,685.883,703.095,"But it does bring up the question that if you're wrong about 3124 and what it requires, it may not follow that Loewenstein or the mutual fund is the person Nebraska would look at to make the cure?"
+1994.93-823,0,34191,l_jay_bartel,,707.172,710.092,That would be an application to the dealer.
+1994.93-823,0,15084,ruth_bader_ginsburg,scotus_justice,711.498,711.638,Yes.
+1994.93-823,0,34191,l_jay_bartel,,738.644,748.093,"--It's our position, of course, that section 3124 doesn't require that result, and we would rely on the Court's decision on First National Bank of Atlanta v. Bartow County."
+1994.93-823,0,15084,ruth_bader_ginsburg,scotus_justice,748.093,753.778,But would you pick one or the... would you be... do you know which one Nebraska would pick if it were required to make that decision?
+1994.93-823,0,34191,l_jay_bartel,,753.778,754.732,"No, I do not."
+1994.93-823,0,15139,stephen_g_breyer,scotus_justice,754.732,762.4,"That's the key question to me, I mean, these two questions that Justice Kennedy brought up and this."
+1994.93-823,0,34191,l_jay_bartel,,976.144,980.049,We attempted to respond in our brief with a response to their example.
+1994.93-823,0,15084,ruth_bader_ginsburg,scotus_justice,982.235,995.418,"Is part of your response that in respect to how you treat that deal, you treat it just the way the Feds treat municipal and State bonds with respect to the addback of the expense?"
+1994.93-823,0,34191,l_jay_bartel,,995.418,1006.304,"In our view, the Nebraska statute is the counterpart to Internal Revenue Code section 265, which denies interest expense deduction incurred to carry State and local obligations, that's correct."
+1994.93-823,0,15084,ruth_bader_ginsburg,scotus_justice,1006.304,1007.975,I thought that that's what the system was.
+1994.93-823,0,34191,l_jay_bartel,,1016.44,1018.127,In repo transactions?
+1994.93-823,0,15084,ruth_bader_ginsburg,scotus_justice,1018.127,1018.346,Yes.
+1994.93-823,0,34191,l_jay_bartel,,1018.346,1030.857,The Nebraska statute only exempts from State taxation interest earned from ownership of Nebraskabased obligations.
+1994.93-823,0,15084,ruth_bader_ginsburg,scotus_justice,1053.348,1056.862,So you're saying the treatment is the same.
+1994.93-823,0,34191,l_jay_bartel,,1056.862,1057.221,Yes.
+1994.93-823,0,15049,antonin_scalia,scotus_justice,1057.221,1066.281,"Mr. Bartel, I have a problem with your urging us to look at the economic reality of the transaction."
+1994.93-823,0,34191,l_jay_bartel,,1084.381,1090.348,"We would take the position that it's ownership only in the most nominal sense, bare legal title, if you will."
+1994.93-823,0,15049,antonin_scalia,scotus_justice,1096.923,1100.032,"Yes, well, you're raising exactly my point."
+1994.93-823,0,34191,l_jay_bartel,,1118.384,1135.579,"--The Internal Revenue Code has by ruling adopted various criteria, or it looks at characteristics that can... are used to determine whether secured loan characterization is appropriate to repurchase agreements involving State and local obligations."
+1994.93-823,0,15049,antonin_scalia,scotus_justice,1167.332,1173.704,"Lay the ground rules such as what, such as whether the agreement, as in this case, does not give full indicia of ownership?"
+1994.93-823,0,34191,l_jay_bartel,,1173.704,1175.595,--Yes.
+1994.93-823,0,15049,antonin_scalia,scotus_justice,1175.595,1178.406,Each case is a different inquiry.
+1994.93-823,0,34191,l_jay_bartel,,1178.406,1180.483,But if parties outside--
+1994.93-823,0,15049,antonin_scalia,scotus_justice,1180.483,1185.997,"It's going to be a very narrow decision you're asking us to write, this just in the circumstances of this particular repo agreement."
+1994.93-823,0,34191,l_jay_bartel,,1185.997,1192.386,"--Because of the fact that repos can differ so much in nature, I think we'd be hardpressed to ask for anything else."
+1994.93-823,0,15084,ruth_bader_ginsburg,scotus_justice,1192.386,1202.489,"To what extent does Nebraska copy, or is it guided by, how the Federal authorities treat repo arrangements?"
+1994.93-823,0,34191,l_jay_bartel,,1216.125,1221.623,The revenue ruling at issue simply spoke in terms of repos being deemed secured lendings.
+1994.93-823,0,15084,ruth_bader_ginsburg,scotus_justice,1231.51,1239.413,"Is there any interstate cooperation, since many States are your friends in this matter?"
+1994.93-823,0,34191,l_jay_bartel,,1239.413,1245.332,"In terms of the treatment, it seems that most States tax this income."
+1994.93-823,0,15139,stephen_g_breyer,scotus_justice,1282.441,1292.875,"Very bravely I'm going to try this again, since I'm thinking that it seems quite important in my mind as to how the case comes out."
+1994.93-823,0,34191,l_jay_bartel,,1300.622,1302.06,That is correct.
+1994.93-823,0,15139,stephen_g_breyer,scotus_justice,1302.06,1307.651,The repoer pays some money to the holder of those bills.
+1994.93-823,0,34191,l_jay_bartel,,1308.745,1309.743,That is correct.
+1994.93-823,0,15139,stephen_g_breyer,scotus_justice,1309.743,1313.383,And you're saying the money he pays is his own payment of interest.
+1994.93-823,0,34191,l_jay_bartel,,1314.305,1315.57,That is correct.
+1994.93-823,0,15139,stephen_g_breyer,scotus_justice,1315.57,1324.581,"When Nebraska then gets its tax return, you say... suppose it was 5,000 dollars in interest."
+1994.93-823,0,34191,l_jay_bartel,,1330.188,1331.423,Yes.
+1994.93-823,0,15139,stephen_g_breyer,scotus_justice,1331.423,1336.56,"Then he has to... he then looks at the statue and says, but I paid 4,000."
+1994.93-823,0,34191,l_jay_bartel,,1352.086,1360.146,"Again, based on my understanding of the statute, that that would be the application, assuming it was a Nebraska--"
+1994.93-823,0,15139,stephen_g_breyer,scotus_justice,1360.146,1368.657,"So the answer to my question is yes, he does have to subtract the 4,000 from the 5,000, as you read the Nebraska statute."
+1994.93-823,0,34191,l_jay_bartel,,1368.657,1369.329,--Yes.
+1994.93-823,0,15139,stephen_g_breyer,scotus_justice,1369.329,1373.89,And we should assume that's so for purposes of deciding this case?
+1994.93-823,0,34191,l_jay_bartel,,1373.89,1385.12,"I don't know that I can say that, I guess, but I'm... my understanding--"
+1994.93-823,0,15113,anthony_m_kennedy,scotus_justice,1385.12,1393.382,"Well, it's important because if the answer is yes, which is the answer you've given, that diminishes the exemption, doesn't it?"
+1994.93-823,0,34191,l_jay_bartel,,1393.382,1402.598,--No more so than does any State statute which has an addback like Nebraska's if this were a direct borrowing to obtain the obligation.
+1994.93-823,0,15139,stephen_g_breyer,scotus_justice,1412.687,1414.827,The question is not whether it's legal to diminish it.
+1994.93-823,0,34191,l_jay_bartel,,1426.744,1435.193,"--Only in an economic sense, is my answer to that, and it's not constitutionally required, and the statute doesn't require that the exemption be handled any differently."
+1994.93-823,0,15084,ruth_bader_ginsburg,scotus_justice,1435.193,1442.426,--What you are saying is you are essentially treating this like a secured loan?
+1994.93-823,0,34191,l_jay_bartel,,1452.732,1453.076,Yes.
+1994.93-823,0,15113,anthony_m_kennedy,scotus_justice,1454.981,1487.764,"It would seem to me that the economic sense of it is that if the person who has the cash derived from the collateralized loan, if that's what you want to call it, uses that cash to earn money from, say, a General Motors instrument, or something like that, that that is outside nonexempt income, and that the cost of that is outside expenses that are offset against the outside income, but it doesn't seem to me that your statute does that."
+1994.93-823,0,34191,l_jay_bartel,,1487.764,1491.107,--Well--
+1994.93-823,0,15113,anthony_m_kennedy,scotus_justice,1491.107,1495.404,"And if that is so, then it seems to me that the respondents may have a point."
+1994.93-823,0,34191,l_jay_bartel,,1495.404,1501.013,"--The key, though, is I think if you look at the exemption statute itself, what is a State precluded from doing?"
+1994.93-823,0,15113,anthony_m_kennedy,scotus_justice,1510.274,1534.372,"Yes, but you're asking us to recharacterize the transaction that the parties have... have engaged in here in an economic sense, so we are simply asking you in an economic sense whether or not the full exemption is being accorded to one or both of the parties under your accounting system, and it seems to me that you're saying well, maybe not."
+1994.93-823,0,34191,l_jay_bartel,,1534.372,1535.872,--In an economic--
+1994.93-823,0,15113,anthony_m_kennedy,scotus_justice,1535.872,1544.807,"And that, it seems to me, bears upon the wisdom or the prudence of our allowing you to recharacterize the transaction in the way that you seek to do."
+1994.93-823,0,34191,l_jay_bartel,,1544.807,1553.632,"--Even if the transaction were characterized as a sale and repurchase, if the funds were the actual owner, then that raises another question."
+1994.93-823,0,15141,william_h_rehnquist,scotus_justice,1582.182,1583.635,"Very well, Mr. Bartel."
+1994.93-823,1,43484,terry_r_wittler,,1585.743,1593.928,"Mr. Chief Justice, may it please the Court--"
+1994.93-823,1,15141,william_h_rehnquist,scotus_justice,1698.526,1709.318,"Well, do you think the Frank Lyon opinion, Mr. Wittler, was intended as the beall and endall for what anybody might do with respect to restructuring a tax transaction to show the economic reality of it?"
+1994.93-823,1,43484,terry_r_wittler,,1709.318,1716.176,"No, Mr. Chief Justice, I do not think that Frank Lyon was the beall and endall."
+1994.93-823,1,15141,william_h_rehnquist,scotus_justice,1745.256,1751.879,"Well, do you agree that the estimation of the economic substance in this case is a correct one?"
+1994.93-823,1,43484,terry_r_wittler,,1751.879,1758.454,"Yes, Your Honor, but I think that begs the question, and let me explain why."
+1994.93-823,1,15113,anthony_m_kennedy,scotus_justice,1829.661,1852.854,"Well, I'm not sure it is, because if one or the other theories, and I'm not sure which one it is, operates to deprive securities of their economicexempt status, then the purpose of the statute... then the purpose of the statute is contravened, and we interpret the law according to the purpose of the statute."
+1994.93-823,1,43484,terry_r_wittler,,1870.816,1888.23,"It does, Your Honor, but that... and that structure is chosen by the parties for reasons independent of the tax considerations, and I think we mentioned in our brief that a significant part of this market, participants in this market, are municipalities, school districts, agencies that pay no tax."
+1994.93-823,1,15084,ruth_bader_ginsburg,scotus_justice,1924.232,1930.026,How do you distinguish the situation of the municipal bond and the Federal taxation?
+1994.93-823,1,43484,terry_r_wittler,,1962.42,1963.357,Justice--
+1994.93-823,1,15084,ruth_bader_ginsburg,scotus_justice,1963.357,1968.635,"Why can't Nebraska say, we want to do the same thing that the Feds are doing?"
+1994.93-823,1,43484,terry_r_wittler,,1968.635,1983.77,"--Because Nebraska doesn't have a Supremacy Clause, and the U.S. Congress does, and in the recent case involving South Carolina v. Baker, this Court held that the exemption of municipal bonds interest is statutorily based."
+1994.93-823,1,15084,ruth_bader_ginsburg,scotus_justice,1986.879,2004.121,"Oh, so you're resting not just... it's not just what 3124 means, but you're saying the Constitution requires that, so even if Congress was explicit in 3124, and says, and we don't mean that the interest paid to the reverser is not income, that would be unconstitutional?"
+1994.93-823,1,43484,terry_r_wittler,,2004.121,2005.465,"That's not what I mean to say, Your Honor."
+1994.93-823,1,15084,ruth_bader_ginsburg,scotus_justice,2022.49,2030.532,"So you're rejecting what we were just told, that... we were just told that Nebraska treats State, its obligations the same way, and you're saying it doesn't?"
+1994.93-823,1,43484,terry_r_wittler,,2030.532,2032.829,"I disagree with that, Your Honor."
+1994.93-823,1,15084,ruth_bader_ginsburg,scotus_justice,2063.065,2079.966,"There has been, so far as I know, no voice from the U.S. side, the Treasury side, in all of this, and you are not exactly in the position of McCulloch in this case."
+1994.93-823,1,43484,terry_r_wittler,,2099.785,2102.378,"I can give you a theory, Your Honor."
+1994.93-823,1,15113,anthony_m_kennedy,scotus_justice,2135.271,2141.487,Could a third possibility be that under either theory the full exemption is allowed and therefore the market is unaffected?
+1994.93-823,1,43484,terry_r_wittler,,2141.487,2144.549,"I don't believe so, Your Honor."
+1994.93-823,1,15113,anthony_m_kennedy,scotus_justice,2185.657,2196.778,"But that seems to me quite a plausible theory if they deprive you of any of the exemption, because then it works out, and that's the problem I have with your footnote at page 29."
+1994.93-823,1,43484,terry_r_wittler,,2205.681,2215.52,"--No, Your Honor, I don't believe I am, because the statute says, their position is, even though I've loaned... I've sold these to somebody else, I really own them."
+1994.93-823,1,15113,anthony_m_kennedy,scotus_justice,2243.336,2253.52,"Well, if you disregard Nebraska's addback to the borrower's interest expense deduction, does the borrower otherwise get the full benefit?"
+1994.93-823,1,43484,terry_r_wittler,,2253.52,2256.534,Yes.
+1994.93-823,1,15084,ruth_bader_ginsburg,scotus_justice,2265.734,2270.357,Then why should Loewenstein or the mutual funds prevail in any event?
+1994.93-823,1,43484,terry_r_wittler,,2291.693,2301.297,"--I agree that at a Federal level, in terms of the statutory scheme, you're right, as long as somebody gets it, the statute's complied with."
+1994.93-823,1,15092,sandra_day_oconnor,scotus_justice,2360.338,2396.931,"You know, Mr. Wittler, it seems to me that we dealt with an aspect of this argument in the Bartow County Board of Tax Assessors case, where the Court said that the tax exemption required by the Constitution and section 3124 is not a tax shelter, and Federal obligations may be acquired in part by liabilities, and when they are, a pro rata method of allocating a fair share to the liabilities doesn't infringe on the immunity."
+1994.93-823,1,43484,terry_r_wittler,,2403.367,2405.554,Justice--
+1994.93-823,1,15092,sandra_day_oconnor,scotus_justice,2405.554,2423.374,"--that you don't have to have out there somewhere the full exemption, that if there... if you borrow money, and you have to offset the cost of that to engage in the purchase of the Federal obligations, you lose some of the exemption."
+1994.93-823,1,43484,terry_r_wittler,,2425.187,2434.402,"--Bartow County dealt with a net worth tax, and a net worth, the net worth is an abstraction."
+1994.93-823,1,15139,stephen_g_breyer,scotus_justice,2522.522,2527.755,"That's... I want to go back, if I can, to Justice Kennedy's... it's the same question I think many of us have."
+1994.93-823,1,43484,terry_r_wittler,,2551.339,2551.995,Right.
+1994.93-823,1,15139,stephen_g_breyer,scotus_justice,2551.995,2553.323,--forgetting how you characterize it.
+1994.93-823,1,43484,terry_r_wittler,,2567.519,2568.003,"Yes, I do."
+1994.93-823,1,15139,stephen_g_breyer,scotus_justice,2568.003,2570.097,"But as I read that statute, it doesn't."
+1994.93-823,1,43484,terry_r_wittler,,2577.656,2578.468,That's right.
+1994.93-823,1,15139,stephen_g_breyer,scotus_justice,2578.468,2582.561,"Well, you're not carrying the bonds when you've repoed them out to General Motors."
+1994.93-823,1,43484,terry_r_wittler,,2585.966,2586.824,I agree--
+1994.93-823,1,15139,stephen_g_breyer,scotus_justice,2586.824,2603.677,"--and you're going to use... you've got 1 million dollars because they have your bonds for a day and you have their million for the day, and so the money that you're paying to General Motors for the 1-day's loan of the Treasury bills, so you get the million, is not a cost of the Treasury's bills."
+1994.93-823,1,43484,terry_r_wittler,,2630.668,2633.587,"--Well, you can affirm the Nebraska supreme court."
+1994.93-823,1,15139,stephen_g_breyer,scotus_justice,2634.431,2634.9,Thank you.
+1994.93-823,1,43484,terry_r_wittler,,2636.353,2642.787,"--Your Honor, if you adopt their position that we--"
+1994.93-823,1,15139,stephen_g_breyer,scotus_justice,2642.787,2651.283,"No, I'm... what I'm interested in is that narrow statute that talks about adding back the expenses of carrying the Treasury bills."
+1994.93-823,1,43484,terry_r_wittler,,2670.229,2673.353,"--But Your Honor, this language--"
+1994.93-823,1,15139,stephen_g_breyer,scotus_justice,2673.353,2674.665,So you wouldn't add it back.
+1994.93-823,1,43484,terry_r_wittler,,2674.665,2687.909,"--tracks section 265, and there is extensive litigation history about how you decide whether you add it back in or not, and the cases consistently take the position that with repos you add it back in."
+1994.93-823,1,15139,stephen_g_breyer,scotus_justice,2687.909,2688.128,All right.
+1994.93-823,1,43484,terry_r_wittler,,2700.044,2701.872,That's right.
+1994.93-823,1,15139,stephen_g_breyer,scotus_justice,2701.872,2702.84,That's what your point is.
+1994.93-823,1,43484,terry_r_wittler,,2702.84,2703.762,That's our position.
+1994.93-823,1,15084,ruth_bader_ginsburg,scotus_justice,2703.762,2704.668,Yes.
+1994.93-823,1,43484,terry_r_wittler,,2724.489,2725.535,"No, Your Honor."
+1994.93-823,1,15084,ruth_bader_ginsburg,scotus_justice,2733.251,2733.579,--Let's just--
+1994.93-823,1,43484,terry_r_wittler,,2733.579,2733.843,--Yes.
+1994.93-823,1,15084,ruth_bader_ginsburg,scotus_justice,2733.843,2739.825,--focus on this part about the addback that the repoer has to do under Nebraska law.
+1994.93-823,1,43484,terry_r_wittler,,2744.214,2747.87,"Well, I'd have no case, but I'd also owe no tax."
+1994.93-823,1,15084,ruth_bader_ginsburg,scotus_justice,2750.12,2752.057,How would you have gotten the exemption?
+1994.93-823,1,43484,terry_r_wittler,,2756.743,2757.211,"Yes, ma'am."
+1994.93-823,1,15084,ruth_bader_ginsburg,scotus_justice,2757.211,2757.758,--not the repoer.
+1994.93-823,1,43484,terry_r_wittler,,2757.758,2758.414,That's right.
+1994.93-823,1,15084,ruth_bader_ginsburg,scotus_justice,2758.414,2758.836,Okay.
+1994.93-823,1,43484,terry_r_wittler,,2770.033,2770.267,All right.
+1994.93-823,1,15084,ruth_bader_ginsburg,scotus_justice,2770.736,2774.952,"--so every dollar is accounted for, but the repoer gets it all."
+1994.93-823,1,43484,terry_r_wittler,,2774.952,2775.327,Right.
+1994.93-823,1,15084,ruth_bader_ginsburg,scotus_justice,2775.327,2777.187,And the reverser gets interest income.
+1994.93-823,1,43484,terry_r_wittler,,2777.187,2777.468,Right.
+1994.93-823,1,15084,ruth_bader_ginsburg,scotus_justice,2777.468,2787.495,"If that's the position that Nebraska took, there would be no argument under 3124, and Loewenstein would lose, is that--"
+1994.93-823,1,43484,terry_r_wittler,,2787.495,2802.396,"That's right, but Loewenstein would know that he was going to lose, and he would say to the repoer, I'm not going to cut the deal that I cut with you last year, because now I know I'm going to have to pay tax on it, so now I want more money, because I'm going to have to pay tax."
+1994.93-823,1,15084,ruth_bader_ginsburg,scotus_justice,2802.396,2809.925,"--If I'm right about Nebraska having a choice, if what they're doing is not permissible, then they have a choice."
+1994.93-823,1,43484,terry_r_wittler,,2809.925,2810.251,Yes.
+1994.93-823,1,15084,ruth_bader_ginsburg,scotus_justice,2810.251,2815.515,"And why should a court, a Federal court, make that choice for them?"
+1994.93-823,1,43484,terry_r_wittler,,2815.515,2823.246,Because the... they have a choice only in the sense they have to do it the constitutional way.
+1994.93-823,1,15084,ruth_bader_ginsburg,scotus_justice,2823.246,2828.806,"Yes, but you told me the Constitution doesn't care about whether the repoer or the reverser gets the benefit."
+1994.93-823,1,43484,terry_r_wittler,,2828.806,2830.4,I'm saying somebody has to get it.
+1994.93-823,1,15084,ruth_bader_ginsburg,scotus_justice,2833.945,2845.16,"But if they... even if... even if that... even if you would prevail on that point, somebody gets it, what authority does this Court have to say which somebody it should be?"
+1994.93-823,1,43484,terry_r_wittler,,2845.16,2846.112,--It hasn't.
+1994.93-823,1,15113,anthony_m_kennedy,scotus_justice,2856.061,2856.811,But it seems to me--
+1994.93-823,1,43484,terry_r_wittler,,2856.811,2858.263,And that violates the Supremacy Clause.
+1994.93-823,1,15113,anthony_m_kennedy,scotus_justice,2858.263,2865.152,"--But it seems to me quite plausible for Nebraska to say that you don't get it, because by your contract, you pay all of the Federal interest back."
+1994.93-823,1,43484,terry_r_wittler,,2869.227,2871.446,But as--
+1994.93-823,1,15113,anthony_m_kennedy,scotus_justice,2871.446,2872.024,And if--
+1994.93-823,1,43484,terry_r_wittler,,2872.024,2872.991,"--I pointed out, money is fungible."
+1994.93-823,1,15113,anthony_m_kennedy,scotus_justice,2879.63,2881.645,"--Well, that might make a difference."
+1994.93-823,1,43484,terry_r_wittler,,2940.511,2947.039,"First of all, Your Honor, Nebraska law incorporates by reference Federal tax law."
+1994.93-823,1,15049,antonin_scalia,scotus_justice,2998.409,3005.001,"Well, but... this is just repeating Justice Ginsburg's question, but I still don't understand your answer to it."
+1994.93-823,1,43484,terry_r_wittler,,3025.868,3026.586,Because--
+1994.93-823,1,15049,antonin_scalia,scotus_justice,3026.586,3030.74,"--You're claiming that Nebraska has to give it to your client, not to the repoer."
+1994.93-823,1,43484,terry_r_wittler,,3038.174,3046.25,"--Because Nebraska has said, in a separate statute, Mr. Repoer, you clearly don't get it."
+1994.93-823,1,15042,david_h_souter,scotus_justice,3069.038,3074.458,"So we just decided, in effect, on the hypothetical, we assume that the repoer doesn't get it, and therefore you're left."
+1994.93-823,1,43484,terry_r_wittler,,3074.458,3078.55,"Your Honor, with all due respect, I don't think it's a hypothetical."
+1994.93-823,1,15042,david_h_souter,scotus_justice,3082.048,3083.953,Is it clear under the statute that the repoer doesn't get it?
+1994.93-823,1,43484,terry_r_wittler,,3083.953,3086.608,"--I believe it's clear, yes, Your Honor."
+1994.93-823,1,15042,david_h_souter,scotus_justice,3086.608,3088.716,Is it clear under the statute that your client doesn't get it?
+1994.93-823,1,43484,terry_r_wittler,,3088.716,3093.059,It's clear under the revenue rule that my client doesn't get it.
+1994.93-823,1,15042,david_h_souter,scotus_justice,3094.34,3096.355,Whereas the statute does address the repoer?
+1994.93-823,1,43484,terry_r_wittler,,3101.759,3102.524,"No, sir."
+1994.93-823,1,15060,john_paul_stevens,scotus_justice,3112.848,3121.297,"Yes, but isn't it true that although the... let's assume there's 600 dollars of Federal interest, and 500 dollars of interest paid to the buyerlender."
+1994.93-823,1,43484,terry_r_wittler,,3139.805,3144.757,"He gets the same benefit, Your Honor, that he would have gotten if he bought a fully taxable obligation."
+1994.93-823,1,15060,john_paul_stevens,scotus_justice,3144.757,3145.116,Right.
+1994.93-823,1,43484,terry_r_wittler,,3145.116,3146.397,He gets an interest deduction.
+1994.93-823,1,15060,john_paul_stevens,scotus_justice,3146.397,3148.443,But he does therefore get the benefit of the deduction.
+1994.93-823,1,43484,terry_r_wittler,,3148.443,3152.833,"Yes, but that has nothing to do with the fact that it was a taxable or nontaxable--"
+1994.93-823,1,15060,john_paul_stevens,scotus_justice,3152.833,3161.047,"Instead of treating it as 600 of taxfree income, he treats it as 100 of taxfree income and a 500 deduction from your gross income, which brings you out to the same figure."
+1994.93-823,1,43484,terry_r_wittler,,3161.047,3163.249,--But where did the... where did the other 500 go?
+1994.93-823,1,15060,john_paul_stevens,scotus_justice,3164.468,3167.873,"Well, the other 500 is income to the person who lent the money."
+1994.93-823,1,43484,terry_r_wittler,,3171.027,3174.744,"But then we have two people who have gotten 500 dollars, Your Honor."
+1994.93-823,1,15060,john_paul_stevens,scotus_justice,3174.744,3175.291,No.
+1994.93-823,1,43484,terry_r_wittler,,3191.114,3199.047,"It's a business expense, and it goes against the taxexempt income, except--"
+1994.93-823,1,15060,john_paul_stevens,scotus_justice,3199.047,3202.061,"Well, but it brings you down to the same amount of taxable income, it seems to me."
+1994.93-823,1,43484,terry_r_wittler,,3202.905,3203.702,"--No, Your Honor."
+1994.93-823,1,15139,stephen_g_breyer,scotus_justice,3232.926,3246.232,"So could we do this, could we say, suppose you said, look, the States have to respect 15,000 dollars of the original issue discount, and they have a lot of leeway as to how they do it, but they have to respect it."
+1994.93-823,1,43484,terry_r_wittler,,3264.789,3270.037,"You certainly could do that, Your Honor, but the Federal law says--"
+1994.93-823,1,15139,stephen_g_breyer,scotus_justice,3270.037,3270.412,xx--
+1994.93-823,1,43484,terry_r_wittler,,3270.412,3285.67,"--it will be governed by the Internal Revenue Code, and the Internal Revenue Code explains how we allocate these payments that occur over time, so... and Nebraska law then incorporates by reference the Federal Internal Revenue Code, so it wouldn't advance us a great deal."
+1994.93-823,1,15139,stephen_g_breyer,scotus_justice,3285.67,3305.711,"--Yes, but if you're going by the Code you'd say, fine, you allocate the original issue discount day by day, but I don't know that the Federal Code would require giving days 3 to the repoer, or to the person who's holding the security, say, Ford Motor, or General Motors."
+1994.93-823,1,43484,terry_r_wittler,,3310.208,3311.74,Thank you.
+1994.93-823,1,15141,william_h_rehnquist,scotus_justice,3311.74,3313.457,"--Thank you, Mr. Wittler."
+1994.93-823,2,34191,l_jay_bartel,,3315.987,3322.968,"Again, may it please the Court--"
+1994.93-823,2,15084,ruth_bader_ginsburg,scotus_justice,3345.381,3361.952,"I have just one question about why Nebraska is not taking the position that California and some other States have taken that all of this is beside the point, because what Loewenstein receives is simply a taxable dividend from the mutual fund."
+1994.93-823,2,34191,l_jay_bartel,,3361.952,3365.028,"Of course, that's largely a policy question."
+1994.93-823,2,15141,william_h_rehnquist,scotus_justice,3391.145,3392.877,"Thank you, Mr. Bartel."

@@ -1,0 +1,45 @@
+file_name,section,speaker_id,speaker_name,speaker_role,start,stop,text
+1970.124,0,15073,warren_e_burger,scotus_justice,0.0,3.447,"Mr. Greenberg, you may proceed."
+1970.124,0,30616,jack_greenberg,,3.447,6.503,Mr. Chief Justice and may it please the Court.
+1970.124,1,25265,george_w_ferguson_jr,,1239.046,1243.116,"Mr. Chief Justice, may it please the Court."
+1970.124,1,15073,warren_e_burger,scotus_justice,1456.167,1468.458,"If there were no high school graduation requirements to the labor force, how do you suggest that would adversely affect the company's operation?"
+1970.124,1,25265,george_w_ferguson_jr,,1469.437,1473.519,"There is no high school requirement for the labor force, may it please, Your Honor."
+1970.124,1,15073,warren_e_burger,scotus_justice,1473.519,1476.308,Then I misheard you.
+1970.124,1,25265,george_w_ferguson_jr,,1480.76,1481.094,"No, sir."
+1970.124,1,15073,warren_e_burger,scotus_justice,1488.88,1489.73,I'm glad you corrected that.
+1970.124,1,25265,george_w_ferguson_jr,,1493.92,1496.641,Thank you for calling my attention sir.
+1970.124,2,34279,lawrence_m_cohen,,2441.912,2444.944,"Mr. Chief Justice, may it please the Court."
+1970.124,2,15073,warren_e_burger,scotus_justice,2483.628,2486.728,"Mr. Cohen, let me put this question to you if I can."
+1970.124,2,34279,lawrence_m_cohen,,2532.59,2535.563,I think this is really the heart of this case.
+1970.124,2,15073,warren_e_burger,scotus_justice,2598.879,2601.986,"Well, does the Duke, does it go that far that it must be a subterfuge or is it on the impact?"
+1970.124,2,34279,lawrence_m_cohen,,2601.986,2613.289,"Well, I -- It's -- It isn't -- it's whether on the basis of the evidence in the case. Did the employer use or intend that the test be discriminatory?"
+1970.124,2,15073,warren_e_burger,scotus_justice,2627.54,2633.111,"Well, would you regard business necessity and business related as being the same or as one stronger than the other?"
+1970.124,2,34279,lawrence_m_cohen,,2633.111,2641.537,"No, I think the difference is between business necessity which is the position, the petitioners and the Government urged and legitimate business purpose."
+1970.124,2,15104,thurgood_marshall,scotus_justice,2740.741,2747.879,"Mr. Cohen, what relationship does either these tests have to “Coal Handling?”"
+1970.124,2,34279,lawrence_m_cohen,,2747.879,2765.398,"The Court of Appeals found that on the facts of this case, the tests served the legitimate business capacity -- business purpose by hiring a reservoir of able employees in Coal Handling who cannot only do the jobs there but were reasonably able to be promoted into the higher skill jobs."
+1970.124,2,15104,thurgood_marshall,scotus_justice,2773.61,2778.27,Why not put the same test before you hire a laborer?
+1970.124,2,34279,lawrence_m_cohen,,2778.27,2779.083,I'm sorry Mr. Justice Marshall?
+1970.124,2,15104,thurgood_marshall,scotus_justice,2779.083,2784.24,Why don't they have the same test before you're hired as laborer in Duke?
+1970.124,2,34279,lawrence_m_cohen,,2784.24,2788.773,"Well, I think the difference is that there's greater skills required of the employees in the Coal Handling Department."
+1970.124,2,15104,thurgood_marshall,scotus_justice,2788.773,2791.727,"Well, they might go up to be president too?"
+1970.124,2,34279,lawrence_m_cohen,,2791.727,2803.849,"That's correct but the question is, does should you in each case require the employer before he uses a tests to first demonstrate that that test is related just to that particular job?"
+1970.124,2,15104,thurgood_marshall,scotus_justice,2806.278,2820.834,"But assume that you can hire somebody as a coal handler and put the requirement that he have a PhD, you have that right, any employer but does he have that right under this Act?"
+1970.124,2,34279,lawrence_m_cohen,,2821.872,2831.054,My question is -- my feeling Mr. Justice Marshall is that this is like a case of an employer who discharges a union employee during a union organizational campaign.
+1970.124,2,15104,thurgood_marshall,scotus_justice,2854.46,2862.346,But he did it none for well that he had a prior policy of rigid segregation and exclusion.
+1970.124,2,34279,lawrence_m_cohen,,2865.097,2865.479,That's correct.
+1970.124,2,15104,thurgood_marshall,scotus_justice,2865.479,2871.112,"And he quit this rule in as I understand it, the day the Bill became effective."
+1970.124,2,34279,lawrence_m_cohen,,2871.112,2881.15,The company put in the -- the policy of permitting as an alternate to the educational requirement of permitting test.
+1970.124,2,15104,thurgood_marshall,scotus_justice,2895.481,2899.565,"Before that, all you needed to show was a high school diploma?"
+1970.124,2,34279,lawrence_m_cohen,,2899.565,2900.452,Right.
+1970.124,2,15104,thurgood_marshall,scotus_justice,2900.452,2906.245,"And after that, if you didn't have a high school diploma, you have to give a test which he gave."
+1970.124,2,34279,lawrence_m_cohen,,2911.818,2930.468,"What -- yes, I think that's what the point that I like to make is that, I think what the Court of Appeals needed to consider was often is the timing of the tests, what the employers racial relation, what is generally action was in the area of race relations, what kind of expert opinion her relied on."
+1970.124,2,15104,thurgood_marshall,scotus_justice,2992.173,2994.918,Without regard to job relation?
+1970.124,2,34279,lawrence_m_cohen,,2994.918,2999.575,"Yes, I think job relationship is one aspect and not the only aspect of the case."
+1970.124,2,15104,thurgood_marshall,scotus_justice,2999.575,3002.037,But should they consider your brief?
+1970.124,2,34279,lawrence_m_cohen,,3002.037,3003.018,Oh absolutely!
+1970.124,2,15073,warren_e_burger,scotus_justice,3008.815,3014.515,"Well, let me be sure that I understand your response to my hypothetical question."
+1970.124,2,34279,lawrence_m_cohen,,3026.324,3037.065,"No, I would -- my feeling is you can never prove that there was a business necessity for that test and nor that it was job related in the sense that the employers had to have that skill in order to perform the job."
+1970.124,2,15073,warren_e_burger,scotus_justice,3048.9,3055.213,"There command of English would be relevant only to the extent that was necessary to understand the instructions, isn't that about that?"
+1970.124,2,34279,lawrence_m_cohen,,3055.213,3060.066,You would have to demonstrate that the employers could not do the job if they did not have an understanding of English.
+1970.124,2,15073,warren_e_burger,scotus_justice,3070.514,3072.278,Thank you Mr. Cohen.
+1970.124,3,30616,jack_greenberg,,3076.639,3077.585,"Mr. Chief Justice, may it please the Court."
