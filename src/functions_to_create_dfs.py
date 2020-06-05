@@ -7,12 +7,24 @@ import fnmatch
 
 
 def transcript_parser(file_name):
+    """
+    Summary:
+        This is a function which parses an oral argument transcript files from my datasource, https://github.com/walkerdb/supreme_court_transcripts. 
+        The transcript files are contained in the following repository in the github mentioned: ./oyez/cases/*t01.json
+
+    Args:
+        file_name (.json): Filepath name for an individual case's oral argument file
+
+    Returns:
+        ./transcript_csvs/*.csv: This function will create a dataframe for the oral argument and save it as a csv file in a ./trancript_csvs local repository 
+    """
+
         
     path_to_check = file_name.replace('.-t01.json','.csv')
     if os.path.exists('./transcript_csvs/' + path_to_check):
-        return None #no need to run if file exists
+        return None #no need to run if file already exists locally
 
-    #open file and store in contents object
+    #open file and store in contents variable
     with open('cases/'+file_name) as f:
         contents = json.load(f)
         
@@ -79,10 +91,23 @@ def transcript_parser(file_name):
 
 
 def case_detail_parser(file_name):
-    
+    """
+    Summary:
+        This is a function which parses the case detail files from my datasource, https://github.com/walkerdb/supreme_court_transcripts. 
+        The transcript files are contained in the following repository in the github mentioned: ./oyez/cases/*.json (exclude files which end with t**.json)
+
+    Args:
+        file_name (.json): Filepath name for an individual case's non-oral argument file
+
+    Returns:
+        ./case_csvs/*.csv: This function will create a dataframe for the Case and save it as a csv file in a ./case_csvs local repository 
+    """
+
+
     path_to_check = file_name.replace('.json','.csv')
+    
     if os.path.exists('./case_csvs/' + path_to_check):
-        return None #no need to run
+        return None #no need to run if file already exists locally
 
     with open('cases/'+file_name) as f:
         contents = json.load(f)
@@ -101,7 +126,7 @@ def case_detail_parser(file_name):
     d['second_party'] = contents['second_party']
     d['second_party_label'] = contents['second_party_label']
     
-    if contents['decisions'] != None and contents['decisions'][0]['votes']!=None:
+    if contents['decisions'] != None and contents['decisions'][0]['votes'] != None:
         d['winning_party'] =  contents['decisions'][0]['winning_party']
         d['decision_type'] = contents['decisions'][0]['decision_type']
         d['majority_vote'] = contents['decisions'][0]['majority_vote']
@@ -123,8 +148,20 @@ def case_detail_parser(file_name):
     df.to_csv('case_csvs/{}.csv'.format(file_name.replace('.json','')), index=False)  
             
 
+        
 
 def number_cases():
+    """Summary:
+        One issue with the data source I'm using is that the two types of files: Case Details and Oral Arguments are in the same repository
+        Both of these files are contained in the following repository in this github (https://github.com/walkerdb/supreme_court_transcripts)
+        This function separates out the file names between the two types of files in order to generate a list of the Cases, using a: {year}.{docket #} format, 
+        which have one oral argument only
+    Returns:
+        common_files [lst]: list of Supreme Court cases I will analyze in the format of: {year}.{docket #}. I am only looking at cases with one oral argument 
+        since multiple oral arguments create an added complexity I am not working with for this project's case
+    """
+
+    #Set up empty lists to get the Case names in the {year}.{docket #}) format for all types of cases. Need to separate between Case files and Oral Argument Transcript files
     case_files = []
     case_transcript_files = []
     case_transcript_files2 = []
@@ -140,9 +177,9 @@ def number_cases():
         elif filename.endswith("-t03.json"):
             case_transcript_files3.append(filename) 
         elif filename.endswith("-t04.json"):
-            case_transcript_files4.append(filename)      #no cases have more than 4 oral arguments
+            case_transcript_files4.append(filename)  #no cases have more than 4 oral arguments in repo
         elif fnmatch.fnmatch(filename, '*us*'):
-            case_USfiles.append(filename)
+            case_USfiles.append(filename) #unclear what these files are. no documentation
         else:
             case_files.append(filename)
 
@@ -176,9 +213,17 @@ def number_cases():
     common_files = np.intersect1d(result, np.array(case_lst), assume_unique=False)
     
     print(f'There are {len(case_files)} total case files per this data pull. There are also {len(common_files)} cases with one oral argument which is set I will focus on')
-    return case_files, common_files
+    return common_files
+
 
 def histogram_of_cases_by_yr(common_files):
+    """
+    Summary:
+        Create histogram of number of cases w/ one oral argument by Docket Year
+
+    Args:
+        common_files ([list]): list of cases to be considered
+    """
     years = []
 
     for file in common_files:
@@ -194,14 +239,28 @@ def histogram_of_cases_by_yr(common_files):
     plt.show()
 
     '''
-
-    https://www.washingtonpost.com/news/monkey-cage/wp/2016/06/02/the-supreme-court-is-taking-far-fewer-cases-than-usual-heres-why/
-    A 1988 law, the Supreme Court Case Selections Act, gave the court discretion over whether to hear appeals from circuit court decisions. This gave the court more latitude over its caseload than it previously had, freeing it from hearing many cases that it previously was mandated to hear. 
-
-
+    Note as to why num of cases go down over time:
+        A 1988 law, the Supreme Court Case Selections Act, gave the court discretion over whether to hear appeals from circuit court decisions. 
+        This gave the court more latitude over its caseload than it previously had, freeing it from hearing many cases that it previously was mandated to hear. 
+        https://www.washingtonpost.com/news/monkey-cage/wp/2016/06/02/the-supreme-court-is-taking-far-fewer-cases-than-usual-heres-why/
     '''
 
 def concat_case_details():
+    """
+    Summary:
+        Using the created csvs containing the parsed Case Details, stored locally in the ./case_csvs repository, this function
+        creates 1 data frame of all cases consolidated in one file
+        It does this by:
+            - putting all the Case Details into one file, where each row represents a Supreme Court Case
+            
+
+    Returns:
+        df [dataframe]: Dataframe which contains a row for each case
+        ./data/df_case_details_consolidated.csv [csv]:  Creates and saves a Dataframe which contains a row for each case 
+    
+    """
+
+    # Read through each Case file from the ./case_csvs local repo. And put them all into one file so each case is one row
     for idx,filename in enumerate(os.listdir('./case_csvs')):
         
         if idx == 0:
@@ -213,6 +272,21 @@ def concat_case_details():
             except pd.errors.ParserError:
                 continue
     
+    df.to_csv('./data/df_case_details_consolidated.csv')
+    retrun df        
+    
+
+
+def create_df_with_label(df):
+    """
+    Summary:
+        Using the df created from the concat_case_details function, this function creates a cleaned up Case dataframe with a label
+
+    Returns:
+        df_cases [data_frame]:  Dataframe which contains a row for each case and the outcome of if the petitioner won or not. Only contains cases which have a Decision
+        ./data/df_case_details_labeled.csv [csv]:  Saves Dataframe as csv
+    """
+
     df = df.drop_duplicates()
     cols = '''file_name
                 case_name
@@ -294,18 +368,20 @@ def concat_case_details():
                     neil_gorsuch
                     brett_m_kavanaugh
                     charles_e_whittaker'''
-
+    cols = cols.replace(' ','')
+    justices = justices.replace(' ','')
     df = df[cols.split('\n') + justices.split('\n')]
     df = df.sort_values(by = 'file_name')
     df = df.reset_index(drop = True)
-
+        
     # remove cases which have no decision yet
     df = df[df['Decided'].isna() == False]
-
+    
     # create label: petitioner_wins
     df['petitioner_wins'] = df.apply(lambda row: 1 if str(row['winning_party']) in str(row['first_party']) else 0, axis = 1)
     df.loc[(df.winning_party == 'Petitioner'),'petitioner_wins']=1
 
+    #manually looked through 300 cases to create the label wherein it wasn't clear from the logic above who won or lost the case
     file_names_winning_party_change = ['2013.13-461',
             '1980.79-1429',
             '2010.10-238',
@@ -390,13 +466,77 @@ def concat_case_details():
     for i in file_names_winning_party_change:
         df.loc[(df.file_name == i),'petitioner_wins']=1
     
+    df.to_csv('./data/df_case_details_labeled.csv')  
+    return df 
+    
 
-    # df.to_csv('case_summary_agg_cleaned.csv')
 
+def create_case_dataframe(df):
+    """
+    Summary:
+        Creates data frame from the create_df_with_label function for case information
+
+    Returns:
+        df_cases [data_frame]:  Dataframe which contains a row for each case and the outcome of if the petitioner won or not. Only contains cases which have a Decision
+        ./data/df_cases.csv [csv]:  Saves Dataframe as csv
+    """
+
+    # Create df_cases dataframe
     df_cases = df[['file_name', 'case_name', 'docket_number', 'Argued', 'Decided',
        'first_party',  'second_party', 'majority_vote',
        'minority_vote','petitioner_wins']]
     
+    df_cases.to_csv('./data/df_cases.csv')
+    return df_cases
+
+
+def create_judge_votes_dataframe(df):
+    """
+    Summary:
+        Creates data frame from the create_df_with_label function for judge voting
+
+    Returns:
+        df_judge_votes [data_frame]: Dataframe which shows if each justice voted for the Petitioner or not in a given case
+        ./data/df_judge_votes.csv [csv]:  Saves Dataframe as csv
+        
+    """
+    justices = '''john_m_harlan2
+                    hugo_l_black
+                    william_o_douglas
+                    potter_stewart
+                    william_j_brennan_jr
+                    byron_r_white
+                    earl_warren
+                    tom_c_clark
+                    abe_fortas
+                    thurgood_marshall
+                    harry_a_blackmun
+                    lewis_f_powell_jr
+                    william_h_rehnquist
+                    john_paul_stevens
+                    sandra_day_oconnor
+                    antonin_scalia
+                    anthony_m_kennedy
+                    david_h_souter
+                    clarence_thomas
+                    ruth_bader_ginsburg
+                    stephen_g_breyer
+                    felix_frankfurter
+                    harold_burton
+                    stanley_reed
+                    sherman_minton
+                    arthur_j_goldberg
+                    sonia_sotomayor
+                    john_g_roberts_jr
+                    samuel_a_alito_jr
+                    warren_e_burger
+                    elena_kagan
+                    neil_gorsuch
+                    brett_m_kavanaugh
+                    charles_e_whittaker'''
+    justices = justices.replace(' ','')
+
+    # Create df_judge votes dataframe
     df_judge_votes = df[['file_name', 'case_name','docket_number', 'petitioner_wins','john_m_harlan2',
        'hugo_l_black', 'william_o_douglas', 'potter_stewart',
        'william_j_brennan_jr', 'byron_r_white', 'earl_warren', 'tom_c_clark',
@@ -409,14 +549,30 @@ def concat_case_details():
        'sonia_sotomayor', 'john_g_roberts_jr', 'samuel_a_alito_jr',
        'warren_e_burger', 'elena_kagan', 'neil_gorsuch', 'brett_m_kavanaugh',
        'charles_e_whittaker']]
-
-    for justice in list(justices):
+    
+    #label when Judge votes for petitioner or not
+    lst_judges = justices.split('\n')
+    for justice in lst_judges:
         df_judge_votes.loc[(df_judge_votes[justice] == 'majority') & (df_judge_votes['petitioner_wins'] == 1),justice] = 1
         df_judge_votes.loc[(df_judge_votes[justice] == 'minority') & (df_judge_votes['petitioner_wins'] == 0),justice] = 1
         df_judge_votes.loc[(df_judge_votes[justice] == 'majority') & (df_judge_votes['petitioner_wins'] == 0),justice] = 0
         df_judge_votes.loc[(df_judge_votes[justice] == 'minority') & (df_judge_votes['petitioner_wins'] == 1),justice] = 0
 
+    df_judge_votes.to_csv('./data/df_judge_votes.csv')
+    return df_judge_votes
 
+
+def create_advocate_dataframe(df):
+    """
+    Summary:
+        Creates data frame from the create_df_with_label function for advocate information
+
+    Returns:
+        df_advocates [data_frame]: Dataframe which has details as to the Advocates of each case and whether they were arguing for the petitioner or respondent, or were a neutral party
+        ./data/df_advocates.csv [csv]:  Saves Dataframe as csv
+    """
+
+    # Create df_advocates dataframe
     df_advocates = df[['file_name','advocate_0', 'advocate_description_0', 'advocate_1',
        'advocate_description_1', 'advocate_2', 'advocate_description_2',
        'advocate_3', 'advocate_description_3', 'advocate_4',
@@ -430,6 +586,7 @@ def concat_case_details():
        'advocate_15', 'advocate_description_15']]
     df_advocates =df_advocates.dropna(how='all')
 
+    # stack all advocates into a 3 column dataframe
     for i in range(16):
         if i ==0:
             x1 = df_advocates[['file_name','advocate_'+str(i),'advocate_description_'+str(i)]]
@@ -441,22 +598,51 @@ def concat_case_details():
 
     x1 =x1.dropna(subset=['advocate','advocate_description'])
     
-    x1['behalf_petitioner'] =  x1.apply(lambda x: 1 if ('petition' in str(x.advocate_description).lower()) or ('plaintiff' in str(x.advocate_description).lower()) \
-                                    or ('ppell' in str(x.advocate_description).lower()) \
+    #Label when each advocate is arguing for the petitioner, respondent, or is a neutral party in a given case
+        #appellant= petitioner
+    x1['behalf_petitioner'] =  x1.apply(lambda x: 1 if ('petition' in str(x.advocate_description).lower()) or ('plaintiff' in str(x.advocate_description).lower())
+                                    or ('ppella' in str(x.advocate_description).lower())
                                     else 0, axis=1)
+        #appellee= respondent
     x1['behalf_respondent'] =  x1.apply(lambda x: 1 if ('respondent' in str(x.advocate_description).lower()) or ('defenda' in str(x.advocate_description).lower())
+                                    or ('ppelle' in str(x.advocate_description).lower())    
                                     else 0, axis=1)
     x1['behalf_amicus_curiae'] =  x1.apply(lambda x: 1 if ('amicus curiae' in str(x.advocate_description).lower()) or ('amici curiae' in str(x.advocate_description).lower())
                                        else 0, axis=1)
     df_advocates = x1
-    return df_cases, df_judge_votes, df_advocates
+    
+    #Refine definition of which side advocate is on per case
+        # Amicus Curiae on behalf of each side will have a 1 for both the side and the ac side. This creates 2 new cols.
+    df_advocates['behalf_ac_petitioner'] = np.where(df_advocates.behalf_petitioner + df_advocates.behalf_amicus_curiae == 2, 1, 0)
+    df_advocates['behalf_ac_respondent'] = np.where(df_advocates.behalf_respondent + df_advocates.behalf_amicus_curiae == 2, 1, 0)
+        # Amicus Curiae neutral is one where only the AC col is checked. This creates 1 new col
+    df_advocates['behalf_ac_neutral'] = np.where((df_advocates.behalf_respondent + df_advocates.behalf_petitioner+ df_advocates.behalf_amicus_curiae  == 1)
+                                                & (df_advocates.behalf_amicus_curiae  == 1)
+                                                , 1, 0)
+        # Now you can isolate for non AC sides. Zero cols out when advocate is an AC. This edits 2 existing cols
+    df_advocates['behalf_petitioner'] = np.where(df_advocates.behalf_petitioner + df_advocates.behalf_amicus_curiae == 2, 0, df_advocates.behalf_petitioner)
+    df_advocates['behalf_respondent'] = np.where(df_advocates.behalf_respondent + df_advocates.behalf_amicus_curiae == 2, 0, df_advocates.behalf_respondent)
 
+    #Only keep advocates wherein I know which side they argued for in a given case and simplify columns needed
+    df_advocates['checker'] = df_advocates['behalf_petitioner'] + df_advocates['behalf_respondent'] +  df_advocates['behalf_ac_petitioner'] + df_advocates['behalf_ac_respondent'] + df_advocates['behalf_ac_neutral']
+    df_advocates = df_advocates[df_advocates.checker == 1]
+    df_advocates = df_advocates[['file_name','advocate','behalf_petitioner','behalf_respondent','behalf_ac_petitioner','behalf_ac_respondent','behalf_ac_neutral']]
+
+    #Reverse dummy so I have One column which states which side Advocate argued for in a given case
+    dummies = df_advocates[['behalf_petitioner','behalf_respondent','behalf_ac_petitioner','behalf_ac_respondent','behalf_ac_neutral']]
+    s2 = pd.Series(dummies.columns[np.where(dummies!=0)[1]])
+    advocate_labels = pd.DataFrame(s2, columns = ['advocate_label'])
+    df_advocates = df_advocates.reset_index(drop = True)
+    df_advocates = pd.merge(df_advocates, advocate_labels, how = 'inner',left_index = True, right_index = True)[['file_name','advocate','advocate_label']]
+
+    df_advocates.to_csv('./data/df_advocates.csv')
+    return df_advocates
 
 
 if __name__ == "__main__":
 
-    case_files, common_files = number_cases()
-    histogram_of_cases_by_yr(common_files)
+    common_files = number_cases()
+    #histogram_of_cases_by_yr(common_files)
 
 
     case_files_lst = []
@@ -473,6 +659,15 @@ if __name__ == "__main__":
         case_detail_parser(file_name)
     for file_name in transcript_files_lst:
         transcript_parser(file_name)
+
+    df = concat_case_details()
+    df = create_df_with_label(df)
+    df_cases = create_case_dataframe(df)
+    df_judge_votes = create_judge_votes_dataframe(df)
+    df_advocates = create_advocate_dataframe(df)
+
+
+
 
 
 ''' Code to plot graphs of votes by justice
