@@ -551,47 +551,7 @@ def create_advocate_dataframe(df):
     df_advocates = pd.merge(df_advocates, advocate_labels, how = 'inner',left_index = True, right_index = True)[['file_name','advocate','advocate_label']]
 
     df_advocates.to_csv('./data/df_advocates.csv')
-    print('Successfully created df_advocates in data directory')
+    print('Successfully created df_cases in data directory')
     return df_advocates
 
-
-
-if __name__ == "__main__":
-
-    common_files = number_cases()
-    #histogram_of_cases_by_yr(common_files)
-
-    case_files_lst = []
-
-    for file in common_files:
-        case_file_name = file + '.json'
-        case_files_lst.append(case_file_name)
-
-    for file_name in case_files_lst:
-        case_detail_parser(file_name)
-    
-
-    df = concat_case_details()
-    df = create_df_with_label(df)
-    df_cases = create_case_dataframe(df)
-    df_judge_votes = create_judge_votes_dataframe(df)
-    df_advocates = create_advocate_dataframe(df)
-
-
-    
-    
-
-
-
-''' Code to plot graphs of votes by justice
-fig, axs = plt.subplots(6,6,figsize=(20,10))
-for i, ax in enumerate(axs.flatten()):
-    if i == 34 or i == 35:
-        continue
-    else:
-        df.groupby(lst_of_justices[i]).size().plot.bar(x='decision', y='num_votes', title = lst_of_justices[i], ax = ax)
-    
-'''
-
-# df['Argued'] = pd.to_datetime(df['Argued'], unit='s').dt.to_period('M')
 

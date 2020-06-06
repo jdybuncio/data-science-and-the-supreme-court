@@ -87,7 +87,7 @@ def transcript_parser(file_name):
     df = pd.DataFrame(output, columns = ['file_name','section','speaker_name', 'speaker_role', 'start','stop','text'])
     df['total_time'] = np.where(df.stop - df.start>=0.0, df.stop - df.start, 0)
     df.to_csv('transcript_csvs/{}.csv'.format(file_name.replace('-t01.json','')), index=False)  
-    print('Successfully parsed Transcript JSON Files')
+    
 
 def section_label_generator(file_name, df_advocates):
     """
@@ -280,6 +280,13 @@ def generate_features_for_model_df(file_name, df_advocates_section_map):
     """
     df = pd.read_csv('transcript_csvs/' + file_name)
     
+    #####experiment
+    lst_of_phrases = list(df.text)
+    corpus = ' '.join(lst_of_phrases)
+    punctuation_ = set(string.punctuation)
+    for i in punctuation_:
+        corpus = corpus.replace(i,'') 
+    ####
     df_join = add_labels_to_df(df, df_advocates_section_map)
     
     df_p, df_p_j, df_r, df_r_j, df_ac, df_ac_j, df_ac_p, df_ac_p_j, df_ac_r, df_ac_r_j = create_dfs_per_speaking_party(df_join)
@@ -298,7 +305,10 @@ def generate_features_for_model_df(file_name, df_advocates_section_map):
     d = {}
     
     d['file_name'] = str(max(df.file_name))
-    
+
+    #experiment of adding corpus
+    d['corpus'] = corpus
+
     # Petitioner - Judge
     d['talk_time_petitioner'] = tt_p
     d['words_petitioner'] = w_p
@@ -345,43 +355,3 @@ def generate_features_for_model_df(file_name, df_advocates_section_map):
     d['questions_amicus_respondent_justice'] = q_ac_r_j
     
     return d
-
-
-
-
-
-if __name__ == "__main__":
-
-    common_files = number_cases()
-
-    transcript_files_lst = []
-
-    for file in common_files:
-        transcript_file_name = file + '-t01.json'
-        transcript_files_lst.append(transcript_file_name)
-
-    for file_name in transcript_files_lst:
-        transcript_parser(file_name)
-
-    df_advocates_section_map = create_section_map_df(df_advocates)
-
-    files_lst = []
-    for filename in os.listdir('./transcript_csvs'):
-        files_lst.append(filename)
-
-    lst = []
-    for i, file in enumerate(files_lst):
-        try:
-            lst.append(generate_features_for_model_df(file, df_advocates_section_map))
-        except (pd.errors.ParserError, TypeError):
-            continue
-
-    df_data = pd.DataFrame(lst)
-
-    df_cases = pd.read_csv('data/df_cases.csv', index_col = 0)
-
-    df_modeling = pd.merge(df_cases, df_data, how = 'inner', on = 'file_name')
-    
-    df_modeling['question_diff'] = df_modeling.questions_petitioner_justice - df_modeling.questions_respondent_justice
-    
-    # df_modeling.to_csv('example.csv')
