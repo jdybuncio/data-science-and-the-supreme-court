@@ -4,6 +4,7 @@ import json
 import os
 import fnmatch
 import string
+from nltk.corpus import stopwords
 
 
 def transcript_parser(file_name):
@@ -222,7 +223,7 @@ def create_dfs_per_speaking_party(df):
 
 
 
-def get_features(df, corpus = False):
+def get_features(df, want_corpus = True):
     """
     Summary:
         Given the dataframes from the create_dfs_per_speaking_party function, this function gets the features desired from the transcripts, 
@@ -237,13 +238,18 @@ def get_features(df, corpus = False):
         num_words [int]: total number of words
         num_questions [int]: total number of questions asked
         num_interruptions [int]: total number of times interrupted
-        corpus [string]: corpus of words, excluding punctuation
+        corpus [string]: corpus of words, excluding punctuation and stopwords
     """
     
     punctuation_ = set(string.punctuation)
+    STOPWORDS = set(stopwords.words('english'))
 
     if len(df) == 0:
-        return 0.0, 0, 0, 0
+        if want_corpus == False:
+            return 0.0, 0, 0, 0
+        else:
+            return 0.0, 0, 0, 0, ''
+            
     else:
         talk_time  = round(df.sum()['total_time'],0)
     
@@ -255,11 +261,19 @@ def get_features(df, corpus = False):
 
         #remove punctuation
         for i in punctuation_:
-            corpus = corpus.replace(i,'')    
+            corpus = corpus.replace(i,'')
+        #remove Stopwords
+        for word in STOPWORDS:
+            token = ' ' + word + ' '
+            corpus = corpus.replace(token, ' ')
+            corpus = corpus.replace(' ', ' ')
+        #lower case
+        corpus = corpus.lower()
+
         lst_of_words = corpus.split(' ')
         num_words = len(lst_of_words)
 
-        if corpus == True:
+        if want_corpus == True:
             return talk_time, num_words, num_questions, num_interruptions, corpus
         else:
             return talk_time, num_words, num_questions, num_interruptions
@@ -280,78 +294,78 @@ def generate_features_for_model_df(file_name, df_advocates_section_map):
     """
     df = pd.read_csv('transcript_csvs/' + file_name)
     
-    #####experiment
-    lst_of_phrases = list(df.text)
-    corpus = ' '.join(lst_of_phrases)
-    punctuation_ = set(string.punctuation)
-    for i in punctuation_:
-        corpus = corpus.replace(i,'') 
-    ####
+
     df_join = add_labels_to_df(df, df_advocates_section_map)
     
     df_p, df_p_j, df_r, df_r_j, df_ac, df_ac_j, df_ac_p, df_ac_p_j, df_ac_r, df_ac_r_j = create_dfs_per_speaking_party(df_join)
     
-    tt_p, w_p, q_p, i_p = get_features(df_p)
-    tt_p_j, w_p_j, q_p_j, i_p_j = get_features(df_p_j)
-    tt_r, w_r, q_r, i_r = get_features(df_r)
-    tt_r_j, w_r_j, q_r_j, i_r_j = get_features(df_r_j)
-    tt_ac, w_ac, q_ac, i_ac = get_features(df_ac)
-    tt_ac_j, w_ac_j, q_ac_j, i_ac_j = get_features(df_ac_j)
-    tt_ac_p, w_ac_p, q_ac_p, i_ac_p = get_features(df_ac_p)
-    tt_ac_p_j, w_ac_p_j, q_ac_p_j, i_ac_p_j = get_features(df_ac_p_j)
-    tt_ac_r, w_ac_r, q_ac_r, i_ac_r = get_features(df_ac_r)
-    tt_ac_r_j, w_ac_r_j, q_ac_r_j, i_ac_r_j = get_features(df_ac_r_j)
+    tt_p, w_p, q_p, i_p, c_p = get_features(df_p, want_corpus = True)
+    tt_p_j, w_p_j, q_p_j, i_p_j, c_p_j = get_features(df_p_j, want_corpus = True)
+    tt_r, w_r, q_r, i_r, c_r = get_features(df_r, want_corpus = True)
+    tt_r_j, w_r_j, q_r_j, i_r_j, c_r_j = get_features(df_r_j, want_corpus = True)
+    tt_ac, w_ac, q_ac, i_ac, c_ac = get_features(df_ac, want_corpus = True)
+    tt_ac_j, w_ac_j, q_ac_j, i_ac_j, c_ac_j = get_features(df_ac_j, want_corpus = True)
+    tt_ac_p, w_ac_p, q_ac_p, i_ac_p, c_ac_p = get_features(df_ac_p, want_corpus = True)
+    tt_ac_p_j, w_ac_p_j, q_ac_p_j, i_ac_p_j, c_ac_p_j= get_features(df_ac_p_j, want_corpus = True)
+    tt_ac_r, w_ac_r, q_ac_r, i_ac_r, c_ac_r = get_features(df_ac_r, want_corpus = True)
+    tt_ac_r_j, w_ac_r_j, q_ac_r_j, i_ac_r_j, c_ac_r_j = get_features(df_ac_r_j, want_corpus = True)
     
     d = {}
     
     d['file_name'] = str(max(df.file_name))
 
-    #experiment of adding corpus
-    d['corpus'] = corpus
-
     # Petitioner - Judge
     d['talk_time_petitioner'] = tt_p
     d['words_petitioner'] = w_p
     d['interruptions_petitioner'] = i_p
+    d['corpus_petitioner'] = c_p
 
     d['talk_time_petitioner_justice'] = tt_p_j
     d['words_petitioner_justice'] = w_p_j
     d['questions_petitioner_justice'] = q_p_j
+    d['corpus_petitioner_justice'] = c_p_j
 
     # Respondent - Judge
     d['talk_time_respondent'] = tt_r
     d['words_respondent'] = w_r
     d['interruptions_respondent'] = i_r
+    d['corpus_respondent'] = c_r
 
     d['talk_time_respondent_justice'] = tt_r_j
     d['words_respondent_justice'] = w_r_j
     d['questions_respondent_justice'] = q_r_j
+    d['corpus_respondent_justice'] = c_r_j
 
     # Amicus Neutral - Judge
     d['talk_time_amicus_neutral'] = tt_ac
     d['words_amicus_neutral'] = w_ac
     d['interruptions_amicus_neutral'] = i_ac
+    d['corpus_amicus_neutral'] = c_ac
 
     d['talk_time_amicus_neutral_justice'] = tt_ac_j
     d['words_amicus_neutral_justice'] = w_ac_j
     d['questions_amicus_neutral_justice'] = q_ac_j    
-    
+    d['corpus_amicus_neutral_justice'] = c_ac_j
+
     # Amicus Petitioner - Judge
     d['talk_time_amicus_petitioner'] = tt_ac_p
     d['words_amicus_petitioner'] = w_ac_p
     d['interruptions_amicus_petitioner'] = i_ac_p
+    d['corpus_amicus_petitioner'] = c_ac_p
 
     d['talk_time_amicus_petitioner_justice'] = tt_ac_p_j
     d['words_amicus_petitioner_justice'] = w_ac_p_j
     d['questions_amicus_petitioner_justice'] = q_ac_p_j  
-    
+    d['corpus_amicus_petitioner_justice'] = c_ac_p_j
+
     # Amicus Respondent - Judge
     d['talk_time_amicus_respondent'] = tt_ac_r
     d['words_amicus_respondent'] = w_ac_r
     d['interruptions_amicus_respondent'] = i_ac_r
+    d['corpus_amicus_respondent'] = c_ac_r
 
     d['talk_time_amicus_respondent_justice'] = tt_ac_r_j
     d['words_amicus_respondent_justice'] = w_ac_r_j
     d['questions_amicus_respondent_justice'] = q_ac_r_j
-    
+    d['corpus_amicus_respondent_justice'] = c_ac_r_j
     return d
