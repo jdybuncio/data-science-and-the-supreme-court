@@ -21,11 +21,11 @@ def transcript_parser(file_name):
     """
 
     path_to_check = file_name.replace('.-t01.json','.csv')
-    if os.path.exists('./transcript_csvs/' + path_to_check):
+    if os.path.exists('./data/transcript_csvs/' + path_to_check):
         return None #no need to run if file already exists locally
 
     #open file and store in contents variable
-    with open('cases/'+file_name) as f:
+    with open('./data/cases/'+file_name) as f:
         contents = json.load(f)
         
     #1 - focus on data contained in sections
@@ -87,7 +87,7 @@ def transcript_parser(file_name):
                 
     df = pd.DataFrame(output, columns = ['file_name','section','speaker_name', 'speaker_role', 'start','stop','text'])
     df['total_time'] = np.where(df.stop - df.start>=0.0, df.stop - df.start, 0)
-    df.to_csv('transcript_csvs/{}.csv'.format(file_name.replace('-t01.json','')), index=False)  
+    df.to_csv('./data/transcript_csvs/{}.csv'.format(file_name.replace('-t01.json','')), index=False)  
     
 
 def section_label_generator(file_name, df_advocates):
@@ -103,7 +103,7 @@ def section_label_generator(file_name, df_advocates):
         df: [dataframe]: Dataframe where each row is a section with the label of which party is represented
     """
     # 1 - Read in File
-    transcript_file = pd.read_csv('transcript_csvs/' +file_name)
+    transcript_file = pd.read_csv('./data/transcript_csvs/' +file_name)
     
     # 2 - Ignore Judges lines
     transcript_file = transcript_file[transcript_file.speaker_role != 'scotus_justice']
@@ -134,7 +134,7 @@ def create_section_map_df(df_advocates):
         ./data/df_advocates_section_map.csv [csv]:  Saves Dataframe as csv
     """
 
-    for idx,filename in enumerate(os.listdir('./transcript_csvs')):
+    for idx,filename in enumerate(os.listdir('./data/transcript_csvs')):
         if idx == 0:
             df = section_label_generator(filename, df_advocates)
         else:
@@ -292,7 +292,7 @@ def generate_features_for_model_df(file_name, df_advocates_section_map):
         d [dict]: Dictionary of created features for the passed in case
         
     """
-    df = pd.read_csv('transcript_csvs/' + file_name)
+    df = pd.read_csv('./data/transcript_csvs/' + file_name)
     
 
     df_join = add_labels_to_df(df, df_advocates_section_map)
