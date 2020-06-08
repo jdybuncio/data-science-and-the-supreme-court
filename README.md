@@ -80,16 +80,16 @@ Once a case is Granted, there is usually around 160 days before it is argued in 
 
 ## The Data
 
-The dataset I use consists of over 6,000 Supreme Court Cases with transcribed oral arguments dating back to 1955. After removing cases which have missing data, and only looking at Cases which have one oral argument, I am left with a sample of 5,567 Supreme Court Cases. The distirbutuon of cases by Year is shown in the following histogram. The decrease in Cases per Year which starts in 1988 is due to the passing of the Supreme Court Case Selections Act which gave the court additional discretion of the cases they choose to take/pass.
+The dataset I use consists of over 6,000 Supreme Court Cases with transcribed oral arguments dating back to 1955. After removing cases which have missing data, and only looking at Cases which have one oral argument, I am left with a sample of 5,567 Supreme Court Cases. The distirbutuon of cases by Year is shown in the following histogram. The decrease in Cases per Year which starts in 1988 (highlighted by the brown dashed line) is due to the passing of the Supreme Court Case Selections Act which gave the court additional discretion over the cases they can choose to take/pass.
 
 <p align="center">
   <img src="images/histogram_cases.png" width = 500>
 </p>
 
-The following depicts the structure in how I parse the transcriptions of oral arguments into numerical data, such as the number of words, questions, interruptions, and total talk time each party has. I used the Case level data to find labels for both the speakers - so I can identify when the Petitioner, Respondent, or Justice is speaking, and who they are speaking to - also for which side wins the case.
+The following depicts the structure in how I parse the transcripts of oral arguments into numerical data, such as the number of words, questions, interruptions, and total talk time each party has. I added to what is shown by using the Case level data to find labels for both the speakering parties - i.e. so I can identify when the Petitioner, Respondent, or Justice is speaking, and who they are speaking to - and also for which side wins the case.
 
 <p align="center">
-  <img src="images/dataframe_workflow.png" width = 600>
+  <img src="images/dataframe_workflow.png" width = 750>
 </p>
 
 
@@ -103,7 +103,7 @@ I hypothesize that, using data just from oral arguments, I will be able to creat
 
 # Exploratory Data Analysis Highlights
 
-The Petitioner wins in 63% of the Cases I have in my sample, and the Respondent wins in 37% of cases. This follows in-line with what is known. This is logical given that a Case, which the Petitioner brings to the Court, requires 4 votes by the Justices to be Granted and then only 5 votes to have the majority and win the case - though a lot can happen from the time a case is granted and there are several examples of a Petitioner getting no votes when the Decision comes. 
+The Petitioner wins in 63% of the Cases I have in my sample, and the Respondent wins in 37% of cases. This follows in-line with what is known. This is logical given that a Case, which the Petitioner brings to the Court, requires 4 votes by the Justices to be Granted and then only 5 votes to have the majority and win the case - though a lot can happen from the time a case is Granted, Argued, and Decided and there are several examples of a Petitioner getting no votes when the Decision comes. 
 
 Due to this imbalance, I make sure to stratify my data when I apply a Train-Test split to maintain this same class balance in my Train and Test sets.
 
@@ -114,7 +114,7 @@ Due to this imbalance, I make sure to stratify my data when I apply a Train-Test
 </p>
 
 
-The following two graphs take the difference in Questions and Interruptions by the Justices to the Petitioner and to the Respondent and assigns each case to one of five buckets. The graphs show the Petitioner Win Rate % in each of these buckets. For example, Petitioners who received between 14 and 127 more questions than the Respondent won 51% of cases, which is relative to a win rate of 73% for Petitioners who received 13 or less questions that the Respondent.
+The following graph takes the difference in Questions by the Justices to the Petitioner and to the Respondent and assigns each case to one of five buckets. The graphs show the Petitioner Win Rate % in each of these buckets. For example, Petitioners who received between 14 and 127 more questions than the Respondent won 51% of cases, which is relative to a win rate of 73% for Petitioners who received 13 or less questions that the Respondent.
 
 * **Relationships to Petitioner Winning Rates across some demographic variables**
 
@@ -122,7 +122,7 @@ The following two graphs take the difference in Questions and Interruptions by t
   <img src="images/EDA_Diff_Questions.png" width = 400>
 </p>
 
-While I convert transcripts to numerical data, I also conserved the transcriptions to be able to apply NLP and LSTM techniques. The following shows the 20 most frequent words used in oral arguments after removing Stop Words. The <OOV> is a catch call for words outside of the 10,000 most-used ones.
+While I convert transcripts to numerical data, I also conserved the transcriptions to be able to create NLP featues and also fit an LSTM model. The following shows the 20 most frequent words used in oral arguments after removing Stop Words. The <OOV> is a catch call for words outside of the 10,000 most-used ones.
 
 * **20 most frequent words found**
 
@@ -138,59 +138,60 @@ While I convert transcripts to numerical data, I also conserved the transcriptio
 
 The metric I chose to evaluate my models was to optimize the **F1-Score** since I care more about the positive class and want to:
 * Maximize Recall: Predict maximum % of Cases where the Petitioner Wins
-* Maxmize Precision: Maximize the % predicted Petitioner Wins actually are cases in which the Petitioner Wins
+* Maxmize Precision: Maximize the % of Predicted Petitioner Wins which are actually cases in which the Petitioner Wins
 
 [Back to Top](#Table-of-Contents)
 
 ## Model Evaluation
-I used Cross Validation to evaluate the F1 of each of my models in order to direct my hyperparameter tuning and feature selection. 
 
-I also used SKLearn's GridSearch to find the best values for the hyperparameters in my Random Forest and Boosting models.
+<p align="center">
+  <img src="images/modeling_workflow.png" width = 700>
+</p>
 
+The above shows the Modeling Workflow I applied. I used Cross Validation to evaluate the F1 Score of each of my models in order to direct my hyperparameter tuning and feature selection. I fit 3 main type of features across the different models I tuned:
+* Numerical Features: Talk Time, Words, Interruptions, and Questions for each speaking direction (ex: Petitioner to Justice, Justice to Petitioner).
+* Numerical Features with added Tf-idf Features from NLP extraction
+* LSTM Model using the entire oral argument and outcome label
+
+[Back to Top](#Table-of-Contents)
+
+## Chosen Model
+My Random Forest Model which included the Tf-idf features had the highest average F1-score in my cross validation. I found that none of my models though outperformed a Baseline set by a Petitioner always wins strategy in any significant way. Below is an example of the parameters, with the best ones highlighted and underline, used via SKLearn's GridSearch to find the best values for the hyperparameters in my Random Forest model. 
 
 <p align="center">
   <img src="images/grid_search.png" width = 400>
 </p>
 
-[Back to Top](#Table-of-Contents)
-
-## Chosen Model
-My Gradient Boost Model which included all the VLE interaction features I created had the highest AUC (0.77 - represented by the navy line in the image below). I got the same AUC when using my model to predict my validation set and also the testing set. The parameters of this model were:
-n_estimators = 400, learning_rate = 0.2
-                                      ,min_samples_split = 5
-                                      ,min_samples_leaf = 100
-                                      ,max_depth = 3
-                                      ,max_features = 'sqrt'
-                                      ,and subsample = 1.
-
-
-
-<p align="center">
-  <img src="images/final_results_table.png" width = 400>
-</p>
 
 <p align="center">
   <img src="images/final_results.png" width = 400>
 </p>
 
-<p align="center">
-  <img src="images/precision_recall_curve.png" width = 400>
-</p>
-
 
 ## Feature Importance
-Below shows the Top 10 Features measured using SKLearn's feature importance from my chosen Gradient Boost model.
+Below shows the Top 10 Features measured using SKLearn's feature importance from my chosen Random Forest model.
 
 <p align="center">
   <img src="images/feature_importance.png" width = 400>
 </p>
 
 ## Results and Interpretation
-From my best Gradient Boost model, at a **threshold of 0.39**, I have:
-* TPR (true-positive-rate), i.e. the percentage of students who fail that I accurately predict, to be **0.80**. 
-* FPR (false-positive-rate), i.e. the percentage of students who pass that I predict to fail, to be **0.42**
 
-So my model can predict 80% of the students who will Fail on the first day of class, but it will also  predict 42% of those who will pass, would Fail. The most important features in my model relate to the number of clicks a student has on the homepage before Day 1 of the class and the total number of days interacting with any of the VLE material before the first day of class.
+* Precision-Recall Curve of Best Model at various Thresholds
+<p align="center">
+  <img src="images/precision_recall_curve.png" width = 600>
+</p>
+
+
+<p align="center">
+  <img src="images/final_results_table.png" width = 400>
+</p>
+
+From my best Random Forest model, at a **threshold of 0.51**, I have:
+* Recall - the percentage of Petitioner wins  that I accurately predict, to be **0.96**. 
+* Precision -  the percentage of Petitioner Win predictions are actually cases where they Win, to be **0.66**
+
+My best model is not very different than a Petitioner always wins strategy and, in the end, my model's F1-Score was equal to that of a Petitioner always Wins strategy when used to predict the outcomes of my Test Data.
 
 [Back to Top](#Table-of-Contents)
 
