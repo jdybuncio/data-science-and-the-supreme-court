@@ -20,7 +20,7 @@ def case_detail_parser(file_name):
 
     path_to_check = file_name.replace('.json','.csv')
     
-    if os.path.exists('./case_csvs/' + path_to_check):
+    if os.path.exists('./data/case_csvs/' + path_to_check):
         return None #no need to run if file already exists locally
 
     with open('cases/'+file_name) as f:
@@ -59,8 +59,8 @@ def case_detail_parser(file_name):
         
     
     df = pd.DataFrame(d)
-    df.to_csv('case_csvs/{}.csv'.format(file_name.replace('.json','')), index=False)  
-    print('Successfully parsed Case JSON Files')
+    df.to_csv('./data/case_csvs/{}.csv'.format(file_name.replace('.json','')), index=False)  
+    # print('Successfully parsed Case JSON Files')
             
 def number_cases():
     """Summary:
@@ -81,7 +81,7 @@ def number_cases():
     case_transcript_files4 = []
     case_USfiles = []
 
-    for filename in os.listdir('./cases'):
+    for filename in os.listdir('./data/cases'):
         if filename.endswith("-t01.json"):
             case_transcript_files.append(filename)
         elif filename.endswith("-t02.json"):
@@ -173,13 +173,13 @@ def concat_case_details():
     """
 
     # Read through each Case file from the ./case_csvs local repo. And put them all into one file so each case is one row
-    for idx,filename in enumerate(os.listdir('./case_csvs')):
+    for idx,filename in enumerate(os.listdir('./data/case_csvs')):
         
         if idx == 0:
-            df = pd.read_csv('case_csvs/'+filename)
+            df = pd.read_csv('./data/case_csvs/'+filename)
         else:
             try:
-                df2 = pd.read_csv('case_csvs/'+filename)
+                df2 = pd.read_csv('./data/case_csvs/'+filename)
                 df = pd.concat([df,df2], sort = False)
             except pd.errors.ParserError:
                 continue
@@ -551,7 +551,7 @@ def create_advocate_dataframe(df):
     df_advocates = pd.merge(df_advocates, advocate_labels, how = 'inner',left_index = True, right_index = True)[['file_name','advocate','advocate_label']]
 
     df_advocates.to_csv('./data/df_advocates.csv')
-    print('Successfully created df_cases in data directory')
+    print('Successfully created df_advocates in data directory')
     return df_advocates
 
 
