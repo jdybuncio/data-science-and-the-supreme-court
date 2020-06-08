@@ -148,28 +148,25 @@ The metric I chose to evaluate my models was to optimize the **F1-Score** since 
   <img src="images/modeling_workflow.png" width = 700>
 </p>
 
-The above shows the Modeling Workflow I applied. I used Cross Validation to evaluate the F1 Score of each of my models in order to direct my hyperparameter tuning and feature selection. I fit 3 main type of features across the different models I tuned:
+The above shows the Modeling Workflow I applied. I used Cross Validation to evaluate the F1 Score of each of my models in order to direct my hyperparameter tuning and feature selection. I fit 3 main type of feature sets across the different models I tuned:
 * Numerical Features: Talk Time, Words, Interruptions, and Questions for each speaking direction (ex: Petitioner to Justice, Justice to Petitioner).
 * Numerical Features with added Tf-idf Features from NLP extraction
-* LSTM Model using the entire oral argument and outcome label
+* Entire Oral Argument Transcript: I fit an LSTM Model using the entire oral argument and Case outcome label.
 
 [Back to Top](#Table-of-Contents)
 
 ## Chosen Model
-My Random Forest Model which included the Tf-idf features had the highest average F1-score in my cross validation. I found that none of my models though outperformed a Baseline set by a Petitioner always wins strategy in any significant way. Below is an example of the parameters, with the best ones highlighted and underline, used via SKLearn's GridSearch to find the best values for the hyperparameters in my Random Forest model. 
+My Random Forest Model which included the Tf-idf features had the highest average F1-score of **0.79** from my cross validation (Recall = 0.98 Precision = 0.65). This barely outperformed a Baseline set by a Petitioner always wins strategy in any significant way and closely mimicked it by almost always predicting the Petitioner Wins.
+
+Below is an example of the parameters I used via SKLearn's GridSearch to find the best values for the hyperparameters in my Random Forest model:
 
 <p align="center">
   <img src="images/grid_search.png" width = 400>
 </p>
 
 
-<p align="center">
-  <img src="images/final_results.png" width = 400>
-</p>
-
-
 ## Feature Importance
-Below shows the Top 10 Features measured using SKLearn's feature importance from my chosen Random Forest model.
+Below shows the Top 10 Features measured using SKLearn's feature importance from my chosen Random Forest model. I 
 
 <p align="center">
   <img src="images/feature_importance.png" width = 400>
@@ -177,14 +174,21 @@ Below shows the Top 10 Features measured using SKLearn's feature importance from
 
 ## Results and Interpretation
 
+* Model & Baseline Results against Test Set
+
+<p align="center">
+  <img src="images/final_results_table.png" width = 400>
+</p>
+
 * Precision-Recall Curve of Best Model at various Thresholds
 <p align="center">
   <img src="images/precision_recall_curve.png" width = 600>
 </p>
 
+* Final Results broken down into its parts
 
 <p align="center">
-  <img src="images/final_results_table.png" width = 400>
+  <img src="images/final_results.png" width = 400>
 </p>
 
 From my best Random Forest model, at a **threshold of 0.51**, I have:
@@ -196,9 +200,12 @@ My best model is not very different than a Petitioner always wins strategy and, 
 [Back to Top](#Table-of-Contents)
 
 # Conclusion
-With a movement on-line, we have access to new student data which can help students, teachers and administrators better achieve success, however defined. This repository shows that tracked student behavior with class materials before a class officially begins is a strong predictor for student success and failure, relative to student demogrographics and class information for the given dataset observed. This is not surprising since interaction with materials before Day 1 could be a proxy which captures student preparedness and how serious one is taking the course, especially in an online environment where 30%+ of students eventually withdraw. Student interaction variables give us a way to capture this, unlike in in-person settings.
 
-I speculate that as schools move increasingly online, more work will be done to mine the new data collected, such as that discussed in this repository, and will be used for new applications we otherwise were not privy to in in-person settings.
+> The secret to successful advocacy, is simply to get the court to ask your opponent more questions.” - Chief Justice Roberts
+
+There is a belief, that was even echoed by the current Chief Justice, although playfully,that the difference in questions one side receives relative to another is a predictor of a Supreme Court Case's outcome. The work in this repository does not find this to be the case. I find that the largest predictor of a Supreme Court Case's outcome is which side brings the case to the Court which logically fits due to the nature that doing so requires 4 votes by the Justices to be Granted, and then only 5 votes to end up winning the Case.
+
+The dataset I used only consists of Oral Arguments which is limiting given that they are usually 1 hour timed sessions, and a lot about a case is decided outside of the room during that time. But it is appealing to try to leverage this data in some way given its publicly available nature.  In future work, I would like to expand this to see if I could leverage oral arguments to predict a certain Justice's vote and I would also look to supplement this datasource by adding a category of a broad topic which I could tie to each case. 
 
 [Back to Top](#Table-of-Contents)
 
