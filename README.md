@@ -110,7 +110,7 @@ Due to this imbalance, I make sure to stratify my data when I apply a Train-Test
 * **Class Balance**
 
 <p align="center">
-  <img src="images/class_balance.png" width = 400>
+  <img src="images/class_balance.png" width = 350>
 </p>
 
 
@@ -169,7 +169,7 @@ Below is an example of the parameters I used via SKLearn's GridSearch to find th
 Below shows the Top 10 Features measured using SKLearn's feature importance from my chosen Random Forest model. I 
 
 <p align="center">
-  <img src="images/feature_importance.png" width = 400>
+  <img src="images/feature_importance.png" width = 550>
 </p>
 
 ## Results and Interpretation
@@ -188,7 +188,7 @@ Below shows the Top 10 Features measured using SKLearn's feature importance from
 * Final Results broken down into its parts
 
 <p align="center">
-  <img src="images/final_results.png" width = 400>
+  <img src="images/final_results.png" heigh = 600>
 </p>
 
 From my best Random Forest model, at a **threshold of 0.51**, I have:
