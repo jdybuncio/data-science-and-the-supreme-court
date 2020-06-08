@@ -210,9 +210,26 @@ My best model is not very different than a Petitioner always wins strategy and, 
 > The secret to successful advocacy, is simply to get the court to ask your opponent more questions.” 
 - Chief Justice Roberts [source](https://www.nytimes.com/2009/05/26/us/26bar.html?smid=nytcore-ios-share)
 
-There is a belief, that was even echoed by the current Chief Justice, although playfully,that the difference in questions one side receives relative to another is a predictor of a Supreme Court Case's outcome. The work in this repository does not find this to be the case. I find that the largest predictor of a Supreme Court Case's outcome is which side brings the case to the Court which logically fits due to the nature that doing so requires 4 votes by the Justices to be Granted, and then only 5 votes to end up winning the Case.
+There is a belief, that was even echoed by the current Chief Justice, that the difference in questions one side receives relative to another is a predictor of a Supreme Court Case's outcome. I did find this feature to be one of my most prevalent in my best Random Forest Model, but the work in this repository does not find that a model using this feature is any better than a Petitioner always wins strategy. 
 
-The dataset I used only consists of Oral Arguments which is limiting given that they are usually 1 hour timed sessions, and a lot about a case is decided outside of the room during that time. But it is appealing to try to leverage this data in some way given its publicly available nature.  In future work, I would like to expand this to see if I could leverage oral arguments to predict a certain Justice's vote and I would also look to supplement this datasource by adding a category of a broad topic which I could tie to each case. 
+I find that the largest predictor of a Supreme Court Case's outcome is which side brings the case to the Court which logically fits due to the nature that doing so requires 4 votes by the Justices to be Granted, and then only 5 votes to end up winning the Case. 
+
+I did run some tests where, instead of optimizing for an F-1 Score, I optimized for Accuracy and I did find that I could create a model which has an Accuracy on the Test Set of 67% (F1-Score: 0.77, Recall: .87, Precision: .68). This is closer in line of what I see studies quoting, which is that they can predict the outcome of a case at around 65-70% accuracy [source](https://fivethirtyeight.com/features/how-to-read-the-mind-of-a-supreme-court-justice/). I find these studies to be misleading due to the fact that 63% of the time the Petitioner side wins and while one can get to a model which improves upon that accuracy, it is a question of if Accuracy is a good metric to optimize for.
+
+For example: which model would one rather have:
+
+**Petitioner Always Win's Strategy**
+* Recall - the percentage of Petitioner wins  that I accurately predict, to be **1,00**. 
+* Precision -  the percentage of Petitioner Win predictions are actually cases where they Win, to be **0.63**
+
+or
+
+**Model @ 67% Accuracy**
+* Recall - the percentage of Petitioner wins  that I accurately predict, to be **0.87**. 
+* Precision -  the percentage of Petitioner Win predictions are actually cases where they Win, to be **0.68**
+
+
+In terms of future work, the dataset I used only consists of Oral Arguments which is limiting given that they are usually 1 hour timed sessions, and a lot about a case is decided outside of the room during that time. Butm it is appealing to try to leverage this data in some way given its publicly available nature, of an otherwise, opaque process.  In future work, I would like to expand this to see if I could leverage oral arguments to predict a certain Justice's vote and I would also look to supplement this datasource by adding a category which I could tie to each case. 
 
 [Back to Top](#Table-of-Contents)
 
@@ -221,6 +238,5 @@ The dataset I used only consists of Oral Arguments which is limiting given that 
 
 * JSON files for Case Data and Oral Argument Transcriptions come from Oyez.org
 * I retrieved these files using the following github repository: https://github.com/walkerdb/supreme_court_transcripts
-
 
 [Back to Top](#Table-of-Contents)
