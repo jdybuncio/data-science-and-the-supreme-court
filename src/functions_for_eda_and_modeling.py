@@ -45,28 +45,6 @@ def plot_bar(column_to_compare, df, ax):
                      textcoords='offset points')
     _ = g.set_ylim(0,1) #
 
-def calculate_threshold_values(prob, y):
-    '''
-    Build dataframe of the various confusion-matrix ratios by threshold
-    from a list of predicted probabilities and actual y values
-    '''
-    df = pd.DataFrame({'prob': prob, 'y': y})
-    df.sort_values('prob', inplace=True)
-    
-    actual_p = df.y.sum()
-    actual_n = df.shape[0] - df.y.sum()
-
-    df['tn'] = (df.y == 0).cumsum()
-    df['fn'] = df.y.cumsum()
-    df['fp'] = actual_n - df.tn
-    df['tp'] = actual_p - df.fn
-
-    df['fpr'] = df.fp/(df.fp + df.tn)
-    df['tpr'] = df.tp/(df.tp + df.fn)
-    df['precision'] = df.tp/(df.tp + df.fp)
-    df = df.reset_index(drop=True)
-    return df
-
 def find_words_per_argument(df_model):
     """
     Summary:
@@ -117,18 +95,6 @@ def find_words_per_argument(df_model):
         d[col] = (total_unique_words, round(avg_words_per_case,0),round(unique_words_per_case,0))
     return d
 
-def plot_precision_recall(ax, df):
-    ax.plot(df.tpr,df.precision, label='precision/recall')
-    #ax.plot([0,1],[0,1], 'k')
-    ax.set_xlabel('recall')
-    ax.set_ylabel('precision')
-    ax.set_title('Precision/Recall Curve')
-    ax.plot([0,1],[df.precision[0],df.precision[0]], 'k', label='random')
-    ax.set_xlim(xmin=0,xmax=1)
-    ax.set_ylim(ymin=0,ymax=1)
-
-
-
 def train_validation_split(df_model, cols_to_include, label = 'petitioner_wins', test_size_param = 0.20, shuffe_param = True):
     """
     Summary:
@@ -161,7 +127,6 @@ def train_validation_split(df_model, cols_to_include, label = 'petitioner_wins',
     y_test = y_test.reset_index(drop = True)
 
     return X_train, X_test, y_train, y_test
-
 
 def create_tfid_features(X_train, X_test, cols_to_vectorize = 'corpus_petitioner', max_features = 10000):
     """
@@ -209,7 +174,6 @@ def create_tfid_features(X_train, X_test, cols_to_vectorize = 'corpus_petitioner
     X_test_v = X_test_v.fillna(0)
 
     return X_train_v, X_test_v
-
 
 def scaler(X_train, X_test):
     """
@@ -319,7 +283,6 @@ def test_evaluation(X_train, X_test, y_train, y_test, fit_model):
     df = df.round(2)
     return df
 
-
 def feature_importance(fit_classifier, X_train, X_test, y_train, y_test, color ='red'):
     """
     Summary:
@@ -361,7 +324,6 @@ def feature_importance(fit_classifier, X_train, X_test, y_train, y_test, color =
 
     plt.show();
 
-
 def plot_one_decision_tree(fit_classifier, X_train):
 
     # Extract single tree
@@ -371,6 +333,38 @@ def plot_one_decision_tree(fit_classifier, X_train):
     tree.plot_tree(estimator, feature_names = list(X_train.columns) , class_names = ['P_Win','P_Lose'],label = True, rounded = True, ax=ax, fontsize = 12)
     plt.show();
 
+def calculate_threshold_values(y, prob):
+    '''
+    Build dataframe of the various confusion-matrix ratios by threshold
+    from a list of predicted probabilities and actual y values
+    '''
+    df = pd.DataFrame({'prob': prob, 'y': y})
+    df.sort_values('prob', inplace=True)
+    
+    actual_p = df.y.sum()
+    actual_n = df.shape[0] - df.y.sum()
+
+    df['tn'] = (df.y == 0).cumsum()
+    df['fn'] = df.y.cumsum()
+    df['fp'] = actual_n - df.tn
+    df['tp'] = actual_p - df.fn
+
+    df['fpr'] = df.fp/(df.fp + df.tn)
+    df['tpr'] = df.tp/(df.tp + df.fn)
+    df['precision'] = df.tp/(df.tp + df.fp)
+    df = df.reset_index(drop=True)
+    return df
+
+def plot_precision_recall(ax, df):
+    ax.plot(df.tpr,df.precision, label='precision/recall')
+    #ax.plot([0,1],[0,1], 'k')
+    ax.set_xlabel('recall')
+    ax.set_ylabel('precision')
+    ax.set_title('Precision/Recall Curve')
+    ax.plot([0,1],[df.precision[0],df.precision[0]], 'k', label='random')
+    ax.set_xlim(xmin=0,xmax=1)
+    ax.set_ylim(ymin=0,ymax=1)
+    
 if __name__ == "__main__":
     df = pd.read_csv('data/df_modeling.csv', index_col = 0)
 
@@ -428,7 +422,7 @@ if __name__ == "__main__":
     X_train, X_test, y_train, y_test = train_validation_split(df_model, cols_to_include, label = 'petitioner_wins')
 
     # Train - Test Split for tf-id features
-    X_train_v, X_test_v = create_tfid_features(X_train, X_test, cols_to_vectorize = 'corpus_petitioner', max_features = 10000)
+    X_train_v, X_test_v = create_tfid_features(X_train, X_test, cols_to_vectorize = 'corpus_petitioner', max_features = 5000)
 
     # Scale Features
     scaler_object, X_train_scaled, X_test_scaled = scaler(X_train, X_test)
@@ -438,8 +432,8 @@ if __name__ == "__main__":
     models_lst = [
             LogisticRegression(max_iter=10000), 
             RandomForestClassifier(), 
-            GradientBoostingClassifier(),
-            XGBClassifier()
+            GradientBoostingClassifier()
+            # ,XGBClassifier()
              ]
 
 
@@ -462,17 +456,17 @@ if __name__ == "__main__":
     'min_samples_split': [5, 10, 50],        
     'min_samples_leaf': [5, 10, 50],
     'max_depth': [3, None],  
-    'random_state': [42]},
-
-    {'n_estimators': [100,200,500,1000],
-    'learning_rate': [0.1, 0.05, .01],
-    'max_depth': [3, 6, 10],  
-    'min_child_weight': [3,6,10],  
-    'objective': ['binary:logistic'],
-    'gamma':[i/10.0 for i in range(0,5)],
-    'eval_metric' : ['auc'],
-    'nthread' : [4],
     'random_state': [42]}
+
+    # ,{'n_estimators': [100,200,500,1000],
+    # 'learning_rate': [0.1, 0.05, .01],
+    # 'max_depth': [3, 6, 10],  
+    # 'min_child_weight': [3,6,10],  
+    # 'objective': ['binary:logistic'],
+    # 'gamma':[i/10.0 for i in range(0,5)],
+    # 'eval_metric' : ['auc'],
+    # 'nthread' : [4],
+    # 'random_state': [42]}
     ]
 
     tuned_models = []
@@ -495,5 +489,61 @@ if __name__ == "__main__":
     plot_one_decision_tree(best_model, X_train_scaled)
     feature_importance(best_model,  X_train_scaled, X_test_scaled, y_train, y_test)
 
+    predicted_probas = best_model.predict_proba(X_test_scaled)
+    df_confusion_matrix = calculate_threshold_values(y_test, probas[:,1])
 
+    fig, ax = plt.subplots(figsize  = (14,8))
+    plot_precision_recall(ax, df)
+    plt.plot()
+
+
+
+    ##### Modeling - NLP ##### 
+
+    models_lst = [
+            LogisticRegression(max_iter=10000), 
+              RandomForestClassifier(), GradientBoostingClassifier()]
+
+    #Initial List
+    model_params_lst = [ 
+    {'C': [1],
+    'solver' : ['lbfgs'],
+    'random_state': [42],
+    'n_jobs' : [-1]},
     
+    {'n_estimators': [100], 
+#     'max_features': ['sqrt', 0.25,.50,None],
+#     'min_samples_split': [5, 10, 50],        
+#     'min_samples_leaf': [5, 10, 50],
+#     'max_depth': [3, None],
+#     'bootstrap': [True, False],
+     'n_jobs' : [-1],
+    'random_state': [42]},
+
+   {'n_estimators': [100],
+#     'learning_rate': [0.1, 0.05, .01],
+#     'max_features': [None],
+#     'min_samples_split': [5, 10, 50],        
+#     'min_samples_leaf': [5, 10, 50],
+#     'max_depth': [3, None],  
+    'random_state': [42]}
+    ]
+
+    tuned_models_nlp = []
+    f1_scores_nlp = []
+
+
+    for model, model_params in zip(models_lst, model_params_lst):
+        print(model)
+        print(model_params)
+        tuned_model, f1_score = model_selection(X_train_v, y_train, model, model_params, cv_param = 3, scoring_param = 'f1' )
+        tuned_models_nlp.append(tuned_model)
+        f1_scores_nlp.append(f1_score)
+    
+    index_of_max_f1_nlp = np.argmax(f1_scores_nlp)
+    best_model_nlp = tuned_models[index_of_max_f1_nlp]
+
+    df_nlp  = test_evaluation(X_train_v, X_test_v, y_train, y_test, best_model_nlp)
+    print(df_nlp.head())
+
+    feature_importance(best_model_nlp,  X_train_v, X_test_v, y_train, y_test)
