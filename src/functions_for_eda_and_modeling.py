@@ -10,7 +10,9 @@ from collections import Counter
 from sklearn.preprocessing import StandardScaler
 from sklearn import tree
 import matplotlib.pyplot as plt
+import seaborn as sns
 plt.style.use('ggplot')
+
 
 def plot_bar(column_to_compare, df, ax):
     """
@@ -187,6 +189,11 @@ def scaler(X_train, X_test):
     Returns:
         scaler, X_train_scaled, X_test_scaled: scaler returned in case need to inverse_transform
     """
+
+    # check if there are any non-numerical columns to drop
+    categorical_cols = [f for f in X_train.columns if X_train.dtypes[f] == 'object']
+    X_train = X_train.drop(categorical_cols, axis = 1)
+    X_test = X_test.drop(categorical_cols, axis = 1)
     columns = list(X_train.columns)
     scaler = StandardScaler()
     X_train_scaled = scaler.fit_transform(X_train)
@@ -214,10 +221,7 @@ def model_selection(X_train, y_train, model, model_params, cv_param = 5, scoring
         tuned_model[list]: list of best models from grid search
         f1_score[list]: list of corresponding f1_scores
     """
-    # check if there are any non-numerical columns to drop
-    categorical_cols = [f for f in X_train.columns if X_train.dtypes[f] == 'object']
-    X_train = X_train.drop(categorical_cols, axis = 1)
-    # X_test = X_test.drop(categorical_cols, axis = 1)
+ 
 
     # Perform Grid Search across params
     grdsearch_models = GridSearchCV(model, model_params, cv= cv_param, n_jobs = -1 ,  scoring = scoring_param, verbose = True)
@@ -364,186 +368,3 @@ def plot_precision_recall(ax, df):
     ax.plot([0,1],[df.precision[0],df.precision[0]], 'k', label='random')
     ax.set_xlim(xmin=0,xmax=1)
     ax.set_ylim(ymin=0,ymax=1)
-    
-if __name__ == "__main__":
-    df = pd.read_csv('data/df_modeling.csv', index_col = 0)
-
-
-    cols = ['petitioner_wins', 'talk_time_petitioner', 
-       'interruptions_petitioner', 
-       'talk_time_petitioner_justice', 
-       'questions_petitioner_justice', 
-       'talk_time_respondent', 'interruptions_respondent',
-       'talk_time_respondent_justice',
-       'questions_respondent_justice',
-       'questions_diff',
-       'interruptions_diff', 'talk_time_lawyers_diff',
-       'talk_time_judges_diff']
-    
-    # Graph variables listed above and split them into 5 bins and then find avg Petitioner Win Rate by each Bin
-    fig, axs = plt.subplots(4,3, figsize = (20,15))
-    for i, ax in enumerate(axs.flatten()):
-        column_to_compare = cols[i+1]
-        plot_bar(column_to_compare, df,ax)
-    plt.tight_layout()
-
-    
-    # Find total words, avg words per argument, and unique words per argument for each type of speaker direction
-    dict_of_word_counts = find_words_per_argument(df)
-
-    ##### Modeling - Numerical ##### 
-    df_model = df.copy()
-    cols_to_include = ['petitioner_wins', 'corpus_petitioner','talk_time_petitioner', 'words_petitioner',
-        'interruptions_petitioner', 
-        'talk_time_petitioner_justice', 'words_petitioner_justice',
-        'questions_petitioner_justice', 
-        'talk_time_respondent', 'words_respondent', 'interruptions_respondent',
-        'talk_time_respondent_justice',
-        'words_respondent_justice', 'questions_respondent_justice',
-        'talk_time_amicus_neutral',
-        'words_amicus_neutral', 'interruptions_amicus_neutral',
-        'talk_time_amicus_neutral_justice',
-        'words_amicus_neutral_justice', 'questions_amicus_neutral_justice',
-        'talk_time_amicus_petitioner',
-        'words_amicus_petitioner', 'interruptions_amicus_petitioner',
-        'talk_time_amicus_petitioner_justice',
-        'words_amicus_petitioner_justice',
-        'questions_amicus_petitioner_justice',
-        'talk_time_amicus_respondent',
-        'words_amicus_respondent', 'interruptions_amicus_respondent',
-        'talk_time_amicus_respondent_justice',
-        'words_amicus_respondent_justice',
-        'questions_amicus_respondent_justice',
-        'questions_diff',
-        'interruptions_diff', 'talk_time_lawyers_diff',
-        'talk_time_judges_diff']
-
-    # Train - Test Split on numerical cols
-    X_train, X_test, y_train, y_test = train_validation_split(df_model, cols_to_include, label = 'petitioner_wins')
-
-    # Train - Test Split for tf-id features
-    X_train_v, X_test_v = create_tfid_features(X_train, X_test, cols_to_vectorize = 'corpus_petitioner', max_features = 5000)
-
-    # Scale Features
-    scaler_object, X_train_scaled, X_test_scaled = scaler(X_train, X_test)
-
-    # Run Grid Search
-
-    models_lst = [
-            LogisticRegression(max_iter=10000), 
-            RandomForestClassifier(), 
-            GradientBoostingClassifier()
-            # ,XGBClassifier()
-             ]
-
-
-    model_params_lst = [ 
-    {'C': [0.001, 0.01, 0.1, 1, 10, 100],
-    'solver' : ['newton-cg', 'lbfgs', 'liblinear'],
-    'random_state': [42]},
-    
-    {'n_estimators': [100,200,500,1000],
-    'max_features': ['sqrt', 0.25,.50,None],
-    'min_samples_split': [5, 10, 50],        
-    'min_samples_leaf': [5, 10, 50],
-    'max_depth': [3, None],
-    'bootstrap': [True, False],    
-    'random_state': [42]},
-
-   {'n_estimators': [100,200,500,1000],
-    'learning_rate': [0.1, 0.05, .01],
-    'max_features': ['sqrt', 0.25,.50,None],
-    'min_samples_split': [5, 10, 50],        
-    'min_samples_leaf': [5, 10, 50],
-    'max_depth': [3, None],  
-    'random_state': [42]}
-
-    # ,{'n_estimators': [100,200,500,1000],
-    # 'learning_rate': [0.1, 0.05, .01],
-    # 'max_depth': [3, 6, 10],  
-    # 'min_child_weight': [3,6,10],  
-    # 'objective': ['binary:logistic'],
-    # 'gamma':[i/10.0 for i in range(0,5)],
-    # 'eval_metric' : ['auc'],
-    # 'nthread' : [4],
-    # 'random_state': [42]}
-    ]
-
-    tuned_models = []
-    f1_scores = []
-
-
-    for model, model_params in zip(models_lst, model_params_lst):
-        print(model)
-        print(model_params)
-        tuned_model, f1_score = model_selection(X_train_scaled, y_train, model, model_params, cv_param = 5, scoring_param = 'f1' )
-        tuned_models.append(tuned_model)
-        f1_scores.append(f1_score)
-    
-    index_of_max_f1 = np.argmax(f1_scores)
-    best_model = tuned_models[index_of_max_f1]
-
-    df  = test_evaluation(X_train_scaled, X_test_scaled, y_train, y_test, best_model)
-    print(df.head())
-    
-    plot_one_decision_tree(best_model, X_train_scaled)
-    feature_importance(best_model,  X_train_scaled, X_test_scaled, y_train, y_test)
-
-    predicted_probas = best_model.predict_proba(X_test_scaled)
-    df_confusion_matrix = calculate_threshold_values(y_test, probas[:,1])
-
-    fig, ax = plt.subplots(figsize  = (14,8))
-    plot_precision_recall(ax, df)
-    plt.plot()
-
-
-
-    ##### Modeling - NLP ##### 
-
-    models_lst = [
-            LogisticRegression(max_iter=10000), 
-              RandomForestClassifier(), GradientBoostingClassifier()]
-
-    #Initial List
-    model_params_lst = [ 
-    {'C': [1],
-    'solver' : ['lbfgs'],
-    'random_state': [42],
-    'n_jobs' : [-1]},
-    
-    {'n_estimators': [100], 
-#     'max_features': ['sqrt', 0.25,.50,None],
-#     'min_samples_split': [5, 10, 50],        
-#     'min_samples_leaf': [5, 10, 50],
-#     'max_depth': [3, None],
-#     'bootstrap': [True, False],
-     'n_jobs' : [-1],
-    'random_state': [42]},
-
-   {'n_estimators': [100],
-#     'learning_rate': [0.1, 0.05, .01],
-#     'max_features': [None],
-#     'min_samples_split': [5, 10, 50],        
-#     'min_samples_leaf': [5, 10, 50],
-#     'max_depth': [3, None],  
-    'random_state': [42]}
-    ]
-
-    tuned_models_nlp = []
-    f1_scores_nlp = []
-
-
-    for model, model_params in zip(models_lst, model_params_lst):
-        print(model)
-        print(model_params)
-        tuned_model, f1_score = model_selection(X_train_v, y_train, model, model_params, cv_param = 3, scoring_param = 'f1' )
-        tuned_models_nlp.append(tuned_model)
-        f1_scores_nlp.append(f1_score)
-    
-    index_of_max_f1_nlp = np.argmax(f1_scores_nlp)
-    best_model_nlp = tuned_models[index_of_max_f1_nlp]
-
-    df_nlp  = test_evaluation(X_train_v, X_test_v, y_train, y_test, best_model_nlp)
-    print(df_nlp.head())
-
-    feature_importance(best_model_nlp,  X_train_v, X_test_v, y_train, y_test)
