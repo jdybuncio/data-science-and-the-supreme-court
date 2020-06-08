@@ -21,6 +21,7 @@ This project processes transcribed data from oral arguments to create models whi
   - [Hyperparameter Tuning](#feature-importance)
   - [Results and Interpretation](#results-and-interpretation)
 - [Conclusion](#conclusion)
+- [Sources](#sources)
 
 # Introduction
 
@@ -99,6 +100,11 @@ The following depicts the structure in how I parse the transcripts of oral argum
 
 I hypothesize that, using data just from oral arguments, I will be able to create a prediction model for if the Petitioner Wins a case which can beat a Petitioner always wins strategy. There have been some studies, based on smaller datasets, which show that the side which receives more questions tends to lose more which makes me hopeful I can find some signal [source](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1373965)
 
+An ability to predict the outcome of a Supreme Court Case is helpful from two vantage points:
+1) If I can interpolate inference, the findings could influence a Petitioner's Strategy during oral arguments
+2) Since there are usually 3 months between an Oral Argument and a Decision, a prediction as to one's probability of winning can influence their strategy during this waiting period. For example, if one side find that they are predicted to lose, they could invest more in puting materials out there, such as Op-Eds, to try to influence the narrative.
+
+
 [Back to Top](#Table-of-Contents)
 
 # Exploratory Data Analysis Highlights
@@ -127,7 +133,7 @@ While I convert transcripts to numerical data, I also conserved the transcriptio
 * **20 most frequent words found**
 
 <p align="center">
-  <img src="images/frequent_words.png" height = 200>
+  <img src="images/frequent_words.png" height = 300>
 </p>
 
 [Back to Top](#Table-of-Contents)
@@ -201,7 +207,8 @@ My best model is not very different than a Petitioner always wins strategy and, 
 
 # Conclusion
 
-> The secret to successful advocacy, is simply to get the court to ask your opponent more questions.” - Chief Justice Roberts
+> The secret to successful advocacy, is simply to get the court to ask your opponent more questions.” 
+- Chief Justice Roberts [source](https://www.nytimes.com/2009/05/26/us/26bar.html?smid=nytcore-ios-share)
 
 There is a belief, that was even echoed by the current Chief Justice, although playfully,that the difference in questions one side receives relative to another is a predictor of a Supreme Court Case's outcome. The work in this repository does not find this to be the case. I find that the largest predictor of a Supreme Court Case's outcome is which side brings the case to the Court which logically fits due to the nature that doing so requires 4 votes by the Justices to be Granted, and then only 5 votes to end up winning the Case.
 
@@ -209,3 +216,11 @@ The dataset I used only consists of Oral Arguments which is limiting given that 
 
 [Back to Top](#Table-of-Contents)
 
+
+# Sources
+
+* JSON files for Case Data and Oral Argument Transcriptions come from Oyez.org
+* I retrieved these files using the following github repository: https://github.com/walkerdb/supreme_court_transcripts
+
+
+[Back to Top](#Table-of-Contents)
