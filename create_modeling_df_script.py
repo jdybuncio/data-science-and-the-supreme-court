@@ -7,7 +7,7 @@ import numpy as np
 import json
 import os
 
-from src.functions_to_create_case_dfs import case_detail_parser, number_cases, concat_case_details,create_df_with_label,create_case_dataframe,create_judge_votes_dataframe,create_advocate_dataframe
+from ../src.functions_to_create_case_dfs import case_detail_parser, number_cases, concat_case_details,create_df_with_label,create_case_dataframe,create_judge_votes_dataframe,create_advocate_dataframe
 from src.functions_to_create_transcript_dfs import transcript_parser, section_label_generator, create_section_map_df, create_dfs_per_speaking_party, add_labels_to_df, get_features, generate_features_for_model_df
 
 
@@ -77,6 +77,22 @@ if __name__ == "__main__":
     #########################################################
     ### Merge to create dataframe, with features, for modeling ###
     ########################################################## 
-    df_modeling = pd.merge(df_cases, df_data, how = 'inner', on = 'file_name')
-    df_modeling.to_csv('./data/df_modeling.csv')
+    df = pd.merge(df_cases, df_data, how = 'inner', on = 'file_name')
+
+    #want to remove cases where petitioner and respondent both do not talk
+    mask = (df.words_petitioner != 0) & (df.words_respondent != 0) & (df.words_petitioner_justice != 0) & (df.words_respondent_justice != 0) & (df.words_respondent_justice != 0)
+    df = df[mask]
+
+    #Create cols
+    df['questions_diff'] = df.questions_petitioner_justice - df.questions_respondent_justice
+    df['interruptions_diff'] = df.interruptions_petitioner - df.interruptions_respondent
+    df['talk_time_lawyers_diff'] = df.talk_time_petitioner - df.talk_time_respondent
+    df['talk_time_judges_diff'] = df.talk_time_petitioner_justice - df.talk_time_respondent_justice
+
+    #remove 4 outliers
+    df = df.drop(df[df['talk_time_petitioner']/60 > 300].index)
+    df = df.drop(df[df['talk_time_petitioner_justice']/60 > 100].index)
+    df = df.drop(df[df['talk_time_respondent_justice']/60 > 70].index)
+
+    df.to_csv('./data/df_modeling.csv')
     print(f'Successfully created df_modeling in data directory. There are {len(df_modeling)} rows')
