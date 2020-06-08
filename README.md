@@ -13,7 +13,7 @@ This project processes transcribed data from oral arguments to create models whi
   - [Directory Structure and Replication](#directory-structure-and-replication)
   - [Supreme Court Intro](#supreme-court-intro)
   - [The Data](#the-data)
-  - [Question and Hypothesis](#question-and-hypothesis)
+  - [Hypothesis](#hypothesis)
 - [Exploratory Data Analysis](#exploratory-data-analysis-highlights)
 - [Model Selection](#model-selection)
   - [Test Metric](#test-metric)
@@ -52,52 +52,60 @@ This will create the dataframe I used for modeling and identify the best predict
 
 Required Packages: Python 3, pandas, numpy, json, os, sklearn, collections, seaborn, matplotlib, tensorflow
 
+[Back to Top](#Table-of-Contents)
 
 ## Supreme Court Intro
 
-Cases come to the Supreme Court in two ways: cases in which the court has Original Jurisdiction, which are those involving  Ambassadors, Public Ministers, and States, and cases in which the court has Ultimate Appellate Jurisdiction, which are those stemming from appeals to decisions made by the lower courts. The Court discusses cases during their weekly Conferences and take on cases when 4 of the 9 judges agree to hear a case. 
+Cases come to the Supreme Court in two ways: cases in which the court has Original Jurisdiction, which are those involving  Ambassadors, Public Ministers, and States, and cases in which the court has Ultimate Appellate Jurisdiction, which are those stemming from appeals to decisions made by the lower courts. The Court discusses cases during their weekly Conferences and take on cases when 4 out of the 9 judges agree to hear a case. 
 
-* Timeline of a Case
+* **Timeline of a Supreme Court Case**
 <p align="center">
   <img src="images/timeline.png" width = 600>
 </p>
 
-* Parties involved in a Case
+* **Parties involved in a Supreme Court Case**
 <p align="center">
   <img src="images/parties.png" width = 400>
 </p>
 
 Supreme Court cases consist of:
-* A Petitioner - the side which brought the case to the court
-* A Respondent - the side responding to the Petitioner's appeal
+* A Petitioner - the side which brings the case to the court
+* A Respondent - the side responding to the Petitioner
 * The Justices - the 9 Supreme Court Justices who make up the Court
 
-Once a case is Granted, there is usually around 160 days before it is argued in front of the Supreme Court. In this in-between time period, both sides of the case can submit written briefings which have page limits. Oral Arguments are then heard, with each side given a chance to talk and answer questions from the Justices. These are timed sessions which usually are 1 hour, and the two sides never address one another. The most common structure is for the Petitioner to address the court and answer questions from the Justices. The Respondent is then given an opportunity to do the same. And then the Petitioner usually is given a chance to rebuttal. After oral arguments, the case, as well as others, are discussed during the Court's Weekly Conferences and, though it varies a good amount, Decisions are read on average 90 days after a case is argued.
+Once a case is Granted, there is usually around 160 days before it is argued in front of the Supreme Court. In this in-between time period, both sides of the case submit written briefings which have page limits. Oral Arguments are then heard with each side given a chance to make their argument and answer questions from the Justices. These are timed sessions which usually last for 1 hour. The most common structure is for the Petitioner to address the Justices and answer questions. The Respondent is then given an opportunity to do the same. And then the Petitioner usually is given a chance to rebuttal directly to the Justices. The Petitioner and Respondent do not address one another. After oral arguments, the case is discussed during the Court's Weekly Conferences and, though it varies, Decisions are given around 90 days after a case is argued.
 
 
 [Back to Top](#Table-of-Contents)
 
 ## The Data
 
-<p align="center">
-  <img src="images/histogram_cases.png" width = 400>>=
-</p>
+The dataset I use consists of over 6,000 Supreme Court Cases with transcribed oral arguments dating back to 1955. After removing cases which have missing data, and only looking at Cases which have one oral argument, I am left with a sample of 5,567 Supreme Court Cases. The distirbutuon of cases by Year is shown in the following histogram. The decrease in Cases per Year which starts in 1988 is due to the passing of the Supreme Court Case Selections Act which gave the court additional discretion of the cases they choose to take/pass.
 
 <p align="center">
-  <img src="images/dataframe_workflow.png" width = 400>
+  <img src="images/histogram_cases.png" width = 500>
 </p>
+
+The following depicts the structure in how I parse the transcriptions of oral arguments into numerical data, such as the number of words, questions, interruptions, and total talk time each party has. I used the Case level data to find labels for both the speakers - so I can identify when the Petitioner, Respondent, or Justice is speaking, and who they are speaking to - also for which side wins the case.
+
+<p align="center">
+  <img src="images/dataframe_workflow.png" width = 600>
+</p>
+
 
 [Back to Top](#Table-of-Contents)
 
-## Question and Hypothesis
+## Hypothesis
 
-
-
+I hypothesize that, using data just from oral arguments, I will be able to create a prediction model for if the Petitioner Wins a case which can beat a Petitioner always wins strategy. There have been some studies, based on smaller datasets, which show that the side which receives more questions tends to lose more which makes me hopeful I can find some signal [source](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1373965)
 
 [Back to Top](#Table-of-Contents)
+
 # Exploratory Data Analysis Highlights
 
-* **Leakage Considered**
+The Petitioner wins in 63% of the Cases I have in my sample, and the Respondent wins in 37% of cases. This follows in-line with what is known. This is logical given that a Case, which the Petitioner brings to the Court, requires 4 votes by the Justices to be Granted and then only 5 votes to have the majority and win the case - though a lot can happen from the time a case is granted and there are several examples of a Petitioner getting no votes when the Decision comes. 
+
+Due to this imbalance, I make sure to stratify my data when I apply a Train-Test split to maintain this same class balance in my Train and Test sets.
 
 * **Class Balance**
 
@@ -105,30 +113,37 @@ Once a case is Granted, there is usually around 160 days before it is argued in 
   <img src="images/class_balance.png" width = 400>
 </p>
 
-* **Relationships to Pass/Fail Rates across some demographic variables**
+
+The following two graphs take the difference in Questions and Interruptions by the Justices to the Petitioner and to the Respondent and assigns each case to one of five buckets. The graphs show the Petitioner Win Rate % in each of these buckets. For example, Petitioners who received between 14 and 127 more questions than the Respondent won 51% of cases, which is relative to a win rate of 73% for Petitioners who received 13 or less questions that the Respondent.
+
+* **Relationships to Petitioner Winning Rates across some demographic variables**
 
 <p align="center">
   <img src="images/EDA_Diff_Questions.png" width = 400>
 </p>
 
+While I convert transcripts to numerical data, I also conserved the transcriptions to be able to apply NLP and LSTM techniques. The following shows the 20 most frequent words used in oral arguments after removing Stop Words. The <OOV> is a catch call for words outside of the 10,000 most-used ones.
+
+* **20 most frequent words found**
 
 <p align="center">
   <img src="images/frequent_words.png" height = 200>
 </p>
 
 [Back to Top](#Table-of-Contents)
+
 # Model Selection
 
 ## Test Metric
 
-The metric I chose to evaluate my models was to optimize the **AUC** (area-under-the-curve) since I want to:
-* Maximize the TPR: Predict maximum % students who Fail.
-* Minimize the FPR: Minimize the % of students predicted to fail who Pass since doing so minimizes potential intervention costs.
+The metric I chose to evaluate my models was to optimize the **F1-Score** since I care more about the positive class and want to:
+* Maximize Recall: Predict maximum % of Cases where the Petitioner Wins
+* Maxmize Precision: Maximize the % predicted Petitioner Wins actually are cases in which the Petitioner Wins
 
 [Back to Top](#Table-of-Contents)
 
 ## Model Evaluation
-I used Cross Validation to evaluate the AUC of each of my models in order to direct my hyperparameter tuning and feature selection. 
+I used Cross Validation to evaluate the F1 of each of my models in order to direct my hyperparameter tuning and feature selection. 
 
 I also used SKLearn's GridSearch to find the best values for the hyperparameters in my Random Forest and Boosting models.
 
