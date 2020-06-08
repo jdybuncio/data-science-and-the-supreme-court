@@ -37,57 +37,64 @@ The master branch also has a modeling_notebook repository which contains a pytho
 ## Other
 
 <p align="center">
-  <img src="images/class_balance.png">
+  <img src="images/timeline.png" width = 400>>
 </p>
 
 <p align="center">
-  <img src="images/EDA_Diff_Questions.png">
-</p>
-
-<p align="center">
-  <img src="images/dataframe_workflow.png">
-</p>
-
-<p align="center">
-  <img src="images/frequent_words.png">
-</p>
-
-<p align="center">
-  <img src="images/grid_search.png">
-</p>
-
-<p align="center">
-  <img src="images/parties.png">
-</p>
-
-<p align="center">
-  <img src="images/histogram_cases.png">
-</p>
-
-<p align="center">
-  <img src="images/final_results_table.png">
-</p>
-
-<p align="center">
-  <img src="images/final_results.png">
-</p>
-
-<p align="center">
-  <img src="images/feature_importance.png">
+  <img src="images/parties.png" width = 400>>
 </p>
 
 
 <p align="center">
-  <img src="images/timeline.png">
+  <img src="images/histogram_cases.png" width = 400>>
 </p>
 
 <p align="center">
-  <img src="images/precision_recall_curve.png">
+  <img src="images/dataframe_workflow.png" width = 400>>
 </p>
 
 <p align="center">
-  <img src="images/word_frequency.png">
+  <img src="images/class_balance.png" width = 400>>
 </p>
+
+<p align="center">
+  <img src="images/EDA_Diff_Questions.png" width = 400>>
+</p>
+
+<p align="center">
+  <img src="images/frequent_words.png" width = 400>>
+</p>
+
+
+<p align="center">
+  <img src="images/grid_search.png" width = 400>>
+</p>
+
+
+<p align="center">
+  <img src="images/precision_recall_curve.png" width = 400>>
+</p>
+
+
+<p align="center">
+  <img src="images/final_results_table.png" width = 400>>
+</p>
+
+<p align="center">
+  <img src="images/final_results.png" width = 400>>
+</p>
+
+<p align="center">
+  <img src="images/feature_importance.png" width = 400>>
+</p>
+
+
+<p align="center">
+  <img src="images/word_frequency.png" width = 400>>
+</p>
+
+
+
 
 
 
