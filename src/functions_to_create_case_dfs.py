@@ -23,7 +23,7 @@ def case_detail_parser(file_name):
     if os.path.exists('./data/case_csvs/' + path_to_check):
         return None #no need to run if file already exists locally
 
-    with open('cases/'+file_name) as f:
+    with open('./data/cases/'+file_name) as f:
         contents = json.load(f)
         
     d = {}
