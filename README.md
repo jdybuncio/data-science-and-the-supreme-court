@@ -21,6 +21,7 @@ This project processes the transcribed data from oral arguments in various ways,
   - [Hyperparameter Tuning](#feature-importance)
   - [Results and Interpretation](#results-and-interpretation)
 - [Conclusion](#conclusion)
+- [Current Justice Specific Findings](#current-court)
 - [Sources](#sources)
 
 # Introduction
@@ -52,6 +53,7 @@ python create_df_and_fit_models_script.py
 This will create the dataframe I used for modeling and identify the best prediction model given the data provided. An example of what the modeling dataframe looks like is in the data directory.
 
 System Requirements: Python 3.7.3
+
 Required Libraries: Pandas, numpy, json, os, sklearn, collections, seaborn, matplotlib, and tensorflow
 
 [Back to Top](#Table-of-Contents)
@@ -133,7 +135,7 @@ The following graph takes the difference in the amount Questions by the Justices
   <img src="images/Wordclouds.png" width = 600>
 </p>
 
-While I convert the transcripts of oral arguments to numerical data, I also conserved the transcriptions to be able to create NLP featues. The above shows the 100 most frequent used words using size to put their use relative to one another. I excluded stop words (exs: "a", "but", "how", etc.) and also performed lemmatization which combines words which are the same aside from a different inflectional ending. As the two world clouds show above, the most frequent used words don't seem to have a lot of meaning I can use to predict the outcome of a case. There are a lot of generic terms such as, "court", "honor", and "case." This informs the use of creating tf-idf features to try to find if certain words are important in a given oral argument with respect to all all of them.
+While I convert the transcripts of oral arguments to numerical data, I also conserved the transcriptions to be able to create NLP featues. The above shows the 100 most frequent used words using size to put their use relative to one another. I excluded stop words (exs: "a", "but", "how", etc.) and also performed lemmatization which combines words which are the same aside from a different inflectional ending. As the two world clouds show above, the most frequent used words don't seem to have a lot of meaning I can use to predict the outcome of a case. There are a lot of generic terms such as, "court", "honor", and "case." This informs my use of creating tf-idf features to try to find if certain words are important in a given oral argument with respect to all of them.
 
 [Back to Top](#Table-of-Contents)
 
@@ -185,7 +187,7 @@ Below shows the Top 10 Features measured using SKLearn's feature importance from
   <img src="images/precision_recall_curve.png" width = 600>
 </p>
 
-* Final Results broken down into its parts
+* Final Results broken down into its parts from final predictions (ex: Number of True Positives, True Negatives, False Positives, etc.)
 
 <p align="center">
   <img src="images/final_results.png" heigh = 600>
@@ -195,7 +197,8 @@ From my best Random Forest model, at a **threshold of 0.51**, I have:
 * Recall - the percentage of Petitioner wins that I accurately predict, to be **0.96**. 
 * Precision -  the percentage of Petitioner Win predictions are actually cases where they Win, to be **0.66**
 
-My best model is not very different than a Petitioner always wins strategy and, in the end, my model's F1-Score was equal to that of a Petitioner always Wins strategy when used to predict the outcomes of my Test Data.
+My best model is not very different than a Petitioner always wins strategy and, in the end, my model's F1-Score was equal to that of a Petitioner always Wins strategy when used to predict the outcomes of my Test Data. In some respects this is not surprising given that cases span a wide array of issues and Petitioner's tend to represent various sides to a case. Their role is not specific to a specific stance consistently across cases. I also had a limited sample of 6,000 cases which is an explanation for why I did not find any signal in my LSTM models which were either stuck overfitting or could not fit at all. 
+
 
 [Back to Top](#Table-of-Contents)
 
@@ -225,6 +228,22 @@ or
 The dataset I used only consists of Oral Arguments which is limiting given that they are usually 1 hour timed sessions, and a lot about a case is decided outside of the room during that time. It is appealing to try to leverage this data in some way given its publicly available nature of an otherwise, opaque process.  In terms of future work, I would like to supplement this datasource by adding features which come from the decisions made by the lower court's and also a classification as to the category the case fits into and which side the Petitioner is representing.
 
 [Back to Top](#Table-of-Contents)
+
+# Current Court
+
+While the dataset I created has some drawbacks as previously mentioned, it also has other applications. Below are some highlights I was able to find on the 9 current Supreme Court Justices. The first graph shows the percent of time each justice votes for the Petitioner side in cases in which they vote, and next to it is the outcome of the best model I could come up when optimized for Accuracy to add to the existing literature and form out there. It is not the biggest surprise that I was best able to gain the most signal in predicting Sonia Sotomayor's vote since she tends to make the most interruptions across cases.
+
+* **Parties involved in a Supreme Court Case**
+<p align="center">
+  <img src="images/justice_vote_predictions.png" width = 400>
+</p>
+
+The second graph shows how often the Justices vote in lock step with another. This shows the clear split between the 5 Justices who were appointed by Republic Presidents and the 4 who were appointed by Democrat Presidents.
+
+* **Parties involved in a Supreme Court Case**
+<p align="center">
+  <img src="images/vote_similarities.png" width = 800>
+</p>
 
 
 # Sources
